@@ -1,0 +1,85 @@
+---
+document_datetime: 2025-05-27 11:25:40
+document_pages: 7
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/ranivisio-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
+document_name: ranivisio-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
+version: success
+processing_time: 4.366866
+conversion_datetime: 2025-12-14 21:56:19.677981
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+---
+## Ranivisio
+
+Procedural steps taken and scientific information after the authorisation
+
+| Application number   | Scope                                                                                                                                                                                                     | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| II/0017/G            | This was an application for a group of variations. B.II.d.2.a - Change in test procedure for the finished product - Minor changes to an approved test procedure B.II.b.1.z - Replacement or addition of a | 10/04/2025                          |                                             | SmPC, Labelling and PL           |           |
+
+1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
+
+2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The
+
+CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
+
+3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+| manufacturing site for B.II.b.2.a - Change to arrangements and quality Replacement/addition control/testing takes place B.II.b.2.a - Change to arrangements and quality Replacement/addition control/testing takes place B.II.b.2.a - Change to arrangements and quality Replacement/addition control/testing takes place B.II.b.2.a - Change to arrangements and quality Replacement/addition control/testing takes place B.II.f.1.a.1 - Stability life of the finished product B.II.e.6.a - Change in packaging material not product formulation - Change product information B.II.d.1.c - Change in and/or limits of the finished new specification parameter its corresponding test B.II.d.1.c - Change in and/or limits of the finished new specification parameter its corresponding test   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+| and/or limits of the finished new specification parameter its corresponding test method B.II.d.1.c - Change in the and/or limits of the finished new specification parameter its corresponding test method B.II.d.1.c - Change in the and/or limits of the finished new specification parameter its corresponding test method B.II.d.1.c - Change in the and/or limits of the finished new specification parameter its corresponding test method B.II.b.3.c - Change in the the finished or intermediate a biological/immunological change requires an assessment B.II.b.1.c - Replacement manufacturing site for the manufacturing operation(s) release/control, and secondary biol/immunol medicinal forms manufactured by processes B.II.b.1.c - Replacement manufacturing site for the manufacturing operation(s) release/control, and secondary biol/immunol medicinal   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+|           | processes B.II.e.1.b.2 - Change in immediate packaging of the finished product - Change in type/addition of a new container - Sterile medicinal products and biological/immunological medicinal products                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |            |     |               |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|---------------|
+| IA/0018/G | This was an application for a group of variations. B.I.a.4.a - Change to in-process tests or limits applied during the manufacture of the AS - Tightening of in-process limits A.7 - Administrative change - Deletion of manufacturing sites A.5.b - Administrative change - Change in the name and/or address of a manufacturer/importer of the finished product, including quality control sites (excluding manufacturer for batch release) A.4 - Administrative change - Change in the name and/or address of a manufacturer or an ASMF holder or supplier of the AS, starting material, reagent or intermediate used in the manufacture of the AS or manufacturer of a novel excipient | 11/12/2024 | n/a |               |
+| IB/0016   | B.II.d.1.a - Change in the specification parameters and/or limits of the finished product - Tightening of specification limits                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 13/09/2024 | n/a |               |
+| II/0015/G | This was an application for a group of variations. B.II.d.1.a - Change in the specification parameters and/or limits of the finished product - Tightening of limits                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 25/07/2024 | n/a | specification |
+
+<div style=\"page-break-after: always\"></div>
+
+|         | - Change in the specification parameters and/or limits of the finished product - Tightening of specification limits B.II.d.1.e - Change in the specification parameters and/or limits of the finished product - Change outside the approved specifications limits range B.I.b.1.b - Change in the specification parameters and/or limits of an AS, starting material/intermediate/reagent - Tightening of specification limits B.I.a.4.a - Change to in-process tests or limits applied during the manufacture of the AS - Tightening of in-process limits   |            |     |    | B.II.d.1.a   |
+|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|----|--------------|
+| IB/0014 | B.I.a.2.z - Changes in the manufacturing process of the AS - Other variation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 06/12/2023 | n/a |    |              |
+| N/0013  | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification)                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 12/10/2023 |     | PL |              |
+| IB/0011 | B.II.g.5.c - Implementation of changes foreseen in an approved change management protocol - For a biological/immunological medicinal product                                                                                                                                                                                                                                                                                                                                                                                                                 | 05/10/2023 | n/a |    |              |
+| II/0006 | B.II.b.2.b - Change to importer, batch release arrangements and quality control testing of the FP - Replacement/addition of a site where batch control/testing takes place for a biol/immunol product and any of the test methods at the site is a biol/immunol method                                                                                                                                                                                                                                                                                       | 05/10/2023 | n/a |    |              |
+
+<div style=\"page-break-after: always\"></div>
+
+| II/0005            | B.I.a.1.j - Change in the manufacturer of AS or of a starting material/reagent/intermediate for AS - Replacement or addition of a site where batch control/testing takes place and any of the test method at the site is a biol/immunol method   | 05/10/2023   | n/a        |             |                                   |
+|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------|-------------|-----------------------------------|
+| IAIN/0012          | B.II.b.1.a - Replacement or addition of a manufacturing site for the FP - Secondary packaging site                                                                                                                                               | 11/09/2023   | n/a        |             |                                   |
+| IB/0009            | B.IV.1.a.1 - Change of a measuring or administration device - Addition or replacement of a device which is not an integrated part of the primary packaging - Device with CE marking                                                              | 31/08/2023   | 22/09/2023 | SmPC and PL |                                   |
+| II/0008            | B.I.a.4.e - Change to in-process tests or limits applied during the manufacture of the AS - Deletion of an in-process test which may have a significant effect on the overall quality of the AS                                                  | 31/08/2023   | n/a        |             |                                   |
+| IB/0010            | B.I.b.2.e - Change in test procedure for AS or starting material/reagent/intermediate - Other changes to a test procedure (including replacement or addition) for the AS or a starting material/intermediate                                     | 28/07/2023   | n/a        |             |                                   |
+| PSUSA/2609/ 202210 | Periodic Safety Update EU Single assessment - ranibizumab                                                                                                                                                                                        | 12/05/2023   | n/a        |             | PRAC Recommendation - maintenance |
+| IB/0004            | B.I.b.2.a - Change in test procedure for AS or starting material/reagent/intermediate - Minor changes to an approved test procedure                                                                                                              | 20/04/2023   | n/a        |             |                                   |
+
+<div style=\"page-break-after: always\"></div>
+
+| IB/0003   | C.I.2.a - Change in the SPC, Labelling or PL of a generic/hybrid/biosimilar products following assessment of the same change for the reference product - Implementation of change(s) for which NO new additional data is required to be submitted by   | 24/01/2023   | 22/09/2023   | SmPC and PL           | the MAH   |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|-----------------------|-----------|
+| IAIN/0001 | B.II.b.2.c.1 - Change to importer, batch release arrangements and quality control testing of the FP - Replacement or addition of a manufacturer responsible for importation and/or batch release - Not including batch control/testing                 | 04/10/2022   | 22/09/2023   | SmPC, Annex II and PL |           |

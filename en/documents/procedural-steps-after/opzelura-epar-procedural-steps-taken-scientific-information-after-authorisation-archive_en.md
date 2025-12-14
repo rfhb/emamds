@@ -1,0 +1,46 @@
+---
+document_datetime: 2023-12-04 18:01:06
+document_pages: 3
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/opzelura-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
+document_name: opzelura-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
+version: success
+processing_time: 2.3870883
+conversion_datetime: 2025-12-14 22:27:30.120508
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+---
+## Opzelura
+
+Procedural steps taken and scientific information after the authorisation
+
+| Application number   | Scope                                                                                                                                                                                                                                                                                                            | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                                                                                                                                                                                                                                                                                                                                               |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| II/0003              | Update of sections 4.2, 4.4, 4.8 and 5.1 of the SmPC based on final results from study INCB 18424-308; a Phase III, double-blind, vehicle-controlled, randomised withdrawal and treatment-extension study to assess the long-term efficacy and safety of ruxolitinib cream in participants with vitiligo (TRuE-V | 19/10/2023                          |                                             | SmPC and PL                      | The SmPC of Opzelura was updated based on TRuE-V LTE, a phase 3, double-blind, vehicle-controlled, randomised withdrawal and treatment-extension study of ruxolitinib cream which enrolled 458 eligible patients with vitiligo who had completed either of the parent studies using ruxolitinib (TRuE-V1 and TRuE-V2). SmPC section 4.2 is updated to |
+
+1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
+
+2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
+
+3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+|           | LTE). The Package Leaflet has been updated accordingly. In addition, the MAH took the opportunity to implement editorial changes in the SmPC. C.I.4 - Change(s) in the SPC, Labelling or PL due to new quality, preclinical, clinical or pharmacovigilance data                                                                                                           |            |                        | indicate that once satisfactory repigmentation is achieved, treatment in those areas can be stopped, and that if depigmentation recurs after treatment discontinuation, therapy can be reinitiated on the affected areas. SmPC section 5.1 is updated with efficacy information based on 2- year results of the TRuE-V LTE study, eligible patients (n=458) with vitiligo who had completed either of the parent studies were assigned to either cohort A (n=116) or B (n=342). In cohort A (patients who who reached ≥ F - VASI90 at week 52 of the parent study), a relapse occurred in 15% of patients in the ruxolitinib group and in 29% of patients in the vehicle group. In the latter group, the majority of relapses occurred during the first 4 months after stopping ruxolitinib cream; re-treatment resulted in regained F -VASI75 in 75% patients in a median of 12 weeks and F -VASI90 was regained by 69% patients in a median of 15 weeks. In cohort B (patients who reached < F -VASI90 at week 52 of the parent study), among patients originally ra ndomised to ruxolitinib cream, 66% reached F - VASI75, and 34% reached F -VASI90. No new safety concerns were identified in the long-term extension study   |
+|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| IB/0001/G | This was an application for a group of variations. B.II.e.1.b.1 - Change in immediate packaging of the finished product - Change in type/addition of a new container - Solid, semi-solid and non-sterile liquid pharmaceutical forms B.II.b.3.a - Change in the manufacturing process of the finished or intermediate product - Minor change in the manufacturing process | 21/06/2023 | SmPC, Labelling and PL |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+
+<div style=\"page-break-after: always\"></div>
+
+| B.II.b.1.a - Replacement or addition of a manufacturing site for the FP - Secondary packaging site B.II.b.1.a - Replacement or addition of a manufacturing site for the FP - Secondary packaging site   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

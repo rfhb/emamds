@@ -4,8 +4,8 @@ document_pages: 76
 document_pathfilename: www.ema.europa.eu/en/documents/assessment-report/lusduna-epar-public-assessment-report_en.pdf
 document_name: lusduna-epar-public-assessment-report_en.pdf
 version: success
-processing_time: 60.6268462
-conversion_datetime: 2025-12-14 14:33:33.939472
+processing_time: 60.1807528
+conversion_datetime: 2025-12-14 21:08:38.579007
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

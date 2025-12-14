@@ -1,0 +1,1714 @@
+---
+document_datetime: 2025-10-22 16:04:58
+document_pages: 48
+document_pathfilename: www.ema.europa.eu/en/documents/product-information/bekemv-epar-product-information_en.pdf
+document_name: bekemv-epar-product-information_en.pdf
+version: success
+processing_time: 16.7035654
+conversion_datetime: 2025-12-14 21:28:54.103281
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+---
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+BEKEMV 300 mg concentrate for solution for infusion
+
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+Eculizumab is a humanised monoclonal (IgG 2/4κ ) antibody produced in CHO cell line by recombinant DNA technology.
+
+One vial of 30 mL contains 300 mg of eculizumab (10 mg/mL).
+
+## Excipients with known effect
+
+Each mL of solution contains 50 mg sorbitol. Each vial contains 1 500 mg sorbitol. Each vial contains 3.0 mg of polysorbate 80 (30 mL vial).
+
+For the full list of excipients, see section 6.1.
+
+## 3. PHARMACEUTICAL FORM
+
+Concentrate for solution for infusion.
+
+Clear to opalescent, colourless to slightly yellow, pH 5.2 solution and osmolality of approximately 250 to 350 mOsm/kg.
+
+## 4. CLINICAL PARTICULARS
+
+## 4.1 Therapeutic indications
+
+BEKEMV is indicated in adults and children for the treatment of
+
+- -Paroxysmal nocturnal haemoglobinuria (PNH). Evidence of clinical benefit is demonstrated in patients with haemolysis with clinical symptom(s) indicative of high disease activity, regardless of transfusion history (see section 5.1).
+- -Atypical haemolytic uremic syndrome (aHUS) (see section 5.1).
+
+## 4.2 Posology and method of administration
+
+BEKEMV must be administered by a healthcare professional and under the supervision of a physician experienced in the management of patients with haematological and renal disorders.
+
+Home infusion may be considered for patients who have tolerated infusions well in the clinic. The decision of a patient to receive home infusions should be made after evaluation and recommendation from the treating physician. Home infusions should be performed by a qualified healthcare professional.
+
+<div style=\"page-break-after: always\"></div>
+
+## Posology
+
+## PNH in adults
+
+The PNH dosing regimen for adult patients (≥ 18 years of age) consists of a 4-week initial phase followed by a maintenance phase:
+
+- Initial phase: 600 mg of BEKEMV administered via a 25 -45 minute (35 minutes ± 10 minutes) intravenous infusion every week for the first 4 weeks.
+- Maintenance phase: 900 mg of BEKEMV administered via a 25 -45 minute (35 minutes ± 10 minutes) intravenous infusion for the fifth week, followed by 900 mg of BEKEMV administered via a 25 -45 minute (35 minutes ± 10 minutes) intravenous infusion every 14 ± 2 days (see section 5.1).
+
+## aHUS in adults
+
+The aHUS dosing regimen for adult patients (≥ 18 years of age) consists of a 4-week initial phase followed by a maintenance phase:
+
+- Initial phase: 900 mg of BEKEMV administered via a 25 -45 minutes (35 minutes ± 10 minutes) intravenous infusion every week for the first 4 weeks.
+- Maintenance phase: 1 200 mg of BEKEMV administered via a 25 -45 minute (35 minutes ± 10 minutes) intravenous infusion for the fifth week, followed by 1 200 mg of BEKEMV administered via a 25 -45 minutes (35 minutes ± 10 minutes) intravenous infusion every 14 ± 2 days (see section 5.1).
+
+## Paediatric patients in PNH and aHUS
+
+Paediatric PNH and aHUS patients with body weight ≥ 40 kg are treated with the adult dosing recommendations, respectively.
+
+BEKEMV is contraindicated in children below 2 years of age (see section 4.3).
+
+In paediatric PNH and aHUS patients above 2 years of age and with body weight below 40 kg, the BEKEMV dosing regimen consists of:
+
+| Patient body weight   | Initial phase                       | Maintenance phase                           |
+|-----------------------|-------------------------------------|---------------------------------------------|
+| 30 to < 40 kg         | 600 mg weekly for the first 2 weeks | 900 mg at week 3; then 900 mg every 2 weeks |
+| 20 to < 30 kg         | 600 mg weekly for the first 2 weeks | 600 mg at week 3; then 600 mg every 2 weeks |
+| 10 to < 20 kg         | 600 mg single dose at week 1        | 300 mg at week 2; then 300 mg every 2 weeks |
+| 5 to < 10 kg          | 300 mg single dose at week 1        | 300 mg at week 2; then 300 mg every 3 weeks |
+
+Eculizumab has not been studied in patients with PNH who weigh less than 40 kg. The posology of eculizumab to be used in paediatric patients with PNH weighing less than 40 kg is identical to the weight-based dose recommendation provided for paediatric patients with aHUS. Based on the pharmacokinetic (PK)/pharmacodynamic (PD) data available in patients with aHUS and PNH treated with eculizumab, this body-weight based dose regimen for paediatric patients is expected to result in an efficacy and safety profile similar to that in adults.
+
+<div style=\"page-break-after: always\"></div>
+
+Supplemental dosing of BEKEMV is required in the setting of concomitant PP/PE/PI (plasmapheresis or plasma exchange, or fresh frozen plasma infusion) as described below:
+
+| Type of plasma intervention       | Most recent BEKEMV dose   | Supplemental BEKEMV dose with each PP/PE/PI intervention   | Timing of supplemental BEKEMV dose                             |
+|-----------------------------------|---------------------------|------------------------------------------------------------|----------------------------------------------------------------|
+| Plasmapheresis or plasma exchange | 300 mg                    | 300 mg per each plasmapheresis or plasma exchange session  | Within 60 minutes after each plasmapheresis or plasma exchange |
+| Plasmapheresis or plasma exchange | ≥ 600 mg                  | 600 mg per each plasmapheresis or plasma exchange session  | Within 60 minutes after each plasmapheresis or plasma exchange |
+| Fresh frozen plasma infusion      | ≥ 300 mg                  | 300 mg per infusion of fresh frozen plasma                 | 60 minutes prior to each infusion of fresh frozen plasma       |
+
+Abbreviations: PP/PE/PI = plasmapheresis/plasma exchange/plasma infusion
+
+## Treatment monitoring
+
+aHUS patients should be monitored for signs and symptoms of thrombotic microangiopathy (TMA) (see section 4.4 aHUS laboratory monitoring).
+
+BEKEMV treatment is recommended to continue for the patient's lifetime, unless the discontinuation of BEKEMV is clinically indicated (see section 4.4).
+
+## Special populations
+
+## Elderly
+
+BEKEMV may be administered to patients aged 65 years and over. There is no evidence to suggest that any special precautions are needed when older people are treated -although experience with eculizumab in this patient population is still limited.
+
+## Renal impairment
+
+No dose adjustment is required for patients with renal impairment (see section 5.2).
+
+## Hepatic impairment
+
+The safety and efficacy of BEKEMV have not been studied in patients with hepatic impairment (see section 5.2).
+
+## Method of administration
+
+BEKEMV should not be administered as an intravenous push or bolus injection. BEKEMV should only be administered via intravenous infusion as described below.
+
+For instructions on dilution of the medicinal product before administration, see section 6.6.
+
+The diluted solution of BEKEMV should be administered by intravenous infusion over 25 - 45 minutes (35 minutes ± 10 minutes) in adults and 1 - 4 hours in paediatric patients under 18 years of age via gravity feed, a syringe-type pump, or an infusion pump. It is not necessary to protect the diluted solution of BEKEMV from light during administration to the patient.
+
+Patients should be monitored for one hour following infusion. If an adverse event occurs during the administration of BEKEMV, the infusion may be slowed or stopped at the discretion of the physician.
+
+<div style=\"page-break-after: always\"></div>
+
+If the infusion is slowed, the total infusion time may not exceed two hours in adults and four hours in paediatric patients under 18 years of age.
+
+There is limited safety data supporting home-based infusions, additional precautions in the home setting such as availability of emergency treatment of infusion reactions or anaphylaxis are recommended.
+
+Infusion reactions are described in sections 4.4 and 4.8.
+
+## 4.3 Contraindications
+
+Hypersensitivity to eculizumab or to any of the excipients listed in section 6.1.
+
+BEKEMV is contraindicated in subjects with hereditary fructose intolerance (HFI). Prior to initiating treatment HFI should be excluded on age-appropriate clinical grounds (see section 4.4).
+
+BEKEMV is contraindicated in babies and children below 2 years of age since they may not yet be diagnosed with hereditary fructose intolerance (HFI) (see section 4.4).
+
+BEKEMV therapy must not be initiated in patients (see section 4.4):
+
+- -with unresolved Neisseria meningitidis infection
+- -who are not currently vaccinated against Neisseria meningitidis unless they receive prophylactic treatment with appropriate antibiotics until 2 weeks after vaccination.
+
+## 4.4 Special warnings and precautions for use
+
+BEKEMV is not expected to affect the aplastic component of anaemia in patients with PNH.
+
+## Meningococcal infection
+
+Due to its mechanism of action, the use of BEKEMV increases the patient's susceptibility to meningococcal infection ( Neisseria meningitidis ). Meningococcal disease due to any serogroup may occur. To reduce the risk of infection, all patients must be vaccinated at least 2 weeks prior to receiving BEKEMV unless the risk of delaying BEKEMV therapy outweighs the risks of developing a meningococcal infection. Patients who initiate BEKEMV treatment less than 2 weeks after receiving a tetravalent meningococcal vaccine must receive treatment with appropriate prophylactic antibiotics until 2 weeks after vaccination. Vaccines against all available serogroups including A, C, Y, W 135 and B are recommended in preventing the commonly pathogenic meningococcal serogroups. Patients must be vaccinated and revaccinated according to current national guidelines for vaccination use.
+
+Vaccination may further activate complement. As a result, patients with complement-mediated diseases, including PNH and aHUS, may experience increased signs and symptoms of their underlying disease, such as haemolysis (PNH) and TMA (aHUS). Therefore, patients should be closely monitored for disease symptoms after recommended vaccination.
+
+Vaccination may not be sufficient to prevent meningococcal infection. Consideration should be given to official guidance on the appropriate use of antibacterial agents. Cases of serious or fatal meningococcal infections have been reported in eculizumab-treated patients. Sepsis is a common presentation of meningococcal infections in patients treated with eculizumab (see section 4.8). All patients should be monitored for early signs of meningococcal infection, evaluated immediately if infection is suspected, and treated with appropriate antibiotics if necessary. Patients should be informed of these signs and symptoms and steps taken to seek medical care immediately. Physicians must discuss the benefits and risks of BEKEMV therapy with patients and provide them with a patient guide and a patient card (see package leaflet for a description).
+
+<div style=\"page-break-after: always\"></div>
+
+## Other systemic infections
+
+Due to its mechanism of action, BEKEMV therapy should be administered with caution to patients with active systemic infections. Patients may have increased susceptibility to infections, especially with Neisseria and encapsulated bacteria. Serious infections with Neisseria species (other than Neisseria meningitidis ), including disseminated gonococcal infections, have been reported.
+
+Patients should be provided with information from the package leaflet to increase their awareness of potential serious infections and the signs and symptoms of them. Physicians should advise patients about gonorrhoea prevention.
+
+## Infusion reactions
+
+Administration of BEKEMV may result in infusion reactions or immunogenicity that could cause allergic or hypersensitivity reactions (including anaphylaxis). In clinical trials, 1 (0.9%) refractory generalised myasthenia gravis (gMG) patient experienced an infusion reaction which required discontinuation of eculizumab. No PNH or aHUS patients experienced an infusion reaction which required discontinuation of eculizumab. BEKEMV administration should be interrupted in all patients experiencing severe infusion reactions and appropriate medical therapy administered.
+
+## Immunogenicity
+
+Anti-eculizumab antibodies may develop during eculizumab treatment. No apparent correlation of antibody development with clinical response or adverse events has been observed.
+
+## Immunisation
+
+Prior to initiating BEKEMV therapy, it is recommended that PNH and aHUS patients initiate immunisations according to current immunisation guidelines. Additionally, all patients must be vaccinated against meningococcal infections at least 2 weeks prior to receiving BEKEMV unless the risk of delaying BEKEMV therapy outweighs the risks of developing a meningococcal infection. Patients who initiate BEKEMV treatment less than 2 weeks after receiving a tetravalent meningococcal vaccine must receive treatment with appropriate prophylactic antibiotics until 2 weeks after vaccination. Vaccines against all available serogroups including A, C, Y, W 135 and B are recommended in preventing the commonly pathogenic meningococcal serogroups. Patients must be vaccinated and revaccinated according to current national guidelines for vaccination use (see meningococcal infection).
+
+Patients less than 18 years of age must be vaccinated against Haemophilus influenzae and pneumococcal infections, and strictly need to adhere to the national vaccination recommendations for each age group.
+
+Vaccination may further activate complement. As a result, patients with complement-mediated diseases, including PNH and aHUS may experience increased signs and symptoms of their underlying disease, such as haemolysis (PNH) and TMA (aHUS). Therefore, patients should be closely monitored for disease symptoms after recommended vaccination.
+
+## Anticoagulant therapy
+
+Treatment with BEKEMV should not alter anticoagulant management.
+
+## PNH laboratory monitoring
+
+PNH patients should be monitored for signs and symptoms of intravascular haemolysis, including serum lactate dehydrogenase (LDH) levels. PNH patients receiving BEKEMV therapy should be similarly monitored for intravascular haemolysis by measuring LDH levels and may require dose
+
+<div style=\"page-break-after: always\"></div>
+
+adjustment within the recommended 14 ± 2 day dosing schedule during the maintenance phase (up to every 12 days).
+
+## aHUS laboratory monitoring
+
+aHUS patients receiving BEKEMV therapy should be monitored for thrombotic microangiopathy by measuring platelet counts, serum LDH and serum creatinine, and may require dose adjustment within the recommended 14 ± 2 day dosing schedule during the maintenance phase (up to every 12 days).
+
+## Treatment discontinuation for PNH
+
+If PNH patients discontinue treatment with BEKEMV they should be closely monitored for signs and symptoms of serious intravascular haemolysis. Serious haemolysis is identified by serum LDH levels greater than the pre-treatment level, along with any of the following: greater than 25% absolute decrease in PNH clone size (in the absence of dilution due to transfusion) in one week or less; a haemoglobin level of &lt; 5 g/dL or a decrease of &gt; 4 g/dL in one week or less; angina; change in mental status; a 50% increase in serum creatinine level; or thrombosis. Monitor any patient who discontinues BEKEMV for at least 8 weeks to detect serious haemolysis and other reactions.
+
+If serious haemolysis occurs after BEKEMV discontinuation, consider the following procedures/treatments: blood transfusion (packed red blood cells or RBCs), or exchange transfusion if the PNH RBCs are &gt; 50% of the total RBCs by flow cytometry; anticoagulation; corticosteroids; or reinstitution of BEKEMV. In PNH clinical studies, 16 patients discontinued the eculizumab treatment regimen. Serious haemolysis was not observed.
+
+## Treatment discontinuation for aHUS
+
+Thrombotic microangiopathy (TMA) complications have been observed as early as 4 weeks and up to 127 weeks following discontinuation of eculizumab treatment in some patients. Discontinuation of treatment should only be considered if medically justified.
+
+In aHUS clinical studies, 61 patients (21 paediatric patients) discontinued eculizumab treatment with a median follow-up period of 24 weeks. Fifteen severe thrombotic microangiopathy (TMA) complications in 12 patients were observed following treatment discontinuation, and 2 severe TMA complications occurred in an additional 2 patients that received a reduced dosing regimen of eculizumab outside of the approved dosing regimen (see section 4.2). Severe TMA complications occurred in patients regardless of whether they had an identified genetic mutation, high risk polymorphism or auto-antibody. Additional serious medical complications occurred in these patients including severe worsening of kidney function, disease-related hospitalisation and progression to end stage renal disease requiring dialysis. Despite eculizumab re-initiation following discontinuation, progression to end stage renal disease occurred in one patient.
+
+If aHUS patients discontinue treatment with BEKEMV, they should be monitored closely for signs and symptoms of severe thrombotic microangiopathy complications. Monitoring may be insufficient to predict or prevent severe thrombotic microangiopathy complications in patients with aHUS after discontinuation of BEKEMV.
+
+Severe thrombotic microangiopathy complications post discontinuation can be identified by (i) any two, or repeated measurement of anyone, of the following: a decrease in platelet count of 25% or more as compared to either baseline or to peak platelet count during BEKEMV treatment; an increase in serum creatinine of 25% or more as compared to baseline or to nadir during BEKEMV treatment; or, an increase in serum LDH of 25% or more as compared to baseline or to nadir during BEKEMV treatment; or (ii) any one of the following: a change in mental status or seizures; angina or dyspnoea; or thrombosis.
+
+If severe thrombotic microangiopathy complications occur after BEKEMV discontinuation, consider reinstitution of BEKMV treatment, supportive care with PE/PI, or appropriate organ-specific
+
+<div style=\"page-break-after: always\"></div>
+
+supportive measures including renal support with dialysis, respiratory support with mechanical ventilation or anticoagulation.
+
+## Educational materials
+
+All physicians who intend to prescribe BEKEMV must ensure they are familiar with the guide for healthcare professionals to prescribing. Physicians must discuss the benefits and risks of BEKEMV therapy with patients and provide them with a patient guide and a patient card.
+
+Patients should be instructed that if they develop fever, headache accompanied with fever and/or stiff neck or sensitivity to light, they should immediately seek medical care as these signs may be indicative of meningococcal infection.
+
+## Excipients with known effect
+
+## Sorbitol
+
+Each mL of this medicinal product contains 50 mg of sorbitol (E420). Patients with hereditary fructose intolerance (HFI) must not take this medicine. In HFI patients more than 2 years old, a spontaneous aversion for fructose-containing foods develops and may be combined with the onset of symptoms (vomiting, gastro-intestinal disorders, apathy, height and weight retardation). Therefore, a detailed history with regards to HFI symptoms has to be taken of each patient prior to receiving BEKEMV. In case of inadvertent administration and suspicion of fructose intolerance the infusion has to be stopped immediately, normal glycaemia has to be re-established and organ function has to be stabilized by means of intensive care (see section 4.3).
+
+Babies and children (below 2 years of age) may not yet be diagnosed with HFI. Medicines containing sorbitol/fructose given intravenously may be life threatening and must be contraindicated in this population (see sections 4.2 and 4.3).
+
+## Sodium
+
+BEKEMV vials contain less than 1 mmol of sodium (23 mg) per dose, that is to say essentially 'sodium free'. On dilution with 5% glucose solution, the medicinal product is essentially 'sodium free'.
+
+Once diluted with sodium chloride 9 mg/mL (0.9%) solution for injection, this medicinal product contains 0.34 g sodium per 180 mL at the maximal dose, equivalent to 17.0% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
+
+Once diluted with sodium chloride 4.5 mg/mL (0.45%) solution for injection, this medicinal product contains 0.18 g sodium per 180 mL at the maximal dose, equivalent to 9.0% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
+
+## Polysorbate 80
+
+This medicinal product contains 3.0 mg of polysorbate 80 (E433) in each vial (30 mL vial) which is equivalent to 0.3 mg/kg or less at the maximum dose for adult patients and paediatric patients with body weight more than 10 kg and is equivalent to 0.6 mg/kg or less at the maximum dose for paediatric patients with body weight 5 to &lt; 10 kg. Polysorbates may cause allergic reactions.
+
+## Traceability
+
+In order to improve traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+<div style=\"page-break-after: always\"></div>
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
+
+No interaction studies have been performed. Based on the potential inhibitory effect of eculizumab on complement-dependent cytotoxicity of rituximab, eculizumab may reduce the expected pharmacodynamic effects of rituximab.
+
+Plasma exchange (PE), plasmapheresis (PP) and fresh frozen plasma infusion (PI) have been shown to reduce eculizumab serum levels. A supplemental dose of eculizumab is required in these settings. See section 4.2 for guidance in case of concomitant PE, PP or PI treatment.
+
+Concomitant use of eculizumab with intravenous immunoglobulin (IVIg) may reduce effectiveness of eculizumab. Closely monitor for reduced effectiveness of eculizumab.
+
+Concomitant use of eculizumab with neonatal Fc receptor (FcRn) blockers may lower systemic exposures and reduce effectiveness of eculizumab. Closely monitor for reduced effectiveness of eculizumab.
+
+## 4.6 Fertility, pregnancy and lactation
+
+The use of adequate contraception to prevent pregnancy and for at least 5 months after the last dose of treatment with eculizumab should be considered for women of childbearing potential.
+
+## Pregnancy
+
+There are no well-controlled studies in pregnant women treated with eculizumab. Data on a limited number of pregnancies exposed to eculizumab (less than 300 pregnancy outcomes) indicate there is no increased risk of foetal malformation or foetal-neonatal toxicity. However, due to the lack of wellcontrolled studies, uncertainties remain. Therefore, an individual benefits and risk analysis is recommended before starting and during treatment with eculizumab in pregnant women. Should such a treatment be considered necessary during pregnancy, a close maternal and foetal monitoring according to local guidelines is recommended.
+
+Animal reproduction studies have not been conducted with eculizumab (see section 5.3).
+
+Human IgG are known to cross the human placental barrier, and thus eculizumab may potentially cause terminal complement inhibition in the foetal circulation. Therefore, BEKEMV should be given to a pregnant woman only if clearly needed.
+
+## Breast-feeding
+
+No effects on the breastfed new-born/infant are anticipated as limited data available suggest that eculizumab is not excreted in human breast milk. However, due to the limitations of the available data, the developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for eculizumab and any potential adverse effects on the breastfed child from eculizumab or from the underlying maternal condition.
+
+## Fertility
+
+No specific study of eculizumab on fertility has been conducted.
+
+## 4.7 Effects on ability to drive and use machines
+
+BEKEMV has no or negligible influence on the ability to drive and use machines.
+
+<div style=\"page-break-after: always\"></div>
+
+## 4.8 Undesirable effects
+
+## Summary of the safety profile
+
+Supportive safety data were obtained from 33 clinical studies that included 1 555 patients exposed to eculizumab in complement-mediated disease populations, including PNH, aHUS, refractory generalized myasthenia gravis (gMG) and neuromyelitis optica spectrum disorder (NMOSD). The most common adverse reaction was headache, (occurred mostly in the initial phase of dosing), and the most serious adverse reaction was meningococcal infection.
+
+## Tabulated list of adverse reactions
+
+Table 1 gives the adverse reactions observed from spontaneous reporting and in eculizumab completed clinical trials, including PNH, aHUS, refractory gMG and NMOSD studies. Adverse reactions reported at a very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000) or not known (cannot be estimated from the available data) frequency with eculizumab, are listed by system organ class and preferred term. Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
+Table 1. Adverse reactions reported in eculizumab clinical trials, including patients with PNH, aHUS, refractory gMG and NMOSD as well as from post marketing experience
+
+| MedDRA system organ class                                                | Very common (≥ 1/10)   | Common (≥ 1/100 to < 1/10)                                                                                      | Uncommon (≥ 1/1 000 to < 1/100)                                                                                                                                                                                                     | Rare (≥ 1/10 000 to < 1/1 000)                                                                                              | Not known (cannot be estimated from the available data)   |
+|--------------------------------------------------------------------------|------------------------|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| Infections and infestations                                              |                        | Pneumonia, Upper respiratory tract infection, Bronchitis, Nasopharyngitis, Urinary tract infection, Oral herpes | Meningococcal infection b , Sepsis, Septic shock, Peritonitis, Lower respiratory tract infection, Fungal infection, Viral infection, Abscess a , Cellulitis, Influenza, Gastrointestinal infection, Cystitis, Infection, Sinusitis, | Aspergillus infection c , Arthritis bacterial c , Genitourinary tract gonococcal infection, Haemophilus infection, Impetigo |                                                           |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |                        |                                                                                                                 |                                                                                                                                                                                                                                     | Malignant melanoma, Myelodysplastic syndrome                                                                                |                                                           |
+| Blood and lymphatic system disorders                                     |                        | Leucopenia, Anaemia                                                                                             | Thrombocytopenia, Lymphopenia                                                                                                                                                                                                       | Haemolysis*, Abnormal clotting factor, Red blood cell agglutination, Coagulopathy                                           |                                                           |
+| Immune system disorders                                                  |                        |                                                                                                                 | Anaphylactic reaction, Hypersensitivity                                                                                                                                                                                             |                                                                                                                             |                                                           |
+
+<div style=\"page-break-after: always\"></div>
+
+| MedDRA system organ class                       | Very common (≥ 1/10)   | Common (≥ 1/100 to < 1/10)                  | Uncommon (≥ 1/1 000 to < 1/100)                                                                                | Rare (≥ 1/10 000 to < 1/1 000)                 | Not known (cannot be estimated from the available data)   |
+|-------------------------------------------------|------------------------|---------------------------------------------|----------------------------------------------------------------------------------------------------------------|------------------------------------------------|-----------------------------------------------------------|
+| Endocrine disorders                             |                        |                                             |                                                                                                                | Grave 's disease                               |                                                           |
+| Metabolism and nutrition disorders              |                        |                                             | Decreased appetite                                                                                             |                                                |                                                           |
+| Psychiatric disorders                           |                        | Insomnia                                    | Depression, Anxiety, Mood swings, Sleep disorder                                                               | Abnormal dreams                                |                                                           |
+| Nervous system disorders                        | Headache               | Dizziness                                   | Paraesthesia, Tremour Dysgeusia, Syncope                                                                       |                                                |                                                           |
+| Eye disorders                                   |                        |                                             | Vision blurred                                                                                                 | Conjunctival irritation                        |                                                           |
+| Ear and labyrinth disorders                     |                        |                                             | Tinnitus, Vertigo                                                                                              |                                                |                                                           |
+| Cardiac disorders                               |                        |                                             | Palpitation                                                                                                    |                                                |                                                           |
+| Vascular disorders                              |                        | Hypertension                                | Accelerated hypertension, Hypotension, Hot flush, Vein disorder                                                | Haematoma                                      |                                                           |
+| Respiratory, thoracic and mediastinal disorders |                        | Cough, Oropharyngeal pain                   | Dyspnoea, Epistaxis, Throat irritation, Nasal congestion, Rhinorrhoea                                          |                                                |                                                           |
+| Gastrointestinal disorders                      |                        | Diarrhoea, Vomiting, Nausea, Abdominal pain | Constipation, Dyspepsia, Abdominal distension                                                                  | Gastroesophageal reflux disease, Gingival pain |                                                           |
+| Hepatobiliary disorders                         |                        |                                             | Alanine aminotransferase increased, Aspartate aminotransferase increased, Gamma- glutamyltransferase increased | Jaundice                                       | Liver injury d                                            |
+| Skin and subcutaneous tissue disorders          |                        | Rash, Pruritus, Alopecia                    | Urticaria, Erythema, Petechiae, Hyperhidrosis, Dry skin, Dermatitis                                            | Skin depigmentation                            |                                                           |
+| Musculoskeletal and connective tissue disorders |                        | Arthralgia, Myalgia, Pain in extremity      | Muscle spasms, Bone pain, Back pain, Neck pain                                                                 | Trismus, Joint swelling                        |                                                           |
+| Renal and urinary disorders                     |                        |                                             | Renal impairment, Dysuria, Haematuria                                                                          |                                                |                                                           |
+
+<div style=\"page-break-after: always\"></div>
+
+| MedDRA system organ class                            | Very common (≥ 1/10)   | Common (≥ 1/100 to < 1/10)               | Uncommon (≥ 1/1 000 to < 1/100)                                             | Rare (≥ 1/10 000 to < 1/1 000)                         | Not known (cannot be estimated from the available data)   |
+|------------------------------------------------------|------------------------|------------------------------------------|-----------------------------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------------------|
+| Reproductive system and breast disorders             |                        |                                          | Spontaneous penile erection                                                 | Menstrual disorder                                     |                                                           |
+| General disorders and administration site conditions |                        | Pyrexia, Fatigue, Influenza-like illness | Oedema, Chest discomfort, Asthaenia, Chest pain, Infusion site pain, Chills | Extravasation, Infusion site paraesthesia, Feeling hot |                                                           |
+| Investigations                                       |                        |                                          | Haematocrit decreased, Haemoglobin decreased                                | Coombs test positive c                                 |                                                           |
+| Injury, poisoning and procedural complications       |                        | Infusion related reaction                |                                                                             |                                                        |                                                           |
+
+Included studies: asthma (C07-002), aHUS (C08-002, C08-003, C10-003, C10-004), dermatomyositis (C99006), refractory gMG (C08-001, ECU-MG-301, ECU-MG-302, ECU-MG-303), Neuromyelitis Optica Spectrum Disorder (ECU-NMO-301, ECU-NMO-302), IMG (C99-004, E99-004), PNH (C02-001, C04-001, C04-002, C06-002, C07-001, E02-001, E05-001, E07-001, M07-005,
+
+X03-001, X03-001A), psoriasis (C99-007), RA (C01-004, C97-001, C99-001, E01-004, E99-001), STEC-HUS (C11-001), SLE (C97-002). MedDRA version 26.1.
+
+* See ' Description of selected adverse reactions. '
+
+a Abscess includes the following group of preferred terms (PTs): abscess limb, colonic abscess, renal abscess, subcutaneous abscess, tooth abscess, liver abscess, perirectal abscess, rectal abscess.
+
+- b  Meningococcal infection includes the following group of PTs: meningococcal infection, meningococcal sepsis, meningitis meningococcal.
+- c ADRs identified in post marketing reports.
+
+d Frequency cannot be estimated from the available post marketing data.
+
+## Description of selected adverse reactions
+
+In all clinical studies, the most serious adverse reaction was meningococcal sepsis which is a common presentation of meningococcal infections in patients treated with eculizumab (see section 4.4). Other cases of Neisseria species have been reported including sepsis with Neisseria gonorrhoeae , Neisseria sicca/subflava, Neisseria spp unspecified.
+
+Antibodies to eculizumab were detected in patients with PNH and aHUS. As with all proteins there is a potential for immunogenicity.
+
+Cases of haemolysis have been reported in the setting of missed or delayed eculizumab dose in PNH clinical trials (see section 4.4).
+
+Cases of thrombotic microangiopathy complication have been reported in the setting of missed or delayed eculizumab dose in aHUS clinical trials (see section 4.4).
+
+## Paediatric population
+
+In children and adolescent PNH patients (aged 11 years to less than 18 years) included in the paediatric PNH study M07-005, the safety profile appeared similar to that observed in adult PNH patients. The most common adverse reaction reported in paediatric patients was headache.
+
+<div style=\"page-break-after: always\"></div>
+
+In paediatric aHUS patients (aged 2 months to less than 18 years) included in the aHUS studies C08002, C08-003, C09-001r and C10-003, the safety profile appeared similar to that observed in adult aHUS patients. The safety profiles in the different paediatric subsets of age appear similar.
+
+## Other special population
+
+## Elderly population
+
+No overall differences in safety were reported between elderly (≥ 65 years) and younger refractory gMG patients (&lt; 65 years) (see section 5.1).
+
+## Patients with other diseases
+
+## Safety data from other clinical studies
+
+Supportive safety data were obtained in 12 completed clinical studies that included 934 patients exposed to eculizumab in other disease populations other than PNH, aHUS, refractory gMG or NMOSD. There was an un-vaccinated patient diagnosed with idiopathic membranous glomerulonephropathy who experienced meningococcal meningitis. Adverse reactions reported in patients with disease other than PNH, aHUS, refractory gMG or NMOSD were similar to those reported in patients with PNH, aHUS, refractory gMG or NMOSD (see table 1 above). No specific adverse reactions have emerged from these clinical studies.
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+## 4.9 Overdose
+
+No case of overdose has been reported in any of the clinical studies.
+
+## 5. PHARMACOLOGICAL PROPERTIES
+
+## 5.1 Pharmacodynamic properties
+
+Pharmacotherapeutic group: Complement Inhibitors, ATC code: L04AJ01
+
+BEKEMV is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency; www.ema.europa.eu.
+
+BEKEMV is a recombinant humanised monoclonal IgG2/4k antibody that binds to the human C5 complement protein and inhibits the activation of terminal complement. The BEKEMV antibody contains human constant regions and murine complementarity-determining regions grafted onto the human framework light- and heavy-chain variable regions. BEKEMV is composed of two 448 amino acid heavy chains and two 214 amino acid light chains and has a molecular weight of approximately 148 kDa.
+
+BEKEMV is produced in a CHO cell line and purified by affinity and ion exchange chromatography. The bulk active substance manufacturing process also includes specific viral inactivation and removal steps.
+
+<div style=\"page-break-after: always\"></div>
+
+## Mechanism of action
+
+Eculizumab, the active substance in BEKEMV, is a terminal complement inhibitor that specifically binds to the complement protein C5 with high affinity, thereby inhibiting its cleavage to C5a and C5b and preventing the generation of the terminal complement complex C5b-9. Eculizumab preserves the early components of complement activation that are essential for opsonisation of microorganisms and clearance of immune complexes.
+
+In PNH patients, uncontrolled terminal complement activation and the resulting complement-mediated intravascular haemolysis are blocked with BEKEMV treatment.
+
+In most PNH patients, eculizumab serum concentrations of approximately 35 micrograms/mL are sufficient for essentially complete inhibition of terminal complement-mediated intravascular haemolysis.
+
+In PNH, chronic administration of BEKEMV resulted in a rapid and sustained reduction in complement-mediated haemolytic activity.
+
+In aHUS patients, uncontrolled terminal complement activation and the resulting complementmediated thrombotic microangiopathy are blocked with eculizumab treatment. All patients treated with eculizumab when administered as recommended demonstrated rapid and sustained reduction in terminal complement activity. In all aHUS patients, eculizumab serum concentrations of approximately 50 - 100 microgram/mL are sufficient for essentially complete inhibition of terminal complement activity.
+
+In aHUS, chronic administration of eculizumab resulted in a rapid and sustained reduction in complement-mediated thrombotic microangiopathy.
+
+## Clinical efficacy and safety
+
+## Paroxysmal nocturnal haemoglobinuria
+
+The safety and efficacy of eculizumab in PNH patients with haemolysis were assessed in a randomised, double-blind, placebo-controlled 26 week study (C04-001). PNH patients were also treated with eculizumab in a single arm 52 week study (C04-002), and in a long-term extension study (E05-001). Patients received meningococcal vaccination prior to receipt of eculizumab. In all studies, the dose of eculizumab was 600 mg every 7 ± 2 days for 4 weeks, followed by 900 mg 7 ± 2 days later, then 900 mg every 14 ± 2 days for the study duration. Eculizumab was administered as an intravenous infusion over 25 -45 minutes (35 minutes ± 10 minutes). An observational noninterventional registry in patients with PNH (M07-001) was also initiated to characterise the natural history of PNH in untreated patients and the clinical outcomes during eculizumab treatment. In study C04-001 (TRIUMPH) PNH patients with at least 4 transfusions in the prior 12 months flow cytometric confirmation of at least 10% PNH cells and platelet counts of at least 100 000/microlitre were randomised to either eculizumab (n = 43) or placebo (n = 44). Prior to randomisation, all patients underwent an initial observation period to confirm the need for RBC transfusion and to identify the haemoglobin concentration (the \"setpoint\") which would define each patient's haemoglobin stabilisation and transfusion outcomes. The haemoglobin set-point was less than or equal to 9 g/dL in patients with symptoms and was less than or equal to 7 g/dL in patients without symptoms. Primary efficacy endpoints were haemoglobin stabilisation (patients who maintained a haemoglobin concentration above the haemoglobin set-point and avoid any RBC transfusion for the entire 26 week period) and blood transfusion requirement. Fatigue and health-related quality of life were relevant secondary endpoints.
+
+Haemolysis was monitored mainly by the measurement of serum LDH levels, and the proportion of PNH RBCs was monitored by flow cytometry. Patients receiving anticoagulants and systemic corticosteroids at baseline continued these medicinal products. Major baseline characteristics were balanced (see table 2).
+
+<div style=\"page-break-after: always\"></div>
+
+In the non-controlled study C04-002 (SHEPHERD), PNH patients with at least one transfusion in the prior 24 months and at least 30 000 platelets/microlitre received eculizumab over a 52-week period. Concomitant medicinal products included anti-thrombotic agents in 63% of the patients and systemic corticosteroids in 40% of the patients. Baseline characteristics are shown in table 2.
+
+Table 2. Patient demographics and characteristics in C04-001 and C04-002
+
+|                                                       | C04-001           | C04-001           | C04-002           |
+|-------------------------------------------------------|-------------------|-------------------|-------------------|
+| Parameter                                             | Placebo N = 44    | Eculizumab N = 43 | Eculizumab N = 97 |
+| Mean age (SD)                                         | 38.4 (13.4)       | 42.1 (15.5)       | 41.1 (14.4)       |
+| Gender - female (%)                                   | 29 (65.9)         | 23 (53.5)         | 49 (50.5)         |
+| History of aplastic anaemia or MDS(%)                 | 12 (27.3)         | 8 (18.7)          | 29 (29.9)         |
+| Concomitant anticoagulants (%)                        | 20 (45.5)         | 24 (55.8)         | 59 (61)           |
+| Concomitant steroids/immunosuppressant treatments (%) | 16 (36.4)         | 14 (32.6)         | 46 (47.4)         |
+| Discontinued treatment                                | 10                | 2                 | 1                 |
+| PRBC in previous 12 months (median (Q1, Q3))          | 17.0 (13.5, 25.0) | 18.0 (12.0, 24.0) | 8.0 (4.0, 24.0)   |
+| Mean Hgb level (g/dL) at setpoint (SD)                | 7.7 (0.75)        | 7.8 (0.79)        | N/A               |
+| Pre-treatment LDH levels (median, U/L)                | 2 234.5           | 2 032.0           | 2 051.0           |
+| Free haemoglobin at baseline (median, mg/dL)          | 46.2              | 40.5              | 34.9              |
+
+In TRIUMPH, study patients treated with eculizumab had significantly reduced (p &lt; 0.001) haemolysis resulting in improvements in anaemia as indicated by increased haemoglobin stabilisation and reduced need for RBC transfusions compared to placebo treated patients (see table 3). These effects were seen among patients within each of the three pre-study RBC transfusion strata (4 - 14 units; 15 - 25 units; &gt; 25 units). After 3 weeks of eculizumab treatment, patients reported less fatigue and improved health-related quality of life. Because of the study sample size and duration, the effects of eculizumab on thrombotic events could not be determined. In SHEPHERD study, 96 of the 97 enrolled patients completed the study (one patient died following a thrombotic event). A reduction in intravascular haemolysis as measured by serum LDH levels was sustained for the treatment period and resulted in increased transfusion avoidance, a reduced need for RBC transfusion and less fatigue (see table 3).
+
+Table 3. Efficacy outcomes in C04-001 and C04-002
+
+|                                                                           | C04-001        | C04-001           | C04-001   | C04-002*          | C04-002*   |
+|---------------------------------------------------------------------------|----------------|-------------------|-----------|-------------------|------------|
+|                                                                           | Placebo N = 44 | Eculizumab N = 43 | P - value | Eculizumab N = 97 | P - value  |
+| Percentage of patients with stabilised haemoglobin levels at end of study | 0              | 49                | < 0.001   | N/A               | N/A        |
+| PRBC transfused during treatment (median)                                 | 10             | 0                 | < 0.001   | 0                 | < 0.001    |
+| Transfusion avoidance during treatment (%)                                | 0              | 51                | < 0.001   | 51                | < 0.001    |
+| LDH levels at end of study (median, U/L)                                  | 2 167          | 239               | < 0.001   | 269               | < 0.001    |
+| LDH AUC at end of study (median, U/L × Day)                               | 411 822        | 58 587            | < 0.001   | -632 264          | < 0.001    |
+| Free haemoglobin at end of study (median, mg/dL)                          | 62             | 5                 | < 0.001   | 5                 | < 0.001    |
+
+<div style=\"page-break-after: always\"></div>
+
+|                             | C04-001        | C04-001           | C04-001   | C04-002*          | C04-002*   |
+|-----------------------------|----------------|-------------------|-----------|-------------------|------------|
+|                             | Placebo N = 44 | Eculizumab N = 43 | P - value | Eculizumab N = 97 | P - value  |
+| FACIT-fatigue (effect size) |                | 1.12              | < 0.001   | 1.14              | < 0.001    |
+
+* Results from study C04-002 refer to pre- versus post-treatment comparisons.
+
+From the 195 patients that originated in C04-001, C04-002 and other initial studies, eculizumab treated PNH patients were enrolled in a long-term extension study (E05-001). All patients sustained a reduction in intravascular haemolysis over a total eculizumab exposure time ranging from 10 to 54 months. There were fewer thrombotic events with eculizumab treatment than during the same period of time prior to treatment. However, this finding was shown in non-controlled clinical trials.
+
+The PNH registry (M07-001) was used to evaluate the efficacy of eculizumab in PNH patients with no history of RBC transfusion. These patients had high disease activity as defined by elevated haemolysis (LDH ≥ 1.5 × ULN) and the presence of related clinical symptom(s): fatigue, haemoglobinuria, abdominal pain, shortness of breath (dyspnoea), anaemia (haemoglobin &lt; 100 g/L), major adverse vascular event (including thrombosis), dysphagia, or erectile dysfunction.
+
+In the PNH registry, patients treated with eculizumab were observed to have a reduction in haemolysis and associated symptoms. At 6 months, patients treated with eculizumab with no history of RBC transfusion had significantly (p &lt; 0.001) reduced LDH levels (median LDH of 305 U/L; see table 4). Furthermore, 74% of the patients without a history of transfusion and treated with eculizumab experienced clinically meaningful improvements in FACIT-fatigue score (i.e., increase by 4 points or more) and 84% in EORTC fatigue score (i.e., decrease by 10 points or more).
+
+Table 4. Efficacy outcomes (LDH level and FACIT-fatigue) in patients with PNH with no history of transfusion in M07-001
+
+|                                                           | M07-001                   |
+|-----------------------------------------------------------|---------------------------|
+| Parameter                                                 | Eculizumab No transfusion |
+| LDH level at baseline (median, U/L)                       | N = 43 1 447              |
+| LDH level at 6 months (median, U/L)                       | N = 36 305                |
+| FACIT-fatigue score at baseline (median)                  | N = 25 32                 |
+| FACIT-fatigue score at last available assessment (median) | N = 31 44                 |
+
+FACIT-fatigue is measured on a scale of 0 - 52, with higher values indicating less fatigue
+
+## Atypical haemolytic uremic syndrome
+
+Data from 100 patients in four prospective controlled studies, three in adult and adolescent patients (C08-002A/B C08-003A/B, C10-004) one in paediatric and adolescent patients (C10-003) and 30 patients in one retrospective study (C09-001r) were used to evaluate the efficacy of eculizumab in the treatment of aHUS.
+
+Study C08-002A/B was a prospective, controlled, open-label study which accrued patients in the early phase of aHUS with evidence of clinical thrombotic microangiopathy manifestations with platelet count ≤ 150 x 10 9 /L despite PE/PI, and LDH and serum creatinine above upper limits of normal. Study C08-003A/B was a prospective, controlled, open-label study which accrued patients with longer term aHUS without apparent evidence of clinical thrombotic microangiopathy manifestations and receiving chronic PE/PI (≥1 PE/PI treatment every two weeks and no more than 3 PE/PI treatments/week for at least 8 weeks before the first dose). Patients in both prospective studies were
+
+<div style=\"page-break-after: always\"></div>
+
+treated with eculizumab for 26 weeks and most patients enrolled into a long-term, open-label extension study. All patients enrolled in both prospective studies had an ADAMTS-13 level above 5%.
+
+Patients received meningococcal vaccination prior to receipt of eculizumab or received prophylactic treatment with appropriate antibiotics until 2 weeks after vaccination. In all studies, the dose of eculizumab in adult and adolescent aHUS patients was 900 mg every 7 ± 2 days for 4 weeks, followed by 1 200 mg 7 ± 2 days later, then 1 200 mg every 14 ± 2 days for the study duration. Eculizumab was administered as an intravenous infusion over 35 minutes. The dosing regimen in paediatric patients and adolescents weighing less than 40 kg was defined based on a pharmacokinetic (PK) simulation that identified the recommended dose and schedule based on body weight (see section 4.2).
+
+Primary endpoints included platelet count change from baseline in study C08-002A/B and thrombotic microangiopathy (TMA) event-free status in study C08-003A/B. Additional endpoints included TMA intervention rate, haematologic normalization, complete TMA response, changes in LDH, renal function and quality of life. TMA-event free status was defined as the absence for at least 12 weeks of the following: decrease in platelet count of &gt; 25% from baseline, PE/PI, and new dialysis. TMA interventions were defined as PE/PI or new dialysis. Haematologic normalization was defined as normalization of platelet counts and LDH levels sustained for ≥ 2 consecutive measurements for ≥ 4 weeks. Complete TMA response was defined as haematologic normalization and a ≥ 25% reduction in serum creatinine sustained in ≥ 2 consecutive measurements for ≥ 4 weeks. Baseline characteristics are shown in table 5.
+
+Table 5. Patient demographics and characteristics in C08-002A/B and C08-003A/B
+
+| Parameter                                                                                | C08-002A/B        | C08-003A/B        |
+|------------------------------------------------------------------------------------------|-------------------|-------------------|
+|                                                                                          | Eculizumab N = 17 | Eculizumab N = 20 |
+| Time from first diagnosis until screening in months median (min, max)                    | 10 (0.26, 236)    | 48 (0.66, 286)    |
+| Time from current clinicalTMA manifestation until screening in months, median (min, max) | < 1 (<1, 4)       | 9 (1, 45)         |
+| Number of PE/PI sessions for current clinical TMA manifestation, median (min, max)       | 17 (2, 37)        | 62 (20, 230)      |
+| Number of PE/PI sessions in 7 days prior to first dose of eculizumab, median (min, max)  | 6 (0, 7)          | 2 (1, 3)          |
+| Baseline platelet count (× 10 9 /L), mean (SD)                                           | 109 (32)          | 228 (78)          |
+| Baseline LDH (U/L), mean (SD)                                                            | 323 (138)         | 223 (70)          |
+| Patients without identified mutation, n (%)                                              | 4 (24)            | 6 (30)            |
+
+Patients in aHUS study C08-002 A/B received eculizumab for a minimum of 26 weeks. After completion of the initial 26 week treatment period, most patients continued to receive eculizumab by enrolling into an extension study. In aHUS study C08-002A/B, the median duration of eculizumab therapy was approximately100 weeks (range: 2 weeks to 145 weeks).
+
+A reduction in terminal complement activity and an increase in platelet count relative to baseline were observed after commencement of eculizumab. Reduction in terminal complement activity was observed in all patients after commencement of eculizumab. Table 6 summarizes the efficacy results for aHUS study C08-002A/B. All rates of efficacy endpoints improved or were maintained through 2 years of treatment. Complete TMA response was maintained by all responders. When treatment was continued for more than 26 weeks, two additional patients achieved and maintained Complete TMA response due to normalization of LDH (1 patient) and a decrease in serum creatinine (2 patients). Renal function, as measured by eGFR, was improved and maintained during eculizumab therapy. Four of the five patients who required dialysis at study entry were able to discontinue dialysis for the duration of eculizumab treatment, and one patient developed a new dialysis requirement. Patients reported improved health related quality of life (QoL).
+
+In aHUS study C08-002A/B, responses to eculizumab were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins.
+
+<div style=\"page-break-after: always\"></div>
+
+Patients in aHUS study C08-003A/B received eculizumab for a minimum of 26 weeks. After completion of the initial 26 week treatment period, most patients continued to receive eculizumab by enrolling into an extension study. In aHUS study C08-003A/B, the median duration of eculizumab therapy was approximately 114 weeks (range: 26 to 129 weeks). Table 6 summarizes the efficacy results for aHUS study C08-003A/B. In aHUS study C08-003A/B, responses to eculizumab were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins. Reduction in terminal complement activity was observed in all patients after commencement of eculizumab. All rates of efficacy endpoints improved or were maintained through 2 years of treatment. Complete TMA response was maintained by all responders. When treatment was continued for more than 26 weeks, six additional patients achieved and maintained Complete TMA response due to a decrease in serum creatinine. No patient required new dialysis with eculizumab. Renal function, as measured by median eGFR, increased during eculizumab therapy.
+
+Table 6. Efficacy outcomes in prospective aHUS studies C08-002A/B and C08-003A/B
+
+|                                                                                                                             | C08-002A/B N = 17                        | C08-002A/B N = 17                        | C08-003A/B N = 20              | C08-003A/B N = 20              |
+|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------|------------------------------------------|--------------------------------|--------------------------------|
+|                                                                                                                             | At 26 weeks                              | At 2 years 1                             | At 26 weeks                    | At 2 years 1                   |
+| Normalisation of platelet count All patients, n (%) (95% CI) Patients with abnormal baseline, n/n (%)                       | 14 (82) (57-96) 13/15 (87)               | 15 (88) (64-99) 13/15 (87)               | 18 (90) (68-99) 1/3 (33)       | 18 (90) (68-99) 1/3 (33)       |
+| TMA event-free status, n (%) (95% CI)                                                                                       | 15 (88) (64-99)                          | 15 (88) (64-99)                          | 16 (80) (56-94)                | 19 (95) (75-99)                |
+| TMA intervention rate Daily pre-eculizumab rate, median (min, max) Daily during-eculizumab rate, median (min, max) P -value | 0.88 (0.04, 1.59) 0 (0, 0.31) P < 0.0001 | 0.88 (0.04, 1.59) 0 (0, 0.31) P < 0.0001 | 0.23 (0.05, 1.09) 0 P < 0.0001 | 0.23 (0.05, 1.09) 0 P < 0.0001 |
+| CKD improvement by ≥1 stage, n (%) (95% CI)                                                                                 | 10 (59) (33-82)                          | 12 (71) (44-90)                          | 7 (35) (15-59)                 | 12 (60) (36-81)                |
+| eGFR change mL/min/1.73m 2 : median (range)                                                                                 | 20 (-1, 98)                              | 28 (3, 82)                               | 5 (-1, 20)                     | 11 (-42, 30)                   |
+| eGFR improvement ≥15 mL/min/1.73 m 2 , n (%) (95% CI)                                                                       | 8 (47) (23-72)                           | 10 (59) (33-82)                          | 1 (5) (0-25)                   | 8 (40) (19-64)                 |
+| Change in Hgb > 20g/L, n (%) (95% CI)                                                                                       | 11 (65) (38-86) 2                        | 13 (76) (50-93)                          | 9 (45) (23-68) 3               | 13 (65) (41-85)                |
+| Haematologic normalisation, n (%) (95% CI)                                                                                  | 13 (76) (50-93)                          | 15 (88) (64-99)                          | 18 (90) (68-99)                | 18 (90) (68-99)                |
+| Complete TMA response, n (%) (95% CI)                                                                                       | 11(65) (38-86)                           | 13(76) (50-93)                           | 5 (25) (9-49)                  | 11(55) (32-77)                 |
+
+1 At data cut off (20 April 2012)
+
+2  Study C08-002: 3 patients received ESA which was discontinued after eculizumab initiation
+
+3  Study C08-003: 8 patients received ESA which was discontinued in 3 of them during eculizumab therapy
+
+aHUS study C10-004 enrolled 41 patients who displayed signs of thrombotic microangiopathy (TMA). In order to qualify for enrolment, patients were required to have a platelet count &lt; lower limit of normal range (LLN), evidence of haemolysis such as an elevation in serum LDH, and serum creatinine above the upper limits of normal, without the need for chronic dialysis. The median patient
+
+<div style=\"page-break-after: always\"></div>
+
+age was 35 (range: 18 to 80 years). All patients enrolled in aHUS study C10-004 had an ADAMTS-13 level above 5%. Fifty-one percent of patients had an identified complement regulatory factor mutation or auto-antibody. A total of 35 patients received PE/PI prior to eculizumab. Table 7 summarizes the key baseline clinical and disease-related characteristics of patients enrolled in aHUS C10-004.
+
+Table 7. Baseline characteristics of patients enrolled in aHUS study C10-004
+
+| Parameter                                                                                      | aHUS study C10-004 N = 41   |
+|------------------------------------------------------------------------------------------------|-----------------------------|
+| Time from aHUS diagnosis to first study dose (months), median (min, max)                       | 0.79 (0.03, 311)            |
+| Time from current clinicalTMA manifestation until first study dose (months), median (min, max) | 0.52 (0.03, 19)             |
+| Baseline platelet count (× 10 9 /L), median (min, max)                                         | 125 (16, 332)               |
+| Baseline LDH (U/L), median (min, max)                                                          | 375 (131, 3318)             |
+| Baseline eGFR (mL/min/1.73m 2 ), median (min, max)                                             | 10 (6, 53)                  |
+
+Patients in aHUS study C10-004 received eculizumab for a minimum of 26 weeks. After completion of the initial 26-week treatment period, most patients elected to continue on chronic dosing.
+
+Reduction in terminal complement activity and an increase in platelet count relative to baseline were observed after commencement of eculizumab. Eculizumab reduced signs of complement-mediated TMA activity, as shown by an increase in mean platelet counts from baseline to 26 weeks. In aHUS C10-004, mean (±SD) platelet count increased from 119 ± 66 x10 9 /L at baseline to 200 ± 84 x10 9 /L by one week; this effect was maintained through 26 weeks (mean platelet count (±SD) at week 26: 252 ± 70 x10 9 /L). Renal function, as measured by eGFR, was improved during eculizumab therapy. Twenty of the 24 patients who required dialysis at baseline were able to discontinue dialysis during eculizumab treatment. Table 8 summarizes the efficacy results for aHUS study C10-004.
+
+Table 8. Efficacy outcomes in prospective aHUS study C10-004
+
+| Efficacy parameter                                                                               | aHUS study C10-004 (N = 41) At 26-weeks   |
+|--------------------------------------------------------------------------------------------------|-------------------------------------------|
+| Change in platelet count through week 26 (10 9 /L)                                               | 111 (-122, 362)                           |
+| Haematologic normalization, n (%) Median duration of haematologic normalization, weeks (range) 1 | 36 (88) 46 (10, 74)                       |
+| Complete TMA response, n (%) Median duration of complete TMAresponse, weeks (range) 1            | 23 (56) 42 (6, 74)                        |
+| TMA Event-free Status, n (%) 95% CI                                                              | 37 (90) 77; 97                            |
+| Daily TMA intervention rate, median (range) Before eculizumab On eculizumab treatment            | 0.63 (0, 1.38) 0 (0, 0.58)                |
+
+1  Through data cut-off (September 4, 2012), with median duration of eculizumab therapy of 50 weeks (range:
+
+13 weeks to 86 weeks).
+
+Longer term treatment with eculizumab (median 52 weeks ranging from 15 to 126 weeks) was associated with an increased rate of clinically meaningful improvements in adult patients with aHUS. When eculizumab treatment was continued for more than 26 weeks, three additional patients (63% of patients in total) achieved Complete TMA response and four additional patients (98% of patients in total) achieved haematologic normalization. At the last evaluation, 25 of 41 patients (61%) achieved eGFR improvement of ≥ 15 mL/min/1.73 m 2  from baseline.
+
+<div style=\"page-break-after: always\"></div>
+
+## Paediatric population
+
+## Paroxysmal nocturnal haemoglobinuria
+
+A total of 7 PNH paediatric patients, with a median weight of 57.2 kg (range of 48.6 to 69.8 kg) and aged from 11 to 17 years (median age: 15.6 years), received eculizumab in study M07-005.
+
+Treatment with eculizumab at the proposed dosing regimen in the paediatric population was associated with a reduction of intravascular haemolysis as measured by serum LDH level. It also resulted in a marked decrease or elimination of blood transfusions, and a trend towards an overall improvement in general function. The efficacy of eculizumab treatment in paediatric PNH patients appears to be consistent with that observed in adult PNH patients enrolled in PNH pivotal studies (C04-001 and C04-002) (see tables 3 and 9).
+
+Table 9. Efficacy outcomes in paediatric PNH study M07-005
+
+|                                                                                  | P - Value        | P - Value            | P - Value     |
+|----------------------------------------------------------------------------------|------------------|----------------------|---------------|
+|                                                                                  | Mean (SD)        | Wilcoxon signed rank | Paired t-test |
+| Change from baseline at 12 weeks of LDH value (U/L)                              | -771 (914)       | 0.0156               | 0.0336        |
+| LDH AUC (U/L × day)                                                              | -60 634 (72 916) | 0.0156               | 0.0350        |
+| Change from baseline at 12 weeks in plasma free haemoglobin (mg/dL)              | -10.3 (21.13)    | 0.2188               | 0.1232        |
+| Change from baseline type III RBC clone size (percent of aberrant cells)         | 1.80 (358.1)     |                      |               |
+| Change from baseline at 12 weeks of PedsQL ™ 4.0 generic core scale (patients)   | 10.5 (6.66)      | 0.1250               | 0.0256        |
+| Change from baseline at 12 weeks of PedsQL ™ 4.0 generic core scale (parents)    | 11.3 (8.5)       | 0.2500               | 0.0737        |
+| Change from baseline at 12 weeks of PedsQL ™ multidimensional fatigue (patients) | 0.8 (21.39)      | 0.6250               | 0.4687        |
+| Change from baseline at 12 weeks of PedsQL ™ multidimensional fatigue (parents)  | 5.5 (0.71)       | 0.5000               | 0.0289        |
+
+## Atypical Haemolytic Uremic Syndrome
+
+A total of 15 paediatric patients (aged 2 months to 12 years) received eculizumab in aHUS study C09001r. Forty seven percent of patients had an identified complement regulatory factor mutation or autoantibody. The median time from aHUS diagnosis to first dose of eculizumab was 14 months (range &lt;1, 110 months). The median time from current thrombotic microangiopathy manifestation to first dose of eculizumab was 1 month (range &lt; 1 to 16 months). The median duration of eculizumab therapy was 16 weeks (range 4 to 70 weeks) for children &lt; 2 years of age (n = 5) and 31 weeks (range 19 to 63 weeks) for children 2 to &lt; 12 years of age (n = 10).
+
+Overall, the efficacy results for these paediatric patients appeared consistent with what was observed in patients enrolled in aHUS pivotal studies C08-002 and C08-003 (table 6). No paediatric patient required new dialysis during treatment with eculizumab.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 10: Efficacy results in paediatric patients enrolled in aHUS C09-001r
+
+| Efficacy parameter                                            | < 2 years (n = 5)   | 2 to < 12 years (n = 10)   | <12 years (n = 15)   |
+|---------------------------------------------------------------|---------------------|----------------------------|----------------------|
+| Patients with platelet count normalization, n (%)             | 4 (80)              | 10 (100)                   | 14 (93)              |
+| Complete TMA response, n (%)                                  | 2 (40)              | 5 (50)                     | 7 (50)               |
+| Daily TMA intervention rate, median (range) Before eculizumab | 1 (0, 2)            | < 1 (0.07, 1.46)           | < 1 (0, 2)           |
+| On eculizumab treatment                                       | < 1 (0, < 1)        | 0 (0, < 1)                 | 0 (0, < 1)           |
+| Patients with eGFR improvement ≥ 15 mL/min/1.73m 2 , n (%)    | 2 (40)              | 6 (60)                     | 8 (53)               |
+
+In paediatric patients with shorter duration of current severe clinical thrombotic microangiopathy (TMA) manifestation prior to eculizumab, there was TMA control and improvement of renal function with eculizumab treatment (table 10).
+
+In paediatric patients with longer duration of current severe clinical TMA manifestation prior to eculizumab, there was TMA control with eculizumab treatment. However, renal function was not changed due to prior irreversible kidney damage (table 11).
+
+Table 11. Efficacy outcomes in paediatric patients in study C09-001r according to duration of current severe clinical thrombotic microangiopathy (TMA) manifestation
+
+|                                      | Duration of current severe clinical TMA manifestation   | Duration of current severe clinical TMA manifestation   |
+|--------------------------------------|---------------------------------------------------------|---------------------------------------------------------|
+|                                      | < 2 months N = 10 (%)                                   | > 2 months N = 5 (%)                                    |
+| Platelet count normalisation         | 9 (90)                                                  | 5 (100)                                                 |
+| TMA event-free status                | 8 (80)                                                  | 3 (60)                                                  |
+| Complete TMA response                | 7 (70)                                                  | 0                                                       |
+| eGFR improvement ≥ 15 mL/min/1.73m 2 | 7 (70)                                                  | 0*                                                      |
+
+*One patient achieved eGFR improvement after renal transplant
+
+A total of 22 paediatric and adolescents patients (aged 5 months to 17 years) received eculizumab in aHUS study C10-003.
+
+In study C10-003, patients who enrolled in the study were required to have a platelet count &lt; lower limit of normal range (LLN), evidence of haemolysis such as an elevation in serum LDH above the upper limits of normal and serum creatinine level ≥ 97 percentile for age without the need for chronic dialysis. The median patient age was 6.5 years (range: 5 months to 17 years). Patients enrolled in aHUS C10-003 had an ADAMTS-13 level above 5%. Fifty percent of patients had an identified complement regulatory factor mutation or auto-antibody. A total of 10 patients received PE/PI prior to eculizumab. Table 12 summarises the key baseline clinical and disease-related characteristics of patients enrolled in aHUS study C10-003.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 12. Baseline characteristics of paediatric and adolescents patients enrolled in aHUS study C10-003
+
+| Parameter                                                                                      | 1 month to < 12 years (N = 18)   | All patients (N = 22)   |
+|------------------------------------------------------------------------------------------------|----------------------------------|-------------------------|
+| Time from aHUS diagnosis until first study dose (months) median (min, max)                     | 0.51 (0.03, 58)                  | 0.56 (0.03,191)         |
+| Time from current clinicalTMA manifestation until first study dose (months), median (min, max) | 0.23 (0.03, 4)                   | 0.20 (0.03, 4)          |
+| Baseline platelet count (x 10 9 /L), median (min, max)                                         | 110 (19, 146)                    | 91 (19,146)             |
+| Baseline LDH (U/L) median (min, max)                                                           | 1 510 (282, 7 164)               | 1 244 (282, 7 164)      |
+| Baseline eGFR (mL/min/1.73m 2 ), median (min, max)                                             | 22 (10, 105)                     | 22 (10, 105)            |
+
+Patients in aHUS C10-003 received eculizumab for a minimum of 26 weeks. After completion of the initial 26-week treatment period, most patients elected to continue on chronic dosing. Reduction in terminal complement activity was observed in all patients after commencement of eculizumab. Eculizumab reduced signs of complement-mediated TMA activity, as shown by an increase in mean platelet counts from baseline to 26 weeks. The mean (±SD) platelet count increased from 88 ± 42 x10 9 /L at baseline to 281 ± 123 x10 9 /L by one week; this effect was maintained through 26 weeks (mean platelet count (±SD) at week 26: 293 ± 106 x10 9 /L). Renal function, as measured by eGFR, was improved during eculizumab therapy. Nine of the 11 patients who required dialysis at baseline no longer required dialysis after study day 15 of eculizumab treatment. Responses were similar across all ages from 5 months to 17 years of age. In aHUS C10-003, responses to eculizumab were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins or auto-antibodies to factor H.
+
+Table 13 summarizes the efficacy results for aHUS C10-003.
+
+Table 13. Efficacy outcomes in prospective aHUS study C10-003
+
+| Efficacy Parameter                                                                                                 | 1 month to < 12 years (N = 18) At 26-weeks   | All patients (N = 22) At 26-weeks   |
+|--------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------------------------------|
+| Complete haematologic normalisation, n (%) Median duration of complete haematologic normalisation, weeks (range) 1 | 14 (78) 35 (13, 78)                          | 18 (82) 35 (13, 78)                 |
+| Complete TMA response, n (%) Median duration of complete TMAresponse, weeks (range) 1                              | 11 (61) 40 (13, 78)                          | 14 (64) 37 (13, 78)                 |
+| TMA event-free status, n (%) 95% CI                                                                                | 17 (94) NA                                   | 21 (96) 77; 99                      |
+| Daily TMA intervention rate, median (range) Before eculizumab treatment, median On eculizumab treatment, median    | NA NA                                        | 0.4 (0, 1.7) 0 (0, 1.01)            |
+| eGFR improvement ≥15 mL/min/ 1.73•m 2 , n (%)                                                                      | 16 (89)                                      | 19 (86)                             |
+| Change in eGFR (≥15 mL/min/1.73•m 2 ) at 26 weeks, median (range)                                                  | 64 (0,146)                                   | 58 (0, 146)                         |
+| CKD improvement by ≥1 stage, n (%)                                                                                 | 14/16 (88)                                   | 17/20 (85)                          |
+
+<div style=\"page-break-after: always\"></div>
+
+| Efficacy Parameter                    | 1 month to < 12 years (N = 18) At 26-weeks   | All patients (N = 22) At 26-weeks   |
+|---------------------------------------|----------------------------------------------|-------------------------------------|
+| PE/PI event-free status, n (%)        | 16 (89)                                      | 20 (91)                             |
+| New dialysis event-free status, n (%) | 18 (100)                                     | 22 (100)                            |
+| 95% CI                                | NA                                           | 85;100                              |
+
+1  Through data cut-off (October 12, 2012), with median duration of eculizumab therapy of 44 weeks (range:
+
+1 dose to 88 weeks).
+
+Longer term treatment with eculizumab (median 55 weeks ranging from 1 day to 107 weeks) was associated with an increased rate of clinically meaningful improvements in paediatric and adolescent patients with aHUS. When eculizumab treatment was continued for more than 26 weeks, one additional patient (68% of patients in total) achieved complete TMA response and two additional patients (91% of patients in total) achieved hematologic normalization. At the last evaluation, 19 of 22 patients (86%) achieved eGFR improvement of ≥ 15 mL/min/1.73 m 2  from baseline. No patient required new dialysis with eculizumab.
+
+## 5.2 Pharmacokinetic properties
+
+## Pharmacokinetics and active substance metabolism
+
+## Biotransformation
+
+Human antibodies undergo endocytotic digestion in the cells of the reticuloendothelial system. Eculizumab contains only naturally occurring amino acids and has no known active metabolites. Human antibodies are predominately catabolised by lysosomal enzymes to small peptides and amino acids.
+
+## Elimination
+
+No specific studies have been performed to evaluate the hepatic, renal, lung, or gastrointestinal routes of excretion/elimination for eculizumab. In normal kidneys, antibodies are not excreted and are excluded from filtration by their size.
+
+## Pharmacokinetic/pharmacodynamic relationship(s)
+
+In 40 patients with PNH, a 1-compartmental model was used to estimate pharmacokinetic parameters after multiple doses. Mean clearance was 0.31 ± 0.12 mL/hr/kg, mean volume of distribution was 110.3 ± 17.9 mL/kg, and mean elimination half-life was 11.3 ± 3.4 days. The steady state is achieved by 4 weeks using the PNH adult dosing regimen.
+
+In PNH patients, pharmacodynamic activity correlates directly with eculizumab serum concentrations and maintenance of trough levels above ≥ 35 micrograms/mL results in essentially complete blockade of haemolytic activity in the majority of PNH patients.
+
+A second population PK analysis with a standard 1 compartmental model was conducted on the multiple dose PK data from 37 aHUS patients receiving the recommended eculizumab regimen in studies C08-002A/B and C08-003A/B. In this model, the clearance of eculizumab for a typical aHUS patient weighing 70 kg was 0.0139 L/hr and the volume of distribution was 5.6 L. The elimination half-life was 297 h (approximately 12.4 days).
+
+The second population PK model was applied to the multiple dose PK data from 22 paediatric aHUS patients receiving the recommended eculizumab regimen in aHUS C10-003. The clearance and volume of distribution of eculizumab are weight dependent, which forms the basis for a weight categorical based dose regimen in paediatric patients (see section 4.2) . Clearance values of eculizumab in paediatric aHUS patients were 10.4, 5.3, and 2.2 mL/hr with body weight of 70, 30, and 10 kg, respectively; and the corresponding volume of distribution values were 5.23, 2.76, and 1.21 L,
+
+<div style=\"page-break-after: always\"></div>
+
+respectively. The corresponding elimination half-life remained almost unchanged within a range of 349 to 378 h (approximately 14.5 to 15.8 days).
+
+The clearance and half-life of eculizumab were also evaluated during plasma exchange interventions. Plasma exchange resulted in an approximately 50% decline in eculizumab concentrations following a 1-hour intervention and the elimination half-life of eculizumab was reduced to 52.4 hours. Supplemental dosing is recommended when eculizumab is administered to aHUS patients receiving plasma infusion or exchange (see section 4.2).
+
+All aHUS patients treated with eculizumab when administered as recommended demonstrated rapid and sustained reduction in terminal complement activity. In aHUS patients, pharmacodynamic activity correlates directly with eculizumab serum concentrations and maintenance of trough levels of approximately 50-100 microgram/ml results in essentially complete blockade of terminal complement activity in all aHUS patients.
+
+PK parameters are consistent across PNH and aHUS patient populations.
+
+Pharmacodynamic activity measured by free C5 concentrations of &lt; 0.5 micrograms/mL, is correlated with essentially complete blockade of terminal complement activity in PNH and aHUS patients.
+
+## Special Populations
+
+Dedicated studies have not been conducted to evaluate the pharmacokinetics of eculizumab in special patient populations identified by gender, race, age (geriatric), or the presence of renal or hepatic impairment.
+
+Population PK (PopPK) analysis on data collected across eculizumab studies showed that gender, race, age (geriatric), or the presence of renal or hepatic impairment function do not influence the PK of eculizumab.
+
+## Paediatric population
+
+The pharmacokinetics of eculizumab was evaluated in study M07-005 in PNH paediatric patients (aged from 11 to less than 18 years) and in studies C08-002, C08-003, C09-001r and C10-003 in aHUS paediatric patients (aged 2 months to less than 18 years) PopPK analysis showed that for PNH, and aHUS body weight was a significant covariate requiring body weight-based dosing for paediatric patients.
+
+## 5.3 Preclinical safety data
+
+The specificity of eculizumab for C5 in human serum was evaluated in two in vitro studies.
+
+The tissue cross-reactivity of eculizumab was evaluated by assessing binding to a panel of 38 human tissues. C5 expression in the human tissue panel examined in this study is consistent with published reports of C5 expression, as C5 has been reported in smooth muscle, striated muscle, and renal proximal tubular epithelium. No unexpected tissue cross-reactivity was observed.
+
+Animal reproduction studies have not been conducted with eculizumab due to lack of pharmacologic activity in non-human species.
+
+In a 26 week toxicity study performed in mice with a surrogate antibody directed against murine C5, treatment did not affect any of the toxicity parameters examined. Haemolytic activity during the course of the study was effectively blocked in both female and male mice.
+
+No clear treatment-related effects or adverse effects were observed in reproductive toxicology studies in mice with a surrogate terminal complement inhibitory antibody, which was utilised to assess the
+
+<div style=\"page-break-after: always\"></div>
+
+reproductive safety of C5 blockade. These studies included assessment of fertility and early embryonic development, developmental toxicity, and pre- and post-natal development.
+
+When maternal exposure to the antibody occurred during organogenesis, two cases of retinal dysplasia and one case of umbilical hernia were observed among 230 offspring born to mothers exposed to the higher antibody dose (approximately 4 times the maximum recommended human eculizumab dose, based on a body weight comparison); however, the exposure did not increase foetal loss or neonatal death.
+
+No animal studies have been conducted to evaluate the genotoxic and carcinogenic potential of eculizumab.
+
+## 6. PHARMACEUTICAL PARTICULARS
+
+## 6.1 List of excipients
+
+Acetic acid Sodium hydroxide (E524) Disodium edetate (EDTA) Sorbitol (E420) Polysorbate 80 (E433) Water for injections
+
+## 6.2 Incompatibilities
+
+This medicinal product must not be mixed with other medicinal products except those mentioned in section 6.6.
+
+## 6.3 Shelf life
+
+3 years
+
+After dilution, chemical and physical in-use stability has been demonstrated for the following:
+
+- Polyolefin IV bags: 14 days at 2°C to 8°C followed by up to 48 hours at 2°C to 8°C or room temperature
+- PVC IV bags: 48 hours at 2°C to 8°C or room temperature
+
+From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2°C to 8°C, unless dilution has taken place in controlled and validated aseptic conditions.
+
+## 6.4 Special precautions for storage
+
+Store in a refrigerator (2°C -8°C). Do not freeze. Store in the original package in order to protect from light.
+
+BEKEMV vials in the original package may be removed from refrigerated storage for only one single period of up to 7 days . At the end of this period the product can be put back in the refrigerator.
+
+For storage conditions after dilution of the medicinal product, see section 6.3.
+
+## 6.5 Nature and contents of container
+
+Vial (type I glass) with an elastomeric stopper and an aluminium seal with flip-off cap. Pack size of one vial.
+
+<div style=\"page-break-after: always\"></div>
+
+## 6.6 Special precautions for disposal and other handling
+
+Prior to administration, the BEKEMV solution should be visually inspected for particulate matter and discolouration.
+
+## Instructions
+
+Dilution should be performed in accordance with good practices rules, particularly for the respect of asepsis.
+
+Withdraw the total amount of BEKEMV from the vial(s) using a sterile syringe.
+
+Transfer the recommended dose to an infusion bag.
+
+Dilute BEKEMV to a final concentration of 5 mg/mL by addition to the infusion bag using sodium chloride 9 mg/mL (0.9%) solution for injection, sodium chloride 4.5 mg/mL (0.45%) solution for injection, or 5% glucose in water, as the diluent.
+
+The final volume of a 5 mg/mL diluted solution is 60 mL for 300 mg doses, 120 mL for 600 mg doses and 180 mL for 900 mg doses and 240 mL for 1 200 mg doses. The solution should be clear and colourless.
+
+Gently agitate the infusion bag containing the diluted solution to ensure thorough mixing of the product and diluent.
+
+The diluted solution should be allowed to warm to room temperature prior to administration by exposure to ambient temperature.
+
+Discard any unused portion left in a vial.
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+Amgen Technology (Ireland) UC Pottery Road, Dun Laoghaire Co. Dublin, A96 F2A8 Ireland
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/23/1727/001
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 19 April 2023
+
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu/.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX II
+
+- A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+<div style=\"page-break-after: always\"></div>
+
+## A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+
+Name and address of the manufacturers of the biological active substance
+
+Amgen Singapore Manufacturing 1 Tuas View Drive Singapore 637026
+
+Name and address of the manufacturers responsible for batch release
+
+Amgen Technology (Ireland) UC Pottery Road, Dun Laoghaire Co. Dublin, A96 F2A8 Ireland
+
+Amgen NV Telecomlaan 5-7 1831 Diegem Belgium
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+Medicinal product subject to restricted medical prescription (see Annex I: Summary of Product Characteristics, section 4.2).
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
+## · Periodic safety update reports (PSURs)
+
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c (7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+## · Risk management plan (RMP)
+
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
+
+An updated RMP should be submitted:
+
+- At the request of the European Medicines Agency.
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+
+<div style=\"page-break-after: always\"></div>
+
+## Additional risk minimisation measures
+
+The MAH shall agree the details of educational material including a patient card with each national competent authority and must implement such programmes nationally to ensure that:
+
+1. All healthcare professionals who may prescribe eculizumab receive the appropriate educational material.
+2. All patients being treated with eculizumab receive a patient card.
+3. Vaccination reminders are sent to the prescribers or pharmacists that intend to prescribe/dispense BEKEMV.
+
+The educational material should be agreed with the National Competent Authority and should contain the following:
+
+- Summary of product characteristics
+- Patient information leaflet
+- Guide for healthcare professionals
+- Guide for patient/parent/caregiver
+- Patient card
+- Vaccination reminders are sent to the prescribers or pharmacists that intend to prescribe/dispense BEKEMV
+
+The educational materials for healthcare professionals shall include:
+
+- Summary of product characteristics
+- Guide for healthcare professionals
+
+The guide for healthcare professionals to prescribing should contain the following key messages:
+
+- Treatment with eculizumab increases the risk of severe infection and sepsis, especially of Neisseria meningitidis and other Neisseria species , including disseminated gonorrhoeae.
+- All patients must be monitored for signs of meningococcal infection.
+- The need for patients to be vaccinated against Neisseria meningitidis two weeks prior to receiving eculizumab and/or to receive antibiotic prophylaxis. Patients must be vaccinated and revaccinated according to current national guidelines for vaccination use.
+- Sorbitol content warning and the risks for patients with HFI when intravenously exposed to sorbitol.
+- BEKEMV contraindication in patients with HFI (regardless of their age), and in children below 2 years of age, who may not yet be diagnosed with HFI.
+- The need to explain to and ensure understanding of by patients/parents/carers:
+- the risks of treatment with eculizumab
+- the signs and symptoms of sepsis/severe infection and what action to take
+- the patient/parent/caregiver guides and their contents
+- the need to carry the patient card and to tell any healthcare professional that he/she is receiving treatment with eculizumab
+- the requirement for vaccinations/antibiotic prophylaxis and revaccination according to current national guidelines for vaccination use
+- the risks of serious metabolic harms due to treatment with BEKEMV if the patient also has HFI
+
+The educational materials for patients/parents/caregivers shall include:
+
+- Patient information leaflet
+- Guide for patient/parent/caregiver
+- Patient card
+
+The guide for patient/parent/caregiver should contain the following key messages:
+
+- Treatment with eculizumab increases the risk of severe infection, especially Neisseria meningitidis and other Neisseria species, including disseminated gonorrhoeae .
+- Signs and symptoms of severe infection and the need to obtain urgent medical care.
+
+<div style=\"page-break-after: always\"></div>
+
+- The patient card and the need to carry it on their person and tell any treating healthcare professional that they are being treated with eculizumab.
+- The importance of meningococcal vaccination prior to treatment with eculizumab and/or to receive antibiotic prophylaxis.
+- The patient must be vaccinated and revaccinated according to current national guidelines for vaccination use.
+- The need for children to be vaccinated against pneumococcus and Haemophilus influenzae before eculizumab treatment.
+- Risk of severe thrombotic microangiopathic complications (in aHUS) following discontinuation/postponement of eculizumab administrations, their signs and symptoms and the recommendation to consult the prescriber before discontinuing/postponing eculizumab administrations.
+- The risks of serious metabolic harms (potentially life-threatening) due to treatment with BEKEMV if the patient also has HFI.
+- BEKEMV contraindication in patients with HFI (regardless of their age), and in babies and children below 2 years of age, who may not yet be diagnosed with HFI.
+
+The patient card should contain:
+
+- Signs and symptoms of infection and sepsis.
+- Warning to seek immediate medical care if above are present.
+- Statement that the patient is receiving eculizumab.
+- Statement that the patient must receive vaccination or revaccination according to current national vaccination guidelines for vaccination use.
+- The vaccination and re-vaccination dates should be included on the patient card.
+- Sorbitol content warning and potentially life-threatening risks of patients with HFI who are intravenously exposed to sorbitol-containing medicines.
+- BEKEMV contraindication in patients with HFI (regardless of their age), and in babies and children below 2 years of age, who may not yet be diagnosed with HFI.
+- Contact details where a health care professional can receive further information.
+
+The MAH shall send annually to prescribers or pharmacists who prescribe/dispense BEKEMV, a reminder in order that the prescriber/pharmacist checks if a (re)-vaccination against Neisseria meningitidis is needed for his/her patients on BEKEMV.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX III
+
+## LABELLING AND PACKAGE LEAFLET
+
+<div style=\"page-break-after: always\"></div>
+
+## A. LABELLING
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+BEKEMV 300 mg concentrate for solution for infusion eculizumab
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+One vial of 30 mL contains 300 mg of eculizumab (10 mg/mL).
+
+## 3. LIST OF EXCIPIENTS
+
+Acetic acid, sodium hydroxide, disodium edetate (EDTA), sorbitol, polysorbate 80 and water for injections.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Concentrate for solution for infusion
+
+1 vial of 30 mL (10 mg/mL)
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+For intravenous use after dilution.
+
+After dilution, the final concentration of the solution to be infused is 5 mg/mL.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+Patients with hereditary fructose intolerance (HFI) and children &lt;2 years of age must not be given this medicine due to sorbitol content.
+
+See package leaflet for further information.
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator (2ºC - 8ºC).
+
+Do not freeze.
+
+Store in the original package in order to protect from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co. Dublin, A96 F2A8 Ireland
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/23/1727/001
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Justification for not including Braille accepted.
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+<div style=\"page-break-after: always\"></div>
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+
+VIAL LABEL
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+BEKEMV 300 mg concentrate for solution for infusion eculizumab
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+One vial of 30 mL contains 300 mg of eculizumab (10 mg/mL).
+
+## 3. LIST OF EXCIPIENTS
+
+Acetic acid, sodium hydroxide, disodium edetate (EDTA), sorbitol, polysorbate 80 and water for injections.
+
+See package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Concentrate for solution for infusion
+
+1 vial of 30 mL (10 mg/mL)
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+For intravenous use after dilution.
+
+After dilution, the final concentration of the solution to be infused is 5 mg/mL.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+Do not freeze.
+
+Store in the original package in order to protect from light.
+
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
+
+Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co. Dublin, A96 F2A8 Ireland
+
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
+
+EU/1/23/1727/001
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14. GENERAL CLASSIFICATION FOR SUPPLY   |
+|-----------------------------------------|
+
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Justification for not including Braille accepted.
+
+<div style=\"page-break-after: always\"></div>
+
+## B. PACKAGE LEAFLET
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+## Package leaflet: Information for the user
+
+## BEKEMV 300 mg concentrate for solution for infusion eculizumab
+
+This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+
+## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
+
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor, pharmacist or nurse.
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet:
+
+1. What BEKEMV is and what it is used for
+2. What you need to know before you use BEKEMV
+3. How to use BEKEMV
+4. Possible side effects
+5. How to store BEKEMV
+6. Contents of the pack and other information
+
+## 1. What BEKEMV is and what it is used for
+
+## What is BEKEMV
+
+BEKEMV contains the active substance eculizumab and it belongs to a class of medicines called monoclonal antibodies. Eculizumab binds to and inhibits a specific protein in the body that causes inflammation and so prevents your body's systems from attacking and destroying vulnerable blood cells or kidneys.
+
+## What is BEKEMV used for
+
+## Paroxysmal nocturnal haemoglobinuria
+
+BEKEMV is used to treat adults and children with a certain type of disease affecting the blood system called Paroxysmal Nocturnal Haemoglobinuria (PNH). In patients with PNH, their red blood cells can be destroyed which can lead to low blood counts (anaemia), tiredness, difficulty in functioning, pain, dark urine, shortness of breath, and blood clots. Eculizumab can block the body's inflammatory response, and its ability to attack and destroy its own vulnerable PNH blood cells.
+
+## Atypical haemolytic uremic syndrome
+
+BEKEMV is also used to treat adults and children patients with a certain type of disease affecting the blood system and kidney called atypical Haemolytic Uremic Syndrome (aHUS). In patients with aHUS, their kidney and blood cells, including platelets, can be inflamed which can lead to low blood counts (thrombocytopenia and anaemia), reduced or lost kidney function, blood clots, tiredness and difficulty in functioning. Eculizumab can block the body's inflammatory response, and its ability to attack and destroy its own vulnerable blood and kidney cells.
+
+<div style=\"page-break-after: always\"></div>
+
+## 2. What you need to know before you use BEKEMV
+
+## Do not use BEKEMV
+
+- -If you are allergic to eculizumab or any of the other ingredients of this medicine (listed in section 6).
+- -If you have fructose intolerance, a quite rare genetic condition where the enzyme for breaking down fructose is not produced.
+- -Children below 2 years of age must not receive this medicine. This medicine contains sorbitol and sorbitol may be fatal in hereditary fructose intolerance (HFI). In babies and children below 2 years of age HFI may not yet be diagnosed. (See special warnings at the end of this section under subtitle 'BEKEMV contains sorbitol').
+- -If you have not been vaccinated against meningococcal infection unless you take antibiotics to reduce the risk of infection until 2 weeks after you have been vaccinated.
+- -If you have a meningococcal infection.
+
+## Warnings and precautions
+
+## Meningococcal and other Neisseria infections alert
+
+BEKEMV treatment may reduce your natural resistance to infections, especially against certain organisms that cause meningococcal infection (severe infection of the linings of the brain and sepsis) and other Neisseria infections including disseminated gonorrhoea.
+
+Consult your doctor before you take BEKEMV to be sure that you receive vaccination against Neisseria meningitidis , an organism that causes meningococcal infection, at least 2 weeks before beginning therapy, or that you take antibiotics to reduce the risk of infection until 2 weeks after you have been vaccinated.
+
+Ensure that your current meningococcal vaccination is up to date. You should also be aware that vaccination may not prevent this type of infection. In accordance with national recommendations, your doctor might consider that you need supplementary measures to prevent infection.
+
+If you are at risk of gonorrhoea, ask your doctor or pharmacist for advice before using this medicine.
+
+## Meningococcal infection symptoms
+
+Because of the importance of rapidly identifying and treating certain types of infection in patients who receive BEKEMV, you will be provided a card to carry with you, listing specific trigger symptoms. This card is named: 'Patient Card'.
+
+If you experience any of the following symptoms, you should immediately inform your doctor:
+
+- -headache with nausea or vomiting
+- -headache with a stiff neck or back
+- -fever
+- -rash
+- -confusion
+- -severe muscle aches combined with flu-like symptoms
+- -sensitivity to light
+
+## Treatment for meningococcal infection while travelling
+
+If you are travelling in a remote region where you are unable to contact your doctor or in which you find yourself temporarily unable to receive medical treatment, your doctor can make arrangements to issue, as a preventive measure, a prescription for an antibiotic to counter Neisseria meningitidis that you keep with you. If you experience any of the symptoms amongst those cited above, you should take the antibiotics as prescribed. You should bear in mind that you should see a doctor as soon as possible, even if you feel better after having taken the antibiotics.
+
+<div style=\"page-break-after: always\"></div>
+
+## Infections
+
+Before starting BEKEMV, inform your doctor if you have any infections.
+
+## Allergic reactions
+
+BEKEMV contains a protein and proteins can cause allergic reactions in some people.
+
+## Children and adolescents
+
+Patients less than 18 years of age must be vaccinated against Haemophilus influenzae and pneumococcal infections.
+
+## Older people
+
+There are no special precautions needed for the treatment of patients aged from 65 years and over.
+
+## Other medicines and BEKEMV
+
+Tell your doctor or pharmacist if you are using or have recently used or might use any other medicines.
+
+## Pregnancy, breast-feeding, and fertility
+
+If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before using this medicine.
+
+## Women of childbearing potential
+
+The use of effective contraception during treatment and up to 5 months after treatment should be considered in women who are able to get pregnant.
+
+## Driving and using machines
+
+BEKEMV has no or negligible influence on the ability to drive and use machines.
+
+## BEKEMV contains sorbitol
+
+This medicine contains 50 mg sorbitol in each mL.
+
+Sorbitol is a source of fructose. If you (or your child) have hereditary fructose intolerance (HFI), a rare genetic disorder, you (or your child) must not receive this medicine. Patients with HFI cannot break down fructose, which may cause serious side effects.
+
+You must tell your doctor before receiving this medicine if you (or your child) have HFI or if your child can no longer take sweet foods or drinks because they feel sick, vomit or get unpleasant effects such as bloating, stomach cramps or diarrhoea.
+
+## Sodium
+
+BEKEMV contains sodium when diluted with sodium chloride.
+
+This medicine contains less than 1 mmol of sodium (23 mg) per dose, that is to say essentially 'sodium free'.
+
+Once diluted with sodium chloride 9 mg/mL (0.9%) solution for injection, this medicinal product contains 0.34 g sodium (main component of cooking/table salt) per 180 mL at the maximal dose. This
+
+<div style=\"page-break-after: always\"></div>
+
+is equivalent to 17.0% of the recommended maximum daily dietary intake of sodium for an adult. You should take this into consideration if you are on a controlled sodium diet.
+
+Once diluted with sodium chloride 4.5 mg/mL (0.45%) solution for injection, this medicinal product contains 0.18 g sodium (main component of cooking/table salt) per 180 mL at the maximal dose, equivalent to 9.0% of the recommended maximum daily dietary intake of sodium for an adult. You should take this into consideration if you are on a controlled sodium diet.
+
+If your health care professional dilutes BEKEMV vials with 5% glucose solution, the medicinal product is essentially 'sodium free'.
+
+## Polysorbate 80
+
+This medicinal product contains 3.0 mg of polysorbate 80 (E433) in each vial (30 mL vial), which is equivalent to 0.3 mg/kg or less at the maximum dose for adult patients and paediatric patients with body weight more than 10 kg, and is equivalent to 0.6 mg/kg or less at the maximum dose for paediatric patients with body weight 5 to &lt; 10 kg. Polysorbates may cause allergic reactions. Tell your doctor if you/your child has any known allergies.
+
+## 3. How to use BEKEMV
+
+At least 2 weeks before you start treatment with BEKEMV, your doctor will administer a vaccine against meningococcal infection if it was not previously administered or if your vaccination is outdated. If your child is below the age of vaccination or if you are not vaccinated at least 2 weeks before you start treatment with BEKEMV, your doctor will prescribe antibiotics to reduce the risk of infection until 2 weeks after you have been vaccinated.
+
+Your doctor will administer a vaccine to your child aged less than 18 years against Haemophilus influenzae and pneumococcal infections according to the national vaccination recommendations for each age group.
+
+## Instructions for proper use
+
+The treatment will be given by your doctor or other health care provider by infusing a dilution of the BEKEMV vial from a drip bag through a tube directly into one of your veins. It is recommended that the beginning of your treatments, called the initial phase, will extend over 4 weeks, followed by a maintenance phase.
+
+## If you use this medicine to treat PNH
+
+For adults:
+
+- Initial phase:
+
+Every week for the first four weeks, your doctor will administer an intravenous infusion of diluted BEKEMV . Each infusion will consist of a dose of 600 mg (2 vials of 30 mL) and will take 25 - 45 minutes (35 minutes ± 10 minutes).
+
+- Maintenance phase:
+- -In the fifth week, your doctor will administer an intravenous infusion of diluted BEKEMV at a dose of 900 mg (3 vials of 30 mL) over a 25 -45 minute (35 minutes ± 10 minutes) period.
+- -After the fifth week, your doctor will administer 900 mg of diluted BEKEMV every two weeks as a long-term treatment.
+
+<div style=\"page-break-after: always\"></div>
+
+## If you use this medicine to treat aHUS
+
+## For adults:
+
+- Initial phase:
+
+Every week for the first four weeks, your doctor will administer an intravenous infusion of diluted BEKEMV . Each infusion will consist of a dose of 900 mg (3 vials of 30 ml) and will take 25 - 45 minutes (35 minutes ± 10 minutes).
+
+- Maintenance phase:
+- -In the fifth week, your doctor will administer an intravenous infusion of diluted BEKEMV at a dose of 1 200 mg (4 vials of 30 ml) over a 25 -45 minute (35 minutes ± 10 minutes) period.
+- -After the fifth week, your doctor will administer 1 200 mg of diluted BEKEMV every two weeks as a long-term treatment.
+
+## For children and adolescents:
+
+- Children and adolescents with PNH or aHUS and who are 40 kg weight and over are treated with the adult dosing.
+- Children and adolescents with PNH or aHUS and who are under 40 kg weight require a lower dose based on how much they weigh. Your doctor will calculate this.
+
+For children and adolescents with PNH or aHUS above 2 years of age and with body weight below 40 kg:
+
+| Patient body weight   | Initial phase                       | Maintenance phase                           |
+|-----------------------|-------------------------------------|---------------------------------------------|
+| 30 to < 40 kg         | 600 mg weekly for the first 2 weeks | 900 mg at week 3; then 900 mg every 2 weeks |
+| 20 to < 30 kg         | 600 mg weekly for the first 2 weeks | 600 mg at week 3; then 600 mg every 2 weeks |
+| 10 to < 20 kg         | 600 mg single dose at week 1        | 300 mg at week 2; then 300 mg every 2 weeks |
+| 5 to < 10 kg          | 300 mg single dose at week 1        | 300 mg at week 2; then 300 mg every 3 weeks |
+
+Subjects who undergo plasma exchange may receive additional doses of BEKEMV.
+
+Following each infusion, you will be monitored for about one hour. Your doctor's instructions should be carefully observed.
+
+## If you receive more BEKEMV than you should
+
+If you suspect that you have been accidentally administered a higher dose of BEKEMV than prescribed, please contact your doctor for advice.
+
+## If you forget an appointment to receive BEKEMV
+
+If you forget an appointment, please contact your doctor immediately for advice and see section below 'If you stop using BEKEMV'.
+
+## If you stop using BEKEMV for PNH
+
+Interrupting or ending treatment with BEKEMV may cause your PNH symptoms to come back more severely soon. Your doctor will discuss the possible side effects with you and explain the risks. Your doctor will want to monitor you closely for at least 8 weeks.
+
+<div style=\"page-break-after: always\"></div>
+
+The risks of stopping BEKEMV include an increase in the destruction of your red blood cells, which may cause:
+
+- -A significant fall in your red blood cell counts (anaemia),
+- -Confusion or change in how alert you are,
+- -Chest pain, or angina,
+- -An increase in your serum creatinine level (problems with your kidneys), or
+- -Thrombosis (blood clotting).
+
+If you have any of these symptoms, contact your doctor.
+
+## If you stop using BEKEMV for aHUS
+
+Interrupting or ending treatment with BEKEMV may cause your aHUS symptoms to come back. Your doctor will discuss the possible side effects with you and explain the risks. Your doctor will want to monitor you closely.
+
+The risks of stopping BEKEMV include an increase in the inflammation of your platelets, which may cause:
+
+- -A significant fall in your platelets (thrombocytopenia),
+- -A significant rise in destruction of your red blood cells,
+- -Decreased urination (problems with your kidneys),
+- -An increase in your serum creatinine level (problems with your kidneys),
+- -Confusion or change in how alert you are,
+- -Chest pain, or angina,
+- -Shortness of breath, or
+- -Thrombosis (blood clotting).
+
+If you have any of these symptoms, contact your doctor.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them. Your doctor will discuss the possible side effects with you and explain the benefits and risks of BEKEMV with you prior to treatment.
+
+The most serious side effect was meningococcal sepsis. If you experience any of the meningococcal infection symptoms (see section 2 Meningococcal and other Neisseria infections alert), you should immediately inform your doctor.
+
+If you are not sure what the side effects below are, ask your doctor to explain them to you.
+
+Very common (may affect more than 1 in 10 people)
+
+- headache
+
+Common (may affect up to 1 in 10 people)
+
+- infection of the lung (pneumonia), common cold (nasopharyngitis), infection of the urinary system (urinary tract infection)
+- low white blood cell count (leucopenia), reduction in red blood cells which can make the skin pale and cause weakness or breathlessness
+- inability to sleep
+- dizziness, high blood pressure
+- upper respiratory tract infection, cough, throat pain (oropharyngeal pain), bronchitis, cold sores (herpes simplex)
+- diarrhoea, vomiting, nausea, abdominal pain, rash, hair loss (alopecia), itchy skin (pruritus)
+- pain in the joints (arms and legs), pain in the limbs (arms and legs)
+
+<div style=\"page-break-after: always\"></div>
+
+- fever (pyrexia), feeling tired (fatigue), influenza like illness
+- infusion related reaction
+
+## Uncommon (may affect up to 1 in 100 people)
+
+- severe infection (meningococcal infection), sepsis, septic shock, viral infection, lower respiratory tract infection, stomach flu (gastrointestinal infection), cystitis
+- infection, fungal infection, collection of pus (abscess), type of infection of the skin (cellulitis), influenza, sinusitis, tooth infection (abscess), gum infection
+- relatively few platelets in blood (thrombocytopenia), low level of lymphocytes a specific type of white blood cells (lymphopenia), feeling your heartbeat
+- serious allergic reaction which causes difficulty in breathing or dizziness (anaphylactic reaction), hypersensitivity
+- loss of appetite
+- depression, anxiety, mood swings, sleep disorder
+- tingling in part of the body (paraesthesia), shaking, taste disorders (dysgeusia), fainting
+- vision blurred
+- ringing in the ears, vertigo
+- sudden and rapid development of extremely high blood pressure, low blood pressure, hot flush, vein disorder
+- dyspnoea (difficulty breathing), nose bleed, stuffy nose (nasal congestion), throat irritation, runny nose (rhinorrhoea)
+- inflammation of the peritoneum (the tissue that lines most of the organs of the abdomen), constipation, stomach discomfort after meals (dyspepsia), abdominal distension
+- increase of liver enzymes
+- hives, redness of the skin, dry skin, red or purple spots under the skin, increased sweating, inflammation of the skin
+- muscle cramp, muscle aches, back and neck pain, bone pain
+- kidney disorder, difficulties or pain when urinating (dysuria), blood in urine
+- spontaneous penile erection
+- swelling (oedema), chest discomfort, feeling of weakness (asthaenia), chest pain, infusion site pain, chills
+- decrease of the proportion of blood volume that is occupied by red blood cells, decrease in the protein in red blood cells that carries oxygen
+
+## Rare (may affect up to 1 in 1,000 people)
+
+- infection by fungi (Aspergillus infection), infection of the joint (arthritis bacterial), Haemophilus infection, impetigo, bacterial sexual transmitted disease (gonorrhoea)
+- skin tumour (melanoma), bone marrow disorder
+- destruction of red blood cells (haemolysis), clumping of cells, abnormal clotting factor, abnormal blood clotting
+- disease with thyroid overactivity (Grave 's disease)
+- abnormal dreams
+- irritation of eye
+- bruise
+- unusual backflow of food from stomach, gum pain
+- yellowing of the skin and/or eyes (jaundice)
+- skin colour disorder
+- spasm of mouth muscle, joint swelling
+- menstrual disorder
+- abnormal leakage of the infused drug out of the vein, infusion site abnormal sensation, feeling hot
+
+## Not known (frequency cannot be estimated from the available data)
+
+- liver injury
+
+<div style=\"page-break-after: always\"></div>
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor or pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store BEKEMV
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date which is stated on the carton and vial label after 'EXP'. The expiry date refers to the last day of that month.
+
+Store in a refrigerator (2°C -8°C). Do not freeze.
+
+BEKEMV vials in the original package may be removed from refrigerated storage for only one single period of up to 7 days . At the end of this period the product can be put back in the refrigerator. Store in the original package in order to protect from light. After dilution, the product should be used within 24 hours.
+
+Do not throw away any medicines via wastewater. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What BEKEMV contains
+
+- -The active substance is eculizumab (300 mg/30 mL in a vial corresponding to 10 mg/mL).
+- -The other ingredients are:
+- -acetic acid,
+- -sodium hydroxide (E524),
+- -disodium edetate (EDTA),
+- -sorbitol (E420 , see section 2 'BEKEMV contains sorbitol' ),
+- -polysorbate 80 (E433) (vegetable origin),
+- -water for injections
+
+BEKEMV contains sorbitol, sodium and polysorbate 80. See section 2.
+
+## What BEKEMV looks like and contents of the pack
+
+BEKEMV is presented as a concentrate for solution for infusion (30 mL in a vial -pack size of 1). BEKEMV is a clear to opalescent, colourless to slightly yellow solution.
+
+## Marketing Authorisation Holder and Manufacturer
+
+Amgen Technology (Ireland) UC Pottery Road, Dun Laoghaire Co. Dublin, A96 F2A8 Ireland
+
+<div style=\"page-break-after: always\"></div>
+
+## Marketing Authorisation Holder
+
+Amgen Technology (Ireland) UC Pottery Road, Dun Laoghaire Co. Dublin, A96 F2A8 Ireland
+
+## Manufacturer
+
+Amgen NV Telecomlaan 5-7 1831 Diegem Belgium
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+s.a. Amgen n.v.
+
+Tél/Tel: +32 (0)2 7752711
+
+## България
+
+Амджен България ЕООД
+
+Тел.: +359 (0)2 424 7440
+
+## Česká republika
+
+Amgen s.r.o.
+
+Tel: +420 221 773 500
+
+## Danmark
+
+Amgen, filial af Amgen AB, Sverige Tlf: +45 39617500
+
+## Deutschland
+
+Amgen GmbH Tel.: +49 89 1490960
+
+## Eesti
+
+Amgen Switzerland AG Vilniaus filialas Tel: +372 586 09553
+
+## Ελλάδα
+
+Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε. Τηλ: +30 210 3447000
+
+## España
+
+Amgen S.A.
+
+Tel: +34 93 600 18 60
+
+## France
+
+Amgen S.A.S.
+
+Tél: +33 (0)9 69 363 363
+
+## Hrvatska
+
+Amgen d.o.o. Tel: +385 (0)1 562 57 20
+
+## Lietuva
+
+Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
+
+## Luxembourg/Luxemburg
+
+s.a. Amgen Belgique/Belgien Tél/Tel: +32 (0)2 7752711
+
+## Magyarország
+
+Amgen Kft.
+
+Tel.: +36 1 35 44 700
+
+## Malta
+
+Amgen S.r.l. Italy
+
+Tel: +39 02 6241121
+
+## Nederland
+
+Amgen B.V. Tel: +31 (0)76 5732500
+
+## Norge
+
+Amgen AB Tlf: +47 23308000
+
+## Österreich
+
+Amgen GmbH Tel: +43 (0)1 50 217
+
+## Polska
+
+Amgen Biotechnologia Sp. z o.o. Tel.: +48 22 581 3000
+
+## Portugal
+
+Amgen Biofarmacêutica, Lda. Tel: +351 21 4220606
+
+## România
+
+Amgen România SRL
+
+Tel: +4021 527 3000
+
+## Ireland
+
+Amgen Ireland Limited
+
+Tel: +353 1 8527400
+
+## Slovenija
+
+AMGEN zdravila d.o.o.
+
+Tel: +386 (0)1 585 1767
+
+## Ísland
+
+Vistor
+
+Sími: +354 535 7000
+
+## Slovenská republika
+
+Amgen Slovakia s.r.o.
+
+Tel: +421 2 321 114 49
+
+## Italia
+
+Amgen S.r.l.
+
+Tel: +39 02 6241121
+
+## Suomi/Finland
+
+Amgen AB, sivuliike Suomessa/Amgen AB, filial
+
+i Finland
+
+Puh/Tel: +358 (0)9 54900500
+
+## Kύπρος
+
+C.A. Papaellinas Ltd
+
+Τηλ: +357 22741 741
+
+## Sverige
+
+Amgen AB
+
+Tel: +46 (0)8 6951100
+
+## Latvija
+
+Amgen Switzerland AG Rīgas filiāle
+
+Tel: +371 257 25888
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
+
+<div style=\"page-break-after: always\"></div>
+
+---------------------------------------------------------------------------------------------------------------------------
+
+## Instructions for use for healthcare professionals handling BEKEMV
+
+In order to improve the traceability of biological medicinal products, the name and batch number of the administered product should be clearly recorded.
+
+The following information is intended for healthcare professionals only:
+
+## 1. How is BEKEMV supplied?
+
+Each vial of BEKEMV contains 300 mg of active substance in 30 mL of product solution.
+
+## 2. Before administration
+
+Dilution should be performed in accordance with good practices rules, particularly for the respect of asepsis.
+
+BEKEMV should be prepared for administration by a qualified healthcare professional using aseptic technique.
+
+- Inspect visually BEKEMV solution for particulate matter and discolouration.
+- Withdraw the required amount of BEKEMV from the vial(s) using a sterile syringe.
+- Transfer the recommended dose to an infusion bag.
+- Dilute BEKEMV to a final concentration of 5 mg/mL (initial concentration divided by 2) by adding the appropriate amount of diluent to the infusion bag.
+- -For 300 mg doses, use 30 mL of BEKEMV (10 mg/mL) and add 30 mL of diluent.
+- -For 600 mg doses, use 60 mL of BEKEMV and add 60 mL of diluent.
+
+<div style=\"page-break-after: always\"></div>
+
+- -For 900 mg doses, use 90 mL of BEKEMV and add 90 mL of diluent.
+- -For 1 200 mg doses, use 120 mL of BEKEMV and add 120 mL of diluent.
+
+The final volume of a 5 mg/mL diluted BEKEMV solution is 60 mL for 300 mg doses, 120 mL for 600 mg doses, 180 mL for 900 mg doses or 240 mL for 1 200 mg doses.
+
+- Diluents are sodium chloride 9 mg/mL (0.9%) solution for injection, sodium chloride 4.5 mg/mL (0.45%) solution for injection or 5% glucose in water.
+- Gently agitate the infusion bag containing the diluted BEKEMV solution to ensure thorough mixing of the medicinal product and diluent.
+- The diluted solution should be allowed to warm to room temperature [18°C -25°C] prior to administration by exposure to ambient temperature.
+- The diluted solution must not be heated in a microwave or with any heat source other than the prevailing room temperature.
+- Discard any unused portion left in a vial.
+- Diluted solution of BEKEMV may be stored at 2°C -8°C for up to 24 hours prior to administration.
+
+## 3. Administration
+
+- Do not administer BEKEMV as an intravenous push or bolus injection.
+- BEKEMV should only be administered via intravenous infusion.
+- The diluted solution of BEKEMV should be administered by intravenous infusion over 25 to 45 minutes (35 minutes ± 10 minutes) in adults and 1 - 4 hours in paediatric patients under 18 years of age via gravity feed, a syringe-type pump, or an infusion pump. It is not necessary to protect the diluted solution of BEKEMV from light during administration to the patient.
+
+The patient should be monitored for one hour following infusion. If an adverse event occurs during the administration of BEKEMV, the infusion may be slowed or stopped at the discretion of the physician. If the infusion is slowed, the total infusion time may not exceed two hours in adults and four hours in paediatric patients under 18 years of age.
+
+## 4. Special handling and storage
+
+Store in a refrigerator (2°C -8°C). Do not freeze. Store in the original package in order to protect from light. BEKEMV vials in the original package may be removed from refrigerated storage for only one single period of up to 7 days . At the end of this period the product can be put back in the refrigerator.
+
+Do not use this medicine after the expiry date which is stated on the carton and vial label after 'EXP'. The expiry date refers to the last day of that month.

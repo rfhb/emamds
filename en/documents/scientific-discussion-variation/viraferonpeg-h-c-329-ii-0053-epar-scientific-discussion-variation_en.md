@@ -1,0 +1,67 @@
+---
+document_datetime: 2023-09-21 20:18:19
+document_pages: 5
+document_pathfilename: www.ema.europa.eu/en/documents/scientific-discussion-variation/viraferonpeg-h-c-329-ii-0053-epar-scientific-discussion-variation_en.pdf
+document_name: viraferonpeg-h-c-329-ii-0053-epar-scientific-discussion-variation_en.pdf
+version: success
+processing_time: 1.6919098
+conversion_datetime: 2025-12-15 06:02:20.922386
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+---
+London, 13 October 2005 Product name: VIRAFERONPEG Procedure No. EMEA/H/C/329/II/53
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Introduction
+
+This submission is based on the results of study P01882, a study conducted as a post approval commitment in patients with chronic hepatitis C, genotype 1 and low viral load.
+
+In 2004, the results from this study concerning patients infected with HCV genotype 2/3 were reviewed by the CHMP leading to a revised SPC, including a recommendation for a treatment period of 24 weeks in these patients in contrast to patients infected with virus genotype 1 (48 weeks). Previously, in September 2003, the CHMP had been informed about the results in patients infected with HCV genotype 1 and low viral load (&lt;600,000 IU/ml). A non-planned interim analysis showed that the relapse rate overall was clearly higher in these patients than seen in the previous 48-week study. Further analyses indicated that time to initial loss of detectable HCV-RNA might be predictive of relapse rate. The CHMP requested the MAH to confirm these results with respect to patients showing early response in a second cohort of patients (including already enrolled patients but not analysed + new patients if needed). The MAH has now provided these results. The type II variation is aimed to modify the duration of treatment of pegylated interferon in combination with ribavirin to 24 weeks in HCV genotype 1 infected patients with low viral load who become HCV-RNA negative at treatment week 4 (sections 4.2 and 5.1 of the SPC are affected). Clinical aspects Study P01882 Diagnosis and Criteria for Inclusion: Adult, treatment naïve subjects with chronic hepatitis C who were infected with HCV genotype 1, viral load &lt;600,000 IU/ml. Treatment: PEG-IFN 1.5mcg/kg once weekly + ribavirin 800 - 1400 mg/day for 24 weeks. Baseline Characteristics (n=237): Male 46% Caucasian 95% Weight, mean 71kg Viral load ≤ 600,000 IU 84% ALT, mean (xULN) 2.3 Metavir score, activity, mean 2.2 Metavir score, fibrosis, mean 1.1 Knodell (inflammation) 0-6 23 7-8 34 &gt;8 36 Knodell (fibrosis) 0 5 1 77 3 10 4 2 Patients were recruited from 43 centres in Europe. Characteristics were similar across weight-based ribavirin dose groups. The percentage of males is smaller than in studies without selection based on viral load. Similarly, fibrosis score is low. The low withdrawal rate is notable. Treatment compliance (allowing for dose-reductions according to protocol, etc.) was very high, about 98%. Medicinal product no longer authorise
+
+<div style=\"page-break-after: always\"></div>
+
+## Clinical Efficacy
+
+Sustained virological response by time to first non-detectable HCV-RNA
+
+| First non-detectable HCV-RNA   | %(subjects) N=235   | Sustained response   | Confirmed relapse   |
+|--------------------------------|---------------------|----------------------|---------------------|
+| Week 4                         | 47 (110)            | 89 (98/110)          | 9 (9/106)           |
+| Week 12                        | 26 (61)             | 25 (15/61)           | 75 (44/59)          |
+| Week 24                        | 10 (23)             | 17 (4/23)            | 80 (16/20)          |
+| All                            | 83 (194)            | 50 (117/235)         | 37 (69/185)         |
+
+| Tx-Emergent   | 48 Weeks Historical Control (C/I98- 580) All (n=188)   | 24 Weeks (P01882) All (n=237)   |
+|---------------|--------------------------------------------------------|---------------------------------|
+| Tx-Emergent   | 22 (12)                                                | 25 (11)                         |
+| Tx-Emergent   | 26 (14)                                                | 7 (3)                           |
+| Tx-Emergent   |                                                        | 61 (26)                         |
+| Tx-Emergent   | 93 (49)                                                |                                 |
+
+The final results confirmed the findings in the unplanned interim analyses. The sustained response rate (SVR) for patients responding by week 4 is 89% (95% CI 83; 95%). If the results in patients participating in the unplanned analysis are excluded, the SVR is 92% (95% CI 82; 97%) confirming that on-therapy data are highly predictive of final outcome. Pre-treatment viral load predicted for SVR and a viral load of 250,000 IU/ml was shown to best discriminate between sustained responders and non-responders. A low viral load was as expected also associated with early response to therapy, but the sustained response rate in patients with viral load ≤ 250,000 at baseline seems lower (67%, 93/138) than in patients responding at week 4. Weight was not predictive. Normalisation of ALT was highly correlated with SVR. Clinical Safety The overall safety profile of the drug combination observed in this study is consistent with that seen in previous clinical research studies and clinical experience described in the literature; no novel events were reported. No subject died during the treatment period. Among the 25 subjects reporting SAEs during therapy, half (13/25) had SAEs that were considered by the investigator to be probably related to study medications.  SAEs were judged to be possibly related in 6 subjects and unlikely related in 6 subjects. Three percent (7/237) of subjects discontinued study drug because of AEs (anaemia, asthenia, depression). Twenty-six percent of subjects required dose reduction or interruption due to AEs (excluding subjects who later discontinued due to AE).  Thrombocytopenia (4%), neutropenia (3%), and anaemia (including haemoglobin decreased) (12%) were the most common AEs leading to dose modification. Comparison of Key Safety Parameters After 24 or 48 Weeks of Treatment With PegIntron Plus Rebetol Based on Rebetol Dose (mg/kg) a: Dose reduction or interruption, excluding subjects who later discontinued. Clinical Discussion Following the CHMP evaluation of the Clinical efficacy and safety data provided in support of the application, two different views were represented within the Committee: Medicinal product no longer authorise
+
+View 1:
+
+<div style=\"page-break-after: always\"></div>
+
+An unplanned interim analysis was conducted as there were signals indicating that the overall relapse rate was higher than expected. This suspicion was confirmed, but in an exploratory subgroup analysis it  was  found  that  patients  responding at week 4 had a sustained response rate of 41/47(95% CI 78; 97%). This high sustained response rate was confirmed in another set of patients with viral response at week 4; 57/63 (95% CI 83; 98%). This latter analysis should not be regarded as a subgroup analysis, but as a proper confirmatory analysis.
+
+The sponsor has now analysed data from a 24w versus 48w comparative IntronA/Rebetol study. These data provide some support for the notion that 24w of therapy is sufficient. There  is  agreement  that  shortening  the  duration  of  therapy  is  of  major  benefit  to  the  patient  if  not associated with a too great loss in efficacy. As it is highly unlikely that 24 weeks of therapy is superior to 48 weeks, the acceptable loss in activity has to be defined remembering that re-treatment (48w) is possible in patients relapsing. There is no simple answer to this, but we find a recommendation to treat for 48 weeks unacceptable as it means that at least 80% of the patients are treated for 24 weeks too long with a far from well tolerated therapy. View 2: Some CHMP members expressed concern that such a change in the treatment duration could be associated with a higher, poorly estimated, risk of relapse as compared with the currently recommended 48 weeks treatment duration. The applicant was requested to provide further ensurance that the shortened treatment duration would not expose patients to an increased risk of relapse. The applicant was encouraged to make a proposal for an observational surveillance study with monitoring of the relapse rate as a post-marketing commitment. It was considered that observational non-comparative data could not provide sufficient evidence to recommend a shortening of treatment duration and some CHMP members were therefore of the opinion that the question of the optimal treatment duration in patients with a virological response a week 4 and week 24 warrants to compare a 24 week additional treatment course (versus no additional treatment) in patients having responded at 4 and 24 weeks. Benefit risk assessment Following the CHMP evaluation of the clinical data provided in support of the application, there were two main views within the Committee: View 1 - To shorten the treatment course mainly in view of the heaviness of the treatment and because it is considered that even if there is a higher risk of relapse, a relapse could be re-treated in case it occurs (48 weeks). Finally, there is no reason to treat the majority of patients with a regimen of 48 weeks of treatment whereas only a minority is expected to relapse. View 2 - That it is not possible to replace the recommendation of 48 weeks of treatment by a recommendation of 24 weeks of treatment, because it has not been adequately demonstrated that both treatment durations are equivalent: - a higher, not precisely known, risk of relapse is associated with the shortening of the treatment duration; -  there are uncertainties concerning clinical consequences of relapses (treatment duration for retreatment of the relapses, response to re-treatment of relapsers after a short term treatment failed treatment); Medicinal product no longer authorise
+
+<div style=\"page-break-after: always\"></div>
+
+- it is debatable whether a major gain in the safety profile should be expected by a reduction of the treatment duration.
+
+Following  discussions  within  the  CHMP,  the  Committee  agreed  to  accept  the  shortening  of  the treatment  duration.  However,  it  was  considered  that  the  choice  between  the  two  possible  durations should be maintained for prescribers and patients.
+
+As requested by the CHMP, the MAH agreed to perform (as a follow-up measure) an observational surveillance study with monitoring of the relapse rate and to offer the opportunity to be re-treated for 48 weeks to the patients relapsing in the observational study. The MAH will also provide the CHMP with  periodic  progress  reports  from  the  observational  study  together  with  any  new  information available from the literature on HCV1 low viral load patients relapsing after a short-term treatment duration of 24 weeks. As a compromise between the different positions expressed, the following proposal for the Product Information was agreed within the CHMP and with the MAH: SPC Section 4.2: Genotype 1: -For patients who exhibit virological response at week 12, treatment should be continued for another nine month period (i.e., a total of 48 weeks). -In the subset of patients with genotype 1 infection and low viral load (&lt;600, 000 IU/ml) who become HCV RNA negative at treatment week 4 and remain HCV RNA negative at week 24, the treatment could either be stopped after this 24 week treatment course or pursued for an additional 24 weeks (i.e. overall 48 weeks treatment duration). However, an overall 24 weeks treatment duration may be associated with a higher risk of relapse than a 48 weeks treatment duration (see section 5.1). Section 5.1: In a non-comparative trial, 235 patients with genotype 1 and low viral load (&lt; 600,000 IU/ml) received ViraferonPeg, 1.5 microgram/kg subcutaneously, once weekly, in combination with weight adjusted ribavirin. The overall sustained response rate after a 24-week treatment duration was 50%. Forty-one percent of subjects (97/235) had nondetectable plasma HCV-RNA levels at Week 4 and Week 24 of therapy. In this subgroup, there was a 92 % (89/97) sustained virological response rate. The high sustained response rate in this subgroup of patients was identified in an interim analysis (n=49) and prospectively confirmed (n=48). Limited historical data indicate that treatment for 48 weeks might be associated with a higher sustained response rate (11/11) and with a lower risk of relapse (0/11 as compared to 7/96 following 24 weeks of treatment). Package Leaflet The combination treatment is continued for 3 to 6 months, and sometimes for one year, depending on your physician's judgement. Take notice of the respective informing texts of ribavirin containing medicinal products. CONCLUSION On  28  July  2005  the  CHMP  considered  this  Type  II  variation  to  be  acceptable  and  agreed  on  the amendments to be introduced in the Summary of Product Characteristics and Package Leaflet. Medicinal product no longer authorise

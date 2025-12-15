@@ -1,0 +1,1674 @@
+---
+document_datetime: 2023-09-21 18:15:25
+document_pages: 80
+document_pathfilename: www.ema.europa.eu/en/documents/assessment-report/exalief-epar-public-assessment-report_en.pdf
+document_name: exalief-epar-public-assessment-report_en.pdf
+version: success
+processing_time: 59.6352311
+conversion_datetime: 2025-12-15 01:29:43.185064
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+---
+<!-- image -->
+
+London, 19 February 2009 Doc. Ref.: EMEA/135697/2009
+
+CHMP ASSESSMENT REPORT FOR Exalief International Nonproprietary Name: eslicarbazepine acetate Procedure No. EMEA/H/C/000987 Assessment Report as adopted by the CHMP with all information of a commercially confidential nature deleted. Medicinal product no longer authorised
+
+7 Westferry Circus, Canary Wharf, London, E14 4HB, UK
+
+Tel. (44-20) 74 18 84 00   Fax (44-20) 74 18 84 16
+
+E-mail: mail@emea.europa.eu     http://www.emea.europa.eu
+
+<div style=\"page-break-after: always\"></div>
+
+1.
+
+1.1.
+
+1.2.
+
+2.
+
+2.1.
+
+2.2.
+
+2.3.
+
+2.4.
+
+2.5.
+
+2.6.
+
+## TABLE OF CONTENTS
+
+BACKGROUND INFORMATION ON THE PROCEDURE........................................... 3
+
+Submission of the dossier ...................................................................................................... 3
+
+Steps taken for the assessment of the product..................................................................... 3
+
+SCIENTIFIC DISCUSSION................................................................................................. 4
+
+Introduction............................................................................................................................ 4
+
+Quality aspects ....................................................................................................................... 5
+
+Non-clinical aspects................................................................................................................ 8
+
+Clinical aspects..................................................................................................................... 13
+
+Pharmacovigilance............................................................................................................... 72
+
+Overall conclusions, risk/benefit assessment and recommendation................................ 77
+
+Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. BACKGROUND INFORMATION ON THE PROCEDURE
+
+## 1.1. Submission of the dossier
+
+The applicant BIAL - Portela &amp; Ca, S.A. submitted on 03 March 2008 an application for Marketing Authorisation  to  the  European  Medicines  Agency  (EMEA)  for  Exalief,  through  the  centralised procedure under Article 3 (2) (a) of Regulation (EC) No 726/2004. The eligibility to the centralised procedure was agreed upon by the EMEA/CHMP on 27 June 2007.
+
+The legal basis for this application refers to:
+
+- During the CHMP meeting on 15-18 December 2008, the CHMP agreed on a list of outstanding issues to be addressed in writing by the applicant .
+
+A - Centralised / Article 8(3) / New active substance. Article 8.3 of Directive 2001/83/EC, as amended - complete and independent application. The application submitted is a complete dossier, composed of administrative information, complete quality  data,  non-clinical  and  clinical  data  based  on  applicants'  own  tests  and  studies  and/or bibliographic literature substituting/supporting certain tests or studies. Scientific Advice: The applicant received Scientific Advice from the CHMP on 14 December 2006 and 21 June 2007. The Scientific Advice pertained to non-clinical and clinical aspects of the dossier. Licensing status: The product was not licensed in any country at the time of submission of the application. The Rapporteur and Co-Rapporteur appointed by the CHMP and the evaluation teams were: Rapporteur: Karl Broich Co-Rapporteur: Martin Votava 1.2. Steps taken for the assessment of the product · The application was received by the EMEA on 03 March 2008. · The procedure started on 26 March 2008. · The  Rapporteur's  first  Assessment  Report  was  circulated  to  all  CHMP  members  on  13  June 2008. The Co-Rapporteur's first Assessment Report was circulated to all CHMP members on 13 June 2008. In accordance with Article 6(3) of Regulation (RC) No 726/2004, the Rapporteur and  Co-Rapporteur  declared  that  they  had  completed  their  assessment  report  in  less  than 80 days. · During  the  meeting  on  21-24  July  2008,  the  CHMP  agreed  on  the  consolidated  List  of Questions to be sent to the applicant. The final consolidated List of Questions was sent to the applicant on 25 July 2008. · The  applicant  submitted  the  responses  to  the  CHMP  consolidated  List  of  Questions  on 16 October 2008. · The Rapporteurs circulated the Joint Assessment Report on the applicant's responses to the List of Questions to all CHMP members on 28 November 2008. Medicinal product no longer authorised
+
+- The applicant submitted the responses to the CHMP List of Outstanding Issues on 15 January 2009.
+- The Rapporteurs circulated the Assessment Report on the applicant's responses to the List of Outstanding Issues to all CHMP members on 02 February 2009.
+- During  the  meeting  on  16-19  February  2009,  the  CHMP,  in  the  light  of  the  overall  data submitted  and  the  scientific  discussion  within  the  Committee,  issued  a  positive  opinion  for granting a Marketing Authorisation for Exalief on 19 February 2009. The applicant provided the
+
+<div style=\"page-break-after: always\"></div>
+
+letter of undertaking on the follow-up measures to be fulfilled post-authorisation on 19 February 2009.
+
+## 2. SCIENTIFIC DISCUSSION
+
+## 2.1. Introduction
+
+Epilepsy  is  a  chronic  disease  that  requires  long-term  treatment.  The  World  Health  Organisation (WHO) estimates that around 50 million people in the world have epilepsy at any one time, which is roughly 1% of the world population. Recent studies have shown that up to 70% of newly diagnosed children  and  adults  with  epilepsy  in  both  developed  and  developing  countries  can  be  successfully treated  (i.e.  their  seizures  can  be  completely  controlled  for  several  years)  with  AEDs.  However, despite a broad range of AEDs available on the market, roughly 30-40% of patients with epilepsy are uncontrolled  with  available  treatment  and  a  further  25%  suffer  from  significant  adverse  effects [CPMP/EWP/566/98 rev1]. This is due to poor response and to the associated toxicities of available AEDs.
+
+A scientific advice for this product was given by the CHMP 2006-12-14  Scientific recommendations have been given by Sweden in 2006. A paediatric development programme has been announced, but not submitted yet. This is acceptable as at the day of submission of the application the inclusion of a PIP was not formally mandatory. However, the applicant declared that the use of ESL in children will be applied for after the Marketing Authorisation Application (MAA) for the adult indication has been granted.
+
+About the product Exalief  tablets  contain  the  new  active  substance  eslicarbazepine  acetate,  which  was  designed  to constitute  a  third  generation,  single-enantiomer  member  of  the  long-established  family  of  first-line dibenz[/b,f/]azepine  anti-epileptic  drugs  represented  by  carbamazepine  (CBZ,  first-generation)  and oxcarbazepine (OXC, second generation). The product is available in strengths of 400 mg, 600 mg, and 800 mg. The proposed indication is 'Adjunctive therapy in adults with partial-onset seizures with or  without  secondary  generalisation'.  The  use  of  ESL  in  children  will  be  applied  for  after  the Marketing Authorisation Application (MAA) for the adult indication has been granted. The recommended dose is 800 mg once daily. New patients should be initiated on 400 mg once daily for one week before up titration. Based on individual response, the dose may be increased to 1200 mg once  daily.  Dose  adjustments  are  recommended  based  on  renal  function,  otherwise  no  dose recommendations for special populations are proposed. Eslicarbazepine  acetate (ESL) is a prodrug of eslicarbazepine, which is the drug entity responsible for the  ESL pharmacological effect. Preclinical experiments suggest that both ESL and eslicarbazepine competitively interact with site 2 of the inactivated state of a voltage-gated sodium channel (VGSC), preventing its return to the active state and repetitive neuronal firing. The precise mechanism by which ESL exerts its antiepileptic effects remains to be fully elucidated. The development programme/Compliance with CHMP Guidance/Scientific Advice The  clinical  development  programme  included  22  Phase  I  studies  in  healthy  subjects  or  special populations, 2 Phase II studies and 3 Phase III studies. In addition, 3 Phase II studies were performed in adults with bipolar disorder. In these studies, ESL at any dose was administered to a total of 1694 subjects: 558 non-epileptic adults, and 936 adults and 31 children with refractory partial epilepsy and 172 adults  with  bipolar  disorder.  All  ESL  doses  were  given  orally  in  the  clinical  studies,  either  as tablets or as a suspension. Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+## 2.2. Quality aspects
+
+## Introduction
+
+Exalief  is  presented  as  tablets  containing  400,  600  or  800 mg  of  eslicarbazepine  acetate  (active substance). The excipients used in the formulation of the finished product are well known excipients such as povidone K29/32, croscarmellose sodium and magnesium stearate.
+
+Exalief 400 mg tablets are white circular biconvex, engraved 'ESL 400' on one side and scored on the other side. The scoreline is only to facilitate breaking for ease of swallowing and not to divide into equal doses.
+
+<!-- image -->
+
+Exalief 600 mg tablets are white oblong, engraved 'ESL 600' on one side and scored on the other side. The tablet can be divided into equal halves. Exalief 800 mg tablets are white oblong, engraved 'ESL 800' on one side and scored on the other side. The tablet can be divided into equal halves. Tablets are packaged in Alu/Alu or Alu/PVC blisters placed into cardboard boxes. Tablets of 600 mg and 800 mg strengths may be packed in HDPE bottles with polypropylene child resistant closure and placed into cardboard boxes. Active Substance The active substance is chemically designated as (S)-10-Acetoxy-10,11-dihydro-5Hdibenz[b,f]azepine-5-carboxamide (Chemical Name) and has the following structure: Eslicarbazepine  acetate  has  one  chiral  centre,  so  it  is  optically  active.  It  is  synthesized  as  the S-enantiomer with the (S)-configuration  at  C10.  It  is  white  to  off-white,  non-hygroscopic,  odourless crystalline solid. The solubility of eslicarbazepine acetate in organic solvents at a temperature between 15 and 25 ºC, and in aqueous buffer solutions with a pH between 1.20 and 7.40, at 37 ± 1 ºC, has been determined according to Ph Eur and USP classification. Under physiological conditions eslicarbazepine acetate is a non ionisable compound. Hydrolysis of the ester group occurs at low and high pH (1.2 and 10, respectively). It melts at 184 - 187 ºC, with decomposition. Medicinal product no longer authorised
+
+No polymorphs were observed by X-ray powder diffraction (XRPD), differential scanning calorimetry (DSC), thermogravimetric analysis (TGA), hot stage microscopy, spectroscopy (FT-Raman and FTIR), and moisture sorption/desorption analysis.
+
+## · Manufacture
+
+The  synthesis  of  the  drug  substance  consists  of  five  steps  followed  by  a  micronisation  step.  Four intermediates  are  isolated  during  the  manufacture  of  eslicarbazepine  acetate.  In  process  controls include tests for diastereomeric and enantiomeric purity.
+
+<div style=\"page-break-after: always\"></div>
+
+The proposed manufacturing process has been adequately described, critical steps and accompanying in-process  controls  have  been  defined  to  ensure  quality  of  the  final  compound.  In-process  controls performed during the synthesis are suitable to control the reaction progress. Appropriate specifications for starting materials, solvents and reagents have been established.
+
+The structure of eslicarbazepine acetate has been confirmed by elemental analysis (C, H and N), and spectroscopic  analyses  (IR,  UV, 1 H-NMR, 13 C-NMR  and  mass  spectrometry).  Typical  spectra  of eslicarbazepine acetate have been provided and analysed in detail
+
+Potential  impurities  originating  from  starting  materials,  intermediates,  by-products,  and  degradation products have been discussed in relation to their origin and potential carry-over into the final drug substance. Residual solvents and heavy metals are routinely controlled. · Specification The  drug  substance  specification  includes  tests  for  appearance  particle  size  distribution  (laser diffraction),  identification  (IR  and  HPLC),  assay  (HPLC),  purity,  including  enantiomeric  purity (HPLC),  water  content  (Karl  Fisher),  melting  point,  residue  on  ignition,  heavy  metals,  residual solvents (GC), microbial purity and sulphated ash. All non-compendial analytical methods have been validated. The HPLC methods for assay and purity have  been  validated  for  specificity  (selectivity),  linearity,  accuracy,  precision  (system  precision, analysis  repeatability,  intermediate  precision),  recovery,  LOD,  LOQ,  stability  of  solutions,  and robustness.  Forced  degradation  studies  with  eslicarbazepine  acetate  were  performed  under  several stress  conditions  e.g.  by  treatment  with  heat,  under  acidic  and  alkaline  conditions  as  well  as  under oxidizing conditions to justify the specificity of the method for purity. The GC method for residual solvents has been validated regarding specificity (selectivity), linearity, accuracy,  precision  (system  precision,  analysis  repeatability,  intermediate  precision),  LOD,  LOQ, stability  of  solutions,  and  robustness.  Suitable  validation  data  for  the  water  determination  (KarlFischer) and the particle size test method have also been provided. In general analytical methods have been sufficiently validated and are suitable to control the quality of the drug substance. Batch analysis data on 6 batches from the proposed manufacturing sites has been provided. In addition information about all eslicarbazepine acetate batches used in non-clinical, clinical and stability studies has  also  been  given.  All  results  are  with  specifications  and  show  batch-to-batch  and  site-to-site consistency. · Stability Stability studies have been performed on three consecutive production scale batches of eslicarbazepine acetate at real time (25° C/60 % RH) and intermediate conditions (30° C/65 % RH). The same batches have been tested at accelerated conditions (40° C/75 % RH)) for 6 month. The specification and the analytical methods used were the same as those proposed for control of the drug substance. Medicinal product no longer authorised
+
+The  stability  data  showed  that  the  drug  substance  is  stable  under  real  time,  intermediate  and accelerated  storage  conditions.  All  parameters  tested  in  the  stability  studies  remained  within  the specified limits over the period tested. There was no evidence of any significant change or degradation under any of the conditions.
+
+A photostability study has been performed on one batch of the drug substance. The protocol was in line with the Note for Guidance on Photostability Testing of New Active Substances and medicinal Products.
+
+The stability studies confirmed the proposed re-test period, when the drug substance is stored in the proposed containers.
+
+<div style=\"page-break-after: always\"></div>
+
+## Medicinal Product
+
+## · Pharmaceutical Development
+
+In order to assure the convenience of administration and precision of dosage the drug product has been developed as immediate-release tablets for oral administration. Compatibility between eslicarbazepine acetate and excipients in the formula intended for marketing as well as some of the excipients used in clinical trial formulations has been investigated in compatibility studies. No major incompatibilities have been determined. In early development phase different formulations were used in clinical trials. Comparative studies were performed to demonstrate in-vitro and in-vivo equivalence between these formulations and the formulation intended for marketing. Obtained results confirmed that formulations were comparable.
+
+The  robustness  of  manufacturing  procedure  for  the  proposed  commercial  formulation  has  been demonstrated  by  successful  manufacture  of  several  batches  at  a  manufacturing  scale.  Extensive experience  over  the  years  demonstrates  that  the  manufacturing  process  is  well  under  control  and  a drug product of adequate quality within the approved specifications is obtained and a continuously high level of quality can be guaranteed.
+
+The  impact  of  different  particle  sizes  of  the  active  substance  on  dissolution  has  been  investigated during the development phase. As the active substance has low aqueous solubility the particle size is reduced by milling during the manufacture in order to increase surface area and consequently improve dissolution.  Three  active  substance  batches  representing  small,  intermediate  and  large  particle  size within the specified range were selected for study and showed similar dissolution profiles. Moreover study  comparing in  vitro behaviour  of  tablets  with  active  substance  from  different  sources  and different synthesis pathways has been carried out.. Data on the development of the dissolution method has also been provided. Initially a 'conventional' dissolution method had been selected with a single point specification and with standard pharmacopoeial conditions. Although sink conditions were not reached, it was decided not to use a surfactant,  in  order  not  to  decrease  the  discriminatory  power  of  the  dissolution  method.  Sufficient discriminatory power could be demonstrated. However, during formulation development results from some formulations  with  different  amounts  of  excipients  in  the  tablet  led  to  increased  amplitude  of variation of results. To avoid misleading out of specification results an alternative dissolution method has been developed. It has been shown, based on the performed experiments, that the method is able to discriminate  among  drug  product lots  that  are  found  to  have  minor  differences  in  the  composition, hardness, moisture or manufacturing process. Dissolution method assures consistent product performance. · Adventitious Agents The drug product does not contain any substances with TSE/BSE risk. Magnesium stearate used in the formulation is of vegetable origin. · Manufacture of the Product A standard manufacturing process, which is direct compression of a dry blend, is utilised for the drug product  manufacture. The drug  substance  is  pre-mixed  with  excipients  and  the  obtained  pre-mix  is wetted and then granulated. After drying the granulate is mixed with excipients and compressed. The  critical  steps  of  the  manufacturing  process  have  been  identified  and  adequately  studied. Appropriate in-process controls of the critical steps have been established. Medicinal product no longer authorised
+
+## · Product Specification
+
+The product specification is standard for tablets and contains tests with suitable limits for appearance (description), identification (HPLC), average weight, uniformity of dosage units, thickness, hardness, friability,  water  content  (Karl  Fisher),  dissolution,  assay  (HPLC),  degradation  products  (HPLC), microbial purity.
+
+<div style=\"page-break-after: always\"></div>
+
+Analytical  methods  have  been  adequately  described  and  validated  for  the  intended  use.  The  HPLC method for assay, identification, and degradation products has been validated with respect to solution stability, selectivity, LOD and LOQ, linearity, repeatability of the system, repeatability of the method, intermediate  precision,  accuracy,  recovery,  and  robustness.    The  HPLC  method  used  for  the dissolution testing has been validated for solution stability, carryover, selectivity, linearity, repeatability of the system, repeatability of the test procedure, intermediate precision, accuracy, and robustness. The proposed two Karl Fisher methods (coloumetric and volumetric titration) for the water content have also been validated.
+
+Results  from  several  batches  of  400,  600  and  800  mg  tablets  have  been  presented.  The  batch  data comprises results both for the commercial formulation and for the batches of other formulations used in the pivotal phase III studies. Results for non-commercial batches have been provided as supportive information.  Batch  analysis  results  on  6  batches  of  the  drug  product  (each  strength)  indicate satisfactory uniformity and compliance with the agreed specification. · Stability of the Product Two separate stability studies have been initiated, one study with pilot scale batches manufactured in the site intended for commercial manufacturing and in an alternative site used during the development. Both studies comprise tablets 400, 600 and 800 mg packaged in the three different packaging materials (Alu/Alu blisters, PVC/Alu blisters and HDPE bottles) intended for marketing. Three bulk batches of each of the tablet strengths were manufactured. Tablets from each bulk batch were then packaged in all  three  packaging  materials,  and  were  assigned  with  separate  batch  numbers.  Batches  have  been stored under long-term (25 ±2 °C/60±5% RH), intermediate (30 ± 2°C/65±5 % RH), accelerated (40 ± 2°C/75±5 % RH) conditions. The  photostability  study  was  performed  according  to  ICH  Q1B  guideline  which  demonstrates satisfactory resistance to photodegradation under ICH conditions. The applicant declared that the ongoing stability studies at both sites will be continued according to the stability protocols presented. Also first 3 commercial batches of each strength of will be placed on stability and the studies will follow the same principles outlined for the Registration batches. Based on the stability data the proposed shelf-life and storage conditions as defined in the SPC are acceptable. Discussion on chemical, pharmaceutical and biological aspects Information  on  development,  manufacture  and  control  of  the  drug  substance  and  drug  product  has been  presented  in  a  satisfactory  manner.  The  results  of  tests  carried  out  indicate  satisfactory consistency and uniformity of important product quality characteristics, and these in turn lead to the conclusion that the product should have a satisfactory and uniform performance in the clinic. 2.3. Non-clinical aspects Introduction Medicinal product no longer authorised
+
+Eslicarbazepine acetate (ESL) represents a third-generation, single enantiomer member of the wellknown family of first-line dibenz[b,f]azepine antiepileptic drugs carbamazepine (CBZ, first generation) and oxcarbazepine (OXC, second generation ). Although the precise mechanism of action is unknown electrophysiological studies indicate that both ESL and its active metabolites stabilize the inactivated  state  of  voltage-gated  sodium  channels  (site  2).  Therefore,  ESL  is  supposed  to  act  as  a voltage-gated sodium channel blocker.
+
+The pharmacology studies have utilised ESL, eslicarbazepine, R-licarbazepine and OXC. In addition, the congener drug CBZ has been used as a comparator in some studies. In few studies the mixture of both enantiomers (eslicarbazepine + R-licarbazepine ) were used.
+
+<div style=\"page-break-after: always\"></div>
+
+## GLP aspects
+
+All  safety  and  toxicity  studies  were  conducted  in  GLP  compliance,  with  the  exception  of  the NOVASCREEN study.
+
+## Pharmacology
+
+The  primary  pharmacodynamic in  vivo and in vitro studies  were  directed  at  examining  the anticonvulsive properties of ESL and its metabolites in well-known models for testing anticonvulsive activity (maximal electroshock, corneal kindling, different chemoconvulsant tests). The in vitro profile of  ESL  was  established  in  a  series  of  receptor  binding  studies  and  brain  microdialysis  studies. Analgesic  activity  of  ESL  was  assessed  in  the  mouse  formalin  paw  test.  Biological  activity  and selectivity was also evaluated in vitro (NOVASCREEN study).
+
+No effects on gross behavioural or physiological state were observed in mice following oral treatment with ESL at the lower doses of 50 mg/kg. Dose-dependent sedative/myorelaxant effects ( sedation, motor signs, decreased fear and reactivity to touch, abnormal gait ) were observed with ESL over the dose-range  from  250  to  500  mg/kg  when  given  as  a  single  oral  gavage  dose  to  male  mice.  Dosedependent hypothermia was observed at 100, 250 and 500 mg/kg. Convulsions and Straub tail was observed at 500 mg/kg and mydriasis at 250 mg/kg. After a dose of 150 mg/kg or higher in rats almost identical symptoms occurred.
+
+· Primary pharmacodynamics Primary pharmacodynamics was evaluated in many in vitro and in vivo studies. Study results suggested that ESL did not interact with benzodiazepine, GABA and glutamate. Pharmacological  profile  of  ESL,  assessed in  vivo in  mice  and  rats,  suggested  that  eslicarbazepine acetate  is  an  effective  anticonvulsant  and  is  able  to  protect  against  maximal  electroshock  seizure (MES)  and  a  variety  of  convulsant  agents.  Further  ESL  may  exert  anticonvulsant  properties  by interfering selectively with rapidly firing neurones over neurones displaying normal activity. Effects of ESL and its metabolites eslicarbazepine, R-licarbazepine and oxcarbazepine in the maximal electroconvulsive shock test were evaluated in male mice. Statistically significant decrease (-100%) in the number of tonic convulsion was observed after administration of 50 mg/kg and higher doses of all four  test  articles,  for  oxcarbazepine  also  after  the  25  mg/kg  dose.  These  studies  revealed  that,  in mouse, eslicarbazepine is major metabolite of ESL and only a minor metabolite of (R)-licarbazepine and oxcarbazepine. · Secondary pharmacodynamics The Applicant presented only one secondary pharmacodynamic study investigating analgesic activity of  ESL  and  its  metabolites  (eslicarbazepine,  R-licarbazepine  and  oxcarbazepine)  and  indicated presence of analgesic activity for the test substances. · Safety pharmacology programme The safety pharmacology of ESL has been performed in mice, rats and dogs. In addition several in vitro studies were performed to assess cardiovascular risk. Behavioural effects Medicinal product no longer authorised
+
+## Renal function
+
+ESL, at 50 or 100 mg/kg, had no effect on renal function (diuresis and urinary electrolyte excretion) in the mouse.  At 250 mg/kg ESL significantly reduced urinary volume, sodium and potassium excretion and tended to decrease creatinine excretion.  At 500 mg/kg, ESL markedly reduced or totally inhibited diuresis and markedly reduced sodium, potassium and creatinine excretion.  Clinical signs of tremor, hypothermia, lack of motor coordination and marked sedation were also observed at 500 mg/kg.  ESL,
+
+<div style=\"page-break-after: always\"></div>
+
+at 15 or 50 mg/kg, had no effect on renal function in saline-loaded rats.  At 150 mg/kg ESL may have had a small effect on renal function
+
+## Gastrointestinal transit
+
+In mice both the gastrointestinal transit and gastric emptying was decreased at all doses tested. In rats 15 mg/kg had no effect on gastrointestinal function, higher doses inhibited gastrointestinal transit
+
+## Respiratory function
+
+Respiratory  function  was  assessed  in  conscious  mice  using  whole  body  plethysmography.  ESL reduced  the  transient  changes  in  the  respiratory  parameters  observed  shortly  after  administration. Thereafter, 50 and 100 mg/kg p. o. of ESL had no significant effects on respiration up to the end of the four  hour  test  period.  After  200  mg/kg  long-lasting  effects  suggestive  of  respiratory-depressant properties and an obstruction of the airway function was observed.
+
+| Species/ Strain Doses (mg/kg)   | Species/ Strain Doses (mg/kg)   | Sex/Number/ Group   | Approximate Lethal Dose (mg/kg)   | Major findings                                                                                                                |
+|---------------------------------|---------------------------------|---------------------|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Mouse/ CD-1                     | 150, 300, 500 p.o.              | 5 ♂ + 5 ♀           | 500                               | -no mortality -subdued behaviour, abnormal gait, piloerection, closed eyes (M, F; HD) -1 F (HD) sacrificed for humane reasons |
+| Mouse/ CD-1                     | 100 i.v. bolus                  | 5 ♂ + 5 ♀           | 100                               | -mortality (1 F) -prostrate, breathing difficulties (M, F) -convulsions (F)                                                   |
+| Rat/ Sprague Dawley             | 150, 300, 500 p.o.              | 5 ♂ + 5 ♀           | > 500                             | -no mortality -subdued behaviour, abnormal gait, piloerection, cold extremities (M, F; HD)) - ↓ body weight gain (M; HD)      |
+| Rat/ Sprague Dawley             | 50, 100 i.v. bolus              | 5 ♂ + 5 ♀           | < 50                              | -mortality (2 F, 2 M; LD)(2 F; HD) -3 F (HD), 5 M(HD) sacrificed for humane reasons                                           |
+
+Cardiovascular system Potential effects on the cardiovascular system have been investigated both in vitro and in vivo studies. No  significant  effect  on  arterial  blood  pressure,  PR  interval,  QRS  duration,  QTc  interval,  left ventricular  pressure  variables,  respiration  rate,  cardiac  output,  stroke  volume,  peripheral  resistance, arterial blood gases, mean femoral arterial blood flow and conductance were shown. · Pharmacodynamic drug interactions No pharmacodynamic drug interaction studies were conducted. Pharmacokinetics During the early phase of the development ESL and its metabolites were analysed by HPLC-MS and HPLC-UV methods, which did not distinguish between the enantiomeric monohydroxy metabolites (eslicarbazepine and R-licarbazepine). In the later phase, a chiral LC-MS/MS method was developed which allowed determination of eslicarbazepine and R-licarbazepine. ESL is a prodrug which is hydrolysed to the main metabolite eslicarbazepine. Minor metabolites are OXC and R-licarbazepine.  The  metabolism  of  ESL  is  species-dependent.  The  metabolic  profile  of ESL in men is similar to the profile seen in mice, dogs and rabbits; whereas rat's metabolic profile is considerably different. Toxicology · Single dose toxicity The single-dose  toxicity  of  ESL  was  examined following  oral  or  i.v.  bolus  administration  to  CD-1 mice or Sprague Dawley rats. Summary of Single-Dose Toxicity Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+| Species/ Strain   | Doses (mg/kg)   | Sex/Number/ Group   | Approximate Lethal Dose (mg/kg)   | Major findings                                                                                                                                                                                                                                                                                                 |
+|-------------------|-----------------|---------------------|-----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                   |                 |                     |                                   | -prostrate, breathing difficulties, dull eyes, salivation, red urine (M, F; LD, HD) -necropsy findings: reddened cervical lymph node (1 dead F; LD), reddened upper colon (1 dead M; LD), urinary bladder distended with red fluid (4 M, 3 F; HD), clear fluid in bladder (1 M; HD); speckled thymus (1 F; HD) |
+
+F: female, M: male, LD: low dose, HD: high dose
+
+The approximate lethal doses identified after oral application were 500 mg/kg in the mouse and more than 500 mg/kg in the rat. After bolus intravenous administration the approximate lethal doses were 100  mg/kg  for  the  mouse  and  less  than  50  mg/kg  for  the  rat.  Subdued  behaviour,  abnormal  gait, piloerection, convulsions and breathing difficulties were signs immediately seen after drug application. These signs were no longer apparent on the day following dosing. Mortality was observed in mice and rats after intravenous application of ESL. Necropsy findings in rats were mainly related to the bladder. Sedative  /  myorelaxant  effects  and  bladder  findings  became  apparent  in  the  single-dose  toxicity studies with ESL. The studies conducted are sufficient and no further single dose toxicity studies were required. · Repeat dose toxicity (with toxicokinetics) Repeat-dose toxicity studies with ESL were conducted in mouse, rat and dog. Additionally, studies with eslicarbazepine and R-licarbazpine were conducted in the rat. The rat was initially selected as rodent species, however, because the metabolic profile of ESL in mice was found to be much closer to that in human, additional studies were performed in mice. Marked  clinical  signs  (e.g.  subdued  behaviour,  piloerection,  unsteady  gait)  were  observed  in  mice and/or  dogs  after  ESL-treatment.  Increases  in  liver  weights  including  increases  in  cholesterol  and centrilobular  hypertrophy  of  the  liver  were  observed  after  ESL-treatment  of  all  animal  species investigated. These  observations  were  attributed  to  liver  enzyme  induction.  Liver  enzyme  induction  has  been demonstrated in mice following daily oral dosing for 5 days with ESL, OXC and CBZ at 30 mg/kg. In  the  mouse,  spleen  findings  (dose-related  increase  in  weight  and  extramedullary  hematopoiesis) were observed in male animals. Medicinal product no longer authorised
+
+In  the  rat,  clinical  signs  were  not  that  obvious  after  ESL-treatment  unlike  that  in  mice  and  dogs. Increases  in  kidney  weights  and  nephropathy,  which  were  not  completely  reversible,  were  effects observed  after  ESL-treatment.  Treatment  of  rats  with  the  main  human  metabolite  eslicarbazepine induced  similar  clinical  signs  like  ESL-treatment  of  mice  and  dogs.  Eslicarbazepine-treated  rats showed  also  increased  liver  weights  (with  centrilobular  hypertrophy  of  the  liver  and  increases  in cholesterol),  lower  thymus  weights,  epithelial  hypertrophy  of  the  thyroid  and  histopathological changes in the ovaries of female animals. R-licarbazepine treatment of rats was primarily associated with lesions in the liver and stomach of both sexes and in the kidneys of male animals.
+
+In  the  dog,  besides  clinical  signs  and  liver  effects,  extended  aPTT  values  were  the  most  obvious finding  after  ESL-treatment.  aPTT  changes  probably  reflect  a  reduction  in  liver  synthetic  capacity. Effects of ESL or eslicarbazepine treatment on reproductive organs were observed in rats and dogs, which were assessed under consideration of findings from the reproductive toxicity studies
+
+Toxicokinetic  studies  were  concurrently  performed  with  all  repeat-dose  studies.  ESL  is  rapidly metabolised in all animal species. The main metabolite observed in mice and dogs is eslicarbazepine followed by oxcarbazepine and only minor amounts of R-licarbazepine. In the rat, the main metabolite
+
+<div style=\"page-break-after: always\"></div>
+
+is oxcarbazepine, followed by eslicarbazepine and minor amounts of R-licarbazepine. In humans, ESL is quickly metabolised to eslicarbazepine and only minor amounts of R-licarbazepine and oxcarbazepine. Therefore, the metabolite profile of ESL, respectively the systemic exposure towards the metabolites, in mice and dogs is much more similar to that in man than that in rats. However, if exposures towards eslicarbazepine, the main metabolite in humans, are compared, exposure ratios are appreciably lower in all animal species investigated. Therefore no safety margins can be calculated and this is reflected in the SPC (section 5.3).
+
+- Genotoxicity
+
+ESL was extensively tested in a battery of in vitro and in vivo tests for genotoxicity with AMES assay, mouse lymphoma test, chromosomal aberration in CHO and human peripheral lymphocytes, and in vivo mouse micronucleus test and mouse liver UDS test. From the results it can be concluded that ESL has some clastogenic activity in certain mammalian cell systems (mouse lymphoma and CHO cells) in vitro whereas  in  others  (human  peripheral  lymphocytes)  it  obviously  is  negative.  As  ESL  does  not show any mutagenic activity in the AMES assay and in vivo assays in mouse with high exposures, the equivocal results in in vitro cytogenetic assays are not considered to be biologically relevant.
+
+· Carcinogenicity The  rat  metabolises  ESL  primarily  to  OXC,  which  represents  approximately  86%  of  compoundderived  circulating  material.  The  relevance  of  conducting  a  carcinogenicity  study  in  rats  was  thus questionable as, in effect, this would have had only very limited relevance to man, given that OXC circulates  at  only  very  low  ( ≤ 1% of circulating material) levels in man following administration of ESL and the monohydroxy metabolites represent approximately 99% of circulating material. A study in  rats  was  of  no  value  and  thus  the  mouse  -  in  which  the  monohydroxy  metabolites  represent approximately 70-75% of circulating material (together with approximately 25% OXC) - becomes the species  of  choice  for  a  carcinogenicity  study.  It  therefore  was  considered  valid  to  only  investigate potential carcinogenicity in a single species, the mouse. This strategy had been discussed in scientific advice from both the Swedish Medical Products Agency and the FDA; both agencies agreed that a carcinogenicity study in rats would serve no purpose. The 104 weeks mouse study showed clear evidence for ESL to be a potent rodent liver carcinogen which  could  have  been  expected  given  the  relationship  to  oxcarbazepine  and  carbamazepine. Therapeutic relevance of the carcinogenic potential of ESL in rodents however is questionable due to the  known  sensitivity  of  mice  to  hepatic  carcinogenicity  when  treated  with  inducers  of  hepatic enzymes and suggesting a species specific effect. Such effects are known from liver enzyme induction studies and carcinogenicity studies in rodents with the closely related substances oxcarbazepine and carbamazepine. Both also induced cell proliferation in vitro in CHO cells. BIAL has substantiated its assumption that liver tumours found in mice have probably been caused by chronic  induction  of  liver  enzymes  as  demonstrated  in  the  report  AL081212.  This  report  was  filed retrospectively to summarize a study performed during drug development already in 2000. This study was not performed according to GLP requirements and this had been the reason for not submitting it with  the  original  MAA.  However  the  report  shows  that  ESL  significantly  induced  liver  enzymatic activity of CYP2A6, CYP2C19, CYP2C9, CYP2E1  and CYP3A4  as indicated by higher transformation of the respective model substrates. Also the study seemed to be adequately performed and reliable. It therefore seems justified to assume hepatic effects observed in mice as being ultimately caused by the increase of liver metabolic function. Medicinal product no longer authorised
+
+- Reproduction Toxicity
+
+Like in repeat-dose studies, general toxic effects were observed in males and females treated with ESL in the reproductive toxicity studies. In a fertility study in male and female rats, impairment of female fertility  by  ESL  was  shown.  In  a  fertility  study  in  mice,  developmental  effects  were  observed  in embryos; however, effects could also result from lower corpora lutea count and thus show impairment of  fertility. Corpora  lutea counts  were  determined  but  considered  to  be  unreliable.  No  in-depth investigation  was  performed  on  male  fertility  in  both  fertility  studies  (e.g.  no  sperm  analysis  or epididymis  weights  missing).  Embryotoxicity  studies  were  performed  in  rats,  mice  and  rabbits. Reduced foetal weights, minor skeletal abnormalities and variations as well as ossification delays were
+
+<div style=\"page-break-after: always\"></div>
+
+observed in all embryotoxicity studies. In the mouse, the overall incidence of major abnormalities and the  incidence  for  major  skeletal  abnormalities  were  increased.  In  the  rat  embryotoxicty  study, statistically  significant  incomplete  ossifications  of  various  bones  of  the  skull,  thoracic  vertebrae, sternum and pelvic girdle were observed. Concomitantly maternal toxicity was noticed, but no direct correlation could be drawn between maternal toxicity and toxic effects observed in foetuses. Studies on effects of ESL on the pre-postnatal development were performed in mice and rats. Trends towards prolonged gestation and increases in the duration of parturition were observed for ESL-treated rats. A delay in attainment of sexual development milestones of male and female pups was observed in both studies.  In  the  rat  study,  pup  mortality  was  observed  which  was  related  to  poor  maternal  care.  No effects on F1 fertility parameters were observed in rats and mice. Milk transfer of eslicarbazepine was shown  for  mice.  Altogether,  exposure  ratios  of  animal  to  human  exposure  to  the  main  metabolite eslicarbazepine were low in the studies on reproductive toxicity. No safety margins exist.
+
+· Toxicokinetic data Concurrently with nearly all of the repeated dose studies, an evaluation of toxicokinetic parameters was  performed.  An  achiral  method  was  used  for  mouse  and  dog  studies  that  did  not  differentiate between  the  two  metabolites  eslicarbazepine  and  R-licarbazepine.  Accordingly,  data  about  the formation of both isomers in mice and dogs have to be taken from other studies. Metabolite patterns obtained for mice and dogs after repeated dosing, show that ESL is quickly metabolised to BIA 2-005 (eslicarbazepine  and  R-licarbazepine)  and  oxcarbazepine.  Systemic  exposure  towards  BIA  2-005  is much higher in both species than to oxcarbazepine. For the mouse, a sex-related difference in the rate and/or routes of metabolism was observed. For the rat, data are available that differentiate between eslicarbazepine and R-licarbazepine. ESL was rapidly metabolised mainly to oxcarbazepine, followed by  eslicarbazepine  and  to  only  minor  amounts  of  R-licarbazepine.  Sex-related  differences  in  the amount of metabolites were observed that indicate a lower metabolising capacity in female rats. Altogether, toxicokinetic parameters show that the metabolite profile of the mouse and dog is much more similar to humans than the rat. Therefore, repeated dose studies in mice and dogs with ESL are of more relevance for safety assessment. According  to  the  guideline  on  the  evaluation  of  control  samples  in  nonclinical  safety  studies, toxicokinetic  data  should  have  been  presented  from  controls.  However,  most  of  the  studies  were performed before this guideline came into force, and is therefore acceptable. · Local tolerance No studies on local tolerance were performed, which is acceptable. Ecotoxicity/environmental risk assessment The  applicant  provided  an  environmental  risk  assessment  which  comprises  the  PECsw  calculation according  to  the  Guideline  CHMP/SWP/4447/00-final.  The  doseai  used  in  this  calculation  is  not correct  and  should  be  replaced  by  the  expected  maximum  daily  dose  of  1200  mg.  Under  all  other assumptions made by the applicant the higher dose leads to a PECsw of 11.73 ng/mL. Considering that a forecast of market success of a medicinal product cannot be taken into account in phase I of the ERA the  PECsw  will  be  586.6  ng/mL.  Because  the  action  limit  of  10  ng/ml  is  exceeded,  a  phase  II assessment will be submitted as a follow-up measure. Medicinal product no longer authorised
+
+## 2.4. Clinical aspects
+
+## Introduction
+
+Exalief (ESL, Eslicarbazepine acetate, chemical name (S)-10-acetoxy-10,11-dihydro-5Hdibenz[b,f]azepine-5-carboxamide, BIA 2-093) was designed to constitute a third-generation, singleenantiomer member of the long-established family of first-line dibenz/b,f/azepine anti-epileptic drugs (AEDs)  represented  by  carbamazepine  (CBZ,  first-generation)  and  oxcarbazepine  (OXC,  secondgeneration). Exalief shares with CBZ and OXC the dibenzazepine nucleus bearing the 5-carboxamide
+
+<div style=\"page-break-after: always\"></div>
+
+substitute  but  is  structurally  different  at  the  10,11-position.  This  molecular  variation  results  in differences in metabolism. Unlike CBZ, Exalief is not metabolised to CBZ-10,11-epoxide and is not susceptible  to  auto-induction  of  its  own  metabolism.  Unlike  OXC,  which  is  metabolised  to  both Eslicarbazepine (also called S-licarbazepine or BIA 2-194) and R-licarbazepine (also called BIA 2195),  Exalief  is  a  prodrug  of  Eslicarbazepine,  which  is  the  drug  entity  responsible  for  the  ESL pharmacological effect.
+
+Preclinical experiments suggest that both ESL and Eslicarbazepine competitively interact with site 2 of the inactivated state of a voltage-gated sodium channel (VGSC), preventing its return to the active state and repetitive neuronal firing.
+
+The precise mechanism by which ESL exerts its antiepileptic effects remains to be fully elucidated. ESL was tested in several  animal  seizure  models  predictive  of  anticonvulsant  efficacy,  such  as  the maximal electroshock seizure test in rats and mice and the corneal kindling in mice. ESL also showed protective  effects  against  seizures  induced  by  several  chemoconvulsants  in  rats  or  mice,  namely metrazole, bicuculline, picrotoxin, and 4-aminopyridine (4-AP). BIAL  submitted  an  application  for  Exalief  tablets  in  the  proposed  target  indication  of  adjunctive therapy in adults with partial-onset seizures with or without secondary generalisation. The recommended maintenance dose of Exalief is 800 mg once daily which may be increased to 1200 mg once daily. Exalief has been developed as tablets of 400 mg, 600 mg and 800 mg. In addition, during the clinical development, a solution has been used. GCP The Clinical trials were performed in accordance with GCP as claimed by the applicant The  applicant  has  provided  a  statement  that  clinical  trials  conducted  outside  the  community  were carried out in accordance with the ethical standards of Directive 2001/20/EC. Pharmacokinetics Introduction The pharmacokinetics of Exalief and its metabolites have been investigated in 24 clinical studies. Absorption · Bioavailability Eslicarbazepine acetate (BIA 2-093) is a prodrug of eslicarbazepine. Following oral administration, plasma levels of eslicarbazepine acetate usually remain below the limit of quantification. Eslicarbazepine tmax is attained at 2-3 hours (h) post-dose. Bioavailability is considered high since the amount of metabolites recovered in urine corresponded to more than 90% of an eslicarbazepine acetate dose and the main metabolite eslicarbazepine was responsible for more than 95% of systemic exposure after administration of eslicarbazepine acetate. Medicinal product no longer authorised
+
+## 1. Study No. BIA-2093-104
+
+Study No. BIA-2093-104 was a single centre, open label, randomized, two-way crossover study. In 12 healthy male and female volunteers the tolerability and pharmacokinetics of eslicarbazepine acetate vs. oxcarbazepine  and  their metabolites were  investigated. A  single 900  mg  oral  dose  of eslicarbazepine acetate respectively oxcarbazepine was administered.
+
+<div style=\"page-break-after: always\"></div>
+
+Serum drug levels were monitored for 96 hours following dosing, which was sufficient to meet the 80% rule for determination of AUCinf for Eslicarbazepine and oxcarbazepine. According to the study report Eslicarbazepine acetate could not be determined as the plasma concentration was systemically found to be below the limit of quantification.
+
+A dosage strength not intended for marketing was used as investigational product and the composition of the drug product is not stated. Therefore this study is only supportive.
+
+Following a single oral dose of 900 mg, eslicarbazepine acetate appeared to be rapidly and extensively metabolised to Eslicarbazepine.
+
+The ratio of AUCt and AUC ∞ is &lt;80% for oxcarbazepine after administration of Exalief. However, its Cmax  and AUC levels are found to be below 1% (calculated to Eslicarbazepine). It is therefore agreed that this substance is not a main metabolite. After a single dose of Exalief the tmax   of R-licarbazepine occurs later and Cmax  and AUC levels are lower compared to after administration of the oxcarbazepine product. These results are to be expected, as two additional metabolic steps are necessary in the formation of R-licarbazepine from eslicarbazepine acetate i.e.eslicarbazepine acetate Æ eslicarbazepine Æ Oxcarbazepine Æ Rlicarbazepine. 2. Study No. BIA-2093-110 Study  No.  BIA-2093-110  is  a  single  centre,  open  label,  randomized,  multiple-dose  three-way crossover study.  In  12  healthy  male  and  female  volunteers  the  tolerability  and pharmacokinetics  of eslicarbazepine acetate vs.  Oxcarbazepine and their metabolites were investigated. Serum drug levels were followed for day 1 to day 7 for pre-morning dose and for 96 hours following dosing on day 8. According to the study report Eslicarbazepine acetate could not be determined as the systemic plasma concentration was found below the limit of quantification. The sampling schedule was appropriate for accurate determination of Cmax ss. The washout period of 10 -15  days  between  phases  was  sufficient  to  ensure  unquantifiable  plasma  levels  at  the  start  of consecutive period (except subject #1). The randomisation schemes were balanced for sequence and appear random. A dosage strength not intended for marketing was used as investigational product and the composition of drug product is not stated. Therefore this is has only supportive. Pharmacokinetic Results Medicinal product no longer authorised
+
+| Treatment (geometric mean)           |   C max (Eslicarbazepine) (ng/mL) |   C min (Eslicarbazepine) (ng/mL) |   Fluctuation (%) |   AUC 0- τ (sum all metabolites) (ng.h/mL) | C max (sum all metabolites) (ng.h/mL)   |
+|--------------------------------------|-----------------------------------|-----------------------------------|-------------------|--------------------------------------------|-----------------------------------------|
+| eslicarbazepine acetate 1x900 mg/day |                             21103 |                              6980 |             127   |                                     304609 | 24966 ng/mL                             |
+| eslicarbazepine acetate 2x450 mg/day |                             16233 |                              9207 |              66.7 |                                     148935 | 17089 ng/mL                             |
+| OXC 2x450 mg/day                     |                             12055 |                              8650 |              38.4 |                                     149875 | 15490 ng/mL                             |
+
+The  proportion  ratios  of  the  metabolites  found  appear  congruent  with  the  results  of  the  precursor eslicarbazepine.
+
+<div style=\"page-break-after: always\"></div>
+
+Cumulative Cmax of the sum of eslicarbazepine + R-licarbazepine + oxcarbazepine was 29% higher following  administration  of  eslicarbazepine  acetate  900  mg  once-daily  in  comparison  with  BIA eslicarbazepine acetate 450 mg twice-daily. The ratio of geometric means of AUC during 24 hours between once daily/twice daily regimen was about 1.
+
+Cmin of eslicarbazepine acetate under once daily regimen is decreased and the fluctuation is increased almost twofold in comparison to twice daily administration.
+
+Cumulative  plasma  Cmax  of  eslicarbazepine  +  R-licarbazepine  +  oxcarbazepine  was  10%  higher following administration of eslicarbazepine acetate  450 mg twice-daily in comparison with OXC 450 mg  twice  daily.  The  ratio  of  geometric  means  of  cumulative  AUC  during  24  hours  between  once eslicarbazepine acetate and OXC regimen was about 1.
+
+Steady state for eslicarbazepine under Exalief therapy seems to be achieved after 4-5 days.
+
+Based on pharmacokinetical data an once a day regimen could be of disadvantage, as the fluctuation is more pronounced. Steady state (eslicarbazepine acetate) seems to be achieved after 4-5 days in any regimen. 3. Study No. BIA-2093-115 Study No. BIA-2093-115 was a single centre, open label, randomized, two period, four group parallel design study. 8 healthy adult volunteers were randomised per group. No dropouts were reported. In  each  group,  the  study  consisted  of  a  single-dose  period  (Phase  A)  followed  by  a  multiple  dose period of 7 days duration in which the investigational product was administered once daily (Phase B). Serum drug levels were followed for 96 hours in Phase A and in Phase B on day 6 and 10 at pre-dose and on day 11 for 96 hours. According  to  the  study  report  Eslicarbazepine  acetate  could  not  be  determined  as  the  plasma concentration was systemically found below the limit of quantification. The  sampling  schedule  was  appropriate  for  accurate  determination  of  Cmax.  The  duration  of  the multiple period was considered sufficient to reach steady state levels. Statistical methods and Variables No statistical analysis has been performed. Parameters investigated: Cmax, tmax, Cmin, AUC0-t AUC0τ AUC0-∞ λ z, degree of accumulation Pharmacokinetic Results The proportion ratios of the metabolites found appear to be congruent with the results of the other PK studies. Eslicarbazepine was the major circulating drug entity except for group 4 (450 mg R-licarbazepine) where it reached 11% and 18% levels if compared to R-licarbazepine. Oxcarbazepine was a minor metabolite in any group. The results indicate that eslicarbazepine has a better bioavailability than its R-enantiomer, following oral administration. Medicinal product no longer authorised
+
+- Bioequivalence
+
+Two  bioequivalence  studies  have  been  performed.  In  the  first  one  (BIA-2093-109),  a  tablet formulation  has  been  compared  to  an  oral  suspension.  As  'oral  suspension'  is  not  part  of  this application,  the  assessment  is  focused  on  the  tablets.  In  the  second  study  (BIA-2093-122)  the bioequivalence  between  the  clinical  trial  formulation  and  the  formulation  to  be  marketed  has  been investigated.
+
+<div style=\"page-break-after: always\"></div>
+
+## Pharmacokinetic Results
+
+The 90% confidence interval (CI) of all parameters under consideration (BIA 2-005 Cmax, AUC0-t, and AUC0-∞ ) were within the acceptance range of [80%; 125%]. Therefore, the TBM formulation and the formulation used in the pivotal clinical trials were considered bioequivalent.
+
+The results showed no statistical difference for extent and rate of formation of the main metabolite. Therefore the hypothesis of bioequivalence can be accepted. The formulations can be considered as interchangeable.
+
+Adverse events were reported both for the test and the reference product. No death or other serious adverse events were reported.
+
+<!-- image -->
+
+Eslicarbazepine  acetate  is  rapidly  and  extensively  biotransformed  to  eslicarbazepine  by  hydrolytic first-pass  metabolism.  In  studies  in  healthy  subjects  and  epileptic  adults,  the  apparent  half-life  of Eslicarbazepine was 10- 20 h and 13-20 h, respectively. Peak plasma concentrations (Cmax) of eslicarbazepine are attained at 2-3 h post-dose and steady state of plasma concentrations is attained after  4-5  days  of  QD  dosing,  consistent  with  an  effective  half-life  in  the  order  of  20-24  h.  Minor metabolites  in  plasma  are  R-licarbazepine  and  OXC,  which  were  shown  to  be  active,  and  the glucuronic acid conjugates of eslicarbazepine acetate, eslicarbazepine, R-licarbazepine and OXC.
+
+The results do not indicate that the adverse events are dose related. · Influence of food Two studies have been performed to investigate the food effect on orally administered eslicarbazepine acetate. Both studies showed that food has no relevant effect on eslicarbazepine acetate pharmacokinetics. Distribution The  binding  of  eslicarbazepine  to  plasma  proteins  is  relatively  low  (&lt;40%)  and  independent  of concentration. In vitro studies have shown that the plasma protein binding was not relevantly affected by  the  presence  of  warfarin,  diazepam,  digoxin,  PHT  and  tolbutamide.  The  binding  of  warfarin, diazepam,  digoxin, PHT  and  tolbutamide  was  not  significantly affected  by the presence of eslicarbazepine. Elimination · Excretion Eslicarbazepine  acetate  metabolites  are  eliminated  from  the  systemic  circulation  primarily  by  renal excretion,  in  the  unchanged  and  glucuronide  conjugate  forms.  In  total,  Eslicarbazepine  and  its glucuronide correspond to more than 90% of total drug material excreted in urine, approximately two thirds in the unchanged form and one third as glucuronide conjugate. The rate and excretion has been sufficiently characterised during the renal impairment study (BIA2093-112). For a detailed assessment of this study please see the section 'Special populations'. · Metabolism Medicinal product no longer authorised
+
+The metabolism of BIA 2-93 has been sufficiently characterised. The proportions of the metabolites were consistent within all studies (BIA-2093-104/110/115). For a detailed assessment of the studies please see the section 'Absorption'.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+The dose proportionality of eslicarbazepine acetate in adult patients has been investigated in a substudy of one of the pivotal trials.
+
+· Inter-conversion Interconversion of the S- to the R-enantiomer is minor pathway of the biotransformation process, as described in the section above. · Consequences of possible genetic polymorphism No studies on genetic polymorphism have been provided. The majority of subjects were non-black healthy adults. Dose proportionality and time dependency · Dose proportionality Medicinal product no longer authorised
+
+## 1. STUDY NO. BIA-2093-301 PK SUB-STUDY
+
+This  study  was  performed  in  a  subset  of  patients  who  had  already  completed  a  1-year  open-label extension (Part II) of clinical study BIA-2093-301, and who were entering an additional 1-year openlabel extension (Part III) of this study. Blood samples for PK assessment were taken in a subset of 51 patients during one of the regular clinical visits.
+
+<div style=\"page-break-after: always\"></div>
+
+51 male and female patients were evaluated. The patients are distributed in three dosage groups
+
+| Daily intake                    |   n = |
+|---------------------------------|-------|
+| 400 mg eslicarbazepine acetate  |     7 |
+| 800 mg eslicarbazepine acetate  |    26 |
+| 1200 mg eslicarbazepine acetate |    18 |
+
+Blood samples for PK evaluation were taken at the following time-points in relation to dosing: predose, and 1, 2, 3, 4, 6, 8, and 12 hours post-dose.
+
+<!-- image -->
+
+Serum drug levels were analysed for (1, 2, 3, 4, 6, 8, 12) 24 hours following dosing for eslicarbazepine acetate and its metabolites eslicarbazepine, R-licarbazepine and OXC. According to the study report Eslicarbazepine acetate could not be determined as the plasma concentration was systemically found to be below limit of quantification. The reduced sampling schedule was considered inappropriate for accurate determination of Cmax , but the Applicant clarified that to apply a reduced sampling schedule in patient studies compared to healthy subject studies is reasonable both from an ethical and practical point of view, provided that the sampling times chosen are appropriate for determination of the full PK profile. This was considered acceptable. Mean plasma concentration time profiles of eslicarbazepine following once daily (QD) dosing with 400 mg, 800 mg or 1200 mg of Exalief in study [BIA-2093-301] are presented in Figure A. Following  oral  administration  of  Exalief  400  mg,  800  mg,  and  1200  mg,  Eslicarbazepine  t max was reached between 1 and 6 h post-dose (median of 2.0 h), 2 and 6 h post-dose (median of 2.0 h), and 1 and 6 h post-dose (median of 2.5 h), respectively. Thereafter, plasma Eslicarbazepine concentrations declined in a multiphasic manner with an apparent t1/2 of 12.8 h, 13.5 h, and 20.2 h, following oral administration  of  Exalief  400  mg,  800  mg,  and  1200  mg,  respectively.  Systemic  exposure  to Eslicarbazepine appears to be dose-proportional following oral administration of Exalief 400 mg, 800 mg and 1200 mg. Medicinal product no longer authorised
+
+The  dose  proportionality  could  not  be  concluded  by  these  initially  presented  results.  The  CHMP requested that the dose proportionality be visually evaluated, too, and recommended to show that the dose  normalised  curves  were  super  imposable.  The  Applicant  replied  in  the  day  120  responses providing the requested mean plasma concentration time profiles after dose normalisation to a 400 mg dose following single doses of the 400 mg, 600 mg and 800 mg tablets of the commercial formulation.
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+<!-- image -->
+
+Although conventional limits as postulated for a regular bioequivalence approach are not always met, the linear pharmacokinetics can be concluded in the context of overall data and visual evaluation of the dose normalised plasma curves. In conclusion, based on the [BIA-2093-301 PK Sub-Study] results and taking into account information from  other  clinical  trials,  it  seems  reasonable  to  conclude  that  the  PK  of  eslicarbazepine  can  be regarded as dose-proportional. · Time dependency There was no time dependency of the Eslicarbazepine PK. Intra- and inter-individual variability Interindividual variability in the extent of systemic exposure to the main metabolite BIA 2-005 was relatively low through all studies. Intra-subject variability of AUC and Cmax was lower than 15%. Pharmacokinetics in target population The findings about the rate and the extent of absorption and metabolism of Exalief are in line with the PK study in healthy adults (BIA-2093-301). Special populations Medicinal product no longer authorised
+
+- Impaired renal function
+
+Exalief and its metabolites are mainly renally excreted. Significant increases in the extent of systemic exposure to its metabolites were found in study BIA-2093-112, the magnitude of which depended on the degree of renal impairment. These findings all point to a reduced ability of kidneys with impaired function to excrete Exalief or its metabolites. Therefore, dose adjustment is required in patients with impaired renal function and is reflected in the SPC.
+
+The main metabolites were effectively removed by repeated dialysis from the circulation of patients with end-stage renal disease.
+
+<div style=\"page-break-after: always\"></div>
+
+## STUDY NO. BIA-2093-112
+
+## Study design
+
+Study No. BIA-2093-112 an open-label, single-dose, single-centre, parallel group study in 5 groups of subjects with different degrees of renal function:
+
+Group 1 - normal renal function (creatinine clearance &gt; 80 mL/min)
+
+Group 2 - mild renal impairment (creatinine clearance 50-80 mL/min)
+
+Group 3 - moderate renal impairment (creatinine clearance 30-50 mL/min)
+
+Group 4 - severe renal impairment (creatinine clearance &lt;30 mL/min) Group 5 - end stage renal disease, requiring haemodialysis (ESRD) Safety evaluation was performed before starting groups 3 and 4 and before starting group 5. Objective as to characterise the pharmacokinetics (PK) of Exalief and its metabolites eslicarbazepine, R-licarbazepine, oxcarbazepine, BIA  2-093 glucuronide, BIA  2-194 glucuronide, BIA  2-195 glucuronide and oxcarbazepine glucuronide in subjects with renal impairment. During the whole study, subjects received a single dose of 800 mg Exalief. Serum drug levels were followed for 96 hours and urine levels for 72 h following dosing. The sampling schedule was appropriate for accurate determination of Cmax. Subjects in the ESRD group were dialyzed at 12 hours post-medication. Population studied 8 subjects were enrolled in the control group and each renal impairment group. Overall 40 patients were  enrolled  all  of  which  completed  the  study.  The  functional  groups  are  based  on  creatinine clearance measured by the Cockcroft-Gault Equation. Statistical methods and pharmacokinetic Variables The following parameters were calculated: Cmax, AUC 0-Inf , AUC 0-t last , t max , t 1/2. Clearance (apparent/renal), volume of distribution. ANOVA for the above stated parameters (except for tmax), 95% CIs are calculated. Pharmacokinetic Results Concentrations of Exalief and its glucuronide in plasma and urine were below LLOQ for most of the subjects.  The  quantifiable  concentrations  amounts  were  found  at  a  very  low  level.  Therefore  the mother compound is considered negligible. The  metabolites  R-licarbazepine  and  OXC  showed  quantifiable  plasma  levels.  Results  for  the pharmacokinetic variables and statistical analysis are provided in the clinical study report. The relative proportion of active moieties remained reasonably similar in the different groups. For clarity reasons detailed data of these metabolites were omitted. Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+## Statistical Analysis for BIA 2-194 in human Plasma
+
+Pharmacokinetic variables of glucuronidated metabolites Medicinal product no longer authorised
+
+<!-- image -->
+
+| C max           | Group 1 (control)   | Group 2 (mild)   | Group 2 (mild)   | Group 3 (moderate)   | Group 3 (moderate)   | Group 4 (severe)   | Group 4 (severe)   | Group 5 (ESRD)   | Group 5 (ESRD)   |
+|-----------------|---------------------|------------------|------------------|----------------------|----------------------|--------------------|--------------------|------------------|------------------|
+|                 | ng/ml               | ng/ml            | % ratio          | ng/ml                | % ratio              | ng/ml              | % ratio            | ng/ml            | % ratio          |
+| BIA2-194 Gluc.  | 1859                | 965              | 51               | 3345                 | 180                  | 3307               | 177                | 5492             | 295              |
+| BIA2-195- Gluc. | 45                  | 70               | 155              | 128                  | 282                  | 241                | 531                | 103              | 229              |
+| OXC-Gluc.       | 73                  | 127              | 173              | 274                  | 374                  | 617                | 841                | -                | -                |
+
+| AUC 0- ∞   | Group 1 (control)   | Group 2 (mild)   | Group 3 (moderate)   | Group 4 (severe)   | Group 5 (ESRD)   |
+|------------|---------------------|------------------|----------------------|--------------------|------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+|                 |   h* ng/ml |   h* ng/ml |   % ratio |   h* ng/ml |   % ratio |   h* ng/ml |   % ratio | h* ng/ml   | % ratio   |
+|-----------------|------------|------------|-----------|------------|-----------|------------|-----------|------------|-----------|
+| BIA2-194 Gluc.  |      32721 |      43425 |       133 |     191192 |       584 |     379148 |      1158 | 70803      | 216       |
+| BIA2-195- Gluc. |        652 |       4076 |       625 |      13440 |      2061 |      67493 |     10351 | 212        | 33        |
+| OXC-Gluc.       |       1781 |       6045 |       339 |      18699 |      1049 |      47844 |      2686 | -          | -         |
+
+| CL R            | Group 1 (control)   | Group 2 (mild)   | Group 2 (mild)   | Group 3 (moderate)   | Group 3 (moderate)   | Group 4 (severe)   | Group 4 (severe)   | Group 5 (ESRD)          |
+|-----------------|---------------------|------------------|------------------|----------------------|----------------------|--------------------|--------------------|-------------------------|
+|                 | mL/h                | mL/h             | % ratio          | mL/h                 | % ratio              | mL/h               | % ratio            | mL/h % ratio authorised |
+| BIA2-194 Gluc.  | 5978                | 5060             | 85               | 1215                 | 20                   | 471                | 8                  | 222 3                   |
+| BIA2-195- Gluc. | 11818               | 2127             | 18               | 648                  | 5                    | 111                | 1                  | 204 2                   |
+| OXC-Gluc.       | 7238                | 2810             | 38               | 1033                 | 14                   | 351                | 5                  | - -                     |
+
+The pharmacokinetics of Exalief in patients with mild to moderate hepatic impairment showed that inhibition of the hepatic metabolism of the parent drug affected the formation of its main metabolite eslicarbazepine.  However  this  finding  is  considered  not  to  be  of  clinical  relevance.  Therefore  the results  of study (BIA-2093-111) do not indicate the necessity of a dose adjustment in patients with mild to moderate hepatic impairment.
+
+Results of the control group were consistent with findings in the other studies of this application. Results  concerning  the  phase  I  metabolites  eslicarbazepine  (about  95%  of  the  drug  exposure), R-licarbazepine and OXC were as expected (for mainly renal eliminated substances): Cmax remained generally unaffected. Concerning AUC, a clear tendency to increase and for the tmax to decrease was seen. The effect increased with increasing degrees of renal impairment. Clearance (renal and apparent) decreased with increased renal impairment. Apparent terminal  elimination  half-life  was  increased  in  the  moderate  and  severe  renal  impairment groups. The glucuronated metabolites were affected in a disproportionally stronger manner: For the AUC no clear linear relationship was observed, but values for the moderate and severe renal impairment groups were much higher than for the normal and mild groups and the clearance decreased strongly with higher degree of renal impairment. In the ESRD group mean plasma concentrations of metabolites were effectively reduced by dialysis. However, it was only after the second dialysis that plasma concentrations were reduced to low levels approaching LLOQ (lower limit of quantitation). In the case of BIA 2-194 glucuronide, BIA 2-195 glucuronide and oxcarbazepine glucuronide plasma concentrations increased markedly after the first dialysis. · Impaired hepatic function Medicinal product no longer authorised
+
+## STUDY NO. BIA-2093-111
+
+## Study design
+
+Study No. BIA-2093-111 an open-label, multiple-dose, single-centre, parallel group study in 2 groups of subjects: subjects with moderate hepatic impairment and healthy controls. The study is divided in a single dose phase (day 1) and steady state phase (sampling on day 8).
+
+<div style=\"page-break-after: always\"></div>
+
+Objective: To characterise the pharmacokinetics (PK) of Exalief and its metabolites (eslicarbazepine, R-licarbazepine, oxcarbazepine, BIA  2-093 glucuronide, BIA  2-194 glucuronide, BIA  2-195 glucuronide and oxcarbazepine glucuronide) in subjects with moderate hepatic impairment.
+
+During the whole study, subjects received a dose of  800 mg Exalief once daily over 8 days . Serum drug levels were followed for 24 hours and urine levels for 96 h following dosing. The sampling schedule was appropriate for accurate determination of Cmax.
+
+## Test product
+
+Tablets containing 800 mg of eslicarbazepine acetate provided by BIAL.
+
+Population studied Nine subjects were enrolled in the hepatic impairment group [with a Child-Pugh category of moderate impairment  (a  Child-Pugh  score  of  7  to  9)],  of  which  8  completed  the  study,  and  8  subjects  were enrolled in the healthy control group, of which all completed the study. Bioanalytics The amount of conjugated metabolites is investigated indirectly: After treatment with β -glucoronidase the  samples  will  reanalysed.  The  difference  of  the  two  measurements  reflects  the  amount  of conjugated metabolites. Statistical methods and pharmacokinetic Variables The following parameter were calculated for the single dose phase: Cmax,  AUC 0-Inf , AUC 0-t last, t max , t 1/2. Parameters  in  the  steady  state:  AUCss ,  C max  ss ,  C min ,  T max  ss ,  t 1/2, Clearance  (apparent/renal), volume  of distribution. ANOVA for the above stated parameters (except for tmax), the 95% CI are calculated. Pharmacokinetical Results BIA  2-093  glucuronide  findings  were  below  LLOQ  in  most  of  the  subjects  and  BIA  2-195 concentrations are considered negligible The  plasma  levels  of  eslicarbazepine  acetate  in  subjects  with  hepatic  impairment  showed  higher concentrations than in the control groups. The inhibition of the hepatic metabolism of the parent drug is therefore considered evident. However, the concentration of eslicarbazepine acetate in plasma was still very low (0.01%) in comparison with those observed for the main metabolite BIA 2-194. Furthermore, no significant difference was found between the hepatic impaired group and the healthy control group for BIA 2-194 and its glucuronide in plasma. Therefore the clinical finding is considered to have no clinical relevance. The  SPC  will  therefore  state  that  no  dose  adjustment  is  needed  in  patients  with  mild  to  moderate hepatic impairment. The pharmacokinetics of eslicarbazepine has not been evaluated in patients with severe hepatic impairment and use in these patients is therefore not recommended. · Gender The results of a study (BIA-2093-105- see under 'Elderly' below) do not indicate that gender has an impact on pharmacokinetic parameters. Medicinal product no longer authorised
+
+## · Race
+
+No information on pharmacokinetic in different races or genetic polymorphism were provided.
+
+- Weight
+
+The  effect  of  BMI  on  the  pharmacokinetics  has  not  been  studied.  This  is  acceptable  as  the  drug substance is individually titrated.
+
+<div style=\"page-break-after: always\"></div>
+
+## · Elderly
+
+## STUDY NO. BIA-2093-105
+
+## Study design
+
+Study No. BIA-2093-105 was a single centre, open label, non-randomized, parallel group study. The study consisted of a single-dose phase (Phase A) followed by a multiple-dose phase (Phase B). Phase B started 96 hours after Phase A dosing.
+
+During the whole study, subjects received a single 600 mg dose of Exalief (Phase A) followed by 600 mg Exalief once daily for 8 days in Phase B.
+
+| Age effect (single-dose)                                                                  | Test/Reference                               |
+|-------------------------------------------------------------------------------------------|----------------------------------------------|
+| PE C max (ng/mL) 90% CI PE AUC 0- τ (ng.h/mL) 90% CI PE AUC 0- ∞ (ng.h/mL) 90% CI product | 0.95 0.82;1.09 1.02 0.87;1.18 1.06 0.89;1.26 |
+
+| Age effect (multiple-dose)   | Age effect (multiple-dose)   | Test/Reference   |
+|------------------------------|------------------------------|------------------|
+| Cmax                         | PE                           | 0.88             |
+| (ng/mL)                      | 90% CI                       | 0.78;0.99        |
+| AUC0- τ                      | PE                           | 0.98             |
+| (ng.h/mL)                    | 90% CI                       | 0.87;1.11        |
+| AUC0- ∞                      | PE                           | 1.01             |
+| (ng.h/mL)                    | 90% CI                       | 0.88;1.16        |
+
+Serum drug levels were followed for 72 hours following dosing, which was sufficient to meet the 80% rule for determination of AUCinf for BIA 2-005. According to the study report Eslicarbazepine acetate could  not  be  determined  as  the  plasma  concentration  was  systemically  found  to  be  below  limit  of quantification. The sampling  schedule  was  appropriate  for  accurate  determination  of  Cmax.  There  was  no  washout period between the two phases. Test and reference products Tablets containing 600 mg of eslicarbazepine acetate. Population studied 30 subjects [14 healthy elderly (7 male and 7 female) and 16 healthy young (8 male and 8 female) were analysed. One dropout in the young group is reported (discontinued before receiving any dose). Pharmacokinetic Results For clarity reasons only results for BIA 2-194 (Eslicarbazepine) are presented and discussed in this report, because it is the main metabolite (about 90%) of Exalief. Eslicarbazepine - Point estimates and 90% confidence intervals for the comparison of pharmacokinetic parameters evaluated for Test (elderly) and Reference (young) PE = Point Estimate; CI = Confidence Interval. The post-hoc power values for Cmax, AUC0τ and AUC0-∞ are 83.5%, 79.6% and 67.4%, respectively. Eslicarbazepine -Point estimates and 90% confidence intervals for the comparison of pharmacokinetic parameters evaluated for Test (elderly) and Reference (young) Medicinal product no longer authorised
+
+PE = Point Estimate; CI = Confidence Interval.
+
+The  post-hoc  power  values  for  Cmax,  AUC0τ and  AUC0-∞ are  92.2%,  92.1%  and  85.1%, respectively.
+
+<div style=\"page-break-after: always\"></div>
+
+Point  estimates  and  90%  confidence  intervals  for  the  comparison  of  pharmacokinetic  parameters evaluated for Test (female) and Reference (male)
+
+| Gender effect (single-dose)   | Gender effect (single-dose)   | Test/Reference   |
+|-------------------------------|-------------------------------|------------------|
+| C max                         | PE                            | 1.09             |
+| (ng/mL)                       | 90% CI                        | 0.94;1.25        |
+| AUC 0- τ                      | PE                            | 1.16             |
+| (ng.h/mL)                     | 90% CI                        | 1.01;1.33        |
+| AUC 0- ∞                      | PE                            | 1.17             |
+| (ng.h/mL)                     | 90% CI                        | 0.99;1.38        |
+
+PE = Point Estimate; CI = Confidence Interval.
+
+| Gender Effect (Multiple-dose)   | Gender Effect (Multiple-dose)   | Test/Reference   |
+|---------------------------------|---------------------------------|------------------|
+| C max                           | PE                              | 1.10             |
+| (ng/mL)                         | 90% CI                          | 0.97;1.25        |
+| AUC 0- τ                        | PE                              | 1.04             |
+| (ng.h/mL)                       | 90% CI                          | 0.92;1.17        |
+| AUC 0- ∞                        | PE                              | 1.01             |
+| (ng.h/mL)                       | 90% CI                          | 0.88;1.16        |
+
+The  study  consisted  of  3  consecutive  4-week  treatment  periods  in  which  patients  received  Exalief once-daily at the following dosage regimens: 5 mg/kg/day (weeks 1-4), 15 mg/kg/day (weeks 5-8) and  30  mg/kg/day  or  1800  mg/day,  whichever  less  (weeks  9-12).  At  the  end  of  each  4-weeks treatment period, patients were hospitalised and serial blood samples for drug assays were obtained over a dosing interval.
+
+The  post-hoc  power  values  for  Cmax,  AUC0τ and  AUC0-∞ are  84.3%,  84.1%  and  71.0%, respectively. Point  estimates  and  90%  confidence  Intervals  for  the  comparison  of  pharmacokinetic  parameters evaluated for Test (female) and Reference (male) PE = Point Estimate; CI = Confidence Interval. The post-hoc power values for Cmax, AUC0τ and AUC0-∞ are 90.8%, 92.4% and 85.1%, respectively. For age and gender effects, 90% CI for all metrics includes the unit which means that there are no significant statistical differences associated with age or gender for the main PK parameters of Exalief, except for the parameter AUC0τ after single dose (gender). However the CI misses the unit shortly and the observation is not confirmed under multiple dose treatment. For a majority of the metrics the 90% CI  were  even  within  the  acceptance  range  for  bioequivalence  (80-125%).  Therefore,  it  can  be concluded that the results clearly support the absence of clinically relevant differences between elderly and young subjects as well as between female and male subjects. · Children It should be noted that the treatment of children is not part of the application and that a PIP will be submitted after marketing authorisation has been granted. STUDY NO. BIA-2093-202 Study design Study  No.  BIA-2093-202  is  an  open-label,  single-centre,  multiple-dose  study,  in  30  paediatric epileptic  patients  distributed  by  3  age  groups  of  10  patients  each:  2-6  years  [Group  1],  7-11  years [Group 2], and 12-17 years [Group 3]. Medicinal product no longer authorised
+
+The objective was the characterisation of the pharmacokinetics of Eslicarbazepine acetate in children and adolescents with epilepsy.
+
+<div style=\"page-break-after: always\"></div>
+
+Serum drug levels were followed for 12 hours following dosing for Exalief and its main metabolites eslicarbazepine,  R-licarbazepine  and  OXC.  According  to  the  study  report  Eslicarbazepine  acetate could  not  be  determined  as  the  plasma  concentration  was  systemically  found  to  be  below  limit  of quantification.
+
+The reduced sampling schedule is considered still appropriate for accurate determination of Cmax. The periods were not separated by a washout phase.
+
+## Concomitant medication
+
+Doses of 1 to 3 concomitant anti epileptic drugs (other than OXC and carbamazepine) were kept stable from 1 month prior to enrolment into the baseline phase and throughout the study, unless clinically unacceptable. Intermittent use of benzodiazepines was allowed.
+
+| product   | product   | product   | product   | product   | product   | product   | product   |
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| Medicinal |           |           |           |           |           |           |           |
+
+Test products The investigational products consisted of Eslicarbazepine acetate tablets in strengths of 200 mg, 400 mg, 600 mg and 800 mg and an oral suspension of 50 mg/mL. Bioequivalence of the suspension, which is not part of the application, with the solid dosage form has been previously demonstrated. Population studied 31 male and female patients with a documented diagnosis of partial-onset seizures at the age of 2-17 years (group 1 n=12; group 2 n= 8; group 3 n=11) were enrolled. 26 completed all treatment periods. Statistical methods and pharmacokinetic Variables No statistical analysis for pharmacokinetic parameters. Parameters determined are:  Cmax, tmax, AUCt last, AUC 0-Inf , t 1/2 and clearance. PK results :PK parameters for BIA 2-194 Medicinal product no longer authorised
+
+Eslicarbazepine acetate showed dose-proportional pharmacokinetics in epileptic children of different age groups treated with Eslicarbazepine acetate concomitantly with anti-epileptic drugs. Similarly to what  occurs  in  adult  subjects,  Eslicarbazepine  acetate  was  rapidly  metabolised  to  BIA  2-194  (Slicarbazepine), the major metabolite.
+
+<div style=\"page-break-after: always\"></div>
+
+The  results  of  the  study  in  children  and  adolescents  revealed  that  the  extent  of  absorption  and metabolism  might  be  age  dependant  as  clearance  is  decreased  in  older  children.  The  clearance  in younger children appears to be increased.
+
+## These issues will be clarified in the paediatric clinical programme which is ongoing.
+
+BIAL received in December 2006 Scientific Advice from EMEA with respect to the use of Exalief in paediatric patients. In June 2007, BIAL received from EMEA Scientific Advice regarding a waiver request  for  a  non  clinical  study  in  juvenile  animals  with  Exalief.  The  final  study  report  from  the therapeutic exploratory study [Study No. BIA-2093-202], 'Pharmacokinetics, efficacy and tolerability of Exalief in children and adolescents with refractory partial epilepsy', was included in the original MAA.
+
+An  interaction  study  (BIA-2093-119)  of  lamotrigine  and  Exalief  showed  no  pharmacokinetic interaction at steady state.
+
+The study comprises use of Exalief in children and adolescents 2-17 years with partial onset seizures not controlled in spite of treatment with one to three current AEDs. A randomised, placebo-controlled Phase  III  study  (Study  No.  BIA-2093-305)  in  paediatric  patients  (2-16  years)  with  partial-onset seizures refractory to treatment with one or two other AEDs is ongoing and 92 patients out of 252 planned were enrolled by the 3rd September 2008. A study aiming to evaluate the effect of Exalief on cognitive function in children 6-16 years old is planned to start during the 4th quarter of 2008 (Study No. BIA-2093-208). BIAL plans to submit a PIP of the use of Exalief in children with partial onset seizures to EMEA during the 2nd -3rd quarter of 2009. Pharmacokinetics Interaction studies Pharmacokinetic interactions between Exalief and digoxin, warfarin, oral contraceptives, phenytoin, topiramate and lamotrigine have been investigated. In particular, the interaction with other AEDs has been investigated in three dedicated drug interaction studies, [BIA 2093-119] with lamotrigine (LMT), [BIA 2093-120] with topiramate (TPM) and [BIA 2093-121] with phenytoin (PHT), and from analysis of data from the Phase III programme [Studies 301, 302 and 303]. Increased  plasma  levels  were  only  found  with  phenytoin.  In  summary,  the  conclusions  from  the findings of these studies are as follows: Phenytoin At  steady  state  (BIA-2093-121)  the  total  exposure  of  BIA  2-194  was  reduced  if  phenytoin  was concomitantly applied. Enzyme induction is a possible explanation. Exalief increased plasma levels of phenytoin at steady state, probably due to inhibition of CYP2C19 and in accordance with this finding a higher incidence of adverse events was observed. Topiramate Topiramate had no clinical relevant impact on the pharmacokinetics of Exalief at steady state (BIA2093-120). However Exalief reduced the total exposure of topiramate about 20%. The concomitant administration of topiramate and Exalief did not increase the incidence of adverse effects. Lamotrigine Medicinal product no longer authorised
+
+The following table summarises results of the effect of Exalief on other AEDs from all the mentioned sources. It also includes a column with a plausible mechanism for identified interactions, and a column with the effect of OXC (Trileptal) on other AEDs as reference.
+
+<div style=\"page-break-after: always\"></div>
+
+Effect of ESL on other Anti Epileptic Drugs (AED)
+
+| AED                   | Dedicated interaction studies BIA 2093-119 BIA 2093-120   | Bioequivalence approach of sparse data Memo-ESL- AEDs DDIsPhIII- 20APR2007   | POP PK of sparse Phase III data EMFFR2007/10/01                                                         | Plausible mechanism                                                       | OXC (approved label)                            |
+|-----------------------|-----------------------------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|-------------------------------------------------|
+| Phenytoin (PHT)       | 35% ↑ of PHT exposure                                     | 11% ↑ of PHT exposure at ESL 800 mg, no data for > doses                     | No effect on PHT                                                                                        | Inhibition of CYP2C19                                                     | 40% ↑ of PHT exposure at OXC doses >1200 mg/day |
+| Phenobarbi- tal (PHB) |                                                           | 41% increase of PHB exposure at ESL 1200 mg                                  | No effect on PHB                                                                                        | Inhibition of CYP2C19                                                     | 14% ↑ of PHB exposure authorised                |
+| Lamotrigine (LMT)     | 14% ↓ of LMT exposure                                     | ESL QD 25% ↓ of LMT exposure, ESL BID 55% ↓ of LMT                           | 12% ↑ in clearance of LMT                                                                               | No interaction                                                            |                                                 |
+| Topiramate (TPM)      | 18% ↓ of TPM exposure                                     | 16% ↓ of TPM exposure                                                        | 5-16% ↑ in clearance of TPM, 3-8.5% ↑ in clearance if also on CBZ no longer                             | Mechanism unknown but reduced bioavailability is a plausible explanation. |                                                 |
+| Levetirace- tam (LEV) |                                                           | No effect on LEV                                                             | No effect on LEV                                                                                        | No interaction                                                            |                                                 |
+| Carbamaze- pine (CBZ) |                                                           | 13% ↓ of CBZ exposure product                                                | Up to 14% ↑ in CBZ clearance at 200 mg dose. Effect lower at higher CBZ doses due to ↑ auto-- induction | Induction of CYP3A4.                                                      | <10% ↓ of CBZ exposure                          |
+| Valproate (VPT)       |                                                           | No effect on VPT                                                             | No effect on VPT                                                                                        | No interaction                                                            | <10% ↓ of VPT exposure                          |
+
+<div style=\"page-break-after: always\"></div>
+
+## Effect of other Anti Epileptic Drugs (AEDs) on ESL
+
+These summary tables indicate that results obtained from the different sources are in good agreement with each other, both with regard to the effect of Exalief on the PK of other AEDs and the effect of other AEDs on the PK of eslicarbazepine. Results are also in line with the known interaction profile of OXC, which could be expected considering the qualitative similarities between Exalief and OXC, with eslicarbazepine  and  R-licarbazepine  being  the  main  circulating  compounds  for  both  although  the relative ratio differs. Overall, the magnitudes of the effect of Exalief on concomitant AEDs are small and would not justify dose adjustments except when combined with PHT. The increase in exposure to PHT, which probably is  caused  by  inhibition  of  its  metabolism  via  CYP2C19,  seems  to  be  dose  dependent  and  dose adjustments may only be indicated at Exalief doses exceeding 800 mg per day. Barbiturates also have an effect on Exalief, with a 30-60 % reduction in drug exposure. A similar effect is also seen with carbamazepine (CBZ), the probable mechanism being a dose dependent induction of glucuronidation. No clinically relevant effects on Exalief were found with LMT, TPM, levetiracetam or valproate. Medicinal product no longer authorised
+
+| AED                                                                      | Dedicated interaction studies BIA 2093-119 BIA 2093-120 BIA 2093-121   | POP PK of sparse data + rich data PK sub-study of BIA 2093-301 EMFFR2007/13 /00   | POP PK of sparse Phase III data EMFFR2007/09/01                                                                                              | Plausible mechanism                                                                            | OXC (approved label)               |
+|--------------------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------|
+| Phenytoin (PHT) Phenobarbi- tal (PHB)                                    | 33% ↓ of eslicarbazepine exposure                                      | 33% ↑ in CL of eslicarbazepine by PHT /PHB.                                       | 60% ↑ in CL of ESL by barbiturates                                                                                                           | Induction of glucuroni- dation                                                                 | 30% ↓ of MHD exposure 25% ↓ of MHD |
+| Lamotrigine (LMT) Topiramate (TPM) Levetirace- tam (LEV) Carbamaze- pine | No effect on eslicarbazepine. 10% ↓ of eslicarbazepine exposure        |                                                                                   | No effect on eslicarbazepine No effect on eslicarbazepine No effect on eslicarbazepine 13% ↑ in CL of at mg CBZ dose, ↑ in CL at 2400 longer | No interaction No interaction No interaction Dose dependent induction of glucuroni- authorised | exposure                           |
+| (CBZ)                                                                    |                                                                        | 40% ↑ in CL of ESL                                                                | eslicarbazepine 200 150% mg CBZ dose. no                                                                                                     | dation                                                                                         | 40% ↓ of MHD exposure              |
+| Valproate (VPT)                                                          |                                                                        |                                                                                   | No effect on eslicarbazepine                                                                                                                 | No interaction                                                                                 | 18% ↓ of MHD exposure              |
+
+## Interaction with other drugs
+
+## Digoxin
+
+Concomitant administration of Exalief had no relevant effect on the extent of systemic exposure to Digoxin (as expressed by Digoxin AUC τ ). With respect to the rate of systemic exposure, concomitant administration  of  Exalief  decreased  Cmax  of  Digoxin  by  15%,  which  is  not  expected  to  affect  the therapeutic efficacy. Saftey should not be affected negatively.
+
+<div style=\"page-break-after: always\"></div>
+
+## Warfarin
+
+Co-administration of Exalief 1200 mg QD with warfarin showed a significant decrease in exposure to S-warfarin, with no significant effect on the R-warfarin pharmacokinetics; since S-warfarin clearance is mediated almost entirely by CYP2C9, whereas R-warfarin clearance is dependent on multiple CYP pathways (CYP2C19, CYP3A4 and CYP1A2).
+
+## Oral contraceptives
+
+Administration  of  Exalief  to  female  subjects  showed  a  decrease  in  systemic  exposure  to  both hormones of a combined oral contraceptive containing levonorgestrel and ethinyloestradiol. Therefore, it  must  be  considered  that  concurrent  use  of  Exalief  and  hormonal  contraceptives  may  render  the contraceptives less effective.
+
+· Pharmacokinetics using human biomaterials In in vitro studies in human liver microsomes, Eslicarbazepine appeared to have no relevant inhibitory effect on the activity of CYP1A2, CYP2A6, CYP2B6, CYP2D6, CYP2E1, CYP3A4 and CYP2C9 and only a moderate inhibitory effect on CYP2C19. The 50% inhibitory concentration (IC50) values for Eslicarbazepine  upon  CYP2C19  activity  were  232  µg/mL.  Studies  with  Eslicarbazepine  in  fresh human  hepatocytes  showed  no  significant  induction  of  CYP1A2,  CYP3A  and  phase  2  enzymes involved in glucuronidation and sulphatation of 7-hydroxy-coumarin. The incubation of 14C-BIA 2093 in the presence of AEDs acetazolamide, clobazam, clonazepam, gabapentin, LMT, phenobarbital, PHT, primidone and sodium valproate showed no relevant inhibition of Exalief metabolism by these AEDs. Pharmacodynamics Introduction Eslicarbazepine acetate (Exalief) represents a third-generation, single enantiomer member of the wellknown family of first-line dibenz[b,f]azepine antiepileptic drugs carbamazepine (CBZ, first generation) and oxcarbazepine (OXC, second generation). Mechanism of action Although the precise mechanism of action is unknown, electrophysiological studies indicate that both Exalief and its active metabolites (S-licarbazepine, R-licarbazepine and oxcarbazepine) stabilize the inactivated state of voltage-gated sodium channels (site 2). Therefore, Exalief is supposed to act as a voltage-gated sodium channel blocker. Primary pharmacology For  epilepsy  there  is  no  human  pharmacodynamic  model.  Therefore,  no  specific  pharmacodynamic models have been evaluated during Phase I clinical studies. The  primary  pharmacodynamic in  vivo and in  vitro animal  studies  were  directed  at  examining  the anticonvulsive  properties  of  Exalief  and  its  metabolites.  Using  well-known  models  for  testing anticonvulsive  activity  (maximal  electroshock,  corneal  kindling,  different  chemoconvulsant  tests) Exalief was found to display qualitatively the same anticonvulsive profile as the comparator CBZ. Medicinal product no longer authorised
+
+## Secondary pharmacology
+
+## Thorough QT- study
+
+The  study  results  did  not  raise  concerns  with  respect  to  a  QTc  prolonging  potential.  Moxifloxacin established the assay sensitivity. The numerical small increase in QTcB is not considered relevant.
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+Despite of a mild increase in heart rate the PR  interval increases dose dependently with Eslicarbazepine  acetate  by  about  5  -  8  ms  (placebo:  2  ms).  This  is  neither  considered  of  clinical relevance on its own.
+
+The outlier analysis did not indicate a clear dose effect for Eslicarbazepine acetate. Due to statistical reasons the negative predictive value of the outlier analysis is limited, however.
+
+With respect to safety ECGs the analysis did not show dose dependent ECG abnormalities. In summary, the thorough QT study did not raise concerns with respect to QT-prolongation .
+
+<!-- image -->
+
+CLINICAL EFFICACY Introduction The clinical development program of Exalief as adjunctive oral (tablet) therapy in adult subjects with partial onset seizures includes the following completed Phase II and Phase III clinical trials: · 1 completed double-blind Phase II supporting trial (BIA-2093-201), · 3 primary double-blind, placebo controlled efficacy trials (part I of BIA-2093-301, BIA-2093302 and BIA-2093-303, respectively) and · 1  open  label  extension  study  evaluating  long-term  efficacy  and safety  of  Exalief (part  II  of BIA-2093-301). Three  open-label  extention  studies  in  the  sought  indication  were  still  ongoing  at  the  time  of  the submission: part II of BIA-2093-302 and BIA-2093-203, respectively as well as part III of BIA-2093301. These studies are summarised in the following table: Medicinal product no longer authorised
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+| Study ID                            | Trial Design              | ESL dose/day              | Maximum treatment duration (verum)                   | Total number of subjects                                                               |
+|-------------------------------------|---------------------------|---------------------------|------------------------------------------------------|----------------------------------------------------------------------------------------|
+|                                     | Primary                   | efficacy trials           |                                                      | Randomized (Completed)                                                                 |
+| BIA-2093-301 (part I)               | mc, db, pc                | 400, 800 or 1200 mg       | 16 weeks (12 week maintenance period)                | 402 (330)                                                                              |
+| BIA-2093-302 (part I)               | mc, db, pc                | 400, 800 or 1200 mg       | 14 weeks (12 week maintenance period)                | 395 (327)                                                                              |
+| BIA-2093-303 (part I)               | mc, db, pc                | 800 or 1200 mg            | 16 weeks (12 week maintenance period)                | 253 (197)                                                                              |
+|                                     | Supporting efficacy trial | Supporting efficacy trial |                                                      | Randomized (Completed)                                                                 |
+| BIA-20932093- 201                   | mc, db, pc                | 400 to 1200 mg            | 13 weeks (12 week maintenance with increasing doses) | 144 (110)                                                                              |
+| Long-term efficacy trials           | Long-term efficacy trials | Long-term efficacy trials |                                                      | Treated with ESL                                                                       |
+| Part II of BIA- 2093-301            | ole                       | 400 to 1200 mg            | 1 year *                                             | 314 patients (239 patients completed study) authorised                                 |
+| Part II of BIA- 2093-302 (ongoing)  | ole                       | 400 to 1200 mg            | 1 year*                                              | 519 subjects exposed in ongoing open label extension studies (as of 30 September 2007) |
+| Part II of BIA- 2093-303 (ongoing)  | ole                       | 400 to 1200 mg            | 1 year longer                                        | 519 subjects exposed in ongoing open label extension studies (as of 30 September 2007) |
+| Part III of BIA- 2093-301 (ongoing) | ole                       | 400 to 1200 mg            | 1 year                                               | 519 subjects exposed in ongoing open label extension studies (as of 30 September 2007) |
+
+The doses used to evaluate the efficacy of Exalief in the phase 2/3 trials were derived from phase I and one phase II studies which showed therapeutic properties and an acceptable safety profile of 800 mg and 1200 mg Exalief as adjunctive therapy in a once-daily regimen, and a smaller treatment response for the 400 mg dose. The phase III studies were planned to define the dose recommendations to be included in the SPC.
+
+mc= multicenter, db=double blind, pc=placebo controlled, ESL=Eslicarbazepine acetate ole= open label extension * after completion of part II, patients had/have the opportunity to enter a further extension period, part III of respective study (ongoing) The  three  phase  III  studies  were  pooled  and  a  pre-planned  analysis  was  performed  (Phase  III integrated studies). In addition to the studies performed in the indication applied for, one phase II study in children with epilepsy (Study No. BIA-2093-202) and three phase II studies in adult patients with bipolar disorder (Study Nrs. BIA-2093-203, -204 and -205, respectively) have been conducted. Dose-response studies and main clinical studies Medicinal product no longer authorised
+
+Based on these results, Exalief 400 mg (except in study BIA-2093-303), 800 mg and 1200 mg were investigated in the phase II and III studies in the claimed indication.
+
+<div style=\"page-break-after: always\"></div>
+
+## Main studies
+
+## Studies BIA-2093-301, BIA-2093-302 and BIA-2093-303 (referred to as studies 301, 302 and 303, respectively) and phase III integrated studies
+
+## Methods
+
+The 3 pivotal studies (BIA-2093-301, BIA-2093-302 and BIA-2093-303, respectively) were similar in design:
+
+| Study                       | No. Subjects Randomise d   | treatment regimens for Phase III efficacy Study Design longer                                                                                                                                                                                                                                                                                                                                                       | studies Treatment Regimen                                                                                             |
+|-----------------------------|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| BIA-2093- 301 BIA-2093- 302 | 402                        | Part I: 26-week, parallel-group, randomised, placebo-controlled study (22 weeks in Study 302): - 8-week baseline period (in Study 301: single-blind placebo period) - 2-week double-blind titration period - 12-week double-blind maintenance period - 4-week double-blind tapering-off period (not in Study 302) Part II: Optional, 1-year, open-label extension for subjects who had completed Part I. product no | Part I: - Placebo - Daily doses of ESL: - Studies 301 + 302 = 400, 800 or 1200                                        |
+|                             | 395                        |                                                                                                                                                                                                                                                                                                                                                                                                                     |                                                                                                                       |
+| BIA-2093- 303               | 253                        |                                                                                                                                                                                                                                                                                                                                                                                                                     | mg (QD)                                                                                                               |
+| BIA-2093- 303               |                            |                                                                                                                                                                                                                                                                                                                                                                                                                     | - Study 303 = 800 or 1200 mg (QD)                                                                                     |
+| BIA-2093- 303               |                            |                                                                                                                                                                                                                                                                                                                                                                                                                     | Part II: Starting dose of 800 mg ESL QD that could be titrated up or down at 400-mg intervals between 400 and 1200 mg |
+
+QD = once daily
+
+The only major differences between the 3 studies in the Part I study design were the doses of ESL given and differences in the study periods and titration regimens:
+
+They were 2-part, multicenter, randomised, double-blind, placebo-controlled studies in subjects with refractory  simple  or  complex  partial-onset  seizures,  with  or  without  secondarily  generalisation. Seizures were classified according to the International Classification of Epileptic Seizures (Commission on Classification and Terminology of the International League Against Epilepsy, 1989). Part I of each study followed a parallel-group design and consisted of a 8-week prospective baseline period (single-blind placebo period in study 301 only), followed by a double-blind 2-week titration period,  a  double-blind  12-week  maintenance  period,  and  in  studies  301  and  303,  a  double-blind 4-week tapering-off period. Table: Study design and treatment regimens for Phase III efficacy studies Medicinal product no longer authorised
+
+- There were 3 ESL dose groups (400 mg, 800 mg or 1200 mg once daily [QD]) in studies 301 and 302, but only 2 ESL dose groups (800 mg or 1200 mg QD) in study 303.
+- The  baseline  period  was  observational  in  studies  302  and  303  and  single-blind  placebo  in study 301.
+- In study 302 there was no tapering-off period.
+- All 3 studies used slightly different titration and tapering-off regimens.
+
+<div style=\"page-break-after: always\"></div>
+
+Part  II  of  each  study  was  an  optional  1-year  open-label  period  of  treatment  with  Exalief  for  those subjects  who completed the 12-week maintenance period in study 302 and the 4-week tapering-off period in studies 301 and 303.
+
+As predefined in the study protocol of each phase III study, the data of part I of the three phase III studies were pooled and a pre-planned analysis was performed in order to describe the efficacy and safety of Exalief in as broad a population as possible (Phase III integrated studies). This is acceptable as the studies are similar in design.
+
+## · Study Participants
+
+Key inclusion criteria for each of the 3 studies were: At Visit 1 (screening), subjects must have : · Been 18 years or older. · Had a documented diagnosis of simple or complex partial seizures with or without secondary generalisation for at least 12 months prior to screening. · Had at least 4 partial seizures in each 4-week period during the last 8 weeks prior to screening. · Been  currently  treated  with  1  or  2  AEDs 1 (any  except  oxcarbazepine  and  felbamate),  in  a stable dose regimen for at least 2 months prior to screening (subjects using vigabatrin should have been on this medication for at least 1 year with no deficit in visual field identified, and a confirmatory test should be available within 1 month before study entry; if present, VNS was considered an AED, i.e. only 1 concomitant AED was allowed in subjects with VNS). 1 In Study 302, the number of allowed concomitant AEDs was extended to 3 AEDs by amendment. At Visit 2 (randomisation), subjects must have : · Had at least 4 partial seizures in each 4-week period of the 8-week baseline period prior to randomisation (documented in a diary) and no seizure-free interval exceeding 21 consecutive days. · Satisfactorily completed diaries by themselves or their caregiver. · Satisfactorily complied with the study requirements during the baseline period. Key exclusion criteria for each of the 3 studies included if a subject had: · Only simple partial seizures with no motor symptomatology (classified as A2-4 according to the International Classification of Epileptic Seizures) that were not videoelectroencephalogram documented. · Primary generalised epilepsy. · Known rapid progressive neurological disorder. · A history of status epilepticus or cluster seizures (i.e. 3 or more seizures within 30 minutes) within the 3 months prior to screening. Medicinal product no longer authorised
+
+- Seizures of psychogenic origin within the last 2 years.
+- A history of schizophrenia or suicide attempt.
+- Exposure to felbamate or oxcarbazepine within 1 month of screening.
+- Exposure to benzodiazepines on more than an occasional basis (except when used chronically as AED).
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+- Known hypersensitivity to carbamazepine, oxcarbazepine, or chemically related substances.
+- Second or third-degree atrioventricular blockade not corrected with a pacemaker
+- Relevant clinical  laboratory  abnormalities  (e.g.  Na + &lt;130 mmol/L, ALT or AST &gt;2.0 times the upper limit of normal, WBC count &lt;3,000 cells/mm 3 ).
+- An estimated creatinine clearance (CLCR) &lt;50 mL/min.
+
+## · Treatments
+
+| • Studies BIA-2093-301 and BIA- 2093-302:   | • Study BIA-2093-303:      |
+|---------------------------------------------|----------------------------|
+| randomisation ratio: 1:1:1:1                | randomisation ratio: 1:1:1 |
+| • Group 1: ESL 1200 mg                      | • Group 1: ESL 1200 mg     |
+| • Group 2: ESL 800 mg                       | • Group 2: ESL 800 mg      |
+| • Group 3: ESL 400 mg                       | • Group 3: Placebo         |
+| • Group 4: Placebo                          | longer                     |
+
+| Group 1: ESL 1200 mg                 | Group 1: ESL 1200 mg    | Group 1: ESL 1200 mg                                | Group 1: ESL 1200 mg                                 |
+|--------------------------------------|-------------------------|-----------------------------------------------------|------------------------------------------------------|
+| Study                                | Baseline (V1 to V2)     | Titration Maintenance (V2 to V3) (V3 to V5) product | Tapering-off (V5 to V6)                              |
+| 301                                  | Placebo Week 1: Week 2: | 400 mg 800 mg 1200 a mg                             | Week 15: 800 mg Week 16: 400 mg Weeks 17+18: Placebo |
+| 302 No                               | 800 mg                  | 1200 a mg                                           | Not applicable                                       |
+| treatment 303 No treatment Medicinal | 600 mg                  | 1200 b mg                                           | Weeks 15+16: 600 mg Weeks 17+18: Placebo             |
+
+During  the  8  week  baseline  period  of  study  301,  placebo  was  administered  QD  in  a  single-blind fashion, which should allow for an accounting of the number of seizures under placebo treatment. In studies 302 and 303, no study treatment was administered during baseline. At the end of the baseline period, subjects who met the selection criteria were randomly assigned to 1 of the following treatment groups, study medication was taken without regard to meals: The dosing schedules for the different periods are illustrated below: a 1x 400 mg plus 1 x 800 mg tablets b 2 x 600 mg tablets Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+Group 2: ESL 800 mg
+
+|   Study | Baseline (V1 to V2)   | Titration (V2 to V3)          | Maintenance (V3 to V5)   | Tapering-off (V5 to V6)                              |
+|---------|-----------------------|-------------------------------|--------------------------|------------------------------------------------------|
+|     301 | Placebo               | Week 1: 400 mg Week 2: 800 mg | 800 mg                   | Week 15: 800 mg Week 16: 400 mg Weeks 17+18: Placebo |
+|     302 | No treatment          | 800 mg                        | 800 mg                   | Not applicable                                       |
+|     303 | No treatment          | 400 mg                        | 800 mg                   | Weeks 15+16: 400 mg Weeks 17+18: Placebo             |
+
+| Group 3: ESL 400 mg   | Group 3: ESL 400 mg   | Group 3: ESL 400 mg   | Group 3: ESL 400 mg    | Group 3: ESL 400 mg                      |
+|-----------------------|-----------------------|-----------------------|------------------------|------------------------------------------|
+| Study                 | Baseline (V1 to V2)   | Titration (V2 to V3)  | Maintenance (V3 to V5) | Tapering-off (V5 to V6)                  |
+| 301                   | Placebo               | 400 mg                | 400 mg                 | Weeks 15+16: 400 mg Weeks 17+18: Placebo |
+| 302                   | No treatment          | 400 mg                | 400 mg                 | Not applicable                           |
+| 303                   |                       |                       | Not applicable         |                                          |
+
+| Group 4: Placebo   | Group 4: Placebo    |                      | no      | Tapering-off   |
+|--------------------|---------------------|----------------------|---------|----------------|
+| Study              | Baseline (V1 to V2) | Titration (V2 to V3) | no      | (V5 to V6)     |
+| 301                | Placebo             | Placebo              | Placebo | Placebo        |
+| 302                | No treatment        | Placebo              | Placebo | Not applicable |
+| 303                | No treatment        | Placebo product      | Placebo | Placebo        |
+
+Group 3: ESL 400 mg Group 4: Placebo · Objectives The 3 pivotal studies had essentially the same objectives: The primary study objective was to evaluate the efficacy of Exalief administered once daily at doses of 400  mg 1 ,  800  mg  and  1200  mg  compared  with  placebo  as  adjunctive  therapy  in  patients  with refractory partial epilepsy over a 12-week maintenance period. Medicinal product no longer authorised
+
+The secondary objectives of this study were the following:
+
+- To evaluate the safety and tolerability of Exalief at once-daily doses of 400 mg 1 , 800 mg and 1200 mg in comparison to placebo, over a 12-week maintenance period preceded by a 2-week titration period and followed by a 4-week tapering-off period 2 .
+- To  evaluate  the  safety  and  tolerability  of  Exalief  at  doses  titrated  to  an  efficacy  or  safety endpoint over a 1-year open-label period.
+- To  assess  the  maintenance  of  therapeutic  effects  of  Exalief  over  a  12-week  maintenance period preceded by a 2-week titration period and followed by a 4-week tapering-off period 2 and over a 1-year open-label period.
+
+<div style=\"page-break-after: always\"></div>
+
+- To assess the drug-drug pharmacokinetic interactions between Exalief and concomitant AEDs over the double-blind and open-label parts of the study.
+- To assess the health-related quality-of-life and depressive symptoms over the double-blind and open-label parts of the study.
+
+1 only in study 301 and 302
+
+- 2 only studies 301 and 303 had a tapering period
+- Outcomes/endpoints
+
+In all three pivotal studies, the primary efficacy endpoint was:
+
+seizure frequency over the 12-week maintenance period in Part I of the study, standardised to a 'frequency per 4 weeks' unit. Secondary efficacy endpoints were as follows: · Proportion of responders (i.e., patients with a ≥ 50% reduction in seizure frequency during the 12-week maintenance period compared with the 8-week baseline period) · Seizure  frequency  per  week  for  each  week  of  the  baseline,  titration,  maintenance,  and tapering-off periods (the latter except study 302, which had no tapering-off period) · Distribution of seizure reduction (&lt; 50%, 50-75%, or &gt;75% seizure reduction) · Proportion of seizure-free patients (100% seizure reduction) · Proportion of patients with a 25% or greater exacerbation in seizure frequency compared to baseline · Seizure frequency by seizure type · Seizure frequency as a function of BIA 2-194 plasma levels at visit 5 · Treatment retention time (time to withdrawal due to lack of efficacy or adverse events [AEs]) during Part I of the study · Clinical global impressions (CGIs) · Responses to the Quality of Life in Epilepsy-31 inventory (Quolie-31) · Symptoms of depression (based on Montgomery Asberg Depression Rating Scale [MADRS]). Safety: Safety endpoints included AEs, clinical laboratory tests (hematology, coagulation, biochemistry,  and  thyroid  function,  urin  alaysis),  vital  signs  and  weight,  electrocardiogram,  blood trough  levels  of  concomitant  AEDs,  and  withdrawal  and/or  rebound  effect  during  the  tapering-off period (the latter except study 302, which had no tapering-off period). Phase III integrated studies: The primary efficacy variable in the integrated analyses was the standardised seizure frequency over the  12-week  maintenance  period,  which  was  also  the  primary  efficacy  variable  in  each  of  the individual studies. In addition, for the integrated analysis there were 2 key secondary variables for the assessment of efficacy of Exalief compared to placebo: · Frequency  of  responders  ( ≥ 50%  reduction  in  seizure  frequency  from  the  8-week  baseline period to the 12-week maintenance period). · Relative reduction (%) in seizure frequency from the 8-week baseline period to the 12-week maintenance period. Medicinal product no longer authorised
+
+Several other secondary efficacy variables were also analysed for the 12-week maintenance period, including:
+
+- Relative reduction in seizure frequency and responder rate per week
+- Categorised relative change in seizure frequency (seizure reduction &lt;50%, 50% to 75% and &gt;75%, exacerbation &lt;25% and ≥ 25%)
+- Most severe type of seizure by week
+- Proportion of seizure-free subjects (100% seizure reduction)
+- Number of days with seizures
+
+<div style=\"page-break-after: always\"></div>
+
+- Treatment retention time (time to withdrawal due to lack of efficacy or adverse events) in Part I of the study
+- Changes  in  the  Clinical  Global  Impression  (CGI),  Montgomery  Asberg  Depression  Rating Scale (MADRS) and the Quality of Life in Epilepsy Inventory-31 (QOLIE-31) questionnaires
+- The effect on the seizure frequency (primary efficacy variable) due to an interaction between Exalief and concomitantly given AEDs
+
+The following were analysed as other secondary efficacy variables for the titration and tapering-off periods: Standardised seizure frequency and relative reduction of standardised seizure frequency.
+
+## · Sample size
+
+In  all  three  pivotal  studies  samples  size  determinations  and  statistical  powering  calculations  were based on the primary efficacy variable (natural log transformation of the seizure frequency in a 4-week period). Assuming that approximately 15% of the randomised patients would be excluded from the efficacy population, the required number of patients to be recruited in total was approximately 400 for studies 301 and 302 and 252 for study 303. · Randomisation All pivotal studies were randomised and double-blind. The randomisation procedure appears adequate. In studies 301 and 302, patients were randomized in a 1:1:1:1 ratio to placebo, Exalief 400 mg/day, Exalief 800 mg/day or Exalief 1200mg/day, respectively; in study 303, patients were randomized in a 1:1:1 ratio to placebo, Exalief 800 mg/day or Exalief 1200 mg/day, respectively. · Blinding (masking) Studies 301 and 302: Exalief was presented as white oblong tablets of 400 mg and 800 mg. As the 800 mg tablet is thicker than the 400 mg tablet, matching placebo tablets were available for both strengths of Exalief. Study 303: Exalief was presented as white oblong tablets of 400 mg and 600 mg which were of the same size and appearance; matching placebo tablets were used. The investigator was provided with a sealed envelope for each patient containing information about the  study  medication  administered  to  the  patient.  The  envelope  might  only  be  opened  in  case  of emergency, when knowledge of the treatment was needed. Decoding had to be documented and at the end of the study, all envelopes had to be returned to the sponsor via CRO. · Statistical methods The statistical methods were essentially the same for the three pivotal studies: Medicinal product no longer authorised
+
+Safety population: The safety population consisted of all patients, who received at least 1 dose of the investigational product after randomisation.
+
+Intention-to-treat  (ITT):  The  ITT  population  consisted  of  all  randomised  patients,  with  at  least  one administration  of  the  investigational  product  and  at  least  one  post-baseline  seizure  frequency assessment. If a patient discontinued before the end of the 12-week maintenance period then all data from  the  start  of  the  2-week  titration  period  to  discontinuation  were  used.  If  the  variable  was  a summarisation of the 12-week maintenance period then only data from the start of the maintenance period to discontinuation were used. If the variable was a summarisation of the 12-week maintenance
+
+<div style=\"page-break-after: always\"></div>
+
+period and the titration period then all data from the start of the titration period to discontinuation were used.
+
+Per-protocol (PP):  The  PP  efficacy  population  included all  patients  completing  the  12-week maintenance period of the study and without major protocol violations.
+
+Assignment of patient to ITT and PP populations were undertaken by a blinded review of the data prior to database lock.
+
+The primary efficacy assessment was based on an ITT approach. All primary and secondary efficacy variables were also analysed for the PP population.
+
+<!-- image -->
+
+Seizure  frequency  was  compared  among  the  treatment  groups  by  using  an  analysis  of  covariance (ANCOVA) that models seizure frequency as a function of baseline seizure frequency and treatment. Natural logarithm transformation was applied to standardised seizure frequency in order to conform to the assumptions of ANCOVA and to be consistent with sample size calculation. Dunnett's multiple comparison procedure was used for the comparison of the active treatment means to the placebo mean. The proportion of responders over the 12-week maintenance period was analysed by using a CochranMantel-Haenszel (CMH) test. Continuous data were summarised by using descriptive statistics, i.e., number  of  patients,  mean,  standard  deviation,  median,  and  range  (minimum  and  maximum). Categorical variables were summarised by using frequency (counts) and percentages. By-patient data listings were prepared in support of all statistical summary tables and for other case report form data, as appropriate. For testing the differences the following tests were used: Least square means from the ANCOVA for each treatment group (adjusted for the covariates), least square means for differences between each active dose and placebo. Dunnett p-values and confidence intervals (CIs) for those differences were presented when ANCOVA or analysis of variance test were used. Results · Participants In  the  3  Phase  III  studies  combined,  1050  subjects  were  randomized  and  1049  (99.9%)  began treatment in the titration period, the ITT population comprised 1035 (98.6%), the PP population 756 (72.0%) patients. The following table presents the study populations in each study and each treatment goup: Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+Table: Analysis populations - Phase III integrated studies
+
+| Population                    | Number (%) of Subjects        | Number (%) of Subjects        | Number (%) of Subjects        | Number (%) of Subjects        | Number (%) of Subjects        | Number (%) of Subjects        |
+|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
+|                               | Placebo                       | ESL                           | ESL                           | ESL                           | ESL                           | Overall                       |
+|                               |                               | 400 mg                        | 800 mg                        | 1200 mg                       | Total                         | Total                         |
+| Study BIA-2093-301            | Study BIA-2093-301            | Study BIA-2093-301            | Study BIA-2093-301            | Study BIA-2093-301            | Study BIA-2093-301            | Study BIA-2093-301            |
+| Randomised                    | 102                           | 100                           | 98                            | 102                           | 300                           | 402                           |
+| Safety a                      | 102 (100)                     | 100 (100)                     | 98 (100)                      | 102 (100)                     | 300 (100)                     | 402 (100)                     |
+| ITT b                         | 102 (100)                     | 99 (99.0)                     | 98 (100)                      | 98 (96.1)                     | 295 (98.3)                    | 397 (98.8)                    |
+| Per protocol c                | 91 (89.2)                     | 94 (94.0)                     | 86 (87.8)                     | 72 (70.6)                     | 252 (84.0)                    | 343 (85.3)                    |
+| Study BIA-2093-302 authorised | Study BIA-2093-302 authorised | Study BIA-2093-302 authorised | Study BIA-2093-302 authorised | Study BIA-2093-302 authorised | Study BIA-2093-302 authorised | Study BIA-2093-302 authorised |
+| Randomised                    | 100                           | 96                            | 101                           | 98                            | 295                           | 395                           |
+| Safety a                      | 100 (100)                     | 96 (100)                      | 101 (100)                     | 98 (100)                      | 295 (100)                     | 395                           |
+| ITT b                         | 100 (100)                     | 96 (100)                      | 100 (99.0)                    | 97 (99.0)                     | 293 (99.3)                    | 393 (99.5)                    |
+| Per protocol c                | 81 (81.0)                     | 70 (72.9)                     | 75 (74.3)                     | 54 (55.1)                     | 199 (67.5)                    | 280 (70.9)                    |
+| Study BIA-2093-303 longer     | Study BIA-2093-303 longer     | Study BIA-2093-303 longer     | Study BIA-2093-303 longer     | Study BIA-2093-303 longer     | Study BIA-2093-303 longer     | Study BIA-2093-303 longer     |
+| Randomised                    | 88                            | 0                             | 85                            | 80                            | 165                           | 253                           |
+| Safety a                      | 87 (98.9)                     | 0                             | 85 (100)                      | 80 (100)                      | 165 (100)                     | 252 (99.6)                    |
+| ITT b                         | 84 (95.5)                     | 0                             | 84 (98.8) no                  | 77 (96.3)                     | 161 (97.6)                    | 245 (96.8)                    |
+| Per protocol c                | 51 (58.0)                     | 0                             | 47 (55.3)                     | 35 (43.8)                     | 82 (49.7)                     | 133 (56.6)                    |
+| Integrated Analysis product   | Integrated Analysis product   | Integrated Analysis product   | Integrated Analysis product   | Integrated Analysis product   | Integrated Analysis product   | Integrated Analysis product   |
+| Randomised                    | 290                           | 196                           | 284                           | 280                           | 760                           | 1050                          |
+| Safety a                      | 289 (99.7)                    | 196 (100)                     | 284 (100)                     | 280 (100)                     | 760 (100)                     | 1049 (99.9)                   |
+| ITT b                         | 286 (98.6)                    | 195 (99.5)                    | 282 (99.3)                    | 272 (97.1)                    | 749 (98.6)                    | 1035 (98.6)                   |
+| Per protocol c                | 223 (76.9)                    | 164 (83.7)                    | 208 (73.2)                    | 161 (57.5)                    | 533 (70.1)                    | 756 (72.0)                    |
+
+ITT = intent-to-treat. a Subjects who had taken at least 1 dose of randomised study medication. b All randomised subjects with at least 1 administration of study medication and at least 1 post-baseline seizure frequency assessment, i.e. at least 1 subject diary was available. c All subjects completing the 12-week maintenance period of the study without major protocol violations. Medicinal product no longer authorised
+
+The percentage of subjects who completed titration and maintenance periods, respectively is shown in the following table:
+
+<div style=\"page-break-after: always\"></div>
+
+Table: Study completion status - Phase III integrated studies
+
+| Disposition        | Number (%) of Subjects   | Number (%) of Subjects   | Number (%) of Subjects   | Number (%) of Subjects   | Number (%) of Subjects   |
+|--------------------|--------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+|                    | Placebo                  | ESL                      | ESL                      | ESL                      | ESL                      |
+|                    |                          | 400 mg                   | 800 mg                   | 1200 mg                  | Total                    |
+| Randomised         | 290                      | 196                      | 284                      | 280                      | 760                      |
+| Titration period   |                          |                          |                          |                          |                          |
+| Started            | 289 (100)                | 196 (100)                | 284 (100)                | 280 (100)                | 760 (100)                |
+| Completed          | 285 (98.6)               | 194 (99.0)               | 270 (95.1)               | 263 (93.9)               | 727 (95.7)               |
+| Maintenance period |                          |                          |                          |                          |                          |
+| Started            | 280 (96.9)               | 192 (98.0)               | 263 (92.6)               | 253 (90.4)               | 708 (93.2)               |
+| Completed          | 259 (89.6)               | 178 (90.8)               | 240 (84.5)               | 201 (71.8)               | 619 (81.4)               |
+
+Started Completed Maintenance period Started Completed Most discontinuations were because of unacceptable AEs which occurred in a treatment- and dosedependent manner, followed by 'other reason', withdrawal of consent and patient non-compliance. The percentage of patients discontinuing treatment increases noticeably with increasing dose. Whereas the percentage of withdrawals across all three studies is essentially similar in the placebo and 400 mg dose group, it is higher in the 800 mg dose group and is almost double as high in the highest dose group  (1200  mg)  compared  to  the  800  mg  dose  group.  Most  discontinuations  were  because  of unacceptable AEs which occurred in a treatment- and dose-dependent manner. In all 3 single studies these findings were alike. · Conduct of the study In study 301 no amendments to the final study protocol relevant to part I were issued. In study 302, among 3 protocol amendments, one is of interest: as inclusion criterion, the number of allowed concomitant AEDs was extended from 2 to 3. In  study  303,  among  2  protocol  amendments,  one  is  mentionable:  to  reach the  recruitment  goal  14 study sites in Mexico were opened (in addition to the centres in Portugal and Spain). The number of concomitant AEDs is optimally 1 or 2. However, only 8.1 % of the ITT population of study 302 and &lt;5% of the safety population of the phase III integrated studies took three concomitant AEDs. · Baseline data Phase III integrated studies The combined population was predominantly Caucasian (76.8% in the placebo group, 81.3% in the Total Exalief group) and approximately 20% Hispanic in each group (except for the 400 mg Exalief group since Study 303 did not have a 400 mg group and was the only study to include Mexico), see following table. Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+Table: Demographic and other baseline characteristics - Phase III integrated studies (safety population)
+
+| Characteristi c     | Placebo    | ESL            | ESL            | ESL               | ESL           |
+|---------------------|------------|----------------|----------------|-------------------|---------------|
+|                     | (N=289)    | 400 mg (N=196) | 800 mg (N=284) | 1200 mg (N=280)   | Total (N=760) |
+| Age                 |            |                |                |                   |               |
+| Mean±SD             | 36.9±12.01 | 37.5±11.26     | 38.0±11.96     | 37.0±11.54        | 37.5±11.62    |
+| n (%) <18 years     | 2 (0.7)    | 0              | 0              | 1 (0.4)           | 1 (0.1)       |
+| n (%) ≥ 65 years    | 5 (1.7)    | 2(1.0)         | 3 (1.1)        | 4 (1.4)           | 9 (1.2)       |
+| Gender              |            |                |                |                   |               |
+| Male                | 143 (49.5) | 89 (45.4)      | 140 (49.3)     | 131 (46.8)        | 360 (47.4)    |
+| Female              | 146 (50.5) | 107 (54.6)     | 144 (50.7)     | 149 (53.2)        | 400 (52.6)    |
+| Ethnic group, n (%) |            |                |                |                   |               |
+| Caucasian           | 222 (76.8) | 187 (95.4)     | 221 (77.8)     | 210 (75.0) longer | 618 (81.3)    |
+| Hispanic            | 54 (18.7)  | 2 (1.0)        | 52 (18.3)      | 53 (18.9)         | 107 (14.1)    |
+| African (black)     | 8 (2.8)    | 2 (1.0)        | 6 (2.1)        | 9 (3.2)           | 17 (2.2)      |
+| Other               | 5 (1.7)    | 3 (1.5)        | 4 (1.4)        | 3 (1.1)           | 10 (1.3)      |
+| Asian               | 0          | 2 (1.0)        | 1 (0.4)        | 5 (1.8)           | 8 (1.1)       |
+| BMI                 |            |                |                |                   |               |
+| n (%)               | 288 (99.7) | 196 (100)      | 283 (99.7) no  | 280 (100)         | 759 (99.9)    |
+| Mean±SD             | 25.2±4.45  | 24.6±4.63      | 24.9±4.61      | 25.5±4.70         | 25.1±4.66     |
+| Missing             | 1 (0.3)    | 0              | 1 (0.4)        | 0                 | 1 (0.1)       |
+
+N = total number of subjects; n = number of subjects with available data; SD = standard deviation. Only very few patients of the pivotal studies were ≥ 65 years (9 patients (1.2 %) in the total Exalief and 5 patients (1.7%) in the placebo group, respectively. Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+Baseline disease characteristics at baseline were similar in each of the treatment groups (see following table).
+
+Table: Baseline disease characteristics - Phase III integrated studies (safety population)
+
+Family history, N = total number of subjects; n = number of subjects with data available; SD = standard deviation. Mean  standardised  seizure  frequency  at  baseline  was  about  13  seizures/28  days  in  all  treatment groups, the most frequent seizures were complex partial seizures, followed by simple partial seizures. Mean  standardised seizure frequency of secondary generalised or unclassified seizures was considerably lower. The frequency of each seizure type was similar in each of the treatment groups (see following table). Medicinal product no longer authorised
+
+| Characteristic                      | Placebo (N=289)   | ESL             | ESL            | ESL             | ESL           |
+|-------------------------------------|-------------------|-----------------|----------------|-----------------|---------------|
+| Characteristic                      | Placebo (N=289)   | 400 mg (N=196)  | 800 mg (N=284) | 1200 mg (N=280) | Total (N=760) |
+| Duration of epilepsy                |                   |                 |                |                 |               |
+| Mean±SD                             | 22.7±13.11        | 22.8±11.98      | 22.6±12.3 0    | 22.0±12.52      | 22.4±12.2 9   |
+| Age at onset                        |                   |                 |                |                 |               |
+| Mean±SD                             | 14.1±12.31        | 14.7±12.36      | 15.4±13.4 2    | 15.0±12.64      | 15.0±12.8 5   |
+| Family history, n (%)               |                   |                 |                |                 |               |
+| Yes                                 | 31 (10.7)         | 8 (4.1)         | 33 (11.6)      | 20 (7.1)        | 61 (8.0)      |
+| No                                  | 257 (88.9)        | 187 (95.4)      | 251 (88.4)     | 260 (92.9)      | 698 (91.8)    |
+| Missing                             | 1 (0.3)           | 1 (0.5)         | 0              | 0               | 1 (0.1)       |
+| Possible aetiologies, n (%)         |                   |                 |                | longer          |               |
+| Idiopathic                          | 78 (27.0)         | 33 (16.8)       | 64 (22.5)      | 67 (23.9)       | 164 (21.6)    |
+| Congenital/ hereditary disorders    | 25 (8.7)          | 20 (10.2)       | 26 (9.2)       | 29 (10.4)       | 75 (9.9)      |
+| Cranial trauma/ injuries            | 39 (13.5)         | 36 (18.4)       | 33 (11.6) no   | 30 (10.7)       | 99 (13.0)     |
+| Systemic/toxic/ metabolic disorders | 4 (1.4)           | 3 (1.5) product | 3 (1.1)        | 4 (1.4)         | 10 (1.3)      |
+| Infectious diseases                 | 22 (7.6)          | 27 (13.8)       | 29 (10.2)      | 33 (11.8)       | 89 (11.7)     |
+| Brain tumours                       | 12 (4.2)          | 4 (2.0)         | 9 (3.2)        | 6 (2.1)         | 19 (2.5)      |
+| Cerebrovascular diseases            | 5 (1.7)           | 3 (1.5)         | 8 (2.8)        | 12 (4.3)        | 23 (3.0)      |
+| Other/unknown                       | 104 (36.0)        | 75 (38.3)       | 113 (39.8)     | 103 (36.8)      | 291 (38.3)    |
+
+<div style=\"page-break-after: always\"></div>
+
+Table: Baseline standardised seizure frequency - Phase III integrated studies (safety population)
+
+| Seizure Type     | Placebo    | ESL            | ESL            | ESL             | ESL           |
+|------------------|------------|----------------|----------------|-----------------|---------------|
+|                  | (N=289)    | 400 mg (N=196) | 800 mg (N=284) | 1200 mg (N=280) | Total (N=760) |
+| Overall seizures |            |                |                |                 |               |
+| n (%)            | 287 (99.3) | 196 (100)      | 284 (100)      | 277 (98.9)      | 757 (99.6)    |
+| Mean±SD          | 12.9±16.77 | 13.0±15.05     | 13.4±15.26     | 13.1±15.11      | 13.2±15.13    |
+| Simple Partial   |            |                |                |                 |               |
+| n (%)            | 138 (47.8) | 87 (44.4)      | 138 (48.6)     | 133 (47.5)      | 358 (47.1)    |
+| Mean±SD          | 4.9±11.24  | 5.1±13.09      | 5.5±11.64      | 4.8±10.03       | 5.2±11.47     |
+| Complex Partial  |            |                |                |                 |               |
+| n (%)            | 197 (68.2) | 139 (70.9)     | 207 (72.9)     | 204 (72.9)      | 550 (72.4)    |
+| Mean±SD          | 5.6±12.14  | 5.7±7.98       | 6.1±9.65       | 6.1±11.78       | 6.0±10.11     |
+| Partial Evolving |            |                |                |                 |               |
+| n (%)            | 92 (31.8)  | 66 (33.7)      | 86 (30.3)      | 91 (32.5)       | 243 (32.0)    |
+| Mean±SD          | 1.3±3.86   | 1.3±3.48       | 1.1±2.99       | 1.2±3.44        | 1.2±3.29      |
+| Unclassifie d    |            |                |                | longer          |               |
+| n (%)            | 45 (15.6)  | 21 (10.7)      | 46 (16.2)      | 43 (15.4)       | 110 (14.5)    |
+| Mean±SD          | 1.0±4.52   | 0.8±4.93       | 0.7±3.00       | 1.1±4.33        | 0.8±4.07      |
+
+| Numbe     |                 | Number (%) of subjects   | Number (%) of subjects   | Number (%) of subjects   | Number (%) of subjects   |
+|-----------|-----------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| r of AEDs | Placebo (N=289) | 400 mg (N=196)           | ESL 800 mg (N=284)       | 1200 mg (N=280)          | Total (N=760)            |
+| 0         | 0               | 1 (0.5)                  | 0                        | 0                        | 1 (0.1)                  |
+| 1         | 65 (22.5)       | 61 (31.1)                | 72 (25.4)                | 73 (26.1)                | 206 (27.1)               |
+| 2         | 210 (72.7)      | 129 (65.8)               | 199 (70.1)               | 197 (70.4)               | 525 (69.1)               |
+| 3         | 14 (4.8)        | 4 (2.0)                  | 12 (4.2)                 | 9 (3.2)                  | 25 (3.3)                 |
+| 4         | 0               | 1 (0.5)                  | 1 (0.4)                  | 1 (0.4)                  | 3 (0.4)                  |
+
+N = total number of subjects; n = number of subjects with data available; SD = standard deviation. The  majority  (about  70%)  of  patients  used  2  concomitant  AEDs  in  each  of  the  treatment  groups followed by 1 concomitant AED (22.5% - 31.1%). Table: Number of concomitant anti-epileptic drugs taken in parallel at end of the baseline period - Phase III integrated studies (safety population) Medicinal product no longer authorised
+
+AED = anti-epileptic drug.
+
+The percentage of patients taking only 1 concomitant AED was somewhat higher in the 400 mg dose group compared to placebo group, and was evenly distributed in the placebo, 800 and 1200 mg dose
+
+<div style=\"page-break-after: always\"></div>
+
+groups.  This  is  not  to  be  regarded  of  relevance,  as  it  seems  to  privilege  the  400  mg  dose  group. However, the 400 mg dose group did not prove to be efficacious. A similar finding was seen for study 302. The number of concomitant AEDs in studies 301 and 303 was inconspicuous.
+
+The most frequent concomitant AEDs were Carbamazpine, Valproic acid and Lamotrigine in all three single studies. Concomitant AEDs used by more than 1% of study patients at baseline are given in the following table:
+
+Table: Most frequent concomitant anti-epileptic drugs at the end of the baseline period - Phase III integrated studies (safety population)
+
+| AED           | Number (%) of subjects authorised   | Number (%) of subjects authorised   | Number (%) of subjects authorised   | Number (%) of subjects authorised   | Number (%) of subjects authorised   |
+|---------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|-------------------------------------|
+|               | Placebo (N=289)                     | ESL                                 | ESL                                 | ESL                                 |                                     |
+|               | Placebo (N=289)                     | 400 mg (N=196)                      | 800 mg (N=284)                      | 1200 mg (N=280)                     | Total (N=760)                       |
+| Carbamazepine | 181 (62.6)                          | 114 (58.2)                          | 162 (57.0)                          | 153 (54.6)                          | 429 (56.4)                          |
+| Valproic acid | 82 (28.4)                           | 37 (18.9)                           | 74 (26.1)                           | 72 (25.7)                           | 183 (24.1)                          |
+| Lamotrigine   | 63 (21.8)                           | 46 (23.5)                           | 51 (18.0)                           | 60 (21.4)                           | 157 (20.7)                          |
+| Levetiracetam | 45 (15.6)                           | 23 (11.7)                           | 39 (13.7)                           | 44 (15.7)                           | 106 (13.9)                          |
+| Topiramate    | 37 (12.8)                           | 21 (10.7)                           | 43 (15.1)                           | 41 (14.6)                           | 105 (13.8)                          |
+| Phenytoin     | 26 (9.0)                            | 15 (7.7)                            | 35 (12.3)                           | 28 (10.0)                           | 78 (10.3)                           |
+| Phenobarbital | 34 (11.8)                           | 15 (7.7)                            | 32 (11.3) longer                    | 25 (8.9)                            | 72 (9.5)                            |
+| Clobazam      | 24 (8.3)                            | 19 (9.7)                            | 27 (9.5)                            | 18 (6.4)                            | 64 (8.4)                            |
+| Clonazepam    | 15 (5.2)                            | 19 (9.7)                            | 20 (7.0)                            | 16 (5.7)                            | 56 (7.4)                            |
+| Gabapentin    | 3 (1.0)                             | 12 (6.1) no                         | 8 (2.8)                             | 8 (2.9)                             | 28 (3.7)                            |
+| Primidone     | 4 (1.4)                             | 2 (1.0)                             | 6 (2.1)                             | 7 (2.5)                             | 15 (2.0)                            |
+| Tiagabine     | 1 (0.3)                             | 2 (1.0)                             | 2 (0.7)                             | 7 (2.5)                             | 11 (1.4)                            |
+| Pregabalin    | 2 (0.7)                             | 1 (0.5)                             | 3 (1.1)                             | 6 (2.1)                             | 10 (1.3)                            |
+
+The  ANCOVA  results  for  the  standardised  seizure  frequency  and  relative  reduction  in  seizure frequency by concomitant valproic acid treatment showed comparable efficacy of Exalief during the maintenance phase in the different dose groups compared to placebo in patients taking valproic acid compared to patients taking no valproic acid.
+
+In the 400 mg dose group, valproic acid was given as concomitant AED in only 18.9 % of subjects compared to 28.4 % in the placebo group. In study 302 valproic acid was only used by 12.5% of patients in the 400 mg dose group compared to 26.0% in the placebo group, whereas it was used by 28.0% of patients in the 800 mg and by 20.6% of patients in the 1200 mg dose group, respectively. However, in the subgroup analysis of the integrated phase III studies the trend in the median relative reduction was similar in subjects not taking valproic acid (placebo: -10.1%, 400 mg: -23.0%, 800 mg: -33.3%, 1200 mg: -38.3%) and those taking valproic acid (placebo: -26.4%, 400 mg: -26.8%, 800 mg: -41.8%, 1200 mg: -39.9%). Medicinal product no longer authorised
+
+The responder rate was similar in subjects not taking valproic acid (placebo: 18.8%, 400 mg: 22.4%, 800 mg: 34.0%, 1200 mg: 44.6%) and those taking valproic acid (placebo: 28.6%, 400 mg: 25.0%, 800 mg: 42.6%, 1200 mg: 40.3%.
+
+Therefore, the described imbalances do not appear to have influenced the efficacy results.
+
+During the titration and maintenance periods, 38.1% of placebo and 52.2% of total Exalief subjects took concomitant non-AED medications, with a similar proportion in each of the Exalief groups.
+
+<div style=\"page-break-after: always\"></div>
+
+During  the  study,  54.0%  of  placebo  subjects  and  56.2%  of  total  Exalief  subjects  had  concomitant medical conditions (other than epilepsy).
+
+In the different Exalief dose groups and the placebo group there were no major differences regarding the number of concomitant AEDs per patient at baseline. The majority of patients of all groups used two concomitant AEDs, the proportion of these patients ranging from 59.6% (in the Exalief 400 mg group) to 68.4% (in the Exalief 800 mg group).
+
+The most frequently administered concomitant anti-epileptic medications at baseline were carbamazepine  (taken  by  55.6  -  61.8%  of  the  ITT  patients,  depending  on  the  treatment  group), lamotrigine (24.2 - 27.6%) and valproic acid (22.4% - 28.4%).
+
+Furthermore,  subgroup-analyses  of  the  integrated  phase  III  studies  did  not  reveal  any  influence  of these parameters on the efficacy of Exalief in each dose group.
+
+| Study        | LS Mean [95%CI] p-value a   | LS Mean [95%CI] p-value a   | LS Mean [95%CI] p-value a   | LS Mean [95%CI] p-value a   |
+|--------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
+|              | Placebo                     | ESL 400 mg                  | ESL 800 mg                  | ESL 1200 mg                 |
+| BIA-2093-301 | 7.6 [6.8, 8.6]              | 6.7 [6.0, 7.7] n.s. no      | 5.7 [5.0, 6.5] p=0.003      | 5.4 [4.6, 6.1] p < 0.001    |
+| BIA-2093-302 | 9.8 [8.7, 11.1]             | 8.7 [7.7, 9.9] n.s.         | 7.1 [6.2, 8.2] p=0.002      | 7.0 [6.0, 8.1] p=0.001      |
+| BIA-2093-303 | 7.3 [6.3, 8.5]              | N/A                         | 5.7 [4.9, 6.7] p=0.048      | 5.5 [4.6, 6.5] p=0.021      |
+
+· Outcomes and estimation Standardised seizure frequency: For the natural log transformation of the seizure frequency per 4 weeks over the 12-week maintenance period,  which  was  the  primary  efficacy  variable  in  all  3  pivotal  studies,  a  statistically  significant difference was seen for the comparison of the 800 mg and 1200 mg groups compared to placebo in every single of the 3 studies: Table: Primary Efficacy Analysis - ANCOVA for seizure frequency per 4 weeks over the 12week maintenance period (ITT population) ITT = intent-to-treat; LS = least square; N/A = not applicable; n.s. = not significant a  p-value for comparison to placebo. As  it  can  be  seen  in  the  following  figure,  the  LS  mean  of  seizure  frequency  decreased  in  a  dosedependent  manner  in  all  of  the  single  studies,  however,  the  increase  in  effect  in  study  302  after administration of 1200 mg compared to 800 mg was only small. Figure: Seizure frequency per 4 weeks over the 12-week maintenance period - individual Phase III studies (ITT population) Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+| Study/                     | Baseline Period            | Baseline Period            | Baseline Period            | Maintenance Period         | Maintenance Period         | Maintenance Period         |
+|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
+| Treatment                  | N                          | Mean±SD                    | Median                     | N                          | Mean±SD                    | Median                     |
+| Integrated Studies product | Integrated Studies product | Integrated Studies product | Integrated Studies product | Integrated Studies product | Integrated Studies product | Integrated Studies product |
+| Placebo                    | 286                        | 12.9±16.82                 | 7.0                        | 279                        | 11.7±17.85                 | 6.4                        |
+| ESL 400 mg                 | 195                        | 13.0±15.08                 | 8.0                        | 192                        | 10.6±13.11                 | 5.9                        |
+| ESL 800 mg                 | 282                        | 13.4±15.31                 | 7.7                        | 262                        | 9.8±14.79                  | 5.0                        |
+| ESL 1200 mg                | 272                        | 13.3±15.26                 | 8.0                        | 253                        | 9.0±13.10                  | 4.6                        |
+
+Source data: Table EF.2.1 and Table EF.2.2 in Study Report INT/PhaseIII/301-303 In the integrated dataset of the ITT population, the median standardised seizure frequency at baseline was similar in all treatment groups (range: 7.0 to 8.0). During the 12-week maintenance period the median standardised seizure frequency was lowest in the 1200 mg Exalief group (4.6) and highest in the placebo group (6.4): Standardised seizure frequency - Phase III integrated studies (ITT population) The ANCOVA analysis of the integrated data from all 3 studies showed that compared to the placebo group the  change in  standardised seizure frequency during  the  maintenance  period  was  statistically significant (p&lt;0.0001) for the 800 mg and 1200 mg Exalief groups in the ITT and PP populations. In the  PP  population,  the  difference  between  the  400  mg  and  placebo  group  was  also  statistically significant (p=0.0369). Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+The dose related increase in effect is shown in the following figures:
+
+Figure: Standardised seizure frequency - Phase III integrated studies (ITT and PP populations)
+
+<!-- image -->
+
+| Study/               | N   | Number (%)    | Odds ratio   | Odds ratio   | Relative Risk   | Relative Risk   | Overal l p- value   |
+|----------------------|-----|---------------|--------------|--------------|-----------------|-----------------|---------------------|
+| Treatment            |     | of responders | Estimate     | 95% CI       | Estimate        | 95% CI          |                     |
+| 301                  |     |               |              |              |                 |                 |                     |
+| Placebo              | 99  | 20 (20.2)     | -            | -            | -               | -               | -                   |
+| ESL 400 mg Medicinal | 97  | 23 (23.7)     | 1.23         | (0.62, 2.42) | 1.17            | (0.69, 1.99)    | 0.5528              |
+| ESL 800 mg           | 94  | 33 (35.1)     | 2.14         | (1.12, 4.09) | 1.74            | (1.08, 2.80)    | 0.0204              |
+| ESL 1200 mg          | 94  | 42 (44.7)     | 3.19         | (1.69, 6.03) | 2.21            | (1.41, 3.47)    | 0.0003              |
+
+The  responder  rate  (subjects  with  a  change  in  standardised  seizure  frequency ≥ 50%  relative  to baseline)  was  considerably  higher  in  the  Exalief  800  mg  and  1200  mg  groups  than  in  the  placebo group  in  each  of  the  3  studies  as  well  as  in  the  integrated  analysis  of  the  3  studies  in  the  ITT population and increased with increasing dose. The difference to placebo was statistically significant for the 800 mg and 1200 mg Exalief groups in study 301 and 302 and in the integrated analyses of the 3 studies in the ITT population. In study 303, the difference to placebo was only statistically significant for the 1200 mg but not for the 800 mg dose group (in both, the ITT and PP populations). For the 400 mg dose group, the difference to placebo was not statistically significant in any of the single studies or the integrated analysis of all 3 studies. Table: Responder analysis - Phase III integrated studies (ITT population) Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+| Study/             | N                  | Number (%) of responders   | Odds ratio   | Odds ratio      | Relative Risk   | Relative Risk           | Overal l p- value   |
+|--------------------|--------------------|----------------------------|--------------|-----------------|-----------------|-------------------------|---------------------|
+| Treatment          | N                  | Number (%) of responders   | Estimate     | 95% CI          | Estimate        | 95% CI                  | Overal l p- value   |
+| Placebo            | 99                 | 18 (18.2)                  | -            | -               | -               | -                       | -                   |
+| ESL 400 mg         | 95                 | 21 (22.1)                  | 1.28         | (0.63, 2.58)    | 1.22            | (0.69, 2.14)            | 0.4955              |
+| ESL 800 mg         | 88                 | 33 (37.5)                  | 2.70         | (1.38, 5.27)    | 2.06            | (1.25, 3.39)            | 0.0031              |
+| ESL 1200 mg        | 86                 | 36 (41.9)                  | 3.24         | (1.66, 6.31)    | 2.30            | (1.42, 3.74)            | 0.0004              |
+| 303                |                    |                            |              |                 |                 |                         |                     |
+| Placebo            | 81                 | 22 (27.2)                  | -            | -               | -               | -                       | -                   |
+| ESL 400 mg         | -                  | -                          | -            | -               | -               | -                       | -                   |
+| ESL 800 mg         | 80                 | 29 (36.3)                  | 1.52         | (0.78, 2.98)    | 1.33            | (0.84, 2.11)            | 0.2151              |
+| ESL 1200 mg        | 73                 | 32 (43.8)                  | 2.09         | (1.07, 4.10)    | 1.61            | (1.04, 2.51) authorised | 0.0304              |
+| Integrated Studies | Integrated Studies |                            |              |                 | longer          |                         |                     |
+| Placebo            | 279                | 60 (21.5)                  | -            | -               | -               | -                       | -                   |
+| ESL 400 mg         | 192                | 44 (22.9)                  | 1.25         | (0.77, 2.04)    | 1.19            | (0.81, 1.76)            | 0.3668              |
+| ESL 800 mg         | 262                | 95 (36.3)                  | 2.08         | (1.42, 3.04)    | 1.69            | (1.28, 2.22)            | 0.0001              |
+| ESL 1200 mg        | 253                | 110 (43.5)                 | 2.81         | (1.92, 4.10) no | 2.02            | (1.55, 2.63)            | <0.000 1            |
+
+<!-- image -->
+
+ITT = intent-to-treat; CI = confidence interval; Responder: relative change in standardised seizure frequency ≥ 50% in comparison to baseline period. The dose related increase in responder rate is shown in the following figures: Figure: Responder analysis - Phase III integrated studies (odds ratio - ITT and PP populations) Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+The CHMP considered that the  results of the responder analyses of the three single studies as well as of the integrated analysis of the 3 studies were considered consistent: the responder rate increased in a dose  dependent  way  and  (in  contrast  to  the  400  mg  dose  group)  the  difference  to  placebo  was statistically  significant  for  the  800  and  1200  mg  dose  groups,  except  in  study  303,  in  which  the difference to placebo was only statistically significant for the 1200 mg dose group.
+
+The  formal  assessment  of  the  differences  concerning  responder  rate  in  study  303,  the  relative reduction in seizure frequency in study 302 and the change in median number of days with seizures in study 302 compared to the results of the respective other studies was further discussed in the answer to the List of questions, and did not reveal significant heterogeneities between the pivotal studies.
+
+| Study/               | N   | Mean±SD     | Median   | Range       |
+|----------------------|-----|-------------|----------|-------------|
+| Treatment            |     |             |          |             |
+| 301                  |     |             |          |             |
+| Placebo              | 99  | -8.0±58.95  | -16.4    | -100 to 289 |
+| ESL 400 mg           | 97  | -16.4±81.56 | -25.8    | -100 to 685 |
+| ESL 800 mg Medicinal | 94  | -31.0±43.58 | -36.1    | -100 to 147 |
+| ESL 1200 mg          | 94  | -35.4±46.85 | -46.5    | -100 to 81  |
+| 302                  |     |             |          |             |
+| Placebo              | 99  | 1.6±61.75   | -5.8     | -100 to 316 |
+| ESL 400 mg           | 95  | -13.7±48.73 | -22.4    | -100 to 154 |
+| ESL 800 mg           | 88  | -25.9±58.90 | -33.8    | -100 to 286 |
+| ESL 1200 mg          | 86  | -22.5±67.74 | -32.3    | -100 to 328 |
+| 303                  |     |             |          |             |
+| Placebo              | 80  | -8.2±69.73  | -20.8    | -100 to 308 |
+| ESL 400 mg           | -   | -           | -        | -           |
+| ESL 800 mg           | 80  | -19.9±72.02 | -36.4    | -100 to 384 |
+
+Apparently, in the three single studies as well as in the integrated analysis patients who discontinued treatment  prematurely  during  one  of  the  treatment  periods  were  still  categorized  as  treatment responders for that particular treatment period when their seizure frequency was reduced by 50% or more  up  to  the  point  of  discontinuation.  The  applicant  was  asked  to  provide  a  supplementary responder analysis for all three main trials as well as the integrated analysis in which all patients who discontinued are regarded as non-responders. The results of this supplementary responder analysis, in which discontinued subjects were analysed as non-responders,  were  consistent  with  those  of  the  original  analysis  and  confirm  the  improved responder rate with 800 mg and 1200 mg Exalief QD compared to placebo. Relative reduction of standardised seizure frequency The relative reduction in standardised seizure frequency during the maintenance period was greater in the Exalief treatment groups than in the placebo group in all 3 studies and the integrated analysis in the ITT population. In the integrated studies, the median relative change was -14.6% in the placebo group compared to -23.4% in the 400 mg Exalief group, -35.4% in the 800 mg Exalief group, and -38.8% in the 1200 mg Exalief group. Table: Relative reduction (%) of standardised seizure frequency - Phase III integrated studies (ITT population) Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+| Study/             | N   | Mean±SD     | Median   | Range       |
+|--------------------|-----|-------------|----------|-------------|
+| Treatment          |     |             |          |             |
+| ESL 1200 mg        | 71  | -           | -43.1    | -100 to 716 |
+|                    |     | 21.8±105.20 |          |             |
+| Integrated Studies |     |             |          |             |
+| Placebo            | 278 | -4.6±63.14  | -14.6    | -100 to 316 |
+| ESL 400 mg         | 192 | -15.0±67.19 | -23.4    | -100 to 685 |
+| ESL 800 mg         | 262 | -25.9±58.51 | -35.4    | -100 to 384 |
+| ESL 1200 mg        | 251 | -27.1±74.27 | -38.8    | -100 to 716 |
+
+<!-- image -->
+
+<!-- image -->
+
+ITT = intent-to-treat; SD = standard deviation. The  ANCOVA of the integrated  data  from  all  3  studies  showed  that  the  difference  in  the  relative reduction in standardised seizure frequency was statistically significant between the placebo group and the 800 mg and the 1200 mg groups in the ITT and PP populations. Responder rate and relative reduction in standardised seizure frequency per week In the phase III integrated studies, the response to treatment was evident already in the first week of the titration period and had reached its peak in the first week of the maintenance period. The responder rate was approximately 46% of subjects in the Exalief 800 mg group and 50% in the Exalief 1200 mg group in the first week of the maintenance period, and remained stable through the last week of the maintenance period (week 12). The standardised seizure frequency also decreased already during the titration period and continued to decrease until reaching a steady state by week 4 of the maintenance period. Seizure type In  the  phase  III  integrated  studies,  the  standardised  seizure  frequency  by  seizure  type  showed  a difference compared to placebo for simple partial and for complex partial seizures. Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+Table: Standardised seizure frequency by seizure type - Phase III integrated studies (ITT population)
+
+| Seizure Type/                               | Baseline Period                             | Baseline Period                             | Baseline Period                             | Baseline Period   | Maintenance Period   | Maintenance Period   | Maintenance Period   | Maintenance Period   |
+|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|-------------------|----------------------|----------------------|----------------------|----------------------|
+| Treatment                                   | N                                           | n                                           | Mean±SD                                     | Median            | N                    | n                    | Mean±S D             | Median               |
+| Simple Partial                              |                                             |                                             |                                             |                   |                      |                      |                      |                      |
+| Placebo                                     | 286                                         | 137                                         | 4.9±11.25                                   | 0                 | 279                  | 142                  | 4.7±12.8 8           | 0.3                  |
+| ESL 400 mg                                  | 195                                         | 86                                          | 5.1±13.13                                   | 0                 | 192                  | 88                   | 4.8±12.2 4           | 0                    |
+| ESL 800 mg                                  | 282                                         | 136                                         | 5.6±11.67                                   | 0                 | 262                  | 118                  | 3.9±12.1 5           | 0                    |
+| ESL 1200 mg                                 | 272                                         | 130                                         | 4.9±10.14                                   | 0                 | 253                  | 109                  | 3.4±7.85 authorised  | 0                    |
+| Complex Partial                             |                                             |                                             |                                             |                   |                      |                      |                      |                      |
+| Placebo                                     | 286                                         | 197                                         | 5.7±12.19                                   | 3.4               | 279                  | 192                  | 5.4±11.2 7           | 2.0                  |
+| ESL 400 mg                                  | 195                                         | 139                                         | 5.8±7.99                                    | 3.9               | 192                  | 135                  | 4.5±6.87             | 2.3                  |
+| ESL 800 mg                                  | 282                                         | 207                                         | 6.2±9.67                                    | 3.8               | 262                  | 178                  | 4.4±6.94             | 2.0                  |
+| ESL 1200 mg                                 | 272                                         | 200                                         | 6.1±11.89                                   | 3.8               | 253 longer           | 154                  | 4.3±11.1 7           | 1.0                  |
+| Partial evolving to secondarily generalised | Partial evolving to secondarily generalised | Partial evolving to secondarily generalised | Partial evolving to secondarily generalised | no                |                      |                      |                      |                      |
+| Placebo                                     | 286                                         | 92                                          | 1.3±3.88                                    | 0                 | 279                  | 85                   | 0.9±2.44             | 0                    |
+| ESL 400 mg                                  | 195                                         | 66                                          | 1.3±3.48                                    | 0                 | 192                  | 52                   | 0.9±2.34             | 0                    |
+| ESL 800 mg                                  | 282                                         | 84                                          | 1.1±3.00                                    | 0                 | 262                  | 72                   | 0.8±2.51             | 0                    |
+| ESL 1200 mg                                 | 272                                         | 88                                          | 1.2±3.47 product                            | 0                 | 253                  | 68                   | 0.7±2.08             | 0                    |
+| Unclassified                                |                                             |                                             |                                             |                   |                      |                      |                      |                      |
+| Placebo                                     | 286                                         | 44                                          | 1.0±4.55                                    | 0                 | 279                  | 51                   | 0.7±3.34             | 0                    |
+| ESL 400 mg                                  | 195                                         | 21                                          | 0.8±4.95                                    | 0                 | 192                  | 24                   | 0.4±1.74             | 0                    |
+| ESL 800 mg                                  | 282                                         | 44                                          | 0.6±2.96                                    | 0                 | 262                  | 44                   | 0.6±4.05             | 0                    |
+| ESL 1200 mg                                 | 272                                         | 41                                          | 1.1±4.35                                    | 0                 | 253                  | 40                   | 0.6±2.30             | 0                    |
+
+Concerning  the  2  other  seizure  types  (partial  evolving  to  secondarily  generalised  and  unclassified seizures) the number of subjects and seizure frequency was low and no meaningful interpretation can be made of these data.
+
+With respect to secondarily generalised seizures, the following is found, when the 3 pivotal studies are looked at separately (ITT population):
+
+<div style=\"page-break-after: always\"></div>
+
+## Study 301:
+
+Compared to the respective baseline level marked reductions of seizure frequency during the 12-week maintenance period were found for the mean number of partial evolving to secondarily generalised seizures in the Exalief 800 mg group (from 4.1 to 2.7).
+
+Decreases of medians regarding the number of partial evolving to secondarily generalised seizures in the Exalief 800 mg group (from 2.5 to 0.9) exceeded corresponding changes observed in the placebo group (ITT population).
+
+However, for the 1200 mg dose group, the reduction in median seizure frequency compared to the respective baseline level appears to be smaller than in the placebo group.
+
+Study 302: The  relative  reduction  in  median  standardised  seizure  frequency  was  higher  in    the  1200  mg  dose group compared to the placebo group, however a higher efficacy for the 800 mg and 1200 mg dose groups  compared to  placebo  and  a  dose  related  trend  could  only  be  seen,  when  data  from  titration period where included. From Study 303 no trend concerning efficacy of Exalief for the treatment of secondary generalised seizures can be derived. As the CHMP considered that no clear trend towards efficacy of Exalief in the treatment of secondary generalised seizures was seen, further analysis of the data was  requested. An ANCOVA for the standardised seizure frequency during the maintenance period was performed to compare treatments for subjects with partial evolving to secondarily generalized seizures at baseline using the following model: ln(stand  seizure  freq  +  4)  =  treatment  +  ln(baseline  value+4)  +  Number  of  concomitant  AEDs  at baseline + error. The results of the ANCOVA clearly demonstrate the efficacy of the 800 mg Exalief and the 1200 mg Exalief treatment groups in comparison to placebo for the ITT population [Table EF.2.1.8 in Study INT/Phase III/301-303]: p=0.0001 for testing the hypothesis H0: 1200 mg Exalief - placebo=0 p=0.0147 for testing the hypothesis H0: 800 mg Exalief - placebo=0 To  address  this  point,  also  a  responder  analysis  (relative  change  in  seizure  frequency ≥ 50%  in comparison  to  baseline  period)  was  calculated  for  subjects  with  partial  evolving  to  secondarily generalized seizures at baseline. The overall p-values from the CMH test (stratified by study) and from the  Chi-square  test  did  not  show  any  statistical  significance  nor  did  the  p-values  from  the  pairwise tests  of  Exalief  groups  versus  placebo.  However,  only  about  30%  of  subjects  from  the  3  Phase III studies had partial evolving to secondarily generalized seizures at baseline, and thus the power of these responder analyses was not sufficient to show any significant differences between treatment groups. What could be seen is that the trend in this subgroup was the same as for the overall population. The proportion of responders in each treatment group increased from 19.8% in the placebo group to 21.2% in the 400 mg Exalief group, 37.5% in the 800 mg Exalief group and 47.1% in the 1200 mg Exalief group. Medicinal product no longer authorised
+
+The CHMP considered that though the number of patients with secondary generalized seizures was low  in  the  pivotal  studies,  both  the  ANCOVA  results  for  the  standardised  frequency  of  secondary generalized  seizures  during  maintenance  phase  and  the  clear  trend  seen  in  the  responder  analysis (which was generally the same than for partial seizures overall though not statistically significant) are strongly  indicative  of  efficacy  of  Exalief  in  the  treatment  of  secondary  generalized  seizures.  Taken into consideration, that secondary generalized seizures evolve from primary partial seizures, for which efficacy  of  Exalief  has  been  shown,  the  response  is  considered  sufficient  and  supports  the  use  of Exalief in these subjects.
+
+<div style=\"page-break-after: always\"></div>
+
+The ANCOVA of standardised seizure frequency by seizure type showed that the difference compared to placebo for simple partial and complex partial seizures was statistically significant for the 800 mg and 1200 mg groups.
+
+Table:  ANCOVA  analysis  of  standardised  seizure  frequency  by  seizure  type  -  Phase  III integrated studies (ITT population)
+
+| Treatment       | N   | LS Mean   | SE       | 95% CI              | p-value                        | p-value                             |
+|-----------------|-----|-----------|----------|---------------------|--------------------------------|-------------------------------------|
+|                 |     |           |          |                     | Pairwise Comparison to Placebo | Overall Treatment Effect authorised |
+| Simple partial  |     |           |          |                     |                                |                                     |
+| Placebo         | 279 | 2.35      | 0.021    | (2.09, 2.61)        | -                              |                                     |
+| ESL 400 mg      | 192 | 2.23      | 0.025    | (1.93, 2.54)        | 0.5656                         |                                     |
+| ESL 800 mg      | 262 | 1.71      | 0.022    | (1.47, 1.95)        | 0.0004                         | 0.0004                              |
+| ESL 1200 mg     | 253 | 1.76      | 0.022    | (1.63, 2.01) longer | 0.0014                         |                                     |
+| Complex partial |     |           |          |                     |                                |                                     |
+| Placebo         | 279 | 3.34      | 0.023    | (3.02, 3.68)        | -                              | 0.0001                              |
+| ESL 400 mg      | 192 | 2.95      | 0.028    | (2.59, 3.34)        | 0.1276                         |                                     |
+| ESL 800 mg      | 262 | 2.68      | 0.024 no | (2.38, 2.99)        | 0.0039                         |                                     |
+| ESL 1200 mg     | 253 | 2.30      | 0.024    | (2.01, 2.60)        | <0.0001                        |                                     |
+
+A responder analysis by seizure type showed that subjects treated with Exalief 800 mg and 1200 mg had a greater response than placebo for simple partial and complex partial seizures, and the percentage of responders was higher in the 1200 mg dose group than in the 800 mg dose group for both seizure types.
+
+CI = confidence interval; ITT = intent-to-treat; LS = least square; N = total number of subjects; SE = standard error. Note: The ANCOVA model was based on log-transformed seizure frequencies with treatment, study, baseline seizure frequency and number of concomitant AEDs at baseline as factors. Least square means and confidence limits for the absolute effects within treatment groups have been back-transformed via the exponential function. Dunnetts multiple comparison procedure was used for the comparison of the active treatment means to the placebo mean. Concerning standardised seizure frequency, the effect was somewhat pronounced in the 800 mg dose group compared to the 1200 mg for simple partial seizures, and a clear dose-related effect was seen for complex partial seizures. Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+| Table: Responder Seizure Type/ Treatment   | N               | analysis by seizure Number (%) responders   | Odds ratio      | Odds ratio      | Relative Risk   | Relative Risk           | Overall p-value   |
+|--------------------------------------------|-----------------|---------------------------------------------|-----------------|-----------------|-----------------|-------------------------|-------------------|
+| Table: Responder Seizure Type/ Treatment   | N               | analysis by seizure Number (%) responders   | Estimat e       | 95% CI          | Estimat e       | 95% CI                  | Overall p-value   |
+| Simple Partial                             | Simple Partial  | Simple Partial                              | Simple Partial  | Simple Partial  | Simple Partial  | Simple Partial          | Simple Partial    |
+| Placebo                                    | 133             | 39 (29.3)                                   | -               | -               | -               | -                       | -                 |
+| ESL 400 mg                                 | 84              | 26 (31.0)                                   | 1.41            | (0.72, 2.74)    | 1.28            | (0.79, 2.08)            | 0.3155            |
+| ESL 800 mg                                 | 127             | 61 (48.0)                                   | 2.23            | (1.34, 3.71)    | 1.64            | (1.19, 2.26)            | 0.0019            |
+| ESL 1200 mg                                | 123             | 63 (51.2)                                   | 2.53            | (1.51, 4.23)    | 1.75            | (1.27, 2.39) authorised | 0.0003            |
+| Complex Partial                            | Complex Partial | Complex Partial                             | Complex Partial | Complex Partial | Complex Partial | Complex Partial         | Complex Partial   |
+| Placebo                                    | 191             | 59 (30.9)                                   | -               | -               | -               | -                       | -                 |
+| ESL 400 mg                                 | 137             | 39 (28.5)                                   | 0.99            | (0.59, 1.66)    | 0.99            | (0.69, 1.44)            | 0.9698            |
+| ESL 800 mg                                 | 193             | 83 (43.0)                                   | 1.69            | (1.11, 2.57)    | 1.39 longer     | (1.07, 1.82)            | 0.0139            |
+| ESL 1200 mg                                | 188             | 100 (53.2)                                  | 2.54            | (1.67, 3.87)    | 1.72            | (1.34, 2.21)            | <0.0001           |
+
+| Treatment   | N   | Reduction   | Reduction   | Reduction   | Reduction   | Exacerbation   | Exacerbation   | Missing   |
+|-------------|-----|-------------|-------------|-------------|-------------|----------------|----------------|-----------|
+|             |     | ≥ 75%       | 50% to <75% | 25% to <50% | 0%to <25%   | <25%           | ≥ 25%          |           |
+| Placebo     | 279 | 8.2         | 13.3        | 19.0        | 20.4        | 14.0           | 24.7           | 0.4       |
+| ESL 400 mg  | 192 | 5.2         | 17.7        | 24.5        | 29.2        | 12.0           | 11.5           | 0         |
+| ESL 800 mg  | 262 | 14.5        | 21.8        | 24.0        | 19.8        | 7.3            | 12.6           | 0         |
+| ESL 1200 mg | 253 | 20.2        | 22.9        | 17.8        | 15.4        | 7.5            | 15.4           | 0.8       |
+
+CI = confidence interval; ITT = intent-to-treat; N = number of subjects who had the seizure type during the baseline period and with available data during the maintenance period; Responder: relative change in standardised seizure frequency ≥ 50% in comparison to baseline period. Efficacy analyses concerning simple partial and complex partial seizures demonstrate a relevant effect of the 800 mg and 1200 mg dose on both seizure types. Responder analysis revealed a dose response for  both  seizure  types  and  analysis  of  standardised  seizure  frequency  showed  a  clear  dose  related effect for complex partial seizures. Categorised relative change in standardised seizure frequency In the phase III integrated studies, the relative reduction in standardised seizure frequency increased with increasing dose of Exalief during the maintenance period. Table: Relative (%) change in standardised seizure frequency during the maintenance period compared to baseline - Phase III integrated studies (ITT population) Medicinal product no longer authorised
+
+ITT = intent-to-treat.
+
+<div style=\"page-break-after: always\"></div>
+
+A larger proportion of Exalief subjects (60.3% of 800 mg subjects and 60.9% of 1200 mg subjects) had  a  reduction  in  standardised  seizure  frequency  of  25%  or  more  compared  to  placebo  subjects (40.5%). While 38.7% of placebo subjects had an exacerbation of seizure frequency, less than 24% of subjects in any Exalief group did so. However the percentage of patients with an increase in seizure frequency,  especially  with  an  increase  of ≥ 25%  is  slightly  higher  in  the  1200  mg  dose  group compared to the 800 mg dose group (see next figure).
+
+Figure: Relative (%) change in standardised seizure frequency during the maintenance period compared to baseline - Phase III integrated studies (ITT population)
+
+<!-- image -->
+
+Concerning exacerbation of seizures,  the  same  trend concerning  the  verum  groups  was  seen,  when study 301 was analysed solely: The  proportion  of  patients  with  a  25%  or  greater  exacerbation  in  seizure  frequency  during maintenance phase versus baseline was highest in the placebo group (21.6%); in the verum groups however,  it  was  lowest  in  the  400  mg  dose  group  (8.1%)  and  highest  in  the  1200  mg  dose  group (12.2%). In study 302 the proportion of patients with a 25% or greater exacerbation in seizure frequency during maintenance phase versus baseline was highest in the placebo group (28.0%); in the verum groups it was lowest in the 800 mg dose group (10.0%), intermediate in the 1200 mg dose group (14.4%) and highest in the 400 mg dose group (15.6%). Medicinal product no longer authorised
+
+In  study  303,  however,  the  proportion  of  patients  with  a  25%  or  greater  exacerbation  in  seizure frequency during maintenance phase versus baseline was lowest in the 1200 mg dose group (13.0%), compared to the 800 mg dose group (16.7%) and the placebo group (22.6%), respectively.
+
+The CHMP noted that in the integrated phase III analysis, the percentage of subjects with a ≥ 50% relative reduction in standardised seizure frequency is higher in the 800 mg and 1200 mg dose groups compared to placebo, and especially for the ≥ 75% relative reduction the effect is larger in the 1200 mg dose group compared to the 800 mg dose group.
+
+<div style=\"page-break-after: always\"></div>
+
+The percentage of patients with an exacerbation in seizure frequency during the maintenance phase compared to the baseline  is  clearly  higher  in  the  placebo  group  compared  to  each  of  the  treatment groups. However the percentage of patients with an increase in seizure frequency, especially with an increase of ≥ 25% is slightly higher in the 1200 mg dose group compared to the 800 mg dose group in the integrated phase III analysis and in studies 301 and 302, respectively.
+
+The applicant was requested to further evaluate and discuss the potential of Exalief to induce seizures and to worsen specific seizure types. For this purpose, increase in seizure frequency &lt; 25% and ≥ 25%,  respectively  should  be  presented  for  different  seizure  types  (including  absences)  for  the individual studies as well as the integrated analysis.
+
+| Seizure type                                | %            | Number (%) of subjects   | Number (%) of subjects        | Number (%) of subjects   |
+|---------------------------------------------|--------------|--------------------------|-------------------------------|--------------------------|
+|                                             | Exacerbation | Placebo                  | ESL                           |                          |
+|                                             |              | (N=279)                  | 400 mg (N=192) 800 mg (N=262) | 1200 mg (N=253)          |
+| Overall                                     | <25%         | 39 (14.0)                | 23 (12.0) 19 (7.3)            | 19 (7.5)                 |
+|                                             | ≥ 25%        | 69 (24.7)                | 22 (11.5) 33 (12.6)           | 39 (15.4)                |
+| Simple partial                              | <25%         | 16 (5.7) 10              | (5.2) 4 (1.5)                 | 11 (4.3)                 |
+| Complex partial                             | ≥ 25%        | 39 (14.0) 16             | (8.3) 21 (8.0)                | 20 (7.9)                 |
+|                                             | <25%         | 25 (9.0) 16              | (8.3) 13 (5.0)                | 10 (4.0)                 |
+|                                             | ≥ 25%        | 47 (16.8) 15 longer      | (7.8) 30 (11.5)               | 26 (10.3)                |
+| Partial evolving to secondarily generalised | <25%         | 5 (1.8) 7                | (3.6) 5 (1.9)                 | 4 (1.6)                  |
+|                                             | ≥ 25%        | 11 (3.9) 10 no           | (5.2) 11 (4.2)                | 12 (4.7)                 |
+| Unclassified                                | <25%         | 0 2                      | (1.0) 2 (0.8)                 | 0                        |
+|                                             | ≥ 25%        | 6 (2.2) 2                | (1.0) 3 (1.1)                 | 6 (2.4)                  |
+
+In the integrated phase III analysis, the median standardised number of days with seizures per 4 weeks was between 5.9 and 6.5 in all treatment groups at baseline. The standardised number of days already decreased  during  the  titration  period  in  the  Exalief  800 mg  (p=0.0018)  and  1200  mg  groups (p=0.0249). During the maintenance period the median standardised number of days with seizures per 4 weeks was 5.3 in the placebo group compared to 4.3 in the 800 mg Exalief group (p=0.0054) and to 3.8 in the 1200 mg group (p=0.0007).
+
+Exacerbations in seizure frequency during Maintenance Period (Overall and by Seizure Type) Source: (Table Q48-1 and Q48-2 in Appendix 35) The percentage of patients experiencing absence seizures during baseline and/or maintenance phase was very low (placebo group: 0.4% of patients during baseline, 0.7% during  maintenance; 400 mg dose group: 0.5% during baseline, 0% during maintenance; 800 mg dose group: 0.4% during baseline, 1.1% during maintenance; 1200 mg dose group: 1.2% during baseline, 1.6% during maintenance). The frequency of patients experiencing absences are too low to draw definite conclusions, however, from the data presented there is no clear indication of a potential of Exalief to increase absences. It  was concluded that there is no indication for a potential exacerbation of seizures during treatment with Exalief. Number of days with seizures: Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+Table: Standardised number of days with seizure per 4 weeks - Phase III integrated studies (ITT population)
+
+| Treatment   | Baseline Period   | Baseline Period   | Baseline Period   | Maintenance Period   | Maintenance Period   | Maintenance Period   | Maintenance Period   |
+|-------------|-------------------|-------------------|-------------------|----------------------|----------------------|----------------------|----------------------|
+|             | N                 | Mean±SD           | Media n           | N                    | Mean±SD              | Median               | p-value              |
+| Placebo     | 286               | 8.0±5.70          | 5.9               | 279                  | 7.0±5.83             | 5.3                  | -                    |
+| ESL 400 mg  | 195               | 8.5±5.58          | 6.5               | 192                  | 7.0±5.83             | 5.1                  | 0.4410               |
+| ESL 800 mg  | 282               | 8.5±5.81          | 6.5               | 262                  | 6.1±5.77             | 4.3                  | 0.0054               |
+| ESL 1200 mg | 272               | 8.6±6.17          | 6.3               | 253                  | 6.1±6.22             | 3.8                  | 0.0007               |
+
+<!-- image -->
+
+ITT = intent-to-treat; N = total number of subjects with available data; SD = standard deviation. Note: p-values generated with a Cochran-Mantel-Haenszel test using modified ridit scores with study as stratification factor. In  study  302,  the  Exalief  800  mg  group  (ITT  population)  had  the  greatest  differences  in  median number of days with seizures between the baseline period value and the 12-week maintenance period value (3.2) and the 2-week titration + 12-week maintenance periods value (3.0). Differences in median values in the Exalief 1200 mg group were 1.8 and 1.6, respectively. Seizure-free subjects In  the  integrated  phase  III  analysis,  the  proportion  of  subjects  who  were  seizure-free  during  the maintenance  period  increased  with  increasing  dose  of  Exalief,  from  2%  to  3%  of  subjects  in  the placebo and Exalief 400 mg groups to 3.8% of subjects in the 800 mg group and 8% of subjects in the 1200 mg group. Treatment retention time In the integrated phase III analysis, treatment retention time was similar in the placebo and 400 mg groups and decreased with higher doses of Exalief. Findings in the safety population were the same as for the ITT population and were generally the same in the three single studies. Most discontinuations were because of unacceptable AEs which occurred in a treatment- and dose-dependent manner. Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+Figure: Treatment retention time - Phase III integrated studies (ITT population)
+
+<!-- image -->
+
+<!-- image -->
+
+Efficacy during tapering period During  the  tapering-off  period  (studies  301  and  303  only),  the  standardised  seizure  frequency remained essentially constant in the placebo group relative to the end of the maintenance period and increased slightly in the Exalief groups without any sign of a rebound effect. Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+Table: Standardised seizure frequency in tapering-off period - Studies BIA-2093-301 and BIA2093-303 (ITT population)
+
+| Treatment Group     | Study BIA-2093-301   | Study BIA-2093-301   | Study BIA-2093-301   | Study BIA-2093-303   | Study BIA-2093-303   | Study BIA-2093-303   |
+|---------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
+|                     | N                    | Mean±SD              | Media n              | N                    | Mean±SD              | Median               |
+| Baseline Period     |                      |                      |                      |                      |                      |                      |
+| Placebo             | 102                  | 12.4±17.94           | 6.7                  | 84                   | 12.9±18.31           | 6.5                  |
+| ESL 400 mg          | 99                   | 11.4±9.74            | 7.5                  | -                    | -                    | -                    |
+| ESL 800 mg          | 98                   | 11.2±11.21           | 7.0                  | 84                   | 13.1±18.58           | 7.8                  |
+| ESL 1200 mg         | 98                   | 11.6± 15.92          | 7.5                  | 77                   | 12.1±12.83           | 6.0                  |
+| Maintenance Period  |                      |                      |                      |                      |                      |                      |
+| Placebo             | 99                   | 11.1±17.21           | 6.7                  | 81                   | 11.2±21.62           | 5.7                  |
+| ESL 400 mg          | 97                   | 8.9±9.51             | 5.7                  | -                    | -                    | -                    |
+| ESL 800 mg          | 94                   | 7.1±8.11             | 4.8                  | 80                   | 9.7±14.42            | 4.6                  |
+| ESL 1200 mg         | 94                   | 8.1±15.51            | 4.7                  | 73                   | 7.8±10.45            | 3.7                  |
+| Tapering-off Period |                      |                      |                      |                      | longer               |                      |
+| Placebo             | 88                   | 9.1±15.85            | 5.8                  | 70                   | 10.3±19.70           | 5.4                  |
+| ESL 400 mg          | 93                   | 9.1±11.66            | 5.0                  | -                    | -                    | -                    |
+| ESL 800 mg          | 85                   | 8.2±9.04             | 5.8                  | 73                   | 10.0±12.92           | 5.4                  |
+| ESL 1200 mg         | 73                   | 9.5±18.45            | 5.8                  | 60                   | 8.0±8.17             | 5.1                  |
+
+## Motgomery &amp;Asberg depression rating scale (MADRS)
+
+ITT = intent-to-treat; N=total number of subjects; SD = standard deviation. Interaction between doses of Exalief and concomitant anti-epileptic drugs In the integrated phase III analysis, based on the ANCOVA model, no effect was seen on the efficacy of Exalief when given concomitantly with carbamazepine, lamotrigine, or valproic acid. Health related questionnaires Clinical global impression (CGI) On the Global Improvement scale, a larger percentage of Exalief subjects than placebo subjects had been noted at the end of the maintenance period (V5) as much improved (21.2% placebo, 29.4% Total Exalief) or very much improved (5.4% placebo, 10.4% Total Exalief), and this effect was greatest in the 800 mg and 1200 mg Exalief groups. Similar results were seen for therapeutic effect. At the end of the maintenance period side effects were reported by 24.2% of placebo subjects and 27.6% of Exalief subjects, and ≤ 5% of subjects considered these to significantly interfere with their functioning. Medicinal product no longer authorised
+
+Symptoms  of  depression  as  assessed  by  the  MADRS  did  not  show  major  changes  from  the randomisation visit to the last visit in either the placebo or Exalief groups.
+
+## Quality of life in epilepsy inventory-31 (Quolie-31)
+
+There were no major changes of QOLIE-31 mean scores from randomisation to the last visit for any of the subscales or on the overall score in either the placebo or Exalief groups.
+
+<div style=\"page-break-after: always\"></div>
+
+## Study 303:
+
+Whereas in studies 301 and 302 major protocol violations where at an acceptable level (in study 301 only 4 Patients were excluded from PP population because of major protocol violations, in study 302 major protocol violations occurred in 14.4% of patients) the percentage of patients with major protocol violations in study 303 was remarkable (33.6%):
+
+Table 10-1.Major Protocol Violations Affecting&gt;5Patients Overall (ITT Population)
+
+| Placebo (+8=ND)  (%)   | ESL800 mg (N=84)  (%6)   | ESL 1200 mg (N=77)  (9)   | Total (N=245) n (%)   |
+|------------------------|--------------------------|---------------------------|-----------------------|
+
+<!-- image -->
+
+The CHMP was concerned by the frequency and character of the major protocol violations of study 303, raising doubts on the reliability of the study results. Whereas the results of studies 301 and 302 were  highly  consistent,  some  results  of  study  303  were  considered  implausible.  The  applicant  was therefore  requested  to  repeat  the  integrated  analysis  without  study  303:  the  analysis  with  excluded study 303 was not significantly different from the overall integrated analysis. Although the drop-out rate in the study 303 was relatively high, the overall results did not change after excluding this study from the analysis.
+
+The blind was broken for 5 patients immediately after study completion. To assess the potential impact this  deviation  had  on  results  from  this  study,  a  restricted  ITT  population, in  which  data for  these 5 patients were removed from the ITT population, was used for several efficacy analyses: In contrast to the results from ANCOVA analysis of seizure frequency per 4 weeks over the 12-week maintenance period in the complete ITT population (which had shown a statistically significant and dose  dependent  effect  of  the  Exalief  800  mg  and  1200  mg  groups),  ANCOVA  analysis  of  the restricted ITT population revealed no statistically significant difference between the Exalief 800 mg and the placebo groups. However,  results  were  almost  the  same  between  the  complete  and  restricted  ITT  populations  for median absolute and relative reductions in seizure frequency or the proportions of responders, seizurefree  patients  and  patients  with  a ≥ 25%  exacerbation  in  seizure  frequency  over  the  12-week maintenance period. Furthermore, in the PP population, ANCOVA analysis for seizure frequency per 4 weeks over the 12week maintenance period (as well as the 2-week titration + 12 week maintenance periods) revealed no statistically significant difference between treatment and placebo groups, which might be due to a low sample size for the PP population compared with that of the ITT population (133 vs. 245 patients, respectively). The LS mean difference to placebo was greater in the Exalief 1200 mg group than in the Exalief 800 mg group (-1.6 versus -1.2, respectively). As has been shown above the responder rates for the 800 and 1200 mg dose groups clearly exceeded that of the placebo group, but the difference compared to placebo was statistically significant only for the 1200 mg dose group. Additionally,  some  inconsistencies  in  the  analyses  of  the  accessory  secondary  efficacy  parameters were found. Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+## · Ancillary analyses
+
+## Analysis of subpopulations
+
+In the integrated phase III analysis, the trend for increasing efficacy with increasing dose of Exalief was generally consistent among sub-populations. No relevant difference was found between men and women,  geographical  regions,  subjects  with  longer  ( ≥ 20  years)  or  shorter  (&lt;20  years)  epileptic duration, for subjects &lt;18 years at diagnosis or between 18 and 50 years, for number of concomitant AEDs (1 or 2). While the same dose-dependent trend was seen for Hispanics, it was less pronounced than for Caucasians.
+
+The  efficacy  seen  in  each  dose  group  was  generally  comparable  during  the  maintenance  period regardless of whether subjects were taking concomitant carbamazepine, lamotrigine or valproic acid. Analysis performed across trials (pooled analyses and meta-analysis) The integrated analysis of the 3 pivotal studies has already been described above (Main studies). Clinical studies in special populations Children One open-label phase II study in children with epilepsy has been performed BIA-2093-202, and has been described above. This  study  is  indicative  of  efficacy  of  Exalief  in  the  treatment  of  children  with  partial  seizures, however, due to the study design the contribution to the proof of efficacy in the adult epilepsy patients is very limited. Further studies are ongoing and/or planned. Supportive studies Long term efficacy trials: out of the 857 subjects who completed part I of studies 301, 302 and 303, 831 (97.0%) entered part II of these studies, an open-label extension trial to evaluate the safety and efficacy of Eslicarbazepine acetate over a 1-year open-label period. Part II of study 301 was completed and studies 302 and 303 were still ongoing at the time of opinion. In  Study  301-II  the  efficacy  parameters  remained  stable  over  time,  the  Exalief  dose  administered remained stable after the first 4 weeks of treatment. The  discontinuation  rate  (23.9%  of  patients)  was  moderately  high,  the  most  common  reason  was withdrawal of consent (41 patients, corresponding to 13.1%), followed by occurrence of unacceptable AE  (10  patients,  3.2%).  Exacerbation  of  seizures  occurred  in  2  patients  (0.6%).  However  lack  of efficacy was not among the pre-defined reasons for withdrawal; it was concluded to be the reason if a patient prematurely discontinued the study due to exacerbation of seizures. Medicinal product no longer authorised
+
+Due to the inevitable selection bias, the missing of a control group and the open-label design, openlabel  extension  studies  are  naturally  of  limited  value.  Therefore,  the  data  concerning  health-related questionnaires are not conclusive and inclusion of the respective data into chapter 5.1 of the SPC is misleading.
+
+However, the presented data indicate that the therapeutic effect of eslicarbazepine is maintained over time.
+
+After completion of the open-label extension parts of studies 302 and 303, the applicant should submit the respective efficacy results.
+
+<div style=\"page-break-after: always\"></div>
+
+## Discussion on clinical efficacy
+
+The three  pivotal  studies  (301,  302  and  303)  were  essentially  similar  in  design  and  allowed  for  an integrated analysis (phase III integrated studies).
+
+With regard to  the  primary  efficacy  variable  of  the  three  pivotal  studies  (i.e.  the  seizure  frequency during the maintenance period standardised to 4 weeks) as well as to the responder rate, efficacy of the 800 and 1200 mg daily dose of Exalief could be shown. Results for the 800 mg and 1200 mg dose were statistically significant superior to placebo in the separate analyses of all three single studies as well as in the phase III integrated analysis, except, that in study 303, the responder rate for the 800 mg dose group did not reach statistical significance compared to placebo.
+
+Relative reduction in standardised seizure frequency during the maintenance period was considerably larger for the Exalief treatment groups compared to placebo, the results for the 800 and 1200 mg dose groups being statistically significant. A  dose  dependent  increase  of  the  therapeutic  effect  of  Exalief  was  shown  with  relatively  high consistency. The effect of the 400 mg dose did not reach statistical significance in almost all parameters examined, therefore, 800 mg is applied for as the minimum therapeutic dose. The analyses of the further secondary efficacy variables showed a level of efficacy of the 800 mg and 1200  mg  dose  of  Exalief  which  closely  matched  the  results  shown  in  the  analysis  of  the  primary endpoint and the responder rate. However, some inconsistencies of the presented data were seen to be formally assessed and discussed by the applicant. In the ITT population of the three pivotal studies, there was a higher and dose dependent incidence of early  discontinuations  due  to  adverse  events  during  the  maintenance  period  in  the  Exalief  groups (7.1%) compared to the placebo group (1%). Apparently, in the three single studies as well as in the integrated analysis patients who discontinued treatment  prematurely  during  one  of  the  treatment  periods  were  still  categorized  as  treatment responders for that particular treatment period when their seizure frequency was reduced by 50% or more up to the point of discontinuation. The requested conservative responder analysis, in which patients who discontinued early are regarded as non-responders, shows a statistically significant higher responder rate for the 800 mg and 1200 mg Exalief groups compared to placebo in the integrated analysis, as well as for study 301 and 302. These results are in line with the original responder analysis in which patients who discontinued treatment prematurely were still categorized as responders when their seizure frequency was reduced by ≥ 50% up to the point of discontinuation. In study 303, the conservative responder analysis revealed a higher percentage  of  responders  in  the  800  mg  (32.5%)  and  1200  mg  (35.6%)  dose  group  compared  to placebo  (23.5%),  though  the  differences  were  not  statistically  significant  for  both  dose  groups.  A further formal assessment of the conservative responder rates in the three pivotal studies did not reveal relevant  heterogeneities  between  the  studies.  The  finding  that  the  difference  in  percentage  of responders of the 800 mg and 1200 mg dose group, respectively compared to the placebo group, was not  statistically  significant  in  study  303  is  probably  based  on  the  lower  number  of  patients  in  the respective study and does not put in doubt the overall efficacy results of Exalief. Medicinal product no longer authorised
+
+Efficacy  analyses  concerning  simple  partial  and  complex  partial  seizures  demonstrated  a  relevant effect  of  the  800  mg  and  1200  mg  dose  on  both seizure  types.  Responder  analysis  revealed  a  dose response for both seizure types and analysis of standardised seizure frequency showed a clear dose related  effect  for  complex  partial  seizures.  Efficacy  of  Exalief  in  the  treatment  of  secondary generalised seizures was sufficiently justified by the applicant.
+
+The  completed  open-label  extension-study  301-II  indicates,  that  the  therapeutic  effect  of  Exalief  is maintained over time.
+
+<div style=\"page-break-after: always\"></div>
+
+## CLINICAL SAFETY
+
+## Introduction
+
+The  Exalief  clinical  development  program  for  the  indication  of  Exalief  as  adjunctive  therapy  for refractory  partial  seizures  included  22  phase  I  studies,  2  phase  II  studies  (study  201  performed  in adults  and  study  202  in  children  and  adolescents,  respectively),  and  3  phase III  studies  in  adults (including a double-blind part I and open-label extension periods).
+
+In addition, 3 phase II studies were performed in adults for the treatment of acute manic episodes and prevention of recurrence of mood episodes in bipolar disorder I.
+
+<!-- image -->
+
+| Development            | Subject                                                    | Number     | Number of Subjects Treated   | Number of Subjects Treated   | Number of Subjects Treated   |
+|------------------------|------------------------------------------------------------|------------|------------------------------|------------------------------|------------------------------|
+| Phase                  | Population                                                 | of Studies | ESL                          | Placebo                      | Total                        |
+| Phase I                | Non-epileptic adults                                       | 22         | 558                          | 115                          | 592 a                        |
+| Phase II               | Adults/Children b with refractory partial epilepsy product | 2          | 127 b                        | 47                           | 174                          |
+|                        | Adults with bipolar disorder                               | 3          | 172 c                        | 51                           | 199 c                        |
+| Phase III              | Adults with refractory partial epilepsy                    | 3          | 840                          | 289                          | 1049 d, e                    |
+| Total clinical studies | Total clinical studies                                     | 30         | 1694                         | 502                          | 2014                         |
+
+e 1 subject in Study BIA-2093-303 was treated with placebo during the 12-week treatment period and then with ESL 400 mg QD for 14 days; this subject is not included in the numbers shown here.
+
+Information on safety of Exalief in the therapy as adjunctive treatment in adult epilepsy patients is mainly derived from the integrated safety data from part I of the phase III studies 301, 302 and 303 together with the data from study 201 and the completed extension of study 301 part II. All of these studies were performed in the target indication, namely adults with refractory partial seizures. Furthermore, the clinical pharmacology studies (phase I studies) as well as phase II clinical studies in other  than  the  target  indication,  i.e.  1  paediatric  study  (No.  202),  3  studies  in  patients  with  bipolar disorder (Nrs. 203, 204 and 205, respectively) and ongoing studies (part II of studies 302 and 303, respectively as well as part III of study 301) provided supportive data to elucidate the safety profile of Exalief. Patient exposure At  the  cut-off  date  of  30  September  2007  more  than  2000  subjects  had  been  exposed  to  single  or repeated doses of Exalief. All Exalief doses were given orally in the clinical studies, either as tablets or as a suspension. Table 1: Summary of total exposure in ESL clinical program (completed studies) Total clinical studies a Due to cross-over designs, numbers treated in Phase I studies are not additive. b 31 children 2-17 years of age received ESL in Study BIA-2093-202. c  The  total  column  is  not  cumulative  of  the  ESL  and  placebo  columns  due  to  24  subjects  who  received  placebo treatment in Studies BIA-2093-203 or -204 and then received ESL in Study BIA-2093-205. d  The  total  column  is  not  cumulative  of  the  ESL  and  placebo  columns  due  to  80  subjects  who  were  treated  with placebo in Part I of Study BIA-2093-301 and then with ESL in Part II. Medicinal product no longer authorised
+
+In the open-label extension studies in the target indication (part II of studies 301, 302 and 303) 833 patients received at least one dose of Exalief, 700 patients were exposed to Exalief for ≥ 6 months and 612 patients for ≥ 12 months.
+
+In Phase I studies in healthy subjects Exalief doses up to 3600 mg/day were tested (study No.118), and the identified maximum tolerated dose (MTD) was 2400 mg/day (study No. 113).
+
+<div style=\"page-break-after: always\"></div>
+
+In studies in patients with bipolar disorder the maximum daily Exalief dose tested was 2400 mg QD, administered in monotherapy.
+
+## Adverse events
+
+## TEAEs
+
+Table:  Summary of TEAEs - Phase II/III-part I adult epilepsy studies Study 201 Integrated Phase III Studies,
+
+In part I of the phase III studies, the overall incidence of TEAEs increased with increasing doses of Exalief (46.4% placebo, 60.7% 400 mg Exalief, 62.7% 800 mg Exalief and 67.5% 1200 mg Exalief), the  dose-dependent  increase  was  also  seen  for  possibly  related  TEAEs  and  TEAEs  leading  to discontinuation of study medication. The increase in TEAEs was mainly due to a small number of specific events in the Exalief 800 and 1200 mg  groups, namely diplopia, nausea, abnormal coordination, dizziness, headache, and somnolence. In addition to vertigo, blurred vision, vomiting, and fatigue, these were the same events that  led  to  an  increased  incidence  of  subjects  discontinuing  in  the  Exalief  groups.  TEAEs  occurred mainly during the first 6 weeks of treatment. In  general, the profile of at least possibly related TEAEs of the integrated Phase III studies and the (double-blind) study 201 appears similar to that of oxcarbazepine and the apparent frequencies do not raise any serious concern. In the placebo controlled studies with Exalief in the target indication, some possibly related TEAEs (e.g. headache, diplopia, nausea and vomiting) appear to occur less frequently compared to the known frequencies  from  oxcarbazepine.  However,  conclusive  results  could  only  be  provided  from  active comparator studies. Clinically significant  hyponatraemia  (&lt;125  mmol/L)  has  occurred  uncommonly,  however,  an evaluation  of  the  frequency  of  hyponatraemia  causing  clinical  symptoms  and  the  time  to  onset  of hyponatraemia after start of Exalief treatment is missing and should be presented. Medicinal product no longer authorised
+
+| Type of event                                        | Study 201      | Study 201        | Integrated Phase III Studies, Part I   | Integrated Phase III Studies, Part I   | Integrated Phase III Studies, Part I   | Integrated Phase III Studies, Part I   | Integrated Phase III Studies, Part I   |
+|------------------------------------------------------|----------------|------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
+|                                                      | Placebo (N=47) | Total ESL (N=96) | Placebo (N=289)                        | 400 mg (N=196)                         | 800 mg (N=284)                         | 1200 mg (N=280)                        | Total ESL (N=760) authorised           |
+| All TEAEs                                            | 21 (44.7)      | 38 (39.6)        | 134 (46.4)                             | 119 (60.7)                             | 178 (62.7)                             | 189 (67.5)                             | 486 (63.9)                             |
+| Possibly related TEAEs                               | 10 (21.3)      | 23 (24.0)        | 72 (24.9)                              | 75 (38.3)                              | 134 (47.2)                             | 154 (55.0)                             | 363 (47.8)                             |
+| SAEs                                                 | 1 (2.1)        | 2 (2.1)          | 4 (1.4)                                | 9 (4.6)                                | 10 (3.5)                               | 9 (3.2)                                | 28 (3.7)                               |
+| TEAEs leading to discontinuation of study medication | 5 (10.6)       | 9 (9.4)          | 13 (4.5)                               | 17 (8.7)                               | 33 (11.6)                              | 54 (19.3)                              | 104 (13.7)                             |
+| Deaths                                               | 0              | 0                | 1 (0.3)                                | 0                                      | 0                                      | 0                                      | 0                                      |
+
+The  frequency  of  rash  appears  to  be  common,  which  is  in  accordance  with  the  incidence  of  rash known from oxcarbazepine. No definite conclusion concerning the possible risk of serious immune and skin disorders (including Steven-Johnson syndrome) can be drawn and these events will be further followed in the RMP.
+
+## Serious adverse events
+
+In part I of the phase III studies there was a somewhat higher (but not dose related) incidence of SAEs in  the  Exalief  groups  (3.7%) compared to the placebo group (1.4%).The only SOCs in which more than 2 subjects per Exalief treatment group reported SAEs were nervous system disorders (1, 0.3% placebo; 13, 1.7% Total Exalief) and gastrointestinal disorders (0 placebo; 7, 0.9% Total Exalief).
+
+<div style=\"page-break-after: always\"></div>
+
+Table: Serious TEAEs, by decreasing frequency - Phase II/III adult epilepsy studies (safety population)
+
+| Preferred term                                        | Number (%) of subjects   | Number (%) of subjects   | Number (%) of subjects               | Number (%) of subjects               | Number (%) of subjects               | Number (%) of subjects               | Number (%) of subjects   | Number (%) of subjects   |
+|-------------------------------------------------------|--------------------------|--------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------|--------------------------|
+| Preferred term                                        | Study 201                | Study 201                | Integrated Phase III Studies, Part I | Integrated Phase III Studies, Part I | Integrated Phase III Studies, Part I | Integrated Phase III Studies, Part I | Study 301 Part II        |                          |
+| Preferred term                                        | Placebo (N=47)           | Total ESL (N=96)         | Placebo (N=289)                      | 400 mg (N=196)                       | 800 mg (N=284)                       | 1200 mg (N=280)                      | Total ESL (N=760)        | Total ESL (N=314)        |
+| Total subjects with SAEs                              | 1 (2.1)                  | 2 (2.1)                  | 4 (1.4)                              | 9 (4.6)                              | 10 (3.5)                             | 9 (3.2)                              | 28 (3.7)                 | 19 (6.1)                 |
+| Coordination abnormal                                 | 0                        | 0                        | 0                                    | 2 (1.0)                              | 2 (0.7)                              | 1 (0.4)                              | 5 (0.7)                  | 0 authorised             |
+| Vomiting                                              | 0                        | 0                        | 0                                    | 1 (0.5)                              | 2 (0.7)                              | 1 (0.4)                              | 4 (0.5)                  | 0                        |
+| Drug toxicity                                         | 0                        | 0                        | 0                                    | 1 (0.5)                              | 1 (0.4)                              | 1 (0.4)                              | 3 (0.4)                  | 2 (0.6)                  |
+| Vertigo                                               | 0                        | 0                        | 0                                    | 1 (0.5)                              | 1 (0.4)                              | 1 (0.4)                              | 3 (0.4)                  | 1 (0.3)                  |
+| Diplopia                                              | 0                        | 0                        | 0                                    | 2 (1.0)                              | 0                                    | 0                                    | 2 (0.3)                  | 0                        |
+| Dizziness                                             | 0                        | 0                        | 0                                    | 1 (0.5)                              | 0                                    | 1 (0.4)                              | 2 (0.3)                  | 0                        |
+| Convulsion                                            | 0                        | 0                        | 0                                    | 1 (0.5)                              | 1 (0.4)                              | 0                                    | 2 (0.3)                  | 1 (0.3)                  |
+| Cerebellar syndrome                                   | 0                        | 0                        | 0                                    | 0                                    | 0                                    | 1 (0.4)                              | 1 (0.1)                  | 0                        |
+| Constipation                                          | 0                        | 0                        | 0                                    | 0                                    | 0                                    | 1 (0.4)                              | 1 (0.1)                  | 0                        |
+| Gastric disorder                                      | 0                        | 0                        | 0                                    | 0                                    | 0                                    | 1 (0.4)                              | 1 (0.1)                  | 0                        |
+| Hypertensive crisis                                   | 0                        | 0                        | 0                                    | 0                                    | 0 longer                             | 1 (0.4)                              | 1 (0.1)                  | 0                        |
+| Rash                                                  | 0                        | 0                        | 0                                    | 0                                    | 0                                    | 1 (0.4)                              | 1 (0.1)                  | 0                        |
+| Angina pectoris                                       | 0                        | 0                        | 0                                    | 0 no                                 | 1 (0.4)                              | 0                                    | 1 (0.1)                  | 0                        |
+| Endometriosis                                         | 0                        | 0                        | 0                                    | 0                                    | 1 (0.4)                              | 0                                    | 1 (0.1)                  | 0                        |
+| Follicle centre lymphoma, follicular grade I, II, III | 0                        | 0                        | 0 product                            | 0                                    | 1 (0.4)                              | 0                                    | 1 (0.1)                  | 0                        |
+| Gastric ulcer                                         | 0                        | 0                        | 0                                    | 0                                    | 1 (0.4)                              | 0                                    | 1 (0.1)                  | 0                        |
+| Gastroenteritis                                       | 0                        | 0                        | 0                                    | 0                                    | 1 (0.4)                              | 0                                    | 1 (0.1)                  | 0                        |
+| Hyponatraemia                                         | 0                        | 0                        | 0                                    | 0                                    | 1 (0.4)                              | 0                                    | 1 (0.1)                  | 0                        |
+| Renal failure acute                                   | 0                        | 0                        | 0                                    | 0                                    | 1 (0.4)                              | 0                                    | 1 (0.1)                  | 0                        |
+| Complex partial seizures Medicinal                    | 0                        | 0                        | 0                                    | 1 (0.5)                              | 0                                    | 0                                    | 1 (0.1)                  | 1 (0.3)                  |
+| Depression                                            | 0                        | 0                        | 0                                    | 1 (0.5)                              | 0                                    | 0                                    | 1 (0.1)                  | 0                        |
+| Grand mal convulsion                                  | 0                        | 0                        | 0                                    | 1 (0.5)                              | 0                                    | 0                                    | 1 (0.1)                  | 3 (1.0)                  |
+| Nervousness                                           | 0                        | 0                        | 0                                    | 1 (0.5)                              | 0                                    | 0                                    | 1 (0.1)                  | 0                        |
+| Psychotic disorder                                    | 0                        | 0                        | 0                                    | 1 (0.5)                              | 0                                    | 0                                    | 1 (0.1)                  | 0                        |
+| Traumatic brain injury                                | 0                        | 0                        | 0                                    | 1 (0.5)                              | 0                                    | 0                                    | 1 (0.1)                  | 1 (0.3)                  |
+| Vasculitis cerebral                                   | 0                        | 0                        | 0                                    | 1 (0.5)                              | 0                                    | 0                                    | 1 (0.1)                  | 0                        |
+| Death                                                 | 0                        | 0                        | 1 (0.3)                              | 0                                    | 0                                    | 0                                    | 0                        | 1 (0.3)                  |
+| Fibroadenoma of breast                                | 0                        | 0                        | 1 (0.3)                              | 0                                    | 0                                    | 0                                    | 0                        | 0                        |
+| Paraesthesia                                          | 0                        | 0                        | 1 (0.3)                              | 0                                    | 0                                    | 0                                    | 0                        | 0                        |
+| Pneumonia primary atypical                            | 0                        | 0                        | 1 (0.3)                              | 0                                    | 0                                    | 0                                    | 0                        | 0                        |
+
+<div style=\"page-break-after: always\"></div>
+
+| Preferred term                        | Number (%) of subjects   | Number (%) of subjects   | Number (%) of subjects               | Number (%) of subjects               | Number (%) of subjects               | Number (%) of subjects               | Number (%) of subjects               | Number (%) of subjects   |
+|---------------------------------------|--------------------------|--------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------|
+| Preferred term                        | Study 201                | Study 201                | Integrated Phase III Studies, Part I | Integrated Phase III Studies, Part I | Integrated Phase III Studies, Part I | Integrated Phase III Studies, Part I | Integrated Phase III Studies, Part I | Study 301 Part II        |
+| Preferred term                        | Placebo (N=47)           | Total ESL (N=96)         | Placebo (N=289)                      | 400 mg (N=196)                       | 800 mg (N=284)                       | 1200 mg (N=280)                      | Total ESL (N=760)                    | Total ESL (N=314)        |
+| Gastroenteritis viral                 | 1 (2.1)                  | 0                        | 0                                    | 0                                    | 0                                    | 0                                    | 0                                    | 0                        |
+| Gastrointestin al infection           | 0                        | 1 (1.0)                  | 0                                    | 0                                    | 0                                    | 0                                    | 0                                    | 0                        |
+| Lymphadenitis                         | 0                        | 0                        | 0                                    | 0                                    | 0                                    | 0                                    | 0                                    | 1 (0.3)                  |
+| Otitis media acute                    | 0                        | 0                        | 0                                    | 0                                    | 0                                    | 0                                    | 0                                    | 1 (0.3) authorised       |
+| Head injury                           | 0                        | 0                        | 0                                    | 0                                    | 0                                    | 0                                    | 0                                    | 1 (0.3)                  |
+| Thermal burn                          | 0                        | 0                        | 0                                    | 0                                    | 0                                    | 0                                    | 0                                    | 1 (0.3)                  |
+| Scull fracture                        | 0                        | 0                        | 0                                    | 0                                    | 0                                    | 0                                    | 0                                    | 1 (0.3)                  |
+| Colorectal cancer                     | 0                        | 0                        | 0                                    | 0                                    | 0                                    | 0                                    | 0                                    | 1 (0.3)                  |
+| Hemiparesis                           | 0                        | 0                        | 0                                    | 0                                    | 0                                    | 0                                    | 0                                    | 1 (0.3)                  |
+| Psychomotor hyperactivity             | 0                        | 0                        | 0                                    | 0                                    | 0                                    | 0                                    | 0                                    | 1 (0.3)                  |
+| Status epilepticus                    | 0                        | 0                        | 0                                    | 0                                    | 0                                    | 0                                    | 0                                    | 1 (0.3)                  |
+| Postical state                        | 0                        | 0                        | 0                                    | 0                                    | 0                                    | 0                                    | 0                                    | 1 (0.3)                  |
+| Ischaemic stroke                      | 0                        | 1 (1.0)                  | 0                                    | 0                                    | 0 longer                             | 0                                    | 0                                    | 0                        |
+| Delusion                              | 0                        | 0                        | 0                                    | 0                                    | 0                                    | 0                                    | 0                                    | 1 (0.3)                  |
+| Delusional disorder, persecutory type | 0                        | 0                        | 0                                    | 0 no                                 | 0                                    | 0                                    | 0                                    | 1 (0.3)                  |
+
+In two of the three phase II studies in adult patients with bipolar disorder two deaths occurred. In study BIA-2093-203, a 42-year-old subject in the placebo group experienced an ischemic stroke. The event was  not  considered  related  to  study  medication.  In  study  BIA-2093-205,  a  30-year-old  subject committed  suicide  5  days  after  the  last  900mg  dose  of  Exalief.  The  subject  had  been  prematurely discontinued from study due to withdrawal of consent. The investigator considered the event as not related to Exalief treatment.
+
+Events are sorted by decreasing frequency in the Total ESL column of Studies 301, 302, and 303 Part I. N = total number of subjects; SAE = serious adverse event. Deaths In total 10 death cases occurred during the clinical trial programme of Exalief. During  the  phase  I  study  BIA-2093-105  a  65  year  old  patient  treated  with  600mg  Exalief  died  of cardiovascular failure after occlusion of a coronary artery. A causal relationship with Exalief appears unlikely. Medicinal product no longer authorised
+
+In part I of the placebo-controlled integrated phase III study BIA-2093-301, a 50-year-old subject in the placebo group died of hypothermia.
+
+During the open label extension periods of the phase III studies six patients died.
+
+In part II of study BIA-2093-301 a 56-year old patient treated with Exalief 800 mg QD, gabapentin 1200 mg/day and valproic acid 1500 mg/day, died of drowning in the bathroom. A causal relationship with Exalief was determined unlikely.
+
+<div style=\"page-break-after: always\"></div>
+
+In part II of study BIA-2093-302 one 31-year old subject and one 33-year old subject treated with Exalief 1200mg/day died of drowning. Investigator assessed these two cases as unlikely to be related to Exalief treatment. Another 31-year-old subject treated with Exalief 800 mg QD, levetiracetam 2 g/day and CBZ 400 mg/day, and with several cardiovascular risk factors suffered from a sudden unobserved death and severe coronary atherosclerosis. Investigator assessed this event as a case of sudden unexplained death which was possibly related to Exalief.
+
+In part II of study BIA-2093-303 one 54-year-old subject treated with Exalief 800 mg QD, CBZ 1000 mg/day and LMT 150 mg/day died due to neoplasm recurrence of a previous low grade astrocytoma. The investigator assessed this event as not related to Exalief treatment. Another 33-year-old subject treated with Exalief 800 mg QD, CBZ 800 mg/day and valproic acid 1000 mg/day died of acute respiratory insufficiency and epilepsy grand mal. The investigator assessed this event as possibly related to Exalief.
+
+The numbers of clinically significant increases in transaminases which occurred during the integrated phase III studies, part II of study 301, study 201 and phase I studies in Exalief patients compared to placebo patients do not raise serious concerns. However, to include as much data as possible in the evaluation of transaminase increase, all cases which occurred during the other phase II studies (besides study 201) and of part II of studies 302 and 303 should also be listed and evaluated with respect to severity and causal relationship.
+
+Whereas  it  can  not  completely  be  ruled  out  that  in  two  of  these  patients  an  increase  in  seizure frequency caused by Exalief might have contributed to death. However, anticonvulsives are known to increase  the  seizure  frequency  in  individual  patients  and  Exalief  appears  not  to  lead  to  a  relevant increase in seizure frequency. A  'Risk  for  suicidality  class  wording'  for  anticonvulsants  has  recently  been  finalised  in  the Pharmacovigilance Working Party and the respective information is included in the SPC and PIL. Toxicological studies in dogs did not reveal a signal with respect to cardiotoxicity. It has been shown that Exalief inhibits voltage-gated sodium channels, however, it is not clarified, whether this inhibition occurs specifically in the central nervous system or not. Inhibition of cardiac sodium channels leads to an increase in QRS-duration, which is associated with sudden death. In the thorough QT study, the time averaged QRS duration increased of about 0.8 to 1.05 ms (placebo: 0.32  ms)  which  seems  to  be  not  clinically  relevant.  Furthermore,  from  the  evaluation  of  the  ECG recordings  performed  during  clinical  studies  with  Exalief,  no  signal  towards  an  increase  in  QRS interval can be derived. The thorough QT study did not raise concerns with respect to QT prolongation, and showed a mild and dose dependent increase in the PR interval of about 5-8 ms (placebo: 2 ms) despite of a mild increase in  heart  rate  (neither  of  which  is  considered  of  clinical  relevance  of  its  own).  Evaluation  of  ECG recordings performed during clinical trials showed a mean increase in PR interval in Exalief treated patients compared to baseline which was not strictly dose dependent but highest in the 1200 mg dose group  with  a  mean  increase  in  PR  interval  of  5.5  ±30.6  ms  (compared  to  a  slight  decrease  in  the placebo group of -0.8 ± 20.6 ms). The results are in accordance with the finding of the thorough QT study. Thus, administration of Exalief should be absolutely contraindicated in patients with 2nd and 3rd degree atrioventricular block and further evaluation of a population at risk of PR increase under treatment with Exalief should be performed. However, during the integrated phase III studies and study 201 atrioventricular block (first degree) was  registered  as  TEAE  only  once  after  administration  of  placebo  but  not  after  administration  of Exalief. Laboratory findings: Medicinal product no longer authorised
+
+Increase in INR should be included in the RMP (increase in aPTT is already included). The potential of  Exalief  to  increase  total-  and  LDL-  cholesterol  should  be  closely  observed  through  routine pharmacovigilance.
+
+<div style=\"page-break-after: always\"></div>
+
+## Safety in special populations
+
+Only very few patients ≥ 65 years have been exposed to Exalief during the phase III studies (9 patients ≥ 65 received Exalief during double blind period of phase III studies). No patient ≥ 65 years received Exalief in the phase II study relevant for the indication (No. 201).
+
+There is a trend towards a higher frequency of all TEAEs and possibly related TEAEs for this age group;  however,  the  number  of  elderly  patients  is  too  small  to  draw  meaningful  conclusions. Altogether, Exalief has not been adequately studied in elderly patients and adequate information on the very limited data on Exalief in elderly should be given in the SPC. Moreover, the incidence of epilepsy  is  the  highest  in  the  elderly  population  and  therefore  this  population  will  be  the  most frequently treated population among the target population for therapy with this product. Therefore, the applicant was asked to make a proposal, how the efficacy and safety in the elderly population will be addressed. Next, the applicant is asked to summarize the data, which are expected to be gained postauthorization from the population &gt; 65 years.
+
+Clinical data in patients with mild to moderate hepatic impairment is limited and no pharmacokinetic as well as no clinical data are available in patients with severe hepatic impairment. Therefore, Exalief should  only  be  used  with  caution  in  patients  mild  to  moderate  hepatic  impairment  and  is  not recommended in patients with severe hepatic impairment. Due to the increased extent of exposure to Exalief observed in subjects with renal impairment, dose adjustments are required in these subjects. As only 8 patients in the evaluation of the appropriate cutoff for dose adjustment in renal impaired patients [Memo-Exalief-RenalImpAdjust\\_05JUN2007] had a Creatinine clearance within the range of 30-60 ml/min reliability of the respective evaluation should be further justified by the applicant. Exalief is not recommended in patients with severe and end-stage renal impairment (Creatinine clearance &lt; 30 ml/min) due to insufficient data. Safety related to drug-drug interactions and other interactions Although the incidence of treatment-emergent adverse events (TEAEs) was higher in subjects treated with  concomitant  CBZ  than  in  subjects  not  treated  with  CBZ,  this  was  true  for  both  Exalief  and placebo treated subjects. Diplopia was reported more frequently by patients taking Exalief plus CBZ compared to the overall population. Discontinuation due to adverse events The percentage of patients  discontinuing  treatment  increases  noticeably  with  increasing  dose.  Most discontinuations  were  because  of  unacceptable  AEs  which  occurred  in  a  treatment-  and  dosedependent  manner.  The  increased  incidence  of  subjects  discontinuing  in  the  Exalief  groups  in  the integrated Phase III studies was primarily due to events of vertigo, diplopia, blurred vision, nausea, vomiting, fatigue, abnormal coordination, dizziness, headache, and somnolence. Post marketing experience There is no post-marketing experience with Exalief. Overall conclusions on clinical safety Medicinal product no longer authorised
+
+Due  to  the  very  close  pharmacological  relationship  of  eslicarbazepine  acetate  with  oxcarbazepine (following oral administration of Exalief and oxcarbazepine, respectively, the same active moieties, i.e.S-licarbazepine,  R-licarbazepine  and  oxcarbazepine,  are  found  in  plasma,  though  in  somewhat different proportions), it is highly probable, that adverse events, which occur after administration of oxcarbazepine may also occur after administration of Exalief.
+
+In general, the profile of at least possibly related TEAEs which occurred during the integrated Phase III studies and the double-blind phase II study No. 201 appears similar to that of oxcarbazepine and the apparent frequencies do not raise any serious concern.
+
+<div style=\"page-break-after: always\"></div>
+
+In the placebo controlled studies with Exalief in the target indication, some possibly related TEAEs (e.g. headache, diplopia, nausea and vomiting) appear to occur less frequently compared to the known frequencies  from  oxcarbazepine.  However,  conclusive  results  could  only  be  provided  from  active comparator studies.
+
+In part I of the phase III studies, the overall incidence of TEAEs increased with increasing doses of Exalief (46.4% placebo, 60.7% 400 mg Exalief, 62.7% 800 mg Exalief and 67.5% 1200 mg Exalief), the  dose-dependent  increase  was  also  seen  for  possibly  related  TEAEs  and  TEAEs  leading  to discontinuation of study medication.
+
+The increase in TEAEs was mainly due to a small number of specific events in the Exalief 800 and 1200 mg  groups, namely diplopia, nausea, abnormal coordination, dizziness, headache, and somnolence. In addition to vertigo, blurred vision, vomiting, and fatigue, these were the same events that led to an increased incidence of subjects discontinuing in the Exalief groups.
+
+Only very few patients ≥ 65 years have been exposed to Exalief during the phase III studies (9 patients ≥ 65 received Exalief during double blind period of phase III studies). No patient ≥ 65 years received Exalief in the phase II study relevant for the indication (No. 201).
+
+There  was  a  somewhat  higher  incidence  of  SAEs  in  the  Exalief  groups  (3.7%)  compared  to  the placebo group (1.4%), but the proportion of subjects was similar in each of the Exalief groups. The only SOCs in which more than 2 subjects per group reported SAEs were nervous system disorders (1, 0.3%  placebo;  13,  1.7%  Total  Exalief)  and  gastrointestinal  disorders  (0  placebo;  7,  0.9%  Total Exalief). During the clinical development program, 8 death cases occurred in patients treated with Exalief. From the information provided, a causal relationship with Exalief treatment appears unlikely. It can not be ruled out that an increase in seizure frequency caused by Exalief in individual patients might  have  contributed  to  individual  death  cases.  However,  anticonvulsants  are  known  to  increase seizure frequency in individual patients and Exalief appears not to lead to a relevant increase in seizure frequency. One Exalief patient died of sudden unobserved death and severe coronary atherosclerosis, in which case a contributory role of Exalief by increase in PR interval at pre-existing atrioventricular block can not be completely ruled out. Evaluation of ECG recordings performed during clinical trials showed a mean increase in PR interval in Exalief treated patients compared to baseline which was not strictly dose dependent but highest in the 1200 mg dose group with a mean increase in PR interval of 5.5 ±30.6 ms (compared to a slight decrease in the placebo group of -0.8 ± 20.6 ms). The results are in accordance with the finding of the thorough QT study. Thus, administration of Exalief is absolutely contraindicated in patients with 2nd and 3rd degree atrioventricular block and caution is advised in patients with medical conditions or co-medication known to be associated with PR prolongation. However, during the integrated phase III studies and study 201 atrioventricular block (first degree) was  registered  as  TEAE  only  once  after  administration  of  placebo  but  not  after  administration  of Exalief. There are no concerns with respect to QT prolongation or QRS-duration. From  the  data  presented  there  is  no  clear  sign  of  a  potential  of  Exalief  for  cardiovascular  or cerebrovascular  ischaemic  events.  However,  as  patient  numbers  are  too  low  to  draw  definite conclusions  on  these  infrequent  events,  TEAEs  with  possible  cardiovascular  or  cerebrovascular ischaemic origin have been included in the RMP. Medicinal product no longer authorised
+
+There is a trend towards a higher frequency of all TEAEs and possibly related TEAEs for this age group; however, the number of elderly patients is too small to draw meaningful conclusions. On the other  hand,  the  characteristics  of  Exalief  can  be  predicted  to  a  large  extent  based  on  similarity  of Exalief  with  oxcarbamazepine/carbamazepine.  To  gain  more  information,  an  open-label,  6  month study in approximately 100 patients ≥ 65 years will be performed, respective results will be provided as a follow-up measure.
+
+<div style=\"page-break-after: always\"></div>
+
+As clinical data in patients with mild to moderate hepatic impairment is limited and no pharmacokinetic as well as no clinical data are available in patients with severe hepatic impairment, Exalief  should  be  used  with  caution  in  patients  mild  to  moderate  hepatic  impairment  and  is  not recommended in patients with severe hepatic impairment.
+
+Due to the increased extent of exposure to Exalief observed in subjects with renal impairment, dose adjustments are required in patients with CLCR 30-60 ml/min and is not recommended in patients with severe and end-stage renal impairment (CLCR &lt;30 ml/min) due to insufficient data.
+
+Hyponatriaemia (&lt;125 mmol/L) occurred uncommonly during the integrated phase III studies.
+
+The  frequency  of  rash  appears  to  be  common,  which  is  in  accordance  with  the  incidence  of  rash known from oxcarbazepine. No definite conclusion concerning the risk of serious immune and skin disorders can be drawn and these events will be further followed in the RMP. Increase in INR and aPTT have been taken into account in the RMP. 2.5. Pharmacovigilance Detailed description of the Pharmacovigilance system As the applicant had informed the Rapporteurs that a new version of the DDPS was expected end of 2008 (in fulfilment of a commitment made during the validation phase), the Rapporteurs requested the Applicant  to  include  that  information  on  the  new  version.  This  new  version  was  submitted  by  the Applicant in December 2008 and is assessed as follows: The  applicant  has  provided  documents  that  set  out  a  detailed description of the  system  of pharmacovigilance (Version 3.0 dated 12 December 2008). A statement signed by the applicant and the qualified person for pharmacovigilance, indicating that the applicant has the services of a qualified person responsible for pharmacovigilance and the necessary means for the notification of any adverse reaction occurring either in the Community or in a third country has been provided. The CHMP considered that the Pharmacovigilance system as described by the applicant fulfils the legislative requirements. Risk Management Plan The MAA submitted a risk management plan. Table Summary of the risk management plan: Medicinal product no longer authorised
+
+| Safety concern   | Proposed pharmacovigilance activities                                                                                                                        | Proposed risk minimisation activities                                                                                                                                                                                                                                                                                                                                                                                                       |
+|------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Hyponatraemia    | Routine pharmacovigilance activities. Systematically collected and analysed in ongoing clinical studies. Information will be reported and evaluated in PSURs | Listed in the SPC (section 4.8) Warning in Section 4.4 of the SPC 'Hyponatraemia has been reported as an adverse reaction in less than 1% of patients treated with Exalief. Hyponatraemia is asymptomatic in most cases, however, it may be accompanied by clinical symptoms like worsening of seizures, confusion, decreased consciousness. Frequency of hyponatraemia increased with increasing eslicarbazepine acetate dose. In patients |
+
+<div style=\"page-break-after: always\"></div>
+
+|                             |                                                                                                                                                                                                                                                           | with pre-existing renal disease leading to hyponatraemia, or in patients concomitantly treated with medicinal products which may themselves lead to hyponatraemia (e.g. diuretics, desmopressin), serum sodium levels should be examined before and during treatment with eslicarbazepine acetate. Furthermore, serum sodium levels should be determined if clinical signs of hyponatraemia occur. Apart from this, sodium levels should be determined during routine laboratory examination. If clinically relevant hyponatraemia develops, Exalief should be discontinued'                                                                                                            |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Cutaneous adverse reactions | Routine pharmacovigilance activities. Systematically collected and analysed in ongoing as well as future clinical studies. Systematic collection of detailed information regarding cutaneous adverse reactions through a specific questionnaire (Annex 7) | Listed in the SPC (section 4.3 and 4.8) It includes information to stop therapy in case of signs or symptoms of hypersensitivity (section 4.4). Warning in Section 4.4 of the SPC 'Rash developed as an adverse reaction in 1.1% of total population treated with Exalief in placebo-controlled add-on studies in epileptic patients. If signs or symptoms of hypersensitivity develop, longer authorised                                                                                                                                                                                                                                                                               |
+| Cutaneous adverse reactions | Systematic check of return of the Exalief must be discontinued.'                                                                                                                                                                                          | Systematic check of return of the Exalief must be discontinued.'                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Stevens Johnson             | questionnaire Information will be reported and evaluated in PSURs The relevance of HLA data to the prevention of the Stevens Johnson syndrome will be discussed in PSURS for each Stevens Johnson/TEN case Medicinal product no                           | Warning in Section 4.4 of the SPC 'No cases of serious cutaneous reactions have been reported with eslicarbazepine acetate. Presence of HLA-B*1502 allele in individuals of Han Chinese and Thai origin has been shown to be strongly associated with the risk of developing Stevens-Johnson syndrome (SJS) when treated with carbamazepine. Therefore, whenever possible, subjects of Han Chinese and Thai origin should be screened for this allele before starting treatment with carbamazepine or chemically-related compounds. The presence of HLA-B*1502 allele in other ethnicities is negligible. The allele HLA- B*1502 is not associated to SJS in the Caucasian population.' |
+| Thyroid function changes    | Routine pharmacovigilance activities. Systematically collected and analysed in ongoing clinical studies. Information will be reported and evaluated in PSURs                                                                                              | No particular risk minimization activity is considered necessary. Hypothyroidism reported as an ADR was uncommon (frequency ≥ 1/1000 to <1/100).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+| INR and aPTT increase                            | Systematically collected and analysed in ongoing clinical studies. Regular reporting in PSURs.                                                                                                                                                                                                                                                               | No particular risk minimization activity is considered necessary No detailed action plan for specific safety concerns is deemed necessary.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Cardiovascular/ce rebrovascular ischaemia        | Routine pharmacovigilance activities. Systematically collected and analysed in ongoing as well as future clinical studies. Systematic collection of data of cardiovascular/cerebrovascular serious adverse reactions through a specific questionnaire (annexed in the RMP). Systematic check of return of the questionnaire Information will be reported and | No particular risk minimization activity is considered necessary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Potential for suicidality as anti-epileptic drug | evaluated in PSURs. Routine pharmacovigilance activities. Systematically collected and analysed in ongoing clinical studies in adults (Phase III studies) through MADRS Information will be reported and evaluated in PSURs product no                                                                                                                       | Warning in Section 4.4 of the SPC «Suicidal ideation and behaviour have been reported in patients treated with anti- epileptic active substances in several indications. A meta-analysis of randomised placebo controlled trials of anti-epileptic medicinal products has also shown a small increased risk of suicidal ideation and behaviour. The mechanism of this risk is not known and the available data do not exclude the possibility of an increased risk for Exalief. Therefore patients should be monitored for signs of suicidal ideation and behaviours and appropriate treatment should be considered. Patients (and caregivers of patients) should be advised to seek medical advice should signs of suicidal ideation or behaviour emerge.» longer authorised |
+| Exposure during pregnancy Medicinal              | Systematic collect registry of pregnancy reports in routine pharmacovigilance. Establish a Pregnancy Registry in order to identify and characterise safety concerns. A protocol of the registry will be submitted by July 2009                                                                                                                               | Specific information is included in section 4.6 of the SPC that caution should be exercised when prescribing Exalief to pregnant or lactating women. Risk related to epilepsy and antiepileptic medicinal products in general It has been shown that in the offspring of women with epilepsy, the prevalence of malformations is two to three times greater than the rate of approximately3% in the general population. Most frequently reported are cleft lip, cardiovascular malformations and neutral tube defects. Multiple antiepileptic medicinal product                                                                                                                                                                                                               |
+
+<div style=\"page-break-after: always\"></div>
+
+therapy may be associated with a higher risk of congenital malformations than monotherapy, therefore it is important that monotherapy is practised whenever possible. Specialist advice should be given to women who are likely to become pregnant or who are of child-bearing potential. The need for antiepileptic therapy should be reviewed when a woman is planning to become pregnant. No sudden discontinuation of antiepileptic therapy should be undertaken as this may lead to breakthrough seizures which could have serious consequences for both, mother and child.
+
+Bleeding disorders in the newborn caused by antiepileptic medicinal products have been reported. As a precaution, vitamin K1 should be administered as a preventive measure in the last few weeks of pregnancy and to the newborn.
+
+Risk related to Exalief There are no data from the use of Exalief in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3). If women receiving Exalief become pregnant or plan to become pregnant, the use of Exalief should be carefully re-evaluated. Minimum effective doses should be given, and monotherapy whenever possible should be preferred at least during the first three months of pregnancy. Patients should be counselled regarding the possibility of an increased risk of malformations and given the opportunity to antenatal screening. Monitoring and prevention Antiepileptic medicinal products may contribute to folic acid deficiency, a possible contributory cause of foetal abnormality. Folic acid supplementation is recommended before and during pregnancy. As the efficacy of this supplementation is not proven, a specific antenatal diagnosis can be offered even for women with a supplementary treatment of folic acid. In the newborn child Medicinal product no longer authorised
+
+Women of childbearing potential/contraception Eslicarbazepine acetate adversely interacts with oral contraceptives.
+
+Therefore, an alternative, effective and
+
+<div style=\"page-break-after: always\"></div>
+
+|                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | safe method of contraception should be used during treatment and up to the end of the current menstrual cycle after treatment has been stopped. It is unknown whether eslicarbazepine acetate is excreted in human breast milk. Animal studies have shown excretion of eslicarbazepine in breast milk. As a risk to the breast-fed child cannot be excluded breast-feeding should be discontinued during treatment with Exalief.   |
+|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Paediatric population                       | Routine pharmacovigilance activities. A double blind, placebo controlled phase III study (Study code BIA- 2093-305) in approximately 250 children aged from 2 to 16 years with refractory partial epilepsy to evaluate efficacy and safety of Exalief in this population is ongoing. A phase II study (Study code BIA-2093-208) to evaluate the effects of Exalief on cognition in comparison with placebo as adjunctive therapy in approximately 90 children aged 6 to 16 years old with refractory partial-onset seizures is being implemented. no                               | A warning is included in section 4.2 of the SPC that Exalief is not recommended for use in children until further data become available. 'Paediatric population Exalief is not recommended for use in children below 18 years due to a lack of data on safety and efficacy.' longer authorised                                                                                                                                     |
+| Elderly population                          | Routine pharmacovigilance activities. An open-label study (Study Code BIA-2093-401) evaluating Exalief as add-on therapy in approximately 100 subjects ≥ 65 years is planned to be implemented in 2009. The basic study design will consist of an 8-week baseline period followed by a 6-month treatment period in which Exalief will be titrated in the dose range of 400-1200 mg according to clinical response. To be admitted in the study subjects should have at least 2 seizures per month despite treatment with 1 or 2 AEDs given in therapeutic doses. Medicinal product | A warning is included in section 4.2 of the SPC that Exalief should be used with caution in elderly subjects. Elderly (over 65 years of age) Caution should be exercised in the treatment of elderly patients as there is limited safety information on the use of Exalief in these patients.                                                                                                                                      |
+| Missing information                         | Routine pharmacovigilance activities.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Specific information is included in section 4.5 of the SPC                                                                                                                                                                                                                                                                                                                                                                         |
+| Interactions inducing properties of Exalief | The following clinical trials are planned for 2009: BIA-2093-129: Pharmacokinetic interaction study between Exalief                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 'Exalief is extensively converted to eslicarbazepine, which is mainly eliminated by glucuronidation. In vitro eslicarbazepine is a weak inducer of CYP3A4 and UDP-glucuronyl                                                                                                                                                                                                                                                       |
+
+<div style=\"page-break-after: always\"></div>
+
+| on: - CYP 3A4 - Carbamazepine   | and carbamazepine in healthy subjects BIA-2093-124 : Effect of repeated administration of Exalief on the pharmacokinetics of simvastatin in healthy subjects   | transferases. Therefore, in vivo eslicarbazepine may have an inducing effect on the metabolism of medicinal products which are mainly eliminated by metabolism through CYP3A4 or conjugation through the UDP-glucuronyl transferases. When initiating or discontinuing treatment with Exalief or changing the dose, it may take 2 to 3 weeks to reach the new level of enzyme activity. This time delay must be taken into account when Exalief is being used just prior to or in combination with other medicines that require dose adjustment when co-administered with Exalief. Eslicarbazepine has inhibiting properties with respect to CYP2C19. Thus, interactions can arise when co- administering high doses of Exalief with medicinal products that are mainly metabolised by CYP2C19. authorised   |
+|---------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Efficacy
+
+In  three  pivotal  efficacy  studies  with  parallel  group  design,  Exalief  in  doses  of  400  mg/day,  800 mg/day or 1200 mg/day was added to 1 to 3 concomitant antiepileptic drugs.
+
+The  CHMP,  having  considered  the  data  submitted  in  the  application,  is  of  the  opinion  that  no additional risk minimisation activities are required beyond those included in the product information. 2.6. Overall conclusions, risk/benefit assessment and recommendation Quality Information  on  development,  manufacture  and  control  of  the  drug  substance  and  drug  product  has been  presented  in  a  satisfactory  manner.  The  results  of  tests  carried  out  indicate  satisfactory consistency and uniformity of important product quality characteristics, and these in turn lead to the conclusion that the product should have a satisfactory and uniform performance in the clinic. Non-clinical pharmacology and toxicology Information on the non-clinical pharmacology, pharmacokinetics and toxicology has been presented in a satisfactory manner. No unexpected or unduly worrying findings have been evidenced. The Applicant has committed to perform post-approval studies to complete the environmental risk assessment, including a water sediment study. Medicinal product no longer authorised
+
+With regard to  the  primary  efficacy  variable  of  the  three  pivotal  studies  (i.e.  the  seizure  frequency during  the  maintenance  period  standardised  to  4  weeks)  as  well  as  to  the  50%  responder  rate  (the relative change in standardised seizure frequency ≥ 50% in comparison to baseline period.), efficacy of the 800 and 1200 mg daily dose of Exalief could be shown. The respective results for the standardised seizure frequency for the 800 mg and 1200 mg dose were statistically significant superior to placebo in the separate analyses of all three single studies as well as in the phase III integrated analysis.
+
+<div style=\"page-break-after: always\"></div>
+
+| Standardised seizure frequency - Baseline Period   | Standardised seizure frequency - Baseline Period   | Standardised seizure frequency - Baseline Period   | Phase III integrated studies in the ITT population: Maintenance Period   | Phase III integrated studies in the ITT population: Maintenance Period   | Phase III integrated studies in the ITT population: Maintenance Period   | Phase III integrated studies in the ITT population: Maintenance Period   |
+|----------------------------------------------------|----------------------------------------------------|----------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
+| Treatment                                          | N                                                  | Mean±SD                                            | Median                                                                   | N                                                                        | Mean±SD                                                                  | Median                                                                   |
+| Placebo                                            | 286                                                | 12.9±16.82                                         | 7.0                                                                      | 279                                                                      | 11.7±17.85                                                               | 6.4                                                                      |
+| Exalief 400 mg 195                                 | Exalief 400 mg 195                                 | 13.0±15.08                                         | 8.0                                                                      | 192                                                                      | 10.6±13.11                                                               | 5.9                                                                      |
+| Exalief 800 mg 282                                 | Exalief 800 mg 282                                 | 13.4±15.31                                         | 7.7                                                                      | 262                                                                      | 9.8±14.79                                                                | 5.0                                                                      |
+| Exalief 1200 mg                                    | Exalief 1200 mg                                    | 272                                                | 13.3±15.26                                                               | 8.0                                                                      | 253                                                                      | 9.0±13.10                                                                |
+
+## Responder analysis Phase III integrated studies in the ITT population:
+
+N
+
+279
+
+192
+
+Treatment
+
+Placebo
+
+Exalief 400 mg
+
+Exalief 800 mg
+
+262
+
+Exalief 1200 mg 253
+
+Number (%)
+
+of responders
+
+60 (21.5)
+
+44 (22.9)
+
+95 (36.3)
+
+110 (43.5)
+
+Odds ratio
+
+Estimate
+
+-
+
+1.25
+
+2.08
+
+2.81
+
+95% CI
+
+Relative Risk
+
+Estimate
+
+95% CI
+
+-
+
+-
+
+(0.77, 2.04)  1.19
+
+(1.42, 3.04)  1.69
+
+(1.92, 4.10)  2.02
+
+-
+
+(0.81, 1.76)
+
+(1.28, 2.22)
+
+(1.55, 2.63)
+
+In general, the profile of at least possibly related TEAEs which occurred during the integrated Phase III studies and the double-blind phase II study No. 201 appears similar to that of oxcarbazepine and the apparent frequencies do not raise any serious concern.
+
+The effect of the 400 mg dose did not reach statistical significance in almost all parameters examined; therefore, 800 mg is applied for as the minimum therapeutic dose. A dose dependent increase of the therapeutic effect of Exalief was shown with relatively high consistency. Efficacy  analyses  concerning  simple  partial  and  complex  partial  seizures  demonstrated  a  relevant effect of the 800 mg and 1200 mg dose on both seizure types and efficacy of Exalief on secondary generalized seizures was sufficiently justified by the applicant. Taken the results of the 3 open-label extension-studies altogether, it appears the therapeutic effect of Exalief is maintained over time. Safety From the safety database all the adverse reactions reported in clinical trials have been included in the Summary of Product Characteristics. Due  to  the  very  close  pharmacological  relationship  of  eslicarbazepine  acetate  with  oxcarbazepine (following oral administration of Exalief and oxcarbazepine, respectively, the same active moieties, i.e.  eslicarbazepine,  R-licarbazepine  and  oxcarbazepine,  are  found  in  plasma,  though  in  somewhat different proportions), it is highly probable, that adverse events, which occur after administration of oxcarbazepine may also occur after administration of Exalief. Medicinal product no longer authorised
+
+In the placebo controlled studies with Exalief in the target indication, some possibly related TEAEs (e.g. headache, diplopia, nausea and vomiting) appear to occur less frequently compared to the known frequencies  from  oxcarbazepine.  However,  conclusive  results  could  only  be  confirmed  from  active comparator studies.
+
+Evaluation of ECG recordings performed during clinical trials showed a mean increase in PR interval in Exalief treated patients compared to baseline which was not strictly dose dependent but highest in the 1200 mg dose group with a mean increase in PR interval of 5.5 ±30.6 ms (compared to a slight decrease in the placebo group of -0.8 ± 20.6 ms). The results are in accordance with the finding of the
+
+-
+
+<div style=\"page-break-after: always\"></div>
+
+thorough QT study. Thus, administration of Exalief is absolutely contraindicated in patients with 2nd and 3rd degree atrioventricular block and caution is advised in patients with medical conditions or comedication known to be associated with PR prolongation.
+
+There are no concerns with respect to QT prolongation or QRS-duration.
+
+Only very few patients ≥ 65 years have been exposed to Exalief during the phase III studies. To gain more information, an  open-label,  6  months study  in  approximately  100 patients ≥ 65  years  will  be performed, respective results will be provided as a follow-up measure.
+
+As clinical data in patients with mild to moderate hepatic impairment is limited and no pharmacokinetic as well as no clinical data are available in patients with severe hepatic impairment, Exalief  should  be  used  with  caution  in  patients  mild  to  moderate  hepatic  impairment  and  is  not recommended in patients with severe hepatic impairment.
+
+The benefits with Exalief are the fact that, added to concomitant antiepileptic drugs it decreases the standardised frequency of seizures per month (median) from 7.7 to 5.0 on Exalief 800 mg and from 8.0  to  4.6  on  Exalief  1200mg,  versus  a  decrease  from  7.0  to  6.4  seizures  observed  in  the  placebo group.
+
+Dose adjustments are required in patients with CLCR 30-60 ml/min and is not recommended in patients with severe and end-stage renal impairment (CLCR &lt;30 ml/min) due to insufficient data. Hyponatriaemia (&lt;125 mmol/L) occurred uncommonly during the integrated phase III studies. The  frequency  of  rash  appears  to  be  common,  which  is  in  accordance  with  the  incidence  of  rash known  from  oxcarbazepine.  No  definite  conclusion  concerning  the  possible  occurrence  of  serious immune and skin disorders (including Steven-Johnson syndrome) can be drawn and these events will be further followed in the RMP. Increase in INR and aPTT have been included in the RMP. Having considered the safety concerns in the risk management plan, the CHMP considered that the proposed activities described in section 3.5 adequately addressed these. · User consultation The applicant has submitted results from user testing of the package leaflet, which was performed in English.  During  the  testing  requested  information  to  all  questions  was  located  by  at  least  80 %  of participants; all questions were correctly answered by 100 % of participants, who were able to locate the  requested  information.  Overall,  the  user  test  is  found  acceptable.  The  results  demonstrated  a sufficient percentage of identification and comprehension of product related information. Therefore, the package leaflet was considered to be in line with the current readability requirements. Risk-benefit assessment With regard to the primary efficacy variable of the three pivotal studies (i.e. seizure frequency during the maintenance period standardised to 4 weeks) and the 50% responder rate, efficacy of the 800 mg and 1200 mg dose of Exalief could be demonstrated. Medicinal product no longer authorised
+
+The percentage of responders (patients with a relative change in standardised seizure frequency ≥ 50% in comparison to baseline period) is also improved by Exalief: 36.3% on Exalief 800mg and 43.5% on Exalief 1200mg, versus only 21.5% observed in the placebo group.
+
+<div style=\"page-break-after: always\"></div>
+
+A  dose  dependent  increase  of  the  therapeutic  effect  of  Exalief  was  shown  with  relatively  high consistency.
+
+In general, the profile of at least possibly related TEAEs which occurred during the integrated Phase III  studies  and  the  double-blind  phase  II  study  No.  201  appears  similar  to  that  of  oxcarbazepine. TEAEs  (especially  possibly  related  TEAEs  and  TEAEs  leading  to  withdrawal)  increased  with increasing doses of Exalief.
+
+800 mg of Exalief which is regarded the primary target dose, therefore offers the best benefit to risk ratio  of  the  doses  tested.  Dependent  from  effectiveness  and  tolerability  the  dose  may  further  be increased to 1200 mg.
+
+<!-- image -->
+
+The  benefit/risk  balance  of  Exalief  (eslicarbazepine  acetate)  as  adjunctive  therapy  in  adults  with partial-onset seizures with or without secondary generalisation, is considered to be positive. A risk management plan was submitted. The CHMP, having considered the data submitted, was of the opinion that:  pharmacovigilance activities in addition to the use of routine pharmacovigilance were needed to investigate further some of the safety concerns  no additional risk minimisation activities were required beyond those included in the product information. Recommendation Based  on  the  CHMP  review  of  data  on  quality,  safety  and  efficacy,  the  CHMP  considered  by consensus that the risk-benefit balance of Exalief in the adjunctive therapy in adults with partial-onset seizures  with  or  without  secondary  generalisation  was  favourable  and  therefore  recommended  the granting of the marketing authorisation. Medicinal product no longer authorised

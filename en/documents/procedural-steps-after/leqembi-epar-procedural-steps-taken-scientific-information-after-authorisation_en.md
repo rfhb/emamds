@@ -1,0 +1,53 @@
+---
+document_datetime: 2025-10-02 11:41:55
+document_pages: 3
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/leqembi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+document_name: leqembi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+version: success
+processing_time: 2.229286
+conversion_datetime: 2025-12-15 21:14:43.723269
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+---
+## LEQEMBI
+
+Procedural steps taken and scientific information after the authorisation*
+
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
+
+| Application number   | Scope                                     | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|-------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Variation type IB /  | B.I.d.1.a Re-test period/storage period - | 23/09/2025                          | N/A                                         |                                  |           |
+
+1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
+
+2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
+
+3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+| EMA/VR/0000294584                     | B.I.d.1.a.4 Extension or introduction of a re- test period/storage period supported by real time data - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |            |            |                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Variation type II / EMA/VR/0000290573 | C.I HUMAN AND VETERINARY MEDICINAL PRODUCTS - C.I.4 Change(s) in the Summary of Product Characteristics, Labelling or Package Leaflet due to new quality, preclinical, clinical or pharmacovigilance data - Accepted Update of section 4.2 of the SmPC in order to change the section 'Monitoring for Amyloid Related Imaging Abnormalities (ARIA)' to add an MRI prior to the 3rd infusion based on data within the initial MAA and postmarketing reporting. The Package Leaflet has been updated accordingly. In addition, the MAH took the opportunity to implement editorial changes to the PI, to update the list of local representatives in the Package Leaflet and to include 'histidine' in the list of excipients. | 18/09/2025 | 30/09/2025 | SmPC, Labelling and PL | SmPC new text 4.2 Posology and method of administration […] Monitoring for Amyloid Related Imaging Abnormalities (ARIA) [...] Obtain a recent (within 6 months) baseline brain MRI prior to initiating treatment with lecanemab to evaluate for pre-existing ARIA. Obtain an MRI prior to the 3rd, 5th, 7th and 14th infusions. In general, the MRI should be performed within approximately one week before the scheduled infusion of lecanemab and reviewed prior to proceeding with the infusion. If a patient experiences symptoms suggestive of ARIA at any time during treatment, clinical evaluation should be performed including an MRI (see section 4.4). For more information, please refer to the Summary of Product Characteristics. |
+| Variation type IB / EMA/VR/0000279470 | B.II.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - B.II.b.3.z Other changes - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 09/09/2025 | N/A        |                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+
+<div style=\"page-break-after: always\"></div>
+
+| Variation type IB / EMA/VR/0000280864   | B.II.b.5 Change to in-process tests or limits applied during the manufacture of the finished product - B.II.b.5.b Addition of a new test(s) and limits - Accepted                                                            | 04/08/2025   | N/A        |      |                   |
+|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------|------|-------------------|
+| Variation type IA / EMA/VR/0000286184   | B.I.b.2 Change in test procedure for active substance or starting material/reagent/intermediate used in the manufacturing process of the active substance - B.I.b.2.a Minor changes to an approved test procedure - Accepted | 14/07/2025   | N/A        |      |                   |
+| Variation type IB / EMA/VR/0000278695   | B.II.b.2 Change to importer, batch release arrangements and quality control testing of the finished product - B.II.b.2.z Other changes - Accepted                                                                            | 14/07/2025   | N/A        |      |                   |
+| Variation type IB /                     | B.II.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - B.II.b.3.a Minor change in the manufacturing process - Accepted            | 14/07/2025   | N/A        |      | EMA/VR/0000284410 |
+| Variation type IB / EMA/VR/0000269267   | B.II.f.1.b Extension of the shelf life of the finished product - B.II.f.1.b.5 Extension of the shelf-life of a biological/ immunological medicinal product in accordance with an approved stability protocol - Accepted      | 02/06/2025   | 30/09/2025 | SmPC |                   |

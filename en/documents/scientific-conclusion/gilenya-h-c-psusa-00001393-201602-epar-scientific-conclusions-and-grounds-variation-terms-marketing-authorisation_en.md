@@ -1,0 +1,75 @@
+---
+document_datetime: 2023-09-21 18:48:22
+document_pages: 2
+document_pathfilename: www.ema.europa.eu/en/documents/scientific-conclusion/gilenya-h-c-psusa-00001393-201602-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf
+document_name: gilenya-h-c-psusa-00001393-201602-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf
+version: success
+processing_time: 1.1578228
+conversion_datetime: 2025-12-15 20:38:48.931486
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+---
+13 October 2016 EMA/879483/2016
+
+Committee for Medicinal Products for Human Use (CHMP)
+
+## Scientific conclusions and grounds for the variation to the terms of  the marketing authorisation(s)
+
+Active substance(s): fingolimod
+
+Procedure No. EMEA/H/C/PSUSA/00001393/201602
+
+Period covered by the PSUR: 01 March 2015 to 28 February 2016
+
+●
+
+30 Churchill Place
+
+Telephone
+
+Canary Wharf
+
++44 (0)20 3660 6000
+
+●
+
+London E14 5EU
+
+Facsimile
+
+●
+
+United Kingdom
+
++44 (0)20 3660 5555
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for fingolimod, the scientific conclusions of CHMP are as follows:
+
+305 cases of thrombocytopenia (180 serious and 125 non serious) were reported cumulatively and 80  cases (41  serious  and  39  non  serious)  during  the  reporting  interval.  Among  the  180  serious cases  of  thrombocytopenia cumulatively the MAH identified 31 Grade 4 among the cases where laboratory value is reported. 24 cases of positive dechallenge were reported cumulatively including 5 new cases in this PSUR  period. 4 cases of rechallenge were reported cumulatively.
+
+3 cases of Kaposi's sarcoma were reported cumulatively 16 months, 15 months and 3.5 years after the  start  of  fingolimod.  Another  case  was  also  reported  following  the  literature  assessment  after the  Data Lock Point of this PSUR on fingolimod treatment. All the 4 cases were biopsy confirmed and occurred &gt; 1  year (16 months, 15 months, 3.5 years and 4 years) after the start of fingolimod, with no history of  immunosuppressive agent, HIV negative serology. In those 4 cases there are no other aetiology reported to  explain  Kaposi's  sarcoma  except  fingolimod  exposure.  Even  if  the time  to  onset  is  short,  the chronology is compatible with a relationship between Kaposi's sarcoma and fingolimod treatment. It is important to consider that healthcare professionals should have this information to correctly monitor their  patient  on  fingolimod  therapy.  4  cases  of  Kaposi's sarcoma  represent  already  a  signal  and  Kaposi's  sarcoma should be added to the SmPC.
+
+Therefore, in view of the data presented in the reviewed PSUR, the PRAC considered that changes to the  product information of medicinal products containing fingolimod were warranted.
+
+The CHMP agrees with the scientific conclusions made by the PRAC.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for fingolimod the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing fingolimod is unchanged subject to the proposed changes  to the product information
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

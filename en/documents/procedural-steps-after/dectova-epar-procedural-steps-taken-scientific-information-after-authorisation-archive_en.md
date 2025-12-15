@@ -1,0 +1,67 @@
+---
+document_datetime: 2024-12-11 09:38:38
+document_pages: 4
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/dectova-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
+document_name: dectova-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
+version: success
+processing_time: 3.0603768
+conversion_datetime: 2025-12-15 22:27:38.867518
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+---
+## DECTOVA
+
+Procedural steps taken and scientific information after the authorisation
+
+| Application number   | Scope                                                                                                                                         | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                           |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------------------------------|
+| II/0020              | C.I.13 - Other variations not specifically covered elsewhere in this Annex which involve the submission of studies to the competent authority | 28/11/2024                          | n/a                                         |                                  |                                   |
+| PSUSA/10763 /202401  | Periodic Safety Update EU Single assessment - zanamivir (centrally authorised products only)                                                  | 03/10/2024                          | n/a                                         |                                  | PRAC Recommendation - maintenance |
+
+1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
+
+2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
+
+3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+| S/0018              | Annual re-assessment.                                                                            | 25/07/2024   | n/a        |                       | The CHMP, having reviewed the evidence of compliance with the specific obligations and the impact of the data submitted by the MAH on the benefit/risk profile of the                                                                                                 |
+|---------------------|--------------------------------------------------------------------------------------------------|--------------|------------|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| R/0017              | Renewal of the marketing authorisation.                                                          | 09/11/2023   | 05/01/2024 | SmPC, Annex II and PL | Based on the review of data on quality, safety and efficacy, the CHMP considered that the benefit-risk balance of DECTOVA in the approved indication remains favourable and therefore recommended the renewal of the marketing authorisation with unlimited validity. |
+| S/0016              | Annual re-assessment.                                                                            | 20/07/2023   | n/a        |                       |                                                                                                                                                                                                                                                                       |
+| IG/1576             | A.7 - Administrative change - Deletion of manufacturing sites                                    | 02/02/2023   | n/a        |                       |                                                                                                                                                                                                                                                                       |
+| S/0013              | Annual re-assessment.                                                                            | 21/07/2022   | n/a        |                       |                                                                                                                                                                                                                                                                       |
+| IB/0014             | B.II.d.2.z - Change in test procedure for the finished product - Other variation                 | 18/07/2022   | n/a        |                       |                                                                                                                                                                                                                                                                       |
+| N/0012              | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification) | 21/09/2021   | 18/03/2022 | PL                    |                                                                                                                                                                                                                                                                       |
+| S/0011              | Annual re-assessment.                                                                            | 16/09/2021   | n/a        |                       |                                                                                                                                                                                                                                                                       |
+| PSUSA/10763 /202101 | Periodic Safety Update EU Single assessment - zanamivir (centrally authorised products only)     | 02/09/2021   | n/a        |                       | PRAC Recommendation - maintenance                                                                                                                                                                                                                                     |
+| PSUSA/10763 /202007 | Periodic Safety Update EU Single assessment - zanamivir (centrally authorised products only)     | 11/03/2021   | n/a        |                       | PRAC Recommendation - maintenance                                                                                                                                                                                                                                     |
+
+<div style=\"page-break-after: always\"></div>
+
+| IA/0009             | A.7 - Administrative change - Deletion of manufacturing sites                                                                                                                                                                          | 03/03/2021   | 18/03/2022   | Annex II and PL        |                                                                                                                                                                                                                                                                  |
+|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| N/0008              | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification)                                                                                                                                       | 08/01/2021   | 18/03/2022   | PL                     |                                                                                                                                                                                                                                                                  |
+| S/0006              | 1st annual re-assessment                                                                                                                                                                                                               | 17/09/2020   | n/a          |                        | The CHMP, having reviewed the evidence of compliance with the specific obligations and the impact of the data submitted by the MAH on the benefit/risk profile of the medicinal product, concluded that marketing authorisation of Dectova should be maintained. |
+| PSUSA/10763 /202001 | Periodic Safety Update EU Single assessment - zanamivir (centrally authorised products only)                                                                                                                                           | 03/09/2020   | n/a          |                        | PRAC Recommendation - maintenance                                                                                                                                                                                                                                |
+| PSUSA/10763 /201907 | Periodic Safety Update EU Single assessment - zanamivir (centrally authorised products only)                                                                                                                                           | 13/02/2020   | n/a          |                        | PRAC Recommendation - maintenance                                                                                                                                                                                                                                |
+| IAIN/0003           | A.1 - Administrative change - Change in the name and/or address of the MAH                                                                                                                                                             | 02/10/2019   | 23/07/2020   | SmPC, Labelling and PL |                                                                                                                                                                                                                                                                  |
+| IAIN/0002           | B.II.b.2.c.1 - Change to importer, batch release arrangements and quality control testing of the FP - Replacement or addition of a manufacturer responsible for importation and/or batch release - Not including batch control/testing | 02/10/2019   | n/a          |                        |                                                                                                                                                                                                                                                                  |
+| IAIN/0001/G         | This was an application for a group of variations. B.II.b.2.c.1 - Change to importer, batch release arrangements and quality control testing of the FP -                                                                               | 22/07/2019   | 23/07/2020   | Annex II and PL        |                                                                                                                                                                                                                                                                  |
+
+<div style=\"page-break-after: always\"></div>
+
+| Replacement or addition of a manufacturer responsible for importation and/or batch release - Not including batch control/testing B.II.b.2.c.2 - Change to importer, batch release arrangements and quality control testing of the FP - Including batch control/testing   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

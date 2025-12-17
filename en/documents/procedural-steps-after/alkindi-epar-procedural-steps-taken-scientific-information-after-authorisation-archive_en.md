@@ -1,0 +1,80 @@
+---
+document_datetime: 2025-02-04 16:38:16
+document_pages: 6
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/alkindi-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
+document_name: alkindi-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
+version: success
+processing_time: 4.1145397
+conversion_datetime: 2025-12-17 14:35:34.428932
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+---
+## Alkindi
+
+Procedural steps taken and scientific information after the authorisation
+
+| Application number   | Scope                                                                                                                                        | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| IAIN/0024            | A.1 - Administrative change - Change in the name and/or address of the MAH                                                                   | 14/11/2024                          |                                             | SmPC, Labelling and PL           |           |
+| WS/2740/G            | This was an application for a group of variations following a worksharing procedure according to Article 20 of Commission Regulation (EC) No | 03/10/2024                          | n/a                                         |                                  |           |
+
+1 Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
+
+2 A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
+
+3 SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+|                     | 1234/2008. B.II.b.2.a - Change to importer, batch release arrangements and quality control testing of the FP - Replacement/addition of a site where batch control/testing takes place B.II.b.2.a - Change to importer, batch release arrangements and quality control testing of the FP - Replacement/addition of a site where batch control/testing takes place                                                                    |            |            |             |                                   |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|-------------|-----------------------------------|
+| PSUSA/10674 /202308 | Periodic Safety Update EU Single assessment - hydrocortisone (centrally authorised products for adrenal insufficiency, paediatric use only)                                                                                                                                                                                                                                                                                         | 07/03/2024 | n/a        |             | PRAC Recommendation - maintenance |
+| II/0019             | Update of section 4.2 of the SmPC in order to update posology recommendations in case of incomplete dosing, following the request by PRAC in the AR for procedure PSUSA/00010674/202208; the Package Leaflet is updated accordingly. C.I.3.z - Change(s) in the SPC, Labelling or PL intended to implement the outcome of a procedure concerning PSUR or PASS or the outcome of the assessment done under A 45/46 - Other variation | 14/12/2023 | 25/01/2024 | SmPC and PL |                                   |
+| IA/0022             | B.III.1.a.2 - Submission of a new/updated or deletion of Ph. Eur. Certificate of Suitability to the relevant Ph. Eur. Monograph - Updated certificate from an already approved manufacturer                                                                                                                                                                                                                                         | 24/01/2024 | n/a        |             |                                   |
+
+<div style=\"page-break-after: always\"></div>
+
+| IB/0020             | C.I.11.z - Introduction of, or change(s) to, the obligations and conditions of a marketing authorisation, including the RMP - Other variation                                                                                                                                | 06/11/2023   | n/a        |                        |                                   |
+|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------|------------------------|-----------------------------------|
+| IA/0018/G           | This was an application for a group of variations. B.II.d.2.a - Change in test procedure for the finished product - Minor changes to an approved test procedure B.II.d.2.a - Change in test procedure for the finished product - Minor changes to an approved test procedure | 12/05/2023   | n/a        |                        |                                   |
+| IB/0017             | B.II.b.5.z - Change to in-process tests or limits applied during the manufacture of the finished product - Other variation                                                                                                                                                   | 04/04/2023   | n/a        |                        |                                   |
+| PSUSA/10674 /202208 | Periodic Safety Update EU Single assessment - hydrocortisone (centrally authorised products for adrenal insufficiency, paediatric use only)                                                                                                                                  | 16/03/2023   | n/a        |                        | PRAC Recommendation - maintenance |
+| R/0014              | Renewal of the marketing authorisation.                                                                                                                                                                                                                                      | 15/09/2022   | 09/11/2022 | SmPC, Labelling and PL |                                   |
+| PSUSA/10674 /202108 | Periodic Safety Update EU Single assessment - hydrocortisone (centrally authorised products for adrenal insufficiency, paediatric use only)                                                                                                                                  | 10/03/2022   | n/a        |                        | PRAC Recommendation - maintenance |
+| IAIN/0013/G         | This was an application for a group of variations. B.II.b.1.b - Replacement or addition of a                                                                                                                                                                                 | 07/02/2022   | 09/11/2022 | Annex II and PL        |                                   |
+
+<div style=\"page-break-after: always\"></div>
+
+|                     | site B.II.b.2.c.1 - Change to importer, batch release arrangements and quality control testing of the FP - Replacement or addition of a manufacturer responsible for importation and/or batch release - Not including batch control/testing B.II.b.1.a - Replacement or addition of a manufacturing site for the FP - Secondary packaging site   |            |            |                       |                                   |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|-----------------------|-----------------------------------|
+| IAIN/0011           | C.I.z - Changes (Safety/Efficacy) of Human and Veterinary Medicinal Products - Other variation                                                                                                                                                                                                                                                   | 03/05/2021 | 19/05/2021 | SmPC and PL           |                                   |
+| PSUSA/10674 /202008 | Periodic Safety Update EU Single assessment - hydrocortisone (centrally authorised products for adrenal insufficiency, paediatric use only)                                                                                                                                                                                                      | 11/03/2021 | n/a        |                       | PRAC Recommendation - maintenance |
+| PSUSA/10674 /202002 | Periodic Safety Update EU Single assessment - hydrocortisone (centrally authorised products for adrenal insufficiency, paediatric use only)                                                                                                                                                                                                      | 03/09/2020 | n/a        |                       | PRAC Recommendation - maintenance |
+| PSUSA/10674 /201908 | Periodic Safety Update EU Single assessment - hydrocortisone (centrally authorised products for adrenal insufficiency, paediatric use only)                                                                                                                                                                                                      | 12/03/2020 | n/a        |                       | PRAC Recommendation - maintenance |
+| IB/0007             | C.I.z - Changes (Safety/Efficacy) of Human and Veterinary Medicinal Products - Other variation                                                                                                                                                                                                                                                   | 16/10/2019 | 09/03/2020 | SmPC, Annex II and PL |                                   |
+| PSUSA/10674 /201902 | Periodic Safety Update EU Single assessment - hydrocortisone (centrally authorised products for adrenal insufficiency, paediatric use only)                                                                                                                                                                                                      | 05/09/2019 | n/a        |                       | PRAC Recommendation - maintenance |
+
+<div style=\"page-break-after: always\"></div>
+
+| IAIN/0005/G         | This was an application for a group of variations. A.1 - Administrative change - Change in the name and/or address of the MAH A.7 - Administrative change - Deletion of manufacturing sites A.7 - Administrative change - Deletion of manufacturing sites A.7 - Administrative change - Deletion of manufacturing sites   | 11/03/2019   | 09/03/2020   | SmPC, Annex II, Labelling and PL   |                                   |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|------------------------------------|-----------------------------------|
+| PSUSA/10674 /201808 | Periodic Safety Update EU Single assessment - hydrocortisone (centrally authorised products for adrenal insufficiency, paediatric use only)                                                                                                                                                                               | 14/02/2019   | n/a          |                                    | PRAC Recommendation - maintenance |
+| T/0003              | Transfer of Marketing Authorisation                                                                                                                                                                                                                                                                                       | 06/08/2018   | 06/09/2018   | SmPC, Labelling and PL             |                                   |
+| IB/0002/G           | This was an application for a group of variations. B.II.b.3.z - Change in the manufacturing process of the finished or intermediate product - Other variation B.II.f.1.b.1 - Stability of FP - Extension of the shelf life of the finished product - As packaged for sale (supported by real time data)                   | 29/06/2018   | 06/09/2018   | SmPC                               |                                   |
+| IAIN/0001/G         | This was an application for a group of variations. A.5.b - Administrative change - Change in the name and/or address of a manufacturer/importer of the                                                                                                                                                                    | 03/05/2018   | 06/09/2018   | Annex II and PL                    |                                   |
+
+<div style=\"page-break-after: always\"></div>
+
+| finished product, including quality control sites (excluding manufacturer for batch release) B.II.b.1.a - Replacement or addition of a manufacturing site for the FP - Secondary packaging site B.II.b.1.b - Replacement or addition of a manufacturing site for the FP - Primary packaging site B.II.b.2.c.1 - Change to importer, batch release arrangements and quality control testing of the FP - Replacement or addition of a manufacturer responsible for importation and/or batch release - Not including batch control/testing   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

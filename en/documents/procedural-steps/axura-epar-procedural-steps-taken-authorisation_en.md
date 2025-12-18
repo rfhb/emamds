@@ -1,0 +1,46 @@
+---
+document_datetime: 2023-09-21 16:59:47
+document_pages: 1
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps/axura-epar-procedural-steps-taken-authorisation_en.pdf
+document_name: axura-epar-procedural-steps-taken-authorisation_en.pdf
+version: success
+processing_time: 0.3836789
+conversion_datetime: 2025-12-18 11:35:44.94113
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+---
+## BACKGROUND INFORMATION ON THE PROCEDURE
+
+## 1. Submission of the dossier
+
+The company Merz + Co. GmbH &amp; Co. submitted on 8 September 2000 an application for Marketing Authorisation to the European Agency for the Evaluation of Medicinal Products (EMEA) for Axura, through the centralised procedure. After agreement by the CPMP on 11-12 April 2000, this medicinal product has been referred to Part B of the Annex to Council Regulation No (EEC) 2309/93 of 22 July 1993.  On the 12 February 2002 the EMEA was informed by the MAH that due to restructuring within the company, their name changed from Merz + Co. GmbH &amp; Co to Merz Pharmaceuticals GmbH.
+
+The Rapporteur and Co-Rapporteur appointed by the CPMP were:
+
+Rapporteur: Prof. Fernando de Andres-Trelles Co-Rapporteur:
+
+Prof. Sampaio
+
+## Licensing status:
+
+A new drug application was filed in the following countries: Australia
+
+The product was not licensed in any country at the time of submission of the application.
+
+## 2. Steps taken for the assessment of the product
+
+- The procedure started on 26 September 2000
+- The Rapporteur's first assessment report was circulated to all CPMP Members on 21 December 2000. The Co-Rapporteur's first assessment report was circulated to all CPMP Members on 13 December 2000
+- During the meeting in January 2001 the CPMP agreed on the consolidated list of questions to be sent  to  the  company.  The  final  consolidated  list  of  questions  was  sent  to  the  company  on  25 January 2001.
+- The company submitted the responses to the consolidated list of questions on 10 August 2001
+- The Rapporteur circulated the response assessment report on the company's responses to the list of questions to all CPMP Members on 8 October 2001.
+- During the CPMP meeting on 15-17 January 2002, outstanding issues were addressed by the applicant during a hearing before the CPMP.
+- During  the  meeting  on  19-21  February  2002  the  CPMP,  in  the  light  of  the  overall  data submitted  and  the  scientific  discussion  within  the  Committee,  issued  a  positive  opinion  for granting a Marketing Authorisation to Axura on 21 February 2002.
+- The CPMP opinions were forwarded, in all official languages of the European Union, to the European Commission, which adopted the corresponding Decisions on 17 May 2002.

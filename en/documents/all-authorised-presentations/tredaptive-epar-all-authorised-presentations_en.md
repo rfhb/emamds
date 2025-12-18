@@ -1,0 +1,33 @@
+---
+document_datetime: 2023-09-21 18:21:20
+document_pages: 1
+document_pathfilename: www.ema.europa.eu/en/documents/all-authorised-presentations/tredaptive-epar-all-authorised-presentations_en.pdf
+document_name: tredaptive-epar-all-authorised-presentations_en.pdf
+version: success
+processing_time: 1.466377
+conversion_datetime: 2025-12-19 00:55:31.070106
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+---
+| EU Number       | Invented name   | Strength        | Pharmaceutical Form            | Route of Administration   | Packaging           | Package size               |
+|-----------------|-----------------|-----------------|--------------------------------|---------------------------|---------------------|----------------------------|
+| EU/1/08/459/001 | Tredaptive      | 1000 mg / 20 mg | Modified-release tablet        | Oral use                  | blister (Aclar/PVC) | 14 tablets                 |
+| EU/1/08/459/002 | Tredaptive      | 1000 mg / 20 mg | Modified-release tablet        | Oral use                  | blister (Aclar/PVC) | 28 tablets                 |
+| EU/1/08/459/003 | Tredaptive      | 1000 mg / 20 mg | Modified-release tablet        | Oral use                  | blister (Aclar/PVC) | 56 tablets                 |
+| EU/1/08/459/004 | Tredaptive      | 1000 mg / 20 mg | Modified-release tablet        | Oral use                  | blister (Aclar/PVC) | 84 tablets                 |
+| EU/1/08/459/005 | Tredaptive      | 1000 mg / 20 mg | Modified-release tablet        | Oral use authorised       | blister (Aclar/PVC) | 98 tablets                 |
+| EU/1/08/459/006 | Tredaptive      | 1000 mg / 20 mg | Modified-release tablet        | Oral use                  | blister (Aclar/PVC) | 168 tablets                |
+| EU/1/08/459/007 | Tredaptive      | 1000 mg / 20 mg | Modified-release tablet        | Oral use                  | blister (Aclar/PVC) | 196 tablets                |
+| EU/1/08/459/008 | Tredaptive      | 1000 mg / 20 mg | Modified-release tablet longer | Oral use                  | blister (Aclar/PVC) | 49 x 1 tablets (unit dose) |
+| EU/1/08/459/009 | Tredaptive      | 1000 mg / 20 mg | Modified-release tablet        | Oral use                  | blister (alu/alu)   | 14 tablets                 |
+| EU/1/08/459/010 | Tredaptive      | 1000 mg / 20 mg | Modified-release tablet no     | Oral use                  | blister (alu/alu)   | 28 tablets                 |
+| EU/1/08/459/011 | Tredaptive      | 1000 mg / 20 mg | Modified-release tablet        | Oral use                  | blister (alu/alu)   | 56 tablets                 |
+
+Medicinal product no longer authorised

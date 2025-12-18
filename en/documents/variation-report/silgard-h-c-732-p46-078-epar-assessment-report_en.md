@@ -1,0 +1,259 @@
+---
+document_datetime: 2023-09-21 19:35:41
+document_pages: 19
+document_pathfilename: www.ema.europa.eu/en/documents/variation-report/silgard-h-c-732-p46-078-epar-assessment-report_en.pdf
+document_name: silgard-h-c-732-p46-078-epar-assessment-report_en.pdf
+version: success
+processing_time: 24.5425542
+conversion_datetime: 2025-12-18 23:39:10.349445
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+---
+<!-- image -->
+
+20 November 2014 EMA/128923/2015 Committee for Medicinal Products for Human Use (CHMP) Gardasil/Silgard human papillomavirus vaccine [types 6, 11, 16, 18] (recombinant, adsorbed) CHMP assessment report for paediatric use studies submitted according to Article 46 of the Regulation (EC) No 1901/2006 Assessment report as adopted by the CHMP with all commercially confidential information deleted Medicinal product no longer authorised
+
+●
+
+30 Churchill Place
+
+Canary Wharf
+
+Telephone
+
++44 (0)20 3660 6000
+
+Send a question via our website
+
+●
+
+London E14 5EU
+
+●
+
+United Kingdom
+
+Facsimile
+
++44 (0)20 3660 5555
+
+www.ema.europa.eu/contact
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. Introduction
+
+On September 5, 2014, the MAH submitted a completed paediatric study for Gardasil/Silgard, in accordance with Article 46 of Regulation (EC) No1901/2006, as amended.
+
+<!-- image -->
+
+This was a randomized, double-blind (operating under in-house blinding procedures), controlled with qHPV vaccine, multicenter, multinational, dose-ranging, safety, immunogenicity and efficacy study with a target enrollment of 14,620 subjects. The study was enrolled in 2 parts. Approximately 1240 subjects were to be enrolled in Part A and equally randomized to 3 dose formulations of 9vHPV vaccine or qHPV vaccine. One dose formulation was selected based on interim immunogenicity results. Approximately 13,380 subjects were to be enrolled in Part B and equally randomized to the selected dose formulation of 9vHPV vaccine or qHPV vaccine.
+
+A short critical expert overview has also been provided. 2. Scientific discussion 2.1. Information on the development program The MAH stated that 'V503 - 001: A Randomized, International, Double-Blinded (With In- House Blinding), Controlled With GARDASIL™, Dose-Ranging, Tolerability, Immunogenicity, and Efficacy Study of a Multivalent Human Papillomavirus (HPV) L1 Virus-Like Particle (VLP) Vaccine Administered to 16- to 26-Year-Old Women' is part of a clinical development program for V503, for which an MAA has been submitted earlier this year. Gardasil is being used as comparator in this study. 2.2. Information on the pharmaceutical formulation used in the study The commercial formulation was used in the study. 2.3. Clinical aspects 2.3.1. Introduction The MAH submitted a final report for: · V503 - 001: A Randomized, International, Double-Blinded (With In- House Blinding), Controlled With GARDASIL™, Dose-Ranging, Tolerability, Immunogenicity, and Efficacy Study of a Multivalent Human Papillomavirus (HPV) L1 Virus-Like Particle (VLP) Vaccine Administered to 16- to 26-Year-Old Women 2.3.2. Clinical study V503 - 001: A Randomized, International, Double-Blinded (With In- House Blinding), Controlled With GARDASIL™, Dose-Ranging, Tolerability, Immunogenicity, and Efficacy Study of a Multivalent Human Papillomavirus (HPV) L1 Virus-Like Particle (VLP) Vaccine Administered to 16- to 26-Year-Old Women Description Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+Assessor's comment: The current study is also being assessed within the MAA for V503 (EMEA/H/C/3852). Thus, the description of this study is copied from the AR for V503.
+
+## Methods
+
+## Primary Objectives
+
+1. Objective: To evaluate the tolerability of the 9-valent HPV L1 VLP vaccine when administered to 16- to 26-year-old women. 2. Objective: To evaluate a formulation of 9-valent HPV L1 VLP vaccine for use in the efficacy evaluation in Part B. Study design Randomized, double-blind, controlled with qHPV vaccine, multicenter, multinational, dose-ranging, safety, immunogenicity and efficacy study. Study population /Sample size Females 16-26 years of age. Inclusion criteria included: in good physical health; able to read, understand, and complete the vaccination report card; agrees to provide study personnel with a primary telephone number as well as an alternate telephone number for follow-up purposes; has never had Pap testing or has only had normal Pap test results; has a lifetime history of 1 to 4 male and/or female sexual partners at the time of enrollment OR has 0 male and/or female sexual partner, is 18 years of age or older, and plans to become sexually active within the first 3-6 months of the study; has refrained from douching/vaginal cleansing and using vaginal medications or preparations for 2 calendar days prior to the Day 1 visit and agrees to refrain from these activities for 2 calendar days prior to any future visit that includes collection of study specimens (cervical/genital swabs or Pap test); has refrained from sexual activity (including anal, vaginal, or genital/genital contact whether same sex or opposite sex) for 2 calendar days prior to the Day 1 visit. Subject agrees to refrain from these sexual activities for 2 calendar days prior to any future visit that includes collection of study specimens (cervical/genital swabs or Pap test); since the first day of the subject's last menstrual period through Day 1, the subject has not had sex with males or has had sex with males and used effective contraception with no failures and understands and agrees that during the Day 1 through Month 7 period, she should not have sexual intercourse with males without contraception. Treatments Study vaccine was administered as a 0.5-mL intramuscular injection in a three dose regimen (Day 1, Month 2, and Month 6). Part A: Approximately 1,240 healthy 16- to 26-year-old women were to be randomized in equal numbers to one of the three 9vHPV vaccine dose formulations (low, mid or high dose) or the comparator qHPV vaccine. Medicinal product no longer authorised
+
+Part B: Approximately 13,380 additional healthy 16- to 26-year-old women were to be randomized in equal numbers to the selected 9vHPV vaccine dose formulation chosen from Part A or the comparator qHPV vaccine.
+
+<div style=\"page-break-after: always\"></div>
+
+## Outcomes/endpoints
+
+Efficacy: The protocol specified that the primary analysis of efficacy was to be conducted in the perprotocol efficacy (PPE) population. This cohort consisted of subjects who received all 3 vaccinations, did not deviate from the study protocol in ways that could potentially interfere with the efficacy of the vaccine, and were seronegative at baseline and PCR negative at baseline and during the 6-month vaccination regimen and for 1 month thereafter (to allow for induction of immune responses to Dose 3 of the vaccine), to the relevant HPV type(s). Cases of the primary endpoint were counted starting after Month 7. The following specimens were collected from study participants for the purpose of detecting vaccine-type HPV deoxyribonucleic acid (DNA) or clinical disease: (1) cervicovaginal and external genital swabs; (2) ThinPrep™Pap test; (3) cervical or external genital biopsy if clinically indicated; (4) endocervical curettage specimen at the investigator's discretion; and (5) definitive therapy specimen if clinically indicated.
+
+<!-- image -->
+
+Immunogenicity: Serum anti-HPV 6, 11, 16, 18, 31, 33, 45, 52, and 58 titers were measured using a HPV-9 competitive Luminex Immunoassay (HPV-9 cLIA). The following endpoints were collected from each study subject to assess immunogenicity: 1) cLIA titers for each of the vaccine HPV types; 2) seroconversion status (i.e., above or below serostatus cutoff) for each of the vaccine HPV types. All subjects that were part of the defined per protocol immunogenicity (PPI) population were included in the immunogenicity summary. Serum samples were collected from all subjects at Day 1 and Month 7. Additional samples were collected at Month 12, Month 24, Month 36, and Month 42 to assess persistence of antibody responses. The primary time point for immunogenicity analysis was at Month 7. Safety: Results Recruitment/ Number analysed The study participant distribution is summarised in Tables 10-1, 10-2, 10-3, 10-4 and 10-5. Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+Table 10-1. Disposition of Subjects (Day 1 to Month 7) (All Randomized Subjects, DoseRanging Substudy)
+
+<!-- image -->
+
+<!-- image -->
+
+Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+Table 10-2.  Disposition of Subjects (Day 1 to Month 7) (All Randomized Subjects, Efficacy Substudy)
+
+<!-- image -->
+
+<!-- image -->
+
+Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+Table 10-3 Disposition of Subjects (&gt; Month 7 to Month 42) (All Randomized Subjects, Efficacy Substudy)
+
+<!-- image -->
+
+<!-- image -->
+
+Table 10-4 Disposition of Subjects (&gt; Month 42 to Month 48) (All Randomized Subjects, Efficacy Substudy) Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+Table 10-5 Disposition of Subjects (&gt; Month 48 to Month 54) (All Randomized Subjects, Efficacy Substudy)
+
+<!-- image -->
+
+<!-- image -->
+
+Efficacy results HPV 31/33/45/52/58-Related Endpoints Table 11-1 presents the results of evaluation of efficacy against the primary efficacy endpoint of high grade cervical, vulvar, and vaginal disease related to HPV types 31, 33, 45, 52, and 58 in the PPE population.  The cumulative incidence distribution of the primary efficacy endpoint in the PPE population is shown in Figure 11-1. Table 11-2 presents the results of evaluation of efficacy against the primary efficacy endpoint of high grade cervical, vulvar, and vaginal disease related to HPV types 31, 33, 45, 52, and 58 in the HNTS population. One of the secondary objectives was efficacy against HPV 31/33/45/52/58-Related Cervical, Vulvar, and Vaginal Disease, i.e the same as the primary objective, but also including low-grade disease. The efficacy against this composite endpoint was 97.1% (95% CI 91.9; 99.2). Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+Table 11-1 Analysis of Efficacy Against HPV 31/33/45/52/58-Related CIN 2/3, AIS, Cervical Cancer, VIN 2/3, VaIN 2/3, Vulvar Cancer, and Vaginal Cancer (Per-Protocol Efficacy Analysis Population)
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 11-1. Time to HPV 31/33/45/52/58-Related CIN 2/3, AIS, Cervical Cancer, VIN 2/3, VaIN 2/3, Vulvar Cancer, and Vaginal Cancer (Per-Protocol Efficacy Analysis Population)
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+Table 11-2 Analysis of Efficacy Against HPV 31/33/45/52/58-Related CIN 2/3, AIS, Cervical Cancer, VIN 2/3, VaIN 2/3, Vulvar Cancer, and Vaginal Cancer (HPV-Naive Type-Specific Analysis Population)
+
+<!-- image -->
+
+<!-- image -->
+
+Table 11-5 presents the results of evaluation of efficacy against persistent infection related to HPV types 31, 33, 45, 52, and 58 in the PPE and HNTS population. The persistent infection of ≥6 months (±1 month) duration endpoint corresponds to secondary efficacy objective #1. The persistent infection of ≥12 months (±1 month) duration endpoint corresponds to exploratory efficacy objective #1. Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+Table 11-5 Analysis of Efficacy Against HPV 31/33/45/52/58-Related Persistent Infection (PPE and HN-TS Analysis Populations)
+
+<!-- image -->
+
+|                                                                                  | 9vHPV Vaccine   | 9vHPV Vaccine   | 9vHPV Vaccine         | 9vHPV Vaccine                                | qHPV Vaccine (N=7,105)   | qHPV Vaccine (N=7,105)   | qHPV Vaccine (N=7,105)   | qHPV Vaccine (N=7,105)                       |                   |
+|----------------------------------------------------------------------------------|-----------------|-----------------|-----------------------|----------------------------------------------|--------------------------|--------------------------|--------------------------|----------------------------------------------|-------------------|
+| Analysis Population Endpoint                                                     | n               | Number of Cases | Person- Years at Risk | Incidence Rate per 100 Person- Years at Risk | n                        | Number of Cases          | Person- Years at Risk    | Incidence Rate per 100 Person- Years at Risk | authorised        |
+| Per-Protocol Efficacy (PPE) Persistent Infection ≥6 Months ‡ HPV 31/33/45/52/58- | 5,939           | 35              |                       |                                              | 5,953                    | 810                      | 15,451.6                 | 5.2                                          | 96.0 (94.4, 97.2) |
+| Related HPV 31- Related                                                          |                 |                 |                       |                                              | 5,198                    | 150                      | 14,316.9                 | 1.0                                          |                   |
+| HPV 33-                                                                          |                 |                 |                       |                                              | 5,560                    | 106                      | 15,416.9                 | 0.7                                          |                   |
+| Related HPV 45-                                                                  |                 |                 |                       |                                              | 5,658                    | 124                      | 15,633.4                 | 0.8                                          |                   |
+| Related HPV 52- Related                                                          |                 |                 |                       |                                              | 5,160                    | 387                      | 13,886.7                 |                                              | 2.8               |
+| HPV 58- Related Persistent Infection ≥12 ‡                                       |                 |                 |                       |                                              | 5,284                    | 225                      | 14,464.9 longer          | 1.6                                          |                   |
+| Months HPV                                                                       |                 |                 |                       |                                              | 5,953                    | 544                      | 15,761.9                 | 3.5                                          |                   |
+| 31/33/45/52/58- Related HPV 31-                                                  |                 |                 |                       | no                                           | 5,198                    | 97                       | 14,374.1                 | 0.7                                          |                   |
+| Related HPV 33- Related                                                          |                 |                 |                       |                                              | 5,560                    | 79                       | 15,452.5                 | 0.5                                          |                   |
+| HPV 45- Related                                                                  |                 |                 |                       |                                              | 5,658                    | 73                       | 15,686.8                 | 0.5                                          |                   |
+| HPV 52- Related 58-                                                              |                 |                 |                       |                                              | 5,160                    | 238                      | 14,063.3                 | 1.7                                          |                   |
+| HPV Related                                                                      |                 |                 |                       |                                              | 5,284                    | 145                      | 14,553.4                 | 1.0                                          |                   |
+| HPV-Naïve Type- Specific (HN-TS) Persistent Infection ≥6 Months ‡ HPV            |                 | product         |                       | 0.7                                          | 6,699                    | 1,150                    | 19,998.4                 | 5.8                                          |                   |
+| 31/33/45/52/58- Related HPV 31- Related Medicinal                                |                 |                 |                       | 0.2                                          | 5,953                    | 234                      | 19,150.7                 | 1.2                                          |                   |
+| HPV 33- Related HPV 45- Related                                                  |                 |                 |                       | 0.1                                          | 6,314                    | 152                      | 20,486.1                 | 0.7                                          |                   |
+|                                                                                  |                 |                 |                       | 0.1                                          | 6,412                    | 170                      | 20,783.2                 | 0.8                                          |                   |
+| HPV 52- Related                                                                  |                 |                 |                       | 0.3                                          | 5,983                    | 552                      | 18,742.8                 | 2.9                                          |                   |
+| HPV 58-                                                                          |                 |                 |                       | 0.2                                          | 6,040                    | 324                      | 19,310.6                 | 1.7                                          |                   |
+| Related Persistent Infection ≥12 Months ‡ HPV 31/33/45/52/58- Related            |                 |                 |                       | 0.5                                          | 6,699                    | 802                      | 20,509.3                 | 3.9                                          |                   |
+| HPV 31- Related HPV 33-                                                          |                 |                 |                       | 0.1                                          | 5,953                    | 159                      | 19,263.8                 | 0.8                                          |                   |
+|                                                                                  |                 |                 |                       | 0.1                                          | 6,314                    |                          | 20,550.3                 | 0.5                                          |                   |
+|                                                                                  |                 |                 |                       |                                              |                          |                          |                          |                                              | 109               |
+
+<div style=\"page-break-after: always\"></div>
+
+| Related HPV 45-   |   0.1 | 6,412   |   101 | 20,872.3   |   0.5 |
+|-------------------|-------|---------|-------|------------|-------|
+| Related HPV 52-   |   0.2 | 5,983   |   356 | 19,019.7   |   1.9 |
+| HPV 58- Related   |   0.1 | 6,040   |   218 | 19,457.9   |   1.1 |
+
+†  P-value calculated for the lower bound of the two sided 95% confidence interval for the vaccine efficacy being greater than 25%. ‡  ±1 month visit window.
+
+<!-- image -->
+
+Subjects are counted once in each applicable endpoint category.  A subject may appear in more than one category. N = Number of subjects randomized to the respective vaccination group who received at  least 1 injection. n = Number of subjects in the given population who have at least one follow-up visit after Month 7 in the per-protocol population; after Day 1 in all other analysis populations. 9vHPV = Nine-Valent Human papillomavirus (Types 6, 11, 16, 18, 31, 33, 45, 52, 58) Recombinant Vaccine; qHPV = Quadrivalent Human papillomavirus (Types 6, 11, 16, 18) Recombinant Vaccine CI = Confidence interval; HPV = Human papillomavirus The results for the exploratory objectives relating to HPV-31/33/45/52/58-related Pap test abnormalities and cervical and external genital procedures and cervical definitive therapy were in agreement with the above efficacy endpoints. The composite endpoint HPV 31/33/45/52/58 ASC-US HR-HPV positive or worse had a risk reduction of  in the PP population, and in the HNTS population. The risk reduction for HPV 31/33/45/52/58-related biopsy was 96.9% (95% CI 93.6, 98.6) in the PP population and . Assessor's comment: The efficacy against the five new HPV types, (31/33/45/53/58) was demonstrated using a composite endpoint for all types and CIN 2/3, AIS, Cervical Cancer, VIN 2/3, VaIN 2/3, Vulvar Cancer, and Vaginal Cancer combined. The results are driven by HPV type, which was the most common type and CIN2, which was the most common lesion type. The conclusions regarding the primary objective is supported by related secondary objectives. Thus, taken together all data relating to the five new HPV types indicate that the 9vHPV is effective in preventing disease related to these types. HPV 6/11/16/18-Related Endpoints It is expected that the 9vHPV vaccine is similarly efficacious in preventing persistent infection and disease related to these four HPV types as the qHPV. The comparison of the 9vHPV vaccine group with the qHPV vaccine group with respect to HPV 6/11/16/18-related endpoints is an assessment of similarity of the incidences of these endpoints in the two vaccine groups. Table 11-10 presents the results of comparison of the 9vHPV vaccine group with the qHPV vaccine group with respect to cervical, vulvar, and vaginal disease related to HPV types 6, 11, 16, and 18 in the PPE population. Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+Table 11-10 Impact of 9vHPV Vaccine on the Incidence of HPV 6/11/16/18-Related Cervical, Vulvar, and Vaginal Disease (Per-Protocol Efficacy Analysis Population)
+
+<!-- image -->
+
+Table 11-11 presents the results of comparison of the 9vHPV vaccine group with the qHPV vaccine group with respect to cervical, vulvar, and vaginal disease related to HPV types 6, 11, 16, and 18 in the HNTS population. Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+Table 11-11 Impact of 9vHPV Vaccine on the Incidence of HPV 6/11/16/18-Related Cervical, Vulvar, and Vaginal Disease (HPV-Naive Type-Specific Analysis Population)
+
+Table 11-12 presents the results of comparisons of the 9vHPV and the qHPV vaccine groups with respect to the incidence of persistent infection related to HPV types 6, 11, 16, and 18 in the PPE and HNTS populations.
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+Table 11-12. Impact of 9vHPV Vaccine on the Incidence of HPV 6/11/16/18-Related Persistent Infection (PPE and HN-TS Analysis Populations)
+
+<!-- image -->
+
+## Safety results
+
+Assessor's comment: The number of cases of the clinical endpoints related to HPV6/11/16/18 in the PP population was low, as expected. In the qvHPV group 6 of the 7 cases were related to HPV16, and they were also co-infected with non-vaccine high-risk HPV types on or before the time of becoming a case of HPV16-related disease. The number of cases in the HNST population was higher, but the results were consistent with the PP population results. The results for persistent infections are also in agreement with the results for the primary endpoints, i.e. there are only small differences between the groups. Medicinal product no longer authorised
+
+Dose-Ranging Substudy: Administration of the 9vHPV vaccine was generally well tolerated. The frequencies of clinical adverse experiences were generally comparable among the three 9vHPV vaccine groups and the qHPV vaccine group. .
+
+<div style=\"page-break-after: always\"></div>
+
+Efficacy Substudy:Administration of the 9vHPV vaccine was generally well tolerated. The frequencies of clinical adverse experiences were generally comparable among the 2 vaccination groups (9vHPV vaccine group and qHPV vaccine group). Frequency of injection-site adverse experiences was higher in the 9vHPV vaccine group than in the qHPV vaccine group. subjects discontinued from the study due to a vaccine-related adverse experience4 in the qHPV vaccine groupvaccine-related serious adverse experiences2 in the qHPV vaccine groupadverse experiences resulting in death5 in the qHPV vaccine group); none of these events were considered vaccine-related by the reporting investigator.
+
+<!-- image -->
+
+<!-- image -->
+
+Adverse Event Summary (Vaccination and Follow-up Periods, Day 1 to Month 7) (All Vaccinated Subjects, Dose-Ranging Substudy) Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+## Adverse Event Summary (Vaccination and Follow-up Periods, Day 1 through Visit Cut-Off Date) (All Vaccinated Subjects, Efficacy Substudy)
+
+<!-- image -->
+
+| authorised   |
+|--------------|
+
+## Recommendation
+
+Assessor's comment: The safety data from this study are in agreement with previously presented results for Gardasil, and no new safety issues were seen. 2.3.3. Discussion on clinical aspects Gardasil was used as comparator in this study with the primary aim to evaluate the new. The results with respect to are being assessed in the assessment of the MAA for Gardasil, and will not be repeated here. The results for Gardasil were well in agreement with previously reported results, and the benefit risk balance for Gardasil is not changed by these results. 3. Rapporteur's overall conclusion and recommendation Overall conclusion The efficacy, immunogenicity and safety results of the current study relating to Gardasil are in agreement with previously presented results, and the benefit risk balance for Gardasil is not changed. No further regulatory action is required. Medicinal product no longer authorised
+
+<!-- image -->
+
+## Fulfilled:
+
+No regulatory action required.
+
+<div style=\"page-break-after: always\"></div>
+
+Not fulfilled:
+
+## Additional clarifications requested
+
+Not applicable.
+
+<!-- image -->

@@ -1,0 +1,185 @@
+---
+document_datetime: 2023-09-21 17:51:02
+document_pages: 13
+document_pathfilename: www.ema.europa.eu/en/documents/variation-report/viracept-h-c-164-ii-120-epar-assessment-report-variation_en.pdf
+document_name: viracept-h-c-164-ii-120-epar-assessment-report-variation_en.pdf
+version: success
+processing_time: 5.7881461
+conversion_datetime: 2025-12-19 11:01:02.640981
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+<!-- image -->
+
+<!-- image -->
+
+Medicinal product no longer authorised 8 June 2011 Committee for Medicinal Products for Human Use (CHMP) Assessment report Viracept nelfinavir Procedure No.: EMEA/H/C/000164/II/0120 Note Variation assessment report as adopted by the CHMP with all information of a commercially confidential nature deleted.
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## CHMP variation assessment report
+
+| Name: Common                           | Viracept nelfinavir           |
+|----------------------------------------|-------------------------------|
+| name:                                  |                               |
+| Indication summary (as last approved): | Treatment of HIV-1 infections |
+| Marketing authorisation holder:        | Roche Registration Ltd.       |
+
+<!-- image -->
+
+In addition, after review of the 16 th  PSUR, the MAH was requested to either submit a variation to include in the nelfinavir EU SmPC, information recently approved for inclusion in the US nelfinavir package insert (including contraindications for sildenafil and alfuzosin; a recommendation that salmeterol should not be coadministered; and dosing recommendations for bosentan, tadalafil, colchicine and vardenafil) or to provide justification as to why the updates were not necessary for the EU SmPC.
+
+Medicinal product no longer authorised Type II variation EMEA/H/C/000164/II/0120 Name: Viracept Common name: nelfinavir Indication summary (as last approved): Treatment of HIV-1 infections Marketing authorisation holder: 1. Scientific discussion 1.1. Introduction Viracept contains the active substance nelfinavir, an inhibitor of Human Immunodeficiency Virus (HIV) protease (aspartic proteinase).  Nelfinavir belongs to the pharmaco-therapeutic group of Protease Inhibitors (JO5A E04) and was first approved for clinical use in the EU in January 1998. Nelfinavir is indicated in antiretroviral combination treatment of human immunodeficiency virus (HIV1) infected adults, adolescents and children of 3 years of age and older.  In protease inhibitor (PI) experienced patients the choice of nelfinavir should be based on individual viral resistance testing and treatment history. Plasma levels of nelfinavir, which is metabolised predominantly by CYP2C19 and only partially by CYP3A4, are not greatly increased by the presence of ritonavir, and therefore nelfinavir does not require co-administration with low-dose ritonavir as a pharmacokinetic enhancer. Formation of the equally active metabolite M8 is mediated exclusively by CYP2C19, with further metabolism by CYP3A4 after its formation. After review of the 14 th  Viracept PSUR, the CHMP requested a cumulative review of possible interactions with nelfinavir and anti-coagulation therapy, and nelfinavir and PDE-5 inhibitors in general. Although the MAH considered that no SmPC update was necessary, they were requested to submit a safety variation to include in section 4.5 'Interaction with other medicinal products and other forms of interaction' of the Viracept SmPC, a class warning for the interaction between nelfinavir and PDE-5 inhibitors, and also to include a warning about the possible effect of nelfinavir on warfarin levels, similar to that seen in section 4.5 of other protease inhibitors that inhibit CYP3A4.
+
+<div style=\"page-break-after: always\"></div>
+
+The variation (II/120) submitted is the following:
+
+| Variation(s) requested   |                                                                                                                                                                              | Type   |
+|--------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| C.I.4                    | Variations related to significant modifications of the Summary of Product Characteristics due in particular to new quality, pre-clinical, clinical or pharmacovigilance data | II     |
+
+| ART                                                                                                                           | Warfarin dose change                                  | Events                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Proposed effect on CYP2C9                                          |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Abacavir, efavirenz (prior to warfarin), zidovudine, lamivudine, ritonavir and nelfinavir (initiated 2 months after warfarin) | 10mg/day (efavirenz), 0mg/day (ritonavir/ nelfinavir) | Discharged on warfarin 10 mg/day for DVT/PE while receiving efavirenz (INR 2.4- 3); upon ART change to ritonavir/nelfinavir, INR increased from 2.5 to 10.4 over 4 days; warfarin withheld and vitamin K administered for 3 days, leading to recurrent thrombosis; discharged on warfarin 30 mg/day; INR 2.5 at discharge; 3 days later, INR 10.4; reduction in warfarin to 10 mg/day resulted in INR 1.5; pt. admitted to sporadic ritonavir dosing because of nausea and vomiting; upon ritonavir withdrawal, INR stabilized (2.5-3) on warfarin 15 mg/day. | Inhibition (ritonavir) indicated by author. Induction (nelfinavir) |
+
+Medicinal product no longer authorised To update sections 4.3, 4.4 and 4.5 of the SmPC regarding interactions with warfarin, PDE-5 inhibitors for pulmonary arterial hypertension and erectile dysfunction, colchicine, alfuzosin, salmeterol and bosentan as per CHMP request. The package leaflet has been revised accordingly. In addition, minor changes have been made in accordance with the QRD template and for consistency throughout the product information. Finally, the MAH has taken the opportunity to update Annex IIIA to include changes according to their new packaging design. 1.2. Clinical aspects 3.2.1 Interaction with Warfarin Warfarin use is complicated by a narrow therapeutic window and high inter-patient variability in response. Due to its metabolism through the cytochrome P450 enzyme system in the liver, warfarin also has the potential to interact with many other medications. Warfarin consists of two active enantiomers; R and S warfarin. R warfarin is a substrate of CYP3A4, CYP1A2 and CYP2C19. S warfarin is a substrate of CYP 2C9. Nelfinavir ( in vitro ) is metabolized by multiple cytochrome P-450 enzymes including CYP3A4 and CYP2C19 with known inhibitory effects on CYP3A4. Some data suggest that nelfinavir may also induce CYP2C9. The MAH commented that Highly Active Antiretroviral Therapy (HAART) may include both inhibitors and inducers of enzymes and variable International Normalised Ratios (INRs) can be expected. The MAH's database was searched for cases covering the period from International Birth Date (IBD) of nelfinavir 14 March 1997 to 31 March 2009 that described an interaction between warfarin and nelfinavir.  In addition a literature search was performed for interactions with warfarin/Coumadin and nelfinavir. Five single cases were identified and are described in detail in the table below.
+
+<div style=\"page-break-after: always\"></div>
+
+| Abacavir, tenofovir, nelfinavir (prior to warfarin)                                                                                                                                                                  | 45mg/week (baseline) 70mg/week (nelfinavir)                                            | Prior to ART, long-term warfarin stable at 45 mg/wk for idiopathic pulmonary embolism (INR 2-3); ART begun during a 6-month interruption in warfarin therapy. Warfarin subsequently restarted at 5 mg/day; after 5 months of titration, warfarin stabilized at 10 mg/day (70 mg/wk), (INR 'therapeutic').                                                                                                                                                                              | Induction (nelfinavir)                                             |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| zidovudine, lamivudine nevirapine (prior to warfarin) tenofovir, didanosine nelfinavir (initiated 3 months after warfarin)tenofovir, didanosine, emtricitabine, lopinavir/ritonavir (initiated 12 mo after warfarin) | 20 mg/day (nevirapine), 12.5 mg/day (nelfinavir), 17.5 mg/day (lopinavir/ ritonavir)   | Patient initiated on warfarin, 5 mg/day in hospital for DVT/PE, titration dose stabilized at 20 mg/day after 3months (INR 'therapeutic'); 3 months later, ART changed to tenofovir, didanosine, nelfinavir; warfarin dose decreased to 12.5 mg/day; 8 mo later, ART changed to tenofovir, didanosine, emtricitabine, lopinavir/ritonavir; warfarin dose increased to 17.5 mg/day.                                                                                                      | authorised Induction (nelfinavir), induction (lopinavir/ritonavir) |
+| Lamivudine, stavudine, nevirapine                                                                                                                                                                                    | 12.5mg QD (current)                                                                    | longer Elevation in prothrombin time from 22 to over 100 while on nelfinavir and starting warfarin. The patient continues on Viracept and Coumadin - no other problems experienced with coagulation parameters.                                                                                                                                                                                                                                                                        |                                                                    |
+| Nelfinavir                                                                                                                                                                                                           | Starting does: 5mg/day except Tues & Thurs (7.5mg) Increased to 20mg/day then 25mg/day | no The patient's INR was 1.3, when taking nelfinavir it became 1.0 and warfarin dose was increased to 20mg/day. While the patient was hospitalized for DVT the warfarin dose was 25 mg/day and receiving Viracept, his highest INR was 1.42. Two days following the discontinuation of Viracept while still receiving warfarin 25 mg/day, his INR rose to 2.59 necessitating a decrease in his warfarin dose to 5 mg/day. Upon hospital discharge the following day, his INR was 2.86. |                                                                    |
+
+Medicinal product no longer authorised A further search conducted on 23 rd September 2010 did not identify any further reports. According to the MAH, these five reports indicate that nelfinavir may induce or inhibit warfarin metabolism as INRs were both increased and decreased when nelfinavir was coadministered. The MAH commented that INR should be closely monitored in patients receiving warfarin with nelfinavir and adjust warfarin dose as needed when starting and stopping warfarin. According to the MAH, these recommendations are similar to the clinical practice and general use of warfarin. The MAH also mentioned that there is no pharmacokinetic data or clinical studies to indicate the effect of nelfinavir on warfarin blood levels and warfarin is known to have variable response. Discussion and changes to the product information
+
+Following the CHMP request to include a warning about the possible effect of nelfinavir on warfarin levels, similar to the SmPCs of other HIV protease inhibitors that inhibit CYP3A4, the MAH proposed the following text to be included:
+
+-  Section 4.5 'Interaction with other medicinal products and other forms of interaction' of the SmPC
+
+<div style=\"page-break-after: always\"></div>
+
+'Coadministration of warfarin and VIRACEPT may affect concentrations of warfarin. It is recommended that the international normalized ratio (INR) be monitored carefully during treatment with VIRACEPT, especially when commencing therapy.'
+
+-  Section 2 of the package leaflet
+
+'Tell your doctor or pharmacist if you are taking any of the following medicines:
+
+Medicinal product no longer authorised - Warfarin (for lowering the chance of blood clots in your body)' The request for this review was prompted by two case reports of possible drug interactions between nelfinavir and warfarin presented in PSUR 14. In these cases (presented in the table above), CYP2C9 induction resulted in increased warfarin clearance leading to decreased efficacy. Theoretically, an induction and/or an inhibitory effect of nelfinavir on warfarin metabolism could be expected, as nelfinavir is an inducer and warfarin is a substrate of CYP2C9 and nelfinavir is also in inhibitor of CYP3A4, while warfarin is a substrate of this enzyme. There were also a further five reports not discussed by the MAH in their original review as they were poorly documented: two warfarin reports with nelfinavir (no information about dose adjustments in warfarin), two reports involving fluindione and nelfinavir and a report with acenocoumarol and nelfinavir which indicated that the acenocoumarol dose was progressively increased to achieve an INR of 2.2. Section 4.5 of the nelfinavir SmPC already contains a broad statement cautioning the coadministration of nelfinavir with medicinal products that are inducers or inhibitors and/or substrates of CYP3A4 as such combinations may require dose adjustment. The SmPCs for all other protease inhibitors (PI) which inhibit CYP3A4 contain a warning to monitor INR when co-administering the concerned PI and warfarin, as the concerned PI may affect warfarin concentrations. Therefore, the MAH's proposed additions for section 4.5 of the SPC, and the package leaflet, are considered acceptable by the CHMP. 3.2.2 Interaction with PDE-5 inhibitors There are three PDE-5 inhibitors currently available: sildenafil, vardenafil and tadalafil. Coadministration with nelfinavir, a potent CYP3A4 inhibitor, may result in increased levels of the PDE-5 inhibitor which may lead to increased adverse effects. The MAH's safety database was originally searched for cases reporting interactions between nelfinavir and PDE-5 inhibitors covering the period from the IBD for nelfinavir to 31 March 2009.  A literature search was also performed.  Only two cases of interest were identified and are further described below; one sildenafil interaction and a potential vardenafil interaction.  No case of tadalafil/nelfinavir interaction was identified. A further search through to 23 rd  September 2010 did not reveal any further cases. Sildenafil and nelfinavir
+
+This 49 year old male consumer (stable on nelfinavir for 1 year) started sildenafil for erectile dysfunction. Within one hour after the first dose he experienced symptoms which could be considered sildenafil adverse events of symptomatic hypotension (dizziness, lightheadedness and fainting).
+
+Vardenafil and nelfinavir
+
+<div style=\"page-break-after: always\"></div>
+
+A 62 year old male consumer who reported leg pain with vardenafil only in the presence of ritonavir, saquinavir and nelfinavir with a positive dechallenge of vardenafil suggesting that the CYP 3A4 inhibitors were responsible for elevating the vardenafil drug levels.
+
+## Discussion and changes to the product information
+
+Medicinal product no longer authorised In January 2010, the FDA requested changes to be made in the labelling for all protease inhibitors that are CYP3A4 inhibitors based on new safety information for coadministration of protease inhibitors and PDE-5 inhibitors. This information was presented in the 16 th  Viracept PSUR and subsequently, the CHMP requested that a class warning should be included in the SmPC, as it is in the core data sheet. Sildenafil is metabolised by CYP3A4 and is an inhibitor of CYP2C9. The interaction with nelfinavir is already mentioned in the nelfinavir SmPC (coadministration may substantially increase sildenafil concentration and may result in an increase in sildenafil associated adverse events including hypotension, visual changes, and priapism). Sildenafil is authorised under different trade names for erectile dysfunction (ED) (Viagra) and for pulmonary arterial hypertension (PAH) (Cialis). Concomitant use of sildenafil for PAH is contraindicated for several HIV protease inhibitors due to CYP3A4 inhibition. The MAH proposed to add sildenafil for the treatment of PAH to the list of products which are contraindicated due to CYP3A4 inhibition by nelfinavir. The addition to section 4.3 is considered appropriate by the CHMP. However the MAH has been requested to include in section 4.3 a reference to section 4.5 with regards to the use of sildenafil and other PDE-5 inhibitors in patients with ED and to reflect interactions with PDE-5 inhibitors in the treatment of ED in section 4.4 (as highlighted in bold hereafter). Typo errors in 'sildenafil' and 'priapism' have also been corrected in section 4.5. In addition, the table 1 in section 4.5 was updated to give advice on the potential interactions between nelfinavir and the three PDE-5 inhibitors. The CHMP discussed the initial MAH proposal for the update of table 1. Firstly, it was not considered necessary to include the brand names for sildenafil and tadalafil as the products are listed under a heading stating in which indication the recommendations are relevant (i.e. PAH or ED). In addition, including brand names in the SmPC is not in line with the SmPC guideline. As none of the potential interactions between Viracept and the PDE-5 inhibitors have been studied, the MAH was requested to use the following wording for the middle column of table 1 for the PDE-5 inhibitors for both indications: 'Not studied. Concomitant use of [PDE-5 inhibitor name] and nelfinavir may increase plasma levels of [PDE-5 inhibitor name] ' Regarding the proposed recommendation for tadalafil (in the treatment of PAH), the EU SmPC for Adcirca states that ' For patients taking concomitant potent inhibitors of CYP3A4, such as ketoconazole or ritonavir, the use of tadalafil is not recommended '. As such, the MAH was requested to adopt a similar recommendation for column 3 of the table: ' Co-administration of tadalafil for the treatment of pulmonary arterial hypertension with Viracept is not recommended'.
+
+Regarding the proposed recommendation for the three PDE-5 inhibitors for erectile dysfunction, the EU SmPCs for Cialis (tadalafil), and Levitra (vardenafil) do not make recommendations regarding maximum dosing in a time period when administered with CYP3A4 inhibitors. The SmPC of Cialis warns that caution should be exercised when co-prescribing CYP3A4 inhibitors due to increased exposure to tadalafil. The SmPC of Viagra states in 4.2 that ' a starting dose of 25 mg should be considered in patients receiving concomitant treatment with CYP3A4 inhibitors '.  The SmPC of Levitra mentions ' Concomitant use of vardenafil with potent CYP3A4 inhibitors such as itraconazole and ketoconazole (oral form) should be avoided as very high plasma concentrations of vardenafil are reached if the
+
+<div style=\"page-break-after: always\"></div>
+
+medicinal products are combined '. Potent CYP3A4 inhibitors such as the HIV protease inhibitors ritonavir and indinavir are contraindicated for vardenafil.
+
+<!-- image -->
+
+Medicinal product no longer authorised Therefore the MAH was requested to discuss and justify the proposed dose modifications for tadalafil and vardenafil for the treatment of ED and to clarify whether tadalafil in the treatment of PAH should be listed in section 4.3 of the SmPC of nelfinavir.  The MAH stated that no interaction studies have been performed with nelfinavir and PDE-5 inhibitors. Review of the MAH's safety database revealed one report of a potential interaction between nelfinavir and vardenafil. There was no report concerning nelfinavir and tadalafil.  However, there is a theoretical possibility of a pharmacokinetic interaction between nelfinavir (CYP3A4 inhibitor) and tadalafil and vardenafil (CYP3A4 substrates) which could lead to an increase in PDE-5 drug levels, and therefore an increase in adverse events associated with these products.  In the absence of study data, the CHMP considers that mentioning in 4.5 that physicians should be alert to the possibility of adverse events associated with increased exposure to the PDE-5 inhibitor is the most pragmatic approach. The MAH has adopted the CHMP proposed wording concerning tadalafil and vardenafil: 'Use with increased monitoring for adverse events associated with increased exposure to [PDE-5 inhibitor]'. For sildenafil in the treatment of ED, the following wording was recommended to be in line with the EU SmPC advice for sildenafil (Viagra) and concomitant use of CYP3A4 inhibitors: 'Sildenafil at a starting dose not exceeding 25mg in 48 hours.  Use with increased monitoring for adverse events associated with increased exposure to sildenafil.' The MAH provided a revised table 1 and updated section 4.5 according to the CHMP recommendations as presented below.  Section 4.5 ''Interaction with other medicinal products and other forms of interaction' 'Substrates for CYP3A4: Co-administration is contraindicated with the following agents that are substrates for CYP3A4 and that have narrow therapeutic windows: terfenadine, astemizole, cisapride, amiodarone, quinidine, ergot derivatives, pimozide, oral midazolam, and triazolam, alfuzosin, and sildenafil when used to treat pulmonary arterial hypertension (see section 4.3). ' ' Co-administration of a PI with sildenafail is expected to substantially increase sildenafail concentration and may result in an increase in sildenafail associated adverse events, including hypotension, visual changes, and pr i apism .'
+
+<div style=\"page-break-after: always\"></div>
+
+| authorised   |
+|--------------|
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+With regards to the package leaflet, the MAH's proposal is considered acceptable. However, the CHMP requested to also mention vardenafil under the section: ' Tell your doctor or pharmacist if you are taking any of the following medicines ' as presented below.
+
+Medicinal product no longer authorised The sections 4.3 and 4.4 were also updated according to the CHMP recommendations:  Section 4.3 'Contraindications' 'Co-administration with medicinal products with narrow therapeutic windows and which are substrates of CYP3A4 [e.g., terfenadine, astemizole, cisapride, amiodarone, quinidine, pimozide, triazolam, orally administered midazolam (for caution on parenterally administered midazolam, see section 4.5), ergot derivatives, alfuzosin, and sildenafil for treatment of pulmonary arterial hypertension (for the use of sildenafil and other PDE-5 inhibitors in patients with erectile dysfunction, see section 4.5 ) ] '  Section 4.4 'Special warnings and precautions for use' ' PDE5 inhibitors: particular caution should be used when prescribing sildenafil, tadalafil or vardenafil for the treatment of erectile dysfunction in patients receiving Viracept.  Coadministration of Viracept with these medicinal products is expected to increase their concentrations and may result in associated adverse events such as hypotension, syncope, visual changes and prolonged erection (see section 4.5). Concomitant use of sildenafil prescribed for the treatment of pulmonary arterial hypertension with Viracept is contraindicated (see section 4.3). '
+
+-  Section 2 of the package leaflet
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+'Do  not  take  Viracept  and  tell  your  doctor  or  pharmacist  if  you  are  taking  any  of  the  following medicines:
+
+- Sildenafil (for pulmonary arterial hypertension (PAH))'
+
+'Tell your doctor or pharmacist if you are taking any of the following medicines:
+
+- Tadalafil (for pulmonary arterial hypertension (PAH), or for getting or keeping an erection)
+-  Vardenafil  (for  pulmonary  arterial  hypertension  (PAH),  or  for  getting  or  keeping  an erection) '
+
+<!-- image -->
+
+Medicinal product no longer authorised 3.2.3 Additional pharmacokinetic interactions In the January and March 2010 communications, the FDA requested additional labelling changes for the following medications when co-administered with nelfinavir: colchicine, alfuzosin, salmeterol, and bosentan. The MAH was required to make these changes unless the MAH could provide a statement detailing the reasons why such a change was not warranted. In the absence of studies conducted with nelfinavir, the MAH accepted the FDA's requested class labelling changes. Discussion and changes to the product information Colchicine The MAH proposed updates to the product information are presented below (as underlined).  Section 4.4 of the SmPC 'Liver disease: Patients with hepatic impairment should not be given colchicine with VIRACEPT. Renal impairment: Patients with renal impairment should not be given colchicine with VIRACEPT.' Colchicine is indicated for the treatment of gout. The SmPC for colchicine states in section 4.3 that ' Colchicine is contraindicated in patients with renal or hepatic impairment who are taking a Pglycoprotein or a strong CYP3A4 inhibitor ' and in section 4.5 the statement is repeated, with the PIs ritonavir, atazanavir and indinavir specifically mentioned. The MAH's proposals to include statements that colchicine should not be given with Viracept, a less potent CYP3A4 inhibitor than ritonavir, in section 4.4, are therefore accepted by the CHMP.  Section 4.5 of the SmPC As colchicine is nationally authorised, there is no EU SmPC on which to base recommendations for coadministration.  As an example, the SmPC for the UK nationally authorised colchicine product does not provide specific dosing recommendations in the case of concomitant administration with CYP3A4 inhibitors, it rather states that: ' A reduction in colchicine dosage or an interruption of colchicine treatment is recommended in patients with normal renal or hepatic function if treatment with a Pglycoprotein or strong CYP3A4 inhibitor is required '.
+
+…
+
+Given that the formulations and dose recommendations for colchicine across Europe are likely to differ, the MAH was requested to propose an update of table 1 (section 4.5) which does not specify dose adjustments: ' A reduction in colchicine dosage or an interruption of colchicine treatment is recommended in patients with normal renal or hepatic function if treatment with nelfinavir is required.
+
+<div style=\"page-break-after: always\"></div>
+
+Patients with renal or hepatic impairment should not be given colchicine with nelfinavir (see section 4.4)'.
+
+The MAH was also requested to adopt similar wording for the middle column (effects on drug levels) as recommended for the PDE-5 inhibitors: ' Not studied. Concomitant use of colchicine and nelfinavir may increase plasma levels of colchicine'.
+
+<!-- image -->
+
+<!-- image -->
+
+Medicinal product no longer authorised Accordingly, the MAH proposed an update of table 1 as follows:  Section 2 of the package leaflet 'Tell your doctor or pharmacist if you are taking any of the following medicines: - Colchicine (for gout-flares or Mediterranean fever)' The proposed wording for the SmPC and package leaflet is considered acceptable by the CHMP. Alfuzocin Changes to the product information in relation to interaction with alfuzocin are presented below (as underlined).  Section 4.3 of the SmPC ' Co-administration with medicinal products with narrow therapeutic windows and which are substrates of CYP3A4 [e.g., terfenadine, astemizole, cisapride, amiodarone, quinidine, pimozide, triazolam, orally administered midazolam (for caution on parenterally administered midazolam, see section 4.5), ergot derivatives, alfuzosin, and sildenafil for treatment of pulmonary arterial hypertension (for the use of sildenafil and other PDE-5 inhibitors in patients with erectile dysfunction, see section 4.5)] '  Section 4.5 of the SmPC 'Substrates  for  CYP3A4:  Co-administration  is  contraindicated  with  the  following  agents  that  are substrates for CYP3A4 and that have narrow therapeutic windows: terfenadine, astemizole, cisapride, amiodarone,  quinidine,  ergot  derivatives,  pimozide,  oral  midazolam,  and  triazolam,  alfuzosin,  and sildenafil when used to treat pulmonary arterial hypertension (see section 4.3).'  Section 2 of the package leaflet
+
+<!-- image -->
+
+'Do  not  take  Viracept  and  tell  your  doctor  or  pharmacist  if  you  are  taking  any  of  the  following medicines: -Alfuzosin (for benign prostatic hyperplasia (BPH)) '
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+Alfuzosin is an alpha blocker indicated for the treatment for benign prostatic hyperplasia. The combination of alfuzosin with CYP3A4 inhibitors may result in increased alfuzosin levels, and possibly alfuzosin-associated adverse events, namely hypotension. The proposal to include alfuzosin in the list of CYP3A4 substrates that are contraindicated with nelfinavir in sections 4.3 and 4.5 is accepted. The proposal for the package leaflet is also accepted by the CHMP.
+
+Medicinal product no longer authorised Salmeterol Changes to the product information in relation to interaction with salmeterol are presented below.  Section 4.4 of the SmPC 'Concurrent  administration  of  salmeterol  with  VIRACEPT  is  not  recommended.  The  combination  may result  in  increased  risk  of  cardiovascular  adverse  events  associated  with  salmeterol,  including  QT prolongation, palpitations and sinus tachycardia.'  Section 4.5 of the SmPC 'Concurrent administration of salmeterol with VIRACEPT is not recommended. The combination may result in increased risk of cardiovascular adverse events associated with salmeterol, including QT prolongation, palpitations and sinus tachycardia.'  Section 2 of the package leaflet 'Tell your doctor or pharmacist if you are taking any of the following medicines: - Salmeterol (for asthma or chronic obstructive pulmonary disease (COPD) )' Salmeterol is a long-acting inhaled beta-agonist bronchodilator indicated for asthma or COPD. The SmPCs for salmeterol state in sections 4.4 and 4.5 that: ' Concomitant treatment with ketoconazole or other potent CYP3A4 inhibitors should therefore be avoided unless the benefits outweigh the potentially increased risk of systemic side effects of salmeterol treatment '. Systemic side effects of salmeterol include QT prolongation and palpitations. In line with the CHMP request, the MAH has proposed to include a warning about salmeterol in sections 4.4 and 4.5, and for the package leaflet. The CHMP agrees with these additions. Bosentan Changes to the product information in relation to interaction with bosentan are presented below.  Section 4.5 of the SmPC
+
+Bosentan is an endothelin receptor antagonist indicated for the treatment of pulmonary arterial hypertension. Bosentan is metabolised by and is also an inducer of CYP2C9 and 3A4. The EU SmPC for Tracleer (bosentan) states that in the treatment of PAH, bosentan should be started at a dose of 62.5 mg twice daily for 4 weeks, then increased to the maintenance dose of 125 mg twice daily. Section 4.4 contains a section on PAH associated with HIV infection which states that: ' An interaction study between bosentan and lopinavir+ritonavir in healthy subjects showed increased plasma concentrations of bosentan with the maximum level during the first 4 days of treatment (see section 4.5). When treatment with Tracleer is initiated in patients who require ritonavir-boosted protease inhibitors, the patient's tolerability of Tracleer should be closely monitored with special attention, at the beginning of
+
+<div style=\"page-break-after: always\"></div>
+
+the initiation phase, to the risk of hypotension and to liver function tests. An increased long-term risk of hepatic toxicity and haematological adverse events cannot be excluded when bosentan is used in combination with antiretroviral medicinal products. Due to the potential for interactions related to the inducing effect of bosentan on CYP450 (see section 4.5), which could affect the efficacy of antiretroviral therapy, these patients should also be monitored carefully regarding their HIV infection .'
+
+Section 4.5 of the Tracleer SmPC contains similar information to above. Nelfinavir is not administered with ritonavir, however, it is a potent inhibitor of CYP3A4, and therefore, the potential for increased exposure to bosentan on coadministration is a possibility.
+
+<!-- image -->
+
+Medicinal product no longer authorised In line with the CHMP request, the MAH initially proposed to include a dosing recommendation for bosentan when used with nelfinavir. However, to be in line with the EU SmPC for bosentan (Tracleer), the CHMP requested that the MAH include the following wording: 'When administered concomitantly with nelfinavir, the patient's tolerability of bosentan should be monitored' , and 'Not studied. Concomitant use of bosentan and nelfinavir may increase plasma levels of bosentan ' for the text in the middle column. Table 1 has been updated accordingly:  Section 2 of the package leaflet 'Tell your doctor or pharmacist if you are taking any of the following medicines: - Bosentan (for pulmonary arterial hypertension (PAH))' The proposed wording for the SmPC and package leaflet is accepted by the CHMP. Additional changes to the product information The MAH proposed minor changes in line with the QRD recommendations and for consistency throughout the product information. The name of the European Medicines agency has been updated in Annex II and in the package leaflet. In addition, the MAH has changed 'rifampin' (USAN) into 'rifampicin' (INN) in section 4.5 of the SmPC. Furthermore, the MAH has proposed to update Annex IIIA according to its new packaging design. The outer (outer carton) and immediate packaging (bottle label) are proposed not to be combined. These changes are considered acceptable by the CHMP.
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## 2. Conclusion
+
+On 14 April 2011 the CHMP considered this Type II variation to be acceptable and agreed on the amendments to be introduced in the SmPC, Annex II, Labelling and Package Leaflet (Attachment 1 changes highlighted).
+
+<!-- image -->

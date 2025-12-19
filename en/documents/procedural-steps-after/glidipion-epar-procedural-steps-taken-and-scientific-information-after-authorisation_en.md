@@ -1,0 +1,70 @@
+---
+document_datetime: 2023-09-21 21:22:28
+document_pages: 4
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/glidipion-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf
+document_name: glidipion-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf
+version: success
+processing_time: 2.9243462
+conversion_datetime: 2025-12-19 13:20:54.201828
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+EMA/383551/2020
+
+## Glidipion
+
+Procedural steps taken and scientific information after the authorisation
+
+<!-- image -->
+
+| Application number   | Scope                                                                                                                                                                                                                                              | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| WS/1791              | This was an application for a variation following a worksharing procedure according to Article 20 of Commission Regulation (EC) No 1234/2008. The RMP was updated to the RMP template rev 2 as per GVP module V rev 2, and the existing additional | 11/06/2020                          |                                             | Annex II                         |           |
+
+1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
+
+2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
+
+3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+
+Medicinal Product no longer authorised
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+|             | risk minimisation measures (educational pack for the healthcare professionals containing a prescriber guide) were removed both from the RMP and their key elements from the Annex IID of the PI, in line with the originator product for pioglitazone. In addition, standard wording was reinstated for the PSUR submission requirement with a reference to the updates included in the EURD list. C.I.11.b - Introduction of, or change(s) to, the obligations and conditions of a marketing authorisation, including the RMP - Implementation of change(s) which require to be further substantiated by new additional data to be submitted by the MAH where significant assessment is required   |            | longer     | authorised                                                                                                                                                                                                                       |
+|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| IAIN/0012/G | This was an application for a group of variations. A.7 - Administrative change - Deletion of manufacturing sites B.III.1.a.3 - Submission of a new/updated or deletion of Ph. Eur. Certificate of Suitability to the relevant Ph. Eur. Monograph - New certificate from a new manufacturer (replacement or addition) Product                                                                                                                                                                                                                                                                                                                                                                        | 08/01/2020 | n/a no     |                                                                                                                                                                                                                                  |
+| N/0011      | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification) Medicinal                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 28/07/2017 | 14/09/2017 | Labelling and PL                                                                                                                                                                                                                 |
+| R/0009      | Renewal of the marketing authorisation.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 15/09/2016 | 11/11/2016 | Based on the review of data on quality, safety and efficacy, the CHMP considered that the benefit-risk balance of Glidipion in the approved indication remains favourable and therefore recommended the renewal of the marketing |
+
+<div style=\"page-break-after: always\"></div>
+
+|             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                    | authorisation with unlimited validity.   |
+|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------------------------------|
+| IB/0010/G   | This was an application for a group of variations. C.I.2.a - Change in the SPC, Labelling or PL of a generic/hybrid/biosimilar products following assessment of the same change for the reference product - Implementation of change(s) for which NO new additional data is required to be submitted by the MAH C.I.2.a - Change in the SPC, Labelling or PL of a generic/hybrid/biosimilar products following assessment of the same change for the reference product - Implementation of change(s) for which NO new additional data is required to be submitted by the MAH | 30/09/2016         | SmPC, Labelling and PL longer authorised |
+| IA/0008     | A.7 - Administrative change - Deletion of manufacturing sites                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 03/06/2016 Product | n/a no                                   |
+| IAIN/0007/G | This was an application for a group of variations. A.7 - Administrative change - Deletion of manufacturing sites B.III.1.a.1 - Submission of a new/updated or deletion of Ph. Eur. Certificate of Suitability to the relevant Ph. Eur. Monograph - New certificate from an already approved manufacturer Medicinal                                                                                                                                                                                                                                                           | 03/03/2016         | n/a                                      |
+| IAIN/0006   | C.I.8.a - Introduction of or changes to a summary of Pharmacovigilance system - Changes in QPPV (including contact details) and/or changes in the                                                                                                                                                                                                                                                                                                                                                                                                                            | 20/07/2015         | n/a                                      |
+
+<div style=\"page-break-after: always\"></div>
+
+|           | PSMF location                                                                                                                                                                                                                                                        |            |               |                                  |
+|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|---------------|----------------------------------|
+| N/0005    | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification)                                                                                                                                                                     | 18/02/2015 | 11/11/2016    | PL                               |
+| IB/0004   | C.I.11.z - Introduction of, or change(s) to, the obligations and conditions of a marketing authorisation, including the RMP - Other variation                                                                                                                        | 06/03/2014 | n/a           | authorised                       |
+| IB/0003   | C.I.2.a - Change in the SPC, Labelling or PL of a generic/hybrid/biosimilar products following assessment of the same change for the reference product - Implementation of change(s) for which NO new additional data is required to be submitted by the MAH         | 12/12/2013 | 11/11/2014    | SmPC and PL longer               |
+| IB/0002   | C.I.2.a - Change in the SPC, Labelling or PL of a generic/hybrid/biosimilar products following assessment of the same change for the reference product - Implementation of change(s) for which NO new additional data is required to be submitted by the MAH Product | 08/11/2013 | 11/11/2014 no | SmPC, Annex II, Labelling and PL |
+| IAIN/0001 | A.2.a - Administrative change - Change in the (invented) name of the medicinal product for CAPs Medicinal                                                                                                                                                            | 24/04/2012 | 25/10/2012    | SmPC, Labelling and PL           |

@@ -1,0 +1,65 @@
+---
+document_datetime: 2023-09-21 18:49:42
+document_pages: 4
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/prepandemic-influenza-vaccine-h5n1-surface-antigen-inactivated-adjuvanted-novartis-vaccines-and-diagnostics-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf
+document_name: prepandemic-influenza-vaccine-h5n1-surface-antigen-inactivated-adjuvanted-novartis-vaccines-and-diagnostics-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf
+version: success
+processing_time: 2.595925
+conversion_datetime: 2025-12-19 03:13:51.54265
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+---
+<!-- image -->
+
+<!-- image -->
+
+## Prepandemic influenza vaccine (H5N1) (surface antigen, inactivated, adjuvanted) Novartis Vaccines and Diagnostic
+
+Procedural steps taken and scientific information after the authorisation
+
+| Application number   | Scope                                                                                                                                                           | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on no   | Product Information affected 3      | Summary                                                                                                                                                       |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|------------------------------------------------|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| IAIN/0014            | C.I.8.a - Introduction of or changes to a summary of Pharmacovigilance system - Changes in QPPV (including contact details) and/or changes in the PSMF location | 29/07/2015 product                  | n/a                                            |                                     |                                                                                                                                                               |
+| PSUSA/10008          | Periodic Safety Update EU Single assessment - prepandemic influenza vaccine (h5n1) (surface antigen, inactivated, adjuvanted)                                   | 21/05/2015                          | 28/07/2015                                     | SmPC, Labelling and Package leaflet | Please refer to Aflunov PSUSA/00010008/201410 EPAR: Scientific conclusions and grounds recommending the variation to the terms of the marketing authorisation |
+
+1 Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
+
+2 A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
+
+Medicinal product no longer authorised
+
+3 SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+| IB/0012/G   | This was an application for a group of variations. B.I.c.1.z - Change in immediate packaging of the AS - Other variation B.II.d.1.a - Change in the specification parameters and/or limits of the finished product - Tightening of specification limits B.II.b.3.z - Change in the manufacturing process of the finished or intermediate product - Other variation                                                                                       | 08/09/2014         | n/a                                              |
+|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|--------------------------------------------------|
+| PSUV/0009   | Periodic Safety Update                                                                                                                                                                                                                                                                                                                                                                                                                                   | 08/05/2014         | n/a PRAC Recommendation - maintenance authorised |
+| IG/0426     | C.I.8.a - Introduction of or changes to a summary of Pharmacovigilance system - Changes in QPPV (including contact details) and/or changes in the PSMF location                                                                                                                                                                                                                                                                                          | 11/04/2014 no      | n/a longer                                       |
+| IA/0010/G   | This was an application for a group of variations. B.II.d.1.c - Change in the specification parameters and/or limits of the finished product - Addition of a new specification parameter to the specification with its corresponding test method B.II.d.1.c - Change in the specification parameters and/or limits of the finished product - Addition of a new specification parameter to the specification with its corresponding test method Medicinal | 28/03/2014 product | n/a                                              |
+| II/0007     | Change in immediate packaging of the adjuvant B.I.c.1.b - Change in immediate packaging of the AS - Qualitative and/or quantitative composition                                                                                                                                                                                                                                                                                                          | 19/09/2013         | n/a                                              |
+
+<div style=\"page-break-after: always\"></div>
+
+|             | for sterile and non-frozen biological/immunological ASs                                                                                                                                                                                                                                                                                                                                                                        |            |                |
+|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------------|
+| IA/0008/G   | This was an application for a group of variations. A.4 - Administrative change - Change in the name and/or address of a manufacturer or supplier of the AS, starting material, reagent or intermediate used in the manufacture of the AS A.4 - Administrative change - Change in the name and/or address of a manufacturer or supplier of the AS, starting material, reagent or intermediate used in the manufacture of the AS | 15/08/2013 | n/a authorised |
+| IAIN/0006/G | This was an application for a group of variations. C.I.9.h - Changes to an existing pharmacovigilance system as described in the DDPS - Other change(s) to the DDPS that does not impact on the operation of the pharmacovigilance system C.I.9.g - Changes to an existing pharmacovigilance system as described in the DDPS - Change of the site undertaking pharmacovigilance activities product                             | 30/08/2012 | n/a no longer  |
+| IB/0005/G   | This was an application for a group of variations. B.I.a.4.z - Change to in-process tests or limits applied during the manufacture of the AS - Other variation B.I.b.2.a - Change in test procedure for AS or starting material/reagent/intermediate - Minor Medicinal                                                                                                                                                         | 12/04/2012 | n/a            |
+
+<div style=\"page-break-after: always\"></div>
+
+|           | changes to an approved test procedure                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |                    |                   |                               |                      |
+|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------------|-------------------------------|----------------------|
+| II/0003   | Update of section 4.8 of the SmPC following CHMP request in FUM 004 based on the latest results from study V87P1E1 on cross-reactivity after booster dose. The MAH took this opportunity to update sections 8 and 9 of the SmPC and Annex IIIA to include the Date of First Authorisation and the MA Numbers, and to make a minor editorial change in section 4.6. C.I.3.b - Implementation of change(s) requested following the assessment of an USR, class labelling, a PSUR, RMP, FUM/SO, data submitted under Article 45/46, or amendments to reflect a Core SPC - Change(s) with new additional data | 15/12/2011         | 09/02/2012 longer | SmPC and Labelling authorised | submitted by the MAH |
+| IAIN/0004 | C.I.9.i - Changes to an existing pharmacovigilance system as described in the DDPS - Change(s) to a DDPS following the assessment of the same DDPS in relation to another medicinal product of the same MAH                                                                                                                                                                                                                                                                                                                                                                                               | 18/11/2011 product | n/a no            |                               |                      |
+| IA/0002   | C.I.9.i - Changes to an existing pharmacovigilance system as described in the DDPS - Change(s) to a DDPS following the assessment of the same DDPS in relation to another medicinal product of the same MAH Medicinal                                                                                                                                                                                                                                                                                                                                                                                     | 10/06/2011         | n/a               | Annex II                      |                      |

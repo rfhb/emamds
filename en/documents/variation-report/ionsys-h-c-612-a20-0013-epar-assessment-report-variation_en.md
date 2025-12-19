@@ -1,0 +1,147 @@
+---
+document_datetime: 2023-09-21 19:14:20
+document_pages: 9
+document_pathfilename: www.ema.europa.eu/en/documents/variation-report/ionsys-h-c-612-a20-0013-epar-assessment-report-variation_en.pdf
+document_name: ionsys-h-c-612-a20-0013-epar-assessment-report-variation_en.pdf
+version: success
+processing_time: 2.0285543
+conversion_datetime: 2025-12-19 20:58:05.078405
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+<!-- image -->
+
+ASSESSMENT
+
+REPORT
+
+FOR
+
+IONSYS
+
+London, 16 January 2009 Doc Ref: EMA/317433/2009
+
+Medicinal product no longer authorised International Nonproprietary Name: FENTANYL HYDROCHLORIDE Procedure No. EMEA/H/612/A20/0013 Assessment Report as adopted by the CHMP with all information of a commercially confidential nature deleted.
+
+7 Westferry Circus, Canary Wharf, London, E14 4HB, UK
+
+Tel. (44-20) 74 18 84 00   Fax (44-20) 74 18 86 13
+
+E-mail: mail@emea.europa.eu. http://www.emea.europa.eu
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. BACKGROUND INFORMATION ON THE PROCEDURE
+
+The  European Medicines Agency  (EMEA)  was  made  aware  on  27  September 2008  by  the Marketing  Authorisation  Holder  (MAH),  Janssen-Cilag  International  NV,  of  the  occurrence  of  a quality defect affecting a single batch of IONSYS.
+
+## 1.1 Information about the product, use and manufacture
+
+<!-- image -->
+
+Medicinal product no longer authorised Ionsys is indicated for the management of acute moderate to severe post-operative pain for use in a hospital setting only. It is an iontophoretic transdermal system, which can be activated by the patient in response to pain. Each system contains 10.8 mg fentanyl hydrochloride equivalent to 9.7 mg of fentanyl and delivers 40 micrograms fentanyl per dose, to a maximum of 3.2 mg (80 doses). The product delivers 40 µg per on-demand dose up to a maximum of 240 µg (6 doses each of 10 minutes duration) per hour but not more than a maximum of 80 doses within a 24 hour period. Fentanyl is a synthetic opioid related to the phenylpiperidine class of compounds. It is a highly sensitive  µ-receptor  agonist  and  is  about  100  times  more  potent  than  morphine  as  an  analgesic. Opioids  exert  their  therapeutic  effects  by  mimicking  the  action  of  endogenous  opioid  peptides  at opioid  receptors.  Effects  on  both  local  neurons  and  intrinsic  pain  modulating  circuitry  lead  to analgesia and other therapeutic effects as well as undesirable side effects, the most serious of which is respiratory depression. Ionsys consists of a top housing assembly (device component) and a bottom housing assembly (drug component). The top housing assembly is composed of an injection-molded plastic component that protects the electronics and a printed circuit board assembly (PCBA). Audible tones and a LED are used to indicate dose delivery, duration, number of doses and also to alert the patient to problems with the system. The bottom housing assembly consists of a thermoformed unit containing electrodes and active substance  in  gels  which  include  a  solvent,  a  matrix  polymer,  buffering  agents  and  an  antimicrobial agentA release liner (siliconized polyester film) covers the skin adhesive and both hydrogel formulations and is removed before use. Each iontophoretic transdermal system is packed in a heat sealed sachet that contains a moisture absorber.
+
+<div style=\"page-break-after: always\"></div>
+
+Ionsys  is  manufactured  in  the  U.S.A.  The  product  also  undergoes  full  QC  testing  at  the finished product manufacturer prior to shipment to Europe.
+
+The  product  is  manufactured  in  five  major  steps:  (1)  hydrogel  mixing;  (2)  preparation  of  the bottom assembly; (3) curing; (4) final assembly; (5) packaging. Each system is inspected and tested to verify  functionality  prior  to  placement  inside  a  heat  sealed  pouch  along  with  a  moisture  absorber packet for primary packaging.
+
+## 1.2 Regulatory history of the product
+
+Medicinal product no longer authorised The  product  was  first  authorised  following  CHMP  positive  opinion  on  24  January  2006. During  the  initial  assessment,  non-functioning  devices  were  observed  during  stability  studies  and corrosion of switches was identified as a possible cause. The MAH made design changes) in order to improve reliability. Stability data indicated that at storage conditions below 25 °C no non-functioning systems  were  found  and  a  6  month  shelf-life  was  accepted.  Furthermore,  afunctionality  test  was included  in  the  finished  product  specifications  and  an  instruction  was  given  to  the  dispensing pharmacist to perform a functionality test prior to dispensing. During  the  initial  assessment  the  possibility  of  self-initiating  systems  was  not  reported  or discussed. Corrosion within the device was considered to cause battery depletion resulting in a nonfunctioning  system.  Other  device  malfunctions  such  as  low  output  voltage  or  high  output  current, which might affect drug delivery, would result in a type II error (four beeps repeating continuously) and the system would shut down as a safety precaution. Therefore, it was considered that any device defects would result in the product failing 'safely'. On  9  July  2007  a  meeting  was  held  between  the  Rapporteur  and  the  MAH.  During  this meeting the MAH indicated that IONSYS had not been commercialised, because continuing problems were  occurring  with  a  manufacturing  issue  leading  to  corrosion,  specifically  of  the  switch  on  the printed  circuit  board.  The  result  of  this  corrosion  was  a  system  malfunction  that  resulted  in  noninitiating  systems  (NIS)  and,  occasionally,  self-initiating  systems  (SIS).  It  was  explained  that  water from the hydrogels evaporated into the sealed pouch head space leading to moisture condensing on the printed circuit board and corrosion of the switch. In some circumstances, it had been observed that this induced an intermittent voltage consistent with dose activation and resulting in SIS. A solution to the problem, the inclusion of a moisture absorber, was proposed by the MAH. The Rapporteur agreed, in principle,  and  requested  the  MAH  to  provide  written  confirmation  to  the  CHMP  that  the  product would not be launched until sufficient data were available to support the approval of a type II variation to address the issue. On 19 August 2007 a Type II variation was submitted to change the immediate packaging of the finished product to include a moisture absorber. Stability data were provided for three commercial scale batches stored at long term (25 ± 2°C / 60 ± 5% RH), intermediate (30 ± 2°C / 65 ± 5% RH) and accelerated (40 ± 2°C / 15 ± 5% RH) conditions for 6 months (equal to the shelf-life of the product). Product  quality  attributes  were  within  specifications  and  no  self-initiating  systems  were  observed during testing. On 2 June 2008 a Type IB variation was approved to increase the shelf-life of the product from 6 months to 12 months based on 12 month stability data from the commercial scale batches. Again, no self-initiating systems were reported. Non-initiating systems noted (2 at 30°C/65% RH &amp; 40°C/15%RH respectively) were caused by non-corrosion related single component failure. 1.3 History of the quality defect incident
+
+## September 4th 2008:
+
+A report was received from the clinical packager that systems from a batch of IONSYS were beeping which could be considered as an indication of self-initiating systems. The systems had been sent to the clinical  packager  to  be  over  labelled  for  clinical  purposes.  In  order  for  an  IONSYS  system  to  be activated,  the  On-Demand  Button  must  be  pressed  twice  within  3  seconds,  after  which,  an  audible beep will occur. As the over labelling process requires that a label is manually applied on the primary packaging (foil pouch) and then firmly adhered via a back and forth motion, it was theorised the report of beeping sounds was due to inadvertent button pushes. The initial investigation identified no testing
+
+<div style=\"page-break-after: always\"></div>
+
+or manufacturing issue associated with this lot. However, this theory of inadvertent manual activation during the over labelling process could not be confirmed. To rule out the possibility of Printed Circuit Board (PCB) corrosion a Failure Analysis protocol was initiated on 1170 returned systems from the impacted batch .
+
+## September 23 (PM):
+
+A visual observation of signs of corrosion was made in a small number of units of the impacted batch, which had been returned from the clinical packaging site for execution of the above stated protocol. An  investigation  into  the  root  cause  of  this  occurrence  was  immediately  initiated  to  determine  the scope and any product impact.
+
+- Overall conclusions
+
+Medicinal product no longer authorised September 24 (AM): A precautionary hold was placed on all commercial distribution. The initial investigation focused on an immediate assessment of customer complaint data and batch processing data. Analytical testing was initiated  to  determine  if  the  observation  was  consistent  with  corrosion  that  might  be  a  potential precursor to self-activation of the system. The initial investigation also focused on the pedigree of the impacted batch and linkage to quantities distributed commercially. September 25 (PM): Analytical  test  results  confirmed  the  presence  of  a  form  of  corrosion  in  some  manufacturing  site commercial retains for the impacted batch that is a potential precursor to self-activation of the system (SIS). September 26: Management notification and execution of recall action committees. September 27: A recommendation to initiate a class I recall was made. The class I recall was initiated for all lots of IONSYS distributed commercially and within expiry on September 28 2008. At this point the root cause of the defect had not been identified. The MAH was therefore asked to provide, by 10 November, a complete updated investigation report addressing the below points, for assessment and consideration of any necessary regulatory actions by the CHMP for its November 2008 meeting: · Background  detailed  information  (e.g.  information  about  the  product,  its  manufacturing process and/or use and the complete supply chain for the affected parts of the product) · History of the incident with specific dates when it occurred and/or was observed · Figures and trends of the numbers of affected units · Potential root cause, discussing the possible connections with the previous corrosion problems discussed during assessment of the original application and subsequent variations · Corrective and preventive actions taken or to be taken to eliminate the root cause. · Review of complaint records for reports of similar defects. · Review  of  all  associated  batch  manufacturing,  packaging,  testing  (investigation  testing  or regular stability testing), release and distribution records for anomalies which may explain the suspected defect · Examination, and retesting, if appropriate, of retained samples. · Explain whether and if so why the problem is restricted only to those products/lots identified.
+
+The outcome of the updated MAH investigation report received on the 10 th November 2008 was that the root cause analysis of the product defect was still on-going with a large number of recalled units  not  yet  returned  to  the  manufacturing  site  for  investigation.  No  unusual  issues  with  the manufacturing and testing  of the finished product or its components had been identified except for corrosion of the PCBA.
+
+<div style=\"page-break-after: always\"></div>
+
+Given the re-occurrence of technical difficulties with the device and taking into consideration the potential  safety  risks  associated  with  the  self-initiation  of  the  system,  the  most  serious  effect  being respiratory depression, which could lead to death, a thorough review was required to ensure sufficient evidence  is  available  and  to  ensure  a  consistent  high  level  of  quality  and  safety  of  the  medicinal product.
+
+In  view  of  the  above  the  European  Commission  initiated  a  procedure  under  Article  20  of Regulation (EC) No 726/2004. The European Commission requested the Committee on 19 November 2009 to assess the above concerns and its impact on the risk/benefit balance for Ionsys, and to give its opinion on measures necessary to ensure the safe and effective use of and on whether the marketing authorisation for this product should be maintained, varied, suspended or withdrawn.
+
+Medicinal product no longer authorised 2 SCIENTIFIC DISCUSSION 2.1 Introduction The MAH has initiated a root cause analysis to identify and confirm possible factors that could contribute  to  corrosion  on  the  printed  circuit  board  assembly  (PCBA)  of  the  product.  Based  upon current  reviews  of  quality  data,  product  evaluations,  and  previously  investigated  failure  modes,  the MAH has focussed on three primary areas. 1) Final IONSYS system assembly 2) Printed Circuit Board Assembly (PCBA) manufacture 3) Moisture absorber manufacture The investigation will be inclusive of all lots since product introduction Quality Data Review Since the marketing of the product in January 2008, functional complaint field reports have been received at a rate that is within anticipated report levels and there are no trends with complaint category or lot number. There have been 10 functional complaint field reports for which defects have been confirmed. Only one of these reports concerned corrosion to the PCBA board, with the potential for self-initiation (which was from the impacted batch that prompted the recall). After the recall, a complaint report was received regarding a unit fromanother batch, which had a flashing LED without being activated i.e. potential self-initiation of the unit. The PCBA board was found to have full functionality and no corrosion or other discrepancy was found. Manufacturing, QC testing and EU release testing Review  of  all associated batch  manufacturing,  packaging,  testing, release testing  and distribution  records  has  not  identified  an  issue  or  discrepancy  that  may  explain  this  occurrence. All  batches  have  been  manufactured,  tested,  and  released  in  accordance  with  all  requirements  and specifications. This includes 100% functional screening of each unit and 100% weight verification to ensure each pouch contains a moisture absorber packet. Stability review The first three commercially produced lots were placed on stability for evaluation and have not shown any issues to date (9 months). A review of the analytical records revealed nothing unusual that could have caused the corrosion defect.
+
+<!-- image -->
+
+The MAH has submitted 12 months of stability data for the product in its current marketed form in  support  of  the  type  1B  variation  to  extend  the  shelf  life  from  6  months  to  12  months.  No significant  trends  were  observed  over  time,  except  for  a  decrease  in  adhesion,  which  was  within specification.  Electrical  and  electronic  function  test  data  show  that  the  product  device  performs consistently over time. At 30°C/65% RH, one non-initiating system (NIS) out of 315 units tested was detected at 3 months and 12 months (different batches); at 40°C/15%RH, one non-initiating system (NIS) out of 315 units tested failed at 2 months and 6 months (different batches). No corrosion was observed, and these NIS were attributed to a non-corrosion related single component failure.
+
+<div style=\"page-break-after: always\"></div>
+
+## Printed Circuit Board Assembly (PCBA)
+
+The MAH has reviewed all batch documentation relating to the PCBA and no potential cause of the defect has been identified; however, the investigation is on going.
+
+The MAH has carried out a visual inspection of the PCBA on reserve samples from 5 lots including  the  batch  that  initiated  the  recall  ),  in  addition  to  the  units  returned  from  the  clinical packager .
+
+The visual inspection was to determine if corrosion of the PCBA was present.
+
+Medicinal product no longer authorised Summary of Visual Inspection Of the units from 5 lots inspected one lot had 5 PCBA units (out of 238 units tested) with corrosion defect unlikely to cause self initiation The lot that initiated the recall  had 152 PCBA units (out of 3,090 units tested) with corrosion defect likely to cause self initiation and 406 PCBA units (out of 3,090 units tested) with corrosion defect unlikely to cause self initiation and a final lot had 1 PCBA units (out of 158 units tested) with corrosion defect unlikely to cause self initiation Corrosion likely to cause self-initiation is when the observed corrosion extends over half way between points of contact and a bridging event is possible. Corrosion unlikely to cause self-initiation is when observed corrosion is less than half way between points of contact and a bridging event is not possible. SEM  analysis  has  confirmed  corrosion  likely  to  cause  self-initiation.  Additional  testing  is ongoing. The corrosion observed in the impacted batch was observed on PCBA itself whereas than previously observed corrosion was observed in a different location around the switch. Moisture Absorber The moisture absorbers used in the impacted batch complied with quality specification. No issues were observed during the manufacture of the moisture absorber and all units inspected to date have been packed with a moisture absorber (the presence of a moisture absorber is a quality control check that is carried out before the unit is used by a patient, as stated in the SPC) There  are  no  signs  of  general  moisture  condensation  in  any  other  parts  of  the  PCBA, indicating  a  failure  in  the  moisture  absorber.  The  MAH  has  consequently  excluded  the  moisture absorber as a potential root cause for the defect. Discussion and Conclusions The  MAH has initiated  a  root  cause  analysis  of  the  product  defect,  which  is  still  ongoing. The MAH has not found any unusual issues with the manufacturing and testing of the finished product or its components except for corrosion of the PCBA. Corrosion of the PCBA is a known precursor to self-initiation  of  the  units.  Corrosion  of  the  PCBA  likely  to  cause  self-initiation  is  predominantly observed in theimpacted batch, which prompted the product recall. Corrosion unlikely to cause selfinitiation has been observed in other lots..
+
+The MAH has also received another report of a potential self-initiating system, not linked to corrosion of the PCBA, which is a concern given the history of product defects with the PCBA in this product.
+
+Stability data received to date show compliance with the shelf life specification and supports the current shelf life and storage conditions. The PCBA performed consistently over time; only one non-initiating system (NIS) out of 315 units tested were observed four times in the 12 months of real time stability testing provided.
+
+<div style=\"page-break-after: always\"></div>
+
+This is the second time where corrosion of the PCBA has been observed, a known precursor to potential self-initiation of the unit, which, given the active substance, may increase the likelihood of overdose and/or respiratory depression, leading to death.
+
+The company has acknowledged that they are unable to confirm the specific root cause of the problem  at  this  time.  Furthermore,  the  current  quality  control  strategies  in  place  at  both  product manufacture and EU QC test sites has been unable to detect PCBAs that have developed corrosion and potential self-initiation of the unit.
+
+## 2.2 Clinical aspects
+
+Medicinal product no longer authorised Device  defects  and  associated  adverse  events  reported  to  the  competent  authorities  in  the European Union since EU launch date 14 th January 2008. Sources of Data The CHMP reviewed all the available safety data, including the latest PSUR and a review of the MAH post-marketing  database.  A  search  was  also  performed  in  the  Medicines  and  Healthcare  products Regulatory Agency (MHRA) safety database. PSUR number 5 (reporting period 01/11/07-30/04/08) The MAH provided all reports classified under the Injury and poisoning System Organ Class (SOC) and included the term procedural complaints which is not listed in this MedDRA SOC. There were 9 reports  of  device  malfunction;  3  of  which  were  not  associated  with  any  adverse  event,  4  were associated with application site reactions and 2 reported 'drug ineffective.' There were no serious adverse events associated with device malfunction, in particular there were no reports of self-activation or overdose as a result. There  were  no  cases  of  overdose  and/or  respiratory  depression  reported  in  the  PSUR  time period.. There was one case described in the line listings as 'hypoventilation' from a 'study' in a 55 year old female but no further details were provided. Spontaneous reports in the MHRA ADR database A search performed using the product name 'IONSYS' and the Injury and Poisoning SOC provides no reports for the entire time period of the database. A search using the generic name, fentanyl, provided 15 reports in the Injury and Poisoning SOC between 31 st December 2007 and 29 th October 2008. None of the reports were associated with the Ionsys device. A Business Objects search was performed by the scientific assessor responsible for forwarding device defect reports was conducted. No cases were retrieved. No cases of overdose  and/or  respiratory  depression  associated  with  the  use  of  Ionsys  were retrieved. Adverse events reported in the MAH's report dated 10/11/2008 A Health Hazard Evaluation report, completed on 29/09/2008 and based on a review of the post marketing safety database for adverse events up to 26/09/2008, found 13 cases reporting overdose and/or respiratory depression associated with fentanyl hydrochloride. None of these cases were serious events  or  were  attributed  to  a  product  quality  defect.  However  the  cases  were  not  sufficiently documented.to be conclusive.Furthermore, the MAH has reviewed the database up to 28/10/2008 and there were no new cases and no further follow up information on the existing cases.
+
+## Conclusion
+
+No serious adverse events associated with the use of Ionsys were reported in the period from 31 st December 2007- 29 th October 2008. However more details are needed about the 13 cases reporting overdose and/or respiratory depression whilst using Ionsys in an expedited manner.
+
+Adverse  events  reported  in  the  last  MAH  PSUR  associated  with  device  malfunction  were related to lack of efficacy and application site reactions.
+
+There  are  no  cases  of  device  malfunction  resulting  in  self  activation  of  the  device  and unintentional overdose.
+
+<div style=\"page-break-after: always\"></div>
+
+## 2.3 Action plan
+
+## Reconciliation of Product Recall
+
+Reconciliation is complete - 100% of all systems available for return to the MAH from the four lots recalled have been returned.
+
+## Communication plan
+
+A  Direct  Healthcare  Professionals  Communication  designed  to  inform  prescribers  and pharmacists of the observed quality defect of the product and the subsequent product recall was sent on 28 September 2008.
+
+Medicinal product no longer authorised 3.       FOLLOW-UP MEASURES As a result of the total recall of the product from the market and the CHMP recommendation to suspend the Marketing Authorisation, the MAH informed the Committee of their inability to meet the deadlines  agreed  for  ongoing  Follow-up  measures  (FUMs)  until  a  forward  plan  for  re-introduction onto the market is agreed. 4       OVERALL DISCUSSION AND BENEFIT RISK ASSESSMENT The  MAH  has  initiated  a  root  cause  analysis  of  the  product  defect,  which  is  still  ongoing. The MAH has not found any unusual issues with the manufacturing and testing of the finished product or its components except for corrosion of the PCBA. Corrosion of the PCBA is a known precursor to self-initiation  of  the  units.  Corrosion  of  the  PCBA  likely  to  cause  self-initiation  is  predominantly observed  in  the  impacted  batch,  which  prompted  the  product  recall,  although  corrosion  unlikely  to cause self-initiation has been observed in other lots. However, the criteria for defining the likelihood of self-initiation due to corrosion seem to be rather arbitrary. Adverse events reported in the last PSUR associated with device malfunction were related to lack of efficacy and application site reactions. There are no cases of device malfunction resulting in self activation of the device and unintentional overdose. No serious adverse events associated with the use of Ionsys were reported to the MHRA in the period from 31 st December 2007- 29 th October 2008. However, this is the second time in the product lifecycle, where corrosion of the PCBA has been  observed,  a  known  precursor  to  potential  self-initiation  of  the  unit,  which  may  increase  the likelihood of overdose. The safety concerns associated with a potential overdose are serious, since it may cause respiratory depression, which could lead to death. In addition the MAH is unable to confirm the specific root cause of the problem at this time. Stability  testing  of  the  units  has  not  revealed  any  further  insight  into  the  cause  of  the  defect. Furthermore, the quality control strategies currently in place at both manufacturing and testing sites has been inadequate to detect PCBAs that have developed corrosion and potential self-initiation of the unit and the quality system of the MAH has been unable to resolve the recurrent problems with the PCBA and to prevent the occurrence of this quality defect. In view of the above data the CHMP considered that at the time of the Opinion, the benefit/ risk balance  for  Ionsys  was  negative  and  recommended  the  suspension  of  the  Marketing  Authorisation until such a time that the MAH can robustly demonstrate the quality of the product. The MAH  has accepted the CHMP  recommendation and has not requested an Oral Explanation.
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## 5        CONCLUSION AND GROUNDS FOR THE OPINION
+
+The CHMP reviewed the information provided by the MAH from its investigations into the root  cause  of  the  defect.  This  included  background  detailed  information,  history  of  the  incident, potential root cause discussing the possible connections with the previous corrosion problems observed during assessment of the original application and subsequent variations, review of complaint records for reports of similar defects, batch release, QC record and stability data reviews.
+
+Medicinal product no longer authorised The  root  cause  analysis  initiated  by  the  MAH  is  still  ongoing  and  has  yet  to  confirm  the specific  cause  of  the  defect.  No  unusual  issues  with  the  manufacturing  and  testing  of  the  finished product  or  its  components  have  been  identified  except  for  corrosion  of  the  printed  circuit  board assembly (PCBA). Corrosion of the PCBA is a known precursor to potential self-initiation of the unit, which, given the active substance, may increase the likelihood of potential overdose and/or respiratory depression, leading to death. Given the fact that: -The root cause of the quality defect has yet to be confirmed -The  existing  quality  control  strategies  at  both  product  manufacturing  and  testing  sites  for  the product  was  not  able  to  detect  PCBAs  that  have  developed  corrosion  leading  potential  selfinitiation of the unit -The quality system of the MAH, at that time, has been unable to resolve the problems with the PCBA and to prevent the occurrence of this quality defect. -The serious side effects that may be caused from the self-initiation of the unit, the  Committee concluded that the benefits of Ionsys do not longer outweigh its risks and therefore recommended the suspension of the Marketing Authorisation. For the suspension to be lifted, the MAH should provide the Committee with evidence that the quality of the product can be robustly demonstrated. The following requirements must be fulfilled before the suspension of the MA can be lifted: -The root cause of the quality defect needs to be confirmed and adequately mitigated. -It  should  be  demonstrated  that  the  quality  control  strategies  are  appropriate  to  identify  detect PCBAs that have developed corrosion leading to malfunctioning or self-initiating units -It  should  be  demonstrated  that  the  quality  system  of  the  MAH  is  sufficient  to  prevent  the reoccurrence of such a defect -Details of the 13 cases reporting overdose and/or respiratory depression associated with fentanyl hydrochloride present in the company safety database in an expedited manner should be provided.

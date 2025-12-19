@@ -1,0 +1,180 @@
+---
+document_datetime: 2023-09-21 18:15:54
+document_pages: 9
+document_pathfilename: www.ema.europa.eu/en/documents/scientific-discussion-variation/trudexa-h-c-482-ii-06-epar-scientific-discussion-variation_en.pdf
+document_name: trudexa-h-c-482-ii-06-epar-scientific-discussion-variation_en.pdf
+version: success
+processing_time: 6.5932093
+conversion_datetime: 2025-12-19 04:17:18.688518
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+---
+London, 22 April 2004 Product name TRUDEXA Procedure No: EMEA/H/C/482/II/06
+
+## Medicinal Product no longer authorised SCIENTIFIC DISCUSSION
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. Introduction
+
+Medicinal Product no longer authorised In this variation procedure, the MAH applied to introduce the extension of the therapeutic indication for Trudexa to include inhibition of structural damage in rheumatoid arthritis patients. Consequential changes to section 5.1 of the SPC and section 2 of the PL were also proposed. 2. Background The  dossier  consisted  of  two-year  open-label  extension  (DE019  OLE)  data  from  the  previously assessed pivotal trial DE019. 3. Efficacy Study design Twelve-month data from the DE019 trial were assessed for the Marketing Authorisation (MA) of the currently  approved  indication.  Briefly,  DE  019  enrolled  adult  patients  (mean  age  56  years)  with chronic  (mean  disease  duration  130  months),  moderate  to  severe,  active  RA.  With  few  exceptions, patients  had  failed  on  at  least  one  previous  DMARD,  including  methotrexate  (MTX).  The  first  12 months were a double blind phase, where adalimumab (20 mg weekly or 40 mg every other week) was compared  with  placebo  as  add-on  to  MTX.  During  the  extension  period  of  up  to  two  years (DE019OLE),  all  patients  received  open-label  adalimumab,  40  mg  eow.  Study  flow  and  subject disposition are given in Figure 1.
+
+<div style=\"page-break-after: always\"></div>
+
+## Figure 1.
+
+## Subject Disposition DE019 / DE019OLE
+
+<!-- image -->
+
+This  was  evaluated  by  changes  in  TSS  during  the  second  year  of  treatment  compared  to  Week  52. The Week 104 TSS change was defined as Week 104 TSS minus Week 52 TSS.  The primary measure was the percentage of subjects with no progression, defined as a change in TSS ≤ 0 during the second year of treatment with adalimumab.  If ≥ 50% of subjects observed a difference of ≤ 0 units in Week 104 TSS change, or if the lower confidence limit of the observed percentage of subjects with no Week 104  TSS  change  is ≥ 37%,  the  two-year  open-label  TSS  data  demonstrate  sustained  inhibition  of radiographic structural damage.
+
+Medicinal Product no longer authorised Randomized and entered into Study DE019 N = 619 Adalimumab 20 mg weekly n = 212 Adalimumab 40 mg eow n = 207 Placebo n = 200 Withdrawn during Study DE019 N = 152 Adalimumab 20 mg weekly n = 44 Adalimumab 40 mg eow n = 48 Placebo n = 60 Completed Study DE019 N = 467 Adalimumab 20 mg weekly n = 168 Adalimumab 40 mg eow n = 159 Placebo n = 140 A total of 10 subjects decided not to participate in Study DE019 OLE Entered into Study DE019 OLE N = 457 Previous blinded treatment Adalimumab 20 mg weekly n = 165 Adalimumab 40 mg eow n = 158 Placebo n = 134 Withdrawn during Study DE019 OLE N = 42 Adalimumab 20 mg weekly n = 18 Adalimumab 40 mg eow n = 12 Placebo n = 12 Completed Study DE019 OLE N = 415 Previous blinded treatment Adalimumab 20 mg weekly n = 147 Adalimumab 40 mg eow n = 146 Placebo n = 122 Methods Trial DE019 had  three  co-primary endpoints, hierarchically arranged as follows, to preserve overall α =0.05: 1. ACR20 responder rate at 24 weeks 2. Change from baseline in modified total Sharp X-ray score (TSS) at week 52 3. Change from baseline in disability by HAQ (Health Assessement Questionnaire) at week 52 Significance  testing  was  done  following the  closure  principle  (overall  effect  followed  by individual doses vs. placebo). For DE019OLE , the following primary criteria relevant to the current application were prospectively defined in the analysis plan: 9 Sustained inhibition of structural damage for subjects originally receiving adalimumab in DE019
+
+<div style=\"page-break-after: always\"></div>
+
+- 9 Maintenance  of  improved  physical  function  for  subjects  originally  receiving  adalimumab  in DE019
+
+|                                                                     | longer Adalimumab   | longer Adalimumab   |                  |
+|---------------------------------------------------------------------|---------------------|---------------------|------------------|
+|                                                                     | 20 mg weekly        | 40 mg eow           | Placebo          |
+| ACR20 responders (as observed)                                      |                     |                     |                  |
+| Week 24 N (%)                                                       | 129 (60.8%) a       | 131 (63.3%) a       | 59 (29.5%)       |
+| Week 52 N (%)                                                       | 116 (54.7%) a       | 122 (58.9%) a       | 48 (24.0%)       |
+| Modified Total Sharp X-ray Score (extrapolated) Mean Change From    |                     | Baseline            |                  |
+| Change at Week 52                                                   | no                  |                     |                  |
+| Mean ± SD                                                           | 0.8 ± 4.9           | 0.1 ± 4.8           | 2.7 ± 6.8        |
+| Median (Range)                                                      | 0.0 (-14.5-50.5) c  | 0.0 (-37.0-23.5) c  | 1.0 (-25.0-39.0) |
+| Percentage with ∆ TSS ≤ 0                                           | 58%                 | 62%                 | 46%              |
+| Disability Index of the HAQ Mean Change From Baseline (as observed) |                     |                     |                  |
+| Change at Week 52                                                   |                     |                     |                  |
+| Mean ± SD                                                           | -0.69 ± 0.55 a      | -0.64 ± 0.57 a      | -0.34 ± 0.54     |
+| Percentage with HAQ ≥ 0.5 response                                  | 66%                 | 60%                 | 35%              |
+
+a
+
+b
+
+c
+
+Medicinal Product no longer authorised Maintenance of improved physical function during Study DE019 OLE was defined as the percentage of subjects who achieved a 0.5 units or greater improvement in Week 52 HAQ DI ( i.e. , HAQ DI 0.5 responder), and then maintained an improvement of at least 0.5 units in HAQ DI through Week 104. Maintenance  of  improved  physical  function  was  demonstrated  if  75%  of  HAQ  DI  0.5  responder subjects  (with  lower  confidence  limit ≥ 60%) at Week 52 maintained responder status at Week 104 (LOCF, Last Observation Carried Forward). A number of secondary efficacy assessments relating to ACR, TSS and HAQ were predefined. Results Results from DE019 are summarised in Table 1. The findings had been discussed in greater detail in the initial assessment for the Marketing Authorisation. Table 1. Efficacy Endpoints of Study DE019 by Randomised Treatment Group (FAS) Modified Total Sharp X-ray Score (extrapolated) Mean Change From Baseline Disability Index of the HAQ Mean Change From Baseline (as observed) Statistically significantly different from placebo (p ≤ 0.001). Statistically significantly different from placebo (p ≤ 0.01) based on median values. Statistically significantly different from placebo (p ≤ 0.001) based on median values. Bolded parameters represent the primary efficacy endpoints of the study. The effects on TSS components joint space narrowing and erosion on score were consistent. It was noted that the population studied in DE019 had rather low ongoing erosion activity, with 46% of patients in the placebo group showing no deterioration in TSS M0-M12 . The CPMP opinion during the initial assessment  was  that  two-year  data  would  be  necessary  for  reassurance regarding maintenance of clinically relevant effect. Efficacy on HAQ was considered clinically relevant and was already mentioned in section 5.1 of the SPC. Results from DE019OLE are discussed below.
+
+<div style=\"page-break-after: always\"></div>
+
+## Radiographic progression
+
+Analysis according to the primary endpoint is  summarised in Table  2 (all treated subjects set  =  all subjects treated during DE019OLE).
+
+|                                            | Treatment Assignment in Study DE019   | Treatment Assignment in Study DE019   | Treatment Assignment in Study DE019    |
+|--------------------------------------------|---------------------------------------|---------------------------------------|----------------------------------------|
+| Total Sharp Score                          | 20 mg weekly (N = 165) n (%)          | 40 mg eow (N = 158) n (%)             | All Adalimumab (N = 323) n (%, 95% CI) |
+| Subjects with no change or decreased score | 87 (52.7)                             | 88 (55.7)                             | 175 ( 54.2 , 48.7-59.6)                |
+| Subjects with increased score              | 65 (39.4)                             | 64 (40.5)                             | 129 (39.9, 34.6-45.3)                  |
+| Missing                                    | 13 (7.9)                              | 6 (3.8)                               | 19 (5.9, 3.3-8.4)                      |
+
+| Week 104 TSS         | Visit    | Treatment               |   N | Mean (95% CI)   |   Median |
+|----------------------|----------|-------------------------|-----|-----------------|----------|
+| Change from baseline | Week 52  | Adalimumab              | 305 | -0.4 (-1.1;0.4) |      0   |
+|                      |          | Placebo                 | 123 | 3.0 (1.8;4.3)*  |      0.5 |
+|                      | Week 104 | no Adalimumab in DE 019 | 304 | 0.4 (-0.5;1.4)  |      0   |
+|                      |          | Placebo in DE019        | 121 | 3.8 (2.1;5.5)*  |      0.5 |
+| Change from Week 52  | Week 104 | Adalimumab in DE 019    | 304 | 0.8 (-0.2;1.8)  |      0   |
+|                      |          | Placebo in DE019        | 121 | 0.9 (0.0;1.7)*  |      0   |
+
+Medicinal Product no longer authorised Table 2. Sustained Inhibition of Structural Damage as Measured by the change in TSS between Week 52 and Week 104 (All Treated Subjects) eow:  every other week Criteria  for  'sustained  inhibition  of  radiographic  progression'  were,  thus,  fulfilled.  An  analysis including  only  patients  with  X-rays  available  during  DE019OLE  (N=304)  produced  similar  results ( ∆ TSS ≤ 0 in 175/304, 57.6%) Change in TSS from DE019 baseline through Week 104 is given in Table 3 Table 3. Summary of change from baseline in modified TSS (All treated subjects) * Statistically significant based on 95% CI (paired t-test) Effects  on  TSS  components  erosion  score  and  JSN  were  consistent  with  those  for  overall  TSS. Subgroup  analyses  did  not  reveal  clinically  important  differences  with  regard  to  sex,  age,  race, corticosteroid use, or duration of RA. The CPMP considered that the interpretation is hampered by the lack of a placebo control group for the second year. The MAH justifies this by reference to ethical and feasibility aspects. Considering the low  underlying  progression  rate  in  the  population  studied  (46%  non-progressors  for  TSS  in  the placebo group during M0-M12), the outcome in the primary analysis may not provide very impressive support for sustained effect. Second-year data for patients treated with adalimumab in DE019 suggest some resumption of erosive activity. On the other hand, DE019OLE findings for the original placebo group support efficacy of adalimumab on  progression  of  joint  damage  as  noted  in  DE019.  Differences  between  groups  treated  with adalimumab M0-M24 and M12-M24, respectively, remain significant at the two-year evaluation and do not appear reduced, compared with at one year. Overall, sustained effects of adalimumab on the rate of progression of joint damage are considered acceptably documented.
+
+<div style=\"page-break-after: always\"></div>
+
+## Disability by HAQ
+
+As  described  above  effects  of  adalimumab vs. placebo  on  disability  by  HAQ  were  reasonably convincing at 12 months in DE019. Similar findings were made in other trials. The 0.5 MCID criterion chosen for analysis in DE19OLE is considered relevant. Outcome for the primary analysis is given in Table 4 and supports maintained response in a relevant fraction of patients. Similar conclusions could be made for other HAQ MCIDs (0.22, 0.75, 1.0).
+
+|                                           | Treatment Assignment in Study DE019   | Treatment Assignment in Study DE019   | Treatment Assignment in Study DE019   |
+|-------------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
+|                                           | 20 mg weekly n (%)                    | 40 mg eow n (%)                       | All Adalimumab n (%, 95% CI)          |
+| 0.50 HAQ DI responders at Week 52         | 109                                   | 95                                    | 204                                   |
+| 0.50 responders at Week 104 (LOCF)        | 87 (79.8)                             | 80 (84.2)                             | 167 ( 81.9 , 76.6 - 87.2)             |
+| 0.50 responders at Week 104 (as observed) | 76 (69.7)                             | 76 (80.0)                             | 152 ( 74.5 , 68.5 - 80.5)             |
+
+|                 |           | Treatment Assignment in Study DE019   | Treatment Assignment in Study DE019   | Treatment Assignment in Study DE019   |
+|-----------------|-----------|---------------------------------------|---------------------------------------|---------------------------------------|
+| ACR Response    | Product   | 20 mg weekly (N = 165) n (%)          | 40 mg eow (N = 158) n (%)             | All Adalimumab (N = 323) n (%)        |
+| ACR20 Responder | Week 54 a | 107 (64.8)                            | 109 (69.0)                            | 216 (66.9)                            |
+|                 | Week 104  | 99 (60.0)                             | 101 (63.9)                            | 200 (61.9)                            |
+| ACR50 Responder | Week 54 a | 78 (47.3)                             | 83 (52.5)                             | 161 (49.8)                            |
+|                 | Week 104  | 67 (40.6)                             | 75 (47.5)                             | 142 (44.0)                            |
+| ACR70 Responder | Week 54 a | 47 (28.5)                             | 38 (24.1)                             | 85 (26.3)                             |
+|                 | Week 104  | 45 (27.3)                             | 47 (29.7)                             | 92 (28.5)                             |
+
+a
+
+Medicinal Product no longer authorised Table 4. Maintenance of  Improved  Physical  Function:  Preservation  of  the  HAQ  DI  for 0.50 Responders (Week 52 HAQ DI 0.50 Responder Subset Subjects) eow:  every other week, LOCF:  last observation carried forward ACR ACR  responder  data  from  DE019OLE  are  summarised  in  Table  5  and  support  class-typical maintenance of efficacy. Table 5. ACR Responses (All Treated Subjects) Week 54 is entry visit for Study DE019 OLE Subjects who withdrew prematurely, or who took additional DMARDs during the study, were counted as non-responders. As observed data is presented.
+
+<div style=\"page-break-after: always\"></div>
+
+## 4. Safety
+
+## Patient exposure
+
+<!-- image -->
+
+|                                                     | Treatment Assignment During Study DE019             | Treatment Assignment During Study DE019             | Treatment Assignment During Study DE019             | Study DE019 OLE                                     |
+|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
+|                                                     | 20 mg weekly (N = 165)                              | 40 mg eow (N = 158)                                 | Placebo (N = 134)                                   | 40 mg eow (N = 457)                                 |
+| Duration of Treatment During Study DE019 OLE (days) | Duration of Treatment During Study DE019 OLE (days) | Duration of Treatment During Study DE019 OLE (days) | Duration of Treatment During Study DE019 OLE (days) | Duration of Treatment During Study DE019 OLE (days) |
+| N                                                   | 165                                                 | 158                                                 | 134                                                 | 457                                                 |
+| Mean ± SD                                           | 336.9 ± 79.5                                        | 350.7 ± 53.1                                        | 343.3 ± 73.5                                        | 343.6 ± 69.6                                        |
+| Median                                              | 365.0                                               | 365.0                                               | 365.0                                               | 365.0                                               |
+| Range                                               | 15.0 - 392.0                                        | 85.0 - 392.0                                        | 16.0 - 382.0                                        | 15.0 - 392.0                                        |
+| longer Number of Injections                         | longer Number of Injections                         | longer Number of Injections                         | longer Number of Injections                         | longer Number of Injections                         |
+| N                                                   | 165                                                 | 158                                                 | 133                                                 | 457 a                                               |
+| Mean ± SD                                           | 23.6 ± 5.7                                          | 24.6 ± 3.9                                          | 23.6 ± 5.4                                          | 24.0 ± 5.1                                          |
+| Median                                              | 26.0                                                | 26.0                                                | 26.0                                                | 26.0                                                |
+| Range                                               | 1.0 - 26.0                                          | 6.0 - 26.0                                          | 1.0 - 26.0                                          | 1.0 - 26.0                                          |
+| Cumulative Dose of Adalimumab (mg)                  | Cumulative Dose of Adalimumab (mg)                  | Cumulative Dose of Adalimumab (mg)                  | Cumulative Dose of Adalimumab (mg)                  | Cumulative Dose of Adalimumab (mg)                  |
+| N                                                   | 165                                                 | 158                                                 | 133                                                 | 456                                                 |
+| Mean ± SD                                           | 945.7 ± 229.1                                       | 983.8 ± 157.2                                       | 945.9 ± 215.2                                       | 958.9 ± 203.0                                       |
+| Median                                              | 1040.0                                              | 1040.0                                              | 1040.0                                              | 1040.0                                              |
+| Range                                               | 40.0 - 1040.0                                       | no 240.0 - 1040.0                                   | 40.0 - 1040.0                                       | 40.0 - 1040.0                                       |
+
+Medicinal Product no longer authorised Exposure data from DE019 plus DE019OLE are summarised in Table 6. Table 6. Extent of Exposure (Safety Set) a  Table 14.3\\_\\_1 listed 456 subjects receiving drug because one subject did not have drug compliance entries in the database but participated in the study through Week 104. eow:  every other week; SD:  standard deviation
+
+<div style=\"page-break-after: always\"></div>
+
+## Adverse events
+
+An overview of most frequent treatment-emergent AEs is given in Table 7. There were no relevant differences between OLE period and DE019 as a whole.
+
+| Treatment-Emergent a Adverse Event b,c   | Study DE019 OLE Prior Adalimumab (N = 323) n (%)   | Study DE019 OLE Prior Placebo (N = 134) n (%)   | Study DE019 OLE All Subjects (N = 457) n (%)   | Study DE019 All Adalimumab (N = 419) n (%)   |
+|------------------------------------------|----------------------------------------------------|-------------------------------------------------|------------------------------------------------|----------------------------------------------|
+| Upper respiratory infection              | 48 (14.9)                                          | 18 (13.4)                                       | 66 (14.4)                                      | 82 (19.6)                                    |
+| Rhinitis                                 | 38 (11.8)                                          | 18 (13.4)                                       | 56 (12.3)                                      | 71 (16.9)                                    |
+| Clinical flare reaction                  | 45 (13.9)                                          | 9 (6.7)                                         | 54 (11.8)                                      | 20 (4.8)                                     |
+| Accidental injury                        | 39 (12.1)                                          | 14 (10.4)                                       | 53 (11.6)                                      | 57 (13.6)                                    |
+| Sinusitis                                | 30 (9.3)                                           | 21 (15.7)                                       | 51 (11.2)                                      | 64 (15.3)                                    |
+| Arthralgia                               | 27 (8.4)                                           | 8 (6.0)                                         | 35 (7.7)                                       | 43 (10.3)                                    |
+| Joint disorder                           | 25 (7.7)                                           | 5 (3.7)                                         | 30 (6.6)                                       | 27 (6.4)                                     |
+| Flu syndrome                             | 20 (6.2)                                           | longer 10 (7.5)                                 | 30 (6.6)                                       | 21 (5.0)                                     |
+| Urinary tract infection                  | 22 (6.8)                                           | 7 (5.2)                                         | 29 (6.3)                                       | 38 (9.1)                                     |
+| Bronchitis                               | 21 (6.5)                                           | 7 (5.2)                                         | 28 (6.1)                                       | 29 (6.9)                                     |
+| Infection                                | 13 (4.0)                                           | 12 (9.0)                                        | 25 (5.5)                                       | 48 (11.5)                                    |
+| Rash                                     | 15 (4.6)                                           | 10 (7.5)                                        | 25 (5.5)                                       | 42 (10.0)                                    |
+| Hypertension                             | 16 (5.0)                                           | no 8 (6.0)                                      | 24 (5.3)                                       | 28 (6.7)                                     |
+| Asthenia                                 | 16 (5.0)                                           | 7 (5.2)                                         | 23 (5.0)                                       | 32 (7.6)                                     |
+| Back pain                                | 16 (5.0)                                           | 7 (5.2)                                         | 23 (5.0)                                       | 32 (7.6)                                     |
+| Surgery                                  | 18 (5.6)                                           | 5 (3.7)                                         | 23 (5.0)                                       | 25 (6.0)                                     |
+
+Medicinal Product no longer authorised Table 7. Number (%) of Subjects with Most Frequently Reported ( ≥ 5% of Subjects)Treatment-Emergent Adverse Events in Study DE019 OLE (Safety Set Subjects) a Treatment-emergent AEs were defined as AEs that were reported between Week 52 through Week 104 for subjects still participating in the study at Week 104 and Week 52 through &lt; 70 days after the last dose of study drug for those who prematurely withdrew from the study. b Occurring in ≥ 5% of subjects in Study DE019 OLE. c More than one AE category per subject possible. Deaths and Adverse events of specific interest There were three deaths during the OLE phase, one case each of interstitial pneumonia, sepsis, and small bowel infarction. Serious infectious AEs occurred in similar proportions (3.8% vs. 3.7% of subjects) in  adalimumabtreated  patients  in  DB  and  OLE  phases,  respectively.  There  were  three  cases  of  granulomatous infection (one TB, two Histoplasmosis) during OLE, compared with two cases during DB. Demyelinating disorder compatible with MS was diagnosed in one case during OLE and in one case during DB. Malignancies were diagnosed in 1.9% and 2.0% during DB and OLE phases, respectively. No case of autoantibody development was noted during DE019 plus DE019OLE.
+
+<div style=\"page-break-after: always\"></div>
+
+## 5. Benefit-risk assessment
+
+Medicinal Product no longer authorised To document sustained benefit of Trudexa on progression of joint damage  and disability, the MAH submitted 24month OLE data from the previously assessed trial DE019. Although the trial design with lack of control group during the second year is not ideal to assess long-term efficacy, the data presented provide acceptable reassurance that the effect of adalimumab on progression of joint damage, established at one year, is not lost with long-term treatment up to two years. Data on ACR and HAQ support continued efficacy for symptoms and signs and disability, respectively, as expected for this class of agents. The safety data raise no new concerns. III. CONCLUSION The CPMP considered this Type II variation to be acceptable and agreed on the proposed wordings to be introduced into the Summary of Product Characteristics, Labelling and Package Leaflet based on the observations and the appropriate conclusions. The CPMP adopted on 22 April 2004 an Opinion on a Type II variation to be made to the terms of the Community Marketing Authorisation.

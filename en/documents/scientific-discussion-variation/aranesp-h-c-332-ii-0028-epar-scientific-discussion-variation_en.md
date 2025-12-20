@@ -1,0 +1,59 @@
+---
+document_datetime: 2023-09-21 17:01:04
+document_pages: 3
+document_pathfilename: www.ema.europa.eu/en/documents/scientific-discussion-variation/aranesp-h-c-332-ii-0028-epar-scientific-discussion-variation_en.pdf
+document_name: aranesp-h-c-332-ii-0028-epar-scientific-discussion-variation_en.pdf
+version: success
+processing_time: 0.684833
+conversion_datetime: 2025-12-20 11:48:06.339519
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## SUMMARY OF THE SCIENTIFIC DISCUSSION
+
+## Product name: ARANESP
+
+<div style=\"page-break-after: always\"></div>
+
+Following the  publication  of  two  clinical  studies  showing  an  increased  mortality  in  cancer  patients who were administered epoetin alfa ( Leyland-Jones B, 2003 )  or  epoetin beta ( Henke M et al, 2003 ) respectively,  the  Pharmacovigilance  Working  Party  (PhVWP)  looked  at  the  risk  of  tumour  growth progression  and  thromboembolism  in  patients  with  cancer  treated  with  epoetins.  Further  to  the recommendations  of  the  PhVWP  the  CHMP  requested  further  advice  from  the  Scientific  Advisory Group for Oncology. As a result, relevant parts of sections 4.1, 4.2, 4.4 and 5.1 of the SPC for the different  epoetins  centrally  authorised  for  the  treatment  of  anaemic  cancer  patients  receiving chemotherapy were amended as detailed below.
+
+The target and maximum corrected Hb values and the dose monitoring were revised in section 4.2 as follows:
+
+'Haemoglobin level should not exceed 13 g/dl (8.1 mmol/l) (see section 5.1).
+
+Once the therapeutic objective for an individual patient has been achieved, the dose should be reduced by 25 to 50% in order to maintain haemoglobin at that level. If required, further dose reduction may be instituted to ensure that haemoglobin level does not exceed 13 g/dl.
+
+If the rise in haemoglobin is greater than 2 g/dl (1.3 mmol/l) in 4 weeks, the dose should be reduced by 25 to 50%.'
+
+The following warning on the effect of epoetin on tumour growth was added to section 4.4:
+
+## 'Effect on tumour growth
+
+Epoetins are growth factors that primarily stimulate red blood cell production. Erythropoietin receptors may be expressed on the surface of a variety of tumour cells. As with all growth factors, there is a concern that epoetins could stimulate the growth of any type of malignancy. Two controlled clinical studies in which epoetins were administered to patients with various cancers including head and neck cancer, and breast cancer, have shown an unexplained excess mortality.'
+
+The  CHMP  also  requested  that  the  results  from  available  studies  on  survival  and  progression-free survival in which epoetins were administered to patients with various cancers are reflected in section 5.1 as follows:
+
+' Epoetins    are  growth  factors  that  primarily  stimulate  red  blood  cell  production.  Erythropoietin receptors  may  be  expressed  on  the  surface  of  a  variety  of  tumour  cells.  There  is  insufficient information to establish whether the use of epoetin products have an adverse effect on time to tumour progression or progression free survival.
+
+Two  studies  explored  the  effect  of  epoetins  on  survival  and/or  tumour  progression  with  higher haemoglobin targets.
+
+In a randomised placebo-controlled study using epoetin alfa in 939 metastatic breast cancer patients, study drug was administered to attempt to maintain haemoglobin levels between 12 and 14 g/dL. At four  months,  death  attributed  to  disease  progression  was  higher  (6 %  vs.  3 %)  in  women  receiving epoetin alfa. The overall mortality was significantly higher in the epoetin alfa arm.
+
+In  another  placebo-controlled study using  epoetin  beta  in  351  patients  with  head  and  neck  cancer, study drug was administered to maintain the haemoglobin levels of 14 g/dL in women and 15 g/dL in men.  Locoregional  progression  free  survival  was  significantly  shorter  in  patients  receiving  epoetin beta.  The  results  of  this  study  were  confounded  by  imbalances  between  the  treatment  groups, especially  with  regard  to  tumor  localization,  smoking  status  and  the  heterogeneity  of  the  study population.
+
+<div style=\"page-break-after: always\"></div>
+
+In addition, several other studies have shown a tendency to improved survival suggesting that epoetin has no negative effect on tumour progression .'
+
+In addition, the CHMP emphasised during the procedure that the primary objective of the treatment with  epoetins  of  cancer  patients  receiving  chemotherapy  was  to  alleviate  anaemic  symptoms  rather than to correct Hb levels as such and recommended to clearly reflect this in the indication as follows:
+
+'Treatment of symptomatic anaemia in adult cancer patients with non-myeloid malignancies receiving chemotherapy.'
+
+In the same variation procedure, 'dyspnoea' has been included in section 4.8 of the SPC as an allergic manifestation of darbepoetin alfa use further to the assessment of PSUR 4 and 5.

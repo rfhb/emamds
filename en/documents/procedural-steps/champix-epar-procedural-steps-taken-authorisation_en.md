@@ -1,0 +1,59 @@
+---
+document_datetime: 2023-11-09 19:37:58
+document_pages: 1
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps/champix-epar-procedural-steps-taken-authorisation_en.pdf
+document_name: champix-epar-procedural-steps-taken-authorisation_en.pdf
+version: success
+processing_time: 0.429735
+conversion_datetime: 2025-12-20 08:16:40.606143
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## BACKGROUND INFORMATION ON THE PROCEDURE
+
+## 1. Submission of the dossier
+
+The  applicant  Pfizer  Limited  submitted  on  03  November  2005    an  application  for  Marketing Authorisation  to  the  European  Medicines  Agency  (EMEA)  for  Champix,  through  the  centralised procedure.
+
+The legal basis for this application refers to:
+
+Article 8.3 of Directive 2001/83/EC, as amended - complete and independent application, (i.e. complete dossier with administrative, quality, non-clinical and clinical data).
+
+The eligibility to the centralised procedure was agreed upon by the EMEA/CHMP on 23 June 2005.
+
+The application submitted is a complete dossier:
+
+Composed of administrative information, complete quality data, non-clinical and clinical data based on applicants' own tests and studies and/or bibliographic literature substituting/supporting certain test(s) or study(ies)
+
+The applicant applied for the following indication treatment for smoking cessation.
+
+## Licensing status:
+
+Champix was not licensed in any country at the time of submission of the application.
+
+The Rapporteur and Co-Rapporteur appointed by the CHMP were:
+
+Rapporteur
+
+Steffen Thirstrup
+
+Co-Rapporteur Barbara van Zwieten-Boot
+
+## 2. Steps taken for the assessment of the product
+
+- The application was received by the EMEA on 03 November 2005.
+- The procedure started on 23 November 2005.
+- The Rapporteur's first Assessment Report was circulated to all CHMP members on 6 February 2006. The Co-Rapporteur's first Assessment Report was circulated to all CHMP members on 3 February 2006.
+- During  the  meeting  on  20-23  March  2006  the  CHMP  agreed  on  the  consolidated  List  of Questions to be sent to the applicant. The final consolidated List of Questions was sent to the applicant on 23 March 2006.
+- The applicant submitted the responses to the CHMP consolidated List of Questions on 12 April 2006
+- The Rapporteurs circulated the Joint Assessment Report on the applicant's responses to the List of Questions to all CHMP members on 31 May 2006.
+- During the CHMP meeting on 26-28 June 2006 the CHMP agreed on a list of outstanding issues to be addressed in writing and in an oral explanation by the applicant.
+- During the CHMP meeting on 26 July 2006 outstanding issues were addressed by the applicant during an oral explanation before the CHMP.
+- During the meeting on 27 July 2006 the CHMP, in the light of the overall data submitted and the  scientific  discussion  within  the  Committee,  issued  a  positive  opinion  for  granting  a Marketing  Authorisation  to  Champix  on  27  July.  The  applicant  provided  the  letter  of undertaking on the follow-up measures to be fulfilled post-authorisation on 26 July 2006. The European Commission granted a marketing authorisation valid throughout the European Union for Champix on 26 September 2006.

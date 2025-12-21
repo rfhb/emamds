@@ -1,0 +1,55 @@
+---
+document_datetime: 2023-09-21 19:34:14
+document_pages: 3
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/topotecan-actavis-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf
+document_name: topotecan-actavis-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf
+version: success
+processing_time: 2.3877456
+conversion_datetime: 2025-12-21 17:41:39.366302
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## Topotecan Actavis
+
+Procedural steps taken and scientific information after the authorisation
+
+| Application number   | Scope                                                                                                                                                                                                                                                              | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| IB/0013              | C.I.2.a - Change in the SPC, Labelling or PL of a generic/hybrid/biosimilar products following assessment of the same change for the reference product - Implementation of change(s) for which NOnewadditional data is required to be submitted by the MAH product | 19/01/2015                          |                                             | SmPC, Labelling and PL           |           |
+| N/0012               | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification)                                                                                                                                                                   | 13/08/2014                          |                                             | PL                               |           |
+
+1 Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
+
+2 A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures. 3 SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+| R/0011   | Renewal of the marketing authorisation.                                                                    | 20/03/2014         | 06/06/2014 longer   | SmPC, Annex II, Labelling and PL   | No significant new information on efficacy and effectiveness has been submitted with the renewal dossier. The efficacy profile is not changed by the presented data. The most important risk of Topotecan Actavis according the presented data is myelotoxicity, which is a well-known risk for the substance. The most common side effects the reference medicinal product, Hycamtin, are neutropenia, febrile neutropenia, thrombocytopenia, anaemia, leucopenia, nausea, vomiting and diarrhoea of which may be severe), constipation, abdominal pain, authorised   |
+|----------|------------------------------------------------------------------------------------------------------------|--------------------|---------------------|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| N/0010   | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification) Medicinal | 29/10/2013 product | 06/06/2014          | PL                                 | pharmacovigilance and risk minimisation measures considered appropriate to minimize the risks associated with the medicinal product. The renewal can be granted with unlimited validity. next periodic safety update report will be submitted August 2015.                                                                                                                                                                                                                                                                                                             |
+
+<div style=\"page-break-after: always\"></div>
+
+| IB/0009   | B.II.b.4.a - Change in the batch size (including batch size ranges) of the finished product - Up to 10-fold compared to the currently approved batch size                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 16/01/2012    | n/a               | authorised             |
+|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-------------------|------------------------|
+| IB/0007/G | This was an application for a group of variations. B.II.b.3.z - Change in the manufacturing process of the finished product - Other variation B.II.e.7.b - Change in supplier of packaging components or devices (when mentioned in the dossier) - Replacement or addition of a supplier B.II.e.5.a.2 - Change in pack size of the finished product - Change in the number of units (e.g. tablets, ampoules, etc.) in a pack - Change outside the range of the currently approved pack sizes B.II.e.5.a.2 - Change in pack size of the finished product - Change in the number of units (e.g. tablets, ampoules, etc.) in a pack - Change outside the range of the currently approved pack sizes B.II.f.1.b.1 - Stability of FP - Extension of the shelf life of the finished product - As packaged for sale (supported by real time data) product | 21/09/2011 no | 21/09/2011 longer | SmPC, Labelling and PL |
+| IB/0003   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 25/07/2011    | n/a               | SmPC, Annex II and PL  |
+| IB/0004   | B.I.d.1.a.4 - Stability of AS - Change in the re-test period/storage period - Extension or introduction of a re-test period/storage period supported by real time data Medicinal                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 07/07/2011    | n/a               |                        |
+| N/0001    | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 07/12/2009    | n/a               | PL                     |

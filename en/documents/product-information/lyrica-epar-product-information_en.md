@@ -1,0 +1,5374 @@
+---
+document_datetime: 2025-09-18 13:28:29
+document_pages: 133
+document_pathfilename: www.ema.europa.eu/en/documents/product-information/lyrica-epar-product-information_en.pdf
+document_name: lyrica-epar-product-information_en.pdf
+version: success
+processing_time: 44.1019875
+conversion_datetime: 2025-12-21 16:31:44.355839
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 25 mg hard capsules Lyrica 50 mg hard capsules Lyrica 75 mg hard capsules Lyrica 100 mg hard capsules Lyrica 150 mg hard capsules Lyrica 200 mg hard capsules Lyrica 225 mg hard capsules Lyrica 300 mg hard capsules
+
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+## Lyrica 25 mg hard capsules
+
+Each hard capsule contains 25 mg of pregabalin.
+
+## Lyrica 50 mg hard capsules
+
+Each hard capsule contains 50 mg of pregabalin.
+
+## Lyrica 75 mg hard capsules
+
+Each hard capsule contains 75 mg of pregabalin.
+
+## Lyrica 100 mg hard capsules
+
+Each hard capsule contains 100 mg of pregabalin.
+
+## Lyrica 150 mg hard capsules
+
+Each hard capsule contains 150 mg of pregabalin.
+
+## Lyrica 200 mg hard capsules
+
+Each hard capsule contains 200 mg of pregabalin.
+
+## Lyrica 225 mg hard capsules
+
+Each hard capsule contains 225 mg of pregabalin.
+
+## Lyrica 300 mg hard capsules
+
+Each hard capsule contains 300 mg of pregabalin.
+
+## Excipients with known effect
+
+## Lyrica 25 mg hard capsules
+
+Each hard capsule also contains 35 mg lactose monohydrate.
+
+## Lyrica 50 mg hard capsules
+
+Each hard capsule also contains 70 mg lactose monohydrate.
+
+## Lyrica 75 mg hard capsules
+
+Each hard capsule also contains 8.25 mg lactose monohydrate.
+
+## Lyrica 100 mg hard capsules
+
+Each hard capsule also contains 11 mg lactose monohydrate.
+
+## Lyrica 150 mg hard capsules
+
+Each hard capsule also contains 16.50 mg lactose monohydrate.
+
+## Lyrica 200 mg hard capsules
+
+Each hard capsule also contains 22 mg lactose monohydrate.
+
+<div style=\"page-break-after: always\"></div>
+
+## Lyrica 225 mg hard capsules
+
+Each hard capsule also contains 24.75 mg lactose monohydrate.
+
+## Lyrica 300 mg hard capsules
+
+Each hard capsule also contains 33 mg lactose monohydrate.
+
+For the full list of excipients, see section 6.1.
+
+## 3. PHARMACEUTICAL FORM
+
+## Hard capsules
+
+## Lyrica 25 mg hard capsules
+
+White marked 'VTRS' on the cap and 'PGN 25' on the body with black ink.
+
+## Lyrica 50 mg hard capsules
+
+White marked 'VTRS' on the cap and 'PGN 50' on the body with black ink. The body is also marked with a black band.
+
+## Lyrica 75 mg hard capsules
+
+White and orange, marked 'VTRS' on the cap and 'PGN 75' on the body with black ink.
+
+## Lyrica 100 mg hard capsules
+
+Orange marked 'VTRS' on the cap and 'PGN 100' on the body with black ink.
+
+## Lyrica 150 mg hard capsules
+
+White marked 'VTRS' on the cap and 'PGN 150' on the body with black ink.
+
+## Lyrica 200 mg hard capsules
+
+Light orange, marked 'VTRS' on the cap and 'PGN 200' on the body with black ink.
+
+## Lyrica 225 mg hard capsules
+
+White and light orange marked 'VTRS' on the cap and 'PGN 225' on the body with black ink.
+
+## Lyrica 300 mg hard capsules
+
+White and orange, marked 'VTRS' on the cap and 'PGN 300' on the body with black ink.
+
+## 4. CLINICAL PARTICULARS
+
+## 4.1 Therapeutic indications
+
+## Neuropathic pain
+
+Lyrica is indicated for the treatment of peripheral and central neuropathic pain in adults.
+
+## Epilepsy
+
+Lyrica is indicated as adjunctive therapy in adults with partial seizures with or without secondary generalisation.
+
+## Generalised anxiety disorder
+
+Lyrica is indicated for the treatment of Generalised Anxiety Disorder (GAD) in adults.
+
+<div style=\"page-break-after: always\"></div>
+
+## 4.2 Posology and method of administration
+
+## Posology
+
+The dose range is 150 to 600 mg per day given in either two or three divided doses.
+
+## Neuropathic pain
+
+Pregabalin treatment can be started at a dose of 150 mg per day given as two or three divided doses. Based on individual patient response and tolerability, the dose may be increased to 300 mg per day after an interval of 3 to 7 days, and if needed, to a maximum dose of 600 mg per day after an additional 7-day interval.
+
+## Epilepsy
+
+Pregabalin treatment can be started with a dose of 150 mg per day given as two or three divided doses. Based on individual patient response and tolerability, the dose may be increased to 300 mg per day after 1 week. The maximum dose of 600 mg per day may be achieved after an additional week.
+
+## Generalised anxiety disorder
+
+The dose range is 150 to 600 mg per day given as two or three divided doses. The need for treatment should be reassessed regularly.
+
+Pregabalin treatment can be started with a dose of 150 mg per day. Based on individual patient response and tolerability, the dose may be increased to 300 mg per day after 1 week. Following an additional week the dose may be increased to 450 mg per day. The maximum dose of 600 mg per day may be achieved after an additional week.
+
+## Discontinuation of pregabalin
+
+In accordance with current clinical practice, if pregabalin has to be discontinued, it is recommended this should be done gradually over a minimum of 1 week independent of the indication (see sections 4.4 and 4.8).
+
+## Renal impairment
+
+Pregabalin is eliminated from the systemic circulation primarily by renal excretion as unchanged drug. As pregabalin clearance is directly proportional to creatinine clearance (see section 5.2), dose reduction in patients with compromised renal function must be individualised according to creatinine clearance (CLcr), as indicated in Table 1 determined using the following formula:
+
+<!-- formula-not-decoded -->
+
+Pregabalin is removed effectively from plasma by haemodialysis (50% of drug in 4 hours). For patients receiving haemodialysis, the pregabalin daily dose should be adjusted based on renal function. In addition to the daily dose, a supplementary dose should be given immediately following every 4 hour haemodialysis treatment (see Table 1).
+
+<div style=\"page-break-after: always\"></div>
+
+Table 1. Pregabalin Dose Adjustment Based on Renal Function
+
+| Creatinine clearance (CL cr ) (mL/min)            | Total pregabalin daily dose*                      | Total pregabalin daily dose*                      | Dose regimen                                      |
+|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
+|                                                   | Starting dose (mg/day)                            | Maximum dose (mg/day)                             |                                                   |
+| ≥ 60                                              | 150                                               | 600                                               | BID or TID                                        |
+| ≥ 30 - < 60                                       | 75                                                | 300                                               | BID or TID                                        |
+| ≥ 15 - < 30                                       | 25 - 50                                           | 150                                               | Once Daily or BID                                 |
+| < 15                                              | 25                                                | 75                                                | Once Daily                                        |
+| Supplementary dosage following haemodialysis (mg) | Supplementary dosage following haemodialysis (mg) | Supplementary dosage following haemodialysis (mg) | Supplementary dosage following haemodialysis (mg) |
+|                                                   | 25                                                | 100                                               | Single dose +                                     |
+
+TID = Three divided doses
+
+BID = Two divided doses
+
+* Total daily dose (mg/day) should be divided as indicated by dose regimen to provide mg/dose
+
++ Supplementary dose is a single additional dose
+
+## Hepatic impairment
+
+No dose adjustment is required for patients with hepatic impairment (see section 5.2).
+
+## Paediatric population
+
+The safety and efficacy of Lyrica in children below the age of 12 years and in adolescents (12-17 years of age) have not been established. Currently available data are described in sections 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
+
+## Elderly
+
+Elderly patients may require a dose reduction of pregabalin due to a decreased renal function (see section 5.2).
+
+## Method of administration
+
+Lyrica may be taken with or without food.
+
+Lyrica is for oral use only.
+
+## 4.3 Contraindications
+
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+
+## 4.4 Special warnings and precautions for use
+
+## Diabetic patients
+
+In accordance with current clinical practice, some diabetic patients who gain weight on pregabalin treatment may need to adjust hypoglycaemic medicinal products.
+
+## Hypersensitivity reactions
+
+There have been reports in the postmarketing experience of hypersensitivity reactions, including cases of angioedema. Pregabalin should be discontinued immediately if symptoms of angioedema, such as facial, perioral, or upper airway swelling occur.
+
+## Severe cutaneous adverse reactions (SCARs)
+
+SCARs including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), which can be life-threatening or fatal, have been reported rarely in association with pregabalin treatment. At the time of prescription patients should be advised of the signs and symptoms and monitored closely for skin reactions. If signs and symptoms suggestive of these reactions appear, pregabalin should be withdrawn immediately and an alternative treatment considered (as appropriate).
+
+<div style=\"page-break-after: always\"></div>
+
+Dizziness, somnolence, loss of consciousness, confusion and mental impairment Pregabalin treatment has been associated with dizziness and somnolence, which could increase the occurrence of accidental injury (fall) in the elderly population. There have also been postmarketing reports of loss of consciousness, confusion and mental impairment. Therefore, patients should be advised to exercise caution until they are familiar with the potential effects of the medicinal product.
+
+## Vision-related effects
+
+In controlled trials, a higher proportion of patients treated with pregabalin reported blurred vision than did patients treated with placebo which resolved in a majority of cases with continued dosing. In the clinical studies where ophthalmologic testing was conducted, the incidence of visual acuity reduction and visual field changes was greater in pregabalin-treated patients than in placebo-treated patients; the incidence of fundoscopic changes was greater in placebo-treated patients (see section 5.1).
+
+In the postmarketing experience, visual adverse reactions have also been reported, including loss of vision, visual blurring or other changes of visual acuity, many of which were transient. Discontinuation of pregabalin may result in resolution or improvement of these visual symptoms.
+
+## Renal failure
+
+Cases of renal failure have been reported and in some cases discontinuation of pregabalin did show reversibility of this adverse reaction.
+
+## Withdrawal of concomitant anti-epileptic medicinal products
+
+There are insufficient data for the withdrawal of concomitant anti-epileptic medicinal products, once seizure control with pregabalin in the add-on situation has been reached, in order to reach monotherapy on pregabalin.
+
+## Congestive heart failure
+
+There have been postmarketing reports of congestive heart failure in some patients receiving pregabalin. These reactions are mostly seen in elderly cardiovascular compromised patients during pregabalin treatment for a neuropathic indication. Pregabalin should be used with caution in these patients. Discontinuation of pregabalin may resolve the reaction.
+
+## Treatment of central neuropathic pain due to spinal cord injury
+
+In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse reactions in general, central nervous system adverse reactions and especially somnolence was increased. This may be attributed to an additive effect due to concomitant medicinal products (e.g. anti-spasticity agents) needed for this condition. This should be considered when prescribing pregabalin in this condition.
+
+## Respiratory depression
+
+There have been reports of severe respiratory depression in relation to pregabalin use. Patients with compromised respiratory function, respiratory or neurological disease, renal impairment, concomitant use of CNS depressants and the elderly may be at higher risk of experiencing this severe adverse reaction. Dose adjustments may be necessary in these patients (see section 4.2).
+
+## Suicidal ideation and behaviour
+
+Suicidal ideation and behaviour have been reported in patients treated with anti-epileptic agents in several indications. A meta-analysis of randomised placebo controlled studies of anti-epileptic drugs has also shown a small increased risk of suicidal ideation and behaviour. The mechanism of this risk is not known. Cases of suicidal ideation and behaviour have been observed in patients treated with pregabalin in the postmarketing experience (see section 4.8). An epidemiological study using a self-controlled study design (comparing treatment periods with non-treatment periods within an individual) showed evidence of an increased risk of new onset of suicidal behaviour and death by suicide in patients treated with pregabalin.
+
+Patients (and caregivers of patients) should be advised to seek medical advice should signs of suicidal ideation or behaviour emerge. Patients should be monitored for signs of suicidal ideation and behaviour
+
+<div style=\"page-break-after: always\"></div>
+
+and appropriate treatment should be considered. Discontinuation of pregabalin treatment should be considered in case of suicidal ideation and behaviour.
+
+## Reduced lower gastrointestinal tract function
+
+There are postmarketing reports of events related to reduced lower gastrointestinal tract function (e.g. intestinal obstruction, paralytic ileus, constipation) when pregabalin was co-administered with medications that have the potential to produce constipation, such as opioid analgesics. When pregabalin and opioids will be used in combination, measures to prevent constipation may be considered (especially in female patients and elderly).
+
+## Concomitant use with opioids
+
+Caution is advised when prescribing pregabalin concomitantly with opioids due to risk of CNS depression (see section 4.5). In a case-control study of opioid users, those patients who took pregabalin concomitantly with an opioid had an increased risk for opioid-related death compared to opioid use alone (adjusted odds ratio [aOR], 1.68 [95% CI, 1.19 - 2.36]). This increased risk was observed at low doses of pregabalin (≤ 300 mg, aOR 1.52 [95% CI, 1.04 - 2.22]) and there was a trend for a greater risk at high doses of pregabalin (&gt; 300 mg, aOR 2.51 [95% CI 1.24 - 5.06]).
+
+## Misuse, abuse potential or dependence
+
+Pregabalin can cause drug dependence, which may occur at therapeutic doses. Cases of abuse and misuse have been reported. Patients with a history of substance abuse may be at higher risk for pregabalin misuse, abuse and dependence, and pregabalin should be used with caution in such patients. Before prescribing pregabalin, the patient's risk of misuse, abuse or dependence should be carefully evaluated.
+
+Patients treated with pregabalin should be monitored for signs and symptoms of pregabalin misuse, abuse or dependence, such as development of tolerance, dose escalation and drug-seeking behaviour.
+
+## Withdrawal symptoms
+
+After discontinuation of short-term and long-term treatment with pregabalin, withdrawal symptoms have been observed. The following symptoms have been reported: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, nervousness, depression, suicidal ideation, pain, convulsion, hyperhidrosis and dizziness. The occurrence of withdrawal symptoms following discontinuation of pregabalin may indicate drug dependence (see section 4.8). The patient should be informed about this at the start of the treatment. If pregabalin should be discontinued, it is recommended this should be done gradually over a minimum of 1 week independent of the indication (see section 4.2).
+
+Convulsions, including status epilepticus and grand mal convulsions, may occur during pregabalin use or shortly after discontinuing pregabalin.
+
+Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related.
+
+## Encephalopathy
+
+Cases of encephalopathy have been reported, mostly in patients with underlying conditions that may precipitate encephalopathy.
+
+## Women of childbearing potential/Contraception
+
+Lyrica use in the first-trimester of pregnancy may cause major birth defects in the unborn child. Pregabalin should not be used during pregnancy unless the benefit to the mother clearly outweighs the potential risk to the foetus. Women of childbearing potential have to use effective contraception during treatment (see section 4.6).
+
+## Lactose intolerance
+
+Lyrica contains lactose monohydrate. Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+
+<div style=\"page-break-after: always\"></div>
+
+## Sodium content
+
+Lyrica contains less than 1 mmol sodium (23 mg) per hard capsule. Patients on low sodium diets can be informed that this medicinal product is essentially 'sodium-free'.
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
+
+Since pregabalin is predominantly excreted unchanged in the urine, undergoes negligible metabolism in humans (&lt; 2% of a dose recovered in urine as metabolites), does not inhibit drug metabolism in vitro , and is not bound to plasma proteins, it is unlikely to produce, or be subject to, pharmacokinetic interactions.
+
+## In vivo studies and population pharmacokinetic analysis
+
+Accordingly, in in vivo studies no clinically relevant pharmacokinetic interactions were observed between pregabalin and phenytoin, carbamazepine, valproic acid, lamotrigine, gabapentin, lorazepam, oxycodone or ethanol. Population pharmacokinetic analysis indicated that oral antidiabetics, diuretics, insulin, phenobarbital, tiagabine and topiramate had no clinically significant effect on pregabalin clearance.
+
+## Oral contraceptives, norethisterone and/or ethinyl oestradiol
+
+Co-administration of pregabalin with the oral contraceptives norethisterone and/or ethinyl oestradiol does not influence the steady-state pharmacokinetics of either substance.
+
+## Central nervous system influencing medical products
+
+Pregabalin may potentiate the effects of ethanol and lorazepam.
+
+In the postmarketing experience, there are reports of respiratory failure, coma and deaths in patients taking pregabalin and opioids and/or other central nervous system (CNS) depressant medicinal products. Pregabalin appears to be additive in the impairment of cognitive and gross motor function caused by oxycodone.
+
+## Interactions and the elderly
+
+No specific pharmacodynamic interaction studies were conducted in elderly volunteers. Interaction studies have only been performed in adults.
+
+## 4.6 Fertility, pregnancy and lactation
+
+## Women of childbearing potential/Contraception
+
+Women of childbearing potential have to use effective contraception during treatment (see section 4.4).
+
+## Pregnancy
+
+Studies in animals have shown reproductive toxicity (see section 5.3).
+
+Pregabalin has been shown to cross the placenta in rats (see section 5.2). Pregabalin may cross the human placenta.
+
+## Major congenital malformations
+
+Data from a Nordic observational study of more than 2700 pregnancies exposed to pregabalin in the first trimester showed a higher prevalence of major congenital malformations (MCM) among the paediatric population (live or stillborn) exposed to pregabalin compared to the unexposed population (5.9% vs. 4.1%).
+
+The risk of MCM among the paediatric population exposed to pregabalin in the first trimester was slightly higher compared to unexposed population (adjusted prevalence ratio and 95% confidence interval: 1.14 (0.96-1.35)), and compared to population exposed to lamotrigine (1.29 (1.01-1.65)) or to duloxetine (1.39 (1.07-1.82)).
+
+<div style=\"page-break-after: always\"></div>
+
+The analyses on specific malformations showed higher risks for malformations of the nervous system, the eye, orofacial clefts, urinary malformations and genital malformations, but numbers were small and estimates imprecise.
+
+Lyrica should not be used during pregnancy unless clearly necessary (if the benefit to the mother clearly outweighs the potential risk to the foetus).
+
+## Breast-feeding
+
+Pregabalin is excreted into human milk (see section 5.2). The effect of pregabalin on newborns/infants is unknown. A decision must be made whether to discontinue breast-feeding or to discontinue pregabalin therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
+
+## Fertility
+
+There are no clinical data on the effects of pregabalin on female fertility.
+
+In a clinical trial to assess the effect of pregabalin on sperm motility, healthy male subjects were exposed to pregabalin at a dose of 600 mg/day. After 3 months of treatment, there were no effects on sperm motility.
+
+A fertility study in female rats has shown adverse reproductive effects. Fertility studies in male rats have shown adverse reproductive and developmental effects. The clinical relevance of these findings is unknown (see section 5.3).
+
+## 4.7 Effects on ability to drive and use machines
+
+Lyrica may have minor or moderate influence on the ability to drive and use machines. Lyrica may cause dizziness and somnolence and therefore may influence the ability to drive or use machines. Patients are advised not to drive, operate complex machinery or engage in other potentially hazardous activities until it is known whether this medicinal product affects their ability to perform these activities.
+
+## 4.8 Undesirable effects
+
+The pregabalin clinical programme involved over 8,900 patients exposed to pregabalin, of whom over 5,600 were in double-blind placebo controlled trials. The most commonly reported adverse reactions were dizziness and somnolence. Adverse reactions were usually mild to moderate in intensity. In all controlled studies, the discontinuation rate due to adverse reactions was 12% for patients receiving pregabalin and 5% for patients receiving placebo. The most common adverse reactions resulting in discontinuation from pregabalin treatment groups were dizziness and somnolence.
+
+In table 2 below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+
+The adverse reactions listed may also be associated with the underlying disease and/or concomitant medicinal products.
+
+In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse reactions in general, CNS adverse reactions and especially somnolence was increased (see section 4.4).
+
+<div style=\"page-break-after: always\"></div>
+
+Additional reactions reported from postmarketing experience are included in italics in the list below.
+
+Table 2. Pregabalin Adverse Drug Reactions
+
+| System Organ Class                                                            | Adverse drug reactions                                                                                                                                                                                                                                                 |
+|-------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                                                   | Infections and infestations                                                                                                                                                                                                                                            |
+| Common                                                                        | Nasopharyngitis                                                                                                                                                                                                                                                        |
+| Blood and lymphatic system disorders                                          | Blood and lymphatic system disorders                                                                                                                                                                                                                                   |
+| Uncommon                                                                      | Neutropaenia                                                                                                                                                                                                                                                           |
+| Immune system disorders                                                       | Immune system disorders                                                                                                                                                                                                                                                |
+| Uncommon                                                                      | Hypersensitivity                                                                                                                                                                                                                                                       |
+| Rare Angioedema, allergic reaction Metabolism and nutrition disorders         | Rare Angioedema, allergic reaction Metabolism and nutrition disorders                                                                                                                                                                                                  |
+| Common                                                                        | Appetite increased                                                                                                                                                                                                                                                     |
+| Uncommon                                                                      | Anorexia, hypoglycaemia                                                                                                                                                                                                                                                |
+| Psychiatric disorders                                                         | Psychiatric disorders                                                                                                                                                                                                                                                  |
+| Common                                                                        | Euphoric mood, confusion, irritability, disorientation, insomnia, libido decreased                                                                                                                                                                                     |
+| Uncommon                                                                      | Hallucination, panic attack, restlessness, agitation, depression, depressed mood, elevated mood, aggression , mood swings, depersonalisation, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy                                           |
+| Rare                                                                          | Disinhibition, suicidal behaviour, suicidal ideation                                                                                                                                                                                                                   |
+| Not known                                                                     | Drug dependence                                                                                                                                                                                                                                                        |
+| Nervous system disorders                                                      | Nervous system disorders                                                                                                                                                                                                                                               |
+| Very Common                                                                   | Dizziness, somnolence, headache                                                                                                                                                                                                                                        |
+| Common                                                                        | Ataxia, coordination abnormal, tremor, dysarthria, amnesia, memory impairment, disturbance in attention, paraesthesia, hypoaesthesia, sedation, balance disorder, lethargy                                                                                             |
+| Uncommon                                                                      | Syncope, stupor, myoclonus, loss of consciousness , psychomotor hyperactivity, dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, mental impairment , speech disorder, hyporeflexia, hyperaesthesia, burning sensation, ageusia, malaise |
+| Rare                                                                          | Convulsions , parosmia, hypokinesia, dysgraphia, parkinsonism                                                                                                                                                                                                          |
+| Eye disorders                                                                 | Eye disorders                                                                                                                                                                                                                                                          |
+| Common                                                                        | Vision blurred, diplopia                                                                                                                                                                                                                                               |
+| Uncommon                                                                      | Peripheral vision loss, visual disturbance, eye swelling, visual field defect, visual acuity reduced, eye pain, asthenopia, photopsia, dry eye, lacrimation increased, eye irritation                                                                                  |
+| Rare                                                                          | Vision loss , keratitis , oscillopsia, altered visual depth perception, mydriasis, strabismus, visual brightness                                                                                                                                                       |
+| Ear and labyrinth disorders                                                   | Ear and labyrinth disorders                                                                                                                                                                                                                                            |
+| Common                                                                        | Vertigo                                                                                                                                                                                                                                                                |
+| Uncommon                                                                      | Hyperacusis                                                                                                                                                                                                                                                            |
+| Cardiac disorders                                                             | Cardiac disorders                                                                                                                                                                                                                                                      |
+| Uncommon                                                                      | Tachycardia, atrioventricular block first degree, sinus bradycardia, congestive heart failure                                                                                                                                                                          |
+| Rare QT prolongation , sinus tachycardia, sinus arrhythmia Vascular disorders | Rare QT prolongation , sinus tachycardia, sinus arrhythmia Vascular disorders                                                                                                                                                                                          |
+| Uncommon                                                                      | hypertension, hot flushes, flushing,                                                                                                                                                                                                                                   |
+|                                                                               | Hypotension, peripheral coldness                                                                                                                                                                                                                                       |
+| Respiratory, thoracic and mediastinal disorders                               | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                        |
+| Uncommon                                                                      | Dyspnoea, epistaxis, cough, nasal congestion, rhinitis, snoring, nasal dryness                                                                                                                                                                                         |
+| Not known                                                                     | Respiratory depression                                                                                                                                                                                                                                                 |
+
+<div style=\"page-break-after: always\"></div>
+
+| System Organ Class                                   | Adverse drug reactions                                                                                                                                             |
+|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                                                         |
+| Common                                               | Vomiting, nausea , constipation, diarrhoea , flatulence, abdominal distension, dry mouth                                                                           |
+| Uncommon                                             | Gastrooesophageal reflux disease, salivary hypersecretion, hypoaesthesia oral                                                                                      |
+| Rare                                                 | Ascites, pancreatitis, swollen tongue , dysphagia                                                                                                                  |
+| Hepatobiliary disorders                              | Hepatobiliary disorders                                                                                                                                            |
+| Uncommon                                             | Elevated liver enzymes*                                                                                                                                            |
+| Rare                                                 | Jaundice                                                                                                                                                           |
+| Very rare                                            | Hepatic failure, hepatitis                                                                                                                                         |
+| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                                             |
+| Uncommon                                             | Rash papular, urticaria, hyperhidrosis, pruritus                                                                                                                   |
+| Rare                                                 | Toxic epidermal necrolysis, Stevens-Johnson syndrome , cold sweat                                                                                                  |
+| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                                    |
+| Common                                               | Muscle cramp, arthralgia, back pain, pain in limb, cervical spasm                                                                                                  |
+| Uncommon                                             | Joint swelling, myalgia, muscle twitching, neck pain, muscle stiffness                                                                                             |
+| Rare                                                 | Rhabdomyolysis                                                                                                                                                     |
+| Renal and urinary disorders                          | Renal and urinary disorders                                                                                                                                        |
+| Uncommon                                             | Urinary incontinence, dysuria                                                                                                                                      |
+| Rare                                                 | Renal failure, oliguria, urinary retention                                                                                                                         |
+| Reproductive system and breast disorders             | Reproductive system and breast disorders                                                                                                                           |
+| Common                                               | Erectile dysfunction                                                                                                                                               |
+| Uncommon                                             | Sexual dysfunction, ejaculation delayed, dysmenorrhoea, breast pain                                                                                                |
+| Rare                                                 | Amenorrhoea, breast discharge, breast enlargement, gynaecomastia                                                                                                   |
+| General disorders and administration site conditions | General disorders and administration site conditions                                                                                                               |
+| Common                                               | Oedema peripheral, oedema, gait abnormal, fall, feeling drunk, feeling abnormal, fatigue                                                                           |
+| Uncommon                                             | Generalised oedema, face oedema , chest tightness, pain, pyrexia, thirst, chills, asthenia                                                                         |
+| Investigations                                       | Investigations                                                                                                                                                     |
+| Common                                               | Weight increased                                                                                                                                                   |
+| Uncommon                                             | Blood creatine phosphokinase increased, blood glucose increased, platelet count decreased, blood creatinine increased, blood potassium decreased, weight decreased |
+| Rare                                                 | White blood cell count decreased                                                                                                                                   |
+
+* Alanine aminotransferase increased (ALT) and aspartate aminotransferase increased (AST).
+
+After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed. The following symptoms have been reported: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, suicidal ideation, pain , hyperhidrosis and dizziness. These symptoms may indicate drug dependence. The patient should be informed about this at the start of the treatment. Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related (see sections 4.2 and 4.4).
+
+## Paediatric population
+
+The pregabalin safety profile observed in five paediatric studies in patients with partial seizures with or without secondary generalisation (12-week efficacy and safety study in patients 4 to 16 years of age, n=295; 14-day efficacy and safety study in patients 1 month to younger than 4 years of age, n=175; pharmacokinetic and tolerability study, n=65; and two 1 year open label follow on safety studies, n=54 and n=431) was similar to that observed in the adult studies of patients with epilepsy. The most common adverse events observed in the 12-week study with pregabalin treatment were somnolence, pyrexia, upper respiratory tract infection, increased appetite, weight increased, and nasopharyngitis.
+
+<div style=\"page-break-after: always\"></div>
+
+The most common adverse events observed in the 14-day study with pregabalin treatment were somnolence, upper respiratory tract infection, and pyrexia (see sections 4.2, 5.1 and 5.2).
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+## 4.9 Overdose
+
+In the postmarketing experience, the most commonly reported adverse reactions observed when pregabalin was taken in overdose included somnolence, confusional state, agitation, and restlessness. Seizures were also reported.
+
+In rare occasions, cases of coma have been reported.
+
+Treatment of pregabalin overdose should include general supportive measures and may include haemodialysis if necessary (see section 4.2 Table 1).
+
+## 5. PHARMACOLOGICAL PROPERTIES
+
+## 5.1 Pharmacodynamic properties
+
+Pharmacotherapeutic group: Analgesics, other analgesics and antipyretics ATC code: N02BF02
+
+The active substance, pregabalin, is a gamma-aminobutyric acid analogue [(S)-3-(aminomethyl)-5-methylhexanoic acid].
+
+## Mechanism of action
+
+Pregabalin binds to an auxiliary subunit ( α 2δ protein) of voltage-gated calcium channels in the central nervous system.
+
+## Clinical efficacy and safety
+
+## Neuropathic pain
+
+Efficacy has been shown in trials in diabetic neuropathy, post herpetic neuralgia and spinal cord injury. Efficacy has not been studied in other models of neuropathic pain.
+
+Pregabalin has been studied in 10 controlled clinical trials of up to 13 weeks with twice a day dosing (BID) and up to 8 weeks with three times a day (TID) dosing. Overall, the safety and efficacy profiles for BID and TID dosing regimens were similar.
+
+In clinical trials up to 12 weeks for both peripheral and central neuropathic pain, a reduction in pain was seen by Week 1 and was maintained throughout the treatment period.
+
+In controlled clinical trials in peripheral neuropathic pain 35% of the pregabalin treated patients and 18% of the patients on placebo had a 50% improvement in pain score. For patients not experiencing somnolence, such an improvement was observed in 33% of patients treated with pregabalin and 18% of patients on placebo. For patients who experienced somnolence the responder rates were 48% on pregabalin and 16% on placebo.
+
+In the controlled clinical trial in central neuropathic pain 22% of the pregabalin treated patients and 7% of the patients on placebo had a 50% improvement in pain score.
+
+<div style=\"page-break-after: always\"></div>
+
+## Epilepsy Adjunctive Treatment
+
+Pregabalin has been studied in 3 controlled clinical trials of 12 week duration with either BID or TID dosing. Overall, the safety and efficacy profiles for BID and TID dosing regimens were similar.
+
+A reduction in seizure frequency was observed by Week 1.
+
+## Paediatric population
+
+The efficacy and safety of pregabalin as adjunctive treatment for epilepsy in paediatric patients below the age of 12 and adolescents has not been established. The adverse events observed in a pharmacokinetic and tolerability study that enrolled patients from 3 months to 16 years of age (n=65) with partial onset seizures were similar to those observed in adults. Results of a 12-week placebo-controlled study of 295 paediatric patients aged 4 to 16 years and a 14-day placebo-controlled study of 175 paediatric patients aged 1 month to younger than 4 years of age performed to evaluate the efficacy and safety of pregabalin as adjunctive therapy for the treatment of partial onset seizures and two 1 year open label safety studies in 54 and 431 paediatric patients respectively, from 3 months to 16 years of age with epilepsy indicate that the adverse events of pyrexia and upper respiratory infections were observed more frequently than in adult studies of patients with epilepsy (see sections 4.2, 4.8 and 5.2).
+
+In the 12-week placebo-controlled study, paediatric patients (4 to 16 years of age) were assigned to pregabalin 2.5 mg/kg/day (maximum, 150 mg/day), pregabalin 10 mg/kg/day (maximum, 600 mg/day), or placebo. The percentage of subjects with at least a 50% reduction in partial onset seizures as compared to baseline was 40.6% of subjects treated with pregabalin 10 mg/kg/day (p=0.0068 versus placebo), 29.1% of subjects treated with pregabalin 2.5 mg/kg/day (p=0.2600 versus placebo) and 22.6% of those receiving placebo.
+
+In the 14-day placebo-controlled study, paediatric patients (1 month to younger than 4 years of age) were assigned to pregabalin 7 mg/kg/day, pregabalin 14 mg/kg/day, or placebo. Median 24-hour seizure frequencies at baseline and at the final visit were 4.7 and 3.8 for pregabalin 7 mg/kg/day, 5.4 and 1.4 for pregabalin 14 mg/kg/day, and 2.9 and 2.3 for placebo, respectively. Pregabalin 14 mg/kg/day significantly reduced the log-transformed partial onset seizure frequency versus placebo (p=0.0223); pregabalin 7 mg/kg/day did not show improvement relative to placebo.
+
+In a 12-week placebo-controlled study in subjects with Primary Generalized Tonic-Clonic (PGTC) seizures 219 subjects (aged 5 to 65 years, of which 66 were aged 5 to 16 years) were assigned to pregabalin 5 mg/kg/day (maximum 300 mg/day), 10 mg/kg/day (maximum 600 mg/day) or placebo as adjunctive therapy. The percentage of subjects with at least a 50% reduction in PGTC seizure rate was 41.3%, 38.9% and 41.7% for pregabalin 5 mg/kg/day, pregabalin 10 mg/kg/day and placebo respectively.
+
+## Monotherapy (newly diagnosed patients)
+
+Pregabalin has been studied in 1 controlled clinical trial of 56 week duration with BID dosing. Pregabalin did not achieve non-inferiority to lamotrigine based on the 6-month seizure freedom endpoint. Pregabalin and lamotrigine were similarly safe and well tolerated.
+
+## Generalised Anxiety Disorder
+
+Pregabalin has been studied in 6 controlled trials of 4-6 week duration, an elderly study of 8 week duration and a long-term relapse prevention study with a double-blind relapse prevention phase of 6 months duration.
+
+Relief of the symptoms of GAD as reflected by the Hamilton Anxiety Rating Scale (HAM-A) was observed by Week 1.
+
+In controlled clinical trials (4-8 week duration) 52% of the pregabalin treated patients and 38% of the patients on placebo had at least a 50% improvement in HAM-A total score from baseline to endpoint.
+
+<div style=\"page-break-after: always\"></div>
+
+In controlled trials, a higher proportion of patients treated with pregabalin reported blurred vision than did patients treated with placebo which resolved in a majority of cases with continued dosing. Ophthalmologic testing (including visual acuity testing, formal visual field testing and dilated funduscopic examination) was conducted in over 3600 patients within controlled clinical trials. In these patients, visual acuity was reduced in 6.5% of patients treated with pregabalin, and 4.8% of placebo-treated patients. Visual field changes were detected in 12.4% of pregabalin-treated, and 11.7% of placebo-treated patients. Funduscopic changes were observed in 1.7% of pregabalin-treated and 2.1% of placebo-treated patients.
+
+## 5.2 Pharmacokinetic properties
+
+Pregabalin steady-state pharmacokinetics are similar in healthy volunteers, patients with epilepsy receiving anti-epileptic drugs and patients with chronic pain.
+
+## Absorption
+
+Pregabalin is rapidly absorbed when administered in the fasted state, with peak plasma concentrations occurring within 1 hour following both single and multiple dose administration. Pregabalin oral bioavailability is estimated to be ≥ 90% and is independent of dose. Following repeated administration, steady state is achieved within 24 to 48 hours. The rate of pregabalin absorption is decreased when given with food resulting in a decrease in Cmax by approximately 25-30% and a delay in tmax to approximately 2.5 hours. However, administration of pregabalin with food has no clinically significant effect on the extent of pregabalin absorption.
+
+## Distribution
+
+In preclinical studies, pregabalin has been shown to cross the blood brain barrier in mice, rats, and monkeys. Pregabalin has been shown to cross the placenta in rats and is present in the milk of lactating rats. In humans, the apparent volume of distribution of pregabalin following oral administration is approximately 0.56 l/kg. Pregabalin is not bound to plasma proteins.
+
+## Biotransformation
+
+Pregabalin undergoes negligible metabolism in humans. Following a dose of radiolabelled pregabalin, approximately 98% of the radioactivity recovered in the urine was unchanged pregabalin. The N-methylated derivative of pregabalin, the major metabolite of pregabalin found in urine, accounted for 0.9% of the dose. In preclinical studies, there was no indication of racemisation of pregabalin S-enantiomer to the R-enantiomer.
+
+## Elimination
+
+Pregabalin is eliminated from the systemic circulation primarily by renal excretion as unchanged drug. Pregabalin mean elimination half-life is 6.3 hours. Pregabalin plasma clearance and renal clearance are directly proportional to creatinine clearance (see section 5.2 Renal impairment).
+
+Dose adjustment in patients with reduced renal function or undergoing haemodialysis is necessary (see section 4.2 Table 1).
+
+## Linearity/non-linearity
+
+Pregabalin pharmacokinetics are linear over the recommended daily dose range. Inter-subject pharmacokinetic variability for pregabalin is low (&lt; 20%). Multiple dose pharmacokinetics are predictable from single-dose data. Therefore, there is no need for routine monitoring of plasma concentrations of pregabalin.
+
+## Gender
+
+Clinical trials indicate that gender does not have a clinically significant influence on the plasma concentrations of pregabalin.
+
+## Renal impairment
+
+Pregabalin clearance is directly proportional to creatinine clearance. In addition, pregabalin is effectively removed from plasma by haemodialysis (following a 4 hour haemodialysis treatment
+
+<div style=\"page-break-after: always\"></div>
+
+plasma pregabalin concentrations are reduced by approximately 50%). Because renal elimination is the major elimination pathway, dose reduction in patients with renal impairment and dose supplementation following haemodialysis is necessary (see section 4.2 Table 1).
+
+## Hepatic impairment
+
+No specific pharmacokinetic studies were carried out in patients with impaired liver function. Since pregabalin does not undergo significant metabolism and is excreted predominantly as unchanged drug in the urine, impaired liver function would not be expected to significantly alter pregabalin plasma concentrations.
+
+## Paediatric population
+
+Pregabalin pharmacokinetics were evaluated in paediatric patients with epilepsy (age groups: 1 to 23 months, 2 to 6 years, 7 to 11 years and 12 to 16 years) at dose levels of 2.5, 5, 10 and 15 mg/kg/day in a pharmacokinetic and tolerability study.
+
+After oral administration of pregabalin in paediatric patients in the fasted state, in general, time to reach peak plasma concentration was similar across the entire age group and occurred 0.5 hours to 2 hours postdose.
+
+Pregabalin Cmax and AUC parameters increased in a linear manner with increasing dose within each age group. The AUC was lower by 30% in paediatric patients below a weight of 30 kg due to an increased body weight adjusted clearance of 43% for these patients in comparison to patients weighing ≥30 kg.
+
+Pregabalin terminal half-life averaged about 3 to 4 hours in paediatric patients up to 6 years of age, and 4 to 6 hours in those 7 years of age and older.
+
+Population pharmacokinetic analysis showed that creatinine clearance was a significant covariate of pregabalin oral clearance, body weight was a significant covariate of pregabalin apparent oral volume of distribution, and these relationships were similar in paediatric and adult patients.
+
+Pregabalin pharmacokinetics in patients younger than 3 months old have not been studied (see sections 4.2, 4.8 and 5.1).
+
+## Elderly
+
+Pregabalin clearance tends to decrease with increasing age. This decrease in pregabalin oral clearance is consistent with decreases in creatinine clearance associated with increasing age. Reduction of pregabalin dose may be required in patients who have age related compromised renal function (see section 4.2 Table 1).
+
+## Breast-feeding mothers
+
+The pharmacokinetics of 150 mg pregabalin given every 12 hours (300 mg daily dose) was evaluated in 10 lactating women who were at least 12 weeks postpartum. Lactation had little to no influence on pregabalin pharmacokinetics. Pregabalin was excreted into breast milk with average steady-state concentrations approximately 76% of those in maternal plasma. The estimated infant dose from breast milk (assuming mean milk consumption of 150 mL/kg/day) of women receiving 300 mg/day or the maximum dose of 600 mg/day would be 0.31 or 0.62 mg/kg/day, respectively. These estimated doses are approximately 7% of the total daily maternal dose on a mg/kg basis.
+
+## 5.3 Preclinical safety data
+
+In conventional safety pharmacology studies in animals, pregabalin was well-tolerated at clinically relevant doses. In repeated dose toxicity studies in rats and monkeys CNS effects were observed, including hypoactivity, hyperactivity and ataxia. An increased incidence of retinal atrophy commonly observed in aged albino rats was seen after long-term exposure to pregabalin at exposures ≥ 5 times the mean human exposure at the maximum recommended clinical dose.
+
+<div style=\"page-break-after: always\"></div>
+
+Pregabalin was not teratogenic in mice, rats or rabbits. Foetal toxicity in rats and rabbits occurred only at exposures sufficiently above human exposure. In prenatal/postnatal toxicity studies, pregabalin induced offspring developmental toxicity in rats at exposures &gt; 2 times the maximum recommended human exposure.
+
+Adverse effects on fertility in male and female rats were only observed at exposures sufficiently in excess of therapeutic exposure. Adverse effects on male reproductive organs and sperm parameters were reversible and occurred only at exposures sufficiently in excess of therapeutic exposure or were associated with spontaneous degenerative processes in male reproductive organs in the rat. Therefore the effects were considered of little or no clinical relevance.
+
+Pregabalin is not genotoxic based on results of a battery of in vitro and in vivo tests.
+
+Two-year carcinogenicity studies with pregabalin were conducted in rats and mice. No tumours were observed in rats at exposures up to 24 times the mean human exposure at the maximum recommended clinical dose of 600 mg/day. In mice, no increased incidence of tumours was found at exposures similar to the mean human exposure, but an increased incidence of haemangiosarcoma was observed at higher exposures. The non-genotoxic mechanism of pregabalin-induced tumour formation in mice involves platelet changes and associated endothelial cell proliferation. These platelet changes were not present in rats or in humans based on short-term and limited long-term clinical data. There is no evidence to suggest an associated risk to humans.
+
+In juvenile rats the types of toxicity do not differ qualitatively from those observed in adult rats. However, juvenile rats are more sensitive. At therapeutic exposures, there was evidence of CNS clinical signs of hyperactivity and bruxism and some changes in growth (transient body weight gain suppression). Effects on the oestrus cycle were observed at 5-fold the human therapeutic exposure. Reduced acoustic startle response was observed in juvenile rats 1-2 weeks after exposure at &gt; 2 times the human therapeutic exposure. Nine weeks after exposure, this effect was no longer observable.
+
+## 6. PHARMACEUTICAL PARTICULARS
+
+## 6.1 List of excipients
+
+Lyrica 25 mg, 50 mg, 150 mg hard capsules
+
+Capsules content: Lactose monohydrate Maize starch Talc
+
+Capsules shell: Gelatin Titanium dioxide (E171) Sodium laurilsulphate Silica, colloidal anhydrous Purified water
+
+Printing ink: Shellac Black iron oxide (E172) Propylene glycol Potassium hydroxide
+
+<div style=\"page-break-after: always\"></div>
+
+## Lyrica 75 mg, 100 mg, 200 mg, 225 mg, 300 mg hard capsules
+
+Capsules content: Lactose monohydrate Maize starch Talc
+
+Capsules shell: Gelatin Titanium dioxide (E171) Sodium laurilsulphate Silica, colloidal anhydrous Purified water Red iron oxide (E172)
+
+Printing ink: Shellac Black iron oxide (E172) Propylene glycol Potassium hydroxide
+
+## 6.2 Incompatibilities
+
+Not applicable.
+
+## 6.3 Shelf life
+
+3 years.
+
+## 6.4 Special precautions for storage
+
+This medicinal product does not require any special storage conditions.
+
+## 6.5 Nature and contents of container
+
+## Lyrica 25 mg hard capsules
+
+PVC/Aluminium blisters containing 14, 21, 56, 84, 100, or 112 hard capsules.
+
+100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. HDPE bottle containing 200 hard capsules. Not all pack sizes may be marketed.
+
+## Lyrica 50 mg hard capsules
+
+PVC/Aluminium blisters containing 14, 21, 56, 84, or 100 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. Not all pack sizes may be marketed.
+
+Lyrica 75 mg hard capsules PVC/Aluminium blisters containing 14, 56, 70 100, or 112 hard capsules.
+
+100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. HDPE bottle containing 200 hard capsules. Not all pack sizes may be marketed.
+
+Lyrica 100 mg hard capsules PVC/Aluminium blisters containing 21, 84, or 100 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. Not all pack sizes may be marketed.
+
+<div style=\"page-break-after: always\"></div>
+
+Lyrica 150 mg hard capsules PVC/Aluminium blisters containing 14, 56, 100, or 112 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. HDPE bottle containing 200 hard capsules. Not all pack sizes may be marketed.
+
+## Lyrica 200 mg hard capsules
+
+PVC/Aluminium blisters containing 21, 84, or 100 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. Not all pack sizes may be marketed.
+
+## Lyrica 225 mg hard capsules
+
+PVC/Aluminium blisters containing 14, 56, or 100 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. Not all pack sizes may be marketed.
+
+## Lyrica 300 mg hard capsules
+
+PVC/Aluminium blisters containing 14, 56, 100, or 112 hard capsules. 100 x 1 hard capsules in PVC/Aluminium perforated unit dose blisters. HDPE bottle containing 200 hard capsules. Not all pack sizes may be marketed.
+
+## 6.6 Special precautions for disposal and other handling
+
+No special requirements for disposal.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+2909 LD Capelle aan den IJssel
+
+Upjohn EESV Rivium Westlaan 142 Netherlands
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+## Lyrica 25 mg hard capsules
+
+EU/1/04/279/001-005
+
+EU/1/04/279/026
+
+EU/1/04/279/036
+
+EU/1/04/279/046
+
+Lyrica 50 mg hard capsules EU/1/04/279/006-010 EU/1/04/279/037
+
+## Lyrica 75 mg hard capsules
+
+EU/1/04/279/011-013
+
+EU/1/04/279/027
+
+EU/1/04/279/030
+
+EU/1/04/279/038
+
+EU/1/04/279/045
+
+Lyrica 100 mg hard capsules EU/1/04/279/014-016 EU/1/04/279/39
+
+<div style=\"page-break-after: always\"></div>
+
+## Lyrica 150 mg hard capsules
+
+EU/1/04/279/017-019 EU/1/04/279/028 EU/1/04/279/031 EU/1/04/279/040
+
+Lyrica 200 mg hard capsules
+
+EU/1/04/279/020 - 022 EU/1/04/279/041
+
+Lyrica 225 mg hard capsules
+
+EU/1/04/279/033 - 035 EU/1/04/279/042
+
+## Lyrica 300 mg hard capsules
+
+EU/1/04/279/023 - 025 EU/1/04/279/029 EU/1/04/279/032 EU/1/04/279/043
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 06 July 2004
+
+Date of latest renewal: 29 May 2009
+
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 20 mg/mL oral solution
+
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+Each mL contains 20 mg of pregabalin
+
+Excipients with known effect Each mL contains 1.3 mg of methyl parahydroxybenzoate (E218), 0.163 mg of propyl parahydroxybenzoate (E216)
+
+For the full list of excipients, see section 6.1.
+
+## 3. PHARMACEUTICAL FORM
+
+Oral solution Clear colourless liquid
+
+## 4. CLINICAL PARTICULARS
+
+## 4.1 Therapeutic indications
+
+## Neuropathic pain
+
+Lyrica is indicated for the treatment of peripheral and central neuropathic pain in adults.
+
+## Epilepsy
+
+Lyrica is indicated as adjunctive therapy in adults with partial seizures with or without secondary generalisation.
+
+## Generalised Anxiety Disorder
+
+Lyrica is indicated for the treatment of Generalised Anxiety Disorder (GAD) in adults.
+
+## 4.2 Posology and method of administration
+
+## Posology
+
+The dose range is 150 to 600 mg (7.5 to 30 mL) per day given in either two or three divided doses.
+
+## Neuropathic pain
+
+Pregabalin treatment can be started at a dose of 150 mg (7.5 mL) per day given as two or three divided doses. Based on individual patient response and tolerability, the dose may be increased to 300 mg (15 mL) per day after an interval of 3 to 7 days, and if needed, to a maximum dose of 600 mg (30 mL) per day after an additional 7-day interval.
+
+## Epilepsy
+
+Pregabalin treatment can be started with a dose of 150 mg (7.5 mL) per day given as two or three divided doses. Based on individual patient response and tolerability, the dose may be increased to 300 mg (15 mL) per day after 1 week. The maximum dose of 600 mg (30 mL) per day may be achieved after an additional week.
+
+<div style=\"page-break-after: always\"></div>
+
+## Generalised Anxiety Disorder
+
+The dose range is 150 to 600 mg (7.5 to 30 mL) per day given as two or three divided doses. The need for treatment should be reassessed regularly.
+
+Pregabalin treatment can be started with a dose of 150 mg (7.5 mL) per day. Based on individual patient response and tolerability, the dose may be increased to 300 mg (15 mL) per day after 1 week. Following an additional week the dose may be increased to 450 mg (22.5 mL) per day. The maximum dose of 600 mg (30 mL) per day may be achieved after an additional week.
+
+## Discontinuation of pregabalin
+
+In accordance with current clinical practice, if pregabalin has to be discontinued it is recommended this should be done gradually over a minimum of 1 week independent of the indication (see sections 4.4 and 4.8).
+
+## Renal impairment
+
+Pregabalin is eliminated from the systemic circulation primarily by renal excretion as unchanged drug. As pregabalin clearance is directly proportional to creatinine clearance (see section 5.2), dose reduction in patients with compromised renal function must be individualised according to creatinine clearance (CLcr), as indicated in Table 1 determined using the following formula:
+
+<!-- formula-not-decoded -->
+
+Pregabalin is removed effectively from plasma by haemodialysis (50% of drug in 4 hours). For patients receiving haemodialysis, the pregabalin daily dose should be adjusted based on renal function. In addition to the daily dose, a supplementary dose should be given immediately following every 4 hour haemodialysis treatment (see Table 1).
+
+Table 1. Pregabalin dose adjustment based on renal function
+
+| Creatinine clearance (CL cr ) (mL/min)          | Total pregabalin daily dose*                    | Total pregabalin daily dose*                    | Dose regimen                                    |
+|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|
+|                                                 | Starting dose (mg/day)                          | Maximum dose (mg/day)                           |                                                 |
+| ≥ 60                                            | 150 (7.5 mL)                                    | 600 (30 mL)                                     | BID or TID                                      |
+| ≥ 30 - < 60                                     | 75 (3.75 mL)                                    | 300 (15 mL)                                     | BID or TID                                      |
+| ≥ 15 - < 30                                     | 25 - 50 (1.25- 2.5 mL)                          | 150 (7.5 mL)                                    | Once Daily or BID                               |
+| < 15                                            | 25 (1.25 mL)                                    | 75 (3.75 mL)                                    | Once Daily                                      |
+| Supplementary dose following haemodialysis (mg) | Supplementary dose following haemodialysis (mg) | Supplementary dose following haemodialysis (mg) | Supplementary dose following haemodialysis (mg) |
+|                                                 | 25 (1.25 mL)                                    | 100 (5 mL)                                      | Single dose +                                   |
+
+TID = Three divided doses
+
+BID = Two divided doses
+
+* Total daily dose (mg/day) should be divided as indicated by dose regimen to provide mg/dose
+
++ Supplementary dose is a single additional dose
+
+## Hepatic impairment
+
+No dose adjustment is required for patients with hepatic impairment (see section 5.2).
+
+## Paediatric population
+
+The safety and efficacy of Lyrica in children below the age of 12 years and in adolescents (12-17 years of age) have not been established. Currently available data are described in sections 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
+
+<div style=\"page-break-after: always\"></div>
+
+## Elderly
+
+Elderly patients may require a dose reduction of pregabalin due to a decreased renal function (see section 5.2).
+
+## Method of administration
+
+Lyrica may be taken with or without food.
+
+## Lyrica is for oral use only.
+
+A graduated oral syringe and a Press-In Bottle Adapter (PIBA) are provided with the product. See section 6.6 for information on administration.
+
+## 4.3 Contraindications
+
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+
+## 4.4 Special warnings and precautions for use
+
+## Diabetic patients
+
+In accordance with current clinical practice, some diabetic patients who gain weight on pregabalin treatment may need to adjust hypoglycaemic medicinal products.
+
+## Hypersensitivity reactions
+
+There have been reports in the postmarketing experience of hypersensitivity reactions, including cases of angioedema. Pregabalin should be discontinued immediately if symptoms of angioedema, such as facial, perioral, or upper airway swelling occur.
+
+## Severe cutaneous adverse reactions (SCARs)
+
+SCARs including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), which can be life-threatening or fatal, have been reported rarely in association with pregabalin treatment. At the time of prescription patients should be advised of the signs and symptoms and monitored closely for skin reactions. If signs and symptoms suggestive of these reactions appear, pregabalin should be withdrawn immediately and an alternative treatment considered (as appropriate).
+
+Dizziness, somnolence, loss of consciousness, confusion and mental impairment Pregabalin treatment has been associated with dizziness and somnolence, which could increase the occurrence of accidental injury (fall) in the elderly population. There have also been postmarketing reports of loss of consciousness, confusion and mental impairment. Therefore, patients should be advised to exercise caution until they are familiar with the potential effects of the medicinal product.
+
+## Vision-related effects
+
+In controlled trials, a higher proportion of patients treated with pregabalin reported blurred vision than did patients treated with placebo which resolved in a majority of cases with continued dosing. In the clinical studies where ophthalmologic testing was conducted, the incidence of visual acuity reduction and visual field changes was greater in pregabalin-treated patients than in placebo-treated patients; the incidence of fundoscopic changes was greater in placebo-treated patients (see section 5.1).
+
+In the postmarketing experience, visual adverse reactions have also been reported, including loss of vision, visual blurring or other changes of visual acuity, many of which were transient. Discontinuation of pregabalin may result in resolution or improvement of these visual symptoms.
+
+## Renal failure
+
+Cases of renal failure have been reported and in some cases discontinuation of pregabalin did show reversibility of this adverse reaction.
+
+## Withdrawal of concomitant anti-epileptic medicinal products
+
+There are insufficient data for the withdrawal of concomitant anti-epileptic medicinal products, once seizure control with pregabalin in the add-on situation has been reached, in order to reach monotherapy on pregabalin.
+
+<div style=\"page-break-after: always\"></div>
+
+## Congestive heart failure
+
+There have been postmarketing reports of congestive heart failure in some patients receiving pregabalin. These reactions are mostly seen in elderly cardiovascular compromised patients during pregabalin treatment for a neuropathic indication. Pregabalin should be used with caution in these patients. Discontinuation of pregabalin may resolve the reaction.
+
+## Treatment of central neuropathic pain due to spinal cord injury
+
+In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse reactions in general, central nervous system adverse reactions and especially somnolence was increased. This may be attributed to an additive effect due to concomitant medicinal products (e.g. anti-spasticity agents) needed for this condition. This should be considered when prescribing pregabalin in this condition.
+
+## Respiratory depression
+
+There have been reports of severe respiratory depression in relation to pregabalin use. Patients with compromised respiratory function, respiratory or neurological disease, renal impairment, concomitant use of CNS depressants and the elderly may be at higher risk of experiencing this severe adverse reaction. Dose adjustments may be necessary in these patients (see section 4.2).
+
+## Suicidal ideation and behaviour
+
+Suicidal ideation and behaviour have been reported in patients treated with anti-epileptic agents in several indications. A meta-analysis of randomised placebo controlled studies of anti-epileptic drugs has also shown a small increased risk of suicidal ideation and behaviour. The mechanism of this risk is not known. Cases of suicidal ideation and behaviour have been observed in patients treated with pregabalin in the postmarketing experience (see section 4.8). An epidemiological study using a self-controlled study design (comparing treatment periods with non-treatment periods within an individual) showed evidence of an increased risk of new onset of suicidal behaviour and death by suicide in patients treated with pregabalin.
+
+Patients (and caregivers of patients) should be advised to seek medical advice should signs of suicidal ideation or behaviour emerge. Patients should be monitored for signs of suicidal ideation and behaviour and appropriate treatment should be considered. Discontinuation of pregabalin treatment should be considered in case of suicidal ideation and behaviour.
+
+## Reduced lower gastrointestinal tract function
+
+There are postmarketing reports of events related to reduced lower gastrointestinal tract function (e.g. intestinal obstruction, paralytic ileus, constipation) when pregabalin was co-administered with medications that have the potential to produce constipation, such as opioid analgesics. When pregabalin and opioids will be used in combination, measures to prevent constipation may be considered (especially in female patients and elderly).
+
+## Concomitant use with opioids
+
+Caution is advised when prescribing pregabalin concomitantly with opioids due to risk of CNS depression (see section 4.5). In a case-control study of opioid users, those patients who took pregabalin concomitantly with an opioid had an increased risk for opioid-related death compared to opioid use alone (adjusted odds ratio [aOR], 1.68 [95% CI, 1.19 - 2.36]). This increased risk was observed at low doses of pregabalin (≤ 300 mg, aOR 1.52 [95% CI, 1.04 - 2.22]) and there was a trend for a greater risk at high doses of pregabalin (&gt; 300 mg, aOR 2.51 [95% CI 1.24 - 5.06]).
+
+## Misuse, abuse potential or dependence
+
+Pregabalin can cause drug dependence, which may occur at therapeutic doses. Cases of abuse and misuse have been reported. Patients with a history of substance abuse may be at higher risk for pregabalin misuse, abuse and dependence, and pregabalin should be used with caution in such patients. Before prescribing pregabalin, the patient's risk of misuse, abuse or dependence should be carefully evaluated.
+
+<div style=\"page-break-after: always\"></div>
+
+Patients treated with pregabalin should be monitored for signs and symptoms of pregabalin misuse, abuse or dependence, such as development of tolerance, dose escalation and drug-seeking behaviour.
+
+## Withdrawal symptoms
+
+After discontinuation of short-term and long-term treatment with pregabalin, withdrawal symptoms have been observed. The following symptoms have been reported: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, nervousness, depression, suicidal ideation, pain, convulsion, hyperhidrosis and dizziness. The occurrence of withdrawal symptoms following discontinuation of pregabalin may indicate drug dependence (see section 4.8). The patient should be informed about this at the start of the treatment. If pregabalin should be discontinued, it is recommended this should be done gradually over a minimum of 1 week independent of the indication (see section 4.2).
+
+Convulsions, including status epilepticus and grand mal convulsions, may occur during pregabalin use or shortly after discontinuing pregabalin.
+
+Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related.
+
+## Encephalopathy
+
+Cases of encephalopathy have been reported, mostly in patients with underlying conditions that may precipitate encephalopathy.
+
+## Women of childbearing potential/Contraception
+
+Lyrica use in the first-trimester of pregnancy may cause major birth defects in the unborn child. Pregabalin should not be used during pregnancy unless the benefit to the mother clearly outweighs the potential risk to the foetus. Women of childbearing potential have to use effective contraception during treatment (see section 4.6).
+
+## Excipients which may cause allergic reactions
+
+Lyrica oral solution contains methyl parahydroxybenzoate and propyl parahydroxybenzoate which may cause allergic reactions (possibly delayed).
+
+## Sodium content
+
+Lyrica contains less than 1 mmol sodium (23 mg) per maximum daily dose of 600 mg (30 mL). Patients on low sodium diets can be informed that this medicinal product is essentially 'sodium-free'.
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
+
+Since pregabalin is predominantly excreted unchanged in the urine, undergoes negligible metabolism in humans (&lt; 2% of a dose recovered in urine as metabolites), does not inhibit drug metabolism in vitro , and is not bound to plasma proteins, it is unlikely to produce, or be subject to, pharmacokinetic interactions.
+
+## In vivo studies and population pharmacokinetic analysis
+
+Accordingly, in in vivo studies no clinically relevant pharmacokinetic interactions were observed between pregabalin and phenytoin, carbamazepine, valproic acid, lamotrigine, gabapentin, lorazepam, oxycodone or ethanol. Population pharmacokinetic analysis indicated that oral antidiabetics, diuretics, insulin, phenobarbital, tiagabine and topiramate had no clinically significant effect on pregabalin clearance.
+
+## Oral contraceptives, norethisterone and/or ethinyl oestradiol
+
+Co-administration of pregabalin with the oral contraceptives norethisterone and/or ethinyl oestradiol does not influence the steady-state pharmacokinetics of either substance.
+
+Central nervous system influencing medical products
+
+Pregabalin may potentiate the effects of ethanol and lorazepam.
+
+<div style=\"page-break-after: always\"></div>
+
+In the postmarketing experience, there are reports of respiratory failure, coma and deaths in patients taking pregabalin and opioids and/or other central nervous system (CNS) depressant medicinal products. Pregabalin appears to be additive in the impairment of cognitive and gross motor function caused by oxycodone.
+
+## Interactions and the elderly
+
+No specific pharmacodynamic interaction studies were conducted in elderly volunteers. Interaction studies have only been performed in adults.
+
+## 4.6 Fertility, pregnancy and lactation
+
+## Women of childbearing potential/Contraception
+
+Women of childbearing potential have to use effective contraception during treatment (see section 4.4).
+
+## Pregnancy
+
+Studies in animals have shown reproductive toxicity (see section 5.3).
+
+Pregabalin has been shown to cross the placenta in rats (see section 5.2). Pregabalin may cross the human placenta.
+
+## Major congenital malformations
+
+Data from a Nordic observational study of more than 2700 pregnancies exposed to pregabalin in the first trimester showed a higher prevalence of major congenital malformations (MCM) among the paediatric population (live or stillborn) exposed to pregabalin compared to the unexposed population (5.9% vs. 4.1%).
+
+The risk of MCM among the paediatric population exposed to pregabalin in the first trimester was slightly higher compared to unexposed population (adjusted prevalence ratio and 95% confidence interval: 1.14 (0.96-1.35)), and compared to population exposed to lamotrigine (1.29 (1.01-1.65)) or to duloxetine (1.39 (1.07-1.82)).
+
+The analyses on specific malformations showed higher risks for malformations of the nervous system, the eye, orofacial clefts, urinary malformations and genital malformations, but numbers were small and estimates imprecise.
+
+Lyrica should not be used during pregnancy unless clearly necessary (if the benefit to the mother clearly outweighs the potential risk to the foetus).
+
+## Breast-feeding
+
+Pregabalin is excreted into human milk (see section 5.2). The effect of pregabalin on newborns/infants is unknown. A decision must be made whether to discontinue breast-feeding or to discontinue pregabalin therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
+
+## Fertility
+
+There are no clinical data on the effects of pregabalin on female fertility.
+
+In a clinical trial to assess the effect of pregabalin on sperm motility, healthy male subjects were exposed to pregabalin at a dose of 600 mg/day. After 3 months of treatment, there were no effects on sperm motility.
+
+A fertility study in female rats has shown adverse reproductive effects. Fertility studies in male rats have shown adverse reproductive and developmental effects. The clinical relevance of these findings is unknown (see section 5.3).
+
+<div style=\"page-break-after: always\"></div>
+
+## 4.7 Effects on ability to drive and use machines
+
+Lyrica may have minor or moderate influence on the ability to drive and use machines. Lyrica may cause dizziness and somnolence and therefore may influence the ability to drive or use machines. Patients are advised not to drive, operate complex machinery or engage in other potentially hazardous activities until it is known whether this medicinal product affects their ability to perform these activities.
+
+## 4.8 Undesirable effects
+
+The pregabalin clinical programme involved over 8,900 patients exposed to pregabalin, of whom over 5,600 were in double-blind placebo controlled trials. The most commonly reported adverse reactions were dizziness and somnolence. Adverse reactions were usually mild to moderate in intensity. In all controlled studies, the discontinuation rate due to adverse reactions was 12% for patients receiving pregabalin and 5% for patients receiving placebo. The most common adverse reactions resulting in discontinuation from pregabalin treatment groups were dizziness and somnolence.
+
+In table 2 below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+
+The adverse reactions listed may also be associated with the underlying disease and/or concomitant medicinal products.
+
+In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse reactions in general, CNS adverse reactions and especially somnolence was increased (see section 4.4).
+
+Additional reactions reported from postmarketing experience are included in italics in the list below.
+
+Table 2. Pregabalin Adverse Drug Reactions
+
+| System Organ Class                   | Adverse drug reactions                                                                                                                                                                                                       |
+|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations          | Infections and infestations                                                                                                                                                                                                  |
+| Common                               | Nasopharyngitis                                                                                                                                                                                                              |
+| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                                                                                                                                                         |
+| Uncommon                             | Neutropaenia                                                                                                                                                                                                                 |
+| Immune system disorders              | Immune system disorders                                                                                                                                                                                                      |
+| Uncommon                             | Hypersensitivity                                                                                                                                                                                                             |
+| Rare                                 | Angioedema , allergic reaction                                                                                                                                                                                               |
+| Metabolism and nutrition disorders   | Metabolism and nutrition disorders                                                                                                                                                                                           |
+| Common                               | Appetite increased                                                                                                                                                                                                           |
+| Uncommon                             | Anorexia, hypoglycaemia                                                                                                                                                                                                      |
+| Psychiatric disorders                | Psychiatric disorders                                                                                                                                                                                                        |
+| Common                               | Euphoric mood, confusion, irritability, disorientation, insomnia, libido decreased                                                                                                                                           |
+| Uncommon                             | Hallucination, panic attack, restlessness, agitation, depression, depressed mood, elevated mood, aggression , mood swings, depersonalisation, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy |
+| Rare                                 | Disinhibition, suicidal behaviour, suicidal ideation                                                                                                                                                                         |
+| Not known                            | Drug dependence                                                                                                                                                                                                              |
+
+<div style=\"page-break-after: always\"></div>
+
+| System Organ Class                              | Adverse drug reactions                                                                                                                                                                                                                                                 |
+|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nervous system disorders                        | Nervous system disorders                                                                                                                                                                                                                                               |
+| Very Common                                     | Dizziness, somnolence, headache                                                                                                                                                                                                                                        |
+| Common                                          | Ataxia, coordination abnormal, tremor, dysarthria, amnesia, memory impairment, disturbance in attention, paraesthesia, hypoaesthesia, sedation, balance disorder, lethargy                                                                                             |
+| Uncommon                                        | Syncope, stupor, myoclonus, loss of consciousness , psychomotor hyperactivity, dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, mental impairment , speech disorder, hyporeflexia, hyperaesthesia, burning sensation, ageusia, malaise |
+| Rare                                            | Convulsions , parosmia, hypokinesia, dysgraphia, parkinsonism                                                                                                                                                                                                          |
+| Eye disorders                                   | Eye disorders                                                                                                                                                                                                                                                          |
+| Common                                          | Vision blurred, diplopia                                                                                                                                                                                                                                               |
+| Uncommon                                        | Peripheral vision loss, visual disturbance, eye swelling, visual field defect, visual acuity reduced, eye pain, asthenopia, photopsia, dry eye, lacrimation increased, eye irritation                                                                                  |
+| Rare                                            | Vision loss , keratitis , oscillopsia, altered visual depth perception, mydriasis, strabismus, visual brightness                                                                                                                                                       |
+| Ear and labyrinth disorders                     | Ear and labyrinth disorders                                                                                                                                                                                                                                            |
+| Common                                          | Vertigo                                                                                                                                                                                                                                                                |
+| Uncommon                                        | Hyperacusis                                                                                                                                                                                                                                                            |
+| Cardiac disorders                               | Cardiac disorders                                                                                                                                                                                                                                                      |
+| Uncommon Rare                                   | Tachycardia, atrioventricular block first degree, sinus bradycardia, congestive heart failure QT prolongation , sinus tachycardia, sinus arrhythmia                                                                                                                    |
+| Vascular disorders                              | Vascular disorders                                                                                                                                                                                                                                                     |
+| Uncommon                                        | Hypotension, hypertension, hot flushes, flushing, peripheral coldness                                                                                                                                                                                                  |
+| Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                        |
+| Uncommon                                        | Dyspnoea, epistaxis, cough, nasal congestion, rhinitis, snoring, nasal dryness                                                                                                                                                                                         |
+| Not known                                       | Respiratory depression                                                                                                                                                                                                                                                 |
+| Gastrointestinal disorders                      | Gastrointestinal disorders                                                                                                                                                                                                                                             |
+| Common                                          | Vomiting, nausea , constipation, diarrhoea , flatulence, abdominal distension, dry mouth                                                                                                                                                                               |
+| Uncommon                                        | Gastrooesophageal reflux disease, salivary hypersecretion, hypoaesthesia oral                                                                                                                                                                                          |
+| Rare                                            | Ascites, pancreatitis, swollen tongue , dysphagia                                                                                                                                                                                                                      |
+| Hepatobiliary disorders                         | Hepatobiliary disorders                                                                                                                                                                                                                                                |
+| Uncommon                                        | Elevated liver enzymes*                                                                                                                                                                                                                                                |
+| Rare                                            | Jaundice                                                                                                                                                                                                                                                               |
+| Very rare                                       | Hepatic failure, hepatitis                                                                                                                                                                                                                                             |
+| Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                                 |
+| Uncommon                                        | Rash papular, urticaria, hyperhidrosis, pruritus                                                                                                                                                                                                                       |
+| Rare                                            | Toxic epidermal necrolysis, Stevens-Johnson syndrome , cold sweat                                                                                                                                                                                                      |
+| Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                        |
+| Common                                          | Muscle cramp, arthralgia, back pain, pain in limb, cervical spasm                                                                                                                                                                                                      |
+| Uncommon                                        | Joint swelling, myalgia, muscle twitching, neck pain, muscle stiffness                                                                                                                                                                                                 |
+| Rare                                            | Rhabdomyolysis                                                                                                                                                                                                                                                         |
+| Renal and urinary disorders                     | Renal and urinary disorders                                                                                                                                                                                                                                            |
+| Uncommon                                        | Urinary incontinence, dysuria                                                                                                                                                                                                                                          |
+| Rare                                            | Renal failure, oliguria, urinary retention                                                                                                                                                                                                                             |
+
+<div style=\"page-break-after: always\"></div>
+
+| System Organ Class                                   | Adverse drug reactions                                                                                                                                             |
+|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Reproductive system and breast disorders             | Reproductive system and breast disorders                                                                                                                           |
+| Common                                               | Erectile dysfunction                                                                                                                                               |
+| Uncommon                                             | Sexual dysfunction, ejaculation delayed, dysmenorrhoea, breast pain                                                                                                |
+| Rare                                                 | Amenorrhoea, breast discharge, breast enlargement, gynaecomastia                                                                                                   |
+| General disorders and administration site conditions | General disorders and administration site conditions                                                                                                               |
+| Common                                               | Oedema peripheral, oedema, gait abnormal, fall, feeling drunk, feeling abnormal, fatigue                                                                           |
+| Uncommon                                             | Generalised oedema, face oedema , chest tightness, pain, pyrexia, thirst, chills, asthenia                                                                         |
+| Investigations                                       | Investigations                                                                                                                                                     |
+| Common                                               | Weight increased                                                                                                                                                   |
+| Uncommon                                             | Blood creatine phosphokinase increased, blood glucose increased, platelet count decreased, blood creatinine increased, blood potassium decreased, weight decreased |
+| Rare                                                 | White blood cell count decreased                                                                                                                                   |
+
+* Alanine aminotransferase increased (ALT) and aspartate aminotransferase increased (AST).
+
+After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed. The following symptoms have been reported: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, suidical ideation, pain , hyperhidrosis and dizziness. These symptoms may indicate drug dependence. The patient should be informed about this at the start of the treatment. Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related (see sections 4.2 and 4.4).
+
+## Paediatric population
+
+The pregabalin safety profile observed in five paediatric studies in patients with partial seizures with or without secondary generalisation (12-week efficacy and safety study in patients 4 to 16 years of age, n=295; 14-day efficacy and safety study in patients 1 month to younger than 4 years of age, n=175; pharmacokinetic and tolerability study, n=65; and two 1 year open label follow on safety studies, n=54 and n=431) was similar to that observed in the adult studies of patients with epilepsy. The most common adverse events observed in the 12-week study with pregabalin treatment were somnolence, pyrexia, upper respiratory tract infection, increased appetite, weight increased, and nasopharyngitis. The most common adverse events observed in the 14-day study with pregabalin treatment were somnolence, upper respiratory tract infection, and pyrexia (see sections 4.2, 5.1 and 5.2).
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+## 4.9 Overdose
+
+In the postmarketing experience, the most commonly reported adverse reactions observed when pregabalin was taken in overdose included somnolence, confusional state, agitation, and restlessness. Seizures were also reported.
+
+In rare occasions, cases of coma have been reported.
+
+Treatment of pregabalin overdose should include general supportive measures and may include haemodialysis if necessary (see section 4.2 Table 1).
+
+<div style=\"page-break-after: always\"></div>
+
+## 5. PHARMACOLOGICAL PROPERTIES
+
+## 5.1 Pharmacodynamic properties
+
+Pharmacotherapeutic group: Analgesics, other analgesics and antipyretics ATC code: N02BF02
+
+The active substance, pregabalin, is a gamma-aminobutyric acid analogue [(S)-3-(aminomethyl)-5-methylhexanoic acid].
+
+## Mechanism of action
+
+Pregabalin binds to an auxiliary subunit ( α 2δ protein) of voltage-gated calcium channels in the central nervous system.
+
+## Clinical efficacy and safety
+
+## Neuropathic pain
+
+Efficacy has been shown in trials in diabetic neuropathy, post herpetic neuralgia and spinal cord injury. Efficacy has not been studied in other models of neuropathic pain.
+
+Pregabalin has been studied in 10 controlled clinical trials of up to 13 weeks with twice a day dosing (BID) and up to 8 weeks with three times a day (TID) dosing. Overall, the safety and efficacy profiles for BID and TID dosing regimens were similar.
+
+In clinical trials up to 12 weeks for both peripheral and central neuropathic pain, a reduction in pain was seen by Week 1 and was maintained throughout the treatment period.
+
+In controlled clinical trials in peripheral neuropathic pain 35% of the pregabalin treated patients and 18% of the patients on placebo had a 50% improvement in pain score. For patients not experiencing somnolence, such an improvement was observed in 33% of patients treated with pregabalin and 18% of patients on placebo. For patients who experienced somnolence the responder rates were 48% on pregabalin and 16% on placebo.
+
+In the controlled clinical trial in central neuropathic pain 22% of the pregabalin treated patients and 7% of the patients on placebo had a 50% improvement in pain score.
+
+## Epilepsy
+
+## Adjunctive Treatment
+
+Pregabalin has been studied in 3 controlled clinical trials of 12 week duration with BID or TID dosing. Overall, the safety and efficacy profiles for BID and TID dosing regimens were similar.
+
+A reduction in seizure frequency was observed by Week 1.
+
+## Paediatric population
+
+The efficacy and safety of pregabalin as adjunctive treatment for epilepsy in paediatric patients below the age of 12 and adolescents has not been established. The adverse events observed in a pharmacokinetic and tolerability study that enrolled patients from 3 months to 16 years of age (n=65) with partial onset seizures were similar to those observed in adults. Results of a 12-week placebo-controlled study of 295 paediatric patients aged 4 to 16 years and a 14-day placebo-controlled study of 175 paediatric patients aged 1 month to younger than 4 years of age performed to evaluate the efficacy and safety of pregabalin as adjunctive therapy for the treatment of partial onset seizures and two 1 year open label safety studies in 54 and 431 paediatric patients respectively, from 3 months to 16 years of age with epilepsy indicate that the adverse events of pyrexia and upper respiratory infections were observed more frequently than in adult studies of patients with epilepsy (see sections 4.2, 4.8 and 5.2).
+
+In the 12-week placebo-controlled study, paediatric patients (4 to 16 years of age) were assigned to pregabalin 2.5 mg/kg/day (maximum, 150 mg/day), pregabalin 10 mg/kg/day (maximum,
+
+<div style=\"page-break-after: always\"></div>
+
+600 mg/day), or placebo. The percentage of subjects with at least a 50% reduction in partial onset seizures as compared to baseline was 40.6% of subjects treated with pregabalin 10 mg/kg/day (p=0.0068 versus placebo), 29.1% of subjects treated with pregabalin 2.5 mg/kg/day (p=0.2600 versus placebo) and 22.6% of those receiving placebo.
+
+In the 14-day placebo-controlled study, paediatric patients (1 month to younger than 4 years of age) were assigned to pregabalin 7 mg/kg/day, pregabalin 14 mg/kg/day, or placebo. Median 24-hour seizure frequencies at baseline and at the final visit were 4.7 and 3.8 for pregabalin 7 mg/kg/day, 5.4 and 1.4 for pregabalin 14 mg/kg/day, and 2.9 and 2.3 for placebo, respectively. Pregabalin 14 mg/kg/day significantly reduced the log-transformed partial onset seizure frequency versus placebo (p=0.0223); pregabalin 7 mg/kg/day did not show improvement relative to placebo.
+
+In a 12-week placebo-controlled study in subjects with Primary Generalized Tonic-Clonic (PGTC) seizures 219 subjects (aged 5 to 65 years, of which 66 were aged 5 to 16 years) were assigned to pregabalin 5 mg/kg/day (maximum 300 mg/day), 10 mg/kg/day (maximum 600 mg/day) or placebo as adjunctive therapy. The percentage of subjects with at least a 50% reduction in PGTC seizure rate was 41.3%, 38.9% and 41.7% for pregabalin 5 mg/kg/day, pregabalin 10 mg/kg/day and placebo respectively.
+
+## Monotherapy (newly diagnosed patients)
+
+Pregabalin has been studied in 1 controlled clinical trial of 56 week duration with BID dosing. Pregabalin did not achieve non-inferiority to lamotrigine based on the 6-month seizure freedom endpoint. Pregabalin and lamotrigine were similarly safe and well tolerated.
+
+## Generalised Anxiety Disorder
+
+Pregabalin has been studied in 6 controlled trials of 4-6 week duration, an elderly study of 8 week duration and a long-term relapse prevention study with a double-blind relapse prevention phase of 6 months duration.
+
+Relief of the symptoms of GAD as reflected by the Hamilton Anxiety Rating Scale (HAM-A) was observed by Week 1.
+
+In controlled clinical trials (4-8 week duration) 52% of the pregabalin treated patients and 38% of the patients on placebo had at least a 50% improvement in HAM-A total score from baseline to endpoint.
+
+In controlled trials, a higher proportion of patients treated with pregabalin reported blurred vision than did patients treated with placebo which resolved in a majority of cases with continued dosing. Ophthalmologic testing (including visual acuity testing, formal visual field testing and dilated funduscopic examination) was conducted in over 3600 patients within controlled clinical trials. In these patients, visual acuity was reduced in 6.5% of patients treated with pregabalin, and 4.8% of placebo-treated patients. Visual field changes were detected in 12.4% of pregabalin-treated, and 11.7% of placebo-treated patients. Funduscopic changes were observed in 1.7% of pregabalin-treated and 2.1% of placebo-treated patients.
+
+## 5.2 Pharmacokinetic properties
+
+Pregabalin steady-state pharmacokinetics are similar in healthy volunteers, patients with epilepsy receiving anti-epileptic drugs and patients with chronic pain.
+
+## Absorption
+
+Pregabalin is rapidly absorbed when administered in the fasted state, with peak plasma concentrations occurring within 1 hour following both single and multiple dose administration. Pregabalin oral bioavailability is estimated to be ≥ 90% and is independent of dose. Following repeated administration, steady state is achieved within 24 to 48 hours. The rate of pregabalin absorption is decreased when given with food resulting in a decrease in Cmax by approximately 25-30% and a delay in tmax to approximately 2.5 hours. However, administration of pregabalin with food has no clinically significant effect on the extent of pregabalin absorption.
+
+<div style=\"page-break-after: always\"></div>
+
+## Distribution
+
+In preclinical studies, pregabalin has been shown to cross the blood brain barrier in mice, rats, and monkeys. Pregabalin has been shown to cross the placenta in rats and is present in the milk of lactating rats. In humans, the apparent volume of distribution of pregabalin following oral administration is approximately 0.56 l/kg. Pregabalin is not bound to plasma proteins.
+
+## Biotransformation
+
+Pregabalin undergoes negligible metabolism in humans. Following a dose of radiolabelled pregabalin, approximately 98% of the radioactivity recovered in the urine was unchanged pregabalin. The N-methylated derivative of pregabalin, the major metabolite of pregabalin found in urine, accounted for 0.9% of the dose. In preclinical studies, there was no indication of racemisation of pregabalin S-enantiomer to the R-enantiomer.
+
+## Elimination
+
+Pregabalin is eliminated from the systemic circulation primarily by renal excretion as unchanged drug. Pregabalin mean elimination half-life is 6.3 hours. Pregabalin plasma clearance and renal clearance are directly proportional to creatinine clearance (see section 5.2 Renal impairment).
+
+Dose adjustment in patients with reduced renal function or undergoing haemodialysis is necessary (see section 4.2 Table 1).
+
+## Linearity/non-linearity
+
+Pregabalin pharmacokinetics are linear over the recommended daily dose range. Inter-subject pharmacokinetic variability for pregabalin is low (&lt; 20%). Multiple dose pharmacokinetics are predictable from single-dose data. Therefore, there is no need for routine monitoring of plasma concentrations of pregabalin.
+
+## Gender
+
+Clinical trials indicate that gender does not have a clinically significant influence on the plasma concentrations of pregabalin.
+
+## Renal impairment
+
+Pregabalin clearance is directly proportional to creatinine clearance. In addition, pregabalin is effectively removed from plasma by haemodialysis (following a 4 hour haemodialysis treatment plasma pregabalin concentrations are reduced by approximately 50%). Because renal elimination is the major elimination pathway, dose reduction in patients with renal impairment and dose supplementation following haemodialysis is necessary (see section 4.2 Table 1).
+
+## Hepatic impairment
+
+No specific pharmacokinetic studies were carried out in patients with impaired liver function. Since pregabalin does not undergo significant metabolism and is excreted predominantly as unchanged drug in the urine, impaired liver function would not be expected to significantly alter pregabalin plasma concentrations.
+
+## Paediatric population
+
+Pregabalin pharmacokinetics were evaluated in paediatric patients with epilepsy (age groups: 1 to 23 months, 2 to 6 years, 7 to 11 years and 12 to 16 years) at dose levels of 2.5, 5, 10 and 15 mg/kg/day in a pharmacokinetic and tolerability study.
+
+After oral administration of pregabalin in paediatric patients in the fasted state, in general, time to reach peak plasma concentration was similar across the entire age group and occurred 0.5 hours to 2 hours postdose.
+
+Pregabalin Cmax and AUC parameters increased in a linear manner with increasing dose within each age group. The AUC was lower by 30% in paediatric patients below a weight of 30 kg due to an
+
+<div style=\"page-break-after: always\"></div>
+
+increased body weight adjusted clearance of 43% for these patients in comparison to patients weighing ≥30 kg.
+
+Pregabalin terminal half-life averaged about 3 to 4 hours in paediatric patients up to 6 years of age, and 4 to 6 hours in those 7 years of age and older.
+
+Population pharmacokinetic analysis showed that creatinine clearance was a significant covariate of pregabalin oral clearance, body weight was a significant covariate of pregabalin apparent oral volume of distribution, and these relationships were similar in paediatric and adult patients.
+
+Pregabalin pharmacokinetics in patients younger than 3 months old have not been studied (see sections 4.2, 4.8 and 5.1).
+
+## Elderly
+
+Pregabalin clearance tends to decrease with increasing age. This decrease in pregabalin oral clearance is consistent with decreases in creatinine clearance associated with increasing age. Reduction of pregabalin dose may be required in patients who have age related compromised renal function (see section 4.2 Table 1).
+
+## Breast-feeding mothers
+
+The pharmacokinetics of 150 mg pregabalin given every 12 hours (300 mg daily dose) was evaluated in 10 lactating women who were at least 12 weeks postpartum. Lactation had little to no influence on pregabalin pharmacokinetics. Pregabalin was excreted into breast milk with average steady-state concentrations approximately 76% of those in maternal plasma. The estimated infant dose from breast milk (assuming mean milk consumption of 150 mL/kg/day) of women receiving 300 mg/day or the maximum dose of 600 mg/day would be 0.31 or 0.62 mg/kg/day, respectively. These estimated doses are approximately 7% of the total daily maternal dose on a mg/kg basis.
+
+## 5.3 Preclinical safety data
+
+In conventional safety pharmacology studies in animals, pregabalin was well-tolerated at clinically relevant doses. In repeated dose toxicity studies in rats and monkeys CNS effects were observed, including hypoactivity, hyperactivity and ataxia. An increased incidence of retinal atrophy commonly observed in aged albino rats was seen after long-term exposure to pregabalin at exposures ≥ 5 times the mean human exposure at the maximum recommended clinical dose.
+
+Pregabalin was not teratogenic in mice, rats or rabbits. Foetal toxicity in rats and rabbits occurred only at exposures sufficiently above human exposure. In prenatal/postnatal toxicity studies, pregabalin induced offspring developmental toxicity in rats at exposures &gt; 2 times the maximum recommended human exposure.
+
+Adverse effects on fertility in male and female rats were only observed at exposures sufficiently in excess of therapeutic exposure. Adverse effects on male reproductive organs and sperm parameters were reversible and occurred only at exposures sufficiently in excess of therapeutic exposure or were associated with spontaneous degenerative processes in male reproductive organs in the rat. Therefore the effects were considered of little or no clinical relevance.
+
+Pregabalin is not genotoxic based on results of a battery of in vitro and in vivo tests.
+
+Two-year carcinogenicity studies with pregabalin were conducted in rats and mice. No tumours were observed in rats at exposures up to 24 times the mean human exposure at the maximum recommended clinical dose of 600 mg/day. In mice, no increased incidence of tumours was found at exposures similar to the mean human exposure, but an increased incidence of haemangiosarcoma was observed at higher exposures. The non-genotoxic mechanism of pregabalin-induced tumour formation in mice involves platelet changes and associated endothelial cell proliferation. These platelet changes were not present in rats or in humans based on short-term and limited long-term clinical data. There is no evidence to suggest an associated risk to humans.
+
+<div style=\"page-break-after: always\"></div>
+
+In juvenile rats the types of toxicity do not differ qualitatively from those observed in adult rats. However, juvenile rats are more sensitive. At therapeutic exposures, there was evidence of CNS clinical signs of hyperactivity and bruxism and some changes in growth (transient body weight gain suppression). Effects on the oestrus cycle were observed at 5-fold the human therapeutic exposure. Reduced acoustic startle response was observed in juvenile rats 1-2 weeks after exposure at &gt; 2 times the human therapeutic exposure. Nine weeks after exposure, this effect was no longer observable.
+
+## 6. PHARMACEUTICAL PARTICULARS
+
+## 6.1 List of excipients
+
+Methyl parahydroxybenzoate (E218) Propyl parahydroxybenzoate (E216) Sodium dihydrogen phosphate, anhydrous Disodium phosphate, anhydrous (E339) Sucralose (E955) Artificial strawberry flavour [contains small amounts of ethanol (alcohol)] Purified water
+
+## 6.2 Incompatibilities
+
+Not applicable.
+
+## 6.3 Shelf life
+
+2 years.
+
+## 6.4 Special precautions for storage
+
+This medicinal product does not require any special storage conditions.
+
+## 6.5 Nature and contents of container
+
+A white high density polyethylene (HDPE) bottle with polyethylene-lined closure, containing 473 mL of oral solution, in a cardboard carton. The carton also contains, in a clear polyethylene wrap, a 5 mL graduated oral syringe and a Press-In Bottle adapter (PIBA).
+
+## 6.6 Special precautions for disposal and other handling
+
+No special requirements for disposal.
+
+Method of Administration
+
+1. Open bottle and at first use insert the Press-In Bottle Adapter (PIBA) (Figures 1 and 2).
+2. Insert the syringe into the PIBA and draw out the required volume from the inverted bottle (Figures 3 and 4).
+3. Remove the filled syringe from the bottle in the upright position (Figures 5 and 6).
+4. Discharge the syringe contents into the mouth (Figure 7). Repeat steps 2 to 4 as needed to achieve the required dose (Table 3).
+5. Rinse the syringe and replace the cap on the bottle (PIBA remains in place) (Figures 8 and 9).
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+Table 3. Oral Syringe Withdrawals to Deliver Prescribed Dose of Lyrica
+
+|   Lyrica Dose (mg) |   Total Solution Volume (mL) |   First Syringe Withdrawal (mL) | Second Syringe Withdrawal (mL)   | Third Syringe Withdrawal (mL)   |
+|--------------------|------------------------------|---------------------------------|----------------------------------|---------------------------------|
+|                 25 |                         1.25 |                            1.25 | Not required                     | Not required                    |
+|                 50 |                         2.5  |                            2.5  | Not required                     | Not required                    |
+|                 75 |                         3.75 |                            3.75 | Not required                     | Not required                    |
+|                100 |                         5    |                            5    | Not required                     | Not required                    |
+|                150 |                         7.5  |                            5    | 2.5                              | Not required                    |
+|                200 |                        10    |                            5    | 5                                | Not required                    |
+|                225 |                        11.25 |                            5    | 5                                | 1.25                            |
+|                300 |                        15    |                            5    | 5                                | 5                               |
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+
+<div style=\"page-break-after: always\"></div>
+
+8.
+
+MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/04/279/044
+
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 06 July 2004
+
+Date of latest renewal: 29 May 2009
+
+10.
+
+DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+
+35
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 25 mg orodispersible tablets Lyrica 75 mg orodispersible tablets Lyrica 150 mg orodispersible tablets
+
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+Lyrica 25 mg orodispersible tablets Each tablet contains 25 mg of pregabalin.
+
+Lyrica 75 mg orodispersible tablets Each tablet contains 75 mg of pregabalin.
+
+Lyrica 150 mg orodispersible tablets Each tablet contains 150 mg of pregabalin.
+
+For the full list of excipients, see section 6.1.
+
+## 3. PHARMACEUTICAL FORM
+
+## Orodispersible tablets
+
+## Lyrica 25 mg orodispersible tablets
+
+White plain, round tablet marked with 'VTLY' and '25' (approximately 6.0 mm in diameter and 3.0 mm thick).
+
+## Lyrica 75 mg orodispersible tablets
+
+White plain, round tablet marked with 'VTLY' and '75' (approximately 8.3 mm in diameter and 4.8 mm thick).
+
+## Lyrica 150 mg orodispersible tablets
+
+White plain, round tablet marked with 'VTLY' and '150' (approximately 10.5 mm in diameter and 6.0 mm thick).
+
+## 4. CLINICAL PARTICULARS
+
+## 4.1 Therapeutic indications
+
+## Neuropathic pain
+
+Lyrica is indicated for the treatment of peripheral and central neuropathic pain in adults.
+
+## Epilepsy
+
+Lyrica is indicated as adjunctive therapy in adults with partial seizures with or without secondary generalisation.
+
+## Generalised anxiety disorder
+
+Lyrica is indicated for the treatment of Generalised Anxiety Disorder (GAD) in adults.
+
+## 4.2 Posology and method of administration
+
+## Posology
+
+The dose range is 150 to 600 mg per day given in either two or three divided doses.
+
+## Neuropathic pain
+
+Pregabalin treatment can be started at a dose of 150 mg per day given as two or three divided doses. Based on individual patient response and tolerability, the dose may be increased to 300 mg per day
+
+<div style=\"page-break-after: always\"></div>
+
+after an interval of 3 to 7 days, and if needed, to a maximum dose of 600 mg per day after an additional 7-day interval.
+
+## Epilepsy
+
+Pregabalin treatment can be started with a dose of 150 mg per day given as two or three divided doses. Based on individual patient response and tolerability, the dose may be increased to 300 mg per day after 1 week. The maximum dose of 600 mg per day may be achieved after an additional week.
+
+## Generalised anxiety disorder
+
+The dose range is 150 to 600 mg per day given as two or three divided doses. The need for treatment should be reassessed regularly.
+
+Pregabalin treatment can be started with a dose of 150 mg per day. Based on individual patient response and tolerability, the dose may be increased to 300 mg per day after 1 week. Following an additional week the dose may be increased to 450 mg per day. The maximum dose of 600 mg per day may be achieved after an additional week.
+
+## Discontinuation of pregabalin
+
+In accordance with current clinical practice, if pregabalin has to be discontinued, it is recommended this should be done gradually over a minimum of 1 week independent of the indication (see sections 4.4 and 4.8).
+
+## Renal impairment
+
+Pregabalin is eliminated from the systemic circulation primarily by renal excretion as unchanged drug. As pregabalin clearance is directly proportional to creatinine clearance (see section 5.2), dose reduction in patients with compromised renal function must be individualised according to creatinine clearance (CLcr), as indicated in Table 1 determined using the following formula:
+
+<!-- formula-not-decoded -->
+
+Pregabalin is removed effectively from plasma by haemodialysis (50% of drug in 4 hours). For patients receiving haemodialysis, the pregabalin daily dose should be adjusted based on renal function. In addition to the daily dose, a supplementary dose should be given immediately following every 4 hour haemodialysis treatment (see Table 1).
+
+Table 1. Pregabalin Dose Adjustment Based on Renal Function
+
+| Creatinine clearance (CL cr ) (mL/min)            | Total pregabalin daily dose*                      | Total pregabalin daily dose*                      | Dose regimen                                      |
+|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
+|                                                   | Starting dose (mg/day)                            | Maximum dose (mg/day)                             |                                                   |
+| ≥ 60                                              | 150                                               | 600                                               | BID or TID                                        |
+| ≥ 30 - < 60                                       | 75                                                | 300                                               | BID or TID                                        |
+| ≥ 15 - < 30                                       | 25 - 50                                           | 150                                               | Once Daily or BID                                 |
+| < 15                                              | 25                                                | 75                                                | Once Daily                                        |
+| Supplementary dosage following haemodialysis (mg) | Supplementary dosage following haemodialysis (mg) | Supplementary dosage following haemodialysis (mg) | Supplementary dosage following haemodialysis (mg) |
+|                                                   | 25                                                | 100                                               | Single dose +                                     |
+
+TID = Three divided doses
+
+BID = Two divided doses
+
+* Total daily dose (mg/day) should be divided as indicated by dose regimen to provide mg/dose
+
++ Supplementary dose is a single additional dose
+
+## Hepatic impairment
+
+No dose adjustment is required for patients with hepatic impairment (see section 5.2).
+
+<div style=\"page-break-after: always\"></div>
+
+## Paediatric population
+
+The safety and efficacy of Lyrica in children below the age of 12 years and in adolescents (12-17 years of age) have not been established. Currently available data are described in sections 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
+
+## Elderly
+
+Elderly patients may require a dose reduction of pregabalin due to a decreased renal function (see section 5.2).
+
+Method of administration
+
+Lyrica may be taken with or without food. Lyrica is for oral use only.
+
+The orodispersible tablet can be disintegrated on the tongue before swallowing. The tablet can be taken with or without water.
+
+## 4.3 Contraindications
+
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+
+## 4.4 Special warnings and precautions for use
+
+## Diabetic patients
+
+In accordance with current clinical practice, some diabetic patients who gain weight on pregabalin treatment may need to adjust hypoglycaemic medicinal products.
+
+## Hypersensitivity reactions
+
+There have been reports in the postmarketing experience of hypersensitivity reactions, including cases of angioedema. Pregabalin should be discontinued immediately if symptoms of angioedema, such as facial, perioral, or upper airway swelling occur.
+
+## Severe cutaneous adverse reactions (SCARs)
+
+SCARs including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN), which can be life-threatening or fatal, have been reported rarely in association with pregabalin treatment. At the time of prescription patients should be advised of the signs and symptoms and monitored closely for skin reactions. If signs and symptoms suggestive of these reactions appear, pregabalin should be withdrawn immediately and an alternative treatment considered (as appropriate).
+
+## Dizziness, somnolence, loss of consciousness, confusion and mental impairment
+
+Pregabalin treatment has been associated with dizziness and somnolence, which could increase the occurrence of accidental injury (fall) in the elderly population. There have also been postmarketing reports of loss of consciousness, confusion and mental impairment. Therefore, patients should be advised to exercise caution until they are familiar with the potential effects of the medicinal product.
+
+## Vision-related effects
+
+In controlled trials, a higher proportion of patients treated with pregabalin reported blurred vision than did patients treated with placebo which resolved in a majority of cases with continued dosing. In the clinical studies where ophthalmologic testing was conducted, the incidence of visual acuity reduction and visual field changes was greater in pregabalin-treated patients than in placebo-treated patients; the incidence of fundoscopic changes was greater in placebo-treated patients (see section 5.1).
+
+In the postmarketing experience, visual adverse reactions have also been reported, including loss of vision, visual blurring or other changes of visual acuity, many of which were transient. Discontinuation of pregabalin may result in resolution or improvement of these visual symptoms.
+
+<div style=\"page-break-after: always\"></div>
+
+## Renal failure
+
+Cases of renal failure have been reported and in some cases discontinuation of pregabalin did show reversibility of this adverse reaction.
+
+## Withdrawal of concomitant anti-epileptic medicinal products
+
+There are insufficient data for the withdrawal of concomitant anti-epileptic medicinal products, once seizure control with pregabalin in the add-on situation has been reached, in order to reach monotherapy on pregabalin.
+
+## Congestive heart failure
+
+There have been postmarketing reports of congestive heart failure in some patients receiving pregabalin. These reactions are mostly seen in elderly cardiovascular compromised patients during pregabalin treatment for a neuropathic indication. Pregabalin should be used with caution in these patients. Discontinuation of pregabalin may resolve the reaction.
+
+## Treatment of central neuropathic pain due to spinal cord injury
+
+In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse reactions in general, central nervous system adverse reactions and especially somnolence was increased. This may be attributed to an additive effect due to concomitant medicinal products (e.g. anti-spasticity agents) needed for this condition. This should be considered when prescribing pregabalin in this condition.
+
+## Respiratory depression
+
+There have been reports of severe respiratory depression in relation to pregabalin use. Patients with compromised respiratory function, respiratory or neurological disease, renal impairment, concomitant use of CNS depressants and the elderly may be at higher risk of experiencing this severe adverse reaction. Dose adjustments may be necessary in these patients (see section 4.2).
+
+## Suicidal ideation and behaviour
+
+Suicidal ideation and behaviour have been reported in patients treated with anti-epileptic agents in several indications. A meta-analysis of randomised placebo controlled studies of anti-epileptic drugs has also shown a small increased risk of suicidal ideation and behaviour. The mechanism of this risk is not known. Cases of suicidal ideation and behaviour have been observed in patients treated with pregabalin in the postmarketing experience (see section 4.8). An epidemiological study using a self-controlled study design (comparing treatment periods with non-treatment periods within an individual) showed evidence of an increased risk of new onset of suicidal behaviour and death by suicide in patients treated with pregabalin.
+
+Patients (and caregivers of patients) should be advised to seek medical advice should signs of suicidal ideation or behaviour emerge. Patients should be monitored for signs of suicidal ideation and behaviour and appropriate treatment should be considered. Discontinuation of pregabalin treatment should be considered in case of suicidal ideation and behaviour.
+
+## Reduced lower gastrointestinal tract function
+
+There are postmarketing reports of events related to reduced lower gastrointestinal tract function (e.g. intestinal obstruction, paralytic ileus, constipation) when pregabalin was co-administered with medications that have the potential to produce constipation, such as opioid analgesics. When pregabalin and opioids will be used in combination, measures to prevent constipation may be considered (especially in female patients and elderly).
+
+## Concomitant use with opioids
+
+Caution is advised when prescribing pregabalin concomitantly with opioids due to risk of CNS depression (see section 4.5). In a case-control study of opioid users, those patients who took pregabalin concomitantly with an opioid had an increased risk for opioid-related death compared to opioid use alone (adjusted odds ratio [aOR], 1.68 [95% CI, 1.19 - 2.36]). This increased risk was observed at low doses of pregabalin (≤ 300 mg, aOR 1.52 [95% CI, 1.04 - 2.22]) and there was a trend for a greater risk at high doses of pregabalin (&gt; 300 mg, aOR 2.51 [95% CI 1.24 - 5.06]).
+
+<div style=\"page-break-after: always\"></div>
+
+## Misuse, abuse potential or dependence
+
+Pregabalin can cause drug dependence, which may occur at therapeutic doses. Cases of abuse and misuse have been reported. Patients with a history of substance abuse may be at higher risk for pregabalin misuse, abuse and dependence, and pregabalin should be used with caution in such patients. Before prescribing pregabalin, the patient's risk of misuse, abuse or dependence should be carefully evaluated.
+
+Patients treated with pregabalin should be monitored for signs and symptoms of pregabalin misuse, abuse or dependence, such as development of tolerance, dose escalation and drug-seeking behaviour.
+
+## Withdrawal symptoms
+
+After discontinuation of short-term and long-term treatment with pregabalin, withdrawal symptoms have been observed. The following symptoms have been reported: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, nervousness, depression, suicidal ideation, pain, convulsion, hyperhidrosis and dizziness. The occurrence of withdrawal symptoms following discontinuation of pregabalin may indicate drug dependence (see section 4.8). The patient should be informed about this at the start of the treatment. If pregabalin should be discontinued, it is recommended this should be done gradually over a minimum of 1 week independent of the indication (see section 4.2).
+
+Convulsions, including status epilepticus and grand mal convulsions, may occur during pregabalin use or shortly after discontinuing pregabalin.
+
+Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related.
+
+## Encephalopathy
+
+Cases of encephalopathy have been reported, mostly in patients with underlying conditions that may precipitate encephalopathy.
+
+## Women of childbearing potential/Contraception
+
+Lyrica use in the first-trimester of pregnancy may cause major birth defects in the unborn child. Pregabalin should not be used during pregnancy unless the benefit to the mother clearly outweighs the potential risk to the foetus. Women of childbearing potential have to use effective contraception during treatment (see section 4.6).
+
+## Sodium content
+
+Lyrica contains less than 1 mmol sodium (23 mg) per orodispersible tablet. Patients on low sodium diets can be informed that this medicinal product is essentially 'sodium-free'.
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
+
+Since pregabalin is predominantly excreted unchanged in the urine, undergoes negligible metabolism in humans (&lt; 2% of a dose recovered in urine as metabolites), does not inhibit drug metabolism in vitro , and is not bound to plasma proteins, it is unlikely to produce, or be subject to, pharmacokinetic interactions.
+
+## In vivo studies and population pharmacokinetic analysis
+
+Accordingly, in in vivo studies no clinically relevant pharmacokinetic interactions were observed between pregabalin and phenytoin, carbamazepine, valproic acid, lamotrigine, gabapentin, lorazepam, oxycodone or ethanol. Population pharmacokinetic analysis indicated that oral antidiabetics, diuretics, insulin, phenobarbital, tiagabine and topiramate had no clinically significant effect on pregabalin clearance.
+
+## Oral contraceptives, norethisterone and/or ethinyl oestradiol
+
+Co-administration of pregabalin with the oral contraceptives norethisterone and/or ethinyl oestradiol does not influence the steady-state pharmacokinetics of either substance.
+
+<div style=\"page-break-after: always\"></div>
+
+## Central nervous system influencing medical products
+
+Pregabalin may potentiate the effects of ethanol and lorazepam.
+
+In the postmarketing experience, there are reports of respiratory failure, coma and deaths in patients taking pregabalin and opioids and/or other central nervous system (CNS) depressant medicinal products. Pregabalin appears to be additive in the impairment of cognitive and gross motor function caused by oxycodone.
+
+## Interactions and the elderly
+
+No specific pharmacodynamic interaction studies were conducted in elderly volunteers. Interaction studies have only been performed in adults.
+
+## 4.6 Fertility, pregnancy and lactation
+
+## Women of childbearing potential/Contraception
+
+Women of childbearing potential have to use effective contraception during treatment (see section 4.4).
+
+## Pregnancy
+
+Studies in animals have shown reproductive toxicity (see section 5.3).
+
+Pregabalin has been shown to cross the placenta in rats (see section 5.2). Pregabalin may cross the human placenta.
+
+## Major congenital malformations
+
+Data from a Nordic observational study of more than 2700 pregnancies exposed to pregabalin in the first trimester showed a higher prevalence of major congenital malformations (MCM) among the paediatric population (live or stillborn) exposed to pregabalin compared to the unexposed population (5.9% vs. 4.1%).
+
+The risk of MCM among the paediatric population exposed to pregabalin in the first trimester was slightly higher compared to unexposed population (adjusted prevalence ratio and 95% confidence interval: 1.14 (0.96-1.35)), and compared to population exposed to lamotrigine (1.29 (1.01-1.65)) or to duloxetine (1.39 (1.07-1.82)).
+
+The analyses on specific malformations showed higher risks for malformations of the nervous system, the eye, orofacial clefts, urinary malformations and genital malformations, but numbers were small and estimates imprecise.
+
+Lyrica should not be used during pregnancy unless clearly necessary (if the benefit to the mother clearly outweighs the potential risk to the foetus).
+
+## Breast-feeding
+
+Pregabalin is excreted into human milk (see section 5.2). The effect of pregabalin on newborns/infants is unknown. A decision must be made whether to discontinue breast-feeding or to discontinue pregabalin therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
+
+## Fertility
+
+There are no clinical data on the effects of pregabalin on female fertility.
+
+In a clinical trial to assess the effect of pregabalin on sperm motility, healthy male subjects were exposed to pregabalin at a dose of 600 mg/day. After 3 months of treatment, there were no effects on sperm motility.
+
+<div style=\"page-break-after: always\"></div>
+
+A fertility study in female rats has shown adverse reproductive effects. Fertility studies in male rats have shown adverse reproductive and developmental effects. The clinical relevance of these findings is unknown (see section 5.3).
+
+## 4.7 Effects on ability to drive and use machines
+
+Lyrica may have minor or moderate influence on the ability to drive and use machines. Lyrica may cause dizziness and somnolence and therefore may influence the ability to drive or use machines. Patients are advised not to drive, operate complex machinery or engage in other potentially hazardous activities until it is known whether this medicinal product affects their ability to perform these activities.
+
+## 4.8 Undesirable effects
+
+The pregabalin clinical programme involved over 8,900 patients exposed to pregabalin, of whom over 5,600 were in double-blind placebo controlled trials. The most commonly reported adverse reactions were dizziness and somnolence. Adverse reactions were usually mild to moderate in intensity. In all controlled studies, the discontinuation rate due to adverse reactions was 12% for patients receiving pregabalin and 5% for patients receiving placebo. The most common adverse reactions resulting in discontinuation from pregabalin treatment groups were dizziness and somnolence.
+
+In table 2 below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+
+The adverse reactions listed may also be associated with the underlying disease and/or concomitant medicinal products.
+
+In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse reactions in general, CNS adverse reactions and especially somnolence was increased (see section 4.4).
+
+Additional reactions reported from postmarketing experience are included in italics in the list below.
+
+Table 2. Pregabalin Adverse Drug Reactions
+
+| System Organ Class                   | Adverse drug reactions                                                                                                                                                                                                       |
+|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations          | Infections and infestations                                                                                                                                                                                                  |
+| Common                               | Nasopharyngitis                                                                                                                                                                                                              |
+| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                                                                                                                                                         |
+| Uncommon                             | Neutropaenia                                                                                                                                                                                                                 |
+| Immune system disorders              | Immune system disorders                                                                                                                                                                                                      |
+| Uncommon                             | Hypersensitivity                                                                                                                                                                                                             |
+| Rare                                 | Angioedema, allergic reaction                                                                                                                                                                                                |
+| Metabolism and nutrition disorders   | Metabolism and nutrition disorders                                                                                                                                                                                           |
+| Common                               | Appetite increased                                                                                                                                                                                                           |
+| Uncommon                             | Anorexia, hypoglycaemia                                                                                                                                                                                                      |
+| Psychiatric disorders                | Psychiatric disorders                                                                                                                                                                                                        |
+| Common                               | Euphoric mood, confusion, irritability, disorientation, insomnia, libido decreased                                                                                                                                           |
+| Uncommon                             | Hallucination, panic attack, restlessness, agitation, depression, depressed mood, elevated mood, aggression , mood swings, depersonalisation, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy |
+| Rare                                 | Disinhibition, suicidal behaviour, suicidal ideation                                                                                                                                                                         |
+| Not known                            | Drug dependence                                                                                                                                                                                                              |
+
+<div style=\"page-break-after: always\"></div>
+
+| System Organ Class                                                   | Adverse drug reactions                                                                                                                                                                                                                                                 |
+|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nervous system disorders                                             | Nervous system disorders                                                                                                                                                                                                                                               |
+| Very Common                                                          | Dizziness, somnolence, headache                                                                                                                                                                                                                                        |
+| Common                                                               | Ataxia, coordination abnormal, tremor, dysarthria, amnesia, memory impairment, disturbance in attention, paraesthesia, hypoaesthesia, sedation, balance disorder, lethargy                                                                                             |
+| Uncommon                                                             | Syncope, stupor, myoclonus, loss of consciousness , psychomotor hyperactivity, dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, mental impairment , speech disorder, hyporeflexia, hyperaesthesia, burning sensation, ageusia, malaise |
+| Rare                                                                 | Convulsions , parosmia, hypokinesia, dysgraphia, parkinsonism                                                                                                                                                                                                          |
+| Eye disorders                                                        | Eye disorders                                                                                                                                                                                                                                                          |
+| Common                                                               | Vision blurred, diplopia                                                                                                                                                                                                                                               |
+| Uncommon                                                             | Peripheral vision loss, visual disturbance, eye swelling, visual field defect, visual acuity reduced, eye pain, asthenopia, photopsia, dry eye, lacrimation increased, eye irritation                                                                                  |
+| Rare                                                                 | Vision loss , keratitis , oscillopsia, altered visual depth perception, mydriasis, strabismus, visual brightness                                                                                                                                                       |
+| Ear and labyrinth disorders                                          | Ear and labyrinth disorders                                                                                                                                                                                                                                            |
+| Common                                                               | Vertigo                                                                                                                                                                                                                                                                |
+| Uncommon                                                             | Hyperacusis                                                                                                                                                                                                                                                            |
+| Cardiac disorders                                                    | Cardiac disorders                                                                                                                                                                                                                                                      |
+| Uncommon                                                             | Tachycardia, atrioventricular block first degree, sinus bradycardia, congestive heart failure                                                                                                                                                                          |
+| Rare QT prolongation , sinus tachycardia, sinus arrhythmia disorders | Rare QT prolongation , sinus tachycardia, sinus arrhythmia disorders                                                                                                                                                                                                   |
+| Vascular Uncommon                                                    | Hypotension, hypertension, hot flushes, flushing, peripheral coldness                                                                                                                                                                                                  |
+| Respiratory, thoracic and mediastinal disorders                      | Respiratory, thoracic and mediastinal disorders                                                                                                                                                                                                                        |
+| Uncommon                                                             | Dyspnoea, epistaxis, cough, nasal congestion, rhinitis, snoring, nasal dryness                                                                                                                                                                                         |
+| Rare                                                                 | Pulmonary oedema , throat tightness                                                                                                                                                                                                                                    |
+| Not known                                                            | Respiratory depression                                                                                                                                                                                                                                                 |
+| Gastrointestinal disorders                                           | Gastrointestinal disorders                                                                                                                                                                                                                                             |
+| Common                                                               | Vomiting, nausea , constipation, diarrhoea , flatulence, abdominal distension, dry mouth                                                                                                                                                                               |
+| Uncommon                                                             | Gastrooesophageal reflux disease, salivary hypersecretion, hypoaesthesia oral                                                                                                                                                                                          |
+| Rare                                                                 | Ascites, pancreatitis, swollen tongue , dysphagia                                                                                                                                                                                                                      |
+| Hepatobiliary disorders                                              | Hepatobiliary disorders                                                                                                                                                                                                                                                |
+| Uncommon                                                             | Elevated liver enzymes*                                                                                                                                                                                                                                                |
+| Rare                                                                 | Jaundice                                                                                                                                                                                                                                                               |
+| Very rare                                                            | Hepatic failure, hepatitis                                                                                                                                                                                                                                             |
+| Skin and subcutaneous tissue disorders                               | Skin and subcutaneous tissue disorders                                                                                                                                                                                                                                 |
+| Uncommon                                                             | Rash papular, urticaria, hyperhidrosis, pruritus                                                                                                                                                                                                                       |
+| Rare                                                                 | Toxic epidermal necrolysis, Stevens-Johnson syndrome , cold sweat                                                                                                                                                                                                      |
+| Musculoskeletal and connective tissue disorders                      | Musculoskeletal and connective tissue disorders                                                                                                                                                                                                                        |
+| Common                                                               | Muscle cramp, arthralgia, back pain, pain in limb, cervical spasm                                                                                                                                                                                                      |
+| Uncommon                                                             | Joint swelling, myalgia, muscle twitching, neck pain, muscle stiffness                                                                                                                                                                                                 |
+| Rare Rhabdomyolysis Renal and urinary disorders                      | Rare Rhabdomyolysis Renal and urinary disorders                                                                                                                                                                                                                        |
+| Uncommon                                                             | Urinary incontinence, dysuria                                                                                                                                                                                                                                          |
+| Rare                                                                 | Renal failure, oliguria, urinary retention                                                                                                                                                                                                                             |
+| Reproductive system                                                  | breast disorders                                                                                                                                                                                                                                                       |
+
+<div style=\"page-break-after: always\"></div>
+
+| System Organ Class                                   | Adverse drug reactions                                                                                                                                             |
+|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Uncommon                                             | Sexual dysfunction, ejaculation delayed, dysmenorrhoea, breast pain                                                                                                |
+| Rare                                                 | Amenorrhoea, breast discharge, breast enlargement, gynaecomastia                                                                                                   |
+| General disorders and administration site conditions | General disorders and administration site conditions                                                                                                               |
+| Common                                               | Oedema peripheral, oedema, gait abnormal, fall, feeling drunk, feeling abnormal, fatigue                                                                           |
+| Uncommon                                             | Generalised oedema, face oedema , chest tightness, pain, pyrexia, thirst, chills, asthenia                                                                         |
+| Investigations                                       | Investigations                                                                                                                                                     |
+| Common                                               | Weight increased                                                                                                                                                   |
+| Uncommon                                             | Blood creatine phosphokinase increased, blood glucose increased, platelet count decreased, blood creatinine increased, blood potassium decreased, weight decreased |
+| Rare                                                 | White blood cell count decreased                                                                                                                                   |
+
+* Alanine aminotransferase increased (ALT) and aspartate aminotransferase increased (AST).
+
+After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed. The following symptoms have been reported: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, suicidal ideation, pain , hyperhidrosis and dizziness. These symptoms may indicate drug dependence. The patient should be informed about this at the start of the treatment. Concerning discontinuation of long-term treatment of pregabalin, data suggest that the incidence and severity of withdrawal symptoms may be dose-related (see sections 4.2 and 4.4).
+
+## Paediatric population
+
+The pregabalin safety profile observed in five paediatric studies in patients with partial seizures with or without secondary generalisation (12-week efficacy and safety study in patients 4 to 16 years of age, n=295; 14-day efficacy and safety study in patients 1 month to younger than 4 years of age, n=175; pharmacokinetic and tolerability study, n=65; and two 1 year open label follow on safety studies, n=54 and n=431) was similar to that observed in the adult studies of patients with epilepsy. The most common adverse events observed in the 12-week study with pregabalin treatment were somnolence, pyrexia, upper respiratory tract infection, increased appetite, weight increased, and nasopharyngitis. The most common adverse events observed in the 14-day study with pregabalin treatment were somnolence, upper respiratory tract infection, and pyrexia (see sections 4.2, 5.1 and 5.2).
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+## 4.9 Overdose
+
+In the postmarketing experience, the most commonly reported adverse reactions observed when pregabalin was taken in overdose included somnolence, confusional state, agitation, and restlessness. Seizures were also reported.
+
+In rare occasions, cases of coma have been reported.
+
+Treatment of pregabalin overdose should include general supportive measures and may include haemodialysis if necessary (see section 4.2 Table 1).
+
+## 5. PHARMACOLOGICAL PROPERTIES
+
+## 5.1 Pharmacodynamic properties
+
+<div style=\"page-break-after: always\"></div>
+
+Pharmacotherapeutic group: Analgesics, other other analgesics and antipyretics ATC code: N02BF02
+
+The active substance, pregabalin, is a gamma-aminobutyric acid analogue [(S)-3-(aminomethyl)-5-methylhexanoic acid].
+
+## Mechanism of action
+
+Pregabalin binds to an auxiliary subunit ( α 2δ protein) of voltage-gated calcium channels in the central nervous system.
+
+## Clinical efficacy and safety
+
+## Neuropathic pain
+
+Efficacy has been shown in trials in diabetic neuropathy, post herpetic neuralgia and spinal cord injury. Efficacy has not been studied in other models of neuropathic pain.
+
+Pregabalin has been studied in 10 controlled clinical trials of up to 13 weeks with twice a day dosing (BID) and up to 8 weeks with three times a day (TID) dosing. Overall, the safety and efficacy profiles for BID and TID dosing regimens were similar.
+
+In clinical trials up to 12 weeks for both peripheral and central neuropathic pain, a reduction in pain was seen by Week 1 and was maintained throughout the treatment period.
+
+In controlled clinical trials in peripheral neuropathic pain 35% of the pregabalin treated patients and 18% of the patients on placebo had a 50% improvement in pain score. For patients not experiencing somnolence, such an improvement was observed in 33% of patients treated with pregabalin and 18% of patients on placebo. For patients who experienced somnolence the responder rates were 48% on pregabalin and 16% on placebo.
+
+In the controlled clinical trial in central neuropathic pain 22% of the pregabalin treated patients and 7% of the patients on placebo had a 50% improvement in pain score.
+
+## Epilepsy
+
+## Adjunctive Treatment
+
+Pregabalin has been studied in 3 controlled clinical trials of 12 week duration with either BID or TID dosing. Overall, the safety and efficacy profiles for BID and TID dosing regimens were similar.
+
+A reduction in seizure frequency was observed by Week 1.
+
+## Paediatric population
+
+The efficacy and safety of pregabalin as adjunctive treatment for epilepsy in paediatric patients below the age of 12 and adolescents has not been established. The adverse events observed in a pharmacokinetic and tolerability study that enrolled patients from 3 months to 16 years of age (n=65) with partial onset seizures were similar to those observed in adults. Results of a 12-week placebo-controlled study of 295 paediatric patients aged 4 to 16 years and a 14-day placebo-controlled study of 175 paediatric patients aged 1 month to younger than 4 years of age performed to evaluate the efficacy and safety of pregabalin as adjunctive therapy for the treatment of partial onset seizures and two 1 year open label safety studies in 54 and 431 paediatric patients respectively, from 3 months to 16 years of age with epilepsy indicate that the adverse events of pyrexia and upper respiratory infections were observed more frequently than in adult studies of patients with epilepsy (see sections 4.2, 4.8 and 5.2).
+
+In the 12-week placebo-controlled study, paediatric patients (4 to 16 years of age) were assigned to pregabalin 2.5 mg/kg/day (maximum, 150 mg/day), pregabalin 10 mg/kg/day (maximum, 600 mg/day), or placebo. The percentage of subjects with at least a 50% reduction in partial onset seizures as compared to baseline was 40.6% of subjects treated with pregabalin 10 mg/kg/day
+
+<div style=\"page-break-after: always\"></div>
+
+(p=0.0068 versus placebo), 29.1% of subjects treated with pregabalin 2.5 mg/kg/day (p=0.2600 versus placebo) and 22.6% of those receiving placebo.
+
+In the 14-day placebo-controlled study, paediatric patients (1 month to younger than 4 years of age) were assigned to pregabalin 7 mg/kg/day, pregabalin 14 mg/kg/day, or placebo. Median 24-hour seizure frequencies at baseline and at the final visit were 4.7 and 3.8 for pregabalin 7 mg/kg/day, 5.4 and 1.4 for pregabalin 14 mg/kg/day, and 2.9 and 2.3 for placebo, respectively. Pregabalin 14 mg/kg/day significantly reduced the log-transformed partial onset seizure frequency versus placebo (p=0.0223); pregabalin 7 mg/kg/day did not show improvement relative to placebo.
+
+In a 12-week placebo-controlled study in subjects with Primary Generalized Tonic-Clonic (PGTC) seizures 219 subjects (aged 5 to 65 years, of which 66 were aged 5 to 16 years) were assigned to pregabalin 5 mg/kg/day (maximum 300 mg/day), 10 mg/kg/day (maximum 600 mg/day) or placebo as adjunctive therapy. The percentage of subjects with at least a 50% reduction in PGTC seizure rate was 41.3%, 38.9% and 41.7% for pregabalin 5 mg/kg/day, pregabalin 10 mg/kg/day and placebo respectively.
+
+## Monotherapy (newly diagnosed patients)
+
+Pregabalin has been studied in 1 controlled clinical trial of 56 week duration with BID dosing. Pregabalin did not achieve non-inferiority to lamotrigine based on the 6-month seizure freedom endpoint. Pregabalin and lamotrigine were similarly safe and well tolerated.
+
+## Generalised Anxiety Disorder
+
+Pregabalin has been studied in 6 controlled trials of 4-6 week duration, an elderly study of 8 week duration and a long-term relapse prevention study with a double-blind relapse prevention phase of 6 months duration.
+
+Relief of the symptoms of GAD as reflected by the Hamilton Anxiety Rating Scale (HAM-A) was observed by Week 1.
+
+In controlled clinical trials (4-8 week duration) 52% of the pregabalin treated patients and 38% of the patients on placebo had at least a 50% improvement in HAM-A total score from baseline to endpoint.
+
+In controlled trials, a higher proportion of patients treated with pregabalin reported blurred vision than did patients treated with placebo which resolved in a majority of cases with continued dosing. Ophthalmologic testing (including visual acuity testing, formal visual field testing and dilated funduscopic examination) was conducted in over 3600 patients within controlled clinical trials. In these patients, visual acuity was reduced in 6.5% of patients treated with pregabalin, and 4.8% of placebo-treated patients. Visual field changes were detected in 12.4% of pregabalin-treated, and 11.7% of placebo-treated patients. Funduscopic changes were observed in 1.7% of pregabalin-treated and 2.1% of placebo-treated patients.
+
+## 5.2 Pharmacokinetic properties
+
+Pregabalin steady-state pharmacokinetics are similar in healthy volunteers, patients with epilepsy receiving anti-epileptic drugs and patients with chronic pain.
+
+## Absorption
+
+Pregabalin is rapidly absorbed when administered in the fasted state, with peak plasma concentrations occurring within 1 hour following both single and multiple dose administration. Pregabalin oral bioavailability is estimated to be ≥ 90% and is independent of dose. Following repeated administration, steady state is achieved within 24 to 48 hours. The rate of pregabalin absorption is decreased when given with food resulting in a decrease in Cmax by approximately 25-30% and a delay in tmax to approximately 2.5 hours. However, administration of pregabalin with food has no clinically significant effect on the extent of pregabalin absorption.
+
+## Distribution
+
+<div style=\"page-break-after: always\"></div>
+
+In preclinical studies, pregabalin has been shown to cross the blood brain barrier in mice, rats, and monkeys. Pregabalin has been shown to cross the placenta in rats and is present in the milk of lactating rats. In humans, the apparent volume of distribution of pregabalin following oral administration is approximately 0.56 l/kg. Pregabalin is not bound to plasma proteins.
+
+## Biotransformation
+
+Pregabalin undergoes negligible metabolism in humans. Following a dose of radiolabelled pregabalin, approximately 98% of the radioactivity recovered in the urine was unchanged pregabalin. The N-methylated derivative of pregabalin, the major metabolite of pregabalin found in urine, accounted for 0.9% of the dose. In preclinical studies, there was no indication of racemisation of pregabalin S-enantiomer to the R-enantiomer.
+
+## Elimination
+
+Pregabalin is eliminated from the systemic circulation primarily by renal excretion as unchanged drug. Pregabalin mean elimination half-life is 6.3 hours. Pregabalin plasma clearance and renal clearance are directly proportional to creatinine clearance (see section 5.2 Renal impairment).
+
+Dose adjustment in patients with reduced renal function or undergoing haemodialysis is necessary (see section 4.2 Table 1).
+
+## Linearity/non-linearity
+
+Pregabalin pharmacokinetics are linear over the recommended daily dose range. Inter-subject pharmacokinetic variability for pregabalin is low (&lt; 20%). Multiple dose pharmacokinetics are predictable from single-dose data. Therefore, there is no need for routine monitoring of plasma concentrations of pregabalin.
+
+## Gender
+
+Clinical trials indicate that gender does not have a clinically significant influence on the plasma concentrations of pregabalin.
+
+## Renal impairment
+
+Pregabalin clearance is directly proportional to creatinine clearance. In addition, pregabalin is effectively removed from plasma by haemodialysis (following a 4 hour haemodialysis treatment plasma pregabalin concentrations are reduced by approximately 50%). Because renal elimination is the major elimination pathway, dose reduction in patients with renal impairment and dose supplementation following haemodialysis is necessary (see section 4.2 Table 1).
+
+## Hepatic impairment
+
+No specific pharmacokinetic studies were carried out in patients with impaired liver function. Since pregabalin does not undergo significant metabolism and is excreted predominantly as unchanged drug in the urine, impaired liver function would not be expected to significantly alter pregabalin plasma concentrations.
+
+## Paediatric population
+
+Pregabalin pharmacokinetics were evaluated in paediatric patients with epilepsy (age groups: 1 to 23 months, 2 to 6 years, 7 to 11 years and 12 to 16 years) at dose levels of 2.5, 5, 10 and 15 mg/kg/day in a pharmacokinetic and tolerability study.
+
+After oral administration of pregabalin in paediatric patients in the fasted state, in general, time to reach peak plasma concentration was similar across the entire age group and occurred 0.5 hours to 2 hours postdose.
+
+Pregabalin Cmax and AUC parameters increased in a linear manner with increasing dose within each age group. The AUC was lower by 30% in paediatric patients below a weight of 30 kg due to an increased body weight adjusted clearance of 43% for these patients in comparison to patients weighing ≥30 kg.
+
+<div style=\"page-break-after: always\"></div>
+
+Pregabalin terminal half-life averaged about 3 to 4 hours in paediatric patients up to 6 years of age, and 4 to 6 hours in those 7 years of age and older.
+
+Population pharmacokinetic analysis showed that creatinine clearance was a significant covariate of pregabalin oral clearance, body weight was a significant covariate of pregabalin apparent oral volume of distribution, and these relationships were similar in paediatric and adult patients.
+
+Pregabalin pharmacokinetics in patients younger than 3 months old have not been studied (see sections 4.2, 4.8 and 5.1).
+
+## Elderly
+
+Pregabalin clearance tends to decrease with increasing age. This decrease in pregabalin oral clearance is consistent with decreases in creatinine clearance associated with increasing age. Reduction of pregabalin dose may be required in patients who have age related compromised renal function (see section 4.2 Table 1).
+
+## Breast-feeding mothers
+
+The pharmacokinetics of 150 mg pregabalin given every 12 hours (300 mg daily dose) was evaluated in 10 lactating women who were at least 12 weeks postpartum. Lactation had little to no influence on pregabalin pharmacokinetics. Pregabalin was excreted into breast milk with average steady-state concentrations approximately 76% of those in maternal plasma. The estimated infant dose from breast milk (assuming mean milk consumption of 150 mL/kg/day) of women receiving 300 mg/day or the maximum dose of 600 mg/day would be 0.31 or 0.62 mg/kg/day, respectively. These estimated doses are approximately 7% of the total daily maternal dose on a mg/kg basis.
+
+## 5.3 Preclinical safety data
+
+In conventional safety pharmacology studies in animals, pregabalin was well-tolerated at clinically relevant doses. In repeated dose toxicity studies in rats and monkeys CNS effects were observed, including hypoactivity, hyperactivity and ataxia. An increased incidence of retinal atrophy commonly observed in aged albino rats was seen after long-term exposure to pregabalin at exposures ≥ 5 times the mean human exposure at the maximum recommended clinical dose.
+
+Pregabalin was not teratogenic in mice, rats or rabbits. Foetal toxicity in rats and rabbits occurred only at exposures sufficiently above human exposure. In prenatal/postnatal toxicity studies, pregabalin induced offspring developmental toxicity in rats at exposures &gt; 2 times the maximum recommended human exposure.
+
+Adverse effects on fertility in male and female rats were only observed at exposures sufficiently in excess of therapeutic exposure. Adverse effects on male reproductive organs and sperm parameters were reversible and occurred only at exposures sufficiently in excess of therapeutic exposure or were associated with spontaneous degenerative processes in male reproductive organs in the rat. Therefore the effects were considered of little or no clinical relevance.
+
+Pregabalin is not genotoxic based on results of a battery of in vitro and in vivo tests.
+
+Two-year carcinogenicity studies with pregabalin were conducted in rats and mice. No tumours were observed in rats at exposures up to 24 times the mean human exposure at the maximum recommended clinical dose of 600 mg/day. In mice, no increased incidence of tumours was found at exposures similar to the mean human exposure, but an increased incidence of haemangiosarcoma was observed at higher exposures. The non-genotoxic mechanism of pregabalin-induced tumour formation in mice involves platelet changes and associated endothelial cell proliferation. These platelet changes were not present in rats or in humans based on short-term and limited long-term clinical data. There is no evidence to suggest an associated risk to humans.
+
+In juvenile rats the types of toxicity do not differ qualitatively from those observed in adult rats. However, juvenile rats are more sensitive. At therapeutic exposures, there was evidence of CNS
+
+<div style=\"page-break-after: always\"></div>
+
+clinical signs of hyperactivity and bruxism and some changes in growth (transient body weight gain suppression). Effects on the oestrus cycle were observed at 5-fold the human therapeutic exposure. Reduced acoustic startle response was observed in juvenile rats 1-2 weeks after exposure at &gt; 2 times the human therapeutic exposure. Nine weeks after exposure, this effect was no longer observable.
+
+## 6. PHARMACEUTICAL PARTICULARS
+
+## 6.1 List of excipients
+
+## Lyrica 25 mg, 75 mg, 150 mg orodispersible tablets
+
+Citrus flavour (Flavorings, Gum Arabic (E414), DL-alpha-tocopherol (E307), Dextrin (E1400) and Isomaltulose)
+
+Magnesium stearate  (E470b) Hydrogenated castor oil Glycerol dibehenate Talc (E553b) Microcrystalline cellulose (E460) D-Mannitol (E421) Crospovidone (E1202) Magnesium aluminometa silicate Saccharin sodium (E954) Sucralose (E955) Sodium stearyl fumarate (E470a)
+
+## 6.2 Incompatibilities
+
+Not applicable.
+
+## 6.3 Shelf life
+
+3 years in the original aluminium pouch. 3 months after opening the aluminium pouch.
+
+## 6.4 Special precautions for storage
+
+Store in the original packaging in order to protect from moisture.
+
+## 6.5 Nature and contents of container
+
+## Lyrica 25 mg, 75 mg, 150 mg orodispersible tablets
+
+Packaged in a clear PVC/PVDC/Aluminium blister. Each blister contains 10 orodispersible tablets and can be divided into strips with two tablets each.
+
+Pack sizes:
+
+20 orodispersible tablets packed in 1 aluminum pouch with 2 blisters. 60 orodispersible tablets packed in 1 aluminum pouch with 6 blisters. 200 orodispersible tablets packed in 2 aluminum pouches with 10 blisters in each. Not all pack sizes may be marketed.
+
+## 6.6 Special precautions for disposal and other handling
+
+No special requirements for disposal.
+
+<div style=\"page-break-after: always\"></div>
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+## Lyrica 25 mg orodispersible tablets
+
+EU/1/04/279/047
+
+EU/1/04/279/048
+
+EU/1/04/279/049
+
+## Lyrica 75 mg orodispersible tablets
+
+EU/1/04/279/050
+
+EU/1/04/279/051
+
+EU/1/04/279/052
+
+## Lyrica 150 mg orodispersible tablets
+
+EU/1/04/279/053
+
+EU/1/04/279/054
+
+EU/1/04/279/055
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 06 July 2004
+
+Date of latest renewal: 29 May 2009
+
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX II
+
+- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+<div style=\"page-break-after: always\"></div>
+
+## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+
+Name and address of the manufacturer(s) responsible for batch release
+
+Capsules Pfizer Manufacturing Deutschland GmbH Mooswaldallee 1 79108 Freiburg Im Breisgau Germany or
+
+Mylan Hungary Kft. Mylan utca 1 Komárom, 2900 Hungary or
+
+MEDIS INTERNATIONAL a.s., výrobní závod Bolatice Průmyslová 961/16 747 23 Bolatice Czech Republic
+
+Oral Solution Viatris International Supply Point BV Terhulpsesteenweg 6A 1560 Hoeilaart Belgium or
+
+Mylan Hungary Kft. Mylan utca 1 Komárom, 2900 Hungary
+
+## Orodispersible Tablets
+
+Mylan Hungary Kft. Mylan utca 1 Komárom, 2900 Hungary
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+Medicinal product subject to medical prescription.
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
+- Periodic safety update reports (PSURs)
+
+<div style=\"page-break-after: always\"></div>
+
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+## · Risk management plan (RMP)
+
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
+
+An updated RMP should be submitted:
+
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX III
+
+## LABELLING AND PACKAGING LEAFLET
+
+<div style=\"page-break-after: always\"></div>
+
+## A. LABELLING
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+Carton of blister pack (14, 21, 56, 84, 100, and 112) and perforated unit dose blister pack (100) for 25 mg hard capsules.
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 25 mg hard capsules pregabalin
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each hard capsule contains 25 mg pregabalin.
+
+## 3. LIST OF EXCIPIENTS
+
+This product contains lactose monohydrate. See the package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+14 hard capsules
+
+- 21 hard capsules
+
+56 hard capsules
+
+84 hard capsules
+
+100 hard capsules
+
+100 x 1 hard capsules
+
+112 hard capsules
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+Sealed Pack
+
+Do not use if box has been opened.
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
+
+2909 LD Capelle aan den IJssel
+
+Upjohn EESV Rivium Westlaan 142 Netherlands
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
+
+EU/1/04/279/001-005 EU/1/04/279/026
+
+EU/1/04/279/036
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Lyrica 25 mg
+
+| 17.   | UNIQUE IDENTIFIER-2D BARCODE   |
+|-------|--------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
+|---------------------------------------------|
+
+PC SN
+
+NN
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+Bottle immediate packaging for 25 mg hard capsules - pack of 200
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 25 mg hard capsules pregabalin
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each hard capsule contains 25 mg pregabalin.
+
+## 3. LIST OF EXCIPIENTS
+
+Contains lactose monohydrate. Read the package leaflet before use.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+200 hard capsules
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/04/279/046
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Lyrica 25 mg
+
+## 17. UNIQUE IDENTIFIER-2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+| 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
+|---------------------------------------------|
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+Blister pack (14, 21, 56, 84, 100, and 112) and perforated unit dose blister pack (100) for 25 mg hard capsules
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+Lyrica 25 mg hard capsules pregabalin
+
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
+
+Upjohn
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+Carton of blister pack (14, 21, 56, 84 and 100) and perforated unit dose blister pack (100) for 50 mg hard capsules
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 50 mg hard capsules pregabalin
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each hard capsule contains 50 mg pregabalin.
+
+## 3. LIST OF EXCIPIENTS
+
+This product contains lactose monohydrate. See the package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+14 hard capsules
+
+- 21 hard capsules
+- 56 hard capsules
+- 84 hard capsules
+- 100 hard capsules
+- 100 x 1 hard capsules
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+Sealed Pack
+
+Do not use if box has been opened.
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+
+Netherlands
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/04/279/006-010
+
+EU/1/04/279/037
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16 . INFORMATION IN BRAILLE
+
+Lyrica 50 mg
+
+## 17. UNIQUE IDENTIFIER-2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS                                                         |
+|-----------------------------------------------------------------------------------------------------------|
+| Blister pack (14, 21, 56, 84 and 100) and perforated unit dose blister pack (100) for 50 mg hard capsules |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+Lyrica 50 mg hard capsules pregabalin
+
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
+
+Upjohn
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+Bottle immediate packaging for 75 mg hard capsules - pack of 200
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 75 mg hard capsules pregabalin
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each hard capsule contains 75 mg pregabalin.
+
+## 3. LIST OF EXCIPIENTS
+
+Contains lactose monohydrate. Read the package leaflet before use.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+200 hard capsules
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/04/279/030
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Lyrica 75 mg
+
+## 17. UNIQUE IDENTIFIER-2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+Carton of blister pack (14, 56, 70, 100, and 112) and perforated unit dose blister pack (100) for 75 mg hard capsules
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 75 mg hard capsules pregabalin
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each hard capsule contains 75 mg pregabalin.
+
+## 3. LIST OF EXCIPIENTS
+
+This product contains lactose monohydrate. See the package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+14 hard capsules
+
+56 hard capsules
+
+70 hard capsules
+
+100 hard capsules
+
+100 x 1 hard capsules
+
+112 hard capsules
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+Sealed Pack
+
+Do not use if box has been opened.
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+2909 LD Capelle aan den IJssel
+
+Upjohn EESV Rivium Westlaan 142 Netherlands
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/04/279/011-013
+
+EU/1/04/279/027
+
+EU/1/04/279/038
+
+EU/1/04/279/045
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Lyrica 75 mg
+
+| 17. UNIQUE IDENTIFIER-2D BARCODE   |
+|------------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
+|---------------------------------------------|
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+Blister pack (14, 56, 70, 100 or 112) and perforated unit dose blister pack (100) for 75 mg hard capsules
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+Lyrica 75 mg hard capsules pregabalin
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Upjohn
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+Carton of blister pack (21, 84 or 100) and perforated unit dose blister pack (100) for 100 mg hard capsules
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 100 mg hard capsules pregabalin
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each hard capsule contains 100 mg pregabalin.
+
+## 3. LIST OF EXCIPIENTS
+
+This product contains lactose monohydrate. See the package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+21 hard capsules
+
+84 hard capsules
+
+100 hard capsules
+
+100 x 1 hard capsules
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+Sealed Pack
+
+Do not use if box has been opened.
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
+
+2909 LD Capelle aan den IJssel
+
+Upjohn EESV Rivium Westlaan 142 Netherlands
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
+
+EU/1/04/279/014 - 016
+
+EU/1/04/279/039
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Lyrica 100 mg
+
+| 17. UNIQUE IDENTIFIER-2D BARCODE   |
+|------------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
+|---------------------------------------------|
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS                                                 |
+|---------------------------------------------------------------------------------------------------|
+| Blister pack (21, 84 or 100) and perforated unit dose blister pack (100) for 100 mg hard capsules |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+Lyrica 100 mg hard capsules pregabalin
+
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
+
+Upjohn
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+Bottle immediate packaging for 150 mg hard capsules - pack of 200
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 150 mg hard capsules
+
+pregabalin
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each hard capsule contains 150 mg pregabalin.
+
+## 3. LIST OF EXCIPIENTS
+
+This product contains lactose monohydrate. See the package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+200 hard capsules
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/04/279/031
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Lyrica 150 mg
+
+## 17. UNIQUE IDENTIFIER-2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+Carton of blister pack (14, 56, 100, and 112) and perforated unit dose blister pack (100) for 150 mg hard capsules
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 150 mg hard capsules pregabalin
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each hard capsule contains 150 mg pregabalin.
+
+## 3. LIST OF EXCIPIENTS
+
+This product contains lactose monohydrate. See the package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+14 hard capsules
+
+56 hard capsules
+
+100 hard capsules
+
+100 x 1 hard capsules
+
+112 hard capsules
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+Sealed Pack
+
+Do not use if box has been opened.
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
+
+2909 LD Capelle aan den IJssel
+
+Upjohn EESV Rivium Westlaan 142 Netherlands
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
+
+EU/1/04/279/017 - 019 EU/1/04/279/028
+
+EU/1/04/279/040
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Lyrica 150 mg
+
+| 17.   | UNIQUE IDENTIFIER-2D BARCODE   |
+|-------|--------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18.   | UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
+|-------|-----------------------------------------|
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+Blister pack (14, 56, 100 or 112) and perforated unit dose blister pack (100) for 150 mg hard capsules
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+Lyrica 150 mg hard capsules pregabalin
+
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
+
+Upjohn
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+Carton of blister pack (21, 84 or 100) and perforated unit dose blister pack (100) for 200 mg hard capsules
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 200 mg hard capsules pregabalin
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each hard capsule contains 200 mg pregabalin.
+
+## 3. LIST OF EXCIPIENTS
+
+This product contains lactose monohydrate. See the package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+21 hard capsules
+
+84 hard capsules
+
+100 hard capsules
+
+100 x 1 hard capsules
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+Sealed Pack
+
+Do not use if box has been opened.
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
+
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+
+Netherlands
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
+
+EU/1/04/279/020 - 022
+
+EU/1/04/279/041
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Lyrica 200 mg
+
+| 17. UNIQUE IDENTIFIER-2D BARCODE   |
+|------------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18.   | UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
+|-------|-----------------------------------------|
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS                                                 |
+|---------------------------------------------------------------------------------------------------|
+| Blister pack (21, 84 or 100) and perforated unit dose blister pack (100) for 200 mg hard capsules |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+Lyrica 200 mg hard capsules pregabalin
+
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
+
+Upjohn
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+Carton of blister pack (14, 56 or 100) and perforated unit dose blister pack (100) for 225 mg hard capsules
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 225 mg hard capsules pregabalin
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each hard capsule contains 225 mg pregabalin.
+
+## 3. LIST OF EXCIPIENTS
+
+This product contains lactose monohydrate. See the package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+14 hard capsules
+
+56 hard capsules
+
+100 hard capsules
+
+100 x 1 hard capsules
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+Sealed Pack
+
+Do not use if box has been opened.
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
+
+2909 LD Capelle aan den IJssel
+
+Upjohn EESV Rivium Westlaan 142 Netherlands
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
+
+EU/1/04/279/033 - 035
+
+EU/1/04/279/042
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Lyrica 225 mg
+
+| 17. UNIQUE IDENTIFIER-2D BARCODE   |
+|------------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
+|---------------------------------------------|
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS                                                 |
+|---------------------------------------------------------------------------------------------------|
+| Blister pack (14, 56 or 100) and perforated unit dose blister pack (100) for 225 mg hard capsules |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+Lyrica 225 mg hard capsules pregabalin
+
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
+
+Upjohn
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+Bottle immediate packaging for 300 mg hard capsules - pack of 200
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 300 mg hard capsules pregabalin
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each hard capsule contains 300 mg pregabalin.
+
+## 3. LIST OF EXCIPIENTS
+
+This product contains lactose monohydrate. See the package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+200 hard capsules
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/04/279/032
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Lyrica 300 mg
+
+## 17. UNIQUE IDENTIFIER-2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+Carton of blister pack (14, 56, 100, and 112) and perforated unit dose blister pack (100) for 300 mg hard capsules
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 300 mg hard capsules pregabalin
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each hard capsule contains 300 mg pregabalin.
+
+## 3. LIST OF EXCIPIENTS
+
+This product contains lactose monohydrate. See the package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+14 hard capsules
+
+56 hard capsules
+
+100 hard capsules
+
+100 x 1 hard capsules
+
+112 hard capsules
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+Sealed Pack
+
+Do not use if box has been opened.
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+| 9.   | SPECIAL STORAGE CONDITIONS   |
+|------|------------------------------|
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+2909 LD Capelle aan den IJssel
+
+Upjohn EESV Rivium Westlaan 142 Netherlands
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/04/279/023-025 EU/1/04/279/029 EU/1/04/279/043
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+Lyrica 300 mg
+
+| 17.   | UNIQUE IDENTIFIER-2D BARCODE   |
+|-------|--------------------------------|
+
+2D barcode carrying the unique identifier included.
+
+| 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
+|---------------------------------------------|
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+Blister pack (14, 56, 100 or 112) and perforated unit dose blister pack (100) for 300 mg hard capsules
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+Lyrica 300 mg hard capsules pregabalin
+
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
+
+Upjohn
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 20 mg/mL oral solution pregabalin
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each mL contains 20 mg pregabalin.
+
+## 3. LIST OF EXCIPIENTS
+
+Other ingredients include E216 (propyl parahydroxybenzoate) and E218 (methyl parahydroxybenzoate). See leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+473 mL oral solution with a 5 mL oral syringe and a Press-In Bottle Adapter (PIBA).
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/04/279/044
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Lyrica 20 mg/mL
+
+## 17. UNIQUE IDENTIFIER-2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+
+BOTTLE LABEL
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 20 mg/mL oral solution pregabalin
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each mL contains 20 mg pregabalin.
+
+## 3. LIST OF EXCIPIENTS
+
+Other ingredients include E216 (propyl parahydroxybenzoate) and E218 (methyl parahydroxybenzoate). See leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+473 mL oral solution
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+<div style=\"page-break-after: always\"></div>
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
+
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
+
+EU/1/04/279/044
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+| 15.   | INSTRUCTIONS ONUSE   |
+|-------|----------------------|
+
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
+
+| 17. UNIQUE IDENTIFIER-2D BARCODE   |
+|------------------------------------|
+
+| 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA   |
+|---------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+Carton of blister pack (20, 60 and 200) for 25 mg orodispersible tablets
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 25 mg orodispersible tablets pregabalin
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each orodispersible tablet contains 25 mg pregabalin.
+
+## 3. LIST OF EXCIPIENTS
+
+See the package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+20 orodispersible tablets
+
+60 orodispersible tablets
+
+200 orodispersible tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+Sealed Pack
+
+Do not use if box has been opened.
+
+## 8. EXPIRY DATE
+
+EXP
+
+After first opening of the aluminium pouch, use within 3 months.
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in the original packaging in order to protect from moisture.
+
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+
+Netherlands
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/04/279/047
+
+EU/1/04/279/048
+
+EU/1/04/279/049
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Lyrica 25 mg
+
+## 17. UNIQUE IDENTIFIER-2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEARON SECONDARY PACKAGING                               |
+|-----------------------------------------------------------------------------------|
+| Aluminium pouch of blister pack (20, 60 and 200) for 25 mg orodispersible tablets |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+Lyrica 25 mg orodispersible tablets pregabalin
+
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
+
+Upjohn
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+Blister pack (20, 60 and 200) for 25 mg orodispersible tablets
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+Lyrica 25 mg orodispersible tablets pregabalin
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Upjohn
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+Carton of blister pack (20, 60 and 200) for 75 mg orodispersible tablets
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 75 mg orodispersible tablets pregabalin
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each orodispersible tablet contains 75 mg pregabalin.
+
+## 3. LIST OF EXCIPIENTS
+
+See the package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+20 orodispersible tablets
+
+60 orodispersible tablets
+
+200 orodispersible tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+Sealed Pack
+
+Do not use if box has been opened.
+
+## 8. EXPIRY DATE
+
+EXP
+
+After first opening of the aluminium pouch, use within 3 months.
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in the original packaging in order to protect from moisture.
+
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel
+
+Netherlands
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/04/279/050
+
+EU/1/04/279/051
+
+EU/1/04/279/052
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16 . INFORMATION IN BRAILLE
+
+Lyrica 75 mg
+
+## 17. UNIQUE IDENTIFIER-2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEARON SECONDARY PACKAGING                               |
+|-----------------------------------------------------------------------------------|
+| Aluminium pouch of blister pack (20, 60 and 200) for 75 mg orodispersible tablets |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+Lyrica 75 mg orodispersible tablets pregabalin
+
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
+
+Upjohn
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS              |
+|----------------------------------------------------------------|
+| Blister pack (20, 60 and 200) for 75 mg orodispersible tablets |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+Lyrica 75 mg orodispersible tablets pregabalin
+
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
+
+Upjohn
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+Carton of blister pack (20, 60 and 200) for 150 mg orodispersible tablets
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Lyrica 150 mg orodispersible tablets pregabalin
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each orodispersible tablet contains 150 mg pregabalin.
+
+## 3. LIST OF EXCIPIENTS
+
+See the package leaflet for further information.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+20 orodispersible tablets
+
+60 orodispersible tablets
+
+200 orodispersible tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Oral use.
+
+Read the package leaflet before use.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+Sealed Pack
+
+Do not use if box has been opened.
+
+## 8. EXPIRY DATE
+
+EXP
+
+After first opening of the aluminium pouch, use within 3 months.
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in the original packaging in order to protect from moisture.
+
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Upjohn EESV Rivium Westlaan 142 2909 LD Capelle aan den IJssel Netherlands
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/04/279/053
+
+EU/1/04/279/054
+
+EU/1/04/279/055
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Lyrica 150 mg
+
+## 17. UNIQUE IDENTIFIER-2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER-HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SECONDARY PACKAGING
+
+Aluminium pouch of blister pack (20, 60 and 200) for 150 mg orodispersible tablets
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+Lyrica 150 mg orodispersible tablets pregabalin
+
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
+
+Upjohn
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+Blister pack (20, 60 and 200) for 150 mg orodispersible tablets
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+Lyrica 150 mg orodispersible tablets pregabalin
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Upjohn
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Lot
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## B. PACKAGE LEAFLET
+
+<div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
+
+```
+Lyrica 25 mg hard capsules, Lyrica 50 mg hard capsules, Lyrica 75 mg hard capsules, Lyrica 100 mg hard capsules, Lyrica 150 mg hard capsules, Lyrica 200 mg hard capsules, Lyrica 225 mg hard capsules, Lyrica 300 mg hard capsules pregabalin
+```
+
+## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
+
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor or pharmacist.
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Lyrica is and what it is used for
+2. What you need to know before you take Lyrica
+3. How to take Lyrica
+4. Possible side effects
+5. How to store Lyrica
+6. Contents of the pack and other information
+
+## 1. What Lyrica is and what it is used for
+
+Lyrica belongs to a group of medicines used to treat epilepsy, neuropathic pain and Generalised Anxiety Disorder (GAD) in adults.
+
+Peripheral and central neuropathic pain: Lyrica is used to treat long lasting pain caused by damage to the nerves. A variety of diseases can cause peripheral neuropathic pain, such as diabetes or shingles. Pain sensations may be described as hot, burning, throbbing, shooting, stabbing, sharp, cramping, aching, tingling, numbness, pins and needles. Peripheral and central neuropathic pain may also be associated with mood changes, sleep disturbance, fatigue (tiredness), and can have an impact on physical and social functioning and overall quality of life.
+
+Epilepsy: Lyrica is used to treat a certain form of epilepsy (partial seizures with or without secondary generalisation) in adults. Your doctor will prescribe Lyrica for you to help treat your epilepsy when your current treatment is not controlling your condition. You should take Lyrica in addition to your current treatment. Lyrica is not intended to be used alone, but should always be used in combination with other anti-epileptic treatment.
+
+Generalised Anxiety Disorder: Lyrica is used to treat Generalised Anxiety Disorder (GAD). The symptoms of GAD are prolonged excessive anxiety and worry that are difficult to control. GAD can also cause restlessness or feeling keyed up or on edge, being easily fatigued (tired), having difficulty concentrating or mind going blank, feeling irritable, having muscle tension or sleep disturbance. This is different to the stresses and strains of everyday life.
+
+<div style=\"page-break-after: always\"></div>
+
+## 2. What you need to know before you take Lyrica
+
+## Do not take Lyrica
+
+If you are allergic to pregabalin or any of the other ingredients of this medicine (listed in section 6).
+
+## Warnings and Precautions
+
+Talk to your doctor or pharmacist before taking Lyrica.
+
+- Some patients taking Lyrica have reported symptoms suggesting an allergic reaction. These symptoms include swelling of the face, lips, tongue, and throat, as well as diffuse skin rash. Should you experience any of these reactions, you should contact your physician immediately.
+- Serious skin rashes including Stevens-Johnson syndrome and toxic epidermal necrolysis have been reported in association with pregabalin. Stop using pregabalin and seek medical attention immediately if you notice any of the symptoms related to these serious skin reactions described in section 4.
+- Lyrica has been associated with dizziness and somnolence, which could increase the occurrence of accidental injury (fall) in elderly patients. Therefore, you should be careful until you are used to any effect the medicine might have.
+- Lyrica may cause blurring or loss of vision, or other changes in eyesight, many of which are temporary. You should immediately tell your doctor if you experience any changes in your vision.
+- Some patients with diabetes who gain weight while taking pregabalin may need an alteration in their diabetic medicines.
+- Certain side effects may be more common, such as sleepiness, because patients with spinal cord injury may be taking other medicines to treat, for example, pain or spasticity, that have similar side effects to Pregabalin and the severity of these effects may be increased when taken together.
+- There have been reports of heart failure in some patients when taking Lyrica; these patients were mostly elderly with cardiovascular conditions. Before taking this medicine you should tell your doctor if you have a history of heart disease .
+- There have been reports of kidney failure in some patients when taking Lyrica. If while taking Lyrica you notice decreased urination, you should tell your doctor as stopping the medicine may improve this.
+- Some patients being treated with anti-epileptics such as Lyrica have had thoughts of harming or killing themselves or shown suicidal behaviour. If at any time you have these thoughts or shown such behaviour, immediately contact your doctor.
+- When Lyrica is taken with other medicines that may cause constipation (such as some types of pain medicines) it is possible that gastrointestinal problems may occur (e.g. constipation, blocked or paralysed bowel). Tell your doctor if you experience constipation, especially if you are prone to this problem.
+- Before taking this medicine, tell your doctor if you have ever abused or been dependent on alcohol, prescription medicines or illegal drugs; it may mean you have a greater risk of becoming dependent on Lyrica.
+- There have been reports of convulsions when taking Lyrica or shortly after stopping Lyrica. If you experience a convulsion, contact your doctor immediately.
+
+<div style=\"page-break-after: always\"></div>
+
+- There have been reports of reduction in brain function (encephalopathy) in some patients taking Lyrica when they have other conditions. Tell your doctor if you have a history of any serious medical conditions, including liver or kidney disease.
+- There have been reports of breathing difficulties. If you have nervous system disorders, respiratory disorders, renal impairment, or you are older than 65, your doctor may prescribe you a different dosing regimen. Contact your doctor if you experience trouble breathing or shallow breaths.
+
+## Dependence
+
+Some people may become dependent on Lyrica (a need to keep taking the medicine). They may have withdrawal effects when they stop using Lyrica (see section 3, 'How to take Lyrica' and 'If you stop taking Lyrica'). If you have concerns that you may become dependent on Lyrica, it is important that you consult your doctor.
+
+If you notice any of the following signs whilst taking Lyrica, it could be a sign that you have become dependent:
+
+- You need to take the medicine for longer than advised by your prescriber
+- You feel you need to take more than the recommended dose
+- You are using the medicine for reasons other than prescribed
+- You have made repeated, unsuccessful attempts to quit or control the use of the medicine
+- When you stop taking the medicine you feel unwell, and you feel better once taking the medicine again
+
+If you notice any of these, speak to your doctor to discuss the best treatment pathway for you, including when it is appropriate to stop and how to do this safely.
+
+## Children and adolescents
+
+The safety and efficacy in children and adolescents (under 18 years of age) has not been established and therefore, pregabalin should not be used in this age group.
+
+## Other medicines and Lyrica
+
+Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
+
+Lyrica and certain other medicines may influence each other (interaction). When taken with certain other medicines which have sedative effects (including opioids), Lyrica may potentiate these effects, and could lead to respiratory failure, coma and death. The degree of dizziness, sleepiness and decreased concentration may be increased if Lyrica is taken together with medicines containing:
+
+Oxycodone - (used as a pain-killer) Lorazepam - (used for treating anxiety) Alcohol
+
+Lyrica may be taken with oral contraceptives.
+
+## Lyrica with food, drink and alcohol
+
+Lyrica capsules may be taken with or without food.
+
+It is advised not to drink alcohol while taking Lyrica.
+
+## Pregnancy and breast-feeding
+
+Lyrica should not be taken during pregnancy or when breast-feeding, unless you are told otherwise by your doctor. Pregabalin use during the first 3 months of pregnancy may cause birth defects in the unborn child that require medical treatment. In a study reviewing data from women in Nordic countries who took pregabalin in the first 3 months of pregnancy, 6 babies in every 100 had such birth defects. This compares to 4 babies in every 100 born to women not treated with pregabalin in the
+
+<div style=\"page-break-after: always\"></div>
+
+study. Abnormalities of the face (orofacial clefts), the eyes, the nervous system (including the brain), kidneys and genitals have been reported.
+
+Effective contraception must be used by women of childbearing potential. If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
+
+## Driving and using machines
+
+Lyrica may produce dizziness, sleepiness and decreased concentration. You should not drive, operate complex machinery or engage in other potentially hazardous activities until you know whether this medicine affects your ability to perform these activities.
+
+## Lyrica contains lactose monohydrate
+
+If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine.
+
+## Lyrica contains sodium
+
+This medicine contains less than 1 mmol sodium (23 mg) per hard capsule, that is to say essentially 'sodium-free'.
+
+## 3. How to take Lyrica
+
+Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure. Do not take more medicine than prescribed.
+
+Your doctor will determine what dose is appropriate for you.
+
+Lyrica is for oral use only.
+
+## Peripheral and central neuropathic pain, epilepsy or Generalised Anxiety Disorder:
+
+- Take the number of capsules as instructed by your doctor.
+- The dose, which has been adjusted for you and your condition, will generally be between 150 mg and 600 mg each day.
+- Your doctor will tell you to take Lyrica either twice or three times a day. For twice a day take Lyrica once in the morning and once in the evening, at about the same time each day. For three times a day take Lyrica once in the morning, once in the afternoon and once in the evening, at about the same time each day.
+
+If you have the impression that the effect of Lyrica is too strong or too weak, talk to your doctor or pharmacist.
+
+If you are an elderly patient (over 65 years of age), you should take Lyrica normally except if you have problems with your kidneys.
+
+Your doctor may prescribe a different dosing schedule and/or dose if you have problems with your kidneys.
+
+Swallow the capsule whole with water.
+
+Continue taking Lyrica until your doctor tells you to stop.
+
+## If you take more Lyrica than you should
+
+Call your doctor or go to the nearest hospital emergency unit immediately. Take your box or bottle of Lyrica capsules with you. You may feel sleepy, confused, agitated, or restless as a result of taking more Lyrica than you should. Fits and unconsciousness (coma) have also been reported.
+
+<div style=\"page-break-after: always\"></div>
+
+## If you forget to take Lyrica
+
+It is important to take your Lyrica capsules regularly at the same time each day. If you forget to take a dose, take it as soon as you remember unless it is time for your next dose. In that case, just carry on with the next dose as normal. Do not take a double dose to make up for a forgotten dose.
+
+## If you stop taking Lyrica
+
+Do not suddenly stop taking Lyrica. If you want to stop taking Lyrica, discuss this with your doctor first. They will tell you how to do this. If your treatment is stopped it should be done gradually over a minimum of 1 week. After stopping a short or long-term treatment with Lyrica, you need to know that you may experience certain side effects, so-called withdrawal effects. These effects include, trouble sleeping, headache, nausea, feeling anxious, diarrhoea, flu like symptoms, convulsions, nervousness, depression, thoughts of harming or killing yourself, pain, sweating, and dizziness. These effects may occur more commonly or severely if you have been taking Lyrica for a longer period of time. If you experience withdrawal effects, you should contact your doctor.
+
+If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+## Very common: may affect more than 1 in 10 people
+
+Dizziness, drowsiness, headache.
+
+## Common: may affect up to 1 in 10 people
+
+- Increased appetite.
+- Feeling of elation, confusion, disorientation, decrease in sexual interest, irritability.
+- Disturbance in attention, clumsiness, memory impairment, loss of memory, tremor, difficulty with speaking, tingling feeling, numbness, sedation, lethargy, insomnia, fatigue, feeling abnormal.
+- Blurred vision, double vision.
+- Vertigo, problems with balance, fall.
+- Dry mouth, constipation, vomiting, flatulence, diarrhoea, nausea, swollen abdomen.
+- Difficulties with erection.
+- Swelling of the body including extremities.
+- Feeling drunk, abnormal style of walking.
+- Weight gain.
+- Muscle cramp, joint pain, back pain, pain in limb.
+- Sore throat.
+
+## Uncommon: may affect up to 1 in 100 people
+
+- Loss of appetite, weight loss, low blood sugar, high blood sugar.
+- Change in perception of self, restlessness, depression, agitation, mood swings, difficulty finding words, hallucinations, abnormal dreams, panic attack, apathy, aggression, elevated mood, mental impairment, difficulty with thinking, increase in sexual interest, problems with sexual functioning including inability to achieve a sexual climax, delayed ejaculation.
+- Changes in eyesight, unusual eye movement, changes in vision including tunnel vision, flashes of light, jerky movements, reduced reflexes, increased activity, dizziness on standing, sensitive skin, loss of taste, burning sensation, tremor on movement, decreased consciousness, loss of consciousness, fainting, increased sensitivity to noise, feeling unwell.
+- Dry eyes, eye swelling, eye pain, weak eyes, watery eyes, eye irritation.
+
+<div style=\"page-break-after: always\"></div>
+
+- Heart rhythm disturbances, increased heart rate, low blood pressure, high blood pressure, changes in heart beat, heart failure.
+- Flushing, hot flushes.
+- Difficulty breathing, dry nose, nasal congestion.
+- Increased saliva production, heartburn, numb around mouth.
+- Sweating, rash, chills, fever.
+- Muscle twitching, joint swelling, muscle stiffness, pain including muscle pain, neck pain.
+- Breast pain.
+- Difficulty with or painful urination, incontinence.
+- Weakness, thirst, chest tightness.
+- Changes in blood and liver test results (blood creatinine phosphokinase increased, alanine amino transferase increased, aspartate aminotransferase increased, platelet count decreased, neutropaenia, increase in blood creatinine, decrease in blood potassium).
+- Hypersensitivity, swollen face, itchiness, hives, runny nose, nose bleed, cough, snoring.
+- Painful menstrual periods.
+- Coldness of hands and feet.
+
+## Rare: may affect up to 1 in 1,000 people
+
+- Abnormal sense of smell, swinging vision, altered perception of depth, visual brightness, vision loss.
+- Dilated pupils, cross eyes.
+- Cold sweat, tightness of the throat, swollen tongue.
+- Inflammation of the pancreas.
+- Difficulty in swallowing.
+- Slow or reduced movement of the body.
+- Difficulty with writing properly.
+- Increased fluid in the abdomen.
+- Fluid in the lungs.
+- Convulsions.
+- Changes in the recording of electrical changes (ECG) in the heart which correspond to heart rhythm disturbances.
+- Muscle damage.
+- Breast discharge, abnormal breast growth, breast growth in males.
+- Interrupted menstrual periods.
+- Kidney failure, reduced urine volume, urinary retention.
+- Decrease in white blood cell count.
+- Inappropriate behaviour, suicidal behaviour, suicidal thoughts.
+- Allergic reactions which may include difficulty breathing, inflammation of the eyes (keratitis) and serious skin reactions characterized by reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes. These serious skin rashes can be preceded by fever and flu-like symptoms (Stevens-Johnson syndrome, toxic epidermal necrolysis).
+- Jaundice (yellowing of the skin and eyes).
+- Parkinsonism, that is symptoms resembling Parkinson's disease; such as tremor, bradykinesia (decreased ability to move), and rigidity (muscle stiffness).
+
+## Very rare: may affect up to 1 in 10,000 people
+
+- Liver failure.
+- Hepatitis (inflammation of the liver).
+
+## Not known: frequency cannot be estimated from the available data
+
+- Becoming dependent on Lyrica ('drug dependence').
+
+<div style=\"page-break-after: always\"></div>
+
+After stopping a short or long-term treatment with Lyrica, you need to know that you may experience certain side effects, so-called withdrawal effects (see 'If you stop taking Lyrica').
+
+## If you experience swollen face or tongue or if your skin turns red and starts to blister or peel, you should seek immediate medical advice.
+
+Certain side effects may be more common, such as sleepiness, because patients with spinal cord injury may be taking other medicines to treat, for example, pain or spasticity, that have similar side effects to Pregabalin and the severity of these effects may be increased when taken together.
+
+The following adverse reaction has been reported in the postmarketing experience: Trouble breathing, shallow breaths.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Lyrica
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date which is stated on the carton or bottle. The expiry date refers to the last day of that month.
+
+This medicine does not require any special storage conditions.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Lyrica contains
+
+The active substance is pregabalin. Each hard capsule contains either 25 mg , 50 mg, 75 mg, 100 mg, 150 mg, 200 mg, 225 mg or 300 mg pregabalin.
+
+The other ingredients are: lactose monohydrate, maize starch, talc, gelatine, titanium dioxide (E171), sodium laurilsulphate, anhydrous colloidal silica, black ink, (which contains shellac, black iron oxide (E172), propylene glycol, potassium hydroxide) and water.
+
+The 75 mg, 100 mg, 200 mg, 225 mg and 300 mg capsules also contain red iron oxide (E172).
+
+<div style=\"page-break-after: always\"></div>
+
+| What Lyrica looks like and contents of the pack   | What Lyrica looks like and contents of the pack                                                                           |
+|---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| 25 mg capsules                                    | White hard capsules, with 'VTRS' marked on the cap and 'PGN 25' on the body.                                              |
+| 50 mg capsules                                    | White hard capsules, with 'VTRS' marked on the cap and 'PGN 50'on the body. The capsule body is marked with a black band. |
+| 75 mg capsules                                    | White and orange hard capsules with 'VTRS' marked on the cap and 'PGN 75' on the body.                                    |
+| 100 mg capsules                                   | Orange hard capsules, with 'VTRS' marked on the cap and 'PGN 100' on the body.                                            |
+| 150 mg capsules                                   | White hard capsules, with 'VTRS' marked on the cap and 'PGN 150' on the body.                                             |
+| 200 mg capsules                                   | Light orange hard capsules, with 'VTRS' marked on the cap and 'PGN 200' on the body.                                      |
+| 225 mg capsules                                   | White and light orange hard capsules, with 'VTRS' marked on the cap and 'PGN 225' on the body.                            |
+| 300 mg capsules                                   | White and orange hard capsules, with 'VTRS' marked on the cap and 'PGN 300' on the body.                                  |
+
+Lyrica is available in eight pack sizes made of PVC with an aluminium foil backing: a 14 capsules pack containing 1 blister strip, a 21 capsules pack containing 1 blister strip, a 56 capsules pack containing 4 blister strips, a 70 capsules pack containing 5 blister strips, a 84 capsules pack containing 4 blister strips, a 100 capsules pack containing 10 blister strips, a 112 capsules pack containing 8 blister strips and 100 x 1 capsules as perforated unit dose blisters.
+
+In addition, Lyrica is available in an HDPE bottle containing 200 capsules for the 25 mg, 75 mg, 150 mg and 300 mg strengths .
+
+Not all pack sizes may be marketed.
+
+## Marketing Authorisation Holder and Manufacturer
+
+Marketing Authorisation Holder:
+
+Upjohn EESV, Rivium Westlaan 142, 2909 LD Capelle aan den IJssel, Netherlands.
+
+## Manufacturer:
+
+Pfizer Manufacturing Deutschland GmbH, Mooswaldallee 1, 79108 Freiburg Im Breisgau, Germany.
+
+or
+
+Mylan Hungary Kft., Mylan utca 1, Komárom 2900, Hungary.
+
+or
+
+MEDIS INTERNATIONAL a.s., výrobní závod Bolatice, Průmyslová 961/16, 747 23 Bolatice, Czech Republic.
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+Viatris
+
+Tél/Tel: +32 (0)2 658 61 00
+
+Lietuva
+
+Viatris UAB
+
+Tel. +370 52051288
+
+<div style=\"page-break-after: always\"></div>
+
+## България
+
+Майлан ЕООД Тел.: +359 2 44 55 400
+
+## Česká republika
+
+Viatris CZ s.r.o. Tel: +420 222 004 400
+
+## Danmark
+
+Viatris ApS
+
+Tlf: +45 28 11 69 32
+
+## Deutschland
+
+Viatris Healthcare GmbH Tel: +49 (0)800 0700 800
+
+## Eesti
+
+Viatris OÜ Tel: +372 6363 052
+
+## Ελλάδα
+
+Viatris Hellas Ltd Τηλ.: +30 2100 100 002
+
+## España
+
+Viatris Pharmaceuticals, S.L. Tel: +34 900 102 712
+
+## France
+
+Viatris Santé
+
+Tél: +33 (0)4 37 25 75 00
+
+## Hrvatska
+
+Viatris Hrvatska d.o.o. Tel: + 385 1 23 50 599
+
+## Ireland
+
+Viatris Limited Tel: +353 1 8711600
+
+## Ísland
+
+Icepharma hf. Sími: +354 540 8000
+
+## Italia
+
+Viatris Pharma S.r.l. Tel: +39 02 612 46921
+
+Κύπρος CPO Pharmaceuticals Limited Τηλ: +357 22863100
+
+## Latvija
+
+Viatris SIA
+
+Tel: +371 676 055 80
+
+## Luxembourg/Luxemburg
+
+Tél/Tel: +32 (0)2 658 61 00
+
+Viatris (Belgique/Belgien)
+
+## Magyarország
+
+Viatris Healthcare Kft. Tel. + 36 1 465 2100
+
+## Malta
+
+V.J. Salomone Pharma Limited Tel: (+356) 21 220 174
+
+## Nederland
+
+Mylan Healthcare BV Tel: +31 (0)20 426 3300
+
+## Norge
+
+Viatris AS
+
+Tlf: +47 66 75 33 00
+
+## Österreich
+
+Viatris Austria GmbH Tel: +43 1 86390
+
+## Polska
+
+Viatris Healthcare Sp. z o.o. Tel.: +48 22 546 64 00
+
+## Portugal
+
+Viatris Healthcare, Lda. Tel: +351 21 412 72 00
+
+## România
+
+BGP Products SRL Tel: +40 372 579 000
+
+## Slovenija
+
+Viatris d.o.o. Tel: +386 1 236 31 80
+
+## Slovenská republika
+
+Viatris Slovakia s.r.o. Tel: +421 2 32 199 100
+
+## Suomi/Finland
+
+Viatris Oy Puh./Tel: +358 20 720 9555
+
+## Sverige
+
+Viatris AB Tel: +46 (0)8 630 19 00
+
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in:
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
+
+## Lyrica 20 mg/mL oral solution
+
+## pregabalin
+
+## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
+
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor or pharmacist.
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Lyrica is and what it is used for
+2. What you need to know before you take Lyrica
+3. How to take Lyrica
+4. Possible side effects
+5. How to store Lyrica
+6. Contents of the pack and other information
+
+## 1. What Lyrica is and what it is used for
+
+Lyrica belongs to a group of medicines used to treat epilepsy, neuropathic pain and Generalised Anxiety Disorder (GAD) in adults.
+
+Peripheral and central neuropathic pain: Lyrica is used to treat long lasting pain caused by damage to the nerves. A variety of diseases can cause peripheral neuropathic pain, such as diabetes or shingles. Pain sensations may be described as hot, burning, throbbing, shooting, stabbing, sharp, cramping, aching, tingling, numbness, pins and needles. Peripheral and central neuropathic pain may also be associated with mood changes, sleep disturbance, fatigue (tiredness), and can have an impact on physical and social functioning and overall quality of life.
+
+Epilepsy: Lyrica is used to treat a certain form of epilepsy (partial seizures with or without secondary generalisation-epileptic fits starting on one specific part of the brain) in adults. Your doctor will prescribe Lyrica for you to help treat your epilepsy when your current treatment is not controlling your condition. You should take Lyrica in addition to your current treatment. Lyrica is not intended to be used alone, but should always be used in combination with other anti-epileptic treatment.
+
+Generalised Anxiety Disorder: Lyrica is used to treat Generalised Anxiety Disorder (GAD). The symptoms of GAD are prolonged excessive anxiety and worry that are difficult to control. GAD can also cause restlessness or feeling keyed up or on edge, being easily fatigued (tired), having difficulty concentrating or mind going blank, feeling irritable, having muscle tension or sleep disturbance. This is different to the stresses and strains of everyday life.
+
+## 2. What you need to know before you take Lyrica
+
+## Do not take Lyrica
+
+if you are allergic to pregabalin or any of the other ingredients of this medicine (listed in section 6).
+
+## Warnings and Precautions
+
+Talk to your doctor or pharmacist before taking Lyrica.
+
+<div style=\"page-break-after: always\"></div>
+
+- Some patients taking Lyrica have reported symptoms suggesting an allergic reaction. These symptoms include swelling of the face, lips, tongue, and throat, as well as diffuse skin rash. Should you experience any of these reactions, you should contact your physician immediately.
+- Serious skin rashes including Stevens-Johnson syndrome and toxic epidermal necrolysis have been reported in association with pregabalin. Stop using pregabalin and seek medical attention immediately if you notice any of the symptoms related to these serious skin reactions described in section 4.
+- Lyrica has been associated with dizziness and somnolence, which could increase the occurrence of accidental injury (fall) in elderly patients. Therefore, you should be careful until you are used to any effect the medicine might have.
+- Lyrica may cause blurring or loss of vision, or other changes in eyesight, many of which are temporary. You should immediately tell your doctor if you experience any changes in your vision.
+- Some patients with diabetes who gain weight while taking pregabalin may need an alteration in their diabetic medicines.
+- Certain side effects may be more common, such as sleepiness, because patients with spinal cord injury may be taking other medicines to treat, for example, pain or spasticity, that have similar side effects to pregabalin and the severity of these effects may be increased when taken together.
+- There have been reports of heart failure in some patients when taking Lyrica; these patients were mostly elderly with cardiovascular conditions. Before taking this medicine you should tell your doctor if you have a history of heart disease .
+- There have been reports of kidney failure in some patients when taking Lyrica. If while taking Lyrica you notice decreased urination, you should tell your doctor as stopping the medicine may improve this.
+- Some patients being treated with anti-epileptics such as Lyrica have had thoughts of harming or killing themselves or shown suicidal behaviour. If at any time you have these thoughts or show such behaviour, immediately contact your doctor.
+- When Lyrica is taken with other medicines that may cause constipation (such as some types of pain medicines) it is possible that gastrointestinal problems may occur (e.g. constipation, blocked or paralysed bowel). Tell your doctor if you experience constipation, especially if you are prone to this problem.
+- Before taking this medicine, tell your doctor if you have ever abused or been dependent on alcohol, prescription medicines or illegal drugs; it may mean you have a greater risk of becoming dependent on Lyrica.
+- There have been reports of convulsions when taking Lyrica or shortly after stopping Lyrica. If you experience a convulsion, contact your doctor immediately.
+- There have been reports of reduction in brain function (encephalopathy) in some patients taking Lyrica when they have other conditions. Tell your doctor if you have a history of any serious medical conditions, including liver or kidney disease.
+- There have been reports of breathing difficulties. If you have nervous system disorders, respiratory disorders, renal impairment, or you are older than 65, your doctor may prescribe you a different dosing regimen. Contact your doctor if you experience trouble breathing or shallow breaths.
+
+<div style=\"page-break-after: always\"></div>
+
+## Dependence
+
+Some people may become dependent on Lyrica (a need to keep taking the medicine). They may have withdrawal effects when they stop using Lyrica (see section 3, 'How to take Lyrica' and 'If you stop taking Lyrica'). If you have concerns that you may become dependent on Lyrica, it is important that you consult your doctor.
+
+If you notice any of the following signs whilst taking Lyrica, it could be a sign that you have become dependent:
+
+- You need to take the medicine for longer than advised by your prescriber
+- You feel you need to take more than the recommended dose
+- You are using the medicine for reasons other than prescribed
+- You have made repeated, unsuccessful attempts to quit or control the use of the medicine
+- When you stop taking the medicine you feel unwell, and you feel better once taking the medicine again
+
+If you notice any of these, speak to your doctor to discuss the best treatment pathway for you, including when it is appropriate to stop and how to do this safely.
+
+## Children and adolescents
+
+The safety and efficacy in children and adolescents (under 18 years of age) has not been established and therefore, pregabalin should not be used in this age group.
+
+## Other medicines and Lyrica
+
+Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
+
+Lyrica and certain other medicines may influence each other (interaction). When taken with certain other medicines which have sedative effects (including opioids), Lyrica may potentiate these effects, and could lead to respiratory failure, coma and death. The degree of dizziness, sleepiness and decreased concentration may be increased if Lyrica is taken together with medicines containing:
+
+Oxycodone - (used as a pain-killer) Lorazepam - (used for treating anxiety) Alcohol Lyrica may be taken with oral contraceptives.
+
+## Lyrica with food, drink and alcohol
+
+Lyrica may be taken with or without food.
+
+It is advised not to drink alcohol while taking Lyrica
+
+## Pregnancy and breast-feeding
+
+Lyrica should not be taken during pregnancy or when breast-feeding, unless you are told otherwise by your doctor. Pregabalin use during the first 3 months of pregnancy may cause birth defects in the unborn child that require medical treatment. In a study reviewing data from women in Nordic countries who took pregabalin in the first 3 months of pregnancy, 6 babies in every 100 had such birth defects. This compares to 4 babies in every 100 born to women not treated with pregabalin in the study. Abnormalities of the face (orofacial clefts), the eyes, the nervous system (including the brain), kidneys and genitals have been reported.
+
+Effective contraception must be used by women of childbearing potential. If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
+
+<div style=\"page-break-after: always\"></div>
+
+## Driving and using machines
+
+Lyrica may produce dizziness, sleepiness and decreased concentration. You should not drive, operate complex machinery or engage in other potentially hazardous activities until you know whether this medicine affects your ability to perform these activities.
+
+## Lyrica contains methyl parahydroxybenzoate and propyl parahydroxybenzoate
+
+Lyrica oral solution contains methyl parahydroxybenzoate (E218) and propyl parahydroxybenzoate (E216) which may cause allergic reactions (possibly delayed).
+
+## Lyrica contains ethanol
+
+Lyrica oral solution contains small amounts of ethanol (alcohol), less than 100 mg/mL.
+
+## Lyrica contains sodium
+
+This medicine contains less than 1 mmol sodium (23 mg) per maximum daily dose of 600 mg (30 mL), that is to say essentially 'sodium-free'.
+
+## 3. How to take Lyrica
+
+Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure. Do not take more medicine than prescribed.
+
+Your doctor will determine what dose is appropriate for you.
+
+## Peripheral and central neuropathic pain, epilepsy or Generalised Anxiety Disorder:
+
+- Take the solution as instructed by your doctor.
+- The dose, which has been adjusted for you and your condition, will generally be between 150 mg (7.5 mL) and 600 mg (30 mL) each day.
+- Your doctor will tell you to take Lyrica either twice or three times a day. For twice a day take Lyrica once in the morning and once in the evening, at about the same time each day. For three times a day take Lyrica once in the morning, once in the afternoon and once in the evening, at about the same time each day.
+
+If you have the impression that the effect of Lyrica is too strong or too weak, talk to your doctor or pharmacist.
+
+If you are an elderly patient (over 65 years of age), you should take Lyrica normally except if you have problems with your kidneys.
+
+Your doctor may prescribe a different dosing schedule and/or dose if you have problems with your kidneys.
+
+Continue taking Lyrica until your doctor tells you to stop.
+
+## Administration:
+
+## Instructions for use
+
+Lyrica is for oral use only.
+
+1. Open the bottle: Press downward on the cap and turn it counter-clockwise (Figure 1).
+2. First time use only: A Press-In Bottle Adapter (PIBA) is provided with the oral syringe. This is the device that gets inserted into the neck of the bottle to make it easier to withdraw the solution using the oral syringe. If the PIBA is not already in place, remove the PIBA and 5 mL oral syringe from the plastic overwrap. With the bottle on a flat surface, insert the PIBA into the bottle neck while keeping the PIBA's flat surface facing up and pressing on it (Figure 2).
+
+<div style=\"page-break-after: always\"></div>
+
+3. Push the syringe plunger to the bottom of the barrel of the syringe (toward its tip) to remove excess air. Attach the syringe to the PIBA with a slight twisting motion (Figure 3).
+4. Invert the bottle (with the syringe attached) and fill the syringe with the liquid by pulling the syringe plunger down to just beyond the graduation mark corresponding to the quantity in millilitres (mL) prescribed by your doctor (Figure 4). Remove air bubbles from the syringe by pushing the plunger up to the appropriate graduation mark.
+5. Return the bottle to an upright position with the syringe still in the PIBA/bottle (Figure 5).
+6. Remove the syringe from the bottle/PIBA (Figure 6).
+7. Empty the contents of the syringe directly into mouth by pushing the syringe plunger to the bottom of the syringe barrel (Figure 7).
+
+Note: Steps 4-7 may need to be repeated up to three times to obtain the total dose (Table 1).
+
+[For example, a 150 mg (7.5 mL) dose will require two withdrawals from the bottle to achieve the entire dose. Using the oral syringe, first withdraw 5 mL and empty contents of syringe directly into the mouth, then refill the oral syringe with 2.5 mL and empty the remaining contents into the mouth.]
+
+8. Rinse the syringe by drawing water into the syringe and pushing the syringe plunger to the bottom of the syringe barrel, at least three times (Figure 8).
+9. Replace the cap on the bottle (leaving the PIBA in place in the bottle neck) (Figure 9).
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+Table 1. Oral Syringe Withdrawals to Deliver Prescribed Dose of Lyrica
+
+|   Lyrica Dose (mg) |   Total Solution Volume (mL) |   First Syringe Withdrawal (mL) | Second Syringe Withdrawal (mL)   | Third Syringe Withdrawal (mL)   |
+|--------------------|------------------------------|---------------------------------|----------------------------------|---------------------------------|
+|                 25 |                         1.25 |                            1.25 | Not required                     | Not required                    |
+|                 50 |                         2.5  |                            2.5  | Not required                     | Not required                    |
+|                 75 |                         3.75 |                            3.75 | Not required                     | Not required                    |
+|                100 |                         5    |                            5    | Not required                     | Not required                    |
+|                150 |                         7.5  |                            5    | 2.5                              | Not required                    |
+|                200 |                        10    |                            5    | 5                                | Not required                    |
+|                225 |                        11.25 |                            5    | 5                                | 1.25                            |
+|                300 |                        15    |                            5    | 5                                | 5                               |
+
+## If you take more Lyrica than you should
+
+Call your doctor or go to the nearest hospital emergency unit immediately. Take your box or bottle of Lyrica oral solution with you. You may feel sleepy, confused, agitated, or restless as a result of taking more Lyrica than you should. Fits and unconsciousness (coma) have also been reported.
+
+## If you forget to take Lyrica
+
+It is important to take your Lyrica oral solution regularly at the same time each day. If you forget to take a dose, take it as soon as you remember unless it is time for your next dose. In that case, just carry on with the next dose as normal. Do not take a double dose to make up for a forgotten dose.
+
+## If you stop taking Lyrica
+
+Do not suddenly stop taking Lyrica. If you want to stop taking Lyrica, discuss this with your doctor first. They will tell you how to do this. If your treatment is stopped it should be done gradually over a minimum of 1 week. After stopping a short or long-term treatment with Lyrica, you need to know that you may experience certain side effects, so-called withdrawal effects. These effects include, trouble sleeping, headache, nausea, feeling anxious, diarrhoea, flulike symptoms, convulsions, nervousness, depression, thoughts of harming or killing yourself, pain, sweating, and dizziness. These effects may occur more commonly or severely if you have been taking Lyrica for a longer period of time. If you experience withdrawal effects, you should contact your doctor.
+
+If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+## Very common: may affect more than 1 in 10 people
+
+Dizziness, drowsiness, headache.
+
+<div style=\"page-break-after: always\"></div>
+
+## Common: may affect up to 1 in 10 people
+
+- Increased appetite.
+- Feeling of elation, confusion, disorientation, decrease in sexual interest, irritability.
+- Disturbance in attention, clumsiness, memory impairment, loss of memory, tremor, difficulty with speaking, tingling feeling, numbness, sedation, lethargy, insomnia, fatigue, feeling abnormal.
+- Blurred vision, double vision.
+- Vertigo, problems with balance, fall.
+- Dry mouth, constipation, vomiting, flatulence, diarrhoea, nausea, swollen abdomen.
+- Difficulties with erection.
+- Swelling of the body including extremities.
+- Feeling drunk, abnormal style of walking.
+- Weight gain.
+- Muscle cramp, joint pain, back pain, pain in limb.
+- Sore throat.
+
+## Uncommon: may affect up to 1 in 100 people
+
+- Loss of appetite, weight loss, low blood sugar, high blood sugar.
+- Change in perception of self, restlessness, depression, agitation, mood swings, difficulty finding words, hallucinations, abnormal dreams, panic attack, apathy, aggression, elevated mood, mental impairment, difficulty with thinking, increase in sexual interest, problems with sexual functioning including inability to achieve a sexual climax, delayed ejaculation.
+- Changes in eyesight, unusual eye movement, changes in vision including tunnel vision, flashes of light, jerky movements, reduced reflexes, increased activity, dizziness on standing, sensitive skin, loss of taste, burning sensation, tremor on movement, decreased consciousness, loss of consciousness, fainting, increased sensitivity to noise, feeling unwell.
+- Dry eyes, eye swelling, eye pain, weak eyes, watery eyes, eye irritation.
+- Heart rhythm disturbances, increased heart rate, low blood pressure, high blood pressure, changes in heart beat, heart failure.
+- Flushing, hot flushes.
+- Difficulty breathing, dry nose, nasal congestion.
+- Increased saliva production, heartburn, numb around mouth.
+- Sweating, rash, chills, fever.
+- Muscle twitching, joint swelling, muscle stiffness, pain including muscle pain, neck pain.
+- Breast pain.
+- Difficulty with or painful urination, incontinence.
+- Weakness, thirst, chest tightness.
+- Changes in blood and liver test results (blood creatinine phosphokinase increased, alanine amino transferase increased, aspartate aminotransferase increased, platelet count decreased, neutropaenia, increase in blood creatinine, decrease in blood potassium).
+- Hypersensitivity, swollen face, itchiness, hives, runny nose, nose bleed, cough, snoring.
+- Painful menstrual periods.
+- Coldness of hands and feet.
+
+## Rare: may affect up to 1 in 1,000 people
+
+- Abnormal sense of smell, swinging vision, altered perception of depth, visual brightness, vision loss.
+- Dilated pupils, cross eyes.
+- Cold sweat, tightness of the throat, swollen tongue.
+- Inflammation of the pancreas.
+- Difficulty in swallowing.
+- Slow or reduced movement of the body.
+
+<div style=\"page-break-after: always\"></div>
+
+- Difficulty with writing properly.
+- Increased fluid in the abdomen.
+- Fluid in the lungs.
+- Convulsions.
+- Changes in the recording of electrical changes (ECG) in the heart which correspond to heart rhythm disturbances.
+- Muscle damage.
+- Breast discharge, abnormal breast growth, breast growth in males.
+- Interrupted menstrual periods.
+- Kidney failure, reduced urine volume, urinary retention.
+- Decrease in white blood cell count.
+- Inappropriate behaviour, suicidal behaviour, suicidal thoughts.
+- Allergic reactions which may include difficulty breathing, inflammation of the eyes (keratitis) and serious skin reactions characterized by reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes. These serious skin rashes can be preceded by fever and flu-like symptoms (Stevens-Johnson syndrome, toxic epidermal necrolysis).
+- Jaundice (yellowing of the skin and eyes).
+- Parkinsonism, that is symptoms resembling Parkinson's disease; such as tremor, bradykinesia (decreased ability to move), and rigidity (muscle stiffness).
+
+## Very rare: may affect up to 1 in 10,000 people
+
+- Liver failure.
+- Hepatitis (inflammation of the liver).
+
+## Not known: frequency cannot be estimated from the available data
+
+- Becoming dependent on Lyrica ('drug dependence').
+
+After stopping a short or long-term treatment with Lyrica, you need to know that you may experience certain side effects, so-called withdrawal effects (see 'If you stop taking Lyrica').
+
+## If you experience swollen face or tongue or if your skin turns red and starts to blister or peel, you should seek immediate medical advice.
+
+Certain side effects may be more common, such as sleepiness, because patients with spinal cord injury may be taking other medicines to treat, for example, pain or spasticity, that have similar side effects to Lyrica and the severity of these effects may be increased when taken together.
+
+The following adverse reaction has been reported in the postmarketing experience: Trouble breathing, shallow breaths.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Lyrica
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date which is stated on the carton or bottle. The expiry date refers to the last day of that month.
+
+<div style=\"page-break-after: always\"></div>
+
+This medicine does not require any special storage conditions.
+
+Do not throw away any medicines via wastewater. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Lyrica contains
+
+The active substance is pregabalin. Each mL contains 20 mg of pregabalin.
+
+The other ingredients are: methyl parahydroxybenzoate (E218), propyl parahydroxybenzoate (E216), sodium dihydrogen phosphate, anhydrous, disodium phosphate, anhydrous (E339), sucralose (E955), artificial strawberry flavour (contains small amounts of ethanol (alcohol), purified water.
+
+## What Lyrica looks like and contents of the pack
+
+Lyrica 20 mg/mL oral solution is a clear colourless solution in a white bottle containing 473 mL of oral solution, in a cardboard carton. The carton also contains, in a clear polyethylene wrap, a graduated 5 mL oral syringe and a press-in bottle adapter (PIBA).
+
+## Marketing Authorisation Holder and Manufacturer
+
+Marketing Authorisation Holder:
+
+Upjohn EESV, Rivium Westlaan 142, 2909 LD Capelle aan den IJssel, Netherlands.
+
+## Manufacturer:
+
+Viatris International Supply Point BV, Terhulpsesteenweg 6A, 1560 Hoeilaart, Belgium or
+
+Mylan Hungary Kft., Mylan utca 1, Komárom 2900, Hungary
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+Viatris
+
+Tél/Tel: +32 (0)2 658 61 00
+
+## Lietuva
+
+Viatris UAB
+
+Tel. +370 52051288
+
+## България
+
+Майлан ЕООД
+
+Тел.: +359 2 44 55 400
+
+## Luxembourg/Luxemburg
+
+Viatris
+
+Tél/Tel: +32 (0)2 658 61 00
+
+(Belgique/Belgien)
+
+## Česká republika
+
+Viatris CZ s.r.o.
+
+Tel: +420 222 004 400
+
+## Magyarország
+
+Viatris Healthcare Kft.
+
+Tel. + 36 1 465 2100
+
+## Danmark
+
+Viatris ApS
+
+Tlf: +45 28 11 69 32
+
+## Malta
+
+V.J. Salomone Pharma Limited
+
+Tel: (+356) 21 220 174
+
+<div style=\"page-break-after: always\"></div>
+
+## Deutschland
+
+Viatris Healthcare GmbH
+
+Tel: +49 (0)800 0700 800
+
+## Eesti
+
+Viatris OÜ
+
+Tel: +372 6363 052
+
+## Ελλάδα
+
+Viatris Hellas Ltd
+
+Τηλ.: +30 2100 100 002
+
+## España
+
+Viatris Pharmaceuticals, S.L.
+
+Tel: +34 900 102 712
+
+## France
+
+Viatris Santé
+
+Tél: +33 (0)4 37 25 75 00
+
+## Hrvatska
+
+Viatris Hrvatska d.o.o.
+
+Tel: + 385 1 23 50 599
+
+## Ireland
+
+Viatris Limited
+
+Tel: +353 1 8711600
+
+## Ísland
+
+Icepharma hf.
+
+Sími: +354 540 8000
+
+## Italia
+
+Viatris Pharma S.r.l.
+
+Tel: +39 02 612 46921
+
+## Κύπρος
+
+CPO Pharmaceuticals Limited
+
+Τηλ: +357 22863100
+
+## Latvija
+
+Viatris SIA
+
+Tel: +371 676 055 80
+
+## This leaflet was last revised in:
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+## Nederland
+
+Mylan Healthcare BV
+
+Tel: +31 (0)20 426 3300
+
+## Norge
+
+Viatris AS
+
+Tlf: +47 66 75 33 00
+
+## Österreich
+
+Viatris Austria GmbH
+
+Tel: +43 1 86390
+
+## Polska
+
+Viatris Healthcare Sp. z o.o.
+
+Tel.: +48 22 546 64 00
+
+## Portugal
+
+Viatris Healthcare, Lda.
+
+Tel: +351 21 412 72 00
+
+## România
+
+BGP Products SRL
+
+Tel: +40 372 579 000
+
+## Slovenija
+
+Viatris d.o.o.
+
+Tel: +386 1 236 31 80
+
+## Slovenská republika
+
+Viatris Slovakia s.r.o.
+
+Tel: +421 2 32 199 100
+
+## Suomi/Finland
+
+Viatris Oy
+
+Puh./Tel: +358 20 720 9555
+
+## Sverige
+
+Viatris AB
+
+Tel: +46 (0)8 630 19 00
+
+## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
+
+Lyrica 25 mg orodispersible tablets, Lyrica 75 mg orodispersible tablets, Lyrica 150 mg orodispersible tablets, pregabalin
+
+## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
+
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor or pharmacist.
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Lyrica is and what it is used for
+2. What you need to know before you take Lyrica
+3. How to take Lyrica
+4. Possible side effects
+5. How to store Lyrica
+6. Contents of the pack and other information
+
+## 1. What Lyrica is and what it is used for
+
+Lyrica belongs to a group of medicines used to treat epilepsy, neuropathic pain and Generalised Anxiety Disorder (GAD) in adults.
+
+Peripheral and central neuropathic pain: Lyrica is used to treat long lasting pain caused by damage to the nerves. A variety of diseases can cause peripheral neuropathic pain, such as diabetes or shingles. Pain sensations may be described as hot, burning, throbbing, shooting, stabbing, sharp, cramping, aching, tingling, numbness, pins and needles. Peripheral and central neuropathic pain may also be associated with mood changes, sleep disturbance, fatigue (tiredness), and can have an impact on physical and social functioning and overall quality of life.
+
+Epilepsy: Lyrica is used to treat a certain form of epilepsy (partial seizures with or without secondary generalisation) in adults. Your doctor will prescribe Lyrica for you to help treat your epilepsy when your current treatment is not controlling your condition. You should take Lyrica in addition to your current treatment. Lyrica is not intended to be used alone, but should always be used in combination with other anti-epileptic treatment.
+
+Generalised Anxiety Disorder: Lyrica is used to treat Generalised Anxiety Disorder (GAD). The symptoms of GAD are prolonged excessive anxiety and worry that are difficult to control. GAD can also cause restlessness or feeling keyed up or on edge, being easily fatigued (tired), having difficulty concentrating or mind going blank, feeling irritable, having muscle tension or sleep disturbance. This is different to the stresses and strains of everyday life.
+
+## 2. What you need to know before you take Lyrica
+
+## Do not take Lyrica
+
+If you are allergic to pregabalin or any of the other ingredients of this medicine (listed in section 6).
+
+## Warnings and Precautions
+
+<div style=\"page-break-after: always\"></div>
+
+Talk to your doctor or pharmacist before taking Lyrica.
+
+- Some patients taking Lyrica have reported symptoms suggesting an allergic reaction. These symptoms include swelling of the face, lips, tongue, and throat, as well as diffuse skin rash. Should you experience any of these reactions, you should contact your physician immediately.
+- Serious skin rashes including Stevens-Johnson syndrome and toxic epidermal necrolysis have been reported in association with pregabalin. Stop using pregabalin and seek medical attention immediately if you notice any of the symptoms related to these serious skin reactions described in section 4.
+- Lyrica has been associated with dizziness and somnolence, which could increase the occurrence of accidental injury (fall) in elderly patients. Therefore, you should be careful until you are used to any effect the medicine might have.
+- Lyrica may cause blurring or loss of vision, or other changes in eyesight, many of which are temporary. You should immediately tell your doctor if you experience any changes in your vision.
+- Some patients with diabetes who gain weight while taking pregabalin may need an alteration in their diabetic medicines.
+- Certain side effects may be more common, such as sleepiness, because patients with spinal cord injury may be taking other medicines to treat, for example, pain or spasticity, that have similar side effects to Pregabalin and the severity of these effects may be increased when taken together.
+- There have been reports of heart failure in some patients when taking Lyrica; these patients were mostly elderly with cardiovascular conditions. Before taking this medicine you should tell your doctor if you have a history of heart disease .
+- There have been reports of kidney failure in some patients when taking Lyrica. If while taking Lyrica you notice decreased urination, you should tell your doctor as stopping the medicine may improve this.
+- Some patients being treated with anti-epileptics such as Lyrica have had thoughts of harming or killing themselves or shown suicidal behaviour. If at any time you have these thoughts or shown such behaviour, immediately contact your doctor.
+- When Lyrica is taken with other medicines that may cause constipation (such as some types of pain medicines) it is possible that gastrointestinal problems may occur (e.g. constipation, blocked or paralysed bowel). Tell your doctor if you experience constipation, especially if you are prone to this problem.
+- Before taking this medicine, tell your doctor if you have ever abused or been dependent on alcohol, prescription medicines or illegal drugs; it may mean you have a greater risk of becoming dependent on Lyrica.
+- There have been reports of convulsions when taking Lyrica or shortly after stopping Lyrica. If you experience a convulsion, contact your doctor immediately.
+- There have been reports of reduction in brain function (encephalopathy) in some patients taking Lyrica when they have other conditions. Tell your doctor if you have a history of any serious medical conditions, including liver or kidney disease.
+- There have been reports of breathing difficulties. If you have nervous system disorders, respiratory disorders, renal impairment, or you are older than 65, your doctor may prescribe you a different dosing regimen. Contact your doctor if you experience trouble breathing or shallow breaths.
+
+<div style=\"page-break-after: always\"></div>
+
+## Dependence
+
+Some people may become dependent on Lyrica (a need to keep taking the medicine). They may have withdrawal effects when they stop using Lyrica (see section 3, 'How to take Lyrica' and 'If you stop taking Lyrica'). If you have concerns that you may become dependent on Lyrica, it is important that you consult your doctor.
+
+If you notice any of the following signs whilst taking Lyrica, it could be a sign that you have become dependent:
+
+- You need to take the medicine for longer than advised by your prescriber
+- You feel you need to take more than the recommended dose
+- You are using the medicine for reasons other than prescribed
+- You have made repeated, unsuccessful attempts to quit or control the use of the medicine
+- When you stop taking the medicine you feel unwell, and you feel better once taking the medicine again
+
+If you notice any of these, speak to your doctor to discuss the best treatment pathway for you, including when it is appropriate to stop and how to do this safely.
+
+## Children and adolescents
+
+The safety and efficacy in children and adolescents (under 18 years of age) has not been established and therefore, pregabalin should not be used in this age group.
+
+## Other medicines and Lyrica
+
+Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
+
+Lyrica and certain other medicines may influence each other (interaction). When taken with certain other medicines which have sedative effects (including opioids), Lyrica may potentiate these effects, and could lead to respiratory failure, coma and death. The degree of dizziness, sleepiness and decreased concentration may be increased if Lyrica is taken together with medicines containing:
+
+Oxycodone - (used as a pain-killer) Lorazepam - (used for treating anxiety) Alcohol
+
+Lyrica may be taken with oral contraceptives.
+
+## Lyrica with food, drink and alcohol
+
+Lyrica orodispersible tablets may be taken with or without food.
+
+It is advised not to drink alcohol while taking Lyrica.
+
+## Pregnancy and breast-feeding
+
+Lyrica should not be taken during pregnancy or when breast-feeding, unless you are told otherwise by your doctor. Pregabalin use during the first 3 months of pregnancy may cause birth defects in the unborn child that require medical treatment. In a study reviewing data from women in Nordic countries who took pregabalin in the first 3 months of pregnancy, 6 babies in every 100 had such birth defects. This compares to 4 babies in every 100 born to women not treated with pregabalin in the study. Abnormalities of the face (orofacial clefts), the eyes, the nervous system (including the brain), kidneys and genitals have been reported.
+
+Effective contraception must be used by women of childbearing potential. If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
+
+<div style=\"page-break-after: always\"></div>
+
+## Driving and using machines
+
+Lyrica may produce dizziness, sleepiness and decreased concentration. You should not drive, operate complex machinery or engage in other potentially hazardous activities until you know whether this medicine affects your ability to perform these activities.
+
+## Lyrica contains sodium
+
+This medicine contains less than 1 mmol sodium (23 mg) per orodispersible tablets, that is to say essentially 'sodium-free'.
+
+## 3. How to take Lyrica
+
+Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure. Do not take more medicine than prescribed.
+
+Your doctor will determine what dose is appropriate for you.
+
+Lyrica is for oral use only.
+
+The orodispersible tablet can be disintegrated on the tongue before swallowing. The tablet can be taken with or without water.
+
+## Peripheral and central neuropathic pain, epilepsy or Generalised Anxiety Disorder:
+
+- Take the number of orodispersible tablets as instructed by your doctor.
+- The dose, which has been adjusted for you and your condition, will generally be between 150 mg and 600 mg each day.
+- Your doctor will tell you to take Lyrica either twice or three times a day. For twice a day take Lyrica once in the morning and once in the evening, at about the same time each day. For three times a day take Lyrica once in the morning, once in the afternoon and once in the evening, at about the same time each day.
+
+If you have the impression that the effect of Lyrica is too strong or too weak, talk to your doctor or pharmacist.
+
+If you are an elderly patient (over 65 years of age), you should take Lyrica normally except if you have problems with your kidneys.
+
+Your doctor may prescribe a different dosing schedule and/or dose if you have problems with your kidneys.
+
+Continue taking Lyrica until your doctor tells you to stop.
+
+## If you take more Lyrica than you should
+
+Call your doctor or go to the nearest hospital emergency unit immediately. Take your box of Lyrica orodispersible tablets with you. You may feel sleepy, confused, agitated, or restless as a result of taking more Lyrica than you should. Fits and unconsciousness (coma) have also been reported.
+
+## If you forget to take Lyrica
+
+It is important to take your Lyrica orodispersible tablets regularly at the same time each day. If you forget to take a dose, take it as soon as you remember unless it is time for your next dose. In that case, just carry on with the next dose as normal. Do not take a double dose to make up for a forgotten dose.
+
+## If you stop taking Lyrica
+
+Do not suddenly stop taking Lyrica. If you want to stop taking Lyrica, discuss this with your doctor first. They will tell you how to do this. If your treatment is stopped it should be done gradually over a minimum of 1 week. After stopping a short or long-term treatment with Lyrica, you need to know that you may experience certain side effects, so-called withdrawal effects. These effects include, trouble
+
+<div style=\"page-break-after: always\"></div>
+
+sleeping, headache, nausea, feeling anxious, diarrhoea, flu like symptoms, convulsions, nervousness, depression, thoughts of harming or killing yourself, pain, sweating, and dizziness. These effects may occur more commonly or severely if you have been taking Lyrica for a longer period of time. If you experience withdrawal effects, you should contact your doctor.
+
+If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+## Very common: may affect more than 1 in 10 people
+
+Dizziness, drowsiness, headache.
+
+## Common: may affect up to 1 in 10 people
+
+- Increased appetite.
+- Feeling of elation, confusion, disorientation, decrease in sexual interest, irritability.
+- Disturbance in attention, clumsiness, memory impairment, loss of memory, tremor, difficulty with speaking, tingling feeling, numbness, sedation, lethargy, insomnia, fatigue, feeling abnormal.
+- Blurred vision, double vision.
+- Vertigo, problems with balance, fall.
+- Dry mouth, constipation, vomiting, flatulence, diarrhoea, nausea, swollen abdomen.
+- Difficulties with erection.
+- Swelling of the body including extremities.
+- Feeling drunk, abnormal style of walking.
+- Weight gain.
+- Muscle cramp, joint pain, back pain, pain in limb.
+- Sore throat.
+
+## Uncommon: may affect up to 1 in 100 people
+
+- Loss of appetite, weight loss, low blood sugar, high blood sugar.
+- Change in perception of self, restlessness, depression, agitation, mood swings, difficulty finding words, hallucinations, abnormal dreams, panic attack, apathy, aggression, elevated mood, mental impairment, difficulty with thinking, increase in sexual interest, problems with sexual functioning including inability to achieve a sexual climax, delayed ejaculation.
+- Changes in eyesight, unusual eye movement, changes in vision including tunnel vision, flashes of light, jerky movements, reduced reflexes, increased activity, dizziness on standing, sensitive skin, loss of taste, burning sensation, tremor on movement, decreased consciousness, loss of consciousness, fainting, increased sensitivity to noise, feeling unwell.
+- Dry eyes, eye swelling, eye pain, weak eyes, watery eyes, eye irritation.
+- Heart rhythm disturbances, increased heart rate, low blood pressure, high blood pressure, changes in heart beat, heart failure.
+- Flushing, hot flushes.
+- Difficulty breathing, dry nose, nasal congestion.
+- Increased saliva production, heartburn, numb around mouth.
+- Sweating, rash, chills, fever.
+- Muscle twitching, joint swelling, muscle stiffness, pain including muscle pain, neck pain.
+- Breast pain.
+- Difficulty with or painful urination, incontinence.
+- Weakness, thirst, chest tightness.
+
+<div style=\"page-break-after: always\"></div>
+
+- Changes in blood and liver test results (blood creatinine phosphokinase increased, alanine amino transferase increased, aspartate aminotransferase increased, platelet count decreased, neutropaenia, increase in blood creatinine, decrease in blood potassium).
+- Hypersensitivity, swollen face, itchiness, hives, runny nose, nose bleed, cough, snoring.
+- Painful menstrual periods.
+- Coldness of hands and feet.
+
+## Rare: may affect up to 1 in 1,000 people
+
+- Abnormal sense of smell, swinging vision, altered perception of depth, visual brightness, vision loss.
+- Dilated pupils, cross eyes.
+- Cold sweat, tightness of the throat, swollen tongue.
+- Inflammation of the pancreas.
+- Difficulty in swallowing.
+- Slow or reduced movement of the body.
+- Difficulty with writing properly.
+- Increased fluid in the abdomen.
+- Fluid in the lungs.
+- Convulsions.
+- Changes in the recording of electrical changes (ECG) in the heart which correspond to heart rhythm disturbances.
+- Muscle damage.
+- Breast discharge, abnormal breast growth, breast growth in males.
+- Interrupted menstrual periods.
+- Kidney failure, reduced urine volume, urinary retention.
+- Decrease in white blood cell count.
+- Inappropriate behaviour, suicidal behaviour, suicidal thoughts.
+- Allergic reactions which may include difficulty breathing, inflammation of the eyes (keratitis) and serious skin reactions characterized by reddish non-elevated, target-like or circular patches on the trunk, often with central blisters, skin peeling, ulcers of mouth, throat, nose, genitals and eyes. These serious skin rashes can be preceded by fever and flu-like symptoms (Stevens-Johnson syndrome, toxic epidermal necrolysis).
+- Jaundice (yellowing of the skin and eyes).
+- Parkinsonism, that is symptoms resembling Parkinson's disease; such as tremor, bradykinesia (decreased ability to move), and rigidity (muscle stiffness).
+
+## Very rare: may affect up to 1 in 10,000 people
+
+- Liver failure.
+- Hepatitis (inflammation of the liver).
+
+## Not known: frequency cannot be estimated from the available data
+
+- Becoming dependent on Lyrica ('drug dependence').
+
+After stopping a short or long-term treatment with Lyrica, you need to know that you may experience certain side effects, so-called withdrawal effects (see 'If you stop taking Lyrica').
+
+<div style=\"page-break-after: always\"></div>
+
+If you experience swollen face or tongue or if your skin turns red and starts to blister or peel, you should seek immediate medical advice.
+
+Certain side effects may be more common, such as sleepiness, because patients with spinal cord injury may be taking other medicines to treat, for example, pain or spasticity, that have similar side effects to Pregabalin and the severity of these effects may be increased when taken together.
+
+The following adverse reaction has been reported in the postmarketing experience: Trouble breathing, shallow breaths.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Lyrica
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date which is stated on the carton. The expiry date refers to the last day of that month.
+
+Store in the original packaging in order to protect from moisture.
+
+After first opening the aluminium pouch, use within 3 months.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Lyrica contains
+
+The active substance is pregabalin. Each orodispersible tablets contains either 25 mg , 75 mg, or 150 mg pregabalin.
+
+The other ingredients are: magnesium stearate (E470b), hydrogenated castor oil, glycerol dibehenate, talc (E553b), microcrystalline cellulose (E460), d-mannitol (E421), crospovidone (E1202), magnesium aluminometa silicate, saccharin sodium (E954), sucralose (E955), citrus flavour ( flavorings, gum arabic (E414), dl-alpha-tocopherol (E307), dextrin (E1400) and isomaltulose) and sodium stearyl fumarate (E470a, see section 2 ' Lyrica contains sodium ').
+
+| What Lyrica looks like and contents of the pack   | What Lyrica looks like and contents of the pack                                                            |
+|---------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| 25 mg tablets                                     | White plain, round tablet marked with 'VTLY' and '25' (approximately 6.0 mmin diameter and 3.0 mmthick).   |
+| 75 mg tablets                                     | White plain, round tablet marked with 'VTLY' and '75' (approximately 8.3 mmin diameter and 4.8 mmthick).   |
+| 150 mg tablets                                    | White plain, round tablet marked with 'VTLY' and '150' (approximately 10.5 mmin diameter and 6.0 mmthick). |
+
+Lyrica is available in 3 pack sizes made of PVC/PVDC with an aluminium foil backing and an aluminum pouch wrapping with 20, 60 or 200 orodispersible tablets: the 20 tablet pack contains 2 blisters, the 60 tablet pack contains 6 blisters and the 200 tablet pack contains 2 pouches with
+
+<div style=\"page-break-after: always\"></div>
+
+10 blisters in each. Each blister contains 10 orodispersible tablets and can be divided into strips with two tablets each.
+
+Not all pack sizes may be marketed.
+
+## Marketing Authorisation Holder and Manufacturer
+
+Marketing Authorisation Holder:
+
+Upjohn EESV, Rivium Westlaan 142, 2909 LD Capelle aan den IJssel, Netherlands.
+
+## Manufacturer:
+
+Mylan Hungary Kft., Mylan utca 1, Komárom, 2900, Hungary
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+Viatris
+
+Tél/Tel: +32 (0)2 658 61 00
+
+## Lietuva
+
+Viatris UAB
+
+Tel. +370 52051288
+
+## България
+
+Майлан ЕООД
+
+Тел.: +359 2 44 55 400
+
+## Luxembourg/Luxemburg
+
+Viatris
+
+Tél/Tel: +32 (0)2 658 61 00
+
+(Belgique/Belgien)
+
+## Česká republika
+
+Viatris CZ s.r.o.
+
+Tel: +420 222 004 400
+
+## Magyarország
+
+Viatris Healthcare Kft.
+
+Tel. + 36 1 465 2100
+
+## Danmark
+
+Viatris ApS
+
+Tlf: +45 28 11 69 32
+
+## Malta
+
+V.J. Salomone Pharma Limited
+
+Tel: (+356) 21 220 174
+
+## Deutschland
+
+Viatris Healthcare GmbH
+
+Tel: +49 (0)800 0700 800
+
+## Nederland
+
+Mylan Healthcare BV
+
+Tel: +31 (0)20 426 3300
+
+## Eesti
+
+Viatris OÜ
+
+Tel: +372 6363 052
+
+## Norge
+
+Viatris AS
+
+Tlf: +47 66 75 33 00
+
+## Ελλάδα
+
+Viatris Hellas Ltd
+
+Τηλ.: +30 2100 100 002
+
+## Österreich
+
+Viatris Austria GmbH
+
+Tel: +43 1 86390
+
+## España
+
+Viatris Pharmaceuticals, S.L.
+
+Tel: +34 900 102 712
+
+## Polska
+
+Viatris Healthcare Sp. z o.o.
+
+Tel.: +48 22 546 64 00
+
+## France
+
+Viatris Santé
+
+Tél: +33 (0)4 37 25 75 00
+
+## Portugal
+
+Viatris Healthcare, Lda.
+
+Tel: +351 21 412 72 00
+
+## Hrvatska
+
+Viatris Hrvatska d.o.o.
+
+Tel: + 385 1 23 50 599
+
+## România
+
+BGP Products SRL
+
+Tel: +40 372 579 000
+
+## Ireland
+
+Viatris Limited
+
+Tel: +353 1 8711600
+
+## Slovenija
+
+Viatris d.o.o.
+
+Tel: +386 1 236 31 80
+
+## Ísland
+
+Icepharma hf.
+
+Sími: +354 540 8000
+
+## Slovenská republika
+
+Viatris Slovakia s.r.o.
+
+Tel: +421 2 32 199 100
+
+## Italia
+
+Viatris Pharma S.r.l.
+
+Tel: +39 02 612 46921
+
+## Suomi/Finland
+
+Viatris Oy
+
+Puh./Tel: +358 20 720 9555
+
+## Κύπρος
+
+CPO Pharmaceuticals Limited
+
+Τηλ: +357 22863100
+
+## Sverige
+
+Viatris AB
+
+Tel: +46 (0)8 630 19 00
+
+<div style=\"page-break-after: always\"></div>
+
+## Latvija
+
+Viatris SIA
+
+Tel: +371 676 055 80
+
+## This leaflet was last revised in:
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.

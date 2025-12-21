@@ -1,0 +1,71 @@
+---
+document_datetime: 2023-09-21 18:54:01
+document_pages: 3
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/rilonacept-regeneron-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf
+document_name: rilonacept-regeneron-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf
+version: success
+processing_time: 1.4402441
+conversion_datetime: 2025-12-21 19:50:08.432683
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+<!-- image -->
+
+## Rilonacept Regeneron
+
+Procedural steps taken and scientific information after the authorisation
+
+| No      | Scope                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| S/0006  | Second Annual Re-assessment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 02/05/2012                          | 28/06/2012                                  | Annex II longer                  | The CHMP, having reviewed the evidence of compliance with the specific obligations submitted by the MAH and having re- assessed the benefit/risk profile of the medicinal product, concluded that the benefit/risk balance for the product remains favourable.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| II/0005 | Update of Summary of Product Characteristics (SmPC), Annex II, Labelling and Package Leaflet (PL). Amendment of wording on discontinuation of the treatment in the case of a hypersensitivity reaction, based on a CHMP request, to 'if a hypersensitivity reaction occurs, administration should be stopped immediately and permanently and appropriate therapy initiated.' in SmPC Section 4.4. The PL has been amended accordingly. Additionally, editorial and QRD template related changes are implemented in the SmPC, Annex II, Labelling and the PL. Additional changes in wording of the PL are made in line with recommendations from the CHMP following assessment of Readability | 15/12/2011 product                  | 06/02/2012 no                               | SPC, Annex II, Labelling, PL     | An evaluation of the available data from clinical trials and post- marketing experience confirmed that no serious or severe hypersensitivity reactions have been observed in patients treated with rilonacept. However, a theoretical risk of serious or severe hypersensitivity reactions, including anaphylaxis, to rilonacept does exist. Therefore, section 4.4 of the SmPC and appropriate section III of the PL have been updated to clearly indicate to stop the treatment with rilonacept immediately and permanently in case hypersensitivity reactions develops during rilonacept therapy. Also, as part of a post-marketing commitment the MAH has revised the PL to simplify the language to make it more understandable for users. |
+
+<!-- image -->
+
+Medicinal product no longer authorised
+
+7 Westferry Circus
+
+●
+
+Canary Wharf
+
+●
+
+London E14 4HB
+
+●
+
+United Kingdom
+
+Telephone
+
++44 (0)20 7418 8400 Facsimile +44 (0) 20 7523 7455
+
+E-mail
+
+info@ema.europa.eu Website www.ema.europa.eu
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+| No        | Scope                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                                                                                                                                                                                                                                                        |
+|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|           | Test results. C.I.3.b - Implementation of change(s) requested following the assessment of an USR, class labelling, a PSUR, RMP, FUM/SO, data submitted under A 45/46, or amendments to reflect a Core SPC - Change(s) with new additional data submitted by the MAH                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |                                     |                                             |                                  | authorised                                                                                                                                                                                                                                                     |
+| S/0003    | Annual Re-assessment                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 22/09/2011                          | 21/11/2011                                  | longer                           | The CHMP, having reviewed the evidence of compliance with the specific obligations submitted by the MAH and having re- assessed the benefit/risk profile of the medicinal product, concluded that the benefit/risk balance for the product remains favourable. |
+| IA/0004/G | This was an application for a group of variations. C.I.9.a - Changes to an existing pharmacovigilance system as described in the DDPS - Change in the QPPV, C.I.9.b - Changes to an existing pharmacovigilance system as described in the DDPS - Change in the contact details of the QPPV, C.I.9.c - Changes to an existing pharmacovigilance system as described in the DDPS - Change of the back-up procedure of the QPPV, C.I.9.g - Changes to an existing pharmacovigilance system as described in the DDPS - Change of the site undertaking pharmacovigilance activities, C.I.9.h - Changes to an existing pharmacovigilance system as described in the DDPS - Other change(s) to the DDPS that does not impact on the operation of the pharmacovigilance system Medicinal | 27/07/2011 product                  | n/a no                                      | Annex II                         |                                                                                                                                                                                                                                                                |
+| IA/0002   | A.2.a - Administrative change - Change in the (invented) name of the medicinal product for CAPs                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 23/07/2010                          | n/a                                         | SPC, Annex II, Labelling, PL     |                                                                                                                                                                                                                                                                |
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->

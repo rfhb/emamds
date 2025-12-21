@@ -1,0 +1,59 @@
+---
+document_datetime: 2023-09-21 18:56:28
+document_pages: 2
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/zenapax-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf
+document_name: zenapax-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf
+version: success
+processing_time: 1.605623
+conversion_datetime: 2025-12-21 20:43:06.63745
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## Procedural steps taken and scientific information after the authorisation Changes made after 01/11/2003
+
+## Zenapax
+
+## For procedures finalised before 01/11/2003, please refer to module 8A
+
+## MAJOR CHANGES 1
+
+| No      | Scope                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Opinion issued on   | Commission Decision Issued/ amended on   | Product Information affected 2         | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|------------------------------------------|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| II/0024 | product Update of section 4.3, section 4.6 and section 5.3 of the SPC to delete the contraindication to pregnancy and to include the results of a non-clinical study in peri-and postnatal development in cynalmolgus monkeys, as requested by the CHMP following the assessment of a non-clinical follow up measure. The PL has been up dated accordingly. In addition the MAHtakes the opportunity to make some minor editorial changes to the PL and updates the annexes with the QRD version 7.0 template including 4.8 with MedDRA frequencies . | 28/06/2006          | no 07/08/2006                            | longer SPC, Annex II, Labelling and PL | The contraindication to Zenapax has been in place since the initial marketing authorisation because at that time the reproductive toxicity was unknown. To date there is limited clinical data on exposure to Zenapax during pregnancy, however the results of a non- clinical study have not shown strong signal to hazardous effect with respect to the course of gestation and the health of the new born. Therefore the CHMP agreed to the deletion of the contraindication of the use of Zenapax during pregnancy from section 4.3 of the SPC. Rather a warning has been added to section 4.6 that Zenapax should not be used in pregnancy unless it is clearly necessary. Section 4.6 has been updated with the results of the non-clinical study with regards to recommendations on pregnancy and lactation. Section 5.3 has also been updated to reflect the results of this non-clinical study. |
+| II/0023 | Medicinal Change(s) to the manufacturing process for the active substance                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 21/09/2006          | 27/09/2005                               |                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| II/0020 | Update of or change(s) to the pharmaceutical documentation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 23/02/2006          | 28/02/2006                               |                                        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+1 Major changes e.g. Type II variations, Annex II applications, Renewals and Annual Reassessments
+
+2 SPC (Summary of Product Characteristics), Labelling, PL (Package Leaflet)
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+| R/0018   | Renewal of the marketing authorisation                                                                                        | 21/01/2004   | 14/04/2004   | SPC, Labelling, PL   | authorised Based on the CHMP review of the available information and on the basis of a re-evaluation of the benefit/risk balance, the CHMP is of the opinion that the quality, safety and efficacy of this medicinal product continues to be adequately and sufficiently demonstrated and therefore considered that the benefit/risk profile of Zenapax continues to be favourable.   |
+|----------|-------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| II/0017  | Change(s) to the manufacturing process for the active substance Quality changes Change(s) to shelf-life or storage conditions | 17/12/2003   | 23/12/2003   |                      |                                                                                                                                                                                                                                                                                                                                                                                       |
+
+## MINOR CHANGES 3
+
+| No      | Scope                                                                                            | Product Information affected 2   | Date 4     |
+|---------|--------------------------------------------------------------------------------------------------|----------------------------------|------------|
+| IA/0026 | no 05_Change in the name and/or address of a manufacturer of the finished product                | PL                               | 23/01/2007 |
+| IA/0025 | 16_b_Submission of new TSE certificate relating to active substance - other substances           |                                  | 31/05/2006 |
+| IA/0022 | product 01_Change in the name and/or address of the marketing authorisation holder               | SPC, Labelling, PL               | 12/01/2006 |
+| IB/0021 | 42_a_01_Change in shelf-life of finished product - as packaged for sale                          | SPC, Labelling, PL               | 07/11/2005 |
+| N/0019  | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification) | Labelling, PL                    | 28/06/2004 |
+
+Medicinal product no longer authorised
+
+3 Minor changes e.g. Type I variations and Notifications
+
+4 Date of entry into force of the change

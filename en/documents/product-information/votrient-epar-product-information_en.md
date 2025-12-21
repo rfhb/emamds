@@ -1,0 +1,2009 @@
+---
+document_datetime: 2025-10-28 15:04:48
+document_pages: 58
+document_pathfilename: www.ema.europa.eu/en/documents/product-information/votrient-epar-product-information_en.pdf
+document_name: votrient-epar-product-information_en.pdf
+version: success
+processing_time: 28.1924647
+conversion_datetime: 2025-12-21 18:14:16.506014
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Votrient 200 mg film-coated tablets Votrient 400 mg film-coated tablets
+
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+Votrient 200 mg film-coated tablets
+
+Each film-coated tablet contains 200 mg pazopanib (as hydrochloride).
+
+Votrient 400 mg film-coated tablets
+
+Each film-coated tablet contains 400 mg pazopanib (as hydrochloride).
+
+For the full list of excipients, see section 6.1.
+
+## 3. PHARMACEUTICAL FORM
+
+Film-coated tablet.
+
+Votrient 200 mg film-coated tablets
+
+Capsule-shaped, pink, film-coated tablet with GS JT debossed on one side.
+
+Votrient 400 mg film-coated tablets
+
+Capsule-shaped, white, film-coated tablet with GS UHL debossed on one side.
+
+## 4. CLINICAL PARTICULARS
+
+## 4.1 Therapeutic indications
+
+## Renal cell carcinoma (RCC)
+
+Votrient is indicated in adults for the first-line treatment of advanced renal cell carcinoma (RCC) and for patients who have received prior cytokine therapy for advanced disease.
+
+## Soft-tissue sarcoma (STS)
+
+Votrient is indicated for the treatment of adult patients with selective subtypes of advanced soft-tissue sarcoma (STS) who have received prior chemotherapy for metastatic disease or who have progressed within 12 months after (neo) adjuvant therapy.
+
+Efficacy and safety has only been established in certain STS histological tumour subtypes (see section 5.1).
+
+## 4.2 Posology and method of administration
+
+Votrient treatment should only be initiated by a physician experienced in the administration of anti-cancer medicinal products.
+
+<div style=\"page-break-after: always\"></div>
+
+## Posology
+
+## Adults
+
+The recommended dose of pazopanib for the treatment of RCC or STS is 800 mg once daily.
+
+## Dose modifications
+
+Dose modification (decrease or increase) should be in 200 mg decrements or increments in a stepwise fashion based on individual tolerability in order to manage adverse reactions. The dose of pazopanib should not exceed 800 mg.
+
+## Paediatric population
+
+Pazopanib should not be used in children younger than 2 years of age because of safety concerns with regard to organ growth and maturation (see sections 4.4 and 5.3).
+
+The safety and efficacy of pazopanib in children aged 2 to 18 years of age have not yet been established.
+
+Currently available data are described in sections 4.8, 5.1 and 5.2 but no recommendation on a posology can be made.
+
+## Elderly
+
+There are limited data on the use of pazopanib in patients aged 65 years and older. In the RCC studies of pazopanib, overall no clinically significant differences in safety of pazopanib were observed between subjects aged at least 65 years and younger subjects. Clinical experience has not identified differences in responses between the elderly and younger patients, but greater sensitivity of some elderly patients cannot be ruled out.
+
+## Renal impairment
+
+Renal impairment is unlikely to have a clinically relevant effect on pazopanib pharmacokinetics given the low renal excretion of pazopanib and metabolites (see section 5.2). Therefore, no dose adjustment is required in patients with creatinine clearance above 30 ml/min. Caution is advised in patients with creatinine clearance below 30 ml/min as there is no experience of pazopanib in this patient population.
+
+## Hepatic impairment
+
+Dosing recommendations in hepatically impaired patients are based on pharmacokinetic studies of pazopanib in patients with varying degrees of hepatic dysfunction (see section 5.2). All patients should have liver function tests to determine whether they have hepatic impairment before starting and during pazopanib therapy (see section 4.4). Administration of pazopanib to patients with mild or moderate hepatic impairment should be undertaken with caution and close monitoring of tolerability. 800 mg pazopanib once daily is the recommended dose in patients with mild abnormalities in serum liver tests (defined either as normal bilirubin and any degree of alanine aminotransferase (ALT) elevation or as an elevation of bilirubin (&gt;35% direct) up to 1.5 x upper limit of normal (ULN) regardless of the ALT value). A reduced pazopanib dose of 200 mg once daily is recommended in patients with moderate hepatic impairment (defined as an elevation of bilirubin &gt;1.5 to 3 x ULN regardless of the ALT value) (see section 5.2).
+
+Pazopanib is not recommended in patients with severe hepatic impairment (defined as total bilirubin &gt;3 x ULN regardless of the ALT value).
+
+See section 4.4 for liver monitoring and dose modification for patients with drug-induced hepatotoxicity.
+
+## Method of administration
+
+Pazopanib is for oral use. It should be taken without food, at least one hour before or two hours after a meal (see section 5.2). The film-coated tablets should be taken whole with water and not broken or crushed (see section 5.2).
+
+<div style=\"page-break-after: always\"></div>
+
+## 4.3 Contraindications
+
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+
+## 4.4 Special warnings and precautions for use
+
+## Hepatic effects
+
+Cases of hepatic failure (including fatalities) have been reported during use of pazopanib. Administration of pazopanib to patients with mild or moderate hepatic impairment should be undertaken with caution and close monitoring. 800 mg pazopanib once daily is the recommended dose in patients with mild abnormalities in serum liver tests (either normal bilirubin and any degree of ALT elevation or elevation of bilirubin up to 1.5 x ULN regardless of the ALT value). A reduced pazopanib dose of 200 mg once daily is recommended in patients with moderate hepatic impairment (elevation of bilirubin &gt;1.5 to 3 x ULN regardless of the ALT value) (see sections 4.2 and 5.2). Pazopanib is not recommended in patients with severe hepatic impairment (total bilirubin &gt;3 x ULN regardless of the ALT value) (see sections 4.2 and 5.2). Exposure at a 200 mg dose is markedly reduced, though highly variable, in these patients, with values considered insufficient to obtain a clinically relevant effect.
+
+In clinical studies with pazopanib, increase in serum transaminases (ALT, aspartate aminotransferase [AST]) and bilirubin were observed (see section 4.8). In the majority of the cases, isolated increases in ALT and AST have been reported, without concomitant elevations of alkaline phosphatase or bilirubin. Patients over 60 years of age may be at greater risk for mild (&gt;3 x ULN) to severe (&gt;8 x ULN) elevation of ALT. Patients who carry the HLA-B*57:01 allele have an increased risk of pazopanib-associated ALT elevations. Liver function should be monitored in all subjects receiving pazopanib, regardless of genotype or age (see section 5.1).
+
+Serum liver tests should be performed before initiation of treatment with pazopanib, at weeks 3, 5, 7 and 9, then at months 3 and 4, with additional tests as clinically indicated. Periodic testing should then continue after month 4.
+
+See Table 1 for dose modification guidance for patients with baseline values of total bilirubin  1.5 x ULN and AST and ALT  2 x ULN:
+
+Table 1 Dose modifications for drug-induced hepatotoxicity
+
+| Liver test values                                                                | Dose modification                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Transaminase elevation between 3 and 8 x ULN                                     | Continue on pazopanib with weekly monitoring of liver function until transaminases return to Grade 1 or baseline.                                                                                                                                                                                                                                                                                                                                      |
+| Transaminase elevation of >8 x ULN                                               | Interrupt pazopanib until transaminases return to Grade 1 or baseline. If the potential benefit of reinitiating pazopanib treatment is considered to outweigh the risk for hepatotoxicity, then reintroduce pazopanib at a reduced dose of 400 mg daily and perform serum liver tests weekly for 8 weeks. Following reintroduction of pazopanib, if transaminase elevations >3 x ULN recur, then pazopanib should be permanently discontinued.         |
+| Transaminase elevations >3 x ULN concurrently with bilirubin elevations >2 x ULN | Permanently discontinue pazopanib. Patients should be monitored until return to Grade 1 or baseline. Pazopanib is a UGT1A1 inhibitor. Mild, indirect (unconjugated) hyperbilirubinaemia may occur in patients with Gilbert's syndrome. Patients with only a mild indirect hyperbilirubinaemia, known or suspected Gilbert's syndrome, and elevation in ALT >3 x ULN should be managed as per the recommendations outlined for isolated ALT elevations. |
+
+<div style=\"page-break-after: always\"></div>
+
+Concomitant use of pazopanib and simvastatin increases the risk of ALT elevations (see section 4.5) and should be undertaken with caution and close monitoring.
+
+## Hypertension
+
+In clinical studies with pazopanib, events of hypertension including newly diagnosed symptomatic episodes of elevated blood pressure (hypertensive crisis) have occurred. Blood pressure should be well controlled prior to initiating pazopanib. Patients should be monitored for hypertension early after starting treatment (no longer than one week after starting pazopanib) and frequently thereafter to ensure blood pressure control. Elevated blood pressure levels (systolic blood pressure ≥150 mm Hg or diastolic blood pressure ≥100 mm Hg) occurred early in the course of treatment (approximately 40% of cases occurred by day 9 and approximately 90% of cases occurred in the first 18 weeks). Blood pressure should be monitored and managed promptly using a combination of anti-hypertensive therapy and dose modification of pazopanib (interruption and re-initiation at a reduced dose based on clinical judgement) (see sections 4.2 and 4.8). Pazopanib should be discontinued if there is evidence of hypertensive crisis or if hypertension is severe and persists despite anti-hypertensive therapy and pazopanib dose reduction.
+
+## Posterior reversible encephalopathy syndrome (PRES)/Reversible posterior leukoencephalopathy syndrome (RPLS)
+
+PRES/RPLS has been reported in association with pazopanib. PRES/RPLS can present with headache, hypertension, seizure, lethargy, confusion, blindness and other visual and neurological disturbances, and can be fatal. Patients developing PRES/RPLS should permanently discontinue treatment with pazopanib.
+
+## Interstitial lung disease (ILD)/Pneumonitis
+
+ILD, which can be fatal, has been reported in association with pazopanib (see section 4.8). Patients should be monitored for pulmonary symptoms indicative of ILD/pneumonitis and pazopanib should be discontinued in patients developing ILD or pneumonitis.
+
+## Cardiac dysfunction/Heart failure
+
+The risks and benefits of pazopanib should be considered before beginning therapy in patients who have pre-existing cardiac dysfunction. The safety and pharmacokinetics of pazopanib in patients with moderate to severe heart failure or those with a below normal left ventricular ejection fraction (LVEF) have not been studied.
+
+In clinical studies with pazopanib, events of cardiac dysfunction such as congestive heart failure and decreased LVEF have occurred (see section 4.8). In a randomised study comparing pazopanib and sunitinib in RCC (VEG108844), subjects had baseline and follow up LVEF measurements. Myocardial dysfunction occurred in 13% (47/362) of subjects in the pazopanib arm compared to 11% (42/369) of subjects in the sunitinib arm. Congestive heart failure was observed in 0.5% of subjects in each treatment arm. Congestive heart failure was reported in 3 out of 240 subjects (1%) in the Phase III VEG110727 STS study. Decreases in LVEF in subjects who had post-baseline and follow-up LVEF measurement were detected in 11% (15/140) in the pazopanib arm, compared with 3% (1/39) in the placebo arm.
+
+## Risk factors
+
+Thirteen of the 15 subjects in the pazopanib arm of the STS Phase III study had concurrent hypertension which may have exacerbated cardiac dysfunction in patients at risk by increasing cardiac after-load. 99% of patients (243/246) enrolled in the STS Phase III study, including the 15 subjects, received anthracycline. Prior anthracycline therapy may be a risk factor for cardiac dysfunction.
+
+<div style=\"page-break-after: always\"></div>
+
+## Outcome
+
+Four of the 15 subjects had full recovery (within 5% of baseline) and 5 had partial recovery (within the normal range, but &gt;5% below baseline). One subject did not recover and follow-up data were not available for the other 5 subjects.
+
+## Management
+
+Interruption of pazopanib and/or dose reduction should be combined with treatment of hypertension (if present, refer to hypertension warning section above) in patients with significant reductions in LVEF, as clinically indicated.
+
+Patients should be carefully monitored for clinical signs or symptoms of congestive heart failure. Baseline and periodic evaluation of LVEF is recommended in patients at risk of cardiac dysfunction.
+
+## QT prolongation and torsade de pointes
+
+In clinical studies with pazopanib, events of QT prolongation and torsade de pointes have occurred (see section 4.8). Pazopanib should be used with caution in patients with a history of QT interval prolongation, in patients taking antiarrhythmics or other medicinal products that may prolong QT interval and in patients with relevant pre-existing cardiac disease. When using pazopanib, baseline and periodic monitoring of electrocardiograms and maintenance of electrolytes (e.g. calcium, magnesium, potassium) within normal range is recommended.
+
+## Arterial thrombotic events
+
+In clinical studies with pazopanib, myocardial infarction, myocardial ischaemia, ischaemic stroke and transient ischaemic attack were observed (see section 4.8). Fatal events have been observed. Pazopanib should be used with caution in patients who are at increased risk of thrombotic events or who have had a history of thrombotic events. Pazopanib has not been studied in patients who have had an event within the previous 6 months. A treatment decision should be made based on the assessment of individual patient's benefit/risk.
+
+## Venous thromboembolic events
+
+In clinical studies with pazopanib, venous thromboembolic events including venous thrombosis and fatal pulmonary embolus have occurred. While observed in both RCC and STS studies, the incidence was higher in the STS population (5%) than in the RCC population (2%).
+
+## Thrombotic microangiopathy (TMA)
+
+TMA has been reported in clinical studies of pazopanib as monotherapy, in combination with bevacizumab, and in combination with topotecan (see section 4.8). Patients developing TMA should permanently discontinue treatment with pazopanib. Reversal of effects of TMA has been observed after treatment was discontinued. Pazopanib is not indicated for use in combination with other agents.
+
+## Haemorrhagic events
+
+In clinical studies with pazopanib haemorrhagic events have been reported (see section 4.8). Fatal haemorragic events have occurred. Pazopanib has not been studied in patients who had a history of haemoptysis, cerebral haemorrhage or clinically significant gastrointestinal (GI) haemorrhage in the past 6 months. Pazopanib should be used with caution in patients with significant risk of haemorrhage.
+
+## Aneurysms and artery dissections
+
+The use of VEGF pathway inhibitors in patients with or without hypertension may promote the formation of aneurysms and/or artery dissections. Before initiating pazopanib, this risk should be carefully considered in patients with risk factors such as hypertension or history of aneurysms.
+
+<div style=\"page-break-after: always\"></div>
+
+## Gastrointestinal (GI) perforations and fistula
+
+In clinical studies with pazopanib, events of GI perforation or fistula have occurred (see section 4.8). Fatal perforation events have occurred. Pazopanib should be used with caution in patients at risk for GI perforation or fistula.
+
+## Wound healing
+
+No formal studies of the effect of pazopanib on wound healing have been conducted. Since vascular endothelial growth factor (VEGF) inhibitors may impair wound healing, treatment with pazopanib should be stopped at least 7 days prior to scheduled surgery. The decision to resume pazopanib after surgery should be based on clinical judgement of adequate wound healing. Pazopanib should be discontinued in patients with wound dehiscence.
+
+## Hypothyroidism
+
+In clinical studies with pazopanib, events of hypothyroidism have occurred (see section 4.8). Baseline laboratory measurement of thyroid function is recommended and patients with hypothyroidism should be treated as per standard medical practice prior to the start of pazopanib treatment. All patients should be observed closely for signs and symptoms of thyroid dysfunction on pazopanib treatment. Laboratory monitoring of thyroid function should be performed periodically and managed as per standard medical practice.
+
+## Proteinuria
+
+In clinical studies with pazopanib, proteinuria has been reported. Baseline and periodic urinanalysis during treatment is recommended and patients should be monitored for worsening proteinuria. Pazopanib should be discontinued if the patient develops nephrotic syndrome.
+
+## Tumour lysis syndrome (TLS)
+
+The occurrence of TLS, including fatal TLS, has been associated with the use of pazopanib (see section 4.8). Patients at increased risk of TLS are those with rapidly growing tumours, a high tumour burden, renal dysfunction, or dehydration. Preventative measures, such as treatment of high uric acid levels and intravenous hydration, should be considered prior to initiation of Votrient. Patients at risk should be closely monitored and treated as clinically indicated.
+
+## Pneumothorax
+
+In clinical studies with pazopanib in advanced soft tissue sarcoma, events of pneumothorax have occurred (see section 4.8). Patients on pazopanib treatment should be observed closely for signs and symptoms of pneumothorax.
+
+## Paediatric population
+
+Because the mechanism of action of pazopanib can severely affect organ growth and maturation during early post-natal development in rodents (see section 5.3), pazopanib should not be given to paediatric patients younger than 2 years of age.
+
+## Infections
+
+Cases of serious infections (with or without neutropenia), in some cases with fatal outcome, have been reported.
+
+<div style=\"page-break-after: always\"></div>
+
+## Combination with other systemic anti-cancer therapies
+
+Clinical studies of pazopanib in combination with a number of other anti-cancer therapies (including for example pemetrexed, lapatinib or pembrolizumab) were terminated early due to concerns over increased toxicity and/or mortality, and a safe and effective combination dose has not been established with these regimens.
+
+## Pregnancy
+
+Pre-clinical studies in animals have shown reproductive toxicity (see section 5.3). If pazopanib is used during pregnancy, or if the patient becomes pregnant whilst receiving pazopanib, the potential hazard to the foetus should be explained to the patient. Women of childbearing potential should be advised to avoid becoming pregnant while receiving treatment with pazopanib (see section 4.6).
+
+## Interactions
+
+Concomitant treatment with strong inhibitors of CYP3A4, P-glycoprotein (P-gp) or breast cancer resistance protein (BCRP) should be avoided due to risk of increased exposure to pazopanib (see section 4.5). Selection of alternative concomitant medicinal products with no or minimal potential to inhibit CYP3A4, P-gp or BCRP should be considered.
+
+Concomitant treatment with inducers of CYP3A4 should be avoided due to risk of decreased exposure to pazopanib (see section 4.5).
+
+Cases of hyperglycaemia have been observed during concomitant treatment with ketoconazole.
+
+Concomitant administration of pazopanib with uridine diphosphate glucuronosyl transferase 1A1 (UGT1A1) substrates (e.g. irinotecan) should be undertaken with caution since pazopanib is an inhibitor of UGT1A1 (see section 4.5).
+
+Grapefruit juice should be avoided during treatment with pazopanib (see section 4.5).
+
+## Excipients
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per film-coated tablet, that is to say essentially 'sodium-free'.
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
+
+## Effects of other medicinal products on pazopanib
+
+In vitro studies suggested that the oxidative metabolism of pazopanib in human liver microsomes is mediated primarily by CYP3A4, with minor contributions from CYP1A2 and CYP2C8. Therefore, inhibitors and inducers of CYP3A4 may alter the metabolism of pazopanib.
+
+## CYP3A4, P-gp, BCRP inhibitors
+
+Pazopanib is a substrate for CYP3A4, P-gp and BCRP.
+
+Concurrent administration of pazopanib (400 mg once daily) with the strong CYP3A4 and P-gp inhibitor ketoconazole (400 mg once daily) for 5 consecutive days resulted in a 66% and 45% increase in mean pazopanib AUC(0-24) and Cmax, respectively, relative to administration of pazopanib alone (400 mg once daily for 7 days). Pharmacokinetic parameter comparisons of pazopanib Cmax (range of means 27.5 to 58.1 µg/ml) and AUC(0-24) (range of means 48.7 to 1040 µg*h/ml) after administration of pazopanib 800 mg alone and after administration of pazopanib 400 mg plus ketoconazole 400 mg (mean Cmax 59.2 µg/ml, mean AUC(0-24)1300 µg*h/ml) indicated that, in the presence of a strong CYP3A4 and P-gp inhibitor a dose reduction to pazopanib 400 mg once daily will, in the majority of patients, result in systemic exposure similar to that observed after administration of 800 mg pazopanib
+
+<div style=\"page-break-after: always\"></div>
+
+once daily alone. Some patients however may have systemic pazopanib exposure greater than what has been observed after administration of 800 mg pazopanib alone.
+
+Co-administration of pazopanib with other strong inhibitors of the CYP3A4 family (e.g. itraconazole, clarithromycin, atazanavir, indinavir, nefazodone, nelfinavir, ritonavir, saquinavir, telithromycin, voriconazole) may increase pazopanib concentrations. Grapefruit juice contains an inhibitor of CYP3A4 and may also increase plasma concentrations of pazopanib.
+
+Administration of 1500 mg lapatinib (a substrate for and weak inhibitor of CYP3A4 and P-gp and a potent inhibitor of BCRP) with 800 mg pazopanib resulted in an approximately 50% to 60% increase in mean pazopanib AUC(0-24) and Cmax compared to administration of 800 mg pazopanib alone. Inhibition of P-gp and/or BCRP by lapatinib likely contributed to the increased exposure to pazopanib.
+
+Co-administration of pazopanib with a CYP3A4, P-gp, and BCRP inhibitor, such as lapatinib, will result in an increase in plasma pazopanib concentrations. Co-administration with potent P-gp or BCRP inhibitors may also alter the exposure and distribution of pazopanib, including distribution into the central nervous systems (CNS).
+
+Concomitant use of pazopanib with a strong CYP3A4 inhibitor should be avoided (see section 4.4). If no medically acceptable alternative to a strong CYP34A inhibitor is available, the dose of pazopanib should be reduced to 400 mg daily during concomitant administration. In such cases there should be close attention to adverse drug reaction, and further dose reduction may be considered if possible drug-related adverse events are observed.
+
+Combination with strong P-gp or BCRP inhibitors should be avoided, or selection of an alternate concomitant medicinal product with no or minimal potential to inhibit P-gp or BCRP is recommended.
+
+## CYP3A4, P-gp, BCRP inducers
+
+CYP3A4 inducers such as rifampin may decrease plasma pazopanib concentrations. Co-administration of pazopanib with potent P-gp or BCRP inducers may alter the exposure and distribution of pazopanib, including distribution into the CNS. Selection of an alternative concomitant medication with no or minimal enzyme or transporter induction potential is recommended.
+
+## Effects of pazopanib on other medicinal products
+
+In vitro studies with human liver microsomes showed that pazopanib inhibited CYP enzymes 1A2, 3A4, 2B6, 2C8, 2C9, 2C19, and 2E1. Potential induction of human CYP3A4 was demonstrated in an in vitro human PXR assay. Clinical pharmacology studies, using pazopanib 800 mg once daily, have demonstrated that pazopanib does not have a clinically relevant effect on the pharmacokinetics of caffeine (CYP1A2 probe substrate), warfarin (CYP2C9 probe substrate), or omeprazole (CYP2C19 probe substrate) in cancer patients. Pazopanib resulted in an increase of approximately 30% in the mean AUC and Cmax of midazolam (CYP3A4 probe substrate) and increases of 33% to 64% in the ratio of dextrometrophan to dextrophan concentrations in the urine after oral administration of dextromethorphan (CYP2D6 probe substrate). Co-administration of pazopanib 800 mg once daily and paclitaxel 80 mg/m 2  (CYP3A4 and CYP2C8 substrate) once weekly resulted in a mean increase of 26% and 31% in paclitaxel AUC and Cmax, respectively.
+
+Based on in vitro IC50 and in vivo plasma Cmax values, pazopanib metabolites GSK1268992 and GSK1268997 may contribute to the net inhibitory effect of pazopanib towards BCRP. Furthermore, inhibition of BCRP and P-gp by pazopanib in the gastrointestinal tract cannot be excluded. Care should be taken when pazopanib is co-administered with other oral BCRP and P-gp substrates.
+
+In vitro , pazopanib inhibited human organic anion transporting polypeptide (OATP1B1). It cannot be excluded that pazopanib will affect the pharmacokinetics of substrates of OATP1B1 (e.g. statins, see 'Effect of concomitant use of pazopanib and simvastatin' below).
+
+<div style=\"page-break-after: always\"></div>
+
+Pazopanib is an inhibitor of the uridine diphosphoglucuronosyl-transferase 1A1 (UGT1A1) enzyme in vitro . The active metabolite of irinotecan, SN-38, is a substrate for OATP1B1 and UGT1A1. Co-administration of pazopanib 400 mg once daily with cetuximab 250 mg/m 2  and irinotecan 150 mg/m 2  resulted in an approximately 20% increase in systemic exposure to SN-38. Pazopanib may have a greater impact on SN-38 disposition in subjects with the UGT1A1*28 polymorphism relative to subjects with the wild-type allele. However, the UGT1A1 genotype was not always predictive of the effect of pazopanib on SN-38 disposition. Care should be taken when pazopanib is co-administered with substrates of UGT1A1.
+
+## Effect of concomitant use of pazopanib and simvastatin
+
+Concomitant use of pazopanib and simvastatin increases the incidence of ALT elevations. Results from a meta-analysis using pooled data from clinical studies with pazopanib show that ALT &gt;3x ULN was reported in 126/895 (14%) of patients who did not use statins, compared with 11/41 (27%) of patients who had concomitant use of simvastatin (p = 0.038). If a patient receiving concomitant simvastatin develops ALT elevations, follow guidelines for pazopanib posology and discontinue simvastatin (see section 4.4). In addition, concomitant use of pazopanib and other statins should be undertaken with caution as there are insufficient data available to assess their impact on ALT levels. It cannot be excluded that pazopanib will affect the pharmacokinetics of other statins (e.g. atorvastatin, fluvastatin, pravastatin, rosuvastatin).
+
+## Effect of food on pazopanib
+
+Administration of pazopanib with a high-fat or low-fat meal results in an approximately 2-fold increase in AUC and Cmax. Therefore, pazopanib should be administered at least 1 hour before or 2 hours after a meal.
+
+## Medicinal products that raise gastric pH
+
+Concomitant administration of pazopanib with esomeprazole decreases the bioavailability of pazopanib by approximately 40% (AUC and Cmax), and co-administration of pazopanib with medicines that increase gastric pH should be avoided. If the concomitant use of a proton-pump inhibitor (PPI) is medically necessary, it is recommended that the dose of pazopanib be taken without food once daily in the evening concomitantly with the PPI. If the concomitant administration of an H2-receptor antagonist is medically necessary, pazopanib should be taken without food at least 2 hours before or at least 10 hours after a dose of an H2-receptor antagonist. Pazopanib should be administered at least 1 hour before or 2 hours after administration of short-acting antacids. The recommendations for how PPIs and H2-receptor antagonists are co-administered are based on physiological considerations.
+
+## 4.6 Fertility, pregnancy and lactation
+
+## Pregnancy/ Contraception in males and females
+
+There are no adequate data from the use of pazopanib in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3). The potential risk for humans is unknown.
+
+Pazopanib should not be used during pregnancy unless the clinical condition of the woman requires treatment with pazopanib. If pazopanib is used during pregnancy, or if the patient becomes pregnant while receiving pazopanib, the potential hazard to the foetus should be explained to the patient.
+
+Women of childbearing potential should be advised to use adequate contraception during treatment and for at least 2 weeks after the last dose of pazopanib and to avoid becoming pregnant while receiving treatment with pazopanib.
+
+Male patients (including those who have had vasectomies) should use condoms during sexual intercourse while taking pazopanib and for at least 2 weeks after the last dose of pazopanib to avoid potential exposure to the medicinal product for pregnant partners and female partners of reproductive
+
+<div style=\"page-break-after: always\"></div>
+
+potential.
+
+## Breast-feeding
+
+The safe use of pazopanib during breast-feeding has not been established. It is not known whether pazopanib or its metabolites are excreted in human milk. There are no animal data on the excretion of pazopanib in animal milk. A risk to the breast-fed child cannot be excluded. Breast-feeding should be discontinued during treatment with pazopanib.
+
+## Fertility
+
+Animal studies indicate that male and female fertility may be affected by treatment with pazopanib (see section 5.3).
+
+## 4.7 Effects on ability to drive and use machines
+
+Votrient has no or negligible influence on the ability to drive and use machines. A detrimental effect on such activities cannot be predicted from the pharmacology of pazopanib. The clinical status of the patient and the adverse event profile of pazopanib should be borne in mind when considering the patient's ability to perform tasks that require judgement, motor or cognitive skills. Patients should avoid driving or using machines if they feel dizzy, tired or weak.
+
+## 4.8 Undesirable effects
+
+## Summary of the safety profile
+
+Pooled data from the pivotal RCC study (VEG105192, n=290), the extension study (VEG107769, n=71), the supportive Phase II study (VEG102616, n=225) and the randomised, open-label, parallel group Phase III non-inferiority study (VEG108844, n=557) were evaluated in the overall evaluation of safety and tolerability of pazopanib (total n=1149) in subjects with RCC (see section 5.1).
+
+Pooled data from the pivotal STS study (VEG110727, n=369) and the supportive Phase II study (VEG20002, n=142) was evaluated in the overall evaluation of safety and tolerability of pazopanib (total safety population n=382) in subjects with STS (see section 5.1).
+
+The most important serious adverse reactions identified in the RCC or STS studies were transient ischaemic attack, ischaemic stroke, myocardial ischaemia, myocardial and cerebral infarction, cardiac dysfunction, gastrointestinal perforation and fistula, QT prolongation, Torsade de Pointes and pulmonary, gastrointestinal and cerebral haemorrhage, all adverse reactions being reported in &lt;1% of treated patients. Other important serious adverse reactions identified in STS studies included venous thromboembolic events, left ventricular dysfunction and pneumothorax.
+
+Fatal events that were considered possibly related to pazopanib included gastrointestinal haemorrhage, pulmonary haemorrhage/haemoptysis, abnormal hepatic function, intestinal perforation and ischaemic stroke.
+
+The most common adverse reactions (experienced by at least 10% of the patients) of any grade in the RCC and STS trials included: diarrhoea, hair colour change, skin hypopigmentation, exfoliative rash, hypertension, nausea, headache, fatigue, anorexia, vomiting, dysgeusia, stomatitis, weight decreased, pain, elevated alanine aminotransferase and elevated aspartate aminotransferase.
+
+Adverse drug reactions, all grades, which were reported in RCC and STS subjects or during the post-marketing period are listed below by MedDRA body system organ class, frequency and grade of severity. The following convention has been utilised for the classification of frequency: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); and not known (cannot be estimated from the available data).
+
+<div style=\"page-break-after: always\"></div>
+
+Categories have been assigned based on absolute frequencies in the clinical trial data. Post-marketing data on safety and tolerability across all pazopanib clinical studies and from spontaneous reports have also been evaluated. Within each system organ class, adverse reactions with the same frequency are presented in order of decreasing seriousness.
+
+## Tabulated list of adverse reactions
+
+Table 2 Treatment-related adverse reactions reported in RCC studies (n = 1149) or during post-marketing period
+
+| System Organ Class                                                  | Frequency (all grades)   | Adverse reactions                                                                                           | All grades n (%)   | Grade 3 n (%)   | Grade 4 n (%)   |
+|---------------------------------------------------------------------|--------------------------|-------------------------------------------------------------------------------------------------------------|--------------------|-----------------|-----------------|
+| Infections and Infestations                                         | Common                   | Infections (with or without neutropenia)†                                                                   | not known          | not known       | not known       |
+| Infections and Infestations                                         | Uncommon                 | Gingival infection                                                                                          | 1 (<1%)            | 0               | 0               |
+| Infections and Infestations                                         | Uncommon                 | Infectious peritonitis                                                                                      | 1 (<1%)            | 0               | 0               |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Uncommon                 | Tumour pain                                                                                                 | 1 (<1%)            | 1 (<1%)         | 0               |
+| Blood and lymphatic system disorders                                | Common                   | Thrombocytopenia                                                                                            | 80 (7%)            | 10 (<1%)        | 5 (<1%)         |
+| Blood and lymphatic system disorders                                | Common                   | Neutropenia                                                                                                 | 79 (7%)            | 20 (2%)         | 4 (<1%)         |
+| Blood and lymphatic system disorders                                | Common                   | Leukopenia                                                                                                  | 63 (5%)            | 5 (<1%)         | 0               |
+| Blood and lymphatic system disorders                                | Uncommon                 | Polycythaemia                                                                                               | 6 (0.03%)          | 1               | 0               |
+| Blood and lymphatic system disorders                                | Rare                     | Thrombotic microangiopathy (including thrombotic thrombocytopenic purpura and haemolytic uraemic syndrome)† | not known          | not known       | not known       |
+| Endocrine disorders                                                 | Common                   | Hypothyroidism                                                                                              | 83 (7%)            | 1 (<1%)         | 0               |
+| Metabolism and nutrition disorders                                  | Very common              | Decreased appetite e                                                                                        | 317 (28%)          | 14 (1%)         | 0               |
+| Metabolism and nutrition disorders                                  | Common                   | Hypophosphataemia                                                                                           | 21 (2%)            | 7 (<1%)         | 0               |
+| Metabolism and nutrition disorders                                  | Common                   | Dehydration                                                                                                 | 16 (1%)            | 5 (<1%)         | 0               |
+| Metabolism and nutrition disorders                                  | Uncommon                 | Hypomagnesaemia                                                                                             | 10 (<1%)           | 0               | 0               |
+| Metabolism and nutrition disorders                                  | Not known                | Tumour lysis syndrome*                                                                                      | not known          | not known       | not known       |
+| Psychiatric disorders                                               | Common                   | Insomnia                                                                                                    | 30 (3%)            | 0               | 0               |
+
+<div style=\"page-break-after: always\"></div>
+
+| Nervous disorders                           | Very common   | Dysgeusia c                                                                              | 254 (22%)   | 1 (<1%)   | 0         |
+|---------------------------------------------|---------------|------------------------------------------------------------------------------------------|-------------|-----------|-----------|
+| Nervous disorders                           | Very common   | Headache                                                                                 | 122 (11%)   | 11 (<1%)  | 0         |
+| Nervous disorders                           | Common        | Dizziness                                                                                | 55 (5%)     | 3 (<1%)   | 1 (<1%)   |
+| Nervous disorders                           | Common        | Lethargy                                                                                 | 30 (3%)     | 3 (<1%)   | 0         |
+| Nervous disorders                           | Common        | Paraesthesia                                                                             | 20 (2%)     | 2 (<1%)   | 0         |
+| Nervous disorders                           | Common        | Peripheral sensory neuropathy                                                            | 17 (1%)     | 0         | 0         |
+| Nervous disorders                           | Uncommon      | Hypoaesthesia                                                                            | 8 (<1%)     | 0         | 0         |
+| Nervous disorders                           | Uncommon      | Transient ischaemic attack                                                               | 7 (<1%)     | 4 (<1%)   | 0         |
+| Nervous disorders                           | Uncommon      | Somnolence                                                                               | 3 (<1%)     | 1 (<1%)   | 0         |
+| Nervous disorders                           | Uncommon      | Cerebrovascular accident                                                                 | 2 (<1%)     | 1 (<1%)   | 1 (<1%)   |
+| Nervous disorders                           | Uncommon      | Ischaemic stroke                                                                         | 2 (<1%)     | 0         | 1 (<1%)   |
+| Nervous disorders                           | Rare          | Posterior reversible encephalopathy / reversible posterior leukoencephalopathy syndrome† | not known   | not known | not known |
+|                                             | Common        | Vision blurred                                                                           | 19 (2%)     | 1 (<1%)   | 0         |
+| Eye                                         | Uncommon      | Retinal detachment†                                                                      | 1 (<1%)     | 1 (<1%)   | 0         |
+| Eye                                         | Uncommon      | Retinal tear†                                                                            | 1 (<1%)     | 1 (<1%)   | 0         |
+| Eye                                         | Uncommon      | Eyelash discolouration                                                                   | 4 (<1%)     | 0         | 0         |
+| Cardiac                                     | Uncommon      | Bradycardia                                                                              | 6 (<1%)     | 0         | 0         |
+| Cardiac                                     | Uncommon      | Myocardial infarction                                                                    | 5 (<1%)     | 1 (<1%)   | 4 (<1%)   |
+| Cardiac                                     | Uncommon      | Cardiac dysfunction f                                                                    | 4 (<1%)     | 1 (<1%)   | 0         |
+| Cardiac                                     | Uncommon      | Myocardial ischaemia                                                                     | 3 (<1%)     | 1 (<1%)   | 0         |
+| Vascular disorders                          | Very common   | Hypertension                                                                             | 473 (41%)   | 115 (10%) | 1 (<1%)   |
+| Vascular disorders                          | Common        | Hot flush                                                                                | 16 (1%)     | 0         | 0         |
+| Vascular disorders                          | Common        | Venous thromboembolic event g                                                            | 13 (1%)     | 6 (<1%)   | 7 (<1%)   |
+| Vascular disorders                          | Common        | Flushing                                                                                 | 12 (1%)     | 0         | 0         |
+| Vascular disorders                          | Uncommon      | Hypertensive crisis                                                                      | 6 (<1%)     | 0         | 2 (<1%)   |
+| Vascular disorders                          | Uncommon      | Haemorrhage                                                                              | 1 (<1%)     | 0         | 0         |
+| Vascular disorders                          | Rare          | Aneurysms and artery dissections†                                                        | not known   | not known | not known |
+| Respiratory, thoracic mediastinal disorders | Common        | Epistaxis                                                                                | 50 (4%)     | 1 (<1%)   | 0         |
+| Respiratory, thoracic mediastinal disorders | Common        | Dysphonia                                                                                | 48 (4%)     | 0         | 0         |
+| Respiratory, thoracic mediastinal disorders | Common        | Dyspnoea                                                                                 | 42 (4%)     | 8 (<1%)   | 1 (<1%)   |
+| Respiratory, thoracic mediastinal disorders |               | Haemoptysis                                                                              | 15 (1%)     | 1 (<1%)   | 0         |
+| Respiratory, thoracic mediastinal disorders | Uncommon      | Rhinorrhoea                                                                              | 8 (<1%)     | 0         | 0         |
+| Respiratory, thoracic mediastinal disorders |               | Pulmonary haemorrhage                                                                    | 2 (<1%)     | 0         | 0         |
+| Respiratory, thoracic mediastinal disorders |               | Pneumothorax                                                                             | 1 (<1%)     | 0         | 0         |
+| Respiratory, thoracic mediastinal disorders | Rare          | Interstitial lung disease/pneumonitis†                                                   | not known   | not known | not known |
+
+<div style=\"page-break-after: always\"></div>
+
+| Gastrointestinal disorders   | Very common   | Diarrhoea                          | 614 (53%_)   | 65 (6%)   | 2 (<1%)   |
+|------------------------------|---------------|------------------------------------|--------------|-----------|-----------|
+|                              | Very common   | Nausea                             | 386 (34%)    | 14 (1%)   | 0         |
+|                              | Very common   | Vomiting                           | 225 (20%)    | 18 (2%)   | 1 (<1%)   |
+|                              | Very common   | Abdominal pain a                   | 139 (12%)    | 15 (1%)   | 0         |
+|                              | Common        | Stomatitis                         | 96 (8%)      | 4 (<1%)   | 0         |
+|                              | Common        | Dyspepsia                          | 83 (7%)      | 2 (<1%)   | 0         |
+|                              | Common        | Flatulence                         | 43 (4%)      | 0         | 0         |
+|                              | Common        | Abdominal distension               | 36 (3%)      | 2 (<1%)   | 0         |
+|                              | Common        | Mouth ulceration                   | 28 (2%)      | 3 (<1%)   | 0         |
+|                              | Common        | Dry mouth                          | 27 (2%)      | 0         | 0         |
+|                              | Uncommon      | Pancreatitis                       | 8 (<1%)      | 4 (<1%)   | 0         |
+|                              | Uncommon      | Rectal haemorrhage                 | 8 (<1%)      | 2 (<1%)   | 0         |
+|                              | Uncommon      | Haematochezia                      | 6 (<1%)      | 0         | 0         |
+|                              | Uncommon      | Gastrointestinal haemorrhage       | 4 (<1%)      | 2 (<1%)   | 0         |
+|                              | Uncommon      | Melaena                            | 4 (<1%)      | 1(<1%)    | 0         |
+|                              | Uncommon      | Frequent bowel movements           | 3 (<1%)      | 0         | 0         |
+|                              | Uncommon      | Anal haemorrhage                   | 2 (<1%)      | 0         | 0         |
+|                              | Uncommon      | Large intestine perforation        | 2 (<1%)      | 1 (<1%)   | 0         |
+|                              | Uncommon      | Mouth haemorrhage                  | 2 (<1%)      | 0         | 0         |
+|                              | Uncommon      | Upper gastrointestinal haemorrhage | 2 (<1%)      | 1 (<1%)   | 0         |
+|                              | Uncommon      | Enterocutaneous fistula            | 1 (<1%)      | 0         | 0         |
+|                              | Uncommon      | Haematemesis                       | 1 (<1%)      | 0         | 0         |
+|                              | Uncommon      | Haemorrhoidal haemorrhage          | 1 (<1%)      | 0         | 0         |
+|                              | Uncommon      | Ileal perforation                  | 1 (<1%)      | 0         | 1 (<1%)   |
+|                              | Uncommon      | Oesophageal haemorrhage            | 1 (<1%)      | 0         | 0         |
+|                              | Uncommon      | Retroperitoneal haemorrhage        | 1 (<1%)      | 0         | 0         |
+| Hepatobiliary disorders      | Common        | Hyperbilirubinaemia                | 38 (3%)      | 2 (<1%)   | 1 (<1%)   |
+| Hepatobiliary disorders      | Common        | Hepatic function abnormal          | 29 (3%)      | 13 (1%)   | 2 (<1%)   |
+| Hepatobiliary disorders      | Common        | Hepatotoxicity                     | 18 (2%)      | 11(<1%)   | 2 (<1%)   |
+| Hepatobiliary disorders      | Uncommon      | Jaundice                           | 3 (<1%)      | 1 (<1%)   | 0         |
+| Hepatobiliary disorders      | Uncommon      | Drug induced liver injury          | 2 (<1%)      | 2 (<1%)   | 0         |
+| Hepatobiliary disorders      | Uncommon      | Hepatic failure†                   | 1 (<1%)      | 0         | 1 (<1%)   |
+
+<div style=\"page-break-after: always\"></div>
+
+|                               | Very common   | Hair colour change                          | 404 (35%)   | 1 (<1%)   | 0         |
+|-------------------------------|---------------|---------------------------------------------|-------------|-----------|-----------|
+|                               | Very common   | Palmar-plantar erythrodysaesthesia syndrome | 206 (18%)   | 39 (3%)   | 0         |
+|                               |               | Alopecia                                    | 130 (11%)   | 0         | 0         |
+|                               |               | Rash                                        | 129 (11%)   | 7 (<1%)   | 0         |
+|                               | Common        | Skin hypopigmentation                       | 52 (5%)     | 0         | 0         |
+|                               |               | Dry skin                                    | 50 (4%)     | 0         | 0         |
+|                               |               | Pruritus                                    | 29 (3%)     | 0         | 0         |
+|                               |               | Erythema                                    | 25 (2%)     | 0         | 0         |
+|                               |               | Skin depigmentation                         | 20 (2%)     | 0         | 0         |
+|                               |               | Hyperhidrosis                               | 17 (1%)     | 0         | 0         |
+|                               | Uncommon      | Nail disorders                              | 11 (<1%)    | 0         | 0         |
+|                               |               | Skin exfoliation                            | 10 (<1%)    | 0         | 0         |
+|                               |               | Photosensitivity reaction                   | 7 (<1%)     | 0         | 0         |
+|                               |               | Rash erythematous                           | 6 (<1%)     | 0         | 0         |
+|                               |               | Skin disorder                               | 5 (<1%)     | 0         | 0         |
+|                               |               | Rash macular                                | 4 (<1%)     | 0         | 0         |
+|                               |               | Rash pruritic                               | 3 (<1%)     | 0         | 0         |
+|                               |               | Rash vesicular                              | 3 (<1%)     | 0         | 0         |
+|                               |               | Pruritus generalised                        | 2 (<1%)     | 1 (<1%)   | 0         |
+|                               |               | Rash generalised                            | 2 (<1%)     | 0         | 0         |
+|                               |               | Rash papular                                | 2 (<1%)     | 0         | 0         |
+|                               |               | Plantar erythema                            | 1 (<1%)     | 0         | 0         |
+|                               |               | Skin ulcer†                                 | not known   | not known | not known |
+| Musculoskeletal and tissue    | Common        | Arthralgia                                  | 48 (4%)     | 8 (<1%)   | 0         |
+| Musculoskeletal and tissue    |               | Myalgia                                     | 35 (3%)     | 2 (<1%)   | 0         |
+| Musculoskeletal and tissue    |               | Muscle spasms                               | 25 (2%)     | 0         | 0         |
+| Musculoskeletal and tissue    | Uncommon      | Musculoskeletal pain                        | 9 (<1%)     | 1 (<1%)   | 0         |
+| Renal urinary                 | Very Common   | Proteinuria                                 | 135 (12%)   | 32 (3%)   | 0         |
+| Renal urinary                 | Uncommon      | Haemorrhage urinary tract                   | 1 (<1%)     | 0         | 0         |
+| Reproductive system disorders | Uncommon      | Menorrhagia                                 | 3 (<1%)     | 0         | 0         |
+| Reproductive system disorders |               | Vaginal haemorrhage                         | 3 (<1%)     | 0         | 0         |
+| Reproductive system disorders |               | Metrorrhagia                                | 1 (<1%)     | 0         | 0         |
+| General and administration    | Very common   | Fatigue                                     | 415 (36%)   | 65 (6%)   | 1 (<1%)   |
+| site                          | Common        | Mucosal inflammation                        | 86 (7%)     | 5 (<1%)   | 0         |
+| site                          |               | Asthenia                                    | 82 (7%)     | 20 (2%)   | 1 (<1%)   |
+| site                          |               | Oedema b                                    | 72 (6%)     | 1 (<1%)   | 0         |
+| site                          |               | Chest pain                                  | 18 (2%)     | 2 (<1%)   | 0         |
+| site                          | Uncommon      | Chills                                      | 4 (<1%)     | 0         | 0         |
+| site                          |               | Mucous membrane disorder                    | 1 (<1%)     | 0         | 0         |
+
+<div style=\"page-break-after: always\"></div>
+
+| Investigations   | Very common   | Alanine aminotransferase increased          | 246 (21%)   | 84 (7%)   | 14 (1%)   |
+|------------------|---------------|---------------------------------------------|-------------|-----------|-----------|
+| Investigations   | Very common   | Aspartate aminotransferase increased        | 211 (18%)   | 51 (4%)   | 10 (<1%)  |
+| Investigations   | Common        | Weight decreased                            | 96 (8%)     | 7 (<1%)   | 0         |
+| Investigations   | Common        | Blood bilirubin increased                   | 61 (5%)     | 6 (<1%)   | 1 (<1%)   |
+| Investigations   | Common        | Blood creatinine increased                  | 55 (5%)     | 3 (<1%)   | 0         |
+| Investigations   | Common        | Lipase increased                            | 51 (4%)     | 21 (2%)   | 7 (<1%)   |
+| Investigations   | Common        | White blood cell count decreased d          | 51 (4%)     | 3 (<1%)   | 0         |
+| Investigations   | Common        | Blood thyroid stimulating hormone increased | 36 (3%)     | 0         | 0         |
+| Investigations   | Common        | Amylase increased                           | 35 (3%)     | 7 (<1%)   | 0         |
+| Investigations   | Common        | Gamma- glutamyltransferase increased        | 31 (3%)     | 9 (<1%)   | 4 (<1%)   |
+| Investigations   | Common        | Blood pressure increased                    | 15 (1%)     | 2 (<1%)   | 0         |
+| Investigations   | Common        | Blood urea increased                        | 12 (1%)     | 1 (<1%)   | 0         |
+| Investigations   | Common        | Liver function test abnormal                | 12 (1%)     | 6 (<1%)   | 1 (<1%)   |
+| Investigations   | Uncommon      | Hepatic enzyme increased                    | 11 (<1%)    | 4 (<1%)   | 3 (<1%)   |
+| Investigations   | Uncommon      | Blood glucose decreased                     | 7 (<1%)     | 0         | 1 (<1%)   |
+| Investigations   | Uncommon      | Electrocardiogram QT prolonged              | 7 (<1%)     | 2 (<1%)   | 0         |
+| Investigations   | Uncommon      | Transaminase increased                      | 7 (<1%)     | 1 (<1%)   | 0         |
+| Investigations   | Uncommon      | Thyroid function test abnormal              | 3 (<1%)     | 0         | 0         |
+| Investigations   | Uncommon      | Blood pressure diastolic increased          | 2 (<1%)     | 0         | 0         |
+| Investigations   | Uncommon      | Blood pressure systolic increased           | 1 (<1%)     | 0         | 0         |
+
+†Treatment-related adverse reaction reported during post-marketing period (spontaneous case reports and serious adverse reactions from all pazopanib clinical studies).
+
+*Treatment-related adverse reaction reported only during the post-marketing period. Frequency cannot be estimated from the available data.
+
+The following terms have been combined:
+
+- a  Abdominal pain, abdominal pain upper and abdominal pain lower
+- b  Oedema, oedema peripheral, eye oedema, localised oedema and face oedema
+- c  Dysgeusia, ageusia and hypogeusia
+- d  White cell count decreased, neutrophil count decreased and leukocyte count decreased
+- e  Decreased appetite and anorexia
+- f Cardiac dysfunction, left ventricular dysfunction, cardiac failure and restrictive cardiomyopathy
+- g  Venous thromboembolic event, deep vein thrombosis, pulmonary embolism and thrombosis
+
+Neutropenia, thrombocytopenia and palmar-plantar erythrodysaethesia syndrome were observed more frequently in patients of East Asian descent.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 3 Treatment-related adverse reactions reported in STS studies (n=382) or during postmarketing period
+
+| System Organ Class                                                  | Frequency (all grades)   | Adverse reactions                                                                                          | All grades n (%)   | Grade 3 n (%)   | Grade 4 n (%)   |
+|---------------------------------------------------------------------|--------------------------|------------------------------------------------------------------------------------------------------------|--------------------|-----------------|-----------------|
+| Infections and infestations                                         | Common                   | Gingival infection                                                                                         | 4 (1%)             | 0               | 0               |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Very common              | Tumour pain                                                                                                | 121 (32%)          | 32 (8%)         | 0               |
+| Blood and lymphatic system disorders f                              | Very common              | Leukopenia                                                                                                 | 106 (44%)          | 3 (1%)          | 0               |
+| Blood and lymphatic system disorders f                              | Very common              | Thrombocytopenia                                                                                           | 86 (36%            | 7 (3%)          | 2 (<1%)         |
+| Blood and lymphatic system disorders f                              | Very common              | Neutropenia                                                                                                | 79 (33%)           | 10 (4%)         | 0               |
+| Blood and lymphatic system disorders f                              | Uncommon                 | Thrombotic microangiopathy (including thrombotic thrombocytopenic purpura and haemolytic uraemic syndrome) | 1 (<1%)            | 1 (<1%)         | 0               |
+| Endocrine disorders                                                 | Common                   | Hypothyroidism                                                                                             | 18 (5%)            | 0               | 0               |
+| Metabolism and nutrition disorders                                  | Very common              | Decreased appetite                                                                                         | 108 (28%)          | 12 (3%)         | 0               |
+| Metabolism and nutrition disorders                                  | Very common              | Hypoalbuminemia f                                                                                          | 81 (34%)           | 2 (<1%)         | 0               |
+| Metabolism and nutrition disorders                                  | Common                   | Dehydration                                                                                                | 4 (1%)             | 2 (1%)          | 0               |
+| Metabolism and nutrition disorders                                  | Uncommon                 | Hypomagnesaemia                                                                                            | 1 (<1%)            | 0               | 0               |
+| Metabolism and nutrition disorders                                  | Not known                | Tumour lysis syndrome*                                                                                     | not known          | not known       | not known       |
+| Psychiatric disorders                                               | Common                   | Insomnia                                                                                                   | 5 (1%)             | 1 (<1%)         | 0               |
+| Nervous system disorders                                            | Very common              | Dysgeusia c                                                                                                | 79 (21%)           | 0               | 0               |
+| Nervous system disorders                                            | Very common              | Headache                                                                                                   | 54 (14%)           | 2 (<1%)         | 0               |
+| Nervous system disorders                                            | Common                   | Peripheral sensory neuropathy                                                                              | 30 (8%)            | 1 (<1%)         | 0               |
+| Nervous system disorders                                            | Common                   | Dizziness                                                                                                  | 15 (4%)            | 0               | 0               |
+| Nervous system disorders                                            | Uncommon                 | Somnolence                                                                                                 | 3 (<1%)            | 0               | 0               |
+| Nervous system disorders                                            | Uncommon                 | Paresthesia                                                                                                | 1 (<1%)            | 0               | 0               |
+| Nervous system disorders                                            | Uncommon                 | Cerebral infarction                                                                                        | 1 (<1%)            | 0               | 1 (<1%)         |
+| Eye disorders                                                       | Common                   | Vision blurred                                                                                             | 15 (4%)            | 0               | 0               |
+| Cardiac disorders                                                   | Common                   | Cardiac dysfunction g                                                                                      | 21 (5%)            | 3 (<1%)         | 1 (<1%)         |
+| Cardiac disorders                                                   | Common                   | Left ventricular dysfunction                                                                               | 13 (3%)            | 3 (<1%)         | 0               |
+| Cardiac disorders                                                   | Common                   | Bradycardia                                                                                                | 4 (1%)             | 0               | 0               |
+| Cardiac disorders                                                   | Uncommon                 | Myocardial infarction                                                                                      | 1 (<1%)            | 0               | 0               |
+| Vascular disorders                                                  | Very common              | Hypertension                                                                                               | 152 (40%)          | 26 (7%)         | 0               |
+| Vascular disorders                                                  | Common                   | Venous thromboembolic event d                                                                              | 13 (3%)            | 4 (1%)          | 5 (1%)          |
+| Vascular disorders                                                  | Common                   | Hot flush                                                                                                  | 12 (3%)            | 0               | 0               |
+| Vascular disorders                                                  | Common                   | Flushing                                                                                                   | 4 (1%)             | 0               | 0               |
+| Vascular disorders                                                  | Uncommon                 | Haemorrhage                                                                                                | 2 (<1%)            | 1 (<1%)         | 0               |
+| Vascular disorders                                                  | Rare                     | Aneurysms and artery dissections                                                                           | not known          | not known       | not known       |
+
+<div style=\"page-break-after: always\"></div>
+
+| Respiratory, thoracic mediastinal disorders   | Common      | Epistaxis                              | 22 (6%)   | 0         | 0         |
+|-----------------------------------------------|-------------|----------------------------------------|-----------|-----------|-----------|
+| Respiratory, thoracic mediastinal disorders   | Common      | Dysphonia                              | 20 (5%)   | 0         | 0         |
+| Respiratory, thoracic mediastinal disorders   | Common      | Dyspnoea                               | 14 (4%)   | 3 (<1%)   | 0         |
+| Respiratory, thoracic mediastinal disorders   | Common      | Cough                                  | 12 (3%)   | 0         | 0         |
+| Respiratory, thoracic mediastinal disorders   | Common      | Pneumothorax                           | 7 (2%)    | 2 (<1%)   | 1 (<1%)   |
+| Respiratory, thoracic mediastinal disorders   | Common      | Hiccups                                | 4 (1%)    | 0         | 0         |
+| Respiratory, thoracic mediastinal disorders   | Common      | Pulmonary haemorrhage                  | 4 (1%)    | 1 (<1%)   | 0         |
+| Respiratory, thoracic mediastinal disorders   | Uncommon    | Oropharyngeal pain                     | 3 (<1%)   | 0         | 0         |
+| Respiratory, thoracic mediastinal disorders   | Uncommon    | Bronchial haemorrhage                  | 2 (<1%)   | 0         | 0         |
+| Respiratory, thoracic mediastinal disorders   | Uncommon    | Rhinorrhoea                            | 1 (<1%)   | 0         | 0         |
+| Respiratory, thoracic mediastinal disorders   | Uncommon    | Haemoptysis                            | 1 (<1%)   | 0         | 0         |
+| Respiratory, thoracic mediastinal disorders   | Rare        | Interstitial lung disease/pneumonitis† | not known | not known | not known |
+| Gastrointestinal disorders                    | Very common | Diarrhoea                              | 174 (46%) | 17 (4%)   | 0         |
+|                                               | Very common | Nausea                                 | 167 (44%) | 8 (2%)    | 0         |
+|                                               | Very common | Vomiting                               | 96 (25%)  | 7 (2%)    | 0         |
+|                                               | Very common | Abdominal pain a                       | 55 (14%)  | 4 (1%)    | 0         |
+|                                               | Very common | Stomatitis                             | 41 (11%)  | 1 (<1%)   | 0         |
+|                                               | Common      | Abdominal distension                   | 16 (4%)   | 2 (1%)    | 0         |
+|                                               | Common      | Dry mouth                              | 14 (4%)   | 0         | 0         |
+|                                               | Common      | Dyspepsia                              | 12 (3%)   | 0         | 0         |
+|                                               | Common      | Mouth haemorrhage                      | 5 (1%)    | 0         | 0         |
+|                                               | Common      | Flatulence                             | 5 (1%)    | 0         | 0         |
+|                                               | Common      | Anal haemorrhage                       | 4 (1%)    | 0         | 0         |
+|                                               | Uncommon    | Gastrointestinal haemorrhage           | 2 (<1%)   | 0         | 0         |
+|                                               | Uncommon    | Rectal haemorrhage                     | 2 (<1%)   | 0         | 0         |
+|                                               | Uncommon    | Enterocutaneous fistula                | 1 (<1%)   | 1 (<1%)   | 0         |
+|                                               | Uncommon    | Gastric haemorrhage                    | 1 (<1%)   | 0         | 0         |
+|                                               | Uncommon    | Melaena                                | 2 (<1%)   | 0         | 0         |
+|                                               | Uncommon    | Oesophageal haemorrhage                | 1 (<1%)   | 0         | 1 (<1%)   |
+|                                               | Uncommon    | Peritonitis                            | 1 (<1%)   | 0         | 0         |
+|                                               | Uncommon    | Retroperitoneal haemorrhage            | 1 (<1%)   | 0         | 0         |
+|                                               | Uncommon    | Upper gastrointestinal haemorrhage     | 1 (<1%)   | 1 (<1%)   | 0         |
+|                                               | Uncommon    | Ileal perforation                      | 1 (<1%)   | 0         | 1 (<1%)   |
+| Hepatobiliary disorders                       | Uncommon    | Hepatic function abnormal              | 2 (<1%)   | 0         | 1 (<1%)   |
+| Hepatobiliary disorders                       | Not known   | Hepatic failure*                       | not known | not known | not known |
+
+<div style=\"page-break-after: always\"></div>
+
+| Skin and subcutaneous                                | Very common   | Hair colour change                          | 93 (24%)   | 0       | 0       |
+|------------------------------------------------------|---------------|---------------------------------------------|------------|---------|---------|
+| Skin and subcutaneous                                | Very common   | Skin hypopigmentation                       | 80 (21%)   | 0       | 0       |
+| Skin and subcutaneous                                | Very common   | Exfoliative rash                            | 52 (14%)   | 2 (<1%) | 0       |
+| Skin and subcutaneous                                | Common        | Alopecia                                    | 30 (8%)    | 0       | 0       |
+| Skin and subcutaneous                                | Common        | Skin disorder c                             | 26 (7%)    | 4 (1%)  | 0       |
+| Skin and subcutaneous                                | Common        | Dry skin                                    | 21 (5%)    | 0       | 0       |
+| Skin and subcutaneous                                | Common        | Hyperhydrosis                               | 18 (5%)    | 0       | 0       |
+| Skin and subcutaneous                                | Common        | Nail disorder                               | 13 (3%)    | 0       | 0       |
+| Skin and subcutaneous                                | Common        | Pruritus                                    | 11 (3%)    | 0       | 0       |
+| disorders                                            | Common        | Erythema                                    | 4 (1%)     | 0       | 0       |
+| Skin and subcutaneous                                | Uncommon      | Skin ulcer                                  | 3 (<1%)    | 1 (<1%) | 0       |
+| Skin and subcutaneous                                | Uncommon      | Rash                                        | 1 (<1%)    | 0       | 0       |
+| Skin and subcutaneous                                | Uncommon      | Rash papular                                | 1 (<1%)    | 0       | 0       |
+| Skin and subcutaneous                                | Uncommon      | Photosensitivity reaction                   | 1 (<1%)    | 0       | 0       |
+| Skin and subcutaneous                                | Uncommon      | Palmar-plantar erythrodysaesthesia syndrome | 2 (<1%)    | 0       | 0       |
+| Musculoskeletal and connective tissue disorders      | Common        | Musculoskeletal pain                        | 35 (9%)    | 2 (<1%) | 0       |
+| Musculoskeletal and connective tissue disorders      | Common        | Myalgia                                     | 28 (7%)    | 2 (<1%) | 0       |
+| Musculoskeletal and connective tissue disorders      | Common        | Muscle spasms                               | 8 (2%)     | 0       | 0       |
+| Musculoskeletal and connective tissue disorders      | Uncommon      | Arthralgia                                  | 2 (<1%)    | 0       | 0       |
+| Renal and urinary disorders                          | Uncommon      | Proteinuria                                 | 2 (<1%)    | 0       | 0       |
+| Reproductive system and breast disorder              | Uncommon      | Vaginal haemorrhage                         | 3 (<1%)    | 0       | 0       |
+| Reproductive system and breast disorder              | Uncommon      | Menorrhagia                                 | 1 (<1%)    | 0       | 0       |
+| General disorders and administration site conditions | Very common   | Fatigue                                     | 178 (47%)  | 34 (9%) | 1 (<1%) |
+| General disorders and administration site conditions | Common        | Oedema b                                    | 18 (5%)    | 1 (<1%) | 0       |
+| General disorders and administration site conditions | Common        | Chest pain                                  | 12 (3%)    | 4 (1%)  | 0       |
+| General disorders and administration site conditions | Common        | Chills                                      | 10 (3%)    | 0       | 0       |
+| General disorders and administration site conditions | Uncommon      | Mucosal inflammation e                      | 1 (<1%)    | 0       | 0       |
+| General disorders and administration site conditions | Uncommon      | Asthenia                                    | 1 (<1%     | 0       | 0       |
+
+<div style=\"page-break-after: always\"></div>
+
+| Very common   | Weight decreased                            | 86 (23%)   | 5 (1%)   | 0       |
+|---------------|---------------------------------------------|------------|----------|---------|
+| Common        | Ear, nose and throat examination abnormal e | 29 (8%)    | 4 (1%)   | 0       |
+| Common        | Alanine aminotransferase increased          | 8 (2%)     | 4 (1%)   | 2 (<1%) |
+| Common        | Blood cholesterol abnormal                  | 6 (2%)     | 0        | 0       |
+| Common        | Aspartate aminotransferase increased        | 5 (1%)     | 2 (<1%)  | 2 (<1%) |
+| Common        | Gamma glutamyltransferase increased         | 4 (1%)     | 0        | 3 (<1%) |
+| Uncommon      | Blood bilirubin increased                   | 2 (<1%)    | 0        | 0       |
+| Uncommon      | Aspartate aminotransferase                  | 2 (<1%)    | 0        | 2 (<1%) |
+| Uncommon      | Alanine aminotransferase                    | 1 (<1%)    | 0        | 1 (<1%) |
+| Uncommon      | Platelet count decreased                    | 1 (<1%)    | 0        | 1 (<1%) |
+| Uncommon      | Electrocardiogram QT prolonged              | 2 (<1%)    | 1 (<1%)  | 0       |
+
+- †Treatment-related adverse reaction reported during post-marketing period (spontaneous case reports and serious adverse reactions from all pazopanib clinical studies).
+- *Treatment-related adverse reaction reported only during the post-marketing period. Frequency cannot be estimated from the available data.
+- The following terms have been combined:
+- a  Abdominal pain, abdominal pain upper and gastrointestinal pain
+- b  Oedema, oedema peripheral and eyelid oedema
+- c  The majority of these cases were Palmar-plantar erythrodysaesthesia syndrome
+- d  Venous thromboembolic events - includes Deep vein thrombosis, Pulmonary embolism and Thrombosis terms e The majority of these cases describe mucositis
+- f  Frequency is based on laboratory value tables from VEG110727 (N=240). These were reported as adverse events less frequently by investigators than as indicated by laboratory value tables.
+- g Cardiac dysfunction events - includes Left ventricular dysfunction, Cardiac failure and Restrictive cardiomyopathy
+- h Frequency is based on adverse events reported by investigators. Laboratory abnormalities were reported as adverse events less frequently by investigators than as indicated by laboratory value tables.
+
+Neutropenia, thrombocytopenia and palmar-plantar erythrodysaethesia syndrome were observed more frequently in patients of East Asian descent.
+
+## Paediatric population
+
+The safety profile in paediatric patients was similar to that reported with pazopanib in adults in the approved indications based on data from 44 paediatric patients from Phase I study ADVL0815 and 57 paediatric patients from Phase II study PZP034X2203 (see section 5.1).
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+<div style=\"page-break-after: always\"></div>
+
+## 4.9 Overdose
+
+Pazopanib doses up to 2000 mg have been evaluated in clinical studies. Grade 3 fatigue (dose-limiting toxicity) and Grade 3 hypertension were each observed in 1 of 3 patients dosed at 2000 mg and 1000 mg daily, respectively.
+
+There is no specific antidote for overdose with pazopanib and treatment of overdose should consist of general supportive measures.
+
+## 5. PHARMACOLOGICAL PROPERTIES
+
+## 5.1 Pharmacodynamic properties
+
+Pharmacotherapeutic group: Antineoplastic agents, protein kinase inhibitors, other protein kinase inhibitors, ATC code: L01EX03
+
+## Mechanism of action
+
+Pazopanib is an orally administered, potent multi-target tyrosine kinase inhibitor (TKI) of vascular endothelial growth factor receptors (VEGFR) -1, -2, and -3, platelet-derived growth factor (PDGFR) -α and -β, and stem cell factor receptor (c-KIT), with IC50 values of 10, 30, 47, 71, 84 and 74 nM, respectively. In preclinical experiments, pazopanib dose-dependently inhibited ligand-induced auto-phosphorylation of VEGFR-2, c-Kit and PDGFR- receptors in cells. In vivo , pazopanib inhibited VEGF-induced VEGFR-2 phosphorylation in mouse lungs, angiogenesis in various animal models, and the growth of multiple human tumour xenografts in mice.
+
+## Pharmacogenomics
+
+In a pharmacogenetic meta-analysis of data from 31 clinical studies of pazopanib administered either as monotherapy or in combination with other agents, ALT &gt;5 x ULN (NCI CTC Grade 3) occurred in 19% of HLA-B*57:01 allele carriers and in 10% of non-carriers. In this dataset, 133/2235 (6%) of the patients carried the HLA-B*57:01 allele (see section 4.4).
+
+## Clinical studies
+
+## Renal cell carcinoma (RCC)
+
+The safety and efficacy of pazopanib in RCC were evaluated in a randomised, double-blind, placebo-controlled multicentre study. Patients (N = 435) with locally advanced and/or metastatic RCC were randomised to receive pazopanib 800 mg once daily or placebo. The primary objective of the study was to evaluate and compare the two treatment arms for progression-free survival (PFS) and the principle secondary endpoint was overall survival (OS). The other objectives were to evaluate the overall response rate and duration of response.
+
+From the total of 435 patients in this study, 233 patients were treatment-naïve and 202 were second-line patients who had received one prior IL-2 or INF  -based therapy. The performance status (ECOG) was similar between the pazopanib and placebo groups (ECOG 0: 42% vs. 41%, ECOG 1: 58% vs. 59%). The majority of patients had either favourable (39%) or intermediate (54%), MSKCC (Memorial Sloan Kettering Cancer Centre) / Motzer prognostic factors. All patients had clear cell histology or predominantly clear cell histology. Approximately half of all patients had 3 or more organs involved in their disease and most patients had the lung (74%), and/or lymph nodes (54%) as a metastatic location for disease at baseline.
+
+A similar proportion of patients in each arm were treatment-naïve and cytokine pre-treated (53% and 47% in pazopanib arm, 54% and 46% in placebo arm). In the cytokine pre-treated subgroup, the majority (75%) had received interferon-based treatment.
+
+<div style=\"page-break-after: always\"></div>
+
+Similar proportions of patients in each arm had prior nephrectomy (89% and 88% in the pazopanib and placebo arms, respectively) and/or prior radiotherapy (22% and 15% in the pazopanib and placebo arms, respectively.
+
+The primary analysis of the primary endpoint PFS is based on disease assessment by independent radiological review in the entire study population (treatment-naïve and cytokine pre-treated).
+
+Table 4 Overall efficacy results in RCC by independent assessment (VEG105192)
+
+| Endpoints/Study population       | Pazopanib              | Placebo              | HR (95% CI)       | P value (one-sided)   |
+|----------------------------------|------------------------|----------------------|-------------------|-----------------------|
+| PFS Overall* ITT Median (months) | N = 290 9.2            | N = 145 4.2          | 0.46 (0.34, 0.62) | <0.0000001            |
+| Response rate %(95% CI)          | N = 290 30 (25.1,35.6) | N = 145 3 (0.5, 6.4) | -                 | <0.001                |
+
+HR = hazard ratio; ITT = intent to treat; PFS = progression-free survival. * - treatment-naïve and cytokine pre-treated populations
+
+Figure 1 Kaplan-Meier curve for progression-free survival by independent assessment for the overall population (treatment-naïve and cytokine pre-treated populations) (VEG105192)
+
+<!-- image -->
+
+x axis; Months, y axis; Proportion Progression Free, Pazopanib --- (N = 290) Median 9.2 months; Placebo ------- (N = 145) Median 4.2 months; Hazard Ratio = 0.46, 95% CI (0.34, 0.62), P &lt;0.0000001
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 2 Kaplan-Meier curve for progression-free survival by independent assessment for the treatment-naïve population (VEG105192)
+
+<!-- image -->
+
+x axis; Months, y axis; Proportion Progression Free, Pazopanib --- (N = 155) Median 11.1 months; Placebo -------- (N = 78) Median 2.8 months; Hazard Ratio = 0.40, 95% CI (0.27, 0.60), P &lt;0.0000001
+
+Figure 3 Kaplan-Meier Curve for progression-free survival by independent assessment for the cytokine pre-treated population (VEG105192)
+
+<!-- image -->
+
+x axis; Months, y axis; Proportion Progression Free, Pazopanib --- (N = 135) Median 7.4 months; Placebo -------- (N = 67) Median 4.2 months; Hazard Ratio = 0.54, 95% CI (0.35, 0.84), P &lt;0.001
+
+For patients who responded to treatment, the median time to response was 11.9 weeks and the median duration of response was 58.7 weeks as per independent review (VEG105192).
+
+The median overall survival (OS) data at the protocol-specified final survival analysis were 22.9 months and 20.5 months [HR = 0.91 (95% CI: 0.71, 1.16; p = 0.224)] for patients randomised to the pazopanib and placebo arms, respectively. The OS results are subject to potential bias as 54% of patients in the placebo arm also received pazopanib in the extension part of this study following disease progression. Sixty-six per cent of placebo patients received post-study therapy compared to 30% of pazopanib patients.
+
+No statistical differences were observed between treatment groups for Global Quality of Life using EORTC QLQ-C30 and EuroQoL EQ-5D.
+
+In a Phase II study of 225 patients with locally recurrent or metastatic clear cell renal cell carcinoma, objective response rate was 35% and median duration of response was 68 weeks, as per independent
+
+<div style=\"page-break-after: always\"></div>
+
+review. Median PFS was 11.9 months.
+
+The safety, efficacy and quality of life of pazopanib versus sunitinib was evaluated in a randomised, open-label, parallel group Phase III non-inferiority study (VEG108844).
+
+In VEG108844, patients (N = 1110) with locally advanced and/or metastatic RCC who had not received prior systemic therapy, were randomised to receive either pazopanib 800 mg once daily continuously or sunitinib 50 mg once daily in 6-week cycles of dosing with 4 weeks on treatment followed by 2 weeks without treatment.
+
+The primary objective of this study was to evaluate and compare PFS in patients treated with pazopanib to those treated with sunitinib. Demographic characteristics were similar between the treatment arms. Disease characteristics at initial diagnosis and at screening were balanced between the treatment arms with the majority of patients having clear cell histology and Stage IV disease.
+
+VEG108844 achieved its primary endpoint of PFS and demonstrated that pazopanib was non-inferior to sunitinib, as the upper bound of the 95% CI for the hazard ratio was less than the protocol-specified non-inferiority margin of 1.25. Overall efficacy results are summarised in Table 5.
+
+## Table 5 Overall efficacy results (VEG108844)
+
+| Endpoint         | Pazopanib N = 557   | Sunitinib N = 553   | HR (95% CI)    |
+|------------------|---------------------|---------------------|----------------|
+| PFS Overall      |                     |                     |                |
+| Median (months)  | 8.4                 | 9.5                 | 1.047          |
+| (95% CI)         | (8.3, 10.9)         | (8.3, 11.0)         | (0.898, 1.220) |
+| Overall Survival |                     |                     |                |
+| Median (months)  | 28.3                | 29.1                | 0.915 a        |
+| (95% CI)         | (26.0, 35.5)        | (25.4, 33.1)        | (0.786, 1.065) |
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 4 Kaplan-Meier Curve for progression-free survival by independent assessment for the overall population (VEG108844)
+
+<!-- image -->
+
+Subgroup analyses of PFS were performed for 20 demographic and prognostic factors. The 95% confidence intervals for all subgroups include a hazard ratio of 1. In the three smallest of these 20 subgroups, the point estimate of the hazard ratio exceeded 1.25; i.e. in subjects with no prior nephrectomy (n=186, HR=1.403, 95% CI (0.955, 2.061)), baseline LDH &gt;1.5 x ULN (n=68, HR=1.72, 95% CI (0.943, 3.139)), and MSKCC: poor risk (n=119, HR=1.472, 95% CI (0.937, 2.313)).
+
+## Soft-tissue sarcoma (STS)
+
+The efficacy and safety of pazopanib in STS were evaluated in a pivotal Phase III randomised, double-blind, placebo-controlled multicentre study (VEG110727). A total of 369 patients with advanced STS were randomised to receive pazopanib 800 mg once daily or placebo. Importantly, only patients with selective histological subtypes of STS were allowed to participate to the study, therefore efficacy and safety of pazopanib can only be considered established for those subgroups of STS and treatment with pazopanib should be restricted to such STS subtypes.
+
+## The following tumour types were eligible:
+
+Fibroblastic (adult fibrosarcoma, myxofibrosarcoma, sclerosing epithelioid fibrosarcoma, malignant solitary fibrous tumours), so-called fibrohistiocytic (pleomorphic malignant fibrous histiocytoma [MFH], giant cell MFH, inflammatory MFH), leiomyosarcoma, malignant glomus tumours, skeletal muscles (pleomorphic and alveolar rhabdomyosarcoma), vascular (epithelioid hemangioendothelioma, angiosarcoma), uncertain differentiation (synovial, epithelioid, alveolar soft part, clear cell, desmoplastic small round cell, extra-renal rhabdoid, malignant mesenchymoma, PEComa, intimal sarcoma), malignant peripheral nerve sheath tumours, undifferentiated soft tissue sarcomas not otherwise specified (NOS) and other types of sarcoma (not listed as ineligible).
+
+## The following tumour types were not eligible:
+
+Adipocytic sarcoma (all subtypes), all rhabdomyosarcoma that were not alveolar or pleomorphic, chondrosarcoma, osteosarcoma, Ewing tumours/primitive neuroectodermal tumours (PNET), GIST, dermofibromatosis sarcoma protuberans, inflammatory myofibroblastic sarcoma, malignant mesothelioma and mixed mesodermal tumours of the uterus.
+
+Of note, patients with adipocytic sarcoma were excluded from the pivotal Phase III study as in a preliminary Phase II study (VEG20002) activity (PFS at week 12) observed with pazopanib in adipocytic did not meet the prerequisite rate to allow further clinical testing.
+
+<div style=\"page-break-after: always\"></div>
+
+Other key eligibility criteria of the VEG110727 study were: histological evidence of high or intermediate grade malignant STS and disease progression within 6 months of therapy for metastatic disease, or recurrence within 12 months of (neo) -/adjuvant therapy.
+
+Ninety-eight percent (98%) of subjects received prior doxorubicin, 70% prior ifosfamide, and 65% of subjects had received at least three or more chemotherapeutic agents prior to study enrolment.
+
+Patients were stratified by the factors of WHO performance status (WHO PS) (0 or 1) at baseline and the number of lines of prior systemic therapy for advanced disease (0 or 1 vs. 2+). In each treatment group, there was a slightly greater percentage of subjects in the 2+ lines of prior systemic therapy for advanced disease (58% and 55%, respectively, for placebo and pazopanib treatment arms) compared with 0 or 1 lines of prior systemic therapy (42% and 45%, respectively, for placebo and pazopanib treatment arms). The median duration of follow-up of subjects (defined as date of randomisation to date of last contact or death) was similar for both treatment arms (9.36 months for placebo [range 0.69 to 23.0 months] and 10.04 months for pazopanib [range 0.2 to 24.3 months].
+
+The primary objective of the study was progression-free survival (PFS assessed by independent radiological review); the secondary endpoints included overall survival (OS), overall response rate and duration of response.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 6 Overall efficacy results in STS by independent assessment (VEG110727)
+
+| Endpoints / study population                                                                                                                      | Pazopanib                                          | Placebo                                         | HR(95% CI)                                                              | P value (two-sided)        |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------------------------------------------|-------------------------------------------------------------------------|----------------------------|
+| PFS Overall ITT Median (weeks) Leiomyosarcoma Median (weeks) Synovial sarcoma subgroups Median (weeks) 'Other STS' subgroups Median (weeks)       | N = 246 20.0 N = 109 20.1 N = 25 17.9 N = 112 20.1 | N = 123 7.0 N = 49 8.1 N = 13 4.1 N = 61 4.3    | 0.35 (0.26, 0.48) 0.37 (0.23, 0.60) 0.43 (0.19, 0.98) 0.39 (0.25, 0.60) | <0.001 <0.001 0.005 <0.001 |
+| OS Overall ITT Median (months) Leiomyosarcoma* Median (months) Synovial sarcoma subgroups* Median (months) 'Other STS' subgroups* Median (months) | N = 246 12.6 N = 109 16.7 N = 25 8.7 N = 112 10.3  | N = 123 10.7 N = 49 14.1 N = 13 21.6 N = 61 9.5 | 0.87 (0.67, 1.12) 0.84 (0.56, 1.26) 1.62 (0.79, 3.33) 0.84 (0.59, 1.21) | 0.256 0.363 0.115 0.325    |
+| Response rate (CR+PR) %(95% CI) Duration of response Median (weeks) (95% CI)                                                                      | 4 (2.3, 7.9) 38.9 (16.7, 40.0)                     | 0 (0.0, 3.0)                                    |                                                                         |                            |
+
+HR = hazard ratio; ITT = intent to treat; PFS = progression-free survival; CR = complete response; PR = partial response. OS = overall survival
+
+* Overall survival for the respective STS histological subgroups (leiomyosarcoma, synovial sarcoma and 'Other' STS) should be interpreted with caution due to the small number of subjects and wide confidence intervals
+
+A similar improvement in PFS based on investigator assessments was observed in the pazopanib arm compared with the placebo arm (in the overall ITT population HR: 0.39; 95% CI, 0.30 to 0.52, p &lt;0.001).
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 5 Kaplan-Meier Curve for Progression-Free Survival in STS by Independent Assessment for the Overall Population (VEG110727)
+
+<!-- image -->
+
+No significant difference in OS was observed between the two treatment arms at the final OS analysis performed after 76% (280/369) of the events had occurred (HR 0.87, 95% CI 0.67, 1.12 p=0.256).
+
+## Paediatric population
+
+A Phase I study (ADVL0815) of pazopanib was conducted in 44 paediatric patients with various recurrent or refractory solid tumours. The primary objective was to investigate the maximum tolerated dose (MTD), the safety profile and the pharmacokinetic properties of pazopanib in children. The median duration of exposure in this study was 3 months (1-23 months).
+
+A Phase II study (PZP034X2203) of pazopanib was conducted in 57 paediatric patients with refractory solid tumours including rhabdomyosarcoma (N=12), non-rhabdomyosarcoma soft tissue sarcoma (N=11), Ewing sarcoma/pPNET (N=10), osteosarcoma (N=10), neuroblastoma (N=8) and hepatoblastoma (N=6). The study was a single-agent, non-controlled, open-label study to determine the therapeutic activity of pazopanib in children and adolescents aged 1 to &lt;18 years of age. Pazopanib was administered daily as a tablet at a dose of 450 mg/m 2 /dose or as an oral suspension at 225 mg/m 2 /dose. The maximum daily dose permitted was 800 mg for the tablet and 400 mg for the oral suspension. The median duration of exposure was 1.8 months (1 day-29 months).
+
+Results of this study did not show any meaningful anti-tumour activity in the respective paediatric population. Pazopanib is therefore not recommended for treatment of these tumours in the paediatric population (see section 4.2 for information on paediatric use).
+
+The European Medicines Agency has waived the obligation to submit the results of studies with Votrient in all subsets of the paediatric population in treatment of kidney and renal pelvis carcinoma (excluding nephroblastoma, nephroblastomatosis, clear cell sarcoma, mesoblastic nephroma, renal medullary carcinoma and rhabdoid tumour of the kidney) (see section 4.2 for information on paediatric use).
+
+## 5.2 Pharmacokinetic properties
+
+## Absorption
+
+Upon oral administration of a single pazopanib 800 mg dose to patients with solid tumours, maximum plasma concentration (Cmax) of approximately 19 ± 13 µg/ml was obtained after median 3.5 hours (range 1.0-11.9 hours) and an AUC0-∞ of approximately 650 ± 500 µg.h/ml was obtained. Daily dosing
+
+<div style=\"page-break-after: always\"></div>
+
+results in 1.23- to 4-fold increase in AUC0-T.
+
+There was no consistent increase in AUC or Cmax at pazopanib doses above 800 mg.
+
+Systemic exposure to pazopanib is increased when administered with food. Administration of pazopanib with a high-fat or low-fat meal results in an approximately 2-fold increase in AUC and Cmax. Therefore, pazopanib should be administered at least two hours after food or at least one hour before food (see section 4.2).
+
+Administration of a pazopanib 400 mg crushed tablet increased AUC(0-72) by 46% and Cmax by approximately 2 fold and decreased tmax by approximately 2 hours compared to administration of the whole tablet. These results indicate that the bioavailability and the rate of pazopanib oral absorption are increased after administration of the crushed tablet relative to administration of the whole tablet (see section 4.2).
+
+## Distribution
+
+Binding of pazopanib to human plasma protein in vivo was greater than 99% with no concentration dependence over the range of 10-100  g/ml. In vitro studies suggest that pazopanib is a substrate for P-gp and BCRP.
+
+## Biotransformation
+
+Results from in vitro studies demonstrated that metabolism of pazopanib is mediated primarily by CYP3A4, with minor contributions from CYP1A2 and CYP2C8. The four principle pazopanib metabolites account for only 6% of the exposure in plasma. One of these metabolites inhibits the proliferation of VEGF-stimulated human umbilical vein endothelial cells with a similar potency to that of pazopanib, the others are 10- to 20-fold less active. Therefore, activity of pazopanib is mainly dependent on parent pazopanib exposure.
+
+## Elimination
+
+Pazopanib is eliminated slowly with a mean half-life of 30.9 hours after administration of the recommended dose of 800 mg. Elimination is primarily via faeces with renal elimination accounting for &lt;4% of the administered dose.
+
+## Special populations
+
+## Renal impairment
+
+Results indicate that less than 4% of an orally administered pazopanib dose is excreted in the urine as pazopanib and metabolites. Results from population pharmacokinetic modelling (data from subjects with baseline CLCR values ranging from 30.8 ml/min to 150 ml/min) indicated that renal impairment is unlikely to have clinically relevant effect on pazopanib pharmacokinetics. No dose adjustment is required in patients with creatinine clearance above 30 ml/min. Caution is advised in patients with creatinine clearance below 30 ml/min as there is no experience of pazopanib in this patient population (see section 4.2).
+
+## Hepatic impairment
+
+## Mild
+
+The median steady-state pazopanib Cmax and AUC(0-24) in patients with mild abnormalities in hepatic parameters (defined as either normal bilirubin and any degree of ALT elevation or as an elevation of bilirubin up to 1.5 x ULN regardless of the ALT value) after administration of 800 mg once daily are similar to the median in patients with normal hepatic function (see Table 7). 800 mg pazopanib once daily is the recommended dose in patients with mild abnormalities of serum liver tests (see section 4.2).
+
+<div style=\"page-break-after: always\"></div>
+
+## Moderate
+
+The maximally tolerated pazopanib dose (MTD) in patients with moderate hepatic impairment (defined as an elevation of bilirubin &gt;1.5 x to 3 x ULN regardless of the ALT values) was 200 mg once daily. The median steady-state Cmax and AUC(0-24) values after administration of 200 mg pazopanib once daily in patients with moderate hepatic impairment were approximately 44% and 39%, of the corresponding median values after administration of 800 mg once daily in patients with normal hepatic function, respectively (see Table 7).
+
+Based on safety and tolerability data, the dose of pazopanib should be reduced to 200 mg once daily in subjects with moderate hepatic impairment (see section 4.2).
+
+## Severe
+
+The median steady-state Cmax and AUC(0-24) values after administration of 200 mg pazopanib once daily in patients with severe hepatic impairment were approximately 18% and 15%, of the corresponding median values after administration of 800 mg once daily in patients with normal hepatic function. Based on the diminished exposure and limited hepatic reserve pazopanib is not recommended in patients with severe hepatic impairment (defined as total bilirubin &gt;3 X ULN regardless of any level of ALT) (see section 4.2).
+
+Table 7 Median steady-state pazopanib pharmacokinetics measured in subjects with hepatic impairment.
+
+| Group                   | Investigated dose   | C max (µg/ml)     | AUC (0-24) (µg x hr/ml)   | Recommended dose   |
+|-------------------------|---------------------|-------------------|---------------------------|--------------------|
+| Normal hepatic function | 800 mg OD           | 52.0 (17.1-85.7)  | 888.2 (345.5-1482)        | 800 mg OD          |
+| Mild HI                 | 800 mg OD           | 33.5 (11.3-104.2) | 774.2 (214.7-2034.4)      | 800 mg OD          |
+| Moderate HI             | 200 mg OD           | 22.2 (4.2-32.9)   | 256.8 (65.7-487.7)        | 200 mg OD          |
+| Severe HI               | 200 mg OD           | 9.4 (2.4-24.3)    | 130.6 (46.9-473.2)        | Not recommended    |
+| OD - once daily         | OD - once daily     | OD - once daily   | OD - once daily           | OD - once daily    |
+
+## Paediatric population
+
+Upon administration of pazopanib 225 mg/m 2  (as oral suspension) in paediatric patients, the pharmacokinetic parameters (Cmax, Tmax and AUC) were similar to those previously reported in adult patients treated with 800 mg pazopanib. Results indicated no marked difference in the clearance of pazopanib, normalised by body surface area, between children and adults.
+
+## 5.3 Preclinical safety data
+
+The preclinical safety profile of pazopanib was assessed in mice, rats, rabbits and monkeys. In repeat dose studies in rodents, effects in a variety of tissues (bone, teeth, nail beds, reproductive organs, haematological tissues, kidney and pancreas) appear related to the pharmacology of VEGFR inhibition and/or disruption of VEGF signalling pathways, with most effects occurring at plasma exposure levels below those observed in the clinic. Other observed effects include body weight loss, diarrhoea and/or morbidity that were either secondary to local gastrointestinal effects caused by high local mucosal medicinal product exposure (monkeys) or pharmacological effects (rodents). Proliferative hepatic lesions (eosinophilic foci and adenoma) were seen in female mice at exposures 2.5 times human exposure based on AUC.
+
+In juvenile toxicity studies, when pre-weaning rats were dosed from day 9 post partum through to day 14 post partum, pazopanib caused mortalities and abnormal organ growth/maturation in kidney, lung, liver and heart, at a dose approximately 0.1 times the clinical exposure based on AUC in adult humans. When post-weaning rats were dosed from day 21 post partum to day 62 post partum, toxicological findings were similar to adult rats at comparable exposures. Human paediatric patients
+
+<div style=\"page-break-after: always\"></div>
+
+are at increased risk for bone and teeth effects as compared to adults, as these changes, including inhibition of growth (shortened limbs), fragile bones and remodelling of teeth, were present in juvenile rats at ≥10 mg/kg/day (equal to approximately 0.1-0.2 times the clinical exposure based on AUC in adult humans) (see section 4.4).
+
+## Reproductive, fertility and teratogenic effects
+
+Pazopanib has been shown to be embryotoxic and teratogenic when administered to rats and rabbits at exposures more than 300-fold lower than the human exposure (based on AUC). Effects included reduced female fertility, increased pre- and post-implantation loss, early resorptions, embryo lethality, decreased foetal body weight and cardiovascular malformation. Decreased corpora lutea, increased cysts and ovarian atrophy have also been noted in rodents. In a rat male fertility study, there was no effect on mating or fertility, but decreased testicular and epididymal weights were noted with reductions in sperm production rates, sperm motility, and epididymal and testicular sperm concentrations observed at exposures 0.3 times human exposure based on AUC.
+
+## Genotoxicity
+
+Pazopanib did not cause genetic damage when tested in genotoxicity assays (Ames assay, human peripheral lymphocyte chromosome aberration assay and rat in vivo micronucleus). A synthetic intermediate in manufacture of pazopanib, which is also present in the final drug substance in low amounts, was not mutagenic in the Ames assay but genotoxic in the mouse lymphoma assay and in vivo mouse micronucleus assay.
+
+## Carcinogenicity
+
+In two-year carcinogenicity studies with pazopanib, there were increased numbers of liver adenomas noted in mice and duodenal adenocarcinomas noted in rats. Based on the rodent-specific pathogenesis and mechanism for these findings, they are not considered to represent an increased carcinogenic risk for patients taking pazopanib.
+
+## 6. PHARMACEUTICAL PARTICULARS
+
+## 6.1 List of excipients
+
+## Votrient 200 mg film-coated tablets
+
+Tablet core Magnesium stearate Microcrystalline cellulose Povidone (K30) Sodium starch glycolate
+
+Tablet coating Hypromellose Iron oxide red (E172) Macrogol 400 Polysorbate 80 Titanium dioxide (E171)
+
+<div style=\"page-break-after: always\"></div>
+
+## Votrient 400 mg film-coated tablets
+
+Tablet core Magnesium stearate Microcrystalline cellulose Povidone (K30) Sodium starch glycolate
+
+Tablet coating Hypromellose Macrogol 400 Polysorbate 80 Titanium dioxide (E171)
+
+## 6.2 Incompatibilities
+
+Not applicable.
+
+## 6.3 Shelf life
+
+3 years.
+
+## 6.4 Special precautions for storage
+
+This medicinal product does not require any special storage conditions.
+
+## 6.5 Nature and contents of container
+
+Votrient 200 mg film-coated tablets
+
+HDPE bottles with polypropylene child resistant closures containing either 30 or 90 tablets.
+
+Votrient 400 mg film-coated tablets
+
+HDPE bottles with polypropylene child resistant closures containing either 30 or 60 tablets.
+
+Not all pack sizes may be marketed.
+
+## 6.6 Special precautions for disposal
+
+No special requirements.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+
+<div style=\"page-break-after: always\"></div>
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+## Votrient 200 mg film-coated tablets
+
+EU/1/10/628/001
+
+EU/1/10/628/002
+
+## Votrient 400 mg film-coated tablets
+
+EU/1/10/628/003 EU/1/10/628/004
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 14 June 2010
+
+Date of latest renewal: 08 January 2018
+
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX II
+
+- A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+<div style=\"page-break-after: always\"></div>
+
+## A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+
+Name and address of the manufacturers responsible for batch release
+
+Lek Pharmaceuticals d.d. Verovškova 57 1526 Ljubljana Slovenia
+
+Novartis Pharmaceutical Manufacturing LLC Verovškova ulica 57 1000 Ljubljana Slovenia
+
+Glaxo Wellcome, S.A. Avda. Extremadura, 3 09400 Aranda De Duero, Burgos Spain
+
+Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
+
+Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+Medicinal product subject to restricted medical prescription (see Annex I: Summary of Product Characteristics, section 4.2).
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
+## · Periodic safety update reports (PSURs)
+
+The requirements for submission of PSURS for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+
+<div style=\"page-break-after: always\"></div>
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+## · Risk management plan (RMP)
+
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
+
+An updated RMP should be submitted:
+
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+
+If the submission of a PSUR and the update of a RMP coincide, they can be submitted at the same time.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX III
+
+## LABELLING AND PACKAGE LEAFLET
+
+<div style=\"page-break-after: always\"></div>
+
+## A. LABELLING
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON - 200 mg film-coated tablets
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Votrient 200 mg film-coated tablets pazopanib
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each film-coated tablet contains 200 mg pazopanib (as hydrochloride).
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Film-coated tablet
+
+- 30 film-coated tablets
+
+- 90 film-coated tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/10/628/001
+
+30 film-coated tablets
+
+EU/1/10/628/002
+
+90 film-coated tablets
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+votrient 200 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+
+BOTTLE LABEL - 200 mg film-coated tablets
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Votrient 200 mg film-coated tablets pazopanib
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each film-coated tablet contains 200 mg pazopanib (as hydrochloride).
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Film-coated tablet
+
+- 30 film-coated tablets
+
+- 90 film-coated tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Novartis Europharm Limited
+
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
+
+EU/1/10/628/001 30 film-coated tablets EU/1/10/628/002 90 film-coated tablets
+
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
+
+Lot
+
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
+
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
+
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON - 400 mg film-coated tablets
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Votrient 400 mg film-coated tablets pazopanib
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each film-coated tablet contains 400 mg pazopanib (as hydrochloride).
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Film-coated tablet
+
+- 30 film-coated tablets
+
+- 60 film-coated tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/10/628/003
+
+30 film-coated tablets
+
+EU/1/10/628/004
+
+60 film-coated tablets
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+votrient 400 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
+
+BOTTLE LABEL - 400 mg film-coated tablets
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Votrient 400 mg film-coated tablets pazopanib
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each film-coated tablet contains 400 mg pazopanib (as hydrochloride).
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Film-coated tablet
+
+- 30 film-coated tablets
+- 60 film-coated tablets
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Oral use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Novartis Europharm Limited
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/10/628/003 30 film-coated tablets EU/1/10/628/004 60 film-coated tablets
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+17. UNIQUE IDENTIFIER - 2D BARCODE
+
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+## B. PACKAGE LEAFLET
+
+<div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the patient
+
+## Votrient 200 mg film-coated tablets Votrient 400 mg film-coated tablets
+
+pazopanib
+
+## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
+
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor or pharmacist.
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Votrient is and what it is used for
+2. What you need to know before you take Votrient
+3. How to take Votrient
+4. Possible side effects
+5. How to store Votrient
+6. Contents of the pack and other information
+
+## 1. What Votrient is and what it is used for
+
+Votrient is a type of medicine called a protein kinase inhibitor. It works by preventing the activity of proteins that are involved in the growth and spread of cancer cells.
+
+## Votrient is used in adults to treat:
+
+- -kidney cancer that is advanced or has spread to other organs.
+- -certain forms of soft-tissue sarcoma, which is a type of cancer that affects the supportive tissues of the body. It can occur in muscles, blood vessels, fat tissue or other tissues that support, surround and protect the organs.
+
+## 2. What you need to know before you take Votrient
+
+## Do not take Votrient
+
+- -if you are allergic to pazopanib or any of the other ingredients of this medicine (listed in section 6).
+
+Check with your doctor if you think this applies to you.
+
+## Warnings and precautions
+
+Talk to your doctor before taking Votrient:
+
+- -if you have heart disease.
+- -if you have liver disease.
+- -if you have had heart failure or a heart attack.
+- -if you have had prior collapse of a lung.
+- -if you have had problems with bleeding, blood clots or narrowing of the arteries.
+
+<div style=\"page-break-after: always\"></div>
+
+- -if you have had stomach or bowel problems such as perforation (hole) or fistula (abnormal passages forming between parts of the intestine).
+- -if you have thyroid problems .
+- -if you have problems with your kidney function.
+- -if you have or have had an aneurysm (enlargement and weakening of a blood vessel wall) or a tear in a blood vessel wall.
+
+Tell your doctor if any of these apply to you. Your doctor will decide whether Votrient is suitable for you. You may need extra tests to check that your kidneys, heart and liver are working properly.
+
+## High blood pressure and Votrient
+
+Votrient can raise your blood pressure. Your blood pressure will be checked before you take Votrient and while you are taking it. If you have high blood pressure you will be treated with medicines to reduce it.
+
+- -Tell your doctor if you have high blood pressure.
+
+## If you are going to have an operation
+
+Your doctor will stop Votrient at least 7 days before your operation as it may affect wound healing. Your treatment will be restarted when the wound has adequately healed.
+
+## Conditions you need to look out for
+
+Votrient can make some conditions worse or cause serious side effects. You must look out for certain symptoms while you are taking Votrient to reduce the risk of any problems. See section 4.
+
+## Children and adolescents
+
+Votrient is not recommended for people aged under 18. It is not yet known how well it works in this age group. Moreover it should not be used in children younger than 2 years of age because of safety concerns.
+
+## Other medicines and Votrient
+
+Tell your doctor or pharmacist if you are taking, have recently taken, or might take any other medicines. This includes herbal medicines and other medicines you've bought without a prescription.
+
+Some medicines may affect how Votrient works or make it more likely that you'll have side effects. Votrient can also affect how some other medicines work. These include:
+
+- -clarithromycin, ketoconazole, itraconazole, rifamicin, telithromycin, voriconazzole (used to treat infection ).
+- -atazanavir, indinavir, nelfinavir, ritonavir, saquinavir (used to treat HIV ).
+- -nefazodone (used to treat depression ).
+- -simvastatin and possibly other statins (used to treat high cholesterol levels ).
+- -medicines that reduce stomach acid. The type of medicine that you are taking to reduce your stomach acid (e.g. proton pump inhibitor, H2 antagonists or antacids) may affect how Votrient is taken. Please consult your doctor or nurse for advice.
+
+Tell your doctor or pharmacist if you take any of these.
+
+## Votrient with food and drink
+
+Don't take Votrient with food , as it affects the way the medicine is absorbed. Take it at least two hours after a meal or one hour before a meal (see section 3).
+
+Do not drink grapefruit juice while you are being treated with Votrient as this may increase the chance of side effects.
+
+<div style=\"page-break-after: always\"></div>
+
+## Pregnancy, breast-feeding and fertility
+
+Votrient is not recommended if you are pregnant. The effect of Votrient during pregnancy is not known.
+
+- -Tell your doctor if you are pregnant or planning to get pregnant.
+- -Use a reliable method of contraception while you're taking Votrient, and at least for 2 weeks after, to prevent pregnancy.
+- -If you do become pregnant during treatment with Votrient, tell your doctor.
+
+Don't breast-feed while taking Votrient . It is not known whether the ingredients in Votrient pass into breast milk. Talk to your doctor about this.
+
+Male patients (including those who have had vasectomies) who have partners who are either pregnant or who could become pregnant (including those who use other methods of contraception) should use condoms during sexual intercourse while taking Votrient and for at least 2 weeks after the last dose.
+
+Fertility may be affected by treatment with Votrient. Talk to your doctor about this.
+
+## Driving and using machines
+
+Votrient can have side effects that may affect your ability to drive or use machines.
+
+- -Avoid driving or using machines if you feel dizzy, tired or weak, or if your energy levels are low.
+
+## Votrient contains sodium
+
+This medicine contains less than 1 mmol sodium (23 mg) per film-coated tablet, that is to say essentially 'sodium-free'.
+
+## 3. How to take Votrient
+
+Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
+
+## How much to take
+
+The usual dose is 800 mg taken once a day. The dose can be taken as 2 tablets of 400 mg or as 4 tablets of 200 mg. The dose of 800 mg once a day is the maximum dose per day. Your doctor may need to reduce your dose if you get side effects.
+
+## When to take
+
+Don't take Votrient with food. Take it at least two hours after a meal, or one hour before a meal. For example, you could take it two hours after breakfast or one hour before lunch. Take Votrient at about the same time each day.
+
+Swallow the tablets whole with water, one after the other. Do not break or crush the tablets as this affects the way the medicine is absorbed and may increase the chance of side effects.
+
+## If you take more Votrient than you should
+
+If you take too many tablets, contact a doctor or pharmacist for advice. If possible show them the pack, or this leaflet.
+
+## If you forget to take Votrient
+
+Do not take a double dose to make up for a forgotten dose. Just take your next dose at the usual time.
+
+## Don't stop Votrient without advice
+
+Take Votrient for as long as your doctor recommends. Don't stop unless your doctor advises you to.
+
+<div style=\"page-break-after: always\"></div>
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+## Possible serious side effects
+
+Swelling of the brain (reversible posterior leukoencephalopathy syndrome)
+
+Votrient can, on rare occasions, cause swelling of the brain, which may be life threatening. Symptoms include:
+
+- -loss of speech
+- -change of vision
+- -seizure (fits)
+- -confusion
+- -high blood pressure
+
+Stop taking Votrient and seek medical help immediately if you get any of these symptoms, or if you get headache accompanied with any of these symptoms.
+
+## Hypertensive crisis (sudden and severe rise in blood pressure)
+
+Votrient can on occasion cause a sudden and severe rise in blood pressure. This is known as a hypertensive crisis. Your doctor will monitor your blood pressure while you are taking Votrient. Signs and symptoms of a hypertensive crisis may include:
+
+- -severe chest pain
+- -severe headache
+- -blurred vision
+- -confusion
+- -nausea
+- -vomiting
+- -severe anxiety
+- -shortness of breath
+- -seizures (fits)
+- -fainting
+
+Stop taking Votrient and seek medical help immediately if you develop hypertensive crisis.
+
+## Heart conditions
+
+The risks of these problems may be higher for people with an existing heart problem, or who are taking other medicines. You will be checked for any heart problems while you are taking Votrient.
+
+## Cardiac dysfunction/heart failure, heart attack
+
+Votrient can affect how well your heart pumps or can increase the likelihood of having a heart attack.
+
+Signs and symptoms include:
+
+- -irregular or fast heartbeat
+- -rapid fluttering of your heart
+- -fainting
+- -chest pain or pressure
+- -pain in your arms, back, neck or jaw
+- -shortness of breath
+- -leg swelling
+
+Seek medical help immediately if you get any of these symptoms.
+
+## Changes in heart rhythm (QT prolongation)
+
+Votrient can affect heart rhythm which in some people can develop into a potentially serious heart condition known as torsade de pointes. This can result in a very fast heartbeat causing a sudden loss of consciousness.
+
+Tell your doctor if you notice any unusual changes in your heart beat , such as beating too fast or too slow.
+
+<div style=\"page-break-after: always\"></div>
+
+## Stroke
+
+Votrient can increase your likelihood of having a stroke. Signs and symptoms of stroke may include:
+
+- -numbness or weakness on one side of your body
+- -difficulty talking
+- -headache
+- -dizziness
+
+Seek medical help immediately if you get any of these symptoms.
+
+## Bleeding
+
+Votrient can cause severe bleeding in the digestive system (such as stomach, oesophagus, rectum or intestine), or the lungs, kidneys, mouth, vagina and brain, although this is uncommon. Symptoms include:
+
+- -passing blood in the stools or passing black stools
+- -passing blood in the urine
+- -stomach pain
+- -coughing or vomiting up blood
+
+Seek medical help immediately if you get any of these symptoms.
+
+## Perforation and fistula
+
+Votrient can cause a tear (perforation) in your stomach or intestinal wall or the development of an abnormal connection between two parts of your digestive tract (a fistula). Signs and symptoms may include:
+
+- -severe stomach pain
+- -nausea and/or vomiting
+- -fever
+- -development of a hole (perforation) in the stomach, intestine or bowel from which bloody or foul smelling pus is released
+
+Seek medical help immediately if you get any of these symptoms.
+
+## Liver problems
+
+Votrient can cause problems with your liver which may develop into serious conditions such as liver dysfunction and liver failure, which may be fatal. Your doctor will be checking your liver enzymes while you are taking Votrient. Signs that your liver may not be working properly may include:
+
+- -yellowing of your skin or the whites of your eyes (jaundice)
+- -dark urine
+- -tiredness
+- -nausea
+- -vomiting
+- -loss of appetite
+- -pain on the right side of your stomach area (abdomen)
+- -bruising easily
+
+Seek medical help immediately if you get any of these symptoms.
+
+## Blood clots
+
+Deep vein thrombosis (DVT) and pulmonary embolism
+
+Votrient may cause blood clots in your veins, especially in your legs (deep vein thrombosis or DVT), which may also travel to your lungs (pulmonary embolism). Signs and symptoms may include:
+
+- -sharp chest pain
+- -shortness of breath
+- -rapid breathing
+- -leg pain
+- -swelling of your arms and hands or legs and feet
+
+## Thrombotic microangiopathy (TMA)
+
+Votrient may cause blood clots in the small blood vessels in the kidneys and brain accompanied by a decrease in red blood cells and cells involved in clotting (thrombotic microangiopathy, TMA). Signs
+
+<div style=\"page-break-after: always\"></div>
+
+and symptoms may include:
+
+- -bruising easily
+- -high blood pressure
+- -fever
+- -confusion
+- -drowsiness
+- -seizures (fits)
+- -decrease in urine output
+
+Seek medical help immediately if you get any of these symptoms.
+
+## Tumour lysis syndrome
+
+Votrient can cause a fast breakdown of cancer cells resulting in tumour lysis syndrome, which in some people may be fatal. Symptoms may include irregular heartbeat, seizures (fits), confusion, muscle cramps or spasms, or decrease in urine output. Seek medical help immediately if you get any of these symptoms.
+
+## Infections
+
+Infections occurring while you take Votrient may possibly become serious. Symptoms of infections may include:
+
+- -fever
+- -flu-like symptoms such as cough, tiredness and body aches that do not go away
+- -shortness of breath and/or wheezing
+- -pain while urinating
+- -cuts, scrapes or wounds that are red, warm, swollen or painful
+
+Seek medical help immediately if you get any of these symptoms.
+
+## Lung inflammation
+
+Votrient can, on rare occasions, cause lung inflammation (interstitial lung disease, pneumonitis), which in some people can be fatal. Symptoms include shortness of breath or cough that will not go away. You will be checked for any lung problems while you are taking Votrient.
+
+Seek medical help immediately if you get any of these symptoms.
+
+## Thyroid problems
+
+Votrient can lower the amount of thyroid hormone produced in your body. This can result in weight increase and tiredness. You will be checked for thyroid hormone levels while you are taking Votrient. Tell your doctor if you notice significant weight gain or tiredness.
+
+## Blurry or impaired vision
+
+Votrient can cause separation or tear of the lining of the back part of the eye (retinal detachment or tear). This can result in blurry or impaired vision.
+
+Tell your doctor if you notice any change in your vision.
+
+Possible side effects (including possible serious side effects under the relevant frequency category).
+
+## Very common side effects ( may affect more than 1 in 10 people ):
+
+- -high blood pressure
+- -diarrhoea
+- -feeling or being sick (nausea or vomiting)
+- -stomach pain
+- -loss of appetite
+- -weight loss
+- -taste disturbance or loss of taste
+- -sore mouth
+- -headache
+- -tumour pain
+- -lack of energy, feeling weak or tired
+
+<div style=\"page-break-after: always\"></div>
+
+- -changes in hair colour
+- -unusual hair loss or thinning
+- -loss of skin pigment
+- -skin rash, possibly involving peeling of the skin
+- -redness and swelling of the palms of the hands or soles of the feet
+
+Tell your doctor or pharmacist if any of these side effects becomes troublesome.
+
+## Very common side effects that may show up in your blood or urine tests:
+
+- -increase in liver enzymes
+- -decrease in albumin in the blood
+- -protein in the urine
+- -decrease in the number of blood platelets (cells that help blood to clot)
+- -decrease in the number of white blood cells
+
+## Common side effects (may affect up to 1 in 10 people):
+
+- -indigestion, bloating, flatulence
+- -nose bleed
+- -dry mouth or mouth ulcers
+- -infections
+- -abnormal drowsiness
+- -difficulty sleeping
+- -chest pain, shortness of breath, leg pain, and swelling of the legs/feet. These could be signs of a blood clot in your body (thromboembolism). If the clot breaks off, it may travel to your lungs and this may be life threatening or even fatal.
+- -heart becomes less effective at pumping blood around the body (cardiac dysfunction)
+- -slow heart beat
+- -bleeding in the mouth, rectum or lung
+- -dizziness
+- -blurred vision
+- -hot flushes
+- -swelling caused by fluid of face, hands, ankles, feet or eyelids
+- -tingling, weakness or numbness of the hands, arms, legs or feet
+- -skin disorders, redness, itching, dry skin
+- -nail disorders
+- -burning, prickling, itching or tingling skin sensation
+- -sensation of coldness, with shivering
+- -excessive sweating
+- -dehydration
+- -muscle, joint, tendon or chest pain, muscle spasms
+- -hoarseness
+- -shortness of breath
+- -cough
+- -coughing up blood
+- -hiccups
+- -collapsed lung with air trapped in the space between the lung and chest, often causing shortness of breath (pneumothorax)
+
+Tell your doctor or pharmacist if any of these effects become troublesome.
+
+## Common side effects that may show up in your blood or urine tests:
+
+- -underactive thyroid gland
+- -abnormal liver function
+- -increase in bilirubin (a substance produced by the liver)
+- -increase in lipase (an enzyme involved in digestion
+- -increase in creatinine (a substance produced in muscles)
+- -changes in the levels of other different chemicals / enzymes in the blood. Your doctor will inform you of the results of the blood tests
+
+<div style=\"page-break-after: always\"></div>
+
+## Uncommon side effects (may affect up to 1 in 100 people):
+
+- -stroke
+- -temporary fall in blood supply to the brain (transient ischaemic attack)
+- -interruption of blood supply to part of the heart or heart attack (myocardial infarction)
+- -partial interruption of blood supply to part of the heart (myocardial ischaemia)
+- -blood clots accompanied by a decrease in red blood cells and cells involved in clotting (thrombotic microangiopathy, TMA). These may harm organs such as the brain and kidneys.
+- -increase in the number of red blood cells
+- -sudden shortness of breath, especially when accompanied with sharp pain in the chest and /or rapid breathing (pulmonary embolism)
+- -severe bleeding in the digestive system (such as stomach, oesophagus or intestine), or the kidneys, vagina and brain
+- -heart rhythm disturbance (QT prolongation)
+- -hole (perforation) in stomach or intestine
+- -abnormal passages forming between parts of the intestine (fistula)
+- -heavy or irregular menstrual periods
+- -sudden sharp increase in blood pressure (hypertensive crisis)
+- -inflammation of the pancreas (pancreatitis)
+- -liver inflamed, not working well or damaged
+- -yellowing of the skin or whites of the eyes (jaundice)
+- -inflammation of the lining of the abdominal cavity (peritonitis)
+- -runny nose
+- -rashes which may be itchy or inflamed (flat or raised spots or blisters)
+- -frequent bowel movements
+- -increased sensitivity of the skin to sunlight
+- -decreased feeling or sensitivity, especially in the skin
+- -skin wound which does not heal (skin ulcer)
+
+## Rare side effects (may affect up to 1 in 1,000 people):
+
+- -inflammation of the lung ( pneumonitis)
+- -an enlargement and weakening of a blood vessel wall or a tear in a blood vessel wall (aneurysms and artery dissections)
+
+Not known (frequency cannot be estimated from the available data):
+
+- -tumour lysis syndrome resulting from a fast breakdown of cancer cells
+- -liver failure
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor or pharmacist . This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Votrient
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date (EXP) which is stated on the bottle and the carton. The expiry date refers to the last day of that month.
+
+This medicine does not require any special storage conditions.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+<div style=\"page-break-after: always\"></div>
+
+## 6. Contents of the pack and other information
+
+## What Votrient contains
+
+- -The active substance is pazopanib (as hydrochloride). Each Votrient 200 mg film-coated tablet contains 200 mg pazopanib. Each Votrient 400 mg film-coated tablet contains 400 mg pazopanib.
+- -The other ingredients in the 200 mg and 400 mg tablets are: hypromellose, macrogol 400, magnesium stearate, microcrystalline cellulose, polysorbate 80, povidone (K30), sodium starch glycolate, titanium dioxide (E171). The 200 mg tablets also contain iron oxide red (E172).
+
+## What Votrient looks like and contents of the pack
+
+Votrient 200 mg film-coated tablets are capsule-shaped, pink with 'GS JT' marked on one side. They are supplied in bottles of 30 or 90 tablets.
+
+Votrient 400 mg film-coated tablets are capsule-shaped, white with 'GS UHL' marked on one side. They are supplied in bottles of 30 or 60 tablets.
+
+Not all pack sizes or tablet strengths may be available in your country.
+
+## Marketing Authorisation Holder
+
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+
+## Manufacturer
+
+Lek Pharmaceuticals d.d. Verovškova 57 1526 Ljubljana Slovenia
+
+Novartis Pharmaceutical Manufacturing LLC Verovškova ulica 57 1000 Ljubljana Slovenia
+
+Glaxo Wellcome, S.A. Avda. Extremadura, 3 09400 Aranda De Duero, Burgos Spain
+
+Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
+
+Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
+
+<div style=\"page-break-after: always\"></div>
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+
+## България
+
+Novartis Bulgaria EOOD
+
+Тел: +359 2 489 98 28
+
+## Česká republika
+
+Novartis s.r.o. Tel: +420 225 775 111
+
+## Danmark
+
+Novartis Healthcare A/S Tlf: +45 39 16 84 00
+
+## Deutschland
+
+Novartis Pharma GmbH Tel: +49 911 273 0
+
+## Eesti
+
+SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
+
+## Ελλάδα
+
+Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+
+## España
+
+Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
+
+## France
+
+Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
+
+## Hrvatska
+
+Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
+
+## Ireland
+
+Novartis Ireland Limited Tel: +353 1 260 12 55
+
+## Ísland
+
+Vistor hf.
+
+Sími: +354 535 7000
+
+## Italia
+
+Novartis Farma S.p.A.
+
+Tel: +39 02 96 54 1
+
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+
+## Magyarország
+
+Novartis Hungária Kft. Tel.: +36 1 457 65 00
+
+## Malta
+
+Novartis Pharma Services Inc. Tel: +356 2122 2872
+
+## Nederland
+
+Novartis Pharma B.V. Tel: +31 88 04 52 555
+
+## Norge
+
+Novartis Norge AS Tlf: +47 23 05 20 00
+
+## Österreich
+
+Novartis Pharma GmbH Tel: +43 1 86 6570
+
+## Polska
+
+Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
+
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
+
+## România
+
+Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
+
+## Slovenija
+
+Novartis Pharma Services Inc. Tel: +386 1 300 75 50
+
+## Slovenská republika
+
+Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
+
+## Suomi/Finland
+
+Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
+
+## Κύπρος
+
+Novartis Pharma Services Inc.
+
+Τηλ: +357 22 690 690
+
+<div style=\"page-break-after: always\"></div>
+
+## Latvija
+
+SIA Novartis Baltics
+
+Tel: +371 67 887 070
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00

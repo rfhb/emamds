@@ -1,0 +1,686 @@
+---
+document_datetime: 2023-09-21 20:15:15
+document_pages: 26
+document_pathfilename: www.ema.europa.eu/en/documents/variation-report/velmetia-h-c-862-ws-1898-epar-assessment-report-variation_en.pdf
+document_name: velmetia-h-c-862-ws-1898-epar-assessment-report-variation_en.pdf
+version: success
+processing_time: 26.0188126
+conversion_datetime: 2025-12-22 14:11:07.587754
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+<!-- image -->
+
+24 September 2020 EMA/603247/2020 Committee for Medicinal Products for Human Use (CHMP)
+
+## Assessment report
+
+| Ristfor   | sitagliptin / metformin hydrochloride   |
+|-----------|-----------------------------------------|
+| Efficib   | sitagliptin / metformin hydrochloride   |
+| Velmetia  | sitagliptin / metformin hydrochloride   |
+| Janumet   | sitagliptin / metformin hydrochloride   |
+
+Procedure No. EMEA/H/C/xxxx/WS/1898
+
+## Note
+
+Variation assessment report as adopted by the CHMP with all information of a commercially confidential nature deleted.
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Table of contents
+
+| 1. Background information on the procedure..............................................                                     | 3                                                                                                      |
+|------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| 2. Overall conclusion and impact on the benefit/risk balance.....................                                            | 3                                                                                                      |
+| 3. Recommendations...................................................................................                        | 5                                                                                                      |
+| Annex: Rapporteur's assessment comments on the type II variation .........                                                   | 7                                                                                                      |
+| 4. Introduction............................................................................................                  | 7                                                                                                      |
+| 4.1. Pharmacological Class...........................................................................................7       |                                                                                                        |
+| 4.2. Indication............................................................................................................7 |                                                                                                        |
+| 4.3. Scientific Background                                                                                                   | ...........................................................................................7           |
+| 4.3.1. Disease or Condition..........................................................................................7       |                                                                                                        |
+| 4.3.2. Current Therapies..............................................................................................7      |                                                                                                        |
+| 4.4. Overview of the Sita/Met FDC Phase 3 Pediatric Program                                                                  | ..........................................8                                                            |
+| 4.4.1. Pooling Strategy................................................................................................9     |                                                                                                        |
+| 4.4.2. Changes in Study Conduct..................................................................................9           |                                                                                                        |
+| 4.5. Regulatory Guidance and Advice                                                                                          | ............................................................................9                          |
+| 4.6. Good Clinical Practice                                                                                                  | ...........................................................................................9           |
+| 5. Overview of Biopharmaceutics................................................................                              | 9                                                                                                      |
+| 6. Overview of Clinical Pharmacology .........................................................                               | 9                                                                                                      |
+| 7. Overview of Efficacy..............................................................................                        | 10                                                                                                     |
+| 7.1. Efficacy Analyses and Statistical Methods..............................................................                 | 10                                                                                                     |
+| 7.2. Relevance and Key Features of the Study Population ..............................................                       | 11                                                                                                     |
+| 7.3. Baseline Demographics and Disease Characteristics ...............................................                       | 11                                                                                                     |
+| 7.4. Efficacy Results..................................................................................................      | 11                                                                                                     |
+| 7.4.1. Efficacy Results for the 2-Study Pool..................................................................               | 11                                                                                                     |
+| 7.4.2. Efficacy Results for Studies P170 and P289.........................................................                   | 13                                                                                                     |
+| Summary of Efficacy                                                                                                          | ................................................................................................. 14   |
+| Conclusion clinical efficacy .........................................................................................       | 15                                                                                                     |
+| 8. Clinical Safety aspects...........................................................................                        | 15                                                                                                     |
+| 8.1. Methods for Safety Analyses................................................................................             | 15                                                                                                     |
+| 8.2. Safety Results                                                                                                          | ................................................................................................... 16 |
+| 8.2.1. Disposition of Subjects.....................................................................................          | 16                                                                                                     |
+| 8.2.2. Exposure, Compliance, and Adherence with Study Medication                                                             | ............................... 18                                                                     |
+| 8.2.3. Summary of Adverse Events.............................................................................                | 18                                                                                                     |
+| 8.2.4. Laboratory, Vital Signs, and Other Observations Related to Safety                                                     | ........................ 23                                                                            |
+| 8.3. Postmarketing Summary.....................................................................................              | 24                                                                                                     |
+| Summary of Safety...................................................................................................         | 24                                                                                                     |
+| Conclusion of Safety Results                                                                                                 | ...................................................................................... 25              |
+| 9. Changes to the Product Information                                                                                        | ..................................................... 26                                               |
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. Background information on the procedure
+
+Pursuant to Article 16 of Commission Regulation (EC) No 1234/2008, Merck Sharp &amp; Dohme B.V. submitted to the European Medicines Agency on 10 July 2020 an application for a variation following a worksharing procedure according to Article 20 of Commission Regulation (EC) No 1234/2008.
+
+The following changes were proposed:
+
+| Variation requested   | Variation requested                                                                                               | Type    | Annexes affected     |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------|---------|----------------------|
+| C.I.4                 | C.I.4 - Change(s) in the SPC, Labelling or PL due to new quality, preclinical, clinical or pharmacovigilance data | Type II | I, II, IIIA and IIIB |
+
+Update of the SmPC sections 4.2, 4.8, 5.1 and 5.2, to include data from the pooled analysis of paediatric studies P170 (sitagliptin/metformin) and P289 (sitagliptin/metformin extended release). The package leaflet is revised accordingly, and update of the product information is performed to comply with QRD Version 10.1.
+
+The requested worksharing procedure proposed amendments to the Summary of Product Characteristics, Annex II, Labelling and Package Leaflet.
+
+## 2. Overall conclusion and impact on the benefit/risk balance
+
+Sitagliptin is a selective DPP-4 inhibitor. DPP-4 inhibitors improve glycemic control by preventing the enzymatic degradation and inactivation of GLP-1 and GIP, the major incretins involved in glucose homeostasis. Metformin is a biguanide that lowers glucose concentrations by decreasing hepatic glucose output (through inhibition of gluconeogenesis and glycogenolysis) and increasing insulin sensitivity in the liver and in muscle.
+
+Insulin and liraglutide injections are, at this time, the only antihyperglycaemic agents approved for treatment of T2DM in pediatric patients. Studies P170 and P289 evaluated the efficacy and safety of sitagliptin added on to metformin (as the Sita/Met IR and Sita/Met XR FDCs) as an alternative oral treatment option for pediatric patients with T2DM. Studies P170 and P289 were similarly designed, Phase 3, randomized, placebo -controlled, parallel -group studies of sitagliptin added to ongoing metformin therapy. In Study P170, sitagliptin was added on to metformin IR (±insulin) as the Sita/Met IR FDC; in Study P289, sitagliptin was added on to metformin XR (±insulin) as the Sita/Met XR FDC.
+
+Data summarized in this clinical overview are from Studies P170 and P289 individually and from a pool of their results combined.
+
+No indication is sought for the Sita/Met IR FDC or the Sita/Met XR FDC in pediatric patients with T2DM. However, to reflect the data from these two studies, the MAH proposes changes in the text of the SmPC.
+
+## Clinical pharmacology
+
+The pharmacokinetics of sitagliptin (single dose of 50 mg, 100 mg or 200 mg) were investigated in paediatric patients (10 to 17 years of age) with type 2 diabetes. In this population, the dose adjusted AUC of sitagliptin in plasma was approximately 18 % lower compared to adult patients with type 2 diabetes for a 100 mg dose.
+
+<div style=\"page-break-after: always\"></div>
+
+## Characteristics
+
+The populations evaluated in Studies P170 and P289 are representative of the pediatric population with T2DM. The mean age was 14.4 years, 44.5% of subjects were in the younger age category (≥10 and &lt;15 years), and 65.9% of the subjects were female. At baseline, the mean A1C was 8.0% and the mean BMI was 30.9 kg/m 2 . The dose of background metformin was &gt;1500 mg/day for 71.8% of subjects and 15.0% of subjects were on background insulin therapy A1C at Week 20 and Week 54 In the 2-study pool.
+
+## Benefits
+
+In the 2-study pool, the success criterion for superiority of A1C reduction in the Sita/Met FDC group over the Metformin group at Week 20 was met in the analysis addressing the Treatment Effect estimand but was not met in the analysis addressing the Treatment Policy estimand. In both groups, earlier improvements in A1C were no longer observed at Week 54.
+
+In addition, the observed mean changes in A1C at Week 20 and Week 54 were inconsistent between Study P170 and Study P289. In Study P170, the observed mean changes from baseline in A1C at Week 20 and Week 54 were greater in the Sita/Met IR FDC group compared to the Metformin IR group in both the Treatment Effect FAS and the Treatment Policy FAS. However, in Study P289, the observed mean changes from baseline in A1C at Week 20 and Week 54 were not greater in the Sita/Met XR FDC group compared to the Metformin XR group in both the Treatment Effect FAS and the Treatment Policy FAS.
+
+## Risks
+
+There were 220 randomized and treated subjects in the 2-study pool (107 in the Sita/Met FDC group and 113 in the Metformin group).
+
+## Adverse events overall
+
+In the 2-study pool, the incidences of AEs overall, drug-related AEs, SAEs, and AEs leading to treatment discontinuation were generally similar in the Sita/Met FDC and Metformin groups through Week 20.
+
+## Serious adverse events
+
+In the 2-study pool, the incidences of SAEs were similar in the Sita/Met FDC and Metformin groups through Week 20 and Week 54.
+
+One death, in the Sita/Met FDC group, was reported in the 2-study pool 122 days after the last dose of study medication.
+
+## Adverse events
+
+In the 2-study pool, the incidences of specific AEs were generally similar in the Sita/Met FDC and Metformin groups through Week 20 and Week 54. Relative to the Metformin group, the incidence of blood creatine phosphokinase increased was higher, and the incidence of headache was lower in the Sita/Met FDC group. For both AEs, results through Week 54 were consistent with those through Week 20.
+
+<div style=\"page-break-after: always\"></div>
+
+However, through Week 54, there were no specific AEs for which the 95% CIs for the between-group differences excluded 0.
+
+## Hypoglycaemia
+
+In the 2-study pool in subjects not on background insulin therapy , symptomatic, asymptomatic, and documented hypoglycemia for both blood glucose categories (≤70 mg/dL [≤3.9 mmol/L] and &lt;54 mg/dL [&lt;3.0 mmol/L]) generally occurred more com monly in the Sita/Met FDC group than in the Metformin group. The incidences of severe hypoglycemia were low (≤3 subjects per group) and similar in the 2 groups.
+
+In the 2-study pool in subjects on background insulin therapy , symptomatic, asymptomatic, and documented hypoglycemia for both blood glucose categories (≤70 mg/dL [≤3.9 mmol/L] and &lt;54 mg/dL [&lt;3.0 mmol/L]) generally occurred more commonly in the Sita/Met FDC group than in the Metformin group through Week 20. Only 1 subject in each group had severe hypoglycemia through Weeks 20 and 54.
+
+## Benefit/risk balance
+
+Efficacy of treatment with sitagliptin added on to metformin (IR or XR) in pediatric subjects with T2DM was inconsistent between the 2 studies after 20 weeks and absent after 54 weeks.
+
+Safety for 54 weeks was generally similar to that in adults. However, in patients with and without insulin, sitagliptin was associated with an increased risk of hypoglycaemia.
+
+The insufficient efficacy is in line with data from a study using sitagliptin monotherapy in paediatric patients (10 to 17 years of age) with type 2 diabetes. Treatment with sitagliptin 100 mg did not provide significant improvement in HbA1c at 20 weeks. The reduction in HbA1c in patients treated with sitagliptin was 0.0% compared to 0.2% in patients treated with placebo, a difference of -0.2% (95% CI: -0.7, 0.3) (SmPC Januvia).
+
+Therefore, sitagliptin should not be used in children and adolescents 10 to 17 years of age because of insufficient efficacy. This is now stated in the SmPC. The increased risk of hypoglycaemia should be added to the text of the SmPC. In addition, several other changes in the text were necessary (see SmPC).
+
+The information with respect to the results of Studies P170 and P289 is also relevant for the SmPC of the monoproduct sitagliptin. This information was considered not warranted to be added to the SmPC of the monoproduct as already sufficiently described.
+
+An explanation for the low efficacy in paediatric patients is not clear, but may be related to the lower exposure (approximately 18% lower dose-adjusted AUC0-∞ after single doses of sitagliptin) in paediatric individuals compared to adults.
+
+The benefit-risk balance of Efficib, Janumet, Velmetia, Ristfor, remains positive in adults.
+
+## 3. Recommendations
+
+Based on the review of the submitted data, this application regarding the following change:
+
+<div style=\"page-break-after: always\"></div>
+
+| Variation requested   | Variation requested                                                                                               | Type    | Annexes affected     |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------|---------|----------------------|
+| C.I.4                 | C.I.4 - Change(s) in the SPC, Labelling or PL due to new quality, preclinical, clinical or pharmacovigilance data | Type II | I, II, IIIA and IIIB |
+
+Update of the SmPC sections 4.2, 4.8, 5.1 and 5.2, to include data from the pooled analysis of paediatric studies P170 (sitagliptin/metformin) and P289 (sitagliptin/metformin extended release). The package leaflet is revised accordingly, and update of the product information is performed to comply with QRD Version 10.1.
+
+is recommended for approval.
+
+<div style=\"page-break-after: always\"></div>
+
+## Annex: Rapporteur's assessment comments on the type II variation
+
+## 4. Introduction
+
+This clinical overview presents efficacy and safety results for MK-0431A (Sita/Met IR FDC) and MK-0431A XR (Sita/Met XR FDC) from 2 Phase 3 studies (P170 and P289) conducted in pediatric subjects (10 to 17 years old) with T2DM. Data summarized in this clinical overview are from Studies P170 and P289 individually and from a pool of their results combined (hereafter referred to as the 2-study pool). Additionally, this clinical overview references results from 2 Phase 1 studies (P081 and P296). Study P081 assessed the PK, PD, safety, and tolerability of sitagliptin in pediatric subjects with T2DM. Study P296 assessed the PK, safety, tolerability, and swallowability of the Sita/Met XR FDC in pediatric subjects with T2DM.
+
+## 4.1. Pharmacological Class
+
+Sitagliptin is a selective DPP-4 inhibitor. DPP-4 inhibitors improve glycemic control by preventing the enzymatic degradation and inactivation of GLP-1 and GIP, the major incretins involved in glucose homeostasis. These hormones lower glucose levels through enhancement of insulin biosynthesis and release when blood glucose levels are normal or elevated, and through suppression of glucagon. Metformin is a biguanide that lowers glucose concentrations by decreasing hepatic glucose output (through inhibition of gluconeogenesis and glycogenolysis) and increasing insulin sensitivity in the liver and in muscle. The complementary mechanisms of action through which sitagliptin and metformin lower glucose concentrations suggest that the combined use of these AHAs in pediatric patients with T2DM could improve glycemic control in this population.
+
+## 4.2. Indication
+
+No indication is sought for the Sita/Met IR FDC or the Sita/Met XR FDC in pediatric patients with T2DM.
+
+## 4.3. Scientific Background
+
+## 4.3.1. Disease or Condition
+
+The incidence and prevalence of T2DM in the pediatric population are increasing worldwide [Ref. 5.4: 04XV7S]. In youths, T2DM is characterized by a rapid and progressive decrease in insulin secretion, progressive increase in insulin resistance, overproduction of hepatic glucose, and excessive levels of glucagon [Ref. 5.4: 03QG4T, 03QDJM, 03PX9Y, 03QG39, 03QG4W], leading to increased blood glucose levels. In pediatric patients, as in adults, blood glucose levels influence the development and progression of microvascular complications, and likely macrovascular complications [Ref. 5.4: 03RJSK, 03QG50]. Given the substantial lifelong cumulative exposure to hyperglycemia for this population, the availability of therapies with sustained efficacy is necessary.
+
+## 4.3.2. Current Therapies
+
+Metformin i s the only broadly approved oral AHA for treatment of T2DM in pediatric patients [Ref. 5.4: 03QTB3, 03RT49, 03QTJH]. Metformin is initially effective in lowering A1C [Ref. 5.4: 03QTH2], but studies suggest that approximately 50% of pediatric patients need an additional AHA within a year of
+
+<div style=\"page-break-after: always\"></div>
+
+diagnosis [Ref. 5.4: 03RTF0]. Insulin and liraglutide are, at this time, the only other AHAs approved for treatment of T2DM in pediatric patients. However, the parenteral administration of insulin and liraglutide, as well as safety and tolerability issues including hypoglycemia for insulin and GI side effects for liraglutide, may reduce patient compliance with these AHAs and consequently limit pediatric patients from achieving adequate glycemic control. Sitagliptin improves glycemic control and is generally well tolerated in adults with T2DM. Based on its mechanism of action and the similar pathophysiology underlying T2DM in adult and pediatric patients, the efficacy and safety profiles of sitagliptin in these populations were expected to be similar. Studies P170 and P289 evaluated the efficacy and safety of sitagliptin added on to metformin (as the Sita/Met IR and Sita/Met XR FDCs) as an alternative oral treatment option for pediatric patients with T2DM.
+
+## 4.4. Overview of the Sita/Met FDC Phase 3 Pediatric Program
+
+Studies P170 and P289 were similarly designed, Phase 3, randomized, placebo -controlled, parallel -group studies of sitagliptin added to ongoing metformin therapy. In Study P170, sitagliptin was added on to metformin IR (±insulin) as the Sita/Met IR FDC; in Study P289, sitagliptin was added on to metformin XR (±insulin) as the Sita/Met XR FDC. In both studies, subjects who met predefined glycemic thresholds during the 54 -week treatment period were to initiate insulin therapy or titrate the dose of their background insulin therapy (glycemic rescue). Study P170 had a 20-week base study and a 34-week extension study. Study P289 had a 20-week Phase A and a 34-week Phase B. The extension study of Study P170 was added approximately 3 years after the base study began so that results from Study P170 could be pooled with those from Study P289. Subjects who completed the base study before the extension study was available were not eligible to enter the extension study. Additional details on the designs of Studies P170 and P289 are in [ Table 2.5- Type2DM0431A: 1 ] and the study protocols.
+
+Table 2.5-Type2DM0431A: 1 Overview of the Sita/Met FDC Phase 3 Pediatric Development Program
+
+| Study Nunber (Status) [CTD Location] NumberofStudy Sites (Countries)                                                                                                                                                            | Design                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Number of Randomized and Treated Subjects by Group                                                                                                                                                                              | StudyPopulation                                                                                                                                                                                                                                                                                                                                                                                                                                        | Primary Efficacy Endpoint/Results                                                                                                                                                                                               |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| MK-0431A-170 (completed) [Ref. 5.3.5.1: P170MK0431A] 100 Sites (25 countries)                                                                                                                                                   | Multicenter, randomized, double-blind, parallel-groupstudythatcomparedthe efficacy and safety of the addition of sitagliptin (as the Sita/Met IR FDC) with theadditionofplacebotometforminIR (±insulin) in pediatric subjects (10 to17 years old) with T2DM and inadequate glycemic control. The 54-week treatment period consisted of a 20-week base study and a 34-week extensionstudy.Subjectswhocompleted the base study before the extension study was available (N=43) were not eligible to enter the extension study. | Base Study: Sita/Met IR FDC N=62 Metformin IR N=62 Extension Study: Sita/MetIRFDC N=28 Metformin IR N=30                                                                                                                        | Base Study Population Gender:43malesand81females Mean age (years): 14.1 Percentage ≥10 and <15 years old: 53.2 Percentage ≥15 and <18 years old: 46.8 Mean A1C (%):8.1 Mean BMI (kg/m2): 31.1 Subjects on background insulin (N): 16 Subset Who Entered the Extension Study: Gender:23males and35females Mean age (years): 14.3 Percentage ≥10 and <15 years old: 53.4 Percentage ≥15 and <18 years old: 46.6 Mean A1C (%): 7.9 Mean BMI (kg/m2): 31.8 | Change from baseline in A1C atWeek20. The observed mean (SD) reduction from baseline inA1C atWeek20was greater in the Sita/Met IR FDC group (-0.90 [1.34]) compared with the Metformin IR group (-0.33 [1.53]).                 |
+| MK-0431A-289 (completed) [Ref. 5.3.5.1: P289MK0431A] 139 Sites (31 countries)                                                                                                                                                   | Multicenter,randomized, double-blind, parallel-group study that compared the efficacy and safety of the addition of sitagliptin (as theSita/Met XRFDC) with the addition of placebo to metformin XR (±insulin) in pediatric subjects (10 to 17 years old) with T2DM and inadequate glycemic control. The54-weektreatmentperiodconsistedof a 20-weekPhaseA anda34-weekPhaseB.                                                                                                                                                 | Sita/Met XR FDC: N=45 Metformin XR N=51                                                                                                                                                                                         | Subjects on background insulin (N): 9 Gender:32males and64females Mean age (years): 14.8 Percentage ≥10 and <15 years old: 33.3 Percentage ≥15 and <18 years old: 66.7 Mean A1C (%): 7.9 Mean BMI (kg/m2): 30.6 Subjects on background insulin (N): 17                                                                                                                                                                                                 | Change from baseline in A1C at Week 20. The observed mean (SD) reductionfrom baseline in A1C at Week 20 was smaller in the Sita/Met XR FDC group (-0.19 [1.40]) compared with theMetforminXR group (-0.54 [1.30]).              |
+| A1C=hemoglobin A1c;BMI=body massindex;CTD=common technical document;FDC=fixed-dose combination;IR=immediate-release;Met=metformin; SD=standard deviation; Sita=sitagliptin; T2DM=type 2 diabetes mellitus, XR=extended-release. | A1C=hemoglobin A1c;BMI=body massindex;CTD=common technical document;FDC=fixed-dose combination;IR=immediate-release;Met=metformin; SD=standard deviation; Sita=sitagliptin; T2DM=type 2 diabetes mellitus, XR=extended-release.                                                                                                                                                                                                                                                                                              | A1C=hemoglobin A1c;BMI=body massindex;CTD=common technical document;FDC=fixed-dose combination;IR=immediate-release;Met=metformin; SD=standard deviation; Sita=sitagliptin; T2DM=type 2 diabetes mellitus, XR=extended-release. | A1C=hemoglobin A1c;BMI=body massindex;CTD=common technical document;FDC=fixed-dose combination;IR=immediate-release;Met=metformin; SD=standard deviation; Sita=sitagliptin; T2DM=type 2 diabetes mellitus, XR=extended-release.                                                                                                                                                                                                                        | A1C=hemoglobin A1c;BMI=body massindex;CTD=common technical document;FDC=fixed-dose combination;IR=immediate-release;Met=metformin; SD=standard deviation; Sita=sitagliptin; T2DM=type 2 diabetes mellitus, XR=extended-release. |
+
+<div style=\"page-break-after: always\"></div>
+
+## 4.4.1. Pooling Strategy
+
+Data from Studies P170 and P289 were pooled based on their similar designs, entry criteria, and visit schedules, with each study having efficacy and safety assessments at Week 20 (primary time point) and Week 54. For Week 20 objectives, data from the base study of Study P170 and from Phase A of Study P289 were pooled. For Week 54 objectives, data from the base + extension studies of Study P170 and from Phases A + B of Study P289 were pooled. In the 2-study pool, subjects randomized to the addition of sitagliptin to metformin IR or XR (as the Sita/Met IR or Sita/Met XR FDC) constitute the 'Sita/Met FDC' group and subjects randomized to the addition of placebo to metformin IR or XR constitute the 'Metformin' group.
+
+## 4.4.2. Changes in Study Conduct
+
+During the time from first subject screened to the last subject's last visit (approximately 8 years in Study P170 and 6 years in Study P289), each of these Phase 3 protocols was amended multiple times, mainly to address input from health authorities or for country-specific requests. For Study P170, this duration included subject participation in the 34-week extension study that was added by way of a protocol am endment [Ref. 5.3.5.1: P170MK0431A: 16.1.1.4]. Key changes for each amendment are listed in [Ref. 5.3.5.1: P170MK0431A: Table 92] for Study P170 and [Ref. 5.3.5.1: P289MK0431A: Table 9 -2] for Study P289.
+
+## 4.5. Regulatory Guidance and Advice
+
+The design and conduct of Studies P170 and P289 were consistent with regulatory guidance. Both studies were US FDA postmarketing requirements. The European Medicines Agency waived the PIP requirement to study MK-0431A in the pediatric population. MK-0431A XR is not registered in the EU and therefore not subject to a PIP requirement.
+
+## 4.6. Good Clinical Practice
+
+Studies P170 and P289 were conducted in accordance with current standard research approaches with regard to the design, conduct, and analysis of such studies, including the archiving of essential documents. The studies were conducted following appropriate Good Clinical Practice standards and considerations for the ethical treatment of human participants that were in place at the time the studies were performed.
+
+## 5. Overview of Biopharmaceutics
+
+All dose strengths of the Sita/Met IR and Sita/Met XR FDCs studied in pediatric subjects were previously evaluated in adults. Therefore, no new biopharmaceutics data are provided in this submission.
+
+## 6. Overview of Clinical Pharmacology
+
+One clinical pharmacology study of sitagliptin (Study P081) was conducted in pediatric subjects. Study P081 was a randomized, double-blind, placebo-controlled, multiple-panel, single-dose PK study of sitagliptin (50 mg, 100 mg, and 200 mg) in 35 pediatric subjects (10 to 17 y ears old) with T2DM [Ref. 5.3.3.2: P081]. Results from this study show that, relative to adults with T2DM (data from Study P005), pediatric subjects with T2DM have an approximately 18% lower dose-adjusted AUC0∞ after single doses of sitagliptin when pooling across the 3 doses in Study P081 versus pooling across the 2 doses (25 mg and 200 mg) in Study P005. The PK/PD relationship between sitagliptin plasma concentration and DPP-4
+
+<div style=\"page-break-after: always\"></div>
+
+inhibition was similar in pediatric and adult subjects with T2DM. Any modest differences in the extent of DPP-4 inhibition at 100 mg, that would be attributable to the slight differences in plasma sitagliptin concentrations in pediatric subjects, were not deemed to be clinically meaningful, given the relatively flat dose response in A1C change from baseline observed between 50 mg and 100 mg per day of sitagliptin in adult subjects with T2DM [Ref. 5.4: 03QSXL, 05F3HZ]. Therefore, the 100 mg/day dose of sitagliptin was chosen for evaluation in the Phase 3 pediatric program. Additional details on the design and results for Study P081 are available in the CSR [Ref. 5.3.3.2: P081]. Additionally, based on PK, safety, tolerability, and swallowability data from a Phase 1 study of the Sita/Met XR FDC in pediatric subjects with T2DM (Study P296), a daily dose of up to 100 mg/2000 mg of the Sita/Met XR FDC was determined to be appropriate in the sitagliptin Phase 3 pediatric program. Additional details on the design and results for Study P296 are available in the CSR [Ref. 5.3.3.2: P296].
+
+## 7. Overview of Efficacy
+
+## 7.1. Efficacy Analyses and Statistical Methods
+
+The glycemic efficacy of sitagliptin added on to metformin (as Sita/Met IR or Sita/Met XR FDC) was evaluated in the 2-study pool through analyses of A1C (primary endpoint), FPG, the proportions of subjects with A1C &lt;7.0% (53 mmol/mol) and &lt;6.5% (48 mmol/mol), and the proportions of subjects who received glycemic rescue therapy. The population for efficacy analyses was the FAS. The FAS for Week 20 efficacy analyses included all randomized subjects who received at least 1 dose of study medication in the base study of Study P170 or Phase A of Study P289. The population for Week 54 efficacy analyses was the subset of the FAS subjects who entered the extension study of Study P170 or Phase B of Study P289. Within the FAS, the data included in analyses of the primary endpoint differed, depending on the estimand being addressed. Analyses addressing the Treatment Effect estimand (primary estimand) excluded data after the last dose of study medication (plus a 5-day offset) and data after initiation of glycemic rescue therapy. Analyses addressing the Treatment Policy estimand (supplemental estimand) included all available data relative to the analysis timepoint regardless of whether the subject was still taking study medication or glycemic rescue therapy was initiated. Glycemic rescue was defined as ≥14 days of sustained insulin therapy following initiation of insulin or following a ≥15% increase in the dose of background insulin relative to baseline. Unless othe rwise noted, efficacy results described in this clinical overview for the 2-study pool address the Treatment Effect estimand. In the 2-study pool, a cLDA model was used in analyses addressing the Treatment Effect estimand. A supplemental analysis of A1C change from baseline addressing the Treatment Policy estimand used an ANCOVA model with the RTB approach for missing data imputation. The RTB approach was used in lieu of the RD approach because the prespecified minimum required number of RD subjects for performing the RD approach was not met [Table 5.3.5.3.2 -Type2DM0431A: 22]. Results for efficacy endpoints (changes over time in A1C and FPG, the proportions of subjects meeting A1C goals, and the proportions of subjects initiating glycemic rescue therapy) in Studies P170 and P289 individually were summarized using descriptive statistics only. For both studies, the populations for efficacy assessments were consistent with those described above for the 2-study pool. A1C results for these studies were summarized in the Treatment Effect and Treatment Policy FAS. Unless otherwise noted, efficacy results described in this clinical overview for Studies P170 and P289 are based on the Treatment Effect FAS. For the 2-study pool and the individual studies, the statistical methodology for analyses of efficacy endpoints are provided in the Study P170 base study and extension study SAPs [Ref. 5.3.5.1: P170MK0431A: 16.1.9.1] and the Study P289 SAP [Ref. 5.3.5.1: P289MK0431A: 16.1.9.1]. Changes and clarifications to analyses prespecified in the protocol SAPs before the database locks are described in the Summary of Changes to the P170 and P289 SAPs [Ref. 5.3.5.1: P170MK0431A: 16.1.9.2] [Ref. 5.3.5.1: P289MK0431A: 16.1.9.2].
+
+<div style=\"page-break-after: always\"></div>
+
+## 7.2. Relevance and Key Features of the Study Population
+
+The results from the 2-study pool and Studies P170 and P289 individually provide a comprehensive evaluation of the safety and efficacy of the Sita/Met IR and XR FDCs in pediatric subjects with T2DM. Two hundred twenty subjects were randomized and treated in Studies P170 and P289 combined. Enrollment in each of these studies occurred globally, including subjects from North America, Europe, Latin America, and Asia. The populations in these studies had adequate representation of male and female subjects and subjects across different age categories (≥10 and &lt;15 years and ≥15 and &lt;18 years). Disease criteria for entry into these studies were generally consistent with scientific society guidelines for diagnosis and treatment of T2DM in pediatric patients.
+
+## 7.3. Baseline Demographics and Disease Characteristics
+
+In the 2-study pool (AST population), baseline demographics and disease characteristics were generally comparable between the Sita/Met FDC and Metformin groups [Sec. 2.7.3 -Type2DM0431A: 3.1]. The mean age was 14.4 years, 44.5% of subjects were in the younger age category (≥10 and &lt;15 years), and 65.9% of the subjects were female. At baseline, the mean A1C was 8.0% and the mean BMI was 30.9 kg/m 2 . The dose of background metformin was &gt;1500 mg/day for 71.8% of subjects and 15.0% of subjects were on background insulin therapy [Table 5.3.5.3.2 -Type2DM0431A: 1, 4]. Subjects in the 2 -study pool had medical disorders (eg, obesity, acanthosis nigricans) and were being treated for comorbidities (eg, hyperten sion and dyslipidemia) commonly associated with T2DM [Table 5.3.5.3.2 -Type2DM0431A: 6] through [Table 5.3.5.3.2 -Type2DM0431A: 9]. Baseline demographics and disease characteristics in the pooled subset of subjects who entered the extension study of Study P170 or Phase B of Study P289 [Table 5.3.5.3.2 -Type2DM0431A: 2, 5] were generally consistent with those of the 2 -study pool AST population. Baseline demographics and disease characteristics for subjects in Studies P170 [Ref. 5.3.5.1: P170MK0431A: 10.4] and P289 [Ref. 5.3.5.1: P289MK0431A: 10.4] individually were generally consistent with those of the 2-study pool AST population.
+
+## 7.4. Efficacy Results
+
+## 7.4.1. Efficacy Results for the 2-Study Pool
+
+A1C at Week 20 and Week 54 In the 2-study pool, the success criterion for superiority of A1C reduction in the Sita/Met FDC group over the Metformin group at Week 20 was met in the analysis addressing the Treatment Effect estimand (p=0.018) [Table 2.5 -Type2DM0431A: 2]. Improvements from baseline in A1C in the Sita/Met FDC group compared with the Metformin group were observed at Week 6 and generally persisted through Week 20 [Figure 2.5 -Type2DM0431A: 1]. The success criterion for superiority of A1C reduction in the Sita/Met FDC group over the Metformin group at Week 20 was not met in the analysis addressing the Treatment Policy estimand (p=0.087) [Table 5.3.5.3.2 -Type2DM0431A: 23]. At Week 20, the between-group differences for the Treatment Effect and Treatment Policy estimands were directionally similar, favoring the Sita/Met F DC group over the Metformin group [Table 2.5 -Type2DM0431A: 2] [Table 5.3.5.3.2Type2DM0431A: 23]. Any apparent improvements from baseline in A1C observed at Week 20 were no longer observed at Week 54 in both groups in analyses addressing the Treatment Effe ct [Figure 2.7.3Type2DM0431A: 2] [Table 2.7.3 -Type2DM0431A: 7] and Treatment Policy [Table 5.3.5.3.2 -Type2DM0431A: 31] estimands.
+
+Secondary Efficacy Endpoints at Week 20 and Week 54 In the 2-study pool, no meaningful improvements in secondary efficacy endpoints were observed in the Sita/Met FDC group, compared with the Metformin group, at Week 20 or Week 54:
+
+- Changes from baseline in FPG were not notably different between the Sita/Met FDC and Metformin groups at Week 20 [Table 2.7.3 -Type2DM0431A: 8] and Week 54 [Table 2.7.3 -Type2DM0431A: 9].
+
+<div style=\"page-break-after: always\"></div>
+
+- The estimated proportion of subjects with A1C &lt;7.0% (53 mmol/mol) at Week 20 was greater in the Sita/Met FDC group than in the Metformin group [Table 2.7.3 -Type2DM0431A: 10]. Results for this endpoint at Week 54 were not notably different between the 2 groups [Table 2.7.3Type2DM0431A: 11].
+- The estimated proportion of subjects who initiated glycemic rescue therapy was lower in the Sita/Met FDC group than in the Metformin group through Week 20 [Table 2.7.3 - Type2DM0431A: 12] [Figure 5.3.5.3.2 -Type2DM0431A: 5]. Results through Week 54 were consistent with those observed through Week 20 [Table 5.3.5.3.2 -Type2DM0431A: 42] [Figure 5.3.5.3.2 -Type2DM0431A: 6].
+
+Table 2.5-Type2DM0431A: 2 Constrained Longitudinal Data Analysis of Change from Baseline in A1C (%) at Week 20 Treatment Effect FAS P170+P289
+
+|                                        | Baseline                               | Baseline                               | Week 20                                | Week 20                                | ChangefromBaseline                     | ChangefromBaseline                     | ChangefromBaseline                     |
+|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
+| Treatment                              | N                                      | Mean (SD)                              | N                                      | Mean (SD)                              | N                                      | Mean (SD)                              | LS Mean (95% CI)t                      |
+| Sita/Met FDC                           | 107                                    | 7.96 (1.11)                            | 91                                     | 7.29 (1.45)                            | 107                                    | -0.60 (1.40)                           | -0.58 (-0.94,-0.22)                    |
+| Metformin                              | 113                                    | 8.06 (1.07)                            | 86                                     | 7.54 (1.45)                            | 113                                    | -0.42 (1.43)                           | -0.09 (-0.43, 0.26)                    |
+| Pairwise Comparison                    | Pairwise Comparison                    | Pairwise Comparison                    | Pairwise Comparison                    | Pairwise Comparison                    | Differencein LS Means (95% CI)         | Differencein LS Means (95% CI)         | p-Value                                |
+| Sita/IMet FDC vs. Metformin            | Sita/IMet FDC vs. Metformin            | Sita/IMet FDC vs. Metformin            | Sita/IMet FDC vs. Metformin            | Sita/IMet FDC vs. Metformin            | -0.49 (-0.90, -0.09)                   | -0.49 (-0.90, -0.09)                   | 0.018                                  |
+| Root Mean Squared Error ofChange =1.42 | Root Mean Squared Error ofChange =1.42 | Root Mean Squared Error ofChange =1.42 | Root Mean Squared Error ofChange =1.42 | Root Mean Squared Error ofChange =1.42 | Root Mean Squared Error ofChange =1.42 | Root Mean Squared Error ofChange =1.42 | Root Mean Squared Error ofChange =1.42 |
+
+Treatment Effect FAS excludes data following initiation of rescue therapy as well as data collected after discontinuation of study medication.
+
+For baseline and Week 20, N is the number of subjects with non-missing assessments at the specific timepoint. For Change from Baseline, N is the number of subjects in the population.
+
+Based on a cLDA model including terms for treatment, time, baseline metformin dose (&lt;1500 mg, 1500 mg, or &gt;1500 mg), study (P170, P289), baseline BMI percentile, insulin use at screening (yes/no), interaction of time by baseline metformin dose, time by study and time by treatment with the constraint that the mean baseline is the same for all treatment groups.
+
+cLDA = Constrained Longitudinal Data Analysis, LS = Least Squares.
+
+Source: [ISS2-ISE2: adam-adeff]
+
+Figure 2.5-Type2DM0431A: 1 Constrained Longitudinal Data Analysis of Change from Baseline in A1C (%) Over Time Week 0 to 20 (LS Mean ± SE) by Treatment Group Treatment Effect FAS P170+P289
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## 7.4.1.1. Subgroup Analyses
+
+In the 2-study pool, A1C change from baseline at Week 20 was generally consistent across subgroups [Figure 2.7.3 -Type2DM0431A: 3] [Table 5.3.5.3.2 -Type2DM0431A: 52]. Subgroup analyses were not performed in Studies P170 and P289 individually.
+
+## 7.4.2. Efficacy Results for Studies P170 and P289
+
+Primary (A1C) efficacy results were inconsistent between Studies P170 and P289, at Week 20 and Week 54. In Study P170, the observed mean changes from baseline in A1C at Week 20 and Week 54 were greater in the Sita/Met IR FDC group compared to the Metformin IR group in both the Treatment Effect FAS [Table 2.5 -Type2DM0431A: 3] [Ref. 5.3.5.1: P170MK0431A: Table 11 -2] and the Treatment Policy FAS [Ref. 5.3.5.1: P170MK0431A: Table 14.2 -2, 14.25]. In contrast, in Study P289, the observed mean changes from baseline in A1C at Week 20 and Week 54 were not greater in the Sita/Met XR FDC group compared to the Metformin XR group in both the Treatment Effect FAS [Table 2.5 -Type2DM0431A: 4] [Ref. 5.3.5.1: P289MK0431A: Table 11 -2] and the Treatment Policy FAS [Ref. 5.3.5. 1: P289MK0431A: Table 14.2-2, 14.25]. Results for secondary efficacy endpoints at Week 20 and Week 54 for Studies P170 and P289 individually are presented in their respective CSRs [Ref. 5.3.5.1: P170MK0431A: 11.1] and [Ref. 5.3.5.1: P289MK0431A: 11.1].
+
+Table 2.5-Type2DM0431A: 3 Summary of Change from Baseline in A1C (%) Over Time Weeks 0 to 20 Treatment Effect FAS P170
+
+|                 |    | Baseline    | Time point   | Change fromBaseline   | Change fromBaseline   | Change fromBaseline   |
+|-----------------|----|-------------|--------------|-----------------------|-----------------------|-----------------------|
+| Treatment       | N  | Mean (SD)   | Mean (SD)    | Mean (SD)             | Median                | Range                 |
+| Baseline        |    |             |              |                       |                       |                       |
+| Sita/Met IR FDC | 62 | 8.02 (1.22) |              |                       |                       |                       |
+| Metformin IR    | 62 | 8.13 (1.08) |              |                       |                       |                       |
+| Week 6          |    |             |              |                       |                       |                       |
+| Sita/Met IR FDC | 56 | 7.98 (1.16) | 7.06 (1.04)  | -0.93 (0.86)          | -0.80                 | -4.40 to 0.50         |
+| Metformin IR    | 59 | 8.10 (1.06) | 7.80 (1.34)  | -0.30 (1.03)          | -0.30                 | -4.60 to 2.80         |
+| Week 12         |    |             |              |                       |                       |                       |
+| Sita/Met IR FDC | 55 | 7.98 (1.13) | 7.03 (1.14)  | -0.96 (1.15)          | -0.90                 | -4.60 to 2.00         |
+| Metformin IR    | 56 | 8.10 (1.08) | 7.69 (1.39)  | -0.40 (1.24)          | -0.25                 | -4.60 to 2.00         |
+| Week 20         |    |             |              |                       |                       |                       |
+| Sita/Met IR FDC | 52 | 7.96 (1.13) | 7.07 (1.20)  | -0.90 (1.34)          | -0.80                 | -5.10 to 2.50         |
+| Metformin IR    | 49 | 8.03 (1.09) | 7.70 (1.57)  | -0.33 (1.53)          | -0.20                 | -4.80 to 3.10         |
+
+Treatment Effect FAS excludes data following initiation of rescue therapy as well as data collected after discontinuation of study medication.
+
+N =Number of subjects with both baseline and timepoint measurements.
+
+Source: [P170MK0431A: adam-adeff]
+
+<div style=\"page-break-after: always\"></div>
+
+Table 2.5-Type2DM0431A: 4 Summary of Change from Baseline in A1C (%) Over Time Weeks 0 to 20 Treatment Effect FAS P289
+
+|                 |    | Baseline    | Time point   | ChangefromBaseline   | ChangefromBaseline   | ChangefromBaseline   |
+|-----------------|----|-------------|--------------|----------------------|----------------------|----------------------|
+| Treatment       | N  | Mean (SD)   | Mean (SD)    | Mean (SD)            | Median               | Range                |
+| Baseline        |    |             |              |                      |                      |                      |
+| Sita/Met XR FDC | 45 | 7.87 (0.94) |              |                      |                      |                      |
+| Metformin XR    | 51 | 7.97 (1.05) |              |                      |                      |                      |
+| Week 6          |    |             |              |                      |                      |                      |
+| Sita/Met XR FDC | 42 | 7.86 (0.93) | 7.25 (1.13)  | -0.60 (0.79)         | -0.55                | -2.90 to 1.10        |
+| Metformin XR    | 50 | 7.98 (1.06) | 7.83 (1.25)  | -0.15 (0.89)         | -0.20                | -2.20 to 2.00        |
+| Week 12         |    |             |              |                      |                      |                      |
+| Sita/Met XR FDC | 40 | 7.74 (0.83) | 7.34 (1.59)  | -0.40 (1.24)         | -0.55                | -2.40 to 2.40        |
+| Metformin XR    | 46 | 7.94 (1.00) | 7.70 (1.56)  | -0.24 (1.53)         | -0.10                | -3.40 to 3.90        |
+| Week 20         |    |             |              |                      |                      |                      |
+| Sita/Met XR FDC | 39 | 7.77 (0.84) | 7.58 (1.70)  | -0.19 (1.40)         | -0.60                | -2.60 to 3.50        |
+| Metformin XR    | 37 | 7.86 (1.00) | 7.32 (1.26)  | -0.54 (1.30)         | -0.20                | -3.90 to 1.40        |
+
+Treatment Effect FAS excludes data following initiation of rescue therapy as well as data collected after discontinuation of study medication.
+
+N =Number of subjects with both baseline and timepoint measurements.
+
+Source:[P289MK0431A:adam-adeff]
+
+## Summary of Efficacy
+
+Sitagliptin is a selective DPP-4 inhibitor. DPP-4 inhibitors improve glycemic control by preventing the enzymatic degradation and inactivation of GLP-1 and GIP, the major incretins involved in glucose homeostasis. Metformin is a biguanide that lowers glucose concentrations by decreasing hepatic glucose output (through inhibition of gluconeogenesis and glycogenolysis) and increasing insulin sensitivity in the liver and in muscle.
+
+Insulin and liraglutide are, at this time, the only other AHAs approved for treatment of T2DM in pediatric patients. Studies P170 and P289 evaluated the efficacy and safety of sitagliptin added on to metformin (as the Sita/Met IR and Sita/Met XR FDCs) as an alternative oral treatment option for pediatric patients with T2DM. Studies P170 and P289 were similarly designed, Phase 3, randomized, placebo -controlled, parallel -group studies of sitagliptin added to ongoing metformin therapy. In Study P170, sitagliptin was added on to metformin IR (±insulin) as the Sita/Met IR FDC; in Study P289, sitagliptin was added on to metformin XR (±insulin) as the Sita/Met XR FDC.
+
+Data summarized in this clinical overview are from Studies P170 and P289 individually and from a pool of their results combined.
+
+No indication is sought for the Sita/Met IR FDC or the Sita/Met XR FDC in pediatric patients with T2DM. Changes to the text of the SmPC are proposed.
+
+## Clinical pharmacology
+
+One clinical pharmacology study of sitagliptin (Study P081) was conducted in pediatric subjects. Study P081 was a randomized, double-blind, placebo-controlled, multiple-panel, single-dose PK study of sitagliptin (50 mg, 100 mg, and 200 mg) in 35 pediatric subjects (10 to 17 years old) with T2DM. Results from this study show that, relative to adults with T2DM (data from Study P005), pediatric subjects with T2DM have an approximately 18% lower dose-adjusted AUC0∞ after single doses of sitagliptin. Additionally, based on PK, safety, tolerability, and swallowability data from a Phase 1 study of the Sita/Met XR FDC in pediatric subjects with T2DM (Study P296), a daily dose of up to 100 mg/2000 mg of the Sita/Met XR FDC was determined to be appropriate in the sitagliptin Phase 3 pediatric program.
+
+<div style=\"page-break-after: always\"></div>
+
+## Characteristics
+
+The populations evaluated in Studies P170 and P289 are representative of the pediatric population with T2DM. The mean age was 14.4 years, 44.5% of subjects were in the younger age category (≥10 and &lt;15 years), and 65.9% of the subjects were female. At baseline, the mean A1C was 8.0% and the mean BMI was 30.9 kg/m 2 . The dose of background metformin was &gt;1500 mg/day for 71.8% of subjects and 15.0% of subjects were on background insulin therapy A1C at Week 20 and Week 54 In the 2-study pool.
+
+## Results
+
+In the 2-study pool, the success criterion for superiority of A1C reduction in the Sita/Met FDC group over the Metformin group at Week 20 was met in the analysis addressing the Treatment Effect estimand but was not met in the analysis addressing the Treatment Policy estimand. In both groups, earlier improvements in A1C were no longer observed at Week 54.
+
+In addition, the observed mean changes in A1C at Week 20 and Week 54 were inconsistent between Study P170 and Study P289. In Study P170, the observed mean changes from baseline in A1C at Week 20 and Week 54 were greater in the Sita/Met IR FDC group compared to the Metformin IR group in both the Treatment Effect FAS and the Treatment Policy FAS. However, in Study P289, the observed mean changes from baseline in A1C at Week 20 and Week 54 were not greater in the Sita/Met XR FDC group compared to the Metformin XR group in both the Treatment Effect FAS and the Treatment Policy FAS.
+
+## Conclusion clinical efficacy
+
+The observed mean changes in A1C at Week 20 and Week 54 were inconsistent. Efficacy is insufficient. An explanation for the low efficacy in paediatric patients is not clear, but may be related to the lower exposure (approximately 18% lower dose-adjusted AUC0∞ after single doses of sitagliptin) in paediatric individuals compared to adults.
+
+## 8. Clinical Safety aspects
+
+## 8.1. Methods for Safety Analyses
+
+Safety was assessed by clinical evaluation of AEs, laboratory endpoints, vital signs, indices of adiposity, and growth and development endpoints. This clinical overview focuses on results from the 2-study pool because its larger population, relative to the individual studies, is better for detecting between-group differences for events occurring at lower incidences. Safety analyses were performed in the ASaT population. The ASaT population for Week 20 safety analyses included all randomized subjects who received at least 1 dose of study medication in the base study of Study P170 or Phase A of Study P289. The population for Week 54 safety analyses was the subset of the ASaT subjects who entered the extension study of Study P170 or Phase B of Study P289. In the 2-study pool, an additional safety assessment through Week 54 was performed that included all randomized subjects who received at least 1 dose of study medication. Unless otherwise noted, the descriptions of safety results through Week 54 in the 2-study pool are based on the subset of the ASaT subjects who participated beyond Week 20. In the 2-study pool, prespecified (Tier 1) AEs of special interest were symptomatic hypoglycemia and select GI AEs (abdominal pain, diarrhea, nausea, vomiting). Per Agency recommendations, other AEs of special interest were renal-related AEs (defined based on a Sponsor-generated CMQ), hypersensitivity AEs (defined based on the narrow SMQ for hypersensitivity), and infections (shown in the Infection and Infestation SOC). The terms for events based on a Sponsor-generated CMQ and terms in the narrow SMQ for hypersensitivity are listed in [Ref. 5.3.5.3.3: 059690]. In the 2 -study pool, safety analyses followed a tiered approach. For Tier 1 AEs (symptomatic hypoglycemia and select GI AEs), statistical testing of between-group differences was performed. For Tier 2 endpoints, defined as those occurring in at least 4 subjects in any group, 95% CIs for between-group differences were provided. For all other endpoints (Tier 3), point estimates by treatment group were provided. In Studies P170 and P289 individually, safety
+
+<div style=\"page-break-after: always\"></div>
+
+endpoints were summarized using descriptive statistics only. Except for hypoglycemia, analyses of all safety endpoints included data collected after initiation of glycemic rescue therapy.
+
+## 8.2. Safety Results
+
+Based on the safety results in the 2-study pool, treatment with sitagliptin added on to metformin IR or XR (as the Sita/Met IR or Sita/Met XR FDC) was well tolerated through Week 20 in the ASaT population and through Week 54 in the subset of the ASaT subjects who participated beyond Week 20. Results through Week 54 in the additional analyses that included all randomized subjects who received at least 1 dose of study medication were consistent with those in the subset of the ASaT subjects who participated beyond Week 20. No unique safety signal was identified for the Sita/Met IR or Sita/Met XR FDC in pediatric subjects relative to adult subjects.
+
+## 8.2.1. Disposition of Subjects
+
+There were 220 randomized and treated subjects in the 2-study pool (107 in the Sita/Met FDC group and 113 in the Metformin group). Of these 220 subjects, 210 completed Week 20 and 147 (70 in the Sita/Met FDC group and 77 in the Metformin group) continued after Week 20 [T able 2.5Type2DM0431A: 5]. The number of subjects enrolled in the extension study of Study P170 was lower than in the base study of Study P170 primarily because the extension study was added approximately 3 years after the base study began and was not avai lable to approximately 35% of the subjects [Ref. 5.3.5.1: P170MK0431A: 10.1]. Through Weeks 20 and 54, results across disposition categories in the 2-study pool were generally similar in the Sita/Met FDC and Metformin groups. The percentages of subjects who completed Week 20 and the percentages who completed Week 54, among the subset who continued beyond Week 20, were high in both groups (&gt;90%). In both groups, the most commonly reported reasons for study and study medication discontinuation were withdrawal by parent/guardian and withdrawal by subject [Table 2.5 -Type2DM0431A: 5]. Disposition of subjects in Studies P170 and P289 individually [Ref. 5.3.5.1: P170MK0431A: Table 101] [Ref. 5.3.5.1: P289MK0431A: Table 10 -1] was generally consistent with that in the 2study pool [Table 2.5 -Type2DM0431A: 5].
+
+<div style=\"page-break-after: always\"></div>
+
+Table 2.5-Type2DM0431A: 5 Disposition of Subjects P170+P289
+
+|                                                      | Sita/Met FDC                                         | Sita/Met FDC                                         | Metformin                                            | Metformin                                            | Total                                                | Total                                                |
+|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+|                                                      | 1n                                                   | (%)                                                  | n                                                    | (%)                                                  | n1                                                   | (%)                                                  |
+| Subjects Screened                                    |                                                      |                                                      |                                                      |                                                      | 407                                                  |                                                      |
+| Subjects Not Randomized                              |                                                      |                                                      |                                                      |                                                      | 184                                                  |                                                      |
+| Subjects Randomized                                  | 110                                                  |                                                      | 113                                                  |                                                      | 223                                                  |                                                      |
+| Subjects Treated                                     | 107                                                  |                                                      | 113                                                  |                                                      | 220                                                  |                                                      |
+| Status for Study Medication in Trial Segment Phase A | Status for Study Medication in Trial Segment Phase A | Status for Study Medication in Trial Segment Phase A | Status for Study Medication in Trial Segment Phase A | Status for Study Medication in Trial Segment Phase A | Status for Study Medication in Trial Segment Phase A | Status for Study Medication in Trial Segment Phase A |
+| Started                                              | 107                                                  |                                                      | 113                                                  |                                                      | 220                                                  |                                                      |
+| Completed                                            | 99                                                   | (92.5)                                               | 103                                                  | (91.2)                                               | 202                                                  | (91.8)                                               |
+| Discontinued                                         | 8                                                    | (7.5)                                                | 10                                                   | (8.8)                                                | 18                                                   | (8.2)                                                |
+| Adverse Event                                        | 2                                                    | (1.9)                                                | 4                                                    | (3.5)                                                | 6                                                    | (2.7)                                                |
+| Lost To Follow-Up                                    | 1                                                    | (0.9)                                                | 0                                                    | (0.0)                                                | 1                                                    | (0.5)                                                |
+| Non-Compliance With Study Drug                       | 1                                                    | (0.9)                                                | 0                                                    | (0.0)                                                | 1                                                    | (0.5)                                                |
+| Physician Decision                                   | 0                                                    | (0.0)                                                | 3                                                    | (2.7)                                                | 3                                                    | (1.4)                                                |
+| Pregnancy                                            | 1                                                    | (0.9)                                                | 0                                                    | (0.0)                                                | 1                                                    | (0.5)                                                |
+| Withdrawal By Parent/Guardian                        | 1                                                    | (0.9)                                                | 3                                                    | (2.7)                                                | 4                                                    | (1.8)                                                |
+| Withdrawal By Subject                                | 2                                                    | (1.9)                                                | 0                                                    | (0.0)                                                | 2                                                    | (0.9)                                                |
+| StatusforTrialSegmentPhaseA                          |                                                      |                                                      |                                                      |                                                      |                                                      |                                                      |
+| Started                                              | 110                                                  |                                                      | 113                                                  |                                                      | 223                                                  |                                                      |
+| Completed                                            | 101                                                  | (91.8)                                               | 109                                                  | (96.5)                                               | 210                                                  | (94.2)                                               |
+| Discontinued                                         | 9                                                    | (8.2)                                                | 4                                                    | (3.5)                                                | 13                                                   | (5.8)                                                |
+| Lost To Follow-Up                                    | 2                                                    | (1.8)                                                | 1                                                    | (0.9)                                                | 3                                                    | (1.3)                                                |
+| Screen Failure                                       | 2                                                    | (1.8)                                                | 0                                                    | (0.0)                                                | 2                                                    | (0.9)                                                |
+| Technical Problems                                   | 1                                                    | (0.9)                                                | 0                                                    | (0.0)                                                | 1                                                    | (0.4)                                                |
+| Withdrawal By Parent/Guardian                        | 1                                                    | (0.9)                                                | 3                                                    | (2.7)                                                | 4                                                    | (1.8)                                                |
+| Withdrawal By Subject                                | 3                                                    | (2.7)                                                | 0                                                    | (0.0)                                                | 3                                                    | (1.3)                                                |
+| Status for Next Trial Segment After End of Phase A   | Status for Next Trial Segment After End of Phase A   | Status for Next Trial Segment After End of Phase A   | Status for Next Trial Segment After End of Phase A   | Status for Next Trial Segment After End of Phase A   | Status for Next Trial Segment After End of Phase A   | Status for Next Trial Segment After End of Phase A   |
+| Entered segment (i.e., completed Phase A)            | 101                                                  |                                                      | 109                                                  |                                                      | 210                                                  |                                                      |
+| Completed segment (i.e.,entered Phase B)             | 70                                                   | (69.3)                                               | 77                                                   | (70.6)                                               | 147                                                  | (70.0)                                               |
+| DiscontinuedbetweenPhase A and PhaseB                | 31                                                   | (30.7)                                               | 32                                                   | (29.4)                                               | 63                                                   | (30.0)                                               |
+| Did Not Consent To P170 Phase B                      | 10                                                   | (9.9)                                                | 10                                                   | (9.2)                                                | 20                                                   | (9.5)                                                |
+| P170 Phase B Not Available                           | 21                                                   | (20.8)                                               | 22                                                   | (20.2)                                               | 43                                                   | (20.5)                                               |
+| Status for Study Medication in Trial Segment Phase B | Status for Study Medication in Trial Segment Phase B | Status for Study Medication in Trial Segment Phase B | Status for Study Medication in Trial Segment Phase B | Status for Study Medication in Trial Segment Phase B | Status for Study Medication in Trial Segment Phase B | Status for Study Medication in Trial Segment Phase B |
+| Started                                              | 68                                                   |                                                      | 72                                                   |                                                      | 140                                                  |                                                      |
+| Completed                                            | 60                                                   | (88.2)                                               | 62                                                   | (86.1)                                               | 122                                                  | (87.1)                                               |
+| Discontinued                                         | 8                                                    | (11.8)                                               | 10                                                   | (13.9)                                               | 18                                                   | (12.9)                                               |
+| Adverse Event                                        | 1                                                    | (1.5)                                                | 1                                                    | (1.4)                                                | 2                                                    | (1.4)                                                |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                                                                    | Sita/Met FDC                                  | Sita/Met FDC                                  | Metformin                                     | Metformin                                     | Total                                         | Total                                         |
+|------------------------------------------------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+|                                                                                    | 1n                                            | (%)                                           | n                                             | (%)                                           |                                               | (%)                                           |
+| StatusforStudyMledicationinTrialSegmentPhaseB                                      | StatusforStudyMledicationinTrialSegmentPhaseB | StatusforStudyMledicationinTrialSegmentPhaseB | StatusforStudyMledicationinTrialSegmentPhaseB | StatusforStudyMledicationinTrialSegmentPhaseB | StatusforStudyMledicationinTrialSegmentPhaseB | StatusforStudyMledicationinTrialSegmentPhaseB |
+| Hypoglycemia                                                                       | 1                                             | (1.5)                                         | 0                                             | (0.0)                                         | 1                                             | (0.7)                                         |
+| Lost To Follow-Up                                                                  | 1                                             | (1.5)                                         | 1                                             | (1.4)                                         | 2                                             | (1.4)                                         |
+| Non-Compliance With Study Drug                                                     | 0                                             | (0.0)                                         | 2                                             | (2.8)                                         | 2                                             | (1.4)                                         |
+| Physician Decision                                                                 | 1                                             | (1.5)                                         | 0                                             | (0.0)                                         | 1                                             | (0.7)                                         |
+| Pregnancy                                                                          | 0                                             | (0.0)                                         | 1                                             | (1.4)                                         | 1                                             | (0.7)                                         |
+| Subject Did Not Wish To Continue For ReasonsRelated ToAssigned Study Treatment     | 1                                             | (1.5)                                         | 1                                             | (1.4)                                         | 2                                             | (1.4)                                         |
+| Subject Did Not Wish To Continue For Reasons Unrelated To Assigned Study Treatment | 0                                             | (0.0)                                         | 1                                             | (1.4)                                         | 1                                             | (0.7)                                         |
+| WithdrawalByParent/Guardian                                                        | 2                                             | (2.9)                                         | 1                                             | (1.4)                                         | 3                                             | (2.1)                                         |
+| Withdrawal By Subject                                                              | 1                                             | (1.5)                                         | 2                                             | (2.8)                                         | 3                                             | (2.1)                                         |
+| StatusforTrial SegmentPhaseB                                                       | StatusforTrial SegmentPhaseB                  | StatusforTrial SegmentPhaseB                  | StatusforTrial SegmentPhaseB                  | StatusforTrial SegmentPhaseB                  | StatusforTrial SegmentPhaseB                  | StatusforTrial SegmentPhaseB                  |
+| Started                                                                            | 70                                            |                                               | 77                                            |                                               | 147                                           |                                               |
+| Completed                                                                          | 64                                            | (91.4)                                        | 71                                            | (92.2)                                        | 135                                           | (91.8)                                        |
+| Discontinued                                                                       | 6                                             | (8.6)                                         | 6                                             | (7.8)                                         | 12                                            | (8.2)                                         |
+| Lost To Follow-Up                                                                  | 1                                             | (1.4)                                         | 2                                             | (2.6)                                         | 3                                             | (2.0)                                         |
+| Withdrawal By Parent/Guardian                                                      | 2                                             | (2.9)                                         | 1                                             | (1.3)                                         | 3                                             | (2.0)                                         |
+| Withdrawal By Subject                                                              | 3                                             | (4.3)                                         | 3                                             | (3.9)                                         | 6                                             | (4.1)                                         |
+
+One subject in P170 was randomized twice. This subject has been counted separately for each randomization number for the *subjects randomized' row, but only a single time for each applicable row subsequently.
+
+ForP170 phase Arefers to the base study and phase Brefers to the extension study.
+
+Source: [ISS2-ISE2: adam-adsl]
+
+## 8.2.2. Exposure, Compliance, and Adherence with Study Medication
+
+In the 2-study pool, there were no notable differences between the 2 groups in the extent of exposure to study medication (any dose) through Week 20 [Table 5.3.5.3.3 -Type2DM0431A: 2, 4] and through Week 54 [Table 5.3.5.3.3 -Type2DM0431A: 3, 5]. Compliance r ates (proportion of days on the correct study medication between the subject's first and last dose) and adherence rates (proportion of days on the correct study medication between the subject's first dose and the end of the relevant study period [Week 20 o r Week 54]) for subjects in the 2 -study pool were high in both groups. Through Week 20 and Week 54, more than 93% of subjects were &gt;80% compliant with study medication [Table 5.3.5.3.3 -Type2DM0431A: 6, 7] and more than 84% of subjects were &gt;80% adherent with study medication [Table 5.3.5.3.3Type2DM0431A: 8, 9]. Exposure and compliance results in Studies P170 [Ref. 5.3.5.1: P170MK0431A: 10.5, 10.6] and P289 [Ref. 5.3.5.1: P289MK0431A: 10.5, 10.6] individually were generally consistent with those observed in the 2-study pool. Adherence rates were not calculated for the individual studies.
+
+## 8.2.3. Summary of Adverse Events
+
+In the 2-study pool, the incidences of AEs overall, drug-related AEs, SAEs, and AEs leading to treatment discontinuation were generally similar in the Sita/Met FDC and Metformin groups through Week 20 [Table 2.5Type2DM0431A: 6] and Week 54 [Table 2.5 -Type2DM0431A: 7]. Results for these AE categories in Studies P170 and P289 individually [Ref. 5.3.5.1: P170MK0431A: Table 12 -1, 122] [Ref. 5.3.5.1 : P289MK0431A: Table 12-1, 122] were generally consistent with those observed in the 2 -study pool.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 2.5-Type2DM0431A: 6 Analysis of Adverse Event Summary Weeks 0 to 20 ASaT P170+P289
+
+|                                                            | Sita/Met FDC   | Sita/Met FDC   | Metformin   | Metformin   | Difference in % vs Metfomin   |
+|------------------------------------------------------------|----------------|----------------|-------------|-------------|-------------------------------|
+|                                                            | n              | (%)            | n           | (%)         | Estimate (95% CI)i            |
+| Subjects in population                                     | 107            |                | 113         |             |                               |
+| with one or more adverse events                            | 71             | (66.4)         | 76          | (67.3)      | -1.3 (-13.9, 11.3)            |
+| with no adverse event                                      | 36             | (33.6)         | 37          | (32.7)      | 1.3 (-11.3, 13.9)             |
+| with drug-related adverse events                           | 17             | (15.9)         | 16          | (14.2)      | 2.1 (-7.7, 11.9)              |
+| withserious adverseevents                                  | 5              | (4.7)          | 3           | (2.7)       | 2.2 (-3.3, 8.5)               |
+| with serious drug-related adverse events                   | 1              | (0.9)          | 1           | (0.9)       | 0.4 (-3.4, 5.2)               |
+| who died                                                   | 0              | (0.0)          | 0           | (0.0)       | 0.0 (-3.4, 3.6)               |
+| discontinueddrugduetoanadverseevent                        | 3              | (2.8)          | 4           | (3.5)       | -0.5 (-6.2, 5.0)              |
+| discontinueddrugduetoadrug-relatedadverseevent             | 3              | (2.8)          | 1           | (0.9)       | 1.9 (-2.4, 7.3)               |
+| discontinued drug due to aserious adverse event            | 0              | (0.0)          | 0           | (0.0)       | 0.0 (-3.4, 3.6)               |
+| discontinued drugdue to a seriousdrug-related adverseevent | 0              | (0.0)          | 0           | (0.0)       | 0.0 (-3.4, 3.6)               |
+
+I Based on Miettinen &amp; Nurminen method stratified by baseline metformin dose (&lt;1500 mg. 1500 mg. or &gt;1500 mg) and study (P170, P289).
+
+I Determined by the investigator to be related to the drug.
+
+Adverse event terms arefromMedDRAVersion 22.0
+
+Source: [ISS2-ISE2: adam-adsl; adae]
+
+Table 2.5-Type2DM0431A: 7 Analysis of Adverse Event Summary Weeks 0 to 54 ASaT P170+P289
+
+|                                                           | Sita/Met FDC   | Sita/Met FDC   | Metformin   | Metformin   | Difference in % vs Metfomin   |
+|-----------------------------------------------------------|----------------|----------------|-------------|-------------|-------------------------------|
+|                                                           | n              | (%)            | n           | (%)         | Estimate (95% CI)f            |
+| Subjects in population                                    | 70             |                | 77          |             |                               |
+| withone ormore adverseevents                              | 62             | (88.6)         | 66          | (85.7)      | 2.9 (-8.9, 14.4)              |
+| with no adverse event                                     | 8              | (11.4)         | 11          | (14.3)      | -2.9 (-14.4, 8.9)             |
+| with drug-related adverse events                          | 14             | (20.0)         | 10          | (13.0)      | 8.0 (-4.4, 20.7)              |
+| with serious adverse events                               | 5              | (7.1)          | 4           | (5.2)       | 1.8 (-6.9, 11.1)              |
+| with serious drug-related adverse events                  | 1              | (1.4)          | 0           | (0.0)       | 1.9 (-2.6, 8.8)               |
+| who died                                                  | 0              | (0.0)          | 0           | (0.0)       | 0.0 (-5.0, 5.5)               |
+| discontinueddrugduetoan adverseevent                      | 2              | (2.9)          | 4           | (5.2)       | -2.1 (-10.1, 5.8)             |
+| discontinued drug due to a drug-related adverse event     | 2              | (2.9)          | 0           | (0.0)       | 2.9 (-2.1, 10.3)              |
+| discontinueddrugduetoaseriousadverseevent                 | 0              | (0.0)          | 0           | (0.0)       | 0.0 (-5.0, 5.5)               |
+| discontinued drugdue to aseriousdrug-related adverseevent | 0              | (0.0)          | 0           | (0.0)       | 0.0 (-5.0, 5.5)               |
+
+Based on Miettinen &amp; Nurminen method stratified by baseline metformin dose (&lt;1500 mg, 1500 mg, or &gt;1500 mg) and study (P170, P289).
+
+I Determined by the investigator to be related to the drug.
+
+Adverse event terms are from MedDRA Version 22.0
+
+Source:[ISS2-ISE2: adam-adsl; adae]
+
+One death, in the Sita/Met FDC group, was reported in the 2study pool [Sec. 2.5 - Type2DM0431A: 5.2.3.3]. The subject completed the base study of Study P170 prior to the availability of the extension study and died 122 days after the last dose of study medication. This event is not shown in [Table 2.5 -Type2DM0431A: 6] because this table does not include events that occurred more than 14 days after the last dose of s tudy medication. This event is in [Table 5.3.5.3.3 -Type2DM0431A: 22, 24], which do not impose an upper limit on the day range.
+
+## 8.2.3.1. Common Adverse Events
+
+In the 2-study pool, the incidences of specific AEs were generally similar in the Sita/Met FDC and Metformin groups through Week 20 [Table 5.3.5.3.3 -Type2DM0431A: 16, 17] and Week 54 [Table
+
+<div style=\"page-break-after: always\"></div>
+
+5.3.5.3.3Type2DM0431A: 18, 19]. Through Week 20, the only specifi c AEs for which the 95% CI for the between-group difference excluded 0, due to a higher incidence in either group, were blood creatine phosphokinase increased and headache [Figure 2.5 -Type2DM0431A: 2]. Relative to the Metformin group, the incidence of blood creatine phosphokinase increased was higher, and the incidence of headache was lower in the Sita/Met FDC group. For both AEs, results through Week 54 were consistent with those through Week 20. However, through Week 54, there were no specific AEs for which the 95% CIs for the betweengroup differences excluded 0 [Figure 2.5 -Type2DM0431A: 3].
+
+In both treatment groups, the AEs of blood creatine phosphokinase increased were mild or moderate in intensity, none led to discontinuation of study medication, and all resolved by the end of the study. Changes over time in blood creatine phosphokinase (referred to as serum creatine kinase in relevant laboratory tables) were small and not notably different between the 2 groups through Week 20 and Week 54 [Table 5.3.5. 3.3Type2DM0431A: 72, 73]. Results for specific AEs in Studies P170 and P289 individually [Ref. 5.3.5.1: P170MK0431A: Table 12 -3, 124] [Ref. 5.3.5.1: P289MK0431A: Table 12 -3, 124] were generally consistent with those observed in the 2 -study pool.
+
+Figure 2.5-Type2DM0431A: 2 Rainfall Plot for Subjects with Specific Adverse Events (Incidence ≥4 Subjects in One or More Treatment Groups) Weeks 0 to 20 ASaT P170+P289
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 2.5-Type2DM0431A: 3 Rainfall Plot for Subjects with Specific Adverse Events (Incidence ≥4 Subjects in One or More Treatment Groups) Weeks 0 to 54 ASaT, Subjects Who Entered Extension (P170) or Phase B (P289) P170+P289
+
+<!-- image -->
+
+## 8.2.3.2. Serious Adverse Events
+
+In the 2-study pool, the incidences of SAEs were similar in the Sita/Met FDC and Metformin groups through Week 20 [Table 2.7.4 -Type2DM0431A: 5] and Week 54 [Table 2.7.4 -Type2DM0431A: 6]. In both groups, SAEs occurred across different SOCs and specific PTs with no notable patterns observed. As predefined in the study protocols, AEs associated with overdose of study medication were reported as SAEs. In the 2-study pool, the SAE of diarrhea in the Sita/Met FDC group and the SAEs of vomiting and upper abdominal pain (in the same subject) in the Metformin group met this predefined criterion. All SAEs a ssociated with an overdose were considered related to study medication by the investigator [Table 5.3.5.3.3Type2DM0431A: 26, 27]. No other SAEs were considered related to study medication. Results for SAEs in Studies P170 and P289 individually [Ref. 5.3.5 .1: P170MK0431A: Table 12-8, 129] [Ref. 5.3.5.1: P289MK0431A: Table 12-7, 128] were generally consistent with those observed in the 2 -study pool. Narratives for subjects with SAEs in the Sita/Met FDC group are presented in [Ref. 5.3.5.1: P170MK0431A: 16. 2.7.2] [Ref. 5.3.5.1: P289MK0431A: 16.2.7.2].
+
+<div style=\"page-break-after: always\"></div>
+
+## 8.2.3.3. Deaths
+
+One death, in a subject in the Sita/Met FDC group, was reported in the 2study pool [Table 5.3.5.3.3 -Type2DM0431A: 22, 24]. The subject completed the base study of Study P170 prior to the availability of the extension study and died 122 days after the last dose of study medication. The cause of death was arrhythmogenic right ventricular cardiomyopathy (AE preferred term of 'death'). The death was considered not related to study medication by the invest igator. A narrative for this event is in [Ref. 5.3.5.1: P170MK0431A: 16.2.7.2].
+
+## 8.2.3.4. Other Significant Adverse Events
+
+In the 2-study pool, the incidences of AEs leading to discontinuation of study medication were low and similar in the Sita/Met FDC and Metformin groups through Week 20 [Table 2.7.4 -Type2DM0431A: 7] and Week 54 [Table 2.7.4 -Type2DM0431A: 8]. With the except ion of increased ALT in 3 subjects in the Metformin group, no AEs leading to discontinuation of study medication were reported in more than 1 subject in either treatment group. Results for AEs leading to discontinuation of study medication in Studies P170 and P289 individually [Ref. 5.3.5.1: P170MK0431A: Table 12 -10, 1211] [Ref. 5.3.5.1: P289MK0431A: Table 12-9, 1210] were generally consistent with those observed in the 2 -study pool.
+
+## 8.2.3.5. Events of Special Interest
+
+Hypoglycemia Analyses of hypoglycemia results excluded data after initiation of glycemic rescue therapy and were performed separately for subjects not on versus on background insulin therapy.
+
+## Subjects Not on Background Insulin Therapy
+
+In the 2-study pool in subjects not on background insulin therapy, symptomatic, asymptomatic, and documented hypoglycemia for both blood glucose categories (≤70 mg/dL [≤3.9 mmol/L] and &lt;54 mg/dL [&lt;3.0 mmol/L]) generally occurred more commonly in the Sita/M et FDC group than in the Metformin group through Week 20 [Table 2.7.4 -Type2DM0431A: 9] and Week 54 [Table 2.7.4 -Type2DM0431A: 10]. The incidences of severe hypoglycemia were low (≤3 subjects per group) and similar in the 2 groups. No episodes of severe hypoglycemia in either group required medical assistance. Results for hypoglycemia in subjects not on background insulin therapy in Studies P170 and P289 individually [Ref. 5.3.5.1: P170MK0431A: Table 12-12, 1213] [Ref. 5.3.5.1: P289MK0431A: Table 12 -11, 1212] were generally consistent with those observed in the 2-study pool.
+
+## Subjects on Background Insulin Therapy
+
+In the 2-study pool in subjects on background insulin therapy, symptomatic, asymptomatic, and documented hypoglycemia for both blood glucose ca tegories (≤70 mg/dL [≤3.9 mmol/L] and &lt;54 mg/dL [&lt;3.0 mmol/L]) generally occurred more commonly in the Sita/Met FDC group than in the Metformin group through Week 20 [Table 2.7.4 -Type2DM0431A: 11] and Week 54 [Table 2.7.4 -Type2DM0431A: 12]. Only 1 subject in each group had severe hypoglycemia through Weeks 20 and 54 (both of whom are counted in the Week 20 and Week 54 tables). No episodes of severe hypoglycemia in either group required medical assistance. Results for hypoglycemia in subjects on background insulin therapy in Studies P170 and P289 individually [Ref. 5.3.5.1: P170MK0431A: Table 12 -14, 1215] [Ref. 5.3.5.1: P289MK0431A: Table 12-13, 1214] were generally consistent with those observed in the 2 - study pool.
+
+## Other Events of Special Interest
+
+In the 2-study pool, the incidence of abdominal pain was significantly lower in the Sita/Met FDC group than in the Metformin group through Week 20. The incidences of the other Tier 1 GI AEs (diarrhea, nausea, vomiting) were similar in the 2 groups. Through Week 54, the incidences of Tier 1 GI AEs were similar in the 2 groups [Sec. 2.7.4 -Type2DM0431A: 2.1.5.2]. In the 2 -study pool, renal-related AEs occurred more commonly in the Sita/Met FDC group than in the Metformin group through Week 20.
+
+<div style=\"page-break-after: always\"></div>
+
+Results through Wee k 54 were similar in the 2 groups [Sec. 2.7.4 -Type2DM0431A: 2.1.5.3]. In both treatment groups, renal-related AEs were limited to laboratory findings. AEs in the Sita/Met FDC group were generally reports of modest changes from baseline in laboratory values that remained stable despite continuing study medication. Some of these events were reports of creatinine renal clearance increased, a finding that may be due to the hyperfiltration often seen early in the course of T2DM. None of these AEs were serious, led to discontinuation of study medication, or were considered related to study medication. The incidences of infections were similar in the Sita/Met FDC and Metformin groups through Week 20 and Week 54 [Sec. 2.7.4 -Type2DM0431A: 2.1.5.5]. The incidences of hypersensitivity AEs were similar in the Sita/Met FDC and Metformin groups through Week 20 and Week 54 [Sec. 2.7.4 -Type2DM0431A: 2.1.5.4].
+
+## 8.2.4. Laboratory, Vital Signs, and Other Observations Related to Safety
+
+## 8.2.4.1. Laboratory Results
+
+In the 2-study pool, no notable differences in laboratory changes over time were observed between the Sita/Met FDC and Metformin groups through Weeks 20 and 54 [Table 5.3.5.3.3 -Type2DM0431A: 46] through [Table 5.3.5.3.3 -Type2DM0431A: 111]. In the 2 -study pool, the proportions of subjects who met categorical PDLC criteria for laboratory endpoints were low and generally similar in the Sita/Met FDC and Metformin groups through Week 20 [Table 5.3.5.3.3 -Type2DM0431A: 44] and Week 54 [Table 5.3.5.3.3 -Type2DM0431 A: 45]. One subject in each group had an ALT value &gt;10x ULN. The subject in the Sita/Met FDC group who met this criterion had a concurrent AE of hepatitis A [Ref. 5.3.5.1: P289MK0431A: 12.3.2.2]. The subject in the Metformin group was withdrawn from the st udy due to an AE of transaminase elevation. No subjects in either group met the biochemical criteria for drug-induced liver injury as defined in the study protocols [Ref. 5.3.5.1: P170MK0431A: 16.1.1] [Ref. 5.3.5.1: P289MK0431A: 16.1.1]. Laboratory results in Studies P170 [Ref. 5.3.5.1: P170MK0431A: 12.3] and P289 [Ref. 5.3.5.1: P289MK0431A: 12.3] individually were generally consistent with those observed in the 2 -study pool.
+
+## 8.2.4.2. Vital Signs
+
+In the 2-study pool, changes over time in blood pressure (systolic and diastolic) and heart rate were not notably different between the Sita/Met FDC and Metformin groups through Weeks 20 and 54 [Table 5.3.5.3.3Type2DM0431A: 112] through [Table 5.3.5.3.3 -Type2DM0431A: 117]. Results for these endpoints in Studies P170 [Ref. 5.3.5.1: P170MK0431A: 12.4.1] and P289 [Ref. 5.3.5.1: P289MK0431A: 12.4.1] individually were generally consistent with those observed in the 2 -study pool.
+
+## 8.2.4.3. Indices of Adiposity
+
+In the 2-study pool, there were no notable differences between the Sita/Met FDC and Metformin groups in indices of adiposity (body weight, BMI, BMI percentile, waist circumference, and waist circumference-toheight ratio) through Week 20 and Week 54 [Table 5.3.5.3.3 -Type2DM0431A: 118] through [Table 5.3.5.3.3Type2DM0431A: 127]. Results for these endpoints in the Studies P170 [Ref. 5.3.5.1: P170MK0431A: Table 14.399] through [Ref. 5.3.5.1: P170MK0431A: Table 14.3 -108] and P289 [Ref. 5.3.5.1: P289MK0431A: Table 14.397] through [Ref. 5.3.5.1: P289MK0431A: Table 14.3 -106] individually were generally consistent with those observed in the 2-study pool.
+
+## 8.2.4.4. Growth and Development Endpoints
+
+In the 2-study pool, changes over time in height, height by standard deviation score, and growth velocity were not notably different between the Sita/Met FDC and Metformin groups through Weeks 20 and 54 [Table 5.3.5.3.3 -Type2DM0431A: 128] through [Table 5.3.5.3.3 -Type2DM0431A: 137]. Results for these
+
+<div style=\"page-break-after: always\"></div>
+
+endpoints in the Studies P170 [Ref. 5.3.5.1: P170MK0431A: Table 14.3 -109] through [Ref. 5.3.5.1: P170MK0431A: Table 14.3118] and P289 [Ref. 5.3.5.1: P289MK0431A: Table 14.3 -107] through [Ref. 5.3.5.1: P289MK0431A: Table 14.3116] individually were generally consistent with those observed in the 2-study pool. Tanner Staging In the 2-study pool, changes over time in Tanner Staging (ie, breasts [females only], genitalia [males only], and pubic hair) were not notably different between the Sita/Met FDC and Metformin groups through Weeks 20 and 54 [Table 5.3.5.3.3 -Type2DM0431A: 138] through [Table 5.3.5.3.3 -Ty pe2DM0431A: 145]. Results for these endpoints in the Studies P170 [Ref. 5.3.5.1: P170MK0431A: Table 14.3119] through [Ref. 5.3.5.1: P170MK0431A: Table 14.3 -126] and P289 [Ref. 5.3.5.1: P289MK0431A: Table 14.3117] through [Ref. 5.3.5.1: P289MK0431A: Tabl e 14.3124] individually were generally consistent with those observed in the 2-study pool.
+
+## 8.3. Postmarketing Summary
+
+A cumulative analysis of postmarketing data, as of 31-DEC-2019, did not identify new safety findings for the Sita/Met IR or Sita/Met XR FDC [Sec. 2.7.4 -Type2DM0431A: 6]. The safety data in this analysis are consistent with the established safety profile, as described in the product label for the Sita/Met IR and Sita/Met XR FDCs. As of 31-DEC-2019, there have been 26,843 reports containing 63,771 AEs (50,690 nonserious, 13,081 serious) in adult patients (≥18 years old) exposed to the Sita/Met IR or Sita/Met XR FDC [Appendix 2.7.4 -Type2DM0431A: 3]. Of the 13,081 SAEs, the most commonly reported PTs were pancreatitis (751 SAEs), diabetes mellitus inadequate control (415 SAEs), and pancreatic carcinoma (405 SAEs). There have been 1256 reports (1525 events) of adult patients with fatal outcomes [Appendix 2.7.4Type2DM0431A: 4]. The most commonly reported PTs with a fatal outcome were death (375 events), myocardial infarction (142 events), and pancreatic carcinoma (131 events). Review of the postmarketing safety reports in adult patients did not reveal new safety findings. The Sita/Met IR and Sita/Met XR FDCs are not approved for treatment of T2DM in pediatric patients. As of 31-DEC-2019, there have been 17 reports containing 55 AEs (29 nonserious and 26 serious) in pediatric patients (&lt;18 years old, including the age categories of fetus, neonate, infant, child, adolescent) exposed to the Sita/Met IR o r Sita/Met XR FDC [Appendix 2.7.4 -Type2DM0431A: 5]. These events were reported across multiple SOCs. Approximately 40% of the 55 AEs reported were in the Injury, poisoning and procedural complications SOC, with most being reports of accidental or off-label administration of drug. Review of these postmarketing safety reports did not identify new safety findings in pediatric patients relative to adult patients. The Sponsor will continue to monitor the safety of the Sita/Met IR and Sita/Met XR FDCs through established routine pharmacovigilance processes.
+
+## Summary of Safety
+
+There were 220 randomized and treated subjects in the 2-study pool (107 in the Sita/Met FDC group and 113 in the Metformin group). The percentages of subjects who completed Week 20 and the percentages who completed Week 54, among the subset who continued beyond Week 20, were high in both groups (&gt;90%).
+
+## Adverse events overall
+
+In the 2-study pool, the incidences of AEs overall, drug-related AEs, SAEs, and AEs leading to treatment discontinuation were generally similar in the Sita/Met FDC and Metformin groups through Week 20.
+
+## Serious adverse events
+
+In the 2-study pool, the incidences of SAEs were similar in the Sita/Met FDC and Metformin groups through Week 20 and Week 54. In both groups, SAEs occurred across different SOCs and specific PTs with no notable patterns observed.
+
+One death, in the Sita/Met FDC group, was reported in the 2-study pool. The subject completed the base study of Study P170 prior to the availability of the extension study and died 122 days after the last dose of study medication.
+
+<div style=\"page-break-after: always\"></div>
+
+## Specific adverse events
+
+Blood creatine phosphokinase increased and the incidence of headache
+
+In the 2-study pool, the incidences of specific AEs were generally similar in the Sita/Met FDC and Metformin groups through Week 20 and Week 54. Relative to the Metformin group, the incidence of blood creatine phosphokinase increased was higher, and the incidence of headache was lower in the Sita/Met FDC group. For both AEs, results through Week 54 were consistent with those through Week 20. However, through Week 54, there were no specific AEs for which the 95% CIs for the between-group differences excluded 0.
+
+## Hypoglycaemia
+
+In the 2-study pool in subjects not on background insulin therapy , symptomatic, asymptomatic, and documented hypoglycemia for both blood gluc ose categories (≤70 mg/dL [≤3.9 mmol/L] and &lt;54 mg/dL [&lt;3.0 mmol/L]) generally occurred more commonly in the Sita/Met FDC group than in the Metformin group. The incidences of severe hypoglycemia were low (≤3 subjects per group) and similar in the 2 groups.
+
+In the 2-study pool in subjects on background insulin therapy , symptomatic, asymptomatic, and documented hypoglycemia for both blood glucose categories (≤70 mg/dL [≤3.9 mmol/L] and &lt;54 mg/dL [&lt;3.0 mmol/L]) generally occurred more commonly in the Sita/Met FDC group than in the Metformin group through Week 20. Only 1 subject in each group had severe hypoglycemia through Weeks 20 and 54.
+
+## Other specific adverse events
+
+The incidences of the other Tier 1 GI AEs (diarrhea, nausea, vomiting) were similar in the 2 groups. In the 2-study pool, renal-related AEs occurred more commonly in the Sita/Met FDC group than in the Metformin group through Week 20. Results through Week 54 were similar in the 2 groups. In both treatment groups, renal-related AEs were limited to laboratory findings. The incidences of infections were similar in the Sita/Met FDC and Metformin groups through Week 20 and Week 54 [Sec. 2.7.4 -Type2DM0431A: 2.1.5.5]. The incidences of hypersensitivity AEs were similar. One subject in each group had an ALT value &gt;10x ULN. In the 2-study pool, there were no notable differences between the Sita/Met FDC and Metformin groups in indices of adiposity In the 2-study pool, changes over time in height, height by standard deviation score, and growth velocity were not notably different. A cumulative analysis of postmarketing data, as of 31-DEC-2019, did not identify new safety findings for the Sita/Met IR or Sita/Met XR FDC
+
+## Conclusion of Safety Results
+
+Safety of treatment with sitagliptin added on to metformin IR or XR (as the Sita/Met IR or Sita/Met XR FDC) in pediatric subjects with T2DM for 54 weeks was generally similar to that in adults. However, in patients with and without insulin, sitagliptin was associated with hypoglycaemia. Sitagliptin was not associated with the incidence of severe hypoglycemia.
+
+Rapporteur's assessment:
+
+The increased risk of hypoglycaemia should be added to the text of the SmPC. In addition, several other changes in the text are necessary (in SmPC). The SmPC is amended as requested within procedure. Issue resolved.
+
+The information with respect to the results of Studies P170 and P289 is also relevant for the SmPC of the monoproduct sitagliptin. The applicant is requested to discuss whether adding this information to the SmPC of the monoproduct is warranted.
+
+The applicant believes that further modification to the sitagliptin SmPC is not warranted. The sitagliptin SmPC has been updated recently to include a description of the pediatric clinical study of sitagliptin as initial oral therapy, but no extension of indications to the pediatric population. Unlike the observation in
+
+<div style=\"page-break-after: always\"></div>
+
+the pooled analysis of the data from Studies P170, and P289, in Study P083 (the Phase III study of sitagliptin as initial oral therapy in pediatric patients 10-17years old, with T2DM) imbalances in the incidences of hypoglycemia, with higher incidences in the sitagliptin group compared to the placebo group (over Weeks 0-20) or to the placebo/metformin group (over Weeks 0-54), were not observed in patients who were not on background insulin. The increased incidence of hypoglycemia observed in the sitagliptin group in patients who were on background insulin in Study P083 was consistent with the data in adult patients. The CHMP's assessment of the sitagliptin application (WS-1727 / P46-040) was therefore in keeping with the sponsor's conclusion that the profile of side effects (including the incidence of hypoglycemia) that had been observed in P083 was comparable to that observed in adults. Hence, the sponsor believes that the recent CHMP-approved sitagliptin product information sufficiently addresses the benefit/risk in the indicated population.
+
+The applicant's justification is acceptable. Issue resolved.
+
+## 9. Changes to the Product Information
+
+As a result of this variation, sections 4.2, 4.8, 5.1 and 5.2, are updated to include data from the pooled analysis of paediatric studies P170 (sitagliptin/metformin) and P289 (sitagliptin/metformin extended release). The package leaflet is revised accordingly.
+
+Changes are also made to the PI to bring it in line with the current QRD template version 10.1.

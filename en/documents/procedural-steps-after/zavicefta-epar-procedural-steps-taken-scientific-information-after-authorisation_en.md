@@ -1,0 +1,49 @@
+---
+document_datetime: 2025-11-14 10:09:53
+document_pages: 3
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/zavicefta-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+document_name: zavicefta-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+version: success
+processing_time: 1.6982212
+conversion_datetime: 2025-12-22 12:33:07.315305
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## Zavicefta
+
+Procedural steps taken and scientific information after the authorisation*
+
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
+
+| Application number   | Scope                                        | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|----------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Variation type II /  | C.I.11 Introduction of, or change(s) to, the | 30/10/2025                          | N/A                                         |                                  |           |
+
+1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
+
+2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
+
+3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+| EMA/VR/0000287802                     | obligations and conditions of a marketing authorisation, including the risk management plan - C.I.11.b Implementation of change(s) which require to be further substantiated by new additional data to be submitted by the MAH where significant assessment by the competent authority is required* - Accepted Update of the RMP (version 3.4) in order to propose the reclassification of the following safety concerns: Removal of 'Bacterial resistance development' as an Important potential risk and the removal of Missing Information 'Pregnancy exposure', 'Lactation exposure', and 'Immunocompromised population exposure'. Version 4.0 of the RMP is approved with this procedure.   |            |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Variation type IB / EMA/VR/0000247225 | C.I.3 Change(s) in the Summary of Product Characteristics, Labelling or Package Leaflet of human medicinal products intended to implement the outcome of a procedure concerning PSUR or PASS, or the outcome of the assessment done by the competent authority under Articles 45 or 46 of Regulation 1901/2006 - C.I.3.z Other variation - Accepted C.I.3.z (IB) - To update sections 4.4 and 4.8 of the SmPC to implement a warning related to Severe Cutaneous Adverse Reactions                                                                                                                                                                                                               | 20/05/2025 | SmPC and PL | To update sections 4.4 and 4.8 of the SmPC to implement a warning related to Severe Cutaneous Adverse Reactions (SCAR) and to include Acute Generalized Exanthematous Pustulosis (AGEP) as an adverse drug reaction with frequency \"not known\", following the CMDh adoption issued as part of PSUSA/00000608/202310 for ceftazidime containing products. The Package Leaflet has been updated accordingly. In addition, the qualifying term of 'SmPC' was added after the reference to section 6.6 in the PL to make it clear to the prescriber what document is being referred to. Furthermore, the MAh implemented a minor |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                          | (SCAR) and to include Acute Generalized Exanthematous Pustulosis (AGEP) as an adverse drug reaction with frequency \"not known\", following the CMDh adoption issued as part of PSUSA/00000608/202310 for ceftazidime containing products. The Package Leaflet has been updated accordingly. In addition, the MAH has taken the opportunity to make an editorial update in the HCP portion of the PL following a request by the Swedish Health Authority (EMEA/H/C004027/II/0035). The qualifying term of 'SmPC' was added after the reference to section 6.6 in the PL to make it clear to the prescriber what document is being referred to. Furthermore, the MAH took the opportunity to implement a minor amendment to section 5.2 of the SmPC with agreed wording on linearity/non-linearity, to bring the SmPC in line with the conclusions   |            |                        | amendment to section 5.2 of the SmPC with agreed wording on linearity/non-linearity, as requested by EMA   |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------------------|------------------------------------------------------------------------------------------------------------|
+| Variation type IA_IN / EMA/VR/0000253980 | A. ADMINISTRATIVE CHANGES - A.1 Change in the name and/or address of the marketing authorisation holder - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 25/02/2025 | SmPC, Labelling and PL |                                                                                                            |

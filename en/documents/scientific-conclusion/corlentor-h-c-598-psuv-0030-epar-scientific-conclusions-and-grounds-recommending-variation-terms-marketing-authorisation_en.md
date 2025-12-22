@@ -1,0 +1,73 @@
+---
+document_datetime: 2023-09-21 18:51:44
+document_pages: 2
+document_pathfilename: www.ema.europa.eu/en/documents/scientific-conclusion/corlentor-h-c-598-psuv-0030-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf
+document_name: corlentor-h-c-598-psuv-0030-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf
+version: success
+processing_time: 0.8288886
+conversion_datetime: 2025-12-22 08:18:11.335083
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+<!-- image -->
+
+26 June 2014 EMA/373632/2014 Committee for Medicinal Products for Human Use (CHMP)
+
+## Scientific conclusions and grounds recommending the variation to the terms of the marketing authorisation
+
+## Corlentor
+
+International non-proprietary name: ivabradine
+
+Procedure No.: EMEA/H/C/000598/PSUV/0030
+
+Period covered by the PSUR: 26.04.2013 to 25.10.2013
+
+●
+
+30 Churchill Place
+
+Telephone
+
+Canary Wharf
+
++44 (0)20 3660 6000
+
+●
+
+London E14 5EU
+
+Facsimile
+
+●
+
+United Kingdom
+
++44 (0)20 3660 5555
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR for Corlentor and Procoralan, the scientific conclusions of PRAC are as follows:
+
+The signal 'abdominal symptoms (including abdominal distension, abdominal discomfort, abdominal pain,  abdominal  pain  lower,  abdominal  pain  upper)'  arose  from  spontaneous  reporting  due  to  the high number of cases. In 28 out of 50 cases there was a positive dechallenge; and in 4 out of 51 cases there was a positive rechallenge. In addition the time to onset was within one week for 17 of the cases which is indicative of a causal relationship. Ivabradine is already associated with abdominal complaints such as constipation, diarrhoea and nausea. Therefore based on the evaluation of these spontaneous reported cases, abdominal pain should be included as a new adverse reaction with an uncommon frequency in section 4.8 of the SmPC.
+
+Therefore, in view of available data regarding abdominal pain, the PRAC considered that changes to the product information were warranted.
+
+The CHMP agrees with the scientific conclusions made by the PRAC.
+
+## Grounds recommending the variation to the terms of the Marketing Authorisation
+
+On the basis of the scientific conclusions for Corlentor and Procoralan, the CHMP is of the opinion that the benefit-risk balance of the medicinal product containing the active substance ivabradine is favourable subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the Marketing Authorisation should be varied.

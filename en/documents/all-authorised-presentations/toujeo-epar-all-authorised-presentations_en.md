@@ -4,8 +4,8 @@ document_pages: 2
 document_pathfilename: www.ema.europa.eu/en/documents/all-authorised-presentations/toujeo-epar-all-authorised-presentations_en.pdf
 document_name: toujeo-epar-all-authorised-presentations_en.pdf
 version: success
-processing_time: 1.6018263
-conversion_datetime: 2025-12-22 01:03:22.33338
+processing_time: 1.9759845
+conversion_datetime: 2025-12-22 06:53:00.204042
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-10-29 16:19:40
+document_datetime: 2025-12-19 16:06:34
 document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/fabhalta-epar-product-information_en.pdf
 document_name: fabhalta-epar-product-information_en.pdf
 version: success
-processing_time: 9.748736
-conversion_datetime: 2025-12-14 23:29:32.524797
+processing_time: 10.515811
+conversion_datetime: 2025-12-22 20:22:27.497493
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -14,7 +14,7 @@ docling_version:
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -56,7 +56,7 @@ FABHALTA is indicated for the treatment of adult patients with complement 3 glom
 
 ## 4.2 Posology and method of administration
 
-Posology
+## Posology
 
 The recommended dose is 200 mg taken orally twice daily.
 
@@ -418,11 +418,9 @@ d The threshold for demonstration of benefit was 15%, representing the rate that
 
 f Transfusion avoidance is defined as absence of administration of packed red blood cell transfusions between days 14 and 168 or meeting the criteria for transfusion between days 14 and 168.
 
-g,h   Adjusted mean assessed between days 126 and 168, values within 30 days after transfusion were excluded (g) /included (h) in the analysis.
+g,h Adjusted mean assessed between days 126 and 168, values within 30 days after transfusion were excluded (g) /included (h) in the analysis.
 
-i Clinical breakthrough haemolysis defined as meeting clinical criteria (either decrease of haemoglobin level ≥2 g/dl compared to the latest assessment or within 15 days; or signs or symptoms of gross haemoglobinuria, painful crisis, dysphagia or any other significant clinical PNH-related signs and
-
-symptoms) and laboratory criteria (LDH &gt;1.5 x ULN and increased as compared to the last 2 assessments).
+i Clinical breakthrough haemolysis defined as meeting clinical criteria (either decrease of haemoglobin level ≥2 g/dl compared to the latest assessment or within 15 days; or signs or symptoms of gross haemoglobinuria, painful crisis, dysphagia or any other significant clinical PNH-related signs and symptoms) and laboratory criteria (LDH &gt;1.5 x ULN and increased as compared to the last 2 assessments).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -542,11 +540,11 @@ The effect of renal impairment on the clearance of iptacopan was assessed using 
 
 Based on a study in subjects with mild (Child-Pugh A, n=8), moderate (Child-Pugh B, n=8) or severe (Child-Pugh C, n=6) hepatic impairment, a negligible effect on the total systemic exposure of iptacopan was observed compared to subjects with normal hepatic function. Unbound iptacopan Cmax increased 1.4-, 1.7- and 2.1-fold, and unbound iptacopan AUCinf increased by 1.5-, 1.6- and 3.7-fold in subjects with mild, moderate and severe hepatic impairment, respectively (see section 4.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.3 Preclinical safety data
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, carcinogenic potential, toxicity to reproduction and development.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reproductive toxicity
 
@@ -632,20 +630,17 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-- A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
-- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
 ## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer(s) responsible for batch release
+## Name and address of the manufacturer(s) responsible for batch release
 
 Novartis Pharmaceutical Manufacturing LLC Verovškova Ulica 57 1000 Ljubljana Slovenia
-
-Novartis Pharma GmbH Roonstrasse 25 90429 Nuremberg Germany
 
 Novartis Farmacéutica S.A. Gran Via De Les Corts Catalanes 764 08013 Barcelona Spain
 
@@ -702,10 +697,9 @@ The MAH shall ensure that in each Member State where FABHALTA is marketed, all H
 - o Ensure prescribers or pharmacists receive annual reminders of mandatory revaccinations in accordance with current national vaccination guidelines (including N. meningitidis , S. pneumoniae , and, if appropriate, H. influenzae )
 - o Monitor patients for signs and symptoms of sepsis, meningitis or pneumonia, such as: fever with or without shivers or chills, headache and a fever, fever and a rash, fever with chest pain and cough, fever with breathlessness/fast breathing, fever with high heart rate, headache with nausea or vomiting, headache with a stiff neck or stiff back, confusion, body aches with flu-like symptoms, clammy skin, eyes sensitive to light. If bacterial infection is suspected, treat with antibiotics immediately.
 - o In patients with PNH, discontinuation of FABHALTA may increase the risk of serious haemolysis, therefore advice on adherence to the dosing schedule is important, as is close monitoring for signs of haemolysis following treatment discontinuation. If discontinuation of FABHALTA is necessary, alternative therapy should be considered. If haemolysis occurs after discontinuation of FABHALTA, restarting FABHALTA treatment should be considered. Possible signs and symptoms you need to look out for are: elevated lactate dehydrogenase (LDH) levels along with sudden decrease in haemoglobin or PNH clone size, fatigue, haemoglobinuria, abdominal pain, dyspnoea, dysphagia, erectile dysfunction or major adverse vascular events including thrombosis.
+- o Details about the PASS for patients with PNH and how to enter patients, if applicable.
 
 <div style=\"page-break-after: always\"></div>
-
-- o Details about the PASS for patients with PNH and how to enter patients, if applicable.
 
 ## The patient information pack:
 
@@ -797,17 +791,19 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/24/1802/001 28 hard capsules
+EU/1/24/1802/001
+
+28 hard capsules
 
 ## 13. BATCH NUMBER
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 FABHALTA 200 mg
 
@@ -819,9 +815,9 @@ FABHALTA 200 mg
 
 PC SN
 
-NN
-
 <div style=\"page-break-after: always\"></div>
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -853,7 +849,9 @@ Oral use
 
 'Q R code to be included'
 
-www.fabhalta.eu Scan me
+www.fabhalta.eu
+
+Scan me
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -861,16 +859,13 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -878,7 +873,9 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/24/1802/001 28 hard capsules
+EU/1/24/1802/001
+
+28 hard capsules
 
 ## 13. BATCH NUMBER
 
@@ -896,8 +893,7 @@ FABHALTA 200 mg
 
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -929,7 +925,9 @@ Oral use
 
 'Q R code to be included'
 
-www.fabhalta.eu Scan me
+www.fabhalta.eu
+
+Scan me
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -937,7 +935,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-## 8. EXPIRY DATE
+8. EXPIRY DATE
 
 EXP
 
@@ -1019,8 +1017,6 @@ EXP
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-<div style=\"page-break-after: always\"></div>
-
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
@@ -1031,27 +1027,27 @@ EU/1/24/1802/003
 
 168 (3 x 56) hard capsules
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
 FABHALTA 200 mg
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1103,10 +1099,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1136,17 +1129,19 @@ FABHALTA 200 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTERS                                              |
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| MINIMUM PARTICULARSTO APPEARON BLISTERS ORSTRIPS   |
+|----------------------------------------------------|
+| BLISTERS                                           |
+
+| 1.   | NAME OFTHEMEDICINAL PRODUCT   |
+|------|-------------------------------|
 
 FABHALTA 200 mg capsules iptacopan
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAME OFTHEMARKETING AUTHORISATION HOLDER   |
+|------|--------------------------------------------|
 
 Novartis Europharm Limited
 
@@ -1155,17 +1150,15 @@ Novartis Europharm Limited
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+| 4.   | BATCHNUMBER   |
+|------|---------------|
 
 Lot
 
 | 5.   | OTHER   |
 |------|---------|
 
-Mon. Tue. Wed. Thu. Fri. Sat.
-
-Sun.
+Mon. Tue. Wed. Thu. Fri. Sat. Sun.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1214,9 +1207,11 @@ The active substance in FABHALTA, iptacopan, targets a protein called Factor B, 
 
 In patients with PNH, the complement system is overactive, causing the destruction and breakdown of the red blood cells, which can lead to anaemia, tiredness, difficulty in functioning, pain, pain in the stomach (abdomen), dark urine, shortness of breath, difficulty swallowing, impotence and blood clots. By attaching to and blocking the Factor B protein, iptacopan can stop the complement system from attacking the red blood cells. This medicine has been shown to increase the number of red blood cells and thus may improve symptoms of anaemia.
 
+In patients with C3G, the complement system is overactive, leading to deposition of C3 within the glomeruli (a part of the kidneys) causing inflammation and fibrosis (tissue scarring and thickening). As a result, patients with C3G often have high levels of protein in their urine (proteinuria) and
+
 <div style=\"page-break-after: always\"></div>
 
-In patients with C3G, the complement system is overactive, leading to deposition of C3 within the glomeruli (a part of the kidneys) causing inflammation and fibrosis (tissue scarring and thickening). As a result, patients with C3G often have high levels of protein in their urine (proteinuria) and progressive decline in kidney function over time. By attaching to the Factor B protein, iptacopan can reduce the deposition of C3 in the kidney. This medicine has been shown to reduce levels of protein in the urine and the decline in kidney function.
+progressive decline in kidney function over time. By attaching to the Factor B protein, iptacopan can reduce the deposition of C3 in the kidney. This medicine has been shown to reduce levels of protein in the urine and the decline in kidney function.
 
 ## 2. What you need to know before you take FABHALTA
 
@@ -1253,11 +1248,11 @@ Tell your doctor immediately if you get any of the following symptoms of serious
 - -clammy skin
 - -eyes sensitive to light
 
-<div style=\"page-break-after: always\"></div>
-
 ## Children and adolescents
 
 Do not give FABHALTA to children or adolescents below 18 years of age. No data are available on the safety and effectiveness of FABHALTA in this age group.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Other medicines and FABHALTA
 
@@ -1303,9 +1298,9 @@ The recommended dose is 200 mg (one capsule) to be taken by mouth twice daily (o
 
 Taking FABHALTA at the same time each day will help you to remember when to take your medicine.
 
-<div style=\"page-break-after: always\"></div>
-
 It is important that you take FABHALTA according to your doctor 's instructions. For patients with PNH, this is important to reduce the risk of breakdown of red blood cells due to PNH.
+
+<div style=\"page-break-after: always\"></div>
 
 ## FABHALTA with food
 
@@ -1350,8 +1345,6 @@ If you experience any of these after stopping treatment, contact your doctor.
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
@@ -1359,6 +1352,8 @@ Like all medicines, this medicine can cause side effects, although not everybody
 ## Serious side effects
 
 The most serious side effect is serious infection. If you experience any of the symptoms of serious infection listed under 'Serious infection caused by encapsulated bacteria ' in section 2 of this leaflet, you should immediately inform your doctor.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Side effects for PNH
 
@@ -1368,7 +1363,7 @@ Very common (may affect more than 1 in 10 people)
 - -headache
 - -diarrhoea
 
-Common (may affect up to 1 in 10 people)
+## Common (may affect up to 1 in 10 people)
 
 - -persistent cough or irritation of the airways (bronchitis)
 - -low levels of platelets (which help the blood clot) in the blood (thrombocytopenia), which may cause you to bleed or bruise more easily
@@ -1378,7 +1373,7 @@ Common (may affect up to 1 in 10 people)
 - -joint pain (arthralgia)
 - -urinary tract infection
 
-Uncommon (may affect up to 1 in 100 people)
+## Uncommon (may affect up to 1 in 100 people)
 
 - -lung infection, which can cause chest pain, cough and fever
 - -itchy rash (urticaria)
@@ -1439,13 +1434,9 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Pharmaceutical Manufacturing LLC Verovškova Ulica 57 1000 Ljubljana Slovenia
 
-Novartis Pharma GmbH Roonstrasse 25 90429 Nuremberg Germany
-
 Novartis Farmacéutica S.A. Gran Via De Les Corts Catalanes 764 08013 Barcelona Spain
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
-
-<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1453,7 +1444,7 @@ For any information about this medicine, please contact the local representative
 
 Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
-## Lietuva
+Lietuva
 
 SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
@@ -1471,125 +1462,57 @@ Novartis Pharma N.V.
 
 Tél/Tel: +32 2 246 16 11
 
+<div style=\"page-break-after: always\"></div>
+
 ## Česká republika
 
 Novartis s.r.o.
 
 Tel: +420 225 775 111
 
-## Magyarország
-
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
-
 ## Danmark
 
-Novartis Healthcare A/S
-
-Tlf.: +45 39 16 84 00
-
-## Malta
-
-Novartis Pharma Services Inc.
-
-Tel: +356 2122 2872
+Novartis Healthcare A/S Tlf.: +45 39 16 84 00
 
 ## Deutschland
 
-Novartis Pharma GmbH
-
-Tel: +49 911 273 0
-
-## Nederland
-
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
+Novartis Pharma GmbH Tel: +49 911 273 0
 
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal
-
-Tel: +372 66 30 810
-
-## Norge
-
-Novartis Norge AS Tlf: +47 23 05 20 00
+SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
 
 ## Ελλάδα
 
 Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
 
-## Österreich
-
-Novartis Pharma GmbH Tel: +43 1 86 6570
-
 ## España
 
-Novartis Farmacéutica, S.A.
-
-Tel: +34 93 306 42 00
-
-## Polska
-
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
+Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
 
 ## France
 
 Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
 
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
-
 ## Hrvatska
 
 Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
-
-## România
-
-Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
 
 ## Ireland
 
 Novartis Ireland Limited Tel: +353 1 260 12 55
 
-## Slovenija
-
-Novartis Pharma Services Inc. Tel: +386 1 300 75 50
-
 ## Ísland
 
-Vistor hf.
-
-Sími: +354 535 7000
-
-## Slovenská republika
-
-Novartis Slovakia s.r.o.
-
-Tel: +421 2 5542 5439
+Vistor hf. Sími: +354 535 7000
 
 ## Italia
 
-Novartis Farma S.p.A.
-
-Tel: +39 02 96 54 1
-
-## Suomi/Finland
-
-Novartis Finland Oy
-
-Puh/Tel: +358 (0)10 6133 200
-
-<div style=\"page-break-after: always\"></div>
+Novartis Farma S.p.A. Tel: +39 02 96 54 1
 
 ## Κύπρος
 
-Novartis Pharma Services Inc.
-
-Τηλ
-
-: +357 22 690 690
+Novartis Pharma Services Inc. Τηλ : +357 22 690 690
 
 ## Latvija
 
@@ -1599,12 +1522,60 @@ Tel: +371 67 887 070
 
 ## This leaflet was last revised in
 
-## Other sources of information
+## Magyarország
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
+
+## Malta
+
+Novartis Pharma Services Inc. Tel: +356 2122 2872
+
+## Nederland
+
+Novartis Pharma B.V. Tel: +31 88 04 52 111
+
+## Norge
+
+Novartis Norge AS Tlf: +47 23 05 20 00
+
+## Österreich
+
+Novartis Pharma GmbH Tel: +43 1 86 6570
+
+## Polska
+
+Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
+
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
+
+## România
+
+Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
+
+## Slovenija
+
+Novartis Pharma Services Inc. Tel: +386 1 300 75 50
+
+## Slovenská republika
+
+Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
+
+## Suomi/Finland
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
 
 ## Sverige
 
-Novartis Sverige AB
+Novartis Sverige AB Tel: +46 8 732 32 00
 
-Tel: +46 8 732 32 00
+<div style=\"page-break-after: always\"></div>
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.

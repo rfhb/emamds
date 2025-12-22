@@ -1,0 +1,47 @@
+---
+document_datetime: 2023-09-21 17:48:21
+document_pages: 1
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps/fareston-epar-procedural-steps-taken-authorisation_en.pdf
+document_name: fareston-epar-procedural-steps-taken-authorisation_en.pdf
+version: success
+processing_time: 0.4638184
+conversion_datetime: 2025-12-22 14:01:02.216343
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## BACKGROUND INFORMATION ON THE PROCEDURE
+
+## 1. Submission of the dossier
+
+The  company  Ercopharm  A/S  submitted  an  application  to  all  European  Union  Member  States  for Fareston, through the Concertation procedure No 91 on 1 December 1994. In application to article 2 of Directive  93/41/EEC on 11 January 1995 the company Ercopharm A/S transferred to the European Agency for the Evaluation of Medicinal Products, into the new centralised procedure, the application for Marketing Authorisation for Fareston falling within the scope of Part B of the Annex to Council Regulation (EEC) 2309/93 of 22 July 1993.
+
+The Rapporteur and Co-Rapporteur appointed by the CHMP were:
+
+Rapporteur:
+
+Patrick Le Courtois
+
+Co-Rapporteur:
+
+Gorm Jensen
+
+## 2. Steps taken for the assessment of the product
+
+- The procedure was transferred to the centralised procedure at the EMEA in January 1995.
+- The Rapporteur's initial assessment report was circulated to all CPMP Members on 20 March 1995.
+- The Co-Rapporteur prepared additional assessment on 13 March 1995.
+- The CPMP agreed on the consolidated list of questions to be sent to the company on 15 May 1995.
+- The company submitted the responses to the CPMP consolidated list of questions on 22 June 1995.
+- The  Rapporteur's  assessment  reports  on  the  responses  to  the  CPMP  consolidated  list  of questions was circulated to all CPMP Members by the Rapporteur on 25 July 1995.
+- The  Co-Rapporteur's  assessment  reports  on  the  responses  to  the  CPMP  consolidated  list  of questions was circulated to all CPMP Members on 26 July 1995.
+- The company provided additional information on 6 September 1995.
+- During the meeting on 12 September 1995, the CPMP discussed the recommendations presented by the Rapporteur, considering the responses provided by the company, which were satisfactory. Amendments  were  discussed to the Summary  of  Product Characteristics (Chapter 4.1 Therapeutic  indications  and  Chapter  5.3  Preclinical  safety  data)  and  Package  Leaflet  texts (Chapter 2 Wording of the therapeutic indications and mention of either breast cancer or breast disease).
+- The CPMP during their meeting in October 1995 reached a common agreement on the Package Leaflet  wording  of  the  therapeutic  indication,  on  the  SPC  and  labelling  and  issued  a  positive Opinion for granting a Marketing Authorisation to Fareston on 17 October 1995.
+- The  CPMP  Opinion  was  forwarded,  in  all  official  languages  of  the  European  Union,  to  the European Commission, who adopted the corresponding Decision on 14 February 1996.

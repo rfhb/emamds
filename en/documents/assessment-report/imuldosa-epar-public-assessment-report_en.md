@@ -1,0 +1,3350 @@
+---
+document_datetime: 2024-12-18 14:33:59
+document_pages: 106
+document_pathfilename: www.ema.europa.eu/en/documents/assessment-report/imuldosa-epar-public-assessment-report_en.pdf
+document_name: imuldosa-epar-public-assessment-report_en.pdf
+version: success
+processing_time: 91.2718853
+conversion_datetime: 2025-12-22 22:09:25.570329
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+<!-- image -->
+
+17 October 2024 EMA/592044/2024 Committee for Medicinal Products for Human Use (CHMP)
+
+## Assessment report
+
+## Imuldosa
+
+International non-proprietary name: ustekinumab
+
+Procedure No. EMEA/H/C/006221/0000
+
+## Note
+
+Assessment report as adopted by the CHMP with all information of a commercially confidential nature deleted.
+
+●
+
+●
+
+Refer to www.ema.europa.eu/how-to-find-us
+
+Address for visits and deliveries
+
+Send us a question
+
+Go to www.ema.europa.eu/contact
+
+Telephone
+
++31 (0)88 781 6000
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Table of contents
+
+| 1. Background information on the procedure...............................................6                                  |                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| 1.1. Submission of the dossier.....................................................................................6        |                                                                                                         |
+| 1.2. Legal basis, dossier content                                                                                           | ..................................................................................6                     |
+| 1.3. Information on paediatric requirements..................................................................7              |                                                                                                         |
+| 1.4. Information relating to orphan market exclusivity                                                                      | ....................................................7                                                   |
+| 1.4.1. Similarity.........................................................................................................7 |                                                                                                         |
+| 1.5. Scientific advice                                                                                                      | ..................................................................................................7     |
+| 1.6. Steps taken for the assessment of the product                                                                          | ........................................................9                                               |
+| 2. Scientific discussion                                                                                                    | ..............................................................................11                        |
+| 2.1. Problem statement                                                                                                      | ............................................................................................11          |
+| 2.2. About the product..............................................................................................11      |                                                                                                         |
+| 2.3. Type of application and aspects on development....................................................11                   |                                                                                                         |
+| 2.4. Quality aspects..................................................................................................11    |                                                                                                         |
+| 2.4.1. Introduction                                                                                                         | ...................................................................................................11   |
+| 2.4.2. Active substance.............................................................................................12      |                                                                                                         |
+| 2.4.3. Finished medicinal product                                                                                           | ...............................................................................17                       |
+| 2.4.4. Discussion on chemical, and pharmaceutical aspects............................................29                     |                                                                                                         |
+| 2.4.5. Conclusions on the chemical, pharmaceutical and biological aspects.......................29                          |                                                                                                         |
+| 2.4.6. Recommendation(s) for future quality development.............................................29                      |                                                                                                         |
+| 2.5. Non-clinical aspects                                                                                                   | ...........................................................................................29           |
+| 2.5.1. Introduction                                                                                                         | ...................................................................................................29   |
+| 2.5.2. Pharmacology.................................................................................................29      |                                                                                                         |
+| 2.5.3. Pharmacokinetics............................................................................................31       |                                                                                                         |
+| 2.5.4. Toxicology                                                                                                           | .....................................................................................................31 |
+| 2.5.5. Ecotoxicity/environmental risk assessment.........................................................32                 |                                                                                                         |
+| 2.5.6. Discussion on non-clinical aspects                                                                                   | .....................................................................32                                 |
+| 2.5.7. Conclusion on non-clinical aspects.....................................................................33            |                                                                                                         |
+| 2.6. Clinical aspects..................................................................................................33   |                                                                                                         |
+| 2.6.1. Introduction                                                                                                         | ...................................................................................................33   |
+| 2.6.2. Clinical pharmacology......................................................................................34        |                                                                                                         |
+| 2.6.3. Discussion on clinical pharmacology                                                                                  | ..................................................................41                                    |
+| 2.6.4. Conclusions on clinical pharmacology.................................................................44              |                                                                                                         |
+| 2.6.5. Clinical efficacy...............................................................................................45   |                                                                                                         |
+| 2.6.6. Discussion on clinical efficacy                                                                                      | ...........................................................................67                           |
+| 2.6.7. Conclusions on clinical efficacy..........................................................................70         |                                                                                                         |
+| 2.6.8. Clinical safety.................................................................................................70   |                                                                                                         |
+| 2.6.9. Discussion on clinical safety..............................................................................94        |                                                                                                         |
+| 2.6.10. Conclusions on clinical safety                                                                                      | ..........................................................................99                            |
+| 2.7. Risk management plan                                                                                                   | .......................................................................................99               |
+| 2.7.1. Safety Concerns                                                                                                      | .............................................................................................99         |
+| 2.7.2. Pharmacovigilance plan                                                                                               | ...................................................................................99                   |
+| 2.7.3. Risk minimisation measures                                                                                           | .............................................................................99                         |
+| 2.7.4. Conclusion                                                                                                           | ...................................................................................................101  |
+| 2.8. Pharmacovigilance                                                                                                      | ...........................................................................................101          |
+
+<div style=\"page-break-after: always\"></div>
+
+2.8.1. Pharmacovigilance system..............................................................................101
+
+2.8.2. Periodic Safety Update Reports submission requirements....................................101
+
+2.9. Product information..........................................................................................101
+
+2.9.1. User consultation ..........................................................................................101
+
+2.9.2. Additional monitoring.....................................................................................101
+
+3. Biosimilarity assessment .....................................................................102
+
+3.1. Comparability exercise and indications claimed ....................................................102
+
+3.2. Results supporting biosimilarity..........................................................................102
+
+3.3. Uncertainties and limitations about biosimilarity...................................................103
+
+3.4. Discussion on biosimilarity ................................................................................104
+
+3.5. Extrapolation of safety and efficacy ....................................................................105
+
+3.6. Additional considerations ..................................................................................105
+
+3.7. Conclusions on biosimilarity and benefit risk balance.............................................105
+
+4. Recommendations ...............................................................................105
+
+<div style=\"page-break-after: always\"></div>
+
+## List of abbreviations
+
+ACP
+
+Assay cut point
+
+ADA
+
+Anti-drug antibody
+
+AE
+
+Adverse event
+
+AESI
+
+Adverse event of special interest
+
+ALT
+
+Alanine aminotransferase
+
+ANCOVA
+
+Analysis of covariance
+
+AST
+
+Aspartate aminotransferase
+
+ATC
+
+Anatomical therapeutic chemical
+
+AUC
+
+Area under the concentration-time curve
+
+%AUCex
+
+Percent of AUCinf extrapolated
+
+AUC0-1008h
+
+Area under the concentration-time curve from time zero to 1008 hours
+
+AUC1008h-inf
+
+Area under the concentration-time curve from 1008 hours to infinity
+
+AUC1008h last
+
+Area under the concentration-time curve from 1008 hours to the last quantifiable
+
+time point
+
+AUCinf
+
+Area under the concentration-time curve from time zero to infinity
+
+AUClast
+
+Area under the concentration-time curve from time zero to the last quantifiable
+
+time point
+
+AUC0-Tmax
+
+Area under the concentration-time curve from time zero to Tmax
+
+AUCw0-w4
+
+Area under the concentration-time curve from Week 0 to Week 4
+
+AUEC
+
+Area under the effect curve
+
+bAb
+
+Binding antibody
+
+BE
+
+Bioequivalence
+
+BMI
+
+Body mass index
+
+BSA
+
+Body surface area
+
+CD
+
+Crohn's disease
+
+CF
+
+Correction Factor
+
+CFR
+
+Code of Federal Regulation
+
+CHMP
+
+Committee for Medicinal Products for Human Use
+
+CI
+
+Confidence interval
+
+Cmax
+
+Maximum concentration
+
+COVID-19
+
+Coronavirus disease 2019
+
+CS
+
+Clinically significant
+
+CSR
+
+Clinical study report
+
+%CV
+
+Coefficient of variation (percent)
+
+DLQI
+
+Dermatology Life Quality Index
+
+DS
+
+Drug substance
+
+DP
+
+Drug product
+
+ECG
+
+Electrocardiogram
+
+ECL
+
+Electrochemiluminescence
+
+ELISA
+
+Enzyme-linked immunosorbent assay
+
+EMA
+
+European Medicines Agency
+
+EoS
+
+End-of-study
+
+ET
+
+Early termination
+
+EU
+
+European Union
+
+FDA
+
+Food and Drug Administration
+
+GCP
+
+Good clinical practice
+
+HPC
+
+High positive control sample
+
+HQC
+
+High quality control sample
+
+ICH
+
+International Council for Harmonisation
+
+IEC
+
+Independent Ethics Committee
+
+Ig
+
+Immunoglobulin
+
+IgG1 κ
+
+Immunoglobulin G1kappa
+
+IL
+
+Interleukin
+
+IL-12
+
+Interleukin 12
+
+IL-23
+
+Interleukin 23
+
+ISR
+
+Injection site reaction
+
+ITT
+
+Intent-to-treat
+
+IV
+
+Intravenous
+
+LC
+
+Light chain
+
+LLOQ
+
+Lower limit of quantification
+
+LPC
+
+Low positive control sample
+
+<div style=\"page-break-after: always\"></div>
+
+| LQC        | Low quality control sample                      |
+|------------|-------------------------------------------------|
+| mAb        | Monoclonal antibody                             |
+| MQC        | Mid quality control sample                      |
+| N          | Number of subjects                              |
+| nAb        | Neutralising antibody                           |
+| PASI       | Psoriasis Area and Severity Index               |
+| PD         | Protocol deviation                              |
+| PFS        | Pre-filled syringe                              |
+| PGA        | Physician's global assessment                   |
+| PK         | Pharmacokinetics                                |
+| PPS        | Per protocol analysis set                       |
+| Ps         | Plaque psoriasis                                |
+| PsA        | Psoriatic arthritis                             |
+| PT         | Preferred term                                  |
+| QA         | Quality assurance                               |
+| QC         | Quality control                                 |
+| QTc        | QT interval corrected for heart rate            |
+| %RE        | Relative error (percent)                        |
+| ROW        | Rest of the world                               |
+| SAE        | Serious adverse event                           |
+| SAF        | Safety analysis set                             |
+| SAP        | Statistical analysis plan                       |
+| SAR        | Sample analysis report                          |
+| SARS-CoV-2 | Severe acute respiratory syndrome coronavirus-2 |
+| SC         | Subcutaneous                                    |
+| SCP        | Specificity cut point                           |
+| SD         | Standard deviation                              |
+| SmPC       | Summary of product characteristics              |
+| SOC        | System organ class                              |
+| SWP        | Standard working procedure                      |
+| t1/2       | Terminal half-life                              |
+| TB         | Tuberculosis                                    |
+| TEAE       | Treatment-emergent adverse event                |
+| Th         | T helper                                        |
+| Tmax       | Time to reach maximum concentration             |
+| TOST       | Two one-sided t-tests                           |
+| ULN        | Upper limit of normal                           |
+| ULOQ       | Upper limit of quantification                   |
+
+<div style=\"page-break-after: always\"></div>
+
+## 1.  Background information on the procedure
+
+## 1.1.  Submission of the dossier
+
+The applicant Accord Healthcare S.L.U. submitted on 26 June 2023 an application for marketing authorisation to the European Medicines Agency (EMA) for Imuldosa, through the centralised procedure falling within the Article 3(1) and point 1 of Annex of Regulation (EC) No 726/2004.
+
+The applicant applied for the following indications:
+
+## Plaque psoriasis
+
+Imuldosa is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A) (see section 5.1).
+
+## Paediatric plaque psoriasis
+
+Imuldosa is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies (see section 5.1).
+
+## Psoriatic arthritis (PsA)
+
+Imuldosa, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease- modifying anti-rheumatic drug (DMARD) therapy has been inadequate (see section 5.1).
+
+## Crohn's Disease
+
+Imuldosa is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist or have medical contraindications to such therapies.
+
+## Ulcerative colitis
+
+Imuldosa is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a biologic or have medical contraindications to such therapies (see section 5.1).
+
+The applicant removed the indication of ulcerative colitis during the procedure.
+
+## 1.2.  Legal basis, dossier content
+
+## The legal basis for this application refers to:
+
+Article 10(4) of Directive 2001/83/EC - relating to applications for a biosimilar medicinal product.
+
+The application submitted is composed of administrative information, complete quality data, appropriate non-clinical and clinical data for a similar biological medicinal product.
+
+## The chosen reference product is:
+
+Medicinal product which is or has been authorised in accordance with Union provisions in force for not less than 10 years in the EEA:
+
+-  Product name, strength, pharmaceutical form:  Stelara (ustekinumab), 45 mg, 90 mg, solution for
+
+<div style=\"page-break-after: always\"></div>
+
+injection in pre-filled syringe and Stelara (ustekinumab), 130 mg, concentrate for solution for infusion
+
+-  Marketing authorisation holder:  Janssen-Cilag International NV
+-  Date of authorisation: 15-01-2009
+-  Marketing authorisation granted by: Union
+-  Marketing authorisation number:   EU/1/08/494/003, EU/1/08/494/004, EU/1/08/494/005
+
+Medicinal product authorised in the Union/Members State where the application is made or European reference medicinal product:
+
+-  Product name, strength, pharmaceutical form:  Stelara (estekinumab), 45 mg, 90 mg, solution for injection in pre-filled syringe and Stelara (estekinumab), 130 mg, concentrate for solution for infusion
+-  Marketing authorisation holder:   Janssen-Cilag International NV
+-  Date of authorisation: 15-01-2009
+-  Marketing authorisation granted by: Union
+-  Marketing authorisation number:   EU/1/08/494/003, EU/1/08/494/004, EU/1/08/494/005
+
+Medicinal product which is or has been authorised in accordance with Union provisions in force and to which comparability tests and studies have been conducted:
+
+-  Product name, strength, pharmaceutical form:  Stelara (ustekinumab), 45 mg, 90 mg, solution for injection in pre-filled syringe and Stelara (ustekinumab), 130 mg, concentrate for solution for infusion
+-  Marketing authorisation holder:   Janssen-Cilag International NV
+-  Date of authorisation: 15-01-2009
+-  Marketing authorisation granted by: Union
+-  Marketing authorisation number:   EU/1/08/494/003, EU/1/08/494/004, EU/1/08/494/005
+
+## 1.3.  Information on paediatric requirements
+
+Not applicable
+
+## 1.4.  Information relating to orphan market exclusivity
+
+## 1.4.1.  Similarity
+
+Pursuant to Article 8 of Regulation (EC) No. 141/2000 and Article 3 of Commission Regulation (EC) No 847/2000, the applicant did not submit a critical report addressing the possible similarity with authorised orphan medicinal products because there is no authorised orphan medicinal product for a condition related to the proposed indication.
+
+## 1.5.  Scientific advice
+
+The applicant received the following scientific advice on the development relevant for the indication subject to the present application:
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+| Date             | Reference                  | SAWP co- ordinators                                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|------------------|----------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 31 May 2018      | EMA/CHMP/SAWP /296772/2018 | Dr Elena Wolff-Holz, Dr Stephan Lehr and Ms Anja Schiel                  | The initial Scientific Advice pertained to the following quality, non-clinical and clinical aspects: • Presentations (PFS and vial) to be used to conduct the pivotal biosimilarity exercise. • Analytical comparability between DB-3115 and the refence product. • Stability program. • Difference in quality attributes and need for in vivo toxicity studies. • Phase I study design including PK and immunogenicity. • Phase III study design. • Extrapolation of indications.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| 15 November 2018 | EMA/CHMP/SAWP /775189/2018 | Dr Jeanette McCallion and Dr Kirstine Moll Harboe                        | The follow-up Scientific Advice pertained to the following clinical aspects: • Phase I study design to assess bioequivalence (BE) between DMB-3115 (either of 2 formulations) and the reference product. • Choice of dose for clinical development.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 25 June 2020     | EMA/CHMP/SAWP /320581/2020 | Dr Elena Wolff-Holz, Dr Ewa Balkowiec- Iskra and Dr Romaldas Mačiulaitis | The follow-up Scientific Advice pertained to the following quality and clinical aspects: • The proposed risk ranking of quality attributes for the analytical biosimilarity exercise between DMB-3115 and EU-Stelara. • The proposed testing items, acceptance criteria, analytical methods and method validation plans for DMB-3115 drug substance and drug product, the pre-filtration bioburden testing together with filter validation and the shelf-life assignment (all prior to the comparative Phase III clinical study). • The proposed functionality test items and the approach for the usability (Human Factor) studies. • The study design, primary endpoint, PK sampling, equivalence margin and sample size for the pivotal clinical study for demonstrating similarity of DMB-3115 to Stelara. • The acceptability of the clinical program for extrapolation to the vial presentations and indications (including CD and UC). • The extrapolation to the CD and UC indications using only the DMB-3115 PFS presentations. • The strategy to submit the 16-week data (including the primary endpoint at week 12) with the initial MAA and provide final results around the mid-cycle meeting during the MAA review |
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+|                  |                            |                                            | process.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|------------------|----------------------------|--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 12 November 2020 | EMA/CHMP/SAWP /581907/2020 | Dr Juha Kolehmainen and Prof Andrea Laslop | The follow-up Scientific Advice pertained to the following quality and clinical aspects: • Proposed amendments to the drug substance (DS) and drug product (DP) specifications, to the stability program and to the stability testing plans and shelf-life assignment for the DMB-3115 drug product when assembled with the safety device. • The possibility to initiate the Phase III study partially in parallel with the Phase I study. • The updated clinical Phase III study design.                                                                                                 |
+| 24 June 2021     | EMADOC- 1700519818- 693409 | Dr Juha Kolehmainen and Dr Linda Trauffler | The follow-up Scientific Advice pertained to the following Quality and Clinical aspects: • validation of manufacturing processes with the proposed number of the DP lots proposed in-process bioburden and endotoxin limits for DS and DP. • extractables and leachables studies of DS and DP related to the container closure system. • stability studies. • adequacy of proposed risk ranking and data analysis tool and statistical assessment methodology to demonstrate biosimilarity; •study population and earliest time point for immunogenicity assessment in the phase 3 study. |
+
+## 1.6.  Steps taken for the assessment of the product
+
+The Rapporteur and Co-Rapporteur appointed by the CHMP were:
+
+Rapporteur: Jayne Crowe
+
+Co-Rapporteur:Frantisek Drafi
+
+<div style=\"page-break-after: always\"></div>
+
+| The application was received by the EMA on                                                                                                                                               | 26 June 2023      |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
+| The procedure started on                                                                                                                                                                 | 13 July 2023      |
+| The CHMP Rapporteur's first Assessment Report was circulated to all CHMP and PRAC members on                                                                                             | 02 October 2023   |
+| The CHMP Co-Rapporteur's first Assessment Report was circulated to all CHMP and PRAC members on                                                                                          | 16 October 2023   |
+| The PRAC Rapporteur's first Assessment Report was circulated to all PRAC and CHMP members on                                                                                             | 16 October 2023   |
+| The CHMP agreed on the consolidated List of Questions to be sent to the applicant during the meeting on                                                                                  | 09 November 2023  |
+| The applicant submitted the responses to the CHMP consolidated List of Questions on                                                                                                      | 26 April 2024     |
+| The following GMP inspection(s) were requested by the CHMP and their outcome taken into consideration as part of the Quality/Safety/Efficacy assessment of the product:                  |                   |
+|  A GMP inspection at the active substance and finished product manufacturing site in the Republic of Korea. The outcome of the inspection carried out was issued on 11/09/2024.         | 30 May 2024       |
+| The CHMP Rapporteurs circulated the CHMP and PRAC Rapporteurs Joint Assessment Report on the responses to the List of Questions to all CHMP and PRAC members on                          | 31 May 2024       |
+| The PRAC agreed on the PRAC Assessment Overview and Advice to CHMP during the meeting on                                                                                                 | 13 June 2024      |
+| The CHMP Rapporteurs circulated the CHMP and PRAC Rapporteurs Joint updated Assessment Report on the responses to the List of Questions to all CHMP and PRAC members on                  | 20 June 2024      |
+| The CHMP agreed on a list of outstanding issues in writing and/or in an oral explanation to be sent to the applicant on                                                                  | 27 June 2024      |
+| The applicant submitted the responses to the CHMP List of Outstanding Issues on                                                                                                          | 17 September 2024 |
+| The CHMP Rapporteurs circulated the CHMP and PRAC Rapporteurs Joint Assessment Report on the responses to the List of Outstanding Issues to all CHMP and PRAC members on                 | 02 October 2024   |
+| The CHMP Rapporteurs circulated the CHMP and PRAC Rapporteurs Joint updated Assessment Report on the responses to the List of Outstanding Issues to all CHMP and PRAC members on         | 10 October 2024   |
+| The CHMP, in the light of the overall data submitted and the scientific discussion within the Committee, issued a positive opinion for granting a marketing authorisation to Imuldosa on | 17 October 2024   |
+
+<div style=\"page-break-after: always\"></div>
+
+## 2.  Scientific discussion
+
+## 2.1.  Problem statement
+
+Not applicable for biosimilars.
+
+## 2.2.  About the product
+
+Ustekinumab is a human immunoglobulin G1 (IgG1κ) mAb that neutralises the bioactivity of interleukin (IL)-12 and IL-23 by binding to p40 subunit of both cytokines and preventing IL-12 and IL-23 from binding to the IL-12Rβ1 receptor protein expressed on the surface of natural killer or T cells. Through this mechanism of action, ustekinumab neutralises IL-12 (T helper [Th]1) and IL-23 (Th17)-mediated cellular responses.
+
+Imuldosa drug product is a solution for SC injection in PFS (45 mg/0.5 mL and 90 mg/mL) and a concentrate for solution for infusion (130 mg) and contains all the excipients that are qualitatively identical to that of Stelara. The active substance, ustekinumab, is presented at the same concentration and dose and in the same presentation as Stelara.
+
+## 2.3.  Type of application and aspects on development
+
+Imuldosa (ustekinumab) has been developed as a biosimilar to the EU reference product Stelara, (International Non-proprietary Name [INN]: ustekinumab). Stelara was initially registered via the Centralised Procedure in the European Union (EU) in 2009.
+
+The applicant is claiming all approved indications except for ulcerative colitis and restricting paediatric posology to children 6 years and older.
+
+Two clinical studies have been conducted to demonstrate biosimilarity, a phase I PK study in healthy volunteers and a phase III efficacy study in moderate to severe chronic plaque psoriasis.
+
+A request for GMP inspection of the active substance and finished product manufacturing site in the Republic of Korea is required in order to verify the GMP compliance status.  As an outcome of the inspection, the site has received the GMP certificate and is considered to comply with:
+
+- The principles and guidelines of Good Manufacturing Practice laid down in Directive (EU) 2017/1572 and/or Commission Delegated Regulation (EU) 2017/1569, as reflected by the product categories stated in Part 2.
+- The principles of GMP for active substances referred to in Article 47 of Directive 2001/83/EC.
+
+## 2.4.  Quality aspects
+
+## 2.4.1.  Introduction
+
+The finished product is presented as concentrate for solution for infusion (130 mg) or solution for injection (45 mg or 90 mg) containing ustekinumab as active substance. The product is developed as a biosimilar to Stelara.
+
+Other ingredients are:
+
+Concentrate for solution for infusion 130 mg: EDTA disodium salt dihydrate, L-histidine, L-histidine hydrochloride monohydrate, L-methionine, Polysorbate 80, Sucrose, Water for injection.
+
+<div style=\"page-break-after: always\"></div>
+
+Solution for injection 45 mg or 90 mg: L-histidine, L-histidine hydrochloride monohydrate, Polysorbate 80, Sucrose, Water for injections
+
+The product is available in:
+
+Concentrate for solution for infusion 130 mg: 26 mL solution in a type I glass 30 mL vial closed with a coated butyl rubber stopper (1 vial pack).
+
+Solution for injection 45 mg: 0.5 mL solution in a type I glass 1 mL syringe with a fixed stainless-steel needle and a needle cover with an elastomeric needle shield and a plastic rigid needle shield (1 syringe pack). The syringe is fitted with a passive safety guard.
+
+Solution for injection 90 mg: 1 mL solution in a type I glass 1 mL syringe with a fixed stainless-steel needle and a needle cover with an elastomeric needle shield and a plastic rigid needle shield (1 syringe pack). The syringe is fitted with a passive safety guard.
+
+A notified body opinion is provided for the pre-filled syringe medical device.
+
+## 2.4.2.  Active substance
+
+## 2.4.2.1.  General information
+
+The INN of the active substance is ustekinumab and the laboratory name, which is used throughout the dossier, is DMB-3115. Ustekinumab is a human immunoglobulin G1 (IgG1κ) monoclonal antibody (mAb) that neutralises the p40 subunit of interleukin 12 (IL-12) and interleukin 23 (IL-23) bioactivity by binding to IL-12/23p40, preventing the IL-12 and IL-23 cytokines from binding to the IL-12Rβ1 receptor protein expressed on the surface of natural killer (NK) or T cells. Through this mechanism of action, ustekinumab neutralises IL-12 (T helper [Th]1) and IL-23 (Th17)-mediated cellular responses.
+
+Ustekinumab is produced as a glycosylated protein with a molecular weight of approximately 148 KDa. The molecular weight of the deglycosylated protein is approximately 145 KDa. Ustekinumab is composed of 1326 amino acid residues, which is a sum of 449 residues of two heavy chains (HC) and 214 residues of two light chains (LC), and includes N-linked glycosylation at the Asp 299 residue of each heavy chain. Ustekinumab is structured with 12 relatively strong intra-chain disulfide bonds and 4 relatively weak inter-chain disulfide bonds, and the intra-chain bonds contain 4 disulfide bonds from one heavy chain and two disulfide bonds from one light chain, respectively. The molecular formula based on the form including disulfide bond and excluding glycosylation is C6482H10004N1712O2016S46. The extinction coefficient of the protein is approximately 1.6 M -1  cm -1  and the isoelectric point is approximately 9.1.
+
+The general information on the active substance is considered sufficient.
+
+## 2.4.2.2.  Manufacture, process controls and characterisation
+
+The active substance is manufactured, tested and released, in accordance with good manufacturing practice (GMP).
+
+At the time of submission, no valid EU GMP certificate was available for the active substance and the pre-filled syringe finished product manufacturing site in the Republic of Korea. For this reason, a major objection (MO) was raised during the assessment and a GMP inspection was triggered. The outcome of this inspection was that the site is in compliance with the principles and guidelines of GMP. A copy of the GMP certificate was provided by the Applicant by the time of CHMP opinion and the MO was considered resolved.
+
+<div style=\"page-break-after: always\"></div>
+
+## Description of manufacturing process and process controls
+
+The manufacturing process is a standard process for monoclonal antibody production. The antibody is manufactured in Sp2/0-Ag14 cells. Briefly, one working cell bank (WCB) is expanded through flasks, wave bags and seed bioreactors to inoculate a 2500 L production bioreactor, resulting in one batch of active substance. The harvested cell culture fluid (HCCF) is then processed through three chromatography steps (Protein A chromatography, cation exchange chromatography - CEX and anion exchange chromatography - AEX), a low pH viral inactivation step, a viral reduction filtration step, two ultrafiltration/diafiltration (UF/DF) steps, final formulation and a final bulk filtration to give an active substance that is fully formulated. The information provided on the batch size and definition are considered acceptable. Sufficient details on the batch numbering system are provided. The manufacturing process is sufficiently well described with process parameters provided and in-process controls in place, with acceptable ranges/acceptance criteria/action limits defined. There are no critical intermediates defined for the active substance manufacturing process. No reprocessing has been registered. Hold times have been indicated and all necessary data have been provided to support the proposed hold times. Overall, the active substance manufacturing process is considered acceptable.
+
+The proposed CCS is considered a typical container closure for biological products. The physicochemical properties of the container closure system comply with Ph. Eur. 3.1.7. The TSE-BSE status conforms with EMA/410/01 rev. 3 and Ph. Eur. 5.2.8. The sterility meets a sterility assurance level of 10 -6  in line with ISO 11137 and the bags are pre-sterilised by the supplier with a minimum of 25 kGy (ISO 11140). Extractable studies have been provided for the EVA bag and leachables studies are currently ongoing. The applicant's commitment to notify the agency in the event of any issues arising during the leachable study has been provided.
+
+## Control of materials
+
+A list of compendial and non-compendial raw materials, together with their compendial status and use within the manufacturing process, has been provided. Specifications have been registered for all noncompendial raw materials and chromatography resins. The qualitative components of the media (CD Hybridoma AGT, Cell Boost 5 and RPMI 1640 amino acids) used during the manufacturing process are also included in the dossier. The only material of human or animal origin used in the active substance manufacturing is fetal bovine serum (FBS), that was used in the establishment of the cell line. The FBS was produced in New Zealand or Australia, which are countries of negligible TSE risk. Overall, sufficient information on raw materials used in the active substance manufacturing process and in the establishment of cell substrate has been submitted.
+
+Sp2/0-Ag14 cells are the host cells used to derive the cell line clone expressing DMB-3115 (ustekinumab). The cells were originally sourced from the European Collection of Authenticated Cell Culture (ECACC). The gene sequences for the heavy chain and light chain were optimised and modified to include the ustekinumab reference medicinal product (RMP) signal sequences for both chains. The development of the expression plasmid for DMB-3115 has been sufficiently well described and the plasmid map has been included.
+
+The applicant has provided detailed information on cell bank development. Characterisation and genetic stability of the cell banks, conducted in line with ICH guidelines, has been provided and is considered adequate. A protocol for future commercial manufacturing of MCB and WCB is also provided and is deemed acceptable.
+
+<div style=\"page-break-after: always\"></div>
+
+Overall, sufficient information is provided regarding testing of MCB and WCB, release of future WCBs and genetic stability of cell banks.
+
+## Control of critical steps and intermediates
+
+The control strategy for the active substance manufacturing process includes critical process parameters (CPPs), key process parameters (KPPs) and non-critical process parameters (NKPPs). CPPs and KPPs have associated action ranges and excursion from an action range will trigger a deviation, therefore, as there is no practical difference in response, both CPPs and KPPs can be considered as critical process parameters. In-process testing categories includes critical in-process controls (CIPCs), in-process controls (IPCs) and in-process monitoring (IPM) and collectively ensure process consistency. IPCs and CIPCs have associated action ranges and excursions from an action limit will trigger a deviation. CIPCs have additional in-process specifications (IPS) and excursion from IPS will trigger a deviation, investigation and potential batch rejection.
+
+Overall, acceptable information has been provided on the control system in place to monitor and control the active substance manufacturing process with regard to critical, as well as non-critical operational parameters and in-process tests.
+
+## Process validation
+
+Validation data have been provided for six consecutive Process Performance Qualification (PPQ) batches that were manufactured at the site listed for commercial manufacture. All manufacturing steps registered in the dossier have been validated. The acceptance criteria, action limits, expected ranges for performance attributes and criticality of the process parameters were defined using existing process knowledge, development and manufacturing experience, risk ranking and filtering and process characterisation (PC) comprising of design of experiment (DoE) or one factor-at-a-time (OFAT) studies. The presented approach for control strategy development is acceptable and the classification of process parameters and their specified ranges/limits based on their impact on the critical quality attributes (CQAs) of the active substance and/or process performance is supported.
+
+The data provided showed that all CIPCs, IPCs and IPM were met when CPPs and KPPs were maintained within the normal operating ranges (NORs) registered. One deviation was reported during Single Pass Tangential Flow Filtration (SPTFF) validation for lower protein concentration (IPM) for which the applicant provided adequate justification. All PPQ batches met the release specification and show that the process manufactured a product of consistent quality.
+
+## Hold time validation
+
+Validation data generated using suitable qualified small-scale models has been provided to support media hold times, buffer hold times and product intermediate hold times. Microbial hold time studies were performed at commercial scale This approach is considered acceptable as it is worst case conditions for microbial growth.
+
+## Impurity clearance
+
+Log reduction values (LRV) have been stated for each process related impurity obtained from spiking studies. The validation provided for the clearance of process related impurities is acceptable and demonstrate consistent reduction of these impurities throughout the process to acceptable low levels.
+
+## Shipping Validation
+
+Shipping validation has been provided that covers the land and air shipping route from active substance manufacturing site (Republic of Korea) to the finished product manufacturing site for the vial presentation (USA). The information provided for shipping validation is acceptable.
+
+<div style=\"page-break-after: always\"></div>
+
+## Extractables or leachables
+
+The applicant has provided an extractables and leachables risk assessment together with a summary of the extractables study performed on the product contact components of the manufacturing process. No extractable of concern has yet been identified during the leachables study, with data available through 24 months. The leachables study will be continued through 60 months.
+
+In conclusion, the active substance manufacturing process has been adequately validated.
+
+## Manufacturing process development
+
+The commercial active substance manufacturing process was developed in parallel with the clinical development program.
+
+Several batches of the active substance were manufactured by four different processes, named Process A, Process B, Process C and Process D. One batch from Process B was used for Phase I clinical trials, two batches from Process C were used for Phase III clinical trials and six batches from Process D were used for process validation. Processes B, C and D correspond to the commercial scale and were implemented at the proposed commercial manufacturing site.
+
+The changes to the upstream and downstream process from Process B through to Process D are considered relatively minor. Overall, the development history is presented with clear chronological description and discussion of all changes made to the manufacturing process.
+
+Comparability studies have been provided that include release specification and extended characterisation. Stability data demonstrated a similar degradation profile between the different manufacturing processes. Results showed that apart from some minor differences that are considered clinically qualified, the changes brought throughout development did not have a significant influence on the quality of the product. Overall, the comparability data provided support that a consistent quality of the active substance was maintained following the changes to the manufacturing process.
+
+## Characterisation
+
+The DMB-3115 active substance has been sufficiently characterised by physicochemical and biological state-of-the-art methods revealing that the active substance has the expected structure. Characterisation was provided of batches of active substance manufactured by processes C and D, and of the primary reference standard. The characterisation of DMB-3115 covers quantity, primary structure, higher order structures, post-translational modifications, purity/impurities, charge variants, glycosylation, Fab related biological activities, Fc related biological activities and Fab-Fc related biological activities. Biological characterisation of DMB-3115 indicates that this antibody has the ability to bind IL-12 and IL-23 with high affinity and to specifically bind to Fc receptor, as expected of an IgG1.
+
+Furthermore, heterogeneity of the active substance was adequately characterised. The product related impurities identified are typical for a biological product and include size variants (high molecular weight - HMW and low molecular weight - LMW), charge variants (acidic and basic variants), fragments (2H1L fragment, non-glycosylated heavy chain - NGHC) and oxidation.
+
+In conclusion, the characterisation is considered appropriate for this type of molecule and the analytical results are consistent with the proposed structure.
+
+## 2.4.2.3.  Specification
+
+The proposed panel of release tests covers general tests (appearance, pH, osmolality), identity (charge variants, peptide mapping), content (protein concentration), purity and impurities (product specific -
+
+<div style=\"page-break-after: always\"></div>
+
+monomer, HMW, LMW, fragments, charge variants; process specific - protein A, HCP, host cell DNA), potency (IL-12 and IL-23 neutralising activity), post-translational modifications (total NGNA, total αGal, oxidation) and microbiological content (bioburden, bacterial endotoxins). The panel of tests is in line with ICH Q6B and is considered appropriate for routine control of the active substance manufacturing.
+
+The specifications have been set based on historical data of developmental, engineering, Phase I, Phase III, PPQ and post PPQ batches. Data from EU and US Stelara (RMP) batches were also used to support the proposed specifications.
+
+During the assessment, the applicant was requested to update the specifications for colour and clarity in line with the Ph. Eur. and to tighten the acceptance criteria for post-translational modifications, charge variants and host cell DNA. In addition, the applicant was requested to update the specification for HCP, host cell DNA and protein A so that the units are expressed as weight per weight ratio instead of ppm and ppb.
+
+Overall, the proposed specifications and their associated justifications are considered acceptable.
+
+## Analytical methods
+
+The analytical methods used for testing of the active substance batches have been adequately described. Compendial methods include appearance, pH, osmolality, bioburden and endotoxin testing, and they are performed in accordance with their respective Ph. Eur. monographs. The non-compendial methods have been validated in accordance with ICH Q2 and are considered appropriate for their intended purpose.
+
+## Batch analysis
+
+Batch analysis data are provided for all nineteen active substance batches manufactured throughout development, including batches manufactured by the commercial process at the commercial scale and site. All batches comply with the specifications in place at the time of testing. The data confirm consistency of the manufacturing process.
+
+## Reference materials
+
+In line with ICH Q6B, a standard two-tiered reference standard system has been established. It consists of a primary reference standard (PRS) and a working reference standard (WRS). The information provided on reference standards demonstrates a clear link between material used in clinical trials and the current two-tiered reference standards registered.
+
+The WRS was qualified against the PRS and characterisation data used to qualify the WRS is provided in the dossier. The PRS will be used for qualification of future WRS. A protocol for the introduction of future primary and working reference standards has also been provided and is considered acceptable.
+
+## 2.4.2.4.  Stability
+
+The proposed shelf-life for the DMB-3115 active substance is 48 months when stored at -70 ± 10°C, in the CCS described in the dossier.
+
+A total of seven active substance batches are included in stability studies, with three PPQ batches forming the primary stability studies. Four additional batches are included in supplementary stability programme, with two batches of non-clinical material and two batches of clinical material, and data are provided to support stability conclusions. All stability studies have been carried out in line with ICH Q1A and Q5C. A stability protocol has been provided and studies will be continued through 60 months. The stability studies have been performed in same container closure system that is intended to be used
+
+<div style=\"page-break-after: always\"></div>
+
+for commercial manufacture. The parameters tested during stability and associated acceptance criteria are the same as for release, apart from the process-related impurities which are tested only at release.
+
+Data are available for the primary stability study on PPQ batches through 24 months at long-term conditions (-70 ± 10°C), 24 months at intermediate conditions (-20 ± 5°C) and 6 months at accelerated conditions (5 ± 3°C). Additionally, supportive stability data are available for long-term stability up to 60 months and 48 months for two active substance batches. No out of specification or obvious trends were observed in any quality attribute tested, at all conditions.
+
+Accelerated conditions (25 ± 2°C/60 ± 5% relative humidity - RH) and stressed conditions (40 ± 2°C/75 ± 5% RH) performed on supplementary stability batches identified oxidation, monomer purity, NGHC purity, charge variants and both potency assays as stability indicating attributes and demonstrate the suitability of the analytical methods.
+
+Forced degradation studies (acid, base, light and oxidative stress) were not performed at the level of the active substance, but they have been performed at the level of the pre-filled syringe finished product. Because the formulation composition and strength of the active substance and the pre-filled syringe are the same, this is considered acceptable.
+
+Based on the currently available data generated from the primary and supportive stability studies, a shelf-life of 36 months can be granted for the active substance when stored at -70 ± 10°C, in the CCS described in the dossier.
+
+## 2.4.3.  Finished medicinal product
+
+## 2.4.3.1.  Description of the product and pharmaceutical development
+
+DMB-3115 finished product has two presentations covering three strengths. DMB-3115 pre-filled syringe (PFS) finished product is provided as 45 mg/0.5 mL and 90 mg/1.0 mL of ustekinumab solution for injection as a single-use PFS with safety device for subcutaneous injection. DMB-3115 vial finished product is presented as a single-use vial containing 130 mg/26 mL concentrate for solution for infusion of ustekinumab for intravenous infusion. Both presentations are colourless to slightly yellow and clear to slightly opalescent solution, sterile and preservative-free solution.
+
+The description and composition of the PFS and vial presentations are adequately detailed. There are no excipients of human or animal origin, or novel excipients used for formulation of either finished product presentation and all excipients are of Ph. Eur. compendial grade. No overages or overfills are used for either finished product presentation.
+
+The applicant has based their formulation development on the RMP (EU Stelara). The formulations of DMB-3115 vial and RMP vial are identical. Formulation studies are provided. Stability studies were conducted to demonstrate the robustness of the formulation and are acceptable. Formulation studies preformed for the PFS presentation are leveraged for the vial presentation, which is endorsed. A risk assessment of the extractable and leachables for the product contact materials used in the manufacturing process of both PFS and vial finished product is provided and is considered acceptable.
+
+Comparability has been demonstrated between DMB 3115 clinical batches and DMB 3115 commercial batches. A manufacturing history of DMB 3115 vial finished product has been provided, highlighting the sameness of the manufacturing process used throughout development.
+
+For the PFS presentation, the primary container is a type I glass syringe with a fixed stainless steel needle and a needle cover with an elastomeric needle shield and a plastic rigid needle shield. For the vial presentation, the container closure consists of a sterilised and depyrogenated type I glass R30 vial, stoppered with a 20 mm sterilised butyl rubber stopper and sealed with a 20 mm aluminium and
+
+<div style=\"page-break-after: always\"></div>
+
+polypropylene crimping cap. The components in direct contact with the finished product are sterilised using appropriate techniques and the sites of sterilisation have been declared. For the syringe medical device, a notified body opinion is provided confirming that the PFS is compliant with the relevant General Safety and Performance Requirements (GSPR) of the Medical Devices Regulation (MDR). Appropriate details with regards to completed and ongoing extractables and leachables studies performed for both the PFS and vial container closure systems are presented, demonstrating that there is no concern for human health originating from the proposed commercial containers.
+
+Overall, the development of the container closure systems is considered adequately described and compatibility between the finished product and the proposed container closure systems is demonstrated.
+
+## 2.4.3.2.  Manufacture of the product and process controls
+
+## Manufacture of the PFS presentation
+
+The manufacture, control, packaging and release of the PFS finished product is performed, in accordance with GMP.
+
+Batch numbering and batch size and formula for the PFS finished product are adequately described. A flow diagram for the manufacturing and packaging process for the PFS presentation is provided. The process is straightforward as the product has been formulated during active substance manufacturing and is divided into eight steps that consist of: thawing, pooling and mixing, sterile filtrations, filling and stoppering, visual inspection, storage of intermediate finished product, secondary packaging (assembly of the PFS with the safety device and labelling), and packaging and dispatching. A high-level description of the manufacturing steps has been provided and is acceptable. The device assembly process is considered part of the manufacturing process for the finished product and as such, a more detailed description of the process step and functional testing carried out has been provided in line with the 'Guideline on quality documentation for medicinal products when used with a medical device' (EMA/CHMP/QWP/BWP/259165/2019). No reprocessing has been registered.
+
+The control strategy for the manufacture of the PFS finished product is divided into process parameters (CPPs, KPPs and NKPPs) and in-process controls (CIPCs, IPCs and IPM). The classifications of the process parameters and in-process controls, and the consequences of excursions outside the action limits are described. The selection of the process parameters and in-process controls are based on an assessment of CQAs, process characterisation data and the manufacturers' experience. The chosen process and performance parameters are largely aligned with similar biological products produced using a standard fill finish manufacturing process and are considered acceptable.
+
+The process validation includes manufacturing process validation, media fill validation, sterile filter validation, cleaning validation and shipping qualification. Details are provided for the PPQ batches used in the manufacturing process validation study. For the filling validation, at least one batch of the maximum batch volume and one batch of the minimum batch volume is included for each strength. The results are provided for the process parameters and in-process testing and all the results are within the proposed action limits for each manufacturing process step. Deviations are reported for the process validation, with additional details provided in the PPQ reports, and are considered adequately justified. Media fills are representative and considered acceptable. The filters are validated in accordance with the 'Guideline on the sterilisation of the medicinal product, active substance, excipient and primary container' (EMA/CHMP/CVMP/QWP/850374/2015). The proposed hold times are well described and supported by the PPQ runs with validated hold times exceeding those proposed in routine manufacturing. Details of autoclave validation for small parts and assemblies for PFS finished product manufacturing are registered. Shipping validation from the active substance manufacturing
+
+<div style=\"page-break-after: always\"></div>
+
+site to PFS finished product manufacturing site is not required as the PFS is manufactured at the same facility as the active substance. Shipping validation results are provided for shipment from the PFS manufacturing site to the secondary packaging site, and demonstrate that the quality of the PFS finished product is not impacted by the shipping process.
+
+## Manufacture of the vial presentation
+
+The manufacture, control, packaging and release of the vial finished product is performed, in accordance with GMP.
+
+Batch numbering and batch size and formula for the vial finished product are adequately described. A flow diagram for the manufacturing and packaging processes for the vial presentation is provided. The manufacturing process consists of bulk active substance (BDS) thawing, buffer A and buffer B formulation and filtration, pooling of the BDS. After pooling, the BDS is initially diluted with Buffer A and a sample is taken to determine the protein concentration. Based on the results, a second dilution is performed with Buffer B and then tested for pH and protein concentration. The final solution is then filtered for bioburden reduction, followed by sterile filtration, filling, stoppering and capping, visual inspection and storage at 2-8 ° C. A high-level description of the manufacturing steps has been provided and is acceptable. The preparation of buffer A and buffer B is also described and acceptable process parameters are proposed for the formulation and mixing of the buffers. No reprocessing has been registered.
+
+The control strategy for the manufacture of the vial finished product is described and definitions of CPPs, KPPs, NKPPs, IPCs etc. are provided. The consequences of an excursion from each of these process parameters has been included in the descriptions. The chosen process and performance parameters are largely aligned with similar biological products produced using a standard fill finish manufacturing process and are considered acceptable.
+
+The process validation includes manufacturing process validation, product mixing studies, media fill validation, sterile filter validation, cleaning validation and shipping qualification. Three commercial scale batches manufactured at the intended site of manufacturing are used in the process validation and details are provided. The process validation results, both for process parameters and in-process control testing, established for all the manufacturing process steps for the three validation batches are presented in the dossier. All results are within the proposed action limits. Minor deviations have been adequately addressed by the applicant. The proposed hold times are well described and supported by the PPQ runs with validated hold times exceeding those proposed in routine manufacturing. The media fill strategy is described and results are provided for the past three media fill runs. A bracketing approach is employed and is considered representative of the filling process. Sterile filter validation is described and is validated in accordance with EMA/CHMP/CVMP/QWP/850374/2015. Product specific shipping validation for the shipping from the finished product manufacturing site to the secondary packaging sites is planned. This is acceptable based on the studies and protocol provided, and on experience demonstrated with the PFS presentation.
+
+Overall, it can be concluded that both the PFS and vial finished product manufacturing processes have been adequately validated. It has been demonstrated that the two manufacturing processes are capable of producing the finished product of intended quality in a reproducible manner.
+
+## 2.4.3.3.  Product specification
+
+For the PFS finished product, two sets of specifications are proposed, one for the intermediate product before safety device assembly and one for the final product after safety device assembly.
+
+<div style=\"page-break-after: always\"></div>
+
+For both presentations the proposed panel of tests cover general tests, identity, quantity, purity/impurity, potency, post translational modifications, visible particles, subvisible particles, extractable volume, container closure integrity, polysorbate 80, uniformity of dosage forms, device functionality testing (for the PFSs) and microbial content. The limits for polysorbate 80 IPC are registered as release specifications and details of the IPC test are registered in the dossier. This approach is endorsed.
+
+During the assessment, the applicant was requested to update the specifications for colour and clarity in line with the Ph. Eur. and to tighten the limits for charge variants, oxidation and polysorbate 80 for both PFS and vial presentations. Also, for the vial presentation, acceptance criterion for extractable volume was added upon request.
+
+The potential presence of elemental impurities in the finished product has been assessed on a riskbased approach in line with the ICH Q3D Guideline for Elemental Impurities. Based on the risk assessment, it can be concluded that it is not necessary to include any elemental impurity controls in the finished product specification.
+
+A risk evaluation concerning the presence of nitrosamine impurities in the finished product has been performed considering all suspected and actual root causes in line with the 'Questions and answers for marketing authorisation holders/applicants on the CHMP Opinion for the Article 5(3) of Regulation (EC) No 726/2004 referral on nitrosamine impurities in human medicinal products' (EMA/409815/2020) and the 'Assessment report- Procedure under Article 5(3) of Regulation EC (No) 726/2004- Nitrosamine impurities in human medicinal products' (EMA/369136/2020). Based on the information provided it is accepted that no risk was identified on the possible presence of nitrosamine impurities in the active substance or the related finished product. Therefore, no additional control measures are deemed necessary.
+
+No additional process or product-related impurities are introduced or expected to form as a result of the finished product manufacturing.
+
+In summary, the specifications proposed for the PFS and vial presentations are in line with the ICH Q6B and Ph. Eur. 2031 monograph and are considered appropriate for routine control of the finished product.
+
+## Analytical methods
+
+The analytical methods used have been adequately described and non-compendial methods appropriately validated in accordance with ICH guidelines.
+
+## Batch analysis
+
+All batch data provided were within the proposed specification and confirm the consistency of the PFS and vial finished product manufacturing processes.
+
+## Reference materials
+
+The reference standards are the same as those used for testing of the active substance. Reference is made to the corresponding active substance section.
+
+## 2.4.3.4.  Stability of the product
+
+A shelf life of 36 months for the PFS and of 24 months for the vial presentations are proposed by the Applicant, when stored at the recommended condition of 2 - 8 °C, in the CCS described in the dossier.
+
+Stability studies have been carried out in accordance with ICH Q1E and Q5C, under long-term (5 ± 3°C), accelerated (25 ± 2°C/60 ± 5% RH) and stressed (40 ± 2°C/75 ± 5% RH) conditions.
+
+<div style=\"page-break-after: always\"></div>
+
+Photostability studies were carried out in accordance with ICH Q1B. A stability protocol has been provided and studies will be continued through 36 months. The stability studies have been performed in same container closure systems intended to be used for commercial manufacture. The parameters tested during stability and associated acceptance criteria are the same as for release, apart from the wider limits for oxidation throughout shelf-life for both PFS and vial presentations and apart from the different shelf-life acceptance criteria for polysorbate 80 and test for uniformity of dosage units performed only at release for the PFS presentation.
+
+For the PFS presentations, real-time stability data are provided up to 36 months for clinical batches and for up to 18 months for PPQ batches of the vial presentation and the final PFS product. The results to date from all long-term stability studies conducted on both PFS and vial presentations demonstrate that all tested criteria are within specification and no significant trends are observed. Data from the accelerated and stressed conditions studies support the stability indicating profile and the suitability of the analytical methods for both presentations. The results for the photostability study indicate that the finished product is photosensitive and it is recommended to avoid direct exposure to intense light.
+
+Overall, based on the currently available data generated from the primary and supportive stability studies, a shelf-life of 24 months for the PFS presentation and a shelf-life of 18 months for the vial presentation can be granted for the finished product stored at the recommended condition of 2 - 8°C, in the CCSs described in the dossier.
+
+In-use stability studies and temperature cycling studies were conducted for both PFS and vial presentations and support the in-use period and storage conditions proposed in the SmPC. The PFS finished product can be stored at room temperature up to 30°C for a single period of up to 30 days in the original carton. Once stored at room temperature, the syringe should not be returned to the refrigerator. The vial finished product can be stored up to 24 hours at 25°C or 7 days at 5°C following dilution. From a microbiological point of view, the product should be used immediately. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2°C to 8°C unless dilution has taken place in controlled and validated aseptic conditions. The infusion should be completed within 24 hours of the dilution in the infusion bag. Compatibility and stability of the diluted infusion in representative bags for hospital use has been demonstrated.
+
+## 2.4.3.5.  Adventitious agents
+
+Materials of animal origin include FBS, used in generation of the original clone that was ultimately used to generate the MCB, and some polypropylene and polycarbonate resins used in culture flasks. The applicant states that the polypropylene and polycarbonate materials are aligned with EMA/410/01 and certificates of compliance have been submitted to support this. The applicant has provided CoAs for all batches of FBS used to generate the cell clone and CoAs demonstrate that the FBS was sourced from a country with negligible TSE risk (Australia and New Zealand).
+
+Viral testing results of all cell banks (MCB, WCB and PPCB) were provided along with viral testing results from eight batches of unprocessed bulk. All viral tests demonstrated that all cell banks were free from viruses, with the exception of the presence of A-type and C-type retroviral particles. Additionally, the MCB tested positive for Manganese dependent retroviral reverse transcriptase, which the applicant states is not unexpected due to the presence of retroviral like particles (RVLPs). Testing of the PPCB detected infectious retrovirus when analysed in Mus Dunni cells, however, when the assay was repeated in human cells (293 cells), no retrovirus activity was detected.
+
+As RVLPs are present, the applicant has provided discussion on the ability of the manufacturing process to clear the particles. Results demonstrate considerable RVLPs clearance by the purification process.
+
+<div style=\"page-break-after: always\"></div>
+
+Overall, the MCB, WCB, PPCB and unprocessed bulk have been demonstrated to be free from bacterial, fungal and mycoplasma contamination. Documentation has been provided on FBS to demonstrate that it has been sourced from countries where there is negligible a TSE risk. The cell banks have been demonstrated to be free from viral contamination, with the exception of the presence of RVLPs. However, the process has been demonstrated to have significant viral clearance capability and the presence of RVLPs per dose is in line with other biological products.
+
+## 2.4.3.6.  GMO
+
+Not applicable.
+
+## 2.4.3.7.  Biosimilarity
+
+The Applicant followed a stepwise approach to assess analytical similarity between DMB-3115, EU Stelara (RMP) and US Stelara. In order to identify the relevant quality attributes (QAs) for analytical similarity assessment, the Applicant used a relatively standard risk assessment approach. Briefly, impact scores were assigned based on the effect on clinical parameters of biological activity, PK, immunogenicity and safety. Uncertainty scores were based on the level of information available for each QA. Risk scores were assigned by multiplying the impact score by the uncertainty score. The individual scores, risk priority numbers, final risk ranking and CQA designation are provided in the dossier and are considered acceptable.
+
+Similarity ranges were established using a three-tiered approach:
+
+-  Tier 1 QAs (high clinical impact or moderate clinical impact with high assay variability).
+-  Tier 2 QAs (moderate clinical impact and low assay variability).
+-  Tier 3 QAs (low potential clinical impact or are qualitative in nature).
+
+Some critiques could be made of certain tier assignments. However, since all the raw data has been provided and all results are thoroughly discussed, reclassification of certain QAs into different tiers would not impact on the final conclusion of biosimilarity. Therefore, this point was not further pursued. The biosimilarity reference range was established using a mean ± x Standard Deviation (SD) approach. Different SD multipliers were used for the tiers, with X = 2.5 for Tier 1 and X = 3.0 for Tier 2. Tier 3 attributes were examined by visual comparison. Conceptually, the overall approach is logical and is considered appropriate. The applicant has provided a thorough justification for their statistical approach. Overall, the approach is considered acceptable. An additional criterion for the similarity study was that similarity was considered to have been demonstrated if more than 90% of data points were within the quality range. While in principle this is not considered appropriate to apply such an approach in all cases, in each instance where results are outside the similarity range, justifications have been provided. Therefore, biosimilarity can be determined without taking this additional 90% criteria into account.
+
+Details of method qualification were provided. The results of the analytical testing are discussed in Table 1 .
+
+Comparative forced degradation studies between DMB-3115 and the RMP were conducted under thermal, oxidative, high pH, low pH and photo stress conditions. Under thermal stress, potency (IL-12 and IL-23 neutralisation) showed a similar rate of decrease between DMB-3115 and the RMP. There were increases in LMW species, HMW species, fragments, acidic variants, oxidation and particles. The rate of increase was generally comparable between DMB-3115 and the RMP. In the case of fragments and oxidation, the levels were higher at the initial timepoints in DMB-3115, however the rate of increase over time generally mirrored that of the RMP. In the case of sub-visible particles, levels were
+
+<div style=\"page-break-after: always\"></div>
+
+significantly higher in DMB-3115 at 2 and 3 months. The Applicant attributes this to differences in formulation. Therefore, there is a clear quality difference between the products, however heating to 40 °C for 2 months is an extreme condition which will not be encountered in practice. Stability studies show that the rate of particle formation under standard storage conditions is normal. Therefore, the differences noted in thermal stress do not impact the biosimilarity claim. Under oxidative stress conditions the overall rate of total oxidation, and oxidation and individual sites, was comparable between DMB-3115 and the RMP. A low pH stress study was carried out at pH 3 for the PFS and pH 4.5 for the vial. There were similar rates of increase in HMW species, LMW species, oxidation and basic peaks between DMB-3115 and the RMP. Similar rates of degradation were also seen under conditions of high pH stress, photo stress, mechanical stress and freeze thaw conditions.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 1: Summary of analytical similarity between DMB-3115 finished product and the RMP
+
+| Molecular parameter                                     | Attribute                                                                | Methods for control and characterisation   | Key findings                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|---------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Quantity                                                | Protein concentration                                                    | UV spectrometry                            | The protein concentration results for the six 40 mg DMB-3115 batches and six 90 mg DMB-3115 batches were within both the mean ± 3 SD range and the min-max range of the 24 RMP batches. For the 130 mg vial, one out of six of the DMB-3115 lots had a result of 5.1 mg/ml, which was outside the EU mean ± 3 SD range (4.7 - 5.0 mg/ml). This slight difference of 0.1 mg/ml is not considered to be clinically meaningful.                                                                                           |
+| Quantity                                                | Extractable volume                                                       | Measurement of weight                      | For the 45 mg and 90 mg presentations, the extractable volume of the DMB-3115 batches was within the both mean ± 3 SD and min-max range of the RMP. For the 130 mg, the extractable volume of the six DMB-3115 vials (26.91 - 26.99 ml) was slightly higher the EU similarity range (26.77 - 26.83 ml). However, to prepare the infusion bags, 26 ml is withdrawn from the vials. Therefore, only the lower range is relevant and thus the fact that DMB-3115 had 0.1 - 0.2 ml extra volume has no clinical relevance. |
+| Primary structure and Post- translational modifications | Molecular Weight (Intact, de- glycosylated and reduced molecular weight) | LC-ESI-MS                                  | Overlaid spectra were provided for DMB-3115 and the RMP, and while some differences in peak profiles were seen, these were shown to be attributed to differences in the levels of C-terminal lysine in most cases. As differences in C-terminal lysine are not critical for biosimilarity, these differences are considered acceptable. One difference in the MS peak profile of the glycosylated intact form was due to differences in oxidation which is discussed further below.                                    |
+| Primary structure and Post- translational modifications | Total Amino acid sequence                                                | LC-ESI-MS/MS                               | Same amino acid sequence between DMB-3115 and the RMP                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Primary structure and Post- translational modifications | Extinction coefficient                                                   | UV, RP-HPLC                                | The individual results for the DMB-3115 batches were within the EU refence range and EU min-max range. The means were also highly similar. Therefore, it is concluded that the extinction coefficients are comparable.                                                                                                                                                                                                                                                                                                 |
+| Primary structure and Post- translational modifications | Amino acid analysis                                                      | RP-HPLC                                    | Comparable molar ration between DMB-3115 and the RMP.                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Primary structure and Post- translational modifications | Peptide mapping                                                          | RP-HPLC                                    | Overlaid tryptic peptide maps showed no obvious difference between DMB-3115 and the RMP. No new or missing peaks were identified.                                                                                                                                                                                                                                                                                                                                                                                      |
+| Primary structure and Post- translational modifications | Oxidation                                                                | HIC-HPLC                                   | For the 45 mg presentation, two out of six DMB- 3115 batches (5.0% and 6.2%) were outside the EU similarity range of 1.8 - 4.8%. For the 90 mg presentation, one out of the six DMB-3115 batches (6.6%) was outside the EU similarity range of 1.9 - 4.5%. For the 130 mg presentation, all six DMB-3115 batches were within the EU similarity range of 0.1 - 7.9%.                                                                                                                                                    |
+
+<div style=\"page-break-after: always\"></div>
+
+| Molecular parameter    | Attribute                        | Methods for control and characterisation   | Key findings                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|------------------------|----------------------------------|--------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                        |                                  | LC-ESI-MS/MS                               | One out of nine tested DMB-3115 batches with a result of 1.49% was outside of the EU similarity range of minus 0.41 - 1.46%. However, as this batch was only 0.03% outside the range, this is not considered meaningful. It is also noted that the min-max range of the EU batches (0.24 - 1.62%) is wider than the mean ± 3SD similarity range and all the DMB-3115 batches are within this min-max range. The applicant argues that as oxidation in DMB-3115 batches is less than 2% higher than the EU reference range, that such a small difference is unlikely to have a clinical impact. Furthermore, analysis of individual methionines shows that the most critical site that can impact FcRn binding (Met254) has a comparable level of oxidation. Overall, it can be accepted that the slight increase in oxidation in DMB-3115 does not significantly impact the claim of biosimilarity. |
+|                        | Deamidation                      | LC-ESI-MS/MS                               | Deamidation found at one site on the light chain and seven sites on the heavy chain. A similarity range was only provided for HC N317 and all DMB- 3115 batches were within the range. As the raw data are provided for the other seven deamidation sites, the results could be compared directly and showed that deamidation at these other sites are also similar between DMB-3115 and the RMP.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                        | Isomerisation                    | LC-ESI-MS/MS                               | Isomerisation comparative data are provided for six sites. For five of these sites only low levels of isomerisation (<1%) were seen. The levels of isomerisation at HC D150 were directly compared and all DMB-3115 bathes were within the EU reference range.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|                        | N-terminal pyroglutamation       | LC-ESI-MS/MS                               | N-terminal pyroglutamation levels were comparable between DMB-3115 and the RMP.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|                        | C-terminal lysine truncation     | LC-ESI-MS/MS                               | C -terminal lysine levels were notably lower in DMB-3115 batches compared to the RMP. However, C-terminal lysine is not considered critical in determination of biosimilarity for monoclonal antibodies, therefore these differences do not impact the claim of biosimilarity.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Higher Order Structure | Disulfide bonds                  | LC-ESI-MS/MS                               | The disulfide bonding pattern for DMB-3115 was confirmed to be as expected. The overlaid chromatograms confirmed identical disulfide bonds compared to the RMP.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Higher Order Structure | Disulfide bonds                  | Free thiol analysis                        | Free thiol levels of DMB-3115 were within the EU reference range.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Higher Order Structure | Secondary and Tertiary Structure | FTIR                                       | Overlaid FTIR spectra were comparable between DMB-3115 and the RMP.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Higher Order Structure | Secondary and Tertiary Structure | CD spectrum                                | Overlaid near- and far-UV CD spectra were comparable between DMB-3115 and the RMP                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Higher Order Structure | Thermal Stability                | DSC                                        | The thermal stability of DMB- 3115 was similar to the RMP in the vial presentation, but not the PFS presentations. The applicant attributes the non- similarity to difference in the formulation and argue that the combination of higher histidine levels in DMB-3115 combined with the heat introduced during the DSC assay may lead to a                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+
+<div style=\"page-break-after: always\"></div>
+
+| Molecular parameter   | Attribute   | Methods for control and characterisation         | Key findings                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|-----------------------|-------------|--------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Purity and Impurities | Aggregates  | SEC-HPLC (HMW and monomer content)               | decrease in pH. To support this claim, the applicant generated an active substance lot of DMB-3115 using the RMP formulation. This lot shows a very similar DSC profile compared to the RMP. Given that all the other orthogonal assays show that DMB-3115 and the RMP have comparable secondary and tertiary structure, it can be agreed that the differences seen in DSC profiles are likely due to an artefact caused by heating during sample preparation for DSC analysis. The DMB-3115 levels of HMW species and monomer species were within the EU reference range. Levels of HMW species were ≤0.4% in all batches tested.                                                                                                                                                                                                                                                                                                                                                                 |
+| Purity and Impurities | Aggregates  | SEC-MALS (molecular weight of dimer and monomer) | The DMB-3115 batches were within the EU reference range.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Purity and Impurities | Aggregates  | SV-AUC (size variants contents and profile)      | The DMB-3115 results for s-value and relative area were within the EU reference range.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Purity and Impurities | Fragments   | nrCE-SDS (intact IgG, sum of fragments)          | applicant prepared two samples of DMB-3115 with increased levels of 2H1L fragments by increasing the content of cysteine in the media at 10 L scale. These samples had 2H1L levels of 7.6% and 8.2%, and total fragment levels of 12.4% and 13.7% respectively. These samples were tested using several assays which showed generally results to the reference product when tested by SEC, IEC, rCE-SDS, IL-12 p40 binding, IL-23 p40 binding, IL-12 neutralisation and IL-23 neutralisation. Differences were seen in oligosaccharide profile, but these are reflective of the overall difference in commercial DMB-3115 batches. There was also a higher level of in these samples and they had reduced levels of FcRn which seem to be correlated with fragment levels in the samples. Additional data was from samples with fragmentation up to 41% and no impact on FcRn binding was observed. Analysis showed higher levels of NGHC and lower levels of 2H2L. However, the absolute level of |
+| Purity and Impurities | Fragments   |                                                  | comparable oxidation provided NGHC was relatively low with DMB-3115 batches results of 0.50 - 0.70% compared to the EU reference range of 0.24 - 0.44%. The applicant prepared samples with increasing levels of NGHC, up to 19%, which showed no impact on potency, but did show a slight reduction in FcRn binding.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Purity and Impurities | Fragments   | rCE-SDS (NGHC, LC+HC)                            | However, as NGHC is controlled to 1.20% at active substance release, this is not a concern.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+<div style=\"page-break-after: always\"></div>
+
+| Molecular parameter   | Attribute            | Methods for control and characterisation   | Key findings                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|-----------------------|----------------------|--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                       | Subvisible particles | MFI                                        | The DMB-3115 batches were within the EU reference range for all particle sizes (≥ 2µm, ≥ 10µm, ≥ 25µm, and ≥ 50µm).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|                       | Subvisible particles | DLS                                        | Results show that for the Peak 1 diameter, all lots were comparable.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Charge Variants       | %Acidic %Main %Basic | IEC-HPLC                                   | The %main peak was higher for DMB 3115 batches compared to the RMP. The levels of acidic variants were higher and the levels of basic variants were lower. Peak fractionation studies were used to further examine the various peaks by LC-MS/MS, IL-23 neutralisation activity and FcRn binding affinity. The different peaks shown no difference in IL-23 neutralisation activity and a slight increase in FnRn binding for basic peaks. The basic variants contained peaks corresponding to C- terminal lysines and the levels of basic variants in DMB-3115 are not considered to have any impact on efficacy or safety. The higher levels of acidic species in DMB-3115 may be attributable to the combined contribution of several post-translational modifications, including higher levels of oxidation. However, since the functional data on the acidic fraction shows no difference in biological activity and only a minor impact on FcRn binding, overall it can be accepted increase in acidic species will not |
+| Glycosylation         | Sialic acid          | 2-AB NP-UPLC (Total NGNA)                  | The results for NGNA are outside of the EU reference range. However, since the DMB-3115 results are all lower than the RMP batches, there is no safety concern.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Glycosylation         | Sialic acid          | HPLC-FLD (Total NGNA + Total NANA)         | It is confirmed that DMB-3115 has lower levels of NGNA compared to the RMP.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Glycosylation         | Total α-Gal          | 2-AB NP-UPLC                               | The results for α-Gal are outside of the EU reference range. However, since the DMB-3115 results are all lower than the RMP batches, there is no safety concern.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Glycosylation         | Afucosylation        | 2-AB NP-UPLC                               | Based on raw data provided in the dossier, it could be concluded that the DMB-3115 batches were within the EU min - max and mean ± 3 SD range.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Glycosylation         | Galactosylation      | 2-AB NP-UPLC                               | Based on raw data provided in the dossier, it could be concluded that the DMB-3115 batches were within the EU min - max and mean ± 3 SD range.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Glycosylation         | Monosaccharide       | HPLC-FLD                                   | Monosaccharide analysis confirmed similar levels of Fuc, GlcN, GalN, Gal and Man between DMB-3115 and the RMP.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Biological Properties | IL-12 neutralizing   | Cell-based assay                           | All DMB-3115 batches were within the EU reference range for IL-12 and IL-23 neutralising                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Biological Properties | IL-23 neutralizing   | Cell-based assay                           | activity, demonstrating comparable biological activity.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Biological Properties | IL-12 binding        | SPR                                        | All DMB-3115 results were with the EU reference range. All batches of the 45 mg and 90 mg DMB- 3115 batches were within the Tier 1 quality range. For                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Biological Properties | IL-23 binding        | SPR                                        | the 130 mg, two out of three batches with results of 109.7% were outside the EU Tier 1 biosimilarity range (2.5 SD) of 91.6 - 108.1%. However, a difference in IL-23 binding of 1.8% outside the reference range is not considered clinically meaningful. When data from the 45 mg, 90 mg                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+
+<div style=\"page-break-after: always\"></div>
+
+| Molecular parameter   | Attribute        | Methods for control and characterisation   | Key findings                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|-----------------------|------------------|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                       |                  | ELISA                                      | and 130 mg are pooled, the combined EU reference range is 92.9 - 108.9%, with an EU min - max range of 95.5 - 109.7%. The fact that all results for DMB-3115 are within the pooled EU min - max range provides additional assurance that the results are comparable. Moreover, biosimilarity has been clearly demonstrated for the IL-23 cell based assay, as well as IL-12 binding and IL-12 cell based assays. Therefore, the two results with marginally higher IL-23 binding are not a cause for concern. Representative dose response curves have been provided for all the potency assays and show similar profiles. |
+|                       | FcγRI binding    | ELISA                                      | Three out the nine DMB-3115 batches had results (98.4%, 96.1%, 98.9%) below the EU mean ± 3 SD range of 99.9 - 112.2%. Since the results are only slightly below the EU range and binding to FcγRI is not expected to impact the biological activity, these results are not of concern.                                                                                                                                                                                                                                                                                                                                    |
+|                       | FcγRIIa binding  | ELISA                                      | All DMB-3115 batches were with the EU mean ± 3 SD range.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                       | FcγRIIb binding  | ELISA                                      | Three out the nine DMB-3115 batches had results (97.3%, 97.8%, 98.2%) below the EU mean ± 3 SD range 98.6 - 117.5%. Since the results are only slightly below the EU range, and binding to FcγRIIb is not expected to impact the biological activity, these results are not of concern.                                                                                                                                                                                                                                                                                                                                    |
+|                       | FcγRIIIa binding | ELISA                                      | All DMB-3115 batches were with the EU mean ± 3 SD range.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                       | FcRn binding     | ELISA                                      | All DMB-3115 batches were with the EU mean ± 3 SD range.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                       | C1q binding      |                                            | All DMB-3115 batches were with the EU mean ± 3 SD range.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                       | ADCC             | NK cell ADCC assay                         | Neither DMB-3115 nor the RMP showed any activity. This confirms that effector function is not relevant for the mechanism of action.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|                       | CDC              | CDC assay                                  | Neither DMB-3115 nor the RMP showed any activity. This confirms that effector function is not relevant for the mechanism of action.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+## Conclusion
+
+The applicant has conducted a biosimilarity exercise in accordance with the requirements of the EMA 'Guideline on similar biological medicinal products containing biotechnology-derived proteins as active substance: quality issues (revision 1)' (EMA/CHMP/BWP/247713/2012). A sufficient number of biosimilar and reference product batches have been included in the study. The batches cover all three strengths and the biosimilar finished product batches represent independent active substance batches. A comprehensive panel of analytical tests has been presented, including relevant orthogonal tests. In general, the primary structure, higher order structure, content, purity and potency are comparable between DMB-3115 and the RMP. Nonetheless some clear differences are present between the products, with regards to afucosylation, acidic variants, oxidation, monomer content/2H1L variant and NGHC. The applicant adequately demonstrated that these differences are not relevant for the safety and efficacy of the product. Therefore, it can be agreed that DMB-3115 is biosimilar to Stelara.
+
+<div style=\"page-break-after: always\"></div>
+
+## 2.4.4.  Discussion on chemical, and pharmaceutical aspects
+
+Information on development, manufacture and control of the active substance and finished product has been presented in a satisfactory manner. The results of tests carried out indicate consistency and uniformity of important product quality characteristics, and these in turn lead to the conclusion that the product should have a satisfactory and uniform performance in clinical use.
+
+The applicant has applied quality-by-design (QbD) principles in the development of the active substance and/or finished product and their manufacturing process. However, no design spaces were claimed for the manufacturing process of the active substance, nor for the finished product.
+
+One Major Objection was raised during the assessment for the lack of an EU GMP certificate for the active substance and PFS finished product manufacturing site in the Republic of Korea, which has been provided by the applicant by the time of CHMP opinion.
+
+## 2.4.5.  Conclusions on the chemical, pharmaceutical and biological aspects
+
+The quality of this product is considered to be acceptable when used in accordance with the conditions defined in the SmPC. Physicochemical and biological aspects relevant to the uniform clinical performance of the product have been investigated and are controlled in a satisfactory way. Data has been presented to give reassurance on viral/TSE safety.
+
+## 2.4.6.  Recommendation(s) for future quality development
+
+Not applicable.
+
+## 2.5.  Non-clinical aspects
+
+## 2.5.1.  Introduction
+
+Ustekinumab exerts immune modulating properties by selectively binding to the p40 subunit of the cytokines IL-12 and IL-23, thereby blocking their ability to bind to their respective IL12Rβ1 receptor located at the surface of Natural Killer (NK) cells and T-lymphocytes. Consequently, ustekinumab neutralises IL-12 (T helper Th1) and IL-23 (Th17) mediated cellular processes.
+
+DMB-3115 (the studies of the non-clinical and clinical development programme usually refer to DMB3115, so this term will be used in this AR going forward) was compared to the marketed reference products, both EU Stelara and US Stelara.
+
+## 2.5.2.  Pharmacology
+
+## 2.5.2.1.  Primary pharmacodynamic studies
+
+In vitro PD studies comparing specific binding and biological activities were conducted as a part of analytical similarity studies using DMB-3115 drug product (45 mg pre-filled syringe [PFS], 90 mg PFS, 130 mg vial) also used in phase 3 clinical studies and Process Performance Qualification (PPQ) study.
+
+In the primary pharmacology study 200538 the applicant pursued a bridging strategy to utilise data generated with DMB-3115 in comparison to US-licensed and EU-approved Stelara, by conducting 3way analytical similarity studies using DMB -3115, US-licensed Stelara and EU-approved Stelara. These include in vitro pharmacodynamic (PD) studies which showed that DMB -3115 and Stelara exhibited specific binding to the target antigen - the p40 subunit of interleukins IL-12 and IL-23. Binding to representative isoforms of FcγRs (FcγRI, FcγRIIa, FcγRIIb, and FcγRIIIa-V176) and FcRn and binding
+
+<div style=\"page-break-after: always\"></div>
+
+to complement C1q showed comparable binding affinities between DMB -3115 and Stelara. Biological activity of DMB -3115 and Stelara associated with IL-12 and IL-23 neutralising activities was also comparable. Moreover, neither DMB-3115 nor Stelara exhibited complement-dependent cytotoxicity (CDC) or antibody-dependent cell cytotoxicity (ADCC) in IFN-γ-activated U937 target cells.
+
+PD results are summarised in Table 2 below and, except for data from IL-23 binding assay, show comparability between DMB-3115 and EU/US Stelara. There were minor differences recorded with regards to IL-23 binding affinity, where 2 out of 9 (22%) DMB-3115 batches showed slightly elevated binding activity towards this epitope. However, the measured binding affinities of all nine lots were distributed narrowly around the mean. It was also confirmed that no product conferred ADCC or CDC activity.
+
+Table 2: Summary of in vitro PD results of DMB-3115 DP, EU Stelara and US Stelara
+
+<!-- image -->
+
+| Quallty Attribute               | Quallty Attribute   | Test/Aa say        | Analyals                        | Sample elze (3115: EU:US)   | MIn-Max range   | MIn-Max range   | MIn-Max range   | Mean±kSD             | Mean±kSD             | Analytlcal slmllartty (% of lot number within QR)   | Analytlcal slmllartty (% of lot number within QR)   | Analytlcal slmllartty (% of lot number within QR)   |
+|---------------------------------|---------------------|--------------------|---------------------------------|-----------------------------|-----------------|-----------------|-----------------|----------------------|----------------------|-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
+|                                 |                     | Test/Aa say        | Analyals                        | Sample elze (3115: EU:US)   | DMB- 3115       | EU stelara      | US stelara      | EU stelara           | US Stelara           | 3115 va. EU                                         | 3115vs. US                                          | EU vs. US                                           |
+| Fab related blological s        | IL-12 neutrallzing  | Cel- pesEq assay   | 1-%wthn Quallty Range (k-2.5)   | 9.28:26                     | 96 -115         | 87 - 128        | 93-120          | 77 -128              | 87 -124              | 100                                                 | 100                                                 | 100                                                 |
+| Fab related blological s        | IL-23 neutrallzing  | Cel- based assay   | 1-%wthin Quallty Range (k =2.5) | 9: 28: 26                   | 89 -102         | 66 -115         | 71-116          | 78- 122              | 77-122               | 100                                                 | 100                                                 | 100                                                 |
+| Fab related blological s        | IL-12 binding       | SPR                | 1-%wthin Quallty Range (-2.5)   | 9:26:26                     | 97.9- 108.6     | 95.6- 112.6     | 96.0- 113.3     | 93.9- 114.7          | 91.4- 114.7          | 100                                                 | 100                                                 | 100                                                 |
+| Fab related blological s        | IL-23               | SPR                | 1-%wthin Quallty Range (k =2.5) | 9: 26: 26                   | 98.4- 109.7     | 95.5- 109.7     | 90.2 - 109.5    | 92.9 - 106.9         | 87.9- 110.3          | 78 (2 lots OOR 0.7 % higher leve)                   | 100                                                 | 100                                                 |
+| Fc related blologlcai actvities | FoRn                | SPR                | 2-%wthin Quallty Range (0-x)    | 9.25:26                     | 94.9 100.4      | 90.8 110.8      | 91.0 111.1      | 85.2- 117.8          | 85.3- 118.6          | 100                                                 | 100                                                 | 100                                                 |
+| Fc related blologlcai actvities | FoyRI binding       | SPR                | 3-Quanttative Comparison        | 9. 11:9                     | 96.1 106.2      | 103.4 109.1     | 102.6 111.8     | Raw data comparls on | Raw data on          | Slmllar                                             | Slmlar                                              | Highly simllar                                      |
+| Fc related blologlcai actvities | FoyRlla Eupuq       | SPR                | 3-Quanttative Comparison        | 911:9                       | 92.8- 103.9     | 99.8- 114.7     | 98.2- 1126      | Raw data comparls on | Raw data comparls on | Simlar                                              | Slmlar                                              | Hghly simllar                                       |
+| Fc related blologlcai actvities | FcyRIIb Eupuq       | SPR                | 3-Quanttative                   | 9:11:9                      | 97.3- 102.9     | 103.2- 114.1    | 104.5- 109.9    | Raw data comparls on | Raw data comparls UO | Simlar                                              | Slmlar                                              | Hghly slmilar                                       |
+| Fc related blologlcai actvities | FcyRilla binding    | SPR                | 3-Quantitative Comparison       | 9:11:9                      | 94.0- 100.5     | 97.6- 114.0     | 99.9- 118.5     | Raw data comparls on | Raw data comparls on | Slmllar                                             |                                                     | Highly simllar                                      |
+| Fc related blologlcai actvities | C1q binding         | ELISA              | 3-Quanttative                   | 911:9                       | 93 -114         | 83-117          | 97 -114         | Raw data comparls on | Raw data comparls on | Hghly simllar                                       | Hlghly similar                                      | Highly simillar                                     |
+|                                 | ADCC                | NK cell ADCC as5ay | 3-Quanttative Comparison        | 1:11                        | No actvty       | No activty      | No activity     | No actvity           | No Aawpe             | Hghly slmllar ONI actvty)                           | Hlghly simllar (No actMty)                          | Highly slmillar (No activty)                        |
+|                                 | CDC                 | CDC assay          | 3-Quanttative Comparison        | 1:11                        | No actvty       | No actvty       | No activity     | No actvty            | No actvity           | Hghly slmllar (No actvity)                          | Hlghly similar (No actMty)                          | Hghly similar (No actvty)                           |
+
+QR:Qualityrange,OOR:Out of range
+
+<div style=\"page-break-after: always\"></div>
+
+## 2.5.2.2.  Secondary pharmacodynamic studies
+
+No secondary PD studies were conducted in line with requirements of the Article 10(4) of Directive 2001/83/EC and in accordance with EMEA/CHMP/BMWP/42832/2005 Rev1 guideline.
+
+## 2.5.2.3.  Safety pharmacology programme
+
+Safety pharmacology studies are not required for an application under Article 10(4) of Directive 2001/83/EC and in accordance with EMEA/CHMP/BMWP/403543/2010 guideline. However, safety pharmacology parameters were assessed in the in vivo 4-week repeat-dose toxicity study in cynomolgus monkeys (Study 8379943). Neither Imuldosa nor EU-Stelara showed any adverse effects regarding safety pharmacology parameters. This is in line with the previous data for EU-Stelara (EMEA/CHMP/29255/2009).
+
+## 2.5.2.4.  Pharmacodynamic drug interactions
+
+No PD drug interactions studies were conducted in line with requirements of the Article 10(4) of Directive 2001/83/EC and in accordance with EMEA/CHMP/BMWP/42832/2005 Rev1 guideline.
+
+## 2.5.3.  Pharmacokinetics
+
+One comparative single-dose PK study was performed in male cynomolgus monkeys, titled: 'Pharmacokinetics of Stelara and biosimilar DMB-3115 following subcutaneous administration in the monkey' (Study 8380413). Here, administration occurred as a single subcutaneous (SC) injection of DMB-3115. Two distinct Imuldosa batches and EU-approved Stelara were administered at a dose of 9 mg/kg to male cynomolgus monkeys (n=6 animals per group). Similar PK profiles were demonstrated between two batches of Imuldosa and between Imuldosa and EU-Stelara.
+
+In this study, anti-drug antibodies (ADAs) were evident in one animal each in the two Imuldosa dosed groups, but not in the EU-Stelara dosed group. As the ADAs appeared towards the end of the experiment, overall (group) PK parameters were not significantly affected. Moreover, no ADAs were detected in a subsequent 4-week repeat dose toxicity study in the monkey.
+
+## 2.5.4.  Toxicology
+
+## 2.5.4.1.  Single dose toxicity
+
+No single-dose toxicity study was performed in line with the applicable guideline (EMEA/CHMP/BMWP/42832/2005 Rev1).
+
+## 2.5.4.2.  Repeat dose toxicity
+
+The applicant has completed a 4-week study 8379943 in cynomolgus monkeys with twice weekly dosing via subcutaneous injection comparing 0.9 and 45 mg/kg of Imuldosa to EU-Stelara at the same dose levels. Overall, the toxicity profile was comparable between both products for the parameters evaluated during the study. No ADAs were evident in any test animal.
+
+## 2.5.4.3.  Genotoxicity
+
+No genotoxicity or mutagenicity studies were performed in line with the applicable guideline ICH S6 (R1).
+
+<div style=\"page-break-after: always\"></div>
+
+## 2.5.4.4.  Carcinogenicity
+
+No carcinogenicity studies were performed in line with the applicable guidelines (EMEA/CHMP/BMWP/42832/2005 Rev1 and ICH S6 (R1)).
+
+## 2.5.4.5.  Reproductive and developmental toxicity
+
+No reproductive and developmental studies were performed in line with the applicable guideline (EMEA/CHMP/BMWP/42832/2005 Rev1).
+
+## 2.5.4.6.  Toxicokinetic data
+
+The objective of this assessment was to determine the systemic exposure of Imuldosa and EU-Stelara in male and female cynomolgus monkeys after twice a week subcutaneous (SC) dosing (0.9 and 45 mg/kg/day) for 4 weeks (Study 8379943). Mean plasma concentrations of EU-Stelara or Imuldosa were generally similar and were higher after multiple doses of EU-Stelara or Imuldosa when compared to a single dose. Estimation of elimination phase half-life (t1/2) was not attempted for any animals. Non-clinical PK studies do not suggest a significant difference between Imuldosa and the reference product, EU-Stelara.
+
+## 2.5.4.7.  Local tolerance
+
+Macroscopic observation and histopathological assessments of local (injection site) tolerance were performed in the single dose PK study 8380413 and the 4-week repeat-dose toxicity study 8379943. There were no toxicologically significant differences in injection site findings between control animals and animals administered Imuldosa or EU-Stelara.
+
+## 2.5.4.8.  Other toxicity studies
+
+No other toxicity studies were performed.
+
+## 2.5.5.  Ecotoxicity/environmental risk assessment
+
+Imuldosa is a monoclonal antibody and is classified as a protein. Therefore, an environmental risk assessment (ERA) is not required for this medicinal product in accordance with Article 8(3) of Derivative 2001/83/EC and the guideline (EMEA/CHMP/SWP/4447/00).
+
+## 2.5.6.  Discussion on non-clinical aspects
+
+An abridged nonclinical package has been provided to support the MAA for Imuldosa. This is acceptable considering the product is a biosimilar of Stelara for which there is extensive clinical experience. Furthermore, this is-line with the EMA Guideline (EMA/CHMP/BMWP/403543/2010) and with what was agreed during CHMP scientific advice (EMA/CHMP/SAWP/653523/2019).
+
+As outlined in the Committee for Medicinal Products for Human Use (CHMP) scientific advice (EMA/CHMP/SAWP/653523/2019), the conduct of the in vivo 4-week repeat-dose toxicology study with TK assessment in cynomolgus monkeys to compare Imuldosa with EU-Stelara is not required for a biosimilar MAA in the EU (e.g. according to the EMA Guideline EMA/CHMP/BMWP/403543/2010). Overall, the toxicity profile was comparable between both products for the parameters evaluated during the study.
+
+<div style=\"page-break-after: always\"></div>
+
+It is noted that the range and type of genotoxicity studies routinely conducted for pharmaceuticals are not applicable to biotechnology-derived pharmaceuticals because large proteins would not be expected to pass through cell membranes and interact directly with DNA or other chromosomal material.
+
+It is noted that studies regarding carcinogenicity, genotoxicity, carcinogenicity, reproductive and developmental toxicity are not required for non-clinical testing of biosimilars.
+
+Sections 4.6 and 5.3 of the SmPC are in line with the innovator product.
+
+The active substance is a natural substance, the use of which will not alter the concentration or distribution of the substance in the environment. Therefore, ustekinumab is not expected to pose a risk to the environment. An expert statement justifying the absence of an ERA has been submitted by the applicant. The applicant's justification for the lack of an ERA is considered acceptable. This is in line with the Guideline on the environmental risk assessment of medicinal products for human use (EMEA/CHMP/SWP/4447/00 corr 2).
+
+## 2.5.7.  Conclusion on non-clinical aspects
+
+The design of the non-clinical development program is considered appropriate. The non-clinical data support biosimilarity of Imuldosa versus the EU reference product EU-Stelara.
+
+Overall, the available non-clinical studies support Imuldosa marketing authorisation that is in compliance with the EU legislation as well as the biosimilar relevant guidance from the CHMP.
+
+## 2.6.  Clinical aspects
+
+## 2.6.1.  Introduction
+
+## GCP aspects
+
+The Clinical trials were performed in accordance with GCP as claimed by the applicant.
+
+The applicant has provided a statement to the effect that clinical trials conducted outside the Community were carried out in accordance with the ethical standards of Directive 2001/20/EC.
+
+##  Tabular overview of clinical studies
+
+The clinical development program for DMB-3115 (PFS, administered subcutaneously) consists of a Phase 1 study (DMB-3115-1) and a Phase 3 study (DMB-3115-2). The pharmacokinetic (PK) results of these two studies have been provided. No human biomaterial studies have been conducted for DMB3115.
+
+<div style=\"page-break-after: always\"></div>
+
+| Study Number   | Main study objective                                                                                                                                                                          | Study Design Study start/ completion                                                 | Test product Dosage, regimen Route of administration                                                                                                                                                                                  | Number of subjects treated                                                                                                                                                       | Healthy subjects or diagnosis of patients                      | Duration of Treatment        |
+|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------|
+| DMB- 3115- 1   | Compare the PK profiles of DMB- 3115 Formulation A, EU- Stelara and US-Stelara Investigate the safety, tolerability, And immunogenicity of DMB-3115 Formulation A, EU- Stelara and US-Stelara | Randomised, double-blind, single-centre, single-dose, 3- arm parallel group study    | DMB- 3115: PFS (SC) EU- Stelara:PFS (SC) US- Stelara:PFS (SC) Single dose of 45 mg                                                                                                                                                    | N = 300 (DMB-3115: 100; EU-Stelara: 100; US-Stelara: 100)                                                                                                                        | Healthy subjects                                               | Single dose                  |
+| DMB- 3115- 2   | Evaluate efficacy of DMB-3115 in comparison with EU-Stelara. Evaluate safety, tolerability, PK, And immunogenicity of DMB-3115 in comparison with EU- Stelara                                 | Randomised, double-blind, multicentric, parallel-group, and active controlled Study. | DMB-3115: PFS (SC) EU-Stelara: PFS (SC) Both arms: Subjects ≤100 kg received 45mg initially, followed by another 45 mg 4 weeks later, and then every 12 weeks thereafter. Subjects >100 kg received 90 mg doses as per same schedule. | Up to Week 28 (Period 1): N = 598 (DMB-3115: 299; EU-Stelara: 299) Week 28 to Week 52 (Period 2): N = 531 (DMB-3115: 268; EU-Stelara: 132; EU-Stelara Switched to DMB-3115: 131) | Subjects with moderate to severe chronic plaque-type psoriasis | 40 weeks after randomisation |
+
+## 2.6.2.  Clinical pharmacology
+
+## 2.6.2.1.  Pharmacokinetics
+
+## Methods
+
+## PK assay
+
+The bioanalytical method for measurement of serum ustekinumab was a standard ligand binding Meso Scale Discovery (MSD) format. Briefly, a biotin conjugated anti-ustekinumab antibody was coated on to microplates with sample and controls. A sulfo-tagged conjugated anti-ustekinumab antibody was added and ustekinumab concentration was measured based on the resulting ECL signal.
+
+The determined range of the assay was 3000 ng/ml to 5.86 ng/ml. The inter assay relative error (accuracy) and precision were within the acceptance criteria of %RE within ≤20% (≤25% for the LLOQ and ULOQ) and a %CV of ≤20% (≤25% at LLOQ and ULOQ). Dilution linearity showed acceptable performance when diluted in assay matrix.
+
+Spike recovery studies were performed to examine selectivity and specificity. Ten healthy human serum samples were spiked with DMB-3115 at the HQC and LQC level. The average spike recovery was 106% for the HQC and 88.0% for the LQC, and results were acceptable for 80% of samples tested. Spike recovery did not meet acceptance criteria when using lipaemic or haemolysed samples tested at
+
+<div style=\"page-break-after: always\"></div>
+
+the LQC level. In total, 3.3% of samples were either lipaemic or haemolysed and data was provided to show that exclusion of these samples had no impact on the PK results.
+
+Stability data was provided confirming sample stability for up to 36 months at -70 0 C, and for up to 24 hours at 2-8 0 C.
+
+Robustness was examined by altering incubation times, plate shaker speed and incubation temperature. The results show that the assay is suitably robust.
+
+Assay tolerance to IL-12 and IL-23 was investigated at two levels. A DMB-3115 concentration of 6.0 ng/ml can tolerate up to 1.85 ng/ml of IL-12 and IL-23, and a DMB-3115 concentration of 1200 ng/ml can tolerate up to 117 ng/ml of IL-12 and IL-23. The applicant has justified based on scientific literature that the levels of circulating IL-12 and IL-23 are below the tolerance of the assay.
+
+The applicant provided cross reactivity data to justify the use of a single assay format. The concentrations of HQC, MQC, and LQC samples of the clinical lots of DMB-3115, EU and US Stelara were measured using DMB-3115 as the reference standard. Back-calculated concentrations of all three were within acceptance criteria for accuracy and precision, which justifies that the PK assay is capable of accurately determining the concentration DMB-3115, EU Stelara, and US Stelara. This was further confirmed with the six Stelara lots used in the Phase 3 study. Lot-to-lot assessment was performed with multiple DMB-3115 lots which showed that different lots of DMB-3115 performed the same in the assay.
+
+The assay was validated in accordance with the requirements of ICH M10. All acceptance criteria listed in the validation report are fully in line with ICH M10. The bioanalytical report is provided which details how the assay was carried out. Details are provided on the number of samples tested. The results for the calibrators, QCs, and study samples are in accordance with the specified acceptance criteria in ICH M10. Incurred sample analysis meets the requirements of ICH M10 and verifies that the assay performed as expected. Certificate of analysis (CoA) for critical reagents and control material were provided by the applicant.
+
+## Anti-drug antibody assay
+
+A standard three-tiered approach to immunogenicity detection was used, which comprised screening, confirmation and determination of neutralising capacity. The ADA assay uses an MSD platform, where biotin conjugated DMB-3115 is incubated with samples/QCs on biotin coated plates. SULFO-tagged DMB-3115 is added as a detection antibody and the bridge formed by ADAs can be detected as an ECL signal.
+
+The positive control used to prepare the calibration curve and QCs was a human anti-ustekinumab monoclonal antibody. The antibody is periodically validated against EU Stelara by the supplier.
+
+Fifty serum samples were used to determine the screening cut-point over six independent assays by two analysts. Details of statistical analysis are provided in the validation report, including tests for normality, outliers and determination of variances. A floating cut-point was established based on the 95 th  percentile. As the assay cut-point (ACT) was established using healthy serum, data was requested to support the use of this cut-point when using patient serum.
+
+The specificity (or confirmatory) cut point (SCT) was determined using 50 naïve serum samples incubated with and without spiked drug. The statistical analysis is provided in the dossier and the cutpoint was determined based on a 0.1% false positive rate. Antibody titre was determined based on the reciprocal of the highest dilution that gave a value equivalent to the assay cut-point. The applicant provided a suitable justification for using the cut-point based on naïve serum.
+
+<div style=\"page-break-after: always\"></div>
+
+The sensitivity of the assay was determined to be 2.8 ng/ml in neat serum, which is considered sufficiently sensitive for an ADA assay. A series of calculations of inter- and intra- assay variability was performed. In all cases the recovery/relative error and precision were &lt;20%, which is considered acceptable.  Acceptable drug tolerance has been demonstrated, the assay is drug tolerant for the detection of ng/mL of ADA, in the presence of up to 6000 ng/mL ustekinumab.
+
+Spike recovery studies showed that there was no matrix interference, including lipaemic and haemolysed samples. Stability data have been provided, including long term, room temperature, and freeze thaw stability. Assay robustness data were also provided and are considered acceptable. Data on cross-reactivity have been provided to justify the use of a single assay format.
+
+Overall, the assay is considered to be validated in accordance with the recommendations of the EMA Guideline on Immunogenicity assessment of therapeutic proteins (EMEA/CHMP/BMWP/14327/2006 Rev 1) and the EMA Guideline on immunogenicity assessment of monoclonal antibodies intended for in vivo clinical use (EMA/CHMP/BMWP/86289/2010). All relevant bioanalytical reports were provided.
+
+## Neutralising antibody assay
+
+The neutralising antibody assay (nAb) is based on a competitive ECL bridging assay. Neutralising antibodies present in the sample inhibit sulfo-tagged IL-12 p40 from binding to biotinylated DMB-3115. The cut-point was determined using 50 naïve serum samples, with a 5% false positive rate. The results indicated that a dynamic cut-point should be used due to unequal means and variances. The individual dynamic cut-points were determined using 42 pre-dose study samples. Details of the statistical calculations are provided in the dossier. Intra-assay variability was ≤2.2% which is considered acceptable. Inter-assay variability was examined over several days by two analysts and gave a resulting CV of ≤9.5%. The sensitivity of the assay was calculated to be 108 ng/ml which is considered sufficiently sensitive for an nAb assay. Spike recovery studies showed that 20% of the unspiked serum samples gave a positive result. This implies a false positive rate of 20%. While this is higher than the false positive rate intended by the assay design, a slightly higher number of false positive results (i.e. making the products seem slightly more immunogenic) is considered to be in the company's risk rather than a true risk to patients. In contrast, the false negative rate was determined to be 10%. The applicant provided appropriate justification for the drug tolerance level of the assay. Tolerance to IL-12 and IL-23 was also investigated. The assay can tolerate IL-12 and IL-23 at levels far above what is expected in normal serum. Some false positive results were found but these were at levels above those expected in normal serum. Therefore, the interference from IL-12 and IL-23 is not a concern for this assay.
+
+Cross reactivity experiments were performed by pre-incubating the HPC and LPC with increasing concentrations of DMB-3115, EU Stelara, and US Stelara. There were comparable levels of inhibition from all three drugs, thereby justifying the use of the single assay format. All relevant bioanalytical reports have been provided.
+
+## Study DMB-3115-1
+
+Title: Comparative pharmacokinetic study of ustekinumab biosimilar (DMB-3115 Formulation A), EUStelara, and US-Stelara in healthy adult subjects Design and Methods.
+
+Trial design: This was a Phase 1, single-centre, single-dose, randomised, double-blind, 3-arm parallel-group study in healthy male and female subjects aged 18 to 55 years, inclusive (body weight of 60.0 kg to 100.0 kg and body mass index of 18.5 to 29.9 kg/m2, inclusive, at Screening). Subjects were randomised in a 1:1:1 ratio to receive a single 45 mg subcutaneous injection of DMB-3115 (Formulation A, the formulation that was used in this trial as well as study DMB-3115-2), EU-Stelara, or US-Stelara on Day 1, after which they were followed for 16 weeks for assessment of PK, safety, tolerability, and immunogenicity.
+
+<div style=\"page-break-after: always\"></div>
+
+## Subject disposition:
+
+A total of 645 subjects were screened, of which 300 subjects were randomised and 296 subjects were dosed. Of the 296 subjects, 294 (99.3%) subjects completed the study. Two subjects discontinued the study after the IMP administration.
+
+· One subject withdrew consent for further study participation from Day 5 onwards except for the EoS Visit on Day 112.
+
+· Another subject was withdrawn by the Investigator due to incompliance after 5 missing visits (Days 13, 21, 42, 56, and 63) and several delayed visits (Days 9, 10, 11, 14, 17, 35, 49, and EoS Visit on Day 112).
+
+All treated subjects were included in the safety analysis set. One subject in the DMB-3115 group withdrew from the study and did not have valid PK data by sequence for all visits; therefore, the subject was excluded from the PK analysis set.
+
+## Protocol deviations:
+
+One subject had major protocol deviations. Two major procedural protocol deviations were reported in the US-Stelara group.
+
+## Demographics:
+
+Subjects' age ranged from 18 to 55 years, with a mean (standard deviation; SD) of 38.5 (9.89) years. Body weight ranged from 60.0 to 99.0 kg, with a mean (SD) of 76.20 (10.368) kg. A total of 184 [62.2%] subjects were male and 278 [93.9%] subjects were of White race. Of the 296 subjects included in the safety analysis set, 295 subjects were included in the PK analysis set (98 for DMB3115, 98 for US-Stelara, and 99 for EU-Stelara). Subject characteristics (height, weight, and BMI) were generally well distributed across the treatment groups and were within the predefined limits of the study.
+
+## Medical History and Concurrent Illnesses:
+
+None of the subjects had any relevant medical history. None of the ongoing medical history was considered to have negatively impacted subject safety or influenced the results of the study.
+
+## Prior and Concomitant Treatments
+
+Prior medications were reported in 2 (0.7%) subjects. A total of 85 (28.7%) subjects received concomitant medications during the study.
+
+None of these medications were considered by the Investigator to have an influence on the objectives of the study.
+
+## Measurements of Treatment Compliance
+
+All 296 subjects received IMPs (either DMB-3115, EU-Stelara, or US-Stelara) at 45 mg as an SC injection in the clinical setting.
+
+## Results:
+
+BE analyses of ustekinumab PK parameters are summarised for the primary hypothesis for primary PK endpoints in Table 3.
+
+For primary hypothesis testing, the comparison of DMB-3115 (test treatment) to EU-Stelara (reference treatment) primary PK endpoints, the GMRs were 97.72, 101.86, and 102.44 for Cmax, AUClast, and AUCinf, respectively, and the 95% CIs were completely within the 80% to 125% BE limits, indicating the BE of DMB-3115 to EU-Stelara.
+
+<div style=\"page-break-after: always\"></div>
+
+For primary hypothesis testing, the comparison of DMB-3115 (test treatment) to US-Stelara (reference treatment) primary PK endpoints, the GMRs were 94.98, 97.03, and 97.34 for Cmax, AUClast, and AUCinf, respectively, and the 95% CIs were completely within the 80% to 125% BE limits, indicating the BE of DMB-3115 to US-Stelara.
+
+Table 3: BE analyses of ustekinumab PK parameters - primary hypothesis for primary PK endpoints
+
+<!-- image -->
+
+|                   |                         |       | LSMeans    | LSMeans                  |        |                        |
+|-------------------|-------------------------|-------|------------|--------------------------|--------|------------------------|
+| Parameter (Unit)  | Comparison              | N     | DMB-3115   | EU-Stelara or US-Stelara |        | % Ratio95% CI of Ratio |
+| Cmax (ng/mL)      | DMB-3115 vs. EU-Stelara | 98,99 | 3317.61    | 3395.11                  | 97.72  | (89.75, 106.40)        |
+| Cmax (ng/mL)      | DMB-3115 vS. US-Stelara | 98,98 | 3317.61    | 3492.92                  | 94.98  | (87.21, 103.44)        |
+| AUClast (h*ng/mL) | DMB-3115 vs. EU-Stelara | 98,99 | 2265503.74 | 2224041.72               | 101.86 | (93.24, 111.29)        |
+| AUClast (h*ng/mL) | DMB-3115 vs. US-Stelara | 98,98 | 2265503.74 | 2334741.14               | 97.03  | (88.79, 106.04)        |
+| AUCinf (h*ng/mL)  | DMB-3115 vs. EU-Stelara | 95,99 | 2362598.84 | 2306345.72               | 102.44 | (93.30, 112.47)        |
+| AUCinf (h*ng/mL)  | DMB-3115 vs. US-Stelara | 95,98 | 2362598.84 | 2427081.41               | 97.34  | (88.64, 106.90)        |
+
+CI = confidence interval
+
+N: number of observations used in the analysis
+
+Source: Table 14.2.3.1
+
+For the comparison of DMB-3115 (test treatment) to EU-Stelara (reference treatment) secondary PK endpoints, the GMRs and the 95% CIs were within the BE limits for all but AUC0-Tmax, AUC1008h-last, AUC1008h-inf, and %AUCex.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 4:  BE analyses of ustekinumab PK parameters - secondary PK endpoints
+
+<!-- image -->
+
+| Parameter               |                         | N     | LSIMeans/Median*   | LSIMeans/Median*         | 0% Ratio/ Difference* Median   | 95% CI of Ratio/Median Difference*   |
+|-------------------------|-------------------------|-------|--------------------|--------------------------|--------------------------------|--------------------------------------|
+| (Unit)                  | Comparison              |       | DMB-3115           | or US-Stelara EU-Stelara |                                |                                      |
+| AUCo-Tmax (h*ng/mL)     | DMB-3115vS. EU-Stelara  | 98,99 | 377207.32          | 453000.57                | 83.27                          | (74.48,93.09)                        |
+| AUCo-Tmax (h*ng/mL)     | DMB-3115 vs. US-Stelara | 98,98 | 377207.32          | 400513.80                | 94.18                          | (84.22,105.32)                       |
+| AUC0-1008h (h*ng/mL)    | DMB-3115 vs. EU-Stelara | 98,99 | 1730620.06         | 1726970.39               | 100.21                         | (92.33, 108.76)                      |
+| AUC0-1008h (h*ng/mL)    | DMB-3115 vs. US-Stelara | 98.98 | 1730620.06         | 1793359.77               | 96.50                          | (88.90,104.76)                       |
+| AUC100sh-last (h*ng/mL) | DMB-3115 vS. EU-Stelara | 97,99 | 512609.63          | 429467.23                | 119.36                         | (98.64, 144.43)                      |
+| AUC100sh-last (h*ng/mL) | DMB-3115 vs. US-Stelara | 97,96 | 512609.63          | 542379.47                | 94.51                          | (77.99,114.53)                       |
+| AUC1008h-inf (h*ng/mL)  | DMB-3115 vs. EU-Stelara | 95,99 | 586155.65          | 499104.38                | 117.44                         | (96.32,143.20)                       |
+| AUC1008h-inf (h*ng/mL)  | DMB-3115 vS. US-Stelara | 95,96 | 586155.65          | 623755.87                | 93.97                          | (76.95,114.76)                       |
+
+CI = confidence interval, N =number of observations used in the analysis
+
+* For Tmax, the corresponding non-parametric analysis (Hodges-Lehmann estimation procedure) was performed on the original scale using CIs for the estimation of the median treatment difference. The estimatedmediandifferenceand95%CIweredividedbymedianofEU-StelaraorUS-Stelara.
+
+Source:Table14.2.3.3
+
+## Study DMB-3115-2
+
+A randomised, double-blind, multicentric, parallel group, and active controlled study comparing efficacy, safety, and immunogenicity of subcutaneous administration of DMB-3115 and EU sourced Stelara (both at a dose of 45 mg in patients with body weight ≤100 kg and 90 mg in patients with body weight &gt;100 kg) every 12 weeks up to 52 weeks with initial dose followed by another dose 4 weeks later, and then every 12 weeks thereafter up to 40 weeks in patients with moderate to severe chronic plaque psoriasis.
+
+## Pharmacokinetic Analysis Set
+
+A total of 593 (99.2%) patients received at least 1 dose of IP, had at least 1 measured concentration at a scheduled post-dose PK time point, and had no major protocol deviations/events that might significantly affect the PK assessment.
+
+## Pharmacokinetic Concentrations
+
+The mean serum concentration-time profiles were superimposable between the DMB-3115 and Stelara treatments, indicating no clinically significant (CS) difference in PK exposure between treatments.
+
+## Pharmacokinetic Parameters
+
+Week 0 serum PK parameters for DMB-3115 and Stelara treatments are summarised in Table 5.
+
+Median tmax was similar for both treatments (167 hours [Week 1]). Geometric mean serum Cmax and AUCw0-w4 were comparable between treatments (&lt;3% difference in geometric means between treatments), and variability was similar between treatments (geometric CV% of 46.7% to 57.7% for DMB-3115 and 51.1% to 60.1% for Stelara).
+
+<div style=\"page-break-after: always\"></div>
+
+Table 5: Summary of serum ustekinumab PK parameters for first dose (Week 0) by treatment - PK set
+
+|                    |   N= 295 | DMB-3115               |     | Stelara? N= 298        |
+|--------------------|----------|------------------------|-----|------------------------|
+| Parameter          |       11 | Geo Mean (Geo C V%o)   | n   | Geo Mean (Geo CV%)     |
+| Cmax (ng/mL)       |      289 | 2585 (57.7)            | 292 | 2653 (60.1)            |
+| tmax (h)a          |      289 | 166.85 (17.50, 668.23) | 292 | 167.00 (21.58, 670.07) |
+| AUCw0-w4 (h*ng/mL) |      283 | 1202000 (46.7)         | 280 | 1183000 (51.1)         |
+
+Abbreviations: Geo CV% = geometric coefficient of variation (in percent); Geo Mean = geometric mean; n = number of observations; N = number of patients; PK = pharmacokinetic.
+
+a Median (minimum, maximum) are presented for tmax.
+
+Patients who received DMB-3115 over the entire treatment period are included in the DMB-3115 group. Patients who received Stelara? over the entire treatment period as well as patients who switched from Stelara? to DMB-3115 at Week 28 are included in the Stelara?@ group.
+
+Source: Table 14.4.2.1
+
+## Pharmacokinetics by body weight
+
+The mean concentration-time profiles for DMB-3115 and Stelara were highly similar between the DMB3115 and Stelara treatments for each body-weight category, indicating no clinically significant difference in PK exposure between treatments.
+
+Median tmax was similar for each treatment and body-weight category (167 hours [Week 1]). Geometric mean serum Cmax and AUCw0-w4 were comparable between treatments within each bodyweight category (&lt;11% difference in geometric means between treatments within body-weight categories), and variability was similar between treatments (geometric CV% of 44.0% to 51.3% for DMB-3115 and 45.6% to 49.8% for Stelara for the ≤100 kg/45 mg category, and 47.3% to 64.1% for DMB-3115 and 54.6% to 66.4% for Stelara for the &gt;100 kg/90 mg category).
+
+## Immunogenicity Impact on Pharmacokinetics - DMB-3115-2
+
+Mean ustekinumab concentrations are summarised by treatment and binding anti-drug antibody (ADA) status and neutralising antibody (nAb) status at each time point. For all treatments, mean ustekinumab concentrations were lower in patients who were positive for ADA and nAb compared to negative, with peak effect mostly observed at Week 16 or 28. The magnitude of decrease in concentrations at Week 16 or 28 was generally comparable between treatments. For DMB-3115, the magnitude of decrease in mean concentrations with positive ADA and nAb status at these time points was similar to that observed for EU-Stelara treatments (41%, 50%, and 32% lower for DMB-3115, EUStelara, and EU-Stelara switched to DMB-3115 treatment groups, respectively, for ADA positive compared to negative at Week 28; 46%, 58%, and 48% lower for DMB-3115, EU-Stelara, and EUStelara switched to DMB-3115 treatment groups, respectively, for nAb positive compared to negative at Week 16 or 28).
+
+Maximum decrease in mean concentrations in ADA positive patients compared to ADA negative patients was generally observed at Week 28 across treatments (maximum decreases were observed for all treatments at Week 28, though a decrease of equal magnitude was also observed at the Week 0 24-hour time point for Switch treatment). Mean ustekinumab concentrations in ADA negative patients were similar between treatments.
+
+<div style=\"page-break-after: always\"></div>
+
+As with ADA, nAb formation was associated with a decrease in ustekinumab concentrations. Maximum decrease in mean concentrations in positive compared to negative nAb patients was generally observed at Week 16 or Week 28. Maximum decreases were observed for DMB-3115 and Switch treatments at Week 16 or Week 28 and a near-maximum decrease was observed for Stelara at these time points, though a further decrease was observed for Stelara at Week 52.
+
+The magnitude of decrease in mean concentrations at Week 16 or Week 28 for DMB-3115 (46% decrease) was similar to that observed for Stelara treatments (58% decrease for Stelara and 48% decrease for Stelara switched to DMB-3115 treatment group). Mean ustekinumab concentrations in nAb negative patients were similar between treatments.
+
+## 2.6.2.2.  Pharmacodynamics
+
+## Mechanism of action
+
+Ustekinumab is a human immunoglobulin G1 (IgG1κ) mAb that neutralises the bioactivity of interleukin (IL)-12 and IL-23 by binding to p40 subunit of both cytokines and preventing IL-12 and IL-23 from binding to the IL-12Rβ1 receptor protein expressed on the surface of natural killer or T cells. Through this mechanism of action, ustekinumab neutralises IL-12 (T helper [Th]1) and IL-23 (Th17)-mediated cellular responses. DMB-3115 has been developed to have similar quality profile to that of Stelara.
+
+## Primary and Secondary pharmacology
+
+Not applicable.
+
+## 2.6.3.  Discussion on clinical pharmacology
+
+## PK Assay
+
+The assay has been appropriately validated in accordance with the EMA guideline on Bioanalytical method validation (EMEA/CHMP/EWP/192217/2009).
+
+## Study DMB-3115-1: Phase I PK
+
+The trial design, a single-centre, randomised, double-blind study is acceptable and generally in line with the EMA guideline EMEA/CHMP/BMWP/42832/2005 Rev1 'Guideline on similar biological medicinal products containing biotechnology-derived proteins as active substance: non-clinical and clinical issues'. Healthy adult volunteers are considered a homogenous and sensitive population for detection of any potential difference in the PK profile between the test and reference compound. Included subjects had to weight between 60 and 100 kg at screening, which is appropriate given the known impact of body weight on ustekinumab PK and the different posology requirements at different weight bands.
+
+The inclusion and exclusion criteria are generally acceptable. The planned sample size was 300 subjects and is appropriate. While a cross-over study design is preferred, a parallel study is acceptable due to the long half-life of the active substance.
+
+A 3-way PK study for the test compound, EU-Stelara and US-Stelara is acceptable and in-line with the 'Guideline on similar biological medicinal products' CHMP/437/04 Rev 1). However, the EU reference product is the main interest of this application.
+
+The selected 45 mg dose is acceptable. It is the recommended dose of ustekinumab in plaque psoriasis and psoriatic arthritis indications and is the lowest dose to give to healthy volunteers.
+
+<div style=\"page-break-after: always\"></div>
+
+The applicant is also applying for marketing authorisation for doses of 90 mg and 130 mg, which is in line with the Stelara originator doses and acceptable as the active (ustekinumab) displays linear pharmacokinetics after a single SC administration at doses ranging from approximately 24 mg to 240 mg in patients with psoriasis. A single dose study is acceptable and considered more sensitive than a multiple dose study for determining biosimilarity.
+
+The primary PK endpoints AUCinf, AUClast and Cmax and the secondary end-points, are in line with the relevant EMA guidelines.
+
+In this study, Tmax ranged between 2 to 16 days for DMB-3116 and EU Stelara. The half-life of ustekinumab was approx. 20 to 21 days. The last sampling time-point of 112 days should therefore be adequate to cover 5 X t1/2 of ustekinumab.
+
+Ustekinumab may be administered intravenously (IV) or subcutaneously (SC), the applicant has performed the PK study with SC administration, which is appropriate as it is preferable to fully investigate absorption and elimination of the active. Selecting SC administration is also in line with the 'Guideline on similar biological medicinal products containing biotechnology-derived proteins as active substance: non-clinical and clinical issues' (EMEA/CHMP/BMWP/42832/2005 Rev1). The guideline states that 'If the reference product can be administered both intravenously and subcutaneously, the evaluation of subcutaneous administration will usually be sufficient as it covers both absorption and elimination. Thus, it is possible to waive the evaluation of intravenous administration if biosimilar comparability in both absorption and elimination has been demonstrated for the subcutaneous route'. The secondary endpoints include some partial AUCs. However, these did not fully cover the elimination phase (please see below for more details).
+
+One protocol amendment occurred during the study, this included a shortened in-house period due to Covid-19 pandemic and affected n=150/300 subjects but overall is considered not to have affected the outcome of the trial.
+
+The number of subjects that did not complete the study was very low at n=2. Only 1 subject was excluded from the PK analysis.
+
+Only one subject had any major protocol deviations. As this occurred in the US reference group, it is not of concern for the present application. A large number of subjects had protocol deviations, which the applicant has categorised as minor; as they were due to time deviations, actual times were considered in the PK analysis. This is acceptable.
+
+The demographics, baseline characteristics and concomitant therapies are acceptable and well balanced between the treatment arms. As the study involved a single dose SC treatment there were no issues with treatment compliance.
+
+The applicant initially presented 95% CIs, however following queries 90% CI were submitted. For the primary end-points, the 90% confidence interval of the ratio of the geometric means of Cmax, AUC0last and AUC0-inf of the test treatment compared to the EU-reference treatment were contained within the bioequivalence limits of 0.8-1.25 [CI: 90.85-105.10; 95.01-109.21 and 95.18-110.26 respectively]. The 90% confidence intervals also crossed 1 for all primary PK parameters. Bioequivalence was also demonstrated for the primary end-points for the EU-reference/US-reference.
+
+The 90% CI for the ratio of the geometric means for many of the secondary endpoints were contained within the bioequivalence limits of 0.8-1.25. However, the secondary end-points %AUCex (%), AUC1008h-last and AUC1008h-inf breached the upper bioequivalence limit, while AUC0-Tmax breached the lower limit for DMB-3115 compared to EU-Stelara. Bioequivalence was proven for all secondary end-points for the comparison of DMB-3115 and US-Stelara except for %AUCex (%). Demonstrating bioequivalence for the small area of %AUCex (%) would be difficult and is not pursued further.
+
+<div style=\"page-break-after: always\"></div>
+
+For the absorption phase of the phase I PK study, partial AUC data from zero to each PK timepoint has been analysed and all results demonstrated 90% CI lying within the 80-125% bioequivalence limits for DMB-3115 compared to EU-Stelara. Regarding the AUC0-Tmax parameter not displaying bioequivalence, the applicant has demonstrated that when calculating AUC0-Tmax differently, and using the median Tmax overall (instead of the median Tmax by treatment group as initially reported, or by individual Tmax) the 90% CI lies within the 80-125% bioequivalence limits for DMB-3115 compared to EU-Stelara. Additionally, the primary end-points of Cmax, AUC0-last and AUC0-inf all successfully demonstrated bioequivalence. The biosimilarity of the SC administration is thus agreed. For the bridge to the IV administration, following queries the applicant has presented new partial AUC analyses to cover the elimination phase. Several different starting points for the elimination phase were selected (312h, 384h, 480h, 648h) with the endpoints either being the last PK timepoint or infinity. Bioequivalence (based on 90% CIs) was demonstrated for all analyses except for AUC648h-inf, which only just slightly breached the upper bioequivalence margin (96.76 - 125.11) and which is not of concern. The secondary endpoints of AUC1008h-last, and AUC1008h-inf were presented with 90% CIs (instead of the originally presented 95% CIs) and still failed to demonstrate bioequivalence. However, it is agreed with the applicant that the new partial AUC elimination analyses are more appropriate to demonstrate biosimilarity as they cover a larger proportion of the elimination phase. The 1008h timepoint is well into the elimination phase and cuts off a substantial part of the early elimination. In addition, the 1008h timepoint was not a PK timepoint and was extrapolated, it was also associated with a high %CV and thus was not as reliable as the newly presented partial AUC analyses to cover the elimination phase. Overall, it can be confirmed that the partial AUC data supports the biosimilarity. For all subjects, %AUCex was less than 20%, no subject had a pre-dose concentration of &gt;5% of the Cmax value, and no subject had a first sample after treatment as the Cmax. subjects that developed ADAs was significantly lower in the DMB-3115 group compared to the Stelara
+
+The results of subgroup analysis of the primary PK parameters (AUCinf, AUClast and Cmax) by ADA and nAb status were provided. Results of AUCinf and Cmax in post-dose ADA positive subgroup were generally lower than those in the post-dose ADA negative subgroup. In addition, the number of group.
+
+## Study DMB-3115-2: Phase III
+
+PK data were also collected from the Phase III efficacy study in patients with moderate to severe chronic plaque psoriasis. The majority of patients were included in the PK analysis set.
+
+Results showed similar mean serum concentrations of ustekinumab between the DMB-3115 and Stelara arms, both before and after the switch in treatments, and comparable PK parameters in the first 4 weeks (Cmax, tmax, AUC0-4wks). When categorised by body weight (&lt;100kg and &gt;100kg), patients with higher body weight and higher dosing exhibited higher Cmax and AUC values. However, mean serum concentrations were similar across treatment arms. This is in agreement with the Stelara SmPC, 'body weight was found to be the most significant covariate affecting the clearance of ustekinumab'.
+
+Several patients had pre-dose concentrations. In most cases, these pre-dose concentrations were ≤5% of Cmax, so the patients were included in the PK populations as per protocol. Overall, 10 patients had quantifiable concentrations at the pre-dose time point at week 0: 3 patients in DM-3115 arm, 2 patients in Stelara arm and 5 patients in group switched from Stelara do DM-3115. Two patients with high pre-dose concentrations were excluded from the PK population (DMB-3115 [a] with pre-dose concentration of 260.686 ng/mL and Switch with pre-dose concentration of 264.975 ng/mL) with argument that these concentrations were &gt;5% of Cmax and therefore excluded from the PK population. Following queries, the applicant provided summary of quantifiable serum pharmacokinetic
+
+<div style=\"page-break-after: always\"></div>
+
+concentrations at week 0/Day 1 (pre-dose concentrations) and listing of prior medication for these patients with pre-dose concentrations. The administration of ustekinumab has not been declared. The listing of medical history and concomitant illness for patients with quantifiable pre-dose concentrations is provided as well. Based on available data, the applicant cannot infer the pre-dose concentrations to any reason. Since the proportion with pre-dose positivity was not distributed among the arms in a similar way, the applicant generated new post-hoc analysis with exclusion of subjects with pre-dose concentrations. The 95% CI for LS mean difference for percent change in Psoriasis Area and Severity Index (PASI) between DMB-3115 (N=256) and Stelara (N=267) arms was within the pre-specified equivalence margins [LS mean difference [DMB-3115Stelara]: 95% CI (-4.24, 2.27, p=0.5523)]. Based on these results it can be concluded that measured pre-dose concentrations had no impact on primary efficacy analysis.
+
+Also, regarding the inclusion of subjects with high pre-dose concentrations in the PPs population in the efficacy evaluation it was stated by the applicant that the PK data were not available for clinical team to determine the PPS population. This is accepted considering that the post hoc analysis of change in PASI score from baseline to week 8 excluding all subjects with quantifiable pre-dose concentrations confirmed the findings of primary analysis, 95% for LS mean difference was within pre-specified equivalence margin (LS mean difference [DMB-3115Stelara]: 95% CI -4.24, 2.27) p=0.5523).
+
+The ADA and nAb formation were associated with a decrease in ustekinumab concentrations, with maximum decrease generally observed at Week 16 or 28.
+
+Maximum decrease in mean concentrations in ADA positive patients compared to ADA negative patients was generally observed at Week 28 across treatments. The magnitude of decrease in mean concentrations at Week 28 for DMB-3115 (41% decrease) was similar to Stelara treatments (50% decrease for Stelara and 32% decrease for Stelara switched to DMB-3115 treatment group).
+
+Maximum decrease in mean concentrations in positive compared to negative nAb patients was generally observed at Week 16 or Week 28. The magnitude of decrease in mean concentrations at Week 16 or Week 28 for DMB-3115 (46% decrease) was similar to that observed for Stelara treatments (58% decrease for Stelara and 48% decrease for Stelara switched to DMB-3115 treatment group).
+
+The applicant has presented the 90% CIs for Cmax, AUClast and AUCinf by ADA and nAb status. Bioequivalence is demonstrated for all ADA-negative and nAb-negative parameters. For ADA+ subjects, bioequivalence is not demonstrated for Cmax. For ADA+ subjects other PK parameters do demonstrate bioequivalence. Bioequivalence is not demonstrated for any nAb+ subjects. As discussed by the applicant, the subject numbers in some of these sub-groups are low. The sub-group analyses are not powered to demonstrate bioequivalence. The 90% CI are close to meeting the bioequivalence limits.
+
+For further discussion on immunogenicity please see the safety section of this AR.
+
+Overall, this PK data in patients is considered supportive of the comparability results demonstrated between DMB-3115 and the reference product Stelara in the phase I PK study.
+
+## 2.6.4.  Conclusions on clinical pharmacology
+
+The results are considered to be indicative of clinical bioequivalence between the test and comparator treatment arms.
+
+<div style=\"page-break-after: always\"></div>
+
+## 2.6.5.  Clinical efficacy
+
+## Table 6: Clinical study phase III
+
+| Study Number   | Main study objective                                                                                                                                         | Study Design Study start/ completion                                                  | Test product Dosage, regimen Route of administration                                                                                                                                                                                  | Number of subjects treated                                                                                                                                                       | Healthy subjects or diagnosis of patients                      | Duration of Treatment        |
+|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------|
+| DMB- 3115- 2   | Evaluate efficacy of DMB-3115 in comparison with EU-Stelara. Evaluate safety, tolerability, PK, And immunogenicity of DMB-3115 in comparison with EU-Stelara | Randomised, double-blind, multicentric, parallel- group, and active controlled Study. | DMB-3115: PFS (SC) EU-Stelara: PFS (SC) Both arms: Subjects ≤100 kg received 45mg initially, followed by another 45 mg 4 weeks later, and then every 12 weeks thereafter. Subjects >100 kg received 90 mg doses as per same schedule. | Up to Week 28 (Period 1): N = 598 (DMB-3115: 299; EU-Stelara: 299) Week 28 to Week 52 (Period 2): N = 531 (DMB-3115: 268; EU-Stelara: 132; EU-Stelara Switched to DMB-3115: 131) | Subjects with moderate to severe chronic plaque-type psoriasis | 40 weeks after randomisation |
+
+## 2.6.5.1.  Dose-response studies
+
+Not applicable.
+
+## 2.6.5.2.  Main study(ies)
+
+## Study DMB-3115-2
+
+Title: A Randomized, Double-Blind, Multicentric, Parallel-Group Therapeutic Equivalence Study Comparing Efficacy, Safety and Immunogenicity of Subcutaneous DMB-3115 and EU Sourced Stelara in Patients with Moderate to Severe Chronic Plaque Psoriasis
+
+Trial design: A randomised, double-blind, multicentric, parallel group, and active controlled study comparing efficacy, safety, and immunogenicity of subcutaneous administration of DMB-3115 and EU sourced Stelara (both at a dose of 45 mg in patients with body weight ≤100 kg and 90 mg in patients with body weight &gt;100 kg) every 12 weeks up to 52 weeks with initial dose followed by another dose 4 weeks later, and then every 12 weeks thereafter up to 40 weeks in patients with moderate to severe chronic plaque psoriasis.
+
+<div style=\"page-break-after: always\"></div>
+
+Figure 1: Treatment schedule schematic
+
+<!-- image -->
+
+## Methods
+
+## Study participants
+
+84 sites screened at least 1 subject and 79 sites randomised at least 1 subject in 9 countries (Bulgaria, Czech Republic, Estonia, Georgia, Hungary, Latvia, Poland, Ukraine, and US).
+
+## Key Inclusion Criteria:
+
+- Male and female subjects aged ≥18 and ≤75 years and with body weight ≤140 kg.
+- Diagnosis of plaque-type psoriasis for at least 6 months prior to IP initiation.
+- Moderate to severe psoriasis defined by PASI score of 12 or greater, PGA score of 3 or greater and BSA affected by plaque-type psoriasis of 10% or greater at screening and baseline.
+- Subjects who were considered by the treating dermatologist to be a candidate for phototherapy or systemic treatment of psoriasis.
+- Subjects who previously had an inadequate response, intolerance to, or contraindication to at least 1 conventional anti-psoriatic systemic therapy.
+
+## Key Exclusion Criteria:
+
+- Non-plaque forms of psoriasis including guttate, erythrodermic, inverse or pustular types of psoriasis.
+- Drug induced psoriasis.
+- Subjects who had received any biological therapeutic agents, investigational drugs, or treatment as per details in Section 5.2 of Protocol.
+- Subjects who had an active ongoing inflammatory disease other than psoriasis that might confound the evaluation of treatment with ustekinumab.
+- Subjects who had an active infection or history of infections.
+
+<div style=\"page-break-after: always\"></div>
+
+· Subjects who had an uncontrolled, clinically significant systemic disease or an active or prior malignancy within 5 years.
+
+## Treatments
+
+DMB-3115: PFS (SC) and EU-Stelara: PFS (SC).
+
+Each PFS was designed to deliver 45 mg dose of active substance per 0.5 mL of solution or 90 mg dose of active substance per 1 mL of solution.
+
+Two treatment groups (DMB-3115 and EU-Stelara) in Period 1 and three treatment groups (DMB-3115, EU-Stelara, and EU-Stelara switched to DMB-3115) in Period 2.
+
+Subjects who weighed ≤100 kg received an initial dose of 45 mg ustekinumab administered SC (either DMB-3115 or EU-Stelara as assigned), followed by another 45 mg dose 4 weeks later, and then every 12 weeks thereafter (up to 40 weeks after randomisation). Subjects who weighed &gt;100 kg received 90 mg doses as per same schedule.
+
+The doses at re-randomisation (Week 28) for both DMB-3115 and EU-Stelara were re-assigned based on the body weight at Week 28 (≤100 kg or &gt;100 kg).
+
+## Objectives
+
+The primary objective was to evaluate efficacy of DMB-3115 in comparison with Stelara sourced from the EU.
+
+The secondary objectives were to evaluate safety, tolerability, PK, and immunogenicity of DMB-3115 in comparison with Stelara sourced from the EU.
+
+## Outcomes/endpoints
+
+## Primary Efficacy Analysis (for EMA)
+
+· Percent change in PASI at Week 8 was analysed with a 95% CI for the difference in means using estimates from an ANCOVA model adjusted for baseline PASI score and the stratification factors (subject's body weight at baseline [≤100 kg or &gt;100 kg], geographic region [EU, US, or ROW] and the number of previous systemic therapies for psoriasis [&lt;3 or ≥3]).
+
+## Sensitivity Analysis of Primary Efficacy Variables
+
+· Percent change in PASI was analysed for each PPS and ITT Set (EMA and US FDA) using a mixed linear model with treatment group, baseline body weight (≤100 kg or &gt;100 kg), geographic region (EU, US, or ROW), the number of previous systemic therapies for psoriasis (&lt;3 or ≥3), visit, and the treatment-by-visit interaction as fixed effects and baseline PASI score as a covariate. The treatment mean difference at Week 8 (for EMA) and Week 12 (for US FDA), along with CI were calculated.
+
+## Sensitivity Analysis of Primary Efficacy Variables for Subjects Impacted by COVID-19:
+
+· Subject impacted by COVID-19 analyses of treatment group differences for assessing percent change in PASI were presented for the primary efficacy variable based on imputed data.
+
+· Percent change in PASI for COVID-19 confirmed subjects till Week 8 (for EMA) and Week 12 (for US FDA) and subjects identified under COVID-19 impact log whose visit till Week 8 (for EMA) and Week 12 (For US FDA) were analysed for each PPS and the ITT with a 95% CI (for EMA) and 90% CI (for US FDA) for the difference in means using estimates from an ANCOVA model adjusted for baseline PASI score and the stratification factors (subject's body weight at baseline [≤100 kg or &gt;100 kg],
+
+<div style=\"page-break-after: always\"></div>
+
+geographic region [EU, US, or ROW] and the number of previous systemic therapies for psoriasis [&lt;3 or ≥3].
+
+· Similar analysis was conducted for subjects excluding subjects impacted by COVID-19. Confidence Interval criteria was decided and calculated on the basis of regulatory submission (for US FDA - 90% CI) and (for EMA - 95% CI).
+
+## Subgroup Analysis of Primary Efficacy Variables
+
+- Subgroup analyses of treatment group differences for assessing percent change in PASI were presented for the primary endpoint based on imputed data.
+- The following subgroups were assessed:
+- o body weight at baseline (≤100 kg or &gt;100 kg)
+- o geographic region (EU, US, or ROW)
+- o number of previous systemic therapies for psoriasis (&lt;3 or ≥3)
+- Percent change in PASI was analysed for each PPS and ITT (EMA and US FDA).
+
+· Percent change in PASI was analysed with a 95% CI (for EMA) at Week 8 and 90% CI (for US FDA) at Week 12 for the difference in means using estimates from an ANCOVA model adjusted for baseline PASI score and the stratification factors (subject's body weight at baseline [≤100 kg, or &gt;100 kg], geographic region [EU, US, or ROW] and the number of previous systemic therapies for psoriasis [&lt;3 or ≥3]) except the subgroup factor being analysed.
+
+## Secondary Efficacy Analysis
+
+Percentage of patients with a PASI 50 (a 50% reduction in the PASI score) response at Weeks 4, 8, 12, 16, 28, 40, and 52.
+
+- Percentage of patients with a PASI 75 (a 75% reduction in the PASI score) response at Weeks 4, 8, 12, 16, 28, 40, and 52.
+- Percentage of patients with a PASI 90 (a 90% reduction in the PASI score) response at Weeks 4, 8, 12, 16, 28, 40, and 52.
+- Percentage of patients with a PASI 100 (a 100% reduction in the PASI score) response at Weeks 4, 8, 12, 16, 28, 40, and 52.
+- Percentage change in Area under the effect curve (AUEC) for the PASI score from baseline at Weeks 4, 8, 12, 16, 28, 40, and 52.
+- Percent change in the PASI score from baseline at Weeks 4, 8, 12, 16, 28, 40, and 52.
+- Percentage of patients with a Physician's Global Assessment (PGA) score of Cleared or Minimal at Weeks 4, 8, 12, 16, 28, 40, and 52.
+- Change from baseline in Dermatology Life Quality Index (DLQI) at Weeks 4, 8, 12, 16, 28, 40, and 52.
+
+## Sample size
+
+For primary efficacy analysis, the US FDA sample size of 490 patients in total, or 245 patients per treatment group at baseline, was selected to achieve 392 evaluable patients to have a 90% CI for the difference in primary endpoint fall entirely within the 10% equivalence margin with more than 90% power.
+
+<div style=\"page-break-after: always\"></div>
+
+Assuming a dropout rate of 20% in Period 1, 15% in Period 2, and considering the 1:1 rerandomisation rate for Stelara arm in Period 2 and to meet the minimum requirement of safety analysis by EMA (N=100), 590 patients (a minimum of 400 completed patients) would be necessary in total.
+
+Thus, 590 patients (295 patients per treatment group) were planned to be enrolled.
+
+## Randomisation
+
+Subjects were randomly assigned in a 1:1 ratio to receive treatment with either DMB-3115 or EUStelara. Randomisation was stratified according to subject's body weight at baseline (≤100 kg or &gt;100 kg), geographic region (EU, US, or ROW) and the number of previous systemic therapies for psoriasis (&lt;3 or ≥3). The study had 2 periods.
+
+· Period 1 (from Week 0 to Week 28): subjects received the assigned treatment (either DMB-3115 or EU-Stelara) at Weeks 0, 4, and 16. Only the subjects who achieved at least PASI 75 response at Week 28 were eligible for inclusion into the Period 2 (Transition period: from Week 28 to Week 52).
+
+· Period 2 (from Week 28 to Week 52): subjects randomised to receive DMB-3115 continued to receive the same treatment up to Week 40 while subjects randomised to receive EU-Stelara were rerandomised and re-stratified based on the body weight at Week 28 (≤100 kg or &gt;100 kg) in a 1:1 ratio to either continue on EU-Stelara or receive DMB-3115 every 12 weeks up to Week 40 (i.e., 2 doses of IP after re-randomisation). Blinding was maintained throughout the study.
+
+· Subjects who did not achieve at least PASI 50 response by Week 12 or PASI 75 response by Week 28 were discontinued from treatment. These subjects and all subjects who discontinued treatment, including non-responders, remained in the study and were followed-up to Week 52 for safety monitoring, including immunogenicity.
+
+## Blinding (masking)
+
+Each patient was dispensed blinded study treatment, labelled with his/her unique Patient Number/Patient ID, throughout the study.
+
+Investigators remained blinded to each patient's assigned study IP throughout the course of the study. To maintain this blind, all SC injections were administered by a qualified unblinded site staff and the syringe was shielded from the patient to avoid unblinding.
+
+In addition, in order to maintain the integrity of the blind, the results of the PK and ADA analyses were not provided to the sites.
+
+## Statistical methods
+
+Primary efficacy endpoint was analysed using an Analysis of Covariance (ANCOVA) at Week 8 (for EMA) and Week 12 (for US FDA).
+
+Secondary efficacy endpoints were analysed using ANCOVA and logistic regression for protocol specified visits and supportive analysis to secondary efficacy endpoint for Period 2 was planned using ANCOVA with Welch's test.
+
+Primary and secondary efficacy endpoints were analysed with 95% CI (for EMA) and 90% CI (for US FDA) using ANCOVA and Logistic Regression; CI, Standard Errors and P values were provided based on ANCOVA model results.
+
+Sensitivity and supportive analyses were performed with 95% CI (for EMA) and 90% CI (for US FDA).
+
+<div style=\"page-break-after: always\"></div>
+
+Subgroup analyses of treatment group differences for assessing Percent change in PASI were performed using an ANCOVA for the primary endpoint at Week 8 (for EMA) and Week 12 (for US FDA).
+
+## Primary Efficacy Analysis (for EMA)
+
+- Percent change in PASI at Week 8 was analysed with a 95% CI for the difference in means using estimates from an ANCOVA model adjusted for baseline PASI score and the stratification factors (subject's body weight at baseline [≤100 kg or &gt;100 kg], geographic region [EU, US, or ROW] and the number of previous systemic therapies for psoriasis [&lt;3 or ≥3]).
+- Equivalence between the 2 treatment groups was declared if the 95% CI of the mean difference was entirely contained within the pre-specified equivalence margin of (-15%, 15%).
+- Analysis was performed in the ITT and PPS. The PPS was the primary efficacy analysis population.
+- Missing values for primary efficacy variable in the ITT Set were imputed by MI method.
+
+Equivalence margins of 15% and 10% were recommended by the EMA and US FDA, respectively. The SD assumption was derived from the observed SD of the mean improvement in PASI score in studies PHOENIX 1 and PHOENIX 2. Sample size was calculated using the Two one-sided t-tests (TOST) procedure as implemented in the R package power TOST. The overall sample size will be based on the larger sample size calculated through EMA and US FDA's recommendation.
+
+The equivalence margin 1 was calculated using 2 pivotal studies (PHOENIX 1, PHOENIX 2) in Stelara.
+
+With reference to the US FDA's Non-inferiority Guidelines (2016), considered that margin 1 would be 65%, slightly discounted from the lower limit of the 95% CI (67.3%).
+
+Although margin 2 is considered to be 32.5% for percent change in PASI, this study is an equivalence trial, so 15% for percent change in PASI smaller than margin 2 was set as the equivalence margin. However, further to discussion with regulators a 15% and 10% equivalence margin were recommended by EMA and US FDA, respectively.
+
+## Results
+
+## Participant flow
+
+A total of 831 patients were screened for the study; of which 233 patients were screen failures and the remaining 598 patients were randomised and treated. Of 598 patients, 531 (88.8%) patients completed Period 1 and 67 (11.2%) patients prematurely discontinued study treatment during Period 1. The most common reason for study treatment permanent discontinuation across treatment arms during Period 1 were:
+
+- Patient diagnosed with SARS-CoV-2 infection (DMB-3115: 12 [38.7%]; Stelara: 13 [36.1%])
+- The patient does not achieve PASI 75 response by Week 28 (DMB-3115: 5 [16.1%]; Stelara: 5 [13.9%]),
+- Patient's own decision (DMB-3115: 3 [9.7%]; Stelara: 6 [16.7%]), and
+- Other reasons (DMB-3115: 6 [19.4%]; Stelara: 4 [11.1%]).
+
+All 531 patients who completed Period 1 were re-randomised where 268 patients were re-randomised to continue to receive DMB-3115, 132 patients were re-randomised to receive Stelara and 131 patients were switched to receive DMB-3115. All 531 re-randomised patients were treated except 1 patient in DMB-3115 arm.
+
+<div style=\"page-break-after: always\"></div>
+
+A total of 512 (96.4%) patients completed the study, 15 (2.8%) patients discontinued study treatment during Period 2, and 4 (0.8%) patients withdrew from the study after completion of study treatment in both Period 1 and Period 2. The most common reason for study treatment permanent discontinuation across treatment arms during Period 2 were:
+
+- Patient diagnosed with SARS-CoV-2 infection (Stelara switched to DMB-3115: 3 [50%]) and
+- Patient's own decision (DMB-3115: 1 [12.5%]; Stelara switched to DMB-3115: 2 [33.3%]),
+- Other reasons (DMB-3115: 5 [62.5%]; Stelara: 1 [100%]; Stelara switched to DMB-3115: 1 [16.7%]).
+
+A total of 86 patients discontinued the study or study treatment in overall period and the most common reason for study discontinuation was patient's own request (DMB-3115: 14 [34.1%]; Stelara: 10 [26.3%]; Stelara switched to DMB-3115: 2 [28.6%]) followed by other reasons (DMB-3115: 11 [26.8%]; Stelara: 9 [23.7%]; Stelara switched to DMB-3115: 3 [42.9%]).
+
+## Conduct of the study
+
+## Period 1
+
+A total of 64 (10.7%) patients (DMB-3115: 30 [10%]; Stelara: 34 [11.4%]) had critical deviations; 237 (39.6%) patients (DMB-3115: 119 [39.8%]; Stelara: 118 [39.5%]) had major protocol deviations, and 213 (35.6%) patients (DMB-3115: 94 [31.4%]; Stelara: 119 [39.8%]) had minor deviations.
+
+More than 2% of the patients in either of the treatment arms reported the critical protocol deviations related to:
+
+- Eligibility and entry criteria (DMB-3115: 1.0%; Stelara: 2.7%),
+- Laboratory assessment criteria (DMB-3115: 1.7%; Stelara: 2.7%) and
+- Randomisation criteria (DMB-3115: 5.4%; Stelara: 4.3%).
+
+More than 2% of the patients in either of the treatment arms reported the major protocol deviations related to:
+
+- Laboratory assessment criteria (DMB-3115 and Stelara: each 19.4%),
+- Study procedures criteria (DMB-3115 and Stelara: each 24.1%) and
+- Visit schedule criteria (DMB-3115: 3.7%; Stelara: 3%).
+
+## Period 2
+
+A total of 39 (7.3%) patients (DMB-3115: 22 [8.2%]; Stelara: 10 [7.6%]; Stelara switched to DMB3115: 7 [5.3%]) had critical deviations; 125 (23.5%) patients (DMB-3115: 62 [23.1%]; Stelara: 32 [24.2%]; Stelara switched to DMB-3115: 31 [23.7%]) had major protocol deviations, and 306 (57.6%) patients (DMB-3115: 160 [59.7%]; Stelara: 80 [60.6%]; Stelara switched to DMB-3115: 66 [50.4%]) had minor deviations.
+
+More than 2% of the patients in either of the treatment arms reported the critical protocol deviations related to randomisation criteria (DMB-3115: 6.3%; Stelara: 5.3%; Stelara switched to DMB-3115: 5.3%).
+
+More than 2% of the patients in either of the treatment arms reported the major protocol deviations related to:
+
+<div style=\"page-break-after: always\"></div>
+
+- Concomitant medication criteria (DMB-3115: 2.2%; Stelara: 1.5%; Stelara switched to DMB-3115: 1.5%),
+- IP compliance criteria (DMB-3115: 0.7%; Stelara: 1.5%; Stelara switched to DMB-3115: 3.1%),
+- Laboratory assessment criteria (DMB-3115: 12.7%; Stelara: 15.9%; Stelara switched to DMB-3115: 13.7%) and
+- Study procedures criteria (DMB-3115: 5.2%; Stelara: 5.3%; Stelara switched to DMB-3115: 5.3%).
+
+## Protocol amendments
+
+The original protocol dated 07 December 2020 was amended once. The overall rationale for this amendment (Protocol Amendment 01 [04 June 2021]) was to implement changes following regulatory authorities/ethic committees' recommendations/feedback.
+
+## Changes Prior to Breaking the Blind
+
+· Additional sensitivity analysis was conducted for COVID-19 affected patients for which protocol was not updated.
+
+COVID-19 analysis: As the pandemic started at the time of recruitment and as per regulatory requirement sensitivity analysis e.g., extended window, was planned for COVID-19 patients, if any.
+
+- Definition of Per Protocol set (EMA and US FDA) has been modified to indicate impact on primary efficacy analysis. Additional reasons which may impact primary endpoint were added and the same could be found in SAP.
+- Subgroup analyses of treatment group differences for assessing percent change in PASI were presented for the primary endpoint based on imputed data.
+- The earlier plan to derive ECG parameters (QTcF interval, QTcB interval) was not performed as planned.
+- The treatment exposure analysis was modified to describe that cumulative number of doses for all weeks were calculated.
+- The earlier plan to provide descriptive statistics for binding antibody (bAb) titre were not provided.
+- The supportive analyses for the secondary endpoints in Period 2 was changed from 'ANCOVA with Welch test' to 'ANCOVA with Satterthwaite approximation'.
+
+## Changes Following Study Unblinding
+
+• Audit at one site revealed site non-compliance with GCP principles of source document handling was reported. Following this, it was decided to exclude all the data from the site from the analyses sets. The counts for analyses sets were updated as follows:
+
+Screened Set: 831 patients; ITT and SAF Sets: 598 patients.
+
+· Sensitivity analyses including the data from the site was also performed. The counts for sensitivity analyses sets were as follows: Screened Set: 838 patients; ITT and SAF Sets: 605 patients. A correlation analyses was performed for the ADA magnitude, which supported the use of signal to noise ratio in place of antibody titre.
+
+<div style=\"page-break-after: always\"></div>
+
+## Baseline data
+
+Majority of the patients across DMB-3115 (67.6%) and Stelara (70.9%) arms were males and were of White race (DMB-3115: 98.7%; Stelara: 99.7%). The median (min, max) age of patient across DMB3115 and Stelara arms were 45.0 (19.0, 73.0) years and 46.0 (18.0, 75.0) years, respectively. The median (min, max) BMI of patient across DMB-3115 and Stelara arms were 28.70 (18.4, 52.5) kg/m2 and 28.70 (16.7, 47.5) kg/m2 respectively.
+
+Overall, the mean (SD) duration of plaque type psoriasis was 17.9 (12.28) years and 92.5% of the patients had taken &lt;3 previous systemic therapies for psoriasis. The PGA score of 3 was reported in 475 (79.4%) patients and the PGA score of 4 was reported in 121 (20.2%) patients. The mean (SD) PASI, PGA, and DLQI scores were 21.37 (8.117), 3.199 (0.4079), and 14.1 (7.22), respectively. A total of 543 (90.8%) were from EU, 21 (3.5%) were from US, and 34 (5.7%) patients were from rest of the world. The patient demographics and baseline characteristics were comparable between DMB-3115 and Stelara arms. The similar results were reported in the PPS-EMA and PPS-US FDA.
+
+## Medical History
+
+Medical history conditions are defined as those conditions/diseases that stopped prior to screening or at screening.
+
+The treatment arms were comparable (DMB-3115 [24.1%] and Stelara [27.4%] arms) with respect to medical history. The most common medical history by SOC was for 'surgical and medical procedures' (15.6%) followed by 'infections and infestations' (7.4%), and 'injury', 'poisoning' and 'procedural complications' (7.2%). The most common medical history by PT across both treatment arms was 'appendicectomy' (DMB-3115: 2%; Stelara: 3.7%) followed by 'tonsillectomy' (DMB-3115: 3.3%; Stelara: 2%) and COVID-19 (DMB-3115: 1.7%; Stelara: 2.7%).
+
+## Concomitant Illness
+
+Concomitant conditions/illnesses are defined as any medical conditions/illnesses that started before the screening and were ongoing at screening or ended after screening.
+
+A total of 314 (52.5%) patients had concomitant illness, including 150 (50.2%) patients in the DMB3115 arm and 164 (54.8%) patients in the Stelara arm. The most common concomitant illness by SOC included 'vascular disorders' (26.9%) followed by 'metabolism and nutrition disorders' (19.9%). The most common concomitant illness by PT across both treatment arms was 'hypertension' (DMB-3115: 23.1%; Stelara: 26.4%) followed by 'obesity' (DMB-3115: 7%; Stelara: 7%).
+
+## Prior and Concomitant Medications
+
+Overall, 596 (99.7%) patients (DMB-3115: 299 [100%]; Stelara: 297 [99.3%]) reported the use of prior medications. The most common prior medication, by preferred term, across both treatment arms was Methotrexate (DMB-3115: 54.5%; Stelara: 57.2%) followed by radiotherapy (DMB-3115: 37.1%; Stelara: 36.8%) and Clobetasol propionate (DMB-3115: 29.1%; Stelara: 22.7%).
+
+Overall, 271 (45.3%) patients (DMB-3115: 132 [44.1%]; Stelara: 139 [46.5%]) reported the use of concomitant medications in Period 1. The most common concomitant medication, by ATC level 1/ATC level 2/PT, across both treatment arms in Period 1 was Tozinameran (DMB-3115: 8.4%; Stelara: 11.4%) followed by Paracetamol (DMB-3115: 5%; Stelara: 7%) and Ibuprofen (DMB-3115: 3.3%; Stelara: 2%).
+
+Overall, 291 (54.9%) patients (DMB-3115: 132 [49.4%]; Stelara: 88 [66.7%]; Stelara switched to DMB-3115: 71 [54.2%]) reported the use of concomitant medications in Period 2. The most common concomitant medication, by ATC level 1/ATC level 2/PT, across all treatment arms in Period 2 was
+
+<div style=\"page-break-after: always\"></div>
+
+Metformin hydrochloride (DMB-3115: 6%; Stelara: 6.1%; Stelara switched to DMB-3115: 5.3%) followed by Levothyroxine sodium (DMB-3115: 5.6%; Stelara: 6.1%; Stelara switched to DMB-3115: 3.1%), Ramipril (DMB-3115: 3.7%; Stelara: 5.3%; Stelara switched to DMB-3115: 0.8%), Rosuvastatin calcium (DMB-3115: 2.2%; Stelara: 6.1%; Stelara switched to DMB-3115: 3.1%), and Telmisartan (DMB-3115: 1.9%; Stelara: 4.5%; Stelara switched to DMB-3115: 5.3%).
+
+## Measurements of Treatment Compliance
+
+## Period 1
+
+The overall mean (SD) treatment compliance in DMB-3115 arm was 99.889% (1.9275) and in Stelara arm was 99.777% (2.7214). All 598 (100%) treated patients were treatment compliant at Week 0; 99.5% and 95.3% of the patients were treatment compliant at Weeks 4 and 16, respectively.
+
+## Period 2
+
+The overall mean (SD) treatment compliance was 100% (0) each in DMB-3115, Stelara, and Stelara switched to DMB-3115 arms. All 530 (100%) treated patients were treatment compliant at Week 28 and 97.4% of the patients were treatment compliant at Week 40.
+
+## Numbers analysed
+
+-  Screened set
+- o Consisted of all patients who provided informed consent for this study (N=831)
+-  ITT Set
+- o Period 1: A total of 598 patients were randomised to DMB-3115 (n=299) and Stelara (n=299) arms
+- o Period 2: A total of 531 patients were re-randomised to DMB-3115-DMB-3115 (n=268), Stelara-Stelara (n=132), and Stelara-DMB-3115 (n=131) arms
+-  Safety Set
+- o Period 1: All 598 randomised patients received at least 1 dose of the IP (DMB3115/Stelara)
+- o Period 2: 530 of 531 (99.8%) re-randomised patients received at least 1 dose of the IP
+-  PPS-EMA
+- o A total of 523 (87.5%) patients completed the study up to Week 8 and had no critical/major protocol deviations, which might have a significant impact on primary endpoint analysis
+-  PPS-US FDA
+- o A total of 514 (86%) patients completed the study up to Week 12 and had no critical/major protocol deviations, which might have a significant impact on primary endpoint analysis
+-  Pharmacokinetic Analysis Set
+- o A total of 593 (99.2%) patients received at least 1 dose of IP, had at least 1 measured concentration at a scheduled post-dose PK time point, and had no major protocol deviations/events that might significantly affect the PK assessment.
+
+<div style=\"page-break-after: always\"></div>
+
+## Outcomes and estimation
+
+## Primary analysis
+
+## Percent change in PASI Score from Baseline to Week 8 (for EMA)
+
+The LS mean percent change in PASI score from baseline to Week 8 was 77.50 in DMB-3115 arm and 77.85 in Stelara arm in the PPS. Since 95% CI for LS mean difference was entirely contained within the pre-specified equivalence margin of (-15%, 15%), both treatment arms were considered to be equivalent (LS Mean difference [DMB-3115Stelara]: -0.35; 95% CI: -3.60, 2.90; p=0.8327) (Table 7). The similar results were reported in the ITT set.
+
+Table 7: Percent change in PASI Score from baseline to week 8 (for EMA, PPS)
+
+| Statistic                               | DMB-3115 (N=256)   | Stelara (N=267)   |
+|-----------------------------------------|--------------------|-------------------|
+| n1                                      | 256                | 267               |
+| LS Mean                                 | 77.50              | 77.85             |
+| SE of LS Mean                           | 2.595              | 2.587             |
+| 95% CI                                  | (72.40, 82.60)     | (72.77, 82.93)    |
+| LS Mean Difference (DMB-3115 - Stelara) | -0.35              |                   |
+| SE of LS Mean Difference                | 1.655              |                   |
+| 95% CI for LS Mean Difference           | (-3.60, 2.90)      |                   |
+| p-Value                                 | 0.8327             |                   |
+
+Source: Table 14.2.1.1.2 and Listing 16.2.6.2
+
+N = Total number of patients in the PPS in each treatment group. n = Total number of patients with non-missing values
+
+Abbreviations: ANCOVA = Analysis of Covariance, CI = confidence interval, EMA = European Medicines Agency, EU = European Union, PASI = Psoriasis Area and Severity Index, PPS = Per protocol set, SE = Standard Error; LS = Least square, ROW = Rest of the World, US = United States
+
+Note: p-Value was obtained using ANCOVA model with treatment as fixed effect and adjusted for baseline PASI score and the stratification factors (patient's body weight at baseline [≤100 kg or &gt;100 kg]. geographic region [EU, US, or ROW] and the number of previous systemic therapies for psoriasis [&lt;3 or ≥3]
+
+## Sensitivity Analysis of Primary Efficacy Variables
+
+Percent changes in PASI from baseline to Week 8 and Week 12 for PPS and the ITT (EMA and US FDA) were analysed using a mixed linear model with treatment group, baseline body weight (≤100 kg or &gt;100 kg), geographic region (EU, US, or ROW), the number of previous systemic therapies for psoriasis (&lt;3 or ≥3), visit, and the treatment-by-visit interaction as fixed effects and baseline PASI score as a covariate.
+
+Both treatment arms were considered to be equivalent since 95% CI for LS mean difference for the percent changes in PASI score from baseline to Week 8 for EMA using PPS was entirely contained within the pre-specified equivalence margin of (-15%, 15%) (LS mean difference [DMB-3115 Stelara]: -0.49; 95% CI: -3.76, 2.78). Similar results were observed in ITT Set.
+
+## Sensitivity Analysis of Primary Variables for Subjects Impacted by COVID-19
+
+For subjects impacted by coronavirus disease 2019 (COVID-19), percent changes in PASI for COVID-19 confirmed subjects and subjects identified under COVID-19 impact log up to Week 8 (for EMA) and Week 12 (for US FDA) were analysed for PPS and the ITT with a 95% CI (for EMA) and 90% CI (for US FDA) considering the difference in means using estimates from an ANCOVA model adjusted for baseline PASI score and the stratification factors (subject's body weight at baseline [≤100 kg or &gt;100 kg],
+
+<div style=\"page-break-after: always\"></div>
+
+geographic region [EU, US, or ROW] and the number of previous systemic therapies for psoriasis [&lt;3 or ≥3]).
+
+There was no statistically significant difference in the percent changes in PASI score from baseline to Week 12 for US FDA in subjects impacted by COVID-19 between DMB-3115 and Stelara arms in the ITT Set (LS mean difference [DMB-3115 - Stelara]: -5.23; 90% CI: -51.43, 40.98; p=0.8520). The LS mean percent changes in PASI from baseline to Week 8 for EMA in the PPS, ITT Set and from baseline to Week 12 for US FDA in the PPS were not evaluable in COVID-19 impacted subjects.
+
+For subjects, excluding subjects impacted by COVID-19, there were no statistically significant differences in the percent changes in the PASI scores from baseline to Week 8 and Week 12 between DMB-3115 and Stelara arms in PPS and ITT Sets.
+
+## Subgroup Analysis of Primary Efficacy Variable
+
+Percent changes in PASI from baseline to Week 8 and Week 12 for PPS and the ITT (EMA and US FDA) were analysed in the following subgroups: 1) baseline body weight (≤100 kg or &gt;100 kg), 2) geographic region (EU, US, or ROW), and 3) number of previous systemic therapies for psoriasis (&lt;3 or ≥3).
+
+There were no statistically significant differences in percent changes in the PASI scores from baseline to Week 8 for all the subgroups for EMA in the PPS. Similar results were seen for EMA in the ITT.
+
+## Secondary analysis
+
+## Percentage of Patients with PASI 50 (a 50% Reduction in PASI Score) Response at Weeks 4, 8, 12, 16, 28, 40, and 52
+
+## Period 1
+
+There was an increase in the percentage of patients with PASI 50 response from Week 4 to Weeks 8, 12, 16, and 28 in DMB-3115 and Stelara arms. However, no statistically significant difference in the percentage of patients with PASI 50 response was reported between DMB-3115 and Stelara arms at Weeks 4, 8, 12, 16, and 28.
+
+## Period 2
+
+More than 99% of the patients in DMB-3115, Stelara, and Stelara switched to DMB-3115 arms had PASI 50 at Week 40 and End of Study.
+
+The DMB-3115 arm had 2.02 times the odds of 50% reduction in PASI score compared with Stelara arm at Week 40, which was not statistically significant as the 95% CI included 1 for EMA. The DMB3115 arm had 1.15 times the odds of 50% reduction in PASI score compared with Stelara arm at the End of Study visit, which was not statistically significant as the 95% CI included 1 for EMA.
+
+The Stelara switched to DMB-3115 arm had 0.91 times the odds of 50% reduction in PASI score compared with Stelara arm at the End of Study visit, which was not statistically significant as the 95% CI included 1 for EMA. The odds ratio was not estimable for Stelara switched to DMB-3115 versus Stelara arms comparison at Week 40. Similar results were observed with 90% CI in the US FDA ITT set.
+
+## Percentage of Patients with PASI 75 (a 75% Reduction in PASI Score) Response at Weeks 4, 8, 12, 16, 28, 40, and 52
+
+## Period 1
+
+There was an increase in the percentage of patients with PASI 75 response from Week 4 to Weeks 8, 12, 16, and 28 in the DMB-3115 and Stelara arms. However, no statistically significant difference in
+
+<div style=\"page-break-after: always\"></div>
+
+the percentage of patients with PASI 75 response was reported between DMB-3115 and Stelara arms at Weeks 4, 8, 12, 16, and 28.
+
+## Period 2
+
+More than 95% of the patients in DMB-3115, Stelara, and Stelara switched to DMB-3115 arms had PASI 75 at Week 40 and End of Study. The DMB-3115 arm had 1.04 times the odds of 75% reduction in PASI score compared with Stelara arm at Week 40, which was not statistically significant as the 95% CI included 1 for EMA. The DMB-3115 arm had 0.92 times the odds of 75% reduction in PASI score compared with Stelara arm at the End of Study visit, which was not statistically significant as the 95% CI included 1 for EMA.
+
+The Stelara switched to DMB-3115 arm had 0.69 times the odds of 75% reduction in PASI score compared with Stelara arm at Week 40, which was not statistically significant as the 95% CI included 1 for EMA. The Stelara switched to DMB-3115 arm had 1.01 times the odds of 75% reduction in PASI score compared with Stelara arm at the End of Study visit, which was not statistically significant as the 95% CI included 1 for EMA.
+
+Similar results were observed with 90% CI in the US FDA ITT set.
+
+## Percentage of Patients with PASI 90 (a 90% Reduction in PASI Score) Response at Weeks 4, 8, 12, 16, 28, 40, and 52
+
+## Period 1
+
+There was an increase in the percentage of patients with PASI 90 response from Week 4 to Weeks 8, 12, 16, and 28 in DMB-3115 and Stelara arms. However, no statistically significant difference in the percentage of patients with PASI 90 response was reported between DMB-3115 and Stelara arms at Weeks 4, 8, 12, 16, and 28.
+
+## Period 2
+
+More than 75% of the patients in DMB-3115, Stelara, and Stelara switched to DMB-3115 arms had PASI 90 at Week 40 and End of Study. During Period 2, the percentage of patients with PASI 90 response was numerically lower in the DMB-3115 arm compared to Stelara and Stelara switched to DMB-3115 arms at Week 40 (DMB-3115: 199 [77.4%], Stelara: 107 [81.7%], Stelara switched to DMB-3115: 103 [82.4%]). However, the percentage of patients with PASI 90 response were similar between the treatment arms at the End of Study visit (DMB-3115: 204 [79.7%], Stelara: 103 [79.8%], Stelara switched to DMB-3115: 97 [79.5%]).
+
+The DMB-3115 arm had 0.81 times the odds of 90% reduction in PASI score compared with Stelara arm at Week 40, which was not statistically significant as the 95% CI included 1 for EMA. The DMB3115 arm had 1.05 times the odds of 90% reduction in PASI score compared with Stelara arm at the End of Study visit, which was not statistically significant as the 95% CI included 1 for EMA.
+
+The Stelara switched to DMB-3115 arm had 1.13 times the odds of 90% reduction in PASI score compared with Stelara arm at Week 40, which was not statistically significant as the 95% CI included 1 for EMA. The Stelara switched to DMB-3115 arm had 1.02 times the odds of 90% reduction in PASI score compared with Stelara arm at the End of Study visit, which was not statistically significant as the 95% CI included 1 for EMA. Similar results were observed with 90% CI in the US FDA ITT set.
+
+<div style=\"page-break-after: always\"></div>
+
+## Percentage of Patients with PASI 100 (a 100% Reduction in PASI Score) Response at Weeks 4, 8, 12, 16, 28, 40, and 52
+
+## Period 1
+
+There was an increase in the percentage of patients with PASI 100 response from Week 4 to Weeks 8, 12, 16, and 28 in DMB-3115 and Stelara arms. However, no statistically significant difference in the percentage of patients with PASI 100 response was reported between DMB-3115 and Stelara arms at Weeks 4, 8, 12, 16, and 28.
+
+## Period 2
+
+More than 40% of the patients in DMB-3115, Stelara, and Stelara switched to DMB-3115 arms had PASI 100 at End of Study. The patients in the Stelara switched to DMB-3115 arm had numerically higher percentage of patients with PASI 100 response at Week 40 (DMB-3115: 95 [37%]; Stelara: 48 [36.6%]; and Stelara switched to DMB-3115: 52 [41.6%]). The percentage of patients with PASI 100 response increased from Week 40 to End of Study visit in the DMB-3115, Stelara, and the Stelara switched to DMB-3115 arms (DMB-3115: 116 [45.3%]; Stelara: 55 [42.6%]; and Stelara switched to DMB-3115: 52 [42.6%]).
+
+The odds of 100% reduction in PASI score was similar between the DMB-3115 arm and the Stelara arm at Week 40 for EMA. The DMB-3115 arm had 1.11 times the odds of 100% reduction in PASI score compared with Stelara arm at the End of Study visit, which was not statistically significant as the 95% CI included 1 for EMA.
+
+The Stelara switched to DMB-3115 arm had 1.22 times the odds of 100% reduction in PASI score compared with the Stelara arm at Week 40, which was not statistically significant as the 95% CI included 1 for EMA. The Stelara switched to DMB-3115 arm had 0.99 times the odds of 100% reduction in PASI score compared with Stelara arm at the End of Study visit, which was not statistically significant as the 95% CI included 1. Similar results were observed with 90% CI in the US FDA set.
+
+## Percentage Change in AUEC for PASI Score from Baseline at Weeks 4, 8, 12, 16, 28, 40, and 52
+
+## Period 1
+
+There was an increase in LS mean percentage change in AUEC for PASI score from Week 4 to Weeks 8, 12, 16, and 28 in DMB-3115 and Stelara arms. However, no statistically significant difference in the percentage change in AUEC for PASI score was reported between DMB-3115 and Stelara arms at Weeks 4, 8, 12, 16, and 28.
+
+## Period 2
+
+There was no statistical significant difference in LS mean percentage change in AUEC for PASI score from baseline to Week 40 and End of Study between DMB-3115 and Stelara arms (LS Mean Difference [DMB-3115 -Stelara] (95% CI): 7.31 [-60.05,74.66] at Week 40 and 10.33 [-70.89,91.55] at End of Study) and between Stelara switched to DMB-3115 and Stelara arms (LS Mean Difference [Stelara switched to DMB-3115 - Stelara] (95% CI): 23.72 [-54.73,102.18] at Week 40 and 30.16 [-64.85,125.16] at End of Study). The LS mean percentage change in AUEC for PASI score from baseline to Week 40 and End of Study were comparable between the treatment arms. The similar results were reported with 90% CI for US FDA ITT population.
+
+<div style=\"page-break-after: always\"></div>
+
+## Percent Change in PASI Score from Baseline at Weeks 4, 8, 12, 16, 28, 40, and 52 Period 1
+
+There was an increase in LS mean percent change in PASI score from Week 4 to up to Week 12 and then a plateau at Week 16 with a subsequent increase at Week 28, in DMB-3115 and Stelara arms. However, no statistically significant difference in the percent change in PASI score was reported between DMB-3115 and Stelara arms at Weeks 4, 8, 12, 16, and 28.
+
+## Period 2
+
+There was no statistical significant difference in LS mean percentage change in PASI score from baseline to Week 40 and End of Study between DMB-3115 and Stelara arms (LS Mean Difference [DMB-3115 -Stelara] (95% CI): -0.23 [-1.99,1.52] at Week 40 and -0.33 [-2.41,1.76] at End of Study) and between Stelara switched to DMB-3115 and Stelara arms (LS Mean Difference [Stelara switched to DMB-3115 -Stelara] (95% CI): 0.07 [-1.98,2.11] at Week 40 and -0.45 [-2.89,1.99] at End of Study). The LS mean percentage change in PASI score from baseline to Week 40 and End of Study was comparable between the treatment arms. The similar results were reported with 90% CI for US FDA ITT population.
+
+## Supportive Analysis to Percent Change in PASI Score from Baseline at Weeks 40, and 52
+
+There was no statistically significant difference in LS mean percentage change in PASI score from baseline to Week 40 and End of Study between DMB-3115 and Stelara arms (LS Mean Difference [DMB-3115 -Stelara] (95% CI): -0.23 [-1.99,1.52] (p-value=0.7963) at Week 40 and -0.33 [-2.41,1.76] (p-value=0.7592) at End of Study) and between Stelara switched to DMB-3115 and Stelara arms (LS Mean Difference [Stelara switched to DMB-3115 -Stelara] (95% CI): 0.07 [-1.98,2.11] (p-value= 0.9470) at Week 40 and -0.45 [-2.89,1.99] (p-value=0.7169) at End of Study). The LS mean percentage change in PASI score from baseline to Week 40 and End of Study was comparable between the treatment arms. The similar results were reported with 90% CI for US FDA ITT population.
+
+## Percentage of Patients with PGA Score of Cleared or Minimal at Weeks 4, 8, 12, 16, 28, 40, and 52
+
+## Period 1
+
+There was an increase in the percentage of patients with PGA score of clear or minimal psoriasis (based on the degree of erythema, thickness, and scale averaged over the entire body) from Week 4 to Weeks 8, 12, 16, and 28 in DMB-3115 and Stelara arms. The increase in the proportion of patients was similar in both the arms at the specified timepoints and there were no statistically significant difference in the percentage of patients with PGA score of clear or minimal psoriasis was reported between DMB3115 and Stelara arms at Weeks 4, 8, 12, 16, and 28.
+
+## Period 2
+
+More than 85% of the patients in DMB-3115, Stelara, and Stelara switched to DMB-3115 arms had PGA score of clear or minimal psoriasis at Week 40 and End of Study. The percentage of patients with PGA score of clear or minimal psoriasis was numerically higher in the DMB-3115 arm compared to the other treatment arms at Week 40 (DMB-3115: 243 [94.2%]; Stelara: 117 [89.3%]; and Stelara switched to DMB-3115: 109 [87.2%]) and was comparable at the End of Study visit (DMB-3115: 228 [88.7%]; Stelara: 111 [86.0%]; and Stelara switched to DMB-3115: 106 [86.9%]).
+
+The odds of proportion of patients with PGA score of clear or minimal psoriasis was 2.05 times and 1.31 times in the DMB-3115 arm compared to the Stelara arm at Week 40 and End of Study, however, these were not statistically significant as the 95% CI included 1. The odds of proportion of patients
+
+<div style=\"page-break-after: always\"></div>
+
+with PGA score of clear or minimal psoriasis was 0.81 times and 1.09 times in the Stelara switched to DMB-3115 arm compared with Stelara arm at Week 40 and End of Study, however, these were not statistically significant as the 95% CI included 1 for EMA.
+
+Similar results were observed with 90% CI in the US FDA ITT set.
+
+## Change from Baseline in DLQI at Weeks 4, 8, 12, 16, 28, 40, and 52
+
+For the DLQI questionnaire, patients were asked to recall their experiences during the previous week by responding to 10 questions regarding how much the skin condition had affected their life during the previous week.
+
+## Period 1
+
+There was a LS mean reduction in DLQI score from Week 4 to Weeks 8, 12, 16, and 28 in DMB-3115 and Stelara arms and there was no statistically significant difference in DLQI scores was reported between DMB-3115 and Stelara arms at Weeks 4, 8, 12, 16, and 28.
+
+## Period 2
+
+There was a significant LS mean reduction in DLQI score from baseline to Week 40 and End of Study in all the arms (DMB-3115: -11.75 [95% CI: -12.93,-10.56]; Stelara: -11.17 [95% CI: -12.46, -9.87]; and Stelara switched to DMB-3115: -11.22 [-12.50,-9.93]). There was no statistical significant difference in LS mean reduction in DLQI score from baseline to Week 40 and End of Study between DMB-3115 and Stelara arms (LS Mean Difference [DMB-3115-Stelara] (95% CI): -0.58 [-1.45,0.29] at Week 40 and -0.43 [-1.23,0.37] at End of Study) and between Stelara switched to DMB-3115 and Stelara arms (LS Mean Difference [Stelara switched to DMB-3115-Stelara] (95% CI): -0.05 [-1.05,0.95] at Week 40 and -0.11 [-1.04,0.81] at End of Study). The LS mean reduction in DLQI score from baseline to Week 40 and End of study were comparable between the treatment arms. The similar results were reported for US FDA ITT population.
+
+## Summary of main efficacy results
+
+The following tables summarise the efficacy results from the main study supporting the present application. These summaries should be read in conjunction with the discussion on clinical efficacy as well as the biosimilarity assessment (see later sections).
+
+<div style=\"page-break-after: always\"></div>
+
+Table 8: Summary of efficacy for trial DMB-3115-2
+
+| Title: A Randomised, Double-Blind, Multicentric, Parallel Group Therapeutic Equivalence Study Comparing Efficacy, Safety and Immunogenicity of Subcutaneous DMB-3115 and EU Sourced Stelara in Patients with Moderate to Severe Chronic Plaque Psoriasis.   | Title: A Randomised, Double-Blind, Multicentric, Parallel Group Therapeutic Equivalence Study Comparing Efficacy, Safety and Immunogenicity of Subcutaneous DMB-3115 and EU Sourced Stelara in Patients with Moderate to Severe Chronic Plaque Psoriasis.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Title: A Randomised, Double-Blind, Multicentric, Parallel Group Therapeutic Equivalence Study Comparing Efficacy, Safety and Immunogenicity of Subcutaneous DMB-3115 and EU Sourced Stelara in Patients with Moderate to Severe Chronic Plaque Psoriasis.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Study identifier                                                                                                                                                                                                                                            | Protocol Number: DMB-3115-2 IND Number: 141843 EudraCT number: 2020-005108-21                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | Protocol Number: DMB-3115-2 IND Number: 141843 EudraCT number: 2020-005108-21                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Design                                                                                                                                                                                                                                                      | This was a Phase 3, randomised, double-blind, multicentric, parallel group, and active controlled study comparing efficacy, safety, and immunogenicity of SC administration of DMB-3115 and EU sourced Stelara in patients with moderate to severe chronic plaque psoriasis. After a screening period of up to 4 weeks, the eligible patients were randomly assigned in a 1:1 ratio to receive treatment with either DMB-3115 or Stelara. Randomisation was stratified according to patient's body weight at baseline (≤100 kg or >100 kg), geographic region (EU, US, or Rest of the World [ROW]) and the number of previous systemic therapies for psoriasis (<3 or ≥3). The study included 2 periods. Period 1: In the Period 1 (from Week 0 to Week 28), patients received the assigned treatment (either DMB-3115 or Stelara) at Weeks 0, 4, and 16. Patients who did not achieve at least PASI 50 response by Week 12 were discontinued from further treatment with ustekinumab (either DMB-3115 or Stelara). Period 2: Only those patients who achieved at least PASI 75 response at Week 28 were eligible for inclusion into the Period 2 (from Week 28 to Week 52) of the study. In the Period 2, patients randomised to receive DMB-3115 at the beginning of the study continued to receive the same treatment up to Week 40 while patients randomised to receive Stelara at the beginning of the study were re- randomized and re-stratified based on the body weight at Week 28 (≤100 kg or >100 kg) in a 1:1 ratio to either continue on Stelara or be transitioned to receive DMB-3115 every 12 weeks up to Week 40 (i.e., 2 doses of investigational product [IP] after re-randomisation). The doses at re-randomisation (Week 28) for both DMB-3115 and Stelara were re-assigned based on the body weight at Week 28 (≤100 kg or >100 kg). Patients | This was a Phase 3, randomised, double-blind, multicentric, parallel group, and active controlled study comparing efficacy, safety, and immunogenicity of SC administration of DMB-3115 and EU sourced Stelara in patients with moderate to severe chronic plaque psoriasis. After a screening period of up to 4 weeks, the eligible patients were randomly assigned in a 1:1 ratio to receive treatment with either DMB-3115 or Stelara. Randomisation was stratified according to patient's body weight at baseline (≤100 kg or >100 kg), geographic region (EU, US, or Rest of the World [ROW]) and the number of previous systemic therapies for psoriasis (<3 or ≥3). The study included 2 periods. Period 1: In the Period 1 (from Week 0 to Week 28), patients received the assigned treatment (either DMB-3115 or Stelara) at Weeks 0, 4, and 16. Patients who did not achieve at least PASI 50 response by Week 12 were discontinued from further treatment with ustekinumab (either DMB-3115 or Stelara). Period 2: Only those patients who achieved at least PASI 75 response at Week 28 were eligible for inclusion into the Period 2 (from Week 28 to Week 52) of the study. In the Period 2, patients randomised to receive DMB-3115 at the beginning of the study continued to receive the same treatment up to Week 40 while patients randomised to receive Stelara at the beginning of the study were re- randomized and re-stratified based on the body weight at Week 28 (≤100 kg or >100 kg) in a 1:1 ratio to either continue on Stelara or be transitioned to receive DMB-3115 every 12 weeks up to Week 40 (i.e., 2 doses of investigational product [IP] after re-randomisation). The doses at re-randomisation (Week 28) for both DMB-3115 and Stelara were re-assigned based on the body weight at Week 28 (≤100 kg or >100 kg). Patients |
+|                                                                                                                                                                                                                                                             | Duration of main phase: Duration of Run-in phase: Duration of Extension phase:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | The total duration of patient participation in the study was up to 56 weeks, which consist of Screening (up to 4 weeks), Period 1 (from Week 0 to Week 28) and Period 2 (from Week 28 to Week 52). not applicable not applicable                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Hypothesis                                                                                                                                                                                                                                                  | Equivalence                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Equivalence                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Treatments groups for Period 1 (from Week 0 to Week 28)                                                                                                                                                                                                     | DMB-3115                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | DMB-3115 45 mg or 90 mg SC at Weeks 0, 4, and 16. Number randomised was 299 patients.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                                          | Stelara                      | Stelara                                  | Stelara 45 mg or 90 mg SC at Weeks 0, 4, and 16. Number randomised was 299 patients.                                                                                                                     |
+|----------------------------------------------------------|------------------------------|------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Treatments groups for Period 2 (from Week 28 to Week 52) | DMB-3115                     | DMB-3115                                 | Patients who originally received DMB-3115 in Period 1 were re-randomised to continue to receive DMB-3115 45 mg or 90 mg SC at Weeks 28, and 40. Number re-randomised in Period 2 was 268 patients.       |
+| Treatments groups for Period 2 (from Week 28 to Week 52) | Stelara                      | Stelara                                  | Patients who originally received Stelara in Period 1 were re-randomised to continue on Stelara 45 mg or 90 mg SC at Weeks 28, and 40. Number re-randomised in Period 2 was 132 patients.                 |
+| Treatments groups for Period 2 (from Week 28 to Week 52) | Stelara switched to DMB-3115 | Stelara switched to DMB-3115             | Patients who originally received Stelara in Period 1 were re-randomised to be transitioned to receive DMB-3115 45 mg or 90 mg SC at Weeks 28, and 40. Number re-randomised in Period 2 was 131 patients. |
+| Endpoints and definitions                                | Primary endpoint             | Percent change PASI week 8 (for EMA)     | Percent change in the Psoriasis Area and Severity Index (PASI) score from baseline to Week 8 (For EMA)                                                                                                   |
+| Endpoints and definitions                                | Primary endpoint             | Percent change PASI week 12 (for US FDA) | Percent change in the PASI score from baseline to Week 12 (For US FDA)                                                                                                                                   |
+| Endpoints and definitions                                | Secondary endpoint           | PASI 50                                  | Percentage of patients with a PASI 50 (a 50% reduction in the PASI score) response                                                                                                                       |
+| Endpoints and definitions                                | Secondary endpoint           | PASI 75                                  | Percentage of patients with a PASI 75 (a 75% reduction in the PASI score) response                                                                                                                       |
+| Endpoints and definitions                                | Secondary endpoint           | PASI 90                                  | Percentage of patients with a PASI 90 (a 90% reduction in the PASI score) response                                                                                                                       |
+| Endpoints and definitions                                | Secondary endpoint           | PASI 100                                 | Percentage of patients with a PASI 100 (a 100% reduction in the PASI score) response                                                                                                                     |
+| Endpoints and definitions                                | Secondary endpoint           | Percentage change PASI AUEC              | Percentage change in Area under the effect curve (AUEC) for the PASI score from baseline                                                                                                                 |
+| Endpoints and definitions                                | Secondary endpoint           | PGA                                      | Percentage of patients with a Physician's Global Assessment (PGA) score of Cleared or Minimal                                                                                                            |
+| Endpoints and definitions                                | Secondary endpoint           | Change DLQI                              | Change from baseline in Dermatology Life Quality Index (DLQI)                                                                                                                                            |
+| Database lock                                            | 23 December 2022             | 23 December 2022                         | 23 December 2022                                                                                                                                                                                         |
+
+<div style=\"page-break-after: always\"></div>
+
+| Results and Analysis                            |                                                                                                                                                                                           |                                                                                                                                                                                           |                                                                                                                                                                                           |
+|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Analysis population and time point description  | Primary Analysis Analysis population The Per protocol set (PPS) was the primary efficacy analysis population for EMA and the ITT was the primary efficacy analysis population for US FDA. | Primary Analysis Analysis population The Per protocol set (PPS) was the primary efficacy analysis population for EMA and the ITT was the primary efficacy analysis population for US FDA. | Primary Analysis Analysis population The Per protocol set (PPS) was the primary efficacy analysis population for EMA and the ITT was the primary efficacy analysis population for US FDA. |
+| Descriptive statistics and estimate variability | Treatment group                                                                                                                                                                           | DMB-3115                                                                                                                                                                                  | Stelara                                                                                                                                                                                   |
+| Descriptive statistics and estimate variability | Number of subjects                                                                                                                                                                        | 256                                                                                                                                                                                       | 267                                                                                                                                                                                       |
+| Descriptive statistics and estimate variability | Percent change PASI week 8 (for EMA) LS Mean (SE)                                                                                                                                         | 77.50 (2.595)                                                                                                                                                                             | 77.85 (2.587)                                                                                                                                                                             |
+| Descriptive statistics and estimate variability | 95% CI                                                                                                                                                                                    | 72.40, 82.60                                                                                                                                                                              | 72.77, 82.93                                                                                                                                                                              |
+| Descriptive statistics and estimate variability | Number of subjects                                                                                                                                                                        | 299                                                                                                                                                                                       | 299                                                                                                                                                                                       |
+| Descriptive statistics and estimate variability | Percent change PASI week 12 (for US FDA) LS Mean (SE)                                                                                                                                     | 87.59 (1.886)                                                                                                                                                                             | 87.89 (1.884)                                                                                                                                                                             |
+| Descriptive statistics and estimate variability | 90% CI                                                                                                                                                                                    | 84.48, 90.69                                                                                                                                                                              | 84.79, 90.99                                                                                                                                                                              |
+| Effect estimate per comparison                  | Percent change PASI week 8 (for EMA)                                                                                                                                                      | Comparison groups                                                                                                                                                                         | DMB-3115 vs Stelara                                                                                                                                                                       |
+| Effect estimate per comparison                  | Percent change PASI week 8 (for EMA)                                                                                                                                                      | LS Mean Difference (SE)                                                                                                                                                                   | -0.35 (1.655)                                                                                                                                                                             |
+| Effect estimate per comparison                  | Percent change PASI week 8 (for EMA)                                                                                                                                                      | 95% CI for LS Mean Difference                                                                                                                                                             | -3.60, 2.90                                                                                                                                                                               |
+| Effect estimate per comparison                  | Percent change PASI week 8 (for EMA)                                                                                                                                                      | P-value                                                                                                                                                                                   | 0.8327                                                                                                                                                                                    |
+| Effect estimate per comparison                  | Percent change PASI week 12 (for US FDA)                                                                                                                                                  | Comparison groups                                                                                                                                                                         | DMB-3115 vs Stelara                                                                                                                                                                       |
+| Effect estimate per comparison                  | Percent change PASI week 12 (for US FDA)                                                                                                                                                  | LS Mean Difference (SE)                                                                                                                                                                   | -0.30 (1.255)                                                                                                                                                                             |
+| Effect estimate per comparison                  | Percent change PASI week 12 (for US FDA)                                                                                                                                                  | 90% CI for LS Mean Difference                                                                                                                                                             | -2.37, 1.76                                                                                                                                                                               |
+| Effect estimate per comparison                  | Percent change PASI week 12 (for US FDA)                                                                                                                                                  | P-value                                                                                                                                                                                   | 0.8098                                                                                                                                                                                    |
+
+<div style=\"page-break-after: always\"></div>
+
+| Notes                                           | With regard to the primary endpoint for EMA (week 8), DMB-3115 is considered to be equivalent with Stelara since 95% CI for LS mean difference was entirely contained within the pre-specified equivalence margin of (-15%, 15%). With regard to the primary endpoint for US FDA (week 12), DMB-3115 is considered to be equivalent with Stelara since 90% CI for LS mean difference was entirely contained within the pre-specified equivalence margin of (-10%, 10%).   | With regard to the primary endpoint for EMA (week 8), DMB-3115 is considered to be equivalent with Stelara since 95% CI for LS mean difference was entirely contained within the pre-specified equivalence margin of (-15%, 15%). With regard to the primary endpoint for US FDA (week 12), DMB-3115 is considered to be equivalent with Stelara since 90% CI for LS mean difference was entirely contained within the pre-specified equivalence margin of (-10%, 10%).   | With regard to the primary endpoint for EMA (week 8), DMB-3115 is considered to be equivalent with Stelara since 95% CI for LS mean difference was entirely contained within the pre-specified equivalence margin of (-15%, 15%). With regard to the primary endpoint for US FDA (week 12), DMB-3115 is considered to be equivalent with Stelara since 90% CI for LS mean difference was entirely contained within the pre-specified equivalence margin of (-10%, 10%).   |
+|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Analysis description                            | Secondary analyses                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Secondary analyses                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Secondary analyses                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Analysis population and time point description  | Analysis population Intent to treat consisting of all randomised patients time point Weeks 8 and 12                                                                                                                                                                                                                                                                                                                                                                       | Analysis population Intent to treat consisting of all randomised patients time point Weeks 8 and 12                                                                                                                                                                                                                                                                                                                                                                       | Analysis population Intent to treat consisting of all randomised patients time point Weeks 8 and 12                                                                                                                                                                                                                                                                                                                                                                       |
+| Descriptive statistics and estimate variability | Treatment group                                                                                                                                                                                                                                                                                                                                                                                                                                                           | DMB-3115                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Stelara                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Descriptive statistics and estimate variability | Number of subjects                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 299                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | 299                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Descriptive statistics and estimate variability | PASI 50 week 8 (n (%))                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 255 (87.6)                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 268 (90.8)                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Descriptive statistics and estimate variability | 95% CI                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 84.846, 91.412                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 87.557, 94.138                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Descriptive statistics and estimate variability | PASI 50 week 12 (n (%))                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 286 (98.6)                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 288 (98.6)                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Descriptive statistics and estimate variability | 90% CI                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 97.494, 99.747                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 97.511, 99.749                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Descriptive statistics and estimate variability | PASI 75 week 8 (n (%))                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 155 (53.3)                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 170 (57.6)                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Descriptive statistics and estimate variability | 95% CI                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 47.532, 58.997                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 51.988, 63.266                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Descriptive statistics and estimate variability | PASI 75 week 12 (n (%))                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 228 (78.6)                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 239 (81.8)                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Descriptive statistics and estimate variability | 90% CI                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 74.661, 82.581                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 78.139, 85.559                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Descriptive statistics and estimate variability | PASI 90 week 8 (n (%))                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 69 (23.7)                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 62 (21.0)                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Descriptive statistics and estimate variability | 95% CI                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 18.825, 28.598                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 16.368, 25.666                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Descriptive statistics and estimate variability | PASI 90 week 12 (n (%))                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 144 (49.7)                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 144 (49.3)                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Descriptive statistics and estimate variability | 90% CI                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 44.826, 54.485                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 44.503, 54.128                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Descriptive statistics and estimate variability | PASI 100 week 8 (n (%))                                                                                                                                                                                                                                                                                                                                                                                                                                                   | 20 (6.9)                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 12 (4.1)                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Descriptive statistics and estimate variability | 95% CI                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 3.966, 9.780                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 1.814, 6.322                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Descriptive statistics and estimate variability | PASI 100 week 12 (n (%))                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 41 (14.1)                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 37 (12.7)                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Descriptive statistics and estimate variability | 90% CI                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 10.773, 17.503                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 9.469, 15.873                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Descriptive statistics and estimate variability | Percentage change PASI AUEC week 8 (LS Mean (SE))                                                                                                                                                                                                                                                                                                                                                                                                                         | 356.81 (15.193)                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 350.27 (15.114)                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Descriptive statistics and estimate variability | 95% CI                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 326.97, 386.65                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 320.59, 379.96                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                | Percentage change PASI AUEC week 12 (LS Mean (SE))   | 686.93 (22.087)   | 684.68 (22.086)     |
+|--------------------------------|------------------------------------------------------|-------------------|---------------------|
+|                                | 90% CI                                               | 650.54, 723.31    | 648.29, 721.07      |
+|                                | PGA week 8 (n (%))                                   | 180 (61.2)        | 186 (62.8)          |
+|                                | 95% CI                                               | 55.655, 66.794    | 57.333, 68.343      |
+|                                | PGA week 12 (n (%))                                  | 245 (84.2)        | 234 (80.1)          |
+|                                | 90% CI                                               | 80.675, 87.710    | 76.297, 83.977      |
+|                                | Change DLQI week 8 (LS Mean (SE))                    | -9.21 (0.621)     | -9.28 (0.618)       |
+|                                | 95% CI                                               | -10.43, -7.99     | -10.49, -8.07       |
+|                                | Change DLQI week 12 (LS Mean (SE))                   | -10.21 (0.626)    | -10.36 (0.619)      |
+|                                | 90% CI                                               | -11.24, -9.17     | -11.38, -9.34       |
+| Effect estimate per comparison | PASI 50 week 8                                       | Comparison groups | DMB-3115 vs Stelara |
+| Effect estimate per comparison | PASI 50 week 8                                       | Odds Ratio        | 0.73                |
+| Effect estimate per comparison | PASI 50 week 8                                       | 95% CI            | 0.432, 1.223        |
+| Effect estimate per comparison | PASI 50 week 8                                       | P-Value           | 0.2291              |
+| Effect estimate per comparison | PASI 50 week 12                                      | Odds Ratio        | 1.02                |
+| Effect estimate per comparison | PASI 50 week 12                                      | 90% CI            | 0.380, 2.736        |
+| Effect estimate per comparison | PASI 50 week 12                                      | P-Value           | 0.9742              |
+| Effect estimate per comparison | PASI 75 week 8                                       | Odds Ratio        | 0.84                |
+| Effect estimate per comparison | PASI 75 week 8                                       | 95% CI            | 0.606, 1.168        |
+| Effect estimate per comparison | PASI 75 week 8                                       | P-Value           | 0.3032              |
+| Effect estimate per comparison | PASI 75 week 12                                      | Odds Ratio        | 0.83                |
+| Effect estimate per comparison | PASI 75 week 12                                      | 90% CI            | 0.589, 1.169        |
+| Effect estimate per comparison | PASI 75 week 12                                      | P-Value           | 0.3707              |
+| Effect estimate per comparison | PASI 90 week 8                                       | Odds Ratio        | 1.18                |
+| Effect estimate per comparison | PASI 90 week 8                                       | 95% CI            | 0.797, 1.745        |
+| Effect estimate per comparison | PASI 90 week 8                                       | P-Value           | 0.4084              |
+| Effect estimate per comparison | PASI 90 week 12                                      | Odds Ratio        | 1.02                |
+| Effect estimate per comparison | PASI 90 week 12                                      | 90% CI            | 0.778, 1.349        |
+
+<div style=\"page-break-after: always\"></div>
+
+|       |                                                                                                                                          | P-Value                                                                                                                                  | 0.8834                                                                                                                                   |
+|-------|------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
+|       | PASI 100 week 8                                                                                                                          | Odds Ratio                                                                                                                               | 1.72                                                                                                                                     |
+|       |                                                                                                                                          | 95% CI                                                                                                                                   | 0.847, 3.500                                                                                                                             |
+|       |                                                                                                                                          | P-Value                                                                                                                                  | 0.1335                                                                                                                                   |
+|       | PASI 100 week 12                                                                                                                         | Odds Ratio                                                                                                                               | 1.13                                                                                                                                     |
+|       |                                                                                                                                          | 90% CI                                                                                                                                   | 0.759, 1.680                                                                                                                             |
+|       |                                                                                                                                          | P-Value                                                                                                                                  | 0.6147                                                                                                                                   |
+|       | Percentage change PASI AUEC week 8                                                                                                       | LS Mean Difference (SE)                                                                                                                  | 6.54 (9.904)                                                                                                                             |
+|       |                                                                                                                                          | 95% CI for LS Mean Difference                                                                                                            | -12.92, 25.99                                                                                                                            |
+|       |                                                                                                                                          | P-Value                                                                                                                                  | 0.5095                                                                                                                                   |
+|       | Percentage change PASI AUEC week 12                                                                                                      | LS Mean Difference (SE)                                                                                                                  | 2.24 (14.326)                                                                                                                            |
+|       |                                                                                                                                          | 90% CI for LS Mean Difference                                                                                                            | -21.36, 25.84                                                                                                                            |
+|       |                                                                                                                                          | P-Value                                                                                                                                  | 0.8756                                                                                                                                   |
+|       | PGA week 8                                                                                                                               | Odds Ratio                                                                                                                               | 0.93                                                                                                                                     |
+|       |                                                                                                                                          | 95% CI                                                                                                                                   | 0.665, 1.301                                                                                                                             |
+|       |                                                                                                                                          | P-Value                                                                                                                                  | 0.6714                                                                                                                                   |
+|       | PGA week 12                                                                                                                              | Odds Ratio                                                                                                                               | 1.34                                                                                                                                     |
+|       |                                                                                                                                          | 90% CI                                                                                                                                   | 0.932, 1.917                                                                                                                             |
+|       |                                                                                                                                          | P-Value                                                                                                                                  | 0.1851                                                                                                                                   |
+|       | Change DLQI week 8                                                                                                                       | LS Mean Difference (SE)                                                                                                                  | 0.07 (0.375)                                                                                                                             |
+|       |                                                                                                                                          | 95% CI for LS Mean Difference                                                                                                            | -0.67, 0.81                                                                                                                              |
+|       |                                                                                                                                          | P-Value                                                                                                                                  | 0.8490                                                                                                                                   |
+|       | Change DLQI week 12                                                                                                                      | LS Mean Difference (SE)                                                                                                                  | 0.16 (0.371)                                                                                                                             |
+|       |                                                                                                                                          | 90% CI for LS Mean Difference                                                                                                            | -0.45, 0.77                                                                                                                              |
+|       |                                                                                                                                          | P-Value                                                                                                                                  | 0.6719                                                                                                                                   |
+| Notes | With regard to the secondary endpoints which were assessed at the same timepoints (weeks 8 and 12) with primary endpoints, there were no | With regard to the secondary endpoints which were assessed at the same timepoints (weeks 8 and 12) with primary endpoints, there were no | With regard to the secondary endpoints which were assessed at the same timepoints (weeks 8 and 12) with primary endpoints, there were no |
+
+## 2.6.5.3.  Clinical studies in special populations
+
+Not applicable.
+
+<div style=\"page-break-after: always\"></div>
+
+## 2.6.5.4.  In vitro biomarker test for patient selection for efficacy
+
+Not applicable.
+
+## 2.6.5.5.  Analysis performed across trials (pooled analyses and meta-analysis)
+
+Not applicable.
+
+## 2.6.5.6.  Supportive stud(ies)
+
+Not applicable.
+
+## 2.6.6.  Discussion on clinical efficacy
+
+## Design and conduct of clinical studies
+
+A single phase III, efficacy and safety study was performed to support this MAA. In this study, the population of moderate to severe plaque psoriasis patients (BSA ≥10%, PASI ≥12, PGA ≥3) who are candidates for systemic therapy or phototherapy with at least 6 months prior disease history at screening represent an adequately homogeneous and sensitive population to detect differences between the biosimilar candidate and reference product and are endorsed.
+
+Patients who have previously received other IL-12, IL-17 or IL-23 targeting agents, used any monoclonal antibodies within nine months prior to screening, or other biological treatments within five half-lives or 90 days prior to screening, whichever is longer were excluded. Patients with other nonplaque forms of psoriasis were also excluded. Eligibility criteria were overall acceptable.
+
+A Business Continuity Plan (BCP) was initiated due to the war in Ukraine. 5% of the trial patients (29 patients at 8 sites) were affected. Actions taken to maintain feasibility, data integrity, and patients' safety included alternative ways to deliver IMP to sites in Ukraine, some study visits were performed outside of visit window to accommodate the delayed IP shipments and increased remote monitoring.
+
+The trial protocol contained appropriate risk assessment and mitigation strategies in the context of COVID-19.
+
+The dose (45mg &lt;100kg body weight, or 90mg &gt;100kg), SC route of administration and frequency of dosing (initial dose followed by another dose 4 weeks later and then every 12 weeks thereafter) is in line with the EU reference product Stelara's SmPC. While the use of two different doses based on body weight could introduce variability in the study, the applicant has appropriately stratified by body weight. In addition, the upper limit of 140kg body weight should help reduce this variability.
+
+The EMA primary end-point is percent change in PASI at Week 8. While the time point for the primary analysis for the reference product Stelara occurred at week 12, it is known from the Phoenix I and II studies that the curve seems to be steeper at earlier time points. As the sensitivity to detect differences between treatments is higher at the steeper part of the curve, the earlier time point of week 8 as in this study is preferable. It is agreed that PASI as a continuous variable (rather than dichotomous) is also preferred.
+
+Secondary endpoints included PASI50, PASI75, PASI90 PASI100, proportion of patients achieving PGA of cleared or minimal and a change from baseline in DLQI up to week 52. The sampling is proposed at Weeks 4, 8, 12, 16, 28, 40, and 52. It is agreed that all primary and secondary efficacy endpoints evaluated in the phase III clinical study are relevant for the overall assessment of comparability in efficacy in the target population.
+
+<div style=\"page-break-after: always\"></div>
+
+Other end-points include PK, safety and immunogenicity which are discussed elsewhere in this document.
+
+The sample size appears acceptable and is reproduceable for the parameters provided.
+
+Patients randomised to Stelara were re-randomised at Week 28 (prior to dosing) to switch to DMB3115 or continue with Stelara. While demonstration of comparable immunogenicity and safety of a biosimilar after switching from an original biological is not required for a MAA in the EU, this is acceptable as sufficient numbers of patients (greater than 100 patients) will remain on initial treatments, allowing for suitable comparisons up to 1 year.
+
+Randomisation and stratification for body weight at baseline (≤100 kg or &gt;100 kg), geographic region (EU, US, or ROW) and the number of previous systemic therapies for psoriasis (&lt;3 or ≥3) should ensure a homogeneous and sensitive population to detect differences between the biosimilar candidate and reference product and are endorsed.
+
+This is a double-blind trial and blinding procedures appear reasonable.
+
+The equivalence margins were +/-15% for the primary end-point. Although the applicant did not justify why these margins were chosen in the CSR, the protocol instead contained a limited explanation, in addition the equivalence margins were accepted during scientific advice. A 95% confidence interval is agreed.
+
+## Efficacy data and additional analyses
+
+The numbers of patients that did not complete the study were reasonably low and balanced across treatment arms. The most common reasons for not completing the study were due to contracting Covid-19 or patients were non-responders. One protocol amendment occurred during the study and did not have significant impact on the study conduct and outcome.
+
+The demographics and treatment compliance are acceptable and well balanced between the treatment arms. Baseline characteristics are generally well balanced, however, there was a change in dose in several patients after week 28 in Phase III study. Sixteen patients with baseline bodyweight ≤100 kg received in period II at week 28 the dose 90 mg (10 patients in DMB-3115 arm, 5 patients in Stelara arm and 1 in EU-Stelara switched to DMB-3115). On the other side, 8 patients with bodyweight ≥100 kg received in Period II the dose 45mg (3 patients in DMB-3115 arm, 3 patients in Stelara arm and 2 patients in EU-Stelara switched to DMB-3115). It is agreed that this change of dose had no impact on primary analysis - percent change PASI score from baseline to Week 8. As the change of dose occurred at week 28 this could potentially influence the analysis of secondary endpoints -  the percent change in PASI score at Weeks 40 and 52. Therefore, the applicant provided the post hoc analysis with exclusion of subjects with baseline weight ≤100 kg who subsequently received a dose of 90 mg in Period 2. There was no statistical significant difference in LS mean percentage change in PASI score from baseline to Week 40 and End of Study between DMB-3115 and EU-Stelara arms (LS Mean Difference [DMB-3115 - EU-Stelara] (95% CI): -0.23 [-2.02,1.57] at Week 40 and -0.28 [-2.37,1.82] at End of Study) and between EU-Stelara switched to DMB-3115 and EU-Stelara arms (LS Mean Difference [EU-Stelara switched to DMB 3115 - EU-Stelara] (95% CI): 0.18 [-1.89,2.26] at Week 40 and 0.08 [-2.35,2.52] at End of Study). These data confirmed results of previous provided analysis of PASI score at week 40 and 52.
+
+For period I, two patients with bodyweight ≥100 kg reported dose 45 mg at week 0/Day I instead of 90 mg. These patients were excluded from the PPS population.
+
+Regarding concomitant medications, topical treatment that is likely to impact signs and symptoms of psoriasis (e.g., corticosteroid, vitamin D analogues, pimecrolimus, retinoids, salicylvaseline, salicylic
+
+<div style=\"page-break-after: always\"></div>
+
+acid, lactic acid, tacrolimus, coal tar, urea, alpha-hydroxy or fruit acids), systemic immunomodulating treatments for psoriasis (eg, methotrexate, cyclosporine A, corticosteroids [oral, intravenous, intramuscular, SC, intra-articular, and transdermal], and cyclophosphamide) were not allowed during the study. Five patients were administered prohibited medications impacting psoriasis. Four of them used concomitant medication after week 8, therefore were considered not influencing the primary efficacy analysis at week 8 in Per Protocol Set for EMA (EMA-PPS) and thus, were not excluded from PPS. One subject with topical treatment containing 1% Carbamid (urea) was excluded from the PPS, as the treatment started after randomisation. Calcium channel blockers, beta-blockers and corticoids used in area not affected by psoriasis, were considered as prohibited medication not impacting psoriasis, therefore, these subjects were not excluded from PPS. This is considered acceptable.
+
+Patients were incorrectly recruited with PASI scores of less than 12 in the Stelara arm and PGA scores of less than 3 in both treatment arms, however the PPS primary end-point should take into account these errors.
+
+A substantial number of patients had critical or major protocol deviations. The distribution and pattern of these protocol deviations appear similar between treatment groups. The most common reason for exclusion was randomisation error, missing PASI score at baseline or week 8, inclusion/exclusion criteria. This is agreed. The decision to include or exclude such subjects from the PPS-EMA primary analysis was discussed on a case-by-case basis in a blinded manner, and determined not to significantly impact on the analyses. In addition, both the PPS and ITT analyses demonstrated similar results.
+
+For the primary end-point, the LS mean percent change in PASI score from baseline to Week 8 was 77.50 in DMB-3115 arm and 77.85 in Stelara arm in the PPS. Results demonstrated that the primary end-point was met as the 95% CI for LS mean difference was contained within the pre-specified equivalence margin of (-/+15%). Similar results were also obtained for the ITT set and for the US primary end-point analysis (percent change in PASI score from baseline to week 12).
+
+Sensitivity analyses were performed on the primary end-point using a mixed linear model with treatment group, baseline body weight (&lt;100 kg or &gt;100 kg), geographic region (EU, US or ROW), the number of previous systemic therapies for psoriasis (&lt;3 or ≥3), visit, and the treatment-by-visit interaction as fixed effects and baseline PASI score as a covariate. Results demonstrated that 95% CIs were contained within the equivalence margins of +/-15%.
+
+For a similar sensitivity analysis for Covid-19 positive patients results were not evaluable as no patients in the Stelara group contracted Covid-19 by week 8. Numbers contracting Covid-19 in the DMB-3115 group were also low.
+
+Subgroup analyses were performed for baseline body weight, geographic region and the number of previous systemic therapies for psoriasis. While not all 95% CIs fell within equivalent margins +/-15%, the numbers in these subgroups were low and the analyses were not powered. However, there were no statistically significant differences between subgroups.
+
+The secondary endpoints of PASI50, PASI75, PASI90 PASI100, AUEC for the PASI score, percent change in the PASI score from baseline, proportion of patients achieving PGA of cleared or minimal and a change from baseline in DLQI up to week 52 were not statistically significant and appeared well balanced across treatment arms.
+
+GCP non-compliance was identified at one site, affecting 7 patients, data from this site was excluded from ADaM analysis, but included in SDTM analysis. These patients were excluded from the main data analyses. It is agreed that it is appropriate to exclude these subjects from the main analyses.
+
+<div style=\"page-break-after: always\"></div>
+
+A human factor / useability study was not considered necessary as the applicant has adequately justified the identical nature of the PFS used compared to Stelara PFS.
+
+Following queries, the applicant provided a subgroup analysis of the percent change from baseline in PASI by ADA and nAb status for each treatment, considering the impact of ADAs on efficacy. For both the PPS and ITT, there were no significant differences in PASI by ADA and nAb subgroups different between treatment groups. However, there was a noticeable difference in the numbers of subjects who tested positive for ADA and nAb between treatment groups (ADA+: 33 for DMB-3115 v 78 EU-Stelara; nAb+: 19 for DMB-3115 v 50 EU-Stelara). This is in line with the lower levels of immunogenicity also observed with DMB-3115 in the PK.
+
+It is intended to extrapolate efficacy and safety from Ps to the other indications of Stelara, being active PsA, paediatric plaque Ps and CD.
+
+The chosen patient population for the Phase III study (moderate to severe plaque psoriasis) is considered an adequate basis for the extrapolation to the other indications of the Stelara label. In all autoimmune diseases for which Stelara is approved, efficacy of ustekinumab is driven by the same mechanism of action, which is inhibition of IL-12 and IL-23 by preventing p40 from binding to the IL12Rβ1 receptor. Extrapolation is therefore considered acceptable.
+
+## 2.6.7.  Conclusions on clinical efficacy
+
+The clinical development program, chosen population and efficacy endpoints are adequate. The study results demonstrated therapeutic equivalence of DMB-3115 to Stelara in terms of primary and secondary endpoints.
+
+Overall, efficacy results are indicative of clinical bioequivalence between the test and comparator treatment arms.
+
+## 2.6.8.  Clinical safety
+
+Safety data on DMB-3115 is available from two clinical studies (Study DMB-3115-1 and Study DMB3115-2), where safety was assessed as part of the secondary study objectives. Safety evaluation included adverse events (AEs), serious AEs (SAEs), adverse events of special interest (AESI), vital signs, and laboratory evaluations as well as immunogenicity.
+
+Study DMB-3115-1 was conducted in healthy subjects following single dose administration. Study DMB3115-2 was conducted in patients with moderate to severe chronic plaque psoriasis following multiple dose administration. Thus, a single pooled safety analysis of both studies was not considered meaningful and safety results are discussed below per individual study.
+
+## 2.6.8.1.  Patient exposure
+
+A total of 529 subjects received at least 1 dose of DMB-3115 in the 2 clinical studies. In the clinical studies included in this application, the safety of DMB-3115 was investigated in 99 adult healthy subjects (Study DMB-3115-1: single s.c. dose) and in 430 adult patients with chronic plaque psoriasis (Study DMB-3115-2 multiple s.c. doses).
+
+## Study DMB-3115-1
+
+A total of 99 healthy adult subjects received a single 45 mg s.c. dose of DMB-3115 on Day 1, 99 subjects received EU-Stelara and 98 subjects received US-Stelara. The safety analysis set includes 296 subjects.
+
+<div style=\"page-break-after: always\"></div>
+
+## Study DMB-3115-2
+
+## Period 1 - From Baseline to Week 28
+
+During Period 1 of Study DMB-3115-2, a total of 299 subjects were exposed to at least 1 dose of DMB3115 and 299 subjects were exposed to at least 1 dose of EU-Stelara; all 598 subjects were included in the Safety Set for Period 1.
+
+## Period 2 - From Week 28 to Week 52
+
+In Period 2, all 531 patients who completed phase 1 were re-randomised to DMB-3115-DMB-3115 (n=268), Stelara-Stelara (n=132), and Stelara-DMB-3115 (n=131) arms. Subjects randomised to receive DMB-3115 at the beginning of the study continued to receive the same treatment up to Week 40 while subjects randomised to receive EU-Stelara at the beginning of the study were re-randomised and re-stratified based on the body weight at Week 28 (≤100 kg or &gt;100kg) in a 1:1 ratio to either continue on EU-Stelara or were transitioned to receive DMB-3115 every 12 weeks up to Week 40. The Safety set included 530 patients who received at least 1 dose of the study treatment in Period 2.
+
+## 2.6.8.2.  Adverse events
+
+## Study DMB-3115-1: TEAEs in Healthy Subjects
+
+Table 9 below provides an overview of TEAEs. In total, 416 treatment-related adverse events (TEAEs) were reported in 181 (61.1%) subjects. The incidence of subjects who experienced TEAEs was similar across the groups, 61.6%, 64.6%, and 57.1% for the DMB-3115, EU-Stelara, and US-Stelara arms, respectively.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 9: Study DMB-3115-1: Summary of AEs (safety analysis set)
+
+| Characteristic                   | DMB-3115 (N=99) n (%) E   | EU-STELARA (N=99) n (%) E   | US-STELARA (N=98) n (%) E   | Overall (N=296) n (%) E   |
+|----------------------------------|---------------------------|-----------------------------|-----------------------------|---------------------------|
+| All AEs                          | 62 (62.6) 144             | 66 (66.7) 163               | 58 (59.2) 135               | 186 (62.8) 442            |
+| TEAEs                            | 61 (61.6) 138             | 64 (64.6) 151               | 56 (57.1) 127               | 181 (61.1) 416            |
+| Serious TEAEs                    | 0 0                       | 1 (1.0) 1                   | 0 0                         | 1 (0.3) 1                 |
+| Mild TEAEs                       | 39 (39.4) 107             | 41 (41.4) 117               | 39 (39.8) 108               | 119 (40.2) 332            |
+| Moderate TEAEs                   | 21 (21.2) 30              | 23 (23.2) 34                | 15 (15.3) 17                | 59 (19.9) 81              |
+| Severe TEAEs                     | 1 (1.0) 1                 | 0 0                         | 2 (2.0) 2                   | 3 (1.0) 3                 |
+| Treatment-Related TEAEs          | 18 (18.2) 27              | 23 (23.2) 31                | 28 (28.6) 39                | 69 (23.3) 97              |
+| Treatment-Related Mild TEAEs     | 16 (16.2) 25              | 19 (19.2) 24                | 23 (23.5) 33                | 58 (19.6) 82              |
+| Treatment-Related Moderate TEAEs | 2 (2.0) 2                 | 4 (4.0) 7                   | 5 (5.1) 6                   | 11 (3.7) 15               |
+| Treatment-Related Severe TEAEs   | 0 0                       | 0 0                         | 0 0                         | 0 0                       |
+| Treatment-RelatedSeriousTEAEs    | 0 0                       | 0 0                         | 0 0                         | 0 0                       |
+| TEAEs Leading to Withdrawal      | 0 0                       | 0 0                         | 0 0                         | 0 0                       |
+| TEAEs Leading to Death           | 0 0                       | 0 0                         | 0 0                         | 0 0                       |
+| COVID-19                         | 3 (3.0) 3                 | 1 (1.0) 1                   | 1 (1.0) 1                   | 5 (1.7) 5                 |
+
+Abbreviations: CSR=Clinical Study Report; COVID-19=Coronavirus Disease 2019; E=Number of events; N=Number of subjects dosed with each treatment (or any treatment as applicable); n=Number of subjects with characteristic TEAE=Treatment-emergent Adverse Event.
+
+%: Calculated using the number of subjects treated with each treatment (or any treatment as applicable) as the denominator (n/N*100).
+
+Source:Table12-1ofDMB-3115-1CSR.
+
+Most TEAEs were of mild intensity (332 events reported in 119 [40.2%] subjects), with 59 (19.9%) subjects reporting 81 events of moderate intensity and 3 (1.0%) subjects reporting 3 events of severe intensity. All 3 reported severe TEAEs were related to abnormal laboratory results of more than 5-fold of the upper limit of normal [ULN]); DMB-3115: transaminases increased, US-Stelara: aspartate aminotransferase increased and transaminases increased. All of these severe TEAEs resolved and were considered by the Investigator to be unrelated to the IMPs and not serious. Both the EU-Stelara group and US-Stelara group had the highest frequencies of moderate and severe TEAEs respectively.
+
+The most frequently reported (≥10% of overall subjects) TEAEs by SOC were 'nervous system disorders' (71 [24%] subjects overall, 20 [20.2%] subjects in DMB-3115 arm), followed by 'infections and infestations' (61 [20.6%] subjects overall, 21 [21.2%] subjects in DMB-3115 arm), 'gastrointestinal disorders' (41 [13.9%] subjects overall, 11 [11.1%] subjects in DMB-3115 arm), 'musculoskeletal and connective tissue disorders' (40 [13.5%] subjects overall, 13 [13,1%] subjects in DMB-3115 arm), and 'skin and subcutaneous tissue disorders' (31 [10.5%] subjects overall, 10 [10.1%] subjects in DMB-3115 arm). The DMB-3115 arm never had the highest frequency for either of these SOC.
+
+The most frequently reported (≥ 5% of subjects) TEAEs by preferred term (PT) in the DMB-3115 arm were 'headache' (19.2% of subjects), followed by 'nasopharyngitis' (10.1% of subjects), 'back pain', and 'diarrhoea (6.1% of subjects each). A similar profile was observed in the EU- and US-Stelara arms, (Table 10). The reported TEAEs corresponded with the known safety profile of ustekinumab and no new unexpected TEAEs related to DMB-3115 were recorded.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 10: Study DMB-3115-1: TEAEs reported in ≥ 5% of subjects by treatment and preferred term  (safety analysis set)
+
+| Preferred Term     | DMB-3115 (N =99) n (%) E   | EU-STELARA (N = 99) n (%) E   | US-STELARA (N =98) n (%) E   | Overall (N = 296) n (%) E   |
+|--------------------|----------------------------|-------------------------------|------------------------------|-----------------------------|
+| AllTEAEs           | 61 (61.6) 138              | 64 (64.6) 151                 | 56 (57.1) 127                | 181 (61.1) 416              |
+| Headache           | 19 (19.2) 32               | 20 (20.2) 26                  | 20 (20.4) 24                 | 59 (19.9) 82                |
+| Nasopharyngitis    | 10 (10.1) 12               | 15 (15.2) 15                  | 8 (8.2) 9                    | 33 (11.1) 36                |
+| Back pain          | 6 (6.1) 6                  | 9 (9.1) 11                    | 4 (4.1) 4                    | 19 (6.4) 21                 |
+| Diarrhoea          | 6 (6.1) 6                  | 5 (5.1) 8                     | 8 (8.2)9                     | 19 (6.4) 23                 |
+| Oropharyngeal pain | 4 (4.0) 4                  | 7 (7.1) 7                     | 5 (5.1) 5                    | 16 (5.4) 16                 |
+
+Abbreviations: E=number of events; EU=European Union; N=number of subjects dosed with each treatment (or any treatment as applicable); n=number of subjects with adverse event; PT=preferred term;
+
+TEAE=treatment-emergent adverse event; US=United States.
+
+Percentages calculated using the number of subjects treated with each treatment (or any treatment as applicable) as the denominator (n/N*100).
+
+Adverse events were coded using Medical Dictionary for Regulatory Activities version 23.1.
+
+Source:Table12-2ofDMB-3115-1CSR.
+
+## Study DMB-3115-1: Treatment Related Adverse Events in Healthy Subjects
+
+The proportion of subjects who experienced TEAEs considered to be related to the IP by the Investigator were comparable across the three treatment groups; DMB-3115: 27 events in 18 [18.2%] subjects, EU-Stelara: 31 events in 23 [23.2%] subjects, US-Stelara: 39 events in 28 [28.6%] subjects. In total 97 TEAEs reported in 69 (23.3%) subjects were considered related to the IMPs.  Most were considered of mild intensity, and none were considered serious.
+
+The most frequently reported TEAEs suspected to be IP-related were 'nasopharyngitis' and 'headache'; both are known ADRs. Nasopharyngitis was reported with a comparable frequency across cohorts. Headache was reported with a lower frequency in the DMB-3115 group, 4 (4%) subjects in the DMB3115 group, 6 (6.1%) subjects in the EU sourced Stelara group, and 7 (7.1%) subjects in the US sourced Stelara group.
+
+Respiratory, thoracic and mediastinal disorders are reported with a slightly higher incidence in the DMB-3115 group 3 (3%), vs 0 and 1 (1%) in the EU Stelara group, and the US Stelara group respectively.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 11: Study DMB-3115-1: TEAEs related to treatment by treatment, SOC and PT  (safety analysis set)
+
+<!-- image -->
+
+| System Organ Class Preferred Term               | DMB-3115 (66=N) n(%) E   | EU- STELARA (66=ND n (%) E   | Us- STELARA (N=98) n (%) E   | Overall (N=296) n(%) E   |
+|-------------------------------------------------|--------------------------|------------------------------|------------------------------|--------------------------|
+| All TEAEs related to treatment*                 | 18 (18.2) 27             | 23 (23.2) 31                 | 28 (28.6) 39                 | 69 (23.3) 97             |
+| Nervous system disorders                        | 4 (4.0) 5                | 7 (7.1) 7                    | 9 (9.2) 10                   | 20 (6.8) 22              |
+| Headache                                        | 4 (4.0) 5                | 6 (6.1) 6                    | 7 (7.1) 8                    | 17 (5.7) 19              |
+| Dizziness                                       | 0                        | 1 (1.0) 1                    | 2 (2.0) 2                    | 3 (1.0) 3                |
+| Infections and infestations                     | 5 (5.1) 5                | 10 (10.1) 10                 | 8 (8.2) 8                    | 23 (7.8) 23              |
+| Nasopharyngitis                                 | 5 (5.1) 5                | 9 (9.1) 9                    | 4(4.1)4                      | 18 (6.1) 18              |
+| Rhinitis                                        | 0                        | 1 (1.0) 1                    | 2 (2.0) 2                    | 3 (1.0) 3                |
+| Oral herpes                                     | 0                        |                              | 1 (1.0) 1                    | 1 (0.3) 1                |
+| Injection site pustule                          | 0                        | 0                            | 1 (1.0) 1                    | 1 (0.3) 1                |
+| Gastrointestinal disorders                      | 2 (2.0) 2                | 3 (3.0) 3                    | 5 (5.1) 6                    | 10 (3.4) 11              |
+| Dianrhoea                                       | 0                        | 0                            | 1 (1.0) 1                    | 1 (0.3) 1                |
+| Nausea                                          | 1 (1.0) 1                | 0                            | 2 (2.0) 2                    | 3 (1.0) 3                |
+| Vomiting                                        | 0                        |                              | 2 (2.0) 2                    | 2 (0.7) 2                |
+| Abdominal pain upper                            | 0                        | 1 (1.0) 1                    | 0                            | 1 (0.3) 1                |
+| Dyspepsia                                       | 0                        | 1 (1.0) 1                    | 1 (1.0) 1                    | 2 (0.7) 2                |
+| Stomatitis                                      | 1 (1.0) 1                | 1 (1.0) 1                    | 0                            | 2 (0.7) 2                |
+| Musculoskeletal and connective tissue disorders | 0                        | 2 (2.0) 2                    | 1 (1.0) 1                    | 3 (1.0) 3                |
+| Myalgia                                         | 0                        | 2 (2.0) 2                    | 0                            | 2 (0.7) 2                |
+| Pain in extremity                               | 0                        | 0                            | 1 (1.0) 1                    | 1 (0.3) 1                |
+| Skin and subcutaneous tissue disorders          | 7 (7.1) 7                | 5 (5.1) 6                    | 8 (8.2) 8                    | 20 (6.8) 21              |
+| Pruuitus                                        | 2 (2.0) 2                | 1 (1.0) 1                    | 2 (2.0)2                     | 5 (1.7) 5                |
+| Rash                                            | 0                        | 1 (1.0) 1                    | 2 (2.0)2                     | 3 (1.0) 3                |
+| Acne                                            | 1 (1.0) 1                | 2 (2.0) 2                    | 1 (1.0) 1                    | 4(1.4)4                  |
+| Dry skin                                        | 2 (2.0) 2                | 0                            | 0                            | 2 (0.7) 2                |
+| Night sweats                                    | 1 (1.0) 1                | 0                            | 1 (1.0) 1                    | 2 (0.7) 2                |
+| Dematitis acneifonm                             |                          | 1 (1.0) 1                    | 1 (1.0) 1                    | 2 (0.7) 2                |
+| Perioral denmatitis                             | 0                        | 0                            | 1 (1.0) 1                    | 1 (0.3) 1                |
+| Rash papular                                    | 1 (1.0) 1                | 0                            | 0                            | 1 (0.3) 1                |
+| Skin imitation                                  | 0                        | 1 (1.0) 1                    | 0                            | 1 (0.3) 1                |
+| Respiratory, thoracic and mediastinal disorders | 3 (3.0) 3                | 0                            | 1 (1.0) 1                    | 4(1.4)4                  |
+| Oropharyngeal pain                              | 2 (2.0) 2                | 0                            | 1 (1.0) 1                    | 3 (1.0) 3                |
+
+<div style=\"page-break-after: always\"></div>
+
+| Cough                                                | 1 (1.0) 1   | 0         | 0         | 1 (0.3) 1   |
+|------------------------------------------------------|-------------|-----------|-----------|-------------|
+| General disorders and administration site conditions | 4 (4.0) 5   | 1 (1.0) 1 | 4 (4.1)4  | 9 (3.0) 10  |
+| Fatigue                                              | 4(4.0) 4    | 1 (1.0) 1 | 0         | 5 (1.7) 5   |
+| Asthenia                                             | 0           | 0         | 1 (1.0) 1 | 1 (0.3) 1   |
+| Feeling hot                                          | 1 (1.0) 1   | 0         | 1 (1.0) 1 | 2 (0.7) 2   |
+| Pyrexia                                              | 0           | 0         | 2 (2.0) 2 | 2 (0.7) 2   |
+| Vascular disorders                                   | 0           | 0         | 1 (1.0) 1 | 1 (0.3) 1   |
+| Hot flush                                            | 0           | 0         | 1 (1.0) 1 | 1 (0.3) 1   |
+| Reproductive system and breast disorders             | 0           | 1 (1.0) 1 | 0         | 1 (0.3) 1   |
+| Menstuation inregular                                | 0           | 1 (1.0) 1 | 0         | 1 (0.3) 1   |
+| Renal and urinary disorders                          | 0           | 1 (1.0) 1 | 0         | 1 (0.3) 1   |
+| Dysuuia                                              | 0           | 1 (1.0) 1 | 0         | 1 (0.3) 1   |
+
+Abbreviations: CSR=Climical Study Report; E=Nummber of events; MedDRA=Medical Dictionary for
+
+Regulatory Activities; N=Number of subjects dosed with each treatment; n=Nummber of subjects with adverse event with particular causality; PT=Preferred Tenm; SOC=System Organ Class; TEAE=Treatment-emergent Adverse Event.
+
+*: When summmarizing TEAE causality, a subject is coumted only once for each SOC or PT according to the worst relationship. If relationship was missing or not determinable, the worst case was assumed.
+
+%: Calculated using the number of subjects treated with each treatment as the denominator (n/N*100).
+
+All adverse events were coded using MedDRA version 23.1.
+
+Souurce:Table 12-4of DMB-3115-1 CSR
+
+## Study DMB-3115- 2: TEAEs in Patients
+
+The safety results are presented in 3 separate time periods:
+
+-  Overall Period
+-  Period 1 - From Baseline to Week 28, IP administration at Weeks 0, 4, 16
+-  Period 2 - From Week 28 to Week 52, IP administration at Weeks 28, 40
+
+Safety evaluation focuses primarily on treatment-emergent AEs (TEAEs), i.e., a new event that occurred during or after first dose of study treatment or any event present at baseline that worsened in either intensity or frequency after first dose of study treatment. Also, Non-TEAEs are summarised in the report: a total of 38 (6.4%) patients had 41 non-TEAEs. The most common non-TEAE was latent tuberculosis.
+
+Adverse events were classified according MedDRA (Version 25.1) and discussed under categories: overall TEAEs, Related TEAEs, TEAEs by Severity, Serious TEAEs, Adverse events of special interest, TEAEs Leading to Study Discontinuation, Treatment Emergent Adverse Events Leading to Death.
+
+## Overall Period
+
+In the Overall Period, a total of 330 (55.2%) subjects experienced 686 TEAEs. The proportion of patients who reported at least one TEAE is comparable across the treatment groups; 162 (54.2%) DMB-3115, 95 (56.5%) EU-Stelara, and 73 (55.7%) EU-Stelara switched to DMB-3115 arms.
+
+Table 12 below outlines TEAEs in the overall period.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 12: Study DMB-3115-2: Summary of AEs reported in the overall period (safety set)
+
+| Adverse Events                                          | DMB-3115 (N=299) n (%), E                               | EU-STELARA (N=168) n (%), E                             | EU-STELARA Switched to DMB-3115 (N=131) n (%), E        | Overall (N=598) n (%), E   |
+|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|----------------------------|
+| Overall TEAEs (Event Count)                             | 327                                                     | 212                                                     | 147                                                     | 686                        |
+| Overall Non-TEAEs (Event Count)                         | 10                                                      | 19                                                      | 12                                                      | 41                         |
+| Subjects with at Least One                              |                                                         |                                                         |                                                         |                            |
+| TEAE                                                    | 162 (54.2), 327                                         | 95 (56.5), 212                                          | 73 (55.7), 147                                          | 330 (55.2), 686            |
+| Serious TEAEs                                           | 5 (1.7),6                                               | 5 (3.0), 7                                              | 0                                                       | 10 (1.7), 13               |
+| Severe TEAEs                                            | 6 (2.0), 10                                             | 4 (2.4), 6                                              | 0                                                       | 10 (1.7), 16               |
+| Treahment-Related TEAEs                                 | 14 (4.7), 18                                            | 6 (3.6).8                                               | 7 (5.3), 10                                             | 27 (4.5), 36               |
+| TEAE of Special Interest                                | 7 (2.3),9                                               | 4 (2.4), 5                                              | 2 (1.5), 2                                              | 13 (2.2), 16               |
+| Treahment-Related TEAE of Special Interest              | 5 (1.7). 6                                              | 3 (1.8),4                                               | 2 (1.5), 2                                              | 10 (1.7), 12               |
+| Treatment-Related Serious TEAE                          | 0                                                       | 0                                                       | 0                                                       | 0                          |
+| COVID-19 Related TEAE                                   | 19 (6.4), 19                                            | 17 (10.1), 19                                           | 7 (5.3), 7                                              | 43 (7.2), 45               |
+| Subjects with TEAE by Intensity                         |                                                         |                                                         |                                                         |                            |
+| Grade 1                                                 | 86 (28.8), 216                                          | 50 (29.8), 136                                          | 38 (29.0), 93                                           | 174 (29.1), 445            |
+| Grade 2                                                 | 70 (23.4), 101                                          | 41 (24.4), 70                                           | 35 (26.7), 54                                           | 146 (24.4), 225            |
+| Grade 3                                                 | 3 (1.0), 7                                              | 3 (1.8). 5                                              | 0                                                       | 6 (1.0), 12                |
+| Grade 4                                                 | 1 (0.3), 1                                              | 0                                                       | 0                                                       | 1 (0.2), 1                 |
+| Grade 5                                                 | 2 (0.7), 2                                              | 1 (0.6), 1                                              | 0                                                       | 3 (0.5), 3                 |
+| Subjects with TEAE by Final Outcome                     |                                                         |                                                         |                                                         |                            |
+| Recovered/Resolved                                      | 149 (49.8), 272                                         | 84 (50.0), 164                                          | 70 (53.4), 121                                          | 303 (50.7), 557            |
+| Recovering/Resolving                                    | 19 (6.4), 26                                            | 18 (10.7), 23                                           | 9 (6.9), 11                                             | 46 (7.7), 60               |
+| Not Recovered/Not Resolved                              | 16 (5.4), 20                                            | 13 (7.7), 22                                            | 10 (7.6), 15                                            | 39 (6.5), 57               |
+| Recovered/Resolved with Sequelae                        | 5 (1.7), 7                                              | 1 (0.6).1                                               | 0                                                       | 6 (1.0), 8                 |
+| Fatal                                                   | 2 (0.7), 2                                              | 1 (0.6), 1                                              | 0                                                       | 3 (0.5), 3                 |
+| Unknown                                                 | 0                                                       | 1 (0.6).1                                               | 0                                                       | 1 (0.2), 1                 |
+| Action Taken with the Study Drug for Subjects with TEAE | Action Taken with the Study Drug for Subjects with TEAE | Action Taken with the Study Drug for Subjects with TEAE | Action Taken with the Study Drug for Subjects with TEAE |                            |
+| Drug Intemupted                                         | 1 (0.3), 2                                              | 2 (1.2), 2                                              | 0                                                       | 3 (0.5), 4                 |
+| Drug Withdrawn                                          | 13 (4.3), 13                                            | 16 (9.5), 18                                            | 3 (2.3).3                                               | 32 (5.4), 34               |
+| Dose Not Changed                                        | 143 (47.8), 280                                         | 85 (50.6), 169                                          | 68 (51.9), 128                                          | 296 (49.5), 577            |
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+| Not Applicable                                  | 24 (8.0), 32                                 | 16 (9.5), 23                                 | 13 (9.9), 16                                 | 53 (8.9), 71                                 |
+|-------------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
+| Unknowm                                         | 0                                            | 0                                            | 0                                            | 0                                            |
+| Subjects with TEAE with Seriousness Criteria    | Subjects with TEAE with Seriousness Criteria | Subjects with TEAE with Seriousness Criteria | Subjects with TEAE with Seriousness Criteria | Subjects with TEAE with Seriousness Criteria |
+| Results in Death                                | 2 (0.7).2                                    | 1 (0.6). 1                                   | 0                                            | 3 (0.5). 3                                   |
+| Is Life Threatening                             | 1 (0.3), 1                                   | 0                                            | 0                                            | 1 (0.2), 1                                   |
+| Requires or Prolongs Hospitalization            | 4 (1.3).4                                    | 4 (2.4).6                                    | 0                                            | 8 (1.3), 10                                  |
+| Other Medically Important Event                 | 0                                            | 1 (0.6).1                                    | 0                                            | 1 (0.2), 1                                   |
+| AE with an Outcome of Death                     | 2 (0.7). 2                                   | 1 (0.6), 1                                   | 0                                            | 3 (0.5), 3                                   |
+| Subjects Discontinued from the StudyDue to TEAE | 8 (2.7).8                                    | 12 (7.1), 14                                 | 1 (0.8). 1                                   | 21 (3.5), 23                                 |
+
+Abbreviations: AE=Adverse Event; CSR=Climical Study Report; CTCAE=Common Tenminology Criteria for Adverse Events; COVID-19=Coronavinus Disease 2019; E=Nummber of events meeting the condition; MedDRA=Medical Dictionary for Regulatory Activities; N=Number of subjects within each treatment anm umder Safety Set; n=Total mumber of subjects meeting the condition; TEAE=Treatment-emergent Adverse Event.
+
+Percentages are based on muumber of subjects within each treatment arm umder Safety Set (N).
+
+Subjects with more than 1 event were coumted only once for the maximum severity.
+
+AE terms were coded using MedDRA recent version 25.1.
+
+Possibly related and probably related were considered as related to study medication, umlikely amd umrelated Were considered as tmrelated to Study medication.
+
+Severe: Severity was based on CTCAE intensity Grades 1 to 5, Grades 3 to 5 were considered as severe.
+
+in persistent or significant disability/ incapacity, congenital anomaly/ Birth defect, other medically importamt event.
+
+Souuce: Table 34 ofDMB-3115-2 CSR
+
+The majority of the TEAEs were mild or moderate in severity, and these incidences were comparable across the treatment groups. Ten (1.7%) subjects had 16 severe TEAEs (Grade 3 to 5) (DMB-3115: 6 [2.0%] subjects; EU-Stelara: 4 [2.4%] subjects). The incidences of TEAEs regarding severity were comparable across the treatment groups. No serious TEAEs were considered related to study treatment.
+
+Table 13 below outlines the incidence of TEAEs by SOC occurring in &gt;1% of patients in overall period. The most frequently reported (≥5% of overall subjects) TEAEs by SOC were 'infections and infestations' (33.4%) followed by 'investigations' (8.4%), 'musculoskeletal and connective tissue disorders' (6%), 'nervous system disorders' (5.9%), 'vascular disorders' (5.5%), and 'gastrointestinal disorders' (5%). In the DMB-3115 arm, the most frequently reported (≥5% of subjects) TEAEs by SOC were 'infections and infestations' (32.4%) followed by 'investigations' (7.7%), 'musculoskeletal and connective tissue disorders' (6%), 'nervous system disorders' (5.7%) and 'gastrointestinal disorders' (5%). The frequency of TEAEs by SOC was similar across groups overall with a few exceptions. There was a slightly higher frequency of TEAEs in DMB-3115 for 'injury, poisoning and procedural complications', a higher frequency in the Stelara group for 'skin and subcutaneous tissue disorders' and 'vascular disorders', and 'metabolism and nutritional disorders' in the Stelara switch to DMB-3115 group.
+
+There was a modestly higher frequency reported in the overall period of study DMB-3115-2 in SOC 'injury, poisoning and procedural complications' observed in the DMB-3115 cohort (9 subjects from the DMB-3115 vs. 1 subject from the EU-Stelara group). The majority of these were fractures that occurred after injuries therefore, this issue is not further pursued.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 13: Incidence of TEAEs occurring in &gt;1% of patients in overall period by system organ class (safety set DMB-3115-2)
+
+Study Period: Overall Period
+
+|                                                                            | DMB-3115 (N=299) n (%), E   | Stelara (N=168) n (%6), E   | Stelara Switched to DMB-3115 (N=131)   | Total (N=598) n (%), E     |
+|----------------------------------------------------------------------------|-----------------------------|-----------------------------|----------------------------------------|----------------------------|
+| System Organ Class                                                         |                             |                             | n (%), E                               |                            |
+| Number of Patients with Any TEAEs Blood and lymphatic system disorders     | 162 (54.2),327 2 (0.7),2    | 95 (56.5), 212 1(0.6),2     | 73 (55.7), 147 2 (1.5), 2              | 330 (55.2), 686 5 (0.8), 6 |
+| Cardiac disorders                                                          | 4 (1.3), 9                  | 1 (0.6), 2                  | 1 (0.8), 1                             | 6 (1.0), 12                |
+| Ear and labyrinth disorders                                                | 1 (0.3), 1                  | 1 (0.6), 1                  | 2 (1.5), 2                             | 4 (0.7), 4                 |
+| Eye disorders                                                              | 3 (1.0), 3                  | 2 (1.2), 2                  | 0                                      | 5 (0.8), 5                 |
+| Gastrointestinal disorders                                                 | 15 (5.0), 22                | 9 (5.4), 11                 | 6 (4.6),7                              | 30 (5.0), 40               |
+| General disorders and administration site conditions                       | 8 (2.7).9                   | 6 (3.6.7                    | 3 (2.3). 3                             | 17 (2.8), 19               |
+| Hepatobiliary disorders                                                    | 1 (0.3), 1 97 (32.4), 128   | 2 (1.2). 2 59 (35.1), 85    | 0 44 (33.6), 61                        | 3 (0.5),3 200 (33.4), 274  |
+| Infections and infestations Injuuy, poisoning and proceduual complications | 9 (3.0), 10                 | 1(0.6).1                    | 1 (0.8). 1                             | 11 (1.8), 12               |
+| Investigations                                                             | 23 (7.7), 43                | 14 (8.3), 22                | 13 (9.9), 22                           | 50 (8.4), 87               |
+| Metabolism and nutition disorders                                          | 7 (2.3),8                   | 8 (4.8), 8                  | 13 (9.9), 13                           | 28 (4.7), 29               |
+| Musculoskeletal and commective tissue disorders                            | 18 (6.0), 22                | 11 (6.5), 21                | 7 (5.3). 7                             | 36 (6.0), 50               |
+| Nervous system disorders                                                   | 17 (5.7), 25                | 8 (4.8). 9                  | 10 (7.6), 10                           | 35 (5.9),44                |
+| Renal and urinary disorders                                                | 5 (1.7). 5                  | 1 (0.6). 1                  | 2 (1.5). 2                             | 8 (1.3), 8                 |
+| Reproductive system and breast disorders                                   | 2 (0.7), 2                  | 2 (1.2), 2                  | 0                                      | 4 (0.7), 4                 |
+| Respiratory, thoracic and mediastinal                                      | 8 (2.7), 10                 | 7 (4.2), 10                 | 5 (3.8), 5                             | 20 (3.3), 25               |
+| disorders                                                                  | 5 (1.7), 5                  | 8 (4.8). 9                  | 2 (1.5), 2                             | 15 (2.5). 16               |
+| Skin and subcutaneous tissue disorders                                     | 14 (4.7), 17                |                             | 6 (4.6). 7                             | 33 (5.5), 38               |
+| Vascular disorders                                                         |                             | 13 (7.7), 14                |                                        |                            |
+
+Souuce: Table 14.3.1.2 and Listing 16.2.7.1
+
+Abbreviations: MedDRA =Medical dictionary for Regulatory Activities, SOC = System Organ Class; PT = Prefeired Tenm; TEAE: Treatment Emergent Adverse Events.
+
+Note: AEs are coded using the MedDRA dictionary, version 25.1.
+
+Note: N = Total mumber of Patients in the Safety Set im each treatment armr; E = Number of TEAEs in each category; n = Number of Patients with at least 1 TEAE in each category.
+
+Note: Patients with more than 1 event within an interval, SOC or PT are coumted only once in the interval for that SOC or PT.
+
+Note: Percentages are based on the mumber of Patients in Safety set in respective treatment arm (N).
+
+- Note: Primary system organ classes were presented alphabetically; preferred terms were sorted within each primary system organ class in descending order of patient frequency. If the frequency of the preferred terms Were tied, the preferred terms were ordered alphabetically.
+
+Table 14 below outlines the incidence of TEAEs by PT occurring in &gt;1% of patients in overall period. The most frequently reported TEAE by PT was 'nasopharyngitis' (10.5%) followed by 'COVID-19' (6.9%) and 'hypertension' (4.8%). The frequency of TEAEs by PT was similar across groups overall except there was a higher incidence of 'nasopharyngitis' in the EU-Stelara switched to DMB-3115 group compared to the other 2 groups; DMB-3115: 9.4%, EU-Stelara: 10.1%, EU-Stelara switched to DMB3115: 13.7%. However, the incidence of 'nasopharyngitis' is similar when comparing groups in period 1 and period 2. The Stelara group had a slightly higher frequency of 'COVID-19' and hypertension compared to the other groups.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 14: Incidence of TEAEs occurring in &gt;1% of patients in overall period by preferred term (safety set) DMB-3115-2
+
+StudyPeriod: Overall Period
+
+| Preferred Term                       | DMB-3115 (N=299) n (%), E   | Stelara (N=168) n (%), E   | Stelara Smitched to DMB-3115 (N=131) n (%), E   | Total (N=598) n (%), E   |
+|--------------------------------------|-----------------------------|----------------------------|-------------------------------------------------|--------------------------|
+| Number of Patients with Any TEAEs    | 162 (54.2), 327             | 95 (56.5), 212             | 73 (55.7), 147                                  | 330 (55.2), 686          |
+| Neutropenia                          | 2 (0.7), 2                  | 1 (0.6), 1                 | 2 (1.5), 2                                      | 5 (0.8), 5               |
+| Toothache                            | 4 (1.3), 6                  | 0                          | 2 (1.5), 2                                      | 6 (1.0), 8               |
+| Abdominal pain                       | 2 (0.7), 2                  | 2 (1.2), 2                 | 1 (0.8), 1                                      | 5 (0.8), 5               |
+| Diamhoea                             | 3 (1.0), 3                  | 2 (1.2), 2                 | 0                                               | 5 (0.8), 5               |
+| Injection site imduration            | 0                           | 2 (1.2), 2                 | 0                                               | 2 (0.3), 2               |
+| Nasopharyngitis                      | 28 (9.4), 34                | 17 (10.1), 23              | 18 (13.7), 22                                   | 63 (10.5), 79            |
+| COVID-19                             | 18 (6.0), 18                | 16 (9.5), 16               | 7 (5.3). 7                                      | 41 (6.9).41              |
+| Rhinitis                             | 12 (4.0), 12                | 6 (3.6),9                  | 3 (2.3), 4                                      | 21 (3.5), 25             |
+| Upper respiratory tract infection    | 7 (2.3), 7                  | 7 (4.2), 7                 | 5 (3.8), 8                                      | 19 (3.2), 22             |
+| Pharyngitis                          | 5 (1.7), 5                  | 4(2.4).4                   | 3 (2.3).3                                       | 12 (2.0), 12             |
+| Bronchitis                           | 4 (1.3),4                   | 2 (1.2), 2                 | 3 (2.3), 3                                      | 9 (1.5), 9               |
+| Tonsillitis                          | 4 (1.3), 4                  | 3 (1.8), 3                 | 1 (0.8), 1                                      | 8 (1.3), 8               |
+| Respiratory tract infection          | 4 (1.3), 5                  | 1 (0.6), 1                 | 1 (0.8), 1                                      | 6 (1.0), 7               |
+| Urinary tract infection              | 3 (1.0), 5                  | 0                          | 3 (2.3). 4                                      | 6 (1.0), 9               |
+| Folliculitis                         | 5 (1.7), 5                  | 0                          | 0                                               | 5 (0.8), 5               |
+| Sinusitis                            | 2 (0.7), 2                  | 2 (1.2), 2                 | 1 (0.8), 1                                      | 5 (0.8), 5               |
+| Viral infection                      | 1 (0.3), 1                  | 2 (1.2), 2                 | 2 (1.5), 2                                      | 5 (0.8), 5               |
+| Periodontitis                        | 0                           | 2 (1.2), 2                 | 0                                               | 2 (0.3), 2               |
+| Alanine aminotransferase imcreased   | 7 (2.3), 10                 | 4(2.4).4                   | 5 (3.8), 5                                      | 16 (2.7), 19             |
+| Aspartate aminotransferase increased | 4 (1.3), 7                  | 3 (1.8), 3                 | 4(3.1), 4                                       | 11 (1.8), 14             |
+| Blood pressure increased             | 5 (1.7), 6                  | 1 (0.6), 1                 | 0                                               | 6 (1.0), 7               |
+| Blood creatinine increased           | 2 (0.7), 2                  | 2 (1.2), 2                 | 1 (0.8), 1                                      | 5 (0.8), 5               |
+| Blood glucose increased              | 0                           | 4(2.4).4                   | 1 (0.8), 1                                      | 5 (0.8), 5               |
+| Transaminases increased              | 2 (0.7), 2                  | 2 (1.2), 2                 | 1 (0.8), 1                                      | 5 (0.8), 5               |
+| C-reactive protein increased         | 1 (0.3), 1                  | 1 (0.6), 1                 | 2 (1.5), 2                                      | 4 (0.7). 4               |
+| Hyperglycemia                        | 2 (0.7), 2                  | 0                          | 3 (2.3), 3                                      | 5 (0.8), 5               |
+| Type 2 diabetes mellitus             | 0                           | 2 (1.2), 2                 | 3 (2.3). 3                                      | 5 (0.8), 5               |
+| Back pain                            | 6 (2.0).6                   | 5 (3.0), 5                 | 3 (2.3).,3                                      | 14 (2.3), 14             |
+| Arthralgia                           | 6 (2.0), 9                  | 1(0.6), 1                  | 2 (1.5), 2                                      | 9 (1.5), 12              |
+| Spinal pain                          | 2 (0.7), 2                  | 4(2.4),4                   | 1 (0.8), 1                                      | 7 (1.2). 7               |
+| Osteoarthritis                       | 0                           | 2 (1.2). 2                 | 0                                               | 2 (0.3), 2               |
+| Headache                             | 12 (4.0), 20                | 7 (4.2), 8                 | 6 (4.6). 6                                      | 25 (4.2), 34             |
+| Dizziness                            | 1 (0.3), 1                  | 0                          | 2 (1.5). 2                                      | 3 (0.5). 3               |
+| Nephrolithiasis                      | 1 (0.3), 1                  | 0                          | 2 (1.5), 2                                      | 3 (0.5), 3               |
+| Cough                                | 4 (1.3).5                   | 4(2.4).4                   | 0                                               | 8 (1.3). 9               |
+| Oropharyngeal pain                   | 1 (0.3), 1                  | 2 (1.2), 2                 | 4 (3.1), 4                                      | 7 (1.2), 7               |
+| Dermatitis contact                   | 0                           | 3 (1.8),4                  | 0                                               | 3 (0.5),4                |
+| Hypertension                         | 12 (4.0). 13                | 12 (7.1), 13               | 5 (3.8). 6                                      | 29 (4.8). 32             |
+
+Souuce: Table 14.3.1.2 and Listing 16.2.7.1
+
+Abbreviations: COVID-19 = Coronavinus disease 2019, MedDRA = Medical dictionary for Regulatory Activities,
+
+SOC = System Organ Class; PT = Preferred Term; TEAE = Treatment Emergent Adverse Events.
+
+Note: AEs are coded using the MedDRA dictionary, version 25.1.
+
+Note: Patients with more than 1 event within an interval, SOC or PT are coumted only once in the interval for that SOC or PI.
+
+Note: N = Total number of patients in the Safety Set in each treatment anm; E = Number of TEAEs in each category: n = Number of patients with at least 1 TEAE in each category.
+
+<div style=\"page-break-after: always\"></div>
+
+## Period 1 - From Baseline to Week 28
+
+A total of 291 (48.7%) subjects experienced 550 TEAEs. The incidence of subjects who experienced TEAEs was comparable between treatments arms, 47.5% and 49.8% for the DMB-3115 and EU-Stelara arms, respectively, Table 15 below.
+
+Most TEAEs were Grade 1 (27.3% of subjects) or Grade 2 (20.2% of subjects) in intensity, with comparable frequencies between both arms. Seven subjects had 10 severe TEAEs (Grade 3 to 5) (DMB-3115: 5 [1.7%] subjects; EU-Stelara: 2 [0.7%] subjects).
+
+A total of 4 (0.5%) patients reported 6 Grade 3 TEAEs in period 1; DMB-3115: 1 patient with atrial fibrillation, 1 patient with humerus fracture, 1 patient with gastric cancer and 1 patient with cardiac failure/ventricular tachycardia, Stelara: 1 patient with COVID-19 pneumonia. All were considered not related to study drug.
+
+There was 1 serious grade 4 TEAEs reported in the DMB-3115 arm (acute myocardial infarction). It was considered not related to study drug.
+
+Three (0.5%) subjects had Grade 5 TEAEs of which 2 (0.7%) subjects in the DMB-3115 arm died due to sudden cardiac death and COVID-19, and 1 (0.3%) subject in the EU-Stelara arm died due to COVID-19. All were considered not related to study intervention.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 15: Study DMB-3115-2: Summary of AEs reported in Period 1 (safety set)
+
+| Adverse Events                                          | DMB-3115 (N=299) n (%), E                               | EU-STELARA (N=299) n (%), E                             | Overall (N=598) n (%0), E                               |
+|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|
+| Overall TEAEs (Event Count)                             | 270                                                     | 280                                                     | 550                                                     |
+| Overall Non-TEAEs (Event Count)                         | 10                                                      | 31                                                      | 41                                                      |
+| Subjects with at Least One:                             |                                                         |                                                         |                                                         |
+| TEAE                                                    | 142 (47.5). 270                                         | 149 (49.8), 280                                         | 291 (48.7), 550                                         |
+| Serious TEAEs                                           | 5 (1.7). 6                                              | 3 (1.0). 3                                              | 8 (1.3). 9                                              |
+| Severe TEAEs                                            | 5 (1.7), 8                                              | 2 (0.7), 2                                              | 7 (1.2), 10                                             |
+| Treatment-Related TEAEs                                 | 14 (4.7), 17                                            | 13 (4.3), 18                                            | 27 (4.5), 35                                            |
+| TEAE of Special Interest                                | 7 (2.3), 9                                              | 6 (2.0),7                                               | 13 (2.2), 16                                            |
+| Treatment-Related TEAE of Special Interest              | 5 (1.7). 6                                              | 5 (1.7). 6                                              | 10 (1.7), 12                                            |
+| Treatment-Related Serious TEAE                          | 0                                                       | 0                                                       | 0                                                       |
+| COVID-19 Related TEAE                                   | 15 (5.0), 15                                            | 19 (6.4), 21                                            | 34 (5.7), 36                                            |
+| Subjects with TEAE by Intensity                         |                                                         |                                                         |                                                         |
+| Grade 1                                                 | 78 (26.1), 183                                          | 85 (28.4), 192                                          | 163 (27.3), 375                                         |
+| Grade 2                                                 | 59 (19.7), 79                                           | 62 (20.7), 86                                           | 121 (20.2), 165                                         |
+| Grade 3                                                 | 2 (0.7). 5                                              | 1 (0.3), 1                                              | 3 (0.5). 6                                              |
+| Grade 4                                                 | 1 (0.3), 1                                              |                                                         | 1 (0.2), 1                                              |
+| Grade 5                                                 | 2 (0.7), 2                                              | 1 (0.3), 1                                              | 3 (0.5). 3                                              |
+| Subjects with TEAE by Final Outcome                     |                                                         |                                                         |                                                         |
+| Recovered/Resolved                                      | 130 (43.5), 225                                         | 137 (45.8), 232                                         | 267 (44.6),457                                          |
+| Recovering/Resolving                                    | 15 (5.0), 21                                            | 18 (6.0), 23                                            | 33 (5.5), 44                                            |
+| Not Recovered Not Resolved                              | 13 (4.3), 16                                            | 17 (5.7), 22                                            | 30 (5.0), 38                                            |
+| Recovered/Resolved with Sequelae                        | 4 (1.3), 6                                              | 1 (0.3), 1                                              | 5 (0.8), 7                                              |
+| Fatal                                                   | 2 (0.7), 2                                              | 1 (0.3). 1                                              | 3 (0.5). 3                                              |
+| Unknown                                                 | 0                                                       | 1 (0.3), 1                                              | 1 (0.2), 1                                              |
+| Action Taken with the Study Drug for Subjects with TEAE | Action Taken with the Study Drug for Subjects with TEAE | Action Taken with the Study Drug for Subjects with TEAE | Action Taken with the Study Drug for Subjects with TEAE |
+| Dmug Intemupted                                         | 1 (0.3), 2                                              | 2 (0.7), 2                                              | 3 (0.5). 4                                              |
+| Dnug Withdrawn                                          | 13 (4.3), 13                                            | 19 (6.4), 21                                            | 32 (5.4), 34                                            |
+| Dose Not Changed                                        | 131 (43.8), 244                                         | 138 (46.2), 243                                         | 269 (45.0), 487                                         |
+| Not Applicable                                          | 6 (2.0), 11                                             | 9 (3.0), 14                                             | 15 (2.5), 25                                            |
+| Subjects with TEAE with Seriousness Criteria            | Subjects with TEAE with Seriousness Criteria            | Subjects with TEAE with Seriousness Criteria            | Subjects with TEAE with Seriousness Criteria            |
+| Results in Death                                        | 2 (0.7), 2                                              | 1 (0.3). 1                                              | 3 (0.5), 3                                              |
+| Is Life Threatening                                     | 1 (0.3), 1                                              | 0                                                       | 1 (0.2), 1                                              |
+
+<div style=\"page-break-after: always\"></div>
+
+| AdverseEvents                               | DMB-3115 (66t=ND n (%0), E   | EU-STELARA (66t=N0 n (%0), E   | Overall (=598) n (%0), E   |
+|---------------------------------------------|------------------------------|--------------------------------|----------------------------|
+| RequiresorProlongsHospitalization           | 4 (1.3).4                    | 2 (0.7), 2                     | 6 (1.0),6                  |
+| OtherMedicallyImportantEvent                | 0                            | 1 (0.3), 1                     | 1 (0.2), 1                 |
+| AEWithanOutcomeofDeath                      | 2 (0.7), 2                   | 1 (0.3), 1                     | 3 (0.5), 3                 |
+| SubjectsDiscontinuedfromtheStudy Due toTEAE | 8 (2.7). 8                   | 13 (4.3), 15                   | 21 (3.5),23                |
+
+Abbreviations:AE=AdverseEvent; CSR=Clinical StudyReport; CTCAE=CommonTerminologyCriteria For AdverseEvents;COVID-19=CoronavirusDisease2019;E=Numberofeventsmeetingthecondition; MedDRA=Medical DictionaryforRegulatoryActivities;N=Numberofsubjectswithineachtreatmentarm umderSafetySet;n=Totalmumberof subjectsmeetingthecondition;TEAE=Treatment-emergentAdverse Event.
+
+Percentages are based on number of subjects within each treatment arm umder Safety Set (N).
+
+AEtermswerecoded usingMedDRArecent version25.1.
+
+Subjectswithmorethan1eventwerecoumtedonlyonceforthemaximumseverity.
+
+Possiblyrelatedandprobablyrelatedwereconsideredasrelatedtostudymedicationumlikelyanduurelated wereconsideredasumrelatedtoStudymedication
+
+Severe:SeveritywasbasedonCTCAEintensityGrades1to5,Grades3to5wasconsideredassevere.
+
+inpersistentorsignificantdisability/incapacity,congenitalanomaly/Birthdefect,othermedicallyimportant event.
+
+Souurce:Table34ofDMB-3115-2CSR
+
+In period 1, the most frequently reported (≥5% of overall subjects) TEAEs by SOC were 'infections and infestations' (28.1%) followed by 'investigations' (7.2%), 'musculoskeletal and connective tissue disorders' (4.7%), 'nervous system disorders' (4.2%), 'vascular disorders' (4.3%), and 'gastrointestinal disorders' (4.2%). The frequency of TEAEs by SOC was similar in the DMB-3115 arm and the Stelara arm, except a slightly higher frequency of TEAEs in SOC 'injury, poisoning and procedural complications' for DMB-3115 group and a higher frequency in SOC 'metabolism and nutritional disorders' and 'skin and subcutaneous tissue disorders' in the Stelara group.
+
+In period 1, the most frequently reported TEAE by PT was 'nasopharyngitis' (9.5%) followed by 'COVID-19' (5.4%), 'hypertension' (3.8%) and 'rhinitis' (3%). The frequency of TEAEs by PT was similar in the DMB-3115 arm and the Stelara arm.
+
+## Period 2 - From Week 28 to Week 52
+
+A total of 102 (19.2%) subjects experienced 136 TEAEs. The proportion of patients who reported at least one TEAE is comparable across the treatment groups; 50 (18.7%) in DMB-3115, 28 (21.2%) in EU-Stelara, and 24 (18.3%) in EU-Stelara switched to DMB-3115 arms, Table 16 below.
+
+Majority of the TEAEs were Grade 1 (9.8% subjects) or Grade 2 (8.9% subjects) in intensity. These were comparable across the groups. A total of 3 (0.5%) patients reported 6 Grade 3 TEAEs; DMB3115: 1 patient with 2 events of hypertension, Stelara arm: 1 patient with 2 events of intervertebral disc disorder and back pain and 1 patient with hypertension. No Grade 4 or 5 TEAEs were reported.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 16: Study DMB-3115-2: Summary of AEs reported in Period 1 (safety set)
+
+| Adverse Events                                          | DMB-3115 (N=267) n (%),E                                | EU-STELARA (N=132) n (%), E                             | EU-STELARA Switched to DMB-3115 (N=131) n (%), E        | Overall (N=530) n (%), E                                |
+|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|
+| Overall TEAEs (Event Count)                             | 57                                                      | 49                                                      | 30                                                      | 136                                                     |
+| Overall Non-TEAEs(Event Count)                          | 0                                                       | 0                                                       | 0                                                       | 0                                                       |
+| Subjects with at Least One                              |                                                         |                                                         |                                                         |                                                         |
+| TEAE                                                    | 50 (18.7), 57                                           | 28 (21.2), 49                                           | 24 (18.3), 30                                           | 102 (19.2), 136                                         |
+| Serious TEAEs                                           | 0                                                       | 2 (1.5). 4                                              | 0                                                       | 2 (0.4), 4                                              |
+| Severe TEAEs                                            | 1 (0.4), 2                                              | 2 (1.5).4                                               | 0                                                       | 3 (0.6).6                                               |
+| Treatment-Related TEAEs                                 | 1 (0.4), 1                                              | 0                                                       | 0                                                       | 1 (0.2), 1                                              |
+| TEAE of Special Interest                                | 0                                                       | 0                                                       | 0                                                       | 0                                                       |
+| Treatment-Related TEAE of Special Interest              | 0                                                       | 0                                                       | 0                                                       | 0                                                       |
+| Treatment-Related Serious TEAE                          | 0                                                       | 0                                                       | 0                                                       | 0                                                       |
+| COVID-19 Related TEAE                                   | 4 (1.5), 4                                              | 2 (1.5), 2                                              | 3 (2.3), 3                                              | 9 (1.7), 9                                              |
+| Subjects with TEAE by Intensity                         |                                                         |                                                         |                                                         |                                                         |
+| Grade 1                                                 | 28 (10.5), 33                                           | 15 (11.4), 27                                           | 9 (6.9), 10                                             | 52 (9.8), 70                                            |
+| Grade 2                                                 | 21 (7.9), 22                                            | 11 (8.3), 18                                            | 15 (11.5), 20                                           | 47 (8.9), 60                                            |
+| Grade 3                                                 | 1 (0.4), 2                                              | 2 (1.5),4                                               | 0                                                       | 3 (0.6),6                                               |
+| Grade 4                                                 | 0                                                       | 0                                                       | 0                                                       | 0                                                       |
+| Grade 5                                                 | 0                                                       | 0                                                       | 0                                                       | 0                                                       |
+| Subjects with TEAE by Final Outcome                     |                                                         |                                                         |                                                         |                                                         |
+| Recovered/Resolved                                      | 41 (15.4), 47                                           | 23 (17.4), 32                                           | 19 (14.5), 21                                           | 83 (15.7), 100                                          |
+| Recovering/Resolving                                    | 5 (1.9), 5                                              | 7 (5.3), 8                                              | 3 (2.3), 3                                              | 15 (2.8), 16                                            |
+| Not Recovered/Not Resolved                              | 4(1.5).4                                                | 3 (2.3), 9                                              | 4 (3.1), 6                                              | 11 (2.1), 19                                            |
+| Recovered/Resolved with Sequelae                        | 1 (0.4), 1                                              | 0                                                       | 0                                                       | 1 (0.2), 1                                              |
+| Action Taken with the Study Drug for Subjects with TEAE | Action Taken with the Study Drug for Subjects with TEAE | Action Taken with the Study Drug for Subjects with TEAE | Action Taken with the Study Drug for Subjects with TEAE | Action Taken with the Study Drug for Subjects with TEAE |
+| Dose Not Changed                                        | 32 (12.0),36                                            | 22 (16.7), 39                                           | 14 (10.7), 15                                           | 68 (12.8),90                                            |
+| Not Applicable                                          | 18 (6.7), 21                                            | 8 (6.1), 10                                             | 12 (9.2), 15                                            | 38 (7.2), 46                                            |
+| Subjects with TEAE with Seriousness Criteria            | Subjects with TEAE with Seriousness Criteria            | Subjects with TEAE with Seriousness Criteria            | Subjects with TEAE with Seriousness Criteria            | Subjects with TEAE with Seriousness Criteria            |
+| Requires or Prolongs Hospitalization                    | 0,0                                                     | 2 (1.5).4                                               | 0,0                                                     | 2 (0.4), 4                                              |
+| AE With an Outcome of Death                             | 0, 0                                                    | 0,0                                                     | 0,0                                                     | 0,0                                                     |
+| SubjectsDiscontinuedfromthe StudyDuetoTEAE              | 0,0                                                     | 0,0                                                     | 0,0                                                     | 0,0                                                     |
+
+Abbreviations:AE=AdverseEvent;CSR=ClinicalStudyReport;CTCAE=CommonTerminologyCriteriaFor AdverseEvents;COVID-19=CoronavinusDisease2019;E=Numberofeventsmeetingthecondition; MedDRA=Medical Dictionary for Regulatory Activities; N=Number of subjects within each treatment am umder Safety Set; n=Total mumber of subjects meeting the condition; TEAE=Treatment-emergent Adverse Event.
+
+Percentages are based on number of subjects within each treatment armuder Safety Set (N).
+
+AEtemswerecodedusingMedDRArecentversion25.1.
+
+Subjects with more than 1 event were coumted only once for the maximum severity.
+
+Severe:SeveritywasbasedonCTCAEintensityGrades1 to5,Grades3to5wereconsideredassevere.
+
+Possibly related and probably related were considered as related to study medication, umlikely and umrelated were considered asuumrelated toStudy medication.
+
+Serious: Results in Death, Life threatening consequences, requires in-patient or prolongs hospitalization, results in persistent or significant disability/ incapacity, congenital anomaly/Birth defect, other medically important event.
+
+Source:Table34ofDMB-3115-2CSR.
+
+At SOC level, the most frequently reported TEAEs were reported in the SOC of 'infections and infestations' (9.6%) followed by 'investigations' (2.1%), 'musculoskeletal and connective tissue disorders' (1.7%), 'nervous system disorders' (2.1%), 'vascular disorders' (1.5%), and 'gastrointestinal disorders' (1.5%). The frequency of TEAEs by SOC was similar across groups.
+
+<div style=\"page-break-after: always\"></div>
+
+At PT level, the most frequent TEAEs was 'nasopharyngitis' (2.1%) followed by 'headache' (1.9%) and 'COVID-19' (1.7%). The frequency of TEAEs by PT was similar across groups.
+
+## Study DMB-3115-2: Treatment Related Adverse Events in Patients
+
+Overall
+
+Overall, 27 (4.5%) patients experienced 36 treatment-related TEAEs (DMB-3115: 14 [4.7%] patients and 18 related TEAEs; Stelara: 6 [3.6%] patients and 8 related TEAEs; Stelara switched to DMB-3115: 7 [5.3%] patients and 10 related TEAEs) in overall period. The number of patients with TEAEs related to the IP was comparable across the treatment groups.
+
+All the related TEAEs were Grade 1 (18 [3.0%] patients and 25 related TEAEs) or Grade 2 (9 [1.5%] patients and 11 related TEAEs) in intensity. The related TEAEs were comparable across treatment groups when reviewed by SOC &amp; PT.
+
+The treatment-related TEAEs by PT reported in ≥1% of subjects in any treatment arm were 'injection site induration' (2 events reported in 2 [1.2%] subjects in the EU-Stelara arm) and 'aspartate aminotransferase increased' (2 events reported in 2 [1.5%] subjects in the EU-Stelara switched to DMB-3115 arm) Table 17.
+
+Table 17: Study DMB-3115-2: TEAEs related to treatment reported in ≥ 1% of subjects in overall period by treatment, SOC and PT (safety analysis set)
+
+| System Organ Class Preferred Term                 | DMB-3115 (N=299) n (%) E                          | EU- STELARA (N=168) n (%) E                       | EU- STELARA Switched to DMB-3115 (N=131) n (%) E   | Overall (N=598) n (%) E                           |
+|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|----------------------------------------------------|---------------------------------------------------|
+| NumberofSubjectswithRelated TEAEs                 | 14 (4.7), 18                                      | 6 (3.6), 8                                        | 7 (5.3), 10                                        | 27 (4.5), 36                                      |
+| Generaldisorder'sand administrationsiteconditions | Generaldisorder'sand administrationsiteconditions | Generaldisorder'sand administrationsiteconditions | Generaldisorder'sand administrationsiteconditions  | Generaldisorder'sand administrationsiteconditions |
+| Injection site induration                         | 0,0                                               | 2 (1.2), 2                                        | 0,0                                                | 2 (0.3), 2                                        |
+| Investigations                                    | Investigations                                    | Investigations                                    | Investigations                                     | Investigations                                    |
+| Aspartate aminotransferase increased              | 0,0                                               | 1 (0.6), 1                                        | 2 (1.5), 2                                         | 3 (0.5), 3                                        |
+
+Abbreviations: E=number of events; EU=European Union; N=total number of subjects in the Safety Set in each treatment arm. n=number of subjects with at least one TEAE in each category; PT=preferred term;
+
+SOC=system organ class; TEAE=treatment-emergent adverse event.
+
+Adverse events were coded using Medical Dictionary for Regulatory Activities version 25.1.
+
+Percentages were based on Safety Analysis Set.
+
+Source:DMB-3115-2CSR Table14.3.1.6.
+
+All other related TEAEs were present in &lt;1% of the subjects.
+
+Period 1 - From Baseline to Week 28
+
+The incidence of related TEAEs was 14 [4.7%] patients and 17 related TEAEs for DMB-3115 and 13 [4.3%] patients and 18 related TEAEs for Stelara. The related TEAEs were comparable across treatment groups when reviewed by SOC &amp; PT. The number of patients with TEAEs not related to the IP was comparable between the treatment groups. All were non serious and either grade 1 or 2.
+
+<div style=\"page-break-after: always\"></div>
+
+## Period 2 - From Week 28 to Week 52
+
+One (0.4%) subject in the DMB-3115 arm reported possibly related TEAE (bronchitis) deemed non serious grade 2. No related TEAEs were reported in other treatment arms.
+
+## 2.6.8.3.  Serious adverse events, deaths, and other significant events
+
+## Deaths
+
+## Study DMB-3115-1:
+
+No deaths were reported in Study DMB-3115-1.
+
+## Study DMB-3115-2:
+
+In Study DMB-3115-2, there were 2 deaths due to TEAEs in the DMB-3115 arm (sudden cardiac death and COVID-19) and 1 death due to a TEAE in the EU-Stelara arm (COVID-19). The patient who died due to sudden cardiac death in DMB-3115 arm had bundle branch block in history, experienced a nonserious adverse event of hypertension and clinical diagnosis in autopsy record is sudden cardiac death, autopsy diagnosis was drowning, acute pancreatitis and influence of organism by alcohol. All deaths were reported during Period 1 and no deaths were considered related to study intervention.
+
+## SAEs in Healthy Subjects
+
+## Study DMB-3115-1:
+
+A treatment-emergent serious adverse event (SAE) of visual field defect (PT: optic ischemic neuropathy) was reported in 1 subject in the EU-Stelara arm. This was considered by the Investigator to be unrelated to the study treatment. The event resolved with treatment and resulted in a persistent disability. It is noted that within medical history of healthy subjects the incidence of eye disorders was higher in the EU-Stelara group 4% compared to DMB-3115 and US Stelara, 0% and 1% respectively.
+
+No serious TEAEs related to IP were reported.
+
+## SAEs in Patients
+
+## Study DMB-3115-2:
+
+## Overall
+
+Treatment-emergent SAEs are presented by system organ class (SOC) and PT for the overall period in Table 18. A total of 10 (1.7%) subjects experienced 13 treatment-emergent SAEs in the overall period. Three events in 3 patients resulted in death, 1 event in the DMB-3115 arm was life threatening, 10 events in 8 (1.3%) patients (4 patients each in DMB-3115 and Stelara arms) resulted in hospitalisation/prolongation of existing hospitalisation, and 1 event in the Stelara arm was other medically important event. The incidence of treatment-emergent SAEs was 1.7% and 3% of subjects for the DMB-3115 arm and EU-Stelara arm respectively. No treatment emergent SAEs were reported in EU-Stelara switched to DMB-3115 arm. None of the SAEs were considered to be related to study intervention.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 18: Treatment-emergent SAEs reported in the overall period by SOC and PT (safety set)
+
+| System Organ Class Preferred Term                                   | DMB-3115 (N = 299) n (%) E   | EU-STELARA (N=168) n(%) E   | EU-STELARA Switched to DMB-3115 (N =131) n (%) E   | Overall (N= 598) n(%) E   |
+|---------------------------------------------------------------------|------------------------------|-----------------------------|----------------------------------------------------|---------------------------|
+| Number of Subjects with Any Serious TEAEs                           | 5 (1.7), 6                   | 5 (3.0). 7                  | 0.0                                                | 10 (1.7), 13              |
+| Cardiac disorders                                                   | 2 (0.7), 2                   | 0, 0                        | 0.0                                                | 2 (0.3), 2                |
+| Acute myocardial infarction                                         | 1 (0.3). 1                   | 0, 0                        | 0.0                                                | 1 (0.2). 1                |
+| Atial fibrillation                                                  | 1 (0.3). 1                   | 0,0                         | 0,0                                                | 1 (0.2). 1                |
+| General disorders and administration siteconditions                 | 1 (0.3), 1                   | 0, 0                        | 0,0                                                | 1 (0.2), 1                |
+| Sudden cardiac death                                                | 1 (0.3), 1                   | 0, 0                        | 0,0                                                | 1 (0.2), 1                |
+| Infections and infestations                                         | 1 (0.3), 1                   | 2 (1.2), 2                  | 0,0                                                | 3 (0.5), 3                |
+| COVID-19                                                            | 1 (0.3), 1                   | 1 (0.6). 1                  | 0.0                                                | 2 (0.3), 2                |
+| COVID-19 pneumomia                                                  | 0,0                          | 1 (0.6).1                   | 0,0                                                | 1 (0.2), 1                |
+| Injury, poisoning and procedural complications                      | 1 (0.3), 1                   | 0,0                         | 0.0                                                | 1 (0.2), 1                |
+| Humerus fiacture                                                    | 1 (0.3), 1                   | 0, 0                        | 0,0                                                | 1 (0.2), 1                |
+| Musculoskeletal and connective tissue disorders                     | 0,0                          | 1(0.6).3                    | 0.0                                                | 1 (0.2), 3                |
+| Back pain                                                           | 0,0                          | 1 (0.6), 1                  | 0,0                                                | 1 (0.2), 1                |
+| Intervertebral disc disorder                                        | 0,0                          | 1 (0.6),2                   | 0, 0                                               | 1 (0.2), 2                |
+| Neoplasms bemigl, malignant and unspecified (incl cysts and polyps) | 1 (0.3), 1                   | 0,0                         | 0,0                                                | 1 (0.2), 1                |
+| Gashic cancer                                                       | 1 (0.3), 1                   | 0,0                         | 0,0                                                | 1 (0.2), 1                |
+| Nervous svstem disorders                                            | 0,0                          | 1 (0.6), 1                  | 0,0                                                | 1 (0.2), 1                |
+| VIth nerve paralysis                                                | 0,0                          | 1 (0.6). 1                  | 0.0                                                | 1 (0.2), 1                |
+| Vascular disorders                                                  | 0,0                          | 1 (0.6). 1                  | 0,0                                                | 1 (0.2), 1                |
+| Hypertension                                                        | 0,0                          | 1 (0.6). 1                  | 0.0                                                | 1 (0.2), 1                |
+
+Abbreviations: COVID-19=Coronavins Disease 2019; E=mumber of TEAEs in each category; EU=European Union; N=total mumber of subjects in the Safety Set in each treatment arm; n=mumber of subjects with at least 1 TEAE in each category; PT=preferred tem; SOC=system organ class; TEAE=treatment-emergent adverse event.
+
+Adverse events were coded using Medical Dictionary for Regulatory Activities version 25.1.
+
+Subjects with more than 1 event within an interval, SOC or PT were coumted only once in the interval for that SOC or PT.
+
+Percentages were based on the mumber of subjects in Safety set in respective treatment aum (N)
+
+Primary SOCs were presented alphabetically; PIs were sorted within each primary SOC in descending order of subject fequency. If the fequency of the PTs were tied, the PTs were ordered alphabetically.
+
+## TEAEs of Special Interest
+
+Study DMB-3115-1:
+
+No adverse events of special interest (AESIs) were defined for Study DMB-3115-1.
+
+## Local tolerability
+
+In total, 88 injection site reactions (ISRs), all of mild intensity, were reported in 27 subjects. Most ISRs were bruising (71 events reported in 15 subjects) caused by the SC injection technique. The most common ISR related to the study treatment was erythema (10 events reported in 10 subjects). All
+
+<div style=\"page-break-after: always\"></div>
+
+these events of erythema occurred at 1 hour after the treatment injection and were fully resolved at 12 hours after the treatment injection.
+
+Study DMB-3115-2:
+
+A total of 16 Treatment-emergent Adverse Events of special interest (AESI) were reported in 13 (2.2%) subjects and the incidence was comparable across treatment arms (DMB-3115: 7 [2.3%] subjects and 9 AESIs; EU-Stelara: 6 [2.0%] subjects and 7 AESIs). All treatment-emergent AESI were reported during Period 1. No treatment-emergent AESI were reported during Period 2. Of 16 AESIs, 12 AESIs in 10 (1.7%) patients were related to study intervention (DMB-3115: 5 [1.7%] patients and 6 AESIs; Stelara: 5 [1.7%] patients and 6 AESIs). 'Injection site reactions' was the only AESI reported for more than 1 subject in both treatment arms. Table 19 below outlines TEAESI in study DMB-3115-2.
+
+Table 19: Treatment-emergent AESI in period 1 by category (safety set)
+
+| AESI Category                      | DMB-3115 (N = 299) n (%) E   | EU-STELARA (N = 299) n (%) E   | Overall (N = 598) n (%) E   |
+|------------------------------------|------------------------------|--------------------------------|-----------------------------|
+| Confirmed Myocardial Infarction    | 1 (0.3), 1                   | 0,0                            | 1 (0.2), 1                  |
+| Congestive Heart Failure           | 1 (0.3), 1                   | 0,0                            | 1 (0.2), 1                  |
+| Hypersensitivity Reactions         | 1 (0.3), 1                   | 0,0                            | 1 (0.2), 1                  |
+| InjectionSiteReactions             | 3 (1.0), 4                   | 5 (1.7), 6                     | 8 (1.3), 10                 |
+| Malignancies                       | 1 (0.3), 1                   | 0,0                            | 1 (0.2), 1                  |
+| Neurologic Or Demyelinating Events | 0,0                          | 1 (0.3), 1                     | 1 (0.2), 1                  |
+| Opportunistic Infections           | 1 (0.3), 1                   | 0,0                            | 1 (0.2), 1                  |
+
+Abbreviations: AESI=adverse event of special interest; E=number of TEAEs in each category; EU=European Union; N=total number of subjects in the Safety Set in each treatment arm; n=number of subjects with at least 1 TEAE in each category; TEAE = treatment-emergent adverse event.
+
+AEs are coded using the MedDRA dictionary, version 25.1
+
+Source:Table 41of DMB-3115-2CSR.
+
+## 2.6.8.4.  Laboratory findings
+
+Study DMB-3115-1:
+
+There were no relevant trends observed for clinical laboratory values for haematology, coagulation, clinical chemistry, and urinalysis. There were no clinically significant urinalysis, viral serology, urine drug screening and cotinine test values. There were no relevant trends observed for vital signs, physical exam findings or ECG.
+
+Three participants experienced severe TEAEs of aspartate aminotransferase (AST) and/or alanine aminotransferase (ALT) elevations above 5-fold of the upper limit of normal. These were reported as severe, non-serious and resolved. Only one was considered clinically significant. One was related to DMB-3115 whereas the other two were related to US Stelara. All were considered related to physical activity.
+
+In addition, there were AST elevations above 3-fold of the ULN observed in 4 participants. These were reported as clinically significant and resolved. These LFTs elevations occurred more frequently in the Stelara group however, with only one case in the DMB-3115 group.
+
+<div style=\"page-break-after: always\"></div>
+
+## Study DMB-3115-2:
+
+Listing for laboratory measurement (haematology, blood chemistry, coagulation and urinalysis) are provided. There were no relevant trends observed for clinical laboratory values for haematology, coagulation, clinical chemistry, and urinalysis. There were no abnormal clinical findings related to coagulation parameters and urinalysis parameters. The majority of patients in the treatments' arms had haematology parameters and biochemistry parameters within the laboratory reference range. None of the abnormal haematological values were considered to be clinically significant.
+
+There were 5 TEAEs of LFTs elevations. These were reported as non-serious, and not related to study intervention. In period 1, 1 patient from Stelara arm had abnormal high levels of ALT and AST, 1 patient from Stelara arm had abnormal high levels of bilirubin. In period 2, 1 patient in DMB-3115 arm had abnormal high levels of alanine aminotransferase and aspartate aminotransferase and TEAE (transaminases increased), 2 patients in Stelara arm had abnormal high levels of ALT and/or AST. This occurred in the Stelara group for the majority, however there was 1 case of high levels of ALT/AST in the DMB-3115 group.
+
+There were no relevant trends observed for vital signs, physical exam findings or ECG. Clinically significant changes in vitals, physical exam or ECG were reported as TEAEs. In both arms TEAEs associated with increased blood pressure were reported with similar frequencies. All the TEAEs were non-serious and either Grade 1 or 2 in intensity. A total of 4 patients (DMB-3115: 1; Stelara: 3) had abnormal, clinically significant ECG findings in Period 1, all assessed by the investigator as a Grade 1 non-serious TEAEs, only in one case in Stelara arm possibly related to the study intervention.
+
+There was a slightly higher frequency of clinically significant physical examination findings reported as TEAEs in the DMB-3115 group compared to Stelara. During Period 1, 13 subjects in the DMB-3115 arm had 13 TEAEs, compared to 2 subjects in the Stelara arm with 4 TEAEs. During Period 1, 2 subjects in the DMB-3115 arm had 2 TEAEs. All were considered non serious. There was a higher frequency of skin related physical exam findings in the DMB-3115 arm, 7/299 (2.3%) in Period 1 and 2/267 (0.7%) in Period 2; including vitiligo, folliculitis, urticaria, penile wart, erythema migrans, herpes simplex and dermatitis. All were considered non serious and Grade 1 in severity with the exception of three which were considered Grade 2; psoriasis and erythema migrans (x2). Of the 9 clinically significant dermatology physical examination findings, 4 were considered related to IMP; psoriasis, Herpes simplex, Folliculitis, and Urticaria. These physical exam findings have been reported as TEAEs/treatment related TEAEs and assessed across the study groups and phases (see discussion for more detail).
+
+## 2.6.8.5.  In vitro biomarker test for patient selection for safety
+
+Not applicable.
+
+## 2.6.8.6.  Safety in special populations
+
+Not applicable.
+
+## 2.6.8.7.  Immunological events
+
+## ADA and nAb formation in healthy subjects: DMB-3115-1
+
+Immunogenicity samples for analysis of ADAs and nAbs of DMB-3115 or Stelara were collected in healthy subjects on Day 1 (pre-dose), and on Days 6, 14, 28, 56, and 112 (Week 16, End of Study).
+
+<div style=\"page-break-after: always\"></div>
+
+At pre-dose on Day 1, 24 (8.1%) healthy subjects among 296 subjects were determined to be ADA positive: 6 subjects in the DMB-3115 treatment group, 8 subjects in the EU Stelara treatment group, and 10 subjects in the US Stelara treatment group.
+
+Following single s.c. administration, in the 3 treatment groups DMB-3115, EU-Stelara and US-Stelara, ADAs and nAbs progressively increased over time, reaching a maximum at Day 14, and decreased toward the end of the study. The incidence of subjects with ADA at each timepoint was lower in the DMB-3115 treatment group compared to that in the EU or US Stelara treatment group. The overall incidence of positive ADA results appeared lower for DMB-3115 treatment (17.3% on Day 14) compared with EU-Stelara (55.6% on Day 14) and US-Stelara (55.1% on Day 14) treatment. Table 20 outlines the number of subjects with true positive results for ADA.
+
+Table 20: Summary of positive ADA results treatment at each measurement time (safety
+
+|                     |                    | nADA / nTOTAL (%) a   | nADA / nTOTAL (%) a   | nADA / nTOTAL (%) a   |
+|---------------------|--------------------|-----------------------|-----------------------|-----------------------|
+| Immunogenicity Test | Visit              | DMB-3115 (N=99)       | EU-STELARA (N=99)     | US-STELARA (N=98)     |
+| ADA b               | Day 1 (Baseline) c | 6 / 99 (6.1)          | 8 / 99 (8.1)          | 10 / 98 (10.2)        |
+| ADA b               | Day 6              | 3 / 98 (3.1)          | 23 / 99 (23.2)        | 23 / 98 (23.5)        |
+| ADA b               | Day 14             | 17 / 98 (17.3)        | 55 / 99 (55.6)        | 54 / 98 (55.1)        |
+| ADA b               | Day 28             | 16 / 97 (16.5)        | 41 / 99 (41.4)        | 34 / 97 (35.1)        |
+| ADA b               | Day 56             | 9 / 97 (9.3)          | 25 / 96 (26.0)        | 25 / 97 (25.8)        |
+| ADA b               | End of Study       | 15 / 98 (15.3)        | 27 / 99 (27.3)        | 30 / 98 (30.6)        |
+
+Abbreviations: ADA=Anti-drug Antibody; CSR=Clinical Study Report; nADA=Number of subjects with true positive result (on ADA confirmatory test); nTOTAL=Total number of non-missing samples assessed for ADA at a time point; N=Number of subjects in Safety Analysis Set.
+
+- a. Percent has been calculated specifically for the purpose of presentation in this table as [(nADA / nTOTAL) * 100].
+- b. Results presented are the true positive results based on confirmatory testing.
+
+c. Last observation prior to first drug administration.
+
+analysis set)
+
+For subjects who had positive ADAs, the incidence of subjects with nAb at each timepoint was lower in the DMB-3115 treatment group compared to that in the EU or US Stelara treatment group, except at Day 28. The incidence of nAbs was numerically lower in the DMB-3115, compared to EU-Stelara, and US-Stelara treatment arms: 47.1%, 56.4%, and 53.7%, respectively, on Day 14. Table 21 outlines the number of subjects with positive results for nAb.
+
+Table 21: Summary of positive nAb results by treatment at each measurement time (safety analysis set)
+
+| Immunogenicity Test   |                    | nnAb / nADA (%)   | nnAb / nADA (%)   | nnAb / nADA (%)   |
+|-----------------------|--------------------|-------------------|-------------------|-------------------|
+| Immunogenicity Test   | Visit              | DMB-3115 (N=99)   | EU-STELARA (66=N) | US-STELARA (N=98) |
+| nAb                   | Day 1 (Baseline) a | 0/6               | 0/8               | 5 / 10 (50.0)     |
+| nAb                   | Day 6              | 0/3               | 5 / 23 (21.7)     | 4 / 23 (17.4)     |
+| nAb                   | Day 14             | 8 / 17 (47.1)     | 31 / 55 (56.4)    | 29 / 54 (53.7)    |
+| nAb                   | Day 28             | 7 / 16 (43.8)     | 16 / 41 (39.0)    | 10 / 34 (29.4)    |
+| nAb                   | Day 56             | 3 / 9 (33.3)      | 13 / 25 (52.0)    | 7/ 25 (28.0)      |
+| nAb                   | End of Study       | 6 /15 (40.0)      | 11 / 27 (40.7)    | 15 / 30 (50.0)    |
+
+Abbreviations: ADA=Anti-drug Antibody; CSR=Clinical Study Report; nAb=Neutralizing Antibody; nnAb=Number of subjects with a positive nAb result; nADA=Total number of subjects with a true positive ADA result on confirmatory testing; N=Number of subjects in Safety Analysis Set.
+
+a.Last observation prior to first drug administration.
+
+Source: DMB-3115-1 CSR Table 14.3.7.1.
+
+<div style=\"page-break-after: always\"></div>
+
+## ADA and nAb formation in plaque psoriasis patients: DMB-3115-2
+
+Immunogenicity samples for analysis of ADAs and nAbs of DMB-3115 or EU-Stelara were collected in subjects in study DMB-3115-2 at Week 0/Day 1 (pre-dose) and at Weeks 0/Day 2, weeks 2, 4 (predose), 8, 12, 16 (pre-dose), 28 (pre-dose), 40 (pre-dose), and 52 (End of Study).
+
+## Overall period
+
+The proportion of subjects with confirmatory positive ADA increased from Week 0/Day1 to Week 2 followed by a generally gradual decline and maintained to Week 52 follow-up visit across all the treatment groups, Table 22. At week 2 the incidences of positive ADA results were lowest for DMB3115 treatment. From a visit-by visit perspective, the proportion of subjects with ADA confirmed positivity was higher in EU-Stelara switched to DMB-3115 arm compared to DMB-3115 and EU-Stelara arms at Week 0/Day 1, Week 0/Day 2, and Weeks 2, 4, 8, 12, 16, and 28, whereas it was numerically higher in EU-Stelara arm at Weeks 40 and 52. At week 52, a lower incidence of positive ADA was observed for DMB-3115 arm (8.9% for the DMB-3115, 21.5% for the Stelara group, 18.7% for the Stelara switched to DMB-3115 group). The overall incidences of positive ADA results were lower for DMB-3115 treatment compared to EU-Stelara and EU-Stelara switched to DMB-3115 treatments (positive ADA incidence of 34.2%, 60.1%, and 70.0% for DMB-3115, EU-Stelara, and EU-Stelara switched to DMB-3115 treatment groups, respectively).
+
+Quite high proportion of subjects (n-39) had week 0/Day 1 (pre-dose) confirmed ADA positivity (DMB3115 arm: 20 subjects (6.7 %) and Stelara arm: 19 subjects (6.4%)).
+
+Table 22: DMB-3115-2: Summary of positive anti-drug antibody results by treatment overall period (safety set)
+
+| Visit                    | DMB-3115 (n=299)   | Stelara (n=168)   | Stelara Switched to DMB-3115 (n=131)   | Total (n=598)   |
+|--------------------------|--------------------|-------------------|----------------------------------------|-----------------|
+| Week 0/Day 1             | 20 (6.7)           | 8 (4.8)           | 11 (8.4)                               | 39 (6.5)        |
+| Week 0/Day 2             | 16 (5.4)           | 6 (3.6)           | 9 (6.9)                                | 31 (5.2)        |
+| Week 2                   | 70 (23.6)          | 88 (53.3)         | 85 (64.9)                              | 243 (41)        |
+| Week 4                   | 62 (20.8)          | 59 (35.5)         | 57 (43.5)                              | 178 (29.9)      |
+| Week 8                   | 40 (13.6)          | 45 (27.1)         | 45 (34.6)                              | 130 (22)        |
+| Week 12                  | 37 (12.6)          | 41 (25.2)         | 42 (32.3)                              | 120 (20.4)      |
+| Week 16                  | 46 (16.1)          | 45 (28.8)         | 42 (32.1)                              | 133 (23.2)      |
+| Week 28                  | 38 (13.8)          | 33 (23.2)         | 38 (29)                                | 109 (19.9)      |
+| Week 40                  | 30 (11.6)          | 30 (22.9)         | 25 (20)                                | 85 (16.5)       |
+| Early termination (ET)   | 1                  | 4                 | 0                                      | 5               |
+| EoS Follow- up           | 23 (8.9)           | 28 (21.5)         | 23 (18.7)                              | 74 (14.5)       |
+| Safety follow-up Week 16 | 0                  | 2                 | 0                                      | 2               |
+| Safety follow-up Week 20 | 0                  | 3                 | 0                                      | 3               |
+| Safety follow-up Week 40 | 3                  | 5                 | 0                                      | 8               |
+| Safety follow-up Week 52 | 2                  | 5                 | 1                                      | 8               |
+
+<div style=\"page-break-after: always\"></div>
+
+Table 23 outlines the proportion of subjects with positive results for nAb. The number of subjects with neutralising positive ADA (nAb) increased from Week 0/Day1 to Week 2 in DMB-3115 arm, in Stelara and Stelara switch to DMB-3115 increased to Week 0/Day 2. At week 0 Day 2 Stelara group had the highest incidence of nAb (83.3%) compared to DMB-3115 (62.5%) and Stelara switch to DMB-3115 (66.7%). The proportion of positivity then fluctuated across all groups until Week 52 follow-up visit. Each group had a similar number of timepoints having the highest incidence of nAb. At the Week 52 follow-up visit, the proportion of subjects with positive nAb was comparable between the groups but, was numerically higher in the EU-Stelara switched to DMB-3115 arm (43.5%, 43.3% and 47.8% respectively).
+
+The overall incidences of positive nAb results were lower for DMB-3115 treatment compared to EUStelara and EU-Stelara switched to DMB-3115 treatments (positive nAb incidence of 28.5%, 46.4%, and 60.0% for DMB-3115, EU-Stelara, and EU-Stelara switched to DMB-3115 treatment groups, respectively).
+
+The trends of positive nAb did not match the timepoint trends of positive ADA within the EU-Stelara switched to DMB-3115 arm. For this group the proportion of subjects with positive ADA was higher at Week 0/Day 1, Week 0/Day 2, and Weeks 2, 4, 8, 12, 16, and 28, whereas the proportion of subjects with nAb was highest at Week 8, 40 and 52 only.
+
+With regards to the Stelara switched to DMB-3115 arm, the applicant reported that the overall incidences of positive ADA and nAb results were higher for EU-Stelara switched to DMB-3115 treatments (positive ADA incidence of 70%; positive nAb incidence of 60%) when compared to DMB3115 (34.2%, 28.5% respectively) and EU-Stelara (60.1%, 46.4% respectively).
+
+The ADA confirmed positivity was comparable between EU-Stelara and EU-Stelara switched to DMB3115 arms but was higher than DMB-3115 arm at Week 40 and Week 52/EoS.
+
+-  ADA positivity at week 28 was as follows: DMB-3115 (13.8%), and Stelara (26%).
+-  ADA positivity at week 40 was as follows: DMB-3115 (11.6%), Stelara (22.9%), and Stelara switched to DMB-3115 (20%).
+-  ADA positivity at week 52 was as follows: DMB-3115 (8.9%), Stelara (21.5%), and Stelara switched to DMB-3115 (18.7%).
+
+There was no significant increase in ADA positivity for the switch group compared to ADA positivity in Stelara at week 28 previously. Overall, the arm DMB-3115 showed lower immunogenicity than Stelara arm (EOS: 8.9% vs. 21.5%, respectively). It can be assumed that the increasing of immunogenicity after switching from DMB-3115 to the Stelara is caused by Stelara.
+
+The nAb confirmed positivity was comparable between EU-Stelara, DMB-3115 and EU-Stelara switched to DMB-3115 arms at Week 40 and Week 52/EoS.
+
+-  nAb positivity at week 28 was as follows: DMB-3115 (65.8%), and Stelara (54.2%).
+-  nAb positivity at week 40 was as follows: DMB-3115 (50%), Stelara (51.8%), and Stelara switched to DMB-3115 (56%).
+-  nAb positivity at week 52/EoS was as follows: DMB-3115 (43.5%), Stelara (43.3%), and Stelara switched to DMB-3115 (47.8%).
+
+There is a slight increase in nAb positivity for the switch group compared to nAb positivity in Stelara at week 28 previously, 54.2% up to 56%. However this then reduces in line with the other treatment groups at week 52. The nAb positivity fluctuates across all groups across the overall study period.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 23: DMB-3115-2: Summary of positive nAb results by treatment overall period (safety set)
+
+| Visit                    | DMB-3115 (n=299)   | Stelara (n=168)   | Stelara Switched to DMB-3115 (n=131)   | Total (n=598)   |
+|--------------------------|--------------------|-------------------|----------------------------------------|-----------------|
+| Week 0/Day 1             | 11 (55)            | 4 (50)            | 4 (36.4)                               | 19 (48.7)       |
+| Week 0/Day 2             | 10 (62.5)          | 5 (83.3)          | 6 (66.7)                               | 21 (67.7)       |
+| Week 2                   | 47 (66.2)          | 54 (61.4)         | 51 (60)                                | 152 (62.3)      |
+| Week 4                   | 39 (62.9)          | 36 (61)           | 31 (54.4)                              | 106 (59.6)      |
+| Week 8                   | 20 (50)            | 29 (64.4)         | 31 (68.9)                              | 80 (61.5)       |
+| Week 12                  | 17 (45.9)          | 24 (58.5)         | 17 (40.5)                              | 58 (48.3)       |
+| Week 16                  | 26 (55.3)          | 32 (71.1)         | 20 (47.6)                              | 78 (58.2)       |
+| Week 28                  | 25 (65.8)          | 20 (60.6)         | 19 (48.7)                              | 64 (58.2)       |
+| Week 40                  | 15 (50)            | 16 (51.6)         | 14 (56)                                | 45 (52.3)       |
+| Early termination        | 0                  | 1                 | 0                                      | 1               |
+| EoS Follow- up           | 10 (43.5)          | 13 (43.3)         | 11 (47.8)                              | 34 (44.7)       |
+| Safety follow-up Week 16 | 0                  | 0                 | 0                                      | 0               |
+| Safety follow-up Week 20 | 0                  | 3                 | 0                                      | 3               |
+| Safety follow-up Week 40 | 1                  | 2                 | 0                                      | 3               |
+| Safety follow-up Week 52 | 1                  | 1                 | 0                                      | 2               |
+
+In period 1, the change in geometric mean signal to noise ratio (S/N) from baseline was higher in EUStelara arm compared to DMB-3115 arm at Weeks 2, 4, and 8 while it was comparable at Week 0/Day 2, Weeks 12, 16, and 28 between both treatment arms. For period 2, the change in geometric mean S/N from baseline to Week 40 and Week 52 was comparable between EU-Stelara and EU-Stelara switched to DMB-3115 arms but was lower in the DMB-3115 arm.
+
+## Period 1
+
+The proportion of subjects with positive ADA in period 1 follows the overall trend. The proportion of subjects with confirmatory positive ADA increased from Week 0/Day1 to Week 2 followed by a generally gradual decline and maintained at Week 28 in both groups. At week 2 the incidences of positive ADA results were lower for DMB-3115 treatment compared to Stelara, 23.5% vs 58.4%. At week 28 the incidences of positive ADA results were lower for DMB-3115 treatment compared to Stelara, 13.8% vs 26%. The proportion of subjects with ADA confirmed positivity was numerically higher in EU-Stelara arm compared to DMB-3115 arm at Weeks 2, 4, 8, 12, 16, and 28.
+
+The proportion of subjects with positive nAb fluctuated during Period 1 and increased from Week 0/Day 1 (48.7%) to Week 28 (58.2%) in both treatment groups. Week 0 Day 2 represented the highest proportion of subjects with nAb (67.7%). DMB-3115 had a higher frequency of nAb compared to Stelara at baseline, week 2, week 4, and week 28.  Stelara had a higher frequency of nAb compared to DMB-3115 at week 0 Day 2, week 8, 12, and 16.
+
+## Period 2
+
+The proportion of subjects with positive ADA in period 2 continued to decline. The incidences of positive ADA results were higher for Stelara group compared to DMB-3115 and was comparable between EU-
+
+<div style=\"page-break-after: always\"></div>
+
+Stelara and EU-Stelara switched to DMB-3115 arms. The proportion of subjects with nAb declined in period 2. The incidences of positive ADA results were higher for Stelara switch to DMB-3115 group compared to DMB-3115 and Stelara groups across all time points.
+
+## Immunogenicity Impact on Safety
+
+TEAEs were stratified by the presence or absence of anti-drug antibody (ADA) and neutralising antibody (nAb) in the safety analysis population for both studies.
+
+## Study DMB-3115-1
+
+For ADA negative subjects, the overall number of participants who experience TEAEs was similar across the 3 treatment groups; DMB-3155 n=41 (E=92) (57.7%), EU-Stelara n=25 (E=57) (62.5%) and USStelara n= 21 (E=44) (56.8%). For ADA positive subjects, the overall number of participants who experience TEAEs was similar across the 3 treatment groups; DMB-3155 n=20 (E=46) (71.4%), EUStelara n=39 (E=94) (66.1%) and US-Stelara n=35 (E=83) (57.4%). There was no PT that  DMB-3115 had a significantly higher incidence of ADA positivity.
+
+For nAb negative subjects, the overall number of participants who experience TEAEs was similar across the 3 treatment groups; DMB-3155 n=50 (E=116) (60.2%), EU-Stelara n=38 (E=89) (60.3%) and USStelara n=35 (E=76) (54.7%). For nAb positive subjects, the overall number of participants who experience TEAEs was similar across the 3 treatment groups; DMB-3155 n=11 (E=22) (68.8%), EUStelara n=26 (E=62) (72.2%) and US-Stelara n=21 (E=51) (61.8%). There was no PT that  DMB-3115 had a significantly higher incidence of nAb positivity.
+
+## Study DMB-3115-2
+
+For period 1, period 2 and overall, there was no evidence of an impact of ADA/nAb status on the TEAE profile for either treatment arm. The incidence of TEAEs, serious TEAEs, treatment -related TEAEs, Grade 3+ TEAEs, and drug withdrawals due to TEAEs was broadly similar regardless of ADA/nAb status. An analysis of TEAEs by ADA/nAb status in terms of system organ class (SOC) and preferred term (PT) did not show an impact of ADA/nAb status on the incidence of TEAEs at the level of SOC and PT.
+
+Overall, in the clinical Phase III study (DMB-3115-2) conducted in 598 patients with moderate to severe plaque PsO with multiple doses of DMB-3115 or Stelara, lower incidence of overall positive ADA was observed in the DMB-3115 treatment group both at Week 28 (13.8% for the DMB-3115 and 26% for the Stelara) and Week 52 (8.9% for the DMB-3115, 21.5% for the Stelara group, 18.7% for the Stelara switched to DMB-3115 group). At week 52 there was a lower incidence of positive nAb observed in the DMB-3115 treatment group (43.5% for the DMB-3115, 43.3% for the Stelara group, 47.8% for the Stelara switched to DMB-3115 group).
+
+## 2.6.8.8.  Safety related to drug-drug interactions and other interactions
+
+Not applicable.
+
+## 2.6.8.9.  Discontinuation due to adverse events
+
+There were no early terminations or discontinuations in Study DMB-3115-1 due to TEAEs.
+
+In study DMB-3115-2, 32 (5.4%) subjects discontinued the study intervention due to TEAEs. 21 (3.5%) subjects were withdrawn from the study due to TEAEs. All events occurred in period 1.
+
+A higher proportion of subjects experienced TEAEs that led to study discontinuation in the Stelara arm (19 [6.4%] subjects) compared with DMB-3115 arm (13 [4.3%] subjects). The most common TEAE that
+
+<div style=\"page-break-after: always\"></div>
+
+resulted in discontinuation of study intervention in Period 1 was COVID-19 (DMB-3115: 12 [4%] subjects; EU-Stelara: 16 [5.4%] subjects).
+
+A numerically higher proportion of subjects experienced TEAEs that led to withdrawal from the study in the Stelara arm (4.3% subjects due to 15 TEAEs) compared with DMB-3115 arm (2.7% subjects due to 8 TEAEs). The most common TEAE that led to withdrawal of subjects in Period 1 was COVID-19 (DMB3115: 6 [2.0%] subjects; EU-Stelara: 10 [3.3%] subject).
+
+## 2.6.8.10.  Post marketing experience
+
+Not applicable.
+
+## 2.6.9.  Discussion on clinical safety
+
+The clinical safety of DMB-3115 has been assessed in two clinical studies, a clinical Phase I pharmacokinetic (PK) study in healthy subjects (DMB-3115-1) and a clinical Phase III efficacy and safety study in patients with moderate to severe plaque psoriasis (DMB-3115-2).
+
+The safety analysis set of study DMB-3115-1 included 296 subjects who were randomised and received a single dose of ustekinumab with 99 subjects in each treatment group (DMB-3115, EU Stelara, or US Stelara).
+
+In Study DMB-3115-2, a total of 598 patients were randomised in 1:1 ratio to receive either DMB-3115 or Stelara via subcutaneous (SC) injection at Week 0, Week 4 and Week 16.  531 (88.8%) patients completed 28 weeks of the study (DMB-3115: 268; Stelara: 263). All 598 subjects were included in the Safety Set for Period 1. In Period 2, all 531 patients who completed phase 1 were re-randomised to DMB-3115-DMB-3115 (n=268), Stelara-Stelara (n=132), and Stelara-DMB-3115 (n=131) arms. The Safety set included 530 patients who received at least 1 dose of the study treatment in Period 2.
+
+## Demographic and baseline characteristics
+
+The demographic and baseline characteristics were generally comparable across the treatment groups in both studies.
+
+## Adverse events
+
+## Study DMB-3115-1
+
+In Study DMB-3115-1, in healthy volunteers after single dose, the proportion of subjects who experienced TEAEs was similar across the groups, 61.6%, 64.6%, and 57.1% for the DMB-3115, EUStelara, and US-Stelara arms, respectively. In total, 416 treatment-related adverse events (TEAEs) were reported in 181 (61.1%) subjects.
+
+Most TEAEs were of mild intensity (332 events reported in 119 [40.2%] subjects). Both the EU-Stelara group and US-Stelara group had the highest frequencies of moderate and severe TEAEs respectively. There were 3 severe TEAEs related to abnormal laboratory results of more than 5-fold of the upper limit of normal [ULN]; DMB-3115: transaminases increased, US-Stelara: aspartate aminotransferase increased and transaminases increased. All of these severe TEAEs were resolved and were considered by the Investigator to be unrelated to the IMPs and not serious.
+
+There were no reported deaths, no TEAEs leading to withdrawal, and 1 serious adverse event (SAE) in EU-Stelara.
+
+The most frequently reported TEAEs in all treatment groups at PT level were 'headache', 'nasopharyngitis', 'back pain', 'diarrhoea', and 'oropharyngeal pain'. The reported TEAEs corresponded
+
+<div style=\"page-break-after: always\"></div>
+
+with the known safety profile of ustekinumab and no new unexpected TEAEs related to DMB-3115 were recorded.
+
+The proportion of subjects who experienced TEAEs considered to be related to the IP by the Investigator were comparable across the three treatment groups; DMB-3115: 27 events in 18 [18.2%] subjects, EU-Stelara: 31 events in 23 [23.2%] subjects, US-Stelara: 39 events in 28 [28.6%] subjects. Most were considered of mild intensity, and none were considered serious. The most frequently reported TEAEs suspected to be IP-related were 'nasopharyngitis' and 'headache'; both are known ADRs. Nasopharyngitis was reported with a comparable frequency across cohorts. Headache was reported with a lower frequency in the DMB-3115 group.
+
+In general, the safety profile reported in Study DMB-3115-1 for DMB-3115 is comparable to the EU and US Stelara treatment groups. The DMB-3115 group had comparable frequencies in overall TEAEs reported and moderate TEAEs compared with the EU and US Stelara treatment groups. SOC and PT were comparable. Overall, the safety profile is consistent with the known safety profile of Stelara. The applicant admits that minor variations in safety profile between DMB-3115 and EU-Stelara are expected since the micro-structure is not identical between the active substances in both products. This is acceptable.
+
+## Study DMB-3115-2
+
+The safety results are presented in 3 separate time periods, the Overall Period (n=598), period 1 (n=598), IP administration at Weeks 0, 4, 16 and period 2 (n=530) IP administration at Weeks 28 and 40.
+
+In the Overall Period, a total of 330 (55.2%) subjects experienced 686 TEAEs. The proportion of patients who reported at least one TEAE is comparable across the treatment groups; 162 (54.2%) DMB-3115, 95 (56.5%) EU-Stelara, and 73 (55.7%) EU-Stelara switched to DMB-3115 arms.
+
+The majority of the TEAEs were mild or moderate in severity, and these incidences were comparable across the treatment groups. Ten subjects had 16 severe TEAEs (Grade 3 to 5) (DMB-3115: 6 [2.0%] subjects; EU-Stelara: 4 [2.4%] subjects). This was comparable across the groups. The proportion of TEAEs related to IP and SAEs were similar across the treatment groups. There were 3 deaths reported in period 1 and not considered related to study intervention.
+
+In general, the incidences and frequency of the majority of the TEAEs by SOC and PT in the DMB-3115 arm were similar to the comparison groups in the Overall period. At SOC level, the most frequently reported TEAEs were reported in the SOC of 'infections and infestations'. At PT level, the most frequent TEAEs was 'nasopharyngitis' followed by 'COVID-19' and 'hypertension'.
+
+Overall, 27 (4.5%) patients experienced 36 treatment-related TEAEs. The number of patients with TEAEs related to the IP was comparable across the treatment groups; (DMB-3115: 14 [4.7%] patients and 18 related TEAEs; Stelara: 6 [3.6%] patients and 8 related TEAEs; Stelara switched to DMB-3115: 7 [5.3%] patients and 10 related TEAEs). None of the treatment-related TEAEs were serious. The treatment-related TEAEs by PT reported in ≥1% of subjects in any treatment arm were injection site induration (2 events reported in 2 [1.2%] subjects in the EU-Stelara arm) and aspartate aminotransferase increased (2 events reported in 2 [1.5%] subjects in the EU-Stelara switched to DMB-3115 arm).
+
+A total of 10 (1.7%) subjects experienced 13 treatment-emergent SAEs in the overall period. The incidence of treatment-emergent SAEs was comparable between DMB-3115 and Stelara treatment groups, 1.7% and 3% of subjects respectively, being numerically lower for DMB-3115. No treatment emergent SAEs were reported in EU-Stelara switched to DMB-3115 arm. At SOC level and PT level the
+
+<div style=\"page-break-after: always\"></div>
+
+frequency of SAEs was low which makes it difficult to compare groups. None of the SAEs were considered related to study intervention. The majority of SAEs occurred in period 1.
+
+AESI of 'injection site reactions' (ISR) occurred in 8 subjects. The frequency of ISR in DMB-3115 was numerically lower than Stelara, 1% vs 1.7%. The incidence of all AESIs was comparable across treatment arms (DMB-3115: 7 [2.3%] subjects and 9 AESIs; EU-Stelara: 6 [2.0%] subjects and 7 AESIs). All AESI were reported in period 1.
+
+## There were no device deficiency-related TEAEs.
+
+TEAEs leading to discontinuation or early termination occurred in 32 patients of Study DMB-3115-2. There was a higher proportion of subjects who experienced TEAEs that led to study discontinuation and withdrawn from the study in the Stelara arm compared with DMB-3115 arm: 19 [6.4%] subjects vs 13 [4.3%] subjects, and 4.3% subjects due to 15 TEAEs vs 2.7% subjects due to 8 TEAEs, respectively.
+
+## Period 1
+
+In period 1, a total of 291 (48.7%) subjects experienced 550 TEAEs. The proportion of patients who reported at least one TEAE is comparable across the treatment groups; 142 (47.5%) DMB-3115, 149 (49.8%) EU-Stelara. The majority of the TEAEs were mild or moderate in severity, and these incidences were comparable across the treatment groups. Seven subjects had 10 severe TEAEs (Grade 3 to 5) (DMB-3115: 5 [1.7%] subjects; EU-Stelara: 2 [0.7%] subjects). This is small and comparable. The proportion of TEAEs related to IP and SAEs were similar across the treatment groups. There were 2 deaths due to TEAEs in the DMB-3115 arm (sudden cardiac death and COVID-19) and 1 death due to a TEAE in the EU-Stelara arm (COVID-19). In general, the incidences and frequency of the majority of the TEAEs by SOC and PT in the DMB-3115 arm were comparable to the comparison group in period 1. None of the deaths were considered to be related to study intervention.
+
+## Period 2
+
+In period 2, a total of 102 (19.2%) subjects experienced 136 TEAEs. The proportion of patients who reported at least one TEAE is comparable across the treatment groups; 50 (18.7%) DMB-3115, 28 (21.2%) EU-Stelara, and 24 (18.3%) EU-Stelara switched to DMB-3115 arms. The majority of the TEAEs were mild or moderate in severity, and these incidences were comparable across the treatment groups. Three subjects had 6 severe TEAEs (Grade 3) (DMB-3115: 1 [0.4%] subjects; EU-Stelara: 2 [1.5%] subjects). This was comparable across the groups. There were no deaths reported in period 2.
+
+In general, the incidences and frequency of the majority of the TEAEs by SOC and PT in the DMB-3115 arm were similar to the comparison groups in period 2.
+
+In terms of causality, the majority of the TEAEs were not related to IP.
+
+## Laboratory findings
+
+In study DMB-3115-1, there were 3 severe TEAEs of aspartate aminotransferase (AST) and/or alanine aminotransferase (ALT) elevations above 5-fold of the upper limit of normal. These were reported as severe, non-serious and resolved. In addition, there were 4 AST elevations above 3-fold of the ULN. These were reported as clinically significant and resolved. These LFTs elevations occurred more frequently in the Stelara group however, there was 1 case of each LFT increase in the DMB-3115 group. The applicant provided further analysis of these clinically significant elevations in LFTs and concluded that it did not impact on the safety of DMB-3115. This is acceptable.
+
+In study DMB-3115-2 there were 5 TEAEs of LFTs elevations. These were reported as non-serious, and not related to study intervention. This occurred in the Stelara group for the majority however there was 1 case of high levels of ALT/AST and TEAE (transaminases increased) in the DMB-3115 group. The
+
+<div style=\"page-break-after: always\"></div>
+
+applicant provided further analysis of these clinically significant elevations in LFTs AE and concluded that they did not impact on the safety of DMB-3115. This is acceptable.
+
+In study DMB-3115-2, clinically significant changes in vitals, physical exam or ECG were reported as TEAEs. In both arms TEAEs associated with increased blood pressure were reported with similar frequencies.  In both arms TEAEs associated with non-serious ECG changes were reported with similar frequencies.  There was a slightly higher frequency of clinically significant physical examination findings reported as TEAEs in the DMB-3115 group compared to Stelara. All were considered non serious and Grade 1 in severity with the exception of three which were considered Grade 2; psoriasis and erythema migrans (x2). Of the 9 clinically significant dermatology physical examination findings, 4 were considered related to IMP; psoriasis, Herpes simplex, Folliculitis, and Urticaria. These physical exam findings have been reported as TEAEs/treatment related TEAEs and assessed across the study groups and phases. The applicant further discussed this higher frequency of clinically significant physical examination findings reported as TEAEs in the DMB-3115 group compared to Stelara and concluded that it did not impact on the safety of DMB-3115. This is acceptable.
+
+In general, the safety profile reported in Study DMB-3115-2 for DMB-3115 is comparable to the Stelara treatment groups. The DMB-3115 group had comparable frequencies and severity of reported TEAEs compared with Stelara treatment group. SOC and PT were comparable. Overall, the safety profile is consistent with the known safety profile of Stelara.
+
+## Immunogenicity
+
+Immunogenicity was a secondary objective in both studies DMB-3115-1 and DMB-3115-2 and was assessed by means of monitoring development of ADAs and nAbs during the studies. The earlier plan to provide descriptive statistic for binding antibody titres were not provided (see also change in SAP) due to excessive analytical burden. The justification has been provided in the SAP that the assessing of the correlation between antibody titre and signal provides a time/cost-effective alternative to achieving an equally acceptable assessment of antibody magnitude.
+
+## Study DMB-3115-1
+
+Incidence of ADA and nAb at each time point (Safety Set, Study DMB 3115-1) was submitted. ADAs and nAbs increased over time after dosing with maximum at Day 14 and decreased towards the end of the study. The post-dose ADA incidence was numerically lower in the DMB-3115 treatment arm compared to that in the EU and US Stelara. For subjects who had positive ADAs, the incidence of subjects with nAb at each timepoint was lower in the DMB-3115 treatment group compared to that in the EU or US Stelara treatment group, except at Day 28. This indicates that the ADA status is comparable within the PK study in healthy volunteers when ustekinumab is administered via the s.c. route.
+
+There was no difference between participants who experience TEAEs by ADA/nAb status across study groups. There was no PT that DMB-3115 had a significantly higher incidence of ADA/nAb positivity.
+
+## Study DMB-3115-2
+
+Overall, in the clinical Phase III study (DMB-3115-2) conducted in 598 patients with moderate to severe plaque psoriasis with multiple doses of DMB-3115 or Stelara, lower incidence of overall positive ADA was observed in the DMB-3115 treatment group both at Week 28 (13.8% for the DMB-3115 and 26% for the Stelara) and Week 52 (8.9% for the DMB-3115, 21.5% for the Stelara group, 18.7% for the Stelara switched to DMB-3115 group). At week 52 there was a lower incidence of positive nAb observed in the DMB-3115 treatment group (43.5% for the DMB-3115, 43.3% for the Stelara group, 47.8% for the Stelara switched to DMB-3115 group).
+
+<div style=\"page-break-after: always\"></div>
+
+The overall incidences of positive ADA results were lower for DMB-3115 treatment compared to EUStelara and EU-Stelara switched to DMB-3115 treatments (positive ADA incidence of 34.2%, 60.1%, and 70.0% for DMB-3115, EU-Stelara, and EU-Stelara switched to DMB-3115 treatment groups, respectively).  The overall incidences of positive nAb results were lower for DMB-3115 treatment compared to EU-Stelara and EU-Stelara switched to DMB-3115 treatments (positive nAb incidence of 28.5%, 46.4%, and 60.0% for DMB-3115, EU-Stelara, and EU-Stelara switched to DMB-3115 treatment groups, respectively).
+
+With regards to the Stelara switched to DMB-3115 arm, the applicant reported that the overall incidences of positive ADA and nAb results were higher for EU-Stelara switched to DMB-3115 treatments (positive ADA incidence of 70%; positive nAb incidence of 60%) when compared to DMB3115 (34.2%, 28.5% respectively) and EU-Stelara (60.1%, 46.4% respectively).
+
+However, there is no apparent increase in ADA formation after switching from Stelara to DMB-3115. ADA positivity continues to down trend from week 2 across all groups over the study period. ADA positivity in the switch group at week 40/52 was lower compared to EU-Stelara group however still higher vs DMB-3115, (week 40: DMB-3115 (11.6%), Stelara (22.9%), and Stelara switched to DMB3115 (20%); week 52: DMB-3115 (8.9%), Stelara (21.5%), and Stelara switched to DMB-3115 (18.7%)).
+
+There is a slight increase in nAb positivity for the switch group compared to nAb positivity in Stelara at week 28 previously, 54.2% up to 56%. However, this then reduces in line with the other treatment groups at week 52. The nAb positivity fluctuates across all groups across the overall study period. The nAb confirmed positivity was comparable between EU-Stelara, DMB-3115 and EU-Stelara switched to DMB-3115 arms at Week 40&amp;52, (week 40: DMB-3115 (50%), Stelara (51.8%), and Stelara switched to DMB-3115 (56%); Week 52: DMB-3115 (43.5%), Stelara (43.3%), and Stelara switched to DMB3115 (47.8%)). There is no apparent impact of ADA/nAb status on the safety profile of DMB-3115 when comparing EU-Stelara switched to DMB-3115 to DMB-3115 or EU Stelara. It is not expected that switching from EU-Stelara to DMB-3115 would have an impact on safety.
+
+Quite high proportion of subjects (n-39) had week 0/Day 1 (pre-dose) confirmed ADA positivity (DMB3115 arm: 20 subjects (6.7 %) and Stelara arm: 19 subjects (6.4%)), however this was distributed similarly across the treatment arms and has not had an impact on immunogenicity &amp; PK parameters.
+
+The applicant conducted a statistical comparison of primary PK parameters between treatments by ADA and nAb positive/negative subgroups. The ADA and nAb formation were associated with a decrease in ustekinumab concentrations, with maximum decrease generally observed at Week 16 or 28. The magnitude of decrease in mean concentrations at Week 28 in ADA positive patients for DMB-3115 (41% decrease) was similar to Stelara treatments (50% decrease for Stelara and 32% decrease for Stelara switched to DMB-3115 treatment group). The magnitude of decrease in mean concentrations at Week 16 or 28 in nAb positive patients for DMB-3115 (46% decrease) was similar to that observed for Stelara treatments (58% decrease for Stelara and 48% decrease for Stelara switched to DMB-3115 treatment group).
+
+There was no evidence of an impact of ADA/nAb status on the TEAE profile for either treatment arm. The incidence of TEAEs, serious TEAEs, treatment -related TEAEs, Grade 3+ TEAEs, and drug withdrawals due to TEAEs was broadly similar regardless of ADA/nAb status. An analysis of TEAEs by ADA/nAb status in terms of system organ class (SOC) and preferred term (PT) did not show an impact of ADA/nAb status on the incidence of TEAEs at the level of SOC and PT.
+
+While the applicant intends to make DMB-3115 available in the same dosage forms, strengths and presentations as approved for Stelara in the EU, in the present MAA, only the 45 mg/0.5 mL and 90 mg/1.0 mL prefilled syringe (PFS) presentations and IV 130mg are applied for. However, the proposed formulation (45 mg prefilled syringe) is not suitable for paediatric patients that require less than a full
+
+<div style=\"page-break-after: always\"></div>
+
+45 mg dose. DMB-3115 is only indicated in children &gt;6years &amp; &gt;60kg. The proposed product information has been updated to reflect this.
+
+## 2.6.10.  Conclusions on clinical safety
+
+Overall, the DMB-3115 clinical development programme and design of the studies is considered adequate to evaluate the comparability of DMB-3115 and its reference product EU-Stelara in terms of safety and immunogenicity. No significant differences in safety have been detected based on the available data and the two products can be concluded to be biosimilar.
+
+In terms of immunogenicity, subjects (both healthy volunteers and patients) treated with DMB-3115 had lower overall incidences of ADA and nAb than subjects treated with Stelara. No immunogenicity related difference was observed in the safety profile of the two products.
+
+## 2.7.  Risk management plan
+
+## 2.7.1.  Safety Concerns
+
+Table 24: Summary of safety concerns
+
+| Summary of safety concerns   | Summary of safety concerns                                                                                                                                                                                                                              |
+|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Important identified risks   | None                                                                                                                                                                                                                                                    |
+| Important potential risks    | Serious infections (including mycobacterial and salmonella infections) Malignancy Cardiovascular events Serious depression including suicidality Venous thromboembolism                                                                                 |
+| Missing information          | Long-term safety in paediatric psoriasis patients 6 years and older Long-term impact on growth and development in paediatric psoriasis patients 6 years and older Long-term safety in adult patients with moderately to severely active Crohn's disease |
+
+## 2.7.2.  Pharmacovigilance plan
+
+Not applicable.
+
+## 2.7.3.  Risk minimisation measures
+
+<div style=\"page-break-after: always\"></div>
+
+T able 25: Description of routine risk minimisation measures by safety concern
+
+| Safety concern                                                         | Routine risk minimisation activities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Serious infections (including mycobacterial and salmonella infections) | Routine risk communication: • SmPC sections 4.3, 4.4, 4.5, 4.6 and 4.8 • PL section 2 and 4 Routine risk minimisation activities recommending specific clinical measures to address the risk: • Guidance regarding evaluation of patients for TB infection, treatment of latent TB, and administration of anti-TB therapy in patients with a history of latent or active TB prior to initiation of ustekinumab, is included in SmPC section 4.4. • Recommendation to monitor patients for signs and symptoms of active TB during and after ustekinumab treatment, is included in SmPC section 4.4. • Guidance for managing patients who develop a serious infection, is included in SmPC section 4.4. • Recommendations regarding the administration of live vaccines to patients receiving ustekinumab and to infants exposed to ustekinumab in utero, is included in SmPC section 4.4. (The same recommendations are included in SmPC section 4.5 [Interaction with Other Medicinal Products and Other Forms of Interaction]). • Recommendation regarding the administration of live vaccines to infants exposed to ustekinumab in utero, is included in SmPC section 4.6. • Guidance for patients who have recently had or are going to have a vaccination, is included in PL section 2. • Guidance for mothers who received ustekinumab while pregnant and recommendation regarding the administration of live vaccines to infants exposed to ustekinumab in utero, is included in PL section 2. • Guidance for patients who have had a recent infection, have any abnormal skin openings (fistulae), are over 65 years of age, or have recently been exposed to someone who might have TB, is included in PL section 2. • Guidance for patients who develop signs of an infection or have open cuts or sores while using ustekinumab, is included in PL section 4. Other routine risk minimisation beyond product information: |
+| Malignancy                                                             | Routine risk communication: • SmPC sections 4.4 and 4.8 • PL section 2 Routine risk minimisation activities recommending specific clinical measures to address the risk: • All patients, in particular those greater than 60 years of age, patients with a medical history of prolonged immunosuppressant therapy or those with a history of PUVA treatment, should be monitored for the appearance of skin cancer, are included in section 4.4 of Imuldosa SmPC Other routine risk minimisation beyond product information: • The prescription only status of the product                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| Cardiovascular events                                                  | Routine risk communication: None Routine risk minimisation activities recommending specific clinical measures to address the risk: None Other routine risk minimisation beyond product information: • The prescription only status of the product                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Serious depression including suicidality                               | Routine risk communication: • SmPC section 4.8 • PL section 4 Routine risk minimisation activities recommending specific clinical measures to address the risk: None Other routine risk minimisation beyond product information: • The prescription only status of the product                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Venous thromboembolism                                                 | Routine risk communication: None Routine risk minimisation activities recommending specific clinical measures to address the risk: None Other routine risk minimisation beyond product information: • The prescription only status of the product                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Long-term safety in paediatric psoriasis                               | Routine risk communication: None Routine risk minimisation activities recommending specific clinical measures to address the risk:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+
+<div style=\"page-break-after: always\"></div>
+
+| patients 6 years and older                                                                    | None Other routine risk minimisation beyond product information: • The prescription only status of the product                                                                                                                                    |
+|-----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Long-term impact on growth and development in paediatric psoriasis patients 6 years and older | Routine risk communication: None Routine risk minimisation activities recommending specific clinical measures to address the risk: None Other routine risk minimisation beyond product information: • The prescription only status of the product |
+| Long-term safety in adult patients with moderately to severely active Crohn's disease         | Routine risk communication: None Routine risk minimisation activities recommending specific clinical measures to address the risk: None Other routine risk minimisation beyond product information: • The prescription only status of the product |
+
+## 2.7.4.  Conclusion
+
+The CHMP considers that the risk management plan version 1.2 is acceptable.
+
+## 2.8.  Pharmacovigilance
+
+## 2.8.1.  Pharmacovigilance system
+
+It is considered that the pharmacovigilance system summary submitted by the applicant fulfils the requirements of Article 8(3) of Directive 2001/83/EC.
+
+## 2.8.2.  Periodic Safety Update Reports submission requirements
+
+The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+
+## 2.9.  Product information
+
+## 2.9.1.  User consultation
+
+The results of the user consultation with target patient groups on the package leaflet submitted by the applicant for 45mg PFS Imuldosa show that the package leaflet meets the criteria for readability as set out in the Guideline on the readability of the label and package leaflet of medicinal products for human use. No full user consultation with target patient groups on the package leaflet has been performed for the 130mg solution for infusion presentation on the basis of a bridging report making reference to 45mg PFS Imuldosa. The bridging report submitted by the applicant has been found acceptable.
+
+## 2.9.2.  Additional monitoring
+
+Pursuant to Article 23(1) of Regulation No (EU) 726/2004, Imuldosa (Ustekinumab) is included in the additional monitoring list as
+
+- It is a biological product that is not covered by the previous category and authorised after 1 January 2011.
+
+Therefore, the summary of product characteristics and the package leaflet includes a statement that this medicinal product is subject to additional monitoring and that this will allow quick identification of new safety information. The statement is preceded by an inverted equilateral black triangle.
+
+<div style=\"page-break-after: always\"></div>
+
+## 3.  Biosimilarity assessment
+
+## 3.1.  Comparability exercise and indications claimed
+
+DMB-3115 (ustekinumab) active substance has been developed as a biosimilar to the reference medicinal product Stelara. The active substance, ustekinumab, is presented at the same concentration and dose and in the same presentation as Stelara. DMB-3115 ustekinumab finished product is a solution for SC injection in PFS (45 mg/0.5 mL and 90 mg/mL) and a concentrate for solution for infusion (130 mg) and contains all the excipients that are qualitatively identical to that of Stelara. All components of the formulation and final pH have been selected to match those in Stelara, apart from differences in the sucrose and histidine levels for the PFS presentation.
+
+The applicant is claiming all approved indications except ulcerative colitis and also restricting paediatric posology to children with body weight &gt;60kg due to the absence of the 45mg vial presentation. Specific wording has been included in the SmPC to highlight that specific weight-based dosing presentation is currently unavailable.
+
+Claimed indications are:
+
+- adult and paediatric (6 years and older) patients with moderate to severe Ps;
+- adult patients with active PsA;
+- adult patients with moderately to severely active CD.
+
+## 3.2.  Results supporting biosimilarity
+
+## Quality aspects
+
+The applicant has conducted a biosimilarity exercise in accordance with the requirements of the EMA Guideline on similar biological medicinal products containing biotechnology-derived proteins as active substance: quality issues (revision 1), (EMA/CHMP/BWP/247713/2012). A sufficient number of biosimilar and reference product batches have been included in the study. The batches cover all three strengths, and the biosimilar finished product batches represent independent active substance batches. A comprehensive panel of analytical tests has been presented, including relevant orthogonal tests. In general, the primary structure, higher order structure, content, purity and potency are comparable between DMB-3115 and Stelara. There are some minor differences in afucosylation, acidic variants, oxidation, monomer content/2H1L variant and NGHC. These differences have been appropriately justified not to impact on safety or efficacy. The quality data package supports biosimilarity of DMB3115 and Stelara.
+
+## Clinical aspects
+
+## PK
+
+Two clinical studies have been conducted to demonstrate biosimilarity, a phase I PK study in healthy volunteers and a phase III efficacy study in moderate to severe chronic plaque psoriasis.
+
+In the phase I trial, the trial design was standard for a biosimilar product and generally endorsed. The demographics, baseline characteristics and concomitant therapies are acceptable and well balanced between the treatment arms. The majority of subjects completed the trial and there were no major or critical deviations affecting subjects treated with DMB-3115 or EU-Stelara. The trial met its primary end-points of AUC0-inf, AUClast, and Cmax and some of the secondary end-points.
+
+<div style=\"page-break-after: always\"></div>
+
+The phase III trial was also well designed and provided supportive PK data in patients. Results showed similar mean serum ustekinumab concentrations for patients treated with DMB-3115 and EU-Stelara.
+
+## Efficacy
+
+The phase III efficacy trial was generally well-designed and the demographics were well balanced between the treatment arms. The trial met its primary end-point of percent change in PASI at week 8. In addition, sensitivity analyses for baseline body weight (&lt;100 kg or &gt;100 kg), geographic region (EU, US or ROW), the number of previous systemic therapies for psoriasis (&lt;3 or ≥3) and Covid-19 infection demonstrated bioequivalence. There were no statistically significant differences between subgroups. The trial also met its secondary end-points.
+
+## Safety
+
+In the Phase 1 PK study in healthy volunteers, the proportion of subjects with TEAEs, as well as the proportion of subjects with treatment-related TEAEs, were comparable between groups. The total number of treatment-related TEAEs was lower in the DMB-3115 cohort compared to the EU-Stelara and US-Stelara cohorts. There were no deaths, SAEs, severe TEAEs, or discontinuation due to TEAEs related to the IP during the study. Overall, most TEAEs were mild in this study. The most frequently reported TEAEs by PT across all groups was headache followed by nasopharyngitis. Laboratory data, vital signs, and 12-lead ECG parameters were comparable between the two groups.
+
+In the phase III efficacy study, incidences of TEAEs, treatment related TEAEs, SAEs, and AESIs were comparable between the DMB-3115 and Stelara treatment groups, as well as transition groups. There were no deaths, SAEs or severe TEAEs, related to the IP during the study. A higher proportion of subjects experienced TEAEs that led to study discontinuation in the Stelara arm. Overall, the majority of TEAEs were mild or moderate in severity. The most frequently reported TEAE by PT across all groups was nasopharyngitis. Laboratory data, vital signs, and 12-lead ECG parameters were comparable between the two groups.
+
+Overall, no major safety concerns have arisen from the safety assessment of DMB-3115 studies.
+
+## Immunogenicity
+
+In the Phase 1 PK study in healthy volunteers, the ADA and nAb incidences were lower in the DMB3115 treatment group compared to the EU-/US-Stelara treatment groups.
+
+In the phase III efficacy study, the overall incidences of ADA &amp; nAb results were lower for DMB-3115 treatment compared to EU-Stelara and EU-Stelara switched to DMB-3115 treatment groups.
+
+There is no apparent impact of ADA/nAb status on the safety profile of DMB-3115.
+
+## 3.3.  Uncertainties and limitations about biosimilarity
+
+## Quality
+
+None. The data support biosimilarity of DMB-3115 and Stelara.
+
+## PK
+
+None. The PK profile reported in the studies for DMB-3115 is comparable to the Stelara treatment groups.
+
+## Efficacy
+
+None. Overall, the efficacy profile reported in the studies for DMB-3115 is comparable to the Stelara treatment groups.
+
+<div style=\"page-break-after: always\"></div>
+
+## Safety
+
+None. Overall, the safety profile reported in the studies for DMB-3115 is comparable to the Stelara treatment groups. Further discussion was provided on some of the slight numerical imbalances observed between DMB-3115 and Stelara reference groups for LFT elevations and physical exam findings, without implications on the safety of DMB-3115.
+
+## Immunogenicity
+
+Overall, when analysing results by ADA and nAb positive/negative subgroups no differences were observed on the efficacy and safety profile of DMB-3115, however some differences were observed on PK parameters (please see discussions on PK and safety). In addition, the number of subjects that developed ADAs was significantly lower in the DMB-3115 group compared to the Stelara group.
+
+## 3.4.  Discussion on biosimilarity
+
+## Quality
+
+The quality data package supports biosimilarity of DMB-3115 and Stelara. The observed differences between DMB-3115 and Stelara have been appropriately justified not to impact on safety or efficacy.
+
+## PK
+
+The DMB-3115 clinical development programme and design of the studies can be considered adequate to evaluate the comparability of DMB-3115 and its reference product EU-Stelara in terms of PK and no relevant differences in PK have been detected based on the available data between DMB-3115 and EUStelara.
+
+## Efficacy
+
+Overall, the DMB-3115 clinical development programme and design of the studies is considered adequate to evaluate the comparability of DMB-3115 and its reference product EU-Stelara in terms of efficacy and no relevant differences in efficacy have been detected based on the available data between DMB-3115 and EU-Stelara.
+
+## Safety
+
+Overall, the DMB-3115 clinical development programme and design of the studies is considered adequate to evaluate the comparability of DMB-3115 and its reference product EU-Stelara in terms of safety and immunogenicity. As regards the safety profile, no relevant differences in safety have been detected based on the available data between DMB-3115 and EU-Stelara.
+
+## Immunogenicity
+
+No immunogenicity related differences were observed in the efficacy and safety profile of the two products.
+
+Some differences were observed on PK parameters, as discussed by the applicant, the subject numbers in some of these sub-groups are low. The sub-group analyses are not powered to demonstrate bioequivalence. The 90% CI are close to meeting the bioequivalence limits. In addition, the number of subjects that developed ADAs was significantly lower in the DMB-3115 group compared to the Stelara group. These differences are acceptable considering the totality of quality, non-clinical and clinical evidence.
+
+<div style=\"page-break-after: always\"></div>
+
+## 3.5.  Extrapolation of safety and efficacy
+
+The efficacy and safety data may be extrapolated to all the licensed indications of the reference product. The indication of UC is not included in this application as it is still under patent.
+
+Not all pharmaceutical presentations and strengths are included in this MAA, at present. The following presentations are not included:
+
+- 45 mg/0.5 mL vial presentation as subcutaneous administration;
+- 45 mg/0.5 mL and 90 mg/1 mL pre-filled pen presentations as subcutaneous administration.
+
+## 3.6.  Additional considerations
+
+Not applicable.
+
+## 3.7.  Conclusions on biosimilarity and benefit risk balance
+
+Based on the review of the submitted data Imuldosa is considered biosimilar to Stelara. Therefore, a benefit/risk balance comparable to the reference product can be concluded.
+
+## 4.  Recommendations
+
+## Outcome
+
+Based on the CHMP review of data on quality, safety and efficacy, the CHMP considers by consensus that the benefit-risk balance of Imuldosa is favourable in the following indication(s):
+
+## Plaque psoriasis
+
+Imuldosa is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A) (see section 5.1).
+
+## Paediatric plaque psoriasis
+
+Imuldosa is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies (see section 5.1).
+
+## Psoriatic arthritis (PsA)
+
+Imuldosa, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease- modifying anti-rheumatic drug (DMARD) therapy has been inadequate (see section 5.1).
+
+## Crohn's Disease
+
+Imuldosa is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist or have medical contraindications to such therapies.
+
+The CHMP therefore recommends the granting of the marketing authorisation subject to the following conditions:
+
+## Conditions or restrictions regarding supply and use
+
+Medicinal product subject to restricted medical prescription (see Annex I: Summary of Product
+
+<div style=\"page-break-after: always\"></div>
+
+Characteristics, section 4.2).
+
+## Other conditions and requirements of the marketing authorisation
+
+-  Periodic Safety Update Reports
+
+The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+
+## Conditions or restrictions with regard to the safe and effective use of the medicinal product
+
+-  Risk Management Plan (RMP)
+
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
+
+An updated RMP should be submitted:
+
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  Additional risk minimisation measures
+
+Not applicable.
+
+## Conditions or restrictions with regard to the safe and effective use of the medicinal product to be implemented by the Member States
+
+Not applicable.

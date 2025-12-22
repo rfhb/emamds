@@ -1,0 +1,63 @@
+---
+document_datetime: 2025-10-28 15:17:23
+document_pages: 5
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/phesgo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+document_name: phesgo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+version: success
+processing_time: 2.8643306
+conversion_datetime: 2025-12-22 16:37:04.151977
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## Phesgo
+
+Procedural steps taken and scientific information after the authorisation*
+
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
+
+| Application number   | Scope       | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                                            |
+|----------------------|-------------|-------------------------------------|---------------------------------------------|----------------------------------|----------------------------------------------------|
+| Renewal - 5 year /   | - Renewal - | 20/08/2025                          | 22/09/2025                                  | SmPC and PL                      | Based on the review of data on quality, safety and |
+
+1 Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
+
+2 A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
+
+3 SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+| EMA/R/0000258704                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |            |     | efficacy, the CHMP considered that the benefit-risk balance of Phesgo in the approved indication remains favourable and therefore recommended the renewal of the marketing authorisation with unlimited validity.   |
+|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Variation type II / EMA/VR/0000270083 | This was an application for a group of variations. B.II.b.1 Replacement or addition of a manufacturing site for part or all of the manufacturing process of the finished product - B.II.b.1.c Site where any manufacturing operation(s) take place, except batch release, batch control, and secondary packaging, for biological/ immunological medicinal products, or for pharmaceutical forms manufactured by complex manufacturing processes - Accepted B.II.b.2 Change to importer, batch release arrangements and quality control testing of the finished product - B.II.b.2.b Replacement or addition of a site where batch control/testing takes place for a biological/immunological product and any of the test methods performed at the site is a biological/immunological method - Accepted B.II.d.2 Change in test procedure for the finished product - B.II.d.2.d Other changes | 24/07/2025 | N/A |                                                                                                                                                                                                                     |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | or addition) - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |            |            |                   |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|-------------------|
+| Variation type II / EMA/VR/0000267600 | B.II.g) Design Space and post approval change management protocol - B.II.g.2 Introduction of a post approval change management protocol related to the finished product - Accepted                                                                                                                                                                                                                                                                                                                                                                                                             | 10/07/2025 | N/A        |                   |
+| Variation type IA / EMA/VR/0000281527 | B.I.b.2 Change in test procedure for active substance or starting material/reagent/intermediate used in the manufacturing process of the active substance - B.I.b.2.a Minor changes to an approved test procedure - Accepted                                                                                                                                                                                                                                                                                                                                                                   | 27/06/2025 | N/A        |                   |
+| Variation type II /                   | This was an application for a group of variations. B.I.a.1 Change in the manufacturer of a starting material/reagent/intermediate used in the manufacturing process of the active substance or change in the manufacturer (including where relevant quality control testing sites) of the active substance, where no Ph. Eur. Certificate of Suitability is part of the approved dossier - B.I.a.1.j Changes to quality control testing arrangements for a biological active substance: replacement or addition of a site where batch control/testing including a biological / immunological / | 25/04/2025 | 22/09/2025 | EMA/VR/0000249647 |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | immunochemical method takes place - Accepted B.I.b.2 Change in test procedure for active substance or starting material/reagent/intermediate used in the manufacturing process of the active substance - B.I.b.2.a Minor changes to an approved test procedure - Accepted                                                                                                                                                                                                                                                 |            |     |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|
+| Variation type IA / EMA/VR/0000254622 | A. ADMINISTRATIVE CHANGES - A.4 Change in the name and/or address of: a manufacturer (including where relevant quality control testing sites); or an ASMF holder; or a supplier of the active substance, starting material, reagent or intermediate used in the manufacture of the active substance (where specified in the technical dossier) where no Ph. Eur. Certificate of Suitability is part of the approved dossier; or a manufacturer of a novel excipient (where specified in the technical dossier) - Accepted | 27/03/2025 | N/A |
+| Variation type IA / EMA/VR/0000240448 | A.5 Change in the name and/or address of a manufacturer/importer of the finished product (including batch release or quality control testing sites) - A.5.b The activities for which the manufacturer/importer is responsible do not include batch release - Refused                                                                                                                                                                                                                                                      | 21/01/2025 | N/A |
+
+<div style=\"page-break-after: always\"></div>
+
+| A. ADMINISTRATIVE CHANGES - A.4 Change in the name and/or address of: a manufacturer (including where relevant quality control testing sites); or an ASMF holder; or a supplier of the active substance, starting material, reagent or intermediate used in the manufacture of the active substance (where specified in the technical dossier) where no Ph. Eur. Certificate of Suitability is part of the approved dossier; or a manufacturer of a novel excipient (where specified in the technical dossier) - Refused   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

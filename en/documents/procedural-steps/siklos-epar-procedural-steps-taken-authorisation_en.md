@@ -1,0 +1,65 @@
+---
+document_datetime: 2023-09-21 19:00:49
+document_pages: 2
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps/siklos-epar-procedural-steps-taken-authorisation_en.pdf
+document_name: siklos-epar-procedural-steps-taken-authorisation_en.pdf
+version: success
+processing_time: 0.4975744
+conversion_datetime: 2025-12-23 06:28:51.801941
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## BACKGROUND INFORMATION ON THE PROCEDURE
+
+## 1. Submission of the dossier
+
+The  applicant  OTL  Pharma  S.A.  submitted  on  7  September  2005  an  application  for  Marketing Authorisation  to  the  European  Medicines  Agency  (EMEA)  through  the  centralised  procedure  for Siklos, which was designated as an orphan medicinal product (EU/3/03/154) on 9 July 2003. Siklos was designated as an orphan medicinal product in the following indication: Treatment of sickle cell syndrome. The calculated prevalence of this condition was not more than 0.5 in 10,000 persons.
+
+The  applicant  applied  for  the  following  indication:  'Prevention  of  recurrent  painful  vaso-occlusive crises  including  acute  chest  syndrome  in  paediatric  and  adult  patients  suffering  from  symptomatic Sickle Cell Syndrome'.
+
+## Protocol Assistance:
+
+The  applicant  received  Protocol  Assistance  from  the  CHMP  on  22  October  2003.  The  Protocol Assistance pertained to quality and clinical aspects of the dossier.
+
+## Licensing status:
+
+The product was not licensed in any country at the time of submission of the application.
+
+The Rapporteur and Co-Rapporteur appointed by the CHMP and the evaluation teams were:
+
+Rapporteur:
+
+P. Neels
+
+Co-Rapporteur:
+
+N. Drakoulis
+
+## 2 Steps taken for the assessment of the product
+
+- The application was received by the EMEA on 07 September 2005.
+- The procedure started on 26 October 2005.
+- The Rapporteur's first Assessment Report was circulated to all CHMP members on 05 January 2006. The Co-Rapporteur's first Assessment Report was circulated to all CHMP members on 05 January 2006.
+- During  the  meeting  on  23  February  2006,  the  CHMP  agreed  on  the  consolidated  List  of Questions to be sent to the applicant. The final consolidated List of Questions was sent to the applicant on 23 February 2006.
+- The applicant submitted the responses to the CHMP consolidated List of Questions on 8 August 2006.
+- The  Rapporteurs  circulated  the  Joint  Assessment  Report  on  the  applicant's  responses  to  the CHMP List of Questions to all CHMP members on 26 September 2006 and 27 September 2006.
+- Following  the  transfer  of  the  Orphan  Medicinal  Product  Designation  from  OTL  Pharma  to Addmedica SAS on 17 October 2006, the applicant was also changed to Addmedica SAS.
+- During the CHMP meeting on 18 October 2006, the CHMP agreed on a first list of outstanding issues to be addressed in writing and/or in an oral explanation by the applicant.
+- During  the  CHMP  meeting  on  16  November  2006,  the  CHMP  agreed  on  a  second  list  of outstanding issues to be addressed in writing and/or in an oral explanation by the applicant, and questions for the Quality Working Party.
+- The applicant submitted the written responses to the first and second CHMP list of outstanding issues on 17 November 2006 and on 24 November 2006.
+- During the Quality Working Party (QWP) meeting on 28 November 2006, the QWP discussed the  outstanding  quality  issues,  the  applicant  presented  his  views  on  these  questions  and  the QWP adopted a report to the CHMP.
+- The Rapporteurs circulated the Joint Assessment Report on the applicant's responses to the first and second list of outstanding issues provided by the applicant on 5 December 2006 and on 12 December 2006.
+
+<div style=\"page-break-after: always\"></div>
+
+- During  the  CHMP  meeting  on  14  December  2006,  the  CHMP  agreed  on  a  third  list  of outstanding issues to be addressed in writing and/or in an oral explanation by the applicant.
+- The applicant submitted the written responses to the third CHMP list of outstanding issues on 11 April 2007.
+- The Rapporteurs circulated the Joint Assessment Report on the applicant's responses to the third list of outstanding issues provided by the applicant on 17April 2007 and on 23 April 2007.
+- During the meeting in April 2007, the CHMP, in the light of the overall data submitted and the scientific discussion within the Committee, issued a positive opinion for granting a  Marketing Authorisation to Siklos on 26 April 2007. The applicant provided the letter of undertaking on the follow-up measures to be fulfilled post-authorisation on 25 April 2007.

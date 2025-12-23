@@ -1,0 +1,71 @@
+---
+document_datetime: 2023-09-21 18:31:07
+document_pages: 5
+document_pathfilename: www.ema.europa.eu/en/documents/scientific-conclusion/imprida-h-c-775-a31-0069-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommenda_en.pdf
+document_name: imprida-h-c-775-a31-0069-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommenda_en.pdf
+version: success
+processing_time: 1.1353805
+conversion_datetime: 2025-12-23 04:51:24.106672
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+Annex IV Scientific conclusions, grounds for variation to the terms of the marketing authorisations and detailed explanation of the scientific grounds for the differences from the PRAC recommendation Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions and detailed explanation of the scientific grounds for the differences from the PRAC recommendation
+
+## 1 - Overall summary of the scientific evaluation by PRAC
+
+The renin-angiotensin system (RAS) is a hormone system that regulates blood pressure and fluid balance. RAS-acting agents act by blocking different stages of the renin-angiotensin system, lowering blood pressure and their use in the treatment of hypertension and its complications (including acute myocardial infarction, congestive heart failure and chronic kidney disease) is recommended in many current clinical guidelines. RAS-acting agents include angiotensin-converting enzyme inhibitors (ACEinhibitors) such as benazepril, captopril, cilazapril, delapril, enalapril, fosinopril, imidapril, lisinopril, moexipril, perindopril, quinapril, ramipril, spirapril, trandolapril and zofenopril), angiotensin receptor blockers (ARBs) such as candesartan, telmisartan, valsartan, irbesartan, eprosartan, olmesartan, losartan and azilsartan and direct renin inhibitors such as aliskiren. The concept of dual RAS blockade through the combined use of several RAS-acting agents, emerged in the late 1990's based on an experimental model hypothesising that the combined use of an ARB, an ACE-inhibitor or aliskiren could provide a more complete blockade of the RAS which could translate into better control of blood pressure and nephroprotective and cardioprotective effects. However, new data has emerged in the past years, raising doubts over the efficacy and identifying safety concerns associated with dual RAS blockade therapy through the combined use of ACE-inhibitors, ARBs or aliskiren. In particular, the publication of a meta-analysis by Makani et al 1 involving over 68,000 patients raised concerns that combining several RAS-acting agents may be associated with an increased risk of hyperkalaemia, hypotension and kidney failure, compared with the single use of one RAS-acting agent. In addition, the meta-analysis suggested that using multiple RAS-acting agents may not be more beneficial than using a single RAS-acting agent in terms of reducing overall mortality. It was noted that the Committee for Medicinal Products for Human Use (CHMP) had already conducted a review 2  under Article 20 of Regulation (EC) No 726/2004 for aliskiren-containing products, concluding that these products should be contraindicated in patients with diabetes mellitus or moderate to severe renal impairment who take ACE-inhibitors or ARBs. Having considered the new available evidence from the scientific literature and given the seriousness of the identified safety concerns, the Italian Medicines Agency (AIFA) decided to initiate a review under Article 31 of Council Directive 2001/83/EC on 17 April 2013, referring the matter to the Pharmacovigilance Risk Assessment Committee (PRAC) and requesting the PRAC to issue a recommendation on the benefit-risk of dual RAS blockade therapy through the combined use of ACEinhibitors, ARBs or aliskiren and whether any regulatory measures should be taken on the marketing authorisations of the products involved in this procedure. therapy through the combined use of ACE-inhibitors, ARBs or aliskiren is associated with an increased Medicinal product no longer authorised
+
+The PRAC reviewed the totality of the available data, including clinical trials, meta-analysis and publications, the MAHs' responses as well as the report from the Scientific Advisory Group in Cardiovascular Issues (SAG CVS). The PRAC was of the opinion that there is considerable evidence from large clinical trials and meta-analyses which conclusively demonstrates that dual RAS blockade risk of adverse events, including hypotension, hyperkalaemia and renal failure compared to monotherapy, in particular in patients with diabetic nephropathy. This is of particular concern, as
+
+1
+
+Makani H, Bangalore S, Desouza KA, Shah A, Messerli FH. Efficacy and safety of dual blockade of the renin- angiotensin system: meta-analysis of randomized trials. BMJ. 2013 Jan 28;346:f360. doi: 10.1136/bmj.f360.
+
+2
+
+European Medicines Agency recommends new contraindications and warnings for aliskiren-containing medicines,
+
+17/02/2012, http://www.ema.europa.eu/ema/index.jsp?curl=pages/news\\_and\\_events/news/2012/02/news\\_detail\\_001446.jsp&amp;mid=WC0b01ac058004d5c1
+
+<div style=\"page-break-after: always\"></div>
+
+these patients and patients with renal impaired are already particularly prone to developing hyperkalaemia. The PRAC considered that the available efficacy data indicates that dual RAS blockade therapy does not provide significant benefit in the general patient population, although there is evidence to suggest that some selected patient subpopulations may benefit from this dual RAS blockade therapy. In particular, a number of trials in heart failure patients have shown that the addition of a second RASacting agent may reduce hospital admissions for heart failure in patients with heart failure, which is considered a meaningful clinical endpoint. The PRAC therefore concluded that dual RAS blockade therapy should not be routinely used in the treatment of heart failure and is not recommended in the general population although it may benefit certain patients who remain symptomatic while receiving monotherapy or who cannot otherwise use alternative therapies, including potentially patients with diabetic nephropathy. Treatment should only occur under specialist supervision and subject to frequent close monitoring of renal function, electrolytes and blood pressure. The PRAC considered that the overall available data strongly suggests that the concerns identified with regard to safety and the lack of efficacy are a class effect and therefore considered that the conclusions of the review apply to all the active substances involved in the procedure. The PRAC was of the opinion that the concerns identified during this procedure with regard to the safety and the lack of efficacy of dual RAS blockade therapy could be adequately managed through changes to the product information, without the need for additional risk minimisation measures. The PRAC therefore concluded that the product information of all RAS-acting agents should be revised to reflect the identified risks and provide guidance to prescribers and patients. A warning was introduced to state that dual RAS blockade therapy through the combined use of ACE-inhibitors, ARBs or aliskiren is not recommended and, if considered absolutely necessary, should only occur under specialist supervision and subject to frequent close monitoring of renal function, electrolytes and blood pressure. The PRAC however clearly specified, based on data from the ONTARGET 3  and VA NEPHRON-D 4  studies that ACE-inhibitors and ARBs should not be used concomitantly in patients with diabetic nephropathy. The PRAC was also of the opinion that the contraindication based on the ALTITUDE 5  study data regarding the concomitant use of ACE-inhibitors or ARBs with aliskiren-containing products in patients with diabetes mellitus or renal impairment (glomerular filtration rate (GFR) &lt; 60 ml/min/1.73 m 2 ) was confirmed by the additional data reviewed and that it should also be implemented in the product information of ARBs and ACE-inhibitors. For candesartan- and valsartan-containing products, which are also authorised in the treatment of heart failure, additional information was agreed upon to reflect the fact that dual RAS blockade therapy in combination with an ACE-inhibitor may be of benefit in certain patients who cannot use other heart failure treatments, provided that they are used under specialist supervision and subject to frequent close monitoring of renal function, electrolytes and blood pressure. Medicinal product no longer authorised
+
+3 ONgoing Telmisartan Alone and in Combination with Ramipril Global Endpoint Trial
+
+4
+
+Veterans Affairs Nephropathy in Diabetes
+
+5 Aliskiren Trial in Type 2 Diabetes Using Cardiorenal Endpoints
+
+<div style=\"page-break-after: always\"></div>
+
+## Overall conclusion
+
+The PRAC concluded that the benefit-risk balance of RAS-acting agents remains favourable, including in the context of dual RAS blockade therapy, subject to the agreed revisions to the product information.
+
+## Grounds for PRAC recommendation
+
+## Whereas
+
+· The PRAC considered the procedure under Article 31 of Directive 2001/83/EC initiated by Italy following the emergence of new evidence on the efficacy and safety of dual RAS blockade therapy through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren, to determine whether any regulatory measures should be taken on the marketing authorisations of the products involved in this procedure; · The PRAC reviewed the totality of the available data, including clinical trials, meta-analysis and publications, the MAHs' responses as well as the report from the Scientific Advisory Group in Cardiovascular Issues; · The PRAC was of the view that there is considerable evidence, in particular from the ONTARGET, ALTITUDE and VA NEPHRON-D trials which conclusively demonstrates that dual RAS blockade therapy through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is associated with an increased risk of adverse events, including hypotension, hyperkalaemia and renal failure compared to monotherapy; · The PRAC considered that the available efficacy data indicates that dual RAS blockade therapy does not provide significant benefit in the general patient population although certain patient subpopulations may benefit from treatment, provided that it occurs only under specialist supervision and subject to frequent close monitoring of renal function, electrolytes and blood pressure; · The PRAC was of the opinion that the concerns identified with regard to safety and the lack of additional efficacy of dual RAS blockade therapy are a class effect and that the conclusions of the review therefore apply to all the active substances involved in this procedure; · The PRAC was of the opinion that the concerns identified with regard to the safety and the lack of additional efficacy of dual RAS blockade therapy can be adequately managed through changes to the product information, without the need for additional risk minimisation measures. The PRAC, as a consequence, concluded that the benefit-risk balance of RAS-acting agents remains favourable, provided that their product information is revised to reflect the concerns associated with dual RAS blockade therapy. Having considered the matter, the PRAC therefore recommended the variation of the marketing authorisations for RAS-acting agents. Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+## 2 - Detailed explanation of the scientific grounds for differences from the PRAC recommendation
+
+Having reviewed the PRAC recommendation, the CHMP agreed with the overall scientific conclusions and grounds for recommendation. However, the CHMP considered that minor additional changes were necessary to the wording proposed for the Summary of Product Characteristics. Changes were made to the heart failure indication in section 4.4 for candesartan-containing products and in sections 4.2 and 4.4 for valsartan-containing products, in order to further harmonise the wording for the two substances. In addition, a number of typographical and QRD-related changes were made. In particular the contraindication statements recommended by the PRAC were deleted from sections 5.1 (where proposed) and from section 4.4 for aliskiren, as these were already proposed in section 4.3 and therefore considered redundant. Corresponding changes were made, where relevant, to the currently approved product information.
+
+CHMP opinion The CHMP, having considered the PRAC recommendation, agrees with the overall scientific conclusions by the PRAC and is of the opinion that the marketing authorisations for RAS-acting agents should be varied. Medicinal product no longer authorised

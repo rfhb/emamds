@@ -1,0 +1,49 @@
+---
+document_datetime: 2023-09-21 18:20:27
+document_pages: 1
+document_pathfilename: www.ema.europa.eu/en/documents/steps-after-cutoff/avandia-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf
+document_name: avandia-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf
+version: success
+processing_time: 1.8543662
+conversion_datetime: 2025-12-23 21:14:01.903869
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## Steps taken after granting the Marketing Authorisation
+
+Subsequent post Marketing Authorisation applications agreed upon are summarised in the table below:
+
+| Scope                                                                                                                                                                                                                                                                                                   | Application number   | Type of modification 1   | Notification/ Opinion issued on 2   | Commission Decision Issued/amended on   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|--------------------------|-------------------------------------|-----------------------------------------|
+| Update of section 4.8 of the Summary of Product Characteristics (SPC) and Package Leaflet to include Congestive Heart Failure and pulmonary oedema. In addition, further to the review of the 2 nd PSUR hepatic events and elevated liver enzymes were added to section 4.8 of the SPC.                 | II/0001              | II                       | 14.12.00                            | 20.03.01                                |
+| Change in batch size of active substance                                                                                                                                                                                                                                                                | I/0002               | I                        | 22.11.00                            | -                                       |
+| Minor change of manufacturing process of the active substance                                                                                                                                                                                                                                           | I/0003               | I                        | 22.11.00                            | -                                       |
+| Minor change of manufacturing process of the active substance                                                                                                                                                                                                                                           | I/0004               | I                        | 22.11.00                            | -                                       |
+| Quality changes: scientific information and PhEur certificate of suitability related to TSE                                                                                                                                                                                                             | II/0005              | II                       | authorised 29.03.01                 | -                                       |
+| Update of section 4.8 of the Summary of Product Characteristics (SPC) and section 4 of the Package Leaflet (PL) regarding the presentation of information on adverse events. In addition a minor amendment of section 2 of the PL has been made to better reflect the corresponding wording in the SPC. | II/0006              | II                       | 27.06.01                            | 31.10.01                                |
+| Change in specification of starting material/intermediate used in the manufacture of the active substance                                                                                                                                                                                               | I/0007               | longer I                 | 23.11.01                            | -                                       |
+| Minor change of manufacturing process of the active substance                                                                                                                                                                                                                                           | I/0008               | I                        | 14.01.02                            | -                                       |
+| Change in the name of a manufacturer of the medicinal product                                                                                                                                                                                                                                           | I/0009               | I                        | 22.03.02                            | 02.05.02                                |
+| Change in test procedures of the medicinal product                                                                                                                                                                                                                                                      | I/0011               | I                        | 28.05.02                            | -                                       |
+| Change of legal status with the consequent change in section 4.2 of the Summary of Product Characteristics                                                                                                                                                                                              | no II/0012           | II                       | 25.07.02                            | 18.10.02                                |
+| product Update of section 4.8 of the Summary of Product Characteristics to include angioedema and urticaria. The Package Leaflet has been amended accordingly.                                                                                                                                          | II/0013              | II                       | 25.07.02                            | 18.10.02                                |
+| Change in the name and/or address of the Marketing Authorisation Holder                                                                                                                                                                                                                                 | I/0014               | I                        | 24.07.02                            | 18.09.02                                |
+| Minor change in the Package Leaflet not connected with the SPC                                                                                                                                                                                                                                          | N/0015               | N                        | 15.11.02                            | 11.12.03                                |
+| Update of sections 4.4 and 4.8 of the Summary of Product Characteristics to include information on rapid and excessive weight gain. The Package Leaflet has been amended accordingly.                                                                                                                   | II/0016              | II                       | 23.01.03                            | 23.04.03                                |
+| Replacement of an excipient with a comparable excipient                                                                                                                                                                                                                                                 | I/0017               | I                        | 19.12.02                            | -                                       |
+| Medicinal Extension of indication to the use of rosiglitazone as second line monotherapy in type 2 diabetes mellitus patients. Summary of Product Characteristics and Package Leaflet have been updated.                                                                                                | II/0018              | II                       | 22.05.03                            | 28.08.03                                |
+
+1 In accordance with Commission Regulation (EC) No. 542/95 of 10 March 1995, as amended: I refers to a minor variation (Type I variation); II refers to a major variation (Type II variation); I/II refers to a minor variation following the procedure set out in Article 6, 7 and 8 of the Regulation; X refers to an Annex II application.
+
+T refers to a transfer of a Marketing Authorisation in accordance with Commission Regulation (EC) No 2141/96 of 7 November 1996.
+
+N refers to a notification in accordance with Article 61(3) of Directive 2001/83/EC of 6 November 2001.
+
+CPMP/1043/00 1/1 2 For Notifications and Type I variations, the date of entry into force of the change is the EMEA Notification date. The Commission Decision will be amended accordingly.

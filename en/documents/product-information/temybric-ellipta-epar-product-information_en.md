@@ -1,0 +1,834 @@
+---
+document_datetime: 2023-09-21 21:27:56
+document_pages: 44
+document_pathfilename: www.ema.europa.eu/en/documents/product-information/temybric-ellipta-epar-product-information_en.pdf
+document_name: temybric-ellipta-epar-product-information_en.pdf
+version: success
+processing_time: 8.4501701
+conversion_datetime: 2025-12-23 21:38:42.335151
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+<!-- image -->
+
+SUMMARY OF PRODUCT CHARACTERISTICS
+
+ANNEX I Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Temybric Ellipta 92 micrograms/55 micrograms/22 micrograms inhalation powder, pre-dispensed
+
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+Each single inhalation provides a delivered dose (the dose leaving the mouthpiece) of 92 micrograms fluticasone furoate, 65 micrograms umeclidinium bromide equivalent to 55 micrograms umeclidinium and 22 micrograms vilanterol (as trifenatate). This corresponds to a pre-dispensed dose of 100 micrograms fluticasone furoate, 74.2 micrograms umeclidinium bromide equivalent to 62.5 micrograms umeclidinium and 25 micrograms vilanterol (as trifenatate). Excipient with known effect Each delivered dose contains approximately 25 mg of lactose monohydrate. For the full list of excipients, see section 6.1. 3. PHARMACEUTICAL FORM Inhalation powder, pre-dispensed (inhalation powder). White powder in a light grey inhaler (Ellipta) with a beige mouthpiece cover and a dose counter. 4. CLINICAL PARTICULARS 4.1 Therapeutic indications Temybric Ellipta is indicated as a maintenance treatment in adult patients with moderate to severe chronic obstructive pulmonary disease (COPD) who are not adequately treated by a combination of an inhaled corticosteroid and a longacting β2 -agonist or a combination of a longacting β2 -agonist and a long-acting muscarinic antagonist (for effects on symptom control and prevention of exacerbations see section 5.1). 4.2 Posology and method of administration Posology Adults Medicinal product no longer authorised
+
+The recommended and maximum dose is one inhalation of Temybric Ellipta 92/55/22 micrograms once daily, at the same time each day.
+
+If a dose is missed the next dose should be inhaled at the usual time the next day.
+
+Special populations
+
+Elderly patients
+
+No dose adjustment is required in patients over 65 years (see section 5.2).
+
+<div style=\"page-break-after: always\"></div>
+
+## Renal impairment
+
+No dose adjustment is required in patients with renal impairment (see section 5.2).
+
+## Hepatic impairment
+
+No dose adjustment is required in patients with mild, moderate or severe hepatic impairment. Temybric Ellipta should be used with caution in patients with moderate to severe hepatic impairment (see sections 4.4 and 5.2).
+
+## Paediatric population
+
+- Remove the inhaler from the mouth.
+
+There is no relevant use of Temybric Ellipta in the paediatric population (under 18 years of age) for the indication of COPD. Method of administration Temybric Ellipta is for inhalation use only. Instructions for use: The following instructions for the 30 dose (30 day supply) Ellipta inhaler also apply to the 14 dose (14 day supply) Ellipta inhaler. a) Prepare a dose Open the cover when ready to inhale a dose. The inhaler should not be shaken. Slide the cover down fully until a 'click' is heard. The medicinal product is now ready to be inhaled. The dose counter counts down by 1 to confirm. If the dose counter does not count down as the 'click' is heard, the inhaler will not deliver a dose and should be taken back to a pharmacist for advice. b) How to inhale the medicinal product The inhaler should be held away from the mouth breathing out as far as is comfortable, but not breathing out into the inhaler. The mouthpiece should be placed between the lips and the lips should then be closed firmly around it. The air vents should not be blocked with fingers during use. · Inhale with one long, steady, deep breath in. This breath should be held in for as long as possible (at least 3-4 seconds). Medicinal product no longer authorised
+
+- Breathe out slowly and gently.
+
+The medicinal product may not be tasted or felt, even when using the inhaler correctly.
+
+The mouthpiece of the inhaler may be cleaned using a dry tissue before closing the cover.
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## c) Close the inhaler and rinse your mouth
+
+Slide the cover upwards as far as it will go, to cover the mouthpiece.
+
+Rinse your mouth with water after you have used the inhaler, do not swallow.
+
+This will make it less likely to develop a sore mouth or throat as side effects.
+
+For further instructions on handling the device, see section 6.6.
+
+4.3 Contraindications Hypersensitivity to the active substances or to any of the excipients listed in section 6.1. 4.4 Special warnings and precautions for use Asthma Temybric Ellipta should not be used in patients with asthma since it has not been studied in this patient population. Not for acute use There are no clinical data to support the use of Temybric Ellipta for the treatment of acute episodes of bronchospasm, or to treat an acute COPD exacerbation (i.e. as a rescue therapy). Deterioration of disease Increasing use of short-acting bronchodilators to relieve symptoms may indicate deterioration of disease control. In the event of deterioration of COPD during treatment with Temybric Ellipta, a re-evaluation of the patient and of the COPD treatment regimen should be undertaken. Patients should not stop therapy with Temybric Ellipta without physician supervision since symptoms may recur after discontinuation. Paradoxical bronchospasm Administration of fluticasone furoate/umeclidinium/vilanterol may produce paradoxical bronchospasm with an immediate wheezing and shortness of breath after dosing and may be life-threatening. Treatment with Temybric Ellipta should be discontinued immediately if paradoxical bronchospasm occurs. The patient should be assessed and alternative therapy instituted if necessary. Cardiovascular effects Medicinal product no longer authorised
+
+Cardiovascular effects, such as cardiac arrhythmias, e.g. atrial fibrillation and tachycardia, may be seen after the administration of muscarinic receptor antagonists and sympathomimetics, including umeclidinium and vilanterol, respectively. Therefore, Temybric Ellipta should be used with caution in patients with unstable or life-threatening cardiovascular disease.
+
+## Patients with hepatic impairment
+
+Patients with moderate to severe hepatic impairment receiving Temybric Ellipta should be monitored for systemic corticosteroid-related adverse reactions (see section 5.2).
+
+<div style=\"page-break-after: always\"></div>
+
+## Systemic corticosteroid effects
+
+Systemic effects may occur with any inhaled corticosteroid, particularly at high doses prescribed for long periods. These effects are much less likely to occur than with oral corticosteroids.
+
+## Visual disturbance
+
+Visual disturbance may be reported with systemic and topical corticosteroid use. If a patient presents with symptoms such as blurred vision or other visual disturbances, the patient should be considered for referral to an ophthalmologist for evaluation of possible causes which may include cataract, glaucoma or rare diseases such as central serous chorioretinopathy (CSCR) which have been reported after use of systemic and topical corticosteroids.
+
+<!-- image -->
+
+Coexisting conditions Temybric Ellipta should be used with caution in patients with convulsive disorders or thyrotoxicosis, and in patients who are unusually responsive to beta2-adrenergic agonists. Temybric Ellipta should be administered with caution in patients with pulmonary tuberculosis or in patients with chronic or untreated infections. Anticholinergic activity Temybric Ellipta should be used with caution in patients with narrow-angle glaucoma or urinary retention. Patients should be informed about the signs and symptoms of acute narrow-angle glaucoma and should be informed to stop using Temybric Ellipta and to contact their doctor immediately should any of these signs or symptoms develop. Pneumonia in patients with COPD An increase in the incidence of pneumonia, including pneumonia requiring hospitalisation, has been observed in patients with COPD receiving inhaled corticosteroids. There is some evidence of an increased risk of pneumonia with increasing steroid dose but this has not been demonstrated conclusively across all studies. There is no conclusive clinical evidence for intra-class differences in the magnitude of the pneumonia risk among inhaled corticosteroid products. Physicians should remain vigilant for the possible development of pneumonia in patients with COPD as the clinical features of such infections overlap with the symptoms of COPD exacerbations. Risk factors for pneumonia in patients with COPD include current smoking, older age, low body mass index (BMI) and severe COPD. Medicinal product no longer authorised
+
+<!-- image -->
+
+Beta2-adrenergic agonists may produce significant hypokalaemia in some patients, which has the potential to produce adverse cardiovascular effects. The decrease in serum potassium is usually transient, not requiring supplementation.
+
+No clinically relevant effects of hypokalaemia were observed in clinical studies with Temybric Ellipta at the recommended therapeutic dose. Caution should be exercised when Temybric Ellipta is used with other medicinal products that also have the potential to cause hypokalaemia (see section 4.5).
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Hyperglycaemia
+
+Beta2-adrenergic agonists may produce transient hyperglycaemia in some patients. No clinically relevant effects on plasma glucose were observed in clinical studies with fluticasone furoate/umeclidinium/vilanterol at the recommended therapeutic dose. There have been reports of increases in blood glucose levels in diabetic patients treated with fluticasone furoate/umeclidinium/vilanterol and this should be considered when prescribing to patients with a history of diabetes mellitus. Upon initiation of treatment with Temybric Ellipta, plasma glucose should be monitored more closely in diabetic patients.
+
+## Excipients
+
+This medicinal product contains lactose. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not use this medicinal product. 4.5 Interaction with other medicinal products and other forms of interaction Clinically significant drug interactions mediated by fluticasone furoate/umeclidinium/vilanterol at clinical doses are considered unlikely due to the low plasma concentrations achieved after inhaled dosing. Interaction with beta-blockers Beta2-adrenergic blockers may weaken or antagonise the effect of beta2-adrenergic agonists, such as vilanterol. If beta -blockers are required, cardioselective beta-blockers should be considered, however, caution should be exercised during concurrent use of both non-selective and selective beta-blockers. Interaction with CYP3A4 inhibitor Fluticasone furoate and vilanterol are rapidly cleared by extensive first pass metabolism mediated by enzyme CYP3A4. Caution is advised when co-administering with strong CYP3A4 inhibitors (e.g. ketoconazole, ritonavir, cobicistat-containing products) as there is potential for increased systemic exposure to both fluticasone furoate and vilanterol, which could lead to an increased potential for adverse reactions. Co-administration should be avoided unless the benefit outweighs the increased risk of systemic corticosteroid adverse reactions, in which case patients should be monitored for systemic corticosteroid adverse reactions. A repeat dose study was performed in healthy subjects with the fluticasone furoate/vilanterol combination (184/22 micrograms) and ketoconazole (400 milligrams, a strong CYP3A4 inhibitor). Co-administration increased mean fluticasone furoate AUC(0-24) and Cmax by 36% and 33%, respectively. The increase in fluticasone furoate exposure was associated with a 27% reduction in 0-24 hours weighted mean serum cortisol. Co-administration increased mean vilanterol AUC(0-t) and Cmax by 65% and 22%, respectively. The increase in vilanterol exposure was not associated with an increase in beta2-agonist related systemic effects on heart rate or blood potassium. Interaction with CYP2D6 inhibitors/CYP2D6 polymorphism Medicinal product no longer authorised
+
+Umeclidinium is a substrate of cytochrome P450 2D6 (CYP2D6). The steady-state pharmacokinetics of umeclidinium was assessed in healthy volunteers lacking CYP2D6 (poor metabolisers). No effect on umeclidinium AUC or Cmax was observed at a dose 8-fold higher than the therapeutic dose. An approximately 1.3-fold increase in umeclidinium AUC was observed at 16-fold higher dose with no effect on umeclidinium Cmax. Based on the magnitude of these changes, no clinically relevant drug interaction is expected when fluticasone furoate/umeclidinium/vilanterol is co-administered with CYP2D6 inhibitors or when administered to patients who are genetically deficient in CYP2D6 activity (poor metabolisers).
+
+## Interaction with P-glycoprotein inhibitors
+
+Fluticasone furoate, umeclidinium and vilanterol are substrates of the P-glycoprotein transporter (P-gp). The effect of the moderate P-gp inhibitor verapamil (240 mg once daily) on the steady-state pharmacokinetics of
+
+<div style=\"page-break-after: always\"></div>
+
+umeclidinium and vilanterol was assessed in healthy volunteers. No effect of verapamil was observed on umeclidinium or vilanterol Cmax. An approximately 1.4-fold increase in umeclidinium AUC was observed with no effect on vilanterol AUC. Based on the magnitude of these changes, no clinically relevant drug interaction is expected when fluticasone furoate/umeclidinium/vilanterol is co-administered with P-gp inhibitors. Clinical pharmacology studies with a specific P-gp inhibitor and fluticasone furoate have not been conducted.
+
+## Other long acting antimuscarinics and long acting beta2- adrenergic agonists
+
+Co-administration of Temybric Ellipta with other long-acting muscarinic antagonists or long-acting beta2adrenergic agonists has not been studied and is not recommended as it may potentiate the adverse reactions (see sections 4.8 and 4.9).
+
+Hypokalaemia Concomitant hypokalaemic treatment with methylxanthine derivatives, steroids, or non-potassium-sparing diuretics may potentiate the possible hypokalaemic effect of beta2-adrenergic agonists, therefore caution should be exercised (see section 4.4). 4.6 Fertility, pregnancy and lactation Pregnancy There are limited data from the use of fluticasone furoate/umeclidinium/vilanterol in pregnant women. Studies in animals have shown reproductive toxicity at exposures which are not clinically relevant (see section 5.3). Administration of Temybric Ellipta to pregnant women should only be considered if the expected benefit to the mother justifies the potential risk to the foetus. Breast-feeding It is unknown whether fluticasone furoate, umeclidinium, vilanterol or their metabolites are excreted in human milk. However, other corticosteroids, muscarinic antagonists and beta2-adrenergic agonists are detected in human milk. A risk to newborns/infants cannot be excluded. A decision must be made whether to discontinue breast-feeding or to discontinue Temybric Ellipta therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman. Fertility There are no data on the effects of fluticasone furoate/umeclidinium/vilanterol on human fertility. Animal studies indicate no effects of fluticasone furoate, umeclidinium or vilanterol on male or female fertility (see section 5.3). 4.7 Effects on ability to drive and use machines Medicinal product no longer authorised
+
+<!-- image -->
+
+Fluticasone furoate/umeclidinium/vilanterol has no or negligible influence on the ability to drive and use machines.
+
+## 4.8 Undesirable effects
+
+## Summary of the safety profile
+
+The most frequently reported adverse reactions with Temybric Ellipta were nasopharyngitis (7%), headache (5%) and upper respiratory tract infection (2%).
+
+<div style=\"page-break-after: always\"></div>
+
+## Tabulated summary of adverse reactions
+
+The safety profile of Temybric Ellipta is based on three phase III clinical studies and spontaneous reporting.
+
+The first study included safety data from 911 patients with COPD who received fluticasone furoate/umeclidinium/vilanterol 92/55/22 micrograms, once daily, for up to 24 weeks, of whom 210 patients received fluticasone furoate/umeclidinium/vilanterol 92/55/22 micrograms once daily for up to 52 weeks, with an active comparator (study CTT116853, FULFIL).
+
+The second study included safety data from 527 patients with COPD who received fluticasone furoate/umeclidinium/vilanterol (92/55/22 micrograms) and 528 patients with COPD who received fluticasone furoate/vilanterol (92/22 micrograms) + umeclidinium (55 micrograms) once daily for up to 24 weeks (study 200812).
+
+<!-- image -->
+
+The third study included safety data from 4,151 patients with COPD who received fluticasone furoate/umeclidinium/vilanterol 92/55/22 micrograms once daily for up to 52 weeks, with two active comparators (study CTT116855, IMPACT). Where adverse reaction frequencies differed between studies, the higher frequency is reported below. Adverse reactions are listed by MedDRA system organ class. The frequency of adverse reactions is defined using the following convention: very common ( ≥ 1/10); common ( ≥ 1/100 to &lt;1/10); uncommon ( ≥ 1/1,000 to &lt;1/100); rare ( ≥ 1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000) and not known (cannot be estimated from available data). Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+| System Organ Class                              | Adverse reactions                                                                                                                                                       | Frequency       |
+|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| Infections and infestations                     | Pneumonia Upper respiratory tract infection Bronchitis Pharyngitis Rhinitis Sinusitis Influenza Nasopharyngitis Candidiasis of mouth and throat Urinary tract infection | Common          |
+| Infections and infestations                     | Viral respiratory tract infection                                                                                                                                       | Uncommon        |
+| Immune system disorders                         | Hypersensitivity reactions, including anaphylaxis, angioedema, urticaria, and rash                                                                                      | Rare authorised |
+| Nervous system disorders                        | Headache                                                                                                                                                                | Common          |
+| Nervous system disorders                        | Dysgeusia                                                                                                                                                               | Uncommon        |
+| Eye disorders                                   | Vision blurred (see section 4.4) Glaucoma Eye pain                                                                                                                      | Uncommon        |
+| Eye disorders                                   | Intraocular pressure increased                                                                                                                                          | Rare            |
+| Cardiac disorders                               | Supraventricular tachyarrhythmia Tachycardia Atrial fibrillation longer                                                                                                 | Uncommon        |
+| Respiratory, thoracic& mediastinal disorders    | Cough Oropharyngeal pain no                                                                                                                                             | Common          |
+| Respiratory, thoracic& mediastinal disorders    | Dysphonia                                                                                                                                                               | Uncommon        |
+| Gastrointestinal disorders                      | Constipation                                                                                                                                                            | Common          |
+| Gastrointestinal disorders                      | Dry mouth                                                                                                                                                               | Uncommon        |
+| Musculoskeletal and connective tissue disorders | Arthralgia Back pain                                                                                                                                                    | Common          |
+| Musculoskeletal and connective tissue disorders | Fractures                                                                                                                                                               | Uncommon        |
+
+Immune system disorders Nervous system disorders Eye disorders Cardiac disorders Respiratory, thoracic &amp; mediastinal disorders Gastrointestinal disorders Musculoskeletal and connective tissue disorders Description of selected adverse reactions Pneumonia In a total of 1810 patients with advanced COPD (mean post-bronchodilator screening FEV1 45% of predicted, standard deviation (SD) 13%), 65% of whom had experienced a moderate/severe COPD exacerbation in the year prior to study entry (study CTT116853), there was a higher incidence of pneumonia events reported up to 24 weeks in patients receiving Temybric Ellipta (20 patients, 2%) than in patients receiving budesonide/formoterol (7 patients, &lt;1%). Pneumonia which required hospitalisation occurred in 1% of patients receiving Temybric Ellipta and &lt;1% of patients receiving budesonide/formoterol up to 24 weeks. One fatal case of pneumonia was reported in a patient who received Temybric Ellipta. In the subset of 430 patients treated for up to 52 weeks, the incidence of pneumonia events reported in both Temybric Ellipta and budesonide/formoterol arms was equal at 2%. The incidence of pneumonia with Temybric Ellipta is comparable with that observed in the fluticasone furoate/vilanterol (FF/VI) 100/25 arm of FF/VI clinical studies in COPD. Medicinal product no longer authorised
+
+In a 52-week study, with a total of 10,355 patients with COPD and a history of moderate or severe exacerbations within the prior 12 months (mean post-bronchodilator screening FEV1 46% of predicted, SD 15%) (study CTT116855), the incidence of pneumonia was 8% (317 patients) for Temybric Ellipta (n = 4,151), 7% (292 subjects) for fluticasone furoate/vilanterol (n = 4,134), and 5% (97 subjects) for umeclidinium/vilanterol (n = 2,070). Fatal pneumonia occurred in 12 of 4,151 patients (3.5 per 1,000 patient-
+
+<div style=\"page-break-after: always\"></div>
+
+years) receiving Temybric Ellipta, 5 of 4,134 patients (1.7 per 1,000 patient-years) receiving fluticasone furoate/vilanterol, and 5 of 2,070 patients (2.9 per 1,000 patient-years) receiving umeclidinium/vilanterol.
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+## 4.9 Overdose
+
+An overdose will likely produce signs, symptoms or adverse effects associated with the individual components' pharmacological actions (e.g. Cushing's syndrome, Cushingoid features, adrenal suppression, decrease in bone mineral density, dry mouth, visual accommodation disturbances, tachycardia, arrhythmias, tremor, headache, palpitations, nausea, hyperglycaemia and hypokalaemia).
+
+There is no specific treatment for an overdose with Temybric Ellipta. If overdose occurs, the patient should be treated supportively with appropriate monitoring as necessary. Cardioselective beta-blockade should only be considered for profound vilanterol overdose effects that are clinically concerning and unresponsive to supportive measures. Cardioselective beta-blocking medicinal products should be used with caution in patients with a history of bronchospasm. Further management should be clinically indicated or as recommended by the national poisons centre, where available. 5. PHARMACOLOGICAL PROPERTIES 5.1 Pharmacodynamic properties Pharmacotherapeutic group: Drugs for obstructive airway diseases, adrenergics in combination with anticholinergics including triple combinations with corticosteroids, ATC code: R03AL08. Mechanism of action Fluticasone furoate/umeclidinium/vilanterol is a combination of inhaled synthetic corticosteroid, long-acting muscarinic receptor antagonist and long-acting beta2-adrenergic agonist (ICS/LAMA/LABA). Following oral inhalation, umeclidinium and vilanterol act locally on airways to produce bronchodilation by separate mechanisms and fluticasone furoate reduces inflammation. Fluticasone furoate Fluticasone furoate is a corticosteroid with potent anti-inflammatory activity. The precise mechanism through which fluticasone furoate affects COPD symptoms is not known. Corticosteroids have been shown to have a wide range of actions on multiple cell types (e.g. eosinophils, macrophages, lymphocytes) and mediators (e.g. cytokines and chemokines) involved in inflammation. Medicinal product no longer authorised
+
+## Umeclidinium
+
+Umeclidinium is a long-acting muscarinic receptor antagonist (also referred to as an anticholinergic). Umeclidinium exerts its bronchodilatory activity by competitively inhibiting the binding of acetylcholine with muscarinic receptors on airway smooth muscle. It demonstrates slow reversibility at the human M3 muscarinic receptor subtype in vitro and a long duration of action in vivo when administered directly to the lungs in pre-clinical models.
+
+## Vilanterol
+
+Vilanterol is a selective long-acting, beta2-adrenergic receptor agonist (LABA). The pharmacologic effects of beta2-adrenergic agonists, including vilanterol, are at least in part attributable to stimulation of intracellular
+
+<div style=\"page-break-after: always\"></div>
+
+adenylate cyclase, the enzyme that catalyses the conversion of adenosine triphosphate (ATP) to cyclic-3',5'adenosine monophosphate (cyclic AMP). Increased cyclic AMP levels cause relaxation of bronchial smooth muscle and inhibition of release of mediators of immediate hypersensitivity from cells, especially from mast cells.
+
+## Pharmacodynamic effects
+
+## Cardiac electrophysiology
+
+The effect of fluticasone furoate/umeclidinium/vilanterol on the QT interval has not been evaluated in a thorough QT (TQT) study. TQT studies for FF/VI and umeclidinium/vilanterol (UMEC/VI) did not show clinically relevant effects on QT interval at clinical doses of FF, UMEC and VI.
+
+No clinically relevant effects on the QTc interval were observed on review of centrally read ECGs from 911 subjects with COPD exposed to fluticasone furoate/umeclidinium/vilanterol for up to 24 weeks, or in the subset of 210 subjects exposed for up to 52 weeks. Clinical efficacy and safety The efficacy of Temybric Ellipta (92/55/22 micrograms), administered as a once-daily treatment, has been evaluated in patients with a clinical diagnosis of COPD in two, active-controlled studies and in a single, noninferiority study. All three studies were multicentre, randomised, double-blind studies that required patients to be symptomatic with a COPD Assessment Test (CAT) score ≥ 10 and on daily maintenance treatment for their COPD for at least three months prior to study entry. FULFIL (CTT116853) was a 24-week study (N=1,810), with an extension up to 52 weeks in a subset of subjects (n=430), that compared Temybric Ellipta (92/55/22 micrograms) with budesonide/formoterol 400/12 micrograms (BUD/FOR) administered twice-daily. At screening, the mean post-bronchodilator percent predicted FEV1 was 45% and 65% of patients reported a history of one or more moderate/severe exacerbation in the past year. IMPACT (CTT116855) was a 52-week study (N=10,355) that compared Temybric Ellipta (92/55/22 micrograms) with fluticasone furoate/vilanterol 92/22 micrograms (FF/VI) and umeclidinium/vilanterol 55/22 micrograms (UMEC/VI). At screening, the mean post-bronchodilator percent predicted FEV1 was 46% and over 99% of patients reported a history of one or more moderate/severe exacerbation in the past year. At study entry, the most common COPD medications reported in the FULFIL and IMPACT studies were ICS +LABA+LAMA (28%, 34% respectively), ICS+LABA (29%, 26% respectively), LAMA+LABA (10%, 8% respectively) and LAMA (9%, 7% respectively). These patients may have also been taking other COPD medications (e.g. mucolytics or leukotriene receptor antagonists). Study 200812 was a 24-week, non-inferiority study (N=1,055) that compared Temybric Ellipta (92/55/22 micrograms) with FF/VI (92/22 micrograms) + UMEC (55 micrograms), co-administered once daily as a multi-inhaler therapy in patients with a history of moderate or severe exacerbations within the prior 12 months. Medicinal product no longer authorised
+
+## Lung Function
+
+In FULFIL, bronchodilatory effects with Temybric Ellipta were evident on the first day of treatment and were maintained over the 24-week treatment period (mean changes from baseline in FEV1 were 90-222 mL on day 1 and 160-339 mL at week 24). Temybric Ellipta significantly improved (p&lt;0.001) lung function (as defined by mean change from baseline in trough FEV1 at week 24) (see Table 1) and the improvement was maintained in the subset of patients who continued treatment to week 52.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 1. Lung function endpoint in FULFIL
+
+|                                             | Temybric Ellipta (N= 911)   | BUD/FOR (N=899)   | Treatment difference (95% CI) Comparison with BUD/FOR   |
+|---------------------------------------------|-----------------------------|-------------------|---------------------------------------------------------|
+| Trough FEV 1 (L) at Week 24, LS mean change | 0.142                       | -0.029            | 0.171                                                   |
+| from baseline (SE) a                        | (0.0083)                    | (0.0085)          | 0.148, 0.194                                            |
+
+FEV1=forced expiratory volume in 1 second; L=litres; LS=least squares; SE= standard error, N=number in the intent-totreat population; CI= confidence interval, a  Statistically significant treatment difference for FF/UMEC/VI vs. BUD/FOR also observed at the other assessment timepoints (weeks 2, 4 and 12).
+
+|                                                           |                              |                   |                     | Treatment difference 95%      | Treatment difference 95%        |
+|-----------------------------------------------------------|------------------------------|-------------------|---------------------|-------------------------------|---------------------------------|
+|                                                           | Temybric Ellipta (N = 4,151) | FF/VI (N = 4,134) | UMEC/VI (N = 2,070) | Comparison Temybric vs. FF/VI | Comparison Temybric vs. UMEC/VI |
+| Trough FEV 1 (L) at Week 52, LS mean change from baseline | 0.094                        | -0.003 (0.004)    | 0.040 (0.006)       | 0.097 0.085,                  | 0.054                           |
+| (SE) a                                                    | (0.004)                      |                   |                     | 0.109                         | 0.039, 0.069                    |
+
+In IMPACT, treatment with Temybric Ellipta reduced the annual rate of severe exacerbations (i.e., requiring hospitalisation or resulting in death) by 13% compared with FF/VI (95% CI: -1, 24; p=0.064). Treatment with Temybric Ellipta significantly reduced the annual rate of severe exacerbations by 34% compared with UMEC/VI (95% CI: 22, 44; p&lt;0.001).
+
+In IMPACT, Temybric Ellipta significantly improved (p&lt;0.001) lung function when compared with FF/VI and UMEC/VI over a 52-week period (See Table 2). Table 2 - Lung function endpoint in IMPACT FEV1= forced expiratory volume in 1 second; L= litres; LS=least squares; SE= standard error; N= number in the intentto-treat population; CI= confidence interval; a Statistically significant treatment differences for FF/UMEC/VI vs. FF/VI and FF/UMEC/VI vs. UMEC/VI were also observed at the other assessment timepoints (Weeks 4, 16, 28, and 40) . In Study 200812, Temybric Ellipta was non-inferior compared with FF/VI+UMEC, co-administered in two inhalers, in the improvement from baseline in trough FEV1 at week 24. The pre-specified non-inferiority margin was 50 mL. Exacerbations In IMPACT, over 52 weeks, Temybric Ellipta significantly reduced (p&lt;0.001) the annual rate of moderate/severe exacerbations by 15% (95% CI:10, 20) compared with FF/VI (rate; 0.91 vs 1.07 events per patient year) and by 25% (95% CI: 19, 30) compared with UMEC/VI (rate; 0.91 vs 1.21 events per patient year). In FULFIL, based upon data up to 24 weeks, Temybric Ellipta significantly reduced (p=0.002) the annual rate of moderate/severe exacerbations by 35% (95% CI: 14, 51) compared with BUD/FOR. In IMPACT, Temybric Ellipta prolonged the time to first moderate/severe exacerbation and significantly decreased (p&lt;0.001) the risk of a moderate/severe exacerbation, as measured by time to first exacerbation, compared with both FF/VI (14.8%; 95% CI: 9.3, 19.9) and UMEC/VI (16.0%; 95% CI: 9.4, 22.1). In FULFIL, Temybric Ellipta significantly decreased the risk of a moderate/severe exacerbation compared with BUD/FOR over 24 weeks (33%; 95% CI: 12, 48; p=0.004). Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+## Health-Related Quality of Life
+
+Temybric Ellipta significantly improved (p&lt;0.001) Health Related Quality of Life (as measured by the St George's Respiratory Questionnaire [SGRQ] total score) in both FULFIL (week 24) when compared with BUD/FOR (-2.2 units; 95% CI: -3.5, -1.0) and IMPACT (week 52) when compared with FF/VI (-1.8 units; 95% CI: -2.4, -1.1) and UMEC/VI (-1.8 units; 95% CI: -2.6, -1.0).
+
+A higher percentage of patients receiving Temybric Ellipta responded with a clinically meaningful improvement in SGRQ total score in FULFIL at week 24 compared with BUD/FOR (50% and 41% respectively), odds ratios of response vs. non-response (OR) (1.41; 95% CI: 1.16, 1.70) and in IMPACT at week 52 compared with FF/VI and UMEC/VI (42%, 34% and 34% respectively), OR vs. FF/VI (1.41; 95% CI:1.29, 1.55) and OR vs. UMEC/VI (1.41; 95% CI: 1.26, 1.57); all treatment comparisons were statistically significant (p&lt;0.001).
+
+In IMPACT, Temybric Ellipta statistically significantly reduced the mean number of nighttime awakenings due to COPD compared with FF/VI (-0.05; 95% CI: -0.08, -0.01; p=0.005) and with UMEC/VI (-0.10; 95% CI: -0.14, -0.05; p&lt;0.001) at weeks 49 to 52. Significant reductions were observed over all other timepoints for UMEC/VI (p&lt;0.001) and for the all but two of the of timepoints for FF/VI ( p≤0.021 ).
+
+In FULFIL, the proportion of patients who were CAT responders (defined as 2 units below baseline or lower) at week 24, was significantly higher (p&lt;0.001) for patients treated with Temybric Ellipta compared with BUD/FOR (53% vs. 45%; OR 1.44; 95% CI: 1.19, 1.75). In IMPACT, the proportion of patients who were CAT responders at week 52 was significantly higher (p&lt;0.001) for patients treated with Temybric Ellipta (42%) compared with FF/VI (37%; OR 1.24; 95% CI: 1.14, 1.36) and UMEC/VI (36%; OR 1.28; 95% CI: 1.15, 1.43). Symptom Relief Breathlessness was measured using the Transition Dyspnoea Index (TDI) focal score at week 24 in FULFIL and week 52 in IMPACT (a subset of patients, n=5,058). In FULFIL the proportion of responders according to TDI (defined as at least 1 unit) was significantly higher (p&lt;0.001) for Temybric Ellipta compared with BUD/FOR (61% vs 51%; OR 1.61; 95% CI: 1.33, 1.95). In IMPACT, the proportion of responders was also significantly higher (p&lt;0.001) for Temybric Ellipta (36%) compared with FF/VI (29%; OR 1.36; 95% CI: 1.19, 1.55) and UMEC/VI (30%; OR 1.33; 95% CI: 1.13, 1.57). In FULFIL, Temybric Ellipta improved daily symptoms of COPD as assessed by E-RS: COPD total score, compared with BUD/FOR (≥2 unit decrease from baseline). The proportion of responders during weeks 21-24 was significantly higher (p&lt;0.001) for patients treated with Temybric Ellipta compared with BUD/FOR (47% and 37% respectively; OR 1.59; 95% CI: 1.30, 1.94). Use of Rescue Medication In FULFIL, Temybric Ellipta significantly reduced (p&lt;0.001) the use of rescue medication between weeks 1-24 compared with BUD/FOR (treatment difference: -0.2 occasions per day; 95% CI: -0.3, -0.1). In IMPACT, Temybric Ellipta significantly reduced (p&lt;0.001) the use of rescue medication (occasions per day) at each 4-week time period compared with FF/VI and UMEC/VI. At weeks 49-52, the treatment difference was -0.28 (95% CI: -0.37, -0.19) when compared with FF/VI and -0.30 (95% CI: -0.41, -0.19) with UMEC/VI. Nighttime awakenings Medicinal product no longer authorised
+
+## Paediatric population
+
+The European Medicines Agency has waived the obligation to submit the results of studies with Temybric Ellipta in all subsets of the paediatric population in COPD (see section 4.2 for information on paediatric use).
+
+## 5.2 Pharmacokinetic properties
+
+When fluticasone furoate, umeclidinium and vilanterol were administered in combination by the inhaled route from a single inhaler in healthy subjects, the pharmacokinetics of each component were similar to those
+
+<div style=\"page-break-after: always\"></div>
+
+observed when each active substance was administered either as fluticasone furoate/vilanterol combination or as an umeclidinium/vilanterol combination or umeclidinium monotherapy.
+
+Population PK analyses for FF/UMEC/VI were conducted using a combined PK dataset from three phase III studies in 821 COPD subjects. Systemic drug levels (steady state Cmax and AUC) of FF, UMEC and VI following FF/UMEC/VI in one inhaler (triple combination) were within the range of those observed following FF/VI + UMEC as two inhalers, dual combinations (FF/VI and UMEC/VI), as well as individual single inhalers (FF, UMEC and VI). Covariate analysis showed higher FF apparent clearance (42%) when comparing FF/VI to FF/UMEC/VI; however, this is not considered clinically relevant.
+
+## Absorption
+
+Fluticasone furoate Following inhaled administration of fluticasone furoate/umeclidinium/vilanterol in healthy subjects, fluticasone furoate Cmax occurred at 15 minutes. The absolute bioavailability of fluticasone furoate when administrated as fluticasone furoate/vilanterol by inhalation was 15.2%, primarily due to absorption of the inhaled portion of the dose delivered to the lung, with negligible contribution from oral absorption. Following repeat dosing of inhaled fluticasone furoate /vilanterol, steady state was achieved within 6 days with up to 1.6-fold accumulation Umeclidinium Following inhaled administration of fluticasone furoate/umeclidinium/vilanterol in healthy subjects, umeclidinium Cmax occurred at 5 minutes. The absolute bioavailability of inhaled umeclidinium was on average 13%, with negligible contribution from oral absorption. Following repeat dosing of inhaled umeclidinium, steady state was achieved within 7 to 10 days with 1.5 to 2-fold accumulation. Vilanterol Following inhaled administration of fluticasone furoate/umeclidinium/vilanterol in healthy subjects, vilanterol Cmax occurred at 7 minutes. The absolute bioavailability of inhaled vilanterol was 27%, with negligible contribution from oral absorption. Following repeat dosing of inhaled umeclidinium/vilanterol, steady state was achieved within 6 days with up to 1.5-fold accumulation. Distribution Fluticasone furoate Following intravenous dosing of fluticasone furoate to healthy volunteers, the mean volume of distribution at steady state of 661 litres. Fluticasone furoate has a low association with red blood cells. In vitro plasma protein binding in human plasma of fluticasone furoate was high, on average &gt;99.6%. Umeclidinium Following intravenous administration of umeclidinium to healthy volunteers, the mean volume of distribution was 86 litres. In vitro plasma protein binding in human plasma was on average 89%. Vilanterol Medicinal product no longer authorised
+
+Following intravenous administration of vilanterol to healthy volunteers, the mean volume of distribution at steady  state  was  165 litres.  Vilanterol  has  a  low  association  with  red  blood  cells. In vitro plasma  protein binding in human plasma was on average 94%.
+
+## Biotransformation
+
+## Fluticasone furoate
+
+In vitro studies showed that fluticasone furoate is primarily metabolised by cytochrome P450 3A4 (CYP3A4) and is a substrate for the P-gp transporter. The primary metabolic route for fluticasone furoate is
+
+<div style=\"page-break-after: always\"></div>
+
+hydrolysis of the S-fluoromethyl carbothioate group to metabolites with significantly reduced corticosteroid activity. Systemic exposure to the metabolites is low.
+
+## Umeclidinium
+
+In vitro studies showed that umeclidinium is primarily metabolised by cytochrome P450 2D6 (CYP2D6) and is a substrate for the P-gp transporter. The primary metabolic routes for umeclidinium are oxidative (hydroxylation, O-dealkylation) followed by conjugation (glucuronidation, etc), resulting in a range of metabolites with either reduced pharmacological activity or for which the pharmacological activity has not been established. Systemic exposure to the metabolites is low.
+
+## Vilanterol
+
+In vitro studies showed that vilanterol is primarily metabolised by cytochrome P450 3A4 (CYP3A4) and is a substrate for the P-gp transporter. The primary metabolic routes for vilanterol are O-dealkylation to a range of metabolites with significantly reduced beta1- and beta2-adrenergic agonist activity. Plasma metabolic profiles following oral administration of vilanterol in a human radiolabel study were consistent with high first-pass metabolism. Systemic exposure to the metabolites is low. Elimination Fluticasone furoate The apparent plasma elimination half-life of fluticasone furoate following inhaled administration of fluticasone furoate/vilanterol was, on average, 24 hours. Following intravenous administration, the elimination phase half-life averaged 15.1 hours. Plasma clearance following intravenous administration was 65.4 litres/hour. Urinary excretion accounted for approximately 2 % of the intravenously administered dose. Following oral administration, fluticasone furoate was eliminated in humans mainly by metabolism with metabolites being excreted almost exclusively in faeces, with &lt;1% of the recovered radioactive dose eliminated in the urine. Umeclidinium Umeclidinium plasma elimination half-life following inhaled dosing for 10 days averaged 19 hours, with 3% to 4% active substance excreted unchanged in urine at steady-state.  Plasma clearance following intravenous administration was 151 litres/hour. Following intravenous administration, approximately 58% of the administered radiolabelled dose was excreted in faeces and approximately 22% of the administered radiolabelled dose was excreted in urine. The excretion of the drug-related material in the faeces following intravenous dosing indicated secretion into the bile. Following oral administration, 92% of the administered radiolabelled dose was excreted primarily in faeces. Less than 1% of the orally administered dose (1% of recovered radioactivity) was excreted in urine, suggesting negligible absorption following oral administration. Vilanterol Vilanterol plasma elimination half-life following inhaled dosing for 10 days averaged 11 hours. Plasma clearance of vilanterol following intravenous administration was 108 litres/hour. Following oral administration of radiolabelled vilanterol, 70% of the radiolabel was excreted in urine and 30% in faeces. Primary elimination of vilanterol was by metabolism followed by excretion of metabolites in urine and faeces. Medicinal product no longer authorised
+
+## Special populations
+
+## Elderly
+
+The effects of age on the pharmacokinetics of fluticasone furoate, umeclidinium and vilanterol were evaluated in the population pharmacokinetic analysis. . No clinically relevant effects requiring dose adjustment were observed.
+
+## Renal impairment
+
+The effect of fluticasone furoate/umeclidinium/vilanterol has not been evaluated in subjects with renal impairment. However, studies have been conducted with fluticasone furoate/vilanterol and
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+umeclidinium/vilanterol that showed no evidence of an increase in systemic exposure to fluticasone furoate, umeclidinium or vilanterol. In vitro protein binding studies between subjects with severe renal impairment and healthy volunteers were conducted, and no clinically significant evidence of altered protein binding was seen.
+
+The effects of haemodialysis have not been studied.
+
+## Hepatic impairment
+
+The effect of fluticasone furoate/umeclidinium/vilanterol has not been evaluated in subjects with hepatic impairment. However, studies have been conducted with fluticasone furoate/vilanterol and umeclidinium/vilanterol.
+
+The fluticasone furoate/vilanterol component of Temybric Ellipta was assessed in patients with all severities of hepatic impairment (Child-Pugh A, B or C). For fluticasone furoate, patients with moderate hepatic impairment showed up to three times higher systemic exposure (FF 184 micrograms); therefore, patients with severe hepatic impairment received half the dose (FF 92 micrograms). At this dose, no effects on systemic exposure were observed. Therefore, caution is advised in moderate to severe hepatic impairment, but no specific dose adjustment based on hepatic function is recommended. There was no significant increase in systemic exposure to vilanterol. Patients with moderate hepatic impairment showed no evidence of an increase in systemic exposure to either umeclidinium or vilanterol (Cmax and AUC). Umeclidinium has not been evaluated in patients with severe hepatic impairment. Other special populations The effects of race, gender and weight on the pharmacokinetics of fluticasone furoate, umeclidinium and vilanterol were also evaluated in the population pharmacokinetic analysis. In 113 East Asian subjects with COPD (Japanese and East Asian Heritage), who received FF/UMEC/VI from a single inhaler (27% subjects), fluticasone furoate AUC( ss ) estimates  were on average 30% higher compared with Caucasian subjects. However, these higher systemic exposures remain below the threshold for FF-induced reduction of serum and urine cortisol and are not considered clinically relevant. There was no effect of race on pharmacokinetic parameters of umeclidinium or vilanterol in subjects with COPD. No clinically relevant differences requiring dose adjustment based on race, gender or weight were observed in fluticasone furoate, umeclidinium or vilanterol systemic exposure. In terms of other patient characteristics, a study in CYP2D6 poor metabolisers showed no evidence of a clinically significant effect of CYP2D6 genetic polymorphism on systemic exposure to umeclidinium. 5.3 Preclinical safety data Medicinal product no longer authorised
+
+Pharmacological and toxicological effects seen with fluticasone furoate, umeclidinium or vilanterol in nonclinical studies were those typically associated with glucocorticoids, muscarinic receptor antagonists, or beta2-adrenergic receptor agonists. Administration of combined fluticasone furoate, umeclidinium and vilanterol to dogs did not result in any significant new toxicity or any major exacerbation of expected findings associated with fluticasone furoate, umeclidinium or vilanterol alone.
+
+## Genotoxicity and carcinogenicity
+
+## Fluticasone furoate
+
+Fluticasone furoate was not genotoxic in a standard battery of studies and was not carcinogenic in lifetime inhalation studies in rats or mice at exposures of 1.4- or 2.9-fold, respectively, those seen in humans at a daily dose of 92 micrograms fluticasone furoate, based on AUC.
+
+<div style=\"page-break-after: always\"></div>
+
+## Umeclidinium
+
+Umeclidinium was not genotoxic in a standard battery of studies and was not carcinogenic in lifetime inhalation studies in mice or rats at exposures ≥ 20- or ≥ 17- fold the human clinical exposure at a daily dose of 55 micrograms umeclidinium, based on AUC respectively.
+
+## Vilanterol
+
+Vilanterol (as alpha-phenylcinnamate) and triphenylacetic acid were not genotoxic indicating that vilanterol (as trifenatate) does not represent a genotoxic hazard to humans. Consistent with findings for other beta2 agonists, in lifetime inhalation studies vilanterol trifenatate caused proliferative effects in the female rat and mouse reproductive tract and rat pituitary gland. There was no increase in tumour incidence in rats or mice at exposures 0.9- or 22-fold, respectively, the human clinical exposure of vilanterol at a daily dose of 22 micrograms based on AUC.
+
+<!-- image -->
+
+Toxicity to reproduction Fluticasone furoate, umeclidinium and vilanterol did not have any adverse effects on male or female fertility in rats. Fluticasone furoate Fluticasone furoate was not teratogenic in rats or rabbits, but delayed development in rats and caused abortion in rabbits at maternally toxic doses. There were no effects on development in rats at exposures 6.6fold the human clinical exposure at a daily dose of 92 micrograms, based on AUC. Fluticasone furoate had no adverse effect on pre- or post-natal development in rats. Umeclidinium Umeclidinium was not teratogenic in rats or rabbits. In a pre- and post-natal study, subcutaneous administration of umeclidinium to rats resulted in lower maternal body weight gain and food consumption and slightly decreased pre-weaning pup body weights in dams given 180 micrograms/kg/day dose (approximately 61-fold the human clinical exposure of umeclidinium at a daily dose of 55 micrograms, based on AUC). Vilanterol Vilanterol was not teratogenic in rats. In inhalation studies in rabbits, vilanterol caused effects similar to those seen with other beta2-adrenergic agonists (cleft palate, open eyelids, sternebral fusion and limb flexure/malrotation). When given subcutaneously there were no effects at exposures 62-fold the human clinical exposure at a daily dose of 22 micrograms, based on AUC. Vilanterol had no adverse effect on preor post-natal development in rats. 6. PHARMACEUTICAL PARTICULARS 6.1 List of excipients Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+Magnesium stearate
+
+## 6.2 Incompatibilities
+
+Not applicable.
+
+## 6.3 Shelf life
+
+2 years Shelf-life after opening the tray: 6 weeks
+
+## 6.4 Special precautions for storage
+
+Do not store above 30°C. If stored in a refrigerator allow the inhaler to return to room temperature for at least an hour before use. Keep the inhaler inside the sealed tray in order to protect from moisture and only remove immediately before first use. Write the date that the inhaler should be discarded on the label and carton in the space provided.  The date should be added as soon as the inhaler has been removed from the tray. 6.5 Nature and contents of container The Ellipta inhaler consists of a light grey body, beige mouthpiece cover and a dose counter, packed into a foil laminate tray containing a silica gel desiccant sachet. The tray is sealed with a peelable foil lid. The inhaler is a multi-component device composed of polypropylene, high density polyethylene, polyoxymethylene, polybutylene terephthalate, acrylonitrile butadiene styrene, polycarbonate and stainless steel. The inhaler contains two aluminium foil laminate blister strips that deliver a total of 14 or 30 doses (14 or 30 day supply). Each blister in one strip contains fluticasone furoate, each blister in the other strip contains umeclidinium (as bromide) and vilanterol (as trifenatate). Pack sizes of 14 or 30 dose inhalers. Multipack of 90 (3 packs of 30) dose inhalers. Not all pack sizes may be marketed. 6.6 Special precautions for disposal After inhalation, patients should rinse their mouth with water without swallowing. The Ellipta inhaler contains pre-dispensed doses and is ready to use. Medicinal product no longer authorised
+
+The inhaler is packaged in a tray containing a desiccant sachet, to reduce moisture. The desiccant sachet should be thrown away and it should not be opened, eaten or inhaled. The patient should be advised to not open the tray until they are ready to inhale a dose.
+
+The inhaler will be in the 'closed' position when it is first taken out of its sealed tray. The 'Discard by' date should be written on the inhaler label and carton in the space provided. The date should be added as soon as the inhaler has been removed from the tray. The 'Discard by' date is 6 weeks from the date of opening the tray. After this date the inhaler should no longer be used. The tray can be discarded after first opening.
+
+<div style=\"page-break-after: always\"></div>
+
+If the inhaler cover is opened and closed without inhaling the medicinal product, the dose will be lost. The lost dose will be securely held inside the inhaler, but it will no longer be available to be inhaled.
+
+It is not possible to accidentally take extra medicine or a double dose in one inhalation.
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+<!-- image -->
+
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland 8. MARKETING AUTHORISATION NUMBER(S) EU/1/19/1378/001 EU/1/19/1378/002 EU/1/19/1378/003 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION Date of first authorisation: 12 June 2019 10. DATE OF REVISION OF THE TEXT Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu. Medicinal product no longer authorised
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+ANNEX II A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+## A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+
+Name and address of the manufacturer responsible for batch release
+
+Glaxo Wellcome Production Zone Industrielle No.2, 23 Rue Lavoisier, 27000 Evreux,
+
+France
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
+
+<!-- image -->
+
+B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE Medicinal product subject to medical prescription. C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION · Periodic safety update reports (PSURs) The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal. D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT · Risk management plan (RMP) The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP. An updated RMP should be submitted: · At the request of the European Medicines Agency; · Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached. Medicinal product no longer authorised
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX III LABELLING AND PACKAGE LEAFLET Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON (SINGLE PACKS)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Temybric Ellipta 92 micrograms/55 micrograms/22 micrograms inhalation powder, pre-dispensed fluticasone furoate/umeclidinium/vilanterol
+
+2. STATEMENT OF ACTIVE SUBSTANCE(S) Each delivered dose contains 92 micrograms of fluticasone furoate, 55 micrograms of umeclidinium (equivalent to 65 micrograms of umeclidinium bromide) and 22 micrograms of vilanterol (as trifenatate). 3. LIST OF EXCIPIENTS Excipients: lactose and magnesium stearate. See package leaflet for further information. 4. PHARMACEUTICAL FORM AND CONTENTS Inhalation powder, pre-dispensed. 1 inhaler of 14 doses 1 inhaler of 30 doses 5. METHOD AND ROUTE(S) OF ADMINISTRATION ONCE DAILY Read the package leaflet before use. Inhalation use 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN Keep out of the sight and reach of children. Medicinal product no longer authorised
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+In use shelf-life: 6 weeks.
+
+Discard by:
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Do not store above 30°C.
+
+Store in the original package in order to protect from moisture.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland 12. MARKETING AUTHORISATION NUMBER(S) EU/1/19/1378/001 EU/1/19/1378/002 13. BATCH NUMBER Lot 14. GENERAL CLASSIFICATION FOR SUPPLY 15. INSTRUCTIONS ON USE 16. INFORMATION IN BRAILLE temybric ellipta 17. UNIQUE IDENTIFIER - 2D BARCODE Medicinal product no longer authorised
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC:
+
+SN:
+
+<div style=\"page-break-after: always\"></div>
+
+NN:
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+BUNDLE LABEL (WITH BLUE BOX- MULTIPACK)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Temybric Ellipta 92 micrograms/55 micrograms/22 micrograms inhalation powder, pre-dispensed fluticasone furoate/umeclidinium/vilanterol
+
+2. STATEMENT OF ACTIVE SUBSTANCE(S) Each delivered dose contains 92 micrograms of fluticasone furoate, 55 micrograms of umeclidinium (equivalent to 65 micrograms of umeclidinium bromide) and 22 micrograms of vilanterol (as trifenatate). 3. LIST OF EXCIPIENTS Excipients: lactose and magnesium stearate. See package leaflet for further information. 4. PHARMACEUTICAL FORM AND CONTENTS Inhalation powder, pre-dispensed. Multipack: 90 (3 packs of 30) doses 5. METHOD AND ROUTE(S) OF ADMINISTRATION ONCE DAILY Read the package leaflet before use. Inhalation use 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN Keep out of the sight and reach of children. Medicinal product no longer authorised
+
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+In use shelf-life: 6 weeks.
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Do not store above 30°C.
+
+Store in the original package in order to protect from moisture.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland 12. MARKETING AUTHORISATION NUMBER(S) EU/1/19/1378/003 13. BATCH NUMBER Lot 14. GENERAL CLASSIFICATION FOR SUPPLY 15. INSTRUCTIONS ON USE 16. INFORMATION IN BRAILLE temybric ellipta 17. UNIQUE IDENTIFIER - 2D BARCODE 2D barcode carrying the unique identifier included. Medicinal product no longer authorised
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC:
+
+SN:
+
+NN:
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## INTERMEDIATE OUTER CARTON (WITHOUT BLUE BOX- MULTIPACK ONLY)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Temybric Ellipta 92 micrograms/55 micrograms/22 micrograms inhalation powder, pre-dispensed fluticasone furoate/umeclidinium/vilanterol
+
+2. STATEMENT OF ACTIVE SUBSTANCE(S) Each delivered dose contains 92 micrograms of fluticasone furoate, 55 micrograms of umeclidinium (equivalent to 65 micrograms umeclidinium bromide) and 22 micrograms of vilanterol (as trifenatate). 3. LIST OF EXCIPIENTS Excipients: lactose and magnesium stearate. See package leaflet for further information. 4. PHARMACEUTICAL FORM AND CONTENTS Inhalation powder, pre-dispensed 1 inhaler of 30 doses. Component of a multipack, can't be sold separately. 5. METHOD AND ROUTE(S) OF ADMINISTRATION ONCE DAILY Read the package leaflet before use. Inhalation use 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN Keep out of the sight and reach of children. Medicinal product no longer authorised
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+In use shelf-life: 6 weeks.
+
+Discard by:
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Do not store above 30°C
+
+Store in the original package in order to protect from moisture.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland 12. MARKETING AUTHORISATION NUMBER(S) 13. BATCH NUMBER Lot 14. GENERAL CLASSIFICATION FOR SUPPLY 15. INSTRUCTIONS ON USE 16. INFORMATION IN BRAILLE temybric ellipta 17. UNIQUE IDENTIFIER - 2D BARCODE 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+
+TRAY LABEL
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Temybric Ellipta 92/55/22 mcg inhalation powder fluticasone furoate/umeclidinium/vilanterol
+
+2. NAME OF THE MARKETING AUTHORISATION HOLDER GlaxoSmithKline Trading Services Limited GSK Logo 3. EXPIRY DATE EXP 4. BATCH NUMBER Lot 5. OTHER Do not open until ready to inhale. In use shelf-life: 6 weeks. 14 doses 30 doses Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS INHALER LABEL
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+Temybric Ellipta 92 /55 /22 mcg inhalation powder fluticasone furoate/umeclidinium/vilanterol Inhalation use
+
+2. METHOD OF ADMINISTRATION 3. EXPIRY DATE EXP In use shelf-life: 6 weeks. Discard by: 4. BATCH NUMBER Lot 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT 14 doses 30 doses 6. OTHER Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the patient
+
+## Temybric Ellipta 92 micrograms/55 micrograms/22 micrograms inhalation powder, pre-dispensed fluticasone furoate/umeclidinium/vilanterol
+
+This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+
+## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
+
+In COPD the muscles around the airways tighten, making breathing difficult.  This medicine widens these muscles in the lungs, reducing the swelling and irritation in the small air passages and making it easier for air to get in and out of the lungs.  When used regularly, it can help to control your breathing difficulties and reduce the effects of COPD on your everyday life.
+
+-Keep this leaflet. You may need to read it again. -If you have any further questions, ask your doctor, pharmacist or nurse. -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours. -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. See section 4. What is in this leaflet 1. What Temybric Ellipta is and what it is used for 2. What you need to know before you use Temybric Ellipta 3. How to use Temybric Ellipta 4. Possible side effects 5. How to store Temybric Ellipta 6. Contents of the pack and other information Step-by-step instructions 1. What Temybric Ellipta is and what it is used for What Temybric Ellipta is Temybric Ellipta contains three active substances called fluticasone furoate, umeclidinium bromide and vilanterol. Fluticasone furoate belongs to a group of medicines called corticosteroids, often simply called steroids.  Umeclidinium bromide and vilanterol belong to a group of medicines called bronchodilators. What Temybric Ellipta is used for Temybric Ellipta is used to treat chronic obstructive pulmonary disease ( COPD ) in adults. COPD is a longterm condition characterised by breathing difficulties that slowly get worse. Medicinal product no longer authorised
+
+Temybric Ellipta should be used every day and not only when you have breathing problems or other symptoms of COPD. It should not be used to relieve a sudden attack of breathlessness or wheezing . If you get this sort of attack you must use a quick-acting inhaler (such as salbutamol). If you do not have a quick-acting inhaler contact your doctor.
+
+<div style=\"page-break-after: always\"></div>
+
+## 2. What you need to know before you use Temybric Ellipta
+
+## Don't use Temybric Ellipta:
+
+- -if you are allergic to fluticasone furoate, umeclidinium, vilanterol or any of the other ingredients of this medicine (listed in section 6).
+
+## Warnings and precautions
+
+Talk to your doctor before using Temybric Ellipta
+
+- -if you have asthma (Don't use Temybric Ellipta to treat asthma)
+- -if you have heart problems or high blood pressure
+- -if you have liver problems
+
+-if you have tuberculosis (TB) of the lung , or any long standing or untreated infections -if you have an eye problem called narrow-angle glaucoma -if you have an enlarged prostate, difficulty passing urine or a blocking in your bladder -if you suffer from epilepsy -if you have thyroid gland problems -if you have low potassium in your blood -if you have a history of diabetes -if you experience blurred vision or other visual disturbances Check with your doctor if you think any of these may apply to you. Immediate breathing difficulties If you get tightness of the chest, coughing, wheezing or breathlessness immediately after using your Temybric Ellipta inhaler: Stop using this medicine and seek medical help immediately , as you may have a serious condition called paradoxical bronchospasm. Eye problems during treatment with Temybric Ellipta If you get eye pain or discomfort, temporary blurring of vision, visual halos or coloured images as well as red eyes during treatment with Temybric Ellipta: Stop using this medicine and seek medical help immediately , these may be signs of an acute attack of narrow-angle glaucoma. Infection of the lung Because you are using this medicine for COPD, you may be at an increased risk of developing an infection of the lungs known as pneumonia.  See section 4 'Possible side effects' for information on symptoms to look out for while you are using this medicine. Tell your doctor as soon as possible if you develop any of these symptoms. Children and adolescents Do not give this medicine to children or adolescents below the age of 18 years. Medicinal product no longer authorised
+
+## Other medicines and Temybric Ellipta
+
+Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. If you are not sure what your medicine contains talk to your doctor or pharmacist.
+
+Some medicines may affect how this medicine works, or make it more likely that you'll have side effects. These include:
+
+- -medicines called beta blockers (such as propranolol), to treat high blood pressure or other heart problems
+- -ketoconazole or itraconazole, to treat fungal infections
+
+<div style=\"page-break-after: always\"></div>
+
+- -clarithromycin or telithromycin, to treat bacterial infections
+- -ritonavir or cobicistat, to treat HIV infection
+- -medicines that lower the amount of potassium in your blood, such as some diuretics (water tablets) or some medicines used to treat COPD and asthma (such as methylxanthine or steroids)
+- -other long-acting medicines similar to this medicine that are used to treat breathing problems, e.g. tiotropium, indacaterol.  Don't use Temybric Ellipta if you already use these medicines.
+
+Tell your doctor or pharmacist if you are taking any of these.  Your doctor may wish to monitor you carefully if you are taking any of these medicines as they may increase the side effects of Temybric Ellipta.
+
+## Pregnancy and breast-feeding
+
+If you are pregnant or breast-feeding, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.  Don't use this medicine if you are pregnant unless your doctor tells you that you can. It is not known whether the ingredients of this medicine can pass into breast milk.  If you are breast-feeding, you must check with your doctor before you use Temybric Ellipta.  Don't use this medicine if you are breastfeeding unless your doctor tells you that you can. Driving and using machines It is unlikely that this medicine will affect your ability to drive or use machines. Temybric Ellipta contains lactose If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before using this medicine. 3. How to use Temybric Ellipta Always use this medicine exactly as your doctor has told you.  Check with your doctor or pharmacist if you are not sure. The recommended dose is one inhalation every day at the same time of day.  You only need to inhale once a day because the effect of this medicine lasts for 24 hours. Don't use more than your doctor tells you to use. Use Temybric Ellipta regularly It is very important that you use Temybric Ellipta every day, as instructed by your doctor.  This will help to keep you free of symptoms throughout the day and night. Temybric Ellipta should not be used to relieve a sudden attack of breathlessness or wheezing .  If you get this sort of attack you must use a quick-acting reliever inhaler (such as salbutamol). How to use the inhaler See ' Step-by-step instructions ' in this leaflet for full information. Medicinal product no longer authorised
+
+Temybric Ellipta is for inhalation use.
+
+Once the tray is opened Temybric Ellipta is ready to use.
+
+## If your symptoms do not improve
+
+If your COPD symptoms (breathlessness, wheezing, cough) do not improve or get worse, or if you are using your quick-acting inhaler more often:
+
+contact your doctor as soon as possible.
+
+If you use more Temybric Ellipta than you should
+
+<div style=\"page-break-after: always\"></div>
+
+If you use too much of this medicine, contact your doctor or pharmacist for advice immediately as you may need medical attention.  If possible, show them the inhaler, the package or this leaflet.  You may notice that your heart is beating faster than usual, you feel shaky, you have visual disturbances, have a dry mouth, or have a headache.
+
+## If you forget to use Temybric Ellipta
+
+Don't inhale a double dose to make up for a forgotten dose. Just inhale your next dose at the usual time. If you become wheezy or breathless, use your quick-acting inhaler (such as salbutamol), then seek medical advice.
+
+## If you stop using Temybric Ellipta
+
+Use this medicine for as long as your doctor recommends.  Don't stop unless your doctor advises you to, even if you feel better, as your symptoms may get worse. If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse. 4. Possible side effects Like all medicines, this medicine can cause side effects, although not everybody gets them. Allergic reactions Allergic reactions to Temybric Ellipta are rare (they may affect up to 1 in 1,000 people). If you have any of the following symptoms after taking Temybric Ellipta, stop using it and tell your doctor immediately: · skin rash or redness, hives ( urticaria ) · swelling, sometimes of the face or mouth ( angioedema ) · wheezing, coughing or having difficulty in breathing · suddenly feeling weak or light headed (may lead to collapse or loss of consciousness) Immediate breathing difficulties If your breathing or wheezing gets worse straight after using this medicine, stop using it and get medical help immediately. Pneumonia (infection of the lung) in COPD patients (common side effect) Tell your doctor if you have any of the following while using Temybric Ellipta - these could be symptoms of a lung infection: · fever or chills · increased mucus production, change in mucus colour · increased cough or increased breathing difficulties Common side effects These may affect up to 1 in 10 people: · sore, raised patches in the mouth or throat caused by a fungal infection (candidiasis) . Rinsing your mouth out with water immediately after using Temybric Ellipta may help prevent this side effect. Medicinal product no longer authorised
+
+- infection of the nose, sinuses or throat
+- infection of the upper airways
+- itchy, runny or blocked nose
+- pain in the back of the mouth and throat
+- inflammation of the sinuses
+- inflammation of the lungs ( bronchitis )
+- flu ( influenza )
+- common cold
+- headache
+- cough
+
+<div style=\"page-break-after: always\"></div>
+
+- painful and frequent urination (may be signs of a urinary tract infection)
+- joint pain
+- back pain
+- constipation.
+
+## Uncommon side effects
+
+These may affect up to 1 in 100 people:
+
+- irregular heart beat
+- faster heart beat
+- hoarseness
+- weakening of the bones, leading to fractures
+
+<!-- image -->
+
+· dry mouth · taste disturbance · blurred vision · increased eye pressure · eye pain. Rare side effects These may affect up to 1 in 1,000 people: · allergic reactions (see earlier in Section 4) Reporting of side effects If you get any side effects, talk to your doctor, pharmacist or nurse.  This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V.  By reporting side effects you can help provide more information on the safety of this medicine. 5. How to store Temybric Ellipta Keep this medicine out of the sight and reach of children. Don't use this medicine after the expiry date which is stated on the carton, tray and inhaler after 'EXP'.  The expiry date refers to the last day of that month. Do not store above 30°C. Keep the inhaler inside the sealed tray in order to protect from moisture and only remove immediately before first use.  Once the tray is opened, the inhaler can be used for up to 6 weeks, starting from the date of opening the tray. Write the date the inhaler should be thrown away on the label in the space provided. The date should be added as soon as the inhaler has been removed from the tray. If stored in a refrigerator, allow the inhaler to return to room temperature for at least one hour before use. Do not throw away any medicines via household waste.  Ask your pharmacist how to dispose of medicines no longer required.  This will help to protect the environment. Medicinal product no longer authorised
+
+## 6. Contents of the pack and other information
+
+## What Temybric Ellipta contains
+
+The active substances are fluticasone furoate, umeclidinium bromide and vilanterol.
+
+Each single inhalation provides a delivered dose (the dose leaving the mouthpiece) of 92 micrograms of fluticasone furoate, 65 micrograms umeclidinium bromide equivalent to 55 micrograms umeclidinium and 22 micrograms of vilanterol (as trifenatate).
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+The other ingredients are lactose monohydrate (see section 2 under 'Temybric Ellipta contains lactose') and magnesium stearate.
+
+## What Temybric Ellipta looks like and contents of the pack
+
+Temybric Ellipta is an inhalation powder, pre-dispensed.
+
+The Ellipta inhaler consists of a light grey plastic body, a beige coloured mouthpiece cover and a dose counter. It is packaged in a foil laminate tray with a peelable foil lid.  The tray contains a desiccant sachet, to reduce moisture in the packaging.
+
+The active substances are present as a white powder in separate blister strips inside the inhaler.  Each inhaler contains either 14 or 30 doses (14 or 30 day supply).  Multipacks containing 90 (3 inhalers of 30) doses (90 day supply) are also available.  Not all pack sizes may be marketed in your country.
+
+<!-- image -->
+
+Marketing Authorisation Holder GlaxoSmithKline Trading Services Limited 12 Riverwalk Citywest Business Campus Dublin 24 Ireland Manufacturer Glaxo Wellcome Production Zone Industrielle No.2, 23 Rue Lavoisier, 27000 Evreux, France For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder: België/Belgique/Belgien GlaxoSmithKline Pharmaceuticals s.a./n.v. Tél/Tel: + 32 (0) 10 85 52 00 Lietuva Medicinal product no longer authorised
+
+## България
+
+' Берлин -Хеми/А. Менарини България' EООД Teл.: + 359 2 454 0950 bcsofia@berlin-chemie.com
+
+UAB 'BERLIN-CHEMIE MENARINI BALTIC' Tel: + 370 52 691 947 lt@berlin-chemie.com
+
+## Luxembourg/Luxemburg
+
+GlaxoSmithKline Pharmaceuticals s.a./n.v. Belgique/Belgien Tél/Tel: + 32 (0) 10 85 52 00
+
+<div style=\"page-break-after: always\"></div>
+
+## Česká republika
+
+GlaxoSmithKline, s.r.o. Tel: + 420 222 001 111 cz.info@gsk.com
+
+## Danmark
+
+GlaxoSmithKline Pharma A/S Tlf: + 45 36 35 91 00 dk-info@gsk.com
+
+## Deutschland
+
+## Magyarország
+
+Berlin-Chemie/A. Menarini Kft. Tel.: + 36 23501301 bc-hu@berlin-chemie.com
+
+## Malta
+
+GlaxoSmithKline Trading Services Limited Tel: + 356 80065004
+
+## Nederland
+
+GlaxoSmithKline GmbH &amp; Co. KG Tel.: + 49 (0)89 36044 8701 produkt.info@gsk.com GlaxoSmithKline BV Tel: + 31 (0)33 2081100 Eesti OÜ Berlin-Chemie Menarini Eesti Tel: + 372 667 5001 ee@berlin-chemie.com Norge GlaxoSmithKline AS Tlf: + 47 22 70 20 00 Ελλάδα GlaxoSmithKline Μονοπρόσωπη A.E.B.E. Τηλ: + 30 210 68 82 100 Österreich GlaxoSmithKline Pharma GmbH Tel: + 43 (0)1 97075 0 at.info@gsk.com España Laboratorios Menarini, S.A. Tel: + 34 934 628 800 info@menarini.es Polska GSK Services Sp. z o.o. Tel.: + 48 (0)22 576 9000 France Laboratoire GlaxoSmithKline Tél: + 33 (0)1 39 17 84 44 diam@gsk.com Portugal GlaxoSmithKline - Produtos Farmacêuticos, Lda. Tel: + 351 21 412 95 00 FI.PT@gsk.com Hrvatska Berlin-Chemie Menarini Hrvatska d.o.o. Tel: + 385 1  4821 361 office-croatia@berlin-chemie.com România GlaxoSmithKline Trading Services Limited Tel: + 40 800672524 Ireland GlaxoSmithKline (Ireland) Limited Tel: + 353 (0)1 4955000 Slovenija Berlin-Chemie / A. Menarini Distribution Ljubljana d.o.o. Tel: + 386 (0)1 300 2160 slovenia@berlin-chemie.com Medicinal product no longer authorised
+
+## Ísland
+
+Vistor hf. Sími:  +354 535 7000
+
+## Italia
+
+Laboratori Guidotti S.p.A. Tel: + 39 050 971011
+
+## Slovenská republika
+
+Berlin-Chemie / A. Menarini Distribution Slovakia s.r.o. Tel: + 421 2 544 30 730 slovakia@berlin-chemie.com
+
+## Suomi/Finland
+
+GlaxoSmithKline Oy Puh/Tel: + 358 (0)10 30 30 30
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Κύπρος
+
+GlaxoSmithKline Trading Services Limited Τηλ: + 357 80070017
+
+## Latvija
+
+SIA Berlin-Chemie/Menarini Baltic Tel: + 371 67103210 lv@berlin-chemie.com
+
+## Sverige
+
+GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
+
+## United Kingdom (Northern Ireland)
+
+GlaxoSmithKline Trading Services Limited Tel: + 44 (0)800 221441 customercontactuk@gsk.com
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Step-by-step instructions
+
+## What is the inhaler?
+
+The first time you use Temybric Ellipta you do not need to check that the inhaler is working properly; it contains previously measured doses and is ready to use straight away.
+
+Your Temybric Ellipta inhaler carton contains
+
+<!-- image -->
+
+<!-- image -->
+
+The inhaler is packaged in a tray. Do not open the tray until you are ready to inhale a dose of your medicine. When you are ready to use your inhaler, peel back the lid to open the tray.  The tray contains a desiccant sachet, to reduce moisture. Throw this desiccant sachet away don't open, eat or inhale it. Medicinal product no longer authorised
+
+When you take the inhaler out of the sealed tray, it will be in the 'closed' position. Don't open the inhaler until you are ready to inhale a dose of medicine . Write the 'Discard by' date on the inhaler label and the carton in the space provided.  The 'Discard by' date is 6 weeks from the date you open the tray. After this date the inhaler should no longer be used. The tray can be discarded after first opening.
+
+The step-by-step instructions for use of the inhaler provided below can be used for either the 30-dose (30 day supply) or the 14-dose (14 day supply) Ellipta inhaler.
+
+<div style=\"page-break-after: always\"></div>
+
+## 1) Read this before you start
+
+## If you open and close the cover without inhaling the medicine, you will lose the dose.
+
+The lost dose will be securely held inside the inhaler, but it will no longer be available. It is not possible to accidentally take extra medicine or a double dose in one inhalation.
+
+## Cover
+
+Each time you open this, you prepare one dose of medicine.
+
+## Dose counter
+
+This shows how many doses of medicine are left in the inhaler.
+
+<!-- image -->
+
+<!-- image -->
+
+For the 14-dose inhaler, the dose counter will also show half red when there are fewer than 10 doses left, and then will show half red with the number 0 after the last dose is used. The dose counter will appear completely red if the cover is opened again. 2) Prepare a dose Wait to open the cover until you are ready to take your dose. Do not shake the inhaler. · Slide the cover down until you hear a 'click'. Before the inhaler has been used, it shows exactly 30 doses. It counts down by 1 each time you open the cover. When fewer than 10 doses are left, half of the dose counter shows red. After you have used the last dose, half of the dose counter shows red and the number 0 is displayed . Your inhaler is now empty. If you open the cover after this, the dose counter will change from half red to completely red. Medicinal product no longer authorised
+
+Your medicine is now ready to be inhaled.
+
+The dose counter counts down by 1 to confirm.
+
+<div style=\"page-break-after: always\"></div>
+
+- If the dose counter does not count down as you hear the 'click', the inhaler will not deliver medicine . Take it back to your pharmacist for advice.
+- Don't shake the inhaler at any time .
+
+## 3) Inhale your medicine
+
+- While holding the inhaler away from your mouth, breathe out as far as is comfortable. Don't breathe out into the inhaler.
+- Put the mouthpiece between your lips, and close your lips firmly around it. Don't block the air vent with your fingers.
+
+<!-- image -->
+
+· Take one long, steady, deep breath in. Hold this breath in for as long as possible (at least 3-4 seconds). · Remove the inhaler from your mouth. · Breathe out slowly and gently. You may not be able to taste or feel the medicine, even when you are using the inhaler correctly. If you want to clean the mouthpiece, use a dry tissue , before you close the cover. 4) Close the inhaler and rinse your mouth · Slide the cover upwards as far as it will go, to cover the mouthpiece. Your lips fit over the contoured shape of the mouthpiece for inhaling. Don't block the air vent with your fingers. Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+· Rinse your mouth with water after you have used the inhaler, do not swallow. This will make it less likely that you will develop a sore mouth or throat as side effects. Medicinal product no longer authorised

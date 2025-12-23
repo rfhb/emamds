@@ -1,0 +1,72 @@
+---
+document_datetime: 2023-09-21 21:10:24
+document_pages: 5
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/ibandronic-acid-sandoz-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf
+document_name: ibandronic-acid-sandoz-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf
+version: success
+processing_time: 3.583096
+conversion_datetime: 2025-12-24 00:27:28.202118
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## Ibandronic acid Sandoz
+
+Procedural steps taken and scientific information after the authorisation
+
+| Application number   | Scope                                                                                            | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|--------------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| N/0021               | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification) | 06/07/2022                          |                                             | PL                               |           |
+| IB/0020              | C.I.z - Changes (Safety/Efficacy) of Human and Veterinary Medicinal Products - Other variation   | 20/10/2020                          | 11/10/2021                                  | SmPC, Labelling and              |           |
+
+1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
+
+2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
+
+3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+|           |                                                                                                                                                                                                                                                                                                                                                             |            |            | PL                               |                                                                                                                                                                                                                                                                                      |
+|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| IB/0019   | C.I.2.a - Change in the SPC, Labelling or PL of a generic/hybrid/biosimilar products following assessment of the same change for the reference product - Implementation of change(s) for which NO new additional data is required to be submitted by the MAH                                                                                                | 21/07/2016 | 29/06/2017 | SmPC, Labelling and PL           |                                                                                                                                                                                                                                                                                      |
+| R/0017    | Renewal of the marketing authorisation.                                                                                                                                                                                                                                                                                                                     | 25/02/2016 | 13/04/2016 | SmPC, Annex II, Labelling and PL | Based on the review of data on quality, safety and efficacy, the CHMP considered that the benefit-risk balance of Ibandronic acid Sandoz in the approved indication remains favourable and therefore recommended the renewal of the marketing authorisation with unlimited validity. |
+| IAIN/0018 | C.I.z - Changes (Safety/Efficacy) of Human and Veterinary Medicinal Products - Other variation                                                                                                                                                                                                                                                              | 08/12/2015 | 13/04/2016 | SmPC and PL                      |                                                                                                                                                                                                                                                                                      |
+| IB/0016/G | This was an application for a group of variations. A.4 - Administrative change - Change in the name and/or address of a manufacturer or an ASMF holder or supplier of the AS, starting material, reagent or intermediate used in the manufacture of the AS or manufacturer of a novel excipient B.I.z - Quality change - Active substance - Other variation | 06/11/2015 | n/a        |                                  |                                                                                                                                                                                                                                                                                      |
+| IA/0015   | A.7 - Administrative change - Deletion of manufacturing sites                                                                                                                                                                                                                                                                                               | 24/09/2015 | n/a        |                                  |                                                                                                                                                                                                                                                                                      |
+| IB/0014   | C.I.2.a - Change in the SPC, Labelling or PL of a                                                                                                                                                                                                                                                                                                           | 11/09/2015 | 13/04/2016 | SmPC, Annex                      |                                                                                                                                                                                                                                                                                      |
+
+<div style=\"page-break-after: always\"></div>
+
+|           | generic/hybrid/biosimilar products following assessment of the same change for the reference product - Implementation of change(s) for which NO new additional data is required to be submitted by the MAH                                                   |            |            | II, Labelling and PL             |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|----------------------------------|
+| T/0013    | Transfer of Marketing Authorisation                                                                                                                                                                                                                          | 18/02/2015 | 19/03/2015 | SmPC, Labelling and PL           |
+| IA/0012   | A.5.b - Administrative change - Change in the name and/or address of a manufacturer/importer of the finished product, including quality control sites (excluding manufacturer for batch release)                                                             | 23/12/2014 | n/a        |                                  |
+| IB/0011   | C.I.2.a - Change in the SPC, Labelling or PL of a generic/hybrid/biosimilar products following assessment of the same change for the reference product - Implementation of change(s) for which NO new additional data is required to be submitted by the MAH | 06/08/2014 | 19/03/2015 | SmPC, Annex II, Labelling and PL |
+| IB/0008   | C.I.11.z - Introduction of, or change(s) to, the obligations and conditions of a marketing authorisation, including the RMP - Other variation                                                                                                                | 06/03/2014 | n/a        |                                  |
+| IAIN/0009 | C.I.8.a - Introduction of or changes to a summary of Pharmacovigilance system - Changes in QPPV (including contact details) and/or changes in the PSMF location                                                                                              | 15/01/2014 | n/a        |                                  |
+
+<div style=\"page-break-after: always\"></div>
+
+| II/0005   | To add a new manufacturer of the active substance. B.I.a.1.b - Change in the manufacturer of AS or of a starting material/reagent/intermediate for AS - Introduction of a new manufacturer of the AS that is                                   | 27/06/2013   | n/a        |                                  | supported by an ASMF   |
+|-----------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------|----------------------------------|------------------------|
+| IB/0007   | C.I.2.a - Change in the SPC, Labelling or PL of a generic/hybrid/biosimilar products following assessment of the same change for the reference product - Implementation of change(s) for which NO new additional data are submitted by the MAH | 16/05/2013   | 03/06/2014 | SmPC, Annex II, Labelling and PL |                        |
+| N/0006    | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification)                                                                                                                                               | 21/02/2013   | 03/06/2014 | PL                               |                        |
+| IB/0004   | B.II.d.2.d - Change in test procedure for the finished product - Other changes to a test procedure (including replacement or addition)                                                                                                         | 20/09/2012   | n/a        |                                  |                        |
+| IAIN/0003 | C.I.9.i - Changes to an existing pharmacovigilance system as described in the DDPS - Change(s) to a DDPS following the assessment of the same DDPS in relation to another medicinal product of the same MAH                                    | 30/08/2012   | n/a        |                                  |                        |
+| IB/0002/G | This was an application for a group of variations. C.I.2.a - Change in the SPC, Labelling or PL of a generic/hybrid/biosimilar products following assessment of the same change for the reference                                              | 08/02/2012   | 31/10/2012 | SmPC, Annex II, Labelling and PL |                        |
+
+<div style=\"page-break-after: always\"></div>
+
+| product - Implementation of change(s) for which NO new additional data are submitted by the MAH C.I.2.a - Change in the SPC, Labelling or PL of a generic/hybrid/biosimilar products following assessment of the same change for the reference product - Implementation of change(s) for which NO new additional data are submitted by the MAH C.I.2.a - Change in the SPC, Labelling or PL of a generic/hybrid/biosimilar products following assessment of the same change for the reference product - Implementation of change(s) for which NO new additional data are submitted by the MAH   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -1,0 +1,1286 @@
+---
+document_datetime: 2023-09-21 17:14:04
+document_pages: 40
+document_pathfilename: www.ema.europa.eu/en/documents/scientific-discussion-variation/arixtra-h-c-403-ii-24-epar-scientific-discussion-variation_en.pdf
+document_name: arixtra-h-c-403-ii-24-epar-scientific-discussion-variation_en.pdf
+version: success
+processing_time: 37.9129077
+conversion_datetime: 2025-12-23 05:00:37.07098
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## SCIENTIFIC DISCUSSION
+
+London, 29 August 2007 Product Name: Arixtra
+
+## EMEA/H/C/403/II/24
+
+<div style=\"page-break-after: always\"></div>
+
+## I. SCIENTIFIC DISCUSSION
+
+## 1.1. Introduction
+
+The  company  is  requesting  the  following  new  indication  in  the  treatment  of  Acute  Coronary Syndromes (ACS) for Arixtra 2.5 mg:
+
+Treatment of unstable angina or non-ST segment elevation myocardial infarction (UA/NSTEMI) ACS for the prevention of death, myocardial infarction and refractory ischaemia. Fondaparinux has been shown to reduce all cause mortality in patients with UA/NSTEMI.
+
+Treatment of ST segment elevation myocardial infarction (STEMI) ACS for the prevention of death and myocardial re-infarction in patients who are managed with thrombolytics or who initially are to receive  no  other  form  of  reperfusion  therapy.  Fondaparinux  has  been  shown  to  reduce  all  cause mortality in patients with STEMI.
+
+As a consequence of the requested new indication, the MAH is also applying for major changes to sections 4.2 (posology) and 5.1 (Pharmacodynamic properties), and other changes in 4.3, 4.4, 4.8, 5.2 and section 6 of the SPC.
+
+In order to treat the STEMI subset of ACS patients, the MAH is also applying for the approval of a new route of administration, namely intravenous, for the already existing 2.5 mg pre-filled syringe. This requested change is being processed through a separate Line Extension application (EMEA/H/C/403/X/25), and the details thereof will not be further discussed in this report.
+
+The application is based on 2 large phase III pivotal studies ( OASIS 5 and OASIS 6 )  and 4 phase II supportive trials. These studies have investigated the efficacy and safety of fondaparinux in patients with ACS, with and without ST-segment elevation. No Scientific Advice was sought to discuss the design of the trials.
+
+## Rationale for the proposed change
+
+The term acute coronary syndrome (ACS) includes UA, NSTEMI and STEMI, all of which share a common underlying pathophysiology. ACS normally results from the sudden rupture or erosion of an existing atheromatous plaque, which exposes a thrombogenic surface causing platelet activation and thrombus  formation.  The  acute  development  of  a  coronary  thrombus,  in  the  case  of  UA/NSTEMI severely restricts, and in STEMI, completely occludes the culprit coronary artery, causing myocardial ischaemia  and/or  injury  in  the  territory  supplied  by  the  affected  vessel(s).  Diagnostically  on  ECG, UA/NSTEMI  typically  results  in  depressed  ST  segments  and/or  T  wave  inversions,  and  STEMI produces  elevated  ST  segments.  The  extent  of  any  permanent  myocardial  damage  is  estimated  by markers of cardiac injury (e.g. troponin, CPK MB) and is dependent on a number of factors such as duration of the ischaemia and the amount of myocardium supplied by the affected coronary artery.
+
+ACS is a major cause of mortality and morbidity, and is a significant burden on health care resources. Each year there are at least 1.5 million hospitalisations for ACS in USA, with an estimated further 4 million worldwide. Over half are attributable to UA and NSTEMI and almost a third to STEMI. Not only is  STEMI a significant public health burden in developed countries, but it is also becoming a major  problem  in  developing  countries.  Registry  data  from  developed  countries  suggests  a  shift towards declining incidence of STEMI and increasing incidence of UA, which may reflect detection earlier  in  the  disease  continuum,  thus  reducing  the  morbidity  and  mortality  risk  following  patient presentation.
+
+Patients with UA/NSTEMI exhibit a spectrum of risk for death and cardiac ischaemic events. Registry data reveals risk of in-hospital mortality rises for patients with a confirmed diagnosis of UA (1-3%), NSTEMI (5-6%) and STEMI (7-9%). These differences are also reflected in the 30-day mortality rates of 1.7%, 7.4% and 11.1%, respectively. Results from the GUSTO-11b trial also show a significantly higher  30-day  mortality  risk  following  STEMI  compared  to  NSTEMI (6.1% vs 3.8% respectively). However, by the end of one year, the mortality risk did not differ significantly (9.6% vs 8.8%). In light of the high 1-year mortality rates, there remains a critical need for effective acute treatments in both
+
+<div style=\"page-break-after: always\"></div>
+
+patient  groups,  despite  the  pharmacological  options  available.  Furthermore,  many  of  the  currently available drugs are precluded in certain situations or populations, particularly where bleeding risk is a concern, or have significant drawbacks, such as the need for monitoring, the possibility of inducing HIT, and complex dosing regimens.
+
+Currently  available  antithrombotic  drugs  are  associated  with  an  increased  risk  of  bleeding.  For example,  the  reported  rates  of  major  bleeding  in  GRACE  were  4.7%  and  4.8%  for  NSTEMI  and STEMI patients, respectively. Recently it has been acknowledged that, in ACS patients, bleeding plays an important role in adverse outcome, including mortality. Moreover, a recent large registry study has shown  that  over  40%  of  ACS  patients  administered  an  antithrombotic  agent  (UFH,  LMWH,  or GPIIb/IIIa inhibitor) receive an incorrect dose. Overdosing was most prevalent in patient groups who were  already  at  a  high  risk  of  bleeding,  including  the  elderly,  women  and  patients  with  renal impairment, and was associated with a higher risk of bleeding and increased mortality.
+
+Thus,  a  major  therapeutic  advantage  would  be  a  drug  with  a  simple  dosing  regimen,  which  is efficacious  for  the  prevention  of  the  sequelae  of  both  UA/NSTEMI  and  STEMI,  but  which  is  not associated with an increased risk of bleeding. The anti-Factor Xa specificity of fondaparinux allows a more predictable anticoagulant response with no need for monitoring of coagulation parameters. In addition to being effective for the prevention of VTE in the venous circulation, fondaparinux was also expected to be an effective antithrombotic in the arterial circulation; due to its mechanism of action that ultimately inhibits the formation of thrombin. As already noted, thrombin inhibition is one of the mechanisms by which UFH and LMWH are believed to exert their beneficial effects in ACS patients.
+
+## 1.2 Non-clinical aspects
+
+Pharmacokinetic data indicate that fondaparinux was completely bioavailable in the rat and rabbit after subcutaneous  administration,  allowing  extrapolation  of  SC  data  to  IV  data  in  terms  of  AUC. Previously submitted toxicological data sufficiently address the IV route and no additional data are considered necessary. Further details on the non-clinical aspects of the IV administration can be found in the AR of the concurrent line extension EMEA/H/C/403/X/25.
+
+## 1.3 Clinical aspects
+
+## Overview of data submitted
+
+The clinical development program for fondaparinux in ACS comprises 6 clinical studies; 4 were phase II studies ( PENTUA , PENTALYSE , ASPIRE and ACT 2445) and 2 pivotal phase III studies ( OASIS-5 in UA/NSTEMI and OASIS 6 in patients with STEMI), including a total of 34,071 subjects.
+
+| Study             | Subject Population/No Subjects Randomised 1   | Treatment Groups                            | Fondaparinux Dose (once daily)                     | Treatment Duration   |
+|-------------------|-----------------------------------------------|---------------------------------------------|----------------------------------------------------|----------------------|
+| Phase II Studies  | Phase II Studies                              | Phase II Studies                            | Phase II Studies                                   | Phase II Studies     |
+| PENTUA            | UA/NSTEMI/1147                                | Fondaparinux vs Enoxaparin                  | 2.5mg, 4mg, 8mg, 12mg s.c. after initial i.v. dose | 3-7 days             |
+| PENTALYSE         | STEMI/333                                     | Fondaparinux vs UFH plus r-tPA in both arms | 4mg, 8mg, 12mg s.c. after initial i.v. dose        | 4-6 days             |
+| ASPIRE            | PCI/350                                       | Fondaparinux vs UFH                         | 2.5mg, 5mg i.v.                                    | Single dose          |
+| ACT2445           | PTCA/71/71                                    | Fondaparinux                                | 12mg i.v.                                          | Single dose          |
+| Phase III Studies | Phase III Studies                             | Phase III Studies                           | Phase III Studies                                  | Phase III Studies    |
+| OASIS 5           | UA/NSTEMI/20,078                              | Fondaparinux vs Enoxaparin                  | 2.5mg s.c.                                         | ≤ 8 days             |
+| OASIS 6           | STEMI/12,092                                  | Fondaparinux vs standard care               | 2.5mg s.c. after initial i.v. dose                 | ≤ 8 days             |
+
+1 1147 subjects in PENTUA comprise 1138 who were randomised plus 9 treated subjects who were not randomised UA unstable angina. NSTEMI non ST-elevation myocardial infarction. STEMI ST-elevation myocardial infarction PCI/PTCA percutaneous coronary intervention. UHF unfractionated heparin
+
+<div style=\"page-break-after: always\"></div>
+
+The Clinical Study Reports state that all trials were conducted according to GCP.
+
+## Analysis of data submitted
+
+## Phase II studies
+
+Four phase II studies included  a  total  of  1,901  subjects  and  assessed  a  range  of  doses  (2.5mg  to 12mg)  and  dose  regimens  (IV  and/or  sc  with  single/repeat  dosing)  in  a  variety  of  clinical  settings within  the  broad  spectrum  of  ACS.  Two  were  dose-ranging  studies  in  subjects  with  UA/NSTEMI (PENTUA) and STEMI (PENTALYSE) that evaluated fondaparinux administered sc for up to 7 days following  an  initial  iv  dose.  The  other  two  phase  II  studies,  ASPIRE  and  ACT2445  evaluated primarily  the  safety  of  iv  bolus  doses  of  fondaparinux  administered  as  an  adjunct  during  coronary interventions. ACT2445 assessed 12mg fondaparinux administered as an iv bolus prior to PTCA while the subsequent ASPIRE study provided reassurance that fondaparinux administered as either a 2.5 or 5.0mg  iv  bolus  might  be  suitable  as  an  adjunct  to  PCI  in  the  phase  III  program.  As  the  primary objective of these studies was a safety profile and not determination of the effective dose, they will not be detailed in this report.
+
+## PENTUA (63119):
+
+A  multicentre,  double-blind,  double-dummy,  randomised,  active-controlled,  dose  ranging  study comparing four doses of fondaparinux (2.5mg, 4mg, 8mg and 12mg) and enoxaparin (1mg/kg BID) in subjects with UA or non-Q wave MI.
+
+The primary objective was to assess the dose-response relationship of fondaparinux using a composite of  death  (any  cause  except  bleeding),  AMI  or  recurrent  ischemia  up  to  and  including  Day  9  as  the primary endpoint, in order to select a suitable dose for future studies.
+
+Diagnosis  and  Main  Criteria  for  Inclusion :  The  study  recruited  hospitalised  or  non-hospitalised subjects with suspected or documented non-Q wave MI without persistent ST-segment elevation or with angina at rest or during minimal exertion and whose last episode of pain was &lt;24 hours prior to the screening ECG with either dynamic ST segment changes or clear ST segment depression of ≥ 1mm and/or  serum  troponin  T  or  troponin  I  concentrations  &gt;0.1ng/ml  at  screening.  Subjects  showing persistent ST segment elevation on the screening ECG compatible with an evolving AMI or subjects scheduled  for  PTCA  or  angiography  within  24  hours  or  CABG  within  48  hours  of  screening  were excluded.
+
+Doses of fondaparinux were 2.5mg, 4mg, 8mg or 12mg by SC injection OD after an initial IV bolus dose on Day 1 for a minimum of 3 and maximum of 7 days. The fondaparinux doses were adjusted for body  weight;  subjects  weighing  &lt;50kg  received  2mg,  3mg,  6mg  or  9mg  daily,  whereas  subjects weighing &gt;100kg received 3mg, 5mg, 10mg or15mg daily. Subjects randomised to enoxaparin were treated with 1mg/kg BID by SC injection for a minimum of 3 and maximum of 7 days.
+
+The primary efficacy endpoint was the composite of death from any cause (except bleeding), AMI and symptomatic recurrent ischemia up to and including Day 9. To support the primary efficacy analysis, the incidence of the composite endpoint was also assessed up to and including Day 30. The sample size calculation was based on the ability to detect a positive dose-response relationship and assumed an incidence of the composite endpoint of 50% in the lowest dose group and an incidence of 36% in the highest dose group. Assuming that approximately 10% of the enrolled subjects had major protocol violations, 1075 (215 per group) subjects had to be randomised in total. This sample size gave a power of 80% for the comparisons between each fondaparinux group versus enoxaparin, if the true difference between the groups was approximately 15%.
+
+The primary safety analysis was on the incidence of major bleedings (overt bleeding associated with any  of  the  following:  death  or  life-threatening  condition,  operation  to  manage  bleeding,  retroperitoneal, intracranial or in a critical organ, haemoglobin drop of &gt;20g/l) from up to and including Day 9. The incidence of any bleeding (major or minor) was considered as a secondary safety endpoint.
+
+<div style=\"page-break-after: always\"></div>
+
+Number of Subjects: In total, 1147 subjects were recruited at 64 centres in 5 countries. The intent-totreat (ITT) population (all subjects randomised who received at least one dose of study drug) consisted of  1143  subjects.  A  total  of  214  (18.7%)  subjects  had  major  protocol  deviations  resulting  in  a  PP population  for  the  primary  efficacy  analysis  of  929  subjects  (fondaparinux  2.5mg:  203  subjects; fondaparinux 4mg: 177 subjects; fondaparinux 8mg: 173 subjects; fondaparinux 12mg: 187 subjects; enoxaparin: 189 subjects).
+
+## Results:
+
+There was no (linear) dose response relationship between the incidence of the primary endpoint and any  of  the  tested  fondaparinux  doses.  Indeed,  the  incidence  of  the  primary  efficacy  endpoint  was lowest in the fondaparinux 2.5mg group, whereas the incidence in the 4mg dose group was the highest (fondaparinux  2.5mg:  30.0%;  fondaparinux  4mg:  43.5%;  fondaparinux  8mg:  41.0%;  fondaparinux 12mg: 34.8%; enoxaparin: 40.2%).
+
+There was a significant reduction in the incidence of the composite primary endpoint at Day 9 in the fondaparinux  2.5mg  group  (30.0%)  compared  with  the  fondaparinux  4mg  (43.5%,  p=0.011), fondaparinux 8mg (41%, p=0.036) and the enoxaparin (40.2%, p=0.047) groups; all other differences were  not  statistically  different.  At  Day  30  there  was  also  a  statistically  significant  reduction  in  the composite endpoint between the fondaparinux 2.5mg group (33.8%) and the fondaparinux 4mg group (44.9%, p=0.032). All other differences were not statistically different although the difference between the  fondaparinux  2.5mg  group  (33.8%)  and  enoxaparin  (43.6%)  approached  statistical  significance (p=0.055).
+
+There was no (linear) dose response relationship between the incidence of any bleeding event and any of the tested fondaparinux doses (fondaparinux 2.5mg: 3.9%; fondaparinux 4mg: 5.4%; fondaparinux 8mg:  5.4%;  fondaparinux  12mg:  4.6%;  enoxaparin:  4.8%).  There  were  no  statistically  significant differences in the incidence of major bleeding up to Day 9 and up to Day 30 between the treatment groups.
+
+In total there were 33 deaths, 23 deaths to Day 30 and 10 deaths after Day 30. The lowest incidence of death  was  found  in  the  fondaparinux  2.5mg  group  (fondaparinux  2.5mg:  1.7%;  fondaparinux  4mg: 4.5%;  fondaparinux  8mg:  2.7%;  fondaparinux  12mg:  2.9%;  enoxaparin:  2.6%).  Up  to  Day  90,  the incidence of subjects with SAEs observed in the fondaparinux 2.5mg and enoxaparin group (7.9% and 7.4%, respectively) tended to be lower than in the other treatment groups (11.3%, 11.2% and 11.3% in the fondaparinux 4mg, 8mg and 12mg groups, respectively).
+
+## PENTALYSE:
+
+A multicentre, open-label, randomised, active-controlled, parallel group, dose-ranging study comparing  3  doses  of  fondaparinux  (4mg,  8mg  and  12mg)  and  UFH  as  adjunctive  therapy  to recombinant tissue plasminogen activator and aspirin (ASA) in acute myocardial infarction (AMI).
+
+The primary objective was to assess the safety and tolerability of 3 dose regimens of fondaparinux combined with recombinant rTPA and ASA in AMI. Secondary objectives included the assessment of the  efficacy  of  the  combination  therapy  for  restoring  and  maintaining  early  coronary  patency.  The study recruited subjects with ischemic pain lasting at least 30 minutes, ST-segment elevation ≥ 0.1mV in two or more limb leads or ≥ 0.2mV in two or more contiguous precordial leads, for whom planned treatment was initiated within six hours of pain onset.
+
+Treatment  Administration: Subjects  randomised  to  fondaparinux  received  a  single  IV  bolus injection of fondaparinux 4mg, 8mg or 12mg on Day 1 followed by daily SC injections for 4 ± 1 days. The  daily  dose  was  reduced  by  2mg  in  the  8mg  and  12mg  groups  for  body  weight  &lt;60kg  and increased by 2mg in the 4mg and 8mg groups for body weight &gt;90kg. Subjects randomised to UFH and  weighing  &gt;67kg  received  an  IV  bolus  of  5000IU  on  Day  1  followed  by  an  IV  infusion  of 1000IU/h for 48-72 hours. For subjects weighing ≤ 67kg the dose of the IV bolus was 4000IU and the IV infusion was 800IU/h. The infusion rate was adjusted to maintain an activated partial thromboplastin time of 50 to 75 seconds.
+
+The main efficacy endpoint was recovery of patency of the MI-related coronary artery (TIMI Grade 3 flow) 90 minutes after the start of thrombolytic therapy and on Day 6. Clinical endpoints of death,
+
+<div style=\"page-break-after: always\"></div>
+
+reMI, emergency revascularisation procedure, and combined events during the 30 ± 7-day study period were also assessed. The sample size was set at 80 subjects per group for feasibility reasons.
+
+The primary safety endpoint was the incidence of primary intracranial bleeding or blood transfusion (whole blood or packed red cells) during the 30-day study period.
+
+In total, 333 subjects were randomised at 24 centres in 6 countries. The all-treated data set (all subjects randomized who received at least  one dose  of  study  drug)  consisted  of  326  subjects  (fondaparinux 4mg: 81 subjects; fondaprinux 8mg: 77 subjects; fondaparinux 12mg: 83 subjects; UFH: 85 subjects). A total of 10 (3.1%) subjects with protocol deviations were excluded from the main efficacy analysis at 90 minutes and 127 subjects (39.0%) with protocol deviations were excluded from the main efficacy analysis on Day 6 ± 1.
+
+## Results :
+
+There was no significant dose effect of fondaparinux on the number of subjects with TIMI Grade 3 flow  assessed  at  90  minutes  (fondaparinux  4mg:  64.6%;  fondaparinux  8mg:  68.9%;  fondaparinux 12mg: 59.5%; UFH: 67.9%) or at Day 6 ± 1  (fondaparinux  4mg:  81.3%;  fondaparinux 8mg:  88.0%; fondaparinux 12mg: 88.9%; UFH: 75.0%). The incidences of individual clinical endpoints (death, MI and revascularisation) were not statistically significant between the four treatment groups.
+
+There  was  no  statistically  significant  trend  for  a  dose-effect  on  the  primary  safety  endpoint.  The percentage  of  subjects  with  the  primary  safety  endpoint  during  the  30 ± 7  day  study  period  was comparable  in  the  four  treatment  groups  (fondaparinux  4mg:  4.9%;  fondaparinux  8mg:  9.1%; fondaparinux 12mg: 7.2%; UFH: 7.1%). There was a dose-dependent increase in unusual bleeding (as considered by the investigator) in the fondaparinux  group  (p=0.0006); the incidence in the fondaparinux 4mg group (24.7%) was lower than the fondaparinux 8mg (48.1%) and 12mg (51.2%) groups but similar to that with UFH (26.2%). Most of these bleeding events were procedural (site of femoral  puncture  for  catheterisation).  There  were  seven  deaths,  two  in  each  of  the  fondaparinux groups and one in the UFH group. The incidence of SAEs and AEs leading to permanent treatment discontinuation were higher in the fondaparinux 8mg and 12mg groups compared with the 4mg and UFH groups.
+
+## Conclusion:
+
+Based on the results of coronary angiography at 90 minutes and Day 6±1 and on the occurrence of clinical  endpoints,  the  efficacy  of  fondaparinux  in  restoring  coronary  patency  was  considered comparable  with  that  of  UFH,  when  both  agents  were  used  in  combination  with  rTPA  and  ASA. However, no dose effect was observed for early or late coronary patency or the clinical endpoints. The incidence of subjects with blood transfusions or intracranial bleeding was similar in the four treatment groups. However, the overall incidence of unusual bleeding indicated a dose-effect relationship.
+
+## Discussion on dose selection
+
+The  CHMP  questioned  the  selection  of  the  2.5mg  dose  as  it  is  not  supported  by  a  strong  clinical rationale. Moreover, in contrast to LMWHs where the higher VTE treatment doses are approved for use in UA/NSTEMI, fondaparinux 2.5 mg is the same dose used for the prevention of VTE. However, unlike those conducted with fondaparinux, the phase II ACS studies for the LMWHs did not evaluate the wide dose range that included the lower VTE prevention doses.
+
+The Applicant claims that despite the lack of a clear dose-response pattern in the phase II trials, the following important findings have been taken into account when selecting the 2.5mg dose:
+
+- The data from PENTUA (UA/NSTEMI) and PENTYLASE (STEMI) suggested that the lowest doses  in  each  (2.5mg  and  4.0mg  respectively)  had  comparable  efficacy  to  their  respective benchmark therapies enoxaparin and UFH.
+- Although there was no clear evidence of a dose response relationship for the primary efficacy or safety  endpoints  in  either  study,  there  was  evidence  of  a  dose-dependent  increase  in  unusual bleeding in PENTYLASE, suggesting that a minimally effective dose might be appropriate in order to reduce bleeding liability, particularly given the concomitant use of antiplatelet therapies
+
+<div style=\"page-break-after: always\"></div>
+
+and  interventions  used  in  the  ACS  population.  The  selection  of  a  common  dose  for  both indications was considered appropriate given that UA, NSTEMI and STEMI represent a disease continuum with a common underlying pathophysiology.
+
+- Although 4mg was the lowest dose common to both studies, bleeding data in PENTUA suggested that 2.5mg had the lowest bleeding risk of all the doses evaluated (including 4mg) and there was no suggestion of an efficacy advantage at doses higher than 2.5mg.
+
+## OASIS 5 study: fondaparinux in the treatment of UA/NSTEMI
+
+This  was  a  double-blind,  double-dummy,  parallel-group,  controlled  trial  to  compare  the  safety  and efficacy  of  fondaparinux  and  enoxaparin  in  subjects  with  UA/NSTEMI  and  was  conducted  at  576 centres in 42 countries.
+
+The primary objective of was to evaluate whether fondaparinux 2.5mg was 'non-inferior', or superior to, enoxaparin in preventing death and ischemic events (MI or refractory ischemia [RI]) up to Day 9 in the  acute  treatment  of  subjects  with  UA/NSTEMI  concurrently  managed  with  standard  medical therapy.  As  a  non-inferiority  study,  the  primary  endpoint  was  assessed  at  the  end  of  the  treatment period  (Day  9).  This  conservative  approach  was  taken  to  avoid  positive  bias  in  favour  of  noninferiority that might occur at remote time points due to factors unrelated to the short term therapy.
+
+The secondary  objectives were  i)  to  determine  whether  fondaparinux  is  superior  to  enoxaparin  in reducing death and MI at Day 9, ii) to determine whether fondaparinux is superior to enoxaparin in reducing major bleeding events up to Day 9, and iii) to determine if the relative effect on the primary endpoint, i.e., prevention of death, MI, or RI at Day 9, is sustained at Days 14, 30, 90, and 180.
+
+The efficacy endpoints are shown in the table below:
+
+|                    | OASIS 5 1                                                                                                                                                                                                                                                                                                                                                                                             |
+|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Primary outcome    | • Death/MI/RI (at Day 9)                                                                                                                                                                                                                                                                                                                                                                              |
+| Secondary Outcomes | • Death/MI/RI (at Days 14, 30, 90, 180) • Death/MI (at Days 9, 14, 30, 90, 180) • Death, MI, or RI taken separately (at Days 9, 14, 30, 90, 180)                                                                                                                                                                                                                                                      |
+| Other Outcomes     | • Death/MI/stroke (at Days 9, 14, 30, 90, Day 180) • Stroke (at Days 9, 14, 30, 90, 180) • Severe Ischemia (at Days 9, 14, 30, 90, 180) • Non-fatal cardiac arrest (at Days 9, 14, 30, 90, 180) • Heart failure (during initial hospitalization) • Efficacy/Safety Balance outcome -Death/MI/RI, or major bleeding (at Days 9, 14, 30, 90, 180) -Death/MI/major bleeding (at Days 9, 14, 30, 90, 180) |
+
+The primary safety endpoint was the incidence of adjudicated major bleeding up to and including Day
+
+<div style=\"page-break-after: always\"></div>
+
+9. Bleeding definitions used in the phase III studies are provided below.
+
+| MajorBleed                                                                                      | Protocol Definition1   | Revised Definition2   |
+|-------------------------------------------------------------------------------------------------|------------------------|-----------------------|
+| Clinically-overtbleedingwith≥1ofthefollowing:                                                   |                        |                       |
+| Fatal                                                                                           | +                      | +                     |
+| Symptomaticintracranialhemorrhage                                                               | +                      | +                     |
+| Retroperitonealhemorrhage                                                                       | +                      | +                     |
+| Intraocularbleedingleadingtosignif.visionloss                                                   | +                      | +                     |
+| Requiringsurgicalintervention                                                                   |                        | +                     |
+| AnydropinHbplusbloodtransfusion≥3g/dL (witheachbloodtransfusionunitcountingfor 1.0g/dL Hb)      |                        |                       |
+| AnydropinHbplusbloodtransfusion≥3g/dL                                                           |                        | +                     |
+| Bloodtransfusion≥2units                                                                         |                        | +                     |
+| MinorBleed                                                                                      | Protocol Definition1   | Revised Definition3   |
+| Clinically-significantnon-majorbleedwith≥1ofthe                                                 |                        |                       |
+| following:                                                                                      |                        |                       |
+| Leadingto≥24hrinterruptionofstudydrug                                                           | +                      | +                     |
+| Requiringsurgicalintervention                                                                   | +                      |                       |
+| Bloodtransfusion1unit                                                                           | +                      | +                     |
+| TlMlSevereBleed                                                                                 | Protocol Definition1   | Revised Definition3   |
+| Atleast1ofthefollowing:                                                                         |                        |                       |
+| Fatal                                                                                           | +                      | +                     |
+| Intracranialhemorrhage                                                                          | +                      | +                     |
+| Cardiactamponade                                                                                | +                      | +                     |
+| Clinically-significantbleedwithHbdrop>5g/dL (witheachbloodtransfusionunitcountingfor 1.0g/dLHb) | +                      |                       |
+| Clinically-siqnificantbleedwithHbdrop>5g/dL                                                     |                        |                       |
+
+A single, independent Event Adjudication Committee (EAC) was responsible for blinded adjudication of all primary efficacy and safety outcome events, as well as key secondary events.
+
+The  comparator  was  enoxaparin,  selected  based  on  its  common  usage  in  the  management  of UA/NSTEMI  as  well  as  its  class  IIA  recommendation  in  the  American  College  of  Cardiology (ACC)/American  Heart  Association  treatment  guidelines  and  the  general  recommendation  in  the European Society of Cardiology (ESC) guidelines. The dose regimen and treatment duration used is consistent with what is currently approved for UA/NSTEMI.
+
+Subjects presenting within 24 hours with symptoms suspected to represent UA/NSTEMI, and, met one of the two following additional criteria were included:
+
+- Troponin T or I or creatine kinase MB above the upper limit of normal
+- ECG changes compatible with ischemia (i.e. ST depression at least 1mm in 2 contiguous leads or T wave inversion &gt;3mm or any dynamic ST shift or transient ST elevation)
+
+These criteria were modified during the conduct of the study in order to increase the blinded event rate to meet the projected sample size. This change required subjects &lt;60 years to be higher risk and have both elevated cardiac enzymes and ECG changes consistent with ischemia.
+
+The  key exclusion  criteria were:  Subjects  with  severe  renal  insufficiency  (i.e.  serum  creatinine ≥ 3mg/dl  or  265 μ mol/l),  a  contraindication  to  low  molecular  weight  heparin  (LMWH),  or  who  had already had a revascularisation procedure performed for the qualifying event.
+
+Regarding study treatments ,  subjects received fondaparinux 2.5mg s.c once daily for 8 days or until hospital discharge, if earlier, or weight-adjusted enoxaparin (1mg/kg) twice daily for 2-8 days or until clinically stable, both administered in a double-blind double-dummy fashion. If creatinine clearance was between 20ml/min and 30ml/min, a once-daily 1mg/kg s.c. injection of enoxaparin or enoxaparinplacebo  was  administered  at  24  hour  intervals  (±  4  hours).  Subject  follow-up  was  for  a  minimum period of 90 days and a maximum of 180 days. All subjects were to be followed for the pre-specified study period or until death.
+
+For subjects undergoing CABG surgery, study drug administration was to be temporarily interrupted between 24 hours before and 48 hours after surgery.
+
+For  all subjects  undergoing  PCI ,  the  study  blind  was  maintained.  All  such  subjects  were  to  be pretreated  with  clopidogrel  and  ASA  at  least  6  hours  before  the  procedure.  If  PCI  was  performed between randomisation and Day 8, and within 12 hours of the last s.c. dose of study drug, subjects were to  receive  additional  study  drug:  fondaparinux  2.5  or  5  mg  i.v.  vs  UFH  65  or  100  IU/kg  i.v.
+
+<div style=\"page-break-after: always\"></div>
+
+(enoxaparin group) depending on the time since the previous dose of s.c. study drug and whether i.v. GPIIb/IIIa inhibitor use was planned, administered at least 1 minute before insertion of the guiding catheter. Rescue open-label UFH in either treatment group was permitted based on the ACT result.
+
+If PCI was performed as the initial treatment, subjects were to be treated with study drug for at least 2 calendar days.
+
+Study drug administration was to be continued after PCI, whenever possible. If PCI was performed at any time during the follow-up period, the anti-coagulant regimen was at the investigator's discretion.
+
+The following medications were not permitted concurrently with study drug administration: heparin and heparinoids (standard or LMWH), direct thrombin inhibitors, oral anti-coagulant drugs (vitamin K antagonists),  fibrinolytic  agents,  dextrans.  The  use  of  NSAIDs  was  discouraged.  When  UFH  or LMWH was administered prior to randomisation, study drug administration did not begin until after 2 or 6 hours, respectively.
+
+## Statistical analyses and sample size
+
+OASIS-5  was  planned  as  a  non-inferiority  study  with  the  option  for  a  superiority  approach. Fondaparinux was to be considered non-inferior to enoxaparin if the upper limit of the two-sided 95% confidence interval (CI) of the hazard ratio did not exceed the 1.185 non-inferiority margin (i.e. delta). In  addition,  if  this  upper  limit  did  not  exceed  1,  fondaparinux  was  to  be  considered  statistically superior  to  enoxaparin.  The  possible  switch  to  superiority  testing  would  not  introduce  multiplicity testing due to the nature of this closed testing procedure. The non-inferiority margin was derived from a  meta-analysis  of  studies  that  demonstrated  the  benefit  of  adding  UFH  or  LMWH  as  short-term treatment  in  ASA-treated  subjects  [Eikelboom,  2000].  The  rationale  for  applying  the  1.185  noninferiority margin (derived from the composite of death or MI) to the triple outcome of death, MI, or RI is supported by FRISC I [Fragmin during Instability in Coronary Artery Disease (FRISC) study group, 1996]. In that study, there was a similar impact at Day 6 of LMWH vs placebo on the double endpoint of death or MI (relative risk [RR] 0.37, 95% CI 0.20;0.68) and the triple endpoint of death, MI or revascularisation for refractory/recurrent ischemia (RR 0.38, 95% CI 0.22;0.66).
+
+The study was to be completed when 1,414 subjects with primary events were observed. Based on an expected  pooled  event  rate  of  approximately  7%,  20,000  subjects  would  be  required,  which  would provide at least 85% power.
+
+Efficacy outcomes were evaluated in the 'all randomised' population, the purest intent-to-treat (ITT) population, and a per protocol (PP) analysis was also performed. The primary efficacy variable was analysed  using  a  Cox  proportional  hazards  model,  with  treatment  group  as  the  only  dependent variable.  To investigate  the  consistency  of  the  treatment  effect  across  the  strata,  analyses  were  also performed for each stratum individually. In addition, the interaction of treatment effect with strata was investigated  using  a  Cox  proportional  hazards  model  with  terms  for  treatment  group,  strata  (as  a covariate)  and  the  treatment  by  strata  interaction.  All  safety  analyses  were  performed  on  the  'as treated'  (safety)  population  (those  who  received  at  least  1  dose  of  study  medication  and  analysed according  to  the  treatment  actually  received).  The  primary  safety  endpoint  of  adjudicated  major bleeding was also analysed by using the 'all randomised' population, as specified in the protocol.
+
+<div style=\"page-break-after: always\"></div>
+
+## Results
+
+More than 99% of the 20,000 subjects enrolled received treatment and the majority completed the protocol-defined treatment period. Following is a figure depicting the participant flow.
+
+<!-- image -->
+
+Regarding baseline  characteristics ,  there  were  no  notable  differences  between  treatment  groups  in terms of baseline demographic or clinical characteristics, cardiovascular history, or time between onset of qualifying episode of chest pain/symptoms and randomisation. There were similar proportions of patients enrolled with UA (45%) or NSTEMI (55%) between the two arms. In general, most of the patients  were  treated  according  to  the  current  standards:  ASA  98%,  clopidogrel  62%,  ACE  70%, statins  78%,  beta-blockers  87%,  nitrates  80%.  The  concomitant  use  of  medications  was  similar between  groups.  In  terms  of  clinical  interventions,  63%  of  the  patients  underwent  coronary angiographies, which reflects an adequate management of ACS according to current clinical standards, and 34% of patients had PCI following UA or NSTEMI. This represents an important subgroup of patients.  The  percentage  of  patients  that  benefited  from  PCI  corresponds  to  the  usual  practice;  the results in this subgroup are of importance and are detailed in the corresponding sections of this report.
+
+Regarding the results of the primary endpoint, OASIS-5 met its primary objective of demonstrating that fondaparinux was non-inferior to enoxaparin in the acute treatment (median 5-6 days) of subjects with UA/NSTEMI in the early prevention of adjudicated death, MI or RI at Day 9. The upper bound of the  95%  CI  (1.13)  was  well  within  the  pre-defined  1.185  margin.  The  one-sided  non-inferiority  pvalue  was  0.003  and  the  upper  bound  of  the  99%  CI  was  1.17.  Importantly,  the  non-inferiority conclusion was also evident in the more conservative PP population, in which the hazard ratio and upper bound of the 95% CI were identical to those of the All Randomised population. In addition, several sensitivity analyses on the primary endpoint were conducted which supported the conclusions of non-inferiority, indicating the robustness of the findings.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 1 Proportional hazards analysis of the first occurrence of adjudicated death, MI or RI up to and including Day 9
+
+|                                                  | Fondaparinux      | Enoxaparin   |
+|--------------------------------------------------|-------------------|--------------|
+| All Randomised                                   | n=10,057          | n=10,021     |
+| Events                                           | 579 (5.8%)        | 574 (5.7%)   |
+| Hazard Ratio (Fondaparinux vs Enoxaparin) 95% CI | 1.01 (0.90, 1.13) |              |
+| Hazard Ratio p-value                             | 0.923             |              |
+| Per Protocol                                     | (n=9862)          | (n=9840)     |
+| Events                                           | 566 (5.7%)        | 561 (5.7%)   |
+| Hazard Ratio (Fondaparinux vs Enoxaparin)        | 1.01              |              |
+| 95% CI                                           | (0.90, 1.13)      |              |
+| Hazard Ratio p-value                             | 0.903             |              |
+
+Regarding secondary outcomes, there was evidence of a modest, non-significant reduction in the risk of death/MI/RI favouring fondaparinux, initially evident at Day 14 and sustained up to Day 180.
+
+Table  2  Summary  of  the  Proportional  Hazards  Analysis  Death/Myocardial  Infarction  or  Refractory Ischemia at All Time points - All Randomised Population.
+
+| Death/MI/RI Timepoint   | Fondaparinux n=10,057 (%)   | Enoxaparin n=10,021 (%)   | HR(95% CI)        |   p-value |
+|-------------------------|-----------------------------|---------------------------|-------------------|-----------|
+| Day 14                  | 658 (6.5%)                  | 701 (7.0%)                | 0.94 (0.84, 1.04) |     0.22  |
+| Day 30                  | 806 (8.0%)                  | 865 (8.6%)                | 0.93 (0.84, 1.02) |     0.126 |
+| Day 90                  | 1044 (10.4%)                | 1112 (11.1%)              | 0.93 (0.86, 1.02) |     0.11  |
+| Day 180                 | 1223 (12.2%)                | 1309 (13.1%)              | 0.93 (0.86, 1.00) |     0.063 |
+
+There  was  a  tendency  to  areduction  in  the  risk  of  the  primary  endpoint  at  all  time  points  in  the fondaparinux group relative to the enoxaparin group, as suggested by the separation in the KaplanMeier curves below.
+
+Kaplan-Meier Plot of Time to first occurrence of adjudicated death, MI or RI
+
+<!-- image -->
+
+DaysSinceRandomization
+
+While the incidence of the primary endpoint was similar in both treatment groups at Day 9 (primary time point), a 6% reduction in favour of fondaparinux was observed at Day 14. The benefit observed with fondaparinux was sustained at Days 30, 90, and 180 with a consistent 7% risk reduction.
+
+<div style=\"page-break-after: always\"></div>
+
+The results of the individual components of the primary endpoint at Day 9 are shown below.
+
+Table 3   Overview of Primary Outcome Components at Day 9 in OASIS 5 (All Randomised population)
+
+| Outcome, n(%)   | Fondaparinux N=10,057   | Enoxaparin N=10,021   | HR (95% CI)       |   p-Value |
+|-----------------|-------------------------|-----------------------|-------------------|-----------|
+| Death/MI/RI     | 579 (5.8)               | 574 (5.7)             | 1.01 (0.90, 1.13) |     0.923 |
+| Death/MI        | 409 (4.1)               | 412 (4.1)             | 0.99 (0.86, 1.13) |     0.879 |
+| Death           | 177 (1.8)               | 186 (1.9)             | 0.95 (0.77, 1.17) |     0.614 |
+| MI              | 263 (2.6)               | 264 (2.6)             | 0.99 (0.84, 1.18) |     0.935 |
+| RI              | 194 (1.9)               | 189 (1.9)             | 1.02 (0.84, 1.25) |     0.821 |
+
+There was a consistent favourable trend in each of the components of the composite primary endpoint that persisted up to Day 180 (results not shown). The incidence of adjudicated MI was numerically similar between groups at Day 9, but then appears to be lower in the fondaparinux group compared to the  enoxaparin  group  from  Day  14  onwards  (results  not  shown).  The  proportion  of  subjects experiencing RI (as adjudicated) was similar in both treatment groups at all time points.
+
+The results of adjudicated death at all time points are shown below.
+
+Table 4 - Summary of the Proportional Hazards Analysis of Adjudicated Death at All Time points
+
+| Death Timepoint, n (%)   | Fondaparinux N=10,057   | Enoxaparin N=10,021   | HR(95% CI)        |   p-Value |
+|--------------------------|-------------------------|-----------------------|-------------------|-----------|
+| Day 9                    | 177 (1.8%)              | 186 (1.9%)            | 0.95 (0.77, 1.17) |     0.614 |
+| Day 14                   | 211 (2.1%)              | 242 (2.4%)            | 0.87 (0.72, 1.04) |     0.135 |
+| Day 30                   | 295 (2.9%)              | 352 (3.5%)            | 0.83 (0.71, 0.97) |     0.022 |
+| Day 90                   | 460 (4.6%)              | 510 (5.1%)            | 0.90 (0.79, 1.02) |     0.089 |
+| Day 180                  | 574 (5.7%)              | 638 (6.4%)            | 0.89 (0.80, 1.00) |     0.052 |
+
+Fondaparinux was associated with a reduction in all-cause mortality relative to enoxaparin. Although the incidence of death was similar in the two treatment groups at Day 9, a clinically meaningful risk reduction of 13% in favour of fondaparinux was observed at Day 14. By Day 30, fondaparinux was associated  with  a  statistically  significant  17%  reduction  in  the  risk  of  all-cause  mortality.  The mortality benefit observed with fondaparinux was consistent and sustained at Day 90 and 180 with 10% and 11% risk reductions, respectively with the upper bounds of the 95% CI's close to unity.
+
+The event rates for all adjudicated strokes were low at all time points, with the incidence of stroke numerically lower in the fondaparinux group. By Day 180, there was a 22% reduction in the risk of stroke  (p=0.039).  This  relative  benefit  appeared  to  be  due  to  a  reduction  in  ischemic  rather  than haemorrhagic strokes.
+
+Table 5 Proportional hazards analysis of adjudicated stroke at all time points - All Randomised population
+
+| Stroke Time point   | Fondaparinux n=10,057 (%)   | Enoxaparin n=10,021 (%)   | HR(95% CI)        |   p-value |
+|---------------------|-----------------------------|---------------------------|-------------------|-----------|
+| Day 9               | 37 (0.4%)                   | 45 (0.4%)                 | 0.82 (0.53, 1.27) |     0.37  |
+| Day 14              | 50 (0.5%)                   | 60 (0.6%)                 | 0.83 (0.57, 1.21) |     0.331 |
+| Day 30              | 74 (0.7%)                   | 95 (0.9%)                 | 0.77 (0.57, 1.05) |     0.099 |
+| Day 90              | 108 (1.1%)                  | 128 (1.3%)                | 0.84 (0.65, 1.08) |     0.175 |
+| Day 180             | 127 (1.3%)                  | 161 (1.6%)                | 0.78 (0.62, 0.99) |     0.039 |
+
+The composite secondary end-point death, MI or stroke was reduced by 11% at Day 180 (p=0.007).
+
+## Subgroup analyses
+
+No significant interactions were found according to age, sex, BMI or Creatinine Clearance; OASIS-5 seems to have a satisfactory internal consistency with a rather homogeneous response across the usual patient subgroups.
+
+<div style=\"page-break-after: always\"></div>
+
+Analyses  of  the  primary  outcome  were  also  performed  by  anticoagulant  treatment  received  (prior heparin use and concomitant anti-coagulant), by qualifying Diagnosis and by PCI and CABG Surgery. An excess event rate was observed at Day 9 in both treatment groups based on prior use of heparin and concomitant use of thienopyridines or i.v. GPIIb/IIIa compared to the sub groups not receiving these agents. These results are consistent with the greater use of these therapies in higher risk patients.
+
+Regarding concomitant interventions (PCI in 34% of the included patients or CABG surgery in 10%), results  on  the  primary  endpoint  showed  that  the  percentage  of  events  was  twice  higher  in  patients undergoing PCI and CABG compared to patients that did not undergo these interventions. The  overall  response  on  the  primary  composite  end  point  is  not  homogeneous  across  the  group  of patients undergoing or not PCI, as shown below.
+
+Table 6. Proportional Hazards Analysis of the First Occurrence of Death/MI/RI Up to and Including Day 9 by PCI usage. All Randomized Population
+
+|                    | Number Events/Number Analysed (%)   | Number Events/Number Analysed (%)   |                     | Covariate p- value   | Treatment by Covariate Interaction p-value   |
+|--------------------|-------------------------------------|-------------------------------------|---------------------|----------------------|----------------------------------------------|
+| Covariate Category | Fondaparinux                        | Enoxaparin                          | HR(95% CI)          |                      |                                              |
+| PCI                |                                     |                                     |                     |                      |                                              |
+| Overall            | 579/10,051 (5.8%)                   | 574/10,020 (5.7%)                   | 1.01 (0.90, 1.13) 1 | < 0.001              | 0.232                                        |
+| No                 | 274/6597 (4.2%)                     | 292/6585 (4.4%)                     | 0.94 (0.79, 1.10)   |                      |                                              |
+| Yes                | 305/3454 (8.8%)                     | 282/3435 (8.2%)                     | 1.08 (0.92, 1.27)   |                      |                                              |
+
+1. Hazard ratio and 95% CI's are adjusted for strata and the covariate of interest.
+
+At day 9, in the group of patients not having PCI, the point estimate is in favour of fondaparinux (4.2 % versus 4.4%); in PCI patients the point estimate is in favour of enoxaparin [8.2% versus 8.8%; HR 1.08 (0.92, 1.27)]. This divergent response is still apparent at Day 30. In PCI patients, the incidence of events occurring between the day of PCI and Day 30 was 8.6% on fondaparinux versus 8.4% on enoxaparin.. When considering the components of the composite end point, in the PCI group, there is a higher rate of MI, death being equal in the two groups (at Day 9, MI/death 5.7% fondaparinux versus 5.4% enoxaparin and death 1.1% in both groups). The treatment by covariate interaction (PCI and noPCI subgroups) is non-significant (p=0.232), however due to the known low power of the test, this lack of interaction is not entirely reassuring. The heterogeneous efficacy response across this important subgroup of patients is of concern and is consistent with the complications during PCI in the fondaparinux patients, further detailed in the safety section below.Stent deployment during PCI was high (approximately 90% of patients), with bare metal stents predominating. This pattern was common across the majority of countries.
+
+Clopidogrel was administered in 70% and 59% of PCIs in OASIS 5 and 6, respectively. The median pre-PCI dose of clopidogrel was 75mg in OASIS 5 and 300mg (i.e. a loading dose) in OASIS 6, consistent with the difference in the timing of when the procedure is conducted relative to diagnosis in the two study populations.
+
+Table 7. The Number and Percent of Subjects Experiencing Adjudicated Events from the Day on which PCI was conducted up to Day 30. All Randomized Population
+
+|             | PCI in 8 Days While on Study Drug 1   | PCI in 8 Days While on Study Drug 1   | All Randomized Subjects   | All Randomized Subjects   |
+|-------------|---------------------------------------|---------------------------------------|---------------------------|---------------------------|
+|             | Fondaparinux (N=2854)                 | Enoxaparin (N=2741)                   | Fondaparinux (N=10057)    | Enoxaparin (N=10021)      |
+| Death/MI/RI | 246 (8.6%)                            | 230 (8.4%)                            | 806 (8.0%)                | 865 (8.6%)                |
+| Death       | 56 (2.0%)                             | 60 (2.2%)                             | 295 (2.9%)                | 352 (3.5%)                |
+| MI          | 150 (5.3%)                            | 134 (4.9%)                            | 387 (3.8%)                | 411 (4.1%)                |
+| RI          | 65 (2.3%)                             | 64 (2.3%)                             | 221 (2.2%)                | 223 (2.2%)                |
+
+1. Only events that occurred on the Day of PCI up to Day 30 are counted.
+
+<div style=\"page-break-after: always\"></div>
+
+## Safety in OASIS-5
+
+Patient exposure is summarised in the table below
+
+Table 8 Summary of treatment completion status and reasons for withdrawal from active study drug
+
+|                                            | Fondaparinux （N=10057）   | Enoxaparin （N=10021）   |
+|--------------------------------------------|--------------------------|------------------------|
+| NotTreated                                 | 71 (0.7%)                | 59 (0.6%)              |
+| Treated                                    | 9986（>99%)               | 9962（>99%)             |
+| CompletionStatusofTreatedSubjects          |                          |                        |
+| CompletedStudyDrug                         | 8999(90.2%)              | 8804(88.4%)            |
+| EarlyPermanentDiscontinuation              | 987(9.8%)                | 1158(11.6%)            |
+| ReasonforEarlyPermanentDiscontinuation     |                          |                        |
+| BleedingEvent                              | 159(1.6%)                | 467(4.7%)              |
+| OtherSeriousAdverseEvent                   | 41(0.4%)                 | 33(0.3%)               |
+| Subjectwithdrawsconsenttocontinuestudydrug | 89(0.9%)                 | 100（1.0%)              |
+| Qualifyingconditionnotpresent              | 107(1.1%)                | 102（1.0%）              |
+| Other                                      | 591 (5.9%)               | 456 (4.6%)             |
+
+Approximately 10% of patients discontinued the study in both groups. Discontinuation for bleeding events was higher in enoxaparin (4.7%) than in fondaparinux group (1.6%), and discontinuation for other reasons was higher in fondaparinux (5.9%) than in enoxaparin group (4.6%).
+
+## Bleeding
+
+Following is a table summarising the main bleeding events.
+
+Table 9 Summary of bleeding events as reported by the investigator on therapy and up to and including day 9: as treated safety population.
+
+|                                                           | Fondaparinux (N=9979)   | Enoxaparin (N=9969)   |
+|-----------------------------------------------------------|-------------------------|-----------------------|
+| Day 9                                                     |                         |                       |
+| Any event                                                 | 440 (4.4%)              | 977 (9.8%)            |
+| Major bleed                                               | 205 (2.1%)              | 410 (4.1%)            |
+| Fatal                                                     | 7 (0.07%)               | 22 (0.2%)             |
+| Symptomatic intracranial haemorrhage                      | 7 (0.07%)               | 7 (0.07%)             |
+| Retroperitoneal haemorrhage                               | 9 (0.09%)               | 36 (0.4%)             |
+| Intraocular bleeding (leading to significant vision loss) | 0                       | 0                     |
+| Any drop in Hb plus blood transfusion ≥ 3g/dl             | 189 (1.9%)              | 385 (3.9%)            |
+| Blood transfusion ≥ 2 units                               | 156 (1.6%)              | 280 (2.8%)            |
+| Minor bleed                                               | 115 (1.2%               | 320 (3.2%)            |
+| Any bleed (major or minor)                                | 314 (3.1%)              | 721 (7.2%)            |
+| Other bleed*                                              | 128 (1.3%)              | 270 (2.7%)            |
+| TIMI severe bleed                                         | 148 (1.5%)              | 260 (2.6%)            |
+| Type of bleeding                                          |                         |                       |
+| CABG related bleed                                        | 86 (0.9%)               | 72 (0.7%)             |
+| PCI related bleed                                         | 82 (0.8%)               | 183 (1.8%)            |
+| On therapy                                                |                         |                       |
+| Any event                                                 | 410 (4.1%)              | 959 (9.6%)            |
+| Major bleed                                               | 180 (1.8%)              | 393 (3.9%)            |
+| Fatal                                                     | 7 (0.07%)               | 21 (0.2%)             |
+| Symptomatic intracranial haemorrhage                      | 5 (0.05%)               | 7 (0.07%)             |
+| Retroperitoneal haemorrhage                               | 8 (0.08%)               | 35 (0.4%)             |
+| Intraocular bleeding (leading to significant vision loss) | 1 (0.01%)               | 0                     |
+| Any drop in Hb plus blood transfusion ≥ 3g/dl             | 165 (1.7%)              | 369 (3.7%)            |
+| Blood transfusion ≥ 2 units                               | 133 (1.3%)              | 266 (2.7%)            |
+
+<div style=\"page-break-after: always\"></div>
+
+| Minor bleed                | 109 (1.1%)   | 318 (3.2%)   |
+|----------------------------|--------------|--------------|
+| Any bleed (major or minor) | 286 (2.9%)   | 705 (7.1%)   |
+| Other bleed*               | 126 (1.3%)   | 268 (2.7%)   |
+| TIMI severe bleed          | 128 (1.3%)   | 248 (2.5%)   |
+| Type of bleeding           |              |              |
+| CABG related bleed         | 69 (0.7%)    | 62 (0.6%)    |
+| PCI related bleed          | 77 (0.8%)    | 182 (1.8%)   |
+
+* 'other bleeding' included any clinically-significant bleeding reported by the investigator that did not meet the criteria of a major or minor bleed.
+
+Adjudicated  major  bleeding  occurred  in  2.1%  of  fondaparinux  subjects  and  4.1%  of  enoxaparin subjects in the All Randomised population, translating into a 48% lower risk of major bleeding with fondaparinux (p&lt;0.001). The results for the As Treated population (safety population) were virtually identical to those observed for the All Randomized population.
+
+On-therapy, similar results were observed in the safety population. Adjudicated major bleed occurred with incidence of 3.9% in enoxaparin and 1.8% in fondaparinux group.
+
+Severe  bleeding  complications  according  to  the  TIMI  criteria  were  reported  at  day  9  in  2.6%  in enoxaparin group compared to 1.5% in fondaparinux group. The incidences of bleeding as reported by the  investigator  were  also  consistent  with  those  observed  in  adjudicated  major  bleed  and  severe bleeding according to the TIMI criteria (1.5% vs 2.6% in fondaparinux and enoxaparin, respectively).
+
+## Clinical implication of bleeding
+
+Subjects who had a major or minor bleeding during hospitalisation had a significantly higher rate of death at  day  30  than  subjects  without  a  bleeding  event,  regardless  of  treatment  group.  Two ad-hoc analyses  were  performed  by  the  Applicant  to  assess  the  clinical  implications  of  bleeding  and  to investigate whether the difference in mortality between the treatment groups observed at the end of the study may be related to the lower rate of bleeding with fondaparinux.
+
+The first analysis looked at the rate of death up to Day 30 in patients who experienced a major/minor bleeding event up to day 9 compared to the overall population.
+
+Table 10 Incidence of death by day 30 in subjects who experienced a bleeding event by day 9: All randomised population.
+
+|                                   | Incidence of Death by Day 30, n/N (%)   | Incidence of Death by Day 30, n/N (%)   |
+|-----------------------------------|-----------------------------------------|-----------------------------------------|
+| Subjects                          | Fondaparinux                            | Enoxaparin                              |
+| OverallAllRandomizedPopulation    | 295/10,057(2.9%                         | 352/10.021 (3.5%)                       |
+| WithAdjudicatedMajorBleeduptoDay9 | 24/214（11.2%）                           | 56/408（13.7%)                           |
+| With“AnyE Bleed\"1 up to Day 9     | 39/448 (8.7%)                           | 85/980 (8.7%)                           |
+
+There was a higher incidence of death in patients who experienced a bleeding event compared to the overall  randomised  population  in  both  groups,  and  the  highest  incidence  of  death  was  reported  in patients who experienced a major bleed. No difference was reported between fondaparinux group and enoxaparin  group  regarding  death  in  patients  who  experienced  'any  bleed'  (8.7%  in  both  groups), however a small increase  was  reported  in  enoxaparin  patients  who  experienced  a  major  bleed  than fondaparinux patients (13.7% vs 11.2% respectively).
+
+The second analysis looked at patients who died up to day 30, in order to determine what proportion of patients had experienced a clinically important bleeding event up to day 9.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 11 Incidence of bleeding events up to and including day 9 in subjects who died by day 30: As treated population
+
+| Subjects                   | Fondaparinux                 | Enoxaparin                   |
+|----------------------------|------------------------------|------------------------------|
+|                            | MajorBleedinguptoDay9,n/N（%) | MajorBleedinguptoDay9,n/N（%) |
+| OverallAsTreatedPopulation | 209/9979(2.1%)               | 406/9969(4.1%)               |
+| WhodieduptoDay30           | 32/290（11.0%)                | 64/350(18.3%)                |
+|                            | AnyBleeding1uptoDay9,n/N(%)  | AnyBleeding1uptoDay9,n/N(%)  |
+| OverallAsTreatedPopulation | 439/9979（4.4%)               | 976/9969（9.8%)               |
+| WhodieduptoDay30           | 43/290(14.8%)                | 80/350 (22.9%)               |
+
+1: any bleeding: major or minor bleed as reported by investigator.
+
+In  both  treatment  groups,  patients  who  died  by  day  30  experienced  numerically  higher  rates  of bleeding  up  to  and  including  day  9,  compared  to  the  overall  as  treated  study  population.  A  higher incidence of bleeding in patients who died by day 30 was observed in enoxaparin group compared to fondaparinux group.
+
+Serious  Adverse  Events (SAEs)  were  reported  in  4%  (360/9979)  in  fondaparinux  group  and  5% (520/9969) in enoxaparin group. The most frequent on-therapy SAEs were puncture site haemorrhage (0.35%  in  fondaparinux  vs  1.8%  in  enoxaparin),  catheter-related  complications  (0.34%  vs  0.11% respectively),  post-procedural  haemorrhage  (0.34%  vs  0.23%  respectively)  and  coronary  artery thrombosis (0.16% vs 0.05%).
+
+## Deaths
+
+Events resulting in death were reported as a component of the primary efficacy endpoint and were not intended  to  be  reported  as  SAEs.  However,  215  out  of  the  1,212  deaths  reported  in  the  primary efficacy results were reported as fatal SAEs, of which 102 deaths (1.02%) occurred with fondaparinux (27  (0.27%)  occurred  while  on  therapy)  and  113  (1.13%)  with  enoxaparin  (38  (0.38%)  while  on therapy). The causes of death were similar in both groups, with an exception regarding coronary artery thrombosis which occurred only in fondaparinux patients and digestive haemorrhage which were more frequent in enoxaparin on therapy.
+
+Death up to day 30 was numerically increased in enoxaparin group with 0.7% (66/9969) compared to 0.5% (54/9979) in fondaparinux group.
+
+GI  haemorrhage  (3  vs  2),  retroperitoneal  haemorrhage  (4  vs  0),  haemorrhagic  shock  (2  vs  0), haematoma nos (1 vs 0) and haemorrhage NOS (1 vs 0) were more frequent in enoxaparin group.
+
+Intracranial haemorrhage, including haemorrhagic stroke, were similar in both group (4 patients each).
+
+## SAEs other than death
+
+A total  of  819  patients  experienced  a  SAE;  3.34%  (334/9979)  occurred  in  fondaparinux  group  and 4.85% (485/9969) in enoxaparin group. Of which 1.6% (163/9979) in fondaparinux group and 2.8% (285/9969) in enoxaparin were drug-related.
+
+Drug-related catheter related complications (0.27% vs. 0.05%) and coronary artery thrombosis (0.14% vs  0.04%)  were  more  frequent  with  fondaparinux.  Other  drug-related  bleeding  SAEs  were  more frequent  with  enoxaparin  than  with  fondaparinux  group:  puncture  site  haemorrhage  (1.00%  vs. 0.29%),  injection  site  haemorrhage  (0.16%  vs.  0.01%)  retroperitoneal  haemorrhage  (0.16%  vs. 0.05%), retroperitoneal haematoma (0.08% vs 0) and vascular pseudoaneurysm (0.28% vs 0.12%).
+
+Thrombocytopenia was reported as a SAEs in 7 patients in fondaparinux and 9 in enoxaparin up to day 30, of which 5 (0.07%) on fondaparinux and 7 (0.09%) on enoxaparin occurred during the on-therapy period.  Three  patients  experienced  HIT  in  fondaparinux  group.  All  patients  underwent  a  CABG surgery, and one of them underwent a coronary angiography before the CABG surgery. Two patients received LMWH during the 7 days before randomisation and UFH during the initial hospitalisation as well  as  fondaparinux  for  8  days.  The  third  patient  received  a  single  dose  of  fondaparinux  and enoxaparin-placebo  on  day  1  and  a  second  dose  of  enoxaparin-placebo  on  day  2;  he  experienced thrombocytopenia and HIT on the fourth day. Normal platelet count was reported for all patients. It
+
+<div style=\"page-break-after: always\"></div>
+
+was unknown for all patients whether they received UFH during surgery. HIT test was positive in two patients and not reported in one. In one case the patient received a platelet infusion. The outcome was favourable for all patients. HIT was assessed as non-related to fondaparinux.
+
+## Discontinuation
+
+Discontinuation  due  to  AEs  occurred  in  115  (1.15%)  patients  in  fondaparinux  group  and  150  in enoxaparin  group  (1.50%).  Discontinuation  in  fondaparinux  group  was  due  to:  renal  insufficiency (0.08% in fondaparinux vs 0.01% in enoxaparin), cardiac disorders including rhythm disorders, angina pectoris and coronary stenosis and thrombosis (0.19% vs 0.17% respectively), skin disorders including allergic dermatitis and rash (0.06% vs 0.03% respectively).
+
+Discontinuation in enoxaparin group was due to vascular disorders including vascular pseudoaneurysm and haematoma (0.33% vs 0.21%) GI disorders mainly bleeding events (0.14% in enoxaparin  vs  0.07%  in  fondaparinux  respectively),  general  disorders  including  puncture  site haemorrhage, catheter site haemorrhage and pyrexia (0.19% vs 0.07% respectively).
+
+## Other Adverse Events (AEs)
+
+A total of 24% of patients in fondaparinux group experienced an AE compared to 28% in enoxaparin group.  The  following  AEs  were  reported  with  similar  incidence  in  both  groups:  headache,  pyrexia, chest  pain,  dizziness,  atrial  fibrillation,  and  anaemia.  Of  these,  headache,  chest  pain  and  atrial fibrillation were reported in at least 1% of subjects on fondaparinux.
+
+The following AEs were more frequent in enoxaparin group than in fondaparinux group: puncture site haemorrhage (1.23% vs 0.37%), haematoma (0.79% vs 0.59%), vascular pseudo aneurysm (0.77% vs 0.4%) and increased hepatic enzymes (0.16% vs 0.05%). The followings AEs were more frequent in fondaparinux  group  than  in  enoxaparin:  angina  pectoris  including  post-infarction  angina,  unstable angina  and  Printzmetal  angina  (0.8%  vs  0.5%),  coronary  artery  thrombosis  (0.17%  vs  0.06% respectively), and catheter-related complications (0.34% vs 0.11% respectively).
+
+Thrombocytopenia occurred in 1.2% (12) fondaparinux group, and in 1.7% (17) enoxaparin group. One patient experienced pancytopenia in fondaparinux group, and 1 patient experienced thrombocytemia in enoxaparin group.
+
+Four patients experienced HIT in fondaparinux patients during the period including day 30, of which one occurred during the on therapy period. Three of these cases were serious and are described under section 'SAEs other than death'.
+
+## Safety in special populations
+
+Fondaparinux had a lower risk of  major bleeding compared to enoxaparin regardless of sub-group, demonstrating the robustness of this clinically-important finding. Expectedly, the incidence of major bleeding in both treatment groups increased with known risk factors such as to age, female gender and decreased creatinine clearance. The incidence of  major bleeding in fondaparinux subjects increased with decreasing body weight, although it should be noted that the number of events and subjects in the &lt;50kg subgroup was small (&lt;1%). This increase was not evident in enoxaparin subjects; however, the enoxaparin dose regimen utilized weight adjustment.
+
+As expected, the incidence of bleeding was higher in patients taking concomitant anti-platelet, heparin, GPIIb/IIIa. An exception was noted for patients who were not taking ASA, where major bleeding was more frequent compared to those with concomitant ASA. This finding should be taken with caution, as only  a  small  number  of  patients  were  not  taking  concomitant  ASA.  No  difference  was  noted  in fondaparinux group regarding PCI procedure; however, in enoxaparin group a higher incidence was noted in patients undergoing a PCI procedure compared to those who did not. Finally, the incidence of major  bleeding  was  higher  but  similar  in  both  treatment  groups  in  patients  who  had  undergone  a CABG surgery.
+
+<div style=\"page-break-after: always\"></div>
+
+## Safety during PCI
+
+The incidence of peri-procedural complications in subjects who underwent PCI while receiving active study  drug  was  similar  between  the  treatment  groups  (15.9%  vs.  17.3%  of  PCIs  performed,  for fondaparinux and enoxaparin, respectively) and is shown in the table below.
+
+Table 12 Complications during PCI. All Randomised Subjects Receiving PCI during Initial Hospitalisation and Within 8 Days of Randomisation and Were Receiving Study Drug (Subset 2)
+
+|                                                | Fondaparinux (N=2854)   | Enoxaparin (N=2741)   |
+|------------------------------------------------|-------------------------|-----------------------|
+| Number of PCIs performed                       | 2888                    | 2781                  |
+| Any complication                               | 460 (15.9%)             | 480 (17.3%)           |
+| Vascular site complications overall            | 93 (3.2%)               | 201 (7.2%)            |
+| Pseudoaneurysm requiring closure               | 30 (1.0%)               | 48 (1.7%)             |
+| Large haematoma                                | 48 (1.7%)               | 132 (4.7%)            |
+| AV fistula                                     | 8 (0.3%)                | 1 (<0.1%)             |
+| Other vascular site complications              | 7 (0.2%)                | 20 (0.7%)             |
+| Other (i.e. coronary) complications during PCI | 367 (12.7%)             | 279 (10.0%)           |
+| Abrupt closure of coronary artery              | 49 (1.7%)               | 36 (1.3%)             |
+| New angiographic thrombus                      | 91 (3.2%)               | 49 (1.8%)             |
+| Catheter thrombus confirmed by adjudication    | 29 (1.0%)               | 8 (0.3%)              |
+| Clinical events during PCI                     | 77 (2.7%)               | 64 (2.3%)             |
+| Death                                          | 8 (0.3%)                | 11 (0.4%)             |
+| MI                                             | 59 (2.0%)               | 47 (1.7%)             |
+| Stroke                                         | 2 (<0.1%)               | 2 (<0.1%)             |
+| Other clinical event                           | 8 (0.3%)                | 4 (0.1%)              |
+
+1. Note:  Values are number of events (not number of subjects). Percentages represent the proportion of events based on the number of procedures performed
+
+Fondaparinux was associated with fewer vascular access site bleeding events compared to enoxaparin (3.2% vs. 7.2% of PCIs performed), which is consistent with the lower bleeding risk observed with fondaparinux in the overall population. This treatment difference in favour of fondaparinux was driven predominantly by large haematomas (1.7% vs. 4.7% of PCIs performed).
+
+Worryingly  however,  coronary  complications  tended  to  occur  more  frequently  with  fondaparinux relative to enoxaparin (12.7% vs. 10.0% of PCIs performed). In addition to the more frequent guiding catheter thrombus (1.0% vs. 0.3%), more disturbing are the higher rates of coronary abrupt closure and new angiographic thrombus (respectively 1.7% and 3.2% in the fondaparinux group).
+
+Vascular  site  bleeding  is  usually  clinically  manageable  and  less  of  a  concern  than  coronary complications. The occurrence of catheter thrombus (unblinded), an unexpected AE during the course of the study, prompted an amendement of the study protocol to emphasise the correct administration of fondaparinux intravenously during the PCI and to reiterate that heparinised catheter flushes could be used..
+
+## Proposed management strategy for fondaparinux-treated patients undergoing PCI: Use of UFH
+
+Acknowledging  the  observed  complications  in  fondaparinux  patients  undergoing  PCI  observed  in OASIS-5  and  OASIS-6  (see  later  in  this  report)  and  aware  of  the  fact  that  UA/NSTEMI  patients treated with s.c. fondaparinux may need to undergo PCI, the Applicant proposes that they should not receive fonadaparinux as the sole anticoagulant during the procedure but rather be managed according to standard medical practice and in line with treatment guidelines, using UFH as the adjunct for the procedure. UFH is established in clinical practice and is recommended in the ESC guidelines as the anticoagulant  of  choice  during  PCI,  with  its  primary  function  being  the  avoidance  of  thrombus formation on the PCI hardware and at the site of injury/plaque rupture in the coronary vessel. The use of adjunctive UFH during PCI to prevent thrombus formation in the PCI catheter is consistent with the following clinical data from 3,849 procedures performed in OASIS 5 and 6, plus recent in vitro data:
+
+<div style=\"page-break-after: always\"></div>
+
+- -There were no instances of guiding catheter thrombus reported in 1848 UFH-treated subjects in OASIS  6  who  underwent  primary  PCI  for  the  index  event  (1850  procedures),  nor  in  1849 subjects  (1999  procedures)  in  both  OASIS  5  and  6  who  underwent  PCI  after  the  study  drug treatment period and who were anticoagulated according to local practice (UFH expected)
+- -In  vitro data  have  shown  that  thrombus  formation  induced  by  PCI  catheters  occurs  via activation of the contact (intrinsic) pathway and is mediated by thrombin and inhibited by UFH. Due to its selectivity for factor Xa and inability to inhibit any residual thrombin, fondaparinux is unable  to  inhibit  contact  thrombosis  in  the  presence  of  catheter.  Not  unexpectedly  due  to  its specificity,  higher  concentrations  of  fondaparinux  could  not  overcome  thrombus  formation induced  by  the  catheter.  Clinically-relevant  doses  of  UFH  or  bivalirudin  (a  direct  thrombin inhibitor)  in  the  presence  of  fondaparinux  were  able  to  inhibit  clot  formation  in  presence  of catheters.
+
+## · Safety of UFH during PCI in Fondaparinux-treated Patients
+
+The  CHMP  expressed  concern  regarding  the  safety  of  the  Applicant's  proposed  management  of fondaparinux-treated patients undergoing PCI with adjunct open-label UFH, as this has not been has not been formally studied in UA/NSTEMI patients. Further to a request form CHMP, the Applicant has provided a detailed analysis of bleeding events in patients undergoing PCI with adjunct open label UFH included in the clinical development of fondaparinux - see below.
+
+Table 13 Summary of Major Bleeding Events up to Day 9 in Subjects Undergoing PCI with Adjunct Open Label UFH in PENTUA, OASIS 5 and OASIS 6, Subset 2/All Treated Population
+
+|                            | Fondaparinux   | Control 1     |
+|----------------------------|----------------|---------------|
+| Non-primary PCI in OASIS 6 | 6/238 (2.5%)   | 6/224 (2.7%)  |
+| PCI in PENTUA              | 2/61 (3.3%)    | 0/15 (0%)     |
+| PCI in OASIS 5             | 15/481 (3.1%)  | 37/447 (8.3%) |
+| Primary PCI in OASIS 6     | 6/374 (1.6%)   | 5/316 (1.6%)  |
+
+Note: All Treated Population for PENTUA; Subset 2 for OASIS 5 and 6
+
+Note: Subset 2 = All Randomised Subjects Receiving PCI During Initial Hospitalisation and Within 8 Days of
+
+Randomization and Who Were Receiving Study Medication
+
+Note: Percentages represent the proportion of events based on the number of procedures performed.
+
+Note: Bleeding events occurred on or after day of PCI
+
+1. Control was UFH or placebo in OASIS 6, and enoxaparin in PENTUA and OASIS 5
+
+In fondaparinux-treated STEMI subjects undergoing non-primary PCI in OASIS 6 and receiving openlabel  UFH  according  to  a  protocol-defined  algorithm  and  in  line  with  the  proposed  management strategy (238 procedures), there was no evidence of an increased bleeding risk compared to control subjects  (224  procedures).  This  low  bleeding  risk  was  consistently  observed  regardless  of  the  time from the last dose of fondaparinux to the start of PCI. Further, there was a low risk of peri-procedural coronary complications and no catheter thrombus events in subjects who received UFH prior to the PCI, and comparable rates of death or recurrent MI up to Day 30 relative to control subjects.
+
+A  further  854  subjects  received  open-label  UFH  in  conjunction  with  i.v.  fondaparinux  during  PCI (OASIS  5;  481  procedures  and  primary  PCI  in  OASIS  6;  374  procedures).  In  PENTUA,  61 UA/NSTEMI subjects receiving one of 4 fondaparinux doses (2.5, 4.0, 8.0 or 12.0 mg s.c. once daily) underwent  PCI  with  adjunctive,  open-label  UFH  administered  within  24  hours  of  the  previous fondaparinux dose (61 procedures), consistent with the proposed PCI management strategy.
+
+In  these  3  settings,  based  on  experience  in  916  PCIs,  UFH  does  not  appear  to  increase  the  risk  of bleeding  in  fondaparinux  subjects  relative  to  control,  even  though  the  level  of  anticoagulation  was greater than in the proposed management strategy. In addition, when administered before PCI, UFH appears to minimise the risk of catheter thrombus. In these cases, 2 events of catheter thrombus were reported in fondaparinux subjects, with one subject receiving a dose of UFH (5 IU/kg) and the other receiving 44 IU/kg without upfront GPIIb/IIIa inhibitors, which is lower than that recommended in the treatment  guidelines.  Thus,  combining  the  catheter  thrombus  events  that  occurred  in  all  PCIs performed  in  fondaparinux-treated  patients  receiving  pre-procedural  UFH,  administered  at  doses
+
+<div style=\"page-break-after: always\"></div>
+
+recommended in the treatment guidelines, there was only one reported event in 397 PCIs (0.25%). Notably, this rate is comparable to that seen in enoxaparin patients in OASIS 5.
+
+The CHMP consulted with the SAG CVS whether the above evidence was sufficient to support the proposed switch to UFH during PCI both in terms of safety and efficacy. The SAG was of the opinion that  the  available  evidence  is  insufficient  to  recommend  the  strategy  proposed  by  the  company.  In particular,  they  were  not  convinced  that  the  safety  advantage  with  fondaparinux  (over  enoxaparin) would be maintained when the UFH is added in PCI patients and were of the opinion that a further study was required to address the doubts regarding the proposed switch to UFH during PCI procedure.
+
+- Post-Authorisation Safety (PASS) Study
+
+Acknowledging the limited safety experience of using UFH as an adjunct during non-primary PCI in fondaparinux,  the  Applicant  proposes  to  carry  out  a  PASS  using  the  OASIS  5  inclusion/exclusion criteria (see figure below). The primary study objective will be to evaluate the safety in fondaparinuxtreated patients undergoing PCI receiving adjunctive therapy with one of two regimens of i.v. UFH (standard and reduced dose) as the PCI adjunct in fondaparinux-treated patients. Secondary objectives will  be  i)  to  confirm  that  the  rate  of  bleeding  in  fondaparinux-treated  patients  undergoing  PCI receiving adjunctive therapy with UFH is comparable to that observed in OASIS 5, and ii) to evaluate the effectiveness of anticoagulation during PCI and clinical outcomes to 30 days.
+
+## Figure 1 Proposed PASS Design
+
+<!-- image -->
+
+The adequacy of the proposed PASS was discussed at length by the CHMP, particularly with regards as to whether the study should also look into the efficacy of the proposed use of UFH in fondaparinuxtreated PCI patients. The CHMP sought the advice of the SAG CVS, who was of the opinion that the study should look into safety and efficacy and hence should be available in before the granting of the requested indication.
+
+Further to the concerns of CHMP and the SAG, the Applicant submitted an alternative study design including  an  enoxaparin  comparator.  However,  this  comparative  study  design  raises  logistical difficulties due the timing of randomisation that inclusion of a comparator requires and necessitates the PCI population be evaluated via a sub-group analysis. More critically, the study raises issues on the population that should be included, given the difference in bleeding risk and long term efficacy outcomes favouring fondaparinux, as well as the new ESC guideline recommendation of fondaparinux over enoxaparin. The advantages and disadvantages of both study designs are summarised below.
+
+<div style=\"page-break-after: always\"></div>
+
+## Table14 Comparison of the Two PASS Designs
+
+## Current Study
+
+## Advantages
+
+- Evaluates the most relevant patients based on the proposed indicated population
+- Randomised population includes only patients undergoing PCI
+
+## Disadvantages
+
+- Limitations of a comparison to historical data
+
+## Comparator (enoxaparin) Study
+
+## Advantages
+
+- Builds on existing data from OASIS 5 with enoxaparin
+
+## Disadvantages
+
+- Requires restriction of the study population to exclude patients with a risk of bleeding - would not reflect the patients likely to receive fondaparinux in clinical practice and would underestimate the bleeding risk
+- i.v. enoxaparin during PCI would be necessary to comply with ESC recommendations - but is not approved by regulatory agencies
+- Evaluation in PCI patients would be a sub-group analysis.
+
+Given the highlighted difficulties that would be encountered with the comparator (enoxaparin) study, the CHMP agrees that the PASS study proposed by the MAH is a satisfactory alternative.
+
+## OASIS-6: fondaparinux in the treatment of STEMI
+
+This was a randomised, double-blind, parallel-group, controlled trial comparing the safety and efficacy of 2.5mg fondaparinux versus a control of usual care (UFH or Placebo) in subjects with STEMI.
+
+The primary objective was  to  evaluate  whether  fondaparinux  was  superior  to  a  control  reflecting  a usual  care  (UFH  or  placebo)  in  preventing  death  or  recurrent  MI  (re-MI)  up  to  Day  30  in  subjects presenting  with  STEMI.  The  secondary  efficacy  objectives  were  to  evaluate  whether  there  was  a beneficial effect of fondaparinux compared to control in preventing death or re-MI (Days 9, 90 and 180)  and  to  evaluate  whether  fondaparinux  was  superior  to  control  in  preventing  death,  re-MI  and refractory ischemia (Day 30).
+
+Regarding treatment  allocation ,  subjects  were  randomised  to  one  of  two  strata  based  on  the reperfusion strategy (indication for UFH or not) selected by the investigator prior to randomisation. Study drug was to be administered as soon as possible after randomisation.
+
+- Stratum 1: no indication for UFH;
+
+Subjects  who  received  a  non-fibrin  specific  thrombolytic  [e.g.  streptokinase  (STK)]  prior  to arrival in the ER were eligible for randomisation in Stratum 1 immediately, provided they did not meet the exclusion criterion with regard to heparin pre-randomisation.
+
+Treatment was fondaparinux 2.5mg i.v. bolus vs placebo just after randomisation, followed by fondaparinux 2.5mg s.c. or placebo for 8 days or until hospital discharge, whichever was earlier.
+
+- Stratum 2: indication for UFH. A number of different scenarios were envisaged:
+- Subjects  treated  with  a  Fibrin-Specific  Thrombolytic  OR  not  scheduled  for  Reperfusion Therapy (PCI or Thrombolytic)
+
+Immediately prior (approx. 15min) to start of thrombolytic therapy OR  just after randomisation, patients received fondaparinux 2.5mg i.v. bolus vs. UFH 60 IU/kg (max 4000 IU) i.v. bolus, followed by fondaparinux 2.5mg s.c. for up to 8 days or discharge vs UFH i.v. 12 IU/kg/hr (max 1,000 IU/h) for 24 to 48 hours.
+
+- Subjects undergoing Primary PCI
+
+Immediately prior to procedure: fondaparinux 2.5 or 5 mg i.v. bolus vs UFH 65 or 100 IU/kg i.v.  bolus,  (depending  on  the  upfront  use  or  not  of  i.v.  GPIIb/IIIa  inhibitors,  and  on  pre-
+
+<div style=\"page-break-after: always\"></div>
+
+randomisation or not of UFH), followed by: fondaparinux 2.5mg s.c. or placebo for up to 8 days or discharge.
+
+- Subjects undergoing non-primary PCI (elective or rescue catheterisation) or CABG
+
+In case of PCI after randomisation, the procedure was delayed where possible for 24 hours after  the  last  s.c.  fondaparinux/placebo  injection  and  3  hours  after  UFH/placebo  infusion. The  PCI  was  then  performed  as  per  local  practice  with  open-label  UFH  and  GPIIb/IIIa inhibitor.
+
+If PCI was performed &lt;24 hours after the last injection of fondaparinux/placebo or within 3 hours  after  discontinuation  of  UFH/placebo,  the  subject  was  unblinded  and  treated  with open-label UFH and GPIIb/IIIa inhibitors.
+
+The UFH/placebo  infusion was not restarted, if possible, after the PCI. The first fondaparinux/
+
+placebo s.c. injection after the PCI, was 18-24 hours after the last fondaparinux/placebo s.c injection (pre-PCI) and at least 3 hours after sheath removal. The use of any GPIIb/IIIa after the PCI was left to the investigator's discretion.
+
+If CABG was required, study drug was temporarily interrupted preferably 24 hours prior to scheduled CABG surgery and restarted 48 hours post CABG, if possible.
+
+Study drug was administered for up to 8 days on a background of standard care. Subject follow-up was for a minimum of 90 days and a maximum of 180 days, or until death.
+
+OASIS 6 included subjects presenting within 12 hours (amended from 24 hours based on the results of the CREATE trial) with signs and symptoms of acute MI and definite ECG changes indicating STEMI [persistent ST-elevation ( ≥ 0.2mV in two contiguous precordial leads, or ≥ 0.1mV in at least two limb leads),  or  new  left  bundle  branch  block,  or  ECG  changes  indicating  true  posterior  MI].  Eligible subjects included those with planned reperfusion with one of several thrombolytic agents (i.e., STK, urokinase, alteplase, reteplase, tenecteplase) or with primary PCI, as well as subjects who were not eligible for reperfusion therapy (e.g. late presentation or contra-indication to reperfusion therapy). The key exclusion criteria were: subjects with severe renal insufficiency (i.e. serum creatinine ≥ 3mg/dl or 265 μ mol/l),  subjects  who  were  currently  receiving  an  oral  anticoagulant  agent  with  an  INR  &gt;1.8, subjects who had LMWH or &gt;5000IU UFH administered prior to randomisation, a contraindication to anticoagulant  therapy  such  as  high  risk  of  bleeding  or  active  bleeding  and  subjects  who  had  prerandomisation PCI for the index event or pre-randomisation rescue PCI.
+
+Regarding concomitant  medication ,  all  subjects  were  to  receive  ASA  OD  (75-325mg)  indefinitely. Furthermore subjects were concurrently managed with standard medical therapy such as nitrates, ACE inhibitors, β -blockers, anti-platelet agents (i.e. thienopyridines, GPIIb/IIIa inhibitors). Thrombolytics were allowed and were to be administered within 12 hours of the onset of symptoms. The concomitant use of LMWH, direct thrombin inhibitors or oral anticoagulants (i.e. vitamin K antagonists) during the treatment period was not allowed. In addition, UFH other than study medication or that permitted per protocol during non-primary PCI was not allowed.
+
+The primary efficacy endpoint was the first occurrence of the composite of death (all-cause mortality) or  re-MI  at  Day  30.  Secondary  efficacy  endpoints  included  additional  assessments  of  the  primary endpoint at Days 9, 90 and 180 and the first occurrence of any component of the composite of death, recurrent MI or RI (as adjudicated) up to Days 9, 30, 90, and 180.
+
+<div style=\"page-break-after: always\"></div>
+
+The primary  safety  endpoint was  the  first  incidence  of  adjudicated  severe  haemorrhage  (modified TIMI criteria) up to Day 9 - see definitions below.
+
+|                                                                                                                                         | ProtocolDefinition1   | Revised Definition2   |
+|-----------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-----------------------|
+| Severe Hemorrhage(TiMI)                                                                                                                 |                       |                       |
+| Fatal hemorrhage                                                                                                                        |                       | +                     |
+| Symptomaticintracranialhemorrhage                                                                                                       | +                     | +                     |
+| CardiacTamponade                                                                                                                        | +                     | +                     |
+| Decrease inHb≥5g/dL(witheachblood transfusionunit counting for 1.0g/dL Hb)                                                              |                       |                       |
+| DecreaseinHb≥5g/dL(notaddingtransfusions) MinorHemorrhage(TiMI)                                                                         |                       |                       |
+| Decrease inHb>3.0 to≤5.0g/dL(witheachblood transfusionunit counting for 1.0g/dL Hb) DecreaseinHbof>3.0to≤5.0g/dL(notaddingtransfusions) |                       | +                     |
+| MajorBleeding                                                                                                                           |                       |                       |
+| Fatal                                                                                                                                   | +                     | +                     |
+| Symptomaticintracranialhemorrhage                                                                                                       |                       | +                     |
+| Retroperitonealhemorrhage                                                                                                               |                       | +                     |
+| Intraocularhemorrhageleadingtosignificantvisionloss                                                                                     |                       | +                     |
+| RequiringsurgicalIntervention                                                                                                           |                       | +                     |
+| Any decrease inHb of≥3.0g/dL(witheachblood transfusion unit counting for 1.0g/dL of Hb),                                                |                       |                       |
+| Any decrease inHbof≥3.0g/dL(not adding transfusions), Bloodtransfusion≥2unitsofredbloodcellsorequivalentofwhole blood                   |                       |                       |
+| MinorBleeding                                                                                                                           |                       |                       |
+| Interruptionofstudydrugforatleast24hours                                                                                                | +                     | +                     |
+| Surgical Intervention                                                                                                                   |                       |                       |
+| Transfusion of 1unit of blood(wholeblood orpackedredblood cells)                                                                        |                       |                       |
+| Usedforpresentationofinvestigatorreportedbleedingevents UsedbyEACandinpresentationofadjudicatedbleedingevents                           |                       |                       |
+
+A sample size of 12,000 subjects allowed 84% power to detect a 15% difference in relative reduction in the hazard ratio given a control event rate of 12% with an alpha level of 5% (2-sided). All subjects randomised  into  the  study  ('All  Randomised'  population)  were  analysed  in  all  safety  and  efficacy analyses.  In  addition,  safety  analyses  were  carried  out  according  to  the  treatment  subjects  actually received ('As Treated' population). A subject was excluded from the 'As Treated' population if they had no record of taking study medication. Protocol violations were examined to evaluate the quality of the study conduct; however, a 'Per-protocol' population was not used for analysis in this study.
+
+The primary efficacy variable was analysed using a Cox proportional hazards model for the overall population,  stratified  by  indication  of  UFH.  Fondaparinux  was  considered  superior  to  control treatment  if  the  upper  limit  of  the  two-sided  95%  CI  of  the  hazard  ratio  did  not  exceed  1 (corresponding to a p-value of 0.05). To investigate the consistency of the treatment effect across the strata, analyses were performed using a Cox proportional hazards model for each stratum individually, with treatment group as the only dependent variable. In addition, the interaction of treatment effect with strata was investigated using a Cox proportional hazards model with terms for treatment group, strata (as a covariate) and the treatment by strata interaction.
+
+<div style=\"page-break-after: always\"></div>
+
+## Results
+
+The participant flow in OASIS-6 is shown below
+
+## STRATUM 1
+
+## STRATUM 2
+
+<!-- image -->
+
+There  were  42  participating  countries  grouped  into  4  distinct  regions,  with  the  Eastern  European region  randomising  most  of  the  subjects  (47.5%).  The  top  three  recruiting  countries  were  Russia, China, and India representing 16.7%, 12.4% and 11.7% of the overall population, respectively. Across
+
+<div style=\"page-break-after: always\"></div>
+
+the 2 strata, more East European (43%) and Asian (40%) subjects were included in Stratum 1, while more East European (51.5%) and West European (23%) subjects were included in Stratum 2.
+
+There  were  no  notable  differences  in baseline  data between  the  treatment  groups  in  terms  of demographic or clinical characteristics, or cardiovascular history, or time between onset of qualifying episode  of  chest  pain/symptoms  and  randomisation.  As  in  OASIS-5,  the  most  frequently  used medications during the initial hospitalisation period were ASA, beta-blockers, nitrates, statins, ACEi, and  clopidogrel.  The  concomitant  use  of  medications  was  similar  between  the  groups  within  each study.
+
+The summary of reperfusion strategies is shown in the table below.
+
+Table 15. Summary of Actual Reperfusion Strategy for Index Event - All Randomised
+
+|                        | Overall        | Overall          | Stratum 1      | Stratum 1        | Stratum 2      | Stratum 2    |
+|------------------------|----------------|------------------|----------------|------------------|----------------|--------------|
+| n (%)                  | Fond. N = 6036 | Control N = 6056 | Fond. N = 2823 | Placebo N = 2835 | Fond. N = 3213 | UFH N = 3221 |
+| Thrombolytic Agent     |                |                  |                |                  |                |              |
+| No                     | 3341 (55.4)    | 3314 (54.7)      | 630 (22.3)     | 613 (21.6)       | 2711 (84.4)    | 2701 (83.9)  |
+| Yes                    | 2695 (44.6)    | 2742(45.3)       | 2193 (77.7)    | 2222 (78.4)      | 502 (15.6)     | 520 (16.1)   |
+| Fibrin Specific        | 425 (7.0)      | 443 (7.3)        | 8 (0.3)        | 8 (0.3)          | 417 (13.0)     | 435 (13.5)   |
+| Alteplase 1            | 102 (24.0)     | 120 (27.1)       | 3 (37.5)       | 5 (62.5)         | 99 (23.7)      | 115 (26.4)   |
+| Reteplase 1            | 141 (33.2)     | 119 (26.9)       | 2 (25.0)       | 0                | 139 (33.3)     | 119 (27.4)   |
+| Tenecteplase 1         | 182 (42.8)     | 204 (46.0)       | 3 (37.5)       | 3 (37.5)         | 179 (42.9)     | 201 (46.2)   |
+| Non-Fibrin Specific    | 2267 (37.6)    | 2298 (37.9)      | 2183 (77.3)    | 2214 (78.1)      | 84 (2.6)       | 84 (2.6)     |
+| Streptokinase 1        | 1950 (86.0)    | 1998 (86.9)      | 1890 (86.6)    | 1940 (87.6)      | 60 (71.4)      | 58 (69.0)    |
+| Urokinase 1            | 317 (14.0)     | 300 (13.1)       | 293 (13.4)     | 274 (12.4)       | 24 (28.6)      | 26 (31.0)    |
+| Other 1                | 3 (<0.1)       | 1 (<0.1)         | 2 (<0.1)       | 0                | 1 (<0.1)       | 1 (<0.1)     |
+| Primary PCI            |                |                  |                |                  |                |              |
+| No                     | 4147 (68.7)    | 4147 (68.5)      | 2813 (99.6)    | 2828 (99.8)      | 1334 (41.5)    | 1319 (41.0)  |
+| Yes                    | 1889 (31.3)    | 1909 (31.5)      | 10 (0.4)       | 7 (0.2)          | 1879 (58.5)    | 1902 (59.0)  |
+| No Thrombolytic or PCI | 1452 (24.1)    | 1405 (23.2)      | 620 (22.0)     | 606 (21.4)       | 832 (25.9)     | 799 (24.8)   |
+
+1. The percentage of subjects receiving each thrombolytic agent is based on the total for fibrin-specific or non-fibrin specific totals.
+
+The long-term use of agents and interventions that improve morbidity outcomes was balanced between treatment groups and the percentages of subjects who underwent PCI or CABG surgery at the followup visits were similar in both studies. Approximately 45% of subjects underwent thrombolysis, and 31% primary PCI as the initial reperfusion strategy for the index event, while 24% of subjects did not undergo any initial reperfusion.
+
+## Relevance of the OASIS-6 population to EU clinical practice
+
+This was one of the main points discussed by the CHMP. The MAH was asked to clarify if the OASIS 6  study  population  could  be  considered  as  representative  of  the  target  population,  taking  current treatment  practice  and  guideline  recommendations  into  account.  For  example,  only  53%  of  the included patients were allocated to UFH treatment while, according to European Heart Survey data, 85% of the target population is treated with UFH. The percentage of patients that underwent PCI, the best reperfusion strategy in STEMI according to guidelines, appears low compared to usual practice in Europe. In addition, a rather large proportion (84 %) of the studied patients undergoing thrombolysis were treated with non-fibrin-selective thrombolytics (mainly STK) and only 16% with fibrin-specific thrombolytics,  which  is  not  representative  of  current  thrombolytic  treatment,  when  mainly  fibrinspecific thrombolytics are used. Moreover, the surprisingly high mortality rate observed in this study raised further concern regarding the possible differences in background therapy and treatment care as compared to current treatment practices in the Western population.
+
+Further to a request from CHMP the Applicant submitted a thorough investigation of contemporary European  registries  (notably  ACS-II  and  GRACE).  According  to  the  Applicant,  the  population  in OASIS-6 trial is consistent with such registries (patient characteristics, use of concomitant therapies and mortality rates were comparable) and the use of reperfusion therapy reflects ESC recommendations.  The  company  is  of  the  opinion  that  non-fibrin  specific  thrombolytics  are  still
+
+<div style=\"page-break-after: always\"></div>
+
+widely  used  in  Europe,  especially  Eastern  Europe  and  the  UK.  In  OASIS-6  the  use  of  non-fibrin specific  thrombolytics  varied  across  the  European  Union  and  was  consistent  with  country  specific data. Also the UFH use in OASIS-6 is consistent with ESC guideline recommendations.
+
+The  CHMP  put  this  question  to  the  SAG  CVS,  who  acknowledged  the  differences  between  the OASIS-6 population and the populations included in the registries but also pointed out that registry data are populated to a large extent by active, highly motivated large centres with facilities for primary PCI  in  STEMI  patients.  Thus,  despite  the  increasing  availability  of  primary  PCI,  the  majority  of patients with STEMI in EU are still treated with thrombolytic therapy. It was stated that STK is still used  in  many  European  countries  (Eastern  Europe,  UK)  although  the  precise  rates  of  non-fibrin specific and fibrin-specific thrombolytics prescribed in Europe are uncertain since current European registries  and  studies  might  not  accurately  reflect  usual  practice  in  Europe  which  is  probably  fairly heterogeneous. Moreover, it was suggested that too much attention should not be paid to the type of thrombolytic therapy often used in EU, as the pathophysiological mechanism is similar irrespective of the type of the thrombolytic agent.
+
+Although  firm  evidence-based  conclusions  are  not  possible  in  this  area,  the  SAG  concluded  that despite  the  population  of  patients  included  in  OASIS-6  (notably  in  Stratum  1)  not  being  fully representative of the target population, the study results could still be applicable to European patients.
+
+## Results of the primary endpoint
+
+Fondaparinux  demonstrated  a  clinically  relevant  and  statistically  significant  14%  risk  reduction relative  to  control  in  the  primary  endpoint  (HR  0.86,  95%  CI:  0.77,  0.96;  p=0.008)  in  the  overall randomised population, as shown below.
+
+Table 16 Proportional Hazards Analysis of the First Occurrence of Adjudicated Death or Re-MI at Day 30 -
+
+|                            | Overall        | Overall          | Stratum 1      | Stratum 1        | Stratum 2      | Stratum 2    |
+|----------------------------|----------------|------------------|----------------|------------------|----------------|--------------|
+|                            | Fond. N = 6036 | Control N = 6056 | Fond. N = 2823 | Placebo N = 2835 | Fond. N = 3213 | UFH N = 3221 |
+| Events, n (%)              | 584 (9.7%)     | 675 (11.1%)      | 318 (11.3)     | 396 (14.0)       | 266 (8.3)      | 279 (8.7)    |
+| Adjusted Hazard Ratio (HR) | 0.86           | 0.86             | 0.80           | 0.80             | 0.94           | 0.94         |
+| 95% CI                     | (0.77, 0.96)   | (0.77, 0.96)     | (0.69, 0.93)   | (0.69, 0.93)     | (0.79, 1.11)   | (0.79, 1.11) |
+| Adjusted HR p-value        | 0.008          | 0.008            | 0.003          | 0.003            | 0.460          | 0.460        |
+
+Consistent with the result in the overall randomised population, fondaparinux was superior to placebo in Stratum 1 (UFH not indicated) in the prevention of death or re-MI with a 20% risk reduction at Day 30 [HR 0.80; 95% CI: 0.069, 0.93; p=0.003). However, fondaparinux failed to demonstrate superiority over UFH (stratum 2). The interaction test between treatment and strata was not significant (p=0.11), indicating that the results of both strata were consistent with the overall results.
+
+The results of adjudicated death or Re-MI at different time points are shown below.
+
+Table 17. Summary of the Proportional Hazards Analysis of Adjudicated Death or Re-MI at All Time points
+
+| Death/reMI Timepoint, n(%)   | Fondaparinux   | Control     | HR(95% CI)        | p-Value   |
+|------------------------------|----------------|-------------|-------------------|-----------|
+| Overall                      | N=6,036        | N=6,056     |                   |           |
+| Day 9                        | 443 (7.3%)     | 536 (8.9%)  | 0.82 (0.73, 0.93) | 0.003     |
+| Day 30                       | 584 (9.7%)     | 675 (11.1%) | 0.86 (0.77, 0.96) | 0.008     |
+| Day 90                       | 683 (11.3%)    | 796 (13.1%) | 0.85 (0.77, 0.94) | 0.002     |
+| Day 180                      | 756 (12.5%)    | 855 (14.1%) | 0.88 (0.79, 0.97) | 0.008     |
+| Stratum 1 (vs Placebo)       | N=2,823        | N=2,835     |                   |           |
+| Day 9                        | 240 (8.5%)     | 314 (11.1%) | 0.76 (0.64, 0.90) | 0.001     |
+| Day 30                       | 318 (11.3%)    | 396 (14.0%) | 0.80 (0.69, 0.93) | 0.003     |
+| Day 90                       | 369 (13.1%)    | 453 (16.0%) | 0.83 (0.72, 0.95) | 0.008     |
+| Day 180                      | 414 (14.7%)    | 469 (16.5%) | 0.87 (0.77, 1.00) | 0.046     |
+| Stratum 2 (vs UFH)           | N=3,213        | N=3,221     |                   |           |
+| Day 9                        | 203 (6.3%)     | 222 (6.9%)  | 0.91 (0.75, 1.10) | 0.330     |
+
+<div style=\"page-break-after: always\"></div>
+
+| Day 30   | 266 (8.3%)   | 279 (8.7%)   | 0.94 (0.79, 1.11)   |   0.460 |
+|----------|--------------|--------------|---------------------|---------|
+| Day 90   | 314 (9.8%)   | 355 (11.0%)  | 0.87 (0.75, 1.02)   |   0.077 |
+| Day 180  | 342 (10.6%)  | 386 (12.0%)  | 0.87 (0.75, 1.01)   |   0.069 |
+
+Fondaparinux  was  superior  to  placebo  in  reducing  the  risk  of  death  and  re-MI  at  all  time  points assessed, as by the hazard ratios and CIs and by the separation of Kaplan-Meier curves. The benefit of fondaparinux was observed at Day 9 with a significant 18% risk reduction and was sustained through Day 180 (risk reduction 12%). Again this overall risk reduction was significant in Stratum 1 but not in Stratum 2.
+
+Figure  2  Kaplan-Meier  Plot,  Time  to  First  Occurrence  of  Adjudicated  Death  or  Re-MI,  Stratum  1
+
+<!-- image -->
+
+The separation of the Kaplan-Meier curves showed a different profile in Stratum 2 relative to Stratum 1  (shown  above).  Event  rates  were  generally  lower  than  in  Stratum  1  and  there  was  very  little separation of the survival curves until around Day 30, suggesting non-superiority to UFH up to that time. However, after Day 30, the curves separate showing a profile consistent with the overall results.
+
+Figure 3 Kaplan-Meier Plot, Time to First Occurrence of Adjudicated Death or Re-MI, Stratum 2
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+The individual components of the primary endpoint (death and re-MI) at all time points are shown in the following tables.
+
+Table 18 - Summary of the Proportional Hazards Analysis of Adjudicated Death at All Time points
+
+| Death Timepoint, n(%)   | Fondaparinux   | Control     | HR(95% CI)        | p-Value   |
+|-------------------------|----------------|-------------|-------------------|-----------|
+| Overall                 | N=6036         | N=6056      |                   |           |
+| Day 9                   | 368 (6.1%)     | 426 (7.0%)  | 0.86 (0.75, 0.99) | 0.039     |
+| Day 30                  | 470 (7.8%)     | 541 (8.9%)  | 0.87 (0.77, 0.98) | 0.023     |
+| Day 90                  | 545 (9.0%)     | 634 (10.5%) | 0.86 (0.76, 0.96) | 0.008     |
+| Day 180                 | 599 (9.9%)     | 675 (11.1%) | 0.88 (0.79, 0.99) | 0.027     |
+| Stratum 1 (vs Placebo)  | N=2823         | N=2835      |                   |           |
+| Day 9                   | 202 (7.2%)     | 252 (8.9%)  | 0.80 (0.66, 0.96) | 0.018     |
+| Day 30                  | 257 (9.1%)     | 321 (11.3%) | 0.80 (0.68, 0.94) | 0.008     |
+| Day 90                  | 301 (10.7%)    | 354 (12.5%) | 0.85 (0.73, 0.99) | 0.037     |
+| Day 180                 | 336 (11.9%)    | 375 (13.2%) | 0.89 (0.77, 1.04) | 0.135     |
+| Stratum 2 (vs UFH)      | N=3213         | N=3221      |                   |           |
+| Day 9                   | 166 (5.2%)     | 174 (5.4%)  | 0.95 (0.77, 1.17) | 0.623     |
+| Day 30                  | 213 (6.6%)     | 220 (6.8%)  | 0.95 (0.79, 1.15) | 0.631     |
+| Day 90                  | 244 (7.6%)     | 280 (8.7%)  | 0.86 (0.72, 1.02) | 0.087     |
+| Day 180                 | 263 (8.2%)     | 300 (9.3%)  | 0.87 (0.73, 1.02) | 0.088     |
+
+In  the  overall  'All  Randomised  Population',  there  was  a  reduction  in  the  risk  of  death  favouring fondaparinux, seen early at Day 9 with a clinically and statistically significant 14% reduction in risk and sustained through to Day 180 (12% risk reduction). Stratum 1 results support the conclusion that fondaparinux  was  superior  to  placebo  in  reducing  the  risk  of  death,  as  early  as  Day  9  with  a statistically  significant  20%  risk  reduction  and  was  sustained  through  Day 90 (15% risk reduction). Although  the  results  at  Day  180  failed  to  achieve  statistical  significance,  the  hazard  ratio  remains consistent with the overall result for this endpoint. In Stratum 2, the event rates were generally lower than in Stratum 1, with non-superiority of the efficacy of UFH up to Day 30. However, after Day 30 the results in Startum 2 are consistent with the overall results.
+
+Table 19 - Summary of the Proportional Hazards Analysis of Adjudicated ReMI at All Time points
+
+| Recurrent MI Time point, n(%)   | Fondaparinux   | Control    | HR(95% CI)         | p-Value   |
+|---------------------------------|----------------|------------|--------------------|-----------|
+| Overall                         | N=6036         | N=6056     |                    |           |
+| Day 9                           | 91 (1.5%)      | 134 (2.2%) | 0.68 (0.52, 0.88)  | 0.004     |
+| Day 30                          | 141 (2.3%)     | 172 (2.8%) | 0.81 (0.65, 1.02); | 0.069     |
+| Day 90                          | 174 (2.9%)     | 217 (3.6%) | 0.79 (0.65, 0.97); | 0.023     |
+| Day 180                         | 199 (3.3%)     | 242 (4.0%) | 0.81 (0.67, 0.98); | 0.031     |
+| Stratum 1 (vs Placebo)          | N=2823         | N=2835     |                    |           |
+| Day 9                           | 49 (1.7%)      | 72 (2.5%)  | 0.67 (0.47, 0.97); | 0.032     |
+| Day 30                          | 74 (2.6%)      | 92 (3.2%)  | 0.79 (0.58, 1.07); | 0.133     |
+| Day 90                          | 88 (3.1%)      | 109 (3.8%) | 0.79 (0.60, 1.05); | 0.104     |
+| Day 180                         | 101 (3.6%)     | 117 (4.1%) | 0.85 (0.65, 1.10); | 0.221     |
+| Stratum 2 (vs UFH)              | N=3213         | N=3221     |                    |           |
+| Day 9                           | 42 (1.3%)      | 62 (1.9%)  | 0.68 (0.46, 1.01)  | 0.053     |
+| Day 30                          | 67 (2.1%)      | 80 (2.5%)  | 0.83 (0.60, 1.15)  | 0.253     |
+| Day 90                          | 86 (2.7%)      | 108 (3.4%) | 0.79 (0.59, 1.04)  | 0.097     |
+| Day 180                         | 98 (3.1%)      | 125 (3.9%) | 0.77 (0.59, 1.01)  | 0.058     |
+
+Similarly favourable results for fondaparinux were observed in the reduction in the risk of re-MI, with a clinically and statistically significant 32% reduction in risk at Day 9 in the overall population and sustained through to Day 180 (19%). The results in Stratum 1 and Stratum 2 were consistent with the the overall results but were only significant at Day 9 in Stratum 1.
+
+Other efficacy outcomes by strata: stroke, severe ischemia and composite of Death/Re-MI/RI
+
+<div style=\"page-break-after: always\"></div>
+
+The  results  for  the  composite  of  Death/re-MI/RI  were  significantly  in  favour  of  fondaparinux  in stratum 1 and there was a favourable trend in stratum 2, which did not reach statistical significance.
+
+Table 20. Summary of the Proportional Hazards Analysis of Adjudicated Death/Re-MI/RI at All Time points by Strata
+
+| Death/ReMI/RI Time point, n(%)   | Fondaparinux      | Control            | HR(95% CI)        | p-Value   |
+|----------------------------------|-------------------|--------------------|-------------------|-----------|
+| Stratum 1 (vs Placebo) Day 9     | N=2823 253 (9.0%) | N=2835 314 (11.1%) | 0.77 (0.65, 0.91) | 0.002     |
+| Day 30                           | 332 (11.8%)       | 396 (14.0%)        | 0.81 (0.70, 0.94) | 0.004     |
+| Day 90                           | 383 (13.6%)       | 453 (16.0%)        | 0.84 (0.73, 0.96) | 0.011     |
+| Day 180                          | 427 (15.1%)       | 469 (16.5%)        | 0.88 (0.77, 1.00) | 0.053     |
+| Stratum 2 (vs UFH)               | N=3213            | N=3221             |                   |           |
+| Day 9                            | 213 (6.6%)        | 222 (6.9%)         | 0.91 (0.76, 1.10) | 0.320     |
+| Day 30                           | 278 (8.7%)        | 279 (8.7%)         | 0.94 (0.80, 1.11) | 0.447     |
+| Day 90                           | 328 (10.2%)       | 355 (11.0%)        | 0.88 (0.76, 1.02) | 0.091     |
+| Day 180                          | 357 (11.1%)       | 386 (12.0%)        | 0.88 (0.76, 1.02) | 0.081     |
+
+The the occurrence of stroke was low in the overall population. In Stratum 1, contrary to Stratum 2, there  was  a  suggestion  of  treatment  effect  favouring  fondaparinux  over  placebo  which  was  most apparent at early time points; however in both Strata, the 95% CIs were wide and thus the results are inconclusive.
+
+Table 21. Summary of the Proportional Hazards Analysis of Adjudicated Stroke at All Time points by Strata
+
+| Stroke Time point, n(%)   | Fondaparinux   | Control   | HR(95% CI)        | p-Value   |
+|---------------------------|----------------|-----------|-------------------|-----------|
+| Stratum 1 (vs Placebo)    | N=2823         | N=2835    |                   |           |
+| Day 9                     | 16 (0.6%)      | 29 (1.0%) | 0.55 (0.30, 1.01) | 0.053     |
+| Day 30                    | 24 (0.9%)      | 36 (1.3%) | 0.66 (0.39, 1.10) | 0.112     |
+| Day 90                    | 32 (1.1%)      | 39 (1.4%) | 0.81 (0.52, 1.29) | 0.372     |
+| Day 180                   | 34 (1.2%)      | 42 (1.5%) | 0.80 (0.51, 1.25) | 0.327     |
+| Stratum 2 (vs UFH)        | N=3213         | N=3221    |                   |           |
+| Day 9                     | 29 (0.9%)      | 27 (0.8%) | 1.04 (0.61, 1.77) | 0.876     |
+| Day 30                    | 43 (1.1%)      | 32 (1.0%) | 1.04 (0.64, 1.69) | 0.886     |
+| Day 90                    | 49 (1.5%)      | 38 (1.2%) | 1.27 (0.83, 1.94) | 0.277     |
+| Day 180                   | 51 (1.6%)      | 47 (1.5%) | 1.07 (0.72, 1.59) | 0.755     |
+
+Regarding severe ischemia, consistent with the overall population, fondaparinux was associated with statistically non-significant reductions in both Stratum 1 and Stratum 2 in the risk of severe ischemia.
+
+## Sub groups analyses, including PCI
+
+Subgroup  analyses  on  the  primary  outcome  were  performed  according  to  the  usual demographic characteristics .  The  results  were  consistent  across  various  subgroups  (age,  sex,  BMI,  Creatinine Clearance)  and  no  significant  interactions  were  found,  although  results  tended  to  vary  slightly  by country group, with higher event rates in Asia and lower in Western Europe, again opening the debate on the representativeness of the trial population.
+
+Analysis  of  the  primary  outcome  by  prior  use  and  concomitant  anticoagulant  treatment,  by  initial reperfusion strategy and by revascularisation procedure (PCI) were also performed. The relative effect of  fondaparinux  to  control  on  death/re-MI  at  Day  30  was  consistent  among  subjects  who  received thrombolysis  or  no  initial reperfusion, as well as in those who  received  non-fibrin  specific thrombolytics. In subjects receiving fibrin specific thrombolytics the rates of death/re-MI were similar.
+
+However,  among  subjects  who  underwent  primary  PCI  for  the  index  event,  fondaparinux  did  not provide any benefit at Day 30 compared to control.
+
+<div style=\"page-break-after: always\"></div>
+
+Table  22.  Proportional  Hazards  Analysis  of  Time  to  First  Occurrence  of  the  primary  endpoint  by  Initial Reperfusion Strategy
+
+| Covariate Endpoint/Timepoint       | No. Events/No. Analysed (%)   | No. Events/No. Analysed (%)   | HR(95% CI) 1      | Treatment by covariate interaction p-value   |
+|------------------------------------|-------------------------------|-------------------------------|-------------------|----------------------------------------------|
+|                                    | Fondaparinux                  | Control                       |                   |                                              |
+| Adjusting for Reperfusion Strategy | 584/6036 (9.7)                | 675/6056 (11.1)               | 0.89 (0.78, 1.02) | 0.002                                        |
+| No reperfusion                     | 176/1452 (12.1)               | 211/1405 (15.0)               | 0.79 (0.65, 0.97) |                                              |
+| Thrombolytic Agent                 | 295/2695 (10.9)               | 373/2742 (13.6)               | 0.79 (0.68, 0.93) |                                              |
+| Primary PCI                        | 113/1889 (6.0)                | 91/1909 (4.8)                 | 1.26 (0.96, 1.66) |                                              |
+| Thrombolytic Use                   |                               |                               |                   |                                              |
+| Non-fibrin specific agent          | 244/2267 (10.8)               | 318/2298 (13.8)               | 0.77 (0.65, 0.90) |                                              |
+| Fibrin specific agent              | 50/425 (11.8)                 | 54/443 (12.2)                 | 0.98 (0.67, 1.44) |                                              |
+| Not undergoing primary PCI         | 471/4147 (11.4)               | 584/4147 (14.1)               | 0.80 (0.70, 0.90) | Not done                                     |
+| Stratum 1                          | 318/2813 (11.3)               | 395/2828 (14.0)               | 0.80 (0.69, 0.92) |                                              |
+| Stratum 2                          | 153/1334 (11.5)               | 189/1319 (14.3)               | 0.79 (0.64, 0.98) |                                              |
+
+1 Hazard ratio, 95% CI and p-values are adjusted for strata and the covariate of interest.
+
+When analysed according to non-primary PCI, fondaparinux did not provide any benefit at Day 30 compared to control either, as shown in the table below.
+
+Table 23 Proportional Hazards Analysis of the primary endpoint by PCI or CABG (post-initial reperfusion)
+
+|                              | No. Events/No. Analysed (%)   | No. Events/No. Analysed (%)   |                     | Treatment by Covariate   |
+|------------------------------|-------------------------------|-------------------------------|---------------------|--------------------------|
+| Covariate Endpoint/Timepoint | Fondaparinux                  | Control                       | HR(95% CI) 1        | Interaction p value      |
+| PCI (excluding primary PCI)  |                               |                               |                     |                          |
+| Overall                      | 584/6034 (9.7)                | 675/6051 (11.2)               | 0.86 (0.77, 0.96) 1 | 0.228                    |
+| No                           | 564/5857 (9.6)                | 658/5864 (11.2)               | 0.85 (0.76, 0.95)   |                          |
+| Yes                          | 20/177 (11.3)                 | 17/187 (9.1)                  | 1.27 (0.67, 2.43)   |                          |
+| CABG                         |                               |                               |                     |                          |
+| Overall                      | 584/6034 (9.7)                | 675/6051 (11.2)               | 0.86 (0.77, 0.96) 1 | 0.709                    |
+| No                           | 579/5962 (9.7)                | 668/5981 (11.2)               | 0.86 (0.77, 0.96)   |                          |
+| Yes                          | 5/72 (6.9)                    | 7/70 (10.0)                   | 0.69 (0.22, 2.19)   |                          |
+
+1. Adjusted hazard ratio
+
+## Safety
+
+A total of 12,092 patients were randomised; 5,658 were allocated to Stratum 1 (2823 fondaparinux and 2835 placebo) and 6,434 were allocated to Stratum 2 (3213 fondaparinux and 3221 enoxaparin).
+
+Table 24: Summary of treatment completion status and reasons for withdrawal
+
+| n (%)                                   | Stratum1            | Stratum1       | Stratum2            | Stratum2    |
+|-----------------------------------------|---------------------|----------------|---------------------|-------------|
+|                                         | Fondaparinux N=2823 | Placebo N=2835 | Fondaparinux N=3213 | UFH N=3221  |
+| NotTreated                              | 19 (0.7)            | 13(0.5)        | 64 (2.0)            | 95 (2.9)    |
+| Treated                                 | 2804 (99.3)         | 2822(99.5)     | 3149 (98.0)         | 3126 (97.1) |
+| CompletionStatusofTreatedSubjects       |                     |                |                     |             |
+| Completedstudydrug                      | 2614 (93.2)         | 2639 (93.5)    | 2841 (90.2)         | 2971 (95.0) |
+| EarlyPermanentdiscontinuation           | 189 (6.7)           | 183 (6.5)      | 308 (9.8)           | 96 (3.1)    |
+| Missing                                 | 1(<0.1)             | 0              | 0                   | 59 (1.9)    |
+| ReasonforEarlyPermanent Discontinuation | N=2823              | N=2835         | N=3213              | N=3126      |
+| BleedingEvent                           | 33 (1.2)            | 25 (0.9)       | 50 (1.6)            | 13 (0.4)    |
+| OtherSeriousAdverseEvent                | 12 (0.4)            | 17 (0.6)       | 18 (0.6)            | 10 (0.3)    |
+| Consentwithdrawn                        | 12 (0.4)            | 15 (0.5)       | 13 (0.4)            | 4 (0.1)     |
+| Qualifyingconditionnotpresent           | 13 (0.5)            | 6 (0.2)        | 16 (0.5)            | 10 (0.3)    |
+| Other                                   | 119 (4.2)           | 120 (4.2)      | 211 (6.6)           | 59 (1.9)    |
+
+<div style=\"page-break-after: always\"></div>
+
+Discontinuation  rates  were  similar  in  stratum  1.  However,  in  stratum  2,  discontinuation  in  the fondaparinux group was 3-fold more frequent than in UFH. This is attributed to the different durations of therapy of fondaparinux (up to 8 days) compared to UFH (up to 48 hours maximum).
+
+## Bleeding Events
+
+No  statistically  significant  difference  in  the  incidence  of adjudicated  severe  haemorrhage was observed between fondaparinux and placebo/UFH in the overall population, although the values for fondaparinux  were  lower  at  all  time  points.  In  stratum  1,  the  incidence  was  statistically  lower  in fondaparinux at day 9 and day 30, but no statistically significant difference was observed during the on-therapy  period. In stratum 2, the incidence during the on-therapy  period was  similar in fondaparinux and UFH groups (1% vs 1.2%). Similar trends were observed at the different endpoints analysis (see table 11).
+
+Table 25 Summary of time to first occurrence of adjudicated severe haemorrhage during on-therapy period, days 9, 30, 90 and 180.
+
+|                     | Overall               | Overall             | Stratum1              | Stratum1           | Stratum2              | Stratum2            |
+|---------------------|-----------------------|---------------------|-----------------------|--------------------|-----------------------|---------------------|
+|                     | Fondaparinux (N=5954) | Control (N=5947)    | Fondaparinux (N=2808) | Placebo (N=2818)   | Fondaparinux (N=3146) | UFH (N=3129)        |
+| On-Therapy          |                       |                     |                       |                    |                       |                     |
+| NumberofEvents,n（%) | 61 (1.0)              | 77 (1.3)            | 29 (1.0)              | 41 (1.5)           | 32 (1.0)              | 36 (1.2)            |
+| HazardRatio         | 0.79                  | 0.79                | 0.70                  | 0.70               | 0.88                  | 0.88                |
+| 95%Cl,p-value       | (0.56,1.10),0.166     |                     | (0.44, 1.13),0.148    | (0.44, 1.13),0.148 | (0.54,1.40),0.614     |                     |
+| Day9                |                       |                     |                       |                    |                       |                     |
+| NumberofEvents,n(%) | 64 (1.1)              | 83 (1.4)            | 28 (1.0)              | 46 (1.6)           | 36 (1.1)              | 37 (1.2)            |
+| HazardRatio         | 0.77                  | 0.77                | 0.61                  | 0.61               | 0.97                  | 0.97                |
+| 95%Cl.p-value       | (0.55,1.06),0.111     | (0.55,1.06),0.111   | (0.38,0.97),0.036     | (0.38,0.97),0.036  | (0.61,1.53),0.890     | (0.61,1.53),0.890   |
+| Day30               |                       |                     |                       |                    |                       |                     |
+| NumberwithEvent     | 72 (1.2)              | 93 (1.6)            | 31(1.1)               | 49 (1.7)           | 41 (1.3)              | 43 (1.4)            |
+| Hazard Ratio        | 0.77                  | 0.77                | 0.63                  | 0.63               | 0.95                  | 0.95                |
+| 95%Cl,p-value       | (0.57,1.05）,（ 0.095   | (0.57,1.05）,（ 0.095 | (0.40,0.99),0.043     | (0.40,0.99),0.043  | (0.62,1.45）,（ 0.808   | (0.62,1.45）,（ 0.808 |
+| Day90               |                       |                     |                       |                    |                       |                     |
+| NumberwithEvent     | 82 (1.4)              | 107 (1.8)           | 34 (1.2)              | 52(1.8)            | 48 (1.5)              | 55 (1.8)            |
+| HazardRatio         | 0.76                  | 0.76                | 0.65                  | 0.65               | 0.87                  | 0.87                |
+| 95% Cl,p-value      | (0.57,1.01),0.062     |                     | (0.42,1.00),0.050     |                    | (0.59,1.28),0.468     |                     |
+| Day180              |                       |                     |                       |                    |                       |                     |
+| NumberwithEvent     | 89 (1.5)              | 110 (1.8)           | 38 (1.4)              | 53 (1.9)           | 51 (1.6)              | 57 (1.8)            |
+| HazardRatio         | 0.80                  | 0.80                | 0.71                  | 0.71               | 0.89                  | 0.89                |
+| 95%Cl,p-value       | (0.61,1.06),（ 0.122   | (0.61,1.06),（ 0.122 | (0.47,1.08),0.108     | (0.47,1.08),0.108  | (0.61,1.29),0.535     | (0.61,1.29),0.535   |
+
+Regarding major bleeding (see table **), there was a lower incidence in stratum 1 in the fondaparinux group compared to placebo group. This difference did not meet statistical significance during the ontherapy period, but was statistically significant at day 30 and bordering significance at day 9. Further to a request from CHMP, the MAH attempted to explain this surprising finding, for which there is no clear  explanation.  It  is  plausible  that  the  better  efficacy  observed  with  fondaparinux  relative  to placebo, might have resulted in fewer interventions (PCI, CABG, GPIIb/IIIa inhibitor, need for openlabel anticoagulant), and as a consequence lower bleeding rates. Interestingly, when the components of severe haemorrhage or major bleeding are examined, the lower risk seen in fondaparinux patients is most evident for events of fatal bleeding (1.1% vs. 0.7%) and cardiac tamponade (1.1% vs. 0.5%).
+
+No difference between treatment groups was observed in stratum 2.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 26 Summary of time to first occurrence of adjudicated of major haemorrhage during the on-therapy period and at days 30, 90, 180-As treated population.
+
+|                      | Overall               | Overall            | Stratum1              | Stratum1          | Stratum2              | Stratum2           |
+|----------------------|-----------------------|--------------------|-----------------------|-------------------|-----------------------|--------------------|
+| MajorBleed           | Fondaparinux (N=5954) | Control (N=5947)   | Fondaparinux (N=2808) | Placebo (N=2818)  | Fondaparinux (N=3146) | UFH (N=3129)       |
+| On-Therapy1,n(%)     |                       |                    |                       |                   |                       |                    |
+| NumberwithMajorBleed | 99 (1.7)              | 120 (2.0)          | 40 (1.4)              | 53(1.9)           | 59 (1.9)              | 67 (2.1)           |
+| Hazard Ratio         | 0.82                  | 0.82               | 0.75                  | 0.75              | 0.88                  | 0.88               |
+| 95% Cl,p-value       | (0.63, 1.07).0.146    | (0.63, 1.07).0.146 | (0.50,1.13),0.170     | (0.50,1.13),0.170 | (0.62,1,24).0.459     | (0.62,1,24).0.459  |
+| Day 9,n (%)          |                       |                    |                       |                   |                       |                    |
+| NumberwithMajorBleed | 104 (1.7)             | 128 (2.1)          | 39 (1.4)              | 58 (2.1)          | 65 (2.1)              | 70 (2.2)           |
+| Hazard Ratio         | 0.81                  | 0.81               | 0.67                  | 0.67              | 0.92                  | 0.92               |
+| 95%Cl,p-value        | (0.62,1.05),0.107     |                    | (0.45,1.00),0.052     | (0.45,1.00),0.052 | (0.66,129),0.645      | (0.66,129),0.645   |
+| Day30,n(%)           |                       |                    |                       |                   |                       |                    |
+| NumberwithMajorBleed | 118 (2.0)             | 142 (2.4)          | 44 (1.6)              | 65 (2.3)          | 74 (2.4)              | 77 (2.5)           |
+| Hazard Ratio         | 0.83                  | 0.83               | 0.67                  | 0.67              | 0.96                  | 0.96               |
+| 95% Cl,p-value       | (0.65,1.05),0.124     | (0.65,1.05),0.124  | (0.46,0.98),0.041     | (0.46,0.98),0.041 | (0.69, 1.31),0.780    | (0.69, 1.31),0.780 |
+
+Of note, the incidences of major bleeding in fondaparinux subjects were somewhat higher in Stratum 2 compared to Stratum 1 at all time points for both the All Randomized (data not show) and As Treated populations.  The  explanation  for  this  is  not  entirely  clear  but  may  be  a  reflection  of  the  slightly different  levels  of  use  of  concomitant  therapies  and  interventions  which  may  contribute  to  the background bleeding risk in the two strata.
+
+There were no major differences between treatment groups in minor bleeding or minor haemorrhage, or in the type of bleeding or bleeding event.
+
+## Post-Hoc Analysis in PCI patients
+
+A total of 3715 patients (1862 in fondaparinux and 1853 in control group) underwent a primary PCI and 444 (229 fondaparinux and 215 control group) a non-primary PCI. Several post-hoc analyses of the  subgroup  of  patients  undergoing  PCI  during  the  treatment  period  were  carried  out  regarding clinical outcome, bleeding events and complications.
+
+As in OASIS 5, an unexpected AE related to catheter thrombus was reported in OASIS 6. A total of 34 possible  'catheter  thrombus'  were  identified,  of  which  4  were  excluded  (2  occurred  during angiography, and 2 were incorrectly coded). Of the remaining 30 events, 23 were adjudicated and all occurred in fondaparinux group; 22 during primary PCI and only 1 during non-primary PCI.
+
+## · Primary PCI
+
+Events  in  patients  undergoing  primary  PCI  during  initial  hospitalisation  and  within  8  days  of randomisation  and  who  had  received  at  least  1  dose  of  study  drug  prior  to  the  procedure  were analysed.
+
+<div style=\"page-break-after: always\"></div>
+
+## Table 27 Complications during primary PCI.
+
+|                                           | Fondaparinux (N=1862)   | UFH/Control (N=1853)   |
+|-------------------------------------------|-------------------------|------------------------|
+| TotalNo.ofPCl'sperformed                  | 1862(100.0)             | 1855(100.0)            |
+| VascularsitecomplicationsduringPCI        |                         |                        |
+| Vascularsitecomplicationsoverall          | 31 (1.7)                | 36 (1.9)               |
+| Pseudoaneurysmrequiringclosure            | 9 (0.5)                 | 3 (0.2)                |
+| Largehematoma                             | 11 (0.6)                | 25 (1.3)               |
+| AVfistula                                 | 7 (0.4)                 | 1 (<0.1)               |
+| Othervascularsitecomplications            | 4 (0.2)                 | 7 (0.4)                |
+| Other(i.e.coronary)complicationsduringPCI |                         |                        |
+| Coronarycomplicationsoverall              | 208 (11.2)              | 159 (8.6)              |
+| Abruptclosureofcoronaryartery             | 14 (0.8)                | 5 (0.3)                |
+| Newangiographicthrombus                   | 55 (3.0)                | 26 (1.4)               |
+| Investigatorreportedcatheterthrombus1     | 28 (1.5)                | 1 (<0.1)               |
+| Catheterthrombusconfirmedbyadjudication2  | 22 (1.2)                | 0                      |
+| No-reflowphenomenon                       | 58 (3.1)                | 50 (2.7)               |
+| Dissectionwithreducedflow                 | 14 (0.8)                | 15 (0.8)               |
+| Perforation                               | 3 (0.2)                 | 1 (<0.1)               |
+| Othercomplications                        | 71 (3.8)                | 65 (3.5)               |
+| ClinicaleventsduringPCI                   |                         |                        |
+| Death                                     | 12 (0.6)                | 13 (0.7)               |
+| MI                                        | 0                       | 1 (<0.1)               |
+| Stroke                                    | 2 (0.1)                 | 3 (0.2)                |
+| OtherClinicalEvent                        | 23 (1.2)                | 22 (1.2)               |
+
+Stroke, death and MI occurred with a low incidence in both treatment groups.
+
+Vascular site complications were also reported with a low incidence in both treatment groups (1.7% in fondaparinux vs 1.9% in UFH), although in line with the results in OASIS-5, large haematomas were twice as frequent in UFH (1.3%) compared to fondaparinux group (0.6%).
+
+As  observed  in  OASIS-5,  the  most  frequent  complications  in  the  fondaparinux  group  compared  to UFH  were  related  to  coronary  complications  (11.2%  vs  8.6%).  They  included  new  angiographic thrombus  and  abrupt  closure  of  coronary  artery,  followed  by  investigator-reported  and  adjudicated catheter thrombus (reported in 22 patients compared to none in UFH group; 1 patient died during the procedure - he developed a cardiogenic shock and received open label UFH and subsequently died). Of the 22 cases, 2 patients received open label UFH prior to the procedure, 19 did not received open label UFH and in one case it is unknown. It should be noted that 14 of 19 cases received UFH during the procedure due to the catheter thrombus events.
+
+## Use of UFH during primary PCI
+
+The absence of catheter thrombus in UFH patients undergoing a primary PCI, suggests that catheter thrombus risk was negligible when UFH is used as adjunct during PCI. Consequently, the Applicant has further analysed patients receiving open-label UFH.
+
+In  fondaparinux  patients  undergoing  a  primary  PCI,  the  use  of  UFH  was  on  background  of  i.v. fondaparinux administered immediately prior to the procedure. In the non-primary PCI patients, the use of UFH was on the background of fondaparinux administered s.c. prior to the procedure.
+
+In patients undergoing primary PCI, a total of 689 received open-label UFH before or before/during the procedure, of which a similar proportion of patients in both groups had received UFH (12.5% in fondaparinux  and  12.3%  in  the  control  group).  However,  a  higher  proportion  of  patients  in fondaparinux group (9%) received UFH during the procedure compared to the control group (5.7%). Additionally, the median dose of UFH administered before or before/during PCI was similar in both groups.  However,  during  the  procedure,  the  median  dose  of  UFH  administered  to  fondaparinux patients was higher than that administered in the control group (see table 17).
+
+<div style=\"page-break-after: always\"></div>
+
+Table 28 Summary of subjects undergoing Primary PCI receiving open-label UFH as adjunct to the procedure
+
+|                               | Fondaparinux （N=1862）   | Control （N=1853）   |
+|-------------------------------|-------------------------|--------------------|
+| TotalNo.ofPClPerformed        | 1862                    | 1855               |
+| UFHBeforePCl,n(%)             | 233(12.5)               | 228 (12.3)         |
+| MedianDose[lu]（Range)         | 5000（175-10300）         | 5000（100-50000）    |
+| UFHDuring PCI,n(%)            | 167 (9.0)               | 105 (5.7)          |
+| MedianDose[lu]（Range)         | 4000（40-26000）          | 3000（100-13000）    |
+| UFHBeforeand/orDuringPCl,n（%) | 374 (20.1)              | 315(17.0)          |
+| MedianDose[IUl（Range)         | 5000（120-26000）         | 5000（200-50000)    |
+
+## 2. Safety outcomes in patients undergoing primary PCI
+
+Adjudicated  severe  haemorrhage  was  approximately  twice  more  frequent  in  fondaparinux  group compared  to  the  control  group  on-therapy  (0.8%  vs  0.4%)  and  at  day  9  (0.9%  vs  0.5%).  Major bleeding rates were similar on therapy in both fondaparinux and control group (1.8% vs 1.6%) and slightly higher in fondaparinux at day 9 (2% vs 1.6%).
+
+SAEs  occurring  post-PCI  and  up  to  day  9  were  also  slightly  increased  in  fondaparinux  (4.8%) compared to control group (3.9%).
+
+In the subgroup of patients receiving adjunct UFH, the bleeding outcomes were similar in both groups: major  bleeds  on-therapy  (1.3%  vs  1.6%  in  fondaparinux  and  control)  and  at  day  9  (1.6%  in  both groups),  and  slightly  increased  regarding  severe  haemorrhage  on  therapy  (0.8%  vs  0.6%  in fondaparinux and control) and at day 9 (1.1% vs 0.6%, respectively).
+
+There was no benefit in reducing the risk of death and death/recurrent MI taken together at day 30 in fondaparinux patients compared to the control group (death/re-MI : 6.1% vs 5.1%; death : 4.5% vs 3.9%; Re-MI : 1.9% vs 1.5% in fondaparinux and control respectively). See table 18
+
+Table 29 Number and percent of patients receiving study drug prior to primary PCI, experiencing adjudicated events post-PCI up to day 30
+
+|                         | Fondaparinux （N=1862）   | Control （N=1853）   |
+|-------------------------|-------------------------|--------------------|
+| TotalNo.ofPClsPerformed | 1862                    | 1855               |
+| Death/Re-Ml             | 114(6.1)                | 94 (5.1)           |
+| Death                   | 84 (4.5)                | 73 (3.9)           |
+| Re-MI                   | 36 (1.9)                | 27 (1.5)           |
+
+In  the  sub-group  of  patients  receiving  adjunct  UFH,  the  rate  of  death/Re-MI  taken  together  was slightly increased in fondaparinux (4.8%) than in the control group (4.1%), as well as rate of death (3.7% vs 3.2% in fondaparinux and control respectively). Re-MI taken separately was reported in a similar rate in both groups (1.2% in fondaparinux and 1.3% in control group).
+
+Table 30 Number and percent of patients receiving study drug prior to primary PCI, experiencing adjudicated events post-PCI up to day 30 with adjunct UFH therapy
+
+|                           | Fondaparinux   | Control   |
+|---------------------------|----------------|-----------|
+| ProcedureswithAdjunctUFH1 | 374            | 315       |
+| AdjudicatedEvent2         |                |           |
+| Death/Re-Ml               | 18 (4.8)       | 13 (4.1)  |
+| Death                     | 14 (3.7)       | 10(3.2)   |
+| Re-MI                     | 4 (1.2)        | 4 (1.3)   |
+
+## · Non-primary-PCI
+
+A total of 444 patients (229 in fondaparinux and 215 in the control group) underwent 639 non-primary PCI (318 in fondaparinux and 321 in the control group), defined as any PCI other than primary PCI that occurred after randomisation in any stratum and at any time during the study period. The most common reason for the procedure was routine practice (approximately 55% in both groups), however non-primary PCI due to refractory PCI was more frequent in fondaparinux than in the control group (11% vs 8% respectively) as well as for rescue for failed thrombolysis (18.2% vs 13.4%).
+
+<div style=\"page-break-after: always\"></div>
+
+Coronary  complications (7.2%  fondaparinux  vs.  5.9%  control)  were  most  frequent  complication observed during the non-primary-PCI. One patient experienced an adjudicated catheter thrombus in fondaparinux  group.  This  patient  did  not  receive  open-label-UFH  prior  the  procedure  but  received UFH during the procedure due catheter thrombus. The patient recovered with no ischemic events. As addressed  above,  no  catheter  thrombus  events  were  reported  in  UFH  Group.  The  other  coronary complications were similar in both treatment groups.
+
+Vascular site complications were also more frequent in fondaparinux group than in the control group (2.8% vs 1.6%), with the most frequents events represented by haematoma (2.2% vs 0.9%).
+
+Death was similar in both treatment groups (0.3%) and MI occurred in one fondaparinux patient.
+
+## Use of UFH during non-primary PCI
+
+As  addressed  above  in  the  primary  PCI  analysis,  the  use  of  UFH  was  on  the  background  of fondaparinux administered s.c. prior to the procedure in the non-primary PCI patients.
+
+A total of 423 patients undergoing 462 non-primary-PCI procedures received UFH as an adjunct to the procedure. More patients received UFH before/during PCI in fondaparinux group (74.8%) compared to control group (69.8%); of which 34.6% (fondaparinux) and 31.5% (control) received UFH before PCI, and 46.2% compared to 43.3% during PCI.
+
+## 2. Safety outcome
+
+Mortality rate and re-MI, taken separately or together, from the day of PCI (including events occurring prior to PCI on the day that the procedure was conducted) up to day 30 were higher in fondaparinux group. Similar results were also observed in each stratum; in Stratum 1, death and death/Re-MI were approximately two times higher in fondaparinux patients than in the control group, whilst re-MI was similar in both treatment groups. In stratum 2, death, Re-MI and death/Re-MI were also more frequent with fondaparinux than in the control group, as shown in the table below.
+
+Table  31:  Number  of  patients  experiencing  adjudicated  events  from  the  Day  on  which  non-primary  PCI  was conducted and up to day 30.
+
+| OverallStratum   | Fondaparinux (N=229)   | Control （N=215）   |
+|------------------|------------------------|-------------------|
+| NoPClsPerformed  | 318                    | 321               |
+| Death/Re-MI      | 24 (7.5)               | 14 (4.4)          |
+| Death            | 17 (5.3)               | 9 (2.8)           |
+| Re-MI            | 8 (2.5)                | 5 (1.6)           |
+| Stratum1         | Fondaparinux (N=118)   | UFH (N=106)       |
+| NoPClsPerformed  | 122                    | 111               |
+| Death/Re-Ml      | 14 (11.5)              | 8(7.2)            |
+| Death            | 11(9.0)                | 5(4.5)            |
+| Re-MI            | 3 (2.5)                | 3 (2.7)           |
+| Stratum2         | Fondaparinux (N=111)   | Placebo （N=109)   |
+| NoPClsPerformed  | 196                    | 210               |
+| Death/Re-MI      | 10(5.1)                | 6 (2.9)           |
+| Death            | 6(3.1)                 | 4 (1.9)           |
+| Re-MI            | 5(2.6)                 | 2 (1.0)           |
+
+In the subgroup of patients receiving adjunct UFH, death was reported in a similar rate in both groups however, Re-MI and death/Re-MI were approximately twice as frequent in fondaparinux patients as in the control group.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 32 Number of patients with adjunct UFH experiencing adjudicated events from the Day on which nonprimary PCI was conducted and up to day 30.
+
+|                               | Fondaparinux （N=229）   | Control （N=215）   |
+|-------------------------------|------------------------|-------------------|
+| Total NoofPClsWithAdjunctUFH1 | 238                    | 224               |
+| AdjudicatedEvent              |                        |                   |
+| Death/Re-Ml                   | 25（10.5）               | 15 (6.7)          |
+| Death                         | 9（3.8)                 | 8 (3.6)           |
+| Re-MI                         | 16 (6.7)               | 8 (3.6)           |
+
+Severe  haemorrhage  was  more  frequent  in  fondaparinux  on  therapy  (1.5%  vs.  0.6%)  and  at  day  9 (1.9% vs 0.9%) compared to the control group. In the subgroup of patients who received adjunct UFH, severe haemorrhage occurred in a similar frequency in both groups of therapy (0.8% fondaparinux and 0.9%  control)  and  at  day  9  (1.7%  and  1.3%,  respectively).  Major  bleeds  occurred  with  a  similar frequency  in  both  treatment  groups.  SAEs  post-PCI  and  up  to  day  9  were  more  frequent  in fondaparinux than in the control group (6.6% vs 3.7%). Of these, major bleeding were slightly more frequent in the control group than fondaparinux, on-therapy (2.2% vs 0.8% respectively) and at day 9 (2.7% vs 2.1%).
+
+## Common Adverse Events and Serious Adverse Events
+
+The  incidence  of  AEs  in  the  overall  population  was  similar  in  both  treatment  groups:  32%  in fondaparinux and 33% in the control group (33% in fondaparinux vs. 34% in placebo and 32% in both fondaparinux and UFH). The most frequent AEs were assigned to 'general disorders' and 'cardiac' SOCs: pyrexia (3% in both groups), atrial fibrillation (3% vs. 2% in fondaparinux and control group, respectively),  chest  pain  (1.8%  vs.  1.3%  respectively),  headache  (1.8%  vs.  2%  respectively), ventricular tachycardia (1.3% in both groups), hypotension (1.3% in both groups), vomiting (1% in both groups), haematoma (0.7% in both groups) and puncture site haemorrhage (0.2% in both groups). A similar trend was observed across the two strata.
+
+On-therapy SAEs were equally reported in the two treatment groups: 3% of patients (1% were drugrelated)  in  stratum  1  and  4%  (1.5%  were drug-related) in stratum 2. The most frequent SAEs were related to bleeding (e.g. digestive bleeding, coronary artery thrombosis, pericardial haemorrhage and cerebrovascular haemorrhage).
+
+Regarding  other  events  of  special  interest,  10  (0.16%)  patients  experienced  thrombocytopenia  in fondaparinux compared to 4 (0.06%) in the control groups up to and including day 30. It was more frequent in stratum 2 (9 [0.028%] in fondaparinux and 3 [0.09%] in UFH group) than in stratum 1 (1 in each treatment group). Only one patient (UFH group) experienced HIT.
+
+## Discussion
+
+This new indication in ACS, with and without ST-segment elevation, is based on 2 large phase III pivotal studies (OASIS 5 in UA/NSTEMI and OASIS 6 in STEMI) and 4 phase II supportive trials.
+
+The selection of the 2.5mg dose for the phase II programme might be considered surprising, as unlike LMWHs, where the higher VTE treatment doses are approved for use in UA/NSTEMI, it is the same fondaparinux  dose  used  for  the  prevention  of  VTE.  Despite  the  lack  of  a  strong  clinical  rationale (other  than  safety  considerations)  to  support  the  dose  selection,  the  observed  efficacy  and  safety profile of fondaparinux 2.5mg for the acute treatment of ACS raises the question whether the lower VTE prevention doses of the LMWHs might also be effective and better tolerated. However, unlike those  conducted with fondaparinux, the phase II ACS studies for the LMWHs did not evaluate the wide dose range that included the lower VTE prevention doses.
+
+<div style=\"page-break-after: always\"></div>
+
+## Efficacy
+
+The two pivotal trials supporting the indication of fondaparinux in ACS are methodologically sound, pragmatic in their design, and appear to be well conducted.
+
+The primary objective in  OASIS-6 was to evaluate whether fondaparinux was superior to a control reflecting a usual care (UFH or placebo) in preventing death or recurrent MI (re-MI) up to Day 30 in subjects  presenting  with  STEMI.  Fondaparinux  demonstrated  a  clinically  relevant  and  statistically significant 14% risk reduction relative to control in the primary endpoint in the overall randomised population. Consistent with this result, fondaparinux was superior to placebo in Stratum 1 (UFH not indicated)  in  the  prevention  of  death  or  re-MI  with  a  20%  risk  reduction  at  Day  30.  However, fondaparinux failed to demonstrate superiority over UFH (stratum 2). Fondaparinux also significantly reduced  the  of  all  cause  mortality  at  Day  30;  as  with  the  primary  endpoint,  this  finding  was  also significant in Stratum 1 but not in Stratum 2. Interaction tests between treatment and strata indicated that the results of both strata were consistent with the overall results.
+
+These effects were consistent across pre-specified subgroups such as elderly, renally impaired patients and  type  of  concomitant  anti-platelet  aggregant  medication.  Nevertheless,  among  subjects  who underwent  primary  PCI  for  the  index  event,  fondaparinux  did  not  provide  any  benefit  at  Day  30 compared to control; in fact there was a trend observed in favour of the control group. Similar results were  obtained  when  analysed  according  to  non-primary  PCI.  When  the  primary  PCI  patients  are excluded from the analysed population, the results of the primary endpoint are significantly in favour of  fondaparinux  therapy  in  the  overall  population  and  in  both  of  the  strata.  Consequently,  and especially in the light of the serious coronary complications observed in fondaparinux-treated patients during  PCI  in  both  OASIS  trials  (see  discussion  on  Safety),  the  Applicant  decided  to  apply  for  an indication in the treatment of STEMI in patients who are managed with thrombolytics or who initially are  to  receive  no  other  form  of  reperfusion  therapy,  thus  excluding  patients  undergoing  invasive management. The CHMP is in agreement, and the indication and trial results have been adequately reflected in sections 4.1 and 5.1 of the SPC, respectively.
+
+The main issue regarding OASIS-6 discussed by the CHMP and referred to the SAG CVS was the relevance,  with  respect  to  current  EU  clinical  practice,  of  the  population  studied  in  OASIS-6, particularly in terms of the low use of UFH, PCI and fibrin-specific thrombolytics, and the very high use of streptokinase [84% of patients treated with a thrombolytic were treated streptokinase] (for  a more detailed discussion, see page 26 of this report) . Further to a request from CHMP the Applicant submitted  a  thorough  investigation  of  contemporary  European  registries  (notably  ACS-II  and GRACE).  The  SAG  acknowledged  notable  differences  between  the  OASIS-6  population  and  the populations included in the registries but also pointed out that registry data are populated to a large extent  by  active,  highly  motivated  large  centres  with  facilities  for  primary  PCI  in  STEMI  patients. Moreover, it was suggested that too much attention should not be paid to the type of thrombolytic therapy often used in EU, as the pathophysiological mechanism is similar irrespective of the type of the thrombolytic agent. Thus, although firm evidence-based conclusions are not possible in this area, the SAG concluded, and the CHMP agreed, that despite the population of patients included in OASIS6 (notably in Stratum 1) not being fully representative of the target population, the study results were still applicable to European patients. Nonetheless, the percentage of patients undergoing primary PCI (31%) and treated with non-fibrin specific thrombolytics are reflected in section 5.1 of the SPC.
+
+The main objective in OASIS-5 was to evaluate whether fondaparinux 2.5mg was 'non-inferior', or superior to, enoxaparin in preventing death and ischemic events (MI or RI) up to Day 9 in the acute treatment  of  subjects  with  UA/NSTEMI  concurrently  managed  with  standard  medical  therapy. Fondaparinux was non-inferior to enoxaparin in the early prevention of adjudicated death, MI or RI at Day 9. There was a tendency to a reduction in the risk of death, MI and RI with fondaparinux at day 14  which  was  sustained  at  days  30,  90  and  180.  In  addition,  fondaparinux  was  associated  with  a significant reduction in all-cause mortality at Day 30. As in OASIS-6, these effects were consistent across pre-specified subgroups such as elderly, renally impaired patients and type of concomitant antiplatelet aggregant medication.
+
+<div style=\"page-break-after: always\"></div>
+
+However, treatment with fondaparinux did not result in the reduction of ischaemic events or death in the PCI subgroup. Taking into account the higher incidence of serious coronary complications patients in  both  pivotal  trials  (see  safety  discussion  later)  coupled  to  the  negative  trends  regarding  efficacy observed in OASIS-6 in patients undergoing PCI, the CHMP debated at length the benefit:risk balance in  this  patient  population.  Further  to  a  recommendation by the SAG CVS, endorsed by CHMP, the Applicant  was  asked  to  discuss  a  restriction  to  the  use  of  fondaparinux  in  UA/STEMI  patients  for whom an early invasive management is not recommended. The Applicant argued in writing at an oral explanation that the diagnosis of NSTEMI can be problematic and the decision on whether to refer the patient for invasive treatment is often delayed whilst the patient is under observation and the results of numerous tests are waited. The decision-making algorithm for the management of NSTEMI patients in the new ESC treatment guidelines clearly defines the words 'urgent' (i.e. &lt; 2hours) and 'early' (i.e. &lt; 72  hours)  in  the  context  of  invasive  management  strategies.  Considering  that  prompt  treatment  is essential for patients presenting with a suspicion of UA or NSTEMI and should be administered as soon  as  the  diagnosis  is  possible,  but  not  necessarily  confirmed,  the  Applicant  believes  that  a restriction to 'early' would mean that the majority of patients will not have the benefit of treatment with fondaparinux, since most patients will have started some other form of anticoagulation by then. Delaying treatment until a decision regarding invasive treatment is clearly not an option.
+
+Thus,  if  treatment  with  fondaparinux  were  delayed  for  at  least  72  hours,  there  would  be  very  few patients to treat since the vast majority would already have received some other anticoagulation. Given that treatment with fondaparinux compared to enoxaparin was beneficial from a bleeding perspective (see  discussion  un  Safety),  equally  effective  and  associated  with  a  clear  tendency  for  reduced mortality,  the  CHMP  agree  with  the  Applicant  that  the  indication  should  be  restricted  to  patients patients for whom urgent (&lt;120mins) invasive management (PCI) is not indicated .
+
+## Safety
+
+In OASIS-6, no statistically significant difference in the incidence of adjudicated severe haemorrhage was observed between fondaparinux and placebo/UFH in the overall population, although the values for fondaparinux were lower at all time points. In stratum 1, the incidence was statistically lower in fondaparinux at day 9 and day 30, but no statistically significant difference was observed during the on-therapy period. The results on severe haemorrhage were consistent across prespecified subgroups such as elderly, renally impaired patients and type of concomitant antiplatelet medications. However, in patients undergoing primary PCI, the incidence of severe haemorrhage was numerically higher with fondaparinux. Equally worrying was the noticeably higher incidence of serious coronary complications (including new angiographic thrombus, abrupt closure of coronary artery and catheter thrombus) observed in the fondaparinux group.
+
+Treatment with fondaparinux in OASIS-5 resulted in a significant (48%) lower risk of major bleeding up to and including day 9 compared to treatment with enoxaparin. Other types of bleeds, including severe bleeding according to the TIMI criteria and minor bleeding, were also lower on fondaparinux. Of note, subjects who had a major or minor bleeding during hospitalisation had a significantly higher rate  of  death  at  day  30  than  subjects  without  a  bleeding  event,  regardless  of  treatment  group.  The Applicant  has  performed  two ad-hoc analyses  to  assess  the  clinical  implications  of  bleeding  which appear to indicate that the difference in mortality between the treatment groups observed at the end of the  study  may  be  related  to  the  lower  rate  of  bleeding  with  fondaparinux (for  a  more  detailed discussion, see page 15 of this report) .
+
+Consistent  with  its  lower  bleeding  risk  in  the  overall  population,  in  patients  undergoing  PCI fondaparinux was also associated with a significantly lower incidence of major bleeding. Worryingly however, and as observed in primary PCI patients in OASIS-6, coronary complications occurred more frequently  with  fondaparinux.  In  addition  to  the  more  frequent  guiding  catheter  thrombus,  more disturbing  are  the  higher  rates  of  coronary  abrupt  closure  and  new  angiographic  thrombus.  The occurrence  of  catheter  thrombus  (unblinded),  an  unexpected  AE  during  the  course  of  the  study, prompted an amendement of the study protocol to emphasis the correct administration of fondaparinux intravenously during the PCI and to reiterate that heparinised catheter flushes could be used.
+
+<div style=\"page-break-after: always\"></div>
+
+## Proposed management strategy for fondaparinux-treated patients undergoing PCI: Use of UFH
+
+Acknowledging the complications in fondaparinux patients undergoing PCI observed in OASIS-5 and OASIS-6  and  aware  of  the  fact  that  UA/NSTEMI  patients  treated  with  fondaparinux  may  need  to undergo PCI, the Applicant proposes in section 4.2 of the SPC that UFH be administered as an adjunct to  the  procedure  (as  per  local  practice),  given  that  there  were  no  instances  of  guiding  catheter thrombus reported in patients  managed  following the  above  recommendation.  This  generated  much debate  at  CHMP,  as  this  proposed  PCI  management  strategy  has  not  been  has  not  been  formally studied in UA/NSTEMI patients. The Applicant argued that there are (limited) data showing the safety of  this  treatment  combination;  nonetheless  the  CHMP  consider,  and  the  SAG  CVS  agree,  that  the available  evidence  is  insufficient  and  a  Post-Authorisation  Safety  Study  to  evaluate  the  safety  in fondaparinux-treated patients undergoing PCI receiving adjunctive therapy with one of two regimens of i.v. UFH (standard and reduced dose) as the PCI adjunct in fondaparinux-treated patients has been agreed as part of the Risk Management Plan (for a more detailed discussion, see page 19-21 of this report) .  Sections  4.2  and  4.4  of  the  SPC  include  guidance  on  the  use  of  UFH  during  PCI  in  both UA/NSTEMI and STEMI patients (non-primary PCI), and section 4.4 contains a warning on the risk of guiding catheter thrombus in PCI.
+
+The non-bleeding adverse event profile reported in the ACS program is consistent with the adverse drug  reactions  identified  for  VTE  prophylaxis  and  does  not  give  rise  to  concern.  As  reflected  in section 4.8 of the SPC, the most commonly reported adverse events in OASIS-5 were headache, chest pain  and  atrial  fibrillation,  whereas  atrial  fibrillation,  pyrexia,  chest  pain,  headache,  ventricular tachycardia, vomiting, and hypotension were most commonly reported in OASIS-6.
+
+Finally,  there  is  extensive  experience  in  patients  with  moderate  renal  impairment  and  limited experience in patients with severe renal impairment (CrCl 20-30 ml/min) with treatment for up to 8 days in the ACS programme, as reflected in section 4.4 of the SPC. Treatment duration was similar in the different renal function groups, and there was no evidence of more bleedings at later time points in patients with reduced renal function (i.e. when these patients obtain higher exposure). In OASIS 5 the incidence  of  bleedings  is  lower  in  patients  with  moderate  to  severe  renal  impairment  receiving fondaparinux than in patients receiving enoxaparin. In OASIS 6, the incidence of bleeding in patients with CrCl &gt;20 ml/min receiving fondaparinux is low. Sections 4.2 and 4.4 of the SPC clearly state that the  maximum  treatment  duration  in  these  indications  is  8  days.  Thus,  in  contrast  to  the  approved dosing recommendations for prophylaxis of VTE, no dose reduction is proposed in patients with ACS and with impaired renal function; fondaparinux is contraindicated in patients with CrCl &lt;20 ml/min).
+
+## Conclusions and Benefit/Risk Assessment
+
+OASIS-5 and OASIS-6 are two large, well designed and conducted studies adequately covering the spectrum of Acute Coronary Syndromes.
+
+The results of OASIS-6 demonstrated a clinically relevant and statistically significant risk reduction of fondaparinux relative to control death or re-MI in the overall STEMI population. Consistent with this result, treatment with fondaparinux was superior to placebo but failed to demonstrate superiority over UFH. Treatment  with  fondaparinux  also  significantly  reduced  all  cause  mortality  at  Day  30  in  the overall population and in stratum 1 (vs. placebo). Fondaparinux showed a comparable safety profile to the  respective  controls.  However,  in  patients  undergoing  PCI,  fondaparinux  did  not  provide  any benefit compared to control, with a clear trend observed in favour of the control group. Coupled to the higher  incidence  of  severe  haemorrhage  and  serious  coronary  complications  in  this  subgroup,  the benefit:risk  balance  in  STEMI  patients  undergoing  PCI  is  negative  and  these  patients  have  been excluded from the indication proposed by the Applicant. For the remainder of the STEMI population, namely patients who are managed with thrombolytics or who initially are to receive no other form of reperfusion therapy , the benefit:risk balance is positive.
+
+Regarding the UA/NSTEMI population, OASIS-5 showed that treatment with fondaparinux was noninferior  to  enoxaparin in the early prevention of adjudicated death, MI or RI at Day 9. In addition, fondaparinux was associated with a significant reduction in all-cause mortality at Day 30. Importantly, treatment with fondaparinux resulted in a significant lower risk of major bleeding up to and including
+
+<div style=\"page-break-after: always\"></div>
+
+day 9 compared to treatment with enoxaparin. However, in the PCI subgroup there was no significant advantage of fondaparinux over enoxaparin, and there were clear safety concerns regarding the higher incidence of coronary complications observed during the PCI procedure. Hence, in order to maintain a positive  benefit:risk  balance  in  the  UA/STEMI  population,  the  indication  has  been  restricted  to patients for whom urgent (&lt;120mins) invasive management (PCI) is not indicated, and fondaparinux should not be used as the sole anticoagulant in patients undergoing non-primary PCI. These patients should  be  managed  with  UFH  as  per  local  practice.  A  Post-Authorisation  Safety  Study  to  further evaluate the safety of this proposed PCI management strategy has been agreed as part of the RMP.

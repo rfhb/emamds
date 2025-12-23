@@ -1,0 +1,57 @@
+---
+document_datetime: 2023-09-21 18:11:58
+document_pages: 2
+document_pathfilename: www.ema.europa.eu/en/documents/steps-after-cutoff/replagal-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf
+document_name: replagal-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf
+version: success
+processing_time: 0.4845513
+conversion_datetime: 2025-12-23 05:00:55.904229
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## PROCEDURAL STEPS TAKEN AFTER THE GRANTING OF THE MARKETING AUTHORISATION
+
+For procedures finalised after 15 October2003 please refer to module 8B .
+
+On  24  October  2001  the  EMEA,  following  submission  of  a  Type  I  variation  (EMEA/H/C/369/I/01), notified a change in the name of the manufacturer of the active substance from Bio Science Production Corp. to Cambrex Bio Science Inc.
+
+On 13 December 2001 the EMEA, further to the submission of a Type I variation (which followed a Type II  procedure:  EMEA/H/C/369/I/02),  notified  a  change  in  test  procedure  of  active  substance  and consequential changes in specifications of active substance and finished product, within the scope of item No 24 with consequential change no. 14 and 17 of Annex I to Commission Regulation (EC) No 542/95, as amended.
+
+On 17 January 2002 the EMEA, further to the submission of a Type I variation (which followed a Type II procedure: EMEA/H/C/369/I/03) notified a change in test procedure of active substance and consequential changes in specifications of active substance related to host cell proteins, within the scope of item No 24 with consequential change no. 14 of Annex I to Commission Regulation (EC) No 542/95, as amended.
+
+On 17 January 2002 the EMEA, further to the submission of a Type I variation : (EMEA/H/C/369/I/04) concerning a minor change of manufacturing process of the active substance  within the scope of item No 12 of Annex I to Commission Regulation (EC) No 542/95, as amended.
+
+On  10  April  2002  the  European  Commission  issued  a  Decision  further  to  a  Marketing  Authorisation Holder  application  to  (EMEA/H/C/369/N/05)  to  introduce  a  number  of  minor  changes  to  aspects  of Labelling and Package Leaflet not connected to the Summary of Product Characteristics.
+
+On  24  May  2002  the  European  Commission  issued  a  Decision  on  a  Type  II  variation  application (EMEA/H/C/369/II/06) to update of Part II of the dossier.
+
+On  12 September 2002 the European Commission  issued a Decision on a Type  II variation (EMEA/H/C/369/II/07) to update the Part II of the dossier.
+
+On  10  September  2002,  the  European  Commission  issued  a  Decision  on  two  applications  for  Type  I variations  (EMEA/H/C/369/I/09  and  EMEA/H/C/369/I/10)  for  introduction  of  an  additional  4  vial multipack  presentation  and  an  additional  10  vial  multipack  presentation,  respectively,  to  the  originally approved single vial carton.
+
+On  3  October  2002  the  European  Commission  issued  a  Decision  on  the  Type  II  variation  procedure EMEA/H/C/369/II/08. This variation relates to updates of section 4.4, 4.8, 5.1 and 5.2 of the Summary of Product Characteristics (SPC) as a result of completion of the TKT014 study in female patients.
+
+On 21 October 2002 the European Commission issued a Decision on a Type II variation (EMEA/H/C/369/II/11) to update part II of the dossier.
+
+On  28  January  2003  the  European  Commission  issued  a  Decision  on  the  1 st Annual  Re-Assessment (EMEA/H/C/369/S/12) of the specific obligations and the benefit/risk ratio. The marketing authorisation for Replagal remained under exceptional circumstances.
+
+<div style=\"page-break-after: always\"></div>
+
+On  19  December  2002  the  EMEA,  following  submission  of  a  Type  I  variation  (EMEA/H/C/369/I/13) notified a change in the name of the manufacturer of the active substance from Cambrex Bio Science Inc. to Cambrex Bio Science Baltimore Inc.
+
+On 23 January 2003 the EMEA, further to the submission of a Type I variation, (EMEA/H/C/369/I/14) notified a minor change of manufacturing process within the scope of item 12 to Commission Regulation (EC) No 542/95, as amended.
+
+On  17 February 2003 the European Commission  issued a Decision on the Type I variation EMEA/H/C/369/I/15, regarding an extension of shelf-life as foreseen at time of authorisation.
+
+On 19 March 2003 the EMEA, further to submission of a Type I variation (which followed a Type II procedure: EMEA/H/C/369/I/16), notified a change in the manufacturing process for the finished product. This  variation  falls  within  the  scope  of  item  No  16  of  Annex  I  to  Commission  Regulation  (EC) No 542/95, as amended.
+
+On 22 July 2003 the European Commission issued a Decision on a Type II variation (EMEA/H/C/369/II/17)  relating  to  the  introduction  of  a  new  manufacturing  facility  for  the  active substance and to implement several process improvements.
+
+On 3 October 2003 the European Commission issued a Decision on a Type II variation (EMEA/H/C/369/II/18) regarding amendments to sections 4.4 and 4.8 of the SPC, and to include changes resulting  from  recoding  of  the  clinical  trials  safety  database  from  the  WHOART  98.3  dictionary  to MedDRA 5.1.

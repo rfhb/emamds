@@ -1,0 +1,37 @@
+---
+document_datetime: 2023-09-21 18:28:15
+document_pages: 2
+document_pathfilename: www.ema.europa.eu/en/documents/steps-after-cutoff/lumigan-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf
+document_name: lumigan-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf
+version: success
+processing_time: 0.4960312
+conversion_datetime: 2025-12-23 07:53:00.151367
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## Steps taken after granting the Marketing Authorisation
+
+## For procedures finalised after 1 June 2004 please refer to module 8B.
+
+- On  15  April  2002,  the  Marketing  Authorisation  Holder  submitted  a  Type  I  Variation  in accordance with Commission Regulation (EC) No. 542/95 as amended. The variation related to a change in pack size. The EMEA issued the Notification for this variation on 17 May 2002.
+- On  15  April  2002,  the  Marketing  Authorisation  Holder  submitted  a  Type  I  Variation  in accordance with Commission Regulation (EC) No. 542/95 as amended. The variation related to changes in the manufacture of the medicinal product. The EMEA issued the Notification for this variation on 17 May 2002.
+- On  15  April  2002,  the  Marketing  Authorisation  Holder  submitted  a  Type  I  Variation  in accordance with Commission Regulation (EC) No. 542/95 as amended. The variation related to a change in container shape. The EMEA issued the Notification for this variation on 17 May 2002.
+- On  15  April  2002,  the  Marketing  Authorisation  Holder  submitted  a  Type  I  Variation  in accordance with Commission Regulation (EC) No. 542/95 as amended. The variation related to a change in storage conditions. The EMEA issued the Notification for this variation on 17 May 2002.
+- On  30  August  2002,  the  Marketing  Authorisation  Holder  submitted  a  Type  I  Variation  in accordance with Commission Regulation (EC) No. 542/95 as amended. The variation related to a withdrawal of the manufacturing authorisation for a site of manufacture. The EMEA issued the Notification for this variation on 1 October 2002.
+- On  30  August  2002,  the  Marketing  Authorisation  Holder  submitted  a  Type  I  Variation  in accordance with Commission Regulation (EC) No. 542/95 as amended. The variation related to a  change  in  the  name  the  marketing  authorisation  holder  with  a  consequential  change  in  the name of manufacturer. The EMEA issued the Notification for this variation on 1 October 2002.
+- On  4  March  2003,  the  Marketing  Authorisation  Holder  submitted  a  Type  I  Variation  in accordance with Commission Regulation (EC) No. 542/95 as amended. The variation related to a minor change in the manufacture of the medicinal product. The EMEA issued the Notification for this variation on 8 April 2003.
+- On  12  May  2003,  the  Marketing  Authorisation  Holder  submitted  a  Type  I  Variation  in accordance with Commission Regulation (EC) No. 542/95 as amended. The variation related to a change in test procedures of the medicinal product. The EMEA issued the Notification for this variation on 16 June 2003.
+- On  24  June  2003,  the  Marketing  Authorisation  Holder  submitted  a  Type  I  Variation  in accordance with Commission Regulation (EC) No. 542/95 as amended. The variation related to a change in container shape. The EMEA issued the Notification for this variation on 5 August 2003.
+- On 16 April 2003, the Marketing Authorisation Holder submitted an application for a Type II variation in accordance with Art. 6 of Commission Regulation (EC) No. 542/95, as amended. The Marketing Authorisation Holder applied for an extension of the therapeutic indication for first line therapy. The CPMP during its October 2003 plenary meeting considered the variation acceptable  and  issued  on  22  October  2003  a  positive  Opinion  on  the  Type  II  variation.  The corresponding Commission Decision was issued on 20 January 2004.
+- On 24 October  2003,  the  Marketing  Authorisation  Holder  submitted  a  Type  IA  Variation  in accordance with Commission Regulation (EC) No. 1085/2003. The variation related to a change in any part of the packaging material not in contact with the finished product. The EMEA issued the Notification for this variation on 5 November 2003.
+
+<div style=\"page-break-after: always\"></div>
+
+- The  MAH  submitted  on  14  April  2004  a  request  to  introduce  changes  to  an  aspect  of  the Labelling  not  connected  to  the  SPC,  in  accordance  with  Article  61(3)  of  Council  Directive 2001/83/EC, as amended. This change concerned a change to the outer carton. The notification letter from the EMEA informing the MAH that the changes proposed were acceptable was dated 10 May 2004.

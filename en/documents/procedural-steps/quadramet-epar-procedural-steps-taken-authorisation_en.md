@@ -1,0 +1,52 @@
+---
+document_datetime: 2023-09-21 17:49:39
+document_pages: 1
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps/quadramet-epar-procedural-steps-taken-authorisation_en.pdf
+document_name: quadramet-epar-procedural-steps-taken-authorisation_en.pdf
+version: success
+processing_time: 0.3538366
+conversion_datetime: 2025-12-24 09:32:23.065378
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## BACKGROUND INFORMATION ON THE PROCEDURE
+
+## 1. Submission of the dossier
+
+The  applicant  CIS  bio  international  submitted  on  21  November  1996  an  application  for  Marketing Authorisation  to  the  European  Agency  for  the  Evaluation  of  Medicinal  Products  (EMEA)  for Quadramet, through the centralised procedure. After agreement by the CPMP on 16 October 1996, this medicinal product is referred to Part B of the Annex to Council Regulation No (EC) 2309/93 of 22 July 1993.
+
+The Rapporteur and Co-Rapporteur appointed by the CPMP were:
+
+Rapporteur:
+
+Dr D B Jefferys
+
+Co-Rapporteur: Dr G Jensen
+
+## Licensing status
+
+The product was not licensed in any country at the time of submission of the application.
+
+## 2. Steps taken for the assessment of the product
+
+- The procedure started on 19 December 1996
+- The Rapporteur's first assessment report was circulated to all CPMP Members on 27 February 1997
+- The Co-rapporteur's first assessment report  was circulated  to  all  CPMP  Members  on 28 February 1997
+- During the meeting on 15 April 1997 the CPMP agreed on the consolidated list of questions to be  sent  to  the  company.  The  final  consolidated  list  of  questions  was  sent  to  the  company  on 17 April 1997.
+- The company submitted the responses to the consolidated list of questions on 25 July 1997.
+- The Rapporteur circulated the joint assessment report on the company's responses to the list of questions to all CPMP Members on 28 August 1997.
+- Following discussion of the applicant's responses at the September 1997 meeting of CPMP the Rapporteur requested further information from the  applicant  on  29  September 1997,  and this was provided on 2 October 1997.
+- The Rapporteur circulated a revised SPC, PIL on 13 October 1997.
+- During the meeting on 20-22 October 1997 the CPMP, in the light of the overall data submitted and  the  scientific  discussion  within  the  Committee  issued  a  positive  opinion  for  granting  a Marketing Authorisation to CIS bio international on 22 October 1997.
+- The CPMP opinions were forwarded, in all official languages of the European Union, to the European Commission which adopted the corresponding Decisions on 5 February 1998.
+
+## 3. Steps taken after granting the Marketing authorisation
+
+- On  25  November  1998  three  Type  I  variation  procedures  were  started  to  introduce  minor changes to the manufacture of the active substance (I/01) and to the finished product (I/02-03). The proposed variations were accepted on 23 December 1998.

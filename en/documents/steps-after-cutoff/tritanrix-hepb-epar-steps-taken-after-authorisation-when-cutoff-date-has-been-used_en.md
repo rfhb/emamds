@@ -1,0 +1,51 @@
+---
+document_datetime: 2023-09-21 17:26:55
+document_pages: 2
+document_pathfilename: www.ema.europa.eu/en/documents/steps-after-cutoff/tritanrix-hepb-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf
+document_name: tritanrix-hepb-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf
+version: success
+processing_time: 1.1787209
+conversion_datetime: 2025-12-24 02:47:13.399047
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## Steps taken after granting the Marketing  Authorisation
+
+For procedures finalised after 1 November 2002 please refer to module 8B.
+
+- The  MAH  submitted  an  application  for  a  Type  I  variation  in  accordance  with  Commission Regulation (EC) No. 542/95 to extend the shelf-life of the finished product from 24 months to 36 months. A notification was issued by the EMEA and the amendment to Annex I (Summary of  Product  Characteristics)  of  the  Community  Marketing  Authorisation  was  adopted  on 25 September 1997.
+
+•
+
+- The  MAH  submitted  an  application  for  a  Type  II  variation  in  accordance  with  Commission Regulation  (EC)  No.  542/95  to  add  the  wording  regarding  sensitization  to  thiomersal  in medicinal products as agreed by CPMP in July 1999 in section 4.4 of SPC. The EMEA adopted a positive opinion on 19 October 2000 and the amendments to Annexes I and IIIB (Summary of Product Characteristics and Package Leaflet) of the Community Marketing Authorisation were adopted on 13 March 2001.
+
+Medicinal product no longer authorised · The  MAH  submitted  an  application  for  a  Type  I  variation  in  accordance  with  Commission Regulation (EC) No. 542/95 to modify the name of the medicinal product from Tritanrix HB to Tritanrix Hep B. A notification was issued by the EMEA and the amendments to Annexes I and III  (Summary  of  Product  Characteristics,  labelling  and  Package  Leaflet)  of  the  Community Marketing Authorisation were adopted on 30 October 1997. · The  MAH  submitted  an  application  for  a  Type  I  variation  in  accordance  with  Commission Regulation (EC) No. 542/95 to include the new  Manufacturing Authorisation Holder, SmithKline  Beecham  Biologicals  Manufacturing  S.A,  located  in  Wavre  Belgium,  which performs  labelling  and  packaging  of  the  medicinal  product.  A  notification  was  issued  by  the EMEA on 31 October 1997 and no amendments to the Annexes of the Community Marketing Authorisation were required. · The MAH submitted a notification in accordance with article 10(3) of Council Directive No. 92/27/EEC  of  31  March  1992,  to  introduce  changes  to  aspects  of  the  Package  Leaflet  not connected to the Summary of Product Characteristics. A notification was issued by the EMEA and the amendment to Annex IIIB (Package Leaflet) of the Community Marketing Authorisation was adopted on 9 October 1998. · The  MAH  submitted  an  application  for  a  Type  II  variation  in  accordance  with  Commission Regulation (EC) No. 542/95 for the extension of the storage time of the DTwP bulk concentrate to  36  months,  at  2-8  ºC.  The  EMEA  adopted  a  positive  opinion  on  23  June  1999  and  no amendments to the Annexes of the Community Marketing Authorisation were required. · The  MAH  submitted  an  application  for  a  Type  I  variation  in  accordance  with  Commission Regulation (EC) No. 542/95 for the scale up of the hepatitis B component of Tritanrix Hep B. The EMEA adopted a positive opinion on 29 July 1999 and no amendments to the Annexes of the Community Marketing Authorisation were required. · The  MAH  submitted  an  application  for  a  Type  I  variation  in  accordance  with  Commission Regulation (EC) No. 542/95 for the implementation of a new working seed for the hepatitis B component of Tritanrix Hep B. The EMEA adopted a positive opinion on 29 July 1999 and no amendments to the Annexes of the Community Marketing Authorisation were required. The  MAH  submitted  an  application  for  a  Type  I  variation  in  accordance  with  Commission Regulation (EC) No. 542/95 for the introduction of a simplified method for the determination of Tetanus and Diphteria potencies. The EMEA adopted a positive opinion on 16 March 2000 and no amendments to the Annexes of the Community Marketing Authorisation were required.
+
+<div style=\"page-break-after: always\"></div>
+
+- The  MAH  submitted  an  application  for  a  Type  II  variation  in  accordance  with  Commission Regulation  (EC)  No.  542/95  for  the  approval  of  an  additional  2-dose  vial  presentation.  The EMEA adopted a positive opinion on 25 January 2001 and the amendments to Annexes I and IIIB (Summary of Product Characteristics and Package Leaflet) of the Community Marketing Authorisation were adopted on 3 May 2001.
+
+| Scope                                                                                                                                                                     | no Application number   | Type of modification 1   | Notification/ Opinion issued on 2   | Commission Decision Issued/amen ded on   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|--------------------------|-------------------------------------|------------------------------------------|
+| 5-year Renewal                                                                                                                                                            | R/014                   | R                        | 30.03.01                            | 21.11.01                                 |
+| Quality change                                                                                                                                                            | II/015                  | II                       | 20.09.01                            | 08.10.01                                 |
+| Change in or addition of manufacturing site(s) for part or all of the manufacturing process                                                                               | I/016                   | I                        | 22.08.01                            | 07.09.01                                 |
+| Change in the name of manufacturing site                                                                                                                                  | I/017                   | I                        | 16.11.01                            |                                          |
+| Change in the name of MAHand manufacturer responsible for batch release                                                                                                   | I/018                   | I                        | 05.11.01                            | 29.01.02                                 |
+| product Quality change: Quality: Change(s) to the manufacturing process for the active substance Quality: Change(s) to the manufacturing process for the finished product | II/019                  | II                       | 19/09/02                            | 25.09.02                                 |
+| Minor changes to the Patient Leaflet regarding some MAH local representative details                                                                                      | N/025                   | N                        | 19/09/02                            | 10/10/02                                 |
+
+Medicinal product no longer authorised · The  MAH  submitted  an  application  for  a  Type  II  variation  in  accordance  with  Commission Regulation  (EC)  No.  542/95  for  the  introduction  relates  to  a  change  to  a  Hepatitis  B  test procedure  that  affects  both  the  Hepatitis  B  bulk  and  the  DTPw  HepB  finished  product.  The EMEA adopted a positive opinion on 25 January 2001 and no amendments to the Annexes of the Community Marketing Authorisation were required. · The  MAH  submitted  a  notification  in  accordance  with  article  10(3)  of  Council  Directive 92/27/EEC  of  31  March  1992,  to  introduce  changes  to  aspects  of  the  Package  Leaflet  not connected to the Summary of Product Characteristics. A notification was issued by the EMEA and the amendment to Annex IIIB (Package Leaflet) of the Community Marketing Authorisation was adopted on 17 May 2001. · The  MAH  submitted  an  application  for  a  Type  II  variation  in  accordance  with  Commission Regulation (EC) No. 542/95 to demonstrate compliance with Commission Directive 1999/82/EC and  the  Note  for  Guidance  on  Minimising  the  Risk  of  Transmitting  Animal  Spongiform Encephalopathy  Agents  via  Medicinal  Products  (CPMP/BWP/1230/98  rev.1).  The  EMEA adopted  a  positive  opinion  on  23  August  2001  and  no  amendments  to  the  Annexes  of  the Community Marketing Authorisation were required. Subsequent post Marketing Authorisation applications agreed upon are summarised in the table below: 1 In accordance with Commission Regulation (EC) No. 542/95 of 10 March 1995, as amended: I refers to a minor variation (Type I variation); II refers to a major variation (Type II variation); I/II refers to a minor variation following the procedure set out in Article 6, 7 and 8 of the Regulation; X refers to an Annex II application.
+
+T refers to a transfer of a Marketing Authorisation in accordance with Commission Regulation (EC) No 2141/96 of 7 November 1996.
+
+N refers to a notification in accordance with Article 10(3) of Council Directive 92/27/EEC of 31 March 1992.
+
+2 For Notifications and Type I variations, the date of entry into force of the change is the EMEA Notification date. The Commission Decision will be amended accordingly.

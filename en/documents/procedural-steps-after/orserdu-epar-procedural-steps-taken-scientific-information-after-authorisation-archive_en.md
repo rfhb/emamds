@@ -1,0 +1,56 @@
+---
+document_datetime: 2025-03-03 14:36:13
+document_pages: 4
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/orserdu-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
+document_name: orserdu-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
+version: success
+processing_time: 2.5450052
+conversion_datetime: 2025-12-24 03:11:06.126144
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## Orserdu
+
+Procedural steps taken and scientific information after the authorisation
+
+| Application number   | Scope                                                                                                                                                                                                                                                                                           | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                                                                                                                                                                                                                                                                                         |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| II/0009              | Update of section 5.2 of the SmPC in order to provide additional pharmacokinetic information following the PAM procedure for study MRPO-2023- PDE004 and based on the report SLP 43753974; this is an assessment of the potential role of P- glycoprotein in the supra-proportional exposure of | 16/01/2025                          |                                             | SmPC and PL                      | SmPC new text The SmPC is updated in section 5.2 to include that elacestrant is a substrate of P-glycoprotein. Furthermore, the update includes information that the transport is saturated at the dosages of 258 mg and 345 mg but most likely not at 86 mg and 172 mg and that P-glycoprotein |
+
+1 Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
+
+2 A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
+
+3 SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+|                   | elacestrant and the potential impact of P- glycoprotein inhibitors on elacestrant exposure at the dose of 100 mg. In addition, the MAH took the opportunity to introduce editorial changes to the PI and to bring the PI in line with the latest QRD template version 10.4. C.I.4 - Change(s) in the SPC, Labelling or PL due to new quality, preclinical, clinical or pharmacovigilance data   |            |     | inhibitor may increase the absorption of elacestrant at the two lowest dosages. Sections 4.2 and 4.8 are amended to correct typo errors. For more information, please refer to the Summary of Product Characteristics.   |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| PSUSA/120/2 02406 | Periodic Safety Update EU Single assessment - elacestrant                                                                                                                                                                                                                                                                                                                                       | 16/01/2025 | n/a | PRAC Recommendation - maintenance                                                                                                                                                                                        |
+| IB/0011           | B.I.z - Quality change - Active substance - Other variation                                                                                                                                                                                                                                                                                                                                     | 13/12/2024 | n/a |                                                                                                                                                                                                                          |
+| IA/0012           | B.I.b.2.a - Change in test procedure for AS or starting material/reagent/intermediate - Minor changes to an approved test procedure                                                                                                                                                                                                                                                             | 10/12/2024 | n/a |                                                                                                                                                                                                                          |
+| IB/0010/G         | This was an application for a group of variations. B.I.d.1.a.4 - Stability of AS - Change in the re-test period/storage period - Extension or introduction of a re-test period/storage period supported by real time data B.I.z - Quality change - Active substance - Other variation                                                                                                           | 09/12/2024 | n/a |                                                                                                                                                                                                                          |
+| IB/0007/G         | This was an application for a group of variations.                                                                                                                                                                                                                                                                                                                                              | 13/09/2024 | n/a |                                                                                                                                                                                                                          |
+
+<div style=\"page-break-after: always\"></div>
+
+|                   | B.II.b.3.z - Change in the manufacturing process of the finished or intermediate product - Other variation B.II.d.2.z - Change in test procedure for the finished product - Other variation                                                                                                     |            |     |      |                                   |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|------|-----------------------------------|
+| PSUSA/120/2 02312 | Periodic Safety Update EU Single assessment - elacestrant                                                                                                                                                                                                                                       | 11/07/2024 | n/a |      | PRAC Recommendation - maintenance |
+| IA/0006           | B.I.b.2.a - Change in test procedure for AS or starting material/reagent/intermediate - Minor changes to an approved test procedure                                                                                                                                                             | 18/06/2024 | n/a |      |                                   |
+| IB/0005           | B.II.f.1.z - Stability of FP - Change in the shelf-life or storage conditions of the finished product - Other variation                                                                                                                                                                         | 22/05/2024 |     | SmPC |                                   |
+| IB/0003           | B.I.b.2.z - Change in test procedure for AS or starting material/reagent/intermediate - Other variation                                                                                                                                                                                         | 05/03/2024 | n/a |      |                                   |
+| N/0002            | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification)                                                                                                                                                                                                | 13/02/2024 |     | PL   |                                   |
+| IA/0001/G         | This was an application for a group of variations. B.I.a.4.a - Change to in-process tests or limits applied during the manufacture of the AS - Tightening of in-process limits B.I.a.2.a - Changes in the manufacturing process of the AS - Minor change in the manufacturing process of the AS | 20/11/2023 | n/a |      |                                   |

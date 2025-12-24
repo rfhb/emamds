@@ -1,0 +1,84 @@
+---
+document_datetime: 2025-11-06 14:32:01
+document_pages: 5
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/quadramet-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
+document_name: quadramet-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
+version: success
+processing_time: 4.1927488
+conversion_datetime: 2025-12-24 14:46:13.075306
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## Quadramet
+
+Procedural steps taken and scientific information after the authorisation
+
+| Application number   | Scope                                                                                                                                                     | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                           |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------------------------------|
+| PSUSA/2682/ 202402   | Periodic Safety Update EU Single assessment - samarium (153sm) lexidronam                                                                                 | 03/10/2024                          | n/a                                         |                                  | PRAC Recommendation - maintenance |
+| IA/0028              | B.III.2.b - Change to comply with Ph. Eur. or with a national pharmacopoeia of a Member State - Change to comply with an update of the relevant monograph | 29/09/2021                          | n/a                                         |                                  |                                   |
+
+1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
+
+2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The
+
+CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
+
+3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+|                    | of the Ph. Eur. or national pharmacopoeia of a Member State                                                                                                                                                  |            |     |                                   |
+|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|-----------------------------------|
+| IB/0027            | B.II.b.3.z - Change in the manufacturing process of the finished or intermediate product - Other variation                                                                                                   | 29/09/2021 | n/a |                                   |
+| IB/0026            | B.I.b.2.e - Change in test procedure for AS or starting material/reagent/intermediate - Other changes to a test procedure (including replacement or addition) for the AS or a starting material/intermediate | 20/12/2019 | n/a |                                   |
+| IB/0024            | B.II.d.2.d - Change in test procedure for the finished product - Other changes to a test procedure (including replacement or addition)                                                                       | 20/12/2019 | n/a |                                   |
+| IA/0025            | A.7 - Administrative change - Deletion of manufacturing sites                                                                                                                                                | 22/10/2019 | n/a |                                   |
+| PSUSA/2682/ 201902 | Periodic Safety Update EU Single assessment - samarium (153sm) lexidronam                                                                                                                                    | 05/09/2019 | n/a | PRAC Recommendation - maintenance |
+| IB/0022            | B.II.d.1.a - Change in the specification parameters and/or limits of the finished product - Tightening of specification limits                                                                               | 04/05/2018 | n/a |                                   |
+| PSUSA/2682/ 201602 | Periodic Safety Update EU Single assessment - samarium (153sm) lexidronam                                                                                                                                    | 02/09/2016 | n/a | PRAC Recommendation - maintenance |
+| IG/0557            | C.I.8.a - Introduction of or changes to a summary of Pharmacovigilance system - Changes in QPPV (including contact details) and/or changes in the                                                            | 21/05/2015 | n/a |                                   |
+
+<div style=\"page-break-after: always\"></div>
+
+|           | PSMF location                                                                                                                                                                                                                                                                                                         |            |            |             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| IAIN/0019 | C.I.z - Changes (Safety/Efficacy) of Human and Veterinary Medicinal Products - Other variation                                                                                                                                                                                                                        | 04/05/2015 | 02/05/2016 | SmPC and PL |                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| II/0018   | To widen the specification limits for samarium content B.I.b.1.g - Change in the specification parameters and/or limits of an AS, starting material/intermediate/reagent - Widening of the approved specs for starting mat./intermediates, which may have a significant effect on the quality of the AS and/or the FP | 24/05/2012 | 14/06/2012 | SmPC and PL |                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| IG/0015   | C.I.9.e - Changes to an existing pharmacovigilance system as described in the DDPS - Changes in the major contractual arrangements with other persons or organisations involved in the fulfilment of pharmacovigilance obligations and described in the DD                                                            | 06/08/2010 | n/a        | Annex II    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| II/0016   | Update to SmPC section 4.8 and PL following a signal detection assessment. Update of Summary of Product Characteristics and Package Leaflet                                                                                                                                                                           | 26/06/2008 | 23/07/2008 | SmPC and PL | Following the assessment of a signal detection, the CHMP requested that the product information for Quadramet should be amended to include post-marketing reports of thrombocytopenia in section 4.8. The PL has been amended accordingly. These changes were requested further to a review performed following the detection of a signal where post- marketing cases of thrombocytopenia including isolated reports of intracranial haemorrhage, and cases in which the |
+
+<div style=\"page-break-after: always\"></div>
+
+|         |                                                                                                  |            |            |                                  | outcome was fatal have been reported.                                                                                                                                                                                                                               |
+|---------|--------------------------------------------------------------------------------------------------|------------|------------|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| N/0015  | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification) | 11/04/2008 | n/a        | PL                               |                                                                                                                                                                                                                                                                     |
+| R/0014  | Renewal of the marketing authorisation.                                                          | 18/10/2007 | 12/12/2007 | SmPC, Labelling and PL           | Based upon data that have become available since the granting of the marketing authorisation, the CHMP considers that the benefit-risk balance of Quadramet remains positive ad thus recommends the renewal of the Marketing Authorisation with unlimited validity. |
+| N/0013  | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification) | 13/04/2007 | n/a        | PL                               |                                                                                                                                                                                                                                                                     |
+| N/0012  | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification) | 22/09/2006 | n/a        | PL                               |                                                                                                                                                                                                                                                                     |
+| IA/0011 | IA_11_a_Change in batch size of active substance or intermediate - up to 10-fold                 | 23/06/2004 | n/a        |                                  |                                                                                                                                                                                                                                                                     |
+| N/0010  | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification) | 25/05/2004 | n/a        | PL                               |                                                                                                                                                                                                                                                                     |
+| R/0009  | Renewal of the marketing authorisation.                                                          | 18/12/2002 | 17/03/2003 | SmPC, Annex II, Labelling and PL |                                                                                                                                                                                                                                                                     |
+| N/0008  | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification) | 07/06/2002 | 27/06/2002 | PL                               |                                                                                                                                                                                                                                                                     |
+| N/0007  | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification) | 15/03/2002 | 19/04/2002 | PL                               |                                                                                                                                                                                                                                                                     |
+
+<div style=\"page-break-after: always\"></div>
+
+| N/0006   | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification)   | 23/10/2001   | 17/12/2001   | PL   |
+|----------|----------------------------------------------------------------------------------------------------|--------------|--------------|------|
+| N/0005   | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification)   | 23/10/2001   | n/a          | PL   |
+| N/0004   | Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification)   | 16/08/2000   | 09/10/2000   | PL   |
+| I/0003   | 15_Minor changes in manufacture of the medicinal product                                           | 23/12/1998   | n/a          |      |
+| I/0002   | 15_Minor changes in manufacture of the medicinal product                                           | 23/12/1998   | n/a          |      |
+| I/0001   | 12_Minor change of manufacturing process of the active substance                                   | 23/12/1998   | n/a          |      |

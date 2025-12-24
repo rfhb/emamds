@@ -1,0 +1,321 @@
+---
+document_datetime: 2023-09-21 22:03:14
+document_pages: 10
+document_pathfilename: www.ema.europa.eu/en/documents/variation-report/tobi-podhaler-h-c-002155-p46-031-epar-assessment-report_en.pdf
+document_name: tobi-podhaler-h-c-002155-p46-031-epar-assessment-report_en.pdf
+version: success
+processing_time: 5.0859771
+conversion_datetime: 2025-12-24 19:42:26.756474
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.66.0
+  docling-core: 2.57.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+18 August 2016 EMA/220907/2023 Human Medicines Division
+
+Assessment report for paediatric studies submitted according to Article 46 of the Regulation (EC) No 1901/2006
+
+## TOBI Podhaler
+
+tobramycin
+
+Procedure no: EMEA/H/C/002155/P46/031
+
+## Note
+
+Assessment report as adopted by the CHMP with all information of a commercially confidential nature deleted.
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+| Table of contents                                                                                                          |
+|----------------------------------------------------------------------------------------------------------------------------|
+| 1. Introduction ............................................................................................3              |
+| 2. Scientific discussion ................................................................................3                 |
+| 2.1. Information on the development program.............................................................. 3                |
+| 2.2. Information on the pharmaceutical formulation used in the study.............................. 3                       |
+| 2.3. Clinical aspects .................................................................................................. 3 |
+| 2.3.1. Introduction ................................................................................................... 3  |
+| 2.3.2. Clinical study .................................................................................................. 3 |
+| 2.3.3. Discussion on clinical aspects .......................................................................... 10        |
+| 3. Rapporteur's overall conclusion and recommendation ..........................10                                         |
+| 4. Additional clarification requested..........................................................10                          |
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. Introduction
+
+On 2 June 2016, the MAH submitted a completed paediatric study for tobramycin inhalation powder, in accordance with Article 46 of Regulation (EC) No1901/2006, as amended.
+
+A short critical expert overview has also been provided.
+
+The MAH states that the efficacy and safety data from study CTBM100CUS03 do not warrant an update of the product information of TOBI Podhaler.
+
+## 2. Scientific discussion
+
+## 2.1. Information on the development program
+
+The  MAH  stated  that  Study  CTBM100CUS03, A  24-week,  open-label,  parallel-group,  interventional Phase IV study comparing Tobramycin Inhalation Powder (TIP) administered once daily continuously versus  TIP  administered  BID  in  28  day  on  /  28  day  off  cycles  for  the  treatment  of  pulmonary Pseudomonas aeruginosa in patients with cystic fibrosis , is a stand alone study.
+
+The study was not listed in the TOBI Podhaler PIP (EMEA-000184-PIP01-08-M02).
+
+## 2.2. Information on the pharmaceutical formulation used in the study
+
+The dose was 112 mg tobramycin (4x 28mg capsules), administered once daily continuously or twice daily for 28 days followed by 28 days off treatment.
+
+## 2.3. Clinical aspects
+
+## 2.3.1. Introduction
+
+The MAH submitted a final report for:
+
+- Study CTBM100CUS03, A 24-week, open-label, parallel-group, interventional Phase IV study comparing  Tobramycin  Inhalation  Powder  (TIP)  administered  once  daily  continuously  versus TIP  administered  BID  in  28  day  on  /  28  day  off  cycles  for  the  treatment  of  pulmonary Pseudomonas aeruginosa in patients with cystic fibrosis.
+
+A total of 32 patients were randomized of which there were 3 paediatric patients.
+
+## 2.3.2. Clinical study
+
+Study CTBM100CUS03, A 24-week, open-label, parallel-group, interventional Phase IV study comparing  Tobramycin  Inhalation  Powder  (TIP)  administered  once  daily  continuously versus TIP administered BID in 28 day on / 28 day off cycles for the treatment of pulmonary Pseudomonas aeruginosa in patients with cystic fibrosis.
+
+## Description
+
+This  open-label,  parallel-group,  interventional  phase  IV  study  was  a  24  weeks  study  comparing  TIP administered once daily on a continuous (i.e., non-cycled) basis, versus TIP administered twice daily in 28 day on / 28 day off cycles for the treatment of pulmonary P. aeruginosa in patients 6 years or older
+
+<div style=\"page-break-after: always\"></div>
+
+with cystic fibrosis. The study was conducted in 14 US centres and was prematurely discontinued due to recruitment challenges. In total, 32 patients were enrolled, including 3 paediatric patients.
+
+## Methods
+
+## Objective(s)
+
+## Primary objective
+
+To estimate the difference in mean (absolute) change from baseline in forced expiratory volume in 1 second (FEV1) % predicted at Day 168 (Visit 9) with Tobramycin Inhalation Powder (TIP) 112 mg once daily (continuous) vs TIP 112 mg BID in 28 day on / 28 day off cycles.
+
+## Secondary objectives
+
+- To estimate the difference in mean (absolute) change from baseline in FEV1 % predicted at Day 140 (Visit 8) and at all other post-baseline visits for TIP 112 mg once daily (continuous) vs TIP 112 mg BID in 28 day on / 28 day off cycles.
+- To  estimate  the  difference  in  mean  percent  (relative)  changes  from  baseline  in  FEV1  % predicted, forced vital capacity (FVC) % predicted, and forced expiratory flow rate over 25% to 75% of forced vital capacity (FEF25-75) % predicted at Day 140 (Visit 8), Day 168 (Visit 9) and at all other scheduled post-baseline visits with TIP 112 mg once daily (continuous) vs TIP 112 mg BID in 28 day on / 28 day off cycles.
+- To  estimate  the  difference  in  mean  change  from  baseline  in P.  aeruginosa sputum  density (log10 colony forming units [CFU] per gram sputum) at Day 140 (Visit 8), Day 168 (Visit 9) and at all other scheduled post-baseline visits with TIP 112 mg once daily (continuous) vs TIP 112 mg BID in 28 day on / 28 day off cycles.
+- To  estimate  the  difference  in  mean  change  from  baseline  in  tobramycin  minimal  inhibitory concentration (MIC) for P. aeruginosa at Day 140 (Visit 8), Day 168 (Visit 9) and at all other scheduled post-baseline visits with TIP 112 mg once daily (continuous) vs TIP 112 mg BID in 28 day on / 28 day off cycles.
+- To  evaluate  safety  through  Day  168  (Visit  9)  in  patients  receiving  TIP  112  mg  once  daily (continuous) vs TIP 112 mg BID in 28 day on / 28 day off cycles.
+- To  estimate  the  difference  in  time  to  first  hospitalization,  incidence  of  hospitalization,  and mean length of hospital stay due to respiratory-related events through Day 168 (Visit 9) in patients receiving TIP 112 mg once daily (continuous) vs TIP 112 mg BID in 28 day on / 28 day off cycles.
+- To  estimate  the  difference  in  time  to  first  use,  incidence  of  use,  and  duration  of  use  of  an antipseudomonal  antibiotic  (overall,  oral,  intravenous)  other  than  prophylactic  treatment planned before enrolment, through Day 168 (Visit 9) in patients receiving TIP 112 mg once daily (continuous) vs TIP 112 mg BID in 28 day on / 28 day off cycles.
+
+## Study design
+
+This study consisted of a screening visit (Visit 1) and 8 follow-up visits (Visits 2-9). The screening visit (Visit 1) could take place any time within 28 days prior to study drug administration (Visit 2). If the patient had previously received inhaled aminoglycoside for P. aeruginosa , initiation of study drug could only occur if at least 28 days had elapsed since the patient's last dose of inhaled aminoglycoside.
+
+<div style=\"page-break-after: always\"></div>
+
+Upon  randomization,  patients  were  assigned  to  receive  either  TIP  four  28-mg  capsules  (112  mg) administered once daily on a continuous (i.e., non-cycled) basis or TIP four 28-mg capsules (112 mg) administered  twice  daily  in  28  day  on  /  28  day  off  cycles;  each  cycle  consisted  of  a  28-day  ontreatment period followed by a 28-day off-treatment period. The duration of study duration was 168 days (24 weeks).
+
+## Study population
+
+The study population consisted of males and females &gt;6 years of age who had a confirmed diagnosis of  cystic  fibrosis.  At  screening,  patients  were  required  to  have  FEV1 ≥ 25%  and ≤ 80%  of  normal predicted  values  for  age,  sex,  and  height.  In  addition,  patients  were  required  to  have  chronic P. aeruginosa infection in their respiratory tracts. As such, P. aeruginosa was required to be present in a sputum/deep  cough  throat  swab  culture  or  bronchoalveolar  lavage  (BAL)  within  6  months  prior  to screening and in the sputum/deep-throat cough swab culture at screening.
+
+## Sample size
+
+Enrolment of 200 patients was planned. A total of 32 patients were randomized, 16 to each treatment group. A total of 5 patients completed the study, and 6 patients were discontinued before the sponsor ended  the  study.  The  remaining  21  patients  were  discontinued  due  to  the  sponsor's  decision  to terminate the study prematurely. The 31 patients who received at least one dose of study medication were included in the Safety and Full Analysis Sets, 16 in the TIP once daily (continuous) treatment group and 15 in the TIP BID (cycled) treatment group.
+
+## CHMP comment
+
+The study was terminated prematurely due to recruitment problems. As a result, the planned sample size  was  far  from  reached  and  only  5  subjects  completed  the  study.  No  conclusions  can  be  drawn based on these few subjects.
+
+## Treatments
+
+For both treatment arms, each dose was four 28-mg capsules (112 mg) of tobramycin dry powder for inhalation administered by the T-326 Inhaler for 168 days (24 weeks). Patients were randomized to one of the following two treatment arms in a 1:1 ratio:
+
+- TIP once daily (continuous) treatment group: A total daily dose of 112 mg administered once daily in the morning on a continuous (ie, non-cycled) basis.
+- TIP BID (cycled) treatment group: A total daily dose of 224 mg administered BID in 28-day on / 28-day off cycles (a total of three 56-day cycles).
+
+## Outcomes/endpoints
+
+The primary efficacy variable was the change from baseline in FEV1 % predicted. The primary analysis time point was at Day 168 (Visit 9). The following secondary efficacy variables were planned:
+
+1. Percent change from baseline in FEV1 % predicted
+2. Percent change from baseline in FVC % predicted
+3. Percent change from baseline in FEF25-75 % predicted
+4. Change from baseline in P. aeruginosa sputum density
+5. Time to first hospitalization due to respiratory-related events
+
+<div style=\"page-break-after: always\"></div>
+
+6. Hospitalization due to respiratory-related events
+7. Length of hospital stay due to respiratory-related events
+8. Time to first usage of anti-pseudomonal antibiotic
+9. Usage of anti-pseudomonal antibiotic
+
+## 10.Duration of use of anti-pseudomonal antibiotic
+
+Safety assessments consisted of physical examinations, vital signs, clinical laboratory tests, audiology testing (at selected sites), adverse event assessments, acute change in airway reactivity (FEV1 percent predicted) from pre-dose to 30 minutes after completion of first dose of study drug (where a relative change  of  20%  or  more  is  considered  a  clinically  significant  change  indicating  bronchospasm), inhalation-associated cough rate, and use of concomitant medications/significant nondrug therapies.
+
+## Statistical Methods
+
+Due  to  the  premature  termination  of  the  study  and  the  reduction  in  patient  data,  many  of  the summaries and analyses planned in the protocol were eliminated in the statistical analysis plan prior to database lock. Data were summarized descriptively and no inferential analysis was provided. For safety analysis, only adverse events were summarized. Descriptive statistics for the primary efficacy variable and secondary efficacy variable 1 were provided. All the data collected in the CRF were provided as listings.
+
+## Results
+
+## Recruitment/ Number analysed
+
+A total of 32 patients were randomized, 16 to each treatment group. A total of 5 patients completed the study, and 6 patients were discontinued before the sponsor ended the study. The remaining 21 patients were discontinued due to the sponsor's decision to terminate the study prematurely due to poor recruitment (listed under 'Administrative problems' in the table below).
+
+Table 10-1 Patient disposition (Randomized set)
+
+|                                   | TIP Once Daily- Continuous N=16 n (%)   | TIPBID- Cycled N=16 n (%)   | Total N=32 n (%)   |
+|-----------------------------------|-----------------------------------------|-----------------------------|--------------------|
+| Completed                         | 1 (6.3)                                 | 4 (25.0)                    | 5 (15.6)           |
+| Discontinued from study           | 15 (93.8)                               | 12 (75.0)                   | 27 (84.4)          |
+| Reason for discontinuation        |                                         |                             |                    |
+| Administrative problems           | 10 (62.5)                               | 11 (68.8)                   | 21 (65.6)          |
+| Adverse Events                    | 3 (18.8)                                | 0 (0.0)                     | 3 (9.4)            |
+| Protocol deviation                | 0 (0.0)                                 | 1 (6.3)                     | 1 (3.1)            |
+| Patient withdrew consent          | 1 (6.3)                                 | 0 (0.0)                     | 1 (3.1)            |
+| Unsatisfactory therapeutic effect | 1 (6.3)                                 | 0 (0.0)                     | 1 (3.1)            |
+
+N = Number of patients in the randomized set; n = Number of patients meeting the criterion.
+
+Reasons for discontinuation are sorted alphabetically.
+
+Percentage (%) is calculated using the Randomized set as the denominator.
+
+Randomized set: All patients randomized are included in the randomized set.
+
+Source: Table 14.1-1.1
+
+<div style=\"page-break-after: always\"></div>
+
+Patient  0503-00006  was  randomized  to  the  TIP  BID  (cycled)  treatment  group,  but  never  received study medication, and was excluded from the Safety and Full Analysis Sets. The 31 remaining patients received at least one dose of study medication and were included in the Safety and Full Analysis Sets.
+
+Table 11-1 Analysis sets (Randomized set)
+
+|                       | TIP OnceDaily Continuous N=16 n (%)   | TIPBID- Cycled N=16 n (%)   | Total N=32 n (%)   |
+|-----------------------|---------------------------------------|-----------------------------|--------------------|
+| Randomized Set [1]    | 16 (100.0)                            | 16 (100.0)                  | 32 (100.0)         |
+| Safety Set [2]        | 16 (100.0)                            | 15 (93.8)                   | 31 (96.9)          |
+| Full Analysis Set [3] | 16 (100.0)                            | 15 (93.8)                   | 31 (96.9)          |
+
+Note: The denominator for the percentages is the number of patients randomized.
+
+[1] The Randomized Set consists of all patients who were randomized.
+
+[2] The Safety Set consists of all patients who received at least one dose of study medication.
+
+Source:Table 14.1-2.1
+
+There  were  3  paediatric  patients  enrolled.  One  patient  (13  years  old,  female,  Caucasian)  was randomized  to  the  TIP  once  daily  (continuous)  group,  and  two  patients  (14  years  old,  female, Caucasian; 10 years old, male, Caucasian) were randomized to the TIP twice daily (cycled) group. All 3 paediatric  patients  discontinued  the  study  due  to  the  sponsor's  decision  to  terminate  the  study prematurely.
+
+## Baseline data
+
+Patients ranged from 10 to 74 years of age. The mean age was slightly higher in the TIP once daily (continuous) treatment group (34.9 years) than in the TIP BID (cycled) treatment group (26.5 years) and the proportion of males was also higher (62.5% vs. 50%, respectively). All but 2 of the patients were  Caucasian.  The  two  treatment  groups  were  similar  at  baseline;  mean  FEV1  %  predicted  was 54.5%  in  the  TIP  once  daily  (continuous)  treatment  group  and  57.3%  in  the  TIP  BID  (cycled) treatment group.
+
+## Efficacy results
+
+The primary efficacy variable was the change from baseline in FEV1 % predicted. The primary analysis time point was at Day 168 (Visit 9). The two treatment groups were similar at baseline; mean FEV1 % predicted was 54.5% in the TIP once daily (continuous) treatment group and 57.3% in the TIP twice daily (cycled) treatment group. Only 5 patients had spirometry at Visit 9 and there are no meaningful results. Changes over time and differences between the two treatment groups could not be adequately assessed, as these observations were limited by the small and decreasing sample size over the study period.
+
+As with the absolute changes in FEV1 % predicted, assessment of between-group differences for the secondary efficacy variables could not be adequately assessed, as these observations were limited by the small and decreasing sample size over the study period.
+
+## CHMP comment
+
+It is agreed with the MAH that no meaningful results or conclusions can be generated based on only 5 subjects.
+
+<div style=\"page-break-after: always\"></div>
+
+## Safety results
+
+The overall duration of exposure ranged from 6 to 167 days, with an overall mean of 74.3 days and a median of 84 days.
+
+No deaths were reported in this study.
+
+The overall incidence of adverse events was similar in the TIP once daily (continuous) treatment group (81.3%) and TIP twice daily (cycled) treatment group (80.0%). The most commonly affected primary system organ classes  (SOCs)  were  respiratory,  thoracic  and  mediastinal  disorders  (primarily  cough, dyspnoea,  and  oropharyngeal  pain),  gastrointestinal  disorders  (primarily  abdominal  pain,  diarrhoea, and  nausea),  and  infections  and  infestations  (primarily  infective  pulmonary  exacerbation  of  cystic fibrosis).
+
+A total of 4 patients experienced hospitalizations that were considered serious adverse events. All were worsening  pre-existing  conditions;  3  patients  with  worsening  cystic  fibrosis  and  1  patient  with worsening endometriosis. None of the SAEs was suspected to be related to study treatment.
+
+Three  patients  experienced  AEs  leading  to  discontinuation,  all  in  the  TIP  once  daily  (continuous) treatment  group.  One  patient  experienced  mildly  decreased  hearing  at  0.25  kHz  on  Day  15  and permanently discontinued study treatment due to this AE, although the investigator did not suspect that the AE was related to study drug. A second patient experienced mild dose-related coughing on Day 2 and permanently discontinued study treatment due to this AE. The third patient experienced mild non-cardiac chest tightness on Day 7 and permanently discontinued study treatment due to this AE. Both of these AEs were suspected to be related to study drug.
+
+No audiologic impairment suspected to be related to study treatment was observed. No worsening in renal function was reported.
+
+A total  of  14  patients,  7  in  each  treatment  group,  experienced  a  cough  during  inhalation  at  one  or more visits. A total of 11 patients, 6 in the TIP once daily (continuous) group and 5 in the TIP twice daily (cycled) group, experienced a cough within 5 minutes after inhalation at one or more visits. Most of the coughing occurred within 15 seconds after inhalation. One patient was treated with albuterol to reduce coughing.
+
+## Paediatric patients
+
+There were 3 paediatric patients enrolled in the study, each of whom discontinued the study due to the sponsor's decision to terminate the study prematurely. There is no safety or efficacy data presented or summarized specifically for these patients in the clinical study report. Therefore, the individual patient listings were reviewed and are discussed below:
+
+## 13-year-old female in the TIP once daily (continuous) group:
+
+The patient discontinued on Day 84 of the study.
+
+Cough was reported as an AE three times for this patient. The cough was experienced either during inhalation or post inhalation of TIP. The cough was mild in all cases, no action was taken, and it was suspected  to  be  related  to  study  drug.  Increased  coughing  was  also  reported  once.  The  increased coughing was mild, no action was taken and it was suspected to be related to study drug.
+
+Aphonia and oropharyngeal pain were each reported once for this patient. These AEs were mild, nondrug  therapy  was  given,  and  they  were  suspected  to  be  related  to  study  drug.  Constipation  and abdominal  pain  were  each  reported  once  for  this  patient.  These  AEs  were  mild.  A  concomitant medication was given for the constipation and no action was taken for the abdominal pain. They were not suspected to be related to study drug.
+
+<div style=\"page-break-after: always\"></div>
+
+There were no clinically significant changes in haematology, chemistry, or urinary laboratory values in this patient.
+
+In terms of efficacy, pre-dose relative change from baseline in FEV1 % predicted ranged from +5.0% to +15.0% during visits prior to discontinuation. At the discontinuation visit, the relative change was 0.0%.
+
+## 14-year-old female in the TIP twice daily (cycled) group:
+
+The patient discontinued on Day 85 of the study.
+
+Cough was reported as an AE four times for this patient. The cough was mild in all cases, no action was taken, and it was suspected to be related to study drug.
+
+Increased coughing, increased sputum production, dyspnoea, and wheezing were each reported once during  the  same  37-day  time  frame.  These  AEs  were  moderate,  and  concomitant  medication  was given. They were not suspected to be related to study drug.
+
+Post-tussive vomiting was reported twice for this patient. This AE was mild in both cases, and no action was taken. It was suspected to be related to study drug in one of the two cases.
+
+Constipation was reported once for this patient. This AE was moderate, and a concomitant medication was given. It  was  not  suspected  to  be  related  to  study  drug.  Diarrhoea  was  reported  once  for  this patient. This AE was moderate, and no action was taken. It was not suspected to be related to study drug.
+
+There were no clinically significant changes in haematology, chemistry, or urinary laboratory values in this patient.
+
+In cycle 1 (Visit 4), at the end of the on-treatment period, the mean FEV1 % predicted showed a predose relative change from baseline of +19.0%. In cycle 2 (Visit 6 and the discontinuation visit for this patient),  at  the  end  of  the  on-treatment  period,  the  mean  FEV1  %  predicted  showed  a  pre-dose relative change from baseline of +16.0%.
+
+## 10-year-old male in the TIP twice daily (cycled) group:
+
+The patient discontinued on Day 35 of the study.
+
+Increased coughing was reported as an AE twice for this patient. In one case, this AE was mild, no action was taken, and it was suspected to be related to study drug. In the second case, this AE was moderate, no action was taken, and it was not suspected to be related to study drug.
+
+Rhonchi were reported twice for this patient. In both cases, this AE was mild, no action was taken, and it was not suspected to be related to study drug.
+
+There were no clinically significant changes in haematology, chemistry, or urinary laboratory values in this patient.
+
+In cycle 1 (Visit 3), during the on-treatment period, the mean FEV1 % predicted showed a predose relative  change  from  baseline  of  +25.0%.  At  the  discontinuation  visit  (Day  35),  the  mean  FEV1  % predicted showed a pre-dose relative change from baseline of -2.0%.
+
+## CHMP comment
+
+No new safety signals are identified  from  this  small  study,  neither  in  adults  nor  in  the  3  paediatric patients enrolled in the study.
+
+<div style=\"page-break-after: always\"></div>
+
+## 2.3.3. Discussion on clinical aspects
+
+The main objectives of the study, changes over time in lung function and differences in lung function between the two treatment groups could not be adequately assessed, due to the small and decreasing sample size over the study period.
+
+There were no new or unexpected safety findings overall or from the 3 paediatric patients enrolled in this  study.  The  safety  results  observed  in  this  study  were  generally  consistent  with  the  known established safety profile of TIP.
+
+## 3. Rapporteur's overall conclusion and recommendation
+
+It is agreed with the MAH that the product information of TOBI Podhaler does not warrant an update based on the results from study CTBM100CUS03.
+
+## Fulfilled:
+
+No regulatory action required.
+
+## 4. Additional clarification requested
+
+N.A.
+
+## MAH responses to Request for supplementary information
+
+N.A.

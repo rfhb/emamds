@@ -1,0 +1,56 @@
+---
+document_datetime: 2025-05-12 14:10:55
+document_pages: 4
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/omjjara-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+document_name: omjjara-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+version: success
+processing_time: 2.1520081
+conversion_datetime: 2025-12-24 04:30:10.369518
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## Omjjara
+
+Procedural steps taken and scientific information after the authorisation
+
+| Application number   | Scope                                                                                                  | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                           |
+|----------------------|--------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------------------------------|
+| PSUSA/263/2 02409    | Periodic Safety Update EU Single assessment - momelotinib                                              | 10/04/2025                          | n/a                                         |                                  | PRAC Recommendation - maintenance |
+| II/0004/G            | This was an application for a group of variations. A grouped application comprised of one Type II, one | 27/03/2025                          |                                             | SmPC and PL                      | Not applicable                    |
+
+1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
+
+2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
+
+3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+|         | Type IB and one Type IA Variation, as follows: Type II (C.I.4): Update of section 4.8 of the SmPC in order to add 'rash' to the list of adverse drug reactions (ADRs) with frequency 'common' based on a safety review of clinical studies and post- marketing safety data. The Package Leaflet is updated accordingly. In addition, the MAH took the opportunity to add editorial changes to the PI and update the list of local representatives in the Package Leaflet. Type IB (C.I.z): Update of section 5.2 of SmPC in order to include minor updates to the absorption and biotransformation subsections of the PI based on data from the already submitted study GS-US-352- 0102. Type IA (A.6): Include the ATC Code L01EJ04 in Section 5.1 of the Summary of Product Characteristics (SmPC). A.6 - Administrative change - Change in ATC Code/ATC Vet Code C.I.z - Changes (Safety/Efficacy) of Human and Veterinary Medicinal Products - Other variation C.I.4 - Change(s) in the SPC, Labelling or PL due to   |            |     |
+|---------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|
+| IB/0006 | B.I.d.1.b.3 - Stability of AS - Change in the storage conditions - Change in storage conditions of the AS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 16/12/2024 | n/a |
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+| PSUSA/263/2 02403   | Periodic Safety Update EU Single assessment - momelotinib                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | 03/10/2024   | n/a   | PRAC Recommendation - maintenance   |
+|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------|-------------------------------------|
+| IB/0002/G           | This was an application for a group of variations. B.I.a.1.z - Change in the manufacturer of AS or of a starting material/reagent/intermediate for AS - Other variation B.I.a.1.f - Change in the manufacturer of AS or of a starting material/reagent/intermediate for AS - Changes to quality control testing arrangements for the AS -replacement or addition of a site where batch control/testing takes place B.I.a.2.a - Changes in the manufacturing process of the AS - Minor change in the manufacturing process of the AS B.I.b.1.z - Change in the specification parameters and/or limits of an AS, starting material/intermediate/reagent - Other variation B.I.b.2.a - Change in test procedure for AS or starting material/reagent/intermediate - Minor changes to an approved test procedure B.I.b.2.a - Change in test procedure for AS or starting material/reagent/intermediate - Minor changes to an approved test procedure B.I.b.2.a - Change in test procedure for AS or starting material/reagent/intermediate - Minor | 09/07/2024   | n/a   |                                     |
+| IA/0001/G           | This was an application for a group of variations.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | 09/04/2024   | n/a   |                                     |
+
+<div style=\"page-break-after: always\"></div>
+
+| B.I.a.1.f - Change in the manufacturer of AS or of a starting material/reagent/intermediate for AS - Changes to quality control testing arrangements for the AS -replacement or addition of a site where batch control/testing takes place B.I.a.1.f - Change in the manufacturer of AS or of a starting material/reagent/intermediate for AS - Changes to quality control testing arrangements for the AS -replacement or addition of a site where batch control/testing takes place   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

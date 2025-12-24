@@ -1,0 +1,2704 @@
+---
+document_datetime: 2025-03-03 15:19:15
+document_pages: 80
+document_pathfilename: www.ema.europa.eu/en/documents/product-information/nepexto-epar-product-information_en.pdf
+document_name: nepexto-epar-product-information_en.pdf
+version: success
+processing_time: 21.2099235
+conversion_datetime: 2025-12-24 20:24:10.627159
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.66.0
+  docling-core: 2.57.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Nepexto 25 mg solution for injection in pre-filled syringe Nepexto 50 mg solution for injection in pre-filled syringe Nepexto 50 mg solution for injection in pre-filled pen
+
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+Nepexto 25 mg solution for injection in pre-filled syringe
+
+Each pre-filled syringe contains 25 mg of etanercept.
+
+Nepexto 50 mg solution for injection in pre-filled syringe
+
+Each pre-filled syringe contains 50 mg of etanercept.
+
+Nepexto 50 mg solution for injection in pre-filled pen
+
+Each pre-filled pen contains 50 mg of etanercept.
+
+Etanercept is a human tumour necrosis factor receptor p75 Fc fusion protein produced by recombinant DNA technology in a Chinese hamster ovary (CHO) mammalian expression system.
+
+For the full list of excipients, see section 6.1.
+
+## 3. PHARMACEUTICAL FORM
+
+Solution for injection (injection).
+
+The solution is clear to opalescent, colourless to yellow and is formulated at pH 6.3 ± 0.2. The osmolality of the solution is 310 ± 30 mOsm/kg.
+
+## 4. CLINICAL PARTICULARS
+
+## 4.1 Therapeutic indications
+
+## Rheumatoid arthritis
+
+Nepexto in combination with methotrexate is indicated for the treatment of moderate to severe active rheumatoid arthritis in adults when the response to disease-modifying antirheumatic drugs, including methotrexate (unless contraindicated), has been inadequate.
+
+Nepexto can be given as monotherapy in case of intolerance to methotrexate or when continued treatment with methotrexate is inappropriate.
+
+Nepexto is also indicated in the treatment of severe, active and progressive rheumatoid arthritis in adults not previously treated with methotrexate.
+
+<div style=\"page-break-after: always\"></div>
+
+Nepexto, alone or in combination with methotrexate, has been shown to reduce the rate of progression of joint damage as measured by X-ray and to improve physical function.
+
+## Juvenile idiopathic arthritis
+
+Treatment of polyarthritis (rheumatoid factor positive or negative) and extended oligoarthritis in children and adolescents from the age of 2 years who have had an inadequate response to, or who have proved intolerant of, methotrexate.
+
+Treatment of psoriatic arthritis in adolescents from the age of 12 years who have had an inadequate response to, or who have proved intolerant of, methotrexate.
+
+Treatment of enthesitis-related arthritis in adolescents from the age of 12 years who have had an inadequate response to, or who have proved intolerant of, conventional therapy.
+
+## Psoriatic arthritis
+
+Treatment of active and progressive psoriatic arthritis in adults when the response to previous diseasemodifying antirheumatic drug therapy has been inadequate. Etanercept has been shown to improve physical function in patients with psoriatic arthritis, and to reduce the rate of progression of peripheral joint damage as measured by X-ray in patients with polyarticular symmetrical subtypes of the disease.
+
+## Axial spondyloarthritis
+
+## Ankylosing spondylitis
+
+Treatment of adults with severe active ankylosing spondylitis who have had an inadequate response to conventional therapy.
+
+## Non-radiographic axial spondyloarthritis
+
+Treatment of adults with severe non-radiographic axial spondyloarthritis with objective signs of inflammation as indicated by elevated C-reactive protein (CRP) and/or magnetic resonance imaging (MRI) evidence, who have had an inadequate response to nonsteroidal anti-inflammatory drugs (NSAIDs).
+
+## Plaque psoriasis
+
+Treatment of adults with moderate to severe plaque psoriasis who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapy, including ciclosporin, methotrexate or psoralen and ultraviolet-A light (PUVA) (see section 5.1).
+
+## Paediatric plaque psoriasis
+
+Treatment of chronic severe plaque psoriasis in children and adolescents from the age of 6 years who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies.
+
+## 4.2 Posology and method of administration
+
+Nepexto treatment should be initiated and supervised by specialist physicians experienced in the diagnosis and treatment of rheumatoid arthritis, juvenile idiopathic arthritis, psoriatic arthritis, ankylosing spondylitis, non-radiographic axial spondyloarthritis, plaque psoriasis or paediatric plaque psoriasis. Patients treated with Nepexto should be given the Patient Card.
+
+Nepexto is available in strengths of 25 and 50 mg.
+
+<div style=\"page-break-after: always\"></div>
+
+## Posology
+
+## Rheumatoid arthritis
+
+25 mg etanercept administered twice weekly is the recommended dose. Alternatively, 50 mg administered once weekly has been shown to be safe and effective (see section 5.1).
+
+Psoriatic arthritis, ankylosing spondylitis and non-radiographic axial spondyloarthritis The recommended dose is 25 mg etanercept administered twice weekly, or 50 mg administered once weekly.
+
+For all of the above indications, available data suggest that a clinical response is usually achieved within 12 weeks of treatment. Continued therapy should be carefully reconsidered in a patient not responding within this time period.
+
+## Plaque psoriasis
+
+The recommended dose of etanercept is 25 mg administered twice weekly or 50 mg administered once weekly. Alternatively, 50 mg given twice weekly may be used for up to 12 weeks followed, if necessary, by a dose of 25 mg twice weekly or a dose of 50 mg once weekly. Treatment with Nepexto should continue until remission is achieved, for up to 24 weeks. Continuous therapy beyond 24 weeks may be appropriate for some adult patients (see section 5.1). Treatment should be discontinued in patients who show no response after 12 weeks. If re-treatment with Nepexto is indicated, the same guidance on treatment duration should be followed. The dose should be 25 mg twice weekly or 50 mg once weekly.
+
+## Special populations
+
+## Renal and hepatic impairment
+
+No dose adjustment is required.
+
+## Elderly
+
+No dose adjustment is required. Posology and administration are the same as for adults 18-64 years of age.
+
+## Paediatric population
+
+Nepexto is only available as 25 mg pre-filled syringe, 50 mg pre-filled syringe and 50 mg pre-filled pen.
+
+Thus, it is not possible to administer Nepexto to paediatric patients that require less than a full 25 mg or 50 mg dose. Paediatric patients who require a dose other than a full 25 mg or 50 mg should not receive Nepexto. If an alternate dose is required, other etanercept products offering such an option should be used.
+
+The dosage of etanercept is based on body weight for paediatric patients. Patients weighing less than 62.5 kg should be accurately dosed on a mg/kg basis using the powder and solvent for solution for injection presentations or powder for solution for injection presentations (see below for dosing for specific indications). Patients weighing 62.5 kg or more may be dosed using a fixed-dose pre-filled syringe or pre-filled pen.
+
+The safety and efficacy of etanercept in children aged less than 2 years has not been established. No data are available.
+
+## Juvenile idiopathic arthritis
+
+The recommended dose is 0.4 mg/kg (up to a maximum of 25 mg per dose), given twice weekly as a subcutaneous injection with an interval of 3-4 days between doses or 0.8 mg/kg (up to a maximum of 50 mg per dose) given once weekly. Discontinuation of treatment should be considered in patients who show no response after 4 months.
+
+<div style=\"page-break-after: always\"></div>
+
+A 10 mg vial strength may be more appropriate for administration to children with JIA below the weight of 25 kg.
+
+No formal clinical trials have been conducted in children aged 2 to 3 years. However, limited safety data from a patient registry suggest that the safety profile in children from 2 to 3 years of age is similar to that seen in adults and children aged 4 years and older, when dosed every week with 0.8 mg/kg subcutaneously (see section 5.1).
+
+There is generally no applicable use of etanercept in children aged below 2 years in the indication juvenile idiopathic arthritis.
+
+## Paediatric plaque psoriasis (age 6 years and above)
+
+The recommended dose is 0.8 mg/kg (up to a maximum of 50 mg per dose) once weekly for up to 24 weeks. Treatment should be discontinued in patients who show no response after 12 weeks.
+
+If re-treatment with Nepexto is indicated, the above guidance on treatment duration should be followed. The dose should be 0.8 mg/kg (up to a maximum of 50 mg per dose) once weekly.
+
+There is generally no applicable use of etanercept in children aged below 6 years in the indication plaque psoriasis.
+
+## Method of administration
+
+Nepexto is for subcutaneous use (see section 6.6).
+
+Comprehensive instructions for administration are given in the package leaflet, section 7, 'Instructions for use'. Detailed instructions on unintentional dosing or scheduling variations, including missed doses, are provided in section 3 of the package leaflet.
+
+## 4.3 Contraindications
+
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+
+Sepsis or risk of sepsis.
+
+Treatment with Nepexto should not be initiated in patients with active infections, including chronic or localised infections.
+
+## 4.4 Special warnings and precautions for use
+
+## Traceability
+
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
+
+## Infections
+
+Patients should be evaluated for infections before, during, and after treatment with Nepexto, taking into consideration that the mean elimination half-life of etanercept is approximately 70 hours (range 7 to 300 hours).
+
+Serious infections, sepsis, tuberculosis, and opportunistic infections, including invasive fungal infections, listeriosis and legionellosis, have been reported with the use of etanercept (see section 4.8). These infections were due to bacteria, mycobacteria, fungi, viruses and parasites (including protozoa). In some cases, particular fungal and other opportunistic infections have not been recognised, resulting in delay of appropriate treatment and sometimes death. In evaluating patients for infections, the
+
+<div style=\"page-break-after: always\"></div>
+
+patient's risk for relevant opportunistic infections (e.g., exposure to endemic mycoses) should be considered.
+
+Patients who develop a new infection while undergoing treatment with Nepexto should be monitored closely. Administration of Nepexto should be discontinued if a patient develops a serious infection. The safety and efficacy of etanercept in patients with chronic infections have not been evaluated. Physicians should exercise caution when considering the use of Nepexto in patients with a history of recurring or chronic infections or with underlying conditions that may predispose patients to infections, such as advanced or poorly controlled diabetes.
+
+## Tuberculosis
+
+Cases of active tuberculosis, including miliary tuberculosis and tuberculosis with extra-pulmonary location, have been reported in patients treated with etanercept.
+
+Before starting treatment with Nepexto, all patients must be evaluated for both active and inactive ('latent') tuberculosis. This evaluation should include a detailed medical history with personal history of tuberculosis or possible previous contact with tuberculosis and previous and/or current immunosuppressive therapy. Appropriate screening tests, i.e., tuberculin skin test and chest X-ray, should be performed in all patients (local recommendations may apply). It is recommended that the conduct of these tests should be recorded in the Patient Card. Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised.
+
+If active tuberculosis is diagnosed, Nepexto therapy must not be initiated. If inactive ('latent') tuberculosis is diagnosed, treatment for latent tuberculosis must be started with anti-tuberculosis therapy before the initiation of Nepexto, and in accordance with local recommendations. In this situation, the benefit/risk balance of Nepexto therapy should be very carefully considered.
+
+All patients should be informed to seek medical advice if signs/symptoms suggestive of tuberculosis (e.g., persistent cough, wasting/weight loss, low-grade fever) appear during or after Nepexto treatment.
+
+## Hepatitis B reactivation
+
+Reactivation of hepatitis B in patients who were previously infected with the hepatitis B virus (HBV) and had received concomitant TNF-antagonists, including etanercept, has been reported. This includes reports of reactivation of hepatitis B in patients who were anti-HBc positive but HBsAg negative. Patients should be tested for HBV infection before initiating treatment with Nepexto. For patients who test positive for HBV infection, consultation with a physician with expertise in the treatment of hepatitis B is recommended. Caution should be exercised when administering Nepexto in patients previously infected with HBV. These patients should be monitored for signs and symptoms of active HBV infection throughout therapy and for several weeks following termination of therapy. Adequate data from treating patients infected with HBV with anti-viral therapy in conjunction with TNFantagonist therapy are not available. In patients who develop HBV infection, Nepexto should be stopped and effective anti-viral therapy with appropriate supportive treatment should be initiated.
+
+## Worsening of hepatitis C
+
+There have been reports of worsening of hepatitis C in patients receiving etanercept. Nepexto should be used with caution in patients with a history of hepatitis C.
+
+## Concurrent treatment with anakinra
+
+Concurrent administration of etanercept and anakinra has been associated with an increased risk of serious infections and neutropenia compared to etanercept alone. This combination has not
+
+<div style=\"page-break-after: always\"></div>
+
+demonstrated increased clinical benefit. Thus, the combined use of Nepexto and anakinra is not recommended (see sections 4.5 and 4.8).
+
+## Concurrent treatment with abatacept
+
+In clinical studies, concurrent administration of abatacept and etanercept resulted in increased incidences of serious adverse events. This combination has not demonstrated increased clinical benefit; such use is not recommended (see section 4.5).
+
+## Allergic reactions
+
+Allergic reactions associated with etanercept administration have been reported commonly. Allergic reactions have included angioedema and urticaria; serious reactions have occurred. If any serious allergic or anaphylactic reaction occurs, Nepexto therapy should be discontinued immediately and appropriate therapy initiated.
+
+## Immunosuppression
+
+The possibility exists for TNF-antagonists, including etanercept, to affect host defences against infections and malignancies since TNF mediates inflammation and modulates cellular immune responses. In a study of 49 adult patients with rheumatoid arthritis treated with etanercept, there was no evidence of depression of delayed-type hypersensitivity, depression of immunoglobulin levels, or change in enumeration of effector cell populations.
+
+Two juvenile idiopathic arthritis patients developed varicella infection and signs and symptoms of aseptic meningitis, which resolved without sequelae. Patients with a significant exposure to varicella virus should temporarily discontinue Nepexto therapy and be considered for prophylactic treatment with Varicella Zoster Immune Globulin.
+
+The safety and efficacy of etanercept in patients with immunosuppression have not been evaluated.
+
+## Malignancies and lymphoproliferative disorders
+
+## Solid and haematopoietic malignancies (excluding skin cancers)
+
+Reports of various malignancies (including breast and lung carcinoma and lymphoma) have been received in the post-marketing period (see section 4.8).
+
+In the controlled portions of clinical trials of TNF-antagonists, more cases of lymphoma have been observed among patients receiving a TNF-antagonist compared with control patients. However, the occurrence was rare, and the follow-up period of placebo patients was shorter than for patients receiving TNF-antagonist therapy. In the post-marketing setting, cases of leukaemia have been reported in patients treated with TNF-antagonists. There is an increased background risk for lymphoma and leukaemia in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates risk estimation.
+
+Based on current knowledge, a possible risk for the development of lymphomas, leukaemia or other haematopoietic or solid malignancies in patients treated with a TNF-antagonist cannot be excluded. Caution should be exercised when considering TNF-antagonist therapy for patients with a history of malignancy or when considering continuing treatment in patients who develop a malignancy.
+
+Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-antagonists (initiation of therapy ≤ 18 years of age), including etanercept, in the post-marketing setting. Approximately half the cases were lymphomas. The other cases represented a variety of different malignancies and included rare malignancies typically associated with immunosuppression. A risk for the development of malignancies in children and adolescents treated with TNF-antagonists cannot be excluded.
+
+<div style=\"page-break-after: always\"></div>
+
+## Skin cancers
+
+Melanoma and non-melanoma skin cancer (NMSC) have been reported in patients treated with TNFantagonists, including etanercept. Post-marketing cases of Merkel cell carcinoma have been reported very infrequently in patients treated with etanercept. Periodic skin examination is recommended for all patients, particularly those with risk factors for skin cancer.
+
+Combining the results of controlled clinical trials, more cases of NMSC were observed in patients receiving etanercept compared with control patients, particularly in patients with psoriasis.
+
+## Vaccinations
+
+Live vaccines should not be given concurrently with Nepexto. No data are available on the secondary transmission of infection by live vaccines in patients receiving etanercept. In a double-blind, placebocontrolled, randomised clinical study in adult patients with psoriatic arthritis, 184 patients also received a multivalent pneumococcal polysaccharide vaccine at week 4. In this study, most psoriatic arthritis patients receiving etanercept were able to mount effective B-cell immune response to pneumococcal polysaccharide vaccine, but titres in aggregate were moderately lower, and few patients had two-fold rises in titres compared to patients not receiving etanercept. The clinical significance of this is unknown.
+
+## Autoantibody formation
+
+Treatment with Nepexto may result in the formation of autoimmune antibodies (see section 4.8).
+
+## Haematologic reactions
+
+Rare cases of pancytopenia and very rare cases of aplastic anaemia, some with fatal outcome, have been reported in patients treated with etanercept. Caution should be exercised in patients being treated with Nepexto who have a previous history of blood dyscrasias. All patients and parents/caregivers should be advised that if the patient develops signs and symptoms suggestive of blood dyscrasias or infections (e.g., persistent fever, sore throat, bruising, bleeding, and paleness) whilst on Nepexto, they should seek immediate medical advice. Such patients should be investigated urgently, including full blood count; if blood dyscrasias are confirmed, Nepexto should be discontinued.
+
+## Neurological disorders
+
+There have been rare reports of CNS demyelinating disorders in patients treated with etanercept (see section 4.8). Additionally, there have been rare reports of peripheral demyelinating polyneuropathies (including Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy, demyelinating polyneuropathy, and multifocal motor neuropathy). Although no clinical trials have been performed evaluating etanercept therapy in patients with multiple sclerosis, clinical trials of other TNF antagonists in patients with multiple sclerosis have shown increases in disease activity. A careful risk/benefit evaluation, including a neurologic assessment, is recommended when prescribing Nepexto to patients with pre-existing or recent onset of demyelinating disease, or to those who are considered to have an increased risk of developing demyelinating disease.
+
+## Combination therapy
+
+In a controlled clinical trial of two years duration in rheumatoid arthritis patients, the combination of etanercept and methotrexate did not result in unexpected safety findings, and the safety profile of etanercept when given in combination with methotrexate was similar to the profiles reported in studies of etanercept and methotrexate alone. Long-term studies to assess the safety of the combination are ongoing. The long-term safety of etanercept in combination with other disease-modifying antirheumatic drugs (DMARD) has not been established.
+
+The use of etanercept in combination with other systemic therapies or phototherapy for the treatment of psoriasis has not been studied.
+
+<div style=\"page-break-after: always\"></div>
+
+## Renal and hepatic impairment
+
+Based on pharmacokinetic data (see section 5.2), no dose adjustment is needed in patients with renal or hepatic impairment; clinical experience in such patients is limited.
+
+## Congestive heart failure (Cardiac failure congestive)
+
+Physicians should use caution when using Nepexto in patients who have congestive heart failure (CHF). There have been post-marketing reports of worsening of CHF, with and without identifiable precipitating factors, in patients taking etanercept. There have also been rare (&lt;0.1%) reports of new onset CHF, including CHF in patients without known pre-existing cardiovascular disease. Some of these patients have been under 50 years of age. Two large clinical trials evaluating the use of etanercept in the treatment of CHF were terminated early due to lack of efficacy. Although not conclusive, data from one of these trials suggest a possible tendency toward worsening CHF in those patients assigned to etanercept treatment.
+
+## Alcoholic hepatitis
+
+In a phase II randomised placebo-controlled study of 48 hospitalised patients treated with etanercept or placebo for moderate to severe alcoholic hepatitis, etanercept was not efficacious, and the mortality rate in patients treated with etanercept was significantly higher after 6 months. Consequently, Nepexto should not be used in patients for the treatment of alcoholic hepatitis. Physicians should use caution when using Nepexto in patients who also have moderate to severe alcoholic hepatitis.
+
+## Wegener's granulomatosis
+
+A placebo-controlled trial, in which 89 adult patients were treated with etanercept in addition to standard therapy (including cyclophosphamide or methotrexate, and glucocorticoids) for a median duration of 25 months, has not shown etanercept to be an effective treatment for Wegener's granulomatosis. The incidence of non-cutaneous malignancies of various types was significantly higher in patients treated with etanercept than in the control group. Nepexto is not recommended for the treatment of Wegener's granulomatosis.
+
+## Hypoglycaemia in patients treated for diabetes
+
+There have been reports of hypoglycaemia following initiation of etanercept in patients receiving medicinal products for diabetes, necessitating a reduction in anti-diabetic medicinal products in some of these patients.
+
+## Special populations
+
+## Elderly
+
+In the Phase 3 studies in rheumatoid arthritis, psoriatic arthritis, and ankylosing spondylitis, no overall differences in adverse events, serious adverse events, and serious infections in patients age 65 or older who received etanercept were observed compared with younger patients. However, caution should be exercised when treating the elderly and particular attention paid with respect to occurrence of infections.
+
+## Paediatric population
+
+## Vaccinations
+
+It is recommended that paediatric patients, if possible, be brought up to date with all immunisations in agreement with current immunisation guidelines prior to initiating etanercept therapy (see Vaccinations, above).
+
+<div style=\"page-break-after: always\"></div>
+
+## Nepexto contains sodium
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say, essentially 'sodium-free'.
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
+
+## Concurrent treatment with anakinra
+
+Adult patients treated with etanercept and anakinra were observed to have a higher rate of serious infections when compared with patients treated with either etanercept or anakinra alone (historical data).
+
+In addition, in a double-blind, placebo-controlled trial in adult patients receiving background methotrexate, patients treated with etanercept and anakinra were observed to have a higher rate of serious infections (7%) and neutropenia than patients treated with etanercept (see sections 4.4 and 4.8). The combination etanercept and anakinra has not demonstrated increased clinical benefit, and is therefore, not recommended.
+
+## Concurrent treatment with abatacept
+
+In clinical studies, concurrent administration of abatacept and etanercept resulted in increased incidences of serious adverse events. This combination has not demonstrated increased clinical benefit; such use is not recommended (see section 4.4).
+
+## Concurrent treatment with sulfasalazine
+
+In a clinical study of adult patients who were receiving established doses of sulfasalazine, to which etanercept was added, patients in the combination group experienced a statistically significant decrease in mean white blood cell counts in comparison to groups treated with etanercept or sulfasalazine alone. The clinical significance of this interaction is unknown. Physicians should use caution when considering combination therapy with sulfasalazine.
+
+## Non-interactions
+
+In clinical trials, no interactions have been observed when etanercept was administered with glucocorticoids, salicylates (except sulfasalazine), nonsteroidal anti-inflammatory drugs (NSAIDs), analgesics, or methotrexate. See section 4.4 for vaccination advice.
+
+No clinically significant pharmacokinetic drug-drug interactions were observed in studies with methotrexate, digoxin or warfarin.
+
+## 4.6 Fertility, pregnancy and lactation
+
+## Women of childbearing potential
+
+Women of childbearing potential should consider the use of appropriate contraception to avoid becoming pregnant during Nepexto therapy and for three weeks after discontinuation of therapy.
+
+## Pregnancy
+
+Developmental toxicity studies performed in rats and rabbits have revealed no evidence of harm to the foetus or neonatal rat due to etanercept. The effects of etanercept on pregnancy outcomes have been investigated in two observational cohort studies. A higher rate of major birth defects was observed in one observational study comparing pregnancies exposed to etanercept (n&lt;370) during the first trimester with pregnancies not exposed to etanercept or other TNF-antagonists (n=164) (adjusted odds ratio 2.4, 95% CI: 1.0-5.5). The types of major birth defects were consistent with those most
+
+<div style=\"page-break-after: always\"></div>
+
+commonly reported in the general population and no particular pattern of abnormalities was identified. No change in the rate of spontaneous abortion, stillbirth, or minor malformations was observed. In another observational multi-country registry study comparing the risk of adverse pregnancy outcomes in women exposed to etanercept during the first 90 days of pregnancy (n=425) to those exposed to non-biologic drugs (n=3497), there was no observed increased risk of major birth defects (crude odds ratio [OR]=1.22, 95% CI: 0.79-1.90; adjusted OR=0.96, 95% CI: 0.58-1.60 after adjusting for country, maternal disease, parity, maternal age and smoking in early pregnancy). This study also showed no increased risks of minor birth defects, preterm birth, stillbirth, or infections in the first year of life for infants born to women exposed to etanercept during pregnancy. Nepexto should only be used during pregnancy if clearly needed.
+
+Etanercept crosses the placenta and has been detected in the serum of infants born to female patients treated with etanercept during pregnancy. The clinical impact of this is unknown, however, infants may be at increased risk of infection. Administration of live vaccines to infants for 16 weeks after the mother's last dose of Nepexto is generally not recommended.
+
+## Breast-feeding
+
+In lactating rats following subcutaneous administration, etanercept was excreted in the milk and detected in the serum of pups. Limited information from the published literature indicates etanercept has been detected at low levels in human milk. Etanercept could be considered for use during breast-feeding taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
+
+While systemic exposure in a breastfed infant is expected to be low because etanercept is largely degraded in the gastrointestinal tract, limited data regarding systemic exposure in the breastfed infant are available. Therefore, the administration of live vaccines (e.g., BCG) to a breastfed infant when the mother is receiving etanercept could be considered 16 weeks after stopping breast-feeding (or at an earlier timepoint if the infant etanercept serum levels are undetectable).
+
+## Fertility
+
+Preclinical data about peri- and postnatal toxicity of etanercept and of effects of etanercept on fertility and general reproductive performance are not available.
+
+## 4.7 Effects on ability to drive and use machines
+
+Nepexto has no or negligible influence on the ability to drive and use machines.
+
+## 4.8 Undesirable effects
+
+## Summary of the safety profile
+
+The most commonly reported adverse reactions are injection site reactions (such as pain, swelling, itching, reddening and bleeding at the puncture site), infections (such as upper respiratory infections, bronchitis, bladder infections and skin infections), headache, allergic reactions, development of autoantibodies, itching, and fever.
+
+Serious adverse reactions have also been reported for etanercept. TNF-antagonists, such as etanercept, affect the immune system and their use may affect the body's defenses against infection and cancer. Serious infections affect fewer than 1 in 100 patients treated with etanercept. Reports have included fatal and life-threatening infections and sepsis. Various malignancies have also been reported with use of etanercept, including cancers of the breast, lung, skin and lymph glands (lymphoma).
+
+Serious haematological, neurological and autoimmune reactions have also been reported. These include rare reports of pancytopenia and very rare reports of aplastic anaemia. Central and peripheral demyelinating events have been seen rarely and very rarely, respectively, with etanercept use. There have been rare reports of lupus, lupus-related conditions, and vasculitis.
+
+<div style=\"page-break-after: always\"></div>
+
+## Tabulated list of adverse reactions
+
+The following list of adverse reactions is based on experience from clinical trials in adults and on post -marketing experience.
+
+Within each System Organ Class, adverse reactions are listed under headings of frequency (number of patients expected to experience the reaction), using the following categories: very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data).
+
+| System Organ Class                                                       | Very Common ≥1/10                                                                              | Common ≥1/100 to <1/10                                                                   | Uncommon ≥1/1,000 to <1/100                                                                                | Rare ≥1/10,000 to <1/1,000                                                                                                                         | Very Rare <1/10,000   | Not Known (Cannot be Estimated from Available Data)           |
+|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|---------------------------------------------------------------|
+| Infections and infestations                                              | Infection (including upper respiratory tract infection, bronchitis, cystitis, skin infection)* |                                                                                          | Serious infections (including pneumonia, cellulitis, arthritis bacterial, sepsis and parasitic infection)* | Tuberculosis, opportunistic infection (including invasive fungal, protozoal, bacterial, atypical mycobacterial, viral infections, and Legionella)* |                       | Hepatitis B reactivation, listeria                            |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |                                                                                                |                                                                                          | Non-melanoma skin cancers* (see section 4.4)                                                               | Malignant melanoma (see section 4.4), lymphoma, leukaemia                                                                                          |                       | Merkel cell carcinoma (see section 4.4), Kaposi's sarcoma     |
+| Blood and lymphatic system disorders                                     |                                                                                                |                                                                                          | Thrombocytopen ia, anaemia, leukopenia, neutropenia                                                        | Pancytopenia*                                                                                                                                      | Aplastic anaemia*     | Histiocytosis haematophagic (macrophage activation syndrome)* |
+| Immune system disorders                                                  |                                                                                                | Allergic reactions (see Skin and subcutaneous tissue disorders), autoantibody formation* | Vasculitis (including antineutrophilic cytoplasmic antibody positive vasculitis)                           | Serious allergic/ anaphylactic reactions (including angioedema, bronchospasm), sarcoidosis                                                         |                       | Worsening of symptoms of dermatomyositis                      |
+
+<div style=\"page-break-after: always\"></div>
+
+| System Organ Class                               | Very Common ≥1/10   | Common ≥1/100 to <1/10   | Uncommon ≥1/1,000 to <1/100                                                                                                    | Rare ≥1/10,000 to <1/1,000                                                                                                                                                                                                                                                                                                                                                          | Very Rare <1/10,000        | Not Known (Cannot be Estimated from Available Data)   |
+|--------------------------------------------------|---------------------|--------------------------|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------|
+| Nervous system disorders                         | Headache            |                          |                                                                                                                                | CNS demyelinating events suggestive of multiple sclerosis or localised demyelinating conditions, such as optic neuritis and transverse myelitis (see section 4.4), peripheral demyelinating events, including Guillain- Barré syndrome, chronic inflammatory demyelinating polyneuropathy, demyelinating polyneuropathy, and multifocal motor neuropathy (see section 4.4), seizure |                            |                                                       |
+| Eye disorders                                    |                     |                          | Uveitis, scleritis                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                     |                            |                                                       |
+| Cardiac disorders                                |                     |                          | Worsening of cardiac failure congestive (see section 4.4)                                                                      | New onset cardiac failure congestive (see section 4.4)                                                                                                                                                                                                                                                                                                                              |                            |                                                       |
+| Respiratory, thoracic, and mediastinal disorders |                     |                          |                                                                                                                                | Interstitial lung disease (including pneumonitis and pulmonary fibrosis)*                                                                                                                                                                                                                                                                                                           |                            |                                                       |
+| Gastrointestinal disorders                       |                     |                          | Inflammatory bowel disease                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                     |                            |                                                       |
+| Hepatobiliary disorders                          |                     |                          | Elevated liver enzymes*                                                                                                        | Autoimmune hepatitis*                                                                                                                                                                                                                                                                                                                                                               |                            |                                                       |
+| Skin and subcutaneous tissue disorders           |                     | Pruritus, rash           | Angioedema, psoriasis (including new onset or worsening and pustular, primarily palms and soles), urticaria, psoriasiform rash | Stevens-Johnson syndrome, cutaneous vasculitis (including hypersensitivity vasculitis), erythema multiforme, lichenoid reactions                                                                                                                                                                                                                                                    | Toxic epidermal necrolysis |                                                       |
+| Musculoskeletal and connective tissue disorders  |                     |                          |                                                                                                                                | Cutaneous lupus erythematosus, subacute cutaneous lupus erythematosus, lupus-like syndrome                                                                                                                                                                                                                                                                                          |                            |                                                       |
+
+<div style=\"page-break-after: always\"></div>
+
+| System Organ Class                                   | Very Common ≥1/10                                                                           | Common ≥1/100 to <1/10   | Uncommon ≥1/1,000 to <1/100   | Rare ≥1/10,000 to <1/1,000   | Very Rare <1/10,000   | Not Known (Cannot be Estimated from Available Data)   |
+|------------------------------------------------------|---------------------------------------------------------------------------------------------|--------------------------|-------------------------------|------------------------------|-----------------------|-------------------------------------------------------|
+| Renal and urinary disorders                          |                                                                                             |                          |                               | Glomerulonephritis           |                       |                                                       |
+| General disorders and administration site conditions | Injection site reactions (including bleeding, bruising, erythema, itching, pain, swelling)* | Pyrexia                  |                               |                              |                       |                                                       |
+
+* see Description of selected adverse reactions, below.
+
+## Description of selected adverse reactions
+
+## Malignancies and lymphoproliferative disorders
+
+One hundred and twenty-nine (129) new malignancies of various types were observed in 4,114 rheumatoid arthritis patients treated in clinical trials with etanercept for up to approximately 6 years, including 231 patients treated with etanercept in combination with methotrexate in the 2-year active controlled study. The observed rates and incidences in these clinical trials were similar to those expected for the population studied. A total of 2 malignancies were reported in clinical studies of approximately 2 years duration involving 240 etanercept-treated psoriatic arthritis patients. In clinical studies conducted for more than 2 years with 351 ankylosing spondylitis patients, 6 malignancies were reported in etanercept-treated patients. In a group of 2,711 plaque psoriasis patients treated with etanercept in double-blind and open-label studies of up to 2.5 years, 30 malignancies and 43 nonmelanoma skin cancers were reported.
+
+In a group of 7,416 patients treated with etanercept in rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis and psoriasis clinical trials, 18 lymphomas were reported.
+
+Reports of various malignancies (including breast and lung carcinoma and lymphoma) have also been received in the post-marketing period (see section 4.4).
+
+## Injection site reactions
+
+Compared to placebo, patients with rheumatic diseases treated with etanercept had a significantly higher incidence of injection site reactions (36% vs. 9%). Injection site reactions usually occurred in the first month. Mean duration was approximately 3 to 5 days. No treatment was given for the majority of injection site reactions in the etanercept treatment groups, and the majority of patients who were given treatment received topical preparations, such as corticosteroids, or oral antihistamines. Additionally, some patients developed recall injection site reactions characterised by a skin reaction at the most recent site of injection, along with the simultaneous appearance of injection site reactions at previous injection sites. These reactions were generally transient and did not recur with treatment.
+
+In controlled trials in patients with plaque psoriasis, approximately 13.6% of patients treated with etanercept developed injection site reactions compared with 3.4% of placebo-treated patients during the first 12 weeks of treatment.
+
+## Serious infections
+
+In placebo-controlled trials, no increase in the incidence of serious infections (fatal, life-threatening, or requiring hospitalisation or intravenous antibiotics) was observed. Serious infections occurred in 6.3% of rheumatoid arthritis patients treated with etanercept for up to 48 months. These included abscess (at various sites), bacteraemia, bronchitis, bursitis, cellulitis, cholecystitis, diarrhoea, diverticulitis, endocarditis (suspected), gastroenteritis, hepatitis B, herpes zoster, leg ulcer, mouth infection, osteomyelitis, otitis, peritonitis, pneumonia, pyelonephritis, sepsis, septic arthritis, sinusitis, skin infection, skin ulcer, urinary tract infection, vasculitis, and wound infection. In the 2-year activecontrolled study where patients were treated with either etanercept alone, methotrexate alone or
+
+<div style=\"page-break-after: always\"></div>
+
+etanercept in combination with methotrexate, the rates of serious infections were similar among the treatment groups. However, it cannot be excluded that the combination of etanercept with methotrexate could be associated with an increase in the rate of infections.
+
+There were no differences in rates of infection among patients treated with etanercept and those treated with placebo for plaque psoriasis in placebo-controlled trials of up to 24 weeks duration. Serious infections experienced by etanercept-treated patients included cellulitis, gastroenteritis, pneumonia, cholecystitis, osteomyelitis, gastritis, appendicitis, Streptococcal fasciitis, myositis, septic shock, diverticulitis and abscess. In the double-blind and open-label psoriatic arthritis trials, 1 patient reported a serious infection (pneumonia).
+
+Serious and fatal infections have been reported during use of etanercept; reported pathogens include bacteria, mycobacteria (including tuberculosis), viruses and fungi. Some have occurred within a few weeks after initiating treatment with etanercept in patients who have underlying conditions (e.g., diabetes, congestive heart failure, history of active or chronic infections) in addition to their rheumatoid arthritis (see section 4.4). Nepexto treatment may increase mortality in patients with established sepsis.
+
+Opportunistic infections have been reported in association with etanercept, including invasive fungal, parasitic (including protozoal), viral (including herpes zoster), bacterial (including Listeria and Legionella), and atypical mycobacterial infections. In a pooled data set of clinical trials, the overall incidence of opportunistic infections was 0.09% for the 15,402 subjects who received etanercept. The exposure-adjusted rate was 0.06 events per 100 patient-years. In post-marketing experience, approximately half of all of the case reports of opportunistic infections worldwide were invasive fungal infections. The most commonly reported invasive fungal infections included Candida, Pneumocystis, Aspergillus, and Histoplasma . Invasive fungal infections accounted for more than half of the fatalities amongst patients who developed opportunistic infections. The majority of the reports with a fatal outcome were in patients with Pneumocystis pneumonia, unspecified systemic fungal infections, and aspergillosis (see section 4.4).
+
+## Autoantibodies
+
+Adult patients had serum samples tested for autoantibodies at multiple timepoints. Of the rheumatoid arthritis patients evaluated for antinuclear antibodies (ANA), the percentage of patients who developed new positive ANA (≥ 1:40) was higher in patients treated with etanercept (11%) than in placebotreated patients (5%). The percentage of patients who developed new positive anti-double-stranded DNA antibodies was also higher by radioimmunoassay (15% of patients treated with etanercept compared to 4% of placebo-treated patients) and by Crithidia luciliae assay (3% of patients treated with etanercept compared to none of placebo-treated patients). The proportion of patients treated with etanercept who developed anticardiolipin antibodies was similarly increased compared to placebotreated patients. The impact of long-term treatment with etanercept on the development of autoimmune diseases is unknown.
+
+There have been rare reports of patients, including rheumatoid factor positive patients, who have developed other autoantibodies in conjunction with a lupus-like syndrome or rashes that are compatible with subacute cutaneous lupus or discoid lupus by clinical presentation and biopsy.
+
+## Pancytopenia and aplastic anaemia
+
+There have been post-marketing reports of pancytopenia and aplastic anaemia, some of which had fatal outcomes (see section 4.4).
+
+## Interstitial lung disease
+
+In controlled clinical trials of etanercept across all indications, the frequency (incidence proportion) of interstitial lung disease in patients receiving etanercept without concomitant methotrexate was 0.06% (frequency rare). In the controlled clinical trials that allowed concomitant treatment with etanercept and methotrexate, the frequency (incidence proportion) of interstitial lung disease was 0.47% (frequency uncommon). There have been post-marketing reports of interstitial lung disease (including pneumonitis and pulmonary fibrosis), some of which had fatal outcomes.
+
+<div style=\"page-break-after: always\"></div>
+
+## Concurrent treatment with anakinra
+
+In studies when adult patients received concurrent treatment with etanercept plus anakinra, a higher rate of serious infections compared to etanercept alone was observed and 2% of patients (3/139) developed neutropenia (absolute neutrophil count &lt;1,000/mm 3 ). While neutropenic, one patient developed cellulitis that resolved after hospitalisation (see sections 4.4 and 4.5).
+
+## Elevated liver enzymes
+
+In the double-blind periods of controlled clinical trials of etanercept across all indications, the frequency (incidence proportion) of adverse events of elevated liver enzymes in patients receiving etanercept without concomitant methotrexate was 0.54% (frequency uncommon). In the double-blind periods of controlled clinical trials that allowed concomitant treatment with etanercept and methotrexate, the frequency (incidence proportion) of adverse events of elevated liver enzymes was 4.18% (frequency common).
+
+## Autoimmune hepatitis
+
+In controlled clinical trials of etanercept across all indications, the frequency (incidence proportion) of autoimmune hepatitis in patients receiving etanercept without concomitant methotrexate was 0.02% (frequency rare). In the controlled clinical trials that allowed concomitant treatment with etanercept and methotrexate, the frequency (incidence proportion) of autoimmune hepatitis was 0.24% (frequency uncommon).
+
+## Paediatric population
+
+## Undesirable effects in paediatric patients with juvenile idiopathic arthritis
+
+In general, the adverse events in paediatric patients with juvenile idiopathic arthritis were similar in frequency and type to those seen in adult patients. Differences from adults and other special considerations are discussed in the following paragraphs.
+
+The types of infections seen in clinical trials in juvenile idiopathic arthritis patients aged 2 to 18 years were generally mild to moderate and consistent with those commonly seen in outpatient paediatric populations. Severe adverse events reported included varicella with signs and symptoms of aseptic meningitis, which resolved without sequelae (see also section 4.4), appendicitis, gastroenteritis, depression/personality disorder, cutaneous ulcer, oesophagitis/gastritis, group A streptococcal septic shock, type I diabetes mellitus, and soft tissue and post-operative wound infection.
+
+In one study in children with juvenile idiopathic arthritis aged 4 to 17 years, 43 of 69 (62%) children experienced an infection while receiving etanercept during 3 months of the study (part 1, open-label), and the frequency and severity of infections was similar in 58 patients completing 12 months of openlabel extension therapy. The types and proportion of adverse events in juvenile idiopathic arthritis patients were similar to those seen in trials of etanercept in adult patients with rheumatoid arthritis, and the majority were mild. Several adverse events were reported more commonly in 69 juvenile idiopathic arthritis patients receiving 3 months of etanercept compared to the 349 adult rheumatoid arthritis patients. These included headache (19% of patients, 1.7 events per patient year), nausea (9%, 1.0 event per patient year), abdominal pain (19%, 0.74 events per patient year), and vomiting (13%, 0.74 events per patient year).
+
+There were 4 reports of macrophage activation syndrome in juvenile idiopathic arthritis clinical trials.
+
+## Undesirable effects in paediatric patients with plaque psoriasis
+
+In a 48-week study in 211 children aged 4 to 17 years with paediatric plaque psoriasis, the adverse events reported were similar to those seen in previous studies in adults with plaque psoriasis.
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+
+<div style=\"page-break-after: always\"></div>
+
+professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+## 4.9 Overdose
+
+No dose-limiting toxicities were observed during clinical trials of rheumatoid arthritis patients. The highest dose level evaluated has been an intravenous loading dose of 32 mg/m 2 followed by subcutaneous doses of 16 mg/m 2  administered twice weekly. One rheumatoid arthritis patient mistakenly self-administered 62 mg etanercept subcutaneously twice weekly for 3 weeks without experiencing undesirable effects. There is no known antidote to etanercept.
+
+## 5. PHARMACOLOGICAL PROPERTIES
+
+## 5.1 Pharmacodynamic properties
+
+Pharmacotherapeutic group: Immunosuppressants, tumour necrosis factor alpha (TNF-α) inhibitors, ATC code: L04AB01
+
+Nepexto is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+
+Tumour necrosis factor (TNF) is a dominant cytokine in the inflammatory process of rheumatoid arthritis. Elevated levels of TNF are also found in the synovium and psoriatic plaques of patients with psoriatic arthritis and in serum and synovial tissue of patients with ankylosing spondylitis. In plaque psoriasis, infiltration by inflammatory cells, including T-cells, leads to increased TNF levels in psoriatic lesions compared with levels in uninvolved skin. Etanercept is a competitive inhibitor of TNF binding to its cell surface receptors, and thereby inhibits the biological activity of TNF. TNF and lymphotoxin are pro-inflammatory cytokines that bind to two distinct cell surface receptors: the 55kilodalton (p55) and 75-kilodalton (p75) tumour necrosis factor receptors (TNFRs). Both TNFRs exist naturally in membrane-bound and soluble forms. Soluble TNFRs are thought to regulate TNF biological activity.
+
+TNF and lymphotoxin exist predominantly as homotrimers, with their biological activity dependent on cross-linking of cell surface TNFRs. Dimeric soluble receptors, such as etanercept, possess a higher affinity for TNF than monomeric receptors and are considerably more potent competitive inhibitors of TNF binding to its cellular receptors. In addition, use of an immunoglobulin Fc region as a fusion element in the construction of a dimeric receptor imparts a longer serum half-life.
+
+## Mechanism of action
+
+Much of the joint pathology in rheumatoid arthritis and ankylosing spondylitis and skin pathology in plaque psoriasis is mediated by pro-inflammatory molecules that are linked in a network controlled by TNF. The mechanism of action of etanercept is thought to be its competitive inhibition of TNF binding to cell surface TNFR, preventing TNF-mediated cellular responses by rendering TNF biologically inactive. Etanercept may also modulate biologic responses controlled by additional downstream molecules (e.g., cytokines, adhesion molecules, or proteinases) that are induced or regulated by TNF.
+
+## Clinical efficacy and safety
+
+This section presents data from four randomised controlled trials in adults with rheumatoid arthritis, one study in adults with psoriatic arthritis, one study in adults with ankylosing spondylitis, two studies in adults with non-radiographic axial spondyloarthritis, four studies in adults with plaque psoriasis, three studies in juvenile idiopathic arthritis and one study in paediatric patients with plaque psoriasis.
+
+<div style=\"page-break-after: always\"></div>
+
+## Adult patients with rheumatoid arthritis
+
+The efficacy of etanercept was assessed in a randomised, double-blind, placebo-controlled study. The study evaluated 234 adult patients with active rheumatoid arthritis who had failed therapy with at least one but no more than four disease-modifying antirheumatic drugs (DMARDs). Doses of 10 mg or 25 mg etanercept or placebo were administered subcutaneously twice a week for 6 consecutive months. The results of this controlled trial were expressed in percentage improvement in rheumatoid arthritis using American College of Rheumatology (ACR) response criteria.
+
+ACR 20 and 50 responses were higher in patients treated with etanercept at 3 and 6 months than in patients treated with placebo (ACR 20: etanercept 62% and 59%, placebo 23% and 11% at 3 and 6 months, respectively: ACR 50: etanercept 41% and 40%, placebo 8% and 5% at months 3 and 6, respectively; p&lt;0.01 etanercept vs. placebo at all timepoints for both ACR 20 and ACR 50 responses).
+
+Approximately 15% of subjects who received etanercept achieved an ACR 70 response at month 3 and month 6 compared to fewer than 5% of subjects in the placebo arm. Among patients receiving etanercept, the clinical responses generally appeared within 1 to 2 weeks after initiation of therapy and nearly always occurred by 3 months. A dose response was seen; results with 10 mg were intermediate between placebo and 25 mg. Etanercept was significantly better than placebo in all components of the ACR criteria, as well as other measures of rheumatoid arthritis disease activity not included in the ACR response criteria, such as morning stiffness. A Health Assessment Questionnaire (HAQ), which included disability, vitality, mental health, general health status, and arthritis-associated health status subdomains, was administered every 3 months during the trial. All subdomains of the HAQ were improved in patients treated with etanercept compared to controls at 3 and 6 months. After discontinuation of etanercept, symptoms of arthritis generally returned within a month. Reintroduction of treatment with etanercept after discontinuation of up to 24 months resulted in the same magnitudes of responses as patients who received etanercept without interruption of therapy based on results of open-label studies. Continued durable responses have been seen for up to 10 years in openlabel extension treatment trials when patients received etanercept without interruption.
+
+The efficacy of etanercept was compared to methotrexate in a randomised, active-controlled study with blinded radiographic evaluations as a primary endpoint in 632 adult patients with active rheumatoid arthritis (&lt;3 years duration) who had never received treatment with methotrexate. Doses of 10 mg or 25 mg etanercept were administered subcutaneously (SC) twice a week for up to 24 months. Methotrexate doses were escalated from 7.5 mg/week to a maximum of 20 mg/week over the first 8 weeks of the trial and continued for up to 24 months. Clinical improvement, including onset of action within 2 weeks with etanercept 25 mg, was similar to that seen in the previous trials and was maintained for up to 24 months. At baseline, patients had a moderate degree of disability, with mean HAQ scores of 1.4 to 1.5. Treatment with etanercept 25 mg resulted in substantial improvement at 12 months, with about 44% of patients achieving a normal HAQ score (less than 0.5). This benefit was maintained in Year 2 of this study.
+
+In this study, structural joint damage was assessed radiographically and expressed as change in Total Sharp Score (TSS) and its components, the erosion score and Joint Space Narrowing (JSN) score. Radiographs of hands/wrists and feet were read at baseline and 6, 12, and 24 months. The 10 mg etanercept dose had consistently less effect on structural damage than the 25 mg dose. Etanercept 25 mg was significantly superior to methotrexate for erosion scores at both 12 and 24 months. The differences in TSS and JSN were not statistically significant between methotrexate and etanercept 25 mg. The results are shown in the figure below.
+
+<div style=\"page-break-after: always\"></div>
+
+## Radiographic progression: comparison of etanercept vs. methotrexate in patients with RA of &lt;3 years duration
+
+<!-- image -->
+
+In another active-controlled, double-blind, randomised study, clinical efficacy, safety, and radiographic progression in RA patients treated with etanercept alone (25 mg twice weekly), methotrexate alone (7.5 to 20 mg weekly, median dose 20 mg), and the combination of etanercept and methotrexate initiated concurrently were compared in 682 adult patients with active rheumatoid arthritis of 6 months to 20 years duration (median 5 years) who had a less than satisfactory response to at least 1 disease-modifying antirheumatic drug (DMARD) other than methotrexate.
+
+Patients in the etanercept in combination with methotrexate therapy group had significantly higher ACR 20, ACR 50, ACR 0 responses and improvement for DAS and HAQ scores at both 24 and 52 weeks than patients in either of the single therapy groups (results shown in table below). Significant advantages for etanercept in combination with methotrexate compared with etanercept monotherapy and methotrexate monotherapy were also observed after 24 months.
+
+## Clinical efficacy results at 12 months: Comparison of etanercept vs. methotrexate vs. etanercept in combination with methotrexate in patients with RA of 6 months to 20 years duration
+
+| Endpoint   | Endpoint        | Methotrexate （n=228）   | Etanercept （n=223)   | Etanercept+ Methotrexate (n=231)   |
+|------------|-----------------|------------------------|----------------------|------------------------------------|
+| ACR        | ACR20           | 58.8%                  | 65.5%                | 74.5%f                             |
+| Responsesa | ACR50           | 36.4%                  | 43.0%                | 63.2%f                             |
+| Responsesa | ACR70           | 16.7%                  | 22.0%                | 39.8%                              |
+| DAS        | (Score)Baseline | 5.5                    | 5.7                  | 5.5                                |
+| DAS        | (Scoreb)Week52  | 3.0                    | 3.0                  | 2.3T.                              |
+| DAS        | Remission       | 14%                    | 18%                  | 370t                               |
+| HAQ        | Baseline        | 1.7                    | 1.7                  | 1.8                                |
+| HAQ        | Week52          | 1.1                    | 1.0                  | 0.8T                               |
+
+methotrexate andΦ=p&lt;0.05forcomparisonsofetanercept+methotrexatevs.etanercept.
+
+Radiographic progression at 12 months was significantly less in the etanercept group than in the methotrexate group, while the combination was significantly better than either monotherapy at slowing radiographic progression (see figure below).
+
+<div style=\"page-break-after: always\"></div>
+
+Radiographic Progression: Comparison of Etanercept vs. Methotrexate vs. Etanercept in Combination with Methotrexate in Patients with RA of 6 Months To 20 Years Duration (12 Month Results)
+
+<!-- image -->
+
+Pairwise comparison p-values:*=p&lt;0.05 for comparisons of etanercept vs.methotrexate,↑= p&lt;0.05forcomparisonsofetanercept+methotrexatevs.methotrexate andΦ=p&lt;0.05for comparisonsofetanercept+methotrexatevs.etanercept.
+
+Significant advantages for etanercept in combination with methotrexate compared with etanercept monotherapy and methotrexate monotherapy were also observed after 24 months. Similarly, the significant advantages for etanercept monotherapy compared with methotrexate monotherapy were also observed after 24 months.
+
+In an analysis in which all patients who dropped out of the study for any reason were considered to have progressed, the percentage of patients without progression (TSS change ≤ 0.5) at 24 months was higher in the etanercept in combination with methotrexate group compared with the etanercept alone and methotrexate alone groups (62%, 50%, and 36%, respectively; p&lt;0.05). The difference between etanercept alone and methotrexate alone was also significant (p&lt;0.05). Among patients who completed a full 24 months of therapy in the study, the non-progression rates were 78%, 70%, and 61%, respectively.
+
+The safety and efficacy of 50 mg etanercept (two 25 mg SC injections) administered once weekly were evaluated in a double-blind, placebo-controlled study of 420 patients with active RA. In this study, 53 patients received placebo, 214 patients received 50 mg etanercept once weekly and 153 patients received 25 mg etanercept twice weekly. The safety and efficacy profiles of the two etanercept treatment regimens were comparable at week 8 in their effect on signs and symptoms of RA; data at week 16 did not show comparability (non-inferiority) between the two regimens.
+
+## Adult patients with psoriatic arthritis
+
+The efficacy of etanercept was assessed in a randomised, double-blind, placebo-controlled study in 205 patients with psoriatic arthritis. Patients were between 18 and 70 years of age and had active psoriatic arthritis (≥3 swollen joints and ≥3 tender joints) in at least one of the following forms: (1) distal interphalangeal (DIP) involvement; (2) polyarticular arthritis (absence of rheumatoid nodules and presence of psoriasis); (3) arthritis mutilans; (4) asymmetric psoriatic arthritis; or (5) spondylitis like ankylosis. Patients also had plaque psoriasis with a qualifying target lesion ≥2 cm in diameter.
+
+<div style=\"page-break-after: always\"></div>
+
+Patients had previously been treated with NSAIDs (86%), DMARDs (80%), and corticosteroids (24%). Patients currently on methotrexate therapy (stable for ≥2 months) could continue at a stable dose of ≤25 mg/week methotrexate. Doses of 25 mg of etanercept (based on dose-finding studies in patients with rheumatoid arthritis) or placebo were administered SC twice a week for 6 months. At the end of the double-blind study, patients could enter a long-term open-label extension study for a total duration of up to 2 years.
+
+Clinical responses were expressed as percentages of patients achieving the ACR 20, 50, and 70 response and percentages with improvement in Psoriatic Arthritis Response Criteria (PsARC). Results are summarised in the table below.
+
+## Responses of patients with psoriatic arthritis in a placebo-controlled trial
+
+|                              |                              | PercentofPatients   | PercentofPatients   |
+|------------------------------|------------------------------|---------------------|---------------------|
+| Psoriatic Arthritis Response | Psoriatic Arthritis Response | Placebo n =104      | Etanercept' n=101   |
+| ACR 20                       | Month 3                      | 15                  | 59b                 |
+|                              | Month 6                      | 13                  | 50b                 |
+| ACR 50                       | Month 3                      | 4                   | 386                 |
+|                              | Month 6                      | 4                   | 37b                 |
+| ACR 70                       | Month 3                      | 0                   | 11b                 |
+|                              | Month 6                      | 1                   | 9c                  |
+| PsARC                        | Month 3                      | 31                  | 72b                 |
+|                              | Month 6                      | 23                  | 70b                 |
+
+Among patients with psoriatic arthritis who received etanercept, the clinical responses were apparent at the time of the first visit (4 weeks) and were maintained through 6 months of therapy. Etanercept was significantly better than placebo in all measures of disease activity (p&lt;0.001), and responses were similar with and without concomitant methotrexate therapy. Quality of life in psoriatic arthritis patients was assessed at every timepoint using the disability index of the HAQ. The disability index score was significantly improved at all timepoints in psoriatic arthritis patients treated with etanercept, relative to placebo (p&lt;0.001).
+
+Radiographic changes were assessed in the psoriatic arthritis study. Radiographs of hands and wrists were obtained at baseline and months 6, 12, and 24. The modified TSS at 12 months is presented in the table below. In an analysis in which all patients who dropped out of the study for any reason were considered to have progressed, the percentage of patients without progression (TSS change ≤ 0.5) at 12 months was higher in the etanercept group compared with the placebo group (73% vs. 47%, respectively, p ≤ 0.001). The effect of etanercept on radiographic progression was maintained in patients who continued on treatment during the second year. The slowing of peripheral joint damage was observed in patients with polyarticular symmetrical joint involvement.
+
+## Mean (SE) annualized change from baseline in total sharp score
+
+| Time     | Placebo (n =104)   | Etanercept (n =101)   |
+|----------|--------------------|-----------------------|
+| Month 12 | 1.00 (0.29)        | -0.03 (0.09)          |
+
+SE=standard error
+
+a  p=0.0001
+
+Etanercept treatment resulted in improvement in physical function during the double-blind period, and this benefit was maintained during the longer-term exposure of up to 2 years.
+
+<div style=\"page-break-after: always\"></div>
+
+There is insufficient evidence of the efficacy of etanercept in patients with ankylosing spondylitis-like and arthritis mutilans psoriatic arthropathies due to the small number of patients studied.
+
+No study has been performed in patients with psoriatic arthritis using the 50 mg once-weekly dosing regimen. Evidence of efficacy for the once-weekly dosing regimen in this patient population has been based on data from the study in patients with ankylosing spondylitis.
+
+## Adult patients with ankylosing spondylitis
+
+The efficacy of etanercept in ankylosing spondylitis was assessed in 3 randomised, double-blind studies comparing twice-weekly administration of 25 mg etanercept with placebo. A total of 401 patients were enrolled, from which 203 were treated with etanercept. The largest of these trials (n=277) enrolled patients who were between 18 and 70 years of age and had active ankylosing spondylitis defined as visual analogue scale (VAS) scores of ≥ 30 for average of duration and intensity of morning stiffness plus VAS scores of ≥ 30 for at least 2 of the following 3 parameters: patient global assessment; average of VAS values for nocturnal back pain and total back pain; average of 10 questions on the Bath Ankylosing Spondylitis Functional Index (BASFI). Patients receiving DMARDs, NSAIDS, or corticosteroids could continue them on stable doses. Patients with complete ankylosis of the spine were not included in the study. Doses of 25 mg of etanercept (based on dosefinding studies in patients with rheumatoid arthritis) or placebo were administered subcutaneously twice a week for 6 months in 138 patients.
+
+The primary measure of efficacy (ASAS 20) was a ≥ 20% improvement in at least 3 of the 4 Assessment in Ankylosing Spondylitis (ASAS) domains (patient global assessments, back pain, BASFI, and inflammation) and absence of deterioration in the remaining domain. ASAS 50 and 70 responses used the same criteria with a 50% improvement or a 70% improvement, respectively.
+
+Compared to placebo, treatment with etanercept resulted in significant improvements in the ASAS 20, ASAS 50 and ASAS 70 as early as 2 weeks after the initiation of therapy.
+
+## Responses of patients with ankylosing spondylitis in a placebo-controlled trial
+
+|                                 | Percent of Patients   | Percent of Patients   |
+|---------------------------------|-----------------------|-----------------------|
+| Ankylosing Spondylitis Response | Placebo n =139        | Etanercept n =138     |
+| ASAS 20                         |                       |                       |
+| 2 weeks                         | 22                    | 46a                   |
+| 3 months                        | 27                    | :09                   |
+| 6 months                        | 23                    | 58a                   |
+| ASAS 50                         |                       |                       |
+| 2 weeks                         | 7                     | 24a                   |
+| 3 months                        | 13                    | 45a                   |
+| 6 months                        | 10                    | 42a                   |
+| ASAS 70                         |                       |                       |
+| 2 weeks                         | 2                     | 126                   |
+| 3 months                        | 7                     | 296                   |
+| 6 months                        | 5                     | 28b                   |
+
+Among patients with ankylosing spondylitis who received etanercept, the clinical responses were apparent at the time of the first visit (2 weeks) and were maintained through 6 months of therapy. Responses were similar in patients who were or were not receiving concomitant therapies at baseline.
+
+Similar results were obtained in the 2 smaller ankylosing spondylitis trials.
+
+In a fourth study, the safety and efficacy of 50 mg etanercept (two 25 mg SC injections) administered once weekly vs. 25 mg etanercept administered twice weekly were evaluated in a double-blind,
+
+<div style=\"page-break-after: always\"></div>
+
+placebo-controlled study of 356 patients with active ankylosing spondylitis. The safety and efficacy profiles of the 50 mg once-weekly and 25 mg twice-weekly regimens were similar.
+
+Adult patients with non-radiographic axial spondyloarthritis
+
+## Study 1
+
+The efficacy of etanercept in patients with non-radiographic axial spondyloarthritis (nr-AxSpa) was assessed in a randomised, 12-week double-blind, placebo-controlled study. The study evaluated 215 adult patients (modified intent-to-treat population) with active nr-AxSpa (18 to 49 years of age), defined as those patients meeting the ASAS classification criteria of axial spondyloarthritis but did not meet the modified New York criteria for AS. Patients were also required to have an inadequate response or intolerance to two or more NSAIDs. In the double-blind period, patients received etanercept 50 mg weekly or placebo for 12 weeks. The primary measure of efficacy (ASAS 40) was a 40% improvement in at least three of the four ASAS domains and absence of deterioration in the remaining domain. The double-blind period was followed by an open-label period during which all patients receive etanercept 50 mg weekly for up to an additional 92 weeks. MRIs of the sacroiliac joint and spine were obtained to assess inflammation at baseline and at weeks 12 and 104.
+
+Compared to placebo, treatment with etanercept resulted in statistically significant improvement in the ASAS 40, ASAS 20 and ASAS 5/6. Significant improvement was also observed for the ASAS partial remission and BASDAI 50. Week 12 results are shown in the table below.
+
+## Efficacy response in placebo-controlled nr-AxSpa study: Percent of patients achieving endpoints
+
+| Double-BlindClinical ResponsesatWeek12   |   Placebo n=106to109* | Etanercept n=103to105*   |
+|------------------------------------------|-----------------------|--------------------------|
+| ASAS**40                                 |                  15.7 | 32.4b                    |
+| ASAS20                                   |                  36.1 | 52.4                     |
+| ASAS5/6                                  |                  10.4 | 33.0                     |
+| ASASpartialremission                     |                  11.9 | 24.8                     |
+| BASDAI***50                              |                  23.9 | 43.86                    |
+
+At week 12, there was a statistically significant improvement in the SPARCC (Spondyloarthritis Research Consortium of Canada) score for the sacroiliac joint (SIJ) as measured by MRI for patients receiving etanercept. Adjusted mean change from baseline was 3.8 for etanercept treated (n=95) versus 0.8 for placebo treated (n=105) patients (p&lt;0.001). At week 104, the mean change from baseline in the SPARCC score measured on MRI for all etanercept-treated subjects was 4.64 for the SIJ (n=153) and 1.40 for the spine (n=154).
+
+Etanercept showed statistically significantly greater improvement from baseline to week 12 compared to placebo in most health-related quality of life and physical function assessments, including BASFI (Bath Ankylosing Spondylitis Functional Index), EuroQol 5D Overall Health State Score and SF-36 Physical Component Score.
+
+Clinical responses among nr-AxSpa patients who received etanercept were apparent at the time of the first visit (2 weeks) and were maintained through 2 years of therapy. Improvements in health-related quality of life and physical function were also maintained through 2 years of therapy. The 2-year data did not reveal any new safety findings. At week 104, 8 subjects had progressed to a score of bilateral Grade 2 on spinal X-ray according to the modified New York Radiological Grade, indicative of axial spondyloarthropathy.
+
+<div style=\"page-break-after: always\"></div>
+
+## Study 2
+
+This multi-center, open-label, phase 4, 3-period study evaluated the withdrawal and retreatment of etanercept in patients with active nr-AxSpa who achieved an adequate response (inactive disease defined as Ankylosing Spondylitis Disease Activity Score (ASDAS) C-reactive protein (CRP) less than 1.3) following 24 weeks of treatment.
+
+209 adult patients with active nr-AxSpa (18 to 49 years of age), defined as those patients meeting the Assessment of SpondyloArthritis International Society (ASAS) classification criteria of axial spondyloarthritis (but not meeting the modified New York criteria for AS), having positive MRI findings (active inflammation on MRI highly suggestive of sacroiliitis associated with SpA) and/or positive hsCRP (defined as high sensitivity C-reactive protein [hsCRP] &gt;3 mg/l), and active symptoms defined by an ASDAS CRP greater than or equal to 2.1 at the screening visit received open-label etanercept 50 mg weekly plus stable background NSAID at the optimal tolerated anti-inflammatory dosage for 24 weeks in Period 1. Patients were also required to have an inadequate response or intolerance to two or more NSAIDs. At week 24, 119 (57%) patients achieved inactive disease and entered into the Period 2 40-week withdrawal phase where subjects discontinued etanercept, yet maintained the background NSAID. The primary measure of efficacy was the occurrence of flare (defined as an ASDAS erythrocyte sedimentation rate (ESR) greater than or equal to 2.1) within 40 weeks following withdrawal of etanercept. Patients who flared were retreated with etanercept 50 mg weekly for 12 weeks (Period 3).
+
+In Period 2, the proportion of patients experiencing ≥1 flare increased from 22% (25/112) at week 4 to 67% (77/115) at week 40. Overall, 75% (86/115) patients experienced a flare at any time point within 40 weeks following withdrawal of etanercept.
+
+The key secondary objective of Study 2 was to estimate time to flare after withdrawal of etanercept and additionally compare the time to flare to patients from Study 1 who met the Study 2 withdrawal phase entry requirements and continued etanercept therapy.
+
+The median time to flare following withdrawal of etanercept was 16 weeks (95% CI: 1324 weeks). Less than 25% of patients in Study 1 who did not have treatment withdrawn experienced a flare over the equivalent 40-weeks as in Period 2 Study 2. The time to flare was statistically significantly shorter in subjects who discontinued etanercept treatment (Study 2) compared to subjects who received continuous etanercept treatment (Study 1), p&lt;0.0001.
+
+Of the 87 patients who entered Period 3 and were retreated with etanercept 50 mg weekly for 12 weeks, 62% (54/87) reachieved inactive disease, with 50% of them reachieving it within 5 weeks (95% CI: 4-8 weeks).
+
+## Adult patients with plaque psoriasis
+
+Etanercept is recommended for use in patients as defined in section 4.1. Patients who 'failed to respond to' in the target population is defined by insufficient response (PASI&lt;50 or PGA less than good), or worsening of the disease while on treatment, and who were adequately dosed for a sufficiently long duration to assess response with at least one of the three major systemic therapies as available.
+
+The efficacy of etanercept versus other systemic therapies in patients with moderate to severe psoriasis (responsive to other systemic therapies) has not been evaluated in studies directly comparing etanercept with other systemic therapies. Instead, the safety and efficacy of etanercept were assessed in four randomised, double-blind, placebo-controlled studies. The primary efficacy endpoint in all four studies was the proportion of patients in each treatment group who achieved the PASI 75 (i.e., at least a 75% improvement in the Psoriasis Area and Severity Index score from baseline) at 12 weeks.
+
+Study 1 was a Phase 2 study in patients with active, but clinically stable, plaque psoriasis involving ≥ 10% of the body surface area who were ≥18 years old. One hundred and twelve (112) patients were randomised to receive a dose of 25 mg of etanercept (n=57) or placebo (n=55) twice a week for 24 weeks.
+
+<div style=\"page-break-after: always\"></div>
+
+Study 2 evaluated 652 patients with chronic plaque psoriasis using the same inclusion criteria as study 1 with the addition of a minimum psoriasis area and severity index (PASI) of 10 at screening. Etanercept was administered at doses of 25 mg once a week, 25 mg twice a week or 50 mg twice a week for 6 consecutive months. During the first 12 weeks of the double-blind treatment period, patients received placebo or one of the above three etanercept doses. After 12 weeks of treatment, patients in the placebo group began treatment with blinded etanercept (25 mg twice a week); patients in the active treatment groups continued to week 24 on the dose to which they were originally randomised.
+
+Study 3 evaluated 583 patients and had the same inclusion criteria as study 2. Patients in this study received a dose of 25 mg or 50 mg etanercept, or placebo twice a week for 12 weeks and then all patients received open-label 25 mg etanercept twice weekly for an additional 24 weeks.
+
+Study 4 evaluated 142 patients and had similar inclusion criteria to studies 2 and 3. Patients in this study received a dose of 50 mg etanercept or placebo once weekly for 12 weeks and then all patients received open-label 50 mg etanercept once weekly for an additional 12 weeks.
+
+In study 1, the etanercept-treated group had a significantly higher proportion of patients with a PASI 75 response at week 12 (30%) compared to the placebo-treated group (2%) (p&lt;0.0001). At 24 weeks, 56% of patients in the etanercept-treated group had achieved the PASI 75 compared to 5% of placebotreated patients. Key results of studies 2, 3 and 4 are shown below.
+
+## Responses of patients with psoriasis in studies 2, 3 and 4
+
+|                             | Study2   | Study2     | Study2     | Study2     | Study2     | Study3   | Study3     | Study3     | Study4   | Study4     | Study4     |
+|-----------------------------|----------|------------|------------|------------|------------|----------|------------|------------|----------|------------|------------|
+|                             | Placebo  | Etanercept | Etanercept | Etanercept | Etanercept | Placebo  | Etanercept | Etanercept | Placebo  | Etanercept | Etanercept |
+| Response                    | Placebo  | 25mg BIW   | 25mg BIW   | 50mgBIW    | 50mgBIW    | Placebo  | 25mg BIW   | 50mg BIW   | Placebo  | 50mg QW    | 50mg QW    |
+| (%)                         | n=166    | n= 162     | n= 162     | n= 164     | n= 164     | n=193    | n= 196     | n= 196     | n=46     | n= 96      | n= 90      |
+|                             | wk12     | wk 12      | wk 24a     | wk 12      | wk 24a     | wk12     | wk12       | wk12       | wk12     | wk12       | wk 24a     |
+| PASI50                      | 14       | 58         | 70         | 74         | 77         | 9        | 64         | 77*        | 6        | 69         | 83         |
+| PASI75                      | 4        | 34         | 44         | 49         | 59         | 3        | 34         | 49°        | 2        | 38         | 71         |
+| DSGA', clearor almost clear | 5        | 34         | 39         | 49*        | 55         | 4        | 39°        | 57°        | 4        | 39*        | 64         |
+
+Nostatisticalcomparisonstoplaceboweremadeatweek24in studies2and4becausetheoriginal p≤0.oo01comparedwithplacebo
+
+placebogroupbeganreceivingetanercept 25mgBIWor50mgonceweeklyfromweek13 toweek24.
+
+Dermatologist Static Global Assessment. Clear or almost clear defined as 0 or 1 on a 0 to 5 scale.
+
+Among patients with plaque psoriasis who received etanercept, significant responses relative to placebo were apparent at the time of the first visit (2 weeks) and were maintained through 24 weeks of therapy.
+
+Study 2 also had a drug withdrawal period during which patients who achieved a PASI improvement of at least 50% at week 24 had treatment stopped. Patients were observed off treatment for the occurrence of rebound (PASI ≥ 150% of baseline) and for the time to relapse (defined as a loss of at least half of the improvement achieved between baseline and week 24). During the withdrawal period, symptoms of psoriasis gradually returned, with a median time to disease relapse of 3 months. No rebound flare of disease and no psoriasis-related serious adverse events were observed. There was some evidence to support a benefit of re-treatment with etanercept in patients initially responding to treatment.
+
+In study 3, the majority of patients (77%) who were initially randomised to 50 mg twice weekly and had their etanercept dose decreased at week 12 to 25 mg twice weekly maintained their PASI 75
+
+<div style=\"page-break-after: always\"></div>
+
+response through week 36. For patients who received 25 mg twice weekly throughout the study, the PASI 75 response continued to improve between weeks 12 and 36.
+
+In study 4, the etanercept-treated group had a higher proportion of patients with PASI 75 at week 12 (38%) compared to the placebo-treated group (2%) (p&lt;0.0001). For patients who received 50 mg once weekly throughout the study, the efficacy responses continued to improve with 71% achieving PASI 75 at week 24.
+
+In long-term (up to 34 months) open-label studies where etanercept was given without interruption, clinical responses were sustained and safety was comparable to shorter-term studies.
+
+An analysis of clinical trial data did not reveal any baseline disease characteristics that would assist clinicians in selecting the most appropriate dosing option (intermittent or continuous). Consequently, the choice of intermittent or continuous therapy should be based upon physician judgment and individual patient needs.
+
+## Antibodies to etanercept
+
+Antibodies to etanercept have been detected in the sera of some subjects treated with etanercept. These antibodies have generally been non-neutralising and transient. There appears to be no correlation between antibody development and clinical response or adverse events.
+
+## Paediatric population
+
+## Paediatric patients with juvenile idiopathic arthritis
+
+The safety and efficacy of etanercept were assessed in a two-part study in 69 children with polyarticular-course juvenile idiopathic arthritis who had a variety of juvenile idiopathic arthritis onset types (polyarthritis, pauciarthritis, systemic onset). Patients aged 4 to 17 years with moderately to severely active polyarticular course juvenile idiopathic arthritis refractory to, or intolerant of, methotrexate were enrolled; patients remained on a stable dose of a single nonsteroidal antiinflammatory drug and/or prednisone (&lt;0.2 mg/kg/day or 10 mg maximum). In part 1, all patients received 0.4 mg/kg (maximum 25 mg per dose) etanercept subcutaneously twice weekly. In part 2, patients with a clinical response at day 90 were randomised to remain on etanercept or receive placebo for four months and assessed for disease flare. Responses were measured using the ACR Pedi 30, defined as ≥ 30% improvement in at least three of six and ≥ 30% worsening in no more than one of six JRA core set criteria, including active joint count, limitation of motion, physician and patient/parent global assessments, functional assessment, and erythrocyte sedimentation rate (ESR). Disease flare was defined as a ≥ 30% worsening in three of six JRA core set criteria and ≥ 30% improvement in not more than one of the six JRA core set criteria and a minimum of two active joints.
+
+In part 1 of the study, 51 of 69 (74%) patients demonstrated a clinical response and entered part 2. In part 2, 6 of 25 (24%) patients remaining on etanercept experienced a disease flare compared to 20 of 26 (77%) patients receiving placebo (p=0.007). From the start of part 2, the median time to flare was ≥ 116 days for patients who received etanercept and 28 days for patients who received placebo. Of patients who demonstrated a clinical response at 90 days and entered part 2 of the study, some of the patients remaining on etanercept continued to improve from month 3 through month 7, while those who received placebo did not improve.
+
+In an open-label, safety extension study, 58 paediatric patients from the above study (from the age of 4 years at time of enrolment) continued to receive etanercept for up to 10 years. Rates of serious adverse events and serious infections did not increase with long-term exposure.
+
+Long-term safety of etanercept monotherapy (n=103), etanercept plus methotrexate (n=294), or methotrexate monotherapy (n=197) were assessed for up to 3 years in a registry of 594 children aged 2 to 18 years with juvenile idiopathic arthritis, 39 of whom were 2 to 3 years of age. Overall, infections were more commonly reported in patients treated with etanercept compared to methotrexate alone (3.8 versus 2%), and the infections associated with etanercept use were of a more severe nature.
+
+<div style=\"page-break-after: always\"></div>
+
+In another open-label single-arm study (n=127), 60 patients with extended oligoarthritis (EO) (15 patients aged 2 to 4, 23 patients aged 5 to 11 and 22 patients aged 12 to 17 years old), 38 patients with enthesitis-related arthritis (12 to 17 years old), and 29 patients with psoriatic arthritis (12 to 17 years old) were treated with etanercept at a dose of 0.8 mg/kg (up to a maximum of 50 mg per dose) administered weekly for 12 weeks. In each of the JIA subtypes, the majority of patients met ACR Pedi 30 criteria and demonstrated clinical improvement in secondary endpoints such as number of tender joints and physician global assessment. The safety profile was consistent with that observed in other JIA studies.
+
+Of the 127 patients in the parent study, 109 participated in the open-label extension study and were followed for an additional 8 years for a total of up to 10 years. At the end of the extension study, 84/109 (77%) patients had completed the study; 27 (25%) while actively taking etanercept, 7 (6%) had withdrawn from treatment due to low/inactive disease; 5 (5%) had re-started etanercept following an earlier withdrawal from treatment; and 45 (41%) had stopped etanercept (but remained under observation); 25/109 (23%) patients permanently discontinued from the study. Improvements in clinical status achieved in the parent study were generally maintained for all efficacy endpoints during the entire follow-up period. Patients actively taking etanercept could enter an optional withdrawalretreatment period once during the extension study based on investigator's judgement of clinical response. 30 patients entered the withdrawal period. 17 patients were reported to have a flare (defined as ≥ 30% worsening in at least 3 of the 6 ACR Pedi components with ≥ 30% improvement in not more than 1 of the remaining 6 components and a minimum of 2 active joints); median time to flare after etanercept withdrawal was 190 days. 13 patients were re-treated and the median time to re-treatment from withdrawal was estimated as 274 days. Due to the small number of data points, these results should be interpreted with caution.
+
+The safety profile was consistent with that observed in the parent study.
+
+Studies have not been done in patients with juvenile idiopathic arthritis to assess the effects of continued etanercept therapy in patients who do not respond within 3 months of initiating etanercept therapy. Additionally, studies have not been conducted to assess the effects of reducing the recommended dose of etanercept following its long-term use in patients with JIA.
+
+## Paediatric patients with plaque psoriasis
+
+The efficacy of etanercept was assessed in a randomised, double-blind, placebo-controlled study in 211 paediatric patients aged 4 to 17 years with moderate to severe plaque psoriasis (as defined by an sPGA score ≥ 3, involving ≥ 10% of the BSA, and PASI ≥ 12). Eligible patients had a history of receiving phototherapy or systemic therapy or were inadequately controlled on topical therapy.
+
+Patients received etanercept 0.8 mg/kg (up to 50 mg) or placebo once weekly for 12 weeks. At week 12, more patients randomised to etanercept had positive efficacy responses (e.g., PASI 75) than those randomised to placebo.
+
+## Paediatric Plaque Psoriasis Outcomes at 12 Weeks
+
+|                            | Etanercept 0.8mg/kgOnce Weekly N=106)   | Placebo (N=105)   |
+|----------------------------|-----------------------------------------|-------------------|
+| PASI75,n(%)                | 60(57%)a                                | 12(11%)           |
+| PASI50,n(%)                | 79(75%)a                                | 24(23%)           |
+| sPGA\"clearor\"minimal\",n(%) | 56(53%)a                                | 14(13%)           |
+
+Abbreviation:sPGA-staticPhysician GlobalAssessment
+
+E p&lt;0.0001comparedwithplacebo
+
+After the 12-week double-blind treatment period, all patients received etanercept 0.8 mg/kg (up to 50 mg) once weekly for additional 24 weeks. Responses observed during the open-label period were similar to those observed in the double-blind period.
+
+<div style=\"page-break-after: always\"></div>
+
+During a randomised withdrawal period, significantly more patients re-randomised to placebo experienced disease relapse (loss of PASI 75 response) compared with patients re-randomised to etanercept. With continued therapy, responses were maintained up to 48 weeks.
+
+The long-term safety and effectiveness of etanercept 0.8 mg/kg (up to 50 mg) once weekly was assessed in an open-label extension study of 181 paediatric subjects with plaque psoriasis for up to 2 years beyond the 48 week study discussed above. Long-term experience with etanercept was generally comparable to the original 48-week study and did not reveal any new safety findings.
+
+## 5.2 Pharmacokinetic properties
+
+Etanercept serum values were determined by an Enzyme-Linked Immunosorbent Assay (ELISA) method, which may detect ELISA-reactive degradation products, as well as the parent compound.
+
+## Absorption
+
+Etanercept is slowly absorbed from the site of subcutaneous injection, reaching maximum concentration approximately 48 hours after a single dose. The absolute bioavailability is 76%. With twice-weekly doses, it is anticipated that steady-state concentrations are approximately twice as high as those observed after single doses. After a single subcutaneous dose of 25 mg etanercept, the average maximum serum concentration observed in healthy volunteers was 1.65±0.66 μg/ml, and the area under the curve was 235±96.6 μg × hr/ml. Mean serum concentration profiles at steady state in treated RA patients were Cmax of 2.4 mg/l vs. 2.6 mg/l, Cmin of 1.2 mg/l vs. 1.4 mg/l, and partial AUC of 297 mg × hr/l vs. 316 mg × hr/l for 50 mg etanercept once weekly (n=21) vs. 25 mg etanercept twice weekly (n=16), respectively. In an open-label, single-dose, two-treatment, crossover study in healthy volunteers, etanercept administered as a single 50 mg/ml injection was found to be bioequivalent to two simultaneous injections of 25 mg/ml.
+
+In a population pharmacokinetics analysis in ankylosing spondylitis patients, the etanercept steady state AUCs were 466 μg × hr/ml and 474 μg × hr/ml for 50 mg etanercept once weekly (n=154) and 25 mg twice weekly (n=148), respectively.
+
+## Distribution
+
+A biexponential curve is required to describe the concentration time curve of etanercept. The central volume of distribution of etanercept is 7.6 L, while the volume of distribution at steady-state is 10.4 L.
+
+## Elimination
+
+Etanercept is cleared slowly from the body. The half-life is long, approximately 70 hours. Clearance is approximately 0.066 l/hr in patients with rheumatoid arthritis, somewhat lower than the value of 0.11 L/hr observed in healthy volunteers. Additionally, the pharmacokinetics of etanercept in rheumatoid arthritis patients, ankylosing spondylitis and plaque psoriasis patients are similar.
+
+There is no apparent pharmacokinetic difference between males and females.
+
+## Linearity
+
+Dose proportionality has not been formally evaluated, but there is no apparent saturation of clearance across the dosing range.
+
+<div style=\"page-break-after: always\"></div>
+
+## Special populations
+
+## Renal impairment
+
+Although there is elimination of radioactivity in urine after administration of radiolabelled etanercept to patients and volunteers, increased etanercept concentrations were not observed in patients with acute renal failure. The presence of renal impairment should not require a change in dosage.
+
+## Hepatic impairment
+
+Increased etanercept concentrations were not observed in patients with acute hepatic failure. The presence of hepatic impairment should not require a change in dosage.
+
+## Elderly
+
+The impact of advanced age was studied in the population pharmacokinetic analysis of etanercept serum concentrations. Clearance and volume estimates in patients aged 65 to 87 years were similar to estimates in patients less than 65 years of age.
+
+## Paediatric population
+
+## Paediatric patients with juvenile idiopathic arthritis
+
+In a polyarticular-course juvenile idiopathic arthritis trial with etanercept, 69 patients (aged 4 to 17 years) were administered 0.4 mg etanercept/kg twice weekly for three months. Serum concentration profiles were similar to those seen in adult rheumatoid arthritis patients. The youngest children (4 years of age) had reduced clearance (increased clearance when normalised by weight) compared with older children (12 years of age) and adults.  Simulation of dosing suggests that while older children (10-17 years of age) will have serum levels close to those seen in adults, younger children will have appreciably lower levels.
+
+## Paediatric patients with plaque psoriasis
+
+Patients with paediatric plaque psoriasis (aged 4 to 17 years) were administered 0.8 mg/kg (up to a maximum dose of 50 mg per week) of etanercept once weekly for up to 48 weeks. The mean serum steady-state trough concentrations ranged from 1.6 to 2.1 mcg/ml at weeks 12, 24, and 48. These mean concentrations in patients with paediatric plaque psoriasis were similar to the concentrations observed in patients with juvenile idiopathic arthritis (treated with 0.4 mg/kg etanercept twice weekly, up to maximum dose of 50 mg per week). These mean concentrations were similar to those seen in adult patients with plaque psoriasis treated with 25 mg etanercept twice-weekly.
+
+## 5.3 Preclinical safety data
+
+In the toxicological studies with etanercept, no dose-limiting or target organ toxicity was evident. Etanercept was considered to be non-genotoxic from a battery of in vitro and in vivo studies. Carcinogenicity studies, and standard assessments of fertility and postnatal toxicity, were not performed with etanercept due to the development of neutralising antibodies in rodents.
+
+Etanercept did not induce lethality or notable signs of toxicity in mice or rats following a single subcutaneous dose of 2,000 mg/kg or a single intravenous dose of 1,000 mg/kg. Etanercept did not elicit dose-limiting or target organ toxicity in cynomolgus monkeys following twice weekly subcutaneous administration for 4 or 26 consecutive weeks at a dose (15 mg/kg) that resulted in AUCbased serum drug concentrations that were over 27-fold higher than that obtained in humans at the recommended dose of 25 mg.
+
+<div style=\"page-break-after: always\"></div>
+
+## 6. PHARMACEUTICAL PARTICULARS
+
+## 6.1 List of excipients
+
+Sodium citrate Sodium dihydrogen phosphate dihydrate Glycine Sucrose Sodium chloride Water for injections
+
+## 6.2 Incompatibilities
+
+In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
+
+## 6.3 Shelf life
+
+3 years.
+
+## 6.4 Special precautions for storage
+
+Store in a refrigerator (2°C - 8°C).
+
+Do not freeze.
+
+Keep the pre-filled syringes or pens in the outer carton in order to protect from light. Nepexto may be stored at temperatures up to a maximum of 25°C for a single period of up to four weeks; after which, it should not be refrigerated again. Nepexto should be discarded if not used within four weeks of removal from refrigeration.
+
+## 6.5 Nature and contents of container
+
+Nepexto 25 mg solution for injection in pre-filled syringe
+
+The syringe is made from clear type 1 glass with a stainless steel 27-gauge needle with rigid needle shield and FluroTec coated bromobutyl rubber stopper containing 0.5 ml of solution. Nepexto is available in packs containing 4 pre-filled syringes, packs containing 12 pre-filled syringes, multipack containing 8 pre-filled syringes (2 packs of 4 pre-filled syringes)  and multipack containing 24 pre-filled syringes (2 packs of 12 pre-filled syringes). Not all pack sizes may be marketed.
+
+Nepexto 50 mg solution for injection in pre-filled syringe
+
+The syringe is made from clear type 1 glass with a stainless steel 27-gauge needle with rigid needle shield and FluroTec coated bromobutyl rubber stopper, containing 1 ml of solution. Nepexto is available in packs containing 4 pre-filled syringes and packs containing 12 pre-filled syringes.
+
+Not all pack sizes may be marketed.
+
+Nepexto 50 mg solution for injection in pre-filled pen
+
+Pre-filled pen containing a pre-filled syringe of Nepexto. The syringe inside the pen is made from clear type 1 glass with a stainless steel 27 gauge needle with rigid needle shield and FluroTec coated bromobutyl rubber stopper, containing 1 ml of solution.
+
+Nepexto is available in packs containing 4 pre-filled pens and packs containing 12 pre-filled pens. Not all pack sizes may be marketed.
+
+<div style=\"page-break-after: always\"></div>
+
+## 6.6 Special precautions for disposal and other handling
+
+## 25 mg solution for injection in pre-filled syringe and 50 mg solution for injection in pre-filled syringe
+
+Before injection, Nepexto single-use pre-filled syringe should be allowed to reach room temperature (approximately 30 minutes). The solution should not be warmed in any other way. Immediate use is then recommended. The needle cover should not be removed while allowing the pre-filled syringe to reach room temperature. The solution should be clear to opalescent, colourless to yellow and may contain small translucent or white particles of protein.
+
+Comprehensive instructions for administration are given in the package leaflet, section 7, 'Instructions for use'.
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+## 50 mg solution for injection in pre-filled pen
+
+Before injection, Nepexto single-use pre-filled pens should be allowed to reach room temperature (approximately 30 minutes). The needle cover should not be removed while allowing the pre-filled pen to reach room temperature. By looking though, the inspection window, the solution should be clear to opalescent, colourless to yellow and may contain small translucent or white particles of protein.
+
+Comprehensive instructions for administration are given in the package leaflet, section 7, 'Instructions for use'.
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13 DUBLIN Ireland D13 R20R
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/20/1436/001 EU/1/20/1436/002 EU/1/20/1436/003 EU/1/20/1436/004 EU/1/20/1436/005 EU/1/20/1436/006 EU/1/20/1436/007 EU/1/20/1436/008
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 20 May 2020 Date of latest renewal:
+
+<div style=\"page-break-after: always\"></div>
+
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX II
+
+- A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+<div style=\"page-break-after: always\"></div>
+
+## A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
+
+Name and address of the manufacturer of the biological active substance
+
+Lupin Limited (Biotech Division) Gat No. 1156, 1157, 1158, 1159 and 1160, Village Ghotawade, Taluka Mulshi, Dist. Pune - 412 115,
+
+Maharashtra, India
+
+## Name and address of the manufacturer responsible for batch release
+
+Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+Medicinal product subject to restricted medical prescription (see Annex I: Summary of Product Characteristics, section 4.2).
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
+## · Periodic safety update reports (PSURs)
+
+The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+## · Risk management plan (RMP)
+
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
+
+<div style=\"page-break-after: always\"></div>
+
+An updated RMP should be submitted:
+
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+
+## · Additional risk minimisation measures
+
+Prior to the use of etanercept in each Member State, the Marketing Authorisation Holder (MAH) must agree about the content and format of the educational programme, including communication media, distribution modalities, and any other aspects of the programme, with the National Competent Authority.
+
+The educational programme is aimed at reducing the risk of serious infections and congestive heart failure.
+
+The MAH shall ensure that in each Member State where etanercept is marketed, all healthcare professionals who are expected to prescribe etanercept have access to/are provided with the following educational materials:
+
+## Patient Card
+
+- Etanercept treatment may increase the risk of infection and congestive heart failure in adults
+- Signs or symptoms of these safety concerns and when to seek attention from a healthcare professional
+- Contact details of the etanercept prescriber.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX III
+
+## LABELLING AND PACKAGE LEAFLET
+
+<div style=\"page-break-after: always\"></div>
+
+## A. LABELLING
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## CARTON FOR PRE-FILLED SYRINGES 25 MG - PACKS OF 4 AND 12
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Nepexto 25 mg solution for injection in pre-filled syringe. etanercept
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each pre-filled syringe contains 25 mg etanercept
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: sodium citrate, sodium dihydrogen phosphate dihydrate, glycine, sucrose, sodium chloride and water for injections.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection
+
+4 pre-filled syringes
+
+12 pre-filled syringes
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Subcutaneous use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+Do not freeze.
+
+Refer to package leaflet for alternative storage details.
+
+Keep the pre-filled syringes in the outer carton in order to protect from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Biosimilar Collaborations Ireland Limited
+
+Unit 35/36
+
+Grange Parade,
+
+Baldoyle Industrial Estate,
+
+Dublin 13
+
+DUBLIN
+
+Ireland
+
+D13 R20R
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/20/1436/001 4 pre-filled syringes
+
+EU/1/20/1436/002 12 pre-filled syringes
+
+## 13. BATCH NUMBER&lt;, DONATION AND PRODUCT CODES&gt;
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Nepexto 25 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+<div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUEIDENTIFIER-HUMANREADABLEDATA   |
+|-------|--------------------------------------|
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## IMMEDIATE CARTON FOR PRE-FILLED SYRINGES 25 MG (WITHOUT BLUE BOX) COMPONENT OF MULTIPACK - 12 OR 4 PRE-FILLED SYRINGUES
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Nepexto 25 mg solution for injection in pre-filled syringe. etanercept
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each pre-filled syringe contains 25 mg etanercept
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: sodium citrate, sodium dihydrogen phosphate dihydrate, glycine, sucrose, sodium chloride and water for injections.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection
+
+12 pre-filled syringes
+
+4 pre-filled syringes
+
+Component of a multipack, can't be sold separately.
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Subcutaneous use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+Do not freeze.
+
+Refer to package leaflet for alternative storage details.
+
+Keep the pre-filled syringes in the outer carton in order to protect from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Biosimilar Collaborations Ireland Limited
+
+Unit 35/36
+
+Grange Parade,
+
+Baldoyle Industrial Estate,
+
+Dublin 13
+
+DUBLIN
+
+Ireland
+
+D13 R20R
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/20/1436/007  24 (2 packs of 12 pre-filled syringes)
+
+EU/1/20/1436/008  8 (2 packs of 4 pre-filled syringes)
+
+## 13. BATCH NUMBER&lt;, DONATION AND PRODUCT CODES&gt;
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Nepexto 25 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+Not applicable
+
+<div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUEIDENTIFIER-HUMANREADABLEDATA   |
+|-------|--------------------------------------|
+
+Not applicable
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON FOR PRE-FILLED SYRINGES 25 MG (WITH BLUE BOX) MULTIPACK 24 (2X12 PRE-FILLED SYRINGUES) OR 8 (2X4 PRE-FILLED SYRINGUES)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Nepexto 25 mg solution for injection in pre-filled syringe. etanercept
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each pre-filled syringe contains 25 mg etanercept
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: sodium citrate, sodium dihydrogen phosphate dihydrate, glycine, sucrose, sodium chloride and water for injections.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Solution for injection
+
+Multipack: 24 (2 packs of 12 pre-filled syringes)
+
+Multipack: 8 (2 packs of 4 pre-filled syringes)
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Subcutaneous use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+Do not freeze.
+
+Refer to package leaflet for alternative storage details.
+
+Keep the pre-filled syringes in the outer carton in order to protect from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Biosimilar Collaborations Ireland Limited
+
+Unit 35/36
+
+Grange Parade,
+
+Baldoyle Industrial Estate,
+
+Dublin 13
+
+DUBLIN
+
+Ireland
+
+D13 R20R
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/20/1436/007  24 (2 packs of 12 pre-filled syringes)
+
+EU/1/20/1436/008  8 (2 packs of 4 pre-filled syringes)
+
+## 13. BATCH NUMBER&lt;, DONATION AND PRODUCT CODES&gt;
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Nepexto 25 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+<div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUEIDENTIFIER-HUMANREADABLEDATA   |
+|-------|--------------------------------------|
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGING UNITS   |
+|-------------------------------------------------------------|
+| LABEL(25 MGPRE-FILLED SYRINGE)                              |
+
+| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S)OFADMINISTRATION   |
+|------|--------------------------------------------------------|
+
+Nepexto 25 mg injection etanercept SC
+
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
+
+| 3.   | EXPIRYDATE   |
+|------|--------------|
+
+EXP
+
+| 4.   | BATCHNUMBER   |
+|------|---------------|
+
+Lot
+
+| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
+|------|-------------------------------------|
+
+0.5 ml
+
+| 6.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON FOR PRE-FILLED SYRINGES 50 MG
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Nepexto 50 mg solution for injection in pre-filled syringe. etanercept
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each pre-filled syringe contains 50 mg etanercept
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: sodium citrate, sodium dihydrogen phosphate dihydrate, glycine, sucrose, sodium chloride and water for injections.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection
+
+4 pre-filled syringes
+
+12 pre-filled syringes
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Subcutaneous use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+Do not freeze.
+
+Refer to package leaflet for alternative storage details.
+
+Keep the pre-filled syringes in the outer carton in order to protect from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Biosimilar Collaborations Ireland Limited
+
+Unit 35/36
+
+Grange Parade,
+
+Baldoyle Industrial Estate,
+
+Dublin 13
+
+DUBLIN
+
+Ireland
+
+D13 R20R
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/20/1436/003 4 pre-filled syringes
+
+EU/1/20/1436/004 12 pre-filled syringes
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Nepexto 50 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+<div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUEIDENTIFIER-HUMANREADABLEDATA   |
+|-------|--------------------------------------|
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
+|------------------------------------------------------------|
+| LABEL(50 MGPRE-FILLED SYRINGE)                             |
+
+| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S)OFADMINISTRATION   |
+|------|--------------------------------------------------------|
+
+Nepexto 50 mg injection etanercept SC
+
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
+
+| 3.   | EXPIRYDATE   |
+|------|--------------|
+
+EXP
+
+| 4.   | BATCHNUMBER   |
+|------|---------------|
+
+Lot
+
+| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
+|------|-------------------------------------|
+
+1 ml
+
+| 6.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON FOR PRE-FILLED PENS 50 MG
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Nepexto 50 mg solution for injection in pre-filled pen etanercept
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each pre-filled pen contains 50 mg etanercept
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: sodium citrate, sodium dihydrogen phosphate dihydrate, glycine, sucrose, sodium chloride and water for injections.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection
+
+4 pre-filled pens
+
+12 pre-filled pens
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Subcutaneous use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+Do not freeze.
+
+Refer to package leaflet for alternative storage details.
+
+Keep the pre-filled pens in the outer carton in order to protect from light.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Biosimilar Collaborations Ireland Limited
+
+Unit 35/36
+
+Grange Parade,
+
+Baldoyle Industrial Estate,
+
+Dublin 13
+
+DUBLIN
+
+Ireland
+
+D13 R20R
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/20/1436/005 4 pre-filled pens
+
+EU/1/20/1436/006 12 pre-filled pens
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Nepexto 50 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+<div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUEIDENTIFIER-HUMANREADABLEDATA   |
+|-------|--------------------------------------|
+
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
+|------------------------------------------------------------|
+| LABEL(50 MGPRE-FILLED PEN)                                 |
+
+| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S)OFADMINISTRATION   |
+|------|--------------------------------------------------------|
+
+Nepexto 50 mg injection etanercept SC
+
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
+
+| 3.   | EXPIRYDATE   |
+|------|--------------|
+
+EXP
+
+| 4.   | BATCHNUMBER   |
+|------|---------------|
+
+Lot
+
+| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
+|------|-------------------------------------|
+
+50 mg/1 ml
+
+| 6.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+## B. PACKAGE LEAFLET
+
+<div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the User
+
+## Nepexto 25 mg solution for injection in pre-filled syringe Nepexto 50 mg solution for injection in pre-filled syringe etanercept
+
+## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
+
+- -Keep this leaflet. You may need to read it again.
+- -Your doctor will also give you a Patient Card, which contains important safety information that you need to be aware of before and during treatment with Nepexto.
+- -If you have any further questions, ask your doctor, pharmacist or nurse.
+- -This medicine has been prescribed for you or a child in your care. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours or those of the child you are caring for.
+- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Nepexto is and what it is used for
+2. What you need to know before you use Nepexto
+3. How to use Nepexto
+4. Possible side effects
+5. How to store Nepexto
+6. Contents of the pack and other information
+7. Instructions for use
+
+## 1. What Nepexto is and what it is used for
+
+Nepexto contains the active substance etanercept.
+
+Nepexto is a medicine that is made from two human proteins. It blocks the activity of another protein in the body that causes inflammation. This medicine works by reducing the inflammation associated with certain diseases.
+
+In adults (aged 18 and over), Nepexto can be used for:
+
+- moderate or severe rheumatoid arthritis (long-term autoimmune disorder that primarily affects joints);
+- psoriatic arthritis (a type of inflammatory arthritis which can affect any joint in the body);
+- severe axial spondyloarthritis (a type of chronic inflammatory arthritis involving the spine and/or sacroiliac joints) including ankylosing spondylitis (a type of arthritis that affects the spine);
+- moderate or severe psoriasis (raised, red, scaly patches on the skin).
+
+In each case Nepexto is used, usually when other widely used treatments have not worked well enough or are not suitable for you.
+
+For rheumatoid arthritis , this medicine is usually used in combination with methotrexate, although it may also be used alone if treatment with methotrexate is unsuitable for you. Whether used alone or in combination with methotrexate, Nepexto can slow down the damage to your joints caused by the rheumatoid arthritis and improve your ability to do normal daily activities.
+
+<div style=\"page-break-after: always\"></div>
+
+For psoriatic arthritis patients with multiple joint involvement, this medicine can improve your ability to do normal daily activities.
+
+For patients with multiple symmetrical painful or swollen joints (e.g., hands, wrists and feet), this medicine can slow down the structural damage to those joints caused by the disease.
+
+Nepexto is also prescribed for the treatment of the following diseases in children and adolescents.
+
+- For the following types of juvenile idiopathic arthritis when treatment with methotrexate has not worked well enough or is not suitable for them:
+- -Polyarthritis (rheumatoid factor positive or negative) and extended oligoarthritis in patients from the age of 2 years and weighing 62.5 kg or more
+- -Psoriatic arthritis in patients from the age of 12 years and weighing 62.5 kg or more
+- For enthesitis-related arthritis in patients from the age of 12 years and weighing 62.5 kg or more when other widely used treatments have not worked well enough or are not suitable for them
+- Severe psoriasis in patients from the age of 6 years and weighing 62.5 kg or more who have had an inadequate response to (or are unable to take) phototherapies or other systemic therapies.
+
+## 2. What you need to know before you use Nepexto
+
+## Do not use Nepexto
+
+- if you or the child you are caring for, are allergic to etanercept or any of the other ingredients of Nepexto (listed in section 6). If you or the child experience allergic reactions such as chest tightness, wheezing, dizziness or rash, do not inject more Nepexto, and contact your doctor immediately.
+- if you or the child have or are at risk of developing a serious blood infection called sepsis. If you are not sure, please contact your doctor;
+- if you or the child have an infection of any kind . If you are not sure, please talk to your doctor.
+
+## Warnings and precautions
+
+Talk to your doctor before using Nepexto.
+
+- Allergic reactions : If you or the child experience allergic reactions such as chest tightness, wheezing, dizziness or rash, stop using this medicine, and contact your doctor immediately.
+- Infections/surgery : If you or the child develop a new infection, or are about to have any major surgery, your doctor may wish to monitor the treatment with this medicine.
+- Infections/diabetes : Tell your doctor if you or the child have a history of recurrent infections or suffer from diabetes or other conditions that increase the risk of infection.
+- Infections/monitoring : Tell your doctor of any recent travel outside the European region. If you or the child develop symptoms of an infection such as fever, chills or cough, tell your doctor immediately. Your doctor may decide to continue to monitor you or the child for the presence of infections after you stop using Nepexto.
+- Tuberculosis : As cases of tuberculosis have been reported in patients treated with Nepexto, your doctor will check for signs and symptoms of tuberculosis before starting treatment with this medicine. This may include a thorough medical history, a chest X-ray and a tuberculin test. The conduct of these tests should be recorded on the Patient Card. It is very important that you tell your doctor if you or the child have ever had tuberculosis or have been in close contact with someone who has had tuberculosis. If symptoms of tuberculosis (such as persistent cough, weight loss, listlessness, mild fever), or any other infection appear during or after therapy, tell your doctor immediately.
+- Hepatitis B : Tell your doctor if you or the child have or have ever had hepatitis B. Your doctor should test for the presence of hepatitis B infection before you or the child begin treatment with this medicine. Treatment with Nepexto may result in reactivation of hepatitis B in patients who
+
+<div style=\"page-break-after: always\"></div>
+
+have previously been infected with the hepatitis B virus. If this occurs, you should stop using this medicine.
+
+- Hepatitis C : Tell your doctor if you or the child have hepatitis C. Your doctor may wish to monitor the treatment with this medicine in case the infection worsens.
+- Blood disorders : Tell your doctor immediately if you or the child have any signs or symptoms such as persistent fever, sore throat, bruising, bleeding or paleness. Such symptoms may point to the existence of potentially life-threatening blood disorders, which may require discontinuation of Nepexto.
+- Nervous system and eye disorders : Tell your doctor if you or the child have multiple sclerosis, optic neuritis (inflammation of the nerves of the eyes) or transverse myelitis (inflammation of the spinal cord). Your doctor will determine if using this medicine is an appropriate treatment.
+- Congestive heart failure : Tell your doctor if you or the child have a history of congestive heart failure (when your heart muscle doesn't pump blood as well as it should), because this medicine needs to be used with caution under these circumstances.
+- Cancer : Tell your doctor if you have or have ever had lymphoma (a type of blood cancer) or any other cancer before you use this medicine. Patients with severe rheumatoid arthritis, who have had the disease for a long time, may be at higher than average risk of developing lymphoma. Children and adults using this medicine may have an increased risk of developing lymphoma or another cancer. Some children and teenage patients who have received etanercept or other medicines that work the same way as etanercept have developed cancers, including unusual types, which sometimes resulted in death. Some patients receiving Nepexto have developed skin cancer. Tell your doctor if you or the child develop any change in the appearance of the skin or growths on the skin.
+- Chickenpox : Tell your doctor if you or the child are exposed to chickenpox when using this medicine. Your doctor will determine if preventive treatment for chickenpox is appropriate.
+- Alcohol abuse : Do not use this medicine for the treatment of hepatitis related to alcohol abuse. Tell your doctor if you or the child in your care have a history of alcohol abuse.
+- Wegener's granulomatosis : this medicine is not recommended for the treatment of Wegener's granulomatosis (a rare inflammatory disease). Tell your doctor if you or the child in your care have Wegener's granulomatosis.
+- Anti-diabetic medicines : Tell your doctor if you or the child have diabetes or are taking medicines to treat diabetes. Your doctor may decide if you or the child need less anti-diabetic medicine while using this medicine.
+
+## Children and adolescents
+
+- Vaccinations : If possible, children should be up to date with all vaccinations before using Nepexto. Some vaccines, such as oral polio vaccine, should not be given while using this medicine. Tell your doctor before you or the child receive any vaccines.
+
+Nepexto should not be used in children and adolescents who weigh less than 62.5 kg.
+
+Nepexto should not be used in children with polyarthritis or extended oligoarthritis below the age of 2 years, or in children with enthesitis-related arthritis or psoriatic arthritis below the age of 12 years, or in children with psoriasis below the age of 6 years.
+
+## Other medicines and Nepexto
+
+Tell your doctor or pharmacist if you or the child are taking or have recently taken or might take any other medicines (including sulfasalazine), including those not prescribed by your doctor.
+
+You or the child should not use Nepexto with medicines that contain the active substance anakinra or abatacept.
+
+<div style=\"page-break-after: always\"></div>
+
+## Pregnancy and breast-feeding
+
+Nepexto should only be used during pregnancy if clearly needed. You should consult your doctor if you become pregnant, think you may be pregnant, or are planning to have a baby.
+
+If you received Nepexto during pregnancy, your baby may have a higher risk of getting an infection. In addition, one study found more birth defects when the mother had received etanercept in pregnancy, compared with mothers who had not received this medicine or other similar medicines (TNFantagonists), but there was no particular kind of birth defect reported. Another study found no increased risk of birth defects when the mother had received etanercept in pregnancy. Your doctor will help you to decide whether the benefits of treatment outweigh the potential risk to your baby.
+
+Talk to your doctor if you want to breastfeed while on Nepexto treatment. It is important that you tell your baby's doctors and other healthcare professionals about the use of Nepexto during pregnancy and breastfeeding before your baby receives any vaccine.
+
+## Driving and using machines
+
+The use of Nepexto is not expected to affect the ability to drive or use machines.
+
+## Nepexto contains sodium
+
+This medicine contains less than 1 mmol (23 mg) sodium per dose, that is to say, essentially 'sodiumfree'.
+
+## 3. How to use Nepexto
+
+Always use this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
+
+If you feel that the effect of Nepexto is too strong or too weak, talk to your doctor or pharmacist.
+
+## Use in adults
+
+Rheumatoid arthritis, psoriatic arthritis, and axial spondyloarthritis including ankylosing spondylitis The usual dose is 25 mg given twice a week or 50 mg once a week as an injection under the skin. However, your doctor may determine an alternative frequency at which to inject Nepexto.
+
+## Plaque psoriasis
+
+The usual dose is 25 mg twice a week or 50 mg once a week.
+
+Alternatively, 50 mg may be given twice a week for up to 12 weeks, followed by 25 mg twice a week or 50 mg once a week.
+
+Your doctor will decide how long you should use Nepexto and whether retreatment is needed based on your response. If Nepexto has no effect on your condition after 12 weeks, your doctor may tell you to stop using this medicine.
+
+## Use in children and adolescents
+
+Dose and frequency of dosing for the child or adolescent will depend on body weight and disease. Your doctor will determine the correct dose for the child and will prescribe an appropriate strength of etanercept.
+
+Nepexto should not be used in children and adolescents who weigh less than 62.5 kg.
+
+<div style=\"page-break-after: always\"></div>
+
+Other etanercept medicines with appropriate pharmaceutical forms for children are available.
+
+For polyarthritis or extended oligoarthritis in patients from the age of 2 years, or enthesitis-related arthritis or psoriatic arthritis in patients from the age of 12 years, the usual dose is 0.4 mg of etanercept per kg bodyweight (up to a maximum of 25 mg) given twice a week or 0.8 mg of etanecept per kg of bodyweight (up to a maximum of 50 mg) given once a week.
+
+For psoriasis in patients from the age of 6 years, the usual dose is 0.8 mg of etanercept per kg of bodyweight (up to a maximum of 50 mg) and should be given once weekly. If Nepexto has no effect on the child's condition after 12 weeks, your doctor may tell you to stop using this medicine.
+
+## Method and route of administration
+
+Nepexto is administered by an injection under the skin (by subcutaneous use).
+
+## Detailed instructions on how to prepare and inject Nepexto are provided in section 7, 'Instructions for use'.
+
+Do not mix the solution with any other medicine.
+
+To help you remember, it may be helpful to write in a diary which day(s) of the week Nepexto should be used.
+
+## If you use more Nepexto than you should
+
+If you have used more Nepexto than you should (either by injecting too much on a single occasion or by using it too frequently), talk to a doctor or pharmacist immediately . Always have the outer carton of the medicine with you, even if it is empty.
+
+## If you forget to inject Nepexto
+
+If you forget a dose, inject it as soon as you remember, unless the next scheduled dose is the next day; in which case skip the missed dose. Then continue to inject the medicine on the usual day(s). If you do not remember until the day that the next injection is due, do not use a double dose (two doses on the same day) to make up for a forgotten dose.
+
+## If you stop using Nepexto
+
+Your symptoms may return upon discontinuation.
+
+If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+## Allergic reactions
+
+If any of the following happen, do not inject more Nepexto. Tell your doctor immediately or go to the casualty department at your nearest hospital.
+
+- Trouble swallowing or breathing
+- Swelling of the face, throat, hands, or feet
+
+<div style=\"page-break-after: always\"></div>
+
+- Feeling nervous or anxious, throbbing sensations, sudden reddening of the skin and/or a warm feeling
+- Severe rash, itching, or hives (elevated patches of red or pale skin that often itch)
+
+Serious allergic reactions are rare. However, any of the above symptoms may indicate an allergic reaction to this medicine, so you should seek immediate medical attention.
+
+## Serious side effects
+
+If you notice any of the following, you or the child may need urgent medical attention.
+
+- Signs of serious infections , such as high fever that may be accompanied by cough, shortness of breath, chills, weakness, or a hot, red, tender, sore area on the skin or joints;
+- Signs of blood disorders , such as bleeding, bruising, or paleness;
+- Signs of nerve disorders , such as numbness or tingling, changes in vision, eye pain, or onset of weakness in an arm or leg;
+- Signs of heart failure or worsening heart failure , such as fatigue or shortness of breath with activity, swelling in the ankles, a feeling of fullness in the neck or abdomen, night-time shortness of breath or coughing, bluish colour of the nails or the lips;
+- Signs of cancers : Cancers may affect any part of the body including the skin and blood, and possible signs will depend on the type and location of the cancer. These signs may include weight loss, fever, swelling (with or without pain), persistent cough, presence of lumps or growths on the skin;
+- Signs of autoimmune reactions (where antibodies are made that may harm normal tissues in the body) such as pain, itching, weakness, and abnormal breathing, thinking, sensation, or vision;
+- Signs of lupus or lupus-like syndrome, such as weight changes, persistent rash, fever, joint or muscle pain, or fatigue;
+- Signs of inflammation of the blood vessels such as pain, fever, redness or warmth of the skin, or itching.
+
+These are rare or uncommon side effects but are serious conditions (some of which may rarely be fatal). If any of the above occurs, tell your doctor immediately, or visit the casualty department at your nearest hospital.
+
+The known side effects of etanercept include the following on groups of decreasing frequency:
+
+- Very common (may affect more than 1 in 10 people):
+
+Infections (including colds, sinusitis, bronchitis, urinary tract infections and skin infections); injection site reactions (including bleeding, bruising, redness, itching, pain, and swelling) (these do not occur as often after the first month of treatment, some patients have developed a reaction at an injection site that was recently used) and headache.
+
+- Common (may affect up to 1 in 10 people): Allergic reactions; fever; itching; antibodies directed against normal tissue (autoantibody
+
+formation).
+
+· Uncommon (may affect up to 1 in 100 people): Serious infections (including pneumonia, deep skin infections, joint infections, blood infection, and infections at various sites); worsening of congestive heart failure; low red blood cell count, low white blood cell count, low neutrophil (a type of white blood cell) count; low blood platelet count; skin cancer (excluding melanoma); localised swelling of the skin (angioedema); hives (elevated patches of red or pale skin that often itch); eye inflammation; psoriasis (new or worsening); inflammation of the blood vessels affecting multiple organs; elevated liver blood tests (in patients also receiving methotrexate treatment, the frequency of elevated liver blood tests is common), abdominal cramps and pain, diarrhoea, weight loss or blood in the stool (signs of bowel problems).
+
+<div style=\"page-break-after: always\"></div>
+
+- Rare (may affect up to 1 in 1,000 people):
+
+Serious allergic reactions (including severe localised swelling of the skin and wheezing); lymphoma (a type of blood cancer); leukaemia (cancer affecting the blood and bone marrow); melanoma (a type of skin cancer); combined low platelet, red, and white blood cell count; nervous system disorders (with severe muscle weakness and signs and symptoms similar to those of multiple sclerosis or inflammation of the nerves of the eyes or spinal cord); tuberculosis; new onset congestive heart failure; seizures; lupus or lupus-like syndrome (symptoms may include persistent rash, fever, joint pain, and tiredness); skin rash, which may lead to severe blistering and peeling of the skin; lichenoid reactions (itchy reddish-purple skin rash and/or threadlike white-grey lines on mucous membranes); inflammation of the liver caused by the body's own immune system (autoimmune hepatitis; in patients also receiving methotrexate treatment, the frequency is uncommon); immune disorder that can affect the lungs, skin and lymph nodes (sarcoidosis); inflammation or scarring of the lungs (in patients also receiving methotrexate treatment, the frequency of inflammation or scarring of the lungs is uncommon); damage to the tiny filters inside your kidneys leading to poor kidney function (glomerulonephritis).
+
+- Very rare (may affect up to 1 in 10,000 people): Failure of the bone marrow to produce crucial blood cells.
+- •
+
+Merkel cell carcinoma (a type of skin cancer); Kaposi's sarcoma (a rare cancer related to infection with human herpes virus 8. Kaposi's sarcoma most commonly appears as purple lesions on the skin); excessive activation of white blood cells associated with inflammation condition called dermatomyositis (muscle inflammation and weakness with an accompanying skin rash).
+
+- Not known (frequency cannot be estimated from available data): (macrophage activation syndrome); recurrence of hepatitis B (a liver infection); worsening of a
+
+## Additional side effects in children and adolescents
+
+The side effects and their frequencies seen in children and adolescents are similar to those described above.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
+
+## 5. How to store Nepexto
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date which is stated on the carton and pre-filled syringe after EXP. The expiry date refers to the last day of that month.
+
+Store in a refrigerator (2°C - 8°C). Do not freeze.
+
+Keep the pre-filled syringes in the outer carton in order to protect from light.
+
+Nepexto may be stored outside of the refrigerator at temperatures up to a maximum of 25°C for a single period of up to four weeks; after which, it should not be refrigerated again. Nepexto should be discarded if not used within four weeks after removal from the refrigerator. It is recommended that you record the date that Nepexto is removed from the refrigerator and the date after which Nepexto should be discarded (no more than 4 weeks following the removal from the refrigerator).
+
+Inspect the solution in the syringe. It should be clear to opalescent, colourless to yellow, and may
+
+<div style=\"page-break-after: always\"></div>
+
+contain small white or almost transparent particles of protein. This appearance is normal. Do not use the solution if it is discoloured, cloudy, or if particles other than those described above are present. If you are concerned with the appearance of the solution, then contact your pharmacist for assistance.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Nepexto contains
+
+- -The active substance is etanercept. Each pre-filled syringe contains 25 mg or 50 mg of etanercept.
+- -The other ingredients are sodium citrate, sodium dihydrogen phosphate dihydrate, glycine, sucrose, sodium chloride and water for injections.
+
+## What Nepexto looks like and contents of the pack
+
+Nepexto is supplied as a pre-filled syringe containing a clear to opalescent, colourless to yellow solution for injection.
+
+Nepexto 25 mg is available in pack sizes of 4,12 pre-filled syringes, in a multipack comprising 2 pack of 4 pre-filled syringes and in a multipack comprising 2 packs of 12 pre-filled syringes. Nepexto 50 mg is available in packs containing 4 or 12 pre-filled syringes. Not all pack sizes may be marketed.
+
+## Marketing Authorisation Holder
+
+Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13 DUBLIN Ireland D13 R20R
+
+## Manufacturer
+
+Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
+
+For further information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+Biocon Biologics Belgium BV
+
+Tél/Tel: 0080008250910
+
+## Lietuva
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## България
+
+Biosimilar Collaborations Ireland Limited Тел: 0080008250910
+
+## Luxembourg/Luxemburg
+
+Biocon Biologics France S.A.S Tél/Tel: 0080008250910
+
+## Česká republika
+
+Biocon Biologics Germany GmbH Tel: 0080008250910
+
+## Magyarország
+
+Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
+
+<div style=\"page-break-after: always\"></div>
+
+## Danmark
+
+Biocon Biologics Finland OY Tlf: 0080008250910
+
+## Deutschland
+
+Biocon Biologics Germany GmbH Tel: 0080008250910
+
+## Eesti
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## Ελλάδα
+
+Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε Τηλ.: 0080008250910
+
+## España
+
+Biocon Biologics Spain S.L. Tel: 0080008250910
+
+## France
+
+Biocon Biologics France S.A.S Tel: 0080008250910
+
+## Hrvatska
+
+Biocon Biologics Germany GmbH Tel: 0080008250910
+
+## Ireland
+
+Biosimilar Collaborations Ireland Limited Tel: 1800 777 794
+
+## Ísland
+
+Biocon Biologics Finland OY
+
+Sími: +345 800 4316
+
+## Italia
+
+Biocon Biologics Spain S.L . Tel: 0080008250910
+
+## Κύπρος
+
+Biosimilar Collaborations Ireland Limited Τηλ: 0080008250910
+
+## Latvija
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## This leaflet was last revised in
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+## 7. Instructions for use
+
+This section is divided into the following subsections:
+
+## Malta
+
+Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
+
+## Nederland
+
+Biocon Biologics France S.A.S Tel: 0080008250910
+
+## Norge
+
+Biocon Biologics Finland OY Tlf: +47 800 62 671
+
+## Österreich
+
+Biocon Biologics Germany GmbH Tel: 0080008250910
+
+## Polska
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## Portugal
+
+Biocon Biologics Spain S.L. Tel: 0080008250910
+
+## România
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## Slovenija
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## Slovenská republika
+
+Biocon Biologics Germany GmbH Tel: 0080008250910
+
+## Suomi/Finland
+
+Biocon Biologics Finland OY Puh/Tel: 99980008250910
+
+## Sverige
+
+Biocon Biologics Finland OY Tel: 0080008250910
+
+<div style=\"page-break-after: always\"></div>
+
+## Introduction
+
+Step 1: Setting up for an injection
+
+Step 2: Choosing an injection site
+
+Step 3: Injecting the Nepexto solution
+
+Step 4: Disposing of supplies
+
+The following instructions explain how to prepare and inject Nepexto. Read the Instructions for Use before you start using Nepexto and each time you get a refill of your prescription. There may be new information.
+
+- Do not try to give yourself the injection unless your doctor or nurse has shown you how to give the injection.
+
+The solution should not be mixed with any other medicine before use.
+
+Not included in pack:
+
+- Alcohol swab
+- Gauze pad and plaster
+- Sharps disposal container
+
+## Device Parts
+
+<!-- image -->
+
+## Step 1: Setting up for an injection
+
+Find a, well-lit, clean flat surface and gather all the equipment you need.
+
+1. Take the carton containing the pre-filled syringes out of the refrigerator and place it on a flat work surface. Remove one pre-filled syringe and place it on your work surface. Do not shake the pre-filled syringe of Nepexto. Place the carton containing any remaining pre-filled syringe back into the refrigerator.
+
+Please see section 5 for instructions on how to store Nepexto. If you have any questions about storage, contact your doctor, nurse, or pharmacist for further instructions.
+
+2. Inspect the solution:
+- Look at the medicine through the syringe body.
+- The medicine should be clear or opalescent, colourless to yellow, and may contain small white or almost transparent particles of protein.
+- Do not use the solution if it is discoloured, cloudy, or if particles other than those described above are present.
+3. Allow the medicine to reach room temperature:
+
+Remove one pre-filled syringe from the carton that is stored in the refrigerator and leave at room temperature for 15 to 30 minutes before injecting.
+
+This is important to make the medicine easier and more comfortable to inject.
+
+- Do not remove the needle cover until you are ready to inject.
+- Do not use heat sources, such as a microwave or hot water, to warm the solution for injection.
+4. Assemble the additional supplies you will need for your injection. These include an alcohol swab and a cotton ball or gauze.
+
+<div style=\"page-break-after: always\"></div>
+
+5. Wash your hands with soap and warm water.
+
+## Step 2: Choosing an injection site
+
+1. Three recommended injection sites include: (1) the front of the middle thighs; (2) the abdomen; and (3) the outer area of the upper arms (see Diagram 1). If you are injecting into the abdomen, choose a site that is at least 5 cm away from the belly button. If you are self-injecting, do not use the outer area of the upper arms.
+2. A different site should be used for each new injection. Each new injection should be given at least 3 cm from an old site. Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid areas with scars or stretch marks (it may be helpful to keep notes on the location of the previous injections).
+3. If you have psoriasis, do not inject directly into any raised, thick, red, or scaly skin patches ('psoriasis skin lesions').
+
+## Step 3: Injecting the solution
+
+1. Wipe the skin at the injection site with an alcohol swab, using a circular motion. Do NOT touch this area again before giving the injection.
+2. Pick up the pre-filled syringe from the flat work surface. Remove the needle cover by firmly pulling it straight off the syringe (see Diagram 2). Do not twist or bend the needle cover while removing it, as this may damage the needle.
+
+<!-- image -->
+
+<!-- image -->
+
+When you remove the needle cover, there may be a drop of liquid at the end of the needle; this is normal. Do not touch the needle or allow it to touch any surface. Do not touch or bump the plunger. Doing so could cause the liquid to leak out.
+
+<div style=\"page-break-after: always\"></div>
+
+3. When the cleaned area of skin has dried, pinch and hold it firmly with one hand. With the other hand, hold the syringe like a pencil.
+4. With a quick, short motion, push the needle all the way into the skin at an angle between 45° and 90° (see Diagram 3). With experience, you will find the angle that is most comfortable for you. Be careful not to push the needle into the skin too slowly, or with great force.
+5.    When the needle is completely inserted into the skin, release the skin that you are holding. With your free hand, hold the syringe near its base to stabilise it. Then push the plunger to inject all of the solution at a slow, steady rate (see Diagram 4).
+6. When the syringe is empty, pull the needle out of the skin, being careful to keep it at the same angle as inserted. There may be a little bleeding at the injection site. You can press a cotton ball or gauze over the injection site for 10 seconds. Do not rub the injection site. If needed, you may cover the injection site with a bandage.
+
+<!-- image -->
+
+<!-- image -->
+
+## Step 4: Disposing of supplies
+
+The pre-filled syringe is for single use only. The syringe and needle should NEVER be re-used. NEVER re-cap a needle. Dispose of the needle and syringe as instructed by your doctor, nurse or pharmacist (see Diagram 5).
+
+<!-- image -->
+
+If you have any questions or require further information, please talk to your doctor, nurse or pharmacist.
+
+<div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
+
+## Nepexto 50 mg solution for injection in pre-filled pen
+
+## etanercept
+
+## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
+
+- -Keep this leaflet. You may need to read it again.
+- -Your doctor will also give you a Patient Card, which contains important safety information that you need to be aware of before and during treatment with Nepexto.
+- -If you have any further questions, ask your doctor, pharmacist or nurse.
+- -This medicine has been prescribed for you or a child in your care. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours or those of the child you are caring for.
+- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Nepexto is and what it is used for
+2. What you need to know before you use Nepexto
+3. How to use Nepexto
+4. Possible side effects
+5. How to store Nepexto
+6. Contents of the pack and other information
+7. Instructions for use
+
+## 1. What Nepexto is and what it is used for
+
+Nepexto contains the active substance etanercept.
+
+Nepexto is a medicine that is made from two human proteins. It blocks the activity of another protein in the body that causes inflammation. This medicine works by reducing the inflammation associated with certain diseases.
+
+In adults (aged 18 and over), Nepexto can be used for:
+
+- moderate or severe rheumatoid arthritis (long-term autoimmune disorder that primarily affects joints);
+- psoriatic arthritis (a type of inflammatory arthritis which can affect any joint in the body);
+- severe axial spondyloarthritis (a type of chronic inflammatory arthritis involving the spine and/or sacroiliac joints) including ankylosing spondylitis (a type of arthritis that affects the spine);
+- moderate or severe psoriasis (raised, red, scaly patches on the skin).
+
+In each case Nepexto is used, usually when other widely used treatments have not worked well enough or are not suitable for you.
+
+For rheumatoid arthritis , this medicine is usually used in combination with methotrexate, although it may also be used alone if treatment with methotrexate is unsuitable for you. Whether used alone or in combination with methotrexate, Nepexto can slow down the damage to your joints caused by the rheumatoid arthritis and improve your ability to do normal daily activities.
+
+<div style=\"page-break-after: always\"></div>
+
+For psoriatic arthritis patients with multiple joint involvement, this medicine can improve your ability to do normal daily activities.
+
+For patients with multiple symmetrical painful or swollen joints (e.g., hands, wrists and feet), this medicine can slow down the structural damage to those joints caused by the disease.
+
+Nepexto is also prescribed for the treatment of the following diseases in children and adolescents.
+
+- For the following types of juvenile idiopathic arthritis when treatment with methotrexate has not worked well enough or is not suitable for them:
+- -Polyarthritis (rheumatoid factor positive or negative) and extended oligoarthritis in patients from the age of 2 years and weighing 62.5 kg or more
+- -Psoriatic arthritis in patients from the age of 12 years and weighing 62.5 kg or more
+- For enthesitis-related arthritis in patients from the age of 12 years and weighing 62.5 kg or more when other widely used treatments have not worked well enough or are not suitable for them
+- Severe psoriasis in patients from the age of 6 years and weighing 62.5 kg or more who have had an inadequate response to (or are unable to take) phototherapies or other systemic therapies.
+
+## 2. What you need to know before you use Nepexto
+
+## Do not use Nepexto
+
+- if you or the child you are caring for, are allergic to etanercept or any of the other ingredients of Nepexto (listed in section 6). If you or the child experience allergic reactions such as chest tightness, wheezing, dizziness or rash, do not inject more Nepexto, and contact your doctor immediately.
+- if you or the child have or are at risk of developing a serious blood infection called sepsis. If you are not sure, please contact your doctor;
+- if you or the child have an infection of any kind . If you are not sure, please talk to your doctor.
+
+## Warnings and precautions
+
+Talk to your doctor before using Nepexto.
+
+- Allergic reactions : If you or the child experience allergic reactions such as chest tightness, wheezing, dizziness or rash, stop using this medicine, and contact your doctor immediately.
+- Infections/surgery : If you or the child develop a new infection, or are about to have any major surgery, your doctor may wish to monitor the treatment with this medicine.
+- Infections/diabetes : Tell your doctor if you or the child have a history of recurrent infections or suffer from diabetes or other conditions that increase the risk of infection.
+- Infections/monitoring : Tell your doctor of any recent travel outside the European region. If you or the child develop symptoms of an infection such as fever, chills or cough, tell your doctor immediately. Your doctor may decide to continue to monitor you or the child for the presence of infections after you stop using Nepexto.
+- Tuberculosis : As cases of tuberculosis have been reported in patients treated with Nepexto, your doctor will check for signs and symptoms of tuberculosis before starting treatment with this medicine. This may include a thorough medical history, a chest X-ray and a tuberculin test. The conduct of these tests should be recorded on the Patient Card. It is very important that you tell your doctor if you or the child have ever had tuberculosis or have been in close contact with someone who has had tuberculosis. If symptoms of tuberculosis (such as persistent cough, weight loss, listlessness, mild fever), or any other infection appear during or after therapy, tell your doctor immediately.
+- Hepatitis B : Tell your doctor if you or the child have or have ever had hepatitis B. Your doctor should test for the presence of hepatitis B infection before you or the child begin treatment with
+
+<div style=\"page-break-after: always\"></div>
+
+this medicine. Treatment with Nepexto may result in reactivation of hepatitis B in patients who have previously been infected with the hepatitis B virus. If this occurs, you should stop using this medicine.
+
+- Hepatitis C : Tell your doctor if you or the child have hepatitis C. Your doctor may wish to monitor the treatment with this medicine in case the infection worsens.
+- Blood disorders : Tell your doctor immediately if you or the child have any signs or symptoms such as persistent fever, sore throat, bruising, bleeding or paleness. Such symptoms may point to the existence of potentially life-threatening blood disorders, which may require discontinuation of Nepexto.
+- Nervous system and eye disorders : Tell your doctor if you or the child have multiple sclerosis, optic neuritis (inflammation of the nerves of the eyes) or transverse myelitis (inflammation of the spinal cord). Your doctor will determine if using this medicine is an appropriate treatment.
+- Congestive heart failure : Tell your doctor if you or the child have a history of congestive heart failure (when your heart muscle doesn't pump blood as well as it should), because this medicine needs to be used with caution under these circumstances.
+- Cancer: Tell your doctor if you have or have ever had lymphoma (a type of blood cancer) or any other cancer before you use this medicine. Patients with severe rheumatoid arthritis, who have had the disease for a long time, may be at higher than average risk of developing lymphoma. Children and adults using this medicine may have an increased risk of developing lymphoma or another cancer. Some children and teenage patients who have received etanercept or other medicines that work the same way as etanercept have developed cancers, including unusual types, which sometimes resulted in death. Some patients receiving Nepexto have developed skin cancer. Tell your doctor if you or the child develop any change in the appearance of the skin or growths on the skin.
+- Chickenpox : Tell your doctor if you or the child are exposed to chickenpox when using this medicine. Your doctor will determine if preventive treatment for chickenpox is appropriate.
+- Alcohol abuse : Do not use this medicine for the treatment of hepatitis related to alcohol abuse. Tell your doctor if you or the child in your care have a history of alcohol abuse.
+- Wegener's granulomatosis : this medicine is not recommended for the treatment of Wegener's granulomatosis (a rare inflammatory disease). Tell your doctor if you or the child in your care have Wegener's granulomatosis.
+- Anti-diabetic medicines : Tell your doctor if you or the child have diabetes or are taking medicines to treat diabetes. Your doctor may decide if you or the child need less anti-diabetic medicine while using this medicine.
+
+## Children and adolescents
+
+- Vaccinations : If possible, children should be up to date with all vaccinations before using Nepexto. Some vaccines, such as oral polio vaccine, should not be given while using this medicine. Tell your doctor before you or the child receive any vaccines.
+
+Nepexto should not be used in children and adolescents who weigh less than 62.5 kg.
+
+Nepexto should not be used in children with polyarthritis or extended oligoarthritis below the age of 2 years, or in children with enthesitis-related arthritis or psoriatic arthritis below the age of 12 years, or in children with psoriasis below the age of 6 years.
+
+## Other medicines and Nepexto
+
+Tell your doctor or pharmacist if you or the child are taking or have recently taken or might take any other medicines (including sulfasalazine), including those not prescribed by your doctor.
+
+You or the child should not use Nepexto with medicines that contain the active substance anakinra or abatacept.
+
+<div style=\"page-break-after: always\"></div>
+
+## Pregnancy and breast-feeding
+
+Nepexto should only be used during pregnancy if clearly needed. You should consult your doctor if you become pregnant, think you may be pregnant, or are planning to have a baby.
+
+If you received Nepexto during pregnancy, your baby may have a higher risk of getting an infection. In addition, one study found more birth defects when the mother had received etanercept in pregnancy, compared with mothers who had not received this medicine or other similar medicines (TNFantagonists), but there was no particular kind of birth defect reported. Another study found no increased risk of birth defects when the mother had received etanercept in pregnancy. Your doctor will help you to decide whether the benefits of treatment outweigh the potential risk to your baby.
+
+Talk to your doctor if you want to breastfeed while on Nepexto treatment. It is important that you tell your baby's doctors and other healthcare professionals about the use of Nepexto during pregnancy and breastfeeding before your baby receives any vaccine.
+
+## Driving and using machines
+
+The use of Nepexto is not expected to affect the ability to drive or use machines.
+
+## Nepexto contains sodium
+
+This medicine contains less than 1 mmol (23 mg) sodium per dose, that is to say, essentially 'sodiumfree'.
+
+## 3. How to use Nepexto
+
+Always use this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
+
+If you feel that the effect of Nepexto is too strong or too weak, talk to your doctor or pharmacist.
+
+## Use in adults
+
+Rheumatoid arthritis, psoriatic arthritis, and axial spondyloarthritis including ankylosing spondylitis The usual dose is 25 mg given twice a week or 50 mg once a week as an injection under the skin. However, your doctor may determine an alternative frequency at which to inject Nepexto.
+
+## Plaque psoriasis
+
+The usual dose is 25 mg twice a week or 50 mg once a week.
+
+Alternatively, 50 mg may be given twice a week for up to 12 weeks, followed by 25 mg twice a week or 50 mg once a week.
+
+Your doctor will decide how long you should use Nepexto and whether retreatment is needed based on your response. If Nepexto has no effect on your condition after 12 weeks, your doctor may tell you to stop using this medicine.
+
+## Use in children and adolescents
+
+Dose and frequency of dosing for the child or adolescent will depend on body weight and disease. Your doctor will determine the correct dose for the child and will prescribe an appropriate strength of etanercept.
+
+<div style=\"page-break-after: always\"></div>
+
+Nepexto should not be used in children and adolescents who weigh less than 62.5 kg.
+
+Other etanercept medicines with appropriate pharmaceutical forms for children are available.
+
+For polyarthritis or extended oligoarthritis in patients from the age of 2 years, or enthesitis-related arthritis or psoriatic arthritis in patients from the age of 12 years, the usual dose is 0.4 mg of etanercept per kg bodyweight (up to a maximum of 25 mg) given twice a week or 0.8 mg of etanercept per kg of bodyweight (up to a maximum of 50 mg) given once a week.
+
+For psoriasis in patients from the age of 6 years, the usual dose is 0.8 mg of etanercept per kg of bodyweight (up to a maximum of 50 mg) and should be given once weekly. If Nepexto has no effect on the child's condition after 12 weeks, your doctor may tell you to stop using this medicine.
+
+## Method and route of administration
+
+Nepexto is administered by an injection under the skin (by subcutaneous use).
+
+## Detailed instructions on how to prepare and inject Nepexto are provided in section 7, 'Instructions for Use'.
+
+Do not mix the solution with any other medicine.
+
+To help you remember, it may be helpful to write in a diary which day(s) of the week Nepexto should be used.
+
+## If you use more Nepexto than you should
+
+If you have used more Nepexto than you should (either by injecting too much on a single occasion or by using it too frequently), talk to a doctor or pharmacist immediately . Always have the outer carton of the medicine with you, even if it is empty.
+
+## If you forget to inject Nepexto
+
+If you forget a dose, inject it as soon as you remember, unless the next scheduled dose is the next day; in which case skip the missed dose. Then continue to inject the medicine on the usual day(s). If you do not remember until the day that the next injection is due, do not use a double dose (two doses on the same day) to make up for a forgotten dose.
+
+## If you stop using Nepexto
+
+Your symptoms may return upon discontinuation.
+
+If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+## Allergic reactions
+
+If any of the following happen, do not inject more Nepexto. Tell your doctor immediately or go to the casualty department at your nearest hospital.
+
+- Trouble swallowing or breathing
+- Swelling of the face, throat, hands, or feet
+
+<div style=\"page-break-after: always\"></div>
+
+- Feeling nervous or anxious, throbbing sensations, sudden reddening of the skin and/or a warm feeling
+- Severe rash, itching, or hives (elevated patches of red or pale skin that often itch)
+
+Serious allergic reactions are rare. However, any of the above symptoms may indicate an allergic reaction to this medicine, so you should seek immediate medical attention.
+
+## Serious side effects
+
+If you notice any of the following, you or the child may need urgent medical attention.
+
+- Signs of serious infections , such as high fever that may be accompanied by cough, shortness of breath, chills, weakness, or a hot, red, tender, sore area on the skin or joints;
+- Signs of blood disorders , such as bleeding, bruising, or paleness;
+- Signs of nerve disorders , such as numbness or tingling, changes in vision, eye pain, or onset of weakness in an arm or leg;
+- Signs of heart failure or worsening heart failure , such as fatigue or shortness of breath with activity, swelling in the ankles, a feeling of fullness in the neck or abdomen, night-time shortness of breath or coughing, bluish colour of the nails or the lips;
+- Signs of cancers : Cancers may affect any part of the body including the skin and blood, and possible signs will depend on the type and location of the cancer. These signs may include weight loss, fever, swelling (with or without pain), persistent cough, presence of lumps or growths on the skin;
+- Signs of autoimmune reactions (where antibodies are made that may harm normal tissues in the body) such as pain, itching, weakness, and abnormal breathing, thinking, sensation, or vision;
+- Signs of lupus or lupus-like syndrome, such as weight changes, persistent rash, fever, joint or muscle pain, or fatigue;
+- Signs of inflammation of the blood vessels such as pain, fever, redness or warmth of the skin, or itching.
+
+These are rare or uncommon side effects but are serious conditions (some of which may rarely be fatal). If any of the above occurs, tell your doctor immediately, or visit the casualty department at your nearest hospital.
+
+The known side effects of etanercept include the following on groups of decreasing frequency:
+
+- Very common (may affect more than 1 in 10 people):
+
+Infections (including colds, sinusitis, bronchitis, urinary tract infections and skin infections); injection site reactions (including bleeding, bruising, redness, itching, pain, and swelling) (these do not occur as often after the first month of treatment, some patients have developed a reaction at an injection site that was recently used); and headache.
+
+- Common (may affect up to 1 in 10 people): Allergic reactions; fever; itching; antibodies directed against normal tissue (autoantibody
+
+formation).
+
+· Uncommon (may affect up to 1 in 100 people): Serious infections (including pneumonia, deep skin infections, joint infections, blood infection, and infections at various sites); worsening of congestive heart failure; low red blood cell count, low white blood cell count, low neutrophil (a type of white blood cell) count; low blood platelet count; skin cancer (excluding melanoma); localised swelling of the skin (angioedema); hives (elevated patches of red or pale skin that often itch); eye inflammation; psoriasis (new or worsening); inflammation of the blood vessels affecting multiple organs; elevated liver blood tests (in patients also receiving methotrexate treatment, the frequency of elevated liver blood tests is common), abdominal cramps and pain, diarrhoea, weight loss or blood in the stool (signs of bowel problems).
+
+<div style=\"page-break-after: always\"></div>
+
+- Rare (may affect up to 1 in 1,000 people):
+
+Serious allergic reactions (including severe localised swelling of the skin and wheezing); lymphoma (a type of blood cancer); leukaemia (cancer affecting the blood and bone marrow); melanoma (a type of skin cancer); combined low platelet, red, and white blood cell count; nervous system disorders (with severe muscle weakness and signs and symptoms similar to those of multiple sclerosis or inflammation of the nerves of the eyes or spinal cord); tuberculosis; new onset congestive heart failure; seizures; lupus or lupus-like syndrome (symptoms may include persistent rash, fever, joint pain, and tiredness); skin rash, which may lead to severe blistering and peeling of the skin; lichenoid reactions (itchy reddish-purple skin rash and/or threadlike white-grey lines on mucous membranes); inflammation of the liver caused by the body's own immune system (autoimmune hepatitis; in patients also receiving methotrexate treatment, the frequency is uncommon); immune disorder that can affect the lungs, skin and lymph nodes (sarcoidosis); inflammation or scarring of the lungs (in patients also receiving methotrexate treatment, the frequency of inflammation or scarring of the lungs is uncommon); damage to the tiny filters inside your kidneys leading to poor kidney function (glomerulonephritis).
+
+- Very rare (may affect up to 1 in 10,000 people):
+
+Failure of the bone marrow to produce crucial blood cells.
+
+- Not known (frequency cannot be estimated from available data):
+
+Merkel cell carcinoma (a type of skin cancer); Kaposi's sarcoma (a rare cancer related to infection with human herpes virus 8. Kaposi's sarcoma most commonly appears as purple lesions on the skin); excessive activation of white blood cells associated with inflammation (macrophage activation syndrome); recurrence of hepatitis B (a liver infection); worsening of a condition called dermatomyositis (muscle inflammation and weakness with an accompanying skin rash).
+
+## Additional side effects in children and adolescents
+
+The side effects and their frequencies seen in children and adolescents are similar to those described above.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly the national reporting system listed in Appendix V. By reporting side effects, you can help provide more information on the safety of this medicine.
+
+## 5. How to store Nepexto
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date which is stated on the carton and pre-filled pen after EXP. The expiry date refers to the last day of that month.
+
+Store in a refrigerator (2°C - 8°C). Do not freeze.
+
+Keep the pre-filled pens in the outer carton in order to protect from light.
+
+After taking a pre-filled pen from the refrigerator, wait approximately 30 minutes to allow the Nepexto solution in the pre-filled pen to reach room temperature . Do not warm in any other way. Use immediately.
+
+<div style=\"page-break-after: always\"></div>
+
+Nepexto may be stored outside of the refrigerator at temperatures up to a maximum of 25°C for a single period of up to four weeks; after which, it should not be refrigerated again. Nepexto should be discarded if not used within four weeks after removal from the refrigerator. It is recommended that you record the date that Nepexto is removed from the refrigerator and the date after which Nepexto should be discarded (no more than 4 weeks following the removal from the refrigerator).
+
+Inspect the solution in the pen. It should be clear or opalescent, colourless or yellow, and may contain small white or almost transparent particles of protein. This appearance is normal for Nepexto. Do not use the solution if it is discoloured, cloudy, or if particles other than those described above are present. If you are concerned with the appearance of the solution, then contact your pharmacist for assistance.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Nepexto contains
+
+- -The active substance is etanercept. Each pre-filled pen contains 50 mg of etanercept.
+- -The other ingredients are sodium citrate, sodium dihydrogen phosphate dihydrate, glycine, sucrose, sodium chloride and water for injections.
+
+## What Nepexto looks like and contents of the pack
+
+Nepexto is supplied as a pre-filled pen containing a clear to opalescent, colourless yellow solution for injection.
+
+Nepexto is available in packs containing 4 or 12 pre-filled pens. Not all pack sizes may be marketed.
+
+## Marketing Authorisation Holder
+
+Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13 DUBLIN Ireland D13 R20R
+
+## Manufacturer
+
+Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
+
+For further information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder:
+
+<div style=\"page-break-after: always\"></div>
+
+## België/Belgique/Belgien
+
+Biocon Biologics Belgium BV Tél/Tel: 0080008250910
+
+## България
+
+Biosimilar Collaborations Ireland Limited Тел: 0080008250910
+
+## Česká republika
+
+Biocon Biologics Germany GmbH Tel: 0080008250910
+
+## Danmark
+
+Biocon Biologics Finland OY Tlf: 0080008250910
+
+## Deutschland
+
+Biocon Biologics Germany GmbH Tel: 0080008250910
+
+## Eesti
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## Ελλάδα
+
+Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε Τηλ.: 0080008250910
+
+## España
+
+Biocon Biologics Spain S.L. Tel: 0080008250910
+
+## France
+
+Biocon Biologics France S.A.S Tel: 0080008250910
+
+## Hrvatska
+
+Biocon Biologics Germany GmbH Tel: 0080008250910
+
+## Ireland
+
+Biosimilar Collaborations Ireland Limited Tel: 1800 777 794
+
+## Ísland
+
+Biocon Biologics Finland OY Sími: +345 800 4316
+
+## Italia
+
+Biocon Biologics Spain S.L . Tel: 0080008250910
+
+## Κύπρος
+
+Biosimilar Collaborations Ireland Limited Τηλ: 0080008250910
+
+## Lietuva
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## Luxembourg/Luxemburg
+
+Biocon Biologics France S.A.S Tél/Tel: 0080008250910
+
+## Magyarország
+
+Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
+
+## Malta
+
+Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
+
+## Nederland
+
+Biocon Biologics France S.A.S Tel: 0080008250910
+
+## Norge
+
+Biocon Biologics Finland OY Tlf: +47 800 62 671
+
+## Österreich
+
+Biocon Biologics Germany GmbH Tel: 0080008250910
+
+## Polska
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## Portugal
+
+Biocon Biologics Spain S.L. Tel: 0080008250910
+
+## România
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## Slovenija
+
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
+
+## Slovenská republika
+
+Biocon Biologics Germany GmbH Tel: 0080008250910
+
+## Suomi/Finland
+
+Biocon Biologics Finland OY Puh/Tel: 99980008250910
+
+## Sverige
+
+Biocon Biologics Finland OY Tel: 0080008250910
+
+<div style=\"page-break-after: always\"></div>
+
+## Latvija
+
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
+
+## This leaflet was last revised in
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+## 7. Instructions for use
+
+Read the Instructions for use before you start using Nepexto and each time you get a refill of your prescription. There may be new information.
+
+- Do not try to give yourself the injection unless your doctor or nurse has shown you how to give the injection.
+
+Not included in pack:
+
+- Alcohol swab
+- Gauze pad and plaster
+- Sharps disposal container
+
+## Device Parts
+
+## A. Prepare for injection
+
+Find a well-lit, clean flat surface and gather all the equipment you need.
+
+1. Take the Nepexto carton containing the pre-filled pens out of the refrigerator and place it on a flat work surface. Remove one pre-filled pen and place iton your work surface. Do not shake the pre-filled pen. Place the carton containing any remaining pre-filled pen back into the refrigerator. Never recap the needle.
+
+Please see section 5 for instructions on how to store Nepexto. If you have any questions about storage, contact your doctor, nurse or pharmacist for further instructions.
+
+- Do not use the pre-filled pen past the expiry date.
+- Do not use the pre-filled pen if it has been dropped onto a hard surface (components inside the pre-filled pen may be broken).
+- Do not use the pre-filled pen if the needle cap is missing or not securely attached.
+
+## 2. Inspect the solution:
+
+Look at the medicine through the viewing window.
+
+- The medicine should be clear or opalescent, colourless or yellow, and may contain small white or almost transparent particles of protein.
+- Do not use the solution if it is discoloured, cloudy, or if particles other than those described above are present.
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## 3. Allow the medicine to reach room temperature:
+
+Remove one pre-filled pen from the carton that is stored in the refrigerator and leave at room temperature for at least 30 minutes before injecting.
+
+This is important to make the medicine easier and more comfortable to inject.
+
+- Do not remove the needle cap until you are ready to inject.
+- Do not use heat sources, such as a microwave or hot water, to warm Nepexto.
+
+## 4. Choose an injection site:
+
+The pre-filled pen is for a subcutaneous injection.
+
+It should be injected into the thigh, abdomen, or back of the upper arm (see image on the right).
+
+Rotate the site for each injection.
+
+If you are injecting into the abdomen, choose a site that is at least 5 cm away from the belly button.
+
+- Do not inject into areas that are red, hard, bruised, or tender.
+- Do not inject into scars or stretch marks.
+- If you have psoriasis, do not inject into any raised, thick, red, or scaly skin patches, or lesions.
+
+## B. Injection steps
+
+## Step 1:
+
+Wash your hands with soap and water.
+
+## Step 2:
+
+Wipe the skin at the injection site with an alcohol swab.
+
+See '4. Choose an injection site' for guidance with choosing an injection site.
+
+- Do not touch this area again before giving the injection.
+
+## Step 3:
+
+Pull the needle cap straight off and dispose of it in the bin or sharps container.
+
+- Do not twist or bend the needle cap while removing it, as this may damage the needle.
+- Never recap the needle.
+
+## Step 4:
+
+Gently stretch the skin at the cleaned injection site.
+
+Position the pre-filled pen approximately 90 degrees to the skin.
+
+- Do not pinch the skin.
+- Stretching the skin creates a firm surface.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Step 5:
+
+Firmly press the pre-filled pen down into the site to start the injection.
+
+The device will click when the injection begins.
+
+Continue to hold the pre-filled pen firmly pressed into the site.
+
+The device will click a second time.
+
+## Step 6:
+
+After the second click, count slowly to 15 to make sure that the injection is complete.
+
+- Do not release pressure against the injection site before the injection is complete.
+- Do not move the pre-filled pen during the injection.
+
+## Step 7:
+
+Remove the empty pen from the skin.
+
+The needle guard will completely cover the needle.
+
+Check for the pink plunger rod in the window to confirm that the full dose has been delivered.
+
+## Disposal:
+
+Dispose of the empty pen in an approved sharps container.
+
+Check with your healthcare provider for instructions on how to properly dispose a filled sharps container.
+
+Sharps disposal containers may be purchased at your local pharmacy.
+
+- Do not throw the sharps container in household bin.
+- Do not recycle.
+- Always keep the container out of the sight and reach of children.
+
+## C. Injection site care
+
+If there is bleeding at the injection site, press a gauze pad over the injection site.
+
+- Do not rub the injection site.
+
+If needed, cover the injection site with a plaster.
+
+If you have any questions or require further information, please talk with your doctor, nurse or pharmacist.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->

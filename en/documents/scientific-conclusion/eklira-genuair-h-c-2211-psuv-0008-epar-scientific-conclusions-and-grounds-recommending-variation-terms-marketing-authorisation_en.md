@@ -1,0 +1,76 @@
+---
+document_datetime: 2023-09-21 19:02:36
+document_pages: 3
+document_pathfilename: www.ema.europa.eu/en/documents/scientific-conclusion/eklira-genuair-h-c-2211-psuv-0008-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf
+document_name: eklira-genuair-h-c-2211-psuv-0008-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf
+version: success
+processing_time: 1.4118087
+conversion_datetime: 2025-12-24 02:13:47.245839
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.64.1
+  docling-core: 2.55.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+<!-- image -->
+
+20 February 2014 EMA/CHMP/393731/2014 Committee for Medicinal Products for Human Use (CHMP)
+
+## Eklira Genuair / Bretaris Genuair
+
+Scientific conclusions and grounds recommending the variation to the terms of the marketing authorisation
+
+International non-proprietary name: aclidinium bromide
+
+Procedure No.  EMEA/H/C/002211/PSUV/0008
+
+EMEA/H/C/002706/PSUV/0008
+
+Period covered by the PSUR: 21 January 2013 to 20 July 2013
+
++44 (0)20 7418 8400
+
+Facsimile
+
++44 (0)20 7418 8416
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+The MAH has performed a pooled analysis of relevant data including data from the aclidinium bromide monotherapy program and the aclidinium bromide 400 µg BID and placebo data coming from the combination program of acldinium bromide with formoterol fumarate. It includes clinical trials with aclidinium bromide 400 µg BID of more than 1 month duration.
+
+A total of 2,167 patients were exposed to Aclidinium Bromide 400 µg BID, doubling the size of the previous pooling in terms of number of patients and exposure time (2,167 vs. 1,005 patients and 1,258 vs. 526.2 years for the new pooling and previous pooling, respectively).
+
+According to this pooled data analysis, the incidence of patients with drug hypersensitivity events in the aclidinium bromide 400 µg BID was equal to placebo, being lower when adjusting by the exposure time 3.2 vs. 4.2 per 1000 patient-years, respectively. Two out the four events in aclidinium bromide treated patients were hypersensitivity reactions to concomitant drugs (fluoxetine and meloxicam).
+
+With respect to patients reporting rash events, the raw incidence was similar between aclidinium bromide and placebo, and it became lower when adjusting by the exposure time 18.3 vs.  25.2 per 1,000 patient-years, respectively.
+
+The incidence of patients with pruritus events were slightly higher in aclidinium bromide compared to placebo, being similar when taking into account the exposure time 12.7 vs.  12.6 per 1,000 patient-years, respectively.
+
+No cases of angioedema were reported in the clinical trials.
+
+According to the SmPC guideline, frequency of ADRs detected in post-marketing should consider crude incidence rates of reactions seen in clinical development. In addition, adverse events without at least a suspected causal relationship should not be included in section 4.8.
+
+There were no significant differences in the incidence of AEs (independently of the causality assessment given by the investigator) of hypersensitivity, rash and pruritus in clinical trials. These events have been detected as a signal in post-marketing. Frequencies based on reporting rates from a spontaneous reporting system should not be used to assign frequency category and adverse events without at least a suspected causal relationship should not be included in SmPC section 4.8. Therefore, the following adverse events and frequencies were included in section 4.8 'Undesirable effect' of the SmPC:
+
+| System Organ Class                     | Preferred term   | Frequency   |
+|----------------------------------------|------------------|-------------|
+| Immune system disorders                | Hypersensitivity | Rare        |
+|                                        | angioedema       | Not known   |
+| Skin and subcutaneous tissue disorders | Rash             | Uncommon    |
+|                                        | Pruritus         | Uncommon    |
+
+<div style=\"page-break-after: always\"></div>
+
+## Grounds recommending the variation to the terms of the Marketing Authorisation
+
+On the basis of the scientific conclusions for Bretaris Genuair, the CHMP is of the opinion that the benefit-risk balance of the medicinal product containing the active substance aclidinium bromide is favourable subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the Marketing Authorisation should be varied.

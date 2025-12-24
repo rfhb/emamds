@@ -1,0 +1,65 @@
+---
+document_datetime: 2023-09-21 19:47:37
+document_pages: 2
+document_pathfilename: www.ema.europa.eu/en/documents/scientific-conclusion/ganfort-h-c-psusa-00002961-201811-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf
+document_name: ganfort-h-c-psusa-00002961-201811-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf
+version: success
+processing_time: 0.7778734
+conversion_datetime: 2025-12-24 22:05:14.103631
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.66.0
+  docling-core: 2.57.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+<!-- image -->
+
+25 July 2019 EMA/CHMP/571434/2019 Committee for Medicinal Products for Human Use (CHMP)
+
+## Scientific conclusions and grounds for the variation to the terms of the marketing authorisation(s)
+
+Active substance(s): bimatoprost / timolol
+
+Procedure No. EMEA/H/C/PSUSA/00002961/201811
+
+Period covered by the PSUR: 20/11/2015 to 19/11/2018
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for bimatoprost / timolol, the scientific conclusions of CHMP are as follows:
+
+## Hallucination:
+
+It is known that ophthalmic beta-blockers (like e.g. timolol) in some cases can cause systemic side effects.
+
+A total of 56 cases have been derived from EudraVigilance for ophthalmic timolol products including 5 for the bimatoprost/timolol combination product which have given rise to various 'Perception disturbances' like: Hallucination; Derealisation; Hallucination, auditory; Hallucination, visual. It is acknowledged that in more than half of cases timolol eye drops were the only suspect drug, although additional risk factors such as elderly age, underlying disease or concomitant drugs may have contributed.
+
+In the publication: Nanda T, Rasool N, Callahan AB, Stamper RL, Odel JG. Ophthalmic Timolol Hallucinations: A Case Series and Review of the Literature. J Glaucoma. 2017;26(9):e214-e216 , four strong cases of hallucinations with ophthalmic timolol (single-substance) were reported, all in elderly patients with coexisting CNS pathology. In all four cases, positive de-challenge and re-challenge were reported.
+
+In conclusion, there is evidence to suggest that ophthalmic timolol can be associated with hallucinations, either through systemic effects or through CNS penetration of timolol. This risk may increase with elderly age, and the psychiatric medical history appears to be a risk factor rather than confounding for development of hallucinations following timolol containing eye drops administration
+
+Based on this outcome, update of section 4.8 of the Summary of Prodct Characteristic to add 'hallucination' with the frequency 'not known' is recommended.
+
+## Superior sulcus deepening:
+
+This ADR is most likely linked to the active substance bimatoprost, and not the preservative.
+
+Based on this outcome, removal of the note in the SmPC in section 4.8 linking the ADR 'Superior sulcus deepening' to only products containing preservative is recommended.
+
+Therefore in view of the data presented in the reviewed PSUR, the PRAC considers that changes to the product information of medical products containing timolo were warranted.
+
+The CHMP agrees with the scientific conclusions made by the PRAC.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for bimatoprost / timolol the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing bimatoprost / timolol is unchanged subject to the proposed changes to the product information
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

@@ -1,0 +1,70 @@
+---
+document_datetime: 2023-09-21 18:51:32
+document_pages: 3
+document_pathfilename: www.ema.europa.eu/en/documents/scientific-conclusion/foscan-h-c-318-psu-26-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf
+document_name: foscan-h-c-318-psu-26-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf
+version: success
+processing_time: 1.0017008
+conversion_datetime: 2025-12-24 22:01:32.900176
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.66.0
+  docling-core: 2.57.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+<!-- image -->
+
+27 June 2013 EMA/670815/2013 Committee for Medicinal Products for Human Use (CHMP)
+
+## Foscan
+
+International non-proprietary name: temoporfin
+
+Procedure no. EMEA/H/C/000318/PSU/026
+
+Period covered by the PSUR:  24 October 2001 (IBD) until 31 December 2012
+
+Scientific conclusions and grounds recommending the variation to the terms of the Marketing Authorisation
+
+7 Westferry Circus ● Canary Wharf ● London E14 4HB ● United Kingdom
+
+Telephone +44 (0)20 7418 8400 Facsimile +44 (0)20 7418 8613
+
+E-mail info@ema.europa.eu Website www.ema.europa.eu
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR for Foscan, the scientific conclusions of PRAC are as follows:
+
+Based on the Rapporteur's review of data on safety and efficacy, the Rapporteur considers that the risk-benefit balance of medicinal products containing the active substance temoporfin remains favourable but recommends that the terms of the marketing authorisation(s) should be varied as follows:
+
+Within sections 4.4 and/or 4.8 of the SmPC the following information should be added:
+
+- Fistula is a risk related to PDT with Foscan and should be included in the SmPC in sections 4.4 and 4.8 (Karakullukcu B et al. Head &amp; Neck 2012). As only few patients have been included in clinical trials overall (&lt;150) and this adverse reactions does not seem to have been reported in MAH clinical trials, the frequency cannot be determined precisely. Therefore, frequency should be 'unknown'.
+- Foscan has been used in various cancer types outside the approved indication as shown in several publications listed in the PSUR. The risks of off-label use might be more serious and devastating than the other anticipated adverse reactions of Foscan when photodynamic therapy (PDT) is applied in squamous cell carcinoma outside the head and neck region. Substantial and clinical relevant damage of surrounding tissue may occur. A warning regarding off label use and risks of cholangitis/cholecystitis and  liver abscess after treatment of malignant biliary strictures and oesophageal perforation after treatment of mesothelioma should be included in section 4.4.
+- Sepsis as a consequence of local infection should be included in section 4.4 and 4.8. Frequency should be 'unknown' (same reasoning as for fistula).
+- Based on the publication (Nyst et al, Photodiagnosis Photodyn Ther. 2012 Sep;9(3):274-81), headache should be also included in section 4.8 as a very common adverse event.
+- Durbec et al. (Eur Arch Otorhinolaryngol. 2013 Mar;270(4):1433-9) mentions that pain usually started on the day after illumination and continued for a period between 15 days and 4 weeks. The information about this very common adverse reaction in the SmPC should be updated in section 4.4 and should include information about time to onset and duration.
+- Vascular rupture should be included in section 4.8 of the SmPC with a cross link to section 4.3. Frequency should be 'unknown' (same reasoning as for fistula).
+- Cases of life-threatening or fatal oedema and tongue oedema have been reported. Since oedema is a very common adverse reactions, more detailed information about this risk should be included in the SmPC, sections 4.4 and 4.8 (see SmPC guideline) (tongue oedema should be added in section 4.8; in section 4.4 information regarding emergency treatment, risk of dyspnea and need for tracheotomy etc. should be included). According to an expert opinion provided by the MAH (Colin Hopper, UK), the use headlamps instead of surgical lamps is recommended in case of (emergency) surgery. This should be included in the SmPC.
+- The package leaflet should be amended in line with the SmPC.
+- Annex II should be amended in line with the latest QRD template version 9.
+- The amendments recommended to be introduced to the product information are detailed in Annex 1.
+
+<div style=\"page-break-after: always\"></div>
+
+The CHMP agrees with the scientific conclusions made by the PRAC.
+
+## Grounds recommending the variation to the terms of the Marketing Authorisation
+
+On the basis of the scientific conclusions for Foscan the CHMP is of the opinion that the benefit-risk balance of the medicinal product containing the active substance temoporfin is favourable subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the Marketing Authorisation should be varied.

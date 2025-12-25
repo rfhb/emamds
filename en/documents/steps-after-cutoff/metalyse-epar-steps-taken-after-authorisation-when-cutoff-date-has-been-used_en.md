@@ -1,0 +1,41 @@
+---
+document_datetime: 2023-09-21 18:47:46
+document_pages: 2
+document_pathfilename: www.ema.europa.eu/en/documents/steps-after-cutoff/metalyse-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf
+document_name: metalyse-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf
+version: success
+processing_time: 1.4094445
+conversion_datetime: 2025-12-25 04:25:41.065743
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.66.0
+  docling-core: 2.57.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## PROCEDURAL STEPS TAKEN AFTER GRANTING THE MARKETING AUTHORISATION
+
+For procedures finalised after 1 February 2004 please refer to module 8B.
+
+- The MAH submitted an Urgent Safety Restriction on 14 November 2001 to introduce changes in the instructions for use and handling in the SPC and in the instructions for use detailed in the pictogram on the inner lid of the folding box, following a number of reports suggesting that the instructions for use of the product may not have been followed appropriately. In addition, the MAH informed treating physicians by means of a Dear Heath Care Professional letter and the EMEA  published  a  Public  Statement.  The  EPAR  was  updated  shortly  afterwards  as  a consequence of the changes to the MA. These changes are reflected in the SPC and labelling.
+
+Subsequent post Marketing Authorisation applications agreed upon are summarised in the table below:
+
+| Scope                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Application number   | Type of modification 3   | Notification/ Opinion issued on 4   | Commission Decision Issued/amen ded on   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|--------------------------|-------------------------------------|------------------------------------------|
+| To produce the sterilised water for injections also at Boehringer Ingelheim Pharma KG, Biberach (Germany) using a 10 ml syringe made of cycloolefine-copolymer (TopPac syringe by Schott Polymer GmbH).                                                                                                                                                                                                                                                                                 | II/03                | II                       | 30.05.02                            | 18.09.02                                 |
+| To revise section 4.8 of the SPC to reflect fatal cases of haemorrhage, particularly intracranial haemorrhage. In addition, section 4.8 has been revised taking into account the assessment of the 3 rd PSUR.                                                                                                                                                                                                                                                                           | II/04                | II                       | 17.10.02                            | 23.01.03                                 |
+| Minor changes in the local representatives section of the package leaflet, such as: change in the name of the Spanish local representative, new telephone number in Germany, change in the name of the company in France, change in the address for Luxembourg and change in the Swedish address.                                                                                                                                                                                       | II/05                | I                        | 14.10.02                            | 27.11.02                                 |
+| A minor change of the purification process in the manufacturing process of the active substance to include a 180KD Viresolve filtration step into reprocessing i. e. the repetition of the viral removal step restricted to the failure of the filter membrane integrity test (MIT) or equipment malfunction.                                                                                                                                                                           | II/06                | I                        | 22.05.03                            | N/A                                      |
+| A replacement of the approved Bioset transfer system by an alternative product kit where reconstitution can be performed either by a vial adapter or a needle, which are included in the pack. The section 6.5 Nature and Content of the container and 6.6. Instructions for Use in the SPC and the pictogram contained in the labelling will be changed accordingly. In addition changes to the details of the local representative of Finland were introduced in the Package Leaflet. | II/07                | II                       | 25.04.03                            | 23.07.03                                 |
+| Achange in the name of the manufacturer of the active substance and the medicinal product in charge of the batch release in the EEA from Boehringer Ingelheim Pharma KG to Boehringer Ingelheim Pharma GmbH &Co. KG.                                                                                                                                                                                                                                                                    | II/08                | I                        | 21.05.03                            | 25.06.03                                 |
+
+<div style=\"page-break-after: always\"></div>
+
+| The deletion of a contraindication in diabetic patients and its replacement by the appropriate warning following the publication of a CPMP position statement concerning the use of iv fibrinolytics in diabetic patients. In addition, the MAH has updated section 4.8 of the Summary of Product Characteristics in line with the Guideline on Summary of Product Characteristics..   | II/09   | II   | 25.09.03   | 27.01.04   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|------|------------|------------|
+| To tighten specifications for the target protein to 7% and the limit for yield at harvest to NLT 70%.                                                                                                                                                                                                                                                                                  | II/10   | I    | 02.07.03   | N/A        |
+| A reduction of shelf-life of the lyophilised powder from 36 to 24 months at up to 30ºC and change for the shelf-life of the reconstituted solution from 24 hours at 30ºC to 24 hours at 2-8ºC and 8 hours at 30ºC. As a consequence the SPC and PL are revised accordingly.                                                                                                            | II/11   | II   | 25.09.03   | 27.01.04   |

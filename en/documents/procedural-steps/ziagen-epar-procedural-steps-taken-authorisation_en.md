@@ -1,0 +1,51 @@
+---
+document_datetime: 2023-09-21 19:13:11
+document_pages: 1
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps/ziagen-epar-procedural-steps-taken-authorisation_en.pdf
+document_name: ziagen-epar-procedural-steps-taken-authorisation_en.pdf
+version: success
+processing_time: 0.3933173
+conversion_datetime: 2025-12-25 11:53:10.590534
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.66.0
+  docling-core: 2.57.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## BACKGROUND INFORMATION ON THE PROCEDURE
+
+## 1. Submission of the dossier
+
+The  applicant  Glaxo  Group  Limited  submitted  on  29  June  1998  an  application  for  Marketing Authorisation to the European Agency for the Evaluation of Medicinal Products (EMEA) for Ziagen, through the centralised procedure. After agreement by the CPMP on 25 March 1998, this medicinal product is referred to Part B of the Annex to Council Regulation No (EC) 2309/93 of 22 July 1993.
+
+The Rapporteur and Co-Rapporteur appointed by the CPMP and the evaluation teams were:
+
+Rapporteur: E. Abadie
+
+## Licensing status:
+
+The product was not licensed in any country inside or outside the EU at the time of submission of the application.
+
+## 2. Steps taken for the assessment of the product
+
+- The procedure started on 24 July 1998.
+- The  Co-Rapporteur's  first assessment report was  circulated  to  all  CPMP  members  on 9 October 1998.
+- The Rapporteur's first assessment report was circulated to all CPMP  members on 13 October1998.
+- During the meeting on 19 November the CPMP agreed on the consolidated list of questions to be  sent  to  the  applicant.  The  final  consolidated  list  of  questions  was  sent  to  the  applicant  on 19 November 1998.
+- The applicant submitted the responses to the consolidated list of questions on 13 January 1999.
+- The Rapporteur circulated the joint response assessment report on the applicant's responses to the list of questions to all CPMP Members on 2 March 1999.
+- The applicant submitted further responses to issues related to safety and especially hypersensitivity reactions as an updated safety report on 2 March 1999.
+- The Rapporteur circulated an assessment report on the updated safety report on 16 March 1999.
+- During  the  CPMP  meeting  on  23  March  1999,  outstanding  issues  were  addressed  by  the applicant during a hearing before the CPMP.
+- The CPMP, in the light of the overall data submitted and the scientific discussion within the Committee,  issued  a  positive  opinion  for  granting  a  Marketing  Authorisation  to  Ziagen  on 25 March 1999.
+- The CPMP Opinions were forwarded, in all official languages of the European Union, to the European Commission, which adopted the corresponding Decision on 8 July 1999.
+
+1/1                                                                                   EMEA 2005
+
+Co-Rapporteur:
+
+G. Vicari

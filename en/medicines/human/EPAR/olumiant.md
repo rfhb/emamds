@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-21 11:01:46
+document_datetime: 2025-12-25 07:25:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/olumiant.html
 document_name: olumiant.html
 version: success
-processing_time: 0.1704803
-conversion_datetime: 2025-12-24 06:57:49.88207
+processing_time: 0.1644702
+conversion_datetime: 2025-12-26 18:41:16.895976
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -150,7 +150,7 @@ English (EN) (110.75 KB - PDF)
 
 [View](/en/documents/overview/olumiant-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-671)
+[Other languages (22)](#file-language-dropdown-100)
 
 български (BG) (137.92 KB - PDF)
 
@@ -438,7 +438,7 @@ English (EN) (1.33 MB - PDF)
 
 [View](/en/documents/product-information/olumiant-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-518)
+[Other languages (24)](#file-language-dropdown-163)
 
 български (BG) (1.41 MB - PDF)
 
@@ -754,7 +754,7 @@ English (EN) (63.22 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/olumiant-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-381)
+[Other languages (24)](#file-language-dropdown-609)
 
 български (BG) (76.98 KB - PDF)
 
@@ -1174,7 +1174,7 @@ English (EN) (139.86 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/olumiant-h-c-4085-a20-0032-epar-scientific-conclusions-article-20_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-532)
+[Other languages (24)](#file-language-dropdown-624)
 
 български (BG) (203.66 KB - PDF)
 
@@ -1524,7 +1524,7 @@ English (EN) (633.99 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/olumiant-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-32)
+[Other languages (24)](#file-language-dropdown-513)
 
 български (BG) (683.33 KB - DOCX)
 

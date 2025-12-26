@@ -1,0 +1,645 @@
+---
+document_datetime: 2023-09-21 20:32:17
+document_pages: 22
+document_pathfilename: www.ema.europa.eu/en/documents/variation-report/flucelvax-tetra-h-c-4814-p46-007-epar-assessment-report_en.pdf
+document_name: flucelvax-tetra-h-c-4814-p46-007-epar-assessment-report_en.pdf
+version: success
+processing_time: 10.1830166
+conversion_datetime: 2025-12-26 17:36:01.586755
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.66.0
+  docling-core: 2.57.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+20 May 2021 EMA/318515/2021 Human Medicines Division
+
+## Assessment report for paediatric studies submitted according to Article 46 of the Regulation (EC) No 1901/2006
+
+## Flucelvax Tetra
+
+influenza vaccine (surface antigen, inactivated, prepared in cell cultures)
+
+Procedure no: EMEA/H/C/004814/P46/007
+
+## Note
+
+Assessment report as adopted by the CHMP with all information of a commercially confidential nature deleted.
+
+●
+
+●
+
+Refer to www.ema.europa.eu/how-to-find-
+
+Address for visits and deliveries
+
+Send us a question
+
+Go to www.ema.europa.eu/contact
+
++31 (0)88 781 6000
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+| Table of contents                                                                                                           |
+|-----------------------------------------------------------------------------------------------------------------------------|
+| 1. Introduction............................................................................................3                |
+| 2. Scientific discussion................................................................................3                   |
+| 2.1. Information on the development program ...............................................................3                |
+| 2.2. Information on the pharmaceutical formulation used in the study...............................3                        |
+| 2.3. Clinical aspects ....................................................................................................5 |
+| 2.3.1. Introduction......................................................................................................5  |
+| 2.3.2. Clinical study ....................................................................................................5 |
+| 2.3.3. Discussion on clinical aspects............................................................................21         |
+| 3. Rapporteur's overall conclusion and recommendation ..........................22                                          |
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. Introduction
+
+On 26 February 2021, the MAH submitted a completed paediatric study for Flucelvax Tetra, in accordance with Article 46 of Regulation (EC) No1901/2006, as amended.
+
+These data are also submitted as part of the post-authorisation measures.
+
+A short critical expert overview has also been provided.
+
+## 2. Scientific discussion
+
+## 2.1. Information on the development program
+
+The MAH stated that study V130\\_10 (EudraCT Number 2020-002785-13), 'Phase 3, Randomized, Observer-Blind, Multicenter, Noninferiority Study to Evaluate Safety and Immunogenicity of a Cellbased Quadrivalent Subunit Influenza Virus Vaccine (QIVc) and a United States-licensed Quadrivalent Influenza Virus Vaccine (QIV) in Healthy Subjects 6 Months Through 47 Months' is a stand alone study.
+
+Study V130\\_10 was a PAM (LEG 001) which was undertaken to expand the age indication and support licensure of QIVc for use in children 6 months of age and older in the US (from the currently approved indication of 4 years and older) and to further support regulatory submissions in other regions as required.
+
+## 2.2. Information on the pharmaceutical formulation used in the study
+
+Subjects in the QIVc group received a 0.5 mL IM dose of QIVc (1 or 2 doses, depending on influenza vaccination history).
+
+Subjects in the US-licensed QIV comparator vaccine group who were:
+
+- 6 months through 35 months of age received a 0.25 mL IM dose of the comparator vaccine (1 or 2 doses, depending on influenza vaccination history);
+- 36 months through 47 months of age received a 0.5 mL IM dose of the comparator vaccine (1 or 2 doses, depending on influenza vaccination history).
+
+Table 9-1     QIVc Vaccine Composition
+
+| Name of Ingredients                                                                                                                                                              | Quantity per dose (0.5 mL/dose)   | Function          |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------------|
+| Active Ingredients Hemagglutinin and Neuraminidase Antigens from the Influenza virus strains recommended by the WHO/CBER/CHMP for the respective season A/Idaho/07/2018 (A/H1N1) | 15 µg HA (per strain)             | Influenza vaccine |
+
+<div style=\"page-break-after: always\"></div>
+
+| A/Indiana/08/2018 (A/H3N2) B/Singapore/INFTT-16-0610/2016 (B/Yamagata) B/Iowa/06/2017 (B/Victoria)                                                                         |                   |                   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-------------------|
+| Other Ingredients                                                                                                                                                          | Other Ingredients | Other Ingredients |
+| Buffer M (PBS) pH 7.2 Sodium chloride Potassium chloride Magnesium chloride hexahydrate Disodium phosphate dihydrate Potassium dihydrogen phosphate Water for injection(s) |                   |                   |
+
+Table 9-2     Afluria Quadrivalent Vaccine Composition
+
+| Name of Ingredients                                                                                                                                                                                                                                                                                     | Quantity per dose (0.5 mL/dose)   | Function          |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------------|
+| Active Ingredients Hemagglutinin and Neuraminidase Antigens from the Influenza virus strains recommended by the WHO/CBER/CHMP for the respective season A/Brisbane/02/2018 (IVR-190) (A/H1N1) A/Kansas/14/2017 (X-327)(A/H3N2) B/Phuket/3073/2013 (BVR-1B) (B/Yamagata) B/Maryland/15/2016 (B/Victoria) | 15 µg HA (per strain)             | Influenza vaccine |
+| Other Ingredients                                                                                                                                                                                                                                                                                       |                                   |                   |
+| Sodium chloride Dibasic sodium phosphate Monobasic sodium phosphate Monobasic potassium phosphate                                                                                                                                                                                                       |                                   |                   |
+
+Potassium chloride Calcium chloride Water for injection(s)
+
+<div style=\"page-break-after: always\"></div>
+
+## 2.3. Clinical aspects
+
+## 2.3.1. Introduction
+
+The MAH submitted a final report for:
+
+- V130\\_10 'Phase 3, Randomized, Observer-Blind, Multicenter, Noninferiority Study to Evaluate Safety and Immunogenicity of a Cell-based Quadrivalent Subunit Influenza Virus Vaccine (QIVc) and a United States-licensed Quadrivalent Influenza Virus Vaccine (QIV) in Healthy Subjects 6 Months Through 47 Months'
+
+Following a Biologics License Application (BLA) in April 2015, marketing authorization of QIVc for the prevention of seasonal influenza in adults and children aged 4 years and older was approved by the US Food and Drug Administration (FDA) in May 2016 (tradename Flucelvax® Quadrivalent). QIVc has also been approved for use in adults and children aged 9 years and older by the European Medicines Agency in December 2018 (tradename Flucelvax® Tetra), by Health Canada in November 2019 (tradename FLUCELVAX® QUAD), and by the Therapeutic Goods Administration of Australia in August 2020 (tradename Flucelvax® Quad). QIVc was approved in Brazil for use in adults 18 years and older on 26 February 2020 and in children 2 years and older on 09 June 2020 (tradename Flucelvax® Tetra) and also in Taiwan for use in adults and children 3 years and older on 23 March 2020 (tradename Flucelvax® Quad).
+
+The current study was undertaken to demonstrate that vaccination with Seqirus' QIVc elicits an immune response that is not inferior to that of a US-licensed QIV in children 6 months through 47 months of age.
+
+This study was designed as a Phase 3, randomized, observer-blind, comparator-controlled, multicenter study of QIVc versus US-licensed QIV in children 6 months through 47 months of age. Study vaccine administration was a single dose, or 2 doses 28 days apart, depending on the influenza vaccination history of the subject; previously vaccinated subjects received 1 dose and not previously vaccinated subjects received 2 doses. Study V130\\_10 was conducted during the Northern Hemisphere 2019/2020 influenza season.
+
+## 2.3.2. Clinical study
+
+V130\\_10 , 'Phase 3, Randomized, Observer-Blind, Multicenter, Noninferiority Study to Evaluate Safety and Immunogenicity of a Cell-based Quadrivalent Subunit Influenza Virus Vaccine (QIVc) and a United States-licensed Quadrivalent Influenza Virus Vaccine (QIV) in Healthy Subjects 6 Months Through 47 Months'
+
+## Description
+
+The purpose of this Phase 3, randomized, observer-blind, comparator-controlled, multicentre study of QIVc versus a US-licensed QIV was to evaluate the immunogenicity and safety of each of the 4 influenza strains contained in QIVc. Immunogenicity was evaluated at Day 1 and Day 29 (previously
+
+<div style=\"page-break-after: always\"></div>
+
+vaccinated subjects, 1 dose of vaccine) or Day 1 and Day 57 (not previously vaccinated subjects, 2 doses of vaccine). For the noninferiority assessment, immunogenicity was evaluated by measurement of serum hemagglutination inhibition (HAI) antibody titers for all influenza strains except A/H3N2.
+
+Evolutionary changes in A/H3N2 HA protein have resulted in the loss of capacity to agglutinate red blood cells for recently circulating strains. Therefore, in consultation with Center for Biologics Evaluation and Research (CBER)/FDA prior to study initiation, it was decided to assess the 2 A/H3N2 co-primary endpoints using a microneutralization (MN) assay instead. The data from this study will be used to support the licensure of QIVc for use in children 6 months through 47 months of age.
+
+## Methods
+
+## Objective(s)
+
+## Primary Immunogenicity Objective
+
+The primary immunogenicity objective was to demonstrate that vaccination with QIVc elicits an immune response that is not inferior to that of a US-licensed QIV containing the recommended strains for the season, in subjects 6 months through 47 months of age, as measured by HAI assay for A/H1N1, B/Yamagata, and B/Victoria strains and by MN assay for A/H3N2 strain, using cell-derived target viruses.
+
+The criteria for concluding noninferiority of QIVc to the US-licensed QIV are as follows:
+
+The noninferiority of QIVc compared with the US-licensed QIV was assessed by the 8 co-primary endpoints of GMT and SCR for A/H1N1, A/H3N2, B/Yamagata, and B/Victoria.
+
+Definitions for the noninferiority assessment based on endpoints measured by the HAI assay (GMT ratio &lt;1.5 and SCR difference &lt;10%) were derived from the FDA Guidance on seasonal inactivated influenza vaccines (CBER 2007). The definitions for the noninferiority assessment using endpoints measured by the MN assay were based on those used for the HAI assay. The study was to be considered successful if all 8 co-primary endpoints are achieved. Specifically, QIVc was to be considered to be noninferior to the US-licensed QIV if, for each of the 4 strains, the following statistical criteria were met:
+
+## A/H1N1, B/Yamagata, and B/Victoria
+
+- The upper bound of the 2-sided 95% CI for the ratio of the HAI GMTs does not exceed 1.5. The HAI GMT ratio was calculated as HAI GMT (US-licensed QIV) divided by HAI GMT (QIVc).
+- The upper bound of the 2-sided 95% CI for the difference between the HAI SCRs does not exceed 10%. The difference in HAI SCRs was calculated as HAI SCR (US-licensed QIV) minus HAI SCR (QIVc). The 95% CI was computed based on the binomial distribution.
+
+## A/H3N2 strain only
+
+- The upper bound of the 2-sided 95% CI for the ratio of the MN GMTs does not exceed 1.5. The MN GMT ratio was calculated as MN GMT (US-licensed QIV) divided by MN GMT (QIVc).
+- The upper bound of the 2-sided 95% CI for the difference between the MN SCRs does not exceed 10%. The difference in MN SCRs was calculated as MN SCR (US-licensed QIV) minus MN SCR (QIVc). The 95% CI was computed based on the binomial distribution.
+
+<div style=\"page-break-after: always\"></div>
+
+## Secondary Immunogenicity Objective
+
+1. To describe the immunogenicity of QIVc and US-licensed QIV by HAI assay for A/H1N1, B/Yamagata, and B/Victoria strains, and by MN assay for A/H3N2 strain, using egg-derived target viruses
+2. To describe the immunogenicity of QIVc and US-licensed QIV by HAI assay for A/H1N1, B/Yamagata, and B/Victoria strains, and by MN assay for A/H3N2 strain, using cell-derived target viruses
+3. To describe the immunogenicity of QIVc and US-licensed QIV by MN assay for A/H1N1, B/Yamagata, and B/Victoria strains, in a subset of subjects
+
+## Secondary Safety Objective
+
+The secondary safety objective was to evaluate the safety and reactogenicity of QIVc and US-licensed QIV.
+
+## Exploratory Immunogenicity Objectives
+
+1. To evaluate the homologous cell-mediated immunity (CMI) response, prevaccination and postvaccination, in a small population of subjects
+2. To further describe the immune response to vaccination, additional immunogenicity analyses may be conducted such as HAI assay for A/H3N2 using cell- and egg-derived target viruses
+
+## Study design
+
+This study was designed as a Phase 3, randomized, observer-blind, comparator-controlled, multicenter study of QIVc versus US-licensed QIV in children 6 months through 47 months of age. Study vaccine administration was a single dose, or 2 doses 28 days apart, depending on the influenza vaccination history of the subject; previously vaccinated subjects received 1 dose and not previously vaccinated subjects received 2 doses. Study V130\\_10 was conducted during the Northern Hemisphere 2019/2020 influenza season.
+
+The US-licensed QIV was Afluria® Quadrivalent, which was administered according to the US Package Insert. The age indication for Afluria Quadrivalent was extended to include children 6 months through 59 months of age by the FDA in October 2018. Each vaccine contained the influenza strains recommended by the WHO for the influenza season covered by the study. The purpose of the study was to demonstrate that vaccination with QIVc elicits an immune response that is not inferior to that of a US-licensed QIV in children 6 months through 47 months of age; therefore, a noninferiority study design was chosen.
+
+<div style=\"page-break-after: always\"></div>
+
+The study comprised a treatment period and a follow-up period. The treatment period extended from the time of first vaccination to 28 days after the last vaccination; therefore, the duration of study participation was dependent upon the number of doses of vaccine that the subject received.
+
+Study participation concluded with a Study Completion Call 180 days after the last vaccination.
+
+## Previously vaccinated subjects
+
+- Treatment Period (Day 1 through Day 29):
+- o 1 vaccination (QIVc or US-licensed QIV) on Day 1
+- Follow-up Period (Day 29 through Day 181)
+
+## Not previously vaccinated subjects
+
+- Treatment Period (Day 1 through Day 57):
+- o 2 vaccinations (QIVc or US-licensed QIV) on Day 1 and Day 29
+- Follow-up Period (Day 57 through Day 209)
+
+The study vaccine (QIVc or the US-licensed QIV) was administered intramuscularly into the anterolateral region of the thigh (for subjects 6 months through 11 months, in general) or in the deltoid region (for subjects 12 months and older, in general). QIVc was administered as a 0.5 mL dose. The US-licensed QIV was administered following the dose recommendations described in the US Package Insert, ie, a 0.25 mL dose for subjects 6 months through 35 months of age and a 0.5 mL dose for subjects 36 months through 47 months of age.
+
+After vaccination, all subjects remained under medical supervision and were monitored for any immediate postvaccination reactions (including solicited local and systemic AEs, unsolicited AEs, and body temperature measurement) for at least 30 minutes. The data collected during the 30-minute observation were recorded in the source documents only.
+
+Solicited local adverse reactions and solicited systemic AEs were collected from 30 minutes after vaccination on a Subject Diary Card, and collection continued for a total of 7 days.
+
+Parent(s)/LAR(s) received a reminder call to complete the Subject Diary Card 2 days after vaccination. The Subject Diary Card was the only source document allowed for solicited local adverse reactions and systemic AEs, including body temperature measurements. In children younger than 36 months of age, measurement of body temperature was preferably by the rectal route. Oral, axillary, or tympanic membrane routes could be used in older children.
+
+All unsolicited AEs were collected during the treatment period. During the follow-up period, it was required to report only unsolicited AEs that were SAEs, NOCD, or AEs leading to withdrawal on the Adverse Events electronic Case Report Form (eCRF).
+
+Subjects provided a serological specimen by a blood draw before vaccination on Day 1 and 28
+
+days after the last vaccination during scheduled clinic visits:
+
+- Previously vaccinated subjects provided a serological specimen on Day 1 and Day 29 (vaccination on Day 1)
+- Not previously vaccinated subjects provided a serological specimen on Day 1 and Day 57 (vaccination on Day 1 and Day 29)
+
+<div style=\"page-break-after: always\"></div>
+
+The serological specimen on the day of vaccination was obtained before vaccination.
+
+## Study population /Sample size
+
+It was planned to conduct the study with approximately 2502 healthy male and female subjects who were 6 months through 47 months of age: 2418 subjects for evaluation of immunogenicity (Immunogenicity Group) and 84 subjects (24 months through 47 months of age) for exploratory evaluation of CMI (CMI Population). Stratification through Interactive Response Technology (IRT) was used to ensure a balanced distribution among the age groups; it was planned that at least 30% of subjects would be 6 months through 23 months of age and at least 30% of subjects would be 24 months through 47 months of age.
+
+Subjects were enrolled into the study and randomized via an IRT system to receive QIVc or USlicensed QIV in a 2:1 ratio.
+
+## Inclusion Criteria
+
+In order to participate in this study, all subjects must have met ALL of the inclusion criteria described below:
+
+1. Individuals 6 through 47 months of age on the day of informed consent;
+2. Individuals whose parent(s)/LAR(s) had voluntarily given written informed consent after the nature of the study had been explained according to local regulatory requirements, prior to study entry;
+3. Individuals who could comply with study procedures, including follow-up; and
+4. Individuals who were in generally good health as per the Investigator's medical judgement.
+
+Prior to receipt of second study vaccination, subjects must have been re-evaluated to confirm that they were eligible for subsequent vaccination. If subjects did not meet criteria 3 and/or 4 of the original inclusion criteria listed above, they should not have received additional vaccinations.
+
+## Exclusion Criteria
+
+Each subject must not have had/been:
+
+1. Acute (severe) febrile illness.
+2. History of any anaphylaxis, serious vaccine reactions or hypersensitivity, including allergic reactions, to any component of vaccine or medical equipment whose use was foreseen in this study;
+3. Clinical conditions representing a contraindication to intramuscular (IM) vaccination and blood draws. These may include known bleeding disorders, or treatment with anticoagulants in the 3 weeks preceding vaccination;
+4. A known history of Guillain-Barre Syndrome or other demyelinating diseases such as encephalomyelitis and transverse myelitis;
+5. Abnormal function of the immune system resulting from clinical conditions, including:
+- a. Known or suspected congenital or acquired immunodeficiency
+- b. Systemic administration of corticosteroids (PO/IV/IM) at any dose for more than 14 days, within 90 days prior to informed consent. Topical, inhaled and intranasal corticosteroids are
+
+<div style=\"page-break-after: always\"></div>
+
+permitted. Intermittent use (1 dose in 30 days) of intra-articular corticosteroids is also permitted c. Administration of antineoplastic and immunomodulating agents or radiotherapy within 90 days prior to informed consent
+
+6. Received immunoglobulins or any blood products within 180 days prior to informed consent;
+7. Received an investigational or non-registered medicinal product within 30 days prior to informed consent, or intend to participate in another clinical trial during the study;
+8. Study personnel, family and household members of study personnel should not participate;
+9. Any other clinical condition that, in the opinion of the Investigator, might interfere with the results of the study or pose additional risk to the subject due to participation in the study;
+10. Received influenza vaccination or has had documented influenza disease in the last 6 months prior to informed consent; or
+11. Received any other vaccines than influenza vaccine within 14 days (for inactivated vaccines) or 28 days (for live vaccines) prior to study vaccination or who are planning to receive any vaccine within 28 days after study vaccination.
+
+## Treatments
+
+Subjects in the QIVc group received a 0.5 mL IM dose of QIVc (1 or 2 doses, depending on influenza vaccination history).
+
+Subjects in the US-licensed QIV comparator vaccine group who were:
+
+- 6 months through 35 months of age received a 0.25 mL IM dose of the comparator vaccine (1 or 2 doses, depending on influenza vaccination history);
+- 36 months through 47 months of age received a 0.5 mL IM dose of the comparator vaccine (1 or 2 doses, depending on influenza vaccination history).
+
+## Investigational Vaccine
+
+## QIVc:
+
+QIVc is a cell-based quadrivalent inactivated subunit seasonal influenza vaccine manufactured by Seqirus. QIVc is composed of antigens from 4 different influenza strains, ie, 2 influenza A strains (A/H1N1 and A/H3N2) and 2 influenza B strains (B/Yamagata and B/Victoria).
+
+An approximately 0.5 mL dose of QIVc (cell-based quadrivalent subunit influenza virus vaccine; s upplied in a 0.5 mL prefilled syringe) contains nominally 15 μg of HA of each of the 2 influenza Type A strains and each of the 2 influenza Type B strains for a total of 60 μg of HA in the vaccine. The strain composition was that recommended by the WHO, CBER, and Committee for Medicinal Products for Human Use (CHMP) for quadrivalent influenza vaccines contemporaneous to the timing of the study. The full composition of the vaccine is reported in Table 9-1. The product lot number of QIVc used in the study was 261303 (expiry date: 19 June 2020).
+
+<div style=\"page-break-after: always\"></div>
+
+Table 9-1     QIVc Vaccine Composition
+
+| Name of Ingredients                                                                                                                                                                                                                                                                 | Quantity per dose (0.5 mL/dose)   | Function          |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------------|
+| Active Ingredients Hemagglutinin and Neuraminidase Antigens from the Influenza virus strains recommended by the WHO/CBER/CHMP for the respective season A/Idaho/07/2018 (A/H1N1) A/Indiana/08/2018 (A/H3N2) B/Singapore/INFTT-16-0610/2016 (B/Yamagata) B/Iowa/06/2017 (B/Victoria) | 15 µg HA (per strain)             | Influenza vaccine |
+| Other Ingredients                                                                                                                                                                                                                                                                   | Other Ingredients                 | Other Ingredients |
+| Buffer M (PBS) pH 7.2 Sodium chloride Potassium chloride Magnesium chloride hexahydrate Disodium phosphate dihydrate Potassium dihydrogen phosphate Water for injection(s)                                                                                                          |                                   |                   |
+
+## US-licensed QIV comparator vaccine
+
+## Afluria Quadrivalent inactivated influenza virus vaccine
+
+The US-licensed QIV comparator vaccine was Afluria Quadrivalent, an inactivated quadrivalent influenza vaccine composed of antigens from 4 different influenza strains, ie, 2 influenza A strains (A/H1N1 and A/H3N2) and 2 influenza B strains (B/Yamagata and B/Victoria). The strain composition of Afluria Quadrivalent used in this study is provided in Table 9-2.
+
+Afluria Quadrivalent was administered following the dose recommendations described in the US Package Insert. Afluria Quadrivalent is supplied in a 0.25 mL and a 0.5 mL prefilled syringe. For children 6 months through 35 months of age, 0.25 mL dose of vaccine was administered. For children 36 months through 47 months of age, 0.5 mL was administered. The strain composition was that recommended by the WHO, CBER, and CHMP for quadrivalent influenza vaccines contemporaneous to
+
+<div style=\"page-break-after: always\"></div>
+
+the timing of the study. The full composition of the vaccine is reported in Table 9-2. The product lot numbers of Afluria Quadrivalent used in the study were P100100543 (expiry date: 16 May 2020) for the 0.5 mL dose and P100118460 (expiry date: 30 June 2020) and P100114135 (expiry date: 30 June 2020) for the 0.25 mL dose.
+
+Table 9-2     Afluria Quadrivalent Vaccine Composition
+
+| Name of Ingredients                                                                                                                                                                                                                                                                                     | Quantity per dose (0.5 mL/dose)   | Function          |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------------|
+| Active Ingredients Hemagglutinin and Neuraminidase Antigens from the Influenza virus strains recommended by the WHO/CBER/CHMP for the respective season A/Brisbane/02/2018 (IVR-190) (A/H1N1) A/Kansas/14/2017 (X-327)(A/H3N2) B/Phuket/3073/2013 (BVR-1B) (B/Yamagata) B/Maryland/15/2016 (B/Victoria) | 15 µg HA (per strain)             | Influenza vaccine |
+| Other Ingredients                                                                                                                                                                                                                                                                                       | Other Ingredients                 | Other Ingredients |
+| Sodium chloride Dibasic sodium phosphate Monobasic sodium phosphate Monobasic potassium phosphate Potassium chloride Calcium chloride Water for injection(s)                                                                                                                                            |                                   |                   |
+
+## Outcomes/endpoints
+
+Co-Primary Immunogenicity Endpoints
+
+The co-primary endpoints were:
+
+- Serum HAI antibody titer against A/H1N1, B/Yamagata, and B/Victoria vaccine strains at Day 29/57, using cell-derived target viruses:
+- o GMT by HAI assay
+
+SCR defined as the percentage of subjects with either a prevaccination HAI titer &lt;1:10 and a postvaccination HAI titer ≥ 1:40, or a prevaccination HAI titer ≥ 1:10 and a ≥ 4- fold increase in postvaccination HAI titer
+
+<div style=\"page-break-after: always\"></div>
+
+- Serum neutralizing antibody titer against A/H3N2 vaccine strain at Day 29/57, using cellderived target viruses:
+- o GMT by MN assay
+- o SCR defined as the percentage of subjects with either a prevaccination MN titer &lt;1:10 and a postvaccination MN titer ≥ 1:40, or a prevaccination MN titer ≥ 1:10 and a ≥ 4-fold increase in postvaccination MN titer
+- Derived variables:
+- o The GMT ratio (US-licensed QIV/QIVc) for each strain
+- o The inter-group difference in the SCRs (US-licensed QIV minus QIVc) for each strain
+
+The noninferiority of QIVc compared with US-licensed QIV was assessed for the following 8 co-primary endpoints of GMT and SCR for each cell-derived target virus strain included in QIVc as follows:
+
+- The GMT ratio for the A/H1N1 strain (HAI assay)
+- The GMT ratio for the A/H3N2 strain (MN assay)
+- The GMT ratio for the B/Yamagata strain (HAI assay)
+- The GMT ratio for the B/Victoria strain (HAI assay)
+- The difference between the SCRs for the A/H1N1 strain (HAI assay)
+- The difference between the SCRs for the A/H3N2 strain (MN assay)
+- The difference between the SCRs for the B/Yamagata strain (HAI assay)
+- The difference between the SCRs for the B/Victoria strain (HAI assay)
+
+## Secondary Immunogenicity Endpoints
+
+1. Humoral immune response in terms of HAI antibodies against A/H1N1, B/Yamagata, and B/Victoria strains, using cell- and egg-derived target viruses:
+- GMT by HAI assay at Days 1 and 29/57
+- Geometric mean ratio (GMR), defined as the fold increase in serum HAI GMT postvaccination (Day 29/57) compared to prevaccination (Day 1)
+- Seropositivity rates (percentages of subjects with HAI titer ≥ 1:10) at Days 1 and 29/57
+- Percentages of subjects with HAI titer ≥ 1:40 at Days 1 and 29/57
+- SCR by HAI assay
+
+## Derived variables:
+
+- The GMT ratio (US-licensed QIV/QIVc) for each strain
+- The inter-group difference in the SCRs (US-licensed QIV minus QIVc) for each strain
+2. Neutralizing antibody titers against A/H3N2 vaccine strains, using cell- and egg-derived target viruses:
+- GMT by MN assay at Days 1 and 29/57
+
+<div style=\"page-break-after: always\"></div>
+
+- GMR, defined as the fold increase in serum MN GMT postvaccination (Day 29/57) compared to prevaccination (Day 1)
+- Seropositivity rates (percentages of subjects with MN titer ≥ 1:10 [lower limit of quantification (LLOQ)]) at Days 1 and 29/57
+- SCR by MN assay
+
+## Derived variables:
+
+- The GMT ratio (US-licensed QIV/QIVc) for each strain
+- The inter-group difference in the SCRs (US-licensed QIV minus QIVc) for each strain
+3. Neutralizing antibody titers against A/H1N1, B/Yamagata, and B/Victoria vaccine strains, in a subset of subjects:
+- GMT by MN assay at Days 1 and 29/57
+- GMR, defined as the fold increase in serum MN GMT postvaccination (Day 29/57) compared to prevaccination (Day 1)
+- Seropositivity rates (percentages of subjects with MN titer ≥ 1:10 [LLOQ]) at Days 1 and 29/57
+- SCR by MN assay
+
+## Derived variables:
+
+- The GMT ratio (US-licensed QIV/QIVc) for each strain
+- The inter-group difference in the SCRs (US-licensed QIV minus QIVc) for each strain
+
+## Secondary Safety Endpoints
+
+The endpoints for assessment of safety and reactogenicity were:
+
+1. Percentage of subjects with solicited adverse events (AEs) within 7 days after each study vaccination
+2. Percentage of subjects with any unsolicited AEs from Day 1 to Day 29 (in previously vaccinated subjects) and from Day 1 to Day 57 (in not previously vaccinated subjects)
+3. Percentage of subjects with any SAEs, New Onset of Chronic Disease (NOCD), or AEs leading to withdrawal during the entire study period (ie, from Day 1 to Day 181 for previously vaccinated subjects or from Day 1 to Day 209 for not previously vaccinated subjects)
+
+## Exploratory Immunogenicity Endpoints
+
+1. CMI response to vaccination
+- Measurement of antigen-stimulated CD4+ T-cell responses via expression of cytokines
+- Measurement of antigen-stimulated CD8+ T-cell responses via expression of cytokines
+2. Humoral immune response in terms of HAI antibodies against A/H3N2, using cell- and eggderived target viruses:
+
+<div style=\"page-break-after: always\"></div>
+
+- GMT by HAI assay at Days 1 and 29/57
+- GMR, defined as the fold increase in serum HAI GMT postvaccination (Day 29/57) compared to prevaccination (Day 1)
+- Seropositivity rates (percentages of subjects with HAI titer ≥ 1:10) at Days 1 and 29/57
+- Percentages of subjects with HAI titer ≥ 1:40 at Days 1 and 29/57
+- SCR by HAI assay
+
+Derived variables:
+
+- The GMT ratio (US-licensed QIV/QIVc) for each strain
+- The inter-group difference in the SCRs (US-licensed QIV minus QIVc) for each strain
+
+## Statistical Methods
+
+Descriptive statistics were used to present all safety and immunogenicity results: number of observations (n), mean, standard deviation (SD), median, minimum (min), maximum (max) for continuous data and frequency and percentage relative to the appropriate population for categorical data.
+
+Binary data (ie, percentages of subjects with SCR) were summarized for each group using unadjusted estimates and are reported together with 2-sided exact 95% CIs (Clopper-Pearson).
+
+The difference between the proportions of treatment groups was determined and the corresponding 2sided 95% CIs calculated by Miettinen-Nurminen method.
+
+Geometric means and 95% CIs were calculated by taking the anti-logs of the means and 95% CI of the log transformed immunogenicity parameters. Exact CIs based upon the binomial distribution were calculated for percentages.
+
+## Statistical Hypothesis
+
+The primary immunogenicity objective was to demonstrate that vaccination with QIVc elicited an immune response that was not inferior to that of a US-licensed QIV containing the recommended strains for the season, in subjects 6 months through 47 months of age, as measured by the HAI assay for the A/H1N1, B/Yamagata, and B/Victoria strains and by the MN assay for the A/H3N2 strain, using cell-derived target viruses.
+
+The noninferiority of QIVc compared with the US-licensed QIV was assessed by the 8 co-primary endpoints of GMT and SCR for A/H1N1, A/H3N2, B/Yamagata, and B/Victoria. Definitions for the noninferiority assessment based on endpoints measured by the HAI assay (GMT ratio &lt;1.5 and SCR difference &lt;10%) were derived from the FDA Guidance on seasonal inactivated influenza vaccines (CBER 2007). The definitions for the noninferiority assessment using endpoints measured by the MN assay were based on those used for the HAI assay. The study was to be considered successful if all 8 co-primary endpoints are achieved. Specifically, QIVc was to be considered to be noninferior to the USlicensed QIV if, for each of the 4 strains, the following statistical criteria were met:
+
+## A/H1N1, B/Yamagata, and B/Victoria
+
+- The upper bound of the 2-sided 95% CI for the ratio of the HAI GMTs does not exceed 1.5. The HAI GMT ratio was calculated as HAI GMT (US-licensed QIV) divided by HAI GMT (QIVc).
+
+<div style=\"page-break-after: always\"></div>
+
+- The upper bound of the 2-sided 95% CI for the difference between the HAI SCRs does not exceed 10%. The difference in HAI SCRs was calculated as HAI SCR (US-licensed QIV) minus HAI SCR (QIVc). The 95% CI was computed based on the binomial distribution.
+
+## A/H3N2 strain only
+
+- The upper bound of the 2-sided 95% CI for the ratio of the MN GMTs does not exceed 1.5. The MN GMT ratio was calculated as MN GMT (US-licensed QIV) divided by MN GMT (QIVc).
+- The upper bound of the 2-sided 95% CI for the difference between the MN SCRs does not exceed 10%. The difference in MN SCRs was calculated as MN SCR (US-licensed QIV) minus MN SCR (QIVc). The 95% CI was computed based on the binomial distribution.
+
+## Results
+
+## Recruitment/ Number analysed
+
+The size of the study population was consistent with the planned number of approximately 2502 subjects. A total of 2414 subjects 6 months through 47 months of age were enrolled in the study (All Enrolled Set) and randomized to receive QIVc or the US-licensed QIV. Twelve enrolled subjects did not receive study vaccine; thus, the FAS included 2402 subjects who received at least 1 study vaccination. Subjects were randomized to receive QIVc or the USlicensed QIV in a 2:1 ratio as planned, with 1597 subjects receiving QIVc and 805 subjects receiving the US-licensed QIV. Of the 2402 subjects in the FAS, 2322 subjects were enrolled for evaluation of immunogenicity (Immunogenicity Group) and 80 subjects were enrolled for exploratory evaluation of CMI (CMI Population).
+
+The majority of subjects (86.2%) completed the study; 334 of 2414 subjects (13.8%) discontinued from the study. The most common reason for discontinuing from the study was lost to follow-up (11.1% of subjects).
+
+## Baseline data
+
+This study was conducted at 47 centers in the US. Demographic and baseline characteristics of the FAS (subjects in both the Immunogenicity Group and CMI Population) are summarized in Table 10-5.
+
+The mean (SD) age of the study population was 28.1 (11.57) months and the range was 6 months to 47 months of age, which was consistent with the intended study population. The stratification strategy was designed to ensure a balanced distribution among age groups such that at least 30% of subjects would be 6 months through 23 months of age and at least 30% of subjects would be 24 months through 47 months of age. The resulting age distribution met this intention, with 37.2% of subjects being 23 months of age or younger and 62.8% of subjects being 24 months of age or older.
+
+The demographic characteristics were generally balanced between the QIVc group and US-licensed QIV group.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 10-5 Demographics and Baseline Characteristics (Full Analysis Set)
+
+|                                           | QIVc (N=1597) n (%)   | US-licensed QIV (N=805) n (%)   | Total (N=2402) n (%)   |
+|-------------------------------------------|-----------------------|---------------------------------|------------------------|
+| Age (months)                              |                       |                                 |                        |
+| n                                         | 1597                  | 805                             | 2402                   |
+| Mean (SD)                                 | 28.1 (11.54)          | 28.2 (11.63)                    | 28.1 (11.57)           |
+| Min, max                                  | 6,47                  | 6,47                            | 6,47                   |
+| Age group (n [%])                         |                       |                                 |                        |
+| n1                                        | 1597                  | 805                             | 2402                   |
+| 6 months to 23 months                     | 595 (37.3)            | 299 (37.1)                      | 894 (37.2)             |
+| 24 months to 47 months                    | 1002 (62.7)           | 506 (62.9)                      | 1508 (62.8)            |
+| Sex (n [%])                               |                       |                                 |                        |
+| n                                         | 1597                  | 805                             | 2402                   |
+| Male                                      | 803 (50.3)            | 406 (50.4)                      | 1209 (50.3)            |
+| Female                                    | 794 (49.7)            | 399 (49.6)                      | 1193 (49.7)            |
+| Race (n [%])                              |                       |                                 |                        |
+| n                                         | 1597                  | 805                             | 2402                   |
+| White                                     | 1039 (65.1)           | 539 (67.0)                      | 1578 (65.7)            |
+| Black or African American                 | 455 (28.5)            | 209 (26.0)                      | 664 (27.6)             |
+| Asian                                     | 13 (0.8)              | 8 (1.0)                         | 21 (0.9)               |
+| Native Hawaiian or Other Pacific Islander | 8 (0.5)               | 6 (0.7)                         | 14 (0.6)               |
+| American Indian or Alaska Native          | 11 (0.7)              | 11 (1.4)                        | 22 (0.9)               |
+| Other                                     | 71 (4.4)              | 32 (4.0)                        | 103 (4.3)              |
+| Ethnic origin (n [%])                     |                       |                                 |                        |
+| n1                                        | 1597                  | 805                             | 2402                   |
+| Hispanic or Latino                        | 434 (27.2)            | 226 (28.1)                      | 660 (27.5)             |
+| Not Hispanic or Latino                    | 1160 (72.6)           | 575 (71.4)                      | 1735 (72.2)            |
+| Not reported                              | 3 (0.2)               | 3 (0.4)                         | 6 (0.2)                |
+| Unknown                                   | 0                     | 1 (0.1)                         | 1 (<0.1)               |
+| Previous influenza vaccination (n [%])    |                       |                                 |                        |
+| n1                                        | 1597                  | 805                             | 2402                   |
+| Previously vaccinated                     | 810 (50.7)            | 430 (53.4)                      | 1240 (51.6)            |
+| Not previously vaccinated                 | 787 (49.3)            | 375 (46.6)                      | 1162 (48.4)            |
+| Body mass index (kg/in?)                  |                       |                                 |                        |
+| n                                         | 1596                  | 805                             | 2401                   |
+| Mean (SD)                                 | 16.99 (2.466)         | 17.15 (2.996)                   | 17.05 (2.656)          |
+| Median                                    | 16.73                 | 16.75                           | 16.74                  |
+
+Source:Table 14.1.1.3.2 and Listing 16.2.4.1.
+
+Abbreviations: QIV = quadrivalent influenza vaccine; QIVe = cell-based quadrivalent subunit influenza virus vaccine; SD = standard deviation; US = United States.
+
+## Efficacy/immunogenicity results
+
+In this study, the efficacy has been assessed in terms of immunogenicity.
+
+The primary immunogenicity objective was to demonstrate that vaccination with QIVc elicits an immune response that is not inferior to that of a US-licensed QIV containing the recommended strains for the season, in subjects 6 months through 47 months of age, as measured by HAI assay for A/H1N1, B/Yamagata, and B/Victoria strains and by MN assay for A/H3N2 strain, using cell-derived target viruses.
+
+<div style=\"page-break-after: always\"></div>
+
+The prespecified noninferiority criterion for the GMT ratio (adjusted analysis) was met for all 4 strains contained in the QIVc vaccine:
+
+- The upper bound of the 2-sided 95% CI for the GMT ratios (US-licensed QIV/QIVc) did not exceed the prespecified noninferiority margin of 1.5 (A/H1N1: 0.836; A/H3N2: 1.160; B/Yamagata: 0.809; B/Victoria: 0.972).
+
+Table 2 Postvaccination GMT, GMT Ratio, and Analysis of Noninferiority of QIVc Relative to US-licensed QIV in Subjects 6 Months Through 47 Months of Age for A/H1N1, B/Yamagata, and SsN (eI 45s NN) 7NeHA 1 (e Ass IH) 51Aa Cell-derived Target Viruses - Per Protocol Set, Study V130 10
+
+|            | Day 29/57 GMT                      | Day 29/57 GMT                               | GMT Ratio                          |                                         |
+|------------|------------------------------------|---------------------------------------------|------------------------------------|-----------------------------------------|
+|            | QIVc NHA1=1092 / Nmn=1078 (95% CI) | US-licensed QIV NHAI=575 / NMn=572 (95% CI) | US-licensed QIV over QIVc (95% CI) | Met predefined noninferiority criteria? |
+| A/H1N1     | 78.0 (70.75, 86.03)                | 57.3 (50.76, 64.63)                         | 0.73 (0.645, 0.836)                | Yes                                     |
+| A/H3N2     | 23.1 (21.21, 25.12)                | 23.9 (21.57, 26.57)                         | 1.04 (0.927, 1.160)                | Yes                                     |
+| B/Yamagata | 35.6 (32.93, 38.58)                | 26.0 (23.54, 28.63)                         | 0.73 (0.656, 0.809)                | Yes                                     |
+| B/Victoria | 22.4 (20.70, 24.19)                | 19.6 (17.81, 21.58)                         | 0.88 (0.791, 0.972)                | Yes                                     |
+
+Source:CSR V130\\_10,Table 11-1.
+
+Abbreviations: CI = confidence interval; GMT = geometric mean titer; HAI = hemagglutination inhibition; MN = microneutralization; QIV = quadrivalent influenza vaccine; QIVc = cell-based quadrivalent subunit influenza virus vaccine; US = United States.
+
+Note 1: Immunogenicity measured by HAI assay for the A/H1N1, B/Yamagata, and B/Victoria strains and by MN assay for the A/H3N2 strain. NHA1 = number of subjects with valid HAI assay results; NMN = number of subjects with valid MN assay results.
+
+Note 2: Immunogenicity measured using cell-derived target virus in both the HAI and MN assays. The cell-derived target viruses were A/Idaho/07/2018 (A/H1N1), A/Indiana/08/2018 (A/H3N2), B/Singapore/INFTT-16-0610/2016 (B/Yamagata), and B/Iowa/06/2017 (B/Victoria).
+
+Note 3: Adjusted GMT and GMT ratio are presented.
+
+Note 4: Adjusted analysis GMT model: Log-transformed Postvaccination HAI (or MN) Titer = Vaccine + Age Strata + Gender + Vaccination History [y/n] + Log-transformed Prevaccination HAI (or MN) Titer + Site + Age Strata*Vaccine.
+
+Note 5: Noninferiority criterion for the GMT ratio: upper bound of the 2-sided 95% CI on the GMT ratio of US-licensed QIV over QIVc does not exceed 1.5.
+
+The prespecified noninferiority criterion for the SCR difference in subjects was met for all 4 strains contained in the QIVc vaccine:
+
+- The upper bound of the 2-sided 95% CI for the SCR differences (US-licensed QIV minus QIVc) did not exceed the prespecified noninferiority margin of 10% (A/H1N1: -6.423%; A/H3N2: 7.812%; B/Yamagata: -9.983%; B/Victoria: -1.440%).
+
+<div style=\"page-break-after: always\"></div>
+
+Table 3 SCR, SCR Difference, and Analysis of Noninferiority of QIVc Relative to US-licensed QIV in Subjects 6 Months Through 47 Months of Age for A/H1N1, B/Yamagata, and B/Victoria (HAI Assay Data) and A/H3N2 (MN Assay Data), Using Cell-derived Target Viruses - Per Protocol Set, Study V130\\_10
+
+|                       | SCR                                  | SCR                                           | SCR Difference                        |                                         |
+|-----------------------|--------------------------------------|-----------------------------------------------|---------------------------------------|-----------------------------------------|
+|                       | QIVc NHAI=1092 / NMn=1078 % (95% CI) | US-licensed QIV NHAI=575 / NMn=572 % (95% CI) | US-licensed QIV minus QIVc % (95% CI) | Met predefined noninferiority criteria? |
+| A/H1N1                | 58.24 (55.25, 61.19)                 | 46.78 (42.64, 50.96)                          | -11.46 (-16.447, - 6.423)             | Yes                                     |
+| A/H3N2                | 27.64 (24.99, 30.42)                 | 30.77 (27.01, 34.73)                          | 3.13 (-1.443, 7.812)                  | Yes                                     |
+|                       | 46.52 (43.53, 49.53)                 | 31.65 (27.87, 35.63)                          | -14.87 (-19.610, - 9.983)             | Yes                                     |
+| B/Yamagata B/Victoria | 30.31 (27.60, 33.13)                 | 24.35 (20.89, 28.07)                          | -5.96 (-10.327, -1.440)               | Yes                                     |
+
+Source: CSR V130\\_10,Table 11-2.
+
+Abbreviations: CI = confidence interval; HAI = hemagglutination inhibition; MN = microneutralization; QIV = quadrivalent influenza vaccine; QIVc = cell-based quadrivalent subunit influenza virus vaccine; SCR = seroconversion rate; US = United States.
+
+Note 1: Immunogenicity measured by HAI assay for the A/H1N1, B/Yamagata, and B/Victoria strains and by MN assay for the A/H3N2 strain. NHA1 = number of subjects with valid HAI assay results; NMN = number of subjects with valid MN assay results.
+
+Note 2: Immunogenicity measured using cell-derived target virus in both the HAI and MN assays. The cell-derived target viruses were A/Idaho/07/2018 (A/H1N1), A/Indiana/08/2018 (A/H3N2), B/Singapore/INFTT-16-0610/2016 (B/Yamagata), and B/Iowa/06/2017 (B/Victoria).
+
+Note 3: Noninferiority criterion for the SCR difference: upper bound of the 2-sided 95% CI on the SCR difference for US-licensed QIV minus QIVc does not exceed 10%.
+
+As all 8 co-primary immunogenicity endpoints were met, noninferiority of QIVc compared with the USlicensed QIV was concluded.
+
+The immunogenicity results obtained in the PPS for the primary objective were supported by those obtained in the FAS Immunogenicity.
+
+The secondary immunogenicity objectives were to describe the immunogenicity of QIVc and the USlicensed QIV by HAI and MN assays in subjects 6 months through 47 months of age, using egg-derived and cell-derived target viruses.
+
+For evaluation of immunogenicity using egg-derived target viruses as measured by HAI assay for the A/H1N1, B/Yamagata, and B/Victoria strains and by MN assay for the A/H3N2 strain, there were no notable differences in the immunogenicity endpoints between QIVc and the US-licensed QIV for all 4 vaccine strains.
+
+For evaluation of immunogenicity using cell-derived target viruses as measured by HAI assay for the A/H1N1, B/Yamagata, and B/Victoria strains and by MN assay for the A/H3N2 strain, there were no notable differences in the immunogenicity endpoints between QIVc and the US-licensed QIV for the A/H3N2 and B/Victoria strains. For the A/H1N1 and B/Yamagata strains, the postvaccination immunogenicity endpoints were observed to be higher for QIVc than the US-licensed QIV for the Day 29/57 GMT, GMR, Day 29/57 percentage of subjects with titer &gt;1:40, and SCR. A secondary objective was also to assess, in a randomly selected subset of subjects from the Immunogenicity Group, the immune responses to A/H1N1, B/Yamagata, and B/Victoria as measured in MN assays using cellderived target viruses. This evaluation showed that there were no notable differences in the immunogenicity endpoints between the QIVc and US-licensed QIV groups for all 3 strains.
+
+<div style=\"page-break-after: always\"></div>
+
+Overall, subgroup analyses stratified by prevaccination titer, influenza vaccination history, age, gender, and race showed that similar immune responses were elicited to QIVc and the US-licensed QIV.
+
+One exploratory objective was to describe the immunogenicity of A/H3N2 for QIVc and the US-licensed QIV as measured by the HAI assay, using cell-derived and egg-derived target viruses. In the assay using cell-derived target viruses, there were no notable differences in the Day 1 GMTs, GMRs, seropositivity rates, and percentage of subjects with GMT titers ≥ 1:40 between the 2 vaccines, while the Day 29/57 GMT and SCR were observed to be higher for QIVc than the US-licensed QIV. There were no notable differences in Day 1 and Day 29/57 GMTs, GMRs, seropositivity rates, percentage of subjects with HAI titer ≥ 1:40, and SCRs between the 2 vaccines using egg-derived target viruses.
+
+The other exploratory immunogenicity objective was to evaluate the CMI response in subjects 24 months through 47 months of age vaccinated with QIVc or the US-licensed QIV (CMI Population). Peripheral blood CD4+ and CD8+ T-cells responsive to influenza antigen stimulation in vitro, as measured by antigen-induced expression of markers of T-cell activation, were detected at low frequencies in subjects vaccinated with QIVc or the US-licensed QIV.
+
+In summary, the primary objective of the study was achieved. QIVc was found to elicit an immune response in subjects 6 months through 47 months of age that was not inferior to the immune response elicited by a US-licensed QIV.
+
+## Safety results
+
+QIVc and the US-licensed QIV were well tolerated in this pediatric population 6 months through 47 months of age, with both vaccines associated with an acceptable safety profile.
+
+The rates of solicited local AEs were similar between the QIVc and US-licensed QIV groups, being reported by 41.9% and 44.6% of subjects, respectively, from Day 1 through Day 7 after any vaccination. The rates of the individual solicited local AEs were also similar between the 2 vaccine groups, with the 2 most commonly reported solicited local AEs being tenderness and erythema in both vaccine groups. Most solicited local AEs were mild or moderate in severity, with severe solicited local AEs generally reported by &lt;0.5% of subjects in each vaccine group. Few subjects in either vaccine group reported solicited local AEs persisting beyond 7 days after vaccination.
+
+The rates of solicited systemic AEs were also similar between the QIVc and US-licensed QIV groups, occurring in 43.5% and 45.7% of subjects, respectively, from Day 1 through Day 7 after any vaccination. There were no notable differences in the rates of individual solicited systemic AEs between the 2 vaccine groups; the 2 most commonly reported solicited systemic AEs were irritability and sleepiness. The majority of solicited systemic AEs were mild or moderate in severity; severe solicited systemic AEs were generally reported by &lt;2.0% of subjects in each vaccine group. Solicited systemic AEs rarely persisted beyond 7 days after vaccination in either vaccine group.
+
+The rates of fever ( ≥ 38.0 ° C) after any vaccination were low (&lt;7% of subjects) in the QIVc and USlicensed QIV groups. The rates of fever ( ≥ 40.0 ° C) were very low, being reported by 0.6% and 0.1% of subjects in the QIVc and US-licensed QIV groups, respectively.
+
+Solicited local AEs and solicited systemic AEs, including fever, were less commonly reported after the second vaccination than after the first vaccination.
+
+All unsolicited AEs were collected during the treatment period and SAEs, AEs leading to NOCD, AEs leading to withdrawal, and medically-attended AEs were reported for the entire study period.
+
+During the treatment period, the rates of all-causality unsolicited AEs were similar between the QIVc (26.2%) and US-licensed QIV (25.7%) groups. Most unsolicited AEs were mild or moderate in severity.
+
+<div style=\"page-break-after: always\"></div>
+
+The rates of unsolicited AEs related to the study vaccine were low, being reported by 4.4% and 4.5% of subjects in the QIVc and US-licensed QIV groups, respectively. In the subgroups examined in the study, there were no notable differences in the proportions of subjects reporting AEs for QIVc compared with the US-licensed QIV.
+
+The incidence of SAEs in the study was low. In total, 15 of 1597 subjects (0.9%) in the QIVc group and 7 of 805 subjects (0.9%) in the US-licensed QIV group reported SAEs. None of the SAEs were assessed as related to the study vaccine in either the QIVc group or the US-licensed QIV group. There were 2 AEs leading to death and withdrawal from the study (adenoviral encephalopathy, traffic accident) and a third AE leading to withdrawal from the study (seizure), all in the QIVc group. None were assessed as related to the study vaccine. The rates of NOCD (1.4% and 1.6%) and medically-attended AEs (13.9% and 12.0%) during the study were similar between the QIVc and US-licensed QIV groups.
+
+In conclusion, the safety profile of QIVc was similar to that of a US-licensed QIV. Overall, QIVc showed a clinically acceptable safety profile in children 6 months through 47 months of age. No safety concerns were identified in this study.
+
+## 2.3.3. Discussion on clinical aspects
+
+QIVc was initially granted marketing approval in the US for use in persons 4 years of age and older on 23 May 2016. Marketing authorization was also granted for QIVc in Europe (EMA) in December 2018, in Canada in November 2019 for use in people 9 years and older and in Brazil for use in people 18 years and older in February 2020.
+
+In March 2020 Seqirus submitted a type II variation to EMA to extend the age indication for Flucelvax Tetra to children 2 years and older, which was granted on 22 October 2020. In December 2020, Seqirus submitted to the US Food and Drug Administration (FDA) a supplemental Biologics License Application (BLA) to extend the indication for Flucelvax Quadrivalent to children 6 months and older.
+
+Study V130\\_10 was undertaken to expand the age indication and support licensure of QIVc for use in children 6 months of age and older in the US (from the currently approved indication of 4 years and older) and to further support regulatory submissions in other regions as required.
+
+The hereby submitted study (V130\\_10) is also part of an EU Paediatric Investigation Plan (PIP) for Flucelvax Tetra (EMEA-002068-PIP01-16; P/0209/2017). The agreed PIP includes also study V130\\_14, requested by EMA, which is ongoing: Study V130\\_14 - A Phase 3 efficacy, immunogenicity, and safety study of QIVc compared with a non-influenza comparator in healthy children 6 months through 47 months of age. The purpose of this study is to support registration in the European Union (EU) and fulfil a component of the Paediatric Investigation Plan (PIP) with EMA. Study V130\\_14 was requested by CHMP in line with the Guideline on Clinical Evaluation of New Vaccines (EMEA/CHMP/VWP/164653/05 Rev. 1), that states that in order to grant an indication in children 6 to 36 months of age, efficacy data should be submitted by the applicant. In this sense, the immunogenicity data from study V130\\_10, which are very interesting, do not trigger any regulatory action in the EU.
+
+Study V130\\_10 was a Phase 3, randomized, observer-blind, comparator-controlled, multicenter, noninferiority study designed to evaluate the immunogenicity and safety of QIVc compared with a USlicensed QIV in children 6 months through 47 months of age. QIVc (Flucelvax® Tetra in Europe and Flucelvax® Quadrivalent in the US) is a cell-based quadrivalent inactivated subunit influenza vaccine prepared from virus propagated in Madin-Darby Canine Kidney (MDCK) cells. The US-licensed QIV (Afluria Quadrivalent) comparator vaccine is an egg-based inactivated influenza vaccine. The
+
+<div style=\"page-break-after: always\"></div>
+
+comparator US-licensed vaccine is Afluria Quadrivalent, which is authorized in Germany and Austria by the decentralized procedure (DCP).
+
+The conclusions that are obtained from the submitted V130\\_10 study are the following:
+
+- The predefined success criteria for the 8 co-primary immunogenicity endpoints were met, thus demonstrating a noninferior immune response for QIVc compared with the US-licensed QIV in children 6 months through 47 months of age.
+- The secondary and exploratory immunogenicity objectives of the study described humoral immunogenicity of QIVc and the US-licensed QIV based on HAI and MN assay data, using celland egg-derived target viruses. For assays using cell-derived target viruses, the QIVc response was similar to the US-licensed QIV response for the A/H3N2 and B/Victoria strains whereas for the A/H1N1 and B/Yamagata strains, the QIVc response was observed to be higher. For assays using egg-derived target viruses, there were no notable differences between the 2 vaccines for all 4 strains. Overall, the evaluation of immunogenicity for the secondary objectives reinforces the finding that the immune response to QIVc is noninferior to the immune response to the US-licensed QIV.
+- The exploratory CMI evaluation showed T-cell responses to both vaccines at expression levels not unexpected for inactivated, non-adjuvanted vaccines.
+- QIVc and the US-licensed QIV were well tolerated in this population of children 6 months through 47 months of age. The 2 vaccines had a similar and clinically acceptable safety profile. No safety concerns were identified in the study.
+
+In summary, the results in this paediatric study showed that QIVc elicited an immune response that was not inferior to that of the US-licensed QIV, accompanied by a clinically acceptable safety profile similar to that of the US-licensed QIV, in children 6 months through 47 months of age. The MAH is not proposing changes in the Product Information (PI) as a consequence of this submission. In the Rapporteur's opinion it is agreed not to change the PI, since there is an ongoing study requested by EMA in this same age population that is expected to finish on June 2021 and that will render the efficacy, immunogenicity and safety results necessary for the assessment of the indication from 6 months of age in the EU.
+
+## 3. Rapporteur's overall conclusion and recommendation
+
+Study V130\\_10 has been submitted within six months of its completion and is part of the EMEA002068-PIP01-16 (P/0209/2017). The study has been adequately designed and completed in accordance to the agreed PIP.
+
+The immunogenicity results of this trial demonstrate non-inferiority of the QIVc compared with the USlicensed QIV in subjects 6 months through 47 months of age. In addition, no safety concerns or risks were observed following vaccination with QIVc in this study. The safety profile of QIVc in children 6 months through 47 months of age is generally consistent with that observed in previous paediatric studies with QIVc.
+
+No update of the SmPC is required.
+
+<!-- image -->
+
+## Fulfilled :

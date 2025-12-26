@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-21 07:01:27
+document_datetime: 2025-12-25 07:42:24
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kesimpta.html
 document_name: kesimpta.html
 version: success
-processing_time: 0.1080735
-conversion_datetime: 2025-12-25 05:08:13.121975
+processing_time: 0.1054579
+conversion_datetime: 2025-12-26 17:36:10.62677
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -108,7 +108,7 @@ English (EN) (119.19 KB - PDF)
 
 [View](/en/documents/overview/kesimpta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-31)
+[Other languages (22)](#file-language-dropdown-897)
 
 български (BG) (142.71 KB - PDF)
 
@@ -308,7 +308,7 @@ English (EN) (848.63 KB - PDF)
 
 [View](/en/documents/product-information/kesimpta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-72)
+[Other languages (24)](#file-language-dropdown-91)
 
 български (BG) (934.53 KB - PDF)
 
@@ -622,7 +622,7 @@ English (EN) (93.16 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kesimpta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-312)
+[Other languages (24)](#file-language-dropdown-499)
 
 български (BG) (98.32 KB - PDF)
 

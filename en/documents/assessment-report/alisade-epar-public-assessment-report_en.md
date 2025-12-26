@@ -1,0 +1,126 @@
+---
+document_datetime: 2023-09-21 17:51:27
+document_pages: 7
+document_pathfilename: www.ema.europa.eu/en/documents/assessment-report/alisade-epar-public-assessment-report_en.pdf
+document_name: alisade-epar-public-assessment-report_en.pdf
+version: success
+processing_time: 3.8940623
+conversion_datetime: 2025-12-26 20:48:43.500833
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.66.0
+  docling-core: 2.57.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+<!-- image -->
+
+European Medicines Agency
+
+Evaluation of Medicines for Human Use
+
+Doc.Ref.: EMEA/468110/2008
+
+FLUTICASONE FUROATE GSK International Nonproprietary Name: FLUTICASONE FUROATE Procedure No. EMEA/H/C/1019 Assessment Report as adopted by the CHMP with all information of a commercially confidential nature deleted. Medicinal product no longer authorised
+
+ASSESSMENT
+
+FOR
+
+<!-- image -->
+
+REPORT
+
+<div style=\"page-break-after: always\"></div>
+
+## TABLE OF CONTENTS
+
+|   1. | BACKGROUND INFORMATION ONTHEPROCEDURE........................................... 3                                                           |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------|
+|  1.1 | Submission of the dossier ........................................................................................................ 3         |
+|  1.2 | Steps taken for the assessment of the product.......................................................................... 3                    |
+|  2   | SCIENTIFIC DISCUSSION................................................................................................. 4                     |
+|  2.1 | Introduction.............................................................................................................................. 4 |
+|  2.2 | Quality aspects......................................................................................................................... 4   |
+|  2.3 | Non-clinical aspects................................................................................................................. 4      |
+|  2.4 | Clinical aspects ........................................................................................................................ 5  |
+|  2.5 | Pharmacovigilance................................................................................................................... 5       |
+|  2.6 | Overall conclusions, risk/benefit assessment and recommendation ........................................ 7                                   |
+
+Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. BACKGROUND INFORMATION ON THE PROCEDURE
+
+## 1.1 Submission of the dossier
+
+The  applicant  Glaxo  Group  Limited  submitted  on  9  May  2008  an  application  for  Marketing Authorisation to the European Medicines Agency (EMEA) for Fluticasone furoate GSK, through the centralised  procedure  falling  within  the  Article  3  (2)  (a)  of  Regulation  (EC)  No  726/2004.  The eligibility to the centralised procedure was agreed upon by the EMEA/CHMP on 28 April 2008.
+
+The legal basis for this application refers to:
+
+- The CHMP opinions were forwarded, in all official languages of the European Union, to the European Commission, which adopted the corresponding Decisions on 6 October 2008.
+
+Article 10(c) of Directive 2001/83/EC, as amended - relating to informed consent from a marketing authorisation holder for an authorised medicinal product. The applicant applied for the following indication: Adults, adolescents (12 years and over) and children (6 - 11 years) Fluticasone furoate GSK is indicated for the treatment of: · the symptoms of allergic rhinitis Scientific Advice: The applicant did not seek scientific advice at the CHMP. Licensing status: The initial product, AVAMYS, has been given a Community Marketing Authorisation on 11 January 2008. The Rapporteur and Co-Rapporteur appointed by the CHMP were: Rapporteur: Michal Pirozynski (PL) Co-Rapporteur: David Lyons (IRL) 1.2 Steps taken for the assessment of the product · The application was received by the EMEA on 9 May 2008. · The procedure started on 28 May 2008. · The  Rapporteur's  first  Assessment  Report  was  circulated  to  all  CHMP  members  on  27  June 2008. The Co-Rapporteur's first Assessment Report was circulated to all CHMP members on 30 June 2008 · During the meeting on 21 - 24 July 2008, the CHMP, in the light of the overall data submitted and  the  scientific  discussion  within  the  Committee,  issued  a  positive  opinion  for  granting  a Marketing Authorisation to Fluticasone furoate GSK on 24 July 2008. The applicant provided the  letter  of  undertaking  on  the  follow-up  measures  to  be  fulfilled  post-authorisation  on 23 July 2008. Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+## 2 SCIENTIFIC DISCUSSION
+
+## 2.1 Introduction
+
+This application has been submitted as an informed consent application in accordance with Article 10c of Directive 2001/83/EC as amended.
+
+Therefore  the  MAH  of  the  reference  product,  AVAMYS,  has  provided  consent  to  allow  access  to Module 2 to Module 5 of the initial dossier and any subsequent post-marketing procedures submitted, assessed and approved. AVAMYS had been submitted as a full application under Art 8(3) of Directive 2001/83/EC.
+
+The applicant has provided an update to the original environmental risk assessment. The regulatory and scientific strategy of ERA chosen by the applicant is reasonable and the scope of studies (Phase I and  Phase  II,  Tier  1)  acceptable.  The  calculated  Predicted  Environmental  Concentration  (PEC)  for fluticasone  furoate  is  significantly  below  the  trigger  value  for  a  Phase  II  assessment  according  to Guideline on the Environmental Risk Assessment of Medicinal Products for Human  Use (CHMP/SWP/4447/00).
+
+The  dossier  submitted  for  Fluticasone  furoate  GSK  27.5 micrograms/spray  nasal  spray  suspension consists only of Module 1 information. As a consequence, quality, safety and efficacy of Fluticasone furoate GSK are identical to the up-todate quality, safety and efficacy profile of Avamys. Information on the scientific discussions can be found  in  the  AVAMYS  CHMP  assessment  report  and  in  the  European  Public  Assessment  Report (EPAR). The approved indication is: 'Adults, adolescents (12 years and over) and children (6 - 11 years) Fluticasone furoate GSK is indicated for the treatment of: · the symptoms of allergic rhinitis' 2.2 Quality aspects Since this application is an informed consent dossier of the AVAMYS application, the quality data in support of the Fluticasone furoate GSK application are identical to the up-to-date quality data of the AVAMYS dossier which have been assessed and approved (including all post-marketing procedures). 2.3 Non-clinical aspects Since this application is an informed consent of the AVAMYS application, the non-clinical data in support of the Fluticasone furoate GSK application are identical to the up-to-date non-clinical data of the  AVAMYS  dossier,  which  have  been  assessed  and  approved  (including  all  post-marketing procedures). Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+## 2.4 Clinical aspects
+
+Since this application is an informed consent of the AVAMYS application, the clinical data in support of  the  Fluticasone  furoate  GSK  application  are  identical  to  the  up-to-date  clinical  data  of  the AVAMYS dossier, which have been assessed and approved (including all post-marketing procedures).
+
+## · User Consultation
+
+Consultation  with  target  patient  groups  has  not  been  undertaken  for  Fluticasone  furoate  GSK.  The applicant has included justification for this based on the fact that the Package Leaflet is the same as for the reference product and its User Testing was satisfactory.
+
+<!-- image -->
+
+| Safety issue                                  | Proposed pharmacovigilance activities                                             | Proposed risk minimisation activities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|-----------------------------------------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Effects on nasal mucosa                       | Routine pharmacovigilance including targeted questionnaires 12-month biopsy study | SPC Section 4.8 (Undesirable effects) Very common: epistaxis Common: nasal ulceration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Concurrent use of CYP3A4 inhibitors Medicinal | Routine pharmacovigilance                                                         | -SPC Section 4.4 'Ritonavir Concomitant administration with ritonavir is not recommended because of the risk of increased systemic exposure of fluticasone furoate (see Section 4.5).' -SPC Section 4.5 'Based on data with another glucocorticoid (fluticasone propionate), that is metabolised by CYP3A4, co- administration with ritonavir is not recommended because of the risk of increased systemic exposure of fluticasone furoate. Caution is recommended when co- administering fluticasone furoate with potent CYP3A4 inhibitors as an increase in systemic exposure cannot be ruled out. |
+
+2.5 Pharmacovigilance PSUR It is agreed by the CHMP that the PSUR cycle of Fluticasone furoate GSK will correspond to the cycle attributed to the cross-referred product, AVAMYS, until otherwise specified. Detailed description of the Pharmacovigilance system The  CHMP considered that the  Pharmacovigilance system  as  described  by  the  applicant  fulfils  the legislative requirements. Risk Management Plan The MAA submitted a risk management plan Table Summary of the risk management plan Medicinal product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+| Safety issue                                      | Proposed pharmacovigilance activities   | Proposed risk minimisation activities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|---------------------------------------------------|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                   |                                         | In a drug interaction study of intranasal fluticasone furoate with the potent CYP3A4 inhibitor ketoconazole there were more subjects with measurable fluticasone furoate concentrations in the ketoconazole group (6 of the 20 subjects) compared to placebo (1 out of 20 subjects). This small increase in exposure did not result in a statistically significant difference in 24 hour serum cortisol levels between the two groups (see Section                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Use in patients with hepatic impairment Medicinal | Routine pharmacovigilance product       | 4.4).' SPC Section 4.2: Hepatic Impaired Patients: No dose adjustment is required in mild to moderate hepatic impairment. There are no data in patients with severe hepatic impairment (see Section 4.4 and Section 5.2). SPC Section 4.4 Fluticasone furoate undergoes extensive first-pass metabolism, therefore the systemic exposure of intranasal fluticasone furoate in patients with severe liver disease is likely to be increased. This may result in a higher frequency of systemic adverse events (see Section 4.2 and Section 5.2). Caution is advised when treating these patients.' SPC Section 5.2 Hepatic Impairment: There are no data with intranasal fluticasone furoate in patients with hepatic impairment. A study of a single 400 microgram dose of orally inhaled fluticasone furoate in patients with moderate hepatic impairment resulted in increased Cmax (42 %) and AUC(0-_) (172 %) and a modest (on average 23 %) decrease in cortisol levels in patients compared to healthy subjects. From this study the average predicted exposure of 110 micrograms of intranasal fluticasone furoate in patients with moderate hepatic impairment would not be expected to result in suppression of cortisol. Therefore moderate hepatic impairment is not predicted to result in a clinically relevant effect for the normal adult dose. There are no data in patients with severe hepatic impairment. The exposure of fluticasone furoate is likely to be further increased in such patients. no longer authorised |
+
+<div style=\"page-break-after: always\"></div>
+
+| Safety issue                                                                                                   | Proposed pharmacovigilance activities                                               | Proposed risk minimisation activities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Systemic corticosteroid effects                                                                                | Routine pharmacovigilance including targeted questionnaire                          | Warning in SPC Section 4.4 : 'Treatment with higher than recommended doses of nasal corticosteroids may result in clinically significant adrenal suppression. If there is evidence for higher than recommended doses being used, then additional systemic corticosteroid cover should be considered during periods of stress or elective surgery. Fluticasone furoate 110 micrograms once daily was not associated with hypothalamic-pituitaryadrenal (HPA) axis suppression in adult, adolescent or paediatric subjects. However the dose of intranasal fluticasone furoate should be reduced to the lowest dose at which effective control of the symptoms of rhinitis is maintained. As with all intranasal corticosteroids, the total systemic burden of corticosteroids should be considered whenever other forms of corticosteroid treatment are prescribed concurrently.' longer authorised |
+| Potential cataract development                                                                                 | Routine pharmacovigilance including targeted questionnaire 24 month ocular study no |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Limited long term clinical experience in children including a potential effect on long-term growth in children | -12 month stadiometry study - Routine pharmacovigilance product                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Pyrexia                                                                                                        | Routine Pharmacovigilance including evaluation of events across age groups          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+
+Since  this  application  is  an  informed  consent  of  the  AVAMYS  application  the  CHMP  was  of  the opinion  that  the  risk-benefit  balance  of  Fluticasone  furoate  GSK  was  favourable  and  therefore recommended the granting of the marketing authorisation for the following indication:
+
+The  CHMP,  having  considered  the  data  submitted  in  the  application,  is  of  the  opinion  that  no additional risk minimisation activities are required beyond those included in the product information 2.6 Overall conclusions, risk/benefit assessment and recommendation Medicinal product no longer authorised
+
+## Adults, adolescents (12 years and over) and children (6 - 11 years)
+
+Fluticasone furoate GSK is indicated for the treatment of:
+
+- the symptoms of allergic rhinitis

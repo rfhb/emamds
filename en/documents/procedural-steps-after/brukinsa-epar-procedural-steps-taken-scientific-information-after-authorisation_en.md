@@ -1,0 +1,57 @@
+---
+document_datetime: 2025-11-24 16:37:59
+document_pages: 5
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/brukinsa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+document_name: brukinsa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+version: success
+processing_time: 3.1758776
+conversion_datetime: 2025-12-26 18:09:30.749633
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.66.0
+  docling-core: 2.57.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## Brukinsa
+
+Procedural steps taken and scientific information after the authorisation*
+
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
+
+| Application number   | Scope                               | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|-------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Variation type IB /  | B.I.b.1 Change in the specification | 24/11/2025                          | N/A                                         |                                  |           |
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+|                                          | parameters and/or limits of an active substance, starting material / intermediate / reagent used in the manufacturing process of the active substance - B.I.b.1.b Tightening of specification limits - Accepted                                                                                                                                                                                                     |            |            |                 | EMA/VR/0000310545   |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|-----------------|---------------------|
+| Variation type IA / EMA/VR/0000309729    | This was an application for a group of variations. B.II.f.1 Change in the shelf-life or storage conditions of the finished product - B.II.f.1.e Change to an approved stability protocol - Refused B.II.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - B.II.b.3.a Minor change in the manufacturing process - Refused | 12/11/2025 | N/A        |                 |                     |
+| Variation type IA_IN / EMA/VR/0000303022 | A.5 Change in the name and/or address of a manufacturer/importer of the finished product (including batch release or quality control testing sites) - A.5.a The activities for which the manufacturer/importer is responsible include batch release - Accepted                                                                                                                                                      | 29/10/2025 | 24/10/2025 | Annex II and PL |                     |
+| Variation type IA_IN /                   | This was an application for a group of variations. B.II.b.1 Replacement or addition of a                                                                                                                                                                                                                                                                                                                            | 06/10/2025 | N/A        |                 | EMA/VR/0000297362   |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | manufacturing site for part or all of the manufacturing process of the finished product - B.II.b.1.a Secondary packaging site - Accepted B.II.b.1 Replacement or addition of a manufacturing site for part or all of the manufacturing process of the finished product - B.II.b.1.b Primary packaging site - Accepted                                                                                                                                                                                                                                                                                                                                                                                                             |            |            |                                  |                                                                               |
+|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|----------------------------------|-------------------------------------------------------------------------------|
+| Variation type II / EMA/VR/0000282181 | C.I HUMAN AND VETERINARY MEDICINAL PRODUCTS - C.I.4 Change(s) in the Summary of Product Characteristics, Labelling or Package Leaflet due to new quality, preclinical, clinical or pharmacovigilance data - Accepted Update Annex II to remove the related post- authorisation measure based on final report from study BGB-3111-212, listed as a specific obligation in the Annex II; this is an interventional, Phase 2, open-label, randomized clinical study evaluating the efficacy, safety, tolerability, and PK of zanubrutinib in combination with obinutuzumab in patients with relapsed/refractory follicular lymphoma. In addition, the MAH took the opportunity to bring the PI in line with the latest QRD template. | 18/09/2025 | 24/10/2025 | SmPC, Annex II, Labelling and PL | For more information, please refer to the Summary of Product Characteristics. |
+
+<div style=\"page-break-after: always\"></div>
+
+| Variation type IA_IN / EMA/VR/0000287519   | This was an application for a group of variations. A.5 Change in the name and/or address of a manufacturer/importer of the finished product (including batch release or quality control testing sites) - A.5.a The activities for which the manufacturer/importer is responsible include batch release - Accepted A. ADMINISTRATIVE CHANGES - A.7 Deletion of manufacturing sites for an active substance, intermediate or finished product, packaging site, manufacturer responsible for batch release, site where batch control takes place, or supplier of a starting material, reagent or excipient (when mentioned in the   | 08/08/2025   | 24/10/2025   | Annex II and PL        |                                                                                                                                                                                              |
+|--------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Variation type IA_IN / EMA/VR/0000267377   | A. ADMINISTRATIVE CHANGES - A.1 Change in the name and/or address of the marketing authorisation holder - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 07/05/2025   | 24/10/2025   | SmPC, Labelling and PL |                                                                                                                                                                                              |
+| Variation type IB / EMA/VR/0000253712      | C.I HUMAN AND VETERINARY MEDICINAL PRODUCTS - C.I.z Other variation - Accepted C.I.z (IB) - To update Annex IID of the Product Information by revising the due date for the submission of updated safety and efficacy data from study BGB-3111-212, changing it from Q1 2025 to Q2 2025.                                                                                                                                                                                                                                                                                                                                         | 27/03/2025   | 24/10/2025   | Annex II               | To update Annex IID of the Product Information by revising the due date for the submission of updated safety and efficacy data from study BGB-3111-212, changing it from Q1 2025 to Q2 2025. |
+
+<div style=\"page-break-after: always\"></div>
+
+| PSUR / EMA/PSUR/0000248496   | - -   | Based on the PRAC review of data on safety and efficacy, the PRAC considers that the risk-benefit balance of medicinal products containing zanubrutinib remains unchanged and therefore recommends the maintenance of the marketing authorisation(s).   |
+|------------------------------|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

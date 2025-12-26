@@ -1,0 +1,38 @@
+---
+document_datetime: 2025-07-16 09:51:59
+document_pages: 2
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/ilumetri-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+document_name: ilumetri-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+version: success
+processing_time: 1.4925822
+conversion_datetime: 2025-12-26 19:43:23.914048
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.66.0
+  docling-core: 2.57.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## Ilumetri
+
+Procedural steps taken and scientific information after the authorisation*
+
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
+
+| Application number                    | Scope                                              | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|---------------------------------------|----------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Variation type IB / EMA/VR/0000269030 | This was an application for a group of variations. | 23/06/2025                          | N/A                                         |                                  |           |
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | B.I.d.1.b Storage conditions - B.I.d.1.b.3 Change in storage conditions of the active substance - Accepted B.I.d.1 Change in the re-test period/storage period or storage conditions of the active substance where no Ph. Eur. Certificate of Suitability covering the retest period is part of the approved dossier - B.I.d.1.z Other variation - Accepted                                                                                                                                                                                                                                          |            |     |      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Variation type II / EMA/VR/0000261769 | C.I HUMAN AND VETERINARY MEDICINAL PRODUCTS - C.I.4 Change(s) in the Summary of Product Characteristics, Labelling or Package Leaflet due to new quality, preclinical, clinical or pharmacovigilance data - Accepted Update of section 5.1 of the SmPC in order to include efficacy information of plaque psoriasis of the scalp based on final results from study TILD-18-20; this is a phase 3b, multicenter, randomized, double-blind, placebo-controlled clinical study to assess the efficacy and safety of tildrakizumab in the treatment of moderate to severe plaque psoriasis of the scalp. | 05/06/2025 |     | SmPC | Plaque psoriasis of the scalp A randomised, placebo- controlled study evaluated the efficacy and safety of tildrakizumab in 231 patients with moderate to severe plaque psoriasis of the scalp, defined as an Investigator's Global Assessment (IGA) modified (mod) 2011 scalp score ≥3, Psoriasis Scalp Severity Index (PSSI) score ≥12, and ≥30% of scalp surface area (SSA) affected at baseline. At week 16, tildrakizumab treatment compared to placebo was associated with a statistically significant improvement in both endpoints the IGA mod 2011 0 or 1 scalp only response (49% versus 7%) and PSSI 90 response (56% versus 4%). These effects were sustained for tildrakizumab patients who continued treatment up to week 52. For more information, please refer to the Summary of Product Characteristics. |
+| Variation type IB / EMA/VR/0000246878 | B.I ACTIVE SUBSTANCE - B.I.z Other variation - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 07/02/2025 | N/A |      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |

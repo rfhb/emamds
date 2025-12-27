@@ -1,0 +1,614 @@
+---
+document_datetime: 2023-09-21 21:02:51
+document_pages: 29
+document_pathfilename: www.ema.europa.eu/en/documents/assessment-report/pregabalin-mylan-pharma-epar-public-assessment-report_en.pdf
+document_name: pregabalin-mylan-pharma-epar-public-assessment-report_en.pdf
+version: success
+processing_time: 12.0391035
+conversion_datetime: 2025-12-27 17:45:34.278019
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.66.0
+  docling-core: 2.57.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+<!-- image -->
+
+23 April 2015 EMA/CHMP/90102/2015 Committee for Medicinal Products for Human Use (CHMP) Assessment report Pregabalin Mylan Pharma International non-proprietary name: pregabalin Procedure No. EMEA/H/C/003962/0000 Note Assessment report as adopted by the CHMP with all information of a commercially confidential nature deleted. Medicinal Product no longer authorised
+
+<!-- image -->
+
+An agency of the European Union
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Administrative information
+
+<!-- image -->
+
+| Name of the medicinal product:                         | Pregabalin Mylan Pharma                                                                                                                                                                                                                                                                                                                                                                                                               |
+|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Applicant:                                             | Generics UK Limited Station Close Potters Bar Hertfordshire EN6 1TL UNITED KINGDOM                                                                                                                                                                                                                                                                                                                                                    |
+| Active substance: Medicinal                            | pregabalin                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| International Nonproprietary Name/Common Name: Product | pregabalin                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Pharmaco-therapeutic group (ATC Code):                 | Pregabalin (N03AX16)                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Therapeutic indications:                               | Neuropathic pain Pregabalin Mylan Pharma is indicated for the treatment of peripheral and central neuropathic pain in adults. Epilepsy Pregabalin Mylan Pharma is indicated as adjunctive therapy in adults with partial seizures with or without secondary generalisation. Generalised Anxiety Disorder Pregabalin Mylan Pharma is indicated for the treatment of Generalised Anxiety Disorder (GAD) in adults. no longer authorised |
+| Pharmaceutical form:                                   | Capsule, hard                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Strengths:                                             | 25 mg, 50 mg, 75 mg, 100 mg, 150 mg, 200 mg, 225 mg and 300 mg                                                                                                                                                                                                                                                                                                                                                                        |
+| Route of administration:                               | Oral use                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Packaging:                                             | blister (PVC/PVDC/alu) and bottle (HDPE)                                                                                                                                                                                                                                                                                                                                                                                              |
+| Package sizes:                                         | 100 capsules, 100 x 1 capsules (unit dose), 14                                                                                                                                                                                                                                                                                                                                                                                        |
+
+<div style=\"page-break-after: always\"></div>
+
+| capsules, 14 x 1 capsules (unit dose), 21 capsules, 56 capsules, 56 x 1 capsules (unit dose), 84 capsules, 84 x 1 capsules (unit dose), and 200 capsules   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+## Medicinal Product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+## Table of contents
+
+| 1. Background information on the procedure..............................................                                                                | 7                                                                                                         |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
+| 1.1. Submission of the dossier                                                                                                                          | .....................................................................................7                    |
+| 1.2. Manufacturers                                                                                                                                      | .....................................................................................................9    |
+| 1.3. Steps taken for the assessment of the product                                                                                                      | ........................................................9                                                 |
+| 2. Scientific discussion.............................................................................. Medicinal                                        | 10                                                                                                        |
+| 2.1. Introduction                                                                                                                                       | ...................................................................................................... 10 |
+| 2.2. Quality aspects ..................................................................................................                                 | 11                                                                                                        |
+| 2.2.1. Introduction....................................................................................................                                 | 11                                                                                                        |
+| 2.2.2. Active substance ............................................................................................. 2.2.3. Finished medicinal product | 11 ............................................................................... 13                     |
+| 2.2.4. Discussion on chemical, and                                                                                                                      | 15                                                                                                        |
+| pharmaceutical aspects ........................................... 2.2.5. Conclusions on the chemical, pharmaceutical and biological aspects            | ...................... 15                                                                                 |
+| 2.2.6. Recommendation(s) for future quality development............................................. Product                                            | 15                                                                                                        |
+| 2.3. Non-clinical aspects............................................................................................                                   | 15                                                                                                        |
+| 2.3.1. Introduction....................................................................................................                                 | 15                                                                                                        |
+| 2.3.2. Ecotoxicity/environmental risk assessment.........................................................                                               | 15                                                                                                        |
+| 2.3.3. Discussion on non-clinical aspects .....................................................................                                         | 16                                                                                                        |
+| 2.3.4. Conclusion on the non-clinical aspects ............................................................... no longer                                 | 16                                                                                                        |
+| 2.4. Clinical aspects ..................................................................................................                                | 16                                                                                                        |
+| 2.4.1. Introduction....................................................................................................                                 | 16                                                                                                        |
+| 2.4.2. Pharmacokinetics ............................................................................................                                    | 17                                                                                                        |
+| 2.4.3. Pharmacodynamics..........................................................................................                                       | 22                                                                                                        |
+| 2.4.4. Post marketing experience                                                                                                                        | ............................................................................... 22                        |
+| 2.4.5. Discussion on clinical aspects............................................................................                                       | 22                                                                                                        |
+| 2.4.6. Conclusions on clinical aspects ..........................................................................                                       | 23                                                                                                        |
+| 2.5. Pharmacovigilance                                                                                                                                  | ............................................................................................. 23          |
+| 2.6. Risk management plan .......................................................................................                                       | 23                                                                                                        |
+| 2.7. PSUR submission ...............................................................................................                                    | 27                                                                                                        |
+| 2.8. Product information............................................................................................                                    | 28                                                                                                        |
+| 2.8.1. User consultation                                                                                                                                | ............................................................................................ 28           |
+| 3. Benefit-risk                                                                                                                                         | balance.............................................................................. 28 authorised       |
+| 4. Recommendation                                                                                                                                       | .................................................................................. 28                     |
+
+<div style=\"page-break-after: always\"></div>
+
+## List of abbreviations
+
+AE
+
+adverse event
+
+AP
+
+Applicant's Part of ASMF
+
+API
+
+Active Pharmaceutical Ingredient
+
+AR
+
+Assessment Report
+
+ASM
+
+Active Substance Manufacturer
+
+ASMF
+
+Active Substance Master File = Drug Master File Area Under the plasma Concentration Area Under the plasma Concentration-time curve from time zero to infinity Area Under the plasma Concentration-time curve from time zero to t hours Bioequivalence maximum plasma concentration Certificate of Analysis Certified Research Organisation Drug Master File = Active Substance Master File Decentralised (Application) Procedure Differential Scanning Calorimetry European Commission Electrocardiogram European Madicines Agency European Union Finish Product Manufacturer Gamma-aminobutyric acid Generalised Anxiety Disorder Good Clinical Practice Good Laboratory Practice Good Manufacturing Practice Health Care Professional High Density Polyethylene High Pressure Liquid Chromatography Committee for Human Medicine Products Informed Consent Document Individual Case Safety Report Independent Ethics Committee International Conference of Hamrnization International Non-proprietary Name In-process control test Incidence Rate Infrared Incurred Sample Reanalysis Lower Limit of Quantification Letter of Access Limit of Detection Limit of Quantification Marketing Authorisation Medicinal Product no longer authorised
+
+AUC
+
+AUC0-inf
+
+AUC0-t
+
+BE
+
+Cmax
+
+CoA
+
+CRO
+
+DMF
+
+DP
+
+DSC
+
+EC
+
+ECG
+
+EMA
+
+EU
+
+FPM
+
+GABA
+
+GAD
+
+GCP
+
+GLP
+
+GMP
+
+HCP
+
+HDPE
+
+HPLC
+
+CHMP
+
+ICD
+
+ICSR
+
+IEC
+
+ICH
+
+INN
+
+IPC
+
+IR
+
+IR
+
+ISR
+
+LLOQ
+
+LOA
+
+LOD
+
+LOQ
+
+MA
+
+MAH
+
+Marketing Authorisation holder
+
+MHRA
+
+British National Competent Authority
+
+MR
+
+Medical Representative
+
+MRI
+
+Magnetic resonance imaging
+
+MS
+
+Mass Spectrometry
+
+ND
+
+Not detected
+
+NMR
+
+Nuclear Magnetic Resonance
+
+NMT
+
+Not more than
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+NSAID OOS PDE PE Ph.Eur. PhV PIL PK PMS PP PS PSMF PSUR PT PVC PVDC QA QC QOS QP Rf RH RMM RMS RR RRT RSD Rt SAE SmPC SMQ SOC SOP STD T/R Tmax TSE UV XRPD
+
+<!-- image -->
+
+Non-Steroidal Anti-Inflammatory Drug Out of Specifications Permitted Daily Exposure Polyethylene European Pharmacopoeia Pharmacovigilance Patient Information Leaflet pharmacokinetic Post Marketing Surveillance Polypropylene Photo-Sensitivity Pharmacovigilance System Master File Periodic Safety Update Report Preferred Term Poly vinyl chloride Polyvinylidene chloride Quality Assurance Quality Control (samples) Quality Overall Summary Qualified Person Retention factor Relative Humidity Risk Minimization Measure Reference Member State Reporting Rate Relative retention time Relative standard deviation Retention time Serious adverse event Summary of Product Characteristics Standardised MedDRA Querie System Organ Class Standard Operating Procedure Standard Deviation Test/Reference time for maximum concentration (* median, range) Transmissible spongiform encephalopathy Ultraviolet X-ray powder diffraction Medicinal Product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. Background information on the procedure
+
+## 1.1. Submission of the dossier
+
+The applicant Generics UK Limited submitted on 9 July 2014 an application for Marketing Authorisation to the European Medicines Agency (EMA) for Pregabalin Mylan Pharma, through the centralised procedure under Article 3 (3) of Regulation (EC) No. 726/2004- 'Generic of a Centrally authorised product'. The eligibility to the centralised procedure was agreed upon by the EMA/CHMP on 20 February 2014. The application concerns a generic medicinal product as defined in Article 10(2)(b) of Directive 2001/83/EC and refers to a reference product for which a Marketing Authorisation is or has been granted in the Union on the basis of a complete dossier in accordance with Article 8(3) of Directive 2001/83/EC. The applicant applied for the following indication: Treatment of - peripheral and central neuropathic pain in adults. - adjunctive therapy in adults with partial seizures with or without secondary generalisation. - the treatment of Generalised Anxiety Disorder (GAD) in adults. The legal basis for this application refers to: Generic application (Article 10(1) of Directive No 2001/83/EC). The application submitted is composed of administrative information, complete quality data and a bioequivalence study with the reference medicinal product Lyrica 50 mg hard capsules/Lyrica 300 mg hard instead of non-clinical and clinical unless justified otherwise. The chosen reference product is: ■ Medicinal product which is or has been authorised in accordance with Community provisions in force for not less than 6/10 years in the EEA:  Product name, strength, pharmaceutical form: Lyrica 25 mg, 50 mg, 75 mg, 100 mg, 150 mg, 200 mg, 225 mg, 300 mg hard capsules  Marketing authorisation holder: Pfizer Limited  Date of authorisation:  06/07/2004  Marketing authorisation granted by:  Community Community Marketing authorisation numbers: 25 mg hard capsules: EU/1/04/279/001-005; EU/1/04/279/026; EU/1/04/279/036 50 mg hard capsules: EU/1/04/279/006-010;  EU/1/04/279/037 Medicinal Product no longer authorised
+
+<!-- image -->
+
+75 mg hard capsules: EU/1/04/279/011-013;  EU/1/04/279/027; EU/1/04/279/030; EU/1/04/279/038
+
+- 100 mg hard capsules: EU/1/04/279/014-016;  EU/1/04/279/39
+
+150 mg hard capsules: EU/1/04/279/017-019;  EU/1/04/279/028; EU/1/04/279/031; EU/1/04/279/040
+
+- 200 mg hard capsules: EU/1/04/279/020-022;  EU/1/04/279/041
+
+<div style=\"page-break-after: always\"></div>
+
+225 mg hard capsules: EU/1/04/279/033 - 035; EU/1/04/279/042 300 mg hard capsules: EU/1/04/279/023 - 025; EU/1/04/279/029; EU/1/04/279/032; EU/1/04/279/043
+
+- ■ Medicinal product authorised in the Community/Members State where the application is made or European reference medicinal product:
+-  Product name, strength, pharmaceutical form: Lyrica 25 mg, 50 mg, 75 mg, 100 mg, 150 mg, 200 mg, 225 mg, 300 mg hard capsules
+-  Marketing authorisation holder: Pfizer Limited  Date of authorisation:  06/07/2004  Marketing authorisation granted by:  Community Community Marketing authorisation numbers: 25 mg hard capsules: EU/1/04/279/001-005; EU/1/04/279/026; EU/1/04/279/036 50 mg hard capsules: EU/1/04/279/006-010;  EU/1/04/279/037 75 mg hard capsules: EU/1/04/279/011-013;  EU/1/04/279/027; EU/1/04/279/030; EU/1/04/279/038 100 mg hard capsules: EU/1/04/279/014-016;  EU/1/04/279/39 150 mg hard capsules: EU/1/04/279/017-019;  EU/1/04/279/028; EU/1/04/279/031; EU/1/04/279/040 200 mg hard capsules: EU/1/04/279/020-022;  EU/1/04/279/041 225 mg hard capsules: EU/1/04/279/033 - 035; EU/1/04/279/042 300 mg hard capsules: EU/1/04/279/023 - 025; EU/1/04/279/029; EU/1/04/279/032; EU/1/04/279/043 ■ Medicinal product which is or has been authorised in accordance with Community provisions in force and to which bioequivalence has been demonstrated by appropriate bioavailability studies:  Product name, strength, pharmaceutical form: a) Lyrica 50 mg hard capsules; b) Lyrica 300 mg hard capsules  Marketing authorisation holder: Pfizer Limited  Date of authorisation:  06/07/2004  Marketing authorisation granted by:  Community Community Marketing authorisation numbers: a) EU/1/04/279/006-010; EU/1/04/279/037 b) EU/1/04/279/023 - 025; EU/1/04/279/029; EU/1/04/279/032; EU/1/04/279/043 Medicinal Product no longer authorised
+
+<!-- image -->
+
+## Information on paediatric requirements
+
+Not applicable
+
+## Scientific advice
+
+The applicant did not seek scientific advice at the CHMP.
+
+Assessment Report
+
+<div style=\"page-break-after: always\"></div>
+
+## Licensing status
+
+Pregabalin Mylan Pharma has been given a Marketing Authorisation in Canada on 15 February 2013.
+
+An application was filed in the following countries: New Zealand and United States.
+
+## 1.2. Manufacturers
+
+Manufacturers responsible for batch release McDermott Laboratories Limited T/A Gerard Laboratories 35/36 Baldoyle Industrial Estate Grange Road Dublin 13 Ireland Mylan B.V. Dieselweg 25 NL- 3752  Bunschoten NETHERLANDS Mylan Hungary Kft. Mylan utca. 1 H-2900 Komárom Hungary 1.3. Steps taken for the assessment of the product The Rapporteur appointed by the CHMP: Rapporteur: Pierre Demolis · The application was received by the EMA on 9 July 2014. · The procedure started on 20 August 2014.  The Rapporteur's first Assessment Report was circulated to all CHMP members on 10 November 2014.  PRAC Rapporteur's Risk Management Plan Assessment Report as endorsed by PRAC on 4 December 2014. · During the meeting on 18 December 2014, the CHMP agreed on the consolidated List of Questions to be sent to the applicant. The final consolidated List of Questions was sent to the applicant on 19 December 2014. Medicinal Product no longer authorised
+
+- The applicant submitted the responses to the CHMP consolidated List of Questions on 22 December 2014.
+-  PRAC Rapporteur's Risk Management Plan Assessment Report as endorsed by PRAC on 12 February 2015.
+- The Rapporteur circulated the Assessment Report on the applicant's responses to the List of Questions
+
+<div style=\"page-break-after: always\"></div>
+
+to all CHMP members on 3 February 2015.
+
+- During the CHMP meeting on 26 February 2015, the CHMP agreed on a list of outstanding issues to be addressed in writing by the applicant.
+- The applicant submitted the responses to the CHMP consolidated List of Outstanding Issues on 16 March 2015.
+-  PRAC Rapporteur's Risk Management Plan Assessment Report as endorsed by PRAC on 10 April 2015.
+
+ The Rapporteur circulated the Assessment Report on the applicant's responses to the List of outstanding issues on 7 and  13 April 2015 · During the meeting on 23 April 2015, the CHMP, in the light of the overall data submitted and the scientific discussion within the Committee, issued a positive opinion for granting a Marketing Authorisation to Pregabalin Mylan Pharma. 2. Scientific discussion 2.1. Introduction Pregabalin Mylan Pharma is a generic medicinal product of Lyrica, which has been authorised in the EU since 6 July 2004. The active substance of Pregabalin Mylan Pharma is pregabalin, an analogue of the neurotransmitter gamma-aminobutyric acid (GABA). Pregabalin decreases central neuronal excitability by binding to an auxiliary subunit (α2-δ protein) of a voltage-gated calcium channel on neurons in the central nervous system. Pregabalin reduces the release of several neurotransmitters, including glutamate, noradrenaline, and substance P. The safety and efficacy profile of pregabalin has been characterised in several clinical trials, details of which can be found in the EPAR for Lyrica. In addition, there is a long-term post-marketing experience contributing to the knowledge of the clinical use of this product. Since this application is a generic application referring to the reference medicinal product Lyrica, summary of the clinical data of pregabalin is available and no new clinical studies regarding pharmacology, pharmacokinetics and efficacy and safety have been conducted. Pregabalin Mylan Pharma hard capsules have the same qualitative and quantitative composition, in terms of active substance, and the same pharmaceutical form as the reference product Lyrica. Bioequivalence of the 50 mg dose with the reference 50 mg Lyrica capsule and 300mg dose with the reference 300mg Lyrica capsule was demonstrated clinically. For the remaining doses, CHMP has accepted a biowaiver. The indication proposed for Pregabalin Mylan Pharma is the same as authorized for the Reference medicinal product Lyrica.  The proposed pack sizes are consistent with the dosage regimen and duration of use. Medicinal Product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+## 2.2. Quality aspects
+
+## 2.2.1. Introduction
+
+The finished product is presented as hard capsules containing 25, 50, 75, 100, 150, 200, 225 or 300 mg of pregabalin as active substance.
+
+<!-- image -->
+
+Other ingredients are: Capsule contents: Hydroxylpropylcellulose, maize starch and talc. Capsule shells: Iron oxide yellow (E172), titanium dioxide (E171), erythrosine (E127), gelatin and sodium laurilsulfate. Printing ink: Shellac, iron oxide black (E172), macrogol, concentrated ammonia solution and potassium hydroxide. The product is available in PVC/PVDC-Al blister packs, PVC/PVDC-Al perforated unit dose blister packs, or HDPE bottles as described in section 6.5 of the SmPC. 2.2.2. Active substance General Information The information on the active substance is provided according to the Active Substance Master File (ASMF) procedure. The chemical name of pregabalin is (S ) -3-(aminomethyl)-5-methylhexanoic acid and it has the following structure and properties: Molecular formula: C8H17NO2   -   Relative molecular mass: 159.23gmol -1 The structure of pregabalin was confirmed by  1 H and  13 C NMR spectroscopy, IR spectroscopy, mass spectrometry, elemental analysis and XRPD. Medicinal Product no longer authorised
+
+Pregabalin is a white to off-white, non-hygroscopic, crystalline powder, slightly soluble in water and methanol. Pregabalin has a single chiral centre, created during the synthetic process.
+
+Polymorphism has been observed for pregabalin. The proposed commercial form is non-solvated but additional hydrated and solvated forms have been observed. Polymorphic form is controlled by an XRPD test in the active substance specification.
+
+<div style=\"page-break-after: always\"></div>
+
+## Manufacture, characterisation and process controls
+
+A single ASMF is provided to document the manufacture of pregabalin. Three manufacturers are used to produce the same intermediate from well-defined starting materials in a single step. The equivalent quality of intermediate from all suppliers has been demonstrated. A fourth manufacturer converts the intermediate to pregabalin in two additional steps. Enantiopurity is controlled by the process and is tested in the active substance by specific optical rotation.
+
+Adequate in-process controls are applied during the synthesis. The specifications and control methods for intermediate products, starting materials and reagents have been presented and are considered adequate. Potential and actual impurities were well discussed with regards to their origin and characterised.
+
+The active substance is packaged in a closed LDPE bag inside a heat-sealed HMLDPE bag. This is stored inside a heat-sealed triple laminated aluminium bag, further packaged in an HDPE drum. The LDPE bags comply with the EC directive 2002/72/EC and EC 10/2011. The characterisation of the active substance and its impurities are in accordance with the EU guideline on chemistry of new active substances. Specification The active substance specification includes tests for appearance, solubility, identity (IR, HPLC), polymorphic form (XRPD), particle size (sieve retention), assay (HPLC), impurities (HPLC), residual solvents (GC), water content (KF), specific optical rotation (Ph. Eur.), enantiopurity (chiral HPLC), residue on ignition (Ph. Eur.) and heavy metals (Ph. Eur.). One starting material is a potential genotoxin and its proposed limit in the active substance is in line with the TTC approach. The analytical methods used have been adequately described and non-compendial methods appropriately validated in accordance with the ICH guidelines. Satisfactory information regarding the reference standards used for assay and impurities testing has been presented. Analysis data on three production scale batches of the active substance are provided. The results are within the specifications and consistent from batch to batch. Stability Stability data on three production scale batches of active substance from the proposed manufacturer stored in the intended commercial package for up to 12 months under long term conditions (25 ºC / 60% RH) and for up to 6 months under accelerated conditions  (40 ºC / 75% RH) according to the ICH guidelines were provided. The following parameters were tested: appearance, identity, polymorphic form, assay, impurities, water content and enantiopurity. The analytical methods used were stability indicating. There were no significant to changes to any of the measured parameters. Photostability testing following the ICH guideline Q1B was performed on one batch. No degradation was observed, indicating that pregabalin is not photosensitive. Medicinal Product no longer authorised
+
+Forced degradation studies were also carried in aqueous solution under conditions of high and low pH, at high temperature, in the presence of oxidant and in the solid state at high temperature.  Pregabalin degrades on heating at extremes of pH and under oxidative conditions. However, no racemisation was observed under any condition.
+
+The stability results indicate that the active substance manufactured by the proposed supplier is sufficiently stable. The stability results justify the proposed retest period and storage conditions in the proposed container.
+
+<div style=\"page-break-after: always\"></div>
+
+## 2.2.3. Finished medicinal product
+
+## Description of the product and pharmaceutical development
+
+The aim of development was to produce immediate release capsules of pregabalin, pharmaceutically equivalent to Lyrica, with comparable dissolution profiles and acceptable stability. Since Lyrica is a hard capsule formulation, the same presentation was chosen for Pregabalin Mylan Pharma.
+
+Pregabalin is highly soluble over the physiological pH range and highly permeable (BCS I) and has reasonable flow properties. Therefore, a dry blending process was investigated, followed by filling into the hard capsules. Excipients were chosen based on the functionality of those in the reference product, literature information, and experience with similar products. The finished product composition is qualitatively and quantitatively different to that of Lyrica. The main difference is in the dry blend composition, where low substituted hydroxypropylcellulose is used in place of lactose monohydrate. There are also minor differences in the gelatin shell components with a resulting difference in colour. However, the impurity profiles of Pregabalin Mylan Pharma and Lyrica are similar. Binary mixtures of the proposed excipients with pregabalin were studied and no compatibility issues were identified. The levels of excipients were varied in order to optimise flow properties and dissolution profile. Specifications for particle size of active substance and dry blend excipients have been set in line with the validation batches to ensure content uniformity. All excipients are well known pharmaceutical ingredients and their quality is compliant with Ph. Eur. standards. There are no novel excipients used in the finished product formulation. The list of excipients is included in section 6.1 of the SmPC. The 75-300 mg strength capsules are dose proportional and are distinguished by different sized capsule shells, colour, and imprints. The 25 and 50 mg capsules are proportional to each other, but contain a higher excipient content than the 75-300 mg strengths. They are also made distinct from each other by differences in size, colour and imprints. The dissolution method was developed using Ph. Eur. apparatus and conditions. Complete release of the product was demonstrated at pHs 1.2, 4.5 and 6.8. A series of qualitatively and quantitatively different formulations were tested and the method thus shown to be discriminatory. A bioequivalence study was performed with the 50 and 300 mg strengths (representing both active substance:excipient ratio formulations) manufactured using the proposed commercial process and formulation, indicating equivalent in vivo performance to Lyrica capsules of the same strengths. Further comparison of the in vitro performance of all tablet strengths with their Lyrica equivalents at pHs 1.2, 4.5 and 6.8 indicate similar dissolution profiles. The batches used in bioequivalence studies were also compared in vitro against their dose proportional strengths (i.e. 300 mg vs 75, 150, 200 and 225 mg; 50 vs 25 mg), as well as with capsules from validation batches. In line with CPMP guidance on the Investigation of Bioequivalence CPMP/EWP/QWP/1401/98-Rev 01 - August 2010, the dissolution profiles of all these batches can be considered as similar. Therefore, biowaivers are granted for those strengths not tested in the bioequivalence studies. Medicinal Product no longer authorised
+
+The primary packaging is PVC/PVDC-Al blister packs, PVC/PVDC-Al perforated unit dose blister packs, or HDPE bottles. The material complies with Ph. Eur. and EC requirements. The choice of the container closure system has been validated by stability data and is adequate for the intended use of the product.
+
+<div style=\"page-break-after: always\"></div>
+
+## Manufacture of the product and process controls
+
+The manufacturing process consists of three main steps: dry blending of excipients, encapsulation and packaging. The dry blend can be completely converted to a single strength capsule or sub-divided between dose-proportional strengths. The process is considered to be a standard manufacturing process.
+
+The dry blend is tested for identity, content uniformity, assay, and loss on drying before encapsulation. Tests are also in place to ensure mass uniformity, average fill weight, disintegration, and correct appearance and printing during the encapsulation process. Leak-testing during packing is also carried out. Studies indicate that holding times of 60 days for the bulk powder blend and 12 months for the filled capsules are acceptable.
+
+Major steps of the manufacturing process have been validated on pilot scale. It has been demonstrated that the manufacturing process is capable of producing the finished product of intended quality in a reproducible manner. A validation protocol has been provided and a commitment received that the full scale process will be validated before commercialisation of the product. The in-process controls are adequate for this type of manufacturing process and pharmaceutical form. Product specification The finished product release specifications include appropriate tests for this kind of dosage form and comprise of  tests  for  appearance  (visual  inspection),  identification  (HPLC,  IR),  colour  identification  (for  iron  oxide, titanium dioxide and erythrosine), dissolution (Ph. Eur.), uniformity of dosage units (Ph. Eur.), assay (HPLC), impurities  (HPLC),  loss  on  drying  (Ph.  Eur.)  and  microbial  content  (Ph.  Eur.).  Microbial  testing  and  colour identification will be carried out on the first three production scale batches and thereafter on one in every ten batches with a minimum of one batch per year. The analytical methods used have been adequately described and appropriately validated in accordance with the ICH guidelines. Satisfactory information regarding the reference standards used for assay and impurities testing has been presented. Batch analysis results are provided for three pilot scale batches of each strength used to validate the process confirming the consistency of the manufacturing process and its ability to manufacture to the intended product specification. Stability of the product Stability data on three pilot scale batches of each strength of finished product, stored for up to 12 months under long term conditions (25 ºC / 60% RH) and for up to 6 months under accelerated conditions (40 ºC / 75% RH) according to the ICH guidelines were provided. The batches of finished product were identical to those proposed for marketing and were stored in the intended commercial blister packs and HDPE bottles as well as in a bulk shipment pack differing only in terms of dimensions to that intended to be used in routine production. Samples were tested for appearance, loss on drying, impurities, dissolution, assay, and microbial content. The analytical procedures used are stability indicating. No significant trends were observed for any of the parameters tested under either condition. Medicinal Product no longer authorised
+
+In addition, one batch each of the 50 mg and 300 mg strengths were exposed to light as defined in the ICH Guideline on Photostability Testing of New Drug Substances and Products. The results indicate that the finished product is not photosensitive.
+
+In-use stability studies were performed in compliance with the CPMP guideline 'Note for Guidance on In-use stability testing of human medicinal products' (CPMP/QWP/2934/99). Two batches of Pregabalin Mylan Pharma
+
+<div style=\"page-break-after: always\"></div>
+
+of each strength, stored in the commercial HDPE bottles, were tested in a phased study. All tested parameters were within the specifications, indicating the proposed 100 day in-use shelf-life is acceptable.
+
+Based on available stability data, the shelf-life and storage conditions as stated in the SmPC are acceptable.
+
+## Adventitious agents
+
+Gelatine obtained from bovine sources is used in the product. A valid TSE CEP from the suppliers of the gelatine used in the manufacture is provided.
+
+<!-- image -->
+
+2.2.4. Discussion on chemical, and pharmaceutical aspects Information on development, manufacture and control of the active substance and finished product has been presented in a satisfactory manner. The results of tests carried out indicate consistency and uniformity of important product quality characteristics, and these in turn lead to the conclusion that the product should have a satisfactory and uniform performance in clinical use. 2.2.5. Conclusions on the chemical, pharmaceutical and biological aspects The quality of this product is considered to be acceptable when used in accordance with the conditions defined in the SmPC. Physicochemical and biological aspects relevant to the uniform clinical performance of the product have been investigated and are controlled in a satisfactory way. Data has been presented to give reassurance on viral/TSE safety. 2.2.6. Recommendation(s) for future quality development Not applicable. 2.3. Non-clinical aspects 2.3.1. Introduction A non-clinical overview based on up-to-date and adequate scientific literature on the pharmacology, pharmacokinetics and toxicology was provided. The overview justifies why there is no need to generate additional non-clinical pharmacology, pharmacokinetics and toxicology data. The non-clinical aspects of the SmPC are in line with the SmPC of the reference product. The impurity profile has been discussed and was considered acceptable. Therefore, the CHMP agreed that no further non-clinical studies are required. Medicinal Product no longer authorised
+
+## 2.3.2. Ecotoxicity/environmental risk assessment
+
+No Environmental Risk Assessment was submitted. This was justified by the applicant as the introduction of Pregabalin Mylan Pharma manufactured by Generics UK Limited is considered unlikely to result in any significant increase in the combined sales volumes for all pregabalin containing products and the exposure of the environment to the active substance. Thus, the environmental risk is expected to be similar and not increased.
+
+<div style=\"page-break-after: always\"></div>
+
+The CHMP endorsed this view.
+
+## 2.3.3. Discussion on non-clinical aspects
+
+NA
+
+## 2.3.4. Conclusion on the non-clinical aspects
+
+According to the Guideline on the Investigation of Bioequivalence (Doc. Ref.: CPMP/EWP/QWP/1401/98 Rev. 1/ Corr **), if the pharmacokinetic of the active substance is linear and that the bioequivalence is demonstrated for one strength, in vivo bioequivalence studies for the other strengths could be waived. An exemption from the requirement to perform bioequivalence studies would be justified when the following conditions are met: the pharmaceutical products have the same manufacturer, same qualitative composition, same ratio between active substance and excipients and in vitro dissolution profile comparable to the reference product.
+
+The non-clinical overview presented by the applicant is largely based on published scientific literature which is acceptable since pregabalin is a well-known active substance. There are no objections to the approval of Pregabalin Mylan Pharma from a non-clinical point of view. The SmPC of Pregabalin Mylan Pharma is in line with that of the reference product Lyrica and is therefore acceptable. 2.4. Clinical aspects 2.4.1. Introduction This is an application for hard capsules containing pregabalin. To support the marketing authorisation application the applicant conducted 2 bioequivalence studies with cross-over design under fasting conditions; Study 005-14 (with the highest strength, 300 mg), and Study 006-14 (with 50 mg).These studies were pivotal for the assessment. The biowaivers for 25 mg (from the 50 mg strength), and for 75 mg, 100 mg, 150 mg, 200 mg and 225 mg strengths (from the 300 mg strength) are acceptable. The applicant provided a clinical overview outlining the pharmacokinetics and pharmacodynamics as well as efficacy and safety of pregabalin based on published literature. The SmPC is in line with the SmPC of the reference product. No scientific advice by the CHMP was given for this medicinal product. For the clinical assessment the Guideline on the Investigation of Bioequivalence CPMP/EWP/QWP/1401/98 Rev.1/Corr**) is of particular relevance. GCP The applicant has provided a statement to the effect that clinical trials conducted outside the community were carried out in accordance with the ethical standards of Directive 2001/20/EC. Exemption Medicinal Product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+The composition of the strengths 25 and 50 mg of the test product is quantitatively proportional. Further, the composition of the strengths 75, 100, 150, 200, 225 and 300 mg of the test product is quantitatively proportional. Therefore, two single-dose bioequivalence studies have been conducted with the highest strength of both composition groups, i.e. with 50 and 300 mg hard gelatine capsules.
+
+A biowaiver has been applied for the 25 mg (from the 50 mg strength), and for 75 mg, 100 mg, 150 mg, 200 mg and 225 mg strengths (from the 300 mg strength). The applicant provided a tabular listing of the composition of the respective strengths and their dissolution curves at pH 1.2, 4.5 and 6.8. More than 85% of the drug was dissolved within 15 minutes at all pH values tested.
+
+<!-- image -->
+
+Based on these results, the CHMP concluded that the general biowaiver criteria were met. Therefore, two bioequivalence studies with the 50 mg and the 300mg doses and a biowaiver for the additional strengths were considered adequate. Clinical studies To support the application, the applicant has submitted 2 bioequivalence studies; Study 005-14 (with the highest strength, 300 mg), and Study 006-14 (with 50 mg). Neither pharmacodynamic nor therapeutic equivalence studies were submitted. Table 1. Tabular overview of clinical studies 2.4.2. Pharmacokinetics Methods Studies design Medicinal Product no longer authorised
+
+| Type of study   | Study identifier   | Objective                   | Test product; dosage regimen; route of administration no   |   Number of subjects | Duration of treatment   | Study status   |
+|-----------------|--------------------|-----------------------------|------------------------------------------------------------|----------------------|-------------------------|----------------|
+| BE              | 005-14             | BE versus reference product | Hard capsule 300mg; single dose, oral longer               |                   24 | Single dose             | Complete       |
+| BE              | 006-14             | BE versus reference product | Hard capsule 50mg; single dose, oral                       |                   24 | Single dose             | Complete       |
+
+## Study 005-14
+
+This study was an open-label, balanced, randomized, two-treatment, two-sequence, two-period, cross-over, single dose, comparative oral bioavailability study of Pregabalin capsules 300 mg and Lyrica hard capsules 300 mg in healthy, adult subjects under fasting conditions. A washout period of 11 days was maintained between each treatment schedule.
+
+<div style=\"page-break-after: always\"></div>
+
+Blood samples (1 x 6 mL) were collected in pre-labelled vacutainer tubes containing K3EDTA during each period. The venous blood samples were withdrawn at pre-dose (0.00) hour and at 0.25, 0.50, 0.75, 1.00, 1.25, 1.50, 1.75, 2.00, 2.50, 3.00, 3.50, 4.00, 5.00, 6.00, 8.00, 10.00, 12.00, 16.00, 24.00 and 36.00 hours of post dose in each period. Bed-side sampling was done up to 5.0 hours post dose.
+
+## Study 006-14
+
+This study was an open-label, balanced, randomized, two-treatment, two-sequence, two-period, cross-over, single dose, comparative oral bioavailability study of Pregabalin capsules 50 mg and Lyrica hard capsules 50 mg in healthy, adult subjects under fasting conditions. A washout period of 9 days was maintained between each treatment schedule.
+
+Blood samples were taken in accordance with the same schedule as in study 005-14. Test and reference products Study 005-14 Pregabalin 300 mg hard capsules manufactured by Generics UK Limited (batch No. 2003362, manufacturing date May 2013; exp. Date April 2015) has been compared to Lyrica 300 mg hard capsules manufactured by Pfizer Limited (Batch No: 0642062 U, exp. date May 2015). Study 006-14 Pregabalin 50 mg hard capsules manufactured by Generics UK Limited (batch No. 2003304, manufacturing date May 2013; exp. Date April 2015) has been compared to Lyrica 50 mg hard capsules manufactured by Pfizer Limited (Batch No: 0709052 U, exp. date April 2015). Population studied Study 005-14 and Study 006-14 Assuming a true ratio  between  0.95  and  1.05  and  an  inter-subject  variability  of  18%  or  less  for  primary pharmacokinetic parameters, a minimum of 22 subjects for each study was required to conclude bioequivalence with  approximately  90%  power.  To  account  for  subject  withdrawal  and  dropouts  due  to  adverse  events, non-compliance or personal reasons, 24 subjects were planned to be randomized and dosed. For each study, a total of 24 subjects aged from 21 to 44 years with a body mass index (BMI) in the range of 18.56-29.76 kg/m 2  were selected according to the inclusion and exclusion criteria. They were assessed to be healthy according to medical, systemic and physical examination including vital signs, and normal laboratory test results (haematology, biochemistry, and urinalysis), 12-lead ECG and chest X-Ray. Analytical methods Medicinal Product no longer authorised
+
+## Study 005-14 and Study 006-14
+
+The analyte quantitated in the study was pregabalin. The plasma samples of subjects were analysed using LC/MS/MS method for pregabalin in Human Plasma (High Performance Liquid Chromatography method with Tandem Mass Spectrometry). Internal standard was Pregabalin D4.
+
+<div style=\"page-break-after: always\"></div>
+
+The analytical method was developed and validated over a concentration range of 30.003 to 12001.134 ng/ml for Pregabalin. Quantitation was performed using a weighted (1/x 2 ) linear least squares regression analysis.
+
+The bioanalytical method (pre-study and within study) has been satisfactory validated.
+
+## In-study validation for study 005-14:
+
+The range of precision and accuracy of back-calculated concentration of calibration standards of Pregabalin was as follows:
+
+<!-- image -->
+
+ Precision (%): 1.33-3.70.  Accuracy (%): 94.10-107.33.  Range of calibration: 29.853 ng/mL to 11941.272 ng/mL. 884 blood samples were analysed. Incurred sample reanalysis was performed on 88 samples. 100% of those ISR had less than 20% difference with the original. In-study validation for study 006-14: The range of precision and accuracy of back-calculated concentration of calibration standards of Pregabalin:  Precision (%): 0.95-1.81.  Accuracy (%): 98.83-101.74.  Range of calibration: 30.006 ng/mL to 2200.427 ng/mL. 889 samples were received, 847 blood samples were analysed. Incurred sample reanalysis was performed on 88 samples. 100% of those ISR had less than 20% difference with the original. Pharmacokinetic variables Study 005-14 and Study 006-14 Calculation of pharmacokinetic parameters was done for pregabalin using drug concentration time data by non-compartmental method using WinNonlin Professional Software Version 5.0.1 (Pharsight Corporation, USA). These parameters were derived individually for each analysed subject from the concentration vs. time data of Pregabalin in plasma. Values below the lower limit of quantification were set to zero. The primary pharmacokinetic variables for the assessment of bioequivalence were Cmax, AUC0-t and AUC0 -inf. The secondary pharmacokinetics variables were AUC%, Tmax, Kel and T1/2. Statistical methods Study 005-14 and Study 006-14 Medicinal Product no longer authorised
+
+Statistical comparison of the pharmacokinetic parameters of the two formulations was carried out using PROC GLM of SAS ®  Release 9.1.3 (SAS Institute Inc., USA) to assess the bioequivalence of Pregabalin.
+
+ANOVA was computed for un-transformed and ln-transformed pharmacokinetic parameters of Pregabalin Cmax, AUC0 -t and AUC0 -inf . ANOVA model included treatment received, the period at which it is given along with the
+
+<div style=\"page-break-after: always\"></div>
+
+sequence in which each treatment being received and the subject effect (nested within the sequence). Sequence effect was tested by using the subject nested within sequence mean square from the ANOVA as the error term.
+
+Ratio analysis was computed for un-transformed pharmacokinetic parameters of Pregabalin Cmax, AUC0 -t and AUC0 -inf . Descriptive statistics were computed and reported for all pharmacokinetic parameters of Pregabalin.
+
+An F-test was performed to determine the statistical significance of the period and treatment effects involved in the model at a significance level of 5% (alpha=0.05) and sequence effect tested at 10% (alpha=0.10).
+
+| Pharmacokinetic      | Test            | Test          | Reference       | Reference   |
+|----------------------|-----------------|---------------|-----------------|-------------|
+| parameter            | Arithmetic mean | SD            | Arithmetic mean | SD          |
+| AUC 0-t (ng.hr/mL)   | 57877.4931      | 7791.16519 no | 58151.4316      | 7740.15469  |
+| AUC 0-inf (ng.hr/mL) | 58933.3768      | 8231.13702    | 59149.3087      | 7962.35060  |
+| C max (ng/mL)        | 7453.1610       | 1680.95464    | 7642.5909       | 1827.45851  |
+| T 1/2 (hr)           | 6.051           | 0.5895        | 6.041           | 0.4910      |
+| T max * (hr)         | 1.50            | 0.50-3.00     | 1.50            | 0.75-2.50   |
+
+AUC0-t area under the plasma concentration-time curve from time zero to t hours&gt;
+
+AUC0-inf
+
+Cmax
+
+T1/2
+
+Tmax area under the plasma concentration-time curve from time zero to infinity
+
+maximum plasma concentration terminal elimination half-life
+
+time for maximum concentration (* median, range)
+
+<!-- image -->
+
+| Pharmacokinetic parameter                  | Geometric Mean Ratio Test/Reference (%)    | Confidence Intervals (%)                   | CV%*                                       |
+|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|
+| AUC 0-t (ng.hr/mL)                         | 99.54                                      | 97.45-101.67                               | 3.9                                        |
+| AUC 0-inf (ng.hr/mL)                       | 99.61                                      | 97.46-101.80                               | 4.0                                        |
+| C max (ng/mL)                              | 98.13                                      | 89.49-107.61                               | 16.9                                       |
+| * estimated from the Residual Mean Squares | * estimated from the Residual Mean Squares | * estimated from the Residual Mean Squares | * estimated from the Residual Mean Squares |
+
+A 90% confidence intervals for the ratio of the test and reference product averages (geometric least squares means) were calculated for Pregabalin Cmax, AUC0 -t and AUC0 -inf . The power of test to detect 20% difference between test and reference formulations was computed and reported for Pregabalin. Intra-subject variability was calculated for un-transformed and Ln-transformed pharmacokinetic parameters of Pregabalin Cmax, AUC0 -t and AUC0 -inf . Results Study 005-14 The results of this study are summarised in the Tables 2-3 1-2 below. Table 2. Pharmacokinetic parameters for Pregabalin non-transformed values, N=20 (Study 005-14) Table 3. Statistical analysis for Pregabalin ln-transformed values, N=20 (Study 005-14) Medicinal Product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+The 90% confidence intervals for test/reference ratios observed for Cmax and AUCs are within the pre-specified acceptance  limits  for  bioequivalence,  80.00-125.00%.  Therefore,  the  bioequivalence  between  test  and reference products can be considered as demonstrated.
+
+## Study 006-14
+
+The results of this study are summarised in Tables 4-5 below.
+
+Table 4 Pharmacokinetic parameters for Pregabalin non-transformed values, N=20 (Study 006-14)
+
+| Pharmacokinetic Medicinal   | Test            | Test       | Reference       | Reference   |
+|-----------------------------|-----------------|------------|-----------------|-------------|
+| parameter                   | Arithmetic mean | SD         | Arithmetic mean | SD          |
+| AUC 0-t (ng.hr/mL)          | 11579.3677      | 1972.20738 | 11351.8963      | 1559.43194  |
+| AUC 0-inf (ng.hr/mL)        | 12191.3284      | 1938.94981 | 12006.8775      | 1562.01773  |
+| C max (ng/mL)               | 1981.7702       | 465.57653  | 1848.2462       | 441.80646   |
+| T 1/2 (hr)                  | 6.163           | 0.6853     | 6.183           | 0.5020      |
+| T max * (hr)                | 0.75            | 0.50-1.25  | 1.00            | 0.50-3.50   |
+
+Cmax
+
+T1/2
+
+| Pharmacokinetic parameter                  | Geometric Mean Ratio Test/Reference (%) no   | Confidence Intervals (%)   | CV%*   |
+|--------------------------------------------|----------------------------------------------|----------------------------|--------|
+| AUC 0-t (ng.hr/mL)                         | 101.37                                       | 97.98-104.88               | 6.2    |
+| AUC 0-inf (ng.hr/mL)                       | 100.98                                       | 97.39-104.70               | 6.6    |
+| C max (ng/mL)                              | 108.21                                       | 98.35-119.06               | 17.6   |
+| * estimated from the Residual Mean Squares | * estimated from the Residual Mean Squares   |                            |        |
+
+AUC0-t area under the plasma concentration-time curve from time zero to t hours&gt; AUC0-inf area under the plasma concentration-time curve from time zero to infinity maximum plasma concentration terminal elimination half-life Tmax time for maximum concentration (* median, range) Table 5. Pharmacokinetic parameters for Pregabalin non-transformed values, N=20 (Study 006-14) The 90% confidence intervals for test/reference ratios observed for Cmax and AUCs are within the pre-specified acceptance  limits  for  bioequivalence,  80.00-125.00%.  Therefore,  the  bioequivalence  between  test  and reference products can be considered as demonstrated. Safety data Study 005-14 Four subjects experienced a total of four adverse events (vomiting) which led to the withdrawal of these subjects from the study. The adverse events were mild in severity. Medicinal Product no longer authorised
+
+No serious adverse events were reported. All subjects were found to be in normal health status at the time of post study medical examination.
+
+## Study 006-14
+
+Two subjects experienced a total of two adverse events (vomiting) which led to the withdrawal of these subjects from the study. The adverse events were mild in severity.
+
+<div style=\"page-break-after: always\"></div>
+
+No serious adverse events were reported. All subjects were found to be in normal health status at the time of post study medical examination. However, post study safety evaluation was not performed for 2 subjects who were absent for period-II and were considered as lost to follow-up.
+
+## Conclusions
+
+Based on the presented bioequivalence study 005-14 Pregabalin Mylan Pharma 300 mg is considered bioequivalent with Lyrica 300mg. The results can be extrapolated to other strengths: 75 mg, 100 mg, 150 mg, 200 mg and 225 mg, according to conditions in the Guideline on the Investigation of Bioequivalence CPMP/EWP/QWP/1401/98.
+
+Based on the presented bioequivalence study 006-014 Pregabalin Mylan Pharma 50 mg is considered bioequivalent with Lyrica 50 mg. The results can be extrapolated to other strengths 25 mg strength, according to conditions in the Guideline on the Investigation of Bioequivalence CPMP/EWP/QWP/1401/98. 2.4.3. Pharmacodynamics No new pharmacodynamic studies were presented and no such studies are required for this application. 2.4.4. Post marketing experience No post-marketing data are available. The medicinal product has not been marketed in any country. 2.4.5. Discussion on clinical aspects The chosen pharmacokinetic parameters of the BE studies were adequate according to the current guidelines. The statistics  have  been  adequately  described  and  the  standard  acceptance  criteria  were  acceptable.  The threshold of a 10% significance level sequence effect (vs. the 5% threshold for period and treatment effects) was unusual. However, the CHMP was of the opinion that it did not have consequences on the interpretation of the data. The number of sample points around Cmax was considered adequate for the estimation of Cmax, calculation of the terminal elimination life was considered acceptable, and the analytical method has been validated in a suitable range. In study 006-14, the upper range of calibration was lower than the upper range of calibration in the method validation. This was acceptable since lower pregabalin plasma concentrations were expected following administration of a 50 mg dose. A single dose bioequivalence studies were considered sufficient since the application concerns an immediate release formulation.  Steady state studies are not indicated as no accumulation of pregabalin is expected, and bioavailability is not affected by repeated doses. Medicinal Product no longer authorised
+
+There were no deaths or serious adverse events reported during the conduct of the studies. All adverse events, were mild in nature and resolved. The safety of pregabalin is well documented and both test and reference products are expected to have a comparable safety profile.
+
+<div style=\"page-break-after: always\"></div>
+
+## 2.4.6. Conclusions on clinical aspects
+
+Based on the results of the pivotal bioequivalence studies submitted, Pregabalin Mylan Pharma hard capsules are considered bioequivalent to Lyrica hard capsules.
+
+## 2.5. Pharmacovigilance
+
+Detailed description of the pharmacovigilance system The CHMP considered that the Pharmacovigilance system as described by the applicant fulfils the legislative requirements. 2.6. Risk management plan The CHMP received the following PRAC Advice on the submitted Risk Management Plan: The PRAC considered that the risk management plan version 3 is acceptable. The PRAC endorsed PRAC Rapporteur assessment report is attached. The CHMP endorsed the Risk Management Plan version 3 with the following content: Safety concerns Medicinal Product no longer authorised
+
+| longer authorised   |
+|---------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+## Pharmacovigilance plan
+
+## Not applicable
+
+## Risk minimisation measures
+
+| Medicinal Product    |
+|----------------------|
+| no longer authorised |
+
+<div style=\"page-break-after: always\"></div>
+
+| Medicinal Product   |                   |
+|---------------------|-------------------|
+| no                  |                   |
+|                     | longer authorised |
+
+<div style=\"page-break-after: always\"></div>
+
+|            | Medicinal   |            |
+|------------|-------------|------------|
+|            | Product     |            |
+|            | no longer   |            |
+| authorised | authorised  | authorised |
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+| Medicinal   |
+|-------------|
+| Product     |
+| no longer   |
+
+The marketing authorisation holder shall submit periodic safety update reports for this product in accordance with the requirements set out in the list of Union reference dates (EURD list) ) provided for under Article 107c(7) of Directive 2001/83/EC and  published on the European medicines web-portal.
+
+2.7. PSUR submission Medicinal Product no longer authorised
+
+<div style=\"page-break-after: always\"></div>
+
+## 2.8. Product information
+
+## 2.8.1. User consultation
+
+No full user consultation with target patient groups on the package leaflet has been performed on the basis of a double bridging report making reference to Lyrica (for content) and Memantine Mylan 10 mg film-coated tablets (for style and format). The bridging report submitted by the applicant has been found acceptable.
+
+## 4. Recommendation
+
+3. Benefit-risk balance This application concerns a generic version of pregabalin hard capsules. The reference product Lyrica is indicated for the treatment of peripheral and central neuropathic pain in adults, adjunctive therapy in adults with partial seizures with or without secondary generalisation and treatment of Generalised Anxiety Disorder (GAD) in adults. No nonclinical studies have been provided for this application but an adequate summary of the available nonclinical information for the active substance was presented and considered sufficient. From a clinical perspective, this application does not contain new data on the pharmacokinetics and pharmacodynamics as well as the efficacy and safety of the active substance; the applicant's clinical overview based on information from published literature was considered sufficient. The bioequivalence studies form the pivotal basis with an open-label, balanced, randomized, two-sequence, two-period, cross-over, single dose design. The design was considered adequate to evaluate the bioequivalence of this formulation and was in line with the respective European requirements. Choice of dose, sampling points, overall sampling time as well as wash-out period were adequate. The analytical method was validated. Pharmacokinetic and statistical methods applied were adequate. Based on the presented bioequivalence studies 005-14 and 006-14, Pregabalin capsules 300 mg are considered bioequivalent with Lyrica™ hard capsules 300 mg with respect to rate and extent of absorption of Pregabalin; and Pregabalin capsules 50 mg are considered bioequivalent with Lyrica™ hard capsules 50 mg with respect to rate and extent of absorption of Pregabalin. The results of study 005-14 with 300 mg formulation can be extrapolated to other strengths: 75 mg, 100 mg, 150 mg, 200 mg and 225 mg, and the results of study 006-14 with 50 mg formulation can be extrapolated to the other strength 25 mg, according to conditions in the relevant Guideline. A benefit/risk ratio comparable to the reference product can therefore be concluded. The CHMP, having considered the data submitted in the application and available on the chosen reference medicinal product, is of the opinion that no additional risk minimisation activities are required beyond those included in the product information. Medicinal Product no longer authorised
+
+Based on the CHMP review of data on quality, safety and efficacy, the CHMP considers by consensus that the benefit-risk balance of Pregabalin Mylan Pharma in the treatment of
+
+- peripheral and central neuropathic pain in adults.
+- adjunctive therapy in adults with partial seizures with or without secondary generalisation.
+- the treatment of Generalised Anxiety Disorder (GAD) in adults
+
+<div style=\"page-break-after: always\"></div>
+
+is favourable and therefore recommends the granting of the marketing authorisation subject to the following conditions:
+
+## Conditions or restrictions regarding supply and use
+
+Medicinal product subject to medical prescription (See Annex I: Summary of Product Characteristics, section 4.2).
+
+<!-- image -->
+
+Conditions and requirements of the Marketing Authorisation  Periodic Safety Update Reports The marketing authorisation holder shall submit periodic safety update reports for this product in accordance with the requirements set out in the list of Union reference dates (EURD list) ) provided for under Article 107c(7) of Directive 2001/83/EC and  published on the European medicines web-portal. Conditions or restrictions with regard to the safe and effective use of the medicinal product  Risk Management Plan (RMP) The MAH shall perform the required  pharmacovigilance activities and interventions detailed in the  agreed RMP presented in Module 1.8.2 of the Marketing Authorisation and any agreeed  subsequent updates of the RMP. An updated RMP should be submitted:  At the request of the European Medicines Agency;  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached. If the submission of a PSUR and the update of a RMP coincide, they can be submitted at the same time. Medicinal Product no longer authorised

@@ -1,0 +1,92 @@
+---
+document_datetime: 2023-09-21 20:32:57
+document_pages: 8
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/ribavirin-teva-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf
+document_name: ribavirin-teva-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf
+version: success
+processing_time: 3.3673287
+conversion_datetime: 2025-12-27 13:17:38.101869
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.66.0
+  docling-core: 2.57.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## Ribavirin Teva
+
+Procedural steps taken and scientific information after the authorisation
+
+| Application number   | Scope 1                                                                                                                                                                                                                                                                                                                        | Opinion/ Notification issued on Commission Decision Issued 2 / amended Product Information affected 3   | Summary   |
+|----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|-----------|
+| IB/0022/G            | This was an application for a group of variations. C.I.2.a - Change in the SPC, Labelling or PL of a generic/hybrid/biosimilar products following assessment of the same change for the reference product - Implementation of change(s) for which NO new additional data is required to be submitted by the 28/10/2020 product | on SmPC, Labelling and PL                                                                               |           |
+
+<!-- image -->
+
+<!-- image -->
+
+Medicinal product no longer author
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+|           | MAH A.6 - Administrative change - Change in ATC Code/ATC Vet Code                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| IA/0021   | B.I.b.2.a - Change in test procedure for AS or starting material/reagent/intermediate - Minor changes to an approved test procedure 26/10/2016 n/a                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| IB/0019   | To change the posology to reflect that ribavirine is indicated in treatment of hepatitis C in combination with other medicinal products and to remove reference to the peginterferon used (2a or 2b) in with PRAC recommendation in the PSUR assessment (EMEA/H/C/PSUSA/000100007/201307). As a result, sections for 4.2, 4.3, 4.4, 4.7, 4.8, 4.9 and 5.1 of the SmPC were updated. The package leaflet was updated accordingly. In addition the annexes are brought in line with QRD version 10. C.I.2.a - Change in the SPC, Labelling or PL of a generic/hybrid/biosimilar products following assessment of the same change for the reference product - Implementation of change(s) for which NO new additional data is required to be submitted by the 25/10/2016 14/11/2016 product no longer |
+| IA/0020/G | MAH This was an application for a group of variations. B.III.1.a.2 - Submission of a new/updated or deletion of Ph. Eur. Certificate of Suitability to the relevant Ph. Eur. Monograph - Updated certificate from an already approved manufacturer 15/09/2016 n/a Medicinal                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+|                     | B.III.1.a.2 - Submission of a new/updated or deletion of Ph. Eur. Certificate of Suitability to the relevant Ph. Eur. Monograph - Updated certificate from an already approved manufacturer                                                                          |            |               |                               | authorised                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|---------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| IA/0018             | A.7 - Administrative change - Deletion of manufacturing sites                                                                                                                                                                                                        | 25/04/2016 | 14/11/2016    | Annex II and PL               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| PSUSA/10007 /201407 | Periodic Safety Update EU Single assessment - ribavirin (oral formulations)                                                                                                                                                                                          | 12/02/2015 | n/a           |                               | PRAC Recommendation - maintenance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| T/0016              | Transfer of Marketing Authorisation from Teva Pharma B.V. to Teva B.V. Transfer of Marketing Authorisation                                                                                                                                                           | 14/10/2014 | 13/11/2014    | SmPC, Labelling and PL longer |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| PSUSA/10007 /201307 | Periodic Safety Update EU Single assessment - ribavirin (oral formulations)                                                                                                                                                                                          | 20/02/2014 | 28/04/2014 no | SmPC and PL                   | Refer to Scientific conclusions and grounds recommending the variation to terms of the Marketing Authorisation(s)' for PSUSA/10007/201307.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| IB/0015             | C.I.2.a - Change in the SPC, Labelling or PL of a generic/hybrid/biosimilar products following assessment of the same change for the reference product - Implementation of change(s) for which NO new additional data is required to be submitted by the MAH product | 11/03/2014 | 13/11/2014    | SmPC and PL                   | To update sections 4.1, 4.4, 4.8 and 5.1 of the SmPC with long-term follow-up safety data on the durability of virologic response and growth amongst paediatric patients from study P02538 and study P01906 and update section 4 of the PL accordingly as approved for the reference product. Furthermore, minor changes to sections 4.3 and 4.5 of the SmPC. Additionally and in line with the innovator's texts, section 5.2 has been updated to reflect the different sub-headings indicated in the current version of the QRD template, subsequently the contents of this section have been placed under the appropriate sub-headings. |
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+| IB/0009/G   | This was an application for a group of variations.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 21/11/2012   | 16/01/2014   | SmPC and PL   | To update the SmPC section 4.4 and 4.5 and the PL with a statement on the potential drug interaction with authorised   |
+|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|---------------|------------------------------------------------------------------------------------------------------------------------|
+| WS/0081     | This was an application for a variation following a worksharing procedure according to Article 20 of Commission Regulation (EC) No 1234/2008. To update the product information for Ribavirin Teva and Ribavirin Teva Pharma B.V. to be in line with the product innovator Rebetol. The update pertains to variation IB-54 of Rebetol and concern the removal of the adverse reaction \"Raynaud's disease\" from section 4.8 of the SPC. The PL is updated accordingly. In addition updates to the Local representative details Medicinal product | 20/01/2011   | 21/02/2011   | SmPC and PL   | The summary of the above mentioned changes will be found in the EPAR (module 8B) of Rebetol.                           |
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+|         | for AT, BE, CZ, DE, ES, LU and SI are included. For Ribavirin Teva Pharma B.V. a typographical correction is made in the product information. C.I.2.a - Change in the SPC, Labelling or PL of a generic/hybrid/biosimilar products following assessment of the same change for the reference product - Implementation of change(s) for which NO new additional data are submitted by the MAH         | authorised                                  |
+|---------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| WS/0004 | This was an application for a variation following a worksharing procedure according to Article 20 of Commission Regulation (EC) No 1234/2008. C.I.2.a - Change in the SPC, Labelling or PL of a generic/hybrid/biosimilar products following assessment of the same change for the reference product - Implementation of change(s) for which NO new additional data are submitted by the MAH product | 24/06/2010 27/07/2010 SmPC and PL no longer |
+| IA/0003 | To replace the Neologistica site for secondary packaging activities regarding Ribaravin Teva finished product (EMEA/H/C/001018/001-004). IA_07_a_Replacement/add. of manufacturing site: Secondary packaging site                                                                                                                                                                                    | 14/01/2010 n/a                              |
+| IA/0005 | IA_12_a_Change in spec. of active subst./agent used in manuf. of active subst. - tightening of spec.                                                                                                                                                                                                                                                                                                 | 12/01/2010 n/a                              |
+| IA/0004 | IA_22_a_Submission of TSE Ph. Eur. certificate for exc. - Approved/new manufacturer                                                                                                                                                                                                                                                                                                                  | 12/01/2010 n/a                              |
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->

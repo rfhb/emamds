@@ -1,0 +1,393 @@
+---
+document_datetime: 2023-09-21 17:17:04
+document_pages: 13
+document_pathfilename: www.ema.europa.eu/en/documents/variation-report/zelboraf-h-c-2409-p46-033-epar-assessment-report_en.pdf
+document_name: zelboraf-h-c-2409-p46-033-epar-assessment-report_en.pdf
+version: success
+processing_time: 6.8007871
+conversion_datetime: 2025-12-28 00:11:15.356222
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.66.0
+  docling-core: 2.57.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+<!-- image -->
+
+26 January 2017 EMA/174418/2017 Human Medicines Evaluation Division
+
+## Assessment report for paediatric studies submitted according to Article 46 of the Regulation (EC) No 1901/2006
+
+## Zelboraf
+
+vemurafenib
+
+Procedure no: EMEA/H/C/002409/P46/033
+
+## Note
+
+Assessment report as adopted by the CHMP with all information of a commercially confidential nature deleted.
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Introduction
+
+On 15 June 2016, the MAH submitted a completed paediatric study for Zelboraf, in accordance with Article 46 of Regulation (EC) No1901/2006, as amended.
+
+It was stated that the Zelboraf BRIM-P study is part of an approved PIP EMEA-000978-PIP01-10 for the treatment of BRAF V600-positive metastatic or unresectable melanoma.
+
+A short critical expert overview has also been provided.
+
+## 1. Scientific discussion
+
+## 1.1. Information on the development program
+
+The MAH stated that BRIM-P (NO25390) is a stand alone study.
+
+## 1.2. Information on the pharmaceutical formulation used in the study
+
+Vemurafenib was provided by the Sponsor as 120-mg and 240-mg film-coated tablets.
+
+## 1.3. Clinical aspects
+
+## 1.3.1. Introduction
+
+The MAH submitted final report for:
+
+- NO25390 (BRIM-P)
+
+## 1.3.2. Clinical study
+
+An Open-Label, Multicenter, Single-Arm, Phase I Dose Escalation with Efficacy Tail Extension Study of Vemurafenib (RO5185426) in Pediatric Patients with Surgically Incurable and Unresectable Stage IIIc or Stage IV Melanoma Harboring BRAF V600 Mutations - Report No. 1068647, May 2016
+
+## Description
+
+This was a phase 1, non-randomized, uncontrolled trial conducted in the US and Europe, to estimate the maximum tolerated dose and identify the recommended phase 2 dose, in pediatric patients aged 12-17 with newly diagnosed or recurrent unresectable stage IIIc or IV BRAF mutation positive melanoma.
+
+Secondary objectives included PK, tolerability, safety, and efficacy. Exploratory objectives included molecular characteristics of SCC or other new tumours that may occur during treatment, exploratory biomarkers of efficacy and safety, and early tumor effects of treatment, as revealed by PET.
+
+## Methods
+
+## Objective(s)
+
+- Primary: maximum tolerated dose
+- Pharmacokinetics
+
+<div style=\"page-break-after: always\"></div>
+
+- Safety
+- Efficacy; best overall response (BOR), clinical benefit rate (CBR), overall survival (OS), progression-free survival (PFS)
+
+## Study design
+
+Study NO25390, otherwise known as BRIM-P, was an open-label, multicenter, single-agent, singlearm, Phase I dose-escalation with an efficacy tail extension trial of vemurafenib in pediatric patients (aged 12 through 17).
+
+Patients with newly diagnosed or recurrent histologically confirmed surgically incurable and unresectable stage IIIc or stage IV (American Joint Committee on Cancer [AJCC]) melanoma harboring BRAF V600 mutations as determined by the cobas® 4800 BRAF V600 Mutation Test were eligible for enrollment. Recruitment into the study was competitive.
+
+Patients entering the dose-escalation portion of the trial were enrolled sequentially to increasing dose cohorts of vemurafenib. The efficacy tail extension of the trial was intended to enroll additional pediatric patients at the MTD/recommended dose.
+
+Patients were to receive an oral dose of vemurafenib twice daily (BID) on a continuing basis until disease progression, death due to any cause, unacceptable toxicity, discontinuation from the study, or other criteria set forth in the protocol.
+
+Because of the concern that a uniform dose of vemurafenib could lead to a potential overexposure in pediatric patients with very low body weights, it was planned to enroll patients into two separate cohorts with different starting doses-one for patients weighing ≥ 45 kg and the other for patients weighing &lt; 45 kg. The dose-escalation phase for patients weighing ≥ 45 kg followed a classic 3 + 3 design for Phase I trials. The starting dose for patients in this cohort was 720 mg of vemurafenib by mouth BID. For the purposes of the dose-escalation window, patients were evaluated for dose-limiting toxicity (DLT) for the first 28 days of study therapy. The next dose level for patients in this cohort was 960 mg by mouth BID. The starting dose level for patients weighing &lt; 45 kg was to be 480 mg of vemurafenib by mouth BID, but no patients were enrolled into this cohort.
+
+Because of the low number of patients enrolled into the study, the extension phase of the study was not conducted.
+
+## Inclusion criteria
+
+(selected criteria, for full details pleases refer to the CSR)
+
+1. Histologically confirmed surgically incurable and unresectable stage IIIc or stage IV (AJCC) melanoma; unresectable stage IIIc disease must have had confirmation from a surgical oncologist.
+2. A positive BRAF mutation result determined by a Sponsor-designated central laboratory using the cobas® 4800 BRAF V600 Mutation Test prior to administration of vemurafenib.
+3. Newly diagnosed melanoma, or completed and failed prior standard of care regimen (e.g., DTIC, temozolomide, etc.).
+
+<div style=\"page-break-after: always\"></div>
+
+5. Head computed tomography (CT)/MRI, patients who had radiographically stable, asymptomatic previously treated lesions could be eligible.
+6. Age ≥ 12 to ≤ 17 years.
+7. Performance status: Karnofsky performance score of 50 - 100 (for patients ≥ 16 years of age) or Lansky score of ≥ 60 (for patients &lt; 16 years of age).
+
+## Excusion criteria
+
+(selected criteria, for full details pleases refer to the CSR)
+
+1. Active or untreated CNS lesions.
+2. History of or known spinal cord compression or carcinomatous meningitis.
+4. Anticipated or ongoing administration of anti-cancer therapies other than those administered in the study.
+6. Previously treatment with a selective/specific BRAF or MEK inhibitor (previous treatment with sorafenib was allowed).
+8. QTc ≥ 450 msec on screening electrocardiogram (ECG), history of congenital long QT syndrome, or uncorrectable electrolyte abnormalities.
+14. History of allogeneic bone marrow transplantation or organ transplantation.
+
+## Study population /Sample size
+
+|               | Age group (years)   | Incidence        | Absolute numbers   |
+|---------------|---------------------|------------------|--------------------|
+| Europe        | 0-14                | 0.66 / 1 000 000 | 279 / 10 years     |
+| Europe        | 15-19               | 14 / 1 000 000   | 542 / 10 years     |
+| United states | 10-14               | 0.4 / 100 000    | 432 / 1 year       |
+| United states | 15-19               | 1.7 / 100 000    | 432 / 1 year       |
+| Australia     | 10-14               | 0.7 / 100 000    | 889 / 10 years     |
+| Australia     | 15-19               | 5 / 100 000      | 889 / 10 years     |
+
+Estimates generated using these assumptions included the combined absolute number of cases of melanoma among patients aged 12 to 18 years in the US, Europe, and Australia and was estimated to be approximately 950 cases.
+
+<div style=\"page-break-after: always\"></div>
+
+Considering that 1.3% of these patients may present with metastatic disease (based on US epidemiological data), it was estimated that approximately 12 patients aged from 12 to 18 years might be identified per year in the US, EU, and Australia combined.
+
+It was specified in the PIP section D.IV.a, Strategy In Relation to Clinical Aspects, that the ability to project an accurate worldwide annual incidence of metastatic melanoma in the 12 to 18 year age group specified by the EMA was limited by several factors, including: (1) varying age groupings used for analysis in the literature and large cancer registry databases (often 5-year groupings, including individuals from 18 to &lt; 20 years of age); (2) limited availability of staging data specific to paediatric patients; and (3) lack of standardized reporting of patients who are treated with surgery alone versus those who receive chemotherapy.
+
+Based on an assumption of 50% BRAFV600E mutation proportion, it was estimated that the approximate number of pediatric patients in Europe, the US, and Australia with BRAFV600E-positive metastatic melanoma who might be eligible for the study would be 6 patients per year.
+
+Enrollment of about 23-35 patients during the accrual period of 3.5 years was planned
+
+## Treatments
+
+- Vemurafenib 480 mg PO BID (0 patients &lt; 45 kg enrolled)
+- Vemurafenib 720 mg PO BID  (3 patients)
+- Vemurafenib 960 mg PO BID  (3 patients)
+
+## Outcomes/endpoints
+
+Tumour assessments were performed every 8 weeks for 12 cycles, and every 12 weeks thereafter.
+
+## Statistical Methods
+
+No formal hypothesis testing was planned or performed. All analyses were descriptive in nature.
+
+## Results
+
+## Recruitment/ Number analysed
+
+Enrollment of about 23-35 patients during the accrual period of 3.5 years was planned.
+
+Eighteen sites in 5 countries were originally chosen for participation (Australia 2, referral networks with NZ and Asia), Germany (3, referral networks in EU, 2 sites accepting international referrals), Italy (3, referral networks within EU), UK (2, referral networks in UK, Eire and Scotland), USA (8, 2 sites accepting international referrals).
+
+Between December 2011 and December 2013, 72 patients were pre-screened, 4 were screened, and 3 were enrolled. Prescreened, but not enrolled patients, were frequently of inappropriate stage (nonmetastatic, n = 43), age (n = 31), or were lacking a BRAF mutation (n = 15, 27/72 tested).
+
+The low enrollment motivated a second initiative to expand the study to new countries and centers, with results of initial feasibility assessment available in December 2012. Of 26 countries approached, 12 were feasible to conduct the trial in, whereof 10 had interested sites. Five of the 10 feasible and
+
+<div style=\"page-break-after: always\"></div>
+
+interested countries had patient population and country approval processes to support the opening of the study. As a result 8 new sites in 5 countries were planned to participate from Q1 2014:
+
+| Country   | Number of sites   | Planned approval date for Clinical Trial Application   | Planned site activation date   |
+|-----------|-------------------|--------------------------------------------------------|--------------------------------|
+|           | 2                 | February/March 2014                                    | France April 2014              |
+| Spain 2   |                   | February/March 2014                                    | April 2014                     |
+| Poland    | 1                 | March 2014                                             | April 2014                     |
+| Slovakia  | L                 | January 2014                                           | April 2014                     |
+| Israel    | 2                 | Feb 2014                                               | June 2014                      |
+
+Also, a number of other recruitment activities were undertaken, e.g. global distribution of 5000 leaflets showcasing the NO25390 study through sites conference activities or networks. Another 3 patients were enrolled during 2014.
+
+The following circumstances have been highlighted by the applicant to explain the low accrual:
+
+- The rarity of advanced malignant melanoma in this age group
+- Referral patterns between dermatologisist and paedriatic oncologists, which may favor treatment outside clinical trials
+- Different frequency of BRAF mutations than previously assumed
+- Logistical and travel challenges when treated in neighboring country
+- Competing BRAF trials
+- Commercial availability of dabrafenib and trametinib
+
+First Patient Entered: 24 January 2013
+
+Last Patient Entered: 18 August 2014
+
+Last Patient Last Visit: 04 February 2015
+
+Date of Study Closure: 18 December 2015
+
+Date of Database Lock: 05 February 2016
+
+<div style=\"page-break-after: always\"></div>
+
+## Baseline data
+
+| Table. Baseline data in NO25390                            | Table. Baseline data in NO25390   | Table. Baseline data in NO25390   | Table. Baseline data in NO25390   | Table. Baseline data in NO25390   | Table. Baseline data in NO25390   | Table. Baseline data in NO25390   |
+|------------------------------------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|-----------------------------------|
+| Patient No                                                 | 1                                 | 3                                 | 5                                 | 2                                 | 4                                 | 6                                 |
+| Age                                                        | 17                                | 15                                | 16                                | 16                                | 15                                | 16                                |
+| Sex                                                        | Male                              | Male                              | Male                              | Female                            | Female                            | Male                              |
+| Race                                                       | White                             | White                             | White                             | White                             | Black or African American         | White                             |
+| Histology                                                  | Nodular                           | Nodular                           | Superficial spreading             | -                                 | -                                 | Superficial spreading             |
+| Tumour site                                                | Right thigh                       | Arm, back, neck, torso            | Leg                               | Lumbosacral region                | Back                              | Scapula                           |
+| TNM stage                                                  | T4b/N3/M0                         | T2/N1b/M0                         | T3a/N2b/M1a                       | Tx/N1b/M0                         | T4a/N2b/M1a                       | T4b/N0/M0                         |
+| Yes                                                        | Yes                               |                                   | Yes                               | Yes                               | No                                | Surgical excision Yes             |
+| M1c                                                        | M1b                               |                                   | M1c                               | M1b                               | M1a                               | M stage at study entry M1c        |
+| Tumour sites at study entry Liver, lymph nodes, lung, skin | Lung, sacrum                      |                                   | Lymph nodes                       | Brain                             | Skin, lymph nodes, soft tissue    | Liver, bone, lung                 |
+| Prior systemic therapy -                                   | Interferon                        | -                                 |                                   | Temozolo- mide                    | -                                 | -                                 |
+
+## Pharmacokinetic results
+
+All 6 patients were included in the pharmacokinetic (PK) population.
+
+Similar to what has been observed in adults patients, substantial accumulation was observed following multiple oral doses of vemurafenib, with individual area under the plasma concentration curve (AUC) Day 22/Day 1 ratios of approximately 11 to 67.  The steady-state exposure (Day 22) was relatively constant over the dosing interval, which is also similar to that in adult patients.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 1. Vemurafenib Pharmacokinetic Parameters from Day 1 and Day 22
+
+| Dose (BID) Study Day   | Patient No.   | T max (hr)   | C max (ng/mL)   | AUC (0-12) (ng.hr/mL)   |
+|------------------------|---------------|--------------|-----------------|-------------------------|
+| 720 mg                 |               |              |                 |                         |
+| Day 1                  | 1             | 2.00         | 2040            | 12100                   |
+|                        | 3             | 4.00         | 1080            | 9830                    |
+|                        | 5             | 3.98         | 4660            | 36600                   |
+| Mean (CV%)             |               |              | 2593 (72%)      | 19510 (76%)             |
+| Day 22                 | 1             | 4.00         | 47900           | 417000                  |
+|                        | 3             | 0.00         | 64500           | 659000                  |
+|                        | 5             | 0.00         | 38700           | 419000                  |
+| Mean (CV%)             |               |              | 50367 (26%)     | 498333 (28%)            |
+| 960 mg                 |               |              |                 |                         |
+| Day 1                  | 2             | 4.25         | 11200           | 91400                   |
+|                        | 4             | 3.98         | 3260            | 22500                   |
+|                        | 6             | 9.97         | 9230            | 90000                   |
+| Mean (CV%)             |               |              | 7897 (52%)      | 67967 (58%)             |
+| Day 22                 | 2             | 8.00         | 107000          | 1220000                 |
+|                        | 4             | 4.00         | 74800           | 765000                  |
+|                        | 6             | 4.00         | 98300           | 962000                  |
+| Mean (CV%)             |               |              | 93367 (18%)     | 982333 (23%)            |
+
+AUC (0-12) = area under the plasma concentration curve from 0 to 12 hours; BID = twice daily; Cmax = maximum plasma concentration; CV = coefficient of variation; hr = hour;
+
+Tmax = time of maximum plasma concentration.
+
+The mean concentration at steady state in the 3 adolescent patients receiving 720 mg BID is similar to what has been observed in adult patients receiving the same dose (~43 μg/mL from study NP26163). The mean concentrations at steady state in the 3 adolescent patients receiving 960 mg BID (~71 to 91 μg/mL as observed on Day 22) appear to be higher than the population PK model predicted mean Cmin and Cmax values in adults (~61 and 64 μg/mL).
+
+CHMP comment: Given the very limited PK information with the 960 BID dose from the current study (n=3), and the relatively large variability around the mean that has been observed in adults, it is not possible to draw the conclusion on that adolescents have higher exposure than adults at this dose.
+
+<div style=\"page-break-after: always\"></div>
+
+## Efficacy results
+
+| Table. Efficacy in NO25390   | Table. Efficacy in NO25390   | Table. Efficacy in NO25390   | Table. Efficacy in NO25390   | Table. Efficacy in NO25390        | Table. Efficacy in NO25390   | Table. Efficacy in NO25390   |
+|------------------------------|------------------------------|------------------------------|------------------------------|-----------------------------------|------------------------------|------------------------------|
+| Patient No                   | 1                            | 3                            | 5                            | 2                                 | 4                            | 6                            |
+| Vemurafenib dose (BID)       | 720 mg                       | 720 mg                       | 720 mg                       | 960 mg                            | 960 mg                       | 960 mg                       |
+| Number of doses              | 138                          | 83                           | 76                           | 291                               | 144                          | 130                          |
+| Best confirmed response      | SD                           | PD                           | PD                           | SD                                | SD                           | SD                           |
+| PFS (days)                   | 138                          | 83                           | 76                           | 294                               | 157                          | 131                          |
+| OS (days)                    | 185                          | 364                          | 93                           | 308                               | 514 (censored)               | 156                          |
+| Cause of death               | PD                           | PD                           | PD                           | Intracranial tumour haemorr- hage | -                            | PD                           |
+
+## Best overall response rate
+
+None of the 6 patients in the study had a confirmed response (CR or PR); therefore, the BORR was 0%. Four patients (66.7%) had a best overall confirmed response of SD (one patient in Cohort 1 and all 3 patients in Cohort 2). Duration of response could not be calculated as no confirmed responses were observed.
+
+## Clinical benefit rate
+
+None of the 6 patients in the study had a confirmed response. Four patients had an overall response status of SD for at least 6 weeks; therefore, the CBR was 66.7%.
+
+## Progression-free survival
+
+PFS was 76, 83, and 138 days for the 3 patients in Cohort 1, and 131, 157, and 294 days for the 3 patients in Cohort 2. The median PFS was 134.5 days (95% CI: 83.0, 157.0).
+
+## Overall survival
+
+Survival was 93, 185, and 364 days for the 3 patients in Cohort 1, and 156, 308, and 514 days for the 3 patients in Cohort 2. Survival was censored only for Patient 4 (on Day 514). The median OS was 246.5 days (95% CI: 156.0, 364.0).
+
+## CHMP comment
+
+In the adult pivotal vemurafenib trial NO25026, with a median of 13.4  months of follow-up, median OS in the vemurafenib arm was 13.6 months (about 415 days). Median PFS was 6.9 months (about
+
+<div style=\"page-break-after: always\"></div>
+
+209 days). The overall response rate was 48%.
+
+The comparison of findings in adolescents to those in adult patients is hampered by the very limited enrollment in the NO25390 study, and the lack of a control arm. Acknowledging these limitations, vemurafenib efficacy seems reduced in the younger patients. Please submit waterfall plots of tumor response in individual patients at 8 weeks, 16 weeks, and forth.
+
+## Safety results
+
+| Table. Safety in NO25390   | Table. Safety in NO25390   | Table. Safety in NO25390    | Table. Safety in NO25390   | Table. Safety in NO25390                                                    | Table. Safety in NO25390   | Table. Safety in NO25390                            |
+|----------------------------|----------------------------|-----------------------------|----------------------------|-----------------------------------------------------------------------------|----------------------------|-----------------------------------------------------|
+| Patient No                 | 1                          | 3                           | 5                          | 2                                                                           | 4                          | 6                                                   |
+| Vemurafenib dose (BID)     | 720 mg                     | 720 mg                      | 720 mg                     | 960 mg                                                                      | 960 mg                     | 960 mg                                              |
+| Number of doses            | 138                        | 83                          | 76                         | 291                                                                         | 144                        | 130                                                 |
+| AEs ≥ grade 3              | Spinal pain                | Photo- sensitivity reaction |                            | Lympho- cytopenia, hypokalemia diarrhoea, intracranial tumour haemorr- hage |                            | Rash, scrotal abcess, BCC, SCC, neck pain, headache |
+| SAEs                       | Spinal pain                |                             |                            | Nephrolith- iasis, adrenal insufficiency, intracranial tumour haemorr- hage |                            | Rash, BCC, SCC                                      |
+
+## Dose limiting toxicity
+
+No DLTs were observed in the first cohort of 3 patients treated at 720 mg BID. Patient 3 experienced a Grade 3 photosensitivity during the DLT evaluation period (onset on Day 13), but the patient did not require a vemurafenib dose reduction. According to the investigator, the event did not qualify as a DLT per the protocol.
+
+No DLTs were observed in the second cohort of 3 patients treated at 960 mg BID, which is equal to the adult recommended dose. Patient 6 experienced a Grade 3 rash maculo-papular during the DLT evaluation period (onset on Day 9), but the patient did not require a vemurafenib dose reduction. According to the investigator the event did not qualify as a DLT per the protocol.
+
+Accordingly, an MTD could not be determined in this study. In lieu of establishing an MTD, the Sponsor has instead concluded, based on the limited data available, that the recommended dose of
+
+<div style=\"page-break-after: always\"></div>
+
+vemurafenib in adolescent patients should be expressed as an 'upper limit', or 'not to exceed' daily dose, of 960 mg BID of vemurafenib.
+
+## CHMP comment
+
+An 'upper limit', or 'not to exceed' daily dose for adolescents is not accepted. The PK data available for the study population is very limited. An addition to section 5.2 of the SPC in the planned type II variation should be considered.
+
+## Common adverse events
+
+The most common preferred and SOC terms were:
+
+- All patients: musculoskeletal and connective tissue disorders, skin and subcutaneous tissue disorders
+- 5/6 patients: gastrointestinal disorders
+- 4/6 patients: diarrhoea , headache , general disorders and administration site conditions, infections and infestations, investigations, nervous system disorders
+- 3/6 patients: photosensitivity reaction, rash, nausea, fatigue , metabolism and nutrition disorders, renal and urinary disordes, respiratory thoracic and mediastinal disorders, vascular disorders
+- 2/6 patients: back pain, pain in extremity, alopecia, dry skin, rash maculo-papular, vomiting, ALT increased, platelets decreased, WBC decreased, hyperglycaemia, oropharyngeal pain, flushing, hypertension, anemia, blood and lymphatic system disorders, cardiac disorders, injury poisoning and procedural complications, neoplasms benign, malignant and unspecified
+
+## CHMP comment
+
+Adverse events are consistent with findings in the adult population.
+
+## Serious adverse events and deaths
+
+- Patient 6 had an SAE of cutaneous squamous cell carcinoma. The patient was diagnosed concurrently with a cutaneous basal cell carcinoma. The events occurred on Day 85; both events were SAEs. The events were Grade 3 in intensity and, in the opinion of the investigator, were related to study drug.
+- Four patient deaths (66.7%) were attributed to PD, and 1 patient (16.7%) died due to an AE of intracranial tumor hemorrhage in a patient with pre-existing intracranial disease (Patient 2). The AE occurred on Day 304, after the patient had discontinued study drug due to PD on Day 294 (confirmed by brain CT), and the patient died on Day 309. In the opinion of the investigator, the event of intracranial tumor hemorrhage was not related to study drug.
+
+<div style=\"page-break-after: always\"></div>
+
+## CHMP comment:
+
+Adverse events are consistent with findings in the adult population.
+
+## Adverse events that led do dose modification
+
+No patient had an AE that led to discontinuation of study drug, or dose reduction of study drug. Two patients had study drug temporarily held due to AEs:
+
+- Patient 2 had an SAE of nephrolithiasis (Grade 2) on Day 32 that led to study drug being withheld for 5 days. The event resolved on Day 37 and study drug administration was resumed on Day 38 with no dose reduction. In the opinion of the investigator, the event was not related to treatment with study drug.
+- Patient 4 had an AE of skin infection (Grade 1) on Day 85 that led to study drug being withheld for 18 days. The event resolved on Day 101 and study drug administration was resumed on Day 103 with no dose reduction. In the opinion of the investigator, the event was not related to treatment with study drug.
+
+## 1.3.3. Discussion on clinical aspects
+
+The BRIM-P (NO25390) study in paediatric patients has had recruitment difficulties, only 6 of planned 23-35 patients were recruited during 4 years. Factors explaining these problems, as highlighted by the MAH, include rarity of advanced malignant melanoma in the 12-17 year age group, referral patterns between dermatologisist and paedriatic oncologists, a different frequency of BRAF mutations than previously assumed in paedriatic patients, logistical and travel challenges when treated in neighboring countries, competing BRAF trials, and commercial availability of dabrafenib and trametinib.
+
+The difficulties encountered motivated opening of additional study sites in more countries, and other activities to increase health care provider awareness of the study. The applicant also discussed these recruitment issues and concerns about study feasibility with the paediatric coordinator in November 2014 and again with the paediatric coordinator and the peer reviewer in July 2015. The Agency was informed by the applicant about the anticipated study closure in December 2015. In March 2016, a request for modification of the agreed Paediatric Investigation Plan (EMEA-000978-PIP01-M01) was submitted by the MAH, requesting the deletion of the expansion phase of BRIM-P. In their decision, the PDCO agreed to replace the PIP with a product-specific waiver.
+
+## 2. Overall conclusion and recommendation
+
+## Overall conclusion
+
+The low number of patients in BRIM-P (NO25390) limits conclusions. The PDCO has agreed to replace the PIP with a product-specific waiver. There are no apparent new safety concerns. Vemurafenib efficacy seems reduced in 12 - 17 year old patients, although uncertainty must be acknowledged; estimates were derived from 6 patients only. A waterfall plot of tumor response in individual patients at 8 weeks, 16 weeks and subsequent assessments, is asked for.
+
+<div style=\"page-break-after: always\"></div>
+
+An 'upper limit', or 'not to exceed' daily dose for adolescents is not accepted, as the PK data available for the study population is very limited.
+
+The planned type II variation to inform the SPC on data from adolescent patients should be submitted.
+
+## Recommendation
+
+- [ ] Fulfilled:
+
+- [x] Not fulfilled:
+
+Based on the data submitted, the MAH should provide additional efficacy data analysis and further justification for an 'upper limit', or 'not to exceed' daily dose for adolescents as part of this procedure. (see section IV 'Additional clarifications requested')
+
+## Additional clarifications requested
+
+1. A waterfall plot of tumor response in individual patients at 8 weeks, 16 weeks and subsequent assessments, is asked for.
+2. An 'upper limit', or 'not to exceed' daily dose for adolescents is questioned, as the PK data available for the study population is very limited. Please provide additional motivation for this constraint.
+3. A variation should be submitted (directly), as the MAH has identified changes to be made to the product information, in accordance with the ' European Medicines Agency postauthorization procedural advice for users of the centralized procedure' section on article 46 pediatric study submission.

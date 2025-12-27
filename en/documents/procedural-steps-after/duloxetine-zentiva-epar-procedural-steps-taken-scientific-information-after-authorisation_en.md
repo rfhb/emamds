@@ -1,0 +1,43 @@
+---
+document_datetime: 2024-11-29 10:36:16
+document_pages: 3
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/duloxetine-zentiva-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+document_name: duloxetine-zentiva-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+version: success
+processing_time: 1.65784
+conversion_datetime: 2025-12-27 14:07:06.855627
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.66.0
+  docling-core: 2.57.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## Duloxetine Zentiva
+
+Procedural steps taken and scientific information after the authorisation*
+
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, please also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
+
+| Application number   | Scope                                     | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                                        |
+|----------------------|-------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|------------------------------------------------|
+| Variation type IB /  | C.I.2 Change(s) in the Summary of Product | 19/11/2024                          |                                             | SmPC and PL                      | Update of section 4.4 of the SmPC to amend the |
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+| EMA/VR/0000226488                     | Characteristics, Labelling or Package Leaflet of a generic/hybrid/biosimilar medicinal products following assessment of the same change for the reference product - C.I.2.a Implementation of change(s) for which no new additional data is required to be submitted by the MAH - Accepted To update section 4.4 of the SmPC to amend the information about serotoninergic syndrome and to add information about the neuroleptic malignant syndrome and to update of section 4.8 the SmPC to include stress cardiomyopathy (Takotsubo cardiomyopathy) under SOC 'Cardiac disorders' with frequency not known. In addition the MAH has taken this opportunity to update the release address in Annex II to be in line with SPOR and also to amend the details of the local representative in Spain and to remove the local representative for   |            |     |    | information about serotoninergic syndrome and to add information about the neuroleptic malignant syndrome and to update of section 4.8 the SmPC to include stress cardiomyopathy (Takotsubo cardiomyopathy) under SOC 'Cardiac disorders' with frequency not known. In addition the MAH has taken this opportunity to update the release address in Annex II to be in line with SPOR and also to amend the details of the local representative in Spain and to remove the local representative for UK (NI) in line with QRD version 10.4.   |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Article 61(3) / EMA/N/0000170584      | - - Accepted Update of the package leaflet with revised contact details of local representatives.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 13/03/2024 |     | PL |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Variation type IB / EMA/VR/0000166577 | This was an application for a group of variations. B.III.1.a European Pharmacopoeial                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | 15/02/2024 | N/A |    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+
+<div style=\"page-break-after: always\"></div>
+
+| Certificate of Suitability to the relevant Ph. Eur. Monograph - B.III.1.a.2 Updated certificate from an already approved manufacturer - Accepted B.III.1.a European Pharmacopoeial Certificate of Suitability to the relevant Ph. Eur. Monograph - B.III.1.a.2 Updated certificate from an already approved manufacturer - Accepted B.III.1.a European Pharmacopoeial Certificate of Suitability to the relevant Ph. Eur. Monograph - B.III.1.a.2 Updated certificate from an already approved manufacturer - Accepted   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -1,0 +1,43 @@
+---
+document_datetime: 2025-11-27 14:23:35
+document_pages: 3
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/verzenios-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+document_name: verzenios-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+version: success
+processing_time: 1.7178548
+conversion_datetime: 2025-12-27 17:14:39.760995
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.66.0
+  docling-core: 2.57.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## Verzenios
+
+Procedural steps taken and scientific information after the authorisation*
+
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
+
+| Application number   | Scope                              | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                             |
+|----------------------|------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-------------------------------------|
+| Variation type II /  | C.I HUMAN AND VETERINARY MEDICINAL | 18/09/2025                          |                                             | SmPC                             | SmPC 5.1 Pharmacodynamic properties |
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+| EMA/VR/0000282650                     | PRODUCTS - C.I.4 Change(s) in the Summary of Product Characteristics, Labelling or Package Leaflet due to new quality, preclinical, clinical or pharmacovigilance data - Accepted Update of section 5.1 of the SmPC based on the final results from study J1S-MC-JP04, a PIP study and submitted in accordance with Article 46 of Regulation (EC) No 1901/2006; study J1S-MC-JP04is a randomized, open- label, phase 2 study evaluating abemaciclib in combination with irinotecan and temozolomide in participants with relapsed or refractory Ewing's sarcoma.   |            |     | Paediatric population The European Medicines Agency has waived the obligation to submit the results of studies with Verzenios in all subsets of the paediatric population in breast cancer (see section 4.2 for information on paediatric use). The efficacy and safety of Verzenios in combination with irinotecan and temozolomide was evaluated in Study J1S-MC-JP04, a multicentre, randomised, open-label, phase 2 study in participants with relapsed or refractory Ewing sarcoma. The primary endpoint was progression-free survival (PFS) assessed by a blinded independent review committee. 46 participants, 3 to 35 years of age, were randomised to receive Verzenios plus irinotecan and temozolomide or irinotecan and temozolomide in a 2:1 ratio. 58.7 %of patients (27 patients) were < 18 years of age. 45 participants were treated in 21-day cycles until disease progression or having met other discontinuation criteria. No difference in PFS was observed with the addition of Verzenios. The median PFS was 2.8 months in patients treated with Verzenios in combination irinotecan and temozolomide and 2.9 months in patients treated with irinotecan and temozolomide (HR 0.64 [95% CI: 0.28, 1.45]). For more information, please refer to the Summary of   |
+|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Variation type IA / EMA/VR/0000295409 | A. ADMINISTRATIVE CHANGES - A.4 Change in the name and/or address of: a manufacturer (including where relevant quality control testing sites); or an ASMF                                                                                                                                                                                                                                                                                                                                                                                                          | 08/09/2025 | N/A |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | holder; or a supplier of the active substance, starting material, reagent or intermediate used in the manufacture of the active substance (where specified in the technical dossier) where no Ph. Eur. Certificate of Suitability is part of the approved dossier; or a manufacturer of a novel excipient (where specified in the technical dossier) - Accepted   |            |          |
+|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----------|
+| Variation type IB / EMA/VR/0000248638 | C.I.11 Introduction of, or change(s) to, the obligations and conditions of a marketing authorisation, including the risk management plan - C.I.11.z Change in due date for category 1, 2 or 3 studies in the RMP and/or Annex II - Accepted C.I.11.z (IB) - To update ANNEX IID to amend the due of the monarchE study from June 2025 to June 2026.               | 07/03/2025 | Annex II |

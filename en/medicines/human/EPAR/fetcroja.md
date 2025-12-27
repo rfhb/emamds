@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-21 12:24:18
+document_datetime: 2025-12-25 12:49:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fetcroja.html
 document_name: fetcroja.html
 version: success
-processing_time: 0.1113298
-conversion_datetime: 2025-12-24 14:32:08.500704
+processing_time: 0.1120894
+conversion_datetime: 2025-12-27 14:55:13.761538
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -107,7 +107,7 @@ English (EN) (106.82 KB - PDF)
 
 [View](/en/documents/overview/fetcroja-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-254)
+[Other languages (22)](#file-language-dropdown-271)
 
 български (BG) (130.68 KB - PDF)
 
@@ -393,7 +393,7 @@ English (EN) (591.05 KB - PDF)
 
 [View](/en/documents/product-information/fetcroja-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-683)
+[Other languages (24)](#file-language-dropdown-324)
 
 български (BG) (672.32 KB - PDF)
 
@@ -707,7 +707,7 @@ English (EN) (39.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fetcroja-epar-all-available-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-342)
+[Other languages (24)](#file-language-dropdown-989)
 
 български (BG) (49.11 KB - PDF)
 

@@ -1,0 +1,188 @@
+---
+document_datetime: 2023-09-21 17:03:39
+document_pages: 7
+document_pathfilename: www.ema.europa.eu/en/documents/variation-report/rotateq-h-c-669-p46-0037-epar-assessment-report_en.pdf
+document_name: rotateq-h-c-669-p46-0037-epar-assessment-report_en.pdf
+version: success
+processing_time: 8.8885135
+conversion_datetime: 2025-12-27 14:05:48.934376
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.66.0
+  docling-core: 2.57.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+<!-- image -->
+
+18 November 2014 EMA/715446/2014 Committee for Medicinal Products for Human Use (CHMP)
+
+## Assessment report under Article 46
+
+## RotaTeq
+
+International non-proprietary name: Live attenuated rotavirus vaccine
+
+Procedure No: EMEA-H-C-669-P46-037
+
+## Note
+
+Assessment report as adopted by the CHMP with all information of a commercially confidential nature deleted.
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. INTRODUCTION
+
+On 19 January 2011 the MAH submitted the final study report of study 028 for Rotateq in accordance with Article 46 of the Regulation (EC) No 1901/2006, as amended, on medicinal products for paediatric use.
+
+A clinical study report plus a short critical expert overview were provided.
+
+The MAH stated that the submitted paediatric study does not influence the benefit-risk relationship for RotaTeq and there is no consequential regulatory action.
+
+## 2. SCIENTIFIC DISCUSSION
+
+## Introduction
+
+The MAH submitted a CSR for study 028, which was conducted in China from September 2009 to March 2010 to support the licensing of the vaccine in that country.
+
+## Clinical study
+
+The primary purpose of Protocol 028 was to evaluate the safety of the oral 3-dose regimen of RotaTeq (V260) in a healthy Chinese population, especially with respect to serious adverse experiences (SAEs) occurred within 14 days following vaccination.
+
+## Methods
+
+This randomized, double-blinded (operated under in-house blinding procedures), placebo-controlled study was conducted at one study center; no formal hypotheses were included in the study. In accordance with SFDA and Chinese Vaccine Clinical Trial Guidelines, all infant vaccines are to be evaluated for safety sequentially in adults first, followed by children, and finally infants. The minimum sample size was designated as 20 vaccine-exposed subjects for each age cohort.  Specifically, the 3 cohorts included in this study were as follows:
+
+- Cohort I - single dose of V260 or placebo (2.0mL/dose) administered to Chinese adults ages 19-47 years;
+- Cohort II - single dose of V260 or placebo (2.0mL/dose) administered to Chinese children ages 2-6 years;
+- Cohort III - 3 doses of V260 or placebo (2.0mL/dose) in Chinese infants ages 6-12 weeks at the time of receipt of the first dose.
+
+The sample size for each cohort was 48 subjects (1:1 randomization to vaccine or placebo) to ensure a minimum of 20 evaluable subjects exposed to V260 per cohort.
+
+All subjects who received at least one dose of study vaccine were evaluated for all adverse experiences (AEs) during the 14-day safety follow-up period after each dose.  In addition, all subjects were followed for any vaccine-related SAEs, deaths, and Event of Clinical Interest (ECI of intussusception) until the end of the study.  Safety information was collected following each vaccination, using a Vaccination Report Card (VRC) starting with the date of vaccination.  After each dose, the subjects in Cohort I and the parents/legal guardians for Cohorts II and III recorded axillary temperatures and episodes of vomiting and diarrhea daily for 7 days on the VRC.  All other adverse experiences (AEs)
+
+<div style=\"page-break-after: always\"></div>
+
+occurring during the 14 days following each vaccination were reported, as well as concomitant medications and any other vaccinations.
+
+The safety analysis was based on the number of subjects and proportion of subjects with various types of non-serious AEs (NSAEs) and SAEs by treatment group.  Within each cohort, the proportions of subjects reporting AEs were compared between the vaccine and placebo groups using risk differences, corresponding 95% confidence intervals (CIs), and corresponding p-values using the Miettinen and Nurminen method according to a 3-tier approach.
+
+- Tier I AEs were pre-specified in the protocol as events of interest: elevated temperature (≥37.1°C, axillary), vomiting, diarrhea, and intussusception.  CIs and p-values were computed for these events.
+- Tier II AEs were any non-Tier I events where the count of subjects in either treatment group was at least 4, and CIs were computed for these events.
+- Tier III AEs were any non-Tier I or II events, and only proportions of subjects reporting these events were summarized by treatment.  For Cohort III, the tiers were based on AEs across all 3 doses.
+
+## Results
+
+A total of 144 subjects, 48 in each cohort were enrolled in this study and received at least 1 dose of study vaccine.  All subjects in Cohorts I &amp; II completed the study, with no subjects having discontinued or were considered lost to follow-up.  In Cohort III, 6 subjects discontinued the study due to withdrawal of consent, family relocation, and one SAE of diarrhoea (in the placebo group).  The mean age was 37 years in Cohort I, 4 years in cohort II, and 9 weeks in cohort III.
+
+## Serious Adverse Events (SAEs)
+
+No subjects in Cohort I and Cohort II reported any SAE throughout the entire study.
+
+In Cohort III, no subjects in the vaccine group experienced any SAE throughout the entire study. There were 3 subjects (12.5%, 3/24) in the placebo group with a total of 4 SAEs reported, with 3 of these 4 SAEs being considered not vaccine-related by the investigator (bronchopneumonia, viral encephalitis) and 1 SAE of diarrhoea to be vaccine-related.
+
+## Non-Serious Adverse Events (NSAEs)
+
+In Cohort I , the proportion of subjects who reported 1 or more clinical NSAEs was higher in the group that received V260 (25.0%, 6/24) than in the group that received placebo (8.3%, 2/24).  The most commonly reported NSAEs (incidence ≥5%) in Cohort I were malaise (8.3% in vaccine group, 0% in placebo group) and headache (8.3% in vaccine group, 4.2% in placebo group).  The proportions of subjects in Cohort I with NSAEs within 14 days of study vaccination that were considered to be vaccine-related by the investigator were comparable in both treatment groups (vaccine 4.2% vs. placebo 4.2%).  The NSAEs were all mild or moderate in intensity and were all resolved by the end of the study.
+
+In Cohort II , the proportion of subjects who reported 1 or more clinical NSAEs was higher in the V260 group (25.0%, 6/24) than in the placebo group (12.5%, 3/24).  The most commonly reported NSAE (incidence ≥5%) in Cohort II was pyrexia (as judged and reported by the clinician), 16.7% vs. 8.3% in the V260 and placebo group, respectively.  The proportion of subjects with vaccine-related NSAEs was
+
+<div style=\"page-break-after: always\"></div>
+
+also higher in the V260 group (20.8%, 5/24) than in the placebo group (8.3%, 2/24).  The NSAEs were all mild or moderate in intensity and were all resolved by the end of the study.
+
+In Cohort III , 73.9% (17/23) of subjects in the V260 group and 58.3% (14/24) of subjects in the placebo group reported at least 1 NSAE.  The most commonly reported NSAEs were diarrhoea (52.2% in vaccine group, 33.3% in placebo group), vomiting (39.1% in vaccine group, 50.0% in placebo group), and pyrexia (39.1% in vaccine group, 20.8% in placebo group).  Vaccine-related NSAEs were reported in 65.2% (15/23) of V260 recipients and 58.3% (14/24) of placebo recipients.  The NSAEs were mostly mild or moderate in intensity and were resolved or resolving by the end of the study.  The 1 NSAE with severe intensity (pyrexia) occurred in the placebo group.
+
+<div style=\"page-break-after: always\"></div>
+
+## Table 1 Summary of NSAEs
+
+|                                                           | Cohort I Days 1 to 14 After Dose 1                        | Cohort I Days 1 to 14 After Dose 1                        | Cohort I Days 1 to 14 After Dose 1                        | Cohort II Days 1 to 14 After Dose 1                       | Cohort II Days 1 to 14 After Dose 1                       | Cohort II Days 1 to 14 After Dose 1                       | Cohort III Days 1 to 14 After Any Dose                    | Cohort III Days 1 to 14 After Any Dose                    | Cohort III Days 1 to 14 After Any Dose                    |
+|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|
+|                                                           | V260 group (N=24) n(%)/c                                  | Placebo group (N=24) n(%)/c                               | Total (N=48) n(%)/c                                       | V260 group (N=24) n(%)/c                                  | Placebo group (N=24) n(%)/c                               | Total (N=48) n(%)/c                                       | V260 Group (N=23 † ) n(%)/c                               | Placebo group (N=24) n(%)/c                               | Total (N=47) n(%)/c                                       |
+| Subjects with at least                                    | 6 (25.0% )                                                | 2 (8.3%)                                                  | 8 (16.7% )                                                | 6 (25.0% )                                                | 3 (12.5% )                                                | 9 (18.8%)                                                 | 17 (73.9%)                                                | 14 (58.3%)                                                | 31 (66.0%)                                                |
+| Count of NSAEs                                            | 10                                                        | 3                                                         | 13                                                        | 7                                                         | 6                                                         | 13                                                        | 60                                                        | 61                                                        | 121                                                       |
+| The most commonly reported NSAEs (≥5%)                    | The most commonly reported NSAEs (≥5%)                    | The most commonly reported NSAEs (≥5%)                    | The most commonly reported NSAEs (≥5%)                    | The most commonly reported NSAEs (≥5%)                    | The most commonly reported NSAEs (≥5%)                    | The most commonly reported NSAEs (≥5%)                    | The most commonly reported NSAEs (≥5%)                    | The most commonly reported NSAEs (≥5%)                    | The most commonly reported NSAEs (≥5%)                    |
+| Cough                                                     | 0                                                         | 0                                                         | 0                                                         | 0                                                         | 0                                                         | 0                                                         | 1(4.3%)/ 1                                                | 2(8.3%)/2                                                 | 3(6.4%)/3                                                 |
+| Diarrhea                                                  | 0                                                         | 0                                                         | 0                                                         | 0                                                         | 0                                                         | 0                                                         | 12(52.2 %)/21                                             | 8(33.3%)/ 19                                              | 20(42.6% )/40                                             |
+| Headach e                                                 | 2(8.3% )/3                                                | 1(4.2% )/1                                                | 3(6.3% )/4                                                | 0                                                         | 0                                                         | 0                                                         | 0                                                         | 0                                                         | 0                                                         |
+| Malaise                                                   | 2(8.3% )/2                                                | 0                                                         | 2(4.2% )/2                                                | 0                                                         | 0                                                         | 0                                                         | 0                                                         | 0                                                         | 0                                                         |
+| Naso- pharyngi tis                                        | 0                                                         | 0                                                         | 0                                                         | 0                                                         | 0                                                         | 0                                                         | 2(8.7%)/ 3                                                | 2(8.3%)/4                                                 | 4(8.5%)/7                                                 |
+| Pyrexia                                                   | 0                                                         | 0                                                         | 0                                                         | 4(16.7 %)/4                                               | 2(8.3% )/2                                                | 6(12.5% )/6                                               | 9(39.1%) ‡ /11                                            | 5(20.8%)/ 8                                               | 14(29.8% )/19                                             |
+| Vomiting                                                  | 0                                                         | 0                                                         | 0                                                         | 0                                                         | 0                                                         | 0                                                         | 9(39.1%) /22                                              | 12(50.0% )/25                                             | 21(44.7% )/47                                             |
+| n = Number of the subjects with non-serious adverse event | n = Number of the subjects with non-serious adverse event | n = Number of the subjects with non-serious adverse event | n = Number of the subjects with non-serious adverse event | n = Number of the subjects with non-serious adverse event | n = Number of the subjects with non-serious adverse event | n = Number of the subjects with non-serious adverse event | n = Number of the subjects with non-serious adverse event | n = Number of the subjects with non-serious adverse event | n = Number of the subjects with non-serious adverse event |
+
+<div style=\"page-break-after: always\"></div>
+
+c = Count of the non-serious adverse events
+
+For each system organ class and each preferred term, each subject was counted only once
+
+- † One subject (AN 05243) in the V260 group of Cohort III received V260 at the first and third dose but placebo at the second dose in error. The subject had moderate or mild diarrhea after the second and third doses, respectively. The data from this subject was excluded from the table.
+- ‡ One subject (AN 05247) had elevated temperatures associated with an upper respiratory tract infection (URI). The investigator did not report the elevated temperature as 'pyrexia' since it was one of the signs and symptoms of the URI.
+
+## Tier I AEs and Events of clinical Interest (Intussusception)
+
+During the course of this relatively small study, there was no report of intussusception (ECI) in any cohort, including among the 48 infant subjects enrolled.
+
+The incidence of Tier I AEs was low; the difference was not statistically significant between the 2 treatment groups in Cohort I and Cohort II.
+
+In Cohort III , the proportion of subjects who reported an elevated temperature (documented as ≥37.1°C axillary) was higher in the group that received V260 (43.5%, 10/23) than in the group that received placebo (16.7%, 4/24).  The risk difference (26.81%, 95% CI: 0.38, 50.43) between these 2 groups was statistically significant (p-value: 0.023).  However, the cases of elevated temperature were mostly mild or moderate in intensity and resolved during the study.  The comparison between the 2 treatment groups showed that the differences in the incidences of vomiting (9/23 [39.1%] vaccine vs. 12/24 [50.0%] placebo) and diarrhoea (12/23 [52.2%] vaccine vs. 8/24 [33.3%] placebo) were not statistically significant between the 2 treatment groups.  The risk differences were -10.87 (95% CI: 37.51, 17.47) and 18.84 (95% CI: -9.62, 44.56) for vomiting and diarrhoea, respectively.
+
+## Tier II Adverse Events:
+
+No case of Tier II adverse events was reported in any cohort in the study.
+
+## Tier III Adverse Events
+
+These AEs were cough, respiratory tract infections, viral encephalitis, pyrexia, constipation, diarrhoea, and glossodynia.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 2 Summary of Tier I events
+
+| Cohort I                                | V260 group (N=24)    | Placebo group (N=24)       | Total (N=48)        | risk differences (95 ％ CIs)                   | p value      |
+|-----------------------------------------|----------------------|----------------------------|---------------------|-----------------------------------------------|--------------|
+| Elevated temperature Vomiting Diarrhoea | 1 (4.2%) 0 1 (4.2%)  | 1 (4.2%) 0 0               | 2 (4.2%) 0 1 (2.1%) | 0.00 (-16.93 - 16.93) 4.17 (-10.19 - 20.48)   | 0.500 0.159  |
+| Cohort II                               | V260 group (N=24)    | Placebo group (N=24)       | Total (N=48)        | risk differences (95 ％ CIs)                   | p value      |
+| Elevated temperature Vomiting Diarrhoea | 4 (16.7%) 1 (4.2%)   | 2 (8.3%) 1 (4.2%) 1 (4.2%) | 6 (12.5%) 2 (4.2%)  | 8.33 (-12.24 - 29.36) 0.00 (-16.93 - 16.93)   | 0.194        |
+| Cohort III                              | V260 group (N=23 † ) | Placebo group              | Total (N=47)        | risk differences (95 ％ CIs)                   | 0.500 0.500  |
+| temperature                             | 10 (43.5%) 9 (39.1%) |                            | 14                  | 26.81 (0.38 - 50.43)                          | p value      |
+|                                         | 1 (4.2%)             |                            | 2 (4.2%)            | 0.00 (-16.93 - 16.93)                         |              |
+|                                         |                      | (N=24)                     |                     |                                               |              |
+| Elevated Vomiting Diarrhoea             |                      |                            | (29.8%)             | -10.87 (-37.51 - 17.47) 18.84 (-9.62 - 44.56) |              |
+|                                         |                      | 4 (16.7%) 12 (50.0%)       | 21 (44.7%)          |                                               | 0.023* 0.771 |
+|                                         |                      | 8 (33.3%)                  | 20                  |                                               |              |
+|                                         | 12 (52.2%)           |                            |                     |                                               | 0.098        |
+|                                         |                      |                            | (42.6%)             |                                               |              |
+
+Each subject was counted only once for each Tier I adverse event.
+
+* Significant Statistical Difference (p&lt;0.05)
+
+† One subject (AN 05243) in the V260 group of Cohort III received V260 at the first and third dose but placebo at the second dose in error. The subject had moderate or mild diarrhea after the second and third doses, respectively. This subject did not report any SAE. The data from this subject was excluded from the table.
+
+## Faecal shedding of vaccine virus
+
+Faecal vaccine virus shedding between Day 3 and Day 7 following any vaccination was studied in Cohort III (the targeted population).  Faecal shedding of vaccine rotavirus (confirmed by the VP6 PCR assay) was seen in 3/23 (13.0%) postdose 1, 2/21 (9.5%) postdose 2, and 3/22 (13.6%) postdose 3. These results are consistent with those observed in the previous Phase III V260 study, Protocol 006, in which faecal shedding of vaccine-strain virus was observed in approximately 9% of the subjects primarily after dose 1.
+
+## Discussion on clinical aspects
+
+The safety profile of Rotateq in this small group of Chinese subjects is consistent with that shown in earlier large Phase III trials conducted primarily in the USA and Europe.  There was no excess incidence of vomiting and diarrhoea among vaccine recipients compared to placebo recipients.  Only the rate of pyrexia was significantly higher in subjects who received V260 compared to subjects who received placebo.  There was no report of intussusception in any cohort.
+
+Therefore, it can be agreed that these data have no implications for the EU SmPC.
+
+## 3. CHMP OVERALL CONCLUSION AND RECOMMENDATION
+
+##  Overall conclusion
+
+The submission is satisfactory and Art 46 may be considered fulfilled.
+
+##  Recommendation
+
+Fulfilled No further action required

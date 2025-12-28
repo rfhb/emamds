@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-21 09:02:15
+document_datetime: 2025-12-25 12:58:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/saphnelo.html
 document_name: saphnelo.html
 version: success
-processing_time: 0.1124
-conversion_datetime: 2025-12-25 09:16:43.873573
+processing_time: 0.1119866
+conversion_datetime: 2025-12-28 15:18:36.029243
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -108,7 +108,7 @@ English (EN) (116.95 KB - PDF)
 
 [View](/en/documents/overview/saphnelo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-869)
+[Other languages (22)](#file-language-dropdown-447)
 
 български (BG) (121.29 KB - PDF)
 
@@ -308,7 +308,7 @@ English (EN) (929.32 KB - PDF)
 
 [View](/en/documents/product-information/saphnelo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-734)
+[Other languages (24)](#file-language-dropdown-378)
 
 български (BG) (1.04 MB - PDF)
 
@@ -624,7 +624,7 @@ English (EN) (40.99 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/saphnelo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-184)
+[Other languages (24)](#file-language-dropdown-437)
 
 български (BG) (47.61 KB - PDF)
 

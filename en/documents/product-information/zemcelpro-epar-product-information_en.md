@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-09-05 15:08:15
-document_pages: 51
+document_datetime: 2025-12-22 14:58:43
+document_pages: 52
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/zemcelpro-epar-product-information_en.pdf
 document_name: zemcelpro-epar-product-information_en.pdf
 version: success
-processing_time: 9.8565589
-conversion_datetime: 2025-12-21 19:21:04.939331
+processing_time: 9.8325601
+conversion_datetime: 2025-12-28 13:24:41.608872
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -311,7 +311,7 @@ It is unknown whether Zemcelpro has an influence on the ability to drive and use
 
 ## Summary of the safety profile
 
-The most frequently occurring adverse reactions of Grade 3 of higher were lymphopenia (46.6%), infections (44.8%), anaemia (44.0%), neutropenia (35.3%), thrombocytopenie (31.9%), leukopenia (20.3%), hypogammaglobulinaemia (18.1%), febrile neutropenia (15.5%), hypertension (12.9%), engraftment syndrome (11.2%), and pneumonia (11.2%). According to NIH criteria, acute GvHD was reported in 60.0% of patients, and chronic GvHD was reported in 16.0% of patients.
+The most frequently occurring adverse reactions of Grade 3 of higher were lymphopenia (46.6%), infections (44.8%), anaemia (44.0%), neutropenia (35.3%), thrombocytopenie (31.9%), leukopenia (29.3%), hypogammaglobulinaemia (18.1%), febrile neutropenia (15.5%), hypertension (12.9%), engraftment syndrome (11.2%), and pneumonia (11.2%). According to NIH criteria, acute GvHD was reported in 60.0% of patients, and chronic GvHD was reported in 16.0% of patients.
 
 Fatal adverse reactions occurred in 7.8% of patients treated with Zemcelpro, including infections (2.6% including sepsis (0.9%), enterococcal infection (0.9%), pneumonia (0.9%), acute GvHD (1.7%), PAH (1.7%), IPS (0.9%), COP (0.9%), and pulmonary hypertension (0.9%).
 
@@ -342,8 +342,7 @@ Common Terminology Criteria for Adverse Events (CTCAE) Grade 3 or higher and unu
 | Uncommon                                             | Adrenal insufficiency                                                                                                       |
 | Gastrointestinal disorders                           | Gastrointestinal disorders                                                                                                  |
 | Common                                               | Diarrhoea Nausea Stomatitis Abdominal pain                                                                                  |
-| Pneumatosis intestinalis                             | Pneumatosis intestinalis                                                                                                    |
-| Uncommon                                             | Anal stenosis Colitis Enterocolitis Jejunal perforation Malabsorption                                                       |
+| Uncommon                                             | Anal stenosis Colitis Enterocolitis Jejunal perforation Malabsorption Pneumatosis intestinalis                              |
 | General disorders and administration site conditions | General disorders and administration site conditions                                                                        |
 | Common                                               | Pyrexia Fatigue                                                                                                             |
 | Uncommon                                             | Generalised oedema Malaise Mucosal inflammation                                                                             |
@@ -382,7 +381,7 @@ Common Terminology Criteria for Adverse Events (CTCAE) Grade 3 or higher and unu
 | Uncommon                                                      | Renal limited thrombotic microangiopathy                                                                                                                                 |
 | Respiratory, thoracic and mediastinal disorders               | Respiratory, thoracic and mediastinal disorders                                                                                                                          |
 | Common                                                        | Cryptogenic Organizing Pneumonia Epistaxis PAH Pulmonary hypertension                                                                                                    |
-| Uncommon                                                      | Idiopathic pneumonia syndrome (pneumonitis) Lung infiltration Pneumothorax                                                                                               |
+| Uncommon                                                      | Pulmonary embolism Idiopathic pneumonia syndrome (pneumonitis) Lung infiltration Pneumothorax                                                                            |
 | Skin and subcutaneous tissue disorders                        | Skin and subcutaneous tissue disorders                                                                                                                                   |
 | Common                                                        | Rash maculo-papular                                                                                                                                                      |
 | Uncommon                                                      | Dermatitis acneiform Eczema Pruritus                                                                                                                                     |
@@ -499,8 +498,8 @@ Table 2 Pooled demographics, and baseline disease characteristics for patients i
 | Other                                        | 6 (24.0%)                                                                                      |
 | Disease category                             |                                                                                                |
 | Acute Myeloid Leukaemia                      | 11 (44.0%)                                                                                     |
-| Acute Lymphoid Leukaemia                     | 3 (12.0%)                                                                                      |
-| Myelodysplastic Syndrome                     | 0 ( 0.0%)                                                                                      |
+| Acute Lymphoid Leukaemia                     | 11 (44.0%)                                                                                     |
+| Myelodysplastic Syndrome                     | 3 (12.0%)                                                                                      |
 | Chronic Myelogenous Leukaemia (blast crisis) | 0 ( 0.0%)                                                                                      |
 | Hodgkin Lymphoma                             | 0 ( 0.0%)                                                                                      |
 | Non-Hodgkin lymphoma, aggressive lymphoma    | 0 ( 0.0%)                                                                                      |
@@ -524,16 +523,6 @@ Table 3 Efficacy results in adult patients with haematological malignancies trea
 | Median time to platelet engraftment * (≥ 20 000/µL) Median (IQR)[range] Median (IQR)[range] 2 (Worst-case scenario)          | 40 days (37-62) [29-175] 48 days (38-100) [29-175]                                                 |
 | Incidence of platelet engraftment ( ≥ 20 000/µL) at day 100 - n (%)                                                          | 17/25 3 (68.0%)                                                                                    |
 | Median (IQR) follow-up (months) **                                                                                           | 13.3 (0.9-38.2)                                                                                    |
-
-*  All durations are reported as 'time from infusion'. The median duration of study enrolment to date of Zemcelpro availability at the clinical site was 31 days (IQR: 22-41 days) and median duration of study enrolment to date of Zemcelpro infusion was 42 days (IQR: 35-56 days).
-
-** time from infusion to date of completion or discontinuation from follow-up prior to the data cut-off ANC: absolute neutrophil count; IQR: interquartile range
-
-1   Granulocyte colony-stimulating factor (G-CSF) was administered in the immediate post-transplant period (5 µg/kg/day) to minimize the risk of neutropenia and infection
-
-2 In intent-to treat populations, in a worst-case scenario analysis, patients who did not reach neutrophil engraftment by Day 42 or platelet engraftment by Day 100 post-transplant, including the patients who were not transplanted, or failed to engraft for any reason (NRM or relapse prior to engrafting) were inferred to have failed at Day 42, or Day 100, respectively.
-
-3 Includes 1 patient who was not transplanted due to a shipment failure.
 
 ## Paediatric population
 
@@ -687,7 +676,7 @@ Unused medicinal product and all material that has been in contact with Zemcelpr
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Cordex Biologics International Limited 5 th Floor, Block E, Iveagh Court Harcourt Road, Dublin, Ireland Tel: 353 1 905 3140 e-mail: info@cordexbio.com
+Cordex Biologics International Limited 5 th Floor, Block E, Iveagh Court Harcourt Road, Dublin, Ireland Tel: 353 1 960 2797 e-mail: info@cordexbio.com
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -695,9 +684,11 @@ EU/1/25/1960/001
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 25 August 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
+
+Date of revision of the text:
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
@@ -847,7 +838,7 @@ Floor, Block E, Iveagh Court
 
 Harcourt Road, Dublin, Ireland
 
-Tel: 353 1 905 3140
+Tel: 353 1 960 2797
 
 e-mail: info@cordexbio.com
 
@@ -886,7 +877,7 @@ Not applicable
 
 Not applicable.
 
-28
+29
 
 <div style=\"page-break-after: always\"></div>
 
@@ -958,7 +949,7 @@ Cordex Biologics International Limited
 
 Harcourt Road, Dublin, Ireland
 
-Tel: 353 1 905 3140
+Tel: 353 1 960 2797
 
 e-mail: info@cordexbio.com
 
@@ -980,7 +971,7 @@ Lot:
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1060,17 +1051,7 @@ This medicine contains human blood cells. Unused medicine or waste material must
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Cordex Biologics International Limited
-
-5 th
-
-Floor, Block E, Iveagh Court
-
-Harcourt Road, Dublin, Ireland
-
-Tel: 353 1 905 3140
-
-e-mail: info@cordexbio.com
+Cordex Biologics International Limited 5 th Floor, Block E, Iveagh Court Harcourt Road, Dublin, Ireland Tel: 353 1 960 2797 e-mail: info@cordexbio.com
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1164,7 +1145,15 @@ This medicine contains human blood cells. Unused medicine or waste material must
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Cordex Biologics International Limited 5 th Floor, Block E, Iveagh Court Harcourt Road, Dublin, Ireland Tel: 353 1 905 3140
+Cordex Biologics International Limited
+
+5 th
+
+Floor, Block E, Iveagh Court
+
+Harcourt Road, Dublin, Ireland
+
+Tel: 353 1 960 2797
 
 e-mail: info@cordexbio.com
 
@@ -1270,7 +1259,7 @@ Floor, Block E, Iveagh Court
 
 Harcourt Road, Dublin, Ireland
 
-Tel: 353 1 905 3140
+Tel: 353 1 960 2797
 
 e-mail: info@cordexbio.com
 
@@ -1506,7 +1495,6 @@ Other side effects are listed below. If these side effects become severe or seri
 - Headache
 - Acute kidney injury. Signs that your kidneys are not working properly include little or no urine, swelling of legs and feet, fatigue, shortness of breath, confusion, nausea
 - Inflammation of the bladder that results in bleeding (Cystitis haemorrhagic). Symptoms include blood in the urine, blood clots in urine, painful urination, fever, urge or inability to pee
-- •
 - Inflammation of your lungs (Cryptogenic organizing pneumonia (pneumonitis) - COP). Symptoms include shortness of breath, dry cough, fever, fatigue, fever, loss of appetite
 - Bleeding from the nose (epistaxis),
 - Bleeding in your lungs (Pulmonary alveolar bleeding - PAH). Symptoms include cough, fever, chest pain, coughing up blood
@@ -1581,7 +1569,7 @@ Zemcelpro is supplied as one individual treatment dose comprises up to eight (8)
 
 Cordex Biologics International Inc. 5 th Floor, Block E, Iveagh Court Harcourt Road Dublin, Ireland
 
-Tel: 353 1 905 3140
+Tel: 353 1 960 2797
 
 e-mail: info@cordexbio.com
 

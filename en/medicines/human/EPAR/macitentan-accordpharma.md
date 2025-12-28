@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-21 11:27:00
+document_datetime: 2025-12-25 13:06:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/macitentan-accordpharma.html
 document_name: macitentan-accordpharma.html
 version: success
-processing_time: 0.088902
-conversion_datetime: 2025-12-25 03:12:20.496035
+processing_time: 0.0873662
+conversion_datetime: 2025-12-28 05:07:53.034138
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -117,7 +117,7 @@ English (EN) (491.59 KB - PDF)
 
 [View](/en/documents/product-information/macitentan-accordpharma-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-379)
+[Other languages (23)](#file-language-dropdown-364)
 
 български (BG) (771.47 KB - PDF)
 
@@ -325,7 +325,7 @@ English (EN) (70.79 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/macitentan-accordpharma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-510)
+[Other languages (24)](#file-language-dropdown-304)
 
 български (BG) (80.87 KB - PDF)
 

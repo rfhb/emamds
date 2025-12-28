@@ -1,0 +1,48 @@
+---
+document_datetime: 2025-03-07 12:23:13
+document_pages: 4
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/truqap-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
+document_name: truqap-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
+version: success
+processing_time: 2.9664763
+conversion_datetime: 2025-12-28 12:45:34.173272
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.66.0
+  docling-core: 2.57.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## Truqap
+
+Procedural steps taken and scientific information after the authorisation
+
+| Application number   | Scope                                                                                                                                                                                                                                                                                                 | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                                                                                                                                                                                                                              |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| II/0001              | Update of sections 4.2, 4.4 and 4.8 of the SmPC in order to update the posology recommendation and the warning regarding Diabetic Ketoacidosis (DKA) and to add it to the list of adverse drug reactions (ADRs) with a frequency 'uncommon', based on a safety review. The Package Leaflet is updated | 30/01/2025                          | 28/02/2025                                  | SmPC, Annex II and PL            | Hyperglycaemia […] Severe hyperglycaemia, associated with diabetic ketoacidosis (DKA) and with fatal outcomes occurred in patients treated with TRUQAP (see section 4.8). DKA can occur at any time during TRUQAP treatment. In some |
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+<!-- image -->
+
+| has also been submitted. In addition, the MAH also took the opportunity to remove post authorisation measures (PAMs) which were incorrectly added to Annex II.D at time of granting of the Marketing Authorisation, to update the list of local representatives in the Package Leaflet and to bring the PI in line with the latest QRD template version 10.4. C.I.4 - Change(s) in the SPC, Labelling or PL due to new quality, preclinical, clinical or pharmacovigilance data   | accordingly. The RMP version 2   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+|         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |            |            |             | patients that develop hyperglycaemia during treatment, those with baseline risk factors for DKA (including but not exclusive to diabetes mellitus, pre diabetes, those receiving regular oral steroids) and in those that develop risk factors for DKA during treatment (e.g. infection, sepsis, raised HbA1c) (see Table 7). In addition to FG, monitoring of ketones (preferably in blood) and other metabolic parameters (as indicated) is recommended when a patient experiences hyperglycaemia. In addition to the recommended management of hyperglycaemia described in Section 4.2 Table 3, counselling on lifestyle changes is recommended for patients with baseline risk factors and those that develop hyperglycaemia during treatment with TRUQAP. For more information, please refer to the Summary of   |
+|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| II/0002 | Update of section 5.1 of the SmPC in order to update the clinical efficacy information to reflect a new overall survival (OS) interim analysis pertaining to study D3615C00001 (CAPItello-291) in order to fulfil REC 004; this is a phase III double-blind randomised study assessing the efficacy and safety of capivasertib + fulvestrant versus placebo + fulvestrant as treatment for locally advanced (inoperable) or metastatic Hormone Receptor positive, Human Epidermal Growth Factor Receptor 2 negative (HR+/HER2-) breast cancer following recurrence or progression on or after treatment with an aromatase inhibitor. In addition, the MAH took the opportunity to introduce minor formatting changes to the PI and to update the list of local representatives | 23/01/2025 | 28/02/2025 | SmPC and PL | Clinical efficacy […] At the data cutoff date (DCO) of 15 August 2022, the study showed statistically significant improvement in PFS for patients receiving TRUQAP plus fulvestrant compared to patients receiving placebo plus fulvestrant, in both the overall population and the PIK3CA/AKT1/PTEN-altered subgroup (see table 9). An exploratory analysis of PFS in the 313 (44%) patients whose tumours did not have a PIK3CA/AKT1/PTEN alterations showed a HR of 0.79 (95% CI: 0.61, 1.02), indicating that the difference in the overall population was primarily attributed to the results seen in the population of patients whose tumours have PIK3CA/AKT1/PTEN alteration. PFS results by investigator assessment were supported by consistent results from a                                              |
+
+<div style=\"page-break-after: always\"></div>
+
+| in the Package Leaflet.                                                                                           | blinded independent central review (BICR) assessment. The                                                                                                             |
+|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| C.I.4 - Change(s) in the SPC, Labelling or PL due to new quality, preclinical, clinical or pharmacovigilance data | plus fulvestrant and placebo plus fulvestrant was 22.9% and 12.2%, respectively, in the overall population and 28.8% and 9.7%, respectively, in the altered subgroup. |

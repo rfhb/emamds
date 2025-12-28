@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-21 12:05:09
+document_datetime: 2025-12-25 08:08:57
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/opsumit.html
 document_name: opsumit.html
 version: success
-processing_time: 0.1410534
-conversion_datetime: 2025-12-24 06:42:29.447402
+processing_time: 0.1525554
+conversion_datetime: 2025-12-28 01:10:52.333687
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -115,7 +115,7 @@ English (EN) (117.6 KB - PDF)
 
 [View](/en/documents/overview/opsumit-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-609)
+[Other languages (22)](#file-language-dropdown-47)
 
 български (BG) (135.14 KB - PDF)
 
@@ -403,7 +403,7 @@ English (EN) (427.74 KB - PDF)
 
 [View](/en/documents/product-information/opsumit-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-787)
+[Other languages (24)](#file-language-dropdown-636)
 
 български (BG) (593.61 KB - PDF)
 
@@ -719,7 +719,7 @@ English (EN) (23.92 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/opsumit-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-492)
+[Other languages (24)](#file-language-dropdown-760)
 
 български (BG) (28 KB - PDF)
 
@@ -1019,7 +1019,7 @@ English (EN) (17.91 KB - PDF)
 
 [View](/en/documents/conditions-member-states/opsumit-epar-conditions-imposed-member-states-safe-and-effective-use-annex-related-art-127a_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-769)
+[Other languages (24)](#file-language-dropdown-515)
 
 български (BG) (64.61 KB - PDF)
 
@@ -1485,7 +1485,7 @@ English (EN) (286.18 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/opsumit-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-505)
+[Other languages (24)](#file-language-dropdown-880)
 
 български (BG) (954 KB - DOC)
 

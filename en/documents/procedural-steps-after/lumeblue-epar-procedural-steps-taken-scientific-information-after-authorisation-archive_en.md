@@ -1,0 +1,45 @@
+---
+document_datetime: 2024-11-27 16:13:27
+document_pages: 3
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/lumeblue-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
+document_name: lumeblue-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
+version: success
+processing_time: 2.3120943
+conversion_datetime: 2025-12-28 08:31:49.693302
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.66.0
+  docling-core: 2.57.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## Lumeblue
+
+Procedural steps taken and scientific information after the authorisation
+
+| Application number   | Scope                                                                   | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                           |
+|----------------------|-------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------------------------------|
+| T/0006               | Transfer of Marketing Authorisation                                     | 22/10/2024                          | 14/11/2024                                  | SmPC, Labelling and PL           |                                   |
+| PSUSA/2029/ 202305   | Periodic Safety Update EU Single assessment - methylthioninium chloride | 11/01/2024                          | n/a                                         |                                  | PRAC Recommendation - maintenance |
+
+Official address Domenico Scarlattilaan 6 ● 1083 HS Amsterdam ● The Netherlands Address for visits and deliveries Refer to www.ema.europa.eu/how-to-find-us Send us a question Go to www.ema.europa.eu/contact Telephone +31 (0)88 781 6000
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+| II/0004   | Update of section 4.2 of the SmPC in order to introduce a new posology regimen based on scientific literature and PK/PD results from studies CB-17- 01/17 and CB-17-01/15; CB-17-01/17 is an open- label, randomized, cross-over, safety and bioavailability descriptive study in healthy volunteers receiving a full and a split dose regimen of bowel cleansing preparation for colonoscopy; CB-17-01/15 is a single dose, randomised, parallel groups, open label, efficacy study in patients receiving a split dose regimen of bowel cleansing preparation for colonoscopy. C.I.4 - Change(s) in the SPC, Labelling or PL due to new quality, preclinical, clinical or pharmacovigilance data   | 25/05/2023   | 11/09/2023   | SmPC                | SmPC new text: The total dose of the medicinal product must be taken orally during or after the intake of low-volume (e.g. 2 L) or high-volume (e.g. 4 L) polyethylene glycol (PEG) based bowel cleansing preparation and should be completed the evening prior to the colonoscopy to ensure there is enough time for the tablets to reach the colon and locally release the methylthioninium chloride prior to the colonoscopy. The patient should take the medicinal product with the low- volume (e.g. 2L) or high-volume (e.g. 4 L) PEG based bowel cleansing regimen chosen by the healthcare provider according to the same dosing schedule. For more information, please refer to the Summary of Product Characteristics.   |
+|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| IB/0003/G | This was an application for a group of variations. B.II.b.4.a - Change in the batch size (including batch size ranges) of the finished product - Up to 10-fold compared to the originally approved batch size B.II.b.3.a - Change in the manufacturing process of the finished or intermediate product - Minor change in the manufacturing process B.II.b.3.a - Change in the manufacturing process of the finished or intermediate product - Minor change in the manufacturing process                                                                                                                                                                                                             | 24/11/2021   | n/a          |                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| T/0002    | Transfer of Marketing Authorisation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | 08/04/2021   | 21/05/2021   | SmPC, Labelling and |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+
+<div style=\"page-break-after: always\"></div>
+
+|             |                                                                                                                                                                                                                                                        |            |            | PL                               |                        |
+|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|----------------------------------|------------------------|
+| IAIN/0001/G | This was an application for a group of variations. A.5.a - Administrative change - Change in the name and/or address of a manufacturer/importer responsible for batch release A.2.a - Administrative change - Change in the medicinal product for CAPs | 15/12/2020 | 19/05/2021 | SmPC, Annex II, Labelling and PL | (invented) name of the |

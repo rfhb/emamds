@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:02:41
+document_datetime: 2025-12-29 14:35:14
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pioglitazone-accord.html
 document_name: pioglitazone-accord.html
 version: success
-processing_time: 0.143824
-conversion_datetime: 2025-12-25 01:10:29.958864
+processing_time: 0.1540982
+conversion_datetime: 2025-12-29 23:37:47.781708
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pioglitazone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (80.99 KB - PDF)
 
 [View](/en/documents/overview/pioglitazone-accord-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-624)
+[Other languages (22)](#file-language-dropdown-321)
 
 български (BG) (110.34 KB - PDF)
 
@@ -399,7 +401,7 @@ English (EN) (409.79 KB - PDF)
 
 [View](/en/documents/product-information/pioglitazone-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-373)
+[Other languages (24)](#file-language-dropdown-847)
 
 български (BG) (508.76 KB - PDF)
 
@@ -715,7 +717,7 @@ English (EN) (29.99 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pioglitazone-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-33)
+[Other languages (24)](#file-language-dropdown-3)
 
 български (BG) (61.77 KB - PDF)
 
@@ -1015,7 +1017,7 @@ English (EN) (23.01 KB - PDF)
 
 [View](/en/documents/conditions-member-states/pioglitazone-accord-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-732)
+[Other languages (23)](#file-language-dropdown-694)
 
 български (BG) (96.67 KB - PDF)
 
@@ -1395,7 +1397,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:57:59
+document_datetime: 2025-12-29 11:50:26
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pregabalin-accord.html
 document_name: pregabalin-accord.html
 version: success
-processing_time: 0.1391205
-conversion_datetime: 2025-12-24 04:09:45.729189
+processing_time: 0.1292995
+conversion_datetime: 2025-12-29 23:25:36.475135
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pregabalin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (114.31 KB - PDF)
 
 [View](/en/documents/overview/pregabalin-accord-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-236)
+[Other languages (22)](#file-language-dropdown-196)
 
 български (BG) (124.29 KB - PDF)
 
@@ -399,7 +401,7 @@ English (EN) (631.54 KB - PDF)
 
 [View](/en/documents/product-information/pregabalin-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-821)
+[Other languages (24)](#file-language-dropdown-237)
 
 български (BG) (917.72 KB - PDF)
 
@@ -715,7 +717,7 @@ English (EN) (39.16 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pregabalin-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-66)
+[Other languages (23)](#file-language-dropdown-689)
 
 български (BG) (58.32 KB - PDF)
 
@@ -1108,7 +1110,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

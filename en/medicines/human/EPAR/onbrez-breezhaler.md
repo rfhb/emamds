@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:55:01
+document_datetime: 2025-12-29 11:54:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/onbrez-breezhaler.html
 document_name: onbrez-breezhaler.html
 version: success
-processing_time: 0.113608
-conversion_datetime: 2025-12-26 18:51:46.082358
+processing_time: 0.1141549
+conversion_datetime: 2025-12-29 23:02:10.767709
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 indacaterol Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +107,7 @@ English (EN) (98.36 KB - PDF)
 
 [View](/en/documents/overview/onbrez-breezhaler-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-420)
+[Other languages (22)](#file-language-dropdown-991)
 
 български (BG) (126.83 KB - PDF)
 
@@ -383,7 +385,7 @@ English (EN) (718.82 KB - PDF)
 
 [View](/en/documents/product-information/onbrez-breezhaler-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-440)
+[Other languages (24)](#file-language-dropdown-301)
 
 български (BG) (783.3 KB - PDF)
 
@@ -699,7 +701,7 @@ English (EN) (14.05 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/onbrez-breezhaler-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-10)
+[Other languages (24)](#file-language-dropdown-694)
 
 български (BG) (89.6 KB - PDF)
 

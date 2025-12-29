@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:22:30
+document_datetime: 2025-12-29 07:02:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sancuso.html
 document_name: sancuso.html
 version: success
-processing_time: 0.1117939
-conversion_datetime: 2025-12-28 01:08:42.262305
+processing_time: 0.1036472
+conversion_datetime: 2025-12-29 23:05:32.642237
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 granisetron Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (57.72 KB - PDF)
 
 [View](/en/documents/overview/sancuso-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-41)
+[Other languages (21)](#file-language-dropdown-435)
 
 български (BG) (100.07 KB - PDF)
 
@@ -385,7 +387,7 @@ English (EN) (373.47 KB - PDF)
 
 [View](/en/documents/product-information/sancuso-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-855)
+[Other languages (24)](#file-language-dropdown-828)
 
 български (BG) (523.62 KB - PDF)
 
@@ -701,7 +703,7 @@ English (EN) (20.28 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sancuso-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-597)
+[Other languages (23)](#file-language-dropdown-763)
 
 български (BG) (53.53 KB - PDF)
 

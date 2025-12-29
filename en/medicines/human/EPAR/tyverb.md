@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:08:56
+document_datetime: 2025-12-29 13:29:25
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tyverb.html
 document_name: tyverb.html
 version: success
-processing_time: 0.1187941
-conversion_datetime: 2025-12-26 18:41:08.100712
+processing_time: 0.1220812
+conversion_datetime: 2025-12-29 23:11:17.882931
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lapatinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (90.66 KB - PDF)
 
 [View](/en/documents/overview/tyverb-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-605)
+[Other languages (22)](#file-language-dropdown-261)
 
 български (BG) (116.91 KB - PDF)
 
@@ -403,7 +405,7 @@ English (EN) (456.91 KB - PDF)
 
 [View](/en/documents/product-information/tyverb-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-643)
+[Other languages (23)](#file-language-dropdown-974)
 
 български (BG) (570.09 KB - PDF)
 
@@ -707,7 +709,7 @@ English (EN) (21.31 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tyverb-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-433)
+[Other languages (24)](#file-language-dropdown-26)
 
 български (BG) (41.63 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:40:31
+document_datetime: 2025-12-29 12:36:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/atripla.html
 document_name: atripla.html
 version: success
-processing_time: 0.1083938
-conversion_datetime: 2025-12-27 15:08:26.501059
+processing_time: 0.1052996
+conversion_datetime: 2025-12-29 21:24:44.461579
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 efavirenz / emtricitabine / tenofovir disoproxil Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -60,7 +62,7 @@ English (EN) (675 KB - PDF)
 
 [View](/en/documents/overview/atripla-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-87)
+[Other languages (22)](#file-language-dropdown-972)
 
 български (BG) (770.35 KB - PDF)
 
@@ -348,7 +350,7 @@ English (EN) (1.71 MB - PDF)
 
 [View](/en/documents/product-information/atripla-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-417)
+[Other languages (24)](#file-language-dropdown-650)
 
 български (BG) (3.51 MB - PDF)
 
@@ -664,7 +666,7 @@ English (EN) (591.39 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/atripla-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-684)
+[Other languages (23)](#file-language-dropdown-506)
 
 български (BG) (701.62 KB - PDF)
 

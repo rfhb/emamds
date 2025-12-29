@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:45:34
+document_datetime: 2025-12-29 07:11:15
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bretaris-genuair.html
 document_name: bretaris-genuair.html
 version: success
-processing_time: 0.1114315
-conversion_datetime: 2025-12-26 13:52:16.272228
+processing_time: 0.1095095
+conversion_datetime: 2025-12-30 00:38:54.019011
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 aclidinium bromide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (75.86 KB - PDF)
 
 [View](/en/documents/overview/bretaris-genuair-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-594)
+[Other languages (21)](#file-language-dropdown-748)
 
 български (BG) (103.23 KB - PDF)
 
@@ -382,7 +384,7 @@ English (EN) (661.6 KB - PDF)
 
 [View](/en/documents/product-information/bretaris-genuair-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-636)
+[Other languages (24)](#file-language-dropdown-400)
 
 български (BG) (725.22 KB - PDF)
 
@@ -698,7 +700,7 @@ English (EN) (14.56 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bretaris-genuair-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-416)
+[Other languages (24)](#file-language-dropdown-502)
 
 български (BG) (53.7 KB - PDF)
 

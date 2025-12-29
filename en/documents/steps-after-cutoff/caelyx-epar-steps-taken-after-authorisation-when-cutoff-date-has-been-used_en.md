@@ -1,0 +1,58 @@
+---
+document_datetime: 2023-09-21 17:36:04
+document_pages: 2
+document_pathfilename: www.ema.europa.eu/en/documents/steps-after-cutoff/caelyx-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf
+document_name: caelyx-epar-steps-taken-after-authorisation-when-cutoff-date-has-been-used_en.pdf
+version: success
+processing_time: 1.9129333
+conversion_datetime: 2025-12-29 22:32:34.30377
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.66.0
+  docling-core: 2.57.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## STEPS TAKEN AFTER GRANTING THE MARKETING AUTHORISATION
+
+## For procedures finalised after 30 November 2004 please refer to module 8B.
+
+- In accordance with Article 3 of Commission Regulation (EC) No 2141/96 of 7 November 1996, Sequus Pharmaceutical Inc. submitted on 17 September 1996 to the EMEA an application for the  transfer  of  Marketing  Authorisation  to  SP  Europe.  On  22  November  1996  the  CPMP adopted  a  positive  Opinion  on  the  transfer  and  the  Commission  Decision  was  issued  on 18 February 1997.
+- On 18 February 1997 SP Europe submitted a Type I variation application in accordance with Article  4  of  Commission  Regulation  (EC)  No.  542/95  of  10  March  1995.  The  scope  of  the variation related to the change of the manufacturing site responsible for the importation of the medicinal product, the packaging and the batch release of the finished medicinal product within the  EEA.  On  18  March  1997  the  CPMP  approved  the  variation.  This  variation  required amendments in the relevant sections of the Commission Decision and the EPAR. The European Commission amended the Decision on 7 May 1997 .
+- On 18 February 1997 SP Europe submitted a Type II variation application in accordance with Article  6  of  Commission  Regulation  (EC)  No.  542/95  of  10  March  1995.  The  scope  of  the variation related to the update in the SPC and PL subsequent to new clinical data from clinical trial  30-11.  On  16  April  1997  the  CPMP  approved  the  variation.  The  variation  required amendments in the relevant sections of the Commission Decision and the EPAR. The European Commission amended the Decision on 29 July 1997 .
+- On  7  March  1997  SP  Europe  submitted  another  Type  I  variation  application  related  to  the change  of  its  address.  On  18  March  1997  the  EMEA  approved  the  variation.  This  variation required amendments in the relevant sections of the Commission Decision and the EPAR. The European Commission amended the Decision on 7 May 1997 .
+- On 27 August 1997 the Marketing Authorisation Holder submitted six applications for a Type I variation  relating  to  changes  in  the  test  procedures  of  the  medicinal  product.  The  procedure started on 16 October 1997. The variations were approved by the EMEA on 13 November 1997 and did not require any amendments to the Commission Decision. Changes were introduced in the chemical and pharmaceutical documentation of the dossier.
+- On 11 June 1998 SP Europe submitted another Type I variation application related to a change in  the  manufacturer  of  the  active  substance.  The  procedure  started  on  19  June  1998.  This variation was approved by the EMEA on 3 July 1998 and did not require any amendments to the  Commission  Decision.  Changes  were  introduced  in  the  chemical  and  pharmaceutical documentation of the dossier.
+- On 5 February 1999 the Marketing Authorisation Holder submitted an application for a Type II variation  for  an  update  of  the  Summary  of  Product  Characteristics,  Labelling  and  Package Leaflet  to  include  the  following:  1)  a  change  of  the  declaration  of  the  active  substance  from doxorubicin  HCl  (pegylated  liposomal) to pegylated  liposomal  doxorubicin  hydrochloride in order  to  emphasize  the  importance  of  the  formulation,  2)  a  warning  not  to  use  Caelyx interchangebly with other formulations of doxorubicin hydrochloride, 3) a warning not to use in-line filters as Caelyx vesicles can clog the filter pores. The procedure started on 26 February 1999.  This  variation  was  approved  by  the  EMEA  on  22 April 1999  and  the  Commission adopted the decision on 26 July 1999.
+- Pursuant  to  Article  6  of  Commission  regulation  (EC)  No.  542/95  of  10  March  1995,  the Marketing Authorisation Holder submitted to the EMEA on 7 December 1999 an application for a Type II variation for an update of the Summary of Product Characteristics according to results included in the Fifth Periodic Safety Update covering the period from 22 June 1998 to 20 June  1999.  The  CPMP  during  its  February  2000  meeting  concluded  by  consensus  by  that although  no  new  safety  signals  arose  to  alter  the  overall  risk/benefit  profile  of  Caelyx,  the wording in section 4.8 Undesirable Effects stating that no local necrosis following extravasation has been observed to date should be removed and the section amended accordingly since at least
+
+<div style=\"page-break-after: always\"></div>
+
+one case of local necrosis had been reported in the course of the Fifth Periodic Safety Update. This Opinion was forwarded in all all-official languages of the European Union to the European Commission, which adopted the corresponding Decision on 29 May 2000.
+
+- Pursuant  to  Article  6  of  Commission  regulation  (EC)  No.  542/95  of  10  March  1995,  the Marketing Authorisation Holder submitted to the EMEA on 29 November 1999 an application for a Type II variation for a new line extension i.e: the treatment of advanced ovarian cancer in women who have failed a first-line platinum-based chemotherapy regimen. The CPMP, during its June 2000 plenary meeting, considered the changes acceptable and issued on 29 June 2000 a favourable Opinion by consensus on the Type II variation. This Opinion was forwarded, in all official  languages  of  the  European  Union,  to  the  European  Commission,  which  adopted  the corresponding Decision 24 October 2000.
+
+Subsequent post Marketing Authorisation applications agreed upon are summarised in the table below:
+
+| Scope                                                                                                                                                 | Application number   | Type of modification 1   | Notification/ Opinion issued on 2   | Commission Decision Issued/amen ded on   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|--------------------------|-------------------------------------|------------------------------------------|
+| Change in the name of a manufacturer of the active substance                                                                                          | I/0015               | I                        | 26.01.00                            | 22.02.00                                 |
+| Change in specifications of active substance                                                                                                          | I/0016               | I                        | 18.02.00                            | 25.02.00                                 |
+| Update of Summary of Product Characteristics and Package Leaflet                                                                                      | II/0017              | II                       | 29.03.01                            | 05.07.01                                 |
+| Extension of shelf-life as foreseen at time of authorisation                                                                                          | I/0018               | I                        | 26.02.01                            | 27.04.01                                 |
+| Renewal                                                                                                                                               | R/0019               | R                        | 26.04.01                            | 24.09.01                                 |
+| Minor change in the manufacturing of the medicinal product                                                                                            | I/0020               | I                        | 20.12.10                            | 21.01.02                                 |
+| Minor change in the manufacturing of the medicinal product                                                                                            | I/0021               | I                        | 10.12.01                            | 21.01.02                                 |
+| Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification)                                                      | N/0022               | N                        | 14.01.02                            | 19.02.02                                 |
+| Extension of indication (breast cancer)                                                                                                               | II/0023              | II                       | 17.10.02                            | 10.01.03                                 |
+| Minor change in the manufacturing of the medicinal product (ETC autoclave)                                                                            | I/0024               | I                        | 15.05.02                            | 17.05.02                                 |
+| Minor change in the manufacturing of the medicinal product                                                                                            | I/0025               | I                        | 15.05.02                            | 17.05.02                                 |
+| Minor changes in manufacture of the medicinal product and change in or addition of manufacturing site(s) for part or all of the manufacturing process | I/0026               | I                        | 17.01.03                            | 24.01.03                                 |
+| Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification)                                                      | N/0027               | N                        | 21.02.03                            | 17.03.03                                 |
+| Minor changes in manufacture of the medicinal product                                                                                                 | I/0028               | I                        | 01.07.03                            | 08.07.03                                 |
+| Synthesis or recovery of non-pharmacopoeial excipients in the medicinal products                                                                      | I/0029               | I                        | 11.07.03                            | 15.07.03                                 |
+| Change in synthesis or recovery of non-pharmacopoeial excipient (when descr. in dossier)                                                              | IB/0030              | IB                       | 12.03.04                            | -                                        |
+| Minor change in labelling or package leaflet not connected with the SPC (Art. 61.3 Notification)                                                      | N/0031               | N                        | 12.05.04                            | -                                        |

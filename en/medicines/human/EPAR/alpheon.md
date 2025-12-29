@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:30
+document_datetime: 2025-12-29 16:37:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/alpheon.html
 document_name: alpheon.html
 version: success
-processing_time: 0.0679087
-conversion_datetime: 2025-12-26 18:50:13.276523
+processing_time: 0.0638323
+conversion_datetime: 2025-12-29 22:06:13.278104
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine has been refused authorisation
 
-interferon alfa-2a
+interferon alfa-2a Medicine Human Refused
 
-Medicine
-
-Human
-
-Refused
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -93,7 +89,7 @@ English (EN) (29.84 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-recommendation-refusal-marketing-authorisation-alpheon_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-506)
+[Other languages (21)](#file-language-dropdown-235)
 
 български (BG) (189.39 KB - PDF)
 

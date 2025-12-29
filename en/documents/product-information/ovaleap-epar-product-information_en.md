@@ -1,0 +1,1298 @@
+---
+document_datetime: 2025-05-27 16:31:41
+document_pages: 39
+document_pathfilename: www.ema.europa.eu/en/documents/product-information/ovaleap-epar-product-information_en.pdf
+document_name: ovaleap-epar-product-information_en.pdf
+version: success
+processing_time: 7.4200667
+conversion_datetime: 2025-12-29 22:56:34.004617
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.66.0
+  docling-core: 2.57.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
+
+<div style=\"page-break-after: always\"></div>
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Ovaleap 300 IU/0.5 mL solution for injection Ovaleap 450 IU/0.75 mL solution for injection Ovaleap 900 IU/1.5 mL solution for injection
+
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+Each mL of the solution contains 600 IU (equivalent to 44 micrograms) follitropin alfa*.
+
+## Ovaleap 300 IU/0.5 mL solution for injection
+
+Each cartridge contains 300 IU (equivalent to 22 micrograms) follitropin alfa in 0.5 mL solution for injection.
+
+## Ovaleap 450 IU/0.75 mL solution for injection
+
+Each cartridge contains 450 IU (equivalent to 33 micrograms) follitropin alfa in 0.75 mL solution for injection.
+
+## Ovaleap 900 IU/1.5 mL solution for injection
+
+Each cartridge contains 900 IU (equivalent to 66 micrograms) follitropin alfa in 1.5 mL solution for injection.
+
+*Follitropin alfa (recombinant human follicle-stimulating hormone [r-hFSH]) is produced in Chinese Hamster Ovary Cells (CHO DHFR - ) by recombinant DNA technology.
+
+## Excipient(s) with known effect
+
+Ovaleap contains 0.02 mg per mL of benzalkonium chloride
+
+Ovaleap contains 10.0 mg per mL of benzyl alcohol
+
+For the full list of excipients, see section 6.1.
+
+## 3. PHARMACEUTICAL FORM
+
+Solution for injection (injection).
+
+Clear, colourless solution.
+
+The pH of the solution is 6.8 to 7.2.
+
+## 4. CLINICAL PARTICULARS
+
+## 4.1 Therapeutic indications
+
+## In adult women
+
+- Anovulation (including polycystic ovarian syndrome) in women who have been unresponsive to treatment with clomifene citrate.
+- Stimulation of multifollicular development in women undergoing superovulation for assisted reproductive technologies (ART) such as in vitro fertilisation (IVF), gamete intra-fallopian transfer and zygote intra-fallopian transfer.
+- Ovaleap in association with a luteinising hormone (LH) preparation is indicated for the stimulation of follicular development in women with severe LH and FSH deficiency.
+
+<div style=\"page-break-after: always\"></div>
+
+## In adult men
+
+- Ovaleap is indicated for the stimulation of spermatogenesis in men who have congenital or acquired hypogonadotropic hypogonadism with concomitant human Chorionic Gonadotropin (hCG) therapy.
+
+## 4.2 Posology and method of administration
+
+Treatment with follitropin alfa should be initiated under the supervision of a physician experienced in the treatment of fertility disorders.
+
+## Posology
+
+Clinical assessment of follitropin alfa indicates that its daily doses, regimens of administration and treatment monitoring procedures should be individualised to optimise follicular development and to minimise the risk of unwanted ovarian hyperstimulation. It is advised to adhere to the recommended starting doses indicated below.
+
+## Women with anovulation (including polycystic ovarian syndrome)
+
+Follitropin alfa may be given as a course of daily injections. In menstruating women treatment should commence within the first 7 days of the menstrual cycle.
+
+In the registration trials, a commonly used regimen commenced at 75 to 150 IU FSH daily and was increased preferably by 37.5 or 75 IU at 7- or preferably 14-day intervals if necessary, to obtain an adequate, but not excessive, response.
+
+In clinical practice, the starting dose is typically individualised based on the patient's clinical characteristics, such as markers of ovarian reserve, age, body mass index, and, if applicable, previous ovarian response to ovarian stimulation.
+
+## Starting dose
+
+The starting dose can be adjusted in a stepwise manner (a) lower than 75 IU per day if an excessive ovarian response in terms of number of follicles is anticipated based on the patient's clinical profile (age, body mass index, ovarian reserve); or (b) higher than 75 up to a maximum of 150 IU per day may be considered if a low ovarian response is anticipated.
+
+The patient's response should be closely monitored by measuring follicle size and number by ultrasound and/or estrogen secretion.
+
+## Dose adjustments
+
+If a patient fails to respond adequately (either low or excessive ovarian response), continuation of that treatment cycle should be evaluated and managed according to the physician's standard of care. In cases of low response, the daily dose should not exceed 225 IU FSH.
+
+If an excessive ovarian response is obtained according to the physician's assessment, treatment should be stopped and hCG withheld (see section 4.4). Treatment should recommence in the next cycle at a dose lower than that of the previous cycle.
+
+## Final follicular maturation
+
+When an optimal response is obtained, a single injection of 250 micrograms recombinant human choriogonadotropin alfa (r-hCG) or 5 000 IU up to 10 000 IU hCG should be administered 24 to 48 hours after the last follitropin alfa injection. The patient is recommended to have coitus on the day of, and the day following, hCG administration. Alternatively intrauterine insemination may be performed.
+
+<div style=\"page-break-after: always\"></div>
+
+## Women undergoing ovarian stimulation for multiple follicular development prior to in vitro fertilisation or other ART
+
+In the registration trials, a commonly used regimen for superovulation involved the administration of 150 to 225 IU of follitropin alfa daily, commencing on days 2 or 3 of the cycle.
+
+In clinical practice, the starting dose is typically individualised based on the patient's clinical characteristics, such as markers of ovarian reserve, age, body mass index, and, if applicable, previous ovarian response to ovarian stimulation.
+
+## Starting dose
+
+If a low ovarian response is anticipated, the starting dose may be adjusted in a stepwise manner to not higher than 450 IU daily. Conversely, if an excessive ovarian response is expected, the starting dose may be decreased below 150 IU.
+
+The patient's response should continue to be closely monitored by measuring follicle size and number by ultrasound and/or estrogen secretion until adequate follicular development has been achieved. Follitropin alfa can be given either alone, or, to prevent premature luteinisation, in combination with a gonadotropin-releasing hormone (GnRH) agonist or antagonist.
+
+## Dose adjustments
+
+If a patient fails to respond adequately (either low or excessive ovarian response), continuation of that treatment cycle should be evaluated and managed according to the physician's standard of care. In cases of low response, the daily dose should not exceed 450 IU FSH.
+
+## Final follicular maturation
+
+When an optimal ovarian response is obtained, a single injection of 250 micrograms r-hCG or 5 000 IU up to 10 000 IU hCG is administered 24 to 48 hours after the last follitropin alfa injection to induce final follicular maturation.
+
+## Women with severe LH and FSH deficiency
+
+In LH and FSH deficient women, the objective of follitropin alfa therapy in association with a luteinising hormone (LH) preparation is to promote follicular development followed by final maturation after the administration of hCG. Follitropin alfa should be given as a course of daily injections simultaneously with lutropin alfa. If the patient is amenorrhoeic and has low endogenous estrogen secretion, treatment can commence at any time.
+
+A recommended regimen commences at 75 IU of lutropin alfa daily with 75 to 150 IU FSH. Treatment should be tailored to the individual patient's response as assessed by measuring follicle size by ultrasound and estrogen response.
+
+If an FSH dose increase is deemed appropriate, dose adaptation should preferably be after 7- to 14-day intervals and preferably by 37.5 to 75 IU increments. It may be acceptable to extend the duration of stimulation in any one cycle to up to 5 weeks.
+
+When an optimal response is obtained, a single injection of 250 micrograms r-hCG or 5 000 IU up to 10 000 IU hCG should be administered 24 to 48 hours after the last follitropin alfa and lutropin alfa injections. The patient is recommended to have coitus on the day of, and on the day following, hCG administration. Alternatively, intrauterine insemination or another medically assisted reproduction procedure may be performed based on the physician's judgment of the clinical case.
+
+Luteal phase support may be considered since lack of substances with luteotropic activity (LH/hCG) after ovulation may lead to premature failure of the corpus luteum.
+
+If an excessive response is obtained, treatment should be stopped and hCG withheld. Treatment should recommence in the next cycle at a dose of FSH lower than that of the previous cycle (see section 4.4).
+
+Men with hypogonadotropic hypogonadism
+
+<div style=\"page-break-after: always\"></div>
+
+Follitropin alfa should be given at a dose of 150 IU three times a week, concomitantly with hCG, for a minimum of 4 months. If after this period, the patient has not responded, the combination treatment may be continued; current clinical experience indicates that treatment for at least 18 months may be necessary to achieve spermatogenesis.
+
+## Special population
+
+## Elderly population
+
+There is no relevant use of follitropin alfa in the elderly population. Safety and efficacy of follitropin alfa in elderly patients have not been established.
+
+## Renal or hepatic impairment
+
+Safety, efficacy and pharmacokinetics of follitropin alfa in patients with renal or hepatic impairment have not been established.
+
+## Paediatric population
+
+There is no relevant use of follitropin alfa in the paediatric population.
+
+## Method of administration
+
+Ovaleap is intended for subcutaneous use. The first injection should be performed under direct medical supervision. Self-administration should only be performed by patients who are well motivated, adequately trained and have access to expert advice.
+
+As the multidose cartridge is intended for several injections, clear instructions should be provided to the patients to avoid misuse of the medicine.
+
+The Ovaleap cartridge is designed for use in conjunction with the Ovaleap Pen only, which is separately available. For instructions on the administration with the Ovaleap Pen, see section 6.6.
+
+## 4.3 Contraindications
+
+- Hypersensitivity to the active substance follitropin alfa, FSH or to any of the excipients listed in section 6.1;
+- tumours of the hypothalamus or pituitary gland;
+- ovarian enlargement or ovarian cyst unrelated to polycystic ovarian disease and of unknown origin;
+- gynaecological haemorrhages of unknown origin;
+- ovarian, uterine or mammary carcinoma.
+
+Ovaleap must not be used when an effective response cannot be obtained, such as:
+
+- primary ovarian failure;
+- malformations of sexual organs incompatible with pregnancy;
+- fibroid tumours of the uterus incompatible with pregnancy;
+- primary testicular insufficiency.
+
+## 4.4 Special warnings and precautions for use
+
+## Traceability
+
+In order to improve the traceability of biological medicinal products, the trade name and batch number of the administered medicinal product should be clearly recorded in the patient file.
+
+## General
+
+Follitropin alfa is a potent gonadotropic substance capable of causing mild to severe adverse reactions and should only be used by physicians who are thoroughly familiar with infertility problems and their management.
+
+<div style=\"page-break-after: always\"></div>
+
+Gonadotropin therapy requires a certain time commitment by physicians and supportive health care professionals, as well as the availability of appropriate monitoring facilities. In women, safe and effective use of follitropin alfa calls for monitoring of ovarian response with ultrasound, alone or preferably in combination with measurement of serum estradiol levels, on a regular basis. There may be a degree of interpatient variability in response to FSH administration, with a poor response to FSH in some patients and exaggerated response in others. The lowest effective dose in relation to the treatment objective should be used in both men and women.
+
+## Porphyria
+
+Patients with porphyria or a family history of porphyria should be closely monitored during treatment with follitropin alfa. Deterioration or a first appearance of this condition may require cessation of treatment.
+
+## Treatment in women
+
+Before starting treatment, the couple's infertility should be assessed as appropriate and putative contraindications for pregnancy evaluated. In particular, patients should be evaluated for hypothyroidism, adrenocortical deficiency, hyperprolactinemia and appropriate specific treatment given.
+
+Patients undergoing stimulation of follicular growth, whether as treatment for anovulatory infertility or ART procedures, may experience ovarian enlargement or develop hyperstimulation. Adherence to recommended follitropin alfa dose and regimen of administration and careful monitoring of therapy will minimise the incidence of such events. For accurate interpretation of the indices of follicle development and maturation, the physician should be experienced in the interpretation of the relevant tests.
+
+In clinical trials, an increase of the ovarian sensitivity to follitropin alfa was shown when administered with lutropin alfa. If an FSH dose increase is deemed appropriate, dose adaptation should preferably be at 7 to 14 day intervals and preferably with 37.5 to 75 IU increments.
+
+No direct comparison of follitropin alfa/LH versus human menopausal gonadotropin (hMG) has been performed. Comparison with historical data suggests that the ovulation rate obtained with follitropin alfa/LH is similar to that obtained with hMG.
+
+## Ovarian Hyperstimulation Syndrome (OHSS)
+
+A certain degree of ovarian enlargement is an expected effect of controlled ovarian stimulation. It is more commonly seen in women with polycystic ovarian syndrome and usually regresses without treatment.
+
+In distinction to uncomplicated ovarian enlargement, OHSS is a condition that can manifest itself with increasing degrees of severity. It comprises marked ovarian enlargement, high serum sex steroids and an increase in vascular permeability which can result in an accumulation of fluid in the peritoneal, pleural and, rarely, in the pericardial cavities.
+
+The following symptomatology may be observed in severe cases of OHSS: abdominal pain, abdominal distension, severe ovarian enlargement, weight gain, dyspnoea, oliguria and gastrointestinal symptoms including nausea, vomiting and diarrhoea. Clinical evaluation may reveal hypovolaemia, haemoconcentration, electrolyte imbalances, ascites, haemoperitoneum, pleural effusions, hydrothorax, or acute pulmonary distress. Very rarely, severe OHSS may be complicated by ovarian torsion or thromboembolic events such as pulmonary embolism, ischaemic stroke or myocardial infarction.
+
+Independent risk factors for developing OHSS include young age, lean body mass, polycystic ovarian syndrome, higher doses of exogenous gonadotropins, high absolute or rapidly rising serum estradiol levels and previous episodes of OHSS, large number of developing ovarian follicles and large number of oocytes retrieved in assisted reproductive technology (ART) cycles.
+
+<div style=\"page-break-after: always\"></div>
+
+Adherence to recommended follitropin alfa dose and regimen of administration can minimise the risk of ovarian hyperstimulation (see sections 4.2 and 4.8). Monitoring of stimulation cycles by ultrasound scans as well as estradiol measurements are recommended to early identify risk factors.
+
+There is evidence to suggest that hCG plays a key role in triggering OHSS and that the syndrome may be more severe and more protracted if pregnancy occurs. Therefore, if signs of ovarian hyperstimulation occur, it is recommended that hCG be withheld and the patient be advised to refrain from coitus or to use barrier contraceptive methods for at least 4 days. OHSS may progress rapidly (within 24 hours) or over several days to become a serious medical event. It most often occurs after hormonal treatment has been discontinued and reaches its maximum at about 7 to 10 days following treatment. Therefore, patients should be followed for at least 2 weeks after hCG administration.
+
+In ART, aspiration of all follicles prior to ovulation may reduce the occurrence of hyperstimulation.
+
+Mild or moderate OHSS usually resolves spontaneously. If severe OHSS occurs, it is recommended that gonadotropin treatment be stopped if still ongoing and that the patient be hospitalised and appropriate therapy be started.
+
+## Multiple pregnancy
+
+In patients undergoing ovulation induction, the incidence of multiple pregnancy is increased compared with natural conception. The majority of multiple conceptions are twins. Multiple pregnancy, especially of high order, carries an increased risk of adverse maternal and perinatal outcomes.
+
+To minimise the risk of multiple pregnancy, careful monitoring of ovarian response is recommended.
+
+In patients undergoing ART procedures the risk of multiple pregnancy is related mainly to the number of embryos replaced, their quality and the patient age.
+
+The patients should be advised of the potential risk of multiple births before starting treatment.
+
+## Pregnancy loss
+
+The incidence of pregnancy loss by miscarriage or abortion is higher in patients undergoing stimulation of follicular growth for ovulation induction or ART than following natural conception.
+
+## Ectopic pregnancy
+
+Women with a history of tubal disease are at risk of ectopic pregnancy, whether the pregnancy is obtained by spontaneous conception or with fertility treatments. The prevalence of ectopic pregnancy after ART, was reported to be higher than in the general population.
+
+## Reproductive system neoplasms
+
+There have been reports of ovarian and other reproductive system neoplasms, both benign and malignant, in women who have undergone multiple treatment regimens for infertility treatment. It is not yet established whether or not treatment with gonadotropins increases the risk of these tumours in infertile women.
+
+## Congenital malformation
+
+The prevalence of congenital malformations after ART may be slightly higher than after spontaneous conceptions. This is thought to be due to differences in parental characteristics (e.g. maternal age, sperm characteristics) and multiple pregnancies.
+
+## Thromboembolic events
+
+In women with recent or ongoing thromboembolic disease or women with generally recognised risk factors for thromboembolic events, such as personal or family history, treatment with gonadotropins may further increase the risk for aggravation or occurrence of such events. In these women, the benefits of gonadotropin administration need to be weighed against the risks. It should be noted however that pregnancy itself as well as OHSS also carry an increased risk of thromboembolic events.
+
+<div style=\"page-break-after: always\"></div>
+
+## Treatment in men
+
+Elevated endogenous FSH levels are indicative of primary testicular failure. Such patients are unresponsive to follitropin alfa/hCG therapy. Follitropin alfa should not be used when an effective response cannot be obtained.
+
+Semen analysis is recommended 4 to 6 months after the beginning of treatment as part of the assessment of the response.
+
+## Benzalkonium chloride content
+
+Ovaleap contains 0.02 mg/mL of benzalkonium chloride
+
+## Benzyl alcohol content
+
+## Ovaleap contains 10.0 mg per mL benzyl alcohol
+
+Benzyl alcohol may cause allergic reactions.
+
+High volumes should be used with caution and only if necessary, especially in subjects with liver or kidney impairment as well as in pregnant women or while breast-feeding, because of the risk of accumulation and toxicity (metabolic acidosis).
+
+## Sodium content
+
+Ovaleap contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
+
+Concomitant use of follitropin alfa with other medicinal products used to stimulate ovulation (e.g. hCG, clomifene citrate) may potentiate the follicular response, whereas concurrent use of a GnRH agonist or antagonist to induce pituitary desensitisation may increase the dose of follitropin alfa needed to elicit an adequate ovarian response. No other clinically significant medicinal product interaction has been reported during follitropin alfa therapy.
+
+## 4.6 Fertility, pregnancy and lactation
+
+## Pregnancy
+
+There is no indication for use of Ovaleap during pregnancy. Data on a limited number of exposed pregnancies (less than 300 pregnancy outcomes) indicate no malformative or foeto/neonatal toxicity of follitropin alfa.
+
+No teratogenic effect has been observed in animal studies (see section 5.3). In case of exposure during pregnancy, clinical data are not sufficient to exclude a teratogenic effect of follitropin alfa.
+
+## Breast-feeding
+
+Ovaleap is not indicated during breast-feeding.
+
+## Fertility
+
+Ovaleap is indicated for use in infertility (see section 4.1).
+
+## 4.7 Effects on ability to drive and use machines
+
+Ovaleap has no or negligible influence on the ability to drive and use machines.
+
+<div style=\"page-break-after: always\"></div>
+
+## 4.8 Undesirable effects
+
+## Summary of the safety profile
+
+The most commonly reported adverse reactions are headache, ovarian cysts and local injection site reactions (e.g. pain, erythema, haematoma, swelling and/or irritation at the site of injection).
+
+Mild or moderate OHSS has been commonly reported and should be considered as an intrinsic risk of the stimulation procedure. Severe OHSS is uncommon (see section 4.4).
+
+Thromboembolism may occur very rarely (see section 4.4).
+
+## Tabulated list of adverse reactions
+
+The adverse reactions are ranked under heading of frequency using the following convention: very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥ 1/1 000 to &lt;1/100), rare (≥ 1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
+Treatment in women
+
+Table 1: Adverse reactions in women
+
+| System organ class                                   | Frequency   | Adverse reaction                                                                                               |
+|------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------|
+| Immune system disorders                              | Very rare   | Mild to severe hypersensitivity reactions, including anaphylactic reactions and shock                          |
+| Nervous system disorders                             | Very common | Headache                                                                                                       |
+| Vascular disorders                                   | Very rare   | Thromboembolism (both in association with and separate from OHSS)                                              |
+| Respiratory, thoracic and mediastinal disorders      | Very rare   | Exacerbation or aggravation of asthma                                                                          |
+| Gastrointestinal disorders                           | Common:     | Abdominal pain, abdominal distension, abdominal discomfort, nausea, vomiting, diarrhoea                        |
+| Reproductive system and breast disorders             | Very common | Ovarian cysts                                                                                                  |
+| Reproductive system and breast disorders             | Common      | Mild or moderate OHSS (including associated symptomatology)                                                    |
+| Reproductive system and breast disorders             | Uncommon    | Severe OHSS (including associated symptomatology) (see section 4.4)                                            |
+| Reproductive system and breast disorders             | Rare        | Complication of severe OHSS                                                                                    |
+| General disorders and administration site conditions | Very common | Injection site reactions (e.g. pain, erythema, haematoma, swelling and/or irritation at the site of injection) |
+
+<div style=\"page-break-after: always\"></div>
+
+Table 2: Adverse reactions in men
+
+| System organ class                                   | Frequency   | Adverse reaction                                                                                               |
+|------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------|
+| Immune system disorders                              | Very rare   | Mild to severe hypersensitivity reactions, including anaphylactic reactions and shock                          |
+| Respiratory, thoracic and mediastinal disorders      | Very rare   | Exacerbation or aggravation of asthma                                                                          |
+| Skin and subcutaneous tissue disorders               | Common:     | Acne                                                                                                           |
+| Reproductive system and breast disorders             | Common      | Gynaecomastia, varicocele                                                                                      |
+| General disorders and administration site conditions | Very common | Injection site reactions (e.g. pain, erythema, haematoma, swelling and/or irritation at the site of injection) |
+| Investigations                                       | Common      | Weight gain                                                                                                    |
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+## 4.9 Overdose
+
+The effects of an overdose of follitropin alfa are unknown, nevertheless, there is a possibility that OHSS may occur (see section 4.4).
+
+## 5. PHARMACOLOGICAL PROPERTIES
+
+## 5.1 Pharmacodynamic properties
+
+Pharmacotherapeutic group: Sex hormones and modulators of the genital systems, gonadotropins, ATC code: G03GA05.
+
+Ovaleap is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+
+## Mechanism of action
+
+Follicle  stimulating  hormone  (FSH)  and  luteinising  hormone  (LH)  are  secreted  from  the  anterior pituitary  gland  in  response  to  GnRH  and  play  a  complementary  role  in  follicle  development  and ovulation. FSH stimulates the development of ovarian follicles, while LH action is involved in follicle development, steroidogenesis and maturation.
+
+## Pharmacodynamic effects
+
+Inhibin and estradiol (E2) levels are raised after administration of r-hFSH, with subsequent induction of follicular development. Inhibin serum level increase is rapid and can be observed as early as the third day of r-hFSH administration, while E2 levels take more time, and an increase is observed only
+
+<div style=\"page-break-after: always\"></div>
+
+from the fourth day of treatment. Total follicular volume starts to increase after 4 to 5 days of r-hFSH daily dosing, and, depending on patient response, the maximum effect is reached after about 10 days from the start of r-hFSH administration.
+
+## Clinical efficacy and safety in women
+
+In clinical trials, patients with severe FSH and LH deficiency were defined by an endogenous serum LH level &lt; 1.2 IU/L as measured in a central laboratory. However, it should be taken into account that there are variations between LH measurements performed in different laboratories.
+
+In clinical studies comparing r-hFSH (follitropin alfa) and urinary FSH in ART (see table 3 below) and in ovulation induction, follitropin alfa was more potent than urinary FSH in terms of a lower total dose and a shorter treatment period needed to trigger follicular maturation.
+
+In ART, follitropin alfa at a lower total dose and shorter treatment period than urinary FSH, resulted in a higher number of oocytes retrieved when compared to urinary FSH.
+
+Table 3: Results of study GF 8407 (randomised parallel group study comparing efficacy and safety of follitropin alfa with urinary FSH in ART)
+
+|                                                           | follitropin alfa (n = 130)   | urinary FSH (n = 116)   |
+|-----------------------------------------------------------|------------------------------|-------------------------|
+| Number of oocytes retrieved                               | 11.0 ± 5.9                   | 8.8 ± 4.8               |
+| Days of FSH stimulation required                          | 11.7 ± 1.9                   | 14.5 ± 3.3              |
+| Total dose of FSH required (number of FSH 75 IU ampoules) | 27.6 ± 10.2                  | 40.7 ± 13.6             |
+| Need to increase the dose (%)                             | 56.2                         | 85.3                    |
+
+Differences between the 2 groups were statistically significant (p &lt; 0.05) for all criteria listed.
+
+## Clinical efficacy and safety in men
+
+In men deficient in FSH, follitropin alfa administered concomitantly with hCG for at least 4 months induces spermatogenesis.
+
+## 5.2 Pharmacokinetic properties
+
+There is no pharmacokinetic interaction between follitropin alfa and lutropin alfa when administered simultaneously.
+
+## Distribution
+
+Following intravenous administration, follitropin alfa is distributed to the extracellular fluid space with an initial half-life of around 2 hours and eliminated from the body with a terminal half-life of 14 to 17 hours. The steady state volume of distribution is in the range of 9 to 11 L.
+
+Following subcutaneous administration, the absolute bioavailability is 66% and the apparent terminal half-life is in the range of 24 to 59 hours. Dose proportionality after subcutaneous administration was demonstrated up to 900 IU. Following repeated administration, follitropin alfa accumulates 3-fold achieving a steady-state within 3 to 4 days.
+
+## Elimination
+
+Total clearance is 0.6 L/h and about 12% of the follitropin alfa dose is excreted in the urine.
+
+<div style=\"page-break-after: always\"></div>
+
+## 5.3 Preclinical safety data
+
+Non-clinical data reveal no special hazard for humans based on conventional studies of single and repeated dose toxicity and genotoxicity additional to that already stated in other sections of this SmPC.
+
+Impaired fertility has been reported in rats exposed to pharmacological doses of follitropin alfa (≥ 40 IU/kg/day) for extended periods, through reduced fecundity.
+
+Given in high doses (≥ 5 IU/kg/day) follitropin alfa caused a decrease in the number of viable foetuses without being a teratogen and dystocia similar to that observed with urinary menopausal gonadotropin (hMG). However, since Ovaleap is not indicated in pregnancy, these data are of limited clinical relevance.
+
+## 6. PHARMACEUTICAL PARTICULARS
+
+## 6.1 List of excipients
+
+Sodium dihydrogen phosphate dihydrate Sodium hydroxide (2 M) (for pH adjustment) Mannitol Methionine Polysorbate 20 Benzyl alcohol Benzalkonium chloride Water for injections
+
+## 6.2 Incompatibilities
+
+In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
+
+## 6.3 Shelf life
+
+3 years.
+
+## Shelf life and storage conditions after first opening
+
+The cartridge in-use in the pen may be stored for a maximum of 28 days. Do not store above 25 °C. The patient should write down in the patient diary provided with the Ovaleap Pen the date of first use.
+
+The pen cap must be put back on the pen after each injection in order to protect from light.
+
+## 6.4 Special precautions for storage
+
+Store in a refrigerator (2 °C - 8 °C).
+
+Do not freeze.
+
+Keep the cartridge in the outer carton in order to protect from light.
+
+Before opening and within its shelf life, the medicinal product may be removed from the refrigerator, without being refrigerated again, for up to 3 months. Do not store above 25 °C. The medicinal product must be discarded if it has not been used after 3 months.
+
+For storage conditions after first opening of the medicinal product, see section 6.3.
+
+## 6.5 Nature and contents of container
+
+<div style=\"page-break-after: always\"></div>
+
+## Ovaleap 300 IU/0.5 mL solution for injection
+
+Cartridge (type I glass) with a rubber piston (bromobutyl rubber) and a crimp-cap (aluminium) with a septum (bromobutyl rubber), containing 0.5 mL of solution.
+
+Injection needles (stainless steel; 0.33 mm x 12 mm, 29 G x ½\")
+
+Pack size of 1 cartridge and 10 injection needles.
+
+Not all pack sizes may be marketed.
+
+## Ovaleap 450 IU/0.75 mL solution for injection
+
+Cartridge (type I glass) with a rubber piston (bromobutyl rubber) and a crimp-cap (aluminium) with a septum (bromobutyl rubber), containing 0.75 mL of solution.. Injection needles (stainless steel; 0.33 mm x 12 mm, 29 G x ½\") Pack size of 1 cartridge and 10 injection needles.
+
+Not all pack sizes may be marketed.
+
+Ovaleap 900 IU/1.5 mL solution for injection Cartridge (type I glass) with a rubber piston (bromobutyl rubber) and a crimp-cap (aluminium) with a septum (bromobutyl rubber), containing 1.5 mL of solution.. Injection needles (stainless steel; 0.33 mm x 12 mm, 29 G x ½\")
+
+Pack size of 1 cartridge and 20 injection needles.
+
+Not all pack sizes may be marketed.
+
+## 6.6 Special precautions for disposal and other handling
+
+No special requirements for disposal.
+
+The solution must not be used if it contains particles or if the solution is not clear.
+
+Ovaleap is designed for use in conjunction with the Ovaleap Pen only. The instructions for use of the pen must be followed carefully.
+
+Each cartridge must be used by a single patient only.
+
+Empty cartridges must not be refilled. Ovaleap cartridges are not designed to allow any other medicinal product to be mixed in the cartridges. Discard used needles immediately after injection.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+Theramex Ireland Limited 3 rd Floor, Kilmore House, Park Lane, Spencer Dock, Dublin 1 D01 YE64 Ireland
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+Ovaleap 300 IU/0.5 mL solution for injection EU/1/13/871/001
+
+<div style=\"page-break-after: always\"></div>
+
+## Ovaleap 450 IU/0.75 mL solution for injection
+
+EU/1/13/871/002
+
+Ovaleap 900 IU/1.5 mL solution for injection EU/1/13/871/003
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 27 September 2013.
+
+Date of latest renewal: 16 May 2018.
+
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX II
+
+- A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+<div style=\"page-break-after: always\"></div>
+
+## A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+
+Name and address of the manufacturer of the biological active substance
+
+Teva Biotech GmbH Dornierstraße 10 D-89079 Ulm Germany
+
+Name and address of the manufacturers responsible for batch release
+
+Merckle GmbH Graf-Arco-Straße 3 89079 Ulm Germany
+
+Rechon Life Science AB Soldattorpsvägen 5 216 13 Limhamn Sweden
+
+The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
+
+## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+Medicinal product subject to restricted medical prescription (see Annex I: Summary of Product Characteristics, section 4.2).
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+
+## ● Periodic Safety Update Reports
+
+The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
+
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+
+## ● Risk Management Plan (RMP)
+
+The MAH shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the Marketing Authorisation and any agreed subsequent updates of the RMP.
+
+An updated RMP should be submitted:
+
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX III
+
+## LABELLING AND PACKAGE LEAFLET
+
+<div style=\"page-break-after: always\"></div>
+
+## A. LABELLING
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Ovaleap 300 IU/0.5 mL solution for injection
+
+follitropin alfa
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each cartridge contains 300 IU (equivalent to 22 micrograms) follitropin alfa in 0.5 mL solution. Each mL of the solution contains 600 IU (equivalent to 44 micrograms) follitropin alfa.
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: sodium dihydrogen phosphate dihydrate, sodium hydroxide (2 M) (for pH adjustment), mannitol, methionine, polysorbate 20, benzyl alcohol, benzalkonium chloride, water for injections.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection
+
+1 cartridge with 0.5 mL solution and 10 injection needles
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+For use only with the Ovaleap Pen.
+
+Read the package leaflet before use.
+
+Subcutaneous use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+The cartridge in-use in the pen may be stored for a maximum of 28 days not above 25 °C.
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+Do not freeze.
+
+Keep the cartridge in the outer carton in order to protect from light.
+
+May be stored before opening not above 25 °C for up to 3 months. Must be discarded if it has not been used after 3 months.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Theramex Ireland Limited 3 rd Floor, Kilmore House, Park Lane, Spencer Dock, Dublin 1 D01 YE64 Ireland
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/13/871/001
+
+## 13. BATCH NUMBER
+
+Batch
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Ovaleap 300 IU/0.5 mL
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+<div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
+
+PC: SN: NN:
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Ovaleap 450 IU/0.75 mL solution for injection follitropin alfa
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each cartridge contains 450 IU (equivalent to 33 micrograms) follitropin alfa in 0.75 mL solution. Each mL of the solution contains 600 IU (equivalent to 44 micrograms) follitropin alfa.
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: sodium dihydrogen phosphate dihydrate, sodium hydroxide (2 M) (for pH adjustment), mannitol, methionine, polysorbate 20, benzyl alcohol, benzalkonium chloride, water for injections.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection
+
+1 cartridge with 0.75 mL solution and 10 injection needles
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+For use only with the Ovaleap Pen.
+
+Read the package leaflet before use.
+
+Subcutaneous use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+The cartridge in-use in the pen may be stored for a maximum of 28 days not above 25 °C.
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+Do not freeze.
+
+Keep the cartridge in the outer carton in order to protect from light.
+
+May be stored before opening not above 25 °C for up to 3 months. Must be discarded if it has not been used after 3 months.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Theramex Ireland Limited 3 rd Floor, Kilmore House, Park Lane, Spencer Dock, Dublin 1 D01 YE64 Ireland
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/13/871/002
+
+## 13. BATCH NUMBER
+
+Batch
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Ovaleap 450 IU/0.75 mL
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+<div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
+
+PC: SN: NN:
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Ovaleap 900 IU/1.5 mL solution for injection
+
+follitropin alfa
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+Each cartridge contains 900 IU (equivalent to 66 micrograms) follitropin alfa in 1.5 mL solution. Each mL of the solution contains 600 IU (equivalent to 44 micrograms) follitropin alfa.
+
+## 3. LIST OF EXCIPIENTS
+
+Excipients: sodium dihydrogen phosphate dihydrate, sodium hydroxide (2 M) (for pH adjustment), mannitol, methionine, polysorbate 20, benzyl alcohol, benzalkonium chloride, water for injections.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Solution for injection
+
+1 cartridge with 1.5 mL solution and 20 injection needles
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+For use only with the Ovaleap Pen.
+
+Read the package leaflet before use.
+
+Subcutaneous use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+EXP
+
+The cartridge in-use in the pen may be stored for a maximum of 28 days not above 25 °C.
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+Do not freeze.
+
+Keep the cartridge in the outer carton in order to protect from light.
+
+May be stored before opening not above 25 °C for up to 3 months. Must be discarded if it has not been used after 3 months.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Theramex Ireland Limited 3 rd Floor, Kilmore House, Park Lane, Spencer Dock, Dublin 1 D01 YE64 Ireland
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/13/871/003
+
+## 13. BATCH NUMBER
+
+Batch
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Ovaleap 900 IU/1.5 mL
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+<div style=\"page-break-after: always\"></div>
+
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
+
+PC: SN: NN:
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| CARTRIDGE                                                        |
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+Ovaleap 300 IU/0.5 mL injection follitropin alfa
+
+SC
+
+2. METHOD OF ADMINISTRATION
+
+3. EXPIRY DATE
+
+EXP
+
+4. BATCH NUMBER
+
+Batch
+
+5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+0.5 mL
+
+## 6. OTHER
+
+<div style=\"page-break-after: always\"></div>
+
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS CARTRIDGE
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
+
+Ovaleap 450 IU/0.75 mL injection follitropin alfa
+
+SC
+
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Batch
+
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
+
+0.75 mL
+
+| 6.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| CARTRIDGE                                                        |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
+Ovaleap 900 IU/1.5 mL injection follitropin alfa
+
+SC
+
+2. METHOD OF ADMINISTRATION
+
+3. EXPIRY DATE
+
+EXP
+
+4. BATCH NUMBER
+
+Batch
+
+5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+1.5 mL
+
+## 6. OTHER
+
+<div style=\"page-break-after: always\"></div>
+
+## B. PACKAGE LEAFLET
+
+## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
+
+Ovaleap 300 IU/0.5 mL solution for injection Ovaleap 450 IU/0.75 mL solution for injection Ovaleap 900 IU/1.5 mL solution for injection follitropin alfa
+
+## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
+
+- -Keep this leaflet. You may need to read it again.
+- -If you have any further questions, ask your doctor, pharmacist or nurse.
+- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- -If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet.
+
+## What is in this leaflet
+
+1. What Ovaleap is and what it is used for
+2. What you need to know before you use Ovaleap
+3. How to use Ovaleap
+4. Possible side effects
+5. How to store Ovaleap
+6. Contents of the pack and other information
+
+## 1. What Ovaleap is and what it is used for
+
+## What Ovaleap is
+
+This medicine contains the active substance follitropin alfa, which is almost identical to a natural hormone produced by your body called 'follicle-stimulating hormone' (FSH). FSH is a gonadotropin, a type of hormone that plays an important role in human fertility and reproduction. In women, FSH is needed for the growth and development of the sacs (follicles) in the ovaries that contain the egg cells. In men, FSH is needed for the production of sperm.
+
+## What Ovaleap is used for
+
+## In adult women, Ovaleap is used:
+
+- to help ovulation (release of a mature egg cell from the follicle) in women that cannot ovulate and that have not responded to treatment with a medicine called 'clomifene citrate'.
+- to help follicles develop in women undergoing assisted reproductive technology procedures (procedures that may help you to become pregnant) such as ' in vitro fertilisation', 'gamete intra-fallopian transfer' or 'zygote intra-fallopian transfer'.
+- in combination with a medicine called 'lutropin alfa' (a version of another gonadotropin, 'luteinising hormone' or LH) to help ovulation in women whose body is producing too little FSH and LH.
+
+## In adult men, Ovaleap is used:
+
+- in combination with a medicine called 'human chorionic gonadotropin' (hCG) to help produce sperm in men that are infertile due to low levels of certain hormones.
+
+<div style=\"page-break-after: always\"></div>
+
+## 2. What you need to know before you use Ovaleap
+
+## Do not use Ovaleap:
+
+- if you are allergic to follitropin alfa, follicle stimulating hormone (FSH) or any of the other ingredients of this medicine (listed in section 6).
+- if you have a tumour in your hypothalamus or pituitary gland (parts of the brain).
+- if you are a woman with:
+- large ovaries or sacs of fluids within the ovaries (ovarian cysts) of unknown origin.
+- unexplained vaginal bleeding.
+- cancer in your ovaries, womb or breasts.
+- any condition that usually makes normal pregnancy impossible, such as ovarian failure (early menopause), fibroid tumours of the womb or malformed reproductive organs.
+- if you are a man with:
+- testicular failure that is not treatable.
+
+Do not use this medicine if any of the above applies to you. If you are not sure, talk to your doctor or pharmacist before using this medicine.
+
+## Warnings and precautions
+
+Before the treatment is started you and your partner's fertility should be evaluated by a doctor experienced in treating fertility disorders.
+
+Talk to your doctor, pharmacist or nurse before using Ovaleap.
+
+## Porphyria
+
+Tell your doctor before you start treatment, if you or any member of your family have porphyria. This is a condition that may be passed on from parents to children which means that you have an inability to break down porphyrins (organic compounds).
+
+Tell your doctor straight away if:
+
+- your skin becomes fragile and easily blistered, especially skin that has been frequently in the sun, and/or
+- you have stomach, arm or leg pain.
+
+If you experience the above symptoms your doctor may recommend that you stop treatment.
+
+## Ovarian hyper-stimulation syndrome (OHSS)
+
+If you are a woman, this medicine increases your risk of developing OHSS. This is when your follicles develop too much and become large cysts.
+
+## Talk to your doctor straight away if:
+
+- you get pain in the lower part of the abdomen (belly),
+- you gain any weight rapidly,
+- you feel sick or are vomiting,
+- you have difficulty in breathing.
+
+If you experience the above symptoms your doctor might ask you to stop using this medicine (see also section 4 under 'Serious side effects in women\").
+
+If you are not ovulating and if the recommended dose and timing are followed, the occurrence of OHSS is less likely. Ovaleap treatment seldom causes severe OHSS unless the medicine that is used for final follicular maturation (containing human chorionic gonadotropin, hCG) is given. If you are developing OHSS your doctor may not give you any hCG in this treatment cycle. You may be told not to have sex or to use a barrier contraceptive method for at least 4 days.
+
+## Multiple pregnancy
+
+When using this medicine, you have a higher risk of being pregnant with more than one child (i.e. 'multiple pregnancy', typically twins) than if you conceived naturally. Multiple pregnancy may lead to medical complications for you and your babies. You can reduce the risk of multiple pregnancy by using the right dose of this medicine at the right times. When undergoing assisted reproductive
+
+<div style=\"page-break-after: always\"></div>
+
+technology the risk of having a multiple pregnancy is related to your age, the quality and number of fertilised eggs or embryos placed inside you.
+
+## Miscarriage
+
+You are more likely to have a miscarriage than the average woman when undergoing assisted reproductive technology or stimulation of your ovaries to produce eggs.
+
+## Ectopic pregnancy
+
+You are more likely to have a pregnancy outside the womb (an ectopic pregnancy) than the average woman when undergoing assisted reproductive technology and if you have damaged fallopian tubes.
+
+## Birth defects
+
+When being conceived by assisted reproductive technology, a baby may have a slightly higher risk of birth defects  than after natural conception. This could be related to multiple pregnancies or to parent characteristics such as maternal age and sperm characteristics.
+
+## Blood clotting problems (thromboembolic events)
+
+If you have ever had blood clots in your leg or lung, or a heart attack or stroke, or if your family have experienced these, inform your doctor. You might have a higher risk of these problems occurring or becoming worse with Ovaleap treatment.
+
+## Men with too much FSH in their blood
+
+If you are a man, having too much natural FSH in your blood can be a sign of damaged testicles. This medicine usually does not work if you have this problem. If your doctor decides to try Ovaleap treatment, they may monitor it by asking you to provide semen for analysis 4 to 6 months after starting treatment.
+
+## Children and adolescents
+
+This medicine is not for use in children and adolescents below 18 years of age.
+
+## Other medicines and Ovaleap
+
+Tell your doctor or pharmacist if you are using, have recently used or might use any other medicines.
+
+- If you use Ovaleap with other medicines which help ovulation such as human chorionic gonadotropin (hCG) or clomifene citrate, this may increase the response of your follicles.
+- If you use Ovaleap at the same time as a 'gonadotropin-releasing hormone' (GnRH) agonist or antagonist (these medicines reduce your sex hormone levels and stop you ovulating) you may need a higher dose of Ovaleap to produce follicles.
+
+## Pregnancy and breast-feeding
+
+You should not use this medicine if you are pregnant or breast-feeding.
+
+## Driving and using machines
+
+This medicine does not affect your ability to drive and use machines.
+
+## Ovaleap contains sodium, benzalkonium chloride and benzyl alcohol
+
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodiumfree'.
+
+This medicine also contains 0.02 mg per mL of benzalkonium chloride and 10.0 mg per mL of benzyl alcohol. Ask your doctor or pharmacist for advice if you have a liver or kidney disease, and if you are pregnant or breast-feeding. This is because large amounts of benzyl alcohol can build-up in your body and may cause side effects (called 'metabolic acidosis').
+
+## 3. How to use Ovaleap
+
+<div style=\"page-break-after: always\"></div>
+
+Always use this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
+
+This medicine is given as an injection into the tissue just under the skin (subcutaneous injection). Your doctor or nurse will show you how to inject the medicine. If you administer this medicine to yourself, please carefully read and follow the 'Instructions for Use' of the pen.
+
+## What the recommended dose is
+
+Your doctor will decide how much medicine you will take and how often. The doses described below are stated in International Units (IU).
+
+## Women
+
+If you are not ovulating and have irregular or no periods
+
+- This medicine is usually given every day.
+- If you have irregular periods, start using this medicine within the first 7 days of your menstrual cycle. If you do not have periods, you can start using the medicine on any convenient day.
+- The starting dose of this medicine is usually individualised and may be adjusted in a stepwise manner.
+- The daily dose of this medicine should not exceed 225 IU.
+- When you get the desired response, you will be given hCG or 'recombinant hCG' (r-hCG, an hCG made in a laboratory by a special DNA technique). The single injection will be 250 micrograms of r-hCG or 5 000 to 10 000 IU of hCG, 24 to 48 hours after your last Ovaleap injection. The best time to have sex is on the day of the hCG injection and the day after. Alternatively, intrauterine insemination may be performed by placing the sperm into the womb cavity.
+
+If your doctor cannot see a desired response, the continuation of that treatment cycle with Ovaleap should be evaluated and managed accordingly to the standard clinical practice.
+
+If your body responds too strongly, your treatment will be stopped and you will not be given any hCG [see also section 2 under 'Ovarian hyper-stimulation syndrome (OHSS)']. For the following cycle, your doctor will give you a lower dose of Ovaleap than before.
+
+If you need to develop several eggs for collection prior to any assisted reproductive technology
+
+- The starting dose of this medicine is usually individualised and may be adjusted in a stepwise manner to not higher than 450 IU daily.
+- Treatment is continued until your eggs have developed to a desired point. Your doctor will use blood tests and/or an ultrasound machine to check when this is.
+- When your eggs are ready, you will be given hCG or r-hCG. The single injection will be 250 micrograms of r-hCG or 5 000 to 10 000 IU of hCG, 24 to 48 hours after the last Ovaleap injection. This gets your eggs ready for collection.
+
+## If you have been diagnosed with very low levels of FSH and LH hormones
+
+- The usual starting dose of Ovaleap is 75 to 150 IU together with 75 IU of lutropin alfa.
+- You will use these two medicines each day for up to 5 weeks.
+- Your dose of Ovaleap may be increased every 7 or every 14 days by 37.5 to 75 IU, until you get the desired response.
+- When you get the desired response, you will be given hCG or r-hCG. The single injection will be 250 micrograms of r-hCG or 5 000 to 10 000 IU of hCG, 24 to 48 hours after your last injections of Ovaleap and lutropin alfa. The best time to have sex is on the day of the hCG injection and the day after. Alternatively, intrauterine insemination or another medically assisted reproduction procedure may be performed based on your doctor's judgment.
+
+If your doctor cannot see a response after 5 weeks, that treatment cycle should be stopped. For the following cycle, your doctor will give you a higher starting dose of this medicine than before.
+
+<div style=\"page-break-after: always\"></div>
+
+If your body responds too strongly, your treatment with Ovaleap will be stopped and you will not be given any hCG [see also section 2 under 'Ovarian hyper-stimulation syndrome (OHSS)']. For the following cycle, your doctor will give you a lower dose of Ovaleap than before.
+
+## Men
+
+- The usual dose of this medicine is 150 IU together with hCG.
+- You will use these two medicines three times a week for at least 4 months.
+- If you have not responded to treatment after 4 months, your doctor may suggest that you continue using these two medicines for at least 18 months.
+
+## How are the injections given?
+
+This medicine is given as an injection into the tissue just under the skin (subcutaneous injection) using the Ovaleap Pen. The Ovaleap Pen is a device (a 'pen') used for giving injections into the tissue just under the skin.
+
+Your doctor may suggest that you learn how to inject yourself with this medicine. Your doctor or nurse will give you instructions on how to do this and you can also find instructions in the separate instructions for use of the pen. Do not attempt to self-administer this medicine without this training by your doctor or nurse. The very first injection of this medicine should only be given in the presence of a doctor or nurse.
+
+Ovaleap solution for injection in cartridges has been developed for use in the Ovaleap Pen. You must follow the separate instructions for use of the Ovaleap Pen carefully. The instructions for use of the pen will be provided together with the Ovaleap Pen. Proper treatment of your condition, however, requires close and constant co-operation with your doctor.
+
+Discard used needles immediately after injection.
+
+## If you use more Ovaleap than you should
+
+The effects of using too much Ovaleap are unknown. Nevertheless one could expect ovarian hyper-stimulation syndrome (OHSS) to occur, which is described in section 4 under 'Serious side effects in women\". However, the OHSS will only occur if hCG is also administered [see also section 2 under 'Ovarian hyper-stimulation syndrome (OHSS)'].
+
+## If you forget to use Ovaleap
+
+Do not use a double dose to make up for a forgotten dose. Please talk to your doctor as soon as you realise that you forgot a dose.
+
+If you have any further questions on the use of this medicine, ask your doctor, pharmacist or nurse.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+## Important side effects
+
+## Serious side effects in men and women
+
+- Allergic reactions such as skin rash, raised itchy areas of skin and severe allergic reactions with weakness, drop in blood pressure, difficulty breathing and swelling of the face have been reported very rarely (may affect up to 1 in 10 000 people). If you think you are having this type of reaction, you must stop your Ovaleap injection and get medical help immediately.
+
+## Serious side effects in women
+
+- Lower stomach ache together with nausea or vomiting may be the symptoms of ovarian hyper-stimulation syndrome (OHSS). This may indicate that the ovaries over-reacted to the treatment and that large ovarian cysts developed [see also section 2 under 'Ovarian
+
+<div style=\"page-break-after: always\"></div>
+
+hyper-stimulation syndrome (OHSS)']. This side effect is common (may affect up to 1 in 10 people).
+
+- OHSS may become severe with clearly enlarged ovaries, decreased urine production, weight gain, difficulty in breathing and/or possible fluid accumulation in your stomach or chest. This side effect is uncommon (may affect up to 1 in 100 people).
+- Complications of OHSS such as twisting of ovaries or blood clotting may occur rarely (may affect up to 1 in 1 000 people).
+- Serious blood clotting complications (thromboembolic events), sometimes independent of OHSS, may be found very rarely (may affect up to 1 in 10 000 people). This could cause chest pain, breathlessness, stroke or heart attack [see also section 2 under 'Blood clotting problems (thromboembolic events)'].
+
+If you notice any of the above-listed side effects you should immediately contact your doctor who may ask you to stop using Ovaleap.
+
+## Other side effects in women
+
+Very common (may affect more than 1 in 10 people)
+
+- Local reactions at the injection site, such as pain, redness, bruising, swelling and/or irritation
+- Headache
+- Sacs of fluid within the ovaries (ovarian cysts)
+
+Common (may affect up to 1 in 10 people)
+
+- Stomach ache
+- Abdominal bloating
+- Abdominal cramps
+- Feeling sick
+- Vomiting
+- Diarrhoea
+
+Very rare (may affect up to 1 in 10 000 people)
+
+- Your asthma may get worse.
+
+## Other side effects in men
+
+Very common (may affect more than 1 in 10 people)
+
+- Local reactions at the injection site, such as pain, redness, bruising, swelling and/or irritation Common (may affect up to 1 in 10 people)
+- Swelling of the veins above and behind the testicles (a varicocele)
+- Breast development
+- Acne
+- Weight gain
+
+Very rare (may affect up to 1 in 10 000 people)
+
+- Your asthma may get worse.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor, pharmacist or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V.. By reporting side effects you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
+
+## 5. How to store Ovaleap
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date which is stated on the label and outer carton after EXP. The expiry date refers to the last day of that month.
+
+Store in a refrigerator (2 °C - 8 °C).
+
+Do not freeze.
+
+Keep the cartridge in the outer carton in order to protect from light.
+
+Before opening and within its shelf life, you may remove this medicine from the refrigerator, without being refrigerated again, for up to 3 months. Do not store above 25 °C. You must discard this medicine if it has not been used after 3 months.
+
+Once opened, the cartridge in-use in the pen may be stored for a maximum of 28 days. Do not store above 25 °C. Write down the date of first use in the patient diary, which will be provided with the Ovaleap Pen.
+
+Put the pen cap back on the Ovaleap Pen after each injection in order to protect the cartridge from light.
+
+Do not use this medicine if you notice it is cloudy or there are particles in it.
+
+Do not throw away any medicines via wastewater. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Ovaleap contains
+
+- -The active substance is follitropin alfa.
+
+Ovaleap 300 IU/0.5 mL: Each cartridge contains 300 IU (equivalent to 22 micrograms) follitropin alfa in 0.5 mL solution.
+
+Ovaleap 450 IU/0.75 mL: Each cartridge contains 450 IU (equivalent to 33 micrograms)
+
+follitropin alfa in 0.75 mL solution.
+
+Ovaleap 900 IU/1.5 mL: Each cartridge contains 900 IU (equivalent to 66 micrograms) follitropin alfa in 1.5 mL solution.
+
+Each mL of the solution contains 600 IU (equivalent to 44 micrograms) follitropin alfa.
+
+- -The other ingredients are sodium dihydrogen phosphate dihydrate, sodium hydroxide (2 M) (for pH adjustment), mannitol, methionine, polysorbate 20, benzyl alcohol, benzalkonium chloride and water for injections.
+
+All strengths listed above contain the other ingredients.
+
+## What Ovaleap looks like and contents of the pack
+
+Ovaleap is a solution for injection (injection). Ovaleap is a clear and colourless solution.
+
+Ovaleap 300 IU/0.5 mL is available in packs containing 1 cartridge and 10 injection needles. Ovaleap 450 IU/0.75 mL is available in packs containing 1 cartridge and 10 injection needles. Ovaleap 900 IU/1.5 mL is available in packs containing 1 cartridge and 20 injection needles.
+
+Not all pack sizes may be marketed.
+
+<div style=\"page-break-after: always\"></div>
+
+## Marketing Authorisation Holder
+
+Theramex Ireland Limited 3 rd Floor, Kilmore House Park Lane, Spencer Dock Dublin 1 D01 YE64 Ireland
+
+## Manufacturer
+
+Merckle GmbH Graf-Arco-Straße 3 89079 Ulm Germany
+
+Rechon Life Science AB Soldattorpsvägen 5 216 13 Limhamn Sweden
+
+## This leaflet was last revised in { month YYYY } .
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.

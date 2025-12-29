@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:50:37
+document_datetime: 2025-12-29 09:25:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sprycel.html
 document_name: sprycel.html
 version: success
-processing_time: 0.1346943
-conversion_datetime: 2025-12-26 16:59:55.663694
+processing_time: 0.1288903
+conversion_datetime: 2025-12-29 23:04:57.546899
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 dasatinib (anhydrous) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +123,7 @@ English (EN) (87.85 KB - PDF)
 
 [View](/en/documents/overview/sprycel-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-240)
+[Other languages (22)](#file-language-dropdown-310)
 
 български (BG) (117.94 KB - PDF)
 
@@ -417,7 +419,7 @@ English (EN) (1.39 MB - PDF)
 
 [View](/en/documents/product-information/sprycel-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-9)
+[Other languages (24)](#file-language-dropdown-811)
 
 български (BG) (1.95 MB - PDF)
 
@@ -733,7 +735,7 @@ English (EN) (55.9 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sprycel-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-651)
+[Other languages (24)](#file-language-dropdown-743)
 
 български (BG) (80.47 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:56:29
+document_datetime: 2025-12-29 11:51:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/emgality.html
 document_name: emgality.html
 version: success
-processing_time: 0.1285405
-conversion_datetime: 2025-12-25 05:20:32.492507
+processing_time: 0.1307527
+conversion_datetime: 2025-12-29 23:03:46.721156
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 galcanezumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +107,7 @@ English (EN) (100.61 KB - PDF)
 
 [View](/en/documents/overview/emgality-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-129)
+[Other languages (22)](#file-language-dropdown-983)
 
 български (BG) (98.09 KB - PDF)
 
@@ -305,7 +307,7 @@ English (EN) (1.77 MB - PDF)
 
 [View](/en/documents/product-information/emgality-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-829)
+[Other languages (24)](#file-language-dropdown-945)
 
 български (BG) (1.27 MB - PDF)
 
@@ -621,7 +623,7 @@ English (EN) (18.45 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/emgality-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-690)
+[Other languages (24)](#file-language-dropdown-515)
 
 български (BG) (55.57 KB - PDF)
 
@@ -936,7 +938,7 @@ Marketing authorisation holder
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83
+Orteliuslaan 1000 3528 BD Utrecht Netherlands
 
 Opinion adopted 20/09/2018 Marketing authorisation issued 14/11/2018 Revision 13
 
@@ -1014,7 +1016,7 @@ English (EN) (116.49 KB - PDF)
 
 [View](/en/documents/smop/questions-and-answers-refusal-change-marketing-authorisation-emgality-galcanezumab_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-68)
+[Other languages (22)](#file-language-dropdown-594)
 
 български (BG) (145.79 KB - PDF)
 

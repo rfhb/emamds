@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:36:48
+document_datetime: 2025-12-29 11:11:37
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/stribild.html
 document_name: stribild.html
 version: success
-processing_time: 0.116482
-conversion_datetime: 2025-12-28 00:35:11.499181
+processing_time: 0.1119394
+conversion_datetime: 2025-12-29 23:36:13.74686
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 elvitegravir / cobicistat / emtricitabine / tenofovir disoproxil Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (79.48 KB - PDF)
 
 [View](/en/documents/overview/stribild-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-501)
+[Other languages (22)](#file-language-dropdown-343)
 
 български (BG) (109.96 KB - PDF)
 
@@ -399,7 +401,7 @@ English (EN) (560 KB - PDF)
 
 [View](/en/documents/product-information/stribild-epar-product-information_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-199)
+[Other languages (25)](#file-language-dropdown-68)
 
 български (BG) (772.61 KB - PDF)
 
@@ -727,7 +729,7 @@ English (EN) (21.14 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/stribild-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-652)
+[Other languages (23)](#file-language-dropdown-696)
 
 български (BG) (38.59 KB - PDF)
 

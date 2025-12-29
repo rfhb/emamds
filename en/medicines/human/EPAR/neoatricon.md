@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:46:13
+document_datetime: 2025-12-29 12:42:42
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/neoatricon.html
 document_name: neoatricon.html
 version: success
-processing_time: 0.1055434
-conversion_datetime: 2025-12-24 17:53:56.202093
+processing_time: 0.1050802
+conversion_datetime: 2025-12-30 00:16:53.790757
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 dopamine hydrochloride Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -97,7 +99,7 @@ English (EN) (148.73 KB - PDF)
 
 [View](/en/documents/overview/neoatricon-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-97)
+[Other languages (22)](#file-language-dropdown-442)
 
 български (BG) (150.04 KB - PDF)
 
@@ -295,7 +297,7 @@ English (EN) (474.66 KB - PDF)
 
 [View](/en/documents/product-information/neoatricon-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-415)
+[Other languages (24)](#file-language-dropdown-796)
 
 български (BG) (583.19 KB - PDF)
 
@@ -609,7 +611,7 @@ English (EN) (50.06 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/neoatricon-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-416)
+[Other languages (24)](#file-language-dropdown-73)
 
 български (BG) (59.69 KB - PDF)
 

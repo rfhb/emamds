@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-09 23:29:02
+document_datetime: 2025-12-29 12:05:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/oczyesa.html
 document_name: oczyesa.html
 version: success
-processing_time: 0.2461325
-conversion_datetime: 2025-12-24 16:10:54.179522
+processing_time: 0.0894965
+conversion_datetime: 2025-12-29 23:23:31.71279
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 octreotide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (159.99 KB - PDF)
 
 [View](/en/documents/overview/oczyesa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-820)
+[Other languages (22)](#file-language-dropdown-172)
 
 български (BG) (143.82 KB - PDF)
 
@@ -306,7 +308,7 @@ English (EN) (1.05 MB - PDF)
 
 [View](/en/documents/product-information/oczyesa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-553)
+[Other languages (24)](#file-language-dropdown-35)
 
 български (BG) (1.16 MB - PDF)
 

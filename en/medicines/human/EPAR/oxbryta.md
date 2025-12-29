@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:38:34
+document_datetime: 2025-12-29 12:16:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/oxbryta.html
 document_name: oxbryta.html
 version: success
-processing_time: 0.1096265
-conversion_datetime: 2025-12-28 00:27:54.097919
+processing_time: 0.1096814
+conversion_datetime: 2025-12-29 23:59:10.525474
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is currently suspended from use in the European Union
 
 voxelotor Medicine Human Suspended
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -100,7 +102,7 @@ English (EN) (119.37 KB - PDF)
 
 [View](/en/documents/overview/oxbryta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-572)
+[Other languages (22)](#file-language-dropdown-101)
 
 български (BG) (142.48 KB - PDF)
 
@@ -298,7 +300,7 @@ English (EN) (636.65 KB - PDF)
 
 [View](/en/documents/product-information/oxbryta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-781)
+[Other languages (24)](#file-language-dropdown-666)
 
 български (BG) (539.84 KB - PDF)
 
@@ -612,7 +614,7 @@ English (EN) (45.96 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/oxbryta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-418)
+[Other languages (24)](#file-language-dropdown-188)
 
 български (BG) (62.99 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:25:06
+document_datetime: 2025-12-29 12:04:25
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/amvuttra.html
 document_name: amvuttra.html
 version: success
-processing_time: 0.113971
-conversion_datetime: 2025-12-28 01:22:17.124023
+processing_time: 0.1112677
+conversion_datetime: 2025-12-29 21:23:50.726632
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 vutrisiran Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +124,7 @@ English (EN) (124.62 KB - PDF)
 
 [View](/en/documents/overview/amvuttra-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-155)
+[Other languages (22)](#file-language-dropdown-351)
 
 български (BG) (141.08 KB - PDF)
 
@@ -410,7 +412,7 @@ English (EN) (887.75 KB - PDF)
 
 [View](/en/documents/product-information/amvuttra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-909)
+[Other languages (24)](#file-language-dropdown-95)
 
 български (BG) (1010.28 KB - PDF)
 
@@ -724,7 +726,7 @@ English (EN) (40.18 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/amvuttra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-178)
+[Other languages (24)](#file-language-dropdown-927)
 
 български (BG) (92.11 KB - PDF)
 

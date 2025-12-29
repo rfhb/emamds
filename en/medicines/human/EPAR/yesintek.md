@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:49:39
+document_datetime: 2025-12-29 12:36:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/yesintek.html
 document_name: yesintek.html
 version: success
-processing_time: 0.1073362
-conversion_datetime: 2025-12-28 15:19:41.4317
+processing_time: 0.1073144
+conversion_datetime: 2025-12-29 23:16:17.549382
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ustekinumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (148.82 KB - PDF)
 
 [View](/en/documents/overview/yesintek-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-136)
+[Other languages (22)](#file-language-dropdown-514)
 
 български (BG) (176.25 KB - PDF)
 
@@ -313,7 +315,7 @@ English (EN) (1.76 MB - PDF)
 
 [View](/en/documents/product-information/yesintek-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-749)
+[Other languages (24)](#file-language-dropdown-837)
 
 български (BG) (2.1 MB - PDF)
 
@@ -627,7 +629,7 @@ English (EN) (61.89 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/yesintek-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-807)
+[Other languages (24)](#file-language-dropdown-341)
 
 български (BG) (89.85 KB - PDF)
 

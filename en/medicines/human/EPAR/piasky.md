@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:51:22
+document_datetime: 2025-12-29 13:15:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/piasky.html
 document_name: piasky.html
 version: success
-processing_time: 0.1054094
-conversion_datetime: 2025-12-28 15:47:54.035313
+processing_time: 0.1076493
+conversion_datetime: 2025-12-29 23:30:07.877528
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 crovalimab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (118.89 KB - PDF)
 
 [View](/en/documents/overview/piasky-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-282)
+[Other languages (22)](#file-language-dropdown-542)
 
 български (BG) (132.61 KB - PDF)
 
@@ -315,7 +317,7 @@ English (EN) (526.65 KB - PDF)
 
 [View](/en/documents/product-information/piasky-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-671)
+[Other languages (24)](#file-language-dropdown-112)
 
 български (BG) (784.66 KB - PDF)
 
@@ -629,7 +631,7 @@ English (EN) (12.08 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/piasky-epar-all-authorised-presenations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-226)
+[Other languages (24)](#file-language-dropdown-242)
 
 български (BG) (37.42 KB - PDF)
 

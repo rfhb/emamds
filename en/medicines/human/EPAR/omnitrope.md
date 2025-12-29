@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:46:49
+document_datetime: 2025-12-29 11:59:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/omnitrope.html
 document_name: omnitrope.html
 version: success
-processing_time: 0.1170642
-conversion_datetime: 2025-12-27 20:10:21.220033
+processing_time: 0.1192953
+conversion_datetime: 2025-12-30 00:42:14.694095
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 somatropin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (83.85 KB - PDF)
 
 [View](/en/documents/overview/omnitrope-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-266)
+[Other languages (22)](#file-language-dropdown-162)
 
 български (BG) (111.9 KB - PDF)
 
@@ -399,7 +401,7 @@ English (EN) (548.52 KB - PDF)
 
 [View](/en/documents/product-information/omnitrope-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-26)
+[Other languages (24)](#file-language-dropdown-386)
 
 български (BG) (672.96 KB - PDF)
 
@@ -715,7 +717,7 @@ English (EN) (36.06 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/omnitrope-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-720)
+[Other languages (24)](#file-language-dropdown-373)
 
 български (BG) (39.91 KB - PDF)
 

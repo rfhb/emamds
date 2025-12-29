@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:02:13
+document_datetime: 2025-12-29 08:20:22
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/acomplia.html
 document_name: acomplia.html
 version: success
-processing_time: 0.1059479
-conversion_datetime: 2025-12-27 09:06:03.279171
+processing_time: 0.1003345
+conversion_datetime: 2025-12-29 22:00:57.86533
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-rimonabant
+rimonabant Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -69,7 +65,7 @@ English (EN) (481.47 KB - PDF)
 
 [View](/en/documents/overview/acomplia-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-370)
+[Other languages (21)](#file-language-dropdown-508)
 
 български (BG) (431.06 KB - PDF)
 
@@ -335,7 +331,7 @@ English (EN) (1.01 MB - PDF)
 
 [View](/en/documents/product-information/acomplia-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-332)
+[Other languages (21)](#file-language-dropdown-18)
 
 български (BG) (938.81 KB - PDF)
 
@@ -615,7 +611,7 @@ English (EN) (456.92 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/acomplia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-75)
+[Other languages (21)](#file-language-dropdown-736)
 
 български (BG) (341.28 KB - PDF)
 

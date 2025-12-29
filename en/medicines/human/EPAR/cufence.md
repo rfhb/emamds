@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:23:22
+document_datetime: 2025-12-29 12:12:11
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cufence.html
 document_name: cufence.html
 version: success
-processing_time: 0.0931316
-conversion_datetime: 2025-12-24 00:26:54.121928
+processing_time: 0.1129974
+conversion_datetime: 2025-12-30 00:33:41.185627
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 trientine dihydrochloride Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (116.27 KB - PDF)
 
 [View](/en/documents/overview/cufence-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-404)
+[Other languages (22)](#file-language-dropdown-565)
 
 български (BG) (140.1 KB - PDF)
 
@@ -395,7 +397,7 @@ English (EN) (404.86 KB - PDF)
 
 [View](/en/documents/product-information/cufence-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-724)
+[Other languages (24)](#file-language-dropdown-441)
 
 български (BG) (421.61 KB - PDF)
 
@@ -711,7 +713,7 @@ English (EN) (43.59 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cufence-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-436)
+[Other languages (24)](#file-language-dropdown-786)
 
 български (BG) (48.75 KB - PDF)
 

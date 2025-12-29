@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:56:50
+document_datetime: 2025-12-29 11:26:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/oprymea.html
 document_name: oprymea.html
 version: success
-processing_time: 0.1255744
-conversion_datetime: 2025-12-26 09:35:47.315382
+processing_time: 0.3259062
+conversion_datetime: 2025-12-29 23:00:41.595627
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pramipexole Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (76.87 KB - PDF)
 
 [View](/en/documents/overview/oprymea-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-798)
+[Other languages (22)](#file-language-dropdown-749)
 
 български (BG) (103.6 KB - PDF)
 
@@ -389,7 +391,7 @@ English (EN) (513.5 KB - PDF)
 
 [View](/en/documents/product-information/oprymea-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-673)
+[Other languages (24)](#file-language-dropdown-150)
 
 български (BG) (558.5 KB - PDF)
 
@@ -705,7 +707,7 @@ English (EN) (38.9 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/oprymea-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-701)
+[Other languages (24)](#file-language-dropdown-658)
 
 български (BG) (61.95 KB - PDF)
 
@@ -1095,7 +1097,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

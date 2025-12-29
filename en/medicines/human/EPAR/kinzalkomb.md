@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:55:13
+document_datetime: 2025-12-29 08:36:41
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kinzalkomb.html
 document_name: kinzalkomb.html
 version: success
-processing_time: 0.1338105
-conversion_datetime: 2025-12-26 12:20:28.375215
+processing_time: 0.1327049
+conversion_datetime: 2025-12-30 00:00:55.324798
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 telmisartan / hydrochlorothiazide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (76.09 KB - PDF)
 
 [View](/en/documents/overview/kinzalkomb-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-450)
+[Other languages (22)](#file-language-dropdown-459)
 
 български (BG) (109.05 KB - PDF)
 
@@ -394,7 +396,7 @@ English (EN) (1.03 MB - PDF)
 
 [View](/en/documents/product-information/kinzalkomb-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-960)
+[Other languages (24)](#file-language-dropdown-672)
 
 български (BG) (1.18 MB - PDF)
 
@@ -710,7 +712,7 @@ English (EN) (25.76 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kinzalkomb-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-583)
+[Other languages (24)](#file-language-dropdown-241)
 
 български (BG) (113.91 KB - PDF)
 
@@ -1064,7 +1066,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/kinzalkomb-h-c-415-a31-0084-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recomme_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-168)
+[Other languages (22)](#file-language-dropdown-43)
 
 български (BG) (87.49 KB - PDF)
 

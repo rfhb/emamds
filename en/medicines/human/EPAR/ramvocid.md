@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:49
+document_datetime: 2025-12-29 08:10:51
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ramvocid.html
 document_name: ramvocid.html
 version: success
-processing_time: 0.0718378
-conversion_datetime: 2025-12-28 19:47:42.057976
+processing_time: 0.0694707
+conversion_datetime: 2025-12-30 00:41:04.44944
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-oritavancin
+oritavancin Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +99,7 @@ English (EN) (44.4 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-ramvocid-oritavancin_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-604)
+[Other languages (21)](#file-language-dropdown-956)
 
 български (BG) (127.53 KB - PDF)
 

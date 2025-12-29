@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:36:35
+document_datetime: 2025-12-29 11:46:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ovaleap.html
 document_name: ovaleap.html
 version: success
-processing_time: 0.1109749
-conversion_datetime: 2025-12-26 11:41:17.418377
+processing_time: 0.1132114
+conversion_datetime: 2025-12-30 00:49:44.792771
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 follitropin alfa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (82.51 KB - PDF)
 
 [View](/en/documents/overview/ovaleap-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-644)
+[Other languages (22)](#file-language-dropdown-612)
 
 български (BG) (110.14 KB - PDF)
 
@@ -394,7 +396,7 @@ English (EN) (422.6 KB - PDF)
 
 [View](/en/documents/product-information/ovaleap-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-857)
+[Other languages (24)](#file-language-dropdown-167)
 
 български (BG) (488.74 KB - PDF)
 
@@ -710,7 +712,7 @@ English (EN) (17.09 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ovaleap-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-176)
+[Other languages (24)](#file-language-dropdown-547)
 
 български (BG) (42.18 KB - PDF)
 

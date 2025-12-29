@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:09:48
+document_datetime: 2025-12-29 10:22:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ekesivy.html
 document_name: ekesivy.html
 version: success
-processing_time: 0.0632668
-conversion_datetime: 2025-12-26 09:22:14.107861
+processing_time: 0.0657345
+conversion_datetime: 2025-12-29 23:55:31.460548
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -99,7 +97,7 @@ English (EN) (76.26 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-application-marketing-authorisation-ekesivy-diclofenamide_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-706)
+[Other languages (22)](#file-language-dropdown-594)
 
 български (BG) (106.77 KB - PDF)
 

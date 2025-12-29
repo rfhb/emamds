@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 10:00:11
+document_datetime: 2025-12-29 11:11:11
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xigduo.html
 document_name: xigduo.html
 version: success
-processing_time: 0.1679792
-conversion_datetime: 2025-12-27 18:33:28.868659
+processing_time: 0.1739512
+conversion_datetime: 2025-12-29 23:21:38.224167
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -134,7 +134,7 @@ English (EN) (132.54 KB - PDF)
 
 [View](/en/documents/overview/xigduo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-643)
+[Other languages (22)](#file-language-dropdown-879)
 
 български (BG) (171.39 KB - PDF)
 
@@ -422,7 +422,7 @@ English (EN) (877.36 KB - PDF)
 
 [View](/en/documents/product-information/xigduo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-894)
+[Other languages (24)](#file-language-dropdown-362)
 
 български (BG) (961.34 KB - PDF)
 
@@ -738,7 +738,7 @@ English (EN) (23.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xigduo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-521)
+[Other languages (24)](#file-language-dropdown-31)
 
 български (BG) (43.15 KB - PDF)
 
@@ -1139,7 +1139,7 @@ English (EN) (41.36 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/xigduo-h-a20-1442-c-2672-0024-epar-scientific-conclusion-article-20_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-473)
+[Other languages (24)](#file-language-dropdown-69)
 
 български (BG) (84.18 KB - PDF)
 
@@ -1453,7 +1453,7 @@ English (EN) (39.29 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/xigduo-metformin-epar-scientific-conclusion_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-416)
+[Other languages (24)](#file-language-dropdown-871)
 
 български (BG) (74.69 KB - PDF)
 
@@ -1753,7 +1753,7 @@ English (EN) (44.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/xigduo-sglt2-inhibitors-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-535)
+[Other languages (22)](#file-language-dropdown-391)
 
 български (BG) (111.7 KB - PDF)
 

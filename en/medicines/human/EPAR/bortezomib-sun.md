@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:06:27
+document_datetime: 2025-12-29 14:35:48
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bortezomib-sun.html
 document_name: bortezomib-sun.html
 version: success
-processing_time: 0.1459479
-conversion_datetime: 2025-12-27 13:22:28.977476
+processing_time: 0.1464023
+conversion_datetime: 2025-12-29 23:51:39.176221
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bortezomib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +123,7 @@ English (EN) (98.88 KB - PDF)
 
 [View](/en/documents/overview/bortezomib-sun-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-732)
+[Other languages (22)](#file-language-dropdown-512)
 
 български (BG) (125.2 KB - PDF)
 
@@ -399,7 +401,7 @@ English (EN) (847.34 KB - PDF)
 
 [View](/en/documents/product-information/bortezomib-sun-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-568)
+[Other languages (24)](#file-language-dropdown-262)
 
 български (BG) (940.48 KB - PDF)
 
@@ -715,7 +717,7 @@ English (EN) (12.29 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bortezomib-sun-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-461)
+[Other languages (24)](#file-language-dropdown-998)
 
 български (BG) (43.09 KB - PDF)
 
@@ -1135,7 +1137,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1417,7 +1419,7 @@ English (EN) (587 KB - DOC)
 
 [View](/en/documents/product-information-tracked-changes/bortezomib-sun-epar-product-information-tracked-changes_en.doc)
 
-[Other languages (24)](#file-language-dropdown-564)
+[Other languages (24)](#file-language-dropdown-764)
 
 български (BG) (720 KB - DOC)
 

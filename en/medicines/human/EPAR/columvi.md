@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:28
+document_datetime: 2025-12-29 11:28:37
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/columvi.html
 document_name: columvi.html
 version: success
-processing_time: 0.1286742
-conversion_datetime: 2025-12-25 00:11:39.972824
+processing_time: 0.1308691
+conversion_datetime: 2025-12-29 23:10:16.557469
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 glofitamab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -126,7 +128,7 @@ English (EN) (130.8 KB - PDF)
 
 [View](/en/documents/overview/columvi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-579)
+[Other languages (22)](#file-language-dropdown-87)
 
 български (BG) (134.83 KB - PDF)
 
@@ -414,7 +416,7 @@ English (EN) (243.83 KB - PDF)
 
 [View](/en/documents/product-information/columvi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-155)
+[Other languages (24)](#file-language-dropdown-73)
 
 български (BG) (713 KB - PDF)
 
@@ -728,7 +730,7 @@ English (EN) (15.93 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/columvi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-969)
+[Other languages (24)](#file-language-dropdown-207)
 
 български (BG) (37.02 KB - PDF)
 
@@ -1072,7 +1074,7 @@ English (EN) (291.56 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/columvi-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-158)
+[Other languages (24)](#file-language-dropdown-712)
 
 български (BG) (304.06 KB - DOCX)
 

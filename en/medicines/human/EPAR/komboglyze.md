@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:56:24
+document_datetime: 2025-12-29 14:14:47
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/komboglyze.html
 document_name: komboglyze.html
 version: success
-processing_time: 0.1256804
-conversion_datetime: 2025-12-27 14:44:59.295668
+processing_time: 0.1250597
+conversion_datetime: 2025-12-30 00:00:28.809243
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 saxagliptin / metformin hydrochloride Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +122,7 @@ English (EN) (89.04 KB - PDF)
 
 [View](/en/documents/overview/komboglyze-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-579)
+[Other languages (22)](#file-language-dropdown-99)
 
 български (BG) (116.89 KB - PDF)
 
@@ -408,7 +410,7 @@ English (EN) (435.08 KB - PDF)
 
 [View](/en/documents/product-information/komboglyze-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-596)
+[Other languages (24)](#file-language-dropdown-658)
 
 български (BG) (544.73 KB - PDF)
 
@@ -724,7 +726,7 @@ English (EN) (422.6 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/komboglyze-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-303)
+[Other languages (24)](#file-language-dropdown-127)
 
 български (BG) (440.02 KB - PDF)
 

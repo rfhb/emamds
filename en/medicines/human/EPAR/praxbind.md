@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:01:33
+document_datetime: 2025-12-29 09:47:21
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/praxbind.html
 document_name: praxbind.html
 version: success
-processing_time: 0.1134692
-conversion_datetime: 2025-12-27 23:45:35.204054
+processing_time: 0.1140742
+conversion_datetime: 2025-12-30 00:26:25.493423
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 idarucizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (72.87 KB - PDF)
 
 [View](/en/documents/overview/praxbind-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-590)
+[Other languages (22)](#file-language-dropdown-257)
 
 български (BG) (97.14 KB - PDF)
 
@@ -394,7 +396,7 @@ English (EN) (527.58 KB - PDF)
 
 [View](/en/documents/product-information/praxbind-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-490)
+[Other languages (24)](#file-language-dropdown-664)
 
 български (BG) (441.23 KB - PDF)
 
@@ -710,7 +712,7 @@ English (EN) (22.05 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/praxbind-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-265)
+[Other languages (24)](#file-language-dropdown-35)
 
 български (BG) (24.37 KB - PDF)
 
@@ -1092,6 +1094,7 @@ English (EN) (68.01 KB - PDF)
 #### More information on Praxbind
 
 - [EMEA-001438-PIP01-13-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001438-pip01-13-m01)
+- [Post marketing surveillance program of PraxbindTM use in (PraxbindTM India PMS program) - post-authorisation study](https://catalogues.ema.europa.eu/study/34131)
 
 #### Topics
 

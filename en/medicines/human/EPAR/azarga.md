@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:55:45
+document_datetime: 2025-12-29 13:16:47
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/azarga.html
 document_name: azarga.html
 version: success
-processing_time: 0.124848
-conversion_datetime: 2025-12-28 13:28:03.633184
+processing_time: 0.1255297
+conversion_datetime: 2025-12-29 23:11:52.630439
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 brinzolamide / timolol Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +123,7 @@ English (EN) (79.47 KB - PDF)
 
 [View](/en/documents/overview/azarga-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-42)
+[Other languages (22)](#file-language-dropdown-943)
 
 български (BG) (130.66 KB - PDF)
 
@@ -407,7 +409,7 @@ English (EN) (387.51 KB - PDF)
 
 [View](/en/documents/product-information/azarga-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-889)
+[Other languages (24)](#file-language-dropdown-294)
 
 български (BG) (467.71 KB - PDF)
 
@@ -723,7 +725,7 @@ English (EN) (7.08 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/azarga-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-431)
+[Other languages (21)](#file-language-dropdown-868)
 
 български (BG) (70.44 KB - PDF)
 
@@ -1076,7 +1078,7 @@ English (EN) (115.05 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/azarga-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-782)
+[Other languages (24)](#file-language-dropdown-970)
 
 български (BG) (133.25 KB - DOCX)
 

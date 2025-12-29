@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:37:33
+document_datetime: 2025-12-29 12:59:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ranivisio.html
 document_name: ranivisio.html
 version: success
-processing_time: 0.1302586
-conversion_datetime: 2025-12-24 08:34:23.812285
+processing_time: 0.0987434
+conversion_datetime: 2025-12-29 23:46:04.577116
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ranibizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (149.64 KB - PDF)
 
 [View](/en/documents/overview/ranivisio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-131)
+[Other languages (22)](#file-language-dropdown-478)
 
 български (BG) (177.46 KB - PDF)
 
@@ -316,7 +318,7 @@ English (EN) (1.4 MB - PDF)
 
 [View](/en/documents/product-information/ranivisio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-395)
+[Other languages (24)](#file-language-dropdown-657)
 
 български (BG) (2.02 MB - PDF)
 
@@ -632,7 +634,7 @@ English (EN) (42.54 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ranivisio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-468)
+[Other languages (24)](#file-language-dropdown-497)
 
 български (BG) (52.17 KB - PDF)
 

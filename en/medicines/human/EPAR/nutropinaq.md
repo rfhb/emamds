@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:59:33
+document_datetime: 2025-12-29 11:13:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nutropinaq.html
 document_name: nutropinaq.html
 version: success
-processing_time: 0.1105188
-conversion_datetime: 2025-12-25 05:42:14.940412
+processing_time: 0.1130118
+conversion_datetime: 2025-12-30 00:17:53.64558
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 somatropin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (81.1 KB - PDF)
 
 [View](/en/documents/overview/nutropinaq-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-811)
+[Other languages (21)](#file-language-dropdown-794)
 
 български (BG) (132.61 KB - PDF)
 
@@ -381,7 +383,7 @@ English (EN) (858.48 KB - PDF)
 
 [View](/en/documents/product-information/nutropinaq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-252)
+[Other languages (24)](#file-language-dropdown-329)
 
 български (BG) (899.54 KB - PDF)
 
@@ -697,7 +699,7 @@ English (EN) (58.74 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nutropinaq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-263)
+[Other languages (24)](#file-language-dropdown-624)
 
 български (BG) (121.73 KB - PDF)
 

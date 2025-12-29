@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:37:18
+document_datetime: 2025-12-29 10:47:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aqneursa.html
 document_name: aqneursa.html
 version: success
-processing_time: 0.0430898
-conversion_datetime: 2025-12-25 06:43:22.682863
+processing_time: 0.0381555
+conversion_datetime: 2025-12-30 00:47:27.163922
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 EMA has issued an opinion on this medicine
 
 L-acetylleucine Medicine Human Opinion
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:01:59
+document_datetime: 2025-12-29 08:55:18
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jinarc.html
 document_name: jinarc.html
 version: success
-processing_time: 0.1184274
-conversion_datetime: 2025-12-25 04:13:17.5138
+processing_time: 0.1184468
+conversion_datetime: 2025-12-30 00:50:02.537672
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tolvaptan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -102,7 +104,7 @@ English (EN) (79.28 KB - PDF)
 
 [View](/en/documents/overview/jinarc-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-102)
 
 български (BG) (105.66 KB - PDF)
 
@@ -390,7 +392,7 @@ English (EN) (501.68 KB - PDF)
 
 [View](/en/documents/product-information/jinarc-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-502)
+[Other languages (24)](#file-language-dropdown-644)
 
 български (BG) (607.78 KB - PDF)
 
@@ -706,7 +708,7 @@ English (EN) (110.98 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/jinarc-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-758)
+[Other languages (24)](#file-language-dropdown-130)
 
 български (BG) (72.08 KB - PDF)
 

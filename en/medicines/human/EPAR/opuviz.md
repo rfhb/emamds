@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:11:51
+document_datetime: 2025-12-29 12:02:12
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/opuviz.html
 document_name: opuviz.html
 version: success
-processing_time: 0.1381069
-conversion_datetime: 2025-12-27 22:14:50.929763
+processing_time: 0.1433577
+conversion_datetime: 2025-12-30 00:25:41.501388
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 aflibercept Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (147.72 KB - PDF)
 
 [View](/en/documents/overview/opuviz-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-442)
+[Other languages (22)](#file-language-dropdown-708)
 
 български (BG) (172.77 KB - PDF)
 
@@ -316,7 +318,7 @@ English (EN) (1.26 MB - PDF)
 
 [View](/en/documents/product-information/opuviz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-31)
+[Other languages (24)](#file-language-dropdown-38)
 
 български (BG) (1.16 MB - PDF)
 
@@ -632,7 +634,7 @@ English (EN) (85.12 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/opuviz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-405)
+[Other languages (24)](#file-language-dropdown-777)
 
 български (BG) (62.08 KB - PDF)
 
@@ -1022,7 +1024,7 @@ English (EN) (1.55 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/opuviz-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-422)
+[Other languages (24)](#file-language-dropdown-1)
 
 български (BG) (988.39 KB - DOCX)
 
@@ -1228,7 +1230,7 @@ English (EN) (1.96 MB - PDF)
 
 [View](/en/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-101)
+[Other languages (22)](#file-language-dropdown-866)
 
 български (BG) (1.9 MB - PDF)
 

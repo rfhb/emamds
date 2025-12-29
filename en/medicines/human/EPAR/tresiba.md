@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:08:09
+document_datetime: 2025-12-29 10:23:54
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tresiba.html
 document_name: tresiba.html
 version: success
-processing_time: 0.1318495
-conversion_datetime: 2025-12-25 06:07:15.522388
+processing_time: 0.132564
+conversion_datetime: 2025-12-29 23:16:52.912274
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin degludec Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +124,7 @@ English (EN) (80.91 KB - PDF)
 
 [View](/en/documents/overview/tresiba-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-755)
+[Other languages (22)](#file-language-dropdown-545)
 
 български (BG) (107.69 KB - PDF)
 
@@ -408,7 +410,7 @@ English (EN) (825.48 KB - PDF)
 
 [View](/en/documents/product-information/tresiba-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-624)
+[Other languages (24)](#file-language-dropdown-551)
 
 български (BG) (1.05 MB - PDF)
 
@@ -724,7 +726,7 @@ English (EN) (29.39 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tresiba-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-632)
+[Other languages (24)](#file-language-dropdown-799)
 
 български (BG) (58.21 KB - PDF)
 
@@ -1180,7 +1182,7 @@ English (EN) (81.81 KB - PDF)
 
 [View](/en/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-87)
+[Other languages (21)](#file-language-dropdown-479)
 
 español (ES) (87.17 KB - PDF)
 

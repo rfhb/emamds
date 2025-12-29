@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:53:36
+document_datetime: 2025-12-29 12:08:59
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/relvar-ellipta.html
 document_name: relvar-ellipta.html
 version: success
-processing_time: 0.145983
-conversion_datetime: 2025-12-28 11:37:23.786623
+processing_time: 0.1421748
+conversion_datetime: 2025-12-29 23:46:57.079175
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 fluticasone furoate / vilanterol Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -126,7 +128,7 @@ English (EN) (76.82 KB - PDF)
 
 [View](/en/documents/overview/relvar-ellipta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-228)
+[Other languages (22)](#file-language-dropdown-500)
 
 български (BG) (105.29 KB - PDF)
 
@@ -414,7 +416,7 @@ English (EN) (1.07 MB - PDF)
 
 [View](/en/documents/product-information/relvar-ellipta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-528)
+[Other languages (24)](#file-language-dropdown-493)
 
 български (BG) (1.38 MB - PDF)
 
@@ -730,7 +732,7 @@ English (EN) (22.79 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/relvar-ellipta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-946)
+[Other languages (24)](#file-language-dropdown-770)
 
 български (BG) (42.78 KB - PDF)
 
@@ -1227,7 +1229,7 @@ English (EN) (39.48 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/relvar-ellipta-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-548)
+[Other languages (22)](#file-language-dropdown-780)
 
 български (BG) (71.2 KB - PDF)
 

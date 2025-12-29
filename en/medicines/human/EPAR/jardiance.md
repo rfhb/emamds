@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:55:26
+document_datetime: 2025-12-29 09:43:41
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jardiance.html
 document_name: jardiance.html
 version: success
-processing_time: 0.1746882
-conversion_datetime: 2025-12-27 16:29:11.889781
+processing_time: 0.1704376
+conversion_datetime: 2025-12-29 23:31:30.796802
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 empagliflozin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -131,7 +133,7 @@ English (EN) (128.67 KB - PDF)
 
 [View](/en/documents/overview/jardiance-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-88)
+[Other languages (22)](#file-language-dropdown-637)
 
 български (BG) (155.4 KB - PDF)
 
@@ -429,7 +431,7 @@ English (EN) (2.99 MB - PDF)
 
 [View](/en/documents/product-information/jardiance-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-797)
+[Other languages (24)](#file-language-dropdown-199)
 
 български (BG) (2.48 MB - PDF)
 
@@ -745,7 +747,7 @@ English (EN) (24.87 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/jardiance-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-390)
+[Other languages (24)](#file-language-dropdown-553)
 
 български (BG) (26.91 KB - PDF)
 
@@ -1266,7 +1268,7 @@ English (EN) (41.36 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/jardiance-h-a20-1442-c-2677-0023-epar-scientific-conclusion-article-20_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-785)
+[Other languages (24)](#file-language-dropdown-515)
 
 български (BG) (84.18 KB - PDF)
 
@@ -1634,7 +1636,7 @@ English (EN) (44.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/jardiance-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-245)
+[Other languages (22)](#file-language-dropdown-170)
 
 български (BG) (91.68 KB - PDF)
 
@@ -1956,18 +1958,18 @@ English (EN) (63.64 KB - PDF)
 - [EMEA-000828-PIP06-18 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000828-pip06-18)
 - [EMEA-000828-PIP07-21 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000828-pip07-21)
 - [Post Marketing Surveillance on Long Term Drug Use of JARDIANCE® Tablets in Patients with chronic heart failure in Japan (PMS of JARDIANCE in CHF) - post-authorisation study](https://catalogues.ema.europa.eu/study/46998)
+- [A regulatory requirement non interventional study to monitor the safety and effectiveness of JARDIANCE® (empagliflozin 10mg, 25mg) in Korean patients with type 2 diabetes mellitus (JARDIANCE® rPMS in Korean patients with T2DM) - post-authorisation study](https://catalogues.ema.europa.eu/study/24002)
+- [Post Marketing Surveillance in Japan on Long Term Drug Use of JARDIANCE® Tablets in Patients with type 2 Diabetes Mellitus (Japanese JARDIANCE PMS, long term) - post-authorisation study](https://catalogues.ema.europa.eu/study/43727)
+- [Post Marketing Surveillance in Japan on Drug Use of JARDIANCE® Tablets in Elderly Patients with type 2 Diabetes Mellitus (Japanese PMS, elderly patients) - post-authorisation study](https://catalogues.ema.europa.eu/study/20374)
 - [A regulatory requirement non-interventional study to monitor the safety and effectiveness of Jardiance® (empagliflozin, 10mg) in Korean patients with chronic heart failure (NYHA class II-IV) - post-authorisation study](https://catalogues.ema.europa.eu/study/47613)
 - [A regulatory non-interventional study to monitor the safety and efficacy of JARDIANCE® (Empagliflozin 10 mg) in Korean patients with Chronic Kidney Disease (CKD) - post-authorisation study](https://catalogues.ema.europa.eu/study/107340)
 - [Post Marketing Surveillance on Long Term Use of JARDIANCE® Tablets in Patients with Chronic Kidney Disease in Japan - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000279)
 - [Post-authorisation safety study in patients with type 2 diabetes mellitus to assess the risk of acute liver injury, acute kidney injury and chronic kidney disease, severe complications of urinary tract infection, genital infections, and diabetic ketoacidosis among patients treated with empagliflozin compared to patients treated with DPP-4 inhibitors (PASS renal, liver injury, infection, ketoacidosis) - post-authorisation study](https://catalogues.ema.europa.eu/study/50541)
 - [Comparative cardiovascular and renal effectiveness and safety of Empagliflozin and other SGLT2i in patients with type 2 diabetes (T2D), with and without baseline kidney disease in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/50338)
 - [Clinical and economic impact of 2nd line initiation of empagliflozin after metformin, as compared to 2nd line initiation of sulfonylurea after metformin in patients with type 2 diabetes and cardiovascular disease - post-authorisation study](https://catalogues.ema.europa.eu/study/47812)
-- [Post Marketing Surveillance in Japan on Drug Use of JARDIANCE® Tablets in Elderly Patients with type 2 Diabetes Mellitus (Japanese PMS, elderly patients) - post-authorisation study](https://catalogues.ema.europa.eu/study/20374)
 - [Post-authorization safety study in patients with type 2 diabetes mellitus to assess the incidence of ketoacidosis, severe complications of urinary tract infection, volume depletion, and dehydration among patients treated with EMPAGLIFLOZIN or DPP-4 inhibitors in Saudi Arabia (Post-authorization safety study in type 2 diabetic) - post-authorisation study](https://catalogues.ema.europa.eu/study/27527)
 - [A non-interventional study of the effectiveness and safety outcomes in patients with heart failure and preserved ejection fraction (HFpEF) initiating Jardiance in China: A sub-study of the post-arketing study of Jardiance among patients with heart failure in China - post-authorisation study](https://catalogues.ema.europa.eu/study/106764)
 - [Non-interventional study of the effectiveness and safety of Jardiance in patients with heart failure (HF) of reduced ejection fraction (HFrEF) compared to guideline-recommended non- SGLT2i therapy regimens in China: A sub-study of the postmarketing study of Jardiance among patients with heart failure in China - post-authorisation study](https://catalogues.ema.europa.eu/study/106701)
-- [Post Marketing Surveillance in Japan on Long Term Drug Use of JARDIANCE® Tablets in Patients with type 2 Diabetes Mellitus (Japanese JARDIANCE PMS, long term) - post-authorisation study](https://catalogues.ema.europa.eu/study/43727)
-- [A regulatory requirement non interventional study to monitor the safety and effectiveness of JARDIANCE® (empagliflozin 10mg, 25mg) in Korean patients with type 2 diabetes mellitus (JARDIANCE® rPMS in Korean patients with T2DM) - post-authorisation study](https://catalogues.ema.europa.eu/study/24002)
 
 #### Topics
 

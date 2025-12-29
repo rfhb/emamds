@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:45:58
+document_datetime: 2025-12-29 15:04:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/humenza.html
 document_name: humenza.html
 version: success
-processing_time: 0.1001149
-conversion_datetime: 2025-12-28 00:21:52.445461
+processing_time: 0.0988357
+conversion_datetime: 2025-12-29 23:26:51.300004
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 pandemic influenza vaccine (H1N1) (split virion, inactivated, adjuvanted) Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -61,7 +63,7 @@ English (EN) (284.6 KB - PDF)
 
 [View](/en/documents/overview/humenza-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-901)
+[Other languages (21)](#file-language-dropdown-60)
 
 български (BG) (381.06 KB - PDF)
 
@@ -327,7 +329,7 @@ English (EN) (589.67 KB - PDF)
 
 [View](/en/documents/product-information/humenza-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-339)
+[Other languages (21)](#file-language-dropdown-351)
 
 български (BG) (1.45 MB - PDF)
 
@@ -607,7 +609,7 @@ English (EN) (239.26 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/humenza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-928)
+[Other languages (21)](#file-language-dropdown-240)
 
 български (BG) (376.55 KB - PDF)
 

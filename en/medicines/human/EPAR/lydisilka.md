@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:45:41
+document_datetime: 2025-12-29 11:03:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lydisilka.html
 document_name: lydisilka.html
 version: success
-processing_time: 0.1073261
-conversion_datetime: 2025-12-28 10:20:05.478878
+processing_time: 0.1051275
+conversion_datetime: 2025-12-29 23:31:00.683448
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 estetrol / drospirenone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -102,7 +104,7 @@ English (EN) (104.77 KB - PDF)
 
 [View](/en/documents/overview/lydisilka-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-356)
+[Other languages (22)](#file-language-dropdown-699)
 
 български (BG) (130.96 KB - PDF)
 
@@ -300,7 +302,7 @@ English (EN) (592.84 KB - PDF)
 
 [View](/en/documents/product-information/lydisilka-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-404)
+[Other languages (24)](#file-language-dropdown-77)
 
 български (BG) (1.04 MB - PDF)
 
@@ -614,7 +616,7 @@ English (EN) (44.67 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lydisilka-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-748)
+[Other languages (24)](#file-language-dropdown-630)
 
 български (BG) (61.18 KB - PDF)
 

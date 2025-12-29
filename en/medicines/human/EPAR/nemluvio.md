@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:49:59
+document_datetime: 2025-12-29 12:15:48
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nemluvio.html
 document_name: nemluvio.html
 version: success
-processing_time: 0.1115577
-conversion_datetime: 2025-12-23 20:58:31.669528
+processing_time: 0.1109055
+conversion_datetime: 2025-12-29 23:24:40.753269
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 nemolizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (97.99 KB - PDF)
 
 [View](/en/documents/overview/nemluvio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-848)
+[Other languages (22)](#file-language-dropdown-831)
 
 български (BG) (124.73 KB - PDF)
 
@@ -397,7 +399,7 @@ English (EN) (984.55 KB - PDF)
 
 [View](/en/documents/product-information/nemluvio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-603)
+[Other languages (24)](#file-language-dropdown-354)
 
 български (BG) (1.31 MB - PDF)
 
@@ -713,7 +715,7 @@ English (EN) (59.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nemluvio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-710)
+[Other languages (24)](#file-language-dropdown-856)
 
 български (BG) (58.33 KB - PDF)
 

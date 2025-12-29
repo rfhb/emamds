@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:04:34
+document_datetime: 2025-12-29 07:11:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pyzchiva.html
 document_name: pyzchiva.html
 version: success
-processing_time: 0.1084861
-conversion_datetime: 2025-12-25 01:44:11.235399
+processing_time: 0.1145101
+conversion_datetime: 2025-12-29 23:24:31.939761
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ustekinumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (146.75 KB - PDF)
 
 [View](/en/documents/overview/pyzchiva-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-582)
+[Other languages (22)](#file-language-dropdown-924)
 
 български (BG) (172.32 KB - PDF)
 
@@ -405,7 +407,7 @@ English (EN) (2.4 MB - PDF)
 
 [View](/en/documents/product-information/pyzchiva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-532)
+[Other languages (24)](#file-language-dropdown-555)
 
 български (BG) (2.41 MB - PDF)
 
@@ -721,7 +723,7 @@ English (EN) (75.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pyzchiva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-736)
+[Other languages (24)](#file-language-dropdown-188)
 
 български (BG) (86.73 KB - PDF)
 

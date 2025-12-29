@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:15:43
+document_datetime: 2025-12-29 12:31:11
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hefiya.html
 document_name: hefiya.html
 version: success
-processing_time: 0.1029806
-conversion_datetime: 2025-12-27 21:05:52.618021
+processing_time: 0.1019842
+conversion_datetime: 2025-12-30 00:18:11.847995
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 adalimumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -149,7 +151,7 @@ English (EN) (4.26 MB - PDF)
 
 [View](/en/documents/product-information/hefiya-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-418)
+[Other languages (24)](#file-language-dropdown-38)
 
 български (BG) (4.09 MB - PDF)
 
@@ -465,7 +467,7 @@ English (EN) (83.07 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/hefiya-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-435)
+[Other languages (24)](#file-language-dropdown-247)
 
 български (BG) (95.36 KB - PDF)
 

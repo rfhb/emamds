@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:04:02
+document_datetime: 2025-12-29 14:34:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ribavirin-mylan.html
 document_name: ribavirin-mylan.html
 version: success
-processing_time: 0.1057895
-conversion_datetime: 2025-12-27 23:16:18.598298
+processing_time: 0.1050475
+conversion_datetime: 2025-12-29 23:06:25.078301
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-ribavirin
+ribavirin Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (638.44 KB - PDF)
 
 [View](/en/documents/overview/ribavirin-mylan-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-844)
+[Other languages (21)](#file-language-dropdown-43)
 
 български (BG) (788.33 KB - PDF)
 
@@ -332,7 +328,7 @@ English (EN) (1.12 MB - PDF)
 
 [View](/en/documents/product-information/ribavirin-mylan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-499)
+[Other languages (24)](#file-language-dropdown-979)
 
 български (BG) (3.3 MB - PDF)
 
@@ -648,7 +644,7 @@ English (EN) (597.59 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ribavirin-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-620)
+[Other languages (23)](#file-language-dropdown-383)
 
 български (BG) (666.79 KB - PDF)
 

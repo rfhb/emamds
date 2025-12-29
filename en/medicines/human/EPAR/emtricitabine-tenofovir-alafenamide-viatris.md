@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:00:33
+document_datetime: 2025-12-29 12:39:49
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/emtricitabine-tenofovir-alafenamide-viatris.html
 document_name: emtricitabine-tenofovir-alafenamide-viatris.html
 version: success
-processing_time: 0.0999437
-conversion_datetime: 2025-12-25 00:13:55.632818
+processing_time: 0.0945125
+conversion_datetime: 2025-12-29 23:46:39.698337
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 emtricitabine / tenofovir alafenamide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -96,7 +98,7 @@ English (EN) (144.18 KB - PDF)
 
 [View](/en/documents/overview/emtricitabine-tenofovir-alafenamide-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-274)
+[Other languages (22)](#file-language-dropdown-411)
 
 български (BG) (151.64 KB - PDF)
 
@@ -292,7 +294,7 @@ English (EN) (538.01 KB - PDF)
 
 [View](/en/documents/product-information/emtricitabine-tenofovir-alafenamide-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-650)
+[Other languages (24)](#file-language-dropdown-429)
 
 български (BG) (841.83 KB - PDF)
 
@@ -510,7 +512,7 @@ English (EN) (61.45 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/emtricitabine-tenofovir-alafenamide-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-129)
+[Other languages (24)](#file-language-dropdown-379)
 
 български (BG) (73.61 KB - PDF)
 

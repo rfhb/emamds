@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:33:32
+document_datetime: 2025-12-29 10:07:31
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mvabea.html
 document_name: mvabea.html
 version: success
-processing_time: 0.1094654
-conversion_datetime: 2025-12-27 21:11:20.794832
+processing_time: 0.1098729
+conversion_datetime: 2025-12-29 23:22:04.94267
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 Ebola vaccine (MVA-BN-Filo [recombinant]) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (137.22 KB - PDF)
 
 [View](/en/documents/overview/mvabea-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-547)
+[Other languages (22)](#file-language-dropdown-414)
 
 български (BG) (160.05 KB - PDF)
 
@@ -307,7 +309,7 @@ English (EN) (375.04 KB - PDF)
 
 [View](/en/documents/product-information/mvabea-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-285)
+[Other languages (24)](#file-language-dropdown-629)
 
 български (BG) (391.44 KB - PDF)
 
@@ -621,7 +623,7 @@ English (EN) (42.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mvabea-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-487)
+[Other languages (24)](#file-language-dropdown-527)
 
 български (BG) (47.07 KB - PDF)
 

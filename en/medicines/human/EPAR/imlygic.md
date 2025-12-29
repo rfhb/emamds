@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:29:36
+document_datetime: 2025-12-29 13:47:27
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imlygic.html
 document_name: imlygic.html
 version: success
-processing_time: 0.1130766
-conversion_datetime: 2025-12-27 21:47:39.895258
+processing_time: 0.1091797
+conversion_datetime: 2025-12-29 23:53:56.486937
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 talimogene laherparepvec Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (79.69 KB - PDF)
 
 [View](/en/documents/overview/imlygic-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-493)
+[Other languages (22)](#file-language-dropdown-136)
 
 български (BG) (107.09 KB - PDF)
 
@@ -397,7 +399,7 @@ English (EN) (634.35 KB - PDF)
 
 [View](/en/documents/product-information/imlygic-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-328)
+[Other languages (24)](#file-language-dropdown-145)
 
 български (BG) (768.73 KB - PDF)
 
@@ -713,7 +715,7 @@ English (EN) (8.37 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imlygic-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-893)
+[Other languages (24)](#file-language-dropdown-414)
 
 български (BG) (48.04 KB - PDF)
 

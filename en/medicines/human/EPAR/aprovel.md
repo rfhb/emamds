@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:33:38
+document_datetime: 2025-12-29 07:23:58
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aprovel.html
 document_name: aprovel.html
 version: success
-processing_time: 0.1479662
-conversion_datetime: 2025-12-24 22:03:40.715083
+processing_time: 0.1493178
+conversion_datetime: 2025-12-30 00:30:13.631632
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 irbesartan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (74.21 KB - PDF)
 
 [View](/en/documents/overview/aprovel-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-779)
+[Other languages (22)](#file-language-dropdown-146)
 
 български (BG) (101.22 KB - PDF)
 
@@ -386,7 +388,7 @@ English (EN) (858.49 KB - PDF)
 
 [View](/en/documents/product-information/aprovel-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-898)
+[Other languages (24)](#file-language-dropdown-777)
 
 български (BG) (1.31 MB - PDF)
 
@@ -702,7 +704,7 @@ English (EN) (19.97 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/aprovel-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-42)
+[Other languages (20)](#file-language-dropdown-59)
 
 български (BG) (106.66 KB - PDF)
 
@@ -1004,7 +1006,7 @@ English (EN) (99.42 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/aprovel-epar-scientific-conclusions-annex-iv_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-297)
+[Other languages (22)](#file-language-dropdown-374)
 
 български (BG) (136.15 KB - PDF)
 
@@ -1216,7 +1218,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/aprovel-h-c-141-a31-0154-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommenda_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-486)
+[Other languages (22)](#file-language-dropdown-403)
 
 български (BG) (87.49 KB - PDF)
 

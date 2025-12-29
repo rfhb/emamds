@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:51:24
+document_datetime: 2025-12-29 07:27:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pelmeg.html
 document_name: pelmeg.html
 version: success
-processing_time: 0.1226381
-conversion_datetime: 2025-12-27 19:38:43.987159
+processing_time: 0.1228422
+conversion_datetime: 2025-12-29 23:35:10.599064
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pegfilgrastim Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (74.55 KB - PDF)
 
 [View](/en/documents/overview/pelmeg-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-581)
+[Other languages (22)](#file-language-dropdown-315)
 
 български (BG) (127.01 KB - PDF)
 
@@ -306,7 +308,7 @@ English (EN) (642.38 KB - PDF)
 
 [View](/en/documents/product-information/pelmeg-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-906)
+[Other languages (24)](#file-language-dropdown-351)
 
 български (BG) (887.92 KB - PDF)
 
@@ -620,7 +622,7 @@ English (EN) (111.19 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pelmeg-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-919)
+[Other languages (24)](#file-language-dropdown-482)
 
 български (BG) (38.42 KB - PDF)
 
@@ -926,7 +928,7 @@ English (EN) (1.27 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/pelmeg-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-676)
+[Other languages (24)](#file-language-dropdown-404)
 
 български (BG) (1.3 MB - DOCX)
 

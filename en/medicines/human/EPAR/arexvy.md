@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:08:49
+document_datetime: 2025-12-29 11:33:05
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/arexvy.html
 document_name: arexvy.html
 version: success
-processing_time: 0.1324165
-conversion_datetime: 2025-12-27 23:05:37.445759
+processing_time: 0.1337379
+conversion_datetime: 2025-12-29 23:54:22.69389
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 recombinant respiratory syncytial virus pre-fusion F protein, adjuvanted with AS01E Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (142.13 KB - PDF)
 
 [View](/en/documents/overview/arexvy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-805)
+[Other languages (22)](#file-language-dropdown-485)
 
 български (BG) (153.96 KB - PDF)
 
@@ -395,7 +397,7 @@ English (EN) (453.74 KB - PDF)
 
 [View](/en/documents/product-information/arexvy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-840)
+[Other languages (24)](#file-language-dropdown-822)
 
 български (BG) (619.19 KB - PDF)
 
@@ -685,7 +687,7 @@ svenska (SV) (497.73 KB - PDF)
 
 [View](/sv/documents/product-information/arexvy-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000248473 18/08/2025
+**Latest procedure affecting product information:** VR/0000290199 16/10/2025
 
 icon globe
 
@@ -709,7 +711,7 @@ English (EN) (49.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/arexvy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-490)
+[Other languages (24)](#file-language-dropdown-672)
 
 български (BG) (68.36 KB - PDF)
 
@@ -928,7 +930,7 @@ GlaxoSmithKline Biologicals S.A.
 
 Rue de l'Institut, 89
 
-Opinion adopted 26/04/2023 Marketing authorisation issued 06/06/2023 Revision 7
+Opinion adopted 26/04/2023 Marketing authorisation issued 06/06/2023 Revision 8
 
 ## Assessment history
 
@@ -1030,6 +1032,8 @@ English (EN) (88.93 KB - PDF)
 
 #### News on Arexvy
 
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 8-11 December 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-8-11-december-2025) 12/12/2025
+
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 July 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-july-2024) 26/07/2024
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24 - 26 April 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-26-april-2023) 26/04/2023
@@ -1050,7 +1054,7 @@ English (EN) (141.54 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/arexvy-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-193)
+[Other languages (24)](#file-language-dropdown-102)
 
 български (BG) (138.52 KB - DOCX)
 
@@ -1342,6 +1346,7 @@ svenska (SV) (128.36 KB - DOCX)
 
 #### More information on Arexvy
 
+- [Arexvy - opinion on variation to marketing authorisation](/en/medicines/human/variation/arexvy)
 - [A post-marketing active surveillance study to evaluate the risk of Guillain-Barré syndrome, acute disseminated encephalomyelitis, and atrial fibrillation in adults 50 years and older vaccinated with GSK's Arexvy vaccine in the United States (220149) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000486)
 
 **This page was last updated on** 26/11/2025

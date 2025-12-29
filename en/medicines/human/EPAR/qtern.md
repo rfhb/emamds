@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-21 12:29:42
+document_datetime: 2025-12-25 12:52:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/qtern.html
 document_name: qtern.html
 version: success
-processing_time: 0.1132605
-conversion_datetime: 2025-12-25 01:07:12.413492
+processing_time: 0.1146799
+conversion_datetime: 2025-12-29 22:21:25.827257
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -133,7 +133,7 @@ English (EN) (85.16 KB - PDF)
 
 [View](/en/documents/overview/qtern-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-2)
+[Other languages (22)](#file-language-dropdown-17)
 
 български (BG) (114.72 KB - PDF)
 
@@ -421,7 +421,7 @@ English (EN) (677.5 KB - PDF)
 
 [View](/en/documents/product-information/qtern-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-972)
+[Other languages (24)](#file-language-dropdown-894)
 
 български (BG) (833.95 KB - PDF)
 
@@ -737,7 +737,7 @@ English (EN) (30.17 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/qtern-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-296)
+[Other languages (24)](#file-language-dropdown-559)
 
 български (BG) (38.44 KB - PDF)
 

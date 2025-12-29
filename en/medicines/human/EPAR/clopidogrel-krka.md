@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:07:19
+document_datetime: 2025-12-29 14:36:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-krka.html
 document_name: clopidogrel-krka.html
 version: success
-processing_time: 0.1394547
-conversion_datetime: 2025-12-24 23:52:58.878804
+processing_time: 0.1515753
+conversion_datetime: 2025-12-29 23:52:05.60372
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 clopidogrel Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (93.95 KB - PDF)
 
 [View](/en/documents/overview/clopidogrel-krka-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-675)
+[Other languages (22)](#file-language-dropdown-619)
 
 български (BG) (122.35 KB - PDF)
 
@@ -391,7 +393,7 @@ English (EN) (262.94 KB - PDF)
 
 [View](/en/documents/product-information/clopidogrel-krka-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-366)
+[Other languages (24)](#file-language-dropdown-139)
 
 български (BG) (319.47 KB - PDF)
 
@@ -707,7 +709,7 @@ English (EN) (12.97 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/clopidogrel-krka-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-158)
+[Other languages (22)](#file-language-dropdown-830)
 
 български (BG) (41.88 KB - PDF)
 
@@ -1071,7 +1073,7 @@ English (EN) (81.99 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/clopidogrel-krka-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-160)
+[Other languages (24)](#file-language-dropdown-431)
 
 български (BG) (100.59 KB - DOCX)
 
@@ -1279,7 +1281,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

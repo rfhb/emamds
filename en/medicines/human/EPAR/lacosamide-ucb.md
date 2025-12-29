@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:55:52
+document_datetime: 2025-12-29 09:33:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lacosamide-ucb.html
 document_name: lacosamide-ucb.html
 version: success
-processing_time: 0.1144533
-conversion_datetime: 2025-12-24 22:43:53.42006
+processing_time: 0.1153316
+conversion_datetime: 2025-12-30 00:43:43.825005
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lacosamide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (124.68 KB - PDF)
 
 [View](/en/documents/overview/lacosamide-ucb-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-750)
+[Other languages (22)](#file-language-dropdown-166)
 
 български (BG) (153.44 KB - PDF)
 
@@ -400,7 +402,7 @@ English (EN) (1.19 MB - PDF)
 
 [View](/en/documents/product-information/lacosamide-ucb-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-157)
+[Other languages (24)](#file-language-dropdown-318)
 
 български (BG) (1.32 MB - PDF)
 
@@ -716,7 +718,7 @@ English (EN) (43.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lacosamide-ucb-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-903)
+[Other languages (24)](#file-language-dropdown-584)
 
 български (BG) (165 KB - PDF)
 

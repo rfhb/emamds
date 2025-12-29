@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 14:32:16
+document_datetime: 2025-12-29 14:32:41
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/invirase.html
 document_name: invirase.html
 version: success
-processing_time: 0.0959667
-conversion_datetime: 2025-12-24 01:51:40.53636
+processing_time: 0.1156119
+conversion_datetime: 2025-12-29 23:48:58.098994
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-saquinavir
+saquinavir Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (190.67 KB - PDF)
 
 [View](/en/documents/overview/invirase-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-624)
+[Other languages (22)](#file-language-dropdown-180)
 
 български (BG) (275.76 KB - PDF)
 
@@ -344,7 +340,7 @@ English (EN) (2.32 MB - PDF)
 
 [View](/en/documents/product-information/invirase-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-907)
+[Other languages (24)](#file-language-dropdown-983)
 
 български (BG) (3.04 MB - PDF)
 
@@ -660,7 +656,7 @@ English (EN) (59.87 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/invirase-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-920)
+[Other languages (24)](#file-language-dropdown-400)
 
 български (BG) (78.96 KB - PDF)
 

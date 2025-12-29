@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:37:26
+document_datetime: 2025-12-29 12:59:14
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/enflonsia.html
 document_name: enflonsia.html
 version: success
-processing_time: 0.0407756
-conversion_datetime: 2025-12-28 00:40:52.776533
+processing_time: 0.0417034
+conversion_datetime: 2025-12-30 00:55:51.315776
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 EMA has issued an opinion on this medicine
 
 clesrovimab Medicine Human Opinion
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

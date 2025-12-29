@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:54:28
+document_datetime: 2025-12-29 14:38:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/folcepri.html
 document_name: folcepri.html
 version: success
-processing_time: 0.0478568
-conversion_datetime: 2025-12-27 15:50:16.490043
+processing_time: 0.0395992
+conversion_datetime: 2025-12-29 23:00:14.850901
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

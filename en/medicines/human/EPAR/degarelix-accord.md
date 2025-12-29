@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:04:44
+document_datetime: 2025-12-29 11:49:15
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/degarelix-accord.html
 document_name: degarelix-accord.html
 version: success
-processing_time: 0.0936837
-conversion_datetime: 2025-12-24 21:46:21.12169
+processing_time: 0.0974638
+conversion_datetime: 2025-12-29 23:04:04.347948
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-degarelix
+degarelix Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +102,7 @@ English (EN) (168.4 KB - PDF)
 
 [View](/en/documents/overview/degarelix-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-363)
+[Other languages (22)](#file-language-dropdown-14)
 
 български (BG) (189.88 KB - PDF)
 
@@ -294,7 +290,7 @@ English (EN) (731.47 KB - PDF)
 
 [View](/en/documents/product-information/degarelix-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-406)
+[Other languages (24)](#file-language-dropdown-986)
 
 български (BG) (1.25 MB - PDF)
 
@@ -512,7 +508,7 @@ English (EN) (90.48 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/degarelix-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-579)
+[Other languages (21)](#file-language-dropdown-224)
 
 español (ES) (94.8 KB - PDF)
 

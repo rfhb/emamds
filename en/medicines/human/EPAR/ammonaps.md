@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:28:07
+document_datetime: 2025-12-29 14:41:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ammonaps.html
 document_name: ammonaps.html
 version: success
-processing_time: 0.1150425
-conversion_datetime: 2025-12-26 20:56:12.201752
+processing_time: 0.1472975
+conversion_datetime: 2025-12-29 22:46:25.019753
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sodium phenylbutyrate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (34.31 KB - PDF)
 
 [View](/en/documents/overview/ammonaps-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-495)
+[Other languages (21)](#file-language-dropdown-280)
 
 български (BG) (173.04 KB - PDF)
 
@@ -376,7 +378,7 @@ English (EN) (379.82 KB - PDF)
 
 [View](/en/documents/product-information/ammonaps-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-373)
+[Other languages (24)](#file-language-dropdown-556)
 
 български (BG) (506.03 KB - PDF)
 
@@ -692,7 +694,7 @@ English (EN) (58.72 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ammonaps-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-387)
+[Other languages (24)](#file-language-dropdown-229)
 
 български (BG) (49.67 KB - PDF)
 

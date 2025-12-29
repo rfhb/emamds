@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 13:10:14
+document_datetime: 2025-12-29 10:28:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/asimtufii.html
 document_name: asimtufii.html
 version: success
-processing_time: 0.0665705
-conversion_datetime: 2025-12-27 23:39:38.302845
+processing_time: 0.0597635
+conversion_datetime: 2025-12-29 23:32:46.580137
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-aripiprazole
+aripiprazole Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +99,7 @@ English (EN) (135.05 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-application-marketing-authorisation-asimtufii-aripiprazole_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-463)
+[Other languages (22)](#file-language-dropdown-705)
 
 български (BG) (157.36 KB - PDF)
 

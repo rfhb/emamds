@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:37:43
+document_datetime: 2025-12-29 11:44:58
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ivabradine-anpharm.html
 document_name: ivabradine-anpharm.html
 version: success
-processing_time: 0.1109746
-conversion_datetime: 2025-12-26 13:28:37.30179
+processing_time: 0.1131297
+conversion_datetime: 2025-12-30 00:33:32.498931
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ivabradine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (126.43 KB - PDF)
 
 [View](/en/documents/overview/ivabradine-anpharm-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-237)
+[Other languages (22)](#file-language-dropdown-467)
 
 български (BG) (111.89 KB - PDF)
 
@@ -406,7 +408,7 @@ English (EN) (403.65 KB - PDF)
 
 [View](/en/documents/product-information/ivabradine-anpharm-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-65)
+[Other languages (23)](#file-language-dropdown-83)
 
 български (BG) (541.93 KB - PDF)
 
@@ -710,7 +712,7 @@ English (EN) (133.23 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ivabradine-anpharm-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-536)
+[Other languages (24)](#file-language-dropdown-56)
 
 български (BG) (63.89 KB - PDF)
 

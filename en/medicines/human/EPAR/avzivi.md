@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:28:39
+document_datetime: 2025-12-29 12:47:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/avzivi.html
 document_name: avzivi.html
 version: success
-processing_time: 0.1012918
-conversion_datetime: 2025-12-28 19:12:38.667309
+processing_time: 0.103475
+conversion_datetime: 2025-12-29 23:12:19.490378
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bevacizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (125.61 KB - PDF)
 
 [View](/en/documents/overview/avzivi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-820)
+[Other languages (22)](#file-language-dropdown-226)
 
 български (BG) (160.4 KB - PDF)
 
@@ -311,7 +313,7 @@ English (EN) (574.4 KB - PDF)
 
 [View](/en/documents/product-information/avzivi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-945)
+[Other languages (24)](#file-language-dropdown-565)
 
 български (BG) (800.64 KB - PDF)
 
@@ -529,7 +531,7 @@ English (EN) (15.4 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/avzivi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-872)
+[Other languages (24)](#file-language-dropdown-630)
 
 български (BG) (39.55 KB - PDF)
 

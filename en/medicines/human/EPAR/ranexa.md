@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:41:39
+document_datetime: 2025-12-29 11:50:55
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ranexa.html
 document_name: ranexa.html
 version: success
-processing_time: 0.1112838
-conversion_datetime: 2025-12-25 05:22:00.776299
+processing_time: 0.3166703
+conversion_datetime: 2025-12-30 00:02:14.216732
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ranolazine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +107,7 @@ English (EN) (106.71 KB - PDF)
 
 [View](/en/documents/overview/ranexa-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-155)
+[Other languages (22)](#file-language-dropdown-350)
 
 български (BG) (131.78 KB - PDF)
 
@@ -393,7 +395,7 @@ English (EN) (358.6 KB - PDF)
 
 [View](/en/documents/product-information/ranexa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-300)
+[Other languages (24)](#file-language-dropdown-806)
 
 български (BG) (573.86 KB - PDF)
 
@@ -709,7 +711,7 @@ English (EN) (12.01 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ranexa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-755)
+[Other languages (24)](#file-language-dropdown-953)
 
 български (BG) (84.43 KB - PDF)
 

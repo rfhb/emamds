@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:25:03
+document_datetime: 2025-12-29 13:45:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fluad-tetra.html
 document_name: fluad-tetra.html
 version: success
-processing_time: 0.1130584
-conversion_datetime: 2025-12-26 17:13:31.6443
+processing_time: 0.1127575
+conversion_datetime: 2025-12-29 23:55:48.942663
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 influenza vaccine (surface antigen, inactivated, adjuvanted) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -123,7 +125,7 @@ English (EN) (127.09 KB - PDF)
 
 [View](/en/documents/overview/fluad-tetra-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-505)
+[Other languages (22)](#file-language-dropdown-775)
 
 български (BG) (147.66 KB - PDF)
 
@@ -411,7 +413,7 @@ English (EN) (355.17 KB - PDF)
 
 [View](/en/documents/product-information/fluad-tetra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-160)
+[Other languages (24)](#file-language-dropdown-659)
 
 български (BG) (422.28 KB - PDF)
 
@@ -727,7 +729,7 @@ English (EN) (53.95 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fluad-tetra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-198)
+[Other languages (24)](#file-language-dropdown-167)
 
 български (BG) (96.1 KB - PDF)
 

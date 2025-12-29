@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:58:37
+document_datetime: 2025-12-29 14:33:17
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/foscan.html
 document_name: foscan.html
 version: success
-processing_time: 0.0940689
-conversion_datetime: 2025-12-25 02:09:54.667612
+processing_time: 0.1114246
+conversion_datetime: 2025-12-30 00:49:27.426109
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 temoporfin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +107,7 @@ English (EN) (77.38 KB - PDF)
 
 [View](/en/documents/overview/foscan-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-81)
+[Other languages (22)](#file-language-dropdown-308)
 
 български (BG) (105.34 KB - PDF)
 
@@ -383,7 +385,7 @@ English (EN) (314.17 KB - PDF)
 
 [View](/en/documents/product-information/foscan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-641)
+[Other languages (24)](#file-language-dropdown-19)
 
 български (BG) (587.04 KB - PDF)
 
@@ -699,7 +701,7 @@ English (EN) (87.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/foscan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-455)
+[Other languages (24)](#file-language-dropdown-341)
 
 български (BG) (263.89 KB - PDF)
 

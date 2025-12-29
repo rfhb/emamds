@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:06:49
+document_datetime: 2025-12-29 13:59:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lacosamide-adroiq.html
 document_name: lacosamide-adroiq.html
 version: success
-processing_time: 0.1242521
-conversion_datetime: 2025-12-24 16:35:57.79613
+processing_time: 0.1238298
+conversion_datetime: 2025-12-29 23:07:45.371042
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lacosamide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +106,7 @@ English (EN) (143.42 KB - PDF)
 
 [View](/en/documents/overview/lacosamide-adroiq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-883)
+[Other languages (22)](#file-language-dropdown-8)
 
 български (BG) (166.42 KB - PDF)
 
@@ -302,7 +304,7 @@ English (EN) (586.34 KB - PDF)
 
 [View](/en/documents/product-information/lacosamide-adroiq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-448)
+[Other languages (24)](#file-language-dropdown-395)
 
 български (BG) (423.66 KB - PDF)
 
@@ -618,7 +620,7 @@ English (EN) (36.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lacosamide-adroiq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-574)
+[Other languages (24)](#file-language-dropdown-583)
 
 български (BG) (44.6 KB - PDF)
 
@@ -1009,7 +1011,7 @@ English (EN) (179.56 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/lacosamide-adroiq-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-612)
+[Other languages (24)](#file-language-dropdown-586)
 
 български (BG) (166.07 KB - DOCX)
 

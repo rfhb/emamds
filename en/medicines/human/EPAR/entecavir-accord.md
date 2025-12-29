@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:26:27
+document_datetime: 2025-12-29 13:48:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/entecavir-accord.html
 document_name: entecavir-accord.html
 version: success
-processing_time: 0.1270034
-conversion_datetime: 2025-12-26 10:06:26.721907
+processing_time: 0.129485
+conversion_datetime: 2025-12-30 00:38:27.676052
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 entecavir Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (93.1 KB - PDF)
 
 [View](/en/documents/overview/entecavir-accord-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-71)
+[Other languages (22)](#file-language-dropdown-999)
 
 български (BG) (119.86 KB - PDF)
 
@@ -389,7 +391,7 @@ English (EN) (440.95 KB - PDF)
 
 [View](/en/documents/product-information/entecavir-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-545)
+[Other languages (24)](#file-language-dropdown-725)
 
 български (BG) (546.33 KB - PDF)
 
@@ -705,7 +707,7 @@ English (EN) (16.02 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/entecavir-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-771)
+[Other languages (24)](#file-language-dropdown-890)
 
 български (BG) (36.68 KB - PDF)
 
@@ -1102,7 +1104,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

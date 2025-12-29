@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:19:02
+document_datetime: 2025-12-29 13:35:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/inbrija.html
 document_name: inbrija.html
 version: success
-processing_time: 0.1090173
-conversion_datetime: 2025-12-26 09:56:57.760804
+processing_time: 0.1120262
+conversion_datetime: 2025-12-29 23:42:58.213881
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 levodopa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (105.5 KB - PDF)
 
 [View](/en/documents/overview/inbrija-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-503)
+[Other languages (22)](#file-language-dropdown-981)
 
 български (BG) (133.27 KB - PDF)
 
@@ -306,7 +308,7 @@ English (EN) (459.12 KB - PDF)
 
 [View](/en/documents/product-information/inbrija-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-98)
+[Other languages (24)](#file-language-dropdown-515)
 
 български (BG) (566.75 KB - PDF)
 
@@ -622,7 +624,7 @@ English (EN) (52.86 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/inbrija-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-617)
+[Other languages (24)](#file-language-dropdown-125)
 
 български (BG) (51.74 KB - PDF)
 

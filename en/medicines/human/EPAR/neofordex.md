@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:31:19
+document_datetime: 2025-12-29 14:17:16
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/neofordex.html
 document_name: neofordex.html
 version: success
-processing_time: 0.113153
-conversion_datetime: 2025-12-28 17:56:36.394009
+processing_time: 0.1125392
+conversion_datetime: 2025-12-29 23:17:39.056331
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 dexamethasone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (74.94 KB - PDF)
 
 [View](/en/documents/overview/neofordex-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-84)
+[Other languages (22)](#file-language-dropdown-512)
 
 български (BG) (100.35 KB - PDF)
 
@@ -400,7 +402,7 @@ English (EN) (395.08 KB - PDF)
 
 [View](/en/documents/product-information/neofordex-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-341)
+[Other languages (24)](#file-language-dropdown-872)
 
 български (BG) (474.87 KB - PDF)
 
@@ -716,7 +718,7 @@ English (EN) (17.44 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/neofordex-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-372)
+[Other languages (24)](#file-language-dropdown-259)
 
 български (BG) (40.83 KB - PDF)
 

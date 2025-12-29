@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 08:05:08
+document_datetime: 2025-12-29 07:57:43
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/budesonide-formoterol-teva-pharma-bv.html
 document_name: budesonide-formoterol-teva-pharma-bv.html
 version: success
-processing_time: 0.1160813
-conversion_datetime: 2025-12-24 01:34:09.08147
+processing_time: 0.1085089
+conversion_datetime: 2025-12-29 23:49:15.62822
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-budesonide / formoterol fumarate dihydrate
+budesonide / formoterol fumarate dihydrate Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (218.03 KB - PDF)
 
 [View](/en/documents/overview/budesonideformoterol-teva-pharma-bv-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-579)
+[Other languages (22)](#file-language-dropdown-51)
 
 български (BG) (282.35 KB - PDF)
 
@@ -355,7 +351,7 @@ English (EN) (955.68 KB - PDF)
 
 [View](/en/documents/product-information/budesonideformoterol-teva-pharma-bv-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-400)
+[Other languages (24)](#file-language-dropdown-709)
 
 български (BG) (1.84 MB - PDF)
 
@@ -671,7 +667,7 @@ English (EN) (149.24 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/budesonideformoterol-teva-pharma-bv-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-348)
+[Other languages (24)](#file-language-dropdown-68)
 
 български (BG) (180.09 KB - PDF)
 

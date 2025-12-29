@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 07:05:39
+document_datetime: 2025-12-29 07:51:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/onbevzi.html
 document_name: onbevzi.html
 version: success
-processing_time: 0.1106575
-conversion_datetime: 2025-12-28 09:50:00.128072
+processing_time: 0.1106455
+conversion_datetime: 2025-12-29 23:30:25.570706
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 bevacizumab Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -62,7 +64,7 @@ English (EN) (149.23 KB - PDF)
 
 [View](/en/documents/overview/onbevzi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-443)
+[Other languages (22)](#file-language-dropdown-684)
 
 български (BG) (225.31 KB - PDF)
 
@@ -350,7 +352,7 @@ English (EN) (14.38 MB - PDF)
 
 [View](/en/documents/product-information/onbevzi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-392)
+[Other languages (24)](#file-language-dropdown-642)
 
 български (BG) (5.45 MB - PDF)
 
@@ -666,7 +668,7 @@ English (EN) (48.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/onbevzi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-188)
+[Other languages (24)](#file-language-dropdown-770)
 
 български (BG) (76.5 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:14:22
+document_datetime: 2025-12-29 11:51:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/roctavian.html
 document_name: roctavian.html
 version: success
-processing_time: 0.1101392
-conversion_datetime: 2025-12-24 20:42:52.073104
+processing_time: 0.1071287
+conversion_datetime: 2025-12-29 23:26:11.79001
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 valoctocogene roxaparvovec Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (119.43 KB - PDF)
 
 [View](/en/documents/overview/roctavian-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-704)
+[Other languages (22)](#file-language-dropdown-175)
 
 български (BG) (135.65 KB - PDF)
 
@@ -312,7 +314,7 @@ English (EN) (447.89 KB - PDF)
 
 [View](/en/documents/product-information/roctavian-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-740)
+[Other languages (24)](#file-language-dropdown-794)
 
 български (BG) (579.56 KB - PDF)
 
@@ -626,7 +628,7 @@ English (EN) (40.62 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/roctavian-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-443)
+[Other languages (24)](#file-language-dropdown-221)
 
 български (BG) (90.31 KB - PDF)
 

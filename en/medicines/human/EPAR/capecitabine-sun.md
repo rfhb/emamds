@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:27:48
+document_datetime: 2025-12-29 14:35:01
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/capecitabine-sun.html
 document_name: capecitabine-sun.html
 version: success
-processing_time: 0.1087932
-conversion_datetime: 2025-12-27 09:57:54.984241
+processing_time: 0.108292
+conversion_datetime: 2025-12-30 00:41:13.403365
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 capecitabine Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -68,7 +70,7 @@ English (EN) (222.38 KB - PDF)
 
 [View](/en/documents/overview/capecitabine-sun-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-312)
+[Other languages (22)](#file-language-dropdown-285)
 
 български (BG) (254.08 KB - PDF)
 
@@ -346,7 +348,7 @@ English (EN) (1.41 MB - PDF)
 
 [View](/en/documents/product-information/capecitabine-sun-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-79)
+[Other languages (24)](#file-language-dropdown-60)
 
 български (BG) (866.21 KB - PDF)
 
@@ -662,7 +664,7 @@ English (EN) (140.36 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/capecitabine-sun-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-70)
+[Other languages (24)](#file-language-dropdown-962)
 
 български (BG) (34.63 KB - PDF)
 

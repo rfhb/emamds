@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:07:05
+document_datetime: 2025-12-29 07:04:01
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/relistor.html
 document_name: relistor.html
 version: success
-processing_time: 0.1093338
-conversion_datetime: 2025-12-27 15:32:48.188485
+processing_time: 0.1182694
+conversion_datetime: 2025-12-29 23:00:32.805451
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 methylnaltrexone bromide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (82.86 KB - PDF)
 
 [View](/en/documents/overview/relistor-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-177)
+[Other languages (22)](#file-language-dropdown-236)
 
 български (BG) (109.77 KB - PDF)
 
@@ -388,7 +390,7 @@ English (EN) (984.01 KB - PDF)
 
 [View](/en/documents/product-information/relistor-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-116)
+[Other languages (24)](#file-language-dropdown-159)
 
 български (BG) (1.19 MB - PDF)
 
@@ -704,7 +706,7 @@ English (EN) (26.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/relistor-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-548)
+[Other languages (24)](#file-language-dropdown-540)
 
 български (BG) (52.77 KB - PDF)
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:26:06
+document_datetime: 2025-12-29 14:35:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/paglitaz.html
 document_name: paglitaz.html
 version: success
-processing_time: 0.091537
-conversion_datetime: 2025-12-24 05:59:41.973685
+processing_time: 0.1214809
+conversion_datetime: 2025-12-29 23:31:39.558731
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has lapsed
 
 pioglitazone Medicine Human Lapsed
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -62,7 +64,7 @@ English (EN) (518.6 KB - PDF)
 
 [View](/en/documents/overview/paglitaz-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-930)
+[Other languages (21)](#file-language-dropdown-974)
 
 български (BG) (620.32 KB - PDF)
 
@@ -328,7 +330,7 @@ English (EN) (1.06 MB - PDF)
 
 [View](/en/documents/product-information/paglitaz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-629)
+[Other languages (24)](#file-language-dropdown-869)
 
 български (BG) (2.6 MB - PDF)
 
@@ -644,7 +646,7 @@ English (EN) (486.27 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/paglitaz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-294)
+[Other languages (23)](#file-language-dropdown-875)
 
 български (BG) (557.94 KB - PDF)
 
@@ -932,7 +934,7 @@ English (EN) (469.99 KB - PDF)
 
 [View](/en/documents/conditions-member-states/paglitaz-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-781)
+[Other languages (23)](#file-language-dropdown-54)
 
 български (BG) (583.68 KB - PDF)
 

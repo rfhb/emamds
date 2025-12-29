@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:17:58
+document_datetime: 2025-12-29 07:38:41
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/agenerase.html
 document_name: agenerase.html
 version: success
-processing_time: 0.1073645
-conversion_datetime: 2025-12-24 00:18:15.882632
+processing_time: 0.10029
+conversion_datetime: 2025-12-30 00:01:04.426994
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 amprenavir Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -58,7 +60,7 @@ English (EN) (263.12 KB - PDF)
 
 [View](/en/documents/overview/agenerase-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-763)
+[Other languages (21)](#file-language-dropdown-939)
 
 български (BG) (474.02 KB - PDF)
 
@@ -324,7 +326,7 @@ English (EN) (634.28 KB - PDF)
 
 [View](/en/documents/product-information/agenerase-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-830)
+[Other languages (21)](#file-language-dropdown-742)
 
 български (BG) (4.1 MB - PDF)
 
@@ -604,7 +606,7 @@ English (EN) (271.95 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/agenerase-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-611)
+[Other languages (20)](#file-language-dropdown-227)
 
 български (BG) (307.13 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:13:45
+document_datetime: 2025-12-29 08:53:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nerlynx.html
 document_name: nerlynx.html
 version: success
-processing_time: 0.1116491
-conversion_datetime: 2025-12-27 15:41:30.429132
+processing_time: 0.1136056
+conversion_datetime: 2025-12-30 00:30:04.64503
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 neratinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (76.75 KB - PDF)
 
 [View](/en/documents/overview/nerlynx-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-895)
+[Other languages (22)](#file-language-dropdown-128)
 
 български (BG) (101.72 KB - PDF)
 
@@ -395,7 +397,7 @@ English (EN) (559.71 KB - PDF)
 
 [View](/en/documents/product-information/nerlynx-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-943)
+[Other languages (24)](#file-language-dropdown-572)
 
 български (BG) (622.73 KB - PDF)
 
@@ -711,7 +713,7 @@ English (EN) (17.79 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nerlynx-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-715)
+[Other languages (24)](#file-language-dropdown-13)
 
 български (BG) (39.09 KB - PDF)
 

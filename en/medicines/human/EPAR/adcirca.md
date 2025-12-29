@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 11:44:37
+document_datetime: 2025-12-29 13:19:01
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/adcirca.html
 document_name: adcirca.html
 version: success
-processing_time: 0.1201195
-conversion_datetime: 2025-12-26 17:56:49.514922
+processing_time: 0.1000292
+conversion_datetime: 2025-12-30 00:16:45.110853
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-tadalafil
+tadalafil Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +109,7 @@ English (EN) (150.72 KB - PDF)
 
 [View](/en/documents/overview/adcirca-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-281)
+[Other languages (22)](#file-language-dropdown-204)
 
 български (BG) (167.06 KB - PDF)
 
@@ -399,7 +395,7 @@ English (EN) (1.23 MB - PDF)
 
 [View](/en/documents/product-information/adcirca-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-270)
+[Other languages (24)](#file-language-dropdown-180)
 
 български (BG) (1.34 MB - PDF)
 
@@ -715,7 +711,7 @@ English (EN) (96.89 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/adcirca-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-543)
+[Other languages (24)](#file-language-dropdown-657)
 
 български (BG) (51.05 KB - PDF)
 
@@ -1027,7 +1023,7 @@ EMA product number EMEA/H/C/001021 Marketing authorisation holder
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83 3528 BJ Utrecht Netherlands
+Orteliuslaan 1000 3528 BD Utrecht Netherlands
 
 Opinion adopted 24/07/2008 Marketing authorisation issued 01/10/2008 Revision 18
 

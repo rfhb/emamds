@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:26:30
+document_datetime: 2025-12-29 12:51:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/daptomycin-hospira.html
 document_name: daptomycin-hospira.html
 version: success
-processing_time: 0.1234909
-conversion_datetime: 2025-12-27 14:24:37.798143
+processing_time: 0.1285935
+conversion_datetime: 2025-12-29 23:07:36.754436
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 daptomycin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -125,7 +127,7 @@ English (EN) (276.14 KB - PDF)
 
 [View](/en/documents/product-information/daptomycin-hospira-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-81)
+[Other languages (24)](#file-language-dropdown-825)
 
 български (BG) (318.2 KB - PDF)
 
@@ -441,7 +443,7 @@ English (EN) (27.66 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/daptomycin-hospira-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-252)
+[Other languages (24)](#file-language-dropdown-892)
 
 български (BG) (38.01 KB - PDF)
 
@@ -848,7 +850,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1126,7 +1128,7 @@ English (EN) (157.61 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/daptomycin-hospira-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-175)
+[Other languages (24)](#file-language-dropdown-268)
 
 български (BG) (162.5 KB - DOCX)
 

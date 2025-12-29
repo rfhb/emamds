@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:02:18
+document_datetime: 2025-12-29 08:09:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aclasta.html
 document_name: aclasta.html
 version: success
-processing_time: 0.1370274
-conversion_datetime: 2025-12-27 19:30:23.852029
+processing_time: 0.1322005
+conversion_datetime: 2025-12-29 23:11:43.900117
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 zoledronic acid Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +123,7 @@ English (EN) (85.67 KB - PDF)
 
 [View](/en/documents/overview/aclasta-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-391)
+[Other languages (22)](#file-language-dropdown-15)
 
 български (BG) (116.88 KB - PDF)
 
@@ -407,7 +409,7 @@ English (EN) (508.57 KB - PDF)
 
 [View](/en/documents/product-information/aclasta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-381)
+[Other languages (24)](#file-language-dropdown-276)
 
 български (BG) (667.24 KB - PDF)
 
@@ -723,7 +725,7 @@ English (EN) (60.3 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/aclasta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-913)
+[Other languages (21)](#file-language-dropdown-188)
 
 български (BG) (78.4 KB - PDF)
 
@@ -987,7 +989,7 @@ English (EN) (148.09 KB - PDF)
 
 [View](/en/documents/conditions-member-states/aclasta-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-735)
+[Other languages (23)](#file-language-dropdown-662)
 
 български (BG) (155.14 KB - PDF)
 

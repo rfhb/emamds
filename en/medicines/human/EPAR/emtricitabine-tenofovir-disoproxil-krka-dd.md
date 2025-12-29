@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:39:49
+document_datetime: 2025-12-29 14:20:58
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/emtricitabine-tenofovir-disoproxil-krka-dd.html
 document_name: emtricitabine-tenofovir-disoproxil-krka-dd.html
 version: success
-processing_time: 0.1307716
-conversion_datetime: 2025-12-28 02:51:04.487648
+processing_time: 0.1267247
+conversion_datetime: 2025-12-29 23:30:51.85822
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 emtricitabine / tenofovir disoproxil Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (128.49 KB - PDF)
 
 [View](/en/documents/overview/emtricitabinetenofovir-disoproxil-krka-dd-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-545)
+[Other languages (22)](#file-language-dropdown-731)
 
 български (BG) (118.37 KB - PDF)
 
@@ -384,7 +386,7 @@ English (EN) (307.37 KB - PDF)
 
 [View](/en/documents/product-information/emtricitabine-tenofovir-disoproxil-krka-dd-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-876)
+[Other languages (24)](#file-language-dropdown-681)
 
 български (BG) (356.12 KB - PDF)
 
@@ -700,7 +702,7 @@ English (EN) (36.32 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/emtricitabinetenofovir-disoproxil-krka-dd-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-636)
+[Other languages (24)](#file-language-dropdown-632)
 
 български (BG) (45.78 KB - PDF)
 
@@ -1106,7 +1108,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

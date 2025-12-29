@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:00:26
+document_datetime: 2025-12-29 12:29:45
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/arzerra.html
 document_name: arzerra.html
 version: success
-processing_time: 0.1125
-conversion_datetime: 2025-12-25 00:28:30.806502
+processing_time: 0.1126195
+conversion_datetime: 2025-12-29 21:53:37.32002
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 ofatumumab Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -61,7 +63,7 @@ English (EN) (529.97 KB - PDF)
 
 [View](/en/documents/overview/arzerra-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-237)
+[Other languages (22)](#file-language-dropdown-90)
 
 български (BG) (639.47 KB - PDF)
 
@@ -339,7 +341,7 @@ English (EN) (1.03 MB - PDF)
 
 [View](/en/documents/product-information/arzerra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-594)
+[Other languages (24)](#file-language-dropdown-359)
 
 български (BG) (2.51 MB - PDF)
 
@@ -655,7 +657,7 @@ English (EN) (461.05 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/arzerra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-531)
+[Other languages (24)](#file-language-dropdown-578)
 
 български (BG) (499.43 KB - PDF)
 

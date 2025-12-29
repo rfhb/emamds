@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:12:09
+document_datetime: 2025-12-29 12:16:22
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eksunbi.html
 document_name: eksunbi.html
 version: success
-processing_time: 0.1090492
-conversion_datetime: 2025-12-28 02:17:43.35591
+processing_time: 0.109104
+conversion_datetime: 2025-12-29 23:05:15.07261
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 ustekinumab Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -61,7 +63,7 @@ English (EN) (151.21 KB - PDF)
 
 [View](/en/documents/overview/eksunbi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-136)
+[Other languages (22)](#file-language-dropdown-971)
 
 български (BG) (180.46 KB - PDF)
 
@@ -349,7 +351,7 @@ English (EN) (1.19 MB - PDF)
 
 [View](/en/documents/product-information/eksunbi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-143)
+[Other languages (24)](#file-language-dropdown-809)
 
 български (BG) (1.28 MB - PDF)
 
@@ -665,7 +667,7 @@ English (EN) (84.34 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/eksunbi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-964)
+[Other languages (24)](#file-language-dropdown-683)
 
 български (BG) (92.11 KB - PDF)
 

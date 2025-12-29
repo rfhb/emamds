@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:30:09
+document_datetime: 2025-12-29 07:48:31
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tolvaptan-accord.html
 document_name: tolvaptan-accord.html
 version: success
-processing_time: 0.1030761
-conversion_datetime: 2025-12-27 22:14:06.998278
+processing_time: 0.101529
+conversion_datetime: 2025-12-30 00:40:23.581543
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tolvaptan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -101,7 +103,7 @@ English (EN) (114.64 KB - PDF)
 
 [View](/en/documents/overview/tolvaptan-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-927)
+[Other languages (22)](#file-language-dropdown-120)
 
 български (BG) (126.54 KB - PDF)
 
@@ -297,7 +299,7 @@ English (EN) (436.55 KB - PDF)
 
 [View](/en/documents/product-information/tolvaptan-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-210)
+[Other languages (24)](#file-language-dropdown-457)
 
 български (BG) (534.14 KB - PDF)
 
@@ -515,7 +517,7 @@ English (EN) (97.93 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tolvaptan-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-686)
+[Other languages (24)](#file-language-dropdown-464)
 
 български (BG) (107.06 KB - PDF)
 

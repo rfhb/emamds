@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:53:32
+document_datetime: 2025-12-29 11:28:14
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/advagraf.html
 document_name: advagraf.html
 version: success
-processing_time: 0.1107998
-conversion_datetime: 2025-12-27 21:18:46.062328
+processing_time: 0.1116193
+conversion_datetime: 2025-12-30 00:42:05.859132
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tacrolimus Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (190.58 KB - PDF)
 
 [View](/en/documents/overview/advagraf-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-20)
+[Other languages (21)](#file-language-dropdown-351)
 
 български (BG) (176.08 KB - PDF)
 
@@ -391,7 +393,7 @@ English (EN) (399.7 KB - PDF)
 
 [View](/en/documents/product-information/advagraf-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-4)
+[Other languages (24)](#file-language-dropdown-697)
 
 български (BG) (3.79 MB - PDF)
 
@@ -707,7 +709,7 @@ English (EN) (32.33 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/advagraf-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-84)
+[Other languages (22)](#file-language-dropdown-150)
 
 български (BG) (119.95 KB - PDF)
 

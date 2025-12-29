@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:55:09
+document_datetime: 2025-12-29 08:35:41
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aptivus.html
 document_name: aptivus.html
 version: success
-processing_time: 0.1197359
-conversion_datetime: 2025-12-26 12:46:07.514458
+processing_time: 0.1169477
+conversion_datetime: 2025-12-29 23:41:34.874884
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tipranavir Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -124,7 +126,7 @@ English (EN) (78.47 KB - PDF)
 
 [View](/en/documents/overview/aptivus-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-434)
+[Other languages (22)](#file-language-dropdown-489)
 
 български (BG) (109.85 KB - PDF)
 
@@ -402,7 +404,7 @@ English (EN) (396.87 KB - PDF)
 
 [View](/en/documents/product-information/aptivus-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-73)
+[Other languages (24)](#file-language-dropdown-515)
 
 български (BG) (376.23 KB - PDF)
 
@@ -718,7 +720,7 @@ English (EN) (23.14 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/aptivus-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-329)
+[Other languages (24)](#file-language-dropdown-675)
 
 български (BG) (24.85 KB - PDF)
 

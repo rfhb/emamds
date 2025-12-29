@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:10:11
+document_datetime: 2025-12-29 14:31:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/leflunomide-zentiva.html
 document_name: leflunomide-zentiva.html
 version: success
-processing_time: 0.114892
-conversion_datetime: 2025-12-27 20:03:41.669676
+processing_time: 0.1102016
+conversion_datetime: 2025-12-30 00:38:45.19696
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 leflunomide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -128,7 +130,7 @@ English (EN) (85.76 KB - PDF)
 
 [View](/en/documents/overview/leflunomide-zentiva-previously-leflunomide-winthrop-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-859)
+[Other languages (22)](#file-language-dropdown-347)
 
 български (BG) (115.52 KB - PDF)
 
@@ -414,7 +416,7 @@ English (EN) (773.7 KB - PDF)
 
 [View](/en/documents/product-information/leflunomide-zentiva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-544)
+[Other languages (24)](#file-language-dropdown-797)
 
 български (BG) (1.19 MB - PDF)
 
@@ -730,7 +732,7 @@ English (EN) (20.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/leflunomide-zentiva-previously-leflunomide-winthrop-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-219)
+[Other languages (24)](#file-language-dropdown-940)
 
 български (BG) (61.61 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:16:17
+document_datetime: 2025-12-29 12:35:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/albrioza.html
 document_name: albrioza.html
 version: success
-processing_time: 0.0666
-conversion_datetime: 2025-12-24 15:48:47.924607
+processing_time: 0.0665793
+conversion_datetime: 2025-12-29 23:34:43.494733
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine has been refused authorisation
 
 sodium phenylbutyrate / ursodoxicoltaurine Medicine Human Refused
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -89,7 +91,7 @@ English (EN) (106.8 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-answers-refusal-marketing-authorisation-albrioza-sodium-phenylbutyrate-ursodoxicoltaurine_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-496)
+[Other languages (22)](#file-language-dropdown-636)
 
 български (BG) (130.92 KB - PDF)
 

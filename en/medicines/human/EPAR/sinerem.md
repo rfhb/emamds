@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:03:52
+document_datetime: 2025-12-29 14:26:14
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sinerem.html
 document_name: sinerem.html
 version: success
-processing_time: 0.0638286
-conversion_datetime: 2025-12-27 16:58:52.827536
+processing_time: 0.0698952
+conversion_datetime: 2025-12-30 00:22:02.725043
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-iron oxide
+iron oxide Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +107,7 @@ English (EN) (39.17 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-application-sinerem_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-168)
+[Other languages (21)](#file-language-dropdown-384)
 
 български (BG) (150.37 KB - PDF)
 

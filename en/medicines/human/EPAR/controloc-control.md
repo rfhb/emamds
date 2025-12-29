@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:09:23
+document_datetime: 2025-12-29 13:00:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/controloc-control.html
 document_name: controloc-control.html
 version: success
-processing_time: 0.1249971
-conversion_datetime: 2025-12-24 14:33:52.714852
+processing_time: 0.3021281
+conversion_datetime: 2025-12-29 23:11:09.00494
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pantoprazole Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (75.3 KB - PDF)
 
 [View](/en/documents/overview/controloc-control-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-709)
+[Other languages (21)](#file-language-dropdown-378)
 
 български (BG) (126.49 KB - PDF)
 
@@ -373,7 +375,7 @@ English (EN) (370.49 KB - PDF)
 
 [View](/en/documents/product-information/controloc-control-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-779)
+[Other languages (24)](#file-language-dropdown-276)
 
 български (BG) (477.54 KB - PDF)
 
@@ -689,7 +691,7 @@ English (EN) (12.18 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/controloc-control-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-812)
+[Other languages (24)](#file-language-dropdown-423)
 
 български (BG) (80.95 KB - PDF)
 
@@ -1043,7 +1045,7 @@ English (EN) (254.1 KB - PDF)
 
 [View](/en/documents/assessment-report/controloc-control-epar-public-assessment-report_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-166)
+[Other languages (21)](#file-language-dropdown-287)
 
 български (BG) (511.99 KB - PDF)
 

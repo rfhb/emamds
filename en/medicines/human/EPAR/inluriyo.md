@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:22:10
+document_datetime: 2025-12-29 09:53:22
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/inluriyo.html
 document_name: inluriyo.html
 version: success
-processing_time: 0.040931
-conversion_datetime: 2025-12-24 20:55:14.480473
+processing_time: 0.0415987
+conversion_datetime: 2025-12-30 00:01:56.434062
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 EMA has issued an opinion on this medicine
 
 imlunestrant Medicine Human Opinion
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

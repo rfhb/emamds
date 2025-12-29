@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:12:52
+document_datetime: 2025-12-29 11:49:25
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bimervax.html
 document_name: bimervax.html
 version: success
-processing_time: 0.1221215
-conversion_datetime: 2025-12-27 15:30:16.542532
+processing_time: 0.1203694
+conversion_datetime: 2025-12-29 22:39:35.032974
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 COVID-19 Vaccine (recombinant, adjuvanted) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -193,7 +195,7 @@ English (EN) (148.15 KB - PDF)
 
 [View](/en/documents/overview/bimervax-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-311)
+[Other languages (22)](#file-language-dropdown-714)
 
 български (BG) (186.97 KB - PDF)
 
@@ -481,7 +483,7 @@ English (EN) (936.13 KB - PDF)
 
 [View](/en/documents/product-information/bimervax-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-350)
+[Other languages (23)](#file-language-dropdown-47)
 
 български (BG) (1.04 MB - PDF)
 
@@ -785,7 +787,7 @@ English (EN) (110.47 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-591)
+[Other languages (24)](#file-language-dropdown-217)
 
 български (BG) (129.32 KB - PDF)
 

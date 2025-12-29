@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:36:28
+document_datetime: 2025-12-29 07:06:27
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/prandin.html
 document_name: prandin.html
 version: success
-processing_time: 0.0887748
-conversion_datetime: 2025-12-29 20:32:44.320092
+processing_time: 0.0929531
+conversion_datetime: 2025-12-29 23:49:06.840648
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

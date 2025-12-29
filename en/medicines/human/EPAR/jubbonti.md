@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:14:45
+document_datetime: 2025-12-29 11:34:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jubbonti.html
 document_name: jubbonti.html
 version: success
-processing_time: 0.1234153
-conversion_datetime: 2025-12-27 13:13:32.336094
+processing_time: 0.1212404
+conversion_datetime: 2025-12-29 23:55:22.680505
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 denosumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (136.09 KB - PDF)
 
 [View](/en/documents/overview/jubbonti-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-892)
+[Other languages (22)](#file-language-dropdown-312)
 
 български (BG) (160.91 KB - PDF)
 
@@ -310,7 +312,7 @@ English (EN) (3.17 MB - PDF)
 
 [View](/en/documents/product-information/jubbonti-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-510)
+[Other languages (24)](#file-language-dropdown-79)
 
 български (BG) (3.73 MB - PDF)
 
@@ -626,7 +628,7 @@ English (EN) (32.59 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/jubbonti-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-426)
+[Other languages (24)](#file-language-dropdown-692)
 
 български (BG) (559.96 KB - PDF)
 
@@ -1032,7 +1034,7 @@ English (EN) (566.57 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/jubbonti-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-324)
+[Other languages (24)](#file-language-dropdown-181)
 
 български (BG) (600.13 KB - DOCX)
 

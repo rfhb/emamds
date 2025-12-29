@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:28:21
+document_datetime: 2025-12-29 13:45:45
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/revestive.html
 document_name: revestive.html
 version: success
-processing_time: 0.287996
-conversion_datetime: 2025-12-29 20:23:43.530203
+processing_time: 0.1461488
+conversion_datetime: 2025-12-30 00:46:19.101825
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 teduglutide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -145,7 +147,7 @@ English (EN) (118.25 KB - PDF)
 
 [View](/en/documents/overview/revestive-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-767)
+[Other languages (21)](#file-language-dropdown-134)
 
 български (BG) (142.71 KB - PDF)
 
@@ -421,7 +423,7 @@ English (EN) (700.8 KB - PDF)
 
 [View](/en/documents/product-information/revestive-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-94)
+[Other languages (24)](#file-language-dropdown-266)
 
 български (BG) (821.86 KB - PDF)
 
@@ -737,7 +739,7 @@ English (EN) (58.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/revestive-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-468)
+[Other languages (24)](#file-language-dropdown-178)
 
 български (BG) (66.52 KB - PDF)
 
@@ -1295,7 +1297,7 @@ English (EN) (501.47 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/revestive-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-692)
+[Other languages (24)](#file-language-dropdown-288)
 
 български (BG) (535.43 KB - DOCX)
 

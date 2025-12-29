@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:16:00
+document_datetime: 2025-12-29 11:22:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nustendi.html
 document_name: nustendi.html
 version: success
-processing_time: 0.1165794
-conversion_datetime: 2025-12-26 12:08:59.879322
+processing_time: 0.1146198
+conversion_datetime: 2025-12-29 23:33:24.424979
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bempedoic acid / ezetimibe Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -404,7 +406,7 @@ English (EN) (1.2 MB - PDF)
 
 [View](/en/documents/product-information/nustendi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-830)
+[Other languages (24)](#file-language-dropdown-821)
 
 български (BG) (799.64 KB - PDF)
 
@@ -720,7 +722,7 @@ English (EN) (43.27 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nustendi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-475)
+[Other languages (24)](#file-language-dropdown-681)
 
 български (BG) (53.26 KB - PDF)
 

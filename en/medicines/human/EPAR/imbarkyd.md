@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:59:59
+document_datetime: 2025-12-29 08:16:41
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imbarkyd.html
 document_name: imbarkyd.html
 version: success
-processing_time: 0.0691823
-conversion_datetime: 2025-12-28 09:53:37.329688
+processing_time: 0.0706013
+conversion_datetime: 2025-12-29 23:17:30.30229
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 bardoxolone methyl Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -100,7 +102,7 @@ English (EN) (134.72 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-imbarkyd-bardoxolone_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-241)
+[Other languages (22)](#file-language-dropdown-287)
 
 български (BG) (157.32 KB - PDF)
 

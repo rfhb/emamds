@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:12:00
+document_datetime: 2025-12-29 12:09:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hyrimoz.html
 document_name: hyrimoz.html
 version: success
-processing_time: 0.1005206
-conversion_datetime: 2025-12-27 20:06:04.072157
+processing_time: 0.1022837
+conversion_datetime: 2025-12-29 23:59:36.725872
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 adalimumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -149,7 +151,7 @@ English (EN) (11.16 MB - PDF)
 
 [View](/en/documents/product-information/hyrimoz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-205)
+[Other languages (24)](#file-language-dropdown-656)
 
 български (BG) (4.08 MB - PDF)
 
@@ -465,7 +467,7 @@ English (EN) (82.63 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/hyrimoz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-356)
+[Other languages (23)](#file-language-dropdown-179)
 
 български (BG) (92.86 KB - PDF)
 

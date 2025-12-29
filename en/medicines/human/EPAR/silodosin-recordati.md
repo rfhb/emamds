@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:59:14
+document_datetime: 2025-12-29 12:06:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/silodosin-recordati.html
 document_name: silodosin-recordati.html
 version: success
-processing_time: 0.1288917
-conversion_datetime: 2025-12-24 15:27:04.667064
+processing_time: 0.1218523
+conversion_datetime: 2025-12-30 00:46:36.83966
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 silodosin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -97,7 +99,7 @@ English (EN) (72.84 KB - PDF)
 
 [View](/en/documents/overview/silodosin-recordati-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-375)
+[Other languages (22)](#file-language-dropdown-678)
 
 български (BG) (100.77 KB - PDF)
 
@@ -295,7 +297,7 @@ English (EN) (412.87 KB - PDF)
 
 [View](/en/documents/product-information/silodosin-recordati-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-510)
+[Other languages (24)](#file-language-dropdown-784)
 
 български (BG) (507.08 KB - PDF)
 
@@ -609,7 +611,7 @@ English (EN) (19.67 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/silodosin-recordati-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-543)
+[Other languages (24)](#file-language-dropdown-597)
 
 български (BG) (68.34 KB - PDF)
 
@@ -894,7 +896,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

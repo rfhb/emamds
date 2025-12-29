@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:03:31
+document_datetime: 2025-12-29 14:12:05
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tecfidera.html
 document_name: tecfidera.html
 version: success
-processing_time: 0.1125836
-conversion_datetime: 2025-12-26 12:48:27.871441
+processing_time: 0.119703
+conversion_datetime: 2025-12-29 23:07:54.255328
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 dimethyl fumarate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (112.97 KB - PDF)
 
 [View](/en/documents/overview/tecfidera-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-888)
+[Other languages (22)](#file-language-dropdown-318)
 
 български (BG) (136.55 KB - PDF)
 
@@ -396,7 +398,7 @@ English (EN) (155.23 KB - PDF)
 
 [View](/en/documents/product-information/tecfidera-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-99)
+[Other languages (24)](#file-language-dropdown-561)
 
 български (BG) (292.15 KB - PDF)
 
@@ -712,7 +714,7 @@ English (EN) (24.97 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tecfidera-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-469)
+[Other languages (24)](#file-language-dropdown-476)
 
 български (BG) (26.85 KB - PDF)
 

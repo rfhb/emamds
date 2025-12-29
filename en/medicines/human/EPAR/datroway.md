@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 13:20:36
+document_datetime: 2025-12-29 11:23:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/datroway.html
 document_name: datroway.html
 version: success
-processing_time: 0.1073223
-conversion_datetime: 2025-12-28 18:30:16.044344
+processing_time: 0.1053241
+conversion_datetime: 2025-12-30 00:00:19.789326
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -108,7 +108,7 @@ English (EN) (143.64 KB - PDF)
 
 [View](/en/documents/overview/datroway-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-97)
+[Other languages (22)](#file-language-dropdown-168)
 
 български (BG) (158.94 KB - PDF)
 
@@ -306,7 +306,7 @@ English (EN) (359.8 KB - PDF)
 
 [View](/en/documents/product-information/datroway-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-52)
+[Other languages (23)](#file-language-dropdown-178)
 
 български (BG) (513.46 KB - PDF)
 
@@ -608,7 +608,7 @@ English (EN) (11.37 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/datroway-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-570)
+[Other languages (24)](#file-language-dropdown-756)
 
 български (BG) (43.82 KB - PDF)
 

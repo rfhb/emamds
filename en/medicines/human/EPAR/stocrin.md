@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:04:20
+document_datetime: 2025-12-29 07:36:37
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/stocrin.html
 document_name: stocrin.html
 version: success
-processing_time: 0.1134362
-conversion_datetime: 2025-12-28 09:22:32.82105
+processing_time: 0.114314
+conversion_datetime: 2025-12-29 23:33:41.827356
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-efavirenz
+efavirenz Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +112,7 @@ English (EN) (83.19 KB - PDF)
 
 [View](/en/documents/overview/stocrin-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-435)
+[Other languages (22)](#file-language-dropdown-907)
 
 български (BG) (112.06 KB - PDF)
 
@@ -402,7 +398,7 @@ English (EN) (1.21 MB - PDF)
 
 [View](/en/documents/product-information/stocrin-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-790)
+[Other languages (24)](#file-language-dropdown-112)
 
 български (BG) (1.08 MB - PDF)
 
@@ -718,7 +714,7 @@ English (EN) (57.6 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/stocrin-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-700)
+[Other languages (24)](#file-language-dropdown-805)
 
 български (BG) (82.38 KB - PDF)
 

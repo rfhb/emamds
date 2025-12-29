@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:03:59
+document_datetime: 2025-12-29 14:34:30
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fablyn.html
 document_name: fablyn.html
 version: success
-processing_time: 0.1135597
-conversion_datetime: 2025-12-29 22:01:48.507296
+processing_time: 0.1201069
+conversion_datetime: 2025-12-30 00:25:32.73809
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

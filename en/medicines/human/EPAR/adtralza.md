@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:15:23
+document_datetime: 2025-12-29 11:35:57
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/adtralza.html
 document_name: adtralza.html
 version: success
-processing_time: 0.1132223
-conversion_datetime: 2025-12-23 21:21:12.221131
+processing_time: 0.1153955
+conversion_datetime: 2025-12-29 23:06:16.416341
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tralokinumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +106,7 @@ English (EN) (111.49 KB - PDF)
 
 [View](/en/documents/overview/adtralza-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-84)
+[Other languages (22)](#file-language-dropdown-88)
 
 български (BG) (136.59 KB - PDF)
 
@@ -390,7 +392,7 @@ English (EN) (1.24 MB - PDF)
 
 [View](/en/documents/product-information/adtralza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-13)
+[Other languages (24)](#file-language-dropdown-724)
 
 български (BG) (1.27 MB - PDF)
 
@@ -706,7 +708,7 @@ English (EN) (66.95 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/adtralza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-22)
+[Other languages (24)](#file-language-dropdown-832)
 
 български (BG) (64.13 KB - PDF)
 
@@ -1118,10 +1120,11 @@ English (EN) (125.02 KB - PDF)
 
 #### More information on Adtralza
 
-- [EMEA-001900-PIP02-17-M08 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001900-pip02-17-m08)
+- [EMA/PE/0000183430 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000183430)
+- [Atopic Dermatitis - Treatment Response EVALuation and UsEr Satisfaction with Tralokinumab in Standard Clinical Practice (ADValue) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000872)
+- [Tralokinumab real world clinical use: An observational cohort study of atopic dermatitis patients prescribed tralokinumab (TRACE) - post-authorisation study](https://catalogues.ema.europa.eu/study/45677)
 - [Post-authorisation Safety Study of Tralokinumab Use in Pregnancy: An Observational Study Based on Electronic Healthcare Data - post-authorisation study](https://catalogues.ema.europa.eu/study/104924)
 - [Spanish Registry of Atopic Dermatitis (BIOBADATOP) - post-authorisation study](https://catalogues.ema.europa.eu/study/31712)
-- [Tralokinumab real world clinical use: An observational cohort study of atopic dermatitis patients prescribed tralokinumab (TRACE) - post-authorisation study](https://catalogues.ema.europa.eu/study/45677)
 
 **This page was last updated on** 27/10/2025
 

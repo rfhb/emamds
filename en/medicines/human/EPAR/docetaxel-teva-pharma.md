@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 08:05:12
+document_datetime: 2025-12-29 10:21:34
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/docetaxel-teva-pharma.html
 document_name: docetaxel-teva-pharma.html
 version: success
-processing_time: 0.0961472
-conversion_datetime: 2025-12-23 20:57:59.305415
+processing_time: 0.1042948
+conversion_datetime: 2025-12-29 23:53:39.112995
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has lapsed
 
-docetaxel
+docetaxel Medicine Human Lapsed
 
-Medicine
-
-Human
-
-Lapsed
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (219.53 KB - PDF)
 
 [View](/en/documents/overview/docetaxel-teva-pharma-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-663)
+[Other languages (21)](#file-language-dropdown-603)
 
 български (BG) (318.47 KB - PDF)
 
@@ -332,7 +328,7 @@ English (EN) (886.4 KB - PDF)
 
 [View](/en/documents/product-information/docetaxel-teva-pharma-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-634)
+[Other languages (23)](#file-language-dropdown-918)
 
 български (BG) (3.94 MB - PDF)
 
@@ -636,7 +632,7 @@ English (EN) (162.12 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/docetaxel-teva-pharma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-942)
+[Other languages (23)](#file-language-dropdown-99)
 
 български (BG) (169.26 KB - PDF)
 

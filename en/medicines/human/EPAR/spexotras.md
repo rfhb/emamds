@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:29:29
+document_datetime: 2025-12-29 10:59:31
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/spexotras.html
 document_name: spexotras.html
 version: success
-processing_time: 0.1104423
-conversion_datetime: 2025-12-26 19:52:14.54006
+processing_time: 0.1004345
+conversion_datetime: 2025-12-30 00:23:43.206369
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 trametinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (139.03 KB - PDF)
 
 [View](/en/documents/overview/spexotras-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-997)
+[Other languages (22)](#file-language-dropdown-9)
 
 български (BG) (151.15 KB - PDF)
 
@@ -310,7 +312,7 @@ English (EN) (807.56 KB - PDF)
 
 [View](/en/documents/product-information/spexotras-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-684)
+[Other languages (24)](#file-language-dropdown-871)
 
 български (BG) (939.07 KB - PDF)
 
@@ -624,7 +626,7 @@ English (EN) (66.69 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/spexotras-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-65)
+[Other languages (24)](#file-language-dropdown-168)
 
 български (BG) (73.37 KB - PDF)
 

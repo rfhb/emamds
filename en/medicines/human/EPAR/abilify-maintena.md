@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:32
+document_datetime: 2025-12-29 11:44:02
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/abilify-maintena.html
 document_name: abilify-maintena.html
 version: success
-processing_time: 0.1314306
-conversion_datetime: 2025-12-27 22:17:40.336048
+processing_time: 0.1305826
+conversion_datetime: 2025-12-29 23:25:27.7524
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 aripiprazole Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -99,7 +101,7 @@ English (EN) (129.85 KB - PDF)
 
 [View](/en/documents/overview/abilify-maintena-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-399)
+[Other languages (22)](#file-language-dropdown-729)
 
 български (BG) (142.72 KB - PDF)
 
@@ -387,9 +389,9 @@ English (EN) (1.28 MB - PDF)
 
 [View](/en/documents/product-information/abilify-maintena-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-854)
+[Other languages (24)](#file-language-dropdown-315)
 
-български (BG) (2.33 MB - PDF)
+български (BG) (1.65 MB - PDF)
 
 **First published:**
 
@@ -397,7 +399,7 @@ English (EN) (1.28 MB - PDF)
 
 **Last updated:**
 
-28/10/2025
+18/12/2025
 
 [View](/bg/documents/product-information/abilify-maintena-epar-product-information_bg.pdf)
 
@@ -703,7 +705,7 @@ English (EN) (41.17 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/abilify-maintena-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-448)
+[Other languages (24)](#file-language-dropdown-2)
 
 български (BG) (65.96 KB - PDF)
 
@@ -1121,13 +1123,17 @@ English (EN) (1.3 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/abilify-maintena-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-864)
+[Other languages (24)](#file-language-dropdown-620)
 
 български (BG) (1.21 MB - DOCX)
 
 **First published:**
 
 28/10/2025
+
+**Last updated:**
+
+18/12/2025
 
 [View](/bg/documents/product-information-tracked-changes/abilify-maintena-epar-product-information-tracked-changes_bg.docx)
 

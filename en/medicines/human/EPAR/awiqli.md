@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:03:06
+document_datetime: 2025-12-29 10:23:35
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/awiqli.html
 document_name: awiqli.html
 version: success
-processing_time: 0.1171268
-conversion_datetime: 2025-12-25 10:28:21.782712
+processing_time: 0.1202731
+conversion_datetime: 2025-12-29 23:02:28.353943
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin icodec Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (121.91 KB - PDF)
 
 [View](/en/documents/overview/awiqli-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-859)
+[Other languages (22)](#file-language-dropdown-975)
 
 български (BG) (136.51 KB - PDF)
 
@@ -312,7 +314,7 @@ English (EN) (504.41 KB - PDF)
 
 [View](/en/documents/product-information/awiqli-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-736)
+[Other languages (24)](#file-language-dropdown-542)
 
 български (BG) (761.14 KB - PDF)
 
@@ -626,7 +628,7 @@ English (EN) (27.52 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/awiqli-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-749)
+[Other languages (24)](#file-language-dropdown-559)
 
 български (BG) (61.11 KB - PDF)
 
@@ -905,7 +907,7 @@ English (EN) (208.82 KB - PDF)
 
 [View](/en/documents/medication-error/awiqli-measures-intended-reduce-risk-confusion-dosing-requirements_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-721)
+[Other languages (22)](#file-language-dropdown-151)
 
 български (BG) (223.11 KB - PDF)
 

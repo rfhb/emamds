@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:11:40
+document_datetime: 2025-12-29 12:16:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fortacin.html
 document_name: fortacin.html
 version: success
-processing_time: 0.091506
-conversion_datetime: 2025-12-23 21:02:45.8629
+processing_time: 0.0913136
+conversion_datetime: 2025-12-30 00:23:34.369428
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lidocaine / prilocaine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (911.09 KB - PDF)
 
 [View](/en/documents/product-information/fortacin-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-758)
+[Other languages (24)](#file-language-dropdown-577)
 
 български (BG) (945.27 KB - PDF)
 
@@ -434,7 +436,7 @@ English (EN) (17.59 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fortacin-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-875)
+[Other languages (24)](#file-language-dropdown-605)
 
 български (BG) (49.48 KB - PDF)
 

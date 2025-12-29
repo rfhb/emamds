@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:03:49
+document_datetime: 2025-12-29 07:56:24
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/uprima.html
 document_name: uprima.html
 version: success
-processing_time: 0.0414865
-conversion_datetime: 2025-12-24 20:58:34.61092
+processing_time: 0.0419274
+conversion_datetime: 2025-12-29 23:42:31.929862
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-apomorphine
+apomorphine Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:55:02
+document_datetime: 2025-12-29 08:00:31
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/saxenda.html
 document_name: saxenda.html
 version: success
-processing_time: 0.1394804
-conversion_datetime: 2025-12-25 07:32:04.469886
+processing_time: 0.1462748
+conversion_datetime: 2025-12-29 23:56:17.61451
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 liraglutide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -123,7 +125,7 @@ English (EN) (143.66 KB - PDF)
 
 [View](/en/documents/overview/saxenda-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-656)
+[Other languages (22)](#file-language-dropdown-750)
 
 български (BG) (160.39 KB - PDF)
 
@@ -411,7 +413,7 @@ English (EN) (537.72 KB - PDF)
 
 [View](/en/documents/product-information/saxenda-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-609)
+[Other languages (24)](#file-language-dropdown-875)
 
 български (BG) (736.67 KB - PDF)
 
@@ -727,7 +729,7 @@ English (EN) (18.9 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/saxenda-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-853)
+[Other languages (24)](#file-language-dropdown-205)
 
 български (BG) (40.26 KB - PDF)
 
@@ -1257,7 +1259,7 @@ English (EN) (1.77 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/saxenda-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-128)
+[Other languages (24)](#file-language-dropdown-233)
 
 български (BG) (1.51 MB - DOCX)
 

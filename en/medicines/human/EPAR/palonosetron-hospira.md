@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:42:07
+document_datetime: 2025-12-29 07:50:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/palonosetron-hospira.html
 document_name: palonosetron-hospira.html
 version: success
-processing_time: 0.0999069
-conversion_datetime: 2025-12-28 15:31:46.138597
+processing_time: 0.1071356
+conversion_datetime: 2025-12-29 23:15:33.978376
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 palonosetron Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -62,7 +64,7 @@ English (EN) (645.71 KB - PDF)
 
 [View](/en/documents/overview/palonosetron-hospira-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-751)
+[Other languages (22)](#file-language-dropdown-144)
 
 български (BG) (714.67 KB - PDF)
 
@@ -340,7 +342,7 @@ English (EN) (781.25 KB - PDF)
 
 [View](/en/documents/product-information/palonosetron-hospira-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-943)
+[Other languages (24)](#file-language-dropdown-792)
 
 български (BG) (225.56 KB - PDF)
 
@@ -656,7 +658,7 @@ English (EN) (577.95 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/palonosetron-hospira-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-381)
+[Other languages (22)](#file-language-dropdown-167)
 
 български (BG) (640.77 KB - PDF)
 

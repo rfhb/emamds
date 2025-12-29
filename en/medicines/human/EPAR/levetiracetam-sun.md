@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:11:33
+document_datetime: 2025-12-29 14:35:01
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/levetiracetam-sun.html
 document_name: levetiracetam-sun.html
 version: success
-processing_time: 0.1254029
-conversion_datetime: 2025-12-25 05:19:18.403294
+processing_time: 0.1260877
+conversion_datetime: 2025-12-29 23:20:02.977901
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 levetiracetam Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +116,7 @@ English (EN) (140.02 KB - PDF)
 
 [View](/en/documents/overview/levetiracetam-sun-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-900)
+[Other languages (22)](#file-language-dropdown-315)
 
 български (BG) (174.07 KB - PDF)
 
@@ -392,7 +394,7 @@ English (EN) (281.61 KB - PDF)
 
 [View](/en/documents/product-information/levetiracetam-sun-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-607)
+[Other languages (24)](#file-language-dropdown-111)
 
 български (BG) (405.16 KB - PDF)
 
@@ -708,7 +710,7 @@ English (EN) (20.48 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/levetiracetam-sun-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-303)
+[Other languages (23)](#file-language-dropdown-701)
 
 български (BG) (46.91 KB - PDF)
 
@@ -1094,7 +1096,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

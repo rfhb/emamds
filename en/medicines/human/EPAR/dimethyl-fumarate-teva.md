@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:14:15
+document_datetime: 2025-12-29 13:06:12
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dimethyl-fumarate-teva.html
 document_name: dimethyl-fumarate-teva.html
 version: success
-processing_time: 0.106414
-conversion_datetime: 2025-12-23 21:17:42.538048
+processing_time: 0.3125408
+conversion_datetime: 2025-12-29 23:04:22.118288
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been revoked
 
 dimethyl fumarate Medicine Human Revoked
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -63,7 +65,7 @@ English (EN) (213.27 KB - PDF)
 
 [View](/en/documents/overview/dimethyl-fumarate-teva-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-695)
+[Other languages (22)](#file-language-dropdown-294)
 
 български (BG) (264.07 KB - PDF)
 
@@ -351,7 +353,7 @@ English (EN) (2.03 MB - PDF)
 
 [View](/en/documents/product-information/dimethyl-fumarate-teva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-790)
+[Other languages (24)](#file-language-dropdown-361)
 
 български (BG) (2.34 MB - PDF)
 
@@ -667,7 +669,7 @@ English (EN) (82.56 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/dimethyl-fumarate-teva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-514)
+[Other languages (24)](#file-language-dropdown-258)
 
 български (BG) (156.36 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 11:37:38
+document_datetime: 2025-12-29 07:42:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/insulin-lispro-sanofi.html
 document_name: insulin-lispro-sanofi.html
 version: success
-processing_time: 0.1124565
-conversion_datetime: 2025-12-28 18:50:39.273529
+processing_time: 0.1118578
+conversion_datetime: 2025-12-29 23:04:48.892472
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-insulin lispro
+insulin lispro Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -43,6 +39,7 @@ Page contents
 - [Assessment history](#assessment-history)
 - [News on Insulin lispro Sanofi](#news-on)
 - [Related content](#related-content-827)
+- [More information on Insulin lispro Sanofi](#related-medicines)
 - [Topics](#topics)
 
 - Application under evaluation
@@ -117,7 +114,7 @@ English (EN) (76.56 KB - PDF)
 
 [View](/en/documents/overview/insulin-lispro-sanofi-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-498)
+[Other languages (22)](#file-language-dropdown-440)
 
 български (BG) (99.28 KB - PDF)
 
@@ -403,7 +400,7 @@ English (EN) (828.89 KB - PDF)
 
 [View](/en/documents/product-information/insulin-lispro-sanofi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-957)
+[Other languages (24)](#file-language-dropdown-10)
 
 български (BG) (1.15 MB - PDF)
 
@@ -719,7 +716,7 @@ English (EN) (22.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/insulin-lispro-sanofi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-525)
+[Other languages (24)](#file-language-dropdown-846)
 
 български (BG) (63.59 KB - PDF)
 
@@ -1092,6 +1089,10 @@ English (EN) (68.54 KB - PDF)
 #### Related content
 
 - [Biosimilar medicines](/en/human-regulatory/overview/biosimilar-medicines)
+
+#### More information on Insulin lispro Sanofi
+
+- [Insulin lispro Sanofi - supply shortage](/en/medicines/human/shortages/insulin-lispro-sanofi)
 
 #### Topics
 

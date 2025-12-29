@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:31:18
+document_datetime: 2025-12-29 14:35:30
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/olysio.html
 document_name: olysio.html
 version: success
-processing_time: 0.1190557
-conversion_datetime: 2025-12-26 16:50:34.568059
+processing_time: 0.1253538
+conversion_datetime: 2025-12-30 00:07:06.012342
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 simeprevir Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -60,7 +62,7 @@ English (EN) (548.55 KB - PDF)
 
 [View](/en/documents/overview/olysio-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-226)
+[Other languages (22)](#file-language-dropdown-697)
 
 български (BG) (631.17 KB - PDF)
 
@@ -348,7 +350,7 @@ English (EN) (1.15 MB - PDF)
 
 [View](/en/documents/product-information/olysio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-719)
+[Other languages (24)](#file-language-dropdown-257)
 
 български (BG) (2.23 MB - PDF)
 
@@ -664,7 +666,7 @@ English (EN) (473.45 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/olysio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-799)
+[Other languages (24)](#file-language-dropdown-84)
 
 български (BG) (494.22 KB - PDF)
 
@@ -1020,7 +1022,7 @@ English (EN) (538.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/olysio-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-608)
+[Other languages (22)](#file-language-dropdown-95)
 
 български (BG) (687.46 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:16:10
+document_datetime: 2025-12-29 13:11:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vyloy.html
 document_name: vyloy.html
 version: success
-processing_time: 0.1231962
-conversion_datetime: 2025-12-27 10:04:44.702242
+processing_time: 0.1247566
+conversion_datetime: 2025-12-30 00:29:46.596134
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 zolbetuximab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (192.08 KB - PDF)
 
 [View](/en/documents/overview/vyloy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-651)
+[Other languages (22)](#file-language-dropdown-23)
 
 български (BG) (177.75 KB - PDF)
 
@@ -299,7 +301,7 @@ English (EN) (529.7 KB - PDF)
 
 [View](/en/documents/product-information/vyloy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-415)
+[Other languages (24)](#file-language-dropdown-22)
 
 български (BG) (596.07 KB - PDF)
 
@@ -615,7 +617,7 @@ English (EN) (42.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vyloy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-112)
+[Other languages (24)](#file-language-dropdown-803)
 
 български (BG) (48.09 KB - PDF)
 
@@ -1010,7 +1012,7 @@ English (EN) (446.61 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/vyloy-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-799)
+[Other languages (24)](#file-language-dropdown-889)
 
 български (BG) (443.42 KB - DOCX)
 

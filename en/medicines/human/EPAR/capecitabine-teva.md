@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:33:01
+document_datetime: 2025-12-29 14:44:01
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/capecitabine-teva.html
 document_name: capecitabine-teva.html
 version: success
-processing_time: 0.1458971
-conversion_datetime: 2025-12-28 13:04:32.39793
+processing_time: 0.1444952
+conversion_datetime: 2025-12-30 00:46:27.995469
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 capecitabine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (178.67 KB - PDF)
 
 [View](/en/documents/overview/capecitabine-teva-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-960)
+[Other languages (21)](#file-language-dropdown-387)
 
 български (BG) (202.86 KB - PDF)
 
@@ -381,7 +383,7 @@ English (EN) (615.41 KB - PDF)
 
 [View](/en/documents/product-information/capecitabine-teva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-568)
+[Other languages (24)](#file-language-dropdown-732)
 
 български (BG) (823.13 KB - PDF)
 
@@ -697,7 +699,7 @@ English (EN) (24.32 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/capecitabine-teva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-694)
+[Other languages (23)](#file-language-dropdown-160)
 
 български (BG) (63.38 KB - PDF)
 
@@ -1062,7 +1064,7 @@ English (EN) (153.51 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/capecitabine-teva-epar-scientific-conclusions-annex-v_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-595)
+[Other languages (24)](#file-language-dropdown-610)
 
 български (BG) (153.84 KB - PDF)
 
@@ -1306,7 +1308,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

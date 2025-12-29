@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:02:55
+document_datetime: 2025-12-29 08:23:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pomalidomide-accord.html
 document_name: pomalidomide-accord.html
 version: success
-processing_time: 0.1164923
-conversion_datetime: 2025-12-25 03:47:34.141167
+processing_time: 0.1162298
+conversion_datetime: 2025-12-30 00:49:36.15159
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pomalidomide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -101,7 +103,7 @@ English (EN) (177.17 KB - PDF)
 
 [View](/en/documents/overview/pomalidomide-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-789)
+[Other languages (22)](#file-language-dropdown-341)
 
 български (BG) (165.36 KB - PDF)
 
@@ -377,7 +379,7 @@ English (EN) (1.4 MB - PDF)
 
 [View](/en/documents/product-information/pomalidomide-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-624)
+[Other languages (24)](#file-language-dropdown-406)
 
 български (BG) (1.14 MB - PDF)
 
@@ -595,7 +597,7 @@ English (EN) (92.93 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pomalidomide-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-290)
+[Other languages (24)](#file-language-dropdown-796)
 
 български (BG) (101.96 KB - PDF)
 
@@ -797,7 +799,7 @@ English (EN) (383.18 KB - PDF)
 
 [View](/en/documents/conditions-member-states/pomalidomide-accord-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-59)
+[Other languages (25)](#file-language-dropdown-676)
 
 български (BG) (246.74 KB - PDF)
 

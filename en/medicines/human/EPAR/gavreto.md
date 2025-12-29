@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:53:42
+document_datetime: 2025-12-29 12:51:22
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/gavreto.html
 document_name: gavreto.html
 version: success
-processing_time: 0.0831924
-conversion_datetime: 2025-12-24 04:23:01.536048
+processing_time: 0.1057367
+conversion_datetime: 2025-12-29 23:03:55.419294
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 pralsetinib Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -62,7 +64,7 @@ English (EN) (236 KB - PDF)
 
 [View](/en/documents/overview/gavreto-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-610)
+[Other languages (22)](#file-language-dropdown-22)
 
 български (BG) (249.82 KB - PDF)
 
@@ -350,7 +352,7 @@ English (EN) (1.4 MB - PDF)
 
 [View](/en/documents/product-information/gavreto-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-670)
+[Other languages (24)](#file-language-dropdown-368)
 
 български (BG) (2.1 MB - PDF)
 
@@ -666,7 +668,7 @@ English (EN) (47.08 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/gavreto-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-870)
+[Other languages (24)](#file-language-dropdown-191)
 
 български (BG) (76.12 KB - PDF)
 

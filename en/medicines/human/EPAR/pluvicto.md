@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:13:11
+document_datetime: 2025-12-29 11:49:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pluvicto.html
 document_name: pluvicto.html
 version: success
-processing_time: 0.106007
-conversion_datetime: 2025-12-26 17:36:35.995759
+processing_time: 0.1062895
+conversion_datetime: 2025-12-29 23:35:36.675699
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lutetium (177Lu) vipivotide tetraxetan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (123.97 KB - PDF)
 
 [View](/en/documents/overview/pluvicto-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-734)
+[Other languages (22)](#file-language-dropdown-299)
 
 български (BG) (147.09 KB - PDF)
 
@@ -307,7 +309,7 @@ English (EN) (578.72 KB - PDF)
 
 [View](/en/documents/product-information/pluvicto-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-899)
+[Other languages (24)](#file-language-dropdown-385)
 
 български (BG) (665.06 KB - PDF)
 
@@ -621,7 +623,7 @@ English (EN) (41.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pluvicto-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-535)
+[Other languages (24)](#file-language-dropdown-512)
 
 български (BG) (48.12 KB - PDF)
 

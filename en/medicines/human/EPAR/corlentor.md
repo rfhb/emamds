@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:37:40
+document_datetime: 2025-12-29 07:17:12
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/corlentor.html
 document_name: corlentor.html
 version: success
-processing_time: 0.1396812
-conversion_datetime: 2025-12-24 20:46:13.86467
+processing_time: 0.1403253
+conversion_datetime: 2025-12-29 23:11:00.073932
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ivabradine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -134,7 +136,7 @@ English (EN) (87.48 KB - PDF)
 
 [View](/en/documents/overview/corlentor-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-818)
+[Other languages (22)](#file-language-dropdown-204)
 
 български (BG) (117.54 KB - PDF)
 
@@ -422,7 +424,7 @@ English (EN) (381.67 KB - PDF)
 
 [View](/en/documents/product-information/corlentor-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-266)
+[Other languages (23)](#file-language-dropdown-273)
 
 български (BG) (529.51 KB - PDF)
 
@@ -726,7 +728,7 @@ English (EN) (13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/corlentor-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-43)
+[Other languages (24)](#file-language-dropdown-34)
 
 български (BG) (96.95 KB - PDF)
 
@@ -1120,7 +1122,7 @@ English (EN) (57.56 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/corlentor-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-938)
+[Other languages (22)](#file-language-dropdown-546)
 
 български (BG) (93.15 KB - PDF)
 

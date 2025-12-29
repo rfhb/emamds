@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:28
+document_datetime: 2025-12-29 15:02:55
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/monotard.html
 document_name: monotard.html
 version: success
-processing_time: 0.0918875
-conversion_datetime: 2025-12-24 22:36:03.4455
+processing_time: 0.088707
+conversion_datetime: 2025-12-30 00:42:23.330804
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-insulin human (rDNA)
+insulin human (rDNA) Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (272.19 KB - PDF)
 
 [View](/en/documents/overview/monotard-epar-summary-public_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-437)
+[Other languages (18)](#file-language-dropdown-604)
 
 español (ES) (273.86 KB - PDF)
 
@@ -296,7 +292,7 @@ English (EN) (581.75 KB - PDF)
 
 [View](/en/documents/product-information/monotard-epar-product-information_en.pdf)
 
-[Other languages (10)](#file-language-dropdown-753)
+[Other languages (10)](#file-language-dropdown-315)
 
 español (ES) (509.88 KB - PDF)
 
@@ -444,7 +440,7 @@ English (EN) (273.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/monotard-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-969)
+[Other languages (18)](#file-language-dropdown-132)
 
 español (ES) (273.56 KB - PDF)
 

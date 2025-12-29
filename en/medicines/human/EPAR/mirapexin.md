@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:44:45
+document_datetime: 2025-12-29 13:11:05
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mirapexin.html
 document_name: mirapexin.html
 version: success
-processing_time: 0.1232847
-conversion_datetime: 2025-12-27 23:59:57.829788
+processing_time: 0.1189154
+conversion_datetime: 2025-12-29 23:18:25.186116
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pramipexole Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +121,7 @@ English (EN) (75.97 KB - PDF)
 
 [View](/en/documents/overview/mirapexin-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-344)
+[Other languages (21)](#file-language-dropdown-168)
 
 български (BG) (147.46 KB - PDF)
 
@@ -393,7 +395,7 @@ English (EN) (347.26 KB - PDF)
 
 [View](/en/documents/product-information/mirapexin-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-110)
+[Other languages (24)](#file-language-dropdown-843)
 
 български (BG) (390.53 KB - PDF)
 
@@ -709,7 +711,7 @@ English (EN) (24.12 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mirapexin-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-268)
+[Other languages (24)](#file-language-dropdown-814)
 
 български (BG) (28.26 KB - PDF)
 

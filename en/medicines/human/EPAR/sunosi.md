@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:03:13
+document_datetime: 2025-12-29 07:06:32
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sunosi.html
 document_name: sunosi.html
 version: success
-processing_time: 0.106902
-conversion_datetime: 2025-12-27 09:57:46.60587
+processing_time: 0.1070273
+conversion_datetime: 2025-12-29 23:12:01.407722
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 solriamfetol Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (125.34 KB - PDF)
 
 [View](/en/documents/overview/sunosi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-930)
+[Other languages (22)](#file-language-dropdown-370)
 
 български (BG) (146.64 KB - PDF)
 
@@ -309,7 +311,7 @@ English (EN) (541.58 KB - PDF)
 
 [View](/en/documents/product-information/sunosi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-819)
+[Other languages (24)](#file-language-dropdown-742)
 
 български (BG) (617.22 KB - PDF)
 
@@ -623,7 +625,7 @@ English (EN) (17.08 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sunosi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-144)
+[Other languages (24)](#file-language-dropdown-480)
 
 български (BG) (59.28 KB - PDF)
 

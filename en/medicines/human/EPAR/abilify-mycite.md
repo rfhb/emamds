@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:50:10
+document_datetime: 2025-12-29 14:54:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/abilify-mycite.html
 document_name: abilify-mycite.html
 version: success
-processing_time: 0.0670749
-conversion_datetime: 2025-12-25 00:07:12.154835
+processing_time: 0.0672198
+conversion_datetime: 2025-12-29 23:54:40.15274
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 aripiprazole Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (142.79 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-application-marketing-authorisation-abilify-mycite-aripiprazole_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-891)
+[Other languages (22)](#file-language-dropdown-378)
 
 български (BG) (154.52 KB - PDF)
 

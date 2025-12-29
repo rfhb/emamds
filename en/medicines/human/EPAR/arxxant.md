@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:58
+document_datetime: 2025-12-29 07:43:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/arxxant.html
 document_name: arxxant.html
 version: success
-processing_time: 0.067088
-conversion_datetime: 2025-12-28 04:18:00.30781
+processing_time: 0.0636329
+conversion_datetime: 2025-12-29 21:33:22.199145
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-ruboxistaurin
+ruboxistaurin Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +103,7 @@ English (EN) (51.78 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-application-arxxant_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-83)
+[Other languages (21)](#file-language-dropdown-233)
 
 български (BG) (156.88 KB - PDF)
 

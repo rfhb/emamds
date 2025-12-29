@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:53:55
+document_datetime: 2025-12-29 11:41:34
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/novomix.html
 document_name: novomix.html
 version: success
-processing_time: 0.1067099
-conversion_datetime: 2025-12-24 23:27:59.456841
+processing_time: 0.1142385
+conversion_datetime: 2025-12-30 00:14:04.519034
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin aspart Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (129.92 KB - PDF)
 
 [View](/en/documents/overview/novomix-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-477)
+[Other languages (22)](#file-language-dropdown-780)
 
 български (BG) (153.35 KB - PDF)
 
@@ -403,7 +405,7 @@ English (EN) (1.26 MB - PDF)
 
 [View](/en/documents/product-information/novomix-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-700)
+[Other languages (24)](#file-language-dropdown-855)
 
 български (BG) (950.87 KB - PDF)
 
@@ -719,7 +721,7 @@ English (EN) (40.75 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/novomix-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-577)
+[Other languages (24)](#file-language-dropdown-972)
 
 български (BG) (81.29 KB - PDF)
 

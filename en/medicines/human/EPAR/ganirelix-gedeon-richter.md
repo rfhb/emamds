@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:36:34
+document_datetime: 2025-12-29 11:56:26
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ganirelix-gedeon-richter.html
 document_name: ganirelix-gedeon-richter.html
 version: success
-processing_time: 0.1004056
-conversion_datetime: 2025-12-24 17:57:53.518959
+processing_time: 0.0990543
+conversion_datetime: 2025-12-30 00:18:46.965321
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ganirelix Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -99,7 +101,7 @@ English (EN) (100.24 KB - PDF)
 
 [View](/en/documents/overview/ganirelix-gedeon-richter-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-719)
+[Other languages (22)](#file-language-dropdown-953)
 
 български (BG) (126.02 KB - PDF)
 
@@ -295,7 +297,7 @@ English (EN) (391.34 KB - PDF)
 
 [View](/en/documents/product-information/ganirelix-gedeon-richter-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-670)
+[Other languages (24)](#file-language-dropdown-111)
 
 български (BG) (579.18 KB - PDF)
 
@@ -513,7 +515,7 @@ English (EN) (42.66 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ganirelix-gedeon-richter-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-377)
+[Other languages (24)](#file-language-dropdown-949)
 
 български (BG) (61.71 KB - PDF)
 

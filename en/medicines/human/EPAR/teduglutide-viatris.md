@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:51:45
+document_datetime: 2025-12-29 11:41:57
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/teduglutide-viatris.html
 document_name: teduglutide-viatris.html
 version: success
-processing_time: 0.7513333
-conversion_datetime: 2025-12-26 16:28:53.408385
+processing_time: 0.0440763
+conversion_datetime: 2025-12-29 23:09:16.785098
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 EMA has issued an opinion on this medicine
 
 teduglutide Medicine Human Opinion
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

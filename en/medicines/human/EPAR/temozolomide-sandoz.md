@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:47:36
+document_datetime: 2025-12-29 07:43:39
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/temozolomide-sandoz.html
 document_name: temozolomide-sandoz.html
 version: success
-processing_time: 0.1126466
-conversion_datetime: 2025-12-27 13:52:22.530451
+processing_time: 0.1054473
+conversion_datetime: 2025-12-30 00:47:09.47078
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 temozolomide Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -63,7 +65,7 @@ English (EN) (639.63 KB - PDF)
 
 [View](/en/documents/overview/temozolomide-sandoz-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-164)
+[Other languages (22)](#file-language-dropdown-598)
 
 български (BG) (756.99 KB - PDF)
 
@@ -341,7 +343,7 @@ English (EN) (1.96 MB - PDF)
 
 [View](/en/documents/product-information/temozolomide-sandoz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-985)
+[Other languages (24)](#file-language-dropdown-302)
 
 български (BG) (6.25 MB - PDF)
 
@@ -657,7 +659,7 @@ English (EN) (604.77 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/temozolomide-sandoz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-554)
+[Other languages (23)](#file-language-dropdown-410)
 
 български (BG) (676.01 KB - PDF)
 

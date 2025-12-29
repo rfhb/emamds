@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:29
+document_datetime: 2025-12-29 14:56:47
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ethyl-eicosapent-soft-gelatin-capsules.html
 document_name: ethyl-eicosapent-soft-gelatin-capsules.html
 version: success
-processing_time: 0.0411316
-conversion_datetime: 2025-12-27 22:34:28.684433
+processing_time: 0.0471167
+conversion_datetime: 2025-12-29 23:55:13.99842
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

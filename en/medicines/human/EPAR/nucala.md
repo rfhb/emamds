@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-13 23:46:25
+document_datetime: 2025-12-29 08:10:41
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nucala.html
 document_name: nucala.html
 version: success
-processing_time: 0.1320982
-conversion_datetime: 2025-12-28 03:12:16.475481
+processing_time: 0.1289996
+conversion_datetime: 2025-12-30 00:18:55.63497
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 mepolizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +124,7 @@ English (EN) (157.41 KB - PDF)
 
 [View](/en/documents/overview/nucala-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-923)
+[Other languages (22)](#file-language-dropdown-391)
 
 български (BG) (156.26 KB - PDF)
 
@@ -410,7 +412,7 @@ English (EN) (2.37 MB - PDF)
 
 [View](/en/documents/product-information/nucala-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-295)
+[Other languages (24)](#file-language-dropdown-815)
 
 български (BG) (3.85 MB - PDF)
 
@@ -726,7 +728,7 @@ English (EN) (80.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nucala-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-376)
+[Other languages (24)](#file-language-dropdown-397)
 
 български (BG) (78.59 KB - PDF)
 
@@ -1305,9 +1307,9 @@ English (EN) (67.37 KB - PDF)
 - [Nucala - supply shortage](/en/medicines/human/shortages/nucala)
 - [Nucala - opinion on variation to marketing authorisation](/en/medicines/human/variation/nucala)
 - [Impact of biologics on inhaled corticosteroids reduction (MOON LIGHT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000855)
+- [Sustainability of response to biologics in severe asthma and predictors of late failure among patients in an international registry (SHINE) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000788)
 - [Assessing the impact of remission at 12-months post-initiation of biologic therapy on long-term clinical outcomes of patients with severe asthma (SPOTLIGHT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000789)
 - [A post-authorisation safety study (PASS) to describe real-world safety and effectiveness of NUCALA (mepolizumab) in paediatric eosinophilic granulomatosis with polyangiitis (EGPA) patients in Europe (218065) - post-authorisation study](https://catalogues.ema.europa.eu/study/49461)
-- [Sustainability of response to biologics in severe asthma and predictors of late failure among patients in an international registry (SHINE) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000788)
 - [Assessing the impact of earlier access to biologics on remission and natural course of asthma (GLEAM) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000530)
 - [Associations between biological and clinical response following treatment with anti-IL5/5R biologics (FLAME) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000531)
 - [Nucala Subcutaneous Injection Special Drug Use Investigation (Long-Term) (204524) - post-authorisation study](https://catalogues.ema.europa.eu/study/38541)

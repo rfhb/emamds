@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:11:21
+document_datetime: 2025-12-29 11:45:59
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/simponi.html
 document_name: simponi.html
 version: success
-processing_time: 0.1670893
-conversion_datetime: 2025-12-27 10:01:15.295403
+processing_time: 0.1649847
+conversion_datetime: 2025-12-29 23:30:42.950975
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 golimumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -141,7 +143,7 @@ English (EN) (91.92 KB - PDF)
 
 [View](/en/documents/overview/simponi-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-836)
+[Other languages (22)](#file-language-dropdown-691)
 
 български (BG) (136.27 KB - PDF)
 
@@ -429,7 +431,7 @@ English (EN) (5.97 MB - PDF)
 
 [View](/en/documents/product-information/simponi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-561)
+[Other languages (24)](#file-language-dropdown-909)
 
 български (BG) (3.92 MB - PDF)
 
@@ -745,7 +747,7 @@ English (EN) (35.59 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/simponi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-975)
+[Other languages (24)](#file-language-dropdown-402)
 
 български (BG) (31.9 KB - PDF)
 
@@ -1045,7 +1047,7 @@ English (EN) (24.75 KB - PDF)
 
 [View](/en/documents/conditions-member-states/simponi-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-213)
+[Other languages (21)](#file-language-dropdown-665)
 
 български (BG) (90.24 KB - PDF)
 
@@ -1301,7 +1303,7 @@ svenska (SV) (24.45 KB - PDF)
 
 ## Product details
 
-Name of medicine Simponi Active substance Golimumab International non-proprietary name (INN) or common name golimumab Therapeutic area (MeSH)
+Name of medicine Simponi Active substance golimumab International non-proprietary name (INN) or common name golimumab Therapeutic area (MeSH)
 
 - Arthritis, Psoriatic
 - Spondylitis, Ankylosing
@@ -1644,6 +1646,8 @@ English (EN) (80.36 KB - PDF)
 
 #### News on Simponi
 
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 8-11 December 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-8-11-december-2025) 12/12/2025
+
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 10-13 December 2018](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-10-13-december-2018) 14/12/2018
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 May 2016](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-may-2016) 27/05/2016
@@ -1666,7 +1670,7 @@ English (EN) (4.23 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/simponi-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-812)
+[Other languages (24)](#file-language-dropdown-216)
 
 български (BG) (3.98 MB - DOCX)
 
@@ -1866,6 +1870,7 @@ svenska (SV) (2.2 MB - DOCX)
 - [EMEA-000265-PIP02-11-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000265-pip02-11-m04)
 - [Simponi - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/simponi)
 - [Simponi - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/simponi)
+- [Simponi - opinion on variation to marketing authorisation](/en/medicines/human/variation/simponi-0)
 - [A Non-interventional Observational Longitudinal Post-Authorization Safety Study (PASS) of SIMPONI® in Treatment of Ulcerative Colitis using Nordic National Health Registries (MK-8259-013) - post-authorisation study](https://catalogues.ema.europa.eu/study/50508)
 - [Shortening the time to confirm or to rebut Adverse events of interest related to innovative Therapies for immune-mediated inflammATory dIseases: cross-talking between different data sOURces. SATURATIOn study. - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000207)
 - [Pharmacovigilance In Juvenile Idiopathic Arthritis Patients Treated With Biologic Agents And/Or Methotrexate. A Pediatric Rheumatology International Trials Organisation (PRINTO)/Pediatric Rheumatology European Society (PRES) Registry (Pharmachild JIA registry) - post-authorisation study](https://catalogues.ema.europa.eu/study/49777)

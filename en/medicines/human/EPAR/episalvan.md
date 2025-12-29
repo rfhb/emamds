@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:56:15
+document_datetime: 2025-12-29 13:48:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/episalvan.html
 document_name: episalvan.html
 version: success
-processing_time: 0.1073496
-conversion_datetime: 2025-12-26 10:28:03.431113
+processing_time: 0.1085948
+conversion_datetime: 2025-12-29 23:27:00.046356
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 birch bark extract Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -61,7 +63,7 @@ English (EN) (247.82 KB - PDF)
 
 [View](/en/documents/overview/episalvan-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-234)
+[Other languages (22)](#file-language-dropdown-272)
 
 български (BG) (296.74 KB - PDF)
 
@@ -349,7 +351,7 @@ English (EN) (417.18 KB - PDF)
 
 [View](/en/documents/product-information/episalvan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-788)
+[Other languages (24)](#file-language-dropdown-232)
 
 български (BG) (808.66 KB - PDF)
 
@@ -665,7 +667,7 @@ English (EN) (224.16 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/episalvan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-271)
+[Other languages (24)](#file-language-dropdown-757)
 
 български (BG) (213.15 KB - PDF)
 

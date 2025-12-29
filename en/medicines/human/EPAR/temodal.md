@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:09
+document_datetime: 2025-12-29 11:51:16
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/temodal.html
 document_name: temodal.html
 version: success
-processing_time: 0.1333585
-conversion_datetime: 2025-12-24 17:08:07.139976
+processing_time: 0.3356461
+conversion_datetime: 2025-12-30 00:13:55.548496
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 temozolomide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +123,7 @@ English (EN) (53.92 KB - PDF)
 
 [View](/en/documents/overview/temodal-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-23)
+[Other languages (21)](#file-language-dropdown-282)
 
 български (BG) (153.53 KB - PDF)
 
@@ -387,7 +389,7 @@ English (EN) (629.69 KB - PDF)
 
 [View](/en/documents/product-information/temodal-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-841)
+[Other languages (24)](#file-language-dropdown-772)
 
 български (BG) (554.96 KB - PDF)
 
@@ -703,7 +705,7 @@ English (EN) (21.15 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/temodal-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-959)
+[Other languages (24)](#file-language-dropdown-35)
 
 български (BG) (25.38 KB - PDF)
 
@@ -1142,7 +1144,7 @@ English (EN) (549.5 KB - DOC)
 
 [View](/en/documents/product-information-tracked-changes/temodal-epar-product-information-tracked-changes_en.doc)
 
-[Other languages (24)](#file-language-dropdown-946)
+[Other languages (24)](#file-language-dropdown-572)
 
 български (BG) (1.77 MB - DOC)
 

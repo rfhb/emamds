@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:02:32
+document_datetime: 2025-12-29 12:47:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/biresp-spiromax.html
 document_name: biresp-spiromax.html
 version: success
-processing_time: 0.1303908
-conversion_datetime: 2025-12-25 09:09:11.246818
+processing_time: 0.1288753
+conversion_datetime: 2025-12-29 21:08:27.42168
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-budesonide / formoterol
+budesonide / formoterol Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +110,7 @@ English (EN) (149.11 KB - PDF)
 
 [View](/en/documents/overview/biresp-spiromax-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-591)
+[Other languages (22)](#file-language-dropdown-401)
 
 български (BG) (175.86 KB - PDF)
 
@@ -402,7 +398,7 @@ English (EN) (810.57 KB - PDF)
 
 [View](/en/documents/product-information/biresp-spiromax-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-837)
+[Other languages (24)](#file-language-dropdown-278)
 
 български (BG) (902.5 KB - PDF)
 
@@ -718,7 +714,7 @@ English (EN) (26.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/biresp-spiromax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-388)
+[Other languages (24)](#file-language-dropdown-970)
 
 български (BG) (46.28 KB - PDF)
 
@@ -1119,7 +1115,7 @@ English (EN) (39.48 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/biresp-spiromax-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-909)
+[Other languages (22)](#file-language-dropdown-299)
 
 български (BG) (71.2 KB - PDF)
 

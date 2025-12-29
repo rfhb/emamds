@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:13:58
+document_datetime: 2025-12-29 07:02:11
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tuznue.html
 document_name: tuznue.html
 version: success
-processing_time: 0.1208541
-conversion_datetime: 2025-12-27 21:29:46.462361
+processing_time: 0.1210709
+conversion_datetime: 2025-12-30 00:47:35.822934
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 trastuzumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (145.34 KB - PDF)
 
 [View](/en/documents/overview/tuznue-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-556)
+[Other languages (22)](#file-language-dropdown-877)
 
 български (BG) (170.82 KB - PDF)
 
@@ -315,7 +317,7 @@ English (EN) (652.86 KB - PDF)
 
 [View](/en/documents/product-information/tuznue-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-665)
+[Other languages (24)](#file-language-dropdown-328)
 
 български (BG) (837.95 KB - PDF)
 
@@ -629,7 +631,7 @@ English (EN) (43.91 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tuznue-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-870)
+[Other languages (24)](#file-language-dropdown-507)
 
 български (BG) (64.91 KB - PDF)
 
@@ -931,7 +933,7 @@ English (EN) (163.96 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/tuznue-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-977)
+[Other languages (24)](#file-language-dropdown-149)
 
 български (BG) (183.74 KB - DOCX)
 

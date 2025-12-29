@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:15:23
+document_datetime: 2025-12-29 09:00:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jakavi.html
 document_name: jakavi.html
 version: success
-processing_time: 0.1510399
-conversion_datetime: 2025-12-25 12:34:01.640822
+processing_time: 0.1486919
+conversion_datetime: 2025-12-30 00:47:44.58876
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ruxolitinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -138,7 +140,7 @@ English (EN) (133.35 KB - PDF)
 
 [View](/en/documents/overview/jakavi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-923)
+[Other languages (22)](#file-language-dropdown-700)
 
 български (BG) (185.58 KB - PDF)
 
@@ -426,7 +428,7 @@ English (EN) (981.55 KB - PDF)
 
 [View](/en/documents/product-information/jakavi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-890)
+[Other languages (24)](#file-language-dropdown-593)
 
 български (BG) (1.2 MB - PDF)
 
@@ -742,7 +744,7 @@ English (EN) (61.27 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/jakavi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-813)
+[Other languages (24)](#file-language-dropdown-347)
 
 български (BG) (63.99 KB - PDF)
 
@@ -1328,7 +1330,7 @@ English (EN) (586.3 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/jakavi-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-553)
+[Other languages (24)](#file-language-dropdown-624)
 
 български (BG) (667.61 KB - DOCX)
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:32:29
+document_datetime: 2025-12-29 07:22:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/deqsiga.html
 document_name: deqsiga.html
 version: success
-processing_time: 0.1073898
-conversion_datetime: 2025-12-24 00:32:24.054781
+processing_time: 0.1034771
+conversion_datetime: 2025-12-29 23:27:08.776441
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 human normal immunoglobulin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -128,7 +130,7 @@ English (EN) (150.8 KB - PDF)
 
 [View](/en/documents/overview/deqsiga-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-166)
+[Other languages (22)](#file-language-dropdown-679)
 
 български (BG) (176.61 KB - PDF)
 
@@ -324,7 +326,7 @@ English (EN) (377.99 KB - PDF)
 
 [View](/en/documents/product-information/deqsiga-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-452)
+[Other languages (24)](#file-language-dropdown-826)
 
 български (BG) (696.96 KB - PDF)
 
@@ -542,7 +544,7 @@ English (EN) (55.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/deqsiga-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-617)
+[Other languages (24)](#file-language-dropdown-627)
 
 български (BG) (80.83 KB - PDF)
 

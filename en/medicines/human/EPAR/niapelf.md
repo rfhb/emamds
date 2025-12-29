@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:37:49
+document_datetime: 2025-12-29 14:58:29
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/niapelf.html
 document_name: niapelf.html
 version: success
-processing_time: 0.1094502
-conversion_datetime: 2025-12-24 00:12:42.185491
+processing_time: 0.1008222
+conversion_datetime: 2025-12-29 23:35:28.057295
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 paliperidone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (144.35 KB - PDF)
 
 [View](/en/documents/overview/niapelf-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-272)
+[Other languages (22)](#file-language-dropdown-14)
 
 български (BG) (167.63 KB - PDF)
 
@@ -303,7 +305,7 @@ English (EN) (17.77 KB - PDF)
 
 [View](/en/documents/product-information/niapelf-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-375)
+[Other languages (24)](#file-language-dropdown-950)
 
 български (BG) (58.41 KB - PDF)
 
@@ -505,7 +507,7 @@ English (EN) (1018.63 KB - PDF)
 
 [View](/en/documents/product-information/niapelf-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-670)
+[Other languages (24)](#file-language-dropdown-813)
 
 български (BG) (1.18 MB - PDF)
 

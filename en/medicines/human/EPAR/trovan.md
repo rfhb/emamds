@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:04:05
+document_datetime: 2025-12-29 19:07:42
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trovan.html
 document_name: trovan.html
 version: success
-processing_time: 0.0333801
-conversion_datetime: 2025-12-28 02:44:53.82394
+processing_time: 0.0452599
+conversion_datetime: 2025-12-29 23:55:40.21222
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 trovafloxacin Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

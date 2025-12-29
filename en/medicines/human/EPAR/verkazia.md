@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:48:36
+document_datetime: 2025-12-29 08:35:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/verkazia.html
 document_name: verkazia.html
 version: success
-processing_time: 0.11275
-conversion_datetime: 2025-12-27 22:21:01.15551
+processing_time: 0.1142195
+conversion_datetime: 2025-12-30 00:16:16.688635
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ciclosporin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (76.1 KB - PDF)
 
 [View](/en/documents/overview/verkazia-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-973)
+[Other languages (22)](#file-language-dropdown-846)
 
 български (BG) (121.64 KB - PDF)
 
@@ -403,7 +405,7 @@ English (EN) (509.26 KB - PDF)
 
 [View](/en/documents/product-information/verkazia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-371)
+[Other languages (24)](#file-language-dropdown-959)
 
 български (BG) (532.61 KB - PDF)
 
@@ -719,7 +721,7 @@ English (EN) (28.02 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/verkazia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-822)
+[Other languages (24)](#file-language-dropdown-63)
 
 български (BG) (38.68 KB - PDF)
 

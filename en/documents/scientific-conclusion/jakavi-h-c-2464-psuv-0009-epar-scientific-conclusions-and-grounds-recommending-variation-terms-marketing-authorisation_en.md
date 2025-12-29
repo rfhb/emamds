@@ -1,0 +1,75 @@
+---
+document_datetime: 2023-09-21 18:01:12
+document_pages: 2
+document_pathfilename: www.ema.europa.eu/en/documents/scientific-conclusion/jakavi-h-c-2464-psuv-0009-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf
+document_name: jakavi-h-c-2464-psuv-0009-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf
+version: success
+processing_time: 0.8396106
+conversion_datetime: 2025-12-29 22:20:31.681846
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.66.0
+  docling-core: 2.57.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+<!-- image -->
+
+19 September 2013 EMA/CHMP/801864/2013 Committee for Medicinal Products for Human Use (CHMP)
+
+## Jakavi
+
+International non-proprietary name: ruxolitinib
+
+Procedure No:  EMEA/H/C/002464/PSUV/0009
+
+Period covered by the PSUR:  16.11.11 - 22.02.13
+
+Scientific conclusions and grounds recommending the variation to the terms of the Marketing Authorisation
+
+●
+
+7 Westferry Circus
+
+Canary Wharf
+
++44 (0)20 7418 8400
+
+●
+
+London E14 4HB
+
+●
+
+United Kingdom
+
+Facsimile
+
++44 (0)20 7523 7455
+
+E-mail
+
+info@ema.europa.eu
+
+Website
+
+www.ema.europa.eu
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR for Jakavi, the scientific conclusions of PRAC are as follows: In line with the more extended exposure, an additional number of tuberculosis cases have been reported, which warrants revision of the product information. Tuberculosis has been reported in the clinical studies which formed the basis for the initial approval of Jakavi in 3 cases among 300 patients (1%) treated with Jakavi. In the current data set, where the clinical study database has increased to 4755 patients exposed to ruxolitinib (approximately 3000 patients from compassionate use and expanded access programs), 13 cases of tuberculosis have been reported. No cases have been reported among placebo exposed patients, although the number of patients is limited (approximately 220). The review of the cases described suggests that several of these cases did not have any other obvious explanation for the development of tuberculosis. A higher susceptibility due to the disease condition should be acknowledged. Nevertheless, the mechanism of action of ruxolitinib supports the increased risk for infections including tuberculosis (listed among Important identified risks). Therefore, in view of available data regarding reported cases of tuberculosis, the PRAC considered that changes to the product information were warranted. Consequently, sections 4.4 and 4.8 of the summary of product characteristics and the package leaflet should be updated with respect to the adverse reaction tuberculosis. These changes do not warrant further updates of the RMP since tuberculosis was already included as an important identified risk.
+
+The CHMP agrees with the scientific conclusions made by the PRAC.
+
+## Grounds recommending the variation to the terms of the Marketing Authorisation(s)
+
+On the basis of the scientific conclusions for Jakavi, the CHMP is of the opinion that the benefit-risk balance of the medicinal product containing the active substance ruxolitinib is favourable subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the Marketing Authorisation should be varied.

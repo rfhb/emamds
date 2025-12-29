@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:08:52
+document_datetime: 2025-12-29 08:27:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/actos.html
 document_name: actos.html
 version: success
-processing_time: 0.1330186
-conversion_datetime: 2025-12-27 15:09:44.689111
+processing_time: 0.1397405
+conversion_datetime: 2025-12-29 22:15:58.464917
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pioglitazone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (87.58 KB - PDF)
 
 [View](/en/documents/overview/actos-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-727)
+[Other languages (22)](#file-language-dropdown-40)
 
 български (BG) (114.6 KB - PDF)
 
@@ -402,7 +404,7 @@ English (EN) (327.79 KB - PDF)
 
 [View](/en/documents/product-information/actos-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-35)
+[Other languages (24)](#file-language-dropdown-734)
 
 български (BG) (592.57 KB - PDF)
 
@@ -718,7 +720,7 @@ English (EN) (93.72 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/actos-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-428)
+[Other languages (24)](#file-language-dropdown-118)
 
 български (BG) (112.2 KB - PDF)
 
@@ -1018,7 +1020,7 @@ English (EN) (10.84 KB - PDF)
 
 [View](/en/documents/conditions-member-states/actos-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-709)
+[Other languages (23)](#file-language-dropdown-408)
 
 български (BG) (63.69 KB - PDF)
 

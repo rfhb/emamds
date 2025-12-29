@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:08:43
+document_datetime: 2025-12-29 07:07:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/menquadfi.html
 document_name: menquadfi.html
 version: success
-processing_time: 0.1199005
-conversion_datetime: 2025-12-24 23:12:35.209987
+processing_time: 0.1195151
+conversion_datetime: 2025-12-29 23:16:26.451653
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 meningococcal group A, C, W-135 and Y conjugate vaccine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -99,7 +101,7 @@ English (EN) (123.1 KB - PDF)
 
 [View](/en/documents/overview/menquadfi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-377)
+[Other languages (22)](#file-language-dropdown-774)
 
 български (BG) (144.36 KB - PDF)
 
@@ -299,7 +301,7 @@ English (EN) (467.98 KB - PDF)
 
 [View](/en/documents/product-information/menquadfi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-220)
+[Other languages (24)](#file-language-dropdown-431)
 
 български (BG) (762.99 KB - PDF)
 
@@ -615,7 +617,7 @@ English (EN) (53.59 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/menquadfi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-324)
+[Other languages (24)](#file-language-dropdown-647)
 
 български (BG) (63.17 KB - PDF)
 

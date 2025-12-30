@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:36:32
+document_datetime: 2025-12-29 09:00:16
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/blincyto.html
 document_name: blincyto.html
 version: success
-processing_time: 0.1450348
-conversion_datetime: 2025-12-24 04:06:36.952676
+processing_time: 0.1360302
+conversion_datetime: 2025-12-30 07:46:14.935798
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 blinatumomab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -148,7 +150,7 @@ English (EN) (138.93 KB - PDF)
 
 [View](/en/documents/overview/blincyto-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-76)
+[Other languages (22)](#file-language-dropdown-140)
 
 български (BG) (166.13 KB - PDF)
 
@@ -436,7 +438,7 @@ English (EN) (1.06 MB - PDF)
 
 [View](/en/documents/product-information/blincyto-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-232)
+[Other languages (24)](#file-language-dropdown-975)
 
 български (BG) (1.39 MB - PDF)
 
@@ -752,7 +754,7 @@ English (EN) (7.92 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/blincyto-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-914)
+[Other languages (24)](#file-language-dropdown-970)
 
 български (BG) (47.62 KB - PDF)
 

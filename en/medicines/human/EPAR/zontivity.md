@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 09:09:45
+document_datetime: 2025-12-29 08:20:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zontivity.html
 document_name: zontivity.html
 version: success
-processing_time: 0.1082302
-conversion_datetime: 2025-12-26 17:51:48.42695
+processing_time: 0.1115506
+conversion_datetime: 2025-12-30 22:20:58.626507
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-vorapaxar
+vorapaxar Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -68,7 +64,7 @@ English (EN) (549.57 KB - PDF)
 
 [View](/en/documents/overview/zontivity-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-185)
+[Other languages (22)](#file-language-dropdown-690)
 
 български (BG) (633.29 KB - PDF)
 
@@ -358,7 +354,7 @@ English (EN) (1.22 MB - PDF)
 
 [View](/en/documents/product-information/zontivity-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-660)
+[Other languages (24)](#file-language-dropdown-13)
 
 български (BG) (1.9 MB - PDF)
 
@@ -674,7 +670,7 @@ English (EN) (478.08 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zontivity-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-935)
+[Other languages (24)](#file-language-dropdown-965)
 
 български (BG) (517.85 KB - PDF)
 

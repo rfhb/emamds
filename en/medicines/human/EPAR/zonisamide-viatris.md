@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:03:59
+document_datetime: 2025-12-29 08:19:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zonisamide-viatris.html
 document_name: zonisamide-viatris.html
 version: success
-processing_time: 0.1140867
-conversion_datetime: 2025-12-27 21:46:12.323702
+processing_time: 0.1155978
+conversion_datetime: 2025-12-30 22:33:32.506209
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 zonisamide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (140.39 KB - PDF)
 
 [View](/en/documents/overview/zonisamide-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-350)
+[Other languages (23)](#file-language-dropdown-141)
 
 български (BG) (170.16 KB - PDF)
 
@@ -405,7 +407,7 @@ English (EN) (562.62 KB - PDF)
 
 [View](/en/documents/product-information/zonisamide-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-398)
+[Other languages (24)](#file-language-dropdown-431)
 
 български (BG) (586.26 KB - PDF)
 
@@ -721,7 +723,7 @@ English (EN) (50.39 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zonisamide-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-592)
+[Other languages (24)](#file-language-dropdown-396)
 
 български (BG) (85.53 KB - PDF)
 

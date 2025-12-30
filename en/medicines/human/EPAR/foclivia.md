@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:38:32
+document_datetime: 2025-12-29 14:34:57
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/foclivia.html
 document_name: foclivia.html
 version: success
-processing_time: 0.1130228
-conversion_datetime: 2025-12-26 10:33:51.822356
+processing_time: 0.1150683
+conversion_datetime: 2025-12-30 09:58:30.544195
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pandemic influenza vaccine (H5N1) (surface antigen, inactivated, adjuvanted) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +116,7 @@ English (EN) (79.67 KB - PDF)
 
 [View](/en/documents/overview/foclivia-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-936)
+[Other languages (22)](#file-language-dropdown-602)
 
 български (BG) (121.4 KB - PDF)
 
@@ -400,7 +402,7 @@ English (EN) (644.77 KB - PDF)
 
 [View](/en/documents/product-information/foclivia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-115)
+[Other languages (24)](#file-language-dropdown-36)
 
 български (BG) (800.56 KB - PDF)
 
@@ -716,7 +718,7 @@ English (EN) (61.31 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/foclivia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-458)
+[Other languages (24)](#file-language-dropdown-849)
 
 български (BG) (54.57 KB - PDF)
 

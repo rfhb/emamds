@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:24:36
+document_datetime: 2025-12-29 08:23:24
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zemdri.html
 document_name: zemdri.html
 version: success
-processing_time: 0.053825
-conversion_datetime: 2025-12-25 09:01:21.384953
+processing_time: 0.0468753
+conversion_datetime: 2025-12-30 09:36:30.994633
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

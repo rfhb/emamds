@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:12:41
+document_datetime: 2025-12-29 11:56:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zynrelef.html
 document_name: zynrelef.html
 version: success
-processing_time: 0.1151232
-conversion_datetime: 2025-12-26 20:16:12.063031
+processing_time: 0.1128489
+conversion_datetime: 2025-12-30 09:23:01.2544
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 bupivacaine / meloxicam Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +107,7 @@ English (EN) (186.35 KB - PDF)
 
 [View](/en/documents/overview/zynrelef-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-923)
+[Other languages (22)](#file-language-dropdown-518)
 
 български (BG) (241 KB - PDF)
 
@@ -393,7 +395,7 @@ English (EN) (2.03 MB - PDF)
 
 [View](/en/documents/product-information/zynrelef-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-232)
+[Other languages (24)](#file-language-dropdown-154)
 
 български (BG) (2.23 MB - PDF)
 
@@ -709,7 +711,7 @@ English (EN) (54.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zynrelef-epar-all-authorised-presentation_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-949)
+[Other languages (24)](#file-language-dropdown-810)
 
 български (BG) (96.58 KB - PDF)
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:11:57
+document_datetime: 2025-12-29 11:55:51
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/buccolam.html
 document_name: buccolam.html
 version: success
-processing_time: 0.1273351
-conversion_datetime: 2025-12-24 05:57:11.411751
+processing_time: 0.1183371
+conversion_datetime: 2025-12-30 09:59:16.31149
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 midazolam Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (117.15 KB - PDF)
 
 [View](/en/documents/overview/buccolam-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-300)
+[Other languages (22)](#file-language-dropdown-205)
 
 български (BG) (147.03 KB - PDF)
 
@@ -401,7 +403,7 @@ English (EN) (436.19 KB - PDF)
 
 [View](/en/documents/product-information/buccolam-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-973)
+[Other languages (24)](#file-language-dropdown-481)
 
 български (BG) (619.88 KB - PDF)
 
@@ -717,7 +719,7 @@ English (EN) (120.48 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/buccolam-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-437)
+[Other languages (24)](#file-language-dropdown-328)
 
 български (BG) (257.78 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:29:59
+document_datetime: 2025-12-29 09:09:32
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tecartus.html
 document_name: tecartus.html
 version: success
-processing_time: 0.1211163
-conversion_datetime: 2025-12-28 10:40:48.837147
+processing_time: 0.11376
+conversion_datetime: 2025-12-30 19:58:56.83148
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 brexucabtagene autoleucel Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -129,7 +131,7 @@ English (EN) (150.79 KB - PDF)
 
 [View](/en/documents/overview/tecartus-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-894)
+[Other languages (22)](#file-language-dropdown-445)
 
 български (BG) (180.17 KB - PDF)
 
@@ -417,7 +419,7 @@ English (EN) (364.3 KB - PDF)
 
 [View](/en/documents/product-information/tecartus-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-977)
+[Other languages (24)](#file-language-dropdown-419)
 
 български (BG) (621.67 KB - PDF)
 
@@ -731,7 +733,7 @@ English (EN) (43.69 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tecartus-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-211)
+[Other languages (24)](#file-language-dropdown-921)
 
 български (BG) (62.2 KB - PDF)
 

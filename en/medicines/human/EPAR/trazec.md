@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:02:08
+document_datetime: 2025-12-29 10:33:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trazec.html
 document_name: trazec.html
 version: success
-processing_time: 0.1024933
-conversion_datetime: 2025-12-28 05:30:29.072749
+processing_time: 0.1001604
+conversion_datetime: 2025-12-30 20:00:00.230928
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has lapsed
 
-nateglinide
+nateglinide Medicine Human Lapsed
 
-Medicine
-
-Human
-
-Lapsed
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (256.33 KB - PDF)
 
 [View](/en/documents/overview/trazec-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-335)
+[Other languages (21)](#file-language-dropdown-810)
 
 български (BG) (421.74 KB - PDF)
 
@@ -332,7 +328,7 @@ English (EN) (652.71 KB - PDF)
 
 [View](/en/documents/product-information/trazec-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-156)
+[Other languages (21)](#file-language-dropdown-420)
 
 български (BG) (913.42 KB - PDF)
 
@@ -612,7 +608,7 @@ English (EN) (224.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/trazec-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-164)
+[Other languages (21)](#file-language-dropdown-170)
 
 български (BG) (324.03 KB - PDF)
 

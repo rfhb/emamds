@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:02:08
+document_datetime: 2025-12-29 08:35:35
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/osigraft.html
 document_name: osigraft.html
 version: success
-processing_time: 0.1055602
-conversion_datetime: 2025-12-28 10:00:06.655081
+processing_time: 0.1034195
+conversion_datetime: 2025-12-30 01:42:29.151549
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-eptotermin alfa
+eptotermin alfa Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +60,7 @@ English (EN) (525 KB - PDF)
 
 [View](/en/documents/overview/osigraft-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-460)
+[Other languages (21)](#file-language-dropdown-27)
 
 български (BG) (688.37 KB - PDF)
 
@@ -330,7 +326,7 @@ English (EN) (826.02 KB - PDF)
 
 [View](/en/documents/product-information/osigraft-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-922)
+[Other languages (24)](#file-language-dropdown-102)
 
 български (BG) (1.25 MB - PDF)
 
@@ -646,7 +642,7 @@ English (EN) (461.49 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/osigraft-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-415)
+[Other languages (24)](#file-language-dropdown-831)
 
 български (BG) (563.36 KB - PDF)
 

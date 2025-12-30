@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:57:05
+document_datetime: 2025-12-29 08:07:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vyjuvek.html
 document_name: vyjuvek.html
 version: success
-processing_time: 0.108651
-conversion_datetime: 2025-12-28 01:55:44.84327
+processing_time: 0.108533
+conversion_datetime: 2025-12-30 09:09:14.5827
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 beremagene geperpavec Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (115.58 KB - PDF)
 
 [View](/en/documents/overview/vyjuvek-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-525)
+[Other languages (22)](#file-language-dropdown-585)
 
 български (BG) (137.48 KB - PDF)
 
@@ -309,7 +311,7 @@ English (EN) (966.18 KB - PDF)
 
 [View](/en/documents/product-information/vyjuvek-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-25)
+[Other languages (24)](#file-language-dropdown-901)
 
 български (BG) (870.4 KB - PDF)
 
@@ -623,7 +625,7 @@ English (EN) (80.98 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vyjuvek-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-565)
+[Other languages (24)](#file-language-dropdown-571)
 
 български (BG) (55.27 KB - PDF)
 

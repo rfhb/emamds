@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:05:33
+document_datetime: 2025-12-29 07:20:02
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ribavirin-biopartners.html
 document_name: ribavirin-biopartners.html
 version: success
-processing_time: 0.0997607
-conversion_datetime: 2025-12-26 13:01:34.12747
+processing_time: 0.1022576
+conversion_datetime: 2025-12-30 01:31:33.794128
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has lapsed
 
-ribavirin
+ribavirin Medicine Human Lapsed
 
-Medicine
-
-Human
-
-Lapsed
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +60,7 @@ English (EN) (174.37 KB - PDF)
 
 [View](/en/documents/overview/ribavirin-biopartners-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-30)
+[Other languages (21)](#file-language-dropdown-962)
 
 български (BG) (271.53 KB - PDF)
 
@@ -330,7 +326,7 @@ English (EN) (337.61 KB - PDF)
 
 [View](/en/documents/product-information/ribavirin-biopartners-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-650)
+[Other languages (23)](#file-language-dropdown-40)
 
 български (BG) (670.28 KB - PDF)
 
@@ -634,7 +630,7 @@ English (EN) (127.83 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ribavirin-biopartners-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-963)
+[Other languages (21)](#file-language-dropdown-474)
 
 български (BG) (196.95 KB - PDF)
 

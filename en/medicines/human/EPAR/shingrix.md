@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 12:44:27
+document_datetime: 2025-12-29 09:08:28
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/shingrix.html
 document_name: shingrix.html
 version: success
-processing_time: 0.1156631
-conversion_datetime: 2025-12-28 19:12:56.187677
+processing_time: 0.1151201
+conversion_datetime: 2025-12-30 20:32:13.057916
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -117,7 +117,7 @@ English (EN) (116.03 KB - PDF)
 
 [View](/en/documents/overview/shingrix-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-701)
+[Other languages (22)](#file-language-dropdown-498)
 
 български (BG) (139.86 KB - PDF)
 
@@ -405,7 +405,7 @@ English (EN) (953.36 KB - PDF)
 
 [View](/en/documents/product-information/shingrix-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-61)
+[Other languages (24)](#file-language-dropdown-743)
 
 български (BG) (1.3 MB - PDF)
 
@@ -721,7 +721,7 @@ English (EN) (80.18 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/shingrix-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-536)
+[Other languages (24)](#file-language-dropdown-68)
 
 български (BG) (98.58 KB - PDF)
 

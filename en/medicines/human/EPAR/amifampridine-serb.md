@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:42:41
+document_datetime: 2025-12-29 12:25:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/amifampridine-serb.html
 document_name: amifampridine-serb.html
 version: success
-processing_time: 0.0919231
-conversion_datetime: 2025-12-28 03:00:07.497775
+processing_time: 0.1032984
+conversion_datetime: 2025-12-30 01:19:17.895837
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 amifampridine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -97,7 +99,7 @@ English (EN) (156.74 KB - PDF)
 
 [View](/en/documents/overview/amifampridine-serb-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-746)
+[Other languages (22)](#file-language-dropdown-144)
 
 български (BG) (182.19 KB - PDF)
 
@@ -293,7 +295,7 @@ English (EN) (233.15 KB - PDF)
 
 [View](/en/documents/product-information/amifampridine-serb-epar-product-information_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-704)
+[Other languages (25)](#file-language-dropdown-551)
 
 български (BG) (323.07 KB - PDF)
 
@@ -519,7 +521,7 @@ English (EN) (48.26 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/amifampridine-serb-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-188)
+[Other languages (25)](#file-language-dropdown-310)
 
 български (BG) (65.99 KB - PDF)
 

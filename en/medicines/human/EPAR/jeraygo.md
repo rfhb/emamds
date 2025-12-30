@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:50:17
+document_datetime: 2025-12-29 13:24:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jeraygo.html
 document_name: jeraygo.html
 version: success
-processing_time: 0.089957
-conversion_datetime: 2025-12-24 02:39:09.791519
+processing_time: 0.1087741
+conversion_datetime: 2025-12-30 07:57:42.645329
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 aprocitentan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (119.46 KB - PDF)
 
 [View](/en/documents/overview/jeraygo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-673)
+[Other languages (22)](#file-language-dropdown-51)
 
 български (BG) (143.43 KB - PDF)
 
@@ -309,7 +311,7 @@ English (EN) (1.38 MB - PDF)
 
 [View](/en/documents/product-information/jeraygo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-857)
+[Other languages (24)](#file-language-dropdown-848)
 
 български (BG) (1.45 MB - PDF)
 
@@ -623,7 +625,7 @@ English (EN) (89.76 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/jeraygo-epar-all-authorised-presentations_en.pdf-0)
 
-[Other languages (24)](#file-language-dropdown-46)
+[Other languages (24)](#file-language-dropdown-190)
 
 български (BG) (60.71 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:49:39
+document_datetime: 2025-12-29 13:04:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/enzalutamide-accordpharma.html
 document_name: enzalutamide-accordpharma.html
 version: success
-processing_time: 0.0385431
-conversion_datetime: 2025-12-24 23:08:50.373868
+processing_time: 0.0343875
+conversion_datetime: 2025-12-30 01:32:55.103958
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 EMA has issued an opinion on this medicine
 
 enzalutamide Medicine Human Opinion
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

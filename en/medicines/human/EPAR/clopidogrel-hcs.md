@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:00
+document_datetime: 2025-12-29 14:35:07
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-hcs.html
 document_name: clopidogrel-hcs.html
 version: success
-processing_time: 0.122362
-conversion_datetime: 2025-12-29 21:23:41.817415
+processing_time: 0.2817948
+conversion_datetime: 2025-12-30 20:02:20.698374
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

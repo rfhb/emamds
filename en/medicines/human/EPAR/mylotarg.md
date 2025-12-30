@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:08:17
+document_datetime: 2025-12-29 12:13:28
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mylotarg.html
 document_name: mylotarg.html
 version: success
-processing_time: 0.1122059
-conversion_datetime: 2025-12-27 14:25:36.446467
+processing_time: 0.1170507
+conversion_datetime: 2025-12-30 22:38:41.122945
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 gemtuzumab ozogamicin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (75.51 KB - PDF)
 
 [View](/en/documents/overview/mylotarg-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-48)
+[Other languages (22)](#file-language-dropdown-780)
 
 български (BG) (102.47 KB - PDF)
 
@@ -401,7 +403,7 @@ English (EN) (554.02 KB - PDF)
 
 [View](/en/documents/product-information/mylotarg-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-111)
+[Other languages (24)](#file-language-dropdown-954)
 
 български (BG) (360.77 KB - PDF)
 
@@ -717,7 +719,7 @@ English (EN) (89.79 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mylotarg-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-590)
+[Other languages (24)](#file-language-dropdown-38)
 
 български (BG) (31.15 KB - PDF)
 

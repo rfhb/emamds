@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:46:49
+document_datetime: 2025-12-29 08:11:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xigris.html
 document_name: xigris.html
 version: success
-processing_time: 0.1064957
-conversion_datetime: 2025-12-28 00:48:59.581334
+processing_time: 0.1055226
+conversion_datetime: 2025-12-30 22:33:23.644993
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 drotrecogin alfa (activated) Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -59,7 +61,7 @@ English (EN) (258.15 KB - PDF)
 
 [View](/en/documents/overview/xigris-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-911)
+[Other languages (21)](#file-language-dropdown-746)
 
 български (BG) (445.68 KB - PDF)
 
@@ -325,7 +327,7 @@ English (EN) (640.98 KB - PDF)
 
 [View](/en/documents/product-information/xigris-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-897)
+[Other languages (21)](#file-language-dropdown-168)
 
 български (BG) (1.78 MB - PDF)
 
@@ -605,7 +607,7 @@ English (EN) (270.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xigris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-454)
+[Other languages (18)](#file-language-dropdown-633)
 
 español (ES) (269.93 KB - PDF)
 

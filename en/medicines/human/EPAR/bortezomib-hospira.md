@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:48:52
+document_datetime: 2025-12-29 14:35:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bortezomib-hospira.html
 document_name: bortezomib-hospira.html
 version: success
-processing_time: 0.1362787
-conversion_datetime: 2025-12-28 11:43:02.655332
+processing_time: 0.1324284
+conversion_datetime: 2025-12-30 01:44:26.127934
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bortezomib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +122,7 @@ English (EN) (99.11 KB - PDF)
 
 [View](/en/documents/overview/bortezomib-hospira-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-567)
+[Other languages (22)](#file-language-dropdown-629)
 
 български (BG) (126.38 KB - PDF)
 
@@ -406,7 +408,7 @@ English (EN) (588.89 KB - PDF)
 
 [View](/en/documents/product-information/bortezomib-hospira-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-790)
+[Other languages (24)](#file-language-dropdown-440)
 
 български (BG) (422.67 KB - PDF)
 
@@ -722,7 +724,7 @@ English (EN) (30.83 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bortezomib-hospira-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-46)
+[Other languages (24)](#file-language-dropdown-390)
 
 български (BG) (37.48 KB - PDF)
 
@@ -1140,7 +1142,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

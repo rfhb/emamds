@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 07:06:33
+document_datetime: 2025-12-29 09:36:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vyepti.html
 document_name: vyepti.html
 version: success
-processing_time: 0.1112325
-conversion_datetime: 2025-12-28 01:16:51.762178
+processing_time: 0.1077888
+conversion_datetime: 2025-12-30 02:55:29.405281
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 eptinezumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -101,7 +103,7 @@ English (EN) (115.19 KB - PDF)
 
 [View](/en/documents/overview/vyepti-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-133)
+[Other languages (22)](#file-language-dropdown-645)
 
 български (BG) (140.44 KB - PDF)
 
@@ -299,7 +301,7 @@ English (EN) (616.68 KB - PDF)
 
 [View](/en/documents/product-information/vyepti-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-281)
+[Other languages (24)](#file-language-dropdown-928)
 
 български (BG) (711.67 KB - PDF)
 
@@ -615,7 +617,7 @@ English (EN) (58.49 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vyepti-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-902)
+[Other languages (24)](#file-language-dropdown-213)
 
 български (BG) (93.75 KB - PDF)
 

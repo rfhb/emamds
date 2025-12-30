@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 07:06:41
+document_datetime: 2025-12-29 12:23:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pregabalin-zentiva.html
 document_name: pregabalin-zentiva.html
 version: success
-processing_time: 0.3539174
-conversion_datetime: 2025-12-25 02:19:01.976721
+processing_time: 0.1286625
+conversion_datetime: 2025-12-30 09:22:17.81797
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pregabalin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (119.29 KB - PDF)
 
 [View](/en/documents/overview/pregabalin-zentiva-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-155)
+[Other languages (22)](#file-language-dropdown-915)
 
 български (BG) (124.19 KB - PDF)
 
@@ -394,7 +396,7 @@ English (EN) (340.67 KB - PDF)
 
 [View](/en/documents/product-information/pregabalin-zentiva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-132)
+[Other languages (24)](#file-language-dropdown-839)
 
 български (BG) (508.64 KB - PDF)
 
@@ -710,7 +712,7 @@ English (EN) (75.78 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pregabalin-zentiva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-578)
+[Other languages (24)](#file-language-dropdown-533)
 
 български (BG) (147.57 KB - PDF)
 
@@ -1109,7 +1111,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-880)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

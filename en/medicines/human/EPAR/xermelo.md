@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:30:47
+document_datetime: 2025-12-29 09:39:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xermelo.html
 document_name: xermelo.html
 version: success
-processing_time: 0.1101546
-conversion_datetime: 2025-12-27 23:24:28.405206
+processing_time: 0.0933833
+conversion_datetime: 2025-12-31 00:58:38.400288
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 telotristat ethyl Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (76.11 KB - PDF)
 
 [View](/en/documents/overview/xermelo-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-609)
+[Other languages (22)](#file-language-dropdown-982)
 
 български (BG) (119.58 KB - PDF)
 
@@ -393,7 +395,7 @@ English (EN) (578.47 KB - PDF)
 
 [View](/en/documents/product-information/xermelo-epar-product-information_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-276)
+[Other languages (22)](#file-language-dropdown-536)
 
 български (BG) (615.02 KB - PDF)
 
@@ -685,7 +687,7 @@ English (EN) (42.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xermelo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-491)
+[Other languages (24)](#file-language-dropdown-654)
 
 български (BG) (43.82 KB - PDF)
 

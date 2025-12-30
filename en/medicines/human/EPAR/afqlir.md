@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 09:52:26
+document_datetime: 2025-12-29 11:36:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/afqlir.html
 document_name: afqlir.html
 version: success
-processing_time: 0.1236507
-conversion_datetime: 2025-12-27 17:45:42.971459
+processing_time: 0.1230232
+conversion_datetime: 2025-12-30 03:32:47.281814
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -119,7 +119,7 @@ English (EN) (145.06 KB - PDF)
 
 [View](/en/documents/overview/afqlir-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-686)
+[Other languages (22)](#file-language-dropdown-160)
 
 български (BG) (163.22 KB - PDF)
 
@@ -317,7 +317,7 @@ English (EN) (5.13 MB - PDF)
 
 [View](/en/documents/product-information/afqlir-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-23)
+[Other languages (24)](#file-language-dropdown-820)
 
 български (BG) (6.17 MB - PDF)
 
@@ -631,7 +631,7 @@ English (EN) (45.94 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/afqlir-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-790)
+[Other languages (24)](#file-language-dropdown-368)
 
 български (BG) (57.55 KB - PDF)
 
@@ -942,7 +942,7 @@ English (EN) (1.96 MB - PDF)
 
 [View](/en/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-302)
+[Other languages (22)](#file-language-dropdown-866)
 
 български (BG) (1.9 MB - PDF)
 

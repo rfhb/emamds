@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:53:36
+document_datetime: 2025-12-29 13:33:25
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/efavirenz-emtricitabine-tenofovir-disoproxil-krka.html
 document_name: efavirenz-emtricitabine-tenofovir-disoproxil-krka.html
 version: success
-processing_time: 0.129782
-conversion_datetime: 2025-12-24 19:04:26.994843
+processing_time: 0.2586993
+conversion_datetime: 2025-12-30 19:55:32.875662
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 efavirenz / emtricitabine / tenofovir disoproxil Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (95.85 KB - PDF)
 
 [View](/en/documents/overview/efavirenzemtricitabinetenofovir-disoproxil-krka-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-767)
+[Other languages (22)](#file-language-dropdown-973)
 
 български (BG) (125.42 KB - PDF)
 
@@ -401,7 +403,7 @@ English (EN) (392.7 KB - PDF)
 
 [View](/en/documents/product-information/efavirenz-emtricitabine-tenofovir-disoproxil-krka-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-601)
+[Other languages (24)](#file-language-dropdown-3)
 
 български (BG) (436.53 KB - PDF)
 
@@ -717,7 +719,7 @@ English (EN) (11.19 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/efavirenzemtricitabinetenofovir-disoproxil-krka-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-93)
+[Other languages (24)](#file-language-dropdown-406)
 
 български (BG) (32.99 KB - PDF)
 
@@ -1129,7 +1131,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:08:22
+document_datetime: 2025-12-29 08:01:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tukysa.html
 document_name: tukysa.html
 version: success
-processing_time: 0.1102615
-conversion_datetime: 2025-12-28 11:42:10.990419
+processing_time: 0.1072681
+conversion_datetime: 2025-12-30 09:26:12.676814
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tucatinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +106,7 @@ English (EN) (119.14 KB - PDF)
 
 [View](/en/documents/overview/tukysa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-121)
+[Other languages (22)](#file-language-dropdown-33)
 
 български (BG) (134.18 KB - PDF)
 
@@ -304,7 +306,7 @@ English (EN) (545.72 KB - PDF)
 
 [View](/en/documents/product-information/tukysa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-383)
+[Other languages (24)](#file-language-dropdown-531)
 
 български (BG) (631.93 KB - PDF)
 
@@ -618,7 +620,7 @@ English (EN) (16.89 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tukysa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-365)
+[Other languages (24)](#file-language-dropdown-553)
 
 български (BG) (38.88 KB - PDF)
 
@@ -831,13 +833,7 @@ Tukysa is indicated in combination with trastuzumab and capecitabine for the tre
 
 ## Authorisation details
 
-EMA product number EMEA/H/C/005263
-
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
-Marketing authorisation holder
+EMA product number EMEA/H/C/005263 Marketing authorisation holder
 
 Pfizer Europe MA EEIG
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:48:20
+document_datetime: 2025-12-29 11:55:57
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fycompa.html
 document_name: fycompa.html
 version: success
-processing_time: 0.132186
-conversion_datetime: 2025-12-27 20:07:39.528034
+processing_time: 0.1309456
+conversion_datetime: 2025-12-30 02:51:11.657158
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 perampanel Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (134.75 KB - PDF)
 
 [View](/en/documents/overview/fycompa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-539)
+[Other languages (22)](#file-language-dropdown-615)
 
 български (BG) (159.72 KB - PDF)
 
@@ -394,7 +396,7 @@ English (EN) (735.79 KB - PDF)
 
 [View](/en/documents/product-information/fycompa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-620)
+[Other languages (24)](#file-language-dropdown-930)
 
 български (BG) (786.29 KB - PDF)
 
@@ -710,7 +712,7 @@ English (EN) (27.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fycompa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-278)
+[Other languages (24)](#file-language-dropdown-552)
 
 български (BG) (49.79 KB - PDF)
 

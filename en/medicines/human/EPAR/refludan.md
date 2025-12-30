@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:27:31
+document_datetime: 2025-12-29 14:32:39
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/refludan.html
 document_name: refludan.html
 version: success
-processing_time: 0.1023204
-conversion_datetime: 2025-12-28 18:14:49.172358
+processing_time: 0.1035507
+conversion_datetime: 2025-12-30 09:44:07.535097
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 lepirudin Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -56,7 +58,7 @@ English (EN) (262.17 KB - PDF)
 
 [View](/en/documents/overview/refludan-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-358)
+[Other languages (21)](#file-language-dropdown-466)
 
 български (BG) (429.25 KB - PDF)
 
@@ -322,7 +324,7 @@ English (EN) (681.95 KB - PDF)
 
 [View](/en/documents/product-information/refludan-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-428)
+[Other languages (23)](#file-language-dropdown-885)
 
 български (BG) (1.53 MB - PDF)
 
@@ -626,7 +628,7 @@ English (EN) (263.62 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/refludan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-12)
+[Other languages (23)](#file-language-dropdown-449)
 
 български (BG) (322.63 KB - PDF)
 

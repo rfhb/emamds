@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:23:19
+document_datetime: 2025-12-29 11:46:48
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/soliris.html
 document_name: soliris.html
 version: success
-processing_time: 0.1749806
-conversion_datetime: 2025-12-28 01:22:43.248847
+processing_time: 0.1718996
+conversion_datetime: 2025-12-30 20:25:45.381683
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 eculizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -144,7 +146,7 @@ English (EN) (132.47 KB - PDF)
 
 [View](/en/documents/overview/soliris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-128)
+[Other languages (22)](#file-language-dropdown-601)
 
 български (BG) (154.93 KB - PDF)
 
@@ -432,7 +434,7 @@ English (EN) (753.31 KB - PDF)
 
 [View](/en/documents/product-information/soliris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-943)
+[Other languages (24)](#file-language-dropdown-748)
 
 български (BG) (1.04 MB - PDF)
 
@@ -748,7 +750,7 @@ English (EN) (12.34 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/soliris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-838)
+[Other languages (24)](#file-language-dropdown-768)
 
 български (BG) (76.71 KB - PDF)
 
@@ -1048,7 +1050,7 @@ English (EN) (125.17 KB - PDF)
 
 [View](/en/documents/conditions-member-states/soliris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-184)
+[Other languages (23)](#file-language-dropdown-54)
 
 български (BG) (180.08 KB - PDF)
 
@@ -1673,7 +1675,7 @@ English (EN) (302.77 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/soliris-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-368)
+[Other languages (24)](#file-language-dropdown-34)
 
 български (BG) (469.17 KB - DOCX)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:27:30
+document_datetime: 2025-12-29 18:59:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-acetylsalicylic-acid-teva.html
 document_name: clopidogrel-acetylsalicylic-acid-teva.html
 version: success
-processing_time: 0.1133175
-conversion_datetime: 2025-12-27 20:17:43.405823
+processing_time: 0.1067588
+conversion_datetime: 2025-12-30 02:59:04.65379
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 clopidogrel / acetylsalicylic acid Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -61,7 +63,7 @@ English (EN) (551.84 KB - PDF)
 
 [View](/en/documents/overview/clopidogrel-acetylsalicylic-acid-teva-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-49)
+[Other languages (21)](#file-language-dropdown-403)
 
 български (BG) (640.29 KB - PDF)
 
@@ -339,7 +341,7 @@ English (EN) (1.15 MB - PDF)
 
 [View](/en/documents/product-information/clopidogrel-acetylsalicylic-acid-teva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-244)
+[Other languages (24)](#file-language-dropdown-300)
 
 български (BG) (2.74 MB - PDF)
 
@@ -655,7 +657,7 @@ English (EN) (465.95 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/clopidogrel-acetylsalicylic-acid-teva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-386)
+[Other languages (24)](#file-language-dropdown-994)
 
 български (BG) (559.88 KB - PDF)
 

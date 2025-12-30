@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 08:12:13
+document_datetime: 2025-12-29 12:59:55
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/epixram.html
 document_name: epixram.html
 version: success
-processing_time: 0.0711831
-conversion_datetime: 2025-12-24 04:22:28.583864
+processing_time: 0.0684965
+conversion_datetime: 2025-12-30 02:39:16.166391
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-levetiracetam
+levetiracetam Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +106,7 @@ English (EN) (141.42 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-epixram_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-517)
+[Other languages (22)](#file-language-dropdown-442)
 
 български (BG) (165.25 KB - PDF)
 

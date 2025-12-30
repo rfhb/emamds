@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-09 23:29:19
+document_datetime: 2025-12-29 12:05:37
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kaletra.html
 document_name: kaletra.html
 version: success
-processing_time: 0.1476265
-conversion_datetime: 2025-12-28 17:40:21.959717
+processing_time: 0.3688428
+conversion_datetime: 2025-12-30 10:00:07.526185
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lopinavir / ritonavir Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (79.59 KB - PDF)
 
 [View](/en/documents/overview/kaletra-epar-summary-public_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-558)
+[Other languages (24)](#file-language-dropdown-806)
 
 български (BG) (105.21 KB - PDF)
 
@@ -423,7 +425,7 @@ English (EN) (907.89 KB - PDF)
 
 [View](/en/documents/product-information/kaletra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-232)
+[Other languages (24)](#file-language-dropdown-164)
 
 български (BG) (1.09 MB - PDF)
 
@@ -739,7 +741,7 @@ English (EN) (29.26 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kaletra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-287)
+[Other languages (24)](#file-language-dropdown-18)
 
 български (BG) (39.04 KB - PDF)
 

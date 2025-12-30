@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:30
+document_datetime: 2025-12-29 08:19:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zoledronic-acid-teva-generics.html
 document_name: zoledronic-acid-teva-generics.html
 version: success
-processing_time: 0.1083762
-conversion_datetime: 2025-12-24 18:22:46.687384
+processing_time: 0.107855
+conversion_datetime: 2025-12-30 01:30:49.756531
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-zoledronic acid
+zoledronic acid Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -69,7 +65,7 @@ English (EN) (541.61 KB - PDF)
 
 [View](/en/documents/overview/zoledronic-acid-teva-generics-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-131)
+[Other languages (22)](#file-language-dropdown-407)
 
 български (BG) (627.31 KB - PDF)
 
@@ -359,7 +355,7 @@ English (EN) (1.12 MB - PDF)
 
 [View](/en/documents/product-information/zoledronic-acid-teva-generics-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-883)
+[Other languages (24)](#file-language-dropdown-911)
 
 български (BG) (2.6 MB - PDF)
 
@@ -675,7 +671,7 @@ English (EN) (480.97 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zoledronic-acid-teva-generics-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-302)
+[Other languages (24)](#file-language-dropdown-565)
 
 български (BG) (527.49 KB - PDF)
 

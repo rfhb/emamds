@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 11:01:18
+document_datetime: 2025-12-29 11:13:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/veltassa.html
 document_name: veltassa.html
 version: success
-processing_time: 0.1074025
-conversion_datetime: 2025-12-27 16:44:21.694527
+processing_time: 0.0994897
+conversion_datetime: 2025-12-30 13:00:41.914345
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-patiromer
+patiromer Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +105,7 @@ English (EN) (117.13 KB - PDF)
 
 [View](/en/documents/overview/veltassa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-811)
+[Other languages (22)](#file-language-dropdown-539)
 
 български (BG) (138.42 KB - PDF)
 
@@ -395,7 +391,7 @@ English (EN) (320.5 KB - PDF)
 
 [View](/en/documents/product-information/veltassa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-734)
+[Other languages (24)](#file-language-dropdown-992)
 
 български (BG) (499.95 KB - PDF)
 
@@ -709,7 +705,7 @@ English (EN) (18.94 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/veltassa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-862)
+[Other languages (24)](#file-language-dropdown-227)
 
 български (BG) (45.13 KB - PDF)
 

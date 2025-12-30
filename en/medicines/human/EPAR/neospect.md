@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:03:35
+document_datetime: 2025-12-29 14:33:06
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/neospect.html
 document_name: neospect.html
 version: success
-processing_time: 0.101239
-conversion_datetime: 2025-12-28 14:05:47.666072
+processing_time: 0.102716
+conversion_datetime: 2025-12-30 08:51:33.476743
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-depreotide
+depreotide Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (263.04 KB - PDF)
 
 [View](/en/documents/overview/neospect-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-73)
+[Other languages (21)](#file-language-dropdown-382)
 
 български (BG) (424.43 KB - PDF)
 
@@ -332,7 +328,7 @@ English (EN) (357.04 KB - PDF)
 
 [View](/en/documents/product-information/neospect-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-829)
+[Other languages (21)](#file-language-dropdown-505)
 
 български (BG) (958.74 KB - PDF)
 
@@ -612,7 +608,7 @@ English (EN) (272.12 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/neospect-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-88)
+[Other languages (21)](#file-language-dropdown-589)
 
 български (BG) (371.34 KB - PDF)
 

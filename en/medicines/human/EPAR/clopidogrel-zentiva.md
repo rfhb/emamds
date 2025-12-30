@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:04:41
+document_datetime: 2025-12-29 11:31:32
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-zentiva.html
 document_name: clopidogrel-zentiva.html
 version: success
-processing_time: 0.115556
-conversion_datetime: 2025-12-25 04:10:25.470636
+processing_time: 0.1071189
+conversion_datetime: 2025-12-30 19:52:57.625737
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 clopidogrel Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +121,7 @@ English (EN) (66.54 KB - PDF)
 
 [View](/en/documents/overview/clopidogrel-zentiva-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-976)
+[Other languages (21)](#file-language-dropdown-548)
 
 български (BG) (112.77 KB - PDF)
 
@@ -385,7 +387,7 @@ English (EN) (357.91 KB - PDF)
 
 [View](/en/documents/product-information/clopidogrel-zentiva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-824)
+[Other languages (24)](#file-language-dropdown-418)
 
 български (BG) (805.69 KB - PDF)
 
@@ -701,7 +703,7 @@ English (EN) (24.99 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/clopidogrel-zentiva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-68)
+[Other languages (23)](#file-language-dropdown-791)
 
 български (BG) (91.58 KB - PDF)
 

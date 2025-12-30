@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:55:56
+document_datetime: 2025-12-29 11:46:31
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/apidra.html
 document_name: apidra.html
 version: success
-processing_time: 0.1127075
-conversion_datetime: 2025-12-25 05:23:48.987224
+processing_time: 0.1160867
+conversion_datetime: 2025-12-30 08:19:25.133943
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin glulisine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (47.82 KB - PDF)
 
 [View](/en/documents/overview/apidra-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-352)
+[Other languages (21)](#file-language-dropdown-622)
 
 български (BG) (180.74 KB - PDF)
 
@@ -381,7 +383,7 @@ English (EN) (603.63 KB - PDF)
 
 [View](/en/documents/product-information/apidra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-263)
+[Other languages (24)](#file-language-dropdown-499)
 
 български (BG) (1.47 MB - PDF)
 
@@ -697,7 +699,7 @@ English (EN) (25.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/apidra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-955)
+[Other languages (24)](#file-language-dropdown-734)
 
 български (BG) (75.04 KB - PDF)
 

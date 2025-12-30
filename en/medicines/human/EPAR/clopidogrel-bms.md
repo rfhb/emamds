@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:16:05
+document_datetime: 2025-12-29 14:35:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-bms.html
 document_name: clopidogrel-bms.html
 version: success
-processing_time: 0.1010469
-conversion_datetime: 2025-12-25 01:11:01.091878
+processing_time: 0.0984058
+conversion_datetime: 2025-12-30 09:23:54.136534
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 clopidogrel Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -62,7 +64,7 @@ English (EN) (268.18 KB - PDF)
 
 [View](/en/documents/overview/clopidogrel-bms-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-692)
+[Other languages (21)](#file-language-dropdown-105)
 
 български (BG) (441.64 KB - PDF)
 
@@ -328,7 +330,7 @@ English (EN) (696.54 KB - PDF)
 
 [View](/en/documents/product-information/clopidogrel-bms-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-275)
+[Other languages (21)](#file-language-dropdown-659)
 
 български (BG) (851.28 KB - PDF)
 
@@ -608,7 +610,7 @@ English (EN) (227.86 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/clopidogrel-bms-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-19)
+[Other languages (21)](#file-language-dropdown-130)
 
 български (BG) (350.69 KB - PDF)
 

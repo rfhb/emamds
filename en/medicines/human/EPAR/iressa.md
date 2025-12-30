@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:07:51
+document_datetime: 2025-12-29 15:03:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/iressa.html
 document_name: iressa.html
 version: success
-processing_time: 0.1039124
-conversion_datetime: 2025-12-24 18:40:06.099475
+processing_time: 0.1070897
+conversion_datetime: 2025-12-30 19:58:12.797318
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-gefitinib
+gefitinib Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +103,7 @@ English (EN) (32.08 KB - PDF)
 
 [View](/en/documents/overview/iressa-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-861)
+[Other languages (21)](#file-language-dropdown-421)
 
 български (BG) (159.31 KB - PDF)
 
@@ -373,7 +369,7 @@ English (EN) (261.41 KB - PDF)
 
 [View](/en/documents/product-information/iressa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-514)
+[Other languages (24)](#file-language-dropdown-433)
 
 български (BG) (294.55 KB - PDF)
 
@@ -689,7 +685,7 @@ English (EN) (11.92 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/iressa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-73)
+[Other languages (21)](#file-language-dropdown-451)
 
 български (BG) (76.86 KB - PDF)
 

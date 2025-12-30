@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:13:45
+document_datetime: 2025-12-29 13:27:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cinryze.html
 document_name: cinryze.html
 version: success
-processing_time: 0.1343505
-conversion_datetime: 2025-12-24 19:04:58.969581
+processing_time: 0.1358035
+conversion_datetime: 2025-12-30 10:25:01.692528
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 C1 inhibitor (human) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -128,7 +130,7 @@ English (EN) (80.43 KB - PDF)
 
 [View](/en/documents/overview/cinryze-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-462)
+[Other languages (22)](#file-language-dropdown-263)
 
 български (BG) (105.92 KB - PDF)
 
@@ -414,7 +416,7 @@ English (EN) (465.58 KB - PDF)
 
 [View](/en/documents/product-information/cinryze-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-933)
+[Other languages (24)](#file-language-dropdown-746)
 
 български (BG) (795.89 KB - PDF)
 
@@ -730,7 +732,7 @@ English (EN) (63.84 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cinryze-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-569)
+[Other languages (24)](#file-language-dropdown-972)
 
 български (BG) (40.87 KB - PDF)
 
@@ -1030,7 +1032,7 @@ English (EN) (35.45 KB - PDF)
 
 [View](/en/documents/conditions-member-states/cinryze-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-90)
+[Other languages (23)](#file-language-dropdown-339)
 
 български (BG) (104.91 KB - PDF)
 

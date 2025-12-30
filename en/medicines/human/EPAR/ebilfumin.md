@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:57:34
+document_datetime: 2025-12-29 12:07:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ebilfumin.html
 document_name: ebilfumin.html
 version: success
-processing_time: 0.131154
-conversion_datetime: 2025-12-26 19:49:37.24374
+processing_time: 0.1314485
+conversion_datetime: 2025-12-30 10:15:30.480704
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 oseltamivir Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +124,7 @@ English (EN) (80.15 KB - PDF)
 
 [View](/en/documents/overview/ebilfumin-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-899)
+[Other languages (22)](#file-language-dropdown-803)
 
 български (BG) (107.47 KB - PDF)
 
@@ -412,7 +414,7 @@ English (EN) (1.22 MB - PDF)
 
 [View](/en/documents/product-information/ebilfumin-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-374)
+[Other languages (24)](#file-language-dropdown-915)
 
 български (BG) (1.33 MB - PDF)
 
@@ -728,7 +730,7 @@ English (EN) (10.48 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ebilfumin-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-380)
+[Other languages (24)](#file-language-dropdown-590)
 
 български (BG) (29.87 KB - PDF)
 
@@ -1131,7 +1133,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

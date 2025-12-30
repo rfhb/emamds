@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:44:15
+document_datetime: 2025-12-29 07:36:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/teslascan.html
 document_name: teslascan.html
 version: success
-processing_time: 0.0992858
-conversion_datetime: 2025-12-27 14:19:31.345828
+processing_time: 0.1024867
+conversion_datetime: 2025-12-30 01:41:49.337768
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 mangafodipir Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -58,7 +60,7 @@ English (EN) (275.86 KB - PDF)
 
 [View](/en/documents/overview/teslascan-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-404)
+[Other languages (21)](#file-language-dropdown-294)
 
 български (BG) (464.54 KB - PDF)
 
@@ -324,7 +326,7 @@ English (EN) (493.98 KB - PDF)
 
 [View](/en/documents/product-information/teslascan-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-714)
+[Other languages (21)](#file-language-dropdown-547)
 
 български (BG) (464.54 KB - PDF)
 
@@ -604,7 +606,7 @@ English (EN) (270.33 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/teslascan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-31)
+[Other languages (21)](#file-language-dropdown-589)
 
 български (BG) (326.76 KB - PDF)
 

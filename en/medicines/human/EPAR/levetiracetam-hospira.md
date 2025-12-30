@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-21 12:16:41
+document_datetime: 2025-12-29 11:32:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/levetiracetam-hospira.html
 document_name: levetiracetam-hospira.html
 version: success
-processing_time: 0.1422944
-conversion_datetime: 2025-12-24 14:35:36.1601
+processing_time: 0.1378023
+conversion_datetime: 2025-12-30 12:42:41.296193
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -112,7 +112,7 @@ English (EN) (155.33 KB - PDF)
 
 [View](/en/documents/overview/levetiracetam-hospira-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-739)
+[Other languages (22)](#file-language-dropdown-621)
 
 български (BG) (165.61 KB - PDF)
 
@@ -390,7 +390,7 @@ English (EN) (260.68 KB - PDF)
 
 [View](/en/documents/product-information/levetiracetam-hospira-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-778)
+[Other languages (24)](#file-language-dropdown-548)
 
 български (BG) (292.36 KB - PDF)
 
@@ -706,7 +706,7 @@ English (EN) (13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/levetiracetam-hospira-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-82)
+[Other languages (24)](#file-language-dropdown-463)
 
 български (BG) (42.32 KB - PDF)
 
@@ -1108,7 +1108,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-885)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1386,7 +1386,7 @@ English (EN) (115.77 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/levetiracetam-hospira-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-222)
+[Other languages (24)](#file-language-dropdown-117)
 
 български (BG) (161.99 KB - DOCX)
 

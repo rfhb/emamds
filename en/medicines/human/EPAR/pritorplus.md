@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 10:24:05
+document_datetime: 2025-12-29 07:06:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pritorplus.html
 document_name: pritorplus.html
 version: success
-processing_time: 0.1315846
-conversion_datetime: 2025-12-27 22:09:48.163937
+processing_time: 0.1325349
+conversion_datetime: 2025-12-30 01:04:36.478776
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-telmisartan / hydrochlorothiazide
+telmisartan / hydrochlorothiazide Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +118,7 @@ English (EN) (77.11 KB - PDF)
 
 [View](/en/documents/overview/pritorplus-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-6)
+[Other languages (22)](#file-language-dropdown-140)
 
 български (BG) (107.9 KB - PDF)
 
@@ -400,7 +396,7 @@ English (EN) (1.03 MB - PDF)
 
 [View](/en/documents/product-information/pritorplus-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-2)
+[Other languages (24)](#file-language-dropdown-392)
 
 български (BG) (1.16 MB - PDF)
 
@@ -716,7 +712,7 @@ English (EN) (29.09 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pritorplus-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-543)
+[Other languages (21)](#file-language-dropdown-710)
 
 български (BG) (117.41 KB - PDF)
 
@@ -1048,7 +1044,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/pritorplus-h-c-414-a31-0093-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recomme_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-661)
+[Other languages (22)](#file-language-dropdown-199)
 
 български (BG) (87.49 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:54:08
+document_datetime: 2025-12-29 07:25:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ruxience.html
 document_name: ruxience.html
 version: success
-processing_time: 0.1157476
-conversion_datetime: 2025-12-27 15:49:58.745066
+processing_time: 0.1149142
+conversion_datetime: 2025-12-30 07:46:23.838978
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 rituximab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -128,7 +130,7 @@ English (EN) (147.29 KB - PDF)
 
 [View](/en/documents/overview/ruxience-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-138)
+[Other languages (22)](#file-language-dropdown-505)
 
 български (BG) (168.5 KB - PDF)
 
@@ -416,7 +418,7 @@ English (EN) (886.95 KB - PDF)
 
 [View](/en/documents/product-information/ruxience-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-734)
+[Other languages (24)](#file-language-dropdown-236)
 
 български (BG) (840.34 KB - PDF)
 
@@ -730,7 +732,7 @@ English (EN) (24.96 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ruxience-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-479)
+[Other languages (24)](#file-language-dropdown-814)
 
 български (BG) (28.31 KB - PDF)
 

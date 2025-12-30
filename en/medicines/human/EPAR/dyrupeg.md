@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:05:36
+document_datetime: 2025-12-29 08:13:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dyrupeg.html
 document_name: dyrupeg.html
 version: success
-processing_time: 0.0672788
-conversion_datetime: 2025-12-26 18:28:56.718308
+processing_time: 0.062823
+conversion_datetime: 2025-12-30 21:27:03.76792
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-pegfilgrastim
+pegfilgrastim Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +103,7 @@ English (EN) (117.41 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-application-marketing-authorisation-dyrupeg-pegfilgrastim_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-925)
+[Other languages (22)](#file-language-dropdown-583)
 
 български (BG) (137.5 KB - PDF)
 

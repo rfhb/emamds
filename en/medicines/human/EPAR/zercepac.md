@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:56:28
+document_datetime: 2025-12-29 09:37:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zercepac.html
 document_name: zercepac.html
 version: success
-processing_time: 0.1120935
-conversion_datetime: 2025-12-27 19:52:16.224652
+processing_time: 0.1115176
+conversion_datetime: 2025-12-30 10:05:00.596737
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 trastuzumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (116.74 KB - PDF)
 
 [View](/en/documents/overview/zercepac-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-319)
+[Other languages (21)](#file-language-dropdown-748)
 
 български (BG) (173.4 KB - PDF)
 
@@ -310,7 +312,7 @@ English (EN) (695.64 KB - PDF)
 
 [View](/en/documents/product-information/zercepac-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-329)
+[Other languages (24)](#file-language-dropdown-671)
 
 български (BG) (877.8 KB - PDF)
 
@@ -626,7 +628,7 @@ English (EN) (50.98 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-430)
+[Other languages (24)](#file-language-dropdown-535)
 
 български (BG) (59.28 KB - PDF)
 

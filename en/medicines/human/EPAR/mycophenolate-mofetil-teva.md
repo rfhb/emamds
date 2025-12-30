@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:41:25
+document_datetime: 2025-12-29 12:28:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mycophenolate-mofetil-teva.html
 document_name: mycophenolate-mofetil-teva.html
 version: success
-processing_time: 0.1356954
-conversion_datetime: 2025-12-24 03:26:48.821179
+processing_time: 0.1306873
+conversion_datetime: 2025-12-30 09:41:07.370019
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 mycophenolate mofetil Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (54.97 KB - PDF)
 
 [View](/en/documents/overview/mycophenolate-mofetil-teva-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-854)
+[Other languages (21)](#file-language-dropdown-748)
 
 български (BG) (92.89 KB - PDF)
 
@@ -375,7 +377,7 @@ English (EN) (1.09 MB - PDF)
 
 [View](/en/documents/product-information/mycophenolate-mofetil-teva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-668)
+[Other languages (24)](#file-language-dropdown-312)
 
 български (BG) (1.24 MB - PDF)
 
@@ -691,7 +693,7 @@ English (EN) (28.66 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mycophenolate-mofetil-teva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-896)
+[Other languages (24)](#file-language-dropdown-919)
 
 български (BG) (48.99 KB - PDF)
 
@@ -1109,7 +1111,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

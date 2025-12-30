@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:51:46
+document_datetime: 2025-12-29 12:12:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/duotrav.html
 document_name: duotrav.html
 version: success
-processing_time: 0.1104503
-conversion_datetime: 2025-12-24 19:57:14.808724
+processing_time: 0.1116298
+conversion_datetime: 2025-12-30 01:52:24.265637
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 travoprost / timolol Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (65.83 KB - PDF)
 
 [View](/en/documents/overview/duotrav-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-88)
+[Other languages (21)](#file-language-dropdown-827)
 
 български (BG) (96.65 KB - PDF)
 
@@ -375,7 +377,7 @@ English (EN) (301.14 KB - PDF)
 
 [View](/en/documents/product-information/duotrav-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-446)
+[Other languages (24)](#file-language-dropdown-875)
 
 български (BG) (421.75 KB - PDF)
 
@@ -691,7 +693,7 @@ English (EN) (72.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/duotrav-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-17)
+[Other languages (24)](#file-language-dropdown-192)
 
 български (BG) (71.04 KB - PDF)
 

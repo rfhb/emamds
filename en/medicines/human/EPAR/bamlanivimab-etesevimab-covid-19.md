@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:06:27
+document_datetime: 2025-12-29 07:27:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bamlanivimab-etesevimab-covid-19.html
 document_name: bamlanivimab-etesevimab-covid-19.html
 version: success
-processing_time: 0.0374247
-conversion_datetime: 2025-12-27 17:47:33.757434
+processing_time: 0.0306784
+conversion_datetime: 2025-12-30 12:55:21.572226
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,11 +24,9 @@ docling_version:
 
 This medicine has been withdrawn from evaluation under rolling review
 
-Medicine
+Medicine Human Withdrawn from rolling review
 
-Human
-
-Withdrawn from rolling review
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

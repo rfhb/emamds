@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:01:20
+document_datetime: 2025-12-29 14:36:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/neofordex-0.html
 document_name: neofordex-0.html
 version: success
-processing_time: 0.2694013
-conversion_datetime: 2025-12-24 07:37:37.737517
+processing_time: 0.069652
+conversion_datetime: 2025-12-30 01:33:57.01482
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 dexamethasone Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -97,7 +99,7 @@ English (EN) (62.37 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-neofordex_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-286)
+[Other languages (22)](#file-language-dropdown-593)
 
 български (BG) (101.97 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:34:41
+document_datetime: 2025-12-29 12:07:11
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/symtuza.html
 document_name: symtuza.html
 version: success
-processing_time: 0.1036541
-conversion_datetime: 2025-12-28 00:16:39.228306
+processing_time: 0.1161819
+conversion_datetime: 2025-12-30 10:45:01.528318
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 darunavir / cobicistat / emtricitabine / tenofovir alafenamide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (82.2 KB - PDF)
 
 [View](/en/documents/overview/symtuza-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-196)
+[Other languages (22)](#file-language-dropdown-450)
 
 български (BG) (110.25 KB - PDF)
 
@@ -398,7 +400,7 @@ English (EN) (366.43 KB - PDF)
 
 [View](/en/documents/product-information/symtuza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-927)
+[Other languages (24)](#file-language-dropdown-35)
 
 български (BG) (387.82 KB - PDF)
 
@@ -714,7 +716,7 @@ English (EN) (21.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/symtuza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-312)
+[Other languages (24)](#file-language-dropdown-660)
 
 български (BG) (22.9 KB - PDF)
 

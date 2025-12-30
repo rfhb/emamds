@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:12
+document_datetime: 2025-12-29 07:19:59
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rhucin.html
 document_name: rhucin.html
 version: success
-processing_time: 0.043111
-conversion_datetime: 2025-12-28 08:58:37.14194
+processing_time: 0.0423101
+conversion_datetime: 2025-12-30 20:21:12.231959
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine has been refused authorisation
 
-recombinant human C1 inhibitor
+recombinant human C1 inhibitor Medicine Human Refused
 
-Medicine
-
-Human
-
-Refused
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

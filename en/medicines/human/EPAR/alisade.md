@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:50:23
+document_datetime: 2025-12-29 14:34:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/alisade.html
 document_name: alisade.html
 version: success
-processing_time: 0.090189
-conversion_datetime: 2025-12-28 05:12:31.331359
+processing_time: 0.0909936
+conversion_datetime: 2025-12-30 09:22:43.910369
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has lapsed
 
 fluticasone furoate Medicine Human Lapsed
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -58,7 +60,7 @@ English (EN) (236.73 KB - PDF)
 
 [View](/en/documents/overview/alisade-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-595)
+[Other languages (21)](#file-language-dropdown-439)
 
 български (BG) (474.42 KB - PDF)
 
@@ -324,7 +326,7 @@ English (EN) (1011.84 KB - PDF)
 
 [View](/en/documents/product-information/alisade-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-861)
+[Other languages (23)](#file-language-dropdown-478)
 
 български (BG) (1.99 MB - PDF)
 
@@ -628,7 +630,7 @@ English (EN) (241.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/alisade-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-453)
+[Other languages (21)](#file-language-dropdown-411)
 
 български (BG) (315.61 KB - PDF)
 

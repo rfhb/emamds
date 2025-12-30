@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:02:23
+document_datetime: 2025-12-29 11:41:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/crysvita.html
 document_name: crysvita.html
 version: success
-processing_time: 0.1231281
-conversion_datetime: 2025-12-25 00:35:30.910859
+processing_time: 0.1199512
+conversion_datetime: 2025-12-30 02:50:44.908412
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 burosumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -131,7 +133,7 @@ English (EN) (127.59 KB - PDF)
 
 [View](/en/documents/overview/crysvita-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-409)
+[Other languages (22)](#file-language-dropdown-730)
 
 български (BG) (152.16 KB - PDF)
 
@@ -419,7 +421,7 @@ English (EN) (1.38 MB - PDF)
 
 [View](/en/documents/product-information/crysvita-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-497)
+[Other languages (24)](#file-language-dropdown-798)
 
 български (BG) (1.69 MB - PDF)
 
@@ -735,7 +737,7 @@ English (EN) (79.94 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/crysvita-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-976)
+[Other languages (24)](#file-language-dropdown-10)
 
 български (BG) (99.18 KB - PDF)
 

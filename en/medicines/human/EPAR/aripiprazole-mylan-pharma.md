@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:14:23
+document_datetime: 2025-12-29 14:35:38
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aripiprazole-mylan-pharma.html
 document_name: aripiprazole-mylan-pharma.html
 version: success
-processing_time: 0.1335017
-conversion_datetime: 2025-12-24 07:54:32.496119
+processing_time: 0.131121
+conversion_datetime: 2025-12-30 02:00:13.583877
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 aripiprazole Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (113.09 KB - PDF)
 
 [View](/en/documents/overview/aripiprazole-mylan-pharma-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-228)
+[Other languages (22)](#file-language-dropdown-85)
 
 български (BG) (120.96 KB - PDF)
 
@@ -407,7 +409,7 @@ English (EN) (345.07 KB - PDF)
 
 [View](/en/documents/product-information/aripiprazole-mylan-pharma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-341)
+[Other languages (24)](#file-language-dropdown-796)
 
 български (BG) (593.37 KB - PDF)
 
@@ -723,7 +725,7 @@ English (EN) (29.87 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/aripiprazole-mylan-pharma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-724)
+[Other languages (23)](#file-language-dropdown-658)
 
 български (BG) (77.41 KB - PDF)
 
@@ -1104,7 +1106,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

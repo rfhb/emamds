@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:40:57
+document_datetime: 2025-12-29 13:10:55
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vpriv.html
 document_name: vpriv.html
 version: success
-processing_time: 0.4402026
-conversion_datetime: 2025-12-25 13:18:03.895675
+processing_time: 0.1044767
+conversion_datetime: 2025-12-30 01:50:15.95382
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 velaglucerase alfa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (81.95 KB - PDF)
 
 [View](/en/documents/overview/vpriv-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-16)
+[Other languages (22)](#file-language-dropdown-801)
 
 български (BG) (109.18 KB - PDF)
 
@@ -390,7 +392,7 @@ English (EN) (612.75 KB - PDF)
 
 [View](/en/documents/product-information/vpriv-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-893)
+[Other languages (24)](#file-language-dropdown-778)
 
 български (BG) (857.38 KB - PDF)
 
@@ -706,7 +708,7 @@ English (EN) (14.68 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vpriv-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-306)
+[Other languages (23)](#file-language-dropdown-466)
 
 български (BG) (36.78 KB - PDF)
 

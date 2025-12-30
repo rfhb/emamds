@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:10:26
+document_datetime: 2025-12-29 12:31:14
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/carbaglu.html
 document_name: carbaglu.html
 version: success
-processing_time: 0.1330819
-conversion_datetime: 2025-12-28 14:41:51.705535
+processing_time: 0.1278732
+conversion_datetime: 2025-12-30 09:04:32.838223
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 carglumic acid Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (71.27 KB - PDF)
 
 [View](/en/documents/overview/carbaglu-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-998)
+[Other languages (21)](#file-language-dropdown-211)
 
 български (BG) (173.84 KB - PDF)
 
@@ -392,7 +394,7 @@ English (EN) (380.83 KB - PDF)
 
 [View](/en/documents/product-information/carbaglu-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-326)
+[Other languages (24)](#file-language-dropdown-963)
 
 български (BG) (449.94 KB - PDF)
 
@@ -708,7 +710,7 @@ English (EN) (25.9 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/carbaglu-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-107)
+[Other languages (24)](#file-language-dropdown-784)
 
 български (BG) (28.37 KB - PDF)
 
@@ -1132,7 +1134,7 @@ English (EN) (199 KB - DOC)
 
 [View](/en/documents/product-information-tracked-changes/carbaglu-epar-product-information-tracked-changes_en.doc)
 
-[Other languages (24)](#file-language-dropdown-649)
+[Other languages (24)](#file-language-dropdown-320)
 
 български (BG) (87.52 KB - DOCX)
 

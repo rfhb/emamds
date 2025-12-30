@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-17 15:40:36
+document_datetime: 2025-12-08 12:00:58
 document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/odomzo-epar-product-information_en.pdf
 document_name: odomzo-epar-product-information_en.pdf
 version: success
-processing_time: 7.9569478
-conversion_datetime: 2025-12-20 10:07:01.797925
+processing_time: 8.3174247
+conversion_datetime: 2025-12-30 21:13:43.928378
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)

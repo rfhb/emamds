@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:12:30
+document_datetime: 2025-12-29 11:36:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fluenz-tetra.html
 document_name: fluenz-tetra.html
 version: success
-processing_time: 0.1093613
-conversion_datetime: 2025-12-28 12:49:23.027816
+processing_time: 0.1027482
+conversion_datetime: 2025-12-30 19:56:01.785321
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 influenza vaccine (live attenuated, nasal) Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -60,7 +62,7 @@ English (EN) (87.91 KB - PDF)
 
 [View](/en/documents/overview/fluenz-tetra-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-822)
+[Other languages (22)](#file-language-dropdown-547)
 
 български (BG) (119.3 KB - PDF)
 
@@ -348,7 +350,7 @@ English (EN) (510.21 KB - PDF)
 
 [View](/en/documents/product-information/fluenz-tetra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-328)
+[Other languages (24)](#file-language-dropdown-757)
 
 български (BG) (513.49 KB - PDF)
 
@@ -664,7 +666,7 @@ English (EN) (52.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fluenz-tetra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-363)
+[Other languages (24)](#file-language-dropdown-11)
 
 български (BG) (96.06 KB - PDF)
 

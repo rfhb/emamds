@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:12:45
+document_datetime: 2025-12-29 14:20:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/azomyr.html
 document_name: azomyr.html
 version: success
-processing_time: 0.1185241
-conversion_datetime: 2025-12-25 04:47:34.180827
+processing_time: 0.1213143
+conversion_datetime: 2025-12-30 02:28:31.128711
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 desloratadine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (75 KB - PDF)
 
 [View](/en/documents/overview/azomyr-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-594)
+[Other languages (22)](#file-language-dropdown-288)
 
 български (BG) (102.94 KB - PDF)
 
@@ -393,7 +395,7 @@ English (EN) (317.85 KB - PDF)
 
 [View](/en/documents/product-information/azomyr-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-745)
+[Other languages (24)](#file-language-dropdown-870)
 
 български (BG) (409.05 KB - PDF)
 
@@ -709,7 +711,7 @@ English (EN) (47.83 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/azomyr-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-66)
+[Other languages (24)](#file-language-dropdown-905)
 
 български (BG) (66.92 KB - PDF)
 

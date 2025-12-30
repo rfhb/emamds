@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:00:20
+document_datetime: 2025-12-29 11:38:28
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/resolor.html
 document_name: resolor.html
 version: success
-processing_time: 0.1140955
-conversion_datetime: 2025-12-29 19:30:39.725485
+processing_time: 0.1171247
+conversion_datetime: 2025-12-30 21:10:26.647185
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 prucalopride Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (74.45 KB - PDF)
 
 [View](/en/documents/overview/resolor-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-223)
+[Other languages (22)](#file-language-dropdown-288)
 
 български (BG) (103.23 KB - PDF)
 
@@ -393,7 +395,7 @@ English (EN) (224.58 KB - PDF)
 
 [View](/en/documents/product-information/resolor-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-338)
+[Other languages (24)](#file-language-dropdown-730)
 
 български (BG) (259.42 KB - PDF)
 
@@ -709,7 +711,7 @@ English (EN) (24.36 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/resolor-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-605)
+[Other languages (24)](#file-language-dropdown-595)
 
 български (BG) (120.34 KB - PDF)
 

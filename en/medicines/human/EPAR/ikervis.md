@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:58:21
+document_datetime: 2025-12-29 10:30:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ikervis.html
 document_name: ikervis.html
 version: success
-processing_time: 0.1112194
-conversion_datetime: 2025-12-28 10:20:14.467746
+processing_time: 0.1090928
+conversion_datetime: 2025-12-30 21:29:58.381065
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ciclosporin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (77.11 KB - PDF)
 
 [View](/en/documents/overview/ikervis-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-20)
+[Other languages (22)](#file-language-dropdown-26)
 
 български (BG) (103 KB - PDF)
 
@@ -399,7 +401,7 @@ English (EN) (596.14 KB - PDF)
 
 [View](/en/documents/product-information/ikervis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-8)
+[Other languages (24)](#file-language-dropdown-943)
 
 български (BG) (652.04 KB - PDF)
 
@@ -715,7 +717,7 @@ English (EN) (10.1 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ikervis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-560)
+[Other languages (24)](#file-language-dropdown-858)
 
 български (BG) (65.74 KB - PDF)
 

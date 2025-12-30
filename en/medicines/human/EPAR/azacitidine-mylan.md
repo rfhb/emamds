@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-21 12:05:12
+document_datetime: 2025-12-29 12:38:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/azacitidine-mylan.html
 document_name: azacitidine-mylan.html
 version: success
-processing_time: 0.1330766
-conversion_datetime: 2025-12-24 01:58:41.328656
+processing_time: 0.1253758
+conversion_datetime: 2025-12-30 02:14:36.532745
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -108,7 +108,7 @@ English (EN) (171.01 KB - PDF)
 
 [View](/en/documents/overview/azacitidine-mylan-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-653)
+[Other languages (22)](#file-language-dropdown-642)
 
 български (BG) (193.6 KB - PDF)
 
@@ -306,7 +306,7 @@ English (EN) (479.97 KB - PDF)
 
 [View](/en/documents/product-information/azacitidine-mylan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-725)
+[Other languages (24)](#file-language-dropdown-259)
 
 български (BG) (669.71 KB - PDF)
 
@@ -620,7 +620,7 @@ English (EN) (13.54 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/azacitidine-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-579)
+[Other languages (24)](#file-language-dropdown-562)
 
 български (BG) (52.26 KB - PDF)
 
@@ -927,7 +927,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-885)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

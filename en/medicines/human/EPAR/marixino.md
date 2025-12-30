@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:14:58
+document_datetime: 2025-12-29 14:05:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/marixino.html
 document_name: marixino.html
 version: success
-processing_time: 0.1196951
-conversion_datetime: 2025-12-25 01:08:49.916135
+processing_time: 0.1279224
+conversion_datetime: 2025-12-30 01:38:25.357006
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 memantine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (130.54 KB - PDF)
 
 [View](/en/documents/overview/marixino-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-382)
+[Other languages (22)](#file-language-dropdown-333)
 
 български (BG) (146.02 KB - PDF)
 
@@ -386,7 +388,7 @@ English (EN) (209.33 KB - PDF)
 
 [View](/en/documents/product-information/marixino-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-101)
+[Other languages (24)](#file-language-dropdown-372)
 
 български (BG) (243.3 KB - PDF)
 
@@ -702,7 +704,7 @@ English (EN) (31.19 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/marixino-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-232)
+[Other languages (24)](#file-language-dropdown-320)
 
 български (BG) (36.57 KB - PDF)
 
@@ -1082,7 +1084,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

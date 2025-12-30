@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:25:26
+document_datetime: 2025-12-29 14:05:59
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nuzyra.html
 document_name: nuzyra.html
 version: success
-processing_time: 0.0622256
-conversion_datetime: 2025-12-28 14:50:13.585025
+processing_time: 0.0583791
+conversion_datetime: 2025-12-30 01:05:02.699657
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -95,7 +97,7 @@ English (EN) (80.08 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-application-marketing-authorisation-nuzyra-omadacycline_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-408)
+[Other languages (22)](#file-language-dropdown-129)
 
 български (BG) (146.58 KB - PDF)
 

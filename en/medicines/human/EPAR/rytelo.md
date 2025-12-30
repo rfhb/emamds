@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:05:03
+document_datetime: 2025-12-29 12:46:49
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rytelo.html
 document_name: rytelo.html
 version: success
-processing_time: 0.1062828
-conversion_datetime: 2025-12-25 13:18:37.096182
+processing_time: 0.120566
+conversion_datetime: 2025-12-30 10:19:53.756381
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 imetelstat Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (121.65 KB - PDF)
 
 [View](/en/documents/overview/rytelo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-395)
+[Other languages (22)](#file-language-dropdown-456)
 
 български (BG) (144.89 KB - PDF)
 
@@ -309,7 +311,7 @@ English (EN) (477.38 KB - PDF)
 
 [View](/en/documents/product-information/rytelo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-971)
+[Other languages (24)](#file-language-dropdown-713)
 
 български (BG) (544.34 KB - PDF)
 
@@ -623,7 +625,7 @@ English (EN) (43.6 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rytelo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-569)
+[Other languages (24)](#file-language-dropdown-952)
 
 български (BG) (56.87 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 12:52:04
+document_datetime: 2025-12-29 11:14:05
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/qtern.html
 document_name: qtern.html
 version: success
-processing_time: 0.1146799
-conversion_datetime: 2025-12-29 22:21:25.827257
+processing_time: 0.1050833
+conversion_datetime: 2025-12-30 09:29:18.271456
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

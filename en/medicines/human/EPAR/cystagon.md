@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:33:54
+document_datetime: 2025-12-29 09:14:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cystagon.html
 document_name: cystagon.html
 version: success
-processing_time: 0.1058888
-conversion_datetime: 2025-12-24 21:42:22.872231
+processing_time: 0.1030964
+conversion_datetime: 2025-12-30 21:02:08.15591
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 mercaptamine bitartrate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (73.76 KB - PDF)
 
 [View](/en/documents/overview/cystagon-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-305)
+[Other languages (22)](#file-language-dropdown-433)
 
 български (BG) (101.33 KB - PDF)
 
@@ -384,7 +386,7 @@ English (EN) (545.23 KB - PDF)
 
 [View](/en/documents/product-information/cystagon-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-331)
+[Other languages (24)](#file-language-dropdown-291)
 
 български (BG) (638.48 KB - PDF)
 
@@ -700,7 +702,7 @@ English (EN) (57.74 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cystagon-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-629)
+[Other languages (18)](#file-language-dropdown-848)
 
 español (ES) (56.48 KB - PDF)
 

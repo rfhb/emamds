@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:51:29
+document_datetime: 2025-12-29 07:40:43
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/targretin.html
 document_name: targretin.html
 version: success
-processing_time: 0.113345
-conversion_datetime: 2025-12-28 03:25:28.4806
+processing_time: 0.112689
+conversion_datetime: 2025-12-30 01:21:51.536932
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bexarotene Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -98,7 +100,7 @@ English (EN) (74.6 KB - PDF)
 
 [View](/en/documents/overview/targretin-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-932)
+[Other languages (22)](#file-language-dropdown-353)
 
 български (BG) (100.03 KB - PDF)
 
@@ -376,7 +378,7 @@ English (EN) (286.02 KB - PDF)
 
 [View](/en/documents/product-information/targretin-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-67)
+[Other languages (24)](#file-language-dropdown-104)
 
 български (BG) (390.05 KB - PDF)
 
@@ -692,7 +694,7 @@ English (EN) (57.24 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/targretin-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-903)
+[Other languages (21)](#file-language-dropdown-698)
 
 български (BG) (81.88 KB - PDF)
 

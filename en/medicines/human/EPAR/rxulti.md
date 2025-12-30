@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:35:55
+document_datetime: 2025-12-29 12:36:42
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rxulti.html
 document_name: rxulti.html
 version: success
-processing_time: 0.1132083
-conversion_datetime: 2025-12-26 12:54:49.877853
+processing_time: 0.1165177
+conversion_datetime: 2025-12-30 09:21:53.875135
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 brexpiprazole Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (101.65 KB - PDF)
 
 [View](/en/documents/overview/rxulti-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-55)
+[Other languages (22)](#file-language-dropdown-76)
 
 български (BG) (142.82 KB - PDF)
 
@@ -405,7 +407,7 @@ English (EN) (425.83 KB - PDF)
 
 [View](/en/documents/product-information/rxulti-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-517)
+[Other languages (24)](#file-language-dropdown-649)
 
 български (BG) (581.07 KB - PDF)
 
@@ -721,7 +723,7 @@ English (EN) (19.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rxulti-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-201)
+[Other languages (24)](#file-language-dropdown-817)
 
 български (BG) (42.94 KB - PDF)
 
@@ -1135,7 +1137,7 @@ English (EN) (102.37 KB - PDF)
 
 #### More information on Rxulti
 
-- [EMEA-001185-PIP01-11-M08 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001185-pip01-11-m08)
+- [EMA/PE/0000183866 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000183866)
 
 #### Topics
 

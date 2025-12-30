@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:39:03
+document_datetime: 2025-12-29 11:36:55
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tegsedi.html
 document_name: tegsedi.html
 version: success
-processing_time: 0.1130038
-conversion_datetime: 2025-12-25 00:24:34.016226
+processing_time: 0.1159731
+conversion_datetime: 2025-12-30 02:54:52.378791
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-inotersen
+inotersen Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +113,7 @@ English (EN) (78.21 KB - PDF)
 
 [View](/en/documents/overview/tegsedi-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-360)
+[Other languages (22)](#file-language-dropdown-808)
 
 български (BG) (105.98 KB - PDF)
 
@@ -405,7 +401,7 @@ English (EN) (724.95 KB - PDF)
 
 [View](/en/documents/product-information/tegsedi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-154)
+[Other languages (24)](#file-language-dropdown-356)
 
 български (BG) (759.63 KB - PDF)
 
@@ -721,7 +717,7 @@ English (EN) (82.06 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tegsedi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-642)
+[Other languages (24)](#file-language-dropdown-847)
 
 български (BG) (89.19 KB - PDF)
 

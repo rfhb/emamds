@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:57:09
+document_datetime: 2025-12-29 08:22:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/copalia-hct.html
 document_name: copalia-hct.html
 version: success
-processing_time: 0.1612143
-conversion_datetime: 2025-12-24 20:28:17.716408
+processing_time: 0.1604895
+conversion_datetime: 2025-12-30 20:02:02.027996
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 amlodipine / valsartan / hydrochlorothiazide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +116,7 @@ English (EN) (76.24 KB - PDF)
 
 [View](/en/documents/overview/copalia-hct-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-928)
+[Other languages (22)](#file-language-dropdown-558)
 
 български (BG) (103.72 KB - PDF)
 
@@ -392,7 +394,7 @@ English (EN) (488.63 KB - PDF)
 
 [View](/en/documents/product-information/copalia-hct-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-239)
+[Other languages (24)](#file-language-dropdown-435)
 
 български (BG) (690.32 KB - PDF)
 
@@ -708,7 +710,7 @@ English (EN) (13.82 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/copalia-hct-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-260)
+[Other languages (24)](#file-language-dropdown-89)
 
 български (BG) (84.29 KB - PDF)
 
@@ -1070,7 +1072,7 @@ English (EN) (119.28 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-113)
+[Other languages (22)](#file-language-dropdown-264)
 
 български (BG) (145.18 KB - PDF)
 
@@ -1268,7 +1270,7 @@ English (EN) (99.42 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/copalia-hct-epar-scientific-conclusions-annex-iv_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-683)
+[Other languages (22)](#file-language-dropdown-543)
 
 български (BG) (136.15 KB - PDF)
 
@@ -1482,7 +1484,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/copalia-hct-h-c-1159-a31-30-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommen_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-75)
+[Other languages (22)](#file-language-dropdown-6)
 
 български (BG) (87.49 KB - PDF)
 

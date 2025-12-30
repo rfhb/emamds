@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:02:41
+document_datetime: 2025-12-29 14:33:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/posaconazole-sp.html
 document_name: posaconazole-sp.html
 version: success
-processing_time: 0.0979028
-conversion_datetime: 2025-12-27 15:41:21.617506
+processing_time: 0.1003806
+conversion_datetime: 2025-12-30 01:24:55.382915
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has lapsed
 
-posaconazole
+posaconazole Medicine Human Lapsed
 
-Medicine
-
-Human
-
-Lapsed
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +60,7 @@ English (EN) (259.52 KB - PDF)
 
 [View](/en/documents/overview/posaconazole-sp-epar-summary-public_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-560)
+[Other languages (20)](#file-language-dropdown-579)
 
 български (BG) (446.11 KB - PDF)
 
@@ -318,7 +314,7 @@ English (EN) (935.2 KB - PDF)
 
 [View](/en/documents/product-information/posaconazole-sp-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-804)
+[Other languages (21)](#file-language-dropdown-867)
 
 български (BG) (897.89 KB - PDF)
 
@@ -598,7 +594,7 @@ English (EN) (18.75 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/posaconazole-sp-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-995)
+[Other languages (18)](#file-language-dropdown-814)
 
 español (ES) (20.03 KB - PDF)
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:25:43
+document_datetime: 2025-12-29 12:30:27
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/feraccru.html
 document_name: feraccru.html
 version: success
-processing_time: 0.122565
-conversion_datetime: 2025-12-24 02:22:49.685019
+processing_time: 0.1100513
+conversion_datetime: 2025-12-30 21:46:52.460887
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ferric maltol Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +105,7 @@ English (EN) (69.01 KB - PDF)
 
 [View](/en/documents/overview/feraccru-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-825)
+[Other languages (22)](#file-language-dropdown-552)
 
 български (BG) (100.63 KB - PDF)
 
@@ -391,7 +393,7 @@ English (EN) (2.45 MB - PDF)
 
 [View](/en/documents/product-information/feraccru-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-330)
+[Other languages (24)](#file-language-dropdown-624)
 
 български (BG) (3.69 MB - PDF)
 
@@ -707,7 +709,7 @@ English (EN) (93.2 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/feraccru-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-735)
+[Other languages (24)](#file-language-dropdown-919)
 
 български (BG) (179.99 KB - PDF)
 

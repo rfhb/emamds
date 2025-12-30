@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:16:35
+document_datetime: 2025-12-29 11:26:12
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cinainu.html
 document_name: cinainu.html
 version: success
-processing_time: 0.0609665
-conversion_datetime: 2025-12-28 10:16:52.990821
+processing_time: 0.0628416
+conversion_datetime: 2025-12-30 21:03:28.156993
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 dry aqueous extract of paullinia cupana seed / dry hydroethanolic extract of theobroma cacao seed / liquid ethanolic extract 30 per cent (W/W) of Allium cepa fresh bulb and Citrus limon fresh fruit Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (144.41 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-cinainu-extracts-allium-cepa-onion-fresh-bulb-citrus-limon-lemon-fresh-fruit-paullinia-cupana-guarana-seed-theobroma-cacao-cocoa-seed_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-839)
+[Other languages (22)](#file-language-dropdown-357)
 
 български (BG) (159.24 KB - PDF)
 

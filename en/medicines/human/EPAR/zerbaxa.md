@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:30
+document_datetime: 2025-12-29 11:24:34
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zerbaxa.html
 document_name: zerbaxa.html
 version: success
-processing_time: 0.1203055
-conversion_datetime: 2025-12-27 23:24:37.117831
+processing_time: 0.1203608
+conversion_datetime: 2025-12-30 10:27:18.174742
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ceftolozane / tazobactam Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (143.34 KB - PDF)
 
 [View](/en/documents/overview/zerbaxa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-593)
+[Other languages (22)](#file-language-dropdown-951)
 
 български (BG) (167.7 KB - PDF)
 
@@ -401,7 +403,7 @@ English (EN) (347.01 KB - PDF)
 
 [View](/en/documents/product-information/zerbaxa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-243)
+[Other languages (24)](#file-language-dropdown-677)
 
 български (BG) (333.79 KB - PDF)
 
@@ -717,7 +719,7 @@ English (EN) (61.1 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zerbaxa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-977)
+[Other languages (24)](#file-language-dropdown-241)
 
 български (BG) (58.27 KB - PDF)
 

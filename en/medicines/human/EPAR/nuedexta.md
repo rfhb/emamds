@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 13:22:29
+document_datetime: 2025-12-29 10:09:29
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nuedexta.html
 document_name: nuedexta.html
 version: success
-processing_time: 0.1156724
-conversion_datetime: 2025-12-24 02:43:45.764446
+processing_time: 0.1067202
+conversion_datetime: 2025-12-30 10:53:39.433429
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-dextromethorphan hydrobromide / quinidine sulfate
+dextromethorphan hydrobromide / quinidine sulfate Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (193.76 KB - PDF)
 
 [View](/en/documents/overview/nuedexta-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-30)
+[Other languages (22)](#file-language-dropdown-712)
 
 български (BG) (312.89 KB - PDF)
 
@@ -345,7 +341,7 @@ English (EN) (635.09 KB - PDF)
 
 [View](/en/documents/product-information/nuedexta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-462)
+[Other languages (24)](#file-language-dropdown-456)
 
 български (BG) (1.24 MB - PDF)
 
@@ -661,7 +657,7 @@ English (EN) (159.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nuedexta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-895)
+[Other languages (24)](#file-language-dropdown-977)
 
 български (BG) (167.05 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:55:23
+document_datetime: 2025-12-29 12:00:22
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dasselta.html
 document_name: dasselta.html
 version: success
-processing_time: 0.1285723
-conversion_datetime: 2025-12-28 09:06:11.811056
+processing_time: 0.1292383
+conversion_datetime: 2025-12-30 09:53:37.764719
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 desloratadine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -100,7 +102,7 @@ English (EN) (53.66 KB - PDF)
 
 [View](/en/documents/overview/dasselta-epar-summary-public_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-678)
+[Other languages (20)](#file-language-dropdown-291)
 
 български (BG) (88.54 KB - PDF)
 
@@ -354,7 +356,7 @@ English (EN) (206.73 KB - PDF)
 
 [View](/en/documents/product-information/dasselta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-608)
+[Other languages (24)](#file-language-dropdown-946)
 
 български (BG) (292.4 KB - PDF)
 
@@ -670,7 +672,7 @@ English (EN) (18.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/dasselta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-83)
+[Other languages (24)](#file-language-dropdown-114)
 
 български (BG) (53.11 KB - PDF)
 
@@ -1081,7 +1083,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

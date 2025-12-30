@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-17 23:31:16
+document_datetime: 2025-12-29 11:37:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eucreas.html
 document_name: eucreas.html
 version: success
-processing_time: 0.1239266
-conversion_datetime: 2025-12-24 06:23:55.186879
+processing_time: 0.1528058
+conversion_datetime: 2025-12-30 20:06:14.016188
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 vildagliptin / metformin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (148.99 KB - PDF)
 
 [View](/en/documents/overview/eucreas-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-374)
+[Other languages (21)](#file-language-dropdown-172)
 
 български (BG) (171.9 KB - PDF)
 
@@ -390,7 +392,7 @@ English (EN) (447.87 KB - PDF)
 
 [View](/en/documents/product-information/eucreas-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-347)
+[Other languages (24)](#file-language-dropdown-738)
 
 български (BG) (533.94 KB - PDF)
 
@@ -706,7 +708,7 @@ English (EN) (84.31 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/eucreas-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-803)
+[Other languages (24)](#file-language-dropdown-411)
 
 български (BG) (111.82 KB - PDF)
 
@@ -1095,7 +1097,7 @@ English (EN) (32.54 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/eucreas-h-c-807-a31-1432-epar-scientific-conclusion_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-819)
+[Other languages (24)](#file-language-dropdown-406)
 
 български (BG) (69.5 KB - PDF)
 
@@ -1501,7 +1503,7 @@ English (EN) (133.5 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/eucreas-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-111)
+[Other languages (24)](#file-language-dropdown-400)
 
 български (BG) (158.87 KB - DOCX)
 

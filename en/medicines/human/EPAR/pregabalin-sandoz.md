@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-09 23:29:24
+document_datetime: 2025-12-29 11:58:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pregabalin-sandoz.html
 document_name: pregabalin-sandoz.html
 version: success
-processing_time: 0.1330283
-conversion_datetime: 2025-12-26 17:10:39.648207
+processing_time: 0.1285446
+conversion_datetime: 2025-12-30 08:20:02.528493
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pregabalin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (121.37 KB - PDF)
 
 [View](/en/documents/overview/pregabalin-sandoz-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-168)
+[Other languages (22)](#file-language-dropdown-515)
 
 български (BG) (126.74 KB - PDF)
 
@@ -397,7 +399,7 @@ English (EN) (521.12 KB - PDF)
 
 [View](/en/documents/product-information/pregabalin-sandoz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-462)
+[Other languages (24)](#file-language-dropdown-679)
 
 български (BG) (626.94 KB - PDF)
 
@@ -713,7 +715,7 @@ English (EN) (77.12 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pregabalin-sandoz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-254)
+[Other languages (24)](#file-language-dropdown-605)
 
 български (BG) (112.62 KB - PDF)
 
@@ -1123,7 +1125,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-517)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

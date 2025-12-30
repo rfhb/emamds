@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:34:33
+document_datetime: 2025-12-29 07:02:21
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/daklinza.html
 document_name: daklinza.html
 version: success
-processing_time: 0.1195427
-conversion_datetime: 2025-12-27 21:49:38.364154
+processing_time: 0.1145923
+conversion_datetime: 2025-12-30 13:15:43.741228
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has expired
 
 daclatasvir Medicine Human Expired
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -61,7 +63,7 @@ English (EN) (545.44 KB - PDF)
 
 [View](/en/documents/overview/daklinza-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-74)
+[Other languages (22)](#file-language-dropdown-293)
 
 български (BG) (628.18 KB - PDF)
 
@@ -261,7 +263,7 @@ English (EN) (1.48 MB - PDF)
 
 [View](/en/documents/product-information/daklinza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-283)
+[Other languages (24)](#file-language-dropdown-47)
 
 български (BG) (2.6 MB - PDF)
 
@@ -575,7 +577,7 @@ English (EN) (499.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/daklinza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-627)
+[Other languages (24)](#file-language-dropdown-454)
 
 български (BG) (538.09 KB - PDF)
 
@@ -825,7 +827,7 @@ English (EN) (538.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/daklinza-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-356)
+[Other languages (22)](#file-language-dropdown-486)
 
 български (BG) (687.45 KB - PDF)
 

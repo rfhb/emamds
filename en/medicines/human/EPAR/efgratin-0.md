@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:00
+document_datetime: 2025-12-29 18:57:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/efgratin-0.html
 document_name: efgratin-0.html
 version: success
-processing_time: 0.0597129
-conversion_datetime: 2025-12-28 05:11:04.772325
+processing_time: 0.0704929
+conversion_datetime: 2025-12-30 02:23:46.673594
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-pegfilgrastim
+pegfilgrastim Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +102,7 @@ English (EN) (105.32 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-efgratin-pegfilgrastim_en.pdf-0)
 
-[Other languages (22)](#file-language-dropdown-0)
+[Other languages (22)](#file-language-dropdown-192)
 
 български (BG) (127.82 KB - PDF)
 

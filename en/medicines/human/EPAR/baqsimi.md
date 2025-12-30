@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:12:37
+document_datetime: 2025-12-29 11:58:32
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/baqsimi.html
 document_name: baqsimi.html
 version: success
-processing_time: 0.1158024
-conversion_datetime: 2025-12-27 15:03:01.658738
+processing_time: 0.1040318
+conversion_datetime: 2025-12-30 12:19:25.623701
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 glucagon Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (111.57 KB - PDF)
 
 [View](/en/documents/overview/baqsimi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-870)
+[Other languages (22)](#file-language-dropdown-469)
 
 български (BG) (133.77 KB - PDF)
 
@@ -405,7 +407,7 @@ English (EN) (728.96 KB - PDF)
 
 [View](/en/documents/product-information/baqsimi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-585)
+[Other languages (24)](#file-language-dropdown-624)
 
 български (BG) (982.69 KB - PDF)
 
@@ -719,7 +721,7 @@ English (EN) (65.97 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/baqsimi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-582)
+[Other languages (24)](#file-language-dropdown-728)
 
 български (BG) (126.47 KB - PDF)
 

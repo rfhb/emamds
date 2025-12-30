@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:15:47
+document_datetime: 2025-12-29 11:29:17
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aquipta.html
 document_name: aquipta.html
 version: success
-processing_time: 0.1048531
-conversion_datetime: 2025-12-28 12:51:59.409534
+processing_time: 0.104102
+conversion_datetime: 2025-12-30 01:51:58.05091
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 atogepant Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -99,7 +101,7 @@ English (EN) (116.53 KB - PDF)
 
 [View](/en/documents/overview/aquipta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-658)
+[Other languages (22)](#file-language-dropdown-664)
 
 български (BG) (127.29 KB - PDF)
 
@@ -299,7 +301,7 @@ English (EN) (228.97 KB - PDF)
 
 [View](/en/documents/product-information/aquipta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-944)
+[Other languages (24)](#file-language-dropdown-567)
 
 български (BG) (301.65 KB - PDF)
 
@@ -613,7 +615,7 @@ English (EN) (39.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/aquipta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-344)
+[Other languages (24)](#file-language-dropdown-733)
 
 български (BG) (35.27 KB - PDF)
 

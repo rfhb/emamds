@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:29:57
+document_datetime: 2025-12-29 14:06:31
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nyvepria.html
 document_name: nyvepria.html
 version: success
-processing_time: 0.1006375
-conversion_datetime: 2025-12-28 04:13:03.399647
+processing_time: 0.1066963
+conversion_datetime: 2025-12-30 03:11:46.871888
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pegfilgrastim Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (120.63 KB - PDF)
 
 [View](/en/documents/overview/nyvepria-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-994)
+[Other languages (22)](#file-language-dropdown-932)
 
 български (BG) (135.33 KB - PDF)
 
@@ -307,7 +309,7 @@ English (EN) (1.31 MB - PDF)
 
 [View](/en/documents/product-information/nyvepria-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-464)
+[Other languages (24)](#file-language-dropdown-30)
 
 български (BG) (984.78 KB - PDF)
 
@@ -621,7 +623,7 @@ English (EN) (25.87 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nyvepria-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-709)
+[Other languages (24)](#file-language-dropdown-261)
 
 български (BG) (27.59 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:00:53
+document_datetime: 2025-12-29 09:25:11
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/byetta.html
 document_name: byetta.html
 version: success
-processing_time: 0.1138198
-conversion_datetime: 2025-12-28 02:25:59.682732
+processing_time: 0.1204607
+conversion_datetime: 2025-12-30 08:47:12.132448
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 exenatide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +123,7 @@ English (EN) (62.36 KB - PDF)
 
 [View](/en/documents/overview/byetta-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-662)
+[Other languages (21)](#file-language-dropdown-251)
 
 български (BG) (162.91 KB - PDF)
 
@@ -395,7 +397,7 @@ English (EN) (1.36 MB - PDF)
 
 [View](/en/documents/product-information/byetta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-632)
+[Other languages (24)](#file-language-dropdown-460)
 
 български (BG) (1.46 MB - PDF)
 
@@ -711,7 +713,7 @@ English (EN) (15.13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/byetta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-508)
+[Other languages (21)](#file-language-dropdown-26)
 
 български (BG) (113.38 KB - PDF)
 

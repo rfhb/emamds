@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:27:28
+document_datetime: 2025-12-29 11:46:32
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/januvia.html
 document_name: januvia.html
 version: success
-processing_time: 0.1448927
-conversion_datetime: 2025-12-27 20:09:25.672074
+processing_time: 0.1417505
+conversion_datetime: 2025-12-30 09:19:01.392448
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sitagliptin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +124,7 @@ English (EN) (62.13 KB - PDF)
 
 [View](/en/documents/overview/januvia-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-497)
+[Other languages (21)](#file-language-dropdown-908)
 
 български (BG) (102.97 KB - PDF)
 
@@ -396,7 +398,7 @@ English (EN) (334 KB - PDF)
 
 [View](/en/documents/product-information/januvia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-595)
+[Other languages (24)](#file-language-dropdown-656)
 
 български (BG) (321.79 KB - PDF)
 
@@ -712,7 +714,7 @@ English (EN) (24.15 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/januvia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-698)
+[Other languages (24)](#file-language-dropdown-131)
 
 български (BG) (46.02 KB - PDF)
 
@@ -1265,7 +1267,7 @@ English (EN) (323.5 KB - DOC)
 
 [View](/en/documents/product-information-tracked-changes/januvia-epar-product-information-tracked-changes_en.doc)
 
-[Other languages (24)](#file-language-dropdown-297)
+[Other languages (24)](#file-language-dropdown-929)
 
 български (BG) (429.5 KB - DOC)
 

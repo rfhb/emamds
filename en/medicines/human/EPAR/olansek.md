@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:05:43
+document_datetime: 2025-12-29 19:10:42
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/olansek.html
 document_name: olansek.html
 version: success
-processing_time: 0.0307426
-conversion_datetime: 2025-12-28 04:19:35.88121
+processing_time: 0.0429017
+conversion_datetime: 2025-12-30 01:21:33.994841
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-olanzapine
+olanzapine Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:35:19
+document_datetime: 2025-12-29 11:00:32
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kogenate-bayer.html
 document_name: kogenate-bayer.html
 version: success
-processing_time: 0.1255654
-conversion_datetime: 2025-12-24 07:48:46.553833
+processing_time: 0.1083385
+conversion_datetime: 2025-12-30 08:15:43.94846
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has lapsed
 
 octocog alfa Medicine Human Lapsed
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -61,7 +63,7 @@ English (EN) (637.91 KB - PDF)
 
 [View](/en/documents/overview/kogenate-bayer-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-484)
+[Other languages (22)](#file-language-dropdown-989)
 
 български (BG) (741.72 KB - PDF)
 
@@ -339,7 +341,7 @@ English (EN) (1.17 MB - PDF)
 
 [View](/en/documents/product-information/kogenate-bayer-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-57)
+[Other languages (24)](#file-language-dropdown-713)
 
 български (BG) (2.85 MB - PDF)
 
@@ -655,7 +657,7 @@ English (EN) (578.86 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kogenate-bayer-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-480)
+[Other languages (24)](#file-language-dropdown-663)
 
 български (BG) (670.85 KB - PDF)
 

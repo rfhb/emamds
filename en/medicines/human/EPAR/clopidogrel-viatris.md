@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-21 07:11:02
+document_datetime: 2025-12-29 12:31:06
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-viatris.html
 document_name: clopidogrel-viatris.html
 version: success
-processing_time: 0.1232976
-conversion_datetime: 2025-12-28 20:14:58.327043
+processing_time: 0.1114243
+conversion_datetime: 2025-12-30 09:52:45.011003
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -108,7 +108,7 @@ English (EN) (147.73 KB - PDF)
 
 [View](/en/documents/overview/clopidogrel-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-478)
+[Other languages (22)](#file-language-dropdown-318)
 
 български (BG) (171.35 KB - PDF)
 
@@ -386,7 +386,7 @@ English (EN) (427.11 KB - PDF)
 
 [View](/en/documents/product-information/clopidogrel-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-862)
+[Other languages (24)](#file-language-dropdown-623)
 
 български (BG) (599.85 KB - PDF)
 
@@ -702,7 +702,7 @@ English (EN) (6.07 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/clopidogrel-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-244)
+[Other languages (24)](#file-language-dropdown-548)
 
 български (BG) (27.82 KB - PDF)
 

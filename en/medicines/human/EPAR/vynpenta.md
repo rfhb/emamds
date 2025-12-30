@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:35:57
+document_datetime: 2025-12-29 18:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vynpenta.html
 document_name: vynpenta.html
 version: success
-processing_time: 0.0711661
-conversion_datetime: 2025-12-28 17:29:18.991589
+processing_time: 0.0851511
+conversion_datetime: 2025-12-30 08:08:37.096258
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +105,7 @@ English (EN) (71.5 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-vynpenta-avacopan_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-266)
+[Other languages (22)](#file-language-dropdown-345)
 
 български (BG) (103.73 KB - PDF)
 

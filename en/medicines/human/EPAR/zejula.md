@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:14:03
+document_datetime: 2025-12-29 11:28:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zejula.html
 document_name: zejula.html
 version: success
-processing_time: 0.1344891
-conversion_datetime: 2025-12-27 16:44:03.944877
+processing_time: 0.1296096
+conversion_datetime: 2025-12-30 02:49:21.33423
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 niraparib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (115.64 KB - PDF)
 
 [View](/en/documents/overview/zejula-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-902)
+[Other languages (22)](#file-language-dropdown-402)
 
 български (BG) (169.55 KB - PDF)
 
@@ -403,7 +405,7 @@ English (EN) (918.93 KB - PDF)
 
 [View](/en/documents/product-information/zejula-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-704)
+[Other languages (24)](#file-language-dropdown-757)
 
 български (BG) (1.02 MB - PDF)
 
@@ -719,7 +721,7 @@ English (EN) (66.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zejula-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-966)
+[Other languages (24)](#file-language-dropdown-453)
 
 български (BG) (61.94 KB - PDF)
 
@@ -1198,7 +1200,7 @@ English (EN) (1.42 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/zejula-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-30)
+[Other languages (24)](#file-language-dropdown-922)
 
 български (BG) (1.23 MB - DOCX)
 

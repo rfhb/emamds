@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:06:43
+document_datetime: 2025-12-29 11:18:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xarelto.html
 document_name: xarelto.html
 version: success
-processing_time: 0.159532
-conversion_datetime: 2025-12-28 03:15:58.397185
+processing_time: 0.1602091
+conversion_datetime: 2025-12-30 08:05:30.356112
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 rivaroxaban Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -145,7 +147,7 @@ English (EN) (144.84 KB - PDF)
 
 [View](/en/documents/overview/xarelto-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-564)
+[Other languages (22)](#file-language-dropdown-324)
 
 български (BG) (183.14 KB - PDF)
 
@@ -433,7 +435,7 @@ English (EN) (3.94 MB - PDF)
 
 [View](/en/documents/product-information/xarelto-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-353)
+[Other languages (24)](#file-language-dropdown-203)
 
 български (BG) (4.4 MB - PDF)
 
@@ -749,7 +751,7 @@ English (EN) (122.26 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xarelto-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-711)
+[Other languages (24)](#file-language-dropdown-571)
 
 български (BG) (69.32 KB - PDF)
 
@@ -1051,7 +1053,7 @@ English (EN) (52.73 KB - PDF)
 
 [View](/en/documents/conditions-member-states/xarelto-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-170)
+[Other languages (23)](#file-language-dropdown-276)
 
 български (BG) (83.07 KB - PDF)
 
@@ -1700,6 +1702,10 @@ No change is needed in use of direct oral anticoagulants following EMA-funded st
 
 Reference Number: EMA/94424/2020
 
+Summary:
+
+No change to the conditions of use of the direct oral anticoagulants Eliquis (apixaban), Pradaxa (dabigatran etexilate) and Xarelto (rivaroxaban) is needed following a review of the results of a European study of real-world data for these medicines.
+
 English (EN) (160.71 KB - PDF)
 
 **First published:** 27/03/2020
@@ -1713,6 +1719,7 @@ English (EN) (160.71 KB - PDF)
 #### More information on Xarelto
 
 - [EMEA-000430-PIP01-08-M11 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000430-pip01-08-m11)
+- [Treatment Patterns of newly initiated oral anticoagulants on Japanese non-vascular atrial fibrillation patients using a Japanese claims database - post-authorisation study](https://catalogues.ema.europa.eu/study/16393)
 - [Safety and Effectiveness of Rivaroxaban and Apixaban compared to warfarin in non-valvular atrial fibrillation patients in the routine clinical practice in the UK (SiERRA UK) - post-authorisation study](https://catalogues.ema.europa.eu/study/43877)
 - [A pharmacoepidemiological study of Rivaroxaban use and potential adverse outcomes in routine clinical pratice in Germany - post-authorisation study](https://catalogues.ema.europa.eu/study/43353)
 - [Venous Thromboembolism Treatment (VOLT) - post-authorisation study](https://catalogues.ema.europa.eu/study/47198)
@@ -1728,7 +1735,6 @@ English (EN) (160.71 KB - PDF)
 - [Real-world Comparisons of Stroke, Major Bleeding, Myocardial Infarction, Acute Limb Ischemia and Death among Non-Valvular Atrial Fibrillation Patients Diagnosed With Coronary Artery Disease/Peripheral Arterial Disease who Initiated Oral Anticoagulation Therapies (CAD PAD) - post-authorisation study](https://catalogues.ema.europa.eu/study/23575)
 - [Comparative risk of major bleeding with new oral anticoagulants (NOACs) and Phenprocoumon in patients with atrial fibrillation: a retrospective claims database study in Germany (CARBOS) - post-authorisation study](https://catalogues.ema.europa.eu/study/16728)
 - [Oral Anticoagulant Use in Patients with Non Valvular Atrial Fibrillation: Analysis of Electronic Medical Record Data - post-authorisation study](https://catalogues.ema.europa.eu/study/17685)
-- [Treatment Patterns of newly initiated oral anticoagulants on Japanese non-vascular atrial fibrillation patients using a Japanese claims database - post-authorisation study](https://catalogues.ema.europa.eu/study/16393)
 
 #### Topics
 

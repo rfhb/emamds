@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:02:19
+document_datetime: 2025-12-29 07:32:22
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/balaxur.html
 document_name: balaxur.html
 version: success
-processing_time: 0.0600965
-conversion_datetime: 2025-12-25 00:10:31.991792
+processing_time: 0.0677977
+conversion_datetime: 2025-12-30 20:15:46.209672
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine has been refused authorisation
 
-memantine hydrochloride / donepezil hydrochloride
+memantine hydrochloride / donepezil hydrochloride Medicine Human Refused
 
-Medicine
-
-Human
-
-Refused
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +104,7 @@ English (EN) (75.98 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-refusal-marketing-authorisation-balaxur_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-941)
+[Other languages (21)](#file-language-dropdown-949)
 
 български (BG) (103.92 KB - PDF)
 

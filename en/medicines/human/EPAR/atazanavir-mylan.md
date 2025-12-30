@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:07:52
+document_datetime: 2025-12-29 14:35:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/atazanavir-mylan.html
 document_name: atazanavir-mylan.html
 version: success
-processing_time: 0.1271844
-conversion_datetime: 2025-12-26 10:33:20.534722
+processing_time: 0.3800123
+conversion_datetime: 2025-12-30 02:01:14.382629
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 atazanavir Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (145.06 KB - PDF)
 
 [View](/en/documents/overview/atazanavir-mylan-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-901)
+[Other languages (22)](#file-language-dropdown-84)
 
 български (BG) (160.88 KB - PDF)
 
@@ -385,7 +387,7 @@ English (EN) (629.84 KB - PDF)
 
 [View](/en/documents/product-information/atazanavir-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-140)
+[Other languages (24)](#file-language-dropdown-471)
 
 български (BG) (963.52 KB - PDF)
 
@@ -701,7 +703,7 @@ English (EN) (47.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/atazanavir-viatris-previously-atazanavir-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-371)
+[Other languages (24)](#file-language-dropdown-41)
 
 български (BG) (53.63 KB - PDF)
 
@@ -1081,7 +1083,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:08
+document_datetime: 2025-12-29 11:40:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mysimba.html
 document_name: mysimba.html
 version: success
-processing_time: 0.1371455
-conversion_datetime: 2025-12-29 19:33:43.070234
+processing_time: 0.1427304
+conversion_datetime: 2025-12-30 10:22:45.347712
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 naltrexone / bupropion Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -123,7 +125,7 @@ English (EN) (83.58 KB - PDF)
 
 [View](/en/documents/overview/mysimba-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-810)
+[Other languages (22)](#file-language-dropdown-39)
 
 български (BG) (147.4 KB - PDF)
 
@@ -413,7 +415,7 @@ English (EN) (617.77 KB - PDF)
 
 [View](/en/documents/product-information/mysimba-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-177)
+[Other languages (24)](#file-language-dropdown-443)
 
 български (BG) (687.21 KB - PDF)
 
@@ -729,7 +731,7 @@ English (EN) (44.3 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mysimba-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-767)
+[Other languages (24)](#file-language-dropdown-335)
 
 български (BG) (58.08 KB - PDF)
 
@@ -1109,7 +1111,7 @@ English (EN) (245.9 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/mysimba-epar-scientific-conclusions-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-777)
+[Other languages (23)](#file-language-dropdown-157)
 
 български (BG) (315.92 KB - PDF)
 

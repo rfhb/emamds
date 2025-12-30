@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:03:43
+document_datetime: 2025-12-29 13:26:35
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/insulin-human-long-marvel.html
 document_name: insulin-human-long-marvel.html
 version: success
-processing_time: 0.0687926
-conversion_datetime: 2025-12-26 17:03:03.047854
+processing_time: 0.0703248
+conversion_datetime: 2025-12-30 10:26:26.197864
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-insulin human
+insulin human Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +113,7 @@ English (EN) (41.87 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-insulin-human-rapid-marvel-insulin-human-long-marvel-and-insulin-human-3070-mix-marvel_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-659)
+[Other languages (20)](#file-language-dropdown-632)
 
 български (BG) (162.43 KB - PDF)
 

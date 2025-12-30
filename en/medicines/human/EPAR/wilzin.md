@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:01:51
+document_datetime: 2025-12-29 07:16:42
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/wilzin.html
 document_name: wilzin.html
 version: success
-processing_time: 0.1079695
-conversion_datetime: 2025-12-25 04:18:43.653342
+processing_time: 0.1079669
+conversion_datetime: 2025-12-30 13:13:38.331839
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 zinc Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (40.23 KB - PDF)
 
 [View](/en/documents/overview/wilzin-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-245)
+[Other languages (21)](#file-language-dropdown-380)
 
 български (BG) (172.39 KB - PDF)
 
@@ -372,7 +374,7 @@ English (EN) (388.55 KB - PDF)
 
 [View](/en/documents/product-information/wilzin-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-455)
+[Other languages (24)](#file-language-dropdown-11)
 
 български (BG) (431.87 KB - PDF)
 
@@ -688,7 +690,7 @@ English (EN) (59.79 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/wilzin-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-182)
+[Other languages (24)](#file-language-dropdown-907)
 
 български (BG) (41.32 KB - PDF)
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:59:00
+document_datetime: 2025-12-29 11:21:42
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cibinqo.html
 document_name: cibinqo.html
 version: success
-processing_time: 0.101202
-conversion_datetime: 2025-12-24 14:19:16.585328
+processing_time: 0.4576785
+conversion_datetime: 2025-12-30 11:28:33.222433
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 abrocitinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (116.53 KB - PDF)
 
 [View](/en/documents/overview/cibinqo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-588)
+[Other languages (22)](#file-language-dropdown-757)
 
 български (BG) (150.96 KB - PDF)
 
@@ -406,7 +408,7 @@ English (EN) (637.96 KB - PDF)
 
 [View](/en/documents/product-information/cibinqo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-931)
+[Other languages (24)](#file-language-dropdown-494)
 
 български (BG) (520.6 KB - PDF)
 
@@ -720,7 +722,7 @@ English (EN) (38.28 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cibinqo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-193)
+[Other languages (24)](#file-language-dropdown-212)
 
 български (BG) (36.48 KB - PDF)
 
@@ -1076,7 +1078,7 @@ English (EN) (139.86 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/cibinqo-epar-scientific-conclusions-article-20-referral-annex-iv_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-538)
+[Other languages (24)](#file-language-dropdown-398)
 
 български (BG) (203.66 KB - PDF)
 
@@ -1308,7 +1310,7 @@ English (EN) (126.14 KB - PDF)
 
 #### More information on Cibinqo
 
-- [EMEA-002312-PIP01-17-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002312-pip01-17-m02)
+- [EMA/PE/0000183059 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000183059)
 - [Janus kinase inhibitors (JAKi) - referral](/en/medicines/human/referrals/janus-kinase-inhibitors-jaki)
 - [Cibinqo / Jyseleca / Olumiant / Rinvoq / Xeljanz - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/cibinqo-jyseleca-olumiant-rinvoq-xeljanz)
 - [An Active Surveillance Study to Monitor the Safety of Abrocitinib Among Real-World Patients with Atopic Dermatitis (AD) in the European Union (EU) (B7451084) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000282)

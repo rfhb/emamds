@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:05:33
+document_datetime: 2025-12-29 11:37:39
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/skyclarys.html
 document_name: skyclarys.html
 version: success
-processing_time: 0.106528
-conversion_datetime: 2025-12-24 18:30:42.993755
+processing_time: 0.1089383
+conversion_datetime: 2025-12-30 03:29:30.942801
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 omaveloxolone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (106.58 KB - PDF)
 
 [View](/en/documents/overview/skyclarys-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-797)
+[Other languages (22)](#file-language-dropdown-993)
 
 български (BG) (149.06 KB - PDF)
 
@@ -308,7 +310,7 @@ English (EN) (334.62 KB - PDF)
 
 [View](/en/documents/product-information/skyclarys-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-945)
+[Other languages (24)](#file-language-dropdown-415)
 
 български (BG) (438.21 KB - PDF)
 
@@ -622,7 +624,7 @@ English (EN) (70.83 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/skyclarys-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-38)
+[Other languages (24)](#file-language-dropdown-276)
 
 български (BG) (78.79 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:19:53
+document_datetime: 2025-12-29 13:07:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/terrosa.html
 document_name: terrosa.html
 version: success
-processing_time: 0.1089804
-conversion_datetime: 2025-12-28 13:48:19.979022
+processing_time: 0.1016112
+conversion_datetime: 2025-12-30 09:07:48.540049
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 teriparatide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (81.3 KB - PDF)
 
 [View](/en/documents/overview/terrosa-epar-summary-public_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-674)
+[Other languages (18)](#file-language-dropdown-900)
 
 español (ES) (80.41 KB - PDF)
 
@@ -353,7 +355,7 @@ English (EN) (1.18 MB - PDF)
 
 [View](/en/documents/product-information/terrosa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-148)
+[Other languages (24)](#file-language-dropdown-536)
 
 български (BG) (1.22 MB - PDF)
 
@@ -669,7 +671,7 @@ English (EN) (16.07 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/terrosa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-144)
+[Other languages (24)](#file-language-dropdown-180)
 
 български (BG) (42.41 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 12:18:23
+document_datetime: 2025-12-29 09:23:30
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/truvelog-mix-30.html
 document_name: truvelog-mix-30.html
 version: success
-processing_time: 0.1066668
-conversion_datetime: 2025-12-24 17:17:24.058065
+processing_time: 0.1047073
+conversion_datetime: 2025-12-30 11:21:12.542439
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-insulin aspart
+insulin aspart Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +114,7 @@ English (EN) (120.25 KB - PDF)
 
 [View](/en/documents/overview/truvelog-mix-30-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-288)
+[Other languages (22)](#file-language-dropdown-708)
 
 български (BG) (146.87 KB - PDF)
 
@@ -316,7 +312,7 @@ English (EN) (1.1 MB - PDF)
 
 [View](/en/documents/product-information/truvelog-mix-30-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-302)
+[Other languages (24)](#file-language-dropdown-296)
 
 български (BG) (1.1 MB - PDF)
 
@@ -630,7 +626,7 @@ English (EN) (48.58 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/truvelog-mix-30-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-642)
+[Other languages (24)](#file-language-dropdown-854)
 
 български (BG) (64.89 KB - PDF)
 

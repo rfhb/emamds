@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:04:55
+document_datetime: 2025-12-29 07:22:07
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-viatris.html
 document_name: rivaroxaban-viatris.html
 version: success
-processing_time: 0.1289861
-conversion_datetime: 2025-12-29 22:45:29.446382
+processing_time: 0.1246409
+conversion_datetime: 2025-12-30 22:06:56.605043
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

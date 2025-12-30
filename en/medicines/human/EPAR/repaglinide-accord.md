@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 13:10:00
+document_datetime: 2025-12-29 11:49:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/repaglinide-accord.html
 document_name: repaglinide-accord.html
 version: success
-processing_time: 0.1276897
-conversion_datetime: 2025-12-28 08:57:06.320605
+processing_time: 0.12887
+conversion_datetime: 2025-12-30 08:36:20.241146
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-repaglinide
+repaglinide Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +108,7 @@ English (EN) (56.3 KB - PDF)
 
 [View](/en/documents/overview/repaglinide-accord-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-306)
+[Other languages (21)](#file-language-dropdown-515)
 
 български (BG) (93.72 KB - PDF)
 
@@ -380,7 +376,7 @@ English (EN) (520.81 KB - PDF)
 
 [View](/en/documents/product-information/repaglinide-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-72)
+[Other languages (24)](#file-language-dropdown-610)
 
 български (BG) (690.5 KB - PDF)
 
@@ -696,7 +692,7 @@ English (EN) (21.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/repaglinide-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-304)
+[Other languages (24)](#file-language-dropdown-331)
 
 български (BG) (47.13 KB - PDF)
 
@@ -1086,7 +1082,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-44)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

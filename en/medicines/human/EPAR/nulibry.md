@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:03:36
+document_datetime: 2025-12-29 12:22:16
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nulibry.html
 document_name: nulibry.html
 version: success
-processing_time: 0.106699
-conversion_datetime: 2025-12-28 11:34:17.763993
+processing_time: 0.1052078
+conversion_datetime: 2025-12-30 20:56:47.904633
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-fosdenopterin
+fosdenopterin Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +116,7 @@ English (EN) (125.83 KB - PDF)
 
 [View](/en/documents/overview/nulibry-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-609)
+[Other languages (22)](#file-language-dropdown-685)
 
 български (BG) (152.03 KB - PDF)
 
@@ -318,7 +314,7 @@ English (EN) (1.09 MB - PDF)
 
 [View](/en/documents/product-information/nulibry-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-210)
+[Other languages (24)](#file-language-dropdown-912)
 
 български (BG) (1.17 MB - PDF)
 
@@ -632,7 +628,7 @@ English (EN) (47.65 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nulibry-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-989)
+[Other languages (24)](#file-language-dropdown-16)
 
 български (BG) (56.46 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:40:36
+document_datetime: 2025-12-29 11:36:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/respreeza.html
 document_name: respreeza.html
 version: success
-processing_time: 0.1139763
-conversion_datetime: 2025-12-28 18:03:22.269704
+processing_time: 0.114024
+conversion_datetime: 2025-12-30 10:54:37.510297
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 alpha1-proteinase inhibitor (human) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (76.69 KB - PDF)
 
 [View](/en/documents/overview/respreeza-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-384)
+[Other languages (22)](#file-language-dropdown-861)
 
 български (BG) (102.5 KB - PDF)
 
@@ -397,7 +399,7 @@ English (EN) (533.83 KB - PDF)
 
 [View](/en/documents/product-information/respreeza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-2)
+[Other languages (24)](#file-language-dropdown-19)
 
 български (BG) (767.88 KB - PDF)
 
@@ -713,7 +715,7 @@ English (EN) (16.93 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/respreeza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-601)
+[Other languages (24)](#file-language-dropdown-774)
 
 български (BG) (38.66 KB - PDF)
 

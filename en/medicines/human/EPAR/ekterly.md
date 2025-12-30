@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:28:48
+document_datetime: 2025-12-29 11:21:54
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ekterly.html
 document_name: ekterly.html
 version: success
-processing_time: 0.0999746
-conversion_datetime: 2025-12-28 05:34:41.029203
+processing_time: 0.3689401
+conversion_datetime: 2025-12-30 03:35:29.908231
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sebetralstat Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (121.34 KB - PDF)
 
 [View](/en/documents/overview/ekterly-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-194)
+[Other languages (22)](#file-language-dropdown-789)
 
 български (BG) (143.86 KB - PDF)
 
@@ -306,7 +308,7 @@ English (EN) (378.84 KB - PDF)
 
 [View](/en/documents/product-information/ekterly-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-603)
+[Other languages (24)](#file-language-dropdown-109)
 
 български (BG) (1.11 MB - PDF)
 
@@ -522,7 +524,7 @@ English (EN) (61.74 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ekterly-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-804)
+[Other languages (24)](#file-language-dropdown-954)
 
 български (BG) (66.46 KB - PDF)
 

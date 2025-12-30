@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:01:21
+document_datetime: 2025-12-29 11:50:06
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sixmo.html
 document_name: sixmo.html
 version: success
-processing_time: 0.1060304
-conversion_datetime: 2025-12-29 20:07:56.511592
+processing_time: 0.1088132
+conversion_datetime: 2025-12-30 10:30:19.920599
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 buprenorphine Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -65,7 +67,7 @@ English (EN) (91.16 KB - PDF)
 
 [View](/en/documents/overview/sixmo-epar-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-898)
+[Other languages (22)](#file-language-dropdown-905)
 
 български (BG) (121.88 KB - PDF)
 
@@ -353,7 +355,7 @@ English (EN) (1.02 MB - PDF)
 
 [View](/en/documents/product-information/sixmo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-803)
+[Other languages (24)](#file-language-dropdown-150)
 
 български (BG) (1.2 MB - PDF)
 
@@ -669,7 +671,7 @@ English (EN) (29.49 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sixmo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-66)
+[Other languages (24)](#file-language-dropdown-809)
 
 български (BG) (52.24 KB - PDF)
 

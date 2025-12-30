@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:33:13
+document_datetime: 2025-12-29 11:11:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lextemy.html
 document_name: lextemy.html
 version: success
-processing_time: 0.1053396
-conversion_datetime: 2025-12-24 01:03:56.621164
+processing_time: 0.083476
+conversion_datetime: 2025-12-30 11:57:34.137247
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 bevacizumab Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -61,7 +63,7 @@ English (EN) (737.8 KB - PDF)
 
 [View](/en/documents/overview/lextemy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-201)
+[Other languages (22)](#file-language-dropdown-543)
 
 български (BG) (827.52 KB - PDF)
 
@@ -249,7 +251,7 @@ English (EN) (1.69 MB - PDF)
 
 [View](/en/documents/product-information/lextemy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-119)
+[Other languages (24)](#file-language-dropdown-936)
 
 български (BG) (3.49 MB - PDF)
 
@@ -465,7 +467,7 @@ English (EN) (588.96 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lextemy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-112)
+[Other languages (24)](#file-language-dropdown-7)
 
 български (BG) (652.99 KB - PDF)
 

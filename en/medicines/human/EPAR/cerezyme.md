@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-09 23:30:33
+document_datetime: 2025-12-29 12:05:48
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cerezyme.html
 document_name: cerezyme.html
 version: success
-processing_time: 0.1103658
-conversion_datetime: 2025-12-28 04:52:56.579978
+processing_time: 0.1107083
+conversion_datetime: 2025-12-30 02:55:38.301776
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 imiglucerase Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (59.28 KB - PDF)
 
 [View](/en/documents/overview/cerezyme-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-208)
+[Other languages (21)](#file-language-dropdown-869)
 
 български (BG) (160.05 KB - PDF)
 
@@ -378,7 +380,7 @@ English (EN) (356.13 KB - PDF)
 
 [View](/en/documents/product-information/cerezyme-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-962)
+[Other languages (24)](#file-language-dropdown-89)
 
 български (BG) (525.79 KB - PDF)
 
@@ -694,7 +696,7 @@ English (EN) (9.23 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cerezyme-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-822)
+[Other languages (24)](#file-language-dropdown-113)
 
 български (BG) (38.14 KB - PDF)
 

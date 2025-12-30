@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:27:30
+document_datetime: 2025-12-29 09:46:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nitisinone-mdk.html
 document_name: nitisinone-mdk.html
 version: success
-processing_time: 0.1053225
-conversion_datetime: 2025-12-24 17:53:23.755893
+processing_time: 0.123315
+conversion_datetime: 2025-12-30 11:28:06.034529
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 nitisinone Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -63,7 +65,7 @@ English (EN) (679.23 KB - PDF)
 
 [View](/en/documents/overview/nitisinone-mdk-previously-nitisinone-mendelikabs-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-232)
+[Other languages (22)](#file-language-dropdown-58)
 
 български (BG) (773.87 KB - PDF)
 
@@ -351,7 +353,7 @@ English (EN) (890.15 KB - PDF)
 
 [View](/en/documents/product-information/nitisinone-mdk-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-761)
+[Other languages (24)](#file-language-dropdown-411)
 
 български (BG) (1.88 MB - PDF)
 
@@ -667,7 +669,7 @@ English (EN) (627.25 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nitisinone-mdk-previously-nitisinone-mendelikabs-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-274)
+[Other languages (24)](#file-language-dropdown-694)
 
 български (BG) (633.44 KB - PDF)
 

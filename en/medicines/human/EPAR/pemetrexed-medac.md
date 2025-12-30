@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:10:00
+document_datetime: 2025-12-29 10:55:29
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pemetrexed-medac.html
 document_name: pemetrexed-medac.html
 version: success
-processing_time: 0.1285494
-conversion_datetime: 2025-12-25 06:21:02.632994
+processing_time: 0.1283813
+conversion_datetime: 2025-12-30 19:53:24.351319
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pemetrexed Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (99.01 KB - PDF)
 
 [View](/en/documents/overview/pemetrexed-medac-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-798)
+[Other languages (22)](#file-language-dropdown-407)
 
 български (BG) (126.33 KB - PDF)
 
@@ -402,7 +404,7 @@ English (EN) (343.79 KB - PDF)
 
 [View](/en/documents/product-information/pemetrexed-medac-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-953)
+[Other languages (24)](#file-language-dropdown-657)
 
 български (BG) (612.45 KB - PDF)
 
@@ -718,7 +720,7 @@ English (EN) (24.8 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pemetrexed-medac-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-768)
+[Other languages (24)](#file-language-dropdown-279)
 
 български (BG) (42.1 KB - PDF)
 
@@ -1122,7 +1124,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:15:16
+document_datetime: 2025-12-29 12:29:37
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/darunavir-viatris.html
 document_name: darunavir-viatris.html
 version: success
-processing_time: 0.1312075
-conversion_datetime: 2025-12-28 18:13:54.108997
+processing_time: 0.1306437
+conversion_datetime: 2025-12-30 20:02:29.611343
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 darunavir Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (132.11 KB - PDF)
 
 [View](/en/documents/overview/darunavir-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-309)
+[Other languages (22)](#file-language-dropdown-738)
 
 български (BG) (157.77 KB - PDF)
 
@@ -392,7 +394,7 @@ English (EN) (968.77 KB - PDF)
 
 [View](/en/documents/product-information/darunavir-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-697)
+[Other languages (24)](#file-language-dropdown-70)
 
 български (BG) (1.3 MB - PDF)
 
@@ -708,7 +710,7 @@ English (EN) (72.79 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/darunavir-viatris-previously-darunavir-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-962)
+[Other languages (24)](#file-language-dropdown-47)
 
 български (BG) (114.64 KB - PDF)
 
@@ -1118,7 +1120,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-754)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

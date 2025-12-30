@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:56:50
+document_datetime: 2025-12-29 14:34:37
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cimzia-0.html
 document_name: cimzia-0.html
 version: success
-processing_time: 0.0482594
-conversion_datetime: 2025-12-27 14:54:07.208734
+processing_time: 0.0476776
+conversion_datetime: 2025-12-30 22:41:10.963016
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine has been refused authorisation
 
-certolizumab pegol
+certolizumab pegol Medicine Human Refused
 
-Medicine
-
-Human
-
-Refused
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:15
+document_datetime: 2025-12-29 08:11:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ximelagatran-36-mg-film-coated-tablets.html
 document_name: ximelagatran-36-mg-film-coated-tablets.html
 version: success
-processing_time: 0.0417558
-conversion_datetime: 2025-12-28 11:37:32.403185
+processing_time: 0.0482059
+conversion_datetime: 2025-12-30 03:33:40.952692
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-ximelagatran
+ximelagatran Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:20:12
+document_datetime: 2025-12-29 14:28:17
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/abiraterone-krka.html
 document_name: abiraterone-krka.html
 version: success
-processing_time: 0.1284264
-conversion_datetime: 2025-12-24 01:16:04.329356
+processing_time: 0.120636
+conversion_datetime: 2025-12-30 20:07:03.835133
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 abiraterone acetate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -101,7 +103,7 @@ English (EN) (165.29 KB - PDF)
 
 [View](/en/documents/overview/abiraterone-krka-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-550)
+[Other languages (22)](#file-language-dropdown-167)
 
 български (BG) (199.29 KB - PDF)
 
@@ -299,7 +301,7 @@ English (EN) (763.24 KB - PDF)
 
 [View](/en/documents/product-information/abiraterone-krka-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-670)
+[Other languages (24)](#file-language-dropdown-613)
 
 български (BG) (728.51 KB - PDF)
 
@@ -613,7 +615,7 @@ English (EN) (59.53 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/abiraterone-krka-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-933)
+[Other languages (24)](#file-language-dropdown-435)
 
 български (BG) (69.02 KB - PDF)
 
@@ -897,7 +899,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

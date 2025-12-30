@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:04:17
+document_datetime: 2025-12-29 14:35:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/leflunomide-teva.html
 document_name: leflunomide-teva.html
 version: success
-processing_time: 0.125173
-conversion_datetime: 2025-12-28 13:39:22.755609
+processing_time: 0.1237437
+conversion_datetime: 2025-12-30 08:12:11.049843
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has lapsed
 
-leflunomide
+leflunomide Medicine Human Lapsed
 
-Medicine
-
-Human
-
-Lapsed
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (193.3 KB - PDF)
 
 [View](/en/documents/overview/leflunomide-teva-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-71)
+[Other languages (21)](#file-language-dropdown-213)
 
 български (BG) (318.85 KB - PDF)
 
@@ -333,7 +329,7 @@ English (EN) (879.05 KB - PDF)
 
 [View](/en/documents/product-information/leflunomide-teva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-888)
+[Other languages (24)](#file-language-dropdown-883)
 
 български (BG) (1.79 MB - PDF)
 
@@ -649,7 +645,7 @@ English (EN) (169.19 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/leflunomide-teva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-664)
+[Other languages (24)](#file-language-dropdown-206)
 
 български (BG) (200.8 KB - PDF)
 
@@ -949,7 +945,7 @@ English (EN) (477.32 KB - PDF)
 
 [View](/en/documents/conditions-member-states/leflunomide-teva-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-107)
+[Other languages (23)](#file-language-dropdown-115)
 
 български (BG) (245.7 KB - PDF)
 

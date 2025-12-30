@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:42:06
+document_datetime: 2025-12-29 12:59:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ogsiveo.html
 document_name: ogsiveo.html
 version: success
-processing_time: 0.0875655
-conversion_datetime: 2025-12-24 02:46:09.93071
+processing_time: 0.1023964
+conversion_datetime: 2025-12-30 02:13:02.317395
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 nirogacestat Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +124,7 @@ English (EN) (115.73 KB - PDF)
 
 [View](/en/documents/overview/ogsiveo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-201)
+[Other languages (22)](#file-language-dropdown-863)
 
 български (BG) (137.9 KB - PDF)
 
@@ -318,7 +320,7 @@ English (EN) (494.61 KB - PDF)
 
 [View](/en/documents/product-information/ogsiveo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-562)
+[Other languages (24)](#file-language-dropdown-17)
 
 български (BG) (492.13 KB - PDF)
 
@@ -534,7 +536,7 @@ English (EN) (48.87 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ogsiveo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-435)
+[Other languages (22)](#file-language-dropdown-899)
 
 български (BG) (68.94 KB - PDF)
 

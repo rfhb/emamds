@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:46
+document_datetime: 2025-12-29 14:33:48
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/parareg.html
 document_name: parareg.html
 version: success
-processing_time: 0.1022371
-conversion_datetime: 2025-12-28 08:40:36.990702
+processing_time: 0.1063713
+conversion_datetime: 2025-12-30 13:05:43.849198
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-cinacalcet
+cinacalcet Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (268.15 KB - PDF)
 
 [View](/en/documents/overview/parareg-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-161)
+[Other languages (21)](#file-language-dropdown-900)
 
 български (BG) (407.85 KB - PDF)
 
@@ -332,7 +328,7 @@ English (EN) (774.82 KB - PDF)
 
 [View](/en/documents/product-information/parareg-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-9)
+[Other languages (21)](#file-language-dropdown-176)
 
 български (BG) (1.2 MB - PDF)
 
@@ -612,7 +608,7 @@ English (EN) (273.4 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/parareg-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-292)
+[Other languages (18)](#file-language-dropdown-704)
 
 español (ES) (278.46 KB - PDF)
 

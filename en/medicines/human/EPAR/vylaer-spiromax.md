@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:05:53
+document_datetime: 2025-12-29 12:18:54
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vylaer-spiromax.html
 document_name: vylaer-spiromax.html
 version: success
-processing_time: 0.1255243
-conversion_datetime: 2025-12-28 11:16:33.590672
+processing_time: 0.1269919
+conversion_datetime: 2025-12-30 09:32:26.500648
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-budesonide / formoterol
+budesonide / formoterol Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (216.84 KB - PDF)
 
 [View](/en/documents/overview/vylaer-spiromax-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-152)
+[Other languages (22)](#file-language-dropdown-178)
 
 български (BG) (279.09 KB - PDF)
 
@@ -357,7 +353,7 @@ English (EN) (817.13 KB - PDF)
 
 [View](/en/documents/product-information/vylaer-spiromax-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-605)
+[Other languages (24)](#file-language-dropdown-864)
 
 български (BG) (1.51 MB - PDF)
 
@@ -673,7 +669,7 @@ English (EN) (146.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vylaer-spiromax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-957)
+[Other languages (24)](#file-language-dropdown-544)
 
 български (BG) (175.81 KB - PDF)
 
@@ -1049,7 +1045,7 @@ English (EN) (184.47 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/vylaer-spiromax-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-903)
+[Other languages (22)](#file-language-dropdown-757)
 
 български (BG) (258.44 KB - PDF)
 

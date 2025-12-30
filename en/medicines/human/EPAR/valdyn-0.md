@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:03:45
+document_datetime: 2025-12-29 07:57:27
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/valdyn-0.html
 document_name: valdyn-0.html
 version: success
-processing_time: 0.039674
-conversion_datetime: 2025-12-26 20:00:21.163876
+processing_time: 0.0427497
+conversion_datetime: 2025-12-30 10:04:25.453095
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-valdecoxib
+valdecoxib Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

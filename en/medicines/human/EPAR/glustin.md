@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:27:31
+document_datetime: 2025-12-29 09:10:47
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/glustin.html
 document_name: glustin.html
 version: success
-processing_time: 0.1138928
-conversion_datetime: 2025-12-28 15:18:44.695291
+processing_time: 0.1174614
+conversion_datetime: 2025-12-30 11:09:22.076396
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 pioglitazone Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -59,7 +61,7 @@ English (EN) (678.57 KB - PDF)
 
 [View](/en/documents/overview/glustin-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-637)
+[Other languages (22)](#file-language-dropdown-101)
 
 български (BG) (774.66 KB - PDF)
 
@@ -347,7 +349,7 @@ English (EN) (1.02 MB - PDF)
 
 [View](/en/documents/product-information/glustin-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-209)
+[Other languages (24)](#file-language-dropdown-575)
 
 български (BG) (1.94 MB - PDF)
 
@@ -663,7 +665,7 @@ English (EN) (585.22 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/glustin-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-62)
+[Other languages (24)](#file-language-dropdown-406)
 
 български (BG) (674.52 KB - PDF)
 

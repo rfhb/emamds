@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:50:11
+document_datetime: 2025-12-29 08:21:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ablavar.html
 document_name: ablavar.html
 version: success
-processing_time: 0.1189925
-conversion_datetime: 2025-12-28 00:25:14.236771
+processing_time: 0.1209339
+conversion_datetime: 2025-12-30 09:36:56.962072
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 gadofosveset trisodium Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -59,7 +61,7 @@ English (EN) (288.17 KB - PDF)
 
 [View](/en/documents/overview/ablavar-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-769)
+[Other languages (21)](#file-language-dropdown-419)
 
 български (BG) (381.04 KB - PDF)
 
@@ -325,7 +327,7 @@ English (EN) (464.64 KB - PDF)
 
 [View](/en/documents/product-information/ablavar-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-168)
+[Other languages (23)](#file-language-dropdown-143)
 
 български (BG) (1.15 MB - PDF)
 
@@ -629,7 +631,7 @@ English (EN) (458.35 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ablavar-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-702)
+[Other languages (23)](#file-language-dropdown-619)
 
 български (BG) (320.82 KB - PDF)
 
@@ -1001,7 +1003,7 @@ English (EN) (48.93 KB - PDF)
 
 [View](/en/documents/referral/questions-and-answers-review-gadolinium-containing-contrast-agents_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-26)
+[Other languages (21)](#file-language-dropdown-475)
 
 български (BG) (242.44 KB - PDF)
 

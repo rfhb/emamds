@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:47:14
+document_datetime: 2025-12-29 14:22:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/celldemic.html
 document_name: celldemic.html
 version: success
-processing_time: 0.1063301
-conversion_datetime: 2025-12-28 13:23:43.63176
+processing_time: 0.10612
+conversion_datetime: 2025-12-30 08:15:35.238778
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 zoonotic influenza vaccine (H5N1) (surface antigen, inactivated, adjuvanted, prepared in cell cultures) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (102.33 KB - PDF)
 
 [View](/en/documents/overview/celldemic-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-201)
+[Other languages (22)](#file-language-dropdown-434)
 
 български (BG) (124.77 KB - PDF)
 
@@ -309,7 +311,7 @@ English (EN) (482.8 KB - PDF)
 
 [View](/en/documents/product-information/celldemic-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-626)
+[Other languages (24)](#file-language-dropdown-795)
 
 български (BG) (510.49 KB - PDF)
 
@@ -623,7 +625,7 @@ English (EN) (62.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/celldemic-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-522)
+[Other languages (24)](#file-language-dropdown-316)
 
 български (BG) (72.36 KB - PDF)
 

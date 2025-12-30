@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:01:09
+document_datetime: 2025-12-29 12:03:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kirsty.html
 document_name: kirsty.html
 version: success
-processing_time: 0.1099325
-conversion_datetime: 2025-12-25 11:59:39.882313
+processing_time: 0.107172
+conversion_datetime: 2025-12-30 09:42:31.466752
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin aspart Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +116,7 @@ English (EN) (103.42 KB - PDF)
 
 [View](/en/documents/overview/kirsty-previously-kixelle-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-839)
+[Other languages (22)](#file-language-dropdown-18)
 
 български (BG) (161.65 KB - PDF)
 
@@ -400,7 +402,7 @@ English (EN) (1005.36 KB - PDF)
 
 [View](/en/documents/product-information/kirsty-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-886)
+[Other languages (24)](#file-language-dropdown-328)
 
 български (BG) (1.09 MB - PDF)
 
@@ -716,7 +718,7 @@ English (EN) (4.89 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kirsty-previously-kixelle-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-405)
+[Other languages (24)](#file-language-dropdown-845)
 
 български (BG) (47.16 KB - PDF)
 

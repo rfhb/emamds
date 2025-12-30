@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:27:31
+document_datetime: 2025-12-29 13:57:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/izba.html
 document_name: izba.html
 version: success
-processing_time: 0.1131769
-conversion_datetime: 2025-12-28 14:58:58.014322
+processing_time: 0.1133868
+conversion_datetime: 2025-12-30 03:32:29.575995
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 travoprost Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (75.05 KB - PDF)
 
 [View](/en/documents/overview/izba-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-553)
+[Other languages (22)](#file-language-dropdown-37)
 
 български (BG) (101.92 KB - PDF)
 
@@ -396,7 +398,7 @@ English (EN) (288.66 KB - PDF)
 
 [View](/en/documents/product-information/izba-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-754)
+[Other languages (24)](#file-language-dropdown-797)
 
 български (BG) (379.97 KB - PDF)
 
@@ -712,7 +714,7 @@ English (EN) (20.96 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/izba-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-94)
+[Other languages (24)](#file-language-dropdown-742)
 
 български (BG) (40.02 KB - PDF)
 

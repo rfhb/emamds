@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:10:31
+document_datetime: 2025-12-29 11:29:44
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sildenafil-teva.html
 document_name: sildenafil-teva.html
 version: success
-processing_time: 0.1237986
-conversion_datetime: 2025-12-26 17:19:59.315964
+processing_time: 0.1260688
+conversion_datetime: 2025-12-30 10:51:16.053771
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sildenafil Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -98,7 +100,7 @@ English (EN) (54.22 KB - PDF)
 
 [View](/en/documents/overview/sildenafil-teva-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-661)
+[Other languages (21)](#file-language-dropdown-662)
 
 български (BG) (103.18 KB - PDF)
 
@@ -364,7 +366,7 @@ English (EN) (567.97 KB - PDF)
 
 [View](/en/documents/product-information/sildenafil-teva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-683)
+[Other languages (24)](#file-language-dropdown-155)
 
 български (BG) (735.6 KB - PDF)
 
@@ -680,7 +682,7 @@ English (EN) (80.05 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sildenafil-teva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-848)
+[Other languages (24)](#file-language-dropdown-605)
 
 български (BG) (101.71 KB - PDF)
 
@@ -1056,7 +1058,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

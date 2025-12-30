@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:11:28
+document_datetime: 2025-12-29 12:15:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/colobreathe.html
 document_name: colobreathe.html
 version: success
-processing_time: 0.1492676
-conversion_datetime: 2025-12-28 14:27:41.690783
+processing_time: 0.1501876
+conversion_datetime: 2025-12-30 10:43:34.681057
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 colistimethate sodium Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -123,7 +125,7 @@ English (EN) (71.3 KB - PDF)
 
 [View](/en/documents/overview/colobreathe-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-355)
+[Other languages (21)](#file-language-dropdown-414)
 
 български (BG) (111.92 KB - PDF)
 
@@ -399,7 +401,7 @@ English (EN) (434.83 KB - PDF)
 
 [View](/en/documents/product-information/colobreathe-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-342)
+[Other languages (24)](#file-language-dropdown-327)
 
 български (BG) (547.79 KB - PDF)
 
@@ -715,7 +717,7 @@ English (EN) (45.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/colobreathe-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-27)
+[Other languages (24)](#file-language-dropdown-983)
 
 български (BG) (77.18 KB - PDF)
 
@@ -1015,7 +1017,7 @@ English (EN) (104.37 KB - PDF)
 
 [View](/en/documents/conditions-member-states/colobreathe-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-201)
+[Other languages (22)](#file-language-dropdown-108)
 
 български (BG) (150.75 KB - PDF)
 
@@ -1333,7 +1335,7 @@ English (EN) (56.5 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/colobreathe-h-c-1225-a31-0007-epar-scientific-conclusions-and-grounds-maintenance-marketing-authorisations-or-variation-terms-marketing-authorisations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-70)
+[Other languages (22)](#file-language-dropdown-82)
 
 български (BG) (93.19 KB - PDF)
 

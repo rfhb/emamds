@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:50:16
+document_datetime: 2025-12-29 16:51:30
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/adlumiz.html
 document_name: adlumiz.html
 version: success
-processing_time: 0.0623046
-conversion_datetime: 2025-12-27 15:47:43.668965
+processing_time: 0.0690759
+conversion_datetime: 2025-12-30 09:34:18.614886
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine has been refused authorisation
 
 anamorelin Medicine Human Refused
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -92,7 +94,7 @@ English (EN) (78.75 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-refusal-marketing-authorisation-adlumiz-anamorelin-hydrochloride_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-313)
+[Other languages (22)](#file-language-dropdown-611)
 
 български (BG) (102.25 KB - PDF)
 

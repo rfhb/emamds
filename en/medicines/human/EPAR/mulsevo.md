@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:02:21
+document_datetime: 2025-12-29 16:15:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mulsevo.html
 document_name: mulsevo.html
 version: success
-processing_time: 0.0395904
-conversion_datetime: 2025-12-24 22:53:38.407757
+processing_time: 0.0500035
+conversion_datetime: 2025-12-30 10:45:46.797804
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

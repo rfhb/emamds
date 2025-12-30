@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:49:51
+document_datetime: 2025-12-29 12:01:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/retacrit.html
 document_name: retacrit.html
 version: success
-processing_time: 0.1136225
-conversion_datetime: 2025-12-29 19:44:08.730284
+processing_time: 0.1101121
+conversion_datetime: 2025-12-30 01:53:10.395045
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 epoetin zeta Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -124,7 +126,7 @@ English (EN) (71.46 KB - PDF)
 
 [View](/en/documents/overview/retacrit-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-324)
+[Other languages (21)](#file-language-dropdown-787)
 
 български (BG) (175.12 KB - PDF)
 
@@ -390,7 +392,7 @@ English (EN) (1.54 MB - PDF)
 
 [View](/en/documents/product-information/retacrit-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-26)
+[Other languages (24)](#file-language-dropdown-367)
 
 български (BG) (1.41 MB - PDF)
 
@@ -706,7 +708,7 @@ English (EN) (68.4 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/retacrit-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-179)
+[Other languages (24)](#file-language-dropdown-890)
 
 български (BG) (45.66 KB - PDF)
 

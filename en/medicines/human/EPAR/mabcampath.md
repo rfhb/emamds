@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:02:52
+document_datetime: 2025-12-29 14:36:47
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mabcampath.html
 document_name: mabcampath.html
 version: success
-processing_time: 0.120828
-conversion_datetime: 2025-12-28 20:10:27.934921
+processing_time: 0.1186936
+conversion_datetime: 2025-12-30 22:53:57.07797
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-alemtuzumab
+alemtuzumab Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (295.96 KB - PDF)
 
 [View](/en/documents/overview/mabcampath-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-63)
+[Other languages (21)](#file-language-dropdown-755)
 
 български (BG) (456.07 KB - PDF)
 
@@ -332,7 +328,7 @@ English (EN) (719.68 KB - PDF)
 
 [View](/en/documents/product-information/mabcampath-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-867)
+[Other languages (23)](#file-language-dropdown-268)
 
 български (BG) (2.32 MB - PDF)
 
@@ -636,7 +632,7 @@ English (EN) (272.14 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mabcampath-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-832)
+[Other languages (18)](#file-language-dropdown-854)
 
 español (ES) (272.05 KB - PDF)
 
@@ -864,7 +860,7 @@ English (EN) (245.34 KB - PDF)
 
 [View](/en/documents/conditions-member-states/mabcampath-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-979)
+[Other languages (21)](#file-language-dropdown-948)
 
 български (BG) (351.45 KB - PDF)
 

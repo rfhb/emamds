@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:49:29
+document_datetime: 2025-12-29 11:32:07
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/edarbi.html
 document_name: edarbi.html
 version: success
-processing_time: 0.1212417
-conversion_datetime: 2025-12-23 21:18:51.623878
+processing_time: 0.3650436
+conversion_datetime: 2025-12-30 03:17:25.597773
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 azilsartan medoxomil Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +122,7 @@ English (EN) (77.72 KB - PDF)
 
 [View](/en/documents/overview/edarbi-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-581)
+[Other languages (22)](#file-language-dropdown-488)
 
 български (BG) (103.92 KB - PDF)
 
@@ -406,7 +408,7 @@ English (EN) (290.8 KB - PDF)
 
 [View](/en/documents/product-information/edarbi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-498)
+[Other languages (24)](#file-language-dropdown-574)
 
 български (BG) (390.22 KB - PDF)
 
@@ -722,7 +724,7 @@ English (EN) (41.15 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/edarbi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-455)
+[Other languages (24)](#file-language-dropdown-50)
 
 български (BG) (42.4 KB - PDF)
 
@@ -1070,7 +1072,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/edarbi-h-c-2293-a31-06-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-224)
+[Other languages (22)](#file-language-dropdown-897)
 
 български (BG) (87.49 KB - PDF)
 

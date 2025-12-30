@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:42:37
+document_datetime: 2025-12-29 11:49:26
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xeplion.html
 document_name: xeplion.html
 version: success
-processing_time: 0.1121959
-conversion_datetime: 2025-12-25 12:43:30.301291
+processing_time: 0.1127132
+conversion_datetime: 2025-12-30 02:00:22.576292
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 paliperidone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (80.57 KB - PDF)
 
 [View](/en/documents/overview/xeplion-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-726)
+[Other languages (21)](#file-language-dropdown-818)
 
 български (BG) (107.51 KB - PDF)
 
@@ -400,7 +402,7 @@ English (EN) (1.03 MB - PDF)
 
 [View](/en/documents/product-information/xeplion-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-826)
+[Other languages (24)](#file-language-dropdown-100)
 
 български (BG) (598.87 KB - PDF)
 
@@ -716,7 +718,7 @@ English (EN) (23.53 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xeplion-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-769)
+[Other languages (24)](#file-language-dropdown-153)
 
 български (BG) (64.25 KB - PDF)
 

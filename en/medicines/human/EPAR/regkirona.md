@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:23:24
+document_datetime: 2025-12-29 14:36:32
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/regkirona.html
 document_name: regkirona.html
 version: success
-processing_time: 0.2262156
-conversion_datetime: 2025-12-29 19:26:20.177312
+processing_time: 0.1070533
+conversion_datetime: 2025-12-30 01:35:41.778853
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-regdanvimab
+regdanvimab Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -68,7 +64,7 @@ English (EN) (178.37 KB - PDF)
 
 [View](/en/documents/overview/regkirona-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-931)
+[Other languages (22)](#file-language-dropdown-188)
 
 български (BG) (229.29 KB - PDF)
 
@@ -356,7 +352,7 @@ English (EN) (1.14 MB - PDF)
 
 [View](/en/documents/product-information/regkirona-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-519)
+[Other languages (24)](#file-language-dropdown-606)
 
 български (BG) (1.43 MB - PDF)
 
@@ -672,7 +668,7 @@ English (EN) (72.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/regkirona-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-760)
+[Other languages (24)](#file-language-dropdown-506)
 
 български (BG) (87.95 KB - PDF)
 

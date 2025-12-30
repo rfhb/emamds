@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:24:42
+document_datetime: 2025-12-29 11:53:05
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/stivarga.html
 document_name: stivarga.html
 version: success
-processing_time: 0.1220442
-conversion_datetime: 2025-12-28 14:59:15.499379
+processing_time: 0.1239836
+conversion_datetime: 2025-12-30 10:29:25.558997
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 regorafenib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -123,7 +125,7 @@ English (EN) (78.37 KB - PDF)
 
 [View](/en/documents/overview/stivarga-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-317)
+[Other languages (22)](#file-language-dropdown-418)
 
 български (BG) (107.45 KB - PDF)
 
@@ -401,7 +403,7 @@ English (EN) (725.84 KB - PDF)
 
 [View](/en/documents/product-information/stivarga-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-842)
+[Other languages (24)](#file-language-dropdown-814)
 
 български (BG) (792.34 KB - PDF)
 
@@ -717,7 +719,7 @@ English (EN) (14.94 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/stivarga-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-147)
+[Other languages (23)](#file-language-dropdown-345)
 
 български (BG) (33.47 KB - PDF)
 
@@ -1198,7 +1200,7 @@ English (EN) (63.01 KB - PDF)
 
 #### More information on Stivarga
 
-- [EMEA-001178-PIP01-11-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001178-pip01-11-m06)
+- [EMA/PE/0000182170 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000182170)
 
 #### Topics
 

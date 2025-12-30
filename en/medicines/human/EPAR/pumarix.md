@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:03:09
+document_datetime: 2025-12-29 14:34:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pumarix.html
 document_name: pumarix.html
 version: success
-processing_time: 0.1081032
-conversion_datetime: 2025-12-28 19:09:20.602403
+processing_time: 0.102573
+conversion_datetime: 2025-12-30 03:14:18.931491
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-pandemic influenza vaccine (H5N1) (split virion, inactivated, adjuvanted)
+pandemic influenza vaccine (H5N1) (split virion, inactivated, adjuvanted) Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -65,7 +61,7 @@ English (EN) (531.02 KB - PDF)
 
 [View](/en/documents/overview/pumarix-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-267)
+[Other languages (21)](#file-language-dropdown-599)
 
 български (BG) (692.36 KB - PDF)
 
@@ -331,7 +327,7 @@ English (EN) (1000.31 KB - PDF)
 
 [View](/en/documents/product-information/pumarix-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-234)
+[Other languages (24)](#file-language-dropdown-752)
 
 български (BG) (1.86 MB - PDF)
 
@@ -647,7 +643,7 @@ English (EN) (506.53 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pumarix-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-313)
+[Other languages (23)](#file-language-dropdown-50)
 
 български (BG) (564.77 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:54:25
+document_datetime: 2025-12-29 11:40:28
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vectibix.html
 document_name: vectibix.html
 version: success
-processing_time: 0.1392867
-conversion_datetime: 2025-12-29 22:34:29.708702
+processing_time: 0.1365033
+conversion_datetime: 2025-12-30 08:26:18.210271
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

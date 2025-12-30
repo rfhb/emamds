@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 13:09:17
+document_datetime: 2025-12-29 11:52:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jentadueto.html
 document_name: jentadueto.html
 version: success
-processing_time: 0.7513333
-conversion_datetime: 2025-12-26 16:43:22.460506
+processing_time: 0.1407829
+conversion_datetime: 2025-12-30 02:46:29.588586
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -145,7 +145,7 @@ English (EN) (120.52 KB - PDF)
 
 [View](/en/documents/overview/jentadueto-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-246)
+[Other languages (22)](#file-language-dropdown-87)
 
 български (BG) (120.35 KB - PDF)
 
@@ -431,7 +431,7 @@ English (EN) (790.94 KB - PDF)
 
 [View](/en/documents/product-information/jentadueto-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-925)
+[Other languages (24)](#file-language-dropdown-687)
 
 български (BG) (1.6 MB - PDF)
 
@@ -747,7 +747,7 @@ English (EN) (35.37 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/jentadueto-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-919)
+[Other languages (24)](#file-language-dropdown-817)
 
 български (BG) (29.8 KB - PDF)
 
@@ -1136,7 +1136,7 @@ English (EN) (32.54 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/jentadueto-metformin-epar-scientific-conclusion_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-204)
+[Other languages (24)](#file-language-dropdown-821)
 
 български (BG) (69.5 KB - PDF)
 

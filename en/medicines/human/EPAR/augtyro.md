@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:26:01
+document_datetime: 2025-12-29 13:47:59
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/augtyro.html
 document_name: augtyro.html
 version: success
-processing_time: 0.1039566
-conversion_datetime: 2025-12-27 22:22:59.77909
+processing_time: 0.1066125
+conversion_datetime: 2025-12-30 22:48:19.672726
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 repotrectinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +124,7 @@ English (EN) (160.33 KB - PDF)
 
 [View](/en/documents/overview/augtyro-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-843)
+[Other languages (22)](#file-language-dropdown-583)
 
 български (BG) (186.26 KB - PDF)
 
@@ -318,7 +320,7 @@ English (EN) (529.21 KB - PDF)
 
 [View](/en/documents/product-information/augtyro-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-314)
+[Other languages (24)](#file-language-dropdown-898)
 
 български (BG) (454.66 KB - PDF)
 
@@ -536,7 +538,7 @@ English (EN) (15.27 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/augtyro-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-120)
+[Other languages (24)](#file-language-dropdown-53)
 
 български (BG) (38.05 KB - PDF)
 

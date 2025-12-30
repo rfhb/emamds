@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:11:49
+document_datetime: 2025-12-29 07:42:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/axitinib-accord.html
 document_name: axitinib-accord.html
 version: success
-processing_time: 0.1180136
-conversion_datetime: 2025-12-28 09:49:05.637406
+processing_time: 0.1232021
+conversion_datetime: 2025-12-30 22:24:23.727966
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 axitinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -100,7 +102,7 @@ English (EN) (143.61 KB - PDF)
 
 [View](/en/documents/overview/axitinib-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-357)
+[Other languages (22)](#file-language-dropdown-858)
 
 български (BG) (185.46 KB - PDF)
 
@@ -300,7 +302,7 @@ English (EN) (580.41 KB - PDF)
 
 [View](/en/documents/product-information/axitinib-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-751)
+[Other languages (24)](#file-language-dropdown-750)
 
 български (BG) (1.03 MB - PDF)
 
@@ -614,7 +616,7 @@ English (EN) (87.48 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/axitinib-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-268)
+[Other languages (24)](#file-language-dropdown-432)
 
 български (BG) (94.9 KB - PDF)
 
@@ -906,7 +908,7 @@ English (EN) (296.03 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/axitinib-accord-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-626)
+[Other languages (24)](#file-language-dropdown-386)
 
 български (BG) (366.71 KB - DOCX)
 

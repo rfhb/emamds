@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:06:54
+document_datetime: 2025-12-29 07:48:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/novothirteen.html
 document_name: novothirteen.html
 version: success
-processing_time: 0.135522
-conversion_datetime: 2025-12-27 23:19:38.769383
+processing_time: 0.1332033
+conversion_datetime: 2025-12-30 10:25:19.963854
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-catridecacog
+catridecacog Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +110,7 @@ English (EN) (140.73 KB - PDF)
 
 [View](/en/documents/overview/novothirteen-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-793)
+[Other languages (22)](#file-language-dropdown-718)
 
 български (BG) (164.98 KB - PDF)
 
@@ -402,7 +398,7 @@ English (EN) (1.48 MB - PDF)
 
 [View](/en/documents/product-information/novothirteen-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-641)
+[Other languages (24)](#file-language-dropdown-952)
 
 български (BG) (1.58 MB - PDF)
 
@@ -718,7 +714,7 @@ English (EN) (20.8 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/novothirteen-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-113)
+[Other languages (24)](#file-language-dropdown-61)
 
 български (BG) (51.97 KB - PDF)
 
@@ -1018,7 +1014,7 @@ English (EN) (218.67 KB - PDF)
 
 [View](/en/documents/conditions-member-states/novothirteen-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-17)
+[Other languages (23)](#file-language-dropdown-501)
 
 български (BG) (274.34 KB - PDF)
 

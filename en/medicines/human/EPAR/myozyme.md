@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:45:18
+document_datetime: 2025-12-29 09:15:42
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/myozyme.html
 document_name: myozyme.html
 version: success
-processing_time: 0.2779647
-conversion_datetime: 2025-12-24 09:31:51.395331
+processing_time: 0.1124846
+conversion_datetime: 2025-12-30 01:49:57.951341
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 alglucosidase alfa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (76.65 KB - PDF)
 
 [View](/en/documents/overview/myozyme-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-388)
+[Other languages (21)](#file-language-dropdown-798)
 
 български (BG) (129.17 KB - PDF)
 
@@ -391,7 +393,7 @@ English (EN) (482.58 KB - PDF)
 
 [View](/en/documents/product-information/myozyme-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-375)
+[Other languages (24)](#file-language-dropdown-861)
 
 български (BG) (508.86 KB - PDF)
 
@@ -707,7 +709,7 @@ English (EN) (12.56 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/myozyme-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-666)
+[Other languages (24)](#file-language-dropdown-784)
 
 български (BG) (86.84 KB - PDF)
 

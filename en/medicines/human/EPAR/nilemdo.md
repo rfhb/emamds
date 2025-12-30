@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:55:22
+document_datetime: 2025-12-29 11:34:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nilemdo.html
 document_name: nilemdo.html
 version: success
-processing_time: 0.1121802
-conversion_datetime: 2025-12-27 13:09:18.405112
+processing_time: 0.1181007
+conversion_datetime: 2025-12-30 03:31:54.394643
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bempedoic acid Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +116,7 @@ English (EN) (123.45 KB - PDF)
 
 [View](/en/documents/overview/nilemdo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-709)
+[Other languages (22)](#file-language-dropdown-689)
 
 български (BG) (146.11 KB - PDF)
 
@@ -402,7 +404,7 @@ English (EN) (1.19 MB - PDF)
 
 [View](/en/documents/product-information/nilemdo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-701)
+[Other languages (24)](#file-language-dropdown-291)
 
 български (BG) (694.01 KB - PDF)
 
@@ -718,7 +720,7 @@ English (EN) (24.56 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nilemdo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-980)
+[Other languages (24)](#file-language-dropdown-569)
 
 български (BG) (61.64 KB - PDF)
 

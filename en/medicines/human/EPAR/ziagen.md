@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:24:18
+document_datetime: 2025-12-29 14:08:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ziagen.html
 document_name: ziagen.html
 version: success
-processing_time: 0.1157035
-conversion_datetime: 2025-12-29 21:29:35.710381
+processing_time: 0.1183305
+conversion_datetime: 2025-12-30 11:21:21.257147
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

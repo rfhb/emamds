@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:08:13
+document_datetime: 2025-12-29 12:34:42
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/levetiracetam-teva.html
 document_name: levetiracetam-teva.html
 version: success
-processing_time: 0.119652
-conversion_datetime: 2025-12-29 21:07:32.439419
+processing_time: 0.1172284
+conversion_datetime: 2025-12-30 07:57:25.239403
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:11:07
+document_datetime: 2025-12-29 12:32:42
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pantoloc-control.html
 document_name: pantoloc-control.html
 version: success
-processing_time: 0.1064292
-conversion_datetime: 2025-12-29 21:14:12.781528
+processing_time: 0.1062082
+conversion_datetime: 2025-12-30 22:50:18.682721
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:35:04
+document_datetime: 2025-12-29 11:14:11
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ristaben.html
 document_name: ristaben.html
 version: success
-processing_time: 0.1230454
-conversion_datetime: 2025-12-24 06:16:36.419478
+processing_time: 0.3792068
+conversion_datetime: 2025-12-30 02:30:57.486758
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sitagliptin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +124,7 @@ English (EN) (89.08 KB - PDF)
 
 [View](/en/documents/overview/ristaben-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-968)
+[Other languages (22)](#file-language-dropdown-554)
 
 български (BG) (144.46 KB - PDF)
 
@@ -408,7 +410,7 @@ English (EN) (337.54 KB - PDF)
 
 [View](/en/documents/product-information/ristaben-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-777)
+[Other languages (24)](#file-language-dropdown-405)
 
 български (BG) (327.37 KB - PDF)
 
@@ -724,7 +726,7 @@ English (EN) (24.35 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ristaben-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-389)
+[Other languages (24)](#file-language-dropdown-191)
 
 български (BG) (44.45 KB - PDF)
 

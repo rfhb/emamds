@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:15:11
+document_datetime: 2025-12-29 09:23:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/teriflunomide-viatris.html
 document_name: teriflunomide-viatris.html
 version: success
-processing_time: 0.1175568
-conversion_datetime: 2025-12-28 02:30:29.589322
+processing_time: 0.1303111
+conversion_datetime: 2025-12-30 01:19:08.252847
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 teriflunomide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +106,7 @@ English (EN) (146.56 KB - PDF)
 
 [View](/en/documents/overview/teriflunomide-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-697)
+[Other languages (22)](#file-language-dropdown-94)
 
 български (BG) (154.36 KB - PDF)
 
@@ -390,7 +392,7 @@ English (EN) (253.62 KB - PDF)
 
 [View](/en/documents/product-information/teriflunomide-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-283)
+[Other languages (24)](#file-language-dropdown-279)
 
 български (BG) (692.31 KB - PDF)
 
@@ -706,7 +708,7 @@ English (EN) (12.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/teriflunomide-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-352)
+[Other languages (24)](#file-language-dropdown-449)
 
 български (BG) (73.18 KB - PDF)
 
@@ -1103,7 +1105,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-754)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

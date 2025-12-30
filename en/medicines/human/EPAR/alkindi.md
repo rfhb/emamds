@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:53:53
+document_datetime: 2025-12-29 14:35:59
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/alkindi.html
 document_name: alkindi.html
 version: success
-processing_time: 0.1112215
-conversion_datetime: 2025-12-26 18:28:48.294991
+processing_time: 0.1194401
+conversion_datetime: 2025-12-30 22:49:21.76093
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 hydrocortisone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (74.31 KB - PDF)
 
 [View](/en/documents/overview/alkindi-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-630)
+[Other languages (22)](#file-language-dropdown-360)
 
 български (BG) (99.93 KB - PDF)
 
@@ -401,7 +403,7 @@ English (EN) (854.83 KB - PDF)
 
 [View](/en/documents/product-information/alkindi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-915)
+[Other languages (24)](#file-language-dropdown-737)
 
 български (BG) (792.62 KB - PDF)
 
@@ -717,7 +719,7 @@ English (EN) (24.35 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/alkindi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-343)
+[Other languages (24)](#file-language-dropdown-69)
 
 български (BG) (41.35 KB - PDF)
 

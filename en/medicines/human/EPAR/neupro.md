@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:54:50
+document_datetime: 2025-12-29 12:45:35
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/neupro.html
 document_name: neupro.html
 version: success
-processing_time: 0.1426124
-conversion_datetime: 2025-12-26 19:20:19.321729
+processing_time: 0.3946949
+conversion_datetime: 2025-12-30 02:32:42.339761
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 rotigotine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (83.35 KB - PDF)
 
 [View](/en/documents/overview/neupro-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-958)
+[Other languages (21)](#file-language-dropdown-650)
 
 български (BG) (111.74 KB - PDF)
 
@@ -377,7 +379,7 @@ English (EN) (894.94 KB - PDF)
 
 [View](/en/documents/product-information/neupro-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-245)
+[Other languages (24)](#file-language-dropdown-362)
 
 български (BG) (1.17 MB - PDF)
 
@@ -693,7 +695,7 @@ English (EN) (59.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/neupro-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-667)
+[Other languages (24)](#file-language-dropdown-140)
 
 български (BG) (88.03 KB - PDF)
 
@@ -1182,7 +1184,7 @@ English (EN) (1.93 MB - DOC)
 
 [View](/en/documents/product-information-tracked-changes/neupro-epar-product-information-tracked-changes_en.doc)
 
-[Other languages (24)](#file-language-dropdown-230)
+[Other languages (24)](#file-language-dropdown-993)
 
 български (BG) (2.25 MB - DOC)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:07:22
+document_datetime: 2025-12-29 11:29:29
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/melatonin-neurim.html
 document_name: melatonin-neurim.html
 version: success
-processing_time: 0.1058408
-conversion_datetime: 2025-12-28 08:58:08.783366
+processing_time: 0.0998019
+conversion_datetime: 2025-12-30 21:51:38.027872
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 melatonin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +105,7 @@ English (EN) (117.89 KB - PDF)
 
 [View](/en/documents/overview/melatonin-neurim-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-534)
+[Other languages (22)](#file-language-dropdown-886)
 
 български (BG) (143.36 KB - PDF)
 
@@ -389,7 +391,7 @@ English (EN) (305.19 KB - PDF)
 
 [View](/en/documents/product-information/melatonin-neurim-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-679)
+[Other languages (24)](#file-language-dropdown-899)
 
 български (BG) (356.86 KB - PDF)
 
@@ -703,7 +705,7 @@ English (EN) (38.39 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/melatonin-neurim-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-732)
+[Other languages (24)](#file-language-dropdown-806)
 
 български (BG) (51.72 KB - PDF)
 

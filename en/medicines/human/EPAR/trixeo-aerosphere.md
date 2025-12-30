@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:56:22
+document_datetime: 2025-12-29 12:46:21
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trixeo-aerosphere.html
 document_name: trixeo-aerosphere.html
 version: success
-processing_time: 0.1081956
-conversion_datetime: 2025-12-28 15:45:16.10293
+processing_time: 0.1134773
+conversion_datetime: 2025-12-30 03:29:13.419616
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 formoterol / glycopyrronium bromide / budesonide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (95.52 KB - PDF)
 
 [View](/en/documents/overview/trixeo-aerosphere-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-170)
+[Other languages (22)](#file-language-dropdown-883)
 
 български (BG) (120.05 KB - PDF)
 
@@ -308,7 +310,7 @@ English (EN) (2.01 MB - PDF)
 
 [View](/en/documents/product-information/trixeo-aerosphere-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-64)
+[Other languages (24)](#file-language-dropdown-470)
 
 български (BG) (1.95 MB - PDF)
 
@@ -624,7 +626,7 @@ English (EN) (31.96 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/trixeo-aerosphere-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-860)
+[Other languages (24)](#file-language-dropdown-4)
 
 български (BG) (27.72 KB - PDF)
 
@@ -1010,7 +1012,7 @@ English (EN) (144.96 KB - PDF)
 
 #### More information on Trixeo Aerosphere
 
-- [EMEA-002063-PIP01-16-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002063-pip01-16-m02)
+- [EMA/PE/0000181335 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000181335)
 
 **This page was last updated on** 19/09/2025
 

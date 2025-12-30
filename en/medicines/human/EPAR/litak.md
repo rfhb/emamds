@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:45:13
+document_datetime: 2025-12-29 08:01:59
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/litak.html
 document_name: litak.html
 version: success
-processing_time: 0.1186992
-conversion_datetime: 2025-12-27 14:27:19.98933
+processing_time: 0.336553
+conversion_datetime: 2025-12-30 22:01:23.141453
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 cladribine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (43.8 KB - PDF)
 
 [View](/en/documents/overview/litak-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-134)
+[Other languages (21)](#file-language-dropdown-899)
 
 български (BG) (169.4 KB - PDF)
 
@@ -372,7 +374,7 @@ English (EN) (202.86 KB - PDF)
 
 [View](/en/documents/product-information/litak-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-872)
+[Other languages (24)](#file-language-dropdown-949)
 
 български (BG) (355.68 KB - PDF)
 
@@ -688,7 +690,7 @@ English (EN) (58.29 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/litak-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-585)
+[Other languages (22)](#file-language-dropdown-522)
 
 български (BG) (85.34 KB - PDF)
 
@@ -1002,7 +1004,7 @@ English (EN) (18.64 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/litak-h-c-psusa-00000787-202402-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation-annex-i_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-422)
+[Other languages (25)](#file-language-dropdown-317)
 
 български (BG) (79.22 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:21:51
+document_datetime: 2025-12-29 14:35:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/possia.html
 document_name: possia.html
 version: success
-processing_time: 0.0929988
-conversion_datetime: 2025-12-27 09:41:36.498363
+processing_time: 0.104216
+conversion_datetime: 2025-12-30 03:24:34.084542
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 ticagrelor Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -58,7 +60,7 @@ English (EN) (198.52 KB - PDF)
 
 [View](/en/documents/overview/possia-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-844)
+[Other languages (21)](#file-language-dropdown-136)
 
 български (BG) (693.72 KB - PDF)
 
@@ -324,7 +326,7 @@ English (EN) (805.47 KB - PDF)
 
 [View](/en/documents/product-information/possia-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-722)
+[Other languages (23)](#file-language-dropdown-476)
 
 български (BG) (1.27 MB - PDF)
 
@@ -628,7 +630,7 @@ English (EN) (548.06 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/possia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-432)
+[Other languages (23)](#file-language-dropdown-698)
 
 български (BG) (617.58 KB - PDF)
 

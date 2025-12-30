@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:54:10
+document_datetime: 2025-12-29 08:13:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/abrysvo.html
 document_name: abrysvo.html
 version: success
-processing_time: 0.113852
-conversion_datetime: 2025-12-29 19:35:29.585774
+processing_time: 0.1396195
+conversion_datetime: 2025-12-30 11:58:53.735459
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 respiratory syncytial virus vaccine (bivalent, recombinant) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (122.7 KB - PDF)
 
 [View](/en/documents/overview/abrysvo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-640)
+[Other languages (22)](#file-language-dropdown-101)
 
 български (BG) (156.07 KB - PDF)
 
@@ -398,7 +400,7 @@ English (EN) (507.73 KB - PDF)
 
 [View](/en/documents/product-information/abrysvo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-557)
+[Other languages (24)](#file-language-dropdown-315)
 
 български (BG) (527.37 KB - PDF)
 
@@ -714,7 +716,7 @@ English (EN) (40.31 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/abrysvo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-455)
+[Other languages (24)](#file-language-dropdown-101)
 
 български (BG) (41.72 KB - PDF)
 
@@ -1156,22 +1158,22 @@ English (EN) (117.29 KB - PDF)
 
 #### More information on Abrysvo
 
+- [Effectiveness of ABRYSVO® maternal respiratory syncytial virus (RSV) vaccine against RSV in infants in Western Pennsylvania (CASSATT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000389)
+- [A Study to Evaluate the Vaccine Effectiveness of Abrysvo® for Preventing RSV Hospitalizations in Adults Aged 60 Years or Above (Complementary Study to DAN-RSV) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000480)
+- [A Post-Marketing Safety Study using a Pregnancy Registry to Evaluate the Safety of Respiratory Syncytial Virus Vaccine (ABRYSVO™) Exposure During Pregnancy (C3671041) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000179)
+- [Evaluating the benefits of RSV maternal vaccination using a Scottish National Dataset. (BORLAND) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000706)
+- [Observational Cohort Study Evaluating Real-World ABRYSVO Vaccine Effectiveness and Impact Against Medically-Attended RSV-related and All-Cause Outcomes Among Infants Born to Individuals Vaccinated During Pregnancy - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000295)
 - [A post-authorisation safety study of ABRYSVO in immunocompromised, or renally or hepatically impaired adults aged 60 years and older in a real world setting in Europe and UK (C3671038) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000400)
 - [A Post-Authorisation Safety Study (PASS) of ABRYSVO (Respiratory Syncytial Virus Stabilised Prefusion Subunit Vaccine) in Pregnant Women and their Offspring in a Real World Setting in Europe and UK (C3671026) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000399)
-- [Evaluating the benefits of RSV maternal vaccination using a Scottish National Dataset. (BORLAND) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000706)
 - [A Post-Authorization Safety Study of Guillain-Barré Syndrome (GBS) Following ABRYSVOTM Among Older Adults in the United States (C3671031) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000753)
 - [Effectiveness and immunogenicity of respiratory syncytial virus vaccine (RSVpreF from Pfizer) for pregnant persons: A living systematic review and meta-analysis - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000713)
 - [id.DRIVE study of brand-specific respiratory syncytial virus (RSV) vaccine effectiveness in Europe - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000035)
-- [Observational Cohort Study Evaluating Real-World ABRYSVO Vaccine Effectiveness and Impact Against Medically-Attended RSV-related and All-Cause Outcomes Among Infants Born to Individuals Vaccinated During Pregnancy - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000295)
 - [A Post-Authorization Safety Study of Atrial Fibrillation Following Respiratory Syncytial Virus Vaccine (ABRYSVOTM) Among Older Adults in the Veterans Affairs Health System (C3671037) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000290)
 - [Epidemiology of Guillain-Barré Syndrome and Risk Associated with Exposure to ABRYSVO Among Vaccinees 18-59 Years of Age in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000629)
 - [A Post-Marketing Near Real-Time Safety Surveillance of Respiratory Syncytial Virus Vaccine for Guillain-Barre Syndrome (GBS) among Older Adults in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000267)
 - [STudy of Real world vaccinE Effectiveness of maTernal RSVpreF vaccinatiON against respiratory syncytial virus (RSV) in hospitalised infants in Australia (STREETON) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000598)
 - [A Rapid Surveillance and Cohort Post-Marketing Safety Study to Evaluate the Safety of Respiratory Syncytial Virus Vaccine (ABRYSVO™) Exposure During Pregnancy in the United States (C3671027) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000115)
-- [A Study to Evaluate the Vaccine Effectiveness of Abrysvo® for Preventing RSV Hospitalizations in Adults Aged 60 Years or Above (Complementary Study to DAN-RSV) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000480)
-- [A Post-Marketing Safety Study using a Pregnancy Registry to Evaluate the Safety of Respiratory Syncytial Virus Vaccine (ABRYSVO™) Exposure During Pregnancy (C3671041) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000179)
 - [Retrospective Study Evaluating ABRYSVO® Vaccine Effectiveness Against Severe Lower Respiratory Tract Disease in Older Adults - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000460)
-- [Effectiveness of ABRYSVO® maternal respiratory syncytial virus (RSV) vaccine against RSV in infants in Western Pennsylvania (CASSATT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000389)
 - [Real World Impact and Effectiveness of ABRYSVO Vaccination During Pregnancy Against RSV Illness in Infants (BERNI) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000224)
 
 **This page was last updated on** 14/10/2025

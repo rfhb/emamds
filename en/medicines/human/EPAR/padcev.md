@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:21
+document_datetime: 2025-12-29 12:58:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/padcev.html
 document_name: padcev.html
 version: success
-processing_time: 0.501557
-conversion_datetime: 2025-12-28 17:36:35.429133
+processing_time: 0.1133369
+conversion_datetime: 2025-12-30 01:29:50.280579
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 enfortumab vedotin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (112.68 KB - PDF)
 
 [View](/en/documents/overview/padcev-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-386)
+[Other languages (22)](#file-language-dropdown-94)
 
 български (BG) (139.28 KB - PDF)
 
@@ -400,7 +402,7 @@ English (EN) (3.99 MB - PDF)
 
 [View](/en/documents/product-information/padcev-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-381)
+[Other languages (24)](#file-language-dropdown-564)
 
 български (BG) (3.91 MB - PDF)
 
@@ -714,7 +716,7 @@ English (EN) (19.78 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/padcev-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-133)
+[Other languages (24)](#file-language-dropdown-982)
 
 български (BG) (43.13 KB - PDF)
 

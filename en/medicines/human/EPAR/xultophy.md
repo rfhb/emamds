@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 07:00:16
+document_datetime: 2025-12-29 10:23:17
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xultophy.html
 document_name: xultophy.html
 version: success
-processing_time: 0.134127
-conversion_datetime: 2025-12-28 00:37:52.226336
+processing_time: 0.1345503
+conversion_datetime: 2025-12-30 10:23:47.162535
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin degludec / liraglutide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (83.69 KB - PDF)
 
 [View](/en/documents/overview/xultophy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-329)
+[Other languages (22)](#file-language-dropdown-632)
 
 български (BG) (111.78 KB - PDF)
 
@@ -399,7 +401,7 @@ English (EN) (556.19 KB - PDF)
 
 [View](/en/documents/product-information/xultophy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-297)
+[Other languages (24)](#file-language-dropdown-213)
 
 български (BG) (757.86 KB - PDF)
 
@@ -715,7 +717,7 @@ English (EN) (31.16 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xultophy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-473)
+[Other languages (24)](#file-language-dropdown-678)
 
 български (BG) (56.71 KB - PDF)
 
@@ -1189,7 +1191,7 @@ English (EN) (74.51 KB - PDF)
 
 [View](/en/documents/medication-error/insulin-non-insulin-active-substance-guidance-prevention-medication-errors_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-298)
+[Other languages (22)](#file-language-dropdown-463)
 
 български (BG) (103.69 KB - PDF)
 

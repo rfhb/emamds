@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:38:50
+document_datetime: 2025-12-29 12:03:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/steglatro.html
 document_name: steglatro.html
 version: success
-processing_time: 0.1126015
-conversion_datetime: 2025-12-29 21:51:42.234437
+processing_time: 0.1093712
+conversion_datetime: 2025-12-30 22:24:50.348679
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

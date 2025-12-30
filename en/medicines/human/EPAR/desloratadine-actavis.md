@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 11:09:08
+document_datetime: 2025-12-29 14:12:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/desloratadine-actavis.html
 document_name: desloratadine-actavis.html
 version: success
-processing_time: 0.1186632
-conversion_datetime: 2025-12-27 09:35:17.226833
+processing_time: 0.1286205
+conversion_datetime: 2025-12-30 20:01:35.198829
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-desloratadine
+desloratadine Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +102,7 @@ English (EN) (115.86 KB - PDF)
 
 [View](/en/documents/overview/desloratadine-actavis-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-637)
+[Other languages (21)](#file-language-dropdown-292)
 
 български (BG) (148.91 KB - PDF)
 
@@ -372,7 +368,7 @@ English (EN) (362.03 KB - PDF)
 
 [View](/en/documents/product-information/desloratadine-actavis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-852)
+[Other languages (24)](#file-language-dropdown-898)
 
 български (BG) (418.93 KB - PDF)
 
@@ -688,7 +684,7 @@ English (EN) (18.24 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/desloratadine-actavis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-85)
+[Other languages (24)](#file-language-dropdown-692)
 
 български (BG) (25.63 KB - PDF)
 
@@ -1096,7 +1092,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-44)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

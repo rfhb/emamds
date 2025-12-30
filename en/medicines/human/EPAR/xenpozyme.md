@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:10:04
+document_datetime: 2025-12-29 07:42:22
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xenpozyme.html
 document_name: xenpozyme.html
 version: success
-processing_time: 0.1093097
-conversion_datetime: 2025-12-27 21:10:12.109409
+processing_time: 0.1130664
+conversion_datetime: 2025-12-30 09:56:44.607522
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 olipudase alfa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (113.1 KB - PDF)
 
 [View](/en/documents/overview/xenpozyme-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-73)
+[Other languages (22)](#file-language-dropdown-340)
 
 български (BG) (124.34 KB - PDF)
 
@@ -312,7 +314,7 @@ English (EN) (554.52 KB - PDF)
 
 [View](/en/documents/product-information/xenpozyme-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-909)
+[Other languages (24)](#file-language-dropdown-777)
 
 български (BG) (863.27 KB - PDF)
 
@@ -628,7 +630,7 @@ English (EN) (51.64 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xenpozyme-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-111)
+[Other languages (24)](#file-language-dropdown-425)
 
 български (BG) (68 KB - PDF)
 

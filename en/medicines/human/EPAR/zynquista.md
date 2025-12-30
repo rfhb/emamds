@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:38:25
+document_datetime: 2025-12-29 12:53:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zynquista.html
 document_name: zynquista.html
 version: success
-processing_time: 0.1037691
-conversion_datetime: 2025-12-27 23:07:44.825217
+processing_time: 0.1054002
+conversion_datetime: 2025-12-30 08:27:10.602175
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 sotagliflozin Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -60,7 +62,7 @@ English (EN) (665.64 KB - PDF)
 
 [View](/en/documents/overview/zynquista-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-601)
+[Other languages (22)](#file-language-dropdown-167)
 
 български (BG) (759.4 KB - PDF)
 
@@ -348,7 +350,7 @@ English (EN) (1.18 MB - PDF)
 
 [View](/en/documents/product-information/zynquista-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-870)
+[Other languages (24)](#file-language-dropdown-185)
 
 български (BG) (2.39 MB - PDF)
 
@@ -664,7 +666,7 @@ English (EN) (593.92 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zynquista-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-328)
+[Other languages (24)](#file-language-dropdown-663)
 
 български (BG) (671.74 KB - PDF)
 

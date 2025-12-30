@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:27:17
+document_datetime: 2025-12-29 15:08:22
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/livmarli.html
 document_name: livmarli.html
 version: success
-processing_time: 0.1232235
-conversion_datetime: 2025-12-24 07:14:43.56233
+processing_time: 0.1148383
+conversion_datetime: 2025-12-30 03:14:01.186418
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 maralixibat chloride Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +124,7 @@ English (EN) (128.57 KB - PDF)
 
 [View](/en/documents/overview/livmarli-epar-medicine-overview_en.pdf)
 
-[Other languages (19)](#file-language-dropdown-277)
+[Other languages (19)](#file-language-dropdown-776)
 
 български (BG) (153.93 KB - PDF)
 
@@ -374,7 +376,7 @@ English (EN) (708.88 KB - PDF)
 
 [View](/en/documents/product-information/livmarli-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-19)
+[Other languages (24)](#file-language-dropdown-735)
 
 български (BG) (1.01 MB - PDF)
 
@@ -688,7 +690,7 @@ English (EN) (11.15 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/livmarli-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-391)
+[Other languages (24)](#file-language-dropdown-836)
 
 български (BG) (36.06 KB - PDF)
 

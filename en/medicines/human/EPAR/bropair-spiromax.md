@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 10:48:24
+document_datetime: 2025-12-29 07:14:34
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bropair-spiromax.html
 document_name: bropair-spiromax.html
 version: success
-processing_time: 0.1091894
-conversion_datetime: 2025-12-27 22:01:05.243942
+processing_time: 0.4328232
+conversion_datetime: 2025-12-30 10:51:42.417948
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-salmeterol / fluticasone propionate
+salmeterol / fluticasone propionate Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (203.1 KB - PDF)
 
 [View](/en/documents/overview/bropair-spiromax-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-521)
+[Other languages (22)](#file-language-dropdown-651)
 
 български (BG) (258.75 KB - PDF)
 
@@ -355,7 +351,7 @@ English (EN) (2.11 MB - PDF)
 
 [View](/en/documents/product-information/bropair-spiromax-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-447)
+[Other languages (24)](#file-language-dropdown-520)
 
 български (BG) (2.93 MB - PDF)
 
@@ -671,7 +667,7 @@ English (EN) (100.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bropair-spiromax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-412)
+[Other languages (24)](#file-language-dropdown-371)
 
 български (BG) (121.33 KB - PDF)
 

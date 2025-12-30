@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:38:33
+document_datetime: 2025-12-29 14:36:07
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rituzena.html
 document_name: rituzena.html
 version: success
-processing_time: 0.1147558
-conversion_datetime: 2025-12-24 01:45:50.8332
+processing_time: 0.1097997
+conversion_datetime: 2025-12-30 02:14:10.38666
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 rituximab Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -65,7 +67,7 @@ English (EN) (563.69 KB - PDF)
 
 [View](/en/documents/overview/rituzena-epar-summary-public_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-552)
+[Other languages (20)](#file-language-dropdown-682)
 
 български (BG) (642.98 KB - PDF)
 
@@ -319,7 +321,7 @@ English (EN) (1.89 MB - PDF)
 
 [View](/en/documents/product-information/rituzena-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-405)
+[Other languages (24)](#file-language-dropdown-393)
 
 български (BG) (3.93 MB - PDF)
 
@@ -635,7 +637,7 @@ English (EN) (496.13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rituzena-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-105)
+[Other languages (24)](#file-language-dropdown-501)
 
 български (BG) (529.93 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-09 23:19:56
+document_datetime: 2025-12-29 07:04:29
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/keytruda.html
 document_name: keytruda.html
 version: success
-processing_time: 0.2215877
-conversion_datetime: 2025-12-25 08:57:13.434074
+processing_time: 0.2256694
+conversion_datetime: 2025-12-30 12:41:33.361029
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pembrolizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -259,7 +261,7 @@ English (EN) (185.9 KB - PDF)
 
 [View](/en/documents/overview/keytruda-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-153)
+[Other languages (22)](#file-language-dropdown-257)
 
 български (BG) (212.89 KB - PDF)
 
@@ -547,7 +549,7 @@ English (EN) (6.19 MB - PDF)
 
 [View](/en/documents/product-information/keytruda-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-993)
+[Other languages (24)](#file-language-dropdown-595)
 
 български (BG) (7.37 MB - PDF)
 
@@ -863,7 +865,7 @@ English (EN) (17.37 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/keytruda-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-507)
+[Other languages (24)](#file-language-dropdown-255)
 
 български (BG) (24.69 KB - PDF)
 
@@ -2280,7 +2282,7 @@ English (EN) (129.42 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-use-keytruda-alone-non-small-cell-lung-cancer-low-levels-pd-l1_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-424)
+[Other languages (22)](#file-language-dropdown-951)
 
 български (BG) (145.05 KB - PDF)
 

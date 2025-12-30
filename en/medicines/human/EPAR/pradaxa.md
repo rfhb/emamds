@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-21 11:27:03
+document_datetime: 2025-12-29 11:26:42
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pradaxa.html
 document_name: pradaxa.html
 version: success
-processing_time: 0.1425707
-conversion_datetime: 2025-12-23 23:53:07.305734
+processing_time: 0.1743659
+conversion_datetime: 2025-12-30 09:00:02.530647
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -149,7 +149,7 @@ English (EN) (155.33 KB - PDF)
 
 [View](/en/documents/overview/pradaxa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-785)
+[Other languages (22)](#file-language-dropdown-513)
 
 български (BG) (180.13 KB - PDF)
 
@@ -437,7 +437,7 @@ English (EN) (3.15 MB - PDF)
 
 [View](/en/documents/product-information/pradaxa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-152)
+[Other languages (24)](#file-language-dropdown-794)
 
 български (BG) (6.99 MB - PDF)
 
@@ -753,7 +753,7 @@ English (EN) (27.6 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pradaxa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-130)
+[Other languages (24)](#file-language-dropdown-32)
 
 български (BG) (31.92 KB - PDF)
 
@@ -1053,7 +1053,7 @@ English (EN) (116.82 KB - PDF)
 
 [View](/en/documents/conditions-member-states/pradaxa-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-157)
+[Other languages (23)](#file-language-dropdown-568)
 
 български (BG) (149.41 KB - PDF)
 
@@ -1729,7 +1729,7 @@ English (EN) (830.13 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/pradaxa-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-479)
+[Other languages (24)](#file-language-dropdown-441)
 
 български (BG) (688.62 KB - DOCX)
 
@@ -1928,6 +1928,10 @@ svenska (SV) (614.67 KB - DOCX)
 No change is needed in use of direct oral anticoagulants following EMA-funded study
 
 Reference Number: EMA/94424/2020
+
+Summary:
+
+No change to the conditions of use of the direct oral anticoagulants Eliquis (apixaban), Pradaxa (dabigatran etexilate) and Xarelto (rivaroxaban) is needed following a review of the results of a European study of real-world data for these medicines.
 
 English (EN) (160.71 KB - PDF)
 

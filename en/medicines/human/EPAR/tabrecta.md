@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:21:38
+document_datetime: 2025-12-29 09:09:27
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tabrecta.html
 document_name: tabrecta.html
 version: success
-processing_time: 0.1040695
-conversion_datetime: 2025-12-28 14:35:56.908903
+processing_time: 0.1092703
+conversion_datetime: 2025-12-30 10:42:39.154072
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 capmatinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (114.05 KB - PDF)
 
 [View](/en/documents/overview/tabrecta-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-706)
+[Other languages (21)](#file-language-dropdown-849)
 
 български (BG) (146.07 KB - PDF)
 
@@ -299,7 +301,7 @@ English (EN) (223.49 KB - PDF)
 
 [View](/en/documents/product-information/tabrecta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-137)
+[Other languages (24)](#file-language-dropdown-860)
 
 български (BG) (492.02 KB - PDF)
 
@@ -615,7 +617,7 @@ English (EN) (54.63 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tabrecta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-412)
+[Other languages (24)](#file-language-dropdown-971)
 
 български (BG) (63.04 KB - PDF)
 

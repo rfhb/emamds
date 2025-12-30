@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 07:00:09
+document_datetime: 2025-12-29 13:07:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/revinty-ellipta.html
 document_name: revinty-ellipta.html
 version: success
-processing_time: 0.1420468
-conversion_datetime: 2025-12-28 13:09:59.468581
+processing_time: 0.1410799
+conversion_datetime: 2025-12-30 10:23:02.926632
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 fluticasone furoate / vilanterol Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -126,7 +128,7 @@ English (EN) (83 KB - PDF)
 
 [View](/en/documents/overview/revinty-ellipta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-752)
+[Other languages (22)](#file-language-dropdown-5)
 
 български (BG) (106.51 KB - PDF)
 
@@ -414,7 +416,7 @@ English (EN) (1.07 MB - PDF)
 
 [View](/en/documents/product-information/revinty-ellipta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-507)
+[Other languages (24)](#file-language-dropdown-493)
 
 български (BG) (1.06 MB - PDF)
 
@@ -730,7 +732,7 @@ English (EN) (21.36 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/revinty-ellipta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-429)
+[Other languages (24)](#file-language-dropdown-133)
 
 български (BG) (60.54 KB - PDF)
 
@@ -1202,7 +1204,7 @@ English (EN) (39.48 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/revinty-ellipta-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-772)
+[Other languages (22)](#file-language-dropdown-482)
 
 български (BG) (71.2 KB - PDF)
 

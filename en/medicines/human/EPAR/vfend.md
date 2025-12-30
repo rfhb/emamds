@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:29:31
+document_datetime: 2025-12-29 12:16:11
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vfend.html
 document_name: vfend.html
 version: success
-processing_time: 0.1228567
-conversion_datetime: 2025-12-25 01:58:24.533072
+processing_time: 0.1233878
+conversion_datetime: 2025-12-30 10:01:35.908335
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -26,6 +26,8 @@ This medicine is authorised for use in the European Union
 
 voriconazole Medicine Human Authorised
 
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+
 Page contents
 
 ## Page contents
@@ -35,6 +37,7 @@ Page contents
 - [Product details](#product-details)
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
+- [News on Vfend](#news-on)
 - [Product information - with tracked changes](#product-information-with-tracked-changes-79357)
 - [More information on Vfend](#related-medicines)
 - [Topics](#topics)
@@ -157,7 +160,7 @@ English (EN) (87.85 KB - PDF)
 
 [View](/en/documents/overview/vfend-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-733)
+[Other languages (22)](#file-language-dropdown-220)
 
 български (BG) (116.71 KB - PDF)
 
@@ -445,7 +448,7 @@ English (EN) (1.51 MB - PDF)
 
 [View](/en/documents/product-information/vfend-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-732)
+[Other languages (24)](#file-language-dropdown-725)
 
 български (BG) (1.07 MB - PDF)
 
@@ -761,7 +764,7 @@ English (EN) (34.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vfend-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-222)
+[Other languages (24)](#file-language-dropdown-151)
 
 български (BG) (37.84 KB - PDF)
 
@@ -1224,6 +1227,10 @@ English (EN) (107.47 KB - PDF)
 
 [View](/en/documents/procedural-steps/vfend-epar-procedural-steps-taken-authorisation_en.pdf)
 
+#### News on Vfend
+
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 8-11 December 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-8-11-december-2025) 12/12/2025
+
 #### Product information - with tracked changes
 
 The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
@@ -1240,6 +1247,7 @@ English (EN) (537.81 KB - DOCX)
 
 - [EMEA-000191-PIP01-08-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000191-pip01-08-m05)
 - [Vfend - supply shortage](/en/medicines/human/shortages/vfend)
+- [Vfend - opinion on variation to marketing authorisation](/en/medicines/human/variation/vfend)
 - [Evaluation of the effectiveness of additional risk minimisation measures (aRMMs) that aim to reduce the risks of phototoxicity, squamous cell carcinoma (SCC) of the skin and hepatic toxicity in patients receiving voriconazole in Saudi Arabia - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000266)
 - [Evaluation of the Potential Association Between Voriconazole Use and Squamous Cell Carcinoma (SCC) of Skin Among Patients With Lung or Lung/Heart Transplants - post-authorisation study](https://catalogues.ema.europa.eu/study/28286)
 - [An Active Safety Surveillance Program To Monitor Selected Events In Patients With Long-Term Voriconazole Use - post-authorisation study](https://catalogues.ema.europa.eu/study/48463)

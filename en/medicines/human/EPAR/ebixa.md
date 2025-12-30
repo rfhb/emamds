@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:40:00
+document_datetime: 2025-12-29 11:35:21
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ebixa.html
 document_name: ebixa.html
 version: success
-processing_time: 0.1126827
-conversion_datetime: 2025-12-28 10:20:23.213968
+processing_time: 0.1170579
+conversion_datetime: 2025-12-30 11:28:42.314531
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 memantine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (56.95 KB - PDF)
 
 [View](/en/documents/overview/ebixa-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-358)
+[Other languages (21)](#file-language-dropdown-125)
 
 български (BG) (96.8 KB - PDF)
 
@@ -377,7 +379,7 @@ English (EN) (659.14 KB - PDF)
 
 [View](/en/documents/product-information/ebixa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-699)
+[Other languages (24)](#file-language-dropdown-946)
 
 български (BG) (1.17 MB - PDF)
 
@@ -693,7 +695,7 @@ English (EN) (39.33 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ebixa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-736)
+[Other languages (23)](#file-language-dropdown-119)
 
 български (BG) (107.53 KB - PDF)
 

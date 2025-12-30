@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:05:42
+document_datetime: 2025-12-29 08:03:26
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/viraferonpeg.html
 document_name: viraferonpeg.html
 version: success
-processing_time: 0.1202664
-conversion_datetime: 2025-12-28 04:19:55.315337
+processing_time: 0.1194261
+conversion_datetime: 2025-12-30 21:10:44.33827
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-peginterferon alfa-2b
+peginterferon alfa-2b Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (645.81 KB - PDF)
 
 [View](/en/documents/overview/viraferonpeg-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-476)
+[Other languages (21)](#file-language-dropdown-497)
 
 български (BG) (854.28 KB - PDF)
 
@@ -332,7 +328,7 @@ English (EN) (5.43 MB - PDF)
 
 [View](/en/documents/product-information/viraferonpeg-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-566)
+[Other languages (24)](#file-language-dropdown-771)
 
 български (BG) (9.48 MB - PDF)
 
@@ -648,7 +644,7 @@ English (EN) (655.47 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/viraferonpeg-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-492)
+[Other languages (24)](#file-language-dropdown-961)
 
 български (BG) (835.14 KB - PDF)
 

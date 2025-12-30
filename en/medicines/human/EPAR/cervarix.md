@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:17:02
+document_datetime: 2025-12-29 11:19:28
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cervarix.html
 document_name: cervarix.html
 version: success
-processing_time: 0.152528
-conversion_datetime: 2025-12-24 06:35:19.376302
+processing_time: 0.1481339
+conversion_datetime: 2025-12-30 10:21:12.629265
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 human papillomavirus vaccine [types 16, 18] (recombinant, adjuvanted, adsorbed) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -140,7 +142,7 @@ English (EN) (93.81 KB - PDF)
 
 [View](/en/documents/overview/cervarix-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-862)
+[Other languages (22)](#file-language-dropdown-123)
 
 български (BG) (119.67 KB - PDF)
 
@@ -428,7 +430,7 @@ English (EN) (653.33 KB - PDF)
 
 [View](/en/documents/product-information/cervarix-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-377)
+[Other languages (24)](#file-language-dropdown-321)
 
 български (BG) (812.9 KB - PDF)
 
@@ -744,7 +746,7 @@ English (EN) (24.86 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cervarix-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-434)
+[Other languages (24)](#file-language-dropdown-337)
 
 български (BG) (51.61 KB - PDF)
 

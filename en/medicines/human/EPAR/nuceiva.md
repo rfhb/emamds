@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:14:16
+document_datetime: 2025-12-29 13:58:49
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nuceiva.html
 document_name: nuceiva.html
 version: success
-processing_time: 0.1071467
-conversion_datetime: 2025-12-24 23:57:36.844003
+processing_time: 0.1083941
+conversion_datetime: 2025-12-30 01:44:17.329241
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 botulinum toxin type a Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -102,7 +104,7 @@ English (EN) (76.86 KB - PDF)
 
 [View](/en/documents/overview/nuceiva-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-868)
+[Other languages (22)](#file-language-dropdown-481)
 
 български (BG) (110.23 KB - PDF)
 
@@ -302,7 +304,7 @@ English (EN) (481.75 KB - PDF)
 
 [View](/en/documents/product-information/nuceiva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-641)
+[Other languages (24)](#file-language-dropdown-525)
 
 български (BG) (537.99 KB - PDF)
 
@@ -618,7 +620,7 @@ English (EN) (47.59 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nuceiva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-333)
+[Other languages (24)](#file-language-dropdown-109)
 
 български (BG) (54.15 KB - PDF)
 

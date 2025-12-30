@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:15:58
+document_datetime: 2025-12-29 12:00:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/luminity.html
 document_name: luminity.html
 version: success
-processing_time: 0.1135857
-conversion_datetime: 2025-12-27 08:59:25.735648
+processing_time: 0.1058289
+conversion_datetime: 2025-12-30 11:48:46.16609
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 perflutren Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (75.49 KB - PDF)
 
 [View](/en/documents/overview/luminity-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-565)
+[Other languages (22)](#file-language-dropdown-509)
 
 български (BG) (100.39 KB - PDF)
 
@@ -387,7 +389,7 @@ English (EN) (192.68 KB - PDF)
 
 [View](/en/documents/product-information/luminity-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-882)
+[Other languages (24)](#file-language-dropdown-952)
 
 български (BG) (275.28 KB - PDF)
 
@@ -703,7 +705,7 @@ English (EN) (53.59 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/luminity-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-442)
+[Other languages (24)](#file-language-dropdown-201)
 
 български (BG) (63.74 KB - PDF)
 

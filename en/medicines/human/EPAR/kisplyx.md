@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:18:45
+document_datetime: 2025-12-29 14:35:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kisplyx.html
 document_name: kisplyx.html
 version: success
-processing_time: 0.1133053
-conversion_datetime: 2025-12-25 12:22:17.056871
+processing_time: 0.1196191
+conversion_datetime: 2025-12-30 10:04:51.662242
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lenvatinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (122.03 KB - PDF)
 
 [View](/en/documents/overview/kisplyx-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-589)
+[Other languages (22)](#file-language-dropdown-47)
 
 български (BG) (144.92 KB - PDF)
 
@@ -403,7 +405,7 @@ English (EN) (410.42 KB - PDF)
 
 [View](/en/documents/product-information/kisplyx-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-377)
+[Other languages (24)](#file-language-dropdown-937)
 
 български (BG) (499.7 KB - PDF)
 
@@ -719,7 +721,7 @@ English (EN) (35.87 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kisplyx-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-541)
+[Other languages (24)](#file-language-dropdown-953)
 
 български (BG) (32.15 KB - PDF)
 

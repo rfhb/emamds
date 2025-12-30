@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:58:43
+document_datetime: 2025-12-29 12:49:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lytenava.html
 document_name: lytenava.html
 version: success
-processing_time: 0.0996787
-conversion_datetime: 2025-12-24 19:31:11.110417
+processing_time: 0.0936508
+conversion_datetime: 2025-12-30 11:50:38.970927
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bevacizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (114.12 KB - PDF)
 
 [View](/en/documents/overview/lytenava-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-786)
+[Other languages (22)](#file-language-dropdown-399)
 
 български (BG) (146.87 KB - PDF)
 
@@ -305,7 +307,7 @@ English (EN) (276.66 KB - PDF)
 
 [View](/en/documents/product-information/lytenava-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-121)
+[Other languages (24)](#file-language-dropdown-690)
 
 български (BG) (386.12 KB - PDF)
 
@@ -619,7 +621,7 @@ English (EN) (48.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lytenava-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-624)
+[Other languages (22)](#file-language-dropdown-527)
 
 български (BG) (64.45 KB - PDF)
 

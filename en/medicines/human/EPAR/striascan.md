@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 13:09:35
+document_datetime: 2025-12-29 09:09:11
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/striascan.html
 document_name: striascan.html
 version: success
-processing_time: 0.1219273
-conversion_datetime: 2025-12-24 23:13:06.569334
+processing_time: 0.1252345
+conversion_datetime: 2025-12-30 22:55:23.335007
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-ioflupane (123l)
+ioflupane (123l) Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +112,7 @@ English (EN) (201.61 KB - PDF)
 
 [View](/en/documents/overview/striascan-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-231)
+[Other languages (22)](#file-language-dropdown-77)
 
 български (BG) (127.6 KB - PDF)
 
@@ -316,7 +312,7 @@ English (EN) (459.53 KB - PDF)
 
 [View](/en/documents/product-information/striascan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-719)
+[Other languages (24)](#file-language-dropdown-93)
 
 български (BG) (554.44 KB - PDF)
 
@@ -630,7 +626,7 @@ English (EN) (26.02 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/striascan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-321)
+[Other languages (24)](#file-language-dropdown-535)
 
 български (BG) (28.69 KB - PDF)
 
@@ -925,7 +921,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-44)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

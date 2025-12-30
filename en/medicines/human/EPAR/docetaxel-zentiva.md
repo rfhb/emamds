@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 11:02:00
+document_datetime: 2025-12-29 14:34:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/docetaxel-zentiva.html
 document_name: docetaxel-zentiva.html
 version: success
-processing_time: 0.1121796
-conversion_datetime: 2025-12-28 14:07:27.049321
+processing_time: 0.1123962
+conversion_datetime: 2025-12-30 08:19:16.477101
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-docetaxel
+docetaxel Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -68,7 +64,7 @@ English (EN) (702.42 KB - PDF)
 
 [View](/en/documents/overview/docetaxel-zentiva-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-213)
+[Other languages (22)](#file-language-dropdown-746)
 
 български (BG) (793.38 KB - PDF)
 
@@ -356,7 +352,7 @@ English (EN) (1.45 MB - PDF)
 
 [View](/en/documents/product-information/docetaxel-zentiva-epar-product-information_en.pdf)
 
-[Other languages (14)](#file-language-dropdown-740)
+[Other languages (14)](#file-language-dropdown-463)
 
 български (BG) (7.6 MB - PDF)
 
@@ -552,7 +548,7 @@ English (EN) (589.86 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/docetaxel-zentiva-previously-docetaxel-winthrop-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-409)
+[Other languages (24)](#file-language-dropdown-900)
 
 български (BG) (652.03 KB - PDF)
 

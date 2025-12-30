@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-09 23:24:48
+document_datetime: 2025-12-29 11:14:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/efficib.html
 document_name: efficib.html
 version: success
-processing_time: 0.1390343
-conversion_datetime: 2025-12-24 14:51:06.297669
+processing_time: 0.1388025
+conversion_datetime: 2025-12-30 07:49:29.368963
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sitagliptin / metformin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -127,7 +129,7 @@ English (EN) (81.49 KB - PDF)
 
 [View](/en/documents/overview/efficib-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-820)
+[Other languages (21)](#file-language-dropdown-132)
 
 български (BG) (136.62 KB - PDF)
 
@@ -401,7 +403,7 @@ English (EN) (428.82 KB - PDF)
 
 [View](/en/documents/product-information/efficib-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-468)
+[Other languages (24)](#file-language-dropdown-940)
 
 български (BG) (393.36 KB - PDF)
 
@@ -717,7 +719,7 @@ English (EN) (20.94 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/efficib-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-765)
+[Other languages (24)](#file-language-dropdown-377)
 
 български (BG) (38.84 KB - PDF)
 
@@ -1106,7 +1108,7 @@ English (EN) (133.88 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/efficib-epar-scientific-conclusion_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-226)
+[Other languages (24)](#file-language-dropdown-396)
 
 български (BG) (150.06 KB - PDF)
 

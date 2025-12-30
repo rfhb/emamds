@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:24:58
+document_datetime: 2025-12-29 13:26:02
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vidaza.html
 document_name: vidaza.html
 version: success
-processing_time: 0.1240105
-conversion_datetime: 2025-12-28 18:34:34.605435
+processing_time: 0.1280927
+conversion_datetime: 2025-12-30 22:13:43.459086
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 azacitidine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +123,7 @@ English (EN) (83.5 KB - PDF)
 
 [View](/en/documents/overview/vidaza-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-593)
+[Other languages (22)](#file-language-dropdown-329)
 
 български (BG) (111.03 KB - PDF)
 
@@ -407,7 +409,7 @@ English (EN) (327.8 KB - PDF)
 
 [View](/en/documents/product-information/vidaza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-245)
+[Other languages (24)](#file-language-dropdown-492)
 
 български (BG) (479.55 KB - PDF)
 
@@ -723,7 +725,7 @@ English (EN) (16.75 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vidaza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-562)
+[Other languages (21)](#file-language-dropdown-591)
 
 български (BG) (79.36 KB - PDF)
 

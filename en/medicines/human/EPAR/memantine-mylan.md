@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:52:51
+document_datetime: 2025-12-29 12:12:26
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/memantine-mylan.html
 document_name: memantine-mylan.html
 version: success
-processing_time: 0.1278097
-conversion_datetime: 2025-12-28 11:41:53.180216
+processing_time: 0.1291176
+conversion_datetime: 2025-12-30 20:08:45.050889
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 memantine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (74.83 KB - PDF)
 
 [View](/en/documents/overview/memantine-mylan-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-628)
+[Other languages (21)](#file-language-dropdown-161)
 
 български (BG) (126.48 KB - PDF)
 
@@ -374,7 +376,7 @@ English (EN) (281.67 KB - PDF)
 
 [View](/en/documents/product-information/memantine-mylan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-344)
+[Other languages (24)](#file-language-dropdown-836)
 
 български (BG) (531.8 KB - PDF)
 
@@ -690,7 +692,7 @@ English (EN) (17.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/memantine-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-578)
+[Other languages (24)](#file-language-dropdown-82)
 
 български (BG) (54.1 KB - PDF)
 
@@ -1077,7 +1079,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

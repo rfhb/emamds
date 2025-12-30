@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:06:04
+document_datetime: 2025-12-29 13:47:30
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imuldosa.html
 document_name: imuldosa.html
 version: success
-processing_time: 0.1107573
-conversion_datetime: 2025-12-27 09:41:28.054281
+processing_time: 0.1084436
+conversion_datetime: 2025-12-30 03:07:50.946938
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ustekinumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (106.93 KB - PDF)
 
 [View](/en/documents/overview/imuldosa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-806)
+[Other languages (22)](#file-language-dropdown-796)
 
 български (BG) (127.07 KB - PDF)
 
@@ -401,7 +403,7 @@ English (EN) (1.31 MB - PDF)
 
 [View](/en/documents/product-information/imuldosa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-592)
+[Other languages (24)](#file-language-dropdown-545)
 
 български (BG) (1.19 MB - PDF)
 
@@ -715,7 +717,7 @@ English (EN) (155.34 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imuldosa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-171)
+[Other languages (24)](#file-language-dropdown-461)
 
 български (BG) (161.28 KB - PDF)
 

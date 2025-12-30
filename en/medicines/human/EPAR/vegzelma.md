@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:02:57
+document_datetime: 2025-12-29 09:23:42
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vegzelma.html
 document_name: vegzelma.html
 version: success
-processing_time: 0.1267429
-conversion_datetime: 2025-12-28 00:34:24.735857
+processing_time: 0.1208087
+conversion_datetime: 2025-12-30 12:29:31.324795
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bevacizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (143.18 KB - PDF)
 
 [View](/en/documents/overview/vegzelma-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-773)
+[Other languages (22)](#file-language-dropdown-477)
 
 български (BG) (175.94 KB - PDF)
 
@@ -313,7 +315,7 @@ English (EN) (696.73 KB - PDF)
 
 [View](/en/documents/product-information/vegzelma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-628)
+[Other languages (24)](#file-language-dropdown-350)
 
 български (BG) (919.08 KB - PDF)
 
@@ -629,7 +631,7 @@ English (EN) (43.83 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vegzelma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-642)
+[Other languages (24)](#file-language-dropdown-224)
 
 български (BG) (51.24 KB - PDF)
 
@@ -1050,7 +1052,7 @@ English (EN) (223.77 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/vegzelma-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-410)
+[Other languages (24)](#file-language-dropdown-456)
 
 български (BG) (261.14 KB - DOCX)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:31:56
+document_datetime: 2025-12-29 08:42:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ilaris.html
 document_name: ilaris.html
 version: success
-processing_time: 0.1530096
-conversion_datetime: 2025-12-25 06:42:50.789345
+processing_time: 0.1586833
+conversion_datetime: 2025-12-30 22:20:05.29407
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 canakinumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -132,7 +134,7 @@ English (EN) (85.94 KB - PDF)
 
 [View](/en/documents/overview/ilaris-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-380)
+[Other languages (22)](#file-language-dropdown-474)
 
 български (BG) (115.5 KB - PDF)
 
@@ -418,7 +420,7 @@ English (EN) (1.26 MB - PDF)
 
 [View](/en/documents/product-information/ilaris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-573)
+[Other languages (24)](#file-language-dropdown-812)
 
 български (BG) (1.36 MB - PDF)
 
@@ -734,7 +736,7 @@ English (EN) (48.49 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ilaris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-879)
+[Other languages (24)](#file-language-dropdown-147)
 
 български (BG) (65.69 KB - PDF)
 
@@ -1034,7 +1036,7 @@ English (EN) (32.38 KB - PDF)
 
 [View](/en/documents/conditions-member-states/ilaris-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-610)
+[Other languages (21)](#file-language-dropdown-70)
 
 български (BG) (116.95 KB - PDF)
 

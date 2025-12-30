@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:46
+document_datetime: 2025-12-29 07:28:38
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/repaglinide-sun.html
 document_name: repaglinide-sun.html
 version: success
-processing_time: 0.0872568
-conversion_datetime: 2025-12-24 22:45:35.060596
+processing_time: 0.0873278
+conversion_datetime: 2025-12-30 11:28:23.777715
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-repaglinide
+repaglinide Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -101,7 +97,7 @@ English (EN) (51.48 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-repaglinide-sun-repaglinide_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-318)
+[Other languages (21)](#file-language-dropdown-493)
 
 български (BG) (148.47 KB - PDF)
 
@@ -411,7 +407,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-44)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

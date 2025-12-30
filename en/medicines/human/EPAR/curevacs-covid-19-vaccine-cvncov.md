@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:00:59
+document_datetime: 2025-12-29 15:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/curevacs-covid-19-vaccine-cvncov.html
 document_name: curevacs-covid-19-vaccine-cvncov.html
 version: success
-processing_time: 0.0382549
-conversion_datetime: 2025-12-24 16:18:15.459746
+processing_time: 0.0402898
+conversion_datetime: 2025-12-30 10:22:10.824154
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine has been withdrawn from evaluation under rolling review
 
-COVID-19 mRNA vaccine
+COVID-19 mRNA vaccine Medicine Human Withdrawn from rolling review
 
-Medicine
-
-Human
-
-Withdrawn from rolling review
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

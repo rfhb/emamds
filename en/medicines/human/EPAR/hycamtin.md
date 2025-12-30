@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:36:35
+document_datetime: 2025-12-29 11:51:21
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hycamtin.html
 document_name: hycamtin.html
 version: success
-processing_time: 0.1094264
-conversion_datetime: 2025-12-27 15:30:02.323001
+processing_time: 0.1144028
+conversion_datetime: 2025-12-30 02:58:38.163196
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 topotecan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -127,7 +129,7 @@ English (EN) (80.56 KB - PDF)
 
 [View](/en/documents/overview/hycamtin-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-485)
+[Other languages (22)](#file-language-dropdown-699)
 
 български (BG) (111.72 KB - PDF)
 
@@ -413,7 +415,7 @@ English (EN) (777.42 KB - PDF)
 
 [View](/en/documents/product-information/hycamtin-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-932)
+[Other languages (24)](#file-language-dropdown-999)
 
 български (BG) (961.63 KB - PDF)
 
@@ -729,7 +731,7 @@ English (EN) (150.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/hycamtin-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-641)
+[Other languages (24)](#file-language-dropdown-548)
 
 български (BG) (158.7 KB - PDF)
 

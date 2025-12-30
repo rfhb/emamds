@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:05:06
+document_datetime: 2025-12-29 19:10:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/opulis.html
 document_name: opulis.html
 version: success
-processing_time: 0.0428715
-conversion_datetime: 2025-12-25 13:08:51.357593
+processing_time: 0.0374648
+conversion_datetime: 2025-12-30 22:09:11.863461
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-desloratadine
+desloratadine Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

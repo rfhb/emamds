@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:27:30
+document_datetime: 2025-12-29 07:24:59
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/idflu.html
 document_name: idflu.html
 version: success
-processing_time: 0.1048595
-conversion_datetime: 2025-12-24 17:26:52.902908
+processing_time: 0.1048231
+conversion_datetime: 2025-12-30 01:33:22.117253
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 influenza vaccine (split virion, inactivated) Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -60,7 +62,7 @@ English (EN) (547.44 KB - PDF)
 
 [View](/en/documents/overview/idflu-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-683)
+[Other languages (22)](#file-language-dropdown-274)
 
 български (BG) (621.95 KB - PDF)
 
@@ -338,7 +340,7 @@ English (EN) (790.56 KB - PDF)
 
 [View](/en/documents/product-information/idflu-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-242)
+[Other languages (24)](#file-language-dropdown-801)
 
 български (BG) (1.37 MB - PDF)
 
@@ -654,7 +656,7 @@ English (EN) (462.27 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/idflu-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-667)
+[Other languages (24)](#file-language-dropdown-828)
 
 български (BG) (571.29 KB - PDF)
 

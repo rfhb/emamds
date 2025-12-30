@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:27:30
+document_datetime: 2025-12-29 13:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/glidipion.html
 document_name: glidipion.html
 version: success
-processing_time: 0.1231515
-conversion_datetime: 2025-12-26 18:57:08.662873
+processing_time: 0.1198788
+conversion_datetime: 2025-12-30 01:33:30.86068
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 pioglitazone Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -60,7 +62,7 @@ English (EN) (636.27 KB - PDF)
 
 [View](/en/documents/overview/glidipion-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-375)
+[Other languages (21)](#file-language-dropdown-848)
 
 български (BG) (806.52 KB - PDF)
 
@@ -336,7 +338,7 @@ English (EN) (1 MB - PDF)
 
 [View](/en/documents/product-information/glidipion-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-314)
+[Other languages (24)](#file-language-dropdown-853)
 
 български (BG) (2.09 MB - PDF)
 
@@ -652,7 +654,7 @@ English (EN) (606.29 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/glidipion-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-290)
+[Other languages (22)](#file-language-dropdown-71)
 
 български (BG) (631.49 KB - PDF)
 
@@ -928,7 +930,7 @@ English (EN) (584.22 KB - PDF)
 
 [View](/en/documents/conditions-member-states/pioglitazone-actavis-group-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-330)
+[Other languages (23)](#file-language-dropdown-935)
 
 български (BG) (664.7 KB - PDF)
 

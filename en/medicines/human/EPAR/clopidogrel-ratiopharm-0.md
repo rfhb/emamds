@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:06:52
+document_datetime: 2025-12-29 08:30:16
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-ratiopharm-0.html
 document_name: clopidogrel-ratiopharm-0.html
 version: success
-processing_time: 0.0891655
-conversion_datetime: 2025-12-26 17:11:55.00573
+processing_time: 0.0849084
+conversion_datetime: 2025-12-30 22:08:54.063462
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-clopidogrel
+clopidogrel Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -69,7 +65,7 @@ English (EN) (206.29 KB - PDF)
 
 [View](/en/documents/overview/clopidogrel-ratiopharm-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-429)
+[Other languages (21)](#file-language-dropdown-104)
 
 български (BG) (288.94 KB - PDF)
 
@@ -361,7 +357,7 @@ English (EN) (169.25 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/clopidogrel-ratiopharm-epar-all-authorised-presentations_en.pdf-0)
 
-[Other languages (21)](#file-language-dropdown-359)
+[Other languages (21)](#file-language-dropdown-762)
 
 български (BG) (212.12 KB - PDF)
 

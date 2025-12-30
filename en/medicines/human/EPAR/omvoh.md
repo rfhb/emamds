@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:18:25
+document_datetime: 2025-12-29 12:03:59
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/omvoh.html
 document_name: omvoh.html
 version: success
-processing_time: 0.3322419
-conversion_datetime: 2025-12-24 22:31:43.748863
+processing_time: 0.1324248
+conversion_datetime: 2025-12-30 09:14:02.298298
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 mirikizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -125,7 +127,7 @@ English (EN) (148.04 KB - PDF)
 
 [View](/en/documents/overview/omvoh-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-535)
+[Other languages (22)](#file-language-dropdown-639)
 
 български (BG) (171.45 KB - PDF)
 
@@ -413,7 +415,7 @@ English (EN) (2.2 MB - PDF)
 
 [View](/en/documents/product-information/omvoh-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-261)
+[Other languages (24)](#file-language-dropdown-620)
 
 български (BG) (2.36 MB - PDF)
 
@@ -729,7 +731,7 @@ English (EN) (84.91 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/omvoh-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-678)
+[Other languages (24)](#file-language-dropdown-284)
 
 български (BG) (97.85 KB - PDF)
 
@@ -1155,7 +1157,7 @@ English (EN) (2.47 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/omvoh-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-77)
+[Other languages (24)](#file-language-dropdown-195)
 
 български (BG) (2.28 MB - DOCX)
 

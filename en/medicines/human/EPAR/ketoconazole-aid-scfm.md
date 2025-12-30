@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:51:19
+document_datetime: 2025-12-29 08:37:21
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ketoconazole-aid-scfm.html
 document_name: ketoconazole-aid-scfm.html
 version: success
-processing_time: 0.0625566
-conversion_datetime: 2025-12-27 18:26:44.44354
+processing_time: 0.0670454
+conversion_datetime: 2025-12-30 08:58:59.720443
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 ketoconazole Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -94,7 +96,7 @@ English (EN) (73.16 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-ketoconazole-aid-scfm-ketoconazole_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-668)
+[Other languages (22)](#file-language-dropdown-794)
 
 български (BG) (132.98 KB - PDF)
 

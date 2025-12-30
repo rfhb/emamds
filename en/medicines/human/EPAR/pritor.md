@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:29:59
+document_datetime: 2025-12-29 14:32:55
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pritor.html
 document_name: pritor.html
 version: success
-processing_time: 0.1368508
-conversion_datetime: 2025-12-28 12:27:41.550458
+processing_time: 0.1368698
+conversion_datetime: 2025-12-30 09:39:10.603023
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 telmisartan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (84.75 KB - PDF)
 
 [View](/en/documents/overview/pritor-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-816)
+[Other languages (22)](#file-language-dropdown-117)
 
 български (BG) (116.15 KB - PDF)
 
@@ -394,7 +396,7 @@ English (EN) (580.81 KB - PDF)
 
 [View](/en/documents/product-information/pritor-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-284)
+[Other languages (24)](#file-language-dropdown-372)
 
 български (BG) (699.61 KB - PDF)
 
@@ -710,7 +712,7 @@ English (EN) (17 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pritor-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-804)
+[Other languages (24)](#file-language-dropdown-100)
 
 български (BG) (101.7 KB - PDF)
 
@@ -1067,7 +1069,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/pritor-h-c-210-a31-0106-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendat_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-970)
+[Other languages (22)](#file-language-dropdown-353)
 
 български (BG) (87.49 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:04:19
+document_datetime: 2025-12-29 18:58:44
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zafiride.html
 document_name: zafiride.html
 version: success
-processing_time: 0.1597893
-conversion_datetime: 2025-12-28 20:09:02.835713
+processing_time: 0.0700713
+conversion_datetime: 2025-12-30 20:18:12.308391
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +102,7 @@ English (EN) (74.17 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-zafiride-ngr-human-tumour-necrosis-factor-alpha_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-732)
+[Other languages (22)](#file-language-dropdown-820)
 
 български (BG) (99.26 KB - PDF)
 

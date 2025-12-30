@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:08:57
+document_datetime: 2025-12-29 11:54:31
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xeljanz.html
 document_name: xeljanz.html
 version: success
-processing_time: 0.2050338
-conversion_datetime: 2025-12-24 15:24:50.831128
+processing_time: 0.1978088
+conversion_datetime: 2025-12-30 21:15:13.865684
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tofacitinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -154,7 +156,7 @@ English (EN) (143.59 KB - PDF)
 
 [View](/en/documents/overview/xeljanz-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-912)
+[Other languages (22)](#file-language-dropdown-311)
 
 български (BG) (175.17 KB - PDF)
 
@@ -442,7 +444,7 @@ English (EN) (1.66 MB - PDF)
 
 [View](/en/documents/product-information/xeljanz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-674)
+[Other languages (24)](#file-language-dropdown-141)
 
 български (BG) (1.41 MB - PDF)
 
@@ -758,7 +760,7 @@ English (EN) (48.53 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xeljanz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-875)
+[Other languages (24)](#file-language-dropdown-712)
 
 български (BG) (36.9 KB - PDF)
 
@@ -1050,7 +1052,7 @@ svenska (SV) (31.13 KB - PDF)
 
 ## Product details
 
-Name of medicine Xeljanz Active substance tofacitinib International non-proprietary name (INN) or common name tofacitinib Therapeutic area (MeSH) Arthritis, Rheumatoid Anatomical therapeutic chemical (ATC) code L04AA29
+Name of medicine Xeljanz Active substance tofacitinib International non-proprietary name (INN) or common name tofacitinib Therapeutic area (MeSH) Arthritis, Rheumatoid Anatomical therapeutic chemical (ATC) code L04AF01
 
 ### Pharmacotherapeutic group
 
@@ -1058,17 +1060,17 @@ Immunosuppressants
 
 ### Therapeutic indication
 
-Rheumatoid arthritis
+**Rheumatoid arthritis** Tofacitinib in combination with methotrexate (MTX) is indicated for the treatment of moderate to severe active rheumatoid arthritis (RA) in adult patients who have responded inadequately to, or who are intolerant to one or more disease-modifying antirheumatic drugs (DMARDs) (see section 5.1). Tofacitinib can be given as monotherapy in case of intolerance to MTX or when treatment with MTX is inappropriate (see sections 4.4 and 4.5).
 
-Psoriatic arthritis Tofacitinib in combination with MTX is indicated for the treatment of active psoriatic arthritis (PsA) in adult patients who have had an inadequate response or who have been intolerant to a prior disease modifying antirheumatic drug (DMARD) therapy (see section 5.1).
+**Psoriatic arthritis** Tofacitinib in combination with MTX is indicated for the treatment of active psoriatic arthritis (PsA) in adult patients who have had an inadequate response or who have been intolerant to a prior disease modifying antirheumatic drug (DMARD) therapy (see section 5.1).
 
-Ulcerative colitis Tofacitinib is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis (UC) who have had an inadequate response, lost response, or were intolerant to either conventional therapy or a biologic agent (see section 5.1).
+**Ulcerative colitis** Tofacitinib is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis (UC) who have had an inadequate response, lost response, or were intolerant to either conventional therapy or a biologic agent (see section 5.1).
 
 Tofacitinib is indicated for the treatment of active polyarticular juvenile idiopathic arthritis (rheumatoid factor positive [RF+] or negative [RF-] polyarthritis and extended oligoarthritis), and juvenile psoriatic arthritis (PsA) in patients 2 years of age and older, who have responded inadequately to previous therapy with disease modifying antirheumatic drugs (DMARDs).
 
 Tofacitinib can be given in combination with methotrexate (MTX) or as monotherapy in case of intolerance to MTX or where continued treatment with MTX is inappropriate.
 
-Ankylosing spondylitis Tofacitinib is indicated for the treatment of adult patients with active ankylosing spondylitis (AS) who have responded inadequately to conventional therapy.
+**Ankylosing spondylitis** Tofacitinib is indicated for the treatment of adult patients with active ankylosing spondylitis (AS) who have responded inadequately to conventional therapy.
 
 ## Authorisation details
 
@@ -1076,7 +1078,7 @@ EMA product number EMEA/H/C/004214 Marketing authorisation holder
 
 Pfizer Europe MA EEIG
 
-Boulevard de la Plaine 17 1050 Bruxelles Belgium
+Boulevard de la Plaine 17
 
 Opinion adopted 24/07/2013 Marketing authorisation issued 22/03/2017 Revision 35
 
@@ -1146,7 +1148,7 @@ English (EN) (139.86 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/xeljanz-epar-scientific-conclusions-article-20-referral-annex-iv_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-587)
+[Other languages (24)](#file-language-dropdown-478)
 
 български (BG) (203.66 KB - PDF)
 
@@ -1444,7 +1446,7 @@ English (EN) (51.82 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/xeljanz-h-20-1485-epar-scientific-conclusions-pass-article-20_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-593)
+[Other languages (22)](#file-language-dropdown-98)
 
 български (BG) (114.73 KB - PDF)
 
@@ -1632,7 +1634,7 @@ English (EN) (29.44 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/xeljanz-h-20-1485-epar-scientific-conclusions-article-20_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-494)
+[Other languages (22)](#file-language-dropdown-981)
 
 български (BG) (82.52 KB - PDF)
 
@@ -1926,7 +1928,7 @@ English (EN) (899.38 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/xeljanz-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-307)
+[Other languages (24)](#file-language-dropdown-722)
 
 български (BG) (963.83 KB - DOCX)
 
@@ -2129,15 +2131,15 @@ svenska (SV) (1008.36 KB - DOCX)
 - [Xeljanz - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/xeljanz-0)
 - [Janus kinase inhibitors (JAKi) - referral](/en/medicines/human/referrals/janus-kinase-inhibitors-jaki)
 - [Cibinqo / Jyseleca / Olumiant / Rinvoq / Xeljanz - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/cibinqo-jyseleca-olumiant-rinvoq-xeljanz)
+- [Risk of Safety Events Among Patients with UC and PsA Treated with Tofacitinib and Other Advanced Treatments in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/105306)
+- [Dissemination of additional risk minimisation measures for patients and healthcare professionals in EU/EEA countries - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000524)
 - [A Longitudinal, Retrospective, Multi-centre Observational Study to Evaluate Effectiveness, Persistence, Treatment Patterns and Safety of Australian Patients Receiving Early Access to Tofacitinib - post-authorisation study](https://catalogues.ema.europa.eu/study/47773)
 - [A multicenter evaluation of the treatment persistence of advanced therapies (Biological disease-modifying agents and Targeted synthetic Disease Modifying Anti-Rheumatic Drugs) in the treatment of rheumatoid arthritis (RA): A Real World Evidence (RWE) study from India - post-authorisation study](https://catalogues.ema.europa.eu/study/107874)
-- [Dissemination of additional risk minimisation measures for patients and healthcare professionals in EU/EEA countries - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000524)
 - [Uveitis in chronic inflammatory conditions and ulcerative colitis-related pyoderma gangrenosum and axial spondylarthritis: an observational study of patients receiving advanced therapies in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/199002)
 - [Real-world comparative effectiveness of tofacitinib, tumour necrosis factor inhibitors, and interleukin 17 inhibitors among patients with axial spondylarthritis and psoriatic arthritis - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000226)
 - [A Post-Authorisation Safety Study of the Utilisation and Prescribing Patterns of Xeljanz® (tofacitinib) Using an Administrative Healthcare Database in France - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000247)
 - [An Active Safety Surveillance Study to Estimate Incidence Rates of Safety Events of Interest among Patients Treated with Tofacitinib for Polyarticular Course Juvenile Idiopathic Arthritis (pcJIA) within the Childhood Arthritis and Rheumatology Research Alliance (CARRA) Registry in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/103627)
 - [A network meta-analysis of real-world studies comparing tofacitinib with other advanced therapies in the treatment of moderate-to-severe ulcerative colitis - post-authorisation study](https://catalogues.ema.europa.eu/study/199008)
-- [Risk of Safety Events Among Patients with UC and PsA Treated with Tofacitinib and Other Advanced Treatments in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/105306)
 - [An Active Surveillance, Post-Authorization Study to Assess Tofacitinib Utilization Patterns and to Characterize the Safety of Tofacitinib Use in Patients with Moderately to Severely Active Ulcerative Colitis in the Real-World Setting Using Data from a US Administrative Healthcare Claims Database - post-authorisation study](https://catalogues.ema.europa.eu/study/46136)
 - [Non-Interventional Study to Review the Changes of Depression after First-Year of Tofacitinib Treatment in Rheumatoid Arthritis (XELJANZ®) - post-authorisation study](https://catalogues.ema.europa.eu/study/48626)
 - [Post-Authorisation Active Safety Surveillance Program Among Patients Treated With Tofacitinib for Polyarticular Juvenile Idiopathic Arthritis (pJIA) and Juvenile Psoriatic Arthritis (PsA) Using Nationwide Swedish Healthcare Registers - post-authorisation study](https://catalogues.ema.europa.eu/study/107200)

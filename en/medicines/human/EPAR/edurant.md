@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:01:29
+document_datetime: 2025-12-29 13:32:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/edurant.html
 document_name: edurant.html
 version: success
-processing_time: 0.1197605
-conversion_datetime: 2025-12-26 19:29:05.236551
+processing_time: 0.1193797
+conversion_datetime: 2025-12-30 08:50:17.265677
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 rilpivirine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -133,7 +135,7 @@ English (EN) (137.07 KB - PDF)
 
 [View](/en/documents/overview/edurant-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-745)
+[Other languages (22)](#file-language-dropdown-122)
 
 български (BG) (163.84 KB - PDF)
 
@@ -421,7 +423,7 @@ English (EN) (561.28 KB - PDF)
 
 [View](/en/documents/product-information/edurant-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-9)
+[Other languages (24)](#file-language-dropdown-596)
 
 български (BG) (573 KB - PDF)
 
@@ -737,7 +739,7 @@ English (EN) (24.05 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/edurant-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-184)
+[Other languages (24)](#file-language-dropdown-516)
 
 български (BG) (28.02 KB - PDF)
 

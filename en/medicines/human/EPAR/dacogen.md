@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:29:29
+document_datetime: 2025-12-29 09:27:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dacogen.html
 document_name: dacogen.html
 version: success
-processing_time: 0.1176241
-conversion_datetime: 2025-12-25 06:46:32.969529
+processing_time: 0.3493317
+conversion_datetime: 2025-12-30 03:20:13.578315
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 decitabine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (77.21 KB - PDF)
 
 [View](/en/documents/overview/dacogen-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-665)
+[Other languages (22)](#file-language-dropdown-234)
 
 български (BG) (103 KB - PDF)
 
@@ -403,7 +405,7 @@ English (EN) (251.14 KB - PDF)
 
 [View](/en/documents/product-information/dacogen-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-218)
+[Other languages (24)](#file-language-dropdown-616)
 
 български (BG) (360.09 KB - PDF)
 
@@ -719,7 +721,7 @@ English (EN) (24.96 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/dacogen-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-713)
+[Other languages (24)](#file-language-dropdown-849)
 
 български (BG) (27.77 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:46:27
+document_datetime: 2025-12-29 13:19:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vokanamet.html
 document_name: vokanamet.html
 version: success
-processing_time: 0.1781282
-conversion_datetime: 2025-12-26 18:40:42.627184
+processing_time: 0.1631185
+conversion_datetime: 2025-12-30 08:21:52.884192
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 canagliflozin / metformin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -132,7 +134,7 @@ English (EN) (84.72 KB - PDF)
 
 [View](/en/documents/overview/vokanamet-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-394)
+[Other languages (22)](#file-language-dropdown-407)
 
 български (BG) (114.38 KB - PDF)
 
@@ -420,7 +422,7 @@ English (EN) (495.91 KB - PDF)
 
 [View](/en/documents/product-information/vokanamet-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-992)
+[Other languages (24)](#file-language-dropdown-78)
 
 български (BG) (568.15 KB - PDF)
 
@@ -736,7 +738,7 @@ English (EN) (29.75 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vokanamet-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-938)
+[Other languages (24)](#file-language-dropdown-652)
 
 български (BG) (30.75 KB - PDF)
 
@@ -1124,7 +1126,7 @@ English (EN) (41.36 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/vokanamet-h-a20-1442-c-2656-0014-epar-scientific-conclusion-article-20_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-814)
+[Other languages (24)](#file-language-dropdown-481)
 
 български (BG) (84.18 KB - PDF)
 
@@ -1438,7 +1440,7 @@ English (EN) (39.25 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/vokanamet-h-c-2656-31-1432-epar-scientific-conclusion_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-589)
+[Other languages (24)](#file-language-dropdown-102)
 
 български (BG) (74.64 KB - PDF)
 
@@ -1752,7 +1754,7 @@ English (EN) (44.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/vokanamet-h-c-2656-a20-1419-0007-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-384)
+[Other languages (22)](#file-language-dropdown-286)
 
 български (BG) (105.04 KB - PDF)
 

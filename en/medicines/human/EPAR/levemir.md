@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:40:14
+document_datetime: 2025-12-29 07:08:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/levemir.html
 document_name: levemir.html
 version: success
-processing_time: 0.1179588
-conversion_datetime: 2025-12-27 20:03:24.539064
+processing_time: 0.1191219
+conversion_datetime: 2025-12-30 08:01:17.500065
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin detemir Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +124,7 @@ English (EN) (86.75 KB - PDF)
 
 [View](/en/documents/overview/levemir-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-761)
+[Other languages (22)](#file-language-dropdown-167)
 
 български (BG) (113.92 KB - PDF)
 
@@ -400,7 +402,7 @@ English (EN) (1.47 MB - PDF)
 
 [View](/en/documents/product-information/levemir-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-316)
+[Other languages (24)](#file-language-dropdown-695)
 
 български (BG) (1.74 MB - PDF)
 
@@ -716,7 +718,7 @@ English (EN) (30.48 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/levemir-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-666)
+[Other languages (23)](#file-language-dropdown-675)
 
 български (BG) (93.34 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:11:10
+document_datetime: 2025-12-29 16:16:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vibativ.html
 document_name: vibativ.html
 version: success
-processing_time: 0.070385
-conversion_datetime: 2025-12-28 12:10:50.235421
+processing_time: 0.0426841
+conversion_datetime: 2025-12-30 19:51:09.941717
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-telavancin
+telavancin Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +107,7 @@ English (EN) (42.73 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-application-vibativ_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-166)
+[Other languages (21)](#file-language-dropdown-649)
 
 български (BG) (172.54 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:51:54
+document_datetime: 2025-12-29 11:34:14
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/taltz.html
 document_name: taltz.html
 version: success
-processing_time: 0.1258736
-conversion_datetime: 2025-12-28 04:19:27.306345
+processing_time: 0.1262867
+conversion_datetime: 2025-12-30 02:42:31.616083
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ixekizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -155,7 +157,7 @@ English (EN) (110.04 KB - PDF)
 
 [View](/en/documents/overview/taltz-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-697)
+[Other languages (22)](#file-language-dropdown-92)
 
 български (BG) (137.64 KB - PDF)
 
@@ -443,7 +445,7 @@ English (EN) (2.93 MB - PDF)
 
 [View](/en/documents/product-information/taltz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-145)
+[Other languages (24)](#file-language-dropdown-947)
 
 български (BG) (3.35 MB - PDF)
 
@@ -759,7 +761,7 @@ English (EN) (65.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/taltz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-697)
+[Other languages (24)](#file-language-dropdown-941)
 
 български (BG) (62.7 KB - PDF)
 

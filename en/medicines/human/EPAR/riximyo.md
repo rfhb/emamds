@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:05:03
+document_datetime: 2025-12-29 07:23:07
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/riximyo.html
 document_name: riximyo.html
 version: success
-processing_time: 0.1183796
-conversion_datetime: 2025-12-27 09:08:36.126266
+processing_time: 0.1140894
+conversion_datetime: 2025-12-30 09:33:02.533937
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 rituximab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (147.22 KB - PDF)
 
 [View](/en/documents/overview/riximyo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-811)
+[Other languages (22)](#file-language-dropdown-411)
 
 български (BG) (166.41 KB - PDF)
 
@@ -405,7 +407,7 @@ English (EN) (582.13 KB - PDF)
 
 [View](/en/documents/product-information/riximyo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-430)
+[Other languages (24)](#file-language-dropdown-64)
 
 български (BG) (590.27 KB - PDF)
 
@@ -721,7 +723,7 @@ English (EN) (14.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/riximyo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-591)
+[Other languages (24)](#file-language-dropdown-128)
 
 български (BG) (35.72 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:46:49
+document_datetime: 2025-12-29 14:33:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sustiva.html
 document_name: sustiva.html
 version: success
-processing_time: 0.1057273
-conversion_datetime: 2025-12-26 17:19:42.311195
+processing_time: 0.1126188
+conversion_datetime: 2025-12-30 09:52:53.915292
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-efavirenz
+efavirenz Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (182.37 KB - PDF)
 
 [View](/en/documents/overview/sustiva-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-210)
+[Other languages (22)](#file-language-dropdown-131)
 
 български (BG) (258.97 KB - PDF)
 
@@ -345,7 +341,7 @@ English (EN) (5.86 MB - PDF)
 
 [View](/en/documents/product-information/sustiva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-807)
+[Other languages (24)](#file-language-dropdown-959)
 
 български (BG) (17.63 MB - PDF)
 
@@ -661,7 +657,7 @@ English (EN) (82.79 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sustiva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-778)
+[Other languages (24)](#file-language-dropdown-143)
 
 български (BG) (106.92 KB - PDF)
 

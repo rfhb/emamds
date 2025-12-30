@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:10:10
+document_datetime: 2025-12-29 13:29:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ogluo.html
 document_name: ogluo.html
 version: success
-processing_time: 0.1124412
-conversion_datetime: 2025-12-25 06:47:37.39099
+processing_time: 0.1175046
+conversion_datetime: 2025-12-30 08:42:07.051139
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 glucagon Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +116,7 @@ English (EN) (131.91 KB - PDF)
 
 [View](/en/documents/overview/ogluo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-821)
+[Other languages (22)](#file-language-dropdown-72)
 
 български (BG) (157.12 KB - PDF)
 
@@ -314,7 +316,7 @@ English (EN) (1.64 MB - PDF)
 
 [View](/en/documents/product-information/ogluo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-579)
+[Other languages (24)](#file-language-dropdown-358)
 
 български (BG) (1.75 MB - PDF)
 
@@ -628,7 +630,7 @@ English (EN) (58.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ogluo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-232)
+[Other languages (24)](#file-language-dropdown-664)
 
 български (BG) (60.37 KB - PDF)
 
@@ -913,7 +915,7 @@ English (EN) (902.45 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/ogluo-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-395)
+[Other languages (24)](#file-language-dropdown-533)
 
 български (BG) (970.07 KB - DOCX)
 

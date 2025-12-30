@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:55
+document_datetime: 2025-12-29 11:30:43
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eliquis.html
 document_name: eliquis.html
 version: success
-processing_time: 0.1501343
-conversion_datetime: 2025-12-28 19:23:57.536304
+processing_time: 0.1483999
+conversion_datetime: 2025-12-30 20:02:38.320884
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 apixaban Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +122,7 @@ English (EN) (81.54 KB - PDF)
 
 [View](/en/documents/overview/eliquis-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-97)
+[Other languages (22)](#file-language-dropdown-967)
 
 български (BG) (126.38 KB - PDF)
 
@@ -408,7 +410,7 @@ English (EN) (2.06 MB - PDF)
 
 [View](/en/documents/product-information/eliquis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-77)
+[Other languages (24)](#file-language-dropdown-122)
 
 български (BG) (1.76 MB - PDF)
 
@@ -724,7 +726,7 @@ English (EN) (57.96 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/eliquis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-639)
+[Other languages (24)](#file-language-dropdown-751)
 
 български (BG) (33.59 KB - PDF)
 
@@ -1315,7 +1317,7 @@ English (EN) (924.22 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/eliquis-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-95)
+[Other languages (24)](#file-language-dropdown-267)
 
 български (BG) (1.1 MB - DOCX)
 
@@ -1515,6 +1517,10 @@ No change is needed in use of direct oral anticoagulants following EMA-funded st
 
 Reference Number: EMA/94424/2020
 
+Summary:
+
+No change to the conditions of use of the direct oral anticoagulants Eliquis (apixaban), Pradaxa (dabigatran etexilate) and Xarelto (rivaroxaban) is needed following a review of the results of a European study of real-world data for these medicines.
+
 English (EN) (160.71 KB - PDF)
 
 **First published:** 27/03/2020
@@ -1529,6 +1535,7 @@ English (EN) (160.71 KB - PDF)
 
 - [EMEA-000183-PIP01-08-M08 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000183-pip01-08-m08)
 - [EMEA-000183-PIP02-12-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000183-pip02-12-m05)
+- [Treatment Patterns of newly initiated oral anticoagulants on Japanese non-vascular atrial fibrillation patients using a Japanese claims database - post-authorisation study](https://catalogues.ema.europa.eu/study/16393)
 - [Evaluating the Effectiveness of Eliquis® Additional Risk Minimization Measures in Kingdom of Saudi Arabia. - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000270)
 - [Safety and Effectiveness of Rivaroxaban and Apixaban compared to warfarin in non-valvular atrial fibrillation patients in the routine clinical practice in the UK (SiERRA UK) - post-authorisation study](https://catalogues.ema.europa.eu/study/43877)
 - [Venous Thromboembolism Treatment (VOLT) - post-authorisation study](https://catalogues.ema.europa.eu/study/47198)
@@ -1547,7 +1554,6 @@ English (EN) (160.71 KB - PDF)
 - [Outcomes among venous thromboembolism patients who were admitted into the emergency department and treated with apixaban or warfarin in the U.S. (VTE CER in Premier ED) - post-authorisation study](https://catalogues.ema.europa.eu/study/34961)
 - [Oral Anticoagulant Use in Patients with Non Valvular Atrial Fibrillation: Analysis of Electronic Medical Record Data - post-authorisation study](https://catalogues.ema.europa.eu/study/17685)
 - [Voluntary PASS non interventional study: Retrospective Observational Study of VKA and Novel Oral Anticoagulants in Patients with Non-valvular Atrial Fibrillation: - post-authorisation study](https://catalogues.ema.europa.eu/study/17533)
-- [Treatment Patterns of newly initiated oral anticoagulants on Japanese non-vascular atrial fibrillation patients using a Japanese claims database - post-authorisation study](https://catalogues.ema.europa.eu/study/16393)
 
 #### Topics
 

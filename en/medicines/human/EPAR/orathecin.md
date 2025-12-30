@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:20
+document_datetime: 2025-12-29 16:16:54
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/orathecin.html
 document_name: orathecin.html
 version: success
-processing_time: 0.0692336
-conversion_datetime: 2025-12-28 15:36:47.851047
+processing_time: 0.0570002
+conversion_datetime: 2025-12-30 13:00:24.322687
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-rubitecan
+rubitecan Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +106,7 @@ English (EN) (34.85 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-application-orathecin_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-745)
+[Other languages (18)](#file-language-dropdown-547)
 
 español (ES) (35.24 KB - PDF)
 

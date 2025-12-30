@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:29:43
+document_datetime: 2025-12-29 09:37:02
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zeposia.html
 document_name: zeposia.html
 version: success
-processing_time: 0.1167888
-conversion_datetime: 2025-12-28 00:46:55.081372
+processing_time: 0.1143058
+conversion_datetime: 2025-12-30 02:37:42.490852
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ozanimod Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +124,7 @@ English (EN) (144.53 KB - PDF)
 
 [View](/en/documents/overview/zeposia-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-371)
+[Other languages (22)](#file-language-dropdown-136)
 
 български (BG) (170.54 KB - PDF)
 
@@ -410,7 +412,7 @@ English (EN) (443.22 KB - PDF)
 
 [View](/en/documents/product-information/zeposia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-754)
+[Other languages (24)](#file-language-dropdown-461)
 
 български (BG) (653.21 KB - PDF)
 
@@ -724,7 +726,7 @@ English (EN) (51.19 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zeposia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-805)
+[Other languages (24)](#file-language-dropdown-235)
 
 български (BG) (82.32 KB - PDF)
 

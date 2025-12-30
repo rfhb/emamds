@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:08:50
+document_datetime: 2025-12-29 14:34:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sebivo.html
 document_name: sebivo.html
 version: success
-processing_time: 0.1106114
-conversion_datetime: 2025-12-27 10:05:20.463302
+processing_time: 0.1087544
+conversion_datetime: 2025-12-30 03:16:49.963969
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-telbivudine
+telbivudine Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +60,7 @@ English (EN) (630.47 KB - PDF)
 
 [View](/en/documents/overview/sebivo-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-418)
+[Other languages (21)](#file-language-dropdown-252)
 
 български (BG) (804.14 KB - PDF)
 
@@ -330,7 +326,7 @@ English (EN) (1.4 MB - PDF)
 
 [View](/en/documents/product-information/sebivo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-441)
+[Other languages (24)](#file-language-dropdown-538)
 
 български (BG) (1.66 MB - PDF)
 
@@ -646,7 +642,7 @@ English (EN) (581.67 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sebivo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-315)
+[Other languages (24)](#file-language-dropdown-437)
 
 български (BG) (673.47 KB - PDF)
 

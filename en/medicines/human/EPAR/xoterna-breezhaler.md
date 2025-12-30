@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:28:30
+document_datetime: 2025-12-29 14:10:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xoterna-breezhaler.html
 document_name: xoterna-breezhaler.html
 version: success
-processing_time: 0.1152781
-conversion_datetime: 2025-12-26 13:01:00.760732
+processing_time: 0.1141332
+conversion_datetime: 2025-12-30 03:32:38.419414
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 indacaterol / glycopyrronium bromide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +116,7 @@ English (EN) (77.11 KB - PDF)
 
 [View](/en/documents/overview/xoterna-breezhaler-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-405)
+[Other languages (22)](#file-language-dropdown-410)
 
 български (BG) (107.2 KB - PDF)
 
@@ -402,7 +404,7 @@ English (EN) (1005.03 KB - PDF)
 
 [View](/en/documents/product-information/xoterna-breezhaler-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-778)
+[Other languages (24)](#file-language-dropdown-541)
 
 български (BG) (1.09 MB - PDF)
 
@@ -718,7 +720,7 @@ English (EN) (140.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xoterna-breezhaler-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-266)
+[Other languages (24)](#file-language-dropdown-630)
 
 български (BG) (179.67 KB - PDF)
 

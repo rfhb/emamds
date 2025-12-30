@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:20
+document_datetime: 2025-12-29 12:32:16
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xoanacyl.html
 document_name: xoanacyl.html
 version: success
-processing_time: 0.0951367
-conversion_datetime: 2025-12-27 15:52:56.116465
+processing_time: 0.102386
+conversion_datetime: 2025-12-30 09:34:09.826197
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ferric citrate coordination complex Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (114.54 KB - PDF)
 
 [View](/en/documents/overview/xoanacyl-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-636)
+[Other languages (22)](#file-language-dropdown-492)
 
 български (BG) (145.14 KB - PDF)
 
@@ -303,7 +305,7 @@ English (EN) (378.05 KB - PDF)
 
 [View](/en/documents/product-information/xoanacyl-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-78)
+[Other languages (24)](#file-language-dropdown-54)
 
 български (BG) (494.44 KB - PDF)
 
@@ -519,7 +521,7 @@ English (EN) (75.34 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xoanacyl-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-23)
+[Other languages (24)](#file-language-dropdown-733)
 
 български (BG) (72.64 KB - PDF)
 

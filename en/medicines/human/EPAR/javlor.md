@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:54:54
+document_datetime: 2025-12-29 07:11:31
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/javlor.html
 document_name: javlor.html
 version: success
-processing_time: 0.0975156
-conversion_datetime: 2025-12-23 23:31:02.580863
+processing_time: 0.1272816
+conversion_datetime: 2025-12-30 01:37:38.874774
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 vinflunine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (57.21 KB - PDF)
 
 [View](/en/documents/overview/javlor-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-936)
+[Other languages (21)](#file-language-dropdown-884)
 
 български (BG) (157.63 KB - PDF)
 
@@ -380,7 +382,7 @@ English (EN) (379.25 KB - PDF)
 
 [View](/en/documents/product-information/javlor-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-714)
+[Other languages (24)](#file-language-dropdown-138)
 
 български (BG) (567.13 KB - PDF)
 
@@ -696,7 +698,7 @@ English (EN) (16.9 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/javlor-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-410)
+[Other languages (22)](#file-language-dropdown-719)
 
 български (BG) (84.68 KB - PDF)
 
@@ -1055,7 +1057,7 @@ English (EN) (74.28 KB - PDF)
 
 [View](/en/documents/smop/questions-and-answers-refusal-change-marketing-authorisation-javlor-vinflunine_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-547)
+[Other languages (22)](#file-language-dropdown-212)
 
 български (BG) (100.09 KB - PDF)
 

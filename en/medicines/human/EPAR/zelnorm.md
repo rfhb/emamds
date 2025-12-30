@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:54:26
+document_datetime: 2025-12-29 08:15:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zelnorm.html
 document_name: zelnorm.html
 version: success
-processing_time: 0.0588759
-conversion_datetime: 2025-12-27 21:57:21.053378
+processing_time: 0.0585298
+conversion_datetime: 2025-12-30 03:22:51.375007
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine has been refused authorisation
 
-tegaserod
+tegaserod Medicine Human Refused
 
-Medicine
-
-Human
-
-Refused
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -65,7 +61,7 @@ English (EN) (30.01 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-recommendation-refusal-marketing-authorisation-zelnorm_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-272)
+[Other languages (18)](#file-language-dropdown-325)
 
 español (ES) (33.24 KB - PDF)
 

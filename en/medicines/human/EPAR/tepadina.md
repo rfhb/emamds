@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:02:31
+document_datetime: 2025-12-29 07:54:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tepadina.html
 document_name: tepadina.html
 version: success
-processing_time: 0.128109
-conversion_datetime: 2025-12-25 13:26:22.548678
+processing_time: 0.127923
+conversion_datetime: 2025-12-30 03:20:04.706157
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 thiotepa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +121,7 @@ English (EN) (87.78 KB - PDF)
 
 [View](/en/documents/overview/tepadina-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-631)
+[Other languages (22)](#file-language-dropdown-41)
 
 български (BG) (117.1 KB - PDF)
 
@@ -407,7 +409,7 @@ English (EN) (2.05 MB - PDF)
 
 [View](/en/documents/product-information/tepadina-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-231)
+[Other languages (24)](#file-language-dropdown-994)
 
 български (BG) (2.16 MB - PDF)
 
@@ -723,7 +725,7 @@ English (EN) (19.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tepadina-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-207)
+[Other languages (24)](#file-language-dropdown-29)
 
 български (BG) (92.7 KB - PDF)
 
@@ -1099,7 +1101,7 @@ English (EN) (2.17 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/tepadina-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-83)
+[Other languages (24)](#file-language-dropdown-565)
 
 български (BG) (3.87 MB - DOC)
 

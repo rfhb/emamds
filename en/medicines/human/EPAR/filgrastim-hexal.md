@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:48:47
+document_datetime: 2025-12-29 09:29:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/filgrastim-hexal.html
 document_name: filgrastim-hexal.html
 version: success
-processing_time: 0.1308227
-conversion_datetime: 2025-12-26 19:25:20.71047
+processing_time: 0.1280057
+conversion_datetime: 2025-12-30 10:05:53.762431
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 filgrastim Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (80.91 KB - PDF)
 
 [View](/en/documents/overview/filgrastim-hexal-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-503)
+[Other languages (22)](#file-language-dropdown-464)
 
 български (BG) (136.81 KB - PDF)
 
@@ -399,7 +401,7 @@ English (EN) (1.09 MB - PDF)
 
 [View](/en/documents/product-information/filgrastim-hexal-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-944)
+[Other languages (24)](#file-language-dropdown-897)
 
 български (BG) (955.21 KB - PDF)
 
@@ -715,7 +717,7 @@ English (EN) (85.08 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/filgrastim-hexal-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-810)
+[Other languages (24)](#file-language-dropdown-234)
 
 български (BG) (126.1 KB - PDF)
 
@@ -1060,7 +1062,7 @@ English (EN) (1.09 MB - PDF)
 
 [View](/en/documents/product-information/filgrastim-hexal-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-538)
+[Other languages (24)](#file-language-dropdown-483)
 
 български (BG) (955.21 KB - PDF)
 

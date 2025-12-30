@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:55:19
+document_datetime: 2025-12-29 11:41:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/winrevair.html
 document_name: winrevair.html
 version: success
-processing_time: 0.1077841
-conversion_datetime: 2025-12-28 11:22:27.380924
+processing_time: 0.1093265
+conversion_datetime: 2025-12-30 10:13:06.598908
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sotatercept Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +116,7 @@ English (EN) (122.22 KB - PDF)
 
 [View](/en/documents/overview/winrevair-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-233)
+[Other languages (22)](#file-language-dropdown-676)
 
 български (BG) (135.61 KB - PDF)
 
@@ -312,7 +314,7 @@ English (EN) (2.82 MB - PDF)
 
 [View](/en/documents/product-information/winrevair-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-109)
+[Other languages (24)](#file-language-dropdown-967)
 
 български (BG) (2.94 MB - PDF)
 
@@ -626,7 +628,7 @@ English (EN) (22.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/winrevair-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-395)
+[Other languages (24)](#file-language-dropdown-856)
 
 български (BG) (25.24 KB - PDF)
 
@@ -912,6 +914,8 @@ English (EN) (156.35 KB - PDF)
 
 #### News on Winrevair
 
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 8-11 December 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-8-11-december-2025) 12/12/2025
+
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2024) 28/06/2024
 
 [Positive CHMP opinion on first-in-class medicine to treat pulmonary arterial hypertension](/en/news/positive-chmp-opinion-first-class-medicine-treat-pulmonary-arterial-hypertension) 28/06/2024
@@ -919,6 +923,7 @@ English (EN) (156.35 KB - PDF)
 #### More information on Winrevair
 
 - [EU/3/20/2369 - orphan designation for treatment of pulmonary arterial hypertension](/en/medicines/human/orphan-designations/eu-3-20-2369)
+- [Winrevair - opinion on variation to marketing authorisation](/en/medicines/human/variation/winrevair)
 
 **This page was last updated on** 28/03/2025
 

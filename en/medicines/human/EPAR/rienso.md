@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:06:22
+document_datetime: 2025-12-29 11:46:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rienso.html
 document_name: rienso.html
 version: success
-processing_time: 0.1106512
-conversion_datetime: 2025-12-25 00:47:56.963754
+processing_time: 0.1129277
+conversion_datetime: 2025-12-30 07:56:50.12484
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-ferumoxytol
+ferumoxytol Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -68,7 +64,7 @@ English (EN) (542.02 KB - PDF)
 
 [View](/en/documents/overview/rienso-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-615)
+[Other languages (22)](#file-language-dropdown-325)
 
 български (BG) (626.83 KB - PDF)
 
@@ -346,7 +342,7 @@ English (EN) (963.78 KB - PDF)
 
 [View](/en/documents/product-information/rienso-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-135)
+[Other languages (24)](#file-language-dropdown-187)
 
 български (BG) (1.69 MB - PDF)
 
@@ -662,7 +658,7 @@ English (EN) (473.09 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rienso-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-226)
+[Other languages (24)](#file-language-dropdown-275)
 
 български (BG) (507.08 KB - PDF)
 

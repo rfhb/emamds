@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 08:02:01
+document_datetime: 2025-12-29 14:33:55
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/livensa.html
 document_name: livensa.html
 version: success
-processing_time: 0.1097723
-conversion_datetime: 2025-12-24 02:56:09.535714
+processing_time: 0.1039907
+conversion_datetime: 2025-12-30 10:17:05.003757
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-testosterone
+testosterone Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (168.44 KB - PDF)
 
 [View](/en/documents/overview/livensa-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-364)
+[Other languages (21)](#file-language-dropdown-342)
 
 български (BG) (298.14 KB - PDF)
 
@@ -332,7 +328,7 @@ English (EN) (377.06 KB - PDF)
 
 [View](/en/documents/product-information/livensa-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-804)
+[Other languages (23)](#file-language-dropdown-47)
 
 български (BG) (779.65 KB - PDF)
 
@@ -636,7 +632,7 @@ English (EN) (122.11 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/livensa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-507)
+[Other languages (23)](#file-language-dropdown-261)
 
 български (BG) (172.13 KB - PDF)
 

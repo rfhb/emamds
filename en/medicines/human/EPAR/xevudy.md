@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:25:30
+document_datetime: 2025-12-29 09:36:54
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xevudy.html
 document_name: xevudy.html
 version: success
-processing_time: 0.1283242
-conversion_datetime: 2025-12-24 03:05:04.836692
+processing_time: 0.1181932
+conversion_datetime: 2025-12-30 22:54:06.188584
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sotrovimab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +106,7 @@ English (EN) (128.84 KB - PDF)
 
 [View](/en/documents/overview/xevudy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-657)
+[Other languages (22)](#file-language-dropdown-438)
 
 български (BG) (141.86 KB - PDF)
 
@@ -392,7 +394,7 @@ English (EN) (358.87 KB - PDF)
 
 [View](/en/documents/product-information/xevudy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-30)
+[Other languages (24)](#file-language-dropdown-443)
 
 български (BG) (440.24 KB - PDF)
 
@@ -708,7 +710,7 @@ English (EN) (59.45 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xevudy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-630)
+[Other languages (24)](#file-language-dropdown-907)
 
 български (BG) (573.59 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:51:04
+document_datetime: 2025-12-29 14:09:44
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vaborem.html
 document_name: vaborem.html
 version: success
-processing_time: 0.1090485
-conversion_datetime: 2025-12-24 21:01:45.107351
+processing_time: 0.1133775
+conversion_datetime: 2025-12-30 01:03:16.797188
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 meropenem / vaborbactam Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (75.82 KB - PDF)
 
 [View](/en/documents/overview/vabomere-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-645)
+[Other languages (21)](#file-language-dropdown-35)
 
 български (BG) (101.73 KB - PDF)
 
@@ -299,7 +301,7 @@ English (EN) (340.27 KB - PDF)
 
 [View](/en/documents/product-information/vaborem-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-280)
+[Other languages (24)](#file-language-dropdown-937)
 
 български (BG) (393.36 KB - PDF)
 
@@ -615,7 +617,7 @@ English (EN) (42.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vaborem-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-504)
+[Other languages (24)](#file-language-dropdown-746)
 
 български (BG) (49.54 KB - PDF)
 

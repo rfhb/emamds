@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:06
+document_datetime: 2025-12-29 13:16:11
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/izelvay.html
 document_name: izelvay.html
 version: success
-processing_time: 0.0559007
-conversion_datetime: 2025-12-28 02:49:38.897687
+processing_time: 0.0536713
+conversion_datetime: 2025-12-30 12:57:32.607992
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-avacincaptad pegol
+avacincaptad pegol Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -101,7 +97,7 @@ English (EN) (132.25 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-izelvay_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-63)
+[Other languages (22)](#file-language-dropdown-61)
 
 български (BG) (144.82 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:03:04
+document_datetime: 2025-12-29 16:16:29
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kiacta.html
 document_name: kiacta.html
 version: success
-processing_time: 0.0709716
-conversion_datetime: 2025-12-26 09:32:49.012045
+processing_time: 0.0658329
+conversion_datetime: 2025-12-30 09:44:34.094074
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-eprodisate disodium
+eprodisate disodium Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +104,7 @@ English (EN) (33.78 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-application-kiacta_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-835)
+[Other languages (21)](#file-language-dropdown-956)
 
 български (BG) (147.05 KB - PDF)
 

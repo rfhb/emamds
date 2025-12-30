@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:50:44
+document_datetime: 2025-12-29 11:22:59
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lumykras.html
 document_name: lumykras.html
 version: success
-processing_time: 0.1093727
-conversion_datetime: 2025-12-28 13:46:44.154658
+processing_time: 0.1148388
+conversion_datetime: 2025-12-30 13:06:21.9736
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sotorasib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (136.1 KB - PDF)
 
 [View](/en/documents/overview/lumykras-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-943)
+[Other languages (22)](#file-language-dropdown-220)
 
 български (BG) (164.27 KB - PDF)
 
@@ -308,7 +310,7 @@ English (EN) (328.66 KB - PDF)
 
 [View](/en/documents/product-information/lumykras-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-890)
+[Other languages (24)](#file-language-dropdown-100)
 
 български (BG) (503.94 KB - PDF)
 
@@ -624,7 +626,7 @@ English (EN) (96.32 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lumykras-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-179)
+[Other languages (24)](#file-language-dropdown-436)
 
 български (BG) (59.93 KB - PDF)
 

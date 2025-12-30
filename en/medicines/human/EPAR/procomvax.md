@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:04:30
+document_datetime: 2025-12-29 07:16:54
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/procomvax.html
 document_name: procomvax.html
 version: success
-processing_time: 0.1145634
-conversion_datetime: 2025-12-28 18:42:01.33277
+processing_time: 0.1111776
+conversion_datetime: 2025-12-30 09:41:16.133994
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has expired
 
-haemophilus B conjugate (meningococcal protein conjugate) and hepatitis B (recombinant) vaccine
+haemophilus B conjugate (meningococcal protein conjugate) and hepatitis B (recombinant) vaccine Medicine Human Expired
 
-Medicine
-
-Human
-
-Expired
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +60,7 @@ English (EN) (276.07 KB - PDF)
 
 [View](/en/documents/overview/procomvax-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-124)
+[Other languages (21)](#file-language-dropdown-170)
 
 български (BG) (471.53 KB - PDF)
 
@@ -330,7 +326,7 @@ English (EN) (426.17 KB - PDF)
 
 [View](/en/documents/product-information/procomvax-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-898)
+[Other languages (21)](#file-language-dropdown-202)
 
 български (BG) (944.25 KB - PDF)
 
@@ -610,7 +606,7 @@ English (EN) (318.67 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/procomvax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-761)
+[Other languages (18)](#file-language-dropdown-905)
 
 español (ES) (576.22 KB - PDF)
 
@@ -902,7 +898,7 @@ English (EN) (266.71 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/procomvax-h-c-231-a20-20-sc-epar-scientific-conclusion_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-688)
+[Other languages (18)](#file-language-dropdown-239)
 
 español (ES) (621 KB - PDF)
 

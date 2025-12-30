@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:07:44
+document_datetime: 2025-12-29 07:06:35
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bronchitol.html
 document_name: bronchitol.html
 version: success
-processing_time: 0.1288665
-conversion_datetime: 2025-12-25 01:40:01.622805
+processing_time: 0.1298016
+conversion_datetime: 2025-12-30 21:27:43.63764
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-mannitol
+mannitol Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -129,7 +125,7 @@ English (EN) (58.13 KB - PDF)
 
 [View](/en/documents/overview/bronchitol-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-405)
+[Other languages (21)](#file-language-dropdown-583)
 
 български (BG) (99.38 KB - PDF)
 
@@ -403,7 +399,7 @@ English (EN) (775.56 KB - PDF)
 
 [View](/en/documents/product-information/bronchitol-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-559)
+[Other languages (24)](#file-language-dropdown-638)
 
 български (BG) (807.37 KB - PDF)
 
@@ -719,7 +715,7 @@ English (EN) (22.39 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bronchitol-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-964)
+[Other languages (24)](#file-language-dropdown-133)
 
 български (BG) (116.17 KB - PDF)
 
@@ -1019,7 +1015,7 @@ English (EN) (37.26 KB - PDF)
 
 [View](/en/documents/conditions-member-states/bronchitol-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-462)
+[Other languages (23)](#file-language-dropdown-839)
 
 български (BG) (96.48 KB - PDF)
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 08:00:59
+document_datetime: 2025-12-29 14:05:05
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cuprymina.html
 document_name: cuprymina.html
 version: success
-processing_time: 0.116961
-conversion_datetime: 2025-12-24 04:50:09.05827
+processing_time: 0.107931
+conversion_datetime: 2025-12-30 07:59:19.587502
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-copper (64Cu) chloride
+copper (64Cu) chloride Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +107,7 @@ English (EN) (54.41 KB - PDF)
 
 [View](/en/documents/overview/cuprymina-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-386)
+[Other languages (21)](#file-language-dropdown-751)
 
 български (BG) (93.45 KB - PDF)
 
@@ -377,7 +373,7 @@ English (EN) (302.63 KB - PDF)
 
 [View](/en/documents/product-information/cuprymina-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-230)
+[Other languages (24)](#file-language-dropdown-210)
 
 български (BG) (429.24 KB - PDF)
 
@@ -693,7 +689,7 @@ English (EN) (14.63 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cuprymina-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-483)
+[Other languages (23)](#file-language-dropdown-933)
 
 български (BG) (46.32 KB - PDF)
 

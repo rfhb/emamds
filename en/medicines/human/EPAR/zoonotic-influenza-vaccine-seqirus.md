@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 09:29:17
+document_datetime: 2025-12-29 07:26:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zoonotic-influenza-vaccine-seqirus.html
 document_name: zoonotic-influenza-vaccine-seqirus.html
 version: success
-processing_time: 0.1096208
-conversion_datetime: 2025-12-25 02:38:49.894653
+processing_time: 0.0982375
+conversion_datetime: 2025-12-30 11:59:20.270844
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-zoonotic influenza vaccine (H5N8) (surface antigen, inactivated, adjuvanted)
+zoonotic influenza vaccine (H5N8) (surface antigen, inactivated, adjuvanted) Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -123,7 +119,7 @@ English (EN) (127.12 KB - PDF)
 
 [View](/en/documents/overview/zoonotic-influenza-vaccine-seqirus-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-27)
+[Other languages (22)](#file-language-dropdown-892)
 
 български (BG) (151.36 KB - PDF)
 
@@ -411,7 +407,7 @@ English (EN) (431.04 KB - PDF)
 
 [View](/en/documents/product-information/zoonotic-influenza-vaccine-seqirus-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-871)
+[Other languages (24)](#file-language-dropdown-260)
 
 български (BG) (519.45 KB - PDF)
 
@@ -727,7 +723,7 @@ English (EN) (33.31 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zoonotic-influenza-vaccine-seqirus-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-584)
+[Other languages (24)](#file-language-dropdown-99)
 
 български (BG) (78.83 KB - PDF)
 

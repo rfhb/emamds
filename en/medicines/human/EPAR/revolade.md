@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:14
+document_datetime: 2025-12-29 11:38:47
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/revolade.html
 document_name: revolade.html
 version: success
-processing_time: 0.2042551
-conversion_datetime: 2025-12-28 13:41:46.008425
+processing_time: 0.1993205
+conversion_datetime: 2025-12-30 01:16:48.275783
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 eltrombopag Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -136,7 +138,7 @@ English (EN) (149.57 KB - PDF)
 
 [View](/en/documents/overview/revolade-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-663)
+[Other languages (22)](#file-language-dropdown-37)
 
 български (BG) (160.77 KB - PDF)
 
@@ -424,7 +426,7 @@ English (EN) (1.18 MB - PDF)
 
 [View](/en/documents/product-information/revolade-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-368)
+[Other languages (24)](#file-language-dropdown-837)
 
 български (BG) (1.47 MB - PDF)
 
@@ -1040,7 +1042,7 @@ English (EN) (53.73 KB - PDF)
 
 [View](/en/documents/conditions-member-states/revolade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-235)
+[Other languages (21)](#file-language-dropdown-320)
 
 български (BG) (125.14 KB - PDF)
 
@@ -1426,7 +1428,7 @@ English (EN) (82.17 KB - PDF)
 
 [View](/en/documents/smop/questions-and-answers-refusal-change-marketing-authorisation-revolade-eltrombopag_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-202)
+[Other languages (22)](#file-language-dropdown-280)
 
 български (BG) (155.69 KB - PDF)
 
@@ -1900,7 +1902,7 @@ English (EN) (701.67 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/revolade-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-25)
+[Other languages (24)](#file-language-dropdown-250)
 
 български (BG) (765.34 KB - DOCX)
 
@@ -2212,7 +2214,7 @@ English (EN) (146.08 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-answers-outcome-assessment-use-revolade-treatment-severe-aplastic-anaemia-children_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-178)
+[Other languages (22)](#file-language-dropdown-286)
 
 български (BG) (168.71 KB - PDF)
 

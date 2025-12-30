@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:23:26
+document_datetime: 2025-12-29 14:36:02
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fulvestrant-mylan.html
 document_name: fulvestrant-mylan.html
 version: success
-processing_time: 0.1349105
-conversion_datetime: 2025-12-25 03:21:46.375076
+processing_time: 0.1422334
+conversion_datetime: 2025-12-30 03:25:19.738026
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 fulvestrant Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (91.63 KB - PDF)
 
 [View](/en/documents/overview/fulvestrant-mylan-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-551)
+[Other languages (22)](#file-language-dropdown-106)
 
 български (BG) (109.46 KB - PDF)
 
@@ -384,7 +386,7 @@ English (EN) (494.22 KB - PDF)
 
 [View](/en/documents/product-information/fulvestrant-mylan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-578)
+[Other languages (24)](#file-language-dropdown-986)
 
 български (BG) (729.92 KB - PDF)
 
@@ -700,7 +702,7 @@ English (EN) (44.53 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fulvestrant-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-514)
+[Other languages (24)](#file-language-dropdown-95)
 
 български (BG) (72.79 KB - PDF)
 
@@ -1093,7 +1095,7 @@ English (EN) (428.5 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/fulvestrant-mylan-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-644)
+[Other languages (24)](#file-language-dropdown-287)
 
 български (BG) (577.11 KB - DOCX)
 
@@ -1301,7 +1303,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

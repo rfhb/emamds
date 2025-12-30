@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:00:12
+document_datetime: 2025-12-29 09:01:59
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/myocet-liposomal.html
 document_name: myocet-liposomal.html
 version: success
-processing_time: 0.1097129
-conversion_datetime: 2025-12-25 05:41:10.779147
+processing_time: 0.1108033
+conversion_datetime: 2025-12-30 02:32:03.04786
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 doxorubicin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +107,7 @@ English (EN) (176.92 KB - PDF)
 
 [View](/en/documents/overview/myocet-liposomal-previously-myocet-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-876)
+[Other languages (22)](#file-language-dropdown-15)
 
 български (BG) (220.73 KB - PDF)
 
@@ -383,7 +385,7 @@ English (EN) (379.08 KB - PDF)
 
 [View](/en/documents/product-information/myocet-liposomal-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-189)
+[Other languages (24)](#file-language-dropdown-637)
 
 български (BG) (431.99 KB - PDF)
 
@@ -699,7 +701,7 @@ English (EN) (14.72 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/myocet-liposomal-previously-myocet-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-227)
+[Other languages (24)](#file-language-dropdown-602)
 
 български (BG) (40.42 KB - PDF)
 

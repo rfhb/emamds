@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-13 23:15:10
+document_datetime: 2025-12-29 11:50:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jivi.html
 document_name: jivi.html
 version: success
-processing_time: 0.117799
-conversion_datetime: 2025-12-29 19:20:19.400985
+processing_time: 0.1200795
+conversion_datetime: 2025-12-30 08:58:51.058913
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 damoctocog alfa pegol Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (128.63 KB - PDF)
 
 [View](/en/documents/overview/jivi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-721)
+[Other languages (22)](#file-language-dropdown-27)
 
 български (BG) (155.75 KB - PDF)
 
@@ -406,7 +408,7 @@ English (EN) (738.01 KB - PDF)
 
 [View](/en/documents/product-information/jivi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-146)
+[Other languages (24)](#file-language-dropdown-627)
 
 български (BG) (766 KB - PDF)
 
@@ -722,7 +724,7 @@ English (EN) (71.6 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/jivi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-700)
+[Other languages (24)](#file-language-dropdown-812)
 
 български (BG) (82.9 KB - PDF)
 

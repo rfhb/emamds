@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:22:19
+document_datetime: 2025-12-29 11:34:31
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fluenz.html
 document_name: fluenz.html
 version: success
-processing_time: 0.1091889
-conversion_datetime: 2025-12-28 14:48:49.396697
+processing_time: 0.1088337
+conversion_datetime: 2025-12-30 02:23:38.037428
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 influenza vaccine (live attenuated, nasal) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +106,7 @@ English (EN) (123.25 KB - PDF)
 
 [View](/en/documents/overview/fluenz-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-161)
+[Other languages (22)](#file-language-dropdown-925)
 
 български (BG) (136.54 KB - PDF)
 
@@ -302,7 +304,7 @@ English (EN) (550.03 KB - PDF)
 
 [View](/en/documents/product-information/fluenz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-711)
+[Other languages (24)](#file-language-dropdown-882)
 
 български (BG) (731.5 KB - PDF)
 
@@ -618,7 +620,7 @@ English (EN) (47.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_en.pdf-0)
 
-[Other languages (24)](#file-language-dropdown-980)
+[Other languages (24)](#file-language-dropdown-246)
 
 български (BG) (64.76 KB - PDF)
 

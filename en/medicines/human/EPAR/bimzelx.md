@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:54:19
+document_datetime: 2025-12-29 11:20:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bimzelx.html
 document_name: bimzelx.html
 version: success
-processing_time: 0.1179923
-conversion_datetime: 2025-12-25 01:12:19.954533
+processing_time: 0.3365192
+conversion_datetime: 2025-12-30 20:56:30.44936
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bimekizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -139,7 +141,7 @@ English (EN) (151.86 KB - PDF)
 
 [View](/en/documents/overview/bimzelx-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-76)
+[Other languages (22)](#file-language-dropdown-840)
 
 български (BG) (177.79 KB - PDF)
 
@@ -339,7 +341,7 @@ English (EN) (1.43 MB - PDF)
 
 [View](/en/documents/product-information/bimzelx-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-508)
+[Other languages (24)](#file-language-dropdown-501)
 
 български (BG) (1.72 MB - PDF)
 
@@ -655,7 +657,7 @@ English (EN) (77.06 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bimzelx-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-74)
+[Other languages (24)](#file-language-dropdown-155)
 
 български (BG) (73.03 KB - PDF)
 

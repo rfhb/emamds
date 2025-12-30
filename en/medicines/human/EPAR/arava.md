@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:06:03
+document_datetime: 2025-12-29 11:15:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/arava.html
 document_name: arava.html
 version: success
-processing_time: 0.1306445
-conversion_datetime: 2025-12-27 23:21:32.270952
+processing_time: 0.131138
+conversion_datetime: 2025-12-30 21:28:15.57699
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 leflunomide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -123,7 +125,7 @@ English (EN) (76.34 KB - PDF)
 
 [View](/en/documents/overview/arava-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-460)
+[Other languages (22)](#file-language-dropdown-502)
 
 български (BG) (104.75 KB - PDF)
 
@@ -409,7 +411,7 @@ English (EN) (767.12 KB - PDF)
 
 [View](/en/documents/product-information/arava-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-681)
+[Other languages (24)](#file-language-dropdown-682)
 
 български (BG) (941.42 KB - PDF)
 
@@ -725,7 +727,7 @@ English (EN) (25.68 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/arava-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-933)
+[Other languages (24)](#file-language-dropdown-81)
 
 български (BG) (58.86 KB - PDF)
 
@@ -1143,7 +1145,7 @@ English (EN) (242.46 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/arava-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-236)
+[Other languages (24)](#file-language-dropdown-436)
 
 български (BG) (270.03 KB - DOCX)
 

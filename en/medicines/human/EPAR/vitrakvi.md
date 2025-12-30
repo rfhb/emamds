@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:52:37
+document_datetime: 2025-12-29 09:23:47
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vitrakvi.html
 document_name: vitrakvi.html
 version: success
-processing_time: 0.1117477
-conversion_datetime: 2025-12-26 19:16:44.978254
+processing_time: 0.1232014
+conversion_datetime: 2025-12-30 10:46:04.335022
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 larotrectinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (74.59 KB - PDF)
 
 [View](/en/documents/overview/vitrakvi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-909)
+[Other languages (22)](#file-language-dropdown-108)
 
 български (BG) (101.03 KB - PDF)
 
@@ -306,7 +308,7 @@ English (EN) (980.57 KB - PDF)
 
 [View](/en/documents/product-information/vitrakvi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-805)
+[Other languages (24)](#file-language-dropdown-425)
 
 български (BG) (1.1 MB - PDF)
 
@@ -622,7 +624,7 @@ English (EN) (54.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vitrakvi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-154)
+[Other languages (24)](#file-language-dropdown-110)
 
 български (BG) (70.61 KB - PDF)
 

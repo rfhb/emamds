@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:45:54
+document_datetime: 2025-12-29 09:19:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/emadine.html
 document_name: emadine.html
 version: success
-processing_time: 0.1082751
-conversion_datetime: 2025-12-27 16:04:43.145112
+processing_time: 0.1117723
+conversion_datetime: 2025-12-30 01:36:09.583435
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 emedastine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (73.08 KB - PDF)
 
 [View](/en/documents/overview/emadine-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-116)
+[Other languages (22)](#file-language-dropdown-219)
 
 български (BG) (100.24 KB - PDF)
 
@@ -391,7 +393,7 @@ English (EN) (402.41 KB - PDF)
 
 [View](/en/documents/product-information/emadine-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-940)
+[Other languages (24)](#file-language-dropdown-423)
 
 български (BG) (521.59 KB - PDF)
 
@@ -707,7 +709,7 @@ English (EN) (104.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/emadine-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-792)
+[Other languages (24)](#file-language-dropdown-855)
 
 български (BG) (107.26 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:29:16
+document_datetime: 2025-12-29 12:35:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/finlee.html
 document_name: finlee.html
 version: success
-processing_time: 0.1104178
-conversion_datetime: 2025-12-26 21:07:36.072586
+processing_time: 0.1115622
+conversion_datetime: 2025-12-30 08:16:11.118894
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 dabrafenib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (127.41 KB - PDF)
 
 [View](/en/documents/overview/finlee-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-219)
+[Other languages (22)](#file-language-dropdown-39)
 
 български (BG) (150.3 KB - PDF)
 
@@ -315,7 +317,7 @@ English (EN) (887.83 KB - PDF)
 
 [View](/en/documents/product-information/finlee-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-508)
+[Other languages (24)](#file-language-dropdown-436)
 
 български (BG) (694.27 KB - PDF)
 
@@ -629,7 +631,7 @@ English (EN) (65.22 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/finlee-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-290)
+[Other languages (24)](#file-language-dropdown-966)
 
 български (BG) (72.13 KB - PDF)
 

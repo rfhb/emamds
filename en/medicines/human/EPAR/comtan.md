@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:50:57
+document_datetime: 2025-12-29 13:54:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/comtan.html
 document_name: comtan.html
 version: success
-processing_time: 0.1092553
-conversion_datetime: 2025-12-28 09:28:20.217404
+processing_time: 0.110354
+conversion_datetime: 2025-12-30 09:14:56.483006
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 entacapone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (43.26 KB - PDF)
 
 [View](/en/documents/overview/comtan-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-527)
+[Other languages (21)](#file-language-dropdown-752)
 
 български (BG) (175.26 KB - PDF)
 
@@ -373,7 +375,7 @@ English (EN) (196.56 KB - PDF)
 
 [View](/en/documents/product-information/comtan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-57)
+[Other languages (24)](#file-language-dropdown-903)
 
 български (BG) (230.82 KB - PDF)
 
@@ -689,7 +691,7 @@ English (EN) (67.01 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/comtan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-429)
+[Other languages (24)](#file-language-dropdown-563)
 
 български (BG) (64.53 KB - PDF)
 

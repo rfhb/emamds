@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:23:22
+document_datetime: 2025-12-29 09:21:07
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/exparel-liposomal.html
 document_name: exparel-liposomal.html
 version: success
-processing_time: 0.1126602
-conversion_datetime: 2025-12-26 18:40:12.936932
+processing_time: 0.1132992
+conversion_datetime: 2025-12-30 01:55:59.368851
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bupivacaine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (144.14 KB - PDF)
 
 [View](/en/documents/overview/exparel-liposomal-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-218)
+[Other languages (22)](#file-language-dropdown-13)
 
 български (BG) (168.64 KB - PDF)
 
@@ -397,7 +399,7 @@ English (EN) (542.66 KB - PDF)
 
 [View](/en/documents/product-information/exparel-liposomal-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-764)
+[Other languages (24)](#file-language-dropdown-763)
 
 български (BG) (716.76 KB - PDF)
 
@@ -711,7 +713,7 @@ English (EN) (60.16 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/exparel-liposomal-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-406)
+[Other languages (24)](#file-language-dropdown-644)
 
 български (BG) (72.16 KB - PDF)
 

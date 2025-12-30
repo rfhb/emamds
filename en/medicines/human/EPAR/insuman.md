@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:13
+document_datetime: 2025-12-29 14:32:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/insuman.html
 document_name: insuman.html
 version: success
-processing_time: 0.1146143
-conversion_datetime: 2025-12-27 16:17:50.568276
+processing_time: 0.2815814
+conversion_datetime: 2025-12-31 00:59:19.19387
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin human Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -124,7 +126,7 @@ English (EN) (81.91 KB - PDF)
 
 [View](/en/documents/overview/insuman-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-799)
+[Other languages (22)](#file-language-dropdown-437)
 
 български (BG) (109.17 KB - PDF)
 
@@ -402,7 +404,7 @@ English (EN) (2.8 MB - PDF)
 
 [View](/en/documents/product-information/insuman-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-42)
+[Other languages (24)](#file-language-dropdown-740)
 
 български (BG) (7.45 MB - PDF)
 
@@ -718,7 +720,7 @@ English (EN) (134.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/insuman-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-907)
+[Other languages (24)](#file-language-dropdown-54)
 
 български (BG) (197.17 KB - PDF)
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 15:28:01
+document_datetime: 2025-12-29 07:21:47
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zyllt.html
 document_name: zyllt.html
 version: success
-processing_time: 0.1348975
-conversion_datetime: 2025-12-24 04:38:49.425029
+processing_time: 0.1246707
+conversion_datetime: 2025-12-30 02:24:42.795126
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-clopidogrel
+clopidogrel Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +105,7 @@ English (EN) (43.59 KB - PDF)
 
 [View](/en/documents/overview/zyllt-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-496)
+[Other languages (21)](#file-language-dropdown-22)
 
 български (BG) (167.91 KB - PDF)
 
@@ -375,7 +371,7 @@ English (EN) (264.7 KB - PDF)
 
 [View](/en/documents/product-information/zyllt-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-261)
+[Other languages (24)](#file-language-dropdown-721)
 
 български (BG) (308.61 KB - PDF)
 
@@ -691,7 +687,7 @@ English (EN) (14.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zyllt-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-925)
+[Other languages (24)](#file-language-dropdown-112)
 
 български (BG) (79.47 KB - PDF)
 
@@ -1087,7 +1083,7 @@ English (EN) (83.94 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/zyllt-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (23)](#file-language-dropdown-55)
+[Other languages (23)](#file-language-dropdown-727)
 
 български (BG) (102 KB - DOCX)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 09:54:50
+document_datetime: 2025-12-29 12:23:05
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/harvoni.html
 document_name: harvoni.html
 version: success
-processing_time: 0.3357245
-conversion_datetime: 2025-12-27 09:45:07.861753
+processing_time: 0.1354487
+conversion_datetime: 2025-12-30 11:53:38.433508
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-ledispavir / sofosbuvir
+ledispavir / sofosbuvir Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -129,7 +125,7 @@ English (EN) (159.93 KB - PDF)
 
 [View](/en/documents/overview/harvoni-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-929)
+[Other languages (22)](#file-language-dropdown-502)
 
 български (BG) (162.19 KB - PDF)
 
@@ -417,7 +413,7 @@ English (EN) (1.09 MB - PDF)
 
 [View](/en/documents/product-information/harvoni-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-32)
+[Other languages (24)](#file-language-dropdown-158)
 
 български (BG) (1.33 MB - PDF)
 
@@ -733,7 +729,7 @@ English (EN) (45.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/harvoni-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-469)
+[Other languages (24)](#file-language-dropdown-632)
 
 български (BG) (77.66 KB - PDF)
 
@@ -1157,7 +1153,7 @@ English (EN) (58.19 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/harvoni-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-865)
+[Other languages (22)](#file-language-dropdown-997)
 
 български (BG) (93.44 KB - PDF)
 

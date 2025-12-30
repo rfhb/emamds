@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:54:05
+document_datetime: 2025-12-29 12:59:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/somatropin-biopartners.html
 document_name: somatropin-biopartners.html
 version: success
-processing_time: 0.1049901
-conversion_datetime: 2025-12-24 22:01:00.227884
+processing_time: 0.1042119
+conversion_datetime: 2025-12-30 03:37:31.598504
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has lapsed
 
 somatropin Medicine Human Lapsed
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -60,7 +62,7 @@ English (EN) (544.61 KB - PDF)
 
 [View](/en/documents/overview/somatropin-biopartners-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-85)
+[Other languages (22)](#file-language-dropdown-58)
 
 български (BG) (632.75 KB - PDF)
 
@@ -338,7 +340,7 @@ English (EN) (1.19 MB - PDF)
 
 [View](/en/documents/product-information/somatropin-biopartners-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-489)
+[Other languages (24)](#file-language-dropdown-775)
 
 български (BG) (3.42 MB - PDF)
 
@@ -654,7 +656,7 @@ English (EN) (485.58 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/somatropin-biopartners-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-718)
+[Other languages (24)](#file-language-dropdown-624)
 
 български (BG) (522.76 KB - PDF)
 

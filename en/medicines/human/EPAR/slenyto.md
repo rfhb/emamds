@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:49:53
+document_datetime: 2025-12-29 11:31:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/slenyto.html
 document_name: slenyto.html
 version: success
-processing_time: 0.1161996
-conversion_datetime: 2025-12-26 11:40:11.717729
+processing_time: 0.1784379
+conversion_datetime: 2025-12-30 10:52:46.239009
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 melatonin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -123,7 +125,7 @@ English (EN) (127.15 KB - PDF)
 
 [View](/en/documents/overview/slenyto-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-615)
+[Other languages (22)](#file-language-dropdown-49)
 
 български (BG) (152.75 KB - PDF)
 
@@ -411,7 +413,7 @@ English (EN) (417.68 KB - PDF)
 
 [View](/en/documents/product-information/slenyto-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-592)
+[Other languages (24)](#file-language-dropdown-782)
 
 български (BG) (505.33 KB - PDF)
 
@@ -727,7 +729,7 @@ English (EN) (80.3 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/slenyto-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-983)
+[Other languages (24)](#file-language-dropdown-590)
 
 български (BG) (71.51 KB - PDF)
 

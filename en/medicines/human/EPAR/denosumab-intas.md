@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-13 23:33:55
+document_datetime: 2025-12-29 11:53:16
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/denosumab-intas.html
 document_name: denosumab-intas.html
 version: success
-processing_time: 0.0970294
-conversion_datetime: 2025-12-27 20:12:11.533197
+processing_time: 0.091879
+conversion_datetime: 2025-12-30 11:48:19.98188
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 denosumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (135.56 KB - PDF)
 
 [View](/en/documents/overview/denosumab-intas-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-924)
+[Other languages (22)](#file-language-dropdown-839)
 
 български (BG) (161.49 KB - PDF)
 
@@ -313,7 +315,7 @@ English (EN) (702.76 KB - PDF)
 
 [View](/en/documents/product-information/denosumab-intas-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-90)
+[Other languages (24)](#file-language-dropdown-659)
 
 български (BG) (803.04 KB - PDF)
 
@@ -529,7 +531,7 @@ English (EN) (203.93 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/denosumab-intas-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-672)
+[Other languages (24)](#file-language-dropdown-314)
 
 български (BG) (192 KB - PDF)
 

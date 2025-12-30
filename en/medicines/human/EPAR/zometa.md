@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:17:06
+document_datetime: 2025-12-29 11:51:28
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zometa.html
 document_name: zometa.html
 version: success
-processing_time: 0.1170021
-conversion_datetime: 2025-12-27 13:49:25.230844
+processing_time: 0.1214561
+conversion_datetime: 2025-12-30 01:51:40.712076
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 zoledronic acid Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (76.15 KB - PDF)
 
 [View](/en/documents/overview/zometa-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-420)
+[Other languages (22)](#file-language-dropdown-854)
 
 български (BG) (104 KB - PDF)
 
@@ -404,7 +406,7 @@ English (EN) (843.48 KB - PDF)
 
 [View](/en/documents/product-information/zometa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-270)
+[Other languages (24)](#file-language-dropdown-72)
 
 български (BG) (1.06 MB - PDF)
 
@@ -720,7 +722,7 @@ English (EN) (117.77 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zometa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-533)
+[Other languages (24)](#file-language-dropdown-738)
 
 български (BG) (213.08 KB - PDF)
 

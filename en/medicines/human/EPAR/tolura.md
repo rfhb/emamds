@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:20:00
+document_datetime: 2025-12-29 11:26:34
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tolura.html
 document_name: tolura.html
 version: success
-processing_time: 0.14755
-conversion_datetime: 2025-12-28 10:13:13.98684
+processing_time: 0.1460708
+conversion_datetime: 2025-12-30 20:52:52.820127
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 telmisartan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +106,7 @@ English (EN) (66.29 KB - PDF)
 
 [View](/en/documents/overview/tolura-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-325)
+[Other languages (21)](#file-language-dropdown-24)
 
 български (BG) (167.01 KB - PDF)
 
@@ -370,7 +372,7 @@ English (EN) (236.58 KB - PDF)
 
 [View](/en/documents/product-information/tolura-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-152)
+[Other languages (24)](#file-language-dropdown-998)
 
 български (BG) (272.42 KB - PDF)
 
@@ -686,7 +688,7 @@ English (EN) (52.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tolura-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-835)
+[Other languages (24)](#file-language-dropdown-618)
 
 български (BG) (53.8 KB - PDF)
 
@@ -1051,7 +1053,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/tolura-h-c-1196-a31-0013-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommenda_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-693)
+[Other languages (22)](#file-language-dropdown-921)
 
 български (BG) (87.49 KB - PDF)
 
@@ -1379,7 +1381,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

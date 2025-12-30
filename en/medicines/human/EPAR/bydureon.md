@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:53:29
+document_datetime: 2025-12-29 07:36:45
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bydureon.html
 document_name: bydureon.html
 version: success
-processing_time: 0.1322367
-conversion_datetime: 2025-12-24 15:17:38.021934
+processing_time: 0.1256041
+conversion_datetime: 2025-12-30 10:02:06.555543
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 exenatide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -52,16 +54,6 @@ Bydureon contains the active substance exenatide.
 Expand section
 
 Collapse section
-
-## What is Bydureon and what is it used for?
-
-Bydureon is given by injection under the skin once a week on the same day each week in the abdomen (belly), thigh or back of the upper arm. Patients inject themselves once they have been trained.
-
-When adding Bydureon to a sulphonylurea (another type of diabetes medicine), the doctor may need to reduce the dose of the sulphonylurea because there is a risk of hypoglycaemia (low blood glucose levels). When adding Bydureon to insulin, the dose of insulin may also need to be adjusted.
-
-Patients using both Bydureon and insulin should inject the medicines separately.
-
-The medicine can only be obtained with a prescription. For more information about using Bydureon, see the package leaflet or contact your doctor or pharmacist.
 
 ## How is Bydureon used?
 
@@ -123,7 +115,7 @@ English (EN) (108.59 KB - PDF)
 
 [View](/en/documents/overview/bydureon-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-690)
+[Other languages (22)](#file-language-dropdown-223)
 
 български (BG) (118.94 KB - PDF)
 
@@ -411,7 +403,7 @@ English (EN) (2.61 MB - PDF)
 
 [View](/en/documents/product-information/bydureon-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-808)
+[Other languages (24)](#file-language-dropdown-314)
 
 български (BG) (2.08 MB - PDF)
 
@@ -727,7 +719,7 @@ English (EN) (39.4 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bydureon-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-229)
+[Other languages (24)](#file-language-dropdown-57)
 
 български (BG) (41.6 KB - PDF)
 

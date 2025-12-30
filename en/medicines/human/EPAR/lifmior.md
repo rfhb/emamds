@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:58
+document_datetime: 2025-12-29 14:35:51
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lifmior.html
 document_name: lifmior.html
 version: success
-processing_time: 0.1055128
-conversion_datetime: 2025-12-28 09:32:47.710951
+processing_time: 0.106788
+conversion_datetime: 2025-12-30 01:38:34.283291
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has lapsed
 
-etanercept
+etanercept Medicine Human Lapsed
 
-Medicine
-
-Human
-
-Lapsed
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (667.44 KB - PDF)
 
 [View](/en/documents/overview/lifmior-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-59)
+[Other languages (22)](#file-language-dropdown-381)
 
 български (BG) (764.72 KB - PDF)
 
@@ -345,7 +341,7 @@ English (EN) (3.25 MB - PDF)
 
 [View](/en/documents/product-information/lifmior-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-35)
+[Other languages (24)](#file-language-dropdown-175)
 
 български (BG) (1.91 MB - PDF)
 
@@ -661,7 +657,7 @@ English (EN) (610.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lifmior-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-71)
+[Other languages (24)](#file-language-dropdown-353)
 
 български (BG) (691.52 KB - PDF)
 

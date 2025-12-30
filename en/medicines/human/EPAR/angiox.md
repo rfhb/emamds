@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:32:18
+document_datetime: 2025-12-29 14:33:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/angiox.html
 document_name: angiox.html
 version: success
-processing_time: 0.1228394
-conversion_datetime: 2025-12-24 02:19:20.20528
+processing_time: 0.1455556
+conversion_datetime: 2025-12-30 03:30:28.505313
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 bivalirudin Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -63,7 +65,7 @@ English (EN) (544.74 KB - PDF)
 
 [View](/en/documents/overview/angiox-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-544)
+[Other languages (21)](#file-language-dropdown-904)
 
 български (BG) (632.54 KB - PDF)
 
@@ -329,7 +331,7 @@ English (EN) (1.09 MB - PDF)
 
 [View](/en/documents/product-information/angiox-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-401)
+[Other languages (24)](#file-language-dropdown-303)
 
 български (BG) (2.07 MB - PDF)
 
@@ -629,7 +631,7 @@ English (EN) (1.09 MB - PDF)
 
 [View](/en/documents/product-information/angiox-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-956)
+[Other languages (24)](#file-language-dropdown-653)
 
 български (BG) (2.07 MB - PDF)
 
@@ -945,7 +947,7 @@ English (EN) (465.02 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/angiox-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-897)
+[Other languages (23)](#file-language-dropdown-782)
 
 български (BG) (554.21 KB - PDF)
 
@@ -1233,7 +1235,7 @@ English (EN) (465.02 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/angiox-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-274)
+[Other languages (23)](#file-language-dropdown-731)
 
 български (BG) (554.21 KB - PDF)
 

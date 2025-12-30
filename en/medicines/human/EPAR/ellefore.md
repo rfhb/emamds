@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:32
+document_datetime: 2025-12-29 16:16:14
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ellefore.html
 document_name: ellefore.html
 version: success
-processing_time: 0.0661858
-conversion_datetime: 2025-12-28 15:36:15.663221
+processing_time: 0.0623289
+conversion_datetime: 2025-12-30 21:16:11.173401
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +113,7 @@ English (EN) (33.3 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-application-ellefore_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-655)
+[Other languages (21)](#file-language-dropdown-68)
 
 български (BG) (139.63 KB - PDF)
 

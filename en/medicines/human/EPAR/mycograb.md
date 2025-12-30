@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:52
+document_datetime: 2025-12-29 15:17:41
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mycograb.html
 document_name: mycograb.html
 version: success
-processing_time: 0.0549963
-conversion_datetime: 2025-12-28 09:59:57.724817
+processing_time: 0.0626845
+conversion_datetime: 2025-12-30 08:19:33.843522
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine has been refused authorisation
 
-efungumab
+efungumab Medicine Human Refused
 
-Medicine
-
-Human
-
-Refused
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -63,7 +59,7 @@ English (EN) (34.38 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-recommendation-refusal-marketing-authorization-mycograb_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-749)
+[Other languages (21)](#file-language-dropdown-942)
 
 български (BG) (140.06 KB - PDF)
 

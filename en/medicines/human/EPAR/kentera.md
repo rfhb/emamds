@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:09
+document_datetime: 2025-12-29 11:09:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kentera.html
 document_name: kentera.html
 version: success
-processing_time: 0.1246407
-conversion_datetime: 2025-12-26 19:46:47.165683
+processing_time: 0.1294213
+conversion_datetime: 2025-12-30 10:21:44.597469
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 oxybutynin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (63 KB - PDF)
 
 [View](/en/documents/overview/kentera-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-505)
+[Other languages (21)](#file-language-dropdown-860)
 
 български (BG) (164.11 KB - PDF)
 
@@ -376,7 +378,7 @@ English (EN) (402.77 KB - PDF)
 
 [View](/en/documents/product-information/kentera-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-900)
+[Other languages (24)](#file-language-dropdown-961)
 
 български (BG) (557.7 KB - PDF)
 
@@ -692,7 +694,7 @@ English (EN) (12.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kentera-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-904)
+[Other languages (24)](#file-language-dropdown-204)
 
 български (BG) (36.22 KB - PDF)
 
@@ -1074,7 +1076,7 @@ English (EN) (110.26 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/kentera-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-258)
+[Other languages (24)](#file-language-dropdown-417)
 
 български (BG) (120.32 KB - DOCX)
 

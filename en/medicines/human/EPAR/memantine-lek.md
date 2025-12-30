@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:40:08
+document_datetime: 2025-12-29 14:35:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/memantine-lek.html
 document_name: memantine-lek.html
 version: success
-processing_time: 0.105391
-conversion_datetime: 2025-12-24 20:37:49.425593
+processing_time: 0.1075636
+conversion_datetime: 2025-12-30 02:33:00.087351
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 memantine Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -60,7 +62,7 @@ English (EN) (145.82 KB - PDF)
 
 [View](/en/documents/overview/memantine-lek-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-16)
+[Other languages (21)](#file-language-dropdown-31)
 
 български (BG) (250.47 KB - PDF)
 
@@ -326,7 +328,7 @@ English (EN) (1.59 MB - PDF)
 
 [View](/en/documents/product-information/memantine-lek-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-550)
+[Other languages (24)](#file-language-dropdown-658)
 
 български (BG) (1.82 MB - PDF)
 
@@ -642,7 +644,7 @@ English (EN) (42.11 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/memantine-lek-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-68)
+[Other languages (24)](#file-language-dropdown-281)
 
 български (BG) (90.25 KB - PDF)
 

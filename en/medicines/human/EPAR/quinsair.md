@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:05:24
+document_datetime: 2025-12-29 13:18:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/quinsair.html
 document_name: quinsair.html
 version: success
-processing_time: 0.290513
-conversion_datetime: 2025-12-29 22:10:20.779734
+processing_time: 0.1313859
+conversion_datetime: 2025-12-30 02:37:08.902121
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

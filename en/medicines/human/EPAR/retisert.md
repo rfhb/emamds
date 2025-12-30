@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:18
+document_datetime: 2025-12-29 08:11:28
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/retisert.html
 document_name: retisert.html
 version: success
-processing_time: 0.071047
-conversion_datetime: 2025-12-28 17:33:46.291447
+processing_time: 0.0683933
+conversion_datetime: 2025-12-30 08:45:47.184754
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-fluocinolone acetonide
+fluocinolone acetonide Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +100,7 @@ English (EN) (35.19 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-application-retisert_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-879)
+[Other languages (21)](#file-language-dropdown-677)
 
 български (BG) (125.85 KB - PDF)
 

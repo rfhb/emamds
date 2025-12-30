@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:02:05
+document_datetime: 2025-12-29 19:07:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/evotopin.html
 document_name: evotopin.html
 version: success
-processing_time: 0.0437044
-conversion_datetime: 2025-12-27 09:37:11.082785
+processing_time: 0.0382474
+conversion_datetime: 2025-12-30 21:12:19.968591
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 topotecan Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

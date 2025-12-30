@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-09 23:30:23
+document_datetime: 2025-12-29 11:29:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/benepali.html
 document_name: benepali.html
 version: success
-processing_time: 0.1256747
-conversion_datetime: 2025-12-24 01:39:24.693909
+processing_time: 0.115321
+conversion_datetime: 2025-12-30 13:01:28.165825
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 etanercept Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -125,7 +127,7 @@ English (EN) (86.68 KB - PDF)
 
 [View](/en/documents/overview/benepali-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-716)
+[Other languages (22)](#file-language-dropdown-901)
 
 български (BG) (118.43 KB - PDF)
 
@@ -413,7 +415,7 @@ English (EN) (1.1 MB - PDF)
 
 [View](/en/documents/product-information/benepali-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-521)
+[Other languages (24)](#file-language-dropdown-153)
 
 български (BG) (1.39 MB - PDF)
 
@@ -729,7 +731,7 @@ English (EN) (19.07 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/benepali-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-194)
+[Other languages (24)](#file-language-dropdown-178)
 
 български (BG) (46.97 KB - PDF)
 

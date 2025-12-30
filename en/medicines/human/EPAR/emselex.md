@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:34:13
+document_datetime: 2025-12-29 09:01:37
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/emselex.html
 document_name: emselex.html
 version: success
-processing_time: 0.4107751
-conversion_datetime: 2025-12-28 02:23:17.379081
+processing_time: 0.121854
+conversion_datetime: 2025-12-30 11:54:32.963575
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 darifenacin hydrobromide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (80.92 KB - PDF)
 
 [View](/en/documents/overview/emselex-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-848)
+[Other languages (21)](#file-language-dropdown-804)
 
 български (BG) (128.38 KB - PDF)
 
@@ -378,7 +380,7 @@ English (EN) (317.1 KB - PDF)
 
 [View](/en/documents/product-information/emselex-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-707)
+[Other languages (24)](#file-language-dropdown-607)
 
 български (BG) (447.83 KB - PDF)
 
@@ -694,7 +696,7 @@ English (EN) (11.19 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/emselex-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-984)
+[Other languages (24)](#file-language-dropdown-598)
 
 български (BG) (50.94 KB - PDF)
 
@@ -1084,7 +1086,7 @@ English (EN) (133.5 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/emselex-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-850)
+[Other languages (24)](#file-language-dropdown-58)
 
 български (BG) (150.31 KB - DOCX)
 

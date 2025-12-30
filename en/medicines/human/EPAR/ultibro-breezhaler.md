@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:59:45
+document_datetime: 2025-12-29 11:36:22
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ultibro-breezhaler.html
 document_name: ultibro-breezhaler.html
 version: success
-processing_time: 0.1215398
-conversion_datetime: 2025-12-27 23:24:45.831723
+processing_time: 0.1295504
+conversion_datetime: 2025-12-30 19:55:41.840108
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 indacaterol / glycopyrronium bromide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (84.08 KB - PDF)
 
 [View](/en/documents/overview/ultibro-breezhaler-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-910)
+[Other languages (22)](#file-language-dropdown-616)
 
 български (BG) (105.48 KB - PDF)
 
@@ -403,7 +405,7 @@ English (EN) (677.9 KB - PDF)
 
 [View](/en/documents/product-information/ultibro-breezhaler-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-734)
+[Other languages (24)](#file-language-dropdown-852)
 
 български (BG) (721.34 KB - PDF)
 
@@ -719,7 +721,7 @@ English (EN) (139.98 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ultibro-breezhaler-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-454)
+[Other languages (24)](#file-language-dropdown-519)
 
 български (BG) (179.25 KB - PDF)
 
@@ -1126,7 +1128,7 @@ English (EN) (745.39 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/ultibro-breezhaler-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-36)
+[Other languages (24)](#file-language-dropdown-340)
 
 български (BG) (703.07 KB - DOCX)
 

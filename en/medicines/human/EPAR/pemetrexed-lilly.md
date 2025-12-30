@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:40:38
+document_datetime: 2025-12-29 14:16:01
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pemetrexed-lilly.html
 document_name: pemetrexed-lilly.html
 version: success
-processing_time: 0.1182102
-conversion_datetime: 2025-12-25 07:43:22.400468
+processing_time: 0.1197955
+conversion_datetime: 2025-12-30 08:02:28.831158
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 pemetrexed Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +68,7 @@ English (EN) (744.06 KB - PDF)
 
 [View](/en/documents/overview/pemetrexed-lilly-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-427)
+[Other languages (22)](#file-language-dropdown-652)
 
 български (BG) (781.53 KB - PDF)
 
@@ -356,7 +358,7 @@ English (EN) (1.49 MB - PDF)
 
 [View](/en/documents/product-information/pemetrexed-lilly-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-547)
+[Other languages (24)](#file-language-dropdown-748)
 
 български (BG) (2.44 MB - PDF)
 
@@ -670,7 +672,7 @@ English (EN) (585.49 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pemetrexed-lilly-epar-all-authorised-presentations_en.pdf-0)
 
-[Other languages (24)](#file-language-dropdown-884)
+[Other languages (24)](#file-language-dropdown-733)
 
 български (BG) (725.49 KB - PDF)
 
@@ -939,7 +941,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

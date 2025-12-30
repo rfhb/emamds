@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:12:09
+document_datetime: 2025-12-29 13:37:07
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cresemba.html
 document_name: cresemba.html
 version: success
-processing_time: 0.1216458
-conversion_datetime: 2025-12-28 05:47:24.36666
+processing_time: 0.1193619
+conversion_datetime: 2025-12-30 02:26:22.700367
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 isavuconazole Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -123,7 +125,7 @@ English (EN) (149.3 KB - PDF)
 
 [View](/en/documents/overview/cresemba-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-777)
+[Other languages (22)](#file-language-dropdown-937)
 
 български (BG) (174.2 KB - PDF)
 
@@ -411,7 +413,7 @@ English (EN) (1.26 MB - PDF)
 
 [View](/en/documents/product-information/cresemba-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-758)
+[Other languages (24)](#file-language-dropdown-165)
 
 български (BG) (454.93 KB - PDF)
 
@@ -727,7 +729,7 @@ English (EN) (25.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cresemba-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-989)
+[Other languages (24)](#file-language-dropdown-688)
 
 български (BG) (28.61 KB - PDF)
 

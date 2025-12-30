@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:07:49
+document_datetime: 2025-12-29 07:23:15
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bextra.html
 document_name: bextra.html
 version: success
-processing_time: 0.042905
-conversion_datetime: 2025-12-29 19:57:30.358872
+processing_time: 0.0376901
+conversion_datetime: 2025-12-30 22:48:10.801705
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-valdecoxib
+valdecoxib Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

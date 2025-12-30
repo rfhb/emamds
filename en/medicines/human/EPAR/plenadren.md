@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:01:04
+document_datetime: 2025-12-29 13:05:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/plenadren.html
 document_name: plenadren.html
 version: success
-processing_time: 0.1085607
-conversion_datetime: 2025-12-27 19:27:24.937313
+processing_time: 0.1085652
+conversion_datetime: 2025-12-30 22:12:58.596039
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 hydrocortisone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (78.02 KB - PDF)
 
 [View](/en/documents/overview/plenadren-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-913)
+[Other languages (22)](#file-language-dropdown-861)
 
 български (BG) (103.28 KB - PDF)
 
@@ -399,7 +401,7 @@ English (EN) (329.55 KB - PDF)
 
 [View](/en/documents/product-information/plenadren-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-25)
+[Other languages (24)](#file-language-dropdown-282)
 
 български (BG) (308.44 KB - PDF)
 
@@ -715,7 +717,7 @@ English (EN) (16.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/plenadren-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-138)
+[Other languages (24)](#file-language-dropdown-552)
 
 български (BG) (36.01 KB - PDF)
 

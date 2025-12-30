@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:58:23
+document_datetime: 2025-12-29 12:04:07
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pecfent.html
 document_name: pecfent.html
 version: success
-processing_time: 0.1462523
-conversion_datetime: 2025-12-26 20:34:59.696774
+processing_time: 0.1304404
+conversion_datetime: 2025-12-30 11:48:37.360952
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 fentanyl Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (84.16 KB - PDF)
 
 [View](/en/documents/overview/pecfent-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-969)
+[Other languages (22)](#file-language-dropdown-610)
 
 български (BG) (138.33 KB - PDF)
 
@@ -397,7 +399,7 @@ English (EN) (832.97 KB - PDF)
 
 [View](/en/documents/product-information/pecfent-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-318)
+[Other languages (24)](#file-language-dropdown-43)
 
 български (BG) (787.16 KB - PDF)
 
@@ -713,7 +715,7 @@ English (EN) (34.05 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pecfent-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-616)
+[Other languages (24)](#file-language-dropdown-637)
 
 български (BG) (65.53 KB - PDF)
 
@@ -1013,7 +1015,7 @@ English (EN) (18.6 KB - PDF)
 
 [View](/en/documents/conditions-member-states/pecfent-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-595)
+[Other languages (21)](#file-language-dropdown-962)
 
 български (BG) (88.11 KB - PDF)
 

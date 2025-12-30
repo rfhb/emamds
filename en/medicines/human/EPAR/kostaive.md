@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:13:02
+document_datetime: 2025-12-29 09:39:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kostaive.html
 document_name: kostaive.html
 version: success
-processing_time: 0.1065126
-conversion_datetime: 2025-12-25 10:01:34.929216
+processing_time: 0.1079702
+conversion_datetime: 2025-12-30 12:06:31.549839
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 zapomeran Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -157,7 +159,7 @@ English (EN) (138.61 KB - PDF)
 
 [View](/en/documents/overview/kostaive-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-415)
+[Other languages (22)](#file-language-dropdown-874)
 
 български (BG) (146.91 KB - PDF)
 
@@ -355,7 +357,7 @@ English (EN) (863.97 KB - PDF)
 
 [View](/en/documents/product-information/kostaive-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-135)
+[Other languages (24)](#file-language-dropdown-87)
 
 български (BG) (616.84 KB - PDF)
 
@@ -669,7 +671,7 @@ English (EN) (51.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kostaive-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-659)
+[Other languages (24)](#file-language-dropdown-281)
 
 български (BG) (57.93 KB - PDF)
 

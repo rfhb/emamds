@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:29:02
+document_datetime: 2025-12-29 08:13:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/brineura.html
 document_name: brineura.html
 version: success
-processing_time: 0.1238916
-conversion_datetime: 2025-12-24 02:02:08.903042
+processing_time: 0.1140262
+conversion_datetime: 2025-12-30 02:59:13.578828
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 cerliponase alfa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -125,7 +127,7 @@ English (EN) (78.76 KB - PDF)
 
 [View](/en/documents/overview/brineura-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-326)
+[Other languages (22)](#file-language-dropdown-839)
 
 български (BG) (120.73 KB - PDF)
 
@@ -411,7 +413,7 @@ English (EN) (514.35 KB - PDF)
 
 [View](/en/documents/product-information/brineura-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-971)
+[Other languages (24)](#file-language-dropdown-145)
 
 български (BG) (608.13 KB - PDF)
 
@@ -727,7 +729,7 @@ English (EN) (6.6 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/brineura-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-408)
+[Other languages (24)](#file-language-dropdown-424)
 
 български (BG) (60 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:25:57
+document_datetime: 2025-12-29 11:42:38
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/selincro.html
 document_name: selincro.html
 version: success
-processing_time: 0.1161214
-conversion_datetime: 2025-12-28 10:34:48.81854
+processing_time: 0.1113312
+conversion_datetime: 2025-12-30 01:56:08.283883
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 nalmefene Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +124,7 @@ English (EN) (77.4 KB - PDF)
 
 [View](/en/documents/overview/selincro-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-150)
+[Other languages (21)](#file-language-dropdown-84)
 
 български (BG) (136.39 KB - PDF)
 
@@ -388,7 +390,7 @@ English (EN) (403.16 KB - PDF)
 
 [View](/en/documents/product-information/selincro-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-854)
+[Other languages (24)](#file-language-dropdown-885)
 
 български (BG) (446.58 KB - PDF)
 
@@ -704,7 +706,7 @@ English (EN) (23.92 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/selincro-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-710)
+[Other languages (24)](#file-language-dropdown-992)
 
 български (BG) (25.69 KB - PDF)
 

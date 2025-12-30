@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:14:15
+document_datetime: 2025-12-29 07:03:28
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pioglitazone-krka.html
 document_name: pioglitazone-krka.html
 version: success
-processing_time: 0.106115
-conversion_datetime: 2025-12-26 13:25:32.556324
+processing_time: 0.1164098
+conversion_datetime: 2025-12-30 01:31:24.902393
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 pioglitazone Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -60,7 +62,7 @@ English (EN) (495.72 KB - PDF)
 
 [View](/en/documents/overview/pioglitazone-krka-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-522)
+[Other languages (21)](#file-language-dropdown-690)
 
 български (BG) (648.45 KB - PDF)
 
@@ -326,7 +328,7 @@ English (EN) (860.68 KB - PDF)
 
 [View](/en/documents/product-information/pioglitazone-krka-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-506)
+[Other languages (24)](#file-language-dropdown-281)
 
 български (BG) (2.39 MB - PDF)
 
@@ -642,7 +644,7 @@ English (EN) (463.76 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pioglitazone-krka-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-944)
+[Other languages (23)](#file-language-dropdown-219)
 
 български (BG) (534.89 KB - PDF)
 

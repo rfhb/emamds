@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:19:07
+document_datetime: 2025-12-29 09:23:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/teriparatide-sun.html
 document_name: teriparatide-sun.html
 version: success
-processing_time: 0.1202093
-conversion_datetime: 2025-12-24 19:17:38.28992
+processing_time: 0.1214642
+conversion_datetime: 2025-12-30 08:02:02.150361
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 teriparatide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (120.42 KB - PDF)
 
 [View](/en/documents/overview/teriparatide-sun-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-143)
+[Other languages (22)](#file-language-dropdown-299)
 
 български (BG) (144.84 KB - PDF)
 
@@ -306,7 +308,7 @@ English (EN) (485.27 KB - PDF)
 
 [View](/en/documents/product-information/teriparatide-sun-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-384)
+[Other languages (24)](#file-language-dropdown-432)
 
 български (BG) (639.96 KB - PDF)
 
@@ -620,7 +622,7 @@ English (EN) (41.6 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/teriparatide-sun-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-797)
+[Other languages (24)](#file-language-dropdown-620)
 
 български (BG) (49.43 KB - PDF)
 
@@ -913,7 +915,7 @@ English (EN) (333.91 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/teriparatide-sun-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-766)
+[Other languages (24)](#file-language-dropdown-361)
 
 български (BG) (504.58 KB - DOCX)
 

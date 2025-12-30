@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:05:02
+document_datetime: 2025-12-29 07:23:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rivastigmine-teva.html
 document_name: rivastigmine-teva.html
 version: success
-processing_time: 0.1054972
-conversion_datetime: 2025-12-28 12:36:04.950179
+processing_time: 0.1041596
+conversion_datetime: 2025-12-30 09:45:46.576309
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-rivastigmine
+rivastigmine Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +60,7 @@ English (EN) (261.34 KB - PDF)
 
 [View](/en/documents/overview/rivastigmine-teva-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-438)
+[Other languages (21)](#file-language-dropdown-541)
 
 български (BG) (423.44 KB - PDF)
 
@@ -330,7 +326,7 @@ English (EN) (2.28 MB - PDF)
 
 [View](/en/documents/product-information/rivastigmine-teva-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-496)
+[Other languages (23)](#file-language-dropdown-429)
 
 български (BG) (4.15 MB - PDF)
 
@@ -634,7 +630,7 @@ English (EN) (228.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rivastigmine-teva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-720)
+[Other languages (23)](#file-language-dropdown-379)
 
 български (BG) (315.28 KB - PDF)
 

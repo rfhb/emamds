@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:20:33
+document_datetime: 2025-12-29 07:25:37
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nyxoid.html
 document_name: nyxoid.html
 version: success
-processing_time: 0.1211171
-conversion_datetime: 2025-12-27 23:24:01.876786
+processing_time: 0.1249426
+conversion_datetime: 2025-12-30 01:18:59.340331
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 naloxone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (74.61 KB - PDF)
 
 [View](/en/documents/overview/nyxoid-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-88)
+[Other languages (21)](#file-language-dropdown-782)
 
 български (BG) (101.25 KB - PDF)
 
@@ -385,7 +387,7 @@ English (EN) (322.74 KB - PDF)
 
 [View](/en/documents/product-information/nyxoid-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-81)
+[Other languages (24)](#file-language-dropdown-84)
 
 български (BG) (417.32 KB - PDF)
 
@@ -701,7 +703,7 @@ English (EN) (43.56 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nyxoid-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-596)
+[Other languages (24)](#file-language-dropdown-27)
 
 български (BG) (71.45 KB - PDF)
 
@@ -1089,7 +1091,7 @@ English (EN) (557.88 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/nyxoid-epar-product-information-tracked-changes_en.docx-0)
 
-[Other languages (24)](#file-language-dropdown-545)
+[Other languages (24)](#file-language-dropdown-753)
 
 български (BG) (554.77 KB - DOCX)
 

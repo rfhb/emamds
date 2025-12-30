@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 11:38:27
+document_datetime: 2025-12-29 12:51:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kolbam.html
 document_name: kolbam.html
 version: success
-processing_time: 0.110389
-conversion_datetime: 2025-12-28 12:51:50.725674
+processing_time: 0.0981873
+conversion_datetime: 2025-12-30 11:57:51.663751
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-cholic acid
+cholic acid Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (704.73 KB - PDF)
 
 [View](/en/documents/overview/kolbam-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-535)
+[Other languages (22)](#file-language-dropdown-437)
 
 български (BG) (729.94 KB - PDF)
 
@@ -354,7 +350,7 @@ English (EN) (1.31 MB - PDF)
 
 [View](/en/documents/product-information/kolbam-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-466)
+[Other languages (24)](#file-language-dropdown-782)
 
 български (BG) (2.23 MB - PDF)
 
@@ -670,7 +666,7 @@ English (EN) (598.76 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kolbam-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-184)
+[Other languages (24)](#file-language-dropdown-694)
 
 български (BG) (642.4 KB - PDF)
 

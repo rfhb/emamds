@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:26:26
+document_datetime: 2025-12-29 10:10:59
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/garsun.html
 document_name: garsun.html
 version: success
-processing_time: 0.0662253
-conversion_datetime: 2025-12-27 21:49:08.547613
+processing_time: 0.0682374
+conversion_datetime: 2025-12-30 08:29:09.672513
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 artesunate Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -98,7 +100,7 @@ English (EN) (145.05 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-application-marketing-authorisation-garsun-artesunate_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-231)
+[Other languages (22)](#file-language-dropdown-387)
 
 български (BG) (166.18 KB - PDF)
 

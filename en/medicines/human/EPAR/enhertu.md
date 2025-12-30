@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-09 23:09:05
+document_datetime: 2025-12-29 07:13:57
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/enhertu.html
 document_name: enhertu.html
 version: success
-processing_time: 0.1389086
-conversion_datetime: 2025-12-24 16:39:33.855898
+processing_time: 0.1424797
+conversion_datetime: 2025-12-30 20:47:28.782617
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 trastuzumab deruxtecan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -163,7 +165,7 @@ English (EN) (167.64 KB - PDF)
 
 [View](/en/documents/overview/enhertu-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-370)
+[Other languages (22)](#file-language-dropdown-375)
 
 български (BG) (192.57 KB - PDF)
 
@@ -451,7 +453,7 @@ English (EN) (719.12 KB - PDF)
 
 [View](/en/documents/product-information/enhertu-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-854)
+[Other languages (24)](#file-language-dropdown-431)
 
 български (BG) (1.44 MB - PDF)
 
@@ -765,7 +767,7 @@ English (EN) (40.72 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/enhertu-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-69)
+[Other languages (24)](#file-language-dropdown-228)
 
 български (BG) (57.76 KB - PDF)
 
@@ -1194,7 +1196,7 @@ English (EN) (1.03 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/enhertu-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-193)
+[Other languages (24)](#file-language-dropdown-891)
 
 български (BG) (871.58 KB - DOCX)
 

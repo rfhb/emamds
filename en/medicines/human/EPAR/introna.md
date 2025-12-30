@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:05:16
+document_datetime: 2025-12-29 14:33:11
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/introna.html
 document_name: introna.html
 version: success
-processing_time: 0.1093364
-conversion_datetime: 2025-12-25 00:02:49.885286
+processing_time: 0.1091322
+conversion_datetime: 2025-12-30 11:10:24.259126
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-interferon alfa-2b
+interferon alfa-2b Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (707.66 KB - PDF)
 
 [View](/en/documents/overview/introna-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-631)
+[Other languages (21)](#file-language-dropdown-992)
 
 български (BG) (814.92 KB - PDF)
 
@@ -332,7 +328,7 @@ English (EN) (4.82 MB - PDF)
 
 [View](/en/documents/product-information/introna-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-492)
+[Other languages (24)](#file-language-dropdown-638)
 
 български (BG) (9.29 MB - PDF)
 
@@ -648,7 +644,7 @@ English (EN) (685.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/introna-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-992)
+[Other languages (24)](#file-language-dropdown-141)
 
 български (BG) (792.03 KB - PDF)
 

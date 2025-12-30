@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:49:15
+document_datetime: 2025-12-29 09:45:14
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/micardis.html
 document_name: micardis.html
 version: success
-processing_time: 0.1411091
-conversion_datetime: 2025-12-28 19:35:18.714835
+processing_time: 0.138142
+conversion_datetime: 2025-12-30 09:32:53.214823
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 telmisartan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (77.12 KB - PDF)
 
 [View](/en/documents/overview/micardis-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-391)
+[Other languages (22)](#file-language-dropdown-178)
 
 български (BG) (109.19 KB - PDF)
 
@@ -404,7 +406,7 @@ English (EN) (674.11 KB - PDF)
 
 [View](/en/documents/product-information/micardis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-3)
+[Other languages (24)](#file-language-dropdown-353)
 
 български (BG) (803.4 KB - PDF)
 
@@ -720,7 +722,7 @@ English (EN) (30.75 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/micardis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-712)
+[Other languages (24)](#file-language-dropdown-803)
 
 български (BG) (27.09 KB - PDF)
 
@@ -1085,7 +1087,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/micardis-h-c-209-a31-0099-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommend_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-564)
+[Other languages (22)](#file-language-dropdown-639)
 
 български (BG) (87.49 KB - PDF)
 

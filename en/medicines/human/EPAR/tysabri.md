@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:03:11
+document_datetime: 2025-12-29 11:33:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tysabri.html
 document_name: tysabri.html
 version: success
-processing_time: 0.177427
-conversion_datetime: 2025-12-27 19:33:54.682481
+processing_time: 0.1797348
+conversion_datetime: 2025-12-30 11:52:11.733369
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 natalizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -125,7 +127,7 @@ English (EN) (135.59 KB - PDF)
 
 [View](/en/documents/overview/tysabri-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-10)
+[Other languages (22)](#file-language-dropdown-148)
 
 български (BG) (148.94 KB - PDF)
 
@@ -413,7 +415,7 @@ English (EN) (1015.79 KB - PDF)
 
 [View](/en/documents/product-information/tysabri-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-674)
+[Other languages (24)](#file-language-dropdown-16)
 
 български (BG) (1.16 MB - PDF)
 
@@ -729,7 +731,7 @@ English (EN) (80.35 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tysabri-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-593)
+[Other languages (24)](#file-language-dropdown-136)
 
 български (BG) (96.01 KB - PDF)
 
@@ -1029,7 +1031,7 @@ English (EN) (43.8 KB - PDF)
 
 [View](/en/documents/conditions-member-states/tysabri-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-59)
+[Other languages (23)](#file-language-dropdown-317)
 
 български (BG) (146.24 KB - PDF)
 
@@ -1452,7 +1454,7 @@ English (EN) (72.27 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/tysabri-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-687)
+[Other languages (22)](#file-language-dropdown-411)
 
 български (BG) (100.06 KB - PDF)
 
@@ -1844,7 +1846,7 @@ English (EN) (1.34 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/tysabri-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-503)
+[Other languages (24)](#file-language-dropdown-885)
 
 български (BG) (876.28 KB - DOCX)
 

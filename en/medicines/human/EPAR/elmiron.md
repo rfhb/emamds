@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:37:59
+document_datetime: 2025-12-29 13:21:26
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/elmiron.html
 document_name: elmiron.html
 version: success
-processing_time: 0.1109898
-conversion_datetime: 2025-12-24 18:23:19.22501
+processing_time: 0.1122432
+conversion_datetime: 2025-12-30 08:18:13.627334
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pentosan polysulfate sodium Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +116,7 @@ English (EN) (74.72 KB - PDF)
 
 [View](/en/documents/overview/elmiron-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-143)
+[Other languages (22)](#file-language-dropdown-130)
 
 български (BG) (98.64 KB - PDF)
 
@@ -392,7 +394,7 @@ English (EN) (197.67 KB - PDF)
 
 [View](/en/documents/product-information/elmiron-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-165)
+[Other languages (24)](#file-language-dropdown-20)
 
 български (BG) (304.39 KB - PDF)
 
@@ -708,7 +710,7 @@ English (EN) (47.74 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/elmiron-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-516)
+[Other languages (24)](#file-language-dropdown-123)
 
 български (BG) (37.05 KB - PDF)
 

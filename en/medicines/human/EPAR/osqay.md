@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:30:20
+document_datetime: 2025-12-29 12:48:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/osqay.html
 document_name: osqay.html
 version: success
-processing_time: 0.0350714
-conversion_datetime: 2025-12-24 00:44:07.149303
+processing_time: 0.0311355
+conversion_datetime: 2025-12-30 12:55:30.251345
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 EMA has issued an opinion on this medicine
 
 denosumab Medicine Human Opinion
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

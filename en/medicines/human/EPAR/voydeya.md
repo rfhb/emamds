@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:51:50
+document_datetime: 2025-12-29 08:06:24
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/voydeya.html
 document_name: voydeya.html
 version: success
-processing_time: 0.1099947
-conversion_datetime: 2025-12-27 20:53:45.615926
+processing_time: 0.1317827
+conversion_datetime: 2025-12-30 21:01:19.150273
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 danicopan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (120.14 KB - PDF)
 
 [View](/en/documents/overview/voydeya-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-544)
+[Other languages (22)](#file-language-dropdown-809)
 
 български (BG) (142.63 KB - PDF)
 
@@ -304,7 +306,7 @@ English (EN) (504.46 KB - PDF)
 
 [View](/en/documents/product-information/voydeya-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-498)
+[Other languages (24)](#file-language-dropdown-116)
 
 български (BG) (576.43 KB - PDF)
 
@@ -618,7 +620,7 @@ English (EN) (55.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/voydeya-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-687)
+[Other languages (24)](#file-language-dropdown-10)
 
 български (BG) (75.2 KB - PDF)
 
@@ -946,6 +948,7 @@ English (EN) (131.24 KB - PDF)
 #### More information on Voydeya
 
 - [EU/3/17/1946 - orphan designation for treatment of paroxysmal nocturnal haemoglobinuria](/en/medicines/human/orphan-designations/eu-3-17-1946)
+- [An Observational Cohort Study to Assess Long-Term Safety of Danicopan Add-on Therapy in Patients with Paroxysmal Nocturnal Hemoglobinuria: Analysis of IPIG-Registry Data - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000876)
 
 **This page was last updated on** 08/07/2025
 

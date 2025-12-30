@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:12:43
+document_datetime: 2025-12-29 14:36:16
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kromeya.html
 document_name: kromeya.html
 version: success
-processing_time: 0.1118812
-conversion_datetime: 2025-12-27 20:28:35.848495
+processing_time: 0.3950965
+conversion_datetime: 2025-12-30 09:37:05.868742
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 adalimumab Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +66,7 @@ English (EN) (730.29 KB - PDF)
 
 [View](/en/documents/overview/kromeya-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-108)
+[Other languages (22)](#file-language-dropdown-465)
 
 български (BG) (821.53 KB - PDF)
 
@@ -350,7 +352,7 @@ English (EN) (6.15 MB - PDF)
 
 [View](/en/documents/product-information/kromeya-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-718)
+[Other languages (24)](#file-language-dropdown-258)
 
 български (BG) (11.03 MB - PDF)
 
@@ -666,7 +668,7 @@ English (EN) (626.01 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kromeya-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-929)
+[Other languages (24)](#file-language-dropdown-723)
 
 български (BG) (678.4 KB - PDF)
 

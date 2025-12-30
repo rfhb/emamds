@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:06:46
+document_datetime: 2025-12-29 14:36:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/evarrest.html
 document_name: evarrest.html
 version: success
-processing_time: 0.1056691
-conversion_datetime: 2025-12-28 11:00:47.854084
+processing_time: 0.1114754
+conversion_datetime: 2025-12-30 20:46:34.692424
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-human fibrinogen / human thrombin
+human fibrinogen / human thrombin Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (514.84 KB - PDF)
 
 [View](/en/documents/overview/evarrest-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-216)
+[Other languages (22)](#file-language-dropdown-159)
 
 български (BG) (597.14 KB - PDF)
 
@@ -345,7 +341,7 @@ English (EN) (861.4 KB - PDF)
 
 [View](/en/documents/product-information/evarrest-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-915)
+[Other languages (24)](#file-language-dropdown-313)
 
 български (BG) (1.55 MB - PDF)
 
@@ -661,7 +657,7 @@ English (EN) (456.24 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/evarrest-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-422)
+[Other languages (24)](#file-language-dropdown-857)
 
 български (BG) (496.48 KB - PDF)
 

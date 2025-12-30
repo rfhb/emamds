@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:15:17
+document_datetime: 2025-12-29 12:09:25
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/invega.html
 document_name: invega.html
 version: success
-processing_time: 0.2924143
-conversion_datetime: 2025-12-24 01:09:24.375118
+processing_time: 0.1208115
+conversion_datetime: 2025-12-30 09:37:14.750625
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 paliperidone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +121,7 @@ English (EN) (80.9 KB - PDF)
 
 [View](/en/documents/overview/invega-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-681)
+[Other languages (22)](#file-language-dropdown-456)
 
 български (BG) (107.17 KB - PDF)
 
@@ -405,7 +407,7 @@ English (EN) (290.81 KB - PDF)
 
 [View](/en/documents/product-information/invega-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-984)
+[Other languages (24)](#file-language-dropdown-515)
 
 български (BG) (343.6 KB - PDF)
 
@@ -721,7 +723,7 @@ English (EN) (56.96 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/invega-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-972)
+[Other languages (24)](#file-language-dropdown-134)
 
 български (BG) (33.39 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:35:30
+document_datetime: 2025-12-29 13:57:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/prometax.html
 document_name: prometax.html
 version: success
-processing_time: 0.1181813
-conversion_datetime: 2025-12-26 17:27:27.826599
+processing_time: 0.1157393
+conversion_datetime: 2025-12-30 21:09:46.805867
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 rivastigmine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (79.75 KB - PDF)
 
 [View](/en/documents/overview/prometax-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-345)
+[Other languages (21)](#file-language-dropdown-396)
 
 български (BG) (130.2 KB - PDF)
 
@@ -383,7 +385,7 @@ English (EN) (1.23 MB - PDF)
 
 [View](/en/documents/product-information/prometax-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-228)
+[Other languages (24)](#file-language-dropdown-702)
 
 български (BG) (1.49 MB - PDF)
 
@@ -699,7 +701,7 @@ English (EN) (74.32 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/prometax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-727)
+[Other languages (24)](#file-language-dropdown-686)
 
 български (BG) (93.12 KB - PDF)
 

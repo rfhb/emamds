@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 13:10:50
+document_datetime: 2025-12-29 14:33:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/helixate-nexgen.html
 document_name: helixate-nexgen.html
 version: success
-processing_time: 0.1183913
-conversion_datetime: 2025-12-26 13:02:37.854068
+processing_time: 0.1283608
+conversion_datetime: 2025-12-30 03:33:49.749918
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-octocog alfa
+octocog alfa Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (674.79 KB - PDF)
 
 [View](/en/documents/overview/helixate-nexgen-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-93)
+[Other languages (21)](#file-language-dropdown-636)
 
 български (BG) (768.2 KB - PDF)
 
@@ -333,7 +329,7 @@ English (EN) (934.15 KB - PDF)
 
 [View](/en/documents/product-information/helixate-nexgen-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-518)
+[Other languages (24)](#file-language-dropdown-828)
 
 български (BG) (2.17 MB - PDF)
 
@@ -649,7 +645,7 @@ English (EN) (584.47 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/helixate-nexgen-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-960)
+[Other languages (24)](#file-language-dropdown-46)
 
 български (BG) (625.66 KB - PDF)
 
@@ -1005,7 +1001,7 @@ English (EN) (651.08 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/helixate-nexgen-h-c-a20-143-epar-scientific-conclusions-and-grounds-recommending-variation-terms-marketing-authorisation_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-847)
+[Other languages (22)](#file-language-dropdown-328)
 
 български (BG) (844.19 KB - PDF)
 

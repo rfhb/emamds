@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:31:24
+document_datetime: 2025-12-29 11:28:49
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xenical.html
 document_name: xenical.html
 version: success
-processing_time: 0.1336685
-conversion_datetime: 2025-12-26 20:27:22.293923
+processing_time: 0.13432
+conversion_datetime: 2025-12-30 20:20:54.354661
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 orlistat Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (81.48 KB - PDF)
 
 [View](/en/documents/overview/xenical-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-868)
+[Other languages (21)](#file-language-dropdown-605)
 
 български (BG) (175.16 KB - PDF)
 
@@ -373,7 +375,7 @@ English (EN) (362.94 KB - PDF)
 
 [View](/en/documents/product-information/xenical-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-195)
+[Other languages (24)](#file-language-dropdown-92)
 
 български (BG) (499.52 KB - PDF)
 
@@ -689,7 +691,7 @@ English (EN) (86.91 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xenical-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-361)
+[Other languages (24)](#file-language-dropdown-843)
 
 български (BG) (104.35 KB - PDF)
 
@@ -1149,7 +1151,7 @@ English (EN) (80.64 KB - PDF)
 
 [View](/en/documents/referral/questions-and-answers-review-orlistat-containing-medicines_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-829)
+[Other languages (21)](#file-language-dropdown-333)
 
 български (BG) (118.59 KB - PDF)
 

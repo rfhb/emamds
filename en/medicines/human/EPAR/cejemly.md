@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:10:32
+document_datetime: 2025-12-29 12:13:06
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cejemly.html
 document_name: cejemly.html
 version: success
-processing_time: 0.1113499
-conversion_datetime: 2025-12-24 21:24:59.644958
+processing_time: 0.1065566
+conversion_datetime: 2025-12-30 09:55:59.845648
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sugemalimab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (151.62 KB - PDF)
 
 [View](/en/documents/overview/cejemly-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-329)
+[Other languages (22)](#file-language-dropdown-33)
 
 български (BG) (179.48 KB - PDF)
 
@@ -404,7 +406,7 @@ English (EN) (1.12 MB - PDF)
 
 [View](/en/documents/product-information/cejemly-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-343)
+[Other languages (24)](#file-language-dropdown-599)
 
 български (BG) (973.47 KB - PDF)
 
@@ -718,7 +720,7 @@ English (EN) (42.54 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cejemly-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-918)
+[Other languages (24)](#file-language-dropdown-675)
 
 български (BG) (45.42 KB - PDF)
 

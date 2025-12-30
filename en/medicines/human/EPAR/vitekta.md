@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:26:27
+document_datetime: 2025-12-29 14:35:21
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vitekta.html
 document_name: vitekta.html
 version: success
-processing_time: 0.1072873
-conversion_datetime: 2025-12-27 20:48:22.774874
+processing_time: 0.0976426
+conversion_datetime: 2025-12-30 12:57:23.701829
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 elvitegravir Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -62,7 +64,7 @@ English (EN) (556.37 KB - PDF)
 
 [View](/en/documents/overview/vitekta-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-407)
+[Other languages (22)](#file-language-dropdown-528)
 
 български (BG) (622.96 KB - PDF)
 
@@ -340,7 +342,7 @@ English (EN) (1.39 MB - PDF)
 
 [View](/en/documents/product-information/vitekta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-543)
+[Other languages (24)](#file-language-dropdown-835)
 
 български (BG) (3.82 MB - PDF)
 
@@ -656,7 +658,7 @@ English (EN) (474.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vitekta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-671)
+[Other languages (24)](#file-language-dropdown-583)
 
 български (BG) (962.22 KB - PDF)
 

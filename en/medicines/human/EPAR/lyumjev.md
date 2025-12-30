@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:29:44
+document_datetime: 2025-12-29 11:45:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lyumjev.html
 document_name: lyumjev.html
 version: success
-processing_time: 0.0856269
-conversion_datetime: 2025-12-24 03:19:57.335473
+processing_time: 0.1050922
+conversion_datetime: 2025-12-30 12:59:15.369463
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin lispro Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (133.53 KB - PDF)
 
 [View](/en/documents/overview/lyumjev-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-29)
+[Other languages (22)](#file-language-dropdown-151)
 
 български (BG) (147.27 KB - PDF)
 
@@ -403,7 +405,7 @@ English (EN) (2.41 MB - PDF)
 
 [View](/en/documents/product-information/lyumjev-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-750)
+[Other languages (24)](#file-language-dropdown-618)
 
 български (BG) (2.93 MB - PDF)
 
@@ -719,7 +721,7 @@ English (EN) (60.01 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lyumjev-previously-liumjev-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-338)
+[Other languages (24)](#file-language-dropdown-844)
 
 български (BG) (147.16 KB - PDF)
 

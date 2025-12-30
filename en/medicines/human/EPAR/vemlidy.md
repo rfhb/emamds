@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:33:59
+document_datetime: 2025-12-29 12:29:42
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vemlidy.html
 document_name: vemlidy.html
 version: success
-processing_time: 0.106307
-conversion_datetime: 2025-12-28 02:40:47.589955
+processing_time: 0.315659
+conversion_datetime: 2025-12-30 22:18:26.795514
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tenofovir alafenamide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (78.83 KB - PDF)
 
 [View](/en/documents/overview/vemlidy-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-567)
+[Other languages (22)](#file-language-dropdown-605)
 
 български (BG) (98.33 KB - PDF)
 
@@ -397,7 +399,7 @@ English (EN) (595.53 KB - PDF)
 
 [View](/en/documents/product-information/vemlidy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-249)
+[Other languages (24)](#file-language-dropdown-563)
 
 български (BG) (760.83 KB - PDF)
 
@@ -713,7 +715,7 @@ English (EN) (47.91 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vemlidy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-74)
+[Other languages (24)](#file-language-dropdown-211)
 
 български (BG) (52.16 KB - PDF)
 

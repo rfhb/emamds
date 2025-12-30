@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:01
+document_datetime: 2025-12-29 14:33:22
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/levviax.html
 document_name: levviax.html
 version: success
-processing_time: 0.0996229
-conversion_datetime: 2025-12-26 19:21:20.962967
+processing_time: 0.2445066
+conversion_datetime: 2025-12-30 12:05:43.119816
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-telithromycin
+telithromycin Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +60,7 @@ English (EN) (351.7 KB - PDF)
 
 [View](/en/documents/overview/levviax-epar-summary-public_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-409)
+[Other languages (18)](#file-language-dropdown-916)
 
 español (ES) (354.3 KB - PDF)
 
@@ -294,7 +290,7 @@ English (EN) (450.33 KB - PDF)
 
 [View](/en/documents/product-information/levviax-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-499)
+[Other languages (21)](#file-language-dropdown-101)
 
 български (BG) (671.09 KB - PDF)
 
@@ -574,7 +570,7 @@ English (EN) (272.97 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/levviax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-248)
+[Other languages (20)](#file-language-dropdown-595)
 
 български (BG) (556.7 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-13 23:50:11
+document_datetime: 2025-12-29 14:47:37
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/adcetris.html
 document_name: adcetris.html
 version: success
-processing_time: 0.1407565
-conversion_datetime: 2025-12-28 11:35:19.752667
+processing_time: 0.1435804
+conversion_datetime: 2025-12-30 22:38:23.625133
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 brentuximab vedotin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -145,7 +147,7 @@ English (EN) (228.13 KB - PDF)
 
 [View](/en/documents/overview/adcetris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-739)
+[Other languages (22)](#file-language-dropdown-136)
 
 български (BG) (256.84 KB - PDF)
 
@@ -433,7 +435,7 @@ English (EN) (1.01 MB - PDF)
 
 [View](/en/documents/product-information/adcetris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-643)
+[Other languages (24)](#file-language-dropdown-253)
 
 български (BG) (1.38 MB - PDF)
 
@@ -749,7 +751,7 @@ English (EN) (9.99 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/adcetris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-982)
+[Other languages (24)](#file-language-dropdown-949)
 
 български (BG) (40.92 KB - PDF)
 

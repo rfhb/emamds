@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:49:46
+document_datetime: 2025-12-29 12:39:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lutathera.html
 document_name: lutathera.html
 version: success
-processing_time: 0.1300835
-conversion_datetime: 2025-12-24 22:30:27.598825
+processing_time: 0.1324529
+conversion_datetime: 2025-12-30 08:18:22.479233
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lutetium (177Lu) oxodotreotide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (83.55 KB - PDF)
 
 [View](/en/documents/overview/lutathera-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-712)
+[Other languages (22)](#file-language-dropdown-933)
 
 български (BG) (108.98 KB - PDF)
 
@@ -394,7 +396,7 @@ English (EN) (1.02 MB - PDF)
 
 [View](/en/documents/product-information/lutathera-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-370)
+[Other languages (24)](#file-language-dropdown-162)
 
 български (BG) (1.68 MB - PDF)
 
@@ -710,7 +712,7 @@ English (EN) (46.16 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lutathera-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-851)
+[Other languages (24)](#file-language-dropdown-258)
 
 български (BG) (50.72 KB - PDF)
 
@@ -1136,7 +1138,7 @@ English (EN) (142.62 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-answer-outcome-assessment-use-lutathera-treatment-gastro-entero-pancreatic-neuroendocrine-tumours-adolescents_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-140)
+[Other languages (22)](#file-language-dropdown-733)
 
 български (BG) (167.01 KB - PDF)
 

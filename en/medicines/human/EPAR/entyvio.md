@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 07:25:21
+document_datetime: 2025-12-29 11:35:28
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/entyvio.html
 document_name: entyvio.html
 version: success
-processing_time: 0.1255283
-conversion_datetime: 2025-12-27 17:16:16.596774
+processing_time: 0.1322597
+conversion_datetime: 2025-12-30 11:20:45.69933
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -131,7 +131,7 @@ English (EN) (129.94 KB - PDF)
 
 [View](/en/documents/overview/entyvio-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-480)
+[Other languages (22)](#file-language-dropdown-784)
 
 български (BG) (155.39 KB - PDF)
 
@@ -421,7 +421,7 @@ English (EN) (923.93 KB - PDF)
 
 [View](/en/documents/product-information/entyvio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-900)
+[Other languages (24)](#file-language-dropdown-777)
 
 български (BG) (1022.75 KB - PDF)
 
@@ -737,7 +737,7 @@ English (EN) (45.44 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/entyvio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-305)
+[Other languages (24)](#file-language-dropdown-619)
 
 български (BG) (77.75 KB - PDF)
 

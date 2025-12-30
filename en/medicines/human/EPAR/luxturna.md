@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:10:01
+document_datetime: 2025-12-29 09:54:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/luxturna.html
 document_name: luxturna.html
 version: success
-processing_time: 0.1103807
-conversion_datetime: 2025-12-25 06:50:17.831097
+processing_time: 0.1114426
+conversion_datetime: 2025-12-30 01:44:08.574364
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 voretigene neparvovec Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (79.08 KB - PDF)
 
 [View](/en/documents/overview/luxturna-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-316)
+[Other languages (22)](#file-language-dropdown-843)
 
 български (BG) (104.73 KB - PDF)
 
@@ -310,7 +312,7 @@ English (EN) (499.83 KB - PDF)
 
 [View](/en/documents/product-information/luxturna-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-712)
+[Other languages (23)](#file-language-dropdown-101)
 
 български (BG) (598.38 KB - PDF)
 
@@ -612,7 +614,7 @@ English (EN) (82.97 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/luxturna-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-865)
+[Other languages (24)](#file-language-dropdown-980)
 
 български (BG) (91.06 KB - PDF)
 

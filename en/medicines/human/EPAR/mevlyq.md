@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 12:56:48
+document_datetime: 2025-12-29 14:36:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mevlyq.html
 document_name: mevlyq.html
 version: success
-processing_time: 0.1041944
-conversion_datetime: 2025-12-28 14:55:56.981245
+processing_time: 0.1081168
+conversion_datetime: 2025-12-30 10:50:22.168746
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-eribulin
+eribulin Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +109,7 @@ English (EN) (146.58 KB - PDF)
 
 [View](/en/documents/overview/mevlyq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-191)
+[Other languages (22)](#file-language-dropdown-349)
 
 български (BG) (166.99 KB - PDF)
 
@@ -311,7 +307,7 @@ English (EN) (531.23 KB - PDF)
 
 [View](/en/documents/product-information/mevlyq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-331)
+[Other languages (24)](#file-language-dropdown-984)
 
 български (BG) (934.51 KB - PDF)
 
@@ -625,7 +621,7 @@ English (EN) (52.16 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mevlyq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-180)
+[Other languages (24)](#file-language-dropdown-781)
 
 български (BG) (67.49 KB - PDF)
 

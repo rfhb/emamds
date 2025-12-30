@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 14:21:17
+document_datetime: 2025-12-29 14:34:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/repso.html
 document_name: repso.html
 version: success
-processing_time: 0.1203997
-conversion_datetime: 2025-12-25 00:09:58.676524
+processing_time: 0.1216184
+conversion_datetime: 2025-12-30 02:29:36.254956
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-leflunomide
+leflunomide Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (518.68 KB - PDF)
 
 [View](/en/documents/overview/repso-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-244)
+[Other languages (21)](#file-language-dropdown-701)
 
 български (BG) (659.32 KB - PDF)
 
@@ -332,7 +328,7 @@ English (EN) (994.53 KB - PDF)
 
 [View](/en/documents/product-information/repso-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-559)
+[Other languages (24)](#file-language-dropdown-637)
 
 български (BG) (2.12 MB - PDF)
 
@@ -648,7 +644,7 @@ English (EN) (495.26 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/repso-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-585)
+[Other languages (24)](#file-language-dropdown-84)
 
 български (BG) (540.85 KB - PDF)
 
@@ -948,7 +944,7 @@ English (EN) (475.77 KB - PDF)
 
 [View](/en/documents/conditions-member-states/repso-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-298)
+[Other languages (23)](#file-language-dropdown-754)
 
 български (BG) (582.9 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:33
+document_datetime: 2025-12-29 11:24:15
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trimbow.html
 document_name: trimbow.html
 version: success
-processing_time: 0.1190436
-conversion_datetime: 2025-12-27 09:00:14.819221
+processing_time: 0.1240627
+conversion_datetime: 2025-12-30 20:49:05.752801
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 beclometasone / formoterol / glycopyrronium bromide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +123,7 @@ English (EN) (132.54 KB - PDF)
 
 [View](/en/documents/overview/trimbow-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-345)
+[Other languages (22)](#file-language-dropdown-292)
 
 български (BG) (158.32 KB - PDF)
 
@@ -409,7 +411,7 @@ English (EN) (732.14 KB - PDF)
 
 [View](/en/documents/product-information/trimbow-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-798)
+[Other languages (24)](#file-language-dropdown-519)
 
 български (BG) (897.74 KB - PDF)
 
@@ -725,7 +727,7 @@ English (EN) (16.54 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/trimbow-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-418)
+[Other languages (24)](#file-language-dropdown-48)
 
 български (BG) (41.57 KB - PDF)
 

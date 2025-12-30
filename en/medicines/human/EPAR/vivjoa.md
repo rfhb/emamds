@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 07:02:27
+document_datetime: 2025-12-29 08:36:29
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vivjoa.html
 document_name: vivjoa.html
 version: success
-processing_time: 0.0678526
-conversion_datetime: 2025-12-26 17:42:58.744336
+processing_time: 0.05314
+conversion_datetime: 2025-12-30 12:27:59.012364
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 oteseconazole Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -99,7 +101,7 @@ English (EN) (151.86 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-application-marketing-authorisation-vivjoa-oteseconazole_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-471)
+[Other languages (22)](#file-language-dropdown-441)
 
 български (BG) (159.34 KB - PDF)
 

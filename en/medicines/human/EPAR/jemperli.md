@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:54:32
+document_datetime: 2025-12-29 10:52:18
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jemperli.html
 document_name: jemperli.html
 version: success
-processing_time: 0.1154956
-conversion_datetime: 2025-12-28 05:35:25.916015
+processing_time: 0.1174847
+conversion_datetime: 2025-12-30 13:14:25.696227
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 dostarlimab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +123,7 @@ English (EN) (117.86 KB - PDF)
 
 [View](/en/documents/overview/jemperli-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-498)
+[Other languages (22)](#file-language-dropdown-575)
 
 български (BG) (153.14 KB - PDF)
 
@@ -409,7 +411,7 @@ English (EN) (680.98 KB - PDF)
 
 [View](/en/documents/product-information/jemperli-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-520)
+[Other languages (24)](#file-language-dropdown-635)
 
 български (BG) (975.37 KB - PDF)
 
@@ -723,7 +725,7 @@ English (EN) (15.23 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/jemperli-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-638)
+[Other languages (24)](#file-language-dropdown-86)
 
 български (BG) (35.53 KB - PDF)
 

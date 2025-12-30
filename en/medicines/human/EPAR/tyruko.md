@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:03:27
+document_datetime: 2025-12-29 09:23:32
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tyruko.html
 document_name: tyruko.html
 version: success
-processing_time: 0.1050184
-conversion_datetime: 2025-12-26 13:00:29.217339
+processing_time: 0.1061354
+conversion_datetime: 2025-12-30 09:27:29.676201
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 natalizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +123,7 @@ English (EN) (135.61 KB - PDF)
 
 [View](/en/documents/overview/tyruko-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-489)
+[Other languages (22)](#file-language-dropdown-548)
 
 български (BG) (149.78 KB - PDF)
 
@@ -319,7 +321,7 @@ English (EN) (258.62 KB - PDF)
 
 [View](/en/documents/product-information/tyruko-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-372)
+[Other languages (24)](#file-language-dropdown-725)
 
 български (BG) (611.62 KB - PDF)
 
@@ -633,7 +635,7 @@ English (EN) (38.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tyruko-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-582)
+[Other languages (24)](#file-language-dropdown-763)
 
 български (BG) (59.8 KB - PDF)
 

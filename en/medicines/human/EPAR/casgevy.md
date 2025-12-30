@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:04:09
+document_datetime: 2025-12-29 12:21:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/casgevy.html
 document_name: casgevy.html
 version: success
-processing_time: 0.3612454
-conversion_datetime: 2025-12-25 06:20:31.181137
+processing_time: 0.1077038
+conversion_datetime: 2025-12-30 01:35:11.50667
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 exagamglogene autotemcel Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +122,7 @@ English (EN) (119.25 KB - PDF)
 
 [View](/en/documents/overview/casgevy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-933)
+[Other languages (22)](#file-language-dropdown-884)
 
 български (BG) (136.14 KB - PDF)
 
@@ -318,7 +320,7 @@ English (EN) (961.79 KB - PDF)
 
 [View](/en/documents/product-information/casgevy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-100)
+[Other languages (24)](#file-language-dropdown-118)
 
 български (BG) (1.12 MB - PDF)
 
@@ -632,7 +634,7 @@ English (EN) (69.75 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/casgevy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-43)
+[Other languages (24)](#file-language-dropdown-33)
 
 български (BG) (81.42 KB - PDF)
 

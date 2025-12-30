@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 13:57:57
+document_datetime: 2025-12-29 07:20:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bondenza.html
 document_name: bondenza.html
 version: success
-processing_time: 0.1049029
-conversion_datetime: 2025-12-25 00:49:44.699768
+processing_time: 0.1067255
+conversion_datetime: 2025-12-30 20:20:45.534397
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-ibandronic acid
+ibandronic acid Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (563.91 KB - PDF)
 
 [View](/en/documents/overview/bondenza-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-18)
+[Other languages (21)](#file-language-dropdown-507)
 
 български (BG) (652.81 KB - PDF)
 
@@ -333,7 +329,7 @@ English (EN) (1.11 MB - PDF)
 
 [View](/en/documents/product-information/bondenza-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-169)
+[Other languages (23)](#file-language-dropdown-584)
 
 български (BG) (2.55 MB - PDF)
 
@@ -637,7 +633,7 @@ English (EN) (477.15 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bondenza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-457)
+[Other languages (21)](#file-language-dropdown-90)
 
 български (BG) (570.06 KB - PDF)
 

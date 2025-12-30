@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:53:11
+document_datetime: 2025-12-29 11:08:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mepsevii.html
 document_name: mepsevii.html
 version: success
-processing_time: 0.1064983
-conversion_datetime: 2025-12-24 15:25:24.389519
+processing_time: 0.1005791
+conversion_datetime: 2025-12-30 13:12:36.799101
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 vestronidase alfa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -137,7 +139,7 @@ English (EN) (441.53 KB - PDF)
 
 [View](/en/documents/product-information/mepsevii-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-871)
+[Other languages (24)](#file-language-dropdown-350)
 
 български (BG) (467.52 KB - PDF)
 
@@ -453,7 +455,7 @@ English (EN) (10.86 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mepsevii-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-941)
+[Other languages (24)](#file-language-dropdown-908)
 
 български (BG) (52.13 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 13:05:40
+document_datetime: 2025-12-29 12:05:26
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/leflunomide-medac.html
 document_name: leflunomide-medac.html
 version: success
-processing_time: 0.1261641
-conversion_datetime: 2025-12-28 14:14:34.11884
+processing_time: 0.1136459
+conversion_datetime: 2025-12-30 03:38:23.377709
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -103,7 +103,7 @@ English (EN) (79.19 KB - PDF)
 
 [View](/en/documents/overview/leflunomide-medac-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-330)
+[Other languages (22)](#file-language-dropdown-345)
 
 български (BG) (131.97 KB - PDF)
 
@@ -381,7 +381,7 @@ English (EN) (401.37 KB - PDF)
 
 [View](/en/documents/product-information/leflunomide-medac-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-308)
+[Other languages (24)](#file-language-dropdown-420)
 
 български (BG) (512.13 KB - PDF)
 
@@ -697,7 +697,7 @@ English (EN) (25.06 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/leflunomide-medac-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-369)
+[Other languages (24)](#file-language-dropdown-692)
 
 български (BG) (53.44 KB - PDF)
 
@@ -997,7 +997,7 @@ English (EN) (19.14 KB - PDF)
 
 [View](/en/documents/conditions-member-states/leflunomide-medac-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-26)
+[Other languages (21)](#file-language-dropdown-33)
 
 български (BG) (105.97 KB - PDF)
 

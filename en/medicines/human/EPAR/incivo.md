@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:04:58
+document_datetime: 2025-12-29 14:35:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/incivo.html
 document_name: incivo.html
 version: success
-processing_time: 0.1198488
-conversion_datetime: 2025-12-28 00:24:56.359499
+processing_time: 0.1247596
+conversion_datetime: 2025-12-30 02:24:04.411212
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has expired
 
-telaprevir
+telaprevir Medicine Human Expired
 
-Medicine
-
-Human
-
-Expired
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -69,7 +65,7 @@ English (EN) (541.29 KB - PDF)
 
 [View](/en/documents/overview/incivo-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-162)
+[Other languages (21)](#file-language-dropdown-747)
 
 български (BG) (621.69 KB - PDF)
 
@@ -335,7 +331,7 @@ English (EN) (1.13 MB - PDF)
 
 [View](/en/documents/product-information/incivo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-779)
+[Other languages (24)](#file-language-dropdown-11)
 
 български (BG) (4.44 MB - PDF)
 
@@ -651,7 +647,7 @@ English (EN) (478.26 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/incivo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-556)
+[Other languages (24)](#file-language-dropdown-457)
 
 български (BG) (495.63 KB - PDF)
 
@@ -951,7 +947,7 @@ English (EN) (507.83 KB - PDF)
 
 [View](/en/documents/conditions-member-states/incivo-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-105)
+[Other languages (23)](#file-language-dropdown-884)
 
 български (BG) (540.37 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:09:39
+document_datetime: 2025-12-29 11:41:21
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/plavix.html
 document_name: plavix.html
 version: success
-processing_time: 0.1356702
-conversion_datetime: 2025-12-29 22:49:03.094642
+processing_time: 0.3797533
+conversion_datetime: 2025-12-30 08:16:01.744251
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:22:05
+document_datetime: 2025-12-29 13:56:26
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eklira-genuair.html
 document_name: eklira-genuair.html
 version: success
-processing_time: 0.1307095
-conversion_datetime: 2025-12-25 11:29:06.258684
+processing_time: 0.13206
+conversion_datetime: 2025-12-30 21:21:44.948479
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 aclidinium bromide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (95.32 KB - PDF)
 
 [View](/en/documents/overview/eklira-genuair-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-108)
+[Other languages (22)](#file-language-dropdown-82)
 
 български (BG) (98.15 KB - PDF)
 
@@ -393,7 +395,7 @@ English (EN) (579.26 KB - PDF)
 
 [View](/en/documents/product-information/eklira-genuair-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-493)
+[Other languages (24)](#file-language-dropdown-657)
 
 български (BG) (647.1 KB - PDF)
 
@@ -709,7 +711,7 @@ English (EN) (14.59 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/eklira-genuair-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-385)
+[Other languages (24)](#file-language-dropdown-707)
 
 български (BG) (53.11 KB - PDF)
 
@@ -1149,7 +1151,7 @@ English (EN) (1.39 MB - DOC)
 
 [View](/en/documents/product-information-tracked-changes/eklira-genuair-epar-product-information-tracked-changes_en.doc)
 
-[Other languages (24)](#file-language-dropdown-567)
+[Other languages (24)](#file-language-dropdown-690)
 
 български (BG) (1.64 MB - DOC)
 

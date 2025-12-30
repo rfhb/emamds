@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 14:40:57
+document_datetime: 2025-12-29 14:00:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/macugen.html
 document_name: macugen.html
 version: success
-processing_time: 0.1191235
-conversion_datetime: 2025-12-28 13:10:34.248151
+processing_time: 0.1195135
+conversion_datetime: 2025-12-30 03:38:58.570963
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-pegaptanib
+pegaptanib Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (520.99 KB - PDF)
 
 [View](/en/documents/overview/macugen-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-646)
+[Other languages (21)](#file-language-dropdown-413)
 
 български (BG) (663.47 KB - PDF)
 
@@ -333,7 +329,7 @@ English (EN) (832.53 KB - PDF)
 
 [View](/en/documents/product-information/macugen-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-906)
+[Other languages (24)](#file-language-dropdown-145)
 
 български (BG) (1.47 MB - PDF)
 
@@ -649,7 +645,7 @@ English (EN) (457.96 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/macugen-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-186)
+[Other languages (21)](#file-language-dropdown-918)
 
 български (BG) (538.8 KB - PDF)
 
@@ -913,7 +909,7 @@ English (EN) (477.37 KB - PDF)
 
 [View](/en/documents/conditions-member-states/macugen-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-284)
+[Other languages (21)](#file-language-dropdown-137)
 
 български (BG) (579.31 KB - PDF)
 

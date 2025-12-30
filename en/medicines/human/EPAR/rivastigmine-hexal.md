@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-09 23:29:00
+document_datetime: 2025-12-29 11:35:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rivastigmine-hexal.html
 document_name: rivastigmine-hexal.html
 version: success
-processing_time: 0.086921
-conversion_datetime: 2025-12-24 02:41:50.217923
+processing_time: 0.1084755
+conversion_datetime: 2025-12-30 01:56:25.743517
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 rivastigmine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +107,7 @@ English (EN) (76.57 KB - PDF)
 
 [View](/en/documents/overview/rivastigmine-hexal-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-370)
+[Other languages (21)](#file-language-dropdown-240)
 
 български (BG) (105.4 KB - PDF)
 
@@ -371,7 +373,7 @@ English (EN) (482.06 KB - PDF)
 
 [View](/en/documents/product-information/rivastigmine-hexal-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-786)
+[Other languages (24)](#file-language-dropdown-735)
 
 български (BG) (543.38 KB - PDF)
 
@@ -687,7 +689,7 @@ English (EN) (83.2 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rivastigmine-hexal-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-581)
+[Other languages (24)](#file-language-dropdown-920)
 
 български (BG) (45.94 KB - PDF)
 

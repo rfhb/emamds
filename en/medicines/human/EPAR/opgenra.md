@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:27:31
+document_datetime: 2025-12-29 08:29:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/opgenra.html
 document_name: opgenra.html
 version: success
-processing_time: 0.1231427
-conversion_datetime: 2025-12-28 10:31:21.859631
+processing_time: 0.1224131
+conversion_datetime: 2025-12-30 08:59:09.45405
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 eptotermin alfa Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -59,7 +61,7 @@ English (EN) (520.19 KB - PDF)
 
 [View](/en/documents/overview/opgenra-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-330)
+[Other languages (21)](#file-language-dropdown-713)
 
 български (BG) (709.65 KB - PDF)
 
@@ -325,7 +327,7 @@ English (EN) (1.19 MB - PDF)
 
 [View](/en/documents/product-information/opgenra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-766)
+[Other languages (24)](#file-language-dropdown-5)
 
 български (BG) (1.87 MB - PDF)
 
@@ -641,7 +643,7 @@ English (EN) (464.09 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/opgenra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-531)
+[Other languages (22)](#file-language-dropdown-560)
 
 български (BG) (552.36 KB - PDF)
 
@@ -917,7 +919,7 @@ English (EN) (619.59 KB - PDF)
 
 [View](/en/documents/conditions-member-states/opgenra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-951)
+[Other languages (22)](#file-language-dropdown-116)
 
 български (BG) (818.76 KB - PDF)
 

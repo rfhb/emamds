@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:05:47
+document_datetime: 2025-12-29 13:07:55
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/prevenar.html
 document_name: prevenar.html
 version: success
-processing_time: 0.1084994
-conversion_datetime: 2025-12-28 19:02:46.163088
+processing_time: 0.0994836
+conversion_datetime: 2025-12-30 12:23:27.33043
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-pneumococcal saccharide conjugated vaccine, adsorbed
+pneumococcal saccharide conjugated vaccine, adsorbed Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +60,7 @@ English (EN) (528.26 KB - PDF)
 
 [View](/en/documents/overview/prevenar-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-970)
+[Other languages (21)](#file-language-dropdown-46)
 
 български (BG) (705.89 KB - PDF)
 
@@ -330,7 +326,7 @@ English (EN) (984.79 KB - PDF)
 
 [View](/en/documents/product-information/prevenar-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-665)
+[Other languages (24)](#file-language-dropdown-195)
 
 български (BG) (2.09 MB - PDF)
 
@@ -646,7 +642,7 @@ English (EN) (472.82 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/prevenar-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-564)
+[Other languages (22)](#file-language-dropdown-357)
 
 български (BG) (567.28 KB - PDF)
 

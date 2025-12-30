@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 08:03:40
+document_datetime: 2025-12-29 07:08:28
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/elocta.html
 document_name: elocta.html
 version: success
-processing_time: 0.1252493
-conversion_datetime: 2025-12-24 02:33:04.701986
+processing_time: 0.1157814
+conversion_datetime: 2025-12-30 21:04:44.879606
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-efmoroctocog alfa
+efmoroctocog alfa Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +108,7 @@ English (EN) (73.56 KB - PDF)
 
 [View](/en/documents/overview/elocta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-596)
+[Other languages (22)](#file-language-dropdown-85)
 
 български (BG) (99.19 KB - PDF)
 
@@ -398,7 +394,7 @@ English (EN) (802.34 KB - PDF)
 
 [View](/en/documents/product-information/elocta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-971)
+[Other languages (24)](#file-language-dropdown-965)
 
 български (BG) (628.13 KB - PDF)
 
@@ -714,7 +710,7 @@ English (EN) (28.34 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/elocta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-436)
+[Other languages (24)](#file-language-dropdown-443)
 
 български (BG) (64.85 KB - PDF)
 

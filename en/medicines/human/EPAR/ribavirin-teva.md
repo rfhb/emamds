@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:10:36
+document_datetime: 2025-12-29 14:34:34
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ribavirin-teva.html
 document_name: ribavirin-teva.html
 version: success
-processing_time: 0.1079371
-conversion_datetime: 2025-12-27 18:05:59.073924
+processing_time: 0.1127543
+conversion_datetime: 2025-12-30 08:22:11.298281
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-ribavirin
+ribavirin Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (617.01 KB - PDF)
 
 [View](/en/documents/overview/ribavirin-teva-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-531)
+[Other languages (21)](#file-language-dropdown-109)
 
 български (BG) (850.92 KB - PDF)
 
@@ -333,7 +329,7 @@ English (EN) (1.37 MB - PDF)
 
 [View](/en/documents/product-information/ribavirin-teva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-158)
+[Other languages (24)](#file-language-dropdown-413)
 
 български (BG) (2.71 MB - PDF)
 
@@ -649,7 +645,7 @@ English (EN) (581.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ribavirin-teva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-736)
+[Other languages (23)](#file-language-dropdown-140)
 
 български (BG) (671.8 KB - PDF)
 

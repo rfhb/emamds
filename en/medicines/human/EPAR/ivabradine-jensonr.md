@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:09:19
+document_datetime: 2025-12-29 13:58:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ivabradine-jensonr.html
 document_name: ivabradine-jensonr.html
 version: success
-processing_time: 0.1039442
-conversion_datetime: 2025-12-27 18:09:02.353992
+processing_time: 0.1017905
+conversion_datetime: 2025-12-30 03:20:22.346694
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 ivabradine Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +66,7 @@ English (EN) (562.96 KB - PDF)
 
 [View](/en/documents/overview/ivabradine-jensonr-epar-summary-public_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-440)
+[Other languages (20)](#file-language-dropdown-419)
 
 български (BG) (641.45 KB - PDF)
 
@@ -318,7 +320,7 @@ English (EN) (876.88 KB - PDF)
 
 [View](/en/documents/product-information/ivabradine-jensonr-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-712)
+[Other languages (24)](#file-language-dropdown-8)
 
 български (BG) (1.99 MB - PDF)
 
@@ -634,7 +636,7 @@ English (EN) (477.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ivabradine-jensonr-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-671)
+[Other languages (21)](#file-language-dropdown-908)
 
 български (BG) (554.28 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:28:32
+document_datetime: 2025-12-29 11:27:48
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/esbriet.html
 document_name: esbriet.html
 version: success
-processing_time: 0.1450848
-conversion_datetime: 2025-12-25 09:01:53.300116
+processing_time: 0.1521523
+conversion_datetime: 2025-12-30 20:57:57.640729
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pirfenidone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (121.88 KB - PDF)
 
 [View](/en/documents/overview/esbriet-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-806)
+[Other languages (21)](#file-language-dropdown-955)
 
 български (BG) (166.17 KB - PDF)
 
@@ -385,7 +387,7 @@ English (EN) (162.92 KB - PDF)
 
 [View](/en/documents/product-information/esbriet-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-646)
+[Other languages (24)](#file-language-dropdown-960)
 
 български (BG) (603.3 KB - PDF)
 
@@ -701,7 +703,7 @@ English (EN) (9.98 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/esbriet-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-758)
+[Other languages (24)](#file-language-dropdown-742)
 
 български (BG) (46.61 KB - PDF)
 
@@ -1001,7 +1003,7 @@ English (EN) (27.35 KB - PDF)
 
 [View](/en/documents/conditions-member-states/esbriet-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-398)
+[Other languages (23)](#file-language-dropdown-38)
 
 български (BG) (118.12 KB - PDF)
 
@@ -1457,7 +1459,7 @@ English (EN) (263.42 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/esbriet-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-154)
+[Other languages (24)](#file-language-dropdown-38)
 
 български (BG) (332.13 KB - DOCX)
 

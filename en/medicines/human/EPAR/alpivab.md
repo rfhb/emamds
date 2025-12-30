@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:50:25
+document_datetime: 2025-12-29 14:18:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/alpivab.html
 document_name: alpivab.html
 version: success
-processing_time: 0.1064232
-conversion_datetime: 2025-12-28 00:09:59.931682
+processing_time: 0.1064681
+conversion_datetime: 2025-12-30 22:33:06.045142
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 peramivir Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -62,7 +64,7 @@ English (EN) (650.2 KB - PDF)
 
 [View](/en/documents/overview/alpivab-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-520)
+[Other languages (22)](#file-language-dropdown-555)
 
 български (BG) (1.27 MB - PDF)
 
@@ -340,7 +342,7 @@ English (EN) (1.57 MB - PDF)
 
 [View](/en/documents/product-information/alpivab-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-393)
+[Other languages (24)](#file-language-dropdown-270)
 
 български (BG) (3.2 MB - PDF)
 
@@ -656,7 +658,7 @@ English (EN) (581.31 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/alpivab-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-60)
+[Other languages (24)](#file-language-dropdown-106)
 
 български (BG) (1.17 MB - PDF)
 

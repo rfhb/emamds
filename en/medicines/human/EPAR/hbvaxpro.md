@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:36:11
+document_datetime: 2025-12-29 11:50:44
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hbvaxpro.html
 document_name: hbvaxpro.html
 version: success
-processing_time: 0.1327292
-conversion_datetime: 2025-12-28 12:54:18.965205
+processing_time: 0.1261654
+conversion_datetime: 2025-12-30 09:32:35.416638
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 hepatitis B vaccine (recombinant DNA) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (55.72 KB - PDF)
 
 [View](/en/documents/overview/hbvaxpro-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-735)
+[Other languages (21)](#file-language-dropdown-376)
 
 български (BG) (101.77 KB - PDF)
 
@@ -375,7 +377,7 @@ English (EN) (651.28 KB - PDF)
 
 [View](/en/documents/product-information/hbvaxpro-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-837)
+[Other languages (24)](#file-language-dropdown-151)
 
 български (BG) (569.04 KB - PDF)
 
@@ -691,7 +693,7 @@ English (EN) (21.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/hbvaxpro-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-410)
+[Other languages (24)](#file-language-dropdown-856)
 
 български (BG) (26.27 KB - PDF)
 
@@ -1120,7 +1122,7 @@ English (EN) (25.18 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/hbvaxpro-h-c-373-a20-0015-epar-scientific-conclusion_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-675)
+[Other languages (18)](#file-language-dropdown-819)
 
 español (ES) (27.77 KB - PDF)
 

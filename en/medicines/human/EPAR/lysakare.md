@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:58
+document_datetime: 2025-12-29 13:13:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lysakare.html
 document_name: lysakare.html
 version: success
-processing_time: 0.1284003
-conversion_datetime: 2025-12-26 20:04:42.790684
+processing_time: 0.1301169
+conversion_datetime: 2025-12-30 10:01:57.641999
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 arginine / lysine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +105,7 @@ English (EN) (105.76 KB - PDF)
 
 [View](/en/documents/overview/lysakare-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-581)
+[Other languages (22)](#file-language-dropdown-72)
 
 български (BG) (119.17 KB - PDF)
 
@@ -303,7 +305,7 @@ English (EN) (422.12 KB - PDF)
 
 [View](/en/documents/product-information/lysakare-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-280)
+[Other languages (24)](#file-language-dropdown-416)
 
 български (BG) (534.67 KB - PDF)
 
@@ -619,7 +621,7 @@ English (EN) (50.11 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lysakare-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-447)
+[Other languages (24)](#file-language-dropdown-788)
 
 български (BG) (57.08 KB - PDF)
 
@@ -1013,7 +1015,7 @@ English (EN) (128.29 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/lysakare-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-382)
+[Other languages (24)](#file-language-dropdown-787)
 
 български (BG) (134.76 KB - DOCX)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:50:34
+document_datetime: 2025-12-29 11:19:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nexpovio.html
 document_name: nexpovio.html
 version: success
-processing_time: 0.1178665
-conversion_datetime: 2025-12-28 17:30:43.496475
+processing_time: 0.1187719
+conversion_datetime: 2025-12-30 11:06:51.915299
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 selinexor Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (117.67 KB - PDF)
 
 [View](/en/documents/overview/nexpovio-epar-medicine-overview_en.pdf-0)
 
-[Other languages (22)](#file-language-dropdown-683)
+[Other languages (22)](#file-language-dropdown-941)
 
 български (BG) (120.21 KB - PDF)
 
@@ -399,7 +401,7 @@ English (EN) (596.77 KB - PDF)
 
 [View](/en/documents/product-information/nexpovio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-63)
+[Other languages (24)](#file-language-dropdown-806)
 
 български (BG) (632.05 KB - PDF)
 
@@ -715,7 +717,7 @@ English (EN) (42.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nexpovio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-316)
+[Other languages (24)](#file-language-dropdown-278)
 
 български (BG) (112.37 KB - PDF)
 

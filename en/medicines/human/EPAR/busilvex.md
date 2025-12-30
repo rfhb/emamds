@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:00:58
+document_datetime: 2025-12-29 07:12:24
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/busilvex.html
 document_name: busilvex.html
 version: success
-processing_time: 0.0980956
-conversion_datetime: 2025-12-28 13:39:31.498066
+processing_time: 0.1008328
+conversion_datetime: 2025-12-30 01:41:40.572528
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-busulfan
+busulfan Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -70,7 +66,7 @@ English (EN) (632.03 KB - PDF)
 
 [View](/en/documents/overview/busilvex-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-41)
+[Other languages (22)](#file-language-dropdown-66)
 
 български (BG) (727.28 KB - PDF)
 
@@ -348,7 +344,7 @@ English (EN) (1001.13 KB - PDF)
 
 [View](/en/documents/product-information/busilvex-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-804)
+[Other languages (24)](#file-language-dropdown-879)
 
 български (BG) (1.95 MB - PDF)
 

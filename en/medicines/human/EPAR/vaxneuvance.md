@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:12:45
+document_datetime: 2025-12-29 09:23:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vaxneuvance.html
 document_name: vaxneuvance.html
 version: success
-processing_time: 0.1148459
-conversion_datetime: 2025-12-28 14:27:50.349547
+processing_time: 0.1055015
+conversion_datetime: 2025-12-30 21:23:55.07503
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pneumococcal polysaccharide conjugate vaccine (adsorbed) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (149.8 KB - PDF)
 
 [View](/en/documents/overview/vaxneuvance-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-340)
+[Other languages (22)](#file-language-dropdown-535)
 
 български (BG) (183.15 KB - PDF)
 
@@ -404,7 +406,7 @@ English (EN) (425.76 KB - PDF)
 
 [View](/en/documents/product-information/vaxneuvance-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-221)
+[Other languages (24)](#file-language-dropdown-710)
 
 български (BG) (406.38 KB - PDF)
 
@@ -720,7 +722,7 @@ English (EN) (26.9 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vaxneuvance-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-616)
+[Other languages (24)](#file-language-dropdown-518)
 
 български (BG) (36.29 KB - PDF)
 

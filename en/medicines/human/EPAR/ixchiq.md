@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:40:52
+document_datetime: 2025-12-29 12:15:48
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ixchiq.html
 document_name: ixchiq.html
 version: success
-processing_time: 0.1199038
-conversion_datetime: 2025-12-27 09:07:30.60321
+processing_time: 0.1230599
+conversion_datetime: 2025-12-30 12:55:54.02313
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 Chikungunya vaccine (live) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -126,7 +128,7 @@ English (EN) (119.78 KB - PDF)
 
 [View](/en/documents/overview/ixchiq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-412)
+[Other languages (22)](#file-language-dropdown-503)
 
 български (BG) (141.04 KB - PDF)
 
@@ -412,7 +414,7 @@ English (EN) (241.76 KB - PDF)
 
 [View](/en/documents/product-information/ixchiq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-970)
+[Other languages (24)](#file-language-dropdown-418)
 
 български (BG) (297.54 KB - PDF)
 
@@ -634,7 +636,7 @@ English (EN) (47.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ixchiq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-64)
+[Other languages (24)](#file-language-dropdown-344)
 
 български (BG) (63.07 KB - PDF)
 
@@ -906,7 +908,7 @@ English (EN) (219.69 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/ixchiq-epar-scientific-conclusion_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-222)
+[Other languages (24)](#file-language-dropdown-356)
 
 български (BG) (154.15 KB - PDF)
 

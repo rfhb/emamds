@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:37:56
+document_datetime: 2025-12-29 09:36:47
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/voxzogo.html
 document_name: voxzogo.html
 version: success
-processing_time: 0.116712
-conversion_datetime: 2025-12-28 08:22:11.35353
+processing_time: 0.1198569
+conversion_datetime: 2025-12-30 20:33:49.244572
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 vosoritide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (111.52 KB - PDF)
 
 [View](/en/documents/overview/voxzogo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-356)
+[Other languages (22)](#file-language-dropdown-634)
 
 български (BG) (137.65 KB - PDF)
 
@@ -398,7 +400,7 @@ English (EN) (1.13 MB - PDF)
 
 [View](/en/documents/product-information/voxzogo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-497)
+[Other languages (24)](#file-language-dropdown-452)
 
 български (BG) (1.23 MB - PDF)
 
@@ -712,7 +714,7 @@ English (EN) (44.58 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/voxzogo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-173)
+[Other languages (24)](#file-language-dropdown-299)
 
 български (BG) (56.74 KB - PDF)
 

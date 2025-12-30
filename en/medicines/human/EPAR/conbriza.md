@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:25:28
+document_datetime: 2025-12-29 14:34:24
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/conbriza.html
 document_name: conbriza.html
 version: success
-processing_time: 0.0866747
-conversion_datetime: 2025-12-24 03:11:39.802771
+processing_time: 0.1114
+conversion_datetime: 2025-12-30 11:58:27.371827
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bazedoxifene Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (77.23 KB - PDF)
 
 [View](/en/documents/overview/conbriza-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-626)
+[Other languages (22)](#file-language-dropdown-522)
 
 български (BG) (106.82 KB - PDF)
 
@@ -393,7 +395,7 @@ English (EN) (278.45 KB - PDF)
 
 [View](/en/documents/product-information/conbriza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-39)
+[Other languages (24)](#file-language-dropdown-547)
 
 български (BG) (243.77 KB - PDF)
 
@@ -709,7 +711,7 @@ English (EN) (22.86 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/conbriza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-193)
+[Other languages (21)](#file-language-dropdown-839)
 
 български (BG) (82.99 KB - PDF)
 

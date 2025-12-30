@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:04:33
+document_datetime: 2025-12-29 09:34:51
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/poteligeo.html
 document_name: poteligeo.html
 version: success
-processing_time: 0.1027049
-conversion_datetime: 2025-12-28 01:54:12.924171
+processing_time: 0.1115602
+conversion_datetime: 2025-12-30 03:02:40.705671
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 mogamulizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -98,7 +100,7 @@ English (EN) (75.31 KB - PDF)
 
 [View](/en/documents/overview/poteligeo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-647)
+[Other languages (22)](#file-language-dropdown-194)
 
 български (BG) (99.75 KB - PDF)
 
@@ -296,7 +298,7 @@ English (EN) (347.85 KB - PDF)
 
 [View](/en/documents/product-information/poteligeo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-393)
+[Other languages (24)](#file-language-dropdown-171)
 
 български (BG) (487.36 KB - PDF)
 
@@ -612,7 +614,7 @@ English (EN) (32.64 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/poteligeo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-208)
+[Other languages (24)](#file-language-dropdown-656)
 
 български (BG) (51.85 KB - PDF)
 

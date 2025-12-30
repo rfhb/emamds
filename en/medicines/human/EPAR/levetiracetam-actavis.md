@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:09:01
+document_datetime: 2025-12-29 11:44:28
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/levetiracetam-actavis.html
 document_name: levetiracetam-actavis.html
 version: success
-processing_time: 0.126504
-conversion_datetime: 2025-12-26 18:57:17.112453
+processing_time: 0.3772713
+conversion_datetime: 2025-12-30 09:54:10.014614
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 levetiracetam Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +106,7 @@ English (EN) (137.83 KB - PDF)
 
 [View](/en/documents/overview/levetiracetam-actavis-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-929)
+[Other languages (22)](#file-language-dropdown-13)
 
 български (BG) (175.03 KB - PDF)
 
@@ -382,7 +384,7 @@ English (EN) (635.92 KB - PDF)
 
 [View](/en/documents/product-information/levetiracetam-actavis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-948)
+[Other languages (24)](#file-language-dropdown-130)
 
 български (BG) (750.5 KB - PDF)
 
@@ -698,7 +700,7 @@ English (EN) (30.75 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/levetiracetam-actavis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-863)
+[Other languages (24)](#file-language-dropdown-788)
 
 български (BG) (65.77 KB - PDF)
 
@@ -1092,7 +1094,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

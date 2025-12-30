@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:56:34
+document_datetime: 2025-12-29 11:28:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/evenity.html
 document_name: evenity.html
 version: success
-processing_time: 0.0778155
-conversion_datetime: 2025-12-24 14:36:55.269513
+processing_time: 0.1006386
+conversion_datetime: 2025-12-30 21:15:22.80008
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 romosozumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +105,7 @@ English (EN) (123.21 KB - PDF)
 
 [View](/en/documents/overview/evenity-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-663)
+[Other languages (22)](#file-language-dropdown-659)
 
 български (BG) (138.73 KB - PDF)
 
@@ -303,7 +305,7 @@ English (EN) (1.14 MB - PDF)
 
 [View](/en/documents/product-information/evenity-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-982)
+[Other languages (24)](#file-language-dropdown-380)
 
 български (BG) (1.48 MB - PDF)
 
@@ -617,7 +619,7 @@ English (EN) (101.74 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/evenity-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-27)
+[Other languages (24)](#file-language-dropdown-737)
 
 български (BG) (107.2 KB - PDF)
 
@@ -912,8 +914,8 @@ English (EN) (68.99 KB - PDF)
 #### More information on Evenity
 
 - [EMEA-001075-PIP04-15-M07 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001075-pip04-15-m07)
-- [Real World Utilization and Effectiveness of Romosozumab Among Osteoporosis Patients in Hong Kong (20250006) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000724)
 - [Real World Use, Effectiveness and Safety of Romosozumab among Osteoporosis Patients in Guangdong China (20250009) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000758)
+- [Real World Utilization and Effectiveness of Romosozumab Among Osteoporosis Patients in Hong Kong (20250006) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000724)
 - [Postmarketing Surveillance Study of EVENITY (Romosozumab) in South Korea (20170753) - post-authorisation study](https://catalogues.ema.europa.eu/study/39019)
 - [Clinical Characteristics, Including History of MI and Stroke, Among US Post-menopausal Women Initiating Treatment With Romosozumab and Other Anti-osteoporosis Therapies (20190205) - post-authorisation study](https://catalogues.ema.europa.eu/study/37633)
 - [Patient characteristics and utilization patterns of romosozumab in routine clinical practice: a European, multi-country, non-interventional study (PRIME) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000343)

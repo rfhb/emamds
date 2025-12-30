@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:04:50
+document_datetime: 2025-12-29 11:54:32
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nilotinib-accord.html
 document_name: nilotinib-accord.html
 version: success
-processing_time: 0.1203581
-conversion_datetime: 2025-12-25 06:39:26.143413
+processing_time: 0.1214332
+conversion_datetime: 2025-12-30 09:03:05.045517
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 nilotinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -100,7 +102,7 @@ English (EN) (125.64 KB - PDF)
 
 [View](/en/documents/overview/nilotinib-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-807)
+[Other languages (22)](#file-language-dropdown-158)
 
 български (BG) (149.77 KB - PDF)
 
@@ -298,7 +300,7 @@ English (EN) (887.37 KB - PDF)
 
 [View](/en/documents/product-information/nilotinib-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-366)
+[Other languages (24)](#file-language-dropdown-318)
 
 български (BG) (1.04 MB - PDF)
 
@@ -612,7 +614,7 @@ English (EN) (91.27 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nilotinib-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-806)
+[Other languages (24)](#file-language-dropdown-346)
 
 български (BG) (101.94 KB - PDF)
 
@@ -900,7 +902,7 @@ English (EN) (471.49 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/nilotinib-accord-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-976)
+[Other languages (24)](#file-language-dropdown-189)
 
 български (BG) (814.49 KB - DOCX)
 

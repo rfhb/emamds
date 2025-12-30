@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:22:12
+document_datetime: 2025-12-29 11:45:02
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/camzyos.html
 document_name: camzyos.html
 version: success
-processing_time: 0.117375
-conversion_datetime: 2025-12-24 00:03:12.624356
+processing_time: 0.1122247
+conversion_datetime: 2025-12-30 22:32:48.012158
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 mavacamten Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (101.54 KB - PDF)
 
 [View](/en/documents/overview/camzyos-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-963)
+[Other languages (22)](#file-language-dropdown-453)
 
 български (BG) (125.93 KB - PDF)
 
@@ -316,7 +318,7 @@ English (EN) (478.44 KB - PDF)
 
 [View](/en/documents/product-information/camzyos-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-793)
+[Other languages (24)](#file-language-dropdown-762)
 
 български (BG) (714.65 KB - PDF)
 
@@ -632,7 +634,7 @@ English (EN) (32.15 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/camzyos-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-579)
+[Other languages (24)](#file-language-dropdown-304)
 
 български (BG) (50.76 KB - PDF)
 

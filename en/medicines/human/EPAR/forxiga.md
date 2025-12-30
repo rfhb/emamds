@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:50:45
+document_datetime: 2025-12-29 09:22:28
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/forxiga.html
 document_name: forxiga.html
 version: success
-processing_time: 0.160399
-conversion_datetime: 2025-12-24 04:17:40.147092
+processing_time: 0.1585506
+conversion_datetime: 2025-12-30 22:53:13.047594
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 dapagliflozin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -157,7 +159,7 @@ English (EN) (1.42 MB - PDF)
 
 [View](/en/documents/product-information/forxiga-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-12)
+[Other languages (24)](#file-language-dropdown-5)
 
 български (BG) (1.2 MB - PDF)
 
@@ -473,7 +475,7 @@ English (EN) (32.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/forxiga-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-452)
+[Other languages (24)](#file-language-dropdown-320)
 
 български (BG) (34.99 KB - PDF)
 
@@ -1011,7 +1013,7 @@ English (EN) (41.36 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/forxiga-h-a20-1442-c-2322-0029-epar-scientific-conclusion-article-20_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-76)
+[Other languages (24)](#file-language-dropdown-837)
 
 български (BG) (84.18 KB - PDF)
 
@@ -1325,7 +1327,7 @@ English (EN) (44.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/forxiga-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-517)
+[Other languages (22)](#file-language-dropdown-111)
 
 български (BG) (78.43 KB - PDF)
 

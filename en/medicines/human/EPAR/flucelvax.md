@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:28:55
+document_datetime: 2025-12-29 11:30:17
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/flucelvax.html
 document_name: flucelvax.html
 version: success
-processing_time: 0.1131732
-conversion_datetime: 2025-12-28 11:16:42.321535
+processing_time: 0.3193156
+conversion_datetime: 2025-12-30 22:54:15.13393
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 influenza vaccine (surface antigen, inactivated, prepared in cell cultures) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +124,7 @@ English (EN) (139.63 KB - PDF)
 
 [View](/en/documents/overview/flucelvax-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-50)
+[Other languages (22)](#file-language-dropdown-435)
 
 български (BG) (151.91 KB - PDF)
 
@@ -410,7 +412,7 @@ English (EN) (383.21 KB - PDF)
 
 [View](/en/documents/product-information/flucelvax-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-743)
+[Other languages (24)](#file-language-dropdown-799)
 
 български (BG) (449.52 KB - PDF)
 
@@ -726,7 +728,7 @@ English (EN) (50.69 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/flucelvax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-658)
+[Other languages (24)](#file-language-dropdown-923)
 
 български (BG) (62.97 KB - PDF)
 

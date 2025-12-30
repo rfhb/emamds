@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:08:24
+document_datetime: 2025-12-29 14:52:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/iasibon.html
 document_name: iasibon.html
 version: success
-processing_time: 0.1083475
-conversion_datetime: 2025-12-27 15:36:40.797826
+processing_time: 0.115359
+conversion_datetime: 2025-12-30 10:54:28.695714
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-ibandronic acid
+ibandronic acid Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +115,7 @@ English (EN) (87.31 KB - PDF)
 
 [View](/en/documents/overview/iasibon-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-257)
+[Other languages (22)](#file-language-dropdown-920)
 
 български (BG) (129.98 KB - PDF)
 
@@ -397,7 +393,7 @@ English (EN) (950.11 KB - PDF)
 
 [View](/en/documents/product-information/iasibon-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-333)
+[Other languages (24)](#file-language-dropdown-79)
 
 български (BG) (1.14 MB - PDF)
 
@@ -826,7 +822,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-44)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

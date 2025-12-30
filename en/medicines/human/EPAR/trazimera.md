@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:18:04
+document_datetime: 2025-12-29 07:32:01
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trazimera.html
 document_name: trazimera.html
 version: success
-processing_time: 0.109461
-conversion_datetime: 2025-12-27 20:08:54.196762
+processing_time: 0.1159239
+conversion_datetime: 2025-12-30 01:44:43.554486
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 trastuzumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +122,7 @@ English (EN) (81.97 KB - PDF)
 
 [View](/en/documents/overview/trazimera-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-16)
+[Other languages (22)](#file-language-dropdown-708)
 
 български (BG) (114.59 KB - PDF)
 
@@ -408,7 +410,7 @@ English (EN) (330.63 KB - PDF)
 
 [View](/en/documents/product-information/trazimera-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-861)
+[Other languages (24)](#file-language-dropdown-496)
 
 български (BG) (394.3 KB - PDF)
 
@@ -724,7 +726,7 @@ English (EN) (29.77 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-40)
+[Other languages (24)](#file-language-dropdown-599)
 
 български (BG) (36.44 KB - PDF)
 

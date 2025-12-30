@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:04:01
+document_datetime: 2025-12-29 09:19:06
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cabometyx.html
 document_name: cabometyx.html
 version: success
-processing_time: 0.129631
-conversion_datetime: 2025-12-25 03:22:17.374978
+processing_time: 0.1274922
+conversion_datetime: 2025-12-30 20:58:15.272616
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 cabozantinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -145,7 +147,7 @@ English (EN) (147.4 KB - PDF)
 
 [View](/en/documents/overview/cabometyx-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-843)
+[Other languages (22)](#file-language-dropdown-447)
 
 български (BG) (179.14 KB - PDF)
 
@@ -433,7 +435,7 @@ English (EN) (820.56 KB - PDF)
 
 [View](/en/documents/product-information/cabometyx-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-843)
+[Other languages (24)](#file-language-dropdown-295)
 
 български (BG) (1.07 MB - PDF)
 
@@ -749,7 +751,7 @@ English (EN) (40.09 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cabometyx-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-746)
+[Other languages (24)](#file-language-dropdown-598)
 
 български (BG) (48.41 KB - PDF)
 

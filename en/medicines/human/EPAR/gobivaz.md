@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:38:26
+document_datetime: 2025-12-29 11:42:24
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/gobivaz.html
 document_name: gobivaz.html
 version: success
-processing_time: 0.1035222
-conversion_datetime: 2025-12-25 06:56:44.56118
+processing_time: 0.1023836
+conversion_datetime: 2025-12-30 09:22:52.568426
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 golimumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +123,7 @@ English (EN) (184.18 KB - PDF)
 
 [View](/en/documents/overview/gobivaz-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-293)
+[Other languages (22)](#file-language-dropdown-610)
 
 български (BG) (174.14 KB - PDF)
 
@@ -317,7 +319,7 @@ English (EN) (1.69 MB - PDF)
 
 [View](/en/documents/product-information/gobivaz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-591)
+[Other languages (24)](#file-language-dropdown-367)
 
 български (BG) (2.16 MB - PDF)
 
@@ -533,7 +535,7 @@ English (EN) (77.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/gobivaz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-374)
+[Other languages (24)](#file-language-dropdown-428)
 
 български (BG) (99.77 KB - PDF)
 
@@ -729,7 +731,7 @@ svenska (SV) (89.52 KB - PDF)
 
 ## Product details
 
-Name of medicine Gobivaz Active substance Golimumab International non-proprietary name (INN) or common name golimumab Therapeutic area (MeSH)
+Name of medicine Gobivaz Active substance golimumab International non-proprietary name (INN) or common name golimumab Therapeutic area (MeSH)
 
 - Arthritis, Rheumatoid
 - Arthritis, Juvenile

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:26:25
+document_datetime: 2025-12-29 13:12:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/parsaclisib-incyte-biosciences-distribution-bv.html
 document_name: parsaclisib-incyte-biosciences-distribution-bv.html
 version: success
-processing_time: 0.0669809
-conversion_datetime: 2025-12-27 23:22:06.929091
+processing_time: 0.0678833
+conversion_datetime: 2025-12-30 01:52:06.9379
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 parsaclisib Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -99,7 +101,7 @@ English (EN) (144.14 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-application-marketing-authorisation-parsaclisib-incyte-biosciences-distribution-bv-parsaclisib_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-389)
+[Other languages (22)](#file-language-dropdown-55)
 
 български (BG) (151.51 KB - PDF)
 

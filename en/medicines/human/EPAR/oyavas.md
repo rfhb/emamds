@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:36:17
+document_datetime: 2025-12-29 11:05:24
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/oyavas.html
 document_name: oyavas.html
 version: success
-processing_time: 0.1085848
-conversion_datetime: 2025-12-28 18:27:55.844886
+processing_time: 0.109568
+conversion_datetime: 2025-12-30 20:09:55.50497
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bevacizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (116.6 KB - PDF)
 
 [View](/en/documents/overview/oyavas-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-135)
+[Other languages (22)](#file-language-dropdown-123)
 
 български (BG) (167.86 KB - PDF)
 
@@ -315,7 +317,7 @@ English (EN) (423.93 KB - PDF)
 
 [View](/en/documents/product-information/oyavas-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-558)
+[Other languages (24)](#file-language-dropdown-399)
 
 български (BG) (434.68 KB - PDF)
 
@@ -629,7 +631,7 @@ English (EN) (21.44 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/oyavas-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-493)
+[Other languages (24)](#file-language-dropdown-682)
 
 български (BG) (42.19 KB - PDF)
 

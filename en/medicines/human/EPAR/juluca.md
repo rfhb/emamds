@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:49:40
+document_datetime: 2025-12-29 13:01:55
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/juluca.html
 document_name: juluca.html
 version: success
-processing_time: 0.1128548
-conversion_datetime: 2025-12-26 17:25:34.87049
+processing_time: 0.1133399
+conversion_datetime: 2025-12-30 10:04:01.454834
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 dolutegravir / rilpivirine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (147.38 KB - PDF)
 
 [View](/en/documents/overview/juluca-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-877)
+[Other languages (22)](#file-language-dropdown-524)
 
 български (BG) (171.87 KB - PDF)
 
@@ -405,7 +407,7 @@ English (EN) (797.68 KB - PDF)
 
 [View](/en/documents/product-information/juluca-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-494)
+[Other languages (24)](#file-language-dropdown-35)
 
 български (BG) (930.75 KB - PDF)
 
@@ -721,7 +723,7 @@ English (EN) (20.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/juluca-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-572)
+[Other languages (24)](#file-language-dropdown-612)
 
 български (BG) (49.62 KB - PDF)
 

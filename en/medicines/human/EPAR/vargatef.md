@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:20:46
+document_datetime: 2025-12-29 09:50:32
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vargatef.html
 document_name: vargatef.html
 version: success
-processing_time: 0.1150558
-conversion_datetime: 2025-12-28 19:51:23.733311
+processing_time: 0.3894493
+conversion_datetime: 2025-12-30 09:24:03.094819
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 nintedanib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +121,7 @@ English (EN) (76.64 KB - PDF)
 
 [View](/en/documents/overview/vargatef-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-749)
+[Other languages (22)](#file-language-dropdown-357)
 
 български (BG) (104.4 KB - PDF)
 
@@ -407,7 +409,7 @@ English (EN) (306.29 KB - PDF)
 
 [View](/en/documents/product-information/vargatef-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-545)
+[Other languages (24)](#file-language-dropdown-929)
 
 български (BG) (332 KB - PDF)
 
@@ -723,7 +725,7 @@ English (EN) (21.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vargatef-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-634)
+[Other languages (24)](#file-language-dropdown-821)
 
 български (BG) (42.12 KB - PDF)
 

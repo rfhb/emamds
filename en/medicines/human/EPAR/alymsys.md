@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:27:01
+document_datetime: 2025-12-29 11:41:15
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/alymsys.html
 document_name: alymsys.html
 version: success
-processing_time: 0.1106766
-conversion_datetime: 2025-12-26 20:55:54.836969
+processing_time: 0.1078035
+conversion_datetime: 2025-12-30 01:15:33.839897
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bevacizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (116.24 KB - PDF)
 
 [View](/en/documents/overview/alymsys-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-612)
+[Other languages (22)](#file-language-dropdown-327)
 
 български (BG) (169.56 KB - PDF)
 
@@ -316,7 +318,7 @@ English (EN) (814.92 KB - PDF)
 
 [View](/en/documents/product-information/alymsys-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-477)
+[Other languages (24)](#file-language-dropdown-690)
 
 български (BG) (925.89 KB - PDF)
 
@@ -630,7 +632,7 @@ English (EN) (48.64 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/alymsys-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-156)
+[Other languages (24)](#file-language-dropdown-75)
 
 български (BG) (61.61 KB - PDF)
 

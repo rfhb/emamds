@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:03:47
+document_datetime: 2025-12-29 12:55:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pegintron.html
 document_name: pegintron.html
 version: success
-processing_time: 0.118434
-conversion_datetime: 2025-12-24 17:08:39.27251
+processing_time: 0.414015
+conversion_datetime: 2025-12-30 09:18:35.43479
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-peginterferon alfa-2b
+peginterferon alfa-2b Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (645.28 KB - PDF)
 
 [View](/en/documents/overview/pegintron-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-700)
+[Other languages (21)](#file-language-dropdown-682)
 
 български (BG) (851.36 KB - PDF)
 
@@ -332,7 +328,7 @@ English (EN) (5.36 MB - PDF)
 
 [View](/en/documents/product-information/pegintron-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-950)
+[Other languages (24)](#file-language-dropdown-848)
 
 български (BG) (9.31 MB - PDF)
 
@@ -648,7 +644,7 @@ English (EN) (690.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pegintron-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-971)
+[Other languages (24)](#file-language-dropdown-124)
 
 български (BG) (851.34 KB - PDF)
 

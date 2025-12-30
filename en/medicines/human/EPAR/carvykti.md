@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:01
+document_datetime: 2025-12-29 11:25:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/carvykti.html
 document_name: carvykti.html
 version: success
-processing_time: 0.1151058
-conversion_datetime: 2025-12-28 01:10:35.163696
+processing_time: 0.1206235
+conversion_datetime: 2025-12-30 02:11:13.901839
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ciltacabtagene autoleucel Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -126,7 +128,7 @@ English (EN) (108.78 KB - PDF)
 
 [View](/en/documents/overview/carvykti-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-563)
+[Other languages (22)](#file-language-dropdown-86)
 
 български (BG) (136.47 KB - PDF)
 
@@ -414,7 +416,7 @@ English (EN) (431.29 KB - PDF)
 
 [View](/en/documents/product-information/carvykti-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-653)
+[Other languages (24)](#file-language-dropdown-434)
 
 български (BG) (462.14 KB - PDF)
 
@@ -730,7 +732,7 @@ English (EN) (30.79 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/carvykti-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-598)
+[Other languages (24)](#file-language-dropdown-943)
 
 български (BG) (32.29 KB - PDF)
 

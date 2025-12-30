@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:30:25
+document_datetime: 2025-12-29 11:32:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zubsolv.html
 document_name: zubsolv.html
 version: success
-processing_time: 0.1132328
-conversion_datetime: 2025-12-24 16:48:57.905899
+processing_time: 0.1128155
+conversion_datetime: 2025-12-30 01:20:27.998626
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 buprenorphine / naloxone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +116,7 @@ English (EN) (76.55 KB - PDF)
 
 [View](/en/documents/overview/zubsolv-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-452)
+[Other languages (22)](#file-language-dropdown-463)
 
 български (BG) (103.09 KB - PDF)
 
@@ -400,7 +402,7 @@ English (EN) (505.96 KB - PDF)
 
 [View](/en/documents/product-information/zubsolv-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-38)
+[Other languages (24)](#file-language-dropdown-385)
 
 български (BG) (796.51 KB - PDF)
 
@@ -716,7 +718,7 @@ English (EN) (172.29 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zubsolv-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-626)
+[Other languages (24)](#file-language-dropdown-269)
 
 български (BG) (111.77 KB - PDF)
 

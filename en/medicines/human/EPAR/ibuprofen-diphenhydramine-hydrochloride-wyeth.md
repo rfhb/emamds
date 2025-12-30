@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:02:15
+document_datetime: 2025-12-29 16:15:41
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ibuprofen-diphenhydramine-hydrochloride-wyeth.html
 document_name: ibuprofen-diphenhydramine-hydrochloride-wyeth.html
 version: success
-processing_time: 0.0684257
-conversion_datetime: 2025-12-28 00:59:50.099415
+processing_time: 0.2099011
+conversion_datetime: 2025-12-30 12:05:52.038824
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -101,7 +99,7 @@ English (EN) (65.62 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-ibuprofendiphenhydramine-hydrochloride-wyeth_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-828)
+[Other languages (21)](#file-language-dropdown-617)
 
 български (BG) (158.86 KB - PDF)
 

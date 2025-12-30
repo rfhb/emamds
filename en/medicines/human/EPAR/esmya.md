@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:12:01
+document_datetime: 2025-12-29 13:11:41
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/esmya.html
 document_name: esmya.html
 version: success
-processing_time: 0.1307366
-conversion_datetime: 2025-12-27 17:06:47.382485
+processing_time: 0.13105
+conversion_datetime: 2025-12-30 09:43:58.607525
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 ulipristal Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +66,7 @@ English (EN) (210.05 KB - PDF)
 
 [View](/en/documents/overview/esmya-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-193)
+[Other languages (22)](#file-language-dropdown-829)
 
 български (BG) (275.47 KB - PDF)
 
@@ -352,7 +354,7 @@ English (EN) (1.15 MB - PDF)
 
 [View](/en/documents/product-information/esmya-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-41)
+[Other languages (24)](#file-language-dropdown-700)
 
 български (BG) (1.56 MB - PDF)
 
@@ -668,7 +670,7 @@ English (EN) (48.74 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/esmya-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-370)
+[Other languages (24)](#file-language-dropdown-607)
 
 български (BG) (95.68 KB - PDF)
 
@@ -1008,7 +1010,7 @@ English (EN) (440.77 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/esmya-epar-scientific-conclusions-annex-iv_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-433)
+[Other languages (24)](#file-language-dropdown-591)
 
 български (BG) (792.72 KB - PDF)
 

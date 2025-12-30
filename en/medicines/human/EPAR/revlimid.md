@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:07:11
+document_datetime: 2025-12-29 11:25:31
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/revlimid.html
 document_name: revlimid.html
 version: success
-processing_time: 0.17027
-conversion_datetime: 2025-12-28 02:43:33.983675
+processing_time: 0.1825768
+conversion_datetime: 2025-12-30 21:18:21.197901
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lenalidomide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -149,7 +151,7 @@ English (EN) (170.73 KB - PDF)
 
 [View](/en/documents/overview/revlimid-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-655)
+[Other languages (22)](#file-language-dropdown-429)
 
 български (BG) (228.71 KB - PDF)
 
@@ -437,7 +439,7 @@ English (EN) (1.03 MB - PDF)
 
 [View](/en/documents/product-information/revlimid-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-477)
+[Other languages (24)](#file-language-dropdown-990)
 
 български (BG) (1.28 MB - PDF)
 
@@ -753,7 +755,7 @@ English (EN) (39.24 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/revlimid-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-378)
+[Other languages (24)](#file-language-dropdown-157)
 
 български (BG) (65.23 KB - PDF)
 
@@ -1053,7 +1055,7 @@ English (EN) (16.71 KB - PDF)
 
 [View](/en/documents/conditions-member-states/revlimid-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-477)
+[Other languages (25)](#file-language-dropdown-775)
 
 български (BG) (117.69 KB - PDF)
 
@@ -1753,7 +1755,7 @@ English (EN) (297.39 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/revlimid-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-526)
+[Other languages (24)](#file-language-dropdown-818)
 
 български (BG) (294.63 KB - DOCX)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:53:57
+document_datetime: 2025-12-29 10:27:58
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dimethyl-fumarate-neuraxpharm.html
 document_name: dimethyl-fumarate-neuraxpharm.html
 version: success
-processing_time: 0.1040189
-conversion_datetime: 2025-12-26 11:58:20.955919
+processing_time: 0.1048855
+conversion_datetime: 2025-12-30 01:51:49.293549
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 dimethyl fumarate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -99,7 +101,7 @@ English (EN) (145.32 KB - PDF)
 
 [View](/en/documents/overview/dimethyl-fumarate-neuraxpharm-epar-medicine-overview_en.pdf-0)
 
-[Other languages (22)](#file-language-dropdown-458)
+[Other languages (22)](#file-language-dropdown-215)
 
 български (BG) (168.84 KB - PDF)
 
@@ -297,7 +299,7 @@ English (EN) (395.91 KB - PDF)
 
 [View](/en/documents/product-information/dimethyl-fumarate-neuraxpharm-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-729)
+[Other languages (23)](#file-language-dropdown-706)
 
 български (BG) (536.66 KB - PDF)
 
@@ -599,7 +601,7 @@ English (EN) (23.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/dimethyl-fumarate-neuraxpharm-epar-all-authorised-presentations_en.pdf-0)
 
-[Other languages (24)](#file-language-dropdown-888)
+[Other languages (24)](#file-language-dropdown-216)
 
 български (BG) (47.26 KB - PDF)
 

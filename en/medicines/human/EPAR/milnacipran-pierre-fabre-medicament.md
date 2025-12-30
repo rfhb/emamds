@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:02:08
+document_datetime: 2025-12-29 14:27:32
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/milnacipran-pierre-fabre-medicament.html
 document_name: milnacipran-pierre-fabre-medicament.html
 version: success
-processing_time: 0.0647164
-conversion_datetime: 2025-12-28 08:57:59.901036
+processing_time: 0.062772
+conversion_datetime: 2025-12-30 21:26:46.078866
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine has been refused authorisation
 
-milnacipran
+milnacipran Medicine Human Refused
 
-Medicine
-
-Human
-
-Refused
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -89,7 +85,7 @@ English (EN) (40.85 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-recommendation-refusal-marketing-authorisation-milnacipran-pierre-fabre-medicament-impulsor_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-457)
+[Other languages (21)](#file-language-dropdown-259)
 
 български (BG) (147.2 KB - PDF)
 

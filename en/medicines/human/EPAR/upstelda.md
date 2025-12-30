@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 07:04:12
+document_datetime: 2025-12-29 11:11:44
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/upstelda.html
 document_name: upstelda.html
 version: success
-processing_time: 0.037908
-conversion_datetime: 2025-12-28 02:00:14.761878
+processing_time: 0.0458854
+conversion_datetime: 2025-12-30 01:52:15.591036
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 ustekinumab Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:05:31
+document_datetime: 2025-12-29 14:35:38
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rivastigmine-3m-health-care-ltd.html
 document_name: rivastigmine-3m-health-care-ltd.html
 version: success
-processing_time: 0.095636
-conversion_datetime: 2025-12-28 12:12:17.071409
+processing_time: 0.1076686
+conversion_datetime: 2025-12-30 22:37:33.197381
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-rivastigmine
+rivastigmine Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -71,7 +67,7 @@ English (EN) (543.73 KB - PDF)
 
 [View](/en/documents/overview/rivastigmine-3m-health-care-ltd-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-543)
+[Other languages (22)](#file-language-dropdown-946)
 
 български (BG) (1.13 MB - PDF)
 
@@ -359,7 +355,7 @@ English (EN) (797.74 KB - PDF)
 
 [View](/en/documents/product-information/rivastigmine-3m-health-care-ltd-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-798)
+[Other languages (24)](#file-language-dropdown-289)
 
 български (BG) (2.05 MB - PDF)
 
@@ -675,7 +671,7 @@ English (EN) (479.37 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rivastigmine-3m-health-care-ltd-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-636)
+[Other languages (24)](#file-language-dropdown-403)
 
 български (BG) (517.34 KB - PDF)
 

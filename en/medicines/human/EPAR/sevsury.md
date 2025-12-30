@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:03:09
+document_datetime: 2025-12-29 13:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sevsury.html
 document_name: sevsury.html
 version: success
-processing_time: 0.0671261
-conversion_datetime: 2025-12-27 21:51:02.522306
+processing_time: 0.068313
+conversion_datetime: 2025-12-30 01:49:40.473845
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-surufatinib
+surufatinib Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -102,7 +98,7 @@ English (EN) (145.36 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-application-marketing-authorisation-sevsury-surufatinib_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-461)
+[Other languages (22)](#file-language-dropdown-355)
 
 български (BG) (170.73 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:26:11
+document_datetime: 2025-12-29 12:17:15
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vocabria.html
 document_name: vocabria.html
 version: success
-processing_time: 0.1165254
-conversion_datetime: 2025-12-28 09:55:09.505199
+processing_time: 0.3747573
+conversion_datetime: 2025-12-30 21:15:04.588811
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 cabotegravir Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +121,7 @@ English (EN) (147.88 KB - PDF)
 
 [View](/en/documents/overview/vocabria-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-985)
+[Other languages (22)](#file-language-dropdown-749)
 
 български (BG) (174.74 KB - PDF)
 
@@ -407,7 +409,7 @@ English (EN) (1.72 MB - PDF)
 
 [View](/en/documents/product-information/vocabria-epar-product-information_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-505)
+[Other languages (22)](#file-language-dropdown-320)
 
 español (ES) (1.86 MB - PDF)
 
@@ -697,7 +699,7 @@ English (EN) (17.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vocabria-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-10)
+[Other languages (24)](#file-language-dropdown-62)
 
 български (BG) (39.28 KB - PDF)
 
@@ -1051,8 +1053,8 @@ English (EN) (170.14 KB - PDF)
 
 - [EMEA-001418-PIP01-13-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001418-pip01-13-m05)
 - [EMEA-001418-PIP02-15-M03 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001418-pip02-15-m03)
-- [Pregnancy and Neonatal Outcomes following Prenatal Exposure to Cabotegravir: Data from The Antiretroviral Pregnancy Registry (APR) (215325) - post-authorisation study](https://catalogues.ema.europa.eu/study/47339)
 - [CABFIDENCE: Global Real-World Evidence Cohort Study to evaluate Utilization, Clinical and Patient-Reported Outcomes among CAB+RPV LA users (224047) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000616)
+- [Pregnancy and Neonatal Outcomes following Prenatal Exposure to Cabotegravir: Data from The Antiretroviral Pregnancy Registry (APR) (215325) - post-authorisation study](https://catalogues.ema.europa.eu/study/47339)
 - [Pregnancy and Neonatal Outcomes following Prenatal Exposure to Cabotegravir Long Acting (CAB LA): Data from the European Pregnancy and Paediatric HIV Cohort Collaboration (EPPICC) (215163) - post-authorisation study](https://catalogues.ema.europa.eu/study/47336)
 - [Drug Utilization, Adherence, Effectiveness and Resistance: A Prospective Observational Cohort Study in People living with HIV (PLWH) initiating ARV regimen CAB+RPV LA in Collaboration with EuroSIDA (215161) - post-authorisation study](https://catalogues.ema.europa.eu/study/46179)
 - [Drug Utilization, Adherence, Effectiveness and Resistance: A Prospective Observational Cohort Study in People living with HIV (PLWH) initiating ARV regimen CAB+RPV LA in Collaboration with EuroSIDA (215161) - post-authorisation study](https://catalogues.ema.europa.eu/study/46179)

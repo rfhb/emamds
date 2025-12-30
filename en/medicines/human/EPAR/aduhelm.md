@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:00:59
+document_datetime: 2025-12-29 09:43:05
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aduhelm.html
 document_name: aduhelm.html
 version: success
-processing_time: 0.0668639
-conversion_datetime: 2025-12-24 20:33:26.219765
+processing_time: 0.0703187
+conversion_datetime: 2025-12-30 22:54:23.998641
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-aducanumab
+aducanumab Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +100,7 @@ English (EN) (122.95 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-application-marketing-authorisation-aduhelm-aducanumab_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-21)
+[Other languages (22)](#file-language-dropdown-815)
 
 български (BG) (137.43 KB - PDF)
 

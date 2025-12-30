@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:05:23
+document_datetime: 2025-12-29 14:35:18
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sabervel.html
 document_name: sabervel.html
 version: success
-processing_time: 0.1150567
-conversion_datetime: 2025-12-25 00:18:13.556143
+processing_time: 0.1218145
+conversion_datetime: 2025-12-30 21:50:24.288984
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has expired
 
-irbesartan
+irbesartan Medicine Human Expired
 
-Medicine
-
-Human
-
-Expired
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (513.87 KB - PDF)
 
 [View](/en/documents/overview/sabervel-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-900)
+[Other languages (21)](#file-language-dropdown-364)
 
 български (BG) (592 KB - PDF)
 
@@ -332,7 +328,7 @@ English (EN) (1.21 MB - PDF)
 
 [View](/en/documents/product-information/sabervel-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-968)
+[Other languages (24)](#file-language-dropdown-180)
 
 български (BG) (2.82 MB - PDF)
 
@@ -648,7 +644,7 @@ English (EN) (491.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sabervel-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-967)
+[Other languages (24)](#file-language-dropdown-145)
 
 български (BG) (532.52 KB - PDF)
 
@@ -1010,7 +1006,7 @@ English (EN) (527.93 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/sabervel-h-c-2510-a31-05-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommenda_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-143)
+[Other languages (22)](#file-language-dropdown-926)
 
 български (BG) (683.64 KB - PDF)
 

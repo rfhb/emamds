@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:03:03
+document_datetime: 2025-12-29 08:14:18
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zartra.html
 document_name: zartra.html
 version: success
-processing_time: 0.041556
-conversion_datetime: 2025-12-28 19:46:56.80097
+processing_time: 0.0289332
+conversion_datetime: 2025-12-30 13:01:19.382277
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-imiquimod
+imiquimod Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

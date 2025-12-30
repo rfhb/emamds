@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:31:19
+document_datetime: 2025-12-29 14:35:14
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/libertek.html
 document_name: libertek.html
 version: success
-processing_time: 0.1219706
-conversion_datetime: 2025-12-26 10:57:18.092067
+processing_time: 0.1241812
+conversion_datetime: 2025-12-30 13:04:07.400284
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 roflumilast Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -62,7 +64,7 @@ English (EN) (546.3 KB - PDF)
 
 [View](/en/documents/overview/libertek-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-208)
+[Other languages (22)](#file-language-dropdown-263)
 
 български (BG) (633.33 KB - PDF)
 
@@ -340,7 +342,7 @@ English (EN) (775.22 KB - PDF)
 
 [View](/en/documents/product-information/libertek-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-313)
+[Other languages (24)](#file-language-dropdown-277)
 
 български (BG) (1.33 MB - PDF)
 
@@ -656,7 +658,7 @@ English (EN) (486.89 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/libertek-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-333)
+[Other languages (24)](#file-language-dropdown-956)
 
 български (BG) (535.17 KB - PDF)
 
@@ -956,7 +958,7 @@ English (EN) (576.74 KB - PDF)
 
 [View](/en/documents/conditions-member-states/libertek-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-977)
+[Other languages (23)](#file-language-dropdown-280)
 
 български (BG) (677.87 KB - PDF)
 

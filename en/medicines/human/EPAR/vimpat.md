@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:52
+document_datetime: 2025-12-29 11:21:01
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vimpat.html
 document_name: vimpat.html
 version: success
-processing_time: 0.1700441
-conversion_datetime: 2025-12-28 18:17:38.53459
+processing_time: 0.1727326
+conversion_datetime: 2025-12-30 10:50:49.108841
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lacosamide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (124.11 KB - PDF)
 
 [View](/en/documents/overview/vimpat-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-498)
+[Other languages (22)](#file-language-dropdown-499)
 
 български (BG) (149.49 KB - PDF)
 
@@ -403,7 +405,7 @@ English (EN) (1.19 MB - PDF)
 
 [View](/en/documents/product-information/vimpat-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-530)
+[Other languages (24)](#file-language-dropdown-903)
 
 български (BG) (1.31 MB - PDF)
 
@@ -719,7 +721,7 @@ English (EN) (43.07 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vimpat-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-8)
+[Other languages (24)](#file-language-dropdown-714)
 
 български (BG) (163.37 KB - PDF)
 
@@ -1537,7 +1539,7 @@ English (EN) (697.51 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/vimpat-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-912)
+[Other languages (24)](#file-language-dropdown-607)
 
 български (BG) (586.97 KB - DOCX)
 

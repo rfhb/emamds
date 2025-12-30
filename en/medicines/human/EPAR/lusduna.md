@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:33:06
+document_datetime: 2025-12-29 12:29:26
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lusduna.html
 document_name: lusduna.html
 version: success
-processing_time: 0.1144757
-conversion_datetime: 2025-12-24 00:12:10.810093
+processing_time: 0.105096
+conversion_datetime: 2025-12-30 03:05:20.509145
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 insulin glargine Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -60,7 +62,7 @@ English (EN) (543.64 KB - PDF)
 
 [View](/en/documents/overview/lusduna-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-999)
+[Other languages (21)](#file-language-dropdown-737)
 
 български (BG) (624.41 KB - PDF)
 
@@ -326,7 +328,7 @@ English (EN) (2.63 MB - PDF)
 
 [View](/en/documents/product-information/lusduna-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-239)
+[Other languages (24)](#file-language-dropdown-883)
 
 български (BG) (3.67 MB - PDF)
 
@@ -642,7 +644,7 @@ English (EN) (474.25 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lusduna-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-658)
+[Other languages (24)](#file-language-dropdown-108)
 
 български (BG) (493.44 KB - PDF)
 

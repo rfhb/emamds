@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:50:37
+document_datetime: 2025-12-29 14:36:47
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/optruma.html
 document_name: optruma.html
 version: success
-processing_time: 0.1083852
-conversion_datetime: 2025-12-26 11:46:43.066928
+processing_time: 0.1084456
+conversion_datetime: 2025-12-30 22:36:12.425704
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 raloxifene Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (43.7 KB - PDF)
 
 [View](/en/documents/overview/optruma-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-640)
+[Other languages (21)](#file-language-dropdown-701)
 
 български (BG) (172.16 KB - PDF)
 
@@ -383,7 +385,7 @@ English (EN) (478.2 KB - PDF)
 
 [View](/en/documents/product-information/optruma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-276)
+[Other languages (24)](#file-language-dropdown-443)
 
 български (BG) (468.05 KB - PDF)
 
@@ -699,7 +701,7 @@ English (EN) (20.84 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/optruma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-83)
+[Other languages (24)](#file-language-dropdown-438)
 
 български (BG) (138.1 KB - PDF)
 

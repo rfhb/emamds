@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:02:43
+document_datetime: 2025-12-29 14:35:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rasilamlo.html
 document_name: rasilamlo.html
 version: success
-processing_time: 0.1327206
-conversion_datetime: 2025-12-28 10:17:20.577905
+processing_time: 0.1357569
+conversion_datetime: 2025-12-30 22:28:01.657396
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-aliskiren hemifumarate / amlodipine besilate
+aliskiren hemifumarate / amlodipine besilate Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -65,7 +61,7 @@ English (EN) (547.33 KB - PDF)
 
 [View](/en/documents/overview/rasilamlo-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-506)
+[Other languages (22)](#file-language-dropdown-791)
 
 български (BG) (625.8 KB - PDF)
 
@@ -343,7 +339,7 @@ English (EN) (1.71 MB - PDF)
 
 [View](/en/documents/product-information/rasilamlo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-656)
+[Other languages (24)](#file-language-dropdown-176)
 
 български (BG) (2.22 MB - PDF)
 
@@ -659,7 +655,7 @@ English (EN) (522.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rasilamlo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-973)
+[Other languages (23)](#file-language-dropdown-248)
 
 български (BG) (584.44 KB - PDF)
 
@@ -1025,7 +1021,7 @@ English (EN) (527.75 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/rasilamlo-h-c-2073-a31-84-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommen_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-170)
+[Other languages (22)](#file-language-dropdown-228)
 
 български (BG) (87.49 KB - PDF)
 

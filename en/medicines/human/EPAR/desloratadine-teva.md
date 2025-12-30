@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 13:10:36
+document_datetime: 2025-12-29 10:59:07
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/desloratadine-teva.html
 document_name: desloratadine-teva.html
 version: success
-processing_time: 0.1271625
-conversion_datetime: 2025-12-26 12:35:13.476376
+processing_time: 0.1324274
+conversion_datetime: 2025-12-30 10:51:24.972176
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-desloratadine
+desloratadine Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +102,7 @@ English (EN) (53.75 KB - PDF)
 
 [View](/en/documents/overview/desloratadine-teva-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-912)
+[Other languages (21)](#file-language-dropdown-430)
 
 български (BG) (89.32 KB - PDF)
 
@@ -372,7 +368,7 @@ English (EN) (190.92 KB - PDF)
 
 [View](/en/documents/product-information/desloratadine-teva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-421)
+[Other languages (24)](#file-language-dropdown-706)
 
 български (BG) (293.11 KB - PDF)
 
@@ -688,7 +684,7 @@ English (EN) (13.86 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/desloratadine-teva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-484)
+[Other languages (24)](#file-language-dropdown-389)
 
 български (BG) (14.46 KB - PDF)
 
@@ -1098,7 +1094,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-44)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

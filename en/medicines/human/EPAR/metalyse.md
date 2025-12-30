@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-06 04:51:36
+document_datetime: 2025-12-29 12:13:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/metalyse.html
 document_name: metalyse.html
 version: success
-processing_time: 0.1274823
-conversion_datetime: 2025-12-25 01:59:48.646664
+processing_time: 0.1285226
+conversion_datetime: 2025-12-30 01:45:29.057355
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tenecteplase Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -129,7 +131,7 @@ English (EN) (150.43 KB - PDF)
 
 [View](/en/documents/overview/metalyse-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-858)
+[Other languages (22)](#file-language-dropdown-0)
 
 български (BG) (173.77 KB - PDF)
 
@@ -407,7 +409,7 @@ English (EN) (938.12 KB - PDF)
 
 [View](/en/documents/product-information/metalyse-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-747)
+[Other languages (24)](#file-language-dropdown-838)
 
 български (BG) (969.16 KB - PDF)
 
@@ -723,7 +725,7 @@ English (EN) (34.99 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/metalyse-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-176)
+[Other languages (24)](#file-language-dropdown-60)
 
 български (BG) (36.51 KB - PDF)
 
@@ -1127,7 +1129,7 @@ English (EN) (206.77 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/metalyse-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-590)
+[Other languages (24)](#file-language-dropdown-854)
 
 български (BG) (204.68 KB - DOCX)
 

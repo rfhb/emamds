@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:03:22
+document_datetime: 2025-12-29 11:44:59
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/krystexxa.html
 document_name: krystexxa.html
 version: success
-processing_time: 0.1066596
-conversion_datetime: 2025-12-28 08:47:49.944178
+processing_time: 0.0942354
+conversion_datetime: 2025-12-30 11:51:14.41916
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-pegloticase
+pegloticase Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (521.09 KB - PDF)
 
 [View](/en/documents/overview/krystexxa-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-823)
+[Other languages (21)](#file-language-dropdown-406)
 
 български (BG) (1.13 MB - PDF)
 
@@ -333,7 +329,7 @@ English (EN) (1.41 MB - PDF)
 
 [View](/en/documents/product-information/krystexxa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-373)
+[Other languages (24)](#file-language-dropdown-155)
 
 български (BG) (2.54 MB - PDF)
 
@@ -649,7 +645,7 @@ English (EN) (931.95 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/krystexxa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-661)
+[Other languages (23)](#file-language-dropdown-157)
 
 български (BG) (1.03 MB - PDF)
 

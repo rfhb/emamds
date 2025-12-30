@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 11:41:32
+document_datetime: 2025-12-29 12:45:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zalmoxis.html
 document_name: zalmoxis.html
 version: success
-processing_time: 0.0759917
-conversion_datetime: 2025-12-24 07:30:14.9609
+processing_time: 0.1099375
+conversion_datetime: 2025-12-30 11:27:48.186529
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-allogeneic T cells genetically modified with a retroviral vector encoding for a truncated form of the human low affinity nerve growth factor receptor (ΔLNGFR) and the herpes simplex I virus thymidine kinase (HSV-TK Mut2)
+allogeneic T cells genetically modified with a retroviral vector encoding for a truncated form of the human low affinity nerve growth factor receptor (ΔLNGFR) and the herpes simplex I virus thymidine kinase (HSV-TK Mut2) Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -69,7 +65,7 @@ English (EN) (654.49 KB - PDF)
 
 [View](/en/documents/overview/zalmoxis-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-1)
+[Other languages (22)](#file-language-dropdown-963)
 
 български (BG) (760.89 KB - PDF)
 
@@ -347,7 +343,7 @@ English (EN) (1.09 MB - PDF)
 
 [View](/en/documents/product-information/zalmoxis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-593)
+[Other languages (24)](#file-language-dropdown-55)
 
 български (BG) (1.71 MB - PDF)
 
@@ -663,7 +659,7 @@ English (EN) (577.05 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zalmoxis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-934)
+[Other languages (24)](#file-language-dropdown-616)
 
 български (BG) (620.06 KB - PDF)
 

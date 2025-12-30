@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 11:01:10
+document_datetime: 2025-12-29 07:15:34
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ytracis.html
 document_name: ytracis.html
 version: success
-processing_time: 0.0987875
-conversion_datetime: 2025-12-25 08:56:41.947609
+processing_time: 0.1003154
+conversion_datetime: 2025-12-30 03:02:14.508482
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-yttrium [90Y] chloride
+yttrium [90Y] chloride Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (602.4 KB - PDF)
 
 [View](/en/documents/overview/ytracis-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-680)
+[Other languages (21)](#file-language-dropdown-420)
 
 български (BG) (770.37 KB - PDF)
 
@@ -332,7 +328,7 @@ English (EN) (645.87 KB - PDF)
 
 [View](/en/documents/product-information/ytracis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-497)
+[Other languages (24)](#file-language-dropdown-826)
 
 български (BG) (1.15 MB - PDF)
 
@@ -648,7 +644,7 @@ English (EN) (624.18 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ytracis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-469)
+[Other languages (18)](#file-language-dropdown-300)
 
 español (ES) (622.66 KB - PDF)
 

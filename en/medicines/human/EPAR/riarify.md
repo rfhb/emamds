@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:00:56
+document_datetime: 2025-12-29 07:40:41
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/riarify.html
 document_name: riarify.html
 version: success
-processing_time: 0.109707
-conversion_datetime: 2025-12-26 20:08:32.804853
+processing_time: 0.111772
+conversion_datetime: 2025-12-30 02:58:46.93754
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-beclometasone / formoterol
+beclometasone / formoterol Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -69,7 +65,7 @@ English (EN) (140.1 KB - PDF)
 
 [View](/en/documents/overview/riarify-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-843)
+[Other languages (22)](#file-language-dropdown-871)
 
 български (BG) (216.04 KB - PDF)
 
@@ -357,7 +353,7 @@ English (EN) (1.54 MB - PDF)
 
 [View](/en/documents/product-information/riarify-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-614)
+[Other languages (24)](#file-language-dropdown-844)
 
 български (BG) (1.47 MB - PDF)
 
@@ -673,7 +669,7 @@ English (EN) (71.08 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/riarify-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-925)
+[Other languages (24)](#file-language-dropdown-64)
 
 български (BG) (97.73 KB - PDF)
 

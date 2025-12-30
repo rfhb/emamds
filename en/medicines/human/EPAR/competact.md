@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:45:10
+document_datetime: 2025-12-29 14:14:43
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/competact.html
 document_name: competact.html
 version: success
-processing_time: 0.1507131
-conversion_datetime: 2025-12-25 09:58:11.718273
+processing_time: 0.1516921
+conversion_datetime: 2025-12-30 02:31:28.088212
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pioglitazone / metformin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (78.11 KB - PDF)
 
 [View](/en/documents/overview/competact-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-924)
+[Other languages (22)](#file-language-dropdown-838)
 
 български (BG) (107.13 KB - PDF)
 
@@ -397,7 +399,7 @@ English (EN) (412.76 KB - PDF)
 
 [View](/en/documents/product-information/competact-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-214)
+[Other languages (24)](#file-language-dropdown-722)
 
 български (BG) (509.8 KB - PDF)
 
@@ -713,7 +715,7 @@ English (EN) (91.12 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/competact-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-387)
+[Other languages (24)](#file-language-dropdown-681)
 
 български (BG) (110.26 KB - PDF)
 
@@ -1013,7 +1015,7 @@ English (EN) (17.07 KB - PDF)
 
 [View](/en/documents/conditions-member-states/competact-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-738)
+[Other languages (23)](#file-language-dropdown-638)
 
 български (BG) (69.92 KB - PDF)
 
@@ -1383,7 +1385,7 @@ English (EN) (32.54 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/competact-epar-scientific-conclusion_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-848)
+[Other languages (24)](#file-language-dropdown-637)
 
 български (BG) (69.5 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:08:09
+document_datetime: 2025-12-29 14:34:16
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ratiograstim.html
 document_name: ratiograstim.html
 version: success
-processing_time: 0.110808
-conversion_datetime: 2025-12-26 13:05:34.241089
+processing_time: 0.1029711
+conversion_datetime: 2025-12-30 12:35:25.592732
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-filgrastim
+filgrastim Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +117,7 @@ English (EN) (80.81 KB - PDF)
 
 [View](/en/documents/overview/ratiograstim-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-148)
+[Other languages (22)](#file-language-dropdown-346)
 
 български (BG) (133.58 KB - PDF)
 
@@ -407,7 +403,7 @@ English (EN) (900.6 KB - PDF)
 
 [View](/en/documents/product-information/ratiograstim-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-432)
+[Other languages (24)](#file-language-dropdown-767)
 
 български (BG) (1.06 MB - PDF)
 
@@ -723,7 +719,7 @@ English (EN) (26.54 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ratiograstim-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-313)
+[Other languages (24)](#file-language-dropdown-174)
 
 български (BG) (97.15 KB - PDF)
 

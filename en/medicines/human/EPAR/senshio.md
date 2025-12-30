@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:20:19
+document_datetime: 2025-12-29 11:25:51
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/senshio.html
 document_name: senshio.html
 version: success
-processing_time: 0.1110274
-conversion_datetime: 2025-12-27 17:46:01.205427
+processing_time: 0.1083406
+conversion_datetime: 2025-12-30 01:33:13.430488
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ospemifene Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -102,7 +104,7 @@ English (EN) (118.53 KB - PDF)
 
 [View](/en/documents/overview/senshio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-616)
+[Other languages (22)](#file-language-dropdown-969)
 
 български (BG) (141.61 KB - PDF)
 
@@ -392,7 +394,7 @@ English (EN) (580.78 KB - PDF)
 
 [View](/en/documents/product-information/senshio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-631)
+[Other languages (24)](#file-language-dropdown-115)
 
 български (BG) (881.01 KB - PDF)
 
@@ -708,7 +710,7 @@ English (EN) (182.72 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/senshio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-508)
+[Other languages (24)](#file-language-dropdown-269)
 
 български (BG) (229.3 KB - PDF)
 

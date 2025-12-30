@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:10:31
+document_datetime: 2025-12-29 10:02:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ryjunea.html
 document_name: ryjunea.html
 version: success
-processing_time: 0.1013199
-conversion_datetime: 2025-12-28 13:10:08.354148
+processing_time: 0.101687
+conversion_datetime: 2025-12-30 10:15:20.827919
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 atropine sulfate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +105,7 @@ English (EN) (156.86 KB - PDF)
 
 [View](/en/documents/overview/ryjunea-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-347)
+[Other languages (22)](#file-language-dropdown-411)
 
 български (BG) (183.05 KB - PDF)
 
@@ -299,7 +301,7 @@ English (EN) (331.8 KB - PDF)
 
 [View](/en/documents/product-information/ryjunea-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-737)
+[Other languages (24)](#file-language-dropdown-997)
 
 български (BG) (405.81 KB - PDF)
 
@@ -515,7 +517,7 @@ English (EN) (53.13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ryjunea-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-329)
+[Other languages (24)](#file-language-dropdown-69)
 
 български (BG) (39.35 KB - PDF)
 

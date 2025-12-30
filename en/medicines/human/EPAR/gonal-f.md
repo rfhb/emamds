@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:49:59
+document_datetime: 2025-12-29 11:57:17
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/gonal-f.html
 document_name: gonal-f.html
 version: success
-processing_time: 0.1140109
-conversion_datetime: 2025-12-28 03:59:44.893928
+processing_time: 0.111118
+conversion_datetime: 2025-12-30 09:34:27.480723
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 follitropin alfa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +123,7 @@ English (EN) (61.46 KB - PDF)
 
 [View](/en/documents/overview/gonal-f-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-782)
+[Other languages (21)](#file-language-dropdown-593)
 
 български (BG) (102.41 KB - PDF)
 
@@ -395,7 +397,7 @@ English (EN) (3.07 MB - PDF)
 
 [View](/en/documents/product-information/gonal-f-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-985)
+[Other languages (24)](#file-language-dropdown-539)
 
 български (BG) (2.83 MB - PDF)
 
@@ -711,7 +713,7 @@ English (EN) (71.84 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/gonal-f-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-342)
+[Other languages (24)](#file-language-dropdown-38)
 
 български (BG) (85.71 KB - PDF)
 

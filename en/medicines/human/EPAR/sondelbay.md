@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:45:53
+document_datetime: 2025-12-29 09:09:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sondelbay.html
 document_name: sondelbay.html
 version: success
-processing_time: 0.1235011
-conversion_datetime: 2025-12-27 23:54:24.082289
+processing_time: 0.1215552
+conversion_datetime: 2025-12-30 09:29:00.364195
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 teriparatide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (113.41 KB - PDF)
 
 [View](/en/documents/overview/sondelbay-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-238)
+[Other languages (22)](#file-language-dropdown-570)
 
 български (BG) (124.9 KB - PDF)
 
@@ -310,7 +312,7 @@ English (EN) (743.63 KB - PDF)
 
 [View](/en/documents/product-information/sondelbay-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-538)
+[Other languages (24)](#file-language-dropdown-325)
 
 български (BG) (909.53 KB - PDF)
 
@@ -624,7 +626,7 @@ English (EN) (47.74 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sondelbay-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-415)
+[Other languages (24)](#file-language-dropdown-825)
 
 български (BG) (55.88 KB - PDF)
 
@@ -920,7 +922,7 @@ English (EN) (786.5 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/sondelbay-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-226)
+[Other languages (24)](#file-language-dropdown-267)
 
 български (BG) (762.32 KB - DOCX)
 

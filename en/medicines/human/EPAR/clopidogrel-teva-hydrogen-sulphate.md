@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:52:32
+document_datetime: 2025-12-29 14:26:42
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-teva-hydrogen-sulphate.html
 document_name: clopidogrel-teva-hydrogen-sulphate.html
 version: success
-processing_time: 0.1352524
-conversion_datetime: 2025-12-24 00:53:43.762412
+processing_time: 0.1238558
+conversion_datetime: 2025-12-30 21:48:19.902035
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 clopidogrel Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +105,7 @@ English (EN) (51.24 KB - PDF)
 
 [View](/en/documents/overview/clopidogrel-teva-hydrogen-sulphate-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-734)
+[Other languages (21)](#file-language-dropdown-198)
 
 български (BG) (186.16 KB - PDF)
 
@@ -369,7 +371,7 @@ English (EN) (558.06 KB - PDF)
 
 [View](/en/documents/product-information/clopidogrel-teva-hydrogen-sulphate-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-636)
+[Other languages (24)](#file-language-dropdown-908)
 
 български (BG) (774.51 KB - PDF)
 
@@ -685,7 +687,7 @@ English (EN) (44.54 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/clopidogrel-teva-hydrogen-sulphate-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-535)
+[Other languages (24)](#file-language-dropdown-557)
 
 български (BG) (89.13 KB - PDF)
 
@@ -1070,7 +1072,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

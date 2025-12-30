@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 08:02:50
+document_datetime: 2025-12-29 11:48:15
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kanuma.html
 document_name: kanuma.html
 version: success
-processing_time: 0.1208425
-conversion_datetime: 2025-12-24 00:36:38.831171
+processing_time: 0.1117948
+conversion_datetime: 2025-12-30 21:09:21.719139
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-sebelipase alfa
+sebelipase alfa Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +118,7 @@ English (EN) (77.6 KB - PDF)
 
 [View](/en/documents/overview/kanuma-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-20)
+[Other languages (22)](#file-language-dropdown-823)
 
 български (BG) (78.26 KB - PDF)
 
@@ -410,7 +406,7 @@ English (EN) (626.06 KB - PDF)
 
 [View](/en/documents/product-information/kanuma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-891)
+[Other languages (24)](#file-language-dropdown-914)
 
 български (BG) (686.18 KB - PDF)
 
@@ -726,7 +722,7 @@ English (EN) (30.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kanuma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-183)
+[Other languages (24)](#file-language-dropdown-461)
 
 български (BG) (32.95 KB - PDF)
 

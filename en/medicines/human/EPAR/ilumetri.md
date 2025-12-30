@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:11:14
+document_datetime: 2025-12-29 09:06:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ilumetri.html
 document_name: ilumetri.html
 version: success
-processing_time: 0.1165897
-conversion_datetime: 2025-12-24 05:44:22.175548
+processing_time: 0.1061313
+conversion_datetime: 2025-12-30 20:56:56.671729
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tildrakizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +107,7 @@ English (EN) (74.73 KB - PDF)
 
 [View](/en/documents/overview/ilumetri-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-293)
+[Other languages (22)](#file-language-dropdown-190)
 
 български (BG) (102.83 KB - PDF)
 
@@ -305,7 +307,7 @@ English (EN) (1.91 MB - PDF)
 
 [View](/en/documents/product-information/ilumetri-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-447)
+[Other languages (24)](#file-language-dropdown-716)
 
 български (BG) (2.02 MB - PDF)
 
@@ -621,7 +623,7 @@ English (EN) (97.36 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ilumetri-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-297)
+[Other languages (24)](#file-language-dropdown-341)
 
 български (BG) (96.54 KB - PDF)
 
@@ -994,7 +996,8 @@ English (EN) (67.52 KB - PDF)
 
 #### More information on Ilumetri
 
-- [EMEA-001451-PIP01-13-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001451-pip01-13-m01)
+- [EMA/PE/0000182362 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000182362)
+- [EMEA-001451-PIP02-24 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001451-pip02-24)
 - [Shortening the time to confirm or to rebut Adverse events of interest related to innovative Therapies for immune-mediated inflammATory dIseases: cross-talking between different data sOURces. SATURATIOn study. - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000207)
 
 #### Topics

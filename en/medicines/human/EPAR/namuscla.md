@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:20:59
+document_datetime: 2025-12-29 14:20:24
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/namuscla.html
 document_name: namuscla.html
 version: success
-processing_time: 0.1105014
-conversion_datetime: 2025-12-28 10:23:44.861681
+processing_time: 0.106468
+conversion_datetime: 2025-12-30 07:57:51.447208
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 mexiletine hcl Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (107.83 KB - PDF)
 
 [View](/en/documents/overview/namuscla-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-737)
+[Other languages (22)](#file-language-dropdown-71)
 
 български (BG) (129.7 KB - PDF)
 
@@ -309,7 +311,7 @@ English (EN) (334.66 KB - PDF)
 
 [View](/en/documents/product-information/namuscla-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-148)
+[Other languages (24)](#file-language-dropdown-804)
 
 български (BG) (473.77 KB - PDF)
 
@@ -623,7 +625,7 @@ English (EN) (13.69 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/namuscla-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-848)
+[Other languages (24)](#file-language-dropdown-214)
 
 български (BG) (36.57 KB - PDF)
 

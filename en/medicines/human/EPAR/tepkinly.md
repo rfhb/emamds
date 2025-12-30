@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:58:26
+document_datetime: 2025-12-29 09:30:18
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tepkinly.html
 document_name: tepkinly.html
 version: success
-processing_time: 0.1158542
-conversion_datetime: 2025-12-25 11:53:42.690192
+processing_time: 0.1184028
+conversion_datetime: 2025-12-30 08:27:01.363826
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 epcoritamab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (124.36 KB - PDF)
 
 [View](/en/documents/overview/tepkinly-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-995)
+[Other languages (22)](#file-language-dropdown-633)
 
 български (BG) (148.6 KB - PDF)
 
@@ -395,7 +397,7 @@ English (EN) (493.02 KB - PDF)
 
 [View](/en/documents/product-information/tepkinly-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-767)
+[Other languages (24)](#file-language-dropdown-183)
 
 български (BG) (627.47 KB - PDF)
 
@@ -709,7 +711,7 @@ English (EN) (29.67 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tepkinly-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-52)
+[Other languages (24)](#file-language-dropdown-2)
 
 български (BG) (31.22 KB - PDF)
 

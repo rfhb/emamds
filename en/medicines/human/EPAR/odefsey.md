@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:39
+document_datetime: 2025-12-29 12:27:11
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/odefsey.html
 document_name: odefsey.html
 version: success
-processing_time: 0.1138004
-conversion_datetime: 2025-12-24 21:25:32.748692
+processing_time: 0.1120652
+conversion_datetime: 2025-12-30 07:50:46.976229
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 emtricitabine / rilpivirine / tenofovir alafenamide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +122,7 @@ English (EN) (82.76 KB - PDF)
 
 [View](/en/documents/overview/odefsey-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-433)
+[Other languages (21)](#file-language-dropdown-920)
 
 български (BG) (108.6 KB - PDF)
 
@@ -394,7 +396,7 @@ English (EN) (750.86 KB - PDF)
 
 [View](/en/documents/product-information/odefsey-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-453)
+[Other languages (24)](#file-language-dropdown-306)
 
 български (BG) (803.34 KB - PDF)
 
@@ -710,7 +712,7 @@ English (EN) (54.19 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/odefsey-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-56)
+[Other languages (24)](#file-language-dropdown-933)
 
 български (BG) (61.16 KB - PDF)
 

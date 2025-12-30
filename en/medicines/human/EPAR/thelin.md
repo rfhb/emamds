@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:03:31
+document_datetime: 2025-12-29 07:46:31
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/thelin.html
 document_name: thelin.html
 version: success
-processing_time: 0.114088
-conversion_datetime: 2025-12-24 17:39:30.401546
+processing_time: 0.1202984
+conversion_datetime: 2025-12-30 10:14:38.96196
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-sitaxentan sodium
+sitaxentan sodium Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (284.21 KB - PDF)
 
 [View](/en/documents/overview/thelin-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-379)
+[Other languages (21)](#file-language-dropdown-300)
 
 български (BG) (442.17 KB - PDF)
 
@@ -333,7 +329,7 @@ English (EN) (561.78 KB - PDF)
 
 [View](/en/documents/product-information/thelin-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-633)
+[Other languages (23)](#file-language-dropdown-410)
 
 български (BG) (1.06 MB - PDF)
 
@@ -637,7 +633,7 @@ English (EN) (212.79 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/thelin-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-726)
+[Other languages (21)](#file-language-dropdown-145)
 
 български (BG) (302.55 KB - PDF)
 
@@ -901,7 +897,7 @@ English (EN) (294.19 KB - PDF)
 
 [View](/en/documents/conditions-member-states/thelin-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-932)
+[Other languages (21)](#file-language-dropdown-295)
 
 български (BG) (361.79 KB - PDF)
 

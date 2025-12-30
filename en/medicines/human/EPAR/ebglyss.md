@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:10:04
+document_datetime: 2025-12-29 11:21:30
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ebglyss.html
 document_name: ebglyss.html
 version: success
-processing_time: 0.1083067
-conversion_datetime: 2025-12-27 09:21:23.214646
+processing_time: 0.111044
+conversion_datetime: 2025-12-30 03:09:34.364811
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lebrikizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (123.33 KB - PDF)
 
 [View](/en/documents/overview/ebglyss-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-100)
+[Other languages (22)](#file-language-dropdown-788)
 
 български (BG) (124.02 KB - PDF)
 
@@ -312,7 +314,7 @@ English (EN) (1.39 MB - PDF)
 
 [View](/en/documents/product-information/ebglyss-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-289)
+[Other languages (24)](#file-language-dropdown-596)
 
 български (BG) (1.41 MB - PDF)
 
@@ -628,7 +630,7 @@ English (EN) (55.2 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ebglyss-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-596)
+[Other languages (24)](#file-language-dropdown-81)
 
 български (BG) (71.55 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:05:33
+document_datetime: 2025-12-29 12:46:45
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imatinib-medac.html
 document_name: imatinib-medac.html
 version: success
-processing_time: 0.1064489
-conversion_datetime: 2025-12-26 19:57:04.035952
+processing_time: 0.5698788
+conversion_datetime: 2025-12-30 13:00:15.6396
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-imatinib
+imatinib Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (645.79 KB - PDF)
 
 [View](/en/documents/overview/imatinib-medac-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-22)
+[Other languages (22)](#file-language-dropdown-693)
 
 български (BG) (732.95 KB - PDF)
 
@@ -344,7 +340,7 @@ English (EN) (1011.81 KB - PDF)
 
 [View](/en/documents/product-information/imatinib-medac-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-566)
+[Other languages (24)](#file-language-dropdown-179)
 
 български (BG) (2.26 MB - PDF)
 
@@ -660,7 +656,7 @@ English (EN) (593.31 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imatinib-medac-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-810)
+[Other languages (24)](#file-language-dropdown-129)
 
 български (BG) (616.45 KB - PDF)
 

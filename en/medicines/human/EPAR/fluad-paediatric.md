@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:19
+document_datetime: 2025-12-29 08:45:43
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fluad-paediatric.html
 document_name: fluad-paediatric.html
 version: success
-processing_time: 0.0495888
-conversion_datetime: 2025-12-24 22:16:37.704835
+processing_time: 0.0649313
+conversion_datetime: 2025-12-30 22:58:01.684201
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +101,7 @@ English (EN) (63.98 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-fluad-paediatric-influenza-vaccine-surface-antigen-inactivated-adjuvanted_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-353)
+[Other languages (21)](#file-language-dropdown-736)
 
 български (BG) (103.06 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:08
+document_datetime: 2025-12-29 08:11:17
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xolair.html
 document_name: xolair.html
 version: success
-processing_time: 0.163669
-conversion_datetime: 2025-12-27 09:21:40.039215
+processing_time: 0.3816993
+conversion_datetime: 2025-12-30 02:39:25.030085
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 omalizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -137,7 +139,7 @@ English (EN) (159.32 KB - PDF)
 
 [View](/en/documents/overview/xolair-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-731)
+[Other languages (22)](#file-language-dropdown-478)
 
 български (BG) (184.16 KB - PDF)
 
@@ -425,7 +427,7 @@ English (EN) (2.32 MB - PDF)
 
 [View](/en/documents/product-information/xolair-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-648)
+[Other languages (24)](#file-language-dropdown-940)
 
 български (BG) (2.56 MB - PDF)
 
@@ -741,7 +743,7 @@ English (EN) (74.96 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xolair-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-281)
+[Other languages (24)](#file-language-dropdown-773)
 
 български (BG) (84.02 KB - PDF)
 
@@ -1563,7 +1565,7 @@ English (EN) (2.66 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/xolair-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-254)
+[Other languages (24)](#file-language-dropdown-18)
 
 български (BG) (2.8 MB - DOCX)
 
@@ -1760,8 +1762,9 @@ svenska (SV) (2.69 MB - DOCX)
 #### More information on Xolair
 
 - [EMEA-000735-PIP01-09 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000735-pip01-09)
-- [Assessing the impact of remission at 12-months post-initiation of biologic therapy on long-term clinical outcomes of patients with severe asthma (SPOTLIGHT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000789)
+- [Impact of biologics on inhaled corticosteroids reduction (MOON LIGHT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000855)
 - [Sustainability of response to biologics in severe asthma and predictors of late failure among patients in an international registry (SHINE) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000788)
+- [Assessing the impact of remission at 12-months post-initiation of biologic therapy on long-term clinical outcomes of patients with severe asthma (SPOTLIGHT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000789)
 - [Assessing the impact of earlier access to biologics on remission and natural course of asthma (GLEAM) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000530)
 
 #### Topics

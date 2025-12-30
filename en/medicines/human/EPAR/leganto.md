@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:00:59
+document_datetime: 2025-12-29 14:35:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/leganto.html
 document_name: leganto.html
 version: success
-processing_time: 0.1098425
-conversion_datetime: 2025-12-27 09:43:21.480896
+processing_time: 0.099305
+conversion_datetime: 2025-12-30 11:52:37.867605
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-rotigotine
+rotigotine Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (671.07 KB - PDF)
 
 [View](/en/documents/overview/leganto-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-270)
+[Other languages (21)](#file-language-dropdown-338)
 
 български (BG) (734.38 KB - PDF)
 
@@ -332,7 +328,7 @@ English (EN) (1.68 MB - PDF)
 
 [View](/en/documents/product-information/leganto-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-620)
+[Other languages (24)](#file-language-dropdown-283)
 
 български (BG) (5.74 MB - PDF)
 
@@ -648,7 +644,7 @@ English (EN) (588.64 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/leganto-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-616)
+[Other languages (24)](#file-language-dropdown-705)
 
 български (BG) (630.41 KB - PDF)
 

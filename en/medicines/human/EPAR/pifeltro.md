@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:15:30
+document_datetime: 2025-12-29 10:51:59
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pifeltro.html
 document_name: pifeltro.html
 version: success
-processing_time: 0.112033
-conversion_datetime: 2025-12-28 11:01:53.906545
+processing_time: 0.103929
+conversion_datetime: 2025-12-30 11:50:30.233166
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 doravirine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (113.45 KB - PDF)
 
 [View](/en/documents/overview/pifeltro-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-924)
+[Other languages (22)](#file-language-dropdown-400)
 
 български (BG) (135.41 KB - PDF)
 
@@ -401,7 +403,7 @@ English (EN) (377.64 KB - PDF)
 
 [View](/en/documents/product-information/pifeltro-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-929)
+[Other languages (24)](#file-language-dropdown-736)
 
 български (BG) (359.04 KB - PDF)
 
@@ -715,7 +717,7 @@ English (EN) (73.47 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pifeltro-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-232)
+[Other languages (24)](#file-language-dropdown-251)
 
 български (BG) (72.87 KB - PDF)
 

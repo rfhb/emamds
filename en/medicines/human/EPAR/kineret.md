@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:55:48
+document_datetime: 2025-12-29 12:18:06
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kineret.html
 document_name: kineret.html
 version: success
-processing_time: 0.2474253
-conversion_datetime: 2025-12-24 14:52:49.030225
+processing_time: 0.1415767
+conversion_datetime: 2025-12-30 21:10:17.72661
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 anakinra Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -134,7 +136,7 @@ English (EN) (156.38 KB - PDF)
 
 [View](/en/documents/overview/kineret-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-265)
+[Other languages (22)](#file-language-dropdown-35)
 
 български (BG) (146.74 KB - PDF)
 
@@ -422,7 +424,7 @@ English (EN) (355.58 KB - PDF)
 
 [View](/en/documents/product-information/kineret-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-705)
+[Other languages (24)](#file-language-dropdown-843)
 
 български (BG) (493.48 KB - PDF)
 
@@ -738,7 +740,7 @@ English (EN) (19.76 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kineret-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-648)
+[Other languages (24)](#file-language-dropdown-594)
 
 български (BG) (45.21 KB - PDF)
 

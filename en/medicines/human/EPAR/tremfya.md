@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 12:58:39
+document_datetime: 2025-12-29 11:19:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tremfya.html
 document_name: tremfya.html
 version: success
-processing_time: 0.1097565
-conversion_datetime: 2025-12-26 09:35:15.587463
+processing_time: 0.1110066
+conversion_datetime: 2025-12-30 11:29:30.680496
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -173,7 +173,7 @@ English (EN) (11.57 MB - PDF)
 
 [View](/en/documents/product-information/tremfya-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-415)
+[Other languages (24)](#file-language-dropdown-553)
 
 български (BG) (10.91 MB - PDF)
 
@@ -489,7 +489,7 @@ English (EN) (37.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tremfya-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-540)
+[Other languages (24)](#file-language-dropdown-405)
 
 български (BG) (31.8 KB - PDF)
 

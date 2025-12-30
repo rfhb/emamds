@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:22:32
+document_datetime: 2025-12-29 09:27:48
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nordimet.html
 document_name: nordimet.html
 version: success
-processing_time: 0.1538348
-conversion_datetime: 2025-12-28 09:47:56.084157
+processing_time: 0.1440595
+conversion_datetime: 2025-12-30 13:03:00.114178
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 methotrexate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (146.5 KB - PDF)
 
 [View](/en/documents/overview/nordimet-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-92)
+[Other languages (22)](#file-language-dropdown-322)
 
 български (BG) (131.51 KB - PDF)
 
@@ -405,7 +407,7 @@ English (EN) (1.14 MB - PDF)
 
 [View](/en/documents/product-information/nordimet-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-125)
+[Other languages (24)](#file-language-dropdown-136)
 
 български (BG) (1.41 MB - PDF)
 
@@ -721,7 +723,7 @@ English (EN) (124.52 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nordimet-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-515)
+[Other languages (24)](#file-language-dropdown-559)
 
 български (BG) (199.13 KB - PDF)
 
@@ -1069,7 +1071,7 @@ English (EN) (48.08 KB - PDF)
 
 [View](/en/documents/referral/methotrexate-article-31-referral-annex-ii_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-566)
+[Other languages (22)](#file-language-dropdown-94)
 
 български (BG) (70.65 KB - PDF)
 
@@ -1411,7 +1413,7 @@ English (EN) (497.17 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/nordimet-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-689)
+[Other languages (24)](#file-language-dropdown-251)
 
 български (BG) (696.72 KB - DOCX)
 

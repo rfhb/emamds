@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 12:52:02
+document_datetime: 2025-12-29 11:37:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/strimvelis.html
 document_name: strimvelis.html
 version: success
-processing_time: 0.11237
-conversion_datetime: 2025-12-27 23:22:15.553955
+processing_time: 0.1144108
+conversion_datetime: 2025-12-30 08:07:15.778251
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -120,7 +120,7 @@ English (EN) (81.98 KB - PDF)
 
 [View](/en/documents/overview/strimvelis-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-77)
+[Other languages (22)](#file-language-dropdown-205)
 
 български (BG) (110.04 KB - PDF)
 
@@ -408,7 +408,7 @@ English (EN) (505.47 KB - PDF)
 
 [View](/en/documents/product-information/strimvelis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-290)
+[Other languages (24)](#file-language-dropdown-976)
 
 български (BG) (521.39 KB - PDF)
 
@@ -724,7 +724,7 @@ English (EN) (18.39 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/strimvelis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-273)
+[Other languages (24)](#file-language-dropdown-655)
 
 български (BG) (38.91 KB - PDF)
 

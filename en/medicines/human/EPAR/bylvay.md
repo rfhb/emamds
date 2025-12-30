@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:34:57
+document_datetime: 2025-12-29 12:47:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bylvay.html
 document_name: bylvay.html
 version: success
-processing_time: 0.132692
-conversion_datetime: 2025-12-28 18:27:15.167175
+processing_time: 0.1377603
+conversion_datetime: 2025-12-30 09:49:58.758806
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 odevixibat Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +106,7 @@ English (EN) (110.54 KB - PDF)
 
 [View](/en/documents/overview/bylvay-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-524)
+[Other languages (22)](#file-language-dropdown-615)
 
 български (BG) (134.55 KB - PDF)
 
@@ -304,7 +306,7 @@ English (EN) (996.25 KB - PDF)
 
 [View](/en/documents/product-information/bylvay-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-482)
+[Other languages (24)](#file-language-dropdown-199)
 
 български (BG) (1.14 MB - PDF)
 
@@ -618,7 +620,7 @@ English (EN) (70.52 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bylvay-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-698)
+[Other languages (24)](#file-language-dropdown-18)
 
 български (BG) (77.29 KB - PDF)
 
@@ -994,7 +996,7 @@ English (EN) (567.01 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/bylvay-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-732)
+[Other languages (24)](#file-language-dropdown-512)
 
 български (BG) (533.2 KB - DOCX)
 

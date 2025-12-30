@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:32:07
+document_datetime: 2025-12-29 14:33:45
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ariclaim.html
 document_name: ariclaim.html
 version: success
-processing_time: 0.1120314
-conversion_datetime: 2025-12-28 09:44:29.365697
+processing_time: 0.1088965
+conversion_datetime: 2025-12-30 20:09:29.211982
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 duloxetine Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -62,7 +64,7 @@ English (EN) (472.53 KB - PDF)
 
 [View](/en/documents/overview/ariclaim-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-745)
+[Other languages (21)](#file-language-dropdown-829)
 
 български (BG) (672.16 KB - PDF)
 
@@ -328,7 +330,7 @@ English (EN) (1.04 MB - PDF)
 
 [View](/en/documents/product-information/ariclaim-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-690)
+[Other languages (24)](#file-language-dropdown-998)
 
 български (BG) (2.31 MB - PDF)
 
@@ -644,7 +646,7 @@ English (EN) (468.01 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ariclaim-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-828)
+[Other languages (24)](#file-language-dropdown-238)
 
 български (BG) (575.9 KB - PDF)
 
@@ -954,7 +956,7 @@ EMA product number EMEA/H/C/000552 Marketing authorisation holder
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83
+Orteliuslaan 1000 3528 BD Utrecht Netherlands
 
 Marketing authorisation issued 11/08/2004 Withdrawal of marketing authorisation 09/07/2018 Revision 26
 

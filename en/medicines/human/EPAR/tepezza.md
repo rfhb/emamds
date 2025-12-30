@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:19:20
+document_datetime: 2025-12-29 09:09:35
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tepezza.html
 document_name: tepezza.html
 version: success
-processing_time: 0.1004012
-conversion_datetime: 2025-12-24 08:53:01.575018
+processing_time: 0.0929903
+conversion_datetime: 2025-12-30 10:31:22.247806
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 teprotumumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (129.96 KB - PDF)
 
 [View](/en/documents/overview/tepezza-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-74)
+[Other languages (22)](#file-language-dropdown-145)
 
 български (BG) (150.15 KB - PDF)
 
@@ -309,7 +311,7 @@ English (EN) (363.53 KB - PDF)
 
 [View](/en/documents/product-information/tepezza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-887)
+[Other languages (24)](#file-language-dropdown-757)
 
 български (BG) (518.43 KB - PDF)
 
@@ -527,7 +529,7 @@ English (EN) (41.29 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tepezza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-170)
+[Other languages (24)](#file-language-dropdown-931)
 
 български (BG) (46.86 KB - PDF)
 

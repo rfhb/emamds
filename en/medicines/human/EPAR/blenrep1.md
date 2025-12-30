@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:10:04
+document_datetime: 2025-12-29 07:20:43
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/blenrep1.html
 document_name: blenrep1.html
 version: success
-processing_time: 0.1102757
-conversion_datetime: 2025-12-26 10:29:08.184304
+processing_time: 0.1112242
+conversion_datetime: 2025-12-30 08:53:31.711269
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has expired
 
 belantamab mafodotin Medicine Human Expired
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +68,7 @@ English (EN) (206.74 KB - PDF)
 
 [View](/en/documents/overview/blenrep-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-844)
+[Other languages (22)](#file-language-dropdown-949)
 
 български (BG) (234.39 KB - PDF)
 
@@ -354,7 +356,7 @@ English (EN) (1.6 MB - PDF)
 
 [View](/en/documents/product-information/blenrep-epar-product-information-no-longer-authorised_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-313)
+[Other languages (24)](#file-language-dropdown-756)
 
 български (BG) (1.97 MB - PDF)
 
@@ -582,7 +584,7 @@ English (EN) (42.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/blenrep-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-633)
+[Other languages (24)](#file-language-dropdown-659)
 
 български (BG) (76.86 KB - PDF)
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:34:49
+document_datetime: 2025-12-29 12:02:02
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/covid-19-vaccine-inactivated-adjuvanted-valneva.html
 document_name: covid-19-vaccine-inactivated-adjuvanted-valneva.html
 version: success
-processing_time: 0.12306
-conversion_datetime: 2025-12-24 02:14:57.033787
+processing_time: 0.109658
+conversion_datetime: 2025-12-30 09:23:19.059187
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 COVID-19 vaccine (inactivated, adjuvanted, adsorbed) Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -62,7 +64,7 @@ English (EN) (276.06 KB - PDF)
 
 [View](/en/documents/overview/covid-19-vaccine-inactivated-adjuvanted-valneva-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-461)
+[Other languages (22)](#file-language-dropdown-595)
 
 български (BG) (412.12 KB - PDF)
 
@@ -350,7 +352,7 @@ English (EN) (1.03 MB - PDF)
 
 [View](/en/documents/product-information/covid-19-vaccine-inactivated-adjuvanted-valneva-epar-product-information_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-691)
+[Other languages (22)](#file-language-dropdown-876)
 
 български (BG) (1.39 MB - PDF)
 
@@ -642,7 +644,7 @@ English (EN) (86.74 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/covid-19-vaccine-inactivated-adjuvanted-valneva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-852)
+[Other languages (24)](#file-language-dropdown-956)
 
 български (BG) (144.11 KB - PDF)
 

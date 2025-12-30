@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:53:00
+document_datetime: 2025-12-29 10:37:38
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/insulatard.html
 document_name: insulatard.html
 version: success
-processing_time: 0.111661
-conversion_datetime: 2025-12-28 01:48:44.044986
+processing_time: 0.1216259
+conversion_datetime: 2025-12-30 10:24:43.882335
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin human (rDNA) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (75.63 KB - PDF)
 
 [View](/en/documents/overview/insulatard-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-445)
+[Other languages (21)](#file-language-dropdown-976)
 
 български (BG) (102.52 KB - PDF)
 
@@ -383,7 +385,7 @@ English (EN) (1.38 MB - PDF)
 
 [View](/en/documents/product-information/insulatard-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-299)
+[Other languages (24)](#file-language-dropdown-261)
 
 български (BG) (1.75 MB - PDF)
 
@@ -699,7 +701,7 @@ English (EN) (90.52 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/insulatard-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-118)
+[Other languages (23)](#file-language-dropdown-915)
 
 български (BG) (121.97 KB - PDF)
 

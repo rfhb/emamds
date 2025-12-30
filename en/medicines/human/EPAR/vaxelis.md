@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:54:47
+document_datetime: 2025-12-29 11:26:15
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vaxelis.html
 document_name: vaxelis.html
 version: success
-processing_time: 0.1147953
-conversion_datetime: 2025-12-24 15:44:55.194435
+processing_time: 0.11534
+conversion_datetime: 2025-12-30 09:23:45.234353
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 diphtheria, tetanus, pertussis (acellular, component), hepatitis B (rDNA), poliomyelitis (inactivated) and Haemophilus type b conjugate vaccine (adsorbed) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +121,7 @@ English (EN) (83.73 KB - PDF)
 
 [View](/en/documents/overview/vaxelis-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-899)
+[Other languages (22)](#file-language-dropdown-428)
 
 български (BG) (110.58 KB - PDF)
 
@@ -403,11 +405,11 @@ English (EN) (286.06 KB - PDF)
 
 **First published:** 26/02/2016
 
-**Last updated:** 14/10/2025
+**Last updated:** 03/12/2025
 
 [View](/en/documents/product-information/vaxelis-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-798)
+[Other languages (24)](#file-language-dropdown-362)
 
 български (BG) (280.12 KB - PDF)
 
@@ -432,6 +434,18 @@ español (ES) (319.25 KB - PDF)
 14/10/2025
 
 [View](/es/documents/product-information/vaxelis-epar-product-information_es.pdf)
+
+čeština (CS) (298.25 KB - PDF)
+
+**First published:**
+
+26/02/2016
+
+**Last updated:**
+
+03/12/2025
+
+[View](/cs/documents/product-information/vaxelis-epar-product-information_cs.pdf)
 
 dansk (DA) (300.4 KB - PDF)
 
@@ -711,7 +725,7 @@ English (EN) (29.09 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vaxelis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-691)
+[Other languages (24)](#file-language-dropdown-881)
 
 български (BG) (42 KB - PDF)
 

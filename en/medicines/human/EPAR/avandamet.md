@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:09:58
+document_datetime: 2025-12-29 12:22:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/avandamet.html
 document_name: avandamet.html
 version: success
-processing_time: 0.1055264
-conversion_datetime: 2025-12-26 16:54:15.313278
+processing_time: 0.314208
+conversion_datetime: 2025-12-30 01:13:42.216263
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has expired
 
-rosiglitazone / metformin
+rosiglitazone / metformin Medicine Human Expired
 
-Medicine
-
-Human
-
-Expired
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (752.38 KB - PDF)
 
 [View](/en/documents/overview/avandamet-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-418)
+[Other languages (21)](#file-language-dropdown-530)
 
 български (BG) (1.42 MB - PDF)
 
@@ -333,7 +329,7 @@ English (EN) (1.85 MB - PDF)
 
 [View](/en/documents/product-information/avandamet-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-90)
+[Other languages (21)](#file-language-dropdown-31)
 
 български (BG) (10.3 MB - PDF)
 
@@ -613,7 +609,7 @@ English (EN) (725.2 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/avandamet-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-289)
+[Other languages (21)](#file-language-dropdown-434)
 
 български (BG) (1.23 MB - PDF)
 

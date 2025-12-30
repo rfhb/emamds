@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:31:19
+document_datetime: 2025-12-29 08:17:35
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/abylqis.html
 document_name: abylqis.html
 version: success
-processing_time: 0.0678037
-conversion_datetime: 2025-12-24 19:58:39.434931
+processing_time: 0.0677855
+conversion_datetime: 2025-12-30 09:22:35.169928
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 arachis hypogaea extract Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -95,7 +97,7 @@ English (EN) (113.77 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-abylqis-arachis-hypogaea-extract_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-150)
+[Other languages (22)](#file-language-dropdown-346)
 
 български (BG) (118.81 KB - PDF)
 

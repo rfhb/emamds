@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:25:44
+document_datetime: 2025-12-29 11:57:27
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/skilarence.html
 document_name: skilarence.html
 version: success
-processing_time: 0.1121367
-conversion_datetime: 2025-12-28 09:13:02.915218
+processing_time: 0.1146693
+conversion_datetime: 2025-12-30 10:22:02.116379
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 dimethyl fumarate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (75.7 KB - PDF)
 
 [View](/en/documents/overview/skilarence-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-506)
+[Other languages (22)](#file-language-dropdown-400)
 
 български (BG) (103.46 KB - PDF)
 
@@ -393,7 +395,7 @@ English (EN) (482.88 KB - PDF)
 
 [View](/en/documents/product-information/skilarence-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-859)
+[Other languages (24)](#file-language-dropdown-293)
 
 български (BG) (552.25 KB - PDF)
 
@@ -709,7 +711,7 @@ English (EN) (22.16 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/skilarence-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-365)
+[Other languages (24)](#file-language-dropdown-410)
 
 български (BG) (52.79 KB - PDF)
 

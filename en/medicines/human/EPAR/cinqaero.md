@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:25:10
+document_datetime: 2025-12-29 14:35:41
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cinqaero.html
 document_name: cinqaero.html
 version: success
-processing_time: 0.114111
-conversion_datetime: 2025-12-26 17:35:42.647215
+processing_time: 0.112979
+conversion_datetime: 2025-12-30 21:09:30.529954
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 reslizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -99,7 +101,7 @@ English (EN) (93.87 KB - PDF)
 
 [View](/en/documents/overview/cinqaero-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-841)
+[Other languages (22)](#file-language-dropdown-801)
 
 български (BG) (101.59 KB - PDF)
 
@@ -377,7 +379,7 @@ English (EN) (384.99 KB - PDF)
 
 [View](/en/documents/product-information/cinqaero-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-400)
+[Other languages (24)](#file-language-dropdown-913)
 
 български (BG) (504.75 KB - PDF)
 
@@ -693,7 +695,7 @@ English (EN) (3.54 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cinqaero-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-342)
+[Other languages (24)](#file-language-dropdown-671)
 
 български (BG) (38.79 KB - PDF)
 
@@ -1108,8 +1110,9 @@ English (EN) (99.23 KB - PDF)
 #### More information on Cinqaero
 
 - [EMEA-001202-PIP02-13-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001202-pip02-13-m04)
-- [Assessing the impact of remission at 12-months post-initiation of biologic therapy on long-term clinical outcomes of patients with severe asthma (SPOTLIGHT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000789)
+- [Impact of biologics on inhaled corticosteroids reduction (MOON LIGHT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000855)
 - [Sustainability of response to biologics in severe asthma and predictors of late failure among patients in an international registry (SHINE) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000788)
+- [Assessing the impact of remission at 12-months post-initiation of biologic therapy on long-term clinical outcomes of patients with severe asthma (SPOTLIGHT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000789)
 
 #### Topics
 

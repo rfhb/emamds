@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:00:18
+document_datetime: 2025-12-29 14:36:39
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/penbraya.html
 document_name: penbraya.html
 version: success
-processing_time: 0.1113212
-conversion_datetime: 2025-12-24 02:27:05.307079
+processing_time: 0.107449
+conversion_datetime: 2025-12-30 02:46:11.789458
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 meningococcal groups A, C, W, Y conjugate and group B vaccine (recombinant, adsorbed) Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -63,7 +65,7 @@ English (EN) (211.02 KB - PDF)
 
 [View](/en/documents/overview/penbraya-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-22)
+[Other languages (22)](#file-language-dropdown-357)
 
 български (BG) (279.79 KB - PDF)
 
@@ -351,7 +353,7 @@ English (EN) (1.36 MB - PDF)
 
 [View](/en/documents/product-information/penbraya-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-144)
+[Other languages (24)](#file-language-dropdown-354)
 
 български (BG) (1.73 MB - PDF)
 
@@ -665,7 +667,7 @@ English (EN) (94.32 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/penbraya-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-722)
+[Other languages (24)](#file-language-dropdown-339)
 
 български (BG) (106.44 KB - PDF)
 

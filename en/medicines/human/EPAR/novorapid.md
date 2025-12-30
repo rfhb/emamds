@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:19:27
+document_datetime: 2025-12-29 10:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/novorapid.html
 document_name: novorapid.html
 version: success
-processing_time: 0.1392016
-conversion_datetime: 2025-12-29 20:02:58.562969
+processing_time: 0.1383561
+conversion_datetime: 2025-12-30 02:05:41.501276
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin aspart Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +107,7 @@ English (EN) (75.99 KB - PDF)
 
 [View](/en/documents/overview/novorapid-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-44)
+[Other languages (22)](#file-language-dropdown-322)
 
 български (BG) (101.8 KB - PDF)
 
@@ -393,7 +395,7 @@ English (EN) (976.1 KB - PDF)
 
 [View](/en/documents/product-information/novorapid-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-540)
+[Other languages (24)](#file-language-dropdown-43)
 
 български (BG) (1.2 MB - PDF)
 
@@ -709,7 +711,7 @@ English (EN) (76.27 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/novorapid-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-11)
+[Other languages (24)](#file-language-dropdown-118)
 
 български (BG) (92.24 KB - PDF)
 
@@ -1169,7 +1171,7 @@ English (EN) (3.77 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/novorapid-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-392)
+[Other languages (24)](#file-language-dropdown-843)
 
 български (BG) (3.63 MB - DOCX)
 

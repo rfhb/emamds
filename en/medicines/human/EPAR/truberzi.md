@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:09:03
+document_datetime: 2025-12-29 14:35:48
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/truberzi.html
 document_name: truberzi.html
 version: success
-processing_time: 0.1079742
-conversion_datetime: 2025-12-26 11:14:42.095868
+processing_time: 0.1110128
+conversion_datetime: 2025-12-30 02:51:29.238175
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-eluxadoline
+eluxadoline Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -68,7 +64,7 @@ English (EN) (632.55 KB - PDF)
 
 [View](/en/documents/overview/truberzi-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-161)
+[Other languages (22)](#file-language-dropdown-505)
 
 български (BG) (658.78 KB - PDF)
 
@@ -356,7 +352,7 @@ English (EN) (1.63 MB - PDF)
 
 [View](/en/documents/product-information/truberzi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-30)
+[Other languages (24)](#file-language-dropdown-200)
 
 български (BG) (3 MB - PDF)
 
@@ -672,7 +668,7 @@ English (EN) (575.78 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/truberzi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-55)
+[Other languages (24)](#file-language-dropdown-56)
 
 български (BG) (596.62 KB - PDF)
 

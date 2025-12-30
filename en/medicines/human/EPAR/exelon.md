@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:40:48
+document_datetime: 2025-12-29 11:50:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/exelon.html
 document_name: exelon.html
 version: success
-processing_time: 0.1210628
-conversion_datetime: 2025-12-27 15:11:13.341456
+processing_time: 0.1174925
+conversion_datetime: 2025-12-30 03:32:03.283575
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 rivastigmine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +121,7 @@ English (EN) (79.54 KB - PDF)
 
 [View](/en/documents/overview/exelon-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-789)
+[Other languages (21)](#file-language-dropdown-845)
 
 български (BG) (107.51 KB - PDF)
 
@@ -385,7 +387,7 @@ English (EN) (861.53 KB - PDF)
 
 [View](/en/documents/product-information/exelon-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-311)
+[Other languages (24)](#file-language-dropdown-644)
 
 български (BG) (1.07 MB - PDF)
 
@@ -701,7 +703,7 @@ English (EN) (81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/exelon-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-117)
+[Other languages (24)](#file-language-dropdown-768)
 
 български (BG) (102 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 13:43:54
+document_datetime: 2025-12-29 13:07:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pemazyre.html
 document_name: pemazyre.html
 version: success
-processing_time: 0.1113785
-conversion_datetime: 2025-12-28 01:23:48.775877
+processing_time: 0.1113727
+conversion_datetime: 2025-12-30 09:33:11.510394
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-pemigatinib
+pemigatinib Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +106,7 @@ English (EN) (120.91 KB - PDF)
 
 [View](/en/documents/overview/pemazyre-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-931)
+[Other languages (22)](#file-language-dropdown-663)
 
 български (BG) (135.22 KB - PDF)
 
@@ -308,7 +304,7 @@ English (EN) (450.21 KB - PDF)
 
 [View](/en/documents/product-information/pemazyre-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-987)
+[Other languages (24)](#file-language-dropdown-609)
 
 български (BG) (584.15 KB - PDF)
 
@@ -622,7 +618,7 @@ English (EN) (46.45 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pemazyre-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-736)
+[Other languages (24)](#file-language-dropdown-284)
 
 български (BG) (46.74 KB - PDF)
 

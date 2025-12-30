@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:09:49
+document_datetime: 2025-12-29 14:34:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/irbesartan-zentiva.html
 document_name: irbesartan-zentiva.html
 version: success
-processing_time: 0.1768415
-conversion_datetime: 2025-12-29 19:54:37.048217
+processing_time: 0.1970387
+conversion_datetime: 2025-12-30 11:56:32.546544
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 irbesartan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (101.25 KB - PDF)
 
 [View](/en/documents/overview/irbesartan-zentiva-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-553)
+[Other languages (22)](#file-language-dropdown-775)
 
 български (BG) (124.88 KB - PDF)
 
@@ -390,7 +392,7 @@ English (EN) (1.07 MB - PDF)
 
 [View](/en/documents/product-information/irbesartan-zentiva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-555)
+[Other languages (24)](#file-language-dropdown-703)
 
 български (BG) (1.72 MB - PDF)
 
@@ -706,7 +708,7 @@ English (EN) (27.97 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/irbesartan-zentiva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-24)
+[Other languages (23)](#file-language-dropdown-298)
 
 български (BG) (65.16 KB - PDF)
 
@@ -1046,7 +1048,7 @@ English (EN) (119.28 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-21)
+[Other languages (22)](#file-language-dropdown-893)
 
 български (BG) (145.18 KB - PDF)
 
@@ -1244,7 +1246,7 @@ English (EN) (99.42 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/irbesartan-zentiva-h-c-785-a31-80-epar-scientific-conclusions_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-544)
+[Other languages (22)](#file-language-dropdown-963)
 
 български (BG) (136.15 KB - PDF)
 
@@ -1454,7 +1456,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/irbesartan-zentiva-previously-irbesartan-winthrop-h-c-785-a31-63-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-fo_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-756)
+[Other languages (22)](#file-language-dropdown-788)
 
 български (BG) (87.49 KB - PDF)
 

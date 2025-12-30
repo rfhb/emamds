@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-13 23:09:11
+document_datetime: 2025-12-29 12:05:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zomarist.html
 document_name: zomarist.html
 version: success
-processing_time: 0.1193708
-conversion_datetime: 2025-12-27 17:49:13.769307
+processing_time: 0.1212391
+conversion_datetime: 2025-12-30 01:16:18.413761
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 vildagliptin / metformin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (150.13 KB - PDF)
 
 [View](/en/documents/overview/zomarist-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-986)
+[Other languages (22)](#file-language-dropdown-268)
 
 български (BG) (172.83 KB - PDF)
 
@@ -390,7 +392,7 @@ English (EN) (443.21 KB - PDF)
 
 [View](/en/documents/product-information/zomarist-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-597)
+[Other languages (24)](#file-language-dropdown-341)
 
 български (BG) (541.09 KB - PDF)
 
@@ -706,7 +708,7 @@ English (EN) (73.12 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zomarist-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-287)
+[Other languages (24)](#file-language-dropdown-711)
 
 български (BG) (114.62 KB - PDF)
 

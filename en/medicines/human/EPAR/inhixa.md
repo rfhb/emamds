@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:01:21
+document_datetime: 2025-12-29 07:19:12
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/inhixa.html
 document_name: inhixa.html
 version: success
-processing_time: 0.1214597
-conversion_datetime: 2025-12-24 01:31:28.146312
+processing_time: 0.1144465
+conversion_datetime: 2025-12-30 22:20:14.200787
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 enoxaparin sodium Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -125,7 +127,7 @@ English (EN) (142.71 KB - PDF)
 
 [View](/en/documents/overview/inhixa-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-775)
+[Other languages (22)](#file-language-dropdown-457)
 
 български (BG) (166.72 KB - PDF)
 
@@ -411,7 +413,7 @@ English (EN) (3.25 MB - PDF)
 
 [View](/en/documents/product-information/inhixa-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-540)
+[Other languages (23)](#file-language-dropdown-126)
 
 български (BG) (3.98 MB - PDF)
 
@@ -715,7 +717,7 @@ English (EN) (269.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/inhixa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-111)
+[Other languages (24)](#file-language-dropdown-113)
 
 български (BG) (189.35 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:35:13
+document_datetime: 2025-12-29 08:11:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xromi.html
 document_name: xromi.html
 version: success
-processing_time: 0.1025174
-conversion_datetime: 2025-12-24 15:36:14.556415
+processing_time: 0.1316247
+conversion_datetime: 2025-12-30 10:20:37.155938
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 hydroxycarbamide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (133.61 KB - PDF)
 
 [View](/en/documents/overview/xromi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-754)
+[Other languages (22)](#file-language-dropdown-396)
 
 български (BG) (143.62 KB - PDF)
 
@@ -400,7 +402,7 @@ English (EN) (295.89 KB - PDF)
 
 [View](/en/documents/product-information/xromi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-981)
+[Other languages (24)](#file-language-dropdown-933)
 
 български (BG) (478.81 KB - PDF)
 
@@ -714,7 +716,7 @@ English (EN) (61.76 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xromi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-556)
+[Other languages (24)](#file-language-dropdown-120)
 
 български (BG) (41.54 KB - PDF)
 
@@ -1046,7 +1048,7 @@ English (EN) (352.29 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/xromi-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-282)
+[Other languages (24)](#file-language-dropdown-139)
 
 български (BG) (316.17 KB - DOCX)
 

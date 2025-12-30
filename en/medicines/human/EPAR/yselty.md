@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:24:59
+document_datetime: 2025-12-29 09:37:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/yselty.html
 document_name: yselty.html
 version: success
-processing_time: 0.116718
-conversion_datetime: 2025-12-25 06:57:16.21184
+processing_time: 0.1135643
+conversion_datetime: 2025-12-30 21:10:08.832705
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 linzagolix choline Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (186.08 KB - PDF)
 
 [View](/en/documents/overview/yselty-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-164)
+[Other languages (22)](#file-language-dropdown-420)
 
 български (BG) (186.13 KB - PDF)
 
@@ -406,7 +408,7 @@ English (EN) (562.74 KB - PDF)
 
 [View](/en/documents/product-information/yselty-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-305)
+[Other languages (24)](#file-language-dropdown-765)
 
 български (BG) (784.6 KB - PDF)
 
@@ -722,7 +724,7 @@ English (EN) (52.23 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/yselty-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-278)
+[Other languages (24)](#file-language-dropdown-197)
 
 български (BG) (42.41 KB - PDF)
 

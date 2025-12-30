@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:06:45
+document_datetime: 2025-12-29 15:20:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xyndari.html
 document_name: xyndari.html
 version: success
-processing_time: 0.0658858
-conversion_datetime: 2025-12-25 00:58:30.0865
+processing_time: 0.0686502
+conversion_datetime: 2025-12-30 02:19:10.734947
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +103,7 @@ English (EN) (113.42 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-application-marketing-authorisation-xyndari-glutamine_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-116)
+[Other languages (22)](#file-language-dropdown-667)
 
 български (BG) (129.25 KB - PDF)
 

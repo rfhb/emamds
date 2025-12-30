@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:01:59
+document_datetime: 2025-12-29 13:10:55
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/elelyso.html
 document_name: elelyso.html
 version: success
-processing_time: 0.0572456
-conversion_datetime: 2025-12-24 06:29:10.999096
+processing_time: 0.0339648
+conversion_datetime: 2025-12-30 08:46:54.081481
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine has been refused authorisation
 
 taliglucerase alfa Medicine Human Refused
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

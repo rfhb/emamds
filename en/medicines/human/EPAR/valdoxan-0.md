@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:22
+document_datetime: 2025-12-29 09:04:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/valdoxan-0.html
 document_name: valdoxan-0.html
 version: success
-processing_time: 0.0604943
-conversion_datetime: 2025-12-27 23:24:19.807368
+processing_time: 0.0602665
+conversion_datetime: 2025-12-30 08:06:05.929976
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine has been refused authorisation
 
-agomelatine
+agomelatine Medicine Human Refused
 
-Medicine
-
-Human
-
-Refused
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -60,7 +56,7 @@ English (EN) (34.58 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-recommendation-refusal-marketing-authorization-valdoxanthymanax_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-262)
+[Other languages (20)](#file-language-dropdown-748)
 
 български (BG) (145.5 KB - PDF)
 

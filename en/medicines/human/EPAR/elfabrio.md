@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:01:39
+document_datetime: 2025-12-29 14:31:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/elfabrio.html
 document_name: elfabrio.html
 version: success
-processing_time: 0.1063781
-conversion_datetime: 2025-12-23 20:40:52.399901
+processing_time: 0.1073608
+conversion_datetime: 2025-12-30 09:21:45.172716
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pegunigalsidase alfa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +107,7 @@ English (EN) (95.92 KB - PDF)
 
 [View](/en/documents/overview/elfabrio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-298)
+[Other languages (22)](#file-language-dropdown-354)
 
 български (BG) (119.58 KB - PDF)
 
@@ -303,7 +305,7 @@ English (EN) (302.34 KB - PDF)
 
 [View](/en/documents/product-information/elfabrio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-532)
+[Other languages (24)](#file-language-dropdown-105)
 
 български (BG) (328.94 KB - PDF)
 
@@ -619,7 +621,7 @@ English (EN) (50.15 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/elfabrio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-986)
+[Other languages (24)](#file-language-dropdown-926)
 
 български (BG) (37.78 KB - PDF)
 

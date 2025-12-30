@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 07:24:36
+document_datetime: 2025-12-29 13:14:07
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cyanokit.html
 document_name: cyanokit.html
 version: success
-processing_time: 0.1020583
-conversion_datetime: 2025-12-26 20:55:22.991286
+processing_time: 0.1089588
+conversion_datetime: 2025-12-30 21:15:44.761737
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -116,7 +116,7 @@ English (EN) (77.56 KB - PDF)
 
 [View](/en/documents/overview/cyanokit-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-750)
+[Other languages (22)](#file-language-dropdown-51)
 
 български (BG) (105.75 KB - PDF)
 
@@ -394,7 +394,7 @@ English (EN) (802.91 KB - PDF)
 
 [View](/en/documents/product-information/cyanokit-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-320)
+[Other languages (24)](#file-language-dropdown-924)
 
 български (BG) (995.62 KB - PDF)
 
@@ -710,7 +710,7 @@ English (EN) (31.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cyanokit-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-39)
+[Other languages (24)](#file-language-dropdown-254)
 
 български (BG) (57.28 KB - PDF)
 

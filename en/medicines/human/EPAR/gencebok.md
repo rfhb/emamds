@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:02:16
+document_datetime: 2025-12-29 11:15:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/gencebok.html
 document_name: gencebok.html
 version: success
-processing_time: 0.1162825
-conversion_datetime: 2025-12-28 00:09:51.253943
+processing_time: 0.1202515
+conversion_datetime: 2025-12-30 08:05:48.034758
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 caffeine citrate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (145.17 KB - PDF)
 
 [View](/en/documents/overview/gencebok-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-30)
+[Other languages (22)](#file-language-dropdown-436)
 
 български (BG) (170.4 KB - PDF)
 
@@ -305,7 +307,7 @@ English (EN) (480.95 KB - PDF)
 
 [View](/en/documents/product-information/gencebok-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-935)
+[Other languages (24)](#file-language-dropdown-334)
 
 български (BG) (612.39 KB - PDF)
 
@@ -619,7 +621,7 @@ English (EN) (78.07 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/gencebok-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-409)
+[Other languages (24)](#file-language-dropdown-738)
 
 български (BG) (108.93 KB - PDF)
 
@@ -895,7 +897,7 @@ English (EN) (135.36 KB - PDF)
 
 [View](/en/documents/medication-error/gencebok-potential-dosing-errors_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-530)
+[Other languages (22)](#file-language-dropdown-483)
 
 български (BG) (158.39 KB - PDF)
 

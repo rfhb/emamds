@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:03:27
+document_datetime: 2025-12-29 10:11:29
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/olanzapine-apotex.html
 document_name: olanzapine-apotex.html
 version: success
-processing_time: 0.105905
-conversion_datetime: 2025-12-29 19:54:45.647718
+processing_time: 0.1032134
+conversion_datetime: 2025-12-30 01:50:24.85526
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 olanzapine Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -59,7 +61,7 @@ English (EN) (67.64 KB - PDF)
 
 [View](/en/documents/overview/olanzapine-apotex-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-289)
+[Other languages (21)](#file-language-dropdown-632)
 
 български (BG) (170.21 KB - PDF)
 
@@ -325,7 +327,7 @@ English (EN) (1.1 MB - PDF)
 
 [View](/en/documents/product-information/olanzapine-apotex-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-384)
+[Other languages (23)](#file-language-dropdown-648)
 
 български (BG) (1.15 MB - PDF)
 
@@ -629,7 +631,7 @@ English (EN) (32.64 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/olanzapine-apotex-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-997)
+[Other languages (21)](#file-language-dropdown-972)
 
 български (BG) (58.2 KB - PDF)
 

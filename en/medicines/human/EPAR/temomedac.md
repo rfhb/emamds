@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 08:06:46
+document_datetime: 2025-12-29 07:43:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/temomedac.html
 document_name: temomedac.html
 version: success
-processing_time: 0.0906012
-conversion_datetime: 2025-12-24 03:40:34.662997
+processing_time: 0.1151548
+conversion_datetime: 2025-12-30 12:23:09.656677
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-temozolomide
+temozolomide Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +109,7 @@ English (EN) (82.99 KB - PDF)
 
 [View](/en/documents/overview/temomedac-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-685)
+[Other languages (22)](#file-language-dropdown-104)
 
 български (BG) (112.06 KB - PDF)
 
@@ -391,7 +387,7 @@ English (EN) (224.18 KB - PDF)
 
 [View](/en/documents/product-information/temomedac-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-233)
+[Other languages (24)](#file-language-dropdown-468)
 
 български (BG) (396.55 KB - PDF)
 
@@ -707,7 +703,7 @@ English (EN) (12.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/temomedac-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-715)
+[Other languages (21)](#file-language-dropdown-24)
 
 български (BG) (81.98 KB - PDF)
 
@@ -1040,7 +1036,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-44)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

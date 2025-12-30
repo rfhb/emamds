@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:03:19
+document_datetime: 2025-12-29 13:36:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vepacel.html
 document_name: vepacel.html
 version: success
-processing_time: 0.1119668
-conversion_datetime: 2025-12-26 11:17:20.440858
+processing_time: 0.1112488
+conversion_datetime: 2025-12-30 01:09:54.665364
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 prepandemic influenza vaccine (H5N1) (whole virion, inactivated,prepared in cell culture) Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -61,7 +63,7 @@ English (EN) (663.59 KB - PDF)
 
 [View](/en/documents/overview/vepacel-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-240)
+[Other languages (22)](#file-language-dropdown-984)
 
 български (BG) (761.01 KB - PDF)
 
@@ -339,7 +341,7 @@ English (EN) (1.22 MB - PDF)
 
 [View](/en/documents/product-information/vepacel-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-848)
+[Other languages (24)](#file-language-dropdown-313)
 
 български (BG) (2.52 MB - PDF)
 
@@ -655,7 +657,7 @@ English (EN) (593.83 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vepacel-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-463)
+[Other languages (23)](#file-language-dropdown-831)
 
 български (BG) (651.38 KB - PDF)
 

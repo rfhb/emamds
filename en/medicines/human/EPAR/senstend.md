@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:26:25
+document_datetime: 2025-12-29 13:16:27
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/senstend.html
 document_name: senstend.html
 version: success
-processing_time: 0.1062584
-conversion_datetime: 2025-12-27 23:38:45.251602
+processing_time: 0.0996985
+conversion_datetime: 2025-12-30 22:06:39.078058
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 lidocaine / prilocaine Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -61,7 +63,7 @@ English (EN) (670.21 KB - PDF)
 
 [View](/en/documents/overview/senstend-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-194)
+[Other languages (22)](#file-language-dropdown-88)
 
 български (BG) (1.29 MB - PDF)
 
@@ -349,7 +351,7 @@ English (EN) (938.11 KB - PDF)
 
 [View](/en/documents/product-information/senstend-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-623)
+[Other languages (24)](#file-language-dropdown-373)
 
 български (BG) (1.64 MB - PDF)
 
@@ -665,7 +667,7 @@ English (EN) (618.59 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/senstend-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-559)
+[Other languages (24)](#file-language-dropdown-298)
 
 български (BG) (690.65 KB - PDF)
 

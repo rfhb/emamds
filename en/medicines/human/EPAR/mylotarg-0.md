@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:05:46
+document_datetime: 2025-12-29 09:01:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mylotarg-0.html
 document_name: mylotarg-0.html
 version: success
-processing_time: 0.0630897
-conversion_datetime: 2025-12-28 04:47:13.524619
+processing_time: 0.0629354
+conversion_datetime: 2025-12-30 03:19:25.455187
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine has been refused authorisation
 
-gemtuzumab ozogamicin
+gemtuzumab ozogamicin Medicine Human Refused
 
-Medicine
-
-Human
-
-Refused
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -60,7 +56,7 @@ English (EN) (35.14 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-recommendation-refusal-marketing-authorization-mylotarg_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-844)
+[Other languages (21)](#file-language-dropdown-92)
 
 български (BG) (181.19 KB - PDF)
 

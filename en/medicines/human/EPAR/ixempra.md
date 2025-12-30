@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:03:24
+document_datetime: 2025-12-29 08:57:17
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ixempra.html
 document_name: ixempra.html
 version: success
-processing_time: 0.066657
-conversion_datetime: 2025-12-26 19:48:13.255731
+processing_time: 0.0732305
+conversion_datetime: 2025-12-30 20:44:17.561388
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +107,7 @@ English (EN) (42.52 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-ixempra_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-738)
+[Other languages (21)](#file-language-dropdown-141)
 
 български (BG) (132.56 KB - PDF)
 

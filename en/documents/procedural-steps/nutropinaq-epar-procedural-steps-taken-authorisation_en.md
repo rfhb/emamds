@@ -1,0 +1,49 @@
+---
+document_datetime: 2023-09-21 19:19:50
+document_pages: 1
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps/nutropinaq-epar-procedural-steps-taken-authorisation_en.pdf
+document_name: nutropinaq-epar-procedural-steps-taken-authorisation_en.pdf
+version: success
+processing_time: 0.3768697
+conversion_datetime: 2025-12-30 02:40:02.194728
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.66.0
+  docling-core: 2.57.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## BACKGROUND INFORMATION ON THE PROCEDURE
+
+## 1. Submission of the dossier
+
+The company Schwarz Pharma AG submitted on 15 September 1999 an application for Marketing Authorisation  to  the  European  Agency  for  the  Evaluation  of  Medicinal  Products  (EMEA)  for NutropinAq, in accordance with the centralised procedure falling within the scope of Part A of the Annex to Council Regulation No (EEC) 2309/93 of 22 July 1993.
+
+The Rapporteur and Co-Rapporteur appointed by the CPMP were:
+
+Rapporteur:
+
+Dr. M A Ainsworth
+
+Co-Rapporteur:
+
+Prof. Rolf Bass
+
+## Licensing status:
+
+in  USA in December 1996 for the indications GHD and CRI, and in March 1997 for the indication for Turner syndrome patients and in December 1997 for GHD in adults.
+
+## 2. Steps taken for the assessment of the product
+
+- The procedure started on 22 October 1999.
+- The Rapporteur's first Assessment Report was circulated to all CPMP  members  on 3  January 2000.  The  Co-Rapporteur's  first  Assessment  Report  was  circulated  to  all  CPMP members on 7 January 2000.
+- During the meeting in February 2000 the CPMP agreed on the consolidated List of Questions to be sent to the applicant. The final consolidated List of Questions was sent to the applicant on 18 February 2000.
+- The  company  submitted  the  responses  to  the  CPMP  consolidated  List  of  Questions  on 16 August 2000.
+- A report of the inspection carried out at the manufacturing site Genentech Inc., San Francisco, CA, USA between 7-9 March 2000 was issued on 26 April 2000.
+- The Rapporteur circulated the joint response Assessment Report on the company's responses to the List of Questions to all CPMP members on 15 September 2000.
+- The Rapporteur circulated the joint response Assessment Report on the company's responses to the remaining pharmaceutical clarifications, to all CPMP members on 13 October 2000.
+- The company, Schwarz Pharma AG, provided on 13 October 2000, a letter of undertaking on the follow-up measures (pharmaceutical issues), to be fulfilled as requested by the CPMP.
+- During the meeting on 17-19 October 2000 the CPMP, in the light of the overall data submitted and  the  scientific  discussion  within  the  Committee,  issued  a  positive  opinion  for  granting  a Marketing Authorisation to NutropinAq on 19 October 2000.

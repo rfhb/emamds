@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:06:21
+document_datetime: 2025-12-29 14:36:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/quofenix.html
 document_name: quofenix.html
 version: success
-processing_time: 0.1155547
-conversion_datetime: 2025-12-28 14:22:06.595001
+processing_time: 0.114321
+conversion_datetime: 2025-12-30 09:18:44.069173
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 delafloxacin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (144.31 KB - PDF)
 
 [View](/en/documents/overview/quofenix-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-8)
+[Other languages (22)](#file-language-dropdown-198)
 
 български (BG) (170.54 KB - PDF)
 
@@ -398,7 +400,7 @@ English (EN) (392.08 KB - PDF)
 
 [View](/en/documents/product-information/quofenix-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-254)
+[Other languages (24)](#file-language-dropdown-25)
 
 български (BG) (639.69 KB - PDF)
 
@@ -714,7 +716,7 @@ English (EN) (13.37 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/quofenix-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-986)
+[Other languages (24)](#file-language-dropdown-350)
 
 български (BG) (53.49 KB - PDF)
 

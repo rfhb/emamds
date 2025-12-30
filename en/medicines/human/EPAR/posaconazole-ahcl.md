@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:54:20
+document_datetime: 2025-12-29 14:36:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/posaconazole-ahcl.html
 document_name: posaconazole-ahcl.html
 version: success
-processing_time: 0.1218911
-conversion_datetime: 2025-12-25 07:25:14.022107
+processing_time: 0.1159917
+conversion_datetime: 2025-12-30 12:23:36.252956
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 posaconazole Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (203.98 KB - PDF)
 
 [View](/en/documents/overview/posaconazole-ahcl-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-913)
+[Other languages (22)](#file-language-dropdown-746)
 
 български (BG) (168.02 KB - PDF)
 
@@ -308,7 +310,7 @@ English (EN) (304.13 KB - PDF)
 
 [View](/en/documents/product-information/posaconazole-ahcl-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-524)
+[Other languages (24)](#file-language-dropdown-274)
 
 български (BG) (605.77 KB - PDF)
 
@@ -622,7 +624,7 @@ English (EN) (14.96 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/posaconazole-ahcl-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-393)
+[Other languages (24)](#file-language-dropdown-890)
 
 български (BG) (36.52 KB - PDF)
 
@@ -927,7 +929,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

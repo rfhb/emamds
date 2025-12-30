@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:22:59
+document_datetime: 2025-12-29 07:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rivastigmine-actavis.html
 document_name: rivastigmine-actavis.html
 version: success
-processing_time: 0.1423431
-conversion_datetime: 2025-12-27 15:44:20.982015
+processing_time: 0.1451482
+conversion_datetime: 2025-12-30 02:29:27.561089
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 rivastigmine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +107,7 @@ English (EN) (75.42 KB - PDF)
 
 [View](/en/documents/overview/rivastigmine-actavis-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-900)
+[Other languages (22)](#file-language-dropdown-707)
 
 български (BG) (103.39 KB - PDF)
 
@@ -383,7 +385,7 @@ English (EN) (285.18 KB - PDF)
 
 [View](/en/documents/product-information/rivastigmine-actavis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-927)
+[Other languages (24)](#file-language-dropdown-706)
 
 български (BG) (406.6 KB - PDF)
 
@@ -699,7 +701,7 @@ English (EN) (23.34 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rivastigmine-actavis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-408)
+[Other languages (24)](#file-language-dropdown-385)
 
 български (BG) (49.04 KB - PDF)
 
@@ -1109,7 +1111,7 @@ English (EN) (158.81 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/rivastigmine-actavis-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-298)
+[Other languages (24)](#file-language-dropdown-253)
 
 български (BG) (180.47 KB - DOCX)
 
@@ -1317,7 +1319,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

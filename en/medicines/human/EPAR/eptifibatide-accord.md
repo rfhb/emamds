@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:17:42
+document_datetime: 2025-12-29 13:52:37
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eptifibatide-accord.html
 document_name: eptifibatide-accord.html
 version: success
-processing_time: 0.1542927
-conversion_datetime: 2025-12-24 05:07:37.474147
+processing_time: 0.1450479
+conversion_datetime: 2025-12-30 08:06:32.667026
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 eptifibatide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (101 KB - PDF)
 
 [View](/en/documents/overview/eptifibatide-accord-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-152)
+[Other languages (22)](#file-language-dropdown-717)
 
 български (BG) (130.31 KB - PDF)
 
@@ -407,7 +409,7 @@ English (EN) (423.34 KB - PDF)
 
 [View](/en/documents/product-information/eptifibatide-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-894)
+[Other languages (24)](#file-language-dropdown-687)
 
 български (BG) (673.01 KB - PDF)
 
@@ -723,7 +725,7 @@ English (EN) (13.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/eptifibatide-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-808)
+[Other languages (24)](#file-language-dropdown-684)
 
 български (BG) (33.93 KB - PDF)
 
@@ -1119,7 +1121,7 @@ English (EN) (152.81 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/eptifibatide-accord-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-984)
+[Other languages (24)](#file-language-dropdown-368)
 
 български (BG) (191.26 KB - DOCX)
 
@@ -1327,7 +1329,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:07:28
+document_datetime: 2025-12-29 11:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lagevrio.html
 document_name: lagevrio.html
 version: success
-processing_time: 0.0709632
-conversion_datetime: 2025-12-29 20:00:39.673592
+processing_time: 0.0711903
+conversion_datetime: 2025-12-30 09:12:49.37822
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-molnupiravir
+molnupiravir Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +99,7 @@ English (EN) (125 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-application-marketing-authorisation-lagevrio-molnupiravir_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-264)
+[Other languages (22)](#file-language-dropdown-508)
 
 български (BG) (147.54 KB - PDF)
 

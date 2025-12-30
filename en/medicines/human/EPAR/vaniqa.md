@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:07:33
+document_datetime: 2025-12-29 15:09:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vaniqa.html
 document_name: vaniqa.html
 version: success
-processing_time: 0.1063324
-conversion_datetime: 2025-12-25 06:27:07.546076
+processing_time: 0.1100477
+conversion_datetime: 2025-12-30 02:31:45.627123
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 eflornithine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (72.8 KB - PDF)
 
 [View](/en/documents/overview/vaniqa-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-267)
+[Other languages (21)](#file-language-dropdown-658)
 
 български (BG) (122.13 KB - PDF)
 
@@ -375,7 +377,7 @@ English (EN) (328.37 KB - PDF)
 
 [View](/en/documents/product-information/vaniqa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-962)
+[Other languages (24)](#file-language-dropdown-516)
 
 български (BG) (381.1 KB - PDF)
 
@@ -691,7 +693,7 @@ English (EN) (58.98 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vaniqa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-721)
+[Other languages (24)](#file-language-dropdown-577)
 
 български (BG) (47.74 KB - PDF)
 

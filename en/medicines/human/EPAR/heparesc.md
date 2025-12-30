@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:24:18
+document_datetime: 2025-12-29 08:36:06
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/heparesc.html
 document_name: heparesc.html
 version: success
-processing_time: 0.0683388
-conversion_datetime: 2025-12-24 23:15:44.358703
+processing_time: 0.0643313
+conversion_datetime: 2025-12-30 21:28:33.369008
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine has been refused authorisation
 
 human heterologous liver cells Medicine Human Refused
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +105,7 @@ English (EN) (78.27 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-refusal-marketing-authorisation-heparesc-human-heterologous-liver-cells_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-530)
+[Other languages (22)](#file-language-dropdown-393)
 
 български (BG) (104.45 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:40:42
+document_datetime: 2025-12-29 08:20:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zynyz-0.html
 document_name: zynyz-0.html
 version: success
-processing_time: 0.0652485
-conversion_datetime: 2025-12-27 14:42:56.200606
+processing_time: 0.0665553
+conversion_datetime: 2025-12-30 02:46:20.662704
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 retifanlimab Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -99,7 +101,7 @@ English (EN) (138.24 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-application-marketing-authorisation-zynyz_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-812)
+[Other languages (22)](#file-language-dropdown-209)
 
 български (BG) (157.43 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:13:42
+document_datetime: 2025-12-29 13:02:30
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/beqvez.html
 document_name: beqvez.html
 version: success
-processing_time: 0.1105686
-conversion_datetime: 2025-12-26 19:25:37.65729
+processing_time: 0.1082075
+conversion_datetime: 2025-12-30 07:50:38.112287
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 fidanacogene elaparvovec Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -59,7 +61,7 @@ English (EN) (212.12 KB - PDF)
 
 [View](/en/documents/overview/durveqtix-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-249)
+[Other languages (22)](#file-language-dropdown-439)
 
 български (BG) (282.76 KB - PDF)
 
@@ -347,7 +349,7 @@ English (EN) (2.35 MB - PDF)
 
 [View](/en/documents/product-information/beqvez-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-946)
+[Other languages (24)](#file-language-dropdown-133)
 
 български (BG) (1.37 MB - PDF)
 
@@ -663,7 +665,7 @@ English (EN) (60.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/beqvez-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-129)
+[Other languages (24)](#file-language-dropdown-109)
 
 български (BG) (65.47 KB - PDF)
 

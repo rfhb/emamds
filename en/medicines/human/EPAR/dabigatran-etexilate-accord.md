@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:34:57
+document_datetime: 2025-12-29 12:28:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dabigatran-etexilate-accord.html
 document_name: dabigatran-etexilate-accord.html
 version: success
-processing_time: 0.0921226
-conversion_datetime: 2025-12-24 02:37:55.892819
+processing_time: 0.0934164
+conversion_datetime: 2025-12-30 12:49:05.365103
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 dabigatran etexilate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (110.69 KB - PDF)
 
 [View](/en/documents/overview/dabigatran-etexilate-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-571)
+[Other languages (22)](#file-language-dropdown-296)
 
 български (BG) (136.5 KB - PDF)
 
@@ -306,7 +308,7 @@ English (EN) (1.39 MB - PDF)
 
 [View](/en/documents/product-information/dabigatran-etexilate-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-369)
+[Other languages (24)](#file-language-dropdown-981)
 
 български (BG) (1.83 MB - PDF)
 
@@ -620,7 +622,7 @@ English (EN) (119.47 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/dabigatran-etexilate-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-2)
+[Other languages (24)](#file-language-dropdown-54)
 
 български (BG) (205.53 KB - PDF)
 

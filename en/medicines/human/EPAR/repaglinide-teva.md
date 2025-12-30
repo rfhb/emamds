@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:27:18
+document_datetime: 2025-12-29 13:42:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/repaglinide-teva.html
 document_name: repaglinide-teva.html
 version: success
-processing_time: 0.1318564
-conversion_datetime: 2025-12-24 01:27:12.307843
+processing_time: 0.1286253
+conversion_datetime: 2025-12-30 10:52:00.110327
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 repaglinide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -99,7 +101,7 @@ English (EN) (42.39 KB - PDF)
 
 [View](/en/documents/overview/repaglinide-teva-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-379)
+[Other languages (21)](#file-language-dropdown-135)
 
 български (BG) (164.49 KB - PDF)
 
@@ -365,7 +367,7 @@ English (EN) (349.26 KB - PDF)
 
 [View](/en/documents/product-information/repaglinide-teva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-740)
+[Other languages (24)](#file-language-dropdown-693)
 
 български (BG) (475.29 KB - PDF)
 
@@ -681,7 +683,7 @@ English (EN) (32.67 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/repaglinide-teva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-646)
+[Other languages (24)](#file-language-dropdown-184)
 
 български (BG) (82.06 KB - PDF)
 
@@ -1069,7 +1071,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 12:51:48
+document_datetime: 2025-12-29 11:34:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/yargesa.html
 document_name: yargesa.html
 version: success
-processing_time: 0.1140243
-conversion_datetime: 2025-12-26 21:06:58.659055
+processing_time: 0.1146665
+conversion_datetime: 2025-12-30 08:00:11.538896
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -108,7 +108,7 @@ English (EN) (92.75 KB - PDF)
 
 [View](/en/documents/overview/yargesa-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-526)
+[Other languages (22)](#file-language-dropdown-983)
 
 български (BG) (118.42 KB - PDF)
 
@@ -394,7 +394,7 @@ English (EN) (152.49 KB - PDF)
 
 [View](/en/documents/product-information/yargesa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-756)
+[Other languages (24)](#file-language-dropdown-488)
 
 български (BG) (282.32 KB - PDF)
 
@@ -710,7 +710,7 @@ English (EN) (62.68 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/yargesa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-307)
+[Other languages (24)](#file-language-dropdown-172)
 
 български (BG) (38.58 KB - PDF)
 

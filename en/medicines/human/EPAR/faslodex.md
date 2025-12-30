@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:36:51
+document_datetime: 2025-12-29 11:58:48
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/faslodex.html
 document_name: faslodex.html
 version: success
-processing_time: 0.1164907
-conversion_datetime: 2025-12-25 06:14:39.30152
+processing_time: 0.1159868
+conversion_datetime: 2025-12-30 22:19:55.757904
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 fulvestrant Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (82.13 KB - PDF)
 
 [View](/en/documents/overview/faslodex-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-195)
+[Other languages (22)](#file-language-dropdown-655)
 
 български (BG) (110.2 KB - PDF)
 
@@ -399,7 +401,7 @@ English (EN) (547.19 KB - PDF)
 
 [View](/en/documents/product-information/faslodex-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-957)
+[Other languages (24)](#file-language-dropdown-70)
 
 български (BG) (992.44 KB - PDF)
 
@@ -715,7 +717,7 @@ English (EN) (23.4 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/faslodex-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-934)
+[Other languages (22)](#file-language-dropdown-760)
 
 български (BG) (480.44 KB - PDF)
 

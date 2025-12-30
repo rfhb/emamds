@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:01:54
+document_datetime: 2025-12-29 14:36:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dasatinib-accord.html
 document_name: dasatinib-accord.html
 version: success
-processing_time: 0.1118293
-conversion_datetime: 2025-12-29 22:39:26.214268
+processing_time: 0.2938563
+conversion_datetime: 2025-12-30 20:54:53.889172
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

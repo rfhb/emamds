@@ -1,0 +1,115 @@
+---
+document_datetime: 2025-11-10 17:09:09
+document_pages: 10
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/jakavi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+document_name: jakavi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+version: success
+processing_time: 26.4038019
+conversion_datetime: 2025-12-30 10:31:13.299647
+docling_version:
+  docling-serve: 1.9.0
+  docling-jobkit: 1.8.0
+  docling: 2.66.0
+  docling-core: 2.57.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## Jakavi
+
+Procedural steps taken and scientific information after the authorisation*
+
+*Due to the Agency' s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessmenthistory'section.Forthe completeproduct lifecycleprocedures,you mayneedtoalsorefertoEPAR-Proceduralsteps taken andscientific informationafterauthorisation(archive).
+
+| Applicationnumber    | Scope                                  | Opinion/ Notification 1 issued on   | Commission Decision Issued²/ amendedon   | Product Information affected3   | Summary   |
+|----------------------|----------------------------------------|-------------------------------------|------------------------------------------|---------------------------------|-----------|
+| Variation typeIA_IN/ | This was an application for a group of | 10/11/2025                          |                                          | Annex II and                    |           |
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+| EMA/VR/0000310678   | PL   |
+|---------------------|------|
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | dossier)* - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |            |     |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|
+| Variation type II / EMA/VR/0000261153 | This was an application for a group of variations. B.I.a.1 Change in the manufacturer of a startingmaterial/reagent/intermediateused in the manufacturing process of the active substance orchangeinthemanufacturer (includingwhererelevantquality control testing sites) of the active substance, where noPh.Eur.Certificate of Suitability is part of the approved dossier-B.I.a.1.cThe proposed manufacturer uses a substantially different route of synthesis or manufacturing conditions,which may have a potential to change important quality characteristics of theactivesubstance,such asqualitative and/or quantitative impurity profile requiring qualification, or physico-chemical properties impacting onbioavailability-Accepted B.I.a.1 Change in the manufacturer of a startingmaterial/reagent/intermediateused in themanufacturingprocessof theactive substanceorchangeinthemanufacturer (includingwhererelevant quality control testing sites)of the active substance,where noPh.Eur.Certificate of Suitability is part of the approved dossier-B.I.a.1.f Changes to qualitycontrol testingarrangementsforthe activesubstance-replacementoradditionof | 02/10/2025 | N/A |
+
+<div style=\"page-break-after: always\"></div>
+
+| a site where batch control/testing takes                                           |
+|------------------------------------------------------------------------------------|
+| place-Accepted                                                                     |
+| B.I.a.1 Change in the manufacturer of a                                            |
+| starting material/reagent/intermediate used                                        |
+| in the manufacturing process of the active                                         |
+| substanceorchangeinthemanufacturer                                                 |
+| (including where relevant quality control                                          |
+| testingsites)ofthe active substance,where                                          |
+| noPh.Eur.Certificate of Suitability is part of                                     |
+| the approved dossier-B.I.a.1.f Changes to                                          |
+| quality control testing arrangements for the                                       |
+| activesubstance-replacementoradditionof                                            |
+| asitewherebatchcontrol/testingtakes                                                |
+| place - Accepted                                                                   |
+| B.I.a.1 Change in the manufacturer of a                                            |
+| starting material/reagent/intermediate used                                        |
+| in themanufacturingprocessof the active                                            |
+| substanceorchangeinthemanufacturer                                                 |
+| (including where relevant quality control                                          |
+| testingsites)oftheactivesubstance,where                                            |
+| noPh.Eur.Certificate ofSuitability ispart of                                       |
+| the approved dossier-B.I.a.1.f Changes to                                          |
+| quality control testing arrangements for the                                       |
+| active substance-replacement or addition of                                        |
+| asitewherebatchcontrol/testingtakes                                                |
+| place - Accepted                                                                   |
+| B.I.a.1 Change in the manufacturer of a                                            |
+| starting material/reagent/intermediate used in themanufacturingprocessof theactive |
+
+<div style=\"page-break-after: always\"></div>
+
+| substanceorchangeinthemanufacturer (includingwhererelevant quality control testingsites)oftheactivesubstance,where no Ph. Eur. Certificate of Suitability is part of the approved dossier-B.I.a.1.fChanges to quality control testing arrangements for the active substance-replacement or addition of asitewherebatchcontrol/testingtakes place-Accepted   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| B.1.b.1 Change in the specification parameters and/or limits of an active substance,startingmaterial/intermediate/ reagentused inthemanufacturingprocess of the active substance - B.I.b.1.d Deletion of a non-significant specification parameter (e.g. deletion of an obsolete parameter) - Accepted                                                      |
+| B.1.b.1 Change in the specification of the active substance-B.I.b.1.d Deletion ofanon-significantspecificationparameter                                                                                                                                                                                                                                     |
+| substance,startingmaterial/intermediate/ (e.g. deletion of an obsolete parameter) -                                                                                                                                                                                                                                                                         |
+| parameters and/or limits of an active reagent used in the manufacturing process                                                                                                                                                                                                                                                                             |
+| Accepted B.1.b.1 Change in the specification                                                                                                                                                                                                                                                                                                                |
+| parameters and/or limits of an active substance,startingmaterial/intermediate/                                                                                                                                                                                                                                                                              |
+| reagentusedinthemanufacturingprocess                                                                                                                                                                                                                                                                                                                        |
+
+<div style=\"page-break-after: always\"></div>
+
+| of the active substance-B.1.b.1.d Deletion of a non-significant specification parameter (e.g.deletion of an obsoleteparameter)- Accepted B.I.b.1 Change in the specification parameters and/or limits of an active substance, starting material / intermediate / reagent used in the manufacturing process of the active substance-B.I.b.1.d Deletion ofanon-significantspecificationparameter (e.g. deletion of an obsolete parameter) - Accepted B.I.b.1 Change in the specification parameters and/or limits of an active substance，startingmaterial/intermediate/ reagent used in the manufacturingprocess of the active substance-B.1.b.1.z Other changes-Accepted B.I.b.1 Change in the specification parameters and/or limits of an active substance,startingmaterial/intermediate/ reagent used in themanufacturingprocess of the active substance-B.I.b.1.z Other changes-Accepted B.I.b.1 Change in the specification parameters and/or limits of an active substance, starting material / intermediate /   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+|                                     | of the active substance-B.1.b.1.z Other changes - Accepted B.I.b.1 Change in the specification parameters and/or limits of an active substance,startingmaterial/intermediate/ reagent used in the manufacturing process of the active substance - B.1.b.1.z Other changes - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |            |     |
+|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|
+| Variation typeIB/ EMA/VR/0000288086 | C.1.11 Introduction of, or change(s) to, the obligations and conditions of a marketing authorisation, including the risk management plan - C.I.11.z Other RMP changes (e.g. agreed wording + template change)- Accepted C.I.11.z -To update the RMP with the following changes: - to reflect the completionoftheStudyCINC424G12201 (REACH5)and theremovalfrom the additional pharmacovigilanceactivities following the approval of the final Clinical StudyReport(CSR)with theArticle46 (ProcedureNo.)EMA/PAM/0000250368;-to update the exposure and safety data in pooled GvHD pediatric population and in the Chronic GvHD total pediatric population to align exposure data in the RMP with the REACH5finalCSRdata;-toupdate the post-authorization data as per the PSUR | 29/08/2025 | N/A |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | reportingperiod23-Feb-2024to22-Feb- 2025.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |            |                       |
+|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------------|
+| Variation type IB / EMA/VR/0000272385 | This was an application for a group of variations. B.II.b.1Replacementor addition of a manufacturingsiteforpart or all of the manufacturingprocessof thefinished product - B.1I.b.1.b Primary packaging site - Accepted B.II.b.1Replacementoradditionofa manufacturingsiteforpartor all ofthe manufacturing process of the finished product - B.1I1.b.1.a Secondary packaging site-Accepted B.II.b.2 Change to importer,batch release arrangements and quality control testing of the finished product-B.I1.b.2.a Replacementoradditionofasitewhere batch control/testing takesplace-Accepted B.II.b.4 Change in the batch size (including batch size ranges)of thefinishedproduct- B.11.b.4.a Up to10-foldcompared to the originally approved batch size - Accepted B.II.b.3Change in the manufacturing | 20/06/2025 | SmPC, Annex II and PL |
+
+<div style=\"page-break-after: always\"></div>
+
+| finished product - B.1I.b.3.a Minor change in the manufacturing process - Accepted  B.II.b.3 Change in the manufacturing process of the finished product, including an intermediateusedinthemanufactureofthe finished product - B.II.b.3.a Minor change in the manufacturing process - Accepted  B.II.b.3 Change in the manufacturing process of the finished product, including an intermediateused in themanufactureof the finished product-B.II.b.3.a Minor change in themanufacturingprocess-Accepted  B.I1.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - B.I1.b.3.a Minor change in themanufacturingprocess-Accepted  B.II.b.3 Change in the manufacturing process of the finished product, including an intermediateused in themanufacture of the finished product-B.II.b.3.z Change in the packaging material of bulk product not in contactwiththebulkproductformulation (includingreplacement or addition)- Accepted  B.II.e.1.a Qualitative and quantitative composition - B.1I.e.1.a.1. Solid   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
+
+|                                          | pharmaceuticalforms-Accepted B.II.b.2.cReplacement or addition of a manufacturerresponsibleforimportation and/or batch release - B.11.b.2.c.2 Including batch control/testing- Accepted B.II.b.1Replacementor addition of a manufacturingsiteforpartor all of the manufacturing process of the finished product - B.1I1.b.1.e Site where any manufacturing operation(s) take place, exceptbatch-release,batchcontrol,primary and secondary packaging, for nonsterile medicinal products - Accepted   |            |                 |             |
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------|-------------|
+| Variation type IA_IN / EMA/VR/0000252914 | B.II.b.2.cReplacement or addition of a manufacturerresponsibleforimportation and/or batch release-B.11.b.2.c.1 Not including batch control/testing - Accepted                                                                                                                                                                                                                                                                                                                                        | 19/02/2025 | Annex II and PL |             |
+| PSUR/EMA/PSUR/0000274417                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |            |                 | Maintenance |

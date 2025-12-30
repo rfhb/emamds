@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-13 23:04:14
+document_datetime: 2025-12-29 11:44:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/voraxaze.html
 document_name: voraxaze.html
 version: success
-processing_time: 0.1095305
-conversion_datetime: 2025-12-27 21:42:22.02443
+processing_time: 0.105142
+conversion_datetime: 2025-12-30 21:02:52.472511
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 glucarpidase Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (144.24 KB - PDF)
 
 [View](/en/documents/overview/voraxaze-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-471)
+[Other languages (22)](#file-language-dropdown-53)
 
 български (BG) (138.02 KB - PDF)
 
@@ -314,7 +316,7 @@ English (EN) (433.46 KB - PDF)
 
 [View](/en/documents/product-information/voraxaze-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-364)
+[Other languages (24)](#file-language-dropdown-400)
 
 български (BG) (445.5 KB - PDF)
 
@@ -628,7 +630,7 @@ English (EN) (47.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/voraxaze-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-821)
+[Other languages (24)](#file-language-dropdown-298)
 
 български (BG) (57.15 KB - PDF)
 

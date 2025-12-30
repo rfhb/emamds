@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:24
+document_datetime: 2025-12-29 12:55:14
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tygacil.html
 document_name: tygacil.html
 version: success
-processing_time: 0.2739705
-conversion_datetime: 2025-12-27 09:40:54.87311
+processing_time: 0.1012668
+conversion_datetime: 2025-12-30 01:22:30.857723
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tigecycline Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (81.94 KB - PDF)
 
 [View](/en/documents/overview/tygacil-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-139)
+[Other languages (22)](#file-language-dropdown-699)
 
 български (BG) (105.95 KB - PDF)
 
@@ -396,7 +398,7 @@ English (EN) (433.22 KB - PDF)
 
 [View](/en/documents/product-information/tygacil-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-175)
+[Other languages (24)](#file-language-dropdown-565)
 
 български (BG) (266.02 KB - PDF)
 
@@ -712,7 +714,7 @@ English (EN) (9.74 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tygacil-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-314)
+[Other languages (18)](#file-language-dropdown-187)
 
 español (ES) (10.45 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 13:08:11
+document_datetime: 2025-12-29 07:04:18
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xbryk.html
 document_name: xbryk.html
 version: success
-processing_time: 0.123113
-conversion_datetime: 2025-12-28 17:25:55.27175
+processing_time: 0.124419
+conversion_datetime: 2025-12-30 20:06:22.917871
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-denosumab
+denosumab Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -124,7 +120,7 @@ English (EN) (113.2 KB - PDF)
 
 [View](/en/documents/overview/xbryk-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-919)
+[Other languages (22)](#file-language-dropdown-730)
 
 български (BG) (139.61 KB - PDF)
 
@@ -322,7 +318,7 @@ English (EN) (618.51 KB - PDF)
 
 [View](/en/documents/product-information/xbryk-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-601)
+[Other languages (24)](#file-language-dropdown-912)
 
 български (BG) (503.9 KB - PDF)
 
@@ -636,7 +632,7 @@ English (EN) (41.87 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xbryk-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-617)
+[Other languages (24)](#file-language-dropdown-812)
 
 български (BG) (57.71 KB - PDF)
 
@@ -929,7 +925,7 @@ English (EN) (1.96 MB - PDF)
 
 [View](/en/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-968)
+[Other languages (22)](#file-language-dropdown-866)
 
 български (BG) (1.9 MB - PDF)
 

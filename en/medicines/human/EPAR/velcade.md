@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:55:10
+document_datetime: 2025-12-29 08:31:47
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/velcade.html
 document_name: velcade.html
 version: success
-processing_time: 0.14127
-conversion_datetime: 2025-12-24 03:12:11.852759
+processing_time: 0.1348844
+conversion_datetime: 2025-12-30 22:50:45.368195
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bortezomib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (188.58 KB - PDF)
 
 [View](/en/documents/overview/velcade-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-790)
+[Other languages (22)](#file-language-dropdown-36)
 
 български (BG) (222.59 KB - PDF)
 
@@ -403,7 +405,7 @@ English (EN) (566.19 KB - PDF)
 
 [View](/en/documents/product-information/velcade-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-586)
+[Other languages (24)](#file-language-dropdown-383)
 
 български (BG) (620.72 KB - PDF)
 
@@ -719,7 +721,7 @@ English (EN) (11.77 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/velcade-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-489)
+[Other languages (24)](#file-language-dropdown-369)
 
 български (BG) (45.73 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:51:35
+document_datetime: 2025-12-29 11:46:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/omjjara.html
 document_name: omjjara.html
 version: success
-processing_time: 0.1102223
-conversion_datetime: 2025-12-26 20:49:40.841751
+processing_time: 0.1100733
+conversion_datetime: 2025-12-30 10:41:55.066607
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 momelotinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (139.87 KB - PDF)
 
 [View](/en/documents/overview/omjjara-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-626)
+[Other languages (22)](#file-language-dropdown-210)
 
 български (BG) (155.97 KB - PDF)
 
@@ -316,7 +318,7 @@ English (EN) (470.11 KB - PDF)
 
 [View](/en/documents/product-information/omjjara-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-985)
+[Other languages (24)](#file-language-dropdown-677)
 
 български (BG) (926.38 KB - PDF)
 
@@ -630,7 +632,7 @@ English (EN) (38.45 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/omjjara-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-272)
+[Other languages (24)](#file-language-dropdown-91)
 
 български (BG) (52.69 KB - PDF)
 

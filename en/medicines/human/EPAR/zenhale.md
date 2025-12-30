@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:26:22
+document_datetime: 2025-12-29 16:05:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zenhale.html
 document_name: zenhale.html
 version: success
-processing_time: 0.068745
-conversion_datetime: 2025-12-24 16:13:00.013412
+processing_time: 0.0722792
+conversion_datetime: 2025-12-30 13:06:57.251518
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +116,7 @@ English (EN) (55.52 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-zenhale_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-914)
+[Other languages (21)](#file-language-dropdown-985)
 
 български (BG) (94.15 KB - PDF)
 

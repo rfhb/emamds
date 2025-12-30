@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 14:16:22
+document_datetime: 2025-12-29 16:52:43
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/memantine-fgk.html
 document_name: memantine-fgk.html
 version: success
-processing_time: 0.0694453
-conversion_datetime: 2025-12-26 18:50:04.12342
+processing_time: 0.0703321
+conversion_datetime: 2025-12-30 02:31:36.845916
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-memantine
+memantine Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +99,7 @@ English (EN) (75.33 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-memantine-fgk_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-425)
+[Other languages (21)](#file-language-dropdown-189)
 
 български (BG) (104.46 KB - PDF)
 
@@ -404,6 +400,10 @@ An assessment report is published when the application is withdrawn after the fi
 FGK Representative Service GmbH withdraws its marketing authorisation application for Memantine FGK (memantine)
 
 Reference Number: EMA/18787/2013
+
+Summary:
+
+The European Medicines Agency has been formally notified by FGK Representative Service GmbH of its decision to withdraw its application for centralised marketing authorisation for the medicine Memantine FGK (memantine), 7 mg, 14 mg, 21 mg and 28 mg, prolonged-release hard capsule. It was intended to be used for the treatment of patients with moderate to severe Alzheimer's disease.
 
 English (EN) (69.41 KB - PDF)
 

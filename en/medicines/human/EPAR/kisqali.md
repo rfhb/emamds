@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:49:49
+document_datetime: 2025-12-29 08:42:15
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kisqali.html
 document_name: kisqali.html
 version: success
-processing_time: 0.116436
-conversion_datetime: 2025-12-24 09:08:24.864787
+processing_time: 0.1103382
+conversion_datetime: 2025-12-30 03:13:10.347749
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ribociclib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -133,7 +135,7 @@ English (EN) (137.81 KB - PDF)
 
 [View](/en/documents/overview/kisqali-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-821)
+[Other languages (22)](#file-language-dropdown-835)
 
 български (BG) (151.56 KB - PDF)
 
@@ -421,7 +423,7 @@ English (EN) (925.45 KB - PDF)
 
 [View](/en/documents/product-information/kisqali-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-196)
+[Other languages (24)](#file-language-dropdown-575)
 
 български (BG) (992.02 KB - PDF)
 
@@ -737,7 +739,7 @@ English (EN) (101.3 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kisqali-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-101)
+[Other languages (24)](#file-language-dropdown-719)
 
 български (BG) (150.03 KB - PDF)
 

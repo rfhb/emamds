@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:49:38
+document_datetime: 2025-12-29 12:49:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zepatier.html
 document_name: zepatier.html
 version: success
-processing_time: 0.116305
-conversion_datetime: 2025-12-26 12:02:22.663784
+processing_time: 0.115342
+conversion_datetime: 2025-12-30 08:08:28.458364
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 elbasvir / grazoprevir Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (119.14 KB - PDF)
 
 [View](/en/documents/overview/zepatier-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-746)
+[Other languages (22)](#file-language-dropdown-190)
 
 български (BG) (144.05 KB - PDF)
 
@@ -397,7 +399,7 @@ English (EN) (440.24 KB - PDF)
 
 [View](/en/documents/product-information/zepatier-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-932)
+[Other languages (24)](#file-language-dropdown-681)
 
 български (BG) (416.66 KB - PDF)
 
@@ -713,7 +715,7 @@ English (EN) (55.67 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zepatier-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-502)
+[Other languages (24)](#file-language-dropdown-0)
 
 български (BG) (58.12 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:43:34
+document_datetime: 2025-12-29 08:22:17
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/viramune.html
 document_name: viramune.html
 version: success
-processing_time: 0.1138537
-conversion_datetime: 2025-12-28 20:16:10.220989
+processing_time: 0.1109033
+conversion_datetime: 2025-12-30 01:38:51.679033
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 nevirapine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -91,7 +93,7 @@ English (EN) (133.18 KB - PDF)
 
 [View](/en/documents/overview/viramune-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-582)
+[Other languages (22)](#file-language-dropdown-298)
 
 български (BG) (158.36 KB - PDF)
 
@@ -369,7 +371,7 @@ English (EN) (597.06 KB - PDF)
 
 [View](/en/documents/product-information/viramune-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-947)
+[Other languages (24)](#file-language-dropdown-189)
 
 български (BG) (627.59 KB - PDF)
 
@@ -685,7 +687,7 @@ English (EN) (24.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/viramune-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-547)
+[Other languages (24)](#file-language-dropdown-17)
 
 български (BG) (27.64 KB - PDF)
 

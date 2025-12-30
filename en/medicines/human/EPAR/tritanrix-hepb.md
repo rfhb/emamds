@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:37:27
+document_datetime: 2025-12-29 14:32:37
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tritanrix-hepb.html
 document_name: tritanrix-hepb.html
 version: success
-processing_time: 0.0993658
-conversion_datetime: 2025-12-25 09:41:57.973603
+processing_time: 0.1085706
+conversion_datetime: 2025-12-30 09:21:36.350799
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has lapsed
 
 diphtheria (D), tetanus (T), pertussis (whole cell) (Pw) and hepatitis B (rDNA) (HBV) vaccine (adsorbed) Medicine Human Lapsed
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -58,7 +60,7 @@ English (EN) (948.08 KB - PDF)
 
 [View](/en/documents/overview/tritanrix-hepb-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-854)
+[Other languages (21)](#file-language-dropdown-153)
 
 български (BG) (660.97 KB - PDF)
 
@@ -324,7 +326,7 @@ English (EN) (1.32 MB - PDF)
 
 [View](/en/documents/product-information/tritanrix-hepb-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-1000)
+[Other languages (23)](#file-language-dropdown-96)
 
 български (BG) (1.7 MB - PDF)
 
@@ -628,7 +630,7 @@ English (EN) (967.01 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tritanrix-hepb-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-855)
+[Other languages (21)](#file-language-dropdown-957)
 
 български (BG) (570.71 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:09:04
+document_datetime: 2025-12-29 07:58:29
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/arepanrix.html
 document_name: arepanrix.html
 version: success
-processing_time: 0.1029752
-conversion_datetime: 2025-12-25 06:19:16.378896
+processing_time: 0.0873683
+conversion_datetime: 2025-12-31 00:59:01.513315
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-pandemic influenza vaccine (H1N1)v (split virion, inactivated, adjuvanted)
+pandemic influenza vaccine (H1N1)v (split virion, inactivated, adjuvanted) Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -65,7 +61,7 @@ English (EN) (185.59 KB - PDF)
 
 [View](/en/documents/overview/arepanrix-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-860)
+[Other languages (21)](#file-language-dropdown-442)
 
 български (BG) (328.59 KB - PDF)
 
@@ -331,7 +327,7 @@ English (EN) (517.87 KB - PDF)
 
 [View](/en/documents/product-information/arepanrix-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-274)
+[Other languages (23)](#file-language-dropdown-963)
 
 български (BG) (1.55 MB - PDF)
 
@@ -635,7 +631,7 @@ English (EN) (179.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/arepanrix-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-291)
+[Other languages (21)](#file-language-dropdown-491)
 
 български (BG) (233.78 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:51:53
+document_datetime: 2025-12-29 14:34:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eporatio.html
 document_name: eporatio.html
 version: success
-processing_time: 0.1085926
-conversion_datetime: 2025-12-28 15:31:55.050997
+processing_time: 0.4125987
+conversion_datetime: 2025-12-30 09:29:53.340861
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 epoetin theta Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (37.88 KB - PDF)
 
 [View](/en/documents/overview/eporatio-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-508)
+[Other languages (21)](#file-language-dropdown-664)
 
 български (BG) (170.6 KB - PDF)
 
@@ -383,7 +385,7 @@ English (EN) (874.35 KB - PDF)
 
 [View](/en/documents/product-information/eporatio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-966)
+[Other languages (24)](#file-language-dropdown-252)
 
 български (BG) (1.01 MB - PDF)
 
@@ -699,7 +701,7 @@ English (EN) (38.67 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/eporatio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-206)
+[Other languages (24)](#file-language-dropdown-870)
 
 български (BG) (95.25 KB - PDF)
 

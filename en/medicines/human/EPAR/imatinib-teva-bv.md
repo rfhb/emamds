@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:04:34
+document_datetime: 2025-12-29 12:47:38
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imatinib-teva-bv.html
 document_name: imatinib-teva-bv.html
 version: success
-processing_time: 0.1036013
-conversion_datetime: 2025-12-27 13:52:39.486305
+processing_time: 0.1031473
+conversion_datetime: 2025-12-30 21:02:25.810723
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-imatinib
+imatinib Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -69,7 +65,7 @@ English (EN) (330.11 KB - PDF)
 
 [View](/en/documents/overview/imatinib-teva-bv-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-275)
+[Other languages (22)](#file-language-dropdown-901)
 
 български (BG) (304.52 KB - PDF)
 
@@ -347,7 +343,7 @@ English (EN) (1.69 MB - PDF)
 
 [View](/en/documents/product-information/imatinib-teva-bv-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-757)
+[Other languages (24)](#file-language-dropdown-73)
 
 български (BG) (3.29 MB - PDF)
 
@@ -663,7 +659,7 @@ English (EN) (186.27 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imatinib-teva-bv-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-946)
+[Other languages (24)](#file-language-dropdown-811)
 
 български (BG) (267.55 KB - PDF)
 

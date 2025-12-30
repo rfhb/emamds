@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-09 23:28:26
+document_datetime: 2025-12-29 12:11:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xelevia.html
 document_name: xelevia.html
 version: success
-processing_time: 0.1534738
-conversion_datetime: 2025-12-26 18:52:03.040402
+processing_time: 0.1420656
+conversion_datetime: 2025-12-30 21:03:37.118885
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sitagliptin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +124,7 @@ English (EN) (62.28 KB - PDF)
 
 [View](/en/documents/overview/xelevia-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-845)
+[Other languages (21)](#file-language-dropdown-660)
 
 български (BG) (103.35 KB - PDF)
 
@@ -396,7 +398,7 @@ English (EN) (340.36 KB - PDF)
 
 [View](/en/documents/product-information/xelevia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-999)
+[Other languages (24)](#file-language-dropdown-131)
 
 български (BG) (324.44 KB - PDF)
 
@@ -712,7 +714,7 @@ English (EN) (21.39 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xelevia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-599)
+[Other languages (24)](#file-language-dropdown-161)
 
 български (BG) (43.59 KB - PDF)
 
@@ -1274,7 +1276,7 @@ English (EN) (308 KB - DOC)
 
 [View](/en/documents/product-information-tracked-changes/xelevia-epar-product-information-tracked-changes_en.doc)
 
-[Other languages (24)](#file-language-dropdown-428)
+[Other languages (24)](#file-language-dropdown-63)
 
 български (BG) (412 KB - DOC)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:45:00
+document_datetime: 2025-12-29 07:27:49
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aucatzyl.html
 document_name: aucatzyl.html
 version: success
-processing_time: 0.107183
-conversion_datetime: 2025-12-28 18:49:45.868277
+processing_time: 0.1011857
+conversion_datetime: 2025-12-30 21:02:17.014157
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 obecabtagene autoleucel Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (110.02 KB - PDF)
 
 [View](/en/documents/overview/aucatzyl-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-373)
+[Other languages (22)](#file-language-dropdown-48)
 
 български (BG) (133.93 KB - PDF)
 
@@ -314,7 +316,7 @@ English (EN) (602.6 KB - PDF)
 
 [View](/en/documents/product-information/aucatzyl-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-68)
+[Other languages (24)](#file-language-dropdown-189)
 
 български (BG) (838.48 KB - PDF)
 
@@ -532,7 +534,7 @@ English (EN) (86.25 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/aucatzyl-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-25)
+[Other languages (24)](#file-language-dropdown-78)
 
 български (BG) (106.43 KB - PDF)
 

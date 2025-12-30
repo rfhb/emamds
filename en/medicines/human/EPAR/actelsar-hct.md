@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:06:35
+document_datetime: 2025-12-29 07:21:32
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/actelsar-hct.html
 document_name: actelsar-hct.html
 version: success
-processing_time: 0.145694
-conversion_datetime: 2025-12-28 11:08:26.049685
+processing_time: 0.143427
+conversion_datetime: 2025-12-30 12:28:07.918059
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 telmisartan / hydrochlorothiazide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (68.46 KB - PDF)
 
 [View](/en/documents/overview/actelsar-hct-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-731)
+[Other languages (21)](#file-language-dropdown-976)
 
 български (BG) (97.56 KB - PDF)
 
@@ -374,7 +376,7 @@ English (EN) (1.12 MB - PDF)
 
 [View](/en/documents/product-information/actelsar-hct-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-249)
+[Other languages (24)](#file-language-dropdown-548)
 
 български (BG) (1.34 MB - PDF)
 
@@ -690,7 +692,7 @@ English (EN) (11.78 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/actelsar-hct-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-639)
+[Other languages (24)](#file-language-dropdown-38)
 
 български (BG) (46.28 KB - PDF)
 
@@ -1063,7 +1065,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/actelsar-hct-h-c-2676-a31-03-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recomm_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-18)
+[Other languages (22)](#file-language-dropdown-153)
 
 български (BG) (87.49 KB - PDF)
 
@@ -1393,7 +1395,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

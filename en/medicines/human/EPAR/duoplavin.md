@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:25:07
+document_datetime: 2025-12-29 13:52:16
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/duoplavin.html
 document_name: duoplavin.html
 version: success
-processing_time: 0.1102076
-conversion_datetime: 2025-12-27 15:36:31.966773
+processing_time: 0.1062908
+conversion_datetime: 2025-12-30 21:59:21.49895
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 clopidogrel / acetylsalicylic acid Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (117.78 KB - PDF)
 
 [View](/en/documents/overview/duoplavin-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-422)
+[Other languages (22)](#file-language-dropdown-401)
 
 български (BG) (129.59 KB - PDF)
 
@@ -403,7 +405,7 @@ English (EN) (366.49 KB - PDF)
 
 [View](/en/documents/product-information/duoplavin-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-623)
+[Other languages (24)](#file-language-dropdown-464)
 
 български (BG) (728.33 KB - PDF)
 
@@ -719,7 +721,7 @@ English (EN) (25.95 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/duoplavin-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-961)
+[Other languages (24)](#file-language-dropdown-322)
 
 български (BG) (101.53 KB - PDF)
 

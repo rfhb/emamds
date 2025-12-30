@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:15:24
+document_datetime: 2025-12-29 14:35:25
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pomalidomide-krka.html
 document_name: pomalidomide-krka.html
 version: success
-processing_time: 0.1148417
-conversion_datetime: 2025-12-27 23:21:40.918468
+processing_time: 0.1198848
+conversion_datetime: 2025-12-30 21:55:07.28249
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pomalidomide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -101,7 +103,7 @@ English (EN) (136.55 KB - PDF)
 
 [View](/en/documents/overview/pomalidomide-krka-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-319)
+[Other languages (22)](#file-language-dropdown-125)
 
 български (BG) (164.89 KB - PDF)
 
@@ -387,7 +389,7 @@ English (EN) (498.15 KB - PDF)
 
 [View](/en/documents/product-information/pomalidomide-krka-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-411)
+[Other languages (24)](#file-language-dropdown-244)
 
 български (BG) (597.67 KB - PDF)
 
@@ -701,7 +703,7 @@ English (EN) (66.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pomalidomide-krka-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-940)
+[Other languages (24)](#file-language-dropdown-877)
 
 български (BG) (54.93 KB - PDF)
 
@@ -903,7 +905,7 @@ English (EN) (130.42 KB - PDF)
 
 [View](/en/documents/conditions-member-states/pomalidomide-krka-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-203)
+[Other languages (25)](#file-language-dropdown-354)
 
 български (BG) (165.42 KB - PDF)
 

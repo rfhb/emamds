@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:05:53
+document_datetime: 2025-12-29 08:44:02
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imatinib-teva.html
 document_name: imatinib-teva.html
 version: success
-processing_time: 0.130319
-conversion_datetime: 2025-12-28 10:49:17.039112
+processing_time: 0.127105
+conversion_datetime: 2025-12-30 01:04:53.986481
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-imatinib
+imatinib Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +106,7 @@ English (EN) (89.56 KB - PDF)
 
 [View](/en/documents/overview/imatinib-teva-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-631)
+[Other languages (22)](#file-language-dropdown-267)
 
 български (BG) (110.34 KB - PDF)
 
@@ -388,7 +384,7 @@ English (EN) (1.59 MB - PDF)
 
 [View](/en/documents/product-information/imatinib-teva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-618)
+[Other languages (24)](#file-language-dropdown-336)
 
 български (BG) (2.17 MB - PDF)
 
@@ -704,7 +700,7 @@ English (EN) (16.26 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imatinib-teva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-415)
+[Other languages (24)](#file-language-dropdown-752)
 
 български (BG) (51.58 KB - PDF)
 
@@ -1110,7 +1106,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-44)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

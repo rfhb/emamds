@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 09:10:22
+document_datetime: 2025-12-29 14:34:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/doribax.html
 document_name: doribax.html
 version: success
-processing_time: 0.1001238
-conversion_datetime: 2025-12-25 01:03:00.763185
+processing_time: 0.1004218
+conversion_datetime: 2025-12-30 07:45:47.589299
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-doripenem
+doripenem Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -73,7 +69,7 @@ English (EN) (224.28 KB - PDF)
 
 [View](/en/documents/overview/doribax-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-127)
+[Other languages (21)](#file-language-dropdown-719)
 
 български (BG) (273.3 KB - PDF)
 
@@ -339,7 +335,7 @@ English (EN) (611.03 KB - PDF)
 
 [View](/en/documents/product-information/doribax-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-60)
+[Other languages (23)](#file-language-dropdown-456)
 
 български (BG) (1.2 MB - PDF)
 

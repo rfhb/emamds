@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:02:11
+document_datetime: 2025-12-29 11:40:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aerius.html
 document_name: aerius.html
 version: success
-processing_time: 0.1241953
-conversion_datetime: 2025-12-28 11:53:30.28392
+processing_time: 0.1236775
+conversion_datetime: 2025-12-30 08:52:54.10123
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 desloratadine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (75 KB - PDF)
 
 [View](/en/documents/overview/aerius-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-944)
+[Other languages (22)](#file-language-dropdown-760)
 
 български (BG) (124.32 KB - PDF)
 
@@ -393,7 +395,7 @@ English (EN) (315.99 KB - PDF)
 
 [View](/en/documents/product-information/aerius-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-463)
+[Other languages (24)](#file-language-dropdown-67)
 
 български (BG) (408.09 KB - PDF)
 
@@ -709,7 +711,7 @@ English (EN) (47.76 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/aerius-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-275)
+[Other languages (24)](#file-language-dropdown-926)
 
 български (BG) (53.43 KB - PDF)
 

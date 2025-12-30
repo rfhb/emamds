@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:21:58
+document_datetime: 2025-12-29 12:13:12
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/duaklir-genuair.html
 document_name: duaklir-genuair.html
 version: success
-processing_time: 0.132371
-conversion_datetime: 2025-12-25 06:11:41.624979
+processing_time: 0.1303339
+conversion_datetime: 2025-12-30 22:17:41.268647
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 aclidinium bromide / formoterol Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +122,7 @@ English (EN) (78.12 KB - PDF)
 
 [View](/en/documents/overview/duaklir-genuair-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-290)
+[Other languages (22)](#file-language-dropdown-854)
 
 български (BG) (107.74 KB - PDF)
 
@@ -408,7 +410,7 @@ English (EN) (580.03 KB - PDF)
 
 [View](/en/documents/product-information/duaklir-genuair-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-70)
+[Other languages (24)](#file-language-dropdown-321)
 
 български (BG) (645.7 KB - PDF)
 
@@ -724,7 +726,7 @@ English (EN) (28.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/duaklir-genuair-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-785)
+[Other languages (24)](#file-language-dropdown-862)
 
 български (BG) (33.98 KB - PDF)
 
@@ -1150,7 +1152,7 @@ English (EN) (1.63 MB - DOC)
 
 [View](/en/documents/product-information-tracked-changes/duaklir-genuair-epar-product-information-tracked-changes_en.doc)
 
-[Other languages (24)](#file-language-dropdown-356)
+[Other languages (24)](#file-language-dropdown-414)
 
 български (BG) (1010.5 KB - DOC)
 

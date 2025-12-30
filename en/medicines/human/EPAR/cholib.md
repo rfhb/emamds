@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 07:27:57
+document_datetime: 2025-12-29 13:25:11
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cholib.html
 document_name: cholib.html
 version: success
-processing_time: 0.1138649
-conversion_datetime: 2025-12-28 03:17:45.514549
+processing_time: 0.1032565
+conversion_datetime: 2025-12-30 09:41:24.957032
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -113,7 +113,7 @@ English (EN) (81.54 KB - PDF)
 
 [View](/en/documents/overview/cholib-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-691)
+[Other languages (22)](#file-language-dropdown-403)
 
 български (BG) (109.76 KB - PDF)
 
@@ -399,7 +399,7 @@ English (EN) (645.32 KB - PDF)
 
 [View](/en/documents/product-information/cholib-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-730)
+[Other languages (24)](#file-language-dropdown-935)
 
 български (BG) (753.32 KB - PDF)
 
@@ -715,7 +715,7 @@ English (EN) (25.67 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cholib-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-536)
+[Other languages (24)](#file-language-dropdown-311)
 
 български (BG) (47.95 KB - PDF)
 

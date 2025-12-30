@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:51:09
+document_datetime: 2025-12-29 11:41:49
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kinpeygo.html
 document_name: kinpeygo.html
 version: success
-processing_time: 0.1180803
-conversion_datetime: 2025-12-24 08:45:13.975525
+processing_time: 0.1165038
+conversion_datetime: 2025-12-30 03:40:40.82202
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 budesonide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (122.19 KB - PDF)
 
 [View](/en/documents/overview/kinpeygo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-460)
+[Other languages (22)](#file-language-dropdown-97)
 
 български (BG) (125.45 KB - PDF)
 
@@ -400,7 +402,7 @@ English (EN) (542.36 KB - PDF)
 
 [View](/en/documents/product-information/kinpeygo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-2)
+[Other languages (24)](#file-language-dropdown-128)
 
 български (BG) (616.96 KB - PDF)
 
@@ -716,7 +718,7 @@ English (EN) (77.19 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kinpeygo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-681)
+[Other languages (24)](#file-language-dropdown-464)
 
 български (BG) (85.13 KB - PDF)
 

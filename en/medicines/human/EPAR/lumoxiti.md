@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:57:18
+document_datetime: 2025-12-29 11:39:01
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lumoxiti.html
 document_name: lumoxiti.html
 version: success
-processing_time: 0.1046418
-conversion_datetime: 2025-12-27 14:07:15.504415
+processing_time: 0.1059453
+conversion_datetime: 2025-12-30 10:03:23.258865
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 moxetumomab pasudotox Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -62,7 +64,7 @@ English (EN) (724.73 KB - PDF)
 
 [View](/en/documents/overview/lumoxiti-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-531)
+[Other languages (22)](#file-language-dropdown-186)
 
 български (BG) (815.81 KB - PDF)
 
@@ -350,7 +352,7 @@ English (EN) (1016.76 KB - PDF)
 
 [View](/en/documents/product-information/lumoxiti-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-450)
+[Other languages (24)](#file-language-dropdown-633)
 
 български (BG) (1.82 MB - PDF)
 
@@ -666,7 +668,7 @@ English (EN) (599.6 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lumoxiti-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-265)
+[Other languages (24)](#file-language-dropdown-946)
 
 български (BG) (1.18 MB - PDF)
 

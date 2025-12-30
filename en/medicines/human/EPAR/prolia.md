@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:08:37
+document_datetime: 2025-12-29 10:00:42
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/prolia.html
 document_name: prolia.html
 version: success
-processing_time: 0.1480418
-conversion_datetime: 2025-12-24 16:47:53.468411
+processing_time: 0.1397542
+conversion_datetime: 2025-12-30 22:06:21.495788
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 denosumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -124,7 +126,7 @@ English (EN) (87.73 KB - PDF)
 
 [View](/en/documents/overview/prolia-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-993)
+[Other languages (22)](#file-language-dropdown-46)
 
 български (BG) (116.97 KB - PDF)
 
@@ -412,7 +414,7 @@ English (EN) (812.1 KB - PDF)
 
 [View](/en/documents/product-information/prolia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-390)
+[Other languages (24)](#file-language-dropdown-887)
 
 български (BG) (939.37 KB - PDF)
 
@@ -728,7 +730,7 @@ English (EN) (14.68 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/prolia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-771)
+[Other languages (23)](#file-language-dropdown-889)
 
 български (BG) (86.54 KB - PDF)
 
@@ -1220,7 +1222,7 @@ English (EN) (3.13 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/prolia-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-547)
+[Other languages (24)](#file-language-dropdown-680)
 
 български (BG) (3.13 MB - DOCX)
 

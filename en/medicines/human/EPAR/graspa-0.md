@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 13:10:59
+document_datetime: 2025-12-29 08:27:06
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/graspa-0.html
 document_name: graspa-0.html
 version: success
-processing_time: 0.0598064
-conversion_datetime: 2025-12-28 19:23:13.219709
+processing_time: 0.0693456
+conversion_datetime: 2025-12-30 01:45:20.071206
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-asparaginase
+asparaginase Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +104,7 @@ English (EN) (69.89 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-graspa-l-asparaginase_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-702)
+[Other languages (22)](#file-language-dropdown-27)
 
 български (BG) (99.26 KB - PDF)
 

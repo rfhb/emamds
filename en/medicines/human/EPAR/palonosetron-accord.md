@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:37:47
+document_datetime: 2025-12-29 12:05:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/palonosetron-accord.html
 document_name: palonosetron-accord.html
 version: success
-processing_time: 0.1314322
-conversion_datetime: 2025-12-29 22:09:12.366504
+processing_time: 0.1271852
+conversion_datetime: 2025-12-30 13:06:39.539327
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

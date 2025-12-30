@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:39:42
+document_datetime: 2025-12-29 08:37:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zyprexa-velotab.html
 document_name: zyprexa-velotab.html
 version: success
-processing_time: 0.1117003
-conversion_datetime: 2025-12-25 12:51:18.868942
+processing_time: 0.112299
+conversion_datetime: 2025-12-30 02:54:25.98092
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 olanzapine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +105,7 @@ English (EN) (53.02 KB - PDF)
 
 [View](/en/documents/overview/zyprexa-velotab-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-362)
+[Other languages (21)](#file-language-dropdown-859)
 
 български (BG) (135.25 KB - PDF)
 
@@ -369,7 +371,7 @@ English (EN) (460.74 KB - PDF)
 
 [View](/en/documents/product-information/zyprexa-velotab-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-558)
+[Other languages (24)](#file-language-dropdown-776)
 
 български (BG) (569.62 KB - PDF)
 
@@ -685,7 +687,7 @@ English (EN) (22.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zyprexa-velotab-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-340)
+[Other languages (24)](#file-language-dropdown-911)
 
 български (BG) (56.49 KB - PDF)
 

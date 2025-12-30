@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 14:30:03
+document_datetime: 2025-12-29 14:35:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fexeric.html
 document_name: fexeric.html
 version: success
-processing_time: 0.108017
-conversion_datetime: 2025-12-28 03:25:37.206132
+processing_time: 0.1091305
+conversion_datetime: 2025-12-30 13:08:20.161652
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has lapsed
 
-ferric citrate coordination complex
+ferric citrate coordination complex Medicine Human Lapsed
 
-Medicine
-
-Human
-
-Lapsed
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -70,7 +66,7 @@ English (EN) (252.54 KB - PDF)
 
 [View](/en/documents/overview/fexeric-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-471)
+[Other languages (22)](#file-language-dropdown-136)
 
 български (BG) (314.37 KB - PDF)
 
@@ -360,7 +356,7 @@ English (EN) (463.01 KB - PDF)
 
 [View](/en/documents/product-information/fexeric-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-565)
+[Other languages (24)](#file-language-dropdown-31)
 
 български (BG) (937.09 KB - PDF)
 
@@ -676,7 +672,7 @@ English (EN) (178.18 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fexeric-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-437)
+[Other languages (24)](#file-language-dropdown-474)
 
 български (BG) (210.72 KB - PDF)
 

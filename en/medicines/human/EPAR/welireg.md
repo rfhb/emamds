@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:41:36
+document_datetime: 2025-12-29 13:56:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/welireg.html
 document_name: welireg.html
 version: success
-processing_time: 0.098785
-conversion_datetime: 2025-12-27 13:23:50.018758
+processing_time: 0.096746
+conversion_datetime: 2025-12-30 21:52:37.266177
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 belzutifan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +124,7 @@ English (EN) (127.15 KB - PDF)
 
 [View](/en/documents/overview/welireg-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-254)
+[Other languages (22)](#file-language-dropdown-445)
 
 български (BG) (177.27 KB - PDF)
 
@@ -318,7 +320,7 @@ English (EN) (507.91 KB - PDF)
 
 [View](/en/documents/product-information/welireg-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-943)
+[Other languages (24)](#file-language-dropdown-796)
 
 български (BG) (494.09 KB - PDF)
 
@@ -536,7 +538,7 @@ English (EN) (18.94 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-459)
+[Other languages (24)](#file-language-dropdown-673)
 
 български (BG) (21.37 KB - PDF)
 

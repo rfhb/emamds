@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:50:31
+document_datetime: 2025-12-29 11:44:16
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/braftovi.html
 document_name: braftovi.html
 version: success
-processing_time: 0.125906
-conversion_datetime: 2025-12-24 05:37:07.249644
+processing_time: 0.1206778
+conversion_datetime: 2025-12-30 02:06:07.884475
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 encorafenib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -130,7 +132,7 @@ English (EN) (149.09 KB - PDF)
 
 [View](/en/documents/overview/braftovi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-264)
+[Other languages (22)](#file-language-dropdown-266)
 
 български (BG) (165.64 KB - PDF)
 
@@ -418,7 +420,7 @@ English (EN) (916.38 KB - PDF)
 
 [View](/en/documents/product-information/braftovi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-751)
+[Other languages (24)](#file-language-dropdown-171)
 
 български (BG) (1.14 MB - PDF)
 
@@ -734,7 +736,7 @@ English (EN) (48.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/braftovi-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-898)
+[Other languages (24)](#file-language-dropdown-675)
 
 български (BG) (114.63 KB - PDF)
 

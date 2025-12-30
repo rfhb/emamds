@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:31:50
+document_datetime: 2025-12-29 13:02:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-accord.html
 document_name: rivaroxaban-accord.html
 version: success
-processing_time: 0.2839925
-conversion_datetime: 2025-12-27 10:01:36.236745
+processing_time: 0.1394448
+conversion_datetime: 2025-12-30 11:52:02.9095
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 rivaroxaban Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (148.39 KB - PDF)
 
 [View](/en/documents/overview/rivaroxaban-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-60)
+[Other languages (22)](#file-language-dropdown-317)
 
 български (BG) (198.88 KB - PDF)
 
@@ -307,7 +309,7 @@ English (EN) (1.68 MB - PDF)
 
 [View](/en/documents/product-information/rivaroxaban-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-45)
+[Other languages (24)](#file-language-dropdown-721)
 
 български (BG) (2.61 MB - PDF)
 
@@ -621,7 +623,7 @@ English (EN) (53.18 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rivaroxaban-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-958)
+[Other languages (24)](#file-language-dropdown-197)
 
 български (BG) (86.3 KB - PDF)
 
@@ -947,7 +949,7 @@ English (EN) (1 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/rivaroxaban-accord-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-29)
+[Other languages (24)](#file-language-dropdown-97)
 
 български (BG) (808.9 KB - DOCX)
 
@@ -1155,7 +1157,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

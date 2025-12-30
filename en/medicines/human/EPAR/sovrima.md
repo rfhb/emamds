@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 07:06:18
+document_datetime: 2025-12-29 19:07:35
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sovrima.html
 document_name: sovrima.html
 version: success
-processing_time: 0.0590078
-conversion_datetime: 2025-12-26 20:26:56.290735
+processing_time: 0.0652283
+conversion_datetime: 2025-12-30 08:06:23.674806
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine has been refused authorisation
 
 idebenone Medicine Human Refused
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -54,7 +56,7 @@ English (EN) (36.71 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-recommendation-refusal-marketing-authorization-sovrima_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-384)
+[Other languages (20)](#file-language-dropdown-110)
 
 български (BG) (174.25 KB - PDF)
 

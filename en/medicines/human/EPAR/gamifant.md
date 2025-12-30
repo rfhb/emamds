@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:39:01
+document_datetime: 2025-12-29 12:00:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/gamifant.html
 document_name: gamifant.html
 version: success
-processing_time: 0.070206
-conversion_datetime: 2025-12-25 04:48:05.653102
+processing_time: 0.071786
+conversion_datetime: 2025-12-30 02:58:20.516731
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine has been refused authorisation
 
 emapalumab Medicine Human Refused
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (114.05 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-refusal-marketing-authorisation-gamifant-emapalumab_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-827)
+[Other languages (22)](#file-language-dropdown-500)
 
 български (BG) (121.32 KB - PDF)
 

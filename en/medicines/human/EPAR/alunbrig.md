@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:09:11
+document_datetime: 2025-12-29 07:19:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/alunbrig.html
 document_name: alunbrig.html
 version: success
-processing_time: 0.1307735
-conversion_datetime: 2025-12-25 07:49:02.233737
+processing_time: 0.1289538
+conversion_datetime: 2025-12-30 13:12:54.291733
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 brigatinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +116,7 @@ English (EN) (124.09 KB - PDF)
 
 [View](/en/documents/overview/alunbrig-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-227)
+[Other languages (22)](#file-language-dropdown-808)
 
 български (BG) (139.34 KB - PDF)
 
@@ -402,7 +404,7 @@ English (EN) (584.23 KB - PDF)
 
 [View](/en/documents/product-information/alunbrig-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-716)
+[Other languages (24)](#file-language-dropdown-138)
 
 български (BG) (751.63 KB - PDF)
 
@@ -718,7 +720,7 @@ English (EN) (24.93 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/alunbrig-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-897)
+[Other languages (24)](#file-language-dropdown-882)
 
 български (BG) (63.11 KB - PDF)
 
@@ -1120,7 +1122,7 @@ English (EN) (160.67 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/alunbrig-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-521)
+[Other languages (24)](#file-language-dropdown-868)
 
 български (BG) (216.3 KB - DOCX)
 

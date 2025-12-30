@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:30:15
+document_datetime: 2025-12-29 07:57:43
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vedrop.html
 document_name: vedrop.html
 version: success
-processing_time: 0.1095655
-conversion_datetime: 2025-12-24 21:14:56.066454
+processing_time: 0.1108319
+conversion_datetime: 2025-12-30 09:41:33.729108
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tocofersolan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (80.61 KB - PDF)
 
 [View](/en/documents/overview/vedrop-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-455)
+[Other languages (22)](#file-language-dropdown-652)
 
 български (BG) (106.01 KB - PDF)
 
@@ -388,7 +390,7 @@ English (EN) (427.83 KB - PDF)
 
 [View](/en/documents/product-information/vedrop-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-974)
+[Other languages (24)](#file-language-dropdown-971)
 
 български (BG) (611.46 KB - PDF)
 
@@ -704,7 +706,7 @@ English (EN) (11.9 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vedrop-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-490)
+[Other languages (24)](#file-language-dropdown-533)
 
 български (BG) (81.23 KB - PDF)
 

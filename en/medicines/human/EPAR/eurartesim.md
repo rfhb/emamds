@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:12:46
+document_datetime: 2025-12-29 14:34:54
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eurartesim.html
 document_name: eurartesim.html
 version: success
-processing_time: 0.1317059
-conversion_datetime: 2025-12-24 19:22:52.71579
+processing_time: 0.1327779
+conversion_datetime: 2025-12-30 20:21:03.303206
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 piperaquine tetraphosphate / artenimol Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (80.9 KB - PDF)
 
 [View](/en/documents/overview/eurartesim-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-379)
+[Other languages (22)](#file-language-dropdown-412)
 
 български (BG) (108.57 KB - PDF)
 
@@ -389,7 +391,7 @@ English (EN) (1.04 MB - PDF)
 
 [View](/en/documents/product-information/eurartesim-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-736)
+[Other languages (24)](#file-language-dropdown-955)
 
 български (BG) (736.43 KB - PDF)
 
@@ -705,7 +707,7 @@ English (EN) (58.2 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/eurartesim-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-423)
+[Other languages (24)](#file-language-dropdown-757)
 
 български (BG) (98.96 KB - PDF)
 
@@ -1005,7 +1007,7 @@ English (EN) (28.15 KB - PDF)
 
 [View](/en/documents/conditions-member-states/eurartesim-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-139)
+[Other languages (21)](#file-language-dropdown-78)
 
 български (BG) (170.93 KB - PDF)
 

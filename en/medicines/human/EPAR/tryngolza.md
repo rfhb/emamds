@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-09 23:15:38
+document_datetime: 2025-12-29 11:58:31
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tryngolza.html
 document_name: tryngolza.html
 version: success
-processing_time: 0.1064366
-conversion_datetime: 2025-12-28 14:26:44.568092
+processing_time: 0.1070379
+conversion_datetime: 2025-12-30 10:17:31.497175
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 olezarsen Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -100,7 +102,7 @@ English (EN) (111.12 KB - PDF)
 
 [View](/en/documents/overview/tryngolza-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-609)
+[Other languages (22)](#file-language-dropdown-949)
 
 български (BG) (136.12 KB - PDF)
 
@@ -298,7 +300,7 @@ English (EN) (429.25 KB - PDF)
 
 [View](/en/documents/product-information/tryngolza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-147)
+[Other languages (24)](#file-language-dropdown-434)
 
 български (BG) (630.09 KB - PDF)
 
@@ -612,7 +614,7 @@ English (EN) (38.62 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tryngolza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-329)
+[Other languages (24)](#file-language-dropdown-792)
 
 български (BG) (57.4 KB - PDF)
 

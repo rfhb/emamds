@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:10:24
+document_datetime: 2025-12-29 11:45:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rystiggo.html
 document_name: rystiggo.html
 version: success
-processing_time: 0.1059625
-conversion_datetime: 2025-12-27 18:23:39.621074
+processing_time: 0.1107572
+conversion_datetime: 2025-12-30 01:29:05.998967
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 rozanolixizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (120.5 KB - PDF)
 
 [View](/en/documents/overview/rystiggo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-894)
+[Other languages (22)](#file-language-dropdown-685)
 
 български (BG) (147.32 KB - PDF)
 
@@ -311,7 +313,7 @@ English (EN) (835.08 KB - PDF)
 
 [View](/en/documents/product-information/rystiggo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-140)
+[Other languages (24)](#file-language-dropdown-549)
 
 български (BG) (1.23 MB - PDF)
 
@@ -627,7 +629,7 @@ English (EN) (46.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rystiggo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-269)
+[Other languages (24)](#file-language-dropdown-907)
 
 български (BG) (38.24 KB - PDF)
 

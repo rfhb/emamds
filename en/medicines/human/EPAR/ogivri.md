@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:01:53
+document_datetime: 2025-12-29 07:15:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ogivri.html
 document_name: ogivri.html
 version: success
-processing_time: 0.1117008
-conversion_datetime: 2025-12-25 04:36:35.873394
+processing_time: 0.1066787
+conversion_datetime: 2025-12-30 01:20:19.088132
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 trastuzumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (84.13 KB - PDF)
 
 [View](/en/documents/overview/ogivri-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-309)
+[Other languages (22)](#file-language-dropdown-946)
 
 български (BG) (113.16 KB - PDF)
 
@@ -311,7 +313,7 @@ English (EN) (819.76 KB - PDF)
 
 [View](/en/documents/product-information/ogivri-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-77)
+[Other languages (24)](#file-language-dropdown-22)
 
 български (BG) (878.49 KB - PDF)
 
@@ -627,7 +629,7 @@ English (EN) (11.26 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ogivri-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-845)
+[Other languages (24)](#file-language-dropdown-195)
 
 български (BG) (41.95 KB - PDF)
 

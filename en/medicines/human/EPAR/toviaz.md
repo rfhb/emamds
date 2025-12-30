@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:35:50
+document_datetime: 2025-12-29 13:25:25
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/toviaz.html
 document_name: toviaz.html
 version: success
-processing_time: 0.1113083
-conversion_datetime: 2025-12-26 10:45:21.269649
+processing_time: 0.1136688
+conversion_datetime: 2025-12-30 02:01:52.035298
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 fesoterodine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (61.44 KB - PDF)
 
 [View](/en/documents/overview/toviaz-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-293)
+[Other languages (21)](#file-language-dropdown-441)
 
 български (BG) (160.49 KB - PDF)
 
@@ -387,7 +389,7 @@ English (EN) (372.71 KB - PDF)
 
 [View](/en/documents/product-information/toviaz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-818)
+[Other languages (24)](#file-language-dropdown-736)
 
 български (BG) (270.3 KB - PDF)
 
@@ -703,7 +705,7 @@ English (EN) (26.09 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/toviaz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-789)
+[Other languages (24)](#file-language-dropdown-132)
 
 български (BG) (59.49 KB - PDF)
 

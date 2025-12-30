@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:25:18
+document_datetime: 2025-12-29 07:09:57
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dafiro-hct.html
 document_name: dafiro-hct.html
 version: success
-processing_time: 0.1681929
-conversion_datetime: 2025-12-26 18:23:31.145633
+processing_time: 0.1741793
+conversion_datetime: 2025-12-30 09:42:22.655699
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 amlodipine besilate / valsartan / hydrochlorothiazide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (75.98 KB - PDF)
 
 [View](/en/documents/overview/dafiro-hct-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-615)
+[Other languages (22)](#file-language-dropdown-756)
 
 български (BG) (104.3 KB - PDF)
 
@@ -394,7 +396,7 @@ English (EN) (489.27 KB - PDF)
 
 [View](/en/documents/product-information/dafiro-hct-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-902)
+[Other languages (24)](#file-language-dropdown-139)
 
 български (BG) (741.96 KB - PDF)
 
@@ -710,7 +712,7 @@ English (EN) (21.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/dafiro-hct-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-959)
+[Other languages (24)](#file-language-dropdown-789)
 
 български (BG) (91.61 KB - PDF)
 
@@ -1070,7 +1072,7 @@ English (EN) (119.28 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-194)
+[Other languages (22)](#file-language-dropdown-249)
 
 български (BG) (145.18 KB - PDF)
 
@@ -1268,7 +1270,7 @@ English (EN) (99.42 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/dafiro-hct-epar-scientific-conclusions_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-195)
+[Other languages (22)](#file-language-dropdown-150)
 
 български (BG) (136.15 KB - PDF)
 
@@ -1480,7 +1482,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/dafiro-hct-h-c-1160-a31-0030-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recomm_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-487)
+[Other languages (22)](#file-language-dropdown-250)
 
 български (BG) (87.49 KB - PDF)
 

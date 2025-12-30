@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:15
+document_datetime: 2025-12-29 12:38:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/naveruclif.html
 document_name: naveruclif.html
 version: success
-processing_time: 0.1074677
-conversion_datetime: 2025-12-27 14:45:17.32322
+processing_time: 0.1063088
+conversion_datetime: 2025-12-30 08:59:18.261601
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-paclitaxel
+paclitaxel Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +115,7 @@ English (EN) (166.62 KB - PDF)
 
 [View](/en/documents/overview/naveruclif-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-682)
+[Other languages (22)](#file-language-dropdown-294)
 
 български (BG) (182.08 KB - PDF)
 
@@ -317,7 +313,7 @@ English (EN) (438.59 KB - PDF)
 
 [View](/en/documents/product-information/naveruclif-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-364)
+[Other languages (24)](#file-language-dropdown-353)
 
 български (BG) (695.22 KB - PDF)
 
@@ -633,7 +629,7 @@ English (EN) (159.09 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/naveruclif-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-784)
+[Other languages (24)](#file-language-dropdown-112)
 
 български (BG) (67.23 KB - PDF)
 

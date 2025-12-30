@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:18:49
+document_datetime: 2025-12-29 12:54:51
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/orfadin.html
 document_name: orfadin.html
 version: success
-processing_time: 0.1339784
-conversion_datetime: 2025-12-25 13:20:28.633063
+processing_time: 0.1325465
+conversion_datetime: 2025-12-30 21:30:34.043997
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 nitisinone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (144.36 KB - PDF)
 
 [View](/en/documents/overview/orfadin-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-440)
+[Other languages (22)](#file-language-dropdown-546)
 
 български (BG) (168.76 KB - PDF)
 
@@ -406,7 +408,7 @@ English (EN) (728.69 KB - PDF)
 
 [View](/en/documents/product-information/orfadin-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-821)
+[Other languages (24)](#file-language-dropdown-794)
 
 български (BG) (840.55 KB - PDF)
 
@@ -722,7 +724,7 @@ English (EN) (33.93 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/orfadin-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-307)
+[Other languages (24)](#file-language-dropdown-516)
 
 български (BG) (36.03 KB - PDF)
 
@@ -1162,7 +1164,7 @@ English (EN) (588.54 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/orfadin-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-621)
+[Other languages (24)](#file-language-dropdown-851)
 
 български (BG) (610.96 KB - DOCX)
 

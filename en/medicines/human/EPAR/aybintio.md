@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 11:05:28
+document_datetime: 2025-12-29 11:09:31
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aybintio.html
 document_name: aybintio.html
 version: success
-processing_time: 0.1266224
-conversion_datetime: 2025-12-26 09:28:01.150898
+processing_time: 0.1263204
+conversion_datetime: 2025-12-30 22:09:39.665068
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -122,7 +122,7 @@ English (EN) (122.11 KB - PDF)
 
 [View](/en/documents/overview/aybintio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-610)
+[Other languages (22)](#file-language-dropdown-364)
 
 български (BG) (172.08 KB - PDF)
 
@@ -322,7 +322,7 @@ English (EN) (1006.9 KB - PDF)
 
 [View](/en/documents/product-information/aybintio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-773)
+[Other languages (24)](#file-language-dropdown-461)
 
 български (BG) (768.19 KB - PDF)
 
@@ -636,7 +636,7 @@ English (EN) (28.67 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/aybintio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-303)
+[Other languages (24)](#file-language-dropdown-217)
 
 български (BG) (43.37 KB - PDF)
 
@@ -969,7 +969,7 @@ English (EN) (375.6 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/aybintio-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-319)
+[Other languages (24)](#file-language-dropdown-546)
 
 български (BG) (306.2 KB - DOCX)
 

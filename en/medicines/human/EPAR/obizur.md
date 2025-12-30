@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:38:47
+document_datetime: 2025-12-29 13:42:35
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/obizur.html
 document_name: obizur.html
 version: success
-processing_time: 0.1120775
-conversion_datetime: 2025-12-26 17:56:40.988917
+processing_time: 0.1224209
+conversion_datetime: 2025-12-30 20:45:09.268711
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 susoctocog alfa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (77.61 KB - PDF)
 
 [View](/en/documents/overview/obizur-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-467)
+[Other languages (22)](#file-language-dropdown-147)
 
 български (BG) (105.13 KB - PDF)
 
@@ -403,7 +405,7 @@ English (EN) (438.41 KB - PDF)
 
 [View](/en/documents/product-information/obizur-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-802)
+[Other languages (24)](#file-language-dropdown-541)
 
 български (BG) (674.63 KB - PDF)
 
@@ -719,7 +721,7 @@ English (EN) (21.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/obizur-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-132)
+[Other languages (24)](#file-language-dropdown-308)
 
 български (BG) (41.66 KB - PDF)
 

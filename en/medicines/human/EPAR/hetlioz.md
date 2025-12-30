@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-13 23:48:53
+document_datetime: 2025-12-29 08:38:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hetlioz.html
 document_name: hetlioz.html
 version: success
-processing_time: 0.114146
-conversion_datetime: 2025-12-26 16:53:55.528446
+processing_time: 0.1033458
+conversion_datetime: 2025-12-30 12:55:12.845885
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tasimelteon Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (77.53 KB - PDF)
 
 [View](/en/documents/overview/hetlioz-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-265)
+[Other languages (22)](#file-language-dropdown-99)
 
 български (BG) (105.05 KB - PDF)
 
@@ -400,7 +402,7 @@ English (EN) (379 KB - PDF)
 
 [View](/en/documents/product-information/hetlioz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-224)
+[Other languages (24)](#file-language-dropdown-548)
 
 български (BG) (408.82 KB - PDF)
 
@@ -716,7 +718,7 @@ English (EN) (42.69 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/hetlioz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-159)
+[Other languages (24)](#file-language-dropdown-700)
 
 български (BG) (39.08 KB - PDF)
 

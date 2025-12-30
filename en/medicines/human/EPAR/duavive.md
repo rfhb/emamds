@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:13
+document_datetime: 2025-12-29 12:10:25
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/duavive.html
 document_name: duavive.html
 version: success
-processing_time: 0.1179709
-conversion_datetime: 2025-12-25 12:32:56.901395
+processing_time: 0.1101775
+conversion_datetime: 2025-12-30 09:21:27.646426
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 oestrogens conjugated / bazedoxifene Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +123,7 @@ English (EN) (77.59 KB - PDF)
 
 [View](/en/documents/overview/duavive-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-44)
+[Other languages (22)](#file-language-dropdown-542)
 
 български (BG) (104.46 KB - PDF)
 
@@ -409,7 +411,7 @@ English (EN) (960.88 KB - PDF)
 
 [View](/en/documents/product-information/duavive-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-18)
+[Other languages (24)](#file-language-dropdown-839)
 
 български (BG) (308.57 KB - PDF)
 
@@ -725,7 +727,7 @@ English (EN) (27.1 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/duavive-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-305)
+[Other languages (24)](#file-language-dropdown-671)
 
 български (BG) (29.7 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:46
+document_datetime: 2025-12-29 13:15:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/istodax.html
 document_name: istodax.html
 version: success
-processing_time: 0.066175
-conversion_datetime: 2025-12-28 13:39:40.303239
+processing_time: 0.0682212
+conversion_datetime: 2025-12-30 09:36:48.286407
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine has been refused authorisation
 
-romidepsin
+romidepsin Medicine Human Refused
 
-Medicine
-
-Human
-
-Refused
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -102,7 +98,7 @@ English (EN) (54.94 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-refusal-marketing-authorisation-istodax-romidepsin-outcome-re-examination_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-67)
+[Other languages (21)](#file-language-dropdown-765)
 
 български (BG) (101.57 KB - PDF)
 

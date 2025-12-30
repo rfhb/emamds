@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:33:34
+document_datetime: 2025-12-29 14:33:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/luveris.html
 document_name: luveris.html
 version: success
-processing_time: 0.1122693
-conversion_datetime: 2025-12-28 09:58:02.593333
+processing_time: 0.1112444
+conversion_datetime: 2025-12-30 11:27:10.919125
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lutropin alfa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (62.3 KB - PDF)
 
 [View](/en/documents/overview/luveris-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-176)
+[Other languages (21)](#file-language-dropdown-778)
 
 български (BG) (102.57 KB - PDF)
 
@@ -373,7 +375,7 @@ English (EN) (405.23 KB - PDF)
 
 [View](/en/documents/product-information/luveris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-784)
+[Other languages (24)](#file-language-dropdown-618)
 
 български (BG) (431.74 KB - PDF)
 
@@ -689,7 +691,7 @@ English (EN) (55.78 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/luveris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-632)
+[Other languages (24)](#file-language-dropdown-180)
 
 български (BG) (63.54 KB - PDF)
 

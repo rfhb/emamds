@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:17:08
+document_datetime: 2025-12-29 08:07:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/skyrizi.html
 document_name: skyrizi.html
 version: success
-processing_time: 0.1266565
-conversion_datetime: 2025-12-25 10:05:54.019294
+processing_time: 0.1187977
+conversion_datetime: 2025-12-30 02:44:50.00624
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 risankizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -150,7 +152,7 @@ English (EN) (110.85 KB - PDF)
 
 [View](/en/documents/overview/skyrizi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-81)
+[Other languages (22)](#file-language-dropdown-536)
 
 български (BG) (137.53 KB - PDF)
 
@@ -438,7 +440,7 @@ English (EN) (2.77 MB - PDF)
 
 [View](/en/documents/product-information/skyrizi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-358)
+[Other languages (24)](#file-language-dropdown-973)
 
 български (BG) (2.93 MB - PDF)
 
@@ -754,7 +756,7 @@ English (EN) (28.26 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/skyrizi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-182)
+[Other languages (24)](#file-language-dropdown-438)
 
 български (BG) (36.3 KB - PDF)
 
@@ -1050,6 +1052,8 @@ Name of medicine Skyrizi Active substance risankizumab International non-proprie
 
 - Psoriasis
 - Arthritis, Psoriatic
+- Colitis, Ulcerative
+- Crohn Disease
 
 Anatomical therapeutic chemical (ATC) code L04AC18
 
@@ -1280,8 +1284,9 @@ English (EN) (61.17 KB - PDF)
 #### More information on Skyrizi
 
 - [EMEA-001776-PIP01-15-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001776-pip01-15-m01)
-- [EMEA-001776-PIP02-17-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001776-pip02-17-m02)
-- [EMEA-001776-PIP04-17-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001776-pip04-17-m01)
+- [EMA/PE/0000274326 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000274326)
+- [EMEA-001776-PIP03-17-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001776-pip03-17-m01)
+- [EMA/PE/0000254020 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000254020)
 - [Pregnancy Exposures and Outcomes in Women with Inflammatory Bowel Disease Treated with Risankizumab: A Cohort Study Utilizing Large Electronic Healthcare Databases with Mother-Baby Linkage in the United States - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000283)
 - [Comparative Cohort Study of Long-term Safety Outcomes of Risankizumab Compared to Biologic Treatments for Ulcerative Colitis and Crohn's Disease in a Real-world Setting in Sweden and Denmark - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000151)
 - [A post-marketing registry-based prospective cohort study of long-term safety of risankizumab in Denmark and Sweden - post-authorisation study](https://catalogues.ema.europa.eu/study/48467)

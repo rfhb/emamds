@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:31:10
+document_datetime: 2025-12-29 11:29:58
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/doptelet.html
 document_name: doptelet.html
 version: success
-processing_time: 0.1075257
-conversion_datetime: 2025-12-27 21:50:53.501664
+processing_time: 0.1142288
+conversion_datetime: 2025-12-30 20:24:16.201864
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 avatrombopag Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +105,7 @@ English (EN) (104.1 KB - PDF)
 
 [View](/en/documents/overview/doptelet-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-524)
+[Other languages (22)](#file-language-dropdown-130)
 
 български (BG) (169.05 KB - PDF)
 
@@ -303,7 +305,7 @@ English (EN) (322.06 KB - PDF)
 
 [View](/en/documents/product-information/doptelet-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-469)
+[Other languages (24)](#file-language-dropdown-50)
 
 български (BG) (459.11 KB - PDF)
 
@@ -619,7 +621,7 @@ English (EN) (17.2 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/doptelet-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-223)
+[Other languages (24)](#file-language-dropdown-645)
 
 български (BG) (40.22 KB - PDF)
 

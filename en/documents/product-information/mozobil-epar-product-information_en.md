@@ -1,16 +1,16 @@
 ---
-document_datetime: 2024-07-31 14:07:13
+document_datetime: 2025-12-17 16:42:23
 document_pages: 28
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/mozobil-epar-product-information_en.pdf
 document_name: mozobil-epar-product-information_en.pdf
 version: success
-processing_time: 6.6425822
-conversion_datetime: 2025-12-21 22:56:37.137354
+processing_time: 6.282877
+conversion_datetime: 2025-12-30 08:41:58.08875
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -67,20 +67,20 @@ Age over 60 and/ or prior myelosuppressive chemotherapy and/or extensive prior c
 
 The recommended daily dose of plerixafor by subcutaneous injection (SC) is:
 
-- 20 mg fixed dose or 0.24 mg/kg of body weight for patients weighing ≤ 83 kg (see section 5.2).
-- 0.24 mg/kg of body weight for patients weighing &gt; 83 kg.
+- x 20 mg fixed dose or 0.24 PJGLYPH&lt;c=18,font=/PPNGHM+TimesNewRomanPSMT&gt;NJGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;RIGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;ERG\\GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;ZHLJKWGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;IRUGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;SDWLHQWVGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;ZHLJKLQJGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; 83 kg (see section 5.2).
+- x 0.24 mg/kg of body weight for patients weighing &gt; 83 kg.
 
 ## Paediatric (1 to less than 18 years)
 
 The recommended daily dose of plerixafor by subcutaneous injection (SC) is:
 
-- 0.24 mg/kg of body weight (see section 5.1).
+- x 0.24 mg/kg of body weight (see section 5.1).
 
 Each vial of plerixafor is filled to deliver 1.2 ml of 20 mg/ml plerixafor aqueous solution for injection containing 24 mg of plerixafor.
 
 Plerixafor has to be drawn up into a syringe size type which should be selected according to the weight of the patient.
 
-For low weight patients, up to 45 kg of body weight, 1 ml syringes for use in infant patients can be used. This type of syringe has major graduations for 0.1 ml and minor graduations for 0.01 ml and therefore is suitable to administer plerixafor, at a dose of 240 µg/kg, to paediatric patients of at least 9 kg body weight.
+For low weight patients, up to 45 kg of body weight, 1 ml syringes for use in infant patients can be used. This type of syringe has major graduations for 0.1 ml and minor graduations for 0.01 ml and therefore is suitable to administer plerixafor, at a dose of 0.24 mg/kg, to paediatric patients of at least 9 kg body weight.
 
 For patients of more than 45 kg, a1 ml or 2 ml syringe with graduations that allow a volume to 0.1 ml to be measured can be used.
 
@@ -88,13 +88,15 @@ It should be administered by subcutaneous injection 6 to 11 hours prior to initi
 
 The weight used to calculate the dose of plerixafor should be obtained within 1 week before the first dose of plerixafor. In clinical studies, the dose of plerixafor has been calculated based on body weight in patients up to 175% of ideal body weight. Plerixafor dose and treatment of patients weighing more than 175% of ideal body weight have not been investigated. Ideal body weight can be determined using the following equations:
 
-<!-- formula-not-decoded -->
+```
+male (kg): 50 + 2.3  x  ((Height (cm)  x  0.394) - 60); female (kg): 45.5 + 2.3  x  ((Height (cm)  x  0.394) - 60).
+```
 
 Based on increasing exposure with increasing body weight, the plerixafor dose should not exceed 40 mg/day.
 
 ## Recommended concomitant medicinal products
 
-In pivotal clinical studies supporting the use of Mozobil, all patients received daily morning doses of 10 µ g/kg G-CSF for 4 consecutive days prior to the first dose of plerixafor and on each morning prior to apheresis.
+In pivotal clinical studies supporting the use of Mozobil, all patients received daily morning doses of 0.01 mg/kg G-CSF for 4 consecutive days prior to the first dose of plerixafor and on each morning prior to apheresis.
 
 ## Special populations
 
@@ -112,7 +114,7 @@ The safety and efficacy of Mozobil in children (1 to less than 18 years) were st
 
 ## Elderly patients (&gt; 65 years old)
 
-No dose modifications are necessary in elderly patients with normal renal function. Dose adjustment in elderly patients with creatinine clearance ≤ 50 ml/min is recommended (see Renal impairment above). In general, care should be taken in dose selection for elderly patients due to the greater frequency of decreased renal function with advanced age.
+No dose modifications are necessary in elderly patients with normal renal function. Dose adjustment LQGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;HOGHUO\\GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;SDWLHQWVGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;ZLWKGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;FUHDWLQLQHGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;FOHDUDQFHGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=24,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=19,font=/PPNGHM+TimesNewRomanPSMT&gt; ml/min is recommended (see Renal impairment above). In general, care should be taken in dose selection for elderly patients due to the greater frequency of decreased renal function with advanced age.
 
 ## Method of administration
 
@@ -204,19 +206,19 @@ Mozobil may influence the ability to drive and use machines. Some patients have 
 
 Safety data for Mozobil in conjunction with G-CSF in oncology patients with lymphoma and multiple myeloma were obtained from 2 placebo-controlled Phase III studies (301 patients) and 10 uncontrolled Phase II studies (242 patients). Patients were primarily treated with daily doses of 0.24 mg/kg plerixafor by subcutaneous injection. The exposure to plerixafor in these studies ranged from 1 to 7 consecutive days (median = 2 days).
 
-In the two Phase III studies in non-Hodgkin's lymphoma and multiple myeloma patients (AMD3100-3101 and AMD3100-3102, respectively), a total of 301 patients were treated in the Mozobil and G-CSF group and 292 patients were treated in the placebo and G-CSF group. Patients received daily morning doses of G-CSF 10 µ g/kg for 4 days prior to the first dose of plerixafor or placebo and on each morning prior to apheresis. Adverse reactions that occurred more frequently with Mozobil and G-CSF than placebo and GCSF and were reported as related in ≥1% of the patients who received Mozobil, during haematopoietic stem cell mobilisation and apheresis and prior to chemotherapy/ablative treatment in preparation for transplantation are shown in Table 1.
+In the two Phase III studies in non-Hodgkin's lymphoma and multiple myeloma patients (AMD3100-3101 and AMD3100-3102, respectively), a total of 301 patients were treated in the Mozobil and G-CSF group and 292 patients were treated in the placebo and G-CSF group. Patients received daily morning doses of G-CSF 0.01 mg/kg for 4 days prior to the first dose of plerixafor or placebo and on each morning prior to apheresis. Adverse reactions that occurred more frequently with Mozobil and G-CSF than placebo and G&amp;6)GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;DQGGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;ZHUHGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;UHSRUWHGGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;DVGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;UHODWHGGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;LQGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=20,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=8,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;RIGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;WKHGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;SDWLHQWVGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;ZKRGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; received Mozobil, during haematopoietic stem cell mobilisation and apheresis and prior to chemotherapy/ablative treatment in preparation for transplantation are shown in Table 1.
 
 From chemotherapy/ablative treatment in preparation of transplantation through 12 months post-transplantation, no significant differences in the incidence of adverse reactions were observed across treatment groups.
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions are listed by System Organ Class and frequency. Frequencies are defined according t o the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); not known (cannot be estimated from the available data).
+Adverse reactions are listed by System Organ Class and frequency. Frequencies are defined according WRGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;WKHGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;IROORZLQJGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;FRQYHQWLRQGLYPH&lt;c=29,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;YHU\\GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;FRPPRQGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=11,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=20,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=18,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=20,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=19,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=12,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=30,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;FRPPRQGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=11,font=/PPNGHM+TimesNewRomanPSMT&gt; 1/100 to &lt; 1/10); uncommon GLYPH&lt;c=11,font=/PPNGHM+TimesNewRomanPSMT&gt;  1/1,000 to &lt; GLYPH&lt;c=20,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=18,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=20,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=19,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=19,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=12,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=15,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;U DUH GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=11,font=/PPNGHM+TimesNewRomanPSMT&gt; 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); not known (cannot be estimated from the available data).
 
 Table 1. Adverse reactions occurring more frequently with Mozobil than placebo and considered related to Mozobil during mobilisation and apheresis in phase III studies
 
 | Blood and lymphatic system disorders   | Blood and lymphatic system disorders   | Blood and lymphatic system disorders                                                                                                   |
 |----------------------------------------|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
-| Not                                    | known                                  | Splenomegaly, splenic rupture (see section 4.4)**                                                                                      |
+|                                        | Not known                              | Splenomegaly, splenic rupture (see section 4.4)**                                                                                      |
 | Immune system disorders                |                                        |                                                                                                                                        |
 |                                        | Uncommon                               | Allergic reaction* Anaphylactic reactions, including anaphylactic shock (see section 4.4) **                                           |
 | Psychiatric disorders                  |                                        |                                                                                                                                        |
@@ -239,10 +241,6 @@ Table 1. Adverse reactions occurring more frequently with Mozobil than placebo a
 | Very common                                          | Injection and infusion site reactions                |
 | Common                                               | Fatigue, malaise                                     |
 
-* The frequency of allergic reactions presented is based on adverse reactions that occurred in the oncology studies (679 patients). Events included one or more of the following: urticaria (n = 2), periorbital swelling (n = 2), dyspnoea (n = 1) or hypoxia (n = 1). These events were generally mild or moderate and occurred within approximately 30 min after Mozobil administration.
-
-** From post-marketing experience
-
 The adverse reactions reported in patients with lymphoma and multiple myeloma who received Mozobil in the controlled Phase III studies and uncontrolled studies, including a Phase II study of Mozobil as monotherapy for haematopoietic stem cell mobilisation, are similar. No significant differences in the incidence of adverse reactions were observed for oncology patients by disease, age, or gender.
 
 ## Description of selected adverse reactions
@@ -257,7 +255,7 @@ White blood cell counts of 100 x 10 9 /L or greater were observed, on the day pr
 
 ## Vasovagal reactions
 
-In Mozobil oncology and healthy volunteer clinical studies, less than 1% of subjects experienced vasovagal reactions (orthostatic hypotension and/or syncope) following subcutaneous administration of plerixafor doses ≤0.24 mg/kg. The majority of these events occurred within 1 hour of Mozobil administration.
+In Mozobil oncology and healthy volunteer clinical studies, less than 1% of subjects experienced vasovagal reactions (orthostatic hypotension and/or syncope) following subcutaneous administration RIGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;SOHUL[DIRUGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GRVHVGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=19,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=17,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=21,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=23,font=/PPNGHM+TimesNewRomanPSMT&gt; mg/kg. The majority of these events occurred within 1 hour of Mozobil administration.
 
 ## Gastrointestinal disorders
 
@@ -269,7 +267,7 @@ Paraesthesia is commonly observed in oncology patients undergoing autologous tra
 
 ## Elderly patients
 
-In the two placebo-controlled cli nical studies of plerixafor, 24% of patients were ≥ 65 years old. No notable differences in the incidence of adverse reactions were observed in these elderly patients when compared with younger ones.
+In the two placeboFRQWUROOHGGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;FOLQLFDOGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;VWXGLHVGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;RIGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;SOHUL[DIRUGLYPH&lt;c=15,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=21,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=23,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=8,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;RIGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;SDWLHQWVGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;ZHUHGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; 65 years old. No notable differences in the incidence of adverse reactions were observed in these elderly patients when compared with younger ones.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -277,7 +275,9 @@ In the two placebo-controlled cli nical studies of plerixafor, 24% of patients w
 
 Thirty patients were treated with 0.24 mg/kg of Mozobil in an open label, multicenter, controlled study (DFI 12860) (see section 5.1).
 
-The safety profile in this paediatric study was consistent with what has been observed in adults. Reporting of suspected adverse reactions
+The safety profile in this paediatric study was consistent with what has been observed in adults.
+
+## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
@@ -293,13 +293,15 @@ Pharmacotherapeutic group: Other immunostimulants; ATC code: L03AX16
 
 ## Mechanism of action
 
-Plerixafor is a bicyclam derivative, a selective reversible antagonist of the CXCR4 chemokine receptor and blocks binding of its cognate ligand, stromal cell-derived factor-1 α (SDF-1 α ), also known as CXCL12. Plerixafor-induced leukocytosis and elevations in circulating haematopoietic progenitor cell levels are thought to result from a disruption of CXCR4 binding to its cognate ligand, resulting in the appearance of both mature and pluripotent cells in the systemic circulation. CD34+ cells mobilised by plerixafor are functional and capable of engraftment with long-term repopulating capacity.
+Plerixafor is a bicyclam derivative, a selective reversible antagonist of the CXCR4 chemokine receptor and blocks binding of its cognate ligand, stromal cell-derived factor-1 D (SDF-1 D ), also known as CXCL12. Plerixafor-induced leukocytosis and elevations in circulating haematopoietic progenitor cell levels are thought to result from a disruption of CXCR4 binding to its cognate ligand, resulting in the appearance of both mature and pluripotent cells in the systemic circulation. CD34+ cells mobilised by plerixafor are functional and capable of engraftment with long-term repopulating capacity.
 
 ## Pharmacodynamic effects
 
 In pharmacodynamic studies in healthy volunteers of plerixafor alone, peak mobilisation of CD34+ cells was observed from 6 to 9 hours after administration. In pharmacodynamic studies in healthy volunteers of plerixafor in conjunction with G-CSF administered at identical dose regimen to that in studies in patients, a sustained elevation in the peripheral blood CD34+ count was observed from 4 to 18 hours after plerixafor administration with peak response between 10 and 14 hours.
 
-In order to compare the pharmacokinetics and pharmacodynamics of plerixafor following 0.24 mg/kg based and fixed (20 mg) doses, a trial was conducted in adult patients with NHL (N=61) who were treated with 0.24 mg/kg or 20 mg of plerixafor. The trial was conducted in patients weighing 70 kg or less (median: 63.7 kg , min: 34.2 kg, max: 70 kg). The fixed 20 mg dose showed 1.43-fold higher exposure (AUC0-10h) than the 0.24 mg/kg dose (Table 2). The fixed 20 mg dose also showed numerically higher response rate (5.2% [60.0% vs 54.8%] based on the local lab data and 11.7% [63.3% vs 51.6%] based on the central lab data) in attaining the target of ≥ 5 × 10 6 CD34+ cells/kg than the mg/kgbased dose. The median time to reach ≥ 5 × 10 6 CD34+ cells/kg was 3 days for both treatment groups, and the safety profile between the groups was similar. Body weight of 83 kg was selected as the cut-off point to transition patients from fixed to weight based dosing (83 kg x 0.24 mg = 19.92 mg/kg).
+In order to compare the pharmacokinetics and pharmacodynamics of plerixafor following 0.24 mg/kg based and fixed (20 mg) doses, a trial was conducted in adult patients with NHL (N=61) who were treated with 0.24 mg/kg or 20 mg of plerixafor. The trial was conducted in patients weighing 70 kg or less (median: 63.7 kg , min: 34.2 kg, max: 70 kg). The fixed 20 mg dose showed 1.43-fold higher exposure (AUC0-10h) than the 0.24 mg/kg dose (Table 2). The fixed 20 mg dose also showed numerically higher response rate (5.2% [60.0% vs 54.8%] based on the local lab data and 11.7% &gt;GLYPH&lt;c=25,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=22,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=17,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=22,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=8,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;YVGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=24,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=20,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=17,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=25,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=8,font=/PPNGHM+TimesNewRomanPSMT&gt;@GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;E DVHGGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; RQ GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;WKHGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;F HQWUD OGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;ODEGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GD WD GLYPH&lt;c=12,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;LQGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;DWWD LQLQJGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; WKHGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; WDUJH WGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;RIGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=24,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; îGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=20,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=19,font=/PPNGHM+TimesNewRomanPSMT&gt; 6  CD34+ cells/kg than the mg/kg-based dose. 7KHGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;PHGLDQGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;WLPHGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;WRGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;UHDFKGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=24,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;îGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=20,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=19,font=/PPNGHM+TimesNewRomanPSMT&gt; 6 CD34+ cells/kg was 3 days for both treatment groups, and the safety profile between the groups was similar. Body weight of 83 kg was selected as the cut-off point to transition patients from fixed to weight based dosing (83 kg x 0.24 mg = 19.92 mg/kg).
+
+<div style=\"page-break-after: always\"></div>
 
 Table 2. Systemic Exposure (AUC0-10h) comparisons of fixed and weight based regimens
 
@@ -309,22 +311,18 @@ Table 2. Systemic Exposure (AUC0-10h) comparisons of fixed and weight based regi
 | 0.24 mg/kg (n=31)  | 2792.7               |
 | Ratio (90% CI)     | 1.43 (1.32,1.54)     |
 
-<div style=\"page-break-after: always\"></div>
-
 ## Clinical efficacy and safety
 
-In two Phase III randomised-controlled studies patients with non-Hodgkin's lymphoma or multiple myeloma received Mozobil 0.24 mg/kg or placebo on each evening prior to apheresis. Patients received daily morning doses of G-CSF 10 μg/kg for 4 days prior to the first dose of plerixafor or placebo and on each morning prior to apheresis. Optimal (5 or 6 x 10 6 cells/kg) and minimal (2 x 10 6 cells/kg) numbers of CD34+ cells/kg within a given number of days, as well as the primary composite endpoints which incorporated successful engraftment are presented in Tables 3 and 5; the proportion of patients reaching optimal numbers of CD34+ cells/kg by apheresis day are presented in Tables 4 and 6.
+In two Phase III randomised-controlled studies patients with non-Hodgkin's lymphoma or multiple myeloma received Mozobil 0.24 mg/kg or placebo on each evening prior to apheresis. Patients received daily morning doses of G-CSF 0.01 mg/kg for 4 days prior to the first dose of plerixafor or placebo and on each morning prior to apheresis. Optimal (5 or 6 x 10 6 cells/kg) and minimal (2 x 10 6 cells/kg) numbers of CD34+ cells/kg within a given number of days, as well as the primary composite endpoints which incorporated successful engraftment are presented in Tables 3 and 5; the proportion of patients reaching optimal numbers of CD34+ cells/kg by apheresis day are presented in Tables 4 and 6.
 
-## Table 3. Study AMD3100-3101 efficacy results - CD34+ cell mobilisation in non-Hodgkin's lymphoma patients
+Table 3. Study AMD3100-3101 efficacy results - CD34+ cell mobilisation in non-Hodgkin's lymphoma patients
 
-| Efficacy endpoint b                                                                     | Mozobil and G-CSF (n = 150)   | Placebo and G-CSF (n = 148)   | p-value a   |
-|-----------------------------------------------------------------------------------------|-------------------------------|-------------------------------|-------------|
-| Patients achieving ≥ 5 x 10 6 cells/kg in ≤ 4 apheresis days and successful engraftment | 86 (57.3%)                    | 28 (18.9%)                    | <0.001      |
-| Patients achieving ≥ 2 x 10 6 cells/kg in ≤ 4 apheresis days and successful engraftment | 126 (84.0%)                   | 64 (43.2%)                    | < 0.001     |
+| Efficacy endpoint b                                                                                                                                                                                                                                                                              | Mozobil and G-CSF (n = 150)   | Placebo and G-CSF (n = 148)   | p-value a   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------------------------|-------------|
+| 3DWLHQWVGLYPH<c=3,font=/PPNGHM+TimesNewRomanPSMT>DFKLHYLQJGLYPH<c=3,font=/PPNGHM+TimesNewRomanPSMT> 5 x 10 6 FHOOVGLYPH<c=18,font=/PPNGHM+TimesNewRomanPSMT>NJGLYPH<c=3,font=/PPNGHM+TimesNewRomanPSMT>LQGLYPH<c=3,font=/PPNGHM+TimesNewRomanPSMT> 4 apheresis days and successful engraftment | 86 (57.3%)                    | 28 (18.9%)                    | <0.001      |
+| 3DWLHQWVGLYPH<c=3,font=/PPNGHM+TimesNewRomanPSMT>DFKLHYLQJGLYPH<c=3,font=/PPNGHM+TimesNewRomanPSMT> 2 x 10 6 FHOOVGLYPH<c=18,font=/PPNGHM+TimesNewRomanPSMT>NJGLYPH<c=3,font=/PPNGHM+TimesNewRomanPSMT>LQGLYPH<c=3,font=/PPNGHM+TimesNewRomanPSMT> 4 apheresis days and successful engraftment | 126 (84.0%)                   | 64 (43.2%)                    | < 0.001     |
 
-a  p-value calculated using Pearson's Chi-Squared test b Statistically significantly more patients achieved  ≥ 5 x 10 6 cells/kg in ≤ 4 apheresis days with Mozobil and G-CSF (n=89; 59.3%) than with placebo and G-CSF (n=29; 19.6%), p&lt;0.001; statistically significantly more patients achieved ≥ 2 x 10 6 cells/kg in ≤ 4 apheresis days with Mozobil and G-CSF (n=130; 86.7%) than with placebo and G-CSF (n=70; 47.3%), p&lt;0.001.
-
-## Table 4. Study AMD3100-3101 Proportion of patients who achieved ≥ 5 x 10 6  CD34+ cells/kg by apheresis day in non-Hodgkin's lymphoma patients
+Table 4. Study AMD3100-3101 3URSRUWLRQGLYPH&lt;c=3,font=/PPNHPK+TimesNewRomanPS-BoldMT&gt;RIGLYPH&lt;c=3,font=/PPNHPK+TimesNewRomanPS-BoldMT&gt;SDWLHQWVGLYPH&lt;c=3,font=/PPNHPK+TimesNewRomanPS-BoldMT&gt;ZKRGLYPH&lt;c=3,font=/PPNHPK+TimesNewRomanPS-BoldMT&gt;DFKLHYHGGLYPH&lt;c=3,font=/PPNHPK+TimesNewRomanPS-BoldMT&gt;GLYPH&lt;c=3,font=/PPNHPK+TimesNewRomanPS-BoldMT&gt;GLYPH&lt;c=24,font=/PPNHPK+TimesNewRomanPS-BoldMT&gt;GLYPH&lt;c=3,font=/PPNHPK+TimesNewRomanPS-BoldMT&gt;[GLYPH&lt;c=3,font=/PPNHPK+TimesNewRomanPS-BoldMT&gt;GLYPH&lt;c=20,font=/PPNHPK+TimesNewRomanPS-BoldMT&gt;GLYPH&lt;c=19,font=/PPNHPK+TimesNewRomanPS-BoldMT&gt; 6  CD34+ cells/kg by apheresis day in non-Hodgkin's lymphoma patients
 
 |   Days | Proportion a in Mozobil and G-CSF (n=147 b )   | Proportion a in Placebo and G-CSF (n=142 b )   |
 |--------|------------------------------------------------|------------------------------------------------|
@@ -333,23 +331,19 @@ a  p-value calculated using Pearson's Chi-Squared test b Statistically significa
 |      3 | 57.7%                                          | 21.6%                                          |
 |      4 | 65.6%                                          | 24.2%                                          |
 
-a Percents determined by Kaplan Meier method
+Table 5. Study AMD3100-3102 efficacy results - CD34+ cell mobilisation in multiple myeloma patients
 
-b n includes all patients who received at least one day of apheresis
+| Efficacy endpoint b                                                                                                                                                                                                                                                                              | Mozobil and G-CSF (n = 1 48 )   | Placebo and G-CSF (n = 1 54 )   | p-value a   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|---------------------------------|-------------|
+| 3DWLHQWVGLYPH<c=3,font=/PPNGHM+TimesNewRomanPSMT>DFKLHYLQJGLYPH<c=3,font=/PPNGHM+TimesNewRomanPSMT> 6 x 10 6 FHOOVGLYPH<c=18,font=/PPNGHM+TimesNewRomanPSMT>NJGLYPH<c=3,font=/PPNGHM+TimesNewRomanPSMT>LQGLYPH<c=3,font=/PPNGHM+TimesNewRomanPSMT> 2 apheresis days and successful engraftment | 104 (70.3%)                     | 53 (34.4%)                      | <0.001      |
 
-## Table 5. Study AMD3100-3102 efficacy results - CD34+ cell mobilisation in multiple myeloma patients
-
-| Efficacy endpoint b                                                                     | Mozobil and G-CSF (n = 1 48 )   | Placebo and G-CSF (n = 1 54 )   | p-value a   |
-|-----------------------------------------------------------------------------------------|---------------------------------|---------------------------------|-------------|
-| Patients achieving ≥ 6 x 10 6 cells/kg in ≤ 2 apheresis days and successful engraftment | 104 (70.3%)                     | 53 (34.4%)                      | <0.001      |
-
-a p-value calculated using Cochran-Mantel-Haenszel statistic blocked by baseline platelet count
-
-b Statistically significantly more patients achieved  ≥ 6 x 10 6 cells/kg in ≤ 2 apheresis days with Mozobil and G-CSF (n=106; 71.6%) than with placebo and G-CSF (n=53; 34.4%), p&lt;0.001; statistically significantly more patients achieved ≥ 6 x 10 6 cells/kg in ≤ 4 apheresis days with Mozobil and G-CSF (n=112; 75.7%) than with placebo and G-CSF (n=79; 51.3%), p&lt;0.001; statistically significantly more patients achieved  ≥ 2 x 10 6 cells/kg in ≤ 4 apheresis days with Mozobil and G-CSF (n=141; 95.3%) than with placebo and G-CSF (n=136; 88.3%), p=0.031.
+(n=106; 71.6%) than with placebo and G-CSF (n=53; 34.4%), p&lt;0.001; statistically significantly more patients achieved
 
 <div style=\"page-break-after: always\"></div>
 
-Table 6. Study AMD3100-3102 Proportion of patients who achieved ≥ 6 x 10 6  CD34+ cells/kg by apheresis day in multiple myeloma patients
+ 6 x 10 6 FHOOVGLYPH&lt;c=18,font=/PPNGHM+TimesNewRomanPSMT&gt;NJGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;LQGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; 4 apheresis days with Mozobil and G-CSF (n=112; 75.7%) than with placebo and G-CSF (n=79; GLYPH&lt;c=24,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=20,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=17,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=22,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=8,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=12,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=15,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; S GLYPH&lt;c=31,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=19,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=17,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=19,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=19,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=20,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=30,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; VW DWLVWLFDOO\\GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;VL J QLILFDQWO \\GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;PRUHGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;SDWLH QWVGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;DFKLHYHGGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=21,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;[GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=20,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=19,font=/PPNGHM+TimesNewRomanPSMT&gt; 6 FHOOVGLYPH&lt;c=18,font=/PPNGHM+TimesNewRomanPSMT&gt;NJGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;LQGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=23,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;DSKHUHVLVGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GD\\VGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;ZLWKGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;0R]RELOGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; and G-CSF (n=141; 95.3%) than with placebo and G-CSF (n=136; 88.3%), p=0.031.
+
+Table 6. Study AMD3100-3102 - Proportion of patients who DFKLHYHGGLYPH&lt;c=3,font=/PPNHPK+TimesNewRomanPS-BoldMT&gt;GLYPH&lt;c=3,font=/PPNHPK+TimesNewRomanPS-BoldMT&gt;GLYPH&lt;c=25,font=/PPNHPK+TimesNewRomanPS-BoldMT&gt;GLYPH&lt;c=3,font=/PPNHPK+TimesNewRomanPS-BoldMT&gt;[GLYPH&lt;c=3,font=/PPNHPK+TimesNewRomanPS-BoldMT&gt;GLYPH&lt;c=20,font=/PPNHPK+TimesNewRomanPS-BoldMT&gt;GLYPH&lt;c=19,font=/PPNHPK+TimesNewRomanPS-BoldMT&gt; 6  CD34+ cells/kg by apheresis day in multiple myeloma patients
 
 |   Days | Proportion a in Mozobil and G-CSF (n=144 b )   | Proportion a in Placebo and G-CSF (n=150 b )   |
 |--------|------------------------------------------------|------------------------------------------------|
@@ -358,19 +352,15 @@ Table 6. Study AMD3100-3102 Proportion of patients who achieved ≥ 6 x 10 6  CD
 |      3 | 86.8%                                          | 48.9%                                          |
 |      4 | 86.8%                                          | 55.9%                                          |
 
-a Percents determined by Kaplan Meier method
-
-b n includes all patients who received at least one day of apheresis
-
 ## Rescue patients
 
-In study AMD3100-3101, 62 patients (10 in the Mozobil + G-CSF group and 52 in the placebo + GCSF group), who could not mobilise sufficient numbers of CD34+ cells and thus could not proceed to transplantation, entered into an open-label Rescue procedure with Mozobil and G-CSF. Of these patients, 55 % (34 out of 62) mobilised ≥ 2 x10 6 /kg CD34+ cells and had successful engraftment. In study AMD3100-3102, 7 patients (all from the placebo + G-CSF group) entered the Rescue procedure. Of these patients, 100% (7 out of 7) mobilised ≥ 2 x10 6 /kg CD34+ cells and had successful engraftment.
+In study AMD3100-3101, 62 patients (10 in the Mozobil + G-CSF group and 52 in the placebo + GCSF group), who could not mobilise sufficient numbers of CD34+ cells and thus could not proceed to transplantation, entered into an open-label Rescue procedure with Mozobil and G-CSF. Of these SDWLHQWVGLYPH&lt;c=15,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=24,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=24,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=8,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=11,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=22,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=23,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;RX WGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;R IGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=25,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=21,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=12,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;PR ELOLV HGGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;  2 x10 6 /kg CD34+ cells and had successful engraftment. In study AMD3100-3102, 7 patients (all from the placebo + G-CSF group) entered the Rescue procedure. 2IGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;WKHVHGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;SDWLHQWVGLYPH&lt;c=15,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=20,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=19,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=19,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=8,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=11,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=26,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; RXWGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;R IGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=26,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=12,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; PRE LOLV HGGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;  2 x10 6 /kg CD34+ cells and had successful engraftment.
 
 The dose of haematopoietic stem cells used for each transplant was determined by the investigator and all haematopoietic stem cells that were collected were not necessarily transplanted. For transplanted patients in the Phase III studies, median time to neutrophil engraftment (10-11 days), median time to platelet engraftment (18-20 days) and graft durability up to 12 months post-transplantation were similar across the Mozobil and placebo groups.
 
 Mobilisation and engraftment data from supportive Phase II studies (plerixafor 0.24 mg/kg dosed on the evening or morning prior to apheresis) in patients with non-Hodgkin's lymphoma, Hodgkin's disease, or multiple myeloma were similar to those data for the Phase III studies.
 
-In the placebo-controlled studies, fold increase in peripheral blood CD34+ cell count (cells/ µ l) over the 24-hour period from the day prior to the first apheresis to just before the first apheresis was evaluated (Table 7). During that 24-hour period, the first dose of plerixafor 0.24 mg/kg or placebo was administered 10-11 hours prior to apheresis.
+In the placebo-controlled studies, fold increase in peripheral blood CD34+ cell count (cells/ P l) over the 24-hour period from the day prior to the first apheresis to just before the first apheresis was evaluated (Table 7). During that 24-hour period, the first dose of plerixafor 0.24 mg/kg or placebo was administered 10-11 hours prior to apheresis.
 
 Table 7. Fold increase in peripheral blood CD34+ cell count following Mozobil administration
 
@@ -380,21 +370,21 @@ Table 7. Fold increase in peripheral blood CD34+ cell count following Mozobil ad
 | AMD3100-3101 | 5.0                 | 6.1 (5.4)           | 1.4                 | 1.9 (1.5)           |
 | AMD3100-3102 | 4.8                 | 6.4 (6.8)           | 1.7                 | 2.4 (7.3)           |
 
+<div style=\"page-break-after: always\"></div>
+
 ## Paediatric population
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Mozobil in children aged 0 to 1 year in myelosuppression caused by chemotherapy to treat malignant disorders, which requires an autologous haematopoietic stem cell transplant (see section 4.2 for information on paediatric use).
-
-<div style=\"page-break-after: always\"></div>
 
 The efficacy and safety of Mozobil were evaluated in an open label, multi-center, controlled study in paediatric patients with solid tumors (including neuroblastoma, sarcoma, Ewing sarcoma) or lymphoma who were eligible for autologous hematopoietic stem cell transplantation (DFI12860). Patients with leukemia, persistent high percentage marrow involvement prior to mobilization, or previous stem cell transplantation were excluded.
 
 Forty-five paediatric patients (1 to less than 18 years) were randomised, 2:1, using 0.24 mg/kg of Mozobil plus standard mobilisation (G-CSF plus or minus chemotherapy) versus control (standard mobilisation alone). Median age was 5.3 years (min: max 1:18) in the Mozobil arm versus 4.7 years (min:max 1:17) in the control arm.
 
-Only one patient aged less than 2 years old was randomized to the plerixafor treatment arm. There was an imbalance between treatment arms in peripheral blood CD34+ counts on the day prior to first apheresis (i.e. prior to administration of plerixafor), with less circulating PB CD34+ in the plerixafor arm. The median PB CD34+ cell counts at baseline were 15 cells/µl in the Mozobil arm versus 35 cells/µl in control arm. The primary analysis showed that 80% of patients in the Mozobil arm experienced at least a doubling of the PB CD34+ count, observed from the morning of the day preceding the first planned apheresis to the morning prior to apheresis, versus, 28.6 % of patients in the control arm (p=0.0019). The median increase in PB CD34+ cell counts from baseline to the day of apheresis was by 3.2 fold in the Mozobil arm versus by 1.4 fold in the control arm.
+Only one patient aged less than 2 years old was randomized to the plerixafor treatment arm. There was an imbalance between treatment arms in peripheral blood CD34+ counts on the day prior to first apheresis (i.e. prior to administration of plerixafor), with less circulating PB CD34+ in the plerixafor arm. The median PB CD34+ cell counts at baseline were 15 cells/ μ l in the Mozobil arm versus 35 cells/ μ l in control arm. The primary analysis showed that 80% of patients in the Mozobil arm experienced at least a doubling of the PB CD34+ count, observed from the morning of the day preceding the first planned apheresis to the morning prior to apheresis, versus, 28.6 % of patients in the control arm (p=0.0019). The median increase in PB CD34+ cell counts from baseline to the day of apheresis was by 3.2 fold in the Mozobil arm versus by 1.4 fold in the control arm.
 
 ## 5.2 Pharmacokinetic properties
 
-The pharmacokinetics of plerixafor have been evaluated in lymphoma and multiple myeloma patients at the clinical dose level of 0.24 mg/kg following pre-treatment with G-CSF (10 µ g/kg once daily for 4 consecutive days).
+The pharmacokinetics of plerixafor have been evaluated in lymphoma and multiple myeloma patients at the clinical dose level of 0.24 mg/kg following pre-treatment with G-CSF (0.01 mg/kg once daily for 4 consecutive days).
 
 ## Absorption
 
@@ -418,7 +408,7 @@ The major route of elimination of plerixafor is urinary. Following a 0.24 mg/kg 
 
 ## Renal impairment
 
-Following a single dose of 0.24 mg/kg plerixafor, clearance was reduced in subjects with varying degrees of renal impairment and was positively correlated with creatinine clearance (CrCl). Mean values of AUC0-24 of plerixafor in subjects with mild (CrCl 51-80 ml/min), moderate (CrCl 31-50 ml/min) and severe (CrCl ≤ 30 ml/min) renal impairment were 5410, 6780, and 6990 ng.hr/ml, respectively, which were higher than the exposure observed in healthy subjects with normal renal function (5070 ng·hr/ml). Renal impairment had no effect on Cmax..
+Following a single dose of 0.24 mg/kg plerixafor, clearance was reduced in subjects with varying degrees of renal impairment and was positively correlated with creatinine clearance (CrCl). Mean values of AUC0-24 of plerixafor in subjects with mild (CrCl 51-80 ml/min), moderate (CrCl 31-50 ml/min) and severe (CrCl  30 ml/min) renal impairment were 5410, 6780, and 6990 ng.hr/ml, respectively, which were higher than the exposure observed in healthy subjects with normal renal function (5070 ng·hr/ml). Renal impairment had no effect on Cmax..
 
 ## Gender
 
@@ -430,25 +420,25 @@ A population pharmacokinetic analysis showed no effect of age on pharmacokinetic
 
 ## Paediatric population
 
-The pharmacokinetics of plerixafor were evaluated in 48 paediatric patients (1 to less than 18 years) with solid tumours at subcutaneous doses of 0.16, 0.24 and 0.32 mg/kg with standard mobilisation (GCSF plus or minus chemotherapy). Based on population pharmacokinetic modeling and similar to adults, µg/kg-based dosage results in increase in plerixafor exposure with increasing body weight in paediatric patients. At the same weight-based dosing regimen of 240 µg/kg, the plerixafor mean exposure (AUC0-24h) is lower in paediatric patients aged 2 to &lt;6 years (1410 ng.h/mL), 6 to &lt;12 years (2318 ng.h/mL), and 12 to &lt;18 years (2981 ng.h/mL) than in adults (4337 ng.h/mL). Based on population pharmacokinetic modeling, the plerixafor mean exposures (AUC0-24h) in paediatric patients aged 2 to &lt;6 years (1905 ng.h/mL), 6 to &lt;12 years (3063 ng.h/mL), and 12 to &lt;18 years (4015  ng.h/mL), at the dose of 320 µg/kg are closer to the exposure in adults receiving 240 µg/kg. However, mobilization of PB CD34+ count was observed in stage 2 of the trial.
+The pharmacokinetics of plerixafor were evaluated in 48 paediatric patients (1 to less than 18 years) with solid tumours at subcutaneous doses of 0.16, 0.24 and 0.32 mg/kg with standard mobilisation (GCSF plus or minus chemotherapy). Based on population pharmacokinetic modeling and similar to adults, mg/kg-based dosage results in increase in plerixafor exposure with increasing body weight in paediatric patients. At the same weight-based dosing regimen of 0.24 mg/kg, the plerixafor mean exposure (AUC0-24h) is lower in paediatric patients aged 2 to &lt;6 years (1410 ng.h/mL), 6 to &lt;12 years (2318 ng.h/mL), and 12 to &lt;18 years (2981 ng.h/mL) than in adults (4337 ng.h/mL). Based on population pharmacokinetic modeling, the plerixafor mean exposures (AUC0-24h) in paediatric patients aged 2 to &lt;6 years (1905 ng.h/mL), 6 to &lt;12 years (3063 ng.h/mL), and 12 to &lt;18 years (4015  ng.h/mL), at the dose of 0.32 mg/kg are closer to the exposure in adults receiving 0.24 mg/kg. However, mobilization of PB CD34+ count was observed in stage 2 of the trial.
 
 ## 5.3 Preclinical safety data
 
 The results from single dose subcutaneous studies in rats and mice showed plerixafor can induce transient but severe neuromuscular effects (uncoordinated movement), sedative-like effects (hypoactivity), dyspnoea, ventral or lateral recumbency, and/or muscle spasms. Additional effects of plerixafor consistently noted in repeated dose animal studies included increased levels of circulating white blood cells and increased urinary excretion of calcium and magnesium in rats and dogs, slightly higher spleen weights in rats, and diarrhoea and tachycardia in dogs. Histopathology findings of extramedullary haematopoiesis were observed in the liver and spleen of rats and/or dogs. One or more of these findings were usually observed at systemic exposures in the same order of magnitude or slightly higher than the human clinical exposure.
 
-The results of the dose range-finding study in juvenile miniature pigs and the range-finding and definitive studies in juvenile rats were similar to those observed in adult mice, rats, and dogs. Exposure margins in the juvenile rat study at the maximum tolerated dose (MTD) were ≥ 18 fold when compared with the highest clinical paediatric dose in children up to 18 years of age.
+The results of the dose range-finding study in juvenile miniature pigs and the range-finding and definitive studies in juvenile rats were similar to those observed in adult mice, rats, and dogs. Exposure margins in the juvenile rat study at the maximum tolerated dose (MTD) were  18 fold when compared with the highest clinical paediatric dose in children up to 18 years of age.
 
-An in vitro general receptor activity screen showed that plerixafor, at a concentration (5 µg/ml) several fold higher than the maximum human systemic level, has moderate or strong binding affinity for a number of different receptors predominantly located on pre-synaptic nerve endings in the central nervous system (CNS) and/or the peripheral nervous system (PNS) (N-type calcium channel, potassium channel SKCA, histamine H3, acetylcholine muscarinic M1 and M2 , adrenergic α1 B and α2 C, neuropeptide Y/Y1 and glutamate NMDA polyamine receptors). The clinical relevance of these findings is not known.
+An in vitro general receptor activity screen showed that plerixafor, at a concentration (5 μ g/ml) several fold higher than the maximum human systemic level, has moderate or strong binding affinity for a number of different receptors predominantly located on pre-synaptic nerve endings in the central nervous system (CNS) and/or the peripheral nervous system (PNS) (N-type calcium channel, potassium channel SKCA, histamine H3, acetylcholine muscarinic M1 and M2 GLYPH&lt;c=15,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;DGUHQHUJLFGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;ĮGLYPH&lt;c=20,font=/PPNGHM+TimesNewRomanPSMT&gt; B DQGGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;ĮGLYPH&lt;c=21,font=/PPNGHM+TimesNewRomanPSMT&gt; C, neuropeptide Y/Y1 and glutamate NMDA polyamine receptors). The clinical relevance of these findings is not known.
 
-Safety pharmacology studies with intravenously administered plerixafor in rats showed respiratory and cardiac depressant effects at systemic exposure slightly above the human clinical exposure, whilst subcutaneous administration elicited respiratory and cardiovascular effects only at higher systemic levels.
+Safety pharmacology studies with intravenously administered plerixafor in rats showed respiratory and cardiac depressant effects at systemic exposure slightly above the human clinical exposure, whilst subcutaneous administration elicited respiratory and cardiovascular effects only at higher systemic
 
 <div style=\"page-break-after: always\"></div>
 
-SDF1α and CXCR4 play major roles in embryo -foetal development. Plerixafor has been shown to cause increased resorptions, decreased foetal weights, retarded skeletal development and increased foetal abnormalities in rats and rabbits. Data from animal models also suggest modulation of foetal haematopoiesis, vascularisation, and cerebellar development by SDF1α and CXCR4. Systemic exposure at No Observed Adverse Effect Level for teratogenic effects in rats and rabbits was of the same magnitude or lower as found at therapeutic doses in patients. This teratogenic potential is likely due to its pharmacodynamic mechanism of action.
+levels.
 
-In rat distribution studies concentrations of radiolabelled plerixafor was detected in reproductive organs (testes, ovaria, uterus) two weeks after single or 7 daily repeated doses in males and after 7 daily repeated doses in females. The elimination rate from tissues was slow.
+SDFGLYPH&lt;c=20,font=/PPNGHM+TimesNewRomanPSMT&gt;ĮGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;DQGGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;&amp;;&amp;5GLYPH&lt;c=23,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;SOD\\GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; PDMRUGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;UROHVGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;LQGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;HPEU\\R -foetal development. Plerixafor has been shown to cause increased resorptions, decreased foetal weights, retarded skeletal development and increased foetal abnormalities in rats and rabbits. Data from animal models also suggest modulation of foetal haematopoiesis, vascularisation, and cerebellar development by SDFGLYPH&lt;c=20,font=/PPNGHM+TimesNewRomanPSMT&gt;ĮGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;DQGGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;&amp;;&amp; 5GLYPH&lt;c=23,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=17,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; Systemic exposure at No Observed Adverse Effect Level for teratogenic effects in rats and rabbits was of the same magnitude or lower as found at therapeutic doses in patients. This teratogenic potential is likely due to its pharmacodynamic mechanism of action.
 
-The potential effects of plerixafor on male fertility and postnatal development have not been evaluated in non-clinical studies.
+In rat distribution studies concentrations of radiolabelled plerixafor was detected in reproductive organs (testes, ovaria, uterus) two weeks after single or 7 daily repeated doses in males and after 7 daily repeated doses in females. The elimination rate from tissues was slow. The potential effects of plerixafor on male fertility and postnatal development have not been evaluated in non-clinical studies.
 
 Carcinogenicity studies with plerixafor have not been conducted. Plerixafor was not genotoxic in an adequate battery of genotoxicity tests.
 
@@ -480,11 +470,13 @@ This medicinal product does not require any special storage conditions.
 
 Clear type I glass 2 ml vial with a chlorobutyl/butyl rubber stopper and aluminium seal with a plastic flip-off cap. Each vial contains 1.2 ml solution.
 
-Pack size of 1 vial.
-
 <div style=\"page-break-after: always\"></div>
 
-## 6.6 Special precautions for disposal
+Pack size of 1 vial.
+
+6.6
+
+Special precautions for disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -492,13 +484,17 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 MARKETING AUTHORISATION HOLDER
 
-Sanofi B.V. Paasheuvelweg 25 1105 BP Amsterdam The Netherlands.
+Sanofi B.V. Paasheuvelweg 25 1105 BP Amsterdam
+
+The Netherlands.
 
 ## 8. MARKETING AUTHORISATION NUMBER
 
 EU/1/09/537/001
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 31 July 2009
 
@@ -506,7 +502,9 @@ Date of latest renewal: 11 April 2014
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines
+
+Agency http://www.ema.europa.eu.
 
 14
 
@@ -515,11 +513,8 @@ Detailed information on this medicinal product is available on the website of th
 ## ANNEX II
 
 - A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -536,20 +531,20 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic Safety Update Reports
+## x Periodic Safety Update Reports
 
 The marketing authorisation holder shall submit periodic safety update reports for this product in accordance with the requirements set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk Management Plan (RMP)
+## x Risk Management Plan (RMP)
 
 The MAH shall perform the pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the Marketing Authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- x At the request of the European Medicines Agency;
+- x Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 If the dates for submission of a PSUR and the update of a RMP coincide, they can be submitted at the same time.
 
@@ -621,11 +616,7 @@ Any unused solution should be discarded.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Sanofi B.V.
-
-Paasheuvelweg 25
-
-1105 BP Amsterdam
+Sanofi B.V. Paasheuvelweg 25 1105 BP Amsterdam
 
 The Netherlands
 
@@ -691,13 +682,15 @@ Batch
 | 6.   | OTHER   |
 |------|---------|
 
+21
+
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-## Package leaflet: Information for the user
-
 <div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user
 
 ## Mozobil 20 mg/ml solution for injection Plerixafor
 
@@ -722,14 +715,14 @@ Mozobil contains the active substance plerixafor which blocks a protein on the s
 
 If mobilisation is poor, Mozobil is used to help collect blood stem cells from the patient, for collection, storage and reintroduction (transplantation),
 
-- In adults who have lymphoma (a cancer of the white blood cells) or multiple myeloma (a cancer that affects plasma cells in the bone marrow).
-- In children age 1 to less than 18 years of age with lymphoma or solid tumours.
+- x In adults who have lymphoma (a cancer of the white blood cells) or multiple myeloma (a cancer that affects plasma cells in the bone marrow).
+- x In children age 1 to less than 18 years of age with lymphoma or solid tumours.
 
 ## 2. What you need to know before you use Mozobil
 
 ## Do not use Mozobil
 
-- if you are allergic to plerixafor or any of the other ingredients of this medicine (listed in section 6).
+- x if you are allergic to plerixafor or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -737,11 +730,11 @@ Talk to your doctor before using Mozobil.
 
 ## Tell your doctor:
 
-- if you have or have had any heart problems.
-- if you have kidney problems. Your doctor may adjust the dose.
-- if you have high white blood cell counts.
-- if you have low platelet counts.
-- if you have a history of feeling faint or lightheaded on standing or sitting or have fainted before upon injections.
+- x if you have kidney problems. Your doctor may adjust the dose.
+- x if you have or have had any heart problems.
+- x if you have high white blood cell counts.
+- x if you have a history of feeling faint or lightheaded on standing or sitting or have fainted before upon injections.
+- x if you have low platelet counts.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -801,29 +794,29 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Please tell your doctor immediately if
 
-- shortly after receiving Mozobil, you experience rash, swelling around the eyes, shortness of breath or lack of oxygen, feeling lightheaded on standing or sitting, feeling faint or fainting
-- you have pain in the upper left abdomen (belly) or your left shoulder
+- x shortly after receiving Mozobil, you experience rash, swelling around the eyes, shortness of breath or lack of oxygen, feeling lightheaded on standing or sitting, feeling faint or fainting
+- x you have pain in the upper left abdomen (belly) or your left shoulder
 
 ## Very common side effects (may affect more than 1 in 10 people)
 
-- diarrhoea, nausea (feeling sick), injection site redness or irritation
-- low red blood cell count by laboratory test (anaemia in children)
+- x diarrhoea, nausea (feeling sick), injection site redness or irritation
+- x low red blood cell count by laboratory test (anaemia in children)
 
 ## Common side effects (may affect up to 1 in 10 people)
 
-- headache
-- dizziness, feeling tired or unwell
-- difficulty in sleeping
-- flatulence, constipation, indigestion, vomiting
-- stomach symptoms such as pain, swelling or discomfort
-- dry mouth, numbness around the mouth
-- sweating, generalised redness of the skin, joint pains, pains in muscles and bones
+- x headache
+- x difficulty in sleeping
+- x dizziness, feeling tired or unwell
+- x flatulence, constipation, indigestion, vomiting
+- x dry mouth, numbness around the mouth
+- x stomach symptoms such as pain, swelling or discomfort
+- x sweating, generalised redness of the skin, joint pains, pains in muscles and bones
 
 ## Uncommon side effects (may affect up to 1 in 100 people)
 
-- allergic reactions such as skin rash, swelling around the eyes, shortness of breath
-- anaphylactic reactions, including anaphylactic shock
-- abnormal dreams, nightmares
+- x allergic reactions such as skin rash, swelling around the eyes, shortness of breath
+- x abnormal dreams, nightmares
+- x anaphylactic reactions, including anaphylactic shock
 
 Rarely, gastrointestinal side effects may be severe (diarrhoea, vomiting, stomach pain and nausea).
 
@@ -870,7 +863,13 @@ Each pack contains 1 vial.
 
 ## Marketing Authorisation Holder
 
-Sanofi B.V. Paasheuvelweg 25 1105 BP Amsterdam The Netherlands.
+Sanofi B.V.
+
+Paasheuvelweg 25
+
+1105 BP Amsterdam
+
+The Netherlands.
 
 ## Manufacturer
 
@@ -882,13 +881,17 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien/ Luxembourg/Luxemburg
 
-Sanofi Belgium Tél/Tel: + 32 2 710 54 00
+Sanofi Belgium
 
-## България
+Tél/Tel: + 32 2 710 54 00
 
-Swixx Biopharma EOOD T ел: +359 (0)2 4942 480
+## Ȼɴɥɝɚɪɢɹ
 
-## Česká republika
+Swixx Biopharma EOOD
+
+7ɟɥGLYPH&lt;c=29,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=14,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=22,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=24,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=28,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; (0)2 4942 480
+
+## ýHVNiGLYPH&lt;c=3,font=/PPNHPK+TimesNewRomanPS-BoldMT&gt;UHSXEOLND
 
 Sanofi s.r.o. Tel: +420 233 086 111
 
@@ -898,15 +901,17 @@ sanofi A/S Tlf: +45 45 16 70 00
 
 ## Deutschland
 
-Sanofi-Aventis Deutschland GmbH Tel:  0800 52 52 010 Tel. aus dem Ausland: +49 69 305 21 131
+Sanofi-Aventis Deutschland GmbH Tel:  0800 52 52 010
+
+Tel. aus dem Ausland: +49 69 305 21 131
 
 ## Eesti
 
 Swixx Biopharma OÜ Tel. +372 640 10 30
 
-## Ελλάδα
+## ǼȜȜȐįĮ
 
-Sanofi-Aventis Μονοπρόσωπη AEBE Τηλ: +30 210 900 1600
+Sanofi-Aventis ȂȠȞȠʌȡȩıȦʌȘGLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; AEBE ȉȘȜGLYPH&lt;c=29,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=14,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=22,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=19,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=21,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=20,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=19,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=28,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=19,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=19,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=20,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=25,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=19,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=19,font=/PPNGHM+TimesNewRomanPSMT&gt;
 
 ## España
 
@@ -936,7 +941,9 @@ Tel: 800536389
 
 ## Lietuva
 
-Swixx Biopharma UAB Tel. +370 5 236 91 40
+Swixx Biopharma UAB
+
+Tel. +370 5 236 91 40
 
 ## Magyarország
 
@@ -962,7 +969,9 @@ sanofi-aventis GmbH Tel: + 43 1 80 185 - 0
 
 ## Polska
 
-Sanofi Sp. z o.o. Tel.: +48 22 280 00 00
+Sanofi Sp. z o.o.
+
+Tel.: +48 22 280 00 00
 
 ## Portugal
 
@@ -988,23 +997,17 @@ Puh/Tel: + 358 201 200 300
 
 ## Sverige
 
-Sanofi AB Tel: +46 (0)8 634 50 00
+Sanofi AB
+
+Tel: +46 (0)8 634 50 00
 
 <div style=\"page-break-after: always\"></div>
 
-## Latvija
+Latvija Swixx Biopharma SIA Tel: +371 6 616 47 50
 
-Swixx Biopharma SIA
+## ȀȪʌȡȠȢ
 
-Tel: +371 6 616 47 50
-
-## Κύπρος
-
-C.A. Papaellinas Ltd.
-
-Τηλ
-
-: +357 22 741741
+C.A. Papaellinas Ltd. ȉȘȜGLYPH&lt;c=29,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=14,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=22,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=24,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=26,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=21,font=/PPNGHM+TimesNewRomanPSMT&gt;GLYPH&lt;c=21,font=/PPNGHM+TimesNewRomanPSMT&gt; GLYPH&lt;c=3,font=/PPNGHM+TimesNewRomanPSMT&gt; 741741
 
 ## This leaflet was last approved in.
 

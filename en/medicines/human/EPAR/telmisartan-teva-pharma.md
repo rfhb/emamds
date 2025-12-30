@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:43:33
+document_datetime: 2025-12-29 11:27:24
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/telmisartan-teva-pharma.html
 document_name: telmisartan-teva-pharma.html
 version: success
-processing_time: 0.6671172
-conversion_datetime: 2025-12-28 20:15:22.140135
+processing_time: 0.1475264
+conversion_datetime: 2025-12-30 07:53:54.499784
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 telmisartan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (79.9 KB - PDF)
 
 [View](/en/documents/overview/telmisartan-teva-pharma-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-67)
+[Other languages (22)](#file-language-dropdown-153)
 
 български (BG) (109.35 KB - PDF)
 
@@ -384,7 +386,7 @@ English (EN) (522.14 KB - PDF)
 
 [View](/en/documents/product-information/telmisartan-teva-pharma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-26)
+[Other languages (24)](#file-language-dropdown-588)
 
 български (BG) (623.39 KB - PDF)
 
@@ -700,7 +702,7 @@ English (EN) (50.78 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/telmisartan-teva-pharma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-963)
+[Other languages (24)](#file-language-dropdown-907)
 
 български (BG) (98.29 KB - PDF)
 
@@ -1046,7 +1048,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/telmisartan-teva-pharma-h-c-2511-a31-0006-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-470)
+[Other languages (22)](#file-language-dropdown-888)
 
 български (BG) (87.49 KB - PDF)
 
@@ -1392,7 +1394,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

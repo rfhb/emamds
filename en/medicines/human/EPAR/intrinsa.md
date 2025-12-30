@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:10:39
+document_datetime: 2025-12-29 13:46:02
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/intrinsa.html
 document_name: intrinsa.html
 version: success
-processing_time: 0.1037331
-conversion_datetime: 2025-12-28 10:17:49.988746
+processing_time: 0.1052616
+conversion_datetime: 2025-12-30 11:05:36.416644
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 testosterone Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -60,7 +62,7 @@ English (EN) (282.58 KB - PDF)
 
 [View](/en/documents/overview/intrinsa-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-432)
+[Other languages (21)](#file-language-dropdown-311)
 
 български (BG) (291.39 KB - PDF)
 
@@ -326,7 +328,7 @@ English (EN) (604.23 KB - PDF)
 
 [View](/en/documents/product-information/intrinsa-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-369)
+[Other languages (23)](#file-language-dropdown-693)
 
 български (BG) (776.04 KB - PDF)
 
@@ -630,7 +632,7 @@ English (EN) (234.95 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/intrinsa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-587)
+[Other languages (23)](#file-language-dropdown-604)
 
 български (BG) (172.54 KB - PDF)
 

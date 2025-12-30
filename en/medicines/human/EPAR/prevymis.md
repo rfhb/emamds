@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-21 12:05:14
+document_datetime: 2025-12-29 11:11:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/prevymis.html
 document_name: prevymis.html
 version: success
-processing_time: 0.1202672
-conversion_datetime: 2025-12-28 10:48:48.851251
+processing_time: 0.1348788
+conversion_datetime: 2025-12-30 10:21:03.733839
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -119,7 +119,7 @@ English (EN) (113.17 KB - PDF)
 
 [View](/en/documents/overview/prevymis-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-45)
+[Other languages (22)](#file-language-dropdown-285)
 
 български (BG) (138.03 KB - PDF)
 
@@ -407,7 +407,7 @@ English (EN) (1.86 MB - PDF)
 
 [View](/en/documents/product-information/prevymis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-442)
+[Other languages (24)](#file-language-dropdown-506)
 
 български (BG) (1.7 MB - PDF)
 
@@ -723,7 +723,7 @@ English (EN) (22.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/prevymis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-101)
+[Other languages (24)](#file-language-dropdown-82)
 
 български (BG) (25.95 KB - PDF)
 

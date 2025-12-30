@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-09 23:12:48
+document_datetime: 2025-12-29 14:34:44
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/erleada.html
 document_name: erleada.html
 version: success
-processing_time: 0.1179616
-conversion_datetime: 2025-12-28 13:46:35.542589
+processing_time: 0.1161853
+conversion_datetime: 2025-12-30 22:07:18.32281
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 apalutamide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +106,7 @@ English (EN) (122.39 KB - PDF)
 
 [View](/en/documents/overview/erleada-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-809)
+[Other languages (22)](#file-language-dropdown-882)
 
 български (BG) (144.88 KB - PDF)
 
@@ -304,7 +306,7 @@ English (EN) (1.4 MB - PDF)
 
 [View](/en/documents/product-information/erleada-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-965)
+[Other languages (24)](#file-language-dropdown-722)
 
 български (BG) (868.92 KB - PDF)
 
@@ -620,7 +622,7 @@ English (EN) (30.98 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/erleada-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-778)
+[Other languages (24)](#file-language-dropdown-142)
 
 български (BG) (32.71 KB - PDF)
 

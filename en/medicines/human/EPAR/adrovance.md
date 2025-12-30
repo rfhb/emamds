@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:50:17
+document_datetime: 2025-12-29 14:32:34
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/adrovance.html
 document_name: adrovance.html
 version: success
-processing_time: 0.1080134
-conversion_datetime: 2025-12-27 17:04:00.796522
+processing_time: 0.122409
+conversion_datetime: 2025-12-30 22:24:41.436516
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 alendronic acid / colecalciferol Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (69.38 KB - PDF)
 
 [View](/en/documents/overview/adrovance-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-395)
+[Other languages (21)](#file-language-dropdown-706)
 
 български (BG) (131.61 KB - PDF)
 
@@ -385,7 +387,7 @@ English (EN) (291.19 KB - PDF)
 
 [View](/en/documents/product-information/adrovance-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-869)
+[Other languages (24)](#file-language-dropdown-664)
 
 български (BG) (428.75 KB - PDF)
 
@@ -701,7 +703,7 @@ English (EN) (13.87 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/adrovance-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-615)
+[Other languages (24)](#file-language-dropdown-35)
 
 български (BG) (45.05 KB - PDF)
 

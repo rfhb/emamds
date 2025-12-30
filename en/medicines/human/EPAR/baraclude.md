@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-09 23:15:43
+document_datetime: 2025-12-29 11:50:54
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/baraclude.html
 document_name: baraclude.html
 version: success
-processing_time: 0.1313265
-conversion_datetime: 2025-12-24 23:49:30.875633
+processing_time: 0.1869685
+conversion_datetime: 2025-12-30 21:12:28.823256
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 entecavir Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -126,7 +128,7 @@ English (EN) (72.33 KB - PDF)
 
 [View](/en/documents/overview/baraclude-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-410)
+[Other languages (22)](#file-language-dropdown-34)
 
 български (BG) (123.81 KB - PDF)
 
@@ -414,7 +416,7 @@ English (EN) (580.16 KB - PDF)
 
 [View](/en/documents/product-information/baraclude-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-754)
+[Other languages (24)](#file-language-dropdown-549)
 
 български (BG) (820.35 KB - PDF)
 
@@ -730,7 +732,7 @@ English (EN) (100.76 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/baraclude-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-173)
+[Other languages (24)](#file-language-dropdown-73)
 
 български (BG) (112.73 KB - PDF)
 
@@ -1161,7 +1163,7 @@ English (EN) (237.2 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/baraclude-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-351)
+[Other languages (24)](#file-language-dropdown-471)
 
 български (BG) (284.34 KB - DOCX)
 

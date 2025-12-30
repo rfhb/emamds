@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:57:39
+document_datetime: 2025-12-29 10:11:28
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/olanzapine-teva.html
 document_name: olanzapine-teva.html
 version: success
-processing_time: 0.1096211
-conversion_datetime: 2025-12-24 08:17:14.662064
+processing_time: 0.1393332
+conversion_datetime: 2025-12-30 21:47:19.344651
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 olanzapine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (58.12 KB - PDF)
 
 [View](/en/documents/overview/olanzapine-teva-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-874)
+[Other languages (21)](#file-language-dropdown-273)
 
 български (BG) (98.72 KB - PDF)
 
@@ -373,7 +375,7 @@ English (EN) (1.34 MB - PDF)
 
 [View](/en/documents/product-information/olanzapine-teva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-572)
+[Other languages (24)](#file-language-dropdown-112)
 
 български (BG) (1.59 MB - PDF)
 
@@ -689,7 +691,7 @@ English (EN) (105.54 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/olanzapine-teva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-55)
+[Other languages (24)](#file-language-dropdown-665)
 
 български (BG) (115.62 KB - PDF)
 
@@ -1082,7 +1084,7 @@ English (EN) (253.22 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/olanzapine-teva-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-92)
+[Other languages (24)](#file-language-dropdown-303)
 
 български (BG) (296.88 KB - DOCX)
 
@@ -1290,7 +1292,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

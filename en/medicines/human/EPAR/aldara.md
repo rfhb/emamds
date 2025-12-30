@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:13:31
+document_datetime: 2025-12-29 11:43:49
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aldara.html
 document_name: aldara.html
 version: success
-processing_time: 0.1319253
-conversion_datetime: 2025-12-28 19:45:24.695169
+processing_time: 0.129812
+conversion_datetime: 2025-12-30 08:25:02.080788
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 imiquimod Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +122,7 @@ English (EN) (45.38 KB - PDF)
 
 [View](/en/documents/overview/aldara-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-914)
+[Other languages (21)](#file-language-dropdown-334)
 
 български (BG) (170.25 KB - PDF)
 
@@ -386,7 +388,7 @@ English (EN) (745.92 KB - PDF)
 
 [View](/en/documents/product-information/aldara-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-457)
+[Other languages (24)](#file-language-dropdown-666)
 
 български (BG) (405.99 KB - PDF)
 
@@ -702,7 +704,7 @@ English (EN) (8.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/aldara-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-572)
+[Other languages (24)](#file-language-dropdown-505)
 
 български (BG) (46.98 KB - PDF)
 
@@ -1131,7 +1133,7 @@ English (EN) (332 KB - DOC)
 
 [View](/en/documents/product-information-tracked-changes/aldara-epar-product-information-tracked-changes_en.doc)
 
-[Other languages (24)](#file-language-dropdown-875)
+[Other languages (24)](#file-language-dropdown-454)
 
 български (BG) (144.16 KB - DOCX)
 

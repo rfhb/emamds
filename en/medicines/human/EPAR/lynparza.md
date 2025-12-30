@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-13 13:08:31
+document_datetime: 2025-12-29 09:53:30
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lynparza.html
 document_name: lynparza.html
 version: success
-processing_time: 0.1622984
-conversion_datetime: 2025-12-28 01:00:17.254123
+processing_time: 0.1829901
+conversion_datetime: 2025-12-30 11:43:46.358065
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 olaparib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -161,7 +163,7 @@ English (EN) (159.3 KB - PDF)
 
 [View](/en/documents/overview/lynparza-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-73)
+[Other languages (22)](#file-language-dropdown-788)
 
 български (BG) (186.45 KB - PDF)
 
@@ -449,7 +451,7 @@ English (EN) (1.72 MB - PDF)
 
 [View](/en/documents/product-information/lynparza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-585)
+[Other languages (24)](#file-language-dropdown-334)
 
 български (BG) (1.72 MB - PDF)
 
@@ -765,7 +767,7 @@ English (EN) (35.27 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lynparza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-66)
+[Other languages (24)](#file-language-dropdown-124)
 
 български (BG) (35.76 KB - PDF)
 
@@ -1437,7 +1439,7 @@ English (EN) (2.15 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/lynparza-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-729)
+[Other languages (24)](#file-language-dropdown-940)
 
 български (BG) (2.1 MB - DOCX)
 

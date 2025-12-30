@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:37:00
+document_datetime: 2025-12-29 12:41:32
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/afiveg.html
 document_name: afiveg.html
 version: success
-processing_time: 0.1020852
-conversion_datetime: 2025-12-28 17:49:07.756879
+processing_time: 0.1028937
+conversion_datetime: 2025-12-30 11:09:51.774787
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 aflibercept Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (146.05 KB - PDF)
 
 [View](/en/documents/overview/afiveg-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-612)
+[Other languages (22)](#file-language-dropdown-944)
 
 български (BG) (163.31 KB - PDF)
 
@@ -314,7 +316,7 @@ English (EN) (1.94 MB - PDF)
 
 [View](/en/documents/product-information/afiveg-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-966)
+[Other languages (24)](#file-language-dropdown-480)
 
 български (BG) (2.57 MB - PDF)
 
@@ -530,7 +532,7 @@ English (EN) (44.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/afiveg-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-938)
+[Other languages (24)](#file-language-dropdown-650)
 
 български (BG) (48.82 KB - PDF)
 

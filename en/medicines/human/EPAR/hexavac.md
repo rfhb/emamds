@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:29
+document_datetime: 2025-12-29 12:45:34
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hexavac.html
 document_name: hexavac.html
 version: success
-processing_time: 0.4117709
-conversion_datetime: 2025-12-26 09:09:51.233413
+processing_time: 0.0973882
+conversion_datetime: 2025-12-30 11:50:47.80552
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-diphtheria, tetanus, acellular pertussis, inactivated poliomyelitis, hepatitis B (recombinant) and Haemophilus influenzae type b conjugate vaccine, adjuvanted
+diphtheria, tetanus, acellular pertussis, inactivated poliomyelitis, hepatitis B (recombinant) and Haemophilus influenzae type b conjugate vaccine, adjuvanted Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (365 KB - PDF)
 
 [View](/en/documents/overview/hexavac-epar-summary-public_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-211)
+[Other languages (18)](#file-language-dropdown-392)
 
 español (ES) (358.48 KB - PDF)
 
@@ -296,7 +292,7 @@ English (EN) (703.43 KB - PDF)
 
 [View](/en/documents/product-information/hexavac-epar-product-information_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-306)
+[Other languages (18)](#file-language-dropdown-78)
 
 español (ES) (700.36 KB - PDF)
 
@@ -540,7 +536,7 @@ English (EN) (291.54 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/hexavac-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-258)
+[Other languages (18)](#file-language-dropdown-176)
 
 español (ES) (302.45 KB - PDF)
 
@@ -829,7 +825,7 @@ English (EN) (338.13 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/hexavac-epar-scientific-conclusion_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-212)
+[Other languages (18)](#file-language-dropdown-931)
 
 español (ES) (339.93 KB - PDF)
 

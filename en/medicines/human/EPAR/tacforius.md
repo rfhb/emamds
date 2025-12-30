@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:01:21
+document_datetime: 2025-12-29 14:36:14
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tacforius.html
 document_name: tacforius.html
 version: success
-processing_time: 0.1294847
-conversion_datetime: 2025-12-28 14:22:52.510253
+processing_time: 0.1108277
+conversion_datetime: 2025-12-30 03:07:59.863529
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tacrolimus Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +107,7 @@ English (EN) (91.94 KB - PDF)
 
 [View](/en/documents/overview/tacforius-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-798)
+[Other languages (22)](#file-language-dropdown-430)
 
 български (BG) (128.93 KB - PDF)
 
@@ -391,7 +393,7 @@ English (EN) (612.15 KB - PDF)
 
 [View](/en/documents/product-information/tacforius-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-227)
+[Other languages (24)](#file-language-dropdown-283)
 
 български (BG) (802.49 KB - PDF)
 
@@ -707,7 +709,7 @@ English (EN) (27.77 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tacforius-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-993)
+[Other languages (24)](#file-language-dropdown-976)
 
 български (BG) (61.82 KB - PDF)
 
@@ -1106,7 +1108,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

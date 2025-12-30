@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:38:49
+document_datetime: 2025-12-29 13:28:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/segluromet.html
 document_name: segluromet.html
 version: success
-processing_time: 0.1167973
-conversion_datetime: 2025-12-28 08:24:29.375518
+processing_time: 0.1162128
+conversion_datetime: 2025-12-30 03:05:46.764147
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ertugliflozin / metformin hydrochloride Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +124,7 @@ English (EN) (147.38 KB - PDF)
 
 [View](/en/documents/overview/segluromet-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-63)
+[Other languages (22)](#file-language-dropdown-107)
 
 български (BG) (171.42 KB - PDF)
 
@@ -408,7 +410,7 @@ English (EN) (574.26 KB - PDF)
 
 [View](/en/documents/product-information/segluromet-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-110)
+[Other languages (24)](#file-language-dropdown-592)
 
 български (BG) (511.58 KB - PDF)
 
@@ -724,7 +726,7 @@ English (EN) (23.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/segluromet-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-16)
+[Other languages (24)](#file-language-dropdown-423)
 
 български (BG) (25.45 KB - PDF)
 

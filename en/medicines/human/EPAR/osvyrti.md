@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:46:38
+document_datetime: 2025-12-29 11:10:25
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/osvyrti.html
 document_name: osvyrti.html
 version: success
-processing_time: 0.1073616
-conversion_datetime: 2025-12-23 23:48:11.804488
+processing_time: 0.0959464
+conversion_datetime: 2025-12-30 12:59:42.088828
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 denosumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (135.76 KB - PDF)
 
 [View](/en/documents/overview/osvyrti-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-305)
+[Other languages (22)](#file-language-dropdown-357)
 
 български (BG) (160.4 KB - PDF)
 
@@ -303,207 +305,305 @@ English (EN) (1.61 MB - PDF)
 
 Osvyrti : EPAR - Product information
 
-English (EN) (946.18 KB - PDF)
+English (EN) (819.18 KB - PDF)
 
 **First published:** 28/07/2025
 
+**Last updated:** 22/12/2025
+
 [View](/en/documents/product-information/osvyrti-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-517)
+[Other languages (24)](#file-language-dropdown-251)
 
-български (BG) (954.98 KB - PDF)
+български (BG) (971.89 KB - PDF)
 
 **First published:**
 
 28/07/2025
+
+**Last updated:**
+
+22/12/2025
 
 [View](/bg/documents/product-information/osvyrti-epar-product-information_bg.pdf)
 
-español (ES) (922.89 KB - PDF)
+español (ES) (851.48 KB - PDF)
 
 **First published:**
 
 28/07/2025
+
+**Last updated:**
+
+22/12/2025
 
 [View](/es/documents/product-information/osvyrti-epar-product-information_es.pdf)
 
-čeština (CS) (913.74 KB - PDF)
+čeština (CS) (897.91 KB - PDF)
 
 **First published:**
 
 28/07/2025
+
+**Last updated:**
+
+22/12/2025
 
 [View](/cs/documents/product-information/osvyrti-epar-product-information_cs.pdf)
 
-dansk (DA) (851.03 KB - PDF)
+dansk (DA) (947.13 KB - PDF)
 
 **First published:**
 
 28/07/2025
+
+**Last updated:**
+
+22/12/2025
 
 [View](/da/documents/product-information/osvyrti-epar-product-information_da.pdf)
 
-Deutsch (DE) (908.31 KB - PDF)
+Deutsch (DE) (782.2 KB - PDF)
 
 **First published:**
 
 28/07/2025
+
+**Last updated:**
+
+22/12/2025
 
 [View](/de/documents/product-information/osvyrti-epar-product-information_de.pdf)
 
-eesti keel (ET) (880.2 KB - PDF)
+eesti keel (ET) (841.5 KB - PDF)
 
 **First published:**
 
 28/07/2025
+
+**Last updated:**
+
+22/12/2025
 
 [View](/et/documents/product-information/osvyrti-epar-product-information_et.pdf)
 
-ελληνικά (EL) (846.56 KB - PDF)
+ελληνικά (EL) (967.09 KB - PDF)
 
 **First published:**
 
 28/07/2025
+
+**Last updated:**
+
+22/12/2025
 
 [View](/el/documents/product-information/osvyrti-epar-product-information_el.pdf)
 
-français (FR) (937.57 KB - PDF)
+français (FR) (1.05 MB - PDF)
 
 **First published:**
 
 28/07/2025
+
+**Last updated:**
+
+22/12/2025
 
 [View](/fr/documents/product-information/osvyrti-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.18 MB - PDF)
+hrvatski (HR) (1.09 MB - PDF)
 
 **First published:**
 
 28/07/2025
+
+**Last updated:**
+
+22/12/2025
 
 [View](/hr/documents/product-information/osvyrti-epar-product-information_hr.pdf)
 
-íslenska (IS) (879.33 KB - PDF)
+íslenska (IS) (996.4 KB - PDF)
 
 **First published:**
 
 28/07/2025
+
+**Last updated:**
+
+22/12/2025
 
 [View](/is/documents/product-information/osvyrti-epar-product-information_is.pdf)
 
-italiano (IT) (864.82 KB - PDF)
+italiano (IT) (995.25 KB - PDF)
 
 **First published:**
 
 28/07/2025
+
+**Last updated:**
+
+22/12/2025
 
 [View](/it/documents/product-information/osvyrti-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (911.39 KB - PDF)
+latviešu valoda (LV) (990.47 KB - PDF)
 
 **First published:**
 
 28/07/2025
+
+**Last updated:**
+
+22/12/2025
 
 [View](/lv/documents/product-information/osvyrti-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.21 MB - PDF)
+lietuvių kalba (LT) (1.08 MB - PDF)
 
 **First published:**
 
 28/07/2025
+
+**Last updated:**
+
+22/12/2025
 
 [View](/lt/documents/product-information/osvyrti-epar-product-information_lt.pdf)
 
-magyar (HU) (1.01 MB - PDF)
+magyar (HU) (1.15 MB - PDF)
 
 **First published:**
 
 28/07/2025
+
+**Last updated:**
+
+22/12/2025
 
 [View](/hu/documents/product-information/osvyrti-epar-product-information_hu.pdf)
 
-Malti (MT) (943 KB - PDF)
+Malti (MT) (1.11 MB - PDF)
 
 **First published:**
 
 28/07/2025
+
+**Last updated:**
+
+22/12/2025
 
 [View](/mt/documents/product-information/osvyrti-epar-product-information_mt.pdf)
 
-Nederlands (NL) (761.21 KB - PDF)
+Nederlands (NL) (1.04 MB - PDF)
 
 **First published:**
 
 28/07/2025
+
+**Last updated:**
+
+22/12/2025
 
 [View](/nl/documents/product-information/osvyrti-epar-product-information_nl.pdf)
 
-norsk (NO) (897.93 KB - PDF)
+norsk (NO) (1006.63 KB - PDF)
 
 **First published:**
 
 28/07/2025
+
+**Last updated:**
+
+22/12/2025
 
 [View](/no/documents/product-information/osvyrti-epar-product-information_no.pdf)
 
-polski (PL) (1.08 MB - PDF)
+polski (PL) (1.13 MB - PDF)
 
 **First published:**
 
 28/07/2025
+
+**Last updated:**
+
+22/12/2025
 
 [View](/pl/documents/product-information/osvyrti-epar-product-information_pl.pdf)
 
-português (PT) (931.43 KB - PDF)
+português (PT) (1.01 MB - PDF)
 
 **First published:**
 
 28/07/2025
+
+**Last updated:**
+
+22/12/2025
 
 [View](/pt/documents/product-information/osvyrti-epar-product-information_pt.pdf)
 
-română (RO) (922.46 KB - PDF)
+română (RO) (1.09 MB - PDF)
 
 **First published:**
 
 28/07/2025
+
+**Last updated:**
+
+22/12/2025
 
 [View](/ro/documents/product-information/osvyrti-epar-product-information_ro.pdf)
 
-slovenčina (SK) (921.16 KB - PDF)
+slovenčina (SK) (1.07 MB - PDF)
 
 **First published:**
 
 28/07/2025
+
+**Last updated:**
+
+22/12/2025
 
 [View](/sk/documents/product-information/osvyrti-epar-product-information_sk.pdf)
 
-slovenščina (SL) (915.17 KB - PDF)
+slovenščina (SL) (1.11 MB - PDF)
 
 **First published:**
 
 28/07/2025
+
+**Last updated:**
+
+22/12/2025
 
 [View](/sl/documents/product-information/osvyrti-epar-product-information_sl.pdf)
 
-Suomi (FI) (846.37 KB - PDF)
+Suomi (FI) (978.39 KB - PDF)
 
 **First published:**
 
 28/07/2025
+
+**Last updated:**
+
+22/12/2025
 
 [View](/fi/documents/product-information/osvyrti-epar-product-information_fi.pdf)
 
-svenska (SV) (881.23 KB - PDF)
+svenska (SV) (1015.83 KB - PDF)
 
 **First published:**
 
 28/07/2025
 
+**Last updated:**
+
+22/12/2025
+
 [View](/sv/documents/product-information/osvyrti-epar-product-information_sv.pdf)
 
-26/05/2025
+**Latest procedure affecting product information:** VR/0000302844 17/12/2025
 
 icon globe
 
@@ -527,7 +627,7 @@ English (EN) (158.54 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/osvyrti-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-733)
+[Other languages (24)](#file-language-dropdown-653)
 
 български (BG) (164.3 KB - PDF)
 
@@ -757,9 +857,23 @@ Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a
 
-Opinion adopted 27/03/2025 Marketing authorisation issued 26/05/2025
+Opinion adopted 27/03/2025 Marketing authorisation issued 26/05/2025 Revision 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Osvyrti : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (146.67 KB - PDF)
+
+**First published:** 22/12/2025
+
+[View](/en/documents/procedural-steps-after/osvyrti-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -789,7 +903,7 @@ English (EN) (144.63 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 March 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-march-2025) 28/03/2025
 
-**This page was last updated on** 28/07/2025
+**This page was last updated on** 22/12/2025
 
 ## Share this page
 

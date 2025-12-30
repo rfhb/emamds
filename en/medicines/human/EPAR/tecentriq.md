@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:06:14
+document_datetime: 2025-12-29 11:43:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tecentriq.html
 document_name: tecentriq.html
 version: success
-processing_time: 0.1593279
-conversion_datetime: 2025-12-28 02:43:42.794204
+processing_time: 0.1677391
+conversion_datetime: 2025-12-30 03:30:37.356194
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 atezolizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -158,7 +160,7 @@ English (EN) (136.78 KB - PDF)
 
 [View](/en/documents/overview/tecentriq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-994)
+[Other languages (22)](#file-language-dropdown-150)
 
 български (BG) (193.41 KB - PDF)
 
@@ -446,7 +448,7 @@ English (EN) (1.52 MB - PDF)
 
 [View](/en/documents/product-information/tecentriq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-693)
+[Other languages (24)](#file-language-dropdown-438)
 
 български (BG) (2.87 MB - PDF)
 
@@ -762,7 +764,7 @@ English (EN) (15.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tecentriq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-914)
+[Other languages (24)](#file-language-dropdown-70)
 
 български (BG) (37.37 KB - PDF)
 
@@ -1478,7 +1480,7 @@ English (EN) (1.69 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/tecentriq-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-3)
+[Other languages (24)](#file-language-dropdown-853)
 
 български (BG) (2.06 MB - DOCX)
 

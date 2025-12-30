@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 10:56:15
+document_datetime: 2025-12-29 14:58:30
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cerepro.html
 document_name: cerepro.html
 version: success
-processing_time: 0.0704003
-conversion_datetime: 2025-12-28 08:36:33.092657
+processing_time: 0.0717015
+conversion_datetime: 2025-12-30 11:21:03.418283
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +105,7 @@ English (EN) (59.67 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-cerepro_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-309)
+[Other languages (21)](#file-language-dropdown-269)
 
 български (BG) (157.75 KB - PDF)
 

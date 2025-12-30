@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:53:19
+document_datetime: 2025-12-29 13:55:27
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ertapenem-sun.html
 document_name: ertapenem-sun.html
 version: success
-processing_time: 0.1052366
-conversion_datetime: 2025-12-24 21:42:54.436986
+processing_time: 0.1067455
+conversion_datetime: 2025-12-30 01:57:38.275398
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ertapenem Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (167.1 KB - PDF)
 
 [View](/en/documents/overview/ertapenem-sun-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-138)
+[Other languages (22)](#file-language-dropdown-519)
 
 български (BG) (191.04 KB - PDF)
 
@@ -310,7 +312,7 @@ English (EN) (340.08 KB - PDF)
 
 [View](/en/documents/product-information/ertapenem-sun-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-622)
+[Other languages (24)](#file-language-dropdown-281)
 
 български (BG) (447.38 KB - PDF)
 
@@ -624,7 +626,7 @@ English (EN) (40.75 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ertapenem-sun-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-923)
+[Other languages (24)](#file-language-dropdown-7)
 
 български (BG) (54.54 KB - PDF)
 

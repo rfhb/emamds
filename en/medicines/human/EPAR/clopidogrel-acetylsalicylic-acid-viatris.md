@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:29:24
+document_datetime: 2025-12-29 13:13:35
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-acetylsalicylic-acid-viatris.html
 document_name: clopidogrel-acetylsalicylic-acid-viatris.html
 version: success
-processing_time: 0.1295057
-conversion_datetime: 2025-12-24 17:28:04.709657
+processing_time: 0.1407775
+conversion_datetime: 2025-12-30 03:22:33.94085
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 clopidogrel / acetylsalicylic acid Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +105,7 @@ English (EN) (178.91 KB - PDF)
 
 [View](/en/documents/overview/clopidogrel-acetylsalicylic-acid-mylan-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-589)
+[Other languages (22)](#file-language-dropdown-58)
 
 български (BG) (203.95 KB - PDF)
 
@@ -303,7 +305,7 @@ English (EN) (434.35 KB - PDF)
 
 [View](/en/documents/product-information/clopidogrel-acetylsalicylic-acid-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-472)
+[Other languages (24)](#file-language-dropdown-169)
 
 български (BG) (701 KB - PDF)
 
@@ -619,7 +621,7 @@ English (EN) (160.39 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/clopidogrel-acetylsalicylic-acid-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-941)
+[Other languages (24)](#file-language-dropdown-250)
 
 български (BG) (70.4 KB - PDF)
 
@@ -1008,7 +1010,7 @@ English (EN) (139.24 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/clopidogrel-acetylsalicylic-acid-viatris-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (23)](#file-language-dropdown-625)
+[Other languages (23)](#file-language-dropdown-980)
 
 български (BG) (144.9 KB - DOCX)
 
@@ -1208,7 +1210,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

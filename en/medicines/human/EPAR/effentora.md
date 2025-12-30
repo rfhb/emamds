@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:08:14
+document_datetime: 2025-12-29 12:19:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/effentora.html
 document_name: effentora.html
 version: success
-processing_time: 0.133073
-conversion_datetime: 2025-12-28 09:44:20.676358
+processing_time: 0.1341453
+conversion_datetime: 2025-12-30 20:23:03.795099
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 fentanyl Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (121.33 KB - PDF)
 
 [View](/en/documents/overview/effentora-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-579)
+[Other languages (22)](#file-language-dropdown-595)
 
 български (BG) (135.96 KB - PDF)
 
@@ -404,7 +406,7 @@ English (EN) (649.23 KB - PDF)
 
 [View](/en/documents/product-information/effentora-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-340)
+[Other languages (24)](#file-language-dropdown-253)
 
 български (BG) (683.35 KB - PDF)
 
@@ -720,7 +722,7 @@ English (EN) (29.47 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/effentora-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-513)
+[Other languages (21)](#file-language-dropdown-651)
 
 български (BG) (98.44 KB - PDF)
 
@@ -1129,7 +1131,7 @@ English (EN) (204.65 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/effentora-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-459)
+[Other languages (24)](#file-language-dropdown-234)
 
 български (BG) (284.42 KB - DOCX)
 

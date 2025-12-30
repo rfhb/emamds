@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:56:47
+document_datetime: 2025-12-29 11:44:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ellaone.html
 document_name: ellaone.html
 version: success
-processing_time: 0.1328833
-conversion_datetime: 2025-12-24 23:58:39.735342
+processing_time: 0.1348547
+conversion_datetime: 2025-12-30 09:20:51.688649
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ulipristal acetate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (80.06 KB - PDF)
 
 [View](/en/documents/overview/ellaone-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-315)
+[Other languages (22)](#file-language-dropdown-317)
 
 български (BG) (107.11 KB - PDF)
 
@@ -399,7 +401,7 @@ English (EN) (525.06 KB - PDF)
 
 [View](/en/documents/product-information/ellaone-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-831)
+[Other languages (24)](#file-language-dropdown-451)
 
 български (BG) (640.64 KB - PDF)
 
@@ -715,7 +717,7 @@ English (EN) (14.11 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ellaone-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-479)
+[Other languages (24)](#file-language-dropdown-455)
 
 български (BG) (45.52 KB - PDF)
 
@@ -1118,7 +1120,7 @@ English (EN) (58.23 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/ellaone-h-c-1027-a31-0028-epar-scientific-conclusions-and-grounds-variation-terms-marketing-authorisation_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-767)
+[Other languages (22)](#file-language-dropdown-43)
 
 български (BG) (88.09 KB - PDF)
 

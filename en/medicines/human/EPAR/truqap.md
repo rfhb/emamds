@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:35:20
+document_datetime: 2025-12-29 12:03:45
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/truqap.html
 document_name: truqap.html
 version: success
-processing_time: 0.1083122
-conversion_datetime: 2025-12-28 14:05:56.272294
+processing_time: 0.1103225
+conversion_datetime: 2025-12-30 09:56:08.960082
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -26,6 +26,8 @@ This medicine is authorised for use in the European Union
 
 capivasertib Medicine Human Authorised
 
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+
 Page contents
 
 ## Page contents
@@ -36,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Truqap](#news-on)
+- [More information on Truqap](#related-medicines)
 
 - Application under evaluation
 - CHMP opinion
@@ -113,7 +116,7 @@ English (EN) (133.08 KB - PDF)
 
 [View](/en/documents/overview/truqap-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-845)
+[Other languages (22)](#file-language-dropdown-393)
 
 български (BG) (165.69 KB - PDF)
 
@@ -313,7 +316,7 @@ English (EN) (446.27 KB - PDF)
 
 [View](/en/documents/product-information/truqap-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-443)
+[Other languages (24)](#file-language-dropdown-877)
 
 български (BG) (490.72 KB - PDF)
 
@@ -627,7 +630,7 @@ English (EN) (66.09 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/truqap-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-108)
+[Other languages (24)](#file-language-dropdown-626)
 
 български (BG) (73.01 KB - PDF)
 
@@ -908,6 +911,10 @@ English (EN) (143.65 KB - PDF)
 #### News on Truqap
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2024) 26/04/2024
+
+#### More information on Truqap
+
+- [Safety and Effectiveness of Capivasertib with Fulvestrant in Patients with Advanced Breast Cancer and Diabetes - a Multi-country Observational Study using Secondary Real-World Data (CAPIseid) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000805)
 
 **This page was last updated on** 04/11/2025
 

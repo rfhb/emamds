@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 13:14:42
+document_datetime: 2025-12-29 09:09:21
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sunlenca.html
 document_name: sunlenca.html
 version: success
-processing_time: 0.1078066
-conversion_datetime: 2025-12-27 14:45:26.117388
+processing_time: 0.1020665
+conversion_datetime: 2025-12-30 09:37:41.226924
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -104,7 +104,7 @@ English (EN) (119.54 KB - PDF)
 
 [View](/en/documents/overview/sunlenca-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-629)
+[Other languages (22)](#file-language-dropdown-203)
 
 български (BG) (147.48 KB - PDF)
 
@@ -304,7 +304,7 @@ English (EN) (1.57 MB - PDF)
 
 [View](/en/documents/product-information/sunlenca-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-533)
+[Other languages (24)](#file-language-dropdown-650)
 
 български (BG) (1.07 MB - PDF)
 
@@ -618,7 +618,7 @@ English (EN) (87.62 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sunlenca-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-694)
+[Other languages (24)](#file-language-dropdown-648)
 
 български (BG) (95.3 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:16:03
+document_datetime: 2025-12-29 13:22:59
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/amsparity.html
 document_name: amsparity.html
 version: success
-processing_time: 0.1264258
-conversion_datetime: 2025-12-25 08:30:21.727756
+processing_time: 0.12758
+conversion_datetime: 2025-12-30 10:28:48.929383
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 adalimumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -126,7 +128,7 @@ English (EN) (144.47 KB - PDF)
 
 [View](/en/documents/overview/amsparity-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-25)
+[Other languages (22)](#file-language-dropdown-35)
 
 български (BG) (136.15 KB - PDF)
 
@@ -326,7 +328,7 @@ English (EN) (3.32 MB - PDF)
 
 [View](/en/documents/product-information/amsparity-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-890)
+[Other languages (24)](#file-language-dropdown-122)
 
 български (BG) (3.69 MB - PDF)
 
@@ -640,7 +642,7 @@ English (EN) (35.52 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/amsparity-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-293)
+[Other languages (24)](#file-language-dropdown-311)
 
 български (BG) (39.45 KB - PDF)
 
@@ -1017,7 +1019,7 @@ English (EN) (3.22 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/amsparity-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-816)
+[Other languages (24)](#file-language-dropdown-322)
 
 български (BG) (3.36 MB - DOCX)
 

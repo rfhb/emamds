@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:49:54
+document_datetime: 2025-12-29 11:46:55
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cyramza.html
 document_name: cyramza.html
 version: success
-processing_time: 0.109553
-conversion_datetime: 2025-12-29 19:58:37.245039
+processing_time: 0.1111384
+conversion_datetime: 2025-12-30 02:58:55.73088
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ramucirumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -158,7 +160,7 @@ English (EN) (1.4 MB - PDF)
 
 [View](/en/documents/product-information/cyramza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-733)
+[Other languages (24)](#file-language-dropdown-950)
 
 български (BG) (1.27 MB - PDF)
 
@@ -474,7 +476,7 @@ English (EN) (17.2 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cyramza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-831)
+[Other languages (24)](#file-language-dropdown-578)
 
 български (BG) (50.24 KB - PDF)
 

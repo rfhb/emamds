@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:05:47
+document_datetime: 2025-12-29 16:15:25
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/movectro.html
 document_name: movectro.html
 version: success
-processing_time: 0.0509613
-conversion_datetime: 2025-12-28 00:35:28.628316
+processing_time: 0.0523934
+conversion_datetime: 2025-12-30 02:28:57.025874
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-cladribine
+cladribine Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -148,6 +144,10 @@ English (EN) (50.11 KB - PDF)
 Merck Serono Europe Limited withdraws its marketing authorisation application for Movectro (cladribine)
 
 Reference Number: EMA/112512/2011
+
+Summary:
+
+The European Medicines Agency has been formally notified by Merck Serono Europe Limited of its decision to withdraw its application for a centralised marketing authorisation for the medicine Movectro (cladribine), 10 mg tablets.
 
 English (EN) (49.46 KB - PDF)
 

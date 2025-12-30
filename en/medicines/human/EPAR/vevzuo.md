@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:31:24
+document_datetime: 2025-12-29 12:24:48
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vevzuo.html
 document_name: vevzuo.html
 version: success
-processing_time: 0.1083314
-conversion_datetime: 2025-12-24 17:33:42.958178
+processing_time: 0.1072944
+conversion_datetime: 2025-12-30 09:07:31.091528
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 denosumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (123 KB - PDF)
 
 [View](/en/documents/overview/vevzuo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-748)
+[Other languages (22)](#file-language-dropdown-209)
 
 български (BG) (147.76 KB - PDF)
 
@@ -313,7 +315,7 @@ English (EN) (644.14 KB - PDF)
 
 [View](/en/documents/product-information/vevzuo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-191)
+[Other languages (24)](#file-language-dropdown-624)
 
 български (BG) (671.55 KB - PDF)
 
@@ -629,7 +631,7 @@ English (EN) (60.11 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vevzuo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-909)
+[Other languages (24)](#file-language-dropdown-462)
 
 български (BG) (92.45 KB - PDF)
 

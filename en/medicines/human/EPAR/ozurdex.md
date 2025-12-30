@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:57:26
+document_datetime: 2025-12-29 11:46:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ozurdex.html
 document_name: ozurdex.html
 version: success
-processing_time: 0.1197194
-conversion_datetime: 2025-12-26 13:12:09.339355
+processing_time: 0.1218805
+conversion_datetime: 2025-12-30 01:13:33.265263
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 dexamethasone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -128,7 +130,7 @@ English (EN) (92.07 KB - PDF)
 
 [View](/en/documents/overview/ozurdex-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-360)
+[Other languages (22)](#file-language-dropdown-59)
 
 български (BG) (118.31 KB - PDF)
 
@@ -416,7 +418,7 @@ English (EN) (302.94 KB - PDF)
 
 [View](/en/documents/product-information/ozurdex-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-124)
+[Other languages (24)](#file-language-dropdown-25)
 
 български (BG) (394.73 KB - PDF)
 
@@ -742,7 +744,7 @@ English (EN) (27.42 KB - PDF)
 
 [View](/en/documents/conditions-member-states/ozurdex-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-720)
+[Other languages (21)](#file-language-dropdown-628)
 
 български (BG) (141.6 KB - PDF)
 

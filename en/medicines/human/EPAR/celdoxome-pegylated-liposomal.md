@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:10:28
+document_datetime: 2025-12-29 12:21:22
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/celdoxome-pegylated-liposomal.html
 document_name: celdoxome-pegylated-liposomal.html
 version: success
-processing_time: 0.1086187
-conversion_datetime: 2025-12-27 20:19:15.765714
+processing_time: 0.1126027
+conversion_datetime: 2025-12-30 02:19:20.606364
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has lapsed
 
 doxorubicin hydrochloride Medicine Human Lapsed
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -69,7 +71,7 @@ English (EN) (131.43 KB - PDF)
 
 [View](/en/documents/overview/celdoxome-pegylated-liposomal-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-809)
+[Other languages (22)](#file-language-dropdown-178)
 
 български (BG) (184.06 KB - PDF)
 
@@ -357,7 +359,7 @@ English (EN) (278.79 KB - PDF)
 
 [View](/en/documents/product-information/celdoxome-pegylated-liposomal-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-572)
+[Other languages (24)](#file-language-dropdown-274)
 
 български (BG) (494.88 KB - PDF)
 
@@ -673,7 +675,7 @@ English (EN) (82.01 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/celdoxome-pegylated-liposomal-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-959)
+[Other languages (24)](#file-language-dropdown-969)
 
 български (BG) (103.91 KB - PDF)
 

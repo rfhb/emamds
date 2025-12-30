@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:48:45
+document_datetime: 2025-12-29 08:00:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/semglee.html
 document_name: semglee.html
 version: success
-processing_time: 0.1106875
-conversion_datetime: 2025-12-24 22:08:21.856171
+processing_time: 0.1130402
+conversion_datetime: 2025-12-30 03:23:59.842294
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin glargine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +107,7 @@ English (EN) (105.93 KB - PDF)
 
 [View](/en/documents/overview/semglee-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-315)
+[Other languages (22)](#file-language-dropdown-636)
 
 български (BG) (100.35 KB - PDF)
 
@@ -391,7 +393,7 @@ English (EN) (727.76 KB - PDF)
 
 [View](/en/documents/product-information/semglee-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-873)
+[Other languages (24)](#file-language-dropdown-337)
 
 български (BG) (1001.08 KB - PDF)
 
@@ -707,7 +709,7 @@ English (EN) (17.69 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/semglee-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-271)
+[Other languages (24)](#file-language-dropdown-627)
 
 български (BG) (88.61 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:01:08
+document_datetime: 2025-12-29 11:23:35
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eurneffy.html
 document_name: eurneffy.html
 version: success
-processing_time: 0.1057362
-conversion_datetime: 2025-12-27 22:51:04.895476
+processing_time: 0.1299254
+conversion_datetime: 2025-12-30 22:55:14.380308
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -26,6 +26,8 @@ This medicine is authorised for use in the European Union
 
 epinephrine Medicine Human Authorised
 
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+
 Page contents
 
 ## Page contents
@@ -36,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Eurneffy](#news-on)
+- [More information on Eurneffy](#related-medicines)
 
 - Application under evaluation
 - CHMP opinion
@@ -103,7 +106,7 @@ English (EN) (100.14 KB - PDF)
 
 [View](/en/documents/overview/eurneffy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-798)
+[Other languages (22)](#file-language-dropdown-222)
 
 български (BG) (123.91 KB - PDF)
 
@@ -301,7 +304,7 @@ English (EN) (783.74 KB - PDF)
 
 [View](/en/documents/product-information/eurneffy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-529)
+[Other languages (24)](#file-language-dropdown-702)
 
 български (BG) (831.07 KB - PDF)
 
@@ -375,7 +378,7 @@ eesti keel (ET) (793.45 KB - PDF)
 
 [View](/et/documents/product-information/eurneffy-epar-product-information_et.pdf)
 
-ελληνικά (EL) (893.55 KB - PDF)
+ελληνικά (EL) (862.62 KB - PDF)
 
 **First published:**
 
@@ -383,7 +386,7 @@ eesti keel (ET) (793.45 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/12/2025
 
 [View](/el/documents/product-information/eurneffy-epar-product-information_el.pdf)
 
@@ -483,7 +486,7 @@ Malti (MT) (849.39 KB - PDF)
 
 [View](/mt/documents/product-information/eurneffy-epar-product-information_mt.pdf)
 
-Nederlands (NL) (799.52 KB - PDF)
+Nederlands (NL) (846.75 KB - PDF)
 
 **First published:**
 
@@ -491,7 +494,7 @@ Nederlands (NL) (799.52 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/12/2025
 
 [View](/nl/documents/product-information/eurneffy-epar-product-information_nl.pdf)
 
@@ -615,7 +618,7 @@ English (EN) (73.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/eurneffy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-427)
+[Other languages (24)](#file-language-dropdown-560)
 
 български (BG) (33.23 KB - PDF)
 
@@ -888,6 +891,10 @@ English (EN) (98.97 KB - PDF)
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2024) 28/06/2024
 
 [First nasal adrenaline spray for emergency treatment against allergic reactions](/en/news/first-nasal-adrenaline-spray-emergency-treatment-against-allergic-reactions) 28/06/2024
+
+#### More information on Eurneffy
+
+- [EMA/PE/0000221076 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000221076)
 
 **This page was last updated on** 27/03/2025
 

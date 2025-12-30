@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:26:04
+document_datetime: 2025-12-29 09:23:21
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/thalidomide-lipomed.html
 document_name: thalidomide-lipomed.html
 version: success
-processing_time: 0.1196349
-conversion_datetime: 2025-12-26 10:02:18.961456
+processing_time: 0.1209748
+conversion_datetime: 2025-12-30 20:01:52.909072
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 thalidomide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (145.66 KB - PDF)
 
 [View](/en/documents/overview/thalidomide-lipomed-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-408)
+[Other languages (22)](#file-language-dropdown-267)
 
 български (BG) (173.81 KB - PDF)
 
@@ -315,7 +317,7 @@ English (EN) (306.84 KB - PDF)
 
 [View](/en/documents/product-information/thalidomide-lipomed-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-148)
+[Other languages (24)](#file-language-dropdown-531)
 
 български (BG) (611.22 KB - PDF)
 
@@ -629,7 +631,7 @@ English (EN) (46.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/thalidomide-lipomed-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-875)
+[Other languages (24)](#file-language-dropdown-100)
 
 български (BG) (55.31 KB - PDF)
 
@@ -831,7 +833,7 @@ English (EN) (119.68 KB - PDF)
 
 [View](/en/documents/conditions-member-states/thalidomide-lipomed-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-685)
+[Other languages (25)](#file-language-dropdown-475)
 
 български (BG) (192.07 KB - PDF)
 

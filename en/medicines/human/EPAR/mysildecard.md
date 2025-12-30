@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-09 23:24:01
+document_datetime: 2025-12-29 08:23:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mysildecard.html
 document_name: mysildecard.html
 version: success
-processing_time: 0.1281885
-conversion_datetime: 2025-12-25 02:55:52.781624
+processing_time: 0.1301742
+conversion_datetime: 2025-12-30 09:24:12.016141
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sildenafil Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +107,7 @@ English (EN) (86.18 KB - PDF)
 
 [View](/en/documents/overview/mysildecard-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-899)
+[Other languages (22)](#file-language-dropdown-149)
 
 български (BG) (119.77 KB - PDF)
 
@@ -391,7 +393,7 @@ English (EN) (442.66 KB - PDF)
 
 [View](/en/documents/product-information/mysildecard-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-163)
+[Other languages (24)](#file-language-dropdown-754)
 
 български (BG) (555.68 KB - PDF)
 
@@ -707,7 +709,7 @@ English (EN) (42.32 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mysildecard-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-385)
+[Other languages (24)](#file-language-dropdown-100)
 
 български (BG) (48.89 KB - PDF)
 
@@ -1099,7 +1101,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-517)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

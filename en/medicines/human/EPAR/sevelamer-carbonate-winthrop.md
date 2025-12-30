@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:23:41
+document_datetime: 2025-12-29 11:30:24
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sevelamer-carbonate-winthrop.html
 document_name: sevelamer-carbonate-winthrop.html
 version: success
-processing_time: 0.3711587
-conversion_datetime: 2025-12-25 00:00:31.395397
+processing_time: 0.1063112
+conversion_datetime: 2025-12-30 01:30:58.51207
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sevelamer carbonate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (81.62 KB - PDF)
 
 [View](/en/documents/overview/sevelamer-carbonate-winthrop-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-190)
+[Other languages (22)](#file-language-dropdown-642)
 
 български (BG) (111.01 KB - PDF)
 
@@ -385,7 +387,7 @@ English (EN) (705.58 KB - PDF)
 
 [View](/en/documents/product-information/sevelamer-carbonate-winthrop-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-817)
+[Other languages (24)](#file-language-dropdown-616)
 
 български (BG) (680.07 KB - PDF)
 
@@ -701,7 +703,7 @@ English (EN) (10.19 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sevelamer-carbonate-winthrop-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-281)
+[Other languages (24)](#file-language-dropdown-310)
 
 български (BG) (34.32 KB - PDF)
 

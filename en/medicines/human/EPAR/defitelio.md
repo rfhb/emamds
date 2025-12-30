@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:32:50
+document_datetime: 2025-12-29 09:29:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/defitelio.html
 document_name: defitelio.html
 version: success
-processing_time: 0.1178187
-conversion_datetime: 2025-12-27 09:50:21.642382
+processing_time: 0.1153639
+conversion_datetime: 2025-12-30 20:09:02.965654
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 defibrotide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (116.94 KB - PDF)
 
 [View](/en/documents/overview/defitelio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-893)
+[Other languages (22)](#file-language-dropdown-541)
 
 български (BG) (141.8 KB - PDF)
 
@@ -398,7 +400,7 @@ English (EN) (345.44 KB - PDF)
 
 [View](/en/documents/product-information/defitelio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-911)
+[Other languages (24)](#file-language-dropdown-907)
 
 български (BG) (440.35 KB - PDF)
 
@@ -714,7 +716,7 @@ English (EN) (20.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/defitelio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-478)
+[Other languages (24)](#file-language-dropdown-708)
 
 български (BG) (41.49 KB - PDF)
 

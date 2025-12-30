@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 10:35:36
+document_datetime: 2025-12-29 09:36:11
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tepmetko.html
 document_name: tepmetko.html
 version: success
-processing_time: 0.0787409
-conversion_datetime: 2025-12-24 08:09:00.219471
+processing_time: 0.1018348
+conversion_datetime: 2025-12-30 21:39:36.786993
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-tepotinib
+tepotinib Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +106,7 @@ English (EN) (119.86 KB - PDF)
 
 [View](/en/documents/overview/tepmetko-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-689)
+[Other languages (22)](#file-language-dropdown-377)
 
 български (BG) (157.42 KB - PDF)
 
@@ -308,7 +304,7 @@ English (EN) (265.29 KB - PDF)
 
 [View](/en/documents/product-information/tepmetko-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-630)
+[Other languages (24)](#file-language-dropdown-244)
 
 български (BG) (330.48 KB - PDF)
 
@@ -622,7 +618,7 @@ English (EN) (8.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tepmetko-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-570)
+[Other languages (24)](#file-language-dropdown-573)
 
 български (BG) (31.3 KB - PDF)
 

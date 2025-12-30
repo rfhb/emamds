@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:49:55
+document_datetime: 2025-12-29 11:39:29
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/norvir.html
 document_name: norvir.html
 version: success
-processing_time: 0.1260965
-conversion_datetime: 2025-12-23 23:44:15.946869
+processing_time: 0.115413
+conversion_datetime: 2025-12-30 20:09:46.864414
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ritonavir Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (183.75 KB - PDF)
 
 [View](/en/documents/overview/norvir-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-617)
+[Other languages (22)](#file-language-dropdown-939)
 
 български (BG) (203.55 KB - PDF)
 
@@ -385,7 +387,7 @@ English (EN) (781.92 KB - PDF)
 
 [View](/en/documents/product-information/norvir-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-457)
+[Other languages (24)](#file-language-dropdown-258)
 
 български (BG) (1015.13 KB - PDF)
 
@@ -701,7 +703,7 @@ English (EN) (29.97 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/norvir-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-275)
+[Other languages (24)](#file-language-dropdown-117)
 
 български (BG) (32.75 KB - PDF)
 

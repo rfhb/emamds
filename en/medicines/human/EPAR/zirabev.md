@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:09:31
+document_datetime: 2025-12-29 09:37:07
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zirabev.html
 document_name: zirabev.html
 version: success
-processing_time: 0.120591
-conversion_datetime: 2025-12-27 16:25:16.386485
+processing_time: 0.1255255
+conversion_datetime: 2025-12-30 02:33:43.594061
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bevacizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +122,7 @@ English (EN) (148.1 KB - PDF)
 
 [View](/en/documents/overview/zirabev-epar-medicine-overview_en.pdf)
 
-[Other languages (19)](#file-language-dropdown-788)
+[Other languages (19)](#file-language-dropdown-919)
 
 български (BG) (174.07 KB - PDF)
 
@@ -370,7 +372,7 @@ English (EN) (448.7 KB - PDF)
 
 [View](/en/documents/product-information/zirabev-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-393)
+[Other languages (24)](#file-language-dropdown-668)
 
 български (BG) (481.6 KB - PDF)
 
@@ -684,7 +686,7 @@ English (EN) (35.75 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zirabev-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-395)
+[Other languages (24)](#file-language-dropdown-732)
 
 български (BG) (43.45 KB - PDF)
 
@@ -1010,7 +1012,7 @@ English (EN) (280.62 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/zirabev-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-635)
+[Other languages (24)](#file-language-dropdown-188)
 
 български (BG) (309.97 KB - DOCX)
 

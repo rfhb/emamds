@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 08:01:29
+document_datetime: 2025-12-29 13:33:15
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/atosiban-sun.html
 document_name: atosiban-sun.html
 version: success
-processing_time: 0.1132916
-conversion_datetime: 2025-12-23 23:05:51.449117
+processing_time: 0.1278866
+conversion_datetime: 2025-12-30 08:14:02.796149
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-atosiban
+atosiban Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +107,7 @@ English (EN) (77.27 KB - PDF)
 
 [View](/en/documents/overview/atosiban-sun-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-687)
+[Other languages (22)](#file-language-dropdown-804)
 
 български (BG) (130.28 KB - PDF)
 
@@ -389,7 +385,7 @@ English (EN) (445.71 KB - PDF)
 
 [View](/en/documents/product-information/atosiban-sun-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-724)
+[Other languages (24)](#file-language-dropdown-676)
 
 български (BG) (597.29 KB - PDF)
 
@@ -705,7 +701,7 @@ English (EN) (18.25 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/atosiban-sun-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-862)
+[Other languages (24)](#file-language-dropdown-588)
 
 български (BG) (40.29 KB - PDF)
 
@@ -1096,7 +1092,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-44)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

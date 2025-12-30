@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:01
+document_datetime: 2025-12-29 08:45:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pioglitazone-ratiopharm.html
 document_name: pioglitazone-ratiopharm.html
 version: success
-processing_time: 0.0835262
-conversion_datetime: 2025-12-25 01:19:53.185836
+processing_time: 0.0846934
+conversion_datetime: 2025-12-30 19:54:16.348696
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-pioglitazone
+pioglitazone Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +100,7 @@ English (EN) (55.52 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-pioglitazone-ratiopharm_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-62)
+[Other languages (21)](#file-language-dropdown-491)
 
 български (BG) (151.07 KB - PDF)
 
@@ -416,7 +412,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-44)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

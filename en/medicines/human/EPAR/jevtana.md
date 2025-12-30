@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:23:54
+document_datetime: 2025-12-29 13:46:12
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jevtana.html
 document_name: jevtana.html
 version: success
-processing_time: 0.1307775
-conversion_datetime: 2025-12-27 21:22:14.18327
+processing_time: 0.1231815
+conversion_datetime: 2025-12-30 11:58:09.497032
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 cabazitaxel Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (78.05 KB - PDF)
 
 [View](/en/documents/overview/jevtana-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-934)
+[Other languages (22)](#file-language-dropdown-124)
 
 български (BG) (101.56 KB - PDF)
 
@@ -394,7 +396,7 @@ English (EN) (989.32 KB - PDF)
 
 [View](/en/documents/product-information/jevtana-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-169)
+[Other languages (24)](#file-language-dropdown-807)
 
 български (BG) (1.02 MB - PDF)
 
@@ -710,7 +712,7 @@ English (EN) (14.27 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/jevtana-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-939)
+[Other languages (24)](#file-language-dropdown-259)
 
 български (BG) (83.45 KB - PDF)
 
@@ -1124,7 +1126,7 @@ English (EN) (1.17 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/jevtana-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-928)
+[Other languages (24)](#file-language-dropdown-749)
 
 български (BG) (1.68 MB - DOC)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 11:03:38
+document_datetime: 2025-12-29 09:26:11
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vyxeos-liposomal.html
 document_name: vyxeos-liposomal.html
 version: success
-processing_time: 0.1121488
-conversion_datetime: 2025-12-25 07:05:09.717305
+processing_time: 0.1431467
+conversion_datetime: 2025-12-30 13:01:58.71126
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-daunorubicin / cytarabine
+daunorubicin / cytarabine Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +108,7 @@ English (EN) (118.26 KB - PDF)
 
 [View](/en/documents/overview/vyxeos-liposomal-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-577)
+[Other languages (22)](#file-language-dropdown-19)
 
 български (BG) (143.35 KB - PDF)
 
@@ -398,7 +394,7 @@ English (EN) (386.51 KB - PDF)
 
 [View](/en/documents/product-information/vyxeos-liposomal-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-675)
+[Other languages (24)](#file-language-dropdown-405)
 
 български (BG) (549.07 KB - PDF)
 
@@ -714,7 +710,7 @@ English (EN) (36.52 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vyxeos-liposomal-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-229)
+[Other languages (24)](#file-language-dropdown-697)
 
 български (BG) (38.99 KB - PDF)
 

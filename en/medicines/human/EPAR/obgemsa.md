@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:40:55
+document_datetime: 2025-12-29 11:52:30
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/obgemsa.html
 document_name: obgemsa.html
 version: success
-processing_time: 0.4483635
-conversion_datetime: 2025-12-28 09:56:35.339214
+processing_time: 0.1042317
+conversion_datetime: 2025-12-30 02:57:00.942737
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -26,6 +26,8 @@ This medicine is authorised for use in the European Union
 
 vibegron Medicine Human Authorised
 
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+
 Page contents
 
 ## Page contents
@@ -36,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Obgemsa](#news-on)
+- [More information on Obgemsa](#related-medicines)
 
 - Application under evaluation
 - CHMP opinion
@@ -93,7 +96,7 @@ English (EN) (100.9 KB - PDF)
 
 [View](/en/documents/overview/obgemsa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-383)
+[Other languages (22)](#file-language-dropdown-298)
 
 български (BG) (124.13 KB - PDF)
 
@@ -291,7 +294,7 @@ English (EN) (338.51 KB - PDF)
 
 [View](/en/documents/product-information/obgemsa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-282)
+[Other languages (24)](#file-language-dropdown-237)
 
 български (BG) (484.33 KB - PDF)
 
@@ -605,7 +608,7 @@ English (EN) (153.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/obgemsa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-7)
+[Other languages (24)](#file-language-dropdown-926)
 
 български (BG) (95.49 KB - PDF)
 
@@ -873,6 +876,10 @@ English (EN) (92.79 KB - PDF)
 #### News on Obgemsa
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2024) 26/04/2024
+
+#### More information on Obgemsa
+
+- [EMA/PE/0000221175 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000221175)
 
 **This page was last updated on** 08/07/2025
 

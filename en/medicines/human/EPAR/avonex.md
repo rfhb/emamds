@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:42:52
+document_datetime: 2025-12-29 07:36:44
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/avonex.html
 document_name: avonex.html
 version: success
-processing_time: 0.1127465
-conversion_datetime: 2025-12-27 13:13:23.740995
+processing_time: 0.113476
+conversion_datetime: 2025-12-30 12:22:51.826628
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 interferon beta-1a Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (146.58 KB - PDF)
 
 [View](/en/documents/overview/avonex-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-166)
+[Other languages (22)](#file-language-dropdown-966)
 
 български (BG) (170.42 KB - PDF)
 
@@ -391,7 +393,7 @@ English (EN) (706.86 KB - PDF)
 
 [View](/en/documents/product-information/avonex-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-877)
+[Other languages (24)](#file-language-dropdown-175)
 
 български (BG) (870.77 KB - PDF)
 
@@ -707,7 +709,7 @@ English (EN) (20.14 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/avonex-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-991)
+[Other languages (24)](#file-language-dropdown-192)
 
 български (BG) (47.84 KB - PDF)
 

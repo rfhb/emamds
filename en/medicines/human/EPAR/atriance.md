@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:07:58
+document_datetime: 2025-12-29 12:04:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/atriance.html
 document_name: atriance.html
 version: success
-processing_time: 0.1137786
-conversion_datetime: 2025-12-28 11:54:04.433059
+processing_time: 0.1128476
+conversion_datetime: 2025-12-30 01:03:34.49885
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 nelarabine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +116,7 @@ English (EN) (123.14 KB - PDF)
 
 [View](/en/documents/overview/atriance-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-257)
+[Other languages (22)](#file-language-dropdown-626)
 
 български (BG) (136.37 KB - PDF)
 
@@ -400,7 +402,7 @@ English (EN) (469.13 KB - PDF)
 
 [View](/en/documents/product-information/atriance-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-203)
+[Other languages (24)](#file-language-dropdown-87)
 
 български (BG) (469.44 KB - PDF)
 
@@ -716,7 +718,7 @@ English (EN) (166.92 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/atriance-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-479)
+[Other languages (24)](#file-language-dropdown-360)
 
 български (BG) (175.37 KB - PDF)
 

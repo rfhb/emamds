@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:51:38
+document_datetime: 2025-12-29 12:14:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/voranigo.html
 document_name: voranigo.html
 version: success
-processing_time: 0.1007805
-conversion_datetime: 2025-12-27 14:08:37.447088
+processing_time: 0.1045697
+conversion_datetime: 2025-12-30 09:44:16.530036
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 vorasidenib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (95.21 KB - PDF)
 
 [View](/en/documents/overview/voranigo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-238)
+[Other languages (22)](#file-language-dropdown-887)
 
 български (BG) (117.77 KB - PDF)
 
@@ -306,7 +308,7 @@ English (EN) (445.38 KB - PDF)
 
 [View](/en/documents/product-information/voranigo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-999)
+[Other languages (24)](#file-language-dropdown-975)
 
 български (BG) (559.53 KB - PDF)
 
@@ -524,7 +526,7 @@ English (EN) (49.23 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/voranigo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-214)
+[Other languages (24)](#file-language-dropdown-106)
 
 български (BG) (66.96 KB - PDF)
 

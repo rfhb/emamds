@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:34:12
+document_datetime: 2025-12-29 14:35:55
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/airexar-spiromax.html
 document_name: airexar-spiromax.html
 version: success
-processing_time: 0.1166575
-conversion_datetime: 2025-12-24 03:25:06.533626
+processing_time: 0.1070828
+conversion_datetime: 2025-12-30 07:50:16.364358
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 salmeterol xinafoate / fluticasone propionate Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -61,7 +63,7 @@ English (EN) (238.39 KB - PDF)
 
 [View](/en/documents/overview/airexar-spiromax-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-783)
+[Other languages (22)](#file-language-dropdown-198)
 
 български (BG) (293.22 KB - PDF)
 
@@ -339,7 +341,7 @@ English (EN) (902.84 KB - PDF)
 
 [View](/en/documents/product-information/airexar-spiromax-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-124)
+[Other languages (24)](#file-language-dropdown-811)
 
 български (BG) (1.72 MB - PDF)
 
@@ -655,7 +657,7 @@ English (EN) (172.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/airexar-spiromax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-427)
+[Other languages (24)](#file-language-dropdown-882)
 
 български (BG) (179.61 KB - PDF)
 

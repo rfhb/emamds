@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 11:51:11
+document_datetime: 2025-12-29 11:16:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/methylthioninium-chloride-proveblue.html
 document_name: methylthioninium-chloride-proveblue.html
 version: success
-processing_time: 0.1158629
-conversion_datetime: 2025-12-28 18:01:38.924386
+processing_time: 0.11532
+conversion_datetime: 2025-12-30 10:54:46.436032
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -116,7 +116,7 @@ English (EN) (85.19 KB - PDF)
 
 [View](/en/documents/overview/methylthioninium-chloride-proveblue-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-591)
+[Other languages (22)](#file-language-dropdown-653)
 
 български (BG) (111.6 KB - PDF)
 
@@ -402,7 +402,7 @@ English (EN) (447.19 KB - PDF)
 
 [View](/en/documents/product-information/methylthioninium-chloride-proveblue-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-297)
+[Other languages (24)](#file-language-dropdown-442)
 
 български (BG) (539.34 KB - PDF)
 
@@ -718,7 +718,7 @@ English (EN) (28.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/methylthioninium-chloride-proveblue-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-831)
+[Other languages (24)](#file-language-dropdown-963)
 
 български (BG) (45.12 KB - PDF)
 

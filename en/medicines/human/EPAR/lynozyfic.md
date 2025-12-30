@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:04:48
+document_datetime: 2025-12-29 11:31:14
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lynozyfic.html
 document_name: lynozyfic.html
 version: success
-processing_time: 0.1041794
-conversion_datetime: 2025-12-29 21:43:48.519015
+processing_time: 0.107514
+conversion_datetime: 2025-12-30 09:53:20.270195
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

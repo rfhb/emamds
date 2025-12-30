@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:09:24
+document_datetime: 2025-12-29 13:54:30
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/elebrato-ellipta.html
 document_name: elebrato-ellipta.html
 version: success
-processing_time: 0.1192191
-conversion_datetime: 2025-12-26 18:55:12.701121
+processing_time: 0.1169225
+conversion_datetime: 2025-12-30 08:00:20.490104
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 fluticasone furoate / umeclidinium / vilanterol Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (70.11 KB - PDF)
 
 [View](/en/documents/overview/elebrato-ellipta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-139)
+[Other languages (22)](#file-language-dropdown-390)
 
 български (BG) (104.88 KB - PDF)
 
@@ -397,7 +399,7 @@ English (EN) (747.35 KB - PDF)
 
 [View](/en/documents/product-information/elebrato-ellipta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-148)
+[Other languages (24)](#file-language-dropdown-146)
 
 български (BG) (859.61 KB - PDF)
 
@@ -713,7 +715,7 @@ English (EN) (32.26 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/elebrato-ellipta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-375)
+[Other languages (24)](#file-language-dropdown-100)
 
 български (BG) (57.36 KB - PDF)
 

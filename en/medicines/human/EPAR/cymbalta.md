@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:01:46
+document_datetime: 2025-12-29 12:04:30
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cymbalta.html
 document_name: cymbalta.html
 version: success
-processing_time: 0.1276442
-conversion_datetime: 2025-12-24 18:18:29.45559
+processing_time: 0.1229104
+conversion_datetime: 2025-12-30 09:23:10.334383
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 duloxetine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -123,7 +125,7 @@ English (EN) (44.51 KB - PDF)
 
 [View](/en/documents/overview/cymbalta-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-49)
+[Other languages (21)](#file-language-dropdown-965)
 
 български (BG) (224.85 KB - PDF)
 
@@ -405,7 +407,7 @@ English (EN) (581.33 KB - PDF)
 
 [View](/en/documents/product-information/cymbalta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-895)
+[Other languages (24)](#file-language-dropdown-461)
 
 български (BG) (751.03 KB - PDF)
 
@@ -721,7 +723,7 @@ English (EN) (16.84 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cymbalta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-7)
+[Other languages (24)](#file-language-dropdown-242)
 
 български (BG) (103.8 KB - PDF)
 
@@ -1041,7 +1043,7 @@ EMA product number EMEA/H/C/000572 Marketing authorisation holder
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83
+Orteliuslaan 1000 3528 BD Utrecht Netherlands
 
 Opinion adopted 16/09/2004 Marketing authorisation issued 17/12/2004 Revision 33
 

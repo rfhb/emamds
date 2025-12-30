@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:52:50
+document_datetime: 2025-12-29 11:56:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ondexxya.html
 document_name: ondexxya.html
 version: success
-processing_time: 0.1094171
-conversion_datetime: 2025-12-24 17:37:51.302185
+processing_time: 0.1084629
+conversion_datetime: 2025-12-30 13:00:59.720694
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 andexanet alfa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (141.61 KB - PDF)
 
 [View](/en/documents/overview/ondexxya-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-673)
+[Other languages (21)](#file-language-dropdown-880)
 
 български (BG) (144.94 KB - PDF)
 
@@ -307,7 +309,7 @@ English (EN) (501.12 KB - PDF)
 
 [View](/en/documents/product-information/ondexxya-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-472)
+[Other languages (24)](#file-language-dropdown-261)
 
 български (BG) (1.38 MB - PDF)
 
@@ -623,7 +625,7 @@ English (EN) (34.99 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ondexxya-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-93)
+[Other languages (24)](#file-language-dropdown-917)
 
 български (BG) (37.32 KB - PDF)
 

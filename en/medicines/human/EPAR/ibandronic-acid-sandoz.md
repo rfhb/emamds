@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 08:05:25
+document_datetime: 2025-12-29 13:56:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ibandronic-acid-sandoz.html
 document_name: ibandronic-acid-sandoz.html
 version: success
-processing_time: 0.104215
-conversion_datetime: 2025-12-23 21:22:18.793409
+processing_time: 0.1255101
+conversion_datetime: 2025-12-30 02:12:33.906196
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-ibandronic acid
+ibandronic acid Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +106,7 @@ English (EN) (79.65 KB - PDF)
 
 [View](/en/documents/overview/ibandronic-acid-sandoz-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-913)
+[Other languages (22)](#file-language-dropdown-484)
 
 български (BG) (107.72 KB - PDF)
 
@@ -388,7 +384,7 @@ English (EN) (192.88 KB - PDF)
 
 [View](/en/documents/product-information/ibandronic-acid-sandoz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-347)
+[Other languages (24)](#file-language-dropdown-255)
 
 български (BG) (246.53 KB - PDF)
 
@@ -704,7 +700,7 @@ English (EN) (26.82 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ibandronic-acid-sandoz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-50)
+[Other languages (23)](#file-language-dropdown-593)
 
 български (BG) (95.25 KB - PDF)
 
@@ -1079,7 +1075,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-44)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

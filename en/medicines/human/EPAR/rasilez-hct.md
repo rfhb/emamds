@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:04:53
+document_datetime: 2025-12-29 07:14:16
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rasilez-hct.html
 document_name: rasilez-hct.html
 version: success
-processing_time: 0.1130816
-conversion_datetime: 2025-12-26 11:04:10.588847
+processing_time: 0.115664
+conversion_datetime: 2025-12-30 11:34:33.437483
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-aliskiren / hydrochlorothiazide
+aliskiren / hydrochlorothiazide Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (696.64 KB - PDF)
 
 [View](/en/documents/overview/rasilez-hct-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-665)
+[Other languages (22)](#file-language-dropdown-216)
 
 български (BG) (768.25 KB - PDF)
 
@@ -345,7 +341,7 @@ English (EN) (1.65 MB - PDF)
 
 [View](/en/documents/product-information/rasilez-hct-epar-product-information_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-513)
+[Other languages (20)](#file-language-dropdown-532)
 
 български (BG) (4.37 MB - PDF)
 
@@ -613,7 +609,7 @@ English (EN) (887.22 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rasilez-hct-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-692)
+[Other languages (24)](#file-language-dropdown-272)
 
 български (BG) (1021.35 KB - PDF)
 

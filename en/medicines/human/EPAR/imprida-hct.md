@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:24:23
+document_datetime: 2025-12-29 14:34:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imprida-hct.html
 document_name: imprida-hct.html
 version: success
-processing_time: 0.1032844
-conversion_datetime: 2025-12-27 14:44:50.551276
+processing_time: 0.1039788
+conversion_datetime: 2025-12-30 22:54:55.975276
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has lapsed
 
 amlodipine / valsartan / hydrochlorothiazide Medicine Human Lapsed
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -63,7 +65,7 @@ English (EN) (288.49 KB - PDF)
 
 [View](/en/documents/overview/imprida-hct-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-681)
+[Other languages (21)](#file-language-dropdown-220)
 
 български (BG) (457.79 KB - PDF)
 
@@ -329,7 +331,7 @@ English (EN) (4.04 MB - PDF)
 
 [View](/en/documents/product-information/imprida-hct-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-86)
+[Other languages (23)](#file-language-dropdown-41)
 
 български (BG) (8.15 MB - PDF)
 
@@ -633,7 +635,7 @@ English (EN) (20.74 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imprida-hct-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-610)
+[Other languages (21)](#file-language-dropdown-400)
 
 български (BG) (396.01 KB - PDF)
 

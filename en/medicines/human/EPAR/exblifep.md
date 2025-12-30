@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:57:53
+document_datetime: 2025-12-29 14:07:37
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/exblifep.html
 document_name: exblifep.html
 version: success
-processing_time: 0.1035444
-conversion_datetime: 2025-12-27 20:10:12.545719
+processing_time: 0.1064339
+conversion_datetime: 2025-12-30 01:28:57.062064
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 cefepime / enmetazobactam Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (125.04 KB - PDF)
 
 [View](/en/documents/overview/exblifep-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-921)
+[Other languages (22)](#file-language-dropdown-342)
 
 български (BG) (169.49 KB - PDF)
 
@@ -313,7 +315,7 @@ English (EN) (420.74 KB - PDF)
 
 [View](/en/documents/product-information/exblifep-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-386)
+[Other languages (24)](#file-language-dropdown-646)
 
 български (BG) (505.79 KB - PDF)
 
@@ -627,7 +629,7 @@ English (EN) (39.92 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/exblifep-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-414)
+[Other languages (24)](#file-language-dropdown-979)
 
 български (BG) (52.22 KB - PDF)
 

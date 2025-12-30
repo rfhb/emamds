@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:05:07
+document_datetime: 2025-12-29 07:03:14
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/uptravi.html
 document_name: uptravi.html
 version: success
-processing_time: 0.1341976
-conversion_datetime: 2025-12-28 09:12:54.333093
+processing_time: 0.1338194
+conversion_datetime: 2025-12-30 03:18:24.96412
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 selexipag Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (86.9 KB - PDF)
 
 [View](/en/documents/overview/uptravi-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-655)
+[Other languages (22)](#file-language-dropdown-637)
 
 български (BG) (113.34 KB - PDF)
 
@@ -403,7 +405,7 @@ English (EN) (2.98 MB - PDF)
 
 [View](/en/documents/product-information/uptravi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-698)
+[Other languages (24)](#file-language-dropdown-155)
 
 български (BG) (2.39 MB - PDF)
 
@@ -719,7 +721,7 @@ English (EN) (53.72 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/uptravi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-512)
+[Other languages (24)](#file-language-dropdown-506)
 
 български (BG) (54.69 KB - PDF)
 
@@ -1153,7 +1155,7 @@ English (EN) (353.84 KB - PDF)
 
 [View](/en/documents/medication-error/uptravi-educational-brochure-healthcare-professionals-and-diary-patients_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-559)
+[Other languages (22)](#file-language-dropdown-975)
 
 български (BG) (338.26 KB - PDF)
 
@@ -1426,8 +1428,8 @@ This product is no longer an orphan medicine. It was originally designated [an o
 #### More information on Uptravi
 
 - [EMEA-000997-PIP01-10-M07 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000997-pip01-10-m07)
+- [Post-authorisation safety study (PASS): observational cohort study of PAH patients newly treated with either UPTRAVI (selexipag) or any other PAH-specific therapy, in clinical practice (EXPOSURE) - post-authorisation study](https://catalogues.ema.europa.eu/study/48403)
 - [Implementation of controlled access to and distribution of medicinal products in European Union (CONTROL-EU) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000313)
-- [Post-authorisation safety study (PASS): observational cohort study of PAH patients newly treated with either Uptravi (selexipag) or any other PAH-specific therapy, in clinical practice (EXPOSURE) - post-authorisation study](https://catalogues.ema.europa.eu/study/48403)
 - [Post-authorisation safety study (PASS) to evaluate risk minimisation measures for medication errors with Uptravi during the titration phase in patients with pulmonary arterial hypertension (PAH) in clinical practice (EDUCATE) - post-authorisation study](https://catalogues.ema.europa.eu/study/47541)
 - [Post-authorisation Safety Study (PASS): Retrospective Medical Chart Review of Patients with PAH Newly Treated With Either Uptravi® (selexipag) or any Other PAH-specific Therapy (EXTRACT) - post-authorisation study](https://catalogues.ema.europa.eu/study/103768)
 

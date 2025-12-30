@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:40:10
+document_datetime: 2025-12-29 14:36:18
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/azacitidine-accord.html
 document_name: azacitidine-accord.html
 version: success
-processing_time: 0.1377352
-conversion_datetime: 2025-12-24 03:02:57.070215
+processing_time: 0.1312538
+conversion_datetime: 2025-12-30 10:42:56.724348
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 azacitidine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (172.12 KB - PDF)
 
 [View](/en/documents/overview/azacitidine-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-830)
+[Other languages (22)](#file-language-dropdown-786)
 
 български (BG) (196.21 KB - PDF)
 
@@ -308,7 +310,7 @@ English (EN) (641.88 KB - PDF)
 
 [View](/en/documents/product-information/azacitidine-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-740)
+[Other languages (24)](#file-language-dropdown-888)
 
 български (BG) (1.24 MB - PDF)
 
@@ -624,7 +626,7 @@ English (EN) (79.69 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/azacitidine-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-133)
+[Other languages (24)](#file-language-dropdown-148)
 
 български (BG) (93.97 KB - PDF)
 
@@ -1040,7 +1042,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

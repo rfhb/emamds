@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:47:59
+document_datetime: 2025-12-29 08:28:58
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/prepandemic-influenza-vaccine-h5n1-surface-antigen-inactivated-adjuvanted-novartis-vaccines-diagnostics.html
 document_name: prepandemic-influenza-vaccine-h5n1-surface-antigen-inactivated-adjuvanted-novartis-vaccines-diagnostics.html
 version: success
-processing_time: 0.080867
-conversion_datetime: 2025-12-24 19:48:28.426505
+processing_time: 0.1061773
+conversion_datetime: 2025-12-30 10:51:51.198798
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has expired
 
 prepandemic influenza vaccine (H5N1) (surface antigen, inactivated, adjuvanted) Medicine Human Expired
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +66,7 @@ English (EN) (204.04 KB - PDF)
 
 [View](/en/documents/overview/prepandemic-influenza-vaccine-h5n1-surface-antigen-inactivated-adjuvanted-novartis-vaccines-and-diagnostics-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-20)
+[Other languages (21)](#file-language-dropdown-603)
 
 български (BG) (359.19 KB - PDF)
 
@@ -330,7 +332,7 @@ English (EN) (469.74 KB - PDF)
 
 [View](/en/documents/product-information/prepandemic-influenza-vaccine-h5n1-surface-antigen-inactivated-adjuvanted-novartis-vaccines-and-diagnostics-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-483)
+[Other languages (24)](#file-language-dropdown-730)
 
 български (BG) (965.94 KB - PDF)
 
@@ -646,7 +648,7 @@ English (EN) (144.99 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/prepandemic-influenza-vaccine-h5n1-surface-antigen-inactivated-adjuvanted-novartis-vaccines-and-diagnostics-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-628)
+[Other languages (21)](#file-language-dropdown-730)
 
 български (BG) (238.92 KB - PDF)
 

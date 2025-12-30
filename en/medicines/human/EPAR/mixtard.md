@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:03:52
+document_datetime: 2025-12-29 10:37:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mixtard.html
 document_name: mixtard.html
 version: success
-processing_time: 0.1090424
-conversion_datetime: 2025-12-28 00:01:29.879135
+processing_time: 0.614318
+conversion_datetime: 2025-12-30 12:00:06.546709
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin human (rDNA) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +116,7 @@ English (EN) (81.06 KB - PDF)
 
 [View](/en/documents/overview/mixtard-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-768)
+[Other languages (21)](#file-language-dropdown-877)
 
 български (BG) (120.45 KB - PDF)
 
@@ -390,7 +392,7 @@ English (EN) (955.35 KB - PDF)
 
 [View](/en/documents/product-information/mixtard-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-776)
+[Other languages (24)](#file-language-dropdown-595)
 
 български (BG) (1.1 MB - PDF)
 
@@ -706,7 +708,7 @@ English (EN) (82.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mixtard-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-793)
+[Other languages (24)](#file-language-dropdown-514)
 
 български (BG) (95.33 KB - PDF)
 

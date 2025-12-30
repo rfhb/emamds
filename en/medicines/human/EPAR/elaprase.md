@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:37:07
+document_datetime: 2025-12-29 13:29:35
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/elaprase.html
 document_name: elaprase.html
 version: success
-processing_time: 0.3760137
-conversion_datetime: 2025-12-25 02:54:48.879102
+processing_time: 0.1145134
+conversion_datetime: 2025-12-30 09:39:01.275794
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 idursulfase Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -124,7 +126,7 @@ English (EN) (102.2 KB - PDF)
 
 [View](/en/documents/overview/elaprase-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-552)
+[Other languages (22)](#file-language-dropdown-816)
 
 български (BG) (109.85 KB - PDF)
 
@@ -402,7 +404,7 @@ English (EN) (250.84 KB - PDF)
 
 [View](/en/documents/product-information/elaprase-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-572)
+[Other languages (24)](#file-language-dropdown-549)
 
 български (BG) (323.11 KB - PDF)
 
@@ -718,7 +720,7 @@ English (EN) (17.22 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/elaprase-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-845)
+[Other languages (24)](#file-language-dropdown-388)
 
 български (BG) (77.79 KB - PDF)
 

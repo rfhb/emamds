@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:21:57
+document_datetime: 2025-12-29 11:36:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sildenafil-fgk.html
 document_name: sildenafil-fgk.html
 version: success
-processing_time: 0.0606534
-conversion_datetime: 2025-12-28 14:26:53.244925
+processing_time: 0.0614678
+conversion_datetime: 2025-12-30 21:09:12.901143
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-sildenafil
+sildenafil Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -99,7 +95,7 @@ English (EN) (115.35 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-application-marketing-authorisation-sildenafil-fgk-sildenafil_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-551)
+[Other languages (22)](#file-language-dropdown-584)
 
 български (BG) (119.12 KB - PDF)
 

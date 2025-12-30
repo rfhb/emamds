@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:52:21
+document_datetime: 2025-12-29 13:37:30
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tadalafil-mylan.html
 document_name: tadalafil-mylan.html
 version: success
-processing_time: 0.1623299
-conversion_datetime: 2025-12-24 07:16:17.670844
+processing_time: 0.1488186
+conversion_datetime: 2025-12-30 22:50:09.883439
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tadalafil Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (92.82 KB - PDF)
 
 [View](/en/documents/overview/tadalafil-mylan-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-698)
+[Other languages (22)](#file-language-dropdown-396)
 
 български (BG) (120.25 KB - PDF)
 
@@ -398,7 +400,7 @@ English (EN) (390.58 KB - PDF)
 
 [View](/en/documents/product-information/tadalafil-mylan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-572)
+[Other languages (24)](#file-language-dropdown-50)
 
 български (BG) (933.88 KB - PDF)
 
@@ -714,7 +716,7 @@ English (EN) (32.28 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tadalafil-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-856)
+[Other languages (24)](#file-language-dropdown-460)
 
 български (BG) (28.5 KB - PDF)
 
@@ -1078,7 +1080,7 @@ English (EN) (36.59 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/tadalafil-mylan-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-457)
+[Other languages (22)](#file-language-dropdown-168)
 
 български (BG) (72.03 KB - PDF)
 
@@ -1396,7 +1398,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

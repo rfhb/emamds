@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:55:57
+document_datetime: 2025-12-29 09:23:26
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trecondi.html
 document_name: trecondi.html
 version: success
-processing_time: 0.1074591
-conversion_datetime: 2025-12-27 17:09:30.018191
+processing_time: 0.1124471
+conversion_datetime: 2025-12-30 08:22:29.026
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 treosulfan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +122,7 @@ English (EN) (119.86 KB - PDF)
 
 [View](/en/documents/overview/trecondi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-648)
+[Other languages (22)](#file-language-dropdown-90)
 
 български (BG) (145.32 KB - PDF)
 
@@ -408,7 +410,7 @@ English (EN) (337.92 KB - PDF)
 
 [View](/en/documents/product-information/trecondi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-745)
+[Other languages (24)](#file-language-dropdown-331)
 
 български (BG) (537.63 KB - PDF)
 
@@ -722,7 +724,7 @@ English (EN) (14.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/trecondi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-82)
+[Other languages (24)](#file-language-dropdown-59)
 
 български (BG) (36.33 KB - PDF)
 

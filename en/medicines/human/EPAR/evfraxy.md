@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:32:37
+document_datetime: 2025-12-29 13:33:44
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/evfraxy.html
 document_name: evfraxy.html
 version: success
-processing_time: 0.1028566
-conversion_datetime: 2025-12-27 10:07:21.618086
+processing_time: 0.1037584
+conversion_datetime: 2025-12-30 02:34:50.699988
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 denosumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (211.13 KB - PDF)
 
 [View](/en/documents/overview/evfraxy-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-526)
+[Other languages (22)](#file-language-dropdown-908)
 
 български (BG) (236.43 KB - PDF)
 
@@ -309,7 +311,7 @@ English (EN) (806.28 KB - PDF)
 
 [View](/en/documents/product-information/evfraxy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-764)
+[Other languages (24)](#file-language-dropdown-943)
 
 български (BG) (1.02 MB - PDF)
 
@@ -527,7 +529,7 @@ English (EN) (82.13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/evfraxy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-450)
+[Other languages (24)](#file-language-dropdown-614)
 
 български (BG) (88.41 KB - PDF)
 

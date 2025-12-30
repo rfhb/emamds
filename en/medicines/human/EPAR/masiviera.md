@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:05:56
+document_datetime: 2025-12-29 08:38:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/masiviera.html
 document_name: masiviera.html
 version: success
-processing_time: 0.0682391
-conversion_datetime: 2025-12-28 00:00:43.567903
+processing_time: 0.0666982
+conversion_datetime: 2025-12-30 08:02:11.212389
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine has been refused authorisation
 
-masitinib
+masitinib Medicine Human Refused
 
-Medicine
-
-Human
-
-Refused
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +99,7 @@ English (EN) (66.7 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-refusal-marketing-authorisation-masiviera_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-119)
 
 български (BG) (92.59 KB - PDF)
 

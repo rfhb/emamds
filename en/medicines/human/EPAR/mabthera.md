@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:01:49
+document_datetime: 2025-12-29 11:05:11
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mabthera.html
 document_name: mabthera.html
 version: success
-processing_time: 0.1487745
-conversion_datetime: 2025-12-29 21:55:26.487755
+processing_time: 0.1423222
+conversion_datetime: 2025-12-30 01:18:50.426458
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

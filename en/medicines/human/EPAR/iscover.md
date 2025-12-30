@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:01:47
+document_datetime: 2025-12-29 13:50:06
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/iscover.html
 document_name: iscover.html
 version: success
-processing_time: 0.1347449
-conversion_datetime: 2025-12-24 14:23:29.311714
+processing_time: 0.1393025
+conversion_datetime: 2025-12-30 20:45:18.120342
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 clopidogrel Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (116.8 KB - PDF)
 
 [View](/en/documents/overview/iscover-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-484)
+[Other languages (22)](#file-language-dropdown-324)
 
 български (BG) (128.88 KB - PDF)
 
@@ -406,7 +408,7 @@ English (EN) (419.22 KB - PDF)
 
 [View](/en/documents/product-information/iscover-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-649)
+[Other languages (24)](#file-language-dropdown-185)
 
 български (BG) (590.06 KB - PDF)
 
@@ -722,7 +724,7 @@ English (EN) (36.39 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/iscover-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-315)
+[Other languages (24)](#file-language-dropdown-889)
 
 български (BG) (81.58 KB - PDF)
 
@@ -1223,7 +1225,7 @@ English (EN) (169.83 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/iscover-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-481)
+[Other languages (24)](#file-language-dropdown-638)
 
 български (BG) (191.88 KB - DOCX)
 

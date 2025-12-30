@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:15:07
+document_datetime: 2025-12-29 09:23:24
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tigecycline-accord.html
 document_name: tigecycline-accord.html
 version: success
-processing_time: 0.1383281
-conversion_datetime: 2025-12-25 10:09:25.517984
+processing_time: 0.138834
+conversion_datetime: 2025-12-30 09:07:13.366158
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tigecycline Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +106,7 @@ English (EN) (145.5 KB - PDF)
 
 [View](/en/documents/overview/tigecycline-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-685)
+[Other languages (22)](#file-language-dropdown-809)
 
 български (BG) (170.06 KB - PDF)
 
@@ -302,7 +304,7 @@ English (EN) (368.29 KB - PDF)
 
 [View](/en/documents/product-information/tigecycline-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-626)
+[Other languages (24)](#file-language-dropdown-273)
 
 български (BG) (531 KB - PDF)
 
@@ -616,7 +618,7 @@ English (EN) (27.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tigecycline-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-39)
+[Other languages (24)](#file-language-dropdown-492)
 
 български (BG) (51.1 KB - PDF)
 
@@ -924,7 +926,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1202,7 +1204,7 @@ English (EN) (124 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/tigecycline-accord-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-345)
+[Other languages (24)](#file-language-dropdown-762)
 
 български (BG) (121.58 KB - DOCX)
 

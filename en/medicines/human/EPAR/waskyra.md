@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:51:06
+document_datetime: 2025-12-29 09:57:38
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/waskyra.html
 document_name: waskyra.html
 version: success
-processing_time: 0.0419812
-conversion_datetime: 2025-12-28 17:33:37.582145
+processing_time: 0.0441354
+conversion_datetime: 2025-12-30 09:00:13.306243
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 EMA has issued an opinion on this medicine
 
 autologous CD34+ haematopoietic stem cells transduced ex vivo with a lentiviral vector encoding human Wiskott-Aldrich syndrome protein Medicine Human Opinion
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

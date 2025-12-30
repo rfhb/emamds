@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:17:10
+document_datetime: 2025-12-29 07:06:18
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/potactasol.html
 document_name: potactasol.html
 version: success
-processing_time: 0.1274363
-conversion_datetime: 2025-12-29 19:18:15.408502
+processing_time: 0.122526
+conversion_datetime: 2025-12-30 11:58:44.958301
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 topotecan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (80.31 KB - PDF)
 
 [View](/en/documents/overview/potactasol-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-539)
+[Other languages (22)](#file-language-dropdown-614)
 
 български (BG) (108.51 KB - PDF)
 
@@ -387,7 +389,7 @@ English (EN) (398 KB - PDF)
 
 [View](/en/documents/product-information/potactasol-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-863)
+[Other languages (24)](#file-language-dropdown-675)
 
 български (BG) (551.06 KB - PDF)
 
@@ -703,7 +705,7 @@ English (EN) (21.76 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/potactasol-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-10)
+[Other languages (21)](#file-language-dropdown-988)
 
 български (BG) (93.14 KB - PDF)
 
@@ -1050,7 +1052,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

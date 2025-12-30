@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:02:30
+document_datetime: 2025-12-29 12:12:39
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/reagila.html
 document_name: reagila.html
 version: success
-processing_time: 0.1099225
-conversion_datetime: 2025-12-29 19:54:54.351256
+processing_time: 0.1132972
+conversion_datetime: 2025-12-30 03:02:23.282909
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-cariprazine
+cariprazine Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +115,7 @@ English (EN) (76.51 KB - PDF)
 
 [View](/en/documents/overview/reagila-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-43)
+[Other languages (22)](#file-language-dropdown-514)
 
 български (BG) (101.49 KB - PDF)
 
@@ -415,7 +411,7 @@ English (EN) (641.46 KB - PDF)
 
 [View](/en/documents/product-information/reagila-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-773)
+[Other languages (24)](#file-language-dropdown-647)
 
 български (BG) (773.95 KB - PDF)
 
@@ -731,7 +727,7 @@ English (EN) (47.47 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/reagila-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-70)
+[Other languages (21)](#file-language-dropdown-298)
 
 español (ES) (51.62 KB - PDF)
 

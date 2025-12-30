@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:31:28
+document_datetime: 2025-12-29 09:36:49
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vydura.html
 document_name: vydura.html
 version: success
-processing_time: 0.1105429
-conversion_datetime: 2025-12-29 20:49:29.600721
+processing_time: 0.1086718
+conversion_datetime: 2025-12-30 02:03:20.116345
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

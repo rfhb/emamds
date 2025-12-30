@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:35:01
+document_datetime: 2025-12-29 11:52:58
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/duvyzat.html
 document_name: duvyzat.html
 version: success
-processing_time: 0.106557
-conversion_datetime: 2025-12-27 18:23:48.31019
+processing_time: 0.1063424
+conversion_datetime: 2025-12-30 21:26:54.852166
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 givinostat Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (112.47 KB - PDF)
 
 [View](/en/documents/overview/duvyzat-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-340)
+[Other languages (22)](#file-language-dropdown-87)
 
 български (BG) (135.89 KB - PDF)
 
@@ -310,7 +312,7 @@ English (EN) (624.4 KB - PDF)
 
 [View](/en/documents/product-information/duvyzat-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-633)
+[Other languages (24)](#file-language-dropdown-220)
 
 български (BG) (755.6 KB - PDF)
 
@@ -624,7 +626,7 @@ English (EN) (44.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/duvyzat-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-928)
+[Other languages (24)](#file-language-dropdown-373)
 
 български (BG) (53.02 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:05:54
+document_datetime: 2025-12-29 14:36:51
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-teva-pharma-bv.html
 document_name: clopidogrel-teva-pharma-bv.html
 version: success
-processing_time: 0.1069419
-conversion_datetime: 2025-12-25 10:55:30.356889
+processing_time: 0.1047937
+conversion_datetime: 2025-12-30 08:08:19.543527
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-clopidogrel
+clopidogrel Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (540.03 KB - PDF)
 
 [View](/en/documents/overview/clopidogrel-teva-pharma-bv-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-442)
+[Other languages (21)](#file-language-dropdown-248)
 
 български (BG) (705.18 KB - PDF)
 
@@ -332,7 +328,7 @@ English (EN) (770.74 KB - PDF)
 
 [View](/en/documents/product-information/clopidogrel-teva-pharma-bv-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-258)
+[Other languages (24)](#file-language-dropdown-691)
 
 български (BG) (1.39 MB - PDF)
 
@@ -648,7 +644,7 @@ English (EN) (501.33 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/clopidogrel-teva-pharma-bv-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-989)
+[Other languages (23)](#file-language-dropdown-314)
 
 български (BG) (554.8 KB - PDF)
 

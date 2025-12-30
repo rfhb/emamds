@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:19:53
+document_datetime: 2025-12-29 11:31:18
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/byooviz.html
 document_name: byooviz.html
 version: success
-processing_time: 0.1264252
-conversion_datetime: 2025-12-29 22:15:40.878751
+processing_time: 0.1257708
+conversion_datetime: 2025-12-30 01:52:52.541224
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:53:15
+document_datetime: 2025-12-29 12:27:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/oxlumo.html
 document_name: oxlumo.html
 version: success
-processing_time: 0.0935343
-conversion_datetime: 2025-12-27 21:10:01.272107
+processing_time: 0.0947021
+conversion_datetime: 2025-12-30 10:15:56.609334
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lumasiran Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -128,7 +130,7 @@ English (EN) (522.08 KB - PDF)
 
 [View](/en/documents/product-information/oxlumo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-547)
+[Other languages (24)](#file-language-dropdown-668)
 
 български (BG) (634.17 KB - PDF)
 
@@ -442,7 +444,7 @@ English (EN) (46.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/oxlumo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-916)
+[Other languages (24)](#file-language-dropdown-8)
 
 български (BG) (62.35 KB - PDF)
 

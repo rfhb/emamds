@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:26:23
+document_datetime: 2025-12-29 11:49:59
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/alimta.html
 document_name: alimta.html
 version: success
-processing_time: 0.1220013
-conversion_datetime: 2025-12-27 21:05:33.519802
+processing_time: 0.1234527
+conversion_datetime: 2025-12-30 22:53:30.684777
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pemetrexed Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +124,7 @@ English (EN) (55.82 KB - PDF)
 
 [View](/en/documents/overview/alimta-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-695)
+[Other languages (21)](#file-language-dropdown-608)
 
 български (BG) (96.95 KB - PDF)
 
@@ -388,7 +390,7 @@ English (EN) (609.76 KB - PDF)
 
 [View](/en/documents/product-information/alimta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-107)
+[Other languages (24)](#file-language-dropdown-878)
 
 български (BG) (876.21 KB - PDF)
 
@@ -704,7 +706,7 @@ English (EN) (18.31 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/alimta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-441)
+[Other languages (23)](#file-language-dropdown-403)
 
 български (BG) (53.81 KB - PDF)
 
@@ -1015,7 +1017,7 @@ EMA product number EMEA/H/C/000564 Marketing authorisation holder
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83
+Orteliuslaan 1000 3528 BD Utrecht Netherlands
 
 Marketing authorisation issued 20/09/2004 Revision 28
 

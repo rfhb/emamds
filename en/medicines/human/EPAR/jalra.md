@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:54:07
+document_datetime: 2025-12-29 07:08:55
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jalra.html
 document_name: jalra.html
 version: success
-processing_time: 0.118249
-conversion_datetime: 2025-12-27 16:44:13.098932
+processing_time: 0.1201443
+conversion_datetime: 2025-12-30 19:53:41.658
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 vildagliptin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (148.63 KB - PDF)
 
 [View](/en/documents/overview/jalra-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-682)
+[Other languages (22)](#file-language-dropdown-925)
 
 български (BG) (169.22 KB - PDF)
 
@@ -393,7 +395,7 @@ English (EN) (331.58 KB - PDF)
 
 [View](/en/documents/product-information/jalra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-150)
+[Other languages (24)](#file-language-dropdown-415)
 
 български (BG) (435.44 KB - PDF)
 
@@ -709,7 +711,7 @@ English (EN) (20.06 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/jalra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-401)
+[Other languages (21)](#file-language-dropdown-866)
 
 български (BG) (87.59 KB - PDF)
 

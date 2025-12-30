@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-17 23:29:14
+document_datetime: 2025-12-29 12:14:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kimmtrak.html
 document_name: kimmtrak.html
 version: success
-processing_time: 0.1177136
-conversion_datetime: 2025-12-24 05:21:42.689889
+processing_time: 0.1100209
+conversion_datetime: 2025-12-30 09:06:29.346586
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tebentafusp Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (121.9 KB - PDF)
 
 [View](/en/documents/overview/kimmtrak-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-552)
+[Other languages (22)](#file-language-dropdown-500)
 
 български (BG) (147.98 KB - PDF)
 
@@ -304,7 +306,7 @@ English (EN) (590.9 KB - PDF)
 
 [View](/en/documents/product-information/kimmtrak-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-793)
+[Other languages (24)](#file-language-dropdown-31)
 
 български (BG) (654.54 KB - PDF)
 
@@ -618,7 +620,7 @@ English (EN) (44.26 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kimmtrak-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-536)
+[Other languages (24)](#file-language-dropdown-276)
 
 български (BG) (61.19 KB - PDF)
 

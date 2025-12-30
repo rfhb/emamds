@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:39:36
+document_datetime: 2025-12-29 14:35:44
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bortezomib-accord.html
 document_name: bortezomib-accord.html
 version: success
-processing_time: 0.1313315
-conversion_datetime: 2025-12-28 19:27:00.248756
+processing_time: 0.1342409
+conversion_datetime: 2025-12-30 03:22:25.014854
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bortezomib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -138,7 +140,7 @@ English (EN) (1.09 MB - PDF)
 
 [View](/en/documents/product-information/bortezomib-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-66)
+[Other languages (24)](#file-language-dropdown-457)
 
 български (BG) (1.4 MB - PDF)
 
@@ -454,7 +456,7 @@ English (EN) (50.77 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bortezomib-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-377)
+[Other languages (24)](#file-language-dropdown-948)
 
 български (BG) (59.64 KB - PDF)
 
@@ -874,7 +876,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1152,7 +1154,7 @@ English (EN) (314.19 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/bortezomib-accord-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-312)
+[Other languages (24)](#file-language-dropdown-986)
 
 български (BG) (380.53 KB - DOCX)
 

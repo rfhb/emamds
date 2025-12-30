@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:36:43
+document_datetime: 2025-12-29 12:16:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ulipristal-acetate-gedeon-richter.html
 document_name: ulipristal-acetate-gedeon-richter.html
 version: success
-processing_time: 0.1431752
-conversion_datetime: 2025-12-24 14:58:17.568899
+processing_time: 0.1531795
+conversion_datetime: 2025-12-30 11:04:36.322295
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 ulipristal acetate Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -62,7 +64,7 @@ English (EN) (721.33 KB - PDF)
 
 [View](/en/documents/overview/ulipristal-acetate-gedeon-richter-epar-medicine-overview_en.pdf-0)
 
-[Other languages (22)](#file-language-dropdown-137)
+[Other languages (22)](#file-language-dropdown-225)
 
 български (BG) (805.8 KB - PDF)
 
@@ -338,7 +340,7 @@ English (EN) (721.33 KB - PDF)
 
 [View](/en/documents/overview/ulipristal-acetate-gedeon-richter-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-797)
+[Other languages (22)](#file-language-dropdown-425)
 
 български (BG) (805.8 KB - PDF)
 
@@ -626,7 +628,7 @@ English (EN) (1.01 MB - PDF)
 
 [View](/en/documents/product-information/ulipristal-acetate-gedeon-richter-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-288)
+[Other languages (24)](#file-language-dropdown-602)
 
 български (BG) (1.87 MB - PDF)
 
@@ -942,7 +944,7 @@ English (EN) (597.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ulipristal-acetate-gedeon-richter-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-202)
+[Other languages (24)](#file-language-dropdown-448)
 
 български (BG) (640.72 KB - PDF)
 
@@ -1298,7 +1300,7 @@ English (EN) (742.71 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/ulipristal-acetate-gedeon-richter-epar-scientific-conclusions-annex-iv_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-876)
+[Other languages (24)](#file-language-dropdown-906)
 
 български (BG) (1.16 MB - PDF)
 

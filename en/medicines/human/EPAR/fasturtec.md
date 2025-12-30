@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:21:21
+document_datetime: 2025-12-29 11:31:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fasturtec.html
 document_name: fasturtec.html
 version: success
-processing_time: 0.1042348
-conversion_datetime: 2025-12-28 05:13:40.967835
+processing_time: 0.1135958
+conversion_datetime: 2025-12-30 08:02:20.031972
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 rasburicase Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (97.86 KB - PDF)
 
 [View](/en/documents/overview/fasturtec-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-120)
+[Other languages (21)](#file-language-dropdown-536)
 
 български (BG) (107.62 KB - PDF)
 
@@ -378,7 +380,7 @@ English (EN) (377.67 KB - PDF)
 
 [View](/en/documents/product-information/fasturtec-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-853)
+[Other languages (24)](#file-language-dropdown-333)
 
 български (BG) (593.58 KB - PDF)
 
@@ -694,7 +696,7 @@ English (EN) (47.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fasturtec-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-695)
+[Other languages (24)](#file-language-dropdown-549)
 
 български (BG) (54.65 KB - PDF)
 

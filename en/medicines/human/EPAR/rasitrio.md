@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:00
+document_datetime: 2025-12-29 07:15:05
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rasitrio.html
 document_name: rasitrio.html
 version: success
-processing_time: 0.1071542
-conversion_datetime: 2025-12-25 04:26:12.478412
+processing_time: 0.1090763
+conversion_datetime: 2025-12-30 03:25:46.272669
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-aliskiren / amlodipine / hydrochlorothiazide
+aliskiren / amlodipine / hydrochlorothiazide Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -65,7 +61,7 @@ English (EN) (546.37 KB - PDF)
 
 [View](/en/documents/overview/rasitrio-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-626)
+[Other languages (21)](#file-language-dropdown-661)
 
 български (BG) (625.38 KB - PDF)
 
@@ -331,7 +327,7 @@ English (EN) (4.55 MB - PDF)
 
 [View](/en/documents/product-information/rasitrio-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-212)
+[Other languages (23)](#file-language-dropdown-773)
 
 български (BG) (10.89 MB - PDF)
 
@@ -635,7 +631,7 @@ English (EN) (492.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rasitrio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-781)
+[Other languages (21)](#file-language-dropdown-942)
 
 български (BG) (608.24 KB - PDF)
 

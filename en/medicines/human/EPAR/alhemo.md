@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:58:32
+document_datetime: 2025-12-29 11:35:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/alhemo.html
 document_name: alhemo.html
 version: success
-processing_time: 0.1104918
-conversion_datetime: 2025-12-24 21:12:30.405026
+processing_time: 0.1104017
+conversion_datetime: 2025-12-30 22:01:49.352776
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 concizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -123,7 +125,7 @@ English (EN) (132.05 KB - PDF)
 
 [View](/en/documents/overview/alhemo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-508)
+[Other languages (22)](#file-language-dropdown-642)
 
 български (BG) (156.83 KB - PDF)
 
@@ -411,7 +413,7 @@ English (EN) (804.65 KB - PDF)
 
 [View](/en/documents/product-information/alhemo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-962)
+[Other languages (24)](#file-language-dropdown-197)
 
 български (BG) (1.04 MB - PDF)
 
@@ -725,7 +727,7 @@ English (EN) (20.91 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/alhemo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-375)
+[Other languages (24)](#file-language-dropdown-331)
 
 български (BG) (48.81 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:53:11
+document_datetime: 2025-12-29 13:59:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tenkasi.html
 document_name: tenkasi.html
 version: success
-processing_time: 0.1178027
-conversion_datetime: 2025-12-26 20:22:42.041062
+processing_time: 0.1602204
+conversion_datetime: 2025-12-30 12:52:01.805987
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 oritavancin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (148.5 KB - PDF)
 
 [View](/en/documents/overview/tenkasi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-898)
+[Other languages (22)](#file-language-dropdown-226)
 
 български (BG) (221.33 KB - PDF)
 
@@ -397,7 +399,7 @@ English (EN) (461.54 KB - PDF)
 
 [View](/en/documents/product-information/tenkasi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-720)
+[Other languages (24)](#file-language-dropdown-52)
 
 български (BG) (671.06 KB - PDF)
 
@@ -713,7 +715,7 @@ English (EN) (16.2 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tenkasi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-794)
+[Other languages (24)](#file-language-dropdown-728)
 
 български (BG) (62.86 KB - PDF)
 

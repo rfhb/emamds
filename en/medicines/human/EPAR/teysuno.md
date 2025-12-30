@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:19
+document_datetime: 2025-12-29 07:24:15
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/teysuno.html
 document_name: teysuno.html
 version: success
-processing_time: 0.134982
-conversion_datetime: 2025-12-26 21:04:58.590166
+processing_time: 0.1359502
+conversion_datetime: 2025-12-30 07:57:33.953822
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tegafur / gimeracil / oteracil Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -134,7 +136,7 @@ English (EN) (150.76 KB - PDF)
 
 [View](/en/documents/overview/teysuno-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-833)
+[Other languages (22)](#file-language-dropdown-682)
 
 български (BG) (164.83 KB - PDF)
 
@@ -412,7 +414,7 @@ English (EN) (735.41 KB - PDF)
 
 [View](/en/documents/product-information/teysuno-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-565)
+[Other languages (24)](#file-language-dropdown-414)
 
 български (BG) (890.78 KB - PDF)
 
@@ -728,7 +730,7 @@ English (EN) (22.33 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/teysuno-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-981)
+[Other languages (23)](#file-language-dropdown-272)
 
 български (BG) (57.93 KB - PDF)
 
@@ -1114,7 +1116,7 @@ English (EN) (153.51 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/teysuno-h-c-1242-a31-0040-epar-scientific-conclusions_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-224)
+[Other languages (24)](#file-language-dropdown-709)
 
 български (BG) (153.84 KB - PDF)
 

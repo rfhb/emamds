@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-06 05:21:00
+document_datetime: 2025-12-29 12:11:06
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/verzenios.html
 document_name: verzenios.html
 version: success
-processing_time: 0.1205342
-conversion_datetime: 2025-12-24 07:37:06.006883
+processing_time: 0.1190165
+conversion_datetime: 2025-12-30 09:50:21.233
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 abemaciclib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +121,7 @@ English (EN) (109.63 KB - PDF)
 
 [View](/en/documents/overview/verzenios-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-762)
+[Other languages (22)](#file-language-dropdown-526)
 
 български (BG) (135.2 KB - PDF)
 
@@ -407,7 +409,7 @@ English (EN) (1.55 MB - PDF)
 
 [View](/en/documents/product-information/verzenios-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-245)
+[Other languages (24)](#file-language-dropdown-18)
 
 български (BG) (1.44 MB - PDF)
 
@@ -723,7 +725,7 @@ English (EN) (26.18 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/verzenios-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-101)
+[Other languages (24)](#file-language-dropdown-728)
 
 български (BG) (67.38 KB - PDF)
 
@@ -1041,7 +1043,7 @@ EMA product number EMEA/H/C/004302 Marketing authorisation holder
 
 Eli Lilly Nederland B.V.
 
-Papendorpseweg 83
+Orteliuslaan 1000 3528 BD Utrecht Netherlands
 
 Opinion adopted 25/07/2018 Marketing authorisation issued 26/09/2018 Revision 16
 

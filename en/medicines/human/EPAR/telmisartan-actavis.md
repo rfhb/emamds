@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:53:01
+document_datetime: 2025-12-29 13:10:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/telmisartan-actavis.html
 document_name: telmisartan-actavis.html
 version: success
-processing_time: 0.1452438
-conversion_datetime: 2025-12-27 17:02:58.911023
+processing_time: 0.1472312
+conversion_datetime: 2025-12-30 09:36:22.384377
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 telmisartan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +106,7 @@ English (EN) (70.58 KB - PDF)
 
 [View](/en/documents/overview/telmisartan-actavis-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-312)
+[Other languages (22)](#file-language-dropdown-486)
 
 български (BG) (109.45 KB - PDF)
 
@@ -382,7 +384,7 @@ English (EN) (699.42 KB - PDF)
 
 [View](/en/documents/product-information/telmisartan-actavis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-934)
+[Other languages (24)](#file-language-dropdown-940)
 
 български (BG) (804.95 KB - PDF)
 
@@ -698,7 +700,7 @@ English (EN) (28.13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/telmisartan-actavis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-138)
+[Other languages (24)](#file-language-dropdown-274)
 
 български (BG) (41.72 KB - PDF)
 
@@ -1061,7 +1063,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/telmisartan-actavis-h-c-1168-a31-0007-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-pr_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-914)
+[Other languages (22)](#file-language-dropdown-643)
 
 български (BG) (87.49 KB - PDF)
 
@@ -1403,7 +1405,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

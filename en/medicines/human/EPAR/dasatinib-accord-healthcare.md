@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:01:01
+document_datetime: 2025-12-29 12:25:22
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dasatinib-accord-healthcare.html
 document_name: dasatinib-accord-healthcare.html
 version: success
-processing_time: 0.121711
-conversion_datetime: 2025-12-26 11:44:59.27721
+processing_time: 0.4263706
+conversion_datetime: 2025-12-30 10:53:30.789134
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 dasatinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (161.76 KB - PDF)
 
 [View](/en/documents/overview/dasatinib-accord-healthcare-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-696)
+[Other languages (22)](#file-language-dropdown-586)
 
 български (BG) (176.94 KB - PDF)
 
@@ -309,7 +311,7 @@ English (EN) (594.28 KB - PDF)
 
 [View](/en/documents/product-information/dasatinib-accord-healthcare-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-665)
+[Other languages (24)](#file-language-dropdown-870)
 
 български (BG) (750.33 KB - PDF)
 
@@ -625,7 +627,7 @@ English (EN) (40.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/dasatinib-accord-healthcare-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-512)
+[Other languages (24)](#file-language-dropdown-705)
 
 български (BG) (74.98 KB - PDF)
 
@@ -1015,7 +1017,7 @@ English (EN) (334.84 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/dasatinib-accord-healthcare-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-320)
+[Other languages (24)](#file-language-dropdown-33)
 
 български (BG) (271.62 KB - DOCX)
 

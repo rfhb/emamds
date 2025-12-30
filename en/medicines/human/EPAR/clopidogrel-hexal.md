@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:06:20
+document_datetime: 2025-12-29 14:34:49
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-hexal.html
 document_name: clopidogrel-hexal.html
 version: success
-processing_time: 0.1043813
-conversion_datetime: 2025-12-26 09:42:24.311394
+processing_time: 0.1053317
+conversion_datetime: 2025-12-30 03:18:07.157907
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-clopidogrel
+clopidogrel Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (261.73 KB - PDF)
 
 [View](/en/documents/overview/clopidogrel-hexal-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-468)
+[Other languages (21)](#file-language-dropdown-586)
 
 български (BG) (426.38 KB - PDF)
 
@@ -333,7 +329,7 @@ English (EN) (452.75 KB - PDF)
 
 [View](/en/documents/product-information/clopidogrel-hexal-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-745)
+[Other languages (23)](#file-language-dropdown-878)
 
 български (BG) (1.15 MB - PDF)
 
@@ -637,7 +633,7 @@ English (EN) (224.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/clopidogrel-hexal-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-880)
+[Other languages (21)](#file-language-dropdown-34)
 
 български (BG) (310.49 KB - PDF)
 

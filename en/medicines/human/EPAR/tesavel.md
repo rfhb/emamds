@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-09 23:12:24
+document_datetime: 2025-12-29 11:43:34
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tesavel.html
 document_name: tesavel.html
 version: success
-processing_time: 0.1233535
-conversion_datetime: 2025-12-26 09:07:54.861801
+processing_time: 0.1235118
+conversion_datetime: 2025-12-30 01:31:07.336369
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sitagliptin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +123,7 @@ English (EN) (56.72 KB - PDF)
 
 [View](/en/documents/overview/tesavel-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-660)
+[Other languages (21)](#file-language-dropdown-685)
 
 български (BG) (103.21 KB - PDF)
 
@@ -395,7 +397,7 @@ English (EN) (342.77 KB - PDF)
 
 [View](/en/documents/product-information/tesavel-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-651)
+[Other languages (24)](#file-language-dropdown-662)
 
 български (BG) (327.19 KB - PDF)
 
@@ -711,7 +713,7 @@ English (EN) (22.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tesavel-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-46)
+[Other languages (24)](#file-language-dropdown-788)
 
 български (BG) (50.68 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:04:58
+document_datetime: 2025-12-29 08:23:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/evicel.html
 document_name: evicel.html
 version: success
-processing_time: 0.1049991
-conversion_datetime: 2025-12-28 18:25:44.957294
+processing_time: 0.0986012
+conversion_datetime: 2025-12-30 10:05:36.23415
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-human fibrinogen / human thrombin
+human fibrinogen / human thrombin Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -69,7 +65,7 @@ English (EN) (170.09 KB - PDF)
 
 [View](/en/documents/overview/evicel-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-384)
+[Other languages (21)](#file-language-dropdown-464)
 
 български (BG) (271.65 KB - PDF)
 
@@ -261,7 +257,7 @@ English (EN) (1.41 MB - PDF)
 
 [View](/en/documents/product-information/evicel-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-865)
+[Other languages (24)](#file-language-dropdown-80)
 
 български (BG) (1.57 MB - PDF)
 
@@ -481,7 +477,7 @@ English (EN) (38.08 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/evicel-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-946)
+[Other languages (21)](#file-language-dropdown-517)
 
 български (BG) (111.91 KB - PDF)
 

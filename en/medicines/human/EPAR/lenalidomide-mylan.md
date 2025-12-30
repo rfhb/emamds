@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:13
+document_datetime: 2025-12-29 11:56:51
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lenalidomide-mylan.html
 document_name: lenalidomide-mylan.html
 version: success
-processing_time: 0.1426197
-conversion_datetime: 2025-12-26 13:26:04.93585
+processing_time: 0.1426295
+conversion_datetime: 2025-12-30 01:22:09.212593
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lenalidomide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (169.87 KB - PDF)
 
 [View](/en/documents/overview/lenalidomide-mylan-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-709)
+[Other languages (22)](#file-language-dropdown-519)
 
 български (BG) (189.96 KB - PDF)
 
@@ -311,7 +313,7 @@ English (EN) (678.89 KB - PDF)
 
 [View](/en/documents/product-information/lenalidomide-mylan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-352)
+[Other languages (24)](#file-language-dropdown-65)
 
 български (BG) (1.11 MB - PDF)
 
@@ -627,7 +629,7 @@ English (EN) (100.22 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lenalidomide-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-935)
+[Other languages (24)](#file-language-dropdown-33)
 
 български (BG) (111.72 KB - PDF)
 
@@ -925,7 +927,7 @@ English (EN) (271.22 KB - PDF)
 
 [View](/en/documents/conditions-member-states/lenalidomide-mylan-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-355)
+[Other languages (24)](#file-language-dropdown-129)
 
 български (BG) (245.94 KB - PDF)
 
@@ -1241,7 +1243,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

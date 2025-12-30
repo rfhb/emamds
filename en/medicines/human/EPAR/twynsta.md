@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:54:53
+document_datetime: 2025-12-29 09:50:21
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/twynsta.html
 document_name: twynsta.html
 version: success
-processing_time: 0.1328647
-conversion_datetime: 2025-12-24 21:09:37.118601
+processing_time: 0.1347705
+conversion_datetime: 2025-12-30 20:21:21.088975
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 telmisartan / amlodipine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +122,7 @@ English (EN) (83.49 KB - PDF)
 
 [View](/en/documents/overview/twynsta-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-507)
+[Other languages (22)](#file-language-dropdown-971)
 
 български (BG) (113.16 KB - PDF)
 
@@ -398,7 +400,7 @@ English (EN) (1.61 MB - PDF)
 
 [View](/en/documents/product-information/twynsta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-200)
+[Other languages (24)](#file-language-dropdown-525)
 
 български (BG) (1.68 MB - PDF)
 
@@ -714,7 +716,7 @@ English (EN) (40.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/twynsta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-968)
+[Other languages (22)](#file-language-dropdown-340)
 
 български (BG) (74.62 KB - PDF)
 
@@ -1056,7 +1058,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/twynsta-h-c-1224-a31-0017-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommend_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-725)
+[Other languages (22)](#file-language-dropdown-197)
 
 български (BG) (87.49 KB - PDF)
 

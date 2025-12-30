@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:16:00
+document_datetime: 2025-12-29 09:43:45
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/giotrif.html
 document_name: giotrif.html
 version: success
-processing_time: 0.1146795
-conversion_datetime: 2025-12-28 08:56:57.640159
+processing_time: 0.1152495
+conversion_datetime: 2025-12-30 11:34:15.607788
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 afatinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (80.92 KB - PDF)
 
 [View](/en/documents/overview/giotrif-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-495)
+[Other languages (22)](#file-language-dropdown-812)
 
 български (BG) (107.16 KB - PDF)
 
@@ -393,7 +395,7 @@ English (EN) (1.07 MB - PDF)
 
 [View](/en/documents/product-information/giotrif-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-57)
+[Other languages (24)](#file-language-dropdown-486)
 
 български (BG) (1.16 MB - PDF)
 
@@ -709,7 +711,7 @@ English (EN) (18.02 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/giotrif-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-145)
+[Other languages (24)](#file-language-dropdown-406)
 
 български (BG) (48.66 KB - PDF)
 
@@ -1121,10 +1123,10 @@ English (EN) (63.61 KB - PDF)
 #### More information on Giotrif
 
 - [EMEA-001596-PIP02-17-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001596-pip02-17-m02)
+- [A regulatory requirement post-marketing surveillance study to monitor the safety and efficacy of GIOTRIF®(afatinib dimaleate, 20mg, 30mg, 40mg, q.d) in Korean patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with Epidermal Growth Factor Receptor (EGFR) mutation(s) (GIOTRIF rPMS in Korean patients with NSCLC) - post-authorisation study](https://catalogues.ema.europa.eu/study/20368)
 - [Japanese REal-world data for treatment of afatinib (GIotrif®) in first-line setting and Subsequent Therapies for patients with advanced EGFR mutation-positive lung adenocarcinoma (J-REGISTER) - post-authorisation study](https://catalogues.ema.europa.eu/study/40323)
 - [A Multicentre, Cohort Study to Assess the Impact on SYMptom Burden and Patient Health-related Quality of Life of Afatinib Treatment in Advanced Non-small Cell Lung Cancer in a Real World Setting in Greece (SYM-Less) - post-authorisation study](https://catalogues.ema.europa.eu/study/46770)
 - [START: Real-world study on sequential therapy with afatinib as first-line treatment in patients with epidermal growth factor receptor (EGFR) mutation-positive advanced non-small cell lung cancer (NSCLC) - post-authorisation study](https://catalogues.ema.europa.eu/study/44236)
-- [A regulatory requirement post-marketing surveillance study to monitor the safety and efficacy of GIOTRIF®(afatinib dimaleate, 20mg, 30mg, 40mg, q.d) in Korean patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with Epidermal Growth Factor Receptor (EGFR) mutation(s) (GIOTRIF rPMS in Korean patients with NSCLC) - post-authorisation study](https://catalogues.ema.europa.eu/study/20368)
 - [Evaluation of the impact of a nurse-led telephone follow-up on treatment compliance of patients treated from a locally advanced or metastatic non-small-cell lung cancer (NSCLC) with activating epidermal growth factor receptor (EGFR) mutation(s).The PARTAGE study. - post-authorisation study](https://catalogues.ema.europa.eu/study/12955)
 
 #### Topics

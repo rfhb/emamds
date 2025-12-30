@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:06:23
+document_datetime: 2025-12-29 12:49:55
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/exubera.html
 document_name: exubera.html
 version: success
-processing_time: 0.1139156
-conversion_datetime: 2025-12-26 13:39:45.70725
+processing_time: 0.1108879
+conversion_datetime: 2025-12-30 01:34:14.534339
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-insulin human
+insulin human Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (258.76 KB - PDF)
 
 [View](/en/documents/overview/exubera-epar-summary-public_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-337)
+[Other languages (18)](#file-language-dropdown-874)
 
 español (ES) (261.68 KB - PDF)
 
@@ -296,7 +292,7 @@ English (EN) (1.32 MB - PDF)
 
 [View](/en/documents/product-information/exubera-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-396)
+[Other languages (21)](#file-language-dropdown-520)
 
 български (BG) (1.32 MB - PDF)
 
@@ -576,7 +572,7 @@ English (EN) (229.77 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/exubera-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-800)
+[Other languages (21)](#file-language-dropdown-426)
 
 български (BG) (353.17 KB - PDF)
 
@@ -840,7 +836,7 @@ English (EN) (227.07 KB - PDF)
 
 [View](/en/documents/conditions-member-states/exubera-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-523)
+[Other languages (18)](#file-language-dropdown-684)
 
 español (ES) (229 KB - PDF)
 

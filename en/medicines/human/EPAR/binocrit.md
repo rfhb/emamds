@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:36:16
+document_datetime: 2025-12-29 13:02:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/binocrit.html
 document_name: binocrit.html
 version: success
-processing_time: 0.1486959
-conversion_datetime: 2025-12-25 11:59:07.965074
+processing_time: 0.1480848
+conversion_datetime: 2025-12-30 22:18:44.398361
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 epoetin alfa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -126,7 +128,7 @@ English (EN) (87.28 KB - PDF)
 
 [View](/en/documents/overview/binocrit-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-510)
+[Other languages (22)](#file-language-dropdown-989)
 
 български (BG) (115.57 KB - PDF)
 
@@ -414,7 +416,7 @@ English (EN) (747.12 KB - PDF)
 
 [View](/en/documents/product-information/binocrit-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-156)
+[Other languages (24)](#file-language-dropdown-258)
 
 български (BG) (1.12 MB - PDF)
 
@@ -730,7 +732,7 @@ English (EN) (57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/binocrit-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-526)
+[Other languages (24)](#file-language-dropdown-807)
 
 български (BG) (97.61 KB - PDF)
 
@@ -1030,7 +1032,7 @@ English (EN) (18.84 KB - PDF)
 
 [View](/en/documents/conditions-member-states/binocrit-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-651)
+[Other languages (23)](#file-language-dropdown-894)
 
 български (BG) (85.71 KB - PDF)
 
@@ -1461,7 +1463,7 @@ English (EN) (241.06 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/binocrit-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-425)
+[Other languages (24)](#file-language-dropdown-865)
 
 български (BG) (257.08 KB - DOCX)
 

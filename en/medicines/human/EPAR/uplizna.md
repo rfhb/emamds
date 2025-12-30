@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:00:50
+document_datetime: 2025-12-29 07:13:43
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/uplizna.html
 document_name: uplizna.html
 version: success
-processing_time: 0.134815
-conversion_datetime: 2025-12-24 00:50:29.779631
+processing_time: 0.1281253
+conversion_datetime: 2025-12-30 09:37:32.546121
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 inebilizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +121,7 @@ English (EN) (145.13 KB - PDF)
 
 [View](/en/documents/overview/uplizna-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-635)
+[Other languages (22)](#file-language-dropdown-479)
 
 български (BG) (170.25 KB - PDF)
 
@@ -407,7 +409,7 @@ English (EN) (501.18 KB - PDF)
 
 [View](/en/documents/product-information/uplizna-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-324)
+[Other languages (24)](#file-language-dropdown-427)
 
 български (BG) (594.78 KB - PDF)
 
@@ -721,7 +723,7 @@ English (EN) (44.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/uplizna-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-485)
+[Other languages (24)](#file-language-dropdown-662)
 
 български (BG) (91.92 KB - PDF)
 
@@ -917,7 +919,7 @@ svenska (SV) (47.23 KB - PDF)
 
 ## Product details
 
-Name of medicine Uplizna Active substance Inebilizumab International non-proprietary name (INN) or common name inebilizumab Therapeutic area (MeSH) Neuromyelitis Optica Anatomical therapeutic chemical (ATC) code L04AA
+Name of medicine Uplizna Active substance inebilizumab International non-proprietary name (INN) or common name inebilizumab Therapeutic area (MeSH) Neuromyelitis Optica Anatomical therapeutic chemical (ATC) code L04AA
 
 ### Pharmacotherapeutic group
 
@@ -1035,6 +1037,8 @@ English (EN) (127.12 KB - PDF)
 
 #### News on Uplizna
 
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 8-11 December 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-8-11-december-2025) 12/12/2025
+
 [First treatment recommended for rare immunoglobulin-related autoimmune disease](/en/news/first-treatment-recommended-rare-immunoglobulin-related-autoimmune-disease) 19/09/2025
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 September 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-september-2025) 19/09/2025
@@ -1055,7 +1059,7 @@ English (EN) (261.87 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/uplizna-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-869)
+[Other languages (24)](#file-language-dropdown-680)
 
 български (BG) (273.75 KB - DOCX)
 
@@ -1256,8 +1260,9 @@ This product is no longer an orphan medicine. It was originally [designated an o
 #### More information on Uplizna
 
 - [EMEA-001911-PIP01-15-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001911-pip01-15-m05)
-- [EMEA-001911-PIP03-23-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001911-pip03-23-m01)
+- [EMA/PE/0000238005 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000238005)
 - [EMEA-001911-PIP02-22-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001911-pip02-22-m01)
+- [Uplizna - opinion on variation to marketing authorisation](/en/medicines/human/variation/uplizna)
 - [An Observational Pregnancy Safety Study in Women with Neuromyelitis Optica Spectrum Disorder (NMOSD) Exposed to UPLIZNA® (inebilizumab-cdon) during Pregnancy (VIB0551.P4.S4 /20230064) - post-authorisation study](https://catalogues.ema.europa.eu/study/105845)
 - [A real-world observational study of treatment patterns and outcomes for patients with neuromyelitis optica spectrum disorders (NMOSD) treated with inebilizumab (UPLIZNA) in Europe - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000084)
 

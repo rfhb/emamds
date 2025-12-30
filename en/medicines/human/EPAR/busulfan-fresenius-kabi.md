@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:28:01
+document_datetime: 2025-12-29 13:38:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/busulfan-fresenius-kabi.html
 document_name: busulfan-fresenius-kabi.html
 version: success
-processing_time: 0.130367
-conversion_datetime: 2025-12-29 20:00:31.023468
+processing_time: 0.130478
+conversion_datetime: 2025-12-30 13:13:29.503101
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 busulfan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (88.57 KB - PDF)
 
 [View](/en/documents/overview/busulfan-fresenius-kabi-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-301)
+[Other languages (22)](#file-language-dropdown-474)
 
 български (BG) (118.91 KB - PDF)
 
@@ -397,7 +399,7 @@ English (EN) (438.15 KB - PDF)
 
 [View](/en/documents/product-information/busulfan-fresenius-kabi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-682)
+[Other languages (24)](#file-language-dropdown-827)
 
 български (BG) (547.9 KB - PDF)
 
@@ -713,7 +715,7 @@ English (EN) (7.74 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/busulfan-fresenius-kabi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-863)
+[Other languages (24)](#file-language-dropdown-343)
 
 български (BG) (41.48 KB - PDF)
 
@@ -1109,7 +1111,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

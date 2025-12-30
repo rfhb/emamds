@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:14:07
+document_datetime: 2025-12-29 09:29:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/exjade.html
 document_name: exjade.html
 version: success
-processing_time: 0.1939463
-conversion_datetime: 2025-12-26 19:28:30.871872
+processing_time: 0.1897391
+conversion_datetime: 2025-12-30 21:54:58.313941
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 deferasirox Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -126,7 +128,7 @@ English (EN) (87.56 KB - PDF)
 
 [View](/en/documents/overview/exjade-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-958)
+[Other languages (22)](#file-language-dropdown-145)
 
 български (BG) (133.21 KB - PDF)
 
@@ -414,7 +416,7 @@ English (EN) (624.85 KB - PDF)
 
 [View](/en/documents/product-information/exjade-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-675)
+[Other languages (24)](#file-language-dropdown-867)
 
 български (BG) (756.85 KB - PDF)
 
@@ -730,7 +732,7 @@ English (EN) (94.56 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/exjade-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-956)
+[Other languages (24)](#file-language-dropdown-108)
 
 български (BG) (102.77 KB - PDF)
 
@@ -1030,7 +1032,7 @@ English (EN) (41.29 KB - PDF)
 
 [View](/en/documents/conditions-member-states/exjade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-896)
+[Other languages (21)](#file-language-dropdown-809)
 
 български (BG) (118.85 KB - PDF)
 
@@ -1703,7 +1705,7 @@ English (EN) (95.92 KB - PDF)
 
 [View](/en/documents/medication-error/exjade-measures-avoid-medication-errors_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-691)
+[Other languages (22)](#file-language-dropdown-853)
 
 български (BG) (112.95 KB - PDF)
 
@@ -1981,7 +1983,7 @@ English (EN) (229.49 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/exjade-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-453)
+[Other languages (24)](#file-language-dropdown-253)
 
 български (BG) (294.38 KB - DOCX)
 

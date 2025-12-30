@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:32:03
+document_datetime: 2025-12-29 18:58:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/restaysis.html
 document_name: restaysis.html
 version: success
-processing_time: 0.0690718
-conversion_datetime: 2025-12-28 12:59:42.04763
+processing_time: 0.0612751
+conversion_datetime: 2025-12-30 08:41:43.136859
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 ciclosporin Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -102,7 +104,7 @@ English (EN) (73.18 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-restaysis-ciclosporin_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-187)
+[Other languages (22)](#file-language-dropdown-964)
 
 български (BG) (98.13 KB - PDF)
 

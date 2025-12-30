@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:04:52
+document_datetime: 2025-12-29 19:05:21
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/solumarv.html
 document_name: solumarv.html
 version: success
-processing_time: 0.0682098
-conversion_datetime: 2025-12-28 15:19:32.520256
+processing_time: 0.0660444
+conversion_datetime: 2025-12-30 09:21:00.601094
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-insulin human
+insulin human Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +104,7 @@ English (EN) (61.65 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-solumarv-human-insulin_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-443)
+[Other languages (21)](#file-language-dropdown-18)
 
 български (BG) (131.37 KB - PDF)
 

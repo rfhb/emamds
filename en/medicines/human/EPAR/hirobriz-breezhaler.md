@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:38:07
+document_datetime: 2025-12-29 14:34:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hirobriz-breezhaler.html
 document_name: hirobriz-breezhaler.html
 version: success
-processing_time: 0.113024
-conversion_datetime: 2025-12-29 21:24:18.5777
+processing_time: 0.1103012
+conversion_datetime: 2025-12-30 21:03:10.533256
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

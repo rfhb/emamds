@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:31:18
+document_datetime: 2025-12-29 09:14:16
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cystadrops.html
 document_name: cystadrops.html
 version: success
-processing_time: 0.113925
-conversion_datetime: 2025-12-27 19:32:10.754956
+processing_time: 0.112325
+conversion_datetime: 2025-12-30 08:53:02.997951
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 mercaptamine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (113.25 KB - PDF)
 
 [View](/en/documents/overview/cystadrops-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-346)
+[Other languages (21)](#file-language-dropdown-260)
 
 български (BG) (138.67 KB - PDF)
 
@@ -381,7 +383,7 @@ English (EN) (268.6 KB - PDF)
 
 [View](/en/documents/product-information/cystadrops-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-433)
+[Other languages (24)](#file-language-dropdown-1)
 
 български (BG) (455.33 KB - PDF)
 
@@ -697,7 +699,7 @@ English (EN) (16.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cystadrops-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-326)
+[Other languages (24)](#file-language-dropdown-220)
 
 български (BG) (37.21 KB - PDF)
 

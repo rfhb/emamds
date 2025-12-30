@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:49:48
+document_datetime: 2025-12-29 12:26:42
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/iclusig.html
 document_name: iclusig.html
 version: success
-processing_time: 0.1224148
-conversion_datetime: 2025-12-28 04:41:24.383126
+processing_time: 0.1372312
+conversion_datetime: 2025-12-30 13:07:06.226072
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ponatinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +122,7 @@ English (EN) (129.99 KB - PDF)
 
 [View](/en/documents/overview/iclusig-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-812)
+[Other languages (22)](#file-language-dropdown-669)
 
 български (BG) (124.1 KB - PDF)
 
@@ -408,7 +410,7 @@ English (EN) (375.65 KB - PDF)
 
 [View](/en/documents/product-information/iclusig-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-975)
+[Other languages (24)](#file-language-dropdown-773)
 
 български (BG) (562.14 KB - PDF)
 
@@ -724,7 +726,7 @@ English (EN) (22.1 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/iclusig-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-245)
+[Other languages (24)](#file-language-dropdown-784)
 
 български (BG) (50.48 KB - PDF)
 

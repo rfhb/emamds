@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:02:47
+document_datetime: 2025-12-29 07:48:37
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/topotecan-eagle.html
 document_name: topotecan-eagle.html
 version: success
-processing_time: 0.1204191
-conversion_datetime: 2025-12-29 23:35:00.879045
+processing_time: 0.1237738
+conversion_datetime: 2025-12-30 11:06:34.235057
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-topotecan
+topotecan Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -68,7 +64,7 @@ English (EN) (496.66 KB - PDF)
 
 [View](/en/documents/overview/topotecan-eagle-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-954)
+[Other languages (21)](#file-language-dropdown-676)
 
 български (BG) (1.03 MB - PDF)
 
@@ -334,7 +330,7 @@ English (EN) (849.35 KB - PDF)
 
 [View](/en/documents/product-information/topotecan-eagle-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-58)
+[Other languages (23)](#file-language-dropdown-906)
 
 български (BG) (3.13 MB - PDF)
 
@@ -638,7 +634,7 @@ English (EN) (456.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/topotecan-eagle-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-388)
+[Other languages (23)](#file-language-dropdown-626)
 
 български (BG) (960.08 KB - PDF)
 
@@ -926,7 +922,7 @@ English (EN) (465.44 KB - PDF)
 
 [View](/en/documents/conditions-member-states/topotecan-eagle-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-192)
+[Other languages (23)](#file-language-dropdown-866)
 
 български (BG) (992.09 KB - PDF)
 

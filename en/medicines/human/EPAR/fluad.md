@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:55:31
+document_datetime: 2025-12-29 13:31:37
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fluad.html
 document_name: fluad.html
 version: success
-processing_time: 0.1042225
-conversion_datetime: 2025-12-29 20:56:49.27694
+processing_time: 0.1073485
+conversion_datetime: 2025-12-30 22:05:00.7313
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

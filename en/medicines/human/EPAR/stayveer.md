@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 07:36:05
+document_datetime: 2025-12-29 12:02:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/stayveer.html
 document_name: stayveer.html
 version: success
-processing_time: 0.0975649
-conversion_datetime: 2025-12-24 08:37:38.335773
+processing_time: 0.1142517
+conversion_datetime: 2025-12-30 01:57:29.428655
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-bosentan monohydrate
+bosentan monohydrate Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -129,7 +125,7 @@ English (EN) (140.59 KB - PDF)
 
 [View](/en/documents/overview/stayveer-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-984)
+[Other languages (22)](#file-language-dropdown-475)
 
 български (BG) (167.75 KB - PDF)
 
@@ -415,7 +411,7 @@ English (EN) (281.36 KB - PDF)
 
 [View](/en/documents/product-information/stayveer-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-423)
+[Other languages (24)](#file-language-dropdown-144)
 
 български (BG) (310.17 KB - PDF)
 
@@ -731,7 +727,7 @@ English (EN) (21.58 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/stayveer-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-92)
+[Other languages (24)](#file-language-dropdown-610)
 
 български (BG) (42.23 KB - PDF)
 

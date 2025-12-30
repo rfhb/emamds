@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:29:41
+document_datetime: 2025-12-29 14:16:25
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/usrenty.html
 document_name: usrenty.html
 version: success
-processing_time: 0.1019641
-conversion_datetime: 2025-12-26 13:47:38.899897
+processing_time: 0.1014478
+conversion_datetime: 2025-12-30 02:32:51.16722
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ustekinumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (152.23 KB - PDF)
 
 [View](/en/documents/overview/usrenty-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-615)
+[Other languages (22)](#file-language-dropdown-651)
 
 български (BG) (178 KB - PDF)
 
@@ -311,7 +313,7 @@ English (EN) (2.22 MB - PDF)
 
 [View](/en/documents/product-information/usrenty-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-654)
+[Other languages (24)](#file-language-dropdown-757)
 
 български (BG) (2.27 MB - PDF)
 
@@ -527,7 +529,7 @@ English (EN) (85.96 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/usrenty-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-761)
+[Other languages (24)](#file-language-dropdown-583)
 
 български (BG) (98.69 KB - PDF)
 

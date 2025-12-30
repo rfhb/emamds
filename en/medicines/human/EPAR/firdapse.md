@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:51:36
+document_datetime: 2025-12-29 12:25:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/firdapse.html
 document_name: firdapse.html
 version: success
-processing_time: 0.1128535
-conversion_datetime: 2025-12-28 08:47:58.60277
+processing_time: 0.1096582
+conversion_datetime: 2025-12-30 01:14:37.224471
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 amifampridine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -123,7 +125,7 @@ English (EN) (155.44 KB - PDF)
 
 [View](/en/documents/overview/firdapse-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-776)
+[Other languages (22)](#file-language-dropdown-234)
 
 български (BG) (218.57 KB - PDF)
 
@@ -409,7 +411,7 @@ English (EN) (404.54 KB - PDF)
 
 [View](/en/documents/product-information/firdapse-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-259)
+[Other languages (24)](#file-language-dropdown-577)
 
 български (BG) (584.11 KB - PDF)
 
@@ -725,7 +727,7 @@ English (EN) (17 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/firdapse-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-676)
+[Other languages (24)](#file-language-dropdown-574)
 
 български (BG) (46.84 KB - PDF)
 

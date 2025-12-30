@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 07:25:03
+document_datetime: 2025-12-29 11:12:35
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/olumiant.html
 document_name: olumiant.html
 version: success
-processing_time: 0.1644702
-conversion_datetime: 2025-12-26 18:41:16.895976
+processing_time: 0.1609269
+conversion_datetime: 2025-12-30 02:33:34.761802
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -150,7 +150,7 @@ English (EN) (110.75 KB - PDF)
 
 [View](/en/documents/overview/olumiant-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-100)
+[Other languages (22)](#file-language-dropdown-943)
 
 български (BG) (137.92 KB - PDF)
 
@@ -438,7 +438,7 @@ English (EN) (1.33 MB - PDF)
 
 [View](/en/documents/product-information/olumiant-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-163)
+[Other languages (24)](#file-language-dropdown-340)
 
 български (BG) (1.41 MB - PDF)
 
@@ -754,7 +754,7 @@ English (EN) (63.22 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/olumiant-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-609)
+[Other languages (24)](#file-language-dropdown-28)
 
 български (BG) (76.98 KB - PDF)
 
@@ -1174,7 +1174,7 @@ English (EN) (139.86 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/olumiant-h-c-4085-a20-0032-epar-scientific-conclusions-article-20_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-624)
+[Other languages (24)](#file-language-dropdown-330)
 
 български (BG) (203.66 KB - PDF)
 
@@ -1524,7 +1524,7 @@ English (EN) (633.99 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/olumiant-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-513)
+[Other languages (24)](#file-language-dropdown-91)
 
 български (BG) (683.33 KB - DOCX)
 

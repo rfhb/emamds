@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:03:32
+document_datetime: 2025-12-29 08:03:21
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/viraferon.html
 document_name: viraferon.html
 version: success
-processing_time: 0.1015154
-conversion_datetime: 2025-12-24 19:06:04.17865
+processing_time: 0.1009425
+conversion_datetime: 2025-12-30 07:47:58.567492
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-interferon alfa-2b
+interferon alfa-2b Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +60,7 @@ English (EN) (263.3 KB - PDF)
 
 [View](/en/documents/overview/viraferon-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-253)
+[Other languages (21)](#file-language-dropdown-290)
 
 български (BG) (430.11 KB - PDF)
 
@@ -330,7 +326,7 @@ English (EN) (3.66 MB - PDF)
 
 [View](/en/documents/product-information/viraferon-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-673)
+[Other languages (21)](#file-language-dropdown-802)
 
 български (BG) (7.04 MB - PDF)
 
@@ -610,7 +606,7 @@ English (EN) (292.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/viraferon-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-483)
+[Other languages (20)](#file-language-dropdown-263)
 
 български (BG) (355.76 KB - PDF)
 

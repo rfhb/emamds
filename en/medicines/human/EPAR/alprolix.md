@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:47:36
+document_datetime: 2025-12-29 13:47:14
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/alprolix.html
 document_name: alprolix.html
 version: success
-processing_time: 0.1192367
-conversion_datetime: 2025-12-26 09:25:00.546874
+processing_time: 0.1147502
+conversion_datetime: 2025-12-30 21:55:33.719629
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 eftrenonacog alfa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (75.56 KB - PDF)
 
 [View](/en/documents/overview/alprolix-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-292)
+[Other languages (22)](#file-language-dropdown-679)
 
 български (BG) (100.57 KB - PDF)
 
@@ -403,7 +405,7 @@ English (EN) (534.48 KB - PDF)
 
 [View](/en/documents/product-information/alprolix-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-134)
+[Other languages (24)](#file-language-dropdown-93)
 
 български (BG) (601.62 KB - PDF)
 
@@ -719,7 +721,7 @@ English (EN) (25.11 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/alprolix-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-819)
+[Other languages (24)](#file-language-dropdown-46)
 
 български (BG) (69.11 KB - PDF)
 

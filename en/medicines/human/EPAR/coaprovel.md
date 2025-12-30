@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:24:39
+document_datetime: 2025-12-29 07:03:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/coaprovel.html
 document_name: coaprovel.html
 version: success
-processing_time: 0.1578618
-conversion_datetime: 2025-12-25 04:41:40.555373
+processing_time: 0.1632261
+conversion_datetime: 2025-12-30 08:12:02.228041
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 irbesartan / hydrochlorothiazide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (74.91 KB - PDF)
 
 [View](/en/documents/overview/coaprovel-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-164)
+[Other languages (22)](#file-language-dropdown-560)
 
 български (BG) (105.13 KB - PDF)
 
@@ -391,7 +393,7 @@ English (EN) (851.98 KB - PDF)
 
 [View](/en/documents/product-information/coaprovel-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-466)
+[Other languages (24)](#file-language-dropdown-811)
 
 български (BG) (1.46 MB - PDF)
 
@@ -707,7 +709,7 @@ English (EN) (15.78 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/coaprovel-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (19)](#file-language-dropdown-854)
+[Other languages (19)](#file-language-dropdown-643)
 
 български (BG) (82.97 KB - PDF)
 
@@ -1005,7 +1007,7 @@ English (EN) (99.42 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/coaprovel-epar-scientific-conclusions_en.pdf)
 
-[Other languages (19)](#file-language-dropdown-479)
+[Other languages (19)](#file-language-dropdown-567)
 
 español (ES) (98.31 KB - PDF)
 
@@ -1193,7 +1195,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/coaprovel-h-c-222-a31-0162-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommen_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-412)
+[Other languages (22)](#file-language-dropdown-241)
 
 български (BG) (87.49 KB - PDF)
 
@@ -1573,7 +1575,7 @@ English (EN) (334.33 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/coaprovel-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-203)
+[Other languages (24)](#file-language-dropdown-528)
 
 български (BG) (433.41 KB - DOCX)
 

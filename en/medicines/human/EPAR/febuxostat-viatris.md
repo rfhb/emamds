@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:58:04
+document_datetime: 2025-12-29 16:10:34
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/febuxostat-viatris.html
 document_name: febuxostat-viatris.html
 version: success
-processing_time: 0.1194919
-conversion_datetime: 2025-12-28 02:39:49.96079
+processing_time: 0.1288252
+conversion_datetime: 2025-12-30 02:56:34.339127
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 febuxostat Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (100.14 KB - PDF)
 
 [View](/en/documents/overview/febuxostat-mylan-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-891)
+[Other languages (22)](#file-language-dropdown-936)
 
 български (BG) (120.29 KB - PDF)
 
@@ -387,7 +389,7 @@ English (EN) (558.67 KB - PDF)
 
 [View](/en/documents/product-information/febuxostat-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-43)
+[Other languages (24)](#file-language-dropdown-649)
 
 български (BG) (679.2 KB - PDF)
 
@@ -413,7 +415,7 @@ español (ES) (604.62 KB - PDF)
 
 [View](/es/documents/product-information/febuxostat-viatris-epar-product-information_es.pdf)
 
-čeština (CS) (601.43 KB - PDF)
+čeština (CS) (747.04 KB - PDF)
 
 **First published:**
 
@@ -421,7 +423,7 @@ español (ES) (604.62 KB - PDF)
 
 **Last updated:**
 
-14/07/2025
+03/12/2025
 
 [View](/cs/documents/product-information/febuxostat-viatris-epar-product-information_cs.pdf)
 
@@ -703,7 +705,7 @@ English (EN) (84.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/febuxostat-viatris-previously-febuxostat-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-852)
+[Other languages (24)](#file-language-dropdown-829)
 
 български (BG) (97.48 KB - PDF)
 
@@ -1105,7 +1107,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

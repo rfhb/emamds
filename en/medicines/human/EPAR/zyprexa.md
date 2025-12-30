@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:49:54
+document_datetime: 2025-12-29 09:47:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zyprexa.html
 document_name: zyprexa.html
 version: success
-processing_time: 0.1227159
-conversion_datetime: 2025-12-24 06:28:38.499888
+processing_time: 0.119223
+conversion_datetime: 2025-12-30 21:18:12.346648
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 olanzapine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (52.54 KB - PDF)
 
 [View](/en/documents/overview/zyprexa-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-693)
+[Other languages (21)](#file-language-dropdown-687)
 
 български (BG) (136.08 KB - PDF)
 
@@ -379,7 +381,7 @@ English (EN) (633.34 KB - PDF)
 
 [View](/en/documents/product-information/zyprexa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-334)
+[Other languages (24)](#file-language-dropdown-7)
 
 български (BG) (851.12 KB - PDF)
 
@@ -695,7 +697,7 @@ English (EN) (40.29 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zyprexa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-532)
+[Other languages (24)](#file-language-dropdown-901)
 
 български (BG) (61.11 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:25:00
+document_datetime: 2025-12-29 11:21:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cialis.html
 document_name: cialis.html
 version: success
-processing_time: 0.117267
-conversion_datetime: 2025-12-27 16:17:20.669478
+processing_time: 0.1226396
+conversion_datetime: 2025-12-30 02:56:25.499762
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tadalafil Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +121,7 @@ English (EN) (78.39 KB - PDF)
 
 [View](/en/documents/overview/cialis-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-694)
+[Other languages (22)](#file-language-dropdown-205)
 
 български (BG) (108.84 KB - PDF)
 
@@ -407,7 +409,7 @@ English (EN) (812.32 KB - PDF)
 
 [View](/en/documents/product-information/cialis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-246)
+[Other languages (24)](#file-language-dropdown-595)
 
 български (BG) (955.46 KB - PDF)
 
@@ -723,7 +725,7 @@ English (EN) (19.9 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cialis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-77)
+[Other languages (24)](#file-language-dropdown-940)
 
 български (BG) (131.1 KB - PDF)
 

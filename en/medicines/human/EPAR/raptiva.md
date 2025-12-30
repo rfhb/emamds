@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 13:11:52
+document_datetime: 2025-12-29 14:33:43
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/raptiva.html
 document_name: raptiva.html
 version: success
-processing_time: 0.1012888
-conversion_datetime: 2025-12-24 19:25:35.280186
+processing_time: 0.1043733
+conversion_datetime: 2025-12-30 09:19:59.38763
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-efalizumab
+efalizumab Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +60,7 @@ English (EN) (476.19 KB - PDF)
 
 [View](/en/documents/overview/raptiva-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-399)
+[Other languages (21)](#file-language-dropdown-777)
 
 български (BG) (652.34 KB - PDF)
 
@@ -330,7 +326,7 @@ English (EN) (850.76 KB - PDF)
 
 [View](/en/documents/product-information/raptiva-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-31)
+[Other languages (21)](#file-language-dropdown-659)
 
 български (BG) (1.14 MB - PDF)
 
@@ -610,7 +606,7 @@ English (EN) (435.6 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/raptiva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-266)
+[Other languages (21)](#file-language-dropdown-518)
 
 български (BG) (534.58 KB - PDF)
 

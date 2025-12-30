@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:44:42
+document_datetime: 2025-12-29 13:22:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/deferasirox-accord.html
 document_name: deferasirox-accord.html
 version: success
-processing_time: 0.1284553
-conversion_datetime: 2025-12-29 21:14:04.101076
+processing_time: 0.1249482
+conversion_datetime: 2025-12-30 03:38:49.866287
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

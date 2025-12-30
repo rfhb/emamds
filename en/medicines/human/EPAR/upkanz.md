@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:06:25
+document_datetime: 2025-12-29 11:16:43
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/upkanz.html
 document_name: upkanz.html
 version: success
-processing_time: 0.0670065
-conversion_datetime: 2025-12-27 22:57:40.135399
+processing_time: 0.0509001
+conversion_datetime: 2025-12-30 11:59:48.578761
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-deferiprone
+deferiprone Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -101,7 +97,7 @@ English (EN) (131.43 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-application-marketing-authorisation-upkanz-deferiprone_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-190)
+[Other languages (22)](#file-language-dropdown-609)
 
 български (BG) (151.59 KB - PDF)
 

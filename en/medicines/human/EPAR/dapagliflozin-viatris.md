@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:16:30
+document_datetime: 2025-12-29 12:08:01
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dapagliflozin-viatris.html
 document_name: dapagliflozin-viatris.html
 version: success
-processing_time: 0.1073997
-conversion_datetime: 2025-12-26 20:46:05.337999
+processing_time: 0.1086081
+conversion_datetime: 2025-12-30 20:43:58.212687
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -26,6 +26,8 @@ This medicine is authorised for use in the European Union
 
 dapagliflozin Medicine Human Authorised
 
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
+
 Page contents
 
 ## Page contents
@@ -36,6 +38,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Dapagliflozin Viatris](#news-on)
+- [More information on Dapagliflozin Viatris](#related-medicines)
 
 - Application under evaluation
 - CHMP opinion
@@ -109,7 +112,7 @@ English (EN) (145.49 KB - PDF)
 
 [View](/en/documents/overview/dapagliflozin-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-255)
+[Other languages (22)](#file-language-dropdown-840)
 
 български (BG) (169.41 KB - PDF)
 
@@ -307,7 +310,7 @@ English (EN) (1.08 MB - PDF)
 
 [View](/en/documents/product-information/dapagliflozin-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-893)
+[Other languages (24)](#file-language-dropdown-365)
 
 български (BG) (1.19 MB - PDF)
 
@@ -621,7 +624,7 @@ English (EN) (108.94 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/dapagliflozin-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-412)
+[Other languages (24)](#file-language-dropdown-93)
 
 български (BG) (71.11 KB - PDF)
 
@@ -913,6 +916,10 @@ English (EN) (151.19 KB - PDF)
 #### News on Dapagliflozin Viatris
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 January 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-january-2023) 27/01/2023
+
+#### More information on Dapagliflozin Viatris
+
+- [Initiation of Sodium-Glucose Cotransporter 2 inhibitors after first hospitalization for heart failure: a population-based cohort study - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000378)
 
 **This page was last updated on** 21/11/2024
 

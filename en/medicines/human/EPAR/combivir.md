@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:13:07
+document_datetime: 2025-12-29 08:00:41
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/combivir.html
 document_name: combivir.html
 version: success
-processing_time: 0.1071563
-conversion_datetime: 2025-12-28 05:51:46.622477
+processing_time: 0.1065285
+conversion_datetime: 2025-12-30 21:27:34.771039
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lamivudine / zidovudine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (92.8 KB - PDF)
 
 [View](/en/documents/overview/combivir-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-363)
+[Other languages (22)](#file-language-dropdown-310)
 
 български (BG) (111.74 KB - PDF)
 
@@ -394,7 +396,7 @@ English (EN) (356.33 KB - PDF)
 
 [View](/en/documents/product-information/combivir-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-915)
+[Other languages (24)](#file-language-dropdown-733)
 
 български (BG) (440.63 KB - PDF)
 
@@ -710,7 +712,7 @@ English (EN) (66.94 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/combivir-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-501)
+[Other languages (20)](#file-language-dropdown-120)
 
 български (BG) (75.19 KB - PDF)
 

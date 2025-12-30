@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-13 13:14:50
+document_datetime: 2025-12-29 11:28:21
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ravicti.html
 document_name: ravicti.html
 version: success
-processing_time: 0.1134447
-conversion_datetime: 2025-12-25 02:39:52.878903
+processing_time: 0.1134151
+conversion_datetime: 2025-12-30 03:05:29.382017
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 glycerol phenylbutyrate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (78.75 KB - PDF)
 
 [View](/en/documents/overview/ravicti-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-352)
+[Other languages (21)](#file-language-dropdown-167)
 
 български (BG) (104.88 KB - PDF)
 
@@ -389,7 +391,7 @@ English (EN) (455.16 KB - PDF)
 
 [View](/en/documents/product-information/ravicti-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-466)
+[Other languages (24)](#file-language-dropdown-685)
 
 български (BG) (582.34 KB - PDF)
 
@@ -705,7 +707,7 @@ English (EN) (18.35 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ravicti-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-317)
+[Other languages (24)](#file-language-dropdown-816)
 
 български (BG) (38.73 KB - PDF)
 

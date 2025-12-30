@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:34
+document_datetime: 2025-12-29 12:57:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tekinex.html
 document_name: tekinex.html
 version: success
-processing_time: 0.0689178
-conversion_datetime: 2025-12-28 01:59:06.041599
+processing_time: 0.0587425
+conversion_datetime: 2025-12-30 13:02:07.44888
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +105,7 @@ English (EN) (56.35 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-tekinex_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-522)
+[Other languages (21)](#file-language-dropdown-515)
 
 български (BG) (96.84 KB - PDF)
 

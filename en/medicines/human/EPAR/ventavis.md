@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:09:13
+document_datetime: 2025-12-29 07:03:14
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ventavis.html
 document_name: ventavis.html
 version: success
-processing_time: 0.0879903
-conversion_datetime: 2025-12-24 19:14:47.849164
+processing_time: 0.0869723
+conversion_datetime: 2025-12-30 01:42:20.240825
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 iloprost Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +124,7 @@ English (EN) (804.35 KB - PDF)
 
 [View](/en/documents/product-information/ventavis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-913)
+[Other languages (24)](#file-language-dropdown-749)
 
 български (BG) (1.08 MB - PDF)
 
@@ -342,7 +344,7 @@ English (EN) (45.37 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ventavis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (12)](#file-language-dropdown-209)
+[Other languages (12)](#file-language-dropdown-188)
 
 čeština (CS) (90.49 KB - PDF)
 

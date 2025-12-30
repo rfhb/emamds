@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:06:16
+document_datetime: 2025-12-29 08:11:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vekacia.html
 document_name: vekacia.html
 version: success
-processing_time: 0.065485
-conversion_datetime: 2025-12-27 16:59:33.889066
+processing_time: 0.0694864
+conversion_datetime: 2025-12-30 09:45:55.346815
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-ciclosporin
+ciclosporin Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +106,7 @@ English (EN) (39.72 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-application-vekacia_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-668)
+[Other languages (21)](#file-language-dropdown-114)
 
 български (BG) (144.88 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:22:50
+document_datetime: 2025-12-29 13:42:06
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/repaglinide-krka.html
 document_name: repaglinide-krka.html
 version: success
-processing_time: 0.1259172
-conversion_datetime: 2025-12-28 15:07:38.236518
+processing_time: 0.1253785
+conversion_datetime: 2025-12-30 21:07:48.763002
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 repaglinide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +107,7 @@ English (EN) (43 KB - PDF)
 
 [View](/en/documents/overview/repaglinide-krka-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-243)
+[Other languages (21)](#file-language-dropdown-457)
 
 български (BG) (167.65 KB - PDF)
 
@@ -371,7 +373,7 @@ English (EN) (196.87 KB - PDF)
 
 [View](/en/documents/product-information/repaglinide-krka-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-639)
+[Other languages (24)](#file-language-dropdown-257)
 
 български (BG) (232.31 KB - PDF)
 
@@ -687,7 +689,7 @@ English (EN) (14.01 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/repaglinide-krka-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-298)
+[Other languages (24)](#file-language-dropdown-0)
 
 български (BG) (83.94 KB - PDF)
 
@@ -1073,7 +1075,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

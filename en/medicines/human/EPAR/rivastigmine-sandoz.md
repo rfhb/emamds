@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-09 23:30:46
+document_datetime: 2025-12-29 12:39:17
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rivastigmine-sandoz.html
 document_name: rivastigmine-sandoz.html
 version: success
-processing_time: 0.1092587
-conversion_datetime: 2025-12-27 18:07:04.092263
+processing_time: 0.1134297
+conversion_datetime: 2025-12-30 09:30:48.322169
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 rivastigmine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (76.55 KB - PDF)
 
 [View](/en/documents/overview/rivastigmine-sandoz-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-391)
+[Other languages (21)](#file-language-dropdown-163)
 
 български (BG) (106.52 KB - PDF)
 
@@ -379,7 +381,7 @@ English (EN) (581.84 KB - PDF)
 
 [View](/en/documents/product-information/rivastigmine-sandoz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-503)
+[Other languages (24)](#file-language-dropdown-761)
 
 български (BG) (578.3 KB - PDF)
 
@@ -695,7 +697,7 @@ English (EN) (24.48 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rivastigmine-sandoz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-109)
+[Other languages (24)](#file-language-dropdown-97)
 
 български (BG) (46 KB - PDF)
 

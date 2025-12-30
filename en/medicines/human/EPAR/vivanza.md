@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:52:08
+document_datetime: 2025-12-29 09:58:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vivanza.html
 document_name: vivanza.html
 version: success
-processing_time: 0.1153065
-conversion_datetime: 2025-12-24 02:32:32.153255
+processing_time: 0.1099835
+conversion_datetime: 2025-12-30 07:45:56.517126
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 vardenafil Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -60,7 +62,7 @@ English (EN) (258.97 KB - PDF)
 
 [View](/en/documents/overview/vivanza-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-494)
+[Other languages (22)](#file-language-dropdown-97)
 
 български (BG) (324.91 KB - PDF)
 
@@ -348,7 +350,7 @@ English (EN) (1.14 MB - PDF)
 
 [View](/en/documents/product-information/vivanza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-820)
+[Other languages (24)](#file-language-dropdown-268)
 
 български (BG) (2.59 MB - PDF)
 
@@ -664,7 +666,7 @@ English (EN) (190.13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vivanza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-280)
+[Other languages (24)](#file-language-dropdown-178)
 
 български (BG) (232.19 KB - PDF)
 

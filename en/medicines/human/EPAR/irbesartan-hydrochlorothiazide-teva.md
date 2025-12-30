@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:47:15
+document_datetime: 2025-12-29 08:22:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/irbesartan-hydrochlorothiazide-teva.html
 document_name: irbesartan-hydrochlorothiazide-teva.html
 version: success
-processing_time: 0.1725168
-conversion_datetime: 2025-12-24 17:33:11.012091
+processing_time: 0.1822392
+conversion_datetime: 2025-12-30 02:12:42.73894
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 irbesartan / hydrochlorothiazide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (91.61 KB - PDF)
 
 [View](/en/documents/overview/irbesartan-hydrochlorothiazide-teva-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-695)
+[Other languages (22)](#file-language-dropdown-939)
 
 български (BG) (124.49 KB - PDF)
 
@@ -386,7 +388,7 @@ English (EN) (672.13 KB - PDF)
 
 [View](/en/documents/product-information/irbesartan-hydrochlorothiazide-teva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-294)
+[Other languages (24)](#file-language-dropdown-787)
 
 български (BG) (863.32 KB - PDF)
 
@@ -702,7 +704,7 @@ English (EN) (66.13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-teva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-407)
+[Other languages (23)](#file-language-dropdown-692)
 
 български (BG) (82.62 KB - PDF)
 
@@ -1054,7 +1056,7 @@ English (EN) (119.28 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-114)
+[Other languages (22)](#file-language-dropdown-915)
 
 български (BG) (145.18 KB - PDF)
 
@@ -1252,7 +1254,7 @@ English (EN) (99.42 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-teva-epar-scientific-conclusions-annex-iv_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-932)
+[Other languages (22)](#file-language-dropdown-385)
 
 български (BG) (136.15 KB - PDF)
 
@@ -1452,7 +1454,7 @@ English (EN) (42.12 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/irbesartanhydrochlorothiazide-teva-h-c-1112-a31-0019-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differe_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-268)
+[Other languages (22)](#file-language-dropdown-247)
 
 български (BG) (87.49 KB - PDF)
 
@@ -1794,7 +1796,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

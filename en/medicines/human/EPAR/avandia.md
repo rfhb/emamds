@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:00
+document_datetime: 2025-12-29 14:33:07
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/avandia.html
 document_name: avandia.html
 version: success
-processing_time: 0.1064479
-conversion_datetime: 2025-12-28 01:37:53.185623
+processing_time: 0.1084952
+conversion_datetime: 2025-12-30 10:31:49.041132
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has expired
 
-rosiglitazone
+rosiglitazone Medicine Human Expired
 
-Medicine
-
-Human
-
-Expired
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -65,7 +61,7 @@ English (EN) (493.75 KB - PDF)
 
 [View](/en/documents/overview/avandia-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-717)
+[Other languages (21)](#file-language-dropdown-897)
 
 български (BG) (1.05 MB - PDF)
 
@@ -331,7 +327,7 @@ English (EN) (1.63 MB - PDF)
 
 [View](/en/documents/product-information/avandia-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-1000)
+[Other languages (23)](#file-language-dropdown-654)
 
 български (BG) (8.05 MB - PDF)
 
@@ -635,7 +631,7 @@ English (EN) (273.65 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/avandia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-169)
+[Other languages (21)](#file-language-dropdown-493)
 
 български (BG) (1004.14 KB - PDF)
 

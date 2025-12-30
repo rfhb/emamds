@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:39:06
+document_datetime: 2025-12-29 08:34:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/opdualag.html
 document_name: opdualag.html
 version: success
-processing_time: 0.1107222
-conversion_datetime: 2025-12-25 13:25:14.494979
+processing_time: 0.1265008
+conversion_datetime: 2025-12-30 22:39:54.806456
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 relatlimab / nivolumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (116.34 KB - PDF)
 
 [View](/en/documents/overview/opdualag-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-122)
+[Other languages (22)](#file-language-dropdown-911)
 
 български (BG) (132.27 KB - PDF)
 
@@ -311,7 +313,7 @@ English (EN) (492.34 KB - PDF)
 
 [View](/en/documents/product-information/opdualag-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-907)
+[Other languages (24)](#file-language-dropdown-755)
 
 български (BG) (615.4 KB - PDF)
 
@@ -625,7 +627,7 @@ English (EN) (44.95 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/opdualag-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-359)
+[Other languages (25)](#file-language-dropdown-829)
 
 български (BG) (55.12 KB - PDF)
 
@@ -957,7 +959,7 @@ English (EN) (302.26 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/opdualag-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-519)
+[Other languages (24)](#file-language-dropdown-117)
 
 български (BG) (295.4 KB - DOCX)
 

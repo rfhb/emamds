@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 11:37:42
+document_datetime: 2025-12-29 07:45:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lonquex.html
 document_name: lonquex.html
 version: success
-processing_time: 0.1143225
-conversion_datetime: 2025-12-27 14:18:59.714354
+processing_time: 0.1226205
+conversion_datetime: 2025-12-30 13:12:45.488761
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-lipegfilgrastim
+lipegfilgrastim Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +114,7 @@ English (EN) (154.7 KB - PDF)
 
 [View](/en/documents/overview/lonquex-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-566)
+[Other languages (22)](#file-language-dropdown-215)
 
 български (BG) (180.32 KB - PDF)
 
@@ -406,7 +402,7 @@ English (EN) (1015.73 KB - PDF)
 
 [View](/en/documents/product-information/lonquex-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-351)
+[Other languages (24)](#file-language-dropdown-386)
 
 български (BG) (1.07 MB - PDF)
 
@@ -722,7 +718,7 @@ English (EN) (28.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lonquex-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-602)
+[Other languages (24)](#file-language-dropdown-342)
 
 български (BG) (53.96 KB - PDF)
 

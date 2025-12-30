@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:09:58
+document_datetime: 2025-12-29 14:36:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bemrist-breezhaler.html
 document_name: bemrist-breezhaler.html
 version: success
-processing_time: 0.1231935
-conversion_datetime: 2025-12-25 06:12:13.029328
+processing_time: 0.1253301
+conversion_datetime: 2025-12-30 09:03:31.126296
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 indacaterol / mometasone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (97.07 KB - PDF)
 
 [View](/en/documents/overview/bemrist-breezhaler-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-30)
+[Other languages (22)](#file-language-dropdown-935)
 
 български (BG) (122.75 KB - PDF)
 
@@ -306,7 +308,7 @@ English (EN) (686.56 KB - PDF)
 
 [View](/en/documents/product-information/bemrist-breezhaler-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-370)
+[Other languages (24)](#file-language-dropdown-782)
 
 български (BG) (792.62 KB - PDF)
 
@@ -620,7 +622,7 @@ English (EN) (204.91 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bemrist-breezhaler-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-958)
+[Other languages (24)](#file-language-dropdown-652)
 
 български (BG) (116.34 KB - PDF)
 
@@ -928,7 +930,7 @@ English (EN) (602.07 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/bemrist-breezhaler-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-566)
+[Other languages (24)](#file-language-dropdown-134)
 
 български (BG) (636.9 KB - DOCX)
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:06:49
+document_datetime: 2025-12-29 08:03:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/entresto.html
 document_name: entresto.html
 version: success
-processing_time: 0.1505303
-conversion_datetime: 2025-12-24 15:09:20.790677
+processing_time: 0.1472181
+conversion_datetime: 2025-12-30 01:14:19.555921
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sacubitril / valsartan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (96.43 KB - PDF)
 
 [View](/en/documents/overview/entresto-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-886)
+[Other languages (22)](#file-language-dropdown-533)
 
 български (BG) (120.75 KB - PDF)
 
@@ -405,7 +407,7 @@ English (EN) (739.74 KB - PDF)
 
 [View](/en/documents/product-information/entresto-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-943)
+[Other languages (24)](#file-language-dropdown-449)
 
 български (BG) (940.22 KB - PDF)
 
@@ -721,7 +723,7 @@ English (EN) (67.56 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/entresto-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-500)
+[Other languages (24)](#file-language-dropdown-701)
 
 български (BG) (78.89 KB - PDF)
 
@@ -1150,7 +1152,7 @@ English (EN) (119.28 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-667)
+[Other languages (22)](#file-language-dropdown-920)
 
 български (BG) (145.18 KB - PDF)
 
@@ -1358,7 +1360,7 @@ English (EN) (99.42 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/entresto-epar-scientific-conclusions-annex-iv_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-27)
+[Other languages (22)](#file-language-dropdown-577)
 
 български (BG) (136.15 KB - PDF)
 

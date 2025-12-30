@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:49:58
+document_datetime: 2025-12-29 08:55:35
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vyvgart.html
 document_name: vyvgart.html
 version: success
-processing_time: 0.1171478
-conversion_datetime: 2025-12-25 09:27:14.738436
+processing_time: 0.1166142
+conversion_datetime: 2025-12-30 01:51:05.764926
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 efgartigimod alfa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -123,7 +125,7 @@ English (EN) (144.42 KB - PDF)
 
 [View](/en/documents/overview/vyvgart-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-425)
+[Other languages (22)](#file-language-dropdown-416)
 
 български (BG) (166.01 KB - PDF)
 
@@ -411,7 +413,7 @@ English (EN) (1.76 MB - PDF)
 
 [View](/en/documents/product-information/vyvgart-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-151)
+[Other languages (24)](#file-language-dropdown-74)
 
 български (BG) (2.6 MB - PDF)
 
@@ -569,7 +571,7 @@ lietuvių kalba (LT) (2.53 MB - PDF)
 
 [View](/lt/documents/product-information/vyvgart-epar-product-information_lt.pdf)
 
-magyar (HU) (2.68 MB - PDF)
+magyar (HU) (2.25 MB - PDF)
 
 **First published:**
 
@@ -577,7 +579,7 @@ magyar (HU) (2.68 MB - PDF)
 
 **Last updated:**
 
-30/07/2025
+19/12/2025
 
 [View](/hu/documents/product-information/vyvgart-epar-product-information_hu.pdf)
 
@@ -727,7 +729,7 @@ English (EN) (45.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vyvgart-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-12)
+[Other languages (24)](#file-language-dropdown-994)
 
 български (BG) (60.34 KB - PDF)
 

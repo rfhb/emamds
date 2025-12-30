@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:08:28
+document_datetime: 2025-12-29 12:43:27
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/empliciti.html
 document_name: empliciti.html
 version: success
-processing_time: 0.11718
-conversion_datetime: 2025-12-27 09:43:30.067959
+processing_time: 0.1145472
+conversion_datetime: 2025-12-30 21:01:28.064325
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 elotuzumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (71.5 KB - PDF)
 
 [View](/en/documents/overview/empliciti-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-590)
+[Other languages (22)](#file-language-dropdown-81)
 
 български (BG) (97.65 KB - PDF)
 
@@ -401,7 +403,7 @@ English (EN) (497.24 KB - PDF)
 
 [View](/en/documents/product-information/empliciti-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-83)
+[Other languages (24)](#file-language-dropdown-991)
 
 български (BG) (578.66 KB - PDF)
 
@@ -717,7 +719,7 @@ English (EN) (44.83 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/empliciti-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-285)
+[Other languages (24)](#file-language-dropdown-386)
 
 български (BG) (52.18 KB - PDF)
 

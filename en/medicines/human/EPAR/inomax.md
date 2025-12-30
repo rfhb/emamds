@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:18:23
+document_datetime: 2025-12-29 14:13:48
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/inomax.html
 document_name: inomax.html
 version: success
-processing_time: 0.1312612
-conversion_datetime: 2025-12-24 21:44:40.525378
+processing_time: 0.1321137
+conversion_datetime: 2025-12-30 09:37:23.643253
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 nitric oxide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (83.49 KB - PDF)
 
 [View](/en/documents/overview/inomax-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-115)
+[Other languages (21)](#file-language-dropdown-509)
 
 български (BG) (132.58 KB - PDF)
 
@@ -383,7 +385,7 @@ English (EN) (671.25 KB - PDF)
 
 [View](/en/documents/product-information/inomax-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-368)
+[Other languages (24)](#file-language-dropdown-802)
 
 български (BG) (2.14 MB - PDF)
 
@@ -699,7 +701,7 @@ English (EN) (19.32 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/inomax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-391)
+[Other languages (24)](#file-language-dropdown-321)
 
 български (BG) (54.02 KB - PDF)
 
@@ -999,7 +1001,7 @@ English (EN) (18.13 KB - PDF)
 
 [View](/en/documents/conditions-member-states/inomax-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-657)
+[Other languages (23)](#file-language-dropdown-370)
 
 български (BG) (86.87 KB - PDF)
 

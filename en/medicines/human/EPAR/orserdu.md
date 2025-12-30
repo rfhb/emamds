@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:25:28
+document_datetime: 2025-12-29 11:27:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/orserdu.html
 document_name: orserdu.html
 version: success
-processing_time: 0.1182177
-conversion_datetime: 2025-12-25 05:53:43.259992
+processing_time: 0.121334
+conversion_datetime: 2025-12-30 10:23:29.39632
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 elacestrant Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -100,7 +102,7 @@ English (EN) (119.34 KB - PDF)
 
 [View](/en/documents/overview/orserdu-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-341)
+[Other languages (22)](#file-language-dropdown-393)
 
 български (BG) (151.47 KB - PDF)
 
@@ -298,7 +300,7 @@ English (EN) (482.02 KB - PDF)
 
 [View](/en/documents/product-information/orserdu-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-737)
+[Other languages (24)](#file-language-dropdown-980)
 
 български (BG) (554.42 KB - PDF)
 
@@ -612,7 +614,7 @@ English (EN) (46.33 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/orserdu-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-63)
+[Other languages (24)](#file-language-dropdown-40)
 
 български (BG) (62.73 KB - PDF)
 
@@ -902,7 +904,7 @@ English (EN) (203.24 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/orserdu-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-36)
+[Other languages (24)](#file-language-dropdown-632)
 
 български (BG) (241.66 KB - DOCX)
 

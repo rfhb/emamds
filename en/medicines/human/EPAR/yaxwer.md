@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 07:03:34
+document_datetime: 2025-12-29 12:49:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/yaxwer.html
 document_name: yaxwer.html
 version: success
-processing_time: 0.098353
-conversion_datetime: 2025-12-26 21:11:39.228245
+processing_time: 0.0866986
+conversion_datetime: 2025-12-30 13:07:50.958476
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 denosumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (129.07 KB - PDF)
 
 [View](/en/documents/overview/yaxwer-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-281)
+[Other languages (22)](#file-language-dropdown-501)
 
 български (BG) (154.29 KB - PDF)
 
@@ -311,7 +313,7 @@ English (EN) (471.85 KB - PDF)
 
 [View](/en/documents/product-information/yaxwer-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-883)
+[Other languages (24)](#file-language-dropdown-963)
 
 български (BG) (788.8 KB - PDF)
 
@@ -336,6 +338,14 @@ español (ES) (779.98 KB - PDF)
 08/09/2025
 
 [View](/cs/documents/product-information/yaxwer-epar-product-information_cs.pdf)
+
+dansk (DA) (612.27 KB - PDF)
+
+**First published:**
+
+08/09/2025
+
+[View](/da/documents/product-information/yaxwer-epar-product-information_da.pdf)
 
 Deutsch (DE) (781.12 KB - PDF)
 
@@ -473,6 +483,14 @@ slovenčina (SK) (539.66 KB - PDF)
 
 [View](/sk/documents/product-information/yaxwer-epar-product-information_sk.pdf)
 
+slovenščina (SL) (607.03 KB - PDF)
+
+**First published:**
+
+08/09/2025
+
+[View](/sl/documents/product-information/yaxwer-epar-product-information_sl.pdf)
+
 Suomi (FI) (671.94 KB - PDF)
 
 **First published:**
@@ -480,6 +498,14 @@ Suomi (FI) (671.94 KB - PDF)
 08/09/2025
 
 [View](/fi/documents/product-information/yaxwer-epar-product-information_fi.pdf)
+
+svenska (SV) (626.31 KB - PDF)
+
+**First published:**
+
+08/09/2025
+
+[View](/sv/documents/product-information/yaxwer-epar-product-information_sv.pdf)
 
 icon globe
 
@@ -503,7 +529,7 @@ English (EN) (62.91 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/yaxwer-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-544)
+[Other languages (21)](#file-language-dropdown-858)
 
 български (BG) (81.42 KB - PDF)
 

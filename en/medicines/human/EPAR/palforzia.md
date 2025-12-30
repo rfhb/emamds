@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:29:54
+document_datetime: 2025-12-29 11:45:43
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/palforzia.html
 document_name: palforzia.html
 version: success
-processing_time: 0.1030087
-conversion_datetime: 2025-12-25 13:03:25.886404
+processing_time: 0.1188401
+conversion_datetime: 2025-12-30 10:52:09.052037
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 defatted powder of Arachis hypogaea L., semen (peanuts) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (101.48 KB - PDF)
 
 [View](/en/documents/overview/palforzia-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-381)
+[Other languages (22)](#file-language-dropdown-886)
 
 български (BG) (134 KB - PDF)
 
@@ -404,7 +406,7 @@ English (EN) (685.57 KB - PDF)
 
 [View](/en/documents/product-information/palforzia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-877)
+[Other languages (24)](#file-language-dropdown-358)
 
 български (BG) (770.76 KB - PDF)
 
@@ -720,7 +722,7 @@ English (EN) (56.99 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/palforzia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-408)
+[Other languages (24)](#file-language-dropdown-45)
 
 български (BG) (80.02 KB - PDF)
 

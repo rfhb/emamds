@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:59:46
+document_datetime: 2025-12-29 14:19:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zevalin.html
 document_name: zevalin.html
 version: success
-processing_time: 0.1075672
-conversion_datetime: 2025-12-28 09:32:56.754626
+processing_time: 0.3313053
+conversion_datetime: 2025-12-30 01:28:30.430182
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has lapsed
 
 ibritumomab tiuxetan Medicine Human Lapsed
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -58,7 +60,7 @@ English (EN) (101.11 KB - PDF)
 
 [View](/en/documents/overview/zevalin-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-518)
+[Other languages (21)](#file-language-dropdown-493)
 
 български (BG) (235.65 KB - PDF)
 
@@ -332,7 +334,7 @@ English (EN) (993.89 KB - PDF)
 
 [View](/en/documents/product-information/zevalin-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-49)
+[Other languages (24)](#file-language-dropdown-214)
 
 български (BG) (1.16 MB - PDF)
 
@@ -648,7 +650,7 @@ English (EN) (89.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zevalin-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-116)
+[Other languages (21)](#file-language-dropdown-790)
 
 български (BG) (113.57 KB - PDF)
 

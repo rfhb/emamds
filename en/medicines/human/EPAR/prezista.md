@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:01:02
+document_datetime: 2025-12-29 09:25:34
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/prezista.html
 document_name: prezista.html
 version: success
-processing_time: 0.1482405
-conversion_datetime: 2025-12-26 18:40:34.104357
+processing_time: 0.1471683
+conversion_datetime: 2025-12-30 03:31:30.73289
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 darunavir Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +122,7 @@ English (EN) (150.32 KB - PDF)
 
 [View](/en/documents/overview/prezista-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-922)
+[Other languages (21)](#file-language-dropdown-164)
 
 български (BG) (175.96 KB - PDF)
 
@@ -406,7 +408,7 @@ English (EN) (1.06 MB - PDF)
 
 [View](/en/documents/product-information/prezista-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-642)
+[Other languages (24)](#file-language-dropdown-963)
 
 български (BG) (1.13 MB - PDF)
 
@@ -722,7 +724,7 @@ English (EN) (22.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/prezista-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-940)
+[Other languages (24)](#file-language-dropdown-247)
 
 български (BG) (25.44 KB - PDF)
 

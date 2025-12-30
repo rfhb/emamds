@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:54:33
+document_datetime: 2025-12-29 12:49:58
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xofigo.html
 document_name: xofigo.html
 version: success
-processing_time: 0.1168247
-conversion_datetime: 2025-12-28 00:41:19.195904
+processing_time: 0.1114352
+conversion_datetime: 2025-12-30 09:57:10.985017
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 radium Ra223 dichloride Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (77.16 KB - PDF)
 
 [View](/en/documents/overview/xofigo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-656)
+[Other languages (22)](#file-language-dropdown-650)
 
 български (BG) (103.58 KB - PDF)
 
@@ -397,7 +399,7 @@ English (EN) (509.92 KB - PDF)
 
 [View](/en/documents/product-information/xofigo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-113)
+[Other languages (24)](#file-language-dropdown-737)
 
 български (BG) (870.99 KB - PDF)
 
@@ -713,7 +715,7 @@ English (EN) (23.05 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xofigo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-402)
+[Other languages (24)](#file-language-dropdown-270)
 
 български (BG) (29.94 KB - PDF)
 

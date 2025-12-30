@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 14:31:05
+document_datetime: 2025-12-29 14:33:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/osseor.html
 document_name: osseor.html
 version: success
-processing_time: 0.1217382
-conversion_datetime: 2025-12-28 12:28:38.608453
+processing_time: 0.1108815
+conversion_datetime: 2025-12-30 13:02:51.360382
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-strontium ranelate
+strontium ranelate Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (639.48 KB - PDF)
 
 [View](/en/documents/overview/osseor-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-369)
+[Other languages (22)](#file-language-dropdown-767)
 
 български (BG) (756.91 KB - PDF)
 
@@ -345,7 +341,7 @@ English (EN) (1.04 MB - PDF)
 
 [View](/en/documents/product-information/osseor-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-476)
+[Other languages (24)](#file-language-dropdown-330)
 
 български (BG) (1.91 MB - PDF)
 
@@ -661,7 +657,7 @@ English (EN) (622.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/osseor-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-364)
+[Other languages (21)](#file-language-dropdown-349)
 
 български (BG) (631.65 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:10:39
+document_datetime: 2025-12-29 12:46:58
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fymskina.html
 document_name: fymskina.html
 version: success
-processing_time: 0.1255432
-conversion_datetime: 2025-12-28 14:27:59.084768
+processing_time: 0.126888
+conversion_datetime: 2025-12-30 10:46:30.84016
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ustekinumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (144.63 KB - PDF)
 
 [View](/en/documents/overview/fymskina-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-736)
+[Other languages (22)](#file-language-dropdown-527)
 
 български (BG) (172.59 KB - PDF)
 
@@ -405,7 +407,7 @@ English (EN) (1.07 MB - PDF)
 
 [View](/en/documents/product-information/fymskina-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-519)
+[Other languages (24)](#file-language-dropdown-973)
 
 български (BG) (1.45 MB - PDF)
 
@@ -719,7 +721,7 @@ English (EN) (24.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fymskina-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-878)
+[Other languages (24)](#file-language-dropdown-623)
 
 български (BG) (50.4 KB - PDF)
 
@@ -1019,7 +1021,7 @@ English (EN) (602.91 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/fymskina-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-94)
+[Other languages (24)](#file-language-dropdown-342)
 
 български (BG) (739.06 KB - DOCX)
 

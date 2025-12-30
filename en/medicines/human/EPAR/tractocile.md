@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:48:25
+document_datetime: 2025-12-29 07:49:38
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tractocile.html
 document_name: tractocile.html
 version: success
-processing_time: 0.1073152
-conversion_datetime: 2025-12-27 19:33:46.149583
+processing_time: 0.107679
+conversion_datetime: 2025-12-30 09:30:02.364262
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 atosiban Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (81.34 KB - PDF)
 
 [View](/en/documents/overview/tractocile-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-55)
+[Other languages (21)](#file-language-dropdown-349)
 
 български (BG) (162.84 KB - PDF)
 
@@ -374,7 +376,7 @@ English (EN) (252.71 KB - PDF)
 
 [View](/en/documents/product-information/tractocile-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-938)
+[Other languages (24)](#file-language-dropdown-811)
 
 български (BG) (328.71 KB - PDF)
 
@@ -690,7 +692,7 @@ English (EN) (9.24 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tractocile-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-565)
+[Other languages (24)](#file-language-dropdown-288)
 
 български (BG) (124.29 KB - PDF)
 

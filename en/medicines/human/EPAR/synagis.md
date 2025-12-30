@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-21 09:04:18
+document_datetime: 2025-12-29 13:14:12
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/synagis.html
 document_name: synagis.html
 version: success
-processing_time: 0.1188035
-conversion_datetime: 2025-12-25 05:23:15.44379
+processing_time: 0.120884
+conversion_datetime: 2025-12-30 03:40:14.569146
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -108,7 +108,7 @@ English (EN) (93.97 KB - PDF)
 
 [View](/en/documents/overview/synagis-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-396)
+[Other languages (22)](#file-language-dropdown-417)
 
 български (BG) (123.31 KB - PDF)
 
@@ -396,7 +396,7 @@ English (EN) (172.93 KB - PDF)
 
 [View](/en/documents/product-information/synagis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-920)
+[Other languages (24)](#file-language-dropdown-428)
 
 български (BG) (216.08 KB - PDF)
 
@@ -712,7 +712,7 @@ English (EN) (28.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/synagis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-685)
+[Other languages (24)](#file-language-dropdown-281)
 
 български (BG) (31.13 KB - PDF)
 

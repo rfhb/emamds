@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:00:55
+document_datetime: 2025-12-29 14:12:05
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/extavia.html
 document_name: extavia.html
 version: success
-processing_time: 0.1063972
-conversion_datetime: 2025-12-28 13:15:46.135662
+processing_time: 0.1049896
+conversion_datetime: 2025-12-30 07:54:03.1881
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-interferon beta-1b
+interferon beta-1b Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (228.41 KB - PDF)
 
 [View](/en/documents/overview/extavia-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-317)
+[Other languages (22)](#file-language-dropdown-510)
 
 български (BG) (292.32 KB - PDF)
 
@@ -354,7 +350,7 @@ English (EN) (2.51 MB - PDF)
 
 [View](/en/documents/product-information/extavia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-187)
+[Other languages (24)](#file-language-dropdown-205)
 
 български (BG) (3.1 MB - PDF)
 
@@ -670,7 +666,7 @@ English (EN) (210.06 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/extavia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-606)
+[Other languages (24)](#file-language-dropdown-146)
 
 български (BG) (192.81 KB - PDF)
 

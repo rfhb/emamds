@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:06:02
+document_datetime: 2025-12-29 11:31:29
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/simbrinza.html
 document_name: simbrinza.html
 version: success
-processing_time: 0.1117835
-conversion_datetime: 2025-12-24 19:33:51.756292
+processing_time: 0.1175025
+conversion_datetime: 2025-12-30 10:24:05.03719
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 brinzolamide / brimonidine tartrate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +116,7 @@ English (EN) (76.57 KB - PDF)
 
 [View](/en/documents/overview/simbrinza-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-14)
+[Other languages (22)](#file-language-dropdown-907)
 
 български (BG) (104.9 KB - PDF)
 
@@ -402,7 +404,7 @@ English (EN) (373.43 KB - PDF)
 
 [View](/en/documents/product-information/simbrinza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-418)
+[Other languages (24)](#file-language-dropdown-320)
 
 български (BG) (518.44 KB - PDF)
 
@@ -718,7 +720,7 @@ English (EN) (11.83 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/simbrinza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-335)
+[Other languages (23)](#file-language-dropdown-236)
 
 български (BG) (11.57 KB - PDF)
 

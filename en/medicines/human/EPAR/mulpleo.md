@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:59:51
+document_datetime: 2025-12-29 14:36:06
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mulpleo.html
 document_name: mulpleo.html
 version: success
-processing_time: 0.0864998
-conversion_datetime: 2025-12-23 23:54:34.936173
+processing_time: 0.1108273
+conversion_datetime: 2025-12-30 01:21:42.703349
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lusutrombopag Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (74.75 KB - PDF)
 
 [View](/en/documents/overview/mulpleo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-522)
+[Other languages (22)](#file-language-dropdown-519)
 
 български (BG) (100.86 KB - PDF)
 
@@ -392,7 +394,7 @@ English (EN) (602.58 KB - PDF)
 
 [View](/en/documents/product-information/mulpleo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-686)
+[Other languages (24)](#file-language-dropdown-227)
 
 български (BG) (703.39 KB - PDF)
 
@@ -708,7 +710,7 @@ English (EN) (15.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mulpleo-previously-lusutrombopag-shionogi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-435)
+[Other languages (24)](#file-language-dropdown-108)
 
 български (BG) (68.35 KB - PDF)
 

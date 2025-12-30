@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:13:53
+document_datetime: 2025-12-29 11:19:39
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ovitrelle.html
 document_name: ovitrelle.html
 version: success
-processing_time: 0.1111225
-conversion_datetime: 2025-12-28 02:23:34.397695
+processing_time: 0.1116628
+conversion_datetime: 2025-12-30 03:10:45.59659
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 choriogonadotropin alfa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -95,7 +97,7 @@ English (EN) (140.17 KB - PDF)
 
 [View](/en/documents/overview/ovitrelle-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-652)
+[Other languages (22)](#file-language-dropdown-299)
 
 български (BG) (162.85 KB - PDF)
 
@@ -373,7 +375,7 @@ English (EN) (795.07 KB - PDF)
 
 [View](/en/documents/product-information/ovitrelle-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-757)
+[Other languages (24)](#file-language-dropdown-81)
 
 български (BG) (889.05 KB - PDF)
 
@@ -689,7 +691,7 @@ English (EN) (12.82 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ovitrelle-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-107)
+[Other languages (24)](#file-language-dropdown-141)
 
 български (BG) (54.9 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:38:16
+document_datetime: 2025-12-29 12:32:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/gliolan.html
 document_name: gliolan.html
 version: success
-processing_time: 0.1268836
-conversion_datetime: 2025-12-26 21:15:07.579939
+processing_time: 0.125176
+conversion_datetime: 2025-12-30 03:39:16.086114
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 5-aminolevulinic acid hydrochloride Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (43.73 KB - PDF)
 
 [View](/en/documents/overview/gliolan-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-908)
+[Other languages (21)](#file-language-dropdown-554)
 
 български (BG) (179.94 KB - PDF)
 
@@ -391,7 +393,7 @@ English (EN) (370.9 KB - PDF)
 
 [View](/en/documents/product-information/gliolan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-345)
+[Other languages (24)](#file-language-dropdown-436)
 
 български (BG) (411.93 KB - PDF)
 
@@ -707,7 +709,7 @@ English (EN) (48.26 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/gliolan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-778)
+[Other languages (24)](#file-language-dropdown-417)
 
 български (BG) (33.69 KB - PDF)
 
@@ -1007,7 +1009,7 @@ English (EN) (16.98 KB - PDF)
 
 [View](/en/documents/conditions-member-states/gliolan-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-557)
+[Other languages (21)](#file-language-dropdown-254)
 
 български (BG) (88.29 KB - PDF)
 

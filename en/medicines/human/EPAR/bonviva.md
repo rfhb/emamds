@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:02:04
+document_datetime: 2025-12-29 11:09:02
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bonviva.html
 document_name: bonviva.html
 version: success
-processing_time: 0.115999
-conversion_datetime: 2025-12-25 04:00:58.144199
+processing_time: 0.1063215
+conversion_datetime: 2025-12-30 12:10:24.376967
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ibandronic acid Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (76.85 KB - PDF)
 
 [View](/en/documents/overview/bonviva-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-799)
+[Other languages (22)](#file-language-dropdown-981)
 
 български (BG) (104.18 KB - PDF)
 
@@ -396,7 +398,7 @@ English (EN) (461.86 KB - PDF)
 
 [View](/en/documents/product-information/bonviva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-26)
+[Other languages (24)](#file-language-dropdown-572)
 
 български (BG) (606.21 KB - PDF)
 
@@ -712,7 +714,7 @@ English (EN) (22.4 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bonviva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-803)
+[Other languages (21)](#file-language-dropdown-969)
 
 български (BG) (95.42 KB - PDF)
 

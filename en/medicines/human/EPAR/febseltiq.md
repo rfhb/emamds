@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:03:36
+document_datetime: 2025-12-29 08:16:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/febseltiq.html
 document_name: febseltiq.html
 version: success
-processing_time: 0.0652551
-conversion_datetime: 2025-12-27 09:35:08.676951
+processing_time: 0.0539978
+conversion_datetime: 2025-12-30 11:49:48.566696
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 infigratinib Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -100,7 +102,7 @@ English (EN) (89.7 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-application-marketing-authorisation-febseltiq-infigratinib_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-122)
+[Other languages (22)](#file-language-dropdown-41)
 
 български (BG) (144.64 KB - PDF)
 

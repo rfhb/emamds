@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:56:44
+document_datetime: 2025-12-29 11:21:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/betmiga.html
 document_name: betmiga.html
 version: success
-processing_time: 0.1266534
-conversion_datetime: 2025-12-28 04:31:48.701254
+processing_time: 0.1290149
+conversion_datetime: 2025-12-30 20:26:17.573144
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 mirabegron Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +123,7 @@ English (EN) (126.88 KB - PDF)
 
 [View](/en/documents/overview/betmiga-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-258)
+[Other languages (22)](#file-language-dropdown-788)
 
 български (BG) (150.13 KB - PDF)
 
@@ -409,7 +411,7 @@ English (EN) (4.24 MB - PDF)
 
 [View](/en/documents/product-information/betmiga-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-234)
+[Other languages (24)](#file-language-dropdown-657)
 
 български (BG) (2.17 MB - PDF)
 
@@ -725,7 +727,7 @@ English (EN) (623 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/betmiga-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-389)
+[Other languages (24)](#file-language-dropdown-156)
 
 български (BG) (194.31 KB - PDF)
 

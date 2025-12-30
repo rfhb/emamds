@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:04:18
+document_datetime: 2025-12-29 15:02:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/neupopeg.html
 document_name: neupopeg.html
 version: success
-processing_time: 0.0872477
-conversion_datetime: 2025-12-26 20:00:12.615082
+processing_time: 0.1015462
+conversion_datetime: 2025-12-30 22:24:32.558388
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-pegfilgrastim
+pegfilgrastim Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (262.17 KB - PDF)
 
 [View](/en/documents/overview/neupopeg-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-936)
+[Other languages (21)](#file-language-dropdown-372)
 
 български (BG) (424.18 KB - PDF)
 
@@ -332,7 +328,7 @@ English (EN) (886.59 KB - PDF)
 
 [View](/en/documents/product-information/neupopeg-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-734)
+[Other languages (21)](#file-language-dropdown-364)
 
 български (BG) (1.21 MB - PDF)
 
@@ -612,7 +608,7 @@ English (EN) (267.98 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/neupopeg-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-453)
+[Other languages (21)](#file-language-dropdown-397)
 
 български (BG) (336.47 KB - PDF)
 

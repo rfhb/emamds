@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:19:40
+document_datetime: 2025-12-29 11:46:35
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rimmyrah.html
 document_name: rimmyrah.html
 version: success
-processing_time: 0.1115107
-conversion_datetime: 2025-12-28 00:49:41.414203
+processing_time: 0.110217
+conversion_datetime: 2025-12-30 09:06:46.821045
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ranibizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (144.29 KB - PDF)
 
 [View](/en/documents/overview/rimmyrah-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-721)
+[Other languages (22)](#file-language-dropdown-631)
 
 български (BG) (161.17 KB - PDF)
 
@@ -314,7 +316,7 @@ English (EN) (939.29 KB - PDF)
 
 [View](/en/documents/product-information/rimmyrah-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-578)
+[Other languages (24)](#file-language-dropdown-511)
 
 български (BG) (1.55 MB - PDF)
 
@@ -630,7 +632,7 @@ English (EN) (7.97 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rimmyrah-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-50)
+[Other languages (24)](#file-language-dropdown-133)
 
 български (BG) (33.61 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:41:42
+document_datetime: 2025-12-29 12:00:12
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/qutenza.html
 document_name: qutenza.html
 version: success
-processing_time: 0.1119986
-conversion_datetime: 2025-12-28 03:12:25.064232
+processing_time: 0.1000058
+conversion_datetime: 2025-12-30 12:25:24.781816
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 capsaicin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (75.69 KB - PDF)
 
 [View](/en/documents/overview/qutenza-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-236)
+[Other languages (22)](#file-language-dropdown-534)
 
 български (BG) (106.3 KB - PDF)
 
@@ -389,7 +391,7 @@ English (EN) (185.47 KB - PDF)
 
 [View](/en/documents/product-information/qutenza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-880)
+[Other languages (24)](#file-language-dropdown-169)
 
 български (BG) (209.84 KB - PDF)
 
@@ -705,7 +707,7 @@ English (EN) (12.25 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/qutenza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-215)
+[Other languages (21)](#file-language-dropdown-67)
 
 български (BG) (77.75 KB - PDF)
 

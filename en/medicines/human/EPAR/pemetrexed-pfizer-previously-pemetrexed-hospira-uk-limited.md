@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:06:36
+document_datetime: 2025-12-29 14:36:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pemetrexed-pfizer-previously-pemetrexed-hospira-uk-limited.html
 document_name: pemetrexed-pfizer-previously-pemetrexed-hospira-uk-limited.html
 version: success
-processing_time: 0.1076565
-conversion_datetime: 2025-12-28 11:21:03.482255
+processing_time: 0.097614
+conversion_datetime: 2025-12-30 12:23:00.66682
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-pemetrexed
+pemetrexed Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -74,7 +70,7 @@ English (EN) (686.77 KB - PDF)
 
 [View](/en/documents/overview/pemetrexed-hospira-uk-limited-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-913)
+[Other languages (22)](#file-language-dropdown-777)
 
 български (BG) (780.57 KB - PDF)
 
@@ -352,7 +348,7 @@ English (EN) (419.85 KB - PDF)
 
 [View](/en/documents/product-information/pemetrexed-pfizer-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-962)
+[Other languages (24)](#file-language-dropdown-424)
 
 български (BG) (802.46 KB - PDF)
 
@@ -668,7 +664,7 @@ English (EN) (596.99 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pemetrexed-pfizer-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-415)
+[Other languages (24)](#file-language-dropdown-738)
 
 български (BG) (623.33 KB - PDF)
 

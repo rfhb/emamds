@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:46:07
+document_datetime: 2025-12-29 11:03:54
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/drovelis.html
 document_name: drovelis.html
 version: success
-processing_time: 0.1063747
-conversion_datetime: 2025-12-27 19:32:19.293458
+processing_time: 0.1071958
+conversion_datetime: 2025-12-30 02:25:29.37912
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 estetrol / drospirenone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -102,7 +104,7 @@ English (EN) (109.31 KB - PDF)
 
 [View](/en/documents/overview/drovelis-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-473)
+[Other languages (22)](#file-language-dropdown-191)
 
 български (BG) (133.66 KB - PDF)
 
@@ -302,7 +304,7 @@ English (EN) (512.54 KB - PDF)
 
 [View](/en/documents/product-information/drovelis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-171)
+[Other languages (24)](#file-language-dropdown-209)
 
 български (BG) (750.01 KB - PDF)
 
@@ -616,7 +618,7 @@ English (EN) (17.65 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/drovelis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-266)
+[Other languages (24)](#file-language-dropdown-768)
 
 български (BG) (40.38 KB - PDF)
 

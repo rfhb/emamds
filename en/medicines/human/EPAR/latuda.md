@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:17:19
+document_datetime: 2025-12-29 11:34:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/latuda.html
 document_name: latuda.html
 version: success
-processing_time: 0.1222227
-conversion_datetime: 2025-12-25 03:23:24.868324
+processing_time: 0.1136926
+conversion_datetime: 2025-12-30 01:19:37.633836
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lurasidone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (128.82 KB - PDF)
 
 [View](/en/documents/overview/latuda-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-28)
+[Other languages (22)](#file-language-dropdown-594)
 
 български (BG) (145.07 KB - PDF)
 
@@ -397,7 +399,7 @@ English (EN) (242.62 KB - PDF)
 
 [View](/en/documents/product-information/latuda-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-90)
+[Other languages (24)](#file-language-dropdown-181)
 
 български (BG) (445.77 KB - PDF)
 
@@ -713,7 +715,7 @@ English (EN) (27.72 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/latuda-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-467)
+[Other languages (24)](#file-language-dropdown-210)
 
 български (BG) (63.41 KB - PDF)
 

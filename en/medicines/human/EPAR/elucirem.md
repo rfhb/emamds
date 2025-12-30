@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:09:36
+document_datetime: 2025-12-29 13:39:49
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/elucirem.html
 document_name: elucirem.html
 version: success
-processing_time: 0.1220842
-conversion_datetime: 2025-12-25 09:33:58.709869
+processing_time: 0.1269194
+conversion_datetime: 2025-12-30 11:10:15.412233
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 gadopiclenol Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -97,7 +99,7 @@ English (EN) (102.35 KB - PDF)
 
 [View](/en/documents/overview/elucirem-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-858)
+[Other languages (22)](#file-language-dropdown-241)
 
 български (BG) (140.9 KB - PDF)
 
@@ -295,7 +297,7 @@ English (EN) (540.12 KB - PDF)
 
 [View](/en/documents/product-information/elucirem-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-327)
+[Other languages (24)](#file-language-dropdown-925)
 
 български (BG) (591.71 KB - PDF)
 
@@ -609,7 +611,7 @@ English (EN) (127.66 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/elucirem-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-525)
+[Other languages (23)](#file-language-dropdown-419)
 
 български (BG) (136.99 KB - PDF)
 
@@ -887,6 +889,8 @@ English (EN) (153.46 KB - PDF)
 
 #### News on Elucirem
 
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 8-11 December 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-8-11-december-2025) 12/12/2025
+
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 October 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-october-2023) 13/10/2023
 
 #### Product information - with tracked changes
@@ -901,7 +905,7 @@ English (EN) (153.11 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/elucirem-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-702)
+[Other languages (24)](#file-language-dropdown-251)
 
 български (BG) (152.68 KB - DOCX)
 
@@ -1098,6 +1102,7 @@ svenska (SV) (141.38 KB - DOCX)
 #### More information on Elucirem
 
 - [EMEA-001949-PIP01-16-M07 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001949-pip01-16-m07)
+- [Elucirem - opinion on variation to marketing authorisation](/en/medicines/human/variation/elucirem)
 
 **This page was last updated on** 14/11/2025
 

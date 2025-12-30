@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:03:50
+document_datetime: 2025-12-29 15:46:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vorinostat-msd.html
 document_name: vorinostat-msd.html
 version: success
-processing_time: 0.0671954
-conversion_datetime: 2025-12-28 14:05:39.047337
+processing_time: 0.0547209
+conversion_datetime: 2025-12-30 12:43:25.331728
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +103,7 @@ English (EN) (68.37 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-application-vorinostat-msd_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-622)
+[Other languages (21)](#file-language-dropdown-766)
 
 български (BG) (142.57 KB - PDF)
 

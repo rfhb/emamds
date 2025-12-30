@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:53:51
+document_datetime: 2025-12-29 14:36:07
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/febuxostat-krka.html
 document_name: febuxostat-krka.html
 version: success
-processing_time: 0.1151343
-conversion_datetime: 2025-12-24 08:16:43.456947
+processing_time: 0.1218361
+conversion_datetime: 2025-12-30 08:22:20.16068
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 febuxostat Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +105,7 @@ English (EN) (76.46 KB - PDF)
 
 [View](/en/documents/overview/febuxostat-krka-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-553)
+[Other languages (22)](#file-language-dropdown-643)
 
 български (BG) (124.17 KB - PDF)
 
@@ -301,7 +303,7 @@ English (EN) (313.47 KB - PDF)
 
 [View](/en/documents/product-information/febuxostat-krka-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-597)
+[Other languages (24)](#file-language-dropdown-299)
 
 български (BG) (390.69 KB - PDF)
 
@@ -615,7 +617,7 @@ English (EN) (16.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/febuxostat-krka-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-79)
+[Other languages (24)](#file-language-dropdown-167)
 
 български (BG) (37.11 KB - PDF)
 
@@ -912,7 +914,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

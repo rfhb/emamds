@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:07:19
+document_datetime: 2025-12-29 14:35:22
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/numient.html
 document_name: numient.html
 version: success
-processing_time: 0.1000511
-conversion_datetime: 2025-12-24 18:12:11.802944
+processing_time: 0.1068627
+conversion_datetime: 2025-12-30 20:03:00.018465
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-levodopa / carbidopa
+levodopa / carbidopa Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -65,7 +61,7 @@ English (EN) (665.21 KB - PDF)
 
 [View](/en/documents/overview/numient-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-610)
+[Other languages (22)](#file-language-dropdown-184)
 
 български (BG) (760.76 KB - PDF)
 
@@ -353,7 +349,7 @@ English (EN) (1.18 MB - PDF)
 
 [View](/en/documents/product-information/numient-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-220)
+[Other languages (24)](#file-language-dropdown-941)
 
 български (BG) (2.27 MB - PDF)
 
@@ -669,7 +665,7 @@ English (EN) (1.14 MB - PDF)
 
 [View](/en/documents/all-authorised-presentations/numient-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-758)
+[Other languages (24)](#file-language-dropdown-409)
 
 български (BG) (663.12 KB - PDF)
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:26:09
+document_datetime: 2025-12-29 09:09:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/teriflunomide-accord.html
 document_name: teriflunomide-accord.html
 version: success
-processing_time: 0.1303751
-conversion_datetime: 2025-12-23 20:32:07.231358
+processing_time: 0.1274677
+conversion_datetime: 2025-12-30 03:40:32.134236
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 teriflunomide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -102,7 +104,7 @@ English (EN) (144.61 KB - PDF)
 
 [View](/en/documents/overview/teriflunomide-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-917)
+[Other languages (22)](#file-language-dropdown-793)
 
 български (BG) (157.52 KB - PDF)
 
@@ -302,7 +304,7 @@ English (EN) (603.6 KB - PDF)
 
 [View](/en/documents/product-information/teriflunomide-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-728)
+[Other languages (24)](#file-language-dropdown-528)
 
 български (BG) (914.14 KB - PDF)
 
@@ -618,7 +620,7 @@ English (EN) (85.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/teriflunomide-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-803)
+[Other languages (24)](#file-language-dropdown-86)
 
 български (BG) (93.76 KB - PDF)
 
@@ -1021,7 +1023,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

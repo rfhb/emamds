@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:57:36
+document_datetime: 2025-12-29 11:48:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zeffix.html
 document_name: zeffix.html
 version: success
-processing_time: 0.1185133
-conversion_datetime: 2025-12-24 01:22:17.671475
+processing_time: 0.110854
+conversion_datetime: 2025-12-30 10:17:22.790157
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lamivudine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (108.73 KB - PDF)
 
 [View](/en/documents/overview/zeffix-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-623)
+[Other languages (22)](#file-language-dropdown-859)
 
 български (BG) (112.79 KB - PDF)
 
@@ -390,7 +392,7 @@ English (EN) (441.69 KB - PDF)
 
 [View](/en/documents/product-information/zeffix-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-990)
+[Other languages (24)](#file-language-dropdown-983)
 
 български (BG) (606.56 KB - PDF)
 
@@ -706,7 +708,7 @@ English (EN) (62.31 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zeffix-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-786)
+[Other languages (18)](#file-language-dropdown-695)
 
 español (ES) (63.73 KB - PDF)
 

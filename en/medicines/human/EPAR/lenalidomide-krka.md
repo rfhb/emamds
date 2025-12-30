@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:58:14
+document_datetime: 2025-12-29 11:30:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lenalidomide-krka.html
 document_name: lenalidomide-krka.html
 version: success
-processing_time: 0.1516632
-conversion_datetime: 2025-12-28 01:49:13.883542
+processing_time: 0.1418066
+conversion_datetime: 2025-12-30 12:33:57.220684
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lenalidomide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (160.61 KB - PDF)
 
 [View](/en/documents/overview/lenalidomide-krka-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-352)
+[Other languages (22)](#file-language-dropdown-183)
 
 български (BG) (138.53 KB - PDF)
 
@@ -404,7 +406,7 @@ English (EN) (654.94 KB - PDF)
 
 [View](/en/documents/product-information/lenalidomide-krka-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-993)
+[Other languages (24)](#file-language-dropdown-475)
 
 български (BG) (729.17 KB - PDF)
 
@@ -720,7 +722,7 @@ English (EN) (45.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lenalidomide-krka-epar-all-authorised-presentation_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-395)
+[Other languages (24)](#file-language-dropdown-295)
 
 български (BG) (51.88 KB - PDF)
 
@@ -1020,7 +1022,7 @@ English (EN) (56.83 KB - PDF)
 
 [View](/en/documents/conditions-member-states/lenalidomide-krka-epar-conditions-or-restrictions-regard-safe-and-effective-use-medicinal-product-be-implemented-member-states_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-97)
+[Other languages (24)](#file-language-dropdown-154)
 
 български (BG) (69.33 KB - PDF)
 
@@ -1427,7 +1429,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

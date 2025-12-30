@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:24:22
+document_datetime: 2025-12-29 12:01:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pazenir.html
 document_name: pazenir.html
 version: success
-processing_time: 0.104768
-conversion_datetime: 2025-12-24 05:48:29.200439
+processing_time: 0.1275975
+conversion_datetime: 2025-12-30 09:44:42.986956
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 paclitaxel Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (169.53 KB - PDF)
 
 [View](/en/documents/overview/pazenir-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-71)
+[Other languages (22)](#file-language-dropdown-759)
 
 български (BG) (192.68 KB - PDF)
 
@@ -401,7 +403,7 @@ English (EN) (850.27 KB - PDF)
 
 [View](/en/documents/product-information/pazenir-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-924)
+[Other languages (24)](#file-language-dropdown-569)
 
 български (BG) (802.06 KB - PDF)
 
@@ -715,7 +717,7 @@ English (EN) (9.72 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pazenir-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-142)
+[Other languages (24)](#file-language-dropdown-736)
 
 български (BG) (35.47 KB - PDF)
 
@@ -1007,7 +1009,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

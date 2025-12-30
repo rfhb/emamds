@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:28:37
+document_datetime: 2025-12-29 14:16:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/onureg.html
 document_name: onureg.html
 version: success
-processing_time: 0.1042725
-conversion_datetime: 2025-12-25 01:57:06.008287
+processing_time: 0.1075074
+conversion_datetime: 2025-12-30 22:36:36.533025
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 azacitidine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -100,7 +102,7 @@ English (EN) (157.14 KB - PDF)
 
 [View](/en/documents/overview/onureg-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-484)
+[Other languages (22)](#file-language-dropdown-716)
 
 български (BG) (152.27 KB - PDF)
 
@@ -298,7 +300,7 @@ English (EN) (502.59 KB - PDF)
 
 [View](/en/documents/product-information/onureg-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-897)
+[Other languages (24)](#file-language-dropdown-677)
 
 български (BG) (757.48 KB - PDF)
 
@@ -612,7 +614,7 @@ English (EN) (40.63 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/onureg-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-420)
+[Other languages (24)](#file-language-dropdown-115)
 
 български (BG) (48.05 KB - PDF)
 

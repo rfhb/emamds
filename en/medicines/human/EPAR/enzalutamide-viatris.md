@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-17 23:28:51
+document_datetime: 2025-12-29 11:27:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/enzalutamide-viatris.html
 document_name: enzalutamide-viatris.html
 version: success
-processing_time: 0.1162504
-conversion_datetime: 2025-12-24 03:09:20.384297
+processing_time: 0.1073101
+conversion_datetime: 2025-12-30 21:24:04.41228
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 enzalutamide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +106,7 @@ English (EN) (183.39 KB - PDF)
 
 [View](/en/documents/overview/enzalutamide-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-746)
+[Other languages (22)](#file-language-dropdown-915)
 
 български (BG) (206.28 KB - PDF)
 
@@ -302,7 +304,7 @@ English (EN) (1.45 MB - PDF)
 
 [View](/en/documents/product-information/enzalutamide-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-808)
+[Other languages (24)](#file-language-dropdown-732)
 
 български (BG) (1.3 MB - PDF)
 
@@ -618,7 +620,7 @@ English (EN) (15.8 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/enzalutamide-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-62)
+[Other languages (24)](#file-language-dropdown-481)
 
 български (BG) (68.77 KB - PDF)
 

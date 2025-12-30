@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:14:36
+document_datetime: 2025-12-29 12:02:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/galliapharm.html
 document_name: galliapharm.html
 version: success
-processing_time: 0.1019705
-conversion_datetime: 2025-12-27 21:19:03.360107
+processing_time: 0.1018846
+conversion_datetime: 2025-12-30 12:08:37.122274
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 gallium (68Ga) chloride / germanium (68Ge) chloride Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -97,7 +99,7 @@ English (EN) (120.4 KB - PDF)
 
 [View](/en/documents/overview/galliapharm-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-63)
+[Other languages (22)](#file-language-dropdown-97)
 
 български (BG) (149.46 KB - PDF)
 
@@ -293,7 +295,7 @@ English (EN) (1.51 MB - PDF)
 
 [View](/en/documents/product-information/galliapharm-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-59)
+[Other languages (24)](#file-language-dropdown-979)
 
 български (BG) (1.56 MB - PDF)
 
@@ -511,7 +513,7 @@ English (EN) (68.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/galliapharm-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-961)
+[Other languages (24)](#file-language-dropdown-346)
 
 български (BG) (73.29 KB - PDF)
 

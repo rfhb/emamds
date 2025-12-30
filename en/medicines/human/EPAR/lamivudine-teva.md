@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:32:09
+document_datetime: 2025-12-29 13:39:25
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lamivudine-teva.html
 document_name: lamivudine-teva.html
 version: success
-processing_time: 0.1246772
-conversion_datetime: 2025-12-28 18:39:07.997821
+processing_time: 0.1199377
+conversion_datetime: 2025-12-30 10:03:32.055578
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lamivudine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -100,7 +102,7 @@ English (EN) (47.37 KB - PDF)
 
 [View](/en/documents/overview/lamivudine-teva-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-462)
+[Other languages (21)](#file-language-dropdown-765)
 
 български (BG) (87.1 KB - PDF)
 
@@ -366,7 +368,7 @@ English (EN) (381.45 KB - PDF)
 
 [View](/en/documents/product-information/lamivudine-teva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-38)
+[Other languages (24)](#file-language-dropdown-75)
 
 български (BG) (516.26 KB - PDF)
 
@@ -682,7 +684,7 @@ English (EN) (15.76 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lamivudine-teva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-737)
+[Other languages (24)](#file-language-dropdown-903)
 
 български (BG) (41.98 KB - PDF)
 
@@ -1046,7 +1048,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:06:23
+document_datetime: 2025-12-29 07:56:59
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/arixtra.html
 document_name: arixtra.html
 version: success
-processing_time: 0.1202002
-conversion_datetime: 2025-12-26 19:28:56.735895
+processing_time: 0.1197862
+conversion_datetime: 2025-12-30 20:47:19.915523
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-fondaparinux sodium
+fondaparinux sodium Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -128,7 +124,7 @@ English (EN) (66.58 KB - PDF)
 
 [View](/en/documents/overview/arixtra-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-511)
+[Other languages (21)](#file-language-dropdown-482)
 
 български (BG) (174.24 KB - PDF)
 
@@ -394,7 +390,7 @@ English (EN) (1.35 MB - PDF)
 
 [View](/en/documents/product-information/arixtra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-323)
+[Other languages (24)](#file-language-dropdown-333)
 
 български (BG) (1.07 MB - PDF)
 
@@ -710,7 +706,7 @@ English (EN) (17.92 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/arixtra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-771)
+[Other languages (24)](#file-language-dropdown-768)
 
 български (BG) (89.22 KB - PDF)
 

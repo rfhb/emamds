@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 07:01:55
+document_datetime: 2025-12-29 08:06:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ciambra.html
 document_name: ciambra.html
 version: success
-processing_time: 0.1102525
-conversion_datetime: 2025-12-23 20:31:36.127997
+processing_time: 0.1080873
+conversion_datetime: 2025-12-30 21:07:05.243421
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-pemetrexed
+pemetrexed Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (157.26 KB - PDF)
 
 [View](/en/documents/overview/ciambra-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-12)
+[Other languages (22)](#file-language-dropdown-145)
 
 български (BG) (214.58 KB - PDF)
 
@@ -355,7 +351,7 @@ English (EN) (2.7 MB - PDF)
 
 [View](/en/documents/product-information/ciambra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-472)
+[Other languages (24)](#file-language-dropdown-961)
 
 български (BG) (3.23 MB - PDF)
 
@@ -671,7 +667,7 @@ English (EN) (43.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ciambra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-4)
+[Other languages (24)](#file-language-dropdown-780)
 
 български (BG) (121.2 KB - PDF)
 

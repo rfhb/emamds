@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-13 23:50:22
+document_datetime: 2025-12-29 09:09:01
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sogroya.html
 document_name: sogroya.html
 version: success
-processing_time: 0.1196082
-conversion_datetime: 2025-12-27 15:03:19.672329
+processing_time: 0.1212158
+conversion_datetime: 2025-12-30 21:16:19.967005
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 somapacitan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (105.63 KB - PDF)
 
 [View](/en/documents/overview/sogroya-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-487)
+[Other languages (22)](#file-language-dropdown-602)
 
 български (BG) (124.5 KB - PDF)
 
@@ -398,7 +400,7 @@ English (EN) (994.31 KB - PDF)
 
 [View](/en/documents/product-information/sogroya-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-688)
+[Other languages (24)](#file-language-dropdown-206)
 
 български (BG) (1.25 MB - PDF)
 
@@ -714,7 +716,7 @@ English (EN) (44.59 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sogroya-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-614)
+[Other languages (24)](#file-language-dropdown-491)
 
 български (BG) (70.28 KB - PDF)
 

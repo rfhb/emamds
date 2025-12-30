@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:21:33
+document_datetime: 2025-12-29 12:00:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ceprotin.html
 document_name: ceprotin.html
 version: success
-processing_time: 0.112487
-conversion_datetime: 2025-12-24 19:29:46.196788
+processing_time: 0.1122625
+conversion_datetime: 2025-12-30 13:13:20.640386
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-human protein C
+human protein C Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +111,7 @@ English (EN) (142.8 KB - PDF)
 
 [View](/en/documents/overview/ceprotin-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-102)
+[Other languages (22)](#file-language-dropdown-403)
 
 български (BG) (160.68 KB - PDF)
 
@@ -403,7 +399,7 @@ English (EN) (609.26 KB - PDF)
 
 [View](/en/documents/product-information/ceprotin-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-964)
+[Other languages (24)](#file-language-dropdown-293)
 
 български (BG) (497.71 KB - PDF)
 
@@ -719,7 +715,7 @@ English (EN) (65.11 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ceprotin-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-177)
+[Other languages (21)](#file-language-dropdown-120)
 
 български (BG) (82.71 KB - PDF)
 

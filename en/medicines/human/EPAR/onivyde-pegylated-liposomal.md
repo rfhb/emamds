@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:01:28
+document_datetime: 2025-12-29 12:57:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/onivyde-pegylated-liposomal.html
 document_name: onivyde-pegylated-liposomal.html
 version: success
-processing_time: 0.1172557
-conversion_datetime: 2025-12-25 10:57:43.118618
+processing_time: 0.4206799
+conversion_datetime: 2025-12-30 10:15:11.974143
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 irinotecan hydrochloride trihydrate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (144.48 KB - PDF)
 
 [View](/en/documents/overview/onivyde-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-449)
+[Other languages (22)](#file-language-dropdown-129)
 
 български (BG) (163.28 KB - PDF)
 
@@ -406,7 +408,7 @@ English (EN) (886.56 KB - PDF)
 
 [View](/en/documents/product-information/onivyde-pegylated-liposomal-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-370)
+[Other languages (24)](#file-language-dropdown-420)
 
 български (BG) (956.35 KB - PDF)
 
@@ -722,7 +724,7 @@ English (EN) (76.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/onivyde-pegylated-liposomal-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-75)
+[Other languages (24)](#file-language-dropdown-981)
 
 български (BG) (226.93 KB - PDF)
 

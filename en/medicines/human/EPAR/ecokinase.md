@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:07:12
+document_datetime: 2025-12-29 09:10:59
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ecokinase.html
 document_name: ecokinase.html
 version: success
-processing_time: 0.0420265
-conversion_datetime: 2025-12-28 08:25:50.726053
+processing_time: 0.0420594
+conversion_datetime: 2025-12-30 09:24:57.157177
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-reteplase
+reteplase Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

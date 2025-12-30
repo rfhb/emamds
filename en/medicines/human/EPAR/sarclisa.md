@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:34:43
+document_datetime: 2025-12-29 11:44:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sarclisa.html
 document_name: sarclisa.html
 version: success
-processing_time: 0.130148
-conversion_datetime: 2025-12-24 08:34:55.276965
+processing_time: 0.1239348
+conversion_datetime: 2025-12-30 22:49:03.840389
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 isatuximab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -92,7 +94,7 @@ English (EN) (142.46 KB - PDF)
 
 [View](/en/documents/overview/sarclisa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-188)
+[Other languages (22)](#file-language-dropdown-214)
 
 български (BG) (168.83 KB - PDF)
 
@@ -380,7 +382,7 @@ English (EN) (940.07 KB - PDF)
 
 [View](/en/documents/product-information/sarclisa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-450)
+[Other languages (24)](#file-language-dropdown-348)
 
 български (BG) (1.64 MB - PDF)
 
@@ -694,7 +696,7 @@ English (EN) (11.94 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sarclisa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-99)
+[Other languages (24)](#file-language-dropdown-168)
 
 български (BG) (56.19 KB - PDF)
 

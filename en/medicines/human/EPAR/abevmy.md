@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:19:39
+document_datetime: 2025-12-29 14:27:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/abevmy.html
 document_name: abevmy.html
 version: success
-processing_time: 0.0900168
-conversion_datetime: 2025-12-28 18:04:59.516046
+processing_time: 0.3876134
+conversion_datetime: 2025-12-30 02:51:20.555977
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bevacizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (144.37 KB - PDF)
 
 [View](/en/documents/overview/abevmy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-190)
+[Other languages (22)](#file-language-dropdown-858)
 
 български (BG) (168.73 KB - PDF)
 
@@ -313,7 +315,7 @@ English (EN) (1.23 MB - PDF)
 
 [View](/en/documents/product-information/abevmy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-706)
+[Other languages (24)](#file-language-dropdown-785)
 
 български (BG) (1.37 MB - PDF)
 
@@ -627,7 +629,7 @@ English (EN) (10.93 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/abevmy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-548)
+[Other languages (24)](#file-language-dropdown-115)
 
 български (BG) (56.81 KB - PDF)
 

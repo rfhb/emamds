@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:51:28
+document_datetime: 2025-12-29 14:35:54
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bevespi-aerosphere.html
 document_name: bevespi-aerosphere.html
 version: success
-processing_time: 0.1159425
-conversion_datetime: 2025-12-24 06:23:22.08286
+processing_time: 0.1093601
+conversion_datetime: 2025-12-30 10:31:40.133969
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 glycopyrronium / formoterol fumarate dihydrate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (74.48 KB - PDF)
 
 [View](/en/documents/overview/bevespi-aerosphere-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-302)
+[Other languages (22)](#file-language-dropdown-323)
 
 български (BG) (102.51 KB - PDF)
 
@@ -309,7 +311,7 @@ English (EN) (958.75 KB - PDF)
 
 [View](/en/documents/product-information/bevespi-aerosphere-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-479)
+[Other languages (24)](#file-language-dropdown-809)
 
 български (BG) (1016.65 KB - PDF)
 
@@ -625,7 +627,7 @@ English (EN) (29.76 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bevespi-aerosphere-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-146)
+[Other languages (24)](#file-language-dropdown-723)
 
 български (BG) (32.48 KB - PDF)
 

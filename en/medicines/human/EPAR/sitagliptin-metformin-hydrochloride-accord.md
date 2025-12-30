@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:36:56
+document_datetime: 2025-12-29 11:14:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sitagliptin-metformin-hydrochloride-accord.html
 document_name: sitagliptin-metformin-hydrochloride-accord.html
 version: success
-processing_time: 0.1105973
-conversion_datetime: 2025-12-28 18:51:00.830795
+processing_time: 0.1110391
+conversion_datetime: 2025-12-30 08:18:57.086645
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has lapsed
 
 sitagliptin / metformin hydrochloride Medicine Human Lapsed
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -69,7 +71,7 @@ English (EN) (176.64 KB - PDF)
 
 [View](/en/documents/overview/sitagliptin-metformin-hydrochloride-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-108)
+[Other languages (22)](#file-language-dropdown-932)
 
 български (BG) (207.35 KB - PDF)
 
@@ -357,7 +359,7 @@ English (EN) (424.39 KB - PDF)
 
 [View](/en/documents/product-information/sitagliptin-metformin-hydrochloride-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-439)
+[Other languages (24)](#file-language-dropdown-73)
 
 български (BG) (648.93 KB - PDF)
 
@@ -673,7 +675,7 @@ English (EN) (118.34 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sitagliptin-metformin-hydrochloride-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-69)
+[Other languages (24)](#file-language-dropdown-758)
 
 български (BG) (131.63 KB - PDF)
 

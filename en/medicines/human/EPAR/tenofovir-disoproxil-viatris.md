@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:00:14
+document_datetime: 2025-12-29 07:44:05
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tenofovir-disoproxil-viatris.html
 document_name: tenofovir-disoproxil-viatris.html
 version: success
-processing_time: 0.1454077
-conversion_datetime: 2025-12-28 08:45:06.357527
+processing_time: 0.3934243
+conversion_datetime: 2025-12-30 07:57:16.40923
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tenofovir disoproxil Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (94.78 KB - PDF)
 
 [View](/en/documents/overview/tenofovir-disoproxil-mylan-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-611)
+[Other languages (22)](#file-language-dropdown-324)
 
 български (BG) (121.62 KB - PDF)
 
@@ -396,7 +398,7 @@ English (EN) (973.42 KB - PDF)
 
 [View](/en/documents/product-information/tenofovir-disoproxil-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-918)
+[Other languages (24)](#file-language-dropdown-503)
 
 български (BG) (730.11 KB - PDF)
 
@@ -712,7 +714,7 @@ English (EN) (45.63 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tenofovir-disoproxil-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-407)
+[Other languages (24)](#file-language-dropdown-102)
 
 български (BG) (65.91 KB - PDF)
 
@@ -1132,7 +1134,7 @@ English (EN) (278.65 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/tenofovir-disoproxil-viatris-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-791)
+[Other languages (24)](#file-language-dropdown-97)
 
 български (BG) (212.21 KB - DOCX)
 
@@ -1342,7 +1344,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

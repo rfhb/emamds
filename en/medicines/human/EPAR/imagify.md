@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 03:36:26
+document_datetime: 2025-12-29 19:03:30
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imagify.html
 document_name: imagify.html
 version: success
-processing_time: 0.0490201
-conversion_datetime: 2025-12-27 23:15:52.850922
+processing_time: 0.0444387
+conversion_datetime: 2025-12-30 01:15:25.020643
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

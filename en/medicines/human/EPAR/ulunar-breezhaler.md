@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:18:06
+document_datetime: 2025-12-29 07:55:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ulunar-breezhaler.html
 document_name: ulunar-breezhaler.html
 version: success
-processing_time: 0.1069568
-conversion_datetime: 2025-12-28 18:14:20.686524
+processing_time: 0.1146675
+conversion_datetime: 2025-12-30 08:59:53.447714
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 indacaterol / glycopyrronium bromide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (77.63 KB - PDF)
 
 [View](/en/documents/overview/ulunar-breezhaler-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-570)
+[Other languages (22)](#file-language-dropdown-362)
 
 български (BG) (106.5 KB - PDF)
 
@@ -406,7 +408,7 @@ English (EN) (1009.84 KB - PDF)
 
 [View](/en/documents/product-information/ulunar-breezhaler-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-353)
+[Other languages (24)](#file-language-dropdown-945)
 
 български (BG) (1.09 MB - PDF)
 
@@ -722,7 +724,7 @@ English (EN) (140.4 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ulunar-breezhaler-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-649)
+[Other languages (24)](#file-language-dropdown-857)
 
 български (BG) (179.68 KB - PDF)
 

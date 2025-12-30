@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:10:34
+document_datetime: 2025-12-29 14:36:12
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rukobia.html
 document_name: rukobia.html
 version: success
-processing_time: 0.1077746
-conversion_datetime: 2025-12-24 05:43:49.16172
+processing_time: 0.109299
+conversion_datetime: 2025-12-30 02:38:00.05073
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 fostemsavir Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (122.16 KB - PDF)
 
 [View](/en/documents/overview/rukobia-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-929)
+[Other languages (22)](#file-language-dropdown-17)
 
 български (BG) (146.48 KB - PDF)
 
@@ -306,7 +308,7 @@ English (EN) (624.93 KB - PDF)
 
 [View](/en/documents/product-information/rukobia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-97)
+[Other languages (24)](#file-language-dropdown-763)
 
 български (BG) (681.38 KB - PDF)
 
@@ -622,7 +624,7 @@ English (EN) (41.23 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rukobia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-344)
+[Other languages (24)](#file-language-dropdown-531)
 
 български (BG) (50.22 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:53:21
+document_datetime: 2025-12-29 11:11:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/daxas.html
 document_name: daxas.html
 version: success
-processing_time: 0.1460023
-conversion_datetime: 2025-12-28 00:19:31.27766
+processing_time: 0.1509948
+conversion_datetime: 2025-12-30 10:20:46.002218
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 roflumilast Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (75.74 KB - PDF)
 
 [View](/en/documents/overview/daxas-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-188)
+[Other languages (22)](#file-language-dropdown-605)
 
 български (BG) (101.4 KB - PDF)
 
@@ -396,7 +398,7 @@ English (EN) (368.06 KB - PDF)
 
 [View](/en/documents/product-information/daxas-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-834)
+[Other languages (24)](#file-language-dropdown-250)
 
 български (BG) (482.86 KB - PDF)
 
@@ -712,7 +714,7 @@ English (EN) (25.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/daxas-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-671)
+[Other languages (24)](#file-language-dropdown-126)
 
 български (BG) (26.29 KB - PDF)
 
@@ -1012,7 +1014,7 @@ English (EN) (136.86 KB - PDF)
 
 [View](/en/documents/conditions-member-states/daxas-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-962)
+[Other languages (20)](#file-language-dropdown-929)
 
 български (BG) (156.76 KB - PDF)
 
@@ -1378,7 +1380,7 @@ English (EN) (176.88 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/daxas-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-379)
+[Other languages (24)](#file-language-dropdown-323)
 
 български (BG) (203.58 KB - DOCX)
 

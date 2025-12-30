@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:14
+document_datetime: 2025-12-29 07:18:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/brilence.html
 document_name: brilence.html
 version: success
-processing_time: 0.0469999
-conversion_datetime: 2025-12-25 13:06:43.844292
+processing_time: 0.0490804
+conversion_datetime: 2025-12-30 13:13:55.638174
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-bazedoxifene
+bazedoxifene Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

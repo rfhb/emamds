@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:50:18
+document_datetime: 2025-12-29 07:26:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aerivio-spiromax.html
 document_name: aerivio-spiromax.html
 version: success
-processing_time: 0.0904997
-conversion_datetime: 2025-12-27 21:32:50.768303
+processing_time: 0.0899658
+conversion_datetime: 2025-12-30 09:53:29.081987
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 salmeterol / fluticasone propionate Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -62,7 +64,7 @@ English (EN) (706.56 KB - PDF)
 
 [View](/en/documents/product-information/aerivio-spiromax-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-49)
+[Other languages (24)](#file-language-dropdown-717)
 
 български (BG) (1.14 MB - PDF)
 
@@ -378,7 +380,7 @@ English (EN) (166.42 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/aerivio-spiromax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-156)
+[Other languages (24)](#file-language-dropdown-54)
 
 български (BG) (195.67 KB - PDF)
 

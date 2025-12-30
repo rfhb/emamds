@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:00:07
+document_datetime: 2025-12-29 14:35:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/efavirenz-emtricitabine-tenofovir-disoproxil-mylan.html
 document_name: efavirenz-emtricitabine-tenofovir-disoproxil-mylan.html
 version: success
-processing_time: 0.1260753
-conversion_datetime: 2025-12-27 15:53:05.576707
+processing_time: 0.126425
+conversion_datetime: 2025-12-30 09:29:35.971421
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 efavirenz / emtricitabine / tenofovir disoproxil Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (94.92 KB - PDF)
 
 [View](/en/documents/overview/efavirenzemtricitabinetenofovir-disoproxil-mylan-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-476)
+[Other languages (22)](#file-language-dropdown-368)
 
 български (BG) (119.44 KB - PDF)
 
@@ -389,7 +391,7 @@ English (EN) (411.94 KB - PDF)
 
 [View](/en/documents/product-information/efavirenz-emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-117)
+[Other languages (24)](#file-language-dropdown-146)
 
 български (BG) (814.81 KB - PDF)
 
@@ -705,7 +707,7 @@ English (EN) (31.94 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/efavirenz-emtricitabine-tenofovir-disoproxil-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-593)
+[Other languages (23)](#file-language-dropdown-256)
 
 български (BG) (56.29 KB - PDF)
 
@@ -1099,7 +1101,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

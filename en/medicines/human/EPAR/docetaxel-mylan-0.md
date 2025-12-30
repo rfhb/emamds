@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:24:55
+document_datetime: 2025-12-29 14:35:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/docetaxel-mylan-0.html
 document_name: docetaxel-mylan-0.html
 version: success
-processing_time: 0.1057872
-conversion_datetime: 2025-12-27 09:58:20.396971
+processing_time: 0.1045092
+conversion_datetime: 2025-12-30 07:48:16.432854
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has lapsed
 
-docetaxel
+docetaxel Medicine Human Lapsed
 
-Medicine
-
-Human
-
-Lapsed
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -68,7 +64,7 @@ English (EN) (526.06 KB - PDF)
 
 [View](/en/documents/overview/docetaxel-mylan-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-926)
+[Other languages (21)](#file-language-dropdown-895)
 
 български (BG) (625.59 KB - PDF)
 
@@ -334,7 +330,7 @@ English (EN) (2.23 MB - PDF)
 
 [View](/en/documents/product-information/docetaxel-mylan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-116)
+[Other languages (24)](#file-language-dropdown-18)
 
 български (BG) (5.74 MB - PDF)
 
@@ -650,7 +646,7 @@ English (EN) (473.37 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/docetaxel-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-335)
+[Other languages (24)](#file-language-dropdown-906)
 
 български (BG) (526.2 KB - PDF)
 

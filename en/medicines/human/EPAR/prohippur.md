@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:31:27
+document_datetime: 2025-12-29 18:58:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/prohippur.html
 document_name: prohippur.html
 version: success
-processing_time: 0.0649963
-conversion_datetime: 2025-12-24 17:01:54.430685
+processing_time: 0.0546657
+conversion_datetime: 2025-12-30 11:58:36.245703
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (126.13 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-prohippur-sodium-benzoate_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-899)
+[Other languages (22)](#file-language-dropdown-248)
 
 български (BG) (104.61 KB - PDF)
 

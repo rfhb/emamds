@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:24:20
+document_datetime: 2025-12-29 12:20:41
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kivexa.html
 document_name: kivexa.html
 version: success
-processing_time: 0.1110523
-conversion_datetime: 2025-12-28 03:22:41.79302
+processing_time: 0.1112357
+conversion_datetime: 2025-12-30 19:58:39.447064
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 abacavir / lamivudine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (129.24 KB - PDF)
 
 [View](/en/documents/overview/kivexa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-350)
+[Other languages (22)](#file-language-dropdown-531)
 
 български (BG) (154.54 KB - PDF)
 
@@ -386,7 +388,7 @@ English (EN) (627.4 KB - PDF)
 
 [View](/en/documents/product-information/kivexa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-220)
+[Other languages (24)](#file-language-dropdown-587)
 
 български (BG) (787.22 KB - PDF)
 
@@ -702,7 +704,7 @@ English (EN) (48.49 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kivexa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-946)
+[Other languages (24)](#file-language-dropdown-435)
 
 български (BG) (36.59 KB - PDF)
 

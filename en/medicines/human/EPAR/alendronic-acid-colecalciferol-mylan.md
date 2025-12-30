@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:06:13
+document_datetime: 2025-12-29 18:59:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/alendronic-acid-colecalciferol-mylan.html
 document_name: alendronic-acid-colecalciferol-mylan.html
 version: success
-processing_time: 0.0871348
-conversion_datetime: 2025-12-26 12:47:14.36094
+processing_time: 0.0690763
+conversion_datetime: 2025-12-30 01:42:11.377007
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -100,7 +102,7 @@ English (EN) (75.05 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-alendronic-acidcolecalciferol-mylan-alendronic-acid-and-colecalciferol_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-479)
+[Other languages (22)](#file-language-dropdown-711)
 
 български (BG) (100.28 KB - PDF)
 
@@ -421,7 +423,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

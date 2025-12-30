@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:06:08
+document_datetime: 2025-12-29 08:38:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/faldaprevir-boehringer-ingelheim.html
 document_name: faldaprevir-boehringer-ingelheim.html
 version: success
-processing_time: 0.0657467
-conversion_datetime: 2025-12-28 13:07:14.121365
+processing_time: 0.0541667
+conversion_datetime: 2025-12-30 12:30:15.831773
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -99,7 +97,7 @@ English (EN) (89.5 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-faldaprevir-boehringer-ingelheim-faldaprevir_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-340)
+[Other languages (22)](#file-language-dropdown-891)
 
 български (BG) (94.57 KB - PDF)
 

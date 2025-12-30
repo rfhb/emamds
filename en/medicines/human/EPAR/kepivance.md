@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:46:25
+document_datetime: 2025-12-29 12:03:47
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kepivance.html
 document_name: kepivance.html
 version: success
-processing_time: 0.1055769
-conversion_datetime: 2025-12-27 21:23:15.351817
+processing_time: 0.1043641
+conversion_datetime: 2025-12-30 21:11:22.641762
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 palifermin Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -58,7 +60,7 @@ English (EN) (551.58 KB - PDF)
 
 [View](/en/documents/overview/kepivance-epar-summary-public_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-417)
+[Other languages (24)](#file-language-dropdown-232)
 
 български (BG) (1.29 MB - PDF)
 
@@ -360,7 +362,7 @@ English (EN) (696.57 KB - PDF)
 
 [View](/en/documents/product-information/kepivance-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-691)
+[Other languages (24)](#file-language-dropdown-387)
 
 български (BG) (1.29 MB - PDF)
 
@@ -676,7 +678,7 @@ English (EN) (461.15 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kepivance-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-42)
+[Other languages (21)](#file-language-dropdown-262)
 
 български (BG) (545.61 KB - PDF)
 

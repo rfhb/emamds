@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:24:08
+document_datetime: 2025-12-29 07:09:48
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/toujeo.html
 document_name: toujeo.html
 version: success
-processing_time: 0.1410645
-conversion_datetime: 2025-12-23 21:36:30.741081
+processing_time: 0.137175
+conversion_datetime: 2025-12-30 22:18:17.993791
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin glargine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -133,7 +135,7 @@ English (EN) (1.31 MB - PDF)
 
 [View](/en/documents/product-information/toujeo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-859)
+[Other languages (24)](#file-language-dropdown-358)
 
 български (BG) (1.46 MB - PDF)
 
@@ -449,7 +451,7 @@ English (EN) (51.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/toujeo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-405)
+[Other languages (24)](#file-language-dropdown-898)
 
 български (BG) (71.57 KB - PDF)
 
@@ -949,7 +951,7 @@ English (EN) (2.09 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/toujeo-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-315)
+[Other languages (24)](#file-language-dropdown-229)
 
 български (BG) (1.93 MB - DOCX)
 
@@ -1157,7 +1159,7 @@ English (EN) (81.81 KB - PDF)
 
 [View](/en/documents/medication-error/insulins-high-strength-guidance-prevention-medication-errors_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-763)
+[Other languages (21)](#file-language-dropdown-512)
 
 español (ES) (87.17 KB - PDF)
 

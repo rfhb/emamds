@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:13:07
+document_datetime: 2025-12-29 12:44:21
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kinharto.html
 document_name: kinharto.html
 version: success
-processing_time: 0.057841
-conversion_datetime: 2025-12-28 14:58:48.892494
+processing_time: 0.0683068
+conversion_datetime: 2025-12-30 03:14:27.835929
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-omecamtiv mecarbil
+omecamtiv mecarbil Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -97,7 +93,7 @@ English (EN) (102.35 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-kinharto-omecamtiv-mecarbil_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-395)
+[Other languages (20)](#file-language-dropdown-476)
 
 български (BG) (163.29 KB - PDF)
 

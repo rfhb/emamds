@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:59:34
+document_datetime: 2025-12-29 11:46:38
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/akantior.html
 document_name: akantior.html
 version: success
-processing_time: 0.1027803
-conversion_datetime: 2025-12-27 16:19:37.375246
+processing_time: 0.1086461
+conversion_datetime: 2025-12-30 11:05:45.333997
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 polihexanide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +116,7 @@ English (EN) (113.11 KB - PDF)
 
 [View](/en/documents/overview/akantior-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-652)
+[Other languages (22)](#file-language-dropdown-442)
 
 български (BG) (146.63 KB - PDF)
 
@@ -398,7 +400,7 @@ English (EN) (176.86 KB - PDF)
 
 [View](/en/documents/product-information/akantior-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-224)
+[Other languages (24)](#file-language-dropdown-559)
 
 български (BG) (289.4 KB - PDF)
 
@@ -616,7 +618,7 @@ English (EN) (43.34 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/akantior-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-708)
+[Other languages (24)](#file-language-dropdown-903)
 
 български (BG) (38.01 KB - PDF)
 

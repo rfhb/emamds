@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:26:26
+document_datetime: 2025-12-29 14:35:54
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pregabalin-zentiva-ks.html
 document_name: pregabalin-zentiva-ks.html
 version: success
-processing_time: 0.1059293
-conversion_datetime: 2025-12-26 18:41:25.350133
+processing_time: 0.1131309
+conversion_datetime: 2025-12-30 22:48:28.543288
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 pregabalin Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +66,7 @@ English (EN) (708.49 KB - PDF)
 
 [View](/en/documents/overview/pregabalin-zentiva-ks-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-30)
+[Other languages (22)](#file-language-dropdown-752)
 
 български (BG) (782.42 KB - PDF)
 
@@ -352,7 +354,7 @@ English (EN) (1.25 MB - PDF)
 
 [View](/en/documents/product-information/pregabalin-zentiva-ks-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-273)
+[Other languages (24)](#file-language-dropdown-363)
 
 български (BG) (2.79 MB - PDF)
 
@@ -668,7 +670,7 @@ English (EN) (639.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pregabalin-zentiva-ks-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-395)
+[Other languages (24)](#file-language-dropdown-456)
 
 български (BG) (745.4 KB - PDF)
 

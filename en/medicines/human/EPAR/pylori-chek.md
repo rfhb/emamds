@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:04:11
+document_datetime: 2025-12-29 19:10:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pylori-chek.html
 document_name: pylori-chek.html
 version: success
-processing_time: 0.0429708
-conversion_datetime: 2025-12-27 23:21:58.166092
+processing_time: 0.0372022
+conversion_datetime: 2025-12-30 22:18:35.477174
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-13C-urea
+13C-urea Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

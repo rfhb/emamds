@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:01
+document_datetime: 2025-12-29 14:33:25
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/protopy.html
 document_name: protopy.html
 version: success
-processing_time: 0.0996667
-conversion_datetime: 2025-12-25 10:04:50.522665
+processing_time: 0.1101551
+conversion_datetime: 2025-12-30 01:45:01.242922
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-tacrolimus
+tacrolimus Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +60,7 @@ English (EN) (259.28 KB - PDF)
 
 [View](/en/documents/overview/protopy-epar-summary-public_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-666)
+[Other languages (18)](#file-language-dropdown-442)
 
 español (ES) (261.28 KB - PDF)
 
@@ -294,7 +290,7 @@ English (EN) (691.76 KB - PDF)
 
 [View](/en/documents/product-information/protopy-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-159)
+[Other languages (21)](#file-language-dropdown-524)
 
 български (BG) (991.55 KB - PDF)
 
@@ -574,7 +570,7 @@ English (EN) (215.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/protopy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-486)
+[Other languages (18)](#file-language-dropdown-397)
 
 español (ES) (214.9 KB - PDF)
 
@@ -844,7 +840,7 @@ English (EN) (236.58 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/protopy-epar-scientific-conclusion_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-219)
+[Other languages (18)](#file-language-dropdown-86)
 
 español (ES) (242.38 KB - PDF)
 

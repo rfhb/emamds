@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 07:02:15
+document_datetime: 2025-12-29 12:33:26
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/libmeldy.html
 document_name: libmeldy.html
 version: success
-processing_time: 0.1091201
-conversion_datetime: 2025-12-28 03:57:02.801851
+processing_time: 0.1088748
+conversion_datetime: 2025-12-30 09:19:29.380663
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -119,7 +119,7 @@ English (EN) (105.17 KB - PDF)
 
 [View](/en/documents/overview/libmeldy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-94)
+[Other languages (22)](#file-language-dropdown-471)
 
 български (BG) (141.85 KB - PDF)
 
@@ -319,7 +319,7 @@ English (EN) (630.06 KB - PDF)
 
 [View](/en/documents/product-information/libmeldy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-187)
+[Other languages (24)](#file-language-dropdown-914)
 
 български (BG) (2.6 MB - PDF)
 
@@ -633,7 +633,7 @@ English (EN) (67.37 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/libmeldy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-761)
+[Other languages (24)](#file-language-dropdown-785)
 
 български (BG) (83.3 KB - PDF)
 

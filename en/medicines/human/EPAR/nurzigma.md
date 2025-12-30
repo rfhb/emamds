@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:37:24
+document_datetime: 2025-12-29 12:23:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nurzigma.html
 document_name: nurzigma.html
 version: success
-processing_time: 0.0374699
-conversion_datetime: 2025-12-24 18:52:00.156414
+processing_time: 0.0458588
+conversion_datetime: 2025-12-30 19:53:32.942019
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 pridopidine Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

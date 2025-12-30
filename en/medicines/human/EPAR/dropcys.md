@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:07:18
+document_datetime: 2025-12-29 19:00:22
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dropcys.html
 document_name: dropcys.html
 version: success
-processing_time: 0.0662847
-conversion_datetime: 2025-12-25 04:00:26.365311
+processing_time: 0.0673574
+conversion_datetime: 2025-12-30 08:49:57.271326
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine has been refused authorisation
 
-mercaptamine
+mercaptamine Medicine Human Refused
 
-Medicine
-
-Human
-
-Refused
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -101,7 +97,7 @@ English (EN) (81.8 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-refusal-marketing-authorisation-dropcys-mercaptamine-hydrochloride_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-385)
+[Other languages (22)](#file-language-dropdown-315)
 
 български (BG) (99.46 KB - PDF)
 

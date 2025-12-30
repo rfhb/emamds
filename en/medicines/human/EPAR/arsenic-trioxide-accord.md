@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:21:33
+document_datetime: 2025-12-29 12:04:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/arsenic-trioxide-accord.html
 document_name: arsenic-trioxide-accord.html
 version: success
-processing_time: 0.1267987
-conversion_datetime: 2025-12-26 19:37:17.368855
+processing_time: 0.1168431
+conversion_datetime: 2025-12-30 13:13:11.920896
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 arsenic trioxide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (94.13 KB - PDF)
 
 [View](/en/documents/overview/arsenic-trioxide-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-398)
+[Other languages (22)](#file-language-dropdown-130)
 
 български (BG) (118.6 KB - PDF)
 
@@ -306,7 +308,7 @@ English (EN) (306.98 KB - PDF)
 
 [View](/en/documents/product-information/arsenic-trioxide-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-211)
+[Other languages (24)](#file-language-dropdown-835)
 
 български (BG) (424.89 KB - PDF)
 
@@ -620,7 +622,7 @@ English (EN) (21.23 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/arsenic-trioxide-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-597)
+[Other languages (24)](#file-language-dropdown-143)
 
 български (BG) (45.78 KB - PDF)
 
@@ -907,7 +909,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

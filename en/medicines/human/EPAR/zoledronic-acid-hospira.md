@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:06:19
+document_datetime: 2025-12-29 14:35:14
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zoledronic-acid-hospira.html
 document_name: zoledronic-acid-hospira.html
 version: success
-processing_time: 0.1230028
-conversion_datetime: 2025-12-29 21:56:19.483806
+processing_time: 0.1276383
+conversion_datetime: 2025-12-30 21:08:55.028253
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

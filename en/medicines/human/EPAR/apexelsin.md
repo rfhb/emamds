@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:22:40
+document_datetime: 2025-12-29 12:26:26
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/apexelsin.html
 document_name: apexelsin.html
 version: success
-processing_time: 0.1052602
-conversion_datetime: 2025-12-25 05:42:46.676407
+processing_time: 0.1071037
+conversion_datetime: 2025-12-30 01:45:11.160931
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 paclitaxel Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (188.66 KB - PDF)
 
 [View](/en/documents/overview/apexelsin-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-213)
+[Other languages (22)](#file-language-dropdown-805)
 
 български (BG) (212.05 KB - PDF)
 
@@ -309,7 +311,7 @@ English (EN) (637.41 KB - PDF)
 
 [View](/en/documents/product-information/apexelsin-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-845)
+[Other languages (24)](#file-language-dropdown-596)
 
 български (BG) (636.48 KB - PDF)
 
@@ -623,7 +625,7 @@ English (EN) (60.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/apexelsin-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-196)
+[Other languages (24)](#file-language-dropdown-718)
 
 български (BG) (47.3 KB - PDF)
 

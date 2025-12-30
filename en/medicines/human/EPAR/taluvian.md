@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:04:09
+document_datetime: 2025-12-29 09:53:29
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/taluvian.html
 document_name: taluvian.html
 version: success
-processing_time: 0.0413936
-conversion_datetime: 2025-12-25 07:24:09.753633
+processing_time: 0.0417681
+conversion_datetime: 2025-12-30 01:55:16.239917
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-apomorphine
+apomorphine Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

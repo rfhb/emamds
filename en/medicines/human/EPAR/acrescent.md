@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:27:31
+document_datetime: 2025-12-29 08:20:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/acrescent.html
 document_name: acrescent.html
 version: success
-processing_time: 0.0617198
-conversion_datetime: 2025-12-27 16:16:30.043125
+processing_time: 0.0669822
+conversion_datetime: 2025-12-30 10:30:37.83366
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine has been refused authorisation
 
 memantine hydrochloride / donepezil hydrochloride Medicine Human Refused
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -102,7 +104,7 @@ English (EN) (75.45 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-refusal-marketing-authorisation-acrescent_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-483)
+[Other languages (21)](#file-language-dropdown-920)
 
 български (BG) (104.07 KB - PDF)
 

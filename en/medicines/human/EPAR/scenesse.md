@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:52:35
+document_datetime: 2025-12-29 11:21:35
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/scenesse.html
 document_name: scenesse.html
 version: success
-processing_time: 0.1112612
-conversion_datetime: 2025-12-28 19:43:18.318877
+processing_time: 0.1158075
+conversion_datetime: 2025-12-30 22:52:34.936597
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 afamelanotide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -124,7 +126,7 @@ English (EN) (77.86 KB - PDF)
 
 [View](/en/documents/overview/scenesse-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-51)
+[Other languages (22)](#file-language-dropdown-986)
 
 български (BG) (105.45 KB - PDF)
 
@@ -412,7 +414,7 @@ English (EN) (326.29 KB - PDF)
 
 [View](/en/documents/product-information/scenesse-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-997)
+[Other languages (24)](#file-language-dropdown-837)
 
 български (BG) (444.98 KB - PDF)
 
@@ -728,7 +730,7 @@ English (EN) (33.31 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/scenesse-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-964)
+[Other languages (24)](#file-language-dropdown-739)
 
 български (BG) (51.89 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:17:10
+document_datetime: 2025-12-29 14:03:43
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/immunogam.html
 document_name: immunogam.html
 version: success
-processing_time: 0.098763
-conversion_datetime: 2025-12-27 21:18:54.57916
+processing_time: 0.0955179
+conversion_datetime: 2025-12-30 22:06:30.381355
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 human hepatitis B immunoglobulin Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -60,7 +62,7 @@ English (EN) (289.91 KB - PDF)
 
 [View](/en/documents/overview/immunogam-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-1)
+[Other languages (21)](#file-language-dropdown-170)
 
 български (BG) (446.49 KB - PDF)
 
@@ -326,7 +328,7 @@ English (EN) (802.72 KB - PDF)
 
 [View](/en/documents/product-information/immunogam-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-923)
+[Other languages (21)](#file-language-dropdown-872)
 
 български (BG) (1.31 MB - PDF)
 
@@ -606,7 +608,7 @@ English (EN) (235.48 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/immunogam-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-985)
+[Other languages (21)](#file-language-dropdown-25)
 
 български (BG) (283.25 KB - PDF)
 

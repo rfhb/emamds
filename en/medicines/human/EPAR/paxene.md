@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:05
+document_datetime: 2025-12-29 14:32:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/paxene.html
 document_name: paxene.html
 version: success
-processing_time: 0.0949705
-conversion_datetime: 2025-12-25 05:16:58.56306
+processing_time: 0.1043982
+conversion_datetime: 2025-12-30 09:26:03.74211
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-paclitaxel
+paclitaxel Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (265.36 KB - PDF)
 
 [View](/en/documents/overview/paxene-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-936)
+[Other languages (21)](#file-language-dropdown-82)
 
 български (BG) (428.95 KB - PDF)
 
@@ -332,7 +328,7 @@ English (EN) (711.22 KB - PDF)
 
 [View](/en/documents/product-information/paxene-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-583)
+[Other languages (21)](#file-language-dropdown-117)
 
 български (BG) (1.64 MB - PDF)
 
@@ -612,7 +608,7 @@ English (EN) (271.68 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/paxene-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-363)
+[Other languages (21)](#file-language-dropdown-2)
 
 български (BG) (315.69 KB - PDF)
 

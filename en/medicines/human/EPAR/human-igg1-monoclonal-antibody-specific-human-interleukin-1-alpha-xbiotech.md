@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:07:05
+document_datetime: 2025-12-29 18:59:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/human-igg1-monoclonal-antibody-specific-human-interleukin-1-alpha-xbiotech.html
 document_name: human-igg1-monoclonal-antibody-specific-human-interleukin-1-alpha-xbiotech.html
 version: success
-processing_time: 0.0560682
-conversion_datetime: 2025-12-28 03:08:38.24699
+processing_time: 0.0632137
+conversion_datetime: 2025-12-30 21:47:53.264258
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine has been refused authorisation
 
-human IgG1 monoclonal antibody specific for human interleukin-1 alpha
+human IgG1 monoclonal antibody specific for human interleukin-1 alpha Medicine Human Refused
 
-Medicine
-
-Human
-
-Refused
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -101,7 +97,7 @@ English (EN) (94.01 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-refusal-marketing-authorisation-human-igg1-monoclonal-antibody-specific-human-interleukin-1-alpha-xbiotech_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-29)
+[Other languages (22)](#file-language-dropdown-821)
 
 български (BG) (100.82 KB - PDF)
 

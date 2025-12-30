@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:10:07
+document_datetime: 2025-12-29 11:31:05
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/yescarta.html
 document_name: yescarta.html
 version: success
-processing_time: 0.1260214
-conversion_datetime: 2025-12-28 14:50:04.786481
+processing_time: 0.1263266
+conversion_datetime: 2025-12-30 12:57:14.776782
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 axicabtagene ciloleucel Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -138,7 +140,7 @@ English (EN) (148.77 KB - PDF)
 
 [View](/en/documents/overview/yescarta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-507)
+[Other languages (22)](#file-language-dropdown-563)
 
 български (BG) (175.66 KB - PDF)
 
@@ -426,7 +428,7 @@ English (EN) (507.78 KB - PDF)
 
 [View](/en/documents/product-information/yescarta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-320)
+[Other languages (24)](#file-language-dropdown-610)
 
 български (BG) (843.5 KB - PDF)
 
@@ -742,7 +744,7 @@ English (EN) (41.13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/yescarta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-124)
+[Other languages (24)](#file-language-dropdown-687)
 
 български (BG) (72.17 KB - PDF)
 

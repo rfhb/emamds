@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:56:26
+document_datetime: 2025-12-29 11:14:48
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/opzelura.html
 document_name: opzelura.html
 version: success
-processing_time: 0.1077511
-conversion_datetime: 2025-12-24 08:50:09.503865
+processing_time: 0.105044
+conversion_datetime: 2025-12-30 01:22:00.301893
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ruxolitinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (119.97 KB - PDF)
 
 [View](/en/documents/overview/opzelura-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-720)
+[Other languages (22)](#file-language-dropdown-526)
 
 български (BG) (143.77 KB - PDF)
 
@@ -308,7 +310,7 @@ English (EN) (485.89 KB - PDF)
 
 [View](/en/documents/product-information/opzelura-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-898)
+[Other languages (24)](#file-language-dropdown-679)
 
 български (BG) (408.8 KB - PDF)
 
@@ -624,7 +626,7 @@ English (EN) (37.08 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/opzelura-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-424)
+[Other languages (24)](#file-language-dropdown-617)
 
 български (BG) (34.5 KB - PDF)
 

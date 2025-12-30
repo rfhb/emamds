@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:38:11
+document_datetime: 2025-12-29 12:16:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/descovy.html
 document_name: descovy.html
 version: success
-processing_time: 0.1107092
-conversion_datetime: 2025-12-26 20:49:49.92967
+processing_time: 0.1129852
+conversion_datetime: 2025-12-30 03:17:16.729305
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 emtricitabine / tenofovir alafenamide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +105,7 @@ English (EN) (75.65 KB - PDF)
 
 [View](/en/documents/overview/descovy-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-222)
+[Other languages (22)](#file-language-dropdown-473)
 
 български (BG) (101.82 KB - PDF)
 
@@ -391,7 +393,7 @@ English (EN) (1.15 MB - PDF)
 
 [View](/en/documents/product-information/descovy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-172)
+[Other languages (24)](#file-language-dropdown-443)
 
 български (BG) (1.01 MB - PDF)
 
@@ -707,7 +709,7 @@ English (EN) (41.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/descovy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-245)
+[Other languages (24)](#file-language-dropdown-677)
 
 български (BG) (81.03 KB - PDF)
 

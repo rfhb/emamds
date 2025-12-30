@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:44:03
+document_datetime: 2025-12-29 12:19:49
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hyqvia.html
 document_name: hyqvia.html
 version: success
-processing_time: 0.1283465
-conversion_datetime: 2025-12-24 06:19:53.950873
+processing_time: 0.1136459
+conversion_datetime: 2025-12-30 02:34:18.744582
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 human normal immunoglobulin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -123,7 +125,7 @@ English (EN) (148.29 KB - PDF)
 
 [View](/en/documents/overview/hyqvia-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-83)
+[Other languages (22)](#file-language-dropdown-977)
 
 български (BG) (135.83 KB - PDF)
 
@@ -411,7 +413,7 @@ English (EN) (764.72 KB - PDF)
 
 [View](/en/documents/product-information/hyqvia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-299)
+[Other languages (24)](#file-language-dropdown-545)
 
 български (BG) (1.08 MB - PDF)
 
@@ -727,7 +729,7 @@ English (EN) (21.69 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/hyqvia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-488)
+[Other languages (24)](#file-language-dropdown-947)
 
 български (BG) (41.68 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-09 23:31:22
+document_datetime: 2025-12-29 11:24:38
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/briviact-italy-nubriveo.html
 document_name: briviact-italy-nubriveo.html
 version: success
-processing_time: 0.1264788
-conversion_datetime: 2025-12-27 16:03:02.427058
+processing_time: 0.1271474
+conversion_datetime: 2025-12-30 01:16:09.533692
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 brivaracetam Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -101,7 +103,7 @@ English (EN) (117.53 KB - PDF)
 
 [View](/en/documents/overview/briviact-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-104)
+[Other languages (22)](#file-language-dropdown-194)
 
 български (BG) (140.43 KB - PDF)
 
@@ -389,7 +391,7 @@ English (EN) (1.03 MB - PDF)
 
 [View](/en/documents/product-information/briviact-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-412)
+[Other languages (24)](#file-language-dropdown-854)
 
 български (BG) (1.01 MB - PDF)
 
@@ -705,7 +707,7 @@ English (EN) (87.18 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/briviact-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-599)
+[Other languages (24)](#file-language-dropdown-115)
 
 български (BG) (138.57 KB - PDF)
 

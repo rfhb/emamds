@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:05:53
+document_datetime: 2025-12-29 11:54:18
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/arikayce-liposomal.html
 document_name: arikayce-liposomal.html
 version: success
-processing_time: 0.1758009
-conversion_datetime: 2025-12-26 18:08:09.536124
+processing_time: 0.1264083
+conversion_datetime: 2025-12-30 22:52:59.24066
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 amikacin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +107,7 @@ English (EN) (123.44 KB - PDF)
 
 [View](/en/documents/overview/arikayce-liposomal-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-773)
+[Other languages (22)](#file-language-dropdown-646)
 
 български (BG) (148.8 KB - PDF)
 
@@ -305,7 +307,7 @@ English (EN) (250.01 KB - PDF)
 
 [View](/en/documents/product-information/arikayce-liposomal-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-89)
+[Other languages (24)](#file-language-dropdown-21)
 
 български (BG) (385.16 KB - PDF)
 
@@ -619,7 +621,7 @@ English (EN) (46.9 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/arikayce-liposomal-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-71)
+[Other languages (24)](#file-language-dropdown-969)
 
 български (BG) (56.99 KB - PDF)
 
@@ -961,7 +963,7 @@ English (EN) (289.31 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/arikayce-liposomal-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-407)
+[Other languages (24)](#file-language-dropdown-132)
 
 български (BG) (328.2 KB - DOCX)
 

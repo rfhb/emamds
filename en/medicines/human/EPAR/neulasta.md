@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:30:17
+document_datetime: 2025-12-29 11:07:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/neulasta.html
 document_name: neulasta.html
 version: success
-processing_time: 0.116485
-conversion_datetime: 2025-12-28 19:26:42.760001
+processing_time: 0.1150407
+conversion_datetime: 2025-12-30 22:09:48.359926
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pegfilgrastim Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (74.27 KB - PDF)
 
 [View](/en/documents/overview/neulasta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-448)
+[Other languages (22)](#file-language-dropdown-454)
 
 български (BG) (102.12 KB - PDF)
 
@@ -396,7 +398,7 @@ English (EN) (818.91 KB - PDF)
 
 [View](/en/documents/product-information/neulasta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-474)
+[Other languages (24)](#file-language-dropdown-795)
 
 български (BG) (957.36 KB - PDF)
 
@@ -712,7 +714,7 @@ English (EN) (35.56 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/neulasta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-687)
+[Other languages (24)](#file-language-dropdown-671)
 
 български (BG) (43.25 KB - PDF)
 

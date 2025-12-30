@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:24:23
+document_datetime: 2025-12-29 13:58:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/daliresp.html
 document_name: daliresp.html
 version: success
-processing_time: 0.1238479
-conversion_datetime: 2025-12-26 17:46:23.77712
+processing_time: 0.1208524
+conversion_datetime: 2025-12-30 10:05:18.506351
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 roflumilast Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -62,7 +64,7 @@ English (EN) (546.08 KB - PDF)
 
 [View](/en/documents/overview/daliresp-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-951)
+[Other languages (22)](#file-language-dropdown-132)
 
 български (BG) (633.14 KB - PDF)
 
@@ -340,7 +342,7 @@ English (EN) (774.28 KB - PDF)
 
 [View](/en/documents/product-information/daliresp-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-362)
+[Other languages (24)](#file-language-dropdown-102)
 
 български (BG) (1.33 MB - PDF)
 
@@ -656,7 +658,7 @@ English (EN) (486.93 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/daliresp-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-596)
+[Other languages (24)](#file-language-dropdown-142)
 
 български (BG) (538.13 KB - PDF)
 
@@ -956,7 +958,7 @@ English (EN) (576.76 KB - PDF)
 
 [View](/en/documents/conditions-member-states/daliresp-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-611)
+[Other languages (23)](#file-language-dropdown-744)
 
 български (BG) (676.9 KB - PDF)
 

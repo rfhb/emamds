@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-21 11:04:53
+document_datetime: 2025-12-29 11:16:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/repatha.html
 document_name: repatha.html
 version: success
-processing_time: 0.1215577
-conversion_datetime: 2025-12-28 10:04:00.889705
+processing_time: 0.1230387
+conversion_datetime: 2025-12-30 02:34:01.004236
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -125,7 +125,7 @@ English (EN) (134.96 KB - PDF)
 
 [View](/en/documents/overview/repatha-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-236)
+[Other languages (22)](#file-language-dropdown-319)
 
 български (BG) (161.34 KB - PDF)
 
@@ -413,7 +413,7 @@ English (EN) (1.9 MB - PDF)
 
 [View](/en/documents/product-information/repatha-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-805)
+[Other languages (24)](#file-language-dropdown-23)
 
 български (BG) (2.13 MB - PDF)
 
@@ -729,7 +729,7 @@ English (EN) (52.68 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/repatha-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-933)
+[Other languages (24)](#file-language-dropdown-284)
 
 български (BG) (59.83 KB - PDF)
 

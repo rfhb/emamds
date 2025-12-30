@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 08:07:26
+document_datetime: 2025-12-29 08:04:26
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vivlipeg.html
 document_name: vivlipeg.html
 version: success
-processing_time: 0.0909676
-conversion_datetime: 2025-12-23 23:46:33.539485
+processing_time: 0.2801058
+conversion_datetime: 2025-12-30 21:09:03.96523
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-pegfilgrastim
+pegfilgrastim Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +109,7 @@ English (EN) (110.33 KB - PDF)
 
 [View](/en/documents/overview/vivlipeg-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-850)
+[Other languages (22)](#file-language-dropdown-828)
 
 български (BG) (133.41 KB - PDF)
 
@@ -309,7 +305,7 @@ English (EN) (646.79 KB - PDF)
 
 [View](/en/documents/product-information/vivlipeg-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-332)
+[Other languages (24)](#file-language-dropdown-409)
 
 български (BG) (1.1 MB - PDF)
 
@@ -525,7 +521,7 @@ English (EN) (60.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vivlipeg-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-172)
+[Other languages (24)](#file-language-dropdown-210)
 
 български (BG) (86.83 KB - PDF)
 

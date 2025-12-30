@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:37:59
+document_datetime: 2025-12-29 13:12:11
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aerinaze.html
 document_name: aerinaze.html
 version: success
-processing_time: 0.3119537
-conversion_datetime: 2025-12-24 20:18:59.555882
+processing_time: 0.1305492
+conversion_datetime: 2025-12-30 02:33:09.200803
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 desloratadine / pseudoephedrine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (57.22 KB - PDF)
 
 [View](/en/documents/overview/aerinaze-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-28)
+[Other languages (21)](#file-language-dropdown-217)
 
 български (BG) (95.9 KB - PDF)
 
@@ -374,7 +376,7 @@ English (EN) (367.21 KB - PDF)
 
 [View](/en/documents/product-information/aerinaze-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-738)
+[Other languages (24)](#file-language-dropdown-548)
 
 български (BG) (461.84 KB - PDF)
 
@@ -690,7 +692,7 @@ English (EN) (28.14 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/aerinaze-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-670)
+[Other languages (24)](#file-language-dropdown-716)
 
 български (BG) (59.31 KB - PDF)
 
@@ -1046,7 +1048,7 @@ English (EN) (113.04 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/aerinaze-epar-scientific-conclusions-article-31-referral-annex-iv_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-246)
+[Other languages (25)](#file-language-dropdown-927)
 
 български (BG) (136.92 KB - PDF)
 

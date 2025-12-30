@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:04:59
+document_datetime: 2025-12-29 07:51:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/menveo.html
 document_name: menveo.html
 version: success
-processing_time: 0.1385295
-conversion_datetime: 2025-12-27 10:04:53.318699
+processing_time: 0.1383868
+conversion_datetime: 2025-12-30 21:02:43.564197
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 meningococcal group A, C, W-135 and Y conjugate vaccine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +116,7 @@ English (EN) (83.78 KB - PDF)
 
 [View](/en/documents/overview/menveo-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-650)
+[Other languages (22)](#file-language-dropdown-727)
 
 български (BG) (112.08 KB - PDF)
 
@@ -400,7 +402,7 @@ English (EN) (837.81 KB - PDF)
 
 [View](/en/documents/product-information/menveo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-411)
+[Other languages (24)](#file-language-dropdown-23)
 
 български (BG) (920.83 KB - PDF)
 
@@ -716,7 +718,7 @@ English (EN) (75.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/menveo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-210)
+[Other languages (24)](#file-language-dropdown-250)
 
 български (BG) (107.72 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:01:23
+document_datetime: 2025-12-29 07:22:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vipdomet.html
 document_name: vipdomet.html
 version: success
-processing_time: 0.1186289
-conversion_datetime: 2025-12-28 15:32:04.096159
+processing_time: 0.1194395
+conversion_datetime: 2025-12-30 09:47:59.613835
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 alogliptin / metformin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -145,7 +147,7 @@ English (EN) (384.74 KB - PDF)
 
 [View](/en/documents/product-information/vipdomet-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-589)
+[Other languages (24)](#file-language-dropdown-658)
 
 български (BG) (458.4 KB - PDF)
 
@@ -461,7 +463,7 @@ English (EN) (22.62 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vipdomet-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-868)
+[Other languages (24)](#file-language-dropdown-796)
 
 български (BG) (79.29 KB - PDF)
 
@@ -834,7 +836,7 @@ English (EN) (32.54 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/vipdomet-epar-scientific-conclusion_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-88)
+[Other languages (24)](#file-language-dropdown-645)
 
 български (BG) (69.5 KB - PDF)
 

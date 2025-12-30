@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:02:50
+document_datetime: 2025-12-29 08:08:26
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ipique.html
 document_name: ipique.html
 version: success
-processing_time: 0.0713426
-conversion_datetime: 2025-12-27 21:08:49.145842
+processing_time: 0.066975
+conversion_datetime: 2025-12-30 10:17:14.108615
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine has been refused authorisation
 
-bevacizumab
+bevacizumab Medicine Human Refused
 
-Medicine
-
-Human
-
-Refused
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -94,7 +90,7 @@ English (EN) (100 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-refusal-marketing-authorisation-ipique-bevacizumab_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-949)
+[Other languages (22)](#file-language-dropdown-34)
 
 български (BG) (124.5 KB - PDF)
 

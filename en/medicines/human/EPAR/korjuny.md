@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:05:23
+document_datetime: 2025-12-29 12:31:32
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/korjuny.html
 document_name: korjuny.html
 version: success
-processing_time: 0.0995342
-conversion_datetime: 2025-12-27 17:25:47.157896
+processing_time: 0.1062475
+conversion_datetime: 2025-12-30 11:34:06.819044
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 catumaxomab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (122.08 KB - PDF)
 
 [View](/en/documents/overview/korjuny-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-794)
+[Other languages (22)](#file-language-dropdown-861)
 
 български (BG) (147.52 KB - PDF)
 
@@ -309,7 +311,7 @@ English (EN) (515.89 KB - PDF)
 
 [View](/en/documents/product-information/korjuny-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-785)
+[Other languages (24)](#file-language-dropdown-766)
 
 български (BG) (603.19 KB - PDF)
 
@@ -623,7 +625,7 @@ English (EN) (48.83 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/korjuny-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-824)
+[Other languages (24)](#file-language-dropdown-540)
 
 български (BG) (68.45 KB - PDF)
 

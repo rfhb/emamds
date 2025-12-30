@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:17:11
+document_datetime: 2025-12-29 11:10:43
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xgeva.html
 document_name: xgeva.html
 version: success
-processing_time: 0.1416273
-conversion_datetime: 2025-12-28 08:25:42.182648
+processing_time: 0.1374689
+conversion_datetime: 2025-12-30 22:05:09.721131
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 denosumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -133,7 +135,7 @@ English (EN) (81 KB - PDF)
 
 [View](/en/documents/overview/xgeva-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-860)
+[Other languages (22)](#file-language-dropdown-13)
 
 български (BG) (108.45 KB - PDF)
 
@@ -421,7 +423,7 @@ English (EN) (798.38 KB - PDF)
 
 [View](/en/documents/product-information/xgeva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-863)
+[Other languages (24)](#file-language-dropdown-343)
 
 български (BG) (957.73 KB - PDF)
 
@@ -737,7 +739,7 @@ English (EN) (51.06 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xgeva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-223)
+[Other languages (24)](#file-language-dropdown-721)
 
 български (BG) (58.86 KB - PDF)
 
@@ -1280,7 +1282,7 @@ English (EN) (5.44 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/xgeva-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-66)
+[Other languages (24)](#file-language-dropdown-799)
 
 български (BG) (5.46 MB - DOCX)
 

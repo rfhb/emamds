@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:48:14
+document_datetime: 2025-12-29 11:46:45
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ocaliva.html
 document_name: ocaliva.html
 version: success
-processing_time: 0.2730871
-conversion_datetime: 2025-12-27 09:51:58.753482
+processing_time: 0.34046
+conversion_datetime: 2025-12-30 02:05:58.982927
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been revoked
 
 obeticholic acid Medicine Human Revoked
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -57,7 +59,7 @@ English (EN) (175.36 KB - PDF)
 
 [View](/en/documents/overview/ocaliva-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-983)
+[Other languages (22)](#file-language-dropdown-664)
 
 български (BG) (244.89 KB - PDF)
 
@@ -345,7 +347,7 @@ English (EN) (1.19 MB - PDF)
 
 [View](/en/documents/product-information/ocaliva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-294)
+[Other languages (24)](#file-language-dropdown-197)
 
 български (BG) (1.56 MB - PDF)
 
@@ -661,7 +663,7 @@ English (EN) (56.54 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ocaliva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-381)
+[Other languages (24)](#file-language-dropdown-354)
 
 български (BG) (91.25 KB - PDF)
 
@@ -1033,7 +1035,7 @@ English (EN) (158.23 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/ocaliva-epar-conclusions-granting-conditional-marketing-authorisation_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-363)
+[Other languages (24)](#file-language-dropdown-351)
 
 български (BG) (255.86 KB - PDF)
 

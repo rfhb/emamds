@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:57:43
+document_datetime: 2025-12-29 13:35:42
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/epysqli.html
 document_name: epysqli.html
 version: success
-processing_time: 0.1053474
-conversion_datetime: 2025-12-27 16:19:28.52827
+processing_time: 0.107968
+conversion_datetime: 2025-12-30 03:19:46.916819
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (117.27 KB - PDF)
 
 [View](/en/documents/overview/epysqli-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-38)
+[Other languages (22)](#file-language-dropdown-213)
 
 български (BG) (132.56 KB - PDF)
 
@@ -317,7 +319,7 @@ English (EN) (756.53 KB - PDF)
 
 [View](/en/documents/product-information/epysqli-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-286)
+[Other languages (24)](#file-language-dropdown-964)
 
 български (BG) (702.09 KB - PDF)
 
@@ -631,7 +633,7 @@ English (EN) (11.8 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/epysqli-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-737)
+[Other languages (24)](#file-language-dropdown-398)
 
 български (BG) (36.67 KB - PDF)
 

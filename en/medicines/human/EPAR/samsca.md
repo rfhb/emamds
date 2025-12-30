@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:25:31
+document_datetime: 2025-12-29 11:28:21
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/samsca.html
 document_name: samsca.html
 version: success
-processing_time: 0.0984291
-conversion_datetime: 2025-12-26 17:13:14.899453
+processing_time: 0.1111985
+conversion_datetime: 2025-12-30 08:20:31.697696
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tolvaptan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +105,7 @@ English (EN) (79.42 KB - PDF)
 
 [View](/en/documents/overview/samsca-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-289)
+[Other languages (22)](#file-language-dropdown-631)
 
 български (BG) (106.05 KB - PDF)
 
@@ -381,7 +383,7 @@ English (EN) (379.55 KB - PDF)
 
 [View](/en/documents/product-information/samsca-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-230)
+[Other languages (24)](#file-language-dropdown-24)
 
 български (BG) (449.22 KB - PDF)
 
@@ -697,7 +699,7 @@ English (EN) (28.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/samsca-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-396)
+[Other languages (24)](#file-language-dropdown-108)
 
 български (BG) (55.81 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:37:24
+document_datetime: 2025-12-29 07:22:35
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/adenuric.html
 document_name: adenuric.html
 version: success
-processing_time: 0.1168633
-conversion_datetime: 2025-12-28 09:10:26.710284
+processing_time: 0.120031
+conversion_datetime: 2025-12-30 09:16:45.368094
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 febuxostat Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (78.64 KB - PDF)
 
 [View](/en/documents/overview/adenuric-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-835)
+[Other languages (22)](#file-language-dropdown-37)
 
 български (BG) (107.4 KB - PDF)
 
@@ -403,7 +405,7 @@ English (EN) (347.17 KB - PDF)
 
 [View](/en/documents/product-information/adenuric-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-550)
+[Other languages (24)](#file-language-dropdown-509)
 
 български (BG) (569.55 KB - PDF)
 
@@ -719,7 +721,7 @@ English (EN) (13.77 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/adenuric-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-14)
+[Other languages (24)](#file-language-dropdown-453)
 
 български (BG) (55.7 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:08:02
+document_datetime: 2025-12-29 12:18:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/myalepta.html
 document_name: myalepta.html
 version: success
-processing_time: 0.1343467
-conversion_datetime: 2025-12-28 18:56:21.092714
+processing_time: 0.1341425
+conversion_datetime: 2025-12-30 02:03:11.20465
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 metreleptin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (84.64 KB - PDF)
 
 [View](/en/documents/overview/myalepta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-946)
+[Other languages (22)](#file-language-dropdown-75)
 
 български (BG) (110.89 KB - PDF)
 
@@ -403,7 +405,7 @@ English (EN) (1.88 MB - PDF)
 
 [View](/en/documents/product-information/myalepta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-683)
+[Other languages (24)](#file-language-dropdown-544)
 
 български (BG) (1.71 MB - PDF)
 
@@ -719,7 +721,7 @@ English (EN) (25.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/myalepta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-414)
+[Other languages (24)](#file-language-dropdown-727)
 
 български (BG) (54.54 KB - PDF)
 
@@ -1130,6 +1132,10 @@ Myalepta: Educational material for patients and healthcare professionals to ensu
 
 Reference Number: EMA/512520/2018
 
+Summary:
+
+Material will include training video on how to prepare and give medicine
+
 English (EN) (113.82 KB - PDF)
 
 **First published:** 06/08/2018
@@ -1138,7 +1144,7 @@ English (EN) (113.82 KB - PDF)
 
 [View](/en/documents/medication-error/myalepta-educational-material-patients-and-healthcare-professionals-ensure-myalepta-used-correctly_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-235)
+[Other languages (22)](#file-language-dropdown-290)
 
 български (BG) (135.68 KB - PDF)
 

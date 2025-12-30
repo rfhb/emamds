@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:50:51
+document_datetime: 2025-12-29 14:35:05
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/temozolomide-sun.html
 document_name: temozolomide-sun.html
 version: success
-processing_time: 0.141342
-conversion_datetime: 2025-12-25 01:26:27.729866
+processing_time: 0.1463448
+conversion_datetime: 2025-12-30 12:29:13.604107
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 temozolomide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (67.61 KB - PDF)
 
 [View](/en/documents/overview/temozolomide-sun-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-596)
+[Other languages (21)](#file-language-dropdown-798)
 
 български (BG) (166.99 KB - PDF)
 
@@ -374,7 +376,7 @@ English (EN) (803.26 KB - PDF)
 
 [View](/en/documents/product-information/temozolomide-sun-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-924)
+[Other languages (24)](#file-language-dropdown-136)
 
 български (BG) (1.13 MB - PDF)
 
@@ -690,7 +692,7 @@ English (EN) (19.84 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/temozolomide-sun-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-109)
+[Other languages (24)](#file-language-dropdown-463)
 
 български (BG) (47.11 KB - PDF)
 
@@ -1081,7 +1083,7 @@ English (EN) (383.95 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/temozolomide-sun-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-423)
+[Other languages (24)](#file-language-dropdown-0)
 
 български (BG) (473.93 KB - DOCX)
 
@@ -1289,7 +1291,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

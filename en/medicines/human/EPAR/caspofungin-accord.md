@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:31:19
+document_datetime: 2025-12-29 13:37:55
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/caspofungin-accord.html
 document_name: caspofungin-accord.html
 version: success
-processing_time: 0.1089871
-conversion_datetime: 2025-12-28 00:12:29.359309
+processing_time: 0.6176741
+conversion_datetime: 2025-12-30 12:35:07.809249
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has expired
 
 caspofungin Medicine Human Expired
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -56,7 +58,7 @@ English (EN) (656.45 KB - PDF)
 
 [View](/en/documents/overview/caspofungin-accord-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-709)
+[Other languages (22)](#file-language-dropdown-80)
 
 български (BG) (750.15 KB - PDF)
 
@@ -344,7 +346,7 @@ English (EN) (911.33 KB - PDF)
 
 [View](/en/documents/product-information/caspofungin-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-195)
+[Other languages (24)](#file-language-dropdown-86)
 
 български (BG) (1.93 MB - PDF)
 
@@ -660,7 +662,7 @@ English (EN) (574.12 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/caspofungin-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-824)
+[Other languages (24)](#file-language-dropdown-301)
 
 български (BG) (616.08 KB - PDF)
 

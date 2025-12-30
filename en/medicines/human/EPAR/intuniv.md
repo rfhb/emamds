@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:22:08
+document_datetime: 2025-12-29 11:19:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/intuniv.html
 document_name: intuniv.html
 version: success
-processing_time: 0.1183328
-conversion_datetime: 2025-12-28 19:58:44.298983
+processing_time: 0.1107744
+conversion_datetime: 2025-12-30 22:06:12.610978
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 guanfacine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -125,7 +127,7 @@ English (EN) (77.71 KB - PDF)
 
 [View](/en/documents/overview/intuniv-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-154)
+[Other languages (22)](#file-language-dropdown-66)
 
 български (BG) (104.66 KB - PDF)
 
@@ -413,7 +415,7 @@ English (EN) (341.81 KB - PDF)
 
 [View](/en/documents/product-information/intuniv-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-233)
+[Other languages (24)](#file-language-dropdown-865)
 
 български (BG) (522.2 KB - PDF)
 
@@ -729,7 +731,7 @@ English (EN) (7.19 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/intuniv-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-271)
+[Other languages (23)](#file-language-dropdown-177)
 
 български (BG) (87.78 KB - PDF)
 

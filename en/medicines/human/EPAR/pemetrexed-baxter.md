@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:04:08
+document_datetime: 2025-12-29 11:55:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pemetrexed-baxter.html
 document_name: pemetrexed-baxter.html
 version: success
-processing_time: 0.1171296
-conversion_datetime: 2025-12-27 21:01:29.340885
+processing_time: 0.1188452
+conversion_datetime: 2025-12-30 02:18:33.072819
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pemetrexed Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +107,7 @@ English (EN) (194.47 KB - PDF)
 
 [View](/en/documents/overview/pemetrexed-baxter-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-90)
+[Other languages (22)](#file-language-dropdown-0)
 
 български (BG) (181.14 KB - PDF)
 
@@ -301,7 +303,7 @@ English (EN) (645.27 KB - PDF)
 
 [View](/en/documents/product-information/pemetrexed-baxter-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-843)
+[Other languages (24)](#file-language-dropdown-873)
 
 български (BG) (744.77 KB - PDF)
 
@@ -519,7 +521,7 @@ English (EN) (110.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pemetrexed-baxter-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-182)
+[Other languages (24)](#file-language-dropdown-923)
 
 български (BG) (138.55 KB - PDF)
 
@@ -798,7 +800,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-09 23:30:55
+document_datetime: 2025-12-29 13:14:57
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rivastigmine-1-pharma.html
 document_name: rivastigmine-1-pharma.html
 version: success
-processing_time: 0.1116244
-conversion_datetime: 2025-12-27 09:10:58.807374
+processing_time: 0.1035813
+conversion_datetime: 2025-12-30 12:56:03.023691
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 rivastigmine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (75.92 KB - PDF)
 
 [View](/en/documents/overview/rivastigmine-1-pharma-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-240)
+[Other languages (21)](#file-language-dropdown-107)
 
 български (BG) (129.32 KB - PDF)
 
@@ -377,7 +379,7 @@ English (EN) (731.88 KB - PDF)
 
 [View](/en/documents/product-information/rivastigmine-1-pharma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-499)
+[Other languages (24)](#file-language-dropdown-356)
 
 български (BG) (588.77 KB - PDF)
 
@@ -693,7 +695,7 @@ English (EN) (102.72 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rivastigmine-1-pharma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-79)
+[Other languages (24)](#file-language-dropdown-919)
 
 български (BG) (41.65 KB - PDF)
 

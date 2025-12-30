@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:01
+document_datetime: 2025-12-29 08:16:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zenapax.html
 document_name: zenapax.html
 version: success
-processing_time: 0.0907508
-conversion_datetime: 2025-12-27 17:30:41.532579
+processing_time: 0.094204
+conversion_datetime: 2025-12-30 01:36:35.601431
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-daclizumab
+daclizumab Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +60,7 @@ English (EN) (256.5 KB - PDF)
 
 [View](/en/documents/overview/zenapax-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-945)
+[Other languages (21)](#file-language-dropdown-217)
 
 български (BG) (677.98 KB - PDF)
 
@@ -330,7 +326,7 @@ English (EN) (444.81 KB - PDF)
 
 [View](/en/documents/product-information/zenapax-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-954)
+[Other languages (21)](#file-language-dropdown-551)
 
 български (BG) (650.22 KB - PDF)
 
@@ -610,7 +606,7 @@ English (EN) (273.05 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zenapax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (10)](#file-language-dropdown-376)
+[Other languages (10)](#file-language-dropdown-706)
 
 español (ES) (273.14 KB - PDF)
 

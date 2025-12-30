@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:29:18
+document_datetime: 2025-12-29 11:31:27
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/roactemra.html
 document_name: roactemra.html
 version: success
-processing_time: 0.4712426
-conversion_datetime: 2025-12-25 10:42:16.985598
+processing_time: 0.1662335
+conversion_datetime: 2025-12-30 22:18:09.09513
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tocilizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -151,7 +153,7 @@ English (EN) (160.53 KB - PDF)
 
 [View](/en/documents/overview/roactemra-epar-medicines-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-181)
+[Other languages (22)](#file-language-dropdown-888)
 
 български (BG) (140.06 KB - PDF)
 
@@ -439,7 +441,7 @@ English (EN) (2.12 MB - PDF)
 
 [View](/en/documents/product-information/roactemra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-65)
+[Other languages (24)](#file-language-dropdown-956)
 
 български (BG) (2.78 MB - PDF)
 
@@ -755,7 +757,7 @@ English (EN) (19.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/roactemra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-997)
+[Other languages (24)](#file-language-dropdown-638)
 
 български (BG) (49.48 KB - PDF)
 
@@ -1055,7 +1057,7 @@ English (EN) (26.83 KB - PDF)
 
 [View](/en/documents/conditions-member-states/roactemra-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-381)
+[Other languages (23)](#file-language-dropdown-922)
 
 български (BG) (76.81 KB - PDF)
 

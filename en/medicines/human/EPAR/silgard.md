@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:13:26
+document_datetime: 2025-12-29 10:28:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/silgard.html
 document_name: silgard.html
 version: success
-processing_time: 0.1240787
-conversion_datetime: 2025-12-28 11:01:28.559715
+processing_time: 0.1237342
+conversion_datetime: 2025-12-31 05:15:41.486867
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 human papillomavirus vaccine [types 6, 11, 16, 18] (recombinant, adsorbed) Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -62,7 +64,7 @@ English (EN) (556.71 KB - PDF)
 
 [View](/en/documents/overview/silgard-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-919)
+[Other languages (22)](#file-language-dropdown-277)
 
 български (BG) (701.82 KB - PDF)
 
@@ -340,7 +342,7 @@ English (EN) (1.46 MB - PDF)
 
 [View](/en/documents/product-information/silgard-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-660)
+[Other languages (24)](#file-language-dropdown-233)
 
 български (BG) (2.57 MB - PDF)
 
@@ -656,7 +658,7 @@ English (EN) (493.13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/silgard-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-6)
+[Other languages (21)](#file-language-dropdown-605)
 
 български (BG) (570.4 KB - PDF)
 

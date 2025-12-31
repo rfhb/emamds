@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:12:38
+document_datetime: 2025-12-29 11:34:31
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/gardasil-9.html
 document_name: gardasil-9.html
 version: success
-processing_time: 0.1207839
-conversion_datetime: 2025-12-27 22:00:56.540627
+processing_time: 0.3218174
+conversion_datetime: 2025-12-31 03:16:01.780294
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 human papillomavirus 9-valent vaccine (recombinant, adsorbed) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -126,7 +128,7 @@ English (EN) (88.67 KB - PDF)
 
 [View](/en/documents/overview/gardasil-9-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-63)
+[Other languages (22)](#file-language-dropdown-575)
 
 български (BG) (117.42 KB - PDF)
 
@@ -404,7 +406,7 @@ English (EN) (426.03 KB - PDF)
 
 [View](/en/documents/product-information/gardasil-9-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-205)
+[Other languages (24)](#file-language-dropdown-187)
 
 български (BG) (400.35 KB - PDF)
 
@@ -720,7 +722,7 @@ English (EN) (68.77 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/gardasil-9-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-838)
+[Other languages (24)](#file-language-dropdown-114)
 
 български (BG) (78.21 KB - PDF)
 
@@ -1193,9 +1195,9 @@ English (EN) (121.2 KB - PDF)
 #### More information on Gardasil 9
 
 - [Human papillomavirus vaccines - Cervarix, Gardasil, Gardasil 9, Silgard - referral](/en/medicines/human/referrals/human-papillomavirus-vaccines-cervarix-gardasil-gardasil-9-silgard)
+- [DARWIN EU® Effectiveness of Human Papillomavirus Vaccines (HPV) to prevent cervical cancer - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000080)
 - [Nested case-control study evaluating effectiveness of immunization of girls and women of childbearing potential with GARDASIL(TM)/GARDASIL(TM) 9 against juvenile-onset recurrent respiratory papillomatosis (JoRRP) in Sweden, Denmark, and Norway (V503-095) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000286)
 - [Population-based retrospective nested case-control study evaluating effectiveness of GARDASIL™ /GARDASIL™9 against adult-onset recurrent respiratory papillomatosis (AoRRP) in Sweden, Denmark, and Norway (V503-088) - post-authorisation study](https://catalogues.ema.europa.eu/study/50312)
-- [DARWIN EU® Effectiveness of Human Papillomavirus Vaccines (HPV) to prevent cervical cancer - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000080)
 - [Retrospective cohort study evaluating effectiveness of GARDASIL™ against adult-onset recurrent respiratory papillomatosis in Norway - post-authorisation study](https://catalogues.ema.europa.eu/study/50697)
 - [Post-Marketing surveillance for the safety of GARDASIL® and GARDASIL®9 in a cohort of Chinese women - post-authorisation study](https://catalogues.ema.europa.eu/study/47294)
 

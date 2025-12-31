@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:53:24
+document_datetime: 2025-12-29 07:36:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/exforge-hct.html
 document_name: exforge-hct.html
 version: success
-processing_time: 0.157194
-conversion_datetime: 2025-12-28 02:44:45.259309
+processing_time: 0.1638094
+conversion_datetime: 2025-12-31 02:16:26.733241
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 amlodipine besilate / valsartan / hydrochlorothiazide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (75.96 KB - PDF)
 
 [View](/en/documents/overview/exforge-hct-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-850)
+[Other languages (22)](#file-language-dropdown-278)
 
 български (BG) (104.42 KB - PDF)
 
@@ -394,7 +396,7 @@ English (EN) (489.2 KB - PDF)
 
 [View](/en/documents/product-information/exforge-hct-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-695)
+[Other languages (24)](#file-language-dropdown-797)
 
 български (BG) (693.41 KB - PDF)
 
@@ -710,7 +712,7 @@ English (EN) (20.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/exforge-hct-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-174)
+[Other languages (24)](#file-language-dropdown-981)
 
 български (BG) (90.38 KB - PDF)
 
@@ -1070,7 +1072,7 @@ English (EN) (119.28 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-233)
+[Other languages (22)](#file-language-dropdown-394)
 
 български (BG) (145.18 KB - PDF)
 
@@ -1268,7 +1270,7 @@ English (EN) (99.42 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/exforge-hct-epar-scientific-conclusions-annex-iv_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-300)
+[Other languages (22)](#file-language-dropdown-503)
 
 български (BG) (136.15 KB - PDF)
 
@@ -1480,7 +1482,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/exforge-hct-h-c-1068-a31-0029-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recom_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-597)
+[Other languages (22)](#file-language-dropdown-919)
 
 български (BG) (87.49 KB - PDF)
 

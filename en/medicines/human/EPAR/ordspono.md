@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:07:13
+document_datetime: 2025-12-29 11:47:32
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ordspono.html
 document_name: ordspono.html
 version: success
-processing_time: 0.1079622
-conversion_datetime: 2025-12-28 09:49:14.410099
+processing_time: 0.1100206
+conversion_datetime: 2025-12-31 04:32:22.873818
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-odronextamab
+odronextamab Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +114,7 @@ English (EN) (126.01 KB - PDF)
 
 [View](/en/documents/overview/ordspono-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-154)
+[Other languages (22)](#file-language-dropdown-569)
 
 български (BG) (149.36 KB - PDF)
 
@@ -316,7 +312,7 @@ English (EN) (666.34 KB - PDF)
 
 [View](/en/documents/product-information/ordspono-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-20)
+[Other languages (24)](#file-language-dropdown-799)
 
 български (BG) (642.62 KB - PDF)
 
@@ -630,7 +626,7 @@ English (EN) (42.77 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ordspono-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-212)
+[Other languages (24)](#file-language-dropdown-839)
 
 български (BG) (75.73 KB - PDF)
 

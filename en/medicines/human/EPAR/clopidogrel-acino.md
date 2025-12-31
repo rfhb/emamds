@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:00
+document_datetime: 2025-12-29 14:34:51
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-acino.html
 document_name: clopidogrel-acino.html
 version: success
-processing_time: 0.106516
-conversion_datetime: 2025-12-24 16:52:05.609977
+processing_time: 0.0990173
+conversion_datetime: 2025-12-31 05:19:22.481135
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-clopidogrel
+clopidogrel Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (545.87 KB - PDF)
 
 [View](/en/documents/overview/clopidogrel-acino-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-831)
+[Other languages (22)](#file-language-dropdown-994)
 
 български (BG) (634.39 KB - PDF)
 
@@ -345,7 +341,7 @@ English (EN) (693.8 KB - PDF)
 
 [View](/en/documents/product-information/clopidogrel-acino-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-923)
+[Other languages (24)](#file-language-dropdown-409)
 
 български (BG) (1.53 MB - PDF)
 
@@ -661,7 +657,7 @@ English (EN) (463.29 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/clopidogrel-acino-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-408)
+[Other languages (21)](#file-language-dropdown-978)
 
 български (BG) (552.52 KB - PDF)
 

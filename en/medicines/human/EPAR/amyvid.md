@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:02:05
+document_datetime: 2025-12-29 11:28:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/amyvid.html
 document_name: amyvid.html
 version: success
-processing_time: 0.1112593
-conversion_datetime: 2025-12-28 04:19:05.435076
+processing_time: 0.1086171
+conversion_datetime: 2025-12-31 04:01:03.200429
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-florbetapir (18F)
+florbetapir (18F) Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +113,7 @@ English (EN) (121.92 KB - PDF)
 
 [View](/en/documents/overview/amyvid-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-743)
+[Other languages (21)](#file-language-dropdown-538)
 
 български (BG) (136.62 KB - PDF)
 
@@ -383,7 +379,7 @@ English (EN) (730.83 KB - PDF)
 
 [View](/en/documents/product-information/amyvid-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-212)
+[Other languages (24)](#file-language-dropdown-78)
 
 български (BG) (853.55 KB - PDF)
 
@@ -699,7 +695,7 @@ English (EN) (33.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/amyvid-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-174)
+[Other languages (24)](#file-language-dropdown-795)
 
 български (BG) (34.94 KB - PDF)
 

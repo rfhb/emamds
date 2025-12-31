@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:57:41
+document_datetime: 2025-12-29 11:34:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/revatio.html
 document_name: revatio.html
 version: success
-processing_time: 0.1358953
-conversion_datetime: 2025-12-27 22:15:08.673311
+processing_time: 0.1551336
+conversion_datetime: 2025-12-31 04:40:05.626401
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sildenafil Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (73 KB - PDF)
 
 [View](/en/documents/overview/revatio-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-719)
+[Other languages (22)](#file-language-dropdown-865)
 
 български (BG) (99.98 KB - PDF)
 
@@ -404,7 +406,7 @@ English (EN) (794.7 KB - PDF)
 
 [View](/en/documents/product-information/revatio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-883)
+[Other languages (24)](#file-language-dropdown-490)
 
 български (BG) (1.85 MB - PDF)
 
@@ -720,7 +722,7 @@ English (EN) (36.97 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/revatio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-865)
+[Other languages (24)](#file-language-dropdown-675)
 
 български (BG) (31.88 KB - PDF)
 
@@ -1020,7 +1022,7 @@ English (EN) (29.3 KB - PDF)
 
 [View](/en/documents/conditions-member-states/revatio-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-965)
+[Other languages (23)](#file-language-dropdown-131)
 
 български (BG) (99.45 KB - PDF)
 
@@ -1516,7 +1518,7 @@ English (EN) (718.79 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/revatio-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (23)](#file-language-dropdown-582)
+[Other languages (23)](#file-language-dropdown-432)
 
 български (BG) (741.09 KB - DOCX)
 

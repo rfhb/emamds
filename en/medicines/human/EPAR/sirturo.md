@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:02:36
+document_datetime: 2025-12-29 08:39:16
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sirturo.html
 document_name: sirturo.html
 version: success
-processing_time: 0.122998
-conversion_datetime: 2025-12-29 21:03:49.319774
+processing_time: 0.1234557
+conversion_datetime: 2025-12-31 03:31:05.915315
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bedaquiline Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +116,7 @@ English (EN) (116.29 KB - PDF)
 
 [View](/en/documents/overview/sirturo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-197)
+[Other languages (22)](#file-language-dropdown-313)
 
 български (BG) (143.55 KB - PDF)
 
@@ -402,7 +404,7 @@ English (EN) (297.16 KB - PDF)
 
 [View](/en/documents/product-information/sirturo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-158)
+[Other languages (24)](#file-language-dropdown-243)
 
 български (BG) (344.44 KB - PDF)
 
@@ -718,7 +720,7 @@ English (EN) (29.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sirturo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-182)
+[Other languages (24)](#file-language-dropdown-886)
 
 български (BG) (25.02 KB - PDF)
 
@@ -1216,7 +1218,7 @@ This product is no longer an orphan medicine. It was originally [designated an o
 
 #### More information on Sirturo
 
-- [EMEA-000912-PIP01-10-M06 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000912-pip01-10-m06)
+- [EMA/PE/0000181219 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000181219)
 - [A Multi-Country Prospective Multi-Drug Resistant Tuberculosis Patient Registry to Monitor Bedaquiline Safety, Utilization, and Emergence of Resistance - post-authorisation study](https://catalogues.ema.europa.eu/study/40892)
 
 #### Topics

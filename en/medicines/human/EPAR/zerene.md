@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:04:34
+document_datetime: 2025-12-29 14:33:01
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zerene.html
 document_name: zerene.html
 version: success
-processing_time: 0.0983653
-conversion_datetime: 2025-12-26 19:38:58.523803
+processing_time: 0.1004929
+conversion_datetime: 2025-12-31 02:44:42.413251
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-zaleplon
+zaleplon Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +60,7 @@ English (EN) (260.8 KB - PDF)
 
 [View](/en/documents/overview/zerene-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-356)
+[Other languages (21)](#file-language-dropdown-596)
 
 български (BG) (424.2 KB - PDF)
 
@@ -330,7 +326,7 @@ English (EN) (645.85 KB - PDF)
 
 [View](/en/documents/product-information/zerene-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-613)
+[Other languages (21)](#file-language-dropdown-812)
 
 български (BG) (1.64 MB - PDF)
 
@@ -610,7 +606,7 @@ English (EN) (237.02 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zerene-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-614)
+[Other languages (21)](#file-language-dropdown-799)
 
 български (BG) (319.93 KB - PDF)
 

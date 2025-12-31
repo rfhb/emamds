@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:21:52
+document_datetime: 2025-12-29 11:32:05
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/neparvis.html
 document_name: neparvis.html
 version: success
-processing_time: 0.1531747
-conversion_datetime: 2025-12-28 18:09:42.235063
+processing_time: 0.1506823
+conversion_datetime: 2025-12-31 04:14:59.975851
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sacubitril / valsartan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +122,7 @@ English (EN) (96.57 KB - PDF)
 
 [View](/en/documents/overview/neparvis-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-993)
+[Other languages (22)](#file-language-dropdown-866)
 
 български (BG) (120.88 KB - PDF)
 
@@ -408,7 +410,7 @@ English (EN) (1.26 MB - PDF)
 
 [View](/en/documents/product-information/neparvis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-237)
+[Other languages (24)](#file-language-dropdown-404)
 
 български (BG) (978.92 KB - PDF)
 
@@ -724,7 +726,7 @@ English (EN) (110.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/neparvis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-212)
+[Other languages (24)](#file-language-dropdown-206)
 
 български (BG) (78.79 KB - PDF)
 
@@ -1156,7 +1158,7 @@ English (EN) (119.28 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-239)
+[Other languages (22)](#file-language-dropdown-807)
 
 български (BG) (145.18 KB - PDF)
 
@@ -1364,7 +1366,7 @@ English (EN) (99.42 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/neparvis-h-c-4343-a31-0020-epar-scientific-conclusions_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-646)
+[Other languages (22)](#file-language-dropdown-728)
 
 български (BG) (136.15 KB - PDF)
 

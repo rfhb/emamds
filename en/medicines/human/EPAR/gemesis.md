@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:02:50
+document_datetime: 2025-12-29 16:07:12
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/gemesis.html
 document_name: gemesis.html
 version: success
-processing_time: 0.0644622
-conversion_datetime: 2025-12-26 13:23:51.471173
+processing_time: 0.060374
+conversion_datetime: 2025-12-31 03:50:03.676681
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine has been refused authorisation
 
-becaplermin
+becaplermin Medicine Human Refused
 
-Medicine
-
-Human
-
-Refused
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -97,7 +93,7 @@ English (EN) (76.4 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-recommendation-refusal-marketing-authorisation-gemesis_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-804)
+[Other languages (21)](#file-language-dropdown-623)
 
 български (BG) (181.85 KB - PDF)
 

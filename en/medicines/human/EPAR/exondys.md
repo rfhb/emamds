@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:38:40
+document_datetime: 2025-12-29 13:06:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/exondys.html
 document_name: exondys.html
 version: success
-processing_time: 0.0656549
-conversion_datetime: 2025-12-25 05:50:04.964918
+processing_time: 0.0652835
+conversion_datetime: 2025-12-31 02:47:29.929272
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine has been refused authorisation
 
 eteplirsen Medicine Human Refused
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -97,7 +99,7 @@ English (EN) (73.99 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-refusal-marketing-authorisation-exondys-eteplirsen-outcome-re-examination_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-917)
+[Other languages (22)](#file-language-dropdown-651)
 
 български (BG) (98.88 KB - PDF)
 

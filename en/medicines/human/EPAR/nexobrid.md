@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-09 23:28:37
+document_datetime: 2025-12-29 10:10:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nexobrid.html
 document_name: nexobrid.html
 version: success
-processing_time: 0.1126261
-conversion_datetime: 2025-12-24 17:47:45.618701
+processing_time: 0.1125186
+conversion_datetime: 2025-12-31 02:47:11.802953
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 concentrate of proteolytic enzymes enriched in bromelain Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (130.41 KB - PDF)
 
 [View](/en/documents/overview/nexobrid-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-764)
+[Other languages (22)](#file-language-dropdown-760)
 
 български (BG) (152.24 KB - PDF)
 
@@ -404,7 +406,7 @@ English (EN) (626.5 KB - PDF)
 
 [View](/en/documents/product-information/nexobrid-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-807)
+[Other languages (24)](#file-language-dropdown-141)
 
 български (BG) (685.29 KB - PDF)
 
@@ -720,7 +722,7 @@ English (EN) (35.12 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nexobrid-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-552)
+[Other languages (24)](#file-language-dropdown-631)
 
 български (BG) (60.69 KB - PDF)
 

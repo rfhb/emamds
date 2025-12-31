@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 06:03:09
+document_datetime: 2025-12-29 16:53:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nyracta.html
 document_name: nyracta.html
 version: success
-processing_time: 0.0438407
-conversion_datetime: 2025-12-28 15:09:20.008059
+processing_time: 0.0367094
+conversion_datetime: 2025-12-31 03:47:43.825294
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-rosiglitazone
+rosiglitazone Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

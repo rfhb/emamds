@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:05:25
+document_datetime: 2025-12-29 13:54:16
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/granupas.html
 document_name: granupas.html
 version: success
-processing_time: 0.1136816
-conversion_datetime: 2025-12-28 10:22:03.91633
+processing_time: 0.117959
+conversion_datetime: 2025-12-31 02:10:16.818781
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-para-aminosalicylic acid
+para-aminosalicylic acid Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -127,7 +123,7 @@ English (EN) (75.23 KB - PDF)
 
 [View](/en/documents/overview/granupas-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-715)
+[Other languages (22)](#file-language-dropdown-424)
 
 български (BG) (125.19 KB - PDF)
 
@@ -405,7 +401,7 @@ English (EN) (324.87 KB - PDF)
 
 [View](/en/documents/product-information/granupas-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-503)
+[Other languages (24)](#file-language-dropdown-153)
 
 български (BG) (507.27 KB - PDF)
 
@@ -721,7 +717,7 @@ English (EN) (31.54 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/granupas-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-615)
+[Other languages (24)](#file-language-dropdown-545)
 
 български (BG) (72.11 KB - PDF)
 

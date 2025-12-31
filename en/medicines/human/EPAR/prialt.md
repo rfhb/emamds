@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-21 12:03:01
+document_datetime: 2025-12-29 11:47:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/prialt.html
 document_name: prialt.html
 version: success
-processing_time: 0.1100277
-conversion_datetime: 2025-12-24 20:53:37.853513
+processing_time: 0.1076715
+conversion_datetime: 2025-12-31 01:41:04.836261
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -120,7 +120,7 @@ English (EN) (72.59 KB - PDF)
 
 [View](/en/documents/overview/prialt-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-156)
+[Other languages (22)](#file-language-dropdown-433)
 
 български (BG) (101.34 KB - PDF)
 
@@ -398,7 +398,7 @@ English (EN) (504.15 KB - PDF)
 
 [View](/en/documents/product-information/prialt-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-510)
+[Other languages (24)](#file-language-dropdown-78)
 
 български (BG) (667.3 KB - PDF)
 
@@ -714,7 +714,7 @@ English (EN) (70.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/prialt-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-945)
+[Other languages (18)](#file-language-dropdown-873)
 
 español (ES) (72.01 KB - PDF)
 

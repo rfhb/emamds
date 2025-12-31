@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:24:28
+document_datetime: 2025-12-29 13:57:49
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lantus.html
 document_name: lantus.html
 version: success
-processing_time: 0.1166985
-conversion_datetime: 2025-12-25 01:45:55.348745
+processing_time: 0.122706
+conversion_datetime: 2025-12-31 01:49:21.094429
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin glargine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (61.95 KB - PDF)
 
 [View](/en/documents/overview/lantus-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-804)
+[Other languages (21)](#file-language-dropdown-889)
 
 български (BG) (103.2 KB - PDF)
 
@@ -394,7 +396,7 @@ English (EN) (908.89 KB - PDF)
 
 [View](/en/documents/product-information/lantus-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-622)
+[Other languages (24)](#file-language-dropdown-82)
 
 български (BG) (826.75 KB - PDF)
 
@@ -710,7 +712,7 @@ English (EN) (43.17 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lantus-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-532)
+[Other languages (24)](#file-language-dropdown-254)
 
 български (BG) (184.22 KB - PDF)
 

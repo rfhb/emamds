@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:06:32
+document_datetime: 2025-12-29 13:30:15
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mircera.html
 document_name: mircera.html
 version: success
-processing_time: 0.1342228
-conversion_datetime: 2025-12-26 11:21:06.236268
+processing_time: 0.1393062
+conversion_datetime: 2025-12-31 01:19:50.041484
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 methoxy polyethylene glycol-epoetin beta Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -132,7 +134,7 @@ English (EN) (127.62 KB - PDF)
 
 [View](/en/documents/overview/mircera-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-347)
+[Other languages (22)](#file-language-dropdown-86)
 
 български (BG) (134.15 KB - PDF)
 
@@ -418,7 +420,7 @@ English (EN) (1.38 MB - PDF)
 
 [View](/en/documents/product-information/mircera-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-775)
+[Other languages (24)](#file-language-dropdown-510)
 
 български (BG) (1.58 MB - PDF)
 
@@ -734,7 +736,7 @@ English (EN) (48.92 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mircera-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-410)
+[Other languages (24)](#file-language-dropdown-591)
 
 български (BG) (51.07 KB - PDF)
 
@@ -1034,7 +1036,7 @@ English (EN) (15.49 KB - PDF)
 
 [View](/en/documents/conditions-member-states/mircera-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-649)
+[Other languages (21)](#file-language-dropdown-552)
 
 български (BG) (80.62 KB - PDF)
 

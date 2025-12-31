@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:26:26
+document_datetime: 2025-12-29 14:36:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dasatinib-accordpharma.html
 document_name: dasatinib-accordpharma.html
 version: success
-processing_time: 0.108969
-conversion_datetime: 2025-12-28 13:25:44.489578
+processing_time: 0.1081895
+conversion_datetime: 2025-12-31 04:28:29.69049
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 dasatinib (anhydrous) Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -63,7 +65,7 @@ English (EN) (758.43 KB - PDF)
 
 [View](/en/documents/overview/dasatinib-accordpharma-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-557)
+[Other languages (22)](#file-language-dropdown-306)
 
 български (BG) (831.72 KB - PDF)
 
@@ -351,7 +353,7 @@ English (EN) (1.72 MB - PDF)
 
 [View](/en/documents/product-information/dasatinib-accordpharma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-834)
+[Other languages (24)](#file-language-dropdown-296)
 
 български (BG) (3.32 MB - PDF)
 
@@ -667,7 +669,7 @@ English (EN) (650.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/dasatinib-accordpharma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-621)
+[Other languages (24)](#file-language-dropdown-615)
 
 български (BG) (708.94 KB - PDF)
 

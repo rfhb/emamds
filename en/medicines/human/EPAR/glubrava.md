@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:04:48
+document_datetime: 2025-12-29 14:14:44
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/glubrava.html
 document_name: glubrava.html
 version: success
-processing_time: 0.1635439
-conversion_datetime: 2025-12-26 20:34:50.946354
+processing_time: 0.1481632
+conversion_datetime: 2025-12-31 03:22:48.843698
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-pioglitazone / metformin
+pioglitazone / metformin Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -68,7 +64,7 @@ English (EN) (666.22 KB - PDF)
 
 [View](/en/documents/overview/glubrava-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-103)
+[Other languages (22)](#file-language-dropdown-441)
 
 български (BG) (764.1 KB - PDF)
 
@@ -356,7 +352,7 @@ English (EN) (1.11 MB - PDF)
 
 [View](/en/documents/product-information/glubrava-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-682)
+[Other languages (24)](#file-language-dropdown-984)
 
 български (BG) (2 MB - PDF)
 
@@ -672,7 +668,7 @@ English (EN) (595.48 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/glubrava-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-991)
+[Other languages (24)](#file-language-dropdown-778)
 
 български (BG) (641.13 KB - PDF)
 
@@ -1336,7 +1332,7 @@ English (EN) (616.67 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/glubrava-epar-scientific-conclusion_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-54)
+[Other languages (24)](#file-language-dropdown-857)
 
 български (BG) (744.69 KB - PDF)
 

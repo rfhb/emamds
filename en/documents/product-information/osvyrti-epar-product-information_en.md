@@ -1,28 +1,26 @@
 ---
-document_datetime: 2025-07-28 15:28:12
+document_datetime: 2025-12-22 15:18:26
 document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/osvyrti-epar-product-information_en.pdf
 document_name: osvyrti-epar-product-information_en.pdf
 version: success
-processing_time: 8.8253796
-conversion_datetime: 2025-12-20 08:11:53.256782
+processing_time: 8.491726
+conversion_datetime: 2025-12-31 01:38:56.411164
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
-▼This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
+▼ This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -78,7 +76,7 @@ No dose adjustment is required in elderly patients.
 
 No dose adjustment is required in patients with renal impairment (see section 4.4 for recommendations relating to monitoring of calcium).
 
-No data is available in patients with long-term systemic glucocorticoid therapy and severe renal impairment Glomerular filtration rate (GFR &lt; 30 mL/min).
+No data is available in patients with long-term systemic glucocorticoid therapy and severe renal impairment (Glomerular filtration rate GFR &lt; 30 mL/min).
 
 ## Hepatic impairment
 
@@ -90,7 +88,7 @@ Osvyrti should not be used in children aged &lt; 18 years because of safety conc
 
 ## Method of administration
 
-For subcutaneous use.
+## For subcutaneous use.
 
 Administration should be performed by an individual who has been adequately trained in injection techniques.
 
@@ -142,10 +140,10 @@ The start of treatment/new treatment course should be delayed in patients with u
 
 The following risk factors should be considered when evaluating a patient's risk of developing ONJ:
 
--  potency of the medicinal product that inhibits bone resorption (higher risk for highly potent compounds), route of administration (higher risk for parenteral administration) and cumulative dose of bone resorption therapy.
--  cancer, co-morbid conditions (e.g. anaemia, coagulopathies, infection), smoking.
--  concomitant therapies: corticosteroids, chemotherapy, angiogenesis inhibitors, radiotherapy to head and neck.
--  poor oral hygiene, periodontal disease, poorly fitting dentures, history of dental disease, invasive dental procedures (e.g. tooth extractions).
+- cancer, co-morbid conditions (e.g. anaemia, coagulopathies, infection), smoking.
+- potency of the medicinal product that inhibits bone resorption (higher risk for highly potent compounds), route of administration (higher risk for parenteral administration) and cumulative dose of bone resorption therapy.
+- concomitant therapies: corticosteroids, chemotherapy, angiogenesis inhibitors, radiotherapy to head and neck.
+- poor oral hygiene, periodontal disease, poorly fitting dentures, history of dental disease, invasive dental procedures (e.g. tooth extractions).
 
 All patients should be encouraged to maintain good oral hygiene, receive routine dental check-ups, and immediately report any oral symptoms such as dental mobility, pain or swelling or non-healing of sores or discharge during treatment with denosumab. While on treatment, invasive dental procedures should be performed only after careful consideration and be avoided in close proximity to denosumab administration.
 
@@ -164,6 +162,10 @@ Atypical femoral fractures have been reported in patients receiving denosumab (s
 ## Long-term antiresorptive treatment
 
 Long-term antiresorptive treatment (including both denosumab and bisphosphonates) may contribute to an increased risk for adverse outcomes such as osteonecrosis of the jaw and atypical femur fractures due to significant suppression of bone remodelling (see section 4.2).
+
+## Treatment discontinuation
+
+Following denosumab discontinuation, decrease in bone mineral density (BMD) is expected (see section 5.1), leading to an increased risk for fractures. Thus, monitoring of BMD is recommended, and alternative treatment should be considered according to clinical guidelines.
 
 ## Concomitant treatment with other denosumab-containing medicinal products
 
@@ -221,9 +223,11 @@ The most common side effects with denosumab (seen in more than one patient in te
 
 The data in table 1 below describe adverse reactions reported from phase II and III clinical trials in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation; and/or spontaneous reporting.
 
-The following convention has been used for the classification of the adverse reactions (see table 1): very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data). Within each frequency grouping and system organ class, adverse reactions are presented in order of decreasing seriousness.
+The following convention has been used for the classification of the adverse reactions (see table 1): very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1,000 to &lt; 1/100), rare ( ≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the
 
 <div style=\"page-break-after: always\"></div>
+
+available data). Within each frequency grouping and system organ class, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1. Adverse reactions reported in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation
 
@@ -231,8 +235,8 @@ Table 1. Adverse reactions reported in patients with osteoporosis and breast or 
 |-------------------------------------------------|----------------------|------------------------------------------------|
 | Infections and infestations                     | Common               | Urinary tract infection                        |
 | Infections and infestations                     | Common               | Upper respiratory tract infection              |
-| Infections and infestations                     | Uncommon             | Diverticulitis 1                               |
-| Infections and infestations                     | Uncommon             | Cellulitis 1                                   |
+| Infections and infestations                     | Uncommon             | Diverticulitis 1 1                             |
+| Infections and infestations                     | Uncommon             | Cellulitis                                     |
 | Infections and infestations                     | Uncommon             | Ear infection                                  |
 | Immune system disorders                         | Rare                 | Drug hypersensitivity 1                        |
 | Immune system disorders                         | Rare                 | Anaphylactic reaction 1                        |
@@ -251,10 +255,6 @@ Table 1. Adverse reactions reported in patients with osteoporosis and breast or 
 | Musculoskeletal and connective tissue disorders | Rare                 | Atypical femoral fractures 1                   |
 | Musculoskeletal and connective tissue disorders | Not known            | Osteonecrosis of the external auditory canal 2 |
 
-1 See section Description of selected adverse reactions.
-
-2 See section 4.4.
-
 In a pooled analysis of data from all phase II and phase III placebo-controlled studies, influenza-like illness was reported with a crude incidence rate of 1.2% for denosumab and 0.7% for placebo. Although this imbalance was identified via a pooled analysis, it was not identified via a stratified analysis.
 
 ## Description of selected adverse reactions
@@ -265,17 +265,17 @@ In two phase III placebo-controlled clinical trials in postmenopausal women with
 
 In the post-marketing setting, rare cases of severe symptomatic hypocalcaemia resulting in hospitalisation, life-threatening events, and fatal cases have been reported predominantly in patients at increased risk of hypocalcaemia receiving denosumab, with most cases occurring in the first weeks of initiating therapy. Examples of the clinical manifestations of severe symptomatic hypocalcaemia have included QT interval prolongation, tetany, seizures and altered mental status (see section 4.4). Symptoms of hypocalcaemia in denosumab clinical studies included paraesthesias or muscle stiffness, twitching, spasms and muscle cramps.
 
-## Skin infections
-
-In phase III placebo-controlled clinical trials, the overall incidence of skin infections was similar in the placebo and the denosumab groups: in postmenopausal women with osteoporosis (placebo [1.2%, 50 out of 4,041] versus denosumab [1.5%, 59 out of 4,050]); in men with osteoporosis (placebo [0.8%, 1
-
 <div style=\"page-break-after: always\"></div>
 
-out of 120] versus denosumab [0%, 0 out of 120]); in breast or prostate cancer patients receiving hormone ablation (placebo [1.7%, 14 out of 845] versus denosumab [1.4%, 12 out of 860]). Skin infections leading to hospitalisation were reported in 0.1% (3 out of 4,041) of postmenopausal women with osteoporosis receiving placebo versus 0.4% (16 out of 4,050) of women receiving denosumab. These cases were predominantly cellulitis. Skin infections reported as serious adverse reactions were similar in the placebo (0.6%, 5 out of 845) and the denosumab (0.6%, 5 out of 860) groups in the breast and prostate cancer studies.
+## Skin infections
+
+In phase III placebo-controlled clinical trials, the overall incidence of skin infections was similar in the placebo and the denosumab groups: in postmenopausal women with osteoporosis (placebo [1.2%, 50 out of 4,041] versus denosumab [1.5%, 59 out of 4,050]); in men with osteoporosis (placebo [0.8%, 1 out of 120] versus denosumab [0%, 0 out of 120]); in breast or prostate cancer patients receiving hormone ablation (placebo [1.7%, 14 out of 845] versus denosumab [1.4%, 12 out of 860]). Skin infections leading to hospitalisation were reported in 0.1% (3 out of 4,041) of postmenopausal women with osteoporosis receiving placebo versus 0.4% (16 out of 4,050) of women receiving denosumab. These cases were predominantly cellulitis. Skin infections reported as serious adverse reactions were similar in the placebo (0.6%, 5 out of 845) and the denosumab (0.6%, 5 out of 860) groups in the breast and prostate cancer studies.
 
 ## Osteonecrosis of the jaw
 
 ONJ has been reported rarely, in 16 patients, in clinical trials in osteoporosis and in breast or prostate cancer patients receiving hormone ablation including a total of 23,148 patients (see section 4.4). Thirteen of these ONJ cases occurred in postmenopausal women with osteoporosis during the phase III clinical trial extension following treatment with denosumab for up to 10 years. Incidence of ONJ was 0.04% at 3 years, 0.06% at 5 years and 0.44% at 10 years of denosumab treatment. The risk of ONJ increased with duration of exposure to denosumab.
+
+The risk of ONJ has also been assessed in a retrospective cohort study among 76 192 postmenopausal women newly initiating treatment with denosumab. The incidence of ONJ was 0.32% (95% confidence interval [CI]: 0.26, 0.39) among patients using denosumab up to 3 years and 0.51% (95% CI: 0.39, 0.65) among patients using denosumab up to 5 years of follow-up.
 
 ## Atypical fractures of the femur
 
@@ -303,17 +303,15 @@ Lichenoid drug eruptions (e.g. lichen planus-like reactions) have been reported 
 
 Osvyrti should not be used in paediatric patients (age &lt; 18). Serious hypercalcaemia has been reported (see section 5.1). Some clinical trial cases were complicated by acute renal injury.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Renal impairment
 
 In clinical studies, patients with severe renal impairment (creatinine clearance &lt; 30 mL/min) or receiving dialysis were at greater risk of developing hypocalcaemia in the absence of calcium supplementation. Adequate intake of calcium and vitamin D is important in patients with severe renal impairment or receiving dialysis (see section 4.4).
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
-
-<div style=\"page-break-after: always\"></div>
-
-professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -341,24 +339,24 @@ Anti-denosumab antibodies may develop during denosumab treatment. No apparent co
 
 ## Clinical efficacy and safety in postmenopausal women with osteoporosis
 
-Efficacy and safety of denosumab administered once every 6 months for 3 years were investigated in postmenopausal women (7,808 women aged 60-91 years, of which 23.6% had prevalent vertebral fractures) with baseline bone mineral density (BMD) T-scores at the lumbar spine or total hip between -2.5 and -4.0 and a mean absolute 10-year fracture probability of 18.60% (deciles: 7.9-32.4%) for major osteoporotic fracture and 7.22% (deciles: 1.4-14.9%) for hip fracture. Women with other diseases or on therapies that may affect bone were excluded from this study. Women received calcium (at least 1,000 mg) and vitamin D (at least 400 IU) supplementation daily.
+Efficacy and safety of denosumab administered once every 6 months for 3 years were investigated in postmenopausal women (7,808 women aged 60-91 years, of which 23.6% had prevalent vertebral fractures) with baseline bone mineral density (BMD) T-scores at the lumbar spine or total hip between -2.5 and -4.0 and a mean absolute 10-year fracture probability of 18.60% (deciles: 7.9-32.4%) for
+
+<div style=\"page-break-after: always\"></div>
+
+major osteoporotic fracture and 7.22% (deciles: 1.4-14.9%) for hip fracture. Women with other diseases or on therapies that may affect bone were excluded from this study. Women received calcium (at least 1,000 mg) and vitamin D (at least 400 IU) supplementation daily.
 
 ## Effect on vertebral fractures
 
 Denosumab significantly reduced the risk of new vertebral fractures at 1, 2 and 3 years (p &lt; 0.0001) (see table 2).
 
-<div style=\"page-break-after: always\"></div>
-
 Table 2. The effect of denosumab on the risk of new vertebral fractures
 
-|           | Proportion of women with fractures (%)   | Proportion of women with fractures (%)   | Absolute risk reduction (%)   | Relative risk reduction   |
-|-----------|------------------------------------------|------------------------------------------|-------------------------------|---------------------------|
-|           | Placebo n = 3,906                        | Denosumab n = 3,902                      | (95% CI)                      | (%) (95% CI)              |
-| 0-1 year  | 2.2                                      | 0.9                                      | 1.4 (0.8, 1.9)                | 61 (42, 74)**             |
-| 0-2 years | 5.0                                      | 1.4                                      | 3.5 (2.7, 4.3)                | 71 (61, 79)**             |
-| 0-3 years | 7.2                                      | 2.3                                      | 4.8 (3.9, 5.8)                | 68 (59, 74)*              |
-
-*p &lt; 0.0001, **p &lt; 0.0001 - exploratory analysis
+|           | Proportion of women with fractures (%)   | Proportion of women with fractures (%)   | Absolute risk reduction (%) (95% CI)   | Relative risk reduction (95% CI)   |
+|-----------|------------------------------------------|------------------------------------------|----------------------------------------|------------------------------------|
+|           | Placebo n = 3,906                        | Denosumab n = 3,902                      |                                        | (%)                                |
+| 0-1 year  | 2.2                                      | 0.9                                      | 1.4 (0.8, 1.9)                         | 61 (42, 74)**                      |
+| 0-2 years | 5.0                                      | 1.4                                      | 3.5 (2.7, 4.3)                         | 71 (61, 79)**                      |
+| 0-3 years | 7.2                                      | 2.3                                      | 4.8 (3.9, 5.8)                         | 68 (59, 74)*                       |
 
 ## Effect on hip fractures
 
@@ -381,29 +379,17 @@ Table 3. The effect of denosumab on the risk of clinical fractures over 3 years
 | Major non-vertebral fracture 3 | 6.4                                        | 5.2                                        | 1.2 (0.1, 2.2)                         | 20 (3, 34)*                            |
 | Major osteoporotic fracture 4  | 8.0                                        | 5.3                                        | 2.7 (1.6, 3.9)                         | 35 (22, 45)***                         |
 
-*p ≤ 0.05, **p = 0.0106 (secondary endpoint included in multiplicity adjustment), ***p ≤ 0.0001
-
-+ Event rates based on Kaplan-Meier estimates at 3 years.
-
-1 Includes clinical vertebral fractures and non-vertebral fractures.
-
-2 Excludes those of the vertebrae, skull, facial, mandible, metacarpus, and finger and toe phalanges.
-
-3 Includes pelvis, distal femur, proximal tibia, ribs, proximal humerus, forearm, and hip.
-
-- 4 Includes clinical vertebral, hip, forearm, and humerus fractures, as defined by the WHO.
-
 In women with baseline femoral neck BMD ≤ -2.5, denosumab reduced the risk of non-vertebral fracture (35% relative risk reduction, 4.1% absolute risk reduction, p &lt; 0.001, exploratory analysis).
 
 The reduction in the incidence of new vertebral fractures, hip fractures and non-vertebral fractures by denosumab over 3 years were consistent regardless of the 10-year baseline fracture risk.
 
-## Effect on bone mineral density
+Effect on bone mineral density
+
+<div style=\"page-break-after: always\"></div>
 
 Denosumab significantly increased BMD at all clinical sites measured, versus placebo at 1, 2 and 3 years. Denosumab increased BMD by 9.2% at the lumbar spine, 6.0% at the total hip, 4.8% at the femoral neck, 7.9% at the hip trochanter, 3.5% at the distal 1/3 radius and 4.1% at the total body over 3 years (all p &lt; 0.0001).
 
 In clinical studies examining the effects of discontinuation of denosumab, BMD returned to approximately pre-treatment levels and remained above placebo within 18 months of the last dose. These data indicate that continued treatment with denosumab is required to maintain the effect of the medicinal product. Re-initiation of denosumab resulted in gains in BMD similar to those when denosumab was first administered.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Open-label extension study in the treatment of postmenopausal osteoporosis
 
@@ -417,21 +403,21 @@ Thirteen adjudicated cases of osteonecrosis of the jaw (ONJ) and two adjudicated
 
 ## Clinical efficacy and safety in men with osteoporosis
 
-Efficacy and safety of denosumab once every 6 months for 1 year were investigated in 242 men aged 31-84 years. Subjects with an eGFR &lt; 30 mL/min/1.73 m 2  were excluded from the study. All men received calcium (at least 1,000 mg) and vitamin D (at least 800 IU) supplementation daily.
+Efficacy and safety of denosumab once every 6 months for 1 year were investigated in 242 men aged 31-84 years. Subjects with an eGFR &lt; 30 mL/min/1.73 m 2 were excluded from the study. All men received calcium (at least 1,000 mg) and vitamin D (at least 800 IU) supplementation daily.
 
 The primary efficacy variable was percent change in lumbar spine BMD, fracture efficacy was not evaluated. Denosumab significantly increased BMD at all clinical sites measured, relative to placebo at 12 months: 4.8% at lumbar spine, 2.0% at total hip, 2.2% at femoral neck, 2.3% at hip trochanter, and 0.9% at distal 1/3 radius (all p &lt; 0.05). Denosumab increased lumbar spine BMD from baseline in 94.7% of men at 1 year. Significant increases in BMD at lumbar spine, total hip, femoral neck and hip trochanter were observed by 6 months (p &lt; 0.0001).
 
 ## Bone histology in postmenopausal women and men with osteoporosis
 
-Bone histology was evaluated in 62 postmenopausal women with osteoporosis or with low bone mass who were either naïve to osteoporosis therapies or had transitioned from previous alendronate therapy following 1-3 years treatment with denosumab. Fifty nine women participated in the bone biopsy substudy at month 24 (n = 41) and/or month 84 (n = 22) of the extension study in postmenopausal women with osteoporosis. Bone histology was also evaluated in 17 men with osteoporosis following 1 year treatment with denosumab. Bone biopsy results showed bone of normal architecture and quality with no evidence of mineralisation defects, woven bone or marrow fibrosis. Histomorphometry findings in the extension study in postmenopausal women with osteoporosis showed that the antiresorptive effects of denosumab, as measured by activation frequency and bone formation rates, were maintained over time.
-
-## Clinical efficacy and safety in patients with bone loss associated with androgen deprivation
-
-Efficacy and safety of denosumab once every 6 months for 3 years were investigated in men with histologically confirmed non-metastatic prostate cancer receiving ADT (1,468 men aged 48-97 years) who were at increased risk of fracture (defined as &gt; 70 years, or &lt; 70 years with a BMD T-score at the lumbar spine, total hip, or femoral neck &lt; -1.0 or a history of an osteoporotic fracture.) All men received calcium (at least 1,000 mg) and vitamin D (at least 400 IU) supplementation daily.
+Bone histology was evaluated in 62 postmenopausal women with osteoporosis or with low bone mass who were either naïve to osteoporosis therapies or had transitioned from previous alendronate therapy following 1-3 years treatment with denosumab. Fifty nine women participated in the bone biopsy substudy at month 24 (n = 41) and/or month 84 (n = 22) of the extension study in postmenopausal women with osteoporosis. Bone histology was also evaluated in 17 men with osteoporosis following 1 year treatment with denosumab. Bone biopsy results showed bone of normal architecture and quality with no evidence of mineralisation defects, woven bone or marrow fibrosis. Histomorphometry findings in
 
 <div style=\"page-break-after: always\"></div>
 
-Denosumab significantly increased BMD at all clinical sites measured, relative to treatment with placebo at 3 years: 7.9% at the lumbar spine, 5.7% at the total hip, 4.9% at the femoral neck, 6.9% at the hip trochanter, 6.9% at the distal 1/3 radius and 4.7% at the total body (all p &lt; 0.0001). In a prospectively planned exploratory analysis, significant increases in BMD were observed at the lumbar spine, total hip, femoral neck and the hip trochanter 1 month after the initial dose.
+the extension study in postmenopausal women with osteoporosis showed that the antiresorptive effects of denosumab, as measured by activation frequency and bone formation rates, were maintained over time.
+
+## Clinical efficacy and safety in patients with bone loss associated with androgen deprivation
+
+Efficacy and safety of denosumab once every 6 months for 3 years were investigated in men with histologically confirmed non-metastatic prostate cancer receiving ADT (1,468 men aged 48-97 years) who were at increased risk of fracture (defined as &gt; 70 years, or &lt; 70 years with a BMD T-score at the lumbar spine, total hip, or femoral neck &lt; -1.0 or a history of an osteoporotic fracture.) All men received calcium (at least 1,000 mg) and vitamin D (at least 400 IU) supplementation daily. Denosumab significantly increased BMD at all clinical sites measured, relative to treatment with placebo at 3 years: 7.9% at the lumbar spine, 5.7% at the total hip, 4.9% at the femoral neck, 6.9% at the hip trochanter, 6.9% at the distal 1/3 radius and 4.7% at the total body (all p &lt; 0.0001). In a prospectively planned exploratory analysis, significant increases in BMD were observed at the lumbar spine, total hip, femoral neck and the hip trochanter 1 month after the initial dose.
 
 Denosumab demonstrated a significant relative risk reduction of new vertebral fractures: 85% (1.6% absolute risk reduction) at 1 year, 69% (2.2% absolute risk reduction) at 2 years and 62% (2.4% absolute risk reduction) at 3 years (all p &lt; 0.01).
 
@@ -445,7 +431,7 @@ The primary efficacy variable was percent change in lumbar spine BMD, fracture e
 
 Efficacy and safety of denosumab were investigated in 795 patients (70% women and 30% men) aged 20 to 94 years treated with ≥ 7.5 mg daily oral prednisone (or equivalent).
 
-Two subpopulations were studied: glucocorticoid-continuing (≥ 7.5 mg daily prednisone or its equivalent for ≥ 3 months prior to study enrolment; n = 505) and glucocorticoid-initiating (≥ 7.5 mg daily prednisone or its equivalent for &lt; 3 months prior to study enrolment; n = 290). Patients were randomised (1:1) to receive either denosumab 60 mg subcutaneously once every 6 months or oral risedronate 5 mg once daily (active control) for 2 years. Patients received calcium (at least 1,000 mg) and vitamin D (at least 800 IU) supplementation daily.
+Two subpopulations were studied: glucocorticoid-continuing ( ≥ 7.5 mg daily prednisone or its equivalent for ≥ 3 months prior to study enrolment; n = 505) and glucocorticoid-initiating ( ≥ 7.5 mg daily prednisone or its equivalent for &lt; 3 months prior to study enrolment; n = 290). Patients were randomised (1:1) to receive either denosumab 60 mg subcutaneously once every 6 months or oral risedronate 5 mg once daily (active control) for 2 years. Patients received calcium (at least 1,000 mg) and vitamin D (at least 800 IU) supplementation daily.
 
 ## Effect on Bone Mineral Density (BMD)
 
@@ -453,15 +439,13 @@ In the glucocorticoid-continuing subpopulation, denosumab demonstrated a greater
 
 In addition, denosumab demonstrated a significantly greater mean percent increase in BMD from baseline compared to risedronate at the total hip, femoral neck, and hip trochanter.
 
+<div style=\"page-break-after: always\"></div>
+
 The study was not powered to show a difference in fractures. At 1 year, the subject incidence of new radiological vertebral fracture was 2.7% (denosumab) versus 3.2% (risedronate). The subject incidence of non-vertebral fracture was 4.3% (denosumab) versus 2.5% (risedronate). At 2 years, the corresponding numbers were 4.1% versus 5.8% for new radiological vertebral fractures and 5.3% versus 3.8% for non-vertebral fractures. Most of the fractures occurred in the GC-C subpopulation.
 
 ## Paediatric population
 
-A single-arm phase 3 study evaluated the efficacy, safety, and pharmacokinetics was conducted in children with osteogenesis imperfecta, aged 2 to 17 years, 52.3% male, 88.2% Caucasian. A total of
-
-<div style=\"page-break-after: always\"></div>
-
-153 subjects initially received subcutaneous (SC) denosumab 1 mg/kg, up to a maximum of 60 mg, every 6 months for 36 months. Sixty subjects transitioned to every 3 months dosing.
+A single-arm phase III study evaluated the efficacy, safety, and pharmacokinetics was conducted in children with osteogenesis imperfecta, aged 2 to 17 years, 52.3% male, 88.2% Caucasian. A total of 153 subjects initially received subcutaneous (SC) denosumab 1 mg/kg, up to a maximum of 60 mg, every 6 months for 36 months. Sixty subjects transitioned to every 3 months dosing.
 
 At month 12 of every 3 months dosing, the least squares (LS) mean (standard error, SE) change from baseline in lumbar spine BMD Z-score was 1.01 (0.12).
 
@@ -470,6 +454,8 @@ The most common adverse events reported during every 6 months dosing were arthra
 In an extension study (N = 75), serious adverse events of hypercalcaemia (18.5%) were observed during every 3 months dosing.
 
 The studies were terminated early due to the occurrence of life-threatening events and hospitalisations due to hypercalcaemia (see section 4.2).
+
+In one multicentre, randomised, double-blind, placebo-controlled, parallel-group study conducted in 24 paediatric patients with glucocorticoid-induced osteoporosis, aged 5 to 17 years, evaluating change from baseline in lumbar spine BMD Z-score, safety and effectiveness were not established hence denosumab should not be used for this indication.
 
 The European Medicines Agency has waived the obligation to submit the results of studies with denosumab in all subsets of the paediatric population in the treatment of bone loss associated with sex hormone ablative therapy, and in subsets of the paediatric population below the age of 2 in the treatment of osteoporosis. See section 4.2 for information on paediatric use.
 
@@ -485,13 +471,13 @@ Denosumab is composed solely of amino acids and carbohydrates as native immunogl
 
 ## Elimination
 
-After Cmax, serum levels declined with a half-life of 26 days (range 6-52 days) over a period of 3 months (range 1.5-4.5 months). Fifty-three percent (53%) of patients had no measurable amounts of denosumab detected at 6 months post-dose.
+<div style=\"page-break-after: always\"></div>
+
+After Cmax , serum levels declined with a half-life of 26 days (range 6-52 days) over a period of 3 months (range 1.5-4.5 months). Fifty-three percent (53%) of patients had no measurable amounts of denosumab detected at 6 months post-dose.
 
 No accumulation or change in denosumab pharmacokinetics with time was observed upon subcutaneous multiple-dosing of 60 mg once every 6 months. Denosumab pharmacokinetics were not affected by the formation of binding antibodies to denosumab and were similar in men and women. Age (28-87 years), race and disease state (low bone mass or osteoporosis; prostate or breast cancer) do not appear to significantly affect the pharmacokinetics of denosumab.
 
 A trend was observed between higher body weight and lower exposure based on AUC and Cmax. However, the trend is not considered clinically important, since pharmacodynamic effects based on bone turnover markers and BMD increases were consistent across a wide range of body weight.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Linearity/non-linearity
 
@@ -509,7 +495,7 @@ No specific study in patients with hepatic impairment was performed. In general,
 
 Osvyrti should not be used in paediatric populations (see sections 4.2 and 5.1).
 
-In a phase 3 study of paediatric patients with osteogenesis imperfecta (N = 153), maximum serum denosumab concentrations were observed on day 10 across all age groups. For every 3 months and every 6 months dosing, mean serum denosumab trough concentrations were observed to be higher for children 11 to 17 years of age, while children 2 to 6 years of age had the lowest mean trough concentrations.
+In a phase III study of paediatric patients with osteogenesis imperfecta (N = 153), maximum serum denosumab concentrations were observed on day 10 across all age groups. For every 3 months and every 6 months dosing, mean serum denosumab trough concentrations were observed to be higher for children 11 to 17 years of age, while children 2 to 6 years of age had the lowest mean trough concentrations.
 
 ## 5.3 Preclinical safety data
 
@@ -519,13 +505,15 @@ Standard tests to investigate the genotoxicity potential of denosumab have not b
 
 The carcinogenic potential of denosumab has not been evaluated in long-term animal studies.
 
-In preclinical studies conducted in knockout mice lacking RANK or RANKL, impairment of lymph node formation was observed in the foetus. An absence of lactation due to inhibition of mammary gland maturation (lobulo-alveolar gland development during pregnancy) was also observed in knockout mice lacking RANK or RANKL.
+In preclinical studies conducted in knockout mice lacking RANK or RANKL, impairment of lymph node formation was observed in the foetus. An absence of lactation due to inhibition of mammary
+
+<div style=\"page-break-after: always\"></div>
+
+gland maturation (lobulo-alveolar gland development during pregnancy) was also observed in knockout mice lacking RANK or RANKL.
 
 In a study of cynomolgus monkeys dosed with denosumab during the period equivalent to the first trimester at AUC exposures up to 99-fold higher than the human dose (60 mg every 6 months), there was no evidence of maternal or foetal harm. In this study, foetal lymph nodes were not examined.
 
 In another study of cynomolgus monkeys dosed with denosumab throughout pregnancy at AUC exposures 119-fold higher than the human dose (60 mg every 6 months), there were increased stillbirths and postnatal mortality; abnormal bone growth resulting in reduced bone strength, reduced haematopoiesis, and tooth malalignment; absence of peripheral lymph nodes; and decreased neonatal growth. A no observed adverse effect level for reproductive effects was not established. Following a 6 month period after birth, bone related changes showed recovery and there was no effect on tooth eruption. However, the effects on lymph nodes and tooth malalignment persisted, and minimal to moderate mineralisation in multiple tissues was seen in one animal (relation to treatment uncertain). There was no evidence of maternal harm prior to labour; adverse maternal effects occurred infrequently during labour. Maternal mammary gland development was normal.
-
-<div style=\"page-break-after: always\"></div>
 
 In preclinical bone quality studies in monkeys on long-term denosumab treatment, decreases in bone turnover were associated with improvement in bone strength and normal bone histology. Calcium levels were transiently decreased and parathyroid hormone levels transiently increased in ovariectomised monkeys treated with denosumab.
 
@@ -549,11 +537,17 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 2 years.
 
+<div style=\"page-break-after: always\"></div>
+
 Once removed from the refrigerator, Osvyrti may be stored at room temperature (up to 25°C) for up to 30 days in the original container. It must be used within this 30 days period.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
+Store in a refrigerator (2°C - 8°C).
+
+Do not freeze.
+
+Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## 6.5 Nature and contents of container
 
@@ -563,14 +557,12 @@ Pack size of one pre-filled syringe, presented in blistered (pre-filled syringe 
 
 Not all pack sizes may be marketed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.6 Special precautions for disposal and other handling
 
--  Before administration, the solution should be inspected. Do not inject the solution if it contains particles, or is cloudy or discoloured.
--  Do not shake.
--  To avoid discomfort at the site of injection, allow the pre-filled syringe to reach room temperature (up to 25°C) before injecting and inject slowly.
--  Inject the entire contents of the pre-filled syringe.
+- Before administration, the solution should be inspected. Do not inject the solution if it contains particles, or is cloudy or discoloured.
+- To avoid discomfort at the site of injection, allow the pre-filled syringe to reach room temperature (up to 25°C) before injecting and inject slowly.
+- Do not shake.
+- Inject the entire contents of the pre-filled syringe.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -584,7 +576,7 @@ EU/1/25/1922/002 - 1 pre-filled syringe
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 26 May 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -605,9 +597,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) of the biological active substance(s)
 
-Intas Pharmaceuticals Limited Plot No.  423 / P A Gidc Sarkhej Moraiya 382 213
-
-India
+Intas Pharmaceuticals Limited Plot No.  423 / P A Gidc Sarkhej Moraiya 382 213 India
 
 Name and address of the manufacturer(s) responsible for batch release
 
@@ -619,22 +609,22 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit-risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit-risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
 
-##  Additional risk minimisation measures
+## · Additional risk minimisation measures
 
 The MAH shall ensure that a patient reminder card regarding osteonecrosis of the jaw is implemented.
 
@@ -652,7 +642,7 @@ The MAH shall ensure that a patient reminder card regarding osteonecrosis of the
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## PRE-FILLED SYRINGE OUTER CARTON
+PRE-FILLED SYRINGE OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -724,7 +714,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Osvyrti
 
@@ -734,24 +724,26 @@ Osvyrti
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
 
 ## BLISTERED PRE-FILLED SYRINGE
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
-|------|--------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Osvyrti 60 mg injection denosumab
 
-| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
-|------|---------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Accord
 
@@ -772,19 +764,21 @@ SC
 
 Next injection date
 
+<!-- image -->
+
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL                                        |
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
+|--------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL                                           |
 
-| 1.   | NAMEOF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|---------------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------------|
 
 Osvyrti 60 mg injection denosumab SC
 
-| 2.   | METHODOF ADMINISTRATION   |
-|------|---------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -796,8 +790,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
-|------|-----------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 1 mL
 
@@ -819,11 +813,11 @@ Osvyrti 60 mg injection denosumab accord
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 ## Package leaflet: Information for the user
 
-## Osvyrti 60 mg solution for injection in pre-filled syringe denosumab
+## Osvyrti 60 mg solution for injection in pre-filled syringe
+
+## denosumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -858,9 +852,9 @@ Surgery or medicines that stop the production of oestrogen or testosterone used 
 
 ## Osvyrti is used to treat:
 
--  osteoporosis in women after the menopause (postmenopausal) and men who have an increased risk of fracture (broken bones), reducing the risk of spinal, non-spinal and hip fractures.
--  bone loss that results from a reduction in hormone (testosterone) level caused by surgery or treatment with medicines in patients with prostate cancer.
--  bone loss that results from long-term treatment with glucocorticoids in patients who have an increased risk of fracture.
+- bone loss that results from a reduction in hormone (testosterone) level caused by surgery or treatment with medicines in patients with prostate cancer.
+- osteoporosis in women after the menopause (postmenopausal) and men who have an increased risk of fracture (broken bones), reducing the risk of spinal, non-spinal and hip fractures.
+- bone loss that results from long-term treatment with glucocorticoids in patients who have an increased risk of fracture.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -868,8 +862,8 @@ Surgery or medicines that stop the production of oestrogen or testosterone used 
 
 ## Do not use Osvyrti
 
--  if you have low calcium levels in the blood (hypocalcaemia).
--  if you are allergic to denosumab or any of the other ingredients of this medicine (listed in section 6).
+- if you have low calcium levels in the blood (hypocalcaemia).
+- if you are allergic to denosumab or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
@@ -891,12 +885,12 @@ A side effect called osteonecrosis of the jaw (ONJ) (bone damage in the jaw) has
 
 Before receiving treatment, tell your doctor or nurse (health care professional) if you:
 
--  have any problems with your mouth or teeth such as poor dental health, gum disease, or a planned tooth extraction.
--  don't receive routine dental care or have not had a dental check-up for a long time.
--  are a smoker (as this may increase the risk of dental problems).
--  have previously been treated with a bisphosphonate (used to treat or prevent bone disorders).
--  are taking medicines called corticosteroids (such as prednisolone or dexamethasone).
--  have cancer.
+- have any problems with your mouth or teeth such as poor dental health, gum disease, or a planned tooth extraction.
+- are a smoker (as this may increase the risk of dental problems).
+- don't receive routine dental care or have not had a dental check-up for a long time.
+- have previously been treated with a bisphosphonate (used to treat or prevent bone disorders).
+- have cancer.
+- are taking medicines called corticosteroids (such as prednisolone or dexamethasone).
 
 Your doctor may ask you to undergo a dental examination before you start treatment with Osvyrti
 
@@ -988,33 +982,33 @@ difficulty breathing. Please tell your doctor if you develop any of these sympto
 
 Very common side effects (may affect more than 1 in 10 people):
 
--  bone, joint, and/or muscle pain which is sometimes severe,
--  arm or leg pain (pain in extremity).
+- bone, joint, and/or muscle pain which is sometimes severe,
+- arm or leg pain (pain in extremity).
 
 Common side effects (may affect up to 1 in 10 people):
 
--  painful urination, frequent urination, blood in the urine, inability to hold your urine,
--  upper respiratory tract infection,
--  pain, tingling or numbness that moves down your leg (sciatica),
--  constipation,
--  abdominal discomfort,
--  rash,
--  skin condition with itching, redness and/or dryness (eczema),
--  hair loss (alopecia).
+- painful urination, frequent urination, blood in the urine, inability to hold your urine,
+- pain, tingling or numbness that moves down your leg (sciatica),
+- upper respiratory tract infection,
+- constipation,
+- rash,
+- abdominal discomfort,
+- skin condition with itching, redness and/or dryness (eczema),
+- hair loss (alopecia).
 
 Uncommon side effects (may affect up to 1 in 100 people):
 
--  fever, vomiting and abdominal pain or discomfort (diverticulitis),
--  ear infection,
--  rash that may occur on the skin or sores in the mouth (lichenoid drug eruptions).
+- fever, vomiting and abdominal pain or discomfort (diverticulitis),
+- rash that may occur on the skin or sores in the mouth (lichenoid drug eruptions).
+- ear infection,
 
 Very rare side effects (may affect up to 1 in 10,000 people):
 
--  allergic reaction that can damage blood vessels mainly in the skin (e.g. purple or brownish-red spots, hives or skin sores) (hypersensitivity vasculitis).
+- allergic reaction that can damage blood vessels mainly in the skin (e.g. purple or brownish-red spots, hives or skin sores) (hypersensitivity vasculitis).
 
 Not known (frequency cannot be estimated from the available data):
 
--  talk to your doctor if you have ear pain, discharge from the ear and/or an ear infection. These could be signs of bone damage in the ear.
+- talk to your doctor if you have ear pain, discharge from the ear and/or an ear infection. These could be signs of bone damage in the ear.
 
 ## Reporting of side effects
 
@@ -1028,7 +1022,7 @@ Do not use this medicine after the expiry date which is stated on the label and 
 
 Store in a refrigerator (2°C - 8°C).
 
-Do not freeze.
+## Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
@@ -1049,7 +1043,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Osvyrti looks like and contents of the pack
 
-Osvyrti is a clear, colourless to pale yellow solution for injection (injection) provided in a ready to use pre-filled syringe.
+Osvyrti is a clear, colourless to pale yellow solution for injection provided in a ready to use pre-filled syringe.
 
 Each pack contains one pre-filled syringe with a needle guard.
 
@@ -1067,13 +1061,17 @@ For any information about this medicine, please contact the local representative
 
 AT / BE / BG / CY / CZ / DE / DK / EE / ES / FI / FR / HR / HU / IE / IS / IT / LT / LV / LU / MT / NL / NO / PL / PT / RO / SE / SI / SK
 
-Accord Healthcare S.L.U. Tel: +34 93 301 00 64
+Accord Healthcare S.L.U.
+
+Tel: +34 93 301 00 64
 
 EL
 
-Win Medica Α.Ε.
+Win Medica Α . Ε .
 
-Τηλ: +30 210 74 88 821
+Τηλ
+
+: +30 210 74 88 821
 
 This leaflet was last revised in &lt; { MM/YYYY }&gt;&lt;{ month YYYY }&gt;.
 
@@ -1081,9 +1079,9 @@ Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-<div style=\"page-break-after: always\"></div>
-
 ------------------------------------------------------------------------------------------------------------------------
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1097,8 +1095,8 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Before you use a Osvyrti pre-filled syringe with automatic needle guard, read this important information:
 
--  It is important that you do not try to give yourself the injection unless you have received training from your doctor or healthcare provider.
--  Osvyrti is given as an injection into the tissue just under the skin (subcutaneous injection).
+- It is important that you do not try to give yourself the injection unless you have received training from your doctor or healthcare provider.
+- Osvyrti is given as an injection into the tissue just under the skin (subcutaneous injection).
 - Χ Do not remove the grey needle cap/cover from the pre-filled syringe until you are ready to inject.
 - Χ Do not use the pre-filled syringe if it has been dropped on a hard surface. Use a new prefilled syringe and call your doctor or healthcare provider.
 - Χ Do not attempt to activate the pre-filled syringe prior to injection.
@@ -1111,15 +1109,19 @@ Call your doctor or healthcare provider if you have any questions.
 
 - A Remove the pre-filled syringe carton from the refrigerator. Remove the pre-filled syringe tray from the package and gather the supplies needed for your injection: alcohol wipes, a cotton ball or gauze pad, a plaster and a sharps disposal container (not included).
 
-For a more comfortable injection, leave the pre-filled syringe at room temperature for about 30 minutes before injecting. Wash your hands thoroughly with soap and water.
+For a more comfortable injection, leave the pre-filled syringe at room temperature for about
+
+- 30 minutes before injecting. Wash your hands thoroughly with soap and water.
 
 On a clean, well-lit work surface, place the new pre-filled syringe and the other supplies.
 
 - Χ Do not try to warm the syringe by using a heat source such as hot water or microwave.
 - Χ Do not leave the pre-filled syringe exposed to direct sunlight.
 - Χ Do not shake the pre-filled syringe.
--  Keep the pre-filled syringe out of the sight and reach of children.
+- Keep the pre-filled syringe out of the sight and reach of children.
 - B Open the tray, peeling away the cover. Grab the pre-filled syringe safety guard to remove the pre-filled syringe from the tray.
+
+Grab Here
 
 <!-- image -->
 
@@ -1131,11 +1133,27 @@ For safety reasons:
 
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
+- Χ Do not use the pre-filled syringe if:
+- The medicine is cloudy or there are particles in it. It must be a clear, colourless to pale yellow solution.
+- Any part appears cracked or broken.
+- The grey needle cap/cover is missing or not securely attached.
+- The expiry date printed on the label has passed the last day of the month shown.
+
+In all cases, call your doctor or healthcare provider.
+
+## Step:2 Get ready
+
+- A Wash your hands thoroughly. Prepare and clean your injection site.
+
+<!-- image -->
+
 ## You can use:
 
--  Upper part of your thigh.
--  Belly, except for a 5 cm (2-inch) area right around your belly button.
--  Outer area of upper arm (only if someone else is giving you the injection).
+- Upper part of your thigh.
+- Belly, except for a 5 cm (2-inch) area right around your belly button.
+- Outer area of upper arm (only if someone else is giving you the injection).
 
 Clean the injection site with an alcohol wipe. Let your skin dry .
 
@@ -1146,25 +1164,8 @@ Clean the injection site with an alcohol wipe. Let your skin dry .
 Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid injecting into areas with scars or stretch marks. i
 
 - B Carefully pull the grey needle cap/cover straight out and away from your body.
-- Χ Do not use the pre-filled syringe if:
--  The medicine is cloudy or there are particles in it. It must be a clear, colourless to pale yellow solution.
--  Any part appears cracked or broken.
--  The grey needle cap/cover is missing or not securely attached.
--  The expiry date printed on the label has passed the last day of the month shown.
-
-<!-- image -->
-
-In all cases, call your doctor or healthcare provider.
-
-## Step:2 Get ready
-
-- A Wash your hands thoroughly. Prepare and clean your injection site.
-
-<!-- image -->
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
 
 <!-- image -->
 
@@ -1193,7 +1194,7 @@ Step 3: Inject
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
+！
 
 <!-- image -->
 

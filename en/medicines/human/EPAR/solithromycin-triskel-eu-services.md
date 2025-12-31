@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:26:26
+document_datetime: 2025-12-29 18:59:29
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/solithromycin-triskel-eu-services.html
 document_name: solithromycin-triskel-eu-services.html
 version: success
-processing_time: 0.0663728
-conversion_datetime: 2025-12-28 18:21:36.36664
+processing_time: 0.0687263
+conversion_datetime: 2025-12-31 05:10:28.489116
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -101,7 +103,7 @@ English (EN) (78.81 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-solithromycin-triskel-eu-services-solithromycin_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-361)
+[Other languages (22)](#file-language-dropdown-894)
 
 български (BG) (112.2 KB - PDF)
 

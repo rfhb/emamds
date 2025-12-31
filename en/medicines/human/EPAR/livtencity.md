@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:44:35
+document_datetime: 2025-12-29 08:15:07
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/livtencity.html
 document_name: livtencity.html
 version: success
-processing_time: 0.1265153
-conversion_datetime: 2025-12-25 11:04:18.320352
+processing_time: 0.3324347
+conversion_datetime: 2025-12-31 03:36:11.806756
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 maribavir Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (131.56 KB - PDF)
 
 [View](/en/documents/overview/livtencity-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-378)
+[Other languages (22)](#file-language-dropdown-765)
 
 български (BG) (159.02 KB - PDF)
 
@@ -311,7 +313,7 @@ English (EN) (388 KB - PDF)
 
 [View](/en/documents/product-information/livtencity-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-646)
+[Other languages (24)](#file-language-dropdown-773)
 
 български (BG) (734.17 KB - PDF)
 
@@ -627,7 +629,7 @@ English (EN) (27.62 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/livtencity-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-510)
+[Other languages (24)](#file-language-dropdown-952)
 
 български (BG) (29.88 KB - PDF)
 
@@ -1045,7 +1047,7 @@ English (EN) (133.46 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/livtencity-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-413)
+[Other languages (24)](#file-language-dropdown-762)
 
 български (BG) (103.18 KB - DOCX)
 

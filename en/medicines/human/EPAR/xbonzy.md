@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 07:10:43
+document_datetime: 2025-12-29 11:11:48
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xbonzy.html
 document_name: xbonzy.html
 version: success
-processing_time: 0.0433321
-conversion_datetime: 2025-12-25 13:23:54.830912
+processing_time: 0.0433165
+conversion_datetime: 2025-12-31 04:00:27.925996
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 EMA has issued an opinion on this medicine
 
 denosumab Medicine Human Opinion
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

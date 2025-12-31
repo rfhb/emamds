@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 14:34:17
+document_datetime: 2025-12-29 12:49:54
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/docetaxel-teva.html
 document_name: docetaxel-teva.html
 version: success
-processing_time: 0.1149315
-conversion_datetime: 2025-12-24 01:30:55.605357
+processing_time: 0.107329
+conversion_datetime: 2025-12-31 04:40:41.10115
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-docetaxel
+docetaxel Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -69,7 +65,7 @@ English (EN) (738.22 KB - PDF)
 
 [View](/en/documents/overview/docetaxel-teva-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-123)
+[Other languages (22)](#file-language-dropdown-865)
 
 български (BG) (826.39 KB - PDF)
 
@@ -347,7 +343,7 @@ English (EN) (2.3 MB - PDF)
 
 [View](/en/documents/product-information/docetaxel-teva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-441)
+[Other languages (24)](#file-language-dropdown-930)
 
 български (BG) (5.85 MB - PDF)
 
@@ -663,7 +659,7 @@ English (EN) (585.91 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/docetaxel-teva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-411)
+[Other languages (23)](#file-language-dropdown-900)
 
 български (BG) (663.8 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:52:09
+document_datetime: 2025-12-29 12:24:48
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/denbrayce.html
 document_name: denbrayce.html
 version: success
-processing_time: 0.1212888
-conversion_datetime: 2025-12-28 00:39:34.95954
+processing_time: 0.1227129
+conversion_datetime: 2025-12-31 03:11:49.23458
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 denosumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (123.3 KB - PDF)
 
 [View](/en/documents/overview/denbrayce-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-51)
+[Other languages (22)](#file-language-dropdown-673)
 
 български (BG) (149.46 KB - PDF)
 
@@ -314,7 +316,7 @@ English (EN) (482.39 KB - PDF)
 
 [View](/en/documents/product-information/denbrayce-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-448)
+[Other languages (24)](#file-language-dropdown-112)
 
 български (BG) (629.83 KB - PDF)
 
@@ -628,7 +630,7 @@ English (EN) (47 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/denbrayce-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-890)
+[Other languages (24)](#file-language-dropdown-549)
 
 български (BG) (63.53 KB - PDF)
 
@@ -917,7 +919,7 @@ English (EN) (200.8 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/denbrayce-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-544)
+[Other languages (24)](#file-language-dropdown-260)
 
 български (BG) (271.84 KB - DOCX)
 

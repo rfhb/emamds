@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:04:00
+document_datetime: 2025-12-29 08:35:07
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/issarlos.html
 document_name: issarlos.html
 version: success
-processing_time: 0.0482355
-conversion_datetime: 2025-12-26 20:56:03.422032
+processing_time: 0.0473195
+conversion_datetime: 2025-12-31 04:05:36.944345
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

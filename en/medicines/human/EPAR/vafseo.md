@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:44:36
+document_datetime: 2025-12-29 07:57:22
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vafseo.html
 document_name: vafseo.html
 version: success
-processing_time: 0.1047976
-conversion_datetime: 2025-12-25 06:54:54.132034
+processing_time: 0.1029905
+conversion_datetime: 2025-12-31 01:48:23.960403
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 vadadustat Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -100,7 +102,7 @@ English (EN) (116.32 KB - PDF)
 
 [View](/en/documents/overview/vafseo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-953)
+[Other languages (22)](#file-language-dropdown-560)
 
 български (BG) (136.5 KB - PDF)
 
@@ -298,7 +300,7 @@ English (EN) (550.32 KB - PDF)
 
 [View](/en/documents/product-information/vafseo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-390)
+[Other languages (24)](#file-language-dropdown-942)
 
 български (BG) (864.39 KB - PDF)
 
@@ -612,7 +614,7 @@ English (EN) (61.62 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vafseo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-960)
+[Other languages (24)](#file-language-dropdown-801)
 
 български (BG) (71.23 KB - PDF)
 

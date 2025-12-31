@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:53:39
+document_datetime: 2025-12-29 10:44:31
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/litfulo.html
 document_name: litfulo.html
 version: success
-processing_time: 0.1070636
-conversion_datetime: 2025-12-28 01:12:41.395117
+processing_time: 0.106962
+conversion_datetime: 2025-12-31 02:37:27.774476
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ritlecitinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +106,7 @@ English (EN) (122.02 KB - PDF)
 
 [View](/en/documents/overview/litfulo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-393)
+[Other languages (22)](#file-language-dropdown-540)
 
 български (BG) (147.21 KB - PDF)
 
@@ -304,7 +306,7 @@ English (EN) (288.74 KB - PDF)
 
 [View](/en/documents/product-information/litfulo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-411)
+[Other languages (24)](#file-language-dropdown-669)
 
 български (BG) (309.88 KB - PDF)
 
@@ -618,7 +620,7 @@ English (EN) (25.23 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/litfulo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-144)
+[Other languages (24)](#file-language-dropdown-815)
 
 български (BG) (29.01 KB - PDF)
 

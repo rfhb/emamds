@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:36:36
+document_datetime: 2025-12-29 07:13:30
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/proquad.html
 document_name: proquad.html
 version: success
-processing_time: 0.3706295
-conversion_datetime: 2025-12-27 21:52:17.27464
+processing_time: 0.1230026
+conversion_datetime: 2025-12-31 04:20:39.109275
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 measles, mumps, rubella and varicella vaccine (live) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -101,7 +103,7 @@ English (EN) (135.22 KB - PDF)
 
 [View](/en/documents/overview/proquad-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-774)
+[Other languages (22)](#file-language-dropdown-351)
 
 български (BG) (155.37 KB - PDF)
 
@@ -387,7 +389,7 @@ English (EN) (441.46 KB - PDF)
 
 [View](/en/documents/product-information/proquad-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-345)
+[Other languages (24)](#file-language-dropdown-987)
 
 български (BG) (387.76 KB - PDF)
 
@@ -703,7 +705,7 @@ English (EN) (67.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/proquad-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-0)
+[Other languages (24)](#file-language-dropdown-23)
 
 български (BG) (74.39 KB - PDF)
 

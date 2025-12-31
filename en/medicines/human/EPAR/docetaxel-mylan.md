@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:02:29
+document_datetime: 2025-12-29 15:32:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/docetaxel-mylan.html
 document_name: docetaxel-mylan.html
 version: success
-processing_time: 0.0876745
-conversion_datetime: 2025-12-24 19:24:13.116452
+processing_time: 0.0882196
+conversion_datetime: 2025-12-31 02:13:51.517383
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-docetaxel
+docetaxel Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -101,7 +97,7 @@ English (EN) (51.32 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-docetaxel-mylan-docetaxel_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-25)
+[Other languages (21)](#file-language-dropdown-346)
 
 български (BG) (148.77 KB - PDF)
 
@@ -420,7 +416,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-44)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

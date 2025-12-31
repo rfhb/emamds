@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:56:29
+document_datetime: 2025-12-29 10:59:05
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xalkori.html
 document_name: xalkori.html
 version: success
-processing_time: 0.149683
-conversion_datetime: 2025-12-26 21:06:50.232055
+processing_time: 0.1334868
+conversion_datetime: 2025-12-31 03:05:15.454219
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 crizotinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -129,7 +131,7 @@ English (EN) (123.55 KB - PDF)
 
 [View](/en/documents/overview/xalkori-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-869)
+[Other languages (22)](#file-language-dropdown-577)
 
 български (BG) (148.3 KB - PDF)
 
@@ -417,7 +419,7 @@ English (EN) (717.06 KB - PDF)
 
 [View](/en/documents/product-information/xalkori-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-142)
+[Other languages (24)](#file-language-dropdown-443)
 
 български (BG) (1.27 MB - PDF)
 
@@ -733,7 +735,7 @@ English (EN) (26.99 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xalkori-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-360)
+[Other languages (24)](#file-language-dropdown-632)
 
 български (BG) (29.72 KB - PDF)
 
@@ -1319,7 +1321,7 @@ English (EN) (622.61 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/xalkori-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-825)
+[Other languages (24)](#file-language-dropdown-897)
 
 български (BG) (661.01 KB - DOCX)
 

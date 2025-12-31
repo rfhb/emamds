@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:47:49
+document_datetime: 2025-12-29 11:36:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vihuma.html
 document_name: vihuma.html
 version: success
-processing_time: 0.1174323
-conversion_datetime: 2025-12-27 22:28:23.496978
+processing_time: 0.3274952
+conversion_datetime: 2025-12-31 04:47:32.35412
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 simoctocog alfa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (75.08 KB - PDF)
 
 [View](/en/documents/overview/vihuma-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-291)
+[Other languages (22)](#file-language-dropdown-533)
 
 български (BG) (103.63 KB - PDF)
 
@@ -397,7 +399,7 @@ English (EN) (813.59 KB - PDF)
 
 [View](/en/documents/product-information/vihuma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-94)
+[Other languages (24)](#file-language-dropdown-216)
 
 български (BG) (895.96 KB - PDF)
 
@@ -713,7 +715,7 @@ English (EN) (23.79 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vihuma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-209)
+[Other languages (24)](#file-language-dropdown-485)
 
 български (BG) (45.43 KB - PDF)
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:46:28
+document_datetime: 2025-12-29 09:29:42
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ferriprox.html
 document_name: ferriprox.html
 version: success
-processing_time: 0.1297921
-conversion_datetime: 2025-12-24 14:47:29.065438
+processing_time: 0.1323832
+conversion_datetime: 2025-12-31 03:34:04.866522
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 deferiprone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +122,7 @@ English (EN) (107.27 KB - PDF)
 
 [View](/en/documents/overview/ferriprox-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-707)
+[Other languages (22)](#file-language-dropdown-450)
 
 български (BG) (147.89 KB - PDF)
 
@@ -408,7 +410,7 @@ English (EN) (551.83 KB - PDF)
 
 [View](/en/documents/product-information/ferriprox-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-825)
+[Other languages (24)](#file-language-dropdown-489)
 
 български (BG) (703.32 KB - PDF)
 
@@ -724,7 +726,7 @@ English (EN) (15.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ferriprox-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-995)
+[Other languages (24)](#file-language-dropdown-702)
 
 български (BG) (88.79 KB - PDF)
 
@@ -1163,7 +1165,7 @@ English (EN) (156.47 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/ferriprox-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-957)
+[Other languages (24)](#file-language-dropdown-887)
 
 български (BG) (157.32 KB - DOCX)
 

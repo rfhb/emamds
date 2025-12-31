@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-09 23:04:08
+document_datetime: 2025-12-29 11:37:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cancidas.html
 document_name: cancidas.html
 version: success
-processing_time: 0.1185833
-conversion_datetime: 2025-12-23 20:41:24.176632
+processing_time: 0.1137418
+conversion_datetime: 2025-12-31 01:43:43.496521
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 caspofungin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (76.7 KB - PDF)
 
 [View](/en/documents/overview/cancidas-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-543)
+[Other languages (22)](#file-language-dropdown-447)
 
 български (BG) (106.04 KB - PDF)
 
@@ -404,7 +406,7 @@ English (EN) (441.82 KB - PDF)
 
 [View](/en/documents/product-information/cancidas-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-405)
+[Other languages (24)](#file-language-dropdown-79)
 
 български (BG) (406.86 KB - PDF)
 
@@ -720,7 +722,7 @@ English (EN) (56.9 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cancidas-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-411)
+[Other languages (24)](#file-language-dropdown-932)
 
 български (BG) (60.21 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:09:44
+document_datetime: 2025-12-29 11:35:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lytgobi.html
 document_name: lytgobi.html
 version: success
-processing_time: 0.1242841
-conversion_datetime: 2025-12-27 09:11:34.66808
+processing_time: 0.126713
+conversion_datetime: 2025-12-31 02:38:53.139137
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 futibatinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +107,7 @@ English (EN) (116.05 KB - PDF)
 
 [View](/en/documents/overview/lytgobi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-159)
+[Other languages (22)](#file-language-dropdown-745)
 
 български (BG) (128.75 KB - PDF)
 
@@ -305,7 +307,7 @@ English (EN) (353.97 KB - PDF)
 
 [View](/en/documents/product-information/lytgobi-epar-product-information_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-816)
+[Other languages (25)](#file-language-dropdown-787)
 
 български (BG) (286.99 KB - PDF)
 
@@ -631,7 +633,7 @@ English (EN) (38.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lytgobi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-380)
+[Other languages (24)](#file-language-dropdown-804)
 
 български (BG) (54.26 KB - PDF)
 
@@ -937,7 +939,7 @@ English (EN) (82.54 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/lytgobi-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (25)](#file-language-dropdown-975)
+[Other languages (25)](#file-language-dropdown-773)
 
 български (BG) (95.33 KB - DOCX)
 

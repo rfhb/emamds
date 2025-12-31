@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:02:56
+document_datetime: 2025-12-29 11:39:05
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/phesgo.html
 document_name: phesgo.html
 version: success
-processing_time: 0.1231503
-conversion_datetime: 2025-12-27 22:51:55.032871
+processing_time: 0.1220772
+conversion_datetime: 2025-12-31 04:06:12.512055
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pertuzumab / trastuzumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +116,7 @@ English (EN) (151.14 KB - PDF)
 
 [View](/en/documents/overview/phesgo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-66)
+[Other languages (22)](#file-language-dropdown-391)
 
 български (BG) (173 KB - PDF)
 
@@ -316,7 +318,7 @@ English (EN) (706.43 KB - PDF)
 
 [View](/en/documents/product-information/phesgo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-398)
+[Other languages (24)](#file-language-dropdown-104)
 
 български (BG) (1.08 MB - PDF)
 
@@ -630,7 +632,7 @@ English (EN) (61.47 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/phesgo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-565)
+[Other languages (24)](#file-language-dropdown-540)
 
 български (BG) (39.18 KB - PDF)
 
@@ -933,7 +935,7 @@ English (EN) (592.12 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/phesgo-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-228)
+[Other languages (24)](#file-language-dropdown-526)
 
 български (BG) (597.49 KB - DOCX)
 

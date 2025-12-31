@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:04:10
+document_datetime: 2025-12-29 13:52:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ongentys.html
 document_name: ongentys.html
 version: success
-processing_time: 0.1176418
-conversion_datetime: 2025-12-28 03:08:46.897686
+processing_time: 0.1271838
+conversion_datetime: 2025-12-31 01:25:01.065924
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 opicapone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +122,7 @@ English (EN) (93.41 KB - PDF)
 
 [View](/en/documents/overview/ongentys-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-500)
+[Other languages (22)](#file-language-dropdown-963)
 
 български (BG) (111.87 KB - PDF)
 
@@ -398,7 +400,7 @@ English (EN) (533.88 KB - PDF)
 
 [View](/en/documents/product-information/ongentys-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-157)
+[Other languages (24)](#file-language-dropdown-496)
 
 български (BG) (580.85 KB - PDF)
 
@@ -714,7 +716,7 @@ English (EN) (51.98 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ongentys-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-493)
+[Other languages (24)](#file-language-dropdown-219)
 
 български (BG) (69.67 KB - PDF)
 
@@ -1102,7 +1104,7 @@ English (EN) (297.5 KB - DOC)
 
 [View](/en/documents/product-information-tracked-changes/ongentys-epar-product-information-tracked-changes_en.doc)
 
-[Other languages (24)](#file-language-dropdown-386)
+[Other languages (24)](#file-language-dropdown-299)
 
 български (BG) (404.5 KB - DOC)
 

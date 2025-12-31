@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:54:31
+document_datetime: 2025-12-29 07:08:07
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/irbesartan-hydrochlorothiazide-zentiva.html
 document_name: irbesartan-hydrochlorothiazide-zentiva.html
 version: success
-processing_time: 0.1643252
-conversion_datetime: 2025-12-27 22:34:54.431688
+processing_time: 0.1645166
+conversion_datetime: 2025-12-31 04:27:22.486627
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 irbesartan / hydrochlorothiazide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +116,7 @@ English (EN) (108.1 KB - PDF)
 
 [View](/en/documents/overview/irbesartan-hydrochlorothiazide-zentiva-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-368)
+[Other languages (22)](#file-language-dropdown-5)
 
 български (BG) (140.98 KB - PDF)
 
@@ -392,7 +394,7 @@ English (EN) (1.17 MB - PDF)
 
 [View](/en/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-716)
+[Other languages (24)](#file-language-dropdown-597)
 
 български (BG) (1.5 MB - PDF)
 
@@ -708,7 +710,7 @@ English (EN) (31.92 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/irbesartan-hydrochlorothiazide-zentiva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-955)
+[Other languages (23)](#file-language-dropdown-968)
 
 български (BG) (66.28 KB - PDF)
 
@@ -1056,7 +1058,7 @@ English (EN) (119.28 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-472)
+[Other languages (22)](#file-language-dropdown-887)
 
 български (BG) (145.18 KB - PDF)
 
@@ -1254,7 +1256,7 @@ English (EN) (99.42 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-epar-scientific-conclusions_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-216)
+[Other languages (22)](#file-language-dropdown-6)
 
 български (BG) (136.15 KB - PDF)
 
@@ -1466,7 +1468,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/irbesartan-hydrochlorothiazide-zentiva-previously-irbesartan-hydrochlorothiazide-winthrop-h-c-783-a31-75-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-e_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-964)
+[Other languages (22)](#file-language-dropdown-638)
 
 български (BG) (87.49 KB - PDF)
 

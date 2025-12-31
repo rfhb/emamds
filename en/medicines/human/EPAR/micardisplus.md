@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:02:53
+document_datetime: 2025-12-29 07:09:07
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/micardisplus.html
 document_name: micardisplus.html
 version: success
-processing_time: 0.1358008
-conversion_datetime: 2025-12-28 00:48:50.894498
+processing_time: 0.1391995
+conversion_datetime: 2025-12-31 02:38:44.349492
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,11 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-Medicine
+Medicine Human Authorised
 
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +120,7 @@ English (EN) (75.62 KB - PDF)
 
 [View](/en/documents/overview/micardisplus-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-252)
+[Other languages (22)](#file-language-dropdown-248)
 
 български (BG) (107.82 KB - PDF)
 
@@ -400,7 +398,7 @@ English (EN) (1.04 MB - PDF)
 
 [View](/en/documents/product-information/micardisplus-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-74)
+[Other languages (24)](#file-language-dropdown-969)
 
 български (BG) (1.19 MB - PDF)
 
@@ -716,7 +714,7 @@ English (EN) (36.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/micardisplus-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-270)
+[Other languages (24)](#file-language-dropdown-586)
 
 български (BG) (109.17 KB - PDF)
 
@@ -1089,7 +1087,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/micardisplus-h-c-413-a31-0085-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recom_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-294)
+[Other languages (22)](#file-language-dropdown-463)
 
 български (BG) (87.49 KB - PDF)
 

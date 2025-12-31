@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:04:13
+document_datetime: 2025-12-29 12:20:44
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/olanzapine-viatris.html
 document_name: olanzapine-viatris.html
 version: success
-processing_time: 0.1264054
-conversion_datetime: 2025-12-28 01:56:20.196318
+processing_time: 0.1277016
+conversion_datetime: 2025-12-31 03:22:13.847815
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 olanzapine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (135.87 KB - PDF)
 
 [View](/en/documents/overview/olanzapine-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-811)
+[Other languages (22)](#file-language-dropdown-748)
 
 български (BG) (163.09 KB - PDF)
 
@@ -384,7 +386,7 @@ English (EN) (445.21 KB - PDF)
 
 [View](/en/documents/product-information/olanzapine-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-902)
+[Other languages (24)](#file-language-dropdown-976)
 
 български (BG) (854.48 KB - PDF)
 
@@ -700,7 +702,7 @@ English (EN) (50.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/olanzapine-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-732)
+[Other languages (24)](#file-language-dropdown-190)
 
 български (BG) (35.63 KB - PDF)
 
@@ -1087,7 +1089,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

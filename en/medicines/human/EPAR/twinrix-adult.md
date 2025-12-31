@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:33:33
+document_datetime: 2025-12-29 12:18:06
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/twinrix-adult.html
 document_name: twinrix-adult.html
 version: success
-processing_time: 0.1067337
-conversion_datetime: 2025-12-27 14:26:53.568649
+processing_time: 0.291492
+conversion_datetime: 2025-12-31 03:20:38.816607
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 hepatitis A (inactivated) and hepatitis B (rDNA) (HAB) vaccine (adsorbed) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (41.04 KB - PDF)
 
 [View](/en/documents/overview/twinrix-adult-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-794)
+[Other languages (21)](#file-language-dropdown-504)
 
 български (BG) (177.86 KB - PDF)
 
@@ -379,7 +381,7 @@ English (EN) (383.8 KB - PDF)
 
 [View](/en/documents/product-information/twinrix-adult-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-464)
+[Other languages (24)](#file-language-dropdown-301)
 
 български (BG) (405.25 KB - PDF)
 
@@ -695,7 +697,7 @@ English (EN) (28.6 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/twinrix-adult-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-399)
+[Other languages (24)](#file-language-dropdown-910)
 
 български (BG) (75.99 KB - PDF)
 

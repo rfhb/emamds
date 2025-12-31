@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:22:39
+document_datetime: 2025-12-29 12:52:59
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/catiolanze.html
 document_name: catiolanze.html
 version: success
-processing_time: 0.0871503
-conversion_datetime: 2025-12-28 12:14:56.697704
+processing_time: 0.0965507
+conversion_datetime: 2025-12-31 01:48:45.636095
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 latanoprost Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (131.98 KB - PDF)
 
 [View](/en/documents/overview/catiolanze-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-155)
+[Other languages (22)](#file-language-dropdown-562)
 
 български (BG) (143.81 KB - PDF)
 
@@ -305,7 +307,7 @@ English (EN) (540.54 KB - PDF)
 
 [View](/en/documents/product-information/catiolanze-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-775)
+[Other languages (24)](#file-language-dropdown-144)
 
 български (BG) (618.28 KB - PDF)
 
@@ -619,7 +621,7 @@ English (EN) (30.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/catiolanze-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-780)
+[Other languages (24)](#file-language-dropdown-444)
 
 български (BG) (33.89 KB - PDF)
 

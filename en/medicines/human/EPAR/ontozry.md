@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-09 23:18:37
+document_datetime: 2025-12-29 08:03:22
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ontozry.html
 document_name: ontozry.html
 version: success
-processing_time: 0.106478
-conversion_datetime: 2025-12-28 18:01:47.683971
+processing_time: 0.1094428
+conversion_datetime: 2025-12-31 01:01:28.13098
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 cenobamate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -100,7 +102,7 @@ English (EN) (117.31 KB - PDF)
 
 [View](/en/documents/overview/ontozry-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-831)
+[Other languages (22)](#file-language-dropdown-737)
 
 български (BG) (139.9 KB - PDF)
 
@@ -300,7 +302,7 @@ English (EN) (712.68 KB - PDF)
 
 [View](/en/documents/product-information/ontozry-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-918)
+[Other languages (24)](#file-language-dropdown-322)
 
 български (BG) (646.98 KB - PDF)
 
@@ -614,7 +616,7 @@ English (EN) (56.34 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ontozry-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-646)
+[Other languages (24)](#file-language-dropdown-58)
 
 български (BG) (64.83 KB - PDF)
 

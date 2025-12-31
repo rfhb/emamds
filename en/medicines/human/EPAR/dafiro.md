@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:25:13
+document_datetime: 2025-12-29 14:04:37
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dafiro.html
 document_name: dafiro.html
 version: success
-processing_time: 0.1658909
-conversion_datetime: 2025-12-27 20:53:14.113412
+processing_time: 0.1669021
+conversion_datetime: 2025-12-31 04:17:25.439685
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 amlodipine / valsartan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (75.1 KB - PDF)
 
 [View](/en/documents/overview/dafiro-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-601)
+[Other languages (22)](#file-language-dropdown-45)
 
 български (BG) (103.7 KB - PDF)
 
@@ -390,7 +392,7 @@ English (EN) (451.23 KB - PDF)
 
 [View](/en/documents/product-information/dafiro-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-589)
+[Other languages (24)](#file-language-dropdown-273)
 
 български (BG) (542.94 KB - PDF)
 
@@ -706,7 +708,7 @@ English (EN) (143.36 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/dafiro-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-80)
+[Other languages (24)](#file-language-dropdown-487)
 
 български (BG) (229.7 KB - PDF)
 
@@ -1068,7 +1070,7 @@ English (EN) (119.28 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-453)
+[Other languages (22)](#file-language-dropdown-446)
 
 български (BG) (145.18 KB - PDF)
 
@@ -1266,7 +1268,7 @@ English (EN) (99.42 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/dafiro-epar-scientific-conclusions-annex-iv_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-276)
+[Other languages (22)](#file-language-dropdown-784)
 
 български (BG) (136.15 KB - PDF)
 
@@ -1478,7 +1480,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/dafiro-h-c-776-a31-69-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendatio_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-840)
+[Other languages (22)](#file-language-dropdown-224)
 
 български (BG) (87.49 KB - PDF)
 

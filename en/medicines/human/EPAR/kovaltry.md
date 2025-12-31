@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:12:30
+document_datetime: 2025-12-29 13:18:24
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kovaltry.html
 document_name: kovaltry.html
 version: success
-processing_time: 0.1333135
-conversion_datetime: 2025-12-28 10:53:21.337838
+processing_time: 0.1330177
+conversion_datetime: 2025-12-31 04:14:24.846678
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 octocog alfa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (96.69 KB - PDF)
 
 [View](/en/documents/overview/kovaltry-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-27)
+[Other languages (22)](#file-language-dropdown-166)
 
 български (BG) (104.61 KB - PDF)
 
@@ -404,7 +406,7 @@ English (EN) (609.69 KB - PDF)
 
 [View](/en/documents/product-information/kovaltry-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-212)
+[Other languages (24)](#file-language-dropdown-336)
 
 български (BG) (682.4 KB - PDF)
 
@@ -720,7 +722,7 @@ English (EN) (17.53 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kovaltry-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-102)
+[Other languages (24)](#file-language-dropdown-832)
 
 български (BG) (56.34 KB - PDF)
 
@@ -1144,7 +1146,7 @@ English (EN) (265.11 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/kovaltry-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-557)
+[Other languages (24)](#file-language-dropdown-3)
 
 български (BG) (274.16 KB - DOCX)
 

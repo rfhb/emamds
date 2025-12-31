@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:37:41
+document_datetime: 2025-12-29 13:47:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imreplys.html
 document_name: imreplys.html
 version: success
-processing_time: 0.378245
-conversion_datetime: 2025-12-25 09:34:31.309147
+processing_time: 0.107623
+conversion_datetime: 2025-12-31 02:39:17.230484
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sargramostim Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (143.99 KB - PDF)
 
 [View](/en/documents/overview/imreplys-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-197)
+[Other languages (22)](#file-language-dropdown-499)
 
 български (BG) (171.48 KB - PDF)
 
@@ -309,7 +311,7 @@ English (EN) (614.49 KB - PDF)
 
 [View](/en/documents/product-information/imreplys-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-34)
+[Other languages (24)](#file-language-dropdown-535)
 
 български (BG) (721.41 KB - PDF)
 
@@ -525,7 +527,7 @@ English (EN) (47.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imreplys-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-561)
+[Other languages (24)](#file-language-dropdown-780)
 
 български (BG) (50.32 KB - PDF)
 

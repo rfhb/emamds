@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:21:15
+document_datetime: 2025-12-29 15:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/flynpovi.html
 document_name: flynpovi.html
 version: success
-processing_time: 0.0681348
-conversion_datetime: 2025-12-28 00:11:43.656166
+processing_time: 0.067962
+conversion_datetime: 2025-12-31 02:50:28.409229
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-eflornithine / sulindac
+eflornithine / sulindac Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +105,7 @@ English (EN) (122.98 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-flynpovi-eflornithine-sulindac_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-500)
+[Other languages (21)](#file-language-dropdown-425)
 
 български (BG) (146.68 KB - PDF)
 

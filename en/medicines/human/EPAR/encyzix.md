@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:01:59
+document_datetime: 2025-12-29 13:08:44
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/encyzix.html
 document_name: encyzix.html
 version: success
-processing_time: 0.0652547
-conversion_datetime: 2025-12-27 22:33:06.033653
+processing_time: 0.0632692
+conversion_datetime: 2025-12-31 04:22:42.200322
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine has been refused authorisation
 
 enclomifene Medicine Human Refused
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -88,7 +90,7 @@ English (EN) (72.65 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-refusal-marketing-authorisation-encyzix-enclomifene_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-553)
+[Other languages (22)](#file-language-dropdown-298)
 
 български (BG) (103.11 KB - PDF)
 

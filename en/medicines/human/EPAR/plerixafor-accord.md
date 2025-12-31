@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:27:28
+document_datetime: 2025-12-29 14:36:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/plerixafor-accord.html
 document_name: plerixafor-accord.html
 version: success
-processing_time: 0.1192208
-conversion_datetime: 2025-12-27 15:36:03.845249
+processing_time: 0.1264708
+conversion_datetime: 2025-12-31 04:47:50.222493
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 plerixafor Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (167.1 KB - PDF)
 
 [View](/en/documents/overview/plerixafor-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-565)
+[Other languages (22)](#file-language-dropdown-664)
 
 български (BG) (192.75 KB - PDF)
 
@@ -309,7 +311,7 @@ English (EN) (281.47 KB - PDF)
 
 [View](/en/documents/product-information/plerixafor-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-890)
+[Other languages (24)](#file-language-dropdown-315)
 
 български (BG) (353.8 KB - PDF)
 
@@ -623,7 +625,7 @@ English (EN) (83.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/plerixafor-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-75)
+[Other languages (24)](#file-language-dropdown-257)
 
 български (BG) (90.95 KB - PDF)
 
@@ -918,7 +920,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

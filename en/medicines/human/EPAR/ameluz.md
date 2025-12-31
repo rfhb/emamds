@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 09:12:46
+document_datetime: 2025-12-29 08:09:14
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ameluz.html
 document_name: ameluz.html
 version: success
-processing_time: 0.1131015
-conversion_datetime: 2025-12-27 22:17:31.741682
+processing_time: 0.120096
+conversion_datetime: 2025-12-31 04:51:10.30146
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-5-aminolevulinic acid hydrochloride
+5-aminolevulinic acid hydrochloride Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +117,7 @@ English (EN) (126.8 KB - PDF)
 
 [View](/en/documents/overview/ameluz-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-810)
+[Other languages (22)](#file-language-dropdown-115)
 
 български (BG) (149.7 KB - PDF)
 
@@ -399,7 +395,7 @@ English (EN) (345.23 KB - PDF)
 
 [View](/en/documents/product-information/ameluz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-903)
+[Other languages (24)](#file-language-dropdown-0)
 
 български (BG) (568.26 KB - PDF)
 
@@ -715,7 +711,7 @@ English (EN) (9.97 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ameluz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-196)
+[Other languages (24)](#file-language-dropdown-714)
 
 български (BG) (39.34 KB - PDF)
 

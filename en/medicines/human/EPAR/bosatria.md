@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:03:59
+document_datetime: 2025-12-29 16:15:55
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bosatria.html
 document_name: bosatria.html
 version: success
-processing_time: 0.0631271
-conversion_datetime: 2025-12-25 05:47:07.427216
+processing_time: 0.0711753
+conversion_datetime: 2025-12-31 01:36:29.584852
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-mepolizumab
+mepolizumab Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +102,7 @@ English (EN) (33.78 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-bosatria-mepolizumab_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-477)
+[Other languages (21)](#file-language-dropdown-185)
 
 български (BG) (138.69 KB - PDF)
 

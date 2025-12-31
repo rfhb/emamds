@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:17:19
+document_datetime: 2025-12-29 11:47:01
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ninlaro.html
 document_name: ninlaro.html
 version: success
-processing_time: 0.1341727
-conversion_datetime: 2025-12-24 15:48:16.962097
+processing_time: 0.1393912
+conversion_datetime: 2025-12-31 03:35:19.196837
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ixazomib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +121,7 @@ English (EN) (77.92 KB - PDF)
 
 [View](/en/documents/overview/ninlaro-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-630)
+[Other languages (22)](#file-language-dropdown-581)
 
 български (BG) (104.88 KB - PDF)
 
@@ -407,7 +409,7 @@ English (EN) (527.83 KB - PDF)
 
 [View](/en/documents/product-information/ninlaro-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-970)
+[Other languages (24)](#file-language-dropdown-314)
 
 български (BG) (625.23 KB - PDF)
 
@@ -723,7 +725,7 @@ English (EN) (69.9 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ninlaro-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-719)
+[Other languages (24)](#file-language-dropdown-270)
 
 български (BG) (58.01 KB - PDF)
 
@@ -1121,7 +1123,7 @@ English (EN) (136.32 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/ninlaro-epar-conclusions-granting-conditional-marketing-authorisation_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-810)
+[Other languages (24)](#file-language-dropdown-605)
 
 български (BG) (153.24 KB - PDF)
 

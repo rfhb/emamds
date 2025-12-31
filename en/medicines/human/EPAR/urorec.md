@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:06:23
+document_datetime: 2025-12-29 12:37:02
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/urorec.html
 document_name: urorec.html
 version: success
-processing_time: 0.124478
-conversion_datetime: 2025-12-26 12:19:54.817889
+processing_time: 0.1438895
+conversion_datetime: 2025-12-31 02:36:58.224714
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 silodosin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (73.61 KB - PDF)
 
 [View](/en/documents/overview/urorec-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-707)
+[Other languages (22)](#file-language-dropdown-667)
 
 български (BG) (102.7 KB - PDF)
 
@@ -394,7 +396,7 @@ English (EN) (380.73 KB - PDF)
 
 [View](/en/documents/product-information/urorec-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-732)
+[Other languages (24)](#file-language-dropdown-972)
 
 български (BG) (444.63 KB - PDF)
 
@@ -710,7 +712,7 @@ English (EN) (12.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/urorec-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-824)
+[Other languages (23)](#file-language-dropdown-24)
 
 български (BG) (82.66 KB - PDF)
 
@@ -998,7 +1000,7 @@ English (EN) (72.53 KB - PDF)
 
 [View](/en/documents/conditions-member-states/urorec-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-809)
+[Other languages (21)](#file-language-dropdown-365)
 
 български (BG) (150.94 KB - PDF)
 
@@ -1350,7 +1352,7 @@ English (EN) (225 KB - DOC)
 
 [View](/en/documents/product-information-tracked-changes/urorec-epar-product-information-tracked-changes_en.doc)
 
-[Other languages (24)](#file-language-dropdown-998)
+[Other languages (24)](#file-language-dropdown-683)
 
 български (BG) (326.5 KB - DOC)
 

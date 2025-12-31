@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:15:21
+document_datetime: 2025-12-29 08:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tobi-podhaler.html
 document_name: tobi-podhaler.html
 version: success
-processing_time: 0.145824
-conversion_datetime: 2025-12-28 10:10:13.604544
+processing_time: 0.145573
+conversion_datetime: 2025-12-31 05:08:11.757249
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tobramycin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (79.81 KB - PDF)
 
 [View](/en/documents/overview/tobi-podhaler-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-841)
+[Other languages (22)](#file-language-dropdown-959)
 
 български (BG) (112.58 KB - PDF)
 
@@ -394,7 +396,7 @@ English (EN) (866.45 KB - PDF)
 
 [View](/en/documents/product-information/tobi-podhaler-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-634)
+[Other languages (24)](#file-language-dropdown-512)
 
 български (BG) (851.89 KB - PDF)
 
@@ -710,7 +712,7 @@ English (EN) (22.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tobi-podhaler-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-348)
+[Other languages (24)](#file-language-dropdown-177)
 
 български (BG) (95.28 KB - PDF)
 
@@ -1259,7 +1261,7 @@ English (EN) (625.5 KB - DOC)
 
 [View](/en/documents/product-information-tracked-changes/tobi-podhaler-epar-product-information-tracked-changes_en.doc)
 
-[Other languages (24)](#file-language-dropdown-35)
+[Other languages (24)](#file-language-dropdown-83)
 
 български (BG) (488.22 KB - DOCX)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:43
+document_datetime: 2025-12-29 14:34:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-sandoz.html
 document_name: clopidogrel-sandoz.html
 version: success
-processing_time: 0.1053619
-conversion_datetime: 2025-12-26 12:18:59.806273
+processing_time: 0.1092045
+conversion_datetime: 2025-12-31 07:38:20.797441
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-clopidogrel
+clopidogrel Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (479.26 KB - PDF)
 
 [View](/en/documents/overview/clopidogrel-sandoz-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-641)
+[Other languages (21)](#file-language-dropdown-529)
 
 български (BG) (423.49 KB - PDF)
 
@@ -333,7 +329,7 @@ English (EN) (817.38 KB - PDF)
 
 [View](/en/documents/product-information/clopidogrel-sandoz-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-240)
+[Other languages (23)](#file-language-dropdown-372)
 
 български (BG) (1.11 MB - PDF)
 
@@ -637,7 +633,7 @@ English (EN) (663.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/clopidogrel-sandoz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-891)
+[Other languages (21)](#file-language-dropdown-1)
 
 български (BG) (325.11 KB - PDF)
 

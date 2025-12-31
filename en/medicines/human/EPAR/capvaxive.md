@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:47:32
+document_datetime: 2025-12-29 11:59:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/capvaxive.html
 document_name: capvaxive.html
 version: success
-processing_time: 0.0837038
-conversion_datetime: 2025-12-24 02:31:59.300354
+processing_time: 0.1066845
+conversion_datetime: 2025-12-31 01:23:24.779523
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pneumococcal polysaccharide conjugate vaccine (21-valent) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (115.94 KB - PDF)
 
 [View](/en/documents/overview/capvaxive-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-190)
+[Other languages (22)](#file-language-dropdown-250)
 
 български (BG) (147.93 KB - PDF)
 
@@ -310,7 +312,7 @@ English (EN) (265.33 KB - PDF)
 
 [View](/en/documents/product-information/capvaxive-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-454)
+[Other languages (24)](#file-language-dropdown-15)
 
 български (BG) (269.97 KB - PDF)
 
@@ -624,7 +626,7 @@ English (EN) (39.87 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/capvaxive-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-319)
+[Other languages (24)](#file-language-dropdown-304)
 
 български (BG) (34.53 KB - PDF)
 

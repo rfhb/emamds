@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:49:59
+document_datetime: 2025-12-29 15:03:21
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/daronrix.html
 document_name: daronrix.html
 version: success
-processing_time: 0.0942191
-conversion_datetime: 2025-12-24 16:39:01.05565
+processing_time: 0.0944834
+conversion_datetime: 2025-12-31 04:17:05.426977
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has lapsed
 
 pandemic influenza vaccine (whole virion, inactivated, adjuvanted) Medicine Human Lapsed
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -60,7 +62,7 @@ English (EN) (192.55 KB - PDF)
 
 [View](/en/documents/overview/daronrix-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-889)
+[Other languages (21)](#file-language-dropdown-397)
 
 български (BG) (384.73 KB - PDF)
 
@@ -326,7 +328,7 @@ English (EN) (634.97 KB - PDF)
 
 [View](/en/documents/product-information/daronrix-epar-product-information_en.pdf)
 
-[Other languages (13)](#file-language-dropdown-386)
+[Other languages (13)](#file-language-dropdown-329)
 
 български (BG) (1 MB - PDF)
 
@@ -510,7 +512,7 @@ English (EN) (139.62 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/daronrix-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-133)
+[Other languages (22)](#file-language-dropdown-225)
 
 български (BG) (224.75 KB - PDF)
 

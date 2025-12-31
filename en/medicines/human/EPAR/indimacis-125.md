@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 14:10:09
+document_datetime: 2025-12-29 19:03:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/indimacis-125.html
 document_name: indimacis-125.html
 version: success
-processing_time: 0.0373386
-conversion_datetime: 2025-12-27 16:14:39.927044
+processing_time: 0.0356779
+conversion_datetime: 2025-12-31 04:35:28.669196
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-igovomab
+igovomab Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

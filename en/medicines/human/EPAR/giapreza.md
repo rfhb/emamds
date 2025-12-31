@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:00:26
+document_datetime: 2025-12-29 11:32:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/giapreza.html
 document_name: giapreza.html
 version: success
-processing_time: 0.1166329
-conversion_datetime: 2025-12-24 04:53:37.125076
+processing_time: 0.1078142
+conversion_datetime: 2025-12-31 03:51:12.410683
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 angiotensin II Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -99,7 +101,7 @@ English (EN) (80.09 KB - PDF)
 
 [View](/en/documents/overview/giapreza-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-583)
+[Other languages (22)](#file-language-dropdown-382)
 
 български (BG) (110.03 KB - PDF)
 
@@ -297,7 +299,7 @@ English (EN) (266.83 KB - PDF)
 
 [View](/en/documents/product-information/giapreza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-213)
+[Other languages (24)](#file-language-dropdown-599)
 
 български (BG) (332.35 KB - PDF)
 
@@ -613,7 +615,7 @@ English (EN) (7.22 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/giapreza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-348)
+[Other languages (24)](#file-language-dropdown-381)
 
 български (BG) (31.01 KB - PDF)
 

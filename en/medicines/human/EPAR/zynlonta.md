@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:11:57
+document_datetime: 2025-12-29 09:37:11
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zynlonta.html
 document_name: zynlonta.html
 version: success
-processing_time: 0.1166256
-conversion_datetime: 2025-12-24 06:43:00.170691
+processing_time: 0.2877329
+conversion_datetime: 2025-12-31 02:17:48.728136
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 loncastuximab tesirine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +124,7 @@ English (EN) (160.19 KB - PDF)
 
 [View](/en/documents/overview/zynlonta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-888)
+[Other languages (22)](#file-language-dropdown-995)
 
 български (BG) (189.58 KB - PDF)
 
@@ -320,7 +322,7 @@ English (EN) (381.57 KB - PDF)
 
 [View](/en/documents/product-information/zynlonta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-31)
+[Other languages (24)](#file-language-dropdown-959)
 
 български (BG) (481.08 KB - PDF)
 
@@ -634,7 +636,7 @@ English (EN) (43.13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zynlonta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-835)
+[Other languages (24)](#file-language-dropdown-605)
 
 български (BG) (60.41 KB - PDF)
 

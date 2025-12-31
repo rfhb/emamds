@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:08:58
+document_datetime: 2025-12-29 11:28:49
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/veyvondi.html
 document_name: veyvondi.html
 version: success
-processing_time: 0.1153521
-conversion_datetime: 2025-12-24 16:53:08.56042
+processing_time: 0.252039
+conversion_datetime: 2025-12-31 01:43:34.713365
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 vonicog alfa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (110.74 KB - PDF)
 
 [View](/en/documents/overview/veyvondi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-568)
+[Other languages (22)](#file-language-dropdown-776)
 
 български (BG) (132.44 KB - PDF)
 
@@ -406,7 +408,7 @@ English (EN) (512.71 KB - PDF)
 
 [View](/en/documents/product-information/veyvondi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-170)
+[Other languages (24)](#file-language-dropdown-547)
 
 български (BG) (864.04 KB - PDF)
 
@@ -722,7 +724,7 @@ English (EN) (40.96 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/veyvondi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-625)
+[Other languages (24)](#file-language-dropdown-845)
 
 български (BG) (42.34 KB - PDF)
 

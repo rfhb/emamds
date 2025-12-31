@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:42:39
+document_datetime: 2025-12-29 11:51:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nplate.html
 document_name: nplate.html
 version: success
-processing_time: 0.1418056
-conversion_datetime: 2025-12-28 12:52:51.66992
+processing_time: 0.1399121
+conversion_datetime: 2025-12-31 02:19:19.996963
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 romiplostim Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -124,7 +126,7 @@ English (EN) (80.11 KB - PDF)
 
 [View](/en/documents/overview/nplate-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-665)
+[Other languages (22)](#file-language-dropdown-633)
 
 български (BG) (106.66 KB - PDF)
 
@@ -412,7 +414,7 @@ English (EN) (1.48 MB - PDF)
 
 [View](/en/documents/product-information/nplate-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-503)
+[Other languages (24)](#file-language-dropdown-842)
 
 български (BG) (1.68 MB - PDF)
 
@@ -728,7 +730,7 @@ English (EN) (19.02 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nplate-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-364)
+[Other languages (24)](#file-language-dropdown-292)
 
 български (BG) (139.18 KB - PDF)
 
@@ -1028,7 +1030,7 @@ English (EN) (21.17 KB - PDF)
 
 [View](/en/documents/conditions-member-states/nplate-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-583)
+[Other languages (23)](#file-language-dropdown-782)
 
 български (BG) (95.69 KB - PDF)
 

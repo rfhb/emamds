@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 07:04:39
+document_datetime: 2025-12-29 13:31:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xadago.html
 document_name: xadago.html
 version: success
-processing_time: 0.1119596
-conversion_datetime: 2025-12-24 21:01:12.935808
+processing_time: 0.1115763
+conversion_datetime: 2025-12-31 05:06:20.413235
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 safinamide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (76.17 KB - PDF)
 
 [View](/en/documents/overview/xadago-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-219)
+[Other languages (22)](#file-language-dropdown-647)
 
 български (BG) (104.2 KB - PDF)
 
@@ -399,7 +401,7 @@ English (EN) (283.67 KB - PDF)
 
 [View](/en/documents/product-information/xadago-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-566)
+[Other languages (24)](#file-language-dropdown-957)
 
 български (BG) (545.2 KB - PDF)
 
@@ -715,7 +717,7 @@ English (EN) (64.11 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xadago-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-896)
+[Other languages (24)](#file-language-dropdown-679)
 
 български (BG) (57.93 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:39:05
+document_datetime: 2025-12-29 09:58:27
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/enbrel.html
 document_name: enbrel.html
 version: success
-processing_time: 0.1530525
-conversion_datetime: 2025-12-28 08:55:31.515069
+processing_time: 0.1524778
+conversion_datetime: 2025-12-31 04:23:08.672803
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 etanercept Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -136,7 +138,7 @@ English (EN) (110.25 KB - PDF)
 
 [View](/en/documents/overview/enbrel-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-187)
+[Other languages (22)](#file-language-dropdown-617)
 
 български (BG) (134.99 KB - PDF)
 
@@ -424,7 +426,7 @@ English (EN) (3.69 MB - PDF)
 
 [View](/en/documents/product-information/enbrel-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-186)
+[Other languages (24)](#file-language-dropdown-269)
 
 български (BG) (4.23 MB - PDF)
 
@@ -740,7 +742,7 @@ English (EN) (39.28 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/enbrel-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-317)
+[Other languages (24)](#file-language-dropdown-50)
 
 български (BG) (40.43 KB - PDF)
 
@@ -1394,7 +1396,7 @@ English (EN) (3.79 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/enbrel-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-486)
+[Other languages (24)](#file-language-dropdown-295)
 
 български (BG) (3.24 MB - DOCX)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:12:26
+document_datetime: 2025-12-29 11:51:34
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/alofisel.html
 document_name: alofisel.html
 version: success
-processing_time: 0.1121812
-conversion_datetime: 2025-12-26 19:20:55.269051
+processing_time: 0.1108106
+conversion_datetime: 2025-12-31 05:24:59.074682
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 darvadstrocel Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -61,7 +63,7 @@ English (EN) (164.68 KB - PDF)
 
 [View](/en/documents/overview/alofisel-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-614)
+[Other languages (22)](#file-language-dropdown-681)
 
 български (BG) (229.17 KB - PDF)
 
@@ -349,7 +351,7 @@ English (EN) (932.56 KB - PDF)
 
 [View](/en/documents/product-information/alofisel-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-886)
+[Other languages (24)](#file-language-dropdown-969)
 
 български (BG) (1.22 MB - PDF)
 
@@ -665,7 +667,7 @@ English (EN) (87.98 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/alofisel-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-106)
+[Other languages (24)](#file-language-dropdown-709)
 
 български (BG) (103.43 KB - PDF)
 

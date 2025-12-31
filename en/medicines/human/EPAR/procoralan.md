@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:55:28
+document_datetime: 2025-12-29 11:50:48
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/procoralan.html
 document_name: procoralan.html
 version: success
-processing_time: 0.137331
-conversion_datetime: 2025-12-25 05:19:58.300578
+processing_time: 0.1321543
+conversion_datetime: 2025-12-31 05:20:46.972057
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ivabradine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +124,7 @@ English (EN) (87.47 KB - PDF)
 
 [View](/en/documents/overview/procoralan-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-865)
+[Other languages (22)](#file-language-dropdown-600)
 
 български (BG) (116.74 KB - PDF)
 
@@ -410,7 +412,7 @@ English (EN) (381.94 KB - PDF)
 
 [View](/en/documents/product-information/procoralan-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-953)
+[Other languages (23)](#file-language-dropdown-749)
 
 български (BG) (526.83 KB - PDF)
 
@@ -714,7 +716,7 @@ English (EN) (12.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/procoralan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-835)
+[Other languages (24)](#file-language-dropdown-931)
 
 български (BG) (96.7 KB - PDF)
 
@@ -1098,7 +1100,7 @@ English (EN) (57.56 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/procoralan-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-666)
+[Other languages (22)](#file-language-dropdown-908)
 
 български (BG) (93.15 KB - PDF)
 

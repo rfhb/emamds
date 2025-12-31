@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:50:12
+document_datetime: 2025-12-29 14:33:07
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/datscan.html
 document_name: datscan.html
 version: success
-processing_time: 0.1095473
-conversion_datetime: 2025-12-23 20:50:41.23765
+processing_time: 0.1080322
+conversion_datetime: 2025-12-31 02:00:23.831728
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ioflupane (123l) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +122,7 @@ English (EN) (75.82 KB - PDF)
 
 [View](/en/documents/overview/datscan-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-449)
+[Other languages (21)](#file-language-dropdown-556)
 
 български (BG) (169.7 KB - PDF)
 
@@ -394,7 +396,7 @@ English (EN) (433.57 KB - PDF)
 
 [View](/en/documents/product-information/datscan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-468)
+[Other languages (24)](#file-language-dropdown-105)
 
 български (BG) (447.06 KB - PDF)
 
@@ -710,7 +712,7 @@ English (EN) (61.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/datscan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-819)
+[Other languages (21)](#file-language-dropdown-350)
 
 български (BG) (72.74 KB - PDF)
 

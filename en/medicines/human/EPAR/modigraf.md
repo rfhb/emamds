@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:57:17
+document_datetime: 2025-12-29 14:34:26
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/modigraf.html
 document_name: modigraf.html
 version: success
-processing_time: 0.3107245
-conversion_datetime: 2025-12-27 15:03:10.743521
+processing_time: 0.1109013
+conversion_datetime: 2025-12-31 02:47:56.447341
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tacrolimus Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (39.86 KB - PDF)
 
 [View](/en/documents/overview/modigraf-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-132)
+[Other languages (21)](#file-language-dropdown-716)
 
 български (BG) (171.27 KB - PDF)
 
@@ -393,7 +395,7 @@ English (EN) (410.09 KB - PDF)
 
 [View](/en/documents/product-information/modigraf-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-947)
+[Other languages (24)](#file-language-dropdown-629)
 
 български (BG) (2.91 MB - PDF)
 
@@ -709,7 +711,7 @@ English (EN) (29.45 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/modigraf-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-793)
+[Other languages (24)](#file-language-dropdown-405)
 
 български (BG) (86.93 KB - PDF)
 

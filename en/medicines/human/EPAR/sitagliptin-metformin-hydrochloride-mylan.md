@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:52:52
+document_datetime: 2025-12-29 08:02:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sitagliptin-metformin-hydrochloride-mylan.html
 document_name: sitagliptin-metformin-hydrochloride-mylan.html
 version: success
-processing_time: 0.1238972
-conversion_datetime: 2025-12-24 19:56:43.553606
+processing_time: 0.1257795
+conversion_datetime: 2025-12-31 05:18:24.028036
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sitagliptin hydrochloride monohydrate / metformin hydrochloride Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -88,7 +90,7 @@ English (EN) (161.21 KB - PDF)
 
 [View](/en/documents/overview/sitagliptin-metformin-hydrochloride-mylan-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-341)
+[Other languages (22)](#file-language-dropdown-800)
 
 български (BG) (184.95 KB - PDF)
 
@@ -286,7 +288,7 @@ English (EN) (457.61 KB - PDF)
 
 [View](/en/documents/product-information/sitagliptin-metformin-hydrochloride-mylan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-535)
+[Other languages (24)](#file-language-dropdown-728)
 
 български (BG) (650.02 KB - PDF)
 
@@ -602,7 +604,7 @@ English (EN) (17.82 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sitagliptin-metformin-hydrochloride-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-392)
+[Other languages (24)](#file-language-dropdown-316)
 
 български (BG) (49.79 KB - PDF)
 
@@ -1001,7 +1003,7 @@ English (EN) (161.65 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/sitagliptin-metformin-hydrochloride-mylan-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-816)
+[Other languages (24)](#file-language-dropdown-584)
 
 български (BG) (198.88 KB - DOCX)
 

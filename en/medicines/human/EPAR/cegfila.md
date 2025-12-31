@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:08:14
+document_datetime: 2025-12-29 14:36:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cegfila.html
 document_name: cegfila.html
 version: success
-processing_time: 0.1273678
-conversion_datetime: 2025-12-27 21:15:07.771154
+processing_time: 0.127186
+conversion_datetime: 2025-12-31 05:20:38.119638
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pegfilgrastim Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (122.54 KB - PDF)
 
 [View](/en/documents/overview/cegfila-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-82)
+[Other languages (22)](#file-language-dropdown-61)
 
 български (BG) (147.42 KB - PDF)
 
@@ -394,7 +396,7 @@ English (EN) (883.73 KB - PDF)
 
 [View](/en/documents/product-information/cegfila-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-903)
+[Other languages (24)](#file-language-dropdown-65)
 
 български (BG) (1.89 MB - PDF)
 
@@ -710,7 +712,7 @@ English (EN) (48.02 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cegfila-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-650)
+[Other languages (24)](#file-language-dropdown-360)
 
 български (BG) (60.19 KB - PDF)
 
@@ -1096,7 +1098,7 @@ English (EN) (928.92 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/cegfila-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-605)
+[Other languages (24)](#file-language-dropdown-982)
 
 български (BG) (1.3 MB - DOCX)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:46:02
+document_datetime: 2025-12-29 13:45:57
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rixubis.html
 document_name: rixubis.html
 version: success
-processing_time: 0.1096782
-conversion_datetime: 2025-12-27 18:01:12.782699
+processing_time: 0.3454968
+conversion_datetime: 2025-12-31 07:54:50.25514
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 nonacog gamma Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (77.2 KB - PDF)
 
 [View](/en/documents/overview/rixubis-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-791)
+[Other languages (22)](#file-language-dropdown-721)
 
 български (BG) (105.48 KB - PDF)
 
@@ -403,7 +405,7 @@ English (EN) (918.95 KB - PDF)
 
 [View](/en/documents/product-information/rixubis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-526)
+[Other languages (24)](#file-language-dropdown-196)
 
 български (BG) (1010.78 KB - PDF)
 
@@ -719,7 +721,7 @@ English (EN) (21.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rixubis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-16)
+[Other languages (24)](#file-language-dropdown-339)
 
 български (BG) (73.58 KB - PDF)
 

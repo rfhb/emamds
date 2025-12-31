@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:26:27
+document_datetime: 2025-12-29 18:58:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/onzeald.html
 document_name: onzeald.html
 version: success
-processing_time: 0.0660003
-conversion_datetime: 2025-12-23 21:55:07.26443
+processing_time: 0.0636903
+conversion_datetime: 2025-12-31 07:45:51.109394
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine has been refused authorisation
 
 etirinotecan pegol Medicine Human Refused
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -90,7 +92,7 @@ English (EN) (65.82 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-refusal-marketing-authorisation-onzeald-etirinotecan-pegol_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-858)
+[Other languages (18)](#file-language-dropdown-813)
 
 български (BG) (98.44 KB - PDF)
 

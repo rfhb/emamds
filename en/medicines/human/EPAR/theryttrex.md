@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:04:08
+document_datetime: 2025-12-29 19:10:14
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/theryttrex.html
 document_name: theryttrex.html
 version: success
-processing_time: 0.0414222
-conversion_datetime: 2025-12-25 00:25:05.664952
+processing_time: 0.0376286
+conversion_datetime: 2025-12-31 05:10:10.690316
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-yttrium [90Y] chloride
+yttrium [90Y] chloride Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 13:11:10
+document_datetime: 2025-12-29 08:27:51
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/optimark.html
 document_name: optimark.html
 version: success
-processing_time: 0.1210699
-conversion_datetime: 2025-12-28 08:24:46.574188
+processing_time: 0.1240802
+conversion_datetime: 2025-12-31 05:01:30.233068
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-gadoversetamide
+gadoversetamide Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (555.62 KB - PDF)
 
 [View](/en/documents/overview/optimark-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-593)
+[Other languages (22)](#file-language-dropdown-22)
 
 български (BG) (601.15 KB - PDF)
 
@@ -345,7 +341,7 @@ English (EN) (1.2 MB - PDF)
 
 [View](/en/documents/product-information/optimark-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-799)
+[Other languages (24)](#file-language-dropdown-474)
 
 български (BG) (2.06 MB - PDF)
 
@@ -661,7 +657,7 @@ English (EN) (477.19 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/optimark-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-50)
+[Other languages (21)](#file-language-dropdown-204)
 
 български (BG) (527.81 KB - PDF)
 
@@ -1027,7 +1023,7 @@ English (EN) (48.93 KB - PDF)
 
 [View](/en/documents/referral/questions-and-answers-review-gadolinium-containing-contrast-agents_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-280)
+[Other languages (21)](#file-language-dropdown-416)
 
 български (BG) (242.44 KB - PDF)
 

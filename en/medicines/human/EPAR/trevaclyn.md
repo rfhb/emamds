@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:29
+document_datetime: 2025-12-29 07:51:30
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trevaclyn.html
 document_name: trevaclyn.html
 version: success
-processing_time: 0.117685
-conversion_datetime: 2025-12-27 17:57:11.870683
+processing_time: 0.1209412
+conversion_datetime: 2025-12-31 01:47:46.305104
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-laropiprant / nicotinic acid
+laropiprant / nicotinic acid Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -68,7 +64,7 @@ English (EN) (498.31 KB - PDF)
 
 [View](/en/documents/overview/trevaclyn-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-735)
+[Other languages (21)](#file-language-dropdown-283)
 
 български (BG) (236.98 KB - PDF)
 
@@ -334,7 +330,7 @@ English (EN) (903.33 KB - PDF)
 
 [View](/en/documents/product-information/trevaclyn-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-51)
+[Other languages (23)](#file-language-dropdown-178)
 
 български (BG) (386.63 KB - PDF)
 
@@ -638,7 +634,7 @@ English (EN) (466.2 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/trevaclyn-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-722)
+[Other languages (21)](#file-language-dropdown-105)
 
 български (BG) (126.28 KB - PDF)
 
@@ -954,7 +950,7 @@ English (EN) (521.17 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/trevaclyn-epar-scientific-conclusion_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-205)
+[Other languages (21)](#file-language-dropdown-40)
 
 български (BG) (683.63 KB - PDF)
 

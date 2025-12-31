@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:07:15
+document_datetime: 2025-12-29 19:10:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/echogen.html
 document_name: echogen.html
 version: success
-processing_time: 0.0421728
-conversion_datetime: 2025-12-28 12:27:06.195118
+processing_time: 0.0420471
+conversion_datetime: 2025-12-31 01:40:56.104438
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-dodecafluoropentane
+dodecafluoropentane Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

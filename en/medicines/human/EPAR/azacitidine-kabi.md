@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 11:51:34
+document_datetime: 2025-12-29 13:26:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/azacitidine-kabi.html
 document_name: azacitidine-kabi.html
 version: success
-processing_time: 0.1259178
-conversion_datetime: 2025-12-26 13:54:20.628835
+processing_time: 0.1246832
+conversion_datetime: 2025-12-31 01:18:18.213462
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -105,7 +105,7 @@ English (EN) (169.83 KB - PDF)
 
 [View](/en/documents/overview/azacitidine-kabi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-593)
+[Other languages (22)](#file-language-dropdown-911)
 
 български (BG) (192.13 KB - PDF)
 
@@ -303,7 +303,7 @@ English (EN) (769.11 KB - PDF)
 
 [View](/en/documents/product-information/azacitidine-kabi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-521)
+[Other languages (24)](#file-language-dropdown-298)
 
 български (BG) (698.66 KB - PDF)
 
@@ -617,7 +617,7 @@ English (EN) (67.94 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/azacitidine-kabi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-428)
+[Other languages (24)](#file-language-dropdown-55)
 
 български (BG) (47.08 KB - PDF)
 
@@ -916,7 +916,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-721)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

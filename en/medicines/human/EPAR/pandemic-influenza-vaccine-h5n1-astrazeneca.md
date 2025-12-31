@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:09:38
+document_datetime: 2025-12-29 11:41:57
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pandemic-influenza-vaccine-h5n1-astrazeneca.html
 document_name: pandemic-influenza-vaccine-h5n1-astrazeneca.html
 version: success
-processing_time: 0.102666
-conversion_datetime: 2025-12-24 18:25:08.861289
+processing_time: 0.1149795
+conversion_datetime: 2025-12-31 02:36:49.449927
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pandemic influenza vaccine (H5N1) (live attenuated, nasal) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -125,7 +127,7 @@ English (EN) (85.57 KB - PDF)
 
 [View](/en/documents/overview/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-750)
+[Other languages (22)](#file-language-dropdown-653)
 
 български (BG) (109.91 KB - PDF)
 
@@ -403,7 +405,7 @@ English (EN) (496.54 KB - PDF)
 
 [View](/en/documents/product-information/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-572)
+[Other languages (24)](#file-language-dropdown-944)
 
 български (BG) (523.77 KB - PDF)
 
@@ -719,7 +721,7 @@ English (EN) (34.53 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-astrazeneca-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-375)
+[Other languages (24)](#file-language-dropdown-878)
 
 български (BG) (39.1 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:03:43
+document_datetime: 2025-12-29 19:10:28
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/venvia.html
 document_name: venvia.html
 version: success
-processing_time: 0.0420258
-conversion_datetime: 2025-12-28 11:34:53.951247
+processing_time: 0.0420402
+conversion_datetime: 2025-12-31 04:44:23.213196
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-rosiglitazone
+rosiglitazone Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

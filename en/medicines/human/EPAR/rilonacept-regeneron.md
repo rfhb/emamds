@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:02:58
+document_datetime: 2025-12-29 11:42:41
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rilonacept-regeneron.html
 document_name: rilonacept-regeneron.html
 version: success
-processing_time: 0.117163
-conversion_datetime: 2025-12-24 17:16:49.622183
+processing_time: 0.1218785
+conversion_datetime: 2025-12-31 02:43:32.966906
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-rilonacept
+rilonacept Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (720.83 KB - PDF)
 
 [View](/en/documents/overview/rilonacept-regeneron-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-377)
+[Other languages (21)](#file-language-dropdown-323)
 
 български (BG) (431.73 KB - PDF)
 
@@ -333,7 +329,7 @@ English (EN) (493.5 KB - PDF)
 
 [View](/en/documents/product-information/rilonacept-regeneron-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-280)
+[Other languages (23)](#file-language-dropdown-992)
 
 български (BG) (1.47 MB - PDF)
 
@@ -637,7 +633,7 @@ English (EN) (217.77 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rilonacept-regeneron-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-511)
+[Other languages (21)](#file-language-dropdown-270)
 
 български (BG) (308.08 KB - PDF)
 
@@ -901,7 +897,7 @@ English (EN) (117.54 KB - PDF)
 
 [View](/en/documents/conditions-member-states/rilonacept-regeneron-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-0)
+[Other languages (21)](#file-language-dropdown-573)
 
 български (BG) (384.73 KB - PDF)
 

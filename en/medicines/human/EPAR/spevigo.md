@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:07:55
+document_datetime: 2025-12-29 07:33:49
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/spevigo.html
 document_name: spevigo.html
 version: success
-processing_time: 0.1192176
-conversion_datetime: 2025-12-29 20:05:53.904286
+processing_time: 0.1179342
+conversion_datetime: 2025-12-31 03:39:50.627663
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 spesolimab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (112.25 KB - PDF)
 
 [View](/en/documents/overview/spevigo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-417)
+[Other languages (22)](#file-language-dropdown-633)
 
 български (BG) (138.4 KB - PDF)
 
@@ -404,7 +406,7 @@ English (EN) (1.71 MB - PDF)
 
 [View](/en/documents/product-information/spevigo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-691)
+[Other languages (24)](#file-language-dropdown-970)
 
 български (BG) (1.82 MB - PDF)
 
@@ -720,7 +722,7 @@ English (EN) (47.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/spevigo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-333)
+[Other languages (24)](#file-language-dropdown-329)
 
 български (BG) (55.13 KB - PDF)
 
@@ -1148,7 +1150,7 @@ English (EN) (98.55 KB - PDF)
 
 #### More information on Spevigo
 
-- [EMEA-002475-PIP03-22-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002475-pip03-22-m01)
+- [EMA/PE/0000232315 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000232315)
 - [EMEA-002475-PIP04-23 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002475-pip04-23)
 - [A regulatory requirement non-interventional study to monitor the safety and effectiveness of Spesolimab in Korean patients with flares with generalized pustular psoriasis - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000278)
 - [Post-marketing Surveillance of Spesolimab I.V. Infusion in improvement of Generalized Pustular Psoriasis (GPP) with acute symptoms in Japan (PMS for GPP with acute symptoms) - post-authorisation study](https://catalogues.ema.europa.eu/study/49954)

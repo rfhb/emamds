@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:24:23
+document_datetime: 2025-12-29 16:15:16
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/janacti.html
 document_name: janacti.html
 version: success
-processing_time: 0.0481994
-conversion_datetime: 2025-12-28 18:14:11.854689
+processing_time: 0.0484842
+conversion_datetime: 2025-12-31 01:32:20.670906
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

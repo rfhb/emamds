@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:09
+document_datetime: 2025-12-29 09:16:27
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kaftrio.html
 document_name: kaftrio.html
 version: success
-processing_time: 0.1380334
-conversion_datetime: 2025-12-28 09:04:23.190208
+processing_time: 0.1365121
+conversion_datetime: 2025-12-31 05:11:21.204877
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ivacaftor / tezacaftor / elexacaftor Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -123,7 +125,7 @@ English (EN) (120.49 KB - PDF)
 
 [View](/en/documents/overview/kaftrio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-527)
+[Other languages (22)](#file-language-dropdown-296)
 
 български (BG) (155.38 KB - PDF)
 
@@ -411,7 +413,7 @@ English (EN) (1.06 MB - PDF)
 
 [View](/en/documents/product-information/kaftrio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-350)
+[Other languages (24)](#file-language-dropdown-882)
 
 български (BG) (1.35 MB - PDF)
 
@@ -727,7 +729,7 @@ English (EN) (65.15 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kaftrio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-201)
+[Other languages (24)](#file-language-dropdown-854)
 
 български (BG) (84.99 KB - PDF)
 

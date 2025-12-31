@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:04:41
+document_datetime: 2025-12-29 08:14:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/constella.html
 document_name: constella.html
 version: success
-processing_time: 0.1245407
-conversion_datetime: 2025-12-23 23:18:35.377172
+processing_time: 0.1190706
+conversion_datetime: 2025-12-31 01:37:16.827147
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 linaclotide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (57.79 KB - PDF)
 
 [View](/en/documents/overview/constella-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-105)
+[Other languages (21)](#file-language-dropdown-921)
 
 български (BG) (96.47 KB - PDF)
 
@@ -385,7 +387,7 @@ English (EN) (186.21 KB - PDF)
 
 [View](/en/documents/product-information/constella-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-854)
+[Other languages (24)](#file-language-dropdown-637)
 
 български (BG) (243.31 KB - PDF)
 
@@ -701,7 +703,7 @@ English (EN) (24.08 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/constella-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-899)
+[Other languages (24)](#file-language-dropdown-254)
 
 български (BG) (33.13 KB - PDF)
 

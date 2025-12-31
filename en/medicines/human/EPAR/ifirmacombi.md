@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:14:46
+document_datetime: 2025-12-29 07:23:38
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ifirmacombi.html
 document_name: ifirmacombi.html
 version: success
-processing_time: 0.1792285
-conversion_datetime: 2025-12-29 19:21:10.746347
+processing_time: 0.1795827
+conversion_datetime: 2025-12-31 05:24:41.38932
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 irbesartan / hydrochlorothiazide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (74.29 KB - PDF)
 
 [View](/en/documents/overview/ifirmacombi-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-402)
+[Other languages (22)](#file-language-dropdown-581)
 
 български (BG) (100.98 KB - PDF)
 
@@ -386,7 +388,7 @@ English (EN) (262.32 KB - PDF)
 
 [View](/en/documents/product-information/ifirmacombi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-510)
+[Other languages (24)](#file-language-dropdown-285)
 
 български (BG) (289.67 KB - PDF)
 
@@ -702,7 +704,7 @@ English (EN) (42.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ifirmacombi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-925)
+[Other languages (23)](#file-language-dropdown-316)
 
 български (BG) (78.12 KB - PDF)
 
@@ -1054,7 +1056,7 @@ English (EN) (119.28 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-383)
+[Other languages (22)](#file-language-dropdown-362)
 
 български (BG) (145.18 KB - PDF)
 
@@ -1252,7 +1254,7 @@ English (EN) (99.42 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/ifirmacombi-epar-scientific-conclusions_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-380)
+[Other languages (22)](#file-language-dropdown-205)
 
 български (BG) (136.15 KB - PDF)
 
@@ -1466,7 +1468,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/ifirmacombi-h-c-2302-a31-09-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recomme_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-358)
+[Other languages (22)](#file-language-dropdown-751)
 
 български (BG) (87.49 KB - PDF)
 
@@ -1798,7 +1800,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

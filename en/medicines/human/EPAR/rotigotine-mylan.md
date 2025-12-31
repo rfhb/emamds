@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:03:44
+document_datetime: 2025-12-29 13:22:18
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rotigotine-mylan.html
 document_name: rotigotine-mylan.html
 version: success
-processing_time: 0.0872499
-conversion_datetime: 2025-12-28 00:08:57.929713
+processing_time: 0.087985
+conversion_datetime: 2025-12-31 03:22:31.274974
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-rotigotine
+rotigotine Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +105,7 @@ English (EN) (75.32 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-rotigotine-mylan-rotigotine_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-450)
+[Other languages (22)](#file-language-dropdown-75)
 
 български (BG) (98.73 KB - PDF)
 
@@ -438,7 +434,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-44)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:25:35
+document_datetime: 2025-12-29 12:05:47
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nevanac.html
 document_name: nevanac.html
 version: success
-processing_time: 0.1088699
-conversion_datetime: 2025-12-28 12:31:57.621892
+processing_time: 0.1177256
+conversion_datetime: 2025-12-31 04:10:50.970505
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 nepafenac Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (72.99 KB - PDF)
 
 [View](/en/documents/overview/nevanac-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-292)
+[Other languages (22)](#file-language-dropdown-715)
 
 български (BG) (100.21 KB - PDF)
 
@@ -403,7 +405,7 @@ English (EN) (414.02 KB - PDF)
 
 [View](/en/documents/product-information/nevanac-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-67)
+[Other languages (24)](#file-language-dropdown-818)
 
 български (BG) (466.42 KB - PDF)
 
@@ -719,7 +721,7 @@ English (EN) (18.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nevanac-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-70)
+[Other languages (24)](#file-language-dropdown-506)
 
 български (BG) (38.97 KB - PDF)
 

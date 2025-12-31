@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:02:19
+document_datetime: 2025-12-29 07:00:37
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pelzont.html
 document_name: pelzont.html
 version: success
-processing_time: 0.1208734
-conversion_datetime: 2025-12-28 09:09:19.867515
+processing_time: 0.1198331
+conversion_datetime: 2025-12-31 04:27:31.230617
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-laropiprant / nicotinic acid
+laropiprant / nicotinic acid Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (486.41 KB - PDF)
 
 [View](/en/documents/overview/pelzont-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-877)
+[Other languages (21)](#file-language-dropdown-959)
 
 български (BG) (1.26 MB - PDF)
 
@@ -332,7 +328,7 @@ English (EN) (1.51 MB - PDF)
 
 [View](/en/documents/product-information/pelzont-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-114)
+[Other languages (23)](#file-language-dropdown-594)
 
 български (BG) (3.1 MB - PDF)
 
@@ -636,7 +632,7 @@ English (EN) (471.11 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pelzont-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-940)
+[Other languages (21)](#file-language-dropdown-106)
 
 български (BG) (1.1 MB - PDF)
 
@@ -952,7 +948,7 @@ English (EN) (486.38 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/pelzont-epar-scientific-conclusion_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-453)
+[Other languages (21)](#file-language-dropdown-845)
 
 български (BG) (684.89 KB - PDF)
 

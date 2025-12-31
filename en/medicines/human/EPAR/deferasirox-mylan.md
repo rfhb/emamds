@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:56:56
+document_datetime: 2025-12-29 12:49:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/deferasirox-mylan.html
 document_name: deferasirox-mylan.html
 version: success
-processing_time: 0.1496893
-conversion_datetime: 2025-12-25 04:37:07.667328
+processing_time: 0.1558667
+conversion_datetime: 2025-12-31 02:05:52.812113
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 deferasirox Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (145.07 KB - PDF)
 
 [View](/en/documents/overview/deferasirox-mylan-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-903)
+[Other languages (22)](#file-language-dropdown-768)
 
 български (BG) (162.36 KB - PDF)
 
@@ -311,7 +313,7 @@ English (EN) (569.78 KB - PDF)
 
 [View](/en/documents/product-information/deferasirox-mylan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-644)
+[Other languages (24)](#file-language-dropdown-747)
 
 български (BG) (692.33 KB - PDF)
 
@@ -625,7 +627,7 @@ English (EN) (47.4 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/deferasirox-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-125)
+[Other languages (24)](#file-language-dropdown-253)
 
 български (BG) (56.35 KB - PDF)
 
@@ -929,7 +931,7 @@ English (EN) (287.41 KB - DOCX)
 
 [View](/en/documents/procedural-steps-after/deferasirox-mylan-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-399)
+[Other languages (24)](#file-language-dropdown-5)
 
 български (BG) (183.57 KB - DOCX)
 
@@ -1137,7 +1139,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1415,7 +1417,7 @@ English (EN) (138.66 KB - PDF)
 
 [View](/en/documents/medication-error/deferasirox-mylan-measures-avoid-medication-errors_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-430)
+[Other languages (22)](#file-language-dropdown-444)
 
 български (BG) (163.36 KB - PDF)
 

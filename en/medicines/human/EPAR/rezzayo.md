@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:05:43
+document_datetime: 2025-12-29 09:56:27
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rezzayo.html
 document_name: rezzayo.html
 version: success
-processing_time: 0.1239946
-conversion_datetime: 2025-12-28 11:43:11.3723
+processing_time: 0.2978531
+conversion_datetime: 2025-12-31 01:42:45.573221
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 rezafungin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (125.91 KB - PDF)
 
 [View](/en/documents/overview/rezzayo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-133)
+[Other languages (22)](#file-language-dropdown-934)
 
 български (BG) (119.29 KB - PDF)
 
@@ -305,7 +307,7 @@ English (EN) (259.68 KB - PDF)
 
 [View](/en/documents/product-information/rezzayo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-981)
+[Other languages (24)](#file-language-dropdown-310)
 
 български (BG) (300.83 KB - PDF)
 
@@ -619,7 +621,7 @@ English (EN) (40.22 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rezzayo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-731)
+[Other languages (24)](#file-language-dropdown-409)
 
 български (BG) (47.07 KB - PDF)
 
@@ -930,7 +932,7 @@ English (EN) (127.92 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/rezzayo-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-755)
+[Other languages (24)](#file-language-dropdown-133)
 
 български (BG) (124.66 KB - DOCX)
 

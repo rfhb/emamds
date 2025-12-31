@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:38:16
+document_datetime: 2025-12-29 11:56:42
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rixathon.html
 document_name: rixathon.html
 version: success
-processing_time: 0.1167382
-conversion_datetime: 2025-12-28 00:01:38.53846
+processing_time: 0.1189907
+conversion_datetime: 2025-12-31 02:43:20.835358
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 rituximab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -123,7 +125,7 @@ English (EN) (147.43 KB - PDF)
 
 [View](/en/documents/overview/rixathon-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-401)
+[Other languages (22)](#file-language-dropdown-757)
 
 български (BG) (167.03 KB - PDF)
 
@@ -411,7 +413,7 @@ English (EN) (582.13 KB - PDF)
 
 [View](/en/documents/product-information/rixathon-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-175)
+[Other languages (24)](#file-language-dropdown-877)
 
 български (BG) (589.56 KB - PDF)
 
@@ -727,7 +729,7 @@ English (EN) (14.39 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rixathon-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-359)
+[Other languages (22)](#file-language-dropdown-482)
 
 български (BG) (35.54 KB - PDF)
 

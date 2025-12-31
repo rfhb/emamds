@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:52:44
+document_datetime: 2025-12-29 11:28:16
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pepaxti.html
 document_name: pepaxti.html
 version: success
-processing_time: 0.1035959
-conversion_datetime: 2025-12-27 17:26:05.072811
+processing_time: 0.108198
+conversion_datetime: 2025-12-31 07:55:39.320091
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 melphalan flufenamide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (136.95 KB - PDF)
 
 [View](/en/documents/overview/pepaxti-epar-medicine-overview_en.pdf)
 
-[Other languages (17)](#file-language-dropdown-281)
+[Other languages (17)](#file-language-dropdown-821)
 
 español (ES) (144.94 KB - PDF)
 
@@ -272,7 +274,7 @@ English (EN) (542.59 KB - PDF)
 
 [View](/en/documents/product-information/pepaxti-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-787)
+[Other languages (24)](#file-language-dropdown-988)
 
 български (BG) (657.67 KB - PDF)
 
@@ -586,7 +588,7 @@ English (EN) (35.12 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pepaxti-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-243)
+[Other languages (24)](#file-language-dropdown-627)
 
 български (BG) (45.14 KB - PDF)
 

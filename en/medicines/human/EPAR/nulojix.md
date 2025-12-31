@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:06:46
+document_datetime: 2025-12-29 08:26:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nulojix.html
 document_name: nulojix.html
 version: success
-processing_time: 0.1180437
-conversion_datetime: 2025-12-27 20:48:31.284408
+processing_time: 0.1185872
+conversion_datetime: 2025-12-31 03:16:25.099187
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-belatacept
+belatacept Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -131,7 +127,7 @@ English (EN) (122.61 KB - PDF)
 
 [View](/en/documents/overview/nulojix-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-169)
+[Other languages (22)](#file-language-dropdown-878)
 
 български (BG) (125.85 KB - PDF)
 
@@ -419,7 +415,7 @@ English (EN) (517.03 KB - PDF)
 
 [View](/en/documents/product-information/nulojix-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-800)
+[Other languages (24)](#file-language-dropdown-576)
 
 български (BG) (628.63 KB - PDF)
 
@@ -735,7 +731,7 @@ English (EN) (30.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nulojix-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-628)
+[Other languages (24)](#file-language-dropdown-129)
 
 български (BG) (55.29 KB - PDF)
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:38:18
+document_datetime: 2025-12-29 08:12:21
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/yentreve.html
 document_name: yentreve.html
 version: success
-processing_time: 0.1204555
-conversion_datetime: 2025-12-23 21:37:03.644198
+processing_time: 0.113738
+conversion_datetime: 2025-12-31 03:31:49.115017
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 duloxetine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +106,7 @@ English (EN) (37.87 KB - PDF)
 
 [View](/en/documents/overview/yentreve-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-721)
+[Other languages (21)](#file-language-dropdown-197)
 
 български (BG) (169.94 KB - PDF)
 
@@ -380,7 +382,7 @@ English (EN) (546.95 KB - PDF)
 
 [View](/en/documents/product-information/yentreve-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-72)
+[Other languages (24)](#file-language-dropdown-503)
 
 български (BG) (638.31 KB - PDF)
 
@@ -696,7 +698,7 @@ English (EN) (16.6 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/yentreve-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-936)
+[Other languages (24)](#file-language-dropdown-328)
 
 български (BG) (55.25 KB - PDF)
 

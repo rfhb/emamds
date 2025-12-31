@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:27:30
+document_datetime: 2025-12-29 12:34:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/picato.html
 document_name: picato.html
 version: success
-processing_time: 0.1277052
-conversion_datetime: 2025-12-25 11:28:01.483229
+processing_time: 0.127005
+conversion_datetime: 2025-12-31 03:36:20.593463
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 ingenol mebutate Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -63,7 +65,7 @@ English (EN) (634.16 KB - PDF)
 
 [View](/en/documents/overview/picato-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-465)
+[Other languages (21)](#file-language-dropdown-989)
 
 български (BG) (726.46 KB - PDF)
 
@@ -339,7 +341,7 @@ English (EN) (1.28 MB - PDF)
 
 [View](/en/documents/product-information/picato-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-448)
+[Other languages (24)](#file-language-dropdown-127)
 
 български (BG) (1.87 MB - PDF)
 
@@ -655,7 +657,7 @@ English (EN) (585.06 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/picato-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-733)
+[Other languages (24)](#file-language-dropdown-999)
 
 български (BG) (628.12 KB - PDF)
 
@@ -996,7 +998,7 @@ English (EN) (668.3 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/picato-h-20-1489-c-002275-0030-epar-scientific-conclusions-article-20_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-829)
+[Other languages (22)](#file-language-dropdown-194)
 
 български (BG) (715.5 KB - PDF)
 

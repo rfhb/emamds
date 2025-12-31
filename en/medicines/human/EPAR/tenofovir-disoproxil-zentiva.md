@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:49:13
+document_datetime: 2025-12-29 12:23:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tenofovir-disoproxil-zentiva.html
 document_name: tenofovir-disoproxil-zentiva.html
 version: success
-processing_time: 0.1298264
-conversion_datetime: 2025-12-25 06:43:55.160927
+processing_time: 0.3141582
+conversion_datetime: 2025-12-31 04:28:11.834146
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tenofovir disoproxil Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (88.11 KB - PDF)
 
 [View](/en/documents/overview/tenofovir-disoproxil-zentiva-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-579)
+[Other languages (22)](#file-language-dropdown-76)
 
 български (BG) (123.44 KB - PDF)
 
@@ -398,7 +400,7 @@ English (EN) (462.88 KB - PDF)
 
 [View](/en/documents/product-information/tenofovir-disoproxil-zentiva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-18)
+[Other languages (24)](#file-language-dropdown-859)
 
 български (BG) (636.73 KB - PDF)
 
@@ -714,7 +716,7 @@ English (EN) (49.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tenofovir-disoproxil-zentiva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-212)
+[Other languages (24)](#file-language-dropdown-718)
 
 български (BG) (57.38 KB - PDF)
 
@@ -1136,7 +1138,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

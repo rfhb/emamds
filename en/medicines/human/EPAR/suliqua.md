@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 07:07:23
+document_datetime: 2025-12-29 07:37:38
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/suliqua.html
 document_name: suliqua.html
 version: success
-processing_time: 0.1291115
-conversion_datetime: 2025-12-25 07:27:05.718313
+processing_time: 0.1310872
+conversion_datetime: 2025-12-31 03:36:29.260255
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin glargine / lixisenatide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (145.65 KB - PDF)
 
 [View](/en/documents/overview/suliqua-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-102)
+[Other languages (22)](#file-language-dropdown-485)
 
 български (BG) (151.21 KB - PDF)
 
@@ -393,7 +395,7 @@ English (EN) (2.14 MB - PDF)
 
 [View](/en/documents/product-information/suliqua-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-231)
+[Other languages (24)](#file-language-dropdown-345)
 
 български (BG) (1.98 MB - PDF)
 
@@ -709,7 +711,7 @@ English (EN) (25.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/suliqua-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-801)
+[Other languages (24)](#file-language-dropdown-69)
 
 български (BG) (60.15 KB - PDF)
 
@@ -1147,7 +1149,7 @@ English (EN) (130.45 KB - PDF)
 
 [View](/en/documents/medication-error/suliqua-educational-materials-healthcare-professionals-and-patients-using-diabetes-medicine-suliqua_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-207)
+[Other languages (22)](#file-language-dropdown-161)
 
 български (BG) (184.64 KB - PDF)
 

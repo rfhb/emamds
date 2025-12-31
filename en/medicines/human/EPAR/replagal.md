@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 07:00:39
+document_datetime: 2025-12-29 12:05:25
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/replagal.html
 document_name: replagal.html
 version: success
-processing_time: 0.1113908
-conversion_datetime: 2025-12-27 22:03:26.51361
+processing_time: 0.1098526
+conversion_datetime: 2025-12-31 03:33:02.32547
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -114,7 +114,7 @@ English (EN) (82.69 KB - PDF)
 
 [View](/en/documents/overview/replagal-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-287)
+[Other languages (22)](#file-language-dropdown-882)
 
 български (BG) (116.76 KB - PDF)
 
@@ -392,7 +392,7 @@ English (EN) (291.18 KB - PDF)
 
 [View](/en/documents/product-information/replagal-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-403)
+[Other languages (24)](#file-language-dropdown-317)
 
 български (BG) (357.27 KB - PDF)
 
@@ -708,7 +708,7 @@ English (EN) (10.28 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/replagal-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-240)
+[Other languages (23)](#file-language-dropdown-821)
 
 български (BG) (34.23 KB - PDF)
 

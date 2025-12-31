@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:22:52
+document_datetime: 2025-12-29 12:05:47
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/intrarosa.html
 document_name: intrarosa.html
 version: success
-processing_time: 0.1138842
-conversion_datetime: 2025-12-28 14:05:30.422792
+processing_time: 0.1112364
+conversion_datetime: 2025-12-31 02:46:30.015326
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 prasterone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (77.5 KB - PDF)
 
 [View](/en/documents/overview/intrarosa-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-394)
+[Other languages (22)](#file-language-dropdown-630)
 
 български (BG) (103.62 KB - PDF)
 
@@ -405,7 +407,7 @@ English (EN) (1003.25 KB - PDF)
 
 [View](/en/documents/product-information/intrarosa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-316)
+[Other languages (24)](#file-language-dropdown-218)
 
 български (BG) (996.41 KB - PDF)
 
@@ -721,7 +723,7 @@ English (EN) (45.08 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/intrarosa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-829)
+[Other languages (24)](#file-language-dropdown-380)
 
 български (BG) (34.74 KB - PDF)
 

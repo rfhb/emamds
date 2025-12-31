@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:59:20
+document_datetime: 2025-12-29 11:33:51
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/qalsody.html
 document_name: qalsody.html
 version: success
-processing_time: 0.1083454
-conversion_datetime: 2025-12-27 23:21:49.563638
+processing_time: 0.1043998
+conversion_datetime: 2025-12-31 05:09:37.040359
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tofersen Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (127.63 KB - PDF)
 
 [View](/en/documents/overview/qalsody-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-864)
+[Other languages (22)](#file-language-dropdown-783)
 
 български (BG) (160.39 KB - PDF)
 
@@ -316,7 +318,7 @@ English (EN) (473.76 KB - PDF)
 
 [View](/en/documents/product-information/qalsody-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-321)
+[Other languages (24)](#file-language-dropdown-705)
 
 български (BG) (600.88 KB - PDF)
 
@@ -630,7 +632,7 @@ English (EN) (48.37 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/qalsody-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-488)
+[Other languages (24)](#file-language-dropdown-817)
 
 български (BG) (52.69 KB - PDF)
 
@@ -921,6 +923,7 @@ English (EN) (172.26 KB - PDF)
 #### More information on Qalsody
 
 - [EU/3/16/1732 - orphan designation for treatment of amyotrophic lateral sclerosis](/en/medicines/human/orphan-designations/eu-3-16-1732)
+- [An Observational Registry-Based Study to Evaluate the Long-Term Safety of Tofersen in People With SOD1-ALS - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000365)
 
 **This page was last updated on** 09/07/2024
 

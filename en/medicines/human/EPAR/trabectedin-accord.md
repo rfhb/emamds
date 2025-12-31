@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:39:36
+document_datetime: 2025-12-29 11:18:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trabectedin-accord.html
 document_name: trabectedin-accord.html
 version: success
-processing_time: 0.1027972
-conversion_datetime: 2025-12-26 09:01:23.362363
+processing_time: 0.1029767
+conversion_datetime: 2025-12-31 01:30:40.653926
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 trabectedin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -102,7 +104,7 @@ English (EN) (140.19 KB - PDF)
 
 [View](/en/documents/overview/trabectedin-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-103)
+[Other languages (22)](#file-language-dropdown-521)
 
 български (BG) (191.99 KB - PDF)
 
@@ -298,7 +300,7 @@ English (EN) (485.97 KB - PDF)
 
 [View](/en/documents/product-information/trabectedin-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-543)
+[Other languages (24)](#file-language-dropdown-367)
 
 български (BG) (734.2 KB - PDF)
 
@@ -516,7 +518,7 @@ English (EN) (157.95 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/trabectedin-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-169)
+[Other languages (24)](#file-language-dropdown-801)
 
 български (BG) (164.5 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:04:17
+document_datetime: 2025-12-29 11:29:43
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sitagliptin-accord.html
 document_name: sitagliptin-accord.html
 version: success
-processing_time: 0.1239033
-conversion_datetime: 2025-12-28 05:16:36.340921
+processing_time: 0.1269068
+conversion_datetime: 2025-12-31 05:25:16.77089
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sitagliptin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -102,7 +104,7 @@ English (EN) (170.63 KB - PDF)
 
 [View](/en/documents/overview/sitagliptin-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-491)
+[Other languages (22)](#file-language-dropdown-128)
 
 български (BG) (195.1 KB - PDF)
 
@@ -300,7 +302,7 @@ English (EN) (333.14 KB - PDF)
 
 [View](/en/documents/product-information/sitagliptin-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-662)
+[Other languages (24)](#file-language-dropdown-363)
 
 български (BG) (545.95 KB - PDF)
 
@@ -616,7 +618,7 @@ English (EN) (69.53 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sitagliptin-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-119)
+[Other languages (24)](#file-language-dropdown-144)
 
 български (BG) (59.89 KB - PDF)
 
@@ -1000,7 +1002,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

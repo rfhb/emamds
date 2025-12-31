@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-09 23:28:24
+document_datetime: 2025-12-29 10:52:01
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/delstrigo.html
 document_name: delstrigo.html
 version: success
-processing_time: 0.1086013
-conversion_datetime: 2025-12-27 16:51:15.184101
+processing_time: 0.113424
+conversion_datetime: 2025-12-31 01:28:40.654244
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 doravirine / lamivudine / tenofovir disoproxil Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (123.23 KB - PDF)
 
 [View](/en/documents/overview/delstrigo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-306)
+[Other languages (22)](#file-language-dropdown-933)
 
 български (BG) (137.03 KB - PDF)
 
@@ -399,7 +401,7 @@ English (EN) (470.52 KB - PDF)
 
 [View](/en/documents/product-information/delstrigo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-885)
+[Other languages (24)](#file-language-dropdown-906)
 
 български (BG) (424.88 KB - PDF)
 
@@ -713,7 +715,7 @@ English (EN) (73.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/delstrigo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-532)
+[Other languages (24)](#file-language-dropdown-703)
 
 български (BG) (59.89 KB - PDF)
 

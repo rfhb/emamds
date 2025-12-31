@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:56:24
+document_datetime: 2025-12-29 10:42:22
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/avamys.html
 document_name: avamys.html
 version: success
-processing_time: 0.1244674
-conversion_datetime: 2025-12-24 16:15:07.86589
+processing_time: 0.1284403
+conversion_datetime: 2025-12-31 03:13:15.72614
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 fluticasone furoate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (32.82 KB - PDF)
 
 [View](/en/documents/overview/avamys-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-111)
+[Other languages (21)](#file-language-dropdown-585)
 
 български (BG) (179.49 KB - PDF)
 
@@ -386,7 +388,7 @@ English (EN) (503.39 KB - PDF)
 
 [View](/en/documents/product-information/avamys-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-324)
+[Other languages (24)](#file-language-dropdown-235)
 
 български (BG) (680.98 KB - PDF)
 
@@ -702,7 +704,7 @@ English (EN) (11.53 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/avamys-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-608)
+[Other languages (22)](#file-language-dropdown-228)
 
 български (BG) (79.88 KB - PDF)
 
@@ -1080,7 +1082,7 @@ English (EN) (489.84 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/avamys-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-999)
+[Other languages (24)](#file-language-dropdown-679)
 
 български (BG) (638.5 KB - DOC)
 

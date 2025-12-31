@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-06 07:02:15
+document_datetime: 2025-12-29 07:01:32
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/spikevax.html
 document_name: spikevax.html
 version: success
-processing_time: 0.2381538
-conversion_datetime: 2025-12-29 22:19:48.789333
+processing_time: 0.2115231
+conversion_datetime: 2025-12-31 02:43:11.951503
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:08:55
+document_datetime: 2025-12-29 12:50:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/riulvy.html
 document_name: riulvy.html
 version: success
-processing_time: 0.1276707
-conversion_datetime: 2025-12-24 01:36:48.603141
+processing_time: 0.1205748
+conversion_datetime: 2025-12-31 02:16:50.630982
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tegomil fumarate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -102,7 +104,7 @@ English (EN) (138.11 KB - PDF)
 
 [View](/en/documents/overview/riulvy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-924)
 
 български (BG) (143.64 KB - PDF)
 
@@ -300,7 +302,7 @@ English (EN) (639.18 KB - PDF)
 
 [View](/en/documents/product-information/riulvy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-357)
+[Other languages (24)](#file-language-dropdown-387)
 
 български (BG) (625.68 KB - PDF)
 
@@ -614,7 +616,7 @@ English (EN) (49.93 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/riulvy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-85)
+[Other languages (24)](#file-language-dropdown-830)
 
 български (BG) (77.44 KB - PDF)
 
@@ -898,7 +900,7 @@ English (EN) (199.03 KB - DOCX)
 
 [View](/en/documents/procedural-steps-after/riulvy-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-308)
+[Other languages (24)](#file-language-dropdown-84)
 
 български (BG) (196.54 KB - DOCX)
 

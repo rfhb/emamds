@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 13:11:02
+document_datetime: 2025-12-29 12:12:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/atryn.html
 document_name: atryn.html
 version: success
-processing_time: 0.10641
-conversion_datetime: 2025-12-24 08:40:37.520744
+processing_time: 0.1063993
+conversion_datetime: 2025-12-31 07:33:26.106269
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-antithrombin alfa
+antithrombin alfa Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (556.64 KB - PDF)
 
 [View](/en/documents/overview/atryn-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-678)
+[Other languages (22)](#file-language-dropdown-287)
 
 български (BG) (638.56 KB - PDF)
 
@@ -345,7 +341,7 @@ English (EN) (769.07 KB - PDF)
 
 [View](/en/documents/product-information/atryn-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-491)
+[Other languages (24)](#file-language-dropdown-762)
 
 български (BG) (1.34 MB - PDF)
 
@@ -661,7 +657,7 @@ English (EN) (463.33 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/atryn-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-948)
+[Other languages (22)](#file-language-dropdown-947)
 
 български (BG) (554.27 KB - PDF)
 

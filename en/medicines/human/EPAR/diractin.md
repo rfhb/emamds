@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 08:03:15
+document_datetime: 2025-12-29 08:11:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/diractin.html
 document_name: diractin.html
 version: success
-processing_time: 0.0658908
-conversion_datetime: 2025-12-23 20:47:33.092209
+processing_time: 0.0636275
+conversion_datetime: 2025-12-31 02:18:59.008035
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-ketoprofen
+ketoprofen Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +107,7 @@ English (EN) (38.76 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-application-diractin_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-216)
+[Other languages (21)](#file-language-dropdown-183)
 
 български (BG) (181.88 KB - PDF)
 

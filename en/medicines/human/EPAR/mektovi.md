@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:29
+document_datetime: 2025-12-29 11:28:44
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mektovi.html
 document_name: mektovi.html
 version: success
-processing_time: 0.1156064
-conversion_datetime: 2025-12-28 11:15:37.507705
+processing_time: 0.1163723
+conversion_datetime: 2025-12-31 01:34:47.383234
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 binimetinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +124,7 @@ English (EN) (155.83 KB - PDF)
 
 [View](/en/documents/overview/mektovi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-420)
+[Other languages (22)](#file-language-dropdown-964)
 
 български (BG) (173.93 KB - PDF)
 
@@ -410,7 +412,7 @@ English (EN) (550.09 KB - PDF)
 
 [View](/en/documents/product-information/mektovi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-165)
+[Other languages (24)](#file-language-dropdown-88)
 
 български (BG) (882.87 KB - PDF)
 
@@ -726,7 +728,7 @@ English (EN) (42.79 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mektovi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-824)
+[Other languages (24)](#file-language-dropdown-900)
 
 български (BG) (59.86 KB - PDF)
 

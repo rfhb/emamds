@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:09:43
+document_datetime: 2025-12-29 13:25:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ontruzant.html
 document_name: ontruzant.html
 version: success
-processing_time: 0.1156553
-conversion_datetime: 2025-12-27 21:49:29.793146
+processing_time: 0.1242302
+conversion_datetime: 2025-12-31 03:37:58.991464
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 trastuzumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -124,7 +126,7 @@ English (EN) (106.98 KB - PDF)
 
 [View](/en/documents/overview/ontruzant-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-877)
+[Other languages (22)](#file-language-dropdown-839)
 
 български (BG) (113.06 KB - PDF)
 
@@ -412,7 +414,7 @@ English (EN) (575.64 KB - PDF)
 
 [View](/en/documents/product-information/ontruzant-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-207)
+[Other languages (24)](#file-language-dropdown-453)
 
 български (BG) (647.58 KB - PDF)
 
@@ -728,7 +730,7 @@ English (EN) (13.99 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ontruzant-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-218)
+[Other languages (24)](#file-language-dropdown-836)
 
 български (BG) (33.46 KB - PDF)
 

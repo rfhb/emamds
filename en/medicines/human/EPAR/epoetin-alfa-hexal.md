@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:17:21
+document_datetime: 2025-12-29 13:16:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/epoetin-alfa-hexal.html
 document_name: epoetin-alfa-hexal.html
 version: success
-processing_time: 0.1473165
-conversion_datetime: 2025-12-27 15:39:09.549313
+processing_time: 0.1488305
+conversion_datetime: 2025-12-31 05:19:31.273182
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 epoetin alfa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -125,7 +127,7 @@ English (EN) (87.92 KB - PDF)
 
 [View](/en/documents/overview/epoetin-alfa-hexal-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-167)
+[Other languages (22)](#file-language-dropdown-145)
 
 български (BG) (116.38 KB - PDF)
 
@@ -411,7 +413,7 @@ English (EN) (744.06 KB - PDF)
 
 [View](/en/documents/product-information/epoetin-alfa-hexal-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-877)
+[Other languages (24)](#file-language-dropdown-31)
 
 български (BG) (1.14 MB - PDF)
 
@@ -727,7 +729,7 @@ English (EN) (64.45 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/epoetin-alfa-hexal-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-564)
+[Other languages (24)](#file-language-dropdown-367)
 
 български (BG) (98.61 KB - PDF)
 
@@ -1027,7 +1029,7 @@ English (EN) (18.89 KB - PDF)
 
 [View](/en/documents/conditions-member-states/epoetin-alfa-hexal-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-620)
+[Other languages (23)](#file-language-dropdown-506)
 
 български (BG) (86.71 KB - PDF)
 
@@ -1459,7 +1461,7 @@ English (EN) (241.68 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/epoetin-alfa-hexal-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-323)
+[Other languages (24)](#file-language-dropdown-338)
 
 български (BG) (260.1 KB - DOCX)
 

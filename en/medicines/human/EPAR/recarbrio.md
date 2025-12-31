@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:04:45
+document_datetime: 2025-12-29 12:26:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/recarbrio.html
 document_name: recarbrio.html
 version: success
-processing_time: 0.108328
-conversion_datetime: 2025-12-27 23:51:27.135437
+processing_time: 0.1134771
+conversion_datetime: 2025-12-31 04:54:45.771442
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 imipenem / cilastatin / relebactam Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (162.99 KB - PDF)
 
 [View](/en/documents/overview/recarbrio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-571)
+[Other languages (22)](#file-language-dropdown-201)
 
 български (BG) (182.75 KB - PDF)
 
@@ -405,7 +407,7 @@ English (EN) (325.13 KB - PDF)
 
 [View](/en/documents/product-information/recarbrio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-197)
+[Other languages (24)](#file-language-dropdown-539)
 
 български (BG) (342.67 KB - PDF)
 
@@ -719,7 +721,7 @@ English (EN) (52.49 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/recarbrio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-620)
+[Other languages (24)](#file-language-dropdown-21)
 
 български (BG) (53.68 KB - PDF)
 
@@ -1040,6 +1042,8 @@ English (EN) (137.52 KB - PDF)
 
 #### News on Recarbrio
 
+[Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 8-11 December 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-8-11-december-2025) 12/12/2025
+
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 12-15 October 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-12-15-october-2020) 16/10/2020
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 December 2019](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-december-2019) 13/12/2019
@@ -1047,6 +1051,7 @@ English (EN) (137.52 KB - PDF)
 #### More information on Recarbrio
 
 - [EMEA-001809-PIP01-15-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001809-pip01-15-m05)
+- [Recarbrio - opinion on variation to marketing authorisation](/en/medicines/human/variation/recarbrio)
 
 #### Topics
 

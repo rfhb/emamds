@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:29:46
+document_datetime: 2025-12-29 16:15:43
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ratioepo.html
 document_name: ratioepo.html
 version: success
-processing_time: 0.0488417
-conversion_datetime: 2025-12-27 21:49:47.204255
+processing_time: 0.0388888
+conversion_datetime: 2025-12-31 03:29:10.989394
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 epoetin theta Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

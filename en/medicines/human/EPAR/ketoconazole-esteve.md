@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:53:19
+document_datetime: 2025-12-29 12:28:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ketoconazole-esteve.html
 document_name: ketoconazole-esteve.html
 version: success
-processing_time: 0.1220594
-conversion_datetime: 2025-12-28 17:50:18.048113
+processing_time: 0.12071
+conversion_datetime: 2025-12-31 05:15:14.927674
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ketoconazole Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +123,7 @@ English (EN) (83.5 KB - PDF)
 
 [View](/en/documents/overview/ketoconazole-hra-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-251)
+[Other languages (22)](#file-language-dropdown-401)
 
 български (BG) (112.42 KB - PDF)
 
@@ -409,7 +411,7 @@ English (EN) (593.19 KB - PDF)
 
 [View](/en/documents/product-information/ketoconazole-esteve-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-175)
+[Other languages (24)](#file-language-dropdown-279)
 
 български (BG) (735.99 KB - PDF)
 
@@ -725,7 +727,7 @@ English (EN) (18.02 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ketoconazole-hra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-153)
+[Other languages (24)](#file-language-dropdown-402)
 
 български (BG) (58.15 KB - PDF)
 

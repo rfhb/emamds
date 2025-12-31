@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:13:42
+document_datetime: 2025-12-29 14:09:41
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/flebogamma-dif.html
 document_name: flebogamma-dif.html
 version: success
-processing_time: 0.115516
-conversion_datetime: 2025-12-26 21:06:20.35304
+processing_time: 0.1116295
+conversion_datetime: 2025-12-31 01:47:37.536295
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 human normal immunoglobulin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -130,7 +132,7 @@ English (EN) (66.63 KB - PDF)
 
 [View](/en/documents/overview/flebogamma-dif-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-300)
+[Other languages (21)](#file-language-dropdown-822)
 
 български (BG) (167.02 KB - PDF)
 
@@ -404,7 +406,7 @@ English (EN) (716.56 KB - PDF)
 
 [View](/en/documents/product-information/flebogamma-dif-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-201)
+[Other languages (24)](#file-language-dropdown-71)
 
 български (BG) (793.74 KB - PDF)
 
@@ -720,7 +722,7 @@ English (EN) (27.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/flebogamma-dif-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-801)
+[Other languages (24)](#file-language-dropdown-172)
 
 български (BG) (56.94 KB - PDF)
 

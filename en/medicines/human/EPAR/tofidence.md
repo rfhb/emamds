@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:55:54
+document_datetime: 2025-12-29 07:47:39
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tofidence.html
 document_name: tofidence.html
 version: success
-processing_time: 0.1040011
-conversion_datetime: 2025-12-28 15:23:36.111602
+processing_time: 0.1502384
+conversion_datetime: 2025-12-31 02:56:51.031216
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tocilizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (137.23 KB - PDF)
 
 [View](/en/documents/overview/tofidence-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-698)
+[Other languages (22)](#file-language-dropdown-222)
 
 български (BG) (163.92 KB - PDF)
 
@@ -316,7 +318,7 @@ English (EN) (812.48 KB - PDF)
 
 [View](/en/documents/product-information/tofidence-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-580)
+[Other languages (24)](#file-language-dropdown-332)
 
 български (BG) (1000.35 KB - PDF)
 
@@ -630,7 +632,7 @@ English (EN) (47.68 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tofidence-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-215)
+[Other languages (24)](#file-language-dropdown-975)
 
 български (BG) (57.44 KB - PDF)
 

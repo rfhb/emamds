@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:51:18
+document_datetime: 2025-12-29 12:39:21
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lazcluze.html
 document_name: lazcluze.html
 version: success
-processing_time: 0.1011078
-conversion_datetime: 2025-12-27 15:49:49.938851
+processing_time: 0.1023292
+conversion_datetime: 2025-12-31 01:35:43.873917
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lazertinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (122.77 KB - PDF)
 
 [View](/en/documents/overview/lazcluze-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-64)
+[Other languages (22)](#file-language-dropdown-284)
 
 български (BG) (146.27 KB - PDF)
 
@@ -305,7 +307,7 @@ English (EN) (730.7 KB - PDF)
 
 [View](/en/documents/product-information/lazcluze-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-50)
+[Other languages (24)](#file-language-dropdown-714)
 
 български (BG) (525.46 KB - PDF)
 
@@ -619,7 +621,7 @@ English (EN) (30.69 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lazcluze-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-319)
+[Other languages (24)](#file-language-dropdown-991)
 
 български (BG) (33.5 KB - PDF)
 

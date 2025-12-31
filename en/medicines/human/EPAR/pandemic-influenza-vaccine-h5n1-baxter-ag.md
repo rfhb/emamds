@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:51:20
+document_datetime: 2025-12-29 14:34:55
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pandemic-influenza-vaccine-h5n1-baxter-ag.html
 document_name: pandemic-influenza-vaccine-h5n1-baxter-ag.html
 version: success
-processing_time: 0.1105252
-conversion_datetime: 2025-12-28 00:29:36.504392
+processing_time: 0.1058407
+conversion_datetime: 2025-12-31 03:35:36.770018
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 pandemic influenza vaccine (H5N1) (whole virion, inactivated, prepared in cell culture) Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -59,7 +61,7 @@ English (EN) (190.78 KB - PDF)
 
 [View](/en/documents/overview/pandemic-influenza-vaccine-h5n1-baxter-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-253)
+[Other languages (22)](#file-language-dropdown-146)
 
 български (BG) (302.71 KB - PDF)
 
@@ -337,7 +339,7 @@ English (EN) (2.32 MB - PDF)
 
 [View](/en/documents/product-information/pandemic-influenza-vaccine-h5n1-baxter-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-743)
+[Other languages (24)](#file-language-dropdown-84)
 
 български (BG) (2.86 MB - PDF)
 
@@ -653,7 +655,7 @@ English (EN) (36.17 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pandemic-influenza-vaccine-h5n1-baxter-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-382)
+[Other languages (24)](#file-language-dropdown-474)
 
 български (BG) (77.58 KB - PDF)
 

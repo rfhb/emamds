@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:25:53
+document_datetime: 2025-12-29 09:50:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dawnzera.html
 document_name: dawnzera.html
 version: success
-processing_time: 0.0554814
-conversion_datetime: 2025-12-28 12:17:48.065524
+processing_time: 0.0368484
+conversion_datetime: 2025-12-31 05:27:05.677685
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 EMA has issued an opinion on this medicine
 
 donidalorsen Medicine Human Opinion
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

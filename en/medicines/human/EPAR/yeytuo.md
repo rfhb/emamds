@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:18:57
+document_datetime: 2025-12-29 08:13:14
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/yeytuo.html
 document_name: yeytuo.html
 version: success
-processing_time: 0.0963713
-conversion_datetime: 2025-12-29 21:23:24.508855
+processing_time: 0.101301
+conversion_datetime: 2025-12-31 04:39:37.566006
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

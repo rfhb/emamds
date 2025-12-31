@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:13:24
+document_datetime: 2025-12-29 10:42:28
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/moventig.html
 document_name: moventig.html
 version: success
-processing_time: 0.1071338
-conversion_datetime: 2025-12-25 11:01:30.11003
+processing_time: 0.1183229
+conversion_datetime: 2025-12-31 03:48:58.215525
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 naloxegol Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (75.81 KB - PDF)
 
 [View](/en/documents/overview/moventig-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-483)
+[Other languages (22)](#file-language-dropdown-103)
 
 български (BG) (103.15 KB - PDF)
 
@@ -398,7 +400,7 @@ English (EN) (331.29 KB - PDF)
 
 [View](/en/documents/product-information/moventig-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-827)
+[Other languages (24)](#file-language-dropdown-865)
 
 български (BG) (492.39 KB - PDF)
 
@@ -714,7 +716,7 @@ English (EN) (84.14 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/moventig-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-754)
+[Other languages (24)](#file-language-dropdown-802)
 
 български (BG) (147.58 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:47
+document_datetime: 2025-12-29 12:27:41
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ritemvia.html
 document_name: ritemvia.html
 version: success
-processing_time: 0.107677
-conversion_datetime: 2025-12-27 22:12:30.741737
+processing_time: 0.1094275
+conversion_datetime: 2025-12-31 07:43:50.487598
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-rituximab
+rituximab Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -72,7 +68,7 @@ English (EN) (745.22 KB - PDF)
 
 [View](/en/documents/overview/ritemvia-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-275)
+[Other languages (22)](#file-language-dropdown-830)
 
 български (BG) (827.66 KB - PDF)
 
@@ -350,7 +346,7 @@ English (EN) (2.76 MB - PDF)
 
 [View](/en/documents/product-information/ritemvia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-166)
+[Other languages (24)](#file-language-dropdown-66)
 
 български (BG) (2.52 MB - PDF)
 
@@ -666,7 +662,7 @@ English (EN) (613.89 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ritemvia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-604)
+[Other languages (24)](#file-language-dropdown-296)
 
 български (BG) (651.55 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:07:54
+document_datetime: 2025-12-29 07:01:01
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cablivi.html
 document_name: cablivi.html
 version: success
-processing_time: 0.1154085
-conversion_datetime: 2025-12-28 09:33:50.307094
+processing_time: 0.1150176
+conversion_datetime: 2025-12-31 03:26:24.532929
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 caplacizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (123.77 KB - PDF)
 
 [View](/en/documents/overview/cablivi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-762)
+[Other languages (22)](#file-language-dropdown-385)
 
 български (BG) (146.66 KB - PDF)
 
@@ -401,7 +403,7 @@ English (EN) (686.58 KB - PDF)
 
 [View](/en/documents/product-information/cablivi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-715)
+[Other languages (24)](#file-language-dropdown-379)
 
 български (BG) (722.15 KB - PDF)
 
@@ -717,7 +719,7 @@ English (EN) (68.8 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-222)
+[Other languages (24)](#file-language-dropdown-801)
 
 български (BG) (47.91 KB - PDF)
 

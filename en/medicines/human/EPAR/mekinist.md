@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:54:34
+document_datetime: 2025-12-29 12:05:22
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mekinist.html
 document_name: mekinist.html
 version: success
-processing_time: 0.126737
-conversion_datetime: 2025-12-27 21:47:57.084408
+processing_time: 0.1243056
+conversion_datetime: 2025-12-31 01:53:00.014765
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 trametinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +123,7 @@ English (EN) (83.5 KB - PDF)
 
 [View](/en/documents/overview/mekinist-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-367)
+[Other languages (22)](#file-language-dropdown-247)
 
 български (BG) (131.37 KB - PDF)
 
@@ -409,7 +411,7 @@ English (EN) (790.41 KB - PDF)
 
 [View](/en/documents/product-information/mekinist-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-112)
+[Other languages (24)](#file-language-dropdown-724)
 
 български (BG) (922.53 KB - PDF)
 
@@ -725,7 +727,7 @@ English (EN) (48.09 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mekinist-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-639)
+[Other languages (24)](#file-language-dropdown-129)
 
 български (BG) (55.55 KB - PDF)
 

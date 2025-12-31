@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 08:04:52
+document_datetime: 2025-12-29 14:01:34
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cayston.html
 document_name: cayston.html
 version: success
-processing_time: 0.1025101
-conversion_datetime: 2025-12-23 21:10:43.510966
+processing_time: 0.2966483
+conversion_datetime: 2025-12-31 03:02:33.20475
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-aztreonam
+aztreonam Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -126,7 +122,7 @@ English (EN) (63.96 KB - PDF)
 
 [View](/en/documents/overview/cayston-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-16)
+[Other languages (21)](#file-language-dropdown-642)
 
 български (BG) (106.33 KB - PDF)
 
@@ -400,7 +396,7 @@ English (EN) (364.67 KB - PDF)
 
 [View](/en/documents/product-information/cayston-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-942)
+[Other languages (24)](#file-language-dropdown-868)
 
 български (BG) (513.81 KB - PDF)
 
@@ -716,7 +712,7 @@ English (EN) (22.1 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cayston-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-148)
+[Other languages (21)](#file-language-dropdown-226)
 
 български (BG) (91.15 KB - PDF)
 

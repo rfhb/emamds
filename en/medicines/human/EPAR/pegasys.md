@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:26
+document_datetime: 2025-12-29 12:11:47
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pegasys.html
 document_name: pegasys.html
 version: success
-processing_time: 0.130976
-conversion_datetime: 2025-12-24 23:56:34.36622
+processing_time: 0.132983
+conversion_datetime: 2025-12-31 01:17:29.782237
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 peginterferon alfa-2a Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -140,7 +142,7 @@ English (EN) (127.29 KB - PDF)
 
 [View](/en/documents/overview/pegasys-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-532)
+[Other languages (22)](#file-language-dropdown-265)
 
 български (BG) (151.63 KB - PDF)
 
@@ -426,7 +428,7 @@ English (EN) (1.08 MB - PDF)
 
 [View](/en/documents/product-information/pegasys-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-744)
+[Other languages (24)](#file-language-dropdown-520)
 
 български (BG) (1.35 MB - PDF)
 
@@ -742,7 +744,7 @@ English (EN) (36.52 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pegasys-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-797)
+[Other languages (24)](#file-language-dropdown-849)
 
 български (BG) (37.9 KB - PDF)
 

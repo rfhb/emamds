@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:59:34
+document_datetime: 2025-12-29 08:11:41
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ifirmasta.html
 document_name: ifirmasta.html
 version: success
-processing_time: 0.1756741
-conversion_datetime: 2025-12-28 10:54:40.362889
+processing_time: 0.1677055
+conversion_datetime: 2025-12-31 02:06:23.004842
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 irbesartan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +106,7 @@ English (EN) (78.69 KB - PDF)
 
 [View](/en/documents/overview/ifirmasta-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-161)
+[Other languages (22)](#file-language-dropdown-32)
 
 български (BG) (109.15 KB - PDF)
 
@@ -382,7 +384,7 @@ English (EN) (286.34 KB - PDF)
 
 [View](/en/documents/product-information/ifirmasta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-985)
+[Other languages (24)](#file-language-dropdown-359)
 
 български (BG) (327.91 KB - PDF)
 
@@ -698,7 +700,7 @@ English (EN) (31.24 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ifirmasta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-481)
+[Other languages (23)](#file-language-dropdown-675)
 
 български (BG) (66.18 KB - PDF)
 
@@ -1042,7 +1044,7 @@ English (EN) (119.28 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-213)
+[Other languages (22)](#file-language-dropdown-400)
 
 български (BG) (145.18 KB - PDF)
 
@@ -1240,7 +1242,7 @@ English (EN) (99.42 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/ifirmasta-h-c-962-a31-0018-epar-scientific-conclusions_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-813)
+[Other languages (22)](#file-language-dropdown-859)
 
 български (BG) (136.15 KB - PDF)
 
@@ -1428,7 +1430,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/ifirmasta-previously-irbesartan-krka-h-c-962-a31-0010-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-diffe_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-947)
+[Other languages (22)](#file-language-dropdown-364)
 
 български (BG) (87.49 KB - PDF)
 
@@ -1756,7 +1758,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:52:54
+document_datetime: 2025-12-29 14:36:11
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kauliv.html
 document_name: kauliv.html
 version: success
-processing_time: 0.1091734
-conversion_datetime: 2025-12-26 17:24:29.326647
+processing_time: 0.109897
+conversion_datetime: 2025-12-31 03:03:57.694901
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 teriparatide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (143.03 KB - PDF)
 
 [View](/en/documents/overview/kauliv-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-388)
+[Other languages (22)](#file-language-dropdown-657)
 
 български (BG) (165.7 KB - PDF)
 
@@ -313,7 +315,7 @@ English (EN) (1.02 MB - PDF)
 
 [View](/en/documents/product-information/kauliv-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-669)
+[Other languages (24)](#file-language-dropdown-607)
 
 български (BG) (1.05 MB - PDF)
 
@@ -629,7 +631,7 @@ English (EN) (47.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kauliv-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-140)
+[Other languages (24)](#file-language-dropdown-690)
 
 български (BG) (55.58 KB - PDF)
 

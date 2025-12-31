@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:37:32
+document_datetime: 2025-12-29 10:24:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/novonorm.html
 document_name: novonorm.html
 version: success
-processing_time: 0.0796698
-conversion_datetime: 2025-12-27 08:59:01.723768
+processing_time: 0.1104522
+conversion_datetime: 2025-12-31 02:48:57.842202
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 repaglinide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (43.41 KB - PDF)
 
 [View](/en/documents/overview/novonorm-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-683)
+[Other languages (21)](#file-language-dropdown-513)
 
 български (BG) (170.52 KB - PDF)
 
@@ -374,7 +376,7 @@ English (EN) (585.41 KB - PDF)
 
 [View](/en/documents/product-information/novonorm-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-712)
+[Other languages (24)](#file-language-dropdown-420)
 
 български (BG) (770.84 KB - PDF)
 
@@ -690,7 +692,7 @@ English (EN) (56.94 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/novonorm-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-607)
+[Other languages (24)](#file-language-dropdown-606)
 
 български (BG) (112.95 KB - PDF)
 

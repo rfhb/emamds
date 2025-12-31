@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:55:04
+document_datetime: 2025-12-29 09:25:11
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/quviviq.html
 document_name: quviviq.html
 version: success
-processing_time: 0.1099118
-conversion_datetime: 2025-12-27 22:57:31.44132
+processing_time: 0.1107205
+conversion_datetime: 2025-12-31 02:04:48.350667
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 daridorexant Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -100,7 +102,7 @@ English (EN) (104.23 KB - PDF)
 
 [View](/en/documents/overview/quviviq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-628)
+[Other languages (22)](#file-language-dropdown-997)
 
 български (BG) (145.65 KB - PDF)
 
@@ -298,7 +300,7 @@ English (EN) (255.32 KB - PDF)
 
 [View](/en/documents/product-information/quviviq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-773)
+[Other languages (24)](#file-language-dropdown-691)
 
 български (BG) (603.31 KB - PDF)
 
@@ -614,7 +616,7 @@ English (EN) (43.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/quviviq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-353)
+[Other languages (24)](#file-language-dropdown-889)
 
 български (BG) (54.79 KB - PDF)
 
@@ -1001,8 +1003,8 @@ English (EN) (3.47 MB - PDF)
 #### More information on Quviviq
 
 - [EMEA-002121-PIP03-19-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002121-pip03-19-m02)
-- [Retrospective, non-interventional multicenter study on the effect of QUVIVIQ in patients with insomnia disorder with comorbid anxiety and/or depression disorders - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000594)
 - [QUVIVIQ® Pregnancy Registry (ID-078A403) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000033)
+- [Retrospective, non-interventional multicenter study on the effect of QUVIVIQ in patients with insomnia disorder with comorbid anxiety and/or depression disorders - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000594)
 - [Post-authorization observational study on the use of QUVIVIQ in standard clinical setting for the treatment of Chronic Insomnia in France - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000363)
 
 **This page was last updated on** 30/04/2025

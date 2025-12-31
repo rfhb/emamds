@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:09:31
+document_datetime: 2025-12-29 12:03:35
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/protaphane.html
 document_name: protaphane.html
 version: success
-processing_time: 0.1087565
-conversion_datetime: 2025-12-24 08:38:09.638007
+processing_time: 0.1113922
+conversion_datetime: 2025-12-31 04:13:25.758118
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin human (rDNA) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (76.37 KB - PDF)
 
 [View](/en/documents/overview/protaphane-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-221)
+[Other languages (21)](#file-language-dropdown-74)
 
 български (BG) (103.86 KB - PDF)
 
@@ -384,7 +386,7 @@ English (EN) (1.07 MB - PDF)
 
 [View](/en/documents/product-information/protaphane-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-58)
+[Other languages (24)](#file-language-dropdown-342)
 
 български (BG) (1.47 MB - PDF)
 
@@ -700,7 +702,7 @@ English (EN) (115.93 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/protaphane-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-870)
+[Other languages (24)](#file-language-dropdown-895)
 
 български (BG) (148.71 KB - PDF)
 

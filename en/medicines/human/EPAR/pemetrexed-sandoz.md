@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:06:06
+document_datetime: 2025-12-29 07:25:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pemetrexed-sandoz.html
 document_name: pemetrexed-sandoz.html
 version: success
-processing_time: 0.5312009
-conversion_datetime: 2025-12-28 18:14:40.275875
+processing_time: 0.1052926
+conversion_datetime: 2025-12-31 01:39:14.274391
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-pemetrexed
+pemetrexed Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (181.53 KB - PDF)
 
 [View](/en/documents/overview/pemetrexed-sandoz-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-186)
+[Other languages (22)](#file-language-dropdown-330)
 
 български (BG) (249.99 KB - PDF)
 
@@ -357,7 +353,7 @@ English (EN) (1.75 MB - PDF)
 
 [View](/en/documents/product-information/pemetrexed-sandoz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-244)
+[Other languages (24)](#file-language-dropdown-897)
 
 български (BG) (3.17 MB - PDF)
 
@@ -673,7 +669,7 @@ English (EN) (59.34 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pemetrexed-sandoz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-605)
+[Other languages (24)](#file-language-dropdown-181)
 
 български (BG) (68.09 KB - PDF)
 

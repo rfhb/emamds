@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:05:44
+document_datetime: 2025-12-29 11:47:27
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rebetol.html
 document_name: rebetol.html
 version: success
-processing_time: 0.1209585
-conversion_datetime: 2025-12-26 10:40:38.737809
+processing_time: 0.1135285
+conversion_datetime: 2025-12-31 03:34:52.353208
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-ribavirin
+ribavirin Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (193.98 KB - PDF)
 
 [View](/en/documents/overview/rebetol-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-245)
+[Other languages (22)](#file-language-dropdown-950)
 
 български (BG) (267.2 KB - PDF)
 
@@ -354,7 +350,7 @@ English (EN) (4.78 MB - PDF)
 
 [View](/en/documents/product-information/rebetol-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-915)
+[Other languages (24)](#file-language-dropdown-239)
 
 български (BG) (6.25 MB - PDF)
 
@@ -670,7 +666,7 @@ English (EN) (37.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rebetol-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-281)
+[Other languages (24)](#file-language-dropdown-999)
 
 български (BG) (129.37 KB - PDF)
 

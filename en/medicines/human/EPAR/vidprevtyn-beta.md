@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:11:18
+document_datetime: 2025-12-29 09:38:58
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vidprevtyn-beta.html
 document_name: vidprevtyn-beta.html
 version: success
-processing_time: 0.1123015
-conversion_datetime: 2025-12-26 17:43:52.959659
+processing_time: 0.1017639
+conversion_datetime: 2025-12-31 07:46:50.514215
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 COVID-19 Vaccine (recombinant, adjuvanted) Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -61,7 +63,7 @@ English (EN) (236.94 KB - PDF)
 
 [View](/en/documents/overview/vidprevtyn-beta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-232)
+[Other languages (22)](#file-language-dropdown-350)
 
 български (BG) (332.14 KB - PDF)
 
@@ -349,7 +351,7 @@ English (EN) (1.33 MB - PDF)
 
 [View](/en/documents/product-information/vidprevtyn-beta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-297)
+[Other languages (24)](#file-language-dropdown-162)
 
 български (BG) (1.71 MB - PDF)
 
@@ -665,7 +667,7 @@ English (EN) (90.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vidprevtyn-beta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-144)
+[Other languages (24)](#file-language-dropdown-826)
 
 български (BG) (118.8 KB - PDF)
 

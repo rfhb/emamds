@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:24
+document_datetime: 2025-12-29 10:11:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/usymro.html
 document_name: usymro.html
 version: success
-processing_time: 0.1070885
-conversion_datetime: 2025-12-28 09:33:58.996805
+processing_time: 0.1068266
+conversion_datetime: 2025-12-31 04:47:23.435002
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ustekinumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (151.33 KB - PDF)
 
 [View](/en/documents/overview/usymro-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-412)
+[Other languages (22)](#file-language-dropdown-847)
 
 български (BG) (176.3 KB - PDF)
 
@@ -313,7 +315,7 @@ English (EN) (2.6 MB - PDF)
 
 [View](/en/documents/product-information/usymro-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-458)
+[Other languages (24)](#file-language-dropdown-241)
 
 български (BG) (2.35 MB - PDF)
 
@@ -627,7 +629,7 @@ English (EN) (19.22 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/usymro-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-429)
+[Other languages (24)](#file-language-dropdown-313)
 
 български (BG) (77.07 KB - PDF)
 

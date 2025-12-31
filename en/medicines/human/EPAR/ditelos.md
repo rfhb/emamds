@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:04:20
+document_datetime: 2025-12-29 10:47:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ditelos.html
 document_name: ditelos.html
 version: success
-processing_time: 0.0483237
-conversion_datetime: 2025-12-28 12:53:23.347961
+processing_time: 0.0500784
+conversion_datetime: 2025-12-31 04:19:02.879468
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

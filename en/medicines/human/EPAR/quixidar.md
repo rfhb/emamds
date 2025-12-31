@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:44:03
+document_datetime: 2025-12-29 07:13:07
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/quixidar.html
 document_name: quixidar.html
 version: success
-processing_time: 0.2581891
-conversion_datetime: 2025-12-29 22:56:42.693654
+processing_time: 0.1045987
+conversion_datetime: 2025-12-31 04:47:14.412342
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

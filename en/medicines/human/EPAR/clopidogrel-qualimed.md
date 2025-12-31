@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:24:13
+document_datetime: 2025-12-29 14:34:47
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-qualimed.html
 document_name: clopidogrel-qualimed.html
 version: success
-processing_time: 0.0816637
-conversion_datetime: 2025-12-29 21:28:12.909111
+processing_time: 0.0860989
+conversion_datetime: 2025-12-31 02:28:57.58935
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

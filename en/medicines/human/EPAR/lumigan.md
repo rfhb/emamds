@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:33:47
+document_datetime: 2025-12-29 13:20:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lumigan.html
 document_name: lumigan.html
 version: success
-processing_time: 0.110664
-conversion_datetime: 2025-12-27 22:09:16.394512
+processing_time: 0.1089629
+conversion_datetime: 2025-12-31 01:47:20.009402
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bimatoprost Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (42.67 KB - PDF)
 
 [View](/en/documents/overview/lumigan-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-76)
+[Other languages (21)](#file-language-dropdown-764)
 
 български (BG) (167.08 KB - PDF)
 
@@ -382,7 +384,7 @@ English (EN) (332.25 KB - PDF)
 
 [View](/en/documents/product-information/lumigan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-226)
+[Other languages (24)](#file-language-dropdown-18)
 
 български (BG) (437.47 KB - PDF)
 
@@ -698,7 +700,7 @@ English (EN) (201.98 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lumigan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-615)
+[Other languages (23)](#file-language-dropdown-978)
 
 български (BG) (141.9 KB - PDF)
 

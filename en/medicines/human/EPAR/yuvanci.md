@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:28:45
+document_datetime: 2025-12-29 12:09:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/yuvanci.html
 document_name: yuvanci.html
 version: success
-processing_time: 0.0965696
-conversion_datetime: 2025-12-27 16:25:06.908153
+processing_time: 0.1006693
+conversion_datetime: 2025-12-31 04:36:57.230211
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 macitentan / tadalafil Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +121,7 @@ English (EN) (123.69 KB - PDF)
 
 [View](/en/documents/overview/yuvanci-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-525)
+[Other languages (22)](#file-language-dropdown-855)
 
 български (BG) (149.71 KB - PDF)
 
@@ -315,7 +317,7 @@ English (EN) (262.97 KB - PDF)
 
 [View](/en/documents/product-information/yuvanci-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-226)
+[Other languages (24)](#file-language-dropdown-534)
 
 български (BG) (309.64 KB - PDF)
 
@@ -533,7 +535,7 @@ English (EN) (29.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/yuvanci-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-469)
+[Other languages (24)](#file-language-dropdown-977)
 
 български (BG) (37.01 KB - PDF)
 

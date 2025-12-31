@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:59:43
+document_datetime: 2025-12-29 07:32:18
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/humira.html
 document_name: humira.html
 version: success
-processing_time: 0.2175931
-conversion_datetime: 2025-12-28 01:36:33.501146
+processing_time: 0.2208836
+conversion_datetime: 2025-12-31 05:26:17.535513
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 adalimumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -134,7 +136,7 @@ English (EN) (105.88 KB - PDF)
 
 [View](/en/documents/overview/humira-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-387)
+[Other languages (22)](#file-language-dropdown-455)
 
 български (BG) (130 KB - PDF)
 
@@ -422,7 +424,7 @@ English (EN) (1.66 MB - PDF)
 
 [View](/en/documents/product-information/humira-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-803)
+[Other languages (24)](#file-language-dropdown-925)
 
 български (BG) (1.91 MB - PDF)
 
@@ -738,7 +740,7 @@ English (EN) (28.58 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/humira-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-53)
+[Other languages (24)](#file-language-dropdown-116)
 
 български (BG) (39.08 KB - PDF)
 
@@ -2109,7 +2111,7 @@ English (EN) (3.09 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/humira-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-399)
+[Other languages (24)](#file-language-dropdown-518)
 
 български (BG) (3.42 MB - DOCX)
 

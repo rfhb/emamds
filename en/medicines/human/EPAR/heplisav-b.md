@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:34:39
+document_datetime: 2025-12-29 11:34:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/heplisav-b.html
 document_name: heplisav-b.html
 version: success
-processing_time: 0.2862329
-conversion_datetime: 2025-12-27 14:45:08.142052
+processing_time: 0.1086732
+conversion_datetime: 2025-12-31 02:37:45.212715
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 hepatitis B surface antigen Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +106,7 @@ English (EN) (110.26 KB - PDF)
 
 [View](/en/documents/overview/heplisav-b-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-405)
+[Other languages (22)](#file-language-dropdown-137)
 
 български (BG) (131.45 KB - PDF)
 
@@ -304,7 +306,7 @@ English (EN) (250.49 KB - PDF)
 
 [View](/en/documents/product-information/heplisav-b-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-477)
+[Other languages (24)](#file-language-dropdown-164)
 
 български (BG) (336.42 KB - PDF)
 
@@ -620,7 +622,7 @@ English (EN) (50.13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/heplisav-b-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-837)
+[Other languages (24)](#file-language-dropdown-339)
 
 български (BG) (106.55 KB - PDF)
 

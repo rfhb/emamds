@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:08:58
+document_datetime: 2025-12-29 13:31:02
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/opfolda.html
 document_name: opfolda.html
 version: success
-processing_time: 0.1136771
-conversion_datetime: 2025-12-24 05:50:06.944893
+processing_time: 0.1052526
+conversion_datetime: 2025-12-31 01:36:47.118496
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 miglustat Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (117.31 KB - PDF)
 
 [View](/en/documents/overview/opfolda-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-166)
+[Other languages (22)](#file-language-dropdown-535)
 
 български (BG) (141.3 KB - PDF)
 
@@ -304,7 +306,7 @@ English (EN) (637.01 KB - PDF)
 
 [View](/en/documents/product-information/opfolda-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-589)
+[Other languages (24)](#file-language-dropdown-207)
 
 български (BG) (738.47 KB - PDF)
 
@@ -618,7 +620,7 @@ English (EN) (49.48 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/opfolda-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-675)
+[Other languages (24)](#file-language-dropdown-81)
 
 български (BG) (65.91 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:38:58
+document_datetime: 2025-12-29 12:01:22
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/siklos.html
 document_name: siklos.html
 version: success
-processing_time: 0.1129739
-conversion_datetime: 2025-12-25 04:24:37.066284
+processing_time: 0.1151516
+conversion_datetime: 2025-12-31 04:18:54.132011
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 hydroxycarbamide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +116,7 @@ English (EN) (79.25 KB - PDF)
 
 [View](/en/documents/overview/siklos-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-279)
+[Other languages (22)](#file-language-dropdown-225)
 
 български (BG) (109.59 KB - PDF)
 
@@ -400,7 +402,7 @@ English (EN) (368.95 KB - PDF)
 
 [View](/en/documents/product-information/siklos-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-868)
+[Other languages (24)](#file-language-dropdown-190)
 
 български (BG) (381.58 KB - PDF)
 
@@ -716,7 +718,7 @@ English (EN) (53.56 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/siklos-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-282)
+[Other languages (23)](#file-language-dropdown-406)
 
 български (BG) (55.18 KB - PDF)
 

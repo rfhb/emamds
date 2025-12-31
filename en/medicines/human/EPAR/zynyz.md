@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:28:18
+document_datetime: 2025-12-29 12:27:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zynyz.html
 document_name: zynyz.html
 version: success
-processing_time: 0.0911355
-conversion_datetime: 2025-12-29 19:36:54.261218
+processing_time: 0.1027065
+conversion_datetime: 2025-12-31 03:50:54.740053
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 retifanlimab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (132.71 KB - PDF)
 
 [View](/en/documents/overview/zynyz-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-66)
+[Other languages (22)](#file-language-dropdown-472)
 
 български (BG) (134.64 KB - PDF)
 
@@ -306,7 +308,7 @@ English (EN) (407.72 KB - PDF)
 
 [View](/en/documents/product-information/zynyz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-723)
+[Other languages (24)](#file-language-dropdown-385)
 
 български (BG) (463.06 KB - PDF)
 
@@ -524,7 +526,7 @@ English (EN) (59.75 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zynyz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-45)
+[Other languages (24)](#file-language-dropdown-323)
 
 български (BG) (56.31 KB - PDF)
 

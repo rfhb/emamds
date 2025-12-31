@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:32:41
+document_datetime: 2025-12-29 14:06:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/memantine-ratiopharm.html
 document_name: memantine-ratiopharm.html
 version: success
-processing_time: 0.1283486
-conversion_datetime: 2025-12-24 04:13:41.145066
+processing_time: 0.1251577
+conversion_datetime: 2025-12-31 07:49:48.048525
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 memantine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (67.97 KB - PDF)
 
 [View](/en/documents/overview/memantine-ratiopharm-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-118)
+[Other languages (21)](#file-language-dropdown-112)
 
 български (BG) (117.8 KB - PDF)
 
@@ -374,7 +376,7 @@ English (EN) (510.63 KB - PDF)
 
 [View](/en/documents/product-information/memantine-ratiopharm-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-1)
+[Other languages (24)](#file-language-dropdown-960)
 
 български (BG) (611.13 KB - PDF)
 
@@ -690,7 +692,7 @@ English (EN) (29.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/memantine-ratiopharm-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-945)
+[Other languages (24)](#file-language-dropdown-1)
 
 български (BG) (51.34 KB - PDF)
 
@@ -1068,7 +1070,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:02:32
+document_datetime: 2025-12-29 14:36:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/halimatoz.html
 document_name: halimatoz.html
 version: success
-processing_time: 0.1069145
-conversion_datetime: 2025-12-27 23:26:46.683002
+processing_time: 0.1147001
+conversion_datetime: 2025-12-31 01:45:47.711229
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-adalimumab
+adalimumab Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -70,7 +66,7 @@ English (EN) (671.76 KB - PDF)
 
 [View](/en/documents/overview/halimatoz-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-561)
+[Other languages (22)](#file-language-dropdown-940)
 
 български (BG) (1.48 MB - PDF)
 
@@ -358,7 +354,7 @@ English (EN) (3.43 MB - PDF)
 
 [View](/en/documents/product-information/halimatoz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-761)
+[Other languages (24)](#file-language-dropdown-30)
 
 български (BG) (6.96 MB - PDF)
 
@@ -674,7 +670,7 @@ English (EN) (605.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/halimatoz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-67)
+[Other languages (24)](#file-language-dropdown-774)
 
 български (BG) (699.15 KB - PDF)
 

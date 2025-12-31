@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:52:43
+document_datetime: 2025-12-29 11:18:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/yorvipath.html
 document_name: yorvipath.html
 version: success
-processing_time: 0.2782062
-conversion_datetime: 2025-12-24 04:58:52.412911
+processing_time: 0.1170075
+conversion_datetime: 2025-12-31 04:36:26.78286
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 palopegteriparatide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +106,7 @@ English (EN) (114.39 KB - PDF)
 
 [View](/en/documents/overview/yorvipath-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-366)
+[Other languages (22)](#file-language-dropdown-855)
 
 български (BG) (131.12 KB - PDF)
 
@@ -302,7 +304,7 @@ English (EN) (1.42 MB - PDF)
 
 [View](/en/documents/product-information/yorvipath-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-383)
+[Other languages (24)](#file-language-dropdown-362)
 
 български (BG) (1.42 MB - PDF)
 
@@ -618,7 +620,7 @@ English (EN) (18.97 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/yorvipath-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-305)
+[Other languages (24)](#file-language-dropdown-657)
 
 български (BG) (41.34 KB - PDF)
 

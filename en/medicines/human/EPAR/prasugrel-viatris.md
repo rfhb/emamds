@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:03:20
+document_datetime: 2025-12-29 11:56:18
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/prasugrel-viatris.html
 document_name: prasugrel-viatris.html
 version: success
-processing_time: 0.1274809
-conversion_datetime: 2025-12-26 18:35:27.888864
+processing_time: 0.1290674
+conversion_datetime: 2025-12-31 01:44:37.199338
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 prasugrel Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +105,7 @@ English (EN) (87.46 KB - PDF)
 
 [View](/en/documents/overview/prasugrel-mylan-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-42)
+[Other languages (22)](#file-language-dropdown-15)
 
 български (BG) (117.97 KB - PDF)
 
@@ -393,7 +395,7 @@ English (EN) (386.44 KB - PDF)
 
 [View](/en/documents/product-information/prasugrel-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-119)
+[Other languages (24)](#file-language-dropdown-850)
 
 български (BG) (585.34 KB - PDF)
 
@@ -709,7 +711,7 @@ English (EN) (52.66 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/prasugrel-viatris-previously-prasugrel-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-654)
+[Other languages (24)](#file-language-dropdown-82)
 
 български (BG) (54.44 KB - PDF)
 
@@ -1107,7 +1109,7 @@ English (EN) (104.62 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/prasugrel-viatris-previously-prasugrel-mylan-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-526)
+[Other languages (24)](#file-language-dropdown-716)
 
 български (BG) (134.2 KB - DOCX)
 

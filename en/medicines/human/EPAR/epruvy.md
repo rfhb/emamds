@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 10:19:39
+document_datetime: 2025-12-29 07:04:18
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/epruvy.html
 document_name: epruvy.html
 version: success
-processing_time: 0.1087665
-conversion_datetime: 2025-12-26 19:16:53.562369
+processing_time: 0.107023
+conversion_datetime: 2025-12-31 05:11:03.596307
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-ranibizumab
+ranibizumab Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +118,7 @@ English (EN) (146.23 KB - PDF)
 
 [View](/en/documents/overview/ranibizumab-midas-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-690)
+[Other languages (22)](#file-language-dropdown-269)
 
 български (BG) (173.01 KB - PDF)
 
@@ -322,7 +318,7 @@ English (EN) (1.36 MB - PDF)
 
 [View](/en/documents/product-information/epruvy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-832)
+[Other languages (24)](#file-language-dropdown-282)
 
 български (BG) (2 MB - PDF)
 
@@ -638,7 +634,7 @@ English (EN) (43.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/epruvy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-399)
+[Other languages (24)](#file-language-dropdown-232)
 
 български (BG) (53.62 KB - PDF)
 

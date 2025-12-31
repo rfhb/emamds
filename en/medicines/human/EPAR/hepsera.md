@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:26:22
+document_datetime: 2025-12-29 08:20:29
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hepsera.html
 document_name: hepsera.html
 version: success
-processing_time: 0.1098643
-conversion_datetime: 2025-12-28 14:53:25.664138
+processing_time: 0.1106272
+conversion_datetime: 2025-12-31 05:27:45.525729
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 adefovir dipivoxil Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -58,7 +60,7 @@ English (EN) (1.22 MB - PDF)
 
 [View](/en/documents/overview/hepsera-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-316)
+[Other languages (21)](#file-language-dropdown-356)
 
 български (BG) (761.8 KB - PDF)
 
@@ -334,7 +336,7 @@ English (EN) (1.09 MB - PDF)
 
 [View](/en/documents/product-information/hepsera-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-700)
+[Other languages (24)](#file-language-dropdown-423)
 
 български (BG) (1.9 MB - PDF)
 
@@ -650,7 +652,7 @@ English (EN) (594.58 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/hepsera-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-341)
+[Other languages (24)](#file-language-dropdown-68)
 
 български (BG) (632.5 KB - PDF)
 

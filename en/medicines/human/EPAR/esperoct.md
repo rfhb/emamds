@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:58:59
+document_datetime: 2025-12-29 10:07:58
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/esperoct.html
 document_name: esperoct.html
 version: success
-processing_time: 0.1154467
-conversion_datetime: 2025-12-28 14:50:22.301288
+processing_time: 0.1119394
+conversion_datetime: 2025-12-31 01:42:19.313374
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 turoctocog alfa pegol Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +123,7 @@ English (EN) (113.03 KB - PDF)
 
 [View](/en/documents/overview/esperoct-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-110)
+[Other languages (22)](#file-language-dropdown-458)
 
 български (BG) (136.89 KB - PDF)
 
@@ -409,7 +411,7 @@ English (EN) (380.79 KB - PDF)
 
 [View](/en/documents/product-information/esperoct-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-155)
+[Other languages (24)](#file-language-dropdown-11)
 
 български (BG) (563.63 KB - PDF)
 
@@ -725,7 +727,7 @@ English (EN) (33.91 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/esperoct-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-780)
+[Other languages (24)](#file-language-dropdown-414)
 
 български (BG) (69.22 KB - PDF)
 

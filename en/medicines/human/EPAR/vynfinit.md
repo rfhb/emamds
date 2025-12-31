@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:02:19
+document_datetime: 2025-12-29 19:03:25
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vynfinit.html
 document_name: vynfinit.html
 version: success
-processing_time: 0.0507118
-conversion_datetime: 2025-12-28 10:54:48.967132
+processing_time: 0.0514582
+conversion_datetime: 2025-12-31 04:19:40.357742
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

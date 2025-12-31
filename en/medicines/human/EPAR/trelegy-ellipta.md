@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:42:05
+document_datetime: 2025-12-29 11:15:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trelegy-ellipta.html
 document_name: trelegy-ellipta.html
 version: success
-processing_time: 0.119233
-conversion_datetime: 2025-12-26 20:16:46.080379
+processing_time: 0.1205328
+conversion_datetime: 2025-12-31 05:15:23.759818
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 fluticasone furoate / umeclidinium / vilanterol Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (70.63 KB - PDF)
 
 [View](/en/documents/overview/trelegy-ellipta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-75)
+[Other languages (22)](#file-language-dropdown-548)
 
 български (BG) (104.16 KB - PDF)
 
@@ -397,7 +399,7 @@ English (EN) (779.04 KB - PDF)
 
 [View](/en/documents/product-information/trelegy-ellipta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-238)
+[Other languages (24)](#file-language-dropdown-744)
 
 български (BG) (893.03 KB - PDF)
 
@@ -713,7 +715,7 @@ English (EN) (23.97 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/trelegy-ellipta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-753)
+[Other languages (24)](#file-language-dropdown-150)
 
 български (BG) (57.47 KB - PDF)
 

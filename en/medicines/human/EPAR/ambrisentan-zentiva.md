@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:06:31
+document_datetime: 2025-12-29 08:09:18
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ambrisentan-zentiva.html
 document_name: ambrisentan-zentiva.html
 version: success
-processing_time: 0.0379687
-conversion_datetime: 2025-12-29 19:21:19.278763
+processing_time: 0.0482247
+conversion_datetime: 2025-12-31 04:13:34.45109
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-ambrisentan
+ambrisentan Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

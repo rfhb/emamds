@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 13:10:51
+document_datetime: 2025-12-29 07:12:15
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/qtrilmet.html
 document_name: qtrilmet.html
 version: success
-processing_time: 0.1075144
-conversion_datetime: 2025-12-28 12:28:47.344156
+processing_time: 0.1081588
+conversion_datetime: 2025-12-31 07:56:09.004709
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-metformin hydrochloride / saxagliptin / dapagliflozin
+metformin hydrochloride / saxagliptin / dapagliflozin Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -72,7 +68,7 @@ English (EN) (579.13 KB - PDF)
 
 [View](/en/documents/overview/qtrilmet-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-552)
+[Other languages (22)](#file-language-dropdown-736)
 
 български (BG) (626.71 KB - PDF)
 
@@ -360,7 +356,7 @@ English (EN) (782.76 KB - PDF)
 
 [View](/en/documents/product-information/qtrilmet-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-420)
+[Other languages (24)](#file-language-dropdown-733)
 
 български (BG) (971.14 KB - PDF)
 
@@ -676,7 +672,7 @@ English (EN) (506.63 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/qtrilmet-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-903)
+[Other languages (24)](#file-language-dropdown-820)
 
 български (BG) (543.35 KB - PDF)
 

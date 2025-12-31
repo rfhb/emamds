@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:00:56
+document_datetime: 2025-12-29 14:05:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kefdensis.html
 document_name: kefdensis.html
 version: success
-processing_time: 0.0431082
-conversion_datetime: 2025-12-26 16:59:47.183346
+processing_time: 0.0442314
+conversion_datetime: 2025-12-31 01:17:00.643358
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 EMA has issued an opinion on this medicine
 
-denosumab
+denosumab Medicine Human Opinion
 
-Medicine
-
-Human
-
-Opinion
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

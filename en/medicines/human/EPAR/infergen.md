@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:06:51
+document_datetime: 2025-12-29 19:03:15
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/infergen.html
 document_name: infergen.html
 version: success
-processing_time: 0.0408922
-conversion_datetime: 2025-12-26 20:57:41.790761
+processing_time: 0.0378022
+conversion_datetime: 2025-12-31 07:44:02.09202
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-interferon alfacon-1
+interferon alfacon-1 Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

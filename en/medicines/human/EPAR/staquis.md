@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:27:30
+document_datetime: 2025-12-29 09:00:29
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/staquis.html
 document_name: staquis.html
 version: success
-processing_time: 0.110643
-conversion_datetime: 2025-12-24 20:06:27.557136
+processing_time: 0.112246
+conversion_datetime: 2025-12-31 02:09:32.806067
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 crisaborole Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -61,7 +63,7 @@ English (EN) (283.45 KB - PDF)
 
 [View](/en/documents/overview/staquis-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-640)
+[Other languages (22)](#file-language-dropdown-907)
 
 български (BG) (328.69 KB - PDF)
 
@@ -349,7 +351,7 @@ English (EN) (824.49 KB - PDF)
 
 [View](/en/documents/product-information/staquis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-58)
+[Other languages (24)](#file-language-dropdown-241)
 
 български (BG) (1.77 MB - PDF)
 
@@ -665,7 +667,7 @@ English (EN) (195.86 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/staquis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-403)
+[Other languages (24)](#file-language-dropdown-240)
 
 български (BG) (201.75 KB - PDF)
 

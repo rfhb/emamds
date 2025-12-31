@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:55
+document_datetime: 2025-12-29 12:41:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/inductos.html
 document_name: inductos.html
 version: success
-processing_time: 0.11994
-conversion_datetime: 2025-12-25 09:52:26.21265
+processing_time: 0.1208296
+conversion_datetime: 2025-12-31 03:30:56.995207
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-dibotermin alfa
+dibotermin alfa Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -136,7 +132,7 @@ English (EN) (569.32 KB - PDF)
 
 [View](/en/documents/overview/inductos-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-641)
+[Other languages (22)](#file-language-dropdown-532)
 
 български (BG) (598.07 KB - PDF)
 
@@ -422,7 +418,7 @@ English (EN) (525.6 KB - PDF)
 
 [View](/en/documents/product-information/inductos-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-50)
+[Other languages (24)](#file-language-dropdown-514)
 
 български (BG) (687.4 KB - PDF)
 
@@ -738,7 +734,7 @@ English (EN) (11.72 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/inductos-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-285)
+[Other languages (24)](#file-language-dropdown-973)
 
 български (BG) (34.58 KB - PDF)
 

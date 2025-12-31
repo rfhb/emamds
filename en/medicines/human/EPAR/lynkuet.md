@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-06 04:51:37
+document_datetime: 2025-12-29 09:03:30
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lynkuet.html
 document_name: lynkuet.html
 version: success
-processing_time: 0.2941714
-conversion_datetime: 2025-12-24 01:36:17.150837
+processing_time: 0.1002833
+conversion_datetime: 2025-12-31 04:32:40.445143
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 elinzanetant Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +107,7 @@ English (EN) (120.42 KB - PDF)
 
 [View](/en/documents/overview/lynkuet-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-227)
+[Other languages (22)](#file-language-dropdown-649)
 
 български (BG) (144.37 KB - PDF)
 
@@ -301,7 +303,7 @@ English (EN) (343.9 KB - PDF)
 
 [View](/en/documents/product-information/lynkuet-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-806)
+[Other languages (24)](#file-language-dropdown-42)
 
 български (BG) (498.12 KB - PDF)
 
@@ -517,7 +519,7 @@ English (EN) (47.8 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lynkuet-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-597)
+[Other languages (24)](#file-language-dropdown-250)
 
 български (BG) (66.49 KB - PDF)
 

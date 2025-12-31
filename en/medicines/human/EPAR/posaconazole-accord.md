@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:05:59
+document_datetime: 2025-12-29 12:01:27
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/posaconazole-accord.html
 document_name: posaconazole-accord.html
 version: success
-processing_time: 0.1417611
-conversion_datetime: 2025-12-28 13:57:00.916049
+processing_time: 0.1414582
+conversion_datetime: 2025-12-31 03:02:41.991295
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 posaconazole Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (200.98 KB - PDF)
 
 [View](/en/documents/overview/posaconazole-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-486)
+[Other languages (22)](#file-language-dropdown-962)
 
 български (BG) (166.66 KB - PDF)
 
@@ -311,7 +313,7 @@ English (EN) (347.15 KB - PDF)
 
 [View](/en/documents/product-information/posaconazole-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-220)
+[Other languages (24)](#file-language-dropdown-651)
 
 български (BG) (804.57 KB - PDF)
 
@@ -625,7 +627,7 @@ English (EN) (19.01 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/posaconazole-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-739)
+[Other languages (24)](#file-language-dropdown-694)
 
 български (BG) (42.2 KB - PDF)
 
@@ -929,7 +931,7 @@ English (EN) (125.8 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/posaconazole-accord-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-499)
+[Other languages (24)](#file-language-dropdown-777)
 
 български (BG) (197.24 KB - DOCX)
 
@@ -1137,7 +1139,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

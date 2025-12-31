@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:13
+document_datetime: 2025-12-29 13:22:41
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/victrelis.html
 document_name: victrelis.html
 version: success
-processing_time: 0.1323549
-conversion_datetime: 2025-12-28 09:33:41.680731
+processing_time: 0.1317769
+conversion_datetime: 2025-12-31 01:44:19.410038
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-boceprevir
+boceprevir Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (513.73 KB - PDF)
 
 [View](/en/documents/overview/victrelis-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-451)
+[Other languages (21)](#file-language-dropdown-850)
 
 български (BG) (617.99 KB - PDF)
 
@@ -333,7 +329,7 @@ English (EN) (1.65 MB - PDF)
 
 [View](/en/documents/product-information/victrelis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-22)
+[Other languages (24)](#file-language-dropdown-439)
 
 български (BG) (2.79 MB - PDF)
 
@@ -649,7 +645,7 @@ English (EN) (497.59 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/victrelis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-856)
+[Other languages (24)](#file-language-dropdown-38)
 
 български (BG) (586.88 KB - PDF)
 
@@ -949,7 +945,7 @@ English (EN) (474.92 KB - PDF)
 
 [View](/en/documents/conditions-member-states/victrelis-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-259)
+[Other languages (23)](#file-language-dropdown-726)
 
 български (BG) (576.41 KB - PDF)
 

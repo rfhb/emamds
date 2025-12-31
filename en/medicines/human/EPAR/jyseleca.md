@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:00:21
+document_datetime: 2025-12-29 12:35:51
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jyseleca.html
 document_name: jyseleca.html
 version: success
-processing_time: 0.1333436
-conversion_datetime: 2025-12-23 21:51:28.041731
+processing_time: 0.1282061
+conversion_datetime: 2025-12-31 02:49:17.370015
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 filgotinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -143,7 +145,7 @@ English (EN) (111.73 KB - PDF)
 
 [View](/en/documents/overview/jyseleca-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-686)
+[Other languages (22)](#file-language-dropdown-354)
 
 български (BG) (127.22 KB - PDF)
 
@@ -429,7 +431,7 @@ English (EN) (566.06 KB - PDF)
 
 [View](/en/documents/product-information/jyseleca-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-198)
+[Other languages (24)](#file-language-dropdown-791)
 
 български (BG) (646.19 KB - PDF)
 
@@ -743,7 +745,7 @@ English (EN) (100.65 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/jyseleca-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-740)
+[Other languages (24)](#file-language-dropdown-457)
 
 български (BG) (74.11 KB - PDF)
 
@@ -987,7 +989,7 @@ English (EN) (139.86 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/jyseleca-h-c-5113-a20-0014-epar-scientific-conclusions-article-20_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-382)
+[Other languages (24)](#file-language-dropdown-295)
 
 български (BG) (203.66 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:37:28
+document_datetime: 2025-12-29 15:55:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kizfizo.html
 document_name: kizfizo.html
 version: success
-processing_time: 0.0615244
-conversion_datetime: 2025-12-27 19:31:36.171537
+processing_time: 0.0604982
+conversion_datetime: 2025-12-31 01:15:10.221495
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine has been refused authorisation
 
 temozolomide Medicine Human Refused
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -98,7 +100,7 @@ English (EN) (119.5 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-answers-refusal-marketing-authorisation-kizfizo-temozolomide_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-341)
+[Other languages (22)](#file-language-dropdown-263)
 
 български (BG) (141.01 KB - PDF)
 

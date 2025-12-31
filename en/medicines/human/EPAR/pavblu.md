@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:25:03
+document_datetime: 2025-12-29 11:24:25
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pavblu.html
 document_name: pavblu.html
 version: success
-processing_time: 0.1068865
-conversion_datetime: 2025-12-28 11:11:54.589225
+processing_time: 0.1059596
+conversion_datetime: 2025-12-31 04:57:21.292471
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 aflibercept Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (103.46 KB - PDF)
 
 [View](/en/documents/overview/pavblu-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-446)
+[Other languages (22)](#file-language-dropdown-611)
 
 български (BG) (171.61 KB - PDF)
 
@@ -316,7 +318,7 @@ English (EN) (1.25 MB - PDF)
 
 [View](/en/documents/product-information/pavblu-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-625)
+[Other languages (24)](#file-language-dropdown-86)
 
 български (BG) (2.23 MB - PDF)
 
@@ -630,7 +632,7 @@ English (EN) (43.43 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pavblu-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-499)
+[Other languages (24)](#file-language-dropdown-478)
 
 български (BG) (47.56 KB - PDF)
 

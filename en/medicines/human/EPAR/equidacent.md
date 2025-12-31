@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:53:08
+document_datetime: 2025-12-29 15:36:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/equidacent.html
 document_name: equidacent.html
 version: success
-processing_time: 0.1084862
-conversion_datetime: 2025-12-28 01:34:41.008723
+processing_time: 0.1105117
+conversion_datetime: 2025-12-31 05:30:49.404154
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 bevacizumab Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +66,7 @@ English (EN) (714.66 KB - PDF)
 
 [View](/en/documents/overview/equidacent-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-353)
+[Other languages (22)](#file-language-dropdown-216)
 
 български (BG) (832.69 KB - PDF)
 
@@ -352,7 +354,7 @@ English (EN) (1.85 MB - PDF)
 
 [View](/en/documents/product-information/equidacent-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-968)
+[Other languages (24)](#file-language-dropdown-658)
 
 български (BG) (3.54 MB - PDF)
 
@@ -668,7 +670,7 @@ English (EN) (582.09 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/equidacent-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-244)
+[Other languages (24)](#file-language-dropdown-599)
 
 български (BG) (812.91 KB - PDF)
 

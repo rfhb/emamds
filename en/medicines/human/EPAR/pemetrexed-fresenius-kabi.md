@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:01:49
+document_datetime: 2025-12-29 11:33:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pemetrexed-fresenius-kabi.html
 document_name: pemetrexed-fresenius-kabi.html
 version: success
-processing_time: 0.1350079
-conversion_datetime: 2025-12-28 17:33:28.758836
+processing_time: 0.1290193
+conversion_datetime: 2025-12-31 01:27:19.851887
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pemetrexed Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (97.36 KB - PDF)
 
 [View](/en/documents/overview/pemetrexed-fresenius-kabi-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-595)
+[Other languages (22)](#file-language-dropdown-38)
 
 български (BG) (124.99 KB - PDF)
 
@@ -389,7 +391,7 @@ English (EN) (1.14 MB - PDF)
 
 [View](/en/documents/product-information/pemetrexed-fresenius-kabi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-103)
+[Other languages (24)](#file-language-dropdown-985)
 
 български (BG) (1.26 MB - PDF)
 
@@ -705,7 +707,7 @@ English (EN) (29.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pemetrexed-fresenius-kabi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-216)
+[Other languages (24)](#file-language-dropdown-619)
 
 български (BG) (52.85 KB - PDF)
 
@@ -1112,7 +1114,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

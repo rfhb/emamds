@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:02:26
+document_datetime: 2025-12-29 14:34:59
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/enviage.html
 document_name: enviage.html
 version: success
-processing_time: 0.0991445
-conversion_datetime: 2025-12-28 00:38:45.171929
+processing_time: 0.1026111
+conversion_datetime: 2025-12-31 05:09:19.70949
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-aliskiren
+aliskiren Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (258.97 KB - PDF)
 
 [View](/en/documents/overview/enviage-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-214)
+[Other languages (21)](#file-language-dropdown-884)
 
 български (BG) (487.52 KB - PDF)
 
@@ -332,7 +328,7 @@ English (EN) (825.37 KB - PDF)
 
 [View](/en/documents/product-information/enviage-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-427)
+[Other languages (23)](#file-language-dropdown-16)
 
 български (BG) (1.88 MB - PDF)
 
@@ -636,7 +632,7 @@ English (EN) (214.1 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/enviage-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-320)
+[Other languages (21)](#file-language-dropdown-872)
 
 български (BG) (295.76 KB - PDF)
 

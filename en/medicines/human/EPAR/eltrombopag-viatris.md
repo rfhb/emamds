@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:16:21
+document_datetime: 2025-12-29 13:13:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eltrombopag-viatris.html
 document_name: eltrombopag-viatris.html
 version: success
-processing_time: 0.1058991
-conversion_datetime: 2025-12-27 23:53:02.32659
+processing_time: 0.3394753
+conversion_datetime: 2025-12-31 03:30:21.707208
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 eltrombopag Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -100,7 +102,7 @@ English (EN) (167 KB - PDF)
 
 [View](/en/documents/overview/eltrombopag-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-577)
+[Other languages (22)](#file-language-dropdown-46)
 
 български (BG) (191.02 KB - PDF)
 
@@ -298,7 +300,7 @@ English (EN) (949.37 KB - PDF)
 
 [View](/en/documents/product-information/eltrombopag-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-829)
+[Other languages (24)](#file-language-dropdown-912)
 
 български (BG) (975.4 KB - PDF)
 
@@ -614,7 +616,7 @@ English (EN) (96.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/eltrombopag-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-792)
+[Other languages (24)](#file-language-dropdown-19)
 
 български (BG) (81.4 KB - PDF)
 

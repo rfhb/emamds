@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-09 23:07:12
+document_datetime: 2025-12-29 11:33:02
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/gilenya.html
 document_name: gilenya.html
 version: success
-processing_time: 0.1681798
-conversion_datetime: 2025-12-24 05:13:26.975821
+processing_time: 0.1512755
+conversion_datetime: 2025-12-31 01:47:28.752988
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 fingolimod Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (81.82 KB - PDF)
 
 [View](/en/documents/overview/gilenya-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-716)
+[Other languages (22)](#file-language-dropdown-390)
 
 български (BG) (116.55 KB - PDF)
 
@@ -398,7 +400,7 @@ English (EN) (414.47 KB - PDF)
 
 [View](/en/documents/product-information/gilenya-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-11)
+[Other languages (24)](#file-language-dropdown-787)
 
 български (BG) (608.38 KB - PDF)
 
@@ -714,7 +716,7 @@ English (EN) (47.06 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/gilenya-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-455)
+[Other languages (24)](#file-language-dropdown-589)
 
 български (BG) (59.1 KB - PDF)
 
@@ -1014,7 +1016,7 @@ English (EN) (211.72 KB - PDF)
 
 [View](/en/documents/conditions-member-states/gilenya-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-448)
+[Other languages (23)](#file-language-dropdown-146)
 
 български (BG) (231.47 KB - PDF)
 
@@ -1609,10 +1611,6 @@ English (EN) (120.1 KB - PDF)
 #### More information on Gilenya
 
 Gilenya: Product Information as approved by the CHMP on 25 July 2019, pending endorsement by the European Commission
-
-Summary:
-
-Product Information as approved by the CHMP on 25 July 2019, pending endorsement by the European Commission
 
 English (EN) (344.47 KB - PDF)
 

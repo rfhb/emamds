@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-09 23:04:39
+document_datetime: 2025-12-29 11:07:31
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dupixent.html
 document_name: dupixent.html
 version: success
-processing_time: 0.1565112
-conversion_datetime: 2025-12-23 20:33:55.591385
+processing_time: 0.1619559
+conversion_datetime: 2025-12-31 03:14:18.088123
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 dupilumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -165,7 +167,7 @@ English (EN) (192.35 KB - PDF)
 
 [View](/en/documents/overview/dupixent-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-402)
+[Other languages (22)](#file-language-dropdown-381)
 
 български (BG) (236.67 KB - PDF)
 
@@ -453,7 +455,7 @@ English (EN) (4.95 MB - PDF)
 
 [View](/en/documents/product-information/dupixent-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-922)
+[Other languages (24)](#file-language-dropdown-213)
 
 български (BG) (7.21 MB - PDF)
 
@@ -769,7 +771,7 @@ English (EN) (50.18 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-373)
+[Other languages (24)](#file-language-dropdown-741)
 
 български (BG) (58.68 KB - PDF)
 
@@ -1634,8 +1636,8 @@ English (EN) (67.6 KB - PDF)
 - [EMEA-001501-PIP11-21 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001501-pip11-21)
 - [Dupixent - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/dupixent-0)
 - [Impact of biologics on inhaled corticosteroids reduction (MOON LIGHT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000855)
-- [Assessing the impact of remission at 12-months post-initiation of biologic therapy on long-term clinical outcomes of patients with severe asthma (SPOTLIGHT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000789)
 - [Sustainability of response to biologics in severe asthma and predictors of late failure among patients in an international registry (SHINE) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000788)
+- [Assessing the impact of remission at 12-months post-initiation of biologic therapy on long-term clinical outcomes of patients with severe asthma (SPOTLIGHT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000789)
 - [Registry of Asthma Patients Initiating DUPIXENT® (RAPID) - post-authorisation study](https://catalogues.ema.europa.eu/study/46244)
 - [Assessing the impact of earlier access to biologics on remission and natural course of asthma (GLEAM) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000530)
 - [A registry-based non-interventional post-authorization safety study to evaluate the long-term safety of dupilumab in children aged ≥6 months to &lt;6 years with moderate-to-severe atopic dermatitis using the PEDISTAD registry: a cohort design - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000149)

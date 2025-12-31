@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 07:06:04
+document_datetime: 2025-12-29 13:29:18
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tyvaso.html
 document_name: tyvaso.html
 version: success
-processing_time: 0.0780076
-conversion_datetime: 2025-12-24 02:38:37.874491
+processing_time: 0.0717598
+conversion_datetime: 2025-12-31 02:46:53.404041
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -97,7 +99,7 @@ English (EN) (52.81 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-tyvaso_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-44)
+[Other languages (21)](#file-language-dropdown-21)
 
 български (BG) (92.17 KB - PDF)
 

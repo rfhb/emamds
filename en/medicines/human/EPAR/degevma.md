@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:54:40
+document_datetime: 2025-12-29 18:14:49
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/degevma.html
 document_name: degevma.html
 version: success
-processing_time: 0.0381423
-conversion_datetime: 2025-12-27 17:14:48.326525
+processing_time: 0.0429441
+conversion_datetime: 2025-12-31 05:06:11.684441
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 EMA has issued an opinion on this medicine
 
-denosumab
+denosumab Medicine Human Opinion
 
-Medicine
-
-Human
-
-Opinion
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:39:22
+document_datetime: 2025-12-29 07:31:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/skysona.html
 document_name: skysona.html
 version: success
-processing_time: 0.11697
-conversion_datetime: 2025-12-24 00:36:07.328845
+processing_time: 0.1088667
+conversion_datetime: 2025-12-31 01:15:19.223372
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 elivaldogene autotemcel Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -62,7 +64,7 @@ English (EN) (719.27 KB - PDF)
 
 [View](/en/documents/overview/skysona-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-413)
+[Other languages (22)](#file-language-dropdown-977)
 
 български (BG) (809.77 KB - PDF)
 
@@ -350,7 +352,7 @@ English (EN) (1.45 MB - PDF)
 
 [View](/en/documents/product-information/skysona-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-398)
+[Other languages (24)](#file-language-dropdown-636)
 
 български (BG) (2.6 MB - PDF)
 
@@ -666,7 +668,7 @@ English (EN) (659.4 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/skysona-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-917)
+[Other languages (24)](#file-language-dropdown-940)
 
 български (BG) (686.79 KB - PDF)
 

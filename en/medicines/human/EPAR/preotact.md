@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:05:59
+document_datetime: 2025-12-29 14:33:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/preotact.html
 document_name: preotact.html
 version: success
-processing_time: 0.104515
-conversion_datetime: 2025-12-24 17:42:17.626606
+processing_time: 0.1030637
+conversion_datetime: 2025-12-31 02:50:37.290771
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 parathyroid hormone (rDNA) Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -58,7 +60,7 @@ English (EN) (521.76 KB - PDF)
 
 [View](/en/documents/overview/preotact-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-436)
+[Other languages (21)](#file-language-dropdown-281)
 
 български (BG) (595.37 KB - PDF)
 
@@ -324,7 +326,7 @@ English (EN) (1.07 MB - PDF)
 
 [View](/en/documents/product-information/preotact-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-4)
+[Other languages (24)](#file-language-dropdown-157)
 
 български (BG) (1.49 MB - PDF)
 
@@ -640,7 +642,7 @@ English (EN) (466.91 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/preotact-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-270)
+[Other languages (23)](#file-language-dropdown-703)
 
 български (BG) (499.44 KB - PDF)
 

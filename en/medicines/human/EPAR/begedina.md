@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:26:52
+document_datetime: 2025-12-29 07:31:26
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/begedina.html
 document_name: begedina.html
 version: success
-processing_time: 0.0697653
-conversion_datetime: 2025-12-25 09:17:46.96998
+processing_time: 0.0660275
+conversion_datetime: 2025-12-31 04:22:59.749224
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +105,7 @@ English (EN) (73.84 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-begedina-begelomab_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-469)
+[Other languages (22)](#file-language-dropdown-136)
 
 български (BG) (98.53 KB - PDF)
 

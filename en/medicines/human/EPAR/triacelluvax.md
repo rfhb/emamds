@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:04:06
+document_datetime: 2025-12-29 07:51:35
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/triacelluvax.html
 document_name: triacelluvax.html
 version: success
-processing_time: 0.0431367
-conversion_datetime: 2025-12-28 05:51:55.20859
+processing_time: 0.0445121
+conversion_datetime: 2025-12-31 02:18:41.402272
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-diphtheria, tetanus and pertussis (acellular, component) vaccine (adsorbed)
+diphtheria, tetanus and pertussis (acellular, component) vaccine (adsorbed) Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

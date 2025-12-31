@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:52:29
+document_datetime: 2025-12-29 09:38:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/olanzapine-glenmark.html
 document_name: olanzapine-glenmark.html
 version: success
-processing_time: 0.1272242
-conversion_datetime: 2025-12-27 19:39:12.119165
+processing_time: 0.1275867
+conversion_datetime: 2025-12-31 02:45:17.761276
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 olanzapine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -102,7 +104,7 @@ English (EN) (73.12 KB - PDF)
 
 [View](/en/documents/overview/olanzapine-glenmark-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-508)
+[Other languages (22)](#file-language-dropdown-73)
 
 български (BG) (102.5 KB - PDF)
 
@@ -380,7 +382,7 @@ English (EN) (1009.7 KB - PDF)
 
 [View](/en/documents/product-information/olanzapine-glenmark-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-291)
+[Other languages (24)](#file-language-dropdown-799)
 
 български (BG) (1.53 MB - PDF)
 
@@ -696,7 +698,7 @@ English (EN) (28.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/olanzapine-glenmark-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-318)
+[Other languages (24)](#file-language-dropdown-990)
 
 български (BG) (58.78 KB - PDF)
 
@@ -1069,7 +1071,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

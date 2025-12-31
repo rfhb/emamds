@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 14:35:08
+document_datetime: 2025-12-29 12:39:38
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jylamvo.html
 document_name: jylamvo.html
 version: success
-processing_time: 0.1468347
-conversion_datetime: 2025-12-26 18:52:51.627168
+processing_time: 0.1515801
+conversion_datetime: 2025-12-31 03:20:30.040196
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-methotrexate
+methotrexate Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +118,7 @@ English (EN) (83.1 KB - PDF)
 
 [View](/en/documents/overview/jylamvo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-657)
+[Other languages (22)](#file-language-dropdown-361)
 
 български (BG) (108.89 KB - PDF)
 
@@ -410,7 +406,7 @@ English (EN) (414.17 KB - PDF)
 
 [View](/en/documents/product-information/jylamvo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-574)
+[Other languages (24)](#file-language-dropdown-841)
 
 български (BG) (534.25 KB - PDF)
 
@@ -726,7 +722,7 @@ English (EN) (17.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/jylamvo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-901)
+[Other languages (24)](#file-language-dropdown-405)
 
 български (BG) (40.41 KB - PDF)
 
@@ -1070,7 +1066,7 @@ English (EN) (48.08 KB - PDF)
 
 [View](/en/documents/referral/methotrexate-article-31-referral-annex-ii_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-484)
+[Other languages (22)](#file-language-dropdown-553)
 
 български (BG) (70.65 KB - PDF)
 
@@ -1362,7 +1358,7 @@ English (EN) (87.56 KB - PDF)
 
 [View](/en/documents/medication-error/jylamvo-healthcare-professionals-receive-educational-guide-ensure-medicine-used-correctly_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-938)
+[Other languages (22)](#file-language-dropdown-652)
 
 български (BG) (110.01 KB - PDF)
 

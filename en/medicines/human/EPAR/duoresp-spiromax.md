@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:52:44
+document_datetime: 2025-12-29 08:47:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/duoresp-spiromax.html
 document_name: duoresp-spiromax.html
 version: success
-processing_time: 0.1300414
-conversion_datetime: 2025-12-27 13:40:49.137922
+processing_time: 0.1328173
+conversion_datetime: 2025-12-31 03:08:59.993015
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 budesonide / formoterol Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (149.69 KB - PDF)
 
 [View](/en/documents/overview/duoresp-spiromax-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-510)
+[Other languages (22)](#file-language-dropdown-900)
 
 български (BG) (176.2 KB - PDF)
 
@@ -396,7 +398,7 @@ English (EN) (865.98 KB - PDF)
 
 [View](/en/documents/product-information/duoresp-spiromax-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-77)
+[Other languages (24)](#file-language-dropdown-851)
 
 български (BG) (896.74 KB - PDF)
 
@@ -712,7 +714,7 @@ English (EN) (26.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/duoresp-spiromax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-613)
+[Other languages (24)](#file-language-dropdown-361)
 
 български (BG) (46.31 KB - PDF)
 
@@ -1099,7 +1101,7 @@ English (EN) (228.27 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/duoresp-spiromax-h-c-2348-a31-1415-epar-assessment-report-article-31_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-495)
+[Other languages (22)](#file-language-dropdown-761)
 
 български (BG) (71.2 KB - PDF)
 

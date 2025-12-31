@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:13
+document_datetime: 2025-12-29 09:04:28
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/thymanax-0.html
 document_name: thymanax-0.html
 version: success
-processing_time: 0.0608884
-conversion_datetime: 2025-12-26 11:07:36.315407
+processing_time: 0.0604008
+conversion_datetime: 2025-12-31 01:46:26.184493
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine has been refused authorisation
 
-agomelatine
+agomelatine Medicine Human Refused
 
-Medicine
-
-Human
-
-Refused
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -60,7 +56,7 @@ English (EN) (34.58 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-recommendation-refusal-marketing-authorization-valdoxanthymanax_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-684)
+[Other languages (20)](#file-language-dropdown-592)
 
 български (BG) (145.5 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:03:07
+document_datetime: 2025-12-29 11:43:34
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/revasc.html
 document_name: revasc.html
 version: success
-processing_time: 0.0967538
-conversion_datetime: 2025-12-27 15:59:23.27801
+processing_time: 0.1020229
+conversion_datetime: 2025-12-31 01:42:54.247218
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-desirudin
+desirudin Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +60,7 @@ English (EN) (149.28 KB - PDF)
 
 [View](/en/documents/overview/revasc-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-240)
+[Other languages (21)](#file-language-dropdown-54)
 
 български (BG) (190.38 KB - PDF)
 
@@ -330,7 +326,7 @@ English (EN) (330.4 KB - PDF)
 
 [View](/en/documents/product-information/revasc-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-15)
+[Other languages (23)](#file-language-dropdown-376)
 
 български (BG) (696.71 KB - PDF)
 
@@ -634,7 +630,7 @@ English (EN) (179.33 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/revasc-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-981)
+[Other languages (21)](#file-language-dropdown-104)
 
 български (BG) (234.71 KB - PDF)
 

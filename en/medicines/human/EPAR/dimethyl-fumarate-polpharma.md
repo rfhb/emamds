@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 14:22:44
+document_datetime: 2025-12-29 12:14:47
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dimethyl-fumarate-polpharma.html
 document_name: dimethyl-fumarate-polpharma.html
 version: success
-processing_time: 0.1052675
-conversion_datetime: 2025-12-24 03:30:39.988646
+processing_time: 0.0981577
+conversion_datetime: 2025-12-31 01:25:36.88429
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been revoked
 
-dimethyl fumarate
+dimethyl fumarate Medicine Human Revoked
 
-Medicine
-
-Human
-
-Revoked
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (215.8 KB - PDF)
 
 [View](/en/documents/overview/dimethyl-fumarate-polpharma-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-551)
+[Other languages (22)](#file-language-dropdown-606)
 
 български (BG) (295.44 KB - PDF)
 
@@ -263,7 +259,7 @@ English (EN) (475.68 KB - PDF)
 
 [View](/en/documents/product-information/dimethyl-fumarate-polpharma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-356)
+[Other languages (24)](#file-language-dropdown-712)
 
 български (BG) (599.15 KB - PDF)
 
@@ -481,7 +477,7 @@ English (EN) (88.44 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/dimethyl-fumarate-polpharma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-811)
+[Other languages (24)](#file-language-dropdown-747)
 
 български (BG) (116.23 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:01:19
+document_datetime: 2025-12-29 11:43:47
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/reasanz.html
 document_name: reasanz.html
 version: success
-processing_time: 0.0658305
-conversion_datetime: 2025-12-25 03:23:55.820772
+processing_time: 0.2341626
+conversion_datetime: 2025-12-31 01:37:57.517169
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine has been refused authorisation
 
 serelaxin Medicine Human Refused
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -95,7 +97,7 @@ English (EN) (91.56 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-refusal-marketing-authorisation-reasanz_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-279)
+[Other languages (22)](#file-language-dropdown-981)
 
 български (BG) (99.64 KB - PDF)
 

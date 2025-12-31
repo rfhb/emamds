@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:27:31
+document_datetime: 2025-12-29 19:00:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cokiera.html
 document_name: cokiera.html
 version: success
-processing_time: 0.0682949
-conversion_datetime: 2025-12-25 03:52:41.829102
+processing_time: 0.0686963
+conversion_datetime: 2025-12-31 03:49:31.838882
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +105,7 @@ English (EN) (74.2 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-cokiera-dasabuvir-ombitasvir-paritaprevir-ritonavir_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-200)
+[Other languages (22)](#file-language-dropdown-671)
 
 български (BG) (98.29 KB - PDF)
 

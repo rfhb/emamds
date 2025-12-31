@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 08:08:58
+document_datetime: 2025-12-29 15:33:38
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dexamethasone-taw.html
 document_name: dexamethasone-taw.html
 version: success
-processing_time: 0.0768417
-conversion_datetime: 2025-12-24 01:48:23.151264
+processing_time: 0.0550808
+conversion_datetime: 2025-12-31 03:48:49.471125
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-dexamethasone phosphate
+dexamethasone phosphate Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -98,7 +94,7 @@ English (EN) (139.71 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-application-marketing-authorisation-dexamethasone-taw-dexamethasone-phosphate_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-873)
+[Other languages (22)](#file-language-dropdown-202)
 
 български (BG) (163.56 KB - PDF)
 

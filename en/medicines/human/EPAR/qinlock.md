@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:52:36
+document_datetime: 2025-12-29 08:50:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/qinlock.html
 document_name: qinlock.html
 version: success
-processing_time: 0.1196997
-conversion_datetime: 2025-12-24 03:21:36.423519
+processing_time: 0.1107563
+conversion_datetime: 2025-12-31 01:14:19.934348
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ripretinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -102,7 +104,7 @@ English (EN) (108.28 KB - PDF)
 
 [View](/en/documents/overview/qinlock-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-623)
+[Other languages (22)](#file-language-dropdown-823)
 
 български (BG) (142.38 KB - PDF)
 
@@ -302,7 +304,7 @@ English (EN) (295.48 KB - PDF)
 
 [View](/en/documents/product-information/qinlock-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-165)
+[Other languages (24)](#file-language-dropdown-852)
 
 български (BG) (420.91 KB - PDF)
 
@@ -616,7 +618,7 @@ English (EN) (39.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/qinlock-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-231)
+[Other languages (24)](#file-language-dropdown-522)
 
 български (BG) (53 KB - PDF)
 

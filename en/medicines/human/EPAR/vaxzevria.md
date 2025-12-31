@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:03:53
+document_datetime: 2025-12-29 11:12:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vaxzevria.html
 document_name: vaxzevria.html
 version: success
-processing_time: 0.3075654
-conversion_datetime: 2025-12-24 18:28:58.72049
+processing_time: 0.3822478
+conversion_datetime: 2025-12-31 04:24:29.892699
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 COVID-19 Vaccine (ChAdOx1-S [recombinant]) Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +69,7 @@ English (EN) (314.66 KB - PDF)
 
 [View](/en/documents/overview/vaxzevria-previously-covid-19-vaccine-astrazeneca-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-277)
+[Other languages (22)](#file-language-dropdown-448)
 
 български (BG) (440.14 KB - PDF)
 
@@ -355,7 +357,7 @@ English (EN) (709.52 KB - PDF)
 
 [View](/en/documents/product-information/vaxzevria-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-775)
+[Other languages (24)](#file-language-dropdown-379)
 
 български (BG) (831.75 KB - PDF)
 
@@ -671,7 +673,7 @@ English (EN) (57.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vaxzevria-previously-covid-19-vaccine-astrazeneca-epar-all-authorised-presentation_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-853)
+[Other languages (24)](#file-language-dropdown-130)
 
 български (BG) (67.56 KB - PDF)
 

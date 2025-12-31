@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:25:10
+document_datetime: 2025-12-29 13:20:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kyntheum.html
 document_name: kyntheum.html
 version: success
-processing_time: 0.1032781
-conversion_datetime: 2025-12-26 18:52:11.68053
+processing_time: 0.1113927
+conversion_datetime: 2025-12-31 07:46:41.661924
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 brodalumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (96.33 KB - PDF)
 
 [View](/en/documents/overview/kyntheum-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-730)
+[Other languages (22)](#file-language-dropdown-386)
 
 български (BG) (103.05 KB - PDF)
 
@@ -401,7 +403,7 @@ English (EN) (3.77 MB - PDF)
 
 [View](/en/documents/product-information/kyntheum-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-106)
+[Other languages (24)](#file-language-dropdown-956)
 
 български (BG) (3.85 MB - PDF)
 
@@ -717,7 +719,7 @@ English (EN) (17.35 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kyntheum-epar-all-authorised-presentations_en.pdf-0)
 
-[Other languages (24)](#file-language-dropdown-692)
+[Other languages (24)](#file-language-dropdown-492)
 
 български (BG) (52.96 KB - PDF)
 

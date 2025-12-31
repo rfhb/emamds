@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 07:02:09
+document_datetime: 2025-12-29 14:35:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lymphoseek.html
 document_name: lymphoseek.html
 version: success
-processing_time: 0.104396
-conversion_datetime: 2025-12-29 21:07:23.796921
+processing_time: 0.1028429
+conversion_datetime: 2025-12-31 02:09:24.051766
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

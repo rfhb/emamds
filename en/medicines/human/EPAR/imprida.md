@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:25:33
+document_datetime: 2025-12-29 14:34:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imprida.html
 document_name: imprida.html
 version: success
-processing_time: 0.1247417
-conversion_datetime: 2025-12-25 03:03:05.841172
+processing_time: 0.1291697
+conversion_datetime: 2025-12-31 02:52:17.97975
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 amlodipine / valsartan Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -60,7 +62,7 @@ English (EN) (541.81 KB - PDF)
 
 [View](/en/documents/overview/imprida-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-743)
+[Other languages (22)](#file-language-dropdown-720)
 
 български (BG) (633.91 KB - PDF)
 
@@ -338,7 +340,7 @@ English (EN) (1.28 MB - PDF)
 
 [View](/en/documents/product-information/imprida-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-684)
+[Other languages (24)](#file-language-dropdown-690)
 
 български (BG) (1.75 MB - PDF)
 
@@ -654,7 +656,7 @@ English (EN) (599.25 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imprida-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-730)
+[Other languages (21)](#file-language-dropdown-29)
 
 български (BG) (736.89 KB - PDF)
 
@@ -970,7 +972,7 @@ English (EN) (527.93 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/imprida-h-c-775-a31-0069-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommenda_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-126)
+[Other languages (22)](#file-language-dropdown-989)
 
 български (BG) (683.53 KB - PDF)
 

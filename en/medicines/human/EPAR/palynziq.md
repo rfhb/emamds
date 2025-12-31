@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 08:05:43
+document_datetime: 2025-12-29 11:41:27
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/palynziq.html
 document_name: palynziq.html
 version: success
-processing_time: 0.099216
-conversion_datetime: 2025-12-24 02:56:41.557788
+processing_time: 0.1099291
+conversion_datetime: 2025-12-31 01:28:03.867137
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-pegvaliase
+pegvaliase Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +110,7 @@ English (EN) (78.4 KB - PDF)
 
 [View](/en/documents/overview/palynziq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-786)
+[Other languages (22)](#file-language-dropdown-291)
 
 български (BG) (104.43 KB - PDF)
 
@@ -314,7 +310,7 @@ English (EN) (838.07 KB - PDF)
 
 [View](/en/documents/product-information/palynziq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-90)
+[Other languages (24)](#file-language-dropdown-622)
 
 български (BG) (1.4 MB - PDF)
 
@@ -628,7 +624,7 @@ English (EN) (22.67 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/palynziq-epar-all-authorised-presentation_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-706)
+[Other languages (24)](#file-language-dropdown-158)
 
 български (BG) (46.09 KB - PDF)
 

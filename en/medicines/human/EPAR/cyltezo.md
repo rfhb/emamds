@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 07:32:04
+document_datetime: 2025-12-29 14:35:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cyltezo.html
 document_name: cyltezo.html
 version: success
-processing_time: 0.0970537
-conversion_datetime: 2025-12-24 02:28:09.195007
+processing_time: 0.1073655
+conversion_datetime: 2025-12-31 03:34:34.959168
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-adalimumab
+adalimumab Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -68,7 +64,7 @@ English (EN) (228.67 KB - PDF)
 
 [View](/en/documents/overview/cyltezo-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-63)
+[Other languages (22)](#file-language-dropdown-922)
 
 български (BG) (303.47 KB - PDF)
 
@@ -346,7 +342,7 @@ English (EN) (1.64 MB - PDF)
 
 [View](/en/documents/product-information/cyltezo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-175)
+[Other languages (24)](#file-language-dropdown-123)
 
 български (BG) (2.79 MB - PDF)
 
@@ -662,7 +658,7 @@ English (EN) (150.29 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cyltezo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-810)
+[Other languages (24)](#file-language-dropdown-444)
 
 български (BG) (162.5 KB - PDF)
 

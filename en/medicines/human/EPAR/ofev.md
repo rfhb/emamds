@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:52:16
+document_datetime: 2025-12-29 09:46:48
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ofev.html
 document_name: ofev.html
 version: success
-processing_time: 0.1283882
-conversion_datetime: 2025-12-27 18:01:21.671785
+processing_time: 0.1185307
+conversion_datetime: 2025-12-31 04:15:42.844606
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 nintedanib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -123,7 +125,7 @@ English (EN) (111.58 KB - PDF)
 
 [View](/en/documents/overview/ofev-epar-medicines-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-268)
+[Other languages (22)](#file-language-dropdown-596)
 
 български (BG) (136.37 KB - PDF)
 
@@ -411,7 +413,7 @@ English (EN) (1.49 MB - PDF)
 
 [View](/en/documents/product-information/ofev-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-762)
+[Other languages (24)](#file-language-dropdown-325)
 
 български (BG) (1.39 MB - PDF)
 
@@ -727,7 +729,7 @@ English (EN) (65.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ofev-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-126)
+[Other languages (24)](#file-language-dropdown-849)
 
 български (BG) (71.77 KB - PDF)
 
@@ -1294,6 +1296,7 @@ Ofev was withdrawn from the Community register of orphan medicinal products in M
 - [EMEA-001006-PIP02-15 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001006-pip02-15)
 - [EMEA-001006-PIP03-16 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001006-pip03-16)
 - [EMEA-001006-PIP05-18-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001006-pip05-18-m01)
+- [Post-marketing Surveillance (PMS) on long term use of Ofev Capsules in Systemic Scleroderma associated Interstitial Lung Disease (SSc-ILD) in Japan (PMS for Ofev (SSc-ILD)) - post-authorisation study](https://catalogues.ema.europa.eu/study/45827)
 - [Post-marketing Surveillance of Ofev Capsules in Chronic (PMS for PF-ILD) - post-authorisation study](https://catalogues.ema.europa.eu/study/40512)
 - [Non-interventional prospective study in patients with pulmonary fibrosis treated with nintedanib participating in a patient support program in Spain, to describe patient satisfaction with the program and to monitor quality of life. BALANCE Study - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000550)
 - [Observational, multicentre, prospective, real-world post-authorization safety study describing the achievement of nintedanib-associated DIArrhoea control after 12 weeks of follow-up in patients with idiopathic puLmonary FIBrosis (IPF) and progressive pulmonary fibrosis (other than IPF) in Spain: the DIALFIB study - post-authorisation study](https://catalogues.ema.europa.eu/study/106525)
@@ -1302,7 +1305,6 @@ Ofev was withdrawn from the Community register of orphan medicinal products in M
 - [Prospective observational investigation of possible correlations between change in FVC and change in cough or dyspnea scores using the living with pulmonary fibrosis questionnaire (L-PF) between baseline and after approximately 52 weeks of nintedanib treatment in patients suffering from chronic fibrosing ILD with a progressive phenotype. (INREAL) - post-authorisation study](https://catalogues.ema.europa.eu/study/46027)
 - [A regulatory requirement non-interventional study to monitor the safety and effectiveness of Ofev (Nintedanib, 150mg/100mg, BID) in Korean patients - post-authorisation study](https://catalogues.ema.europa.eu/study/47414)
 - [A prospective, observational study on the correlations between change in lung function and change in cough and dyspnoea in patients with connective tissue disease-associated progressive fibrosing INTErstitial luNg diseaSE (CTD associated PF-ILD) treated with nintedanib (INTENSE) - post-authorisation study](https://catalogues.ema.europa.eu/study/49654)
-- [Post-marketing Surveillance (PMS) on long term use of Ofev Capsules in Systemic Scleroderma associated Interstitial Lung Disease (SSc-ILD) in Japan (PMS for Ofev (SSc-ILD)) - post-authorisation study](https://catalogues.ema.europa.eu/study/45827)
 - [A Phase I trial to investigate the effect of nintedanib on the pharmacokinetics of a combination of ethinylestradiol and levonorgestrel in female patients with Systemic Sclerosis associated Interstitial Lung Disease (SSc-ILD) (1199-0340) - post-authorisation study](https://catalogues.ema.europa.eu/study/40027)
 - [Non-Interventional Collecting Evidences For ILD in Taiwan: Optimized Novel Therapy (NICEFIT ON) - post-authorisation study](https://catalogues.ema.europa.eu/study/37650)
 - [A multicentre, retrospective chart review study to describe the clinical profile of idiopathic pulmonary fibrosis (IPF) patients treated with nintedanib (OFEV®) in real-world practice in Spain (BROAD) - post-authorisation study](https://catalogues.ema.europa.eu/study/32078)

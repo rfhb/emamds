@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:29:10
+document_datetime: 2025-12-29 10:08:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/telzir.html
 document_name: telzir.html
 version: success
-processing_time: 0.1175644
-conversion_datetime: 2025-12-27 09:05:51.282619
+processing_time: 0.1187518
+conversion_datetime: 2025-12-31 04:28:38.452366
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 fosamprenavir Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +116,7 @@ English (EN) (117.37 KB - PDF)
 
 [View](/en/documents/overview/telzir-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-759)
+[Other languages (22)](#file-language-dropdown-525)
 
 български (BG) (138.92 KB - PDF)
 
@@ -392,7 +394,7 @@ English (EN) (843.1 KB - PDF)
 
 [View](/en/documents/product-information/telzir-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-375)
+[Other languages (24)](#file-language-dropdown-843)
 
 български (BG) (1.03 MB - PDF)
 
@@ -708,7 +710,7 @@ English (EN) (11.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-448)
+[Other languages (24)](#file-language-dropdown-896)
 
 български (BG) (78.96 KB - PDF)
 

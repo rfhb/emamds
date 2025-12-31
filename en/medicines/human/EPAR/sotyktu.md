@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:17:29
+document_datetime: 2025-12-29 09:09:06
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sotyktu.html
 document_name: sotyktu.html
 version: success
-processing_time: 0.1054201
-conversion_datetime: 2025-12-26 13:03:41.749508
+processing_time: 0.10478
+conversion_datetime: 2025-12-31 03:40:52.559681
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 deucravacitinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (122.19 KB - PDF)
 
 [View](/en/documents/overview/sotyktu-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-161)
+[Other languages (22)](#file-language-dropdown-728)
 
 български (BG) (159.65 KB - PDF)
 
@@ -306,7 +308,7 @@ English (EN) (414.94 KB - PDF)
 
 [View](/en/documents/product-information/sotyktu-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-585)
+[Other languages (24)](#file-language-dropdown-601)
 
 български (BG) (380.57 KB - PDF)
 
@@ -620,7 +622,7 @@ English (EN) (49.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sotyktu-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-881)
+[Other languages (24)](#file-language-dropdown-498)
 
 български (BG) (66.39 KB - PDF)
 

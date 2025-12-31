@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-09 23:31:00
+document_datetime: 2025-12-29 12:05:51
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zinplava.html
 document_name: zinplava.html
 version: success
-processing_time: 0.1071616
-conversion_datetime: 2025-12-28 15:47:45.16724
+processing_time: 0.1177306
+conversion_datetime: 2025-12-31 04:11:26.209535
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 bezlotoxumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (115.62 KB - PDF)
 
 [View](/en/documents/overview/zinplava-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-476)
+[Other languages (22)](#file-language-dropdown-888)
 
 български (BG) (227.02 KB - PDF)
 
@@ -397,7 +399,7 @@ English (EN) (270.99 KB - PDF)
 
 [View](/en/documents/product-information/zinplava-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-613)
+[Other languages (24)](#file-language-dropdown-617)
 
 български (BG) (274.9 KB - PDF)
 
@@ -713,7 +715,7 @@ English (EN) (15.53 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zinplava-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-477)
+[Other languages (24)](#file-language-dropdown-6)
 
 български (BG) (22.36 KB - PDF)
 

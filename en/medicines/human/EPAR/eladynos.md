@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:25:30
+document_datetime: 2025-12-29 13:11:18
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eladynos.html
 document_name: eladynos.html
 version: success
-processing_time: 0.1102414
-conversion_datetime: 2025-12-28 12:31:23.610184
+processing_time: 0.1093099
+conversion_datetime: 2025-12-31 01:29:00.63077
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 abaloparatide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (105.26 KB - PDF)
 
 [View](/en/documents/overview/eladynos-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-15)
+[Other languages (22)](#file-language-dropdown-314)
 
 български (BG) (115.95 KB - PDF)
 
@@ -306,7 +308,7 @@ English (EN) (755.35 KB - PDF)
 
 [View](/en/documents/product-information/eladynos-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-137)
+[Other languages (24)](#file-language-dropdown-198)
 
 български (BG) (837.41 KB - PDF)
 
@@ -622,7 +624,7 @@ English (EN) (36.91 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/eladynos-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-153)
+[Other languages (24)](#file-language-dropdown-509)
 
 български (BG) (66.65 KB - PDF)
 

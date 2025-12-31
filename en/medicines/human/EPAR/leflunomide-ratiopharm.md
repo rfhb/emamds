@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 07:08:22
+document_datetime: 2025-12-29 12:26:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/leflunomide-ratiopharm.html
 document_name: leflunomide-ratiopharm.html
 version: success
-processing_time: 0.1194345
-conversion_datetime: 2025-12-29 21:30:14.356054
+processing_time: 0.1241173
+conversion_datetime: 2025-12-31 05:18:32.879678
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

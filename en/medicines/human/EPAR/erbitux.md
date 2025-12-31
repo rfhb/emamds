@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:30:04
+document_datetime: 2025-12-29 11:17:37
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/erbitux.html
 document_name: erbitux.html
 version: success
-processing_time: 0.1501482
-conversion_datetime: 2025-12-24 03:22:08.5299
+processing_time: 0.1357281
+conversion_datetime: 2025-12-31 01:44:45.9198
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 cetuximab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -129,7 +131,7 @@ English (EN) (87.78 KB - PDF)
 
 [View](/en/documents/overview/erbitux-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-810)
+[Other languages (22)](#file-language-dropdown-132)
 
 български (BG) (113.86 KB - PDF)
 
@@ -417,7 +419,7 @@ English (EN) (258.07 KB - PDF)
 
 [View](/en/documents/product-information/erbitux-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-354)
+[Other languages (24)](#file-language-dropdown-939)
 
 български (BG) (398.06 KB - PDF)
 
@@ -733,7 +735,7 @@ English (EN) (19.17 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/erbitux-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-575)
+[Other languages (23)](#file-language-dropdown-346)
 
 български (BG) (109.95 KB - PDF)
 
@@ -1179,7 +1181,7 @@ English (EN) (38.95 KB - PDF)
 
 [View](/en/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-erbitux_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-220)
+[Other languages (21)](#file-language-dropdown-786)
 
 български (BG) (126.63 KB - PDF)
 

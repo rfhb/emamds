@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 12:29:35
+document_datetime: 2025-12-29 15:12:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nouryant.html
 document_name: nouryant.html
 version: success
-processing_time: 0.0665772
-conversion_datetime: 2025-12-27 20:03:50.295331
+processing_time: 0.060516
+conversion_datetime: 2025-12-31 03:22:40.055266
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine has been refused authorisation
 
-istradefylline
+istradefylline Medicine Human Refused
 
-Medicine
-
-Human
-
-Refused
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -94,7 +90,7 @@ English (EN) (111.36 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-refusal-marketing-authorisation-nouryant-istradefylline_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-517)
+[Other languages (22)](#file-language-dropdown-327)
 
 български (BG) (134.49 KB - PDF)
 

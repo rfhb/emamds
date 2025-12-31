@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:27:06
+document_datetime: 2025-12-29 11:43:45
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/raxone.html
 document_name: raxone.html
 version: success
-processing_time: 0.1319143
-conversion_datetime: 2025-12-28 15:02:59.989729
+processing_time: 0.1315001
+conversion_datetime: 2025-12-31 07:33:17.017237
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 idebenone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -121,7 +123,7 @@ English (EN) (77.03 KB - PDF)
 
 [View](/en/documents/overview/raxone-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-82)
+[Other languages (22)](#file-language-dropdown-708)
 
 български (BG) (103.49 KB - PDF)
 
@@ -409,7 +411,7 @@ English (EN) (369.74 KB - PDF)
 
 [View](/en/documents/product-information/raxone-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-146)
+[Other languages (24)](#file-language-dropdown-812)
 
 български (BG) (449.51 KB - PDF)
 
@@ -725,7 +727,7 @@ English (EN) (17.1 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/raxone-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-877)
+[Other languages (24)](#file-language-dropdown-418)
 
 български (BG) (43.45 KB - PDF)
 
@@ -1140,7 +1142,7 @@ English (EN) (106.26 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/raxone-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-177)
+[Other languages (24)](#file-language-dropdown-52)
 
 български (BG) (109.99 KB - DOCX)
 

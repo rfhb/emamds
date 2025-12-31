@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:54:03
+document_datetime: 2025-12-29 09:22:24
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/leqembi.html
 document_name: leqembi.html
 version: success
-processing_time: 0.2550302
-conversion_datetime: 2025-12-23 21:20:41.070658
+processing_time: 0.1254351
+conversion_datetime: 2025-12-31 02:56:33.686035
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lecanemab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (114.42 KB - PDF)
 
 [View](/en/documents/overview/leqembi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-217)
+[Other languages (22)](#file-language-dropdown-158)
 
 български (BG) (140.95 KB - PDF)
 
@@ -315,7 +317,7 @@ English (EN) (327.37 KB - PDF)
 
 [View](/en/documents/product-information/leqembi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-597)
+[Other languages (24)](#file-language-dropdown-30)
 
 български (BG) (441.09 KB - PDF)
 
@@ -629,7 +631,7 @@ English (EN) (54.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/leqembi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-615)
+[Other languages (24)](#file-language-dropdown-582)
 
 български (BG) (91.35 KB - PDF)
 
@@ -831,7 +833,7 @@ English (EN) (69.17 KB - PDF)
 
 [View](/en/documents/conditions-member-states/leqembi-epar-conditions-imposed-member-states-safe-effective-use-annex-127a_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-102)
+[Other languages (25)](#file-language-dropdown-188)
 
 български (BG) (76.66 KB - PDF)
 

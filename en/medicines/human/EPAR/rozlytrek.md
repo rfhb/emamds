@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:20:32
+document_datetime: 2025-12-29 07:16:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rozlytrek.html
 document_name: rozlytrek.html
 version: success
-processing_time: 0.1249026
-conversion_datetime: 2025-12-27 10:05:37.302142
+processing_time: 0.119695
+conversion_datetime: 2025-12-31 04:11:35.138931
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 entrectinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -125,7 +127,7 @@ English (EN) (127.88 KB - PDF)
 
 [View](/en/documents/overview/rozlytrek-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-775)
+[Other languages (22)](#file-language-dropdown-507)
 
 български (BG) (161.38 KB - PDF)
 
@@ -413,7 +415,7 @@ English (EN) (1.38 MB - PDF)
 
 [View](/en/documents/product-information/rozlytrek-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-613)
+[Other languages (24)](#file-language-dropdown-565)
 
 български (BG) (1.53 MB - PDF)
 
@@ -729,7 +731,7 @@ English (EN) (16.07 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rozlytrek-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-112)
+[Other languages (24)](#file-language-dropdown-74)
 
 български (BG) (38.96 KB - PDF)
 

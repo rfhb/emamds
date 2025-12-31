@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:01:42
+document_datetime: 2025-12-29 11:35:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lunsumio.html
 document_name: lunsumio.html
 version: success
-processing_time: 0.1104945
-conversion_datetime: 2025-12-26 21:05:24.307082
+processing_time: 0.1067334
+conversion_datetime: 2025-12-31 04:23:35.405155
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 mosunetuzumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (110.04 KB - PDF)
 
 [View](/en/documents/overview/lunsumio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-872)
+[Other languages (22)](#file-language-dropdown-883)
 
 български (BG) (131.87 KB - PDF)
 
@@ -308,7 +310,7 @@ English (EN) (366.79 KB - PDF)
 
 [View](/en/documents/product-information/lunsumio-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-583)
+[Other languages (23)](#file-language-dropdown-749)
 
 български (BG) (545.85 KB - PDF)
 
@@ -610,7 +612,7 @@ English (EN) (13.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lunsumio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-58)
+[Other languages (24)](#file-language-dropdown-131)
 
 български (BG) (15.82 KB - PDF)
 

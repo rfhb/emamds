@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:47:01
+document_datetime: 2025-12-29 13:25:12
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fulphila-0.html
 document_name: fulphila-0.html
 version: success
-processing_time: 0.0712445
-conversion_datetime: 2025-12-28 11:08:08.731719
+processing_time: 0.0686223
+conversion_datetime: 2025-12-31 01:50:47.107202
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 pegfilgrastim Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (68.45 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-fulphila-pegfilgrastim_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-698)
+[Other languages (22)](#file-language-dropdown-650)
 
 български (BG) (99.68 KB - PDF)
 

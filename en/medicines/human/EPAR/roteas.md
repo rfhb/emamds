@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:38:29
+document_datetime: 2025-12-29 11:24:02
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/roteas.html
 document_name: roteas.html
 version: success
-processing_time: 0.116212
-conversion_datetime: 2025-12-28 05:25:48.664789
+processing_time: 0.1185647
+conversion_datetime: 2025-12-31 02:48:49.094087
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 edoxaban Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +107,7 @@ English (EN) (153.16 KB - PDF)
 
 [View](/en/documents/overview/roteas-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-466)
+[Other languages (22)](#file-language-dropdown-20)
 
 български (BG) (179.2 KB - PDF)
 
@@ -393,7 +395,7 @@ English (EN) (592.26 KB - PDF)
 
 [View](/en/documents/product-information/roteas-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-975)
+[Other languages (24)](#file-language-dropdown-524)
 
 български (BG) (1013 KB - PDF)
 
@@ -709,7 +711,7 @@ English (EN) (30.67 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/roteas-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-449)
+[Other languages (24)](#file-language-dropdown-389)
 
 български (BG) (50.61 KB - PDF)
 

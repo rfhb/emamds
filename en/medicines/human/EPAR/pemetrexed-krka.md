@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:14:16
+document_datetime: 2025-12-29 14:10:54
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pemetrexed-krka.html
 document_name: pemetrexed-krka.html
 version: success
-processing_time: 0.1000579
-conversion_datetime: 2025-12-24 22:02:04.409916
+processing_time: 0.1005218
+conversion_datetime: 2025-12-31 04:32:31.605622
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 pemetrexed Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -63,7 +65,7 @@ English (EN) (190.5 KB - PDF)
 
 [View](/en/documents/overview/pemetrexed-krka-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-339)
+[Other languages (22)](#file-language-dropdown-579)
 
 български (BG) (250.58 KB - PDF)
 
@@ -263,7 +265,7 @@ English (EN) (1.17 MB - PDF)
 
 [View](/en/documents/product-information/pemetrexed-krka-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-907)
+[Other languages (24)](#file-language-dropdown-553)
 
 български (BG) (1.81 MB - PDF)
 
@@ -483,7 +485,7 @@ English (EN) (49.86 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pemetrexed-krka-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-898)
+[Other languages (24)](#file-language-dropdown-638)
 
 български (BG) (68.99 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:56
+document_datetime: 2025-12-29 10:15:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trudexa.html
 document_name: trudexa.html
 version: success
-processing_time: 0.1061982
-conversion_datetime: 2025-12-27 21:37:58.055774
+processing_time: 0.1050167
+conversion_datetime: 2025-12-31 05:30:40.472987
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-adalimumab
+adalimumab Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +60,7 @@ English (EN) (250.38 KB - PDF)
 
 [View](/en/documents/overview/trudexa-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-189)
+[Other languages (21)](#file-language-dropdown-507)
 
 български (BG) (427.75 KB - PDF)
 
@@ -330,7 +326,7 @@ English (EN) (1.25 MB - PDF)
 
 [View](/en/documents/product-information/trudexa-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-270)
+[Other languages (21)](#file-language-dropdown-371)
 
 български (BG) (2.4 MB - PDF)
 
@@ -610,7 +606,7 @@ English (EN) (229.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/trudexa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-562)
+[Other languages (18)](#file-language-dropdown-898)
 
 español (ES) (229.96 KB - PDF)
 

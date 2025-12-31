@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:45:59
+document_datetime: 2025-12-29 12:16:11
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jorveza.html
 document_name: jorveza.html
 version: success
-processing_time: 0.1205614
-conversion_datetime: 2025-12-24 01:21:45.431089
+processing_time: 0.1205835
+conversion_datetime: 2025-12-31 02:10:47.122064
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 budesonide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (116.76 KB - PDF)
 
 [View](/en/documents/overview/jorveza-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-754)
+[Other languages (22)](#file-language-dropdown-262)
 
 български (BG) (121.48 KB - PDF)
 
@@ -399,7 +401,7 @@ English (EN) (212.29 KB - PDF)
 
 [View](/en/documents/product-information/jorveza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-360)
+[Other languages (24)](#file-language-dropdown-797)
 
 български (BG) (302.17 KB - PDF)
 
@@ -715,7 +717,7 @@ English (EN) (26.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/jorveza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-155)
+[Other languages (24)](#file-language-dropdown-523)
 
 български (BG) (46.01 KB - PDF)
 

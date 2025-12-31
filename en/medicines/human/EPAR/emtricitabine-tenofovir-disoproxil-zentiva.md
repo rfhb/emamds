@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:47:08
+document_datetime: 2025-12-29 12:46:05
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/emtricitabine-tenofovir-disoproxil-zentiva.html
 document_name: emtricitabine-tenofovir-disoproxil-zentiva.html
 version: success
-processing_time: 0.1299254
-conversion_datetime: 2025-12-24 22:48:22.052175
+processing_time: 0.1260887
+conversion_datetime: 2025-12-31 02:45:37.369058
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 emtricitabine / tenofovir disoproxil Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (79.9 KB - PDF)
 
 [View](/en/documents/overview/emtricitabinetenofovir-disoproxil-zentiva-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-287)
+[Other languages (22)](#file-language-dropdown-179)
 
 български (BG) (109.22 KB - PDF)
 
@@ -400,7 +402,7 @@ English (EN) (415.49 KB - PDF)
 
 [View](/en/documents/product-information/emtricitabine-tenofovir-disoproxil-zentiva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-808)
+[Other languages (24)](#file-language-dropdown-600)
 
 български (BG) (577.26 KB - PDF)
 
@@ -716,7 +718,7 @@ English (EN) (47.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/emtricitabinetenofovir-disoproxil-zentiva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-9)
+[Other languages (24)](#file-language-dropdown-327)
 
 български (BG) (57 KB - PDF)
 
@@ -1126,7 +1128,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

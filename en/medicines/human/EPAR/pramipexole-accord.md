@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 14:51:47
+document_datetime: 2025-12-29 07:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pramipexole-accord.html
 document_name: pramipexole-accord.html
 version: success
-processing_time: 0.0953888
-conversion_datetime: 2025-12-24 22:52:34.693495
+processing_time: 0.1050663
+conversion_datetime: 2025-12-31 03:35:54.212782
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-pramipexole
+pramipexole Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -68,7 +64,7 @@ English (EN) (146.77 KB - PDF)
 
 [View](/en/documents/overview/pramipexole-accord-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-968)
+[Other languages (22)](#file-language-dropdown-139)
 
 български (BG) (208.42 KB - PDF)
 
@@ -346,7 +342,7 @@ English (EN) (1.23 MB - PDF)
 
 [View](/en/documents/product-information/pramipexole-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-21)
+[Other languages (24)](#file-language-dropdown-68)
 
 български (BG) (1.78 MB - PDF)
 
@@ -662,7 +658,7 @@ English (EN) (43.27 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pramipexole-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-817)
+[Other languages (24)](#file-language-dropdown-976)
 
 български (BG) (89.32 KB - PDF)
 

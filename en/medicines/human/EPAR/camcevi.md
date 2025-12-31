@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:14:57
+document_datetime: 2025-12-29 07:00:07
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/camcevi.html
 document_name: camcevi.html
 version: success
-processing_time: 0.0748928
-conversion_datetime: 2025-12-24 07:53:26.731934
+processing_time: 0.1059278
+conversion_datetime: 2025-12-31 04:10:59.777964
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 leuprorelin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +105,7 @@ English (EN) (137.22 KB - PDF)
 
 [View](/en/documents/overview/camcevi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-613)
+[Other languages (22)](#file-language-dropdown-733)
 
 български (BG) (141.03 KB - PDF)
 
@@ -301,7 +303,7 @@ English (EN) (411.11 KB - PDF)
 
 [View](/en/documents/product-information/camcevi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-201)
+[Other languages (24)](#file-language-dropdown-760)
 
 български (BG) (447.38 KB - PDF)
 
@@ -615,7 +617,7 @@ English (EN) (43.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/camcevi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-163)
+[Other languages (24)](#file-language-dropdown-766)
 
 български (BG) (51.76 KB - PDF)
 

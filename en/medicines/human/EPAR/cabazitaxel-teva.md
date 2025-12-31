@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:38
+document_datetime: 2025-12-29 08:25:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cabazitaxel-teva.html
 document_name: cabazitaxel-teva.html
 version: success
-processing_time: 0.066199
-conversion_datetime: 2025-12-25 06:22:41.682679
+processing_time: 0.0661675
+conversion_datetime: 2025-12-31 01:51:34.69861
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine has been refused authorisation
 
-cabazitaxel
+cabazitaxel Medicine Human Refused
 
-Medicine
-
-Human
-
-Refused
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +99,7 @@ English (EN) (98.51 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-refusal-marketing-authorisation-cabazitaxel-teva-cabazitaxel_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-149)
+[Other languages (22)](#file-language-dropdown-326)
 
 български (BG) (131.14 KB - PDF)
 

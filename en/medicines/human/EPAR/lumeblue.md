@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:12:13
+document_datetime: 2025-12-29 11:32:12
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lumeblue.html
 document_name: lumeblue.html
 version: success
-processing_time: 0.1163604
-conversion_datetime: 2025-12-27 16:16:03.292169
+processing_time: 0.1112656
+conversion_datetime: 2025-12-31 05:15:32.6586
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 methylthioninium chloride Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (121.25 KB - PDF)
 
 [View](/en/documents/overview/methylthioninium-chloride-cosmo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-55)
+[Other languages (22)](#file-language-dropdown-878)
 
 български (BG) (138.44 KB - PDF)
 
@@ -392,7 +394,7 @@ English (EN) (391.83 KB - PDF)
 
 [View](/en/documents/product-information/lumeblue-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-699)
+[Other languages (24)](#file-language-dropdown-171)
 
 български (BG) (532.61 KB - PDF)
 
@@ -708,7 +710,7 @@ English (EN) (52.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lumeblue-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-775)
+[Other languages (24)](#file-language-dropdown-564)
 
 български (BG) (47.37 KB - PDF)
 

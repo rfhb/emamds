@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 08:04:01
+document_datetime: 2025-12-29 08:32:14
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/elmisol.html
 document_name: elmisol.html
 version: success
-processing_time: 0.0778358
-conversion_datetime: 2025-12-23 22:05:51.879364
+processing_time: 0.0706738
+conversion_datetime: 2025-12-31 03:21:22.223445
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +102,7 @@ English (EN) (74.96 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-elmisol-levamisole_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-887)
+[Other languages (22)](#file-language-dropdown-244)
 
 български (BG) (94.59 KB - PDF)
 

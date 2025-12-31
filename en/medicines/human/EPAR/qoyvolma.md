@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:20:02
+document_datetime: 2025-12-29 11:09:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/qoyvolma.html
 document_name: qoyvolma.html
 version: success
-processing_time: 0.1109554
-conversion_datetime: 2025-12-25 06:26:36.058771
+processing_time: 0.1092187
+conversion_datetime: 2025-12-31 04:14:42.443929
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ustekinumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Qoyvolma
 
@@ -118,7 +120,7 @@ English (EN) (135.42 KB - PDF)
 
 [View](/en/documents/overview/qoyvolma-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-558)
+[Other languages (22)](#file-language-dropdown-201)
 
 български (BG) (163.22 KB - PDF)
 
@@ -406,7 +408,7 @@ English (EN) (1.82 MB - PDF)
 
 [View](/en/documents/product-information/qoyvolma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-673)
+[Other languages (24)](#file-language-dropdown-661)
 
 български (BG) (1.98 MB - PDF)
 
@@ -720,7 +722,7 @@ English (EN) (62.8 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/qoyvolma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-12)
+[Other languages (24)](#file-language-dropdown-86)
 
 български (BG) (67.9 KB - PDF)
 

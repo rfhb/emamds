@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:07:22
+document_datetime: 2025-12-29 08:01:57
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sugammadex-fresenius-kabi.html
 document_name: sugammadex-fresenius-kabi.html
 version: success
-processing_time: 0.1073961
-conversion_datetime: 2025-12-28 14:47:02.627788
+processing_time: 0.1051124
+conversion_datetime: 2025-12-31 04:51:19.168092
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sugammadex Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -97,7 +99,7 @@ English (EN) (144.33 KB - PDF)
 
 [View](/en/documents/overview/sugammadex-fresenius-kabi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-246)
+[Other languages (22)](#file-language-dropdown-681)
 
 български (BG) (157.88 KB - PDF)
 
@@ -297,7 +299,7 @@ English (EN) (432.75 KB - PDF)
 
 [View](/en/documents/product-information/sugammadex-fresenius-kabi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-86)
+[Other languages (24)](#file-language-dropdown-165)
 
 български (BG) (523.04 KB - PDF)
 
@@ -611,7 +613,7 @@ English (EN) (42.48 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sugammadex-fresenius-kabi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-636)
+[Other languages (24)](#file-language-dropdown-484)
 
 български (BG) (49.59 KB - PDF)
 

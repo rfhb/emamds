@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:58:53
+document_datetime: 2025-12-29 11:07:49
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/beyfortus.html
 document_name: beyfortus.html
 version: success
-processing_time: 0.1301518
-conversion_datetime: 2025-12-28 04:01:14.28938
+processing_time: 0.1287206
+conversion_datetime: 2025-12-31 03:38:16.783433
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 nirsevimab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (100.35 KB - PDF)
 
 [View](/en/documents/overview/beyfortus-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-959)
+[Other languages (22)](#file-language-dropdown-408)
 
 български (BG) (179.21 KB - PDF)
 
@@ -309,7 +311,7 @@ English (EN) (374.97 KB - PDF)
 
 [View](/en/documents/product-information/beyfortus-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-6)
+[Other languages (24)](#file-language-dropdown-812)
 
 български (BG) (521.32 KB - PDF)
 
@@ -623,7 +625,7 @@ English (EN) (25.07 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/beyfortus-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-729)
+[Other languages (24)](#file-language-dropdown-233)
 
 български (BG) (30.06 KB - PDF)
 
@@ -955,7 +957,7 @@ English (EN) (196.38 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/beyfortus-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-880)
+[Other languages (24)](#file-language-dropdown-685)
 
 български (BG) (186.88 KB - DOCX)
 

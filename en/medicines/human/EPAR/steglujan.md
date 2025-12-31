@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:38:52
+document_datetime: 2025-12-29 07:35:41
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/steglujan.html
 document_name: steglujan.html
 version: success
-processing_time: 0.102726
-conversion_datetime: 2025-12-25 11:47:42.889117
+processing_time: 0.1116203
+conversion_datetime: 2025-12-31 04:47:05.20541
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ertugliflozin / sitagliptin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (122.43 KB - PDF)
 
 [View](/en/documents/overview/steglujan-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-460)
+[Other languages (22)](#file-language-dropdown-257)
 
 български (BG) (103.64 KB - PDF)
 
@@ -404,7 +406,7 @@ English (EN) (504.17 KB - PDF)
 
 [View](/en/documents/product-information/steglujan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-807)
+[Other languages (24)](#file-language-dropdown-13)
 
 български (BG) (451.16 KB - PDF)
 
@@ -720,7 +722,7 @@ English (EN) (54.63 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/steglujan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-466)
+[Other languages (24)](#file-language-dropdown-625)
 
 български (BG) (56.35 KB - PDF)
 

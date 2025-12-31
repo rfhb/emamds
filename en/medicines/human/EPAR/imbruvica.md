@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:54:06
+document_datetime: 2025-12-29 11:42:16
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imbruvica.html
 document_name: imbruvica.html
 version: success
-processing_time: 0.1642747
-conversion_datetime: 2025-12-29 22:18:29.476187
+processing_time: 0.1632373
+conversion_datetime: 2025-12-31 03:05:24.315078
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

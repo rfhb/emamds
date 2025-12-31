@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-21 11:08:37
+document_datetime: 2025-12-29 12:25:22
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jelrix.html
 document_name: jelrix.html
 version: success
-processing_time: 0.0447819
-conversion_datetime: 2025-12-27 13:29:22.984887
+processing_time: 0.0353572
+conversion_datetime: 2025-12-31 02:04:56.992059
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

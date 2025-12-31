@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:59:58
+document_datetime: 2025-12-29 14:36:17
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nyxthracis.html
 document_name: nyxthracis.html
 version: success
-processing_time: 0.1095731
-conversion_datetime: 2025-12-27 19:28:51.129372
+processing_time: 0.1101979
+conversion_datetime: 2025-12-31 04:53:04.719269
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 obiltoxaximab Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -62,7 +64,7 @@ English (EN) (206.75 KB - PDF)
 
 [View](/en/documents/overview/obiltoxaximab-sfl-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-152)
+[Other languages (22)](#file-language-dropdown-953)
 
 български (BG) (269.92 KB - PDF)
 
@@ -350,7 +352,7 @@ English (EN) (1.02 MB - PDF)
 
 [View](/en/documents/product-information/nyxthracis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-749)
+[Other languages (24)](#file-language-dropdown-587)
 
 български (BG) (1.39 MB - PDF)
 
@@ -666,7 +668,7 @@ English (EN) (72.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nyxthracis-previously-obiltoxaximab-sfl-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-284)
+[Other languages (24)](#file-language-dropdown-667)
 
 български (BG) (87.47 KB - PDF)
 

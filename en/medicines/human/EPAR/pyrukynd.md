@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:20:12
+document_datetime: 2025-12-29 12:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pyrukynd.html
 document_name: pyrukynd.html
 version: success
-processing_time: 0.0939256
-conversion_datetime: 2025-12-28 09:34:35.229299
+processing_time: 0.1046882
+conversion_datetime: 2025-12-31 05:20:29.294139
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 mitapivat Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (119.47 KB - PDF)
 
 [View](/en/documents/overview/pyrukynd-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-615)
+[Other languages (22)](#file-language-dropdown-766)
 
 български (BG) (146.51 KB - PDF)
 
@@ -302,7 +304,7 @@ English (EN) (827.36 KB - PDF)
 
 [View](/en/documents/product-information/pyrukynd-epar-product-information_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-4)
+[Other languages (25)](#file-language-dropdown-414)
 
 български (BG) (919.19 KB - PDF)
 
@@ -528,7 +530,7 @@ English (EN) (39.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pyrukynd-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-523)
+[Other languages (25)](#file-language-dropdown-561)
 
 български (BG) (50.17 KB - PDF)
 
@@ -817,7 +819,7 @@ English (EN) (127.72 KB - PDF)
 
 - [EU/3/20/2270 - orphan designation for treatment of pyruvate kinase deficiency](/en/medicines/human/orphan-designations/eu-3-20-2270)
 - [EMEA-002684-PIP01-19-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002684-pip01-19-m01)
-- [EMEA-002684-PIP02-21 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002684-pip02-21)
+- [EMA/PE/0000238074 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000238074)
 - [Pyrukynd - opinion on variation to marketing authorisation](/en/medicines/human/variation/pyrukynd)
 
 **This page was last updated on** 05/12/2022

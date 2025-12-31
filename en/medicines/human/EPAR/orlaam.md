@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:04:30
+document_datetime: 2025-12-29 13:17:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/orlaam.html
 document_name: orlaam.html
 version: success
-processing_time: 0.0437338
-conversion_datetime: 2025-12-26 17:10:10.266123
+processing_time: 0.0446682
+conversion_datetime: 2025-12-31 01:34:55.947296
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-levacetylmethadol
+levacetylmethadol Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

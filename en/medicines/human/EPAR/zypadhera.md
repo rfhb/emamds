@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:00:34
+document_datetime: 2025-12-29 11:37:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zypadhera.html
 document_name: zypadhera.html
 version: success
-processing_time: 0.1181523
-conversion_datetime: 2025-12-26 09:45:50.030938
+processing_time: 0.1262219
+conversion_datetime: 2025-12-31 02:36:31.786916
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 olanzapine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +122,7 @@ English (EN) (63.01 KB - PDF)
 
 [View](/en/documents/overview/zypadhera-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-193)
+[Other languages (21)](#file-language-dropdown-194)
 
 български (BG) (98.63 KB - PDF)
 
@@ -386,7 +388,7 @@ English (EN) (655.45 KB - PDF)
 
 [View](/en/documents/product-information/zypadhera-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-695)
+[Other languages (24)](#file-language-dropdown-310)
 
 български (BG) (821.86 KB - PDF)
 
@@ -702,7 +704,7 @@ English (EN) (58.89 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zypadhera-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-134)
+[Other languages (24)](#file-language-dropdown-423)
 
 български (BG) (55.16 KB - PDF)
 
@@ -1002,7 +1004,7 @@ English (EN) (30.64 KB - PDF)
 
 [View](/en/documents/conditions-member-states/zypadhera-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-848)
+[Other languages (21)](#file-language-dropdown-350)
 
 български (BG) (92.42 KB - PDF)
 

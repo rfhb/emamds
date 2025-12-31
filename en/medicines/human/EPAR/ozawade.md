@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:28:14
+document_datetime: 2025-12-29 12:08:34
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ozawade.html
 document_name: ozawade.html
 version: success
-processing_time: 0.1035925
-conversion_datetime: 2025-12-27 17:15:19.41023
+processing_time: 0.1080975
+conversion_datetime: 2025-12-31 03:30:12.903757
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pitolisant Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (129.15 KB - PDF)
 
 [View](/en/documents/overview/ozawade-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-762)
+[Other languages (22)](#file-language-dropdown-968)
 
 български (BG) (155.98 KB - PDF)
 
@@ -304,7 +306,7 @@ English (EN) (496.46 KB - PDF)
 
 [View](/en/documents/product-information/ozawade-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-98)
+[Other languages (24)](#file-language-dropdown-154)
 
 български (BG) (575.06 KB - PDF)
 
@@ -620,7 +622,7 @@ English (EN) (41.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ozawade-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-147)
+[Other languages (23)](#file-language-dropdown-50)
 
 български (BG) (69.44 KB - PDF)
 

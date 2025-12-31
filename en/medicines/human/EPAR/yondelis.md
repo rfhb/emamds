@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:26:43
+document_datetime: 2025-12-29 13:12:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/yondelis.html
 document_name: yondelis.html
 version: success
-processing_time: 0.1364242
-conversion_datetime: 2025-12-27 23:01:54.556838
+processing_time: 0.1344836
+conversion_datetime: 2025-12-31 01:25:19.36592
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 trabectedin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -125,7 +127,7 @@ English (EN) (107.42 KB - PDF)
 
 [View](/en/documents/overview/yondelis-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-391)
+[Other languages (22)](#file-language-dropdown-784)
 
 български (BG) (139.3 KB - PDF)
 
@@ -413,7 +415,7 @@ English (EN) (503.28 KB - PDF)
 
 [View](/en/documents/product-information/yondelis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-382)
+[Other languages (24)](#file-language-dropdown-262)
 
 български (BG) (617.96 KB - PDF)
 
@@ -729,7 +731,7 @@ English (EN) (20.49 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/yondelis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-882)
+[Other languages (24)](#file-language-dropdown-541)
 
 български (BG) (42.36 KB - PDF)
 
@@ -1086,7 +1088,7 @@ English (EN) (92.35 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/yondelis-epar-scientific-conclusions-article-20_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-303)
+[Other languages (22)](#file-language-dropdown-978)
 
 български (BG) (172.84 KB - PDF)
 

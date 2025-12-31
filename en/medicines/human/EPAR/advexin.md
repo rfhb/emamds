@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:13
+document_datetime: 2025-12-29 08:18:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/advexin.html
 document_name: advexin.html
 version: success
-processing_time: 0.0688918
-conversion_datetime: 2025-12-25 06:21:35.324375
+processing_time: 0.0691345
+conversion_datetime: 2025-12-31 03:48:10.365108
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +104,7 @@ English (EN) (37.42 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-application-advexin_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-681)
+[Other languages (21)](#file-language-dropdown-975)
 
 български (BG) (145.23 KB - PDF)
 

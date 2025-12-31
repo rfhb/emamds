@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:09:30
+document_datetime: 2025-12-29 14:59:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/doxolipad.html
 document_name: doxolipad.html
 version: success
-processing_time: 0.0680874
-conversion_datetime: 2025-12-25 12:36:12.712279
+processing_time: 0.0681175
+conversion_datetime: 2025-12-31 03:26:59.665999
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine has been refused authorisation
 
-doxorubicin
+doxorubicin Medicine Human Refused
 
-Medicine
-
-Human
-
-Refused
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +105,7 @@ English (EN) (112.87 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-refusal-marketing-authorisation-doxolipad-doxorubicin_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-309)
+[Other languages (22)](#file-language-dropdown-843)
 
 български (BG) (133.63 KB - PDF)
 

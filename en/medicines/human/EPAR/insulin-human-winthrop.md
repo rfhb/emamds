@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:27:30
+document_datetime: 2025-12-29 14:34:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/insulin-human-winthrop.html
 document_name: insulin-human-winthrop.html
 version: success
-processing_time: 0.1031169
-conversion_datetime: 2025-12-24 23:57:05.320946
+processing_time: 0.1037151
+conversion_datetime: 2025-12-31 01:23:15.996311
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 insulin human Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -60,7 +62,7 @@ English (EN) (499.05 KB - PDF)
 
 [View](/en/documents/overview/insulin-human-winthrop-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-297)
+[Other languages (21)](#file-language-dropdown-970)
 
 български (BG) (703.66 KB - PDF)
 
@@ -326,7 +328,7 @@ English (EN) (13.73 MB - PDF)
 
 [View](/en/documents/product-information/insulin-human-winthrop-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-954)
+[Other languages (24)](#file-language-dropdown-338)
 
 български (BG) (34.6 MB - PDF)
 
@@ -642,7 +644,7 @@ English (EN) (554.53 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/insulin-human-winthrop-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-53)
+[Other languages (23)](#file-language-dropdown-803)
 
 български (BG) (810.41 KB - PDF)
 

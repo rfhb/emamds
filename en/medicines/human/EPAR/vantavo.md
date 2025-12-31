@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:38:15
+document_datetime: 2025-12-29 14:34:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vantavo.html
 document_name: vantavo.html
 version: success
-processing_time: 0.0999356
-conversion_datetime: 2025-12-24 05:14:31.845119
+processing_time: 0.1128225
+conversion_datetime: 2025-12-31 01:41:44.064751
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 alendronic acid / colecalciferol Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (83.88 KB - PDF)
 
 [View](/en/documents/overview/vantavo-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-663)
+[Other languages (22)](#file-language-dropdown-32)
 
 български (BG) (137.37 KB - PDF)
 
@@ -401,7 +403,7 @@ English (EN) (289.21 KB - PDF)
 
 [View](/en/documents/product-information/vantavo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-578)
+[Other languages (24)](#file-language-dropdown-145)
 
 български (BG) (418.64 KB - PDF)
 
@@ -717,7 +719,7 @@ English (EN) (13.42 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vantavo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-946)
+[Other languages (24)](#file-language-dropdown-314)
 
 български (BG) (80.91 KB - PDF)
 

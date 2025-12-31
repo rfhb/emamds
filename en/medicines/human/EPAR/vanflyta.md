@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:52:31
+document_datetime: 2025-12-29 12:33:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vanflyta.html
 document_name: vanflyta.html
 version: success
-processing_time: 0.1028055
-conversion_datetime: 2025-12-27 22:26:35.298494
+processing_time: 0.1065135
+conversion_datetime: 2025-12-31 03:47:35.099004
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 quizartinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (119.61 KB - PDF)
 
 [View](/en/documents/overview/vanflyta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-185)
+[Other languages (22)](#file-language-dropdown-378)
 
 български (BG) (142.14 KB - PDF)
 
@@ -311,7 +313,7 @@ English (EN) (535.47 KB - PDF)
 
 [View](/en/documents/product-information/vanflyta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-511)
+[Other languages (24)](#file-language-dropdown-234)
 
 български (BG) (604.2 KB - PDF)
 
@@ -625,7 +627,7 @@ English (EN) (51.07 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vanflyta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-905)
+[Other languages (24)](#file-language-dropdown-494)
 
 български (BG) (57.67 KB - PDF)
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 08:05:43
+document_datetime: 2025-12-29 16:15:02
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/secreflo.html
 document_name: secreflo.html
 version: success
-processing_time: 0.0539949
-conversion_datetime: 2025-12-24 00:11:40.281784
+processing_time: 0.0666195
+conversion_datetime: 2025-12-31 02:48:05.560405
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +105,7 @@ English (EN) (56.64 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-secreflo-secretin-human_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-57)
+[Other languages (21)](#file-language-dropdown-551)
 
 български (BG) (153.06 KB - PDF)
 

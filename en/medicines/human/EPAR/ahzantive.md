@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:04
+document_datetime: 2025-12-29 14:35:48
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ahzantive.html
 document_name: ahzantive.html
 version: success
-processing_time: 0.1247286
-conversion_datetime: 2025-12-25 04:28:23.490638
+processing_time: 0.126247
+conversion_datetime: 2025-12-31 04:49:44.438411
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 aflibercept Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (145.38 KB - PDF)
 
 [View](/en/documents/overview/ahzantive-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-960)
+[Other languages (22)](#file-language-dropdown-630)
 
 български (BG) (173.53 KB - PDF)
 
@@ -315,7 +317,7 @@ English (EN) (2.88 MB - PDF)
 
 [View](/en/documents/product-information/ahzantive-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-467)
+[Other languages (24)](#file-language-dropdown-367)
 
 български (BG) (2.34 MB - PDF)
 
@@ -631,7 +633,7 @@ English (EN) (98.29 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ahzantive-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-763)
+[Other languages (24)](#file-language-dropdown-733)
 
 български (BG) (37.53 KB - PDF)
 
@@ -1029,7 +1031,7 @@ English (EN) (1.96 MB - PDF)
 
 [View](/en/documents/leaflet/biosimilars-eu-information-guide-healthcare-professionals_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-101)
+[Other languages (22)](#file-language-dropdown-866)
 
 български (BG) (1.9 MB - PDF)
 

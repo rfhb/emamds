@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:43:24
+document_datetime: 2025-12-29 12:05:57
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/orencia.html
 document_name: orencia.html
 version: success
-processing_time: 0.1340867
-conversion_datetime: 2025-12-26 20:49:23.542762
+processing_time: 0.1317734
+conversion_datetime: 2025-12-31 01:26:39.337745
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 abatacept Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -134,7 +136,7 @@ English (EN) (95.67 KB - PDF)
 
 [View](/en/documents/overview/orencia-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-960)
+[Other languages (22)](#file-language-dropdown-536)
 
 български (BG) (135.92 KB - PDF)
 
@@ -422,7 +424,7 @@ English (EN) (1.99 MB - PDF)
 
 [View](/en/documents/product-information/orencia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-396)
+[Other languages (24)](#file-language-dropdown-425)
 
 български (BG) (2.32 MB - PDF)
 
@@ -738,7 +740,7 @@ English (EN) (100.53 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/orencia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-810)
+[Other languages (24)](#file-language-dropdown-187)
 
 български (BG) (73.14 KB - PDF)
 

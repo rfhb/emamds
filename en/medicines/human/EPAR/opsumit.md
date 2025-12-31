@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 08:08:57
+document_datetime: 2025-12-29 11:41:05
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/opsumit.html
 document_name: opsumit.html
 version: success
-processing_time: 0.1525554
-conversion_datetime: 2025-12-28 01:10:52.333687
+processing_time: 0.1523222
+conversion_datetime: 2025-12-31 02:48:31.754823
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -115,7 +115,7 @@ English (EN) (117.6 KB - PDF)
 
 [View](/en/documents/overview/opsumit-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-47)
+[Other languages (22)](#file-language-dropdown-59)
 
 български (BG) (135.14 KB - PDF)
 
@@ -403,7 +403,7 @@ English (EN) (427.74 KB - PDF)
 
 [View](/en/documents/product-information/opsumit-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-636)
+[Other languages (24)](#file-language-dropdown-940)
 
 български (BG) (593.61 KB - PDF)
 
@@ -719,7 +719,7 @@ English (EN) (23.92 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/opsumit-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-760)
+[Other languages (24)](#file-language-dropdown-911)
 
 български (BG) (28 KB - PDF)
 
@@ -1019,7 +1019,7 @@ English (EN) (17.91 KB - PDF)
 
 [View](/en/documents/conditions-member-states/opsumit-epar-conditions-imposed-member-states-safe-and-effective-use-annex-related-art-127a_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-515)
+[Other languages (24)](#file-language-dropdown-792)
 
 български (BG) (64.61 KB - PDF)
 
@@ -1485,7 +1485,7 @@ English (EN) (286.18 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/opsumit-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-880)
+[Other languages (24)](#file-language-dropdown-65)
 
 български (BG) (954 KB - DOC)
 

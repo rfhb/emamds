@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:55:56
+document_datetime: 2025-12-29 09:33:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/brimica-genuair.html
 document_name: brimica-genuair.html
 version: success
-processing_time: 0.1137667
-conversion_datetime: 2025-12-27 13:40:15.45067
+processing_time: 0.1086562
+conversion_datetime: 2025-12-31 01:25:28.129877
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 aclidinium / formoterol fumarate dihydrate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +121,7 @@ English (EN) (76.48 KB - PDF)
 
 [View](/en/documents/overview/brimica-genuair-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-320)
+[Other languages (22)](#file-language-dropdown-720)
 
 български (BG) (107.64 KB - PDF)
 
@@ -407,7 +409,7 @@ English (EN) (718.04 KB - PDF)
 
 [View](/en/documents/product-information/brimica-genuair-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-952)
+[Other languages (24)](#file-language-dropdown-423)
 
 български (BG) (716.43 KB - PDF)
 
@@ -723,7 +725,7 @@ English (EN) (29.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/brimica-genuair-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-690)
+[Other languages (24)](#file-language-dropdown-190)
 
 български (BG) (39.55 KB - PDF)
 

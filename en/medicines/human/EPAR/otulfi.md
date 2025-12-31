@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:11:00
+document_datetime: 2025-12-29 12:02:26
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/otulfi.html
 document_name: otulfi.html
 version: success
-processing_time: 0.1127472
-conversion_datetime: 2025-12-26 12:46:40.790151
+processing_time: 0.1128654
+conversion_datetime: 2025-12-31 02:28:40.044037
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ustekinumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (133.85 KB - PDF)
 
 [View](/en/documents/overview/otulfi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-401)
+[Other languages (22)](#file-language-dropdown-521)
 
 български (BG) (161.31 KB - PDF)
 
@@ -403,7 +405,7 @@ English (EN) (1.37 MB - PDF)
 
 [View](/en/documents/product-information/otulfi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-589)
+[Other languages (24)](#file-language-dropdown-268)
 
 български (BG) (1.33 MB - PDF)
 
@@ -719,7 +721,7 @@ English (EN) (77.11 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/otulfi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-521)
+[Other languages (24)](#file-language-dropdown-283)
 
 български (BG) (64.71 KB - PDF)
 

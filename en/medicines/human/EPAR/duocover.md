@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:38
+document_datetime: 2025-12-29 16:16:28
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/duocover.html
 document_name: duocover.html
 version: success
-processing_time: 0.0644992
-conversion_datetime: 2025-12-29 21:33:13.409876
+processing_time: 0.0681801
+conversion_datetime: 2025-12-31 03:41:10.662459
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:27:03
+document_datetime: 2025-12-29 12:52:14
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zoledronic-acid-accord.html
 document_name: zoledronic-acid-accord.html
 version: success
-processing_time: 0.1258813
-conversion_datetime: 2025-12-24 23:33:40.953598
+processing_time: 0.1214139
+conversion_datetime: 2025-12-31 05:28:16.23188
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 zoledronic acid Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +105,7 @@ English (EN) (76.68 KB - PDF)
 
 [View](/en/documents/overview/zoledronic-acid-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-935)
+[Other languages (22)](#file-language-dropdown-928)
 
 български (BG) (110.07 KB - PDF)
 
@@ -389,7 +391,7 @@ English (EN) (389 KB - PDF)
 
 [View](/en/documents/product-information/zoledronic-acid-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-35)
+[Other languages (24)](#file-language-dropdown-363)
 
 български (BG) (634.31 KB - PDF)
 
@@ -705,7 +707,7 @@ English (EN) (22.45 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zoledronic-acid-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-247)
+[Other languages (24)](#file-language-dropdown-701)
 
 български (BG) (42.16 KB - PDF)
 
@@ -1103,7 +1105,7 @@ English (EN) (142.17 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/zoledronic-acid-accord-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-13)
+[Other languages (24)](#file-language-dropdown-418)
 
 български (BG) (178.66 KB - DOCX)
 

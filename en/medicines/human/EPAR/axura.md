@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:01:21
+document_datetime: 2025-12-29 13:01:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/axura.html
 document_name: axura.html
 version: success
-processing_time: 0.1117816
-conversion_datetime: 2025-12-29 19:18:54.19722
+processing_time: 0.1107447
+conversion_datetime: 2025-12-31 02:50:01.340276
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 memantine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (60.23 KB - PDF)
 
 [View](/en/documents/overview/axura-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-69)
+[Other languages (21)](#file-language-dropdown-878)
 
 български (BG) (100.12 KB - PDF)
 
@@ -375,7 +377,7 @@ English (EN) (668 KB - PDF)
 
 [View](/en/documents/product-information/axura-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-205)
+[Other languages (24)](#file-language-dropdown-256)
 
 български (BG) (769.34 KB - PDF)
 
@@ -691,7 +693,7 @@ English (EN) (11.93 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/axura-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-377)
+[Other languages (23)](#file-language-dropdown-440)
 
 български (BG) (82.4 KB - PDF)
 

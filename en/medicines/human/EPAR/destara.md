@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:07:24
+document_datetime: 2025-12-29 19:07:47
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/destara.html
 document_name: destara.html
 version: success
-processing_time: 0.0432223
-conversion_datetime: 2025-12-28 10:20:31.774842
+processing_time: 0.0394
+conversion_datetime: 2025-12-31 04:11:17.393928
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-ibandronic acid
+ibandronic acid Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

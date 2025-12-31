@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:47:23
+document_datetime: 2025-12-29 11:14:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sitagliptin-metformin-hydrochloride-sun.html
 document_name: sitagliptin-metformin-hydrochloride-sun.html
 version: success
-processing_time: 0.1093595
-conversion_datetime: 2025-12-28 04:37:12.263939
+processing_time: 0.1077799
+conversion_datetime: 2025-12-31 01:19:08.034242
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sitagliptin / metformin hydrochloride Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (137.45 KB - PDF)
 
 [View](/en/documents/overview/sitagliptinmetformin-hydrochloride-sun-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-931)
+[Other languages (22)](#file-language-dropdown-835)
 
 български (BG) (151.01 KB - PDF)
 
@@ -309,7 +311,7 @@ English (EN) (527.44 KB - PDF)
 
 [View](/en/documents/product-information/sitagliptin-metformin-hydrochloride-sun-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-537)
+[Other languages (24)](#file-language-dropdown-107)
 
 български (BG) (619.36 KB - PDF)
 
@@ -623,7 +625,7 @@ English (EN) (51.59 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sitagliptinmetformin-hydrochloride-sun-epar-all-authorised-presentation_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-441)
+[Other languages (24)](#file-language-dropdown-564)
 
 български (BG) (67.59 KB - PDF)
 

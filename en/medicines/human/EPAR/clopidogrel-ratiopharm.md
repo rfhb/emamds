@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:10:36
+document_datetime: 2025-12-29 14:35:45
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-ratiopharm.html
 document_name: clopidogrel-ratiopharm.html
 version: success
-processing_time: 0.1298042
-conversion_datetime: 2025-12-27 09:50:13.21072
+processing_time: 0.1224215
+conversion_datetime: 2025-12-31 07:46:59.345414
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-clopidogrel
+clopidogrel Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +118,7 @@ English (EN) (98.38 KB - PDF)
 
 [View](/en/documents/overview/clopidogrel-ratiopharm-epar-summary-public_en.pdf-0)
 
-[Other languages (22)](#file-language-dropdown-770)
+[Other languages (22)](#file-language-dropdown-768)
 
 български (BG) (134.22 KB - PDF)
 
@@ -410,7 +406,7 @@ English (EN) (555.41 KB - PDF)
 
 [View](/en/documents/product-information/clopidogrel-ratiopharm-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-590)
+[Other languages (24)](#file-language-dropdown-101)
 
 български (BG) (772.59 KB - PDF)
 
@@ -726,7 +722,7 @@ English (EN) (702.75 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/clopidogrel-ratiopharm-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-513)
+[Other languages (24)](#file-language-dropdown-93)
 
 български (BG) (41.42 KB - PDF)
 
@@ -1124,7 +1120,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-44)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

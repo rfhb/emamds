@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:31:39
+document_datetime: 2025-12-29 07:48:42
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/topotecan-teva.html
 document_name: topotecan-teva.html
 version: success
-processing_time: 0.1066533
-conversion_datetime: 2025-12-25 07:03:28.621296
+processing_time: 0.1070812
+conversion_datetime: 2025-12-31 01:45:38.925853
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 topotecan Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (43.45 KB - PDF)
 
 [View](/en/documents/overview/topotecan-teva-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-770)
+[Other languages (21)](#file-language-dropdown-919)
 
 български (BG) (166.34 KB - PDF)
 
@@ -373,7 +375,7 @@ English (EN) (271.06 KB - PDF)
 
 [View](/en/documents/product-information/topotecan-teva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-60)
+[Other languages (24)](#file-language-dropdown-888)
 
 български (BG) (384.13 KB - PDF)
 
@@ -689,7 +691,7 @@ English (EN) (12.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/topotecan-teva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-964)
+[Other languages (21)](#file-language-dropdown-885)
 
 български (BG) (78.09 KB - PDF)
 

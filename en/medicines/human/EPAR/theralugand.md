@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:19:34
+document_datetime: 2025-12-29 07:46:35
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/theralugand.html
 document_name: theralugand.html
 version: success
-processing_time: 0.1010145
-conversion_datetime: 2025-12-26 12:39:36.147731
+processing_time: 0.1013312
+conversion_datetime: 2025-12-31 07:56:38.657893
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lutetium (177Lu) chloride Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -101,7 +103,7 @@ English (EN) (119.61 KB - PDF)
 
 [View](/en/documents/overview/theralugand-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-58)
+[Other languages (22)](#file-language-dropdown-71)
 
 български (BG) (141.94 KB - PDF)
 
@@ -297,7 +299,7 @@ English (EN) (424.6 KB - PDF)
 
 [View](/en/documents/product-information/theralugand-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-283)
+[Other languages (24)](#file-language-dropdown-44)
 
 български (BG) (558.96 KB - PDF)
 
@@ -515,7 +517,7 @@ English (EN) (47.1 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/theralugand-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-543)
+[Other languages (24)](#file-language-dropdown-38)
 
 български (BG) (57.44 KB - PDF)
 

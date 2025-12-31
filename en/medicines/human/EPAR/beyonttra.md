@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:27
+document_datetime: 2025-12-29 12:54:13
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/beyonttra.html
 document_name: beyonttra.html
 version: success
-processing_time: 0.0840412
-conversion_datetime: 2025-12-26 09:59:11.540598
+processing_time: 0.0942039
+conversion_datetime: 2025-12-31 04:55:38.83938
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 acoramidis Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (432.71 KB - PDF)
 
 [View](/en/documents/product-information/beyonttra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-161)
+[Other languages (24)](#file-language-dropdown-423)
 
 български (BG) (509.29 KB - PDF)
 
@@ -429,7 +431,7 @@ English (EN) (42.63 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/beyonttra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-106)
+[Other languages (24)](#file-language-dropdown-948)
 
 български (BG) (50.6 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:27:31
+document_datetime: 2025-12-29 13:32:45
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/valtropin.html
 document_name: valtropin.html
 version: success
-processing_time: 0.1010355
-conversion_datetime: 2025-12-25 10:41:45.546126
+processing_time: 0.099067
+conversion_datetime: 2025-12-31 07:41:58.14878
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 somatropin Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -65,7 +67,7 @@ English (EN) (293.37 KB - PDF)
 
 [View](/en/documents/overview/valtropin-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-104)
+[Other languages (21)](#file-language-dropdown-75)
 
 български (BG) (388.3 KB - PDF)
 
@@ -331,7 +333,7 @@ English (EN) (559.29 KB - PDF)
 
 [View](/en/documents/product-information/valtropin-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-197)
+[Other languages (23)](#file-language-dropdown-229)
 
 български (BG) (1.31 MB - PDF)
 
@@ -635,7 +637,7 @@ English (EN) (237.13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/valtropin-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-205)
+[Other languages (18)](#file-language-dropdown-120)
 
 español (ES) (237.24 KB - PDF)
 

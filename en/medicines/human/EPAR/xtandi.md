@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:14:08
+document_datetime: 2025-12-29 11:34:43
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xtandi.html
 document_name: xtandi.html
 version: success
-processing_time: 0.1377311
-conversion_datetime: 2025-12-25 04:23:16.198022
+processing_time: 0.141085
+conversion_datetime: 2025-12-31 03:51:21.2248
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 enzalutamide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -127,7 +129,7 @@ English (EN) (172.39 KB - PDF)
 
 [View](/en/documents/overview/xtandi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-686)
+[Other languages (22)](#file-language-dropdown-424)
 
 български (BG) (195.49 KB - PDF)
 
@@ -415,7 +417,7 @@ English (EN) (3.87 MB - PDF)
 
 [View](/en/documents/product-information/xtandi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-692)
+[Other languages (24)](#file-language-dropdown-659)
 
 български (BG) (4.26 MB - PDF)
 
@@ -731,7 +733,7 @@ English (EN) (18.07 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xtandi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-544)
+[Other languages (24)](#file-language-dropdown-37)
 
 български (BG) (41.17 KB - PDF)
 
@@ -1257,7 +1259,7 @@ English (EN) (1.26 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/xtandi-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-416)
+[Other languages (24)](#file-language-dropdown-959)
 
 български (BG) (1.54 MB - DOCX)
 
@@ -1453,8 +1455,9 @@ svenska (SV) (2.06 MB - DOCX)
 
 #### More information on Xtandi
 
-- [Enzalutamide and Other Androgen Receptor Pathway Inhibitors (ARPIs) in Metastatic Hormone Sensitive Prostate Cancer (mHSPC): A Non-Interventional Center-based Chart Review in Europe (ENHANCE) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000776)
 - [A multicentre, non-interventional, cohort analysis describing the patients' experience focusing on safety events among metastatic hormone-sensitive prostate cancer patients treated with Androgen Receptor Pathway Inhibitors (ARPIs) followed through a Telemonitoring tool funded by the French national healthcare insurance complemented with a chart review (ESPERANTO) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000759)
+- [Enzalutamide and Other Androgen Receptor Pathway Inhibitors (ARPIs) in Metastatic Hormone Sensitive Prostate Cancer (mHSPC): A Non-Interventional Center-based Chart Review in Europe (ENHANCE) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000776)
+- [Therapy of metastatic castration-resistant prostate cancer with Talazoparib + Enzalutamide under real world conditions in Germany - an observational medical chart review study (PROTEGE study) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000593)
 - [An International, Multicenter, Prospective Non-Interventional Study of Real-World Treatment Outcomes in Patients with Metastatic Castrate Resistant Prostate Cancer (mCRPC) treated with Talazoparib and Enzalutamide (TALENZA) - post-authorisation study](https://catalogues.ema.europa.eu/study/106720)
 - [A Multicenter, Single-arm, Open-label, Post-marketing Safety Study to Evaluate the Risk of Seizure Among Subjects with Metastatic Castration-Resistant Prostate Cancer (mCRPC) Treated with Enzalutamide Who Are at Potential Increased Risk of Seizure - post-authorisation study](https://catalogues.ema.europa.eu/study/32806)
 

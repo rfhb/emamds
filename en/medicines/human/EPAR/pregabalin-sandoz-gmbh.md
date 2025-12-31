@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:52:13
+document_datetime: 2025-12-29 11:42:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pregabalin-sandoz-gmbh.html
 document_name: pregabalin-sandoz-gmbh.html
 version: success
-processing_time: 0.1067407
-conversion_datetime: 2025-12-28 00:48:27.613971
+processing_time: 0.1084968
+conversion_datetime: 2025-12-31 02:11:13.58206
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 pregabalin Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -63,7 +65,7 @@ English (EN) (203.49 KB - PDF)
 
 [View](/en/documents/overview/pregabalin-sandoz-gmbh-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-679)
+[Other languages (22)](#file-language-dropdown-4)
 
 български (BG) (243.35 KB - PDF)
 
@@ -351,7 +353,7 @@ English (EN) (2.25 MB - PDF)
 
 [View](/en/documents/product-information/pregabalin-sandoz-gmbh-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-629)
+[Other languages (24)](#file-language-dropdown-25)
 
 български (BG) (3.05 MB - PDF)
 
@@ -667,7 +669,7 @@ English (EN) (388.78 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pregabalin-sandoz-gmbh-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-21)
+[Other languages (24)](#file-language-dropdown-575)
 
 български (BG) (438.87 KB - PDF)
 

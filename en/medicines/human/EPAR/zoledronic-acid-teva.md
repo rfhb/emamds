@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:03:51
+document_datetime: 2025-12-29 08:19:06
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zoledronic-acid-teva.html
 document_name: zoledronic-acid-teva.html
 version: success
-processing_time: 0.1123023
-conversion_datetime: 2025-12-25 05:54:48.110684
+processing_time: 0.1063867
+conversion_datetime: 2025-12-31 01:56:52.120176
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 zoledronic acid Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (74.69 KB - PDF)
 
 [View](/en/documents/overview/zoledronic-acid-teva-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-402)
+[Other languages (22)](#file-language-dropdown-739)
 
 български (BG) (102.29 KB - PDF)
 
@@ -385,7 +387,7 @@ English (EN) (498.52 KB - PDF)
 
 [View](/en/documents/product-information/zoledronic-acid-teva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-922)
+[Other languages (24)](#file-language-dropdown-927)
 
 български (BG) (680.94 KB - PDF)
 
@@ -701,7 +703,7 @@ English (EN) (12.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zoledronic-acid-teva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-224)
+[Other languages (24)](#file-language-dropdown-653)
 
 български (BG) (39.17 KB - PDF)
 

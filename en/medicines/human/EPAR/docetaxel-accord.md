@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:13:29
+document_datetime: 2025-12-29 14:35:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/docetaxel-accord.html
 document_name: docetaxel-accord.html
 version: success
-processing_time: 0.1289277
-conversion_datetime: 2025-12-26 12:38:11.420068
+processing_time: 0.1300586
+conversion_datetime: 2025-12-31 05:14:42.207036
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-docetaxel
+docetaxel Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +111,7 @@ English (EN) (145.91 KB - PDF)
 
 [View](/en/documents/overview/docetaxel-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-435)
+[Other languages (22)](#file-language-dropdown-249)
 
 български (BG) (157.75 KB - PDF)
 
@@ -393,7 +389,7 @@ English (EN) (631.25 KB - PDF)
 
 [View](/en/documents/product-information/docetaxel-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-523)
+[Other languages (24)](#file-language-dropdown-806)
 
 български (BG) (958.98 KB - PDF)
 
@@ -709,7 +705,7 @@ English (EN) (17.37 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/docetaxel-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-954)
+[Other languages (23)](#file-language-dropdown-263)
 
 български (BG) (67.9 KB - PDF)
 
@@ -1130,7 +1126,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-44)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

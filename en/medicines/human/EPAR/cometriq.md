@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:56:51
+document_datetime: 2025-12-29 08:36:54
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cometriq.html
 document_name: cometriq.html
 version: success
-processing_time: 0.5139193
-conversion_datetime: 2025-12-28 18:25:14.787513
+processing_time: 0.119988
+conversion_datetime: 2025-12-31 01:35:13.682897
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 cabozantinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (80.1 KB - PDF)
 
 [View](/en/documents/overview/cometriq-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-50)
+[Other languages (22)](#file-language-dropdown-956)
 
 български (BG) (110.95 KB - PDF)
 
@@ -406,7 +408,7 @@ English (EN) (718.5 KB - PDF)
 
 [View](/en/documents/product-information/cometriq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-320)
+[Other languages (24)](#file-language-dropdown-641)
 
 български (BG) (894.75 KB - PDF)
 
@@ -722,7 +724,7 @@ English (EN) (165.89 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cometriq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-700)
+[Other languages (24)](#file-language-dropdown-168)
 
 български (BG) (99.65 KB - PDF)
 

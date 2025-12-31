@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:22:58
+document_datetime: 2025-12-29 16:51:43
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/masican.html
 document_name: masican.html
 version: success
-processing_time: 0.0577822
-conversion_datetime: 2025-12-24 09:05:17.641582
+processing_time: 0.068983
+conversion_datetime: 2025-12-31 02:11:37.277001
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine has been refused authorisation
 
 masitinib Medicine Human Refused
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -95,7 +97,7 @@ English (EN) (88.88 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-refusal-marketing-authorisation-masican_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-159)
+[Other languages (22)](#file-language-dropdown-286)
 
 български (BG) (92.21 KB - PDF)
 

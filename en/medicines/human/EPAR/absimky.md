@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 09:05:50
+document_datetime: 2025-12-29 12:30:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/absimky.html
 document_name: absimky.html
 version: success
-processing_time: 0.1057176
-conversion_datetime: 2025-12-27 17:31:16.453044
+processing_time: 0.2857159
+conversion_datetime: 2025-12-31 02:43:44.583274
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -63,7 +63,7 @@ English (EN) (124.2 KB - PDF)
 
 [View](/en/documents/overview/absimky-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-788)
+[Other languages (22)](#file-language-dropdown-904)
 
 български (BG) (152.66 KB - PDF)
 
@@ -351,7 +351,7 @@ English (EN) (1.22 MB - PDF)
 
 [View](/en/documents/product-information/absimky-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-491)
+[Other languages (24)](#file-language-dropdown-71)
 
 български (BG) (1.26 MB - PDF)
 
@@ -667,7 +667,7 @@ English (EN) (173.72 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/absimky-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-92)
+[Other languages (24)](#file-language-dropdown-349)
 
 български (BG) (182.36 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 10:00:35
+document_datetime: 2025-12-29 11:53:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/agamree.html
 document_name: agamree.html
 version: success
-processing_time: 0.1210567
-conversion_datetime: 2025-12-26 11:27:22.772742
+processing_time: 0.1211658
+conversion_datetime: 2025-12-31 01:35:04.849291
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -113,7 +113,7 @@ English (EN) (108.05 KB - PDF)
 
 [View](/en/documents/overview/agamree-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-255)
+[Other languages (22)](#file-language-dropdown-749)
 
 български (BG) (132.75 KB - PDF)
 
@@ -313,7 +313,7 @@ English (EN) (538.37 KB - PDF)
 
 [View](/en/documents/product-information/agamree-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-868)
+[Other languages (24)](#file-language-dropdown-575)
 
 български (BG) (629.97 KB - PDF)
 
@@ -627,7 +627,7 @@ English (EN) (40.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/agamree-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-110)
+[Other languages (24)](#file-language-dropdown-576)
 
 български (BG) (57.51 KB - PDF)
 
@@ -935,7 +935,7 @@ English (EN) (278.56 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/agamree-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-297)
+[Other languages (24)](#file-language-dropdown-586)
 
 български (BG) (291.25 KB - DOCX)
 

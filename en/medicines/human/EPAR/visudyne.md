@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:36:54
+document_datetime: 2025-12-29 13:05:43
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/visudyne.html
 document_name: visudyne.html
 version: success
-processing_time: 0.1122149
-conversion_datetime: 2025-12-27 14:50:55.496304
+processing_time: 0.1123031
+conversion_datetime: 2025-12-31 02:19:07.86765
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 verteporfin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (88.62 KB - PDF)
 
 [View](/en/documents/overview/visudyne-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-751)
+[Other languages (22)](#file-language-dropdown-254)
 
 български (BG) (115.84 KB - PDF)
 
@@ -389,7 +391,7 @@ English (EN) (179.49 KB - PDF)
 
 [View](/en/documents/product-information/visudyne-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-303)
+[Other languages (23)](#file-language-dropdown-629)
 
 español (ES) (266.47 KB - PDF)
 
@@ -693,7 +695,7 @@ English (EN) (133.32 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/visudyne-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-287)
+[Other languages (24)](#file-language-dropdown-468)
 
 български (BG) (142.07 KB - PDF)
 

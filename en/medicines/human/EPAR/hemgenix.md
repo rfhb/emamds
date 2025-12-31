@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:14:05
+document_datetime: 2025-12-29 11:25:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/hemgenix.html
 document_name: hemgenix.html
 version: success
-processing_time: 0.1080761
-conversion_datetime: 2025-12-24 19:44:50.332257
+processing_time: 0.110621
+conversion_datetime: 2025-12-31 04:59:40.264212
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 etranacogene dezaparvovec Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (119.47 KB - PDF)
 
 [View](/en/documents/overview/hemgenix-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-872)
+[Other languages (22)](#file-language-dropdown-694)
 
 български (BG) (138.29 KB - PDF)
 
@@ -316,7 +318,7 @@ English (EN) (582.93 KB - PDF)
 
 [View](/en/documents/product-information/hemgenix-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-941)
+[Other languages (24)](#file-language-dropdown-134)
 
 български (BG) (697.07 KB - PDF)
 
@@ -632,7 +634,7 @@ English (EN) (38.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/hemgenix-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-922)
+[Other languages (24)](#file-language-dropdown-860)
 
 български (BG) (47.95 KB - PDF)
 

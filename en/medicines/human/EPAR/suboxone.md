@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:55:54
+document_datetime: 2025-12-29 11:56:28
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/suboxone.html
 document_name: suboxone.html
 version: success
-processing_time: 0.1128434
-conversion_datetime: 2025-12-27 13:29:42.79111
+processing_time: 0.1166677
+conversion_datetime: 2025-12-31 03:25:38.188248
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 buprenorphine / naloxone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (114.64 KB - PDF)
 
 [View](/en/documents/overview/suboxone-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-270)
+[Other languages (22)](#file-language-dropdown-494)
 
 български (BG) (136.81 KB - PDF)
 
@@ -399,7 +401,7 @@ English (EN) (1006.3 KB - PDF)
 
 [View](/en/documents/product-information/suboxone-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-503)
+[Other languages (24)](#file-language-dropdown-35)
 
 български (BG) (993.32 KB - PDF)
 
@@ -715,7 +717,7 @@ English (EN) (74.78 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/suboxone-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-793)
+[Other languages (24)](#file-language-dropdown-485)
 
 български (BG) (75.47 KB - PDF)
 

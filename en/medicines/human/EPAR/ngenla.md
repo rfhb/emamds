@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 08:15:59
+document_datetime: 2025-12-29 09:28:18
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ngenla.html
 document_name: ngenla.html
 version: success
-processing_time: 0.0975991
-conversion_datetime: 2025-12-28 02:50:55.387178
+processing_time: 0.1084623
+conversion_datetime: 2025-12-31 03:12:46.730826
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -102,7 +102,7 @@ English (EN) (122.33 KB - PDF)
 
 [View](/en/documents/overview/ngenla-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-310)
+[Other languages (22)](#file-language-dropdown-199)
 
 български (BG) (146.88 KB - PDF)
 
@@ -300,7 +300,7 @@ English (EN) (2.28 MB - PDF)
 
 [View](/en/documents/product-information/ngenla-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-212)
+[Other languages (24)](#file-language-dropdown-183)
 
 български (BG) (2.89 MB - PDF)
 
@@ -614,7 +614,7 @@ English (EN) (36.64 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ngenla-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-780)
+[Other languages (24)](#file-language-dropdown-508)
 
 български (BG) (37.28 KB - PDF)
 

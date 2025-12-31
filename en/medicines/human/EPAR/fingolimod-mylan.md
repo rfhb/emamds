@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-29 09:57:33
+document_datetime: 2025-12-29 14:36:26
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fingolimod-mylan.html
 document_name: fingolimod-mylan.html
 version: success
-processing_time: 0.1254567
-conversion_datetime: 2025-12-29 21:16:43.990277
+processing_time: 0.1215724
+conversion_datetime: 2025-12-31 05:25:07.929885
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

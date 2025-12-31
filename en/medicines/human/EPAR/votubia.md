@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:58:39
+document_datetime: 2025-12-29 08:03:47
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/votubia.html
 document_name: votubia.html
 version: success
-processing_time: 0.1375661
-conversion_datetime: 2025-12-28 12:53:32.170985
+processing_time: 0.1460798
+conversion_datetime: 2025-12-31 01:21:22.74712
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 everolimus Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -129,7 +131,7 @@ English (EN) (90.89 KB - PDF)
 
 [View](/en/documents/overview/votubia-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-600)
+[Other languages (22)](#file-language-dropdown-354)
 
 български (BG) (118.51 KB - PDF)
 
@@ -417,7 +419,7 @@ English (EN) (1.09 MB - PDF)
 
 [View](/en/documents/product-information/votubia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-328)
+[Other languages (24)](#file-language-dropdown-753)
 
 български (BG) (1.31 MB - PDF)
 
@@ -733,7 +735,7 @@ English (EN) (161.95 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/votubia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-604)
+[Other languages (24)](#file-language-dropdown-94)
 
 български (BG) (51.63 KB - PDF)
 
@@ -1319,7 +1321,7 @@ English (EN) (131.58 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-use-votubia-children-6-months-age_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-819)
+[Other languages (22)](#file-language-dropdown-312)
 
 български (BG) (153.5 KB - PDF)
 

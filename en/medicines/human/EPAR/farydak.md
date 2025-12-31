@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:10:11
+document_datetime: 2025-12-29 14:09:58
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/farydak.html
 document_name: farydak.html
 version: success
-processing_time: 0.118974
-conversion_datetime: 2025-12-26 20:00:29.786945
+processing_time: 0.116039
+conversion_datetime: 2025-12-31 04:15:34.122199
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 panobinostat Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (78.67 KB - PDF)
 
 [View](/en/documents/overview/farydak-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-386)
+[Other languages (22)](#file-language-dropdown-997)
 
 български (BG) (106.28 KB - PDF)
 
@@ -399,7 +401,7 @@ English (EN) (439.21 KB - PDF)
 
 [View](/en/documents/product-information/farydak-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-135)
+[Other languages (23)](#file-language-dropdown-734)
 
 български (BG) (588.13 KB - PDF)
 
@@ -677,7 +679,7 @@ svenska (SV) (413.89 KB - PDF)
 
 [View](/sv/documents/product-information/farydak-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0030 28/11/2025
+**Latest procedure affecting product information:** II/0030 28/11/2024
 
 icon globe
 
@@ -703,7 +705,7 @@ English (EN) (165.41 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/farydak-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-88)
+[Other languages (24)](#file-language-dropdown-977)
 
 български (BG) (173.39 KB - PDF)
 

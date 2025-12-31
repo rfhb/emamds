@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:07:45
+document_datetime: 2025-12-29 21:36:37
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/corluxin.html
 document_name: corluxin.html
 version: success
-processing_time: 0.0703802
-conversion_datetime: 2025-12-30 02:55:47.011585
+processing_time: 0.0674246
+conversion_datetime: 2025-12-31 01:29:35.824205
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

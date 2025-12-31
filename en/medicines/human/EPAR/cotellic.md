@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:01:14
+document_datetime: 2025-12-29 08:16:38
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cotellic.html
 document_name: cotellic.html
 version: success
-processing_time: 0.128539
-conversion_datetime: 2025-12-28 05:08:01.72584
+processing_time: 0.1293397
+conversion_datetime: 2025-12-31 07:55:12.052732
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 cobimetinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (77.45 KB - PDF)
 
 [View](/en/documents/overview/cotellic-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-605)
+[Other languages (22)](#file-language-dropdown-812)
 
 български (BG) (104.1 KB - PDF)
 
@@ -396,7 +398,7 @@ English (EN) (475.19 KB - PDF)
 
 [View](/en/documents/product-information/cotellic-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-149)
+[Other languages (24)](#file-language-dropdown-265)
 
 български (BG) (501.63 KB - PDF)
 
@@ -712,7 +714,7 @@ English (EN) (15.99 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cotellic-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-323)
+[Other languages (24)](#file-language-dropdown-942)
 
 български (BG) (70.04 KB - PDF)
 
@@ -1106,7 +1108,7 @@ English (EN) (277.6 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/cotellic-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-279)
+[Other languages (24)](#file-language-dropdown-583)
 
 български (BG) (256.25 KB - DOCX)
 

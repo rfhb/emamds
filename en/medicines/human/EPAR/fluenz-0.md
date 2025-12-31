@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 13:11:22
+document_datetime: 2025-12-29 14:53:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fluenz-0.html
 document_name: fluenz-0.html
 version: success
-processing_time: 0.0902323
-conversion_datetime: 2025-12-25 03:02:34.853445
+processing_time: 0.092429
+conversion_datetime: 2025-12-31 04:00:36.742441
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-influenza vaccine (live attenuated, nasal)
+influenza vaccine (live attenuated, nasal) Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -69,7 +65,7 @@ English (EN) (548.88 KB - PDF)
 
 [View](/en/documents/overview/fluenz-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-780)
+[Other languages (22)](#file-language-dropdown-899)
 
 български (BG) (634.56 KB - PDF)
 
@@ -363,7 +359,7 @@ English (EN) (218.56 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fluenz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-631)
+[Other languages (24)](#file-language-dropdown-980)
 
 български (BG) (406.06 KB - PDF)
 

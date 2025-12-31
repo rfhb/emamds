@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:20
+document_datetime: 2025-12-29 16:51:44
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/genasense.html
 document_name: genasense.html
 version: success
-processing_time: 0.0405775
-conversion_datetime: 2025-12-27 16:02:53.695178
+processing_time: 0.0466767
+conversion_datetime: 2025-12-31 01:42:01.426082
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine has been refused authorisation
 
-oblimersen
+oblimersen Medicine Human Refused
 
-Medicine
-
-Human
-
-Refused
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

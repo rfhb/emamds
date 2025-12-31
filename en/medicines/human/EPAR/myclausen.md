@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 10:38:17
+document_datetime: 2025-12-29 13:58:12
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/myclausen.html
 document_name: myclausen.html
 version: success
-processing_time: 0.1150173
-conversion_datetime: 2025-12-28 13:26:40.837528
+processing_time: 0.1147986
+conversion_datetime: 2025-12-31 05:20:01.669546
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-mycophenolate mofetil
+mycophenolate mofetil Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +110,7 @@ English (EN) (49.91 KB - PDF)
 
 [View](/en/documents/overview/myclausen-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-787)
+[Other languages (21)](#file-language-dropdown-517)
 
 български (BG) (146.22 KB - PDF)
 
@@ -380,7 +376,7 @@ English (EN) (630.64 KB - PDF)
 
 [View](/en/documents/product-information/myclausen-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-723)
+[Other languages (24)](#file-language-dropdown-557)
 
 български (BG) (882.69 KB - PDF)
 
@@ -696,7 +692,7 @@ English (EN) (34.17 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/myclausen-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-587)
+[Other languages (24)](#file-language-dropdown-497)
 
 български (BG) (59.72 KB - PDF)
 

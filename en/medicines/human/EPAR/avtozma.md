@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:37:15
+document_datetime: 2025-12-29 08:36:43
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/avtozma.html
 document_name: avtozma.html
 version: success
-processing_time: 0.3874353
-conversion_datetime: 2025-12-27 22:21:10.321486
+processing_time: 0.129132
+conversion_datetime: 2025-12-31 01:29:27.139383
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tocilizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -126,7 +128,7 @@ English (EN) (140.05 KB - PDF)
 
 [View](/en/documents/overview/avtozma-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-682)
+[Other languages (21)](#file-language-dropdown-803)
 
 български (BG) (167.04 KB - PDF)
 
@@ -316,7 +318,7 @@ English (EN) (2.62 MB - PDF)
 
 [View](/en/documents/product-information/avtozma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-398)
+[Other languages (24)](#file-language-dropdown-214)
 
 български (BG) (2.22 MB - PDF)
 
@@ -632,7 +634,7 @@ English (EN) (26.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/avtozma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-686)
+[Other languages (24)](#file-language-dropdown-317)
 
 български (BG) (56.81 KB - PDF)
 
@@ -1068,7 +1070,7 @@ English (EN) (2.04 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/avtozma-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-227)
+[Other languages (24)](#file-language-dropdown-371)
 
 български (BG) (1.65 MB - DOCX)
 

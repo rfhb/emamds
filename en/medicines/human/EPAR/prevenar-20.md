@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:49:41
+document_datetime: 2025-12-29 11:13:15
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/prevenar-20.html
 document_name: prevenar-20.html
 version: success
-processing_time: 0.1350843
-conversion_datetime: 2025-12-27 09:44:59.330526
+processing_time: 0.3241091
+conversion_datetime: 2025-12-31 04:59:04.734913
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pneumococcal polysaccharide conjugate vaccine (20-valent, adsorbed) Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -132,7 +134,7 @@ English (EN) (131.48 KB - PDF)
 
 [View](/en/documents/overview/prevenar-20-previously-apexxnar-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-32)
+[Other languages (22)](#file-language-dropdown-910)
 
 български (BG) (163.23 KB - PDF)
 
@@ -420,7 +422,7 @@ English (EN) (1.16 MB - PDF)
 
 [View](/en/documents/product-information/prevenar-20-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-30)
+[Other languages (24)](#file-language-dropdown-829)
 
 български (BG) (579.97 KB - PDF)
 
@@ -736,7 +738,7 @@ English (EN) (36.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/prevenar-20-previously-apexxnar-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-18)
+[Other languages (24)](#file-language-dropdown-466)
 
 български (BG) (40.48 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:27:30
+document_datetime: 2025-12-29 14:35:41
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ristempa.html
 document_name: ristempa.html
 version: success
-processing_time: 0.0893702
-conversion_datetime: 2025-12-24 22:02:37.198165
+processing_time: 0.0894344
+conversion_datetime: 2025-12-31 01:26:02.540678
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 pegfilgrastim Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -61,7 +63,7 @@ English (EN) (1.39 MB - PDF)
 
 [View](/en/documents/overview/ristempa-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-299)
+[Other languages (22)](#file-language-dropdown-668)
 
 български (BG) (596.74 KB - PDF)
 
@@ -349,7 +351,7 @@ English (EN) (2.56 MB - PDF)
 
 [View](/en/documents/product-information/ristempa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-475)
+[Other languages (24)](#file-language-dropdown-208)
 
 български (BG) (2.31 MB - PDF)
 

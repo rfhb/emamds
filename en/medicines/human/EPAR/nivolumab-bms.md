@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:03:01
+document_datetime: 2025-12-29 12:27:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nivolumab-bms.html
 document_name: nivolumab-bms.html
 version: success
-processing_time: 0.1091245
-conversion_datetime: 2025-12-27 13:49:50.924134
+processing_time: 0.1047968
+conversion_datetime: 2025-12-31 03:22:04.863667
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-nivolumab
+nivolumab Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (545.33 KB - PDF)
 
 [View](/en/documents/overview/nivolumab-bms-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-190)
+[Other languages (22)](#file-language-dropdown-668)
 
 български (BG) (628.52 KB - PDF)
 
@@ -355,7 +351,7 @@ English (EN) (1.18 MB - PDF)
 
 [View](/en/documents/product-information/nivolumab-bms-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-209)
+[Other languages (24)](#file-language-dropdown-173)
 
 български (BG) (2.03 MB - PDF)
 
@@ -671,7 +667,7 @@ English (EN) (509.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nivolumab-bms-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-453)
+[Other languages (24)](#file-language-dropdown-746)
 
 български (BG) (537.8 KB - PDF)
 

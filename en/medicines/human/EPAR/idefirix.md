@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:20:40
+document_datetime: 2025-12-29 07:29:07
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/idefirix.html
 document_name: idefirix.html
 version: success
-processing_time: 0.1039775
-conversion_datetime: 2025-12-25 02:00:54.994702
+processing_time: 0.1059415
+conversion_datetime: 2025-12-31 01:56:43.339296
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 imlifidase Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +122,7 @@ English (EN) (121.66 KB - PDF)
 
 [View](/en/documents/overview/idefirix-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-136)
+[Other languages (22)](#file-language-dropdown-842)
 
 български (BG) (125.15 KB - PDF)
 
@@ -320,7 +322,7 @@ English (EN) (362.33 KB - PDF)
 
 [View](/en/documents/product-information/idefirix-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-275)
+[Other languages (24)](#file-language-dropdown-349)
 
 български (BG) (295.91 KB - PDF)
 
@@ -634,7 +636,7 @@ English (EN) (11.01 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/idefirix-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-744)
+[Other languages (24)](#file-language-dropdown-952)
 
 български (BG) (32.63 KB - PDF)
 

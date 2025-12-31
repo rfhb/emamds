@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:58:19
+document_datetime: 2025-12-29 12:00:26
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mycamine.html
 document_name: mycamine.html
 version: success
-processing_time: 0.13032
-conversion_datetime: 2025-12-27 14:55:22.411304
+processing_time: 0.1314132
+conversion_datetime: 2025-12-31 04:59:31.49464
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 micafungin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -138,7 +140,7 @@ English (EN) (80.76 KB - PDF)
 
 [View](/en/documents/overview/mycamine-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-366)
+[Other languages (21)](#file-language-dropdown-128)
 
 български (BG) (108.09 KB - PDF)
 
@@ -414,7 +416,7 @@ English (EN) (442.23 KB - PDF)
 
 [View](/en/documents/product-information/mycamine-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-524)
+[Other languages (24)](#file-language-dropdown-726)
 
 български (BG) (511.84 KB - PDF)
 
@@ -730,7 +732,7 @@ English (EN) (11.34 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mycamine-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-488)
+[Other languages (24)](#file-language-dropdown-968)
 
 български (BG) (69.48 KB - PDF)
 
@@ -1030,7 +1032,7 @@ English (EN) (19.77 KB - PDF)
 
 [View](/en/documents/conditions-member-states/mycamine-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-699)
+[Other languages (23)](#file-language-dropdown-267)
 
 български (BG) (125.04 KB - PDF)
 

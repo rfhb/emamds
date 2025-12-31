@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 10:19:45
+document_datetime: 2025-12-29 14:37:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eperzan.html
 document_name: eperzan.html
 version: success
-processing_time: 0.1061668
-conversion_datetime: 2025-12-26 09:41:50.553387
+processing_time: 0.1024526
+conversion_datetime: 2025-12-31 07:56:50.28726
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-albiglutide
+albiglutide Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -68,7 +64,7 @@ English (EN) (562.4 KB - PDF)
 
 [View](/en/documents/overview/eperzan-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-127)
+[Other languages (22)](#file-language-dropdown-277)
 
 български (BG) (624.69 KB - PDF)
 
@@ -346,7 +342,7 @@ English (EN) (1.3 MB - PDF)
 
 [View](/en/documents/product-information/eperzan-epar-product-information_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-148)
+[Other languages (22)](#file-language-dropdown-522)
 
 български (BG) (3.78 MB - PDF)
 
@@ -638,7 +634,7 @@ English (EN) (464.95 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/eperzan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-365)
+[Other languages (24)](#file-language-dropdown-389)
 
 български (BG) (530.35 KB - PDF)
 

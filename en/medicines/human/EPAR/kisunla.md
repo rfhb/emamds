@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:14:48
+document_datetime: 2025-12-29 09:22:24
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kisunla.html
 document_name: kisunla.html
 version: success
-processing_time: 0.1154677
-conversion_datetime: 2025-12-27 16:44:51.482671
+processing_time: 0.1214468
+conversion_datetime: 2025-12-31 01:31:36.755807
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 donanemab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +122,7 @@ English (EN) (131.98 KB - PDF)
 
 [View](/en/documents/overview/kisunla-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-443)
+[Other languages (22)](#file-language-dropdown-700)
 
 български (BG) (158.15 KB - PDF)
 
@@ -316,7 +318,7 @@ English (EN) (553.32 KB - PDF)
 
 [View](/en/documents/product-information/kisunla-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-677)
+[Other languages (24)](#file-language-dropdown-552)
 
 български (BG) (684.53 KB - PDF)
 
@@ -532,7 +534,7 @@ English (EN) (69.45 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kisunla-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-258)
+[Other languages (24)](#file-language-dropdown-119)
 
 български (BG) (122.58 KB - PDF)
 
@@ -734,7 +736,7 @@ English (EN) (92.08 KB - PDF)
 
 [View](/en/documents/conditions-member-states/kisunla-epar-conditions-imposed-member-states-safe-effective-use_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-711)
+[Other languages (25)](#file-language-dropdown-77)
 
 български (BG) (111.54 KB - PDF)
 

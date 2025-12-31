@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:51:04
+document_datetime: 2025-12-29 11:36:55
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/evrenzo.html
 document_name: evrenzo.html
 version: success
-processing_time: 0.105518
-conversion_datetime: 2025-12-28 04:44:52.280945
+processing_time: 0.1137094
+conversion_datetime: 2025-12-31 07:55:59.993542
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 roxadustat Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (120.73 KB - PDF)
 
 [View](/en/documents/overview/evrenzo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-540)
+[Other languages (22)](#file-language-dropdown-268)
 
 български (BG) (143.6 KB - PDF)
 
@@ -310,7 +312,7 @@ English (EN) (497.05 KB - PDF)
 
 [View](/en/documents/product-information/evrenzo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-902)
+[Other languages (24)](#file-language-dropdown-346)
 
 български (BG) (1.49 MB - PDF)
 
@@ -626,7 +628,7 @@ English (EN) (702.23 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/evrenzo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-266)
+[Other languages (24)](#file-language-dropdown-254)
 
 български (BG) (188.27 KB - PDF)
 

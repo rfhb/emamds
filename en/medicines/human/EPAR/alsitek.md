@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:03:00
+document_datetime: 2025-12-29 08:11:26
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/alsitek.html
 document_name: alsitek.html
 version: success
-processing_time: 0.0706638
-conversion_datetime: 2025-12-29 19:42:22.397592
+processing_time: 0.0665466
+conversion_datetime: 2025-12-31 04:21:05.470288
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine has been refused authorisation
 
-masitinib
+masitinib Medicine Human Refused
 
-Medicine
-
-Human
-
-Refused
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +102,7 @@ English (EN) (91.89 KB - PDF)
 
 [View](/en/documents/smop-initial/questions-and-answers-refusal-marketing-authorisation-alsitek-masitinib_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-285)
+[Other languages (22)](#file-language-dropdown-331)
 
 български (BG) (99.23 KB - PDF)
 

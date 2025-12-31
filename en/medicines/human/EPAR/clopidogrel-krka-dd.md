@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:59:57
+document_datetime: 2025-12-29 14:34:48
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-krka-dd.html
 document_name: clopidogrel-krka-dd.html
 version: success
-processing_time: 0.1225371
-conversion_datetime: 2025-12-28 00:42:51.277262
+processing_time: 0.1265997
+conversion_datetime: 2025-12-31 04:06:03.461723
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 clopidogrel Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -102,7 +104,7 @@ English (EN) (61.71 KB - PDF)
 
 [View](/en/documents/overview/clopidogrel-krka-dd-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-304)
+[Other languages (21)](#file-language-dropdown-542)
 
 български (BG) (97.52 KB - PDF)
 
@@ -368,7 +370,7 @@ English (EN) (262.2 KB - PDF)
 
 [View](/en/documents/product-information/clopidogrel-krka-dd-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-124)
+[Other languages (24)](#file-language-dropdown-275)
 
 български (BG) (318.04 KB - PDF)
 
@@ -684,7 +686,7 @@ English (EN) (55.1 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/clopidogrel-krka-dd-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-977)
+[Other languages (23)](#file-language-dropdown-727)
 
 български (BG) (57.41 KB - PDF)
 
@@ -1057,7 +1059,7 @@ English (EN) (82.89 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/clopidogrel-krka-dd-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (23)](#file-language-dropdown-967)
+[Other languages (23)](#file-language-dropdown-450)
 
 български (BG) (103.91 KB - DOCX)
 

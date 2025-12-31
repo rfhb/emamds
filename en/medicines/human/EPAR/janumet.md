@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:06:03
+document_datetime: 2025-12-29 11:14:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/janumet.html
 document_name: janumet.html
 version: success
-processing_time: 0.1525274
-conversion_datetime: 2025-12-28 12:50:10.69287
+processing_time: 0.1517264
+conversion_datetime: 2025-12-31 03:35:28.099434
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sitagliptin / metformin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +124,7 @@ English (EN) (81.49 KB - PDF)
 
 [View](/en/documents/overview/janumet-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-35)
+[Other languages (21)](#file-language-dropdown-932)
 
 български (BG) (136.82 KB - PDF)
 
@@ -396,7 +398,7 @@ English (EN) (418.33 KB - PDF)
 
 [View](/en/documents/product-information/janumet-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-834)
+[Other languages (24)](#file-language-dropdown-311)
 
 български (BG) (393.33 KB - PDF)
 
@@ -712,7 +714,7 @@ English (EN) (20.92 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/janumet-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-305)
+[Other languages (24)](#file-language-dropdown-880)
 
 български (BG) (43.02 KB - PDF)
 
@@ -1103,7 +1105,7 @@ English (EN) (32.54 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/janumet-epar-scientific-conclusion_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-300)
+[Other languages (24)](#file-language-dropdown-278)
 
 български (BG) (69.5 KB - PDF)
 
@@ -1495,7 +1497,7 @@ English (EN) (352 KB - DOC)
 
 [View](/en/documents/product-information-tracked-changes/janumet-epar-product-information-tracked-changes_en.doc)
 
-[Other languages (24)](#file-language-dropdown-247)
+[Other languages (24)](#file-language-dropdown-983)
 
 български (BG) (513.5 KB - DOC)
 

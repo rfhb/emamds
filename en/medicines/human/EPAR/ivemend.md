@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:32
+document_datetime: 2025-12-29 11:56:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ivemend.html
 document_name: ivemend.html
 version: success
-processing_time: 0.452796
-conversion_datetime: 2025-12-26 17:25:53.887298
+processing_time: 0.1199658
+conversion_datetime: 2025-12-31 02:16:09.037617
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 fosaprepitant Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -99,7 +101,7 @@ English (EN) (203.44 KB - PDF)
 
 [View](/en/documents/overview/ivemend-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-189)
+[Other languages (22)](#file-language-dropdown-971)
 
 български (BG) (135.56 KB - PDF)
 
@@ -377,7 +379,7 @@ English (EN) (363.91 KB - PDF)
 
 [View](/en/documents/product-information/ivemend-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-823)
+[Other languages (24)](#file-language-dropdown-840)
 
 български (BG) (337.14 KB - PDF)
 
@@ -693,7 +695,7 @@ English (EN) (9.94 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ivemend-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-587)
+[Other languages (24)](#file-language-dropdown-922)
 
 български (BG) (39.12 KB - PDF)
 

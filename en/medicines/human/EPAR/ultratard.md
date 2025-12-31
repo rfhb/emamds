@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:02:56
+document_datetime: 2025-12-29 07:55:31
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ultratard.html
 document_name: ultratard.html
 version: success
-processing_time: 0.0882543
-conversion_datetime: 2025-12-24 23:48:58.481095
+processing_time: 0.088382
+conversion_datetime: 2025-12-31 04:46:29.430627
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-insulin human (rDNA)
+insulin human (rDNA) Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +60,7 @@ English (EN) (272.18 KB - PDF)
 
 [View](/en/documents/overview/ultratard-epar-summary-public_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-339)
+[Other languages (18)](#file-language-dropdown-870)
 
 español (ES) (273.69 KB - PDF)
 
@@ -294,7 +290,7 @@ English (EN) (576.82 KB - PDF)
 
 [View](/en/documents/product-information/ultratard-epar-product-information_en.pdf)
 
-[Other languages (10)](#file-language-dropdown-871)
+[Other languages (10)](#file-language-dropdown-872)
 
 español (ES) (625.5 KB - PDF)
 
@@ -442,7 +438,7 @@ English (EN) (273.52 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ultratard-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-378)
+[Other languages (18)](#file-language-dropdown-993)
 
 español (ES) (275.39 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:26:44
+document_datetime: 2025-12-29 21:36:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xegafri.html
 document_name: xegafri.html
 version: success
-processing_time: 0.0688083
-conversion_datetime: 2025-12-29 23:07:19.361016
+processing_time: 0.0699044
+conversion_datetime: 2025-12-31 03:50:21.257942
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -98,7 +100,7 @@ English (EN) (67.46 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-xegafri-rociletinib_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-459)
+[Other languages (22)](#file-language-dropdown-405)
 
 български (BG) (101.55 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:48:54
+document_datetime: 2025-12-29 11:31:14
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/votrient.html
 document_name: votrient.html
 version: success
-processing_time: 0.12169
-conversion_datetime: 2025-12-28 10:11:28.357935
+processing_time: 0.1218845
+conversion_datetime: 2025-12-31 03:29:45.792638
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pazopanib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (87.91 KB - PDF)
 
 [View](/en/documents/overview/votrient-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-602)
+[Other languages (21)](#file-language-dropdown-41)
 
 български (BG) (139.35 KB - PDF)
 
@@ -392,7 +394,7 @@ English (EN) (563.31 KB - PDF)
 
 [View](/en/documents/product-information/votrient-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-108)
+[Other languages (24)](#file-language-dropdown-444)
 
 български (BG) (750.21 KB - PDF)
 
@@ -708,7 +710,7 @@ English (EN) (11.44 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/votrient-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-922)
+[Other languages (23)](#file-language-dropdown-670)
 
 български (BG) (50.03 KB - PDF)
 

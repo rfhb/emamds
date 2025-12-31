@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:38:19
+document_datetime: 2025-12-29 07:38:37
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sycrest.html
 document_name: sycrest.html
 version: success
-processing_time: 0.1063821
-conversion_datetime: 2025-12-28 02:11:09.866395
+processing_time: 0.1091031
+conversion_datetime: 2025-12-31 02:39:51.263185
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 asenapine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (83.12 KB - PDF)
 
 [View](/en/documents/overview/sycrest-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-750)
+[Other languages (22)](#file-language-dropdown-909)
 
 български (BG) (112.73 KB - PDF)
 
@@ -394,7 +396,7 @@ English (EN) (358.72 KB - PDF)
 
 [View](/en/documents/product-information/sycrest-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-960)
+[Other languages (24)](#file-language-dropdown-940)
 
 български (BG) (479.42 KB - PDF)
 
@@ -710,7 +712,7 @@ English (EN) (50.04 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sycrest-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-806)
+[Other languages (24)](#file-language-dropdown-50)
 
 български (BG) (58.94 KB - PDF)
 

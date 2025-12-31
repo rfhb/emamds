@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:53:21
+document_datetime: 2025-12-29 11:11:32
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dukoral.html
 document_name: dukoral.html
 version: success
-processing_time: 0.1053555
-conversion_datetime: 2025-12-29 20:35:54.654808
+processing_time: 0.1082741
+conversion_datetime: 2025-12-31 04:54:19.463429
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:14:37
+document_datetime: 2025-12-29 12:23:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pomalidomide-zentiva.html
 document_name: pomalidomide-zentiva.html
 version: success
-processing_time: 0.1392849
-conversion_datetime: 2025-12-27 14:14:28.057844
+processing_time: 0.1426071
+conversion_datetime: 2025-12-31 05:06:02.433345
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pomalidomide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -102,7 +104,7 @@ English (EN) (135.49 KB - PDF)
 
 [View](/en/documents/overview/pomalidomide-zentiva-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-753)
+[Other languages (22)](#file-language-dropdown-722)
 
 български (BG) (160.95 KB - PDF)
 
@@ -388,7 +390,7 @@ English (EN) (491.13 KB - PDF)
 
 [View](/en/documents/product-information/pomalidomide-zentiva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-141)
+[Other languages (24)](#file-language-dropdown-42)
 
 български (BG) (1.02 MB - PDF)
 
@@ -702,7 +704,7 @@ English (EN) (36.1 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pomalidomide-zentiva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-679)
+[Other languages (24)](#file-language-dropdown-855)
 
 български (BG) (65.86 KB - PDF)
 
@@ -904,7 +906,7 @@ English (EN) (81.87 KB - PDF)
 
 [View](/en/documents/conditions-member-states/pomalidomide-zentiva-epar-conditions-imposed-member-states-safe-effective-use-annex-related-art-127a_en.pdf)
 
-[Other languages (25)](#file-language-dropdown-957)
+[Other languages (25)](#file-language-dropdown-452)
 
 български (BG) (118.02 KB - PDF)
 
@@ -1194,7 +1196,7 @@ English (EN) (351.02 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/pomalidomide-zentiva-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-905)
+[Other languages (24)](#file-language-dropdown-305)
 
 български (BG) (1017.31 KB - DOCX)
 

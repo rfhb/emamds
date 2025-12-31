@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:50:01
+document_datetime: 2025-12-29 07:30:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sitagliptin-sun.html
 document_name: sitagliptin-sun.html
 version: success
-processing_time: 0.1024258
-conversion_datetime: 2025-12-24 08:46:32.438774
+processing_time: 0.1060577
+conversion_datetime: 2025-12-31 02:05:14.931165
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sitagliptin fumarate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -101,7 +103,7 @@ English (EN) (168.09 KB - PDF)
 
 [View](/en/documents/overview/sitagliptin-sun-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-555)
+[Other languages (22)](#file-language-dropdown-34)
 
 български (BG) (192.6 KB - PDF)
 
@@ -299,7 +301,7 @@ English (EN) (491.55 KB - PDF)
 
 [View](/en/documents/product-information/sitagliptin-sun-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-133)
+[Other languages (24)](#file-language-dropdown-486)
 
 български (BG) (642.31 KB - PDF)
 
@@ -615,7 +617,7 @@ English (EN) (78.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sitagliptin-sun-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-432)
+[Other languages (24)](#file-language-dropdown-200)
 
 български (BG) (103 KB - PDF)
 

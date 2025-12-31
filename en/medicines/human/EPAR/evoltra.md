@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:39:35
+document_datetime: 2025-12-29 08:08:32
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/evoltra.html
 document_name: evoltra.html
 version: success
-processing_time: 0.1167113
-conversion_datetime: 2025-12-28 02:19:49.576424
+processing_time: 0.1173023
+conversion_datetime: 2025-12-31 07:39:23.847987
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 clofarabine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +121,7 @@ English (EN) (78 KB - PDF)
 
 [View](/en/documents/overview/evoltra-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-404)
+[Other languages (22)](#file-language-dropdown-294)
 
 български (BG) (104.61 KB - PDF)
 
@@ -405,7 +407,7 @@ English (EN) (496.24 KB - PDF)
 
 [View](/en/documents/product-information/evoltra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-408)
+[Other languages (24)](#file-language-dropdown-576)
 
 български (BG) (535.4 KB - PDF)
 
@@ -721,7 +723,7 @@ English (EN) (24.56 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/evoltra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-787)
+[Other languages (21)](#file-language-dropdown-371)
 
 български (BG) (92 KB - PDF)
 

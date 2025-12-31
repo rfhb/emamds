@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:06:39
+document_datetime: 2025-12-29 08:21:17
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zynteglo.html
 document_name: zynteglo.html
 version: success
-processing_time: 0.1210078
-conversion_datetime: 2025-12-28 08:25:59.223194
+processing_time: 0.1221587
+conversion_datetime: 2025-12-31 03:36:37.922322
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 betibeglogene autotemcel Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -61,7 +63,7 @@ English (EN) (649.46 KB - PDF)
 
 [View](/en/documents/overview/zynteglo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-631)
+[Other languages (22)](#file-language-dropdown-939)
 
 български (BG) (730.96 KB - PDF)
 
@@ -261,7 +263,7 @@ English (EN) (5.36 MB - PDF)
 
 [View](/en/documents/product-information/zynteglo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-866)
+[Other languages (24)](#file-language-dropdown-568)
 
 български (BG) (5.88 MB - PDF)
 
@@ -575,7 +577,7 @@ English (EN) (598.58 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zynteglo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-322)
+[Other languages (24)](#file-language-dropdown-780)
 
 български (BG) (635.96 KB - PDF)
 
@@ -835,7 +837,7 @@ English (EN) (658.3 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/zynteglo-epar-scientific-conclusions_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-353)
+[Other languages (22)](#file-language-dropdown-79)
 
 български (BG) (806.82 KB - PDF)
 

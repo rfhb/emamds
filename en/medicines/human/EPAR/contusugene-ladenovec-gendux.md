@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:05:02
+document_datetime: 2025-12-29 16:15:57
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/contusugene-ladenovec-gendux.html
 document_name: contusugene-ladenovec-gendux.html
 version: success
-processing_time: 0.0690412
-conversion_datetime: 2025-12-26 21:08:10.150143
+processing_time: 0.0677484
+conversion_datetime: 2025-12-31 01:51:52.233076
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +107,7 @@ English (EN) (43.18 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-contusugene-ladenovec-gendux-contusugene-ladenovec_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-846)
+[Other languages (21)](#file-language-dropdown-201)
 
 български (BG) (195.7 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:07:20
+document_datetime: 2025-12-29 14:35:52
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lartruvo.html
 document_name: lartruvo.html
 version: success
-processing_time: 0.3040556
-conversion_datetime: 2025-12-24 20:35:46.297268
+processing_time: 0.2435578
+conversion_datetime: 2025-12-31 01:26:11.505277
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been revoked
 
-olaratumab
+olaratumab Medicine Human Revoked
 
-Medicine
-
-Human
-
-Revoked
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +60,7 @@ English (EN) (528.34 KB - PDF)
 
 [View](/en/documents/overview/lartruvo-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-467)
+[Other languages (21)](#file-language-dropdown-369)
 
 български (BG) (597.72 KB - PDF)
 
@@ -330,7 +326,7 @@ English (EN) (901.3 KB - PDF)
 
 [View](/en/documents/product-information/lartruvo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-625)
+[Other languages (24)](#file-language-dropdown-160)
 
 български (BG) (1.93 MB - PDF)
 
@@ -646,7 +642,7 @@ English (EN) (455.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lartruvo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-377)
+[Other languages (24)](#file-language-dropdown-530)
 
 български (BG) (519.57 KB - PDF)
 

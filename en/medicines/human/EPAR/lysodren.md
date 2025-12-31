@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:04:42
+document_datetime: 2025-12-29 14:33:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lysodren.html
 document_name: lysodren.html
 version: success
-processing_time: 0.1061202
-conversion_datetime: 2025-12-28 04:36:02.206627
+processing_time: 0.1117977
+conversion_datetime: 2025-12-31 05:10:01.257015
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 mitotane Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (76.28 KB - PDF)
 
 [View](/en/documents/overview/lysodren-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-316)
+[Other languages (21)](#file-language-dropdown-457)
 
 български (BG) (130.04 KB - PDF)
 
@@ -379,7 +381,7 @@ English (EN) (530.88 KB - PDF)
 
 [View](/en/documents/product-information/lysodren-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-486)
+[Other languages (24)](#file-language-dropdown-406)
 
 български (BG) (483.19 KB - PDF)
 
@@ -695,7 +697,7 @@ English (EN) (57.27 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lysodren-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-953)
+[Other languages (18)](#file-language-dropdown-456)
 
 español (ES) (56.72 KB - PDF)
 

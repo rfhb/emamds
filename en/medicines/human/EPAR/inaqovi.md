@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:56:12
+document_datetime: 2025-12-29 13:11:10
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/inaqovi.html
 document_name: inaqovi.html
 version: success
-processing_time: 0.1085706
-conversion_datetime: 2025-12-28 00:27:36.89044
+processing_time: 0.1090283
+conversion_datetime: 2025-12-31 03:26:33.292962
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 cedazuridine / decitabine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (121.54 KB - PDF)
 
 [View](/en/documents/overview/inaqovi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-387)
+[Other languages (22)](#file-language-dropdown-912)
 
 български (BG) (147.32 KB - PDF)
 
@@ -307,7 +309,7 @@ English (EN) (444.32 KB - PDF)
 
 [View](/en/documents/product-information/inaqovi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-723)
+[Other languages (24)](#file-language-dropdown-534)
 
 български (BG) (479.39 KB - PDF)
 
@@ -621,7 +623,7 @@ English (EN) (17.3 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/inaqovi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-964)
+[Other languages (24)](#file-language-dropdown-87)
 
 български (BG) (36.31 KB - PDF)
 
@@ -927,7 +929,7 @@ This product is no longer an orphan medicine. It was originally designated an or
 
 #### More information on Inaqovi
 
-- [EMEA-003071-PIP01-21-M01 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-003071-pip01-21-m01)
+- [EMA/PE/0000182217 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000182217)
 - [Inaqovi - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/inaqovi)
 
 **This page was last updated on** 10/03/2025

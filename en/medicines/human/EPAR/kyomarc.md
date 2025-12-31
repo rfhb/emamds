@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:29:39
+document_datetime: 2025-12-29 08:31:41
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kyomarc.html
 document_name: kyomarc.html
 version: success
-processing_time: 0.0361732
-conversion_datetime: 2025-12-28 15:31:37.278882
+processing_time: 0.0471375
+conversion_datetime: 2025-12-31 04:49:20.898824
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 bevacizumab Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

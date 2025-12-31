@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:07:27
+document_datetime: 2025-12-29 12:06:44
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/daquiran.html
 document_name: daquiran.html
 version: success
-processing_time: 0.0361052
-conversion_datetime: 2025-12-27 14:27:11.436997
+processing_time: 0.0434194
+conversion_datetime: 2025-12-31 05:05:44.789378
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-pramipexole
+pramipexole Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 

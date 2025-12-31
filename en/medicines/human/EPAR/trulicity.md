@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:01:23
+document_datetime: 2025-12-29 08:00:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trulicity.html
 document_name: trulicity.html
 version: success
-processing_time: 0.1143388
-conversion_datetime: 2025-12-29 21:51:33.588397
+processing_time: 0.1217061
+conversion_datetime: 2025-12-31 01:33:12.11183
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

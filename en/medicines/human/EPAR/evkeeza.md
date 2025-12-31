@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:02:51
+document_datetime: 2025-12-29 11:04:36
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/evkeeza.html
 document_name: evkeeza.html
 version: success
-processing_time: 0.1154428
-conversion_datetime: 2025-12-27 19:46:50.18847
+processing_time: 0.1071369
+conversion_datetime: 2025-12-31 07:44:23.539083
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 evinacumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (101.37 KB - PDF)
 
 [View](/en/documents/overview/evkeeza-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-981)
+[Other languages (21)](#file-language-dropdown-177)
 
 български (BG) (125.66 KB - PDF)
 
@@ -392,7 +394,7 @@ English (EN) (397.32 KB - PDF)
 
 [View](/en/documents/product-information/evkeeza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-351)
+[Other languages (24)](#file-language-dropdown-213)
 
 български (BG) (510 KB - PDF)
 
@@ -706,7 +708,7 @@ English (EN) (61.47 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/evkeeza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-495)
+[Other languages (24)](#file-language-dropdown-698)
 
 български (BG) (69.93 KB - PDF)
 

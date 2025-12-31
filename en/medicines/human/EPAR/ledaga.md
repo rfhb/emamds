@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:00:00
+document_datetime: 2025-12-29 12:59:34
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ledaga.html
 document_name: ledaga.html
 version: success
-processing_time: 0.1127901
-conversion_datetime: 2025-12-28 12:47:49.43104
+processing_time: 0.1099484
+conversion_datetime: 2025-12-31 07:33:08.014322
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 chlormethine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (76.12 KB - PDF)
 
 [View](/en/documents/overview/ledaga-epar-summary-public_en.pdf-0)
 
-[Other languages (22)](#file-language-dropdown-596)
+[Other languages (22)](#file-language-dropdown-944)
 
 български (BG) (101.71 KB - PDF)
 
@@ -407,7 +409,7 @@ English (EN) (341.41 KB - PDF)
 
 [View](/en/documents/product-information/ledaga-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-249)
+[Other languages (24)](#file-language-dropdown-566)
 
 български (BG) (450.78 KB - PDF)
 
@@ -723,7 +725,7 @@ English (EN) (10.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ledaga-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-83)
+[Other languages (24)](#file-language-dropdown-791)
 
 български (BG) (29.42 KB - PDF)
 

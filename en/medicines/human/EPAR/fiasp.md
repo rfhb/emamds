@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:39:57
+document_datetime: 2025-12-29 08:22:21
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fiasp.html
 document_name: fiasp.html
 version: success
-processing_time: 0.1187128
-conversion_datetime: 2025-12-27 23:16:27.158622
+processing_time: 0.3152283
+conversion_datetime: 2025-12-31 05:01:58.673028
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin aspart Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (110.22 KB - PDF)
 
 [View](/en/documents/overview/fiasp-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-987)
+[Other languages (22)](#file-language-dropdown-30)
 
 български (BG) (141.44 KB - PDF)
 
@@ -397,7 +399,7 @@ English (EN) (1.03 MB - PDF)
 
 [View](/en/documents/product-information/fiasp-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-728)
+[Other languages (24)](#file-language-dropdown-94)
 
 български (BG) (1.26 MB - PDF)
 
@@ -713,7 +715,7 @@ English (EN) (65.48 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fiasp-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-168)
+[Other languages (24)](#file-language-dropdown-344)
 
 български (BG) (79.81 KB - PDF)
 

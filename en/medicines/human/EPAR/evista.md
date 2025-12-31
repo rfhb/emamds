@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:48:40
+document_datetime: 2025-12-29 11:50:37
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/evista.html
 document_name: evista.html
 version: success
-processing_time: 0.1085295
-conversion_datetime: 2025-12-25 07:39:43.743714
+processing_time: 0.1110983
+conversion_datetime: 2025-12-31 02:16:00.193967
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 raloxifene Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (43.68 KB - PDF)
 
 [View](/en/documents/overview/evista-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-668)
+[Other languages (21)](#file-language-dropdown-918)
 
 български (BG) (233.75 KB - PDF)
 
@@ -383,7 +385,7 @@ English (EN) (267.96 KB - PDF)
 
 [View](/en/documents/product-information/evista-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-315)
+[Other languages (24)](#file-language-dropdown-2)
 
 български (BG) (385.19 KB - PDF)
 
@@ -699,7 +701,7 @@ English (EN) (45.42 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/evista-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-474)
+[Other languages (24)](#file-language-dropdown-796)
 
 български (BG) (59.03 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:36:29
+document_datetime: 2025-12-29 09:23:44
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/verquvo.html
 document_name: verquvo.html
 version: success
-processing_time: 0.1094443
-conversion_datetime: 2025-12-28 01:38:01.863341
+processing_time: 0.1095409
+conversion_datetime: 2025-12-31 03:46:35.141512
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 vericiguat Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (128.8 KB - PDF)
 
 [View](/en/documents/overview/verquvo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-39)
+[Other languages (22)](#file-language-dropdown-14)
 
 български (BG) (151.34 KB - PDF)
 
@@ -392,7 +394,7 @@ English (EN) (783.7 KB - PDF)
 
 [View](/en/documents/product-information/verquvo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-962)
+[Other languages (24)](#file-language-dropdown-420)
 
 български (BG) (1.27 MB - PDF)
 
@@ -706,7 +708,7 @@ English (EN) (99.45 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/verquvo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-704)
+[Other languages (24)](#file-language-dropdown-198)
 
 български (BG) (105.48 KB - PDF)
 

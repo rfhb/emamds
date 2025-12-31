@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 12:58:53
+document_datetime: 2025-12-29 11:45:33
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/altuvoct.html
 document_name: altuvoct.html
 version: success
-processing_time: 0.1097498
-conversion_datetime: 2025-12-27 20:48:01.189386
+processing_time: 0.107088
+conversion_datetime: 2025-12-31 05:10:45.9869
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -116,7 +116,7 @@ English (EN) (113.94 KB - PDF)
 
 [View](/en/documents/overview/altuvoct-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-923)
+[Other languages (22)](#file-language-dropdown-267)
 
 български (BG) (137.76 KB - PDF)
 
@@ -314,7 +314,7 @@ English (EN) (446.88 KB - PDF)
 
 [View](/en/documents/product-information/altuvoct-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-339)
+[Other languages (24)](#file-language-dropdown-546)
 
 български (BG) (545.75 KB - PDF)
 
@@ -628,7 +628,7 @@ English (EN) (24.84 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/altuvoct-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-294)
+[Other languages (24)](#file-language-dropdown-808)
 
 български (BG) (56.86 KB - PDF)
 

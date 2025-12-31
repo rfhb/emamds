@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-09 23:15:46
+document_datetime: 2025-12-29 08:06:12
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/protopic.html
 document_name: protopic.html
 version: success
-processing_time: 0.1461662
-conversion_datetime: 2025-12-28 11:21:26.979292
+processing_time: 0.1463768
+conversion_datetime: 2025-12-31 02:52:26.811144
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tacrolimus Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (112.64 KB - PDF)
 
 [View](/en/documents/overview/protopic-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-419)
+[Other languages (21)](#file-language-dropdown-311)
 
 български (BG) (159.21 KB - PDF)
 
@@ -389,7 +391,7 @@ English (EN) (4.06 MB - PDF)
 
 [View](/en/documents/product-information/protopic-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-476)
+[Other languages (24)](#file-language-dropdown-435)
 
 български (BG) (4.14 MB - PDF)
 
@@ -439,7 +441,7 @@ dansk (DA) (3.09 MB - PDF)
 
 [View](/da/documents/product-information/protopic-epar-product-information_da.pdf)
 
-Deutsch (DE) (3.12 MB - PDF)
+Deutsch (DE) (385.11 KB - PDF)
 
 **First published:**
 
@@ -447,7 +449,7 @@ Deutsch (DE) (3.12 MB - PDF)
 
 **Last updated:**
 
-02/12/2025
+16/12/2025
 
 [View](/de/documents/product-information/protopic-epar-product-information_de.pdf)
 
@@ -705,7 +707,7 @@ English (EN) (6.98 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/protopic-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-360)
+[Other languages (24)](#file-language-dropdown-84)
 
 български (BG) (43.78 KB - PDF)
 
@@ -1125,7 +1127,7 @@ English (EN) (19.14 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/protopic-epar-scientific-conclusion_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-184)
+[Other languages (18)](#file-language-dropdown-36)
 
 español (ES) (19.92 KB - PDF)
 
@@ -1377,7 +1379,7 @@ English (EN) (126.6 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/protopic-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-174)
+[Other languages (24)](#file-language-dropdown-820)
 
 български (BG) (124.78 KB - DOCX)
 

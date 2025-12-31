@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:53:18
+document_datetime: 2025-12-29 07:05:31
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vyndaqel.html
 document_name: vyndaqel.html
 version: success
-processing_time: 0.1643512
-conversion_datetime: 2025-12-27 17:05:08.342661
+processing_time: 0.1702488
+conversion_datetime: 2025-12-31 03:33:56.044152
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tafamidis Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +122,7 @@ English (EN) (78.69 KB - PDF)
 
 [View](/en/documents/overview/vyndaqel-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-489)
+[Other languages (22)](#file-language-dropdown-414)
 
 български (BG) (103.94 KB - PDF)
 
@@ -408,7 +410,7 @@ English (EN) (486.44 KB - PDF)
 
 [View](/en/documents/product-information/vyndaqel-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-948)
+[Other languages (24)](#file-language-dropdown-300)
 
 български (BG) (513.53 KB - PDF)
 
@@ -724,7 +726,7 @@ English (EN) (31.93 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vyndaqel-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-621)
+[Other languages (24)](#file-language-dropdown-598)
 
 български (BG) (33.34 KB - PDF)
 
@@ -1024,7 +1026,7 @@ English (EN) (95.21 KB - PDF)
 
 [View](/en/documents/conditions-member-states/vyndaqel-epar-conditions-imposed-member-states-safe-and-effective-use_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-496)
+[Other languages (23)](#file-language-dropdown-581)
 
 български (BG) (130.36 KB - PDF)
 
@@ -1312,7 +1314,7 @@ English (EN) (61.67 KB - PDF)
 
 [View](/en/documents/conditions-member-states/vyndaqel-epar-conclusions-granting-marketing-authorisation-under-exceptional-circumstances-annex-iv_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-515)
+[Other languages (24)](#file-language-dropdown-174)
 
 български (BG) (105.99 KB - PDF)
 
@@ -1746,7 +1748,7 @@ English (EN) (276.88 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/vyndaqel-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-361)
+[Other languages (24)](#file-language-dropdown-874)
 
 български (BG) (338.7 KB - DOCX)
 

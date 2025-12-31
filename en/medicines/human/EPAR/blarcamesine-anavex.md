@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 13:09:13
+document_datetime: 2025-12-29 11:27:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/blarcamesine-anavex.html
 document_name: blarcamesine-anavex.html
 version: success
-processing_time: 0.0466884
-conversion_datetime: 2025-12-26 13:22:04.248537
+processing_time: 0.0324005
+conversion_datetime: 2025-12-31 04:05:45.729658
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

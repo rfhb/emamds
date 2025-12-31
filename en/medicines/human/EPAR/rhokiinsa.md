@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:17:38
+document_datetime: 2025-12-29 12:18:58
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rhokiinsa.html
 document_name: rhokiinsa.html
 version: success
-processing_time: 0.1154029
-conversion_datetime: 2025-12-24 07:06:12.35718
+processing_time: 0.106353
+conversion_datetime: 2025-12-31 04:31:28.634097
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 netarsudil Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,7 +106,7 @@ English (EN) (128.33 KB - PDF)
 
 [View](/en/documents/overview/rhokiinsa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-172)
+[Other languages (22)](#file-language-dropdown-811)
 
 български (BG) (102.47 KB - PDF)
 
@@ -304,7 +306,7 @@ English (EN) (375.36 KB - PDF)
 
 [View](/en/documents/product-information/rhokiinsa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-803)
+[Other languages (24)](#file-language-dropdown-458)
 
 български (BG) (422.24 KB - PDF)
 
@@ -618,7 +620,7 @@ English (EN) (19.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rhokiinsa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-516)
+[Other languages (24)](#file-language-dropdown-558)
 
 български (BG) (41.49 KB - PDF)
 

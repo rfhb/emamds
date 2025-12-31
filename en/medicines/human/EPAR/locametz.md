@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:54:18
+document_datetime: 2025-12-29 08:17:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/locametz.html
 document_name: locametz.html
 version: success
-processing_time: 0.1075954
-conversion_datetime: 2025-12-28 12:11:46.44425
+processing_time: 0.1072338
+conversion_datetime: 2025-12-31 04:12:28.071939
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 gozetotide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +107,7 @@ English (EN) (142.86 KB - PDF)
 
 [View](/en/documents/overview/locametz-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-708)
+[Other languages (22)](#file-language-dropdown-8)
 
 български (BG) (166.84 KB - PDF)
 
@@ -305,7 +307,7 @@ English (EN) (360.74 KB - PDF)
 
 [View](/en/documents/product-information/locametz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-900)
+[Other languages (24)](#file-language-dropdown-713)
 
 български (BG) (446.93 KB - PDF)
 
@@ -619,7 +621,7 @@ English (EN) (39.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/locametz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-707)
+[Other languages (24)](#file-language-dropdown-675)
 
 български (BG) (47.86 KB - PDF)
 

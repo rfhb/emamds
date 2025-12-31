@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:14:23
+document_datetime: 2025-12-29 14:34:50
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-bgr.html
 document_name: clopidogrel-bgr.html
 version: success
-processing_time: 0.1272057
-conversion_datetime: 2025-12-30 02:01:32.309646
+processing_time: 0.2893726
+conversion_datetime: 2025-12-31 02:31:19.709476
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

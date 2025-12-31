@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:09:03
+document_datetime: 2025-12-29 11:44:58
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/amlodipine-valsartan-mylan.html
 document_name: amlodipine-valsartan-mylan.html
 version: success
-processing_time: 0.1615372
-conversion_datetime: 2025-12-24 05:49:35.231844
+processing_time: 0.1758731
+conversion_datetime: 2025-12-31 01:49:12.208907
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 amlodipine / valsartan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (92.77 KB - PDF)
 
 [View](/en/documents/overview/amlodipine-valsartan-mylan-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-549)
+[Other languages (22)](#file-language-dropdown-247)
 
 български (BG) (121.4 KB - PDF)
 
@@ -394,7 +396,7 @@ English (EN) (404.7 KB - PDF)
 
 [View](/en/documents/product-information/amlodipine-valsartan-mylan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-737)
+[Other languages (24)](#file-language-dropdown-877)
 
 български (BG) (517.18 KB - PDF)
 
@@ -710,7 +712,7 @@ English (EN) (92.25 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/amlodipine-valsartan-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-494)
+[Other languages (24)](#file-language-dropdown-387)
 
 български (BG) (82.54 KB - PDF)
 
@@ -1078,7 +1080,7 @@ English (EN) (119.28 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-984)
+[Other languages (22)](#file-language-dropdown-624)
 
 български (BG) (145.18 KB - PDF)
 
@@ -1276,7 +1278,7 @@ English (EN) (99.42 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/amlodipine-valsartan-mylan-epar-scientific-conclusions_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-279)
+[Other languages (22)](#file-language-dropdown-268)
 
 български (BG) (136.15 KB - PDF)
 
@@ -1514,7 +1516,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1798,7 +1800,7 @@ English (EN) (149.52 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/amlodipine-valsartan-mylan-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-208)
+[Other languages (24)](#file-language-dropdown-607)
 
 български (BG) (172.63 KB - DOCX)
 

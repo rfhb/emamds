@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:22
+document_datetime: 2025-12-29 11:47:46
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pregabalin-viatris-pharma.html
 document_name: pregabalin-viatris-pharma.html
 version: success
-processing_time: 0.1133972
-conversion_datetime: 2025-12-27 15:44:38.22041
+processing_time: 0.3122826
+conversion_datetime: 2025-12-31 04:40:23.451797
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pregabalin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (187.79 KB - PDF)
 
 [View](/en/documents/overview/pregabalin-pfizer-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-659)
+[Other languages (22)](#file-language-dropdown-819)
 
 български (BG) (192.26 KB - PDF)
 
@@ -396,7 +398,7 @@ English (EN) (661.4 KB - PDF)
 
 [View](/en/documents/product-information/pregabalin-viatris-pharma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-118)
+[Other languages (24)](#file-language-dropdown-86)
 
 български (BG) (686.93 KB - PDF)
 
@@ -712,7 +714,7 @@ English (EN) (83.69 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pregabalin-viatris-pharma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-467)
+[Other languages (24)](#file-language-dropdown-474)
 
 български (BG) (75.2 KB - PDF)
 

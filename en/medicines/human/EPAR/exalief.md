@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:20:28
+document_datetime: 2025-12-29 14:34:30
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/exalief.html
 document_name: exalief.html
 version: success
-processing_time: 0.0973091
-conversion_datetime: 2025-12-28 03:41:13.115722
+processing_time: 0.3127472
+conversion_datetime: 2025-12-31 02:50:10.929788
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has lapsed
 
 eslicarbazepine acetate Medicine Human Lapsed
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -60,7 +62,7 @@ English (EN) (233.46 KB - PDF)
 
 [View](/en/documents/overview/exalief-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-937)
+[Other languages (21)](#file-language-dropdown-66)
 
 български (BG) (373.98 KB - PDF)
 
@@ -326,7 +328,7 @@ English (EN) (426.59 KB - PDF)
 
 [View](/en/documents/product-information/exalief-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-771)
+[Other languages (23)](#file-language-dropdown-542)
 
 български (BG) (881.5 KB - PDF)
 
@@ -630,7 +632,7 @@ English (EN) (212.62 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/exalief-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-220)
+[Other languages (21)](#file-language-dropdown-347)
 
 български (BG) (295.97 KB - PDF)
 

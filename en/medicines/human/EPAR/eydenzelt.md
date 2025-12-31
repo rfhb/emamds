@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-17 23:04:41
+document_datetime: 2025-12-29 12:27:17
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eydenzelt.html
 document_name: eydenzelt.html
 version: success
-processing_time: 0.1023547
-conversion_datetime: 2025-12-27 13:12:35.916374
+processing_time: 0.1064896
+conversion_datetime: 2025-12-31 04:14:51.150718
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 aflibercept Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (146.95 KB - PDF)
 
 [View](/en/documents/overview/eydenzelt-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-650)
+[Other languages (22)](#file-language-dropdown-718)
 
 български (BG) (172 KB - PDF)
 
@@ -314,7 +316,7 @@ English (EN) (2.02 MB - PDF)
 
 [View](/en/documents/product-information/eydenzelt-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-93)
+[Other languages (24)](#file-language-dropdown-322)
 
 български (BG) (1.8 MB - PDF)
 
@@ -628,7 +630,7 @@ English (EN) (39.72 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/eydenzelt-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-915)
+[Other languages (24)](#file-language-dropdown-23)
 
 български (BG) (55.73 KB - PDF)
 

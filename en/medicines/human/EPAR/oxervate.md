@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:47:14
+document_datetime: 2025-12-29 13:01:32
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/oxervate.html
 document_name: oxervate.html
 version: success
-processing_time: 0.1116482
-conversion_datetime: 2025-12-24 23:30:34.084958
+processing_time: 0.1073099
+conversion_datetime: 2025-12-31 03:26:50.774758
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 cenegermin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (75.24 KB - PDF)
 
 [View](/en/documents/overview/oxervate-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-789)
+[Other languages (22)](#file-language-dropdown-203)
 
 български (BG) (99.79 KB - PDF)
 
@@ -395,7 +397,7 @@ English (EN) (346.89 KB - PDF)
 
 [View](/en/documents/product-information/oxervate-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-261)
+[Other languages (24)](#file-language-dropdown-40)
 
 български (BG) (582.78 KB - PDF)
 
@@ -711,7 +713,7 @@ English (EN) (12.57 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/oxervate-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-747)
+[Other languages (24)](#file-language-dropdown-756)
 
 български (BG) (34.91 KB - PDF)
 

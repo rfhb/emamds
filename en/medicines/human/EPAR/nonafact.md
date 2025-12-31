@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:35:26
+document_datetime: 2025-12-29 14:36:48
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nonafact.html
 document_name: nonafact.html
 version: success
-processing_time: 0.1030895
-conversion_datetime: 2025-12-28 09:10:17.970377
+processing_time: 0.1026095
+conversion_datetime: 2025-12-31 02:09:41.534829
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 human coagulation factor IX Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -58,7 +60,7 @@ English (EN) (1.17 MB - PDF)
 
 [View](/en/documents/overview/nonafact-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-200)
+[Other languages (22)](#file-language-dropdown-667)
 
 български (BG) (724.48 KB - PDF)
 
@@ -336,7 +338,7 @@ English (EN) (723.28 KB - PDF)
 
 [View](/en/documents/product-information/nonafact-epar-product-information_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-549)
+[Other languages (22)](#file-language-dropdown-53)
 
 български (BG) (1.46 MB - PDF)
 
@@ -628,7 +630,7 @@ English (EN) (661.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nonafact-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-273)
+[Other languages (21)](#file-language-dropdown-120)
 
 български (BG) (678.58 KB - PDF)
 

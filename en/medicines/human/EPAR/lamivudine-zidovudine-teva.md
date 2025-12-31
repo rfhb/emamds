@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 14:36:16
+document_datetime: 2025-12-29 14:34:58
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lamivudine-zidovudine-teva.html
 document_name: lamivudine-zidovudine-teva.html
 version: success
-processing_time: 0.1062274
-conversion_datetime: 2025-12-28 13:55:43.160012
+processing_time: 0.3016619
+conversion_datetime: 2025-12-31 04:10:33.500273
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-lamivudine / zidovudine
+lamivudine / zidovudine Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (658.94 KB - PDF)
 
 [View](/en/documents/overview/lamivudinezidovudine-teva-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-761)
+[Other languages (22)](#file-language-dropdown-273)
 
 български (BG) (755.24 KB - PDF)
 
@@ -344,7 +340,7 @@ English (EN) (1.02 MB - PDF)
 
 [View](/en/documents/product-information/lamivudinezidovudine-teva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-345)
+[Other languages (24)](#file-language-dropdown-562)
 
 български (BG) (2.12 MB - PDF)
 
@@ -660,7 +656,7 @@ English (EN) (593.06 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lamivudinezidovudine-teva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-998)
+[Other languages (24)](#file-language-dropdown-694)
 
 български (BG) (692.6 KB - PDF)
 

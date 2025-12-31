@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:06:43
+document_datetime: 2025-12-29 12:15:26
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ibandronic-acid-teva.html
 document_name: ibandronic-acid-teva.html
 version: success
-processing_time: 0.1247316
-conversion_datetime: 2025-12-24 21:56:28.029124
+processing_time: 0.1248985
+conversion_datetime: 2025-12-31 01:43:52.255501
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-ibandronic acid
+ibandronic acid Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +107,7 @@ English (EN) (79.66 KB - PDF)
 
 [View](/en/documents/overview/ibandronic-acid-teva-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-106)
+[Other languages (22)](#file-language-dropdown-336)
 
 български (BG) (109.32 KB - PDF)
 
@@ -389,7 +385,7 @@ English (EN) (406.03 KB - PDF)
 
 [View](/en/documents/product-information/ibandronic-acid-teva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-719)
+[Other languages (24)](#file-language-dropdown-495)
 
 български (BG) (546.39 KB - PDF)
 
@@ -705,7 +701,7 @@ English (EN) (25.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ibandronic-acid-teva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-25)
+[Other languages (21)](#file-language-dropdown-751)
 
 български (BG) (92.54 KB - PDF)
 
@@ -1076,7 +1072,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-44)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

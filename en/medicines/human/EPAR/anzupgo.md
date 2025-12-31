@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-17 23:29:05
+document_datetime: 2025-12-29 11:00:44
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/anzupgo.html
 document_name: anzupgo.html
 version: success
-processing_time: 0.1205753
-conversion_datetime: 2025-12-23 23:57:58.264763
+processing_time: 0.1109569
+conversion_datetime: 2025-12-31 01:10:07.974237
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 delgocitinib Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -102,7 +104,7 @@ English (EN) (115.37 KB - PDF)
 
 [View](/en/documents/overview/anzupgo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-78)
+[Other languages (22)](#file-language-dropdown-762)
 
 български (BG) (138.08 KB - PDF)
 
@@ -300,7 +302,7 @@ English (EN) (423.95 KB - PDF)
 
 [View](/en/documents/product-information/anzupgo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-998)
+[Other languages (24)](#file-language-dropdown-536)
 
 български (BG) (470.21 KB - PDF)
 
@@ -616,7 +618,7 @@ English (EN) (47.31 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/anzupgo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-895)
+[Other languages (24)](#file-language-dropdown-913)
 
 български (BG) (65.23 KB - PDF)
 

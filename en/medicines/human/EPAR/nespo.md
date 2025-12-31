@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:03:00
+document_datetime: 2025-12-29 14:33:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nespo.html
 document_name: nespo.html
 version: success
-processing_time: 0.1050071
-conversion_datetime: 2025-12-28 12:48:42.681408
+processing_time: 0.1063279
+conversion_datetime: 2025-12-31 01:46:58.360275
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-darbepoetin alfa
+darbepoetin alfa Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (276.77 KB - PDF)
 
 [View](/en/documents/overview/nespo-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-517)
+[Other languages (21)](#file-language-dropdown-191)
 
 български (BG) (427.41 KB - PDF)
 
@@ -332,7 +328,7 @@ English (EN) (3.12 MB - PDF)
 
 [View](/en/documents/product-information/nespo-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-181)
+[Other languages (21)](#file-language-dropdown-494)
 
 български (BG) (7.33 MB - PDF)
 
@@ -612,7 +608,7 @@ English (EN) (249.82 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nespo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-130)
+[Other languages (21)](#file-language-dropdown-230)
 
 български (BG) (388.89 KB - PDF)
 

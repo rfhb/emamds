@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:10:02
+document_datetime: 2025-12-29 16:15:02
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/isomarv-medium.html
 document_name: isomarv-medium.html
 version: success
-processing_time: 0.0627498
-conversion_datetime: 2025-12-27 17:04:59.380654
+processing_time: 0.066196
+conversion_datetime: 2025-12-31 02:29:32.726285
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-insulin human
+insulin human Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +104,7 @@ English (EN) (61.51 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-isomarv-human-insulin_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-292)
+[Other languages (21)](#file-language-dropdown-576)
 
 български (BG) (104.14 KB - PDF)
 

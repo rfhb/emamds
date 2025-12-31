@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:01
+document_datetime: 2025-12-29 14:34:18
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sprimeo.html
 document_name: sprimeo.html
 version: success
-processing_time: 0.1112578
-conversion_datetime: 2025-12-28 13:15:28.310373
+processing_time: 0.1102359
+conversion_datetime: 2025-12-31 04:10:42.156466
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-aliskiren
+aliskiren Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (274.9 KB - PDF)
 
 [View](/en/documents/overview/sprimeo-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-704)
+[Other languages (21)](#file-language-dropdown-708)
 
 български (BG) (342.15 KB - PDF)
 
@@ -332,7 +328,7 @@ English (EN) (1.01 MB - PDF)
 
 [View](/en/documents/product-information/sprimeo-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-418)
+[Other languages (23)](#file-language-dropdown-30)
 
 български (BG) (2.32 MB - PDF)
 
@@ -636,7 +632,7 @@ English (EN) (345 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sprimeo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-192)
+[Other languages (23)](#file-language-dropdown-288)
 
 български (BG) (427.3 KB - PDF)
 

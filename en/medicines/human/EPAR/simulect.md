@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 12:51:50
+document_datetime: 2025-12-29 12:44:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/simulect.html
 document_name: simulect.html
 version: success
-processing_time: 0.1160612
-conversion_datetime: 2025-12-28 15:14:00.320164
+processing_time: 0.1179071
+conversion_datetime: 2025-12-31 01:21:02.669098
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -112,7 +112,7 @@ English (EN) (38.34 KB - PDF)
 
 [View](/en/documents/overview/simulect-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-1)
+[Other languages (21)](#file-language-dropdown-52)
 
 български (BG) (173.99 KB - PDF)
 
@@ -378,7 +378,7 @@ English (EN) (469.38 KB - PDF)
 
 [View](/en/documents/product-information/simulect-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-927)
+[Other languages (24)](#file-language-dropdown-834)
 
 български (BG) (529.4 KB - PDF)
 
@@ -694,7 +694,7 @@ English (EN) (53.05 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/simulect-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-390)
+[Other languages (24)](#file-language-dropdown-181)
 
 български (BG) (62.82 KB - PDF)
 

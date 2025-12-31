@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:08:39
+document_datetime: 2025-12-29 08:02:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/puldysa.html
 document_name: puldysa.html
 version: success
-processing_time: 0.0611873
-conversion_datetime: 2025-12-27 21:48:05.758375
+processing_time: 0.0513134
+conversion_datetime: 2025-12-31 04:45:58.860467
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-idebenone
+idebenone Medicine Human Application withdrawn
 
-Medicine
-
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +104,7 @@ English (EN) (129.84 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-application-marketing-authorisation-puldysa-idebenone_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-433)
+[Other languages (22)](#file-language-dropdown-78)
 
 български (BG) (162.66 KB - PDF)
 

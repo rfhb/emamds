@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:53:13
+document_datetime: 2025-12-29 11:37:06
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cuprior.html
 document_name: cuprior.html
 version: success
-processing_time: 0.1127105
-conversion_datetime: 2025-12-29 20:00:48.482709
+processing_time: 0.1106425
+conversion_datetime: 2025-12-31 07:47:34.950168
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 trientine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (74.16 KB - PDF)
 
 [View](/en/documents/overview/cuprior-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-906)
+[Other languages (22)](#file-language-dropdown-463)
 
 български (BG) (98.8 KB - PDF)
 
@@ -387,7 +389,7 @@ English (EN) (325.83 KB - PDF)
 
 [View](/en/documents/product-information/cuprior-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-996)
+[Other languages (24)](#file-language-dropdown-263)
 
 български (BG) (349.48 KB - PDF)
 
@@ -703,7 +705,7 @@ English (EN) (7.89 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cuprior-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-449)
+[Other languages (24)](#file-language-dropdown-545)
 
 български (BG) (50.18 KB - PDF)
 

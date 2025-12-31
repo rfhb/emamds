@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 13:09:40
+document_datetime: 2025-12-29 13:11:04
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pramipexole-teva.html
 document_name: pramipexole-teva.html
 version: success
-processing_time: 0.1315678
-conversion_datetime: 2025-12-23 23:40:12.958954
+processing_time: 0.1220318
+conversion_datetime: 2025-12-31 01:50:55.720246
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-pramipexole
+pramipexole Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -104,13 +100,13 @@ English (EN) (39.17 KB - PDF)
 
 [View](/en/documents/overview/pramipexole-teva-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-716)
+[Other languages (21)](#file-language-dropdown-721)
 
 български (BG) (163.77 KB - PDF)
 
 **First published:**
 
-10/03/2009
+16/12/2025
 
 [View](/bg/documents/overview/pramipexole-teva-epar-summary-public_bg.pdf)
 
@@ -118,7 +114,7 @@ español (ES) (39.78 KB - PDF)
 
 **First published:**
 
-10/03/2009
+16/12/2025
 
 [View](/es/documents/overview/pramipexole-teva-epar-summary-public_es.pdf)
 
@@ -126,7 +122,7 @@ español (ES) (39.78 KB - PDF)
 
 **First published:**
 
-10/03/2009
+16/12/2025
 
 [View](/cs/documents/overview/pramipexole-teva-epar-summary-public_cs.pdf)
 
@@ -134,7 +130,7 @@ dansk (DA) (39.4 KB - PDF)
 
 **First published:**
 
-10/03/2009
+16/12/2025
 
 [View](/da/documents/overview/pramipexole-teva-epar-summary-public_da.pdf)
 
@@ -142,7 +138,7 @@ Deutsch (DE) (40.02 KB - PDF)
 
 **First published:**
 
-10/03/2009
+16/12/2025
 
 [View](/de/documents/overview/pramipexole-teva-epar-summary-public_de.pdf)
 
@@ -150,7 +146,7 @@ eesti keel (ET) (39.14 KB - PDF)
 
 **First published:**
 
-10/03/2009
+16/12/2025
 
 [View](/et/documents/overview/pramipexole-teva-epar-summary-public_et.pdf)
 
@@ -158,7 +154,7 @@ eesti keel (ET) (39.14 KB - PDF)
 
 **First published:**
 
-10/03/2009
+16/12/2025
 
 [View](/el/documents/overview/pramipexole-teva-epar-summary-public_el.pdf)
 
@@ -166,7 +162,7 @@ français (FR) (40.19 KB - PDF)
 
 **First published:**
 
-10/03/2009
+16/12/2025
 
 [View](/fr/documents/overview/pramipexole-teva-epar-summary-public_fr.pdf)
 
@@ -174,7 +170,7 @@ italiano (IT) (39.66 KB - PDF)
 
 **First published:**
 
-10/03/2009
+16/12/2025
 
 [View](/it/documents/overview/pramipexole-teva-epar-summary-public_it.pdf)
 
@@ -182,7 +178,7 @@ latviešu valoda (LV) (151.44 KB - PDF)
 
 **First published:**
 
-10/03/2009
+16/12/2025
 
 [View](/lv/documents/overview/pramipexole-teva-epar-summary-public_lv.pdf)
 
@@ -190,7 +186,7 @@ lietuvių kalba (LT) (149.41 KB - PDF)
 
 **First published:**
 
-10/03/2009
+16/12/2025
 
 [View](/lt/documents/overview/pramipexole-teva-epar-summary-public_lt.pdf)
 
@@ -198,7 +194,7 @@ magyar (HU) (147.07 KB - PDF)
 
 **First published:**
 
-10/03/2009
+16/12/2025
 
 [View](/hu/documents/overview/pramipexole-teva-epar-summary-public_hu.pdf)
 
@@ -206,7 +202,7 @@ Malti (MT) (154.65 KB - PDF)
 
 **First published:**
 
-10/03/2009
+16/12/2025
 
 [View](/mt/documents/overview/pramipexole-teva-epar-summary-public_mt.pdf)
 
@@ -214,7 +210,7 @@ Nederlands (NL) (39.61 KB - PDF)
 
 **First published:**
 
-10/03/2009
+16/12/2025
 
 [View](/nl/documents/overview/pramipexole-teva-epar-summary-public_nl.pdf)
 
@@ -222,7 +218,7 @@ polski (PL) (161.55 KB - PDF)
 
 **First published:**
 
-10/03/2009
+16/12/2025
 
 [View](/pl/documents/overview/pramipexole-teva-epar-summary-public_pl.pdf)
 
@@ -230,7 +226,7 @@ português (PT) (39.83 KB - PDF)
 
 **First published:**
 
-10/03/2009
+16/12/2025
 
 [View](/pt/documents/overview/pramipexole-teva-epar-summary-public_pt.pdf)
 
@@ -238,7 +234,7 @@ română (RO) (144.92 KB - PDF)
 
 **First published:**
 
-10/03/2009
+16/12/2025
 
 [View](/ro/documents/overview/pramipexole-teva-epar-summary-public_ro.pdf)
 
@@ -246,7 +242,7 @@ slovenčina (SK) (149.99 KB - PDF)
 
 **First published:**
 
-10/03/2009
+16/12/2025
 
 [View](/sk/documents/overview/pramipexole-teva-epar-summary-public_sk.pdf)
 
@@ -254,7 +250,7 @@ slovenščina (SL) (143.64 KB - PDF)
 
 **First published:**
 
-10/03/2009
+16/12/2025
 
 [View](/sl/documents/overview/pramipexole-teva-epar-summary-public_sl.pdf)
 
@@ -262,7 +258,7 @@ Suomi (FI) (39.4 KB - PDF)
 
 **First published:**
 
-10/03/2009
+16/12/2025
 
 [View](/fi/documents/overview/pramipexole-teva-epar-summary-public_fi.pdf)
 
@@ -270,7 +266,7 @@ svenska (SV) (39.25 KB - PDF)
 
 **First published:**
 
-10/03/2009
+16/12/2025
 
 [View](/sv/documents/overview/pramipexole-teva-epar-summary-public_sv.pdf)
 
@@ -286,7 +282,7 @@ English (EN) (577.83 KB - PDF)
 
 [View](/en/documents/product-information/pramipexole-teva-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-688)
+[Other languages (24)](#file-language-dropdown-574)
 
 български (BG) (732.58 KB - PDF)
 
@@ -602,7 +598,7 @@ English (EN) (14.16 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pramipexole-teva-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-299)
+[Other languages (24)](#file-language-dropdown-854)
 
 български (BG) (39.3 KB - PDF)
 
@@ -976,7 +972,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-44)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

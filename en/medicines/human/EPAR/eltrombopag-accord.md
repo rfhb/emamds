@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:13:28
+document_datetime: 2025-12-29 10:38:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/eltrombopag-accord.html
 document_name: eltrombopag-accord.html
 version: success
-processing_time: 0.1239035
-conversion_datetime: 2025-12-28 00:34:16.169217
+processing_time: 0.127922
+conversion_datetime: 2025-12-31 05:16:39.558001
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 eltrombopag Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -101,7 +103,7 @@ English (EN) (140 KB - PDF)
 
 [View](/en/documents/overview/eltrombopag-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-169)
+[Other languages (22)](#file-language-dropdown-990)
 
 български (BG) (191.24 KB - PDF)
 
@@ -299,7 +301,7 @@ English (EN) (599.55 KB - PDF)
 
 [View](/en/documents/product-information/eltrombopag-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-467)
+[Other languages (24)](#file-language-dropdown-93)
 
 български (BG) (814.97 KB - PDF)
 
@@ -615,7 +617,7 @@ English (EN) (87.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/eltrombopag-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-612)
+[Other languages (24)](#file-language-dropdown-751)
 
 български (BG) (125.39 KB - PDF)
 
@@ -1003,7 +1005,7 @@ English (EN) (297.93 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/eltrombopag-accord-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-99)
+[Other languages (24)](#file-language-dropdown-24)
 
 български (BG) (384.27 KB - DOCX)
 

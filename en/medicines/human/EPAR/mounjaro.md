@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-17 23:04:45
+document_datetime: 2025-12-29 11:12:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mounjaro.html
 document_name: mounjaro.html
 version: success
-processing_time: 0.136618
-conversion_datetime: 2025-12-24 15:07:46.425714
+processing_time: 0.138594
+conversion_datetime: 2025-12-31 03:51:03.559148
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tirzepatide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (120.66 KB - PDF)
 
 [View](/en/documents/overview/mounjaro-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-284)
+[Other languages (22)](#file-language-dropdown-207)
 
 български (BG) (149.23 KB - PDF)
 
@@ -404,7 +406,7 @@ English (EN) (3.28 MB - PDF)
 
 [View](/en/documents/product-information/mounjaro-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-632)
+[Other languages (24)](#file-language-dropdown-242)
 
 български (BG) (4.26 MB - PDF)
 
@@ -720,7 +722,7 @@ English (EN) (75.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mounjaro-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-171)
+[Other languages (24)](#file-language-dropdown-931)
 
 български (BG) (104.49 KB - PDF)
 
@@ -1188,7 +1190,7 @@ English (EN) (4.37 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/mounjaro-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-862)
+[Other languages (24)](#file-language-dropdown-826)
 
 български (BG) (3.99 MB - DOCX)
 

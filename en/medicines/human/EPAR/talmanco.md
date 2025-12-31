@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:27:29
+document_datetime: 2025-12-29 12:29:25
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/talmanco.html
 document_name: talmanco.html
 version: success
-processing_time: 0.1223675
-conversion_datetime: 2025-12-27 16:32:17.351541
+processing_time: 0.128321
+conversion_datetime: 2025-12-31 01:27:28.582976
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 tadalafil Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (93.25 KB - PDF)
 
 [View](/en/documents/overview/talmanco-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-697)
+[Other languages (22)](#file-language-dropdown-961)
 
 български (BG) (120.55 KB - PDF)
 
@@ -386,7 +388,7 @@ English (EN) (673.64 KB - PDF)
 
 [View](/en/documents/product-information/talmanco-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-301)
+[Other languages (24)](#file-language-dropdown-839)
 
 български (BG) (560.21 KB - PDF)
 
@@ -702,7 +704,7 @@ English (EN) (33.18 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/talmanco-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-748)
+[Other languages (24)](#file-language-dropdown-144)
 
 български (BG) (35.49 KB - PDF)
 
@@ -1092,7 +1094,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

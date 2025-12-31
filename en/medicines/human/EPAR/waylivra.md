@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:59:59
+document_datetime: 2025-12-29 07:13:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/waylivra.html
 document_name: waylivra.html
 version: success
-processing_time: 0.1098098
-conversion_datetime: 2025-12-28 19:23:48.615989
+processing_time: 0.109914
+conversion_datetime: 2025-12-31 01:49:03.285908
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 volanesorsen Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (78.27 KB - PDF)
 
 [View](/en/documents/overview/waylivra-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-496)
+[Other languages (22)](#file-language-dropdown-939)
 
 български (BG) (105.1 KB - PDF)
 
@@ -317,7 +319,7 @@ English (EN) (1.11 MB - PDF)
 
 [View](/en/documents/product-information/waylivra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-713)
+[Other languages (24)](#file-language-dropdown-575)
 
 български (BG) (1.1 MB - PDF)
 
@@ -631,7 +633,7 @@ English (EN) (21.14 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/waylivra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-742)
+[Other languages (24)](#file-language-dropdown-954)
 
 български (BG) (43.72 KB - PDF)
 

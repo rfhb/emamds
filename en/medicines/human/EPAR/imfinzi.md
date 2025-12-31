@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:20:19
+document_datetime: 2025-12-29 09:35:37
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imfinzi.html
 document_name: imfinzi.html
 version: success
-processing_time: 0.1590021
-conversion_datetime: 2025-12-24 07:35:33.491829
+processing_time: 0.3110282
+conversion_datetime: 2025-12-31 02:37:18.915617
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 durvalumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -191,7 +193,7 @@ English (EN) (169.04 KB - PDF)
 
 [View](/en/documents/overview/imfinzi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-68)
+[Other languages (22)](#file-language-dropdown-410)
 
 български (BG) (199.38 KB - PDF)
 
@@ -479,7 +481,7 @@ English (EN) (2.16 MB - PDF)
 
 [View](/en/documents/product-information/imfinzi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-25)
+[Other languages (24)](#file-language-dropdown-825)
 
 български (BG) (2.32 MB - PDF)
 
@@ -793,7 +795,7 @@ English (EN) (27.17 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imfinzi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-464)
+[Other languages (24)](#file-language-dropdown-859)
 
 български (BG) (30.76 KB - PDF)
 
@@ -1341,7 +1343,7 @@ English (EN) (1.86 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/imfinzi-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-442)
+[Other languages (24)](#file-language-dropdown-876)
 
 български (BG) (1.85 MB - DOCX)
 

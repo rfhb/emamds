@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:07:07
+document_datetime: 2025-12-29 08:12:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/strensiq.html
 document_name: strensiq.html
 version: success
-processing_time: 0.1351592
-conversion_datetime: 2025-12-28 15:27:24.451178
+processing_time: 0.1339696
+conversion_datetime: 2025-12-31 01:23:59.893396
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 asfotase alfa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +116,7 @@ English (EN) (102.9 KB - PDF)
 
 [View](/en/documents/overview/strensiq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-99)
+[Other languages (22)](#file-language-dropdown-350)
 
 български (BG) (126.76 KB - PDF)
 
@@ -402,7 +404,7 @@ English (EN) (546.96 KB - PDF)
 
 [View](/en/documents/product-information/strensiq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-36)
+[Other languages (24)](#file-language-dropdown-706)
 
 български (BG) (900.12 KB - PDF)
 
@@ -718,7 +720,7 @@ English (EN) (55.62 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/strensiq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-340)
+[Other languages (24)](#file-language-dropdown-151)
 
 български (BG) (64.37 KB - PDF)
 
@@ -1094,7 +1096,7 @@ English (EN) (20.48 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/strensiq-epar-scientific-conclusion_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-965)
+[Other languages (24)](#file-language-dropdown-815)
 
 български (BG) (114.13 KB - PDF)
 
@@ -1425,6 +1427,10 @@ English (EN) (69.05 KB - PDF)
 Strensiq: European Medicines Agency recommends measures to ensure safe and effective use
 
 Reference Number: EMA/386551/2015
+
+Summary:
+
+Colour coding of different presentations and booklet for patients to ensure correct use and avoid medication errors
 
 English (EN) (86.86 KB - PDF)
 

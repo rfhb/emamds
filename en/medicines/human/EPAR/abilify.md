@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:03:30
+document_datetime: 2025-12-29 09:50:48
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/abilify.html
 document_name: abilify.html
 version: success
-processing_time: 0.1495023
-conversion_datetime: 2025-12-24 18:17:53.661408
+processing_time: 0.1430493
+conversion_datetime: 2025-12-31 01:51:43.442401
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-aripiprazole
+aripiprazole Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -130,7 +126,7 @@ English (EN) (79.66 KB - PDF)
 
 [View](/en/documents/overview/abilify-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-918)
+[Other languages (22)](#file-language-dropdown-675)
 
 български (BG) (105.17 KB - PDF)
 
@@ -416,7 +412,7 @@ English (EN) (1015.83 KB - PDF)
 
 [View](/en/documents/product-information/abilify-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-976)
+[Other languages (24)](#file-language-dropdown-328)
 
 български (BG) (1.26 MB - PDF)
 
@@ -732,7 +728,7 @@ English (EN) (48.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/abilify-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-46)
+[Other languages (24)](#file-language-dropdown-994)
 
 български (BG) (75.95 KB - PDF)
 
@@ -1119,7 +1115,7 @@ English (EN) (73.59 KB - PDF)
 
 [View](/en/documents/smop/questions-and-answers-outcome-application-application-extend-use-abilify-schizophrenia-13-and-14-year-olds_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-447)
+[Other languages (22)](#file-language-dropdown-813)
 
 български (BG) (94.34 KB - PDF)
 

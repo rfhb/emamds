@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:51:50
+document_datetime: 2025-12-29 14:33:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/panretin.html
 document_name: panretin.html
 version: success
-processing_time: 0.1054618
-conversion_datetime: 2025-12-27 20:28:18.76711
+processing_time: 0.1072661
+conversion_datetime: 2025-12-31 02:46:12.329162
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 alitretinoin Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -59,7 +61,7 @@ English (EN) (637.1 KB - PDF)
 
 [View](/en/documents/overview/panretin-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-340)
+[Other languages (22)](#file-language-dropdown-10)
 
 български (BG) (706 KB - PDF)
 
@@ -337,7 +339,7 @@ English (EN) (770.77 KB - PDF)
 
 [View](/en/documents/product-information/panretin-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-921)
+[Other languages (24)](#file-language-dropdown-496)
 
 български (BG) (1.36 MB - PDF)
 
@@ -653,7 +655,7 @@ English (EN) (620.96 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/panretin-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-89)
+[Other languages (21)](#file-language-dropdown-32)
 
 български (BG) (670.87 KB - PDF)
 

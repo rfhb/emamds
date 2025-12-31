@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:01:09
+document_datetime: 2025-12-29 12:26:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/omidria.html
 document_name: omidria.html
 version: success
-processing_time: 0.1104653
-conversion_datetime: 2025-12-27 15:35:09.799676
+processing_time: 0.1126393
+conversion_datetime: 2025-12-31 04:44:31.926863
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 phenylephrine / ketorolac Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (78.11 KB - PDF)
 
 [View](/en/documents/overview/omidria-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-683)
+[Other languages (22)](#file-language-dropdown-406)
 
 български (BG) (106.99 KB - PDF)
 
@@ -398,7 +400,7 @@ English (EN) (570.11 KB - PDF)
 
 [View](/en/documents/product-information/omidria-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-389)
+[Other languages (24)](#file-language-dropdown-665)
 
 български (BG) (528.6 KB - PDF)
 
@@ -714,7 +716,7 @@ English (EN) (18.82 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/omidria-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-366)
+[Other languages (24)](#file-language-dropdown-200)
 
 български (BG) (42.31 KB - PDF)
 

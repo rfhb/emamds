@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:09:12
+document_datetime: 2025-12-29 09:29:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vipidia.html
 document_name: vipidia.html
 version: success
-processing_time: 0.1158497
-conversion_datetime: 2025-12-26 11:51:55.372381
+processing_time: 0.1166533
+conversion_datetime: 2025-12-31 04:44:40.67422
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 alogliptin benzoate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -105,7 +107,7 @@ English (EN) (74.98 KB - PDF)
 
 [View](/en/documents/overview/vipidia-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-952)
+[Other languages (22)](#file-language-dropdown-20)
 
 български (BG) (100.72 KB - PDF)
 
@@ -393,7 +395,7 @@ English (EN) (470.26 KB - PDF)
 
 [View](/en/documents/product-information/vipidia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-852)
+[Other languages (24)](#file-language-dropdown-734)
 
 български (BG) (531.06 KB - PDF)
 
@@ -709,7 +711,7 @@ English (EN) (22.44 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vipidia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-984)
+[Other languages (24)](#file-language-dropdown-95)
 
 български (BG) (73.59 KB - PDF)
 

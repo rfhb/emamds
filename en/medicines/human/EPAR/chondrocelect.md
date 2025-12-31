@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:27:53
+document_datetime: 2025-12-29 15:03:39
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/chondrocelect.html
 document_name: chondrocelect.html
 version: success
-processing_time: 0.1203298
-conversion_datetime: 2025-12-27 20:52:33.856463
+processing_time: 0.1187718
+conversion_datetime: 2025-12-31 01:23:51.162062
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has been withdrawn
 
 characterised viable autologous cartilage cells expanded ex vivo expressing specific marker proteins Medicine Human Withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -58,7 +60,7 @@ English (EN) (545.59 KB - PDF)
 
 [View](/en/documents/overview/chondrocelect-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-412)
+[Other languages (22)](#file-language-dropdown-671)
 
 български (BG) (631.49 KB - PDF)
 
@@ -336,7 +338,7 @@ English (EN) (730.25 KB - PDF)
 
 [View](/en/documents/product-information/chondrocelect-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-673)
+[Other languages (24)](#file-language-dropdown-297)
 
 български (BG) (1.45 MB - PDF)
 
@@ -652,7 +654,7 @@ English (EN) (476.06 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/chondrocelect-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-768)
+[Other languages (21)](#file-language-dropdown-763)
 
 български (BG) (566.39 KB - PDF)
 
@@ -916,7 +918,7 @@ English (EN) (486.04 KB - PDF)
 
 [View](/en/documents/conditions-member-states/chondrocelect-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-122)
+[Other languages (21)](#file-language-dropdown-205)
 
 български (BG) (652.17 KB - PDF)
 

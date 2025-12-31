@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:10:15
+document_datetime: 2025-12-29 12:59:16
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sugammadex-lorien.html
 document_name: sugammadex-lorien.html
 version: success
-processing_time: 0.069151
-conversion_datetime: 2025-12-28 04:34:17.714726
+processing_time: 0.0651859
+conversion_datetime: 2025-12-31 02:11:45.85336
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -99,7 +97,7 @@ English (EN) (115.35 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-sugammadex-lorien-sugammadex_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-330)
+[Other languages (22)](#file-language-dropdown-393)
 
 български (BG) (137.25 KB - PDF)
 

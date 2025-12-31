@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:14:48
+document_datetime: 2025-12-29 13:17:12
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mozobil.html
 document_name: mozobil.html
 version: success
-processing_time: 0.1089564
-conversion_datetime: 2025-12-27 15:48:41.837084
+processing_time: 0.108677
+conversion_datetime: 2025-12-31 04:12:19.351453
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 plerixafor Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (84.48 KB - PDF)
 
 [View](/en/documents/overview/mozobil-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-123)
+[Other languages (22)](#file-language-dropdown-43)
 
 български (BG) (111.28 KB - PDF)
 
@@ -387,207 +389,303 @@ English (EN) (70.63 KB - PDF)
 
 ## Product information
 
-Mozobil : EPAR - Product Information
+Mozobil : EPAR - Product information
 
-English (EN) (420.78 KB - PDF)
+English (EN) (364.52 KB - PDF)
 
 **First published:** 20/08/2009
 
-**Last updated:** 31/07/2024
+**Last updated:** 17/12/2025
 
 [View](/en/documents/product-information/mozobil-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-544)
+[Other languages (24)](#file-language-dropdown-938)
 
-български (BG) (401.12 KB - PDF)
+български (BG) (325.07 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/bg/documents/product-information/mozobil-epar-product-information_bg.pdf)
 
-español (ES) (496.33 KB - PDF)
+español (ES) (325.33 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/es/documents/product-information/mozobil-epar-product-information_es.pdf)
 
-čeština (CS) (351.23 KB - PDF)
+čeština (CS) (302.78 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/cs/documents/product-information/mozobil-epar-product-information_cs.pdf)
 
-dansk (DA) (307.61 KB - PDF)
+dansk (DA) (252.31 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/da/documents/product-information/mozobil-epar-product-information_da.pdf)
 
-Deutsch (DE) (503.32 KB - PDF)
+Deutsch (DE) (333.17 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/de/documents/product-information/mozobil-epar-product-information_de.pdf)
 
-eesti keel (ET) (488.18 KB - PDF)
+eesti keel (ET) (324.48 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/et/documents/product-information/mozobil-epar-product-information_et.pdf)
 
-ελληνικά (EL) (602.8 KB - PDF)
+ελληνικά (EL) (439.25 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/el/documents/product-information/mozobil-epar-product-information_el.pdf)
 
-français (FR) (475.17 KB - PDF)
+français (FR) (364 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/fr/documents/product-information/mozobil-epar-product-information_fr.pdf)
 
-hrvatski (HR) (423.4 KB - PDF)
+hrvatski (HR) (336.16 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/hr/documents/product-information/mozobil-epar-product-information_hr.pdf)
 
-íslenska (IS) (559.16 KB - PDF)
+íslenska (IS) (344.87 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/is/documents/product-information/mozobil-epar-product-information_is.pdf)
 
-italiano (IT) (427.26 KB - PDF)
+italiano (IT) (279.56 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/it/documents/product-information/mozobil-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (549.14 KB - PDF)
+latviešu valoda (LV) (434.78 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/lv/documents/product-information/mozobil-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (557.32 KB - PDF)
+lietuvių kalba (LT) (391.1 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/lt/documents/product-information/mozobil-epar-product-information_lt.pdf)
 
-magyar (HU) (545.44 KB - PDF)
+magyar (HU) (373.1 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/hu/documents/product-information/mozobil-epar-product-information_hu.pdf)
 
-Malti (MT) (557.33 KB - PDF)
+Malti (MT) (435.91 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/mt/documents/product-information/mozobil-epar-product-information_mt.pdf)
 
-Nederlands (NL) (502.26 KB - PDF)
+Nederlands (NL) (330.52 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/nl/documents/product-information/mozobil-epar-product-information_nl.pdf)
 
-norsk (NO) (480.94 KB - PDF)
+norsk (NO) (327.59 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/no/documents/product-information/mozobil-epar-product-information_no.pdf)
 
-polski (PL) (538.33 KB - PDF)
+polski (PL) (398.02 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/pl/documents/product-information/mozobil-epar-product-information_pl.pdf)
 
-português (PT) (513.8 KB - PDF)
+português (PT) (365.04 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/pt/documents/product-information/mozobil-epar-product-information_pt.pdf)
 
-română (RO) (544.67 KB - PDF)
+română (RO) (396.52 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/ro/documents/product-information/mozobil-epar-product-information_ro.pdf)
 
-slovenčina (SK) (440.02 KB - PDF)
+slovenčina (SK) (429.71 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/sk/documents/product-information/mozobil-epar-product-information_sk.pdf)
 
-slovenščina (SL) (541.42 KB - PDF)
+slovenščina (SL) (323.45 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/sl/documents/product-information/mozobil-epar-product-information_sl.pdf)
 
-Suomi (FI) (488.91 KB - PDF)
+Suomi (FI) (312.45 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/fi/documents/product-information/mozobil-epar-product-information_fi.pdf)
 
-svenska (SV) (575.58 KB - PDF)
+svenska (SV) (381.89 KB - PDF)
 
 **First published:**
 
-31/07/2024
+20/08/2009
+
+**Last updated:**
+
+17/12/2025
 
 [View](/sv/documents/product-information/mozobil-epar-product-information_sv.pdf)
 
@@ -617,7 +715,7 @@ English (EN) (14.78 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mozobil-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-1)
+[Other languages (24)](#file-language-dropdown-343)
 
 български (BG) (85.94 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:49:14
+document_datetime: 2025-12-29 07:29:47
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/silapo.html
 document_name: silapo.html
 version: success
-processing_time: 0.1130157
-conversion_datetime: 2025-12-28 18:14:02.937226
+processing_time: 0.1126662
+conversion_datetime: 2025-12-31 04:35:01.973159
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 epoetin zeta Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -119,7 +121,7 @@ English (EN) (126.39 KB - PDF)
 
 [View](/en/documents/overview/silapo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-145)
+[Other languages (22)](#file-language-dropdown-456)
 
 български (BG) (147.74 KB - PDF)
 
@@ -397,7 +399,7 @@ English (EN) (453 KB - PDF)
 
 [View](/en/documents/product-information/silapo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-355)
+[Other languages (24)](#file-language-dropdown-106)
 
 български (BG) (737.36 KB - PDF)
 
@@ -713,7 +715,7 @@ English (EN) (36.94 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/silapo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-661)
+[Other languages (24)](#file-language-dropdown-788)
 
 български (BG) (41.99 KB - PDF)
 

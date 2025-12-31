@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:45:02
+document_datetime: 2025-12-29 07:07:20
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pregabalin-mylan-pharma.html
 document_name: pregabalin-mylan-pharma.html
 version: success
-processing_time: 0.1099639
-conversion_datetime: 2025-12-27 23:07:12.939845
+processing_time: 0.1074484
+conversion_datetime: 2025-12-31 04:23:44.159002
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-pregabalin
+pregabalin Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -67,7 +63,7 @@ English (EN) (706.42 KB - PDF)
 
 [View](/en/documents/overview/pregabalin-mylan-pharma-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-149)
+[Other languages (22)](#file-language-dropdown-633)
 
 български (BG) (777.09 KB - PDF)
 
@@ -355,7 +351,7 @@ English (EN) (1.11 MB - PDF)
 
 [View](/en/documents/product-information/pregabalin-mylan-pharma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-62)
+[Other languages (24)](#file-language-dropdown-791)
 
 български (BG) (2.89 MB - PDF)
 
@@ -671,7 +667,7 @@ English (EN) (629.49 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pregabalin-mylan-pharma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-794)
+[Other languages (24)](#file-language-dropdown-47)
 
 български (BG) (794.06 KB - PDF)
 

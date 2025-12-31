@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:14
+document_datetime: 2025-12-29 14:36:24
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imatinib-koanaa.html
 document_name: imatinib-koanaa.html
 version: success
-processing_time: 0.1063613
-conversion_datetime: 2025-12-24 20:56:19.445138
+processing_time: 0.1077253
+conversion_datetime: 2025-12-31 03:33:11.530715
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-imatinib
+imatinib Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -81,7 +77,7 @@ English (EN) (299.7 KB - PDF)
 
 [View](/en/documents/overview/imatinib-koanaa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-739)
+[Other languages (22)](#file-language-dropdown-690)
 
 български (BG) (334.56 KB - PDF)
 
@@ -369,7 +365,7 @@ English (EN) (2.69 MB - PDF)
 
 [View](/en/documents/product-information/imatinib-koanaa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-869)
+[Other languages (24)](#file-language-dropdown-218)
 
 български (BG) (16.64 MB - PDF)
 
@@ -685,7 +681,7 @@ English (EN) (77.9 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imatinib-koanaa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-250)
+[Other languages (24)](#file-language-dropdown-104)
 
 български (BG) (111.21 KB - PDF)
 

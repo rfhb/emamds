@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:04:58
+document_datetime: 2025-12-29 11:27:37
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/forcaltonin.html
 document_name: forcaltonin.html
 version: success
-processing_time: 0.0798305
-conversion_datetime: 2025-12-27 13:22:46.373508
+processing_time: 0.083627
+conversion_datetime: 2025-12-31 03:51:29.957038
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-recombinant salmon calcitonin
+recombinant salmon calcitonin Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -64,7 +60,7 @@ English (EN) (251.54 KB - PDF)
 
 [View](/en/documents/overview/forcaltonin-epar-summary-public_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-647)
+[Other languages (18)](#file-language-dropdown-132)
 
 español (ES) (254.08 KB - PDF)
 
@@ -294,7 +290,7 @@ English (EN) (472.2 KB - PDF)
 
 [View](/en/documents/product-information/forcaltonin-epar-product-information_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-710)
+[Other languages (18)](#file-language-dropdown-808)
 
 español (ES) (476.94 KB - PDF)
 

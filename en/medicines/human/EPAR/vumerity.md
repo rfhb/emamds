@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:04:48
+document_datetime: 2025-12-29 07:35:24
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vumerity.html
 document_name: vumerity.html
 version: success
-processing_time: 0.1067357
-conversion_datetime: 2025-12-24 20:10:20.249813
+processing_time: 0.1050489
+conversion_datetime: 2025-12-31 01:39:05.389164
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 diroximel fumarate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (120.55 KB - PDF)
 
 [View](/en/documents/overview/vumerity-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-514)
+[Other languages (22)](#file-language-dropdown-411)
 
 български (BG) (146.62 KB - PDF)
 
@@ -312,7 +314,7 @@ English (EN) (155.23 KB - PDF)
 
 [View](/en/documents/product-information/vumerity-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-317)
+[Other languages (24)](#file-language-dropdown-558)
 
 български (BG) (291.87 KB - PDF)
 
@@ -626,7 +628,7 @@ English (EN) (71.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vumerity-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-924)
+[Other languages (24)](#file-language-dropdown-389)
 
 български (BG) (86.06 KB - PDF)
 

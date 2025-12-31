@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:24:47
+document_datetime: 2025-12-29 11:57:02
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trizivir.html
 document_name: trizivir.html
 version: success
-processing_time: 0.1008433
-conversion_datetime: 2025-12-28 02:46:26.635523
+processing_time: 0.1130363
+conversion_datetime: 2025-12-31 03:02:50.83813
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 abacavir / lamivudine / zidovudine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -106,7 +108,7 @@ English (EN) (128.75 KB - PDF)
 
 [View](/en/documents/overview/trizivir-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-129)
+[Other languages (22)](#file-language-dropdown-66)
 
 български (BG) (154.04 KB - PDF)
 
@@ -384,7 +386,7 @@ English (EN) (579.85 KB - PDF)
 
 [View](/en/documents/product-information/trizivir-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-83)
+[Other languages (24)](#file-language-dropdown-380)
 
 български (BG) (891.85 KB - PDF)
 
@@ -700,7 +702,7 @@ English (EN) (21.77 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/trizivir-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-11)
+[Other languages (24)](#file-language-dropdown-293)
 
 български (BG) (37.05 KB - PDF)
 

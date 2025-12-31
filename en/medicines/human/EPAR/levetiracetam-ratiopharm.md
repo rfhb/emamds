@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:13:00
+document_datetime: 2025-12-29 14:35:07
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/levetiracetam-ratiopharm.html
 document_name: levetiracetam-ratiopharm.html
 version: success
-processing_time: 0.1207002
-conversion_datetime: 2025-12-28 04:35:53.406805
+processing_time: 0.127445
+conversion_datetime: 2025-12-31 01:42:10.510725
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 levetiracetam Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (157.03 KB - PDF)
 
 [View](/en/documents/overview/levetiracetam-ratiopharm-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-896)
+[Other languages (22)](#file-language-dropdown-220)
 
 български (BG) (174.98 KB - PDF)
 
@@ -386,7 +388,7 @@ English (EN) (1.1 MB - PDF)
 
 [View](/en/documents/product-information/levetiracetam-ratiopharm-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-751)
+[Other languages (24)](#file-language-dropdown-651)
 
 български (BG) (1.29 MB - PDF)
 
@@ -702,7 +704,7 @@ English (EN) (43.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/levetiracetam-ratiopharm-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-697)
+[Other languages (23)](#file-language-dropdown-127)
 
 български (BG) (79.94 KB - PDF)
 
@@ -1084,7 +1086,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

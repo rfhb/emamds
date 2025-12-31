@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:58:04
+document_datetime: 2025-12-29 12:02:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/atectura-breezhaler.html
 document_name: atectura-breezhaler.html
 version: success
-processing_time: 0.1321573
-conversion_datetime: 2025-12-26 19:52:23.246712
+processing_time: 0.1245945
+conversion_datetime: 2025-12-31 02:29:24.021034
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 indacaterol / mometasone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (114.76 KB - PDF)
 
 [View](/en/documents/overview/atectura-breezhaler-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-487)
+[Other languages (22)](#file-language-dropdown-499)
 
 български (BG) (141.77 KB - PDF)
 
@@ -306,7 +308,7 @@ English (EN) (691.74 KB - PDF)
 
 [View](/en/documents/product-information/atectura-breezhaler-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-794)
+[Other languages (24)](#file-language-dropdown-465)
 
 български (BG) (795.99 KB - PDF)
 
@@ -622,7 +624,7 @@ English (EN) (75.23 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/atectura-breezhaler-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-322)
+[Other languages (24)](#file-language-dropdown-983)
 
 български (BG) (87 KB - PDF)
 
@@ -1026,7 +1028,7 @@ English (EN) (602.34 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/atectura-breezhaler-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-366)
+[Other languages (24)](#file-language-dropdown-460)
 
 български (BG) (636.25 KB - DOCX)
 

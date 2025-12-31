@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-13 23:50:10
+document_datetime: 2025-12-29 11:38:12
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/adynovi.html
 document_name: adynovi.html
 version: success
-processing_time: 0.1212623
-conversion_datetime: 2025-12-28 09:48:56.915453
+processing_time: 0.1112165
+conversion_datetime: 2025-12-31 05:23:00.156079
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 rurioctocog alfa pegol Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -115,7 +117,7 @@ English (EN) (77.15 KB - PDF)
 
 [View](/en/documents/overview/adynovi-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-964)
+[Other languages (22)](#file-language-dropdown-305)
 
 български (BG) (104.2 KB - PDF)
 
@@ -403,7 +405,7 @@ English (EN) (1.51 MB - PDF)
 
 [View](/en/documents/product-information/adynovi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-106)
+[Other languages (24)](#file-language-dropdown-83)
 
 български (BG) (2.28 MB - PDF)
 
@@ -719,7 +721,7 @@ English (EN) (61.83 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/adynovi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-205)
+[Other languages (24)](#file-language-dropdown-43)
 
 български (BG) (63.82 KB - PDF)
 

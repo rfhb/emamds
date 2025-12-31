@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:01:42
+document_datetime: 2025-12-29 09:48:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rapamune.html
 document_name: rapamune.html
 version: success
-processing_time: 0.1343623
-conversion_datetime: 2025-12-27 20:12:02.594374
+processing_time: 0.1330386
+conversion_datetime: 2025-12-31 01:48:54.339357
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sirolimus Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (102.44 KB - PDF)
 
 [View](/en/documents/overview/rapamune-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-835)
+[Other languages (22)](#file-language-dropdown-355)
 
 български (BG) (137.63 KB - PDF)
 
@@ -406,7 +408,7 @@ English (EN) (1.05 MB - PDF)
 
 [View](/en/documents/product-information/rapamune-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-857)
+[Other languages (24)](#file-language-dropdown-946)
 
 български (BG) (577.4 KB - PDF)
 
@@ -722,7 +724,7 @@ English (EN) (21.44 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rapamune-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-800)
+[Other languages (24)](#file-language-dropdown-316)
 
 български (BG) (84.06 KB - PDF)
 
@@ -1167,7 +1169,7 @@ English (EN) (9.68 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/rapamune-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-991)
+[Other languages (24)](#file-language-dropdown-85)
 
 български (BG) (353.61 KB - DOCX)
 

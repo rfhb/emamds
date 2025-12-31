@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 11:39:22
+document_datetime: 2025-12-29 12:26:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/onsenal.html
 document_name: onsenal.html
 version: success
-processing_time: 0.0989454
-conversion_datetime: 2025-12-27 14:19:40.060871
+processing_time: 0.1002032
+conversion_datetime: 2025-12-31 01:29:44.639321
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-celecoxib
+celecoxib Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -73,7 +69,7 @@ English (EN) (268.74 KB - PDF)
 
 [View](/en/documents/overview/onsenal-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-807)
+[Other languages (21)](#file-language-dropdown-519)
 
 български (BG) (413.76 KB - PDF)
 
@@ -339,7 +335,7 @@ English (EN) (701.2 KB - PDF)
 
 [View](/en/documents/product-information/onsenal-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-204)
+[Other languages (23)](#file-language-dropdown-802)
 
 български (BG) (1.75 MB - PDF)
 
@@ -701,7 +697,7 @@ English (EN) (297.46 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/onsenal-epar-scientific-conclusion_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-136)
+[Other languages (18)](#file-language-dropdown-876)
 
 español (ES) (298.99 KB - PDF)
 

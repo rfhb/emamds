@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:06:22
+document_datetime: 2025-12-29 14:09:47
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/taxespira.html
 document_name: taxespira.html
 version: success
-processing_time: 0.1095824
-conversion_datetime: 2025-12-27 20:28:44.34434
+processing_time: 0.1098312
+conversion_datetime: 2025-12-31 03:09:08.90503
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-docetaxel
+docetaxel Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -69,7 +65,7 @@ English (EN) (1.12 MB - PDF)
 
 [View](/en/documents/overview/taxespira-previously-docetaxel-hospira-uk-limited-epar-summary-public_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-70)
+[Other languages (23)](#file-language-dropdown-704)
 
 български (BG) (2.23 MB - PDF)
 
@@ -369,7 +365,7 @@ English (EN) (1.69 MB - PDF)
 
 [View](/en/documents/product-information/taxespira-epar-product-information_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-517)
+[Other languages (22)](#file-language-dropdown-340)
 
 български (BG) (2.28 MB - PDF)
 
@@ -661,7 +657,7 @@ English (EN) (590.87 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/taxespira-previously-docetaxel-hospira-uk-limited-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-129)
+[Other languages (24)](#file-language-dropdown-922)
 
 български (BG) (645.62 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:51:45
+document_datetime: 2025-12-29 11:38:12
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/exforge.html
 document_name: exforge.html
 version: success
-processing_time: 0.182188
-conversion_datetime: 2025-12-28 05:00:31.136542
+processing_time: 0.3197593
+conversion_datetime: 2025-12-31 01:22:22.765055
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 amlodipine / valsartan Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +115,7 @@ English (EN) (75.24 KB - PDF)
 
 [View](/en/documents/overview/exforge-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-954)
+[Other languages (22)](#file-language-dropdown-962)
 
 български (BG) (103.37 KB - PDF)
 
@@ -391,7 +393,7 @@ English (EN) (457.31 KB - PDF)
 
 [View](/en/documents/product-information/exforge-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-563)
+[Other languages (24)](#file-language-dropdown-751)
 
 български (BG) (539.51 KB - PDF)
 
@@ -707,7 +709,7 @@ English (EN) (142.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/exforge-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-291)
+[Other languages (24)](#file-language-dropdown-151)
 
 български (BG) (87.19 KB - PDF)
 
@@ -1069,7 +1071,7 @@ English (EN) (119.28 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-844)
+[Other languages (22)](#file-language-dropdown-185)
 
 български (BG) (145.18 KB - PDF)
 
@@ -1267,7 +1269,7 @@ English (EN) (99.42 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/exforge-h-c-716-a31-0098-epar-scientific-conclusions_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-138)
+[Other languages (22)](#file-language-dropdown-450)
 
 български (BG) (136.15 KB - PDF)
 
@@ -1467,7 +1469,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/exforge-h-c-716-a31-0067-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommenda_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-674)
+[Other languages (22)](#file-language-dropdown-651)
 
 български (BG) (87.49 KB - PDF)
 
@@ -1831,7 +1833,7 @@ English (EN) (150.71 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/exforge-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-839)
+[Other languages (24)](#file-language-dropdown-205)
 
 български (BG) (150.13 KB - DOCX)
 

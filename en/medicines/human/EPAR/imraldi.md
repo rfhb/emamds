@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 04:57:43
+document_datetime: 2025-12-29 12:47:53
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imraldi.html
 document_name: imraldi.html
 version: success
-processing_time: 0.3285609
-conversion_datetime: 2025-12-24 04:41:06.397201
+processing_time: 0.1151138
+conversion_datetime: 2025-12-31 04:24:38.695537
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 adalimumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -131,7 +133,7 @@ English (EN) (84.33 KB - PDF)
 
 [View](/en/documents/overview/imraldi-epar-summary-public_en.pdf)
 
-[Other languages (15)](#file-language-dropdown-205)
+[Other languages (15)](#file-language-dropdown-698)
 
 български (BG) (116.07 KB - PDF)
 
@@ -335,7 +337,7 @@ English (EN) (3.14 MB - PDF)
 
 [View](/en/documents/product-information/imraldi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-580)
+[Other languages (24)](#file-language-dropdown-873)
 
 български (BG) (3.75 MB - PDF)
 
@@ -651,7 +653,7 @@ English (EN) (170.56 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imraldi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-823)
+[Other languages (24)](#file-language-dropdown-337)
 
 български (BG) (116.8 KB - PDF)
 

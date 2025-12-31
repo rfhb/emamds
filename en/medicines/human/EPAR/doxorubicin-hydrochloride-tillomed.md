@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:27:31
+document_datetime: 2025-12-29 17:48:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/doxorubicin-hydrochloride-tillomed.html
 document_name: doxorubicin-hydrochloride-tillomed.html
 version: success
-processing_time: 0.0933117
-conversion_datetime: 2025-12-24 05:59:10.40793
+processing_time: 0.0868198
+conversion_datetime: 2025-12-31 04:26:16.824999
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 The application for this medicine has been withdrawn
 
 doxorubicin Medicine Human Application withdrawn
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -103,7 +105,7 @@ English (EN) (132.78 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-application-marketing-authorisation-doxorubicin-hydrochloride-tillomed-doxorubicin-hydrochloride-pegylated-liposomal-concentrate-dispersion-infusion-2-mgml_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-37)
+[Other languages (22)](#file-language-dropdown-488)
 
 български (BG) (157.66 KB - PDF)
 
@@ -344,7 +346,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 

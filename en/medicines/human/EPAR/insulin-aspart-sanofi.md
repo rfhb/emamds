@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:40:57
+document_datetime: 2025-12-29 12:50:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/insulin-aspart-sanofi.html
 document_name: insulin-aspart-sanofi.html
 version: success
-processing_time: 0.1125811
-conversion_datetime: 2025-12-28 20:16:19.012467
+processing_time: 0.1080752
+conversion_datetime: 2025-12-31 05:10:54.713959
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 insulin aspart Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +112,7 @@ English (EN) (123.67 KB - PDF)
 
 [View](/en/documents/overview/insulin-aspart-sanofi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-417)
+[Other languages (22)](#file-language-dropdown-59)
 
 български (BG) (148.35 KB - PDF)
 
@@ -308,7 +310,7 @@ English (EN) (1.21 MB - PDF)
 
 [View](/en/documents/product-information/insulin-aspart-sanofi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-585)
+[Other languages (24)](#file-language-dropdown-942)
 
 български (BG) (1.32 MB - PDF)
 
@@ -624,7 +626,7 @@ English (EN) (60.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/insulin-aspart-sanofi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-659)
+[Other languages (24)](#file-language-dropdown-418)
 
 български (BG) (67.44 KB - PDF)
 

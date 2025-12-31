@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 07:58:36
+document_datetime: 2025-12-29 12:00:23
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/wainzua.html
 document_name: wainzua.html
 version: success
-processing_time: 0.1016019
-conversion_datetime: 2025-12-25 01:38:21.471205
+processing_time: 0.1013014
+conversion_datetime: 2025-12-31 03:03:48.980866
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine is authorised for use in the European Union
 
-eplontersen
+eplontersen Medicine Human Authorised
 
-Medicine
-
-Human
-
-Authorised
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +112,7 @@ English (EN) (120.58 KB - PDF)
 
 [View](/en/documents/overview/wainzua-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-539)
 
 български (BG) (138.56 KB - PDF)
 
@@ -312,7 +308,7 @@ English (EN) (812.79 KB - PDF)
 
 [View](/en/documents/product-information/wainzua-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-543)
+[Other languages (24)](#file-language-dropdown-648)
 
 български (BG) (881.49 KB - PDF)
 
@@ -530,7 +526,7 @@ English (EN) (59.6 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/wainzua-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-963)
+[Other languages (24)](#file-language-dropdown-327)
 
 български (BG) (78.08 KB - PDF)
 

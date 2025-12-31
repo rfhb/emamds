@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:21:26
+document_datetime: 2025-12-29 09:37:06
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zimbus-breezhaler.html
 document_name: zimbus-breezhaler.html
 version: success
-processing_time: 0.0914242
-conversion_datetime: 2025-12-23 23:59:30.729444
+processing_time: 0.1101228
+conversion_datetime: 2025-12-31 02:47:02.294247
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 indacaterol / glycopyrronium / mometasone furoate Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (97.83 KB - PDF)
 
 [View](/en/documents/overview/zimbus-breezhaler-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-830)
+[Other languages (22)](#file-language-dropdown-156)
 
 български (BG) (121.48 KB - PDF)
 
@@ -309,7 +311,7 @@ English (EN) (681.29 KB - PDF)
 
 [View](/en/documents/product-information/zimbus-breezhaler-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-669)
+[Other languages (24)](#file-language-dropdown-586)
 
 български (BG) (721.74 KB - PDF)
 
@@ -625,7 +627,7 @@ English (EN) (66.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zimbus-breezhaler-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-585)
+[Other languages (24)](#file-language-dropdown-662)
 
 български (BG) (77.92 KB - PDF)
 

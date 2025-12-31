@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:51:18
+document_datetime: 2025-12-29 11:44:39
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lemtrada.html
 document_name: lemtrada.html
 version: success
-processing_time: 0.1657268
-conversion_datetime: 2025-12-29 19:44:26.164265
+processing_time: 0.1532744
+conversion_datetime: 2025-12-31 01:25:10.509336
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 alemtuzumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -116,7 +118,7 @@ English (EN) (131.15 KB - PDF)
 
 [View](/en/documents/overview/lemtrada-epar-medicine-overview_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-588)
+[Other languages (24)](#file-language-dropdown-977)
 
 български (BG) (138.86 KB - PDF)
 
@@ -426,7 +428,7 @@ English (EN) (656.46 KB - PDF)
 
 [View](/en/documents/product-information/lemtrada-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-484)
+[Other languages (24)](#file-language-dropdown-534)
 
 български (BG) (879.29 KB - PDF)
 
@@ -742,7 +744,7 @@ English (EN) (15.02 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lemtrada-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-417)
+[Other languages (24)](#file-language-dropdown-746)
 
 български (BG) (40.14 KB - PDF)
 
@@ -1136,7 +1138,7 @@ English (EN) (123.54 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/lemtrada-article-20-referral-scientific-conclusions_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-25)
+[Other languages (22)](#file-language-dropdown-42)
 
 български (BG) (182.46 KB - PDF)
 
@@ -1334,7 +1336,7 @@ English (EN) (49.95 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/lemtrada-article-20-referral-scientific-conclusions-provisional-measures_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-345)
+[Other languages (22)](#file-language-dropdown-347)
 
 български (BG) (95.32 KB - PDF)
 
@@ -1610,9 +1612,9 @@ English (EN) (116.82 KB - PDF)
 
 - [EMEA-001072-PIP01-10-M04 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001072-pip01-10-m04)
 - [Lemtrada - referral](/en/medicines/human/referrals/lemtrada)
+- [Dissemination of additional risk minimisation measures for patients and healthcare professionals in EU/EEA countries - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000524)
 - [A non-interventional post-authorisation safety study to investigate the risk of mortality in multiple sclerosis patients treated with alemtuzumab (LEMTRADA®) relative to comparable multiple sclerosis patients using other disease modifying therapies: a cohort study - post-authorisation study](https://catalogues.ema.europa.eu/study/50544)
 - [A non-interventional post-authorisation safety study to investigate drug utilisation and safety monitoring patterns for Lemtrada (alemtuzumab) - post-authorisation study](https://catalogues.ema.europa.eu/study/50553)
-- [Dissemination of additional risk minimisation measures for patients and healthcare professionals in EU/EEA countries - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000524)
 - [A prospective, multicenter, observational, post-authorization safety study (PASS) to evaluate the long term safety profile of LEMTRADA® (alemtuzumab) treatment in patients with relapsing forms of multiple sclerosis (RMS) (GZ402673-OBS13434) - post-authorisation study](https://catalogues.ema.europa.eu/study/28499)
 - [Knowledge survey to assess the effectiveness of educational materials among patients prescribed LEMTRADA® (alemtuzumab) - post-authorisation study](https://catalogues.ema.europa.eu/study/35661)
 - [Knowledge survey to assess the effectiveness of educational materials among healthcare professionals who prescribe Lemtrada® (alemtuzumab) - post-authorisation study](https://catalogues.ema.europa.eu/study/35666)

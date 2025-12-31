@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:24:55
+document_datetime: 2025-12-29 09:36:55
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ximluci.html
 document_name: ximluci.html
 version: success
-processing_time: 0.0815892
-conversion_datetime: 2025-12-24 02:44:17.187803
+processing_time: 0.1053279
+conversion_datetime: 2025-12-31 05:22:51.344233
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 ranibizumab Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +119,7 @@ English (EN) (147.9 KB - PDF)
 
 [View](/en/documents/overview/ximluci-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-223)
+[Other languages (22)](#file-language-dropdown-530)
 
 български (BG) (175.14 KB - PDF)
 
@@ -315,7 +317,7 @@ English (EN) (859.82 KB - PDF)
 
 [View](/en/documents/product-information/ximluci-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-170)
+[Other languages (24)](#file-language-dropdown-561)
 
 български (BG) (914.63 KB - PDF)
 
@@ -629,7 +631,7 @@ English (EN) (24.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ximluci-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-109)
+[Other languages (24)](#file-language-dropdown-375)
 
 български (BG) (24.67 KB - PDF)
 

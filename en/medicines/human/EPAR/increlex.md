@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 04:50:18
+document_datetime: 2025-12-29 08:24:58
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/increlex.html
 document_name: increlex.html
 version: success
-processing_time: 0.4295235
-conversion_datetime: 2025-12-28 00:19:40.004885
+processing_time: 0.1159035
+conversion_datetime: 2025-12-31 01:57:35.992812
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 mecasermin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +124,7 @@ English (EN) (77.67 KB - PDF)
 
 [View](/en/documents/overview/increlex-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-641)
+[Other languages (22)](#file-language-dropdown-869)
 
 български (BG) (113.13 KB - PDF)
 
@@ -410,7 +412,7 @@ English (EN) (505.94 KB - PDF)
 
 [View](/en/documents/product-information/increlex-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-330)
+[Other languages (24)](#file-language-dropdown-15)
 
 български (BG) (650.16 KB - PDF)
 
@@ -726,7 +728,7 @@ English (EN) (12.31 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/increlex-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-986)
+[Other languages (24)](#file-language-dropdown-390)
 
 български (BG) (101.87 KB - PDF)
 

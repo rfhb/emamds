@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:01:48
+document_datetime: 2025-12-29 14:34:12
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/irbesartan-bms.html
 document_name: irbesartan-bms.html
 version: success
-processing_time: 0.0944448
-conversion_datetime: 2025-12-25 12:01:19.208959
+processing_time: 0.0997815
+conversion_datetime: 2025-12-31 05:26:26.368262
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-irbesartan
+irbesartan Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -66,7 +62,7 @@ English (EN) (271.51 KB - PDF)
 
 [View](/en/documents/overview/irbesartan-bms-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-715)
+[Other languages (21)](#file-language-dropdown-372)
 
 български (BG) (464.25 KB - PDF)
 
@@ -332,7 +328,7 @@ English (EN) (1.23 MB - PDF)
 
 [View](/en/documents/product-information/irbesartan-bms-epar-product-information_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-884)
+[Other languages (21)](#file-language-dropdown-197)
 
 български (BG) (4.17 MB - PDF)
 
@@ -612,7 +608,7 @@ English (EN) (253.98 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/irbesartan-bms-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-62)
+[Other languages (20)](#file-language-dropdown-791)
 
 български (BG) (353.7 KB - PDF)
 

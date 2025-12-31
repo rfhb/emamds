@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:20:47
+document_datetime: 2025-12-29 11:08:41
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xeloda.html
 document_name: xeloda.html
 version: success
-processing_time: 0.1276251
-conversion_datetime: 2025-12-28 02:33:33.341535
+processing_time: 0.1331066
+conversion_datetime: 2025-12-31 01:29:09.665743
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 capecitabine Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -138,7 +140,7 @@ English (EN) (157.06 KB - PDF)
 
 [View](/en/documents/overview/xeloda-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-404)
+[Other languages (22)](#file-language-dropdown-773)
 
 български (BG) (180.77 KB - PDF)
 
@@ -416,7 +418,7 @@ English (EN) (613.28 KB - PDF)
 
 [View](/en/documents/product-information/xeloda-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-905)
+[Other languages (24)](#file-language-dropdown-292)
 
 български (BG) (753.02 KB - PDF)
 
@@ -732,7 +734,7 @@ English (EN) (14.86 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xeloda-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-544)
+[Other languages (21)](#file-language-dropdown-79)
 
 български (BG) (79.13 KB - PDF)
 
@@ -1054,7 +1056,7 @@ English (EN) (153.51 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/xeloda-h-c-316-a31-1481-epar-scientific-conclusions-article-31_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-262)
+[Other languages (24)](#file-language-dropdown-102)
 
 български (BG) (153.84 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-11-23 08:07:18
+document_datetime: 2025-12-29 14:34:47
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-dura.html
 document_name: clopidogrel-dura.html
 version: success
-processing_time: 0.1024648
-conversion_datetime: 2025-12-26 17:40:37.751024
+processing_time: 0.1046325
+conversion_datetime: 2025-12-31 02:56:16.302131
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -24,13 +24,9 @@ docling_version:
 
 This medicine's authorisation has been withdrawn
 
-clopidogrel
+clopidogrel Medicine Human Withdrawn
 
-Medicine
-
-Human
-
-Withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -69,7 +65,7 @@ English (EN) (500.91 KB - PDF)
 
 [View](/en/documents/overview/clopidogrel-dura-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-54)
+[Other languages (21)](#file-language-dropdown-517)
 
 български (BG) (666.03 KB - PDF)
 
@@ -335,7 +331,7 @@ English (EN) (807.47 KB - PDF)
 
 [View](/en/documents/product-information/clopidogrel-dura-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-330)
+[Other languages (24)](#file-language-dropdown-656)
 
 български (BG) (1.47 MB - PDF)
 
@@ -651,7 +647,7 @@ English (EN) (480.5 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/clopidogrel-dura-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-280)
+[Other languages (21)](#file-language-dropdown-406)
 
 български (BG) (552.25 KB - PDF)
 

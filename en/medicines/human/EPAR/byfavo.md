@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:21:00
+document_datetime: 2025-12-29 11:42:56
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/byfavo.html
 document_name: byfavo.html
 version: success
-processing_time: 0.1182668
-conversion_datetime: 2025-12-28 19:59:02.013521
+processing_time: 0.116165
+conversion_datetime: 2025-12-31 02:01:13.483356
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 remimazolam Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -124,7 +126,7 @@ English (EN) (126.39 KB - PDF)
 
 [View](/en/documents/overview/byfavo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-819)
+[Other languages (22)](#file-language-dropdown-220)
 
 български (BG) (152.02 KB - PDF)
 
@@ -412,7 +414,7 @@ English (EN) (1.94 MB - PDF)
 
 [View](/en/documents/product-information/byfavo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-241)
+[Other languages (24)](#file-language-dropdown-732)
 
 български (BG) (2.48 MB - PDF)
 
@@ -728,7 +730,7 @@ English (EN) (43.69 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/byfavo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-45)
+[Other languages (24)](#file-language-dropdown-610)
 
 български (BG) (51.17 KB - PDF)
 

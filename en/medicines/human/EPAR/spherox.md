@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:21:12
+document_datetime: 2025-12-29 11:56:31
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/spherox.html
 document_name: spherox.html
 version: success
-processing_time: 0.1108798
-conversion_datetime: 2025-12-28 04:22:16.632813
+processing_time: 0.3227038
+conversion_datetime: 2025-12-31 04:20:06.651305
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 spheroids of human autologous matrix-associated chondrocytes Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (118.4 KB - PDF)
 
 [View](/en/documents/overview/spherox-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-80)
+[Other languages (22)](#file-language-dropdown-529)
 
 български (BG) (138.27 KB - PDF)
 
@@ -397,7 +399,7 @@ English (EN) (261.69 KB - PDF)
 
 [View](/en/documents/product-information/spherox-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-763)
+[Other languages (24)](#file-language-dropdown-616)
 
 български (BG) (371.85 KB - PDF)
 
@@ -713,7 +715,7 @@ English (EN) (22.97 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/spherox-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-914)
+[Other languages (22)](#file-language-dropdown-219)
 
 български (BG) (46.16 KB - PDF)
 

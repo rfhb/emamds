@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:19:00
+document_datetime: 2025-12-29 08:36:37
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/savene.html
 document_name: savene.html
 version: success
-processing_time: 0.1095969
-conversion_datetime: 2025-12-28 03:51:01.089541
+processing_time: 0.1092051
+conversion_datetime: 2025-12-31 04:47:41.355431
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 dexrazoxane Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -108,7 +110,7 @@ English (EN) (57.75 KB - PDF)
 
 [View](/en/documents/overview/savene-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-419)
+[Other languages (21)](#file-language-dropdown-626)
 
 български (BG) (98.4 KB - PDF)
 
@@ -374,7 +376,7 @@ English (EN) (317.26 KB - PDF)
 
 [View](/en/documents/product-information/savene-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-954)
+[Other languages (24)](#file-language-dropdown-503)
 
 български (BG) (516.34 KB - PDF)
 
@@ -690,7 +692,7 @@ English (EN) (68.49 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/savene-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-348)
+[Other languages (24)](#file-language-dropdown-586)
 
 български (BG) (55.07 KB - PDF)
 

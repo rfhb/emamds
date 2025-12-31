@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:00:30
+document_datetime: 2025-12-29 09:50:54
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/darunavir-krka-dd.html
 document_name: darunavir-krka-dd.html
 version: success
-processing_time: 0.2804296
-conversion_datetime: 2025-12-27 14:50:46.665713
+processing_time: 0.1038995
+conversion_datetime: 2025-12-31 02:01:22.339746
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine's authorisation has expired
 
 darunavir Medicine Human Expired
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -61,7 +63,7 @@ English (EN) (650.03 KB - PDF)
 
 [View](/en/documents/overview/darunavir-krka-dd-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-426)
+[Other languages (22)](#file-language-dropdown-940)
 
 български (BG) (755.18 KB - PDF)
 
@@ -339,7 +341,7 @@ English (EN) (1.32 MB - PDF)
 
 [View](/en/documents/product-information/darunavir-krka-dd-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-645)
+[Other languages (24)](#file-language-dropdown-443)
 
 български (BG) (4.14 MB - PDF)
 
@@ -655,7 +657,7 @@ English (EN) (571.47 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/darunavir-krka-dd-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-959)
+[Other languages (24)](#file-language-dropdown-792)
 
 български (BG) (613.99 KB - PDF)
 

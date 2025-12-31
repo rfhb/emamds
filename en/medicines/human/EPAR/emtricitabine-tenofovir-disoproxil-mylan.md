@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 05:39:56
+document_datetime: 2025-12-29 13:08:03
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/emtricitabine-tenofovir-disoproxil-mylan.html
 document_name: emtricitabine-tenofovir-disoproxil-mylan.html
 version: success
-processing_time: 0.1545971
-conversion_datetime: 2025-12-24 04:54:08.507011
+processing_time: 0.3257887
+conversion_datetime: 2025-12-31 02:47:47.374604
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 emtricitabine / tenofovir disoproxil Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +113,7 @@ English (EN) (122.44 KB - PDF)
 
 [View](/en/documents/overview/emtricitabine-tenofovir-disoproxil-mylan-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-95)
+[Other languages (22)](#file-language-dropdown-704)
 
 български (BG) (125.25 KB - PDF)
 
@@ -397,7 +399,7 @@ English (EN) (641.81 KB - PDF)
 
 [View](/en/documents/product-information/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-609)
+[Other languages (24)](#file-language-dropdown-135)
 
 български (BG) (694.4 KB - PDF)
 
@@ -713,7 +715,7 @@ English (EN) (285.84 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/emtricitabine-tenofovir-disoproxil-mylan-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-960)
+[Other languages (24)](#file-language-dropdown-370)
 
 български (BG) (140.66 KB - PDF)
 
@@ -1124,7 +1126,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-211)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1406,7 +1408,7 @@ English (EN) (194.01 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/emtricitabine-tenofovir-disoproxil-mylan-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-712)
+[Other languages (24)](#file-language-dropdown-894)
 
 български (BG) (185.04 KB - DOCX)
 

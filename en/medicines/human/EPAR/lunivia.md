@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-23 07:05:45
+document_datetime: 2025-12-29 13:33:49
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lunivia.html
 document_name: lunivia.html
 version: success
-processing_time: 0.0778309
-conversion_datetime: 2025-12-24 04:53:03.55367
+processing_time: 0.0709009
+conversion_datetime: 2025-12-31 02:44:14.802321
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,11 +24,9 @@ docling_version:
 
 The application for this medicine has been withdrawn
 
-Medicine
+Medicine Human Application withdrawn
 
-Human
-
-Application withdrawn
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -110,7 +108,7 @@ English (EN) (42.61 KB - PDF)
 
 [View](/en/documents/medicine-qa/questions-and-answers-withdrawal-marketing-authorisation-application-lunivia-eszopiclone_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-686)
+[Other languages (21)](#file-language-dropdown-227)
 
 български (BG) (171.84 KB - PDF)
 

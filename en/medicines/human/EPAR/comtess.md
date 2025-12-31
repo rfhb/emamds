@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-02 06:40:41
+document_datetime: 2025-12-29 11:48:25
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/comtess.html
 document_name: comtess.html
 version: success
-processing_time: 0.1210743
-conversion_datetime: 2025-12-24 00:39:15.569656
+processing_time: 0.1110154
+conversion_datetime: 2025-12-31 03:26:42.036613
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 entacapone Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +109,7 @@ English (EN) (45.25 KB - PDF)
 
 [View](/en/documents/overview/comtess-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-845)
+[Other languages (21)](#file-language-dropdown-67)
 
 български (BG) (186.79 KB - PDF)
 
@@ -373,7 +375,7 @@ English (EN) (196.04 KB - PDF)
 
 [View](/en/documents/product-information/comtess-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-830)
+[Other languages (24)](#file-language-dropdown-825)
 
 български (BG) (235.96 KB - PDF)
 
@@ -689,7 +691,7 @@ English (EN) (82.25 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/comtess-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-139)
+[Other languages (24)](#file-language-dropdown-758)
 
 български (BG) (60.11 KB - PDF)
 

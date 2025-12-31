@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:02:15
+document_datetime: 2025-12-29 12:21:26
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/duloxetine-lilly.html
 document_name: duloxetine-lilly.html
 version: success
-processing_time: 0.109234
-conversion_datetime: 2025-12-29 20:33:08.129206
+processing_time: 0.115066
+conversion_datetime: 2025-12-31 07:51:44.68312
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

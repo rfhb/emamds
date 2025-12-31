@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:30:28
+document_datetime: 2025-12-29 11:44:12
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rasilez.html
 document_name: rasilez.html
 version: success
-processing_time: 0.1355584
-conversion_datetime: 2025-12-25 08:51:44.667895
+processing_time: 0.1416887
+conversion_datetime: 2025-12-31 02:28:22.394419
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 aliskiren Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +114,7 @@ English (EN) (78.75 KB - PDF)
 
 [View](/en/documents/overview/rasilez-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-1000)
+[Other languages (22)](#file-language-dropdown-726)
 
 български (BG) (106.39 KB - PDF)
 
@@ -390,7 +392,7 @@ English (EN) (462.95 KB - PDF)
 
 [View](/en/documents/product-information/rasilez-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-345)
+[Other languages (24)](#file-language-dropdown-213)
 
 български (BG) (457.19 KB - PDF)
 
@@ -706,7 +708,7 @@ English (EN) (53.63 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rasilez-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-241)
+[Other languages (24)](#file-language-dropdown-130)
 
 български (BG) (62.3 KB - PDF)
 
@@ -1086,7 +1088,7 @@ English (EN) (48.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/rasilez-h-c-780-a31-85-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisations-and-detailed-explanation-scientific-grounds-differences-prac-recommendati_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-371)
+[Other languages (22)](#file-language-dropdown-204)
 
 български (BG) (87.49 KB - PDF)
 

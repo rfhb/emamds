@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-09 23:26:16
+document_datetime: 2025-12-29 11:31:19
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/adempas.html
 document_name: adempas.html
 version: success
-processing_time: 0.1360934
-conversion_datetime: 2025-12-25 08:49:41.911714
+processing_time: 0.1378792
+conversion_datetime: 2025-12-31 01:27:46.238706
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 riociguat Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -118,7 +120,7 @@ English (EN) (128.47 KB - PDF)
 
 [View](/en/documents/overview/adempas-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-483)
+[Other languages (22)](#file-language-dropdown-126)
 
 български (BG) (167.67 KB - PDF)
 
@@ -406,7 +408,7 @@ English (EN) (1.12 MB - PDF)
 
 [View](/en/documents/product-information/adempas-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-150)
+[Other languages (24)](#file-language-dropdown-327)
 
 български (BG) (1.48 MB - PDF)
 
@@ -722,7 +724,7 @@ English (EN) (75.68 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/adempas-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-866)
+[Other languages (24)](#file-language-dropdown-475)
 
 български (BG) (88.04 KB - PDF)
 
@@ -1202,7 +1204,7 @@ English (EN) (909.81 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/adempas-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-927)
+[Other languages (24)](#file-language-dropdown-126)
 
 български (BG) (941.17 KB - DOCX)
 

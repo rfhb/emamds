@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:38:06
+document_datetime: 2025-12-29 11:35:32
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pergoveris.html
 document_name: pergoveris.html
 version: success
-processing_time: 0.1116707
-conversion_datetime: 2025-12-25 05:37:34.21796
+processing_time: 0.112107
+conversion_datetime: 2025-12-31 02:49:52.452491
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 follitropin alfa / lutropin alfa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -129,7 +131,7 @@ English (EN) (76.11 KB - PDF)
 
 [View](/en/documents/overview/pergoveris-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-67)
+[Other languages (22)](#file-language-dropdown-686)
 
 български (BG) (104.14 KB - PDF)
 
@@ -415,7 +417,7 @@ English (EN) (1.52 MB - PDF)
 
 [View](/en/documents/product-information/pergoveris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-170)
+[Other languages (24)](#file-language-dropdown-500)
 
 български (BG) (1.68 MB - PDF)
 
@@ -731,7 +733,7 @@ English (EN) (26.47 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pergoveris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-145)
+[Other languages (24)](#file-language-dropdown-673)
 
 български (BG) (52.24 KB - PDF)
 

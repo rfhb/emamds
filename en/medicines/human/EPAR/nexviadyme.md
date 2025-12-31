@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:50:12
+document_datetime: 2025-12-29 12:48:43
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nexviadyme.html
 document_name: nexviadyme.html
 version: success
-processing_time: 0.1201189
-conversion_datetime: 2025-12-26 18:59:17.422098
+processing_time: 0.1067484
+conversion_datetime: 2025-12-31 03:40:08.406175
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 avalglucosidase alfa Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -99,7 +101,7 @@ English (EN) (121.67 KB - PDF)
 
 [View](/en/documents/overview/nexviadyme-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-107)
+[Other languages (22)](#file-language-dropdown-241)
 
 български (BG) (146.91 KB - PDF)
 
@@ -297,7 +299,7 @@ English (EN) (359.98 KB - PDF)
 
 [View](/en/documents/product-information/nexviadyme-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-400)
+[Other languages (24)](#file-language-dropdown-511)
 
 български (BG) (649.01 KB - PDF)
 
@@ -611,7 +613,7 @@ English (EN) (44.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nexviadyme-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-980)
+[Other languages (24)](#file-language-dropdown-816)
 
 български (BG) (54.99 KB - PDF)
 
@@ -911,6 +913,7 @@ This product is no longer an orphan medicine. It was originally designated an or
 
 #### More information on Nexviadyme
 
+- [EMA/PE/0000181300 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/ema-pe-0000181300)
 - [A Post-Authorization Safety Study (PASS) to Assess Long-term Safety in Patients with Pompe Disease Treated with Avalglucosidase alfa in the Real-World Setting: the SAVANT (Safety assessment of AValglucosidase Alfa as a Novel Treatment) study - post-authorisation study](https://catalogues.ema.europa.eu/study/107473)
 
 **This page was last updated on** 08/08/2024

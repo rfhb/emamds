@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-25 07:00:38
+document_datetime: 2025-12-29 11:28:30
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/minjuvi.html
 document_name: minjuvi.html
 version: success
-processing_time: 0.0984915
-conversion_datetime: 2025-12-28 15:02:42.508595
+processing_time: 0.1102718
+conversion_datetime: 2025-12-31 03:03:11.822887
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -110,7 +110,7 @@ English (EN) (121.86 KB - PDF)
 
 [View](/en/documents/overview/minjuvi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-748)
+[Other languages (22)](#file-language-dropdown-2)
 
 български (BG) (136.19 KB - PDF)
 
@@ -310,7 +310,7 @@ English (EN) (207.31 KB - PDF)
 
 [View](/en/documents/product-information/minjuvi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-441)
+[Other languages (24)](#file-language-dropdown-133)
 
 български (BG) (352.89 KB - PDF)
 
@@ -626,7 +626,7 @@ English (EN) (15.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/minjuvi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-325)
+[Other languages (24)](#file-language-dropdown-889)
 
 български (BG) (92.34 KB - PDF)
 

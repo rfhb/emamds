@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:07:21
+document_datetime: 2025-12-29 14:35:21
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lojuxta.html
 document_name: lojuxta.html
 version: success
-processing_time: 0.112687
-conversion_datetime: 2025-12-25 03:53:45.730331
+processing_time: 0.1142722
+conversion_datetime: 2025-12-31 04:48:07.817337
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 lomitapide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -109,7 +111,7 @@ English (EN) (80.52 KB - PDF)
 
 [View](/en/documents/overview/lojuxta-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-534)
+[Other languages (22)](#file-language-dropdown-699)
 
 български (BG) (107.01 KB - PDF)
 
@@ -397,7 +399,7 @@ English (EN) (579.73 KB - PDF)
 
 [View](/en/documents/product-information/lojuxta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-780)
+[Other languages (24)](#file-language-dropdown-427)
 
 български (BG) (654.71 KB - PDF)
 
@@ -713,7 +715,7 @@ English (EN) (25.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lojuxta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-765)
+[Other languages (24)](#file-language-dropdown-517)
 
 български (BG) (98.62 KB - PDF)
 

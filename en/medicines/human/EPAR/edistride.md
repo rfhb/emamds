@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 05:49:21
+document_datetime: 2025-12-29 12:11:09
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/edistride.html
 document_name: edistride.html
 version: success
-processing_time: 0.1364418
-conversion_datetime: 2025-12-28 12:47:58.117304
+processing_time: 0.1350041
+conversion_datetime: 2025-12-31 04:26:25.762795
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 dapagliflozin Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -157,7 +159,7 @@ English (EN) (1.45 MB - PDF)
 
 [View](/en/documents/product-information/edistride-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-821)
+[Other languages (24)](#file-language-dropdown-959)
 
 български (BG) (939.44 KB - PDF)
 
@@ -473,7 +475,7 @@ English (EN) (27.12 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/edistride-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-281)
+[Other languages (24)](#file-language-dropdown-131)
 
 български (BG) (31.32 KB - PDF)
 
@@ -1013,7 +1015,7 @@ English (EN) (41.36 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/edistride-h-a20-1442-c-4161-0010-epar-scientific-conclusion-article-20_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-156)
+[Other languages (24)](#file-language-dropdown-521)
 
 български (BG) (84.18 KB - PDF)
 

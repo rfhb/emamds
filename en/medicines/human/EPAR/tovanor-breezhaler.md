@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-02 06:27:51
+document_datetime: 2025-12-29 14:35:26
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tovanor-breezhaler.html
 document_name: tovanor-breezhaler.html
 version: success
-processing_time: 0.1098309
-conversion_datetime: 2025-12-24 19:08:45.080955
+processing_time: 0.1107646
+conversion_datetime: 2025-12-31 03:12:55.549989
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -25,6 +25,8 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 glycopyrronium bromide Medicine Human Authorised
+
+On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -101,7 +103,7 @@ English (EN) (75.28 KB - PDF)
 
 [View](/en/documents/overview/tovanor-breezhaler-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-160)
+[Other languages (22)](#file-language-dropdown-978)
 
 български (BG) (99.57 KB - PDF)
 
@@ -379,7 +381,7 @@ English (EN) (689.59 KB - PDF)
 
 [View](/en/documents/product-information/tovanor-breezhaler-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-293)
+[Other languages (24)](#file-language-dropdown-250)
 
 български (BG) (679.08 KB - PDF)
 
@@ -695,7 +697,7 @@ English (EN) (95.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tovanor-breezhaler-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-536)
+[Other languages (24)](#file-language-dropdown-843)
 
 български (BG) (104.29 KB - PDF)
 

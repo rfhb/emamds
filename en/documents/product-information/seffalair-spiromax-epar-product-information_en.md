@@ -4,8 +4,8 @@ document_pages: 59
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/seffalair-spiromax-epar-product-information_en.pdf
 document_name: seffalair-spiromax-epar-product-information_en.pdf
 version: success
-processing_time: 12.5809013
-conversion_datetime: 2025-12-27 15:45:00.241794
+processing_time: 12.4869732
+conversion_datetime: 2026-01-03 13:15:47.278188
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

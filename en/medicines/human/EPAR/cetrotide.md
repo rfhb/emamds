@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 11:33:43
+document_datetime: 2025-12-18 15:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cetrotide.html
 document_name: cetrotide.html
 version: success
-processing_time: 0.4313555
-conversion_datetime: 2025-12-30 10:23:20.638101
+processing_time: 0.1278552
+conversion_datetime: 2026-01-03 13:13:33.421732
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -113,7 +113,7 @@ English (EN) (123.02 KB - PDF)
 
 [View](/en/documents/overview/cetrotide-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-526)
+[Other languages (22)](#file-language-dropdown-802)
 
 български (BG) (138.26 KB - PDF)
 
@@ -391,7 +391,7 @@ English (EN) (274.38 KB - PDF)
 
 [View](/en/documents/product-information/cetrotide-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-250)
+[Other languages (24)](#file-language-dropdown-735)
 
 български (BG) (314.89 KB - PDF)
 
@@ -707,7 +707,7 @@ English (EN) (50.87 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cetrotide-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-922)
+[Other languages (24)](#file-language-dropdown-308)
 
 български (BG) (58.18 KB - PDF)
 
@@ -1086,7 +1086,7 @@ English (EN) (161.42 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/cetrotide-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-839)
+[Other languages (24)](#file-language-dropdown-14)
 
 български (BG) (136.06 KB - DOCX)
 

@@ -4,8 +4,8 @@ document_pages: 6
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/tremfya-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: tremfya-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 3.0055347
-conversion_datetime: 2025-12-28 09:13:28.528884
+processing_time: 3.9764016
+conversion_datetime: 2026-01-03 12:14:31.825047
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 14:35:04
+document_datetime: 2025-12-16 16:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/seffalair-spiromax.html
 document_name: seffalair-spiromax.html
 version: success
-processing_time: 0.1224212
-conversion_datetime: 2025-12-31 02:06:01.596068
+processing_time: 0.122901
+conversion_datetime: 2026-01-03 12:21:03.447928
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -112,7 +112,7 @@ English (EN) (133.38 KB - PDF)
 
 [View](/en/documents/overview/seffalair-spiromax-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-416)
+[Other languages (22)](#file-language-dropdown-189)
 
 български (BG) (156.98 KB - PDF)
 
@@ -310,7 +310,7 @@ English (EN) (924.25 KB - PDF)
 
 [View](/en/documents/product-information/seffalair-spiromax-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-415)
+[Other languages (24)](#file-language-dropdown-726)
 
 български (BG) (1.11 MB - PDF)
 
@@ -624,7 +624,7 @@ English (EN) (81.9 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/seffalair-spiromax-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-448)
+[Other languages (24)](#file-language-dropdown-453)
 
 български (BG) (92.29 KB - PDF)
 
@@ -920,7 +920,7 @@ English (EN) (488.96 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/seffalair-spiromax-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-725)
+[Other languages (24)](#file-language-dropdown-540)
 
 български (BG) (512.4 KB - DOCX)
 

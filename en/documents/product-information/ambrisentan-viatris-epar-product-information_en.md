@@ -4,13 +4,13 @@ document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ambrisentan-viatris-epar-product-information_en.pdf
 document_name: ambrisentan-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 7.5477287
-conversion_datetime: 2025-12-23 23:29:53.105283
+processing_time: 7.6633594
+conversion_datetime: 2026-01-03 12:53:03.736133
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)

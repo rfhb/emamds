@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/all-authorised-presentations/puregon-epar-all-authorised-presentations_en.pdf
 document_name: puregon-epar-all-authorised-presentations_en.pdf
 version: success
-processing_time: 0.8305621
-conversion_datetime: 2025-12-25 08:26:04.37203
+processing_time: 0.8333825
+conversion_datetime: 2026-01-03 12:42:26.001818
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

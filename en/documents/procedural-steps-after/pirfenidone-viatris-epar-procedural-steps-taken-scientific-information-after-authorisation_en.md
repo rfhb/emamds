@@ -4,8 +4,8 @@ document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/pirfenidone-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: pirfenidone-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.6774389
-conversion_datetime: 2025-12-30 02:53:44.504317
+processing_time: 1.6923114
+conversion_datetime: 2026-01-03 13:04:40.595252
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

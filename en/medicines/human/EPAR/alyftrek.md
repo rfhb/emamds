@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 11:37:03
+document_datetime: 2025-12-18 10:56:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/alyftrek.html
 document_name: alyftrek.html
 version: success
-processing_time: 0.1081487
-conversion_datetime: 2025-12-31 03:47:01.221379
+processing_time: 0.107748
+conversion_datetime: 2026-01-03 13:03:11.74763
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -118,7 +118,7 @@ English (EN) (127.67 KB - PDF)
 
 [View](/en/documents/overview/alyftrek-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-403)
+[Other languages (22)](#file-language-dropdown-950)
 
 български (BG) (155.29 KB - PDF)
 
@@ -316,7 +316,7 @@ English (EN) (564.44 KB - PDF)
 
 [View](/en/documents/product-information/alyftrek-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-679)
+[Other languages (24)](#file-language-dropdown-719)
 
 български (BG) (649.24 KB - PDF)
 
@@ -630,7 +630,7 @@ English (EN) (44 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/alyftrek-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-195)
+[Other languages (23)](#file-language-dropdown-141)
 
 español (ES) (44.21 KB - PDF)
 

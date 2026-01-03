@@ -4,8 +4,8 @@ document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/assessment-report/rivaroxaban-koanaa-epar-public-assessment-report_en.pdf
 document_name: rivaroxaban-koanaa-epar-public-assessment-report_en.pdf
 version: success
-processing_time: 13.5674058
-conversion_datetime: 2025-12-28 01:07:35.438264
+processing_time: 13.5170627
+conversion_datetime: 2026-01-03 12:27:53.591334
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

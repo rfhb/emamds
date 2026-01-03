@@ -4,8 +4,8 @@ document_pages: 111
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/retsevmo-epar-product-information_en.pdf
 document_name: retsevmo-epar-product-information_en.pdf
 version: success
-processing_time: 34.5415044
-conversion_datetime: 2025-12-24 16:28:21.665762
+processing_time: 37.2514216
+conversion_datetime: 2026-01-03 13:00:44.554689
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

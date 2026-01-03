@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 07:15:55
+document_datetime: 2025-12-16 16:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/erelzi.html
 document_name: erelzi.html
 version: success
-processing_time: 0.1171939
-conversion_datetime: 2025-12-30 22:33:41.209996
+processing_time: 0.1160683
+conversion_datetime: 2026-01-03 12:19:02.918374
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -114,7 +114,7 @@ English (EN) (108.33 KB - PDF)
 
 [View](/en/documents/overview/erelzi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-992)
+[Other languages (22)](#file-language-dropdown-999)
 
 български (BG) (116.95 KB - PDF)
 
@@ -402,7 +402,7 @@ English (EN) (4.11 MB - PDF)
 
 [View](/en/documents/product-information/erelzi-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-615)
+[Other languages (23)](#file-language-dropdown-410)
 
 български (BG) (1.17 MB - PDF)
 
@@ -706,7 +706,7 @@ English (EN) (12.58 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/erelzi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-849)
+[Other languages (24)](#file-language-dropdown-113)
 
 български (BG) (42.27 KB - PDF)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 11:22:45
+document_datetime: 2025-12-18 12:42:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cosentyx.html
 document_name: cosentyx.html
 version: success
-processing_time: 0.1436295
-conversion_datetime: 2025-12-30 00:49:18.657957
+processing_time: 0.1457732
+conversion_datetime: 2026-01-03 13:15:07.507853
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -139,7 +139,7 @@ English (EN) (162.24 KB - PDF)
 
 [View](/en/documents/overview/cosentyx-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-431)
+[Other languages (22)](#file-language-dropdown-711)
 
 български (BG) (189.46 KB - PDF)
 
@@ -427,7 +427,7 @@ English (EN) (2.52 MB - PDF)
 
 [View](/en/documents/product-information/cosentyx-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-15)
+[Other languages (24)](#file-language-dropdown-197)
 
 български (BG) (2.86 MB - PDF)
 
@@ -743,7 +743,7 @@ English (EN) (107.05 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cosentyx-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-263)
+[Other languages (24)](#file-language-dropdown-345)
 
 български (BG) (117.96 KB - PDF)
 

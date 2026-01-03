@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 11:41:33
+document_datetime: 2025-12-16 12:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ambrisentan-viatris.html
 document_name: ambrisentan-viatris.html
 version: success
-processing_time: 0.1220612
-conversion_datetime: 2025-12-30 11:53:47.102271
+processing_time: 0.1308501
+conversion_datetime: 2026-01-03 13:15:16.709793
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -107,7 +107,7 @@ English (EN) (109.63 KB - PDF)
 
 [View](/en/documents/overview/ambrisentan-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-483)
+[Other languages (22)](#file-language-dropdown-136)
 
 български (BG) (159.86 KB - PDF)
 
@@ -393,7 +393,7 @@ English (EN) (316.6 KB - PDF)
 
 [View](/en/documents/product-information/ambrisentan-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-252)
+[Other languages (24)](#file-language-dropdown-69)
 
 български (BG) (639.43 KB - PDF)
 
@@ -709,7 +709,7 @@ English (EN) (12.22 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ambrisentan-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-963)
+[Other languages (24)](#file-language-dropdown-307)
 
 български (BG) (65.67 KB - PDF)
 
@@ -1099,7 +1099,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-787)
 
 български (BG) (93.16 KB - PDF)
 

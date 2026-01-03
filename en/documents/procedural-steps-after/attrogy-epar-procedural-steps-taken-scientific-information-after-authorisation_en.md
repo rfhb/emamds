@@ -4,8 +4,8 @@ document_pages: 2
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/attrogy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: attrogy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.1349389
-conversion_datetime: 2025-12-24 16:51:32.603514
+processing_time: 1.1462662
+conversion_datetime: 2026-01-03 12:59:58.626379
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

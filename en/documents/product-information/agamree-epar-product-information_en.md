@@ -4,13 +4,13 @@ document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/agamree-epar-product-information_en.pdf
 document_name: agamree-epar-product-information_en.pdf
 version: success
-processing_time: 7.6563102
-conversion_datetime: 2025-12-20 12:57:53.745008
+processing_time: 7.6980873
+conversion_datetime: 2026-01-03 12:15:08.425445
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)

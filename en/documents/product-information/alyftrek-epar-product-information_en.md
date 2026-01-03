@@ -4,13 +4,13 @@ document_pages: 43
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/alyftrek-epar-product-information_en.pdf
 document_name: alyftrek-epar-product-information_en.pdf
 version: success
-processing_time: 18.1208732
-conversion_datetime: 2025-12-23 02:54:42.215344
+processing_time: 21.3094352
+conversion_datetime: 2026-01-03 12:49:29.365225
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)

@@ -4,13 +4,13 @@ document_pages: 63
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/olumiant-epar-product-information_en.pdf
 document_name: olumiant-epar-product-information_en.pdf
 version: success
-processing_time: 20.7024906
-conversion_datetime: 2025-12-22 07:58:01.428902
+processing_time: 21.1304373
+conversion_datetime: 2026-01-03 12:41:17.961637
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -407,20 +407,6 @@ Table 2. Adverse reactions
 | Hepatobiliary disorders                      |                                    | ALT increased ≥ 3 x ULN a, d                                                                       | AST increased ≥ 3 x ULN a, e      |
 | Skin and subcutaneous tissue disorders       |                                    | Rash Acne c                                                                                        |                                   |
 | Investigations                               |                                    | Creatine phosphokinase increased > 5 x ULN a, c                                                    | Weight increased                  |
-
-a Includes changes detected during laboratory monitoring (see text below).
-
-b Frequency for herpes zoster and deep vein thrombosis is based on rheumatoid arthritis clinical trials.
-
-c In rheumatoid arthritis clinical trials, the frequency of acne and creatine phosphokinase increased &gt; 5 x ULN was uncommon.
-
-d In atopic dermatitis clinical trials, the frequency of nausea, and ALT ≥3 x ULN was uncommon. In alopecia areata clinical trials, the frequency of abdominal pain was uncommon. In atopic dermatitis and alopecia areata clinical trials, the frequency of pneumonia and thrombocytosis &gt; 600 x 10 9 cells/L was uncommon.
-
-e In alopecia areata clinical trials, the frequency of AST ≥ 3 x ULN was common.
-
-f Frequency for pulmonary embolism is based on rheumatoid arthritis and atopic dermatitis clinical trials.
-
-g Folliculitis was observed in alopecia areata clinical trials. It was usually localized in the scalp region associated with hair regrowth.
 
 ## Description of selected adverse reactions
 

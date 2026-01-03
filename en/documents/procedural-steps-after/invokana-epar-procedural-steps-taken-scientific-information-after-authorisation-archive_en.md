@@ -4,8 +4,8 @@ document_pages: 29
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/invokana-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
 document_name: invokana-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
 version: success
-processing_time: 18.8104874
-conversion_datetime: 2025-12-27 21:47:08.369172
+processing_time: 18.0665924
+conversion_datetime: 2026-01-03 12:53:48.973455
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

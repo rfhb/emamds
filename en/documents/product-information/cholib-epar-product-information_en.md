@@ -4,13 +4,13 @@ document_pages: 73
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cholib-epar-product-information_en.pdf
 document_name: cholib-epar-product-information_en.pdf
 version: success
-processing_time: 21.3321402
-conversion_datetime: 2025-12-23 07:56:23.418418
+processing_time: 22.184754
+conversion_datetime: 2026-01-03 13:09:34.636693
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -604,8 +604,6 @@ The results on the biological parameters of interest at 24 weeks are presented i
 | Apo B/Apo AI                                                                                                                                                          | Feno 145 + Simva 40 Simva 40                                                                                                                                          | 204 194                                                                                                                                                               | -4.93 (41.66) 3.08 (26.85)                                                                                                                                            | -8.29 (-15.18, -1.39)                                                                                                                                                 | 0.019                                                                                                                                                                 |
 | Fibrinogen* (g/L)                                                                                                                                                     | Feno 145 + Simva 40 Simva 40                                                                                                                                          | 202 192                                                                                                                                                               | -29 (0.04) 0.01 (0.05)                                                                                                                                                | -0.30 (-0.41, -0.19)                                                                                                                                                  | <0.001                                                                                                                                                                |
 
-*Treatment Comparison consists of the difference between the LS-means for Feno 145 + Simva 40 an d Simva 40, as well as the corresponding 95% CI. LS (less square mean) SD (standard deviation)
-
 ## Cholib 145/20
 
 Study 0501 evaluated 2 different doses of fenofibrate-simvastatin combination compared to simvastatin 40 mg for a 24 week double-blind period. The primary efficacy criterion was superiority of the combination fenofibrate 145 and simvastatin 20 mg versus simvastatin 40 mg on TG decrease and HDL-C increase and non-inferiority for LDL-C decrease at 12 weeks.
@@ -622,8 +620,6 @@ Study 0501 evaluated 2 different doses of fenofibrate-simvastatin combination co
 | Apo B (g/L)                                                                  | -6.52 (21.12)                                                                | -7.97 (17.98)                                                                | 1.22 (-1.19,3.63)                                                            | 0.320                                                                        |
 | Apo B/Apo AI                                                                 | -8.49 (24.42)                                                                | -7.94 (18.96)                                                                | -0.73 (-3.44,1.97)                                                           | 0.595                                                                        |
 | Fibrinogen (g/L)                                                             | -0.31 (0.70)                                                                 | -0.02 (0.70)                                                                 | -0.32 (-0.40,-0.24)                                                          | < 0.001                                                                      |
-
-*Treatment Comparison: difference between the LS Means for Feno 145 + Simva 20 and Simva 40, as well as the associated 95% confidence interval
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1377,8 +1373,6 @@ The combination F145/S40 showed superiority over S40 for LDL-C reduction only at
 | LDL-C                                                                                              | -3.98 (24.16)                                                                                      | 3.07 (30.01)                                                                                       | -7.21 (-12.20, -2.21)                                                                              | 0.005                                                                                              |
 | HDL-C                                                                                              | 5.08 (16.10)                                                                                       | 0.62 (13.21)                                                                                       | 4.65 (1.88, 7.42)                                                                                  | 0.001                                                                                              |
 
-*Treatment Comparison consists of the difference between the LS-means for Feno 145 + Simva 40 an d Simva 40, as well as the corresponding 95% CI.
-
 <div style=\"page-break-after: always\"></div>
 
 The results on the biological parameters of interest at 24 weeks are presented in the table below. F145/S40 demonstrated statistically significant superiority on all parameters except on ApoA1 increase.
@@ -1411,8 +1405,6 @@ Study 0501 evaluated 2 different doses of fenofibrate-simvastatin combination co
 | Apo B (g/L)                                                                  | -6.52 (21.12)                                                                | -7.97 (17.98)                                                                | 1.22 (-1.19,3.63)                                                            | 0.320                                                                        |
 | Apo B/Apo AI                                                                 | -8.49 (24.42)                                                                | -7.94 (18.96)                                                                | -0.73 (-3.44,1.97)                                                           | 0.595                                                                        |
 | Fibrinogen (g/L)                                                             | -0.31 (0.70)                                                                 | -0.02 (0.70)                                                                 | -0.32 (-0.40,-0.24)                                                          | < 0.001                                                                      |
-
-*Treatment Comparison: difference between the LS Means for Feno 145 + Simva 20 and Simva 40, as well as the associated 95% confidence interval
 
 <div style=\"page-break-after: always\"></div>
 

@@ -4,8 +4,8 @@ document_pages: 5
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/levetiracetam-hospira-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: levetiracetam-hospira-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 2.8028471
-conversion_datetime: 2025-12-30 09:52:27.536539
+processing_time: 2.7651615
+conversion_datetime: 2026-01-03 12:20:24.66154
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

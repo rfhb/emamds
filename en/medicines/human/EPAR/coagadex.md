@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 12:18:44
+document_datetime: 2025-12-15 15:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/coagadex.html
 document_name: coagadex.html
 version: success
-processing_time: 0.1162289
-conversion_datetime: 2025-12-31 02:50:19.722918
+processing_time: 0.1033222
+conversion_datetime: 2026-01-03 12:20:13.746479
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -107,7 +107,7 @@ English (EN) (76.9 KB - PDF)
 
 [View](/en/documents/overview/coagadex-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-201)
+[Other languages (22)](#file-language-dropdown-468)
 
 български (BG) (109.09 KB - PDF)
 
@@ -393,7 +393,7 @@ English (EN) (340.86 KB - PDF)
 
 [View](/en/documents/product-information/coagadex-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-658)
+[Other languages (24)](#file-language-dropdown-58)
 
 български (BG) (363.79 KB - PDF)
 
@@ -709,7 +709,7 @@ English (EN) (26.65 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/coagadex-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-558)
+[Other languages (24)](#file-language-dropdown-419)
 
 български (BG) (74.68 KB - PDF)
 

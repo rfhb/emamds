@@ -4,8 +4,8 @@ document_pages: 8
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/agamree-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: agamree-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 3.8642059
-conversion_datetime: 2025-12-29 23:06:35.811142
+processing_time: 3.9633997
+conversion_datetime: 2026-01-03 13:03:22.758724
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

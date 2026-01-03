@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-04-25 16:27:03
+document_datetime: 2025-12-18 12:54:22
 document_pages: 2
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/rotateq-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: rotateq-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.1844504
-conversion_datetime: 2025-12-20 12:41:16.786701
+processing_time: 1.397363
+conversion_datetime: 2026-01-03 12:24:48.348803
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -20,19 +20,11 @@ docling_version:
 
 Procedural steps taken and scientific information after the authorisation*
 
-*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, please also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Application number   | Scope                               | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
-|----------------------|-------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
-| Article 61(3) /      | - Notification acc. Article 61(3) - | 25/04/2025                          |                                             | PL                               |           |
-
-1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
-
-2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The
-
-CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
-
-3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+| Application number   | Scope                              | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Variation type II /  | C.I HUMAN AND VETERINARY MEDICINAL | 11/12/2025                          |                                             | SmPC and PL                      |           |
 
 <!-- image -->
 
@@ -40,5 +32,6 @@ CD is issued within two months of the opinion for variations falling under the s
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/N/0000265561   | Update of the package leaflet with revised contact details of local representatives and deletion of 'United Kingdom (Northern Ireland)' from the list of local representatives in line with the QRD template v10.4.   |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| EMA/VR/0000301699                | PRODUCTS - C.I.4 Change(s) in the Summary of Product Characteristics, Labelling or Package Leaflet due to new quality, preclinical, clinical or pharmacovigilance data - Accepted Update of section 4.8 of the SmPC in order to add gastroenteritis as an adverse event in immunocompetent infants with the frequency 'not known' based on the review of the post-marketing and literature data; the Package Leaflet is updated accordingly. In addition, the MAH took the opportunity to update the list of local representatives in the Package Leaflet.   |            |    |
+|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|----|
+| Article 61(3) / EMA/N/0000265561 | - Notification acc. Article 61(3) - Accepted Update of the package leaflet with revised contact details of local representatives and deletion of 'United Kingdom (Northern Ireland)' from the list of local representatives in line with the QRD template v10.4.                                                                                                                                                                                                                                                                                             | 25/04/2025 | PL |

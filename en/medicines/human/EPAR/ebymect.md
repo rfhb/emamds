@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 11:45:34
+document_datetime: 2025-12-18 13:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ebymect.html
 document_name: ebymect.html
 version: success
-processing_time: 0.132808
-conversion_datetime: 2025-12-30 09:27:20.799831
+processing_time: 0.1327084
+conversion_datetime: 2026-01-03 12:24:19.319855
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -142,7 +142,7 @@ English (EN) (86.24 KB - PDF)
 
 [View](/en/documents/overview/ebymect-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-617)
+[Other languages (22)](#file-language-dropdown-266)
 
 български (BG) (148.92 KB - PDF)
 
@@ -430,7 +430,7 @@ English (EN) (926.32 KB - PDF)
 
 [View](/en/documents/product-information/ebymect-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-508)
+[Other languages (24)](#file-language-dropdown-796)
 
 български (BG) (624.43 KB - PDF)
 
@@ -746,7 +746,7 @@ English (EN) (30.47 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ebymect-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-640)
+[Other languages (24)](#file-language-dropdown-866)
 
 български (BG) (33.82 KB - PDF)
 
@@ -1153,7 +1153,7 @@ English (EN) (41.36 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/ebymect-h-a20-1442-c-4162-0013-epar-scientific-conclusion-article-20_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-27)
+[Other languages (24)](#file-language-dropdown-442)
 
 български (BG) (84.18 KB - PDF)
 

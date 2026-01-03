@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 13:24:40
+document_datetime: 2025-12-16 12:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trisenox.html
 document_name: trisenox.html
 version: success
-processing_time: 0.1469541
-conversion_datetime: 2025-12-30 13:14:43.164771
+processing_time: 0.2685657
+conversion_datetime: 2026-01-03 12:23:18.256451
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -119,7 +119,7 @@ English (EN) (88.89 KB - PDF)
 
 [View](/en/documents/overview/trisenox-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-700)
+[Other languages (22)](#file-language-dropdown-448)
 
 български (BG) (114.49 KB - PDF)
 
@@ -397,7 +397,7 @@ English (EN) (501.76 KB - PDF)
 
 [View](/en/documents/product-information/trisenox-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-31)
+[Other languages (24)](#file-language-dropdown-569)
 
 български (BG) (656.38 KB - PDF)
 
@@ -713,7 +713,7 @@ English (EN) (14.18 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/trisenox-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-439)
+[Other languages (24)](#file-language-dropdown-766)
 
 български (BG) (38.37 KB - PDF)
 
@@ -1148,7 +1148,7 @@ English (EN) (139.28 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/trisenox-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-933)
+[Other languages (24)](#file-language-dropdown-698)
 
 български (BG) (171.05 KB - DOCX)
 
@@ -1356,7 +1356,7 @@ English (EN) (228.92 KB - PDF)
 
 [View](/en/documents/medication-error/trisenox-ema-issues-alert-risk-dosing-errors-cancer-medicine-trisenox_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-528)
+[Other languages (22)](#file-language-dropdown-230)
 
 български (BG) (253.45 KB - PDF)
 

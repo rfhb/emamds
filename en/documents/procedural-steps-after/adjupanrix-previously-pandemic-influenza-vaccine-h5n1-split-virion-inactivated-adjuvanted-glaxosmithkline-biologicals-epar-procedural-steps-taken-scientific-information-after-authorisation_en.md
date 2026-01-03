@@ -4,8 +4,8 @@ document_pages: 28
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/adjupanrix-previously-pandemic-influenza-vaccine-h5n1-split-virion-inactivated-adjuvanted-glaxosmithkline-biologicals-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: adjupanrix-previously-pandemic-influenza-vaccine-h5n1-split-virion-inactivated-adjuvanted-glaxosmithkline-biologicals-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 16.8307205
-conversion_datetime: 2025-12-27 16:04:13.7307
+processing_time: 16.435168
+conversion_datetime: 2026-01-03 12:30:00.27751
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

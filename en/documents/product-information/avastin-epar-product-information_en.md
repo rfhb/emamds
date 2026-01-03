@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-04-25 12:02:21
-document_pages: 73
+document_datetime: 2025-12-19 16:38:10
+document_pages: 75
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/avastin-epar-product-information_en.pdf
 document_name: avastin-epar-product-information_en.pdf
 version: success
-processing_time: 54.2975066
-conversion_datetime: 2025-12-20 13:11:35.151685
+processing_time: 53.7739805
+conversion_datetime: 2026-01-03 12:29:35.068832
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -132,9 +132,9 @@ The recommended dose of Avastin is 15 mg/kg of body weight given once every 3 we
 
 It is recommended that treatment be continued until progression of the underlying disease or until unacceptable toxicity (see section 5.1).
 
-## Special populations
-
 <div style=\"page-break-after: always\"></div>
+
+## Special populations
 
 Elderly patients: No dose adjustment is required in the patients ≥ 65 years of age.
 
@@ -162,9 +162,9 @@ For instructions on dilution of the medicinal product before administration, see
 
 ## 4.3 Contraindications
 
--  Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
--  Hypersensitivity to Chinese Hamster Ovary (CHO) cell products or other recombinant human or humanised antibodies.
--  Pregnancy (see section 4.6).
+- Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
+- Hypersensitivity to Chinese Hamster Ovary (CHO) cell products or other recombinant human or humanised antibodies.
+- Pregnancy (see section 4.6).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -204,11 +204,11 @@ There have been rare reports of Avastin-treated patients developing signs and sy
 
 ## Proteinuria (see section 4.8)
 
-Patients with a history of hypertension may be at increased risk for the development of proteinuria when treated with Avastin. There is evidence suggesting that all Grade (US National Cancer InstituteCommon Terminology Criteria for Adverse Events [NCI-CTCAE v.3]) proteinuria may be related to the dose. Monitoring of proteinuria by dipstick urinalysis is recommended prior to starting and during therapy. Grade 4 proteinuria (nephrotic syndrome) was seen in up to 1.4% of patients treated with
+Patients with a history of hypertension may be at increased risk for the development of proteinuria when treated with Avastin. There is evidence suggesting that all Grade (US National Cancer InstituteCommon Terminology Criteria for Adverse Events [NCI-CTCAE v.3]) proteinuria may be related to the dose. Monitoring of proteinuria by dipstick urinalysis is recommended prior to starting and during
 
 <div style=\"page-break-after: always\"></div>
 
-Avastin. Therapy should be permanently discontinued in patients who develop nephrotic syndrome (NCI-CTCAE v.3).
+therapy. Grade 4 proteinuria (nephrotic syndrome) was seen in up to 1.4% of patients treated with Avastin. Therapy should be permanently discontinued in patients who develop nephrotic syndrome (NCI-CTCAE v.3).
 
 ## Arterial thromboembolism (see section 4.8)
 
@@ -240,13 +240,11 @@ Patients with non-small cell lung cancer treated with Avastin may be at risk of 
 
 The use of VEGF pathway inhibitors in patients with or without hypertension may promote the formation of aneurysms and/or artery dissections. Before initiating Avastin, this risk should be carefully considered in patients with risk factors such as hypertension or history of aneurysm.
 
-## Congestive heart failure (CHF) (see section 4.8)
-
-Reactions consistent with CHF were reported in clinical trials. The findings ranged from asymptomatic declines in left ventricular ejection fraction to symptomatic CHF, requiring treatment or
-
 <div style=\"page-break-after: always\"></div>
 
-hospitalisation. Caution should be exercised when treating patients with clinically significant cardiovascular disease such as pre-existing coronary artery disease, or congestive heart failure with Avastin.
+## Congestive heart failure (CHF) (see section 4.8)
+
+Reactions consistent with CHF were reported in clinical trials. The findings ranged from asymptomatic declines in left ventricular ejection fraction to symptomatic CHF, requiring treatment or hospitalisation. Caution should be exercised when treating patients with clinically significant cardiovascular disease such as pre-existing coronary artery disease, or congestive heart failure with Avastin.
 
 Most of the patients who experienced CHF had metastatic breast cancer and had received previous treatment with anthracyclines, prior radiotherapy to the left chest wall or other risk factors for CHF were present.
 
@@ -272,11 +270,11 @@ Avastin is not formulated for intravitreal use.
 
 Individual cases and clusters of serious ocular adverse reactions have been reported following unapproved intravitreal use of Avastin compounded from vials approved for intravenous administration in cancer patients. These reactions included infectious endophthalmitis, intraocular inflammation such as sterile endophthalmitis, uveitis and vitritis, retinal detachment, retinal pigment epithelial tear, intraocular pressure increased, intraocular haemorrhage such as vitreous haemorrhage or retinal haemorrhage and conjunctival haemorrhage. Some of these reactions have resulted in various degrees of visual loss, including permanent blindness.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Systemic effects following intravitreal use
 
 A reduction of circulating VEGF concentration has been demonstrated following intravitreal antiVEGF therapy. Systemic adverse reactions including non-ocular haemorrhages and arterial thromboembolic reactions have been reported following intravitreal injection of VEGF inhibitors.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Ovarian failure/fertility
 
@@ -312,11 +310,11 @@ Increased rates of severe neutropenia, febrile neutropenia, or infection with or
 
 The safety and efficacy of concomitant administration of radiotherapy and Avastin has not been established.
 
-## EGFR monoclonal antibodies in combination with bevacizumab chemotherapy regimens
-
-No interaction studies have been performed. EGFR monoclonal antibodies should not be administered for the treatment of mCRC in combination with bevacizumab-containing chemotherapy. Results from the randomised phase III studies, PACCE and CAIRO-2, in patients with mCRC suggest that the use of anti-EGFR monoclonal antibodies panitumumab and cetuximab, respectively, in combination with bevacizumab plus chemotherapy, is associated with decreased PFS and/or OS, and with increased toxicity compared with bevacizumab plus chemotherapy alone.
+EGFR monoclonal antibodies in combination with bevacizumab chemotherapy regimens No interaction studies have been performed. EGFR monoclonal antibodies should not be administered for the treatment of mCRC in combination with bevacizumab-containing chemotherapy. Results from
 
 <div style=\"page-break-after: always\"></div>
+
+the randomised phase III studies, PACCE and CAIRO-2, in patients with mCRC suggest that the use of anti-EGFR monoclonal antibodies panitumumab and cetuximab, respectively, in combination with bevacizumab plus chemotherapy, is associated with decreased PFS and/or OS, and with increased toxicity compared with bevacizumab plus chemotherapy alone.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -354,9 +352,9 @@ The most serious adverse reactions were:
 
 The most frequently observed adverse reactions across clinical trials in patients receiving Avastin were hypertension, fatigue or asthenia, diarrhoea and abdominal pain.
 
-Analyses of the clinical safety data suggest that the occurrence of hypertension and proteinuria with Avastin therapy are likely to be dose-dependent.
-
 <div style=\"page-break-after: always\"></div>
+
+Analyses of the clinical safety data suggest that the occurrence of hypertension and proteinuria with Avastin therapy are likely to be dose-dependent.
 
 ## Tabulated list of adverse reactions
 
@@ -389,33 +387,32 @@ Table 1: Adverse reactions by frequency
 |--------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------|------------|-------------------------|-------------|-----------------------|
 | Infections and infestations          |                                                                     | Sepsis, Abscess b,d , Cellulitis, Infection, Urinary tract infection |            | Necrotising fasciitis a |             |                       |
 | Blood and lymphatic system disorders | Febrile neutropenia, Leucopenia, Neutropenia b , Thrombo- cytopenia | Anaemia, Lymphopenia                                                 |            |                         |             |                       |
-| Immune system disorders              |                                                                     | Hypersensitivity, infusion reactions a,b,d                           |            | Anaphylactic shock      |             |                       |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                              | Very common                                                                               | Common                                                                                                                                                      | Uncommon   | Rare                                                 | Very rare                       | Frequency not known                                                     |
-|-------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------|---------------------------------|-------------------------------------------------------------------------|
-| Metabolism and nutrition disorders              | Anorexia, Hypomagnesaemia, Hyponatraemia                                                  | Dehydration                                                                                                                                                 |            |                                                      |                                 |                                                                         |
-| Nervous system disorders                        | Peripheral sensory neuropathy b , Dysarthria, Headache, Dysguesia                         | Cerebrovascular accident, Syncope, Somnolence                                                                                                               |            | Posterior reversible encephalo- pathy syndrome a,b,d | Hypertensive encephalo- pathy a |                                                                         |
-| Eye disorders                                   | Eye disorder, Lacrimation increased                                                       |                                                                                                                                                             |            |                                                      |                                 |                                                                         |
-| Cardiac disorders                               |                                                                                           | Congestive heart failure b,d , Supraventricular tachycardia                                                                                                 |            |                                                      |                                 |                                                                         |
-| Vascular disorders                              | Hypertension b,d , Thrombo- embolism (venous) b,d                                         | Thrombo- embolism (arterial) b,d , Haemorrhage b,d , Deep vein thrombosis                                                                                   |            |                                                      |                                 | Renal thrombotic microangiopathy a,b , Aneurysms and artery dissections |
-| Respiratory, thoracic and mediastinal disorders | Dyspnoea, Rhinitis, Epistaxis, Cough                                                      | Pulmonary haemorrhage/ Haemoptysis b,d , Pulmonary embolism, Hypoxia, Dysphonia a                                                                           |            |                                                      |                                 | Pulmonary hypertension a , Nasal septum perforation a                   |
-| Gastrointestinal disorders                      | Rectal haemorrhage, Stomatitis, Constipation, Diarrhoea, Nausea, Vomiting, Abdominal pain | Gastrointestinal perforation b,d, Intestinal perforation, Ileus, Intestinal obstruction, Recto-vaginal fistulae d,e , Gastrointestinal disorder, Proctalgia |            |                                                      |                                 | Gastrointestinal ulcer a                                                |
-| Hepatobiliary disorders                         |                                                                                           |                                                                                                                                                             |            |                                                      |                                 | Gallbladder perforation a,b                                             |
-| Skin and subcutaneous tissue disorders          | Wound healing complications b,d, Exfoliative dermatitis, Dry skin, Skin discolouration    | Palmar-plantar erythro- dysaesthesia syndrome                                                                                                               |            |                                                      |                                 |                                                                         |
-| Musculoskeletal and connective tissue disorders | Arthralgia, Myalgia                                                                       | Fistula b,d , Muscular weakness, Back pain                                                                                                                  |            |                                                      |                                 | Osteonecrosis of the jaw a,b Non-mandibular osteonecrosis a,f           |
-| Renal and urinary disorders                     | Proteinuria b,d                                                                           |                                                                                                                                                             |            |                                                      |                                 |                                                                         |
-| Reproductive system and breast disorders        | Ovarian failure b,c,d                                                                     | Pelvic pain                                                                                                                                                 |            |                                                      |                                 |                                                                         |
-| Congenital, familial, and genetic disorder      |                                                                                           |                                                                                                                                                             |            |                                                      |                                 | Foetal abnormalities a,b                                                |
-| General disorders and                           | Asthenia, Fatigue, Pyrexia,                                                               | Lethargy                                                                                                                                                    |            |                                                      |                                 |                                                                         |
+| System organ class                              | Very common                                                                               | Common                                                                                                                                                      | Uncommon   | Rare                                                 | Very rare                       | Frequency not known                                                                                                      |
+|-------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------------------------------------------------|---------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| Immune system disorders                         |                                                                                           | Hypersensitivity, infusion reactions a,b,d                                                                                                                  |            | Anaphylactic shock                                   |                                 |                                                                                                                          |
+| Metabolism and nutrition disorders              | Anorexia, Hypomagnesaemia, Hyponatraemia                                                  | Dehydration                                                                                                                                                 |            |                                                      |                                 |                                                                                                                          |
+| Nervous system disorders                        | Peripheral sensory neuropathy b , Dysarthria, Headache, Dysguesia                         | Cerebrovascular accident, Syncope, Somnolence                                                                                                               |            | Posterior reversible encephalo- pathy syndrome a,b,d | Hypertensive encephalo- pathy a |                                                                                                                          |
+| Eye disorders                                   | Eye disorder, Lacrimation increased                                                       |                                                                                                                                                             |            |                                                      |                                 |                                                                                                                          |
+| Cardiac disorders                               |                                                                                           | Congestive heart failure b,d , Supraventricular tachycardia                                                                                                 |            |                                                      |                                 |                                                                                                                          |
+| Vascular disorders                              | Hypertension b,d , Thrombo- embolism (venous) b,d                                         | Thrombo- embolism (arterial) b,d , Haemorrhage b,d , Deep vein thrombosis                                                                                   |            |                                                      |                                 | Renal thrombotic microangiopathy a,b , Hyaline occlusive glomerular microangiopathy a , Aneurysms and artery dissections |
+| Respiratory, thoracic and mediastinal disorders | Dyspnoea, Rhinitis, Epistaxis, Cough                                                      | Pulmonary haemorrhage/ Haemoptysis b,d , Pulmonary embolism, Hypoxia, Dysphonia a                                                                           |            |                                                      |                                 | Pulmonary hypertension a , Nasal septum perforation a                                                                    |
+| Gastrointestinal disorders                      | Rectal haemorrhage, Stomatitis, Constipation, Diarrhoea, Nausea, Vomiting, Abdominal pain | Gastrointestinal perforation b,d, Intestinal perforation, Ileus, Intestinal obstruction, Recto-vaginal fistulae d,e , Gastrointestinal disorder, Proctalgia |            |                                                      |                                 | Gastrointestinal ulcer a                                                                                                 |
+| Hepatobiliary disorders                         |                                                                                           |                                                                                                                                                             |            |                                                      |                                 | Gallbladder perforation a,b                                                                                              |
+| Skin and subcutaneous tissue disorders          | Wound healing complications b,d, Exfoliative dermatitis, Dry skin, Skin discolouration    | Palmar-plantar erythro- dysaesthesia syndrome                                                                                                               |            |                                                      |                                 |                                                                                                                          |
+| Musculoskeletal and connective tissue disorders | Arthralgia, Myalgia                                                                       | Fistula b,d , Muscular weakness, Back pain                                                                                                                  |            |                                                      |                                 | Osteonecrosis of the jaw a,b Non-mandibular osteonecrosis a,f                                                            |
+| Renal and urinary disorders                     | Proteinuria b,d                                                                           |                                                                                                                                                             |            |                                                      |                                 |                                                                                                                          |
+| Reproductive system and breast disorders        | Ovarian failure b,c,d                                                                     | Pelvic pain                                                                                                                                                 |            |                                                      |                                 |                                                                                                                          |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class             | Very common                | Common   | Uncommon   | Rare   | Very rare   | Frequency not known   |
-|--------------------------------|----------------------------|----------|------------|--------|-------------|-----------------------|
-| administration site conditions | Pain, Mucosal inflammation |          |            |        |             |                       |
-| Investigations                 | Weight decreased           |          |            |        |             |                       |
+| System organ class                                   | Very common                                            | Common   | Uncommon   | Rare   | Very rare   | Frequency not known      |
+|------------------------------------------------------|--------------------------------------------------------|----------|------------|--------|-------------|--------------------------|
+| Congenital, familial, and genetic disorder           |                                                        |          |            |        |             | Foetal abnormalities a,b |
+| General disorders and administration site conditions | Asthenia, Fatigue, Pyrexia, Pain, Mucosal inflammation | Lethargy |            |        |             |                          |
+| Investigations                                       | Weight decreased                                       |          |            |        |             |                          |
 
 When events were noted as both all grade and grade 3-5 adverse drug reactions in clinical trials, the highest frequency observed in patients has been reported. Data are unadjusted for the differential time on treatment.
 
@@ -423,7 +420,9 @@ a For further information please refer to Table 3 'Adverse reactions reported in
 
 b  Terms represent a group of events that describe a medical concept rather than a single condition or MedDRA (Medical Dictionary for Regulatory Activities) preferred term. This group of medical terms may involve the same underlying pathophysiology (e.g. arterial thromboembolic reactions include cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic reactions).
 
-c Based on a substudy from NSABP C-08 with 295 patients d For additional information refer below within section \"Further information on selected serious adverse reactions.\"
+c Based on a substudy from NSABP C-08 with 295 patients
+
+d For additional information refer below within section \"Further information on selected serious adverse reactions.\"
 
 e Recto-vaginal fistulae are the most common fistulae in the GI-vaginal fistula category.
 
@@ -431,20 +430,21 @@ f Observed in paediatric population only.
 
 Table 2: Severe adverse reactions by frequency
 
-| System organ class                   | Very common                                                         | Common                                                                                               | Uncommon   | Rare               | Very rare   | Frequency not known                                                                    |
-|--------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|------------|--------------------|-------------|----------------------------------------------------------------------------------------|
-| Infections and infestations          |                                                                     | Sepsis, Cellulitis, Abscess a,b , Infection, Urinary tract infection                                 |            |                    |             | Necrotising fasciitis c                                                                |
-| Blood and lymphatic system disorders | Febrile neutropenia, Leucopenia, Neutropenia a , Thrombo- cytopenia | Anaemia, Lymphopenia                                                                                 |            |                    |             |                                                                                        |
-| Immune system disorders              |                                                                     | Hypersensitivity, infusion reactions a,b,c                                                           |            | Anaphylactic shock |             |                                                                                        |
-| Metabolism and nutrition disorders   |                                                                     | Dehydration, Hyponatraemia                                                                           |            |                    |             |                                                                                        |
-| Nervous system disorders             | Peripheral sensory neuropathy a                                     | Cerebrovascular accident, Syncope, Somnolence, Headache                                              |            |                    |             | Posterior reversible encephalo- pathy syndrome a,b,c , Hypertensive encephalo- pathy c |
-| Cardiac disorders                    |                                                                     | Congestive heart failure a,b , Supraventricular tachycardia                                          |            |                    |             |                                                                                        |
-| Vascular disorders                   | Hypertension a,b                                                    | Thromboembolism arterial a,b , Haemorrhage a,b , Thromboembolism (venous) a,b , Deep vein thrombosis |            |                    |             | Renal thrombotic microangiopathy b,c , Aneurysms and artery dissections                |
+| System organ class                   | Very common                                                         | Common                                                                          | Uncommon   | Rare               | Very rare   | Frequency not known                                                                    |
+|--------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------------------|------------|--------------------|-------------|----------------------------------------------------------------------------------------|
+| Infections and infestations          |                                                                     | Sepsis, Cellulitis, Abscess a,b , Infection, Urinary tract infection            |            |                    |             | Necrotising fasciitis c                                                                |
+| Blood and lymphatic system disorders | Febrile neutropenia, Leucopenia, Neutropenia a , Thrombo- cytopenia | Anaemia, Lymphopenia                                                            |            |                    |             |                                                                                        |
+| Immune system disorders              |                                                                     | Hypersensitivity, infusion reactions a,b,c                                      |            | Anaphylactic shock |             |                                                                                        |
+| Metabolism and nutrition disorders   |                                                                     | Dehydration, Hyponatraemia                                                      |            |                    |             |                                                                                        |
+| Nervous system disorders             | Peripheral sensory neuropathy a                                     | Cerebrovascular accident, Syncope, Somnolence, Headache                         |            |                    |             | Posterior reversible encephalo- pathy syndrome a,b,c , Hypertensive encephalo- pathy c |
+| Cardiac disorders                    |                                                                     | Congestive heart failure a,b , Supraventricular tachycardia                     |            |                    |             |                                                                                        |
+| Vascular disorders                   | Hypertension a,b                                                    | Thromboembolism arterial a,b , Haemorrhage a,b , Thromboembolism (venous) a,b , |            |                    |             | Renal thrombotic microangiopathy b,c , Hyaline occlusive glomerular                    |
 
 <div style=\"page-break-after: always\"></div>
 
 | System organ class                                   | Very common                                 | Common                                                                                                                                | Uncommon   | Rare   | Very rare   | Frequency not known                                                              |
 |------------------------------------------------------|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|------------|--------|-------------|----------------------------------------------------------------------------------|
+|                                                      |                                             | Deep vein thrombosis                                                                                                                  |            |        |             | microangiopathy c , Aneurysms and artery dissections                             |
 | Respiratory, thoracic and mediastinal disorders      |                                             | Pulmonary haemorrhage/ Haemoptysis a,b , Pulmonary embolism, Epistaxis, Dyspnoea, Hypoxia                                             |            |        |             | Pulmonary hypertension c , Nasal septum perforation c                            |
 | Gastrointestinal disorders                           | Diarrhoea, Nausea, Vomiting, Abdominal pain | Intestinal perforation, Ileus, Intestinal obstruction, Recto-vaginal fistulae c,d , Gastrointestinal disorder, Stomatitis, Proctalgia |            |        |             | Gastrointestinal perforation a,b , Gastrointestinal ulcer c , Rectal haemorrhage |
 | Hepatobiliary disorders                              |                                             |                                                                                                                                       |            |        |             | Gallbladder perforation b,c                                                      |
@@ -455,17 +455,16 @@ Table 2: Severe adverse reactions by frequency
 | Congenital, familial, and genetic disorder           |                                             |                                                                                                                                       |            |        |             | Foetal abnormalities a,c                                                         |
 | General disorders and administration site conditions | Asthenia, Fatigue,                          | Pain, Lethargy, Mucosal inflammation                                                                                                  |            |        |             |                                                                                  |
 
+<div style=\"page-break-after: always\"></div>
+
 Table 2 provides the frequency of severe adverse reactions. Severe reactions are defined as adverse events with at least a 2% difference compared to the control arm in clinical studies for NCI-CTCAE Grade 3-5 reactions. Table 2 also includes adverse reactions which are considered by the MAH to be clinically significant or severe. These clinically significant adverse reactions were reported in clinical trials but the grade 3-5 reactions did not meet the threshold of at least a 2% difference compared to the control arm. Table 2 also includes clinically significant adverse reactions that were observed only in the postmarketing setting, therefore, the frequency and NCI-CTCAE grade is not known. These clinically significant reactions have therefore been included in Table 2 within the column entitled 'Frequency Not Known.'
 
-a  Terms represent a group of events that describe a medical concept rather than a single condition or MedDRA (Medical Dictionary for Regulatory Activities) preferred term. This group of medical terms may involve the same underlying pathophysiology (e.g. arterial thromboembolic reactions include cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic reactions).
-
-b For additional information refer below within section \"Further information on selected serious adverse reactions\"
+- a  Terms represent a group of events that describe a medical concept rather than a single condition or MedDRA (Medical Dictionary for Regulatory Activities) preferred term. This group of medical terms may involve the same underlying pathophysiology (e.g. arterial thromboembolic reactions include cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic reactions).
+- b For additional information refer below within section \"Further information on selected serious adverse reactions\"
 
 c For further information please refer to Table 3 'Adverse reactions reported in post-marketing setting.'
 
-d Recto-vaginal fistulae are the most common fistulae in the GI-vaginal fistula category.
-
-<div style=\"page-break-after: always\"></div>
+- d Recto-vaginal fistulae are the most common fistulae in the GI-vaginal fistula category.
 
 ## Description of selected serious adverse reactions
 
@@ -491,6 +490,8 @@ Avastin use has been associated with serious cases of fistulae including reactio
 
 From a clinical trial in patients with persistent, recurrent, or metastatic cervical cancer (GOG-240), 1.8% of Avastin-treated patients and 1.4% of control patients were reported to have had nongastrointestinal vaginal, vesical, or female genital tract fistulae.
 
+<div style=\"page-break-after: always\"></div>
+
 Uncommon ( ≥ 0.1% to &lt; 1%) reports of fistulae that involve areas of the body other than the gastrointestinal tract (e.g. bronchopleural and biliary fistulae) were observed across various indications. Fistulae have also been reported in post-marketing experience.
 
 Reactions were reported at various time points during treatment ranging from one week to greater than 1 year from initiation of Avastin, with most reactions occurring within the first 6 months of therapy.
@@ -499,11 +500,7 @@ Reactions were reported at various time points during treatment ranging from one
 
 As Avastin may adversely impact wound healing, patients who had major surgery within the last 28 days were excluded from participation in phase III clinical trials.
 
-In clinical trials of metastatic carcinoma of the colon or rectum, there was no increased risk of postoperative bleeding or wound healing complications observed in patients who underwent major surgery 28-60 days prior to starting Avastin. An increased incidence of post-operative bleeding or wound
-
-<div style=\"page-break-after: always\"></div>
-
-healing complication occurring within 60 days of major surgery was observed if the patient was being treated with Avastin at the time of surgery. The incidence varied between 10% (4/40) and 20% (3/15).
+In clinical trials of metastatic carcinoma of the colon or rectum, there was no increased risk of postoperative bleeding or wound healing complications observed in patients who underwent major surgery 28-60 days prior to starting Avastin. An increased incidence of post-operative bleeding or wound healing complication occurring within 60 days of major surgery was observed if the patient was being treated with Avastin at the time of surgery. The incidence varied between 10% (4/40) and 20% (3/15).
 
 Serious wound healing complications, including anastomotic complications, have been reported, some of which had a fatal outcome.
 
@@ -527,6 +524,8 @@ The risk of Avastin-associated hypertension did not correlate with the patients'
 
 There have been rare reports of Avastin-treated patients developing signs and symptoms that are consistent with PRES, a rare neurological disorder. Presentation may include seizures, headache, altered mental status, visual disturbance, or cortical blindness, with or without associated hypertension. The clinical presentation of PRES is often nonspecific, and therefore the diagnosis of PRES requires confirmation by brain imaging, preferably MRI.
 
+<div style=\"page-break-after: always\"></div>
+
 In patients developing PRES, early recognition of symptoms with prompt treatment of specific symptoms including control of hypertension (if associated with severe uncontrolled hypertension) is recommended in addition to discontinuation of bevacizumab therapy. Symptoms usually resolve or improve within days after treatment discontinuation, although some patients have experienced some neurologic sequelae. The safety of reinitiating Avastin therapy in patients previously experiencing PRES is not known.
 
 Across clinical trials, 8 cases of PRES have been reported. Two of the eight cases did not have radiological confirmation via MRI.
@@ -534,8 +533,6 @@ Across clinical trials, 8 cases of PRES have been reported. Two of the eight cas
 ## Proteinuria (see section 4.4)
 
 In clinical trials, proteinuria has been reported within the range of 0.7% to 54.7% of patients receiving Avastin.
-
-<div style=\"page-break-after: always\"></div>
 
 Proteinuria ranged in severity from clinically asymptomatic, transient, trace proteinuria to nephrotic syndrome, with the great majority as Grade 1 proteinuria (NCI-CTCAE v.3). Grade 3 proteinuria was reported in up to 10.9% of treated patients. Grade 4 proteinuria (nephrotic syndrome) was seen in up to 1.4% of treated patients. Testing for proteinuria is recommended prior to start of Avastin therapy. In most clinical trials urine protein levels of ≥ 2g/24 hrs led to the holding of Avastin until recovery to &lt; 2g/24 hrs.
 
@@ -557,13 +554,11 @@ Gastrointestinal haemorrhages, including rectal bleeding and melaena have been r
 
 Tumour-associated haemorrhage was also seen rarely in other tumour types and locations, including cases of central nervous system (CNS) bleeding in patients with CNS metastases (see section 4.4).
 
-The incidence of CNS bleeding in patients with untreated CNS metastases receiving bevacizumab has not been prospectively evaluated in randomised clinical trials. In an exploratory retrospective analysis of data from 13 completed randomised trials in patients with various tumour types, 3 patients out of 91 (3.3%) with brain metastases experienced CNS bleeding (all Grade 4) when treated with bevacizumab, compared to 1 case (Grade 5) out of 96 patients (1%) that were not exposed to bevacizumab. In two subsequent studies in patients with treated brain metastases (which included around 800 patients), one case of Grade 2 CNS haemorrhage was reported in 83 subjects treated with bevacizumab (1.2%) at the time of interim safety analysis (NCI-CTCAE v.3).
-
-Across all clinical trials, mucocutaneous haemorrhage has been seen in up to 50% of Avastin-treated patients. These were most commonly NCI-CTCAE v.3 Grade 1 epistaxis that lasted less than 5 minutes, resolved without medical intervention and did not require any changes in the Avastin
-
 <div style=\"page-break-after: always\"></div>
 
-treatment regimen. Clinical safety data suggest that the incidence of minor mucocutaneous haemorrhage (e.g. epistaxis) may be dose-dependent.
+The incidence of CNS bleeding in patients with untreated CNS metastases receiving bevacizumab has not been prospectively evaluated in randomised clinical trials. In an exploratory retrospective analysis of data from 13 completed randomised trials in patients with various tumour types, 3 patients out of 91 (3.3%) with brain metastases experienced CNS bleeding (all Grade 4) when treated with bevacizumab, compared to 1 case (Grade 5) out of 96 patients (1%) that were not exposed to bevacizumab. In two subsequent studies in patients with treated brain metastases (which included around 800 patients), one case of Grade 2 CNS haemorrhage was reported in 83 subjects treated with bevacizumab (1.2%) at the time of interim safety analysis (NCI-CTCAE v.3).
+
+Across all clinical trials, mucocutaneous haemorrhage has been seen in up to 50% of Avastin-treated patients. These were most commonly NCI-CTCAE v.3 Grade 1 epistaxis that lasted less than 5 minutes, resolved without medical intervention and did not require any changes in the Avastin treatment regimen. Clinical safety data suggest that the incidence of minor mucocutaneous haemorrhage (e.g. epistaxis) may be dose-dependent.
 
 There have also been less common reactions of minor mucocutaneous haemorrhage in other locations, such as gingival bleeding or vaginal bleeding.
 
@@ -583,15 +578,13 @@ Grade 3-5 (NCI-CTCAE v.3) venous thromboembolic reactions have been reported in 
 
 From a clinical trial in patients with persistent, recurrent, or metastatic cervical cancer (study GOG0240), grade 3-5 venous thromboembolic events have been reported in up to 15.6% of patients treated with Avastin in combination with paclitaxel and cisplatin compared with up to 7.0% of patients treated with paclitaxel and cisplatin.
 
+<div style=\"page-break-after: always\"></div>
+
 Patients who have experienced a venous thromboembolic reaction may be at higher risk for a recurrence if they receive Avastin in combination with chemotherapy versus chemotherapy alone.
 
 ## Congestive heart failure (CHF)
 
-In clinical trials with Avastin, congestive heart failure (CHF) was observed in all cancer indications studied to date, but occurred predominantly in patients with metastatic breast cancer. In four phase III trials (AVF2119g, E2100, BO17708 and AVF3694g) in patients with metastatic breast cancer CHF Grade 3 (NCI-CTCAE v.3) or higher was reported in up to 3.5% of patients treated with Avastin in combination with chemotherapy compared with up to 0.9% in the control arms. For patients in study AVF3694g who received anthracyclines concomitantly with bevacizumab, the incidences of Grade 3 or higher CHF for the respective bevacizumab and control arms were similar to those in the other studies in metastatic breast cancer: 2.9% in the anthracycline + bevacizumab arm and 0% in the
-
-<div style=\"page-break-after: always\"></div>
-
-anthracycline + placebo arm. In addition, in study AVF3694g the incidences of all Grade CHF were similar between the anthracycline + Avastin (6.2%) and the anthracycline + placebo arms (6.0%).
+In clinical trials with Avastin, congestive heart failure (CHF) was observed in all cancer indications studied to date, but occurred predominantly in patients with metastatic breast cancer. In four phase III trials (AVF2119g, E2100, BO17708 and AVF3694g) in patients with metastatic breast cancer CHF Grade 3 (NCI-CTCAE v.3) or higher was reported in up to 3.5% of patients treated with Avastin in combination with chemotherapy compared with up to 0.9% in the control arms. For patients in study AVF3694g who received anthracyclines concomitantly with bevacizumab, the incidences of Grade 3 or higher CHF for the respective bevacizumab and control arms were similar to those in the other studies in metastatic breast cancer: 2.9% in the anthracycline + bevacizumab arm and 0% in the anthracycline + placebo arm. In addition, in study AVF3694g the incidences of all Grade CHF were similar between the anthracycline + Avastin (6.2%) and the anthracycline + placebo arms (6.0%).
 
 Most patients who developed CHF during mBC trials showed improved symptoms and/or left ventricular function following appropriate medical therapy.
 
@@ -613,17 +606,15 @@ From a clinical trial in patients with persistent, recurrent, or metastatic cerv
 
 In NSABP C-08, a phase III trial of Avastin in adjuvant treatment of patients with colon cancer, the incidence of new cases of ovarian failure, defined as amenorrhoea lasting 3 or more months, FSH level ≥ 30 mIU/ml and a negative serum β -HCG pregnancy test, has been evaluated in 295 premenopausal women. New cases of ovarian failure were reported in 2.6% patients in the mFOLFOX-6 group compared to 39% in the mFOLFOX-6 + bevacizumab group. After discontinuation of bevacizumab treatment, ovarian function recovered in 86.2% of these evaluable women. Long term effects of the treatment with bevacizumab on fertility are unknown.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Laboratory abnormalities
 
 Decreased neutrophil count, decreased white blood cell count and presence of urine protein may be associated with Avastin treatment.
 
 Across clinical trials, the following Grade 3 and 4 (NCI-CTCAE v.3) laboratory abnormalities occurred in patients treated with Avastin with at least a 2% difference compared to the corresponding control groups: hyperglycaemia, decreased haemoglobin, hypokalaemia, hyponatraemia, decreased white blood cell count, increased international normalised ratio (INR).
 
-Clinical trials have shown that transient increases in serum creatinine (ranging between 1.5-1.9 times baseline level), both with and without proteinuria, are associated with the use of Avastin. The
-
-<div style=\"page-break-after: always\"></div>
-
-observed increase in serum creatinine was not associated with a higher incidence of clinical manifestations of renal impairment in patients treated with Avastin.
+Clinical trials have shown that transient increases in serum creatinine (ranging between 1.5-1.9 times baseline level), both with and without proteinuria, are associated with the use of Avastin. The observed increase in serum creatinine was not associated with a higher incidence of clinical manifestations of renal impairment in patients treated with Avastin.
 
 ## Other special populations
 
@@ -643,31 +634,30 @@ Avastin is not approved for use in patients under the age of 18 years. In publis
 
 ## Post-marketing experience
 
-## Table 3 Adverse reactions reported in post-marketing setting
-
-| System organ class (SOC)    | Reactions (frequency*)                                                                                                                                                                                                                                                                                                                                                                                                     |
-|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations | Necrotising fasciitis, usually secondary to wound healing complications, gastrointestinal perforation or fistula formation (rare) (see also section 4.4)                                                                                                                                                                                                                                                                   |
-| Immune system disorders     | Hypersensitivity reactions and infusion reactions (common); with the following possible co-manifestations: dyspnoea/difficulty breathing, flushing/redness/rash, hypotension or hypertension, oxygen desaturation, chest pain, rigors and nausea/vomiting (see also section 4.4 and Hypersensitivity reactions (including anaphylactic shock)/infusion reactions above). Anaphylactic shock (rare) (see also section 4.4). |
-
 <div style=\"page-break-after: always\"></div>
 
-| System organ class (SOC)                        | Reactions (frequency*)                                                                                                                                                                                                                                                                                                        |
-|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Nervous system disorders                        | Hypertensive encephalopathy (very rare) (see also section 4.4 and Hypertension in section 4.8) Posterior Reversible Encephalopathy Syndrome (PRES), (rare) (see also section 4.4)                                                                                                                                             |
-| Vascular disorders                              | Renal thrombotic microangiopathy, which may be clinically manifested as proteinuria (not known) with or without concomitant sunitinib use. For further information on proteinuria see section 4.4 and Proteinuria in section 4.8.                                                                                             |
-| Respiratory, thoracic and mediastinal disorders | Nasal septum perforation (not known) Pulmonary hypertension (not known) Dysphonia (common)                                                                                                                                                                                                                                    |
-| Gastrointestinal disorders                      | Gastrointestinal ulcer (not known)                                                                                                                                                                                                                                                                                            |
-| Hepatobiliary disorders                         | Gall bladder perforation (not known)                                                                                                                                                                                                                                                                                          |
-| Musculoskeletal and connective tissue disorders | Cases of Osteonecrosis of the Jaw (ONJ) have been reported in patients treated with Avastin, most of which occurred in patients who had identified risk factors for ONJ, in particular exposure to intravenous bisphosphonates and/or a history of dental disease requiring invasive dental procedures (see also section 4.4) |
-| Musculoskeletal and connective tissue disorders | Cases of non-mandibular osteonecrosis have been observed in Avastin treated paediatric patients (see section 4.8, Paediatric population).                                                                                                                                                                                     |
-| Congenital, familial, and genetic disorder      | Cases of foetal abnormalities in women treated with bevacizumab alone or in combination with known embryotoxic chemotherapeutics have been observed (see section 4.6)                                                                                                                                                         |
+Table 3 Adverse reactions reported in post-marketing setting
 
-* if specified, the frequency has been derived from clinical trial data
+| System organ class (SOC)                        | Reactions (frequency*)                                                                                                                                                                                                                                                                                                                                                                                                     |
+|-------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                     | Necrotising fasciitis, usually secondary to wound healing complications, gastrointestinal perforation or fistula formation (rare) (see also section 4.4)                                                                                                                                                                                                                                                                   |
+| Immune system disorders                         | Hypersensitivity reactions and infusion reactions (common); with the following possible co-manifestations: dyspnoea/difficulty breathing, flushing/redness/rash, hypotension or hypertension, oxygen desaturation, chest pain, rigors and nausea/vomiting (see also section 4.4 and Hypersensitivity reactions (including anaphylactic shock)/infusion reactions above). Anaphylactic shock (rare) (see also section 4.4). |
+| Nervous system disorders                        | Hypertensive encephalopathy (very rare) (see also section 4.4 and Hypertension in section 4.8) Posterior Reversible Encephalopathy Syndrome (PRES), (rare) (see also section 4.4)                                                                                                                                                                                                                                          |
+| Vascular disorders                              | Renal thrombotic microangiopathy with or without concomitant sunitinib use, and hyaline occlusive glomerular microangiopathy which may be clinically manifested as proteinuria (not known). For further information on proteinuria see section 4.4 and Proteinuria in section 4.8.                                                                                                                                         |
+| Respiratory, thoracic and mediastinal disorders | Nasal septum perforation (not known) Pulmonary hypertension (not known) Dysphonia (common)                                                                                                                                                                                                                                                                                                                                 |
+| Gastrointestinal disorders                      | Gastrointestinal ulcer (not known)                                                                                                                                                                                                                                                                                                                                                                                         |
+| Hepatobiliary disorders                         | Gall bladder perforation (not known)                                                                                                                                                                                                                                                                                                                                                                                       |
+| Musculoskeletal and connective tissue disorders | Cases of Osteonecrosis of the Jaw (ONJ) have been reported in patients treated with Avastin, most of which occurred in patients who had identified risk factors for ONJ, in particular exposure to intravenous bisphosphonates and/or a history of dental disease requiring invasive dental procedures (see also section 4.4)                                                                                              |
+| Musculoskeletal and connective tissue disorders | Cases of non-mandibular osteonecrosis have been observed in Avastin treated paediatric patients (see section 4.8, Paediatric population).                                                                                                                                                                                                                                                                                  |
+| Congenital, familial, and genetic disorder      | Cases of foetal abnormalities in women treated with bevacizumab alone or in combination with known embryotoxic chemotherapeutics have been observed (see section 4.6)                                                                                                                                                                                                                                                      |
 
 ## Reporting of suspected adverse reactions
 
-Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare
+
+<div style=\"page-break-after: always\"></div>
+
+professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
@@ -678,8 +668,6 @@ The highest dose tested in humans (20 mg/kg of body weight, intravenous every 2 
 ## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: antineoplastic and immunomodulating agents, antineoplastic agents, monoclonal antibodies and antibody drug conjugates, ATC code: L01F G01
-
-<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -702,16 +690,15 @@ The safety and efficacy of the recommended dose (5 mg/kg of body weight every tw
 Three additional studies with bevacizumab have been conducted in mCRC patients: first-line (NO16966), second-line with no previous bevacizumab treatment (E3200), and second-line with previous bevacizumab treatment following disease progression in first-line (ML18147). In these studies, bevacizumab was administered at the following dosing regimens in combination with FOLFOX-4 (5-FU/LV/oxaliplatin), XELOX (capecitabine/oxaliplatin), and fluoropyrimidine/irinotecan and fluoropyrimidine/oxaliplatin:
 
 -  NO16966: Avastin 7.5 mg/kg of body weight every 3 weeks in combination with oral capecitabine and intravenous oxaliplatin (XELOX) or Avastin 5 mg/kg every 2 weeks in combination with leucovorin plus 5-fluorouracil bolus, followed by 5-fluorouracil infusion, with intravenous oxaliplatin (FOLFOX-4).
+
+<div style=\"page-break-after: always\"></div>
+
 -  E3200: Avastin 10 mg/kg of body weight every 2 weeks in combination with leucovorin and 5-fluorouracil bolus, followed by 5-fluorouracil infusion, with intravenous oxaliplatin (FOLFOX-4) in bevacizumab-naïve patients.
 -  ML18147: Avastin 5.0 mg/kg of body weight every 2 weeks or Avastin 7.5 mg/kg of body weight every 3 weeks in combination with fluoropyrimidine/irinotecan or fluoropyrimidine/oxaliplatin in patients with disease progression following first-line treatment with bevacizumab. Use of irinotecan- or oxaliplatin-containing regimen was switched depending on first-line usage of either oxaliplatin or irinotecan.
 
 ## AVF2107g
 
-This was a phase III randomised, double-blind, active-controlled clinical trial evaluating Avastin in combination with IFL as first-line treatment for metastatic carcinoma of the colon or rectum. Eight hundred and thirteen patients were randomised to receive IFL + placebo (Arm 1) or
-
-<div style=\"page-break-after: always\"></div>
-
-IFL + Avastin (5 mg/kg every 2 weeks, Arm 2). A third group of 110 patients received bolus 5-FU/FA + Avastin (Arm 3). Enrolment in Arm 3 was discontinued, as pre-specified, once safety of Avastin with the IFL regimen was established and considered acceptable. All treatments were continued until disease progression. The overall mean age was 59.4 years; 56.6% of patients had an ECOG performance status of 0, 43% had a value of 1 and 0.4% had a value of 2. 15.5% had received prior radiotherapy and 28.4% prior chemotherapy.
+This was a phase III randomised, double-blind, active-controlled clinical trial evaluating Avastin in combination with IFL as first-line treatment for metastatic carcinoma of the colon or rectum. Eight hundred and thirteen patients were randomised to receive IFL + placebo (Arm 1) or IFL + Avastin (5 mg/kg every 2 weeks, Arm 2). A third group of 110 patients received bolus 5-FU/FA + Avastin (Arm 3). Enrolment in Arm 3 was discontinued, as pre-specified, once safety of Avastin with the IFL regimen was established and considered acceptable. All treatments were continued until disease progression. The overall mean age was 59.4 years; 56.6% of patients had an ECOG performance status of 0, 43% had a value of 1 and 0.4% had a value of 2. 15.5% had received prior radiotherapy and 28.4% prior chemotherapy.
 
 The primary efficacy variable of the trial was overall survival. The addition of Avastin to IFL resulted in statistically significant increases in overall survival, progression-free survival and overall response rate (see Table 4). The clinical benefit, as measured by overall survival, was seen in all pre-specified patient subgroups, including those defined by age, sex, performance status, location of primary tumour, number of organs involved and duration of metastatic disease.
 
@@ -734,17 +721,13 @@ Table 4 Efficacy results for trial AVF2107g
 | Rate (%)                  | 34.8                      | 44.8                      |
 |                           | (p-value = 0.0036)        | (p-value = 0.0036)        |
 
-a 5 mg/kg every 2 weeks.
-
-b Relative to control arm.
+<div style=\"page-break-after: always\"></div>
 
 Among the 110 patients randomised to Arm 3 (5-FU/FA + Avastin) prior to discontinuation of this arm, the median overall survival was 18.3 months and the median progression free survival was 8.8 months.
 
 ## AVF2192g
 
 This was a phase II randomised, double-blind, active-controlled clinical trial evaluating the efficacy and safety of Avastin in combination with 5-FU/FA as first-line treatment for metastatic colorectal cancer in patients who were not optimal candidates for first-line irinotecan treatment. One hundred and five patients were randomised to 5-FU/FA + placebo arm and 104 patients to 5-FU/FA + Avastin (5 mg/kg every 2 weeks) arm. All treatments were continued until disease progression. The addition of Avastin 5 mg/kg every two weeks to 5-FU/FA resulted in higher objective response rates, significantly longer progression-free survival, and a trend in longer survival as compared to 5-FU/FA chemotherapy alone.
-
-<div style=\"page-break-after: always\"></div>
 
 ## AVF0780g
 
@@ -775,42 +758,37 @@ Table 5 Efficacy results for trials AVF0780g and AVF2192g
 | Median time (months)      | NR         | 9.3                 | 5.0                 | 6.8               | 9.2               |
 | 25-75 percentile (months) | 5.5-NR     | 6.1-NR              | 3.8-7.8             | 5.59-9.17         | 5.88-13.01        |
 
-a  5 mg/kg every 2 weeks.
+<div style=\"page-break-after: always\"></div>
 
-b  10 mg/kg every 2 weeks.
-
-c Relative to control arm.
+| AVF0780g   | AVF0780g            | AVF0780g            | AVF2192g          | AVF2192g          |
+|------------|---------------------|---------------------|-------------------|-------------------|
+| 5-FU/FA    | 5-FU/FA + Avastin a | 5-FU/FA + Avastin b | 5-FU/FA + placebo | 5-FU/FA + Avastin |
 
 NR = not reached.
 
 ## NO16966
 
-This was a phase III randomised, double-blind (for bevacizumab), clinical trial investigating Avastin 7.5 mg/kg in combination with oral capecitabine and intravenous oxaliplatin (XELOX), administered on a 3-weekly schedule; or Avastin 5 mg/kg in combination with leucovorin with 5-fluorouracil bolus, followed by 5-fluorouracil infusional, with intravenous oxaliplatin (FOLFOX-4), administered on a 2weekly schedule. The trial contained two parts: an initial unblinded 2-arm part (Part I) in which patients were randomised to two different treatment groups (XELOX and FOLFOX-4) and a subsequent 2 × 2 factorial 4-arm part (Part II) in which patients were randomised to four treatment
-
-<div style=\"page-break-after: always\"></div>
-
-groups (XELOX + placebo, FOLFOX-4 + placebo, XELOX + Avastin, FOLFOX-4 + Avastin). In Part II, treatment assignment was double-blind with respect to Avastin.
+This was a phase III randomised, double-blind (for bevacizumab), clinical trial investigating Avastin 7.5 mg/kg in combination with oral capecitabine and intravenous oxaliplatin (XELOX), administered on a 3-weekly schedule; or Avastin 5 mg/kg in combination with leucovorin with 5-fluorouracil bolus, followed by 5-fluorouracil infusional, with intravenous oxaliplatin (FOLFOX-4), administered on a 2weekly schedule. The trial contained two parts: an initial unblinded 2-arm part (Part I) in which patients were randomised to two different treatment groups (XELOX and FOLFOX-4) and a subsequent 2 × 2 factorial 4-arm part (Part II) in which patients were randomised to four treatment groups (XELOX + placebo, FOLFOX-4 + placebo, XELOX + Avastin, FOLFOX-4 + Avastin). In Part II, treatment assignment was double-blind with respect to Avastin.
 
 Approximately 350 patients were randomised into each of the 4 trial arms in the Part II of the trial.
 
 Table 6 Treatment regimens in trial NO16966 (mCRC)
 
-|                                                                 | Treatment                                                       | Starting dose                                                              | Schedule                                                                                              |
-|-----------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| FOLFOX-4 or FOLFOX-4 + Avastin                                  | Oxaliplatin Leucovorin 5-Fluorouracil                           | 85 mg/m 2 IV 2 h 200 mg/m 2 IV 2 h 400 mg/m 2 IV bolus, 600 mg/m 2 IV 22 h | Oxaliplatin on day 1 Leucovorin on day 1 and 2 5-fluorouracil IV bolus/infusion, each on days 1 and 2 |
-| FOLFOX-4 or FOLFOX-4 + Avastin                                  | Placebo or Avastin                                              | 5 mg/kg IV 30-90 min                                                       | Day 1, prior to FOLFOX-4, every 2 weeks                                                               |
-| XELOX or XELOX + Avastin                                        | Oxaliplatin Capecitabine                                        | 130 mg/m 2 IV 2 h 1000 mg/m 2 oral bid                                     | Oxaliplatin on day 1 Capecitabine oral bid for 2 weeks (followed by 1 week off treatment)             |
-| XELOX or XELOX + Avastin                                        | Placebo or Avastin                                              | 7.5 mg/kg IV 30-90 min                                                     | Day 1, prior to XELOX, q 3 weeks                                                                      |
-| 5-Fluorouracil: IV bolus injection immediately after leucovorin | 5-Fluorouracil: IV bolus injection immediately after leucovorin | 5-Fluorouracil: IV bolus injection immediately after leucovorin            | 5-Fluorouracil: IV bolus injection immediately after leucovorin                                       |
+|                                | Treatment                             | Starting dose                                                              | Schedule                                                                                              |
+|--------------------------------|---------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| FOLFOX-4 or FOLFOX-4 + Avastin | Oxaliplatin Leucovorin 5-Fluorouracil | 85 mg/m 2 IV 2 h 200 mg/m 2 IV 2 h 400 mg/m 2 IV bolus, 600 mg/m 2 IV 22 h | Oxaliplatin on day 1 Leucovorin on day 1 and 2 5-fluorouracil IV bolus/infusion, each on days 1 and 2 |
+| FOLFOX-4 or FOLFOX-4 + Avastin | Placebo or Avastin                    | 5 mg/kg IV 30-90 min                                                       | Day 1, prior to FOLFOX-4, every 2 weeks                                                               |
+| XELOX or XELOX + Avastin       | Oxaliplatin Capecitabine              | 130 mg/m 2 IV 2 h 1000 mg/m 2 oral bid                                     | Oxaliplatin on day 1 Capecitabine oral bid for 2 weeks (followed by 1 week off treatment)             |
+| XELOX or XELOX + Avastin       | Placebo or Avastin                    | 7.5 mg/kg IV 30-90 min                                                     | Day 1, prior to XELOX, q 3 weeks                                                                      |
 
 The primary efficacy parameter of the trial was the duration of progression-free survival. In this trial, there were two primary objectives: to show that XELOX was non-inferior to FOLFOX-4 and to show that Avastin in combination with FOLFOX-4 or XELOX chemotherapy was superior to chemotherapy alone. Both co-primary objectives were met:
 
 -  Non-inferiority of the XELOX-containing arms compared with the FOLFOX-4-containing arms in the overall comparison was demonstrated in terms of progression-free survival and overall survival in the eligible per-protocol population.
 -  Superiority of the Avastin-containing arms versus the chemotherapy alone arms in the overall comparison was demonstrated in terms of progression-free survival in the ITT population (Table 7).
 
-Secondary PFS analyses, based on 'on-treatment'-based response assessments, confirmed the significantly superior clinical benefit for patients treated with Avastin (analyses shown in Table 7), consistent with the statistically significant benefit observed in the pooled analysis.
-
 <div style=\"page-break-after: always\"></div>
+
+Secondary PFS analyses, based on 'on-treatment'-based response assessments, confirmed the significantly superior clinical benefit for patients treated with Avastin (analyses shown in Table 7), consistent with the statistically significant benefit observed in the pooled analysis.
 
 Table 7 Key efficacy results for the superiority analysis (ITT population, trial NO16966)
 
@@ -826,15 +804,9 @@ Table 7 Key efficacy results for the superiority analysis (ITT population, trial
 | Median overall survival*                     | 19.9                                    | 21.2                                        | 0.0769    |
 | Hazard ratio (97.5% CI)                      | 0.89 (0.76-1.03)                        | 0.89 (0.76-1.03)                            |           |
 
-* Overall survival analysis at clinical cut-off 31 January 2007
+In the FOLFOX treatment subgroup, the median PFS was 8.6 months in placebo and 9.4 months in bevacizumab treated patients, HR = 0.89, 97.5% CI = [ 0.73 ; 1.08 ] ; p-value = 0.1871, the corresponding results in the XELOX treatment subgroup being 7.4 vs. 9.3 months, HR = 0.77, 97.5% CI = [ 0.63 ; 0.94 ] ; p-value = 0.0026.
 
-** Primary analysis at clinical cut-off 31 January 2006
-
-a Relative to control arm
-
-In the FOLFOX treatment subgroup, the median PFS was 8.6 months in placebo and 9.4 months in bevacizumab treated patients, HR = 0.89, 97.5% CI = [0.73; 1.08]; p-value = 0.1871, the corresponding results in the XELOX treatment subgroup being 7.4 vs. 9.3 months, HR = 0.77, 97.5% CI = [0.63; 0.94]; p-value = 0.0026.
-
-The median overall survival was 20.3 months in placebo and 21.2 months in bevacizumab treated patients in the FOLFOX treatment subgroup, HR = 0.94, 97.5% CI = [0.75; 1.16]; p-value = 0.4937, the corresponding results in the XELOX, treatment subgroup being 19.2 vs. 21.4 months, HR = 0.84, 97.5% CI = [0.68; 1.04]; p-value = 0.0698.
+The median overall survival was 20.3 months in placebo and 21.2 months in bevacizumab treated patients in the FOLFOX treatment subgroup, HR = 0.94, 97.5% CI = [ 0.75 ; 1.16 ] ; p-value = 0.4937, the corresponding results in the XELOX, treatment subgroup being 19.2 vs. 21.4 months, HR = 0.84, 97.5% CI = [ 0.68 ; 1.04 ] ; p-value = 0.0698.
 
 ## ECOG E3200
 
@@ -862,10 +834,6 @@ Table 8 Efficacy results for trial E3200
 | Objective response rate   |                          |                          |
 | Rate                      | 8.6%                     | 22.2%                    |
 |                           | (p-value < 0.0001)       | (p-value < 0.0001)       |
-
-a  10 mg/kg every 2 weeks
-
-b Relative to control arm
 
 No significant difference was observed in the duration of overall survival between patients who received Avastin monotherapy compared to patients treated with FOLFOX-4. Progression-free survival and objective response rate were inferior in the Avastin monotherapy arm compared to the FOLFOX-4 arm.
 
@@ -895,8 +863,6 @@ Table 9 Efficacy results for study ML18147 (ITT population)
 | Patients included in analysis          | 406                                                                            | 404                                                                                        |
 | Rate                                   | 3.9%                                                                           | 5.4%                                                                                       |
 |                                        | (p-value = 0.3113)                                                             | (p-value = 0.3113)                                                                         |
-
-a  5.0 mg/kg every 2 weeks or 7.5 mg/kg every 3 weeks
 
 Statistically significant improvements in progression-free survival were also observed. Objective response rate was low in both treatment arms and the difference was not significant.
 
@@ -986,10 +952,6 @@ Table 11 Efficacy results for study AVF3694g: - Capecitabine a  and Avastin/Plac
 | HR (95% CI)                                            | 0.88 (0.69; 1.13)                                      | 0.88 (0.69; 1.13)                                      | 0.88 (0.69; 1.13)                                      | 0.88 (0.69; 1.13)                                      |
 | p-value (exploratory)                                  | 0.33                                                   | 0.33                                                   | 0.33                                                   | 0.33                                                   |
 
-a 1 000 mg/m 2  oral twice daily for 14 days administered every 3 weeks
-
-b Stratified analysis included all progression and death events except those where non-protocol therapy (NPT) was initiated prior to documented progression; data from those patients were censored at the last tumour assessment prior to starting NPT.
-
 An unstratified analysis of PFS (investigator assessed) was performed that did not censor for nonprotocol therapy prior to disease progression. The results of these analyses were very similar to the primary PFS results.
 
 ## Non-small cell lung cancer (NSCLC)
@@ -1034,7 +996,7 @@ Patients were randomised to platinum-based chemotherapy, cisplatin 80 mg/m 2 int
 
 <div style=\"page-break-after: always\"></div>
 
-that 94% (277/296) of eligible patients went on to receive single agent bevacizumab at cycle 7. A high proportion of patients (approximately 62%) went on to receive a variety of non-protocol specified anticancer therapies, which may have impacted the analysis of overall survival.
+that 94% (277/296) of eligible patients went on to receive single agent bevacizumab at cycle 7 . A high proportion of patients (approximately 62%) went on to receive a variety of non-protocol specified anticancer therapies, which may have impacted the analysis of overall survival.
 
 The efficacy results are presented in Table 13.
 
@@ -1080,8 +1042,6 @@ Table 14 Efficacy results for study JO25567
 | Median                     | 47.4                 | 47.0                           |
 | HR (95% CI)                | 0.81 (0.53; 1.23)    | 0.81 (0.53; 1.23)              |
 | p-value                    | 0.3267               | 0.3267                         |
-
-#  A total of 154 patients (ECOG Performance Status 0 or 1) were randomised. However two of the randomised patients discontinued the study before receiving any study treatment
 
 - ^   Blinded independent review (protocol-defined primary analysis)
 * Exploratory analysis: final OS analysis at clinical cut off on 31 October 2017, approx. 59% of patients had died.
@@ -1194,18 +1154,6 @@ Table 16 Efficacy results from study GOG-0218
 |                                    |                               | 1.25)                         |                               |                               |
 |                                    |                               | 0.88                          |                               |                               |
 
-1 Investigator assessed GOG protocol-specified PFS analysis (neither censored for CA-125 progressions nor censored for NPT prior to disease progression) with data cut-off date of 25 February, 2010.
-
-2 Relative to the control arm; stratified hazard ratio.
-
-3 One-sided log-rank p-value
-
-4  Subject to a p-value boundary of 0.0116.
-
-5 Patients with measurable disease at baseline.
-
-6 Final overall survival analysis performed when 46.9% of the patients had died.
-
 Prespecified PFS analyses were conducted, all with a cut-off date of 29 September 2009. The results of these prespecified analyses are as follows:
 
 -  The protocol specified analysis of investigator-assessed PFS (without censoring for CA-125 progression or non-protocol therapy [NPT]) shows a stratified hazard ratio of 0.71 (95% CI: 0.61-0.83, 1-sided log-rank p-value &lt; 0.0001) when CPB15+ is compared with CPP, with a median PFS of 10.4 months in the CPP arm and 14.1 months in the CPB15+ arm.
@@ -1228,14 +1176,6 @@ Table 17 PFS 1  results by disease stage and debulking status from study GOG-021
 |                                                                    | CPP (n = 153)                                                      | CPB15 (n = 165)                                                    | CPB15+ (n = 165)                                                   |
 | Median PFS (months)                                                | 9.5                                                                | 10.4                                                               | 12.8                                                               |
 | Hazard Ratio (95% CI) 4                                            |                                                                    | 0.90 (0.70, 1.16)                                                  | 0.64 (0.49, 0.82)                                                  |
-
-1 Investigator assessed GOG protocol-specified PFS analysis (neither censored for CA-125 progressions nor censored for NPT prior to disease progression) with data cut-off date of 25 February, 2010
-
-2 With gross residual disease.
-
-3 3.7% of the overall randomised patient population had stage IIIB disease.
-
-4 Relative to the control arm.
 
 ## BO17707 (ICON7)
 
@@ -1280,12 +1220,6 @@ Table 18 Efficacy results from study BO17707 (ICON7)
 | Hazard ratio [95% CI]       | 0.99 [0. 85; 1. 15]         | 0.99 [0. 85; 1. 15]         |
 |                             | (p-value = 0. 8910)         | (p-value = 0. 8910)         |
 
-1 In patients with measurable disease at baseline.
-
-2 Investigator assessed PFS analysis with data cut-off date of 30 November 2010.
-
-3 Final overall survival analysis performed when 46.7% of the patients had died with data cut-off date of 31 March 2013.
-
 The primary analysis of investigator-assessed PFS with a data cut-off date of 28 February 2010 shows an unstratified hazard ratio of 0.79 (95% CI: 0.68-0.91, 2-sided log-rank p-value 0.0010) with a median PFS of 16.0 months in the CP arm and 18.3 months in the CPB7.5+ arm.
 
 PFS subgroup analyses by disease stage and debulking status are summarised in Table 19. These results demonstrate robustness of the primary analysis of PFS as shown in Table 18.
@@ -1314,14 +1248,6 @@ Table 19 PFS 1  results by disease stage and debulking status from study BO17707
 |                                                                     |                   | 0.74                   |
 | Hazard ratio (95%                                                   |                   |                        |
 |                                                                     |                   | CI)4                   |
-
-1 Investigator assessed PFS analysis with data cut-off date of 30 November 2010.
-
-2 With or without gross residual disease.
-
-3 5.8% of the overall randomised patient population had stage IIIB disease.
-
-4 Relative to the control arm.
 
 ## Recurrent ovarian cancer
 
@@ -1768,9 +1694,7 @@ EU/1/04/300/001 - 100 mg/4 ml vial EU/1/04/300/002 - 400 mg/16 ml vial
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 12 January 2005
-
-Date of latest renewal: 17 November 2014
+Date of first authorisation: 12 January 2005 Date of latest renewal: 17 November 2014
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1819,9 +1743,9 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
-<div style=\"page-break-after: always\"></div>
-
 An updated RMP should be submitted:
+
+<div style=\"page-break-after: always\"></div>
 
 -  At the request of the European Medicines Agency;
 -  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
@@ -2142,40 +2066,40 @@ Avastin is also used for the treatment of adult patients with persistent, recurr
 
 ## Do not use Avastin if
 
--  you are allergic (hypersensitive) to bevacizumab or to any of the other ingredients of this medicine (listed in section 6).
--  you are allergic (hypersensitive) to Chinese hamster ovary (CHO) cell products or to other recombinant human or humanised antibodies.
--  you are pregnant.
+- you are allergic (hypersensitive) to bevacizumab or to any of the other ingredients of this medicine (listed in section 6).
+- you are allergic (hypersensitive) to Chinese hamster ovary (CHO) cell products or to other recombinant human or humanised antibodies.
+- you are pregnant.
 
 ## Warnings and precautions
 
 Talk to your doctor, pharmacist or nurse before using Avastin
 
--  It is possible that Avastin may increase the risk of developing holes in the gut wall. If you have conditions causing inflammation inside the abdomen (e.g. diverticulitis, stomach ulcers, colitis associated with chemotherapy), please discuss this with your doctor.
--  Avastin may increase the risk of developing an abnormal connection or passageway between two organs or vessels. The risk of developing connections between the vagina and any parts of the gut can increase if you have persistent, recurrent or metastatic cervical cancer.
--  This medicine can increase the risk of bleeding or increase the risk of problems with wound healing after surgery. If you are going to have an operation, if you have had major surgery within the last 28 days or if you still have an unhealed wound following surgery, you should not receive this medicine.
--  Avastin may increase the risk of developing serious infections of the skin or deeper layers under the skin, especially if you had holes in the gut wall or problems with wound healing.
--  Avastin can increase the incidence of high blood pressure. If you have high blood pressure which is not well controlled with blood pressure medicines, please consult your doctor as it is important to make sure that your blood pressure is under control before starting Avastin treatment.
--  If you have or have had an aneurysm (enlargement and weakening of a blood vessel wall) or a tear in a blood vessel wall.
--  This medicine increases the risk of having protein in your urine especially if you already have high blood pressure.
--  The risk of developing blood clots in your arteries (a type of blood vessel) can increase if you are over 65 years old, if you have diabetes, or if you have had previous blood clots in your arteries. Please talk to your doctor since blood clots can lead to heart attack and stroke.
+- It is possible that Avastin may increase the risk of developing holes in the gut wall. If you have conditions causing inflammation inside the abdomen (e.g. diverticulitis, stomach ulcers, colitis associated with chemotherapy), please discuss this with your doctor.
+- Avastin may increase the risk of developing an abnormal connection or passageway between two organs or vessels. The risk of developing connections between the vagina and any parts of the gut can increase if you have persistent, recurrent or metastatic cervical cancer.
+- This medicine can increase the risk of bleeding or increase the risk of problems with wound healing after surgery. If you are going to have an operation, if you have had major surgery within the last 28 days or if you still have an unhealed wound following surgery, you should not receive this medicine.
+- Avastin may increase the risk of developing serious infections of the skin or deeper layers under the skin, especially if you had holes in the gut wall or problems with wound healing.
+- Avastin can increase the incidence of high blood pressure. If you have high blood pressure which is not well controlled with blood pressure medicines, please consult your doctor as it is important to make sure that your blood pressure is under control before starting Avastin treatment.
+- If you have or have had an aneurysm (enlargement and weakening of a blood vessel wall) or a tear in a blood vessel wall.
+- This medicine increases the risk of having protein in your urine especially if you already have high blood pressure.
+- The risk of developing blood clots in your arteries (a type of blood vessel) can increase if you are over 65 years old, if you have diabetes, or if you have had previous blood clots in your arteries. Please talk to your doctor since blood clots can lead to heart attack and stroke.
 
 <div style=\"page-break-after: always\"></div>
 
 -  Avastin can also increase the risk of developing blood clots in your veins (a type of blood vessel).
--  This medicine may cause bleeding, especially tumour-related bleeding. Please consult your doctor if you or your family tend to suffer from bleeding problems or you are taking medicines to thin the blood for any reason.
--  It is possible that Avastin may cause bleeding in and around your brain. Please discuss this with your doctor if you have metastatic cancer affecting your brain.
--  It is possible that Avastin can increase the risk of bleeding in your lungs, including coughing or spitting blood. Please discuss with your doctor if you noticed this previously.
--  Avastin can increase the risk of developing a weak heart. It is important that your doctor knows if you have ever received anthracyclines (for example doxorubicin, a specific type of chemotherapy used to treat some cancers) or had radiotherapy to your chest, or if you have heart disease.
--  This medicine may cause infections and a decreased number of your neutrophils (a type of blood cell important for your protection against bacteria).
--  It is possible that Avastin can cause hypersensitivity (including anaphylactic shock) and/or infusion reactions (reactions related to your injection of the medicine). Please let your doctor, pharmacist or nurse know if you have previously experienced problems after injections, such as dizziness/feeling of fainting, breathlessness, swelling or skin rash.
--  A rare neurological side effect named posterior reversible encephalopathy syndrome (PRES) has been associated with Avastin treatment. If you have headache, vision changes, confusion or seizure with or without high blood pressure, please contact your doctor.
+- This medicine may cause bleeding, especially tumour-related bleeding. Please consult your doctor if you or your family tend to suffer from bleeding problems or you are taking medicines to thin the blood for any reason.
+- It is possible that Avastin may cause bleeding in and around your brain. Please discuss this with your doctor if you have metastatic cancer affecting your brain.
+- It is possible that Avastin can increase the risk of bleeding in your lungs, including coughing or spitting blood. Please discuss with your doctor if you noticed this previously.
+- Avastin can increase the risk of developing a weak heart. It is important that your doctor knows if you have ever received anthracyclines (for example doxorubicin, a specific type of chemotherapy used to treat some cancers) or had radiotherapy to your chest, or if you have heart disease.
+- This medicine may cause infections and a decreased number of your neutrophils (a type of blood cell important for your protection against bacteria).
+- It is possible that Avastin can cause hypersensitivity (including anaphylactic shock) and/or infusion reactions (reactions related to your injection of the medicine). Please let your doctor, pharmacist or nurse know if you have previously experienced problems after injections, such as dizziness/feeling of fainting, breathlessness, swelling or skin rash.
+- A rare neurological side effect named posterior reversible encephalopathy syndrome (PRES) has been associated with Avastin treatment. If you have headache, vision changes, confusion or seizure with or without high blood pressure, please contact your doctor.
 
 Please consult your doctor, even if these above statements were only applicable to you in the past.
 
 Before you are given Avastin or while you are being treated with Avastin:
 
--  if you have or have had pain in the mouth, teeth and/or jaw, swelling or sores inside the mouth, numbness or a feeling of heaviness in the jaw, or loosening of a tooth tell your doctor and dentist immediately .
--  if you need to undergo an invasive dental treatment or dental surgery, tell your dentist that you are being treated with Avastin, in particular when you are also receiving or have received an injection of bisphosphonate into your blood.
+- if you have or have had pain in the mouth, teeth and/or jaw, swelling or sores inside the mouth, numbness or a feeling of heaviness in the jaw, or loosening of a tooth tell your doctor and dentist immediately .
+- if you need to undergo an invasive dental treatment or dental surgery, tell your dentist that you are being treated with Avastin, in particular when you are also receiving or have received an injection of bisphosphonate into your blood.
 
 You may be advised to have a dental check-up before you start treatment with Avastin.
 
@@ -2197,7 +2121,7 @@ Tell your doctor if you are using platinum- or taxane-based therapies for lung o
 
 Please tell your doctor if you have recently received, or are receiving, radiotherapy.
 
-## Pregnancy, breast -feeding and fertility
+## Pregnancy, breast-feeding and fertility
 
 You must not use this medicine if you are pregnant. Avastin may cause damage to your unborn baby as it may stop the formation of new blood vessels. Your doctor should advise you about using contraception during treatment with Avastin and for at least 6 months after the last dose of Avastin.
 
@@ -2231,31 +2155,31 @@ Do not shake the vial. Avastin is a concentrate for solution for infusion. Depen
 
 ## The administration of Avastin should be temporarily discontinued
 
--  if you develop severe high blood pressure requiring treatment with blood pressure medicines,
--  if you have problems with wound healing following surgery,
+- if you develop severe high blood pressure requiring treatment with blood pressure medicines,
+- if you have problems with wound healing following surgery,
 
 <div style=\"page-break-after: always\"></div>
 
--  if you undergo surgery.
+- if you undergo surgery.
 
 ## The administration of Avastin should be permanently discontinued if you develop
 
--  severe high blood pressure which cannot be controlled by blood pressure medicines; or a sudden severe rise in blood pressure,
--  presence of protein in your urine accompanied by swelling of your body,
--  a hole in your gut wall,
--  an abnormal tube-like connection or passage between the windpipe and the gullet, between internal organs and skin, between the vagina and any parts of the gut or between other tissues that are not normally connected (fistula), and are judged by your doctor to be severe,
--  serious infections of the skin or deeper layers under the skin,
--  a blood clot in your arteries,
--  a blood clot in the blood vessels of your lungs,
--  any severe bleeding.
+- severe high blood pressure which cannot be controlled by blood pressure medicines; or a sudden severe rise in blood pressure,
+- presence of protein in your urine accompanied by swelling of your body,
+- a hole in your gut wall,
+- an abnormal tube-like connection or passage between the windpipe and the gullet, between internal organs and skin, between the vagina and any parts of the gut or between other tissues that are not normally connected (fistula), and are judged by your doctor to be severe,
+- serious infections of the skin or deeper layers under the skin,
+- a blood clot in your arteries,
+- a blood clot in the blood vessels of your lungs,
+- any severe bleeding.
 
 ## If too much Avastin is given
 
--  you may develop a severe migraine. If this happens you should talk to your doctor, pharmacist or nurse immediately.
+- you may develop a severe migraine. If this happens you should talk to your doctor, pharmacist or nurse immediately.
 
 ## If a dose of Avastin is missed
 
--  your doctor will decide when you should be given your next dose of Avastin. You should discuss this with your doctor.
+- your doctor will decide when you should be given your next dose of Avastin. You should discuss this with your doctor.
 
 ## If you stop treatment with Avastin
 
@@ -2279,98 +2203,98 @@ If you have an allergic reaction, tell your doctor or a member of the medical st
 
 Severe side effects, which may be very common (may affect more than 1 in 10 people), include:
 
-- -high blood pressure,
-- -feeling of numbness or tingling in hands or feet,
-- -decreased number of cells in the blood, including white cells that help to fight against infections (this may be accompanied by fever), and cells that help the blood to clot,
-- -feeling weak and having no energy,
-- -tiredness,
-- -diarrhoea, nausea, vomiting and abdominal pain.
+- high blood pressure,
+- feeling of numbness or tingling in hands or feet,
+- decreased number of cells in the blood, including white cells that help to fight against infections (this may be accompanied by fever), and cells that help the blood to clot,
+- feeling weak and having no energy,
+- tiredness,
+- diarrhoea, nausea, vomiting and abdominal pain.
 
 <div style=\"page-break-after: always\"></div>
 
 Severe side effects, which may be common (may affect up to 1 in 10 people), include:
 
-- -perforation of the gut,
-- -bleeding, including bleeding in the lungs in patients with non-small cell lung cancer,
-- -blocking of the arteries by a blood clot,
-- -blocking of the veins by a blood clot,
-- -blocking of the blood vessels of the lungs by a blood clot,
-- -blocking of the veins of the legs by a blood clot,
-- -heart failure,
-- -problems with wound healing after surgery,
-- -redness, peeling, tenderness, pain, or blistering on the fingers or feet,
-- -decreased number of red cells in the blood,
-- -lack of energy,
-- -stomach and intestinal disorder,
-- -muscle and joint pain, muscular weakness,
-- -dry mouth in combination with thirst and/or reduced or darkened urine,
-- -inflammation of the moist lining of mouth and gut, lungs and air passages, reproductive, and urinary tracts,
-- -sores in the mouth and the tube from the mouth to the stomach, which may be painful and cause difficulty swallowing,
-- -pain, including headache, back pain and pain in the pelvis and anal regions,
-- -localised pus collection,
-- -infection, and in particular infection in the blood or bladder,
-- -reduced blood supply to the brain or stroke,
-- -sleepiness,
-- -nose bleed,
-- -increase in heart rate (pulse),
-- -blockage in the gut or bowel,
-- -abnormal urine test (protein in the urine),
-- -shortness of breath or low levels of oxygen in the blood,
-- -infections of the skin or deeper layers under the skin,
-- -fistula: abnormal tube-like connection between internal organs and skin or other tissues that are not normally connected, including connections between vagina and the gut in patients with cervical cancer,
-- -allergic reactions (the signs may include breathing difficulty, facial redness, rash, low blood pressure or high blood pressure, low oxygen in your blood, chest pain, or nausea/vomiting).
+- perforation of the gut,
+- bleeding, including bleeding in the lungs in patients with non-small cell lung cancer,
+- blocking of the arteries by a blood clot,
+- blocking of the veins by a blood clot,
+- blocking of the blood vessels of the lungs by a blood clot,
+- blocking of the veins of the legs by a blood clot,
+- heart failure,
+- problems with wound healing after surgery,
+- redness, peeling, tenderness, pain, or blistering on the fingers or feet,
+- decreased number of red cells in the blood,
+- lack of energy,
+- stomach and intestinal disorder,
+- muscle and joint pain, muscular weakness,
+- dry mouth in combination with thirst and/or reduced or darkened urine,
+- inflammation of the moist lining of mouth and gut, lungs and air passages, reproductive, and urinary tracts,
+- sores in the mouth and the tube from the mouth to the stomach, which may be painful and cause difficulty swallowing,
+- pain, including headache, back pain and pain in the pelvis and anal regions,
+- localised pus collection,
+- infection, and in particular infection in the blood or bladder,
+- reduced blood supply to the brain or stroke,
+- sleepiness,
+- nose bleed,
+- increase in heart rate (pulse),
+- blockage in the gut or bowel,
+- abnormal urine test (protein in the urine),
+- shortness of breath or low levels of oxygen in the blood,
+- infections of the skin or deeper layers under the skin,
+- fistula: abnormal tube-like connection between internal organs and skin or other tissues that are not normally connected, including connections between vagina and the gut in patients with cervical cancer,
+- allergic reactions (the signs may include breathing difficulty, facial redness, rash, low blood pressure or high blood pressure, low oxygen in your blood, chest pain, or nausea/vomiting).
 
 Severe side effects, which may be rare (may affect up to 1 in 1 000 people), include:
 
-- -sudden, severe allergic reaction with breathing difficulty, swelling, lightheadedness, fast heartbeat, sweating and loss of consciousness (anaphylactic shock).
+- sudden, severe allergic reaction with breathing difficulty, swelling, lightheadedness, fast heartbeat, sweating and loss of consciousness (anaphylactic shock).
 
 Severe side effects of unknown frequency (frequency cannot be estimated from the available data), include:
 
-- -serious infections of the skin or deeper layers under the skin, especially if you had holes in the gut wall or problems with wound healing,
-- -a negative effect on a woman's ability to have children (see the paragraphs below the list of side effects for further recommendations),
-- -a brain condition with symptoms including seizures (fits), headache, confusion, and changes in vision (Posterior Reversible Encephalopathy Syndrome or PRES),
-- -symptoms that suggest changes in normal brain function (headaches, vision changes, confusion, or seizures), and high blood pressure,
-- -an enlargement and weakening of a blood vessel wall or a tear in a blood vessel wall (aneurysms and artery dissections),
-- -clogging of a very small blood vessel(s) in the kidney,
-- -abnormally high blood pressure in the blood vessels of the lungs which makes the right side of the heart work harder than normal,
-- -a hole in the cartilage wall separating the nostrils of the nose,
+- serious infections of the skin or deeper layers under the skin, especially if you had holes in the gut wall or problems with wound healing,
+- a negative effect on a woman's ability to have children (see the paragraphs below the list of side effects for further recommendations),
+- a brain condition with symptoms including seizures (fits), headache, confusion, and changes in vision (Posterior Reversible Encephalopathy Syndrome or PRES),
+- symptoms that suggest changes in normal brain function (headaches, vision changes, confusion, or seizures), and high blood pressure,
+- an enlargement and weakening of a blood vessel wall or a tear in a blood vessel wall (aneurysms and artery dissections),
+- clogging of a very small blood vessel(s) in the kidney,
+- abnormally high blood pressure in the blood vessels of the lungs which makes the right side of the heart work harder than normal,
+- a hole in the cartilage wall separating the nostrils of the nose,
 
 <div style=\"page-break-after: always\"></div>
 
-- -a hole in the stomach or intestines,
-- -an open sore or hole in the lining of the stomach or small intestine (the signs may include abdominal pain, feeling bloated, black tarry stools or blood in your stools (faeces) or blood in your vomit),
-- -bleeding from the lower part of the large bowel,
-- -lesions in the gums with an exposed jaw bone that does not heal and may be associated with pain and inflammation of the surrounding tissue (see the paragraphs below the list of side effects for further recommendations),
-- -hole in  the gall bladder (symptoms and signs may include abdominal pain, fever, and nausea/vomiting).
+- a hole in the stomach or intestines,
+- an open sore or hole in the lining of the stomach or small intestine (the signs may include abdominal pain, feeling bloated, black tarry stools or blood in your stools (faeces) or blood in your vomit),
+- bleeding from the lower part of the large bowel,
+- lesions in the gums with an exposed jaw bone that does not heal and may be associated with pain and inflammation of the surrounding tissue (see the paragraphs below the list of side effects for further recommendations),
+- hole in  the gall bladder (symptoms and signs may include abdominal pain, fever, and nausea/vomiting).
 
 ## You should seek help as soon as possible if you suffer from any of the below mentioned side effects.
 
 Very common (may affect more than 1 in 10 people) side effects, which were not severe, include:
 
-- -constipation,
-- -loss of appetite,
-- -fever,
-- -problems with the eyes (including increased production of tears),
-- -changes in speech,
-- -change in the sense of taste,
-- -runny nose,
-- -dry skin, flaking and inflammation of the skin, change in skin colour,
-- -loss of body weight,
-- -nose bleeds.
+- constipation,
+- loss of appetite,
+- fever,
+- problems with the eyes (including increased production of tears),
+- changes in speech,
+- change in the sense of taste,
+- runny nose,
+- dry skin, flaking and inflammation of the skin, change in skin colour,
+- loss of body weight,
+- nose bleeds.
 
 Common (may affect up to 1 in 10 people) side effects, which were not severe, include:
 
-- -voice changes and hoarseness.
+- voice changes and hoarseness.
 
 Patients older than 65 years have an increased risk of experiencing the following side effects:
 
-- -blood clot in the arteries which can lead to a stroke or a heart attack,
-- -reduction in the number of white cells in the blood, and cells that help the blood clot,
-- -diarrhoea,
-- -sickness,
-- -headache,
-- -fatigue,
-- -high blood pressure.
+- blood clot in the arteries which can lead to a stroke or a heart attack,
+- reduction in the number of white cells in the blood, and cells that help the blood clot,
+- diarrhoea,
+- sickness,
+- headache,
+- fatigue,
+- high blood pressure.
 
 Avastin may also cause changes in laboratory tests carried out by your doctor. These include a decreased number of white cells in the blood, in particular neutrophils (one type of white blood cell which helps protect against infections) in the blood; presence of protein in the urine; decreased blood potassium, sodium or phosphorous (a mineral); increased blood sugar; increased blood alkaline phosphatase (an enzyme); increased serum creatinine (a protein measured by a blood test to see how well your kidneys are working); decreased haemoglobin (found in red blood cells, which carry oxygen), which may be severe.
 
@@ -2378,15 +2302,15 @@ Pain in the mouth, teeth and/or jaw, swelling or sores inside the mouth, numbnes
 
 Pre-menopausal women (women who have a menstrual cycle) may notice that their periods become irregular or are missed and may experience impaired fertility. If you are considering having children you should discuss this with your doctor before your treatment starts.
 
-Avastin has been developed and made to treat cancer by injecting it into the bloodstream. It has not been developed or made for injection into the eye. It is therefore not authorised to be used in this way. When Avastin is injected directly into the eye (unapproved use), the following side effects may occur:
-
 <div style=\"page-break-after: always\"></div>
 
-- -Infection or inflammation of the eye globe,
-- -Redness of the eye, small particles or spots in your vision (floaters), eye pain,
-- -Seeing flashes of light with floaters, progressing to a loss of some of your vision,
-- -Increased eye pressure,
-- -Bleeding in the eye.
+Avastin has been developed and made to treat cancer by injecting it into the bloodstream. It has not been developed or made for injection into the eye. It is therefore not authorised to be used in this way. When Avastin is injected directly into the eye (unapproved use), the following side effects may occur:
+
+- Infection or inflammation of the eye globe,
+- Redness of the eye, small particles or spots in your vision (floaters), eye pain,
+- Seeing flashes of light with floaters, progressing to a loss of some of your vision,
+- Increased eye pressure,
+- Bleeding in the eye.
 
 ## Reporting of side effects
 
@@ -2400,7 +2324,7 @@ Do not use this medicine after the expiry date which is stated on the outer cart
 
 Store in a refrigerator (2 °C-8 °C).
 
-Do not freeze.
+## Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
@@ -2416,8 +2340,12 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - The active substance is bevacizumab. Each ml of concentrate contains 25 mg of bevacizumab, corresponding to 1.4 to 16.5 mg/ml when diluted as recommended.
 - Each 4 ml vial contains 100 mg of bevacizumab, corresponding to 1.4 mg/ml when diluted as recommended.
-- Each 16 ml vial contains 400 mg of bevacizumab, corresponding to 16.5 mg/ml when diluted as recommended
+
+Each 16 ml vial contains 400 mg of bevacizumab, corresponding to 16.5 mg/ml when diluted as recommended
+
 - The other ingredients are trehalose dihydrate, sodium phosphate, polysorbate 20 (E 432) (see section 2 'Avastin contains sodium and polysorbate 20') and water for injections.
+
+<div style=\"page-break-after: always\"></div>
 
 ## What Avastin looks like and contents of the pack
 
@@ -2425,11 +2353,7 @@ Avastin is a concentrate for solution for infusion. The concentrate is a clear, 
 
 ## Marketing Authorisation Holder
 
-Roche Registration GmbH
-
-<div style=\"page-break-after: always\"></div>
-
-Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
+Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 ## Manufacturer
 
@@ -2475,25 +2399,17 @@ Tel: + 372 - 6 177 380
 
 ## Ελλάδα , K ύπρος
 
-Roche (Hellas) A.E. Ελλάδα Τηλ : +30 210 61 66 100
+Roche (Hellas) A.E. Ελλάδα
+
+Τηλ
+
+: +30 210 61 66 100
 
 ## España
 
 Roche Farma S.A.
 
 Tel: +34 - 91 324 81 00
-
-## France
-
-Roche
-
-Tél: +33 (0) 1 47 61 40 00
-
-## Hrvatska
-
-Roche d.o.o.
-
-Tel: + 385 1 47 22 333
 
 ## Latvija
 
@@ -2503,7 +2419,9 @@ Tel: +371 - 6 7039831
 
 ## Lietuva
 
-UAB 'Roche Lietuva' Tel: +370 5 2546799
+UAB 'Roche Lietuva'
+
+Tel: +370 5 2546799
 
 ## Magyarország
 
@@ -2513,13 +2431,13 @@ Tel.: +36 1 279 4500
 
 ## Nederland
 
-Roche Nederland B.V.
-
-Tel: +31 (0) 348 438050
+Roche Nederland B.V. Tel: +31 (0) 348 438050
 
 ## Norge
 
-Roche Norge AS Tlf: +47 - 22 78 90 00
+Roche Norge AS
+
+Tlf: +47 - 22 78 90 00
 
 ## Österreich
 
@@ -2535,13 +2453,27 @@ Tel.: +48 - 22 345 18 88
 
 ## Portugal
 
-Roche Farmacêutica Química, Lda Tel: +351 - 21 425 70 00
+Roche Farmacêutica Química, Lda
+
+Tel: +351 - 21 425 70 00
+
+## France
+
+Roche
+
+Tél: +33 (0) 1 47 61 40 00
 
 ## România
 
 Roche România S.R.L.
 
 Tel: +40 21 206 47 01
+
+## Hrvatska
+
+Roche d.o.o.
+
+Tel: + 385 1 47 22 333
 
 ## Slovenija
 
@@ -2557,7 +2489,9 @@ Tel: +353 (0) 1 469 0700
 
 ## Slovenská republika
 
-Roche Slovensko, s.r.o. Tel: +421 - 2 52638201
+Roche Slovensko, s.r.o.
+
+Tel: +421 - 2 52638201
 
 ## Ísland
 
@@ -2588,3 +2522,25 @@ Tel: +46 (0) 8 726 1200
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION (S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for bevacizumab, the scientific conclusions of PRAC are as follows:
+
+In view of available data on hyaline occlusive glomerular microangiopathy reported in the literature, including in some cases a positive de-challenge and in view of a plausible mechanism of action, the PRAC considers a causal relationship between bevacizumab and hyaline occlusive glomerular microangiopathy is at least a reasonable possibility. The PRAC concluded that the product information of products containing bevacizumab should be amended accordingly.
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for bevacizumab the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing bevacizumab is unchanged subject to the proposed changes to the product information.
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

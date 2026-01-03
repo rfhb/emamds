@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 12:07:34
+document_datetime: 2025-12-17 13:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-koanaa.html
 document_name: rivaroxaban-koanaa.html
 version: success
-processing_time: 0.108216
-conversion_datetime: 2025-12-30 10:42:12.899046
+processing_time: 0.1010699
+conversion_datetime: 2026-01-03 13:01:11.77231
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -102,7 +102,7 @@ English (EN) (167.38 KB - PDF)
 
 [View](/en/documents/overview/rivaroxaban-koanaa-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-74)
+[Other languages (22)](#file-language-dropdown-470)
 
 български (BG) (189.54 KB - PDF)
 
@@ -298,7 +298,7 @@ English (EN) (1.29 MB - PDF)
 
 [View](/en/documents/product-information/rivaroxaban-koanaa-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-182)
+[Other languages (24)](#file-language-dropdown-994)
 
 български (BG) (1.52 MB - PDF)
 
@@ -514,7 +514,7 @@ English (EN) (45.81 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rivaroxaban-koanaa-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-157)
+[Other languages (24)](#file-language-dropdown-209)
 
 български (BG) (54.44 KB - PDF)
 

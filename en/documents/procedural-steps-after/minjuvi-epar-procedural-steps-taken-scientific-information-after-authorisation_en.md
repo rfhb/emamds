@@ -4,8 +4,8 @@ document_pages: 8
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/minjuvi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: minjuvi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 3.5349273
-conversion_datetime: 2025-12-28 03:51:54.629445
+processing_time: 3.6090972
+conversion_datetime: 2026-01-03 13:20:44.476782
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

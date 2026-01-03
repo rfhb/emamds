@@ -4,8 +4,8 @@ document_pages: 29
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rotateq-epar-product-information_en.pdf
 document_name: rotateq-epar-product-information_en.pdf
 version: success
-processing_time: 7.7449718
-conversion_datetime: 2025-12-25 01:45:24.222694
+processing_time: 8.537684
+conversion_datetime: 2026-01-03 12:16:56.215883
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

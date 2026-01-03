@@ -4,8 +4,8 @@ document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/ventavis-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: ventavis-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.3653713
-conversion_datetime: 2025-12-28 12:15:27.268699
+processing_time: 1.5694692
+conversion_datetime: 2026-01-03 12:22:15.452307
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

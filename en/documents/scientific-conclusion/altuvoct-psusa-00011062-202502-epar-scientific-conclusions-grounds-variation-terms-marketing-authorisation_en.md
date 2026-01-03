@@ -4,8 +4,8 @@ document_pages: 2
 document_pathfilename: www.ema.europa.eu/en/documents/scientific-conclusion/altuvoct-psusa-00011062-202502-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf
 document_name: altuvoct-psusa-00011062-202502-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf
 version: success
-processing_time: 1.3641212
-conversion_datetime: 2025-12-26 19:34:03.132225
+processing_time: 0.8154967
+conversion_datetime: 2026-01-03 12:34:42.246804
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 11:11:23
+document_datetime: 2025-12-18 10:46:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/invokana.html
 document_name: invokana.html
 version: success
-processing_time: 0.1713793
-conversion_datetime: 2025-12-30 10:25:29.200393
+processing_time: 0.1735146
+conversion_datetime: 2026-01-03 12:55:41.137533
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -124,7 +124,7 @@ English (EN) (172.49 KB - PDF)
 
 [View](/en/documents/overview/invokana-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-478)
+[Other languages (22)](#file-language-dropdown-419)
 
 български (BG) (177.02 KB - PDF)
 
@@ -412,7 +412,7 @@ English (EN) (859.77 KB - PDF)
 
 [View](/en/documents/product-information/invokana-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-157)
+[Other languages (24)](#file-language-dropdown-565)
 
 български (BG) (827.86 KB - PDF)
 
@@ -728,7 +728,7 @@ English (EN) (18.08 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/invokana-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-716)
+[Other languages (24)](#file-language-dropdown-219)
 
 български (BG) (35.79 KB - PDF)
 
@@ -1141,7 +1141,7 @@ English (EN) (41.36 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/invokana-h-a20-1442-c-2649-0018-epar-scientific-conclusion-article-20_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-654)
+[Other languages (24)](#file-language-dropdown-689)
 
 български (BG) (84.18 KB - PDF)
 
@@ -1455,7 +1455,7 @@ English (EN) (44.81 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/invokana-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-872)
+[Other languages (22)](#file-language-dropdown-245)
 
 български (BG) (71.82 KB - PDF)
 
@@ -1799,7 +1799,7 @@ English (EN) (360.81 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/invokana-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-769)
+[Other languages (24)](#file-language-dropdown-291)
 
 български (BG) (434.42 KB - DOCX)
 

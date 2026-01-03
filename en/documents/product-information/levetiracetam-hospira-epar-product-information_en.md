@@ -4,13 +4,13 @@ document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/levetiracetam-hospira-epar-product-information_en.pdf
 document_name: levetiracetam-hospira-epar-product-information_en.pdf
 version: success
-processing_time: 7.0388047
-conversion_datetime: 2025-12-23 21:12:25.972658
+processing_time: 7.3220638
+conversion_datetime: 2026-01-03 12:48:25.245469
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -120,10 +120,6 @@ Dosing adjustment for adult and adolescent patients weighing more than 50 kg wit
 | Severe                                                   | < 30                                     | 250 to 500 mg twice daily      |
 | End-stage renal disease patients undergoing dialysis (1) | -                                        | 500 to 1,000 mg once daily (2) |
 
-(1) A 750 mg loading dose is recommended on the first day of treatment with levetiracetam.
-
-(2) Following dialysis, a 250 to 500 mg supplemental dose is recommended.
-
 For children with renal impairment, levetiracetam dose needs to be adjusted based on the renal function as levetiracetam clearance is related to renal function. This recommendation is based on a study in adult renally impaired patients.
 
 The CLcrin ml/min/1.73 m 2 may be estimated from serum creatinine (mg/dl) determination, for young adolescents and children using the following formula (Schwartz formula):
@@ -185,10 +181,6 @@ Please refer to the above section on Adults (≥18 years) and adolescents (12 to
 | 20 kg (1)      | 200 mg twice daily                    | 600 mg twice daily                   |
 | 25 kg          | 250 mg twice daily                    | 750 mg twice daily                   |
 | From 50 kg (2) | 500 mg twice daily                    | 1,500 twice daily                    |
-
-(1) Children 25 kg or less should preferably start the treatment with levetiracetam 100 mg/ml oral solution.
-
-(2)  Dose in children and adolescents 50 kg or more is the same as in adults.
 
 Add-on therapy for infants and children less than 4 years
 

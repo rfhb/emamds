@@ -4,8 +4,8 @@ document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/tuzulby-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: tuzulby-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 2.5499232
-conversion_datetime: 2025-12-30 13:01:10.704628
+processing_time: 1.6650736
+conversion_datetime: 2026-01-03 12:33:45.794821
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

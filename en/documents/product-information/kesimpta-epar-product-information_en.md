@@ -4,17 +4,17 @@ document_pages: 61
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kesimpta-epar-product-information_en.pdf
 document_name: kesimpta-epar-product-information_en.pdf
 version: success
-processing_time: 18.5254026
-conversion_datetime: 2025-12-19 01:17:55.810596
+processing_time: 17.5984548
+conversion_datetime: 2026-01-03 12:32:15.274589
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -251,10 +251,6 @@ Table 1 Tabulated list of adverse reactions
 | Common                                               | Nausea, vomiting 4                                              |
 | Investigations                                       | Investigations                                                  |
 | Common                                               | Blood immunoglobulin Mdecreased                                 |
-
-1  Grouping of preferred terms (PTs) was considered for ADR frequency determination and includes the following: nasopharyngitis, upper respiratory tract infection, influenza, sinusitis, pharyngitis, rhinitis, viral upper respiratory infection, tonsillitis, acute sinusitis, pharyngotonsillitis, laryngitis, pharyngitis streptococcal, viral rhinitis, sinusitis bacterial, tonsillitis bacterial, viral pharyngitis, viral tonsillitis, chronic sinusitis, nasal herpes, tracheitis.
-
-2  Grouping of preferred terms (PTs) was considered for ADR frequency determination and includes the following: urinary tract infection, cystitis, escherichia urinary tract infection, asymptomatic bacteriuria, bacteriuria.
 
 - 3 Reported during post-marketing experience (see section 4.4).
 

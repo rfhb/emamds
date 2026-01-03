@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 13:13:21
+document_datetime: 2025-12-18 12:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mepact.html
 document_name: mepact.html
 version: success
-processing_time: 0.1142811
-conversion_datetime: 2025-12-30 03:32:12.19978
+processing_time: 0.1225998
+conversion_datetime: 2026-01-03 12:57:50.163305
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -110,7 +110,7 @@ English (EN) (79.64 KB - PDF)
 
 [View](/en/documents/overview/mepact-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-286)
+[Other languages (22)](#file-language-dropdown-728)
 
 български (BG) (128.75 KB - PDF)
 
@@ -388,7 +388,7 @@ English (EN) (561.29 KB - PDF)
 
 [View](/en/documents/product-information/mepact-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-4)
+[Other languages (24)](#file-language-dropdown-384)
 
 български (BG) (630.46 KB - PDF)
 
@@ -704,7 +704,7 @@ English (EN) (15.64 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mepact-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-575)
+[Other languages (24)](#file-language-dropdown-402)
 
 български (BG) (74.54 KB - PDF)
 

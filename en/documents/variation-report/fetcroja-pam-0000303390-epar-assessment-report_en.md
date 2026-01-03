@@ -4,8 +4,8 @@ document_pages: 23
 document_pathfilename: www.ema.europa.eu/en/documents/variation-report/fetcroja-pam-0000303390-epar-assessment-report_en.pdf
 document_name: fetcroja-pam-0000303390-epar-assessment-report_en.pdf
 version: success
-processing_time: 36.6055844
-conversion_datetime: 2025-12-24 19:47:54.839754
+processing_time: 53.1608799
+conversion_datetime: 2026-01-03 13:05:42.974682
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

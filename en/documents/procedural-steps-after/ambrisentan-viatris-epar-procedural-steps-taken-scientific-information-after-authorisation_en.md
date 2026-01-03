@@ -4,8 +4,8 @@ document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/ambrisentan-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: ambrisentan-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.6914077
-conversion_datetime: 2025-12-28 14:02:44.181389
+processing_time: 1.725276
+conversion_datetime: 2026-01-03 12:24:10.30666
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-05-08 11:49:07
+document_datetime: 2025-12-18 12:22:16
 document_pages: 56
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/jentadueto-epar-product-information_en.pdf
 document_name: jentadueto-epar-product-information_en.pdf
 version: success
-processing_time: 11.2205214
-conversion_datetime: 2025-12-19 03:03:36.240261
+processing_time: 10.8396927
+conversion_datetime: 2026-01-03 12:35:10.664703
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -810,8 +810,6 @@ Detailed information on this medicinal product is available on the website of th
 ## A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 
 Name and address of the manufacturer(s) responsible for batch release
-
-Boehringer Ingelheim Pharma GmbH &amp; Co. KG Binger Strasse 173 55216 Ingelheim am Rhein Germany
 
 Boehringer Ingelheim Hellas Single Member S.A. 5th km Paiania - Markopoulo Koropi Attiki, 19441 Greece
 
@@ -1920,8 +1918,6 @@ Not all pack sizes may be marketed in your country.
 Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rhein Germany
 
 ## Manufacturer
-
-Boehringer Ingelheim Pharma GmbH &amp; Co. KG Binger Strasse 173 55216 Ingelheim am Rhein Germany
 
 Boehringer Ingelheim Hellas Single Member S.A. 5th km Paiania - Markopoulo Koropi Attiki, 19441 Greece
 

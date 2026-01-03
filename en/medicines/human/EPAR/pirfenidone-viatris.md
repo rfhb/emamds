@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 12:17:24
+document_datetime: 2025-12-19 12:18:08
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pirfenidone-viatris.html
 document_name: pirfenidone-viatris.html
 version: success
-processing_time: 0.1265004
-conversion_datetime: 2025-12-30 13:03:58.579267
+processing_time: 0.1220731
+conversion_datetime: 2026-01-03 12:32:55.598816
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -104,7 +104,7 @@ English (EN) (119 KB - PDF)
 
 [View](/en/documents/overview/pirfenidone-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-422)
+[Other languages (22)](#file-language-dropdown-225)
 
 български (BG) (142.69 KB - PDF)
 
@@ -304,7 +304,7 @@ English (EN) (607.81 KB - PDF)
 
 [View](/en/documents/product-information/pirfenidone-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-874)
+[Other languages (24)](#file-language-dropdown-170)
 
 български (BG) (474.96 KB - PDF)
 
@@ -618,7 +618,7 @@ English (EN) (21.34 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pirfenidone-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-38)
+[Other languages (24)](#file-language-dropdown-687)
 
 български (BG) (53.29 KB - PDF)
 
@@ -912,7 +912,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-787)
 
 български (BG) (93.16 KB - PDF)
 

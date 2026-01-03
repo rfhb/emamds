@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 11:11:36
+document_datetime: 2025-12-18 15:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/orgalutran.html
 document_name: orgalutran.html
 version: success
-processing_time: 0.1284662
-conversion_datetime: 2025-12-29 23:06:07.503047
+processing_time: 0.1231622
+conversion_datetime: 2026-01-03 12:26:59.188155
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -111,7 +111,7 @@ English (EN) (68.29 KB - PDF)
 
 [View](/en/documents/overview/orgalutran-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-227)
+[Other languages (21)](#file-language-dropdown-877)
 
 български (BG) (170.31 KB - PDF)
 
@@ -385,7 +385,7 @@ English (EN) (250.42 KB - PDF)
 
 [View](/en/documents/product-information/orgalutran-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-454)
+[Other languages (24)](#file-language-dropdown-628)
 
 български (BG) (296.01 KB - PDF)
 
@@ -701,7 +701,7 @@ English (EN) (51.62 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/orgalutran-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-894)
+[Other languages (24)](#file-language-dropdown-148)
 
 български (BG) (53.56 KB - PDF)
 
@@ -1091,7 +1091,7 @@ English (EN) (87.62 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/orgalutran-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-590)
+[Other languages (24)](#file-language-dropdown-129)
 
 български (BG) (221 KB - DOC)
 

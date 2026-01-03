@@ -4,8 +4,8 @@ document_pages: 44
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/avastin-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
 document_name: avastin-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
 version: success
-processing_time: 32.8425404
-conversion_datetime: 2025-12-24 15:46:00.835679
+processing_time: 33.9199093
+conversion_datetime: 2026-01-03 12:25:54.802916
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

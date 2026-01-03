@@ -4,8 +4,8 @@ document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/pirfenidone-viatris-epar-product-information_en.pdf
 document_name: pirfenidone-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 7.9202544
-conversion_datetime: 2025-12-28 13:23:58.593495
+processing_time: 7.7343002
+conversion_datetime: 2026-01-03 13:14:49.228366
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

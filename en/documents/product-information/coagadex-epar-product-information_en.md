@@ -4,13 +4,13 @@ document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/coagadex-epar-product-information_en.pdf
 document_name: coagadex-epar-product-information_en.pdf
 version: success
-processing_time: 8.2907553
-conversion_datetime: 2025-12-20 14:35:53.410945
+processing_time: 8.1340447
+conversion_datetime: 2026-01-03 12:16:06.102251
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)

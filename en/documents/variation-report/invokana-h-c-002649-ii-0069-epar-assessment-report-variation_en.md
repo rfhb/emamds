@@ -4,13 +4,13 @@ document_pages: 80
 document_pathfilename: www.ema.europa.eu/en/documents/variation-report/invokana-h-c-002649-ii-0069-epar-assessment-report-variation_en.pdf
 document_name: invokana-h-c-002649-ii-0069-epar-assessment-report-variation_en.pdf
 version: success
-processing_time: 101.8331363
-conversion_datetime: 2025-12-23 05:16:55.454884
+processing_time: 106.4844669
+conversion_datetime: 2026-01-03 12:37:38.322947
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -454,8 +454,6 @@ A total of 17 subjects were enrolled, the majority were black or African America
 | λ z (1/h)                | 0.0644 (0.0151)                       | 0.0528 (0.0183)                       |
 | CL ss /F (L/h)           | 17.5 (5.78)                           | 12.3 (6.90)                           |
 
-a  Mean (range)
-
 <div style=\"page-break-after: always\"></div>
 
 Dose-Normalized Cmax Values of Canagliflozin Following Multiple-Dose Administration of 50 to 400 mg QD in Healthy Adult Subjects and Subjects with T2DM and Pediatric T2DM Subjects Receiving 100 mg or 300 mg (DIA-1055)
@@ -547,8 +545,6 @@ Table 1 Parameter estimates of the final paediatric PopPK Model for Canagliflozi
 | Phase 1 pediatric               |                            |           |             |                 |
 | Residual error (SD %)           | 114                        | 9.12      |             |                 |
 | Phase 2 and 3 pediatric         |                            |           |             |                 |
-
-FIX = model parameters, including covariate and random effects, were fixed to the estimates obtained from the adult PopPK model1
 
 CV% calculated as (/exp(o2) - 1) * 100
 
@@ -1191,8 +1187,6 @@ Table 5: Summary of Re-Randomization; All Randomized Subjects (Study JNJ28431754
 | Other                                              | 2 (8.7%) | 1 (2.1%) |
 | <Missing>                                          | 1 (4.3%) | 2 (4.3%) |
 
-a Subjects who reached Week 13 means the subjects had at least one visit after Week 12 and did not withdraw study drug before Week 12.
-
 ## Conduct of the study
 
 ## Changes in conduct - study amendments
@@ -1589,8 +1583,6 @@ Table  10: Primary  analysis  of  the  primary  efficacy  endpoint  (primary  es
 | 95% CI                                                                                                         |                  | (-1.25, -0.27) |
 | p-value                                                                                                        |                  | 0.002          |
 
-a: Imputed datasets are analyzed using analysis of covariance (ANCOVA) with terms for treatment, stratification factors (AHA background and age group), and baseline HbAlc.
-
 A subject is considered to have received rescue medication prior to Week 26 if the day of initiation of the medication is prior to the lower limit of Week 26 Analysis Visit window (Day 163 to 211). Same rule applies for subjects who discontinued treatment prior to Week 26.
 
 ]
@@ -1624,10 +1616,6 @@ Table 11: Secondary Analysis of  the  primary  efficacy  endpoint  (primary  est
 | Difference [Cana-Placebo] in LS Means (SE)                                                                 |                  | -0.77 (0.308)  |
 | 95% CI                                                                                                     |                  | (-1.38, -0.17) |
 | p-value                                                                                                    |                  | 0.012          |
-
-a: Imputed datasets are analyzed using analysis of covariance (ANCOVA) with terms for treatment, stratification factors (AHA background and age group), and baseline HbA1c.
-
-Asubject is considered tohavereceivedrescuemedicationprior toWeek26if thedayofinitiationofthemedication isprior to the lower limit of Week 26 Analysis Visit window (Day 163 to 211). Same rule applies for subjects who discontinued treatment prior to Week 26.
 
 [tefa1c03m.itf] [PROD/jnj-28431754b/dia3018/dbr\\_final\\_re2/re\\_csr/tefa1c03m.sas] 28DEC2023, 17:43
 
@@ -1720,10 +1708,6 @@ Table 14: % Change from Baseline in Body Weight at Week 26 and 52 - LOCF; Full A
 | Week 26 (LOCF) | 85               | -0.0 (0.51)      | 84            | -1.6 (0.51)   | -1.6 (0.66)                 | (-2.9, -0.3)                | 0.019                       |
 | Week 52 (LOCF) | 85               | 0.4 (0.69)       | 84            | -0.5 (0.69)   | -0.9 (0.90)                 | (-2.7, 0.8)                 | 0.293                       |
 
-a: Number of subjects with non-missing value of change from baseline.
-
-b: CI (confidence interval) and p-value are based on ANCOVA model with treatment and the stratification factors (AHA background and age group) as fixed effects and baseline body weight value as a covariate.
-
 An  analysis  of  weight  loss  over  time  (data  not  shown  here)  indicates  that  the  weight  loss  in  the canagliflozin group was observed from Week 6 and continued gradually to Week 26, after which the weight loss was attenuated until Week 52 (-0.5 kg in the canagliflozin group in weeks 34, 42 and 52). The  differences  in  change  in  weight  at  each  time  point  between  canagliflozin  and  placebo  were statistically  significant  up  to  Week  26.  In  the  placebo  group,  the  weight  gain  continued  over  time throughout the study.
 
 ## Change from Baseline in BMI at Week 26 and Week 52 (LOCF approach)
@@ -1739,10 +1723,6 @@ Table 15: Change from baseline in BMI (kg/m 2 ) at Week 26 - LOCF; FAS (Study JN
 |                | N a              | LS Mean (SE)     | N a           | LS Mean (SE)  | LS Mean (SE)                | CI b                        | p-value b                   |
 | Week 26 (LOCF) | 85               | -0.4 (0.15)      | 84            | -0.8 (0.15)   | -0.4 (0.20)                 | (-0.8, 0.0)                 | 0.068                       |
 | Week 52 (LOCF) | 85               | -0.5 (0.19)      | 84            | -0.7 (0.19)   | -0.2 (0.25)                 | (-0.7, 0.3)                 | 0.352                       |
-
-a: Number of subjects with non-missing value of change from baseline.
-
-b: CI (confidence interval) and p-value are based on ANCOVA model with treatment and the stratification factors (AHA background and age group) as fixed effects and baseline body mass index value as a covariate.
 
 ## Percent Change from Baseline Fasting Plasma Lipids (LOCF)
 
@@ -1811,10 +1791,6 @@ Table 17: Change from Baseline in Systolic and Diastolic Blood Pressure at Week 
 | Week 26 | 81               | -0.4 (0.83)      | 80            | -0.3 (0.83)   | 0.2 (1.08)                  | (-2.0, 2.3)                 | 0.878                       |
 | Week 52 | 75               | 0.6 (0.88)       | 74            | 0.2 (0.89)    | -0.5 (1.15)                 | (-2.7, 1.8)                 | 0.685                       |
 
-a: Number of subjects with non-missing value of change from baseline.
-
-b: CI (confidence interval) and p-value are based on ANCOVA model with treatment and the stratification factors (AHA background and age group) as fixed effects and baseline systolic or diastolic blood pressure value as a covariate.
-
 ## Change from Baseline in HbA1c at Week 12 and Week 52
 
 At week 12, canagliflozin caused a statistically significant HbA1c reduction from baseline compared to placebo, which was sustained through Week 52 - see Table 18 below, grey shaded lines.
@@ -1853,10 +1829,6 @@ Table 19: Change from Baseline in HbA1c (%) at Week 26 between canagliflozin 100
 | Week 12 | 83               | 0.12 (0.138)     | 84            | -0.52 (0.135) | -0.64 (0.187)               | (-1.01, -0.27)              | <.001                       |
 | Week 20 | 78               | 0.29 (0.161)     | 76            | -0.29 (0.151) | -0.58 (0.216)               | (-1.01, -0.15)              | 0.008                       |
 | Week 26 | 80               | 0.34 (0.184)     | 77            | -0.25 (0.173) | -0.58 (0.250)               | (-1.08, -0.09)              | 0.020                       |
-
-a : Number of subjects with non-missing value of change from baseline.
-
-b : CIs (confidence interval) and p-values are based on a mixed model for repeated measures including the fixed effects of treatment, stratification factors (i.e., background AHA and age group), visit, and treatment-by-visit interaction, as well as the fixed, continuous covariates of baseline and baseline-by-visit interaction. An unstructured covariance is used to model the within-patient errors.
 
 Comparison of canagliflozin (100 mg with no dose increase after week12) to placebo is made by using the weights in the analysis as follows: All subjects start with a weight of 1. After Week 12, subjects who are re-randomized to continue canagliflozin 100 mg will have a weight of 2. The subjects who are re-randomized to up-titrate to canagliflozin 300 mg will have a weight of 0.
 
@@ -2034,10 +2006,6 @@ Table 25: Analysis of the primary efficacy endpoint - change from baseline in Hb
 |                | N a              | LS Mean (SE)     | N a           | LS Mean (SE)  | LS Mean (SE)                | CI b                        | p-value b                   |
 | Week 26 (LOCF) | 85               | 0.42 (0.178)     | 84            | -0.37 (0.178) | -0.79 (0.233)               | (-1.25, -0.33)              | <0.001                      |
 
-a: Number of subjects with non-missing value of change from baseline.
-
-b: CI (confidence interval) and p-value are based on ANCOVA model with treatment and the stratification factors (AHA background and age group) as fixed effects and baseline HbA1c value as a covariate.
-
 ## Supportive Analyses of the Primary Efficacy Endpoint
 
 ## Re-randomization Test
@@ -2053,12 +2021,6 @@ Table 26: Change from Baseline in HbA1c (%) at Week 26 by Using Re-Randomization
 | Re-randomization Test b                   | Re-randomization Test b | Re-randomization Test b | Re-randomization Test b | Re-randomization Test b | Re-randomization Test b     | Re-randomization Test b     | Re-randomization Test b     |
 | Number of iterations                      | 1000                    | 1000                    | 1000                    | 1000                    | 1000                        | 1000                        | 1000                        |
 | p-values based on re-randomization test c | 0.001                   | 0.001                   | 0.001                   | 0.001                   | 0.001                       | 0.001                       | 0.001                       |
-
-a: CIs and p-values are based on a mixed model for repeated measures including the fixed effects of treatment, stratification factors (i.e., background AHA and age group), visit, and treatment-by-visit interaction, as well as the fixed, continuous covariates of baseline and baseline-by-visit interaction. An unstructured covariance was used to model the within-patient errors.
-
-b: The re-randomization test would fix the observed HbA1c data, regenerate treatment assignments for the entire study using the same minimization algorithm employed in the study and compute the test statistics corresponding to the primary efficacy comparison using MMRM method.
-
-c: The p-value for the primary efficacy comparison is defined as the proportion of re-randomized studies whose test statistic (difference in LS means) for that comparison is at least as extreme as that of the test statistic based on the original treatment assignment.
 
 ## 2.5.1. Discussion on clinical efficacy
 
@@ -2338,14 +2300,6 @@ Table 6 shows the number of participants with treatment-emergent hypoglycemia th
 | >=3 episodes                                      | 4 (4.6%)         | 6 (9.0%)        | 0               | 6 (7.1%)          |
 | Event rate per subject-year exposure              | 1.24             | 0.98            | 0.07            | 0.8               |
 
-Note: Count (%o) is based on Number of Subjects, Not Number of Episodes.
-
-A subject may be counted in each of the 3 glucose categories listed below;
-
-*Subjects with any treatment-emergent biochemically documented hypoglycemia episodes;
-
-Results of LOW is included in all the 3 glucose categories (i.e., ≤ 70, &lt;56, and/or &lt;36 mg/dL).
-
 Glucose data could be reported in either mg/dL or mmol/L units. No conversion between the 2 units was made. The comparison between the reported glucose values and the cutoffs was based on the units in which the glucose values were reported.
 
 The number of hypoglycemic episodes per participant prior to rescue medications were comparable between participants receiving placebo and those receiving canagliflozin.
@@ -2606,10 +2560,6 @@ Table 1: Dose adjustment recommendations in adults and children aged 10years and
 | ≥60                                      | Initiate with 100 mg. In patients tolerating 100 mg and requiring additional glycaemic control, the dose can be increased to 300 mg. |
 | 30 to < 60b                              | Use 100 mg.                                                                                                                          |
 | <30b,c                                   | Continue 100 mg for patients already taking Invokanad. Invokana should not be initiated.                                             |
-
-a See sections 4.4,4.8,5.1, and 5.2
-
-b If further glycaemic control is needed, the addition of other anti hyperglycaemic agents should be considered
 
 - With urinary albumin/creatinine ratio &gt; 300 mg/g
 

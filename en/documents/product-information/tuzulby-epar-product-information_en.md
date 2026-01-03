@@ -4,8 +4,8 @@ document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tuzulby-epar-product-information_en.pdf
 document_name: tuzulby-epar-product-information_en.pdf
 version: success
-processing_time: 8.2281318
-conversion_datetime: 2025-12-26 19:21:12.254504
+processing_time: 7.6051712
+conversion_datetime: 2026-01-03 13:02:26.237271
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

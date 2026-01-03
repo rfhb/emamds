@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 11:20:27
+document_datetime: 2025-12-18 16:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/puregon.html
 document_name: puregon.html
 version: success
-processing_time: 0.1141293
-conversion_datetime: 2025-12-31 01:46:37.728675
+processing_time: 0.1143781
+conversion_datetime: 2026-01-03 12:40:27.373932
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -108,7 +108,7 @@ English (EN) (44.84 KB - PDF)
 
 [View](/en/documents/overview/puregon-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-582)
+[Other languages (21)](#file-language-dropdown-959)
 
 български (BG) (169.81 KB - PDF)
 
@@ -374,7 +374,7 @@ English (EN) (285.81 KB - PDF)
 
 [View](/en/documents/product-information/puregon-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-416)
+[Other languages (24)](#file-language-dropdown-558)
 
 български (BG) (403.31 KB - PDF)
 
@@ -690,7 +690,7 @@ English (EN) (55.18 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/puregon-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-300)
+[Other languages (24)](#file-language-dropdown-439)
 
 български (BG) (44.99 KB - PDF)
 

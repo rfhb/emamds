@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 12:01:44
+document_datetime: 2025-12-17 16:46:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ziihera.html
 document_name: ziihera.html
 version: success
-processing_time: 0.1068658
-conversion_datetime: 2025-12-30 02:26:49.214853
+processing_time: 0.1076894
+conversion_datetime: 2026-01-03 12:56:16.857438
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -106,7 +106,7 @@ English (EN) (120.88 KB - PDF)
 
 [View](/en/documents/overview/ziihera-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-399)
+[Other languages (22)](#file-language-dropdown-759)
 
 български (BG) (145.15 KB - PDF)
 
@@ -304,7 +304,7 @@ English (EN) (462.47 KB - PDF)
 
 [View](/en/documents/product-information/ziihera-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-396)
+[Other languages (24)](#file-language-dropdown-2)
 
 български (BG) (1.02 MB - PDF)
 
@@ -618,7 +618,7 @@ English (EN) (60.14 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ziihera-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-453)
+[Other languages (24)](#file-language-dropdown-22)
 
 български (BG) (49.35 KB - PDF)
 

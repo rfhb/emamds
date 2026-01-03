@@ -4,13 +4,13 @@ document_pages: 94
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/erelzi-epar-product-information_en.pdf
 document_name: erelzi-epar-product-information_en.pdf
 version: success
-processing_time: 18.5242006
-conversion_datetime: 2025-12-23 00:53:59.726227
+processing_time: 19.1560928
+conversion_datetime: 2026-01-03 12:38:47.754026
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -401,8 +401,6 @@ Within the system organ classes, adverse reactions are listed under headings of 
 | Renal and urinary disorders                          |                                                                                             |                            |                                                                                                                                | Glomerulonephri tis                                                                                                              |                            |                                                       |
 | General disorders and administration site conditions | Injection site reactions (including bleeding, bruising, erythema, itching, pain, swelling)* | Pyrexia                    |                                                                                                                                |                                                                                                                                  |                            |                                                       |
 
-*see Description of selected adverse reactions, below.
-
 Description of selected adverse reactions
 
 <div style=\"page-break-after: always\"></div>
@@ -554,12 +552,6 @@ Patients in the etanercept in combination with methotrexate therapy group had si
 | HAQ             | Baseline         | 1.7                      | 1.7                    | 1.8                                   |
 | HAQ             | Week 52          | 1.1                      | 1.0                    | 0.8 †, ϕ                              |
 
-a: Patients who did not complete 12 months in the study were considered to be non-responders.
-
-b: Values for Disease Activity Score (DAS) are means.
-
-c: Remission is defined as DAS &lt; 1.6.
-
 Pairwise comparison p-values: † = p &lt; 0.05 for comparisons of etanercept + methotrexate vs. methotrexate and ϕ = p &lt; 0.05 for comparisons of etanercept + methotrexate vs. etanercept.
 
 Radiographic progression at 12 months was significantly less in the etanercept group than in the methotrexate group, while the combination was significantly better than either monotherapy at slowing radiographic progression (see figure below).
@@ -601,12 +593,6 @@ Responses of patients with psoriatic arthritis in a placebo-controlled trial
 | ACR 70                       | Month 6               | 1                     | 9 c                   |
 | PsARC                        | Month 3               | 31                    | 72 b                  |
 |                              | Month 6               | 23                    | 70 b                  |
-
-a: 25 mg etanercept SC twice weekly
-
-b: p &lt; 0.001, etanercept vs. placebo
-
-c: p &lt; 0.01, etanercept vs. placebo
 
 Among patients with psoriatic arthritis who received etanercept, the clinical responses were apparent at the time of the first visit (4 weeks) and were maintained through 6 months of therapy. Etanercept was significantly better than placebo in all measures of disease activity (p &lt; 0.001), and responses were similar with and without concomitant methotrexate therapy. Quality of life in psoriatic arthritis patients was assessed at every timepoint using the disability index of the HAQ. The disability index score was significantly improved at all timepoints in psoriatic arthritis patients treated with etanercept, relative to placebo (p &lt; 0.001).
 
@@ -685,14 +671,6 @@ Compared to placebo, treatment with etanercept resulted in statistically signifi
 | ASAS 5/6                                     |                      10.4 | 33.0 a                       |
 | ASAS partial remission                       |                      11.9 | 24.8 c                       |
 | BASDAI*** 50                                 |                      23.9 | 43.8 b                       |
-
-*Some patients did not provide complete data for each endpoint
-
-**ASAS = Assessments in Spondyloarthritis International Society
-
-***Bath Ankylosing Spondylitis Disease Activity Index
-
-a: p &lt; 0.001, b:&lt; 0.01 and c:&lt; 0.05, respectively between etanercept and placebo
 
 At week 12, there was a statistically significant improvement in the SPARCC (Spondyloarthritis Research Consortium of Canada) score for the sacroiliac joint (SIJ) as measured by MRI for patients receiving etanercept. Adjusted mean change from baseline was 3.8 for etanercept treated (n = 95) versus 0.8 for placebo treated (n = 105) patients (p &lt; 0.001). At week 104, the mean change from baseline in the SPARCC score measured on MRI for all etanercept-treated subjects was 4.64 for the SIJ (n = 153) and 1.40 the spine (n = 154).
 

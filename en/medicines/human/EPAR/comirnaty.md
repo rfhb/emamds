@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 07:05:11
+document_datetime: 2025-12-19 11:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/comirnaty.html
 document_name: comirnaty.html
 version: success
-processing_time: 0.3917678
-conversion_datetime: 2025-12-29 23:48:40.532605
+processing_time: 0.3497049
+conversion_datetime: 2026-01-03 12:32:46.572957
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -229,7 +229,7 @@ English (EN) (165.99 KB - PDF)
 
 [View](/en/documents/overview/comirnaty-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-141)
+[Other languages (22)](#file-language-dropdown-593)
 
 български (BG) (204.05 KB - PDF)
 
@@ -517,7 +517,7 @@ English (EN) (2.41 MB - PDF)
 
 [View](/en/documents/product-information/comirnaty-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-759)
+[Other languages (24)](#file-language-dropdown-575)
 
 български (BG) (2.92 MB - PDF)
 
@@ -833,7 +833,7 @@ English (EN) (43.71 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/comirnaty-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-687)
+[Other languages (24)](#file-language-dropdown-417)
 
 български (BG) (85.87 KB - PDF)
 

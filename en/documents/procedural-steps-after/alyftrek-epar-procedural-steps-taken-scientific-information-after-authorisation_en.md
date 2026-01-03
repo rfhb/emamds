@@ -4,8 +4,8 @@ document_pages: 2
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/alyftrek-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: alyftrek-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.2536603
-conversion_datetime: 2025-12-25 06:08:53.991209
+processing_time: 1.2937583
+conversion_datetime: 2026-01-03 12:32:24.388951
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

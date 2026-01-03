@@ -1,34 +1,30 @@
 ---
-document_datetime: 2024-12-11 10:51:30
-document_pages: 2
+document_datetime: 2025-12-19 08:23:15
+document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/altuvoct-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: altuvoct-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.3190733
-conversion_datetime: 2025-12-18 22:24:23.626431
+processing_time: 1.6921387
+conversion_datetime: 2026-01-03 12:57:41.254111
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ALTUVOCT
 
-Procedural steps taken and scientific information after the authorisation
+Procedural steps taken and scientific information after the authorisation*
 
-| Application number   | Scope                                                                                                                                                                                                                                  | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
-|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
-| IAIN/0005            | B.II.b.2.c.1 - Change to importer, batch release arrangements and quality control testing of the FP - Replacement or addition of a manufacturer responsible for importation and/or batch release - Not including batch control/testing | 09/12/2024                          |                                             | Annex II and PL                  |           |
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-1 Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
-
-2 A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
-
-3 SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
+| Application number         | Scope   | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------------|---------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| PSUR / EMA/PSUR/0000274459 | - -     | 16/10/2025                          | 12/12/2025                                  | SmPC and PL                      | Variation |
 
 <!-- image -->
 
@@ -36,7 +32,13 @@ Procedural steps taken and scientific information after the authorisation
 
 <div style=\"page-break-after: always\"></div>
 
-| IAIN/0003/G   | This was an application for a group of variations. B.II.f.1.e - Stability of FP - Change to an approved stability protocol A.5.a - Administrative change - Change in the name and/or address of a manufacturer/importer responsible for batch release   | 29/10/2024   | n/a   |
-|---------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------|
-| IB/0002       | B.II.d.1.c - Change in the specification parameters and/or limits of the finished product - Addition of a new specification parameter to the specification with its corresponding test method                                                           | 21/10/2024   | n/a   |
-| IB/0001       | B.II.g.5.c - Implementation of changes foreseen in an approved change management protocol - For a biological/immunological medicinal product                                                                                                            | 29/08/2024   | n/a   |
+|                                       | In view of available data on hypersensitivity reactions from spontaneous reports, including in some cases a close temporal relationship, a positive de-challenge and/or re-challenge and in view of a plausible mechanism of action, the PRAC considers a causal relationship between efanesoctocog alfa and hypersensitivity reactions including anaphylaxys is at least a reasonable possibility. The PRAC concluded that the product information of products containing efanesoctocog alfa should be amended accordingly.   |            |     |
+|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|
+| Variation type II / EMA/VR/0000269780 | B.II.g) Design Space and post approval change management protocol - B.II.g.2 Introduction of a post approval change management protocol related to the finished product - Accepted                                                                                                                                                                                                                                                                                                                                             | 24/07/2025 | N/A |
+| Variation type IB / EMA/VR/0000269881 | B.I.a.1 Change in the manufacturer of a starting material/reagent/intermediate used in the manufacturing process of the active substance or change in the manufacturer (including where relevant quality control testing sites) of the active substance, where no Ph. Eur. Certificate of Suitability is part of the approved dossier - B.I.a.1.z Other variation - Accepted                                                                                                                                                   | 30/06/2025 | N/A |
+
+<div style=\"page-break-after: always\"></div>
+
+| Variation type IA_IN / EMA/VR/0000261918   | This was an application for a group of variations. B.I.a.4 Change to in-process tests or limits applied during the manufacture of the active substance - B.I.a.4.z Other variation - Accepted B.IV.1.a Addition or replacement of a device which is not an integrated part of the primary packaging - B.IV.1.a.1 Device with CE marking - Accepted B.II.b.1 Replacement or addition of a manufacturing site for part or all of the manufacturing process of the finished product - B.II.b.1.a Secondary packaging   | 08/04/2025   | N/A   |
+|--------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------|
+| Variation type IB / EMA/VR/0000255925      | B.II. FINISHED PRODUCT - B.II.z Other variation - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                          | 18/03/2025   | N/A   |

@@ -4,13 +4,13 @@ document_pages: 60
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/remicade-epar-product-information_en.pdf
 document_name: remicade-epar-product-information_en.pdf
 version: success
-processing_time: 34.469671
-conversion_datetime: 2025-12-19 21:35:16.214221
+processing_time: 35.2975243
+conversion_datetime: 2026-01-03 12:22:05.937975
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -1018,12 +1018,6 @@ Table 9 Effects on ACR and PASI in IMPACT and IMPACT 2
 | N                               |                   |                      |                      | 87                | 83                   | 82                   |
 | PASI 75 response**              |                   |                      |                      | 1 (1%)            | 50 (60%)             | 40 (48.8%)           |
 
-* ITT-analysis where subjects with missing data were included as non-responders.
-
-a Week 98 data for IMPACT includes combined placebo crossover and infliximab patients who entered the open-label extension.
-
-b Based on patients with PASI ≥ 2.5 at baseline for IMPACT, and patients with ≥ 3% BSA psoriasis skin involvement at baseline in IMPACT 2.
-
 ** PASI 75 response for IMPACT not included due to low N; p &lt; 0.001 for infliximab vs. placebo at week 24 for IMPACT 2.
 
 In IMPACT and IMPACT 2, clinical responses were observed as early as week 2 and were maintained through week 98 and week 54, respectively. Efficacy has been demonstrated with or without concomitant use of methotrexate. Decreases in parameters of peripheral activity characteristic of
@@ -1079,12 +1073,6 @@ Table 10 Summary of PASI response, PGA response and percent of patients with all
 | Week 10                                      | 1/65 (1.5%)   | 16/235 (6.8%)    |
 | Week 24                                      | 3/65 (4.6%)   | 58/223 (26.0%) a |
 | Week 50                                      | 27/64 (42.2%) | 92/226 (40.7%)   |
-
-a p &lt; 0.001, for each infliximab treatment group vs. control.
-
-b n = 292.
-
-c Analysis was based on subjects with nail psoriasis at baseline (81.8% of subjects). Mean baseline NAPSI scores were 4.6 and 4.3 in infliximab and placebo group.
 
 Significant improvements from baseline were demonstrated in DLQI (p &lt; 0.001) and the physical and mental component scores of the SF 36 (p &lt; 0.001 for each component comparison).
 

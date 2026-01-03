@@ -4,8 +4,8 @@ document_pages: 96
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/afqlir-epar-product-information_en.pdf
 document_name: afqlir-epar-product-information_en.pdf
 version: success
-processing_time: 29.2089737
-conversion_datetime: 2025-12-28 11:38:40.440059
+processing_time: 29.7686736
+conversion_datetime: 2026-01-03 12:42:16.895725
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

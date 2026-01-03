@@ -4,13 +4,13 @@ document_pages: 58
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/altuvoct-epar-product-information_en.pdf
 document_name: altuvoct-epar-product-information_en.pdf
 version: success
-processing_time: 15.3182977
-conversion_datetime: 2025-12-22 18:04:12.920698
+processing_time: 15.3854395
+conversion_datetime: 2026-01-03 13:11:07.437397
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -264,14 +264,6 @@ Table 2: Adverse reactions reported for ALTUVOCT
 | General disorders and administration site conditions | Pyrexia                                    | Common               |
 | General disorders and administration site conditions | Injection site reaction 5                  | Uncommon             |
 
-1 Reported in post-marketing setting.
-
-2 Headache, including migraine.
-
-3 Rash, including rash maculo papular.
-
-4 Urticaria, including urticaria papular.
-
 <div style=\"page-break-after: always\"></div>
 
 5 Injection site reaction, including injection site haematoma and injection site dermatitis.
@@ -337,14 +329,6 @@ Table 3: Summary of Annualized bleeding rate (ABR) with ALTUVOCT prophylaxis, AL
 | Median ABR (IQR)            | 0.00 (0.00; 1.02)     | 18.42 (10.80; 23.90) | 0.00 (0.00; 0.00)     |
 | Subjects with zero bleeds,% | 72.2                  | 0                    | 80.8                  |
 
-1 All analyses of bleeding endpoints are based on treated bleeds.
-
-2 Subjects assigned to receive ALTUVOCT prophylaxis for 52 weeks.
-
-3  Subjects assigned to receive ALTUVOCT for 26 weeks.
-
-4 Based on negative binomial model.
-
 <div style=\"page-break-after: always\"></div>
 
 ABR = annualized bleed rate; CI = confidence interval; IQR = interquartile range, 25th percentile to 75th percentile.
@@ -361,12 +345,6 @@ Table 4: Intra-Subject comparison of Annualized bleeding rate (ABR) with ALTUVOC
 | Reduction in ABR, %(95% CI) p-value    | 77 (58; 87) <0.0001                                      | 77 (58; 87) <0.0001                                             |
 | Subjects with zero bleeds,%            | 64.1                                                     | 42.3                                                            |
 | Median ABR (IQR)                       | 0.00 (0.00; 1.04)                                        | 1.06 (0.00; 3.74)                                               |
-
-1 Based on negative binomial model.
-
-2 Prospective observational study (OBS16221).
-
-ABR = annualized bleed rate; CI = confidence interval; IQR = interquartile range, 25th percentile to 75th percentile.
 
 An intra-subject comparison (N = 26) of ABR during the first 26 weeks of on-demand ALTUVOCT treatment versus ABR in the following 26 weeks on weekly ALTUVOCT prophylaxis (Arm B) showed a clinically important bleeding reduction of 97% for the weekly prophylactic regimen and an increase of subjects with zero bleeds from 0 to 76.9%.
 
@@ -458,12 +436,6 @@ Table 7: Pharmacokinetic parameters at steady state of ALTUVOCT by age (one-stag
 | Time to 20 IU/dL, h                   | 109 (14.0) b         | 127 (14.5) b         | 130 (15.7) c                   | 150 (27.7) c                   |
 | Time to 10 IU/dL, h                   | 150 (18.2) b         | 173 (17.1) b         | 179 (20.2) c                   | 201 (35.7) c                   |
 | Trough, IU/dL                         | 10.9 (19.7) (N = 36) | 16.5 (23.7)          | 9.23 (4.77) (N = 22)           | 18.0 (16.6) (N = 123)          |
-
-a Steady state peak, trough and incremental recovery were computed using available measurements at week 52/end of study PK sampling visit.
-
-b Time to factor VIII activity was predicted using a population PK model for paediatric patients.
-
-c Time to factor VIII activity was predicted using a population PK model for adult patients.
 
 Peak = 15 min post dose at steady state, Trough = predose factor VIII activity value at steady state, SD = standard deviation
 

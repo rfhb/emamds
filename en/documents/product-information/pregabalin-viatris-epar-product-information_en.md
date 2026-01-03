@@ -4,8 +4,8 @@ document_pages: 78
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/pregabalin-viatris-epar-product-information_en.pdf
 document_name: pregabalin-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 22.5138195
-conversion_datetime: 2025-12-28 17:37:06.214158
+processing_time: 23.4536164
+conversion_datetime: 2026-01-03 12:35:41.979071
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

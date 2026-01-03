@@ -4,13 +4,13 @@ document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/assessment-report/macitentan-accordpharma-epar-public-assessment-report_en.pdf
 document_name: macitentan-accordpharma-epar-public-assessment-report_en.pdf
 version: success
-processing_time: 13.6200997
-conversion_datetime: 2025-12-22 16:27:16.962513
+processing_time: 13.3791318
+conversion_datetime: 2026-01-03 12:55:11.827352
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)

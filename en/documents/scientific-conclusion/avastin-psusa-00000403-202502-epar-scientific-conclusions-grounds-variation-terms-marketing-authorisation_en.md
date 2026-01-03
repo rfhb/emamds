@@ -4,8 +4,8 @@ document_pages: 2
 document_pathfilename: www.ema.europa.eu/en/documents/scientific-conclusion/avastin-psusa-00000403-202502-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf
 document_name: avastin-psusa-00000403-202502-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf
 version: success
-processing_time: 0.787427
-conversion_datetime: 2025-12-31 01:29:18.385882
+processing_time: 0.9459251
+conversion_datetime: 2026-01-03 12:19:15.194329
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

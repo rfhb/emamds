@@ -4,8 +4,8 @@ document_pages: 24
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/yargesa-epar-product-information_en.pdf
 document_name: yargesa-epar-product-information_en.pdf
 version: success
-processing_time: 5.4325262
-conversion_datetime: 2025-12-30 08:01:39.290125
+processing_time: 5.5816689
+conversion_datetime: 2026-01-03 12:16:19.203709
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

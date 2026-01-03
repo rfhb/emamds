@@ -4,8 +4,8 @@ document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/leflunomide-ratiopharm-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: leflunomide-ratiopharm-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.5480023
-conversion_datetime: 2025-12-28 17:26:04.309095
+processing_time: 1.5683862
+conversion_datetime: 2026-01-03 13:20:33.374223
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

@@ -4,8 +4,8 @@ document_pages: 61
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/opsumit-epar-product-information_en.pdf
 document_name: opsumit-epar-product-information_en.pdf
 version: success
-processing_time: 12.0024597
-conversion_datetime: 2025-12-28 03:13:40.475933
+processing_time: 12.3155579
+conversion_datetime: 2026-01-03 13:14:16.028926
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

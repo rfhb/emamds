@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 11:21:19
+document_datetime: 2025-12-17 15:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tasigna.html
 document_name: tasigna.html
 version: success
-processing_time: 0.1176766
-conversion_datetime: 2025-12-30 09:40:41.599383
+processing_time: 0.1257741
+conversion_datetime: 2026-01-03 13:21:29.435906
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -132,7 +132,7 @@ English (EN) (781.53 KB - PDF)
 
 [View](/en/documents/product-information/tasigna-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-587)
+[Other languages (24)](#file-language-dropdown-128)
 
 български (BG) (954.97 KB - PDF)
 
@@ -448,7 +448,7 @@ English (EN) (90.54 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tasigna-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-502)
+[Other languages (24)](#file-language-dropdown-962)
 
 български (BG) (103.87 KB - PDF)
 
@@ -748,7 +748,7 @@ English (EN) (15.82 KB - PDF)
 
 [View](/en/documents/conditions-member-states/tasigna-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-704)
+[Other languages (21)](#file-language-dropdown-738)
 
 български (BG) (93.9 KB - PDF)
 

@@ -4,8 +4,8 @@ document_pages: 5
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/replagal-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: replagal-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 3.270678
-conversion_datetime: 2025-12-27 14:02:19.418088
+processing_time: 3.1811023
+conversion_datetime: 2026-01-03 12:23:29.311211
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

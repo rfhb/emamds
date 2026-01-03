@@ -4,8 +4,8 @@ document_pages: 26
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/attrogy-epar-product-information_en.pdf
 document_name: attrogy-epar-product-information_en.pdf
 version: success
-processing_time: 5.1738162
-conversion_datetime: 2025-12-30 08:05:21.438394
+processing_time: 4.8862828
+conversion_datetime: 2026-01-03 12:32:37.52316
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

@@ -4,13 +4,13 @@ document_pages: 49
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/invokana-epar-product-information_en.pdf
 document_name: invokana-epar-product-information_en.pdf
 version: success
-processing_time: 18.5864622
-conversion_datetime: 2025-12-23 22:08:18.906498
+processing_time: 19.1601821
+conversion_datetime: 2026-01-03 13:11:44.12278
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -96,14 +96,6 @@ Table 1: Dose adjustment recommendations in adults and children aged 10 years an
 | ≥ 60                                      | Initiate with 100 mg. In patients tolerating 100 mg and requiring additional glycaemic control, the dose can be increased to 300 mg. |
 | 30 to < 60 b                              | Use 100 mg.                                                                                                                          |
 | < 30 b, c                                 | Continue 100 mg for patients already taking Invokana d . Invokana should not be initiated.                                           |
-
-a See sections 4.4, 4.8, 5.1, and 5.2.
-
-b If further glycaemic control is needed, the addition of other anti hyperglycaemic agents should be considered
-
-c With urinary albumin/creatinine ratio ˃ 300 mg/g
-
-d Continue dosing until dialysis or renal transplantation.
 
 ## Hepatic impairment
 
@@ -801,8 +793,6 @@ Figure 2: Treatment effect for the primary composite endpoint and its components
 |                                                                                                                                   |                                                        | 0.50                                                        | 1.00 2.00                          |
 |                                                                                                                                   |                                                        |                                                             | Favors Favors CanagliflozinPlacebo |
 
-1 P value for superiority (2-sided) = 0.0158.
-
 ## All-cause mortality in the CANVAS Program
 
 In the combined canagliflozin group, the HR for all-cause mortality versus placebo was 0.87; 95% CI (0.74, 1.01).
@@ -867,8 +857,6 @@ Figure 4: Treatment effect for the primary composite endpoint and its components
 |                                                                                                   |                 |                                  |                 |                                  | 0.50 1.00             |                       | 4.00                  |         |
 |                                                                                                   |                 |                                  |                 | 0.25                             |                       | 2.00                  |                       |         |
 |                                                                                                   |                 |                                  |                 | FavorsCanagliflozin              |                       | nFavorsPlacebo        |                       |         |
-
-Cl,confidenceinterval;ESKD,end-stagekidney disease;CV,cardiovascular;NS,not significant;HHF,hospitalization forheartfailure;Ml,myocardial infarction.
 
 Testingof theprimary and thesecondary efficacyendpointswasperformed using a 2-sided alphalevel of 0.022and 0.038,respectively.
 

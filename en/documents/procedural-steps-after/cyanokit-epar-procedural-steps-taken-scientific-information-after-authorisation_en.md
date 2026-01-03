@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/cyanokit-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: cyanokit-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 0.9478993
-conversion_datetime: 2025-12-24 16:24:14.729993
+processing_time: 0.9706978
+conversion_datetime: 2026-01-03 12:46:12.382923
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

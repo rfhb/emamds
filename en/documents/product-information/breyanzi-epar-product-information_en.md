@@ -4,8 +4,8 @@ document_pages: 72
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/breyanzi-epar-product-information_en.pdf
 document_name: breyanzi-epar-product-information_en.pdf
 version: success
-processing_time: 21.3267521
-conversion_datetime: 2025-12-31 04:49:03.308132
+processing_time: 21.8133305
+conversion_datetime: 2026-01-03 12:33:36.783327
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

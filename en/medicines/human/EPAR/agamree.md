@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 11:53:00
+document_datetime: 2025-12-16 10:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/agamree.html
 document_name: agamree.html
 version: success
-processing_time: 0.1211658
-conversion_datetime: 2025-12-31 01:35:04.849291
+processing_time: 0.1121532
+conversion_datetime: 2026-01-03 12:19:24.065939
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

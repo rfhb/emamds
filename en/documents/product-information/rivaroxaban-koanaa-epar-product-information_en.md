@@ -4,13 +4,13 @@ document_pages: 123
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rivaroxaban-koanaa-epar-product-information_en.pdf
 document_name: rivaroxaban-koanaa-epar-product-information_en.pdf
 version: success
-processing_time: 52.2698636
-conversion_datetime: 2025-12-19 11:53:57.480201
+processing_time: 51.0829915
+conversion_datetime: 2026-01-03 13:04:31.466532
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -365,10 +365,6 @@ Table 1: Number of patients studied, total daily dose and maximum treatment dura
 | Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 18,244               | 5 mg co-administered with ASAor 10 mgalone                                                                                          | 47 months                    |
 | Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 3,256**              | 5 mgco-administered with ASA                                                                                                        | 42 months                    |
 
-* Patients exposed to at least one dose of rivaroxaban
-
-** From the VOYAGER PAD study
-
 The most commonly reported adverse reactions in patients receiving rivaroxaban were bleedings (see section 4.4. and 'Description of selected adverse reactions' below) (Table 2). The most commonly reported bleedings were epistaxis (4.5 %) and gastrointestinal tract haemorrhage (3.8 %).
 
 Table 2: Bleeding* and anaemia events rates in patients exposed to rivaroxaban across the completed adult and paediatric phase III studies
@@ -388,14 +384,6 @@ Table 2: Bleeding* and anaemia events rates in patients exposed to rivaroxaban a
 | Prevention of atherothrombotic events in patients after an ACS                                                                                                     | 22 per 100 patient years     | 1.4 per 100 patient years       |
 | Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 6.7 per 100 patient years    | 0.15 per 100 patient years**    |
 | Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 8.38 per 100 patient years # | 0.74 per 100 patient years*** # |
-
-* For all rivaroxaban studies all bleeding events are collected, reported and adjudicated.
-
-** In the COMPASS study, there is a low anaemia incidence as a selective approach to adverse event collection was applied
-
-*** A selective approach to adverse event collection was applied
-
-# From the VOYAGER PAD study
 
 ## Tabulated list of adverse reactions
 
@@ -657,10 +645,6 @@ Table 8: Efficacy and safety results from phase III Einstein Extension
 | Major bleeding events                       | 4 (0.7%)                                                                                | 0 (0.0%)                                                                                |
 | Clinically relevant non-major bleeding      | 32 (5.4%)                                                                               | 7 (1.2%)                                                                                |
 
-a) Rivaroxaban 20 mg once daily
-
-* p &lt; 0.0001 (superiority), HR: 0.185 (0.087 - 0.393)
-
 In the Einstein Choice study (Table 9) rivaroxaban 20 mg and 10 mg were both superior to 100 mg acetylsalicylic acid for the primary efficacy outcome. The principal safety outcome (major bleeding events) was similar for patients treated with rivaroxaban 20 mg and 10 mg once daily compared to 100 mg acetylsalicylic acid.
 
 Table 9: Efficacy and safety results from phase III Einstein Choice
@@ -677,12 +661,6 @@ Table 9: Efficacy and safety results from phase III Einstein Choice
 | Major bleeding events                                              | 6 (0.5%)                                                                  | 5 (0.4%)                                                                  | 3 (0.3%)                                                                  |
 | Clinically relevant non-major bleeding                             | 30 (2.7)                                                                  | 22 (2.0)                                                                  | 20 (1.8)                                                                  |
 | Symptomatic recurrentVTE or major bleeding (net clinical benefit)  | 23 (2.1%) +                                                               | 17 (1.5%) ++                                                              | 53 (4.7%)                                                                 |
-
-* p&lt;0.001(superiority) Rivaroxaban 20 mg od vs ASA 100 mg od; HR=0.34 (0.20-0.59)
-
-** p&lt;0.001 (superiority) Rivaroxaban 10 mg od vs ASA 100 mg od; HR=0.26 (0.14-0.47)
-
-+ Rivaroxaban 20 mg od vs ASA 100 mg od; HR=0.44 (0.27-0.71), p=0.0009 (nominal)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1235,10 +1213,6 @@ Table 1: Number of patients studied, total daily dose and maximum treatment dura
 | Prevention of atherothrombotic events in patients with CAD/PAD                                  | 18,244  | 5 mg co-administered with ASAor 10 mgalone                                                          | 47 months   |
 | Prevention of atherothrombotic events in patients with CAD/PAD                                  | 3,256** | 5 mg co-administered with ASA                                                                       | 42 months   |
 
-*Patients exposed to at least one dose of rivaroxaban
-
-**From the VOYAGER PAD study
-
 The most commonly reported adverse reactions in patients receiving rivaroxaban were bleedings (see section 4.4. and 'Description of selected adverse reactions' below) (Table 2). The most commonly reported bleedings were epistaxis (4.5 %) and gastrointestinal tract haemorrhage (3.8 %).
 
 Table 2: Bleeding* and anaemia events rates in patients exposed to rivaroxaban across the completed adult and paediatric phase III studies
@@ -1253,14 +1227,6 @@ Table 2: Bleeding* and anaemia events rates in patients exposed to rivaroxaban a
 | Prevention of atherothrombotic events in patients after an ACS                                                                                                     | 22 per 100 patient years     | 1.4 per 100 patient years       |
 | Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 6.7 per 100 patient years    | 0.15 per 100 patient years**    |
 | Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 8.38 per 100 patient years # | 0.74 per 100 patient years*** # |
-
-* For all rivaroxaban studies all bleeding events are collected, reported and adjudicated.
-
-** In the COMPASS study, there is a low anaemia incidence as a selective approach to adverse event collection was applied
-
-***A selective approach to adverse event collection was applied
-
-# From the VOYAGER PAD study
 
 ## Tabulated list of adverse reactions
 
@@ -1564,10 +1530,6 @@ Table 9: Efficacy and safety results from phase III Einstein Extension
 | Major bleeding events                       | 4 (0.7%)                                                                                | 0 (0.0%)                                                                                |
 | Clinically relevant non-major bleeding      | 32 (5.4%)                                                                               | 7 (1.2%)                                                                                |
 
-a) Rivaroxaban 20 mg once daily
-
-*p &lt; 0.0001 (superiority), HR: 0.185 (0.087 - 0.393)
-
 In the Einstein Choice study (see Table 10) rivaroxaban 20 mg and 10 mg were both superior to 100 mg acetylsalicylic acid for the primary efficacy outcome. The principal safety outcome (major bleeding events) was similar for patients treated with rivaroxaban 20 mg and 10 mg once daily compared to 100 mg acetylsalicylic acid.
 
 Table 10: Efficacy and safety results from phase III Einstein Choice
@@ -1584,12 +1546,6 @@ Table 10: Efficacy and safety results from phase III Einstein Choice
 | Major bleeding events                                              | 6 (0.5%)                                                                  | 5 (0.4%)                                                                  | 3 (0.3%)                                                                  |
 | Clinically relevant non-major bleeding                             | 30 (2.7)                                                                  | 22 (2.0)                                                                  | 20 (1.8)                                                                  |
 | Symptomatic recurrentVTE or major bleeding (net clinical benefit)  | 23 (2.1%) +                                                               | 17 (1.5%) ++                                                              | 53 (4.7%)                                                                 |
-
-*p&lt;0.001(superiority) Rivaroxaban 20 mg od vs ASA 100 mg od; HR=0.34 (0.20-0.59)
-
-** p&lt;0.001 (superiority) Rivaroxaban 10 mg od vs ASA 100 mg od; HR=0.26 (0.14-0.47)
-
-+Rivaroxaban 20 mg od vs ASA 100 mg od; HR=0.44 (0.27-0.71), p=0.0009 (nominal)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1633,8 +1589,6 @@ Table 11: Efficacy results at the end of the main treatment period
 | Normalisation on repeat imaging                                                               | 128 (38.2%, 95% CI 33.0% - 43.5%) | 43 (26.1%, 95% CI 19.8% - 33.0%) |
 | Composite: Symptomatic recurrent VTE+major bleeding (net clinical benefit)                    | 4 (1.2%, 95% CI 0.4% - 3.0%)      | 7 (4.2%, 95% CI 2.0% - 8.4%)     |
 | Fatal or non-fatal pulmonary embolism                                                         | 1 (0.3%, 95% CI 0.0% - 1.6%)      | 1 (0.6%, 95% CI 0.0% - 3.1%)     |
-
-*FAS= full analysis set, all children who were randomised
 
 Table 12: Safety results at the end of the main treatment period
 
@@ -2237,10 +2191,6 @@ Table 1: Number of patients studied, total daily dose and maximum treatment dura
 | Prevention of atherothrombotic events in patients with CAD/PAD   | 18,244   | 5 mg co-administered with ASAor 10 mgalone                                                               | 47 months |
 | Prevention of atherothrombotic events in patients with CAD/PAD   | 3,256**  | 5 mg co-administered with ASA                                                                            | 42 months |
 
-*Patients exposed to at least one dose of rivaroxaban
-
-**From the VOYAGER PAD study
-
 The most commonly reported adverse reactions in patients receiving rivaroxaban were bleedings (see section 4.4. and 'Description of selected adverse reactions' below) (Table 2). The most commonly reported bleedings were epistaxis (4.5 %) and gastrointestinal tract haemorrhage (3.8 %).
 
 Table 2: Bleeding* and anaemia events rates in patients exposed to rivaroxaban across the completed adult and paediatric phase III studies
@@ -2255,14 +2205,6 @@ Table 2: Bleeding* and anaemia events rates in patients exposed to rivaroxaban a
 | Prevention of atherothrombotic events in patients after an ACS                                                                                                     | 22 per 100 patient years     | 1.4 per 100 patient years       |
 | Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 6.7 per 100 patient years    | 0.15 per 100 patient years**    |
 | Prevention of atherothrombotic events in patients with CAD/PAD                                                                                                     | 8.38 per 100 patient years # | 0.74 per 100 patient years*** # |
-
-* For all rivaroxaban studies all bleeding events are collected, reported and adjudicated.
-
-** In the COMPASS study, there is a low anaemia incidence as a selective approach to adverse event collection was applied
-
-***A selective approach to adverse event collection was applied
-
-# From the VOYAGER PAD study
 
 ## Tabulated list of adverse reactions
 
@@ -2315,10 +2257,6 @@ Table 3: All adverse reactions reported in adult patients in phase III clinical 
 |                                                                                                                                               | Increased LDH A , increased lipase A , increased amylase A  |                                                                                              |                                                                    |                                                                                                                                 |
 | Injury, poisoning and procedural complications                                                                                                | Injury, poisoning and procedural complications              | Injury, poisoning and procedural complications                                               | Injury, poisoning and procedural complications                     | Injury, poisoning and procedural complications                                                                                  |
 | Postprocedural haemorrhage (incl. postoperative anaemia, and wound haemorrhage), contusion, wound                                             |                                                             | Vascular pseudoaneurysm C                                                                    |                                                                    |                                                                                                                                 |
-
-A: observed in prevention of VTE in adult patients undergoing elective hip or knee replacement surgery
-
-B: observed in treatment of DVT, PE and prevention of recurrence as very common in women &lt; 55 years
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2574,10 +2512,6 @@ Table 9: Efficacy and safety results from phase III Einstein Extension
 | Major bleeding events                       | 4 (0.7%)                                                                                | 0 (0.0%)                                                                                |
 | Clinically relevant non-major bleeding      | 32 (5.4%)                                                                               | 7 (1.2%)                                                                                |
 
-a) Rivaroxaban 20 mg once daily
-
-*p &lt; 0.0001 (superiority), HR: 0.185 (0.087 - 0.393)
-
 In the Einstein Choice study (see Table 10) rivaroxaban 20 mg and 10 mg were both superior to 100 mg acetylsalicylic acid for the primary efficacy outcome. The principal safety outcome (major bleeding events) was similar for patients treated with rivaroxaban 20 mg and 10 mg once daily compared to 100 mg acetylsalicylic acid.
 
 Table 10: Efficacy and safety results from phase III Einstein Choice
@@ -2594,14 +2528,6 @@ Table 10: Efficacy and safety results from phase III Einstein Choice
 | Major bleeding events                                              | 6 (0.5%)                                                                  | 5 (0.4%)                                                                  | 3 (0.3%)                                                                  |
 | Clinically relevant non-major bleeding                             | 30 (2.7)                                                                  | 22 (2.0)                                                                  | 20 (1.8)                                                                  |
 | Symptomatic recurrentVTE or major bleeding (net clinical benefit)  | 23 (2.1%) +                                                               | 17 (1.5%) ++                                                              | 53 (4.7%)                                                                 |
-
-*p&lt;0.001(superiority) Rivaroxaban 20 mg od vs ASA 100 mg od; HR=0.34 (0.20-0.59)
-
-** p&lt;0.001 (superiority) Rivaroxaban 10 mg od vs ASA 100 mg od; HR=0.26 (0.14-0.47)
-
-+Rivaroxaban 20 mg od vs ASA 100 mg od; HR=0.44 (0.27-0.71), p=0.0009 (nominal)
-
-++ Rivaroxaban 10 mg od vs ASA 100 mg od; HR=0.32 (0.18-0.55), p&lt;0.0001 (nominal)
 
 In addition to the phase III EINSTEIN programme, a prospective, non-interventional, open-label cohort study (XALIA) with central outcome adjudication including recurrent VTE, major bleeding and
 
@@ -2644,8 +2570,6 @@ Table 11: Efficacy results at the end of the main treatment period
 | Composite: Symptomatic recurrent VTE+major bleeding (net clinical benefit)                    | 4 (1.2%, 95% CI 0.4% - 3.0%)      | 7 (4.2%, 95% CI 2.0% - 8.4%)     |
 | Fatal or non-fatal pulmonary embolism                                                         | 1 (0.3%, 95% CI 0.0% - 1.6%)      | 1 (0.6%, 95% CI 0.0% - 3.1%)     |
 
-*FAS= full analysis set, all children who were randomised
-
 Table 12: Safety results at the end of the main treatment period
 
 |                                                           | Rivaroxaban N=329*            | Comparator N=162*            |
@@ -2653,8 +2577,6 @@ Table 12: Safety results at the end of the main treatment period
 | Composite: Major bleeding + CRNMB(primary safety outcome) | 10 (3.0%, 95% CI 1.6% - 5.5%) | 3 (1.9%, 95% CI 0.5% - 5.3%) |
 | Major bleeding                                            | 0 (0.0%, 95% CI 0.0% - 1.1%)  | 2 (1.2%, 95% CI 0.2% - 4.3%) |
 | Any treatment-emergent bleedings                          | 119 (36.2%)                   | 45 (27.8%)                   |
-
-*SAF= safety analysis set, all children who were randomised and received at least 1 dose of study medicinal product.
 
 <div style=\"page-break-after: always\"></div>
 

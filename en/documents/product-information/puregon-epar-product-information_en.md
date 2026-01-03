@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-10-30 17:17:54
-document_pages: 42
+document_datetime: 2025-12-18 15:22:36
+document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/puregon-epar-product-information_en.pdf
 document_name: puregon-epar-product-information_en.pdf
 version: success
-processing_time: 8.1435262
-conversion_datetime: 2025-12-21 16:07:40.613914
+processing_time: 7.3181793
+conversion_datetime: 2026-01-03 12:49:44.643927
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,13 +24,9 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Puregon 150 IU/0.18 mL solution for injection Puregon 300 IU/0.36 mL solution for injection Puregon 600 IU/0.72 mL solution for injection Puregon 900 IU/1.08 mL solution for injection
+Puregon 300 IU/0.36 mL solution for injection Puregon 600 IU/0.72 mL solution for injection Puregon 900 IU/1.08 mL solution for injection
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
-
-## Puregon 150 IU/0.18 mL solution for injection
-
-One cartridge contains a net total dose of 150 IU recombinant follicle-stimulating hormone (FSH) in 0.18 mL aqueous solution. The solution for injection contains the active substance follitropin beta, produced by genetic engineering of a Chinese hamster ovary (CHO) cell line, in a concentration of 833 IU/mL aqueous solution. This strength corresponds to 83.3 microgram of protein / mL (specific in vivo bioactivity equal to approximately 10,000 IU FSH / mg protein).
 
 ## Puregon 300 IU/0.36 mL solution for injection
 
@@ -52,13 +48,11 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Solution for injection (injection).
+## Solution for injection (injection).
 
 Clear and colourless solution.
 
 In cartridges, designed to be used in conjunction with a pen injector.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4. CLINICAL PARTICULARS
 
@@ -74,6 +68,8 @@ Puregon is indicated for the treatment of female infertility in the following cl
 ## In adult males:
 
 - Deficient spermatogenesis due to hypogonadotrophic hypogonadism.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.2 Posology and method of administration
 
@@ -101,9 +97,9 @@ A sequential treatment scheme is recommended starting with daily administration 
 
 Since follicles of over 14 mm may lead to pregnancies, multiple pre-ovulatory follicles exceeding 14 mm carry the risk of multiple gestations. In that case hCG should be withheld and pregnancy should be avoided to prevent multiple gestations.
 
-- Controlled ovarian hyperstimulation in medically assisted reproduction programs Various stimulation protocols are applied. A starting dose of 100-225 IU is recommended for at least the first four days. Thereafter, the dose may be adjusted individually, based upon ovarian response. In clinical studies it was shown that maintenance dosages ranging from 75-375 IU for six to twelve days are sufficient, although longer treatment may be necessary. Puregon can be given either alone, or, to prevent premature luteinisation, in combination with a GnRH agonist or antagonist. When using a GnRH agonist, a higher total treatment dose of Puregon may be required to achieve an adequate follicular response. serum oestradiol levels may also be useful. When ultrasound assessment indicates the presence
+- Controlled ovarian hyperstimulation in medically assisted reproduction programs Various stimulation protocols are applied. A starting dose of 100-225 IU is recommended for at least the first four days. Thereafter, the dose may be adjusted individually, based upon ovarian response. In clinical studies it was shown that maintenance dosages ranging from 75-375 IU for six to twelve days are sufficient, although longer treatment may be necessary. Puregon can be given either alone, or, to prevent premature luteinisation, in combination with a GnRH agonist or antagonist. When using a GnRH agonist, a higher total treatment dose of Puregon may be required to achieve an adequate follicular response.
 
-Ovarian response is monitored by ultrasound assessment. The concurrent determination of of at least three follicles of 16-20 mm, and there is evidence of a good oestradiol response (plasma levels of about 300-400 picograms/mL (1,000-1,300 pmol/L) for each follicle with a diameter greater than 18 mm), the final phase of maturation of the follicles is induced by administration of hCG. Oocyte retrieval is performed 34-35 hours later.
+Ovarian response is monitored by ultrasound assessment. The concurrent determination of serum oestradiol levels may also be useful. When ultrasound assessment indicates the presence of at least three follicles of 16-20 mm, and there is evidence of a good oestradiol response (plasma levels of about 300-400 picograms/mL (1,000-1,300 pmol/L) for each follicle with a diameter greater than 18 mm), the final phase of maturation of the follicles is induced by administration of hCG. Oocyte retrieval is performed 34-35 hours later.
 
 ## Dosage in the male
 
@@ -322,8 +318,6 @@ Table 1: Results of study 37,608 (randomized, group comparative clinical study c
 | Mean total dose (no. of 75 IU ampoules) | 28.5*               |             31.8  |
 | Mean duration of FSH stimulation (days) | 10.7*               |             11.3  |
 
-* Differences between the 2 groups were statistically significant (p  0.05).
-
 <div style=\"page-break-after: always\"></div>
 
 For ovulation induction, Puregon resulted in a lower median total dose and shorter median duration of treatment when compared to urinary FSH.
@@ -337,10 +331,6 @@ Table 2: Results of study 37,609 (randomized, group comparative clinical study c
 | ≥ 18mm                                | 1.1                 | 0.9              |
 | Median total dose (IU) a              | 750*                | 1,035            |
 | Median duration of treatment (days) a | 10.0*               | 13.0             |
-
-* Differences between the 2 groups were statistically significant (p  0.05).
-
-a Restricted to women with ovulation induced (Puregon, n = 76; u-FSH, n = 42).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -402,14 +392,6 @@ For storage conditions after first opening of the medicinal product, see section
 
 ## 6.5 Nature and contents of container
 
-## Puregon 150 IU/0.18 mL solution for injection
-
-0.18 mL of solution in 1.5 mL cartridge (type I glass) with a grey rubber piston and an aluminium crimp-cap with a rubber inlay.
-
-Pack of 1 cartridge and 3 needles to be used with the Puregon Pen.
-
-Cartridges contain a minimum of 225 IU FSH activity in 0.270 mL aqueous solution, which is sufficient for a net total dose of 150 IU.
-
 ## Puregon 300 IU/0.36 mL solution for injection
 
 0.36 mL of solution in 1.5 mL cartridge (type I glass) with a grey rubber piston and an aluminium crimp-cap with a rubber inlay.
@@ -440,13 +422,11 @@ Do not use if the solution contains particles or if the solution is not clear.
 
 Puregon solution for injection is designed for use in conjunction with the Puregon Pen. The instructions for using the pen must be followed carefully.
 
-Air bubbles must be removed from the cartridge before injection (see instructions for using the pen).
-
-<div style=\"page-break-after: always\"></div>
-
-A small amount of Puregon solution for injection may remain in the cartridge after completion of treatment with Puregon even when all doses have been correctly given. Patients should be instructed not to try to use the remaining Puregon solution for injection, but to properly discard the cartridge. Empty cartridges must not be refilled.
+Air bubbles must be removed from the cartridge before injection (see instructions for using the pen). A small amount of Puregon solution for injection may remain in the cartridge after completion of treatment with Puregon even when all doses have been correctly given. Patients should be instructed not to try to use the remaining Puregon solution for injection, but to properly discard the cartridge. Empty cartridges must not be refilled.
 
 Puregon cartridges are not designed to allow any other drug to be mixed in the cartridges. Discard used needles immediately after injection.
+
+<div style=\"page-break-after: always\"></div>
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -458,13 +438,17 @@ The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER
 
-Puregon 150 IU/0.18 mL solution for injection EU/1/96/008/040
+Puregon 300 IU/0.36 mL solution for injection
 
-Puregon 300 IU/0.36 mL solution for injection EU/1/96/008/038
+EU/1/96/008/038
 
-Puregon 600 IU/0.72 mL solution for injection EU/1/96/008/039
+Puregon 600 IU/0.72 mL solution for injection
 
-Puregon 900 IU/1.08 mL solution for injection EU/1/96/008/041
+EU/1/96/008/039
+
+Puregon 900 IU/1.08 mL solution for injection
+
+EU/1/96/008/041
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF AUTHORISATION
 
@@ -477,6 +461,8 @@ Date of latest renewal: 29 May 2006
 DD month YYYY
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+12
 
 <div style=\"page-break-after: always\"></div>
 
@@ -531,142 +517,6 @@ An updated RMP should be submitted:
 <div style=\"page-break-after: always\"></div>
 
 ## A. LABELLING
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-OUTER CARTON TEXT Puregon 150 IU/0.18 mL 1 cartridge
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-Puregon 150 IU/0.18 mL solution for injection follitropin beta
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-225 IU recombinant FSH activity/0.270 mL
-
-Net content 150 IU
-
-## 3. LIST OF EXCIPIENTS
-
-Other ingredients: sucrose, sodium citrate, L-methionine, polysorbate 20 and benzyl alcohol in water for injections; sodium hydroxide and/or hydrochloric acid as pH adjustment.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-## Solution for injection
-
-1 cartridge
-
-1 pack with 3 pen needles
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Subcutaneous (SC) use
-
-For use only with the Puregon Pen.
-
-Read the package leaflet before use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP
-
-Once the rubber inlay of a cartridge is pierced by a needle, the product may be stored for a maximum of 28 days.
-
-<div style=\"page-break-after: always\"></div>
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-## Storage by the pharmacist
-
-Store at 2°C - 8°C (in a refrigerator). Do not freeze.
-
-## Storage by the patient
-
-You have two options:
-
-1. Store at 2°C - 8°C (in a refrigerator). Do not freeze.
-2. Store at or below 25°C for a single period of not more than 3 months.
-
-Keep the cartridge in the outer carton.
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-N.V. Organon
-
-Kloosterstraat 6
-
-5349 AB Oss
-
-The Netherlands
-
-## 12. MARKETING AUTHORISATION NUMBER
-
-EU/1/96/008/040
-
-## 13. BATCH NUMBER
-
-Lot
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 15. INSTRUCTIONS ON USE
-
-## 16. INFORMATION IN BRAILLE
-
-Justification for not including Braille accepted
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC SN
-
-<div style=\"page-break-after: always\"></div>
-
-NN
-
-<div style=\"page-break-after: always\"></div>
-
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS CARTRIDGE TEXT Puregon 150 IU/0.18 mL
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
-
-Puregon 150 IU/0.18 mL injection follitropin beta
-
-SC
-
-## 2. METHOD OF ADMINISTRATION
-
-## 3. EXPIRY DATE
-
-EXP
-
-## 4. BATCH NUMBER
-
-Lot
-
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
-
-0.270 mL
-
-## 6. OTHER
-
-| 6.   | OTHER   |
-|------|---------|
-
-Organon
 
 <div style=\"page-break-after: always\"></div>
 
@@ -737,7 +587,13 @@ Keep the cartridge in the outer carton.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-N.V. Organon Kloosterstraat 6 5349 AB Oss The Netherlands
+N.V. Organon
+
+Kloosterstraat 6
+
+5349 AB Oss
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -776,9 +632,7 @@ NN
 | 1.   | NAMEOFTHEMEDICINALPRODUCTAND ROUTE(S) OFADMINISTRATION   |
 |------|----------------------------------------------------------|
 
-1.
-
-NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Puregon 300 IU/0.36 mL injection follitropin beta
 
@@ -786,9 +640,7 @@ SC
 
 ## 2. METHOD OF ADMINISTRATION
 
-3.
-
-EXPIRY DATE
+## 3. EXPIRY DATE
 
 EXP
 
@@ -873,11 +725,7 @@ Keep the cartridge in the outer carton.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-N.V. Organon
-
-Kloosterstraat 6
-
-5349 AB Oss
+N.V. Organon Kloosterstraat 6 5349 AB Oss
 
 The Netherlands
 
@@ -1091,15 +939,7 @@ Organon
 
 <div style=\"page-break-after: always\"></div>
 
-Puregon 150 IU/0.18 mL solution for injection
-
-Puregon 300 IU/0.36 mL solution for injection
-
-Puregon 600 IU/0.72 mL solution for injection
-
-Puregon 900 IU/1.08 mL solution for injection
-
-follitropin beta
+Puregon 300 IU/0.36 mL solution for injection Puregon 600 IU/0.72 mL solution for injection Puregon 900 IU/1.08 mL solution for injection follitropin beta
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -1143,10 +983,10 @@ In men who are infertile due to lowered hormone levels, Puregon can be used for 
 
 - are allergic to follitropin beta or any of the other ingredients of Puregon (listed in section 6)
 - have a tumour of the ovary, breast, uterus, testis or brain (pituitary gland or hypothalamus)
+- have heavy or irregular vaginal bleeding where the cause is unknown
 
 <div style=\"page-break-after: always\"></div>
 
-- have heavy or irregular vaginal bleeding where the cause is unknown
 - have ovaries that do not work because of a condition called primary ovarian failure
 - have ovarian cysts or enlarged ovaries not caused by polycystic ovarian syndrome (PCOS)
 - have malformations of the sexual organs which make a normal pregnancy impossible
@@ -1190,10 +1030,10 @@ Blood clots can lead to serious medical conditions, such as:
 
 - blockage in your lungs (pulmonary embolus)
 - stroke
+- heart attack
 
 <div style=\"page-break-after: always\"></div>
 
-- heart attack
 - blood vessel problems (thrombophlebitis)
 - a lack of blood flow (deep venous thrombosis) that may result in a loss of your arm or leg.
 
@@ -1297,9 +1137,7 @@ Puregon solution for injection in cartridges has been developed for use in the P
 
 Using the pen, injections just under the skin (in the lower stomach, for example) can be given by Puregon, follow the instructions carefully to give Puregon properly and with minimal discomfort.
 
-A small amount of the medicine may remain in the cartridge after the treatment with Puregon is After administration of the last dose, the cartridge must be properly discarded.
-
-yourself or your partner. Your doctor will tell you when and how to do this. If you inject yourself with The very first injection of Puregon should only be given in the presence of a doctor or nurse. completed even when all doses have been correctly given. Do not try to use any remaining medicine.
+yourself or your partner. Your doctor will tell you when and how to do this. If you inject yourself with The very first injection of Puregon should only be given in the presence of a doctor or nurse. A small amount of the medicine may remain in the cartridge after the treatment with Puregon is completed even when all doses have been correctly given. Do not try to use any remaining medicine. After administration of the last dose, the cartridge must be properly discarded.
 
 ## If you use more Puregon than you should
 
@@ -1456,11 +1294,11 @@ Organon Belgium Tél/Tel: 0080066550123 (+32 2 2418100) dpoc.benelux@organon.com
 
 ## Česká republika
 
-Organon Czech Republic s.r.o. Tel: +420 233 010 300 dpoc.czech@organon.com
+Organon Czech Republic s.r.o. Tel: +420 277 051 010 dpoc.czech@organon.com
 
 ## Danmark
 
-Organon Denmark ApS Tlf: +45 4484 6800 info.denmark@organon.com
+Organon Denmark ApS Tlf: +45 4484 6800 dpoc.dk.is@organon.com
 
 ## Deutschland
 
@@ -1492,7 +1330,7 @@ Organon Pharma (Ireland) Limited Tel: +353 15828260 medinfo.ROI@organon.com
 
 ## Ísland
 
-Vistor hf. Sími: + 354 535 7000
+Vistor ehf. Sími: + 354 535 7000
 
 ## Italia
 
@@ -1512,7 +1350,9 @@ N.V. Organon Tel: 00800 66550123 (+32 2 2418100) dpoc.benelux@organon.com
 
 ## Norge
 
-Organon Norway AS Tlf: +47 24 14 56 60 info.norway@organon.com
+Organon Norway AS Tlf: +47 24 14 56 60
+
+dpoc.norway@organon.com
 
 ## Österreich
 
@@ -1520,7 +1360,9 @@ Organon Healthcare GmbH Tel: +49 (0) 89 2040022 10 dpoc.austria@organon.com
 
 ## Polska
 
-Organon Polska Sp. z o.o. Tel.: +48 22 105 50 01 organonpolska@organon.com
+Organon Polska Sp. z o.o. Tel.: +48 22 306 57 64
+
+dpoc.poland@organon.com
 
 ## Portugal
 
@@ -1561,7 +1403,3 @@ pārstāvniecība Tel: +371 66968876 dpoc.latvia@organon.com
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 Sverige Organon Sweden AB Tel: +46 8 502 597 00 dpoc.sweden@organon.com
-
-## United Kingdom (Northern Ireland)
-
-Organon Pharma (UK) Limited Tel: +44 (0) 208 159 3593 medicalinformationuk@organon.com

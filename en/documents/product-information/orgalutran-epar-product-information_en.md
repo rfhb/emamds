@@ -4,8 +4,8 @@ document_pages: 23
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/orgalutran-epar-product-information_en.pdf
 document_name: orgalutran-epar-product-information_en.pdf
 version: success
-processing_time: 4.4838311
-conversion_datetime: 2025-12-26 17:24:41.90786
+processing_time: 4.7995877
+conversion_datetime: 2026-01-03 12:48:38.285141
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

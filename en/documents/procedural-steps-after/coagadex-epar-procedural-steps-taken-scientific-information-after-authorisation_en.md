@@ -4,8 +4,8 @@ document_pages: 6
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/coagadex-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: coagadex-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 3.4640667
-conversion_datetime: 2025-12-25 01:21:34.912896
+processing_time: 3.5616163
+conversion_datetime: 2026-01-03 12:30:20.923663
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

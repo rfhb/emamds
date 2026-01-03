@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 13:13:59
+document_datetime: 2025-12-17 15:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/adjupanrix.html
 document_name: adjupanrix.html
 version: success
-processing_time: 0.1167121
-conversion_datetime: 2025-12-30 10:25:11.119526
+processing_time: 0.1186066
+conversion_datetime: 2026-01-03 13:10:06.987651
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -131,7 +131,7 @@ English (EN) (53.5 KB - PDF)
 
 [View](/en/documents/overview/adjupanrix-previously-pandemic-influenza-vaccine-h5n1-split-virion-inactivated-adjuvanted-glaxosmithkline-biologicals-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-735)
+[Other languages (21)](#file-language-dropdown-425)
 
 български (BG) (231.48 KB - PDF)
 
@@ -405,7 +405,7 @@ English (EN) (344.73 KB - PDF)
 
 [View](/en/documents/product-information/adjupanrix-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-887)
+[Other languages (24)](#file-language-dropdown-920)
 
 български (BG) (512.59 KB - PDF)
 
@@ -721,7 +721,7 @@ English (EN) (23.67 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/adjupanrix-previously-pandemic-influenza-vaccine-h5n1-split-virion-inactivated-adjuvanted-glaxosmithkline-biologicals-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-983)
+[Other languages (24)](#file-language-dropdown-0)
 
 български (BG) (34.56 KB - PDF)
 

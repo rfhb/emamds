@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-07-03 10:50:41
+document_datetime: 2025-12-17 16:09:51
 document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ziihera-epar-product-information_en.pdf
 document_name: ziihera-epar-product-information_en.pdf
 version: success
-processing_time: 6.3089695
-conversion_datetime: 2025-12-20 12:11:41.942903
+processing_time: 6.2081531
+conversion_datetime: 2026-01-03 12:46:03.16466
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -54,7 +54,7 @@ Ziihera as monotherapy is indicated for the treatment of adults with unresectabl
 
 ## 4.2 Posology and method of administration
 
-Ziihera must be initiated by a physician experienced in the diagnosis and treatment of patients with biliary tract cancer.It must be administered by a qualified healthcare professional, with appropriate resuscitation equipment available.
+Ziihera must be initiated by a physician experienced in the diagnosis and treatment of patients with biliary tract cancer. It must be administered by a qualified healthcare professional, with appropriate resuscitation equipment available.
 
 ## Patient selection
 
@@ -117,7 +117,7 @@ Dose adjustments are not required for patients with mild or moderate renal impai
 
 ## Hepatic impairment
 
-Dose adjustments are not required for patients with mild hepatic impairment (total bilirubin ≤ upper limit of normal (ULN) and AST &gt; ULN or total bilirubin between 1 and 1.5 times ULN and any AST). Zanidatamab has not been evaluated in patients with moderate (total bilirubin &gt; 1.5 to ≤ 3 ULN and any AST) to severe (total bilirubin &gt; 3 ULN and any AST) hepatic impairment. However, due to minor involvement of hepatic processes in the clearance of zanidatamab, no dose adjustment  is recommended for patients with hepatic impairment as no difference in exposure is expected (see section 5.2).
+Dose adjustments are not required for patients with mild hepatic impairment (total bilirubin ≤ upper limit of normal (ULN) and AST &gt; ULN or total bilirubin between 1 and 1.5 times ULN and any AST). Zanidatamab has not been evaluated in patients with moderate (total bilirubin &gt; 1.5 to ≤ 3 ULN and any AST) to severe (total bilirubin &gt; 3 ULN and any AST) hepatic impairment. However, due to minor involvement of hepatic processes in the clearance of zanidatamab, no dose adjustment is recommended for patients with hepatic impairment as no difference in exposure is expected (see section 5.2).
 
 ## Elderly population
 
@@ -135,7 +135,7 @@ The diluted solution for infusion must have a final concentration of 0.4 to 6 mg
 
 For instructions on reconstitution and dilution of the medicinal product before administration, see section 6.6.
 
-## Table 4. Recommended infusion durations
+Table 4. Recommended infusion durations
 
 | Dose             | Infusion duration                                     |
 |------------------|-------------------------------------------------------|
@@ -273,14 +273,6 @@ Table 5. Adverse reactions in patients receiving Ziihera as monotherapy reported
 |--------------------------------------------------|---------------|------------------------------|
 | Respiratory, thoracic and mediastinal disorders  | Uncommon      | Pneumonitis                  |
 
-a  Abdominal pain includes abdominal pain and abdominal pain upper
-
-b Rash includes dermatitis acneiform, rash, rash maculo-papular, rash pruritic, and urticaria.
-
-c Fatigue includes asthenia, fatigue, and malaise.
-
-* See 'Description of selected adverse reactions' below
-
 ## Description of selected adverse reactions in the pooled safety population (N=233)
 
 ## Diarrhoea
@@ -335,7 +327,7 @@ ADA were rarely detected. Zanidatamab is categorised as a low-risk molecule to e
 
 ## Cardiac electrophysiology
 
-The relationship between timematched zanidatamab serum concentrations and ΔQTcF measurements was evaluated based on data obtained during treatment with zanidatamab from participants in Study 101. The CQT analysis dataset included measurements of QTcF from 179 out of the 192 participants enrolled in Study 101. Zanidatamab has no effect on QTc interval and there was no relationship between zanidatamab exposure and change in QTc interval .
+The relationship between time-matched zanidatamab serum concentrations and ΔQTcF measurements was evaluated based on data obtained during treatment with zanidatamab from participants in Study 101. The C-QT analysis dataset included measurements of QTcF from 179 out of the 192 participants enrolled in Study 101. Zanidatamab has no effect on QTc interval and there was no relationship between zanidatamab exposure and change in QTc interval.
 
 ## Clinical efficacy and safety
 
@@ -363,10 +355,6 @@ Table 6. Efficacy results in Study 203
 | Duration of response (DOR )              | N=32              |
 | Median † , months (95% CI)               | 14.9 (7.4, 24.0)  |
 
-* Assessed by independent central review
-
-† Based on Kaplan-Meier estimate
-
 LPLV = Last patient last visit 11 July 2024
 
 ## Paediatric population
@@ -379,7 +367,7 @@ This medicinal product has been authorised under a so-called 'conditional approv
 
 ## 5.2 Pharmacokinetic properties
 
-Zanidatamab PK exhibited non-linear kinetics with more rapid clearance (CL) at low doses ranging from 5 to 30 mg/kg. Following the first dose, the geometric mean zanidatamab Cmax was dose proportional with increasing doses, while total systemic exposure (AUC0-∞ ) was greater than dose proportional with increasing doses. The geometric mean accumulation indices based on Ctrough at steady state was approximately 2.7 for the 20 mg/kg once every 2 weeks zanidatamab dose level. The observed zanidatamab exposure and PK parameters following the first administration in the first cycle and steady state, based on the available sampling scheme, are described in Table 7.
+Zanidatamab PK exhibited non-linear kinetics with more rapid clearance (CL) at low doses ranging from 5 to 30 mg/kg. Following the first dose, the geometric mean zanidatamab Cmax was dose proportional with increasing doses, while total systemic exposure (AUC0-∞) was greater than dose proportional with increasing doses. The geometric mean accumulation indices based on Ctrough at steady state was approximately 2.7 for the 20 mg/kg once every 2 weeks zanidatamab dose level. The observed zanidatamab exposure and PK parameters following the first administration in the first cycle and steady state, based on the available sampling scheme, are described in Table 7.
 
 The pharmacokinetics of zanidatamab following intravenous infusion in participants with HER2 expressing cancers was evaluated in a population pharmacokinetic model analysis from 279 participants. From the PopPK analysis, participants with BTC were predicted to have a typical CL of 0.0115 L/h, a typical Vc of 3.51 L, a typical Vp of 3.95 L, and an estimated t1/2 of approximately 21 days. Based on the estimated t1/2, it would take approximately 3.5 months (i.e., 5 half-lives) to reach steady state following multiple dose administration of zanidatamab.
 
@@ -392,7 +380,7 @@ Table 7. Study 203: Pharmacokinetic parameters (geometric mean [percent coeffici
 | Cycle 1 N=19                        | 455 (16.3)      | 68.3 (42.9)        | 2280 (22.7)              |
 | Cycle 4 or later (steady-state) N=8 | 600 (22.2)      | 178 (29.6)         | 3980 (22.5)              |
 
-Abbreviations: AUC0-tau = area under the curve during the dosing interval; Cmax = maximum concentration; Ctrough = trough concentration ; Q2W = once every 2 weeks
+Abbreviations: AUC0-tau = area under the curve during the dosing interval; Cmax = maximum concentration; Ctrough = trough concentration; Q2W = once every 2 weeks
 
 Note: Cycle 1 and Cycle 4 are referred to as 'first dose' and 'steady-state', respectively; these terms are interchangeable.
 
@@ -452,7 +440,7 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## 6.3 Shelf life
 
-Unopened vial 2 years.
+Unopened vial 3 years.
 
 ## Reconstituted solution
 
@@ -533,9 +521,13 @@ Jazz Pharmaceuticals Ireland Ltd 5th Floor, Waterloo Exchange Waterloo Road Dubl
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/25/1931/001 EU/1/25/1931/002
+EU/1/25/1931/001
+
+EU/1/25/1931/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 27 June 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -689,8 +681,8 @@ Justification for not including Braille accepted
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
@@ -700,7 +692,8 @@ PC SN NN
 |------------------------------------------------------------------|
 | VIAL                                                             |
 
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Ziihera 300 mg powder for concentrate zanidatamab
 
@@ -735,7 +728,7 @@ Lot
 
 ## Ziihera 300 mg powder for concentrate for solution for infusion zanidatamab
 
-▼ This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+▼This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
@@ -861,7 +854,7 @@ Very common (may affect more than 1 in 10 people)
 
 - Ejection fraction decreased. This medicine may cause heart problems that reduce your heart's ability to pump blood. Symptoms of this include feeling short of breath, cough, feeling tired, swelling of ankles or legs, irregular heartbeat, sudden weight gain, feeling dizzy, or loss of consciousness.
 
-## Other sides effects
+## Other side effects
 
 The frequency and severity of side effects may vary with the dose you receive.  Talk to your doctor or nurse if you get any of the following:
 
@@ -919,9 +912,13 @@ One carton contains 1 or 2 vials. Not all pack sizes may be marketed.
 
 Jazz Pharmaceuticals Ireland Ltd 5th Floor, Waterloo Exchange Waterloo Road Dublin 4 D04 E5W7 Ireland
 
-## This leaflet was last revised in:
+Tel: +353 1 968 1631
+
+Email: medinfo-int@jazzpharma.com
 
 <div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in:
 
 This medicine has been given 'conditional approval'. This means that there is more evidence to come about this medicine.
 

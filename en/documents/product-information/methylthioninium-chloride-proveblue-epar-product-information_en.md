@@ -4,8 +4,8 @@ document_pages: 26
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/methylthioninium-chloride-proveblue-epar-product-information_en.pdf
 document_name: methylthioninium-chloride-proveblue-epar-product-information_en.pdf
 version: success
-processing_time: 4.9809715
-conversion_datetime: 2025-12-28 09:09:11.137114
+processing_time: 4.9782212
+conversion_datetime: 2026-01-03 12:31:09.653476
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

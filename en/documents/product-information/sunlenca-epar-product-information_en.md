@@ -4,13 +4,13 @@ document_pages: 65
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/sunlenca-epar-product-information_en.pdf
 document_name: sunlenca-epar-product-information_en.pdf
 version: success
-processing_time: 20.3217713
-conversion_datetime: 2025-12-22 08:05:57.169749
+processing_time: 21.4148141
+conversion_datetime: 2026-01-03 12:20:54.283647
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -320,10 +320,6 @@ Table 3: Tabulated list of adverse reactions
 | General disorders and administration site conditions | General disorders and administration site conditions |
 | Very common                                          | injection site reactions b                           |
 
-a Frequency based on all participants (Cohorts 1 and 2) in CAPELLA (see section 5.1).
-
-b Includes injection site swelling, pain, nodule, erythema, induration, pruritus, extravasation, discomfort, mass, haematoma, oedema, and ulcer from CAPELLA; and necrosis identified from post-marketing surveillance.
-
 ## Description of selected adverse reactions
 
 ## Immune Reconstitution Inflammatory Syndrome
@@ -513,10 +509,6 @@ Table 7: Pharmacokinetic parameters of lenacapavir following oral and subcutaneo
 | C max (ng/ mL)    | 69.6 (56)                                                               | 87 (71.8)                                                               | 97.2 (70.3)                                                             |
 | AUC tau (h•ng/mL) | 15,600 (52.9)                                                           | 250,000 (66.6)                                                          | 300,000 (68.5)                                                          |
 | C trough (ng/mL)  | 35.9 (56.8)                                                             | 32.7 (88)                                                               | 36.2 (90.6)                                                             |
-
-CV = Coefficient of Variation; SC = subcutaneous
-
-a Simulated exposures utilizing population PK analysis.
 
 ## Distribution
 
@@ -838,8 +830,6 @@ Table 2: Interactions between Sunlenca and other medicinal products
 | GENDER AFFIRMING HORMONES                                     | GENDER AFFIRMING HORMONES                                                                                                                 |                                                                                                                                                                           |
 | 17 β -estradiol Anti-androgens Progestogen Testosterone       | Interaction not studied. Plasma concentrations of these medicinal products may be increased when co-administered with lenacapavir.        | No dose adjustment of these gender affirming hormones is required.                                                                                                        |
 
-a Fasted.
-
 - b This study was conducted using lenacapavir 300 mg single dose administered orally.
 - c Evaluated as a strong inducer of CYP3A, and an inducer of P-gp and UGT.
 - d Fed.
@@ -901,8 +891,6 @@ Table 3: Tabulated list of adverse reactions
 | Not known                  | immune reconstitution inflammatory syndrome |
 | Gastrointestinal disorders |                                             |
 | Common                     | nausea                                      |
-
-a Frequency based on all participants (Cohorts 1 and 2) in CAPELLA (see section 5.1).
 
 ## Description of selected adverse reactions
 

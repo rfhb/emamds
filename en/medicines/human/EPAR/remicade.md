@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 11:33:32
+document_datetime: 2025-12-15 15:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/remicade.html
 document_name: remicade.html
 version: success
-processing_time: 0.1641447
-conversion_datetime: 2025-12-31 02:31:01.764693
+processing_time: 0.1679717
+conversion_datetime: 2026-01-03 12:54:31.339273
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -133,7 +133,7 @@ English (EN) (85.08 KB - PDF)
 
 [View](/en/documents/overview/remicade-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-564)
+[Other languages (22)](#file-language-dropdown-549)
 
 български (BG) (115.45 KB - PDF)
 
@@ -421,7 +421,7 @@ English (EN) (359.71 KB - PDF)
 
 [View](/en/documents/product-information/remicade-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-250)
+[Other languages (24)](#file-language-dropdown-717)
 
 български (BG) (421.25 KB - PDF)
 
@@ -737,7 +737,7 @@ English (EN) (25.7 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/remicade-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-831)
+[Other languages (24)](#file-language-dropdown-63)
 
 български (BG) (28.76 KB - PDF)
 
@@ -1037,7 +1037,7 @@ English (EN) (14.22 KB - PDF)
 
 [View](/en/documents/conditions-member-states/remicade-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-466)
+[Other languages (21)](#file-language-dropdown-919)
 
 български (BG) (79.88 KB - PDF)
 
@@ -1615,7 +1615,7 @@ English (EN) (176.67 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/remicade-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-889)
+[Other languages (24)](#file-language-dropdown-2)
 
 български (BG) (232.57 KB - DOCX)
 

@@ -4,8 +4,8 @@ document_pages: 4
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/fabhalta-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: fabhalta-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 2.9873148
-conversion_datetime: 2025-12-25 05:24:23.264977
+processing_time: 3.2357615
+conversion_datetime: 2026-01-03 12:20:04.725741
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

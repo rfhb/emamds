@@ -4,13 +4,13 @@ document_pages: 99
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lucentis-epar-product-information_en.pdf
 document_name: lucentis-epar-product-information_en.pdf
 version: success
-processing_time: 32.0041168
-conversion_datetime: 2025-12-20 14:01:54.230145
+processing_time: 31.93006
+conversion_datetime: 2026-01-03 12:47:54.674693
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -400,8 +400,6 @@ Table 1 Outcomes at Month 12 and Month 24 in study FVF2598g (MARINA) and FVF2587
 | Mean change in visual acuity (letters) (SD) a                                        | Month 12 | -10.5 (16.6)        | +7.2 (14.4)             | -9.5 (16.4)             | +11.3 (14.6)            |
 | Mean change in visual acuity (letters) (SD) a                                        | Month 24 | -14.9 (18.7)        | +6.6 (16.5)             | -9.8 (17.6)             | +10.7 (16.5)            |
 
-a p&lt;0.01
-
 <div style=\"page-break-after: always\"></div>
 
 Figure 1 Mean change in visual acuity from baseline to Month 24 in study FVF2598g (MARINA) and study FVF2587g (ANCHOR)
@@ -486,10 +484,6 @@ Table 3 Outcomes at Month 2 (MINERVA)
 | Patients not losing >15 letters from baseline at Month 2                      | 99.2%                        | 94.7%         |
 | Reduction in CSFT b from baseline to Month 2 a                                | 77 µm                        | -9.8 µm       |
 
-a One-sided p&lt;0.001 comparison with sham control
-
-b CSFT - central retinal subfield thickness
-
 Figure 3 Mean change from baseline BCVA over time to Month 12 (MINERVA)
 
 <!-- image -->
@@ -512,8 +506,6 @@ Table 4 Treatment effect overall and across baseline aetiology subgroups
 | Central serous chorioretinopathy      |                                    5   |                                      23 |
 | Idiopathic chorioretinopathy          |                                   11.4 |                                      63 |
 | Miscellaneous aetiologies a           |                                   10.6 |                                      37 |
-
-a encompasses different aetiologies of low frequency of occurrence not included in the other subgroups
 
 <div style=\"page-break-after: always\"></div>
 
@@ -646,8 +638,6 @@ Table 8 Outcomes at Month 6 and 12 (BRAVO and CRUISE)
 | Gain of ≥15 letters in visual acuity at Month 6 a (%)                       | 28.8                         | 61.1                    | 16.9                         | 47.7                    |
 | Gain of ≥15 letters in visual acuity at Month 12 (%)                        | 43.9                         | 60.3                    | 33.1                         | 50.8                    |
 | Proportion (%) receiving laser rescue over 12 months                        | 61.4                         | 34.4                    | NA                           | NA                      |
-
-a p&lt;0.0001for both studies
 
 Figure 5 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO)
 
@@ -1239,8 +1229,6 @@ Table 1 Outcomes at Month 12 and Month 24 in study FVF2598g (MARINA) and FVF2587
 | Mean change in visual acuity (letters) (SD) a                                        | Month 12 | -10.5 (16.6)        | +7.2 (14.4)             | -9.5 (16.4)             | +11.3 (14.6)            |
 | Mean change in visual acuity (letters) (SD) a                                        | Month 24 | -14.9 (18.7)        | +6.6 (16.5)             | -9.8 (17.6)             | +10.7 (16.5)            |
 
-a p&lt;0.01
-
 <div style=\"page-break-after: always\"></div>
 
 Figure 1 Mean change in visual acuity from baseline to Month 24 in study FVF2598g (MARINA) and study FVF2587g (ANCHOR)
@@ -1323,10 +1311,6 @@ Table 3 Outcomes at Month 2 (MINERVA)
 | Patients not losing >15 letters from baseline at Month 2                     | 99.2%                        | 94.7%         |
 | Reduction in CSFT b from baseline to Month 2 a                               | 77 µm                        | -9.8 µm       |
 
-a One-sided p&lt;0.001 comparison with sham control
-
-b CSFT - central retinal subfield thickness
-
 Figure 3 Mean change from baseline BCVA over time to Month 12 (MINERVA)
 
 <!-- image -->
@@ -1349,8 +1333,6 @@ Table 4 Treatment effect overall and across baseline aetiology subgroups
 | Central serous chorioretinopathy      |                                    5   |                                      23 |
 | Idiopathic chorioretinopathy          |                                   11.4 |                                      63 |
 | Miscellaneous aetiologies a           |                                   10.6 |                                      37 |
-
-a encompasses different aetiologies of low frequency of occurrence not included in the other subgroups
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1483,8 +1465,6 @@ Table 8 Outcomes at Month 6 and 12 (BRAVO and CRUISE)
 | Gain of ≥15 letters in visual acuity at Month 6 a (%)                       | 28.8                         | 61.1                    | 16.9                         | 47.7                    |
 | Gain of ≥15 letters in visual acuity at Month 12 (%)                        | 43.9                         | 60.3                    | 33.1                         | 50.8                    |
 | Proportion (%) receiving laser rescue over 12 months                        | 61.4                         | 34.4                    | NA                           | NA                      |
-
-a p&lt;0.0001for both studies
 
 Figure 5 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO)
 

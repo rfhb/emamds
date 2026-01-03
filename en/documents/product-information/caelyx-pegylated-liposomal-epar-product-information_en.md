@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-09-02 08:44:36
+document_datetime: 2025-12-18 09:48:55
 document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_en.pdf
 document_name: caelyx-pegylated-liposomal-epar-product-information_en.pdf
 version: success
-processing_time: 13.1230564
-conversion_datetime: 2025-12-20 10:46:03.334759
+processing_time: 24.0284287
+conversion_datetime: 2026-01-03 12:13:36.107148
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -34,7 +34,7 @@ Caelyx pegylated liposomal is doxorubicin hydrochloride encapsulated in liposome
 
 ## Excipients with known effect
 
-Contains fully hydrogenated soy phosphatidylcholine (from soyabean) -see section 4.3.
+Contains fully hydrogenated soy phosphatidylcholine (from soyabean) - see section 4.3.
 
 For the full list of excipients, see section 6.1.
 
@@ -53,7 +53,7 @@ Caelyx pegylated liposomal is indicated:
 - -As monotherapy for patients with metastatic breast cancer, where there is an increased cardiac risk.
 - -For treatment of advanced ovarian cancer in women who have failed a first-line platinum-based chemotherapy regimen.
 - -In combination with bortezomib for the treatment of progressive multiple myeloma in patients who have received at least one prior therapy and who have already undergone or are unsuitable for bone marrow transplant.
-- -For treatment of AIDSrelated Kaposi's sarcoma (KS) in patients with low CD 4 counts (&lt; 200 CD4 lymphocytes/mm 3 ) and extensive mucocutaneous or visceral disease.
+- -For treatment of AIDS-related Kaposi's sarcoma (KS) in patients with low CD4 counts (&lt; 200 CD4 lymphocytes/mm 3 ) and extensive mucocutaneous or visceral disease.
 
 Caelyx pegylated liposomal may be used as first-line systemic chemotherapy, or as second line chemotherapy in AIDS-KS patients with disease that has progressed with, or in patients intolerant to, prior combination systemic chemotherapy comprising at least two of the following agents: a vinca alkaloid, bleomycin and standard doxorubicin (or other anthracycline).
 
@@ -91,7 +91,7 @@ The tables for PPE (Table 1) and stomatitis (Table 2) provide the schedule follo
 
 The table for haematological toxicity (Table 3) provides the schedule followed for dose modification in clinical trials in the treatment of patients with breast or ovarian cancer only. Dose modification in patients with AIDS-KS is provided following Table 4.
 
-Table 1. Palmar -Plantar erythrodysesthesia
+Table 1. Palmar-Plantar erythrodysesthesia
 
 |                                                                                          | Week after prior Caelyx pegylated liposomal dose                                                                   | Week after prior Caelyx pegylated liposomal dose                                                                   | Week after prior Caelyx pegylated liposomal dose   |
 |------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|
@@ -115,17 +115,17 @@ Table 1. Palmar -Plantar erythrodysesthesia
 | Grade 3 (painful erythema, edema, or ulcers, but cannot eat) | Wait an additional week                                                                                        | Wait an additional week                                                                                        | Withdraw patient                                                                               |
 | Grade 4 (requires parenteral or enteral support)             | Wait an additional week                                                                                        | Wait an additional week                                                                                        | Withdraw patient                                                                               |
 
-## Table 3.  Haematological toxicity (ANC or platelets) -Management of patients with breast or ovarian cancer
+## Table 3.  Haematological toxicity (ANC or platelets) - Management of patients with breast or ovarian cancer
 
 | GRADE   | ANC             | PLATELETS         | MODIFICATION                                                                  |
 |---------|-----------------|-------------------|-------------------------------------------------------------------------------|
 | Grade 1 | 1,500 - 1,900   | 75,000 - 150,000  | Resume treatment with no dose reduction.                                      |
-| Grade 2 | 1,000 - < 1,500 | 50,000 - < 75,000 | Wait until ANC  1,500 and platelets  75,000; redose with no dose reduction. |
-| Grade 3 | 500 - < 1,000   | 25,000 - < 50,000 | Wait until ANC  1,500 and platelets  75,000; redose with no dose reduction. |
+| Grade 2 | 1,000 - < 1,500 | 50,000 - < 75,000 | Wait until ANC ≥ 1,500 and platelets ≥ 75,000; redose with no dose reduction. |
+| Grade 3 | 500 - < 1,000   | 25,000 - < 50,000 | Wait until ANC ≥ 1,500 and platelets ≥ 75,000; redose with no dose reduction. |
 
 <div style=\"page-break-after: always\"></div>
 
-| Grade 4   | < 500   | < 25,000   | Wait until ANC  1,500 and platelets  75,000; decrease dose by 25% or continue full dose with growth factor support.   |
+| Grade 4   | < 500   | < 25,000   | Wait until ANC ≥ 1,500 and platelets ≥ 75,000; decrease dose by 25% or continue full dose with growth factor support.   |
 |-----------|---------|------------|-------------------------------------------------------------------------------------------------------------------------|
 
 For multiple myeloma patients treated with Caelyx pegylated liposomal in combination with bortezomib who experience PPE or stomatitis, the Caelyx pegylated liposomal dose should be modified as described in Table 1 and 2 above respectively. Table 4, below provides the schedule followed for other dose modifications in the clinical trial in the treatment of patients with multiple myeloma receiving Caelyx pegylated liposomal and bortezomib combination therapy. For more detailed information on bortezomib dosing and dosage adjustments, see the SPC for bortezomib.
@@ -165,7 +165,7 @@ The experience in children is limited. Caelyx pegylated liposomal is not recomme
 
 ## Elderly
 
-Population based analysis demonstrates that age across the range tested (21 -75 years) does not significantly alter the pharmacokinetics of Caelyx pegylated liposomal.
+Population based analysis demonstrates that age across the range tested (21-75 years) does not significantly alter the pharmacokinetics of Caelyx pegylated liposomal.
 
 ## Method of administration
 
@@ -175,7 +175,7 @@ Do not administer Caelyx pegylated liposomal as a bolus injection or undiluted d
 
 For doses &lt; 90 mg: dilute Caelyx pegylated liposomal in 250 ml 5% (50 mg/ml) glucose solution for infusion.
 
-For doses  90 mg: dilute Caelyx pegylated liposomal in 500 ml 5% (50 mg/ml) glucose solution for infusion.
+For doses ≥ 90 mg: dilute Caelyx pegylated liposomal in 500 ml 5% (50 mg/ml) glucose solution for infusion.
 
 ## Breast cancer/Ovarian cancer/Multiple myeloma
 
@@ -267,7 +267,7 @@ Please note that each vial of Caelyx pegylated liposomal contains sucrose and th
 
 ## Excipients
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose and is essentially 'sodium -free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose and is essentially 'sodium-free'.
 
 For common adverse events which required dose modification or discontinuation see section 4.8.
 
@@ -283,9 +283,9 @@ Doxorubicin hydrochloride is suspected to cause serious birth defects when admin
 
 ## Women of child-bearing potential/contraception in men and women
 
-Due to the genotoxic potential of  Doxorubicin hydrochloride (see section 5.3), women of child-bearing potential should use effective contraceptive measures while being treated with Caelyx pegylated liposomal and for 8 months following completion of treatment.
+Due to the genotoxic potential of  Doxorubicin hydrochloride (see section 5.3), women of pegylated liposomal and for 8 months following completion of treatment.
 
-Men are recommended to use effective contraceptive measures and to not father a child while receiving Caelyx pegylated liposomal and for 6 months following completion of treatment.
+child-bearing potential should use effective contraceptive measures while being treated with Caelyx Men are recommended to use effective contraceptive measures and to not father a child while receiving Caelyx pegylated liposomal and for 6 months following completion of treatment.
 
 ## Breast-feeding
 
@@ -311,7 +311,7 @@ Severe adverse reactions (Grade 3/4 adverse reactions occurring in ≥ 2% of pat
 
 ## Tabulated list of adverse reactions
 
-Table 5 summarises the adverse drug reactions that occurred in patients receiving Caelyx pegylated liposomal in 4,231 patients for the treatment of breast cancer, ovarian cancer, multiple myeloma, and AIDS-related KS. Post-marketing adverse reactions are also included , as indicated by ' b ' . Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (frequency cannot be estimated from the available data). Within each frequency grouping, where relevant, adverse reactions are presented in order of decreasing seriousness.
+Table 5 summarises the adverse drug reactions that occurred in patients receiving Caelyx pegylated liposomal in 4,231 patients for the treatment of breast cancer, ovarian cancer, multiple myeloma, and AIDS-related KS. Post-marketing adverse reactions are also included, as indicated by ' b '. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (frequency cannot be estimated from the available data). Within each frequency grouping, where relevant, adverse reactions are presented in order of decreasing seriousness.
 
 Table 5: Adverse reactions in patients treated with Caelyx pegylated liposomal
 
@@ -337,110 +337,80 @@ Table 5: Adverse reactions in patients treated with Caelyx pegylated liposomal
 
 <div style=\"page-break-after: always\"></div>
 
-|                                      |             | Microsporidium , Salmonella , Staphylococcus , Toxoplasma , Tuberculosis ) a   |
-|--------------------------------------|-------------|--------------------------------------------------------------------------------|
-| Neoplasms benign,                    | Not known   | Acute myeloid leukaemia b                                                      |
-| Neoplasms benign,                    | Not known   | Myelodysplastic syndrome b                                                     |
-| Neoplasms benign,                    | Not known   | Oral neoplasm b                                                                |
-| Blood and lymphatic system disorders | Very common | Leukopaenia                                                                    |
-| Blood and lymphatic system disorders | Very common | Neutropaenia                                                                   |
-| Blood and lymphatic system disorders | Very common | Lymphopaenia                                                                   |
-| Blood and lymphatic system disorders | Very common | Anaemia (including hypochromic)                                                |
-| Blood and lymphatic system disorders | Common      | Thrombocytopaenia                                                              |
-| Blood and lymphatic system disorders | Common      | Febrile neutropaenia                                                           |
-| Blood and lymphatic system disorders | Uncommon    | Pancytopaenia                                                                  |
-| Blood and lymphatic system disorders | Uncommon    | Thrombocytosis                                                                 |
-| Blood and lymphatic system disorders | Rare        | Bone marrow failure                                                            |
-| Immune system disorders              | Uncommon    | Hypersensitivity                                                               |
-| Immune system disorders              | Uncommon    | Anaphylactic reaction                                                          |
-| Immune system disorders              | Rare        | Anaphylactoid reaction                                                         |
-| Metabolism and nutrition disorders   | Very common | Decreased appetite                                                             |
-| Metabolism and nutrition disorders   | Common      | Cachexia                                                                       |
-| Metabolism and nutrition disorders   | Common      | Dehydration                                                                    |
-| Metabolism and nutrition disorders   | Common      | Hypokalaemia                                                                   |
-| Metabolism and nutrition disorders   | Common      | Hyponatraemia                                                                  |
-| Metabolism and nutrition disorders   | Common      | Hypocalcaemia                                                                  |
-| Metabolism and nutrition disorders   | Uncommon    | Hyperkalaemia                                                                  |
-| Psychiatric disorders                | Common      | Confusional state                                                              |
-| Psychiatric disorders                | Common      | Anxiety                                                                        |
-| Psychiatric disorders                | Common      | Depression                                                                     |
-| Psychiatric disorders                | Common      | Insomnia                                                                       |
-| Nervous system disorders             | Common      | Neuropathy peripheral                                                          |
-| Nervous system disorders             |             | Peripheral sensory neuropathy                                                  |
-| Nervous system disorders             |             | Neuralgia                                                                      |
-| Nervous system disorders             |             | Paraesthesia                                                                   |
-| Nervous system disorders             |             | Hypoaesthesia                                                                  |
-| Nervous system disorders             |             | Dysgeusia                                                                      |
-| Nervous system disorders             |             | Headache                                                                       |
-| Nervous system disorders             |             | Lethargy                                                                       |
-| Nervous system disorders             |             | Dizziness                                                                      |
-| Nervous system disorders             | Uncommon    | Polyneuropathy                                                                 |
-| Nervous system disorders             | Uncommon    | Convulsion                                                                     |
-| Nervous system disorders             | Uncommon    | Syncope                                                                        |
-| Nervous system disorders             | Uncommon    | Dysaesthesia                                                                   |
-| Nervous system disorders             | Uncommon    | Somnolence                                                                     |
-| Eye disorders                        | Common      | Conjunctivitis                                                                 |
-| Eye disorders                        | Uncommon    | Vision blurred                                                                 |
-| Eye disorders                        | Uncommon    | Lacrimation increased                                                          |
-| Eye disorders                        | Rare        | Retinitis                                                                      |
-| Cardiac disorders a                  | Common      | Tachycardia                                                                    |
-| Cardiac disorders a                  | Uncommon    | Palpitations                                                                   |
-| Cardiac disorders a                  | Uncommon    | Cardiac arrest                                                                 |
-| Cardiac disorders a                  | Uncommon    | Cardiac failure                                                                |
+|                                                                                                 |                                                                | Microsporidium , Salmonella , Staphylococcus , Toxoplasma , Tuberculosis ) a                                                                                                                                                                                                                                                              |
+|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Neoplasms benign,                                                                               | Not known                                                      | Acute myeloid leukaemia b Myelodysplastic syndrome b                                                                                                                                                                                                                                                                                      |
+| malignant and unspecified (including cysts and polyps)                                          | Very common                                                    | Oral neoplasm b Leukopaenia Neutropaenia Lymphopaenia                                                                                                                                                                                                                                                                                     |
+| Blood and lymphatic system disorders Immune system disorders Metabolism and nutrition disorders | Common Uncommon Rare Uncommon Rare Very common Common Uncommon | Anaemia (including hypochromic) Thrombocytopaenia Febrile neutropaenia Pancytopaenia Thrombocytosis Bone marrow failure Hypersensitivity Anaphylactic reaction Anaphylactoid reaction Decreased appetite Cachexia Dehydration Hypokalaemia Hyponatraemia Hypocalcaemia Hyperkalaemia Hypomagnesaemia Confusional state Anxiety Depression |
+| Psychiatric disorders Nervous system disorders                                                  | Common                                                         | Insomnia                                                                                                                                                                                                                                                                                                                                  |
+|                                                                                                 | Common                                                         | Neuropathy peripheral Peripheral sensory neuropathy Neuralgia Paraesthesia Hypoaesthesia Dysgeusia Headache Lethargy                                                                                                                                                                                                                      |
+|                                                                                                 |                                                                | Dizziness Polyneuropathy                                                                                                                                                                                                                                                                                                                  |
+|                                                                                                 | Uncommon                                                       | Convulsion                                                                                                                                                                                                                                                                                                                                |
+| Eye disorders                                                                                   | Common                                                         | Syncope Dysaesthesia Somnolence                                                                                                                                                                                                                                                                                                           |
+|                                                                                                 | Uncommon                                                       | Conjunctivitis                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                 |                                                                | Vision blurred Lacrimation                                                                                                                                                                                                                                                                                                                |
+|                                                                                                 | Rare                                                           | increased Retinitis                                                                                                                                                                                                                                                                                                                       |
+| Cardiac                                                                                         | Common                                                         | Tachycardia                                                                                                                                                                                                                                                                                                                               |
+| disorders a                                                                                     |                                                                |                                                                                                                                                                                                                                                                                                                                           |
+|                                                                                                 |                                                                | Palpitations                                                                                                                                                                                                                                                                                                                              |
+|                                                                                                 |                                                                | Cardiac arrest                                                                                                                                                                                                                                                                                                                            |
+|                                                                                                 |                                                                | Cardiac failure                                                                                                                                                                                                                                                                                                                           |
+|                                                                                                 | Uncommon                                                       |                                                                                                                                                                                                                                                                                                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                 |             | Cardiac failure congestive                                                |
-|-------------------------------------------------|-------------|---------------------------------------------------------------------------|
-|                                                 |             | Cardiomyopathy                                                            |
-|                                                 |             | Cardiotoxicity                                                            |
-|                                                 | Rare        | Ventricular arrhythmia                                                    |
-|                                                 |             | Bundle branch block right                                                 |
-|                                                 |             | Conduction disorder                                                       |
-|                                                 |             | Atrioventricular block                                                    |
-|                                                 |             | Cyanosis                                                                  |
-| Vascular                                        | Common      | Hypertension                                                              |
-| disorders                                       |             | Hypotension                                                               |
-|                                                 |             | Flushing                                                                  |
-|                                                 | Uncommon    | Pulmonary embolism                                                        |
-|                                                 |             | Infusion site necrosis (including soft tissue necrosis and skin necrosis) |
-|                                                 |             | Phlebitis                                                                 |
-|                                                 |             | Orthostatic hypotension                                                   |
-|                                                 | Rare        | Thrombophlebitis                                                          |
-|                                                 |             | Venous thrombosis                                                         |
-|                                                 |             | Vasodilatation                                                            |
-| Respiratory, thoracic and mediastinal disorders | Common      | Dyspnoea                                                                  |
-|                                                 |             | Dyspnoea exertional                                                       |
-|                                                 |             | Epistaxis                                                                 |
-|                                                 |             | Cough                                                                     |
-|                                                 | Uncommon    | Asthma                                                                    |
-|                                                 | Rare        | Throat tightness                                                          |
-|                                                 | Not Known   | Interstitial lung disease                                                 |
-| Gastrointestinal                                | Very common | Stomatitis                                                                |
-| disorders                                       |             | Nausea                                                                    |
-|                                                 |             | Vomiting                                                                  |
-|                                                 |             | Diarrhoea                                                                 |
-|                                                 |             | Constipation                                                              |
-|                                                 | Common      | Gastritis                                                                 |
-|                                                 |             | Aphthous stomatitis                                                       |
-|                                                 |             | Mouth ulceration                                                          |
-|                                                 |             | Dyspepsia                                                                 |
-|                                                 |             | Dysphagia                                                                 |
-|                                                 |             | Oesophagitis                                                              |
-|                                                 |             | Abdominal pain                                                            |
-|                                                 |             | Abdominal pain upper                                                      |
-|                                                 |             | Oral pain                                                                 |
-|                                                 | Uncommon    | Flatulence                                                                |
-|                                                 |             | Gingivitis                                                                |
-|                                                 | Rare        | Glossitis                                                                 |
-|                                                 |             | Lip ulceration                                                            |
-| Skin and subcutaneous tissue disorders          | Very common | Palmar plantar erythrodysaesthesia syndrome a                             |
-|                                                 |             | Rash (including erythematous, maculo-papular, and papular)                |
-|                                                 |             | Alopecia                                                                  |
-|                                                 | Common      | Skin exfoliation                                                          |
-|                                                 |             | Blister                                                                   |
-|                                                 |             | Dry skin                                                                  |
-|                                                 |             | Erythema                                                                  |
+|                                        |                | Cardiac failure congestive                                                |
+|----------------------------------------|----------------|---------------------------------------------------------------------------|
+|                                        |                | Cardiomyopathy                                                            |
+|                                        |                | Cardiotoxicity                                                            |
+|                                        | Rare           | Ventricular arrhythmia                                                    |
+|                                        |                | Bundle branch block right                                                 |
+|                                        |                | Conduction disorder                                                       |
+|                                        |                | Atrioventricular block                                                    |
+|                                        |                | Cyanosis                                                                  |
+| Vascular                               | Common         | Hypertension                                                              |
+| disorders                              |                | Hypotension                                                               |
+|                                        |                | Flushing                                                                  |
+|                                        | Uncommon       | Pulmonary embolism                                                        |
+|                                        |                | Infusion site necrosis (including soft tissue necrosis and skin necrosis) |
+|                                        |                | Phlebitis                                                                 |
+|                                        |                | Orthostatic hypotension                                                   |
+|                                        | Rare           | Thrombophlebitis                                                          |
+|                                        |                | Venous thrombosis                                                         |
+|                                        |                | Vasodilatation                                                            |
+| Respiratory, thoracic and mediastinal  | Common         | Dyspnoea                                                                  |
+|                                        |                | Dyspnoea exertional                                                       |
+|                                        |                | Epistaxis                                                                 |
+| disorders                              |                | Cough                                                                     |
+|                                        | Uncommon       | Asthma                                                                    |
+|                                        |                | Chest discomfort                                                          |
+|                                        | Rare Not Known | Throat tightness Interstitial lung disease                                |
+| Gastrointestinal                       | Very common    | Stomatitis                                                                |
+| disorders                              |                | Nausea                                                                    |
+|                                        |                | Vomiting                                                                  |
+|                                        |                | Diarrhoea                                                                 |
+|                                        |                | Constipation                                                              |
+|                                        | Common         | Gastritis                                                                 |
+|                                        |                | Aphthous stomatitis                                                       |
+|                                        |                | Mouth ulceration                                                          |
+|                                        |                | Dyspepsia                                                                 |
+|                                        |                | Dysphagia                                                                 |
+|                                        |                | Oesophagitis                                                              |
+|                                        |                | Abdominal pain                                                            |
+|                                        |                | Abdominal pain upper                                                      |
+|                                        |                | Oral pain                                                                 |
+|                                        |                | Dry mouth                                                                 |
+|                                        | Uncommon       | Flatulence                                                                |
+|                                        |                | Gingivitis                                                                |
+|                                        | Rare           | Glossitis                                                                 |
+|                                        |                | Lip ulceration                                                            |
+| Skin and subcutaneous tissue disorders | Very common    | Palmar plantar erythrodysaesthesia syndrome a                             |
+|                                        |                | Rash (including erythematous, maculo-papular, and papular)                |
+|                                        |                | Alopecia                                                                  |
+|                                        | Common         | Skin exfoliation                                                          |
+|                                        |                | Blister                                                                   |
+|                                        |                | Dry skin                                                                  |
+|                                        |                | Erythema                                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -466,12 +436,12 @@ Table 5: Adverse reactions in patients treated with Caelyx pegylated liposomal
 | Musculoskeletal and connective tissue disorders      | Common      | Muscle spasms                                                                             |
 | Musculoskeletal and connective tissue disorders      |             | Myalgia                                                                                   |
 | Musculoskeletal and connective tissue disorders      |             | Arthralgia                                                                                |
-|                                                      |             | Bone pain                                                                                 |
+| Musculoskeletal and connective tissue disorders      |             | Bone pain                                                                                 |
 |                                                      | Uncommon    | Muscular weakness                                                                         |
 | Renal and urinary disorders                          | Common      | Dysuria                                                                                   |
 | Reproductive disorders                               | Uncommon    | Breast pain                                                                               |
 | Reproductive disorders                               | Rare        | Vaginal infection                                                                         |
-|                                                      |             | Scrotal erythema                                                                          |
+| Reproductive disorders                               |             | Scrotal erythema                                                                          |
 | General disorders and administration site conditions | Very common | Pyrexia                                                                                   |
 | General disorders and administration site conditions |             | Fatigue                                                                                   |
 | General disorders and administration site conditions | Common      | Infusion-related reaction                                                                 |
@@ -484,7 +454,7 @@ Table 5: Adverse reactions in patients treated with Caelyx pegylated liposomal
 | General disorders and administration site conditions | Uncommon    | Administration site extravasation                                                         |
 | General disorders and administration site conditions |             | Injection site reaction                                                                   |
 | General disorders and administration site conditions |             | Face oedema                                                                               |
-| General disorders and administration site conditions | Rare        | Mucous membrane disorder                                                                  |
+| General disorders and administration site conditions | Rare        | Hyperthermia Mucous membrane disorder                                                     |
 | General disorders and administration site conditions | Uncommon    | Ejection fraction decreased                                                               |
 | Investigations                                       | Common      | Weight decreased                                                                          |
 | General disorders and administration site conditions |             |                                                                                           |
@@ -509,7 +479,7 @@ Respiratory undesirable effects commonly occurred in clinical studies of Caelyx 
 
 ## Cardiac toxicity
 
-An increased incidence of congestive heart failure is associated with doxorubicin therapy at cumulative lifetime doses &gt; 450 mg/m 2 or at lower doses for patients with cardiac risk factors. Endomyocardial biopsies on nine of ten AIDS-KS patients receiving cumulative doses of Caelyx pegylated liposomal greater than 460 mg/m 2 indicate no evidence of anthracycline-induced cardiomyopathy. The recommended dose of Caelyx pegylated liposomal for AIDS-KS patients is 20 mg/m 2 every two-to-three weeks. The cumulative dose at which cardiotoxicity would become a concern for these AIDS-KS patients (&gt; 400 mg/m 2 ) would require more than 20 courses of Caelyx pegylated liposomal therapy over 40 to 60 weeks.
+An increased incidence of congestive heart failure is associated with doxorubicin therapy at cumulative lifetime doses &gt; 450 mg/m 2 or at lower doses for patients with cardiac risk factors. Endomyocardial biopsies on nine of ten AIDS-KS patients receiving cumulative doses of Caelyx pegylated liposomal greater than 460 mg/m 2 indicate no evidence of anthracycline-induced cardiomyopathy. The recommended dose of Caelyx pegylated liposomal for AIDS-KS patients is 20 mg/m 2  every two-to-three weeks. The cumulative dose at which cardiotoxicity would become a concern for these AIDS-KS patients (&gt; 400 mg/m 2 ) would require more than 20 courses of Caelyx pegylated liposomal therapy over 40 to 60 weeks.
 
 In addition, endomyocardial biopsies were performed in 8 solid tumour patients with cumulative anthracycline doses of 509 mg/m 2 -1,680 mg/m 2 . The range of Billingham cardiotoxicity scores was grades 0-1.5. These grading scores are consistent with no or mild cardiac toxicity.
 
@@ -565,7 +535,7 @@ A phase III randomised, parallel-group, open-label, multicentre study comparing 
 
 Caelyx pegylated liposomal is a long-circulating pegylated liposomal formulation of doxorubicin hydrochloride. Pegylated liposomes contain surface-grafted segments of the hydrophilic polymer methoxypolyethylene glycol (MPEG). These linear MPEG groups extend from the liposome surface creating a protective coating that reduces interactions between the lipid bilayer membrane and the plasma components. This allows the Caelyx pegylated liposomal liposomes to circulate for prolonged periods in the blood stream. Pegylated liposomes are small enough (average diameter of approximately 100 nm) to pass intact (extravasate) through defective blood vessels supplying tumours. Evidence of penetration of pegylated liposomes from blood vessels and their entry and accumulation in tumours has been seen in mice with C-26 colon carcinoma tumours and in transgenic mice with KS-like lesions. The pegylated liposomes also have a low permeability lipid matrix and internal aqueous buffer system that combine to keep doxorubicin hydrochloride encapsulated during liposome residence time in circulation.
 
-The plasma pharmacokinetics of Caelyx pegylated liposomal in humans differ significantly from those reported in the literature for standard doxorubicin hydrochloride preparations. At lower doses (10 mg/m 2 -20 mg/m 2 ) Caelyx pegylated liposomal displayed linear pharmacokinetics. Over the dose range of 10 mg/m 2 -60 mg/m 2 Caelyx pegylated liposomal displayed non-linear pharmacokinetics. Standard doxorubicin hydrochloride displays extensive tissue distribution (volume of distribution: 700 to 1,100 l/m 2 ) and a rapid elimination clearance (24 to 73 l/h/m 2 ). In contrast, the pharmacokinetic profile of Caelyx pegylated liposomal indicates that Caelyx pegylated liposomal is confined mostly to the vascular fluid volume and that the clearance of doxorubicin from the blood is dependent upon the liposomal carrier. Doxorubicin becomes available after the liposomes are extravasated and enter the tissue compartment.
+The plasma pharmacokinetics of Caelyx pegylated liposomal in humans differ significantly from those reported in the literature for standard doxorubicin hydrochloride preparations. At lower doses (10 mg/m 2 -20 mg/m 2 ) Caelyx pegylated liposomal displayed linear pharmacokinetics. Over the dose range of 10 mg/m 2 -60 mg/m 2  Caelyx pegylated liposomal displayed non-linear pharmacokinetics. Standard doxorubicin hydrochloride displays extensive tissue distribution (volume of distribution: 700 to 1,100 l/m 2 ) and a rapid elimination clearance (24 to 73 l/h/m 2 ). In contrast, the pharmacokinetic profile of Caelyx pegylated liposomal indicates that Caelyx pegylated liposomal is confined mostly to the vascular fluid volume and that the clearance of doxorubicin from the blood is dependent upon the liposomal carrier. Doxorubicin becomes available after the liposomes are extravasated and enter the tissue compartment.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -583,25 +553,22 @@ The pharmacokinetics of Caelyx pegylated liposomal determined in 18 patients wit
 
 ## Ovarian cancer patients
 
-The pharmacokinetics of Caelyx pegylated liposomal determined in 11 patients with ovarian carcinoma were similar to the pharmacokinetics determined in the larger population of 120 patients with various cancers. The mean intrinsic clearance was 0.021 l/h/m 2 (range 0.009 -0.041 l/h/m 2 ), the mean central volume of distribution was 1.95 l/m 2 (range 1.67 -2.40 l/m 2 ). The mean apparent half-life was 75.0 hours (range 36.1 -125 hours).
+The pharmacokinetics of Caelyx pegylated liposomal determined in 11 patients with ovarian carcinoma were similar to the pharmacokinetics determined in the larger population of 120 patients with various cancers. The mean intrinsic clearance was 0.021 l/h/m 2 (range 0.009-0.041 l/h/m 2 ), the mean central volume of distribution was 1.95 l/m 2 (range 1.67-2.40 l/m 2 ). The mean apparent half-life was 75.0 hours (range 36.1-125 hours).
 
 ## AIDS-related KS patients
 
-The plasma pharmacokinetics of Caelyx pegylated liposomal were evaluated in 23 patients with KS who received single doses of 20 mg/m 2 administered by a 30-minute infusion. The pharmacokinetic parameters of Caelyx pegylated liposomal (primarily representing pegylated liposomal doxorubicin hydrochloride and low levels of unencapsulated doxorubicin hydrochloride) observed after the 20 mg/m 2 doses are presented in Table 6.
+The plasma pharmacokinetics of Caelyx pegylated liposomal were evaluated in 23 patients with KS who received single doses of 20 mg/m 2 administered by a 30-minute infusion. The pharmacokinetic parameters of Caelyx pegylated liposomal (primarily representing pegylated liposomal doxorubicin hydrochloride and low levels of unencapsulated doxorubicin hydrochloride) observed after the 20 mg/m 2  doses are presented in Table 6.
 
 Table 6. Pharmacokinetic parameters in Caelyx pegylated liposomal-treated AIDS-KS patients
 
-|                                       | Mean + standard error   |
-|---------------------------------------|-------------------------|
-| Parameter                             | 20 mg/m 2 (n=23)        |
-| Maximum plasma concentration* (µg/ml) | 8.34  0.49             |
-| Plasma clearance (l/h/m 2 )           | 0.041  0.004           |
-| Volume of distribution (l/m 2 )       | 2.72  0.120            |
-| AUC (µg/ml  h)                       | 590.00  58.7           |
-|  1 half-life (hours)                 | 5.2  1.4               |
-|  2 half-life (hours)                 | 55.0  4.8              |
-
-* Measured at the end of a 30-minute infusion
+|                                         | Mean + standard error 2    |
+|-----------------------------------------|----------------------------|
+| Parameter Maximum plasma concentration* | 20 mg/m (n=23) 8.34 ± 0.49 |
+| Plasma clearance (l/h/m 2 )             | 0.041 ± 0.004              |
+| Volume of distribution (l/m 2 )         | 2.72 ± 0.120               |
+| AUC (µg/ml ⋅ h)                         | 590.00 ± 58.7              |
+| λ 1 half-life (hours)                   | 5.2 ± 1.4                  |
+| λ 2 half-life (hours)                   | 55.0 ± 4.8                 |
 
 ## 5.3 Preclinical safety data
 
@@ -633,7 +600,7 @@ Although no studies have been conducted with Caelyx pegylated liposomal, doxorub
 
 ## Reproductive toxicity
 
-Caelyx pegylated liposomal resulted in mild to moderate ovarian and testicular atrophy in mice after a single dose of 36 mg/kg. Decreased testicular weights and hypospermia were present in rats after repeat doses  0.25 mg/kg/day and diffuse degeneration of the seminiferous tubules and a marked decrease in spermatogenesis were observed in dogs after repeat doses of 1 mg/kg/day (see section 4.6).
+Caelyx pegylated liposomal resulted in mild to moderate ovarian and testicular atrophy in mice after a single dose of 36 mg/kg. Decreased testicular weights and hypospermia were present in rats after repeat doses ≥ 0.25 mg/kg/day and diffuse degeneration of the seminiferous tubules and a marked decrease in spermatogenesis were observed in dogs after repeat doses of 1 mg/kg/day (see section 4.6).
 
 ## Nephrotoxicity
 
@@ -643,11 +610,9 @@ A study has shown that Caelyx pegylated liposomal at a single intravenous dose o
 
 ## 6.1 List of excipients
 
- -(2-[1,2-distearoylsn -glycero(3)phosphooxy]ethylcarbamoyl)- -methoxypoly(oxyethylen)-40 sodium salt (MPEG-DSPE)
+α -(2-[1,2-distearoylsn -glycero(3)phosphooxy]ethylcarbamoyl)ω -methoxypoly(oxyethylen)-40 sodium salt (MPEG-DSPE)
 
-fully hydrogenated soy phosphatidylcholine (HSPC)
-
-cholesterol
+fully hydrogenated soy phosphatidylcholine (HSPC) cholesterol
 
 <div style=\"page-break-after: always\"></div>
 
@@ -687,7 +652,7 @@ Do not use material that shows evidence of precipitation or any other particulat
 
 Caution must be exercised in handling Caelyx pegylated liposomal dispersion. The use of gloves is required. If Caelyx pegylated liposomal comes into contact with skin or mucosa, wash immediately and thoroughly with soap and water. Caelyx pegylated liposomal must be handled and disposed of in a manner consistent with that of other anticancer medicinal products in accordance with local requirements.
 
-Determine the dose of Caelyx pegylated liposomal to be administered (based upon the recommended dose and the patient's body surface area). Take the appropriate volume of Caelyx pegylated liposomal up into a sterile syringe. Aseptic technique must be strictly observed since no preservative or bacteriostatic agent is present in Caelyx pegylated liposomal. The appropriate dose of Caelyx pegylated liposomal must be diluted in 5% (50 mg/ml) glucose solution for infusion prior to administration. For doses &lt; 90 mg, dilute Caelyx pegylated liposomal in 250 ml, and for doses  90 mg, dilute Caelyx pegylated liposomal in 500 ml. This can be infused over 60 or 90 minutes as detailed in 4.2.
+Determine the dose of Caelyx pegylated liposomal to be administered (based upon the recommended dose and the patient's body surface area). Take the appropriate volume of Caelyx pegylated liposomal up into a sterile syringe. Aseptic technique must be strictly observed since no preservative or bacteriostatic agent is present in Caelyx pegylated liposomal. The appropriate dose of Caelyx pegylated liposomal must be diluted in 5% (50 mg/ml) glucose solution for infusion prior to administration. For doses &lt; 90 mg, dilute Caelyx pegylated liposomal in 250 ml, and for doses ≥ 90 mg, dilute Caelyx pegylated liposomal in 500 ml. This can be infused over 60 or 90 minutes as detailed in 4.2.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -711,11 +676,7 @@ Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/96/011/001
-
-EU/1/96/011/002
-
-EU/1/96/011/003
+EU/1/96/011/001 EU/1/96/011/002 EU/1/96/011/003
 
 EU/1/96/011/004
 
@@ -750,7 +711,7 @@ Name and address of the manufacturer responsible for batch release
 
 Janssen Pharmaceutica NV, Turnhoutseweg 30, B-2340 Beerse, Belgium
 
-Baxter Oncology GmbH, Kantstrasse 2, 33790 Halle/Westfalen, Germany
+Simtra Deutschland GmbH, Kantstrasse 2, 33790 Halle/Westfalen, Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -789,11 +750,9 @@ An updated RMP should be submitted:
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CAELYX PEGYLATED LIPOSOMAL CARTON 20 mg/10 ml -
+CAELYX PEGYLATED LIPOSOMAL CARTON 20 mg/10 ml - 1 vial
 
-1 vial
-
-CAELYX PEGYLATED LIPOSOMAL CARTON 20 mg/10 ml -10 vials
+CAELYX PEGYLATED LIPOSOMAL CARTON 20 mg/10 ml - 10 vials
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -805,7 +764,7 @@ One ml of Caelyx pegylated liposomal contains 2 mg doxorubicin hydrochloride.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients:  -(2-[1,2-distearoylsnglycero(3)phosphooxy]ethylcarbamoyl)- -methoxypoly(oxyethylen)-40 sodium salt, fully hydrogenated soy phosphatidylcholine, cholesterol, ammonium sulphate, sucrose, histidine, water for injections, hydrochloric acid and sodium hydroxide.
+Excipients: α -(2-[1,2-distearoylsnglycero(3)phosphooxy]ethylcarbamoyl)ϖ -methoxypoly(oxyethylen)-40 sodium salt, fully hydrogenated soy phosphatidylcholine, cholesterol, ammonium sulphate, sucrose, histidine, water for injections, hydrochloric acid and sodium hydroxide.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -849,13 +808,15 @@ Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/96/011/001 (1 vial) EU/1/96/011/002 (10 vials)
+EU/1/96/011/001 (1 vial)
+
+EU/1/96/011/002 (10 vials)
 
 ## 13. BATCH NUMBER
 
 Batch
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -879,11 +840,9 @@ NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-CAELYX PEGYLATED LIPOSOMAL CARTON 50 mg/25 ml -
+CAELYX PEGYLATED LIPOSOMAL CARTON 50 mg/25 ml - 1 vial
 
-1 vial
-
-CAELYX PEGYLATED LIPOSOMAL CARTON 50 mg/25 ml -10 vials
+CAELYX PEGYLATED LIPOSOMAL CARTON 50 mg/25 ml - 10 vials
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -895,7 +854,7 @@ One ml of Caelyx pegylated liposomal contains 2 mg doxorubicin hydrochloride.
 
 ## 3. LIST OF EXCIPIENTS
 
-Excipients:  -(2-[1,2-distearoylsnglycero(3)phosphooxy]ethylcarbamoyl)- -methoxypoly(oxyethylen)-40 sodium salt, fully hydrogenated soy phosphatidylcholine, cholesterol, ammonium sulphate, sucrose, histidine, water for injections, hydrochloric acid and sodium hydroxide.
+Excipients: α -(2-[1,2-distearoylsnglycero(3)phosphooxy]ethylcarbamoyl)ϖ -methoxypoly(oxyethylen)-40 sodium salt, fully hydrogenated soy phosphatidylcholine, cholesterol, ammonium sulphate, sucrose, histidine, water for injections, hydrochloric acid and sodium hydroxide.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -933,13 +892,13 @@ Cytotoxic
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Baxter Holding B.V. Kobaltweg 49, 3542 CE Utrecht,
-
-Netherlands
+Baxter Holding B.V. Kobaltweg 49, 3542 CE Utrecht, Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/96/011/003 (1 vial) EU/1/96/011/004 (10 vials)
+EU/1/96/011/003 (1 vial)
+
+EU/1/96/011/004 (10 vials)
 
 ## 13. BATCH NUMBER
 
@@ -975,7 +934,7 @@ Caelyx pegylated liposomal 2 mg/ml sterile concentrate doxorubicin hydrochloride
 
 ## IV after dilution.
 
-## 2. METHOD OF ADMINISTRATION
+2. METHOD OF ADMINISTRATION
 
 3. EXPIRY DATE
 
@@ -999,9 +958,9 @@ Batch
 
 Caelyx pegylated liposomal 2 mg/ml sterile concentrate doxorubicin hydrochloride
 
-## IV after dilution.
+IV after dilution.
 
-## 2. METHOD OF ADMINISTRATION
+2. METHOD OF ADMINISTRATION
 
 3. EXPIRY DATE
 
@@ -1067,7 +1026,7 @@ You should tell your doctor about any of the following:
 
 - -if you are receiving any treatment for heart disease or liver disease;
 - -if you are diabetic, because Caelyx pegylated liposomal contains sugar which may require an adjustment to the treatment of your diabetes;
-- -if you have Kaposi's sarcoma and have had your spleen removed ;
+- -if you have Kaposi's sarcoma and have had your spleen removed;
 - -if you notice sores, discolouration or any discomfort in your mouth.
 
 <div style=\"page-break-after: always\"></div>
@@ -1101,7 +1060,7 @@ Do not drive or use any tools or machines if you feel tired or sleepy from treat
 
 Caelyx pegylated liposomal contains soya oil.  If you are allergic to peanut or soya, do not use this medicine.
 
-Caelyx pegylated liposomal contains less than 1 mmol sodium (23 mg) per dose, that is to say ' essentially sodium-free ' .
+Caelyx pegylated liposomal contains less than 1 mmol sodium (23 mg) per dose, that is to say 'essentially sodium-free'.
 
 ## 3. How to use Caelyx pegylated liposomal
 
@@ -1149,7 +1108,7 @@ Leaking of the injection fluid from the veins into the tissues under the skin ma
 Your doctor should be contacted immediately if any of the following serious side effects are noticed:
 
 - -you develop fever, feel tired, or if you have signs of bruising or bleeding (very common)
-- -redness, swelling, peeling or tenderness, mainly on the hands or feet ('hand -foot' syndrome). These effects have been seen very commonly and are sometimes severe. In severe cases, these effects may interfere with certain daily activities, and may last for 4 weeks or longer before resolving completely. The doctor may wish to delay the start and/or reduce the dose of the next treatment (see Strategies to prevent and treat hand foot syndrome, below)
+- -redness, swelling, peeling or tenderness, mainly on the hands or feet ('hand-foot' syndrome). These effects have been seen very commonly and are sometimes severe. In severe cases, these effects may interfere with certain daily activities, and may last for 4 weeks or longer before resolving completely. The doctor may wish to delay the start and/or reduce the dose of the next treatment (see Strategies to prevent and treat hand foot syndrome, below)
 - -sores in mouth, severe diarrhoea or vomiting or nausea (very common)
 - -infections (common), including lung infections (pneumonia) or infections that may affect your vision
 - -being short of breath (common)
@@ -1207,7 +1166,7 @@ When Caelyx pegylated liposomal is used alone, some of these effects are less li
 ## Uncommon side effects (may affect up to 1 in 100 people)
 
 - -herpes simplex virus infections (cold sores or genital herpes), fungal infection
-- -low number of all types of blood cells, increased number of ' platelets ' (cells that help blood to clot)
+- -low number of all types of blood cells, increased number of 'platelets' (cells that help blood to clot)
 - -allergic reaction
 - -high level of potassium in the blood, low level of magnesium in the blood
 - -nerve damage affecting more than one area of the body
@@ -1269,7 +1228,7 @@ Pyridoxine (Vitamin B6):
 
 Keep this medicine out of the sight and reach of children.
 
-Store in a refrigerator (2  C -8  C). Do not freeze.
+Store in a refrigerator (2 ° C - 8 ° C). Do not freeze.
 
 ## After dilution:
 
@@ -1286,7 +1245,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Caelyx pegylated liposomal contains
 
 - -The active substance is doxorubicin hydrochloride. One ml of Caelyx pegylated liposomal contains 2 mg of doxorubicin hydrochloride in a pegylated liposomal formulation.
-- -The other ingredients are  -(2-[1,2-distearoylsnglycero(3)phosphooxy]ethylcarbamoyl)- -methoxypoly(oxyethylen)-40 sodium salt (MPEG-DSPE), fully hydrogenated soy phosphatidylcholine (HSPC), cholesterol, ammonium sulphate, sucrose, histidine, water for injections, hydrochloric acid (for pH-adjustment) and sodium hydroxide (for pH-adjustment). See section 2.
+- -The other ingredients are α -(2-[1,2-distearoylsnglycero(3)phosphooxy]ethylcarbamoyl)ω -methoxypoly(oxyethylen)-40 sodium salt (MPEG-DSPE), fully hydrogenated soy phosphatidylcholine (HSPC), cholesterol, ammonium sulphate, sucrose, histidine, water for injections, hydrochloric acid (for pH-adjustment) and sodium hydroxide (for pH-adjustment). See section 2.
 
 Caelyx pegylated liposomal concentrate for solution for infusion: vials which provide 10 ml (20 mg) or 25 ml (50 mg).
 
@@ -1304,9 +1263,7 @@ Baxter Holding B.V. Kobaltweg 49, 3542 CE Utrecht, Netherlands
 
 Janssen Pharmaceutica NV Turnhoutseweg 30 B-2340 Beerse Belgium
 
-## Baxter Oncology GmbH
-
-Kantstrasse 2 33790 Halle/Westfalen Germany
+Simtra Deutschland GmbH Kantstrasse 2 33790 Halle/Westfalen Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1346,11 +1303,7 @@ Tel: +372 651 5120
 
 ## Ελλάδα
 
-Baxter (Hellas) Ε . Π . Ε .,
-
-Τηλ:
-
-+30 210 28 80 000
+Baxter (Hellas) Ε . Π . Ε ., Τηλ: +30 210 28 80 000
 
 ## Lietuva
 
@@ -1388,11 +1341,7 @@ Tlf: +47 22 58 48 00
 
 ## Österreich
 
-Baxter Healthcare GmbH
-
-Tel: +43 1 71120 0
-
-austria\\_office\\_healthcare@baxter.com
+Baxter Healthcare GmbH Tel: +43 1 71120 0 austria\\_office\\_healthcare@baxter.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1472,7 +1421,7 @@ Tel: +40 372 302 053
 
 Baxter d.o.o.
 
-Tel: +386 1 420 16 80
+Tel:  +386 1 320 06 59
 
 ## Slovenská republika
 
@@ -1484,7 +1433,7 @@ Tel: +421 2 32 10 11 50
 
 Baxter Oy
 
-Puh/Tel: +358 (09) 862 111
+Puh/Tel: +358 (0) 800 144 233
 
 ## Sverige
 
@@ -1504,7 +1453,7 @@ The following information is intended for medical or healthcare professionals on
 
 Caution must be exercised in handling Caelyx pegylated liposomal dispersion. The use of gloves is required. If Caelyx pegylated liposomal comes into contact with skin or mucosa, wash immediately and thoroughly with soap and water. Caelyx pegylated liposomal must be handled and disposed of in a manner consistent with that of other anticancer medicinal products.
 
-Determine the dose of Caelyx pegylated liposomal to be administered (based upon the recommended dose and the patient's body surface area). Take the appropriate volume of Caelyx pegylated liposomal up into a sterile syringe. Aseptic technique must be strictly observed since no preservative or bacteriostatic agent is present in Caelyx pegylated liposomal. The appropriate dose of Caelyx pegylated liposomal must be diluted in 5% (50 mg/ml) glucose solution for infusion prior to administration. For doses &lt; 90 mg, dilute Caelyx pegylated liposomal in 250 ml, and for doses  90 mg, dilute Caelyx pegylated liposomal in 500 ml.
+Determine the dose of Caelyx pegylated liposomal to be administered (based upon the recommended dose and the patient's body surface area). Take the appropriate volume of Caelyx pegylated liposomal up into a sterile syringe. Aseptic technique must be strictly observed since no preservative or bacteriostatic agent is present in Caelyx pegylated liposomal. The appropriate dose of Caelyx pegylated liposomal must be diluted in 5% (50 mg/ml) glucose solution for infusion prior to administration. For doses &lt; 90 mg, dilute Caelyx pegylated liposomal in 250 ml, and for doses ≥ 90 mg, dilute Caelyx pegylated liposomal in 500 ml.
 
 To minimise the risk of infusion reactions, the initial dose is administered at a rate no greater than 1 mg/minute. If no infusion reaction is observed, subsequent Caelyx pegylated liposomal infusions may be administered over a 60-minute period.
 

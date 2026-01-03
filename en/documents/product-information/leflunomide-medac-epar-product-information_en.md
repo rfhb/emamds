@@ -4,8 +4,8 @@ document_pages: 54
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/leflunomide-medac-epar-product-information_en.pdf
 document_name: leflunomide-medac-epar-product-information_en.pdf
 version: success
-processing_time: 10.761667
-conversion_datetime: 2025-12-29 19:40:29.611644
+processing_time: 10.7841907
+conversion_datetime: 2026-01-03 12:54:50.455054
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

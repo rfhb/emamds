@@ -4,13 +4,13 @@ document_pages: 103
 document_pathfilename: www.ema.europa.eu/en/documents/variation-report/tremfya-x-0000248626-epar-assessment-report-variation_en.pdf
 document_name: tremfya-x-0000248626-epar-assessment-report-variation_en.pdf
 version: success
-processing_time: 69.8544526
-conversion_datetime: 2025-12-23 04:45:47.36842
+processing_time: 71.8828932
+conversion_datetime: 2026-01-03 12:18:44.663946
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -608,16 +608,6 @@ Table 3: Guselkumab Plaque PsO Study in Paediatric Participants: CNTO1959PSO3011
 |------------------------------------|------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----------------|----------------------|------------------------------------------|
 | CNTO1959PSO3011 (PROTOSTAR) Part 2 | Paediatric participants with chronic moderate to severe plaque PsO (≥12 to <18 years of age) c | Open-label, single-arm with a continuous weight-based dose regimen of guselkumab at Weeks 0, 4, and q8w thereafter through Week 52 (N=28). |                                          28 | 15.5 (12; 17)   | 67.6 (36.2; 122)     | NA d                                     |
 
-E-R=exposureresponse; max=maximum; min=minimum; N=number of participants; NA=not applicable; PK=pharmacokinetic(s); PsO=psoriasis.
-
-a  Participants were defined as evaluable if they received at least 1 dose of guselkumab and had at least 1 valid guselkumab concentration with associated sampling time and dosage information.
-
-b Median (range: min; max).
-
-c Part 2 of the study only enrolled adolescent participants (≥12 to &lt;18 years).
-
-d  For Part 2 of the study, efficacy evaluation responses were evaluated over time through Week 52 but are not included in the E-R analysis.
-
 ## 2.6.2. Clinical pharmacology
 
 ## 2.6.2.1. Pharmacokinetics
@@ -892,8 +882,6 @@ Table 7: Demographic and Baseline Characteristics of Pooled Study Data
 |                                           | Range                                | (12.6; 30.6)                           | (12.9; 51.9)                        | (11.7; 68.4)                                                        | (11.7; 68.4) 76.1 (15.6)                                            |
 | Serum creatinine (μmol/L)                 | Mean (SD) Median                     | 44.4 (8.20) 44.0                       | (1)69 64.5                          | 77.0 (15.1) 77.5                                                    | 76.0                                                                |
 |                                           | Range                                | (35.0; 66.0)                           | (42.0; 111)                         | (39.0; 212)                                                         | (35.0; 212)                                                         |
-
-N=number of participants; PASI Psoriasis Area Severity Index; PopPK=population pharmacokinetics; SD=standard deviation: v=vears.
 
 ## PopPK Model Results
 

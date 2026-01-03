@@ -4,8 +4,8 @@ document_pages: 116
 document_pathfilename: www.ema.europa.eu/en/documents/variation-report/saphnelo-h-c-004975-x-0023-epar-assessment-report-variation_en.pdf
 document_name: saphnelo-h-c-004975-x-0023-epar-assessment-report-variation_en.pdf
 version: success
-processing_time: 111.3466314
-conversion_datetime: 2025-12-24 23:18:07.747417
+processing_time: 117.4196575
+conversion_datetime: 2026-01-03 12:51:51.464981
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

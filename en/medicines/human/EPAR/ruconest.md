@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 11:31:28
+document_datetime: 2025-12-19 12:26:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ruconest.html
 document_name: ruconest.html
 version: success
-processing_time: 0.1365369
-conversion_datetime: 2025-12-30 01:45:46.432407
+processing_time: 0.5717137
+conversion_datetime: 2026-01-03 12:14:20.877614
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -118,7 +118,7 @@ English (EN) (81.58 KB - PDF)
 
 [View](/en/documents/overview/ruconest-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-915)
+[Other languages (22)](#file-language-dropdown-569)
 
 български (BG) (126.64 KB - PDF)
 
@@ -406,7 +406,7 @@ English (EN) (727.56 KB - PDF)
 
 [View](/en/documents/product-information/ruconest-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-755)
+[Other languages (24)](#file-language-dropdown-76)
 
 български (BG) (863.5 KB - PDF)
 
@@ -722,7 +722,7 @@ English (EN) (18.62 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ruconest-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-245)
+[Other languages (24)](#file-language-dropdown-255)
 
 български (BG) (41.41 KB - PDF)
 
@@ -1022,7 +1022,7 @@ English (EN) (30.55 KB - PDF)
 
 [View](/en/documents/conditions-member-states/ruconest-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-566)
+[Other languages (21)](#file-language-dropdown-857)
 
 български (BG) (108.89 KB - PDF)
 

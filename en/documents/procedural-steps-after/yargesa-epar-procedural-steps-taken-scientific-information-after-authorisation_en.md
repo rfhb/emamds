@@ -4,8 +4,8 @@ document_pages: 4
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/yargesa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: yargesa-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 2.2543554
-conversion_datetime: 2025-12-30 02:12:53.643919
+processing_time: 2.242081
+conversion_datetime: 2026-01-03 12:41:38.069831
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

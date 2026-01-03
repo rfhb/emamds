@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 11:32:56
+document_datetime: 2025-12-15 12:36:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/levetiracetam-hospira.html
 document_name: levetiracetam-hospira.html
 version: success
-processing_time: 0.1378023
-conversion_datetime: 2025-12-30 12:42:41.296193
+processing_time: 0.1447699
+conversion_datetime: 2026-01-03 13:11:16.506608
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -112,7 +112,7 @@ English (EN) (155.33 KB - PDF)
 
 [View](/en/documents/overview/levetiracetam-hospira-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-621)
+[Other languages (22)](#file-language-dropdown-484)
 
 български (BG) (165.61 KB - PDF)
 
@@ -390,7 +390,7 @@ English (EN) (260.68 KB - PDF)
 
 [View](/en/documents/product-information/levetiracetam-hospira-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-548)
+[Other languages (24)](#file-language-dropdown-477)
 
 български (BG) (292.36 KB - PDF)
 
@@ -706,7 +706,7 @@ English (EN) (13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/levetiracetam-hospira-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-463)
+[Other languages (24)](#file-language-dropdown-93)
 
 български (BG) (42.32 KB - PDF)
 
@@ -1108,7 +1108,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-787)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1386,7 +1386,7 @@ English (EN) (115.77 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/levetiracetam-hospira-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-117)
+[Other languages (24)](#file-language-dropdown-266)
 
 български (BG) (161.99 KB - DOCX)
 

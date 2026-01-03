@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/all-authorised-presentations/absimky-epar-all-authorised-presentations_en.pdf
 document_name: absimky-epar-all-authorised-presentations_en.pdf
 version: success
-processing_time: 0.8398046
-conversion_datetime: 2025-12-25 03:53:13.787925
+processing_time: 0.911592
+conversion_datetime: 2026-01-03 13:08:07.626586
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

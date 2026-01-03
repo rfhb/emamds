@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 11:14:58
+document_datetime: 2025-12-17 16:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trumenba.html
 document_name: trumenba.html
 version: success
-processing_time: 0.1228531
-conversion_datetime: 2025-12-30 01:31:51.414626
+processing_time: 0.1239101
+conversion_datetime: 2026-01-03 13:14:34.036516
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -113,7 +113,7 @@ English (EN) (77.17 KB - PDF)
 
 [View](/en/documents/overview/trumenba-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-452)
+[Other languages (22)](#file-language-dropdown-455)
 
 български (BG) (104 KB - PDF)
 
@@ -401,7 +401,7 @@ English (EN) (385.12 KB - PDF)
 
 [View](/en/documents/product-information/trumenba-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-447)
+[Other languages (24)](#file-language-dropdown-973)
 
 български (BG) (249.25 KB - PDF)
 
@@ -717,7 +717,7 @@ English (EN) (41.37 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/trumenba-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-247)
+[Other languages (24)](#file-language-dropdown-988)
 
 български (BG) (43.9 KB - PDF)
 

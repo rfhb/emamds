@@ -4,17 +4,17 @@ document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/trumenba-epar-product-information_en.pdf
 document_name: trumenba-epar-product-information_en.pdf
 version: success
-processing_time: 14.5901108
-conversion_datetime: 2025-12-19 01:53:33.225633
+processing_time: 14.3958404
+conversion_datetime: 2026-01-03 12:15:48.950214
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 

@@ -4,13 +4,13 @@ document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/datroway-epar-product-information_en.pdf
 document_name: datroway-epar-product-information_en.pdf
 version: success
-processing_time: 8.5929985
-conversion_datetime: 2025-12-20 11:52:58.727145
+processing_time: 8.3438856
+conversion_datetime: 2026-01-03 13:10:44.199829
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -299,28 +299,6 @@ Table 3: Adverse reactions in patients treated with datopotamab deruxtecan 6 mg/
 | Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                                                                  |
 |                                                      | Common                                               | infusion-related reaction k                                                                                     |
 
-a   Including COVID-19, COVID-19 pneumonia, SARS-CoV-2 test positive.
-
-b Including pneumonia, lower respiratory tract infection and lower respiratory tract infection fungal.
-
-c Including neutropenia and neutrophil count decreased.
-
-d Including keratitis, punctate keratitis and ulcerative keratitis.
-
-e Including conjunctivitis, conjunctival disorder, conjunctival hyperaemia and conjunctival irritation.
-
-f Including interstitial lung disease and pneumonitis.
-
-g Including stomatitis, aphthous ulcer, glossitis, mouth ulceration, odynophagia, oral pain, oropharyngeal pain and pharyngeal inflammation.
-
-h Including rash, erythematous rash, maculo-papular rash and pruritic rash.
-
-i Including skin hyperpigmentation and skin discolouration.
-
-j Including fatigue and asthenia.
-
-k Infusion-related reaction includes as any reaction (infusion-related reaction, pruritus and rash) occurring within the same day as Datroway infusion.
-
 ## Description of selected adverse reactions
 
 ## Interstitial lung disease/pneumonitis
@@ -416,18 +394,6 @@ Table 4: Efficacy results in TROPION-Breast01
 | 95% CI                               | 31.4, 41.3                           | 18.6, 27.2                           |
 | Duration of response by BICR a, f    | Duration of response by BICR a, f    | Duration of response by BICR a, f    |
 | Median, months (95% CI)              | 6.7 (5.6, 9.8)                       | 5.7 (4.9, 6.8)                       |
-
-a Data cutoff 17 July 2023
-
-b Predefined p-value boundary was 0.01.
-
-c Data cutoff 24 July 2024
-
-d 12.3% and 24.0% of patients in the datopotamab deruxtecan and ICC arms, respectively, received subsequent treatment with trastuzumab deruxtecan and/or sacituzumab govitecan post discontinuation.
-
-e Predefined p-value boundary was 0.0403.
-
-f Endpoints were analysed descriptively.
 
 Figure 1: Kaplan-Meier plot of PFS by BICR in TROPION-Breast01 (data cutoff 17 July 2023)
 

@@ -4,8 +4,8 @@ document_pages: 70
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ngenla-epar-product-information_en.pdf
 document_name: ngenla-epar-product-information_en.pdf
 version: success
-processing_time: 15.8313707
-conversion_datetime: 2025-12-25 11:15:33.258654
+processing_time: 17.1160125
+conversion_datetime: 2026-01-03 12:23:09.078087
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

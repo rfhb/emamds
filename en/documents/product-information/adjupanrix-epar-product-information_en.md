@@ -4,8 +4,8 @@ document_pages: 45
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/adjupanrix-epar-product-information_en.pdf
 document_name: adjupanrix-epar-product-information_en.pdf
 version: success
-processing_time: 14.644336
-conversion_datetime: 2025-12-30 00:06:39.599961
+processing_time: 15.3159083
+conversion_datetime: 2026-01-03 13:09:57.880579
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

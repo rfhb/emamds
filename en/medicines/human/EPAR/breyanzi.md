@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 11:50:42
+document_datetime: 2025-12-18 11:46:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/breyanzi.html
 document_name: breyanzi.html
 version: success
-processing_time: 0.1266856
-conversion_datetime: 2025-12-30 11:04:45.107318
+processing_time: 0.1303682
+conversion_datetime: 2026-01-03 12:53:13.01338
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -153,7 +153,7 @@ English (EN) (141.57 KB - PDF)
 
 [View](/en/documents/overview/breyanzi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-914)
+[Other languages (22)](#file-language-dropdown-940)
 
 български (BG) (161.07 KB - PDF)
 
@@ -441,7 +441,7 @@ English (EN) (937.97 KB - PDF)
 
 [View](/en/documents/product-information/breyanzi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-896)
+[Other languages (24)](#file-language-dropdown-449)
 
 български (BG) (1022.12 KB - PDF)
 
@@ -755,7 +755,7 @@ English (EN) (41.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/breyanzi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-419)
+[Other languages (24)](#file-language-dropdown-602)
 
 български (BG) (48.99 KB - PDF)
 

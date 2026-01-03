@@ -4,8 +4,8 @@ document_pages: 2
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/altuvoct-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
 document_name: altuvoct-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf
 version: success
-processing_time: 1.4153495
-conversion_datetime: 2025-12-25 01:40:34.981448
+processing_time: 1.5378692
+conversion_datetime: 2026-01-03 13:12:44.783446
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

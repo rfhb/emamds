@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/all-authorised-presentations/tuzulby-epar-all-authorised-presentations_en.pdf
 document_name: tuzulby-epar-all-authorised-presentations_en.pdf
 version: success
-processing_time: 0.9379589
-conversion_datetime: 2025-12-30 01:34:52.745869
+processing_time: 1.1485104
+conversion_datetime: 2026-01-03 13:05:52.3655
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

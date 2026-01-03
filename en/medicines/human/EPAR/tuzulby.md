@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 11:51:59
+document_datetime: 2025-12-19 15:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tuzulby.html
 document_name: tuzulby.html
 version: success
-processing_time: 0.1043677
-conversion_datetime: 2025-12-30 08:00:29.260548
+processing_time: 0.1068433
+conversion_datetime: 2026-01-03 12:39:06.102304
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -113,7 +113,7 @@ English (EN) (121.72 KB - PDF)
 
 [View](/en/documents/overview/tuzulby-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-855)
+[Other languages (22)](#file-language-dropdown-936)
 
 български (BG) (148.45 KB - PDF)
 
@@ -311,7 +311,7 @@ English (EN) (454.65 KB - PDF)
 
 [View](/en/documents/product-information/tuzulby-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-882)
+[Other languages (24)](#file-language-dropdown-117)
 
 български (BG) (499.97 KB - PDF)
 
@@ -627,7 +627,7 @@ English (EN) (42.92 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tuzulby-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-159)
+[Other languages (24)](#file-language-dropdown-291)
 
 български (BG) (61.04 KB - PDF)
 

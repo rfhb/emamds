@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 12:05:26
+document_datetime: 2025-12-19 15:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/pregabalin-viatris.html
 document_name: pregabalin-viatris.html
 version: success
-processing_time: 0.1300412
-conversion_datetime: 2025-12-30 07:56:13.936055
+processing_time: 0.3146436
+conversion_datetime: 2026-01-03 13:21:06.919936
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -109,7 +109,7 @@ English (EN) (176.53 KB - PDF)
 
 [View](/en/documents/overview/pregabalin-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-886)
+[Other languages (22)](#file-language-dropdown-143)
 
 български (BG) (178.14 KB - PDF)
 
@@ -399,7 +399,7 @@ English (EN) (324.77 KB - PDF)
 
 [View](/en/documents/product-information/pregabalin-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-750)
+[Other languages (24)](#file-language-dropdown-630)
 
 български (BG) (683.9 KB - PDF)
 
@@ -715,7 +715,7 @@ English (EN) (41.33 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/pregabalin-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-241)
+[Other languages (24)](#file-language-dropdown-339)
 
 български (BG) (103.35 KB - PDF)
 
@@ -1120,7 +1120,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-787)
 
 български (BG) (93.16 KB - PDF)
 

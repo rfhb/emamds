@@ -4,8 +4,8 @@ document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/entyvio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: entyvio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.5403985
-conversion_datetime: 2025-12-28 00:42:16.088775
+processing_time: 1.5802955
+conversion_datetime: 2026-01-03 13:02:44.432264
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

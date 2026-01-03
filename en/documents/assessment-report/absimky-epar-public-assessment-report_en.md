@@ -4,13 +4,13 @@ document_pages: 105
 document_pathfilename: www.ema.europa.eu/en/documents/assessment-report/absimky-epar-public-assessment-report_en.pdf
 document_name: absimky-epar-public-assessment-report_en.pdf
 version: success
-processing_time: 64.5081336
-conversion_datetime: 2025-12-24 08:54:39.755274
+processing_time: 68.1208708
+conversion_datetime: 2026-01-03 12:59:49.491579
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)

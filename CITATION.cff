@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: Regulatory documents as Markdown files
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - orcid: 'https://orcid.org/0000-0002-8148-6748'
+    given-names: Ralf
+    family-names: Herold
+identifiers:
+  - type: url
+    value: 'https://github.com/rfhb/emamds'
+    description: Repository
+url: 'https://regulatorysciencedata.eu/posts/emamds/'
+license: MIT
+date-released: 2026-01-04

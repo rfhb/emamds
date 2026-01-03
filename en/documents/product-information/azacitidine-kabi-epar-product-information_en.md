@@ -4,8 +4,8 @@ document_pages: 37
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/azacitidine-kabi-epar-product-information_en.pdf
 document_name: azacitidine-kabi-epar-product-information_en.pdf
 version: success
-processing_time: 8.6521185
-conversion_datetime: 2025-12-28 00:51:36.323984
+processing_time: 8.4719019
+conversion_datetime: 2026-01-03 12:56:07.550251
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

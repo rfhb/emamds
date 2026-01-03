@@ -4,8 +4,8 @@ document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/osvyrti-epar-product-information_en.pdf
 document_name: osvyrti-epar-product-information_en.pdf
 version: success
-processing_time: 8.491726
-conversion_datetime: 2025-12-31 01:38:56.411164
+processing_time: 8.8201111
+conversion_datetime: 2026-01-03 12:46:56.942473
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

@@ -4,8 +4,8 @@ document_pages: 5
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/libmeldy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: libmeldy-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 7.7935952
-conversion_datetime: 2025-12-28 08:36:16.024247
+processing_time: 7.8687845
+conversion_datetime: 2026-01-03 12:27:23.429698
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

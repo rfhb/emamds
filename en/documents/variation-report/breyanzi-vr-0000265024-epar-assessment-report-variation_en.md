@@ -4,8 +4,8 @@ document_pages: 132
 document_pathfilename: www.ema.europa.eu/en/documents/variation-report/breyanzi-vr-0000265024-epar-assessment-report-variation_en.pdf
 document_name: breyanzi-vr-0000265024-epar-assessment-report-variation_en.pdf
 version: success
-processing_time: 185.0908167
-conversion_datetime: 2025-12-27 22:31:36.998369
+processing_time: 197.5225257
+conversion_datetime: 2026-01-03 13:19:15.564599
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

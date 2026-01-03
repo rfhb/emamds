@@ -4,8 +4,8 @@ document_pages: 8
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/shingrix-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: shingrix-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 5.390665
-conversion_datetime: 2025-12-28 04:16:33.938714
+processing_time: 5.2786616
+conversion_datetime: 2026-01-03 13:20:57.515812
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

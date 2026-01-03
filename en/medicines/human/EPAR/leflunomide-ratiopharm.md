@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 12:26:52
+document_datetime: 2025-12-18 12:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/leflunomide-ratiopharm.html
 document_name: leflunomide-ratiopharm.html
 version: success
-processing_time: 0.1241173
-conversion_datetime: 2025-12-31 05:18:32.879678
+processing_time: 0.1240721
+conversion_datetime: 2026-01-03 13:14:58.241868
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -105,7 +105,7 @@ English (EN) (74.1 KB - PDF)
 
 [View](/en/documents/overview/leflunomide-ratiopharm-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-385)
+[Other languages (22)](#file-language-dropdown-910)
 
 български (BG) (101.75 KB - PDF)
 
@@ -391,7 +391,7 @@ English (EN) (316.02 KB - PDF)
 
 [View](/en/documents/product-information/leflunomide-ratiopharm-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-347)
+[Other languages (24)](#file-language-dropdown-639)
 
 български (BG) (445.63 KB - PDF)
 
@@ -707,7 +707,7 @@ English (EN) (15.03 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/leflunomide-ratiopharm-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-325)
+[Other languages (18)](#file-language-dropdown-699)
 
 български (BG) (42.52 KB - PDF)
 
@@ -935,7 +935,7 @@ English (EN) (16.29 KB - PDF)
 
 [View](/en/documents/conditions-member-states/leflunomide-ratiopharm-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-329)
+[Other languages (23)](#file-language-dropdown-101)
 
 български (BG) (83.68 KB - PDF)
 

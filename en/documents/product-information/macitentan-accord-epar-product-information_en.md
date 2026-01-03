@@ -4,13 +4,13 @@ document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/macitentan-accord-epar-product-information_en.pdf
 document_name: macitentan-accord-epar-product-information_en.pdf
 version: success
-processing_time: 8.1036439
-conversion_datetime: 2025-12-22 21:12:42.886984
+processing_time: 6.9612542
+conversion_datetime: 2026-01-03 12:48:10.121971
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -266,10 +266,6 @@ Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/
 | Reproductive system and breast disorders             | Common                                | Increased uterine bleeding 8                                             |
 | General disorders and administration site conditions | Very common                           | Oedema, fluid retention 3                                                |
 
-1 Data derived from pooled placebo-controlled studies.
-
-8 Includes  PTs  of  heavy  menstrual  bleeding,  abnormal  uterine  bleeding,  intermenstrual  bleeding, uterine/vaginal  haemorrhage,  polymennorhoea  and  menstruation  irregular.  Frequency  based  on exposure in females.
-
 ## Description of selected adverse reactions
 
 2 Hypotension has been associated with the use of ERAs including macitentan. In SERAPHIN, a long-term double-blind study in patients with PAH, hypotension was reported for 7.0% and 4.4% of patients on macitentan 10 mg and placebo, respectively. This corresponded to 3.5 events / 100 patient-years on macitentan 10 mg compared to 2.7 events / 100 patient-years on placebo.
@@ -379,12 +375,6 @@ Table 1: Summary of outcome events
 | Death c n (%)                         | 19 (7.6%)              | 14 (5.8%)                  | 2%                                                  | 36% (-42%; 71%)                                     | 0.64 (0.29; 1.42)                                   | 0.20                                                |
 | Worsening of PAH n (%)                | 93 (37.2%)             | 59 (24.4%)                 | 13%                                                 | 49% (27%; 65%)                                      | 0.51 (0.35; 0.73)                                   | < 0.0001                                            |
 | i.v./s.c. prostanoid initiation n (%) | 6 (2.4%)               | 1 (0.4%)                   | 2%                                                  | 49% (27%; 65%)                                      | 0.51 (0.35; 0.73)                                   | < 0.0001                                            |
-
-a = based on Cox's Proportional Hazards Model
-
-b = % of patients with an event at 36 months = 100 × (1 - KM estimate)
-
-c = all cause death up to EOT regardless of prior worsening
 
 The number of deaths of all causes up to EOS on macitentan 10 mg was 35 versus 44 on placebo (HR 0.77; 97.5% CI: 0.46 to 1.28).
 

@@ -4,8 +4,8 @@ document_pages: 97
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/absimky-epar-product-information_en.pdf
 document_name: absimky-epar-product-information_en.pdf
 version: success
-processing_time: 26.098008
-conversion_datetime: 2025-12-26 18:59:08.576601
+processing_time: 27.1705523
+conversion_datetime: 2026-01-03 12:39:41.897292
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

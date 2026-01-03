@@ -4,13 +4,13 @@ document_pages: 59
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cyanokit-epar-product-information_en.pdf
 document_name: cyanokit-epar-product-information_en.pdf
 version: success
-processing_time: 10.9190637
-conversion_datetime: 2025-12-23 23:55:17.46797
+processing_time: 11.233801
+conversion_datetime: 2026-01-03 12:21:22.818905
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -161,12 +161,6 @@ Based on in vitro studies and pharmacokinetic data obtained in healthy volunteer
 | Clinical chemistry     | Calcium Sodium Potassium Chloride Urea Gamma glutamyl transferase (GGT)                                                   | Creatinine Total and conjugate bilirubin** Triglycerides Cholesterol Total protein Glucose Albumin Alkaline phosphatase | Alanine aminotransferase (ALT) Amylase | Phosphate Uric acid Aspartate aminotransferase (AST) Creatine kinase (CK) Creatine kinase isoenzymMB (CKMB) Lactate dehydrogenase (LDH) | 24 hours with the exception of bilirubin (up to 4 days) |
 | Haematology            | Erythrocytes Haematocrit Mean corpuscular volume (MCV) Leucocytes Lymphocytes Monocytes Eosinophils Neutrophils Platelets | Haemoglobin (Hb) Mean corpuscular haemoglobin (MCH) Mean corpuscular haemoglobin concentration (MCHC)                   |                                        |                                                                                                                                         | 12-16 hours                                             |
 | Coagulation            |                                                                                                                           |                                                                                                                         |                                        | Activated partial thromboplastin time (aPTT) Prothrombin time (PT) Quick or INR                                                         | 24 hours                                                |
-
-* ≥ 10% interference observed on at least one analyser
-
-** Artificially decreased using the diazo method
-
-*** Inconsistent results
 
 Analysers used: ACL Futura (Instrumentation Laboratory), Axsym/Architect (Abbott), BM Coasys 110 (Boehringer Mannheim), CellDyn 3700 (Abbott), Clinitek 500 (Bayer), Cobas Integra 700, 400 (Roche), Gen-S Coultronics, Hitachi 917, STA  Compact, Vitros 950 (Ortho Diagnostics)
 
@@ -325,8 +319,6 @@ Survival at hour 4 and at day 14 was significantly greater in 75 mg/kg and 150 m
 | Parameter                |                                | 75 mg/kg (N=19)  | 150 mg/kg (N=18) |
 | Survival at Hour 4, N(%) | 7 (41)                         | 18 (95)*         | 18 (100)*        |
 | Survival at Day 14, N(%) | 3 (18)                         | 15 (79)*         | 18 (100)*        |
-
-* p&lt; 0.025
 
 Histopathology revealed brain lesions that were consistent with cyanide-induced hypoxia. The incidence of brain lesions was markedly lower in dogs having received 150 mg/kg hydroxocobalamin than in dogs having received 75 mg/kg hydroxocobalamin or sodium chloride 9 mg/mL.
 
@@ -745,8 +737,6 @@ Survival at hour 4 and at day 14 was significantly greater in 75 mg/kg and 150 m
 | Parameter                |                                | 75 mg/kg (N=19)  | 150 mg/kg (N=18) |
 | Survival at Hour 4, N(%) | 7 (41)                         | 18 (95)*         | 18 (100)*        |
 | Survival at Day 14, N(%) | 3 (18)                         | 15 (79)*         | 18 (100)*        |
-
-* p&lt; 0.025
 
 Histopathology revealed brain lesions that were consistent with cyanide-induced hypoxia. The incidence of brain lesions was markedly lower in dogs having received 150 mg/kg hydroxocobalamin than in dogs having received 75 mg/kg hydroxocobalamin or sodium chloride 9 mg/mL.
 

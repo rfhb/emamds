@@ -1,16 +1,16 @@
 ---
-document_datetime: 2024-12-18 16:56:16
+document_datetime: 2025-12-19 12:02:31
 document_pages: 62
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/simulect-epar-product-information_en.pdf
 document_name: simulect-epar-product-information_en.pdf
 version: success
-processing_time: 16.4377972
-conversion_datetime: 2025-12-19 21:45:53.901894
+processing_time: 14.929564
+conversion_datetime: 2026-01-03 13:02:11.040636
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -74,7 +74,7 @@ The standard total dose is 40 mg, given in two doses of 20 mg each.
 
 The first 20 mg dose should be given within 2 hours prior to transplantation surgery. The second 20 mg dose should be given 4 days after transplantation. The second dose should be withheld in the event of a severe hypersensitivity reaction to Simulect or post-operative complications such as graft loss (see section 4.4).
 
-## Children and adolescents (1-17 years)
+## Children and adolescents (1 -17 years)
 
 In paediatric patients weighing less than 35 kg, the recommended total dose is 20 mg, given in two doses of 10 mg each. In paediatric patients weighing 35 kg or more, the recommended dose is the adult dose, i.e. a total dose of 40 mg, given in two doses of 20 mg each.
 
@@ -86,7 +86,7 @@ There are limited data available on the use of Simulect in the elderly, but ther
 
 ## Method of administration
 
-Reconstituted Simulect can be administered as an intravenous bolus injection or as an intravenous infusion over 20-30 minutes.
+Reconstituted Simulect can be administered as an intravenous bolus injection or as an intravenous infusion over 20 -30 minutes.
 
 For instructions on reconstitution of the medicinal product before administration, see section 6.6.
 
@@ -128,9 +128,9 @@ The efficacy and safety of Simulect for the prophylaxis of acute rejection in re
 
 ## Excipients with known effect
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium -free'.
 
-This medicinal product contains potassium, less than 1 mmol (39 mg) per vial, i.e. essentially 'potassium-free'.
+This medicinal product contains potassium, less than 1 mmol (39 mg) per vial, i.e. essentially 'potassium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -208,7 +208,7 @@ Pharmacotherapeutic group: Interleukin inhibitors, ATC code: L04AC02.
 
 ## Mechanism of action
 
-Basiliximab is a murine/human chimeric monoclonal antibody (IgG1  ) that is directed against the interleukin-2 receptor  -chain (CD25 antigen), which is expressed on the surface of T-lymphocytes in response to antigenic challenge. Basiliximab specifically binds with high affinity (KD-value 0.1 nM) to the CD25 antigen on activated T-lymphocytes expressing the high affinity interleukin-2 receptor (IL2R) and thereby prevents binding of interleukin-2, a critical signal for T-cell proliferation in the cellular immune response involved in allograft rejection. Complete and consistent blocking of the interleukin-2 receptor is maintained as long as serum basiliximab levels exceed 0.2  g/ml (usually up to 4-6 weeks after administration). As concentrations fall below this level, expression of the CD25 antigen returns to pretherapy values within 1-2 weeks. Basiliximab does not cause myelosuppression.
+Basiliximab is a murine/human chimeric monoclonal antibody (IgG1  ) that is directed against the interleukin-2 receptor  -chain (CD25 antigen), which is expressed on the surface of T-lymphocytes in response to antigenic challenge. Basiliximab specifically binds with high affinity (KD-value 0.1 nM) to the CD25 antigen on activated T-lymphocytes expressing the high affinity interleukin-2 receptor (IL2R) and thereby prevents binding of interleukin-2, a critical signal for T-cell proliferation in the cellular immune response involved in allograft rejection. Complete and consistent blocking of the interleukin-2 receptor is maintained as long as serum basiliximab levels exceed 0.2  g/ml (usually up to 4 -6 weeks after administration). As concentrations fall below this level, expression of the CD25 antigen returns to pretherapy values within 1 -2 weeks. Basiliximab does not cause myelosuppression.
 
 ## Clinical efficacy and safety
 
@@ -244,7 +244,7 @@ No clinically relevant influence of body weight or gender on distribution volume
 
 ## Paediatric population
 
-The pharmacokinetics of basiliximab were assessed in 39 paediatric de novo renal transplantation patients. In infants and children (age 1-11 years, n=25), the steady-state distribution volume was 4.8  2.1 l, half-life was 9.5  4.5 days and clearance was 17  6 ml/h. Distribution volume and clearance are reduced by about 50% compared to adult renal transplantation patients. Disposition parameters were not influenced to a clinically relevant extent by age (1-11 years), body weight (9-37 kg) or body surface area (0.44-1.20 m  ) in this age group. In adolescents (age 12-16 years, n=14), the steady-state distribution volume was 7.8  5.1 l, half-life was 9.1  3.9 days and clearance was 31  19 ml/h. Disposition in adolescents was similar to that in adult renal transplantation patients. The relationship between serum concentration and receptor saturation was assessed in 13 patients and was similar to that characterised in adult renal transplantation patients.
+The pharmacokinetics of basiliximab were assessed in 39 paediatric de novo renal transplantation patients. In infants and children (age 1 -11 years, n=25), the steady-state distribution volume was 4.8  2.1 l, half-life was 9.5  4.5 days and clearance was 17  6 ml/h. Distribution volume and clearance are reduced by about 50% compared to adult renal transplantation patients. Disposition parameters were not influenced to a clinically relevant extent by age (1 -11 years), body weight (9 -37 kg) or body surface area (0.44 -1.20 m  ) in this age group. In adolescents (age 12 -16 years, n=14), the steady-state distribution volume was 7.8  5.1 l, half-life was 9.1  3.9 days and clearance was 31  19 ml/h. Disposition in adolescents was similar to that in adult renal transplantation patients. The relationship between serum concentration and receptor saturation was assessed in 13 patients and was similar to that characterised in adult renal transplantation patients.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -262,7 +262,9 @@ No mutagenic potential was observed in vitro .
 
 Simulect 20 mg powder and solvent for solution for injection or infusion
 
-Powder Potassium dihydrogen phosphate Disodium phosphate, anhydrous Sodium chloride Sucrose Mannitol (E421) Glycine
+## Powder
+
+Potassium dihydrogen phosphate Disodium phosphate, anhydrous Sodium chloride Sucrose Mannitol (E421) Glycine
 
 Solvent
 
@@ -302,7 +304,7 @@ Colourless glass ampoule, type I glass, containing 5 ml water for injections.
 
 Simulect is also available in vials with 10 mg basiliximab.
 
-## Simulect 20 mg powder for solution for injection or infusion
+Simulect 20 mg powder for solution for injection or infusion
 
 Colourless type I glass vial, grey fluor-resin coated butyl rubber stopper, held in place by a flanged aluminium band, blue polypropylene flip-off cap, containing 20 mg basiliximab as powder for solution for injection or infusion.
 
@@ -310,7 +312,7 @@ Simulect is also available in vials with 10 mg basiliximab.
 
 ## 6.6 Special precautions for disposal and other handling
 
-Simulect 20 mg powder and solvent for solution for injection or infusion
+## Simulect 20 mg powder and solvent for solution for injection or infusion
 
 ## Reconstitution
 
@@ -362,7 +364,9 @@ EU/1/98/084/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 09 October 1998 Date of latest renewal: 09 October 2008
+Date of first authorisation: 09 October 1998
+
+Date of latest renewal: 09 October 2008
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -416,7 +420,7 @@ Simulect is to be used concomitantly with ciclosporin for microemulsion- and cor
 
 ## Posology
 
-## Children and adolescents (1-17 years)
+## Children and adolescents (1 -17 years)
 
 In paediatric patients weighing less than 35 kg, the recommended total dose is 20 mg, given in two doses of 10 mg each. In paediatric patients weighing 35 kg or more, the recommended dose is the adult dose, i.e. a total dose of 40 mg, given in two doses of 20 mg each.
 
@@ -428,13 +432,13 @@ The standard total dose is 40 mg, given in two doses of 20 mg each.
 
 The first 20 mg dose should be given within 2 hours prior to transplantation surgery. The second 20 mg dose should be given 4 days after transplantation. The second dose should be withheld in the event of a severe hypersensitivity reaction to Simulect or post-operative complications such as graft loss (see section 4.4).
 
-## Elderly (≥ 65 years)
+## E lderly (≥ 65 years)
 
 There are limited data available on the use of Simulect in the elderly, but there is no evidence that elderly patients require a different dosage from younger adult patients.
 
 ## Method of administration
 
-Reconstituted Simulect can be administered as an intravenous bolus injection or as an intravenous infusion over 20-30 minutes.
+Reconstituted Simulect can be administered as an intravenous bolus injection or as an intravenous infusion over 20 -30 minutes.
 
 For instructions on reconstitution of the medicinal product before administration, see section 6.6.
 
@@ -476,9 +480,9 @@ The efficacy and safety of Simulect for the prophylaxis of acute rejection in re
 
 ## Excipients with known effect
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium -free'.
 
-This medicinal product contains potassium, less than 1 mmol (39 mg) per vial, i.e. essentially 'potassium-free'.
+This medicinal product contains potassium, less than 1 mmol (39 mg) per vial, i.e. essentially 'potassium -free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -556,7 +560,7 @@ Pharmacotherapeutic group: Interleukin inhibitors, ATC code: L04AC02.
 
 ## Mechanism of action
 
-Basiliximab is a murine/human chimeric monoclonal antibody (IgG1  ) that is directed against the interleukin-2 receptor  -chain (CD25 antigen), which is expressed on the surface of T-lymphocytes in response to antigenic challenge. Basiliximab specifically binds with high affinity (KD-value 0.1 nM) to the CD25 antigen on activated T-lymphocytes expressing the high affinity interleukin-2 receptor (IL2R) and thereby prevents binding of interleukin-2, a critical signal for T-cell proliferation in the cellular immune response involved in allograft rejection. Complete and consistent blocking of the interleukin-2 receptor is maintained as long as serum basiliximab levels exceed 0.2  g/ml (usually up to 4-6 weeks after administration). As concentrations fall below this level, expression of the CD25 antigen returns to pretherapy values within 1-2 weeks. Basiliximab does not cause myelosuppression.
+Basiliximab is a murine/human chimeric monoclonal antibody (IgG1  ) that is directed against the interleukin-2 receptor  -chain (CD25 antigen), which is expressed on the surface of T-lymphocytes in response to antigenic challenge. Basiliximab specifically binds with high affinity (KD-value 0.1 nM) to the CD25 antigen on activated T-lymphocytes expressing the high affinity interleukin-2 receptor (IL2R) and thereby prevents binding of interleukin-2, a critical signal for T-cell proliferation in the cellular immune response involved in allograft rejection. Complete and consistent blocking of the interleukin-2 receptor is maintained as long as serum basiliximab levels exceed 0.2  g/ml (usually up to 4 -6 weeks after administration). As concentrations fall below this level, expression of the CD25 antigen returns to pretherapy values within 1 -2 weeks. Basiliximab does not cause myelosuppression.
 
 ## Clinical efficacy and safety
 
@@ -592,7 +596,7 @@ No clinically relevant influence of body weight or gender on distribution volume
 
 ## Paediatric population
 
-The pharmacokinetics of basiliximab were assessed in 39 paediatric de novo renal transplantation patients. In infants and children (age 1-11 years, n=25), the steady-state distribution volume was 4.8  2.1 l, half-life was 9.5  4.5 days and clearance was 17  6 ml/h. Distribution volume and clearance are reduced by about 50% compared to adult renal transplantation patients. Disposition parameters were not influenced to a clinically relevant extent by age (1-11 years), body weight (9-37 kg) or body surface area (0.44-1.20 m  ) in this age group. In adolescents (age 12-16 years, n=14), the steady-state distribution volume was 7.8  5.1 l, half-life was 9.1  3.9 days and clearance was 31  19 ml/h. Disposition in adolescents was similar to that in adult renal transplantation patients. The relationship between serum concentration and receptor saturation was assessed in 13 patients and was similar to that characterised in adult renal transplantation patients.
+The pharmacokinetics of basiliximab were assessed in 39 paediatric de novo renal transplantation patients. In infants and children (age 1 -11 years, n=25), the steady-state distribution volume was 4.8  2.1 l, half-life was 9.5  4.5 days and clearance was 17  6 ml/h. Distribution volume and clearance are reduced by about 50% compared to adult renal transplantation patients. Disposition parameters were not influenced to a clinically relevant extent by age (1 -11 years), body weight (9 -37 kg) or body surface area (0.44 -1.20 m  ) in this age group. In adolescents (age 12 -16 years, n=14), the steady-state distribution volume was 7.8  5.1 l, half-life was 9.1  3.9 days and clearance was 31  19 ml/h. Disposition in adolescents was similar to that in adult renal transplantation patients. The relationship between serum concentration and receptor saturation was assessed in 13 patients and was similar to that characterised in adult renal transplantation patients.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -612,9 +616,11 @@ Simulect 10 mg powder and solvent for solution for injection or infusion
 
 ## Powder
 
-Potassium dihydrogen phosphate Disodium phosphate, anhydrous Sodium chloride Sucrose Mannitol (E421) Glycine
+Potassium dihydrogen phosphate
 
-Solvent
+Disodium phosphate, anhydrous Sodium chloride Sucrose Mannitol (E421) Glycine
+
+## Solvent
 
 Water for injections
 
@@ -654,7 +660,7 @@ Colourless glass ampoule, type I glass, containing 5 ml water for injections.
 
 Simulect is also available in vials with 20 mg basiliximab.
 
-## Simulect 10 mg powder for solution for injection or infusion
+Simulect 10 mg powder for solution for injection or infusion
 
 Colourless type I glass vial, grey fluor-resin coated butyl rubber stopper, held in place by a flanged aluminium band, blue polypropylene flip-off cap, containing 10 mg basiliximab as powder for solution for injection or infusion.
 
@@ -714,11 +720,17 @@ EU/1/98/084/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 09 October 1998 Date of latest renewal: 09 October 2008
+Date of first authorisation: 09 October 1998
+
+Date of latest renewal: 09 October 2008
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines
+
+Agency http://www.ema.europa.eu
+
+21
 
 <div style=\"page-break-after: always\"></div>
 
@@ -740,8 +752,6 @@ Novartis Pharma S.A.S. Centre de Biotechnologie 8 rue de l'Industrie 68330 Hunin
 Name and address of the manufacturer responsible for batch release
 
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
-
-Novartis Pharma GmbH Roonstrasse 25 90429 Nuremberg Germany
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -826,16 +836,16 @@ Use immediately after reconstitution (chemically and physically stable at 2°C -
 
 Store in a refrigerator.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/98/084/001
 
@@ -862,8 +872,8 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
@@ -916,8 +926,8 @@ Use immediately after reconstitution (chemically and physically stable at 2°C -
 
 Store in a refrigerator.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -952,14 +962,16 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -971,31 +983,29 @@ Simulect 20 mg powder for solution for injection/infusion basiliximab Intravenou
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 Store in a refrigerator.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE   |
-|----------------------------------------------------|
-| AMPOULE LABEL                                      |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| AMPOULE LABEL                                                    |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Solvent for Simulect Water for injections
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 See package leaflet
 
@@ -1009,8 +1019,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 5 ml
 
@@ -1070,16 +1080,16 @@ Use immediately after reconstitution (chemically and physically stable at 2°C -
 
 Store in a refrigerator.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/98/084/002
 
@@ -1106,8 +1116,8 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
@@ -1160,16 +1170,16 @@ Use immediately after reconstitution (chemically and physically stable at 2°C -
 
 Store in a refrigerator.
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
-| 12. MARKETING AUTHORISATION NUMBER(S)   |
-|-----------------------------------------|
+| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
+|-------|-------------------------------------|
 
 EU/1/98/084/003
 
@@ -1196,14 +1206,16 @@ Justification for not including Braille accepted.
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+VIAL LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -1215,31 +1227,29 @@ Simulect 10 mg powder for solution for injection/infusion basiliximab Intravenou
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 Store in a refrigerator.
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON   |
-|------------------------------------|
-| AMPOULE LABEL                      |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| AMPOULE LABEL                                                    |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Solvent for Simulect Water for injections
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 See package leaflet
 
@@ -1253,8 +1263,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 5 ml
 
@@ -1290,7 +1300,7 @@ Lot
 
 ## 1. What Simulect is and what it is used for
 
-Simulect belongs to a group of medicines called immunosuppressants. It is given in hospital to adults, adolescents and children who are having a kidney transplant. Immunosuppressants reduce the body's response to anything that it sees as 'foreign' - which includes transplanted organs. The body's immune system thinks a transplanted organ is a foreign body and will try to reject it. Simulect works by stopping the immune cells that attack transplanted organs.
+Simulect belongs to a group of medicines called immunosuppressants. It is given in hospital to adults, adolescents and children who are having a kidney transplant. Immunosuppressants reduce the body's response to anything that it sees as 'foreign' which includes transplanted organs. The body's immune system thinks a transplanted organ is a foreign body and will try to reject it. Simulect works by stopping the immune cells that attack transplanted organs.
 
 You will only be given two doses of Simulect. These will be given in hospital, around the time of your transplant operation. Simulect is given to stop your body from rejecting the new organ during the first 4 to 6 weeks after the transplant operation, when rejection is most likely. You will be given other medicines to help protect your new kidney during this time, such as ciclosporin and corticosteroids and after you leave hospital.
 
@@ -1300,10 +1310,8 @@ Follow your doctor's instructions carefully. If you are unsure about anything, a
 
 ## You must not be given Simulect
 
-- -if you are allergic (hypersensitive) to basiliximab or any of the other ingredients of Simulect listed in section 6 under 'What Simulect contains'. Tell your doctor if you suspect you may have had an allergic reaction to any of these ingredients in the past.
+- -if you are allergic (hypersensitive) to basiliximab or any of the other ingredients of Simulect listed in section 6 under 'What Simulect contains' . Tell your doctor if you suspect you may have had an allergic reaction to any of these ingredients in the past.
 - -if you are pregnant or breast-feeding.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Warnings and precautions
 
@@ -1313,6 +1321,8 @@ Talk to your doctor, nurse or pharmacist before you are given Simulect:
 - -if you have previously been in the operating theatre for a transplantation that in the end was not performed.
 
 In this situation, you may have received Simulect. Your doctor will check this for you and discuss with you the possibility of repeated treatment with Simulect.
+
+<div style=\"page-break-after: always\"></div>
 
 If you need to have a vaccination, seek your doctor's advice first.
 
@@ -1342,23 +1352,23 @@ There is no evidence to indicate that Simulect has an effect on your ability to 
 
 ## Simulect contains sodium and potassium
 
-This medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodiumfree'.
+This medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium -free'.
 
-This medicine contains potassium, less than 1 mmol (39 mg) per vial, i.e. essentially 'potassium-free'.
+This medicine contains potassium, less than 1 mmol (39 mg) per vial, i.e. essentially 'potassium -free'.
 
 ## 3. How Simulect is given
 
-You will only be given Simulect if you are receiving a new kidney. Simulect is given twice, in hospital, either slowly through a needle in your vein as an infusion lasting 20-30 minutes or as an intravenous injection using a syringe.
+You will only be given Simulect if you are receiving a new kidney. Simulect is given twice, in hospital, either slowly through a needle in your vein as an infusion lasting 20 -30 minutes or as an intravenous injection using a syringe.
 
 If you have experienced a severe allergic reaction to Simulect or if you had complications after your surgery such as graft loss, the second dose of Simulect should not be given to you.
 
 The first dose is given just before the transplant operation, and the second dose 4 days after the operation.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Usual dose for adults
 
 The usual dose for adults is 20 mg in each infusion or injection.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Usual dose for children and adolescents (aged 1 to 17 years)
 
@@ -1416,8 +1426,6 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
-Novartis Pharma GmbH Roonstrasse 25 90429 Nuremberg Germany
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
@@ -1434,7 +1442,9 @@ SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 Novartis Bulgaria EOOD
 
-Тел.: +359 2 489 98 28
+Тел
+
+.: +359 2 489 98 28
 
 ## Luxembourg/Luxemburg
 
@@ -1460,13 +1470,17 @@ Novartis Healthcare A/S Tlf: +45 39 16 84 00
 
 Novartis Pharma Services Inc. Tel: +356 2122 2872
 
-<div style=\"page-break-after: always\"></div>
-
 ## Deutschland
 
 Novartis Pharma GmbH
 
 Tel: +49 911 273 0
+
+## Nederland
+
+Novartis Pharma B.V. Tel: +31 88 04 52 111
+
+<div style=\"page-break-after: always\"></div>
 
 ## Eesti
 
@@ -1531,12 +1545,6 @@ Tel: +371 67 887 070
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
-
-## Nederland
-
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
 
 ## Norge
 
@@ -1626,13 +1634,13 @@ Store in a refrigerator (2°C - 8°C).
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Simulect 20 mg powder for solution for injection or infusion
 
-## basiliximab
+basiliximab
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
@@ -1651,7 +1659,7 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 ## 1. What Simulect is and what it is used for
 
-Simulect belongs to a group of medicines called immunosuppressants. It is given in hospital to adults, adolescents and children who are having a kidney transplant. Immunosuppressants reduce the body's response to anything that it sees as 'foreign' - which includes transplanted organs. The body's immune system thinks a transplanted organ is a foreign body and will try to reject it. Simulect works by stopping the immune cells that attack transplanted organs.
+Simulect belongs to a group of medicines called immunosuppressants. It is given in hospital to adults, adolescents and children who are having a kidney transplant. Immunosuppressants reduce the body's response to anything that it sees as 'foreign' which includes transplanted organs. The body's immune system thinks a transplanted organ is a foreign body and will try to reject it. Simulect works by stopping the immune cells that attack transplanted organs.
 
 You will only be given two doses of Simulect. These will be given in hospital, around the time of your transplant operation. Simulect is given to stop your body from rejecting the new organ during the first 4 to 6 weeks after the transplant operation, when rejection is most likely. You will be given other medicines to help protect your new kidney during this time, such as ciclosporin and corticosteroids and after you leave hospital.
 
@@ -1664,8 +1672,6 @@ Follow your doctor's instructions carefully. If you are unsure about anything, a
 - -if you are allergic (hypersensitive) to basiliximab or any of the other ingredients of Simulect listed in section 6 under 'What Simulect contains'. Tell your doctor if you suspect you may have had an allergic reaction to any of these ingredients in the past.
 - -if you are pregnant or breast-feeding.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Warnings and precautions
 
 Talk to your doctor, nurse or pharmacist before you are given Simulect:
@@ -1674,6 +1680,8 @@ Talk to your doctor, nurse or pharmacist before you are given Simulect:
 - -if you have previously been in the operating theatre for a transplantation that in the end was not performed.
 
 In this situation, you may have received Simulect. Your doctor will check this for you and discuss with you the possibility of repeated treatment with Simulect.
+
+<div style=\"page-break-after: always\"></div>
 
 If you need to have a vaccination, seek your doctor's advice first.
 
@@ -1703,23 +1711,23 @@ There is no evidence to indicate that Simulect has an effect on your ability to 
 
 ## Simulect contains sodium and potassium
 
-This medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodiumfree'.
+This medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium -free'.
 
-This medicine contains potassium, less than 1 mmol (39 mg) per vial, i.e. essentially 'potassium-free'.
+This medicine contains potassium, less than 1 mmol (39 mg) per vial, i.e. essentially 'potassium -free'.
 
 ## 3. How Simulect is given
 
-You will only be given Simulect if you are receiving a new kidney. Simulect is given twice, in hospital, either slowly through a needle in your vein as an infusion lasting 20-30 minutes or as an intravenous injection using a syringe.
+You will only be given Simulect if you are receiving a new kidney. Simulect is given twice, in hospital, either slowly through a needle in your vein as an infusion lasting 20 -30 minutes or as an intravenous injection using a syringe.
 
 If you have experienced a severe allergic reaction to Simulect or if you had complications after your surgery such as graft loss, the second dose of Simulect should not be given to you.
 
 The first dose is given just before the transplant operation, and the second dose 4 days after the operation.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Usual dose for adults
 
 The usual dose for adults is 20 mg in each infusion or injection.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Usual dose for children and adolescents (aged 1 to 17 years)
 
@@ -1777,14 +1785,6 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
-## Novartis Pharma GmbH
-
-Roonstrasse 25
-
-90429 Nuremberg
-
-Germany
-
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
@@ -1801,7 +1801,9 @@ SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 Novartis Bulgaria EOOD
 
-Тел.: +359 2 489 98 28
+Тел
+
+.: +359 2 489 98 28
 
 ## Luxembourg/Luxemburg
 
@@ -1827,9 +1829,9 @@ Tlf: +45 39 16 84 00
 
 ## Malta
 
-Novartis Pharma Services Inc. Tel: +356 2122 2872
+Novartis Pharma Services Inc.
 
-<div style=\"page-break-after: always\"></div>
+Tel: +356 2122 2872
 
 ## Deutschland
 
@@ -1837,17 +1839,37 @@ Novartis Pharma GmbH
 
 Tel: +49 911 273 0
 
+## Nederland
+
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
+
 ## Eesti
 
 SIA Novartis Baltics Eesti filiaal
 
 Tel: +372 66 30 810
 
+## Norge
+
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
+
+<div style=\"page-break-after: always\"></div>
+
 ## Ελλάδα
+
+## Österreich
 
 Novartis (Hellas) A.E.B.E.
 
 Τηλ: +30 210 281 17 12
+
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
 
 ## España
 
@@ -1855,17 +1877,29 @@ Novartis Farmacéutica, S.A.
 
 Tel: +34 93 306 42 00
 
+## Polska
+
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
+
 ## France
 
 Novartis Pharma S.A.S.
 
 Tél: +33 1 55 47 66 00
 
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
+
 ## Hrvatska
 
-Novartis Hrvatska d.o.o.
+Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
 
-Tel. +385 1 6274 220
+## România
+
+Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
 
 ## Ireland
 
@@ -1873,11 +1907,23 @@ Novartis Ireland Limited
 
 Tel: +353 1 260 12 55
 
+## Slovenija
+
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
+
 ## Ísland
 
 Vistor hf.
 
 Sími: +354 535 7000
+
+## Slovenská republika
+
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
 
 ## Italia
 
@@ -1885,11 +1931,23 @@ Novartis Farma S.p.A.
 
 Tel: +39 02 96 54 1
 
+## Suomi/Finland
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
+
 ## Κύπρος
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
 
 ## Latvija
 
@@ -1900,60 +1958,6 @@ Tel: +371 67 887 070
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
-
-## Nederland
-
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
-
-## Norge
-
-Novartis Norge AS
-
-Tlf: +47 23 05 20 00
-
-## Österreich
-
-Novartis Pharma GmbH
-
-Tel: +43 1 86 6570
-
-## Polska
-
-Novartis Poland Sp. z o.o.
-
-Tel.: +48 22 375 4888
-
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
-
-## România
-
-Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
-
-## Slovenija
-
-Novartis Pharma Services Inc. Tel: +386 1 300 75 50
-
-## Slovenská republika
-
-Novartis Slovakia s.r.o.
-
-Tel: +421 2 5542 5439
-
-## Suomi/Finland
-
-Novartis Finland Oy
-
-Puh/Tel: +358 (0)10 6133 200
-
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1999,7 +2003,7 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 ## Simulect 10 mg powder and solvent for solution for injection or infusion
 
-## basiliximab
+basiliximab
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
@@ -2018,7 +2022,7 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 ## 1. What Simulect is and what it is used for
 
-Simulect belongs to a group of medicines called immunosuppressants. It is given in hospital to adults, adolescents and children who are having a kidney transplant. Immunosuppressants reduce the body's response to anything that it sees as 'foreign' - which includes transplanted organs. The body's immune system thinks a transplanted organ is a foreign body and will try to reject it. Simulect works by stopping the immune cells that attack transplanted organs.
+Simulect belongs to a group of medicines called immunosuppressants. It is given in hospital to adults, adolescents and children who are having a kidney transplant. Immunosuppressants reduce the body's response to anything that it sees as 'foreign' which includes transplanted organs. The body's immune system thinks a transplanted organ is a foreign body and will try to reject it. Simulect works by stopping the immune cells that attack transplanted organs.
 
 You will only be given two doses of Simulect. These will be given in hospital, around the time of your transplant operation. Simulect is given to stop your body from rejecting the new organ during the first 4 to 6 weeks after the transplant operation, when rejection is most likely. You will be given other medicines to help protect your new kidney during this time, such as ciclosporin and corticosteroids and after you leave hospital.
 
@@ -2031,8 +2035,6 @@ Follow your doctor's instructions carefully. If you are unsure about anything, a
 - -if you are allergic (hypersensitive) to basiliximab or any of the other ingredients of Simulect listed in section 6 under 'What Simulect contains'. Tell your doctor if you suspect you may have had an allergic reaction to any of these ingredients in the past.
 - -if you are pregnant or breast-feeding.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Warnings and precautions
 
 Talk to your doctor, nurse or pharmacist before you are given Simulect:
@@ -2041,6 +2043,8 @@ Talk to your doctor, nurse or pharmacist before you are given Simulect:
 - -if you have previously been in the operating theatre for a transplantation that in the end was not performed.
 
 In this situation, you may have received Simulect. Your doctor will check this for you and discuss with you the possibility of repeated treatment with Simulect.
+
+<div style=\"page-break-after: always\"></div>
 
 If you need to have a vaccination, seek your doctor's advice first.
 
@@ -2070,24 +2074,24 @@ There is no evidence to indicate that Simulect has an effect on your ability to 
 
 ## Simulect contains sodium and potassium
 
-This medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodiumfree'.
+This medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium -free'.
 
-This medicine contains potassium, less than 1 mmol (39 mg) per vial, i.e. essentially 'potassium-free'.
+This medicine contains potassium, less than 1 mmol (39 mg) per vial, i.e. essentially 'potassium -free'.
 
 ## 3. How Simulect is given
 
-You will only be given Simulect if you are receiving a new kidney. Simulect is given twice, in hospital, either slowly through a needle in your vein as an infusion lasting 20-30 minutes or as an intravenous injection using a syringe.
+You will only be given Simulect if you are receiving a new kidney. Simulect is given twice, in hospital, either slowly through a needle in your vein as an infusion lasting 20 -30 minutes or as an intravenous injection using a syringe.
 
 If you have experienced a severe allergic reaction to Simulect or if you had complications after your surgery such as graft loss, the second dose of Simulect should not be given to you.
 
 The first dose is given just before the transplant operation, and the second dose 4 days after the operation.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Usual dose for children and adolescents (aged 1 to 17 years)
 
 - -For children and adolescents who weigh less than 35 kg, the dose of Simulect given in each infusion or injection is 10 mg.
 - -For children and adolescents who weigh 35 kg or more, the dose of Simulect given in each infusion or injection is 20 mg.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Usual dose for adults
 
@@ -2121,14 +2125,14 @@ Do not use this medicine after the expiry date which is stated on the carton and
 
 Store in a refrigerator (2°C - 8°C).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. Contents of the pack and other information
 
 ## What Simulect contains
 
 - -The active substance is basiliximab. Each vial contains 10 mg of basiliximab.
 - -The other ingredients are potassium dihydrogen phosphate; disodium phosphate, anhydrous; sodium chloride; sucrose; mannitol (E421); glycine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## What Simulect looks like and contents of the pack
 
@@ -2143,8 +2147,6 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 ## Manufacturer
 
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
-
-Novartis Pharma GmbH Roonstrasse 25 90429 Nuremberg Germany
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -2162,7 +2164,9 @@ SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 Novartis Bulgaria EOOD
 
-Тел.: +359 2 489 98 28
+Тел
+
+.: +359 2 489 98 28
 
 ## Luxembourg/Luxemburg
 
@@ -2176,19 +2180,17 @@ Tel: +420 225 775 111
 
 ## Magyarország
 
-Novartis Hungária Kft.
-
-Tel.: +36 1 457 65 00
+Novartis Hungária Kft. Tel.: +36 1 457 65 00
 
 ## Danmark
 
-Novartis Healthcare A/S Tlf: +45 39 16 84 00
+Novartis Healthcare A/S
+
+Tlf: +45 39 16 84 00
 
 ## Malta
 
 Novartis Pharma Services Inc. Tel: +356 2122 2872
-
-<div style=\"page-break-after: always\"></div>
 
 ## Deutschland
 
@@ -2196,23 +2198,41 @@ Novartis Pharma GmbH
 
 Tel: +49 911 273 0
 
+## Nederland
+
+Novartis Pharma B.V. Tel: +31 88 04 52 111
+
 ## Eesti
 
 SIA Novartis Baltics Eesti filiaal
 
 Tel: +372 66 30 810
 
+## Norge
+
+Novartis Norge AS Tlf: +47 23 05 20 00
+
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E.
+Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
 
-Τηλ: +30 210 281 17 12
+## Österreich
+
+Novartis Pharma GmbH Tel: +43 1 86 6570
+
+<div style=\"page-break-after: always\"></div>
 
 ## España
+
+## Polska
 
 Novartis Farmacéutica, S.A.
 
 Tel: +34 93 306 42 00
+
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
 
 ## France
 
@@ -2220,11 +2240,23 @@ Novartis Pharma S.A.S.
 
 Tél: +33 1 55 47 66 00
 
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A.
+
+Tel: +351 21 000 8600
+
 ## Hrvatska
 
 Novartis Hrvatska d.o.o.
 
 Tel. +385 1 6274 220
+
+## România
+
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
 
 ## Ireland
 
@@ -2232,11 +2264,23 @@ Novartis Ireland Limited
 
 Tel: +353 1 260 12 55
 
+## Slovenija
+
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
+
 ## Ísland
 
 Vistor hf.
 
 Sími: +354 535 7000
+
+## Slovenská republika
+
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
 
 ## Italia
 
@@ -2244,11 +2288,23 @@ Novartis Farma S.p.A.
 
 Tel: +39 02 96 54 1
 
+## Suomi/Finland
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
+
 ## Κύπρος
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
 
 ## Latvija
 
@@ -2259,62 +2315,6 @@ Tel: +371 67 887 070
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
-
-## Nederland
-
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
-
-## Norge
-
-Novartis Norge AS
-
-Tlf: +47 23 05 20 00
-
-## Österreich
-
-Novartis Pharma GmbH
-
-Tel: +43 1 86 6570
-
-## Polska
-
-Novartis Poland Sp. z o.o.
-
-Tel.: +48 22 375 4888
-
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
-
-## România
-
-Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
-
-## Slovenija
-
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
-
-## Slovenská republika
-
-Novartis Slovakia s.r.o.
-
-Tel: +421 2 5542 5439
-
-## Suomi/Finland
-
-Novartis Finland Oy
-
-Puh/Tel: +358 (0)10 6133 200
-
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2354,13 +2354,13 @@ Store in a refrigerator (2°C - 8°C).
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
 
 ## Simulect 10 mg powder for solution for injection or infusion
 
-## basiliximab
+basiliximab
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
@@ -2379,7 +2379,7 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 ## 1. What Simulect is and what it is used for
 
-Simulect belongs to a group of medicines called immunosuppressants. It is given in hospital to adults, adolescents and children who are having a kidney transplant. Immunosuppressants reduce the body's response to anything that it sees as 'foreign' - which includes transplanted organs. The body's immune system thinks a transplanted organ is a foreign body and will try to reject it. Simulect works by stopping the immune cells that attack transplanted organs.
+Simulect belongs to a group of medicines called immunosuppressants. It is given in hospital to adults, adolescents and children who are having a kidney transplant. Immunosuppressants reduce the body's response to anything that it sees as 'foreign' which includes transplanted organs. The body's immune system thinks a transplanted organ is a foreign body and will try to reject it. Simulect works by stopping the immune cells that attack transplanted organs.
 
 You will only be given two doses of Simulect. These will be given in hospital, around the time of your transplant operation. Simulect is given to stop your body from rejecting the new organ during the first 4 to 6 weeks after the transplant operation, when rejection is most likely. You will be given other medicines to help protect your new kidney during this time, such as ciclosporin and corticosteroids and after you leave hospital.
 
@@ -2392,8 +2392,6 @@ Follow your doctor's instructions carefully. If you are unsure about anything, a
 - -if you are allergic (hypersensitive) to basiliximab or any of the other ingredients of Simulect listed in section 6 under 'What Simulect contains'. Tell your doctor if you suspect you may have had an allergic reaction to any of these ingredients in the past.
 - -if you are pregnant or breast-feeding.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Warnings and precautions
 
 Talk to your doctor, nurse or pharmacist before you are given Simulect:
@@ -2402,6 +2400,8 @@ Talk to your doctor, nurse or pharmacist before you are given Simulect:
 - -if you have previously been in the operating theatre for a transplantation that in the end was not performed.
 
 In this situation, you may have received Simulect. Your doctor will check this for you and discuss with you the possibility of repeated treatment with Simulect.
+
+<div style=\"page-break-after: always\"></div>
 
 If you need to have a vaccination, seek your doctor's advice first.
 
@@ -2431,24 +2431,24 @@ There is no evidence to indicate that Simulect has an effect on your ability to 
 
 ## Simulect contains sodium and potassium
 
-This medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodiumfree'.
+This medicine contains less than 1 mmol sodium (23 mg) per vial, that is to say essentially 'sodium -free'.
 
-This medicine contains potassium, less than 1 mmol (39 mg) per vial, i.e. essentially 'potassium-free'.
+This medicine contains potassium, less than 1 mmol (39 mg) per vial, i.e. essentially 'potassium -free'.
 
 ## 3. How Simulect is given
 
-You will only be given Simulect if you are receiving a new kidney. Simulect is given twice, in hospital, either slowly through a needle in your vein as an infusion lasting 20-30 minutes or as an intravenous injection using a syringe.
+You will only be given Simulect if you are receiving a new kidney. Simulect is given twice, in hospital, either slowly through a needle in your vein as an infusion lasting 20 -30 minutes or as an intravenous injection using a syringe.
 
 If you have experienced a severe allergic reaction to Simulect or if you had complications after your surgery such as graft loss, the second dose of Simulect should not be given to you.
 
 The first dose is given just before the transplant operation, and the second dose 4 days after the operation.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Usual dose for children and adolescents (aged 1 to 17 years)
 
 - -For children and adolescents who weigh less than 35 kg, the dose of Simulect given in each infusion or injection is 10 mg.
 - -For children and adolescents who weigh 35 kg or more, the dose of Simulect given in each infusion or injection is 20 mg.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Usual dose for adults
 
@@ -2482,14 +2482,14 @@ Do not use this medicine after the expiry date which is stated on the carton and
 
 Store in a refrigerator (2°C - 8°C).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. Contents of the pack and other information
 
 ## What Simulect contains
 
 - -The active substance is basiliximab. Each vial contains 10 mg of basiliximab.
 - -The other ingredients are potassium dihydrogen phosphate; disodium phosphate, anhydrous; sodium chloride; sucrose; mannitol (E421); glycine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## What Simulect looks like and contents of the pack
 
@@ -2504,8 +2504,6 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 ## Manufacturer
 
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
-
-Novartis Pharma GmbH Roonstrasse 25 90429 Nuremberg Germany
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
@@ -2523,7 +2521,9 @@ SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 Novartis Bulgaria EOOD
 
-Тел.: +359 2 489 98 28
+Тел
+
+.: +359 2 489 98 28
 
 ## Luxembourg/Luxemburg
 
@@ -2549,9 +2549,9 @@ Tlf: +45 39 16 84 00
 
 ## Malta
 
-Novartis Pharma Services Inc. Tel: +356 2122 2872
+Novartis Pharma Services Inc.
 
-<div style=\"page-break-after: always\"></div>
+Tel: +356 2122 2872
 
 ## Deutschland
 
@@ -2559,11 +2559,21 @@ Novartis Pharma GmbH
 
 Tel: +49 911 273 0
 
+## Nederland
+
+Novartis Pharma B.V. Tel: +31 88 04 52 111
+
 ## Eesti
 
 SIA Novartis Baltics Eesti filiaal
 
 Tel: +372 66 30 810
+
+## Norge
+
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
 
 ## Ελλάδα
 
@@ -2571,11 +2581,23 @@ Novartis (Hellas) A.E.B.E.
 
 Τηλ: +30 210 281 17 12
 
+## Österreich
+
+Novartis Pharma GmbH Tel: +43 1 86 6570
+
+<div style=\"page-break-after: always\"></div>
+
 ## España
+
+## Polska
 
 Novartis Farmacéutica, S.A.
 
 Tel: +34 93 306 42 00
+
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
 
 ## France
 
@@ -2583,11 +2605,23 @@ Novartis Pharma S.A.S.
 
 Tél: +33 1 55 47 66 00
 
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A.
+
+Tel: +351 21 000 8600
+
 ## Hrvatska
 
 Novartis Hrvatska d.o.o.
 
 Tel. +385 1 6274 220
+
+## România
+
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
 
 ## Ireland
 
@@ -2595,11 +2629,23 @@ Novartis Ireland Limited
 
 Tel: +353 1 260 12 55
 
+## Slovenija
+
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
+
 ## Ísland
 
 Vistor hf.
 
 Sími: +354 535 7000
+
+## Slovenská republika
+
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
 
 ## Italia
 
@@ -2607,11 +2653,23 @@ Novartis Farma S.p.A.
 
 Tel: +39 02 96 54 1
 
+## Suomi/Finland
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
+
 ## Κύπρος
 
 Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
 
 ## Latvija
 
@@ -2622,62 +2680,6 @@ Tel: +371 67 887 070
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
-
-## Nederland
-
-Novartis Pharma B.V.
-
-Tel: +31 88 04 52 111
-
-## Norge
-
-Novartis Norge AS
-
-Tlf: +47 23 05 20 00
-
-## Österreich
-
-Novartis Pharma GmbH
-
-Tel: +43 1 86 6570
-
-## Polska
-
-Novartis Poland Sp. z o.o.
-
-Tel.: +48 22 375 4888
-
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
-
-## România
-
-Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
-
-## Slovenija
-
-Novartis Pharma Services Inc.
-
-Tel: +386 1 300 75 50
-
-## Slovenská republika
-
-Novartis Slovakia s.r.o.
-
-Tel: +421 2 5542 5439
-
-## Suomi/Finland
-
-Novartis Finland Oy
-
-Puh/Tel: +358 (0)10 6133 200
-
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00
 
 <div style=\"page-break-after: always\"></div>
 

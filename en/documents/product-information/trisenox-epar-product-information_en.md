@@ -4,17 +4,17 @@ document_pages: 41
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/trisenox-epar-product-information_en.pdf
 document_name: trisenox-epar-product-information_en.pdf
 version: success
-processing_time: 11.3131745
-conversion_datetime: 2025-12-19 06:17:59.558249
+processing_time: 11.2827747
+conversion_datetime: 2026-01-03 13:13:24.398953
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 

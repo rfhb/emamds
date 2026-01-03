@@ -4,8 +4,8 @@ document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/caelyx-pegylated-liposomal-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: caelyx-pegylated-liposomal-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.7780739
-conversion_datetime: 2025-12-26 09:00:18.646023
+processing_time: 2.0765069
+conversion_datetime: 2026-01-03 13:06:55.571023
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

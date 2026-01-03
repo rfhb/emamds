@@ -4,8 +4,8 @@ document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/minjuvi-epar-product-information_en.pdf
 document_name: minjuvi-epar-product-information_en.pdf
 version: success
-processing_time: 6.0435751
-conversion_datetime: 2025-12-28 14:10:49.75165
+processing_time: 6.0642026
+conversion_datetime: 2026-01-03 13:08:31.461998
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

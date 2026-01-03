@@ -4,8 +4,8 @@ document_pages: 28
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/mozobil-epar-product-information_en.pdf
 document_name: mozobil-epar-product-information_en.pdf
 version: success
-processing_time: 6.282877
-conversion_datetime: 2025-12-30 08:41:58.08875
+processing_time: 6.7195301
+conversion_datetime: 2026-01-03 12:14:11.764571
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

@@ -4,8 +4,8 @@ document_pages: 15
 document_pathfilename: www.ema.europa.eu/en/documents/variation-report/cosentyx-pam-0000301644-epar-assessment-report_en.pdf
 document_name: cosentyx-pam-0000301644-epar-assessment-report_en.pdf
 version: success
-processing_time: 25.1154877
-conversion_datetime: 2025-12-26 20:15:48.520974
+processing_time: 18.2635061
+conversion_datetime: 2026-01-03 12:17:24.26424
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

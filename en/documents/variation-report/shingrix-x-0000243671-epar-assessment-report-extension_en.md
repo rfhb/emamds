@@ -4,8 +4,8 @@ document_pages: 25
 document_pathfilename: www.ema.europa.eu/en/documents/variation-report/shingrix-x-0000243671-epar-assessment-report-extension_en.pdf
 document_name: shingrix-x-0000243671-epar-assessment-report-extension_en.pdf
 version: success
-processing_time: 5.3249596
-conversion_datetime: 2025-12-24 23:02:35.074278
+processing_time: 5.3832547
+conversion_datetime: 2026-01-03 13:08:53.508344
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

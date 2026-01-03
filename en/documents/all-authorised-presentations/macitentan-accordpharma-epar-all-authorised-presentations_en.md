@@ -4,8 +4,8 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/all-authorised-presentations/macitentan-accordpharma-epar-all-authorised-presentations_en.pdf
 document_name: macitentan-accordpharma-epar-all-authorised-presentations_en.pdf
 version: success
-processing_time: 1.2120018
-conversion_datetime: 2025-12-30 09:25:29.027971
+processing_time: 1.2457749
+conversion_datetime: 2026-01-03 13:07:04.908582
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

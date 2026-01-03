@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 11:33:06
+document_datetime: 2025-12-19 17:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/attrogy.html
 document_name: attrogy.html
 version: success
-processing_time: 0.1066204
-conversion_datetime: 2025-12-30 10:52:55.158316
+processing_time: 0.1066116
+conversion_datetime: 2026-01-03 13:10:16.07264
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -106,7 +106,7 @@ English (EN) (116.49 KB - PDF)
 
 [View](/en/documents/overview/attrogy-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-100)
+[Other languages (22)](#file-language-dropdown-107)
 
 български (BG) (142.96 KB - PDF)
 
@@ -306,7 +306,7 @@ English (EN) (343.3 KB - PDF)
 
 [View](/en/documents/product-information/attrogy-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-813)
+[Other languages (24)](#file-language-dropdown-862)
 
 български (BG) (446.94 KB - PDF)
 
@@ -620,7 +620,7 @@ English (EN) (42.96 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/attrogy-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-377)
+[Other languages (24)](#file-language-dropdown-155)
 
 български (BG) (53.75 KB - PDF)
 

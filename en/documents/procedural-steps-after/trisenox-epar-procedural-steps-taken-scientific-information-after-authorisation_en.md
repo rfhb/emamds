@@ -4,13 +4,13 @@ document_pages: 2
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/trisenox-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: trisenox-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 3.233575
-conversion_datetime: 2025-12-20 13:47:26.059126
+processing_time: 3.2343205
+conversion_datetime: 2026-01-03 12:37:49.533051
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,12 +25,6 @@ Procedural steps taken and scientific information after the authorisation*
 | Applicationnumber   | Scope                                  | Opinion/ Notification 1 issued on   | Commission Decision Issued²/ amendedon   | Product Information affected3   | Summary   |
 |---------------------|----------------------------------------|-------------------------------------|------------------------------------------|---------------------------------|-----------|
 | Variation type IA / | This was an application for a group of | 15/12/2025                          |                                          | Annex II and                    |           |
-
-1 Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions areissuedforallotherprocedures.
-
-3SmPC(Summary ofProductCharacteristics),AnnexII,Labelling,PL(PackageLeaflet).
-
-2 A Commission decision(CD) is issued for procedures that affect the terms of the marketing authorisation(e.g.summary of product characteristics, annexII, labelling,package leaflet).The CDisissuedwithintwomonths of the opinionforvariationsfallingunderthescope ofArticle23.1a(a)ofRegulation(EU)No.712/2012,orwithinoneyearforotherprocedures.
 
 <!-- image -->
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 11:14:15
+document_datetime: 2025-12-18 15:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rotateq.html
 document_name: rotateq.html
 version: success
-processing_time: 0.1238683
-conversion_datetime: 2025-12-30 01:35:33.067061
+processing_time: 0.1224345
+conversion_datetime: 2026-01-03 12:52:19.604429
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -113,7 +113,7 @@ English (EN) (82.57 KB - PDF)
 
 [View](/en/documents/overview/rotateq-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-601)
+[Other languages (22)](#file-language-dropdown-590)
 
 български (BG) (108.24 KB - PDF)
 
@@ -399,7 +399,7 @@ English (EN) (269.84 KB - PDF)
 
 [View](/en/documents/product-information/rotateq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-66)
+[Other languages (24)](#file-language-dropdown-665)
 
 български (BG) (263.86 KB - PDF)
 
@@ -715,7 +715,7 @@ English (EN) (31.83 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rotateq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-178)
+[Other languages (24)](#file-language-dropdown-145)
 
 български (BG) (92.77 KB - PDF)
 

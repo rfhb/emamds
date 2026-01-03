@@ -4,13 +4,13 @@ document_pages: 94
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/entyvio-epar-product-information_en.pdf
 document_name: entyvio-epar-product-information_en.pdf
 version: success
-processing_time: 25.6138894
-conversion_datetime: 2025-12-20 15:46:03.155624
+processing_time: 23.4043139
+conversion_datetime: 2026-01-03 12:57:32.08369
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -622,12 +622,6 @@ Do not freeze the reconstituted solution in the vial or the diluted solution in 
 |                                                                           | Refrigerator (2°C-8°C) | 20°C-25°C           |
 | Reconstituted solution in the vial                                        | 8 hours                | Do not hold 1       |
 | Diluted solution in sodium chloride 9 mg/mL (0.9%) solution for injection | 24 hours 2,3           | 12 hours 2          |
-
-1 Up to 30 minutes are allowed for reconstitution
-
-2  This time assumes the reconstituted solution is immediately diluted in the sodium chloride 9 mg/mL (0.9%) solution for injection and held in the infusion bag only. Any time that the reconstituted solution was held in the vial should be subtracted from the time the solution may be held in the infusion bag.
-
-3 This period may include up to 12 hours at 20 °C-25 °C.
 
 ## 6.4 Special precautions for storage
 
@@ -2532,12 +2526,6 @@ Once reconstituted, the infusion solution should be used as soon as possible.
 |                                                                           | Refrigerator (2 °C-8 °C) | 20 °C-25 °C         |
 | Reconstituted solution in the vial                                        | 8 hours                  | Do not hold 1       |
 | Diluted solution in sodium chloride 9 mg/mL (0.9%) solution for injection | 24 hours 2, 3            | 12 hours 2          |
-
-1 Up to 30 minutes are allowed for reconstitution
-
-2  This time assumes the reconstituted solution is immediately diluted in the sodium chloride 9 mg/mL (0.9%) solution for injection and held in the infusion bag only. Any time that the reconstituted solution was held in the vial should be subtracted from the time the solution may be held in the infusion bag.
-
-3 This period may include up to 12 hours at 20 °C-25 °C.
 
 <div style=\"page-break-after: always\"></div>
 

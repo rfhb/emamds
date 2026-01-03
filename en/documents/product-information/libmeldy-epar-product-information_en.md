@@ -4,13 +4,13 @@ document_pages: 48
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/libmeldy-epar-product-information_en.pdf
 document_name: libmeldy-epar-product-information_en.pdf
 version: success
-processing_time: 12.2440908
-conversion_datetime: 2025-12-22 07:43:31.488716
+processing_time: 13.5919502
+conversion_datetime: 2026-01-03 13:13:54.578485
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -346,8 +346,6 @@ Adverse reactions are listed by MedDRA body system organ class and by frequency.
 | Reproductive system and breast disorders             | Ovarian failure |                                                                                                                                                        |
 | General disorders and administration site conditions |                 | Pyrexia, Mucosal inflammation                                                                                                                          |
 | Investigations                                       |                 | Alanine aminotransferase increased, Aspartate aminotransferase increased, Aspergillus test positive, Hepatic enzyme increased, Transaminases increased |
-
-* Based on 49 patients who have undergone myeloablative conditioning by busulfan in the integrated safety set.
 
 ## Description of selected adverse reactions
 

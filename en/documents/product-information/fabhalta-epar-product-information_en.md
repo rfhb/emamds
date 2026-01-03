@@ -4,13 +4,13 @@ document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/fabhalta-epar-product-information_en.pdf
 document_name: fabhalta-epar-product-information_en.pdf
 version: success
-processing_time: 10.515811
-conversion_datetime: 2025-12-22 20:22:27.497493
+processing_time: 12.052061
+conversion_datetime: 2026-01-03 12:48:59.83497
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)

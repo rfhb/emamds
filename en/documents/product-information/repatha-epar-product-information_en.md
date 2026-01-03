@@ -4,13 +4,13 @@ document_pages: 90
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/repatha-epar-product-information_en.pdf
 document_name: repatha-epar-product-information_en.pdf
 version: success
-processing_time: 26.097298
-conversion_datetime: 2025-12-22 09:03:45.468516
+processing_time: 28.7290268
+conversion_datetime: 2026-01-03 13:20:05.875695
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -240,8 +240,6 @@ Table 1. Adverse reactions
 | Musculoskeletal and connective tissue disorders      | Myalgia                           | Common               |
 | General disorders and administration site conditions | Injection site reactions 1        | Common               |
 | General disorders and administration site conditions | Influenza-like illness            | Uncommon             |
-
-1 See section Description of selected adverse reactions.
 
 The safety profile was consistent between subjects with post-baseline LDL-C &lt; 25 mg/dL (0.65 mmol/L) or &lt; 40 mg/dL(1.03 mmol/L) compared to subjects with higher post-baseline LDL-C (≥ 40 mg/dL[1.03 mmol/L]), with median (Q1, Q3) Repatha exposure of 84.2 (78.1, 89.8) months in subjects who continued on Repatha and 59.8 (52.8, 60.3) months in subjects on placebo who switched to Repatha in an open-label extension study.
 
@@ -488,16 +486,6 @@ Table 10. Effect of evolocumab on major cardiovascular events
 | Stroke (fatal/non-fatal) d                                                                    | 262 (1.90)                   | 207 (1.50)                      | 0.79 (0.66, 0.95)         | 0.0101 c    |
 | Coronary revascularisation                                                                    | 965 (7.00)                   | 759 (5.51)                      | 0.78 (0.71, 0.86)         | < 0.0001 c  |
 | Hospitalisation for unstable angina e                                                         | 239 (1.7)                    | 236 (1.7)                       | 0.99 (0.82, 1.18)         | 0.89        |
-
-a Based on a Cox model stratified by the randomisation stratification factors collected via Interactive Voice Response System (IVRS).
-
-b 2-sided log-rank test stratified by randomisation stratification factors collected via IVRS.
-
-c Nominal significance.
-
-d The treatment effect on stroke was driven by a reduction in risk of ischaemic stroke; there was no effect on haemorrhagic or undetermined stroke.
-
-e Assessment of time to hospitalisation for unstable angina was ad-hoc .
 
 <div style=\"page-break-after: always\"></div>
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-09-18 11:52:59
+document_datetime: 2025-12-19 12:32:57
 document_pages: 30
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/replagal-epar-product-information_en.pdf
 document_name: replagal-epar-product-information_en.pdf
 version: success
-processing_time: 5.5471602
-conversion_datetime: 2025-12-19 12:42:11.555134
+processing_time: 5.6949569
+conversion_datetime: 2026-01-03 12:31:49.840409
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -32,9 +32,9 @@ Replagal 1 mg/ml concentrate for solution for infusion.
 
 *agalsidase alfa is the human protein α-galactosidase A produced in a human cell line by genetic engineering technology.
 
-## Excipient(s) with known effect
+## Excipients with known effect
 
-This medicinal product contains 14.2 mg sodium per vial.
+This medicinal product contains 14.2 mg sodium per vial. This medicinal product contains 0.836 mg of polysorbate 20 per vial.
 
 For the full list of excipients, see section 6.1.
 
@@ -130,13 +130,19 @@ The presence of extensive renal damage may limit the renal response to enzyme re
 
 This medicinal product contains 14.2 mg sodium per vial, equivalent to 0.7% of the WHO recommended maximum daily intake of 2 g sodium for an adult.
 
+## Polysorbate 20
+
+This medicinal product contains 0.836 mg of polysorbate 20 in each vial which is equivalent to 0.22 mg/ml. Polysorbates may cause allergic reactions.
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 Replagal should not be co-administered with chloroquine, amiodarone, benoquin or gentamicin since these substances have the potential to inhibit intra-cellular α-galactosidase activity.
 
-As α-galactosidase A is itself an enzyme, it would be an unlikely candidate for cytochrome P450 mediated drug-drug interactions. In clinical studies, neuropathic pain medicinal products (such as carbamazepine, phenytoin, and gabapentin) were administered concurrently to most patients without any evidence of interaction.
+As α-galactosidase A is itself an enzyme, it would be an unlikely candidate for cytochrome P450 mediated drug-drug interactions. In clinical studies, neuropathic pain medicinal products (such as
 
 <div style=\"page-break-after: always\"></div>
+
+carbamazepine, phenytoin, and gabapentin) were administered concurrently to most patients without any evidence of interaction.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -168,36 +174,38 @@ Table 1 lists adverse reactions reported for the 344 patients treated with Repla
 
 The following adverse reactions have been identified for agalsidase alfa:
 
-| Table 1                            | Table 1                                                            | Table 1                | Table 1                  | Table 1          |
-|------------------------------------|--------------------------------------------------------------------|------------------------|--------------------------|------------------|
-| System organ class                 | Adverse reaction                                                   | Adverse reaction       | Adverse reaction         | Adverse reaction |
-|                                    | Very common                                                        | Common                 | Uncommon                 | Not known        |
-| Metabolism and nutrition disorders | peripheral oedema                                                  |                        |                          |                  |
-| Nervous system disorders           | headache, dizziness, neuralgia, tremor, hypoesthesia, paraesthesia | dysgeusia, hypersomnia | parosmia                 |                  |
-| Eye disorders                      |                                                                    | lacrimation increased  | corneal reflex decreased |                  |
+| Table 1                            | Table 1           | Table 1          | Table 1          | Table 1          |
+|------------------------------------|-------------------|------------------|------------------|------------------|
+| System organ class                 | Adverse reaction  | Adverse reaction | Adverse reaction | Adverse reaction |
+|                                    | Very common       | Common           | Uncommon         | Not known        |
+| Metabolism and nutrition disorders | peripheral oedema |                  |                  |                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| Table 1                                               |                                                      |                                                                                                   |                                                               |                                                                  |
-|-------------------------------------------------------|------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------------------|
-| System organ class                                    | Very common                                          | Adverse Common                                                                                    | reaction Uncommon                                             | Not known                                                        |
-| Ear and labyrinth disorders                           | tinnitus                                             | tinnitus aggravated                                                                               |                                                               |                                                                  |
-| Cardiac disorders                                     | palpitations                                         | tachycardia, atrial fibrillation                                                                  | tachyarrhythmia                                               | myocardial ischaemia, cardiac failure, ventricular extrasystoles |
-| Vascular disorders                                    |                                                      | hypertension, hypotension, flushing                                                               |                                                               |                                                                  |
-| Respiratory, thoracic, and mediastinal disorders      | dyspnoea, cough, nasopharyngitis, pharyngitis        | dysphonia, throat tightness, rhinorrhoea                                                          | oxygen saturation decreased, increased upper airway secretion |                                                                  |
-| Gastrointestinal disorders                            | vomiting, nausea, abdominal pain, diarrhoea          | abdominal discomfort                                                                              |                                                               |                                                                  |
-| Skin and subcutaneous tissue disorders                | rash                                                 | urticaria, erythema, pruritus, acne, hyperhidrosis                                                | angioedema, livedo reticularis                                |                                                                  |
-| Musculoskeletal, connective tissue and bone disorders | arthralgia, pain in extremity, myalgia, back pain    | musculoskeletal discomfort, peripheral swelling, joint swelling                                   | sensation of heaviness                                        |                                                                  |
-| Immune system disorders                               |                                                      | hypersensitivity                                                                                  | anaphylactic reaction                                         |                                                                  |
-| General disorders and administration site conditions  | chest pain, chills, pyrexia, pain, asthenia, fatigue | chest discomfort, fatigue, feeling hot, feeling cold, influenza like illness, discomfort, malaise | injection site rash                                           |                                                                  |
+| Table 1                                               |                                                                    |                                                                                                   |                                                               |                                                                  |
+|-------------------------------------------------------|--------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------------------|
+| System organ class                                    | Very common                                                        | Common                                                                                            | Uncommon                                                      | Not known                                                        |
+| Nervous system disorders                              | headache, dizziness, neuralgia, tremor, hypoesthesia, paraesthesia | dysgeusia, hypersomnia                                                                            | parosmia                                                      |                                                                  |
+| Eye disorders                                         |                                                                    | lacrimation increased                                                                             | corneal reflex decreased                                      |                                                                  |
+| Ear and labyrinth disorders                           | tinnitus                                                           | tinnitus aggravated                                                                               |                                                               |                                                                  |
+| Cardiac disorders                                     | palpitations                                                       | tachycardia, atrial fibrillation                                                                  | tachyarrhythmia                                               | myocardial ischaemia, cardiac failure, ventricular extrasystoles |
+| Vascular disorders                                    |                                                                    | hypertension, hypotension, flushing                                                               |                                                               |                                                                  |
+| Respiratory, thoracic, and mediastinal disorders      | dyspnoea, cough, nasopharyngitis, pharyngitis                      | dysphonia, throat tightness, rhinorrhoea                                                          | oxygen saturation decreased, increased upper airway secretion |                                                                  |
+| Gastrointestinal disorders                            | vomiting, nausea, abdominal pain, diarrhoea                        | abdominal discomfort                                                                              |                                                               |                                                                  |
+| Skin and subcutaneous tissue disorders                | rash                                                               | urticaria, erythema, pruritus, acne, hyperhidrosis                                                | angioedema, livedo reticularis                                |                                                                  |
+| Musculoskeletal, connective tissue and bone disorders | arthralgia, pain in extremity, myalgia, back pain                  | musculoskeletal discomfort, peripheral swelling, joint swelling                                   | sensation of heaviness                                        |                                                                  |
+| Immune system disorders                               |                                                                    | hypersensitivity                                                                                  | anaphylactic reaction                                         |                                                                  |
+| General disorders and administration site conditions  | chest pain, chills, pyrexia, pain, asthenia, fatigue               | chest discomfort, fatigue, feeling hot, feeling cold, influenza like illness, discomfort, malaise | injection site rash                                           |                                                                  |
 
 See also section 4.4.
 
 ## Description of selected adverse reactions
 
-Infusion related reactions reported in the post-marketing setting (also see section 4.4) may include cardiac events such as cardiac arrhythmias (atrial fibrillation, ventricular extrasystoles, tachyarrhythmia), myocardial ischemia, and heart failure in patients with Fabry disease involving the heart structures. The most common infusion related reactions were mild and include rigors, pyrexia, flushing, headache, nausea, dyspnoea, tremor, and pruritus. Infusion-related symptoms may also include dizziness, hyperhidrosis, hypotension, cough, vomiting and fatigue. Hypersensitivity, including anaphylaxis, has been reported.
+Infusion related reactions reported in the post-marketing setting (also see section 4.4) may include cardiac events such as cardiac arrhythmias (atrial fibrillation, ventricular extrasystoles, tachyarrhythmia), myocardial ischemia, and heart failure in patients with Fabry disease involving the heart structures. The most common infusion related reactions were mild and include rigors, pyrexia,
 
 <div style=\"page-break-after: always\"></div>
+
+flushing, headache, nausea, dyspnoea, tremor, and pruritus. Infusion-related symptoms may also include dizziness, hyperhidrosis, hypotension, cough, vomiting and fatigue. Hypersensitivity, including anaphylaxis, has been reported.
 
 ## Paediatric population
 
@@ -229,11 +237,11 @@ Fabry Disease is a glycosphingolipid storage disorder that is caused by deficien
 
 ## Clinical efficacy and safety
 
-The safety and efficacy of Replagal was assessed in two randomised, double-blind, placebo-controlled studies and open label extension studies, in a total of forty patients with a diagnosis of Fabry Disease based on clinical and biochemical evidence. Patients received the recommended dosage of 0.2 mg/kg of Replagal. Twenty-five patients completed the first study and entered an extension study. After 6 months of therapy there was a significant reduction in pain in the Replagal treated patients compared with placebo (p = 0.021), as measured by the Brief Pain Inventory (a validated pain measurement scale). This was associated with a significant reduction in chronic neuropathic pain medication use and
+The safety and efficacy of Replagal was assessed in two randomised, double-blind, placebo-controlled studies and open label extension studies, in a total of forty patients with a diagnosis of Fabry Disease based on clinical and biochemical evidence. Patients received the recommended dosage of 0.2 mg/kg
 
 <div style=\"page-break-after: always\"></div>
 
-number of days on pain medication. In subsequent studies, in male paediatric patients above the age of 7, a reduction in pain was observed after 9 and 12 months of Replagal therapy compared to pre-treatment baseline. This pain reduction persisted through 4 years of Replagal therapy in 9 patients (in patients 7-18 years of age).
+of Replagal. Twenty-five patients completed the first study and entered an extension study. After 6 months of therapy there was a significant reduction in pain in the Replagal treated patients compared with placebo (p = 0.021), as measured by the Brief Pain Inventory (a validated pain measurement scale). This was associated with a significant reduction in chronic neuropathic pain medication use and number of days on pain medication. In subsequent studies, in male paediatric patients above the age of 7, a reduction in pain was observed after 9 and 12 months of Replagal therapy compared to pre-treatment baseline. This pain reduction persisted through 4 years of Replagal therapy in 9 patients (in patients 7-18 years of age).
 
 Twelve to 18 months of treatment with Replagal resulted in improvement in quality of life (QoL), as measured by validated instruments.
 
@@ -247,9 +255,11 @@ Infusion of Replagal at home may be considered for patients who are tolerating t
 
 ## Paediatric population
 
-In male paediatric Fabry patients ≥ 7 years of age, hyperfiltration can be the earliest manifestation of renal involvement in the disease. Reduction in their hypernormal eGFRs was observed within 6 months of initiating Replagal therapy. After one year of treatment with agalsidase alfa 0.2 mg/kg every other week, the abnormally high eGFR decreased from 143.4 ± 6.8 to 121.3 ± 5.6 ml/min/1.73 m 2 in this subgroup and these eGFRs stabilized in the normal range during 4 years of Replagal 0.2 mg/kg therapy, as did the eGFRs of the non-hyperfiltrators.
+In male paediatric Fabry patients ≥ 7 years of age, hyperfiltration can be the earliest manifestation of renal involvement in the disease. Reduction in their hypernormal eGFRs was observed within 6 months of initiating Replagal therapy. After one year of treatment with agalsidase alfa 0.2 mg/kg every other week, the abnormally high eGFR decreased from 143.4 ± 6.8 to
 
 <div style=\"page-break-after: always\"></div>
+
+121.3 ± 5.6 ml/min/1.73 m 2 in this subgroup and these eGFRs stabilized in the normal range during 4 years of Replagal 0.2 mg/kg therapy, as did the eGFRs of the non-hyperfiltrators.
 
 In male paediatric patients ≥ 7 years of age, heart rate variability was abnormal at baseline and improved after 6 months of Replagal therapy in 15 boys and the improvement was sustained through 6.5 years of Replagal 0.2 mg/kg therapy in an open-label long-term extension study in 9 boys. Among 9 boys with left ventricular mass (LVMI) indexed to height 2.7 within the normal range for children (&lt; 39 g/m 2.7 in boys) at baseline, LVMI remained stable at levels below the left ventricular hypertrophy (LVH) threshold throughout the 6.5 years of treatment. In a second study, in 14 patients ≥ 7 years of age, the results regarding heart rate variability were consistent with previous findings. In this study, only one patient had LVH at baseline and remained stable over time.
 
@@ -307,7 +317,7 @@ In the absence of compatibility studies this medicinal product must not be mixed
 
 ## 6.3 Shelf life
 
-2 years.
+3 years.
 
 Chemical and physical in use stability has been demonstrated for 24 hours at 25 °C.
 

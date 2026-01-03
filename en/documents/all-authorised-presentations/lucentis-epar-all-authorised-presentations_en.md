@@ -4,13 +4,13 @@ document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_en.pdf
 document_name: lucentis-epar-all-authorised-presentations_en.pdf
 version: success
-processing_time: 0.8723438
-conversion_datetime: 2025-12-22 16:32:51.188298
+processing_time: 0.8768013
+conversion_datetime: 2026-01-03 12:26:17.444642
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)

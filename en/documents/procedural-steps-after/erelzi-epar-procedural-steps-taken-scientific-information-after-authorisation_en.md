@@ -4,8 +4,8 @@ document_pages: 5
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/erelzi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: erelzi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 15.0400548
-conversion_datetime: 2025-12-26 11:02:06.99996
+processing_time: 16.7577898
+conversion_datetime: 2026-01-03 12:12:51.106241
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

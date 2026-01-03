@@ -4,8 +4,8 @@ document_pages: 29
 document_pathfilename: www.ema.europa.eu/en/documents/variation-report/breyanzi-h-c-004731-p46-023-epar-assessment-report_en.pdf
 document_name: breyanzi-h-c-004731-p46-023-epar-assessment-report_en.pdf
 version: success
-processing_time: 38.3499891
-conversion_datetime: 2025-12-30 09:40:06.491355
+processing_time: 43.5875328
+conversion_datetime: 2026-01-03 13:06:44.28555
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

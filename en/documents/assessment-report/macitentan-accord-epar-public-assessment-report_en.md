@@ -4,8 +4,8 @@ document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/assessment-report/macitentan-accord-epar-public-assessment-report_en.pdf
 document_name: macitentan-accord-epar-public-assessment-report_en.pdf
 version: success
-processing_time: 13.2272993
-conversion_datetime: 2025-12-25 09:14:04.326083
+processing_time: 14.5981428
+conversion_datetime: 2026-01-03 12:26:50.162637
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0

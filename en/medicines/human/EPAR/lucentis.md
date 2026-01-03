@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 11:38:39
+document_datetime: 2025-12-17 16:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/lucentis.html
 document_name: lucentis.html
 version: success
-processing_time: 0.2186782
-conversion_datetime: 2025-12-30 11:27:39.394841
+processing_time: 0.1710277
+conversion_datetime: 2026-01-03 13:20:15.459851
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -155,7 +155,7 @@ English (EN) (90.1 KB - PDF)
 
 [View](/en/documents/overview/lucentis-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-645)
+[Other languages (22)](#file-language-dropdown-143)
 
 български (BG) (121.39 KB - PDF)
 
@@ -443,7 +443,7 @@ English (EN) (1.08 MB - PDF)
 
 [View](/en/documents/product-information/lucentis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-736)
+[Other languages (24)](#file-language-dropdown-900)
 
 български (BG) (1.21 MB - PDF)
 
@@ -759,7 +759,7 @@ English (EN) (81.14 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/lucentis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-323)
+[Other languages (24)](#file-language-dropdown-172)
 
 български (BG) (90.3 KB - PDF)
 
@@ -1059,7 +1059,7 @@ English (EN) (119 KB - PDF)
 
 [View](/en/documents/conditions-member-states/lucentis-epar-conditions-imposed-member-states-safe-and-effective-use-annex-iv_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-300)
+[Other languages (23)](#file-language-dropdown-317)
 
 български (BG) (164.95 KB - PDF)
 
@@ -1672,7 +1672,7 @@ English (EN) (1.13 MB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/lucentis-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-728)
+[Other languages (24)](#file-language-dropdown-972)
 
 български (BG) (1.15 MB - DOCX)
 

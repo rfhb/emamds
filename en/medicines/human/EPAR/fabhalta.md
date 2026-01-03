@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 11:07:07
+document_datetime: 2025-12-19 17:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/fabhalta.html
 document_name: fabhalta.html
 version: success
-processing_time: 0.1337417
-conversion_datetime: 2025-12-30 02:28:13.631337
+processing_time: 0.13491
+conversion_datetime: 2026-01-03 12:31:18.695992
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -130,7 +130,7 @@ English (EN) (154.25 KB - PDF)
 
 [View](/en/documents/overview/fabhalta-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-170)
+[Other languages (22)](#file-language-dropdown-330)
 
 български (BG) (179.3 KB - PDF)
 
@@ -418,7 +418,7 @@ English (EN) (544.63 KB - PDF)
 
 [View](/en/documents/product-information/fabhalta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-473)
+[Other languages (24)](#file-language-dropdown-353)
 
 български (BG) (648.76 KB - PDF)
 
@@ -734,7 +734,7 @@ English (EN) (70.33 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/fabhalta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-86)
+[Other languages (24)](#file-language-dropdown-868)
 
 български (BG) (76.08 KB - PDF)
 
@@ -1186,7 +1186,7 @@ English (EN) (353.06 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/fabhalta-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-463)
+[Other languages (24)](#file-language-dropdown-597)
 
 български (BG) (355.94 KB - DOCX)
 

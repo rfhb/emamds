@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 11:24:08
+document_datetime: 2025-12-18 12:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/caelyx-pegylated-liposomal.html
 document_name: caelyx-pegylated-liposomal.html
 version: success
-processing_time: 0.1415306
-conversion_datetime: 2025-12-31 02:57:08.555445
+processing_time: 0.1434821
+conversion_datetime: 2026-01-03 12:52:00.741446
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -121,7 +121,7 @@ English (EN) (181.04 KB - PDF)
 
 [View](/en/documents/overview/caelyx-pegylated-liposomal-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-948)
+[Other languages (22)](#file-language-dropdown-597)
 
 български (BG) (195.38 KB - PDF)
 
@@ -407,7 +407,7 @@ English (EN) (308.32 KB - PDF)
 
 [View](/en/documents/product-information/caelyx-pegylated-liposomal-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-308)
+[Other languages (24)](#file-language-dropdown-819)
 
 български (BG) (446.41 KB - PDF)
 
@@ -723,7 +723,7 @@ English (EN) (27.29 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/caelyx-pegylated-liposomal-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-143)
+[Other languages (24)](#file-language-dropdown-957)
 
 български (BG) (35.55 KB - PDF)
 
@@ -1171,7 +1171,7 @@ English (EN) (137.31 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/caelyx-pegylated-liposomal-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-663)
+[Other languages (24)](#file-language-dropdown-85)
 
 български (BG) (565 KB - DOC)
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 11:13:00
+document_datetime: 2025-12-19 17:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/avastin.html
 document_name: avastin.html
 version: success
-processing_time: 0.2080384
-conversion_datetime: 2025-12-31 07:39:32.776185
+processing_time: 0.3678428
+conversion_datetime: 2026-01-03 12:26:26.668524
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -145,7 +145,7 @@ English (EN) (92.15 KB - PDF)
 
 [View](/en/documents/overview/avastin-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-570)
+[Other languages (22)](#file-language-dropdown-190)
 
 български (BG) (120.9 KB - PDF)
 
@@ -431,7 +431,7 @@ English (EN) (241.33 KB - PDF)
 
 [View](/en/documents/product-information/avastin-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-755)
+[Other languages (24)](#file-language-dropdown-578)
 
 български (BG) (883.03 KB - PDF)
 
@@ -747,7 +747,7 @@ English (EN) (9.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/avastin-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-267)
+[Other languages (21)](#file-language-dropdown-316)
 
 български (BG) (81.22 KB - PDF)
 
@@ -1216,7 +1216,7 @@ English (EN) (49.6 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/avastin-h-c-582-ii-0059-epar-scientific-conclusions-and-grounds-refusal-variation-presented-european-medicines-agency_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-887)
+[Other languages (22)](#file-language-dropdown-611)
 
 български (BG) (106.53 KB - PDF)
 
@@ -1538,7 +1538,7 @@ English (EN) (74.03 KB - PDF)
 
 [View](/en/documents/smop/questions-and-answers-refusal-change-marketing-authorisation-avastin-bevacizumab_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-919)
+[Other languages (22)](#file-language-dropdown-924)
 
 български (BG) (98.25 KB - PDF)
 
@@ -1944,7 +1944,7 @@ English (EN) (36.19 KB - PDF)
 
 [View](/en/documents/smop/questions-and-answers-recommendation-refusal-change-marketing-authorisation-avastin_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-892)
+[Other languages (21)](#file-language-dropdown-285)
 
 български (BG) (126.98 KB - PDF)
 
@@ -2348,7 +2348,7 @@ English (EN) (215.74 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/avastin-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-215)
+[Other languages (24)](#file-language-dropdown-126)
 
 български (BG) (302.93 KB - DOCX)
 

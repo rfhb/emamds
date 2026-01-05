@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 07:01:01
+document_datetime: 2026-01-05 16:06:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cablivi.html
 document_name: cablivi.html
 version: success
-processing_time: 0.1150176
-conversion_datetime: 2025-12-31 03:26:24.532929
+processing_time: 0.088971
+conversion_datetime: 2026-01-06 00:10:11.104286
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -53,7 +53,7 @@ Cablivi is used together with plasma exchange (a procedure that removes certain 
 
 Cablivi contains the active substance caplacizumab.
 
-aTTP is rare, and Cablivi was designated an 'orphan medicine' (a medicine used in rare diseases) on 30 April 2009. Further information on the orphan designation: [EU/3/09/629](/en/medicines/human/orphan-designations/eu-3-09-629) .
+aTTP is rare, and Cablivi was designated an 'orphan medicine' (a medicine used in rare diseases) on 30 April 2009.
 
 Expand section
 
@@ -115,7 +115,7 @@ English (EN) (123.77 KB - PDF)
 
 [View](/en/documents/overview/cablivi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-385)
+[Other languages (22)](#file-language-dropdown-592)
 
 български (BG) (146.66 KB - PDF)
 
@@ -403,7 +403,7 @@ English (EN) (686.58 KB - PDF)
 
 [View](/en/documents/product-information/cablivi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-379)
+[Other languages (24)](#file-language-dropdown-13)
 
 български (BG) (722.15 KB - PDF)
 
@@ -719,7 +719,7 @@ English (EN) (68.8 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cablivi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-801)
+[Other languages (24)](#file-language-dropdown-516)
 
 български (BG) (47.91 KB - PDF)
 
@@ -1035,7 +1035,7 @@ Ablynx NV
 
 Technologiepark 21
 
-Opinion adopted 31/05/2018 Marketing authorisation issued 30/08/2018 Revision 9
+Opinion adopted 31/05/2018 Marketing authorisation issued 30/08/2018 Revision 10
 
 ## Assessment history
 
@@ -1047,11 +1047,11 @@ Collapse section
 
 Cablivi : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (217.51 KB - PDF)
+English (EN) (218.88 KB - PDF)
 
 **First published:** 04/12/2018
 
-**Last updated:** 02/12/2024
+**Last updated:** 05/01/2026
 
 [View](/en/documents/procedural-steps-after/cablivi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1131,7 +1131,7 @@ English (EN) (69.7 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 02/12/2024
+**This page was last updated on** 05/01/2026
 
 ## Share this page
 

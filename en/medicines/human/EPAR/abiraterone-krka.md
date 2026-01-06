@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 14:28:17
+document_datetime: 2026-01-05 16:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/abiraterone-krka.html
 document_name: abiraterone-krka.html
 version: success
-processing_time: 0.120636
-conversion_datetime: 2025-12-30 20:07:03.835133
+processing_time: 0.1290374
+conversion_datetime: 2026-01-06 07:19:54.14284
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -103,7 +103,7 @@ English (EN) (165.29 KB - PDF)
 
 [View](/en/documents/overview/abiraterone-krka-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-167)
+[Other languages (22)](#file-language-dropdown-335)
 
 български (BG) (199.29 KB - PDF)
 
@@ -301,7 +301,7 @@ English (EN) (763.24 KB - PDF)
 
 [View](/en/documents/product-information/abiraterone-krka-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-613)
+[Other languages (24)](#file-language-dropdown-647)
 
 български (BG) (728.51 KB - PDF)
 
@@ -615,7 +615,7 @@ English (EN) (59.53 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/abiraterone-krka-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-435)
+[Other languages (24)](#file-language-dropdown-940)
 
 български (BG) (69.02 KB - PDF)
 
@@ -839,7 +839,7 @@ Krka, d.d., Novo mesto
 
 Šmarješka cesta 6
 
-Opinion adopted 22/04/2021 Marketing authorisation issued 24/06/2021 Revision 3
+Opinion adopted 22/04/2021 Marketing authorisation issued 24/06/2021 Revision 4
 
 ## Assessment history
 
@@ -855,7 +855,7 @@ English (EN) (108.92 KB - PDF)
 
 **First published:** 06/07/2022
 
-**Last updated:** 31/01/2025
+**Last updated:** 05/01/2026
 
 [View](/en/documents/procedural-steps-after/abiraterone-krka-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -899,7 +899,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-944)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1165,7 +1165,7 @@ svenska (SV) (67.11 KB - PDF)
 
 [View](/sv/documents/other/questions-and-answers-generic-medicines_sv.pdf)
 
-**This page was last updated on** 31/01/2025
+**This page was last updated on** 05/01/2026
 
 ## Share this page
 

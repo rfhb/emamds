@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 10:08:53
+document_datetime: 2026-01-05 17:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/telzir.html
 document_name: telzir.html
 version: success
-processing_time: 0.1187518
-conversion_datetime: 2025-12-31 04:28:38.452366
+processing_time: 0.26943
+conversion_datetime: 2026-01-06 07:17:44.717541
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -20,11 +20,11 @@ docling_version:
 
 [RSS](/en/individual-human-medicine.xml/65922)
 
-##### Authorised
+##### Withdrawn
 
-This medicine is authorised for use in the European Union
+This medicine's authorisation has been withdrawn
 
-fosamprenavir Medicine Human Authorised
+fosamprenavir Medicine Human Withdrawn
 
 On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
@@ -46,79 +46,23 @@ Page contents
 
 ## Overview
 
-Telzir is an antiviral medicine for treating patients aged 6 years or above who are infected with human immunodeficiency virus type 1 (HIV-1), a virus that causes acquired immune deficiency syndrome (AIDS).
+On 21 November 2025, the European Commission withdrew the marketing authorisation for Telzir (fosamprenavir) in the European Union (EU). The withdrawal was at the request of the marketing authorisation holder, ViiV Healthcare B.V., which notified the European Commission of its decision to permanently discontinue the marketing of the product for commercial reasons.
 
-Telzir is used in combination with ritonavir and other HIV medicines. It contains the active substance fosamprenavir.
-
-Expand section
-
-Collapse section
-
-## How is Telzir used?
-
-Telzir is available as tablets (700 mg) and as an oral suspension (50 mg/ml) to be taken by mouth. The recommended dose for adults (aged 18 years or over) and for patients aged between 6 and 18 years who weigh more than 39 kg is 700 mg twice a day. In patients aged between 6 and 18 years who weigh between 25 and 39 kg, the dose depends on body weight. There is no recommended dose for patients below 18 years who weigh less than 25 kg.
-
-Telzir tablets can be taken with or without food. The oral suspension should be taken without food in adults, but in younger patients it should be taken with food in order to hide the taste and help them stick to treatment. In adults, each dose of Telzir must be given with 100 mg ritonavir, twice a day. In younger patients, the dose of ritonavir depends on body weight.
-
-Adults with liver problems should take a reduced dose of Telzir and be closely monitored for side effects and their response to treatment.
-
-For patients who have taken medicines to treat their HIV infection before and did not respond to that treatment, doctors should only prescribe Telzir once they have looked at the antiviral medicines the patient has taken before and assessed the likelihood of the virus's response to any new antiviral medicines that might be prescribed.
-
-Treatment with Telzir should be started by a doctor who has experience in the management of HIV infection. The medicine can only be obtained with a prescription. For more information about using Telzir, see the package leaflet or contact your doctor or pharmacist.
-
-## How does Telzir work?
-
-The active substance in Telzir, fosamprenavir, is a 'prodrug' of the protease inhibitor amprenavir, which means that it is converted into amprenavir in the body. Amprenavir, which was previously available in the EU, . blocks an enzyme that is involved in the reproduction of HIV. When the enzyme is blocked, the virus does not reproduce normally, slowing down the spread of infection.
-
-Telzir, taken in combination with other antiviral medicines, reduces the amount of HIV in the blood and keeps it at a low level. Telzir does not cure HIV infection or AIDS, but it can hold off the damage to the immune system and the development of infections and diseases associated with AIDS.
-
-Ritonavir, another protease inhibitor, is used with Telzir as a 'booster'. It slows down the rate at which amprenavir is broken down, helping to increase levels of amprenavir in the blood.
-
-## What benefits of Telzir have been shown in studies?
-
-Telzir has been studied in three main studies involving 1,862 adults. Two of the studies in previously untreated patients showed that Telzir in combination with other antiviral medicines was as effective as comparator medicines.
-
-In one study, after 48 weeks of treatment, 69% of previously untreated adults taking ritonavir-boosted Telzir (221 out of 322) and 68% of those taking nelfinavir (221 out of 327) had viral loads below 400 copies/ml (considered a low viral load). Similar results were seen in the other study comparing ritonavir-boosted Telzir with ritonavir-boosted lopinavir, with around three-quarters of both groups of previously untreated patients having viral loads below 400 copies/ml.
-
-In a third study in patients who had been treated before, Telzir was less effective than the comparator medicine lopinavir, with patients taking lopinavir having larger reductions in viral loads over the first 48 weeks.
-
-Patients in these three adult studies also took two reverse-transcriptase inhibitors (another type of antiviral medicine) in addition to Telzir or the medicine Telzir was being compared with.
-
-A similar benefit was also seen in one main study including 57 children aged between 2 and 18 years. However, there were too few patients aged below 6 years to support the use of Telzir in this age group.
-
-## What are the risks associated with Telzir?
-
-The most common side effects in adults taking Telzir (seen in more than 1 patient in 10) are diarrhoea and increases in the levels of cholesterol (a type of fat) in the blood. Similar side effects are seen in younger patients. For the full list of side effects of Telzir, see the package leaflet.
-
-Telzir should not be used in people who are hypersensitive (allergic) to fosamprenavir, amprenavir, any of the other ingredients, or ritonavir. Telzir must not be used in patients who are taking lurasidone (for schizophrenia and bipolar disorder), paritaprevir (for hepatitis C), simvastatin or lovastatin (for lowering blood cholesterol), rifampicin (for tuberculosis), St John's wort (a herbal preparation for depression and anxiety), or certain medicines that are broken down in the same way as Telzir or ritonavir as Telzir may affect their blood levels. As Telzir is converted into amprenavir in the body, it must not be given at the same time as other medicines containing amprenavir.
-
-## Why is Telzir authorised in the EU?
-
-The European Medicines Agency concluded that Telzir, which contains a prodrug of amprenavir, is as effective as comparator medicines in reducing viral load. Although the Agency noted that the use of ritonavir-boosted Telzir had not been studied sufficiently in heavily pretreated patients and that studies carried out in children did not compare Telzir with a comparator medicine, it decided that Telzir's benefits are greater than its risks and it can be authorised for use in the EU.
-
-## What measures are being taken to ensure the safe and effective use of Telzir?
-
-Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Telzir have been included in the summary of product characteristics and the package leaflet.
-
-As for all medicines, data on the use of Telzir are continuously monitored. Side effects reported with Telzir are carefully evaluated and any necessary action taken to protect patients.
-
-## Other information about Telzir
-
-Telzir received a marketing authorisation valid throughout the EU on 12 July 2004.
+Telzir was granted marketing authorisation in the EU on 12 July 2004 for the treatment of HIV-1 infection. The marketing authorisation was initially valid for a 5-year period. It was then granted unlimited validity in 2009.
 
 Telzir : EPAR - Medicine overview
 
-English (EN) (117.37 KB - PDF)
+English (EN) (120.64 KB - PDF)
 
 **First published:** 15/05/2009
 
-**Last updated:** 20/08/2019
+**Last updated:** 05/01/2026
 
 [View](/en/documents/overview/telzir-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-525)
+[Other languages (22)](#file-language-dropdown-188)
 
-български (BG) (138.92 KB - PDF)
+български (BG) (148.53 KB - PDF)
 
 **First published:**
 
@@ -126,11 +70,11 @@ English (EN) (117.37 KB - PDF)
 
 **Last updated:**
 
-20/08/2019
+05/01/2026
 
 [View](/bg/documents/overview/telzir-epar-medicine-overview_bg.pdf)
 
-español (ES) (115.66 KB - PDF)
+español (ES) (121.46 KB - PDF)
 
 **First published:**
 
@@ -138,11 +82,11 @@ español (ES) (115.66 KB - PDF)
 
 **Last updated:**
 
-20/08/2019
+05/01/2026
 
 [View](/es/documents/overview/telzir-epar-medicine-overview_es.pdf)
 
-čeština (CS) (138.55 KB - PDF)
+čeština (CS) (144.76 KB - PDF)
 
 **First published:**
 
@@ -150,11 +94,11 @@ español (ES) (115.66 KB - PDF)
 
 **Last updated:**
 
-20/08/2019
+05/01/2026
 
 [View](/cs/documents/overview/telzir-epar-medicine-overview_cs.pdf)
 
-dansk (DA) (114.18 KB - PDF)
+dansk (DA) (120.5 KB - PDF)
 
 **First published:**
 
@@ -162,11 +106,11 @@ dansk (DA) (114.18 KB - PDF)
 
 **Last updated:**
 
-20/08/2019
+05/01/2026
 
 [View](/da/documents/overview/telzir-epar-medicine-overview_da.pdf)
 
-Deutsch (DE) (120.31 KB - PDF)
+Deutsch (DE) (124.34 KB - PDF)
 
 **First published:**
 
@@ -174,11 +118,11 @@ Deutsch (DE) (120.31 KB - PDF)
 
 **Last updated:**
 
-20/08/2019
+05/01/2026
 
 [View](/de/documents/overview/telzir-epar-medicine-overview_de.pdf)
 
-eesti keel (ET) (113.04 KB - PDF)
+eesti keel (ET) (117 KB - PDF)
 
 **First published:**
 
@@ -186,11 +130,11 @@ eesti keel (ET) (113.04 KB - PDF)
 
 **Last updated:**
 
-20/08/2019
+05/01/2026
 
 [View](/et/documents/overview/telzir-epar-medicine-overview_et.pdf)
 
-ελληνικά (EL) (149.3 KB - PDF)
+ελληνικά (EL) (158.28 KB - PDF)
 
 **First published:**
 
@@ -198,11 +142,11 @@ eesti keel (ET) (113.04 KB - PDF)
 
 **Last updated:**
 
-20/08/2019
+05/01/2026
 
 [View](/el/documents/overview/telzir-epar-medicine-overview_el.pdf)
 
-français (FR) (118.45 KB - PDF)
+français (FR) (122.63 KB - PDF)
 
 **First published:**
 
@@ -210,11 +154,11 @@ français (FR) (118.45 KB - PDF)
 
 **Last updated:**
 
-20/08/2019
+05/01/2026
 
 [View](/fr/documents/overview/telzir-epar-medicine-overview_fr.pdf)
 
-hrvatski (HR) (138.1 KB - PDF)
+hrvatski (HR) (144.11 KB - PDF)
 
 **First published:**
 
@@ -222,11 +166,11 @@ hrvatski (HR) (138.1 KB - PDF)
 
 **Last updated:**
 
-20/08/2019
+05/01/2026
 
 [View](/hr/documents/overview/telzir-epar-medicine-overview_hr.pdf)
 
-italiano (IT) (115.62 KB - PDF)
+italiano (IT) (119.78 KB - PDF)
 
 **First published:**
 
@@ -234,11 +178,11 @@ italiano (IT) (115.62 KB - PDF)
 
 **Last updated:**
 
-20/08/2019
+05/01/2026
 
 [View](/it/documents/overview/telzir-epar-medicine-overview_it.pdf)
 
-latviešu valoda (LV) (148.57 KB - PDF)
+latviešu valoda (LV) (156.17 KB - PDF)
 
 **First published:**
 
@@ -246,11 +190,11 @@ latviešu valoda (LV) (148.57 KB - PDF)
 
 **Last updated:**
 
-20/08/2019
+05/01/2026
 
 [View](/lv/documents/overview/telzir-epar-medicine-overview_lv.pdf)
 
-lietuvių kalba (LT) (135.59 KB - PDF)
+lietuvių kalba (LT) (141.78 KB - PDF)
 
 **First published:**
 
@@ -258,11 +202,11 @@ lietuvių kalba (LT) (135.59 KB - PDF)
 
 **Last updated:**
 
-20/08/2019
+05/01/2026
 
 [View](/lt/documents/overview/telzir-epar-medicine-overview_lt.pdf)
 
-magyar (HU) (136.74 KB - PDF)
+magyar (HU) (143.38 KB - PDF)
 
 **First published:**
 
@@ -270,11 +214,11 @@ magyar (HU) (136.74 KB - PDF)
 
 **Last updated:**
 
-20/08/2019
+05/01/2026
 
 [View](/hu/documents/overview/telzir-epar-medicine-overview_hu.pdf)
 
-Malti (MT) (139.97 KB - PDF)
+Malti (MT) (145.72 KB - PDF)
 
 **First published:**
 
@@ -282,11 +226,11 @@ Malti (MT) (139.97 KB - PDF)
 
 **Last updated:**
 
-20/08/2019
+05/01/2026
 
 [View](/mt/documents/overview/telzir-epar-medicine-overview_mt.pdf)
 
-Nederlands (NL) (116.32 KB - PDF)
+Nederlands (NL) (120.19 KB - PDF)
 
 **First published:**
 
@@ -294,11 +238,11 @@ Nederlands (NL) (116.32 KB - PDF)
 
 **Last updated:**
 
-20/08/2019
+05/01/2026
 
 [View](/nl/documents/overview/telzir-epar-medicine-overview_nl.pdf)
 
-polski (PL) (140.87 KB - PDF)
+polski (PL) (145.66 KB - PDF)
 
 **First published:**
 
@@ -306,11 +250,11 @@ polski (PL) (140.87 KB - PDF)
 
 **Last updated:**
 
-20/08/2019
+05/01/2026
 
 [View](/pl/documents/overview/telzir-epar-medicine-overview_pl.pdf)
 
-português (PT) (187.59 KB - PDF)
+português (PT) (192.62 KB - PDF)
 
 **First published:**
 
@@ -318,11 +262,11 @@ português (PT) (187.59 KB - PDF)
 
 **Last updated:**
 
-20/08/2019
+05/01/2026
 
 [View](/pt/documents/overview/telzir-epar-medicine-overview_pt.pdf)
 
-română (RO) (136.37 KB - PDF)
+română (RO) (142.58 KB - PDF)
 
 **First published:**
 
@@ -330,11 +274,11 @@ română (RO) (136.37 KB - PDF)
 
 **Last updated:**
 
-20/08/2019
+05/01/2026
 
 [View](/ro/documents/overview/telzir-epar-medicine-overview_ro.pdf)
 
-slovenčina (SK) (138.14 KB - PDF)
+slovenčina (SK) (144.6 KB - PDF)
 
 **First published:**
 
@@ -342,11 +286,11 @@ slovenčina (SK) (138.14 KB - PDF)
 
 **Last updated:**
 
-20/08/2019
+05/01/2026
 
 [View](/sk/documents/overview/telzir-epar-medicine-overview_sk.pdf)
 
-slovenščina (SL) (135.06 KB - PDF)
+slovenščina (SL) (140.99 KB - PDF)
 
 **First published:**
 
@@ -354,11 +298,11 @@ slovenščina (SL) (135.06 KB - PDF)
 
 **Last updated:**
 
-20/08/2019
+05/01/2026
 
 [View](/sl/documents/overview/telzir-epar-medicine-overview_sl.pdf)
 
-Suomi (FI) (114.73 KB - PDF)
+Suomi (FI) (118.92 KB - PDF)
 
 **First published:**
 
@@ -366,11 +310,11 @@ Suomi (FI) (114.73 KB - PDF)
 
 **Last updated:**
 
-20/08/2019
+05/01/2026
 
 [View](/fi/documents/overview/telzir-epar-medicine-overview_fi.pdf)
 
-svenska (SV) (113.96 KB - PDF)
+svenska (SV) (119.94 KB - PDF)
 
 **First published:**
 
@@ -378,7 +322,7 @@ svenska (SV) (113.96 KB - PDF)
 
 **Last updated:**
 
-20/08/2019
+05/01/2026
 
 [View](/sv/documents/overview/telzir-epar-medicine-overview_sv.pdf)
 
@@ -386,17 +330,17 @@ svenska (SV) (113.96 KB - PDF)
 
 Telzir : EPAR - Product Information
 
-English (EN) (843.1 KB - PDF)
+English (EN) (852.95 KB - PDF)
 
 **First published:** 16/12/2009
 
-**Last updated:** 23/08/2022
+**Last updated:** 05/01/2026
 
 [View](/en/documents/product-information/telzir-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-843)
+[Other languages (24)](#file-language-dropdown-788)
 
-български (BG) (1.03 MB - PDF)
+български (BG) (1.04 MB - PDF)
 
 **First published:**
 
@@ -404,11 +348,11 @@ English (EN) (843.1 KB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/bg/documents/product-information/telzir-epar-product-information_bg.pdf)
 
-español (ES) (873.84 KB - PDF)
+español (ES) (880.16 KB - PDF)
 
 **First published:**
 
@@ -416,11 +360,11 @@ español (ES) (873.84 KB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/es/documents/product-information/telzir-epar-product-information_es.pdf)
 
-čeština (CS) (904.42 KB - PDF)
+čeština (CS) (906.46 KB - PDF)
 
 **First published:**
 
@@ -428,11 +372,11 @@ español (ES) (873.84 KB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/cs/documents/product-information/telzir-epar-product-information_cs.pdf)
 
-dansk (DA) (818.97 KB - PDF)
+dansk (DA) (827.84 KB - PDF)
 
 **First published:**
 
@@ -440,11 +384,11 @@ dansk (DA) (818.97 KB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/da/documents/product-information/telzir-epar-product-information_da.pdf)
 
-Deutsch (DE) (841.96 KB - PDF)
+Deutsch (DE) (850.06 KB - PDF)
 
 **First published:**
 
@@ -452,11 +396,11 @@ Deutsch (DE) (841.96 KB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/de/documents/product-information/telzir-epar-product-information_de.pdf)
 
-eesti keel (ET) (785.88 KB - PDF)
+eesti keel (ET) (795.87 KB - PDF)
 
 **First published:**
 
@@ -464,11 +408,11 @@ eesti keel (ET) (785.88 KB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/et/documents/product-information/telzir-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.13 MB - PDF)
+ελληνικά (EL) (1.15 MB - PDF)
 
 **First published:**
 
@@ -476,11 +420,11 @@ eesti keel (ET) (785.88 KB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/el/documents/product-information/telzir-epar-product-information_el.pdf)
 
-français (FR) (912.1 KB - PDF)
+français (FR) (917.62 KB - PDF)
 
 **First published:**
 
@@ -488,11 +432,11 @@ français (FR) (912.1 KB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/fr/documents/product-information/telzir-epar-product-information_fr.pdf)
 
-hrvatski (HR) (915.39 KB - PDF)
+hrvatski (HR) (919.11 KB - PDF)
 
 **First published:**
 
@@ -500,11 +444,11 @@ hrvatski (HR) (915.39 KB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/hr/documents/product-information/telzir-epar-product-information_hr.pdf)
 
-íslenska (IS) (969.81 KB - PDF)
+íslenska (IS) (977.64 KB - PDF)
 
 **First published:**
 
@@ -512,11 +456,11 @@ hrvatski (HR) (915.39 KB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/is/documents/product-information/telzir-epar-product-information_is.pdf)
 
-italiano (IT) (883.18 KB - PDF)
+italiano (IT) (890.42 KB - PDF)
 
 **First published:**
 
@@ -524,7 +468,7 @@ italiano (IT) (883.18 KB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/it/documents/product-information/telzir-epar-product-information_it.pdf)
 
@@ -536,11 +480,11 @@ latviešu valoda (LV) (1.02 MB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/lv/documents/product-information/telzir-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (888.83 KB - PDF)
+lietuvių kalba (LT) (898.93 KB - PDF)
 
 **First published:**
 
@@ -548,11 +492,11 @@ lietuvių kalba (LT) (888.83 KB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/lt/documents/product-information/telzir-epar-product-information_lt.pdf)
 
-magyar (HU) (992.36 KB - PDF)
+magyar (HU) (991.79 KB - PDF)
 
 **First published:**
 
@@ -560,11 +504,11 @@ magyar (HU) (992.36 KB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/hu/documents/product-information/telzir-epar-product-information_hu.pdf)
 
-Malti (MT) (1.24 MB - PDF)
+Malti (MT) (1.23 MB - PDF)
 
 **First published:**
 
@@ -572,11 +516,11 @@ Malti (MT) (1.24 MB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/mt/documents/product-information/telzir-epar-product-information_mt.pdf)
 
-Nederlands (NL) (916.23 KB - PDF)
+Nederlands (NL) (926.56 KB - PDF)
 
 **First published:**
 
@@ -584,11 +528,11 @@ Nederlands (NL) (916.23 KB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/nl/documents/product-information/telzir-epar-product-information_nl.pdf)
 
-norsk (NO) (823.32 KB - PDF)
+norsk (NO) (836.06 KB - PDF)
 
 **First published:**
 
@@ -596,7 +540,7 @@ norsk (NO) (823.32 KB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/no/documents/product-information/telzir-epar-product-information_no.pdf)
 
@@ -608,11 +552,11 @@ polski (PL) (1.14 MB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/pl/documents/product-information/telzir-epar-product-information_pl.pdf)
 
-português (PT) (850.03 KB - PDF)
+português (PT) (856 KB - PDF)
 
 **First published:**
 
@@ -620,11 +564,11 @@ português (PT) (850.03 KB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/pt/documents/product-information/telzir-epar-product-information_pt.pdf)
 
-română (RO) (1.03 MB - PDF)
+română (RO) (1.02 MB - PDF)
 
 **First published:**
 
@@ -632,11 +576,11 @@ română (RO) (1.03 MB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/ro/documents/product-information/telzir-epar-product-information_ro.pdf)
 
-slovenčina (SK) (976.58 KB - PDF)
+slovenčina (SK) (975.93 KB - PDF)
 
 **First published:**
 
@@ -644,11 +588,11 @@ slovenčina (SK) (976.58 KB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/sk/documents/product-information/telzir-epar-product-information_sk.pdf)
 
-slovenščina (SL) (945.33 KB - PDF)
+slovenščina (SL) (950.43 KB - PDF)
 
 **First published:**
 
@@ -656,11 +600,11 @@ slovenščina (SL) (945.33 KB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/sl/documents/product-information/telzir-epar-product-information_sl.pdf)
 
-Suomi (FI) (838.59 KB - PDF)
+Suomi (FI) (843.77 KB - PDF)
 
 **First published:**
 
@@ -668,11 +612,11 @@ Suomi (FI) (838.59 KB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/fi/documents/product-information/telzir-epar-product-information_fi.pdf)
 
-svenska (SV) (808.22 KB - PDF)
+svenska (SV) (821.55 KB - PDF)
 
 **First published:**
 
@@ -680,7 +624,7 @@ svenska (SV) (808.22 KB - PDF)
 
 **Last updated:**
 
-23/08/2022
+05/01/2026
 
 [View](/sv/documents/product-information/telzir-epar-product-information_sv.pdf)
 
@@ -702,17 +646,17 @@ Product information documents contain:
 
 Telzir : EPAR - All Authorised presentations
 
-English (EN) (11.73 KB - PDF)
+English (EN) (27.16 KB - PDF)
 
 **First published:** 08/11/2007
 
-**Last updated:** 08/11/2007
+**Last updated:** 05/01/2026
 
 [View](/en/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-896)
+[Other languages (24)](#file-language-dropdown-265)
 
-български (BG) (78.96 KB - PDF)
+български (BG) (97.23 KB - PDF)
 
 **First published:**
 
@@ -720,11 +664,11 @@ English (EN) (11.73 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/bg/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (12.33 KB - PDF)
+español (ES) (27.83 KB - PDF)
 
 **First published:**
 
@@ -732,11 +676,11 @@ español (ES) (12.33 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/es/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (79.82 KB - PDF)
+čeština (CS) (95.69 KB - PDF)
 
 **First published:**
 
@@ -744,11 +688,11 @@ español (ES) (12.33 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/cs/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (12.25 KB - PDF)
+dansk (DA) (28.11 KB - PDF)
 
 **First published:**
 
@@ -756,11 +700,11 @@ dansk (DA) (12.25 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/da/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (12.04 KB - PDF)
+Deutsch (DE) (27.58 KB - PDF)
 
 **First published:**
 
@@ -768,11 +712,11 @@ Deutsch (DE) (12.04 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/de/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (12.31 KB - PDF)
+eesti keel (ET) (28 KB - PDF)
 
 **First published:**
 
@@ -780,11 +724,11 @@ eesti keel (ET) (12.31 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/et/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (74.24 KB - PDF)
+ελληνικά (EL) (93.61 KB - PDF)
 
 **First published:**
 
@@ -792,11 +736,11 @@ eesti keel (ET) (12.31 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/el/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (12.21 KB - PDF)
+français (FR) (27.69 KB - PDF)
 
 **First published:**
 
@@ -804,11 +748,11 @@ français (FR) (12.21 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/fr/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (54.16 KB - PDF)
+hrvatski (HR) (65.78 KB - PDF)
 
 **First published:**
 
@@ -816,11 +760,11 @@ hrvatski (HR) (54.16 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/hr/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (57.33 KB - PDF)
+íslenska (IS) (64.29 KB - PDF)
 
 **First published:**
 
@@ -828,11 +772,11 @@ hrvatski (HR) (54.16 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/is/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (11.78 KB - PDF)
+italiano (IT) (27.24 KB - PDF)
 
 **First published:**
 
@@ -840,11 +784,11 @@ italiano (IT) (11.78 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/it/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (80.06 KB - PDF)
+latviešu valoda (LV) (95.88 KB - PDF)
 
 **First published:**
 
@@ -852,11 +796,11 @@ latviešu valoda (LV) (80.06 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/lv/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (78.67 KB - PDF)
+lietuvių kalba (LT) (94.2 KB - PDF)
 
 **First published:**
 
@@ -864,11 +808,11 @@ lietuvių kalba (LT) (78.67 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/lt/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (51.26 KB - PDF)
+magyar (HU) (67.1 KB - PDF)
 
 **First published:**
 
@@ -876,11 +820,11 @@ magyar (HU) (51.26 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/hu/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (54.73 KB - PDF)
+Malti (MT) (649.23 KB - PDF)
 
 **First published:**
 
@@ -888,11 +832,11 @@ Malti (MT) (54.73 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/mt/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (11.73 KB - PDF)
+Nederlands (NL) (588.43 KB - PDF)
 
 **First published:**
 
@@ -900,11 +844,11 @@ Nederlands (NL) (11.73 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/nl/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (44.31 KB - PDF)
+norsk (NO) (621.68 KB - PDF)
 
 **First published:**
 
@@ -912,11 +856,11 @@ norsk (NO) (44.31 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/no/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_no.pdf)
 
-polski (PL) (81.25 KB - PDF)
+polski (PL) (673.81 KB - PDF)
 
 **First published:**
 
@@ -924,11 +868,11 @@ polski (PL) (81.25 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/pl/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (12.38 KB - PDF)
+português (PT) (589.24 KB - PDF)
 
 **First published:**
 
@@ -936,11 +880,11 @@ português (PT) (12.38 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/pt/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (75.21 KB - PDF)
+română (RO) (652.3 KB - PDF)
 
 **First published:**
 
@@ -948,11 +892,11 @@ română (RO) (75.21 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/ro/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (77.46 KB - PDF)
+slovenčina (SK) (670.33 KB - PDF)
 
 **First published:**
 
@@ -960,11 +904,11 @@ slovenčina (SK) (77.46 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/sk/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (76.7 KB - PDF)
+slovenščina (SL) (669.14 KB - PDF)
 
 **First published:**
 
@@ -972,11 +916,11 @@ slovenščina (SL) (76.7 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/sl/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (12.21 KB - PDF)
+Suomi (FI) (588.97 KB - PDF)
 
 **First published:**
 
@@ -984,11 +928,11 @@ Suomi (FI) (12.21 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/fi/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (12.21 KB - PDF)
+svenska (SV) (588.99 KB - PDF)
 
 **First published:**
 
@@ -996,7 +940,7 @@ svenska (SV) (12.21 KB - PDF)
 
 **Last updated:**
 
-08/11/2007
+05/01/2026
 
 [View](/sv/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_sv.pdf)
 
@@ -1026,7 +970,7 @@ ViiV Healthcare BV
 
 Van Asch van Wijckstraat 55H
 
-Marketing authorisation issued 12/07/2004 Revision 48
+Marketing authorisation issued 12/07/2004 Withdrawal of marketing authorisation 21/11/2025 Revision 48
 
 ## Assessment history
 
@@ -1038,13 +982,13 @@ Collapse section
 
 Telzir : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (4.06 MB - PDF)
+English (EN) (1.21 MB - PDF)
 
 **First published:** 16/12/2009
 
-**Last updated:** 23/08/2022
+**Last updated:** 05/01/2026
 
-[View](/en/documents/procedural-steps-after/telzir-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/telzir-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 CHMP post-authorisation summary of positive opinion for Telzir
 
@@ -1052,11 +996,11 @@ Adopted
 
 Reference Number: EMA/156121/2016
 
-English (EN) (125.56 KB - PDF)
+English (EN) (710.69 KB - PDF)
 
 **First published:** 26/02/2016
 
-**Last updated:** 26/02/2016
+**Last updated:** 05/01/2026
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-telzir_en.pdf)
 
@@ -1066,11 +1010,11 @@ Adopted
 
 Reference Number: EMA/642265/2014
 
-English (EN) (781.24 KB - PDF)
+English (EN) (1.37 MB - PDF)
 
 **First published:** 23/10/2014
 
-**Last updated:** 23/10/2014
+**Last updated:** 05/01/2026
 
 [View](/en/documents/variation-report/telzir-h-c-534-p46-0075-epar-assessment-report_en.pdf)
 
@@ -1080,11 +1024,11 @@ Adopted
 
 Reference Number: EMA/339053/2014
 
-English (EN) (970.76 KB - PDF)
+English (EN) (1.59 MB - PDF)
 
 **First published:** 10/06/2014
 
-**Last updated:** 10/06/2014
+**Last updated:** 05/01/2026
 
 [View](/en/documents/variation-report/telzir-h-c-534-ii-0074-epar-assessment-report-variation_en.pdf)
 
@@ -1094,11 +1038,11 @@ Adopted
 
 Reference Number: EMA/131182/2013
 
-English (EN) (420.88 KB - PDF)
+English (EN) (1.07 MB - PDF)
 
 **First published:** 09/04/2013
 
-**Last updated:** 09/04/2013
+**Last updated:** 05/01/2026
 
 [View](/en/documents/variation-report/telzir-h-c-534-p46-0060-epar-assessment-report_en.pdf)
 
@@ -1106,11 +1050,11 @@ Telzir-H-C-534-II-0058 : EPAR - Assessment Report - Variation
 
 Adopted
 
-English (EN) (122.02 KB - PDF)
+English (EN) (731.43 KB - PDF)
 
 **First published:** 29/06/2011
 
-**Last updated:** 29/06/2011
+**Last updated:** 05/01/2026
 
 [View](/en/documents/variation-report/telzir-h-c-534-ii-0058-epar-assessment-report-variation_en.pdf)
 
@@ -1118,11 +1062,11 @@ Telzir-H-C-534-II-0041 : EPAR - Assessment Report - Variation
 
 Reference Number: EMEA/CHMP/182021/2009
 
-English (EN) (324.82 KB - PDF)
+English (EN) (1011.13 KB - PDF)
 
 **First published:** 07/04/2009
 
-**Last updated:** 07/04/2009
+**Last updated:** 05/01/2026
 
 [View](/en/documents/variation-report/telzir-h-c-534-ii-0041-epar-assessment-report-variation_en.pdf)
 
@@ -1132,11 +1076,11 @@ Adopted
 
 Reference Number: EMEA/109046/2009
 
-English (EN) (29.88 KB - PDF)
+English (EN) (609.33 KB - PDF)
 
 **First published:** 19/02/2009
 
-**Last updated:** 19/02/2009
+**Last updated:** 05/01/2026
 
 [View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-telzir-19-february-2009_en.pdf)
 
@@ -1144,11 +1088,11 @@ Telzir-H-C-534-II-0018 : EPAR - Scientific Discussion - Variation
 
 Adopted
 
-English (EN) (176.33 KB - PDF)
+English (EN) (201.39 KB - PDF)
 
 **First published:** 27/09/2007
 
-**Last updated:** 27/09/2007
+**Last updated:** 05/01/2026
 
 [View](/en/documents/scientific-discussion-variation/telzir-h-c-534-ii-0018-epar-scientific-discussion-variation_en.pdf)
 
@@ -1156,21 +1100,21 @@ English (EN) (176.33 KB - PDF)
 
 Telzir : EPAR - Scientific Discussion
 
-English (EN) (389.84 KB - PDF)
+English (EN) (1.18 MB - PDF)
 
 **First published:** 06/12/2005
 
-**Last updated:** 06/12/2005
+**Last updated:** 05/01/2026
 
 [View](/en/documents/scientific-discussion/telzir-epar-scientific-discussion_en.pdf)
 
 Telzir : EPAR - Procedural steps taken before authorisation
 
-English (EN) (90.12 KB - PDF)
+English (EN) (669.83 KB - PDF)
 
 **First published:** 06/12/2005
 
-**Last updated:** 06/12/2005
+**Last updated:** 05/01/2026
 
 [View](/en/documents/procedural-steps/telzir-epar-procedural-steps-taken-authorisation_en.pdf)
 
@@ -1186,7 +1130,7 @@ English (EN) (90.12 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 23/08/2022
+**This page was last updated on** 05/01/2026
 
 ## Share this page
 

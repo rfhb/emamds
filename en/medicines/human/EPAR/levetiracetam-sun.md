@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 14:35:01
+document_datetime: 2026-01-05 17:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/levetiracetam-sun.html
 document_name: levetiracetam-sun.html
 version: success
-processing_time: 0.1260877
-conversion_datetime: 2025-12-29 23:20:02.977901
+processing_time: 0.1346929
+conversion_datetime: 2026-01-06 07:20:21.494397
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -116,7 +116,7 @@ English (EN) (140.02 KB - PDF)
 
 [View](/en/documents/overview/levetiracetam-sun-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-315)
+[Other languages (22)](#file-language-dropdown-349)
 
 български (BG) (174.07 KB - PDF)
 
@@ -386,17 +386,17 @@ svenska (SV) (146.67 KB - PDF)
 
 Levetiracetam Sun : EPAR - Product information
 
-English (EN) (281.61 KB - PDF)
+English (EN) (350.93 KB - PDF)
 
 **First published:** 17/01/2012
 
-**Last updated:** 02/05/2025
+**Last updated:** 05/01/2026
 
 [View](/en/documents/product-information/levetiracetam-sun-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-111)
+[Other languages (24)](#file-language-dropdown-832)
 
-български (BG) (405.16 KB - PDF)
+български (BG) (546.35 KB - PDF)
 
 **First published:**
 
@@ -404,11 +404,11 @@ English (EN) (281.61 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/bg/documents/product-information/levetiracetam-sun-epar-product-information_bg.pdf)
 
-español (ES) (296.41 KB - PDF)
+español (ES) (494.4 KB - PDF)
 
 **First published:**
 
@@ -416,11 +416,11 @@ español (ES) (296.41 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/es/documents/product-information/levetiracetam-sun-epar-product-information_es.pdf)
 
-čeština (CS) (370.44 KB - PDF)
+čeština (CS) (517.89 KB - PDF)
 
 **First published:**
 
@@ -428,11 +428,11 @@ español (ES) (296.41 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/cs/documents/product-information/levetiracetam-sun-epar-product-information_cs.pdf)
 
-dansk (DA) (305.3 KB - PDF)
+dansk (DA) (493.4 KB - PDF)
 
 **First published:**
 
@@ -440,11 +440,11 @@ dansk (DA) (305.3 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/da/documents/product-information/levetiracetam-sun-epar-product-information_da.pdf)
 
-Deutsch (DE) (344.33 KB - PDF)
+Deutsch (DE) (528.32 KB - PDF)
 
 **First published:**
 
@@ -452,11 +452,11 @@ Deutsch (DE) (344.33 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/de/documents/product-information/levetiracetam-sun-epar-product-information_de.pdf)
 
-eesti keel (ET) (296.71 KB - PDF)
+eesti keel (ET) (480.6 KB - PDF)
 
 **First published:**
 
@@ -464,11 +464,11 @@ eesti keel (ET) (296.71 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/et/documents/product-information/levetiracetam-sun-epar-product-information_et.pdf)
 
-ελληνικά (EL) (475.82 KB - PDF)
+ελληνικά (EL) (606.26 KB - PDF)
 
 **First published:**
 
@@ -476,11 +476,11 @@ eesti keel (ET) (296.71 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/el/documents/product-information/levetiracetam-sun-epar-product-information_el.pdf)
 
-français (FR) (317.53 KB - PDF)
+français (FR) (506.9 KB - PDF)
 
 **First published:**
 
@@ -488,11 +488,11 @@ français (FR) (317.53 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/fr/documents/product-information/levetiracetam-sun-epar-product-information_fr.pdf)
 
-hrvatski (HR) (390.51 KB - PDF)
+hrvatski (HR) (548.85 KB - PDF)
 
 **First published:**
 
@@ -500,11 +500,11 @@ hrvatski (HR) (390.51 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/hr/documents/product-information/levetiracetam-sun-epar-product-information_hr.pdf)
 
-íslenska (IS) (352.11 KB - PDF)
+íslenska (IS) (534.23 KB - PDF)
 
 **First published:**
 
@@ -512,11 +512,11 @@ hrvatski (HR) (390.51 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/is/documents/product-information/levetiracetam-sun-epar-product-information_is.pdf)
 
-italiano (IT) (355.52 KB - PDF)
+italiano (IT) (538.83 KB - PDF)
 
 **First published:**
 
@@ -524,11 +524,11 @@ italiano (IT) (355.52 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/it/documents/product-information/levetiracetam-sun-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (355.78 KB - PDF)
+latviešu valoda (LV) (495.84 KB - PDF)
 
 **First published:**
 
@@ -536,11 +536,11 @@ latviešu valoda (LV) (355.78 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/lv/documents/product-information/levetiracetam-sun-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (374.63 KB - PDF)
+lietuvių kalba (LT) (401.18 KB - PDF)
 
 **First published:**
 
@@ -548,11 +548,11 @@ lietuvių kalba (LT) (374.63 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/lt/documents/product-information/levetiracetam-sun-epar-product-information_lt.pdf)
 
-magyar (HU) (393.93 KB - PDF)
+magyar (HU) (561.2 KB - PDF)
 
 **First published:**
 
@@ -560,11 +560,11 @@ magyar (HU) (393.93 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/hu/documents/product-information/levetiracetam-sun-epar-product-information_hu.pdf)
 
-Malti (MT) (444.38 KB - PDF)
+Malti (MT) (668.25 KB - PDF)
 
 **First published:**
 
@@ -572,11 +572,11 @@ Malti (MT) (444.38 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/mt/documents/product-information/levetiracetam-sun-epar-product-information_mt.pdf)
 
-Nederlands (NL) (291.96 KB - PDF)
+Nederlands (NL) (529.4 KB - PDF)
 
 **First published:**
 
@@ -584,11 +584,11 @@ Nederlands (NL) (291.96 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/nl/documents/product-information/levetiracetam-sun-epar-product-information_nl.pdf)
 
-norsk (NO) (308.11 KB - PDF)
+norsk (NO) (502.61 KB - PDF)
 
 **First published:**
 
@@ -596,11 +596,11 @@ norsk (NO) (308.11 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/no/documents/product-information/levetiracetam-sun-epar-product-information_no.pdf)
 
-polski (PL) (542.91 KB - PDF)
+polski (PL) (639.47 KB - PDF)
 
 **First published:**
 
@@ -608,11 +608,11 @@ polski (PL) (542.91 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/pl/documents/product-information/levetiracetam-sun-epar-product-information_pl.pdf)
 
-português (PT) (299.4 KB - PDF)
+português (PT) (479.07 KB - PDF)
 
 **First published:**
 
@@ -620,11 +620,11 @@ português (PT) (299.4 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/pt/documents/product-information/levetiracetam-sun-epar-product-information_pt.pdf)
 
-română (RO) (396.51 KB - PDF)
+română (RO) (545.05 KB - PDF)
 
 **First published:**
 
@@ -632,11 +632,11 @@ română (RO) (396.51 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/ro/documents/product-information/levetiracetam-sun-epar-product-information_ro.pdf)
 
-slovenčina (SK) (425.76 KB - PDF)
+slovenčina (SK) (595.7 KB - PDF)
 
 **First published:**
 
@@ -644,11 +644,11 @@ slovenčina (SK) (425.76 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/sk/documents/product-information/levetiracetam-sun-epar-product-information_sk.pdf)
 
-slovenščina (SL) (342.08 KB - PDF)
+slovenščina (SL) (557.73 KB - PDF)
 
 **First published:**
 
@@ -656,11 +656,11 @@ slovenščina (SL) (342.08 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/sl/documents/product-information/levetiracetam-sun-epar-product-information_sl.pdf)
 
-Suomi (FI) (302.72 KB - PDF)
+Suomi (FI) (483.06 KB - PDF)
 
 **First published:**
 
@@ -668,11 +668,11 @@ Suomi (FI) (302.72 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/fi/documents/product-information/levetiracetam-sun-epar-product-information_fi.pdf)
 
-svenska (SV) (296.36 KB - PDF)
+svenska (SV) (516.37 KB - PDF)
 
 **First published:**
 
@@ -680,11 +680,11 @@ svenska (SV) (296.36 KB - PDF)
 
 **Last updated:**
 
-02/05/2025
+05/01/2026
 
 [View](/sv/documents/product-information/levetiracetam-sun-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000265264 02/05/2025
+**Latest procedure affecting product information:** VR/0000317912 22/12/2025
 
 icon globe
 
@@ -710,7 +710,7 @@ English (EN) (20.48 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/levetiracetam-sun-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-701)
+[Other languages (23)](#file-language-dropdown-649)
 
 български (BG) (46.91 KB - PDF)
 
@@ -1022,7 +1022,7 @@ Sun Pharmaceutical Industries Europe B.V.
 
 Polarisavenue 87
 
-Opinion adopted 20/10/2011 Marketing authorisation issued 14/12/2011 Revision 21
+Opinion adopted 20/10/2011 Marketing authorisation issued 14/12/2011 Revision 22
 
 ## Assessment history
 
@@ -1034,11 +1034,11 @@ Collapse section
 
 Levetiracetam Sun : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (149.73 KB - PDF)
+English (EN) (144.74 KB - PDF)
 
 **First published:** 06/01/2025
 
-**Last updated:** 02/05/2025
+**Last updated:** 05/01/2026
 
 [View](/en/documents/procedural-steps-after/levetiracetam-sun-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1096,7 +1096,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-573)
+[Other languages (22)](#file-language-dropdown-944)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1367,7 +1367,7 @@ svenska (SV) (67.11 KB - PDF)
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 02/05/2025
+**This page was last updated on** 05/01/2026
 
 ## Share this page
 

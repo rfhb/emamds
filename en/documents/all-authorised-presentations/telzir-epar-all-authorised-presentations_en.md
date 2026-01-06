@@ -1,11 +1,11 @@
 ---
-document_datetime: 2023-09-21 19:16:35
+document_datetime: 2026-01-05 15:14:40
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/all-authorised-presentations/telzir-epar-all-authorised-presentations_en.pdf
 document_name: telzir-epar-all-authorised-presentations_en.pdf
 version: success
-processing_time: 0.7691791
-conversion_datetime: 2025-12-26 13:03:09.513687
+processing_time: 14.6097969
+conversion_datetime: 2026-01-06 03:10:23.986799
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -16,7 +16,17 @@ docling_version:
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
-| EU number       | Invented name   | Strength   | Pharmaceutical form   | Route of administration   | Packaging     | Content   | Package size                    |
-|-----------------|-----------------|------------|-----------------------|---------------------------|---------------|-----------|---------------------------------|
-| EU/1/04/282/001 | Telzir          | 700 mg     | Film-coated tablets   | Oral use                  | Bottle (HDPE) |           | 60 tablets                      |
-| EU/1/04/282/002 | Telzir          | 50 mg/ml   | Oral suspension       | Oral use                  | Bottle (HDPE) | 225 ml    | 1 bottle + 10 ml dosing syringe |
+| size                              | tablets             | ml              | ml              | ml              | ml              | ml              | ml              | ml              | ml              | ml              | ml              |
+|-----------------------------------|---------------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|-----------------|
+| Content                           |                     | 225 ml          | 225 ml          | 225 ml          | 225 ml          | 225 ml          | 225 ml          | 225 ml          | 225 ml          | 225 ml          | 225 ml          |
+|                                   | (HDPE)              | (HDPE)          | (HDPE)          | (HDPE)          | (HDPE)          | (HDPE)          | (HDPE)          | (HDPE)          | (HDPE)          | (HDPE)          | (HDPE)          |
+| Route of administration Packaging | Oral use Bottle     | use             | use             | use             | use             | use             | use             | use             | use             | use             | use             |
+| Pharmaceutical form               | Film-coated tablets | Oral            | Oral            | Oral            | Oral            | Oral            | Oral            | Oral            | Oral            | Oral            | Oral            |
+| Strength                          | 700 mg              | 50 mg/ml        | 50 mg/ml        | 50 mg/ml        | 50 mg/ml        | 50 mg/ml        | 50 mg/ml        | 50 mg/ml        | 50 mg/ml        | 50 mg/ml        | 50 mg/ml        |
+| Invented name                     | Telzir              | Telzir          | Telzir          | Telzir          | Telzir          | Telzir          | Telzir          | Telzir          | Telzir          | Telzir          | Telzir          |
+|                                   | EU/1/04/282/001     |                 |                 |                 |                 |                 |                 |                 |                 |                 |                 |
+|                                   |                     | EU/1/04/282/002 | EU/1/04/282/002 | EU/1/04/282/002 | EU/1/04/282/002 | EU/1/04/282/002 | EU/1/04/282/002 | EU/1/04/282/002 | EU/1/04/282/002 | EU/1/04/282/002 | EU/1/04/282/002 |
+| number                            |                     |                 |                 |                 |                 |                 |                 |                 |                 |                 |                 |
+| EU                                |                     |                 |                 |                 |                 |                 |                 |                 |                 |                 |                 |
+
+<!-- image -->

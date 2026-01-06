@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 11:41:15
+document_datetime: 2026-01-05 17:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/alymsys.html
 document_name: alymsys.html
 version: success
-processing_time: 0.1078035
-conversion_datetime: 2025-12-30 01:15:33.839897
+processing_time: 0.1225239
+conversion_datetime: 2026-01-06 07:25:43.548336
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -120,7 +120,7 @@ English (EN) (116.24 KB - PDF)
 
 [View](/en/documents/overview/alymsys-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-327)
+[Other languages (22)](#file-language-dropdown-0)
 
 български (BG) (169.56 KB - PDF)
 
@@ -310,17 +310,17 @@ English (EN) (114.67 KB - PDF)
 
 Alymsys : EPAR - Product information
 
-English (EN) (814.92 KB - PDF)
+English (EN) (848.16 KB - PDF)
 
 **First published:** 26/04/2021
 
-**Last updated:** 18/04/2024
+**Last updated:** 05/01/2026
 
 [View](/en/documents/product-information/alymsys-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-690)
+[Other languages (24)](#file-language-dropdown-736)
 
-български (BG) (925.89 KB - PDF)
+български (BG) (1.1 MB - PDF)
 
 **First published:**
 
@@ -328,11 +328,11 @@ English (EN) (814.92 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/bg/documents/product-information/alymsys-epar-product-information_bg.pdf)
 
-español (ES) (837.97 KB - PDF)
+español (ES) (1.03 MB - PDF)
 
 **First published:**
 
@@ -340,11 +340,11 @@ español (ES) (837.97 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/es/documents/product-information/alymsys-epar-product-information_es.pdf)
 
-čeština (CS) (874.01 KB - PDF)
+čeština (CS) (1.03 MB - PDF)
 
 **First published:**
 
@@ -352,11 +352,11 @@ español (ES) (837.97 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/cs/documents/product-information/alymsys-epar-product-information_cs.pdf)
 
-dansk (DA) (795.65 KB - PDF)
+dansk (DA) (1014.23 KB - PDF)
 
 **First published:**
 
@@ -364,11 +364,11 @@ dansk (DA) (795.65 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/da/documents/product-information/alymsys-epar-product-information_da.pdf)
 
-Deutsch (DE) (847.03 KB - PDF)
+Deutsch (DE) (1.06 MB - PDF)
 
 **First published:**
 
@@ -376,11 +376,11 @@ Deutsch (DE) (847.03 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/de/documents/product-information/alymsys-epar-product-information_de.pdf)
 
-eesti keel (ET) (849.74 KB - PDF)
+eesti keel (ET) (1.01 MB - PDF)
 
 **First published:**
 
@@ -388,11 +388,11 @@ eesti keel (ET) (849.74 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/et/documents/product-information/alymsys-epar-product-information_et.pdf)
 
-ελληνικά (EL) (991.61 KB - PDF)
+ελληνικά (EL) (1.11 MB - PDF)
 
 **First published:**
 
@@ -400,11 +400,11 @@ eesti keel (ET) (849.74 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/el/documents/product-information/alymsys-epar-product-information_el.pdf)
 
-français (FR) (940.36 KB - PDF)
+français (FR) (1.07 MB - PDF)
 
 **First published:**
 
@@ -412,11 +412,11 @@ français (FR) (940.36 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/fr/documents/product-information/alymsys-epar-product-information_fr.pdf)
 
-hrvatski (HR) (858.88 KB - PDF)
+hrvatski (HR) (1.05 MB - PDF)
 
 **First published:**
 
@@ -424,11 +424,11 @@ hrvatski (HR) (858.88 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/hr/documents/product-information/alymsys-epar-product-information_hr.pdf)
 
-íslenska (IS) (842.89 KB - PDF)
+íslenska (IS) (1000.99 KB - PDF)
 
 **First published:**
 
@@ -436,11 +436,11 @@ hrvatski (HR) (858.88 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/is/documents/product-information/alymsys-epar-product-information_is.pdf)
 
-italiano (IT) (877.66 KB - PDF)
+italiano (IT) (1.02 MB - PDF)
 
 **First published:**
 
@@ -448,11 +448,11 @@ italiano (IT) (877.66 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/it/documents/product-information/alymsys-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (880.38 KB - PDF)
+latviešu valoda (LV) (1.05 MB - PDF)
 
 **First published:**
 
@@ -460,11 +460,11 @@ latviešu valoda (LV) (880.38 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/lv/documents/product-information/alymsys-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (902.65 KB - PDF)
+lietuvių kalba (LT) (1.08 MB - PDF)
 
 **First published:**
 
@@ -472,11 +472,11 @@ lietuvių kalba (LT) (902.65 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/lt/documents/product-information/alymsys-epar-product-information_lt.pdf)
 
-magyar (HU) (963.38 KB - PDF)
+magyar (HU) (1.08 MB - PDF)
 
 **First published:**
 
@@ -484,11 +484,11 @@ magyar (HU) (963.38 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/hu/documents/product-information/alymsys-epar-product-information_hu.pdf)
 
-Malti (MT) (1010.24 KB - PDF)
+Malti (MT) (1.16 MB - PDF)
 
 **First published:**
 
@@ -496,11 +496,11 @@ Malti (MT) (1010.24 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/mt/documents/product-information/alymsys-epar-product-information_mt.pdf)
 
-Nederlands (NL) (818.04 KB - PDF)
+Nederlands (NL) (1 MB - PDF)
 
 **First published:**
 
@@ -508,11 +508,11 @@ Nederlands (NL) (818.04 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/nl/documents/product-information/alymsys-epar-product-information_nl.pdf)
 
-norsk (NO) (830.01 KB - PDF)
+norsk (NO) (1012.64 KB - PDF)
 
 **First published:**
 
@@ -520,11 +520,11 @@ norsk (NO) (830.01 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/no/documents/product-information/alymsys-epar-product-information_no.pdf)
 
-polski (PL) (954.88 KB - PDF)
+polski (PL) (1.08 MB - PDF)
 
 **First published:**
 
@@ -532,11 +532,11 @@ polski (PL) (954.88 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/pl/documents/product-information/alymsys-epar-product-information_pl.pdf)
 
-português (PT) (818.72 KB - PDF)
+português (PT) (1020.04 KB - PDF)
 
 **First published:**
 
@@ -544,11 +544,11 @@ português (PT) (818.72 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/pt/documents/product-information/alymsys-epar-product-information_pt.pdf)
 
-română (RO) (939.39 KB - PDF)
+română (RO) (1.07 MB - PDF)
 
 **First published:**
 
@@ -556,11 +556,11 @@ română (RO) (939.39 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/ro/documents/product-information/alymsys-epar-product-information_ro.pdf)
 
-slovenčina (SK) (932.09 KB - PDF)
+slovenčina (SK) (1.07 MB - PDF)
 
 **First published:**
 
@@ -568,11 +568,11 @@ slovenčina (SK) (932.09 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/sk/documents/product-information/alymsys-epar-product-information_sk.pdf)
 
-slovenščina (SL) (894.61 KB - PDF)
+slovenščina (SL) (1.06 MB - PDF)
 
 **First published:**
 
@@ -580,11 +580,11 @@ slovenščina (SL) (894.61 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/sl/documents/product-information/alymsys-epar-product-information_sl.pdf)
 
-Suomi (FI) (804.08 KB - PDF)
+Suomi (FI) (1019.39 KB - PDF)
 
 **First published:**
 
@@ -592,11 +592,11 @@ Suomi (FI) (804.08 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/fi/documents/product-information/alymsys-epar-product-information_fi.pdf)
 
-svenska (SV) (797.83 KB - PDF)
+svenska (SV) (1.01 MB - PDF)
 
 **First published:**
 
@@ -604,11 +604,11 @@ svenska (SV) (797.83 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+05/01/2026
 
 [View](/sv/documents/product-information/alymsys-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IAIN/0034 17/04/2024
+**Latest procedure affecting product information:** PSUR/0000274402 18/12/2025
 
 icon globe
 
@@ -632,7 +632,7 @@ English (EN) (48.64 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/alymsys-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-75)
+[Other languages (24)](#file-language-dropdown-899)
 
 български (BG) (61.61 KB - PDF)
 
@@ -884,7 +884,7 @@ Mabxience Research SL
 
 C/ Manuel Pombo Angulo 28
 
-Opinion adopted 28/01/2021 Marketing authorisation issued 26/03/2021 Revision 8
+Opinion adopted 28/01/2021 Marketing authorisation issued 26/03/2021 Revision 10
 
 ## Assessment history
 
@@ -896,13 +896,31 @@ Collapse section
 
 Alymsys : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (139.02 KB - PDF)
+English (EN) (125.93 KB - PDF)
+
+**First published:** 05/01/2026
+
+[View](/en/documents/procedural-steps-after/alymsys-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Alymsys : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
+English (EN) (158.76 KB - PDF)
 
 **First published:** 11/08/2021
 
-**Last updated:** 18/04/2024
+**Last updated:** 05/01/2026
 
-[View](/en/documents/procedural-steps-after/alymsys-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/alymsys-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Alymsys-PSUSA-00000403-202502 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-2470418
+
+English (EN) (182.13 KB - PDF)
+
+**First published:** 05/01/2026
+
+[View](/en/documents/scientific-conclusion/alymsys-psusa-00000403-202502-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 Alymsys-H-C-PSUSA-00000403-202202 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -952,7 +970,7 @@ English (EN) (102.83 KB - PDF)
 
 - [Real-life data study of the French cohort of patients with Rendu Osler disease treatment with bevacizumab:the CoBevaRO study. - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000548)
 
-**This page was last updated on** 18/04/2024
+**This page was last updated on** 05/01/2026
 
 ## Share this page
 

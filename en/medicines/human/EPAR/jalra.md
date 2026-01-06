@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 07:08:55
+document_datetime: 2026-01-05 17:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/jalra.html
 document_name: jalra.html
 version: success
-processing_time: 0.1201443
-conversion_datetime: 2025-12-30 19:53:41.658
+processing_time: 0.1290482
+conversion_datetime: 2026-01-06 07:16:09.222793
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -117,7 +117,7 @@ English (EN) (148.63 KB - PDF)
 
 [View](/en/documents/overview/jalra-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-925)
+[Other languages (22)](#file-language-dropdown-121)
 
 български (BG) (169.22 KB - PDF)
 
@@ -387,17 +387,17 @@ svenska (SV) (142.84 KB - PDF)
 
 Jalra : EPAR - Product Information
 
-English (EN) (331.58 KB - PDF)
+English (EN) (322.46 KB - PDF)
 
 **First published:** 17/09/2009
 
-**Last updated:** 03/02/2025
+**Last updated:** 05/01/2026
 
 [View](/en/documents/product-information/jalra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-415)
+[Other languages (24)](#file-language-dropdown-305)
 
-български (BG) (435.44 KB - PDF)
+български (BG) (407.77 KB - PDF)
 
 **First published:**
 
@@ -405,11 +405,11 @@ English (EN) (331.58 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/bg/documents/product-information/jalra-epar-product-information_bg.pdf)
 
-español (ES) (354.15 KB - PDF)
+español (ES) (359.31 KB - PDF)
 
 **First published:**
 
@@ -417,11 +417,11 @@ español (ES) (354.15 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/es/documents/product-information/jalra-epar-product-information_es.pdf)
 
-čeština (CS) (399.88 KB - PDF)
+čeština (CS) (376.55 KB - PDF)
 
 **First published:**
 
@@ -429,11 +429,11 @@ español (ES) (354.15 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/cs/documents/product-information/jalra-epar-product-information_cs.pdf)
 
-dansk (DA) (379.87 KB - PDF)
+dansk (DA) (400.71 KB - PDF)
 
 **First published:**
 
@@ -441,11 +441,11 @@ dansk (DA) (379.87 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/da/documents/product-information/jalra-epar-product-information_da.pdf)
 
-Deutsch (DE) (399.28 KB - PDF)
+Deutsch (DE) (400.72 KB - PDF)
 
 **First published:**
 
@@ -453,11 +453,11 @@ Deutsch (DE) (399.28 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/de/documents/product-information/jalra-epar-product-information_de.pdf)
 
-eesti keel (ET) (337.58 KB - PDF)
+eesti keel (ET) (359.31 KB - PDF)
 
 **First published:**
 
@@ -465,11 +465,11 @@ eesti keel (ET) (337.58 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/et/documents/product-information/jalra-epar-product-information_et.pdf)
 
-ελληνικά (EL) (443.87 KB - PDF)
+ελληνικά (EL) (359.31 KB - PDF)
 
 **First published:**
 
@@ -477,11 +477,11 @@ eesti keel (ET) (337.58 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/el/documents/product-information/jalra-epar-product-information_el.pdf)
 
-français (FR) (370.67 KB - PDF)
+français (FR) (391.85 KB - PDF)
 
 **First published:**
 
@@ -489,11 +489,11 @@ français (FR) (370.67 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/fr/documents/product-information/jalra-epar-product-information_fr.pdf)
 
-hrvatski (HR) (359.81 KB - PDF)
+hrvatski (HR) (340.5 KB - PDF)
 
 **First published:**
 
@@ -501,11 +501,11 @@ hrvatski (HR) (359.81 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/hr/documents/product-information/jalra-epar-product-information_hr.pdf)
 
-íslenska (IS) (292.88 KB - PDF)
+íslenska (IS) (361.33 KB - PDF)
 
 **First published:**
 
@@ -513,11 +513,11 @@ hrvatski (HR) (359.81 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/is/documents/product-information/jalra-epar-product-information_is.pdf)
 
-italiano (IT) (353.35 KB - PDF)
+italiano (IT) (361.35 KB - PDF)
 
 **First published:**
 
@@ -525,11 +525,11 @@ italiano (IT) (353.35 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/it/documents/product-information/jalra-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (389.91 KB - PDF)
+latviešu valoda (LV) (350.98 KB - PDF)
 
 **First published:**
 
@@ -537,11 +537,11 @@ latviešu valoda (LV) (389.91 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/lv/documents/product-information/jalra-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (393.81 KB - PDF)
+lietuvių kalba (LT) (376.29 KB - PDF)
 
 **First published:**
 
@@ -549,11 +549,11 @@ lietuvių kalba (LT) (393.81 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/lt/documents/product-information/jalra-epar-product-information_lt.pdf)
 
-magyar (HU) (395.99 KB - PDF)
+magyar (HU) (357.7 KB - PDF)
 
 **First published:**
 
@@ -561,11 +561,11 @@ magyar (HU) (395.99 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/hu/documents/product-information/jalra-epar-product-information_hu.pdf)
 
-Malti (MT) (431.27 KB - PDF)
+Malti (MT) (406.74 KB - PDF)
 
 **First published:**
 
@@ -573,11 +573,11 @@ Malti (MT) (431.27 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/mt/documents/product-information/jalra-epar-product-information_mt.pdf)
 
-Nederlands (NL) (373.82 KB - PDF)
+Nederlands (NL) (337.49 KB - PDF)
 
 **First published:**
 
@@ -585,11 +585,11 @@ Nederlands (NL) (373.82 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/nl/documents/product-information/jalra-epar-product-information_nl.pdf)
 
-norsk (NO) (346.15 KB - PDF)
+norsk (NO) (352.58 KB - PDF)
 
 **First published:**
 
@@ -597,11 +597,11 @@ norsk (NO) (346.15 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/no/documents/product-information/jalra-epar-product-information_no.pdf)
 
-polski (PL) (383 KB - PDF)
+polski (PL) (404.75 KB - PDF)
 
 **First published:**
 
@@ -609,11 +609,11 @@ polski (PL) (383 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/pl/documents/product-information/jalra-epar-product-information_pl.pdf)
 
-português (PT) (355.49 KB - PDF)
+português (PT) (364.71 KB - PDF)
 
 **First published:**
 
@@ -621,11 +621,11 @@ português (PT) (355.49 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/pt/documents/product-information/jalra-epar-product-information_pt.pdf)
 
-română (RO) (408.28 KB - PDF)
+română (RO) (365.2 KB - PDF)
 
 **First published:**
 
@@ -633,11 +633,11 @@ română (RO) (408.28 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/ro/documents/product-information/jalra-epar-product-information_ro.pdf)
 
-slovenčina (SK) (376.55 KB - PDF)
+slovenčina (SK) (344.16 KB - PDF)
 
 **First published:**
 
@@ -645,11 +645,11 @@ slovenčina (SK) (376.55 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/sk/documents/product-information/jalra-epar-product-information_sk.pdf)
 
-slovenščina (SL) (387.35 KB - PDF)
+slovenščina (SL) (346.85 KB - PDF)
 
 **First published:**
 
@@ -657,11 +657,11 @@ slovenščina (SL) (387.35 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/sl/documents/product-information/jalra-epar-product-information_sl.pdf)
 
-Suomi (FI) (399.56 KB - PDF)
+Suomi (FI) (374.81 KB - PDF)
 
 **First published:**
 
@@ -669,11 +669,11 @@ Suomi (FI) (399.56 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/fi/documents/product-information/jalra-epar-product-information_fi.pdf)
 
-svenska (SV) (376.77 KB - PDF)
+svenska (SV) (344.15 KB - PDF)
 
 **First published:**
 
@@ -681,11 +681,11 @@ svenska (SV) (376.77 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+05/01/2026
 
 [View](/sv/documents/product-information/jalra-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000240310 28/01/2025
+**Latest procedure affecting product information:** VR/0000308306 05/12/2025
 
 icon globe
 
@@ -711,7 +711,7 @@ English (EN) (20.06 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/jalra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-866)
+[Other languages (21)](#file-language-dropdown-191)
 
 български (BG) (87.59 KB - PDF)
 
@@ -989,7 +989,7 @@ Novartis Europharm Limited
 
 Vista Building
 
-Opinion adopted 25/09/2008 Marketing authorisation issued 19/11/2008 Revision 25
+Opinion adopted 25/09/2008 Marketing authorisation issued 19/11/2008 Revision 26
 
 ## Assessment history
 
@@ -1001,9 +1001,11 @@ Collapse section
 
 Jalra : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (187.21 KB - PDF)
+English (EN) (148.8 KB - PDF)
 
 **First published:** 03/02/2025
+
+**Last updated:** 05/01/2026
 
 [View](/en/documents/procedural-steps-after/jalra-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1177,7 +1179,7 @@ English (EN) (34.33 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 05/02/2025
+**This page was last updated on** 05/01/2026
 
 ## Share this page
 

@@ -1,11 +1,11 @@
 ---
-document_datetime: 2023-09-21 18:11:32
+document_datetime: 2026-01-05 15:19:54
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps/telzir-epar-procedural-steps-taken-authorisation_en.pdf
 document_name: telzir-epar-procedural-steps-taken-authorisation_en.pdf
 version: success
-processing_time: 0.3883455
-conversion_datetime: 2025-12-30 08:14:20.262862
+processing_time: 0.3856618
+conversion_datetime: 2026-01-06 07:25:07.963081
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -28,23 +28,12 @@ Rapporteur:
 
 Dr E. Abadie
 
-Co-Rapporteur:
+Co-Rapporteur: Dr J.L. Robert
 
-Dr J.L. Robert
+<!-- image -->
 
-## Licensing status:
-
-The product was not licensed in any country at the time of submission of the application.
-
-## 2. Steps taken for the assessment of the product
-
-- The procedure started on 20 January 2003.
-- The Rapporteur's first Assessment Report was circulated to all CPMP members on 4 April 2003 (Annex 1). The Co-Rapporteur's first Assessment Report was circulated to all CPMP members on 31 March 2003
-- During  the  meeting  on  20  -  22  May  2003,  the  CPMP  agreed  on  the  consolidated  List  of Questions to be sent to the applicant. The final consolidated List of Questions was sent to the applicant on 22 May 2003
-- The  applicant  submitted  the  responses  to  the  CPMP  consolidated  List  of  Questions  on 19 November 2003.
-- The (Co)-Rapporteurs circulated the Joint Assessment Report on the applicant's responses to the List of Questions to all CPMP members on 23 December 2003
-- During the CPMP meeting on 20 - 22 January 2004, the CPMP agreed on a list of outstanding issues to be addressed in writing by the applicant
-- The applicant submitted the responses to the CPMP list of outstanding issues on 1 March 2004.
-- The (Co)-Rapporteurs circulated the Joint Assessment Report on the applicant's responses to the List of Outstanding issues to all CPMP members on 16 March 2004
 - During  the  meeting  on    23  -  24  March  2004,  the  CPMP,  in  the  light  of  the  overall  data submitted  and  the  scientific  discussion  within  the  Committee,  issued  a  positive  opinion  for granting  a  Marketing  Authorisation  to  Telzir  on  24 March 2004.  The  applicant  provided  the letter of undertaking on the follow-up measures to be fulfilled post-authorisation on 24 March 2004
+
+Licensing status: The product was not licensed in any country at the time of submission of the application. 2. Steps taken for the assessment of the product · The procedure started on 20 January 2003. · The Rapporteur's first Assessment Report was circulated to all CPMP members on 4 April 2003 (Annex 1). The Co-Rapporteur's first Assessment Report was circulated to all CPMP members on 31 March 2003 · During  the  meeting  on  20  -  22  May  2003,  the  CPMP  agreed  on  the  consolidated  List  of Questions to be sent to the applicant. The final consolidated List of Questions was sent to the applicant on 22 May 2003 · The  applicant  submitted  the  responses  to  the  CPMP  consolidated  List  of  Questions  on 19 November 2003. · The (Co)-Rapporteurs circulated the Joint Assessment Report on the applicant's responses to the List of Questions to all CPMP members on 23 December 2003 · During the CPMP meeting on 20 - 22 January 2004, the CPMP agreed on a list of outstanding issues to be addressed in writing by the applicant · The applicant submitted the responses to the CPMP list of outstanding issues on 1 March 2004. · The (Co)-Rapporteurs circulated the Joint Assessment Report on the applicant's responses to the List of Outstanding issues to all CPMP members on 16 March 2004 Medicinal product no longer authorised
+
 - The CPMP opinions were forwarded, in all official languages of the European Union, to the European Commission, which adopted the corresponding Decisions on 12 July 2004.

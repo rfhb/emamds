@@ -1,16 +1,16 @@
 ---
-document_datetime: 2023-09-21 18:42:58
+document_datetime: 2026-01-05 15:21:17
 document_pages: 6
 document_pathfilename: www.ema.europa.eu/en/documents/variation-report/telzir-h-c-534-ii-0058-epar-assessment-report-variation_en.pdf
 document_name: telzir-h-c-534-ii-0058-epar-assessment-report-variation_en.pdf
 version: success
-processing_time: 2.5833128
-conversion_datetime: 2025-12-21 23:44:14.318759
+processing_time: 1.8623972
+conversion_datetime: 2026-01-06 07:25:57.457304
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -20,23 +20,9 @@ docling_version:
 
 Committee for Medicinal Products for Human Use (CHMP)
 
-## Assessment report
+<!-- image -->
 
-## Telzir
-
-fosamprenavir
-
-Procedure No.:
-
-EMEA/H/C/000534/II/0058
-
-## Note
-
-Variation assessment report as adopted by the CHMP with all information of a commercially confidential nature deleted.
-
-7 Westferry Circus ● Canary Wharf ● London E14 4HB ● United Kingdom
-
-Telephone
+Assessment report Telzir fosamprenavir Procedure No.: EMEA/H/C/000534/II/0058 Note Variation assessment report as adopted by the CHMP with all information of a commercially confidential nature deleted. Medicinal product no longer authorised
 
 +44 (0)20 7418 8400
 
@@ -62,21 +48,9 @@ www.ema.europa.eu
 
 Type II variation EMEA/H/C/000534/II/0058
 
-| Invented name/name:                             | Telzir                       |
-|-------------------------------------------------|------------------------------|
-| International non-proprietary name/common name: | fosamprenavir                |
-| Indication summary (as last approved):          | treatment of HIV-1 infection |
-| Marketing authorisation holder:                 | ViiV Healthcare UK Limited   |
+<!-- image -->
 
-## 1. Scientific discussion
-
-## 1.1. Introduction
-
-The active substance of Telzir, fosamprenavir (FPV), is a Protease Inhibitor (PI) of HIV. After oral administration, fosamprenavir is rapidly and almost completely hydrolysed to amprenavir and inorganic phosphate prior to reaching the systemic circulation. Amprenavir is a competitive inhibitor of the HIV-1 protease.
-
-Telzir is available as 700 mg film-coated tablet and as 50 mg/mL oral suspension.
-
-Telzir in combination with low dose ritonavir (RTV) is indicated for the treatment of Human Immunodeficiency Virus Type 1 (HIV-1) infected adults, adolescents and children of 6 years and above in combination with other antiretroviral medicinal products. Telzir must only be given with low dose ritonavir as a pharmacokinetic enhancer of amprenavir and in combination with other antiretroviral medicinal products.
+Marketing authorisation holder: 1. Scientific discussion 1.1. Introduction The active substance of Telzir, fosamprenavir (FPV), is a Protease Inhibitor (PI) of HIV. After oral administration, fosamprenavir is rapidly and almost completely hydrolysed to amprenavir and inorganic phosphate prior to reaching the systemic circulation. Amprenavir is a competitive inhibitor of the HIV-1 protease. Telzir is available as 700 mg film-coated tablet and as 50 mg/mL oral suspension. Telzir in combination with low dose ritonavir (RTV) is indicated for the treatment of Human Immunodeficiency Virus Type 1 (HIV-1) infected adults, adolescents and children of 6 years and above in combination with other antiretroviral medicinal products. Telzir must only be given with low dose ritonavir as a pharmacokinetic enhancer of amprenavir and in combination with other antiretroviral medicinal products. Medicinal product no longer authorised
 
 The recommended dose of Telzir in adults and adolescents (over 39 kg) is 700 mg fosamprenavir twice daily with 100 mg ritonavir twice daily. The dose of Telzir in paediatric patients is based on body weight and is 18 mg/kg fosamprenavir twice daily with 3 mg/kg ritonavir twice daily, up to the adult dose.
 
@@ -110,6 +84,8 @@ However, there is a potential theoretical interaction with CYP3A4 inhibitors suc
 
 ## Interaction with PDE5 inhibitors
 
+Medicinal product no longer authorised
+
 PDE5 inhibitors (e.g. sildenafil, tadalafil) are used in the management of erectile dysfunction and more recently for pulmonary arterial hypertension. These indications have different dosages.
 
 At doses of 50 mg (not to exceed 100 mg per day), sildenafil (Viagra) is indicated in the treatment of erectile dysfunction in men.  Due to its ability to relax pulmonary vascular smooth muscle to increase exercise capacity, sildenafil (Revatio) is indicated in the treatment of pulmonary arterial hypertension (PAH) at a dose of 20 mg three times daily (TID) 3 .
@@ -130,17 +106,9 @@ The co-administration of alfuzosin with CYP3A inhibitor as fosamprenavir and esp
 
 The CHMP recommends that co-administration of fosamprenavir /ritonavir with alfuzosin should be contraindicated as it is the case for other PIs.
 
-With regards to interaction with PDE5 inhibitors, the CHMP is of the view that as for other boosted PIs, a difference should be made between PDE5 inhibitors when used for the treatment of pulmonary arterial hypertension (PAH) and when used for erectile dysfunction.
-
-Available data on co-administration of ritonavir at steady state dose (500 mg BID) with sildenafil (100 mg single dose) resulted in a 4-fold and 11-fold increase in sildenafil C max and AUC respectively 1,2 . Given the pharmacokinetic interaction and resulting increased potential for sildenafil-associated adverse events (which include hypotension and syncope, etc.), and the inability to further downward adjust the sildenafil dose below 20 mg, co-administration of sildenafil (Revatio) with ritonavir is contraindicated in pulmonary arterial hypertension patients in the Revatio SmPC 3 .
-
-Therefore, as Telzir is always co-administered with ritonavir as a booster, co-administration with sildenafil in PAH patients should be contraindicated.
-
-As regards the use of PDE5 inhibitors in erectile dysfunction, the CHMP recommends that the warning should be in line with other boosted PIs with the same level of recommendation.
-
-Consequently, the following changes have been made to the product information:
-
 ## SmPC section 4.3, Contraindication
+
+With regards to interaction with PDE5 inhibitors, the CHMP is of the view that as for other boosted PIs, a difference should be made between PDE5 inhibitors when used for the treatment of pulmonary arterial hypertension (PAH) and when used for erectile dysfunction. Available data on co-administration of ritonavir at steady state dose (500 mg BID) with sildenafil (100 mg single dose) resulted in a 4-fold and 11-fold increase in sildenafil C max and AUC respectively 1,2 . Given the pharmacokinetic interaction and resulting increased potential for sildenafil-associated adverse events (which include hypotension and syncope, etc.), and the inability to further downward adjust the sildenafil dose below 20 mg, co-administration of sildenafil (Revatio) with ritonavir is contraindicated in pulmonary arterial hypertension patients in the Revatio SmPC 3 . Therefore, as Telzir is always co-administered with ritonavir as a booster, co-administration with sildenafil in PAH patients should be contraindicated. As regards the use of PDE5 inhibitors in erectile dysfunction, the CHMP recommends that the warning should be in line with other boosted PIs with the same level of recommendation. Consequently, the following changes have been made to the product information: Medicinal product no longer authorised
 
 ' Telzir must not be administered concurrently with medicinal products with narrow therapeutic windows that are substrates of cytochrome P450 3A4 (CYP3A4), e.g. alfuzosin, amiodarone, astemizole, bepridil, cisapride, dihydroergotamine, ergotamine, pimozide, quinidine, terfenadine, oral midazolam (for caution on parenterally administered midazolam, see section 4.5), oral triazolam, sildenafil used for the treatment of pulmonary arterial hypertension (for use of sildenafil in patients with erectile dysfunction, see sections 4.4 and 4.5).'
 
@@ -152,15 +120,9 @@ Consequently, the following changes have been made to the product information:
 
 Co-administration of Telzir with low dose ritonavir and these medicinal products is expected to substantially increase their concentrations and may result in PDE5 inhibitor-associated adverse events such as hypotension, visual changes and priapism (see section 4.5).  Note that co-administration of Telzir with low dose ritonavir with sildenafil used for the treatment of pulmonary arterial hypertension is contraindicated (see section 4.3).'
 
-## SmPC section 4.5, Interaction with other medicinal products and other forms of interaction
+SmPC section 4.5, Interaction with other medicinal products and other forms of interaction
 
-| ERECTILE DYSFUNCTION MEDICINAL PRODUCTS (PDE5 INHIBITORS)    | ERECTILE DYSFUNCTION MEDICINAL PRODUCTS (PDE5 INHIBITORS)   | ERECTILE DYSFUNCTION MEDICINAL PRODUCTS (PDE5 INHIBITORS)                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|--------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Sildenafil Vardenafil Tadalafil No drug interaction studies. | PDE5 inhibitors:  expected (CYP3A4 inhibition by FPV/RTV)  | Concomitant use is not recommended. It may result in an increase in PDE5 inhibitor-associated adverse reactions, including hypotension, visual changes and priapism (refer to PDE5 inhibitor prescribing information). Patients should be warned about these possible side effects when using PDE5 inhibitors with Telzir/ritonavir (see section 4.4). Note that co- administration of Telzir with low dose ritonavir with sildenafil used for the treatment of pulmonary arterial hypertension is contraindicated (see section 4.3). |
-
-| ALPHA 1- ADRENORECEPTOR ANTAGONIST   |                                                                                                                                                                 |                                                                                           |
-|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
-| Alfuzosin                            | Potential for increased alfuzosin concentrations which can result in hypotension. The mechanism of interaction is CYP3A4 inhibition by fosamprenavir/ritonavir. | Co-administration of TELZIR/ritonavir with alfuzosin is contraindicated (see section 4.3) |
+<!-- image -->
 
 ## Package Leaflet - section 2
 
@@ -169,7 +131,6 @@ Co-administration of Telzir with low dose ritonavir and these medicinal products
 …
 
 -  if you are taking any of these medicines
-
 - alfuzosin (used to treat a prostate problem)
 
 …
@@ -188,29 +149,15 @@ In addition, the MAH has updated the list of representatives in the package leaf
 
 'Danmark GlaxoSmithKline Pharma A/S Tlf: + 45 36 35 91 00 info@glaxosmithkline.dk dk-info@gsk.com
 
-Ísland
+Ísland GlaxoSmithKline ehf. Simi: + 354 530 3700
 
-GlaxoSmithKline ehf.
+Slovenská republika GlaxoSmithKline Slovakia s. r. o. Tel: + 421 (0)2 49 10 33 48 26 11 11 recepcia.sk@gsk.com
 
-Simi: + 354 530 3700
-
-Slovenská republika
-
-GlaxoSmithKline Slovakia s. r. o.
-
-Tel: + 421 (0)2 49 10 33 48 26 11 11
-
-recepcia.sk@gsk.com
-
-Κύπρος
-
-GlaxoSmithKline (Cyprus) Ltd
-
-Τηλ
-
-: + 357 22 89 95 01 39 70 00'
+Κύπρος GlaxoSmithKline (Cyprus) Ltd Τηλ : + 357 22 89 95 01 39 70 00'
 
 ## Annex II
+
+<!-- image -->
 
 Finally, Annex II has been updated according to the latest QRD recommendations:
 
@@ -218,9 +165,13 @@ Finally, Annex II has been updated according to the latest QRD recommendations:
 
 The MAH must ensure that the system of pharmacovigilance, as described in version 7.2 presented in Module 1.8.1 of the Marketing Authorisation Application is in place and functioning before and whilst the product is on the market.'
 
-## 2. Conclusion
+2.
+
+Conclusion
 
 On 17 March 2011 the CHMP considered this Type II variation to be acceptable and agreed on the amendments to be introduced in the Summary of Product Characteristics, Annex II and Package Leaflet (Attachment 1 - changes highlighted).
+
+Medicinal product no longer authorised
 
 ## 3. References
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-01-29 11:05:09
-document_pages: 37
+document_datetime: 2026-01-05 16:31:09
+document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/xiliarx-epar-product-information_en.pdf
 document_name: xiliarx-epar-product-information_en.pdf
 version: success
-processing_time: 9.9424496
-conversion_datetime: 2025-12-19 21:22:53.541407
+processing_time: 7.9812524
+conversion_datetime: 2026-01-06 07:24:14.49755
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -63,11 +63,13 @@ When used in combination with a sulphonylurea, a lower dose of the sulphonylurea
 
 Doses higher than 100 mg are not recommended.
 
-<div style=\"page-break-after: always\"></div>
-
 If a dose of Xiliarx is missed, it should be taken as soon as the patient remembers. A double dose should not be taken on the same day.
 
-The safety and efficacy of vildagliptin as triple oral therapy in combination with metformin and a thiazolidinedione have not been established.
+The safety and efficacy of vildagliptin as triple oral therapy in combination with
+
+<div style=\"page-break-after: always\"></div>
+
+metformin and a thiazolidinedione have not been established.
 
 ## Additional information on special populations
 
@@ -111,11 +113,13 @@ There is limited experience in patients with ESRD on haemodialysis. Therefore Xi
 
 Xiliarx should not be used in patients with hepatic impairment, including patients with pre-treatment ALT or AST &gt; 3x ULN (see also sections 4.2 and 5.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Liver enzyme monitoring
 
-Rare cases of hepatic dysfunction (including hepatitis) have been reported. In these cases, the patients were generally asymptomatic without clinical sequelae and liver function test results returned to normal after discontinuation of treatment. Liver function tests should be performed prior to the initiation of treatment with Xiliarx in order to know the patient's baseline value. Liver function should be monitored during treatment with Xiliarx at three-month intervals during the first year and periodically thereafter. Patients who develop increased transaminase levels should be monitored with a second liver function evaluation to confirm the finding and be followed thereafter with frequent liver function tests until the abnormality(ies) return(s) to normal. Should an increase in AST or ALT of 3x ULN or greater persist, withdrawal of Xiliarx therapy is recommended.
+Rare cases of hepatic dysfunction (including hepatitis) have been reported. In these cases, the patients were generally asymptomatic without clinical sequelae and liver function test results returned to normal after discontinuation of treatment. Liver function tests should be performed prior to the initiation of treatment with Xiliarx in order to know the patient's baseline value. Liver function should be monitored during treatment with Xiliarx at three-month intervals during the first year and periodically thereafter. Patients who develop increased transaminase levels should be monitored with a second liver function evaluation to confirm the finding and be followed thereafter with frequent liver function tests until the abnormality(ies) return(s) to normal. Should an increase in AST or ALT of 3x
+
+<div style=\"page-break-after: always\"></div>
+
+ULN or greater persist, withdrawal of Xiliarx therapy is recommended.
 
 Patients who develop jaundice or other signs suggestive of liver dysfunction should discontinue Xiliarx.
 
@@ -137,8 +141,6 @@ Use of vildagliptin has been associated with a risk of developing acute pancreat
 
 If pancreatitis is suspected, vildagliptin should be discontinued; if acute pancreatitis is confirmed, vildagliptin should not be restarted. Caution should be exercised in patients with a history of acute pancreatitis.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hypoglycaemia
 
 Sulphonylureas are known to cause hypoglycaemia. Patients receiving vildagliptin in combination with a sulphonylurea may be at risk for hypoglycaemia. Therefore, a lower dose of sulphonylurea may be considered to reduce the risk of hypoglycaemia.
@@ -152,6 +154,8 @@ This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to sa
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 Vildagliptin has a low potential for interactions with co-administered medicinal products. Since vildagliptin is not a cytochrome P (CYP) 450 enzyme substrate and does not inhibit or induce CYP 450 enzymes, it is not likely to interact with active substances that are substrates, inhibitors or inducers of these enzymes.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Combination with pioglitazone, metformin and glyburide
 
@@ -170,8 +174,6 @@ Drug-drug interaction studies in healthy subjects were conducted with amlodipine
 There may be an increased risk of angioedema in patients concomitantly taking ACE-inhibitors.(see section 4.8).
 
 As with other oral antidiabetic medicinal products the hypoglycaemic effect of vildagliptin may be reduced by certain active substances, including thiazides, corticosteroids, thyroid products and sympathomimetics.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -197,13 +199,13 @@ No studies on the effects on the ability to drive and use machines have been per
 
 Safety data were obtained from a total of 5 451 patients exposed to vildagliptin at a daily dose of 100 mg (50 mg twice daily) in randomised double-blind placebo-controlled trials of at least 12 weeks duration. Of these patients, 4 622 patients received vildagliptin as monotherapy and 829 patients received placebo.
 
+<div style=\"page-break-after: always\"></div>
+
 The majority of adverse reactions in these trials were mild and transient, not requiring treatment discontinuations. No association was found between adverse reactions and age, ethnicity, duration of exposure or daily dose. Hypoglycaemia has been reported in patients receiving vildagliptin concomitantly with sulphonylurea and insulin. The risk of acute pancreatitis has been reported with the use of vildagliptin (see section 4.4).
 
 ## Tabulated list of adverse reactions
 
 Adverse reactions reported in patients who received Xiliarx in double-blind studies as monotherapy and add-on therapies are listed below for each indication by system organ class and absolute frequency. Frequencies are defined as very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1 000 to &lt;1/100), rare (≥1/10 000 to &lt;1/1 000), very rare (&lt;1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-
-<div style=\"page-break-after: always\"></div>
 
 Table 1 Adverse reactions reported in patients who received vildagliptin as monotherapy or as add-on therapy in controlled clinical studies and in post-marketing experience
 
@@ -244,17 +246,19 @@ Table 1 Adverse reactions reported in patients who received vildagliptin as mono
 | Myalgia                                                            | Common      |
 | Reproductive system and breast disorders                           |             |
 | Erectile dysfunction                                               | Uncommon    |
-| General disorders and administration site conditions               |             |
-| Asthenia                                                           | Common      |
-| Oedema peripheral                                                  | Common      |
-| Fatigue                                                            | Uncommon    |
-| Chills                                                             | Uncommon    |
-| Investigations                                                     |             |
-| Abnormal liver function tests                                      | Uncommon    |
-| Weight increase                                                    | Uncommon    |
-| * Based on post-marketing experience.                              |             |
 
 <div style=\"page-break-after: always\"></div>
+
+| General disorders and administration site conditions   | General disorders and administration site conditions   |
+|--------------------------------------------------------|--------------------------------------------------------|
+| Asthenia                                               | Common                                                 |
+| Oedema peripheral                                      | Common                                                 |
+| Fatigue                                                | Uncommon                                               |
+| Chills                                                 | Uncommon                                               |
+| Investigations                                         |                                                        |
+| Abnormal liver function tests                          | Uncommon                                               |
+| Weight increase                                        | Uncommon                                               |
+| * Based on post-marketing experience.                  | * Based on post-marketing experience.                  |
 
 ## Description of selected adverse reactions
 
@@ -280,13 +284,15 @@ Information regarding overdose with vildagliptin is limited.
 
 ## Symptoms
 
-Information on the likely symptoms of overdose was taken from a rising dose tolerability study in healthy subjects given Xiliarx for 10 days. At 400 mg, there were three cases of muscle pain, and individual cases of mild and transient paraesthesia, fever, oedema and a transient increase in lipase levels. At 600 mg, one subject experienced oedema of the feet and hands, and increases in creatine phosphokinase (CPK), aspartate aminotransferase (AST), C-reactive protein (CRP) and myoglobin levels. Three other subjects experienced oedema of the feet, with paraesthesia in two cases. All symptoms and laboratory abnormalities resolved without treatment after discontinuation of the study medicinal product.
+Information on the likely symptoms of overdose was taken from a rising dose tolerability study in healthy subjects given Xiliarx for 10 days. At 400 mg, there were three cases of muscle pain, and individual cases of mild and transient paraesthesia, fever, oedema and a transient increase in lipase levels. At 600 mg, one subject experienced oedema of the feet and hands, and increases in creatine
+
+<div style=\"page-break-after: always\"></div>
+
+phosphokinase (CPK), aspartate aminotransferase (AST), C-reactive protein (CRP) and myoglobin levels. Three other subjects experienced oedema of the feet, with paraesthesia in two cases. All symptoms and laboratory abnormalities resolved without treatment after discontinuation of the study medicinal product.
 
 ## Management
 
 In the event of an overdose, supportive management is recommended. Vildagliptin cannot be removed by haemodialysis. However, the major hydrolysis metabolite (LAY 151) can be removed by haemodialysis.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -302,7 +308,7 @@ The administration of vildagliptin results in a rapid and complete inhibition of
 
 ## Pharmacodynamic effects
 
-By increasing the endogenous levels of these incretin hormones, vildagliptin enhances the sensitivity of beta cells to glucose, resulting in improved glucose-dependent insulin secretion. Treatment with vildagliptin 50-100 mg daily in patients with type 2 diabetes significantly improved markers of beta cell function including HOMA- (Homeostasis Model Assessment- ), proinsulin to insulin ratio and measures of beta cell responsiveness from the frequently-sampled meal tolerance test. In non-diabetic (normal glycaemic) individuals, vildagliptin does not stimulate insulin secretion or reduce glucose levels.
+By increasing the endogenous levels of these incretin hormones, vildagliptin enhances the sensitivity of beta cells to glucose, resulting in improved glucose-dependent insulin secretion. Treatment with vildagliptin 50-100 mg daily in patients with type 2 diabetes significantly improved markers of beta cell function including HOMA- (Homeostasis Model Assessment - ), proinsulin to insulin ratio and measures of beta cell responsiveness from the frequently-sampled meal tolerance test. In non-diabetic (normal glycaemic) individuals, vildagliptin does not stimulate insulin secretion or reduce glucose levels.
 
 By increasing endogenous GLP-1 levels, vildagliptin also enhances the sensitivity of alpha cells to glucose, resulting in more glucose-appropriate glucagon secretion.
 
@@ -312,7 +318,9 @@ The known effect of increased GLP-1 levels delaying gastric emptying is not obse
 
 ## Clinical efficacy and safety
 
-More than 15 000 patients with type 2 diabetes participated in double-blind placebo- or activecontrolled clinical trials of up to more than 2 years' treatment duration. In these studies, vildagliptin was administered to more than 9 000 patients at daily doses of 50 mg once daily, 50 mg twice daily or 100 mg once daily. More than 5 000 male and more than 4 000 female patients received vildagliptin 50 mg once daily or 100 mg daily. More than 1 900 patients receiving vildagliptin 50 mg once daily or 100 mg daily were ≥ 65 years. In these trials, vildagliptin was administered as monotherapy in drugnaïve patients with type 2 diabetes or in combination in patients not adequately controlled by other antidiabetic medicinal products.
+More than 15 000 patients with type 2 diabetes participated in double-blind placebo- or activecontrolled clinical trials of up to more than 2 years ' treatment duration. In these studies, vildagliptin was administered to more than 9 000 patients at daily doses of 50 mg once daily, 50 mg twice daily or 100 mg once daily. More than 5 000 male and more than 4 000 female patients received vildagliptin 50 mg once daily or 100 mg daily. More than 1 900 patients receiving vildagliptin 50 mg once daily or 100 mg daily were ≥ 65 years. In these trials, vildagliptin was administered as monotherapy in drugnaïve patients with type 2 diabetes or in combination in patients not adequately controlled by other antidiabetic medicinal products.
+
+<div style=\"page-break-after: always\"></div>
 
 Overall, vildagliptin improved glycaemic control when given as monotherapy or when used in combination with metformin, a sulphonylurea, and a thiazolidinedione, as measured by clinically relevant reductions in HbA1c from baseline at study endpoint (see Table 2).
 
@@ -320,25 +328,25 @@ In clinical trials, the magnitude of HbA1c reductions with vildagliptin was grea
 
 In a 52-week double-blind controlled trial, vildagliptin (50 mg twice daily) reduced baseline HbA1c by -1% compared to -1.6% for metformin (titrated to 2 g/day) statistical non-inferiority was not achieved. Patients treated with vildagliptin reported significantly lower incidences of gastrointestinal adverse reactions versus those treated with metformin.
 
-<div style=\"page-break-after: always\"></div>
-
 In a 24-week double-blind controlled trial, vildagliptin (50 mg twice daily) was compared to rosiglitazone (8 mg once daily). Mean reductions were -1.20% with vildagliptin and -1.48% with rosiglitazone in patients with mean baseline HbA1c of 8.7%. Patients receiving rosiglitazone experienced a mean increase in weight (+1.6 kg) while those receiving vildagliptin experienced no weight gain (-0.3 kg). The incidence of peripheral oedema was lower in the vildagliptin group than in the rosiglitazone group (2.1% vs. 4.1% respectively).
 
 In a clinical trial of 2 years' duration, vildagliptin (50 mg twice daily) was compared to gliclazide (up to 320 mg/day). After two years, mean reduction in HbA1c was -0.5% for vildagliptin and -0.6% for gliclazide, from a mean baseline HBA1c of 8.6%. Statistical non-inferiority was not achieved. Vildagliptin was associated with fewer hypoglycaemic events (0.7%) than gliclazide (1.7%).
 
 In a 24-week trial, vildagliptin (50 mg twice daily) was compared to pioglitazone (30 mg once daily) in patients inadequately controlled with metformin (mean daily dose: 2020 mg). Mean reductions from baseline HbA1c of 8.4% were -0.9% with vildagliptin added to metformin and -1.0% with pioglitazone added to metformin. A mean weight gain of +1.9 kg was observed in patients receiving pioglitazone added to metformin compared to +0.3 kg in those receiving vildagliptin added to metformin.
 
-In a clinical trial of 2 years' duration, vildagliptin (50 mg twice daily) was compared to glimepiride (up to 6 mg/day - mean dose at 2 years: 4.6 mg) in patients treated with metformin (mean daily dose: 1894 mg). After 1 year mean reductions in HbA1c were -0.4% with vildagliptin added to metformin and -0.5% with glimepiride added to metformin, from a mean baseline HbA1c of 7.3%. Body weight change with vildagliptin was -0.2 kg vs +1.6 kg with glimepiride. The incidence of hypoglycaemia was significantly lower in the vildagliptin group (1.7%) than in the glimepiride group (16.2%). At study endpoint (2 years), the HbA1c was similar to baseline values in both treatment groups and the body weight changes and hypoglycaemia differences were maintained.
+In a clinical trial of 2 years ' duration , vildagliptin (50 mg twice daily) was compared to glimepiride (up to 6 mg/day -mean dose at 2 years: 4.6 mg) in patients treated with metformin (mean daily dose: 1894 mg). After 1 year mean reductions in HbA1c were -0.4% with vildagliptin added to metformin and -0.5% with glimepiride added to metformin, from a mean baseline HbA1c of 7.3%. Body weight change with vildagliptin was -0.2 kg vs +1.6 kg with glimepiride. The incidence of hypoglycaemia was significantly lower in the vildagliptin group (1.7%) than in the glimepiride group (16.2%). At study endpoint (2 years), the HbA1c was similar to baseline values in both treatment groups and the body weight changes and hypoglycaemia differences were maintained.
 
-In a 52-week trial, vildagliptin (50 mg twice daily) was compared to gliclazide (mean daily dose: 229.5 mg) in patients inadequately controlled with metformin (metformin dose at baseline 1928 mg/day). After 1 year, mean reductions in HbA1c were -0.81% with vildagliptin added to metformin (mean baseline HbA1c 8.4%) and -0.85% with gliclazide added to metformin (mean baseline HbA1c 8.5%); statistical non-inferiority was achieved (95% CI -0.11 - 0.20). Body weight change with vildagliptin was +0.1 kg compared to a weight gain of +1.4 kg with gliclazide.
+In a 52-week trial, vildagliptin (50 mg twice daily) was compared to gliclazide (mean daily dose: 229.5 mg) in patients inadequately controlled with metformin (metformin dose at baseline 1928 mg/day). After 1 year, mean reductions in HbA1c were -0.81% with vildagliptin added to metformin (mean baseline HbA1c 8.4%) and -0.85% with gliclazide added to metformin (mean baseline HbA1c 8.5%); statistical non-inferiority was achieved (95% CI -0.11 -0.20). Body weight change with vildagliptin was +0.1 kg compared to a weight gain of +1.4 kg with gliclazide.
 
 In a 24-week trial the efficacy of the fixed dose combination of vildagliptin and metformin (gradually titrated to a dose of 50 mg/500 mg twice daily or 50 mg/1000 mg twice daily) as initial therapy in drug-naïve patients was evaluated. Vildagliptin/metformin 50 mg/1000 mg twice daily reduced HbA1c by -1.82%, vildagliptin/metformin 50 mg/500 mg twice daily by -1.61%, metformin 1000 mg twice daily by -1.36% and vildagliptin 50 mg twice daily by -1.09% from a mean baseline HbA1c of 8.6%. The decrease in HbA1c observed in patients with a baseline ≥10.0% was greater.
 
-A 24-week, multi-centre, randomised, double-blind, placebo-controlled trial was conducted to evaluate the treatment effect of vildagliptin 50 mg once daily compared to placebo in 515 patients with type 2 diabetes and moderate renal impairment (N=294) or severe renal impairment (N=221). 68.8% and 80.5% of the patients with moderate and severe renal impairment respectively were treated with insulin (mean daily dose of 56 units and 51.6 units respectively) at baseline. In patients with moderate renal impairment vildagliptin significantly decreased HbA1c compared with placebo (difference of -0.53%) from a mean baseline of 7.9%. In patients with severe renal impairment, vildagliptin significantly decreased HbA1c compared with placebo (difference of -0.56%) from a mean baseline of 7.7%.
-
-A 24-week randomised, double-blind, placebo-controlled trial was conducted in 318 patients to evaluate the efficacy and safety of vildagliptin (50 mg twice daily) in combination with metformin (≥1500 mg daily) and glimepiride (≥4 mg daily). Vildagliptin in combination with metformin and glimepiride significantly decreased HbA1c compared with placebo.The placebo-adjusted mean reduction from a mean baseline HbA1c of 8.8% was -0.76%.
+A 24-week, multi-centre, randomised, double-blind, placebo-controlled trial was conducted to evaluate the treatment effect of vildagliptin 50 mg once daily compared to placebo in 515 patients with type 2 diabetes and moderate renal impairment (N=294) or severe renal impairment (N=221). 68.8% and
 
 <div style=\"page-break-after: always\"></div>
+
+80.5% of the patients with moderate and severe renal impairment respectively were treated with insulin (mean daily dose of 56 units and 51.6 units respectively) at baseline. In patients with moderate renal impairment vildagliptin significantly decreased HbA1c compared with placebo (difference of -0.53%) from a mean baseline of 7.9%. In patients with severe renal impairment, vildagliptin significantly decreased HbA1c compared with placebo (difference of -0.56%) from a mean baseline of 7.7%.
+
+A 24-week randomised, double-blind, placebo-controlled trial was conducted in 318 patients to evaluate the efficacy and safety of vildagliptin (50 mg twice daily) in combination with metformin (≥1500 mg daily) and glimepiride ( ≥ 4 mg daily). Vildagliptin in combination with metformin and glimepiride significantly decreased HbA1c compared with placebo.The placebo-adjusted mean reduction from a mean baseline HbA1c of 8.8% was -0.76%.
 
 A 24-week randomised, double-blind, placebo-controlled trial was conducted in 449 patients to evaluate the efficacy and safety of vildagliptin (50 mg twice daily) in combination with a stable dose of basal or premixed insulin (mean daily dose 41 units), with concomitant use of metformin (N=276) or without concomitant metformin (N=173). Vildagliptin in combination with insulin significantly decreased HbA1c compared with placebo. In the overall population, the placebo-adjusted mean reduction from a mean baseline HbA1c 8.8% was -0.72%. In the subgroups treated with insulin with or without concomitant metformin the placebo-adjusted mean reduction in HbA1c was -0.63% and -0.84%, respectively. The incidence of hypoglycaemia in the overall population was 8.4% and 7.2% in the vildagliptin and placebo groups, respectively. Patients receiving vildagliptin experienced no weight gain (+0.2 kg) while those receiving placebo experienced weight reduction (-0.7 kg).
 
@@ -346,13 +354,15 @@ In another 24-week study in patients with more advanced type 2 diabetes not adeq
 
 A 52-week multi-centre, randomised, double-blind trial was conducted in patients with type 2 diabetes and congestive heart failure (NYHA functional class I-III) to evaluate the effect of vildagliptin 50 mg twice daily (N=128) compared to placebo (N=126) on left-ventricular ejection fraction (LVEF). Vildagliptin was not associated with a change in left-ventricular function or worsening of pre-existing CHF. Adjudicated cardiovascular events were balanced overall. There were more cardiac events in vildagliptin treated patients with NYHA class III heart failure compared to placebo. However, there were imbalances in baseline cardiovascular risk favouring placebo and the number of events was low, precluding firm conclusions. Vildagliptin significantly decreased HbA1c compared with placebo (difference of 0.6%) from a mean baseline of 7.8% at week 16. In the subgroup with NYHA class III, the decrease in HbA1c compared to placebo was lower (difference 0.3%) but this conclusion is limited by the small number of patients (n=44). The incidence of hypoglycaemia in the overall population was 4.7% and 5.6% in the vildagliptin and placebo groups, respectively.
 
-A five-year multi-centre, randomised, double-blind study (VERIFY) was conducted in patients with type 2 diabetes to evaluate the effect of an early combination therapy with vildagliptin and metformin (N = 998) against standard-of-care initial metformin monotherapy followed by combination with vildagliptin (sequential treatment group) (N = 1 003) in newly diagnosed patients with type 2 diabetes. The combination regimen of vildagliptin 50 mg twice daily plus metformin resulted in a statistically and clinically significant relative reduction in hazard for 'time to confirmed initial treatment failure' (HbA1c value ≥7%) vs metformin monotherapy in treatment-naïve patients with type 2 diabetes over the 5-year study duration (HR [95%CI]: 0.51 [0.45, 0.58]; p&lt;0.001). The incidence of initial treatment failure (HbA1c value ≥7%) was 429 (43.6%) patients in the combination treatment group and 614 (62.1%) patients in the sequential treatment group.
+A five-year multi-centre, randomised, double-blind study (VERIFY) was conducted in patients with type 2 diabetes to evaluate the effect of an early combination therapy with vildagliptin and metformin (N = 998) against standard-of-care initial metformin monotherapy followed by combination with vildagliptin (sequential treatment group) (N = 1 003) in newly diagnosed patients with type 2 diabetes. The combination regimen of vildagliptin 50 mg twice daily plus metformin resulted in a statistically and clinically significant relative reduction in hazard for 'time to confirmed initial treatment failure' (HbA1c value ≥7%) vs metformin monotherapy in treatment -naïve patients with type 2 diabetes over the 5-year study duration (HR [95%CI]: 0.51 [0.45, 0.58]; p&lt;0.001). The incidence of initial treatment failure (HbA1c value ≥7%) was 429 (43.6%) patients in the combination treatment group and 614 (62.1%) patients in the sequential treatment group.
 
 ## Cardiovascular risk
 
-A meta-analysis of independently and prospectively adjudicated cardiovascular events from 37 phase III and IV monotherapy and combination therapy clinical studies of up to more than 2 years duration (mean exposure 50 weeks for vildagliptin and 49 weeks for comparators) was performed and showed that vildagliptin treatment was not associated with an increase in cardiovascular risk versus comparators. The composite endpoint of adjudicated major adverse cardiovascular events (MACE) including acute myocardial infarction, stroke or cardiovascular death was similar for vildagliptin versus combined active and placebo comparators [Mantel-Haenszel risk ratio (M-H RR) 0.82 (95% CI 0.61-1.11)]. A MACE occurred in 83 out of 9 599 (0.86%) vildagliptin-treated patients and in 85 out of 7 102 (1.20%) comparator-treated patients. Assessment of each individual MACE component showed no increased risk (similar M-H RR). Confirmed heart failure (HF) events defined as HF requiring hospitalisation or new onset of HF were reported in 41 (0.43%) vildagliptin-treated patients and 32 (0.45%) comparator-treated patients with M-H RR 1.08 (95% CI 0.68-1.70).
+A meta-analysis of independently and prospectively adjudicated cardiovascular events from 37 phase III and IV monotherapy and combination therapy clinical studies of up to more than 2 years duration
 
 <div style=\"page-break-after: always\"></div>
+
+(mean exposure 50 weeks for vildagliptin and 49 weeks for comparators) was performed and showed that vildagliptin treatment was not associated with an increase in cardiovascular risk versus comparators. The composite endpoint of adjudicated major adverse cardiovascular events (MACE) including acute myocardial infarction, stroke or cardiovascular death was similar for vildagliptin versus combined active and placebo comparators [Mantel -Haenszel risk ratio (M-H RR) 0.82 (95% CI 0.61-1.11)]. A MACE occurred in 83 out of 9 599 (0.86%) vildagliptin-treated patients and in 85 out of 7 102 (1.20%) comparator-treated patients. Assessment of each individual MACE component showed no increased risk (similar M-H RR). Confirmed heart failure (HF) events defined as HF requiring hospitalisation or new onset of HF were reported in 41 (0.43%) vildagliptin-treated patients and 32 (0.45%) comparator-treated patients with M-H RR 1.08 (95% CI 0.68-1.70).
 
 Table 2 Key efficacy results of vildagliptin in placebo-controlled monotherapy trials and in add-on combination therapy trials (primary efficacy ITT population)
 
@@ -437,7 +447,7 @@ A fertility and early embryonic development study in rats revealed no evidence o
 
 A two-year carcinogenicity study was conducted in rats at oral doses up to 900 mg/kg (approximately 200 times human exposure at the maximum recommended dose). No increases in tumour incidence attributable to vildagliptin were observed. Another two-year carcinogenicity study was conducted in mice at oral doses up to 1000 mg/kg. An increased incidence of mammary adenocarcinomas and haemangiosarcomas was observed with a no-effect dose of 500 mg/kg (59-fold human exposure) and 100 mg/kg (16-fold human exposure), respectively. The increased incidence of these tumours in mice is considered not to represent a significant risk to humans based on the lack of genotoxicity of vildagliptin and its principal metabolite, the occurrence of tumours only in one species and the high systemic exposure ratios at which tumours were observed.
 
-In a 13-week toxicology study in cynomolgus monkeys, skin lesions have been recorded at doses ≥ 5 mg/kg/day. These were consistently located on the extremities (hands, feet, ears and tail). At 5 mg/kg/day (approximately equivalent to human AUC exposure at the 100 mg dose), only blisters were observed. They were reversible despite continued treatment and were not associated with histopathological abnormalities. Flaking skin, peeling skin, scabs and tail sores with correlating histopathological changes were noted at doses ≥ 20 mg/kg/day (approximately 3 times human AUC exposure at the 100 mg dose). Necrotic lesions of the tail were observed at ≥ 80 mg/kg/day. Skin lesions were not reversible in the monkeys treated at 160 mg/kg/day during a 4-week recovery period.
+In a 13-week toxicology study in cynomolgus monkeys, skin lesions have been recorded at doses ≥ 5 mg/kg/day. These were consistently located on the extremities (hands, feet, ears and tail). At 5 mg/kg/day (approximately equivalent to human AUC exposure at the 100 mg dose), only blisters were observed. They were reversible despite continued treatment and were not associated with histopathological abnormalities. Flaking skin, peeling skin, scabs and tail sores with correlating histopathological changes were n oted at doses ≥ 20 mg/kg/day (approximately 3 times human AUC exposure at the 100 mg dose ). Necrotic lesions of the tail were observed at ≥ 80 mg/kg/day. Skin lesions were not reversible in the monkeys treated at 160 mg/kg/day during a 4-week recovery period.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -461,7 +471,11 @@ Store in the original package in order to protect from moisture.
 
 ## 6.5 Nature and contents of container
 
-Aluminium/Aluminium (PA/Al/PVC//Al) blister Available in packs containing 7, 14, 28, 30, 56, 60, 90, 112, 180 or 336 tablets and in multipacks containing 336 (3 packs of 112) tablets. Not all pack sizes may be marketed.
+Aluminium/Aluminium (PA/Al/PVC//Al) blister
+
+Available in packs containing 7, 14, 28, 30, 56, 60, 90, 112, 180 or 336 tablets and in multipacks containing 336 (3 packs of 112) tablets.
+
+Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal
 
@@ -469,15 +483,11 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited
-
-Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/08/486/001-011
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -486,6 +496,8 @@ Date of first authorisation: 19 November 2008
 Date of latest renewal: 28 November 2013
 
 ## 10. DATE OF REVISION OF THE TEXT
+
+<div style=\"page-break-after: always\"></div>
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
 
@@ -508,8 +520,6 @@ Lek d.d. Verovskova ulica 57 Ljubljana 1526 Slovenia
 
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
-Novartis Pharma GmbH Roonstrasse 25 D-90429 Nürnberg Germany
-
 Novartis Pharmaceutical Manufacturing LLC Verovskova ulica 57 Ljubljana 1000 Slovenia
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
@@ -526,8 +536,6 @@ Medicinal product subject to medical prescription.
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
-<div style=\"page-break-after: always\"></div>
-
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 ## · Risk management plan (RMP)
@@ -537,7 +545,11 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of
+
+<div style=\"page-break-after: always\"></div>
+
+an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -551,24 +563,27 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+| PARTICULARS TO APPEAR ON THE OUTER PACKAGING   |
+|------------------------------------------------|
+| CARTON OF UNIT PACK                            |
 
-## CARTON OF UNIT PACK
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Xiliarx 50 mg tablets vildagliptin
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+| 2.   | STATEMENT OF ACTIVE SUBSTANCE(S)   |
+|------|------------------------------------|
 
 Each tablet contains 50 mg vildagliptin.
 
-## 3. LIST OF EXCIPIENTS
+| 3.   | LIST OF EXCIPIENTS   |
+|------|----------------------|
 
 Contains lactose (see leaflet for further information).
 
-| 4.   | PHARMACEUTICALFORMANDCONTENTS   |
-|------|---------------------------------|
+| 4.   | PHARMACEUTICALFORMAND CONTENTS   |
+|------|----------------------------------|
 
 ## Tablet
 
@@ -576,11 +591,15 @@ Contains lactose (see leaflet for further information).
 
 336 tablets
 
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+| 5.   | METHODANDROUTE(S) OF ADMINISTRATION   |
+|------|---------------------------------------|
 
-Read the package leaflet before use. Oral use
+Read the package leaflet before use.
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+Oral use
+
+| 6.   | SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN   |
+|------|----------------------------------------------------------------------------------------------------|
 
 Keep out of the sight and reach of children.
 
@@ -589,7 +608,8 @@ Keep out of the sight and reach of children.
 
 <div style=\"page-break-after: always\"></div>
 
-## 8. EXPIRY DATE
+| 8.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
@@ -621,25 +641,17 @@ EU/1/08/486/003 28 tablets
 
 EU/1/08/486/004 30 tablets
 
-EU/1/08/486/005
+EU/1/08/486/005 56 tablets
 
-56 tablets
-
-EU/1/08/486/006
-
-60 tablets
+EU/1/08/486/006 60 tablets
 
 EU/1/08/486/007
 
 90 tablets
 
-EU/1/08/486/008
+EU/1/08/486/008 112 tablets
 
-112 tablets
-
-EU/1/08/486/009
-
-180 tablets
+EU/1/08/486/009 180 tablets
 
 EU/1/08/486/010 336 tablets
 
@@ -649,9 +661,10 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 Xiliarx 50 mg
 
@@ -662,8 +675,8 @@ Xiliarx 50 mg
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -711,6 +724,8 @@ EXP
 
 Store in the original package in order to protect from moisture.
 
+<div style=\"page-break-after: always\"></div>
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -744,8 +759,6 @@ Xiliarx 50 mg
 PC
 
 SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -795,7 +808,7 @@ Store in the original package in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -821,17 +834,17 @@ Xiliarx 50 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTERS                                             |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Xiliarx 50 mg tablets vildagliptin
 
-| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
-|------|------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Novartis Europharm Limited
 
@@ -848,7 +861,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-29
+28
 
 <div style=\"page-break-after: always\"></div>
 
@@ -892,15 +905,17 @@ Insulin is a substance which helps to lower the level of sugar in the blood, esp
 
 Xiliarx works by making the pancreas produce more insulin and less glucagon. This helps to control the blood sugar level. This medicine has been shown to reduce blood sugar, which may help to prevent complications from your diabetes. Even though you are now starting a medicine for your diabetes, it is important that you continue to follow the diet and/or exercise which has been recommended for you.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 2. What you need to know before you take Xiliarx
 
 ## Do not take Xiliarx:
 
 - if you are allergic to vildagliptin or any of the other ingredients of this medicine (listed in section 6). If you think you may be allergic to vildagliptin or any of the other ingredients of Xiliarx, do not take this medicine and talk to your doctor.
 
-## Warnings and precautions Talk to your doctor, pharmacist or nurse before taking Xiliarx
+<div style=\"page-break-after: always\"></div>
+
+## Warnings and precautions
+
+## Talk to your doctor, pharmacist or nurse before taking Xiliarx
 
 - if you have type 1 diabetes (i.e. your body does not produce insulin) or if you have a condition called diabetic ketoacidosis.
 - if you are taking an anti-diabetic medicine known as a sulphonylurea (your doctor may want to reduce your dose of the sulphonylurea when you take it together with Xiliarx in order to avoid low blood glucose [hypoglycaemia]).
@@ -941,8 +956,6 @@ You should not use Xiliarx during pregnancy. It is not known if Xiliarx passes i
 
 If you feel dizzy while taking Xiliarx, do not drive or use machines.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Xiliarx contains lactose
 
 Xiliarx contains lactose (milk sugar). If you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicine.
@@ -950,6 +963,8 @@ Xiliarx contains lactose (milk sugar). If you have been told by your doctor that
 ## Xiliarx contains sodium
 
 This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium free'.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 3. How to take Xiliarx
 
@@ -986,8 +1001,6 @@ If you forget to take a dose of this medicine, take it as soon as you remember. 
 
 Do not stop taking Xiliarx unless your doctor tells you to. If you have questions about how long to take this medicine, talk to your doctor.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
@@ -996,8 +1009,11 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 You should stop taking Xiliarx and see your doctor immediately if you experience the following side effects:
 
-- Angioedema (rare: may affect up to 1 in 1 000 people): Symptoms include swollen face, tongue or throat, difficulty swallowing, difficulties breathing, sudden onset rash or hives, which may indicate a reaction called 'angioedema'.
+- Angioedema (rare: may affect up to 1 in 1 000 people): Symptoms include swollen face, tongue or throat, difficulty swallowing, difficulties breathing, sudden onset rash or hives, which may indicate a reaction called 'angioedema' .
 - Liver disease (hepatitis) (frequency not known): Symptoms include yellow skin and eyes, nausea, loss of appetite or dark-coloured urine, which may indicate liver disease (hepatitis).
+
+<div style=\"page-break-after: always\"></div>
+
 - Inflammation of the pancreas (pancreatitis) (rare: may affect up to 1 in 1 000 people): Symptoms include severe and persistent pain in the abdomen (stomach area), which might reach through to your back, as well as nausea and vomiting.
 
 ## Other side effects
@@ -1020,21 +1036,16 @@ If you get any side effects, talk to your doctor, pharmacist or nurse. This incl
 ## 5. How to store Xiliarx
 
 - Keep this medicine out of the sight and reach of children.
-- Do not use this medicine after the expiry date which is stated on the blister and the carton after 'EXP'. The expiry date refers to the last day of that month.
+- Do not use this medicine after the expiry date which is stated on the blister and the carton after 'EXP' . The expiry date refers to the last day of that month.
 - Store in the original package in order to protect from moisture.
 - Do not use any Xiliarx pack that is damaged or shows signs of tampering.
 - Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
 ## What Xiliarx contains
 
-- The active substance is vildagliptin.
-
-Each tablet contains 50 mg vildagliptin.
-
+- The active substance is vildagliptin. Each tablet contains 50 mg vildagliptin.
 - The other ingredients are lactose anhydrous, microcrystalline cellulose, sodium starch glycolate (type A) and magnesium stearate.
 
 ## What Xiliarx looks like and contents of the pack
@@ -1044,6 +1055,8 @@ Xiliarx 50 mg tablets are round, white to light yellowish and flat, with 'NVR' o
 Xiliarx 50 mg tablets are available in packs containing 7, 14, 28, 30, 56, 60, 90, 112, 180 or 336 tablets and in multipacks comprising 3 cartons, each containing 112 tablets.
 
 Not all pack sizes may be marketed in your country.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Marketing Authorisation Holder
 
@@ -1055,13 +1068,9 @@ Lek d.d. Verovskova ulica 57 Ljubljana 1526 Slovenia
 
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
-Novartis Pharma GmbH Roonstrasse 25 D-90429 Nuremberg Germany
-
 Novartis Pharmaceutical Manufacturing LLC Verovskova ulica 57 Ljubljana 1000 Slovenia
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
-
-<div style=\"page-break-after: always\"></div>
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1069,49 +1078,137 @@ For any information about this medicine, please contact the local representative
 
 Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
+
 ## България
 
-Novartis Bulgaria EOOD Тел.: +359 2 489 98 28
+Novartis Bulgaria EOOD Тел .: +359 2 489 98 28
+
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## Česká republika
 
-Novartis s.r.o. Tel: +420 225 775 111
+Novartis s.r.o.
+
+Tel: +420 225 775 111
+
+## Magyarország
+
+Novartis Hungária Kft. Tel.: +36 1 457 65 00
 
 ## Danmark
 
-Novartis Healthcare A/S Tlf: +45 39 16 84 00
+Novartis Healthcare A/S
+
+Tlf: +45 39 16 84 00
+
+## Malta
+
+Novartis Pharma Services Inc. Tel: +356 2122 2872
 
 ## Deutschland
 
-Novartis Pharma GmbH Tel: +49 911 273 0
+Novartis Pharma GmbH
+
+Tel: +49 911 273 0
+
+## Nederland
+
+Novartis Pharma B.V. Tel: +31 88 04 52 111
 
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
+SIA Novartis Baltics Eesti filiaal
+
+Tel: +372 66 30 810
+
+## Norge
+
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
+
+<div style=\"page-break-after: always\"></div>
 
 ## Ελλάδα
 
-Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
+## Österreich
+
+Novartis (Hellas) A.E.B.E.
+
+Τηλ
+
+: +30 210 281 17 12
+
+Novartis Pharma GmbH
+
+Tel: +43 1 86 6570
 
 ## España
 
-Laboratorios Gebro Pharma, S.A. Tel: +34 93 205 86 86
+Laboratorios Gebro Pharma, S.A.
+
+Tel: +34 93 205 86 86
+
+## Polska
+
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
 
 ## France
 
-Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
+Novartis Pharma S.A.S.
+
+Tél: +33 1 55 47 66 00
+
+## Portugal
+
+Laboratório Normal - Produtos Farmacêuticos
+
+Lda.
+
+Tel. +351 21 000 8600
 
 ## Hrvatska
 
-Novartis Hrvatska d.o.o. Tel. +385 1 6274 220
+Novartis Hrvatska d.o.o.
+
+Tel. +385 1 6274 220
+
+## România
+
+Novartis Pharma Services Romania SRL
+
+Tel: +40 21 31299 01
 
 ## Ireland
 
-Novartis Ireland Limited Tel: +353 1 260 12 55
+Novartis Ireland Limited
+
+Tel: +353 1 260 12 55
+
+## Slovenija
+
+Novartis Pharma Services Inc.
+
+Tel: +386 1 300 75 50
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor hf.
+
+Sími: +354 535 7000
+
+## Slovenská republika
+
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
 
 ## Italia
 
@@ -1119,57 +1216,11 @@ Novartis Farma S.p.A.
 
 Tel: +39 02 96 54 1
 
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
-
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
-
-## Magyarország
-
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
-
-## Malta
-
-Novartis Pharma Services Inc. Tel: +356 2122 2872
-
-## Nederland
-
-Novartis Pharma B.V. Tel: +31 88 04 52 111
-
-## Norge
-
-Novartis Norge AS Tlf: +47 23 05 20 00
-
-## Österreich
-
-Novartis Pharma GmbH Tel: +43 1 86 6570
-
-## Polska
-
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
-
-## Portugal
-
-Laboratório Normal - Produtos Farmacêuticos Lda. Tel. +351 21 000 8600
-
-## România
-
-Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
-
-## Slovenija
-
-Novartis Pharma Services Inc. Tel: +386 1 300 75 50
-
-## Slovenská republika
-
-Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
-
 ## Suomi/Finland
 
-Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
 
 ## Κύπρος
 
@@ -1177,7 +1228,11 @@ Novartis Pharma Services Inc.
 
 Τηλ: +357 22 690 690
 
-<div style=\"page-break-after: always\"></div>
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00
 
 ## Latvija
 
@@ -1190,9 +1245,3 @@ Tel: +371 67 887 070
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu
-
-## Sverige
-
-Novartis Sverige AB
-
-Tel: +46 8 732 32 00

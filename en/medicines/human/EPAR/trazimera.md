@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 07:32:01
+document_datetime: 2026-01-05 16:19:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trazimera.html
 document_name: trazimera.html
 version: success
-processing_time: 0.1159239
-conversion_datetime: 2025-12-30 01:44:43.554486
+processing_time: 0.126219
+conversion_datetime: 2026-01-06 07:19:40.485838
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -122,7 +122,7 @@ English (EN) (81.97 KB - PDF)
 
 [View](/en/documents/overview/trazimera-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-708)
+[Other languages (22)](#file-language-dropdown-834)
 
 български (BG) (114.59 KB - PDF)
 
@@ -410,7 +410,7 @@ English (EN) (330.63 KB - PDF)
 
 [View](/en/documents/product-information/trazimera-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-496)
+[Other languages (24)](#file-language-dropdown-512)
 
 български (BG) (394.3 KB - PDF)
 
@@ -726,7 +726,7 @@ English (EN) (29.77 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-599)
+[Other languages (24)](#file-language-dropdown-218)
 
 български (BG) (36.44 KB - PDF)
 
@@ -1077,7 +1077,7 @@ Pfizer Europe MA EEIG
 
 Boulevard de la Plaine 17
 
-Opinion adopted 31/05/2018 Marketing authorisation issued 26/07/2018 Revision 13
+Opinion adopted 31/05/2018 Marketing authorisation issued 26/07/2018 Revision 14
 
 ## Assessment history
 
@@ -1097,11 +1097,11 @@ English (EN) (142.84 KB - PDF)
 
 Trazimera : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-English (EN) (123.66 KB - PDF)
+English (EN) (166.25 KB - PDF)
 
 **First published:** 18/09/2018
 
-**Last updated:** 03/02/2025
+**Last updated:** 05/01/2026
 
 [View](/en/documents/procedural-steps-after/trazimera-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1165,7 +1165,7 @@ English (EN) (144.76 KB - PDF)
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 03/02/2025
+**This page was last updated on** 05/01/2026
 
 ## Share this page
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-02-05 11:15:06
-document_pages: 2
+document_datetime: 2026-01-05 16:28:33
+document_pages: 3
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/xiliarx-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: xiliarx-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 3.0374607
-conversion_datetime: 2025-12-20 14:48:18.080426
+processing_time: 1.5107233
+conversion_datetime: 2026-01-06 07:19:26.850314
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling: 2.66.0
+  docling-core: 2.57.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -20,19 +20,11 @@ docling_version:
 
 Procedural steps taken and scientific information after the authorisation*
 
-*Due to the Agency' s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessmenthistory'section.Forthe completeproduct lifecycleprocedures,please alsorefer toEPAR-Procedural steps taken andscientific information after authorisation (archive).
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Applicationnumber    | Scope                              | Opinion/ Notification 1 issued on   | Commission Decision Issued2/ amended on   | Product Information affected3   | Summary   |
-|----------------------|------------------------------------|-------------------------------------|-------------------------------------------|---------------------------------|-----------|
-| Variation typeIA_IN/ | Thiswasanapplicationfor avariation | 28/01/2025                          |                                           | Annex II and                    |           |
-
-1NotificationsareissuedfortypeIvariations andArticle61(3)notifications(unlesspartofagroupincludinga typeIIvariationorextensionapplicationoraworksharingapplication).Opinions areissuedforallotherprocedures.
-
-3 SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
-
-2 A Commission decision(CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CDisissuedwithintwomonthsof theopinionforvariationsfallingunderthescopeofArticle23.1a(a)ofRegulation(EU)No.712/2012,orwithinoneyearforotherprocedures.
-
-SendusaquestionGotowww.ema.europa.eu/contactTelephone+31(0)887816000
+| Application number   | Scope                                      | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|--------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Variation type IA /  | B.II.b.2 Change to importer, batch release | 05/12/2025                          |                                             | Annex II and                     |           |
 
 <!-- image -->
 
@@ -40,5 +32,11 @@ SendusaquestionGotowww.ema.europa.eu/contactTelephone+31(0)887816000
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/VR/0000240310   | following a worksharing procedure according toArticle 20of Commission Regulation(EC) No1234/2008. B.II.b.2.cReplacementor addition of a manufacturerresponsibleforimportation and/or batch release-B.II.b.2.c.1 Not including batch control/testing - Accepted   | PL   |
-|---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
+| EMA/VR/0000308306   | PL   |
+|---------------------|------|
+
+<div style=\"page-break-after: always\"></div>
+
+|                                          | starting material, reagent or intermediate used in the manufacture of the active substance (where specified in the technical dossier) where no Ph. Eur. Certificate of Suitability is part of the approved dossier; or a manufacturer of a novel excipient (where specified in the technical dossier) - Refused B.I.b.2 Change in test procedure for active substance or starting material/reagent/intermediate used in the manufacturing process of the active substance - B.I.b.2.a Minor changes to an approved test procedure - Refused   |            |                 |
+|------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------|
+| Variation type IA_IN / EMA/VR/0000240310 | B.II.b.2.c Replacement or addition of a manufacturer responsible for importation and/or batch release - B.II.b.2.c.1 Not including batch control/testing - Accepted                                                                                                                                                                                                                                                                                                                                                                           | 28/01/2025 | Annex II and PL |

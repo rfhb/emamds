@@ -1,11 +1,11 @@
 ---
-document_datetime: 2023-09-21 17:45:19
+document_datetime: 2026-01-05 15:18:49
 document_pages: 31
 document_pathfilename: www.ema.europa.eu/en/documents/scientific-discussion/telzir-epar-scientific-discussion_en.pdf
 document_name: telzir-epar-scientific-discussion_en.pdf
 version: success
-processing_time: 25.280694
-conversion_datetime: 2025-12-26 19:57:36.878525
+processing_time: 11.010883
+conversion_datetime: 2026-01-06 07:46:02.874083
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -18,19 +18,13 @@ docling_version:
 ---
 ## SCIENTIFIC DISCUSSION
 
-## This module reflects the initial scientific discussion for the approval of Telzir. For information on changes after approval please refer to module 8.
+This module reflects the initial scientific discussion for the approval of Telzir. For information on changes after approval please refer to module 8.
 
 ## 1. Introduction
 
 Over the last few years, a decrease in the morbidity associated with AIDS and an increase in survival times  in  association  with  sustained  suppression  of  viral  replication  has  been  achieved  in  North America and Europe, primarily because of the use of highly active antiretroviral therapy (HAART). Current options for the treatment of Human Immunodeficiency Virus (HIV-1) consist of four different mechanistic classes of compounds: nucleoside/nucleotide reverse transcriptase inhibitors (NRTIs/NtRTIs), protease inhibitors (PIs), non-nucleoside reverse transcriptase inhibitors (NNRTIs) and fusion inhibitors. The choice of the combination regimens depends on the status of the patient, particularly in terms of plasma viral load (HIV RNA), CD4 cell counts, previous treatment(s), prior relapse and intolerance to treatment.
 
-The  long-term  use  of  all  these  products  is,  however,  limited  by  the  emergence  of  resistance,  by potential  toxicity  and  in  some  cases  by  inconvenient  dosing  schedules  or  formulations.  Further therapeutic agents are therefore needed, particularly in patients who have failed therapy.
-
-Although there is currently not enough data to demonstrate the relative benefit of each number of daily administration,  it  is  reasonable  to  accept  that  a  reduced  number  of  daily  doses  along  with  a  small number of pills may meet the patient's preference.
-
-Telzir  contains  fosamprenavir,  which  is  the  prodrug  of  amprenavir,  a  non-peptide  competitive inhibitor  of  the  HIV  protease  enzyme.  Fosamprenavir  has  no  or  little  antiviral  activity per  se ,  and requires in-vivo metabolism to release the active moiety amprenavir. A medicinal product containing amprenavir  has  already  been  granted  a  marketing  authorisation  for  the  treatment  of  HIV  infection, however its inherent low solubility has resulted in a commercial formulation requiring taking a large number of capsules per day.
-
-Telzir has therefore been developed not only to optimise the use of amprenavir, by further reducing the  pill  burden  but  also  to  optimise/complete  the  clinical  development  of  this  compound  in  HIV infected naïve and pretreated patients. Telzir is available both as film-coated tablets containing 700 mg of fosamprenavir as fosamprenavir calcium (equivalent to approximately 600 mg of amprenavir) and oral suspension containing 50 mg/ml  fosamprenavir as fosamprenavir calcium (equivalent to approximately 43 mg/ml amprenavir).
+The  long-term  use  of  all  these  products  is,  however,  limited  by  the  emergence  of  resistance,  by potential  toxicity  and  in  some  cases  by  inconvenient  dosing  schedules  or  formulations.  Further therapeutic agents are therefore needed, particularly in patients who have failed therapy. Although there is currently not enough data to demonstrate the relative benefit of each number of daily administration,  it  is  reasonable  to  accept  that  a  reduced  number  of  daily  doses  along  with  a  small number of pills may meet the patient's preference. Telzir  contains  fosamprenavir,  which  is  the  prodrug  of  amprenavir,  a  non-peptide  competitive inhibitor  of  the  HIV  protease  enzyme.  Fosamprenavir  has  no  or  little  antiviral  activity per  se ,  and requires in-vivo metabolism to release the active moiety amprenavir. A medicinal product containing amprenavir  has  already  been  granted  a  marketing  authorisation  for  the  treatment  of  HIV  infection, however its inherent low solubility has resulted in a commercial formulation requiring taking a large number of capsules per day. Telzir has therefore been developed not only to optimise the use of amprenavir, by further reducing the  pill  burden  but  also  to  optimise/complete  the  clinical  development  of  this  compound  in  HIV infected naïve and pretreated patients. Telzir is available both as film-coated tablets containing 700 mg of fosamprenavir as fosamprenavir calcium (equivalent to approximately 600 mg of amprenavir) and oral suspension containing 50 mg/ml  fosamprenavir as fosamprenavir calcium (equivalent to approximately 43 mg/ml amprenavir). Medicinal product no longer authorised
 
 The  approved  indication  is:  'Telzir  in  combination  with  low  dose  ritonavir  is  indicated  for  the treatment  of  Human  Immunodeficiency  Virus  Type  1  (HIV-1)  infected  adults  in  combination  with other  antiretroviral  medicinal  products.  In  moderately  antiretroviral  experienced  patients,  Telzir  in combination with low dose ritonavir has not been shown to be as effective as lopinavir / ritonavir. In heavily pretreated patients the use of Telzir in combination with low dose ritonavir has not been sufficiently  studied.  In  protease  inhibitor  (PI)  experienced  patients  the  choice  of  Telzir  should  be based on individual viral resistance testing and treatment history.'
 
@@ -48,7 +42,7 @@ The other ingredients include:
 
 <div style=\"page-break-after: always\"></div>
 
-- -Tablet film coating: hypromellose, titanium dioxide, glycerol triacetate and iron oxide red.
+-Tablet film coating: hypromellose, titanium dioxide, glycerol triacetate and iron oxide red.
 
 The tablets are packed in HPDE bottle with child resistant closure.
 
@@ -78,9 +72,13 @@ One of the  starting  materials  uses  stearylamine,  a  bovine  tallow  derived
 
 Satisfactory  specifications  and  associated  methods  have  been  provided  for  the  starting  materials, intermediate, reagents and solvents.
 
-## · Specification
+## •
+
+## Specification
 
 The active substance specification include test for appearance, identity (IR and calcium flame test), assay  (HPLC,  NLT  98.0  %  -  NMT  102.0  %),  water  content  (PhEur),  impurity  content  (HPLC), residual solvents (GC), palladium content (skip testing) and particle size.
+
+Medicinal product no longer authorised
 
 The formation of the desired enantiomer of fosamprenavir is ensured through the use of key starting materials  of  high  stereochemical  purity  and  the  route  of  synthesis.  A  chiral  identity  test  will  be developed on an ongoing basis. Therefore, the omission of a chiral assay for the claimed enantiomer and a chiral determination of the opposite enantiomer in the specifications have been supported in this particular case.
 
@@ -92,7 +90,7 @@ Batch  analysis  data  provided  for  6  recent  batches  manufactured  at  the 
 
 <div style=\"page-break-after: always\"></div>
 
-## · Stability
+- Stability
 
 Under  intermediate  conditions  (30°C/60  %RH  -  intended  packaging),  24-month  stability  data  have been provided for 3 pilot scale batches and 12-month for 3 industrial scale batches. Under accelerated conditions (40°C/75 %RH - intended packaging) 6-month data have been provided. A photostability study has been performed and indicates that fosamprenavir is not light sensitive. A retest period of 3 years with precaution for storage of 'Store up to 30°C' has been adequately justified and is supported by the presented data when the substance is stored in metal, plastic or fibreboard containers lined with anti-static low-density polyethylene bags and sealed with plastic ties.
 
@@ -104,13 +102,7 @@ Under  intermediate  conditions  (30°C/60  %RH  -  intended  packaging),  24-mo
 
 Due to the low aqueous solubility of amprenavir and the need for a high ratio of excipients/amprenavir in  the  formulation,  amprenavir  capsules  have  been  formulated  as  low-strength  large  soft  capsules requiring administration of several capsules daily. In order to ensure a lower pill burden and keep the tablet size to a minimum in the case of fosamprenavir, a formulation with a high drug load and low level of excipients has been developed.
 
-The excipients have been selected based on their compatibility with the drug substance by means of statistically  designed  excipient  interaction  studies  on  powder  mixes.  They  are  all  of  European Pharmacopeia  quality  except  the  film-coating,  which  is  satisfactorily  controlled  according  to  a different standard. An appropriate level of each excipient has been established through a multifactorial formulation design.
-
-Due to a combination of high drug content and small particle size of the drug substance causing poor blend flow properties, direct compression was not feasible and a classical high shear wet granulation process has been developed.
-
-The suitability of the primary packaging selected i.e. HPDE bottle with child resistant closure has been demonstrated by stability studies. It is in compliance with European regulation on plastic materials and articles  intended  to  come  into  contact  with  foodstuffs.  Regarding  the  TSE  risk,  stearylamine  is  the only component of ruminant origin used in the manufacture of Telzir (see drug substance).
-
-The main phase III clinical trials were performed using 3 'variants' of the 700 mg film-coated tablets A, B and C, corresponding to different scale up of the drug substance/drug product and particle size of the drug substance. In the first instance, bioequivalence was not established between these 3 variants and the reasons for it seem not to be clearly identified. However, bioequivalence studies APV10021 and APV10029 demonstrated that both scale-up of the drug substance and of the drug product, and the particle size of the drug substance have no impact in vivo and thus are of no clinical relevance (see Section 3.4 Clinical aspects - Pharmacokinetics)
+The excipients have been selected based on their compatibility with the drug substance by means of statistically  designed  excipient  interaction  studies  on  powder  mixes.  They  are  all  of  European Pharmacopeia  quality  except  the  film-coating,  which  is  satisfactorily  controlled  according  to  a different standard. An appropriate level of each excipient has been established through a multifactorial formulation design. Due to a combination of high drug content and small particle size of the drug substance causing poor blend flow properties, direct compression was not feasible and a classical high shear wet granulation process has been developed. The suitability of the primary packaging selected i.e. HPDE bottle with child resistant closure has been demonstrated by stability studies. It is in compliance with European regulation on plastic materials and articles  intended  to  come  into  contact  with  foodstuffs.  Regarding  the  TSE  risk,  stearylamine  is  the only component of ruminant origin used in the manufacture of Telzir (see drug substance). The main phase III clinical trials were performed using 3 'variants' of the 700 mg film-coated tablets A, B and C, corresponding to different scale up of the drug substance/drug product and particle size of the drug substance. In the first instance, bioequivalence was not established between these 3 variants and the reasons for it seem not to be clearly identified. However, bioequivalence studies APV10021 and APV10029 demonstrated that both scale-up of the drug substance and of the drug product, and the particle size of the drug substance have no impact in vivo and thus are of no clinical relevance (see Section 3.4 Clinical aspects - Pharmacokinetics) Medicinal product no longer authorised
 
 In  addition,  an  appropriate  drug  substance  particle  size  specification  has  been  established  (see  drug substance) and only one quality of tablets i.e. variant C will be commercialised, thus ensuring a drug product of consistent quality.
 
@@ -136,17 +128,9 @@ Under  long-term  conditions  (30°C/60  %  RH  -  intended  packaging),  30-mon
 
 The data provided support the proposed shelf life and storage conditions as defined in the Summary of Product Characteristics.
 
-## Oral suspension
-
-## · Pharmaceutical Development
-
-This  oral  formulation  has  been  mainly  developed  for  patients,  who  have  difficulties  in  swallowing tablets.
-
-The  particle  size,  distribution  of  the  drug  substance,  has  been  shown  to  impact  on  the  suspension properties, especially redispersibility. This has been taken into account in fosamprenavir specification (see drug substance).
-
-All the excipients have been selected based on their compatibility with the drug substance in order to ensure  minimal  agglomeration  and  easy  redispersibility  of  the  suspension.  A  1%  w/w  level  of propylene glycol was chosen in order to ensure solubility of the preservatives without affecting the redispersibility of the formulation. The pH selected is satisfactory for the physical properties of the suspension. In addition, it maintains the antimicrobial efficacy of the preservatives, which has been demonstrated according to  PhEur at  release  and  during  storage.  Taste  masking  of  fosamprenavir  is achieved by using sucralose and by inclusion of two flavours. Patient acceptability of the taste and palatability of the oral suspension has been confirmed. All the excipients are of PhEur quality except sucralose and flavours, which are adequately controlled according to different standards. Regarding the TSE risk, stearylamine is the only component of ruminant origin used in the manufacture of Telzir (see drug substance).
-
 Satisfactory specifications have been provided for the HDPE  bottle and the child-resistant polypropylene  closure.  The  compatibility  of  suspension  with  the  primary  packaging  has  been satisfactorily demonstrated. The oral syringe is CE marked and has been approved for its intended use. The accuracy and reproducibility of the dose delivered by this medical device has been satisfactorily demonstrated.
+
+Oral suspension · Pharmaceutical Development This  oral  formulation  has  been  mainly  developed  for  patients,  who  have  difficulties  in  swallowing tablets. The  particle  size,  distribution  of  the  drug  substance,  has  been  shown  to  impact  on  the  suspension properties, especially redispersibility. This has been taken into account in fosamprenavir specification (see drug substance). All the excipients have been selected based on their compatibility with the drug substance in order to ensure  minimal  agglomeration  and  easy  redispersibility  of  the  suspension.  A  1%  w/w  level  of propylene glycol was chosen in order to ensure solubility of the preservatives without affecting the redispersibility of the formulation. The pH selected is satisfactory for the physical properties of the suspension. In addition, it maintains the antimicrobial efficacy of the preservatives, which has been demonstrated according to  PhEur at  release  and  during  storage.  Taste  masking  of  fosamprenavir  is achieved by using sucralose and by inclusion of two flavours. Patient acceptability of the taste and palatability of the oral suspension has been confirmed. All the excipients are of PhEur quality except sucralose and flavours, which are adequately controlled according to different standards. Regarding the TSE risk, stearylamine is the only component of ruminant origin used in the manufacture of Telzir (see drug substance). Medicinal product no longer authorised
 
 Satisfactory  minimum  shaking  time  to  ensure  redispersibility  prior  to  extracting  the  first  dose  and subsequent doses have been determined based on studies simulating patient-use conditions at low and high doses. No significant differences in drug substance content were observed at any of the dosing intervals, dose regimes and shaking times
 
@@ -184,6 +168,8 @@ In  addition to  the  non-clinical  studies  performed  with  fosamprenavir,  da
 
 All  definitive  toxicokinetics  and  toxicological  studies  were  claimed  to  be  performed  in  compliance with Good Laboratory Practices.
 
+Medicinal product no longer authorised
+
 ## Pharmacology
 
 ## · Primary pharmacodynamics
@@ -202,19 +188,9 @@ Fosamprenavir  and  amprenavir  had  minimal  effects  on  ligand  binding  to  
 
 In vitro amprenavir had no effects on lipid metabolism in C3HIOTI/2 cells, in Hep G2 cells and rat hepatocytes. In addition amprenavir had minimal effects in vivo on the metabolic parameters tested in two strains of mice after subcutaneous implementation of continuous release pellets containing 60 mg amprenavir  for  2  weeks.  These  included  insulin  resistance  index,  markers  of  fat  metabolism  and markers of liver, kidney and heart/muscle function.
 
-## · Safety pharmacology
-
-Fosamprenavir  (sodium  salt)  did  not  cause  any  treatment-related  overt  effects  on  the  central  and peripheral nervous systems, the cardiovascular and respiratory systems in rats and dogs with doses up to 2000 mg/kg (1493 mg/kg amprenavir equivalents).
-
-In  vitro ,  fosamprenavir  (calcium  salt)  showed  no  clinically  relevant  effects  on  the  action  potential duration  of  isolated  dog  Purkinje  fibres.  Studies  with  amprenavir  indicated  a  shortening  of  the repolarisation phase of the cardiac action potential, but these results were not observed in vivo in the dog toxicology studies. Neither compound had any effect on the hERG current in vitro . These results suggest that QTc  prolongation would not be seen in humans following administration of fosamprenavir (calcium salt).
-
-## · Pharmacodynamic drug interactions
-
-Specific studies investigating pharmacological drug interactions have not been performed however the results of the in-vitro receptor screen study indicate that potential interactions are unlikely. Moreover potential interactions with other medicinal products have been evaluated in clinical trials.
-
-## Pharmacokinetics
-
 The pharmacokinetics profile of fosamprenavir has been defined in mice, rats, rabbits and beagle dogs. Studies aimed to describe the disposition and metabolism of both amprenavir and fosamprenavir (free ester)  following  oral  administration  of  the  calcium  salt  or  in  some  studies  the  disodium  salt. Toxicokinetics data derive from repeated dose toxicity studies.
+
+· Safety pharmacology Fosamprenavir  (sodium  salt)  did  not  cause  any  treatment-related  overt  effects  on  the  central  and peripheral nervous systems, the cardiovascular and respiratory systems in rats and dogs with doses up to 2000 mg/kg (1493 mg/kg amprenavir equivalents). In  vitro ,  fosamprenavir  (calcium  salt)  showed  no  clinically  relevant  effects  on  the  action  potential duration  of  isolated  dog  Purkinje  fibres.  Studies  with  amprenavir  indicated  a  shortening  of  the repolarisation phase of the cardiac action potential, but these results were not observed in vivo in the dog toxicology studies. Neither compound had any effect on the hERG current in vitro . These results suggest that QTc  prolongation would not be seen in humans following administration of fosamprenavir (calcium salt). · Pharmacodynamic drug interactions Specific studies investigating pharmacological drug interactions have not been performed however the results of the in-vitro receptor screen study indicate that potential interactions are unlikely. Moreover potential interactions with other medicinal products have been evaluated in clinical trials. Pharmacokinetics Medicinal product no longer authorised
 
 Fosamprenavir  (free  ester)  and  amprenavir  were  measured  in  biological  samples  using  adequate methods of assays.
 
@@ -246,6 +222,8 @@ Plasma protein binding of fosamprenavir (calcium salt) was approximately 96 % at
 
 The  metabolic  profiles  in  the  different  species  and  human  were  qualitatively  similar  and  similar  to those seen following administration of amprenavir.
 
+Medicinal product no longer authorised
+
 The metabolism in rats involved a di-oxidation on the tetrahydrofuran moiety of the molecule and an additional site of oxidation on the aniline ring portion of the molecule.
 
 Amprenavir  was  eliminated  mainly  by  hepatobiliary  processes  and excreted via faeces after administration of calcium salt (&gt; 75 %). Urinary excretion accounted for 5.11, 2.63 or 13 % of the administered dose in mice, rats or dogs, respectively. Excretion of unchanged amprenavir accounted for 11 % in mice, 17 % in rats and 28 % in dogs. Clearance was not measured and estimation of halflife was very variable.
@@ -260,15 +238,7 @@ Contamination of the control samples occurred in many studies during the preclin
 
 A complete toxicological programme was performed with fosamprenavir since the impurity profile of the calcium salt of the prodrug differs from the one of amprenavir. This is a consequence of different chemical processes employed during the manufacture of the two compounds. In addition, fosamprenavir is not completely hydrolysed to amprenavir, and the prodrug has been detected at low levels  (&lt;  0.6  %  of  amprenavir  AUC)  systemically  in  humans  following  dosing  at  the  proposed therapeutic dose.
 
-This  programme  included  single  dose  studies  (mice  and  rats),  repeated  dose  studies  (rats  up  to 6 months and dogs up to 9 months), genotoxicity and reproductive and developmental toxicity studies (rats and rabbits). Carcinogenicity studies with fosamprenavir (calcium salt) are ongoing in rats and mice. Other toxicity studies included local tolerance (eye and dermal irritancy in the rabbit) potential sensitisation  in  the  guinea  pig,  immunotoxicity and impurities.  The  toxicity in juvenile animals  has also been evaluated.
-
-Although  the  majority  of  studies  were  conducted  with  fosamprenavir  as  calcium  salt,  some  initial studies  used  the  disodium  salt.  These  initial  studies  were  not  repeated  as  they  were  superseded  by studies using the calcium salt at higher doses and for longer duration. The definitive intravenous single dose studies were all conducted with the disodium salt because of its high solubility in saline.
-
-Although fosamprenavir is to be used with low dose of ritonavir, the combination was not tested in the toxicological studies. This was however considered acceptable in view of the clinical safety profile in patients receiving fosamprenavir (calcium salt) with or without low dose ritonavir and the toxicological  profiles  for  the  individual  compounds,  which  do  not  suggest  novel  toxicities  for  the combination.
-
-## · Single dose toxicity
-
-After oral administration, fosamprenavir either as the disodium salt or calcium salt showed low acute toxicity in mice and rats. The maximum non-lethal dose was &gt; 2000 mg/kg (1493 mg/kg amprenavir equivalents) and &gt; 2986 mg/kg (2000 mg/kg amprenavir equivalent dose) respectively in both species.
+This  programme  included  single  dose  studies  (mice  and  rats),  repeated  dose  studies  (rats  up  to 6 months and dogs up to 9 months), genotoxicity and reproductive and developmental toxicity studies (rats and rabbits). Carcinogenicity studies with fosamprenavir (calcium salt) are ongoing in rats and mice. Other toxicity studies included local tolerance (eye and dermal irritancy in the rabbit) potential sensitisation  in  the  guinea  pig,  immunotoxicity and impurities.  The  toxicity in juvenile animals  has also been evaluated. Although  the  majority  of  studies  were  conducted  with  fosamprenavir  as  calcium  salt,  some  initial studies  used  the  disodium  salt.  These  initial  studies  were  not  repeated  as  they  were  superseded  by studies using the calcium salt at higher doses and for longer duration. The definitive intravenous single dose studies were all conducted with the disodium salt because of its high solubility in saline. Although fosamprenavir is to be used with low dose of ritonavir, the combination was not tested in the toxicological studies. This was however considered acceptable in view of the clinical safety profile in patients receiving fosamprenavir (calcium salt) with or without low dose ritonavir and the toxicological  profiles  for  the  individual  compounds,  which  do  not  suggest  novel  toxicities  for  the combination. · Single dose toxicity After oral administration, fosamprenavir either as the disodium salt or calcium salt showed low acute toxicity in mice and rats. The maximum non-lethal dose was &gt; 2000 mg/kg (1493 mg/kg amprenavir equivalents) and &gt; 2986 mg/kg (2000 mg/kg amprenavir equivalent dose) respectively in both species. Medicinal product no longer authorised
 
 After intravenous administration of fosamprenavir as the disodium salt, ataxia and decreased activity were the most noticeable signs of toxicity. The maximum non-lethal dose was 217 mg/kg in mice and female rats  (160  mg/kg  amprenavir  equivalents)  and  347  mg/kg  (256  mg/kg  amprenavir  equivalent dose) in male rats.
 
@@ -282,13 +252,7 @@ The major target organ in rats and dogs was the liver. In rats, there were chang
 
 related increases in absolute (4 to 61 %) and relative (3 to 69 %) liver weights occurred in all studies. Microscopic findings were generally associated with increased liver weights (hepatocyte hypertrophy in the short-term studies, and in long-term studies multinucleated hepatocytes, individual hepatocyte necrosis, increased hepatocyte pigment, increased Kupffer cell pigment and hepatocellular vacuolation).  Following  the  recovery  period  in  rats,  the  increased  liver  weights  and  most  of  the microscopic liver findings were improving but were not completely recovered to control levels. In  dogs,  increases  (23  to  272  %)  in  serum  alkaline  phosphatase  concentrations  were  consistently observed in all the long-term studies. ALT was also increased in the 9-month study only. Increases in liver weights were observed in the 14-day and 4-week studies but not in the 9-month study. The only significant  microscopic  finding  was  hepatocellular  pigment  in  the  9-month  study.  Following  the recovery  period,  the  increased  liver  weights  were  improving  but  were  not  completely  recovered  to control  levels.  The  microscopic  liver  findings  did  not  recover.  Although  the  mechanism  behind  the AST  and  ALT  augmentation  at  the  end  of  the  recovery  period  is  unknown,  no  liver  toxicity  is anticipated with the clinical use of fosamprenavir as until now no liver toxicity has been noted after treatment with amprenavir.
 
-In  rats,  there  were  consistent  haematological  changes  between  the  4-week  and  6-month  studies including small decreases (1 to 8%) in haematocrit and haemoglobin, and an increase (7 to 25 %) in platelet count. All of these changes appeared to improve during the recovery period, but did not fully recover. In the 6-month study, haematological changes occurred in both male and female rats at doses ≥ 478 mg/kg/day  (320 mg/kg/day  amprenavir  equivalents).  In  the  dog,  no  haematological  changes were directly attributed to the administration of fosamprenavir (calcium salt).
-
-In  dogs,  salivation,  vomiting  and  faecal  alterations  (soft  to  liquid  faeces)  occurred  consistently throughout all studies. In the 9-month study, some animals in the highest dose group deteriorated to such an extent that they were euthanised prior to the end of the treatment period, and the two high dose groups were combined and the dose level reduced. These were not considered serious events and were reversible on discontinuation of treatment.
-
-Myocardial changes in rats were observed in some studies however a further analysis of the preclinical data did not reveal statistically significant myocardial effect and there was no effect in the 6-month study. Furthermore, clinical data do not suggest that fosamprenavir has a cardiac effect, however this will be monitored post-authorisation.
-
-Animals were poorly exposed to amprenavir after fosamprenavir (calcium salt) administration: 0.7 to 1.3  fold  compared  to  human  exposure  at  the  maximum  dosage  used  in  the  6-month  study  in  rats (2240 mg/kg/day equivalent to 1500 mg/kg/day amprenavir), and 1.9 to 3.1 fold in the 9-month study in dogs (337 mg/kg/day equivalent to 225 mg/kg/day amprenavir). However, animals were exposed to a much higher extent to fosamprenavir (calcium salt) as compared to humans (45 to 76 fold the human exposure for rats, and 23 to 68 fold for dogs), thus correctly addressing the toxicity of fosamprenavir. In  the  rat  pivotal  6-month  study,  the  NOAEL  found  was  149  mg/kg  (0.2  to  0.3  fold  compared  to human  exposure  for  amprenavir;  1.3  to  11  fold  compared  to  human  exposure  for  fosamprenavir (calcium salt)). In the dog pivotal 9-month study, no NOAEL could be established. However, at the lowest dosage used (75 mg/kg) toxicity consisted mainly in hepatocellular pigmentation.
+In  rats,  there  were  consistent  haematological  changes  between  the  4-week  and  6-month  studies including small decreases (1 to 8%) in haematocrit and haemoglobin, and an increase (7 to 25 %) in platelet count. All of these changes appeared to improve during the recovery period, but did not fully recover. In the 6-month study, haematological changes occurred in both male and female rats at doses ≥ 478 mg/kg/day  (320 mg/kg/day  amprenavir  equivalents).  In  the  dog,  no  haematological  changes were directly attributed to the administration of fosamprenavir (calcium salt). In  dogs,  salivation,  vomiting  and  faecal  alterations  (soft  to  liquid  faeces)  occurred  consistently throughout all studies. In the 9-month study, some animals in the highest dose group deteriorated to such an extent that they were euthanised prior to the end of the treatment period, and the two high dose groups were combined and the dose level reduced. These were not considered serious events and were reversible on discontinuation of treatment. Myocardial changes in rats were observed in some studies however a further analysis of the preclinical data did not reveal statistically significant myocardial effect and there was no effect in the 6-month study. Furthermore, clinical data do not suggest that fosamprenavir has a cardiac effect, however this will be monitored post-authorisation. Animals were poorly exposed to amprenavir after fosamprenavir (calcium salt) administration: 0.7 to 1.3  fold  compared  to  human  exposure  at  the  maximum  dosage  used  in  the  6-month  study  in  rats (2240 mg/kg/day equivalent to 1500 mg/kg/day amprenavir), and 1.9 to 3.1 fold in the 9-month study in dogs (337 mg/kg/day equivalent to 225 mg/kg/day amprenavir). However, animals were exposed to a much higher extent to fosamprenavir (calcium salt) as compared to humans (45 to 76 fold the human exposure for rats, and 23 to 68 fold for dogs), thus correctly addressing the toxicity of fosamprenavir. In  the  rat  pivotal  6-month  study,  the  NOAEL  found  was  149  mg/kg  (0.2  to  0.3  fold  compared  to human  exposure  for  amprenavir;  1.3  to  11  fold  compared  to  human  exposure  for  fosamprenavir (calcium salt)). In the dog pivotal 9-month study, no NOAEL could be established. However, at the lowest dosage used (75 mg/kg) toxicity consisted mainly in hepatocellular pigmentation. Medicinal product no longer authorised
 
 ## · Genotoxicity in vitro and in vivo
 
@@ -304,15 +268,7 @@ Carcinogenicity studies with the calcium salt are currently ongoing in rats and 
 
 Fertility studies in rats did not reveal any treatment related adverse effects on reproductive functions. In  females,  at  the  high  dose  (2240  mg/kg/day  corresponding  to  1498  mg/kg/day  amprenavir equivalents),  there  was  a  reduction  in  the  weight  of  gravid  uterus  (0  to  16  %),  probably  due  to  a reduction of the number of ovarian corporea lutea and implantations.
 
-There  was  no  evidence  of  embryo-foetal  toxicity  in  rats,  but  at  the  high  dose  (2240  mg/kg/day  or 1498  mg/kg/day  amprenavir  equivalents)  exposure  was  lower  than  the  expected  human  exposure. In  rabbits,  no  overt  teratogenicity  was  noted,  but  there  was  a  positive  trend  for  foetal  soft  tissue variations including small or missing intermediate lung lobe in the high dose group although these are likely to be due to maternal toxicity which occurred at low exposure levels. In this study, even at high dose (672.8 or 450 mg/kg/day amprenavir equivalents), exposure to amprenavir was only 0.3 fold that seen in humans administered the maximum proposed clinical dose.
-
-In the pre and postnatal study in rats, fosamprenavir (calcium salt) caused a reduction in pup survival and weight at the high dose (2240 mg/kg/day or 1498 mg/kg/day amprenavir equivalents). Deceased pups often showed diminished milk content of the stomach. There were also signs of delayed physical and functional development. After pups reached maturity and were mated, reproductive effects were observed including a decreased number of implantation sites per litter and a prolongation of gestation. No safety margin could be established due to the limited systemic exposure in animals.
-
-Overall, fosamprenavir should be used during pregnancy, only if the potential benefit to the mother justifies the potential risk to the foetus. In addition, fosamprenavir should not be recommended during lactation.
-
-## · Other toxicity studies
-
-Fosamprenavir  (calcium  salt)  did  not  cause  any  irritation  when  applied  to  the  rabbit  eye  but  was classified as a mild irritant to rabbit skin. It showed no sensitising potential in guinea pigs.
+There  was  no  evidence  of  embryo-foetal  toxicity  in  rats,  but  at  the  high  dose  (2240  mg/kg/day  or 1498  mg/kg/day  amprenavir  equivalents)  exposure  was  lower  than  the  expected  human  exposure. In  rabbits,  no  overt  teratogenicity  was  noted,  but  there  was  a  positive  trend  for  foetal  soft  tissue variations including small or missing intermediate lung lobe in the high dose group although these are likely to be due to maternal toxicity which occurred at low exposure levels. In this study, even at high dose (672.8 or 450 mg/kg/day amprenavir equivalents), exposure to amprenavir was only 0.3 fold that seen in humans administered the maximum proposed clinical dose. In the pre and postnatal study in rats, fosamprenavir (calcium salt) caused a reduction in pup survival and weight at the high dose (2240 mg/kg/day or 1498 mg/kg/day amprenavir equivalents). Deceased pups often showed diminished milk content of the stomach. There were also signs of delayed physical and functional development. After pups reached maturity and were mated, reproductive effects were observed including a decreased number of implantation sites per litter and a prolongation of gestation. No safety margin could be established due to the limited systemic exposure in animals. Overall, fosamprenavir should be used during pregnancy, only if the potential benefit to the mother justifies the potential risk to the foetus. In addition, fosamprenavir should not be recommended during lactation. · Other toxicity studies Fosamprenavir  (calcium  salt)  did  not  cause  any  irritation  when  applied  to  the  rabbit  eye  but  was classified as a mild irritant to rabbit skin. It showed no sensitising potential in guinea pigs. Medicinal product no longer authorised
 
 A  28  days  immunotoxicity  study  was  conducted  in  rats  given  orally  doses  of  0,  300  and  1500 mg/kg/day of fosamprenavir calcium salt. There was no alteration of the primary antibody response to keyhole limpet hemocyanin. Fosamprenavir was not immunotoxic.
 
@@ -349,6 +305,8 @@ The applicant claimed that all studies were performed according to Good Clinical
 
 As already mentioned in section 3.3 of this document, fosamprenavir is the phosphate ester prodrug of amprenavir. Per se , it has little or no antiretroviral activity but requires in-vivo metabolism to release the active moiety, amprenavir, which is a selective inhibitor of HIV-1 and HIV-2 replication.
 
+Medicinal product no longer authorised
+
 ## · Resistance in vitro
 
 HIV-1 isolates with a decreased susceptibility to amprenavir have been selected in vitro . In vitro serial passage  experiments  have  demonstrated  that  I50V  was  the  key  protease  mutation  associated  with amprenavir  resistance.  Mutation  I84V  was  observed  transiently.  More  recently,  protease  mutations I54M and V32I + I47V have also been identified during serial passage in the presence of amprenavir.
@@ -367,21 +325,7 @@ In antiretroviral-experienced patients (study APV30003), no relationship was est
 
 In this study administration of fosamprenavir 700 mg twice daily with ritonavir 100 mg twice daily resulted  in  plasma  amprenavir  trough  concentrations  (geometric  mean  Cmin  1.74 µ g/ml)  above  the median IC50 value reported in this study (0.008 µ g/ml [0.001-0.144]).
 
-## Pharmacokinetics
-
-The  pharmacokinetics  profile  was  determined  in  a  series  of  studies  mainly  in  healthy  volunteers following  single  and  multiple  dose  administration  of  fosamprenavir  with  or  without  low  dose  of ritonavir as a pharmacokinetic enhancer.
-
-After  a  clean-up  step  (solid  phase-extraction,  protein  precipitation)  samples  were  analysed  by HPLC/MS/MS.
-
-## · Absorption - Distribution
-
-Preclinical studies showed that fosamprenavir is almost completely (99 %) hydrolysed to amprenavir at or near the intestinal membrane via alkaline phosphatase prior to reaching the systemic circulation. The rapid and extensive conversion of fosamprenavir to amprenavir has been confirmed in clinical studies  (equimolar  doses  of  fosamprenavir  and  amprenavir  achieved  equivalent  amprenavir  AUC values and the fosamprenavir AUC was &lt; 0.6 % of corresponding amprenavir AUC).
-
-Maximum amprenavir peak plasma concentrations were observed approximately 2 hours after single and multiple dose administration of fosamprenavir.
-
-The absolute bioavailability of fosamprenavir in humans has not been established.
-
-A  greater than proportional increase in plasma  amprenavir  AUC ∞ was observed following fosamprenavir single dose administration of 1395 mg and 1860 mg (AUC ∞ /dose ratio: 0.019 for the 1395 mg dose and 0.026 for the 1860 mg dose).
+Pharmacokinetics The  pharmacokinetics  profile  was  determined  in  a  series  of  studies  mainly  in  healthy  volunteers following  single  and  multiple  dose  administration  of  fosamprenavir  with  or  without  low  dose  of ritonavir as a pharmacokinetic enhancer. After  a  clean-up  step  (solid  phase-extraction,  protein  precipitation)  samples  were  analysed  by HPLC/MS/MS. · Absorption - Distribution Preclinical studies showed that fosamprenavir is almost completely (99 %) hydrolysed to amprenavir at or near the intestinal membrane via alkaline phosphatase prior to reaching the systemic circulation. The rapid and extensive conversion of fosamprenavir to amprenavir has been confirmed in clinical studies  (equimolar  doses  of  fosamprenavir  and  amprenavir  achieved  equivalent  amprenavir  AUC values and the fosamprenavir AUC was &lt; 0.6 % of corresponding amprenavir AUC). Maximum amprenavir peak plasma concentrations were observed approximately 2 hours after single and multiple dose administration of fosamprenavir. The absolute bioavailability of fosamprenavir in humans has not been established. A  greater than proportional increase in plasma  amprenavir  AUC ∞ was observed following fosamprenavir single dose administration of 1395 mg and 1860 mg (AUC ∞ /dose ratio: 0.019 for the 1395 mg dose and 0.026 for the 1860 mg dose). Medicinal product no longer authorised
 
 Upon repeat dosing of fosamprenavir 1395 mg (molar equivalent of 1200 mg of amprenavir) BID to HIV-infected  patients  a  decrease  in  amprenavir  AUC  at  steady-state  was  observed  compared  with single dose administration (AUC τ ,ss,: 16.5h* µ g/ml versus AUC ∞ : 22.8h* µ g/ml).
 
@@ -403,17 +347,9 @@ The  apparent  oral  volume  of  distribution  of  amprenavir  is  approximately
 
 Limited data indicate that amprenavir penetrates into semen. The cerebrospinal spinal fluid to plasma concentration ratio was &lt; 1 %, indicating a poor penetration.
 
-## · Metabolism - Elimination
-
-Amprenavir is  primarily  metabolised  by  the  liver.  As  demonstrated in  vitro ,  the  metabolism  is via cytochrome P450, mainly CYP 3A4 isoenzyme. Amprenavir also inhibits CYP3A4 and potentially is a mild CYP3A4 inducer.
-
-The elimination  pathway for  amprenavir  is  mainly  through  the  faeces.  Total  recovery  of  a  600  mg dose was 89 % (range 66-93 %) primarily as oxidative metabolites in the urine (approximately 14 %) and in faeces (approximately 75 %). Total excretion of amprenavir in the urine over 24 hours was less than  1  %  of  the  administered  dose.  Plasma  elimination  half-life  of  amprenavir,  after  fosamprenavir administration is approximately 7.7 hours, which is comparable to that after amprenavir administration. When fosamprenavir is boosted with low dose of ritonavir, the half-life of amprenavir is increased to 15-23 hours .
-
-## · Comparison between the clinical trials formulation with the formulations to be marketed
-
-In the early studies, the disodium and the calcium salts were administered both as an oral suspension. The calcium salt 1728 mg (equivalent to 1395 mg fosamprenavir) that delivered an equivalent plasma amprenavir  AUC ∞ ,  and  a  27  %  lower  Cmax  than  amprenavir  1200  mg  was  selected  for  further development .
-
 With  regard  to  700  mg  film-coated  tablet,  as  already  mentioned  in  the  Quality  section  of  this document,  three variants A, B, C  have been used in the  clinical  development  programme corresponding to differences in drug substance and drug product scale up and in the drug substance particle size. There was a concern that the mix of these different variants of different exposure (variant B and C exhibiting lower plasma amprenavir exposures: 13 and 16 % in comparison to variant A) might have influenced the efficacy demonstration. To address this concern, the applicant conducted one study (APV10021) showing that scale up of the drug product had no impact in-vivo (see table 1).
+
+· Metabolism - Elimination Amprenavir is  primarily  metabolised  by  the  liver.  As  demonstrated in  vitro ,  the  metabolism  is via cytochrome P450, mainly CYP 3A4 isoenzyme. Amprenavir also inhibits CYP3A4 and potentially is a mild CYP3A4 inducer. The elimination  pathway for  amprenavir  is  mainly  through  the  faeces.  Total  recovery  of  a  600  mg dose was 89 % (range 66-93 %) primarily as oxidative metabolites in the urine (approximately 14 %) and in faeces (approximately 75 %). Total excretion of amprenavir in the urine over 24 hours was less than  1  %  of  the  administered  dose.  Plasma  elimination  half-life  of  amprenavir,  after  fosamprenavir administration is approximately 7.7 hours, which is comparable to that after amprenavir administration. When fosamprenavir is boosted with low dose of ritonavir, the half-life of amprenavir is increased to 15-23 hours . · Comparison between the clinical trials formulation with the formulations to be marketed In the early studies, the disodium and the calcium salts were administered both as an oral suspension. The calcium salt 1728 mg (equivalent to 1395 mg fosamprenavir) that delivered an equivalent plasma amprenavir  AUC ∞ ,  and  a  27  %  lower  Cmax  than  amprenavir  1200  mg  was  selected  for  further development . Medicinal product no longer authorised
 
 Table 1: APV10021 Bioequivalence Analysis
 
@@ -425,6 +361,8 @@ Table 1: APV10021 Bioequivalence Analysis
 | AUC ∞ ( µ g.h/ml)   | 23.76                           | 24.12                               | 1.02 (0.97-1.06)          |
 | AUClast ( µ g.h/ml) | 22.51                           | 23.05                               | 1.02 (0.98-1.07)          |
 | Cmax ( µ g/ml)      | 5.15                            | 5.38                                | 1.04 (0.98-1.11)          |
+
+2 Treatment B: 2 oral film-coated 700mg tablets (new variant A), unmilled drug substance manufactured at 45 kg scale and drug product manufactured at production scale
 
 <div style=\"page-break-after: always\"></div>
 
@@ -459,6 +397,8 @@ Considering the small portion of the dose recovered in the urine, no specific st
 
 There are currently no data in patients with hepatic impairment. Therefore fosamprenavir boosted with ritonavir should be administered with caution in patients with mild and moderate hepatic impairment and  is  contraindicated  in  patients  with  severe  hepatic  impairment.  Data  to  support  the  use  of fosamprenavir in patients with various degrees of hepatic impairment will be submitted as part of the follow-up measures to be fulfilled post-authorisation
 
+Medicinal product no longer authorised
+
 ## · Interaction studies
 
 Amprenavir  and  ritonavir  are  both  substrate  and  inhibitor  of  CYP3A4,  with  ritonavir  being  more potent inhibitor than amprenavir. Amprenavir is potentially a mild CYP3A4 inducer and is a substrate and inducer of P-gp. Ritonavir also inhibits CYP2D6 and induces CYP3A4, CYP1A2, CYP2C9 and glucuronosyl transferase. Fosamprenavir solubility is also significantly reduced at pH greater than 5.
@@ -483,13 +423,17 @@ A further investigation has been performed with three different regimens:
 - 2) fosamprenavir  700mg  BID  +  ritonavir  100mg  BID  administered  4  hours  prior  to  lopinavir 400mg/ritonavir 100mg BID
 - 3) fosamprenavir  1400mg  OD  +  ritonavir  200mg  OD  administered  12  hours  prior  to  lopinavir 800mg/ritonavir 200mg OD.
 
-Preliminary  data  suggest  that  for  all  three  regimens,  plasma  amprenavir  concentrations  were  lower than historical control data for fosamprenavir 700 mg BID with ritonavir 100 mg BID. The treatments that  included  separation  of  dosing  along  with  increased  ritonavir  doses  did  not  appear  to  improve plasma amprenavir pharmacokinetics, although lopinavir concentrations appeared to be maintained. Overall, these studies do not allow drawing adequate dosage recommendations . In-vitro investigations suggest that induction and inhibition of metabolic and potentially transport processes play a role in the potential  mechanism  for  this  interaction.  As  some  heavily  treatment-experienced  patients  might benefit from a salvage regimen containing lopinavir/ritonavir and fosamprenavir these data have been reflected  in  the  Summary  of  Product  Characteristics  highlighting  that  appropriate  dose  of  the combination has not yet been defined in terms of efficacy and safety.
+Preliminary  data  suggest  that  for  all  three  regimens,  plasma  amprenavir  concentrations  were  lower than historical control data for fosamprenavir 700 mg BID with ritonavir 100 mg BID. The treatments that  included  separation  of  dosing  along  with  increased  ritonavir  doses  did  not  appear  to  improve plasma amprenavir pharmacokinetics, although lopinavir concentrations appeared to be maintained.
+
+Overall, these studies do not allow drawing adequate dosage recommendations . In-vitro investigations suggest that induction and inhibition of metabolic and potentially transport processes play a role in the potential  mechanism  for  this  interaction.  As  some  heavily  treatment-experienced  patients  might benefit from a salvage regimen containing lopinavir/ritonavir and fosamprenavir these data have been reflected  in  the  Summary  of  Product  Characteristics  highlighting  that  appropriate  dose  of  the combination has not yet been defined in terms of efficacy and safety.
 
 Potential interaction between fosamprenavir boosted with ritonavir and other protease inhibitors has not be studied.
 
 ## Nevirapine
 
 Based on its  effects  on  other  protease  inhibitors,  nevirapine  might  decrease  serum  concentration  of amprenavir when co-administered with fosamprenavir boosted with ritonavir. Therefore the applicant is committed to perform an interaction study to establish an appropriate dosage recommendation, the results of which will be submitted post-authorisation.
+
+Medicinal product no longer authorised
 
 No specific  interaction  study  has  been  performed  with  NRTIs,  however  the  applicant  undertook  to provide data on the co-administration between fosamprenavir with ritonavir and tenofovir disoproxil fumarate, as part of the follow-up measures to be fulfilled post-authorisation
 
@@ -519,12 +463,14 @@ An overview of the main clinical studies submitted to support the efficacy and s
 
 Table 3: Overview of main clinical studies with fosamprenavir
 
-| Study                                       | Population                          | Treatment                                                                                                                                                                       | N Treated patients                             | Endpoint                                                                                                                                                                                                                                                      |
-|---------------------------------------------|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Main studies                                |                                     |                                                                                                                                                                                 |                                                |                                                                                                                                                                                                                                                               |
-| APV30002 908 boosted with RTV and OD        | Antiretroviral naïve patients       | Treatment 1: 908 1400mg OD + RTV 200mg OD + ABC 300mg BID + LAM 150mg BID Treatment 2: NFV 1250mg BID + ABC 300mg BID + LAM 150mg BID                                           | 908/RTV N=322 NFV N=327                        | A l ower limit of the 95% confidence interval of the difference between 908/RTV and NFV in term of %of patients with undetectable viral load LOQ 400 copies/ml at 48 weeks of greater than -12% would demonstrate non inferiority                             |
-| APV30001 (supportive) 908 unboosted and BID | Antiretroviral naïve patients       | Treatment 1: 908 1400mg BID + ABC 300mg BID + LAM 150mg BID Treatment 2: NFV 1250mg BID + ABC 300mg BID + LAM 150mg BID                                                         | 908 N=166 NFV N=83                             | With an upper limit of the 95% confidence interval for the difference between 908 and NFV in mean AAUCMB less than 0.5 log10 copies/ml, non inferiority would be demonstrated at 48 weeks.                                                                    |
-| APV30003 908 boosted with RTV OD or BID     | Antiretroviral experienced patients | Treatment 1: 908 700mg BID + RTV 100mg BID + two active RTIs Treatment 2: 908 1400mg OD + RTV 200mg OD + two active RTIs Treatment 3: LPV 400mg/RTV 100mg BID + two active RTIs | 908/RTVOD N=105 908/RTVBID N=107 LPV/RTV N=103 | With an upper limit of 97.5% confidence interval of the difference in mean AAUCMB for log10 plasma HIV-1 RNA at 24 and 48 weeks less than 0.5 log 10 copies/ml between 908/RTV OD and LPV/RTV and 908/RTV BID and LPV/RTV would demonstrate non inferiority). |
+<!-- image -->
+
+| Study                                       | Population                              | Treatment                                                                                                                                                                       | N Treated patients                             | Endpoint                                                                                                                                                                                                                                                      |
+|---------------------------------------------|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Main studies                                |                                         |                                                                                                                                                                                 |                                                |                                                                                                                                                                                                                                                               |
+| APV30002 908 boosted with RTV and OD        | Antiretroviral naïve patients           | Treatment 1: 908 1400mg OD + RTV 200mg OD + ABC 300mg BID + LAM 150mg BID Treatment 2: NFV 1250mg BID + ABC 300mg BID + LAM 150mg BID product no longer                         | 908/RTV N=322 NFV N=327                        | A l ower limit of the 95% confidence interval of the difference between 908/RTV and NFV in term of %of patients with undetectable viral load LOQ 400 copies/ml at 48 weeks of greater than -12% would demonstrate non inferiority                             |
+| APV30001 (supportive) 908 unboosted and BID | Antiretroviral naïve patients Medicinal | Treatment 1: 908 1400mg BID + ABC 300mg BID + LAM 150mg BID Treatment 2: NFV 1250mg BID + ABC 300mg BID + LAM 150mg BID                                                         | 908 N=166 NFV N=83                             | With an upper limit of the 95% confidence interval for the difference between 908 and NFV in mean AAUCMB less than 0.5 log10 copies/ml, non inferiority would be demonstrated at 48 weeks.                                                                    |
+| APV30003 908 boosted with RTV OD or BID     | Antiretroviral experienced patients     | Treatment 1: 908 700mg BID + RTV 100mg BID + two active RTIs Treatment 2: 908 1400mg OD + RTV 200mg OD + two active RTIs Treatment 3: LPV 400mg/RTV 100mg BID + two active RTIs | 908/RTVOD N=105 908/RTVBID N=107 LPV/RTV N=103 | With an upper limit of 97.5% confidence interval of the difference in mean AAUCMB for log10 plasma HIV-1 RNA at 24 and 48 weeks less than 0.5 log 10 copies/ml between 908/RTV OD and LPV/RTV and 908/RTV BID and LPV/RTV would demonstrate non inferiority). |
 
 908 = fosamprenavir; RTV = ritonavir; NFV = nelfinavir; ABC = abacavir; LAM = lamivudine and LPV = lopinavir; OD = once daily; BID = twice daily and LOQ = Limit of quantification; AAUCMB = Average area under the curve minus baseline.
 
@@ -544,18 +490,19 @@ Results,  as  displayed  in  the  table  4  below,  showed  comparable  pharmaco
 
 Table 4: Plasma APV PK Parameters
 
-|                         | Geometric Mean (95% CI)    | Geometric Mean (95% CI)                     | Geometric Mean (95% CI)    | Geometric Mean (95% CI)                     |
-|-------------------------|----------------------------|---------------------------------------------|----------------------------|---------------------------------------------|
-| Plasma APV PK Parameter | APV 600 mg BID for 14 days | APV 600 mg BID + RTV 100 mg BID for 14 days | FPV 700 mg BID for 14 days | FPV 700 mg BID + RTV 100 mg BID for 14 days |
-| AUC τ , ss ( µ g.h/ml)  | 8.21 (6.38 - 10.6)         | 26.2 (22.3 - 30.9)                          | 9.51 (7.81 - 11.6)         | 33.2 (28.0 - 39.5)                          |
-| Cmax, ss ( µ g/ml)      | 3.66 (2.76 - 4.84)         | 4.69 (3.97 - 5.54)                          | 3.19 (2.64 - 3.85)         | 4.92 (4.19 - 5.77)                          |
-| C τ , ss ( µ g/ml)      | 0.122 (0.071 - 0.207)      | 1.32 (1.11 - 1.57)                          | 0.135 (0.099 - 0.183)      | 1.77 (1.48 - 2.13)                          |
+<!-- image -->
 
-APV = amprenavir; RTV = ritonavir ; FPV = fosamprenavir
+|                                                                                                                                                 | Geometric Mean (95% CI)                                                                                                                         | Geometric Mean (95% CI)                                                                                                                         | Geometric Mean (95% CI)                                                                                                                         |
+|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| Plasma APV PK Parameter                                                                                                                         | APV 600 mg BID for 14 days APV 600 mg BID RTV 100 mg for 14 days                                                                                | + BID FPV 700 mg BID for 14 days                                                                                                                | FPV 700 mg BID + RTV 100 mg BID for 14 days                                                                                                     |
+| AUC τ , ss ( µ g.h/ml) (6.38                                                                                                                    | 8.21 - 10.6) 26.2 (22.3 - 30.9)                                                                                                                 | 9.51 (7.81 - 11.6)                                                                                                                              | 33.2 (28.0 - 39.5)                                                                                                                              |
+| Cmax, ss ( µ g/ml)                                                                                                                              | 3.66 4.69 (3.97 - 5.54)                                                                                                                         | 3.19 (2.64 - 3.85)                                                                                                                              | 4.92 (4.19 - 5.77)                                                                                                                              |
+| (2.76 C τ , ss ( µ g/ml) 0.122 (0.071 Medicinal                                                                                                 | - 4.84) - 0.207) 1.32 (1.11 - 1.57)                                                                                                             | 0.135 (0.099 - 0.183)                                                                                                                           | 1.77 (1.48 - 2.13)                                                                                                                              |
+| APV = amprenavir; RTV = ritonavir ; FPV = fosamprenavir Each fosamprenavir oral film-coated 700 mg tablet is the molar equivalent of 600 mg APV | APV = amprenavir; RTV = ritonavir ; FPV = fosamprenavir Each fosamprenavir oral film-coated 700 mg tablet is the molar equivalent of 600 mg APV | APV = amprenavir; RTV = ritonavir ; FPV = fosamprenavir Each fosamprenavir oral film-coated 700 mg tablet is the molar equivalent of 600 mg APV | APV = amprenavir; RTV = ritonavir ; FPV = fosamprenavir Each fosamprenavir oral film-coated 700 mg tablet is the molar equivalent of 600 mg APV |
 
-Each fosamprenavir oral film-coated 700 mg tablet is the molar equivalent of 600 mg APV
+Medicinal product no longer authorised
 
-## · Main study (ies)
+- Main study (ies)
 
 ## Studies in antiretroviral treatment-naïve adult patients: Studies APV 30002 (APV 30005) and APV 30001
 
@@ -592,6 +539,8 @@ The intent-to treat exposed (ITT (E)) population was the primary population for 
 
 Rebound  or  Discontinuation  =  Failure  (RD=F); Patients  were  considered  as  failures  (nonresponders)  if  they  never  achieved  virologic  suppression  (&lt;400  copies/ml  or  &lt;50  copies/ml  as appropriate) by the designated timepoint, or following initial suppression the viral load rebounded (&gt; 400 copies/ml or &gt; 50 copies/ml on two consecutive occasions). Patients with missing values were only considered failures if they were considered a failure at either the previous or subsequent visit. Patients  were  also  considered  as  failures  if  they  discontinued  randomised  study  medication  for  any reason.
 
+Medicinal product no longer authorised
+
 ## Missing or Discontinuation = Failure (MD=F)
 
 Patients  were  considered  as  failures  (non-responders)  if  they  never  achieved  virologic  supression (&lt;400  copies/ml  or  &lt;50  copies/ml  as  appropriate)  by  the  designated  timepoint,  or  following  initial suppression the viral load rebounded (&gt; 400 copies/ml or &gt; 50 copies/ml on at least one occasion). Patients  were  considered  as  failures  if  they  had  a  missing  value  at  the  designated  timepoint irrespective of available values at previous or subsequent visits.
@@ -612,28 +561,16 @@ Observed analysis: Only subjects with data at a visit were included in the analy
 
 The population enrolled was mostly male (73 %), white (53 %), had a viral load of approximately 4.8 log10 copies/ml (with a significant proportion of patients (43%) with a viral load &gt;100 000 copies/ml, and 16% &gt; 500 000 copies/ml) and a CD4 cell count of approximately 170/mm 3 (55% with CD4 cell count &lt; 200/mm 3 ), with 22% being CDC stage C. Intravenous drug users were allowed to be enrolled (14 %) as well as HBV- HCV co-infected patients.
 
-A total of 660 patients were randomised. Of these, 649 patients received at least one dose of study drug: 322 (50%) in the fosamprenavir boosted OD group and 327 (50%) in the nelfinavir BID group. Four hundred and seventy three subjects (73%) completed at least 48 weeks of randomised treatment.
-
-A significant number of patients experienced premature discontinuation at 48 weeks (27%). Among the reasons for  premature  discontinuations  a  higher  rate  of  protocol  switch  criterion  in  the nelfinavir arm (8 % versus &lt; 1 %) and a higher rate of adverse events in the fosamprenavir boosted OD arm were observed (9 % versus 5 %).
-
-## Outcomes and estimation
-
-The results on the primary endpoint at weeks 48 are displayed in table 5:
-
-Table 5: Proportion of patients with plasma HIV-RNA &lt; 400 copies/ml at week 48
-
-| Population      | 908/RTV OD %(n/N)   | NFV BID %(n/N)   | Stratified Difference   | 95%CI     |
-|-----------------|---------------------|------------------|-------------------------|-----------|
-| ITT(E) RD=F     | 69 (221/322)        | 68 (221/327)     | 1%                      | -6 %,8%   |
-| ITT(E) MD=F     | 68 (220/322)        | 65 (213/327)     | 3%                      | -4 %, 10% |
-| ITT(E) Observed | 95 (222/234)        | 90 (234/261)     | 5%                      | 0 %, 10%  |
-| Per-Protocol    | 95 (215/226)        | 91 (215/237)     | 4%                      | 0 %,9%    |
-
-908 = fosamprenavir; RTV = ritonavir. NFV = nelfinavir; ITT = intent to treat;
-
-RD=F = Rebound or Discontinuation = Failure; MD=F = Missing or Discontinuation = Failure
+| Population      | 908/RTV OD %(n/N)         | NFV BID %(n/N) Stratified Difference product   | 95%CI     |
+|-----------------|---------------------------|------------------------------------------------|-----------|
+| ITT(E) RD=F     | 69 (221/322) 68           | (221/327) 1%                                   | -6 %,8%   |
+| ITT(E) MD=F     | 68 (220/322) 65 (213/327) | 3%                                             | -4 %, 10% |
+| ITT(E) Observed | 95 (222/234) 90 (234/261) | 5%                                             | 0 %, 10%  |
+| Per-Protocol    | 95 (215/226) 91 (215/237) | 4%                                             | 0 %,9%    |
 
 Results  in  the  ITT  and  per  protocol  analyses  were  in  accordance  with  the  12  %  predefined  noninferiority  margin  (lower  limit  of  95%  confidence  interval  of  the  difference  between  fosamprenavir boosted OD and nelfinavir in term of percentages of patients with viral loadless than 400 copies/ml above -12.
+
+A total of 660 patients were randomised. Of these, 649 patients received at least one dose of study drug: 322 (50%) in the fosamprenavir boosted OD group and 327 (50%) in the nelfinavir BID group. Four hundred and seventy three subjects (73%) completed at least 48 weeks of randomised treatment. A significant number of patients experienced premature discontinuation at 48 weeks (27%). Among the reasons for  premature  discontinuations  a  higher  rate  of  protocol  switch  criterion  in  the nelfinavir arm (8 % versus &lt; 1 %) and a higher rate of adverse events in the fosamprenavir boosted OD arm were observed (9 % versus 5 %). Outcomes and estimation The results on the primary endpoint at weeks 48 are displayed in table 5: Table 5: Proportion of patients with plasma HIV-RNA &lt; 400 copies/ml at week 48 908 = fosamprenavir; RTV = ritonavir. NFV = nelfinavir; ITT = intent to treat; RD=F = Rebound or Discontinuation = Failure; MD=F = Missing or Discontinuation = Failure Medicinal product no longer authorised
 
 Results were always in favour of the fosamprenavir boosted OD arm and the 48 weeks data allowed a reliable interpretation of the durability of the antiviral activity.
 
@@ -655,7 +592,7 @@ Table  6:  Proportion  of  Subjects  in  APV30002/APV30005  with  Plasma  HIV-1 
 
 |                             | 400 copies/ml   | 400 copies/ml           | 400 copies/ml   | 50 copies/ml   | 50 copies/ml            | 50 copies/ml   |
 |-----------------------------|-----------------|-------------------------|-----------------|----------------|-------------------------|----------------|
-| Plasma HIV-1 RNA Stratum    |                 | 908/RTV OD N=210 %(n/N) |                 |                | 908/RTV OD N=210 %(n/N) |                |
+| Plasma HIV-1 RNA Stratum    |                 | 908/RTV OD N=210 %(n/N) |                 | authorised     | 908/RTV OD N=210 %(n/N) |                |
 |                             | Week 24         | Week 48                 | Week 96         | Week 24        | Week 48                 | Week 96        |
 | <10,000 copies/ml           | 100 (16/16)     | 100 (16/16)             | 100 (10/10)     | 94 (15/16)     | 88 (14/16)              | 100 (10/10)    |
 | >10,000 - 100,000 copies/ml | >99 (108/109)   | 96 (106/110)            | 98 (56/57)      | 83 (90/109)    | 85 (93/110)             | 89 (51/57)     |
@@ -665,17 +602,9 @@ Table  6:  Proportion  of  Subjects  in  APV30002/APV30005  with  Plasma  HIV-1 
 | >500,000                    | 92 (34/37)      | 89 (33/37)              | 89 (16/18)      | 30 (11/37)     | 59 (22/37)              | 67 (12/18)     |
 | Total Population            | 98 (201/206)    | 96 (198/207)            | 96 (109/113)    | 69 (142/206)   | 78 (162/207)            | 86 (97/113)    |
 
-908 = fosamprenavir; RTV = ritonavir
-
-The above results suggest a durability of the antiviral response although these should be taken with caution in view of the design of the study.
-
-## Study APV 30001
-
-This  randomised,  parallel  group,  2  arms,  open  label  study  is  considered  more  as  supportive  than confirmatory since fosamprenavir was used unboosted.
-
-Patients  were  randomised  2:1  to  either  receive  fosamprenavir  1400  mg  BID  or  nelfinavir  1250  mg BID, when administered in combination with abacavir 300 mg BID and lamivudine 150 mg BID. The study was primarily designed to provide safety data on fosamprenavir, and was statistically powered on the endpoint of plasma HIV-1 RNA average area under the curve minus baseline (AAUCMB), a secondary  endpoint.  The  primary  endpoint  was  the  proportion  of  patients  with  plasma  HIV  RNA &lt; 400 copies/ml at week 24 and 48.
-
 A total of 249 patients were randomised and received treatment with fosamprenavir BID (n = 166) or nelfinavir  BID  (n  =  83).  Most  patients  were  male  and  American  Hispanic  or  Black.  The  median plasma HIV-1 RNA levels was 4.83-log10 copies/ml, the median baseline CD4 cell count was 212 cells/mm 3 at baseline and 20 % of patients had a prior history of a CDC Class C event.
+
+Plasma HIV-1 RNA Stratum &lt;10,000 copies/ml &gt;10,000 - 100,000 copies/ml &gt;100,000 copies/ml Total Population 908 = fosamprenavir; RTV = ritonavir The above results suggest a durability of the antiviral response although these should be taken with caution in view of the design of the study. Study APV 30001 This  randomised,  parallel  group,  2  arms,  open  label  study  is  considered  more  as  supportive  than confirmatory since fosamprenavir was used unboosted. Patients  were  randomised  2:1  to  either  receive  fosamprenavir  1400  mg  BID  or  nelfinavir  1250  mg BID, when administered in combination with abacavir 300 mg BID and lamivudine 150 mg BID. The study was primarily designed to provide safety data on fosamprenavir, and was statistically powered on the endpoint of plasma HIV-1 RNA average area under the curve minus baseline (AAUCMB), a secondary  endpoint.  The  primary  endpoint  was  the  proportion  of  patients  with  plasma  HIV  RNA &lt; 400 copies/ml at week 24 and 48. Medicinal product no longer authorised
 
 ## Results
 
@@ -700,20 +629,8 @@ In the ITT (RD = F) analysis, the proportion of patients with plasma HIV-1 RNA &
 
 This is a phase III randomised, parallel group, three-arm, open-label study to compare the safety and efficacy of OD  and  BID  dosing regimens of fosamprenavir boosted with ritonavir versus lopinavir/ritonavir in combination with two active RTIs.
 
-Patients were antiretroviral experienced i.e. previous experience with one or two protease inhibitor(s) (ritonavir given at a dose ≤ 400 mg in combination with another PI was counted as one PI; a PI taken alone and later in a ritonavir boosted regimen was counted as two different PIs); received at least 12 consecutive  weeks  of  prior  protease  inhibitor  therapy  (up  to  two  prior  PIs),  with  documented virological failure on a prior PI regimen, defined as having plasma HIV-1 RNA that never went below 1000 copies/ml after at least 12 consecutive weeks of PI therapy, or initial suppression of HIV-1 RNA which subsequently rebounded to ≥ 1000 copies/ml.
+Patients were antiretroviral experienced i.e. previous experience with one or two protease inhibitor(s) (ritonavir given at a dose ≤ 400 mg in combination with another PI was counted as one PI; a PI taken alone and later in a ritonavir boosted regimen was counted as two different PIs); received at least 12 consecutive  weeks  of  prior  protease  inhibitor  therapy  (up  to  two  prior  PIs),  with  documented virological failure on a prior PI regimen, defined as having plasma HIV-1 RNA that never went below 1000 copies/ml after at least 12 consecutive weeks of PI therapy, or initial suppression of HIV-1 RNA which subsequently rebounded to ≥ 1000 copies/ml. Patients  had  plasma  HIV RNA  viral  load ≥ 1000 copies/ml  and  were  stratified  at  screening.  There were no prerequisite in term of CD4 cell counts. In  line  with  the  CPMP  'Note  for  Guidance  on  the  clinical  development  of  medicinal  products  for treatment  of  HIV  infection',  hepatitis  co-infected  patients  could  have  been  enrolled.  However  coinfected patients could enter provided that they had no history of clinically relevant or hepatitis within the previous 6 months. Intravenous drug users, who are expected to exhibit a lesser compliance, could also be enrolled. Outcomes/endpoints The primary efficacy endpoint was average area under the curve minus baseline (AAUCMB) in log10 plasma HIV-1 RNA at 24 and 48 weeks. Secondary efficacy endpoints included: -change from baseline in log10 plasma HIV-1 RNA over 24 and 48 weeks; -proportion of patients with plasma HIV-1 RNA levels &lt; 400 and &lt; 50 copies/ml over 24 weeks and 48 weeks; Medicinal product no longer authorised
 
-Patients  had  plasma  HIV RNA  viral  load ≥ 1000 copies/ml  and  were  stratified  at  screening.  There were no prerequisite in term of CD4 cell counts.
-
-In  line  with  the  CPMP  'Note  for  Guidance  on  the  clinical  development  of  medicinal  products  for treatment  of  HIV  infection',  hepatitis  co-infected  patients  could  have  been  enrolled.  However  coinfected patients could enter provided that they had no history of clinically relevant or hepatitis within the previous 6 months. Intravenous drug users, who are expected to exhibit a lesser compliance, could also be enrolled.
-
-## Outcomes/endpoints
-
-The primary efficacy endpoint was average area under the curve minus baseline (AAUCMB) in log10 plasma HIV-1 RNA at 24 and 48 weeks.
-
-Secondary efficacy endpoints included:
-
-- -change from baseline in log10 plasma HIV-1 RNA over 24 and 48 weeks;
-- -proportion of patients with plasma HIV-1 RNA levels &lt; 400 and &lt; 50 copies/ml over 24 weeks and 48 weeks;
 - -time to treatment failure; this was defined as the number of days from the first dose of study medication (Study Day 1) to the first of the following events: confirmed plasma HIV-1 RNA above 400 copies/ml, permanent discontinuation of randomized therapy, HIV  disease progression or death. To be a confirmed plasma HIV-1 RNA above 400 copies/ml the patient should  have  had  two  values  above  400  following  two  values  below  400;  patients  who  never went below 400 were considered to be treatment failures at Day 1. A similar definition based around  50  copies/ml  was  used  to  calculate  'time  to  treatment  failure  (50  copies/ml)'  and  a similar definition based around achieving 1 log copies/ml below baseline was used to calculate 'time to treatment failure (1 log copies/ml below baseline)'
 - -proportion of patients with ≥ 1.0 log10 decrease in HIV-1 RNA at 24 and 48 weeks;
 - -change from baseline and AAUCMB in CD4+ cell count over 24 weeks and 48 weeks.
@@ -728,46 +645,30 @@ then  48  weeks.  A  non-inferiority  margin  of  0.5-log10  copies/ml  was  con
 
 ## Results
 
-Patients' disposal
+## Patients' disposal
 
 Overall, the population enrolled had a median age of 40 years, was mostly male and White. A limited proportion of women have been enrolled in this study 15%. Patients had a viral load of approximately 4-log10 copies/ml (only 12% of patients had a viral load &gt; 5 log10 copies/ml) and a CD4 cell count of approximately 260/mm 3 (33% with CD4 cell count &lt;200/ mm 3 ),  with  a  significant  proportion  being CDC stage C (33%).
 
-The  population  mainly  consists  of  patients  with  moderate  antiretroviral  experience.  Only  65%  of patients were receiving a PI therapy at entry. There is a trend for more extensive prior PI experience in the fosamprenavir-boosted arms in particular in the once daily regimen (&gt; 2 PIs taken: fosamprenavir boosted OD: 57% versus fosamprenavir boosted BID: 49% and lopinavir/ritonavir: 40%). The median durations  of  prior  exposure  to  NRTIs  were  257 weeks  for  patients  receiving  fosamprenavir  with ritonavir twice daily (79 % had ≥ 3 prior NRTIs) and 210 weeks for patients receiving lopinavir/ritonavir (64 % had ≥ 3  prior  NRTIs). The median durations of prior exposure to protease inhibitors  were  149 weeks  for  patients  receiving  fosamprenavir  with  ritonavir  twice  daily  (49  % received ≥ 2  prior  PIs)  and  130  weeks  for  patients  receiving  lopinavir/ritonavir (40  % received ≥ 2 prior PIs).
+| Population      | Medicinal   | 908/RTV OD Mean (n)   | 908/RTV BID Mean (n)   | LPV/RTV BID Mean (n)   | Mean Diff a (97.5% CI) 908/RTV ODvs LPV/RTV BID   | Mean Diff b (97.5% CI) 908/RTV BID vs LPV/RTV BID   |
+|-----------------|-------------|-----------------------|------------------------|------------------------|---------------------------------------------------|-----------------------------------------------------|
+| ITT(E) Observed | Week 24     | -1.48 (104)           | -1.50 (105)            | -1.65 (103)            | 0.184 (-0.065, 0.433)                             | 0.171 (-0.082, 0.424)                               |
+| ITT(E) Observed | Week 48     | -1.49 (104)           | -1.53 (105)            | -1.76 (103)            | 0.267 (-0.017, 0.551)                             | 0.244 (-0.047, 0.536)                               |
+| ITT(E) D=BL     | Week 24     | -1.44 (104)           | -1.47 (105)            | -1.61 (103)            | 0.172 (-0.087, 0.431)                             | 0.151 (-0.113, 0.415)                               |
+| ITT(E) D=BL     | Week 48     | -1.42 (104            | -1.46 (105)            | -1.67 (103)            | 0.252 (-0.049, 0.553)                             | 0.225 (-0.083, 0.533)                               |
+| ITT(E) LOCF     | Week 24     | -1.47 (104)           | -1.50 (105)            | -1.68 (103)            | 0.208 (-0.047, 0.463)                             | 0.188 (-0.068, 0.443)                               |
+| ITT(E) LOCF     | Week 48     | -1.48 (104)           | -1.53 (105)            | -1.77 (103)            | 0.292 (-0.007 , 0.590)                            | 0.257 (-0.044, 0.557)                               |
+| Per-Protocol    | Week 24     | -1.56 (84)            | -1.64 (76)             | -1.74 (78)             | 0.195 (-0.081, 0.472)                             | 0.131 (-0.143, 0.405)                               |
+| Per-Protocol    | Week 48     | -1.78 (68)            | -1.79 (72)             | -1.95 (73)             | 0.132 (-0.175 , 0.440)                            | 0.153 (-0.163 , 0.470)                              |
 
-At 48 weeks, 23% of patients experienced premature discontinuation of the randomised PI.
+The  population  mainly  consists  of  patients  with  moderate  antiretroviral  experience.  Only  65%  of patients were receiving a PI therapy at entry. There is a trend for more extensive prior PI experience in the fosamprenavir-boosted arms in particular in the once daily regimen (&gt; 2 PIs taken: fosamprenavir boosted OD: 57% versus fosamprenavir boosted BID: 49% and lopinavir/ritonavir: 40%). The median durations  of  prior  exposure  to  NRTIs  were  257 weeks  for  patients  receiving  fosamprenavir  with ritonavir twice daily (79 % had ≥ 3 prior NRTIs) and 210 weeks for patients receiving lopinavir/ritonavir (64 % had ≥ 3  prior  NRTIs). The median durations of prior exposure to protease inhibitors  were  149 weeks  for  patients  receiving  fosamprenavir  with  ritonavir  twice  daily  (49  % received ≥ 2  prior  PIs)  and  130  weeks  for  patients  receiving  lopinavir/ritonavir (40  % received ≥ 2 prior PIs). At 48 weeks, 23% of patients experienced premature discontinuation of the randomised PI. Efficacy results The results on the primary endpoint are displayed in table 8: Table 8: Summary of Plasma HIV-1 RNA AAUCMB Values (log10 copies/l) at Week 24 and 48 Population ITT(E) Observed Medicinal product no longer authorised a Estimate of mean strata- adjusted treatment difference (908/RTV OD - LPV/RTV BID) and 97.5% stratified confidence interval. b Estimate of mean strata- adjusted treatment difference (908/RTV BID - LPV/RTV BID) and 97.5% stratified confidence interval. 908 = fosamprenavir; RTV = ritonavir; LPV = Lopinavir; ITT (E) = intent to treat exposed population; D = BL = Discontinuation =
 
-Efficacy results
-
-The results on the primary endpoint are displayed in table 8:
-
-Table 8: Summary of Plasma HIV-1 RNA AAUCMB Values (log10 copies/l) at Week 24 and 48
-
-| Population      |         | 908/RTV OD Mean (n)   | 908/RTV BID Mean (n)   | LPV/RTV BID Mean (n)   | Mean Diff a (97.5% CI) 908/RTV ODvs LPV/RTV BID   | Mean Diff b (97.5% CI) 908/RTV BID vs LPV/RTV BID   |
-|-----------------|---------|-----------------------|------------------------|------------------------|---------------------------------------------------|-----------------------------------------------------|
-| ITT(E) Observed | Week 24 | -1.48 (104)           | -1.50 (105)            | -1.65 (103)            | 0.184 (-0.065, 0.433)                             | 0.171 (-0.082, 0.424)                               |
-| ITT(E) Observed | Week 48 | -1.49 (104)           | -1.53 (105)            | -1.76 (103)            | 0.267 (-0.017, 0.551)                             | 0.244 (-0.047, 0.536)                               |
-| ITT(E) D=BL     | Week 24 | -1.44 (104)           | -1.47 (105)            | -1.61 (103)            | 0.172 (-0.087, 0.431)                             | 0.151 (-0.113, 0.415)                               |
-| ITT(E) D=BL     | Week 48 | -1.42 (104            | -1.46 (105)            | -1.67 (103)            | 0.252 (-0.049, 0.553)                             | 0.225 (-0.083, 0.533)                               |
-| ITT(E) LOCF     | Week 24 | -1.47 (104)           | -1.50 (105)            | -1.68 (103)            | 0.208 (-0.047, 0.463)                             | 0.188 (-0.068, 0.443)                               |
-| ITT(E) LOCF     | Week 48 | -1.48 (104)           | -1.53 (105)            | -1.77 (103)            | 0.292 (-0.007 , 0.590)                            | 0.257 (-0.044, 0.557)                               |
-| Per-Protocol    | Week 24 | -1.56 (84)            | -1.64 (76)             | -1.74 (78)             | 0.195 (-0.081, 0.472)                             | 0.131 (-0.143, 0.405)                               |
-| Per-Protocol    | Week 48 | -1.78 (68)            | -1.79 (72)             | -1.95 (73)             | 0.132 (-0.175 , 0.440)                            | 0.153 (-0.163 , 0.470)                              |
-
-b
-
-Estimate of mean strata- adjusted treatment difference (908/RTV BID - LPV/RTV BID) and 97.5% stratified confidence interval.
-
-908 = fosamprenavir; RTV = ritonavir; LPV = Lopinavir; ITT (E) = intent to treat exposed population; D = BL = Discontinuation = baseline; LOCF = Last observation carried forward
+baseline; LOCF = Last observation carried forward
 
 At week 24 in the ITT and per protocol analyses, the results were in accordance with the predefined non-inferiority margin (upper limit of 97.5 % confidence interval below 0.5 log10 copies/ml).
 
 <div style=\"page-break-after: always\"></div>
 
-However, the point estimates of the difference were always in favour of the lopinavir/ritonavir arm.
-
-At week 48, in the ITT, LOCF and PP analyses for the primary efficacy variable, lopinavir/ritonavir is consistently at least numerically superior to the two fosamprenavir + ritonavir arms.
-
-This is especially noticeable in the difficult-to-treat population with high (&gt;100 000 copies) viral load at baseline.
+However, the point estimates of the difference were always in favour of the lopinavir/ritonavir arm. At week 48, in the ITT, LOCF and PP analyses for the primary efficacy variable, lopinavir/ritonavir is consistently at least numerically superior to the two fosamprenavir + ritonavir arms. This is especially noticeable in the difficult-to-treat population with high (&gt;100 000 copies) viral load at baseline.
 
 These considerations apply for both fosamprenavir boosted regimens, but are even more critical for the OD regimen (which has been shown to exhibit slightly lower Cmin). The Kaplan Meier survival plot  of  time  to  treatment  (virologic)  failure  censoring  all  patients  other  than  those  considered  to  be virologic  failures indicated  a  higher  likelihood  of  a  shorter  time  to  treatment  failure  in the fosamprenavir boosted OD group relative to the fosamprenavir boosted BID and lopinavir/ritonavir BID groups. The distribution of time to treatment failure from Week 24 to Week 48 tends to become similar between the fosamprenavir boosted BID and lopinavir/ritonavir BID groups, even though more patients were classified as treatment failures at Day 1 in the fosamprenavir boosted BID group.
 
@@ -777,16 +678,18 @@ When considering the secondary endpoints, especially the more pertinent criteria
 
 Table 9: Summary of Proportion of subjects with plasma HIV-1 RNA &lt; 400 copies/ml at Week 24 and 48
 
-| Population      |          | 908/RTV OD %(n/N)   | 908/RTV BID %(n/N)   | LPV/RTV BID %(n/N)   | Stratified Diff 1 (95% CI) 908/RTV OD vs LPV/RTV BID   | Stratified Diff 1 (95% CI) 908/RTV BID vs LPV/RTV BID   |
-|-----------------|----------|---------------------|----------------------|----------------------|--------------------------------------------------------|---------------------------------------------------------|
-| ITT(E) RD=F     | 24 weeks | 58 (61/105)         | 60 (64/107)          | 69(71/103)           | -11% (-24%, 2%)                                        | -8% (-21%, 4%)                                          |
-|                 | 48 weeks | 50 (52/105)         | 58 (62/107)          | 61 (63/103)          | -12% (-25 %, 2%)                                       | -2% (-15%, 11%)                                         |
-| ITT(E) M=F      | 24 weeks | 60 (63/105)         | 60(64/107)           | 71(73/103)           | -11% (-24%, 2%)                                        | -10% (-23%, 3%)                                         |
-|                 | 48 weeks | 50 (53/105)         | 56 (60/107)          | 63 (65/103)          | -13% (-26 %, 1%)                                       | -6% (-19%, 7%)                                          |
-| ITT(E) observed | 24 weeks | 65 (63/97)          | 72 (64/89)           | 79 (73/92)           | -14% (-27%, -2%)                                       | -7% (-19%, 6%)                                          |
-|                 | 48 weeks | 64 (53/83)          | 75 (60/80)           | 75 (65/87)           | -12% (-26 %, 2%)                                       | 0% (-13%, 13%)                                          |
-| Per-Protocol    | 24 weeks | 68 (57/84)          | 75 (57/76)           | 82 (64/78)           | -14% (-27 %, -1%)                                      | -5% (-18%, 8%)                                          |
-|                 | 48 weeks | 66 (45/68)          | 76 (55/72)           | 78 (57/73)           | -14% (-28 %, 1%)                                       | -2% (-15%, 12%)                                         |
+| Population      |                    | 908/RTV OD %(n/N)   | 908/RTV BID %(n/N) no   | LPV/RTV BID %(n/N)   | Stratified Diff 1 (95% CI) 908/RTV OD vs LPV/RTV BID   | Stratified Diff 1 (95% CI) 908/RTV BID vs LPV/RTV BID   |
+|-----------------|--------------------|---------------------|-------------------------|----------------------|--------------------------------------------------------|---------------------------------------------------------|
+| ITT(E) RD=F     | 24 weeks           | 58 (61/105)         | 60 (64/107)             | 69(71/103)           | -11% (-24%, 2%)                                        | -8% (-21%, 4%)                                          |
+|                 | 48 weeks           | 50 (52/105)         | 58 (62/107) product     | 61 (63/103)          | -12% (-25 %, 2%)                                       | -2% (-15%, 11%)                                         |
+| ITT(E) M=F      | 24 weeks           | 60 (63/105)         | 60(64/107)              | 71(73/103)           | -11% (-24%, 2%)                                        | -10% (-23%, 3%)                                         |
+|                 | 48 weeks           | 50 (53/105)         | 56 (60/107)             | 63 (65/103)          | -13% (-26 %, 1%)                                       | -6% (-19%, 7%)                                          |
+| ITT(E) observed | 24 weeks Medicinal | 65 (63/97)          | 72 (64/89)              | 79 (73/92)           | -14% (-27%, -2%)                                       | -7% (-19%, 6%)                                          |
+|                 | 48 weeks           | 64 (53/83)          | 75 (60/80)              | 75 (65/87)           | -12% (-26 %, 2%)                                       | 0% (-13%, 13%)                                          |
+| Per-Protocol    | 24 weeks           | 68 (57/84)          | 75 (57/76)              | 82 (64/78)           | -14% (-27 %, -1%)                                      | -5% (-18%, 8%)                                          |
+|                 | 48 weeks           | 66 (45/68)          | 76 (55/72)              | 78 (57/73)           | -14% (-28 %, 1%)                                       | -2% (-15%, 12%)                                         |
+
+Medicinal product no longer authorised
 
 The descriptive analyse of CD4 cell count changes from baseline did not favour a difference between the two arms.
 
@@ -800,17 +703,7 @@ The  majority  of  protease  mutations  emerged  in  the  fosamprenavir-boosted 
 
 With amprenavir, a reduction in virological response was observed in the presence of four or more among the following mutations L10F/I/V, K20R/M, E35D, R41K, I54V, L63P, V82A/S/T/S and I84V derived from the Marcelin algorithm (Marcelin AG et Al. Antimicrob Agents Chemother 2003 Feb 47:2 594-600).
 
-## · Clinical studies in special populations
-
-Studies are ongoing to evaluate the efficacy and safety of fosamprenavir administered with low dose of ritonavir in children the results of which would be submitted as part of the follow-up measures to be fulfilled post-authorisation.
-
-- Supportive studies
-
-## Study APV 40003
-
-This  is  an  ongoing  open  label,  single  arm,  non-randomised  study  performed  in  multicentres  in Germany to describe the antiviral response and serious adverse  events reported with fosamprenavir boosted  with  ritonavir  in  antiretroviral  combination  therapy  in  heavily  pretreated  HIV-infected patients.
-
-At the time of the data cut-off (16 weeks), 148 patients were entered. Of these, 65 patients had the opportunity to receive at least 16 weeks of treatment. However after excluding patients who had no prior PI therapy or had previously received amprenavir, 39 pre-treated patients were analysed with 13 on once daily regimen and 26 on bid regimen . Of these 39 patients the majority (82%) were male and the  median  age  was  40  years.  At  baseline,  the  population  enrolled  did  not  suffer  from  critical deterioration of the immuno-virological status. Indeed, the median viral load was &lt;4 log10 copies/ml and  the  median  CD4+  cell  count  was  312  cells/mm 3 .  A  significant  proportion  of  patients  had undetectable  viral  load  (31%).  There  were  also  some  patients  who  experienced  early  virological failure  (&gt;1000  copies/ml).  Nevertheless,  a  significant  proportion  of  patient  was  advanced  in  the disease progression (33% at CDC Stage C). In addition, although all patients had received prior PI therapy, 49% had received &gt;= 3 prior PIs, 41% (16/39) were on a PI sparing regimen immediately prior to entry, receiving only NRTIs, NNRTIs or a combination of both. Of those subjects (n=23) who were  receiving  a  PI  regimen  at  screen,  74%  (17/23)  were  on  a  RTV  boosted  regimen  of  which LPV/RTV was the most common (61%, 11/18).
+· Clinical studies in special populations Studies are ongoing to evaluate the efficacy and safety of fosamprenavir administered with low dose of ritonavir in children the results of which would be submitted as part of the follow-up measures to be fulfilled post-authorisation. · Supportive studies Study APV 40003 This  is  an  ongoing  open  label,  single  arm,  non-randomised  study  performed  in  multicentres  in Germany to describe the antiviral response and serious adverse  events reported with fosamprenavir boosted  with  ritonavir  in  antiretroviral  combination  therapy  in  heavily  pretreated  HIV-infected patients. At the time of the data cut-off (16 weeks), 148 patients were entered. Of these, 65 patients had the opportunity to receive at least 16 weeks of treatment. However after excluding patients who had no prior PI therapy or had previously received amprenavir, 39 pre-treated patients were analysed with 13 on once daily regimen and 26 on bid regimen . Of these 39 patients the majority (82%) were male and the  median  age  was  40  years.  At  baseline,  the  population  enrolled  did  not  suffer  from  critical deterioration of the immuno-virological status. Indeed, the median viral load was &lt;4 log10 copies/ml and  the  median  CD4+  cell  count  was  312  cells/mm 3 .  A  significant  proportion  of  patients  had undetectable  viral  load  (31%).  There  were  also  some  patients  who  experienced  early  virological failure  (&gt;1000  copies/ml).  Nevertheless,  a  significant  proportion  of  patient  was  advanced  in  the disease progression (33% at CDC Stage C). In addition, although all patients had received prior PI therapy, 49% had received &gt;= 3 prior PIs, 41% (16/39) were on a PI sparing regimen immediately prior to entry, receiving only NRTIs, NNRTIs or a combination of both. Of those subjects (n=23) who were  receiving  a  PI  regimen  at  screen,  74%  (17/23)  were  on  a  RTV  boosted  regimen  of  which LPV/RTV was the most common (61%, 11/18). Medicinal product no longer authorised
 
 The results at week 16 are presented in table 10.
 
@@ -818,17 +711,17 @@ The results at week 16 are presented in table 10.
 
 Table 10: Study Outcomes at Week 16 for patients receiving fosamprenavir with ritonavir (MD=F)
 
-| OUTCOME                                                                                                                 | OD (N=13) n (%)   | BID (N=26) n (%)    | Total (N=39) n (%)   |
-|-------------------------------------------------------------------------------------------------------------------------|-------------------|---------------------|----------------------|
-| Responders <400 copies/ml plasma HIV-1 RNA                                                                              | 10 (77)           | 16 (62)             | 27 (69)              |
-| Virological failures Premature discontinuation due to insufficient viral load response Plasma HIV-1 RNA < 400 copies/ml | 2 (15) 0 2 (15)   | 3 (12) 1 (4) 2 (8)  | 5 (13) 1 (3) 4 (10)  |
-| Premature discontinuations other than virological Adverse event Other Switch *                                          | 1 (8) 0 1 (8) 0   | 5 (19) 3 (12) 1 (4) | 5 (13) 3 (8)         |
-| Missing                                                                                                                 |                   |                     |                      |
-|                                                                                                                         |                   |                     | 0                    |
-|                                                                                                                         |                   |                     | 2 (5)                |
-|                                                                                                                         |                   | 1 (4)               |                      |
-|                                                                                                                         | 0                 | 2 (8)               | 2                    |
-|                                                                                                                         |                   |                     | (5)                  |
+| OUTCOME                                                                                                                 | OD (N=13) n (%)   | BID (N=26) n (%)   | Total (N=39) n (%)   |
+|-------------------------------------------------------------------------------------------------------------------------|-------------------|--------------------|----------------------|
+| Responders <400 copies/ml plasma HIV-1 RNA                                                                              | 10 (77)           | 16 (62)            | 27 (69)              |
+| Virological failures Premature discontinuation due to insufficient viral load response Plasma HIV-1 RNA < 400 copies/ml | 2 (15) 0 2 (15)   | 3 (12) 1 (4)       | 5 (13) 1 (3)         |
+| Premature discontinuations other than virological failure Adverse event Other Switch *                                  | 1 (8) 0 1 (8)     | 5 (19) 3 (12)      | 5 (13)               |
+|                                                                                                                         |                   | 2 (8)              | 4 (10)               |
+|                                                                                                                         |                   |                    | 3 (8)                |
+| Missing                                                                                                                 |                   | 1 (4)              | 2                    |
+|                                                                                                                         | 0                 | 1 (4)              | (5)                  |
+|                                                                                                                         |                   | 2 (8)              | 0                    |
+|                                                                                                                         | 0                 |                    | 2 (5)                |
 
 * 1 subject was considered to be a premature discontinuation as switched from BID to OD group before Week 4.  This subject is classed as a responder in the Total column.
 
@@ -843,6 +736,8 @@ The safety of fosamprenavir has been studied in over 1,000 patients including 75
 In APV30002/ APV30005, the median duration of exposure to fosamprenavir boosted OD population was  92  weeks.  Globally  twenty-three  patients  (11%)  reported  treatment  emergent  AEs  leading  to permanent  discontinuation  of  treatment,  in  majority  due  to  drug  hypersensitivities  all  attributed  to abacavir.
 
 In  study  APV30003, at 48 weeks, 5 % of patients experienced premature treatment discontinuation due  to  adverse  events,  with  a  higher  percentage  in  the  lopinavir/ritonavir  arm  (8  %)  than  in  the fosamprenavir boosted arms (2 % in the once daily regimen arm and 6 % in the twice daily regimen). The most common adverse event leading to permanent discontinuation of treatment were vomiting, which occurred with equal frequency across treatment groups, and nausea and dyspepsia which both occurred more frequently in the lopinavir/ritonavir group.
+
+Medicinal product no longer authorised
 
 ## · Adverse events
 
@@ -875,21 +770,17 @@ Table 11: MedRA Body Systems and most common treatment emergent-related Grade 2-
 | Rash NOS                   | 5 (2)                                                            | 1 (<1)                                                                |
 | Headache                   | 8 (2)                                                            | 0                                                                     |
 
-In  antiretroviral-experienced  patients  (study  APV30003),  the  safety  profile  of  the  fosamprenavir boosted BID regimen was comparable with lopinavir/ritonavir BID.
+|                                    | Fosamprenavir + ritonavir OD (%)   | Fosamprenavir + ritonavir BID (%)   |
+|------------------------------------|------------------------------------|-------------------------------------|
+| Body System                        |                                    |                                     |
+| Gastrointestinal Disorders         | 13%                                | 20%                                 |
+| Diarrhoea                          | 5%                                 | 11                                  |
+| Metabolism and Nutrition Medicinal | <1%                                | 7%                                  |
+| Hypertriglyceridemia               | 0                                  | 4%                                  |
+| Nervous System Disorders           | 2%                                 | 9%                                  |
+| Grade headache                     | 0%                                 | 3%                                  |
 
-When comparing the two regimens of fosamprenavir boosted with ritonavir, the overall incidence of drug related  adverse  events  regardless  of  grade  was  similar  in  patients  receiving  the  fosamprenavir boosted OD and fosamprenavir boosted BID regimens (51% and 55% respectively). However more patients in the fosamprenavir boosted BID group reported Grade 2-4 adverse events than with the once daily regimen (fosamprenavir boosted OD: 22% vs fosamprenavir boosted BID: 38% vs lopinavir/ritonavir BID: 37%). In particular there was a higher frequencies of treatment related Grade 2-4  AEs  for  gastrointestinal  disorders,  metabolism  and  nutrition  disorders  and  nervous  system disorders as displayed in table 12.
-
-Table 12: Drug related Grade 2-4 AEs
-
-|                            | Fosamprenavir + ritonavir OD (%)   | Fosamprenavir + ritonavir BID (%)   |
-|----------------------------|------------------------------------|-------------------------------------|
-| Body System                |                                    |                                     |
-| Gastrointestinal Disorders | 13%                                | 20%                                 |
-| Diarrhoea                  | 5%                                 | 11                                  |
-| Metabolism and Nutrition   | <1%                                | 7%                                  |
-| Hypertriglyceridemia       | 0                                  | 4%                                  |
-| Nervous System Disorders   | 2%                                 | 9%                                  |
-| Grade headache             | 0%                                 | 3%                                  |
+Abdominal pain Fatigue Hypertriglyceridaemia Rash NOS Headache In  antiretroviral-experienced  patients  (study  APV30003),  the  safety  profile  of  the  fosamprenavir boosted BID regimen was comparable with lopinavir/ritonavir BID. When comparing the two regimens of fosamprenavir boosted with ritonavir, the overall incidence of drug related  adverse  events  regardless  of  grade  was  similar  in  patients  receiving  the  fosamprenavir boosted OD and fosamprenavir boosted BID regimens (51% and 55% respectively). However more patients in the fosamprenavir boosted BID group reported Grade 2-4 adverse events than with the once daily regimen (fosamprenavir boosted OD: 22% vs fosamprenavir boosted BID: 38% vs lopinavir/ritonavir BID: 37%). In particular there was a higher frequencies of treatment related Grade 2-4  AEs  for  gastrointestinal  disorders,  metabolism  and  nutrition  disorders  and  nervous  system disorders as displayed in table 12. Table 12: Drug related Grade 2-4 AEs Body System Gastrointestinal Disorders Diarrhoea Metabolism and Nutrition Hypertriglyceridemia Nervous System Disorders Grade headache Medicinal product no longer authorised
 
 Similar rates of drug related Grade 2-4 diarrhoea and Grade 2-4 headache to those seen in the BID group were observed in the lopinavir/ritonavir group. However, drug related Grade 1 to 4 diarrhoea was reported more often in the lopinavir/ritonavir group compared to the fosamprenavir boosted with ritonavir BID group (30% versus 23%, respectively).
 
@@ -911,19 +802,9 @@ For fasting glucose, the median change from baseline over 48 weeks was slightly 
 
 There was slightly higher number of patients in the fosamprenavir boosted arms that developed Grade 3/4  elevations  in  ALT  and/or  AST  compared  to  the  lopinavir/ritonavir  group  (6  %  (6/106  in fosamprenavir boosted OD versus 6 % (6/106) in fosamprenavir boosted OD versus 4% (4/103) in lopinavir/ritonavir).
 
-There was a higher incidence of Grade 3/4 serum lipase in the lopinavir/ritonavir group (12 %) than in the two regimens of fosamprenavir boosted (5 % in each arm).
-
-Preliminary results of a study in healthy volunteers which aimed at exploring increased fosamprenavir and ritonavir doses to increase plasma amprenavir exposure showed that in 6 out of 42 subject there was a significant increase of liver transaminase (&gt; 2.5 ULN in ALT and/or AST) especially in patients receiving 1400 mg BID boosted with ritonavir 200 mg BID. A warning has therefore been included in the  Summary  of  Product  Characteristics  and  the  potential  alteration  of  the  safety  profile  of  the combination with the use of doses of ritonavir higher than 100 mg BID.
-
-## · Serious adverse event/deaths/other significant events
-
-The  overall  incidence  of  serious  adverse  events  was  low.  In  study  30003,  a  total  of  37  patients experienced at least one treatment emergent serious adverse event irrespective of suspected causality during  the  study  (fosamprenavir  boosted  OD:  15%  (16/106)  vs  fosamprenavir  boosted  BID:  8% (9/106) vs lopinavir/ritonavir BID: 12% (12/103)).
-
-The  vast  majority  of  these  serious  adverse  events  in  trial  APV30001  and  APV30002  were  drug hypersensitivity  reactions  attributed  in  almost  all  cases  to  abacavir.  There  was  no  death  reported related to fosamprenavir.
-
-## · HBV/HCV co-infected patients and patients with liver impairment
-
 A  total  of  269  HCV  and/or  HBV  co-infected  patients  were  included  in  the  studies.  The  risk  of treatment  emergent Grade 3-4 liver function test elevations was greater in patients with hepatitis B and/or  C  co-infection  at  baseline  in  all  treatment  groups.  In  those  patients  entering  the  study  with hepatitis B and/or hepatitis C co-infection there were no apparent differences between fosamprenavir and fosamprenavir boosted with ritonavir in the risk of liver function test elevations.
+
+There was a higher incidence of Grade 3/4 serum lipase in the lopinavir/ritonavir group (12 %) than in the two regimens of fosamprenavir boosted (5 % in each arm). Preliminary results of a study in healthy volunteers which aimed at exploring increased fosamprenavir and ritonavir doses to increase plasma amprenavir exposure showed that in 6 out of 42 subject there was a significant increase of liver transaminase (&gt; 2.5 ULN in ALT and/or AST) especially in patients receiving 1400 mg BID boosted with ritonavir 200 mg BID. A warning has therefore been included in the  Summary  of  Product  Characteristics  and  the  potential  alteration  of  the  safety  profile  of  the combination with the use of doses of ritonavir higher than 100 mg BID. · Serious adverse event/deaths/other significant events The  overall  incidence  of  serious  adverse  events  was  low.  In  study  30003,  a  total  of  37  patients experienced at least one treatment emergent serious adverse event irrespective of suspected causality during  the  study  (fosamprenavir  boosted  OD:  15%  (16/106)  vs  fosamprenavir  boosted  BID:  8% (9/106) vs lopinavir/ritonavir BID: 12% (12/103)). The  vast  majority  of  these  serious  adverse  events  in  trial  APV30001  and  APV30002  were  drug hypersensitivity  reactions  attributed  in  almost  all  cases  to  abacavir.  There  was  no  death  reported related to fosamprenavir. · HBV/HCV co-infected patients and patients with liver impairment Medicinal product no longer authorised
 
 In study APV30002 and APV30003, a comparable but relatively low number of treatment naïve and treatment experienced patients (10 to 12%) had hepatic impairment (maximum grade 2 liver enzyme elevations)  other  than  co-infection  with  hepatitis  B  and  /or  C  at  baseline.  Treatment-naive  patients without hepatitis co-infection did not describe a specific risk to develop increases in hepatic enzymes, whatever  baseline  values.  Treatment-experienced  patients  with  pre-existing  hepatic  impairment described a higher risk to develop increases in transaminase values.
 
@@ -939,15 +820,7 @@ The safety of the recommended dose of the suspension compared to the coated tabl
 
 ## 5. Overall conclusions, benefit/risk assessment and recommendation
 
-## Quality
-
-The active  substance  is  well  characterised  and  documented.  The  pharmaceutical  forms  selected  are adequate taking into account the properties and stability of the active substance. The excipients are commonly  used  in  this  kind  of  formulation  and  the  packaging  material  is  well  documented.  The manufacturing  processes  were  developed  and  optimized  to  obtain  reproducible  finished  product batches.  Stability  tests  under  ICH  conditions  indicate  that  the  products  are  stable  for  the  proposed shelf life. The unexpected bioinequivalence findings related to processing and batch scale-up of the active substance and drug product (subsequently resolved) will have to be kept in mind when future changes are contemplated. A full and deep reassessment of quality will have to be considered at each change in manufacture process and batch size scale or any changes that could have an impact in-vivo applying for both drug substance and drug product.
-
-## Non-clinical pharmacology and toxicology
-
-Fosamprenavir is the pro-drug of amprenavir, which is an inhibitor of the HIV protease, already on the market.  Fosamprenavir  has  no  or  little  antiviral  activity per  se and  requires  in-vivo  metabolism  to release  the  active  moiety  amprenavir.  Amprenavir  had  previously  been  shown  an  antiviral  activity both in vitro and in vivo against laboratory and clinical isolates compatible with a potential clinical use for  the  treatment  of  HIV  infection.  The  general  pharmacology  studies  showed  no  treatment  related adverse effects.
-
-The pharmacokinetics profile determined in mice, rats and dogs showed that fosamprenavir is rapidly absorbed after oral administration and extensively converted into amprenavir, widely distributed, and is eliminated primarily by hepatic clearance.
+Quality The active  substance  is  well  characterised  and  documented.  The  pharmaceutical  forms  selected  are adequate taking into account the properties and stability of the active substance. The excipients are commonly  used  in  this  kind  of  formulation  and  the  packaging  material  is  well  documented.  The manufacturing  processes  were  developed  and  optimized  to  obtain  reproducible  finished  product batches.  Stability  tests  under  ICH  conditions  indicate  that  the  products  are  stable  for  the  proposed shelf life. The unexpected bioinequivalence findings related to processing and batch scale-up of the active substance and drug product (subsequently resolved) will have to be kept in mind when future changes are contemplated. A full and deep reassessment of quality will have to be considered at each change in manufacture process and batch size scale or any changes that could have an impact in-vivo applying for both drug substance and drug product. Non-clinical pharmacology and toxicology Fosamprenavir is the pro-drug of amprenavir, which is an inhibitor of the HIV protease, already on the market.  Fosamprenavir  has  no  or  little  antiviral  activity per  se and  requires  in-vivo  metabolism  to release  the  active  moiety  amprenavir.  Amprenavir  had  previously  been  shown  an  antiviral  activity both in vitro and in vivo against laboratory and clinical isolates compatible with a potential clinical use for  the  treatment  of  HIV  infection.  The  general  pharmacology  studies  showed  no  treatment  related adverse effects. The pharmacokinetics profile determined in mice, rats and dogs showed that fosamprenavir is rapidly absorbed after oral administration and extensively converted into amprenavir, widely distributed, and is eliminated primarily by hepatic clearance. Medicinal product no longer authorised
 
 Overall,  the  toxicology  programme  showed  that  toxicity  profile  of  fosamprenavir  is  similar  to amprenavir. Treatment effects in the repeated dose toxicity studies included gastrointestinal intolerance. Liver was also the primary organ of toxicity. Fosamprenavir is not immunotoxic. There was no evidence of toxicity to reproduction. Fosamprenavir is not genotoxic. The lack of final results from  the  carcinogenicity  studies  was  justified  and  in  view  of  the  benefit/risk  ratio,  the  CPMP considered a marketing authorisation could be granted prior the availability of these results. However the  applicant  undertook  to  submit  the  final  results  as  part  of  the  follow-up  measures  to  be  fulfilled post-authorisation.
 
@@ -963,11 +836,9 @@ The dose of fosamprenavir was selected to provide comparable exposure to amprena
 
 In antiretroviral naïve patients, the efficacy of fosamprenavir boosted with ritonavir is based on one a single pivotal open label study versus nelfinavir. In this study fosamprenavir (1400 mg) given once daily with 200 mg ritonavir as part of a triple regimen including abacavir (300 mg bid) and lamivudine (150  mg  bid)  showed  similar  efficacy  over  48  weeks  compared  to  nelfinavir  (1250  mg  bid).  The proportion of patients with HIV RNA below 400 copies/ml at week 48 was 69 % in the fosamprenavir arm versus 68 % in the nelfinavir arm. The virological failure was greater in the nelfinavir group (17 %) than in the fosamprenavir-boosted group (7%). In a roll-over study, 96 weeks non comparative data from patients treated with fosamprenavir/ritonavir OD were suggestive of a durable virological suppression.
 
-In protease inhibitor experienced patients with virological failure (less than or equal to two PIs), the efficacy of fosamprenavir boosted with ritonavir (either 700 mg + 100 mg bid or 1400 mg + 200 mg OD) was compared in a randomised open-label study to lopinavir/ritonavir.  At  24  weeks,  the  noninferiority  could  be  concluded  between  the  treatments  with  regard  to  virological  suppression  as measured by the average area under the curve minus baseline for plasma HIV-RNA, even if the point estimates  were  always  in  favour  of  the  lopinavir/ritonavir  arm.  The  difference  in  favour  of lopinavir/ritonavir  was  statistically  significant  in  the  subgroup  of  patients  with  high  viral  load  at baseline (&gt;100 000 copies/ml)
-
-The fact that Telzir associated with ritonavir was not shown to be non-inferior to lopinavir/ritonavir at 48 weeks has been reflected in the Summary of Product Characteristics and the applicant undertook to explore an intensification of treatment in patients failing to achieve adequate virological suppression with fosamprenavir boosted.
-
 Similarly  when  considering  the  proportion  of  patients  with  viral  load  below  the  limit  of  detection, (secondary  endpoint),  results  were  far  from  the  demonstration  of  non-inferiority  between  the treatments,  although  the  study  was  not  sufficiently  powered  for  this  assessment,  conversely  to  the assessment of primary endpoint, AAUCMB at 24 and 48 weeks. The suggestion of a superiority of lopinavir/ritonavir is even more noticeable in the difficult-to-treat population with high viral load at baseline (&gt;100 000 copies/ml). The results were even more critical when considering the once daily regimen.
+
+In protease inhibitor experienced patients with virological failure (less than or equal to two PIs), the efficacy of fosamprenavir boosted with ritonavir (either 700 mg + 100 mg bid or 1400 mg + 200 mg OD) was compared in a randomised open-label study to lopinavir/ritonavir.  At  24  weeks,  the  noninferiority  could  be  concluded  between  the  treatments  with  regard  to  virological  suppression  as measured by the average area under the curve minus baseline for plasma HIV-RNA, even if the point estimates  were  always  in  favour  of  the  lopinavir/ritonavir  arm.  The  difference  in  favour  of lopinavir/ritonavir  was  statistically  significant  in  the  subgroup  of  patients  with  high  viral  load  at baseline (&gt;100 000 copies/ml) The fact that Telzir associated with ritonavir was not shown to be non-inferior to lopinavir/ritonavir at 48 weeks has been reflected in the Summary of Product Characteristics and the applicant undertook to explore an intensification of treatment in patients failing to achieve adequate virological suppression with fosamprenavir boosted. Medicinal product no longer authorised
 
 In term of resistance, overall the addition of ritonavir, as pharmacokinetic enhancer, to fosamprenavir led  to  reduction  in  the  development  of  resistance  in  antiretoviral  naive  patients.  The  occurrence  of PRO mutations was 0 % in study APV30002 versus 17  % in  APV30001 where fosamprenavir was given  unboosted.  RT  mutations  in  NRTI  were  also  significantly  reduced  (13%  versus  55%).  The amprenavir-associated resistance mutations that emerged in study APV30001 with fosamprenavir non boosted  with  ritonavir  were  consistent  with  primary  mutations  described  in  patients  treated  with amprenavir.
 
@@ -997,6 +868,8 @@ The quality of this product is considered to be acceptable when used in accordan
 
 In antiretroviral naive patients, the CPMP considered that the efficacy demonstration was acceptable although not optimal, especially in the absence of bridging studies with amprenavir in this population. In  addition  the  demonstration  was  only  supported  by  one  single  open  label  study  versus  nelfinavir. However nelfinavir was the most prescribed protease inhibitor at the time of the initiation of the study and lopinavir/ritonavir, which has become a preferred used protease inhibitor in this population, was not yet authorised. The CPMP concluded that an approval for fosamprenavir/ritonavir BID could only be considered in this population provided that:
 
+Medicinal product no longer authorised
+
 - the same schedule regimen as in antiretroviral experienced patients, i.e. a BID regimen (allowing to achieve  20-30  %  increased  Cmin,  which  minimise  the  risk  of  sub-optimal  concentrations)  was recommended, as a conservative measure.
 
 -  the  applicant performs a clinical study in antiretroviral naïve patients versus lopinavir/ritonavir, to help  physicians  in  determining  the  optimal  therapeutic  strategy  in  clinical  practice.  The  applicant undertook  to  conduct  this  study,  the  results  of  which  would  be  submitted  as  part  of  the  follow-up measures to be fulfilled post-authorisation.
@@ -1014,9 +887,7 @@ However,  CPMP  considered  that  the  comparison  with  lopinavir/ritonavir  sh
 - -this prodrug presents the potential advantage of an improved compliance by the reduction of the pill burden which may be added value of particular importance in this population.
 - -the clinical experience gained with the prodrug and the amprenavir (the pharmacokinetic direct comparison with the amprenavir and fosamprenavir allows to bridge the clinical experience of both drugs) allowed to substantiate the efficacy and safety profiles of fosamprenavir.
 
-The failure to establish non-inferiority has however been clearly reflected in the Summary of Product Characteristics and the applicant undertook to explore an intensification of treatment in patients failing to achieve adequate virological suppression with fosamprenavir boosted.
-
-There are however insufficient data to recommend the use of fosamprenavir with ritonavir in heavily pre-treated patients.
+The failure to establish non-inferiority has however been clearly reflected in the Summary of Product Characteristics and the applicant undertook to explore an intensification of treatment in patients failing to achieve adequate virological suppression with fosamprenavir boosted. There are however insufficient data to recommend the use of fosamprenavir with ritonavir in heavily pre-treated patients.
 
 ## Recommendation
 
@@ -1029,3 +900,5 @@ In moderately antiretroviral experienced patients, Telzir in combination with lo
 In heavily pretreated patients the use of Telzir in combination with low dose ritonavir has not been sufficiently studied.
 
 In protease inhibitor (PI) experienced patients the choice of Telzir should be based on individual viral resistance testing and treatment history'.
+
+Medicinal product no longer authorised

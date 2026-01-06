@@ -1,11 +1,11 @@
 ---
-document_datetime: 2025-12-29 13:24:39
+document_datetime: 2026-01-05 17:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/junod.html
 document_name: junod.html
 version: success
-processing_time: 0.1014377
-conversion_datetime: 2025-12-31 04:58:47.114173
+processing_time: 0.0925399
+conversion_datetime: 2026-01-06 07:46:38.774535
 docling_version:
   docling-serve: 1.9.0
   docling-jobkit: 1.8.0
@@ -115,7 +115,7 @@ English (EN) (145.11 KB - PDF)
 
 [View](/en/documents/overview/junod-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-239)
+[Other languages (22)](#file-language-dropdown-457)
 
 български (BG) (189.49 KB - PDF)
 
@@ -311,199 +311,7 @@ English (EN) (838.22 KB - PDF)
 
 [View](/en/documents/product-information/junod-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-537)
-
-български (BG) (899.71 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/bg/documents/product-information/junod-epar-product-information_bg.pdf)
-
-español (ES) (884.2 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/es/documents/product-information/junod-epar-product-information_es.pdf)
-
-čeština (CS) (859.49 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/cs/documents/product-information/junod-epar-product-information_cs.pdf)
-
-dansk (DA) (848.78 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/da/documents/product-information/junod-epar-product-information_da.pdf)
-
-Deutsch (DE) (886.92 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/de/documents/product-information/junod-epar-product-information_de.pdf)
-
-eesti keel (ET) (824.53 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/et/documents/product-information/junod-epar-product-information_et.pdf)
-
-ελληνικά (EL) (857.02 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/el/documents/product-information/junod-epar-product-information_el.pdf)
-
-français (FR) (868.88 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/fr/documents/product-information/junod-epar-product-information_fr.pdf)
-
-hrvatski (HR) (928.04 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/hr/documents/product-information/junod-epar-product-information_hr.pdf)
-
-íslenska (IS) (823.33 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/is/documents/product-information/junod-epar-product-information_is.pdf)
-
-italiano (IT) (847.01 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/it/documents/product-information/junod-epar-product-information_it.pdf)
-
-latviešu valoda (LV) (894.04 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/lv/documents/product-information/junod-epar-product-information_lv.pdf)
-
-lietuvių kalba (LT) (829.27 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/lt/documents/product-information/junod-epar-product-information_lt.pdf)
-
-magyar (HU) (881.79 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/hu/documents/product-information/junod-epar-product-information_hu.pdf)
-
-Malti (MT) (872.74 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/mt/documents/product-information/junod-epar-product-information_mt.pdf)
-
-Nederlands (NL) (831.78 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/nl/documents/product-information/junod-epar-product-information_nl.pdf)
-
-norsk (NO) (810.7 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/no/documents/product-information/junod-epar-product-information_no.pdf)
-
-polski (PL) (865.01 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/pl/documents/product-information/junod-epar-product-information_pl.pdf)
-
-português (PT) (836.18 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/pt/documents/product-information/junod-epar-product-information_pt.pdf)
-
-română (RO) (951.56 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/ro/documents/product-information/junod-epar-product-information_ro.pdf)
-
-slovenčina (SK) (904.1 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/sk/documents/product-information/junod-epar-product-information_sk.pdf)
-
-slovenščina (SL) (857 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/sl/documents/product-information/junod-epar-product-information_sl.pdf)
-
-Suomi (FI) (895.84 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/fi/documents/product-information/junod-epar-product-information_fi.pdf)
-
-svenska (SV) (852.89 KB - PDF)
-
-**First published:**
-
-03/09/2025
-
-[View](/sv/documents/product-information/junod-epar-product-information_sv.pdf)
+**Latest procedure affecting product information:** VR/0000300682 22/12/2025
 
 icon globe
 
@@ -527,7 +335,7 @@ English (EN) (59.99 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/junod-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-83)
+[Other languages (22)](#file-language-dropdown-319)
 
 български (BG) (75.35 KB - PDF)
 
@@ -741,9 +549,23 @@ Gedeon Richter Plc.
 
 Gyomroi ut 19-21
 
-Opinion adopted 25/04/2025 Marketing authorisation issued 23/06/2025
+Opinion adopted 25/04/2025 Marketing authorisation issued 23/06/2025 Revision 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Junod : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (148.31 KB - PDF)
+
+**First published:** 05/01/2026
+
+[View](/en/documents/procedural-steps-after/junod-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -775,7 +597,7 @@ English (EN) (133.58 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 22-25 April 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-22-25-april-2025) 25/04/2025
 
-**This page was last updated on** 03/09/2025
+**This page was last updated on** 05/01/2026
 
 ## Share this page
 

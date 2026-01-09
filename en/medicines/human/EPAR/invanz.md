@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 12:41:00
+document_datetime: 2026-01-09 23:52:14
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/invanz.html
 document_name: invanz.html
 version: success
-processing_time: 0.11668
-conversion_datetime: 2025-12-30 12:56:37.129511
+processing_time: 0.1092431
+conversion_datetime: 2026-01-10 00:40:12.512082
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -123,7 +123,7 @@ English (EN) (84.78 KB - PDF)
 
 [View](/en/documents/overview/invanz-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-884)
+[Other languages (22)](#file-language-dropdown-199)
 
 български (BG) (110.31 KB - PDF)
 
@@ -401,7 +401,7 @@ English (EN) (302.65 KB - PDF)
 
 [View](/en/documents/product-information/invanz-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-17)
+[Other languages (24)](#file-language-dropdown-68)
 
 български (BG) (300.47 KB - PDF)
 
@@ -717,7 +717,7 @@ English (EN) (58.39 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/invanz-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (18)](#file-language-dropdown-171)
+[Other languages (18)](#file-language-dropdown-613)
 
 español (ES) (57.9 KB - PDF)
 
@@ -1061,7 +1061,7 @@ English (EN) (107.77 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/invanz-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-555)
+[Other languages (24)](#file-language-dropdown-422)
 
 български (BG) (336 KB - DOC)
 

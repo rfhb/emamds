@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-03-06 14:23:57
-document_pages: 3
+document_datetime: 2026-01-06 09:48:12
+document_pages: 4
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/eltrombopag-viatris-epar-procedural-steps-scientific-information-after-authorisation_en.pdf
 document_name: eltrombopag-viatris-epar-procedural-steps-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 1.4148726
-conversion_datetime: 2025-12-28 18:28:19.865722
+processing_time: 2.1461451
+conversion_datetime: 2026-01-10 11:01:15.819667
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -20,11 +20,11 @@ docling_version:
 
 Procedural steps taken and scientific information after the authorisation*
 
-*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, please also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Application number     | Scope                                  | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
-|------------------------|----------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
-| Variation type IA_IN / | This was an application for a group of | 26/02/2025                          |                                             | SmPC,                            |           |
+| Application number   | Scope                                     | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                                             |
+|----------------------|-------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------------------------------------------------|
+| Variation type IB /  | C.I.2 Change(s) in the Summary of Product | 05/01/2026                          |                                             | SmPC and PL                      | To update Section 4.8 of the SmPC to include safety |
 
 <!-- image -->
 
@@ -32,10 +32,17 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/VR/0000248123   | variations.   | Labelling and PL   |
-|---------------------|---------------|--------------------|
+| EMA/VR/0000316215                     | Characteristics, Labelling or Package Leaflet of a generic/hybrid/biosimilar medicinal products following assessment of the same change for the reference product - C.I.2.a Implementation of change(s) for which no new additional data is required to be submitted by the MAH - Accepted C.I.2.a (Type IB) - To update Section 4.8 of the SmPC to include safety results for severe aplastic anaemia in the paediatric population. This change follows the approval of the same update for the reference product, Revolade. Additionally, the MAH has implemented editorial changes throughout the Annexes, including aligning the English PI with the reference product, correcting a typographical error in Section 6.5 by changing 'Aluminum' to 'Aluminium,' and updating the contact details for the local representative in CY. For the translated PI, the changes include alignment with the reference product, correction of typographical errors, and updates in line   |            | results for severe aplastic anaemia in the paediatric population. This change follows the approval of the same update for the reference product, Revolade.   |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Variation type IB / EMA/VR/0000293034 | B.I.b.2 Change in test procedure for active substance or starting material/reagent/intermediate used in the manufacturing process of the active substance - B.I.b.2.e Other changes to a test procedure (including replacement or                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 12/09/2025 |                                                                                                                                                              |
 
 <div style=\"page-break-after: always\"></div>
 
-| B.II.e.5.a Change in the number of units (e.g. tablets, ampoules, etc.) in a pack - B.II.e.5.a.1 Change within the range of the currently approved pack sizes - Accepted B.II.e.5.a Change in the number of units (e.g. tablets, ampoules, etc.) in a pack - B.II.e.5.a.1 Change within the range of the currently approved pack sizes - Accepted   |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                          | addition) for the active substance or a starting material/intermediate - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |            |                        |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------------------|
+| Variation type IA_IN / EMA/VR/0000248123 | This was an application for a group of variations. B.II.e.5.a Change in the number of units (e.g. tablets, ampoules, etc.) in a pack - B.II.e.5.a.1 Change within the range of the currently approved pack sizes - Accepted B.II.e.5.a Change in the number of units (e.g. tablets, ampoules, etc.) in a pack - B.II.e.5.a.1 Change within the range of the currently approved pack sizes - Accepted B.II.e.5.a Change in the number of units (e.g. tablets, ampoules, etc.) in a pack - B.II.e.5.a.1 Change within the range of the currently approved pack sizes - Accepted B.II.e.5.a Change in the number of units (e.g. tablets, ampoules, etc.) in a pack - B.II.e.5.a.1 Change within the range of the currently approved pack sizes - Accepted B.II.e.5.a Change in the number of units (e.g. tablets, ampoules, etc.) in a pack - B.II.e.5.a.1 Change within the range of the currently approved pack sizes - Accepted | 26/02/2025 | SmPC, Labelling and PL |
+
+<div style=\"page-break-after: always\"></div>
+
+| B.II.e.5.a Change in the number of units (e.g. tablets, ampoules, etc.) in a pack - B.II.e.5.a.1 Change within the range of the currently approved pack sizes - Accepted B.II.e.5.a Change in the number of units (e.g. tablets, ampoules, etc.) in a pack - B.II.e.5.a.1 Change within the range of the currently approved pack sizes - Accepted B.II.e.5.a Change in the number of units (e.g. tablets, ampoules, etc.) in a pack - B.II.e.5.a.1 Change within the range of the currently approved pack sizes - Accepted   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

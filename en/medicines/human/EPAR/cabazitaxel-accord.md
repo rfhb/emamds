@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 07:01:16
+document_datetime: 2026-01-07 17:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cabazitaxel-accord.html
 document_name: cabazitaxel-accord.html
 version: success
-processing_time: 0.148791
-conversion_datetime: 2025-12-30 12:34:41.091309
+processing_time: 0.1649088
+conversion_datetime: 2026-01-10 11:11:02.835993
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -107,7 +107,7 @@ English (EN) (130.51 KB - PDF)
 
 [View](/en/documents/overview/cabazitaxel-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-529)
+[Other languages (22)](#file-language-dropdown-664)
 
 български (BG) (168.71 KB - PDF)
 
@@ -299,17 +299,17 @@ English (EN) (116.73 KB - PDF)
 
 Cabazitaxel Accord : EPAR - Product information
 
-English (EN) (531.31 KB - PDF)
+English (EN) (610.23 KB - PDF)
 
 **First published:** 17/12/2020
 
-**Last updated:** 07/05/2025
+**Last updated:** 07/01/2026
 
 [View](/en/documents/product-information/cabazitaxel-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-637)
+[Other languages (24)](#file-language-dropdown-365)
 
-български (BG) (898.6 KB - PDF)
+български (BG) (903.86 KB - PDF)
 
 **First published:**
 
@@ -317,11 +317,11 @@ English (EN) (531.31 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/bg/documents/product-information/cabazitaxel-accord-epar-product-information_bg.pdf)
 
-español (ES) (858.44 KB - PDF)
+español (ES) (976.9 KB - PDF)
 
 **First published:**
 
@@ -329,11 +329,11 @@ español (ES) (858.44 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/es/documents/product-information/cabazitaxel-accord-epar-product-information_es.pdf)
 
-čeština (CS) (765.2 KB - PDF)
+čeština (CS) (1.01 MB - PDF)
 
 **First published:**
 
@@ -341,11 +341,11 @@ español (ES) (858.44 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/cs/documents/product-information/cabazitaxel-accord-epar-product-information_cs.pdf)
 
-dansk (DA) (722.6 KB - PDF)
+dansk (DA) (758.89 KB - PDF)
 
 **First published:**
 
@@ -353,11 +353,11 @@ dansk (DA) (722.6 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/da/documents/product-information/cabazitaxel-accord-epar-product-information_da.pdf)
 
-Deutsch (DE) (799.3 KB - PDF)
+Deutsch (DE) (793.97 KB - PDF)
 
 **First published:**
 
@@ -365,11 +365,11 @@ Deutsch (DE) (799.3 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/de/documents/product-information/cabazitaxel-accord-epar-product-information_de.pdf)
 
-eesti keel (ET) (643.23 KB - PDF)
+eesti keel (ET) (676.34 KB - PDF)
 
 **First published:**
 
@@ -377,11 +377,11 @@ eesti keel (ET) (643.23 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/et/documents/product-information/cabazitaxel-accord-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.17 MB - PDF)
+ελληνικά (EL) (1.01 MB - PDF)
 
 **First published:**
 
@@ -389,11 +389,11 @@ eesti keel (ET) (643.23 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/el/documents/product-information/cabazitaxel-accord-epar-product-information_el.pdf)
 
-français (FR) (768.87 KB - PDF)
+français (FR) (814.14 KB - PDF)
 
 **First published:**
 
@@ -401,11 +401,11 @@ français (FR) (768.87 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/fr/documents/product-information/cabazitaxel-accord-epar-product-information_fr.pdf)
 
-hrvatski (HR) (689.86 KB - PDF)
+hrvatski (HR) (650.03 KB - PDF)
 
 **First published:**
 
@@ -413,11 +413,11 @@ hrvatski (HR) (689.86 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/hr/documents/product-information/cabazitaxel-accord-epar-product-information_hr.pdf)
 
-íslenska (IS) (744.41 KB - PDF)
+íslenska (IS) (657.35 KB - PDF)
 
 **First published:**
 
@@ -425,11 +425,11 @@ hrvatski (HR) (689.86 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/is/documents/product-information/cabazitaxel-accord-epar-product-information_is.pdf)
 
-italiano (IT) (659.24 KB - PDF)
+italiano (IT) (751.02 KB - PDF)
 
 **First published:**
 
@@ -437,11 +437,11 @@ italiano (IT) (659.24 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/it/documents/product-information/cabazitaxel-accord-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (750.25 KB - PDF)
+latviešu valoda (LV) (834.11 KB - PDF)
 
 **First published:**
 
@@ -449,11 +449,11 @@ latviešu valoda (LV) (750.25 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/lv/documents/product-information/cabazitaxel-accord-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (847.83 KB - PDF)
+lietuvių kalba (LT) (855.96 KB - PDF)
 
 **First published:**
 
@@ -461,11 +461,11 @@ lietuvių kalba (LT) (847.83 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/lt/documents/product-information/cabazitaxel-accord-epar-product-information_lt.pdf)
 
-magyar (HU) (875.34 KB - PDF)
+magyar (HU) (876.56 KB - PDF)
 
 **First published:**
 
@@ -473,11 +473,11 @@ magyar (HU) (875.34 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/hu/documents/product-information/cabazitaxel-accord-epar-product-information_hu.pdf)
 
-Malti (MT) (855.97 KB - PDF)
+Malti (MT) (829.88 KB - PDF)
 
 **First published:**
 
@@ -485,11 +485,11 @@ Malti (MT) (855.97 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/mt/documents/product-information/cabazitaxel-accord-epar-product-information_mt.pdf)
 
-Nederlands (NL) (688.1 KB - PDF)
+Nederlands (NL) (744.01 KB - PDF)
 
 **First published:**
 
@@ -497,11 +497,11 @@ Nederlands (NL) (688.1 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/nl/documents/product-information/cabazitaxel-accord-epar-product-information_nl.pdf)
 
-norsk (NO) (760.73 KB - PDF)
+norsk (NO) (789.63 KB - PDF)
 
 **First published:**
 
@@ -509,11 +509,11 @@ norsk (NO) (760.73 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/no/documents/product-information/cabazitaxel-accord-epar-product-information_no.pdf)
 
-polski (PL) (698.72 KB - PDF)
+polski (PL) (706.88 KB - PDF)
 
 **First published:**
 
@@ -521,11 +521,11 @@ polski (PL) (698.72 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/pl/documents/product-information/cabazitaxel-accord-epar-product-information_pl.pdf)
 
-português (PT) (664.77 KB - PDF)
+português (PT) (747.37 KB - PDF)
 
 **First published:**
 
@@ -533,11 +533,11 @@ português (PT) (664.77 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/pt/documents/product-information/cabazitaxel-accord-epar-product-information_pt.pdf)
 
-română (RO) (795.11 KB - PDF)
+română (RO) (758.61 KB - PDF)
 
 **First published:**
 
@@ -545,11 +545,11 @@ română (RO) (795.11 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/ro/documents/product-information/cabazitaxel-accord-epar-product-information_ro.pdf)
 
-slovenčina (SK) (689.55 KB - PDF)
+slovenčina (SK) (821.07 KB - PDF)
 
 **First published:**
 
@@ -557,11 +557,11 @@ slovenčina (SK) (689.55 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/sk/documents/product-information/cabazitaxel-accord-epar-product-information_sk.pdf)
 
-slovenščina (SL) (689.55 KB - PDF)
+slovenščina (SL) (732.05 KB - PDF)
 
 **First published:**
 
@@ -569,11 +569,11 @@ slovenščina (SL) (689.55 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/sl/documents/product-information/cabazitaxel-accord-epar-product-information_sl.pdf)
 
-Suomi (FI) (737.16 KB - PDF)
+Suomi (FI) (842.43 KB - PDF)
 
 **First published:**
 
@@ -581,11 +581,11 @@ Suomi (FI) (737.16 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/fi/documents/product-information/cabazitaxel-accord-epar-product-information_fi.pdf)
 
-svenska (SV) (789.26 KB - PDF)
+svenska (SV) (864.72 KB - PDF)
 
 **First published:**
 
@@ -593,11 +593,11 @@ svenska (SV) (789.26 KB - PDF)
 
 **Last updated:**
 
-07/05/2025
+07/01/2026
 
 [View](/sv/documents/product-information/cabazitaxel-accord-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000269507 07/05/2025
+**Latest procedure affecting product information:** VR/0000320820 07/01/2026
 
 icon globe
 
@@ -621,7 +621,7 @@ English (EN) (11.39 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cabazitaxel-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-180)
+[Other languages (24)](#file-language-dropdown-79)
 
 български (BG) (50.48 KB - PDF)
 
@@ -841,7 +841,7 @@ Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a
 
-Opinion adopted 30/04/2020 Marketing authorisation issued 28/08/2020 Revision 7
+Opinion adopted 30/04/2020 Marketing authorisation issued 28/08/2020 Revision 8
 
 ## Assessment history
 
@@ -853,9 +853,11 @@ Collapse section
 
 Cabazitaxel Accord : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (297.38 KB - PDF)
+English (EN) (350.86 KB - PDF)
 
 **First published:** 07/05/2025
+
+**Last updated:** 07/01/2026
 
 [View](/en/documents/procedural-steps-after/cabazitaxel-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -905,13 +907,15 @@ The approved product information for this medicine is available below showing th
 
 Cabazitaxel Accord : EPAR - Product information - tracked changes
 
-English (EN) (538.54 KB - DOCX)
+English (EN) (543.19 KB - DOCX)
 
 **First published:** 07/05/2025
 
+**Last updated:** 07/01/2026
+
 [View](/en/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-648)
+[Other languages (24)](#file-language-dropdown-1)
 
 български (BG) (1.97 MB - DOCX)
 
@@ -919,29 +923,45 @@ English (EN) (538.54 KB - DOCX)
 
 07/05/2025
 
+**Last updated:**
+
+07/01/2026
+
 [View](/bg/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_bg.docx)
 
-español (ES) (1.97 MB - DOCX)
+español (ES) (1.98 MB - DOCX)
 
 **First published:**
 
 07/05/2025
+
+**Last updated:**
+
+07/01/2026
 
 [View](/es/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_es.docx)
 
-čeština (CS) (922.23 KB - DOCX)
+čeština (CS) (924.08 KB - DOCX)
 
 **First published:**
 
 07/05/2025
+
+**Last updated:**
+
+07/01/2026
 
 [View](/cs/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_cs.docx)
 
-dansk (DA) (1.99 MB - DOCX)
+dansk (DA) (1.98 MB - DOCX)
 
 **First published:**
 
 07/05/2025
+
+**Last updated:**
+
+07/01/2026
 
 [View](/da/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_da.docx)
 
@@ -951,21 +971,33 @@ Deutsch (DE) (1.6 MB - DOCX)
 
 07/05/2025
 
+**Last updated:**
+
+07/01/2026
+
 [View](/de/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_de.docx)
 
-eesti keel (ET) (713.06 KB - DOCX)
+eesti keel (ET) (716.95 KB - DOCX)
 
 **First published:**
 
 07/05/2025
+
+**Last updated:**
+
+07/01/2026
 
 [View](/et/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_et.docx)
 
-ελληνικά (EL) (825.89 KB - DOCX)
+ελληνικά (EL) (623.84 KB - DOCX)
 
 **First published:**
 
 07/05/2025
+
+**Last updated:**
+
+07/01/2026
 
 [View](/el/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_el.docx)
 
@@ -975,53 +1007,81 @@ français (FR) (1.88 MB - DOCX)
 
 07/05/2025
 
+**Last updated:**
+
+07/01/2026
+
 [View](/fr/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_fr.docx)
 
-hrvatski (HR) (615.58 KB - DOCX)
+hrvatski (HR) (618.59 KB - DOCX)
 
 **First published:**
 
 07/05/2025
+
+**Last updated:**
+
+07/01/2026
 
 [View](/hr/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_hr.docx)
 
-íslenska (IS) (450.22 KB - DOCX)
+íslenska (IS) (431.31 KB - DOCX)
 
 **First published:**
 
 07/05/2025
+
+**Last updated:**
+
+07/01/2026
 
 [View](/is/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_is.docx)
 
-italiano (IT) (1.99 MB - DOCX)
+italiano (IT) (2 MB - DOCX)
 
 **First published:**
 
 07/05/2025
+
+**Last updated:**
+
+07/01/2026
 
 [View](/it/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_it.docx)
 
-latviešu valoda (LV) (1.99 MB - DOCX)
+latviešu valoda (LV) (1.93 MB - DOCX)
 
 **First published:**
 
 07/05/2025
+
+**Last updated:**
+
+07/01/2026
 
 [View](/lv/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_lv.docx)
 
-lietuvių kalba (LT) (1.88 MB - DOCX)
+lietuvių kalba (LT) (1.89 MB - DOCX)
 
 **First published:**
 
 07/05/2025
+
+**Last updated:**
+
+07/01/2026
 
 [View](/lt/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_lt.docx)
 
-magyar (HU) (1.92 MB - DOCX)
+magyar (HU) (1.93 MB - DOCX)
 
 **First published:**
 
 07/05/2025
+
+**Last updated:**
+
+07/01/2026
 
 [View](/hu/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_hu.docx)
 
@@ -1031,13 +1091,21 @@ Malti (MT) (1.37 MB - DOCX)
 
 07/05/2025
 
+**Last updated:**
+
+07/01/2026
+
 [View](/mt/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_mt.docx)
 
-Nederlands (NL) (668.14 KB - DOCX)
+Nederlands (NL) (668.85 KB - DOCX)
 
 **First published:**
 
 07/05/2025
+
+**Last updated:**
+
+07/01/2026
 
 [View](/nl/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_nl.docx)
 
@@ -1047,21 +1115,33 @@ norsk (NO) (1.99 MB - DOCX)
 
 07/05/2025
 
+**Last updated:**
+
+07/01/2026
+
 [View](/no/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_no.docx)
 
-polski (PL) (754.62 KB - DOCX)
+polski (PL) (758.19 KB - DOCX)
 
 **First published:**
 
 07/05/2025
+
+**Last updated:**
+
+07/01/2026
 
 [View](/pl/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_pl.docx)
 
-português (PT) (878.8 KB - DOCX)
+português (PT) (905.78 KB - DOCX)
 
 **First published:**
 
 07/05/2025
+
+**Last updated:**
+
+07/01/2026
 
 [View](/pt/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_pt.docx)
 
@@ -1071,6 +1151,10 @@ română (RO) (1.97 MB - DOCX)
 
 07/05/2025
 
+**Last updated:**
+
+07/01/2026
+
 [View](/ro/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_ro.docx)
 
 slovenčina (SK) (1.25 MB - DOCX)
@@ -1079,21 +1163,33 @@ slovenčina (SK) (1.25 MB - DOCX)
 
 07/05/2025
 
+**Last updated:**
+
+07/01/2026
+
 [View](/sk/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_sk.docx)
 
-slovenščina (SL) (688.51 KB - DOCX)
+slovenščina (SL) (678.99 KB - DOCX)
 
 **First published:**
 
 07/05/2025
+
+**Last updated:**
+
+07/01/2026
 
 [View](/sl/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_sl.docx)
 
-Suomi (FI) (2.01 MB - DOCX)
+Suomi (FI) (2.02 MB - DOCX)
 
 **First published:**
 
 07/05/2025
+
+**Last updated:**
+
+07/01/2026
 
 [View](/fi/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_fi.docx)
 
@@ -1102,6 +1198,10 @@ svenska (SV) (1.94 MB - DOCX)
 **First published:**
 
 07/05/2025
+
+**Last updated:**
+
+07/01/2026
 
 [View](/sv/documents/product-information-tracked-changes/cabazitaxel-accord-epar-product-information-tracked-changes_sv.docx)
 
@@ -1117,7 +1217,7 @@ English (EN) (115.56 KB - PDF)
 
 [View](/en/documents/medication-error/cabazitaxel-accord-letter-healthcare-professionals-about-risk-mix-ups-jevtana-cabazitaxel_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-115)
+[Other languages (22)](#file-language-dropdown-27)
 
 български (BG) (128.38 KB - PDF)
 
@@ -1307,7 +1407,7 @@ English (EN) (66.45 KB - PDF)
 
 [View](/en/documents/other/questions-and-answers-generic-medicines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-480)
+[Other languages (22)](#file-language-dropdown-573)
 
 български (BG) (93.16 KB - PDF)
 
@@ -1582,7 +1682,7 @@ svenska (SV) (67.11 KB - PDF)
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 07/05/2025
+**This page was last updated on** 07/01/2026
 
 ## Share this page
 

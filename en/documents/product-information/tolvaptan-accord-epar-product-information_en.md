@@ -1,16 +1,16 @@
 ---
-document_datetime: 2023-09-21 22:23:25
+document_datetime: 2026-01-09 14:07:16
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tolvaptan-accord-epar-product-information_en.pdf
 document_name: tolvaptan-accord-epar-product-information_en.pdf
 version: success
-processing_time: 7.1078499
-conversion_datetime: 2025-12-26 19:17:08.212541
+processing_time: 7.7613715
+conversion_datetime: 2026-01-10 10:55:01.269256
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -32,7 +32,7 @@ Tolvaptan Accord 7.5 mg tablets Tolvaptan Accord 15 mg tablets Tolvaptan Accord 
 
 Each tablet contains 7.5 mg tolvaptan. Excipient with known effect 17.5 mg lactose (as monohydrate) per tablet
 
-## Tolvaptan Accord 15 mg tablets
+Tolvaptan Accord 15 mg tablets
 
 Each tablet contains 15 mg tolvaptan. Excipient with known effect 35 mg lactose (as monohydrate) per tablet
 
@@ -44,7 +44,7 @@ For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
-Tablet
+## Tablet
 
 ## Tolvaptan Accord 7.5 mg tablets
 
@@ -181,7 +181,7 @@ Liver function tests must be promptly performed in patients taking tolvaptan who
 
 ## Anaphylaxis
 
-In post-marketing experience, anaphylaxis (including anaphylactic shock and generalised rash) has been reported very rarely following administration of tolvaptan. Patients have to be carefully monitored during treatment. Patients with known hypersensitivity reactions to benzazepine or benzazepine derivatives (e.g., benazepril, conivaptan, fenoldopam mesylate or mirtazapine) may be at risk for hypersensitivity reaction to tolvaptan (see section 4.3).
+In post-marketing experience, anaphylaxis (including anaphylactic shock and generalised rash) has been reported very rarely following administration of tolvaptan. Patients have to be carefully monitored during treatment. Patients with known hypersensitivity reactions to benzazepine or benzazepine derivatives (e.g., benazepril, conivaptan, fenoldopam mesylate or mirtazapine) may be at risk for hypersensitivity reaction to tolvaptan (see section 4.3 Contraindications).
 
 If an anaphylactic reaction or other serious allergic reactions occur, administration of tolvaptan must be discontinued immediately and appropriate therapy initiated. Since hypersensitivity is a contraindication (see section 4.3) treatment must never be restarted after an anaphylactic reaction or other serious allergic reactions.
 
@@ -199,11 +199,11 @@ There is no experience from controlled clinical trials with concomitant use of t
 
 ## CYP3A4 inhibitors
 
-Tolvaptan plasma concentrations have been increased by up to 5.4-fold area under time-concentration curve (AUC) after the administration of strong CYP3A4 inhibitors. Caution should be exercised in co-administering CYP3A4 inhibitors (e.g. ketoconazole, macrolide antibiotics, diltiazem) with tolvaptan (see section 4.4). Co-administration of grapefruit juice and tolvaptan resulted in a 1.8-fold increase in exposure to tolvaptan. Patients taking tolvaptan should avoid ingesting grapefruit juice.
+Tolvaptan plasma concentrations have been increased by up to 5.4-fold area under time-concentration curve (AUC) after the administration of strong CYP3A4 inhibitors. Caution should be exercised in co-administering CYP3A4 inhibitors (e.g. ketoconazole, macrolide antibiotics, diltiazem) with tolvaptan. Co-administration of grapefruit juice and tolvaptan resulted in a 1.8-fold increase in exposure to tolvaptan. Patients taking tolvaptan should avoid ingesting grapefruit juice.
 
 ## CYP3A4 inducers
 
-Tolvaptan plasma concentrations have been decreased by up to 87 % (AUC) after the administration of CYP3A4 inducers. Caution has to be exercised in co-administering CYP3A4 inducers (e.g. rifampicin, barbiturates) with tolvaptan.
+Tolvaptan plasma concentrations have been decreased by up to 87 % (AUC) after the administration of CYP3A4 inducers. Caution has to be exercised in co-administering CYP3A4 inducers (e.g. rifampicin, barbiturates and St. John's wort ) with tolvaptan.
 
 ## Effect of tolvaptan on the pharmacokinetics of other products
 
@@ -219,7 +219,7 @@ lovastatin by 1.3-fold to 1.5-fold. Even though this increase has no clinical re
 
 ## P-glycoprotein substrates
 
-In-vitro studies indicate that tolvaptan is a substrate and competitive inhibitor of P-glycoprotein (P-gp). Steady state digoxin concentrations were increased (1.3-fold in maximum observed plasma concentration [Cmax] and 1.2-fold in area under the plasma concentration-time curve over the dosing interval [AUCτ]) when co-administered with multiple once daily 60 mg doses of tolvaptan. Patients receiving digoxin or other narrow therapeutic index P-gp substrates (e.g., dabigatran etexilate) must therefore be managed cautiously and evaluated for excessive effects when treated with tolvaptan.
+In-vitro studies indicate that tolvaptan is a substrate and competitive inhibitor of P-glycoprotein (P-gp). Steady state digoxin concentrations were increased (1.3-fold in maximum observed plasma concentration [Cmax] and 1.2-fold in area under the plasma concentration-time curve over the dosing interval [AUC τ ]) when co-administered with multiple once daily 60 mg doses of tolvaptan. Patients receiving digoxin or other narrow therapeutic index P-gp substrates (e.g., dabigatran etexilate) must therefore be managed cautiously and evaluated for excessive effects when treated with tolvaptan.
 
 ## BCRP and OCT1
 
@@ -352,7 +352,7 @@ The European Medicines Agency has deferred the obligation to submit the results 
 
 ## Absorption
 
-After oral administration, tolvaptan is rapidly absorbed with peak plasma concentrations occurring about 2 hours after dosing. The absolute bioavailability of tolvaptan is about 56 %. Co-administration of a 60 mg dose with a high-fat meal increases peak concentrations 1.4-fold with no change in AUC and no change in urine output. Following single oral doses of  300 mg, peak plasma concentrations appear to plateau, possibly due to saturation of absorption.
+After oral administration, tolvaptan is rapidly absorbed with peak plasma concentrations occurring about 2 hours after dosing. The absolute bioavailability of tolvaptan is about 56 %. Co-administration of a 60 mg dose with a high-fat meal increases peak concentrations 1.4-fold with no change in AUC and no change in urine output. Following single oral doses of  300 mg, peak plasma concentrations appear to plateau, possibly due to saturation of absorption.
 
 ## Distribution
 
@@ -376,7 +376,7 @@ Radio-labelled tolvaptan experiments showed that 40 % of the radioactivity was r
 
 Tolvaptan has linear pharmacokinetics for doses of 7.5 mg to 60 mg.
 
-## Pharmacokinetics in special patient groups
+Pharmacokinetics in special patient groups
 
 ## Age
 
@@ -444,7 +444,7 @@ EU/1/23/1719/001-012
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation:
+Date of first authorisation: 24 March 2023.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -481,20 +481,20 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  At the request of the European Medicines Agency;
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -548,7 +548,7 @@ Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -588,7 +588,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -608,17 +608,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS ORSTRIPS   |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
 |------------------------------------------------------|
 | UNIT DOSE BLISTERS                                   |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Tolvaptan Accord 7.5 mg tablets tolvaptan
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Accord
 
@@ -627,8 +627,8 @@ Accord
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
@@ -637,7 +637,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-OUTER CARTON
+## OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -655,7 +655,7 @@ See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Tablet
+## Tablet
 
 7×1 tablet
 
@@ -729,17 +729,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS ORSTRIPS   |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
 |------------------------------------------------------|
 | UNIT DOSE BLISTERS                                   |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Tolvaptan Accord 15 mg tablets tolvaptan
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Accord
 
@@ -748,15 +748,13 @@ Accord
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
 | 5.   | OTHER   |
 |------|---------|
-
-24
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -778,7 +776,7 @@ See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Tablet
+## Tablet
 
 7×1 tablet
 
@@ -840,7 +838,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -860,17 +858,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS ORSTRIPS   |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
 |------------------------------------------------------|
 | UNIT DOSE BLISTERS                                   |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Tolvaptan Accord 30 mg tablets tolvaptan
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Accord
 
@@ -879,23 +877,21 @@ Accord
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
 | 5.   | OTHER   |
 |------|---------|
 
-27
-
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the patient
+
+<div style=\"page-break-after: always\"></div>
 
 Tolvaptan Accord 7.5 mg tablets
 
@@ -921,7 +917,7 @@ Tolvaptan Accord 15 mg tablets Tolvaptan Accord 30 mg tablets tolvaptan
 
 Tolvaptan Accord, which contains the active substance tolvaptan, belongs to a group of medicines called vasopressin antagonists. Vasopressin is a hormone that helps prevent the loss of water from the body by reducing urine output. Antagonist means that it prevents vasopressin having its effect on water retention. This leads to a reduction in the amount of water in the body by increasing urine production and as a result it increases the level or concentration of sodium in your blood.
 
-Tolvaptan Accord is used to treat low serum sodium levels in adults. You have been prescribed this medicine because you have a lowered sodium level in your blood as a result of a disease called 'syndrome of inappropriate antidiuretic hormone secretion' (SIADH) where the kidneys retain too much water. This disease causes an inappropriate production of the hormone vasopressin which has caused the sodium levels in your blood to get too low (hyponatremia). That can lead to difficulties in concentration and memory, or in keeping your balance.
+Tolvaptan Accord is used to treat low serum sodium levels in adults. You have been prescribed this medicine because you have a lowered sodium level in your blood as a result of a disease called 'syndrome of inappropriate antidiuretic hormone secretion' (SIADH) where the k idneys retain too much water. This disease causes an inappropriate production of the hormone vasopressin which has caused the sodium levels in your blood to get too low (hyponatremia). That can lead to difficulties in concentration and memory, or in keeping your balance.
 
 ## 2. What you need to know before you take Tolvaptan Accord
 
@@ -950,7 +946,7 @@ Talk to your doctor or pharmacist before taking Tolvaptan Accord:
 
 ## Drinking enough water
 
-Tolvaptan Accord causes water loss because it increases your urine production. This water loss may result in side effects such as dry mouth and thirst or even more severe side effects like kidney problems (see Section 4). It is therefore important that you have access to water and that you are able to drink sufficient amounts when you feel thirsty.
+Tolvaptan Accord causes water loss because it increases your urine production. This water loss may result in side effects such as dry mouth and thirst or even more severe side effects like kidney problems (see section 4). It is therefore important that you have access to water and that you are able to drink sufficient amounts when you feel thirsty.
 
 ## Children and adolescents
 
@@ -971,6 +967,7 @@ The following medicines may lower the effect of this medicine:
 
 - barbiturates (used to treat epilepsy/seizures and some sleep disorders),
 - rifampicin (against tuberculosis).
+- St. John's wort, a herbal medicinal product used to treat depression.
 
 This medicine may increase the effect of the following medicines:
 
@@ -1108,10 +1105,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Tolvaptan Accord contains
 
 - -The active
-- substance is tolvaptan. Each Tolvaptan Accord 7.5 mg tablet contains 7.5 mg tolvaptan. Each Tolvaptan Accord 15 mg tablet contains 15 mg tolvaptan.
-
-Each Tolvaptan Accord 30 mg tablet contains 30 mg tolvaptan.
-
+- substance is tolvaptan. Each Tolvaptan Accord 7.5 mg tablet contains 7.5 mg tolvaptan. Each Tolvaptan Accord 15 mg tablet contains 15 mg tolvaptan. Each Tolvaptan Accord 30 mg tablet contains 30 mg tolvaptan.
 - -The other ingredients are lactose monohydrate, maize starch, microcrystalline cellulose, magnesium stearate, croscarmellose sodium, hydroxypropylcellulose, Indigo carmine aluminium lake (E132)
 
 ## What Tolvaptan Accord looks like and contents of the pack

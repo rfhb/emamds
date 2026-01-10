@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-26 15:54:35
+document_datetime: 2026-01-09 15:02:52
 document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/fintepla-epar-product-information_en.pdf
 document_name: fintepla-epar-product-information_en.pdf
 version: success
-processing_time: 12.9303089
-conversion_datetime: 2025-12-19 03:20:11.788347
+processing_time: 13.0104371
+conversion_datetime: 2026-01-10 11:19:39.093785
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -79,19 +79,13 @@ Table 1: Dosage recommendations for Dravet syndrome (DS) and Lennox-Gastaut synd
 | Day 7                   | 0.2 mg/kg twice daily              | 26 mg (13 mg twice daily i.e. 6.0 ml twice daily) | Maintenance dose 0.2 mg/kg twice daily            | 17 mg (8.6 mg twice daily i.e. 4.0 ml twice daily) |
 | Day 14**                | 0.35 mg/kg twice daily             | 26 mg (13 mg twice daily i.e. 6.0 ml twice daily) | Not applicable                                    | 17 mg (8.6 mg twice daily i.e. 4.0 ml twice daily) |
 
-* For patients not on concomitant stiripentol requiring more rapid titration, the dose may be increased every 4 days.
-
-+ For patients with Dravet syndrome, dosage may be increased based on clinical response to the maximum recommended dose, as needed.
-
-**For patients with Lennox-Gastaut syndrome, dosage should be increased as tolerated to the recommended maintenance dose (i.e., Day 14)
-
-++ To calculate the dose volume up to the maximal recommended dose, you must use the formula:
-
 Weight (kg) x Weight-based dosage (mg/kg) ÷ 2.2 mg/ml = ml dose to be taken twice daily
 
-The calculated dose should be rounded to the nearest graduated increment.
+Always round the calculated dose up or down to the nearest graduation mark, following standard rounding conventions. For example, for a patient that needs a dose of 2.15 ml, the applied volume needs to be rounded up to 2.2 ml as the 3 ml syringe can only deliver 2.1 ml or 2.2 ml. Likewise a volume of 1.13 ml would need to be rounded down to a delivered volume of 1.1 ml. For a patient that needs a dose of 3.15 ml, the applied volume needs to be rounded up to 3.2 ml as the 6 ml syringe can only deliver 3.0 ml or 3.2 ml. Likewise a volume of 4.25 ml would need to be rounded down to a delivered volume of 4.2 ml.
 
-If the calculated dose is 3 ml or less, the green printed 3 ml syringe should be used. If the calculated dose is more than 3 ml, the purple printed 6 ml syringe should be used.
+If the calculated dose is 3 ml or less, the green printed 3 ml syringe should be used (with 0.1 ml graduation marks).
+
+If the calculated dose is more than 3 ml, the purple printed 6 ml syringe should be used (with 0.2 ml graduation marks).
 
 The table below must only be used as a check on the calculated dose volume. Table 2 does not replace the requirement to calculate the specific dose volume.
 
@@ -100,23 +94,23 @@ Table 2: Range of dose volumes in ml for calculation check
 |                 | Dosing without concomitant STP*   | Dosing without concomitant STP*   | Dosing without concomitant STP*   | Dosing with concomitant STP**   | Dosing with concomitant STP**   |
 |-----------------|-----------------------------------|-----------------------------------|-----------------------------------|---------------------------------|---------------------------------|
 | Weight category | Starting dose                     | Day 7-13                          | Day 14 and further                | Starting dose                   | Day 7 and further               |
-| Weight category | 0.1 mg/kg twice daily             | 0.2 mg/kg twice daily             | 0.35 mg/kg twice daily            | 0.1 mg/kg twice daily           | 0.2 mg/kg twice daily           |
-| 3-5 kg          | 0.2-0.3 ml                        | 0.3-0.5 ml                        | 0.5-0.8 ml                        | 0.2-0.3 ml                      | 0.3-0.5 ml                      |
-| 5-7 kg          | 0.3-0.4 ml                        | 0.5-0.7 ml                        | 0.8-1.2 ml                        | 0.3-0.4 ml                      | 0.5-0.7 ml                      |
-| 7-10 kg         | 0.4-0.5 ml                        | 0.7-1 ml                          | 1.2-1.6 ml                        | 0.4-0.5 ml                      | 0.7-1 ml                        |
-| 10-15 kg        | 0.5-0.7 ml                        | 1-1.4 ml                          | 1.6-2.4 ml                        | 0.5-0.7 ml                      | 1-1.4 ml                        |
-| 15-20 kg        | 0.7-1 ml                          | 1.4-1.9 ml                        | 2.4-3.2 ml                        | 0.7-1 ml                        | 1.4-1.9 ml                      |
-| 20-30 kg        | 1-1.4 ml                          | 1.9-2.8 ml                        | 3.2-4.8 ml                        | 1-1.4 ml                        | 1.9-2.8 ml                      |
-| 30-38 kg        | 1.4-1.8 ml                        | 2.8-3.5 ml                        | 4.8-6 ml (maximum dose)           | 1.4-1.8 ml                      | 2.8-3.5 ml                      |
+|                 | 0.1 mg/kg twice daily             | 0.2 mg/kg twice daily             | 0.35 mg/kg twice daily            | 0.1 mg/kg twice daily           | 0.2 mg/kg twice daily           |
+| 3-5 kg          | 0.1-0.2 ml                        | 0.3-0.5 ml                        | 0.5-0.8 ml                        | 0.1-0.2 ml                      | 0.3-0.5 ml                      |
 
 <div style=\"page-break-after: always\"></div>
 
-| 38-43 kg   | 1.8-2 ml              | 3.5-4 ml              | 6 ml (maximum dose)   | 1.8-2 ml              | 3.5-4 ml (maximum dose)   |
-|------------|-----------------------|-----------------------|-----------------------|-----------------------|---------------------------|
-| 43-55 kg   | 2-2.5 ml              | 4-5 ml                | 6 ml (maximum dose)   | 2-2.5 ml              | 4 ml (maximum dose)       |
-| 55-65 kg   | 2.5-3 ml              | 5-6 ml (maximum dose) | 6 ml (maximum dose)   | 2.5-3 ml              | 4 ml (maximum dose)       |
-| 65-86 kg   | 3-4 ml                | 6 ml (maximum dose)   | 6 ml (maximum dose)   | 3-4 ml (maximum dose) | 4 ml (maximum dose)       |
-| 86-130 kg  | 4-6 ml (maximum dose) | 6 ml (maximum dose)   | 6 ml (maximum dose)   | 4 ml (maximum dose)   | 4 ml (maximum dose)       |
+| 5-7 kg    | 0.2-0.3 ml            | 0.5-0.6 ml            | 0.8-1.1 ml              | 0.2-0.3 ml            | 0.5-0.6 ml              |
+|-----------|-----------------------|-----------------------|-------------------------|-----------------------|-------------------------|
+| 7-10 kg   | 0.3-0.5 ml            | 0.6-0.9 ml            | 1.1-1.6 ml              | 0.3-0.5 ml            | 0.6-0.9 ml              |
+| 10-15 kg  | 0.5-0.7 ml            | 0.9-1.4 ml            | 1.6-2.4 ml              | 0.5-0.7 ml            | 0.9-1.4 ml              |
+| 15-20 kg  | 0.7-0.9 ml            | 1.4-1.8 ml            | 2.4-3.2 ml              | 0.7-0.9 ml            | 1.4-1.8 ml              |
+| 20-30 kg  | 0.9-1.4 ml            | 1.8-2.7 ml            | 3.2-4.8 ml              | 0.9-1.4 ml            | 1.8-2.7 ml              |
+| 30-38 kg  | 1.4-1.7 ml            | 2.7-3.4 ml            | 4.8-6 ml (maximum dose) | 1.4-1.7 ml            | 2.7-3.4 ml              |
+| 38-43 kg  | 1.7-2 ml              | 3.4-4 ml              | 6 ml (maximum dose)     | 1.7-2 ml              | 3.4-4 ml (maximum dose) |
+| 43-55 kg  | 2-2.5 ml              | 4-5 ml                | 6 ml (maximum dose)     | 2-2.5 ml              | 4 ml (maximum dose)     |
+| 55-65 kg  | 2.5-3 ml              | 5-6 ml (maximum dose) | 6 ml (maximum dose)     | 2.5-3 ml              | 4 ml (maximum dose)     |
+| 65-86 kg  | 3-4 ml                | 6 ml (maximum dose)   | 6 ml (maximum dose)     | 3-4 ml (maximum dose) | 4 ml (maximum dose)     |
+| 86-130 kg | 4-6 ml (maximum dose) | 6 ml (maximum dose)   | 6 ml (maximum dose)     | 4 ml (maximum dose)   | 4 ml (maximum dose)     |
 
 *Without concomitant STP: The maximum dose 13 mg twice daily corresponds to 6 ml twice daily. **With concomitant STP: The maximum dose of 8.6 mg twice daily corresponds to 4 ml twice daily.
 
@@ -138,13 +132,13 @@ There are no specific clinical data on the use of Fintepla with stiripentol in p
 
 Generally, no dose adjustment is recommended when Fintepla is administered without concomitant stiripentol to patients with mild and moderate hepatic impairment (Child-Pugh Class A and B). In patients with severe hepatic impairment (Child-Pugh C) not receiving concomitant stiripentol, the maximum dosage for these patients is 0.2 mg/kg twice daily, and the maximal total daily dose is 17 mg.
 
+<div style=\"page-break-after: always\"></div>
+
 There are limited clinical data on the use of Fintepla with stiripentol in patients with mild impaired hepatic function (see section 5.2).
 
 A slower titration may be considered in patients with hepatic impairment. If adverse reactions are reported, a dose reduction may be needed. (see section 5.2).
 
 There are no clinical data on the use of Fintepla with stiripentol in patients with moderate and severe impaired hepatic function. Fintepla is therefore not recommended for use in patients with moderate and severe hepatic impairment treated with stiripentol.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Elderly
 
@@ -166,7 +160,9 @@ Fintepla contains a very limited amount of digestible carbohydrates and is compa
 
 ## 4.3 Contraindications
 
-Hypersensitivity to the active substance or any of the excipients listed in section 6.1. Aortic or mitral valvular heart disease.
+Hypersensitivity to the active substance or any of the excipients listed in section 6.1.
+
+Aortic or mitral valvular heart disease.
 
 Pulmonary arterial hypertension.
 
@@ -174,7 +170,7 @@ Within 14 days of the administration of monoamine oxidase inhibitors due to an i
 
 ## 4.4 Special warnings and precautions for use
 
-Aortic or mitral valvular heart disease and pulmonary arterial hypertension
+## Aortic or mitral valvular heart disease and pulmonary arterial hypertension
 
 Because of reported cases of valvular heart disease and pulmonary arterial hypertension that may have been caused by fenfluramine at higher doses used to treat adult obesity, cardiac monitoring must be performed using echocardiography. Patients with valvular heart disease or pulmonary arterial hypertension were excluded from the controlled clinical studies of fenfluramine for the treatment of Dravet syndrome and Lennox-Gastaut syndrome. Neither pulmonary arterial hypertension nor valvular heart disease were observed during these studies. However, post-marketing data show that they can also occur with doses used to treat Dravet syndrome and Lennox-Gastaut syndrome (see section 4.8).
 
@@ -182,15 +178,15 @@ Prior to starting treatment, patients must undergo an echocardiogram to establis
 
 Echocardiogram monitoring should be conducted every 6 months for the first 2 years and annually thereafter. Once treatment is discontinued for any reasons, a final echocardiogram should be conducted 3-6 months after the last dose of treatment with fenfluramine.
 
-If an echocardiogram indicates pathological valvular changes, a follow-up echocardiogram should be considered at an earlier timeframe to evaluate whether the abnormality is persistent. If pathological abnormalities on the echocardiogram are observed, it is recommended to evaluate the benefit versus risk of continuing fenfluramine treatment with the prescriber, caregiver, and cardiologist.
-
-If treatment is stopped because of aortic or mitral valvular heart disease, appropriate monitoring and follow-up should be provided in accordance with local guidelines for the treatment of aortic or mitral valvular heart disease.
-
-If echocardiogram findings are suggestive of pulmonary arterial hypertension, a repeat echocardiogram should be performed as soon as possible and within 3 months to confirm these
+If an echocardiogram indicates pathological valvular changes, a follow-up echocardiogram should be considered at an earlier timeframe to evaluate whether the abnormality is persistent. If pathological
 
 <div style=\"page-break-after: always\"></div>
 
-findings. If the echocardiogram finding is confirmed suggestive of an increased probability of pulmonary arterial hypertension defined as 'intermediate probability' by the European Society of Cardiology (ESC) and the European Respiratory Society (ERS) guidelines, it should lead to a benefitrisk evaluation of continuation of Fintepla by the prescriber, carer, and cardiologist. If the echocardiogram finding, after confirmation, suggests of a high probability of pulmonary arterial hypertension, as defined by the ESC and ERS guidelines, it is recommended fenfluramine treatment should be stopped.
+abnormalities on the echocardiogram are observed, it is recommended to evaluate the benefit versus risk of continuing fenfluramine treatment with the prescriber, caregiver, and cardiologist.
+
+If treatment is stopped because of aortic or mitral valvular heart disease, appropriate monitoring and follow-up should be provided in accordance with local guidelines for the treatment of aortic or mitral valvular heart disease.
+
+If echocardiogram findings are suggestive of pulmonary arterial hypertension, a repeat echocardiogram should be performed as soon as possible and within 3 months to confirm these findings. If the echocardiogram finding is confirmed suggestive of an increased probability of pulmonary arterial hypertension defined as 'intermediate probability' by the European Society of Cardiology (ESC) and the European Respiratory Society (ERS) guidelines, it should lead to a benefitrisk evaluation of continuation of Fintepla by the prescriber, carer, and cardiologist. If the echocardiogram finding, after confirmation, suggests of a high probability of pulmonary arterial hypertension, as defined by the ESC and ERS guidelines, it is recommended fenfluramine treatment should be stopped.
 
 ## Decreased appetite and weight loss
 
@@ -214,11 +210,11 @@ Suicidal behaviour and ideation have been reported in patients treated with anti
 
 As with other serotonergic medicinal products, serotonin syndrome, a potentially life-threatening condition, may occur with fenfluramine treatment, particularly with concomitant use of other serotonergic medicinal products (including SSRIs, SNRIs, tricyclic antidepressants, or triptans); with medicinal products that impair metabolism of serotonin such as MAOIs; or with antipsychotics that may affect the serotonergic neurotransmitter systems (see sections 4.3 and 4.5).
 
+<div style=\"page-break-after: always\"></div>
+
 Serotonin syndrome symptoms may include mental status changes (e.g., agitation, hallucinations, coma), autonomic instability (e.g., tachycardia, labile blood pressure, hyperthermia), neuromuscular aberrations (e.g., hyperreflexia, incoordination), and/or gastrointestinal symptoms (e.g., nausea, vomiting, diarrhoea).
 
 If concomitant treatment with fenfluramine and other serotonergic medicinal products that may affect the serotonergic systems is clinically warranted, careful observation of the patient is advised, particularly during treatment initiation and dose increases. If serotonin syndrome is suspected, a dose reduction or discontinuation of therapy with Fintepla and/or other serotonergic medicinal products should be considered.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Increased seizure frequency
 
@@ -242,13 +238,15 @@ Initiation of concomitant treatment with a strong CYP1A2 or CYP2D6 inhibitor may
 
 Coadministration of a single 0.35 mg/kg dose of fenfluramine with fluvoxamine (a strong CYP1A2 inhibitor) at steady state (50 mg once daily) in healthy volunteers increased the AUC0-t of fenfluramine by a ratio of 2.1-fold and the Cmax by a ratio of 1.2-fold, and decreased the AUC0-t of norfenfluramine by a ratio of 1.3-fold and the Cmax by a ratio of 1.4-fold, as compared to fenfluramine administered alone.
 
-Coadministration of a single 0.35 mg/kg dose of fenfluramine with paroxetine (a strong CYP2D6 inhibitor) at steady state (30 mg once daily) in healthy volunteers increased the AUC0-t of fenfluramine by a ratio of 1.8-fold and the Cmax by a ratio of 1.1-fold, and decreased the AUC0-t of norfenfluramine by a ratio of 1.2-fold and the Cmax by a ratio of 1.3-fold, as compared to fenfluramine administered alone.
+Coadministration of a single 0.35 mg/kg dose of fenfluramine with paroxetine (a strong CYP2D6 inhibitor) at steady state (30 mg once daily) in healthy volunteers increased the AUC0-t of fenfluramine by a ratio of 1.8-fold and the Cmax by a ratio of 1.1-fold, and decreased the AUC0-t of norfenfluramine
+
+<div style=\"page-break-after: always\"></div>
+
+by a ratio of 1.2-fold and the Cmax by a ratio of 1.3-fold, as compared to fenfluramine administered alone.
 
 ## Excipients
 
 This medicinal product contains sodium ethyl para-hydroxybenzoate (E 215) and sodium methyl parahydroxybenzoate (E 219) which may cause allergic reactions (possibly delayed).
-
-<div style=\"page-break-after: always\"></div>
 
 It also contains sulfur dioxide (E 220) which may rarely cause severe hypersensitivity reactions and bronchospasm.
 
@@ -280,11 +278,11 @@ Co-administration of a single 0.35 mg/kg dose of fenfluramine with repeated dose
 
 Rifampicin induces multiple CYP enzymes which metabolize fenfluramine and norfenfluramine. Coadministration of a single 0.35 mg/kg dose of fenfluramine with rifampicin at steady state (600 mg once daily) in healthy volunteers decreased the AUC0-t of fenfluramine by 58% and the Cmax by 40%, and decreased the AUC0-t of norfenfluramine by 50%, and increased the Cmax of norfenfluramine by 13%, as compared to fenfluramine administered alone. An increase in fenfluramine dose may be necessary when coadministered with rifampicin or a strong CYP1A2 or CYP2B6 inducer (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Effect of CYP1A2 or CYP2D6 inhibitors
 
 Coadministration of a single 0.35 mg/kg dose of fenfluramine with fluvoxamine (a strong CYP1A2 inhibitor) at steady state (50 mg once daily) in healthy volunteers increased the AUC0-t of fenfluramine by a ratio of 2.1-fold and the Cmax by a ratio of 1.2-fold, and decreased the AUC0-t of norfenfluramine by a ratio of 1.3-fold and the Cmax by a ratio of 1.4-fold, as compared to fenfluramine administered alone.
-
-<div style=\"page-break-after: always\"></div>
 
 Coadministration of a single 0.35 mg/kg dose of fenfluramine with paroxetine (a strong CYP2D6 inhibitor) at steady state (30 mg once daily) in healthy volunteers increased the AUC0-t of fenfluramine by a ratio of 1.8-fold and the Cmax by a ratio of 1.1-fold, and decreased the AUC0-t of norfenfluramine by a ratio of 1.2-fold and the Cmax by a ratio of 1.3-fold, as compared to fenfluramine administered alone.
 
@@ -320,13 +318,13 @@ As a precautionary measure, it is preferable to avoid the use of Fintepla during
 
 It is unknown whether fenfluramine/metabolites are excreted in human milk. Available pharmacokinetic data in animals have shown excretion of fenfluramine/metabolites in milk (see section 5.3).
 
-## A risk to the suckling child cannot be excluded.
+<div style=\"page-break-after: always\"></div>
+
+A risk to the suckling child cannot be excluded.
 
 A decision must be made whether to discontinue breast-feeding or to discontinue/abstain from Fintepla therapy taking into account the benefit of breast-feeding for the child and the benefit of therapy for the woman.
 
 ## Fertility
-
-<div style=\"page-break-after: always\"></div>
 
 No effects of fenfluramine on human fertility up to clinical doses of 104 mg/day were noted. However, animal studies suggest that fenfluramine may possibly affect female fertility (see section 5.3).
 
@@ -346,20 +344,22 @@ Adverse reactions reported with fenfluramine in placebo-controlled clinical stud
 
 Table 3: Adverse reactions
 
-| MedDRA System Organ Class                            | Very common        | Common                                                             | Not known                       |
-|------------------------------------------------------|--------------------|--------------------------------------------------------------------|---------------------------------|
-| Infections and infestations                          |                    | Bronchitis                                                         |                                 |
-| Metabolism and nutrition disorders                   | Decreased appetite |                                                                    |                                 |
-| Psychiatric disorders                                |                    | Abnormal behaviour Aggression Agitation Insomnia Mood swings       | Irritability                    |
-| Nervous system disorders                             | Somnolence         | Ataxia Hypotonia Lethargy Seizure Status epilepticus Tremor        | Serotonin syndrome              |
-| Cardiac disorders                                    |                    |                                                                    | Valvular heart disease          |
-| Respiratory, thoracic and mediastinal disorders      |                    |                                                                    | Pulmonary arterial hypertension |
-| Gastrointestinal disorders                           | Diarrhoea          | Constipation Salivary Hypersecretion Vomiting                      |                                 |
-| Skin and subcutaneous tissue disorders               |                    | Rash                                                               |                                 |
-| General disorders and administration site conditions | Fatigue            |                                                                    |                                 |
-| Investigations                                       |                    | Weight decreased Blood glucose decreased Blood prolactin increased |                                 |
+| MedDRA System Organ Class                       | Very common        | Common                                                       | Not known                       |
+|-------------------------------------------------|--------------------|--------------------------------------------------------------|---------------------------------|
+| Infections and infestations                     |                    | Bronchitis                                                   |                                 |
+| Metabolism and nutrition disorders              | Decreased appetite |                                                              |                                 |
+| Psychiatric disorders                           |                    | Abnormal behaviour Aggression Agitation Insomnia Mood swings | Irritability                    |
+| Nervous system disorders                        | Somnolence         | Ataxia Hypotonia Lethargy Seizure Status epilepticus Tremor  | Serotonin syndrome              |
+| Cardiac disorders                               |                    |                                                              | Valvular heart disease          |
+| Respiratory, thoracic and mediastinal disorders |                    |                                                              | Pulmonary arterial hypertension |
+| Gastrointestinal disorders                      | Diarrhoea          | Constipation Salivary Hypersecretion Vomiting                |                                 |
 
 <div style=\"page-break-after: always\"></div>
+
+| Skin and subcutaneous tissue disorders               |         | Rash                                                               |
+|------------------------------------------------------|---------|--------------------------------------------------------------------|
+| General disorders and administration site conditions | Fatigue |                                                                    |
+| Investigations                                       |         | Weight decreased Blood glucose decreased Blood prolactin increased |
 
 ## Description of selected adverse reactions
 
@@ -383,7 +383,9 @@ Valvular heart disease and pulmonary arterial hypertension were evaluated via ec
 
 - Combined fenfluramine group: 18.6% (77/414)
 
-- Placebo: 13.9% (32/230)
+- -
+
+Placebo: 13.9% (32/230)
 
 - Mild mitral regurgitation:
 
@@ -397,13 +399,11 @@ Valvular heart disease and pulmonary arterial hypertension were evaluated via ec
 
 - Placebo: 0.9% (2/230)
 
-Pulmonary arterial hypertension in a child associated with fenfluramine for Dravet syndrome has been reported post-marketing. The patient discontinued fenfluramine and the reaction resolved postdiscontinuation. Valvular heart disease in a child associated with fenfluramine for Dravet syndrome has also been reported post-marketing (see section 4.4).
-
-Lethargy, somnolence, and fatigue (grouping of fatigue/asthenia/malaise/decreased activity) In the controlled trials in subjects with Dravet syndrome, lethargy was commonly reported in 9.7%, and somnolence and fatigue were very commonly reported in 13.9% and 19%, respectively in the
-
 <div style=\"page-break-after: always\"></div>
 
-fenfluramine treatment groups combined. In the controlled study with Lennox-Gastaut syndrome, lethargy was commonly reported in 4.5% of subjects in the fenfluramine treatment group. Fatigue and somnolence were very commonly reported in 16.2% and 16.2% of subjects, respectively. The majority of the adverse reactions of lethargy, somnolence, and fatigue/asthenia were reported in the first 2 weeks of treatment with fenfluramine and were mild or moderate in severity. Discontinuation due to lethargy, somnolence, and fatigue/asthenia was rare and, in most cases, these adverse reactions resolved or improved with ongoing treatment. In the controlled trials with Dravet syndrome, 0.5% and 1.4% of subjects in the fenfluramine treatment groups combined discontinued due to lethargy and somnolence, respectively. In the LGS study 4, 1.5% of subjects in the fenfluramine treatment group discontinued due to somnolence.
+Pulmonary arterial hypertension in a child associated with fenfluramine for Dravet syndrome has been reported post-marketing. The patient discontinued fenfluramine and the reaction resolved postdiscontinuation. Valvular heart disease in a child associated with fenfluramine for Dravet syndrome has also been reported post-marketing (see section 4.4).
+
+Lethargy, somnolence, and fatigue (grouping of fatigue/asthenia/malaise/decreased activity) In the controlled trials in subjects with Dravet syndrome, lethargy was commonly reported in 9.7%, and somnolence and fatigue were very commonly reported in 13.9% and 19%, respectively in the fenfluramine treatment groups combined. In the controlled study with Lennox-Gastaut syndrome, lethargy was commonly reported in 4.5% of subjects in the fenfluramine treatment group. Fatigue and somnolence were very commonly reported in 16.2% and 16.2% of subjects, respectively. The majority of the adverse reactions of lethargy, somnolence, and fatigue/asthenia were reported in the first 2 weeks of treatment with fenfluramine and were mild or moderate in severity. Discontinuation due to lethargy, somnolence, and fatigue/asthenia was rare and, in most cases, these adverse reactions resolved or improved with ongoing treatment. In the controlled trials with Dravet syndrome, 0.5% and 1.4% of subjects in the fenfluramine treatment groups combined discontinued due to lethargy and somnolence, respectively. In the LGS study 4, 1.5% of subjects in the fenfluramine treatment group discontinued due to somnolence.
 
 ## Gastrointestinal disorders
 
@@ -423,6 +423,8 @@ Only limited data have been reported concerning clinical effects and management 
 
 Vital functions should be monitored closely, and supportive treatment administered in case of convulsions, arrhythmias, or respiratory difficulties.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
@@ -431,11 +433,7 @@ Pharmacotherapeutic group: antiepileptics, other antiepileptics; ATC code: N03AX
 
 ## Mechanism of action
 
-Fenfluramine is a serotonin releasing agent, and thereby stimulates multiple 5-HT receptor sub-types through the release of serotonin. Fenfluramine may reduce seizures by acting as an agonist at specific serotonin receptors in the brain, including the 5-HT1D, 5-HT2A, and 5-HT2C receptors, and also by
-
-<div style=\"page-break-after: always\"></div>
-
-acting on the sigma-1 receptor. The precise mode of action of fenfluramine in Dravet syndrome and Lennox-Gastaut syndrome is not known.
+Fenfluramine is a serotonin releasing agent, and thereby stimulates multiple 5-HT receptor sub-types through the release of serotonin. Fenfluramine may reduce seizures by acting as an agonist at specific serotonin receptors in the brain, including the 5-HT1D, 5-HT2A, and 5-HT2C receptors, and also by acting on the sigma-1 receptor. The precise mode of action of fenfluramine in Dravet syndrome and Lennox-Gastaut syndrome is not known.
 
 ## Clinical efficacy
 
@@ -761,7 +759,9 @@ EU/1/20/1491/001 EU/1/20/1491/002 EU/1/20/1491/003 EU/1/20/1491/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 18 December 2020 Date of latest renewal:
+Date of first authorisation: 18 December 2020
+
+Date of latest renewal: 17 November 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -1189,7 +1189,7 @@ Always take this medicine exactly as your doctor, pharmacist or nurse has told y
 
 ## Your doctor, pharmacist or nurse will calculate the dose volume up to the maximal recommended dose, using the formula:
 
-Weight (kg) x Weight-based dosage (mg/kg) ÷ 2.2 mg/ml = ml dose to be taken twice daily The calculated dose should be rounded to the nearest graduated increment.
+Weight (kg) x Weight-based dosage (mg/kg) ÷ 2.2 mg/ml = ml dose to be taken twice daily Always round the calculated dose up or down to the nearest graduation mark, following standard rounding conventions. For example, for a patient that needs a dose of 2.15 ml, the applied volume needs to be rounded up to 2.2 ml as the 3 ml syringe can only deliver 2.1 ml or 2.2 ml. Likewise a volume of 1.13 ml would need to be rounded down to a delivered volume of 1.1 ml. For a patient that needs a dose of 3.15 ml, the applied volume needs to be rounded up to 3.2 ml as the 6 ml syringe can only deliver 3.0 ml or 3.2 ml. Likewise a volume of 4.25 ml would need to be rounded down to a delivered volume of 4.2 ml.
 
 The table below must only be used as a check on the calculated dose volume. Table 1 does not replace the requirement to calculate the specific dose volume.
 
@@ -1198,25 +1198,23 @@ Table 1: Range of dose volumes in ml for calculation check
 |                 | Dosing without concomitant STP*   | Dosing without concomitant STP*   | Dosing without concomitant STP*   | Dosing with concomitant STP**   | Dosing with concomitant STP**   |
 |-----------------|-----------------------------------|-----------------------------------|-----------------------------------|---------------------------------|---------------------------------|
 | Weight category | Starting dose                     | Day 7-13                          | Day 14 and further                | Starting dose                   | Day 7 and further               |
-| Weight category | 0.1 mg/kg twice daily             | 0.2 mg/kg twice daily             | 0.35 mg/kg twice daily            | 0.1 mg/kg twice daily           | 0.2 mg/kg twice daily           |
-| 3-5 kg          | 0.2-0.3 ml                        | 0.3-0.5 ml                        | 0.5-0.8 ml                        | 0.2-0.3 ml                      | 0.3-0.5 ml                      |
-| 5-7 kg          | 0.3-0.4 ml                        | 0.5-0.7 ml                        | 0.8-1.2 ml                        | 0.3-0.4 ml                      | 0.5-0.7 ml                      |
-| 7-10 kg         | 0.4-0.5 ml                        | 0.7-1 ml                          | 1.2-1.6 ml                        | 0.4-0.5 ml                      | 0.7-1 ml                        |
-| 10-15 kg        | 0.5-0.7 ml                        | 1-1.4 ml                          | 1.6-2.4 ml                        | 0.5-0.7 ml                      | 1-1.4 ml                        |
-| 15-20 kg        | 0.7-1 ml                          | 1.4-1.9 ml                        | 2.4-3.2 ml                        | 0.7-1 ml                        | 1.4-1.9 ml                      |
-| 20-30 kg        | 1-1.4 ml                          | 1.9-2.8 ml                        | 3.2-4.8 ml                        | 1-1.4 ml                        | 1.9-2.8 ml                      |
+|                 | 0.1 mg/kg twice daily             | 0.2 mg/kg twice daily             | 0.35 mg/kg twice daily            | 0.1 mg/kg twice daily           | 0.2 mg/kg twice daily           |
 
 <div style=\"page-break-after: always\"></div>
 
-| 30-38 kg   | 1.4-1.8 ml            | 2.8-3.5 ml            | 4.8-6 ml (maximum dose)   | 1.4-1.8 ml            | 2.8-3.5 ml              |
-|------------|-----------------------|-----------------------|---------------------------|-----------------------|-------------------------|
-| 38-43 kg   | 1.8-2 ml              | 3.5-4 ml              | 6 ml (maximum dose)       | 1.8-2 ml              | 3.5-4 ml (maximum dose) |
-| 43-55 kg   | 2-2.5 ml              | 4-5 ml                | 6 ml (maximum dose)       | 2-2.5 ml              | 4 ml (maximum dose)     |
-| 55-65 kg   | 2.5-3 ml              | 5-6 ml (maximum dose) | 6 ml (maximum dose)       | 2.5-3 ml              | 4 ml (maximum dose)     |
-| 65-86 kg   | 3-4 ml                | 6 ml (maximum dose)   | 6 ml (maximum dose)       | 3-4 ml (maximum dose) | 4 ml (maximum dose)     |
-| 86-130 kg  | 4-6 ml (maximum dose) | 6 ml (maximum dose)   | 6 ml (maximum dose)       | 4 ml (maximum dose)   | 4 ml (maximum dose)     |
-
-*Without concomitant STP: The maximum dose 13 mg twice daily corresponds to 6 ml twice daily. **With concomitant STP: The maximum dose of 8.6 mg twice daily corresponds to 4 ml twice daily.
+| 3-5 kg    | 0.1-0.2 ml            | 0.3-0.5 ml            | 0.5-0.8 ml              | 0.1-0.2 ml            | 0.3-0.5 ml              |
+|-----------|-----------------------|-----------------------|-------------------------|-----------------------|-------------------------|
+| 5-7 kg    | 0.2-0.3 ml            | 0.5-0.6 ml            | 0.8-1.1 ml              | 0.2-0.3 ml            | 0.5-0.6 ml              |
+| 7-10 kg   | 0.3-0.5 ml            | 0.6-0.9 ml            | 1.1-1.6 ml              | 0.3-0.5 ml            | 0.6-0.9 ml              |
+| 10-15 kg  | 0.5-0.7 ml            | 0.9-1.4 ml            | 1.6-2.4 ml              | 0.5-0.7 ml            | 0.9-1.4 ml              |
+| 15-20 kg  | 0.7-0.9 ml            | 1.4-1.8 ml            | 2.4-3.2 ml              | 0.7-0.9 ml            | 1.4-1.8 ml              |
+| 20-30 kg  | 0.9-1.4 ml            | 1.8-2.7 ml            | 3.2-4.8 ml              | 0.9-1.4 ml            | 1.8-2.7 ml              |
+| 30-38 kg  | 1.4-1.7 ml            | 2.7-3.4 ml            | 4.8-6 ml (maximum dose) | 1.4-1.7 ml            | 2.7-3.4 ml              |
+| 38-43 kg  | 1.7-2 ml              | 3.4-4 ml              | 6 ml (maximum dose)     | 1.7-2 ml              | 3.4-4 ml (maximum dose) |
+| 43-55 kg  | 2-2.5 ml              | 4-5 ml                | 6 ml (maximum dose)     | 2-2.5 ml              | 4 ml (maximum dose)     |
+| 55-65 kg  | 2.5-3 ml              | 5-6 ml (maximum dose) | 6 ml (maximum dose)     | 2.5-3 ml              | 4 ml (maximum dose)     |
+| 65-86 kg  | 3-4 ml                | 6 ml (maximum dose)   | 6 ml (maximum dose)     | 3-4 ml (maximum dose) | 4 ml (maximum dose)     |
+| 86-130 kg | 4-6 ml (maximum dose) | 6 ml (maximum dose)   | 6 ml (maximum dose)     | 4 ml (maximum dose)   | 4 ml (maximum dose)     |
 
 ## How much to take
 

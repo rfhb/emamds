@@ -1,16 +1,16 @@
 ---
-document_datetime: 2026-01-05 16:19:00
+document_datetime: 2026-01-07 09:09:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/trazimera.html
 document_name: trazimera.html
 version: success
-processing_time: 0.126219
-conversion_datetime: 2026-01-06 07:19:40.485838
+processing_time: 0.1168761
+conversion_datetime: 2026-01-10 11:04:42.413262
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -122,7 +122,7 @@ English (EN) (81.97 KB - PDF)
 
 [View](/en/documents/overview/trazimera-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-834)
+[Other languages (22)](#file-language-dropdown-795)
 
 български (BG) (114.59 KB - PDF)
 
@@ -402,17 +402,17 @@ English (EN) (59.82 KB - PDF)
 
 Trazimera : EPAR - Product Information
 
-English (EN) (330.63 KB - PDF)
+English (EN) (331.15 KB - PDF)
 
 **First published:** 16/08/2018
 
-**Last updated:** 03/02/2025
+**Last updated:** 07/01/2026
 
 [View](/en/documents/product-information/trazimera-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-512)
+[Other languages (24)](#file-language-dropdown-339)
 
-български (BG) (394.3 KB - PDF)
+български (BG) (387.51 KB - PDF)
 
 **First published:**
 
@@ -420,11 +420,11 @@ English (EN) (330.63 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/bg/documents/product-information/trazimera-epar-product-information_bg.pdf)
 
-español (ES) (348.24 KB - PDF)
+español (ES) (345.97 KB - PDF)
 
 **First published:**
 
@@ -432,11 +432,11 @@ español (ES) (348.24 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/es/documents/product-information/trazimera-epar-product-information_es.pdf)
 
-čeština (CS) (375.78 KB - PDF)
+čeština (CS) (374.7 KB - PDF)
 
 **First published:**
 
@@ -444,11 +444,11 @@ español (ES) (348.24 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/cs/documents/product-information/trazimera-epar-product-information_cs.pdf)
 
-dansk (DA) (364.31 KB - PDF)
+dansk (DA) (363.95 KB - PDF)
 
 **First published:**
 
@@ -456,11 +456,11 @@ dansk (DA) (364.31 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/da/documents/product-information/trazimera-epar-product-information_da.pdf)
 
-Deutsch (DE) (379.21 KB - PDF)
+Deutsch (DE) (381.65 KB - PDF)
 
 **First published:**
 
@@ -468,11 +468,11 @@ Deutsch (DE) (379.21 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/de/documents/product-information/trazimera-epar-product-information_de.pdf)
 
-eesti keel (ET) (354.31 KB - PDF)
+eesti keel (ET) (352.51 KB - PDF)
 
 **First published:**
 
@@ -480,11 +480,11 @@ eesti keel (ET) (354.31 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/et/documents/product-information/trazimera-epar-product-information_et.pdf)
 
-ελληνικά (EL) (407.14 KB - PDF)
+ελληνικά (EL) (405.71 KB - PDF)
 
 **First published:**
 
@@ -492,11 +492,11 @@ eesti keel (ET) (354.31 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/el/documents/product-information/trazimera-epar-product-information_el.pdf)
 
-français (FR) (387.28 KB - PDF)
+français (FR) (385.21 KB - PDF)
 
 **First published:**
 
@@ -504,11 +504,11 @@ français (FR) (387.28 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/fr/documents/product-information/trazimera-epar-product-information_fr.pdf)
 
-hrvatski (HR) (356.04 KB - PDF)
+hrvatski (HR) (355.24 KB - PDF)
 
 **First published:**
 
@@ -516,11 +516,11 @@ hrvatski (HR) (356.04 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/hr/documents/product-information/trazimera-epar-product-information_hr.pdf)
 
-íslenska (IS) (399.58 KB - PDF)
+íslenska (IS) (398.95 KB - PDF)
 
 **First published:**
 
@@ -528,11 +528,11 @@ hrvatski (HR) (356.04 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/is/documents/product-information/trazimera-epar-product-information_is.pdf)
 
-italiano (IT) (374.33 KB - PDF)
+italiano (IT) (371.93 KB - PDF)
 
 **First published:**
 
@@ -540,11 +540,11 @@ italiano (IT) (374.33 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/it/documents/product-information/trazimera-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (365.02 KB - PDF)
+latviešu valoda (LV) (363.9 KB - PDF)
 
 **First published:**
 
@@ -552,11 +552,11 @@ latviešu valoda (LV) (365.02 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/lv/documents/product-information/trazimera-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (374.34 KB - PDF)
+lietuvių kalba (LT) (373.43 KB - PDF)
 
 **First published:**
 
@@ -564,11 +564,11 @@ lietuvių kalba (LT) (374.34 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/lt/documents/product-information/trazimera-epar-product-information_lt.pdf)
 
-magyar (HU) (361.9 KB - PDF)
+magyar (HU) (360.71 KB - PDF)
 
 **First published:**
 
@@ -576,11 +576,11 @@ magyar (HU) (361.9 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/hu/documents/product-information/trazimera-epar-product-information_hu.pdf)
 
-Malti (MT) (434.27 KB - PDF)
+Malti (MT) (434.2 KB - PDF)
 
 **First published:**
 
@@ -588,11 +588,11 @@ Malti (MT) (434.27 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/mt/documents/product-information/trazimera-epar-product-information_mt.pdf)
 
-Nederlands (NL) (350.78 KB - PDF)
+Nederlands (NL) (347.38 KB - PDF)
 
 **First published:**
 
@@ -600,11 +600,11 @@ Nederlands (NL) (350.78 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/nl/documents/product-information/trazimera-epar-product-information_nl.pdf)
 
-norsk (NO) (367.79 KB - PDF)
+norsk (NO) (366.43 KB - PDF)
 
 **First published:**
 
@@ -612,11 +612,11 @@ norsk (NO) (367.79 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/no/documents/product-information/trazimera-epar-product-information_no.pdf)
 
-polski (PL) (371.84 KB - PDF)
+polski (PL) (370.14 KB - PDF)
 
 **First published:**
 
@@ -624,11 +624,11 @@ polski (PL) (371.84 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/pl/documents/product-information/trazimera-epar-product-information_pl.pdf)
 
-português (PT) (380.3 KB - PDF)
+português (PT) (379.11 KB - PDF)
 
 **First published:**
 
@@ -636,11 +636,11 @@ português (PT) (380.3 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/pt/documents/product-information/trazimera-epar-product-information_pt.pdf)
 
-română (RO) (365.53 KB - PDF)
+română (RO) (363.66 KB - PDF)
 
 **First published:**
 
@@ -648,11 +648,11 @@ română (RO) (365.53 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/ro/documents/product-information/trazimera-epar-product-information_ro.pdf)
 
-slovenčina (SK) (383.17 KB - PDF)
+slovenčina (SK) (383.19 KB - PDF)
 
 **First published:**
 
@@ -660,11 +660,11 @@ slovenčina (SK) (383.17 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/sk/documents/product-information/trazimera-epar-product-information_sk.pdf)
 
-slovenščina (SL) (352.65 KB - PDF)
+slovenščina (SL) (351.64 KB - PDF)
 
 **First published:**
 
@@ -672,11 +672,11 @@ slovenščina (SL) (352.65 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/sl/documents/product-information/trazimera-epar-product-information_sl.pdf)
 
-Suomi (FI) (377.03 KB - PDF)
+Suomi (FI) (375.36 KB - PDF)
 
 **First published:**
 
@@ -684,11 +684,11 @@ Suomi (FI) (377.03 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/fi/documents/product-information/trazimera-epar-product-information_fi.pdf)
 
-svenska (SV) (383.29 KB - PDF)
+svenska (SV) (382.49 KB - PDF)
 
 **First published:**
 
@@ -696,11 +696,11 @@ svenska (SV) (383.29 KB - PDF)
 
 **Last updated:**
 
-03/02/2025
+07/01/2026
 
 [View](/sv/documents/product-information/trazimera-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000248147 03/02/2025
+**Latest procedure affecting product information:** EMA/VR/0000288061 11/12/2025
 
 icon globe
 
@@ -726,7 +726,7 @@ English (EN) (29.77 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/trazimera-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-218)
+[Other languages (24)](#file-language-dropdown-537)
 
 български (BG) (36.44 KB - PDF)
 
@@ -1077,7 +1077,7 @@ Pfizer Europe MA EEIG
 
 Boulevard de la Plaine 17
 
-Opinion adopted 31/05/2018 Marketing authorisation issued 26/07/2018 Revision 14
+Opinion adopted 31/05/2018 Marketing authorisation issued 26/07/2018 Revision 15
 
 ## Assessment history
 
@@ -1089,9 +1089,11 @@ Collapse section
 
 Trazimera : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (142.84 KB - PDF)
+English (EN) (148.18 KB - PDF)
 
 **First published:** 03/02/2025
+
+**Last updated:** 07/01/2026
 
 [View](/en/documents/procedural-steps-after/trazimera-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1165,7 +1167,7 @@ English (EN) (144.76 KB - PDF)
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 05/01/2026
+**This page was last updated on** 07/01/2026
 
 ## Share this page
 

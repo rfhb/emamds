@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-14 18:05:51
+document_datetime: 2026-01-06 10:58:45
 document_pages: 69
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vabysmo-epar-product-information_en.pdf
 document_name: vabysmo-epar-product-information_en.pdf
 version: success
-processing_time: 19.6109746
-conversion_datetime: 2025-12-14 15:49:35.896711
+processing_time: 19.7321055
+conversion_datetime: 2026-01-10 11:25:50.695938
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,7 +28,9 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Vabysmo 120 mg/mL solution for injection Vabysmo 120 mg/mL solution for injection in pre-filled syringe
+Vabysmo 120 mg/mL solution for injection
+
+Vabysmo 120 mg/mL solution for injection in pre-filled syringe
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
@@ -170,7 +172,7 @@ Transient increases in intraocular pressure (IOP) have been seen within 60 minut
 
 ## Systemic effects
 
-Systemic adverse events including arterial thromboembolic events have been reported following intravitreal injection of vascular endothelial growth factor (VEGF) inhibitors and there is a theoretical risk that these may be related to VEGF inhibition. A low incidence rate of arterial thromboembolic events was observed in the faricimab clinical trials in patients with nAMD, DME, and RVO. This is similar to that reported in the other clinical trials with anti-VEGF inhibitors in patients. There are limited data on the safety of faricimab treatment in DME patients with high blood pressure (≥ 140/90 mmHg) and vascular disease, and in nAMD and RVO patients ≥ 85 years of age.
+Systemic adverse events including arterial thromboembolic events have been reported following intravitreal injection of vascular endothelial growth factor (VEGF) inhibitors and there is a theoretical risk that these may be related to VEGF inhibition. A low incidence rate of arterial thromboembolic events was observed in the faricimab clinical trials in patients with nAMD, DME, and RVO. This is similar to that reported in the other clinical trials with anti-VEGF inhibitors in patients. There are limited data on the safety of faricimab treatment in DME patients with high blood pressure ( ≥ 140/90 mmHg) and vascular disease, and in nAMD and RVO patients ≥ 85 years of age.
 
 ## Immunogenicity
 
@@ -206,7 +208,7 @@ Retinal pigment epithelial (RPE) tear is a complication of pigment epithelial de
 
 ## Populations with limited data
 
-There is only limited experience in the treatment of nAMD and RVO patients ≥ 85 years, and DME patients with type I diabetes, patients with HbA1c over 10%, patients with high-risk proliferative diabetic retinopathy (DR), high blood pressure (≥ 140/90 mmHg) and vascular disease, sustained dosing intervals shorter than every 8 weeks (Q8W), or nAMD, DME, and RVO patients with active systemic infections. There is limited safety information on sustained dosing intervals of 8 weeks or less and these may be associated with a higher risk of ocular and systemic adverse reactions, including serious adverse reactions. There is also no experience of treatment with faricimab in diabetic or RVO patients with uncontrolled hypertension and patients with RVO who have failed previous therapy. This lack of information should be considered by the physician when treating such patients.
+There is only limited experience in the treatment of nAMD and RVO patients ≥ 85 years, and DME patients with type I diabetes, patients with HbA1c over 10%, patients with high-risk proliferative diabetic retinopathy (DR), high blood pressure ( ≥ 140/90 mmHg) and vascular disease, sustained dosing intervals shorter than every 8 weeks (Q8W), or nAMD, DME, and RVO patients with active systemic infections. There is limited safety information on sustained dosing intervals of 8 weeks or less and these may be associated with a higher risk of ocular and systemic adverse reactions, including serious adverse reactions. There is also no experience of treatment with faricimab in diabetic or RVO patients with uncontrolled hypertension and patients with RVO who have failed previous therapy. This lack of information should be considered by the physician when treating such patients.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -262,7 +264,7 @@ The most serious adverse reactions were uveitis (0.5%), endophthalmitis (0.4%), 
 
 ## Tabulated list of adverse reactions
 
-The adverse reactions reported in clinical studies or during post-marketing surveillance are listed according to the MedDRA system organ class and ranked by frequency using the following convention: Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000) or not known (frequency cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The adverse reactions reported in clinical studies or during post-marketing surveillance are listed according to the MedDRA system organ class and ranked by frequency using the following convention: Very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1 000 to &lt; 1/100), rare ( ≥ 1/10 000 to &lt; 1/1 000) or not known (frequency cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1: Frequencies of adverse reactions
 
@@ -362,7 +364,7 @@ The mean CST reduction from baseline at the primary endpoint visits (averaged at
 
 ## RVO
 
-In Phase III studies in patients with branch retinal vein occlusion (BRVO; BALATON) and central/hemiretinal vein occlusion (C/HRVO; COMINO), reductions in mean CST were observed from baseline to week 24 with faricimab Q4W and were comparable to those seen with aflibercept Q4W. The mean CST reduction from baseline to week 24 was 311.4 μm for faricimab Q4W versus 304.4 μm for aflibercept Q4W, in BALATON, and 461.6 μm versus 448.8 μm in COMINO for
+In Phase III studies in patients with branch retinal vein occlusion (BRVO; BALATON) and central/hemiretinal vein occlusion (C/HRVO; COMINO), reductions in mean CST were observed from baseline to week 24 with faricimab Q4W and were comparable to those seen with aflibercept Q4W. The mean CST reduction from baseline to week 24 was 311.4 μ m for faricimab Q4W versus 304.4 μ m for aflibercept Q4W, in BALATON, and 461.6 μ m versus 448.8 μ m in COMINO for
 
 <div style=\"page-break-after: always\"></div>
 
@@ -390,14 +392,12 @@ Both studies showed efficacy in the primary endpoint, defined as the mean change
 The proportion of patients on each of the different treatment intervals at week 112 in TENAYA and LUCERNE, respectively was:
 
 - Q16W: 59% and 67%
-
 - Q12W: 15% and 14%
-
 - Q8W: 26% and 19%
 
 <div style=\"page-break-after: always\"></div>
 
-Table 2: Efficacy outcomes at the primary endpoint visits a and at year 2 b  in TENAYA
+Table 2: Efficacy outcomes at the primary endpoint visits a  and at year 2 b  in TENAYA
 
 | Efficacy Outcomes                                                                                | TENAYA                       | TENAYA                  | TENAYA                       | TENAYA                  |
 |--------------------------------------------------------------------------------------------------|------------------------------|-------------------------|------------------------------|-------------------------|
@@ -406,25 +406,15 @@ Table 2: Efficacy outcomes at the primary endpoint visits a and at year 2 b  in 
 | Mean change in BCVA as measured by ETDRS letter score from baseline (95% CI)                     | 5.8 (4.6, 7.1)               | 5.1 (3.9, 6.4)          | 3.7 (2.1, 5.4)               | 3.3 (1.7, 4.9)          |
 | Difference in LS mean (95% CI)                                                                   | 0.7 (-1.1, 2.5)              |                         | 0.4 (-1.9, 2.8)              |                         |
 | Proportion of patients with ≥ 15 letter gain from baseline (CMH weighted proportion, 95% CI)     | 20.0% (15.6%, 24.4%)         | 15.7% (11.9%, 19.6%)    | 22.5% (17.8%, 27.2%)         | 16.9% (12.7%, 21.1%)    |
-| Difference inCMH weighted %(95% CI)                                                              | 4.3% (-1.6%, 10.1%)          |                         | 5.6% (-0.7%,11.9%)           |                         |
+| Difference in CMH weighted %(95% CI)                                                             | 4.3% (-1.6%, 10.1%)          |                         | 5.6% (-0.7%,11.9%)           |                         |
 | Proportion of patients avoiding ≥ 15 letter loss from baseline (CMH weighted proportion, 95% CI) | 95.4% (93.0%, 97.7%)         | 94.1% (91.5%, 96.7 %)   | 92.1% (89.1%, 95.1%)         | 88.6% (85.1%, 92.2%)    |
-| Difference inCMH weighted %(95% CI)                                                              | 1.3% (-2.2%, 4.8%)           |                         | 3.4% (-1.2%, 8.1%)           |                         |
-
-a Average of weeks 40, 44, and 48; b Average of weeks 104, 108, 112
-
-BCVA: Best Corrected Visual Acuity
-
-ETDRS: Early Treatment Diabetic Retinopathy Study
-
-CI: Confidence Interval
-
-LS: Least Square
+| Difference in CMH weighted %(95% CI)                                                             | 1.3% (-2.2%, 4.8%)           |                         | 3.4% (-1.2%, 8.1%)           |                         |
 
 CMH: Cochran-Mantel-Haenszel method; a statistical test that generates an estimate of an association with a binary outcome and is used for assessment of categorical variables.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 3: Efficacy outcomes at the primary endpoint visits a and at year 2 b  in LUCERNE
+Table 3: Efficacy outcomes at the primary endpoint visits a  and at year 2 b  in LUCERNE
 
 | Efficacy Outcomes                                                                                | LUCERNE                      | LUCERNE                 | LUCERNE                      | LUCERNE                 |
 |--------------------------------------------------------------------------------------------------|------------------------------|-------------------------|------------------------------|-------------------------|
@@ -433,19 +423,9 @@ Table 3: Efficacy outcomes at the primary endpoint visits a and at year 2 b  in 
 | Mean change in BCVA as measured by ETDRS letter score from baseline (95% CI)                     | 6.6 (5.3, 7.8)               | 6.6 (5.3, 7.8)          | 5.0 (3.4, 6.6)               | 5.2 (3.6, 6.8)          |
 | Difference in LS mean (95% CI)                                                                   | 0.0 (-1.7, 1.8)              |                         | -0.2 (-2.4, 2.1)             |                         |
 | Proportion of patients with ≥ 15 letter gain from baseline (CMH weighted proportion, 95% CI)     | 20.2% (15.9%, 24.6%)         | 22.2% (17.7%, 26.8%)    | 22.4% (17.8%, 27.1%          | 21.3% (16.8%, 25.9%)    |
-| Difference inCMH weighted %(95% CI)                                                              | -2.0% (-8.3%, 4.3%)          |                         | 1.1% (-5.4%, 7.6%)           |                         |
+| Difference in CMH weighted %(95% CI)                                                             | -2.0% (-8.3%, 4.3%)          |                         | 1.1% (-5.4%, 7.6%)           |                         |
 | Proportion of patients avoiding ≥ 15 letter loss from baseline (CMH weighted proportion, 95% CI) | 95.8% (93.6%, 98.0%)         | 97.3% (95.5%, 99.1%)    | 92.9% (90.1%, 95.8%)         | 93.2% (90.2%, 96.2%)    |
-| Difference inCMH weighted %(95% CI)                                                              | -1.5% (-4.4%, 1.3%)          |                         | -0.2% (-4.4%, 3.9%)          |                         |
-
-a Average of weeks 40, 44, and 48; b Average of weeks 104, 108, 112
-
-BCVA: Best Corrected Visual Acuity
-
-ETDRS: Early Treatment Diabetic Retinopathy Study
-
-CI: Confidence Interval
-
-LS: Least Square
+| Difference in CMH weighted %(95% CI)                                                             | -1.5% (-4.4%, 1.3%)          |                         | -0.2% (-4.4%, 3.9%)          |                         |
 
 CMH: Cochran-Mantel-Haenszel method; a statistical test that generates an estimate of an association with a binary outcome and is used for assessment of categorical variables.
 
@@ -493,7 +473,7 @@ Detailed results from the analyses of YOSEMITE and RHINE studies are listed in T
 
 <div style=\"page-break-after: always\"></div>
 
-Table 4: Efficacy outcomes at the year 1 primary endpoint visits a and at year 2 b  in YOSEMITE
+Table 4: Efficacy outcomes at the year 1 primary endpoint visits a  and at year 2 b  in YOSEMITE
 
 | Efficacy Outcomes                                                                                                                        | YOSEMITE              | YOSEMITE                                       | YOSEMITE                | YOSEMITE              | YOSEMITE                                       | YOSEMITE                |
 |------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|------------------------------------------------|-------------------------|-----------------------|------------------------------------------------|-------------------------|
@@ -502,9 +482,9 @@ Table 4: Efficacy outcomes at the year 1 primary endpoint visits a and at year 2
 | Mean change in BCVA as measured by ETDRS letter score from baseline (97.5% CI year 1 and 95% CI year 2)                                  | 10.7 (9.4, 12.0)      | 11.6 (10.3, 12.9)                              | 10.9 (9.6, 12.2)        | 10.7 (9.4, 12.1)      | 10.7 (9.4, 12.1)                               | 11.4 (10.0, 12.7)       |
 | Difference in LS mean (97.5% CI year 1, 95% CI year 2)                                                                                   | -0.2 (-2.0, 1.6)      | 0.7 (-1.1, 2.5)                                |                         | -0.7 (-2.6, 1.2)      | -0.7 (-2.5, 1.2)                               |                         |
 | Proportion of patients who gained at least 15 letters in BCVA from baseline (CMH weighted proportion, 95% CI year 1 and year 2)          | 29.2% (23.9%, 34.5%)  | 35.5% (30.1%, 40.9%)                           | 31.8% (26.6%, 37.0%)    | 37.2% (31.4%, 42.9%)  | 38.2% (32.8%, 43.7%)                           | 37.4% (31.7%, 43.0%)    |
-| Difference inCMH weighted %(95% CI year 1 and year 2)                                                                                    | -2.6% (-10.0%, 4.9%)  | 3.5% (-4.0%, 11.1%)                            |                         | -0.2% (-8.2%, 7.8%)   | 0.2% (-7.6%, 8.1%)                             |                         |
+| Difference in CMH weighted %(95% CI year 1 and year 2)                                                                                   | -2.6% (-10.0%, 4.9%)  | 3.5% (-4.0%, 11.1%)                            |                         | -0.2% (-8.2%, 7.8%)   | 0.2% (-7.6%, 8.1%)                             |                         |
 | Proportion of patients who avoided loss of at least 15 letters in BCVA from baseline (CMH weighted proportion, 95% CI year 1 and year 2) | 98.1% (96.5%, 99.7%)  | 98.6% (97.2%, 100.0%)                          | 98.9% (97.6%, 100.0%)   | 97.6% (95.7%, 99.5%)  | 97.8% (96.1%, 99.5%)                           | 98.0% (96.2%, 99.7%)    |
-| Difference inCMH weighted %(95% CI year 1 and year 2)                                                                                    | -0.8% (-2.8%, 1.3%)   | -0.3% (-2.2%, 1.5%)                            |                         | -0.4% (-2.9%, 2.2%)   | -0.2% (-2.6%, 2.2%)                            |                         |
+| Difference in CMH weighted %(95% CI year 1 and year 2)                                                                                   | -0.8% (-2.8%, 1.3%)   | -0.3% (-2.2%, 1.5%)                            |                         | -0.4% (-2.9%, 2.2%)   | -0.2% (-2.6%, 2.2%)                            |                         |
 
 a Average of weeks 48, 52, 56; b Average of weeks 92, 96, 100
 
@@ -531,9 +511,9 @@ Table 5: Efficacy outcomes at the year 1 primary endpoint visits a and at year 2
 | Mean change in BCVA as measured by ETDRS letter score from baseline (97.5% CI year 1 and 95% CI year 2)                                  | 11.8 (10.6, 13.0)     | 10.8 (9.6, 11.9)                               | 10.3 (9.1, 11.4)        | 10.9 (9.5, 12.3)      | 10.1 (8.7, 11.5)                               | 9.4 (7.9, 10.8)         |
 | Difference in LS mean (97.5% CI year 1, 95% CI year 2)                                                                                   | 1.5 (-0.1, 3.2)       | 0.5 (-1.1, 2.1)                                |                         | 1.5 (-0.5, 3.6)       | 0.7 (-1.3, 2.7)                                |                         |
 | Proportion of patients who gained at least 15 letters in BCVA from baseline (CMH weighted proportion, 95% CI year 1 and year 2)          | 33.8% (28.4%, 39.2%)  | 28.5% (23.6%, 33.3%)                           | 30.3% (25.0%, 35.5%)    | 39.8% (34.0%, 45.6%)  | 31.1% (26.1%, 36.1%)                           | 39.0% (33.2%, 44.8%)    |
-| Difference inCMH weighted %(95% CI year 1 and year 2)                                                                                    | 3.5% (-4.0%, 11.1%)   | -2.0% (-9.1%, 5.2%)                            |                         | 0.8% (-7.4%, 9.0%)    | -8% (-15.7%, - 0.3%)                           |                         |
+| Difference in CMH weighted %(95% CI year 1 and year 2)                                                                                   | 3.5% (-4.0%, 11.1%)   | -2.0% (-9.1%, 5.2%)                            |                         | 0.8% (-7.4%, 9.0%)    | -8% (-15.7%, - 0.3%)                           |                         |
 | Proportion of patients who avoided loss of at least 15 letters in BCVA from baseline (CMH weighted proportion, 95% CI year 1 and year 2) | 98.9% (97.6%, 100.0%) | 98.7% (97.4%, 100.0%)                          | 98.6% (97.2%, 99.9%)    | 96.6% (94.4%, 98.8%)  | 96.8% (94.8%, 98.9%)                           | 97.6% (95.7%, 99.5%)    |
-| Difference inCMH weighted %(95% CI year 1 and year 2)                                                                                    | 0.3% (-1.6%, 2.1%)    | 0.0% (-1.8%, 1.9%)                             |                         | -1.0% (-3.9%, 1.9%)   | -0.7% (-3.5%, 2.0%)                            |                         |
+| Difference in CMH weighted %(95% CI year 1 and year 2)                                                                                   | 0.3% (-1.6%, 2.1%)    | 0.0% (-1.8%, 1.9%)                             |                         | -1.0% (-3.9%, 1.9%)   | -0.7% (-3.5%, 2.0%)                            |                         |
 
 a Average of weeks 48, 52, 56; b Average of weeks 92, 96, 100
 
@@ -648,16 +628,16 @@ Across studies, at week 24 patients in the faricimab Q4W arm showed improvement 
 
 <div style=\"page-break-after: always\"></div>
 
-Table 8: Efficacy outcomes at the week 24 primary endpoint visit and at the end of the study a in BALATON
+Table 8: Efficacy outcomes at the week 24 primary endpoint visit and at the end of the study a  in BALATON
 
-| Efficacy Outcomes                                                                            | BALATON               | BALATON                | BALATON                                       | BALATON                                         |
-|----------------------------------------------------------------------------------------------|-----------------------|------------------------|-----------------------------------------------|-------------------------------------------------|
-|                                                                                              | 24 Weeks              | 24 Weeks               | 72 Weeks a                                    | 72 Weeks a                                      |
-|                                                                                              | Faricimab Q4W N = 276 | AfliberceptQ4W N = 277 | Faricimab Q4W to Faricimab Adjustable N = 276 | Aflibercept Q4W to Faricimab Adjustable N = 277 |
-| Mean change in BCVA as measured by ETDRS letter score from baseline (95% CI)                 | 16.9 (15.7, 18.1)     | 17.5 (16.3, 18.6)      | 18.1 (16.9, 19.4)                             | 18.8 (17.5, 20.0)                               |
-| Difference in LS mean (95% CI)                                                               | -0.6 (-2.2, 1.1)      |                        |                                               |                                                 |
-| Proportion of patients with ≥ 15 letter gain from baseline (CMH weighted proportion, 95% CI) | 56.1% (50.4%, 61.9%)  | 60.4% (54.7%, 66.0%)   | 61.5% (56.0%, 67.0%)                          | 65.8% (60.3%, 71.2%)                            |
-| Difference inCMH weighted %(95% CI)                                                          | -4.3% (-12.3%, 3.8%)  |                        |                                               |                                                 |
+| Efficacy Outcomes                                                                            | BALATON               | BALATON                 | BALATON                                       | BALATON                                         |
+|----------------------------------------------------------------------------------------------|-----------------------|-------------------------|-----------------------------------------------|-------------------------------------------------|
+|                                                                                              | 24 Weeks              | 24 Weeks                | 72 Weeks a                                    | 72 Weeks a                                      |
+|                                                                                              | Faricimab Q4W N = 276 | Aflibercept Q4W N = 277 | Faricimab Q4W to Faricimab Adjustable N = 276 | Aflibercept Q4W to Faricimab Adjustable N = 277 |
+| Mean change in BCVA as measured by ETDRS letter score from baseline (95% CI)                 | 16.9 (15.7, 18.1)     | 17.5 (16.3, 18.6)       | 18.1 (16.9, 19.4)                             | 18.8 (17.5, 20.0)                               |
+| Difference in LS mean (95% CI)                                                               | -0.6 (-2.2, 1.1)      |                         |                                               |                                                 |
+| Proportion of patients with ≥ 15 letter gain from baseline (CMH weighted proportion, 95% CI) | 56.1% (50.4%, 61.9%)  | 60.4% (54.7%, 66.0%)    | 61.5% (56.0%, 67.0%)                          | 65.8% (60.3%, 71.2%)                            |
+| Difference in CMH weighted %(95% CI)                                                         | -4.3% (-12.3%, 3.8%)  |                         |                                               |                                                 |
 
 a Average of weeks 64, 68, 72
 
@@ -673,32 +653,22 @@ CMH: Cochran-Mantel-Haenszel method; a statistical test that generates an estima
 
 <div style=\"page-break-after: always\"></div>
 
-Table 9: Efficacy outcomes at the week 24 primary endpoint visit and at the end of the study a in COMINO
+Table 9: Efficacy outcomes at the week 24 primary endpoint visit and at the end of the study a  in COMINO
 
-| Efficacy Outcomes                                                                            | COMINO                | COMINO                 | COMINO                                        | COMINO                                          |
-|----------------------------------------------------------------------------------------------|-----------------------|------------------------|-----------------------------------------------|-------------------------------------------------|
-|                                                                                              | 24 Weeks              | 24 Weeks               | 72 Weeks a                                    | 72 Weeks a                                      |
-|                                                                                              | Faricimab Q4W N = 366 | AfliberceptQ4W N = 363 | Faricimab Q4W to Faricimab Adjustable N = 366 | Aflibercept Q4W to Faricimab Adjustable N = 363 |
-| Mean change in BCVA as measured by ETDRS letter score from baseline (95% CI)                 | 16.9 (15.4, 18.3)     | 17.3 (15.9, 18.8)      | 16.9 (15.2, 18.6)                             | 17.1 (15.4, 18.8)                               |
-| Difference in LS mean (95% CI)                                                               | -0.4 (-2.5, 1.6)      |                        |                                               |                                                 |
-| Proportion of patients with ≥ 15 letter gain from baseline (CMH weighted proportion, 95% CI) | 56.6% (51.7%, 61.5%)  | 58.1% (53.3%, 62.9%)   | 57.6% (52.8%, 62.5%)                          | 59.5% (54.7%, 64.3%)                            |
-| Difference inCMH weighted %(95% CI)                                                          | -1.5% (-8.4%, 5.3%)   |                        |                                               |                                                 |
-
-a Average of weeks 64, 68, 72
-
-BCVA: Best Corrected Visual Acuity
-
-ETDRS: Early Treatment Diabetic Retinopathy Study
-
-CI: Confidence Interval
-
-LS: Least Square
-
-CMH: Cochran-Mantel-Haenszel method; a statistical test that generates an estimate of an association with a binary outcome and is used for assessment of categorical variables.
+| Efficacy Outcomes                                                                            | COMINO                | COMINO                  | COMINO                                        | COMINO                                          |
+|----------------------------------------------------------------------------------------------|-----------------------|-------------------------|-----------------------------------------------|-------------------------------------------------|
+|                                                                                              | 24 Weeks              | 24 Weeks                | 72 Weeks a                                    | 72 Weeks a                                      |
+|                                                                                              | Faricimab Q4W N = 366 | Aflibercept Q4W N = 363 | Faricimab Q4W to Faricimab Adjustable N = 366 | Aflibercept Q4W to Faricimab Adjustable N = 363 |
+| Mean change in BCVA as measured by ETDRS letter score from baseline (95% CI)                 | 16.9 (15.4, 18.3)     | 17.3 (15.9, 18.8)       | 16.9 (15.2, 18.6)                             | 17.1 (15.4, 18.8)                               |
+| Difference in LS mean (95% CI)                                                               | -0.4 (-2.5, 1.6)      |                         |                                               |                                                 |
+| Proportion of patients with ≥ 15 letter gain from baseline (CMH weighted proportion, 95% CI) | 56.6% (51.7%, 61.5%)  | 58.1% (53.3%, 62.9%)    | 57.6% (52.8%, 62.5%)                          | 59.5% (54.7%, 64.3%)                            |
+| Difference in CMH weighted %(95% CI)                                                         | -1.5% (-8.4%, 5.3%)   |                         |                                               |                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
 Figure 3: Mean change in visual acuity from baseline to week 72 in BALATON
+
+24
 
 <!-- image -->
 
@@ -724,7 +694,7 @@ Faricimab is administered intravitreally to exert local effects in the eye.
 
 ## Absorption and distribution
 
-Based on a population pharmacokinetic analysis (including nAMD and DME N = 2 246), maximum free (unbound to VEGF-A and Ang-2 ) faricimab plasma concentrations (Cmax ) are estimated to occur approximately 2 days post-dose. Mean (±SD [standard deviation]) plasma Cmax are estimated 0.23 (0.07) µg/mL and 0.22 (0.07) µg/mL respectively in nAMD and in DME patients. After repeated administrations, mean plasma free faricimab trough concentrations are predicted to be 0.002-0.003 µg/mL for Q8W dosing.
+Based on a population pharmacokinetic analysis (including nAMD and DME N = 2 246), maximum free (unbound to VEGF-A and Ang-2 ) faricimab plasma concentrations (Cmax) are estimated to occur approximately 2 days post-dose. Mean (±SD [standard deviation]) plasma Cmax are estimated 0.23 (0.07) µg/mL and 0.22 (0.07) µg/mL respectively in nAMD and in DME patients. After repeated administrations, mean plasma free faricimab trough concentrations are predicted to be 0.002-0.003 µg/mL for Q8W dosing.
 
 Faricimab exhibited dose-proportional pharmacokinetics (based on Cmax and AUC) over the dose range 0.5 mg-6 mg. No accumulation of faricimab was apparent in the vitreous or in plasma following monthly dosing.
 
@@ -788,7 +758,17 @@ Vial: 30 months
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 ° C - 8 ° C). Do not freeze. Keep the vial in the outer carton in order to protect from light. Keep the pre-filled syringe in the sealed tray in the original carton in order to protect from light. Prior to use, the unopened pre-filled syringe or vial may be kept at room temperature, 20 ° C to 25 ° C, in the original carton, for up to 24 hours. Ensure that the injection is given immediately after preparation of the dose.
+Store in a refrigerator (2  C - 8  C).
+
+Do not freeze.
+
+Keep the vial in the outer carton in order to protect from light.
+
+Keep the pre-filled syringe in the sealed tray in the original carton in order to protect from light.
+
+Prior to use, the unopened pre-filled syringe or vial may be kept at room temperature, 20  C to 25  C, in the original carton, for up to 24 hours.
+
+Ensure that the injection is given immediately after preparation of the dose.
 
 ## 6.5 Nature and contents of container
 
@@ -830,7 +810,7 @@ The contents of the vial and the transfer filter needle are sterile and for sing
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## Instructions for use of pre-filled syringe:
+Instructions for use of pre-filled syringe:
 
 Removal of the syringe from the syringe tray (step 1) and all subsequent steps should be done using aseptic technique.
 
@@ -896,7 +876,9 @@ Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/22/1683/001 EU/1/22/1683/002
+EU/1/22/1683/001
+
+EU/1/22/1683/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -922,6 +904,8 @@ Detailed information on this medicinal product is available on the website of th
 Name and address of the manufacturer(s) of the biological active substance(s)
 
 Roche Diagnostics GmbH Nonnenwald 2 82377 Penzberg Germany
+
+F.Hoffmann-La Roche AG Grenzacherstrasse 124 4058 Basel Switzerland
 
 Name and address of the manufacturer(s) responsible for batch release
 
@@ -972,7 +956,9 @@ The patient information pack consists of the patient information leaflet and a p
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX III LABELLING AND PACKAGE LEAFLET
+## ANNEX III
+
+## LABELLING AND PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
@@ -980,7 +966,7 @@ The patient information pack consists of the patient information leaflet and a p
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING CARTON
+CARTON
 
 PRE-FILLED SYRINGE
 
@@ -1002,7 +988,7 @@ See leaflet for further information
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 21 mg/0.175 mL
 
@@ -1032,9 +1018,9 @@ The dose must be set to the 0.05 mL dose mark
 
 Keep out of the sight and reach of children
 
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-8. EXPIRY DATE
+## 8. EXPIRY DATE
 
 EXP
 
@@ -1058,7 +1044,7 @@ Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 EU/1/22/1683/002
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
@@ -1070,7 +1056,7 @@ Lot
 
 Justification for not including Braille accepted.
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1083,15 +1069,13 @@ Justification for not including Braille accepted.
 
 PC SN NN
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE BLISTER FOIL PRE-FILLED SYRINGE
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 Vabysmo 120 mg/mL solution for injection faricimab
 
-## 2. STATEMENT OF ACTIVE SUBSTANCE
+2. STATEMENT OF ACTIVE SUBSTANCE
 
 3. LIST OF EXCIPIENTS
 
@@ -1123,11 +1107,16 @@ EXP
 
 Store in a refrigerator
 
-Do not freeze Protect from light
+Do not freeze
+
+Protect from light
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1135,7 +1124,7 @@ Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-## EU/1/22/1683/002
+EU/1/22/1683/002
 
 ## 13. BATCH NUMBER
 
@@ -1147,29 +1136,29 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE   |
-|---------------------------------------------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE   |
+|-------------------------------------------------------------------------------------|
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------|
 
 Vabysmo 120 mg/mL injection faricimab Intravitreal use
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+| 4.   | BATCHNUMBER   |
+|------|---------------|
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BYVOLUMEORBYUNIT   |
+|------|----------------------------------------|
 
 21 mg/0.175 mL
 
@@ -1188,9 +1177,7 @@ Vabysmo 120 mg/mL solution for injection faricimab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-One mL of solution contains 120 mg of faricimab.
-
-Each vial contains 28.8 mg faricimab (120 mg/mL).
+One mL of solution contains 120 mg of faricimab. Each vial contains 28.8 mg faricimab (120 mg/mL).
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1200,11 +1187,10 @@ See leaflet for further information
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Solution for injection
+## Solution for injection
 
-1 x 0.24 mL vial
-
-1 filter needle
+- 1 x 0.24 mL vial
+- 1 filter needle
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1242,13 +1228,7 @@ Keep the vial in the outer carton in order to protect from light
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Roche Registration GmbH
-
-Emil-Barell-Strasse 1
-
-79639 Grenzach-Wyhlen
-
-Germany
+Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1278,29 +1258,29 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL   |
-|-------------------------------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS VIAL   |
+|-----------------------------------------------------------------------|
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S) OF ADMINISTRATION   |
+|------|----------------------------------------------------------|
 
 Vabysmo 120 mg/mL solution for injection faricimab Intravitreal use
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+| 4.   | BATCHNUMBER   |
+|------|---------------|
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BYVOLUMEORBYUNIT   |
+|------|----------------------------------------|
 
 28.8 mg/0.24 mL
 
@@ -1313,11 +1293,13 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
 ## Package leaflet: Information for the patient
 
 ## Vabysmo 120 mg/mL solution for injection in pre-filled syringe
 
-faricimab
+## faricimab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -1563,13 +1545,13 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 ° C - 8 ° C).
+Store in a refrigerator (2  C - 8  C).
 
 Do not freeze.
 
 Keep the sealed tray in the original carton to protect the pre-filled syringe from light.
 
-The pre-filled syringe may be kept at room temperature, 20 ° C to 25 ° C, in the original carton for up to 24  hours.
+The pre-filled syringe may be kept at room temperature, 20  C to 25  C, in the original carton for up to 24  hours.
 
 ## 6. Contents of the pack and other information
 
@@ -1600,7 +1582,7 @@ For any information about this medicine, please contact the local representative
 
 N.V. Roche S.A.
 
-## België/Belgique/Belgien
+België/Belgique/Belgien
 
 Tél/Tel: +32 (0) 2 525 82 11
 
@@ -1608,9 +1590,9 @@ Tél/Tel: +32 (0) 2 525 82 11
 
 Рош България ЕООД
 
-Тел: +359 2 474 5444
+Тел : +359 2 474 5444
 
-## Česká republika
+## Č eská republika
 
 Roche s. r. o.
 
@@ -1634,13 +1616,13 @@ Roche Eesti OÜ
 
 Tel: + 372 - 6 177 380
 
-## Ελλάδα, Κύπρος
+## Ελλάδα , Κύπρος
 
 Roche (Hellas) A.E.
 
 ## Ελλάδα
 
-Τηλ: +30 210 61 66 100
+Τηλ : +30 210 61 66 100
 
 ## España
 
@@ -1734,11 +1716,19 @@ Tel: +421 - 2 52638201
 
 <div style=\"page-break-after: always\"></div>
 
-Ísland Roche Pharmaceuticals A/S c/o Icepharma hf Sími: +354 540 8000 Suomi/Finland Roche Oy Puh/Tel: +358 (0) 10 554 500
+## Ísland
 
-## Italia Sverige
+Roche Pharmaceuticals A/S
 
-Roche S.p.A. Tel: +39 - 039 2471 Roche AB Tel: +46 (0) 8 726 1200
+c/o Icepharma hf
+
+Sími: +354 540 8000
+
+## Italia
+
+Roche S.p.A.
+
+Tel: +39 - 039 2471
 
 ## This leaflet was last revised in
 
@@ -1746,7 +1736,19 @@ Roche S.p.A. Tel: +39 - 039 2471 Roche AB Tel: +46 (0) 8 726 1200
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-- &lt;--------------------------------------------------------------------------------------------------------------&gt;
+&lt;--------------------------------------------------------------------------------------------------------------&gt;
+
+## Suomi/Finland
+
+Roche Oy
+
+Puh/Tel: +358 (0) 10 554 500
+
+Sverige
+
+Roche AB
+
+Tel: +46 (0) 8 726 1200
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1810,9 +1812,19 @@ Do not use if particulates, cloudiness, or discolouration are visible. Vabysmo i
 
 ## Device description
 
-Figure B
-
 <!-- image -->
+
+Injection Filter Needle
+
+Syringe Cap
+
+RubberStopper
+
+0.05mLDoseMark
+
+Luer Lock (White Collar)
+
+Figure B
 
 Removal of the syringe from the syringe tray (step 1) and all subsequent steps should be done using aseptic technique.
 
@@ -1823,11 +1835,13 @@ Removal of the syringe from the syringe tray (step 1) and all subsequent steps s
 
 Do not twist off the cap.
 
-<!-- image -->
-
 Figure C
 
 <!-- image -->
+
+Finger Grip
+
+Plunger Rod
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1880,7 +1894,9 @@ Figure F
 
 ## Package leaflet: Information for the patient
 
-## Vabysmo 120 mg/mL solution for injection faricimab
+## Vabysmo 120 mg/mL solution for injection
+
+faricimab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -2126,13 +2142,13 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and label after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 ° C - 8 ° C).
+Store in a refrigerator (2  C - 8  C).
 
 Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
 
-Prior to use, the unopened vial may be kept at room temperature, 20 ° C to 25 ° C, for up to 24 hours.
+Prior to use, the unopened vial may be kept at room temperature, 20  C to 25  C, for up to 24 hours.
 
 ## 6. Contents of the pack and other information
 
@@ -2159,25 +2175,19 @@ For any information about this medicine, please contact the local representative
 
 <div style=\"page-break-after: always\"></div>
 
-## België/Belgique/Belgien, Luxembourg/Luxemburg
-
-N.V. Roche S.A.
-
-## België/Belgique/Belgien
-
-Tél/Tel: +32 (0) 2 525 82 11
+België/Belgique/Belgien, Luxembourg/Luxemburg N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
 
 ## България
 
 Рош България ЕООД
 
-Тел: +359 2 474 5444
+Тел
 
-## Česká republika
+: +359 2 474 5444
 
-Roche s. r. o.
+## Č eská republika
 
-Tel: +420 - 2 20382111
+Roche s. r. o. Tel: +420 - 2 20382111
 
 ## Danmark
 
@@ -2197,19 +2207,17 @@ Roche Eesti OÜ
 
 Tel: + 372 - 6 177 380
 
-## Ελλάδα, Κύπρος
+## Ελλάδα , Κύπρος
 
 Roche (Hellas) A.E.
 
 ## Ελλάδα
 
-Τηλ: +30 210 61 66 100
+Τηλ : +30 210 61 66 100
 
 ## España
 
-Roche Farma S.A.
-
-Tel: +34 - 91 324 81 00
+Roche Farma S.A. Tel: +34 - 91 324 81 00
 
 ## France
 
@@ -2219,9 +2227,7 @@ Tél: +33  (0)1 47 61 40 00
 
 ## Hrvatska
 
-Roche d.o.o.
-
-Tel: + 385 1 47 22 333
+Roche d.o.o. Tel: + 385 1 47 22 333
 
 ## Ireland/Malta
 
@@ -2239,55 +2245,41 @@ Tel: +39 - 039 2471
 
 ## Latvija
 
-Roche Latvija SIA
-
-Tel: +371 - 6 7039831
+Roche Latvija SIA Tel: +371 - 6 7039831
 
 ## Lietuva
 
-UAB 'Roche Lietuva'
-
-Tel: +370 5 2546799
+UAB 'Roche Lietuva' Tel: +370 5 2546799
 
 ## Magyarország
 
-Roche (Magyarország) Kft. Tel: +36 - 1 279 4500
+Roche (Magyarország) Kft.
+
+Tel: +36 - 1 279 4500
 
 ## Nederland
 
-Roche Nederland B.V.
-
-Tel: +31 (0) 348 438050
+Roche Nederland B.V. Tel: +31 (0) 348 438050
 
 ## Norge
 
-Roche Norge AS
-
-Tlf: +47 - 22 78 90 00
+Roche Norge AS Tlf: +47 - 22 78 90 00
 
 ## Österreich
 
-Roche Austria GmbH
-
-Tel: +43 (0) 1 27739
+Roche Austria GmbH Tel: +43 (0) 1 27739
 
 ## Polska
 
-Roche Polska Sp.z o.o.
-
-Tel: +48 - 22 345 18 88.
+Roche Polska Sp.z o.o. Tel: +48 - 22 345 18 88.
 
 ## Portugal
 
-Roche Farmacêutica Química, Lda
-
-Tel: +351 - 21 425 70 00
+Roche Farmacêutica Química, Lda Tel: +351 - 21 425 70 00
 
 ## România
 
-Roche România S.R.L.
-
-Tel: +40 21 206 47 01
+Roche România S.R.L. Tel: +40 21 206 47 01
 
 ## Slovenija
 
@@ -2295,15 +2287,11 @@ Roche farmacevtska družba d.o.o. Tel: +386 - 1 360 26 00
 
 ## Slovenská republika
 
-Roche Slovensko, s.r.o.
-
-Tel: +421 - 2 52638201
+Roche Slovensko, s.r.o. Tel: +421 - 2 52638201
 
 ## Suomi/Finland
 
-Roche Oy
-
-Puh/Tel: +358 (0) 10 554 500
+Roche Oy Puh/Tel: +358 (0) 10 554 500
 
 ## Sverige
 
@@ -2311,11 +2299,13 @@ Roche AB
 
 Tel: +46 (0) 8 726 1200
 
-<div style=\"page-break-after: always\"></div>
+## This leaflet was last revised in
 
-## This leaflet was last revised in Other sources of information
+## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/en.
+
+<div style=\"page-break-after: always\"></div>
 
 &lt;--------------------------------------------------------------------------------------------------------------&gt;
 
@@ -2331,37 +2321,35 @@ The following information is intended for healthcare professionals only:
 
 <!-- image -->
 
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
 Read all the instructions carefully before using Vabysmo.
 
-The Vabysmo kit includes a glass vial and transfer filter needle. The glass vial is for a single dose only. The filter needle is for single use only.
+- The Vabysmo kit includes a glass vial and transfer filter needle. The glass vial is for a single dose only. The filter needle is for single use only. 口
 
-Vabysmo should be stored refrigerated at temperatures between 2 ° C to 8 ° C.
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Vabysmo should be stored refrigerated at temperatures between 2  C to 8  C.
 
 Do not freeze.
 
 Do not shake.
 
-- Allow Vabysmo to reach room temperature, 20 ° C to 25 ° C before proceeding with the
-
-administration. Keep the vial in the original carton to protect from light.
+- Allow Vabysmo to reach room temperature, 20  C to 25  C before proceeding with the administration. Keep the vial in the original carton to protect from light.
 
 The Vabysmo vial may be kept at room temperature for up to 24 hours.
 
-- The Vabysmo vial should be inspected visually prior to administration. Vabysmo is a
-
-clear to opalescent and colorless to brownish-yellow liquid solution.
+- The Vabysmo vial should be inspected visually prior to administration. Vabysmo is a clear to opalescent and colorless to brownish-yellow liquid solution.
 
 Do not use if particulates, cloudiness, or discoloration are visible.
 
 Do not use if the packaging, vial and/or transfer filter needle are expired, damaged, or have been tampered with (see Figure A ).
 
 Use aseptic technique to carry out the preparation of the intravitreal injection.
+
+Figure A
 
 <!-- image -->
 
@@ -2377,21 +2365,12 @@ Note that a 30-gauge injection needle is recommended to avoid increased injectio
 
 - Alcohol swab ( not included ).
 
-Figure A
-
 <div style=\"page-break-after: always\"></div>
 
 - 2 To ensure all liquid settles at the bottom of the vial, place the vial upright on a flat surface (for about 1 minute) after removal from packaging (see Figure B ). Gently tap the vial with your finger (see Figure C ), as liquid may stick to the top of the vial.
-
-<!-- image -->
-
-Figure B
-
-<!-- image -->
-
 - 3 Remove the flip-off cap from the vial (see Figure D ) and wipe the vial septum with an alcohol swab (see Figure E ).
 
-Figure D
+<!-- image -->
 
 <!-- image -->
 
@@ -2404,15 +2383,11 @@ Figure F
 
 <!-- image -->
 
-<!-- image -->
-
 Figure G
 
-Figure H
-
 <!-- image -->
 
-Figure E
+Figure H
 
 <!-- image -->
 

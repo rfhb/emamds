@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-06-05 09:36:49
+document_datetime: 2026-01-06 10:33:01
 document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/efmody-epar-product-information_en.pdf
 document_name: efmody-epar-product-information_en.pdf
 version: success
-processing_time: 6.9089142
-conversion_datetime: 2025-12-18 23:19:28.592649
+processing_time: 7.1741735
+conversion_datetime: 2026-01-10 11:13:31.377725
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -261,7 +261,7 @@ and increased weight (5.8%).  Two serious adverse reactions of hypokalaemia (2.2
 
 ## Tabulated list of adverse reactions
 
-The commonest reactions reported to Efmody in the pooled population in the clinical trial programme, are tabulated below. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100).
+The commonest reactions reported to Efmody in the pooled population in the clinical trial programme, are tabulated below. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100) .
 
 Table 1. Tabulated summary of adverse reactions seen in clinical trial programme
 
@@ -454,9 +454,7 @@ The capsules are provided in high-density polyethylene bottles with child resist
 
 Pack size:
 
-Carton containing 1 bottle of 50 modified-release hard capsules.
-
-Carton containing 2 bottles of 50 modified-release hard capsules (100 capsules).
+Carton containing 1 bottle of 50 modified-release hard capsules. Carton containing 2 bottles of 50 modified-release hard capsules (100 capsules).
 
 Not all pack sizes may be marketed.
 
@@ -499,11 +497,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
 
-Name and address of the manufacturer(s) responsible for batch release
-
-Delpharm Lille SAS Parc d'Activités Roubaix-Est 22 rue de Toufflers CS 50070 Lys Lez Lannoy, 59 452 France
-
-Skyepharma Production SAS Zone Industrielle Chesnes Ouest 55 rue du Montmurier Saint Quentin Fallavier, 38070 France
+Name and address of the manufacturer(s) responsible for batch release Skyepharma Production SAS Zone Industrielle Chesnes Ouest 55 rue du Montmurier Saint Quentin Fallavier, 38070 France
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -582,6 +576,8 @@ Keep the bottle tightly closed in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -611,8 +607,6 @@ Efmody 5 mg
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -826,8 +820,6 @@ Lot
 17. UNIQUE IDENTIFIER - 2D BARCODE
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 CARTON 5 MG HARD CAPSULES - 100 (2X50) CAPSULES
@@ -870,6 +862,10 @@ Store in the original package.
 
 Keep the bottle tightly closed in order to protect from moisture.
 
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -899,8 +895,6 @@ Efmody 5 mg
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
-
-<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -978,9 +972,9 @@ Efmody 10 mg
 
 PC SN
 
-NN
-
 <div style=\"page-break-after: always\"></div>
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1246,11 +1240,9 @@ The printing ink on the capsules contains shellac, black iron oxide (E172), prop
 
 ## What Efmody looks like and contents of the pack
 
-- -Efmody 5 mg modified-release hard capsules A capsule (approx.19 mm long) with an opaque blue cap and opaque white body printed with
-
-'CHC 5mg' containing white to off white granules.
-
-- -Efmody 10 mg modified-release hard capsules A capsule (approx.19 mm long) with an opaque green cap and opaque white body printed with
+- -Efmody 5 mg modified-release hard capsules A capsule (approx.19 mm long) with an opaque blue cap and opaque white body printed with 'CHC 5mg' containing white to off white granules.
+- -
+- Efmody 10 mg modified-release hard capsules A capsule (approx.19 mm long) with an opaque green cap and opaque white body printed with
 
 'CHC 10mg' containing white to off white granules.
 
@@ -1264,15 +1256,11 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Neurocrine Netherlands B.V.Van Heuven Goedhartlaan 935 A 1181LD Amstelveen The Netherlands diurnalinfo@neurocrine.com
+Neurocrine Netherlands B.V. Van Heuven Goedhartlaan 935 A 1181LD Amstelveen The Netherlands diurnalinfo@neurocrine.com
 
 <div style=\"page-break-after: always\"></div>
 
-## Manufacturer
-
-Delpharm Lille SAS Parc d'Activités Roubaix-Est 22 rue de Toufflers CS 50070 Lys Lez Lannoy, 59 452 France
-
-Skyepharma Production SAS Zone Industrielle Chesnes Ouest 55 rue du Montmurier Saint Quentin Fallavier, 38070 France
+Manufacturer Skyepharma Production SAS Zone Industrielle Chesnes Ouest 55 rue du Montmurier Saint Quentin Fallavier, 38070 France
 
 ## This leaflet was last revised in
 

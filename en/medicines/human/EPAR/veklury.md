@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 07:33:06
+document_datetime: 2026-01-06 11:22:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/veklury.html
 document_name: veklury.html
 version: success
-processing_time: 0.1241266
-conversion_datetime: 2025-12-30 19:59:05.740645
+processing_time: 0.1356938
+conversion_datetime: 2026-01-10 11:40:37.543863
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -120,7 +120,7 @@ English (EN) (146.9 KB - PDF)
 
 [View](/en/documents/overview/veklury-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-317)
+[Other languages (22)](#file-language-dropdown-46)
 
 български (BG) (162.88 KB - PDF)
 
@@ -400,17 +400,17 @@ English (EN) (1.08 MB - PDF)
 
 Veklury : EPAR - Product information
 
-English (EN) (414.98 KB - PDF)
+English (EN) (425.22 KB - PDF)
 
 **First published:** 18/07/2020
 
-**Last updated:** 13/08/2025
+**Last updated:** 06/01/2026
 
 [View](/en/documents/product-information/veklury-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-192)
+[Other languages (24)](#file-language-dropdown-190)
 
-български (BG) (496.72 KB - PDF)
+български (BG) (603.2 KB - PDF)
 
 **First published:**
 
@@ -418,11 +418,11 @@ English (EN) (414.98 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/bg/documents/product-information/veklury-epar-product-information_bg.pdf)
 
-español (ES) (450.33 KB - PDF)
+español (ES) (630.24 KB - PDF)
 
 **First published:**
 
@@ -430,11 +430,11 @@ español (ES) (450.33 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/es/documents/product-information/veklury-epar-product-information_es.pdf)
 
-čeština (CS) (501.33 KB - PDF)
+čeština (CS) (609.25 KB - PDF)
 
 **First published:**
 
@@ -442,11 +442,11 @@ español (ES) (450.33 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/cs/documents/product-information/veklury-epar-product-information_cs.pdf)
 
-dansk (DA) (427.86 KB - PDF)
+dansk (DA) (602.58 KB - PDF)
 
 **First published:**
 
@@ -454,11 +454,11 @@ dansk (DA) (427.86 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/da/documents/product-information/veklury-epar-product-information_da.pdf)
 
-Deutsch (DE) (459.5 KB - PDF)
+Deutsch (DE) (640.97 KB - PDF)
 
 **First published:**
 
@@ -466,11 +466,11 @@ Deutsch (DE) (459.5 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/de/documents/product-information/veklury-epar-product-information_de.pdf)
 
-eesti keel (ET) (448.13 KB - PDF)
+eesti keel (ET) (565.21 KB - PDF)
 
 **First published:**
 
@@ -478,11 +478,11 @@ eesti keel (ET) (448.13 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/et/documents/product-information/veklury-epar-product-information_et.pdf)
 
-ελληνικά (EL) (557.22 KB - PDF)
+ελληνικά (EL) (702.01 KB - PDF)
 
 **First published:**
 
@@ -490,11 +490,11 @@ eesti keel (ET) (448.13 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/el/documents/product-information/veklury-epar-product-information_el.pdf)
 
-français (FR) (546.91 KB - PDF)
+français (FR) (601.73 KB - PDF)
 
 **First published:**
 
@@ -502,11 +502,11 @@ français (FR) (546.91 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/fr/documents/product-information/veklury-epar-product-information_fr.pdf)
 
-hrvatski (HR) (527.56 KB - PDF)
+hrvatski (HR) (618.69 KB - PDF)
 
 **First published:**
 
@@ -514,11 +514,11 @@ hrvatski (HR) (527.56 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/hr/documents/product-information/veklury-epar-product-information_hr.pdf)
 
-íslenska (IS) (418.24 KB - PDF)
+íslenska (IS) (576.03 KB - PDF)
 
 **First published:**
 
@@ -526,11 +526,11 @@ hrvatski (HR) (527.56 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/is/documents/product-information/veklury-epar-product-information_is.pdf)
 
-italiano (IT) (503.18 KB - PDF)
+italiano (IT) (624.51 KB - PDF)
 
 **First published:**
 
@@ -538,11 +538,11 @@ italiano (IT) (503.18 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/it/documents/product-information/veklury-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (513.57 KB - PDF)
+latviešu valoda (LV) (642.03 KB - PDF)
 
 **First published:**
 
@@ -550,11 +550,11 @@ latviešu valoda (LV) (513.57 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/lv/documents/product-information/veklury-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (487.93 KB - PDF)
+lietuvių kalba (LT) (649.11 KB - PDF)
 
 **First published:**
 
@@ -562,11 +562,11 @@ lietuvių kalba (LT) (487.93 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/lt/documents/product-information/veklury-epar-product-information_lt.pdf)
 
-magyar (HU) (531.46 KB - PDF)
+magyar (HU) (694.31 KB - PDF)
 
 **First published:**
 
@@ -574,11 +574,11 @@ magyar (HU) (531.46 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/hu/documents/product-information/veklury-epar-product-information_hu.pdf)
 
-Malti (MT) (530.68 KB - PDF)
+Malti (MT) (698.25 KB - PDF)
 
 **First published:**
 
@@ -586,11 +586,11 @@ Malti (MT) (530.68 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/mt/documents/product-information/veklury-epar-product-information_mt.pdf)
 
-Nederlands (NL) (431.21 KB - PDF)
+Nederlands (NL) (600.06 KB - PDF)
 
 **First published:**
 
@@ -598,11 +598,11 @@ Nederlands (NL) (431.21 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/nl/documents/product-information/veklury-epar-product-information_nl.pdf)
 
-norsk (NO) (418.44 KB - PDF)
+norsk (NO) (597.12 KB - PDF)
 
 **First published:**
 
@@ -610,11 +610,11 @@ norsk (NO) (418.44 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/no/documents/product-information/veklury-epar-product-information_no.pdf)
 
-polski (PL) (517.19 KB - PDF)
+polski (PL) (642.02 KB - PDF)
 
 **First published:**
 
@@ -622,11 +622,11 @@ polski (PL) (517.19 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/pl/documents/product-information/veklury-epar-product-information_pl.pdf)
 
-português (PT) (443.07 KB - PDF)
+português (PT) (603.49 KB - PDF)
 
 **First published:**
 
@@ -634,11 +634,11 @@ português (PT) (443.07 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/pt/documents/product-information/veklury-epar-product-information_pt.pdf)
 
-română (RO) (516.25 KB - PDF)
+română (RO) (662.7 KB - PDF)
 
 **First published:**
 
@@ -646,11 +646,11 @@ română (RO) (516.25 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/ro/documents/product-information/veklury-epar-product-information_ro.pdf)
 
-slovenčina (SK) (561.45 KB - PDF)
+slovenčina (SK) (667.68 KB - PDF)
 
 **First published:**
 
@@ -658,11 +658,11 @@ slovenčina (SK) (561.45 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/sk/documents/product-information/veklury-epar-product-information_sk.pdf)
 
-slovenščina (SL) (511.44 KB - PDF)
+slovenščina (SL) (659.22 KB - PDF)
 
 **First published:**
 
@@ -670,11 +670,11 @@ slovenščina (SL) (511.44 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/sl/documents/product-information/veklury-epar-product-information_sl.pdf)
 
-Suomi (FI) (484.42 KB - PDF)
+Suomi (FI) (612.34 KB - PDF)
 
 **First published:**
 
@@ -682,11 +682,11 @@ Suomi (FI) (484.42 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/fi/documents/product-information/veklury-epar-product-information_fi.pdf)
 
-svenska (SV) (513.38 KB - PDF)
+svenska (SV) (624.77 KB - PDF)
 
 **First published:**
 
@@ -694,11 +694,11 @@ svenska (SV) (513.38 KB - PDF)
 
 **Last updated:**
 
-13/08/2025
+06/01/2026
 
 [View](/sv/documents/product-information/veklury-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000291261 13/08/2025
+**Latest procedure affecting product information:** VR/0000314055 22/12/2025
 
 icon globe
 
@@ -724,7 +724,7 @@ English (EN) (57.75 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/veklury-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-525)
+[Other languages (24)](#file-language-dropdown-90)
 
 български (BG) (61.38 KB - PDF)
 
@@ -1037,7 +1037,7 @@ Gilead Sciences Ireland UC
 
 IDA Business &amp; Technology Park
 
-Opinion adopted 25/06/2020 Marketing authorisation issued 03/07/2020 Revision 30
+Opinion adopted 25/06/2020 Marketing authorisation issued 03/07/2020 Revision 31
 
 ## Assessment history
 
@@ -1049,11 +1049,11 @@ Collapse section
 
 Veklury : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (149.55 KB - PDF)
+English (EN) (159.58 KB - PDF)
 
 **First published:** 04/06/2025
 
-**Last updated:** 13/08/2025
+**Last updated:** 06/01/2026
 
 [View](/en/documents/procedural-steps-after/veklury-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1251,7 +1251,7 @@ English (EN) (130.94 KB - PDF)
 - [COVID-19](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61132)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 13/08/2025
+**This page was last updated on** 06/01/2026
 
 ## Share this page
 

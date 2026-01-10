@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 12:01:40
+document_datetime: 2026-01-07 15:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/gazyvaro.html
 document_name: gazyvaro.html
 version: success
-processing_time: 0.1208617
-conversion_datetime: 2025-12-30 02:24:51.690516
+processing_time: 0.1329822
+conversion_datetime: 2026-01-10 11:37:39.562819
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -48,14 +48,23 @@ Page contents
 
 ## Overview
 
-Gazyvaro is a cancer medicine used to treat adults with:
+Gazyvaro is a medicine used to treat adults with certain types of cancer affecting B cells (a type of white blood cell), called chronic lymphocytic leukaemia and follicular lymphoma, as well as the inflammatory kidney disease lupus nephritis.
 
-- previously untreated chronic lymphocytic leukaemia (CLL). CLL is a cancer of B-lymphocytes, a type of white blood cell. Gazyvaro is used together with chlorambucil (another cancer medicine) in patients for whom the cancer medicine fludarabine is not recommended;
-- follicular lymphoma (FL), another type of cancer of B-lymphocytes. Gazyvaro is used together with chemotherapy (other cancer medicines) in patients who have not had previous treatment for advanced FL. It is also used with the medicine bendamustine in patients whose disease has not responded to treatment involving the medicine rituximab or whose cancer has progressed within 6 months after such treatment. Once the disease has responded to treatment, Gazyvaro is then used on its own for the maintenance treatment of FL.
+**Chronic lymphocytic leukaemia**
 
-Gazyvaro contains the active substance obinutuzumab.
+Gazyvaro is used together with chlorambucil (a cancer medicine) in adults who have not been previously treated and have other medical conditions, and for whom the cancer medicine fludarabine is not recommended.
 
-These diseases are rare, and Gazyvaro was designated an 'orphan medicine' (a medicine used in rare diseases). Further information on the orphan designations can be found on the European Medicines Agency's website (CLL: [10 October 2012](/en/medicines/human/orphan-designations/eu-3-12-1054) ;  FL: [19 June 2015](/en/medicines/human/orphan-designations/eu-3-15-1504) ).
+**Follicular lymphoma**
+
+In patients with advanced follicular lymphoma who have not been previously treated, Gazyvaro is first given together with chemotherapy (other cancer medicines) and then continued on its own in those who benefit from the medicine.
+
+In patients with follicular lymphoma whose disease has not responded to treatment with rituximab, or whose cancer has progressed within 6 months after such treatment, Gazyvaro is given together with bendamustine and then continued on its own in those who benefit from the medicine.
+
+**Lupus nephritis**
+
+Gazyvaro is used together with mycophenolate mofetil in adults with active lupus nephritis, a condition in which the immune system (the body's natural defences) attacks the kidneys, causing inflammation and kidney damage. The medicine is for people with active class III or IV lupus nephritis (with or without features of class V), which are severe forms of the condition.
+
+Gazyvaro contains the active substance obinutuzumab
 
 Expand section
 
@@ -63,43 +72,67 @@ Collapse section
 
 ## How is Gazyvaro used?
 
-Gazyvaro can only be obtained with a prescription and treatment should be given under the close supervision of an experienced doctor. As serious side effects including allergic reactions can develop, treatment should be given in facilities where these reactions can be treated promptly.
+Gazyvaro can only be obtained with a prescription and treatment should be given under the close supervision of an experienced doctor. Because serious side effects such as allergic reactions may occur, treatment should take place in a medical facility where such reactions can be treated promptly.
 
-Gazyvaro is given by infusion (drip) into a vein over several hours. It is given in six or eight cycles and each cycle lasts 21 or 28 days.
+Gazyvaro is given by infusion (drip) into a vein over several hours.
 
-The dosage schedule depends on what Gazyvaro is used for.
+For the treatment of chronic lymphocytic leukaemia, Gazyvaro is given in six treatment cycles of 28 days each.
 
-Patients may also be given other medicines to prevent infusion-related reactions and other side effects. For more information about using Gazyvaro, see the package leaflet or contact your doctor or pharmacist.
+For the treatment of follicular lymphoma, Gazyvaro is given in six or eight treatment cycles, each lasting 21 or 28 days. Patients who benefit from treatment then continue taking Gazyvaro once every 2 months for 2 years or until the disease gets worse.
+
+For the treatment of lupus nephritis, the first two infusions are given 2 weeks apart, followed by two further infusions about 6 months later, given two weeks apart. After that, the medicine is given every 6 months.
+
+Before receiving Gazyvaro, the patient should be given medicines to reduce the risk of certain side effects.
+
+For more information about using Gazyvaro, see the package leaflet or contact your doctor or pharmacist.
 
 ## How does Gazyvaro work?
 
-The active substance in Gazyvaro, obinutuzumab, is a monoclonal antibody (a type of protein) that has been designed to attach to the protein CD20, which is found on B-lymphocytes. In CLL and FL, cancerous B-lymphocytes multiply too quickly and replace normal cells in the bone marrow (where blood cells are made) and in lymph nodes. By attaching to CD20 on B-lymphocytes, obinutuzumab makes them a target for the body's immune (defence) system, which kills the B-lymphocytes.
+The active substance in Gazyvaro, obinutuzumab, is a monoclonal antibody (a type of protein) that has been designed to attach to the protein CD20, which is found on B cells.
+
+In chronic lymphocytic leukaemia and follicular lymphoma, cancerous B cells multiply and replace normal cells in the bone marrow (where blood cells are made) and in lymph nodes. By attaching to CD20 on B cells, obinutuzumab makes them a target for the immune system, which kills the B cells.
+
+In lupus nephritis, B cells cause inflammation and damage to the kidneys. By making B cells a target for the immune system to destroy, obinutuzumab lowers their number, thereby reducing inflammation and limiting further damage to the kidneys.
 
 ## What benefits of Gazyvaro have been shown in studies?
 
-CLL
+**Chronic lymphocytic leukaemia**
 
-In CLL, Gazyvaro delayed the disease getting worse in previously untreated patients who had other medical conditions and were therefore ineligible for fludarabine-based therapy. In one main study involving 781 patients, those treated with Gazyvaro and chlorambucil lived longer without their disease getting worse than patients treated with chlorambucil alone (26.7 months on average versus 11.1 months). Similarly, patients treated with Gazyvaro and chlorambucil lived longer without their disease getting worse than patients treated with rituximab and chlorambucil (26.7 months versus 15.2 months).
+In a main study involving 781 adults with chronic lymphocytic leukaemia who had not been previously treated, had other medical conditions and were not eligible for fludarabine-based therapy, Gazyvaro delayed the worsening of the disease.
 
-FL
+Participants treated with Gazyvaro and chlorambucil lived longer without their disease getting worse than those given chlorambucil alone (on average, 27 months compared with 11 months). Similarly, participants treated with Gazyvaro and chlorambucil lived longer without their disease getting worse than those treated with rituximab and chlorambucil (on average, about 27 months compared with 15 months).
 
-Gazyvaro was of benefit in one main study involving 1,202 patients with previously untreated FL. The study compared Gazyvaro plus other chemotherapy medicines with rituximab plus other chemotherapy medicines. Over a follow-up period of about 3 years on average, 17% (101 of 601 patients) given Gazyvaro died or their disease got worse, compared with 24% (144 of 601 patients) given rituximab.
+**Follicular lymphoma**
 
-Gazyvaro has also been investigated in a study involving 321 patients with FL in whom treatment with rituximab had either not worked or had stopped working. Patients treated with Gazyvaro and bendamustine lived longer without their disease getting worse than patients treated with bendamustine alone (29.2 months on average versus 13.7 months).
+In a main study involving 1,202 adults with follicular lymphoma who had not been previously treated, Gazyvaro delayed the time when the disease got worse or the person died. The study compared Gazyvaro plus chemotherapy with rituximab plus chemotherapy. Over an average follow-up of about 3 years, 17% (101 out of 601) of those given Gazyvaro had their disease get worse or died, compared with 24% (144 out of 601) of those given rituximab.
+
+Gazyvaro was also studied in 321 adults with follicular lymphoma whose treatment with rituximab had either not worked or had stopped working. Those treated with Gazyvaro and bendamustine lived longer without their disease getting worse than those given bendamustine alone (on average, about 29 months compared with 14 months).
+
+**Lupus nephritis**
+
+A main study involved 271 adults with active class III or IV lupus nephritis, with or without class V disease, who were already being treated with standard medicines for lupus nephritis (mycophenolate mofetil and corticosteroids). The main measure of effectiveness was the proportion of patients with a complete kidney response after 76 weeks of treatment. Participants were considered to have a complete kidney response when their urine contained low levels of proteins, their kidney filtration remained at least stable, and none of the following occurred: they needed additional treatment, had treatment failure, left the study early or died. After treatment, around 46% of those given Gazyvaro met all three criteria for response, compared with around 33% of those given placebo.
 
 ## What are the risks associated with Gazyvaro?
 
-The most common side effects with Gazyvaro (which may affect more than 1 in 10 people) are upper respiratory infections (such as throat and nose infections), pneumonia (lung infection), urinary tract infections, inflammation in the nose and throat, sinusitis (inflammation of the sinuses), shingles, coughs, diarrhoea, constipation, joint and back pain, pain in arms and legs, headache, insomnia, hair loss, itching, fever, weakness, tiredness, neutropenia and leucopenia (low white blood cell counts), thrombocytopenia (low blood platelet counts), anaemia (low red blood cell counts) and reactions related to the infusion (which may include vomiting, dizziness, breathing difficulties, flushing, changes in blood pressure and rapid heart rate). For the full list of side effects and restrictions of Gazyvaro, see the package leaflet.
+For the full list of side effects and restrictions with Gazyvaro, see the package leaflet.
+
+For the treatment of chronic lymphocytic leukaemia and follicular lymphoma, the most common side effects with Gazyvaro (which may affect more than 1 in 10 people) include upper respiratory tract (throat and nose) infections, pneumonia (lung infection), urinary tract infections, nasopharyngitis (inflammation of the nose and throat), sinusitis (inflammation of the sinuses), shingles, cough, diarrhoea, constipation, joint and back pain, pain in arms and legs, headache, insomnia, hair loss, itching, fever, weakness, tiredness, neutropenia (low levels of neutrophils, a type of white blood cell) and leukopenia (low levels of leucocytes, a type of white blood cell), thrombocytopenia (low levels of platelets in blood), anaemia (low levels of red blood cells) and reactions related to the infusion (which may include vomiting, dizziness, breathing difficulties, flushing, changes in blood pressure and rapid heart rate).
+
+For the treatment of lupus nephritis, the most common side effects with Gazyvaro (which may affect more than 1 in 10 people) include upper respiratory tract infections, COVID-19, urinary tract infections, bronchitis (inflammation of the airways in the lungs), neutropenia, decrease in blood levels of immunoglobulin M (a type of antibody) and reactions related to the infusion.
 
 ## Why is Gazyvaro authorised in the EU?
 
-The European Medicines Agency decided that Gazyvaro's benefits are greater than its risks and it can be authorised for use in the EU. The Agency considered that the benefit of Gazyvaro in prolonging the survival of CLL and FL patients before their disease worsened was clearly demonstrated. The pattern of side effects was considered acceptable in the light of the medicine's benefit.
+Studies have shown that Gazyvaro prolonged the time people with chronic lymphocytic leukaemia and follicular lymphoma lived before their disease got worse. For the treatment of lupus nephritis, adding Gazyvaro to standard treatment resulted in an improved kidney response in people with class III and IV disease, with or without class V disease, compared to placebo and standard treatment.
+
+The medicine's side effects were considered acceptable in view of its benefits, with infections, low levels of neutrophils and infusion-related reactions being the most common. There were some uncertainties about the long-term safety of reducing B-cell levels, which the ongoing study in people with lupus nephritis is expected to address.
+
+The European Medicines Agency therefore decided that Gazyvaro's benefits are greater than its risks and it can be authorised for use in the EU.
 
 ## What measures are being taken to ensure the safe and effective use of Gazyvaro?
 
 Recommendations and precautions to be followed by healthcare professionals and patients for the safe and effective use of Gazyvaro have been included in the summary of product characteristics and the package leaflet.
 
-As for all medicines, data on the use of Gazyvaro are continuously monitored. Side effects reported with Gazyvaro are carefully evaluated and any necessary action taken to protect patients.
+As for all medicines, data on the use of Gazyvaro are continuously monitored. Suspected side effects reported with Gazyvaro are carefully evaluated and any necessary action taken to protect patients.
 
 ## Other information about Gazyvaro
 
@@ -107,19 +140,19 @@ Gazyvaro received a marketing authorisation valid throughout the EU on 23 July 2
 
 Gazyvaro : EPAR - Summary for the public
 
-Reference Number: EMA/141936/2020
+Reference Number: EMADOC-1829012207-33863
 
-English (EN) (139.13 KB - PDF)
+English (EN) (137.67 KB - PDF)
 
 **First published:** 20/08/2014
 
-**Last updated:** 19/05/2020
+**Last updated:** 07/01/2026
 
 [View](/en/documents/overview/gazyvaro-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-516)
+[Other languages (22)](#file-language-dropdown-672)
 
-български (BG) (161.63 KB - PDF)
+български (BG) (158.34 KB - PDF)
 
 **First published:**
 
@@ -127,11 +160,11 @@ English (EN) (139.13 KB - PDF)
 
 **Last updated:**
 
-19/05/2020
+07/01/2026
 
 [View](/bg/documents/overview/gazyvaro-epar-summary-public_bg.pdf)
 
-español (ES) (137.98 KB - PDF)
+español (ES) (133.79 KB - PDF)
 
 **First published:**
 
@@ -139,11 +172,11 @@ español (ES) (137.98 KB - PDF)
 
 **Last updated:**
 
-19/05/2020
+07/01/2026
 
 [View](/es/documents/overview/gazyvaro-epar-summary-public_es.pdf)
 
-čeština (CS) (160.9 KB - PDF)
+čeština (CS) (158.76 KB - PDF)
 
 **First published:**
 
@@ -151,11 +184,11 @@ español (ES) (137.98 KB - PDF)
 
 **Last updated:**
 
-19/05/2020
+07/01/2026
 
 [View](/cs/documents/overview/gazyvaro-epar-summary-public_cs.pdf)
 
-dansk (DA) (137.54 KB - PDF)
+dansk (DA) (132.43 KB - PDF)
 
 **First published:**
 
@@ -163,11 +196,11 @@ dansk (DA) (137.54 KB - PDF)
 
 **Last updated:**
 
-19/05/2020
+07/01/2026
 
 [View](/da/documents/overview/gazyvaro-epar-summary-public_da.pdf)
 
-Deutsch (DE) (141.39 KB - PDF)
+Deutsch (DE) (137.4 KB - PDF)
 
 **First published:**
 
@@ -175,11 +208,11 @@ Deutsch (DE) (141.39 KB - PDF)
 
 **Last updated:**
 
-19/05/2020
+07/01/2026
 
 [View](/de/documents/overview/gazyvaro-epar-summary-public_de.pdf)
 
-eesti keel (ET) (126.82 KB - PDF)
+eesti keel (ET) (131.52 KB - PDF)
 
 **First published:**
 
@@ -187,11 +220,11 @@ eesti keel (ET) (126.82 KB - PDF)
 
 **Last updated:**
 
-19/05/2020
+07/01/2026
 
 [View](/et/documents/overview/gazyvaro-epar-summary-public_et.pdf)
 
-ελληνικά (EL) (160.62 KB - PDF)
+ελληνικά (EL) (157.66 KB - PDF)
 
 **First published:**
 
@@ -199,11 +232,11 @@ eesti keel (ET) (126.82 KB - PDF)
 
 **Last updated:**
 
-19/05/2020
+07/01/2026
 
 [View](/el/documents/overview/gazyvaro-epar-summary-public_el.pdf)
 
-français (FR) (139.58 KB - PDF)
+français (FR) (136.18 KB - PDF)
 
 **First published:**
 
@@ -211,11 +244,11 @@ français (FR) (139.58 KB - PDF)
 
 **Last updated:**
 
-19/05/2020
+07/01/2026
 
 [View](/fr/documents/overview/gazyvaro-epar-summary-public_fr.pdf)
 
-hrvatski (HR) (160.45 KB - PDF)
+hrvatski (HR) (157.3 KB - PDF)
 
 **First published:**
 
@@ -223,11 +256,11 @@ hrvatski (HR) (160.45 KB - PDF)
 
 **Last updated:**
 
-19/05/2020
+07/01/2026
 
 [View](/hr/documents/overview/gazyvaro-epar-summary-public_hr.pdf)
 
-italiano (IT) (137.16 KB - PDF)
+italiano (IT) (132.39 KB - PDF)
 
 **First published:**
 
@@ -235,11 +268,11 @@ italiano (IT) (137.16 KB - PDF)
 
 **Last updated:**
 
-19/05/2020
+07/01/2026
 
 [View](/it/documents/overview/gazyvaro-epar-summary-public_it.pdf)
 
-latviešu valoda (LV) (169.31 KB - PDF)
+latviešu valoda (LV) (168.11 KB - PDF)
 
 **First published:**
 
@@ -247,11 +280,11 @@ latviešu valoda (LV) (169.31 KB - PDF)
 
 **Last updated:**
 
-19/05/2020
+07/01/2026
 
 [View](/lv/documents/overview/gazyvaro-epar-summary-public_lv.pdf)
 
-lietuvių kalba (LT) (160.92 KB - PDF)
+lietuvių kalba (LT) (158.25 KB - PDF)
 
 **First published:**
 
@@ -259,11 +292,11 @@ lietuvių kalba (LT) (160.92 KB - PDF)
 
 **Last updated:**
 
-19/05/2020
+07/01/2026
 
 [View](/lt/documents/overview/gazyvaro-epar-summary-public_lt.pdf)
 
-magyar (HU) (161.53 KB - PDF)
+magyar (HU) (158.41 KB - PDF)
 
 **First published:**
 
@@ -271,11 +304,11 @@ magyar (HU) (161.53 KB - PDF)
 
 **Last updated:**
 
-19/05/2020
+07/01/2026
 
 [View](/hu/documents/overview/gazyvaro-epar-summary-public_hu.pdf)
 
-Malti (MT) (161.4 KB - PDF)
+Malti (MT) (162.46 KB - PDF)
 
 **First published:**
 
@@ -283,11 +316,11 @@ Malti (MT) (161.4 KB - PDF)
 
 **Last updated:**
 
-19/05/2020
+07/01/2026
 
 [View](/mt/documents/overview/gazyvaro-epar-summary-public_mt.pdf)
 
-Nederlands (NL) (138.19 KB - PDF)
+Nederlands (NL) (133.17 KB - PDF)
 
 **First published:**
 
@@ -295,11 +328,11 @@ Nederlands (NL) (138.19 KB - PDF)
 
 **Last updated:**
 
-19/05/2020
+07/01/2026
 
 [View](/nl/documents/overview/gazyvaro-epar-summary-public_nl.pdf)
 
-polski (PL) (163.4 KB - PDF)
+polski (PL) (158.86 KB - PDF)
 
 **First published:**
 
@@ -307,11 +340,11 @@ polski (PL) (163.4 KB - PDF)
 
 **Last updated:**
 
-19/05/2020
+07/01/2026
 
 [View](/pl/documents/overview/gazyvaro-epar-summary-public_pl.pdf)
 
-português (PT) (139.52 KB - PDF)
+português (PT) (133.92 KB - PDF)
 
 **First published:**
 
@@ -319,11 +352,11 @@ português (PT) (139.52 KB - PDF)
 
 **Last updated:**
 
-19/05/2020
+07/01/2026
 
 [View](/pt/documents/overview/gazyvaro-epar-summary-public_pt.pdf)
 
-română (RO) (160.09 KB - PDF)
+română (RO) (157.44 KB - PDF)
 
 **First published:**
 
@@ -331,11 +364,11 @@ română (RO) (160.09 KB - PDF)
 
 **Last updated:**
 
-19/05/2020
+07/01/2026
 
 [View](/ro/documents/overview/gazyvaro-epar-summary-public_ro.pdf)
 
-slovenčina (SK) (162.12 KB - PDF)
+slovenčina (SK) (157.08 KB - PDF)
 
 **First published:**
 
@@ -343,11 +376,11 @@ slovenčina (SK) (162.12 KB - PDF)
 
 **Last updated:**
 
-19/05/2020
+07/01/2026
 
 [View](/sk/documents/overview/gazyvaro-epar-summary-public_sk.pdf)
 
-slovenščina (SL) (158.68 KB - PDF)
+slovenščina (SL) (156.79 KB - PDF)
 
 **First published:**
 
@@ -355,11 +388,11 @@ slovenščina (SL) (158.68 KB - PDF)
 
 **Last updated:**
 
-19/05/2020
+07/01/2026
 
 [View](/sl/documents/overview/gazyvaro-epar-summary-public_sl.pdf)
 
-Suomi (FI) (136.08 KB - PDF)
+Suomi (FI) (131.18 KB - PDF)
 
 **First published:**
 
@@ -367,11 +400,11 @@ Suomi (FI) (136.08 KB - PDF)
 
 **Last updated:**
 
-19/05/2020
+07/01/2026
 
 [View](/fi/documents/overview/gazyvaro-epar-summary-public_fi.pdf)
 
-svenska (SV) (136.69 KB - PDF)
+svenska (SV) (132.03 KB - PDF)
 
 **First published:**
 
@@ -379,7 +412,7 @@ svenska (SV) (136.69 KB - PDF)
 
 **Last updated:**
 
-19/05/2020
+07/01/2026
 
 [View](/sv/documents/overview/gazyvaro-epar-summary-public_sv.pdf)
 
@@ -397,17 +430,17 @@ English (EN) (1.79 MB - PDF)
 
 Gazyvaro : EPAR - Product Information
 
-English (EN) (1.1 MB - PDF)
+English (EN) (1.88 MB - PDF)
 
 **First published:** 20/08/2014
 
-**Last updated:** 08/10/2025
+**Last updated:** 07/01/2026
 
 [View](/en/documents/product-information/gazyvaro-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-181)
+[Other languages (24)](#file-language-dropdown-281)
 
-български (BG) (1.55 MB - PDF)
+български (BG) (1.74 MB - PDF)
 
 **First published:**
 
@@ -415,11 +448,11 @@ English (EN) (1.1 MB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/bg/documents/product-information/gazyvaro-epar-product-information_bg.pdf)
 
-español (ES) (1.2 MB - PDF)
+español (ES) (1.27 MB - PDF)
 
 **First published:**
 
@@ -427,11 +460,11 @@ español (ES) (1.2 MB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/es/documents/product-information/gazyvaro-epar-product-information_es.pdf)
 
-čeština (CS) (1.06 MB - PDF)
+čeština (CS) (1.16 MB - PDF)
 
 **First published:**
 
@@ -439,11 +472,11 @@ español (ES) (1.2 MB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/cs/documents/product-information/gazyvaro-epar-product-information_cs.pdf)
 
-dansk (DA) (819.38 KB - PDF)
+dansk (DA) (927.53 KB - PDF)
 
 **First published:**
 
@@ -451,11 +484,11 @@ dansk (DA) (819.38 KB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/da/documents/product-information/gazyvaro-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.93 MB - PDF)
+Deutsch (DE) (2.03 MB - PDF)
 
 **First published:**
 
@@ -463,11 +496,11 @@ Deutsch (DE) (1.93 MB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/de/documents/product-information/gazyvaro-epar-product-information_de.pdf)
 
-eesti keel (ET) (956.31 KB - PDF)
+eesti keel (ET) (1.06 MB - PDF)
 
 **First published:**
 
@@ -475,11 +508,11 @@ eesti keel (ET) (956.31 KB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/et/documents/product-information/gazyvaro-epar-product-information_et.pdf)
 
-ελληνικά (EL) (941.75 KB - PDF)
+ελληνικά (EL) (1.05 MB - PDF)
 
 **First published:**
 
@@ -487,11 +520,11 @@ eesti keel (ET) (956.31 KB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/el/documents/product-information/gazyvaro-epar-product-information_el.pdf)
 
-français (FR) (1.01 MB - PDF)
+français (FR) (1.11 MB - PDF)
 
 **First published:**
 
@@ -499,11 +532,11 @@ français (FR) (1.01 MB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/fr/documents/product-information/gazyvaro-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.11 MB - PDF)
+hrvatski (HR) (1.21 MB - PDF)
 
 **First published:**
 
@@ -511,11 +544,11 @@ hrvatski (HR) (1.11 MB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/hr/documents/product-information/gazyvaro-epar-product-information_hr.pdf)
 
-íslenska (IS) (981.12 KB - PDF)
+íslenska (IS) (1.08 MB - PDF)
 
 **First published:**
 
@@ -523,11 +556,11 @@ hrvatski (HR) (1.11 MB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/is/documents/product-information/gazyvaro-epar-product-information_is.pdf)
 
-italiano (IT) (866.94 KB - PDF)
+italiano (IT) (981.39 KB - PDF)
 
 **First published:**
 
@@ -535,11 +568,11 @@ italiano (IT) (866.94 KB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/it/documents/product-information/gazyvaro-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.15 MB - PDF)
+latviešu valoda (LV) (1.19 MB - PDF)
 
 **First published:**
 
@@ -547,11 +580,11 @@ latviešu valoda (LV) (1.15 MB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/lv/documents/product-information/gazyvaro-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.05 MB - PDF)
+lietuvių kalba (LT) (1.14 MB - PDF)
 
 **First published:**
 
@@ -559,11 +592,11 @@ lietuvių kalba (LT) (1.05 MB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/lt/documents/product-information/gazyvaro-epar-product-information_lt.pdf)
 
-magyar (HU) (945.5 KB - PDF)
+magyar (HU) (1.12 MB - PDF)
 
 **First published:**
 
@@ -571,11 +604,11 @@ magyar (HU) (945.5 KB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/hu/documents/product-information/gazyvaro-epar-product-information_hu.pdf)
 
-Malti (MT) (1.06 MB - PDF)
+Malti (MT) (1.11 MB - PDF)
 
 **First published:**
 
@@ -583,11 +616,11 @@ Malti (MT) (1.06 MB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/mt/documents/product-information/gazyvaro-epar-product-information_mt.pdf)
 
-Nederlands (NL) (888.28 KB - PDF)
+Nederlands (NL) (1.04 MB - PDF)
 
 **First published:**
 
@@ -595,11 +628,11 @@ Nederlands (NL) (888.28 KB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/nl/documents/product-information/gazyvaro-epar-product-information_nl.pdf)
 
-norsk (NO) (834.25 KB - PDF)
+norsk (NO) (939.89 KB - PDF)
 
 **First published:**
 
@@ -607,11 +640,11 @@ norsk (NO) (834.25 KB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/no/documents/product-information/gazyvaro-epar-product-information_no.pdf)
 
-polski (PL) (1.1 MB - PDF)
+polski (PL) (1.21 MB - PDF)
 
 **First published:**
 
@@ -619,11 +652,11 @@ polski (PL) (1.1 MB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/pl/documents/product-information/gazyvaro-epar-product-information_pl.pdf)
 
-português (PT) (847.39 KB - PDF)
+português (PT) (2.03 MB - PDF)
 
 **First published:**
 
@@ -631,11 +664,11 @@ português (PT) (847.39 KB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/pt/documents/product-information/gazyvaro-epar-product-information_pt.pdf)
 
-română (RO) (947.14 KB - PDF)
+română (RO) (1.16 MB - PDF)
 
 **First published:**
 
@@ -643,11 +676,11 @@ română (RO) (947.14 KB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/ro/documents/product-information/gazyvaro-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.06 MB - PDF)
+slovenčina (SK) (1.19 MB - PDF)
 
 **First published:**
 
@@ -655,11 +688,11 @@ slovenčina (SK) (1.06 MB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/sk/documents/product-information/gazyvaro-epar-product-information_sk.pdf)
 
-slovenščina (SL) (970.52 KB - PDF)
+slovenščina (SL) (1.07 MB - PDF)
 
 **First published:**
 
@@ -667,11 +700,11 @@ slovenščina (SL) (970.52 KB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/sl/documents/product-information/gazyvaro-epar-product-information_sl.pdf)
 
-Suomi (FI) (909.71 KB - PDF)
+Suomi (FI) (988.44 KB - PDF)
 
 **First published:**
 
@@ -679,11 +712,11 @@ Suomi (FI) (909.71 KB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/fi/documents/product-information/gazyvaro-epar-product-information_fi.pdf)
 
-svenska (SV) (874.99 KB - PDF)
+svenska (SV) (929.64 KB - PDF)
 
 **First published:**
 
@@ -691,11 +724,11 @@ svenska (SV) (874.99 KB - PDF)
 
 **Last updated:**
 
-08/10/2025
+07/01/2026
 
 [View](/sv/documents/product-information/gazyvaro-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000257509 22/05/2025
+**Latest procedure affecting product information:** VR/0000244907 04/12/2025
 
 icon globe
 
@@ -721,7 +754,7 @@ English (EN) (17.37 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/gazyvaro-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-440)
+[Other languages (23)](#file-language-dropdown-696)
 
 български (BG) (39.55 KB - PDF)
 
@@ -1001,7 +1034,7 @@ svenska (SV) (23.34 KB - PDF)
 
 ## Product details
 
-Name of medicine Gazyvaro Active substance obinutuzumab International non-proprietary name (INN) or common name obinutuzumab Therapeutic area (MeSH) Leukemia, Lymphocytic, Chronic, B-Cell Anatomical therapeutic chemical (ATC) code L01XC15
+Name of medicine Gazyvaro Active substance obinutuzumab International non-proprietary name (INN) or common name obinutuzumab Therapeutic area (MeSH) Leukemia, Lymphocytic, Chronic, B-Cell Anatomical therapeutic chemical (ATC) code L01FA03
 
 ### Pharmacotherapeutic group
 
@@ -1009,15 +1042,7 @@ Antineoplastic agents
 
 ### Therapeutic indication
 
-Chronic Lymphocytic Leukaemia (CLL)
-
-Gazyvaro in combination with chlorambucil is indicated for the treatment of adult patients with previously untreated chronic lymphocytic leukaemia (CLL) and with comorbidities making them unsuitable for full-dose fludarabine based therapy (see section 5.1).
-
-Follicular Lymphoma (FL)
-
-Gazyvaro in combination with chemotherapy, followed by Gazyvaro maintenance therapy in patients achieving a response, is indicated for the treatment of patients with previously untreated advanced follicular lymphoma.
-
-Gazyvaro in combination with bendamustine followed by Gazyvaro maintenance is indicated for the treatment of patients with follicular lymphoma (FL) who did not respond or who progressed during or up to 6 months after treatment with rituximab or a rituximab-containing regimen.
+Chronic lymphocytic leukaemia (CLL) Gazyvaro in combination with chlorambucil is indicated for the treatment of adult patients with previously untreated chronic lymphocytic leukaemia (CLL) and with comorbidities making them unsuitable for full-dose fludarabine based therapy. Follicular Lymphoma (FL) Gazyvaro in combination with chemotherapy, followed by Gazyvaro maintenance therapy in patients achieving a response, is indicated for the treatment of patients with previously untreated advanced follicular lymphoma. Gazyvaro in combination with bendamustine followed by Gazyvaro maintenance is indicated for the treatment of patients with follicular lymphoma (FL) who did not respond or who progressed during or up to 6 months after treatment with rituximab or a rituximab-containing regimen. Lupus nephritis (LN) Gazyvaro in combination with mycophenolate mofetil (MMF) is indicated for the treatment of adult patients with active Class III or IV, with or without concomitant Class V, lupus nephritis (LN).
 
 ## Authorisation details
 
@@ -1033,7 +1058,7 @@ Roche Registration GmbH
 
 Emil-Barell-Strasse 1
 
-Opinion adopted 21/05/2014 Marketing authorisation issued 22/07/2014 Revision 19
+Opinion adopted 21/05/2014 Marketing authorisation issued 22/07/2014 Revision 20
 
 ## Assessment history
 
@@ -1045,9 +1070,11 @@ Collapse section
 
 Gazyvaro : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (146.67 KB - PDF)
+English (EN) (153.33 KB - PDF)
 
 **First published:** 08/10/2025
+
+**Last updated:** 07/01/2026
 
 [View](/en/documents/procedural-steps-after/gazyvaro-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1060,6 +1087,30 @@ English (EN) (258.36 KB - PDF)
 **Last updated:** 08/10/2025
 
 [View](/en/documents/procedural-steps-after/gazyvaro-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Gazyvaro-VR-0000244907 : EPAR - Assessment report - Variation
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2313995
+
+English (EN) (7.9 MB - PDF)
+
+**First published:** 07/01/2026
+
+[View](/en/documents/variation-report/gazyvaro-vr-0000244907-epar-assessment-report-variation_en.pdf)
+
+CHMP post-authorisation summary of positive opinion for Gazyvaro (EMAVR0000244907)
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2492302
+
+English (EN) (142.95 KB - PDF)
+
+**First published:** 17/10/2025
+
+[View](/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-gazyvaro-emavr0000244907_en.pdf)
 
 Gazyvaro-H-C-PSUSA-00010279-202310 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1185,13 +1236,12 @@ English (EN) (67.08 KB - PDF)
 - [Gazyvaro - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/gazyvaro)
 - [EMEA-001207-PIP06-22 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001207-pip06-22)
 - [EMEA-001207-PIP05-22 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-001207-pip05-22)
-- [Gazyvaro - opinion on variation to marketing authorisation](/en/medicines/human/variation/gazyvaro-0)
 
 #### Topics
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 07/11/2025
+**This page was last updated on** 07/01/2026
 
 ## Share this page
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-07-18 16:41:06
+document_datetime: 2026-01-07 14:34:43
 document_pages: 55
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/apremilast-accord-epar-product-information_en.pdf
 document_name: apremilast-accord-epar-product-information_en.pdf
 version: success
-processing_time: 17.5373655
-conversion_datetime: 2025-12-28 05:47:15.621935
+processing_time: 18.1648923
+conversion_datetime: 2026-01-10 10:48:08.071611
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -889,7 +889,7 @@ Contains lactose. See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablet
+## Film-coated tablet
 
 Treatment initiation pack
 
@@ -902,7 +902,7 @@ Each pack of 27 film-coated tablets for a 2 week treatment schedule contains:
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
 ```
-Read the package leaflet before use. For oral use. Week 1 Week 2 Day 1   Day 8 Day 2   Day 9 Day 3   Day 10 Day 4   Day 11 Day 5   Day 12 Day 6   Day 13 Day 7   Day 14 Sun as symbol for morning dose Moon as symbol for evening dose Refer to the wallet card for daily dose
+Read the package leaflet before use. Oral use. Week 1 Week 2 Day 1   Day 8 Day 2   Day 9 Day 3   Day 10 Day 4   Day 11 Day 5   Day 12 Day 6   Day 13 Day 7   Day 14 Sun as symbol for morning dose Moon as symbol for evening dose Refer to the wallet card for daily dose
 ```
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
@@ -943,7 +943,7 @@ Apremilast Accord 20 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2 D barcode carrying the unique identifier included
+2D barcode carrying the unique identifier included
 
 <div style=\"page-break-after: always\"></div>
 
@@ -992,7 +992,7 @@ Each pack of 27 film-coated tablets for a 2 week treatment schedule contains:
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
 ```
-Read the package leaflet before use. For oral use. Week 1 Week 2 Day 1   Day 8 Day 2   Day 9 Day 3   Day 10 Day 4   Day 11 Day 5   Day 12 Day 6   Day 13 Day 7   Day 14 Sun as symbol for morning dose Moon as symbol for evening dose Refer to the wallet card for daily dose.
+Read the package leaflet before use. Oral use. Week 1 Week 2 Day 1   Day 8 Day 2   Day 9 Day 3   Day 10 Day 4   Day 11 Day 5   Day 12 Day 6   Day 13 Day 7   Day 14 Sun as symbol for morning dose Moon as symbol for evening dose Refer to the wallet card for daily dose.
 ```
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
@@ -1059,7 +1059,7 @@ PC SN NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-Blister (Particulars printed directly onto the wallet card with the blank blister sealed inside)
+Blister sealed inside the wallet card
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1077,21 +1077,16 @@ EXP
 
 Lot
 
-## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
+| 5.   | OTHER   |
+|------|---------|
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-Blister (Particulars printed directly onto the wallet card with the blank blister sealed inside)
+Blister sealed inside the wallet card
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Apremilast Accord 10 mg tablets
-
-Apremilast Accord 20 mg tablets
-
-Apremilast Accord 30 mg tablets
+Apremilast Accord 10 mg tablets Apremilast Accord 20 mg tablets Apremilast Accord 30 mg tablets
 
 apremilast
 
@@ -1099,15 +1094,17 @@ apremilast
 
 Accord
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
-## 4. BATCH NUMBER
+4. BATCH NUMBER
 
 Lot
 
-## 5. OTHER
+5. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1135,7 +1132,7 @@ Film-coated tablet 56 film-coated tablets 56 x 1 film-coated tablets
 
 Read the package leaflet before use.
 
-For oral use.
+Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1149,8 +1146,6 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -1159,31 +1154,35 @@ Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/24/1796/006
-
-EU/1/24/1796/007
+EU/1/24/1796/006 EU/1/24/1796/007
 
 ## 13. BATCH NUMBER
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
-Apremilast Accord 20mg
+Apremilast Accord 20 mg
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-2 D barcode carrying the unique identifier included
+2D barcode carrying the unique identifier included
 
-## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC
 
 SN
 
+<div style=\"page-break-after: always\"></div>
+
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1191,11 +1190,7 @@ Carton
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Apremilast Accord 30 mg film-coated tablets
-
-<div style=\"page-break-after: always\"></div>
-
-apremilast
+Apremilast Accord 30 mg film-coated tablets apremilast
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1211,9 +1206,7 @@ Film-coated tablet 56 film-coated tablets 56 x 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-For oral use.
+Read the package leaflet before use. Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1227,46 +1220,42 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est, 6 a Planta, 08039 Barcelona,
+Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n, Edifici Est, 6 a Planta, 08039 Barcelona, Spain
 
-<div style=\"page-break-after: always\"></div>
+## 12. MARKETING AUTHORISATION NUMBER(S)
 
-Spain
+EU/1/24/1796/002
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+EU/1/24/1796/003
 
-EU/1/24/1796/002 EU/1/24/1796/003
-
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 Apremilast Accord 30 mg
 
-| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
-|--------------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC
+
+SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1280,7 +1269,7 @@ Apremilast Accord 30 mg film-coated tablets apremilast
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each film-coated tablet contains 30 mg apremilast
+Each film-coated tablet contains 30 mg apremilast.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1294,7 +1283,7 @@ Multipack: 168 (3 packs of 56) film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. For oral use.
+Read the package leaflet before use. Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1308,7 +1297,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1354,7 +1343,7 @@ Apremilast Accord 30 mg film-coated tablets apremilast
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each film-coated tablet contains 30 mg apremilast
+Each film-coated tablet contains 30 mg apremilast.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -1370,7 +1359,7 @@ Film-coated tablet
 
 Read the package leaflet before use.
 
-For oral use.
+Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1412,31 +1401,36 @@ Apremilast Accord 30 mg
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+<div style=\"page-break-after: always\"></div>
 
-BLISTER
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTER                                              |
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Apremilast Accord 20 mg tablets apremilast
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Accord
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 Oral use.
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 

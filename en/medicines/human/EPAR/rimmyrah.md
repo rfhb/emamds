@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 11:46:35
+document_datetime: 2026-01-09 11:35:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rimmyrah.html
 document_name: rimmyrah.html
 version: success
-processing_time: 0.110217
-conversion_datetime: 2025-12-30 09:06:46.821045
+processing_time: 0.1193137
+conversion_datetime: 2026-01-10 11:05:37.04192
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -118,7 +118,7 @@ English (EN) (144.29 KB - PDF)
 
 [View](/en/documents/overview/rimmyrah-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-631)
+[Other languages (22)](#file-language-dropdown-220)
 
 български (BG) (161.17 KB - PDF)
 
@@ -308,17 +308,17 @@ English (EN) (827.24 KB - PDF)
 
 Rimmyrah : EPAR - Product information
 
-English (EN) (939.29 KB - PDF)
+English (EN) (1.52 MB - PDF)
 
 **First published:** 31/01/2024
 
-**Last updated:** 20/08/2025
+**Last updated:** 09/01/2026
 
 [View](/en/documents/product-information/rimmyrah-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-511)
+[Other languages (24)](#file-language-dropdown-831)
 
-български (BG) (1.55 MB - PDF)
+български (BG) (1.54 MB - PDF)
 
 **First published:**
 
@@ -326,11 +326,11 @@ English (EN) (939.29 KB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/bg/documents/product-information/rimmyrah-epar-product-information_bg.pdf)
 
-español (ES) (1.22 MB - PDF)
+español (ES) (1.43 MB - PDF)
 
 **First published:**
 
@@ -338,11 +338,11 @@ español (ES) (1.22 MB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/es/documents/product-information/rimmyrah-epar-product-information_es.pdf)
 
-čeština (CS) (1.67 MB - PDF)
+čeština (CS) (1.49 MB - PDF)
 
 **First published:**
 
@@ -350,11 +350,11 @@ español (ES) (1.22 MB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/cs/documents/product-information/rimmyrah-epar-product-information_cs.pdf)
 
-dansk (DA) (1.32 MB - PDF)
+dansk (DA) (1.31 MB - PDF)
 
 **First published:**
 
@@ -362,11 +362,11 @@ dansk (DA) (1.32 MB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/da/documents/product-information/rimmyrah-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.25 MB - PDF)
+Deutsch (DE) (1.35 MB - PDF)
 
 **First published:**
 
@@ -374,11 +374,11 @@ Deutsch (DE) (1.25 MB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/de/documents/product-information/rimmyrah-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.19 MB - PDF)
+eesti keel (ET) (1.39 MB - PDF)
 
 **First published:**
 
@@ -386,11 +386,11 @@ eesti keel (ET) (1.19 MB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/et/documents/product-information/rimmyrah-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.73 MB - PDF)
+ελληνικά (EL) (1.54 MB - PDF)
 
 **First published:**
 
@@ -398,11 +398,11 @@ eesti keel (ET) (1.19 MB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/el/documents/product-information/rimmyrah-epar-product-information_el.pdf)
 
-français (FR) (1.18 MB - PDF)
+français (FR) (1.48 MB - PDF)
 
 **First published:**
 
@@ -410,11 +410,11 @@ français (FR) (1.18 MB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/fr/documents/product-information/rimmyrah-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.51 MB - PDF)
+hrvatski (HR) (1.34 MB - PDF)
 
 **First published:**
 
@@ -422,11 +422,11 @@ hrvatski (HR) (1.51 MB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/hr/documents/product-information/rimmyrah-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.35 MB - PDF)
+íslenska (IS) (1.29 MB - PDF)
 
 **First published:**
 
@@ -434,11 +434,11 @@ hrvatski (HR) (1.51 MB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/is/documents/product-information/rimmyrah-epar-product-information_is.pdf)
 
-italiano (IT) (1.19 MB - PDF)
+italiano (IT) (1.29 MB - PDF)
 
 **First published:**
 
@@ -446,11 +446,11 @@ italiano (IT) (1.19 MB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/it/documents/product-information/rimmyrah-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.33 MB - PDF)
+latviešu valoda (LV) (1.49 MB - PDF)
 
 **First published:**
 
@@ -458,11 +458,11 @@ latviešu valoda (LV) (1.33 MB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/lv/documents/product-information/rimmyrah-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.38 MB - PDF)
+lietuvių kalba (LT) (1.3 MB - PDF)
 
 **First published:**
 
@@ -470,11 +470,11 @@ lietuvių kalba (LT) (1.38 MB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/lt/documents/product-information/rimmyrah-epar-product-information_lt.pdf)
 
-magyar (HU) (1.36 MB - PDF)
+magyar (HU) (1.5 MB - PDF)
 
 **First published:**
 
@@ -482,11 +482,11 @@ magyar (HU) (1.36 MB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/hu/documents/product-information/rimmyrah-epar-product-information_hu.pdf)
 
-Malti (MT) (1.34 MB - PDF)
+Malti (MT) (1.56 MB - PDF)
 
 **First published:**
 
@@ -494,11 +494,11 @@ Malti (MT) (1.34 MB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/mt/documents/product-information/rimmyrah-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.21 MB - PDF)
+Nederlands (NL) (1.25 MB - PDF)
 
 **First published:**
 
@@ -506,11 +506,11 @@ Nederlands (NL) (1.21 MB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/nl/documents/product-information/rimmyrah-epar-product-information_nl.pdf)
 
-norsk (NO) (1.26 MB - PDF)
+norsk (NO) (1.19 MB - PDF)
 
 **First published:**
 
@@ -518,11 +518,11 @@ norsk (NO) (1.26 MB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/no/documents/product-information/rimmyrah-epar-product-information_no.pdf)
 
-polski (PL) (1.25 MB - PDF)
+polski (PL) (1.44 MB - PDF)
 
 **First published:**
 
@@ -530,11 +530,11 @@ polski (PL) (1.25 MB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/pl/documents/product-information/rimmyrah-epar-product-information_pl.pdf)
 
-português (PT) (1.52 MB - PDF)
+português (PT) (1.36 MB - PDF)
 
 **First published:**
 
@@ -542,7 +542,7 @@ português (PT) (1.52 MB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/pt/documents/product-information/rimmyrah-epar-product-information_pt.pdf)
 
@@ -554,11 +554,11 @@ română (RO) (1.37 MB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/ro/documents/product-information/rimmyrah-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.34 MB - PDF)
+slovenčina (SK) (1.28 MB - PDF)
 
 **First published:**
 
@@ -566,11 +566,11 @@ slovenčina (SK) (1.34 MB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/sk/documents/product-information/rimmyrah-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.22 MB - PDF)
+slovenščina (SL) (1.26 MB - PDF)
 
 **First published:**
 
@@ -578,11 +578,11 @@ slovenščina (SL) (1.22 MB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/sl/documents/product-information/rimmyrah-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.34 MB - PDF)
+Suomi (FI) (1.27 MB - PDF)
 
 **First published:**
 
@@ -590,11 +590,11 @@ Suomi (FI) (1.34 MB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/fi/documents/product-information/rimmyrah-epar-product-information_fi.pdf)
 
-svenska (SV) (1.57 MB - PDF)
+svenska (SV) (1.31 MB - PDF)
 
 **First published:**
 
@@ -602,11 +602,11 @@ svenska (SV) (1.57 MB - PDF)
 
 **Last updated:**
 
-20/08/2025
+09/01/2026
 
 [View](/sv/documents/product-information/rimmyrah-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000246182 10/07/2025
+**Latest procedure affecting product information:** VR/0000314772 09/01/2026
 
 icon globe
 
@@ -632,7 +632,7 @@ English (EN) (7.97 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rimmyrah-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-133)
+[Other languages (24)](#file-language-dropdown-154)
 
 български (BG) (33.61 KB - PDF)
 
@@ -967,7 +967,7 @@ Qilu Pharma Spain S.L.
 
 Paseo de la Castellana 40
 
-Opinion adopted 09/11/2023 Marketing authorisation issued 05/01/2024 Revision 3
+Opinion adopted 09/11/2023 Marketing authorisation issued 05/01/2024 Revision 4
 
 ## Assessment history
 
@@ -979,9 +979,11 @@ Collapse section
 
 Rimmyrah : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (141.5 KB - PDF)
+English (EN) (144.13 KB - PDF)
 
 **First published:** 20/08/2025
+
+**Last updated:** 09/01/2026
 
 [View](/en/documents/procedural-steps-after/rimmyrah-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1025,7 +1027,7 @@ English (EN) (153.08 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 6-9 November 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-6-9-november-2023) 10/11/2023
 
-**This page was last updated on** 20/08/2025
+**This page was last updated on** 09/01/2026
 
 ## Share this page
 

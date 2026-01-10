@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-10-08 10:26:26
-document_pages: 65
+document_datetime: 2026-01-07 11:46:15
+document_pages: 77
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/gazyvaro-epar-product-information_en.pdf
 document_name: gazyvaro-epar-product-information_en.pdf
 version: success
-processing_time: 29.8381603
-conversion_datetime: 2025-12-27 20:10:03.168785
+processing_time: 36.8108512
+conversion_datetime: 2026-01-10 10:59:48.375267
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,11 +24,11 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Gazyvaro 1,000 mg concentrate for solution for infusion.
+Gazyvaro 1 000 mg concentrate for solution for infusion
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-One vial of 40 mL concentrate contains 1,000 mg obinutuzumab, corresponding to a concentration before dilution of 25 mg/mL.
+One vial of 40 mL concentrate contains 1 000 mg obinutuzumab, corresponding to a concentration before dilution of 25 mg/mL.
 
 Obinutuzumab is a Type II humanised anti-CD20 monoclonal antibody of the IgG1 subclass derived by humanisation of the parental B-Ly1 mouse antibody and produced in the Chinese Hamster Ovary cell line by recombinant DNA technology.
 
@@ -50,70 +50,72 @@ Gazyvaro in combination with chlorambucil is indicated for the treatment of adul
 
 ## Follicular lymphoma (FL)
 
-Gazyvaro in combination with chemotherapy, followed by Gazyvaro maintenance therapy in patients achieving a response, is indicated for the treatment of patients with previously untreated advanced FL (see section 5.1)
+Gazyvaro in combination with chemotherapy followed by Gazyvaro maintenance therapy in patients achieving a response, is indicated for the treatment of patients with previously untreated advanced FL (see section 5.1)
 
 Gazyvaro in combination with bendamustine followed by Gazyvaro maintenance is indicated for the treatment of patients with FL who did not respond or who progressed during or up to 6 months after treatment with rituximab or a rituximab-containing regimen.
+
+## Lupus nephritis (LN)
+
+Gazyvaro in combination with mycophenolate mofetil (MMF) is indicated for the treatment of adult patients with active Class III or IV, with or without concomitant Class V, lupus nephritis (LN).
 
 ## 4.2 Posology and method of administration
 
 Gazyvaro should be administered under the close supervision of an experienced physician and in an environment where full resuscitation facilities are immediately available.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Posology
 
 ## Prophylaxis and premedication for tumour lysis syndrome (TLS)
 
-Patients with a high tumour burden and/or a high circulating lymphocyte count (&gt; 25 x 10 9 /L) and/or renal impairment (CrCl &lt; 70 mL/min) are considered at risk of TLS and should receive prophylaxis. Prophylaxis should consist of adequate hydration and administration of uricostatics (e.g. allopurinol ), or suitable alternative treatment such as urate oxidase (e.g. rasburicase ), starting 12-24 hours prior to
+Patients with a high tumour burden and/or a high circulating lymphocyte count (&gt; 25 x 10 9 /L) and/or renal impairment (CrCl &lt; 70 mL/min) are considered at risk of TLS and should receive prophylaxis. Prophylaxis should consist of adequate hydration and administration of uricostatics (e.g. allopurinol ), or suitable alternative treatment such as urate oxidase (e.g. rasburicase ), starting 12-24 hours prior to start of Gazyvaro infusion as per standard practice (see section 4.4). Patients should continue to receive repeated prophylaxis prior to each subsequent infusion, if deemed appropriate.
 
-<div style=\"page-break-after: always\"></div>
+## Prophylaxis and premedication for infusion related reactions (IRRs)
 
-start of Gazyvaro infusion as per standard practice (see section 4.4). Patients should continue to receive repeated prophylaxis prior to each subsequent infusion, if deemed appropriate.
-
-Prophylaxis and premedication for infusion related reactions (IRRs)
-
-Premedication to reduce the risk of IRRs is outlined in Table 1 (see also section 4.4). Corticosteroid premedication is recommended for patients with FL and mandatory for CLL patients in the first cycle (see Table 1). Premedication for subsequent infusions and other premedication should be administered as described below.
+Premedication to reduce the risk of IRRs is outlined in Table 1 (see also section 4.4). Corticosteroid premedication is recommended for patients with FL and mandatory for CLL patients in the first cycle and for patients with LN (see Table 1). Premedication for subsequent infusions and other premedication should be administered as described below.
 
 Hypotension, as a symptom of IRRs, may occur during Gazyvaro intravenous infusions. Therefore, withholding of antihypertensive treatments should be considered for 12 hours prior to and throughout each Gazyvaro infusion and for the first hour after administration (see section 4.4).
 
-Table 1 Premedication to be administered before Gazyvaro infusion to reduce the risk of IRRs in patients with CLL and FL (see section 4.4)
+## Table 1 Premedication to be administered before Gazyvaro infusion to reduce the risk of IRRs (see section 4.4)
 
-| Day of treatment cycle                  | Patients requiring premedication                                                          | Premedication                                                          | Administration                                       |
-|-----------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------|
-| Cycle 1: Day 1 for CLL and FL           | All patients                                                                              | Intravenous corticosteroid 1,4 (mandatory for CLL, recommended for FL) | Completed at least 1 hour prior to Gazyvaro infusion |
-| Cycle 1: Day 1 for CLL and FL           | All patients                                                                              | Oral analgesic/anti-pyretic 2                                          | At least 30 minutes before Gazyvaro infusion         |
-| Cycle 1: Day 1 for CLL and FL           | All patients                                                                              | Anti-histaminic medicine 3                                             | At least 30 minutes before Gazyvaro infusion         |
-| Cycle 1: Day 2 for CLL only             | All patients                                                                              | Intravenous corticosteroid 1 (mandatory)                               | Completed at least 1 hour prior to Gazyvaro infusion |
-| Cycle 1: Day 2 for CLL only             | All patients                                                                              | Oral analgesic/anti-pyretic 2                                          | At least 30 minutes before Gazyvaro infusion         |
-| Cycle 1: Day 2 for CLL only             | All patients                                                                              | Anti-histaminic medicine 3                                             | At least 30 minutes before Gazyvaro infusion         |
-| All subsequent infusions for CLL and FL | Patients with no IRR during the previous infusion                                         | Oral analgesic/anti-pyretic 2                                          | At least 30 minutes before Gazyvaro infusion         |
-| All subsequent infusions for CLL and FL | Patients with an IRR (Grade 1 or 2) with the previous infusion                            | Oral analgesic/anti-pyretic 2 Anti-histaminic medicine 3               | At least 30 minutes before Gazyvaro infusion         |
-| All subsequent infusions for CLL and FL | Patients with a Grade 3 IRR with the previous infusion OR Patients with lymphocyte counts | Intravenous corticosteroid 1,4                                         | Completed at least 1 hour prior to Gazyvaro infusion |
-| All subsequent infusions for CLL and FL | >25 x 10 9 /L prior to next treatment                                                     | Oral analgesic/anti-pyretic 2 Anti-histaminic medicine 3               | At least 30 minutes before Gazyvaro infusion         |
-
-1 100 mg prednisone/prednisolone or 20 mg dexamethasone or 80 mg methylprednisolone. Hydrocortisone should not be used as it has not been effective in reducing rates of IRR.
-
-2  e.g. 1,000 mg acetaminophen/paracetamol
-
-3  e.g. 50 mg diphenhydramine
-
-4. If a corticosteroid-containing chemotherapy regimen is administered on the same day as Gazyvaro, the corticosteroid can be administered as an oral medicinal product  if given at least 60 minutes prior to Gazyvaro, in which case additional IV corticosteroid as premedication is not required.
+| Indication/Day of treatment/ Cycle      | Patients requiring premedication                  | Premedication                                                          | Administration                                       |
+|-----------------------------------------|---------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------|
+| Cycle 1: Day 1 for CLL and FL           | All patients                                      | Intravenous corticosteroid 1,4 (mandatory for CLL, recommended for FL) | Completed at least 1 hour prior to Gazyvaro infusion |
+| Cycle 1: Day 1 for CLL and FL           | All patients                                      | Oral analgesic/anti-pyretic 2                                          | At least 30 minutes before Gazyvaro infusion         |
+| Cycle 1: Day 1 for CLL and FL           | All patients                                      | Anti-histaminic medicine 3                                             | At least 30 minutes before Gazyvaro infusion         |
+| Cycle 1: Day 2 for CLL only             | All patients                                      | Intravenous corticosteroid 1 (mandatory)                               | Completed at least 1 hour prior to Gazyvaro infusion |
+| Cycle 1: Day 2 for CLL only             | All patients                                      | Oral analgesic/anti-pyretic 2                                          | At least 30 minutes before Gazyvaro infusion         |
+| Cycle 1: Day 2 for CLL only             | All patients                                      | Anti-histaminic medicine 3                                             | At least 30 minutes before Gazyvaro infusion         |
+| All subsequent infusions for CLL and FL | Patients with no IRR during the previous infusion | Oral analgesic/anti-pyretic 2                                          | At least 30 minutes before Gazyvaro infusion         |
 
 <div style=\"page-break-after: always\"></div>
 
+| Indication/Day of treatment/ Cycle   | Patients requiring premedication                                                                                                | Premedication                                            | Administration                                                                                                                                                                                            |
+|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                      | Patients with an IRR (Grade 1 or 2) with the previous infusion                                                                  | Oral analgesic/anti-pyretic 2 Anti-histaminic medicine 3 |                                                                                                                                                                                                           |
+|                                      | Patients with a Grade 3 IRR with the previous infusion OR Patients with lymphocyte counts >25 x 10 9 /L prior to next treatment | Intravenous corticosteroid 1,4                           | Completed at least 1 hour prior to Gazyvaro infusion                                                                                                                                                      |
+|                                      | Patients with a Grade 3 IRR with the previous infusion OR Patients with lymphocyte counts >25 x 10 9 /L prior to next treatment | Oral analgesic/anti-pyretic 2 Anti-histaminic medicine 3 | At least 30 minutes before Gazyvaro infusion                                                                                                                                                              |
+| LN                                   | All patients                                                                                                                    | Intravenous corticosteroid 5                             | Completed between 30 and 60 minutes prior to Gazyvaro infusion Starting from Dose 6, intravenous corticosteroid should only be administered to patients who have experienced an IRR in the prior infusion |
+| LN                                   | All patients                                                                                                                    | Oral analgesic/anti-pyretic 6                            | Completed between 30 and 60 minutes prior to Gazyvaro infusion Starting from Dose 6, intravenous corticosteroid should only be administered to patients who have experienced an IRR in the prior infusion |
+| LN                                   | All patients                                                                                                                    | Anti-histaminic medicine 3                               | Completed between 30 and 60 minutes prior to Gazyvaro infusion Starting from Dose 6, intravenous corticosteroid should only be administered to patients who have experienced an IRR in the prior infusion |
+
 ## Dose
 
-## Chronic lymphocytic leukaemia (CLL, in combination with chlorambucil 1 )
+Chronic lymphocytic leukaemia (CLL, in combination with chlorambucil 1 )
 
 For patients with CLL the recommended dose of Gazyvaro in combination with chlorambucil is shown in Table 2.
 
 ## Cycle 1
 
-The recommended dose of Gazyvaro in combination with chlorambucil is 1,000 mg administered over Day 1 and Day 2, (or Day 1 continued), and on Day 8 and Day 15 of the first 28 day treatment cycle.
+The recommended dose of Gazyvaro in combination with chlorambucil is 1 000 mg administered over Day 1 and Day 2, (or Day 1 continued), and on Day 8 and Day 15 of the first 28 day treatment cycle.
 
 Two infusion bags should be prepared for the infusion on Days 1 and 2 (100 mg for Day 1 and 900 mg for Day 2). If the first bag is completed without modifications of the infusion rate or interruptions, the second bag may be administered on the same day (no dose delay necessary, no repetition of premedication), provided that appropriate time, conditions and medical supervision are available throughout the infusion. If there are any modifications of the infusion rate or interruptions during the first 100 mg the second bag must be administered the following day.
 
-## Cycles 2 - 6
+## Cycles 2 -6
 
-The recommended dose of Gazyvaro in combination with chlorambucil is 1,000 mg administered on Day 1 of each cycle.
+The recommended dose of Gazyvaro in combination with chlorambucil is 1 000 mg administered on Day 1 of each cycle.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 2 Dose of Gazyvaro to be administered during 6 treatment cycles each of 28 days duration for patients with CLL
 
@@ -121,9 +123,9 @@ Table 2 Dose of Gazyvaro to be administered during 6 treatment cycles each of 28
 |------------|----------------------------|--------------------|
 | Cycle 1    | Day 1                      | 100 mg             |
 | Cycle 1    | Day 2 (or Day 1 continued) | 900 mg             |
-| Cycle 1    | Day 8                      | 1,000 mg           |
-| Cycle 1    | Day 15                     | 1,000 mg           |
-| Cycles 2-6 | Day 1                      | 1,000 mg           |
+| Cycle 1    | Day 8                      | 1 000 mg           |
+| Cycle 1    | Day 15                     | 1 000 mg           |
+| Cycles 2-6 | Day 1                      | 1 000 mg           |
 
 1 See section 5.1 for information on chlorambucil dose
 
@@ -139,43 +141,41 @@ If a planned dose of Gazyvaro is missed, it should be administered as soon as po
 
 For patients with FL, the recommended dose of Gazyvaro in combination with chemotherapy is shown in Table 3.
 
-<div style=\"page-break-after: always\"></div>
+Patients with previously untreated follicular lymphoma
 
-## Patients with previously untreated follicular lymphoma
-
-Induction (in combination with chemotherapy 2 )
+## Induction (in combination with chemotherapy 2 )
 
 Gazyvaro should be administered with chemotherapy as follows:
 
-- Six 28-day cycles in combination with bendamustine 2 or,
-- Six 21-day cycles in combination with cyclophosphamide, doxorubicin, vincristine, prednisolone (CHOP), followed by 2 additional cycles of Gazyvaro alone or,
-- Eight 21-day cycles in combination with cyclophosphamide, vincristine, and prednisone/prednisolone/methylprednisolone(CVP).
+-  Six 28-day cycles in combination with bendamustine 2 or,
+-  Six 21-day cycles in combination with cyclophosphamide, doxorubicin, vincristine, prednisolone (CHOP), followed by 2 additional cycles of Gazyvaro alone or,
+-  Eight 21-day cycles in combination with cyclophosphamide, vincristine, and prednisone/prednisolone/methylprednisolone (CVP).
 
 ## Maintenance
 
-Patients who achieve a complete or partial response to induction treatment with Gazyvaro in combination with chemotherapy (CHOP or CVP or bendamustine) should continue to receive Gazyvaro 1,000 mg as single agent maintenance therapy once every 2 months for 2 years or until disease progression (whichever occurs first).
+Patients who achieve a complete or partial response to induction treatment with Gazyvaro in combination with chemotherapy (CHOP or CVP or bendamustine) should continue to receive Gazyvaro 1 000 mg as single agent maintenance therapy once every 2 months for 2 years or until disease progression (whichever occurs first).
 
 Patients with follicular lymphoma who did not respond or who progressed during or up to 6 months after treatment with rituximab or a rituximab-containing regimen
 
-Induction (in combination with bendamustine 2 )
+## Induction (in combination with bendamustine 2 )
 
 Gazyvaro should be administered in six 28-day cycles in combination with bendamustine 2 .
 
 ## Maintenance
 
-Patients who achieved a complete or partial response to induction treatment (i.e. the initial 6 treatment cycles) with Gazyvaro in combination with bendamustine or have stable disease should continue to receive Gazyvaro 1,000 mg as single agent maintenance therapy once every 2 months for 2 years or until disease progression (whichever occurs first).
+Patients who achieved a complete or partial response to induction treatment (i.e. the initial 6 treatment cycles) with Gazyvaro in combination with bendamustine or have stable disease should continue to receive Gazyvaro 1 000 mg as single agent maintenance therapy once every 2 months for 2 years or until disease progression (whichever occurs first).
+
+<div style=\"page-break-after: always\"></div>
 
 Table 3 Follicular lymphoma: Dose of Gazyvaro to be administered during induction treatment, followed by maintenance treatment
 
-| Cycle             | Day of treatment                                                                 | Dose of Gazyvaro   |
-|-------------------|----------------------------------------------------------------------------------|--------------------|
-| Cycle 1           | Day 1                                                                            | 1,000 mg           |
-| Cycle 1           | Day 8                                                                            | 1,000 mg           |
-| Cycle 1           | Day 15                                                                           | 1,000 mg           |
-| Cycles 2-6 or 2-8 | Day 1                                                                            | 1,000 mg           |
-| Maintenance       | Every 2 months for 2 years or until disease progression (whichever occurs first) | 1,000 mg           |
+| Cycle                                                                            | Day of treatment   | Dose of Gazyvaro        |
+|----------------------------------------------------------------------------------|--------------------|-------------------------|
+| Day 1 Day                                                                        | 1 000 mg 1 000 mg  | Cycle 1 8               |
+| Day 15 Day                                                                       | 1 000 mg 1 000 mg  | Cycles 2 - 6 or 2 - 8 1 |
+| Every 2 months for 2 years or until disease progression (whichever occurs first) | 1 000 mg           | Maintenance             |
 
-<div style=\"page-break-after: always\"></div>
+2 See section 5.1 for information on bendamustine dose
 
 ## Duration of treatment
 
@@ -189,6 +189,30 @@ If toxicity occurs before Cycle 1 Day 8 or Cycle 1 Day 15, requiring delay of tr
 
 During maintenance, maintain the original dosing schedule for subsequent doses.
 
+## Lupus nephritis
+
+The recommended dosage of Gazyvaro is 1 000 mg administered intravenously (see Table 4). Gazyvaro should be used in combination with mycophenolate mofetil.
+
+Table 4 Dose of Gazyvaro for patients with Lupus Nephritis
+
+| Dose number       | Timing of treatment              | Dose     |
+|-------------------|----------------------------------|----------|
+| 1                 | Initial infusion                 | 1 000 mg |
+| 2                 | Week 2 (two weeks after Dose 1)  | 1 000 mg |
+| 3                 | Week 24                          | 1 000 mg |
+| 4                 | Week 26 (two weeks after Dose 3) | 1 000 mg |
+| 5* and thereafter | Every 6 months                   | 1 000 mg |
+
+*Dose 5 should be administered six months after Dose 4
+
+<div style=\"page-break-after: always\"></div>
+
+The patient's condition and response should be evaluated at Week 76 and beyond, and an appropriate risk-benefit analysis should be made for continuation of therapy.
+
+## Delayed or missed doses
+
+If a planned dose of Gazyvaro is missed, it should be administered as soon as possible - do not wait until the next planned dose. The schedule of administration should be adjusted to maintain the appropriate interval between doses.
+
 ## Dose modifications during treatment (all indications)
 
 No dose reductions of Gazyvaro are recommended.
@@ -197,21 +221,21 @@ For management of symptomatic adverse events (including IRRs), see paragraph bel
 
 ## Special populations
 
-Elderly
+## Elderly
 
-No dose adjustment is required in elderly patients (see section 5.2).
+No dose adjustment is required in elderly patients (see section 5.2). The safety and efficacy of Gazyvaro in patients with LN above 65 years of age have not been established.
 
 ## Renal impairment
 
-No dose adjustment is required in patients with mild to moderate renal impairment (creatinine clearance [CrCl] 30-89 mL/min) (see section 5.2). The safety and efficacy of Gazyvaro has not been established in patients with severe renal impairment (CrCl &lt; 30 mL/min) (see sections 4.8 and 5.2).
+No dose adjustment is required in patients with mild to moderate renal impairment (creatinine clearance [CrCl] 30-89 mL/min) (see section 5.2). The safety and efficacy of Gazyvaro have not been established in patients with severe renal impairment (CrCl &lt; 30 mL/min) (see sections 4.8 and 5.2).
 
 ## Hepatic impairment
 
-The safety and efficacy of Gazyvaro in patients with impaired hepatic function has not been established. No specific dose recommendations can be made.
+The safety and efficacy of Gazyvaro in patients with impaired hepatic function have not been established. No specific dose recommendations can be made.
 
 ## Paediatric population
 
-The safety and efficacy of Gazyvaro in children and adolescents aged below 18 years has not been established. No data are available.
+The safety and efficacy of Gazyvaro in children and adolescents aged below 18 years have not been established. No data are available.
 
 ## Method of administration
 
@@ -219,66 +243,88 @@ Gazyvaro is for intravenous use. It should be given as an intravenous infusion t
 
 For instructions on dilution of Gazyvaro before administration, see section 6.6.
 
-Instructions on the rate of infusion are shown in Tables 4-6.
+Instructions on the rate of infusion are shown in Tables 5-8.
 
 <div style=\"page-break-after: always\"></div>
 
-Chronic lymphocytic leukaemia (CLL)
+## Table 5 Chronic lymphocytic leukaemia: Standard infusion rate in the absence of IRRs/hypersensitivity and recommendations in case an IRR occurred with previous infusion
 
-## Table 4 Chronic lymphocytic leukaemia: Standard infusion rate in the absence of IRRs/hypersensitivity and recommendations in case an IRR occurred with previous infusion
-
-| Cycle      | Day of treatment                    | Rate of infusion The infusion rate may be escalated provided that the patient can tolerate it. For management of IRRs that occur during the infusion, refer to 'Management of IRRs'.                                                                                                                                                                                                                                                                 |
+| Cycle      | Day of treatment                    | Rate of infusion The infusion rate may be escalated provided that the patient can tolerate it. For management of IRRs that occur during the infusion, refer to Management of IRRs.                                                                                                                                                                                                                                                                   |
 |------------|-------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Cycle 1    | Day 1 (100 mg)                      | Administer at 25 mg/hr over 4 hours. Do not increase the infusion rate.                                                                                                                                                                                                                                                                                                                                                                              |
 | Cycle 1    | Day 2 (or Day 1 continued) (900 mg) | If no IRR occurred during the previous infusion, administer at 50 mg/hr. The rate of the infusion can be escalated in increments of 50 mg/hr every 30 minutes to a maximum rate of 400 mg/hr. If the patient experienced an IRR during the previous infusion, start with administration at 25 mg/hr. The rate of infusion can be escalated in increments up to 50 mg/hr every 30 minutes to a maximum rate of 400 mg/hr.                             |
-| Cycle 1    | Day 8 (1,000 mg)                    | If no IRR occurred during the previous infusion, when the final infusion rate was 100 mg/hr or faster, infusions can be started at a rate of 100 mg/hr and increased by 100 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. If the patient experienced an IRR during the previous infusion administer at 50 mg/hr. The rate of the infusion can be escalated in increments of 50 mg/hr every 30 minutes to a maximum rate of 400 mg/hr. |
-| Cycle 1    | Day 15 (1,000 mg)                   | If no IRR occurred during the previous infusion, when the final infusion rate was 100 mg/hr or faster, infusions can be started at a rate of 100 mg/hr and increased by 100 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. If the patient experienced an IRR during the previous infusion administer at 50 mg/hr. The rate of the infusion can be escalated in increments of 50 mg/hr every 30 minutes to a maximum rate of 400 mg/hr. |
-| Cycles 2-6 | Day 1 (1,000 mg)                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| Cycle 1    | Day 8 (1 000 mg)                    | If no IRR occurred during the previous infusion, when the final infusion rate was 100 mg/hr or faster, infusions can be started at a rate of 100 mg/hr and increased by 100 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. If the patient experienced an IRR during the previous infusion administer at 50 mg/hr. The rate of the infusion can be escalated in increments of 50 mg/hr every 30 minutes to a maximum rate of 400 mg/hr. |
+| Cycle 1    | Day 15 (1 000 mg)                   | If no IRR occurred during the previous infusion, when the final infusion rate was 100 mg/hr or faster, infusions can be started at a rate of 100 mg/hr and increased by 100 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. If the patient experienced an IRR during the previous infusion administer at 50 mg/hr. The rate of the infusion can be escalated in increments of 50 mg/hr every 30 minutes to a maximum rate of 400 mg/hr. |
+| Cycles 2-6 | Day 1 (1 000 mg)                    | If no IRR occurred during the previous infusion, when the final infusion rate was 100 mg/hr or faster, infusions can be started at a rate of 100 mg/hr and increased by 100 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. If the patient experienced an IRR during the previous infusion administer at 50 mg/hr. The rate of the infusion can be escalated in increments of 50 mg/hr every 30 minutes to a maximum rate of 400 mg/hr. |
+
+<div style=\"page-break-after: always\"></div>
 
 ## Follicular lymphoma (FL)
 
-Gazyvaro should be administered at the standard infusion rate in Cycle 1 (see Table 5). In patients who do not experience Grade ≥3 infusion related reactions (IRRs) during Cycle 1, Gazyvaro  may be administered as a short (approximately 90 minutes) duration infusion (SDI)  from Cycle 2 onwards (see Table 6).
+Gazyvaro should be administered at the standard infusion rate in Cycle 1 (see Table 6). In patients who do not experience Grade ≥ 3 infusion related reactions (IRRs) during Cycle 1, Gazyvaro may be administered as a short (approximately 90 minutes) duration infusion (SDI) from Cycle 2 onwards (see Table 7).
+
+## Table  6 Follicular lymphoma: Standard infusion rate and recommendations in case an IRR occurred with previous infusion
+
+| Cycle                 | Day of treatment                                                                                                                                                                                                                                         | Rate of infusion The infusion rate may be escalated provided that the patient can tolerate it. For management of IRRs that occur during the infusion, refer to Management of IRRs.   |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Cycle 1               | Day 1 (1 000 mg)                                                                                                                                                                                                                                         | Administer at 50 mg/hr. The rate of infusion can be escalated in 50 mg/hr increments every 30 minutes to a maximum of 400 mg/hr.                                                     |
+| Cycle 1               | Day 8 (1 000 mg) If no IRR or if during the                                                                                                                                                                                                              | an IRR Grade 1 occurred previous infusion when the final                                                                                                                             |
+| Cycle 1               | infusion rate infusions can and increased Day 15 (1 000 mg)                                                                                                                                                                                              | was 100 mg/hr or faster, be started at a rate of 100 mg/hr by 100 mg/hr increments every                                                                                             |
+| Cycles 2 - 6 or 2 - 8 | 30 minutes to If the patient Day 1 (1 000 mg)                                                                                                                                                                                                            | a maximum of 400 mg/hr. experienced an IRR of Grade 2                                                                                                                                |
+| Maintenance           | or higher during the previous infusion administer at 50 mg/hr. The rate of infusion can be escalated in 50 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. Every 2 months for 2 years or until disease progression (whichever occurs first) | Administer at 50 mg/hr. The rate of infusion can be escalated in 50 mg/hr increments every 30 minutes to a maximum of 400 mg/hr.                                                     |
+
+## Table 7 Follicular lymphoma: Short duration infusion (SDI) rate and recommendations in case an  IRR occurred with previous infusion
+
+| Cycle                                                                            | Day of treatment                                                                                                                                                              | Rate of infusion For management of IRRs that occur during the infusion, refer to Management of IRRs.   |
+|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Cycles 2 - 6 or 2 - 8                                                            | Day 1 (1 000 mg) no IRR of Grade ≥3 occurred during Cycle 1:                                                                                                                  | If                                                                                                     |
+| Every 2 months for 2 years or until disease progression (whichever occurs first) | If an IRR of Grade 1-2 with ongoing symptoms or a Grade 3 IRR occurred during the previous SDI, administer the next obinutuzumab infusion at the standard rate (see Table 6). | Maintenance                                                                                            |
+
+## Lupus nephritis
+
+The initial Gazyvaro infusion should be administered at the standard infusion rate (see Table 8).
 
 <div style=\"page-break-after: always\"></div>
 
-## Table 5 Follicular lymphoma: Standard infusion rate and recommendations in case an IRR occurred with previous infusion
+Table 8 Lupus nephritis: Standard infusion rate
 
-| Cycle             | Day of treatment                                                                 | Rate of infusion The infusion rate may be escalated provided that the patient can tolerate it. For management of IRRs that occur during the infusion, refer to 'Management of IRRs'.                                                                                                                                                                                                                                                                                              |
-|-------------------|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Cycle 1           | Day 1 (1,000 mg)                                                                 | Administer at 50 mg/hr. The rate of infusion can be escalated in 50 mg/hr increments every 30 minutes to a maximum of 400 mg/hr.                                                                                                                                                                                                                                                                                                                                                  |
-| Cycle 1           | Day 8 (1,000 mg)                                                                 | If no IRR or if an IRR Grade 1 occurred during the previous infusion when the final infusion rate was 100 mg/hr or faster, infusions can be started at a rate of 100 mg/hr and increased by 100 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. If the patient experienced an IRR of Grade 2 or higher during the previous infusion administer at 50 mg/hr. The rate of infusion can be escalated in 50 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. |
-| Cycle 1           | Day 15 (1,000 mg)                                                                | If no IRR or if an IRR Grade 1 occurred during the previous infusion when the final infusion rate was 100 mg/hr or faster, infusions can be started at a rate of 100 mg/hr and increased by 100 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. If the patient experienced an IRR of Grade 2 or higher during the previous infusion administer at 50 mg/hr. The rate of infusion can be escalated in 50 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. |
-| Cycles 2-6 or 2-8 | Day 1 (1,000 mg)                                                                 | If no IRR or if an IRR Grade 1 occurred during the previous infusion when the final infusion rate was 100 mg/hr or faster, infusions can be started at a rate of 100 mg/hr and increased by 100 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. If the patient experienced an IRR of Grade 2 or higher during the previous infusion administer at 50 mg/hr. The rate of infusion can be escalated in 50 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. |
-| Maintenance       | Every 2 months for 2 years or until disease progression (whichever occurs first) | If no IRR or if an IRR Grade 1 occurred during the previous infusion when the final infusion rate was 100 mg/hr or faster, infusions can be started at a rate of 100 mg/hr and increased by 100 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. If the patient experienced an IRR of Grade 2 or higher during the previous infusion administer at 50 mg/hr. The rate of infusion can be escalated in 50 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. |
+| Dose number       | Timing of treatment                         | Rate of infusion                                                                                                                                                                                                           |
+|-------------------|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1                 | Initial infusion (1 000 mg)                 | Administer at a rate of 50 mg/hr. The rate of infusion can be escalated in 50 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. For management of IRRs that occur during infusion, refer to Management of IRRs. |
+| 2                 | Week 2 - two weeks after Dose 1 (1 000 mg)  | Administer at a rate of 100 mg/hr. The rate of infusion can be escalated at a rate of 100 mg/hr every 30 minutes to a maximum of 400 mg/hr.                                                                                |
+| 3                 | Week 24 (1 000 mg)                          | Administer at a rate of 100 mg/hr. The rate of infusion can be escalated at a rate of 100 mg/hr every 30 minutes to a maximum of 400 mg/hr.                                                                                |
+| 4                 | Week 26 - two weeks after Dose 3 (1 000 mg) | Administer at a rate of 100 mg/hr. The rate of infusion can be escalated at a rate of 100 mg/hr every 30 minutes to a maximum of 400 mg/hr.                                                                                |
+| 5* and thereafter | Every 6 months (1 000 mg)                   | Administer at a rate of 100 mg/hr. The rate of infusion can be escalated at a rate of 100 mg/hr every 30 minutes to a maximum of 400 mg/hr.                                                                                |
 
-## Table 6 Follicular lymphoma: Short duration infusion rate and recommendations in case an  IRR occurred with previous infusion
-
-| Cycle                                                                            | Day of treatment                                                                                                                                                                       | Rate of infusion For management of IRRs that occur during the infusion, refer to 'Management of IRRs'.   |
-|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Cycles 2-6 or 2-8                                                                | Day 1 (1,000 mg) no IRR of Grade ≥3 occurred during 1:                                                                                                                                 | If Cycle                                                                                                 |
-| Every 2 months for 2 years or until disease progression (whichever occurs first) | If an IRR of Grade 1-2 with ongoing symptoms or a Grade 3 IRR occurred during the previous SDI infusion, administer the next obinutuzumab infusion at the standard rate (see Table 5). | Maintenance                                                                                              |
-
-Management of IRRs (all indications)
+Management of IRRs
 
 Management of IRRs may require temporary interruption, reduction in the rate of infusion, or treatment discontinuations of Gazyvaro as outlined below (see also section 4.4).
 
-<div style=\"page-break-after: always\"></div>
+Chronic lymphocytic leukaemia (CLL) and follicular lymphoma (FL)
 
-- Grade 4 (life threatening): Infusion must be stopped and therapy must be permanently discontinued.
-- Grade 3 (severe): Infusion must be temporarily stopped and symptoms treated. Upon resolution of symptoms, the infusion can be restarted at no more than half the previous rate (the rate being used at the time that the IRR occurred) and, if the patient does not experience any IRR symptoms, the infusion rate escalation can resume at the increments and intervals as appropriate for the treatment dose (see Tables 4 -6). For CLL patients receiving the Day 1 (Cycle 1) dose split over two days, the Day 1 infusion rate may be increased back up to 25 mg/hr after 1 hour, but not increased further.
+-  Grade 4 (life threatening): Infusion must be stopped and therapy must be permanently discontinued.
+-  Grade 3 (severe): Infusion must be temporarily stopped and symptoms treated. Upon resolution of symptoms, the infusion can be restarted at no more than half the previous rate (the rate being used at the time that the IRR occurred) and, if the patient does not experience any IRR symptoms, the infusion rate escalation can resume at the increments and intervals as appropriate for the treatment dose (see Tables  5-7). For CLL patients receiving the Day 1 (Cycle 1) dose split over two days, the Day 1 infusion rate may be increased back up to 25 mg/hr after 1 hour, but not increased further.
 
 The infusion must be stopped and therapy permanently discontinued if the patient experiences a second occurrence of a Grade 3 IRR.
 
-- Grade 1-2 (mild to moderate): The infusion rate must be reduced and symptoms treated. Infusion can be continued upon resolution of symptoms and, if the patient does not experience any IRR symptoms, the infusion rate escalation can resume at the increments and intervals as appropriate for the treatment dose (see Tables 4 -6). For CLL patients receiving the Day 1 (Cycle 1) dose split over the two days, the Day 1 infusion rate may be increased back up to 25 mg/hr after 1 hour, but not increased further.
+-  Grade 1-2 (mild to moderate): The infusion rate must be reduced and symptoms treated. Infusion can be continued upon resolution of symptoms and, if the patient does not experience any IRR symptoms, the infusion rate escalation can resume at the increments and intervals as appropriate for the treatment dose (see Tables 5-7). For CLL patients receiving the Day 1 (Cycle 1) dose split over the two days, the Day 1 infusion rate may be increased back up to 25 mg/hr after 1 hour, but not increased further.
 
-## Management of IRRs occurring during SDI
+<div style=\"page-break-after: always\"></div>
 
-- Grade 4 (life threatening): Infusion must be stopped and therapy must be permanently discontinued.
-- Grade 3 (severe): Infusion must be temporarily stopped and symptoms treated. Upon resolution of symptoms, the infusion can be restarted at no more than half the previous rate (the rate being used at the time that the IRR occurred) and not greater than 400 mg/hr.
+## IRRs occurring during SDI:
 
-If the patient experiences a second Grade 3 IRR after resuming the infusion, the infusion must be stopped and therapy must be permanently discontinued. If the patient is able to complete the infusion without further Grade 3 IRRs, the next infusion should be given at a rate not higher than the standard rate.
+-  Grade 4 (life threatening): Infusion must be stopped and therapy must be permanently discontinued.
+-  Grade 3 (severe): Infusion must be temporarily stopped and symptoms treated. Upon resolution of symptoms, the infusion can be restarted at no more than half the previous rate (the rate being used at the time that the IRR occurred) and not greater than 400 mg/hr. If the patient experiences a second Grade 3 IRR after resuming the infusion, the infusion must be stopped and therapy must be permanently discontinued. If the patient is able to complete the infusion without further Grade 3 IRRs, the next infusion should be given at a rate not higher than the standard rate.
+-  Grade 1-2 (mild to moderate): The infusion rate must be reduced and symptoms treated. Infusion can be continued upon resolution of symptoms and, if the patient does not experience any IRR symptoms, the infusion rate escalation can resume at the increments and intervals as appropriate for the treatment dose (see Tables 6-7).
 
-- Grade 1-2 (mild to moderate): The infusion rate must be reduced and symptoms treated. Infusion        can be continued upon resolution of symptoms and, if the patient does not experience any IRR symptoms, the infusion rate escalation can resume at the increments and intervals as appropriate for the treatment dose (see Tables 5-6).
+## Lupus nephritis (LN)
+
+-  Grade 4 (life threatening): Infusion must be stopped and therapy must be permanently discontinued.
+-  Grade 3 (severe): Infusion must be temporarily stopped and symptoms treated. Upon resolution of symptoms, the infusion can be restarted at no more than half the previous rate (the rate being used at the time that the IRR occurred) and, if the patient does not experience any further IRR symptoms, the infusion rate escalation can resume at the increments and intervals as appropriate for the treatment dose (see Table 8).
+
+The infusion must be stopped and therapy permanently discontinued if the patient experiences a second occurrence of a Grade 3 IRR.
+
+-  Grade 1-2 (mild to moderate): The infusion rate must be reduced to half the rate that was used at the time of the reaction and symptoms treated. Infusion can be continued upon resolution of symptoms at the reduced rate for an additional 30 minutes. If the patient does not experience any further IRR symptoms, the infusion rate escalation can resume at the increments and intervals as appropriate for the treatment dose (see Table 8).
 
 ## 4.3 Contraindications
 
@@ -288,37 +334,41 @@ Hypersensitivity to the active substance or to any of the excipients listed in s
 
 ## Traceability
 
-In order to improve the traceability of biological medicinal products, the trade name and batch number of the administered product should be clearly recorded (or stated) in the patient file.
+In order to improve the traceability of biological medicinal products, the name and batch number of the administered product should be clearly recorded.
 
-Based on a subgroup analysis in previously untreated follicular lymphoma, the efficacy in FLIPI low risk (0-1) patients is currently inconclusive (see section 5.1). A therapy choice for these patients should carefully consider the overall safety profile of Gazyvaro plus chemotherapy and the patient-specific situation.
+Special warnings and precautions are presented separately for the Oncology (Chronic lymphocytic leukaemia and Follicular lymphoma), and for the Lupus nephritis indications.
 
-## Infusion related reactions
+## Chronic lymphocytic leukaemia (CLL) and follicular lymphoma (FL)
 
-The most frequently observed adverse drug reactions (ADRs) in patients receiving Gazyvaro were IRRs, which occurred predominantly during infusion of the first 1,000 mg. IRRs may be related to cytokine release syndrome which has also been reported in Gazyvaro treated patients. In CLL patients who received the combined measures for prevention of IRRs (adequate corticosteroid, oral
+Based on a subgroup analysis in previously untreated FL, the efficacy in FLIPI low risk (0-1) patients is currently inconclusive (see section 5.1). A therapy choice for these patients should carefully consider the overall safety profile of Gazyvaro plus chemotherapy and the patient-specific situation.
 
 <div style=\"page-break-after: always\"></div>
 
-analgesic/anti-histamine, omission of antihypertensive medicine in the morning of the first infusion, and the Cycle 1 Day 1 dose administered over 2 days) as described in section 4.2, a decreased incidence of IRRs of all Grades was observed. The rates of Grade 3-4 IRRs (which were based on a relatively small number of patients) were similar before and after mitigation measures were implemented. Mitigation measures to reduce IRRs should be followed (see section 4.2). The incidence and severity of infusion related symptoms decreased substantially after the first 1,000 mg was infused, with most patients having no IRRs during subsequent administrations of Gazyvaro (see section 4.8).
+## Infusion related reactions
+
+The most frequently observed adverse drug reactions (ADRs) in patients receiving Gazyvaro were IRRs, which occurred predominantly during infusion of the first 1 000 mg. IRRs may be related to cytokine release syndrome which has also been reported in Gazyvaro treated patients. In CLL patients who received the combined measures for prevention of IRRs (adequate corticosteroid, oral analgesic/anti-histamine, omission of antihypertensive medicine in the morning of the first infusion, and the Cycle 1 Day 1 dose administered over 2 days) as described in section 4.2, a decreased incidence of IRRs of all Grades was observed. The rates of Grade 3-4 IRRs (which were based on a relatively small number of patients) were similar before and after mitigation measures were implemented. Mitigation measures to reduce IRRs should be followed (see section 4.2). The incidence and severity of infusion related symptoms decreased substantially after the first 1 000 mg was infused, with most patients having no IRRs during subsequent administrations of Gazyvaro (see section 4.8).
 
 In the majority of patients, irrespective of indication, IRRs were mild to moderate and could be managed by the slowing or temporary halting of the first infusion, but severe and life-threatening IRRs requiring symptomatic treatment have also been reported. IRRs may be clinically indistinguishable from immunoglobulin E (IgE) mediated allergic reactions (e.g. anaphylaxis). Patients with a high tumour burden and/or high circulating lymphocyte count in CLL [&gt; 25 x 10 9 /L] may be at increased risk of severe IRRs. Patients with renal impairment (CrCl &lt; 50 mL/min) and patients with both Cumulative Illness Rating Scale (CIRS) &gt; 6 and CrCl &lt; 70 mL/min are more at risk of IRRs, including severe IRRs (see section 4.8). For management of IRRs see section 4.2 Posology and method of administration.
 
 Patients must not receive further Gazyvaro infusions if they experience:
 
-- acute life-threatening respiratory symptoms,
-- a Grade 4 (i.e. life threatening) IRR or,
-- a second occurrence of a Grade 3 (prolonged/recurrent) IRR (after resuming the first infusion or during a subsequent infusion).
+-  acute life-threatening respiratory symptoms,
+-  a Grade 4 (i.e. life threatening) IRR or,
+-  a second occurrence of a Grade 3 (prolonged/recurrent) IRR (after resuming the first infusion or during a subsequent infusion).
 
 Patients who have pre-existing cardiac or pulmonary conditions should be monitored carefully throughout the infusion and the post-infusion period. Hypotension may occur during Gazyvaro intravenous infusions. Therefore, withholding of antihypertensive treatments should be considered for 12 hours prior to and throughout each Gazyvaro infusion and for the first hour after administration. Patients at acute risk of hypertensive crisis should be evaluated for the benefits and risks of withholding their anti-hypertensive medicine.
 
 ## Hypersensitivity reactions
 
-Hypersensitivity reactions with immediate (e.g.  anaphylaxis) and delayed onset (e.g. serum sickness) have been reported in patients treated with Gazyvaro. Hypersensitivity may be difficult to clinically distinguish from IRRs. Hypersensitivity symptoms can occur after previous exposure and very rarely with the first infusion. If a hypersensitivity reaction is suspected during or after an infusion, the infusion must be stopped and treatment permanently discontinued. Patients with known hypersensitivity to obinutuzumab must not be treated (see section 4.3).
+Hypersensitivity reactions with immediate (e.g. anaphylaxis) and delayed onset (e.g. serum sickness) have been reported in patients treated with Gazyvaro. Hypersensitivity may be difficult to clinically distinguish from IRRs. Hypersensitivity symptoms can occur after previous exposure and very rarely with the first infusion. If a hypersensitivity reaction is suspected during or after an infusion, the infusion must be stopped and treatment permanently discontinued. Patients with known hypersensitivity to obinutuzumab must not be treated (see section 4.3).
 
 ## Tumour lysis syndrome (TLS)
 
-TLS has been reported with Gazyvaro. Patients who are considered to be at risk of TLS (e.g. patients with a high tumour burden and/or a high circulating lymphocyte count [&gt; 25 x 10 9 /L] and/or renal impairment [CrCl &lt; 70 mL/min]) should receive prophylaxis. Prophylaxis should consist of adequate hydration and administration of uricostatics (e.g. allopurinol), or a suitable alternative such as a urate oxidate (e.g. rasburicase) starting 12-24 hours prior to the infusion of Gazyvaro as per standard practice (see section 4.2). All patients considered at risk should be carefully monitored during the initial days of treatment with a special focus on renal function, potassium, and uric acid values. Any additional guidelines according to standard practice should be followed. For treatment of TLS, correct electrolyte abnormalities, monitor renal function and fluid balance, and administer supportive care, including dialysis as indicated.
+TLS has been reported with Gazyvaro. Patients who are considered to be at risk of TLS (e.g. patients with a high tumour burden and/or a high circulating lymphocyte count [&gt; 25 x 10 9 /L] and/or renal impairment [CrCl &lt; 70 mL/min]) should receive prophylaxis. Prophylaxis should consist of adequate hydration and administration of uricostatics (e.g. allopurinol), or a suitable alternative such as a urate oxidate (e.g. rasburicase) starting 12-24 hours prior to the infusion of Gazyvaro as per standard practice (see section 4.2). All patients considered at risk should be carefully monitored during the initial days of treatment with a special focus on renal function, potassium, and uric acid values. Any additional guidelines according to standard practice should be followed. For treatment of TLS, correct
 
 <div style=\"page-break-after: always\"></div>
+
+electrolyte abnormalities, monitor renal function and fluid balance, and administer supportive care, including dialysis as indicated.
 
 ## Neutropenia
 
@@ -340,19 +390,21 @@ In patients with underlying cardiac disease, arrhythmias (such as atrial fibrill
 
 ## Infections
 
-Gazyvaro should not be administered in the presence of an active infection and caution should be exercised when considering the use of Gazyvaro in patients with a history of recurring or chronic infections.  Serious bacterial, fungal, and new or reactivated viral infections can occur during and following the completion of Gazyvaro therapy. Fatal infections have been reported.
+Gazyvaro should not be administered in the presence of an active infection and caution should be exercised when considering the use of Gazyvaro in patients with a history of recurring or chronic
 
 <div style=\"page-break-after: always\"></div>
+
+infections.  Serious bacterial, fungal, and new or reactivated viral infections can occur during and following the completion of Gazyvaro therapy. Fatal infections have been reported.
 
 Patients (CLL) with both CIRS &gt; 6 and CrCl &lt; 70 mL/min are more at risk of infections, including severe infections (see section 4.8). In the follicular lymphoma studies, a high incidence of infections was observed in all phases of the studies, including follow-up, with the highest incidence seen in the maintenance phase. During the follow-up phase, Grade 3-5 infections are observed more in patients who received Gazyvaro plus bendamustine in the induction phase.
 
 ## Hepatitis B reactivation
 
-Hepatitis B virus (HBV) reactivation, in some cases resulting in fulminant hepatitis, hepatic failure and death, can occur in patients treated with anti-CD20 antibodies including Gazyvaro (see section 4.8). HBVscreening should be performed in all patients before initiation of treatment with Gazyvaro. At a minimum this should include hepatitis B surface antigen (HBsAg) status and hepatitis B core antibody (HBcAb) status. These can be complemented with other appropriate markers as per local guidelines. Patients with active hepatitis B disease should not be treated with Gazyvaro. Patients with positive hepatitis B serology should consult liver disease experts before start of treatment and should be monitored and managed following local medical standards to prevent hepatitis reactivation.
+Hepatitis B virus (HBV) reactivation, in some cases resulting in fulminant hepatitis, hepatic failure and death, can occur in patients treated with anti-CD20 antibodies including Gazyvaro (see section 4.8). HBV screening should be performed in all patients before initiation of treatment with Gazyvaro. At a minimum this should include hepatitis B surface antigen (HBsAg) status and hepatitis B core antibody (HBcAb) status. These can be complemented with other appropriate markers as per local guidelines. Patients with active hepatitis B disease should not be treated with Gazyvaro. Patients with positive hepatitis B serology should consult liver disease experts before start of treatment and should be monitored and managed following local medical standards to prevent hepatitis reactivation.
 
 ## Progressive multifocal leukoencephalopathy (PML)
 
-Progressive multifocal leukoencephalopathy (PML) has been reported in patients treated with Gazyvaro (see section 4.8). The diagnosis of PML should be considered in any patient presenting with new-onset or changes to pre-existing neurologic manifestations. The symptoms of PML are nonspecific and can vary depending on the affected region of the brain. Motor symptoms with corticospinal tract findings (e.g. muscular weakness, paralysis and sensory disturbances), sensory abnormalities, cerebellar symptoms, and visual field defects are common. Some signs/symptoms regarded as 'cortical' (e.g. aphasia or visual-spatial disorientation) may occur. Evaluation of PML includes, but is not limited to, consultation with a neurologist, brain magnetic resonance imaging (MRI), and lumbar puncture (cerebrospinal fluid testing for John Cunningham viral DNA). Therapy with Gazyvaro should be withheld during the investigation of potential PML and permanently discontinued in case of confirmed PML. Discontinuation or reduction of any concomitant chemotherapy or immunosuppressive therapy should also be considered. The patient should be referred to a neurologist for the evaluation and treatment of PML.
+Pr ogressive multifocal leukoencephalopathy (PML) has been reported in patients treated with Gazyvaro (see section 4.8). The diagnosis of PML should be considered in any patient presenting with new-onset or changes to pre-existing neurologic manifestations. The symptoms of PML are nonspecific and can vary depending on the affected region of the brain. Motor symptoms with corticospinal tract findings (e.g. muscular weakness, paralysis and sensory disturbances), sensory abnormalities, cerebellar symptoms, and visual field defects are common. Some signs/symptoms regarded as 'cortical' (e.g. aphasia or visual -spatial disorientation) may occur. Evaluation of PML includes, but is not limited to, consultation with a neurologist, brain magnetic resonance imaging (MRI), and lumbar puncture (cerebrospinal fluid testing for John Cunningham viral DNA). Therapy with Gazyvaro should be withheld during the investigation of potential PML and permanently discontinued in case of confirmed PML. Discontinuation or reduction of any concomitant chemotherapy or immunosuppressive therapy should also be considered. The patient should be referred to a neurologist for the evaluation and treatment of PML.
 
 ## Immunisation
 
@@ -360,15 +412,61 @@ The safety of immunisation with live or attenuated viral vaccines following Gazy
 
 ## Exposure in utero to obinutuzumab and vaccination of infants with live virus vaccines
 
-Due to the potential depletion of B-cells in infants of mothers who have been exposed to Gazyvaro during pregnancy, infants should be monitored for B-cell depletion and vaccinations with live virus vaccines should be postponed until the infant's B-cell count has recovered.  The safety and timing of vaccination should be discussed with the infant's physician (see section 4.6).
+Due to the potential depletion of B-cells in infants of mothers who have been exposed to Gazyvaro during pregnancy, infants should be monitored for B-cell depletion and vaccinations with live virus vaccines should be postponed until the infant's B -cell count has recovered.  The safety and timing of vaccination should be discussed with the infant's physician (see section 4.6).
+
+## Lupus nephritis (LN)
+
+## Infections
+
+Gazyvaro should not be administered in the presence of an active infection and caution should be exercised when considering the use of Gazyvaro in patients with a history of recurring or chronic infections.  Serious bacterial, fungal, and new or reactivated viral infections can occur during and following the completion of Gazyvaro therapy. Fatal infections have been reported.
+
+<div style=\"page-break-after: always\"></div>
+
+Hepatitis B virus (HBV) screening should be performed in all patients before initiation of treatment with Gazyvaro. At minimum, this should include HBsAg status and HBcAb-status. These can be complemented with other appropriate markers as per local guidelines.  Patients with active hepatitis B disease should not be treated with Gazyvaro.  Patients with positive hepatitis B serology should be monitored and managed following local medical standards to prevent hepatitis reactivation.
+
+## Neutropenia
+
+Severe and life-threatening neutropenia, including febrile neutropenia, has been reported during treatment with Gazyvaro. Patients who experience neutropenia should be closely monitored with regular laboratory tests until resolution. If treatment is necessary, it should be administered in accordance with local guidelines and the administration of granulocyte-colony stimulating factors (G-CSF) should be considered. Any signs of concomitant infection should be treated as appropriate.
+
+## Infusion related reactions
+
+In patients with LN, infusion related reactions (IRRs) occurred predominantly during infusion of the first 1 000 mg. IRRs were generally mild (Grade 1) to moderate (Grade 2) and could be managed by slowing or temporarily halting the infusion (see Management of IRRs). However, severe (Grade 3) and life-threatening (Grade 4) IRRs requiring symptomatic treatment were also reported. See section 4.2 for information on prophylaxis.
+
+Patients must not receive further Gazyvaro infusions if they experience:
+
+-  acute life-threatening respiratory symptoms,
+-  a Grade 4 (i.e. life threatening) IRR or,
+-  a second occurrence of a Grade 3 (prolonged/recurrent) IRR (after resuming the first infusion or during a subsequent infusion).
+
+Patients who have pre-existing cardiac or pulmonary conditions should be monitored carefully throughout the infusion and the post-infusion period. Hypotension may occur during Gazyvaro intravenous infusions. Therefore, withholding of antihypertensive treatments should be considered for 12 hours prior to and throughout each Gazyvaro infusion and for the first hour after administration. Patients at acute risk of hypertensive crisis should be evaluated for the benefits and risks of withholding their anti-hypertensive medicine.
+
+## Progressive multifocal leukoencephalopathy (PML)
+
+PML has been reported in patients treated with Gazyvaro for CLL and/or FL (see section 4.8), and has not been reported in patients treated with Gazyvaro during the LN placebo-controlled studies. The diagnosis of PML should be considered in any patient presenting with new-onset or changes to preexisting neurologic manifestations. The symptoms of PML are nonspecific and can vary depending on the affected region of the brain. Motor symptoms with corticospinal tract findings (e.g. muscular weakness, paralysis and sensory disturbances), sensory abnormalities, cerebellar symptoms, and visual field defects are common. Some signs/symptoms regarded as 'cortical' (e.g. aphasia or visual -spatial disorientation) may occur. Evaluation of PML includes, but is not limited to, consultation with a neurologist, brain magnetic resonance imaging (MRI), and lumbar puncture (cerebrospinal fluid testing for John Cunningham viral DNA). Therapy with Gazyvaro should be withheld during the investigation of potential PML and permanently discontinued in case of confirmed PML. Discontinuation or reduction of any concomitant chemotherapy or immunosuppressive therapy should also be considered. The patient should be referred to a neurologist for the evaluation and treatment of PML.
+
+<div style=\"page-break-after: always\"></div>
+
+## Immunisation
+
+The safety of immunisation with live or attenuated viral vaccines following Gazyvaro therapy has not been studied, and vaccination with live virus vaccines is not recommended during treatment and until B-cell recovery.
+
+## Exposure in utero to obinutuzumab and vaccination of infants with live virus vaccines
+
+Due to the potential depletion of B-cells in infants of mothers who have been exposed to Gazyvaro during pregnancy, infants should be monitored for B-cell depletion and vaccinations with live virus vaccines should be postponed until the infant's B -cell count has recovered.  The safety and timing of vaccination should be discussed with the infant's physician (see section 4.6).
+
+## Elderly
+
+The safety and efficacy of Gazyvaro in patients with LN above 65 years of age have not been established.
+
+## Renal impairment
+
+The safety and efficacy of Gazyvaro have not been established in patients with severe renal impairment (CrCl &lt; 30 mL/min).
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No formal drug-drug interaction studies have been performed, although limited drug-drug interaction sub-studies have been undertaken for Gazyvaro with bendamustine, CHOP, fludarabine and cyclophosphamide (FC), and chlorambucil.
 
 A risk for interactions with other concomitantly used medicinal products cannot be excluded.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pharmacokinetic interactions
 
@@ -388,11 +486,13 @@ The combination of obinutuzumab with chlorambucil, bendamustine, CHOP or CVP may
 
 Women of childbearing potential must use effective contraception during and for 18 months after treatment with Gazyvaro.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pregnancy
 
 A reproduction study in cynomolgus monkeys showed no evidence of embryofoetal toxicity or teratogenic effects but resulted in a complete depletion of B-lymphocytes in offspring. B-cell counts returned to normal levels in the offspring, and immunologic function was restored within 6 months of birth. Serum concentrations of obinutuzumab in offspring were similar to those in the mothers on day 28 post-partum, whereas concentrations in milk on the same day were very low, suggesting that obinutuzumab crosses the placenta (see section 5.3). There are no data from the use of obinutuzumab in pregnant women. Gazyvaro should not be administered to pregnant women unless the possible benefit outweighs the potential risk.
 
-In case of exposure during pregnancy, depletion of B-cells may be expected in infants due to the pharmacological properties of the product. Postponing vaccination with live vaccines should be considered for infants born to mothers who have been exposed to Gazyvaro during pregnancy until the infant's B-cell levels are within normal ranges (see section 4.4).
+In case of exposure during pregnancy, depletion of B-cells may be expected in infants due to the pharmacological properties of the product. Postponing vaccination with live vaccines should be considered for infants born to mothers who have been exposed to Gazyvaro during pregnancy until the infant's B -cell levels are within normal ranges (see section 4.4).
 
 ## Breast-feeding
 
@@ -404,102 +504,117 @@ Since human immunoglobulin G (IgG) is secreted in human milk and the potential f
 
 No specific studies in animals have been performed to evaluate the effect of obinutuzumab on fertility. No adverse effects on male and female reproductive organs were observed in repeat-dose toxicity studies in cynomolgus monkeys (see section 5.3).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.7 Effects on ability to drive and use machines
 
 Gazyvaro has no or negligible influence on the ability to drive and use machines. IRRs are very common during the first infusion of Gazyvaro, and patients experiencing infusion related symptoms should be advised not to drive or use machines until symptoms abate.
 
 ## 4.8 Undesirable effects
 
+Undesirable effects are presented separately for the Oncology (Chronic lymphocytic leukaemia and Follicular lymphoma), and for the Lupus nephritis indications.
+
+## Chronic lymphocytic leukaemia (CLL) and follicular lymphoma (FL)
+
 ## Summary of the safety profile
 
 The adverse drug reactions (ADRs) from clinical trials were identified during induction, maintenance and follow up for indolent Non-Hodgkin lymphoma (iNHL) including FL; treatment and follow up for CLL in the three pivotal clinical studies:
 
-- BO21004/CLL11 (N=781): Patients with previously untreated CLL
-- BO21223/GALLIUM (N=1390): Patients with previously untreated iNHL (86% of the patients had FL)
-- GAO4753g/GADOLIN (N=409): Patients with iNHL (81% of the patients had FL) who had no response to or who progressed during or up to 6 months after treatment with rituximab or a rituximab-containing regimen.
+-  BO21004/CLL11 (N=781): Patients with previously untreated CLL
+-  BO21223/GALLIUM (N=1390): Patients with previously untreated iNHL (86% of the patients had FL)
+-  GAO4753g/GADOLIN (N=409): Patients with iNHL (81% of the patients had FL) who had no response to or who progressed during or up to 6 months after treatment with rituximab or a rituximab-containing regimen.
+
+<div style=\"page-break-after: always\"></div>
 
 These trials investigated Gazyvaro in combination with chlorambucil for CLL and with bendamustine, CHOP or CVP followed by Gazyvaro maintenance therapy for iNHL. The studies BO21223/GALLIUM and GAO4753g/GADOLIN enrolled patients with iNHL including FL. Therefore, in order to provide the most comprehensive safety information, the analysis of ADRs presented in the following has been performed on the entire study population (i.e. iNHL).
 
-Table 7 summarises all ADRs including those of the pivotal studies (BO21004/CLL11, BO21223/GALLIUM GAO4753g/GADOLIN) that occurred at a higher incidence (difference of ≥ 2%) compared to the relevant comparator arm in at least one pivotal study in:
+Table 9 summarises all ADRs including those of the pivotal studies (BO21004/CLL11, BO21223/GALLIUM GAO4753g/GADOLIN) that occurred at a higher incidence (difference of ≥ 2%) compared to the relevant comparator arm in at least one pivotal study in:
 
-- Patients with CLL receiving Gazyvaro plus chlorambucil compared with chlorambucil alone or rituximab plus chlorambucil (study BO21004/CLL11)
-- Patients with previously untreated iNHL receiving Gazyvaro plus chemotherapy (bendamustine, CHOP, CVP) followed by Gazyvaro maintenance in patients achieving a response, compared to rituximab plus chemotherapy followed by rituximab maintenance in patients achieving a response (study BO21223/GALLIUM)
-- Patients with iNHL who had no response to or who progressed during or up to 6 months after treatment with rituximab or a rituximab-containing regimen receiving Gazyvaro plus bendamustine, followed by Gazyvaro maintenance in some patients, compared to bendamustine alone (study GAO4753g/GADOLIN)
+-  Patients with CLL receiving Gazyvaro plus chlorambucil compared with chlorambucil alone or rituximab plus chlorambucil (study BO21004/CLL11)
+-  Patients with previously untreated iNHL receiving Gazyvaro plus chemotherapy (bendamustine, CHOP, CVP) followed by Gazyvaro maintenance in patients achieving a response, compared to rituximab plus chemotherapy followed by rituximab maintenance in patients achieving a response (study BO21223/GALLIUM)
+-  Patients with iNHL who had no response to or who progressed during or up to 6 months after treatment with rituximab or a rituximab-containing regimen receiving Gazyvaro plus bendamustine, followed by Gazyvaro maintenance in some patients, compared to bendamustine alone (study GAO4753g/GADOLIN)
 
-The incidences presented in Table 7 (all grades and Grades 3-5) are the highest incidence of that ADR reported from any of the three studies.
+The incidences presented in Table 9 (all grades and Grades 3-5) are the highest incidence of that ADR reported from any of the three studies.
 
-Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000) and very rare ( &lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000  to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000) and very rare ( &lt; 1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-<div style=\"page-break-after: always\"></div>
+Tabulated list of adverse reactions
 
-## Tabulated list of adverse reactions
+Table 9 Summary of ADRs reported in patients #  receiving Gazyvaro + chemotherapy*
 
-Table 7 Summary of ADRs reported in patients #  receiving Gazyvaro + chemotherapy*
-
-| System organ class Frequency                                        | All Grades Gazyvaro + chemotherapy* (CLL, iNHL) followed by Gazyvaro maintenance (iNHL)                                  | Grades 3-5 † Gazyvaro + chemotherapy* (CLL, iNHL) followed by Gazyvaro maintenance (iNHL)                       |
-|---------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                                         | Infections and infestations                                                                                              | Infections and infestations                                                                                     |
-| Very common                                                         | Upper respiratory tract infection, sinusitis § ,urinary tract infection, pneumonia § , herpes zoster § , nasopharyngitis |                                                                                                                 |
-| Common                                                              | Oral herpes, rhinitis, pharyngitis, lung infection, influenza                                                            | Urinary tract infection, pneumonia, lung infection, upper respiratory tract infection, sinusitis, herpes zoster |
-| Uncommon                                                            | Hepatitis B reactivation                                                                                                 | Nasopharyngitis, rhinitis, influenza, oral herpes                                                               |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Neoplasms benign, malignant and unspecified (incl cysts and polyps)                                                      | Neoplasms benign, malignant and unspecified (incl cysts and polyps)                                             |
-| Common                                                              | Squamous cell carcinoma of skin, Basal cell carcinoma                                                                    | Squamous cell carcinoma of skin, Basal cell carcinoma                                                           |
-| Blood and lymphatic system disorders                                | Blood and lymphatic system disorders                                                                                     | Blood and lymphatic system disorders                                                                            |
-| Very common                                                         | Neutropenia § , thrombocytopenia, anaemia, leukopenia                                                                    | Neutropenia, thrombocytopenia                                                                                   |
-| Common                                                              | Febrile neutropenia                                                                                                      | Anaemia, leukopenia, febrile neutropenia                                                                        |
-| Uncommon                                                            | Disseminated intravascular coagulation ##                                                                                |                                                                                                                 |
-| Metabolism and nutrition disorders                                  | Metabolism and nutrition disorders                                                                                       | Metabolism and nutrition disorders                                                                              |
-| Common                                                              | Tumour lysis syndrome, hyperuricaemia, hypokalaemia                                                                      | Tumour lysis syndrome, hypokalaemia                                                                             |
-| Uncommon                                                            |                                                                                                                          | Hyperuricaemia                                                                                                  |
-| Psychiatric disorders                                               | Psychiatric disorders                                                                                                    | Psychiatric disorders                                                                                           |
-| Very common                                                         | Insomnia                                                                                                                 |                                                                                                                 |
-| Common                                                              | Depression, anxiety                                                                                                      |                                                                                                                 |
-| Uncommon                                                            |                                                                                                                          | Insomnia, depression, anxiety                                                                                   |
-| Nervous system disorders                                            | Nervous system disorders                                                                                                 | Nervous system disorders                                                                                        |
-| Very common                                                         | Headache                                                                                                                 |                                                                                                                 |
-| Uncommon                                                            |                                                                                                                          | Headache                                                                                                        |
-| Not known                                                           | Progressive multifocal leukoencephalopathy                                                                               |                                                                                                                 |
-| Cardiac disorders                                                   | Cardiac disorders                                                                                                        | Cardiac disorders                                                                                               |
-| Common                                                              | Atrial fibrillation                                                                                                      | Atrial fibrillation                                                                                             |
-| Vascular disorders                                                  | Vascular disorders                                                                                                       | Vascular disorders                                                                                              |
-| Common                                                              | Hypertension                                                                                                             | Hypertension                                                                                                    |
-| Respiratory, thoracic and mediastinal disorders                     | Respiratory, thoracic and mediastinal disorders                                                                          | Respiratory, thoracic and mediastinal disorders                                                                 |
-| Very common                                                         | Cough §                                                                                                                  |                                                                                                                 |
-| Common                                                              | Nasal congestion, rhinorrhoea, oropharyngeal pain                                                                        |                                                                                                                 |
-| Uncommon                                                            |                                                                                                                          | Cough, oropharyngeal pain                                                                                       |
-| Gastrointestinal disorders                                          | Gastrointestinal disorders                                                                                               | Gastrointestinal disorders                                                                                      |
-| Very common                                                         | Diarrhoea, constipation §                                                                                                |                                                                                                                 |
+| System organ class Frequency                                        | All Grades Gazyvaro + chemotherapy* (CLL, iNHL) followed by Gazyvaro maintenance (iNHL)                                   | Grades 3-5 † Gazyvaro + chemotherapy* (CLL, iNHL) followed by Gazyvaro maintenance (iNHL)                       |
+|---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                                         |                                                                                                                           |                                                                                                                 |
+| Very common                                                         | Upper respiratory tract infection, sinusitis § , urinary tract infection, pneumonia § , herpes zoster § , nasopharyngitis |                                                                                                                 |
+| Common                                                              | Oral herpes, rhinitis, pharyngitis, lung infection, influenza                                                             | Urinary tract infection, pneumonia, lung infection, upper respiratory tract infection, sinusitis, herpes zoster |
+| Uncommon                                                            | Hepatitis B reactivation                                                                                                  | Nasopharyngitis, rhinitis, influenza, oral herpes                                                               |
+| Neoplasms benign, malignant and unspecified (incl cysts and polyps) | Neoplasms benign, malignant and unspecified (incl cysts and polyps)                                                       | Neoplasms benign, malignant and unspecified (incl cysts and polyps)                                             |
+| Common                                                              | Squamous cell carcinoma of skin, Basal cell carcinoma                                                                     | Squamous cell carcinoma of skin, Basal cell carcinoma                                                           |
+| Blood and lymphatic system disorders                                | Blood and lymphatic system disorders                                                                                      | Blood and lymphatic system disorders                                                                            |
+| Very common                                                         | Neutropenia § , thrombocytopenia, anaemia, leukopenia                                                                     | Neutropenia, thrombocytopenia                                                                                   |
+| Common                                                              | Febrile neutropenia                                                                                                       | Anaemia, leukopenia, febrile neutropenia                                                                        |
+| Uncommon                                                            | Disseminated intravascular coagulation ##                                                                                 |                                                                                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class Frequency                         | All Grades Gazyvaro + chemotherapy* (CLL, iNHL) followed by Gazyvaro maintenance (iNHL)   | Grades 3-5 † Gazyvaro + chemotherapy* (CLL, iNHL) followed by Gazyvaro maintenance (iNHL)   |
-|------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
-| Common                                               | Dyspepsia, haemorrhoids gastrointestinal perforation                                      | Diarrhoea                                                                                   |
-| Uncommon                                             |                                                                                           | Constipation, haemorrhoids                                                                  |
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                    | Skin and subcutaneous tissue disorders                                                      |
-| Very common                                          | Alopecia, pruritus                                                                        |                                                                                             |
-| Common                                               | Eczema                                                                                    |                                                                                             |
-| Uncommon                                             |                                                                                           | Pruritus                                                                                    |
-| Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                           | Musculoskeletal and connective tissue disorders                                             |
-| Very common                                          | Arthralgia § , back pain, pain in extremity                                               |                                                                                             |
-| Common                                               | Musculoskeletal chest pain, bone pain                                                     | Pain in extremity                                                                           |
-| Uncommon                                             |                                                                                           | Arthralgia, back pain, musculoskeletal chest pain, bone pain                                |
-| Renal and Urinary Disorders                          | Renal and Urinary Disorders                                                               | Renal and Urinary Disorders                                                                 |
-| Common                                               | Dysuria, urinary incontinence                                                             |                                                                                             |
-| Uncommon                                             |                                                                                           | Dysuria, urinary incontinence                                                               |
-| General disorders and administration site conditions | General disorders and administration site conditions                                      | General disorders and administration site conditions                                        |
-| Very common                                          | Pyrexia, Asthenia, fatigue                                                                |                                                                                             |
-| Common                                               | Chest pain                                                                                | Pyrexia, asthenia, fatigue                                                                  |
-| Uncommon                                             |                                                                                           | Chest pain                                                                                  |
-| Immune system disorders                              | Immune system disorders                                                                   | Immune system disorders                                                                     |
-| Rare                                                 | Cytokine release syndrome**                                                               |                                                                                             |
-| Investigations                                       | Investigations                                                                            | Investigations                                                                              |
-| Common                                               | White blood cell count decreased, neutrophil count decreased, weight increased            | White blood cell count decreased, neutrophil count decreased                                |
-| Uncommon                                             | Hypogammaglobulinemia                                                                     |                                                                                             |
-| Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications                                            | Injury, poisoning and procedural complications                                              |
-| Very common                                          | IRRs                                                                                      | IRRs                                                                                        |
+| System organ class Frequency                                      | All Grades Gazyvaro + chemotherapy* (CLL, iNHL) followed by Gazyvaro maintenance (iNHL)   | Grades 3-5 † Gazyvaro + chemotherapy* (CLL, iNHL) followed by Gazyvaro maintenance (iNHL)   |
+|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+| Metabolism and nutrition disorders                                | Metabolism and nutrition disorders                                                        | Metabolism and nutrition disorders                                                          |
+| Common                                                            | Tumour lysis syndrome, hyperuricaemia, hypokalaemia                                       | Tumour lysis syndrome, hypokalaemia                                                         |
+| Uncommon                                                          |                                                                                           | Hyperuricaemia                                                                              |
+| Psychiatric disorders                                             | Psychiatric disorders                                                                     | Psychiatric disorders                                                                       |
+| Very common                                                       | Insomnia                                                                                  |                                                                                             |
+| Common                                                            | Depression, anxiety                                                                       |                                                                                             |
+| Uncommon                                                          |                                                                                           | Insomnia, depression, anxiety                                                               |
+| Nervous system disorders                                          | Nervous system disorders                                                                  | Nervous system disorders                                                                    |
+| Very common                                                       | Headache                                                                                  |                                                                                             |
+| Uncommon                                                          |                                                                                           | Headache                                                                                    |
+| Not known                                                         | Progressive multifocal leukoencephalopathy                                                |                                                                                             |
+| Cardiac disorders                                                 | Cardiac disorders                                                                         | Cardiac disorders                                                                           |
+| Common                                                            | Atrial fibrillation                                                                       | Atrial fibrillation                                                                         |
+| Vascular disorders                                                | Vascular disorders                                                                        | Vascular disorders                                                                          |
+| Common                                                            | Hypertension                                                                              | Hypertension                                                                                |
+| Respiratory, thoracic and mediastinal disorders                   | Respiratory, thoracic and mediastinal disorders                                           | Respiratory, thoracic and mediastinal disorders                                             |
+| Very common                                                       | Cough §                                                                                   |                                                                                             |
+| Common                                                            | Nasal congestion, rhinorrhoea, oropharyngeal pain                                         |                                                                                             |
+| Uncommon                                                          |                                                                                           | Cough, oropharyngeal pain                                                                   |
+| Gastrointestinal disorders                                        | Gastrointestinal disorders                                                                | Gastrointestinal disorders                                                                  |
+| Very common                                                       | Diarrhoea, constipation §                                                                 |                                                                                             |
+| Common                                                            | Dyspepsia, haemorrhoids gastrointestinal perforation                                      | Diarrhoea                                                                                   |
+| Uncommon                                                          |                                                                                           | Constipation, haemorrhoids                                                                  |
+| Skin and subcutaneous tissue disorders                            | Skin and subcutaneous tissue disorders                                                    | Skin and subcutaneous tissue disorders                                                      |
+| Very common                                                       | Alopecia, pruritus                                                                        |                                                                                             |
+| Common                                                            | Eczema                                                                                    |                                                                                             |
+| Uncommon Pruritus Musculoskeletal and connective tissue disorders | Uncommon Pruritus Musculoskeletal and connective tissue disorders                         | Uncommon Pruritus Musculoskeletal and connective tissue disorders                           |
+| Very common                                                       | Arthralgia § , back pain, pain in extremity                                               |                                                                                             |
+| Common                                                            | Musculoskeletal chest pain, bone pain                                                     | Pain in extremity                                                                           |
+| Uncommon                                                          |                                                                                           | Arthralgia, back pain, musculoskeletal chest pain, bone pain                                |
+| Renal and Urinary Disorders                                       | Renal and Urinary Disorders                                                               | Renal and Urinary Disorders                                                                 |
+| Common                                                            | Dysuria, urinary incontinence                                                             |                                                                                             |
+| Uncommon                                                          |                                                                                           | Dysuria, urinary incontinence                                                               |
+| General disorders and administration site conditions              | General disorders and administration site conditions                                      | General disorders and administration site conditions                                        |
+| Very common                                                       | Pyrexia, Asthenia, fatigue                                                                |                                                                                             |
+| Common                                                            | Chest pain                                                                                | Pyrexia, asthenia, fatigue                                                                  |
+| Uncommon                                                          |                                                                                           | Chest pain                                                                                  |
+| Immune system disorders                                           | Immune system disorders                                                                   | Immune system disorders                                                                     |
+| Rare                                                              | Cytokine release syndrome**                                                               |                                                                                             |
+| Investigations                                                    | Investigations                                                                            | Investigations                                                                              |
+| Common                                                            | White blood cell count decreased, neutrophil count decreased, weight increased            | White blood cell count decreased, neutrophil count decreased                                |
+| Uncommon                                                          | Hypogammaglobulinemia                                                                     |                                                                                             |
+| Injury, poisoning and procedural Very common                      | complications IRRs                                                                        | IRRs                                                                                        |
+
+<div style=\"page-break-after: always\"></div>
+
+| System organ class Frequency   | All Grades Gazyvaro + chemotherapy* (CLL, iNHL) followed by Gazyvaro maintenance (iNHL)   | Grades 3-5 † Gazyvaro + chemotherapy* (CLL, iNHL) followed by Gazyvaro maintenance (iNHL)   |
+|--------------------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+
+- ##  Disseminated intravascular coagulation (DIC) including fatal events, has been reported in clinical studies and in postmarketing surveillance in patients receiving Gazyvaro (see section 4.4)
+
+† No Grade 5 adverse reactions have been observed with a difference of ≥ 2% between the treatment arms
+
+* Chemotherapy: Chlorambucil in CLL; bendamustine, CHOP, CVP in iNHL including FL
+
+- §  observed also during maintenance treatment with at least 2% higher incidence in Gazyvaro arm (BO21223)
+
+**Based on clinical trial exposures  in FL and CLL
 
 The profile of adverse reactions in patients with FL was consistent with the overall iNHL population in both studies.
 
@@ -509,15 +624,13 @@ The incidences presented in the following sections if referring to iNHL are the 
 
 The study MO40597 was designed to characterize the safety profile of short duration infusions (approximately 90 minutes) from Cycle 2, in patients with previously untreated FL (see section 5.1 Pharmacodynamic properties).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Infusion related reactions
 
-Most frequently reported ( ≥ 5%) symptoms associated with an IRR were nausea, vomiting, diarrhoea, headache, dizziness, fatigue, chills, pyrexia, hypotension, flushing, hypertension, tachycardia, dyspnoea, and chest discomfort. Respiratory symptoms such as bronchospasm, larynx and throat irritation, wheezing, laryngeal oedema and cardiac symptoms such as atrial fibrillation have also been reported (see section 4.4).
+Most frequently reported (≥ 5%) symptoms associated with an IRR were nausea, vomiting, diarrhoea, headache, dizziness, fatigue, chills, pyrexia, hypotension, flushing, hypertension, tachycardia, dyspnoea, and chest discomfort. Respiratory symptoms such as bronchospasm, larynx and throat irritation, wheezing, laryngeal oedema and cardiac symptoms such as atrial fibrillation have also been reported (see section 4.4).
 
 ## Chronic Lymphocytic Leukaemia
 
-The incidence of IRRs was higher in the Gazyvaro plus chlorambucil arm compared to the rituximab plus chlorambucil arm. The incidence of IRRs was 66% with the infusion of the first 1,000 mg of Gazyvaro (20% of patients experiencing a Grade 3-4 IRR). Overall, 7% of patients experienced an IRR leading to discontinuation of Gazyvaro. The incidence of IRRs with subsequent infusions was 3% with the second 1,000 mg dose and 1% thereafter. No Grade 3-5 IRRs were reported beyond the first 1,000 mg infusions of Cycle 1.
+The incidence of IRRs was higher in the Gazyvaro plus chlorambucil arm compared to the rituximab plus chlorambucil arm. The incidence of IRRs was 66% with the infusion of the first 1 000 mg of Gazyvaro (20% of patients experiencing a Grade 3-4 IRR). Overall, 7% of patients experienced an IRR leading to discontinuation of Gazyvaro. The incidence of IRRs with subsequent infusions was 3% with the second 1 000 mg dose and 1% thereafter. No Grade 3-5 IRRs were reported beyond the first 1 000 mg infusions of Cycle 1.
 
 In patients who received the recommended measures for prevention of IRRs as described in section 4.2, a decreased incidence of IRRs of all Grades was observed. The rates of Grade 3-4 IRRs (which occurred in relatively few patients) were similar before and after mitigation measures were implemented.
 
@@ -525,24 +638,25 @@ In patients who received the recommended measures for prevention of IRRs as desc
 
 Grade 3-4 IRRs occurred in 12% of patients. In Cycle 1, the overall incidence of IRRs was higher in patients receiving Gazyvaro plus chemotherapy compared to patients in the comparator arm. In patients receiving Gazyvaro plus chemotherapy, the incidence of IRRs was highest on Day 1 and gradually decreased with subsequent infusions. This decreasing trend continued during maintenance therapy with Gazyvaro alone. Beyond Cycle 1 the incidence of IRRs in subsequent infusions was comparable between the Gazyvaro and the relevant comparator arms. Overall, 4% of patients experienced an infusion related reaction leading to discontinuation of Gazyvaro.
 
-## Short Duration Infusion in patients with Follicular Lymphoma
-
-In study MO40597 assessing the safety of SDI, a greater proportion of patients experienced any grade IRRs at Cycle 2 compared to the proportion who experienced IRRs after standard infusion at Cycle 2 in study BO21223 (10/99 [10.1%] vs. 23/529 [4.3%] respectively; IRRs attributed by the investigator to any component of study therapy). No patients experienced Grade ≥ 3 IRRs after SDI at Cycle 2 in MO40597; 3/529 (0.6%) experienced Grade ≥ 3 IRRs at Cycle 2 in study BO21223. IRR symptoms and signs were similar in both studies.
-
-Infusion related reactions observed in Study MO40597/GAZELLE are summarized in Table 8.
-
 <div style=\"page-break-after: always\"></div>
 
-## Table 8 Study MO40597/GAZELLE Short-Duration Infusion: Infusion Related Reactions a by Cycle (Safety-Evaluable Population)
+## Short Duration Infusion in patients with Follicular Lymphoma
 
-| CTCAE           | C1                                         | C1 b by day          | C1 b by day         | C1 b by day        | C1 b by day         | C2 C           | C3           | C4           | C5           | C6           | C7          | Over all induction cycles   |
-|-----------------|--------------------------------------------|----------------------|---------------------|--------------------|---------------------|----------------|--------------|--------------|--------------|--------------|-------------|-----------------------------|
-| Grade All Grade | Overall (standard infusion) 65/113 (57.5%) | Day 1 57/113 (50.4%) | Day 2 d 4/51 (7.8%) | Day 8 6/112 (5.4%) | Day 15 5/111 (4.5%) | 13/110 (11.8%) | 9/108 (8.3%) | 7/108 (6.5%) | 6/107 (5.6%) | 5/105 (4.8%) | 2/55 (3.6%) | 71/113 (62.8%)              |
-| Grade ≥ 3       | 6/113 (5.3%)                               | 5/113 (4.4%)         | 1/51 (2.0%)         | 0                  | 0                   | 0              | 0            | 0            | 1/107 (0.9%) | 0            | 0           | 7/113 (6.2%)                |
+In study MO40597 assessing the safety of SDI, a greater proportion of patients experienced any grade IRRs at Cycle 2 compared to the proportion who experienced IRRs after standard infusion at Cycle 2 in study BO21223 (10/99 [10.1%] vs. 23/529 [4.3%] respectively; IRRs attributed by the investigator to any component of study therapy). No patients experienced Grade  3 IRRs after SDI at Cycle 2 in MO40597; 3/529 (0.6%) experienced Grade  3 IRRs at Cycle 2 in study BO21223. IRR symptoms and signs were similar in both studies.
 
-C = cycle; CTCAE = Common Terminology Criteria for Adverse Events; IRR = infusion related reaction a Infusion related reaction defined as any event that occurred during or within 24 hours from the end of study treatment infusion that were judged by the investigator to be related to any components of therapy.
+Infusion related reactions observed in Study MO40597/GAZELLE are summarized in Table 10.
 
-b C1 comprised three infusions at the standard infusion rate, administered at weekly intervals c  Patients received short-duration infusion from C2 onward. The denominator at C2 and subsequent cycles represents the number of patients who received SDI at that cycle.
+Table  10 Study MO40597/GAZELLE Short-Duration Infusion: Infusion Related Reactions a by Cycle (Safety-Evaluable Population)
+
+| CTCAE Grade   | C1 Overall (standard infusion)   | C1 b by day    | C1 b by day   | C1 b by day   | C1 b by day   | C2 C           | C3           | C4           | C5           | C6           | C7          | Over all induction cycles   |
+|---------------|----------------------------------|----------------|---------------|---------------|---------------|----------------|--------------|--------------|--------------|--------------|-------------|-----------------------------|
+| CTCAE Grade   | C1 Overall (standard infusion)   | Day 1          | Day 2 d       | Day 8         | Day 15        | C2 C           | C3           | C4           |              |              |             |                             |
+| All Grade     | 65/113 (57.5%)                   | 57/113 (50.4%) | 4/51 (7.8%)   | 6/112 (5.4%)  | 5/111 (4.5%)  | 13/110 (11.8%) | 9/108 (8.3%) | 7/108 (6.5%) | 6/107 (5.6%) | 5/105 (4.8%) | 2/55 (3.6%) | 71/113 (62.8%)              |
+| Grade  3     | 6/113 (5.3%)                     | 5/113 (4.4%)   | 1/51 (2.0%)   | 0             | 0             | 0              | 0            | 0            | 1/107 (0.9%) | 0            | 0           | 7/113 (6.2%)                |
+
+C  cycle; CTCAE = Common Terminology Criteria for Adverse Events; IRR  infusion related reaction a  Infusion related reaction defined as any event that occurred during or within 24 hours from the end of study treatment infusion that were judged by the investigator to be related to any components of therapy.
+
+b  C1 comprised three infusions at the standard infusion rate, administered at weekly intervals c  Patients received short-duration infusion from C2 onward. The denominator at C2 and subsequent cycles represents the number of patients who received SDI at that cycle.
 
 d  Patients treated with bendamustine on Cycle 1 Day 2.
 
@@ -556,11 +670,11 @@ The incidence of neutropenia was higher in the Gazyvaro plus chlorambucil arm (4
 
 In the Gazyvaro plus chemotherapy arm, the incidence of Grade 1-4 neutropenia (50%) was higher relative to the comparator arm with an increased risk during the induction period. The incidence of prolonged neutropenia and late onset neutropenia was 3% and 8%, respectively. The incidence of infection was 81% in the Gazyvaro plus chemotherapy arm (with Grade 3-5 events reported in 22% of patients and fatal events reported in 3% of patients). Patients who received G-CSF prophylaxis had a lower rate of Grade 3-5 infections (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Short Duration Infusion in patients with Follicular Lymphoma
 
 In study MO40597, assessing the safety of SDI, neutropenia was reported as an adverse event in a higher proportion of patients compared to study BO21223 in which patients receiving standard duration infusion 69/113 [61.1%] vs 247/595 [41.5%], respectively, throughout induction). The median and range of neutrophil count values were similar in both studies at each time point. Febrile neutropenia was reported in a similar proportion of patients in MO40597 and BO21223 (6/113 [5.3%] vs 31/595 [5.2%], respectively). Infection was reported less frequently in MO40597 than in BO21223 (45/113 [39.8%] vs 284/595 [47.7%], respectively).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Thrombocytopenia and haemorrhagic events
 
@@ -575,6 +689,56 @@ The incidence of thrombocytopenia was 15%. Thrombocytopenia occurred more freque
 ## Short Duration Infusion in patients with Follicular Lymphoma
 
 In study MO40597, assessing the safety of SDI, thrombocytopenia was reported as an adverse event in a higher proportion of patients compared to study BO21223 in which patients received standard duration infusion (21/113 [28.6%] vs 63/595 [10.6%], respectively, throughout induction). The median and range of platelet count values were similar in both studies at each time point. No thrombocytopenia events reported in MO40597 were associated with bleeding.
+
+## Lupus nephritis
+
+## Summary of the safety profile
+
+In pooled data from placebo-controlled studies in 200 patients with lupus nephritis treated with Gazyvaro, the most frequently observed adverse drug reactions were upper respiratory tract infection (29%), COVID-19 (22.5%) and urinary tract infection (21%).
+
+## Tabulated list of adverse reactions
+
+The ADRs listed in Table 11 are based on pooled safety data from two clinical studies in patients with ISN/RPS 2003 Class III or IV with or without concomitant Class V lupus nephritis, up to week 76:
+
+- REGENCY (CA41705): a Phase III study which included 136 patients treated with Gazyvaro plus standard therapy consisting of mycophenolate mofetil (MMF) and corticosteroids.
+
+<div style=\"page-break-after: always\"></div>
+
+- NOBILITY (WA29748): a Phase II study which included 64 patients treated with Gazyvaro plus standard therapy with MMF/mycophenolic acid and corticosteroids.
+
+Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000), and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
+Table 11 ADRs reported in patients receiving Gazyvaro + standard therapy* in LN
+
+| System Organ Class Frequency                   | All Grades                                                                        | Grades 3-5                                   |
+|------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------------------------|
+| Infections and infestations                    |                                                                                   |                                              |
+| Very common                                    | Upper respiratory tract infection, COVID-19, urinary tract infection, bronchitis, |                                              |
+| Common                                         | Pneumonia, herpes simplex                                                         | COVID-19, urinary tract infection, pneumonia |
+| Injury, Poisoning and Procedural Complications | Injury, Poisoning and Procedural Complications                                    |                                              |
+| Very common                                    | IRR                                                                               |                                              |
+| Common                                         |                                                                                   | IRR                                          |
+| Blood and Lymphatic System Disorders           | Blood and Lymphatic System Disorders                                              |                                              |
+| Very common                                    | Neutropenia                                                                       |                                              |
+| Common                                         |                                                                                   | Neutropenia                                  |
+| Investigations                                 | Investigations                                                                    |                                              |
+| Very common                                    | Blood immunoglobulinM decreased**                                                 |                                              |
+
+## Description of selected adverse reactions
+
+## Infections
+
+Infections were reported in 72.0% of patients in the Gazyvaro arm vs. 61.7% of patients in the placebo arm. The most frequently reported infections were upper and lower respiratory tract infections. Grade 3-5 infections events were reported in 11.5% of patients in the Gazyvaro arm vs 9.8% of patients in the placebo arm. Fatal infection events were reported in 1% of patients in the Gazyvaro arm vs 0.5% of patients in the placebo arm (see section 4.4).
+
+## Neutropenia
+
+Neutropenia and related events were reported in 14.0% of patients in the Gazyvaro arm vs 6.2% of patients in the placebo arm. Grade 3-4 neutropenia was reported in 7% of patients treated with Gazyvaro vs 0.5% of patients in the placebo arm. The majority of neutropenia and related events resolved/improved spontaneously or with use of granulocyte colony-stimulating factors (see section 4.4).
+
+## Infusion-related reactions
+
+IRRs were reported in 13.5% of patients in the Gazyvaro arm vs 10.4% of patients in the placebo arm. IRRs in both arms were predominantly Grade 1-2 and occurred during/after the first infusion. Grade 3-4 IRRs were reported in 1.5% of patients in the Gazyvaro arm vs 0.5% of patients in the placebo arm. All Grade 3-4 events occurred during/after either the first or second infusion. The incidence and severity of IRRs decreased with subsequent infusions (see section 4.4). In the REGENCY study, most common IRR signs/symptoms included headache, nausea and vomiting. In the NOBILITY study, the most common IRR symptoms were pyrexia and tachycardia.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Special populations
 
@@ -592,25 +756,29 @@ In the pivotal studies (BO21223/GALLIUM, GAO4753g/GADOLIN) in iNHL, patients 65 
 
 ## Chronic Lymphocytic Leukaemia
 
-In the pivotal BO21004/CLL11 study, 27% (90 out of 336) of patients treated with Gazyvaro plus chlorambucil had moderate renal impairment (CrCl &lt; 50 mL/min). These patients experienced more serious adverse events and adverse events leading to death than patients with a CrCl ≥ 50 mL/min
+In the pivotal BO21004/CLL11 study, 27% (90 out of 336) of patients treated with Gazyvaro plus chlorambucil had moderate renal impairment (CrCl &lt; 50 mL/min). These patients experienced more serious adverse events and adverse events leading to death than pa tients with a CrCl ≥ 50 mL/min (see section 4.2, 4.4 and 5.2). Patients with a CrCl &lt; 30 mL/min were excluded from the study (see section 5.1).
 
-<div style=\"page-break-after: always\"></div>
+## Indolent Non-Hodgkin Lymphoma including Follicular Lymphoma
 
-(see section 4.2, 4.4 and 5.2). Patients with a CrCl &lt; 30 mL/min were excluded from the study (see section 5.1).
+In the pivotal studies (BO21223/GALLIUM, GAO4753g/GADOLIN) in iNHL, 5% (35 out of 698) and 7% (14 out of 204) of patients treated with Gazyvaro, respectively, had moderate renal impairment (CrCL &lt; 50 mL/min). These patients experienced more serious adverse events, Grade 3 to 5 adverse events and adverse events leading to treatment withdrawal (patients in BO21223 only) than patients with a CrCl ≥ 50 mL/min (see section 4.2 and 5.2). Patients with a CrCl &lt; 40 mL/min were excluded from the studies (see section 5.1).
 
-## Indolent Non Hodgkin Lymphoma including Follicular Lymphoma
+## Lupus Nephritis
 
-In the pivotal studies (BO21223/GALLIUM, GAO4753g/GADOLIN) in iNHL, 5% (35 out of 698) and 7% (14 out of 204) of patients treated with Gazyvaro, respectively, had moderate renal impairment (CrCL &lt; 50 mL/min). These patients experienced more serious adverse events, G rade 3 to 5 adverse events  and adverse events leading to treatment withdrawal (patients in BO21223 only) than patients with a CrCl ≥ 50 mL /min (see section 4.2 and 5.2). Patients with a CrCl &lt; 40 mL/min were excluded from the studies (see section 5.1).
+The population pharmacokinetic analysis (n = 196) of Gazyvaro showed that creatinine clearance does not affect the pharmacokinetics of obinutuzumab in patients with LN. The pharmacokinetics of obinutuzumab in patients with mild (CrCl 60 - &lt;90 mL/min, n=45) or moderate (CrCl 30 - &lt;60 mL/min, n=17) renal impairment were similar to those in patients with normal kidney function. The safety and efficacy of Gazyvaro in patients with severe renal impairment has not been formally studied.
 
 ## Additional safety information from clinical studies experience
 
 ## Worsening of pre-existing cardiac conditions
 
-Cases of arrhythmias (such as atrial fibrillation and tachyarrhythmia), angina pectoris, acute coronary syndrome, myocardial infarction and heart failure have occurred when treated with Gazyvaro (see section 4.4). These events may occur as part of an IRR and can be fatal.
+Cases of arrhythmias (such as atrial fibrillation and tachyarrhythmia), angina pectoris, acute coronary syndrome, myocardial infarction and heart failure have occurred when treated with Gazyvaro in CLL and NHL (see section 4.4). These events may occur as part of an IRR and can be fatal.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Laboratory abnormalities
 
-Transient elevation in liver enzymes (aspartate aminotransferase [AST], alanine aminotransferase [ALT], alkaline phosphatase) has been observed shortly after the first infusion of Gazyvaro.
+Transient elevation in liver enzymes (aspartate aminotransferase [AST], alanine aminotransferase [ALT], alkaline phosphatase) has been observed in CLL shortly after the first infusion of Gazyvaro.
+
+Obinutuzumab treatment resulted in a decrease in total immunoglobulins in pooled LN data from placebo-controlled studies, mainly driven by reduction in IgM.
 
 ## Reporting of suspected adverse reactions
 
@@ -630,17 +798,19 @@ Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies, ATC cod
 
 ## Mechanism of action
 
-Obinutuzumab is a recombinant monoclonal humanised and glycoengineered Type II anti-CD20 antibody of the IgG1 isotype. It specifically targets the extracellular loop of the CD20 transmembrane antigen on the surface of non-malignant and malignant pre-B and mature B-lymphocytes, but not on
+Obinutuzumab is a recombinant monoclonal humanised and glycoengineered Type II anti-CD20 antibody of the IgG1 isotype. It specifically targets the extracellular loop of the CD20 transmembrane antigen on the surface of non-malignant and malignant pre-B and mature B-lymphocytes, but not on haematopoietic stem cells, pro-B-cells, normal plasma cells or other normal tissue. Glycoengineering of the Fc part of obinutuzumab results in higher affinity for FcɣRIII receptors on immune effector cells such as natural killer (NK) cells, macrophages and monocytes as compared to non-glycoengineered antibodies.
+
+In nonclinical studies, obinutuzumab induces direct cell death and mediates antibody dependent cellular cytotoxicity (ADCC) and antibody dependent cellular phagocytosis (ADCP) through recruitment of FcɣRIII positive immune effector cells. In addition, in v ivo, obinutuzumab mediates a low degree of complement dependent cytotoxicity (CDC). Compared to Type I antibodies, obinutuzumab, a Type II antibody, is characterised by an enhanced direct cell death induction with a concomitant reduction in CDC at an equivalent dose. Obinutuzumab, as a glycoengineered antibody, is characterised by enhanced ADCC and ADCP compared to non-glycoengineered antibodies at an equivalent dose. In animal models obinutuzumab mediates potent B-cell depletion and antitumour efficacy.
+
+In the pivotal clinical study in patients with CLL (BO21004/CLL11), 91% (40 out of 44) of evaluable patients treated with Gazyvaro were B-cell depleted (defined as CD19+ B-cell counts &lt; 0.07 x 10 9 /L) at the end of treatment period and remained depleted during the first 6 months of follow up. Recovery
 
 <div style=\"page-break-after: always\"></div>
 
-haematopoietic stem cells, pro-B-cells, normal plasma cells or other normal tissue. Glycoengineering of the Fc part of obinutuzumab results in higher affinity for Fc ɣ RIII receptors on immune effector cells such as natural killer (NK) cells, macrophages and monocytes as compared to non-glycoengineered antibodies.
-
-In nonclinical studies, obinutuzumab induces direct cell death and mediates antibody dependent cellular cytotoxicity (ADCC) and antibody dependent cellular phagocytosis (ADCP) through recruitment of Fc ɣ RIII positive immune effector cells. In addition, in vivo, obinutuzumab mediates a low degree of complement dependent cytotoxicity (CDC). Compared to Type I antibodies, obinutuzumab, a Type II antibody, is characterised by an enhanced direct cell death induction with a concomitant reduction in CDC at an equivalent dose. Obinutuzumab, as a glycoengineered antibody, is characterised by enhanced ADCC and ADCP compared to non-glycoengineered antibodies at an equivalent dose. In animal models obinutuzumab mediates potent B-cell depletion and antitumour efficacy.
-
-In the pivotal clinical study in patients with CLL (BO21004/CLL11), 91% (40 out of 44) of evaluable patients treated with Gazyvaro were B-cell depleted (defined as CD19+ B-cell counts &lt; 0.07 x 10 9 /L) at the end of treatment period and remained depleted during the first 6 months of follow up. Recovery of B-cells was observed within 12-18 months of follow up in 35% (14 out of 40) of patients without progressive disease and 13% (5 out of 40) with progressive disease.
+of B-cells was observed within 12-18 months of follow up in 35% (14 out of 40) of patients without progressive disease and 13% (5 out of 40) with progressive disease.
 
 In the pivotal clinical study in patients with iNHL (GAO4753/GADOLIN), 97% (171 out of 176) of evaluable patients treated with Gazyvaro were B-cell depleted at the end of the treatment period, and 97% (61 out of 63) remained depleted for more than 6 months from the last dose. Recovery of B-cells was observed within 12-18 months of follow-up in 11% (5 out of 46) of evaluable patients.
+
+In the pivotal clinical study in patients with LN (CA41705/REGENCY), 99.2% (127 out of 128) of evaluable patients treated with Gazyvaro were B-cell depleted (defined as CD19+ B-cell counts &lt; 10 cells/µl) at Week 4 and 95% (117 out of 123) were B cell depleted at Week 76. Reductions in circulating naïve B, memory B, and plasmablasts/plasma cells were observed by Week 4 and remained low through Week 76 after treatment initiation.
 
 ## Clinical efficacy and safety
 
@@ -648,78 +818,78 @@ In the pivotal clinical study in patients with iNHL (GAO4753/GADOLIN), 97% (171 
 
 A Phase III international, multicentre, open label, randomised, two-stage, three-arm clinical study (BO21004/CLL11) investigating the efficacy and safety of Gazyvaro plus chlorambucil (GClb) compared to rituximab plus chlorambucil (RClb) or chlorambucil (Clb) alone was conducted in patients with previously untreated CLL with comorbidities.
 
-Prior to enrolment, patients had to have documented CD20+ CLL, and one or both of the following measures of coexisting medical conditions: comorbidity score (CIRS) of greater than 6 or reduced renal function as measured by CrCl &lt; 70 mL/min. Patients with inadequate liver function (National Cancer Institute - Common Terminology Criteria for Adverse Events Grade 3 liver function tests (AST, ALT &gt; 5 x ULN for &gt; 2 weeks; bilirubin &gt; 3 x ULN) and renal function (CrCl &lt; 30 mL/min) were excluded. Patients with one or more individual organ/system impairment score of 4 as assessed by the CIRS definition, excluding eyes, ears, nose, throat and larynx organ system, were excluded.
+Prior to enrolment, patients had to have documented CD20+ CLL, and one or both of the following measures of coexisting medical conditions: comorbidity score (CIRS) of greater than 6 or reduced renal function as measured by CrCl &lt; 70 mL/min. Patients with inadequate liver function (National Cancer Institute -Common Terminology Criteria for Adverse Events Grade 3 liver function tests (AST, ALT &gt; 5 x ULN for &gt; 2 weeks; bilirubin &gt; 3 x ULN) and renal function (CrCl &lt; 30 mL/min) were excluded. Patients with one or more individual organ/system impairment score of 4 as assessed by the CIRS definition, excluding eyes, ears, nose, throat and larynx organ system, were excluded.
 
 A total of 781 patients were randomised 2:2:1 to receive Gazyvaro plus chlorambucil, rituximab plus chlorambucil or chlorambucil alone. Stage 1a compared Gazyvaro plus chlorambucil to chlorambucil alone in 356 patients and Stage 2 compared Gazyvaro plus chlorambucil to rituximab plus chlorambucil in 663 patients.
 
-In the majority of patients, Gazyvaro was given intravenously as a 1,000 mg initial dose administered on Day 1, Day 8 and Day 15 of the first treatment cycle. In order to reduce the rate of infusion related reactions in patients, an amendment was implemented and 140 patients received the first Gazyvaro dose administered over 2 days (Day 1 [100 mg] and Day 2 [900 mg]) (see section 4.2 and 4.4). For each subsequent treatment cycle (Cycles 2 to 6), patients received Gazyvaro 1,000 mg on Day 1 only. Chlorambucil was given orally at 0.5 mg/kg body weight on Day 1 and Day 15 of all treatment cycles (1 to 6).
-
-<div style=\"page-break-after: always\"></div>
+In the majority of patients, Gazyvaro was given intravenously as a 1 000 mg initial dose administered on Day 1, Day 8 and Day 15 of the first treatment cycle. In order to reduce the rate of infusion related reactions in patients, an amendment was implemented and 140 patients received the first Gazyvaro dose administered over 2 days (Day 1 [100 mg] and Day 2 [900 mg]) (see section 4.2 and 4.4). For each subsequent treatment cycle (Cycles 2 to 6), patients received Gazyvaro 1 000 mg on Day 1 only. Chlorambucil was given orally at 0.5 mg/kg body weight on Day 1 and Day 15 of all treatment cycles (1 to 6).
 
 The demographics data and baseline characteristics were well balanced between the treatment arms. The majority of patients were Caucasian (95%) and male (61%). The median age was 73 years, with 44% being 75 years or older. At baseline, 22% of patients had Binet Stage A, 42% had Binet Stage B and 36% had Binet Stage C.
 
 The median comorbidity score was 8 and 76% of the patients enrolled had a comorbidity score above 6. The median estimated CrCl was 62 mL/min and 66% of all patients had a CrCl &lt; 70 mL/min. Forty-two percent of patients enrolled had both a CrCl &lt; 70 mL/min and a comorbidity score of &gt; 6. Thirty-four percent of patients were enrolled on comorbidity score alone, and 23% of patients were enrolled with only impaired renal function.
 
-The most frequently reported coexisting medical conditions (using a cut off of 30% or higher), in the MedDRA body systems are: Vascular disorders (73%), Cardiac disorders (46%), Gastrointestinal disorders (38%), Metabolism and nutrition disorders (40%), Renal and urinary disorders (38%), Musculoskeletal and connective tissue disorders (33%).
-
-Efficacy results for patients with previously untreated CLL are summarised in Table 9. Kaplan-Meier curves for progression-free survival (PFS) and Overall Survival (OS) are shown in Figures 1-4.
-
-Table 9 Summary of efficacy from BO21004/CLL11 study
-
-|                                          | Stage 1a                              | Stage 1a                              | Stage 2                               | Stage 2                               |
-|------------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
-|                                          | Chlorambucil N=118                    | Gazyvaro + chlorambucil N= 238        | Rituximab + chlorambucil N= 330       | Gazyvaro + chlorambucil N= 333        |
-|                                          | 22.8 months median observation time g | 22.8 months median observation time g | 18.7 months median observation time g | 18.7 months median observation time g |
-| Primary endpoint                         |                                       |                                       |                                       |                                       |
-| Investigator-assessed PFS (PFS-INV) a    |                                       |                                       |                                       |                                       |
-| Number (%) of patients with event        | 96 (81.4%)                            | 93 (39.1%)                            | 199 (60.3%)                           | 104 (31.2%)                           |
-| Median time to event (months)            | 11.1                                  | 26.7                                  | 15.2                                  | 26.7                                  |
-| Hazard ratio (95% CI)                    | 0.18 [0.13; 0.24]                     | 0.18 [0.13; 0.24]                     | 0.39 [0.31; 0.49]                     | 0.39 [0.31; 0.49]                     |
-| p-value (Log-Rank test, stratified b )   | < 0.0001                              | < 0.0001                              | < 0.0001                              | < 0.0001                              |
-| Key secondary endpoints                  |                                       |                                       |                                       |                                       |
-| IRC-assessed PFS (PFS-IRC) a             |                                       |                                       |                                       |                                       |
-| Number (%) of patients with event        | 90 (76.3%)                            | 89 (37.4%)                            | 183 (55.5%)                           | 103 (30.9%)                           |
-| Median time to event (months)            | 11.2                                  | 27.2                                  | 14.9                                  | 26.7                                  |
-| Hazard ratio (95% CI)                    | 0.19 [0.14; 0.27]                     | 0.19 [0.14; 0.27]                     | 0.42 [0.33; 0.54]                     | 0.42 [0.33; 0.54]                     |
-| p-value (Log-Rank test, stratified b )   | < 0.0001                              | < 0.0001                              | < 0.0001                              | < 0.0001                              |
-| End of treatment response rate           |                                       |                                       |                                       |                                       |
-| No. of patients included in the analysis | 118                                   | 238                                   | 329                                   | 333                                   |
-| Responders (%)                           | 37 (31.4%)                            | 184 (77.3%)                           | 214 (65.0%)                           | 261 (78.4%)                           |
-| Non-responders (%)                       | 81 (68.6%)                            | 54 (22.7%)                            | 115 (35.0%)                           | 72 (21.6%)                            |
-| Difference in response rate, (95% CI)    | 45.95 [35.6; 56.3]                    | 45.95 [35.6; 56.3]                    | 13.33 [6.4; 20.3]                     | 13.33 [6.4; 20.3]                     |
-| p-value (Chi-squared Test)               | < 0.0001                              | < 0.0001                              | 0.0001                                | 0.0001                                |
-| No. of complete responders c (%)         | 0 (0.0%)                              | 53 (22.3%)                            | 23 (7.0%)                             | 69 (20.7%)                            |
+The most frequently reported coexisting medical conditions (using a cut off of 30% or higher), in the MedDRA body systems are: Vascular disorders (73%), Cardiac disorders (46%), Gastrointestinal
 
 <div style=\"page-break-after: always\"></div>
+
+disorders (38%), Metabolism and nutrition disorders (40%), Renal and urinary disorders (38%), Musculoskeletal and connective tissue disorders (33%).
+
+Efficacy results for patients with previously untreated CLL are summarised in Table 12. Kaplan-Meier curves for progression-free survival (PFS) and Overall Survival (OS) are shown in Figures 1-4.
+
+Table 12 Summary of efficacy from BO21004/CLL11 study
 
 |                                           | Stage 1a                              | Stage 1a                              | Stage 2                               | Stage 2                               |
 |-------------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
 |                                           | Chlorambucil N=118                    | Gazyvaro + chlorambucil N= 238        | Rituximab + chlorambucil N= 330       | Gazyvaro + chlorambucil N= 333        |
 |                                           | 22.8 months median observation time g | 22.8 months median observation time g | 18.7 months median observation time g | 18.7 months median observation time g |
+| Primary endpoint                          |                                       |                                       |                                       |                                       |
+| Investigator-assessed PFS (PFS-INV) a     |                                       |                                       |                                       |                                       |
+| Number (%) of patients with event         | 96 (81.4%)                            | 93 (39.1%)                            | 199 (60.3%)                           | 104 (31.2%)                           |
+| Median time to event (months)             | 11.1                                  | 26.7                                  | 15.2                                  | 26.7                                  |
+| Hazard ratio (95% CI)                     | 0.18 [0.13; 0.24]                     | 0.18 [0.13; 0.24]                     | 0.39 [0.31; 0.49]                     | 0.39 [0.31; 0.49]                     |
+| p-value (Log-Rank test, stratified b )    | < 0.0001                              | < 0.0001                              | < 0.0001                              | < 0.0001                              |
+| Key secondary endpoints                   |                                       |                                       |                                       |                                       |
+| IRC-assessed PFS (PFS-IRC) a              |                                       |                                       |                                       |                                       |
+| Number (%) of patients with event         | 90 (76.3%)                            | 89 (37.4%)                            | 183 (55.5%)                           | 103 (30.9%)                           |
+| Median time to event (months)             | 11.2                                  | 27.2                                  | 14.9                                  | 26.7                                  |
+| Hazard ratio (95% CI)                     | 0.19 [0.14; 0.27]                     | 0.19 [0.14; 0.27]                     | 0.42 [0.33; 0.54]                     | 0.42 [0.33; 0.54]                     |
+| p-value (Log-Rank test, stratified b )    | < 0.0001                              | < 0.0001                              | < 0.0001                              | < 0.0001                              |
+| End of treatment response rate            |                                       |                                       |                                       |                                       |
+| No. of patients included in the analysis  | 118                                   | 238                                   | 329                                   | 333                                   |
+| Responders (%)                            | 37 (31.4%)                            | 184 (77.3%)                           | 214 (65.0%)                           | 261 (78.4%)                           |
+| Non-responders (%)                        | 81 (68.6%)                            | 54 (22.7%)                            | 115 (35.0%)                           | 72 (21.6%)                            |
+| Difference in response rate, (95% CI)     | 45.95 [35.6; 56.3]                    | 45.95 [35.6; 56.3]                    | 13.33 [6.4; 20.3]                     | 13.33 [6.4; 20.3]                     |
+| p-value (Chi-squared Test)                | < 0.0001                              | < 0.0001                              | 0.0001                                | 0.0001                                |
+| No. of complete responders c (%)          | 0 (0.0%)                              | 53 (22.3%)                            | 23 (7.0%)                             | 69 (20.7%)                            |
 | Molecular remission at end of treatment d |                                       |                                       |                                       |                                       |
 | No. of patients included in the analysis  | 90                                    | 168                                   | 244                                   | 239                                   |
-| MRD negative e (%)                        | 0 (0%)                                | 45 (26.8%)                            | 6 (2.5%)                              | 61 (25.5%)                            |
-| MRD positive f (%)                        | 90 (100%)                             | 123 (73.2%)                           | 238 (97.5%)                           | 178 (74.5%)                           |
-| Difference in MRD rates, (95% CI)         | 26.79 [19.5; 34.1]                    | 26.79 [19.5; 34.1]                    | 23.06 [17.0; 29.1]                    | 23.06 [17.0; 29.1]                    |
+| MRDnegative e (%)                         | 0 (0%)                                | 45 (26.8%)                            | 6 (2.5%)                              | 61 (25.5%)                            |
+| MRDpositive f (%)                         | 90 (100%)                             | 123 (73.2%)                           | 238 (97.5%)                           | 178 (74.5%)                           |
+| Difference in MRDrates, (95% CI)          | 26.79 [19.5; 34.1]                    | 26.79 [19.5; 34.1]                    | 23.06 [17.0; 29.1]                    | 23.06 [17.0; 29.1]                    |
 | Event free survival                       |                                       |                                       |                                       |                                       |
 | No. (%) of patients with event            | 103 (87.3%)                           | 104 (43.7%)                           | 208 (63.0 %)                          | 118 (35.4 %)                          |
 | Median time to event (months)             | 10.8                                  | 26.1                                  | 14.3                                  | 26.1                                  |
 | Hazard ratio (95% CI)                     | 0.19 [0.14; 0.25]                     | 0.19 [0.14; 0.25]                     | 0.43 [0.34; 0.54]                     | 0.43 [0.34; 0.54]                     |
 | p-value (Log-Rank test, stratified b )    | < 0.0001                              | < 0.0001                              | < 0.0001                              | < 0.0001                              |
-| Time to new anti-leukaemic therapy        |                                       |                                       |                                       |                                       |
-| No. (%) of patients with event            | 65 (55.1%)                            | 51 (21.4%)                            | 86 (26.1%)                            | 55 (16.5%)                            |
-| Median time to event (months)             | 14.8                                  | NR                                    | 30.8                                  | NR                                    |
-| Hazard ratio (95% CI)                     | 0.24 [0.16; 0.35]                     | 0.24 [0.16; 0.35]                     | 0.59 [0.42; 0.82]                     | 0.59 [0.42; 0.82]                     |
-| p-value (Log-Rank test, stratified b )    | < 0.0001                              | < 0.0001                              | < 0.0018                              | < 0.0018                              |
-| Overall survival                          |                                       |                                       |                                       |                                       |
-| No. (%) of patients with event            | 57 (48.3%)                            | 93 (39.1%)                            | 147 (44.5%)                           | 121 (36.3%)                           |
-| Median time to event (months)             | 66.7                                  | NR                                    | 73.1                                  | NR                                    |
-| Hazard ratio (95% CI)                     | 0.68 [0.49; 0.94]                     | 0.68 [0.49; 0.94]                     | 0.76 [0.60; 0.97]                     | 0.76 [0.60; 0.97]                     |
-| p-value (Log-Rank test, stratified b )    | 0.0196                                | 0.0196                                | 0.0245                                | 0.0245                                |
 
-IRC: Independent Review Committee; PFS: progression-free survival; HR: Hazard Ratio; CI: Confidence Intervals, MRD: Minimal Residual Disease, NR = Not reached
+<div style=\"page-break-after: always\"></div>
 
-a Defined as the time from randomisation to the first occurrence of progression, relapse or death from any cause as assessed by the investigator
+|                                        | Stage 1a                              | Stage 1a                              | Stage 2                               | Stage 2                               |
+|----------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|
+|                                        | Chlorambucil N=118                    | Gazyvaro + chlorambucil N= 238        | Rituximab + chlorambucil N= 330       | Gazyvaro + chlorambucil N= 333        |
+|                                        | 22.8 months median observation time g | 22.8 months median observation time g | 18.7 months median observation time g | 18.7 months median observation time g |
+| Time to new anti-leukaemic therapy     |                                       |                                       |                                       |                                       |
+| No. (%) of patients with event         | 65 (55.1%)                            | 51 (21.4%)                            | 86 (26.1%)                            | 55 (16.5%)                            |
+| Median time to event (months)          | 14.8                                  | NR                                    | 30.8                                  | NR                                    |
+| Hazard ratio (95% CI)                  | 0.24 [0.16; 0.35]                     | 0.24 [0.16; 0.35]                     | 0.59 [0.42; 0.82]                     | 0.59 [0.42; 0.82]                     |
+| p-value (Log-Rank test, stratified b ) | < 0.0001                              | < 0.0001                              | < 0.0018                              | < 0.0018                              |
+| Overall survival                       |                                       |                                       |                                       |                                       |
+| No. (%) of patients with event         | 57 (48.3%)                            | 93 (39.1%)                            | 147 (44.5%)                           | 121 (36.3%)                           |
+| Median time to event (months)          | 66.7                                  | NR                                    | 73.1                                  | NR                                    |
+| Hazard ratio (95% CI)                  | 0.68 [0.49; 0.94]                     | 0.68 [0.49; 0.94]                     | 0.76 [0.60; 0.97]                     | 0.76 [0.60; 0.97]                     |
+| p-value (Log-Rank test, stratified b ) | 0.0196                                | 0.0196                                | 0.0245                                | 0.0245                                |
+
+IRC: Independent Review Committee; PFS: progression-free survival; HR: Hazard Ratio; CI: Confidence Intervals, MRD: Minimal Residual Disease, NR = Not reached a  Defined as the time from randomisation to the first occurrence of progression, relapse or death from any cause as assessed by the investigator
 
 b stratified by Binet stage at baseline
 
@@ -743,7 +913,9 @@ Figure 1 Kaplan-Meier curve of Investigator assessed PFS from Stage 1a in patien
 
 <!-- image -->
 
-Figure 2 Kaplan-Meier curve of OS from Stage 1a in patients with CLL (Study BO21004/CLL11)
+Cl,confidenceinterval;PFS,progression-free survival
+
+Figure 2   Kaplan-Meier curve of OS from Stage 1a in patients with CLL (Study BO21004/CLL11)
 
 <!-- image -->
 
@@ -773,13 +945,13 @@ Health-related quality of life assessments, specific to fatigue through treatmen
 
 In a phase III, open label, multicentre, randomised clinical study (BO21223/GALLIUM), 1202 patients with previously untreated Grade 1-3a advanced (stage II bulky disease, stage III/IV) FL were evaluated. Patients with FL Grade 3b were excluded from the study. Patients were randomised to 1:1 to receive either Gazyvaro (n=601 patients) or rituximab (n=601 patients) in combination with chemotherapy (bendamustine, CHOP or CVP), followed by Gazyvaro or rituximab maintenance in patients achieving a complete or partial response.
 
-Gazyvaro was given by intravenous infusion as a dose of 1,000 mg on Days 1, 8 and 15 of Cycle 1, on Day 1 of subsequent cycles. In total, six cycles of Gazyvaro (every 28 days) were given in combination with six cycles of bendamustine, and a total of eight cycles of Gazyvaro (every 21 days) were given in combination with six cycles of CHOP or eight cycles of CVP. Gazyvaro was administered prior to chemotherapy. Bendamustine was given intravenously on Days 1 and 2 for all treatment cycles (Cycles 1-6) at 90 mg/m 2 /day when given in combination with Gazyvaro. Standard dosing of CHOP and CVP was given. Following Cycles 6-8, in combination with chemotherapy, responding patients received Gazyvaro maintenance therapy every 2 months until disease progression or for up to 2 years .
+Gazyvaro was given by intravenous infusion as a dose of 1 000 mg on Days 1, 8 and 15 of Cycle 1, on Day 1 of subsequent cycles. In total, six cycles of Gazyvaro (every 28 days) were given in combination with six cycles of bendamustine, and a total of eight cycles of Gazyvaro (every 21 days) were given in combination with six cycles of CHOP or eight cycles of CVP. Gazyvaro was administered prior to chemotherapy. Bendamustine was given intravenously on Days 1 and 2 for all treatment cycles (Cycles 1-6) at 90 mg/m 2 /day when given in combination with Gazyvaro. Standard dosing of CHOP and CVP was given. Following Cycles 6-8, in combination with chemotherapy, responding patients received Gazyvaro maintenance therapy every 2 months until disease progression or for up to 2 years .
 
 The demographic data and baseline characteristics of the patient population were well balanced between the treatment arms; median age was 59 years, 81% were Caucasian, 53% were female, 79% had a FLIPI score of ≥ 2 and 7% had Stage II (bulky), 35% had Stage III and 57% had Stage IV disease, 44% had bulky disease (&gt; 7 cm), 34% had at least one B-symptom at baseline and 97% had an ECOG performance status of 0-1 at baseline. Fifty-seven percent received bendamustine, 33% received CHOP, and 10% received CVP chemotherapy .
 
-Efficacy results for patients with previously untreated FL are summarised in Table 10. Kaplan-Meier curves for progression-free survival (PFS) are shown in Figure 5.
+Efficacy results for patients with previously untreated FL are summarised in Table 13. Kaplan-Meier curves for progression-free survival (PFS) are shown in Figure 5.
 
-Table 10 Summary of efficacy in patients with previously untreated FL from BO21223/ GALLIUM study
+Table 13 Summary of efficacy in patients with previously untreated FL from BO21223/ GALLIUM study
 
 |                                                        | Rituximab + Chemotherapy followed by rituximab maintenance N=601   | Gazyvaro +Chemotherapy followed by Gazyvaro maintenance N=601   |
 |--------------------------------------------------------|--------------------------------------------------------------------|-----------------------------------------------------------------|
@@ -831,97 +1003,104 @@ Table 10 Summary of efficacy in patients with previously untreated FL from BO212
 | Complete Response (CR)                                                              | 143 (23.8%)                                                        | 117 (19.5%)                                                     |
 | Partial Response (PR)                                                               | 379 (63.1%)                                                        | 415 (69.1%)                                                     |
 
-- IRC: Independent Review Committee; PFS: progression-free survival; HR: Hazard Ratio; CI: Confidence Interval
+IRC: Independent Review Committee; PFS: progression-free survival; HR: Hazard Ratio; CI: Confidence Interval
 
 * Stratification factors were chemotherapy regimen, FLIPI risk group for follicular lymphoma, geographic region
 
-§ Significance level at this efficacy interim analysis/primary analysis: 0.012, data cut-off 31 January 2016, median observation time 34/35 months
+§  Significance level at this efficacy interim analysis/primary analysis: 0.012, data cut-off 31 January 2016, median observation time 34/35 months
 
 §§  Final analysis, data cut-off 30 July 2021, median observation time 94 months
 
-¶  Data Not Yet Mature. Median was not reached at time of analysis
-
-# not adjusted for multiplicity
+¶  Data Not Yet Mature. Median was not reached at time of analysis # not adjusted for multiplicity
 
 **Assessed as per modified Cheson 2007 criteria
 
-- ‡  End of Induction = end of induction phase, does not include monotherapy maintenance
+‡ End of Induction = end of induction phase, does not include monotherapy maintenance
 
-Figure 5 Kaplan-Meier curve of INV-assessed progression-free survival in patients with previously untreated FL (Study BO21223/GALLIUM), final analysis*
+Figure 5   Kaplan-Meier curve of INV-assessed progression-free survival in patients with previously untreated FL (Study BO21223/GALLIUM), final analysis*
 
 <!-- image -->
 
+R-Chemo: Rituximab plus chemotherapy, G-Chemo: Gazyvaro plus chemotherapy, HR: hazard ratio, CI: confidence interval                *Final analysis, data cut-off 30 July 2021, median observation time 94 months
+
 ## Results of subgroup analyses
 
-Results of subgroup analyses (not adjusted for multiplicity) were, in general, consistent with the results seen in the FL population, supporting the robustness of the overall result (primary analysis, data cut-off 31 January 2016). The subgroups evaluated included IPI, FLIPI, Bulky Disease, B Symptoms at baseline, Ann Arbor Stage and ECOG at baseline. In patients with FLIPI score 0-1 (low
+Results of subgroup analyses (not adjusted for multiplicity) were, in general, consistent with the results seen in the FL population, supporting the robustness of the overall result (primary analysis, data cut-off 31 January 2016). The subgroups evaluated included IPI, FLIPI, Bulky Disease, B Symptoms at baseline, Ann Arbor Stage and ECOG at baseline. In patients with FLIPI score 0-1 (low risk), no difference between Gazyvaro plus chemotherapy and rituximab plus chemotherapy was
 
 <div style=\"page-break-after: always\"></div>
 
-risk), no difference between Gazyvaro plus chemotherapy and rituximab plus chemotherapy was observed (INV-assessed PFS HR 1.17 (95%CI 0.63;2.19, 40 PFS events).  This subgroupcomprised 21% (253/1202) of the FL ITT  population and  experienced 16.3% (40/245) of the PFS events. In addition, exploratory subgroup analyses of PFS across chemotherapy regimens (bendamustine, CHOP and CVP) were consistent with the results seen in the Gazyvaro plus chemotherapy population. The observed HRs by chemotherapy subgroup were as follows; CHOP (n = 398): HR 0.77 (95% CI: 0.50, 1.20), CVP (n = 118): HR 0.63 (95% CI: 0.32, 1.21), and bendamustine (n = 686): HR 0.61 (95% CI: 0.43, 0.86).
+observed (INV-assessed PFS HR 1.17 (95%CI 0.63;2.19, 40 PFS events).  This subgroup comprised 21% (253/1202) of the FL ITT population and experienced 16.3% (40/245) of the PFS events. In addition, exploratory subgroup analyses of PFS across chemotherapy regimens (bendamustine, CHOP and CVP) were consistent with the results seen in the Gazyvaro plus chemotherapy population. The observed HRs by chemotherapy subgroup were as follows; CHOP (n  398): HR 0.77 (95% CI: 0.50, 1.20), CVP (n  118): HR 0.63 (95% CI: 0.32, 1.21), and bendamustine (n  686): HR 0.61 (95% CI: 0.43, 0.86).
 
 ## Patient Reported Outcomes
 
-Based on the FACT-Lym questionnaire collected during treatment and follow-up phases, patients in both treatment arms experienced clinically meaningful improvements in lymphoma-related symptoms as defined by a ≥ 3 point increase from baseline in the Lymphoma subscale, a ≥ 6 point increase from baseline in the FACT Lym TOI and a ≥ 7 point increase from baseline in the FACT Lym Total score. EQ-5D utility scores were similar at baseline, during treatment and follow-up. No meaningful differences were seen between the arms in HRQOL or health status measures.
+Based on the FACT-Lym questionnaire collected during treatment and follow-up phases, patients in both treatment arms experienced clinically meaningful improvements in lymphoma-related symptoms as defined by a  3 point increase from baseline in the Lymphoma subscale, a  6 point increase from baseline in the FACT Lym TOI and a  7 point increase from baseline in the FACT Lym Total score. EQ-5D utility scores were similar at baseline, during treatment and follow-up. No meaningful differences were seen between the arms in HRQOL or health status measures.
 
 Due to the open label design the patient reported outcomes should be interpreted with caution.
 
 ## Patients with follicular lymphoma who did not respond or who progressed during or up to 6 months after treatment with rituximab or a rituximab-containing regimen (study GAO4753g/GADOLIN).
 
-In a phase III, open label, multicentre, randomised clinical study (GAO4753g/GADOLIN), 396 patients with iNHL who had no response during treatment or who progressed within 6 months following the last dose of rituximab or a rituximab-containing regimen (including rituximab monotherapy as part of induction or maintenance treatment) were evaluated. Patients were randomised 1:1 to receive either bendamustine (B) alone (n = 202) or Gazyvaro in combination with bendamustine (G+B) (n = 194) for 6 cycles, each of 28 days duration. Patients in the G+B arm who did not have disease progression (i.e. patients with a complete response (CR), partial response (PR) or stable disease (SD)) at the end of induction continued receiving Gazyvaro maintenance once every two months for two years or until disease progression (whichever occurred first). Patients were stratified according to region, iNHL subtype (follicular versus non-follicular), rituximab-refractory type (whether refractory to prior rituximab monotherapy or rituximab in combination with chemotherapy) and the number of prior therapies (≤ 2 versus &gt; 2).
+In a phase III, open label, multicentre, randomised clinical study (GAO4753g/GADOLIN), 396 patients with iNHL who had no response during treatment or who progressed within 6 months following the last dose of rituximab or a rituximab-containing regimen (including rituximab monotherapy as part of induction or maintenance treatment) were evaluated. Patients were randomised 1:1 to receive either bendamustine (B) alone (n = 202) or Gazyvaro in combination with bendamustine (G+B) (n = 194) for 6 cycles, each of 28 days duration. Patients in the G+B arm who did not have disease progression (i.e. patients with a complete response (CR), partial response (PR) or stable disease (SD)) at the end of induction continued receiving Gazyvaro maintenance once every two months for two years or until disease progression (whichever occurred first). Patients were stratified according to region, iNHL subtype (follicular versus non-follicular), rituximab-refractory type (whether refractory to prior rituximab monotherapy or rituximab in combination with chemotherapy) and the number of prior therapie s (≤ 2 versus &gt; 2).
 
 The demographic data and baseline characteristics were well balanced between the treatment arms (median age 63 years, the majority were Caucasian [88%] and male [58%]). The majority of patients had follicular lymphoma (81%). The median time from initial diagnosis was 3 years and the median number of prior therapies was 2 (range 1 to 10); 44% of patients had received 1 prior therapy and 34% of patients had received 2 prior therapies.
 
-Gazyvaro was given by intravenous infusion as a dose of 1,000 mg on Days 1, 8 and 15 of Cycle 1, on Day 1 of Cycles 2-6, and in patients who did not have disease progression, once every two months for two years or until disease progression (whichever occurs first). Bendamustine was given intravenously on Days 1 and 2 for all treatment cycles (Cycles 1-6) at 90 mg/m 2 /day when given in combination with Gazyvaro or 120 mg/m 2 /day when given alone. In patients treated with G+ B, 79.4% received all six treatment cycles compared to 66.7% of patients in the B arm.
+Gazyvaro was given by intravenous infusion as a dose of 1 000 mg on Days 1, 8 and 15 of Cycle 1, on Day 1 of Cycles 2-6, and in patients who did not have disease progression, once every two months for two years or until disease progression (whichever occurs first). Bendamustine was given intravenously on Days 1 and 2 for all treatment cycles (Cycles 1-6) at 90 mg/m 2 /day when given in combination with Gazyvaro or 120 mg/m 2 /day when given alone. In patients treated with G+ B, 79.4% received all six treatment cycles compared to 66.7% of patients in the B arm.
 
 The primary analysis, based on independent Review Committee (IRC) assessment demonstrated a statistically significant - 45% reduction in the risk of disease progression or death, in patients with iNHL receiving G+B followed by Gazyvaro maintenance, compared with patients receiving bendamustine alone. The reduction in the risk of disease progression or death seen in the iNHL population is driven by the subset of patients with FL.
 
-The majority of the patients in study GAO4753g had FL (81.1%). Efficacy results from the primary analysis in the FL population are shown in Table 11 and Figures 6 and 8. 11.6% of the patients had
-
 <div style=\"page-break-after: always\"></div>
 
-marginal zone lymphoma (MZL) and 7.1% had small lymphocytic lymphoma (SLL). In the non-FL population the HR for IRC-assessed PFS was 0.94 [95% CI: 0.49, 1.90].  No definitive conclusions could be drawn on efficacy in the MZL and SLL sub-populations.
+The majority of the patients in study GAO4753g had FL (81.1%). Efficacy results from the primary analysis in the FL population are shown in Table 14 and Figures 6 and 8. 11.6% of the patients had marginal zone lymphoma (MZL) and 7.1% had small lymphocytic lymphoma (SLL). In the non-FL population the HR for IRC-assessed PFS was 0.94 [95% CI: 0.49, 1.90].  No definitive conclusions could be drawn on efficacy in the MZL and SLL sub-populations.
 
 At final analysis, the median observation time was 45.9 months (range: 0-100.9 months) for FL patients in the B arm and 57.3 months (range: 0.4-97.6 months) for patients in the G+B arm, representing an additional 25.6 months and 35.2 months of median follow-up in B and G+B arms, respectively, since the primary analysis. Only Investigator (INV) assessed endpoints were reported at final analysis since IRC assessments did not continue. Overall, the investigator assessed efficacy results were consistent with what was observed in the primary analysis. The overall survival (OS) in patients with FL was stable with longer follow-up (see Figure 7); the HR for risk of death was 0.71 (95%CI: 0.51, 0.98).
 
-Table 11 Summary of primary efficacy analysis in patients with FL # from GAO4753g/GADOLIN study
+## Table 14 Summary of primary efficacy analysis in patients with FL # from GAO4753g/GADOLIN study
 
-|                                                                                    | Bendamustine N=166                 | Gazyvaro + Bendamustine followed by Gazyvaro maintenance N=155   |
-|------------------------------------------------------------------------------------|------------------------------------|------------------------------------------------------------------|
-|                                                                                    | Median observation time: 20 months | Median observation time: 22 months                               |
-| Primary Endpoint in FL population IRC-assessed PFS (PFS-IRC)                       |                                    |                                                                  |
-| Number (%) of patients with event                                                  | 90 (54.2%)                         | 54 (34.8%)                                                       |
-| Median time to event (months, 95% CI)                                              | 13.8 (11.4, 16.2)                  | NR (22.5,-)                                                      |
-| HR (95% CI)                                                                        | 0.48 (0.34, 0.68)                  | 0.48 (0.34, 0.68)                                                |
-| p-value (Log-Rank test, stratified*)                                               | < 0.0001                           | < 0.0001                                                         |
-| Secondary Endpoints                                                                |                                    |                                                                  |
-| Number (%) of patients with event                                                  | 102 (61.4%)                        | 62 (40.0%)                                                       |
-| Median time to event (months, 95% CI)                                              | 13.7 (11.0, 15.5)                  | 29.2 (17.5,-)                                                    |
-| HR (95% CI)                                                                        | 0.48 (0.35, 0.67)                  | 0.48 (0.35, 0.67)                                                |
-| p-value (Log-Rank test, stratified*)                                               | < 0.0001                           | < 0.0001                                                         |
-| Best Overall Response (BOR) (IRC-assessed) §                                       |                                    |                                                                  |
-| No. of patients included in the analysis                                           | 161                                | 153                                                              |
-| Responders (%) (CR/PR)                                                             | 124 (77.0%)                        | 122 (79.7%)                                                      |
-| Difference in response rate (95% CI)                                               | 2.72 (-6.74, 12.18)                | 2.72 (-6.74, 12.18)                                              |
-| p-value (Cochran-Mantel-Haenszel test)                                             | 0.6142                             | 0.6142                                                           |
-| Complete Responders (%)                                                            | 31 (19.3%)                         | 24 (15.7%)                                                       |
-| Partial Responders (%)                                                             | 93 (57.8%)                         | 98 (64.1%)                                                       |
-| Stable Disease (%)                                                                 | 18 (11.2%)                         | 13 (8.5%)                                                        |
-| Duration of response (DOR) (IRC- assessed) No of patients included in the analysis | 127                                | 122                                                              |
+|                                                              | Bendamustine N=166                 | Gazyvaro + Bendamustine followed by Gazyvaro maintenance N=155   |
+|--------------------------------------------------------------|------------------------------------|------------------------------------------------------------------|
+|                                                              | Median observation time: 20 months | Median observation time: 22 months                               |
+| Primary Endpoint in FL population IRC-assessed PFS (PFS-IRC) |                                    |                                                                  |
+| Number (%) of patients with event                            | 90 (54.2%)                         | 54 (34.8%)                                                       |
+| Median time to event (months, 95% CI)                        | 13.8 (11.4, 16.2)                  | NR (22.5,-)                                                      |
+| HR (95% CI)                                                  | 0.48 (0.34, 0.68)                  | 0.48 (0.34, 0.68)                                                |
+| p-value (Log-Rank test, stratified*)                         | < 0.0001                           | < 0.0001                                                         |
+| Secondary Endpoints                                          |                                    |                                                                  |
+| Number (%) of patients with event                            | 102 (61.4%)                        | 62 (40.0%)                                                       |
+| Median time to event (months, 95% CI)                        | 13.7 (11.0, 15.5)                  | 29.2 (17.5,-)                                                    |
+| HR (95% CI)                                                  | 0.48 (0.35, 0.67)                  | 0.48 (0.35, 0.67)                                                |
+| p-value (Log-Rank test, stratified*)                         | < 0.0001                           | < 0.0001                                                         |
+| Best Overall Response (BOR) (IRC-assessed) §                 |                                    |                                                                  |
+| No. of patients included in the analysis                     | 161                                | 153                                                              |
+| Responders (%) (CR/PR)                                       | 124 (77.0%)                        | 122 (79.7%)                                                      |
+| Difference in response rate (95% CI)                         | 2.72 (-6.74, 12.18)                | 2.72 (-6.74, 12.18)                                              |
+| p-value (Cochran-Mantel-Haenszel test)                       | 0.6142                             | 0.6142                                                           |
+| Complete Responders (%)                                      | 31 (19.3%)                         | 24 (15.7%)                                                       |
+| Partial Responders (%)                                       | 93 (57.8%)                         | 98 (64.1%)                                                       |
+| Stable Disease (%)                                           | 18 (11.2%)                         | 13 (8.5%)                                                        |
 
 <div style=\"page-break-after: always\"></div>
 
-|                                          | Bendamustine N=166 Median observation time: 20 months   | Gazyvaro + Bendamustine followed by Gazyvaro maintenance N=155 Median observation time: 22 months   |
-|------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| No. (%) of patients with event           | 74 (58.3%)                                              | 36 (29.5%)                                                                                          |
-| Median duration (months) of DOR (95% CI) | 11.9 (8.8, 13.6)                                        | NR (25.4,-)                                                                                         |
-| HR (95% CI)                              | 0.36 (0.24, 0.54)                                       | 0.36 (0.24, 0.54)                                                                                   |
-| Overall Survival                         |                                                         |                                                                                                     |
-| No. (%) of patients with event           | 36 (21.7%)                                              | 25 (16.1%)                                                                                          |
-| Median time to event (months)            | NR                                                      | NR                                                                                                  |
-| HR (95% CI)                              | 0.71 (0.43, 1.19)                                       | 0.71 (0.43, 1.19)                                                                                   |
-| p-value (Log-Rank test, stratified*)     | 0.1976                                                  | 0.1976                                                                                              |
+|                                           | Bendamustine N=166 Median observation time: 20 months   | Gazyvaro + Bendamustine followed by Gazyvaro maintenance N=155 Median observation time: 22 months   |
+|-------------------------------------------|---------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Duration of response (DOR) (IRC-assessed) |                                                         |                                                                                                     |
+| No of patients included in the analysis   | 127                                                     | 122                                                                                                 |
+| No. (%) of patients with event            | 74 (58.3%)                                              | 36 (29.5%)                                                                                          |
+| Median duration (months) of DOR (95% CI)  | 11.9 (8.8, 13.6)                                        | NR (25.4,-)                                                                                         |
+| HR (95% CI)                               | 0.36 (0.24, 0.54)                                       | 0.36 (0.24, 0.54)                                                                                   |
+| Overall Survival                          |                                                         |                                                                                                     |
+| No. (%) of patients with event            | 36 (21.7%)                                              | 25 (16.1%)                                                                                          |
+| Median time to event (months)             | NR                                                      | NR                                                                                                  |
+| HR (95% CI)                               | 0.71 (0.43, 1.19)                                       | 0.71 (0.43, 1.19)                                                                                   |
+| p-value (Log-Rank test, stratified*)      | 0.1976                                                  | 0.1976                                                                                              |
 
-Figure 6 Kaplan-Meier curve of IRC-assessed PFS in patients with FL  # (Study GAO4753g/GADOLIN)
+IRC: Independent Review Committee; PFS: progression-free survival; HR: Hazard Ratio; CI: Confidence Intervals, NR = Not Reached
+
+#  Patients with FL who did not respond or who progressed during or up to 6 months after treatment with rituximab or a rituximab-containing regimen
+
+*Stratification factors for analysis were refractory type (rituximab monotherapy vs. rituximab + chemotherapy) and prior therapies ( ≤ 2 vs &gt; 2). Follicular versus non-follicular was also a stratification factor for the study but is not applicable in the subgroup analysis of patients with FL.
+
+§ Best response within 12 months of start of treatment
+
+Figure 6 Kaplan-Meier curve of IRC-assessed PFS in patients with FL  #  (Study GAO4753g/GADOLIN)
 
 <!-- image -->
 
@@ -933,47 +1112,47 @@ Figure 7 Kaplan-Meier curve of Overall Survival in FL patients at Final Analysis
 
 B,bendamustine; G-B,obinutuzumab plus bendamustine;HR,hazard ratio;NE,not estimated
 
-Results of subgroup analyses
+## Results of subgroup analyses
 
 Results of subgroup analyses were in general consistent with the results seen in the FL population, supporting the robustness of the overall result.
 
 <div style=\"page-break-after: always\"></div>
 
-Figure 8 IRC-assessed PFS by patient subgroup in FL * #  (Study GAO4753g/GADOLIN)
+## Figure 8 IRC-assessed PFS by patient subgroup in FL * #  (Study GAO4753g/GADOLIN)
 
-|                                  |       | B (n =166)   | B (n =166)    | B (n =166)   | G-B (n = 155)   | G-B (n = 155)   | G-B (n = 155)   |      |              |         |         |
-|----------------------------------|-------|--------------|---------------|--------------|-----------------|-----------------|-----------------|------|--------------|---------|---------|
-| Baseline factors                 | Total |              | Events KMrate | 1-year       | n               |                 | 1-year          | HR   | 95% Wald     | Favours | Favours |
-|                                  | n     | n            |               |              |                 |                 |                 |      | CI           | G-B     | B       |
-| All patients                     | 321   | 166          | 90            | 54.888       | 155             | 54              | 69.219          | 0.49 | (0.35, 0.68) |         |         |
-| Sex                              |       |              |               |              |                 |                 |                 |      |              |         |         |
-| Male                             | 180   | 95           | 47            | 55.028       | 85              | 28              | 72.507          | 0.49 | (0.30,0.78)  |         |         |
-| Female                           | 141   | 71           | 43            | 54.593       | 70              | 26              | 65.083          | 0.50 | (0.31, 0.82) |         |         |
-| BulkydiseaseatBL(6cmthreshold)   |       |              |               |              |                 |                 |                 |      |              |         |         |
-| Yes                              | 107   | 58           | 33            | 53.774       | 49              | 17              | 69.568          | 0.51 | (0.28, 0.91) |         |         |
-| No                               | 212   | 106          | 57            | 55.515       | 106             | 37              | 69.113          | 0.48 | (0.32, 0.74) |         |         |
-| B symptoms (21) at BL            |       |              |               |              |                 |                 |                 |      |              |         |         |
-| Yes                              | 47    | 27           | 16            | 54.444       | 20              | 7               | 68.177          | 0.55 | (0.22,1.34)  |         |         |
-| No                               | 271   | 137          | 73            | 55.366       | 134             | 47              | 69.376          | 0.49 | (0.34, 0.70) |         |         |
-| ECOG at BL                       |       |              |               |              |                 |                 |                 |      |              |         |         |
-| 0-1                              | 304   | 157          | 85            | 55.820       | 147             | 50              | 70.512          | 0.47 | (0.33, 0.67) |         |         |
-| 2                                | 15    | 7            | 4             | 41.667       | 8               | 4               | 50.000          | 1.02 | (0.25, 4.17) |         |         |
-| No.of prior therapies            |       |              |               |              |                 |                 |                 |      |              |         |         |
-| ≤2                               | 255   | 130          | 74            | 55.100       | 125             | 41              | 69.826          | 0.43 | (0.29,0.63)  |         |         |
-| >2                               | 66    | 36           | 16            | 54.092       | 30              | 13              | 65.660          | 0.82 | (0.39,1.72)  |         |         |
-| Refractoryto                     |       |              |               |              |                 |                 |                 |      |              |         |         |
-| R-mono                           | 64    | 39           | 20            | 63.982       | 25              | 8               | 82.143          | 0.34 | (0.15, 0.80) |         |         |
-| R-chemo induction                | 120   | 64           | 34            | 48.448       | 56              | 20              | 72.098          | 0.50 | (0.28, 0.87) |         |         |
-| R-maintenanceafterchemoinduction | 133   | 62           | 35            | 56.561       | 71              | 26              | 60.648          | 0.58 | (0.35, 0.97) |         |         |
-| Doublerefractorystatus           |       |              |               |              |                 |                 |                 |      |              |         |         |
-| Yes                              | 252   | 133          | 73            | 51.224       | 119             | 42              | 67.441          | 0.51 | (0.34, 0.74) |         |         |
-| No                               | 69    | 33           | 17            | 69.156       | 36              | 12              | 74.829          | 0.43 | (0.20, 0.91) |         |         |
+|                                  |         | B (n=166)   | B (n=166)   | B (n=166)           | G-B (n=155）   | G-B (n=155）   | G-B (n=155）   |      |             |         |         |
+|----------------------------------|---------|-------------|-------------|---------------------|---------------|---------------|---------------|------|-------------|---------|---------|
+| Baselinefactors                  | Total n | n           |             | 1-year EventsKMrate |               |               | 1-year KMrate | HR   | 95%Wald     | Favours | Favours |
+|                                  |         |             |             |                     | n             |               |               |      | CI          | G-B     | B       |
+| All patients                     | 321     | 166         | 90          | 54.888              | 155           | 54            | 69.219        | 0.49 | (0.35,0.68) | H       |         |
+| Sex                              |         |             |             |                     |               |               |               |      |             |         |         |
+| Male                             | 180     | 95          | 47          | 55.028              | 85            | 28            | 72.507        | 0.49 | (0.30,0.78) | 一       |         |
+| Female                           | 141     | 71          | 43          | 54.593              | 70            | 26            | 65.083        | 0.50 | (0.31,0.82) |         |         |
+| BulkydiseaseatBL(6cmthreshold)   |         |             |             |                     |               |               |               |      |             |         |         |
+| Yes                              | 107     | 58          | 33          | 53.774              | 49            | 17            | 69.568        | 0.51 | (0.28,0.91) |         |         |
+| No                               | 212     | 106         | 57          | 55.515              | 106           | 37            | 69.113        | 0.48 | (0.32,0.74) |         |         |
+| Bsymptoms(21)atBL                |         |             |             |                     |               |               |               |      |             |         |         |
+| Yes                              | 47      | 27          | 16          | 54.444              | 20            | 7             | 68.177        | 0.55 | (0.22,1.34) |         |         |
+| No                               | 271     | 137         | 73          | 55.366              | 134           | 47            | 69.376        | 0.49 | (0.34,0.70) |         |         |
+| ECOG atBL                        |         |             |             |                     |               |               |               |      |             |         |         |
+| 0-1                              | 304     | 157         | 85          | 55.820              | 147           | 50            | 70.512        | 0.47 | (0.33,0.67) |         |         |
+| 2                                | 15      | 7           | 4           | 41.667              | 8             | 4             | 50.000        | 1.02 | (0.25,4.17) |         |         |
+| No.ofpriortherapies              |         |             |             |                     |               |               |               |      |             |         |         |
+| ≤2                               | 255     | 130         | 74          | 55.100              | 125           | 41            | 69.826        | 0.43 | (0.29,0.63) |         |         |
+| >2                               | 66      | 36          | 16          | 54.092              | 30            | 13            | 65.660        | 0.82 | (0.39,1.72) |         |         |
+| Refractoryto                     |         |             |             |                     |               |               |               |      |             |         |         |
+| R-mono                           | 64      | 39          | 20          | 63.982              | 25            | 8             | 82.143        | 0.34 | (0.15,0.80) |         |         |
+| R-chemo induction                | 120     | 64          | 34          | 48.448              | 56            | 20            | 72.098        | 0.50 | (0.28,0.87) |         |         |
+| R-maintenanceafterchemoinduction | 133     | 62          | 35          | 56.561              | 71            | 26            | 60.648        | 0.58 | (0.35,0.97) |         |         |
+| Doublerefractorystatus           |         |             |             |                     |               |               |               |      |             |         |         |
+| Yes                              | 252     | 133         | 73          | 51.224              | 119           | 42            | 67.441        | 0.51 | (0.34,0.74) |         |         |
+| No                               | 69      | 33          | 17          | 69.156              | 36            | 12            | 74.829        | 0.43 | (0.20,0.91) |         |         |
 
-UnstratifiedHRisdisplayed.X-axiswithlogarithmicscale.
+Unstratified HRisdisplayed.X-axiswithlogarithmicscale.
 
-G-B,obinutuzumabplusbendamustine;HR,hazardratio;KM,Kaplan-Meier;R-chemo,rituximabpluschemotherapy;
+G-B,obinutuzumabplusbendamustine;HR,hazardratio;KM,Kaplan-Meier;R-chemo,rituximabpluschemotherapy:
 
-B,bendamustine;BL,baseline;chemo,chemotherapy;Cl,confidenceinterval;ECoG，EastemCooperativeOncologyGroup;
+B,bendamustine;BL,baseline;chemo,chemotherapy:Cl,confidence interval;ECOG,EastemCooperativeOncologyGroup;
 
 R-maintenance,rituximabmaintenance;R-mono,rituximabmonotherapy
 
@@ -981,17 +1160,69 @@ R-maintenance,rituximabmaintenance;R-mono,rituximabmonotherapy
 
 #  Patients with FL who did not respond or who progressed during or up to 6 months after treatment with rituximab or a rituximab-containing regimen
 
-Short Duration Infusion Study MO40597 (GAZELLE)
+## Short Duration Infusion Study MO40597 (GAZELLE)
 
 The safety of short (approximately 90 minutes) duration infusion (SDI) of obinutuzumab administered in combination with CHOP, CVP or bendamustine chemotherapy was evaluated in a multicenter, open-label, single arm study in 113 patients with previously untreated advanced follicular lymphoma (Study MO40597/GAZELLE).
 
 Patients received the first cycle of obinutuzumab at the standard infusion rate on Day 1, 8, and 15 of Cycle 1. Patients who did not experience any Grade ≥3 IRRs during the first cycle received SDI from Cycle 2 onwards.
 
-The primary endpoint of the study was the proportion of patients who experienced a Grade ≥3 IRR associated with SDI during Cycle 2, among those who had previously received 3 administrations of obinutuzumab at the standard infusion rate during Cycle 1 without experiencing a Grade ≥3 IRR. No Grade ≥3 IRRs were observed among patients receiving SDI at Cycle 2. After Cycle 2 only one patient experienced a Grade 3 IRR (hypertension at Cycle 5). See section 4.8 Undesirable Effects.
+The primary endpoint of the study was the proportion of patients who experienced a Grade ≥3 IRR associated with SDI during Cycle 2, among those who had previously received 3 administrations of obinutuzumab at the standard infusion rate during Cycle 1 witho ut experiencing a Grade ≥3 IRR. No Grade ≥3 IRRs were observed among patients receiving SDI at Cycle 2. After Cycle 2 only one patient experienced a Grade 3 IRR (hypertension at Cycle 5). See section 4.8 Undesirable Effects.
 
 ## Patient-reported Outcomes
 
-Due to the open label design the patient reported outcomes should be interpreted with caution. Based on the FACT-Lym questionnaire and EQ-5D index scale collected during the treatment and during follow-up periods, health-related quality of life was generally maintained in the pivotal study with no meaningful difference between the arms. However, in patients with FL the addition of Gazyvaro to bendamustine delayed the time to worsening of health-related quality of life as measured by the FACT-Lym TOI score by 2.2 months (median 5.6 versus 7.8 months for B and G+B respectively HR = 0.83; 95% CI: 0.60, 1.13).
+Due to the open label design the patient reported outcomes should be interpreted with caution. Based on the FACT-Lym questionnaire and EQ-5D index scale collected during the treatment and during follow-up periods, health-related quality of life was generally maintained in the pivotal study with no meaningful difference between the arms. However, in patients with FL the addition of Gazyvaro to bendamustine delayed the time to worsening of health-related quality of life as measured by the FACT-Lym TOI score by 2.2 months (median 5.6 versus 7.8 months for B and G+B respectively HR  0.83; 95% CI: 0.60, 1.13).
+
+<div style=\"page-break-after: always\"></div>
+
+## Lupus nephritis
+
+A Phase III, randomised, double-blind, placebo-controlled, parallel-group, multicentre study (CA41705/REGENCY) was conducted in patients with ISN/RPS 2003 Class III or IV, with or without concomitant Class V, lupus nephritis, treated with standard therapy consisting of mycophenolate mofetil (MMF) and corticosteroids.
+
+Patients had active or active/chronic ISN/RPS 2003 Class III or IV, with or without concomitant Class V proliferative LN determined by kidney biopsy, current or past positive antinuclear antibody (ANA), urine protein-tocreatinine ratio (UPCR) ≥ 1 g/g, and had received at least one dose of pulse methylprednisolone IV (≥ 250 mg) or equivalent treatment for LN during the 6 months prior to screening or during screening.
+
+Patients with eGFR &lt;30 ml/min/1.73 m 2  or in need of dialysis or transplantation, with sclerosis in &gt; 50% of glomeruli on kidney biopsy, presence of rapidly progressive glomerulonephritis, evidence of active infection, receipt of anti-CD20 therapy &lt; 9 months before or during screening, or receipt of cyclophosphamide, tacrolimus, ciclosporin, or voclosporin within 2 months of or during screening were excluded.
+
+A total of 271 patients were randomised 1:1 to receive Gazyvaro 1 000 mg or placebo intravenously, in combination with MMF 2-2.5 g/day and a tapering course of corticosteroids, and were evaluated over 76 weeks. Patients randomised to receive Gazyvaro were further randomised in a 1:1 ratio to receive either Gazyvaro 1 000 mg IV on Day 1, Weeks 2, 24, 26, 50, and 52 (Arm 1) or Gazyvaro 1 000 mg IV on Day 1, Weeks 2, 24, 26, and 52 (Arm 2). The totality of the Gazyvaro efficacy data combining both treatment arms is shown on Table 15.
+
+All patients received oral prednisone 0.5 mg/kg/day (maximum 60 mg/day) and remained at this dose until Week 2. Beginning on Day 15, prednisone was tapered to achieve a target dose of 5 mg/day by Week 24. Prednisone was maintained at a low dose (5 mg/day) from Week 24 until Week 80.
+
+The median age of patients was 31 years; 84.5% were female, 57.6% were Hispanic or Latino, 47.6% were White, 14.8% were Black or African American. The distribution by kidney biopsy class was 39.5% Class III, 60.5% Class IV and 31.4% had concomitant Class V. Mean (SD) eGFR at baseline 102.3 (±30.8) mL/min/1.73 m 2 . Mean (SD) UPCR at baseline was 3.34 (±2.87) mg/mg with 42.2% of patients exhibiting UPCR ≥ 3 mg/mg at baseline. At baseline, 17% of patients had mild (eGFR 60 - &lt;90 mL/min/1.73m 2 ) and 11.4% had moderate (eGFR 30 - &lt;60 mL/min/1.73m 2 ) renal impairment.
+
+The primary outcome measure was proportion of patients who achieved complete renal response (CRR) at Week 76, defined as meeting all of the following criteria: UPCR &lt; 0.5 g/g; estimated glomerular filtration rate (eGFR) ≥ 85% of baseline, as calculated using the 2009 Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equation; with no occurrence of the following intercurrent events: rescue therapy, treatment failure, death or early study withdrawal.
+
+Key secondary outcome measures included: proportion of patients who achieved CRR with successful prednisone taper at Week 76, proportion of patients who achieved a proteinuric response at Week 76 and proportion of patients who experience death or kidney-related events through Week 76.
+
+## Results
+
+The proportion of patients with lupus nephritis achieving CRR at Week 76 was significantly greater (46.4%) in patients treated with Gazyvaro in combination with standard therapy compared to patients who received placebo plus standard therapy (33.1%). Efficacy results are summarised in Table 15.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 15 Efficacy results in adults with lupus nephritis (REGENCY/CA41705)
+
+|                                                       | Placebo + standard therapy ^ (N=136)   | Gazyvaro + standard therapy ^ (N=135)   |
+|-------------------------------------------------------|----------------------------------------|-----------------------------------------|
+| Primary endpoint                                      |                                        |                                         |
+| CRR at Week76 (%)                                     | 33.1                                   | 46.4                                    |
+| Treatment difference (95% CI)                         | 13.40 (1.95, 24.84)                    | 13.40 (1.95, 24.84)                     |
+| p-value                                               | 0.0232                                 | 0.0232                                  |
+| Components of CRR:                                    |                                        |                                         |
+| UPCR < 0.5                                            | 49 (36.0%)                             | 64 (47.4%)                              |
+| eGFR ≥ 85% of baseline                                | 103 (75.7%)                            | 113 (83.7%)                             |
+| No occurrence of intercurrent events                  | 102 (75.0%)                            | 120 (88.9%)                             |
+| Key secondary endpoints                               |                                        |                                         |
+| CRR with successful prednisone taper at Week 76 (%) * | 30.9                                   | 42.7                                    |
+| Treatment difference (95% CI)                         | 11.88 (0.57, 23.18)                    | 11.88 (0.57, 23.18)                     |
+| p-value                                               | 0.0421                                 | 0.0421                                  |
+| Proteinuric response at Week 76 (%) #                 | 41.9                                   | 55.5                                    |
+| Treatment difference (95% CI)                         | 13.68 (2.01, 25.36)                    | 13.68 (2.01, 25.36)                     |
+| p-value                                               | 0.0227                                 | 0.0227                                  |
+
+CRR: complete renal response; CI: Confidence Interval; UPCR: urine protein-to-creatinine ratio; eGFR: estimated glomerular filtration rate ^ mycophenolate mofetil (MMF) and corticosteroids
+
+* CRR at Week 76 without receiving prednisone taper &gt; 7.5 mg/day or equivalent from Week 64 through Week 76
+
+# UPCR &lt; 0.8 g/g at Week 76 and no occurrence of the following intercurrent events: rescue therapy, treatment failure, death or early study withdrawal
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1003,21 +1234,31 @@ Patients in the CLL pivotal study BO21004/CLL11 were tested at multiple time-poi
 
 No post-baseline HAHA (Human Anti-Human Antibody) were observed in patients with iNHL treated in study GAO4753g/GADOLIN. In study BO21223/GALLIUM, 1/565 patient (0.2% of patients with a post-baseline assessment) developed HAHA at induction completion. While the clinical significance of HAHA is not known, a potential correlation between HAHA and clinical course cannot be ruled out.
 
+In Gazyvaro-treated patients in the LN studies, a total of 12 out of 200 (6%) had at least one ADA-positive sample recorded at any time during the studies. Six (3%) subjects had ADA-positive samples recorded at baseline. Two of the 6 patients who were ADA-positive at baseline remained ADA-positive throughout the studies, 1 had a single post-baseline sample that was ADA-positive and in the remaining 3 patients all post-baseline samples were ADA-negative. Six (3%) patients for whom the baseline sample was ADA-negative had a positive ADA titre post-baseline (treatment-induced ADA).
+
+None of the 12 patients with positive ADA titres at any time during the treatment period experienced an IRR or anaphylactic or hypersensitivity reaction during the study.
+
 ## Paediatric population
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Gazyvaro in all subsets of the paediatric population in CLLand FL (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with Gazyvaro in all subsets of the paediatric population in CLL and FL (see section 4.2 for information on paediatric use).
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with Gazyvaro in one or more subsets of the paediatric population, in systemic lupus erythematosus including LN (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
 A population pharmacokinetic (PK) model was developed to analyse the PK data in 469 iNHL, 342 CLL and 130 diffuse large B-cell lymphoma (DLBCL) patients from Phase I, Phase II and Phase III studies who received obinutuzumab alone or in combination with chemotherapy.
 
+A population PK model was developed to analyse the PK data in 196 LN patients from Phase II and Phase III studies who received obinutuzumab.
+
 ## Absorption
 
-Obinutuzumab is administered intravenously, therefore absorption is not applicable. There have been no studies performed with other routes of administration. From the population PK model, after the Cycle 6 Day 1 infusion in CLL patients, the estimated median Cmax value was 465.7 μg/mL and AUC(τ) value was 8961 μg·d/mL and in iNHL patients the estimated median C max value was 539.3 μg/mL and AUC(τ) value was 10956 μg·day/mL.
+Obinutuzumab is administered intravenously, therefore absorption is not applicable. There have been no studies performed with other routes of administration. From the population PK model, after the Cycle 6 Day 1 infusion in CLL patients, the estimated median Cmax value was 465.7 μg/mL and AUC(τ) value was 8961 μg·d/mL and in iNHL patients the estimated median C max value was 539.3 μg/mL and AUC(τ) value was 10956 μg·day/mL. Based on the population PK model in LN patients, the estimated median Cmax at steady state was 468 µg/mL and AUC at steady state was 8740 μg· d/mL.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Distribution
 
-Following intravenous administration, the volume of distribution of the central compartment (2.98 L in patients with CLL and 2.97 in patients with iNHL), approximates serum volume, which indicates distribution is largely restricted to plasma and interstitial fluid.
+Following intravenous administration, the volume of distribution of the central compartment (2.98 L in patients with CLL, 2.97 L in patients with iNHL, and 2.22 L in patients with LN) approximates serum volume, which indicates distribution is largely restricted to plasma and interstitial fluid.
 
 ## Biotransformation
 
@@ -1025,19 +1266,25 @@ The metabolism of obinutuzumab has not been directly studied. Antibodies are mos
 
 ## Elimination
 
-The clearance of obinutuzumab was approximately 0.11 L/day in CLL patients and 0.08 L/day in iNHL patients with a median elimination t½ of 26.4 days in CLL patients and 36.8 days in iNHL patients. Obinutuzumab elimination comprises two parallel pathways which describe clearance, a
+The clearance of obinutuzumab was approximately 0.11 L/day in CLL patients and 0.08 L/day in iNHL patients with a median elimination t½ of 26.4 days in CLL patients and 36.8 days in iNHL patients. Obinutuzumab elimination comprises two parallel pathways which describe clearance, a linear clearance pathway and a non-linear clearance pathway which changes as a function of time. During the initial treatment, the non-linear time-varying clearance pathway is dominant and is consequently the major clearance pathway. As treatment continues, the impact of this pathway diminishes and the linear clearance pathway predominates. This is indicative of target mediated drug disposition (TMDD), where the initial abundance of CD20 cells causes a rapid removal of obinutuzumab from the circulation. However, once the majority of CD20 cells are bound with obinutuzumab, the impact of TMDD on PK is minimised.
 
-<div style=\"page-break-after: always\"></div>
-
-linear clearance pathway and a non-linear clearance pathway which changes as a function of time. During the initial treatment, the non-linear time-varying clearance pathway is dominant and is consequently the major clearance pathway. As treatment continues, the impact of this pathway diminishes and the linear clearance pathway predominates. This is indicative of target mediated drug disposition (TMDD), where the initial abundance of CD20 cells causes a rapid removal of obinutuzumab from the circulation. However, once the majority of CD20 cells are bound with obinutuzumab, the impact of TMDD on PK is minimised.
+In LN patients the steady state clearance of obinutuzumab was approximately 0.13 L/day with a median elimination t1/2 of 22.4 days. Obinutuzumab elimination comprises two parallel pathways which describe clearance: a linear clearance pathway and a non-linear clearance pathway which changes as a function of time. The time-varying clearance decreases with time with an exponential decay coefficient, likely related to CD20 target reduction and proteinuria improvement over time and a time-independent one related to the endogenous catabolic processes of IgG.
 
 ## Pharmacokinetic/pharmacodynamic relationship(s)
 
-In the population pharmacokinetic analysis, gender was found to be a covariate which explains some of the inter-patient variability, with a 22% greater steady state clearance (CLss) and a 19% greater volume of distribution (V) in males . However, results from the population analysis have shown that the differences in exposure are not significant (with an estimated median AUC and Cmax in CLL patients of 11282 µg·d/mL and 578.9 µg/mL in females and 8451 µg·d/mL and 432.5 µg/mL in males, respectively at Cycle 6 and AUC and Cmax in iNHL of 13172 µg·d/mL and 635.7 µg/mL in females and 9769 µg·d/mL and 481.3 µg/mL in males, respectively), indicating that there is no need to dose adjust based on gender.
+In the population pharmacokinetic analysis, gender was found to be a covariate which explains some of the inter-patient variability, with a 22% greater steady state clearance (CLss) and a 19% greater volume of distribution (V) in males . However, results from the population analysis have shown that the differences in exposure are not significant (with an estimated median AUC and Cmax in CLL patients of 11282 µg · d/mL and 578.9 µg/mL in females and 8451 µg · d/mL and 432.5 µg/mL in males, respectively at Cycle 6 and AUC and Cmax in iNHL of 13172 µg·d/mL and 635.7 µg/mL in females and 9769 µg·d/mL and 481.3 µg/mL in males, respectively), indicating that there is no need to dose adjust based on gender.
 
 ## Elderly
 
+## Chronic lymphocytic leukaemia and follicular lymphoma
+
 The population pharmacokinetic analysis of obinutuzumab showed that age did not affect the pharmacokinetics of obinutuzumab. No significant difference was observed in the pharmacokinetics of obinutuzumab among patients &lt; 65 years (n=375), patients between 65-75 years (n=265) and patients &gt; 75 years (n=171).
+
+## Lupus nephritis
+
+No studies have been conducted to investigate the pharmacokinetics of obinutuzumab in patients ≥ 65 years of age.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -1045,7 +1292,13 @@ No studies have been conducted to investigate the pharmacokinetics of obinutuzum
 
 ## Renal impairment
 
-The population pharmacokinetic analysis of obinutuzumab showed that creatinine clearance does not affect pharmacokinetics of obinutuzumab. Pharmacokinetics of obinutuzumab in patients with mild creatinine clearance (CrCl 50-89 mL/min, n=464) or moderate (CrCl 30 to 49 mL/min, n=106) renal impairment were similar to those in patients with normal renal function (CrCl ≥ 90 mL/min, n=383). Pharmacokinetic data in patients with severe renal impairment (CrCl 15-29 mL/min) is limited (n=8), therefore no dose recommendations can be made.
+## Chronic lymphocytic leukaemia and follicular lymphoma
+
+The population pharmacokinetic analysis of obinutuzumab showed that creatinine clearance does not affect pharmacokinetics of obinutuzumab. Pharmacokinetics of obinutuzumab in patients with mild creatinine clearance (CrCl 50-89 mL/min, n=464) or moderate (CrCl 30 to 49 mL/min, n=106) renal impairment were similar to those in patients with normal renal function (CrCl  90 mL/min, n=383). Pharmacokinetic data in patients with severe renal impairment (CrCl 15-29 mL/min) is limited (n=8), therefore no dose recommendations can be made.
+
+## Lupus nephritis
+
+The population pharmacokinetic analysis (n = 196) of obinutuzumab showed that creatinine clearance does not affect the pharmacokinetics in patients with LN. The pharmacokinetics of obinutuzumab in patients with mild (CrCl 60 - &lt;90 mL/min, n=45) or moderate (CrCl 30 - &lt;60 mL/min, n=17) renal impairment were similar to those in patients with normal kidney function.
 
 ## Hepatic impairment
 
@@ -1057,13 +1310,11 @@ No studies have been performed to establish the carcinogenic potential of obinut
 
 No specific studies in animals have been performed to evaluate the effect of obinutuzumab on fertility. In repeat-dose toxicity studies in cynomolgus monkeys obinutuzumab had no adverse effects on male and female reproductive organs.
 
-An enhanced pre and postnatal development (ePPND) toxicity study in pregnant cynomolgus monkeys showed no evidence of teratogenic effects. However, weekly obinutuzumab dosing from post-coitum day 20 to delivery resulted in complete depletion of B-cells in infant monkeys at weekly intravenous obinutuzumab doses of 25 and 50 mg/kg (2-5 times the clinical exposure based on Cmax and AUC).
-
-<div style=\"page-break-after: always\"></div>
-
-Offspring exposure on day 28 post-partum suggests that obinutuzumab can cross the blood-placenta barrier. Concentrations in infant serum on day 28 post-partum were in the range of concentrations in maternal serum, whereas concentrations in milk on the same day were very low (less than 0.5% of the corresponding maternal serum levels) suggesting that exposure of infants must have occurred in utero. The B-cell counts returned to normal levels, and immunologic function was restored within 6 months post-partum.
+An enhanced pre and postnatal development (ePPND) toxicity study in pregnant cynomolgus monkeys showed no evidence of teratogenic effects. However, weekly obinutuzumab dosing from post-coitum day 20 to delivery resulted in complete depletion of B-cells in infant monkeys at weekly intravenous obinutuzumab doses of 25 and 50 mg/kg (2-5 times the clinical exposure based on Cmax and AUC). Offspring exposure on day 28 post-partum suggests that obinutuzumab can cross the blood-placenta barrier. Concentrations in infant serum on day 28 post-partum were in the range of concentrations in maternal serum, whereas concentrations in milk on the same day were very low (less than 0.5% of the corresponding maternal serum levels) suggesting that exposure of infants must have occurred in utero. The B-cell counts returned to normal levels, and immunologic function was restored within 6 months post-partum.
 
 In a 26-week cynomolgus monkey study, hypersensitivity reactions were noted and attributed to the foreign recognition of the humanised antibody in cynomolgus monkeys (0.7-6 times the clinical exposure based on Cmax and AUC at steady state after weekly administration of 5, 25, and 50 mg/kg). Findings included acute anaphylactic or anaphylactoid reactions and an increased prevalence of systemic inflammation and infiltrates consistent with immune-complex mediated hypersensitivity reactions, such as arteritis/periarteritis, glomerulonephritis, and serosal/adventitial inflammation. These reactions led to unscheduled termination of 6/36 animals treated with obinutuzumab during dosing and recovery phases; these changes were partially reversible. No renal toxicity with a causal relationship to obinutuzumab has been observed in humans.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -1077,7 +1328,7 @@ This medicinal product must not be mixed with other medicinal products except th
 
 ## 6.3 Shelf life
 
-Unopened vial
+## Unopened vial
 
 3 years.
 
@@ -1093,15 +1344,13 @@ Store in a refrigerator (2°C-8°C).
 
 Do not freeze.
 
-<div style=\"page-break-after: always\"></div>
-
 Keep the vial in the outer carton in order to protect from light.
 
 For storage conditions after dilution of the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
-40 mL concentrate in a 50 mL vial  (clear Type I glass) with stopper (butyl rubber). Pack size of 1 vial.
+40 mL concentrate in a 50 mL vial (clear Type I glass) with stopper (butyl rubber). Pack size of 1 vial.
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -1109,19 +1358,21 @@ For storage conditions after dilution of the medicinal product, see section 6.3.
 
 Gazyvaro should be prepared by a healthcare professional using aseptic technique. Do not shake the vial. Use a sterile needle and syringe to prepare Gazyvaro.
 
-<!-- formula-not-decoded -->
+For CLL cycles 2 -6, all FL cycles, and throughout LN treatment
 
 Withdraw 40 mL of concentrate from the vial and dilute in polyvinyl chloride (PVC) or non-PVC polyolefin infusion bags containing sodium chloride 9 mg/mL (0.9%) solution for injection.
 
-<!-- formula-not-decoded -->
+<div style=\"page-break-after: always\"></div>
 
-To ensure differentiation of the two infusion bags for the initial 1,000 mg dose, it is recommended to utilise bags of different sizes to distinguish between the 100 mg dose for Cycle 1 Day 1 and the 900 mg dose for Cycle 1 Day 1 (continued) or Day 2. To prepare the 2 infusion bags, withdraw 40 mL of concentrate from the vial and dilute 4 mL into a 100 mL PVC or non-PVC polyolefin infusion bag and the remaining 36 mL in a 250 mL PVC or non-PVC polyolefin infusion bag containing sodium chloride 9 mg/ml (0.9%) solution for injection. Clearly label each infusion bag. For storage conditions of the infusion bags see section 6.3.
+CLL only -Cycle 1
+
+To ensure differentiation of the two infusion bags for the initial 1 000 mg dose, it is recommended to utilise bags of different sizes to distinguish between the 100 mg dose for Cycle 1 Day 1 and the 900 mg dose for Cycle 1 Day 1 (continued) or Day 2. To prepare the 2 infusion bags, withdraw 40 mL of concentrate from the vial and dilute 4 mL into a 100 mL PVC or non-PVC polyolefin infusion bag and the remaining 36 mL in a 250 mL PVC or non-PVC polyolefin infusion bag containing sodium chloride 9 mg/ml (0.9%) solution for injection. Clearly label each infusion bag. For storage conditions of the infusion bags see section 6.3.
 
 | Dose of Gazyvaro to be administered   | Required amount of Gazyvaro concentrate   | Size of PVC or non-PVC polyolefin infusion bag   |
 |---------------------------------------|-------------------------------------------|--------------------------------------------------|
 | 100 mg                                | 4 mL                                      | 100 mL                                           |
 | 900 mg                                | 36 mL                                     | 250 mL                                           |
-| 1000 mg                               | 40 mL                                     | 250 mL                                           |
+| 1 000 mg                              | 40 mL                                     | 250 mL                                           |
 
 Do not use other diluents such as glucose (5%) solution (see section 6.2).
 
@@ -1131,19 +1382,15 @@ Parenteral medicinal products should be inspected visually for particulates and 
 
 No incompatibilities have been observed between Gazyvaro, in concentration ranges from 0.4 mg/mL to 20.0 mg/mL after dilution of Gazyvaro with sodium chloride 9 mg/mL (0.9%) solution for injection, and:
 
-- PVC, polyethylene (PE), polypropylene or polyolefin bags
-- PVC, polyurethane (PUR) or PE infusion sets
-- optional inline filters with product contact surfaces of polyethersulfone (PES), a 3-way stopcock infusion aid made from polycarbonate (PC), and catheters made from polyetherurethane (PEU).
+-  PVC, polyethylene (PE), polypropylene or polyolefin bags
+-  PVC, polyurethane (PUR) or PE infusion sets
+-  optional inline filters with product contact surfaces of polyethersulfone (PES), a 3-way stopcock infusion aid made from polycarbonate (PC), and catheters made from polyetherurethane (PEU).
 
-<div style=\"page-break-after: always\"></div>
-
-Disposal
+## Disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-7.
-
-MARKETING AUTHORISATION HOLDER
+## 7. MARKETING AUTHORISATION HOLDER
 
 Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
@@ -1157,17 +1404,17 @@ Date of first authorisation: 23 July 2014
 
 Date of latest renewal: 02 April 2019
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
-
-38
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-- A. MANUFACTURER OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+- A. MANUFACTURERS OF THE BIOLOGICAL ACTIVE SUBSTANCE AND MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 - C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
@@ -1192,22 +1439,20 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c (7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-
-<div style=\"page-break-after: always\"></div>
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 If the dates for submission of a PSUR and the update of a RMP coincide, they can be submitted at the same time.
 
@@ -1283,7 +1528,7 @@ Do not freeze
 
 Keep the vial in the outer carton in order to protect from light
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1301,32 +1546,33 @@ Lot
 
 Medicinal product subject to medical prescription
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
-
-PC SN NN
-
-<div style=\"page-break-after: always\"></div>
-
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-VIAL
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Gazyvaro 1,000 mg concentrate for solution for infusion obinutuzumab Intravenous use
+Gazyvaro 1,000 mg concentrate for solution for infusion obinutuzumab
+
+Intravenous use
 
 ## 2. METHOD OF ADMINISTRATION
 
@@ -1354,15 +1600,15 @@ Lot
 
 ## Package leaflet: Information for the patient
 
-## Gazyvaro 1,000 mg concentrate for solution for infusion
+## Gazyvaro 1 000 mg concentrate for solution for infusion
 
 ## obinutuzumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
-- Keep this leaflet. You may need to read it again.
-- If you have any further questions, ask your doctor or nurse.
-- If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
+-  Keep this leaflet. You may need to read it again.
+-  If you have any further questions, ask your doctor or nurse.
+-  If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -1377,36 +1623,43 @@ Lot
 
 ## What Gazyvaro is
 
-Gazyvaro contains the active substance obinutuzumab, which belongs to a group of medicines called 'monoclonal antibodies'. Antibodies work by attaching themselves to specific targets in your body.
+Gazyvaro contains the active substance obinutuzumab, which belongs to a group of medicines called monoclonal antibodies. Antibodies work by attaching themselves to specific targets in your body.
 
 ## What Gazyvaro is used for
 
-Gazyvaro can be used in adults to treat two different types of cancer
+This medicine is used in adults to treat several different conditions. These include:
 
-- Chronic lymphocytic leukaemia (also called 'CLL')
-- -Gazyvaro is used in patients who have not had any treatment for CLL before and who have other illnesses which make it unlikely that they would be able to tolerate a full dose of a different medicine used to treat CLL called fludarabine.
+##  Chronic lymphocytic leukaemia (CLL)
+
+- -Gazyvaro is used in patients who have not had any treatment for CLL before, and who have other illnesses which make it unlikely that they would be able to tolerate a full dose of a different medicine used to treat CLL, called fludarabine.
 - -Gazyvaro is used together with another medicine for cancer called chlorambucil.
 
-## · Follicular lymphoma (also called 'FL')
+##  Follicular lymphoma (FL)
 
-- -Gazyvaro is used in patients who have not had any treatment for FL
+- -Gazyvaro is used in patients who have not had any treatment for FL.
 - -Gazyvaro is used in patients who have had at least one treatment with a medicine called rituximab before and whose FL has come back or got worse during or after this treatment.
 - -At the start of treatment for FL, Gazyvaro is used together with other medicines for cancer.
-- -Gazyvaro can then be used on its own for up to 2 years as a 'maintenance treatment'.
+- -Gazyvaro can then be used on its own for up to 2 years as a maintenance treatment.
 
-## How Gazyvaro works
+##  Lupus nephritis (LN)
 
-- CLL and FL are types of cancer that affect white blood cells called 'B-lymphocytes'. The affected 'B-lymphocytes' multiply too quickly and live too long. Gazyvaro binds to targets on the surface of the affected 'B-lymphocyte' cells and causes them to die.
+- -Gazyvaro is used in combination with mycophenolate mofetil (MMF) for the treatment of adult patients with active Class III or IV, with or without concomitant Class V, LN (inflammation of the kidney caused by lupus)
 
 <div style=\"page-break-after: always\"></div>
 
-- When Gazyvaro is given to patients with CLL or FL together with other medicines for cancer - this slows down the time it takes for their disease to get worse.
+## How Gazyvaro works
+
+-  CLL and FL are types of cancer that affect white blood cells called B-lymphocytes. The affected B-lymphocytes multiply too quickly and live too long. Gazyvaro binds to targets on the surface of the affected B-lymphocyte cells and causes them to die.
+- -When Gazyvaro is given to patients with CLL or FL together with other medicines for cancer, this slows down the time it takes for their disease to get worse.
+-  LN is a type of kidney disease where the body's own immune system attacks the kidneys by mistake.
+- -Gazyvaro reduces the amount of B-lymphocytes, a kind of immune system cell that is involved in the cause of some of the LN symptoms.
+- -Gazyvaro is given to patients with LN together with other medicines. This slows down or stops the immune system from attacking healthy kidney cells.
 
 ## 2. What you need to know before you are given Gazyvaro
 
 ## You must not be given Gazyvaro if:
 
-- you are allergic to obinutuzumab or any of the other ingredients of this medicine (listed in section 6).
+-  you are allergic to obinutuzumab or any of the other ingredients of this medicine (listed in section 6).
 
 If you are not sure talk to your doctor or nurse before being given Gazyvaro.
 
@@ -1414,38 +1667,39 @@ If you are not sure talk to your doctor or nurse before being given Gazyvaro.
 
 Talk to your doctor or nurse before you are given Gazyvaro if:
 
-- you have an infection, or have had an infection in the past which lasted a long time or keeps coming back
-- you have ever taken, or been given, medicines which affect your immune system (such as chemotherapy or immunosuppressants)
-- you are taking medicines for high blood pressure or medicines used to thin your blood - your doctor might need to alter how you take these
-- you have ever had heart problems
-- you have ever had brain problems (such as memory problems, difficulty moving or feeling sensations in your body, eyesight problems)
-- you have ever had breathing problems or lung problems
-- you have ever had  'hepatitis B' - a type of liver disease
-- you are due to have a vaccine or you know you may need to have one in the near future.
+-  you have an infection, or have had an infection in the past which lasted a long time or keeps coming back
+-  you have ever taken, or been given, medicines which affect your immune system (such as chemotherapy or immunosuppressants)
+-  you are taking medicines for high blood pressure or medicines used to thin your blood -your doctor might need to alter how you take these
+-  you have ever had heart problems
+-  you have ever had brain problems (such as memory problems, difficulty moving or feeling sensations in your body, eyesight problems)
+-  you have ever had breathing problems or lung problems
+-  you have ever had  hepatitis B, a type of liver disease
 
 If any of the above apply to you (or you are not sure), talk to your doctor or nurse before you are given Gazyvaro.
+
+Also talk to your doctor if you think you may need any vaccinations in the near future, including vaccinations needed to travel to other countries. Some vaccines should not be given at the same time as Gazyvaro or in the months after you receive Gazyvaro. Your doctor will check if you should have any vaccines before you receive Gazyvaro.
 
 ## Pay attention to the following side effects
 
 Gazyvaro can cause some serious side effects that you need to tell your doctor or nurse about straight away. These include:
 
-## Infusion related reactions
-
-- Tell your doctor or nurse straight away if you get any of the infusion related reactions listed at the start of section 4. Infusion related reactions can happen during the infusion or up to 24 hours after the infusion.
-- If you get an infusion related reaction, you may require additional treatment, or the infusion may need to be slowed down or stopped. When these symptoms go away, or improve, the infusion can be continued. These reactions are more likely to happen with the first infusion. Your doctor may decide to stop treatment with Gazyvaro if you have a severe infusion related reaction.
-- Before each infusion of Gazyvaro, you will be given medicines which help to reduce possible infusion related reactions or 'tumour lysis syndrome'.  Tumour lysis syndrome is a potentially life-threatening complication, caused by chemical changes in the blood due to the breakdown of dying cancer cells (see section 3).
-
 <div style=\"page-break-after: always\"></div>
 
-## Progressive multifocal leukoencephalopathy (also called 'PML')
+## Infusion related reactions
 
-- PML is a very rare and life-threatening brain infection that has been reported in very few patients having treatment with Gazyvaro.
-- Tell your doctor or nurse straight away if you have memory loss, trouble speaking, difficulty walking or problems with your eyesight.
-- If you had any of these symptoms before treatment with Gazyvaro, tell your doctor straight away if you notice any changes in them. You may need medical treatment.
+-  Tell your doctor or nurse straight away if you get any of the infusion related reactions listed at the start of section 4. Infusion related reactions can happen during the infusion or up to 24 hours after the infusion.
+-  If you get an infusion related reaction, you may require additional treatment, or the infusion may need to be slowed down or stopped. When these symptoms go away, or improve, the infusion can be continued. These reactions are more likely to happen with the first infusion. Your doctor may decide to stop treatment with Gazyvaro if you have a severe infusion related reaction.
+-  Before each infusion of Gazyvaro, you will be given medicines which help to reduce possible infusion related reactions or tumour lysis syndrome.  Tumour lysis syndrome is a potentially life-threatening complication, caused by chemical changes in the blood due to the breakdown of dying cancer cells (see section 3).
+
+## Progressive multifocal leukoencephalopathy (PML)
+
+-  PML is a very rare and life-threatening brain infection that has been reported in very few patients having treatment with Gazyvaro.
+-  Tell your doctor or nurse straight away if you have memory loss, trouble speaking, difficulty walking or problems with your eyesight.
+-  If you had any of these symptoms before treatment with Gazyvaro, tell your doctor straight away if you notice any changes in them. You may need medical treatment.
 
 ## Infections
 
-- Tell your doctor or nurse straight away if you get any signs of infection after your Gazyvaro treatment (see \"Infections\" in section 4).
+-  Tell your doctor or nurse straight away if you get any signs of infection after your Gazyvaro treatment (see Infections in section 4).
 
 ## Children and adolescents
 
@@ -1457,21 +1711,23 @@ Tell your doctor or nurse if you are taking, have recently taken or might start 
 
 ## Pregnancy
 
-- Tell your doctor or nurse if you are pregnant, think you might be pregnant or are planning to have a baby. They will help you weigh up the benefit of continuing Gazyvaro against the risk to your baby.
-- If you become pregnant during treatment with Gazyvaro, tell your doctor or nurse as soon as possible. This is because treatment with Gazyvaro may affect yours or the baby's health.
+-  Tell your doctor or nurse if you are pregnant, think you might be pregnant or are planning to have a baby. They will help you weigh up the benefit of continuing Gazyvaro against the risk to your baby.
+-  If you become pregnant during treatment with Gazyvaro, tell your doctor or nurse as soon as possible. This is because treatment with Gazyvaro may affect yours or the baby's health.
 
 ## Breast-feeding
 
-- Do not breast-feed during treatment with Gazyvaro or for 18 months after stopping treatment with Gazyvaro . This is because small amounts of the medicine may pass into your breast milk .
+-  Do not breast-feed during treatment with Gazyvaro or for 18 months after stopping treatment with Gazyvaro . This is because small amounts of the medicine may pass into your breast milk .
+
+<div style=\"page-break-after: always\"></div>
 
 ## Contraception
 
-- Use an effective method of contraception while being treated with Gazyvaro.
-- Continue to use effective contraception for 18 months after stopping treatment with Gazyvaro.
+-  Use an effective method of contraception while being treated with Gazyvaro.
+-  Continue to use effective contraception for 18 months after stopping treatment with Gazyvaro.
 
 ## Driving and using machines
 
-Gazyvaro is not likely to affect your ability to drive, cycle or use any tools or machines. However, if you get an infusion related reaction, (see section 4), do not drive, cycle or use any tools or machines until the reaction stops.
+Gazyvaro is not likely to affect your ability to drive, cycle or use any tools or machines. However, if you get an infusion related reaction (see section 4), do not drive, cycle or use any tools or machines until the reaction stops.
 
 ## 3. How Gazyvaro is given
 
@@ -1479,74 +1735,86 @@ Gazyvaro is not likely to affect your ability to drive, cycle or use any tools o
 
 Gazyvaro is given under the supervision of a doctor experienced in such treatment. It is given into a vein as a drip (intravenous infusion) over several hours.
 
-<div style=\"page-break-after: always\"></div>
-
 ## The Gazyvaro treatment
 
-## Chronic lymphocytic leukaemia
+## Chronic lymphocytic leukaemia (CLL)
 
-- You will be given 6 treatment cycles of Gazyvaro in combination with another medicine for cancer called chlorambucil. Each cycle lasts 28 days.
-- On Day 1 of your first cycle, you will be given part of your first Gazyvaro dose of 100 milligrams (mg) very slowly. Your doctor/nurse will monitor you carefully for infusion related reactions.
-- If you do not have an infusion related reaction following the small part of your first dose, you may be given the rest of your first dose (900 mg) on the same day.
-- If you do have an infusion related reaction following the small part of your first dose, you will be given the rest of your first dose on Day 2.
+-  You will be given 6 treatment cycles of Gazyvaro in combination with another medicine for cancer called chlorambucil. Each cycle lasts 28 days.
+-  On Day 1 of your first cycle, you will be given part of your first Gazyvaro dose of 100 milligrams (mg) very slowly. Your doctor/nurse will monitor you carefully for infusion related reactions.
+-  If you do not have an infusion related reaction following the small part of your first dose, you may be given the rest of your first dose (900 mg) on the same day.
+-  If you do have an infusion related reaction following the small part of your first dose, you will be given the rest of your first dose on Day 2.
 
 A typical schedule is shown below.
 
 Cycle 1 - this will include three doses of Gazyvaro in the 28 days:
 
-- Day 1 - part of your first dose (100 mg)
-- Day 2 or Day 1 (continued) - remainder of first dose 900 mg
-- Day 8 - full dose (1,000 mg)
-- Day 15 - full dose (1,000 mg)
+-  Day 1 -part of your first dose (100 mg)
+-  Day 2 or Day 1 (continued) -remainder of first dose 900 mg
+-  Day 8 -full dose (1 000 mg)
+-  Day 15 -full dose (1 000 mg)
 
 Cycles 2, 3, 4, 5 and 6  this will be just one dose of Gazyvaro in the 28 days:
 
-- Day 1 - full dose (1,000 mg).
+-  Day 1 -full dose (1 000 mg).
 
-## Follicular lymphoma
+## Follicular lymphoma (FL)
 
-- You will be given 6 or 8 treatment cycles of Gazyvaro in combination with other medicines for cancer - each cycle lasts 28 or 21 days depending on which other cancer medicines are given together with Gazyvaro.
-- This induction phase will be followed by a 'maintenance phase' - during this time you will be given Gazyvaro every 2 months for up to 2 years as long as your disease does not progress. Based on your disease status after the initial treatment cycles your doctor will decide whether you will receive treatment in the maintenance phase.
-- A typical schedule is shown below.
+-  You will be given 6 or 8 treatment cycles of Gazyvaro in combination with other medicines for cancer, each cycle lasts 28 or 21 days depending on which other cancer medicines are given together with Gazyvaro.
+-  This induction phase will be followed by a maintenance phase - during this time you will be given Gazyvaro every 2 months for up to 2 years as long as your disease does not progress. Based on your disease status after the initial treatment cycles your doctor will decide whether you will receive treatment in the maintenance phase.
+-  A typical schedule is shown below.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Induction phase
 
-Cycle 1 - this will include three doses of Gazyvaro in the 28 or 21 days depending on which other cancer medicines are given together with Gazyvaro:
+Cycle 1 - this will include three doses of Gazyvaro in the 28 or 21 days depending on which other cancer medicines are given together with Gazyvaro :
 
-- Day 1 - full dose (1,000 mg)
-- Day 8 - full dose (1,000 mg)
-- Day 15 - full dose (1,000 mg).
+-  Day 1 - full dose (1 000 mg)
+-  Day 8 - full dose (1 000 mg)
+-  Day 15 - full dose (1 000 mg).
 
 Cycles 2-6 or 2-8 - this will be just one dose of Gazyvaro in the 28 or 21 days depending on which other cancer medicines are given together with Gazyvaro:
 
-- Day 1 - full dose (1,000 mg).
+-  Day 1 - full dose (1 000 mg).
 
 ## Maintenance phase
 
-- Full dose (1,000 mg) once every 2 months for up to 2 years as long as your disease does not progress.
+-  Full dose (1 000 mg) once every 2 months for up to 2 years as long as your disease does not progress.
 
-<div style=\"page-break-after: always\"></div>
+## Lupus nephritis (LN)
+
+You will be given 1 000 mg doses of Gazyvaro as an intravenous infusion as shown in the schedule below:
+
+-  Dose 1 (initial infusion): 1 000 mg
+-  Dose 2 (Week 2, two weeks after Dose 1): 1 000 mg
+-  Dose 3 (Week 24): 1 000 mg
+-  Dose 4 (Week 26, two weeks after Dose 3): 1 000 mg
+-  Dose 5 (six months after Dose 4, and every six months thereafter): 1 000 mg
 
 ## Medicines given before each infusion
 
 Before each infusion of Gazyvaro, you will be given medicines to lessen the chance of getting infusion related reactions or tumour lysis syndrome. These may include:
 
-- fluids
-- medicines to reduce a fever
-- medicines to reduce pain (analgesics)
-- medicines to reduce inflammation (corticosteroids)
-- medicines to reduce an allergic reaction (anti-histamines)
-- medicine to prevent tumour lysis syndrome (such as allopurinol).
+-  fluids
+-  medicines to reduce a fever
+-  medicines to reduce pain (analgesics)
+-  medicines to reduce inflammation (corticosteroids)
+-  medicines to reduce an allergic reaction (anti-histamines)
+-  medicine to prevent tumour lysis syndrome (such as allopurinol).
 
 ## If you miss a Gazyvaro treatment
 
-If you miss your appointment, make another one as soon as possible. This is because for this medicine to be as effective as possible, it is important to follow the dosing schedule.
+I f you miss your appointment, make another one as soon as possible. This is because for this medicine to be as effective as possible, it is important to follow the dosing schedule.
 
 If you have any further questions on the use of this medicine, ask your doctor or nurse.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. The following side effects have been reported with this medicine:
+
+## A. If you are being treated for Chronic lymphocytic leukaemia (CLL) or Follicular lymphoma (FL)
 
 ## Serious side effects
 
@@ -1556,57 +1824,57 @@ Tell your doctor or nurse straight away if you get any of the following symptoms
 
 Most frequently reported:
 
-- nausea
-- fatigue
-- dizziness
-- headache
-- diarrhoea
-- fever, flushing or chills
-- vomiting
-- shortness of breath
-- low or high blood pressure
-- heart beating very fast
-- chest discomfort
+-  nausea
+-  fatigue
+-  dizziness
+-  headache
+-  diarrhoea
+-  fever, flushing or chills
+-  vomiting
+-  shortness of breath
+-  low or high blood pressure
+-  heart beating very fast
+-  chest discomfort
 
 Less frequently reported:
 
-- irregular heartbeat
-- swelling of the throat or airway
-- wheezing, difficulty breathing, tight chest or throat irritation
+-  irregular heartbeat
+-  swelling of the throat or airway
+-  wheezing, difficulty breathing, tight chest or throat irritation
 
 If you get any of the above, tell your doctor or nurse straight away.
 
-<div style=\"page-break-after: always\"></div>
-
-## Progressive multifocal leukoencephalopathy
+## Progressive multifocal leukoencephalopathy (PML)
 
 PML is a very rare and life-threatening brain infection that has been reported with Gazyvaro.
 
-Tell your doctor or nurse straight away if you have
+Tell your doctor or nurse straight away if you notice any of the following side effects:
 
-- memory loss
-- trouble speaking
-- difficulty walking
-- problems with your eyesight
+-  memory loss
+-  trouble speaking
+-  difficulty walking
+-  problems with your eyesight
 
 If you had any of these symptoms before treatment with Gazyvaro, tell your doctor straight away if you notice any changes in them. You may need medical treatment.
 
 ## Infections
 
-You may be more likely to get an infection during and after treatment with Gazyvaro. Often these are colds, but there have been cases of more severe infections. A type of liver disease called 'hepatitis B' has also been reported to reoccur in patients who have had hepatitis B in the past.
+You may be more likely to get an infection during and after treatment with Gazyvaro. Often these are colds, but there have been cases of more severe infections. A type of liver disease called 'hepatitis B' has also been reported to come back in patients who have had hepatitis B in the past.
+
+<div style=\"page-break-after: always\"></div>
 
 Tell your doctor or nurse straight away if you get any signs of infection during and after your Gazyvaro treatment. These include:
 
-- fever
-- cough
-- chest pain
-- fatigue
-- painful rash
-- sore throat
-- burning pain when passing urine
-- feeling weak or generally unwell
+-  fever
+-  cough
+-  chest pain
+-  fatigue
+-  painful rash
+-  sore throat
+-  burning pain when passing urine
+-  feeling weak or generally unwell
 
-If you had recurring or chronic infections before the start of Gazyvaro treatment, tell your doctor about it.
+If you get any of these signs after treatment with Gazyvaro, tell your doctor or nurse straight away. If you had infections that keep coming back or long-term infections before the start of Gazyvaro treatment, tell your doctor or nurse about it.
 
 ## Other side effects
 
@@ -1614,70 +1882,151 @@ Tell your doctor or nurse if you notice any of the following side effects:
 
 ## Very common (may affect more than 1 in 10 people)
 
-- fever
-- lung infection
-- headache
-- joint pain, back pain
-- feeling weak
-- feeling tired
-- pain in arms and legs
-- diarrhoea, constipation
-- sleeplessness
-- hair loss, itchiness
-- urinary tract infection, nose and throat inflammation, shingles
-- changes in blood tests:
+-  fever
+-  lung infection
+-  headache
+-  joint pain, back pain
+-  feeling weak
+-  feeling tired
+-  pain in arms and legs
+-  diarrhoea, constipation
+-  sleeplessness
+-  hair loss, itchiness
+-  urinary tract infection, nose and throat inflammation, shingles
+-  changes in blood tests:
 - -anaemia (low levels of red blood cells)
 - -low levels of all types of white blood cell (combined)
 - -low levels of neutrophils (a type of white blood cell)
-
-<div style=\"page-break-after: always\"></div>
-
 - -low level of platelets (a type of blood cell that helps your blood to clot)
-- infection of upper airways (infection of nose, pharynx, larynx and sinuses), cough
+-  infection of upper airways (infection of nose, pharynx, larynx and sinuses), cough
 
 ## Common (may affect up to 1 in 10 people)
 
-- cold sores
-- depression, anxiety
-- flu (influenza)
-- weight increase
-- runny or blocked nose
-- eczema
-- pain in mouth or throat
-- muscle and bone pain in your chest
-- skin cancer (squamous cell carcinoma, basal cell carcinoma)
-- bone pain
-- irregular heart beat (atrial fibrillation)
-- problems with urinating, urinary incontinence
-- high blood pressure
-- problems with digestion (e.g. heartburn),  haemorrhoids
-- changes shown in blood tests:
+-  cold sores
+-  depression, anxiety
+-  flu (influenza)
+-  weight increase
+-  runny or blocked nose
+-  eczema
+-  pain in mouth or throat
+-  muscle and bone pain in your chest
+-  skin cancer (squamous cell carcinoma, basal cell carcinoma)
+-  bone pain
+-  irregular heart beat (atrial fibrillation)
+-  problems with urinating, urinary incontinence
+-  high blood pressure
+-  problems with digestion (e.g. heartburn),  haemorrhoids
+
+<div style=\"page-break-after: always\"></div>
+
+-  changes shown in blood tests:
 - -low levels of lymphocytes (a type of white blood cells), fever associated with low levels of neutrophils (a type of white blood cells)
 - -increase in potassium, phosphate or uric acid - which can cause kidney problems (part of tumour lysis syndrome)
 - -decrease in potassium
-- a hole in the stomach or intestines (gastrointestinal perforation, especially in cases where the cancer affects the gastrointestinal tubes)
+-  a hole in the stomach or intestines (gastrointestinal perforation, especially in cases where the cancer affects the gastrointestinal tubes)
 
 ## Uncommon (may affect up to 1 in 100 people)
 
 - abnormal coagulation, including a serious illness where clots form all over the body (disseminated intravascular coagulation)
-- changes in blood tests: low levels of immunoglobulins (antibodies that help to fight infections)
+-  changes in blood tests: low levels of immunoglobulins (antibodies that help to fight infections)
 
 Tell your doctor or nurse if you notice any of the side effects listed above.
 
+## B. If you are being treated for Lupus nephritis (LN)
+
+## Serious side effects
+
+## Infections
+
+You may be more likely to get an infection during and after treatment with Gazyvaro. Often these are colds, but there have been cases of more severe infections.
+
+Tell your doctor or nurse straight away if you get any signs of infection during and after your Gazyvaro treatment. These include:
+
+-  sneezing
+-  runny nose or postnasal drip
+-  fever
+-  cough
+-  chest pain
+-  fatigue
+-  rash
+-  sore throat
+-  burning pain when passing urine
+-  flu-like symptoms, feeling weak or generally unwell
+
+If you get any of these signs after treatment with Gazyvaro, tell your doctor or nurse straight away. If you had infections that keep coming back or long-term infections before the start of Gazyvaro treatment, tell your doctor or nurse about it.
+
+## Neutropenia
+
+Neutropenia involves having low levels of neutrophils (a type of white blood cell) in your blood. Tell your doctor or nurse straight away if you notice any of the following side effects:
+
+-  fever or chills
+-  cough
+-  sore throat
+-  mouth ulcers due to infections
+-  altered blood tests
+
+<div style=\"page-break-after: always\"></div>
+
+## Infusion related reactions
+
+Tell your doctor or nurse straight away if you get any of the following symptoms during your infusion or up to 24 hours after having your infusion:
+
+-  nausea
+-  fatigue
+-  dizziness or fainting
+-  headache
+-  diarrhoea
+-  fever, flushing or chills
+-  vomiting
+-  shortness of breath or difficulty breathing
+-  low or high blood pressure
+-  heart beating very fast
+-  chest discomfort
+-  abdominal pain or discomfort
+-  redness, swelling or discharge
+-  joint pain, aching muscles
+
+## Progressive multifocal leukoencephalopathy (PML)
+
+PML is a very rare and life-threatening brain infection that has been reported with Gazyvaro in other indications.
+
+Tell your doctor or nurse straight away if you notice any of the following side effects:
+
+-  memory loss
+-  trouble speaking
+-  difficulty walking
+-  problems with your eyesight
+
+If you had any of these symptoms before treatment with Gazyvaro, tell your doctor straight away if you notice any changes in them. You may need medical treatment.
+
+## Other side effects
+
+Tell your doctor or nurse if you notice any of the following side effects:
+
+## Very common (may affect more than 1 in 10 people)
+
+-  inflammation of the lungs (bronchitis)
+-  changes in blood tests: low levels of immunoglobulins (antibodies that help to fight infections)
+
+## Common (may affect up to 1 in 10 people)
+
+-  lung infection (pneumonia)
+-  herpes simplex viral infection of the mouth (such as cold sores) or the genitals
+
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor or nurse. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V . By reporting side effects you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store Gazyvaro
 
 Gazyvaro will be stored by the healthcare professionals at the hospital or clinic. The storage details are as follows:
 
-- Keep this medicine out of the sight and reach of children.
-- Do not use this medicine after the expiry date which is stated on the carton after EXP. The expiry date refers to the last day of that month.
-- Store in a refrigerator (2 °C-8 °C). Do not freeze.
-- Keep the container in the outer carton in order to protect from light.
-
-<div style=\"page-break-after: always\"></div>
+-  Keep this medicine out of the sight and reach of children.
+-  Do not use this medicine after the expiry date which is stated on the carton after EXP. The expiry date refers to the last day of that month.
+-  Store in a refrigerator (2 °C-8 °C). Do not freeze.
+-  Keep the container in the outer carton in order to protect from light.
 
 Medicines should not be disposed of via wastewater or household waste. Your healthcare professional will throw away any medicines that are no longer being used. These measures will help protect the environment.
 
@@ -1685,8 +2034,8 @@ Medicines should not be disposed of via wastewater or household waste. Your heal
 
 ## What Gazyvaro contains
 
-- The active substance is obinutuzumab: 1,000 mg/40 mL per vial corresponding to a concentration before dilution of 25 mg/mL.
-- The other ingredients are histidine, histidine hydrochloride monohydrate, trehalose dihydrate, poloxamer 188 and water for injections.
+-  The active substance is obinutuzumab: 1 000 mg/40 mL per vial corresponding to a concentration before dilution of 25 mg/mL.
+-  The other ingredients are histidine, histidine hydrochloride monohydrate, trehalose dihydrate, poloxamer 188 and water for injections.
 
 ## What Gazyvaro looks like and contents of the pack
 
@@ -1700,13 +2049,19 @@ Roche Registration GmbH Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
 Roche Pharma AG Emil-Barell-Strasse 1 79639 Grenzach-Wyhlen Germany
 
+<div style=\"page-break-after: always\"></div>
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien, Luxembourg/Luxemburg N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
+## België/Belgique/Belgien, Luxembourg/Luxemburg
+
+N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
 
 ## България
 
-Рош България ЕООД Тел: +359 2 474 5444
+Рош България ЕООД
+
+Тел: +359 2 474 5444
 
 ## Česká republika
 
@@ -1716,17 +2071,7 @@ Tel: +420 - 2 20382111
 
 ## Danmark
 
-Roche Pharmaceuticals A/S
-
-Tlf: +45 - 36 39 99 99
-
-Lietuva UAB 'Roche Lietuva' Tel: +370 5 2546799
-
-## Magyarország
-
-Roche (Magyarország) Kft. Tel: +36 -1 279 4500
-
-<div style=\"page-break-after: always\"></div>
+Roche Pharmaceuticals A/S Tlf: +45 - 36 39 99 99
 
 ## Deutschland
 
@@ -1768,25 +2113,15 @@ Tel: + 385 1 47 22 333
 
 ## Ireland, Malta
 
-Roche Products (Ireland) Ltd.
-
-Ireland/L-Irlanda
+Roche Products (Ireland) Ltd. Ireland/L-Irlanda
 
 Tel: +353 (0) 1 469 0700
 
 ## Ísland
 
-Roche Pharmaceuticals A/S
-
-c/o Icepharma hf
+Roche Pharmaceuticals A/S c/o Icepharma hf
 
 Sími: +354 540 8000
-
-## Italia
-
-Roche S.p.A.
-
-Tel: +39 - 039 2471
 
 ## Latvija
 
@@ -1794,11 +2129,13 @@ Roche Latvija SIA
 
 Tel: +371 - 6 7039831
 
-## This leaflet was last revised in
+## Lietuva
 
-## Other sources of information
+UAB 'Roche Lietuva' Tel: +370 5 2546799
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+## Magyarország
+
+Roche (Magyarország) Kft. Tel: +36 - 1 279 4500
 
 ## Nederland
 
@@ -1808,9 +2145,7 @@ Tel: +31 (0) 348 438050
 
 ## Norge
 
-Roche Norge AS
-
-Tlf: +47 - 22 78 90 00
+Roche Norge AS Tlf: +47 - 22 78 90 00
 
 ## Österreich
 
@@ -1826,9 +2161,7 @@ Tel: +48 - 22 345 18 88
 
 ## Portugal
 
-Roche Farmacêutica Química, Lda
-
-Tel: +351 - 21 425 70 00
+Roche Farmacêutica Química, Lda Tel: +351 - 21 425 70 00
 
 ## România
 
@@ -1838,9 +2171,7 @@ Tel: +40 21 206 47 01
 
 ## Slovenija
 
-Roche farmacevtska družba d.o.o.
-
-Tel: +386 - 1 360 26 00
+Roche farmacevtska družba d.o.o. Tel: +386 - 1 360 26 00
 
 ## Slovenská republika
 
@@ -1854,7 +2185,21 @@ Roche Oy
 
 Puh/Tel: +358 (0) 10 554 500
 
-## Sverige
+<div style=\"page-break-after: always\"></div>
+
+## Italia
+
+Roche S.p.A.
+
+Tel: +39 - 039 2471
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu .
+
+Sverige
 
 Roche AB
 
@@ -1872,30 +2217,47 @@ Gazyvaro should be administered under the close supervision of an experienced ph
 
 ## Prophylaxis and premedication for tumour lysis syndrome (TLS)
 
-Patients with a high tumour burden and/or a high circulating lymphocyte count (&gt; 25 x 10 9 /L) and/or renal impairment (CrCl &lt; 70 mL/min) are considered at risk of TLS and should receive prophylaxis. Prophylaxis should consist of adequate hydration and administration of uricostatics (e.g. allopurinol), or suitable alternative such as a urate oxidase (e.g. rasburicase ) starting 12-24 hours prior to start of Gazyvaro infusion as per standard practice. All patients considered at risk should be carefully monitored during the initial days of treatment with a special focus on renal function, potassium, and uric acid values. Any additional guidelines according to standard practice should be followed.
+Patients with a high tumour burden and/or a high circulating lymphocyte count (&gt; 25 x 10 9 /L) and/or renal impairment (CrCl &lt; 70 mL/min) are considered at risk of TLS and should receive prophylaxis. Prophylaxis should consist of adequate hydration and administration of uricostatics (e.g. allopurinol), or suitable alternative such as a urate oxidase (e.g. rasburicase ) starting 12-24 hours prior to start of Gazyvaro infusion as per standard practice. All patients considered at risk should be carefully monitored during the initial days of treatment with a special focus on renal function, potassium, and uric acid values. Any additional guidelines according to standard practice should be followed. TLS is not considered a potential or an identified risk in LN patients.
 
 ## Prophylaxis and premedication for infusion related reactions (IRRs)
 
-Premedication to reduce the risk of IRRs is outlined in Table 1. Corticosteroid premedication is recommended for patients with FL and mandatory for CLL patients in the first cycle (see Table 1). Premedication for subsequent infusions and other premedication should be administered as described below.
+Premedication to reduce the risk of IRRs is outlined in Table 1. Corticosteroid premedication is recommended for patients with FL and mandatory for CLL patients in the first cycle and for LN patients (see Table 1). Premedication for subsequent infusions and other premedication should be administered as described below.
 
 Hypotension, as a symptom of IRRs, may occur during Gazyvaro intravenous infusions. Therefore, withholding of antihypertensive treatments should be considered for 12 hours prior to and throughout each Gazyvaro infusion and for the first hour after administration.
 
 <div style=\"page-break-after: always\"></div>
 
-Table 1 Premedication to be administered before Gazyvaro infusion to reduce the risk of IRRs in CLL and FL patients
+Table 1 Premedication to be administered before Gazyvaro infusion to reduce the risk of IRRs
 
-| Day of treatment cycle                  | Patients requiring premedication                                                          | Premedication                                                          | Administration                                       |
-|-----------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------|
-| Cycle 1: Day 1 for CLL and FL           | All patients                                                                              | Intravenous corticosteroid 1,4 (mandatory for CLL, recommended for FL) | Completed at least 1 hour prior to Gazyvaro infusion |
-| Cycle 1: Day 1 for CLL and FL           | All patients                                                                              | Oral analgesic/anti-pyretic 2                                          | At least 30 minutes before Gazyvaro infusion         |
-| Cycle 1: Day 1 for CLL and FL           | All patients                                                                              | Anti-histaminic medicine 3                                             | At least 30 minutes before Gazyvaro infusion         |
-| Cycle 1: Day 2 for CLL only             | All patients                                                                              | Intravenous corticosteroid 1 (mandatory)                               | Completed at least 1 hour prior to Gazyvaro infusion |
-| Cycle 1: Day 2 for CLL only             | All patients                                                                              | Oral analgesic/anti-pyretic 2                                          | At least 30 minutes before Gazyvaro infusion         |
-| Cycle 1: Day 2 for CLL only             | All patients                                                                              | Anti-histaminic medicine 3                                             | At least 30 minutes before Gazyvaro infusion         |
-| All subsequent infusions for CLL and FL | Patients with no IRR during the previous infusion                                         | Oral analgesic/anti-pyretic 2                                          | At least 30 minutes before Gazyvaro infusion         |
-| All subsequent infusions for CLL and FL | Patients with an IRR (Grade 1 or 2) with the previous infusion                            | Oral analgesic/anti-pyretic 2 Anti-histaminic medicine 3               | At least 30 minutes before Gazyvaro infusion         |
-| All subsequent infusions for CLL and FL | Patients with a Grade 3 IRR with the previous infusion OR Patients with lymphocyte counts | Intravenous corticosteroid 1,4                                         | Completed at least 1 hour prior to Gazyvaro infusion |
-| All subsequent infusions for CLL and FL | >25 x 10 9 /L prior to next treatment                                                     | Oral analgesic/anti-pyretic 2 Anti-histaminic medicine 3               | At least 30 minutes before Gazyvaro infusion         |
+| Indication/Day of treatment/ Cycle      | Patients requiring premedication                                                                                                | Premedication                                                          | Administration                                                                                                            |
+|-----------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| Cycle 1: Day 1 for CLL and FL           | All patients                                                                                                                    | Intravenous corticosteroid 1,4 (mandatory for CLL, recommended for FL) | Completed at least 1 hour prior to Gazyvaro infusion                                                                      |
+| Cycle 1: Day 1 for CLL and FL           | All patients                                                                                                                    | Oral analgesic/anti- pyretic 2                                         | At least 30 minutes before Gazyvaro infusion                                                                              |
+| Cycle 1: Day 1 for CLL and FL           | All patients                                                                                                                    | Anti-histaminic medicine 3                                             | At least 30 minutes before Gazyvaro infusion                                                                              |
+| Cycle 1: Day 2 for CLL only             | All patients                                                                                                                    | Intravenous corticosteroid 1 (mandatory)                               | Completed at least 1 hour prior to Gazyvaro infusion                                                                      |
+| Cycle 1: Day 2 for CLL only             | All patients                                                                                                                    | Oral analgesic/anti- pyretic 2                                         | At least 30 minutes before Gazyvaro infusion                                                                              |
+| Cycle 1: Day 2 for CLL only             | All patients                                                                                                                    | Anti-histaminic medicine 3                                             | At least 30 minutes before Gazyvaro infusion                                                                              |
+| All subsequent infusions for CLL and FL | Patients with no IRR during the previous infusion                                                                               | Oral analgesic/anti- pyretic 2                                         | At least 30 minutes before Gazyvaro infusion                                                                              |
+| All subsequent infusions for CLL and FL | Patients with an IRR (Grade 1 or 2) with the previous infusion                                                                  | Oral analgesic/anti- pyretic 2 Anti-histaminic medicine 3              | At least 30 minutes before Gazyvaro infusion                                                                              |
+| All subsequent infusions for CLL and FL | Patients with a Grade 3 IRR with the previous infusion OR Patients with lymphocyte counts >25 x 10 9 /L prior to next treatment | Intravenous corticosteroid 1,4                                         | Completed at least 1 hour prior to Gazyvaro infusion                                                                      |
+| All subsequent infusions for CLL and FL | Patients with a Grade 3 IRR with the previous infusion OR Patients with lymphocyte counts >25 x 10 9 /L prior to next treatment | Oral analgesic/anti- pyretic 2 Anti-histaminic medicine 3              | At least 30 minutes before Gazyvaro infusion                                                                              |
+| LN                                      | All patients                                                                                                                    | Intravenous corticosteroid 5                                           | Completed between 30 and 60 minutes prior to Gazyvaro infusion Starting from Dose 6, intravenous corticosteroid should to |
+| LN                                      | All patients                                                                                                                    | Oral analgesic/anti- pyretic 6                                         | Completed between 30 and 60 minutes prior to Gazyvaro infusion Starting from Dose 6, intravenous corticosteroid should to |
+| LN                                      |                                                                                                                                 | Anti-histaminic medicine 3                                             | only be administered patients who have experienced an IRR in the prior infusion                                           |
+
+1 100 mg prednisone/prednisolone or 20 mg dexamethasone or 80 mg methylprednisolone. Hydrocortisone should not be used as it has not been effective in reducing rates of IRR .
+
+2 e.g. 1 000 mg acetaminophen/paracetamol
+
+3 e.g. 50 mg diphenhydramine
+
+4. If a corticosteroid-containing chemotherapy regimen is administered on the same day as Gazyvaro, the corticosteroid can be administered as an oral medicinal product if given at least 60 minutes prior to Gazyvaro, in which case additional IV corticosteroid as premedication is not required.
+
+5  80 mg IV methylprednisolone
+
+6  650-1 000 mg acetaminophen/paracetamol
+
+<div style=\"page-break-after: always\"></div>
 
 ## Dose
 
@@ -1905,15 +2267,11 @@ For patients with CLL the recommended dose of Gazyvaro in combination with chlor
 
 ## Cycle 1
 
-The recommended dose of Gazyvaro in combination with chlorambucil is 1,000 mg administered over Day 1 and Day 2 (or Day 1 continued), and on Day 8 and Day 15 of the first 28 day treatment cycle. Two infusion bags should be prepared for the infusion on Days 1 and 2 (100 mg for Day 1 and 900 mg for Day 2). If the first bag is completed without modifications of the infusion rate or interruptions, the second bag may be administered on the same day (no dose delay necessary, no repetition of premedication), provided that appropriate time, conditions and medical supervision are available
+The recommended dose of Gazyvaro in combination with chlorambucil is 1 000 mg administered over Day 1 and Day 2 (or Day 1 continued), and on Day 8 and Day 15 of the first 28 day treatment cycle. Two infusion bags should be prepared for the infusion on Days 1 and 2 (100 mg for Day 1 and 900 mg for Day 2). If the first bag is completed without modifications of the infusion rate or interruptions, the second bag may be administered on the same day (no dose delay necessary, no repetition of premedication), provided that appropriate time, conditions and medical supervision are available throughout the infusion. If there are any modifications of the infusion rate or interruptions during the first 100 mg the second bag must be administered the following day.
 
-<div style=\"page-break-after: always\"></div>
+## Cycles 2 -6
 
-throughout the infusion. If there are any modifications of the infusion rate or interruptions during the first 100 mg the second bag must be administered the following day.
-
-## Cycles 2 - 6
-
-The recommended dose of Gazyvaro in combination with chlorambucil is 1,000 mg administered on Day 1 of each cycle.
+The recommended dose of Gazyvaro in combination with chlorambucil is 1 000 mg administered on Day 1 of each cycle.
 
 Table 2 Dose of Gazyvaro to be administered during 6 treatment cycles each of 28 days duration for patients with CLL
 
@@ -1921,9 +2279,9 @@ Table 2 Dose of Gazyvaro to be administered during 6 treatment cycles each of 28
 |------------|----------------------------|--------------------|
 | Cycle 1    | Day 1                      | 100 mg             |
 | Cycle 1    | Day 2 (or Day 1 continued) | 900 mg             |
-| Cycle 1    | Day 8                      | 1,000 mg           |
-| Cycle 1    | Day 15                     | 1,000 mg           |
-| Cycles 2-6 | Day 1                      | 1,000 mg           |
+| Cycle 1    | Day 8                      | 1 000 mg           |
+| Cycle 1    | Day 15                     | 1 000 mg           |
+| Cycles 2-6 | Day 1                      | 1 000 mg           |
 
 ## Duration of treatment
 
@@ -1935,19 +2293,19 @@ For patients with FL, the recommended dose of Gazyvaro in combination with chemo
 
 ## Patients with previously untreated follicular lymphoma
 
-## Induction (in combination with chemotherapy 2 )
+Induction (in combination with chemotherapy 2 )
 
 Gazyvaro should be administered with chemotherapy as follows:
 
-- Six 28-day cycles in combination with bendamustine 2 or
-- Six 21-day cycles in combination with cyclophosphamide, doxorubicin, vincristine, prednisolone (CHOP), followed by 2 additional cycles of Gazyvaro alone or
-- Eight 21-day cycles in combination with cyclophosphamide, vincristine, and prednisone/prednisolone/methylprednisolone (CVP).
+-  Six 28-day cycles in combination with bendamustine 2 or
+-  Six 21-day cycles in combination with cyclophosphamide, doxorubicin, vincristine, prednisolone (CHOP), followed by 2 additional cycles of Gazyvaro alone or
+-  Eight 21-day cycles in combination with cyclophosphamide, vincristine, and prednisone/prednisolone/methylprednisolone (CVP).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Maintenance
 
-Patients who achieve a complete or partial response to induction treatment with Gazyvaro in combination with chemotherapy should continue to receive Gazyvaro 1,000 mg as single agent maintenance therapy once every 2 months for 2 years or until disease progression (whichever occurs first).
-
-<div style=\"page-break-after: always\"></div>
+Patients who achieve a complete or partial response to induction treatment with Gazyvaro in combination with chemotherapy should continue to receive Gazyvaro 1 000 mg as single agent maintenance therapy once every 2 months for 2 years or until disease progression (whichever occurs first).
 
 Patients with follicular lymphoma who did not respond or who progressed during or up to 6 months after treatment with rituximab or a rituximab-containing regimen
 
@@ -1957,112 +2315,157 @@ Gazyvaro should be administered in six 28-day cycles in combination with bendamu
 
 ## Maintenance
 
-Patients who achieved a complete or partial response to induction treatment (i.e. the initial 6 treatment cycles) with Gazyvaro in combination with bendamustine or have stable disease should continue to receive Gazyvaro 1,000 mg as single agent maintenance therapy once every 2 months for 2 years or until disease progression (whichever occurs first).
+Patients who achieved a complete or partial response to induction treatment (i.e. the initial 6 treatment cycles) with Gazyvaro in combination with bendamustine or have stable disease should continue to receive Gazyvaro 1 000 mg as single agent maintenance therapy once every 2 months for 2 years or until disease progression (whichever occurs first).
 
 Table 3 Follicular lymphoma: Dose of Gazyvaro to be administered during induction treatment, followed by maintenance treatment
 
-| Cycle             | Day of treatment                                                                 | Dose of Gazyvaro   |
-|-------------------|----------------------------------------------------------------------------------|--------------------|
-| Cycle 1           | Day 1                                                                            | 1,000 mg           |
-| Cycle 1           | Day 8                                                                            | 1,000 mg           |
-| Cycle 1           | Day 15                                                                           | 1,000 mg           |
-| Cycles 2-6 or 2-8 | Day 1                                                                            | 1,000 mg           |
-| Maintenance       | Every 2 months for 2 years or until disease progression (whichever occurs first) | 1,000 mg           |
+| Cycle               | Day of treatment                                                                 | Dose of Gazyvaro   |
+|---------------------|----------------------------------------------------------------------------------|--------------------|
+| Cycle 1             | Day 1                                                                            | 1 000 mg           |
+| Cycle 1             | Day 8                                                                            | 1 000 mg           |
+| Cycle 1             | Day 15                                                                           | 1 000 mg           |
+| Cycles 2 - 6 or 2-8 | Day 1                                                                            | 1 000 mg           |
+| Maintenance         | Every 2 months for 2 years or until disease progression (whichever occurs first) | 1 000 mg           |
 
 ## Duration of treatment
 
 Induction treatment of approximately six months (six treatment cycles of Gazyvaro, each of 28 day duration when combined with bendamustine, or eight treatment cycles of Gazyvaro, each of 21 day duration when combined with CHOP or CVP) followed by maintenance once every 2 months for 2 years or until disease progression (whichever occurs first).
 
+## Lupus nephritis
+
+The recommended dosage of Gazyvaro is 1 000 mg administered intravenously, according to Table 4:
+
+## Table 4 Dose of Gazyvaro for patients with lupus nephritis
+
+<div style=\"page-break-after: always\"></div>
+
+| Dose number       | Timing of treatment              | Dose     |
+|-------------------|----------------------------------|----------|
+| 1                 | Initial infusion                 | 1 000 mg |
+| 2                 | Week 2 (two weeks after Dose 1)  | 1 000 mg |
+| 3                 | Week 24                          | 1 000 mg |
+| 4                 | Week 26 (two weeks after Dose 3) | 1 000 mg |
+| 5* and thereafter | Every 6 months                   | 1 000 mg |
+
+*Dose 5 should be administered six months after Dose 4
+
 ## Method of administration
 
 Gazyvaro is for intravenous use. It should be given as an intravenous infusion through a dedicated line after dilution. Gazyvaro infusions should not be administered as an intravenous push or bolus.
 
-For instructions on dilution of Gazyvaro before administration, see below. Instructions on the rate of infusion are shown in Tables 4 -6.
+For instructions on dilution of Gazyvaro before administration, see below. Instructions on the rate of infusion are shown in Tables 4-9.
 
 <div style=\"page-break-after: always\"></div>
 
-## Chronic Lymphocytic Leukaemia
+## Chronic Lymphocytic Leukaemia (CLL)
 
-## Table 4 Chronic lymphocytic leukaemia: Standard infusion rate in the absence of IRRs/hypersensitivity and recommendations in case an IRR occurred with previous infusion
+## Table 5 Chronic lymphocytic leukaemia: Standard infusion rate in the absence of IRRs/hypersensitivity and recommendations in case an IRR occurred with previous infusion
 
-| Cycle      | Day of treatment                    | Rate of infusion The infusion rate may be escalated provided that the patient can tolerate it. For management IRRs that occur during the infusion, refer to 'Management of IRRs'.                                                                                                                                                                                                                                                                  |
+| Cycle      | Day of treatment                    | Rate of infusion The infusion rate may be escalated provided that the patient can tolerate it. For management IRRs that occur during the infusion, refer to Management of IRRs.                                                                                                                                                                                                                                                                    |
 |------------|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Cycle 1    | Day 1 (100 mg)                      | Administer at 25 mg/hr over 4 hours. Do not increase the infusion rate.                                                                                                                                                                                                                                                                                                                                                                            |
 | Cycle 1    | Day 2 (or Day 1 continued) (900 mg) | If no IRR occurred during the previous infusion, administer at 50 mg/hr. The rate of infusion can be escalated in increments of 50 mg/hr every 30 minutes to a maximum rate of 400 mg/hr. If the patient experienced an IRR during the previous infusion, start with administration at 25 mg/hr. The rate of infusion can be escalated in increments up to 50 mg/hr every 30 minutes to a maximum rate of 400 mg/hr.                               |
-| Cycle 1    | Day 8 (1,000 mg)                    | If no IRR occurred during the previous infusion when the final infusion rate was 100 mg/hr or faster, infusions can be started at a rate of 100 mg/hr and increased by 100 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. If the patient experienced an IRR during the previous infusion administer at 50 mg/hr. The rate of the infusion can be escalated in increments of 50mg/hr every 30 minutes to a maximum rate of 400 mg/hr. |
-| Cycle 1    | Day 15 (1,000 mg)                   | If no IRR occurred during the previous infusion when the final infusion rate was 100 mg/hr or faster, infusions can be started at a rate of 100 mg/hr and increased by 100 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. If the patient experienced an IRR during the previous infusion administer at 50 mg/hr. The rate of the infusion can be escalated in increments of 50mg/hr every 30 minutes to a maximum rate of 400 mg/hr. |
-| Cycles 2-6 | Day 1 (1,000 mg)                    | If no IRR occurred during the previous infusion when the final infusion rate was 100 mg/hr or faster, infusions can be started at a rate of 100 mg/hr and increased by 100 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. If the patient experienced an IRR during the previous infusion administer at 50 mg/hr. The rate of the infusion can be escalated in increments of 50mg/hr every 30 minutes to a maximum rate of 400 mg/hr. |
+| Cycle 1    | Day 8 (1 000 mg)                    | If no IRR occurred during the previous infusion when the final infusion rate was 100 mg/hr or faster, infusions can be started at a rate of 100 mg/hr and increased by 100 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. If the patient experienced an IRR during the previous infusion administer at 50 mg/hr. The rate of the infusion can be escalated in increments of 50mg/hr every 30 minutes to a maximum rate of 400 mg/hr. |
+| Cycle 1    | Day 15 (1 000 mg)                   | If no IRR occurred during the previous infusion when the final infusion rate was 100 mg/hr or faster, infusions can be started at a rate of 100 mg/hr and increased by 100 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. If the patient experienced an IRR during the previous infusion administer at 50 mg/hr. The rate of the infusion can be escalated in increments of 50mg/hr every 30 minutes to a maximum rate of 400 mg/hr. |
+| Cycles 2-6 | Day 1 (1 000 mg)                    | If no IRR occurred during the previous infusion when the final infusion rate was 100 mg/hr or faster, infusions can be started at a rate of 100 mg/hr and increased by 100 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. If the patient experienced an IRR during the previous infusion administer at 50 mg/hr. The rate of the infusion can be escalated in increments of 50mg/hr every 30 minutes to a maximum rate of 400 mg/hr. |
 
 ## Follicular lymphoma (FL)
 
-Gazyvaro should be administered at the standard infusion rate in Cycle 1 (see Table 5). In patients who do not experience Grade ≥3 infusion related reactions (IRRs) during Cycle 1, Gazyvaro  may be administered  as a short ( approximately 90 minute) duration infusion (SDI)  from Cycle 2 onwards (see Table 6).
+Gazyvaro should be administered at the standard infusion rate in Cycle 1 (see Table 6). In patients who do not experience Grade ≥3 infusion related reactions (IRRs) during Cycle 1, Gazyvaro may be administered as a short (approximately 90 minute) duration infusion (SDI) from Cycle 2 onwards (see Table 7).
 
 <div style=\"page-break-after: always\"></div>
 
-## Table 5 Follicular lymphoma: Standard infusion rate  and recommendations in case an IRR occurred with previous infusion
+## Table 6 Follicular lymphoma: Standard infusion rate and recommendations in case an IRR occurred with previous infusion
 
-| Cycle             | Day of treatment                                                                                                                                                       | Rate of infusion The infusion rate may be escalated provided that the patient can tolerate it. For management of IRRs that occur during the infusion, refer to 'Management of IRRs'.                                                                                          |
-|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Cycle 1           | Day 1 (1,000 mg) at to                                                                                                                                                 | Administer 50 mg/hr. The rate of infusion can be escalated in 50 mg/hr increments every 30 minutes a maximum of 400 mg/hr.                                                                                                                                                    |
-| Cycle 1           | Day 8 (1,000 mg)                                                                                                                                                       | If no IRR or if an IRR Grade 1 occurred during the previous infusion when the final infusion rate was 100 infusions can be started and increased by 100 30 minutes to a maximum If the patient experienced or higher during the previous administer at 50 can be escalated in |
-| Cycle 1           | Day 15 (1,000 mg)                                                                                                                                                      | at a rate of 100 mg/hr mg/hr increments every                                                                                                                                                                                                                                 |
-| Cycles 2-6 or 2-8 | Day 1 (1,000 mg)                                                                                                                                                       | If no IRR or if an IRR Grade 1 occurred during the previous infusion when the final infusion rate was 100 infusions can be started and increased by 100 30 minutes to a maximum If the patient experienced or higher during the previous administer at 50 can be escalated in |
-| Maintenance       | mg/hr. The rate of infusion 50 mg/hr increments 30 minutes to a maximum of 400 mg/hr. Every 2 months for 2 years or until disease progression (whichever occurs first) | every                                                                                                                                                                                                                                                                         |
+| Cycle                 | Rate of infusion The infusion rate may be escalated provided that the patient can tolerate it. For management of IRRs that occur during the infusion, refer to Management of IRRs.                                                                                                                                                                                                                                                          |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Cycle 1               | Administer at 50 mg/hr. The rate of infusion can be escalated in 50 mg/hr increments every 30 minutes to a maximum of 400 mg/hr.                                                                                                                                                                                                                                                                                                            |
+| Cycle 1               | If no IRR or if an IRR Grade 1 occurred during the previous infusion when the final infusion rate was 100 mg/hr or faster, infusions can be started at a rate of 100 mg/hr and increased by 100 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. If the patient experienced an IRR of Grade 2 or higher during the previous infusion administer at 50 mg/hr. The rate of infusion can be escalated in 50 mg/hr increments every |
+| Cycles 2 - 6 or 2 - 8 | If no IRR or if an IRR Grade 1 occurred during the previous infusion when the final infusion rate was 100 mg/hr or faster, infusions can be started at a rate of 100 mg/hr and increased by 100 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. If the patient experienced an IRR of Grade 2 or higher during the previous infusion administer at 50 mg/hr. The rate of infusion can be escalated in 50 mg/hr increments every |
+| Maintenance           | 30 minutes to a maximum of 400 mg/hr.                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                       | If no IRR or if an IRR Grade 1 occurred during the previous infusion when the final infusion rate was 100 mg/hr or faster, infusions can be started at a rate of 100 mg/hr and increased by 100 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. If the patient experienced an IRR of Grade 2 or higher during the previous infusion administer at 50 mg/hr. The rate of infusion can be escalated in 50 mg/hr increments every |
 
-## Table 6  Follicular lymphoma: Short duration infusion rate and recommendations in case an IRR occurred with previous infusion
+## Table 7 Follicular lymphoma: Short duration infusion (SDI) rate and recommendations in case an IRR occurred with previous infusion
 
-| Cycle                                                                            | Day of treatment                                                                                                                                                                       | Rate of infusion For management of IRRs that occur during the infusion, refer to 'Management of IRRs'.   |
-|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Cycles 2-6 or 2-8                                                                | Day 1 (1,000 mg) no IRR of Grade ≥3 occurred during 1:                                                                                                                                 | If Cycle                                                                                                 |
-| Every 2 months for 2 years or until disease progression (whichever occurs first) | If an IRR of Grade 1-2 with ongoing symptoms or a Grade 3 IRR occurred during the previous SDI infusion, administer the next obinutuzumab infusion at the standard rate (see Table 5). | Maintenance                                                                                              |
+| Cycle                                                                         | Day of treatment                                                                                                                                                                          | Rate of infusion For management of IRRs that occur during the infusion, refer to Management of IRRs.   |
+|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| Cycles 2 - 6 or 2 - 8                                                         | Day 1 (1 000 mg) no IRR of Grade ≥3 occurred during 1:                                                                                                                                    | If Cycle                                                                                               |
+| Every 2 months for 2 years until disease progression (whichever occurs first) | If an IRR of Grade 1-2 with ongoing symptoms or a Grade 3 IRR occurred during the previous SDI infusion, administer the next obinutuzumab infusion at the standard rate (see Table 6). or | Maintenance                                                                                            |
+
+## Lupus nephritis (LN)
+
+The initial Gazyvaro infusion should be administered at the standard infusion rate in Dose 1 (see Table 8).
 
 <div style=\"page-break-after: always\"></div>
 
-## Management of IRRs (all indications)
+Table 8 Lupus nephritis: Standard infusion rate
+
+| Dose number       | Timing of treatment                         | Rate of infusion                                                                                                                                                                                                             |
+|-------------------|---------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1                 | Initial infusion (1 000 mg)                 | Administer at a rate of 50 mg/hr. The rate of infusion can be escalated in 50 mg/hr increments every 30 minutes to a maximum of 400 mg/hr. For management of IRRs that occur during infusion, refer to 'Management of IRRs'. |
+| 2                 | Week 2 - two weeks after Dose 1 (1 000 mg)  | Administer at a rate of 100 mg/hr. The rate of infusion can be escalated at a rate of 100 mg/hr every 30 minutes to a maximum of 400 mg/hr.                                                                                  |
+| 3                 | Week 24 (1 000 mg)                          | Administer at a rate of 100 mg/hr. The rate of infusion can be escalated at a rate of 100 mg/hr every 30 minutes to a maximum of 400 mg/hr.                                                                                  |
+| 4                 | Week 26 - two weeks after Dose 3 (1 000 mg) | Administer at a rate of 100 mg/hr. The rate of infusion can be escalated at a rate of 100 mg/hr every 30 minutes to a maximum of 400 mg/hr.                                                                                  |
+| 5* and thereafter | Every 6 months (1 000 mg)                   | Administer at a rate of 100 mg/hr. The rate of infusion can be escalated at a rate of 100 mg/hr every 30 minutes to a maximum of 400 mg/hr.                                                                                  |
+
+*Dose 5 should be administered six months after Dose 4
+
+## Management of IRRs
 
 Management of IRRs may require temporary interruption, reduction in the rate of infusion, or treatment discontinuations of Gazyvaro as outlined below.
 
-- Grade 4 (life threatening): Infusion must be stopped and therapy must be permanently discontinued.
-- Grade 3 (severe): Infusion must be temporarily stopped and symptoms treated. Upon resolution of symptoms, the infusion can be restarted at no more than half the previous rate (the rate being used at the time that the IRR occurred) and, if the patient does not experience any IRR symptoms, the infusion rate escalation can resume at the increments and intervals as appropriate for the treatment dose (see Tables 4 -6). For CLL patients receiving the Day 1 (Cycle 1) dose split over two days, the Day 1 infusion rate may be increased back up to 25 mg/hr after 1 hour, but not increased further.
+## Chronic lymphocytic leukaemia (CLL) and follicular lymphoma (FL)
+
+-  Grade 4 (life threatening): Infusion must be stopped and therapy must be permanently discontinued.
+-  Grade 3 (severe): Infusion must be temporarily stopped and symptoms treated. Upon resolution of symptoms, the infusion can be restarted at no more than half the previous rate (the rate being used at the time that the IRR occurred) and, if the patient does not experience any IRR symptoms, the infusion rate escalation can resume at the increments and intervals as appropriate for the treatment dose (see Tables 5-7). For CLL patients receiving the Day 1 (Cycle 1) dose split over two days, the Day 1 infusion rate may be increased back up to 25 mg/hr after 1 hour, but not increased further.
 
 The infusion must be stopped and therapy permanently discontinued if the patient experiences a second occurrence of a Grade 3 IRR.
 
-- Grade 1-2 (mild to moderate): The infusion rate must be reduced and symptoms treated. Infusion can be continued upon resolution of symptoms and, if the patient does not experience any IRR symptoms, the infusion rate escalation can resume at the increments and intervals as appropriate for the treatment dose (see Tables 4 -6 ). For CLL patients receiving the Day 1 (Cycle 1) dose split over two days, the Day 1 infusion rate may be increased back up to 25 mg/hr after 1 hour, but not increased further.
+-  Grade 1-2 (mild to moderate): The infusion rate must be reduced and symptoms treated. Infusion can be continued upon resolution of symptoms and, if the patient does not experience any IRR symptoms, the infusion rate escalation can resume at the increments and intervals as appropriate for the treatment dose (see Tables 5-7 ). For CLL patients receiving the Day 1 (Cycle 1) dose split over two days, the Day 1 infusion rate may be increased back up to 25 mg/hr after 1 hour, but not increased further.
 
-## Management of IRRs occurring during SDI
+## IRRs occurring during SDI
 
-- Grade 4 (life threatening): Infusion must be stopped and therapy must be permanently discontinued.
-- Grade 3 (severe): Infusion must be temporarily stopped and symptoms treated. Upon resolution of symptoms, the infusion can be restarted at no more than half the previous rate (the rate being used at the time that the IRR occurred) and not greater than 400 mg/hr.
-- If the patient experiences a second Grade 3 IRR after resuming the infusion, the infusion must be stopped and therapy must be permanently discontinued. If the patient is able to complete the infusion without further Grade 3 IRRs, the next infusion should be given at a rate not higher than the standard rate.
-- Grade 1-2 (mild to moderate): The infusion rate must be reduced and symptoms treated. Infusion can be continued upon resolution of symptoms and, if the patient does not experience any IRR symptoms, the infusion rate escalation can resume at the increments and intervals as appropriate for the treatment dose (see Tables 5 -6).
+-  Grade 4 (life threatening): Infusion must be stopped and therapy must be permanently discontinued.
+-  Grade 3 (severe): Infusion must be temporarily stopped and symptoms treated. Upon resolution of symptoms, the infusion can be restarted at no more than half the previous rate (the rate being used at the time that the IRR occurred) and not greater than 400 mg/hr. If the patient experiences a second Grade 3 IRR after resuming the infusion, the infusion must be stopped and therapy must be permanently discontinued. If the patient is able to complete the infusion
+
+<div style=\"page-break-after: always\"></div>
+
+without further Grade 3 IRRs, the next infusion should be given at a rate not higher than the standard rate.
+
+-  Grade 1-2 (mild to moderate): The infusion rate must be reduced and symptoms treated. Infusion can be continued upon resolution of symptoms and, if the patient does not experience any IRR symptoms, the infusion rate escalation can resume at the increments and intervals as appropriate for the treatment dose (see Tables 5  6).
+
+## Lupus nephritis
+
+-  Grade 4 (life threatening): Infusion must be stopped and therapy must be permanently discontinued.
+-  Grade 3 (severe): Infusion must be temporarily stopped and symptoms treated. Upon resolution of symptoms, the infusion can be restarted at no more than half the previous rate (the rate being used at the time that the IRR occurred) and, if the patient does not experience any further IRR symptoms, the infusion rate escalation can resume at the increments and intervals as appropriate for the treatment dose (see Table 8).
+- The infusion must be stopped and therapy permanently discontinued if the patient experiences a second occurrence of a Grade 3 IRR.
+-  Grade 1-2 (mild to moderate): The infusion rate must be reduced to half the rate that was used at the time of the reaction and symptoms treated. Infusion can be continued upon resolution of symptoms at the reduced rate for an additional 30 minutes. If the patient does not experience any further IRR symptoms, the infusion rate escalation can resume at the increments and intervals as appropriate for the treatment dose (see Table 8).
 
 ## Instructions for dilution
 
 Gazyvaro should be prepared by a healthcare professional using aseptic technique. Do not shake the vial. Use a sterile needle and syringe to prepare Gazyvaro.
 
-## For CLL cycles 2 - 6 and all FL cycles
+For CLL cycles 2 -6, all FL cycles , and throughout LN treatment
 
 Withdraw 40 mL of concentrate from the vial and dilute in polyvinyl chloride (PVC) or non-PVC polyolefin infusion bags containing sodium chloride 9 mg/mL (0.9%) solution for injection.
 
 <!-- formula-not-decoded -->
 
-To ensure differentiation of the two infusion bags for the initial 1,000 mg dose, it is recommended to utilise bags of different sizes to distinguish between the 100 mg dose for Cycle 1 Day 1 and the 900 mg dose for Cycle 1 Day 1 (continued) or Day 2. To prepare the 2 infusion bags, withdraw 40 mL of concentrate from the vial and dilute 4 mL into a 100 mL PVC or non-PVC polyolefin infusion bag
-
-<div style=\"page-break-after: always\"></div>
-
-and the remaining 36 mL in a 250 mL PVC or non-PVC polyolefin infusion bag containing sodium chloride 9 mg/ml (0.9%) solution for injection. Clearly label each infusion bag.
+To ensure differentiation of the two infusion bags for the initial 1 000 mg dose, it is recommended to utilise bags of different sizes to distinguish between the 100 mg dose for Cycle 1 Day 1 and the 900 mg dose for Cycle 1 Day 1 (continued) or Day 2. To prepare the 2 infusion bags, withdraw 40 mL of concentrate from the vial and dilute 4 mL into a 100 mL PVC or non-PVC polyolefin infusion bag and the remaining 36 mL in a 250 mL PVC or non-PVC polyolefin infusion bag containing sodium chloride 9 mg/ml (0.9%) solution for injection. Clearly label each infusion bag.
 
 | Dose of Gazyvaro to be administered   | Required amount of Gazyvaro concentrate   | Size of PVC or non-PVC polyolefin infusion bag   |
 |---------------------------------------|-------------------------------------------|--------------------------------------------------|
 | 100 mg                                | 4 mL                                      | 100 mL                                           |
 | 900 mg                                | 36 mL                                     | 250 mL                                           |
-| 1,000 mg                              | 40 mL                                     | 250 mL                                           |
+| 1 000 mg                              | 40 mL                                     | 250 mL                                           |
 
 No incompatibilities have been observed between Gazyvaro, in concentration ranges from 0.4 mg/mL to 20.0 mg/mL after dilution of Gazyvaro with sodium chloride 9 mg/mL (0.9%) solution for injection, and:
 
-- PVC,  polyethylene (PE), polypropylene or polyolefin bags
-- PVC, polyurethane (PUR) or PE infusion sets
-- optional inline filters with product contact surfaces of polyethersulfone (PES), a 3-way stopcock infusion aid made from polycarbonate (PC), and catheters made from polyetherurethane (PEU).
+-  PVC,  polyethylene (PE), polypropylene or polyolefin bags
+-  PVC, polyurethane (PUR) or PE infusion sets
+-  optional inline filters with product contact surfaces of polyethersulfone (PES), a 3-way stopcock infusion aid made from polycarbonate (PC), and catheters made from polyetherurethane (PEU).
+
+<div style=\"page-break-after: always\"></div>
 
 Do not use other diluents such as glucose (5%) solution.
 

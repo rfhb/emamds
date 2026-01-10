@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 11:07:31
+document_datetime: 2026-01-07 16:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/dupixent.html
 document_name: dupixent.html
 version: success
-processing_time: 0.1619559
-conversion_datetime: 2025-12-31 03:14:18.088123
+processing_time: 0.3353907
+conversion_datetime: 2026-01-10 11:12:01.272348
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -167,7 +167,7 @@ English (EN) (192.35 KB - PDF)
 
 [View](/en/documents/overview/dupixent-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-381)
+[Other languages (22)](#file-language-dropdown-887)
 
 български (BG) (236.67 KB - PDF)
 
@@ -455,7 +455,7 @@ English (EN) (4.95 MB - PDF)
 
 [View](/en/documents/product-information/dupixent-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-213)
+[Other languages (24)](#file-language-dropdown-184)
 
 български (BG) (7.21 MB - PDF)
 
@@ -771,7 +771,7 @@ English (EN) (50.18 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/dupixent-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-741)
+[Other languages (24)](#file-language-dropdown-359)
 
 български (BG) (58.68 KB - PDF)
 
@@ -1119,7 +1119,7 @@ Sanofi Winthrop Industrie
 
 82 Avenue Raspail
 
-Opinion adopted 20/07/2017 Marketing authorisation issued 26/09/2017 Revision 45
+Opinion adopted 20/07/2017 Marketing authorisation issued 26/09/2017 Revision 46
 
 ## Assessment history
 
@@ -1148,6 +1148,18 @@ English (EN) (341.04 KB - PDF)
 **Last updated:** 30/04/2025
 
 [View](/en/documents/procedural-steps-after/dupixent-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Dupixent-PAM-0000301728 - Assessment report
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2798394
+
+English (EN) (667.77 KB - PDF)
+
+**First published:** 07/01/2026
+
+[View](/en/documents/variation-report/dupixent-pam-0000301728-assessment-report_en.pdf)
 
 Dupixent-VR-0000257461 : EPAR - Assessment report
 
@@ -1649,7 +1661,7 @@ English (EN) (67.6 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 01/12/2025
+**This page was last updated on** 07/01/2026
 
 ## Share this page
 

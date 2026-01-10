@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-10-21 11:03:35
+document_datetime: 2026-01-09 13:57:50
 document_pages: 4
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/praluent-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: praluent-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 2.3451266
-conversion_datetime: 2025-12-20 00:00:26.787329
+processing_time: 2.3363596
+conversion_datetime: 2026-01-10 11:17:52.9945
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,12 +25,6 @@ Procedural steps taken and scientific information after the authorisation*
 | Application number   | Scope                              | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
 |----------------------|------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
 | Variation type IB /  | C.I HUMAN AND VETERINARY MEDICINAL | 17/10/2025                          |                                             | SmPC and PL                      |           |
-
-1  Notifications are issued for type I variations and Article 61(3) notifications (unless part of a group including a type II variation or extension application or a worksharing application). Opinions are issued for all other procedures.
-
-2  A Commission decision (CD) is issued for procedures that affect the terms of the marketing authorisation (e.g. summary of product characteristics, annex II, labelling, package leaflet). The CD is issued within two months of the opinion for variations falling under the scope of Article 23.1a(a) of Regulation (EU) No. 712/2012, or within one year for other procedures.
-
-3  SmPC (Summary of Product Characteristics), Annex II, Labelling, PL (Package Leaflet).
 
 <!-- image -->
 

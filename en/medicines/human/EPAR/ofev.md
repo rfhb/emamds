@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 09:46:48
+document_datetime: 2026-01-06 12:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ofev.html
 document_name: ofev.html
 version: success
-processing_time: 0.1185307
-conversion_datetime: 2025-12-31 04:15:42.844606
+processing_time: 0.142662
+conversion_datetime: 2026-01-10 11:26:32.248078
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -125,7 +125,7 @@ English (EN) (111.58 KB - PDF)
 
 [View](/en/documents/overview/ofev-epar-medicines-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-596)
+[Other languages (22)](#file-language-dropdown-196)
 
 български (BG) (136.37 KB - PDF)
 
@@ -405,17 +405,17 @@ English (EN) (2.24 MB - PDF)
 
 Ofev : EPAR - Product Information
 
-English (EN) (1.49 MB - PDF)
+English (EN) (1.55 MB - PDF)
 
 **First published:** 13/02/2015
 
-**Last updated:** 28/03/2025
+**Last updated:** 06/01/2026
 
 [View](/en/documents/product-information/ofev-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-325)
+[Other languages (24)](#file-language-dropdown-97)
 
-български (BG) (1.39 MB - PDF)
+български (BG) (2.87 MB - PDF)
 
 **First published:**
 
@@ -423,11 +423,11 @@ English (EN) (1.49 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/bg/documents/product-information/ofev-epar-product-information_bg.pdf)
 
-español (ES) (1.47 MB - PDF)
+español (ES) (2.64 MB - PDF)
 
 **First published:**
 
@@ -435,11 +435,11 @@ español (ES) (1.47 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/es/documents/product-information/ofev-epar-product-information_es.pdf)
 
-čeština (CS) (1.59 MB - PDF)
+čeština (CS) (3.39 MB - PDF)
 
 **First published:**
 
@@ -447,11 +447,11 @@ español (ES) (1.47 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/cs/documents/product-information/ofev-epar-product-information_cs.pdf)
 
-dansk (DA) (1.4 MB - PDF)
+dansk (DA) (2.67 MB - PDF)
 
 **First published:**
 
@@ -459,11 +459,11 @@ dansk (DA) (1.4 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/da/documents/product-information/ofev-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.46 MB - PDF)
+Deutsch (DE) (2.85 MB - PDF)
 
 **First published:**
 
@@ -471,11 +471,11 @@ Deutsch (DE) (1.46 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/de/documents/product-information/ofev-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.4 MB - PDF)
+eesti keel (ET) (2.6 MB - PDF)
 
 **First published:**
 
@@ -483,11 +483,11 @@ eesti keel (ET) (1.4 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/et/documents/product-information/ofev-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.63 MB - PDF)
+ελληνικά (EL) (2.92 MB - PDF)
 
 **First published:**
 
@@ -495,11 +495,11 @@ eesti keel (ET) (1.4 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/el/documents/product-information/ofev-epar-product-information_el.pdf)
 
-français (FR) (1.52 MB - PDF)
+français (FR) (3.12 MB - PDF)
 
 **First published:**
 
@@ -507,11 +507,11 @@ français (FR) (1.52 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/fr/documents/product-information/ofev-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.34 MB - PDF)
+hrvatski (HR) (2.6 MB - PDF)
 
 **First published:**
 
@@ -519,11 +519,11 @@ hrvatski (HR) (1.34 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/hr/documents/product-information/ofev-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.46 MB - PDF)
+íslenska (IS) (2.59 MB - PDF)
 
 **First published:**
 
@@ -531,11 +531,11 @@ hrvatski (HR) (1.34 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/is/documents/product-information/ofev-epar-product-information_is.pdf)
 
-italiano (IT) (1.5 MB - PDF)
+italiano (IT) (2.87 MB - PDF)
 
 **First published:**
 
@@ -543,11 +543,11 @@ italiano (IT) (1.5 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/it/documents/product-information/ofev-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.42 MB - PDF)
+latviešu valoda (LV) (3.05 MB - PDF)
 
 **First published:**
 
@@ -555,11 +555,11 @@ latviešu valoda (LV) (1.42 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/lv/documents/product-information/ofev-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.42 MB - PDF)
+lietuvių kalba (LT) (2.78 MB - PDF)
 
 **First published:**
 
@@ -567,11 +567,11 @@ lietuvių kalba (LT) (1.42 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/lt/documents/product-information/ofev-epar-product-information_lt.pdf)
 
-magyar (HU) (1.34 MB - PDF)
+magyar (HU) (2.95 MB - PDF)
 
 **First published:**
 
@@ -579,11 +579,11 @@ magyar (HU) (1.34 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/hu/documents/product-information/ofev-epar-product-information_hu.pdf)
 
-Malti (MT) (1.51 MB - PDF)
+Malti (MT) (3.52 MB - PDF)
 
 **First published:**
 
@@ -591,11 +591,11 @@ Malti (MT) (1.51 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/mt/documents/product-information/ofev-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.44 MB - PDF)
+Nederlands (NL) (2.78 MB - PDF)
 
 **First published:**
 
@@ -603,11 +603,11 @@ Nederlands (NL) (1.44 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/nl/documents/product-information/ofev-epar-product-information_nl.pdf)
 
-norsk (NO) (1.4 MB - PDF)
+norsk (NO) (2.71 MB - PDF)
 
 **First published:**
 
@@ -615,11 +615,11 @@ norsk (NO) (1.4 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/no/documents/product-information/ofev-epar-product-information_no.pdf)
 
-polski (PL) (1.47 MB - PDF)
+polski (PL) (3.15 MB - PDF)
 
 **First published:**
 
@@ -627,11 +627,11 @@ polski (PL) (1.47 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/pl/documents/product-information/ofev-epar-product-information_pl.pdf)
 
-português (PT) (1.44 MB - PDF)
+português (PT) (2.66 MB - PDF)
 
 **First published:**
 
@@ -639,11 +639,11 @@ português (PT) (1.44 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/pt/documents/product-information/ofev-epar-product-information_pt.pdf)
 
-română (RO) (1.51 MB - PDF)
+română (RO) (2.7 MB - PDF)
 
 **First published:**
 
@@ -651,11 +651,11 @@ română (RO) (1.51 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/ro/documents/product-information/ofev-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.43 MB - PDF)
+slovenčina (SK) (3 MB - PDF)
 
 **First published:**
 
@@ -663,11 +663,11 @@ slovenčina (SK) (1.43 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/sk/documents/product-information/ofev-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.29 MB - PDF)
+slovenščina (SL) (2.54 MB - PDF)
 
 **First published:**
 
@@ -675,11 +675,11 @@ slovenščina (SL) (1.29 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/sl/documents/product-information/ofev-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.36 MB - PDF)
+Suomi (FI) (2.84 MB - PDF)
 
 **First published:**
 
@@ -687,11 +687,11 @@ Suomi (FI) (1.36 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/fi/documents/product-information/ofev-epar-product-information_fi.pdf)
 
-svenska (SV) (1.38 MB - PDF)
+svenska (SV) (2.63 MB - PDF)
 
 **First published:**
 
@@ -699,11 +699,11 @@ svenska (SV) (1.38 MB - PDF)
 
 **Last updated:**
 
-28/03/2025
+06/01/2026
 
 [View](/sv/documents/product-information/ofev-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000256380 28/03/2025
+**Latest procedure affecting product information:** VR/0000304681 05/01/2026
 
 icon globe
 
@@ -729,7 +729,7 @@ English (EN) (65.85 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ofev-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-849)
+[Other languages (24)](#file-language-dropdown-139)
 
 български (BG) (71.77 KB - PDF)
 
@@ -1052,7 +1052,7 @@ Boehringer Ingelheim International GmbH
 
 Binger Strasse 173 55216
 
-Opinion adopted 20/11/2014 Marketing authorisation issued 14/01/2015 Revision 28
+Opinion adopted 20/11/2014 Marketing authorisation issued 14/01/2015 Revision 29
 
 ## Assessment history
 
@@ -1064,9 +1064,11 @@ Collapse section
 
 Ofev : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (141.1 KB - PDF)
+English (EN) (164.03 KB - PDF)
 
 **First published:** 28/03/2025
+
+**Last updated:** 06/01/2026
 
 [View](/en/documents/procedural-steps-after/ofev-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1315,7 +1317,7 @@ Ofev was withdrawn from the Community register of orphan medicinal products in M
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 28/03/2025
+**This page was last updated on** 06/01/2026
 
 ## Share this page
 

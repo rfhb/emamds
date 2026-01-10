@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 10:27:13
+document_datetime: 2026-01-06 17:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/kapruvia.html
 document_name: kapruvia.html
 version: success
-processing_time: 0.0936562
-conversion_datetime: 2025-12-30 11:58:18.424906
+processing_time: 0.1185978
+conversion_datetime: 2026-01-10 11:11:29.970309
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -101,7 +101,7 @@ English (EN) (121.54 KB - PDF)
 
 [View](/en/documents/overview/kapruvia-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-223)
+[Other languages (22)](#file-language-dropdown-829)
 
 български (BG) (142.88 KB - PDF)
 
@@ -291,17 +291,17 @@ English (EN) (141.47 KB - PDF)
 
 Kapruvia : EPAR - Product Information
 
-English (EN) (279.49 KB - PDF)
+English (EN) (278.56 KB - PDF)
 
 **First published:** 28/04/2022
 
-**Last updated:** 14/10/2024
+**Last updated:** 06/01/2026
 
 [View](/en/documents/product-information/kapruvia-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-186)
+[Other languages (24)](#file-language-dropdown-577)
 
-български (BG) (319.98 KB - PDF)
+български (BG) (304.65 KB - PDF)
 
 **First published:**
 
@@ -309,11 +309,11 @@ English (EN) (279.49 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/bg/documents/product-information/kapruvia-epar-product-information_bg.pdf)
 
-español (ES) (246.62 KB - PDF)
+español (ES) (225.66 KB - PDF)
 
 **First published:**
 
@@ -321,11 +321,11 @@ español (ES) (246.62 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/es/documents/product-information/kapruvia-epar-product-information_es.pdf)
 
-čeština (CS) (337.55 KB - PDF)
+čeština (CS) (291.49 KB - PDF)
 
 **First published:**
 
@@ -333,11 +333,11 @@ español (ES) (246.62 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/cs/documents/product-information/kapruvia-epar-product-information_cs.pdf)
 
-dansk (DA) (180.77 KB - PDF)
+dansk (DA) (182.25 KB - PDF)
 
 **First published:**
 
@@ -345,11 +345,11 @@ dansk (DA) (180.77 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/da/documents/product-information/kapruvia-epar-product-information_da.pdf)
 
-Deutsch (DE) (214.03 KB - PDF)
+Deutsch (DE) (214.31 KB - PDF)
 
 **First published:**
 
@@ -357,11 +357,11 @@ Deutsch (DE) (214.03 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/de/documents/product-information/kapruvia-epar-product-information_de.pdf)
 
-eesti keel (ET) (229.65 KB - PDF)
+eesti keel (ET) (178.67 KB - PDF)
 
 **First published:**
 
@@ -369,11 +369,11 @@ eesti keel (ET) (229.65 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/et/documents/product-information/kapruvia-epar-product-information_et.pdf)
 
-ελληνικά (EL) (325.12 KB - PDF)
+ελληνικά (EL) (328.7 KB - PDF)
 
 **First published:**
 
@@ -381,11 +381,11 @@ eesti keel (ET) (229.65 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/el/documents/product-information/kapruvia-epar-product-information_el.pdf)
 
-français (FR) (233.95 KB - PDF)
+français (FR) (183.11 KB - PDF)
 
 **First published:**
 
@@ -393,11 +393,11 @@ français (FR) (233.95 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/fr/documents/product-information/kapruvia-epar-product-information_fr.pdf)
 
-hrvatski (HR) (329.97 KB - PDF)
+hrvatski (HR) (279.68 KB - PDF)
 
 **First published:**
 
@@ -405,11 +405,11 @@ hrvatski (HR) (329.97 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/hr/documents/product-information/kapruvia-epar-product-information_hr.pdf)
 
-íslenska (IS) (184.57 KB - PDF)
+íslenska (IS) (186.4 KB - PDF)
 
 **First published:**
 
@@ -417,11 +417,11 @@ hrvatski (HR) (329.97 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/is/documents/product-information/kapruvia-epar-product-information_is.pdf)
 
-italiano (IT) (240.61 KB - PDF)
+italiano (IT) (187.84 KB - PDF)
 
 **First published:**
 
@@ -429,11 +429,11 @@ italiano (IT) (240.61 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/it/documents/product-information/kapruvia-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (344.6 KB - PDF)
+latviešu valoda (LV) (296.5 KB - PDF)
 
 **First published:**
 
@@ -441,11 +441,11 @@ latviešu valoda (LV) (344.6 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/lv/documents/product-information/kapruvia-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (363.23 KB - PDF)
+lietuvių kalba (LT) (313.5 KB - PDF)
 
 **First published:**
 
@@ -453,11 +453,11 @@ lietuvių kalba (LT) (363.23 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/lt/documents/product-information/kapruvia-epar-product-information_lt.pdf)
 
-magyar (HU) (319.85 KB - PDF)
+magyar (HU) (268.75 KB - PDF)
 
 **First published:**
 
@@ -465,11 +465,11 @@ magyar (HU) (319.85 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/hu/documents/product-information/kapruvia-epar-product-information_hu.pdf)
 
-Malti (MT) (342.58 KB - PDF)
+Malti (MT) (292.48 KB - PDF)
 
 **First published:**
 
@@ -477,11 +477,11 @@ Malti (MT) (342.58 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/mt/documents/product-information/kapruvia-epar-product-information_mt.pdf)
 
-Nederlands (NL) (183.42 KB - PDF)
+Nederlands (NL) (185.2 KB - PDF)
 
 **First published:**
 
@@ -489,11 +489,11 @@ Nederlands (NL) (183.42 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/nl/documents/product-information/kapruvia-epar-product-information_nl.pdf)
 
-norsk (NO) (232.54 KB - PDF)
+norsk (NO) (181.46 KB - PDF)
 
 **First published:**
 
@@ -501,11 +501,11 @@ norsk (NO) (232.54 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/no/documents/product-information/kapruvia-epar-product-information_no.pdf)
 
-polski (PL) (349.96 KB - PDF)
+polski (PL) (299.29 KB - PDF)
 
 **First published:**
 
@@ -513,11 +513,11 @@ polski (PL) (349.96 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/pl/documents/product-information/kapruvia-epar-product-information_pl.pdf)
 
-português (PT) (231.06 KB - PDF)
+português (PT) (223.63 KB - PDF)
 
 **First published:**
 
@@ -525,11 +525,11 @@ português (PT) (231.06 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/pt/documents/product-information/kapruvia-epar-product-information_pt.pdf)
 
-română (RO) (345.08 KB - PDF)
+română (RO) (293.36 KB - PDF)
 
 **First published:**
 
@@ -537,11 +537,11 @@ română (RO) (345.08 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/ro/documents/product-information/kapruvia-epar-product-information_ro.pdf)
 
-slovenčina (SK) (332.11 KB - PDF)
+slovenčina (SK) (320.36 KB - PDF)
 
 **First published:**
 
@@ -549,11 +549,11 @@ slovenčina (SK) (332.11 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/sk/documents/product-information/kapruvia-epar-product-information_sk.pdf)
 
-slovenščina (SL) (370.95 KB - PDF)
+slovenščina (SL) (314.06 KB - PDF)
 
 **First published:**
 
@@ -561,11 +561,11 @@ slovenščina (SL) (370.95 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/sl/documents/product-information/kapruvia-epar-product-information_sl.pdf)
 
-Suomi (FI) (230.64 KB - PDF)
+Suomi (FI) (182.85 KB - PDF)
 
 **First published:**
 
@@ -573,11 +573,11 @@ Suomi (FI) (230.64 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/fi/documents/product-information/kapruvia-epar-product-information_fi.pdf)
 
-svenska (SV) (267.25 KB - PDF)
+svenska (SV) (217.17 KB - PDF)
 
 **First published:**
 
@@ -585,11 +585,11 @@ svenska (SV) (267.25 KB - PDF)
 
 **Last updated:**
 
-14/10/2024
+06/01/2026
 
 [View](/sv/documents/product-information/kapruvia-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0008 25/07/2024
+**Latest procedure affecting product information:** VR/0000316043 06/01/2026
 
 icon globe
 
@@ -613,7 +613,7 @@ English (EN) (76.2 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/kapruvia-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-354)
+[Other languages (24)](#file-language-dropdown-906)
 
 български (BG) (63.94 KB - PDF)
 
@@ -833,7 +833,7 @@ Vifor Fresenius Medical Care Renal Pharma France
 
 100-101 Terrasse Boieldieu
 
-Opinion adopted 24/02/2022 Marketing authorisation issued 25/04/2022 Revision 3
+Opinion adopted 24/02/2022 Marketing authorisation issued 25/04/2022 Revision 4
 
 ## Assessment history
 
@@ -845,13 +845,21 @@ Collapse section
 
 Kapruvia : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (141.22 KB - PDF)
+
+**First published:** 06/01/2026
+
+[View](/en/documents/procedural-steps-after/kapruvia-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Kapruvia : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (106.99 KB - PDF)
 
 **First published:** 25/07/2022
 
-**Last updated:** 14/10/2024
+**Last updated:** 06/01/2026
 
-[View](/en/documents/procedural-steps-after/kapruvia-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/kapruvia-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Kapruvia : EPAR - Assessment report for paediatric studies submitted according to Article 46 of the Regulation (EC) No 1901/2006
 
@@ -893,7 +901,7 @@ English (EN) (126.01 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 February 2022](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-february-2022) 25/02/2022
 
-**This page was last updated on** 14/10/2024
+**This page was last updated on** 06/01/2026
 
 ## Share this page
 

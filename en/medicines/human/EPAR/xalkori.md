@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 10:59:05
+document_datetime: 2026-01-08 15:34:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xalkori.html
 document_name: xalkori.html
 version: success
-processing_time: 0.1334868
-conversion_datetime: 2025-12-31 03:05:15.454219
+processing_time: 0.154939
+conversion_datetime: 2026-01-10 11:39:44.310148
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -131,7 +131,7 @@ English (EN) (123.55 KB - PDF)
 
 [View](/en/documents/overview/xalkori-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-577)
+[Other languages (22)](#file-language-dropdown-927)
 
 български (BG) (148.3 KB - PDF)
 
@@ -399,11 +399,11 @@ svenska (SV) (120.56 KB - PDF)
 
 Xalkori : EPAR - Risk management plan
 
-English (EN) (1.28 MB - PDF)
+English (EN) (1.77 MB - PDF)
 
 **First published:** 02/12/2022
 
-**Last updated:** 02/07/2025
+**Last updated:** 08/01/2026
 
 [View](/en/documents/rmp/xalkori-epar-risk-management-plan_en.pdf)
 
@@ -419,7 +419,7 @@ English (EN) (717.06 KB - PDF)
 
 [View](/en/documents/product-information/xalkori-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-443)
+[Other languages (24)](#file-language-dropdown-4)
 
 български (BG) (1.27 MB - PDF)
 
@@ -709,7 +709,7 @@ svenska (SV) (1.16 MB - PDF)
 
 [View](/sv/documents/product-information/xalkori-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000293229 19/09/2025
+**Latest procedure affecting product information:** VR/0000317352 05/01/2026
 
 icon globe
 
@@ -735,7 +735,7 @@ English (EN) (26.99 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xalkori-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-632)
+[Other languages (24)](#file-language-dropdown-829)
 
 български (BG) (29.72 KB - PDF)
 
@@ -1051,7 +1051,7 @@ Pfizer Europe MA EEIG
 
 Boulevard de la Plaine 17
 
-Opinion adopted 19/07/2012 Marketing authorisation issued 23/10/2012 Revision 39
+Opinion adopted 19/07/2012 Marketing authorisation issued 23/10/2012 Revision 40
 
 ## Assessment history
 
@@ -1063,11 +1063,11 @@ Collapse section
 
 Xalkori : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (147.3 KB - PDF)
+English (EN) (158.04 KB - PDF)
 
 **First published:** 27/02/2025
 
-**Last updated:** 29/09/2025
+**Last updated:** 08/01/2026
 
 [View](/en/documents/procedural-steps-after/xalkori-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1321,7 +1321,7 @@ English (EN) (622.61 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/xalkori-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-897)
+[Other languages (24)](#file-language-dropdown-65)
 
 български (BG) (661.01 KB - DOCX)
 
@@ -1526,7 +1526,7 @@ svenska (SV) (685.97 KB - DOCX)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 29/09/2025
+**This page was last updated on** 08/01/2026
 
 ## Share this page
 

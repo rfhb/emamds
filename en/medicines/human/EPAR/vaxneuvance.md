@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 09:23:40
+document_datetime: 2026-01-06 10:48:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vaxneuvance.html
 document_name: vaxneuvance.html
 version: success
-processing_time: 0.1055015
-conversion_datetime: 2025-12-30 21:23:55.07503
+processing_time: 0.1266954
+conversion_datetime: 2026-01-10 11:26:18.445488
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -118,7 +118,7 @@ English (EN) (149.8 KB - PDF)
 
 [View](/en/documents/overview/vaxneuvance-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-535)
+[Other languages (22)](#file-language-dropdown-501)
 
 български (BG) (183.15 KB - PDF)
 
@@ -398,17 +398,17 @@ English (EN) (91.15 KB - PDF)
 
 Vaxneuvance : EPAR - Product Information
 
-English (EN) (425.76 KB - PDF)
+English (EN) (449.53 KB - PDF)
 
 **First published:** 17/01/2022
 
-**Last updated:** 16/01/2025
+**Last updated:** 06/01/2026
 
 [View](/en/documents/product-information/vaxneuvance-epar-product-information_en.pdf)
 
 [Other languages (24)](#file-language-dropdown-710)
 
-български (BG) (406.38 KB - PDF)
+български (BG) (417.31 KB - PDF)
 
 **First published:**
 
@@ -416,11 +416,11 @@ English (EN) (425.76 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/bg/documents/product-information/vaxneuvance-epar-product-information_bg.pdf)
 
-español (ES) (457.15 KB - PDF)
+español (ES) (480.87 KB - PDF)
 
 **First published:**
 
@@ -428,11 +428,11 @@ español (ES) (457.15 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/es/documents/product-information/vaxneuvance-epar-product-information_es.pdf)
 
-čeština (CS) (456.38 KB - PDF)
+čeština (CS) (468.08 KB - PDF)
 
 **First published:**
 
@@ -440,11 +440,11 @@ español (ES) (457.15 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/cs/documents/product-information/vaxneuvance-epar-product-information_cs.pdf)
 
-dansk (DA) (437.52 KB - PDF)
+dansk (DA) (450.87 KB - PDF)
 
 **First published:**
 
@@ -452,11 +452,11 @@ dansk (DA) (437.52 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/da/documents/product-information/vaxneuvance-epar-product-information_da.pdf)
 
-Deutsch (DE) (466.72 KB - PDF)
+Deutsch (DE) (491.12 KB - PDF)
 
 **First published:**
 
@@ -464,11 +464,11 @@ Deutsch (DE) (466.72 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/de/documents/product-information/vaxneuvance-epar-product-information_de.pdf)
 
-eesti keel (ET) (442.85 KB - PDF)
+eesti keel (ET) (454.62 KB - PDF)
 
 **First published:**
 
@@ -476,11 +476,11 @@ eesti keel (ET) (442.85 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/et/documents/product-information/vaxneuvance-epar-product-information_et.pdf)
 
-ελληνικά (EL) (429.92 KB - PDF)
+ελληνικά (EL) (447.53 KB - PDF)
 
 **First published:**
 
@@ -488,11 +488,11 @@ eesti keel (ET) (442.85 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/el/documents/product-information/vaxneuvance-epar-product-information_el.pdf)
 
-français (FR) (477.8 KB - PDF)
+français (FR) (487.22 KB - PDF)
 
 **First published:**
 
@@ -500,11 +500,11 @@ français (FR) (477.8 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/fr/documents/product-information/vaxneuvance-epar-product-information_fr.pdf)
 
-hrvatski (HR) (458.08 KB - PDF)
+hrvatski (HR) (470.17 KB - PDF)
 
 **First published:**
 
@@ -512,11 +512,11 @@ hrvatski (HR) (458.08 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/hr/documents/product-information/vaxneuvance-epar-product-information_hr.pdf)
 
-íslenska (IS) (436.15 KB - PDF)
+íslenska (IS) (448.82 KB - PDF)
 
 **First published:**
 
@@ -524,11 +524,11 @@ hrvatski (HR) (458.08 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/is/documents/product-information/vaxneuvance-epar-product-information_is.pdf)
 
-italiano (IT) (468.48 KB - PDF)
+italiano (IT) (483.06 KB - PDF)
 
 **First published:**
 
@@ -536,11 +536,11 @@ italiano (IT) (468.48 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/it/documents/product-information/vaxneuvance-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (411.08 KB - PDF)
+latviešu valoda (LV) (419.57 KB - PDF)
 
 **First published:**
 
@@ -548,11 +548,11 @@ latviešu valoda (LV) (411.08 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/lv/documents/product-information/vaxneuvance-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (447.13 KB - PDF)
+lietuvių kalba (LT) (468.78 KB - PDF)
 
 **First published:**
 
@@ -560,11 +560,11 @@ lietuvių kalba (LT) (447.13 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/lt/documents/product-information/vaxneuvance-epar-product-information_lt.pdf)
 
-magyar (HU) (511.59 KB - PDF)
+magyar (HU) (524.69 KB - PDF)
 
 **First published:**
 
@@ -572,11 +572,11 @@ magyar (HU) (511.59 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/hu/documents/product-information/vaxneuvance-epar-product-information_hu.pdf)
 
-Malti (MT) (463.03 KB - PDF)
+Malti (MT) (476.29 KB - PDF)
 
 **First published:**
 
@@ -584,11 +584,11 @@ Malti (MT) (463.03 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/mt/documents/product-information/vaxneuvance-epar-product-information_mt.pdf)
 
-Nederlands (NL) (448 KB - PDF)
+Nederlands (NL) (473.04 KB - PDF)
 
 **First published:**
 
@@ -596,11 +596,11 @@ Nederlands (NL) (448 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/nl/documents/product-information/vaxneuvance-epar-product-information_nl.pdf)
 
-norsk (NO) (432.9 KB - PDF)
+norsk (NO) (456.15 KB - PDF)
 
 **First published:**
 
@@ -608,11 +608,11 @@ norsk (NO) (432.9 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/no/documents/product-information/vaxneuvance-epar-product-information_no.pdf)
 
-polski (PL) (482.95 KB - PDF)
+polski (PL) (504.46 KB - PDF)
 
 **First published:**
 
@@ -620,11 +620,11 @@ polski (PL) (482.95 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/pl/documents/product-information/vaxneuvance-epar-product-information_pl.pdf)
 
-português (PT) (456.13 KB - PDF)
+português (PT) (475.29 KB - PDF)
 
 **First published:**
 
@@ -632,11 +632,11 @@ português (PT) (456.13 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/pt/documents/product-information/vaxneuvance-epar-product-information_pt.pdf)
 
-română (RO) (448.63 KB - PDF)
+română (RO) (457.53 KB - PDF)
 
 **First published:**
 
@@ -644,11 +644,11 @@ română (RO) (448.63 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/ro/documents/product-information/vaxneuvance-epar-product-information_ro.pdf)
 
-slovenčina (SK) (453.13 KB - PDF)
+slovenčina (SK) (465.08 KB - PDF)
 
 **First published:**
 
@@ -656,11 +656,11 @@ slovenčina (SK) (453.13 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/sk/documents/product-information/vaxneuvance-epar-product-information_sk.pdf)
 
-slovenščina (SL) (435.3 KB - PDF)
+slovenščina (SL) (444.58 KB - PDF)
 
 **First published:**
 
@@ -668,11 +668,11 @@ slovenščina (SL) (435.3 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/sl/documents/product-information/vaxneuvance-epar-product-information_sl.pdf)
 
-Suomi (FI) (472.21 KB - PDF)
+Suomi (FI) (485.8 KB - PDF)
 
 **First published:**
 
@@ -680,11 +680,11 @@ Suomi (FI) (472.21 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/fi/documents/product-information/vaxneuvance-epar-product-information_fi.pdf)
 
-svenska (SV) (436.37 KB - PDF)
+svenska (SV) (460.78 KB - PDF)
 
 **First published:**
 
@@ -692,11 +692,11 @@ svenska (SV) (436.37 KB - PDF)
 
 **Last updated:**
 
-16/01/2025
+06/01/2026
 
 [View](/sv/documents/product-information/vaxneuvance-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** N/0029 15/01/2025
+**Latest procedure affecting product information:** VR/0000308795 10/12/2025
 
 icon globe
 
@@ -722,7 +722,7 @@ English (EN) (26.9 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vaxneuvance-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-518)
+[Other languages (24)](#file-language-dropdown-502)
 
 български (BG) (36.29 KB - PDF)
 
@@ -1042,7 +1042,7 @@ Merck Sharp &amp; Dohme B.V.
 
 Waarderweg 39
 
-Opinion adopted 14/10/2021 Marketing authorisation issued 13/12/2021 Revision 7
+Opinion adopted 14/10/2021 Marketing authorisation issued 13/12/2021 Revision 8
 
 ## Assessment history
 
@@ -1054,13 +1054,21 @@ Collapse section
 
 Vaxneuvance : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (148.84 KB - PDF)
+
+**First published:** 06/01/2026
+
+[View](/en/documents/procedural-steps-after/vaxneuvance-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Vaxneuvance : EPAR - Procedural steps taken and scientific information after authorisation (archived)
+
 English (EN) (135.67 KB - PDF)
 
 **First published:** 25/04/2022
 
 **Last updated:** 16/01/2025
 
-[View](/en/documents/procedural-steps-after/vaxneuvance-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/vaxneuvance-epar-procedural-steps-taken-scientific-information-after-authorisation-archived_en.pdf)
 
 Vaxneuvance-H-C-005477-P46-003 : EPAR - Assessment report
 
@@ -1132,7 +1140,7 @@ English (EN) (137.75 KB - PDF)
 
 - [Vaxneuvance - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/vaxneuvance)
 
-**This page was last updated on** 16/01/2025
+**This page was last updated on** 06/01/2026
 
 ## Share this page
 

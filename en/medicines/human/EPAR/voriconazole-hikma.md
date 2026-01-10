@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 12:13:00
+document_datetime: 2026-01-06 10:08:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/voriconazole-hikma.html
 document_name: voriconazole-hikma.html
 version: success
-processing_time: 0.1153591
-conversion_datetime: 2025-12-31 02:45:08.820164
+processing_time: 0.1419385
+conversion_datetime: 2026-01-10 11:32:47.060194
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -118,7 +118,7 @@ English (EN) (99.74 KB - PDF)
 
 [View](/en/documents/overview/voriconazole-hikma-previously-voriconazole-hospira-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-553)
+[Other languages (22)](#file-language-dropdown-956)
 
 български (BG) (126.13 KB - PDF)
 
@@ -398,17 +398,17 @@ English (EN) (62.36 KB - PDF)
 
 Voriconazole Hikma : EPAR - Product Information
 
-English (EN) (761.02 KB - PDF)
+English (EN) (753.1 KB - PDF)
 
 **First published:** 25/06/2015
 
-**Last updated:** 20/01/2025
+**Last updated:** 06/01/2026
 
 [View](/en/documents/product-information/voriconazole-hikma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-4)
+[Other languages (24)](#file-language-dropdown-654)
 
-български (BG) (947.93 KB - PDF)
+български (BG) (1 MB - PDF)
 
 **First published:**
 
@@ -416,11 +416,11 @@ English (EN) (761.02 KB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/bg/documents/product-information/voriconazole-hikma-epar-product-information_bg.pdf)
 
-español (ES) (737.42 KB - PDF)
+español (ES) (850.16 KB - PDF)
 
 **First published:**
 
@@ -428,11 +428,11 @@ español (ES) (737.42 KB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/es/documents/product-information/voriconazole-hikma-epar-product-information_es.pdf)
 
-čeština (CS) (878.08 KB - PDF)
+čeština (CS) (917.77 KB - PDF)
 
 **First published:**
 
@@ -440,11 +440,11 @@ español (ES) (737.42 KB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/cs/documents/product-information/voriconazole-hikma-epar-product-information_cs.pdf)
 
-dansk (DA) (811.61 KB - PDF)
+dansk (DA) (918.71 KB - PDF)
 
 **First published:**
 
@@ -452,11 +452,11 @@ dansk (DA) (811.61 KB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/da/documents/product-information/voriconazole-hikma-epar-product-information_da.pdf)
 
-Deutsch (DE) (840.57 KB - PDF)
+Deutsch (DE) (992.33 KB - PDF)
 
 **First published:**
 
@@ -464,11 +464,11 @@ Deutsch (DE) (840.57 KB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/de/documents/product-information/voriconazole-hikma-epar-product-information_de.pdf)
 
-eesti keel (ET) (823.27 KB - PDF)
+eesti keel (ET) (827.18 KB - PDF)
 
 **First published:**
 
@@ -476,11 +476,11 @@ eesti keel (ET) (823.27 KB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/et/documents/product-information/voriconazole-hikma-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1005.29 KB - PDF)
+ελληνικά (EL) (1.07 MB - PDF)
 
 **First published:**
 
@@ -488,11 +488,11 @@ eesti keel (ET) (823.27 KB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/el/documents/product-information/voriconazole-hikma-epar-product-information_el.pdf)
 
-français (FR) (906.15 KB - PDF)
+français (FR) (742.14 KB - PDF)
 
 **First published:**
 
@@ -500,11 +500,11 @@ français (FR) (906.15 KB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/fr/documents/product-information/voriconazole-hikma-epar-product-information_fr.pdf)
 
-hrvatski (HR) (860.95 KB - PDF)
+hrvatski (HR) (951.73 KB - PDF)
 
 **First published:**
 
@@ -512,11 +512,11 @@ hrvatski (HR) (860.95 KB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/hr/documents/product-information/voriconazole-hikma-epar-product-information_hr.pdf)
 
-íslenska (IS) (715.01 KB - PDF)
+íslenska (IS) (815.62 KB - PDF)
 
 **First published:**
 
@@ -524,11 +524,11 @@ hrvatski (HR) (860.95 KB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/is/documents/product-information/voriconazole-hikma-epar-product-information_is.pdf)
 
-italiano (IT) (765.23 KB - PDF)
+italiano (IT) (813.07 KB - PDF)
 
 **First published:**
 
@@ -536,11 +536,11 @@ italiano (IT) (765.23 KB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/it/documents/product-information/voriconazole-hikma-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (825.21 KB - PDF)
+latviešu valoda (LV) (940.23 KB - PDF)
 
 **First published:**
 
@@ -548,11 +548,11 @@ latviešu valoda (LV) (825.21 KB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/lv/documents/product-information/voriconazole-hikma-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.26 MB - PDF)
+lietuvių kalba (LT) (972.29 KB - PDF)
 
 **First published:**
 
@@ -560,11 +560,11 @@ lietuvių kalba (LT) (1.26 MB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/lt/documents/product-information/voriconazole-hikma-epar-product-information_lt.pdf)
 
-magyar (HU) (852.52 KB - PDF)
+magyar (HU) (993.59 KB - PDF)
 
 **First published:**
 
@@ -572,11 +572,11 @@ magyar (HU) (852.52 KB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/hu/documents/product-information/voriconazole-hikma-epar-product-information_hu.pdf)
 
-Malti (MT) (1021.26 KB - PDF)
+Malti (MT) (952.34 KB - PDF)
 
 **First published:**
 
@@ -584,11 +584,11 @@ Malti (MT) (1021.26 KB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/mt/documents/product-information/voriconazole-hikma-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.44 MB - PDF)
+Nederlands (NL) (913.54 KB - PDF)
 
 **First published:**
 
@@ -596,11 +596,11 @@ Nederlands (NL) (1.44 MB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/nl/documents/product-information/voriconazole-hikma-epar-product-information_nl.pdf)
 
-norsk (NO) (774.52 KB - PDF)
+norsk (NO) (914.35 KB - PDF)
 
 **First published:**
 
@@ -608,11 +608,11 @@ norsk (NO) (774.52 KB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/no/documents/product-information/voriconazole-hikma-epar-product-information_no.pdf)
 
-polski (PL) (841.08 KB - PDF)
+polski (PL) (1.04 MB - PDF)
 
 **First published:**
 
@@ -620,11 +620,11 @@ polski (PL) (841.08 KB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/pl/documents/product-information/voriconazole-hikma-epar-product-information_pl.pdf)
 
-português (PT) (637.31 KB - PDF)
+português (PT) (846.04 KB - PDF)
 
 **First published:**
 
@@ -632,11 +632,11 @@ português (PT) (637.31 KB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/pt/documents/product-information/voriconazole-hikma-epar-product-information_pt.pdf)
 
-română (RO) (824.78 KB - PDF)
+română (RO) (915.95 KB - PDF)
 
 **First published:**
 
@@ -644,11 +644,11 @@ română (RO) (824.78 KB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/ro/documents/product-information/voriconazole-hikma-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.18 MB - PDF)
+slovenčina (SK) (962.57 KB - PDF)
 
 **First published:**
 
@@ -656,11 +656,11 @@ slovenčina (SK) (1.18 MB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/sk/documents/product-information/voriconazole-hikma-epar-product-information_sk.pdf)
 
-slovenščina (SL) (768.99 KB - PDF)
+slovenščina (SL) (957.12 KB - PDF)
 
 **First published:**
 
@@ -668,11 +668,11 @@ slovenščina (SL) (768.99 KB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/sl/documents/product-information/voriconazole-hikma-epar-product-information_sl.pdf)
 
-Suomi (FI) (798.68 KB - PDF)
+Suomi (FI) (707.62 KB - PDF)
 
 **First published:**
 
@@ -680,11 +680,11 @@ Suomi (FI) (798.68 KB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/fi/documents/product-information/voriconazole-hikma-epar-product-information_fi.pdf)
 
-svenska (SV) (762.66 KB - PDF)
+svenska (SV) (855.31 KB - PDF)
 
 **First published:**
 
@@ -692,11 +692,11 @@ svenska (SV) (762.66 KB - PDF)
 
 **Last updated:**
 
-20/01/2025
+06/01/2026
 
 [View](/sv/documents/product-information/voriconazole-hikma-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0024/G 17/01/2025
+**Latest procedure affecting product information:** VR/0000310244 22/12/2025
 
 icon globe
 
@@ -722,7 +722,7 @@ English (EN) (27.13 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/voriconazole-hikma-previously-voriconazole-hospira-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-679)
+[Other languages (24)](#file-language-dropdown-491)
 
 български (BG) (29.72 KB - PDF)
 
@@ -1053,7 +1053,7 @@ Hikma Farmaceutica (Portugal) S.A.
 
 Estrada do Rio da Mo, 8, 8A-B - Fervenca 2705-906 Terrugem SNT Portugal
 
-Opinion adopted 26/03/2015 Marketing authorisation issued 27/05/2015 Revision 15
+Opinion adopted 26/03/2015 Marketing authorisation issued 27/05/2015 Revision 16
 
 ## Assessment history
 
@@ -1065,13 +1065,21 @@ Collapse section
 
 Voriconazole Hikma (previously Voriconazole Hospira): EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (143.64 KB - PDF)
+
+**First published:** 06/01/2026
+
+[View](/en/documents/procedural-steps-after/voriconazole-hikma-previously-voriconazole-hospira-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Voriconazole Hikma (previously Voriconazole Hospira): EPAR - Procedural steps taken and scientific information after authorisation (archived)
+
 English (EN) (131.31 KB - PDF)
 
 **First published:** 23/03/2016
 
 **Last updated:** 20/01/2025
 
-[View](/en/documents/procedural-steps-after/voriconazole-hikma-previously-voriconazole-hospira-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/voriconazole-hikma-previously-voriconazole-hospira-epar-procedural-steps-taken-scientific-information-after-authorisation-archived_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -1392,7 +1400,7 @@ svenska (SV) (67.11 KB - PDF)
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 20/01/2025
+**This page was last updated on** 06/01/2026
 
 ## Share this page
 

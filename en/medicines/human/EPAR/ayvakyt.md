@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 11:41:42
+document_datetime: 2026-01-09 15:12:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/ayvakyt.html
 document_name: ayvakyt.html
 version: success
-processing_time: 0.123215
-conversion_datetime: 2025-12-31 02:40:09.032593
+processing_time: 0.1257435
+conversion_datetime: 2026-01-10 01:40:18.610924
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -141,7 +141,7 @@ English (EN) (124.53 KB - PDF)
 
 [View](/en/documents/overview/ayvakyt-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-411)
+[Other languages (22)](#file-language-dropdown-918)
 
 български (BG) (141.24 KB - PDF)
 
@@ -409,11 +409,11 @@ svenska (SV) (112.88 KB - PDF)
 
 Ayvakyt : EPAR - Risk management plan
 
-English (EN) (1.59 MB - PDF)
+English (EN) (1.51 MB - PDF)
 
 **First published:** 30/09/2020
 
-**Last updated:** 06/02/2024
+**Last updated:** 09/01/2026
 
 [View](/en/documents/rmp/ayvakyt-epar-risk-management-plan_en.pdf)
 
@@ -421,17 +421,17 @@ English (EN) (1.59 MB - PDF)
 
 Ayvakyt : EPAR - Product information
 
-English (EN) (772.15 KB - PDF)
+English (EN) (801.08 KB - PDF)
 
 **First published:** 30/09/2020
 
-**Last updated:** 18/04/2024
+**Last updated:** 09/01/2026
 
 [View](/en/documents/product-information/ayvakyt-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-877)
+[Other languages (24)](#file-language-dropdown-395)
 
-български (BG) (825.8 KB - PDF)
+български (BG) (927.44 KB - PDF)
 
 **First published:**
 
@@ -439,11 +439,11 @@ English (EN) (772.15 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/bg/documents/product-information/ayvakyt-epar-product-information_bg.pdf)
 
-español (ES) (821.63 KB - PDF)
+español (ES) (808.37 KB - PDF)
 
 **First published:**
 
@@ -451,11 +451,11 @@ español (ES) (821.63 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/es/documents/product-information/ayvakyt-epar-product-information_es.pdf)
 
-čeština (CS) (846.3 KB - PDF)
+čeština (CS) (860.3 KB - PDF)
 
 **First published:**
 
@@ -463,11 +463,11 @@ español (ES) (821.63 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/cs/documents/product-information/ayvakyt-epar-product-information_cs.pdf)
 
-dansk (DA) (813.53 KB - PDF)
+dansk (DA) (793.75 KB - PDF)
 
 **First published:**
 
@@ -475,11 +475,11 @@ dansk (DA) (813.53 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/da/documents/product-information/ayvakyt-epar-product-information_da.pdf)
 
-Deutsch (DE) (881.14 KB - PDF)
+Deutsch (DE) (852.05 KB - PDF)
 
 **First published:**
 
@@ -487,11 +487,11 @@ Deutsch (DE) (881.14 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/de/documents/product-information/ayvakyt-epar-product-information_de.pdf)
 
-eesti keel (ET) (812.41 KB - PDF)
+eesti keel (ET) (814.42 KB - PDF)
 
 **First published:**
 
@@ -499,11 +499,11 @@ eesti keel (ET) (812.41 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/et/documents/product-information/ayvakyt-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.17 MB - PDF)
+ελληνικά (EL) (1.19 MB - PDF)
 
 **First published:**
 
@@ -511,11 +511,11 @@ eesti keel (ET) (812.41 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/el/documents/product-information/ayvakyt-epar-product-information_el.pdf)
 
-français (FR) (884.54 KB - PDF)
+français (FR) (882.69 KB - PDF)
 
 **First published:**
 
@@ -523,11 +523,11 @@ français (FR) (884.54 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/fr/documents/product-information/ayvakyt-epar-product-information_fr.pdf)
 
-hrvatski (HR) (813.56 KB - PDF)
+hrvatski (HR) (851.08 KB - PDF)
 
 **First published:**
 
@@ -535,11 +535,11 @@ hrvatski (HR) (813.56 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/hr/documents/product-information/ayvakyt-epar-product-information_hr.pdf)
 
-íslenska (IS) (810.35 KB - PDF)
+íslenska (IS) (800.75 KB - PDF)
 
 **First published:**
 
@@ -547,11 +547,11 @@ hrvatski (HR) (813.56 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/is/documents/product-information/ayvakyt-epar-product-information_is.pdf)
 
-italiano (IT) (757.3 KB - PDF)
+italiano (IT) (856.4 KB - PDF)
 
 **First published:**
 
@@ -559,11 +559,11 @@ italiano (IT) (757.3 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/it/documents/product-information/ayvakyt-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (717.04 KB - PDF)
+latviešu valoda (LV) (855.29 KB - PDF)
 
 **First published:**
 
@@ -571,11 +571,11 @@ latviešu valoda (LV) (717.04 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/lv/documents/product-information/ayvakyt-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (739.53 KB - PDF)
+lietuvių kalba (LT) (878.36 KB - PDF)
 
 **First published:**
 
@@ -583,11 +583,11 @@ lietuvių kalba (LT) (739.53 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/lt/documents/product-information/ayvakyt-epar-product-information_lt.pdf)
 
-magyar (HU) (901.26 KB - PDF)
+magyar (HU) (943.37 KB - PDF)
 
 **First published:**
 
@@ -595,11 +595,11 @@ magyar (HU) (901.26 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/hu/documents/product-information/ayvakyt-epar-product-information_hu.pdf)
 
-Malti (MT) (873.25 KB - PDF)
+Malti (MT) (944.22 KB - PDF)
 
 **First published:**
 
@@ -607,11 +607,11 @@ Malti (MT) (873.25 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/mt/documents/product-information/ayvakyt-epar-product-information_mt.pdf)
 
-Nederlands (NL) (716.71 KB - PDF)
+Nederlands (NL) (793.52 KB - PDF)
 
 **First published:**
 
@@ -619,11 +619,11 @@ Nederlands (NL) (716.71 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/nl/documents/product-information/ayvakyt-epar-product-information_nl.pdf)
 
-norsk (NO) (714.7 KB - PDF)
+norsk (NO) (792.55 KB - PDF)
 
 **First published:**
 
@@ -631,11 +631,11 @@ norsk (NO) (714.7 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/no/documents/product-information/ayvakyt-epar-product-information_no.pdf)
 
-polski (PL) (830.4 KB - PDF)
+polski (PL) (957.79 KB - PDF)
 
 **First published:**
 
@@ -643,11 +643,11 @@ polski (PL) (830.4 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/pl/documents/product-information/ayvakyt-epar-product-information_pl.pdf)
 
-português (PT) (770.25 KB - PDF)
+português (PT) (808.09 KB - PDF)
 
 **First published:**
 
@@ -655,11 +655,11 @@ português (PT) (770.25 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/pt/documents/product-information/ayvakyt-epar-product-information_pt.pdf)
 
-română (RO) (743.25 KB - PDF)
+română (RO) (898.12 KB - PDF)
 
 **First published:**
 
@@ -667,11 +667,11 @@ română (RO) (743.25 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/ro/documents/product-information/ayvakyt-epar-product-information_ro.pdf)
 
-slovenčina (SK) (753.43 KB - PDF)
+slovenčina (SK) (895.23 KB - PDF)
 
 **First published:**
 
@@ -679,11 +679,11 @@ slovenčina (SK) (753.43 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/sk/documents/product-information/ayvakyt-epar-product-information_sk.pdf)
 
-slovenščina (SL) (728.52 KB - PDF)
+slovenščina (SL) (894.13 KB - PDF)
 
 **First published:**
 
@@ -691,11 +691,11 @@ slovenščina (SL) (728.52 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/sl/documents/product-information/ayvakyt-epar-product-information_sl.pdf)
 
-Suomi (FI) (851.83 KB - PDF)
+Suomi (FI) (832.84 KB - PDF)
 
 **First published:**
 
@@ -703,11 +703,11 @@ Suomi (FI) (851.83 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/fi/documents/product-information/ayvakyt-epar-product-information_fi.pdf)
 
-svenska (SV) (762.83 KB - PDF)
+svenska (SV) (814.05 KB - PDF)
 
 **First published:**
 
@@ -715,11 +715,11 @@ svenska (SV) (762.83 KB - PDF)
 
 **Last updated:**
 
-18/04/2024
+09/01/2026
 
 [View](/sv/documents/product-information/ayvakyt-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0033 17/04/2024
+**Latest procedure affecting product information:** VR/0000275571 27/11/2025
 
 icon globe
 
@@ -745,7 +745,7 @@ English (EN) (26.91 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/ayvakyt-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-191)
+[Other languages (24)](#file-language-dropdown-926)
 
 български (BG) (61.33 KB - PDF)
 
@@ -1080,7 +1080,7 @@ Blueprint Medicines (Netherlands) B.V.
 
 Gustav Mahlerplein 2 1082MA Amsterdam Netherlands
 
-Opinion adopted 23/07/2020 Marketing authorisation issued 24/09/2020 Revision 10
+Opinion adopted 23/07/2020 Marketing authorisation issued 24/09/2020 Revision 11
 
 ## Assessment history
 
@@ -1089,6 +1089,14 @@ Expand section
 Collapse section
 
 ## Changes since initial authorisation of medicine
+
+Ayvakyt : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (161.63 KB - PDF)
+
+**First published:** 09/01/2026
+
+[View](/en/documents/procedural-steps-after/ayvakyt-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Ayvakyt : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
@@ -1228,7 +1236,7 @@ English (EN) (148.57 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 06/08/2025
+**This page was last updated on** 09/01/2026
 
 ## Share this page
 

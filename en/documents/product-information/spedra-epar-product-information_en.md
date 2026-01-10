@@ -1,24 +1,22 @@
 ---
-document_datetime: 2025-04-28 16:45:04
+document_datetime: 2026-01-06 09:16:44
 document_pages: 75
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/spedra-epar-product-information_en.pdf
 document_name: spedra-epar-product-information_en.pdf
 version: success
-processing_time: 14.6620286
-conversion_datetime: 2025-12-27 21:42:13.31491
+processing_time: 14.5440658
+conversion_datetime: 2026-01-10 11:08:18.437626
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I
-
-## SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -146,13 +144,13 @@ Patients should be advised to stop taking PDE5 inhibitors, including avanafil, a
 
 The concomitant use of alpha-blockers and avanafil may lead to symptomatic hypotension in some patients due to additive vasodilatory effects (see section 4.5). Consideration should be given to the following:
 
-- Patients should be stable on alpha-blocker therapy prior to initiating Spedra. Patients who demonstrate haemodynamic instability on alpha-blocker therapy alone are at increased risk of symptomatic hypotension with concomitant use of avanafil.
-- In those patients who are stable on alpha-blocker therapy, avanafil should be initiated at the lowest dose of 50 mg.
-- In those patients already taking an optimised dose of Spedra, alpha-blocker therapy should be initiated at the lowest dose. Stepwise increase in alpha-blocker dose may be associated with further lowering of blood pressure when taking avanafil.
+-  Patients should be stable on alpha-blocker therapy prior to initiating Spedra. Patients who demonstrate haemodynamic instability on alpha-blocker therapy alone are at increased risk of symptomatic hypotension with concomitant use of avanafil.
+-  In those patients who are stable on alpha-blocker therapy, avanafil should be initiated at the lowest dose of 50 mg.
+-  In those patients already taking an optimised dose of Spedra, alpha-blocker therapy should be initiated at the lowest dose. Stepwise increase in alpha-blocker dose may be associated with further lowering of blood pressure when taking avanafil.
 
 <div style=\"page-break-after: always\"></div>
 
-- The safety of combined use of avanafil and alpha-blockers may be affected by other variables, including intravascular volume depletion and other anti-hypertensive medicinal products.
+-  The safety of combined use of avanafil and alpha-blockers may be affected by other variables, including intravascular volume depletion and other anti-hypertensive medicinal products.
 
 ## Concomitant use of CYP3A4 inhibitors
 
@@ -288,7 +286,7 @@ In the long term clinical study, the percentage of patients who experienced adve
 
 ## Tabulated list of adverse reactions
 
-The table below lists the adverse reactions observed in placebo-controlled clinical trials according to the MedDRA frequenc y convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1,000 to &lt; 1/100), rare ( ≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The table below lists the adverse reactions observed in placebo-controlled clinical trials according to the MedDRA frequency convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 | Adverse reaction (MedDRA Preferred Term)        | Adverse reaction (MedDRA Preferred Term)   | Adverse reaction (MedDRA Preferred Term)   | Adverse reaction (MedDRA Preferred Term)                 |
 |-------------------------------------------------|--------------------------------------------|--------------------------------------------|----------------------------------------------------------|
@@ -406,7 +404,7 @@ Elderly Older patients (65 years or over) had comparable exposure to that seen i
 
 ## Renal impairment
 
-In subjects with mild (creatinine clearance ≥ 50 - &lt; 80 mL/min) and moderate (creatinine clearance ≥ 30 - &lt; 50 mL/min) renal impairment, the pharmacokinetics of a single 200 mg dose of avanafil were not altered. There are no data available for subjects with severe renal insufficiency or end-stage renal disease on haemodialysis.
+In subjects with mild (creatinine clearance  50 - &lt; 80 mL/min) and moderate (creatinine clearance  30 - &lt; 50 mL/min) renal impairment, the pharmacokinetics of a single 200 mg dose of avanafil were not altered. There are no data available for subjects with severe renal insufficiency or end-stage renal disease on haemodialysis.
 
 ## Hepatic impairment
 
@@ -420,11 +418,11 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 In a rat fertility and early embryonic development trial, a decrease in fertility and sperm motility, altered estrous cycles, and an increased percentage of abnormal sperm occurred at 1000 mg/kg/day, a dose which also caused parental toxicity in the treated males and females. No effects on fertility or sperm parameters were noted at doses up to 300 mg/kg/day (in male rats 9 times human exposure based on unbound AUC at a dose of 200 mg). There were no treatment-related testicular findings in mice or rats treated with doses up to 600 or 1000 mg/kg/day for 2 years, and no testicular findings in dogs treated with avanafil for 9 months at exposures 110 times human exposure at the Maximum Recommended Human Dose (MRHD).
 
-In pregnant rats, no evidence of teratogenicity, embryotoxicity, or fetotoxicity was observed at doses up to 300 mg/kg/day (approximately 15 times the MRHD on a mg/m 2 basis in a 60 kg subject). At a maternally toxic dose of 1000 mg/kg/day (approximately 49 times the MRHD on a mg/m 2 basis), decreased fetal body weight occurred with no signs of teratogenicity. In pregnant rabbits, no teratogenicity, embryotoxicity or fetotoxicity was observed at doses up to 240 mg/kg/day (approximately 23 times the MRHD on a mg/m 2 basis. In the rabbit study, maternal toxicity was observed at 240 mg/kg/day.
+In pregnant rats, no evidence of teratogenicity, embryotoxicity, or fetotoxicity was observed at doses up to 300 mg/kg/day (approximately 15 times the MRHD on a mg/m 2  basis in a 60 kg subject). At a maternally toxic dose of 1000 mg/kg/day (approximately 49 times the MRHD on a mg/m 2  basis), decreased fetal body weight occurred with no signs of teratogenicity. In pregnant rabbits, no teratogenicity, embryotoxicity or fetotoxicity was observed at doses up to 240 mg/kg/day (approximately 23 times the MRHD on a mg/m 2  basis. In the rabbit study, maternal toxicity was observed at 240 mg/kg/day.
 
 <div style=\"page-break-after: always\"></div>
 
-In a rat pre- and post-natal development study, pups exhibited persistent decreases in body weight at 300 mg/kg/day and higher (approximately 15 times the MRHD on a mg/m 2 basis) and delayed sexual development at 600 mg/kg/day (approximately 29 times the MRHD on a mg/m 2 basis).
+In a rat pre- and post-natal development study, pups exhibited persistent decreases in body weight at 300 mg/kg/day and higher (approximately 15 times the MRHD on a mg/m 2  basis) and delayed sexual development at 600 mg/kg/day (approximately 29 times the MRHD on a mg/m 2  basis).
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -602,13 +600,13 @@ Patients should be advised to stop taking PDE5 inhibitors, including avanafil, a
 
 The concomitant use of alpha-blockers and avanafil may lead to symptomatic hypotension in some patients due to additive vasodilatory effects (see section 4.5). Consideration should be given to the following:
 
-- Patients should be stable on alpha-blocker therapy prior to initiating Spedra. Patients who demonstrate haemodynamic instability on alpha-blocker therapy alone are at increased risk of symptomatic hypotension with concomitant use of avanafil.
-- In those patients who are stable on alpha-blocker therapy, avanafil should be initiated at the lowest dose of 50 mg.
-- In those patients already taking an optimised dose of Spedra, alpha-blocker therapy should be initiated at the lowest dose. Stepwise increase in alpha-blocker dose may be associated with further lowering of blood pressure when taking avanafil.
+-  Patients should be stable on alpha-blocker therapy prior to initiating Spedra. Patients who demonstrate haemodynamic instability on alpha-blocker therapy alone are at increased risk of symptomatic hypotension with concomitant use of avanafil.
+-  In those patients who are stable on alpha-blocker therapy, avanafil should be initiated at the lowest dose of 50 mg.
+-  In those patients already taking an optimised dose of Spedra, alpha-blocker therapy should be initiated at the lowest dose. Stepwise increase in alpha-blocker dose may be associated with further lowering of blood pressure when taking avanafil.
 
 <div style=\"page-break-after: always\"></div>
 
-- The safety of combined use of avanafil and alpha-blockers may be affected by other variables, including intravascular volume depletion and other anti-hypertensive medicinal products.
+-  The safety of combined use of avanafil and alpha-blockers may be affected by other variables, including intravascular volume depletion and other anti-hypertensive medicinal products.
 
 ## Concomitant use of CYP3A4 inhibitors
 
@@ -744,7 +742,7 @@ In the long term clinical study, the percentage of patients who experienced adve
 
 ## Tabulated list of adverse reactions
 
-The table below lists the adverse reactions observed in placebo-controlled clinical trials according to the MedDRA frequency convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1,000 to &lt; 1/100), rare ( ≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The table below lists the adverse reactions observed in placebo-controlled clinical trials according to the MedDRA frequency convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 | Adverse reaction (MedDRA Preferred Term)        | Adverse reaction (MedDRA Preferred Term)   | Adverse reaction (MedDRA Preferred Term)   | Adverse reaction (MedDRA Preferred Term)                 |
 |-------------------------------------------------|--------------------------------------------|--------------------------------------------|----------------------------------------------------------|
@@ -864,7 +862,7 @@ Older patients (65 years or over) had comparable exposure to that seen in younge
 
 ## Renal impairment
 
-In subjects with mild (creatinine clearance ≥ 50 - &lt; 80 mL/min) and moderate (creatinine clearance ≥ 30 - &lt; 50 mL/min) renal impairment, the pharmacokinetics of a single 200 mg dose of avanafil were not altered. There are no data available for subjects with severe renal insufficiency or end-stage renal disease on haemodialysis.
+In subjects with mild (creatinine clearance  50 - &lt; 80 mL/min) and moderate (creatinine clearance  30 - &lt; 50 mL/min) renal impairment, the pharmacokinetics of a single 200 mg dose of avanafil were not altered. There are no data available for subjects with severe renal insufficiency or end-stage renal disease on haemodialysis.
 
 ## Hepatic impairment
 
@@ -878,11 +876,11 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 In a rat fertility and early embryonic development trial, a decrease in fertility and sperm motility, altered estrous cycles, and an increased percentage of abnormal sperm occurred at 1000 mg/kg/day, a dose which also caused parental toxicity in the treated males and females. No effects on fertility or sperm parameters were noted at doses up to 300 mg/kg/day (in male rats 9 times human exposure based on unbound AUC at a dose of 200 mg). There were no treatment-related testicular findings in mice or rats treated with doses up to 600 or 1000 mg/kg/day for 2 years, and no testicular findings in dogs treated with avanafil for 9 months at exposures 110 times human exposure at the Maximum Recommended Human Dose (MRHD).
 
-In pregnant rats, no evidence of teratogenicity, embryotoxicity, or fetotoxicity was observed at doses up to 300 mg/kg/day (approximately 15 times the MRHD on a mg/m 2 basis in a 60 kg subject). At a maternally toxic dose of 1000 mg/kg/day (approximately 49 times the MRHD on a mg/m 2 basis), decreased fetal body weight occurred with no signs of teratogenicity. In pregnant rabbits, no teratogenicity, embryotoxicity or fetotoxicity was observed at doses up to 240 mg/kg/day (approximately 23 times the MRHD on a mg/m 2 basis. In the rabbit study, maternal toxicity was observed at 240 mg/kg/day.
+In pregnant rats, no evidence of teratogenicity, embryotoxicity, or fetotoxicity was observed at doses up to 300 mg/kg/day (approximately 15 times the MRHD on a mg/m 2  basis in a 60 kg subject). At a maternally toxic dose of 1000 mg/kg/day (approximately 49 times the MRHD on a mg/m 2  basis), decreased fetal body weight occurred with no signs of teratogenicity. In pregnant rabbits, no teratogenicity, embryotoxicity or fetotoxicity was observed at doses up to 240 mg/kg/day (approximately 23 times the MRHD on a mg/m 2  basis. In the rabbit study, maternal toxicity was observed at 240 mg/kg/day.
 
 <div style=\"page-break-after: always\"></div>
 
-In a rat pre- and post-natal development study, pups exhibited persistent decreases in body weight at 300 mg/kg/day and higher (approximately 15 times the MRHD on a mg/m 2 basis) and delayed sexual development at 600 mg/kg/day (approximately 29 times the MRHD on a mg/m 2 basis).
+In a rat pre- and post-natal development study, pups exhibited persistent decreases in body weight at 300 mg/kg/day and higher (approximately 15 times the MRHD on a mg/m 2  basis) and delayed sexual development at 600 mg/kg/day (approximately 29 times the MRHD on a mg/m 2  basis).
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -1062,13 +1060,13 @@ Patients should be advised to stop taking PDE5 inhibitors, including avanafil, a
 
 The concomitant use of alpha-blockers and avanafil may lead to symptomatic hypotension in some patients due to additive vasodilatory effects (see section 4.5). Consideration should be given to the following:
 
-- Patients should be stable on alpha-blocker therapy prior to initiating Spedra. Patients who demonstrate haemodynamic instability on alpha-blocker therapy alone are at increased risk of symptomatic hypotension with concomitant use of avanafil.
-- In those patients who are stable on alpha-blocker therapy, avanafil should be initiated at the lowest dose of 50 mg.
-- In those patients already taking an optimised dose of Spedra, alpha-blocker therapy should be initiated at the lowest dose. Stepwise increase in alpha-blocker dose may be associated with further lowering of blood pressure when taking avanafil.
+-  Patients should be stable on alpha-blocker therapy prior to initiating Spedra. Patients who demonstrate haemodynamic instability on alpha-blocker therapy alone are at increased risk of symptomatic hypotension with concomitant use of avanafil.
+-  In those patients who are stable on alpha-blocker therapy, avanafil should be initiated at the lowest dose of 50 mg.
+-  In those patients already taking an optimised dose of Spedra, alpha-blocker therapy should be initiated at the lowest dose. Stepwise increase in alpha-blocker dose may be associated with further lowering of blood pressure when taking avanafil.
 
 <div style=\"page-break-after: always\"></div>
 
-- The safety of combined use of avanafil and alpha-blockers may be affected by other variables, including intravascular volume depletion and other anti-hypertensive medicinal products.
+-  The safety of combined use of avanafil and alpha-blockers may be affected by other variables, including intravascular volume depletion and other anti-hypertensive medicinal products.
 
 ## Concomitant use of CYP3A4 inhibitors
 
@@ -1204,7 +1202,7 @@ In the long term clinical study, the percentage of patients who experienced adve
 
 ## Tabulated list of adverse reactions
 
-The table below lists the adverse reactions observed in placebo-controlled clinical trials according to the MedDRA frequency convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1,000 to &lt; 1/100), rare ( ≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The table below lists the adverse reactions observed in placebo-controlled clinical trials according to the MedDRA frequency convention: very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 | Adverse reaction (MedDRA Preferred Term)        | Adverse reaction (MedDRA Preferred Term)   | Adverse reaction (MedDRA Preferred Term)   | Adverse reaction (MedDRA Preferred Term)                 |
 |-------------------------------------------------|--------------------------------------------|--------------------------------------------|----------------------------------------------------------|
@@ -1326,7 +1324,7 @@ Older patients (65 years or over) had comparable exposure to that seen in younge
 
 ## Renal impairment
 
-In subjects with mild (creatinine clearance ≥ 50 - &lt; 80 mL/min) and moderate (creatinine clearance ≥ 30 - &lt; 50 mL/min) renal impairment, the pharmacokinetics of a single 200 mg dose of avanafil were not altered. There are no data available for subjects with severe renal insufficiency or end-stage renal disease on haemodialysis.
+In subjects with mild (creatinine clearance  50 - &lt; 80 mL/min) and moderate (creatinine clearance  30 - &lt; 50 mL/min) renal impairment, the pharmacokinetics of a single 200 mg dose of avanafil were not altered. There are no data available for subjects with severe renal insufficiency or end-stage renal disease on haemodialysis.
 
 ## Hepatic impairment
 
@@ -1340,11 +1338,11 @@ Non-clinical data reveal no special hazard for humans based on conventional stud
 
 In a rat fertility and early embryonic development trial, a decrease in fertility and sperm motility, altered estrous cycles, and an increased percentage of abnormal sperm occurred at 1000 mg/kg/day, a dose which also caused parental toxicity in the treated males and females. No effects on fertility or sperm parameters were noted at doses up to 300 mg/kg/day (in male rats 9 times human exposure based on unbound AUC at a dose of 200 mg). There were no treatment-related testicular findings in mice or rats treated with doses up to 600 or 1000 mg/kg/day for 2 years, and no testicular findings in dogs treated with avanafil for 9 months at exposures 110 times human exposure at the Maximum Recommended Human Dose (MRHD).
 
-In pregnant rats, no evidence of teratogenicity, embryotoxicity, or fetotoxicity was observed at doses up to 300 mg/kg/day (approximately 15 times the MRHD on a mg/m 2 basis in a 60 kg subject). At a maternally toxic dose of 1000 mg/kg/day (approximately 49 times the MRHD on a mg/m 2 basis), decreased fetal body weight occurred with no signs of teratogenicity. In pregnant rabbits, no teratogenicity, embryotoxicity or fetotoxicity was observed at doses up to 240 mg/kg/day (approximately 23 times the MRHD on a mg/m 2 basis. In the rabbit study, maternal toxicity was observed at 240 mg/kg/day.
+In pregnant rats, no evidence of teratogenicity, embryotoxicity, or fetotoxicity was observed at doses up to 300 mg/kg/day (approximately 15 times the MRHD on a mg/m 2  basis in a 60 kg subject). At a maternally toxic dose of 1000 mg/kg/day (approximately 49 times the MRHD on a mg/m 2  basis), decreased fetal body weight occurred with no signs of teratogenicity. In pregnant rabbits, no teratogenicity, embryotoxicity or fetotoxicity was observed at doses up to 240 mg/kg/day (approximately 23 times the MRHD on a mg/m 2  basis. In the rabbit study, maternal toxicity was observed at 240 mg/kg/day.
 
 <div style=\"page-break-after: always\"></div>
 
-In a rat pre- and post-natal development study, pups exhibited persistent decreases in body weight at 300 mg/kg/day and higher (approximately 15 times the MRHD on a mg/m 2 basis) and delayed sexual development at 600 mg/kg/day (approximately 29 times the MRHD on a mg/m 2 basis).
+In a rat pre- and post-natal development study, pups exhibited persistent decreases in body weight at 300 mg/kg/day and higher (approximately 15 times the MRHD on a mg/m 2  basis) and delayed sexual development at 600 mg/kg/day (approximately 29 times the MRHD on a mg/m 2  basis).
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -1384,7 +1382,9 @@ Luxembourg
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/13/841/008-011 EU/1/13/841/019-022
+EU/1/13/841/008-011
+
+EU/1/13/841/019-022
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1408,7 +1408,7 @@ Detailed information on this medicinal product is available on the website of th
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1416,9 +1416,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Menarini - Von Heyden GmbH Leipziger Stra β e 7-13 01097 Dresden Germany or
-
-Sanofi Winthrop Industrie 1, rue de la Vierge Ambares et Lagrave 33565 Carbon-Blanc-Cedex France
+Menarini - Von Heyden GmbH Leipziger Straβe 7-13 01097 Dresden Germany
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
@@ -1428,20 +1426,20 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic Safety Update Reports
+##  Periodic Safety Update Reports
 
 The requirements for submission of periodic safety update reports for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk Management Plan (RMP)
+##  Risk Management Plan (RMP)
 
 The MAH shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the Marketing Authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1469,13 +1467,17 @@ Each tablet contains 50 mg avanafil.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-4x1 tablets 8x1 tablets
+4x1 tablets
+
+8x1 tablets
 
 12x1 tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use.
+Read the package leaflet before use.
+
+Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1543,17 +1545,17 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTERS                                              |
+| MINIMUM PARTICULARS TO APPEARON BLISTERSOR STRIPS   |
+|-----------------------------------------------------|
+| BLISTERS                                            |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Spedra 50 mg tablets avanafil
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Menarini Luxembourg
 
@@ -1569,8 +1571,6 @@ Lot
 
 | 5.   | OTHER   |
 |------|---------|
-
-47
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1670,17 +1670,17 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTERS                                              |
+| MINIMUM PARTICULARS TO APPEARON BLISTERSOR STRIPS   |
+|-----------------------------------------------------|
+| BLISTERS                                            |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Spedra 100 mg tablets avanafil
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Menarini Luxembourg
 
@@ -1713,7 +1713,13 @@ Each tablet contains 200 mg avanafil.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-4x1 tablets 8x1 tablets 12x1 tablets 2x1 tablets
+4x1 tablets
+
+8x1 tablets
+
+12x1 tablets
+
+2x1 tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1749,7 +1755,7 @@ Luxembourg
 
 EU/1/13/841/008 4x1 tablets
 
-EU/1/13/841/009 8x1 tablets
+- EU/1/13/841/009 8x1 tablets
 
 EU/1/13/841/010 12x1 tablets
 
@@ -1759,9 +1765,8 @@ EU/1/13/841/019 2x1 tablets
 
 EU/1/13/841/020 4x1 tablets
 
-EU/1/13/841/021 8x1 tablets
-
-EU/1/13/841/022 12x1 tablets
+- EU/1/13/841/021 8x1 tablets
+- EU/1/13/841/022 12x1 tablets
 
 ## 13. BATCH NUMBER
 
@@ -1769,7 +1774,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1789,17 +1794,17 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTERS                                              |
+| MINIMUM PARTICULARS TO APPEARON BLISTERSOR STRIPS   |
+|-----------------------------------------------------|
+| BLISTERS                                            |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Spedra 200 mg tablets avanafil
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Menarini Luxembourg
 
@@ -1858,21 +1863,21 @@ Spedra will not help you if you do not have erectile dysfunction. Spedra is not 
 
 ## Do not take Spedra:
 
-- If you are allergic to avanafil or any of the other ingredients of this medicine (listed in section 6)
-- If you are taking 'nitrate' medicines for chest pain (angina), such as amyl nitrite or glyceryl trinitrate. Spedra can increase the effects of these medicines and severely lower your blood pressure
-- If you are taking   s for HIV or AIDS such as ritonavir, indinavir, saquinavir, nelfinavir or atazanavir
-- If you are taking medicines for fungal infections such as ketoconazole, itraconazole or voriconazole or certain antibiotics for bacterial infections, such as clarithromycin or telithromycin
+-  If you are allergic to avanafil or any of the other ingredients of this medicine (listed in section 6)
+-  If you are taking 'nitrate' medicines for chest pain (angina), such as amyl nitrite or glyceryl trinitrate. Spedra can increase the effects of these medicines and severely lower your blood pressure
+-  If you are taking   s for HIV or AIDS such as ritonavir, indinavir, saquinavir, nelfinavir or atazanavir
+-  If you are taking medicines for fungal infections such as ketoconazole, itraconazole or voriconazole or certain antibiotics for bacterial infections, such as clarithromycin or telithromycin
 
 <div style=\"page-break-after: always\"></div>
 
-- If you have a serious cardiac problem
-- If you have had a stroke or heart attack in the last 6 months
-- If you have low blood pressure or high blood pressure not controlled by medicines
-- If you have chest pain (angina) or you get chest pain during sexual intercourse
-- If you have a serious liver or kidney problem
-- If you have loss of vision in one eye due to not enough blood getting to your eye (non-arteritic ischemic optic neuropathy [NAION])
-- If certain serious eye problems run in your family (such as retinitis pigmentosa).
-- If you are taking riociguat. This medicine is used to treat pulmonary arterial hypertension (i.e., high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e., high blood pressure in the lungs secondary to blood clots). PDE5 inhibitors have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
+-  If you have a serious cardiac problem
+-  If you have had a stroke or heart attack in the last 6 months
+-  If you have low blood pressure or high blood pressure not controlled by medicines
+-  If you have chest pain (angina) or you get chest pain during sexual intercourse
+-  If you have a serious liver or kidney problem
+-  If you have loss of vision in one eye due to not enough blood getting to your eye (non-arteritic ischemic optic neuropathy [NAION])
+-  If certain serious eye problems run in your family (such as retinitis pigmentosa).
+-  If you are taking riociguat. This medicine is used to treat pulmonary arterial hypertension (i.e., high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e., high blood pressure in the lungs secondary to blood clots). PDE5 inhibitors have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
 
 Do not take Spedra if any of the above apply to you. If you are not sure, talk to your doctor or pharmacist before taking Spedra.
 
@@ -1880,10 +1885,10 @@ Do not take Spedra if any of the above apply to you. If you are not sure, talk t
 
 Talk to your doctor or pharmacist before taking Spedra:
 
-- If you have heart trouble. It may be risky for you to have sexual intercourse
-- If you suffer from priapism, that is a persistent erection lasting 4 hours or more. This can happen in men with conditions like sickle cell disease, multiple myeloma or leukaemia.
-- If you have a physical condition that affects the shape of your penis (such as angulation, Peyronie's disease or cavernosal fibrosis)
-- If you have any bleeding disorder or active peptic ulceration.
+-  If you have heart trouble. It may be risky for you to have sexual intercourse
+-  If you suffer from priapism, that is a persistent erection lasting 4 hours or more. This can happen in men with conditions like sickle cell disease, multiple myeloma or leukaemia.
+-  If you have a physical condition that affects the shape of your penis (such as angulation, Peyronie's disease or cavernosal fibrosis)
+-  If you have any bleeding disorder or active peptic ulceration.
 
 If any of the above apply to you talk to your doctor or pharmacist before taking Spedra. Check with your doctor or pharmacist if you are not sure.
 
@@ -1907,13 +1912,13 @@ In particular, tell your doctor and do not take Spedra if you are taking 'nitrat
 
 Tell your doctor or pharmacist if you are taking any of the following medicines:
 
-- so called 'alpha-blockers' - for prostate problems or for lowering your high blood pressure
-- medicines for an irregular heartbeat ('arrhythmia') such as quinidine, procainamide, amiodarone or sotalol
-- antibiotics for infections such as erythromycin
-- phenobarbital or primidone - for epilepsy
-- carbamazepine - for epilepsy, to stabilise your mood or for certain types of pain
-- other medicines that may reduce the breakdown of Spedra in the body ('moderate CYP3A4 inhibitors') including amprenavir, aprepitant, diltiazem, fluconazole, fosamprenavir, and verapamil.
-- riociguat
+-  so called 'alpha-blockers' - for prostate problems or for lowering your high blood pressure
+-  medicines for an irregular heartbeat ('arrhythmia') such as quinidine, procainamide, amiodarone or sotalol
+-  antibiotics for infections such as erythromycin
+-  phenobarbital or primidone - for epilepsy
+-  carbamazepine - for epilepsy, to stabilise your mood or for certain types of pain
+-  other medicines that may reduce the breakdown of Spedra in the body ('moderate CYP3A4 inhibitors') including amprenavir, aprepitant, diltiazem, fluconazole, fosamprenavir, and verapamil.
+-  riociguat
 
 Do not use Spedra together with other treatments for erectile dysfunction such as sildenafil, tadalafil or vardenafil.
 
@@ -1959,10 +1964,10 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Stop taking Spedra and see a doctor straight away if you notice any of the following serious side effects - you may need urgent medical treatment:
 
-- an erection that will not go away ('priapism'). If you get an erection that lasts more than 4 hours, this must be treated as soon as possible or lasting damage can happen to your penis (including not being able to get erections).
-- blurred vision.
-- sudden decrease or loss of vision in one or both eyes.
-- sudden decrease or loss of hearing (sometimes you may also feel dizzy or have ringing in your ears).
+-  an erection that will not go away ('priapism'). If you get an erection that lasts more than 4 hours, this must be treated as soon as possible or lasting damage can happen to your penis (including not being able to get erections).
+-  blurred vision.
+-  sudden decrease or loss of vision in one or both eyes.
+-  sudden decrease or loss of hearing (sometimes you may also feel dizzy or have ringing in your ears).
 
 Stop taking Spedra and see a doctor straight away, if you notice any of the serious side effects above.
 
@@ -1970,68 +1975,68 @@ Stop taking Spedra and see a doctor straight away, if you notice any of the seri
 
 ## Common (may affect up to 1 in 10 people)
 
-- headache
-- flushing
-- nasal congestion
+-  headache
+-  flushing
+-  nasal congestion
 
 ## Uncommon (may affect up to 1 in 100 people)
 
-- feeling dizzy
-- feeling sleepy or very tired
-- sinus congestion
-- back pain
-- hot flush
-- feeling out of breath when you exert yourself
-- heartbeat changes seen on a heart tracing (ECG)
-- increased heart beat
-- feeling your heartbeat in your chest (palpitations)
-- indigestion, feeling or being sick to your stomach
-- blurry vision
-- raised liver enzymes
+-  feeling dizzy
+-  feeling sleepy or very tired
+-  sinus congestion
+-  back pain
+-  hot flush
+-  feeling out of breath when you exert yourself
+-  heartbeat changes seen on a heart tracing (ECG)
+-  increased heart beat
+-  feeling your heartbeat in your chest (palpitations)
+-  indigestion, feeling or being sick to your stomach
+-  blurry vision
+-  raised liver enzymes
 
 ## Rare (may affect up to 1 in 1,000 people)
 
-- influenza
-- influenza-like illness
-- stuffy or runny nose
-- hayfever
-- congestion in the nose, sinuses or upper part of the airway bringing air into the lungs
-- gout
-- trouble sleeping (insomnia)
+-  influenza
+-  influenza-like illness
+-  stuffy or runny nose
+-  hayfever
+-  congestion in the nose, sinuses or upper part of the airway bringing air into the lungs
+-  gout
+-  trouble sleeping (insomnia)
 
 <div style=\"page-break-after: always\"></div>
 
-- premature ejaculation
-- feeling strange
-- feeling unable to keep still
-- chest pain
-- serious chest pain
-- fast heart beat
-- high blood pressure
-- low blood pressure
-- dry mouth
-- stomach ache or heartburn
-- pain or discomfort in the lower abdomen
-- diarrhoea
-- rash
-- pain in the lower back or side of lower chest
-- muscle aches or pains
-- muscle spasms
-- frequent urination
-- penile disorder
-- spontaneous erection without sexual stimulation
-- itching in the genital area
-- feeling weak or tired all the time
-- swelling in the feet or ankles
-- increased blood pressure
-- pink or red urine, blood in the urine
-- abnormal extra sound from the heart
-- an abnormal blood test result for a prostate test called 'PSA'
-- an abnormal blood test result for bilirubin, a chemical produced from the normal breakdown of red blood cells
-- an abnormal blood test result for creatinine, a chemical excreted in the urine, and a measure of kidney function
-- weight gain
-- fever
-- nosebleed
+-  premature ejaculation
+-  feeling strange
+-  feeling unable to keep still
+-  chest pain
+-  serious chest pain
+-  fast heart beat
+-  high blood pressure
+-  low blood pressure
+-  dry mouth
+-  stomach ache or heartburn
+-  pain or discomfort in the lower abdomen
+-  diarrhoea
+-  rash
+-  pain in the lower back or side of lower chest
+-  muscle aches or pains
+-  muscle spasms
+-  frequent urination
+-  penile disorder
+-  spontaneous erection without sexual stimulation
+-  itching in the genital area
+-  feeling weak or tired all the time
+-  swelling in the feet or ankles
+-  increased blood pressure
+-  pink or red urine, blood in the urine
+-  abnormal extra sound from the heart
+-  an abnormal blood test result for a prostate test called 'PSA'
+-  an abnormal blood test result for bilirubin, a chemical produced from the normal breakdown of red blood cells
+-  an abnormal blood test result for creatinine, a chemical excreted in the urine, and a measure of kidney function
+-  weight gain
+-  fever
+-  nosebleed
 
 ## Reporting of side effects
 
@@ -2053,8 +2058,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Spedra contains
 
-- The active substance is avanafil. Each tablet contains 50 mg of avanafil.
-- The other ingredients are mannitol, fumaric acid, hydroxypropylcellulose, hydroxypropylcellulose low substituted, calcium carbonate, magnesium stearate and ferric oxide yellow (E172).
+-  The active substance is avanafil. Each tablet contains 50 mg of avanafil.
+-  The other ingredients are mannitol, fumaric acid, hydroxypropylcellulose, hydroxypropylcellulose low substituted, calcium carbonate, magnesium stearate and ferric oxide yellow (E172).
 
 ## What Spedra looks like and contents of the pack
 
@@ -2062,19 +2067,19 @@ Spedra is a pale yellow oval tablet, marked '50'on one side. The tablets are pro
 
 Not all pack sizes may be marketed in your country.
 
-:
-
-## Marketing Authorisation Holder
+## Marketing Authorisation Holder :
 
 MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A.,
 
-1, Avenue de la Gare, L-1611 Luxembourg, Luxembourg.
+1, Avenue de la Gare,
+
+L-1611 Luxembourg,
+
+Luxembourg.
 
 ## Manufacturer :
 
-Menarini - Von Heyden GmbH Leipziger Stra β e 7-13 01097 Dresden Germany or
-
-Sanofi Winthrop Industrie 1, rue de la Vierge Ambares et Lagrave 33565 Carbon-Blanc-Cedex France
+Menarini - Von Heyden GmbH Leipziger Straβe 7-13 01097 Dresden Germany
 
 For  any  information  about  this  medicine,  please  contact  the  local  representative  of  the  Marketing Authorisation Holder.
 
@@ -2086,11 +2091,15 @@ Tél/Tel: + 32 (0)2 721 4545
 
 ## Lietuva
 
-UAB 'BERLIN-CHEMIE MENARINI BALTIC' Tel: +370 52 691 947
+UAB 'BERLIN-CHEMIE MENARINI
+
+BALTIC'
+
+Tel: +370 52 691 947
 
 ## България
 
-Берлин - Хеми/А. Менарини България ЕООД
+Берлин-Хеми/А. Менарини България ЕООД
 
 тел.: +359 2 454 0950
 
@@ -2114,19 +2123,33 @@ Berlin-Chemie/A. Menarini Kft.
 
 Tel.: +36 23501301
 
-<div style=\"page-break-after: always\"></div>
-
 ## Danmark
 
 Pharmaprim AB
 
 Tlf: +46 8355933
 
+## Malta
+
+Menarini International Operations Luxembourg
+
+S.A.
+
+Tel: +352 264976
+
 ## Deutschland
 
 Berlin-Chemie AG
 
 Tel: +49 (0) 30 67070
+
+## Nederland
+
+Menarini Benelux NV/SA
+
+Tel: +32 (0)2 721 4545
+
+<div style=\"page-break-after: always\"></div>
 
 ## Eesti
 
@@ -2138,9 +2161,7 @@ Tel: +372 667 5001
 
 MENARINI HELLAS AE
 
-Τηλ: +30
-
-210 8316111-13
+Τηλ: +30 210 8316111-13
 
 ## España
 
@@ -2184,7 +2205,7 @@ Tel: +39-055 56801
 
 MENARINI HELLAS AE
 
-Τηλ: +30 210 8316111 -13
+Τηλ: +30 210 8316111-13
 
 ## Latvija
 
@@ -2196,19 +2217,11 @@ Tel: +371 67103210
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
-## Malta
+## Package leaflet: Information for the patient Spedra 100 mg tablets
 
-Menarini International Operations Luxembourg
+avanafil
 
-S.A.
-
-Tel: +352 264976
-
-## Nederland
-
-Menarini Benelux NV/SA
-
-Tel: +32 (0)2 721 4545
+Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
 ## Norge
 
@@ -2242,7 +2255,9 @@ Tel: +40 21 232 34 32
 
 ## Slovenija
 
-Berlin-Chemie / A. Menarini Distribution Ljubljana d.o.o. Tel: +386 01 300 2160
+Berlin-Chemie / A. Menarini Distribution Ljubljana d.o.o.
+
+Tel: +386 01 300 2160
 
 ## Slovenská republika
 
@@ -2264,15 +2279,11 @@ Tel: +46 8355933
 
 ## United Kingdom (Northern Ireland)
 
-A. Menarini Farmaceutica Internazionale S.R.L. Tel: +44 (0)1628 856400
+A. Menarini Farmaceutica Internazionale S.R.L.
+
+Tel: +44 (0)1628 856400
 
 <div style=\"page-break-after: always\"></div>
-
-## Package leaflet: Information for the patient Spedra 100 mg tablets
-
-avanafil
-
-## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
 - -Keep this leaflet. You may need to read it again.
 - -If you have any further questions, ask your doctor or pharmacist.
@@ -2302,21 +2313,21 @@ Spedra will not help you if you do not have erectile dysfunction. Spedra is not 
 
 ## Do not take Spedra:
 
-- If you are allergic to avanafil or any of the other ingredients of this medicine (listed in section 6)
-- If you are taking 'nitrate' medicines for chest pain (angina), such as amyl nitrite or glyceryl trinitrate. Spedra can increase the effects of these medicines and severely lower your blood pressure
-- If you are taking medicines for HIV or AIDS such as ritonavir, indinavir, saquinavir, nelfinavir or atazanavir
+-  If you are allergic to avanafil or any of the other ingredients of this medicine (listed in section 6)
+-  If you are taking 'nitrate' medicines for chest pain (angina), such as amyl nitrite or glyceryl trinitrate. Spedra can increase the effects of these medicines and severely lower your blood pressure
+-  If you are taking medicines for HIV or AIDS such as ritonavir, indinavir, saquinavir, nelfinavir or atazanavir
+-  If you are taking medicines for fungal infections such as ketoconazole, itraconazole or voriconazole or certain antibiotics for bacterial infections, such as clarithromycin or telithromycin
+-  If you have a serious cardiac problem
+-  If you have had a stroke or heart attack in the last 6 months
+-  If you have low blood pressure or high blood pressure not controlled by medicines
+-  If you have chest pain (angina) or you get chest pain during sexual intercourse
+-  If you have a serious liver or kidney problem
+-  If you have loss of vision in one eye due to not enough blood getting to your eye (non-arteritic ischemic optic neuropathy [NAION])
 
 <div style=\"page-break-after: always\"></div>
 
-- If you are taking medicines for fungal infections such as ketoconazole, itraconazole or voriconazole or certain antibiotics for bacterial infections, such as clarithromycin or telithromycin
-- If you have a serious cardiac problem
-- If you have had a stroke or heart attack in the last 6 months
-- If you have low blood pressure or high blood pressure not controlled by medicines
-- If you have chest pain (angina) or you get chest pain during sexual intercourse
-- If you have a serious liver or kidney problem
-- If you have loss of vision in one eye due to not enough blood getting to your eye (non-arteritic ischemic optic neuropathy [NAION])
-- If certain serious eye problems run in your family (such as retinitis pigmentosa).
-- If you are taking riociguat. This medicine is used to treat pulmonary arterial hypertension (i.e., high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e., high blood pressure in the lungs secondary to blood clots). PDE5 inhibitors have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
+-  If certain serious eye problems run in your family (such as retinitis pigmentosa).
+-  If you are taking riociguat. This medicine is used to treat pulmonary arterial hypertension (i.e., high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e., high blood pressure in the lungs secondary to blood clots). PDE5 inhibitors have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
 
 Do not take Spedra if any of the above apply to you. If you are not sure, talk to your doctor or pharmacist before taking Spedra.
 
@@ -2324,10 +2335,10 @@ Do not take Spedra if any of the above apply to you. If you are not sure, talk t
 
 Talk to your doctor or pharmacist before taking Spedra:
 
-- If you have heart trouble. It may be risky for you to have sexual intercourse
-- If you suffer from priapism, that is a persistent erection lasting 4 hours or more. This can happen in men with conditions like sickle cell disease, multiple myeloma or leukaemia.
-- If you have a physical condition that affects the shape of your penis (such as angulation, Peyronie's disease or cavernosal fibrosis)
-- If you have any bleeding disorder or active peptic ulceration.
+-  If you have heart trouble. It may be risky for you to have sexual intercourse
+-  If you suffer from priapism, that is a persistent erection lasting 4 hours or more. This can happen in men with conditions like sickle cell disease, multiple myeloma or leukaemia.
+-  If you have a physical condition that affects the shape of your penis (such as angulation, Peyronie's disease or cavernosal fibrosis)
+-  If you have any bleeding disorder or active peptic ulceration.
 
 If any of the above apply to you talk to your doctor or pharmacist before taking Spedra. Check with your doctor or pharmacist if you are not sure.
 
@@ -2345,21 +2356,20 @@ Spedra should not be taken by children and adolescents under 18 years of age.
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This is because Spedra can affect the way some other medicines work. Also some other medicines can affect the way Spedra works.
 
-In particular, tell your doctor and do not take Spedra if you are taking 'nitrate' medicines for chest pain (angina) such as amyl nitrite or glyceryl trinitrate. Spedra has been shown to increase the effects of these medicines and severely lower your blood pressure. Also do not take Spedra if you are taking medicines for HIV or AIDS such as ritonavir, indinavir, saquinavir, nelfinavir or atazanavir or if you are taking medicines for fungal infections such as ketoconazole, itraconazole or voriconazole or
-
-<div style=\"page-break-after: always\"></div>
-
-certain antibiotics for bacterial infections, such as clarithromycin or telithromycin (see beginning of section 2 under 'Do not take Spedra').
+In particular, tell your doctor and do not take Spedra if you are taking 'nitrate' medicines for chest pain (angina) such as amyl nitrite or glyceryl trinitrate. Spedra has been shown to increase the effects of these medicines and severely lower your blood pressure. Also do not take Spedra if you are taking medicines for HIV or AIDS such as ritonavir, indinavir, saquinavir, nelfinavir or atazanavir or if you are taking medicines for fungal infections such as ketoconazole, itraconazole or voriconazole or certain antibiotics for bacterial infections, such as clarithromycin or telithromycin (see beginning of section 2 under 'Do not take Spedra').
 
 Tell your doctor or pharmacist if you are taking any of the following medicines:
 
-- so called 'alpha-blockers' - for prostate problems or for lowering your high blood pressure
-- medicines for an irregular heartbeat ('arrhythmia') such as quinidine, procainamide, amiodarone or sotalol
-- antibiotics for infections such as erythromycin
-- phenobarbital or primidone - for epilepsy
-- carbamazepine - for epilepsy, to stabilise your mood or for certain types of pain
-- other medicines that may reduce the breakdown of Spedra in the body ('moderate CYP3A4 inhibitors') including amprenavir, aprepitant, diltiazem, fluconazole, fosamprenavir, and verapamil.
-- riociguat
+-  so called 'alpha-blockers' - for prostate problems or for lowering your high blood pressure
+-  medicines for an irregular heartbeat ('arrhythmia') such as quinidine, procainamide, amiodarone or sotalol
+-  antibiotics for infections such as erythromycin
+-  phenobarbital or primidone - for epilepsy
+-  carbamazepine - for epilepsy, to stabilise your mood or for certain types of pain
+
+<div style=\"page-break-after: always\"></div>
+
+-  other medicines that may reduce the breakdown of Spedra in the body ('moderate CYP3A4 inhibitors') including amprenavir, aprepitant, diltiazem, fluconazole, fosamprenavir, and verapamil.
+-  riociguat
 
 Do not use Spedra together with other treatments for erectile dysfunction such as sildenafil, tadalafil or vardenafil.
 
@@ -2385,17 +2395,15 @@ Spedra can make you feel dizzy or affect your vision. If this happens, do not dr
 
 Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
 
-The recommended dose is a 100 mg tablet, as needed. You should not take Spedra more than once a day. You could have been given the dose of one 200 mg tablet if your doctor has decided that the  100 mg dose was too weak for you, or the dose of one 50 mg tablet if your doctor has decided  that the 100 mg tablet was too strong for you. Dose adjustments can also be required if Spedra is used together with certain other medicines. If you are taking a medicine such as erythromycin, amprenavir, aprepitant, diltiazem, fluconazole, fosamprenavir or verapamil ('moderate CYP3A4 inhibitors') the recommended dose of Spedra is a 100 mg tablet, with an interval of at least 2 days between doses.
-
-<div style=\"page-break-after: always\"></div>
-
-You should take Spedra approximately 15 to 30 minutes before you have sexual intercourse. Remember that Spedra will only help you to get an erection if you are sexually stimulated. Spedra can be taken with or without food; if taken with food, it may take longer to work.
+The recommended dose is a 100 mg tablet, as needed. You should not take Spedra more than once a day. You could have been given the dose of one 200 mg tablet if your doctor has decided that the  100 mg dose was too weak for you, or the dose of one 50 mg tablet if your doctor has decided  that the 100 mg tablet was too strong for you. Dose adjustments can also be required if Spedra is used together with certain other medicines. If you are taking a medicine such as erythromycin, amprenavir, aprepitant, diltiazem, fluconazole, fosamprenavir or verapamil ('moderate CYP3A4 inhibitors') the recommended dose of Spedra is a 100 mg tablet, with an interval of at least 2 days between doses. You should take Spedra approximately 15 to 30 minutes before you have sexual intercourse. Remember that Spedra will only help you to get an erection if you are sexually stimulated. Spedra can be taken with or without food; if taken with food, it may take longer to work.
 
 ## If you take more Spedra than you should
 
 If you take too much Spedra, you should tell your doctor straight away. You may get more side effects than usual and they may be worse.
 
 If you have any further questions on the use of Spedra, ask your doctor or pharmacist.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4. Possible side effects
 
@@ -2405,10 +2413,10 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Stop taking Spedra and see a doctor straight away if you notice any of the following serious side effects - you may need urgent medical treatment:
 
-- an erection that will not go away ('priapism'). If you get an erection that lasts more than 4 hours, this must be treated as soon as possible or lasting damage can happen to your penis (including not being able to get erections).
-- blurred vision.
-- sudden decrease or loss of vision in one or both eyes.
-- sudden decrease or loss of hearing (sometimes you may also feel dizzy or have ringing in your ears).
+-  an erection that will not go away ('priapism'). If you get an erection that lasts more than 4 hours, this must be treated as soon as possible or lasting damage can happen to your penis (including not being able to get erections).
+-  blurred vision.
+-  sudden decrease or loss of vision in one or both eyes.
+-  sudden decrease or loss of hearing (sometimes you may also feel dizzy or have ringing in your ears).
 
 Stop taking Spedra and see a doctor straight away, if you notice any of the serious side effects above.
 
@@ -2416,68 +2424,68 @@ Stop taking Spedra and see a doctor straight away, if you notice any of the seri
 
 ## Common (may affect up to 1 in 10 people)
 
-- headache
-- flushing
-- nasal congestion
+-  headache
+-  flushing
+-  nasal congestion
 
 ## Uncommon (may affect up to 1 in 100 people)
 
-- feeling dizzy
-- feeling sleepy or very tired
-- sinus congestion
-- back pain
-- hot flush
-- feeling out of breath when you exert yourself
-- heartbeat changes seen on a heart tracing (ECG)
-- increased heart beat
-- feeling your heartbeat in your chest (palpitations)
-- indigestion, feeling or being sick to your stomach
-- blurry vision
-- raised liver enzymes
+-  feeling dizzy
+-  feeling sleepy or very tired
+-  sinus congestion
+-  back pain
+-  hot flush
+-  feeling out of breath when you exert yourself
+-  heartbeat changes seen on a heart tracing (ECG)
+-  increased heart beat
+-  feeling your heartbeat in your chest (palpitations)
+-  indigestion, feeling or being sick to your stomach
+-  blurry vision
+-  raised liver enzymes
 
 ## Rare (may affect up to 1 in 1,000 people)
 
-- influenza
-- influenza-like illness
-- stuffy or runny nose
-- hayfever
+-  influenza
+-  influenza-like illness
+-  stuffy or runny nose
+-  hayfever
+-  congestion in the nose, sinuses or upper part of the airway bringing air into the lungs
+-  gout
+-  trouble sleeping (insomnia)
+-  premature ejaculation
+-  feeling strange
+-  feeling unable to keep still
+-  chest pain
+-  serious chest pain
+-  fast heart beat
+-  high blood pressure
 
 <div style=\"page-break-after: always\"></div>
 
-- congestion in the nose, sinuses or upper part of the airway bringing air into the lungs
-- gout
-- trouble sleeping (insomnia)
-- premature ejaculation
-- feeling strange
-- feeling unable to keep still
-- chest pain
-- serious chest pain
-- fast heart beat
-- high blood pressure
-- low blood pressure
-- dry mouth
-- stomach ache or heartburn
-- pain or discomfort in the lower abdomen
-- diarrhoea
-- rash
-- pain in the lower back or side of lower chest
-- muscle aches or pains
-- muscle spasms
-- frequent urination
-- penile disorder
-- spontaneous erection without sexual stimulation
-- itching in the genital area
-- feeling weak or tired all the time
-- swelling in the feet or ankles
-- increased blood pressure
-- pink or red urine, blood in the urine
-- abnormal extra sound from the heart
-- an abnormal blood test result for a prostate test called 'PSA'
-- an abnormal blood test result for bilirubin, a chemical produced from the normal breakdown of red blood cells
-- an abnormal blood test result for creatinine, a chemical excreted in the urine, and a measure of kidney function
-- weight gain
-- fever
-- nosebleed
+-  low blood pressure
+-  dry mouth
+-  stomach ache or heartburn
+-  pain or discomfort in the lower abdomen
+-  diarrhoea
+-  rash
+-  pain in the lower back or side of lower chest
+-  muscle aches or pains
+-  muscle spasms
+-  frequent urination
+-  penile disorder
+-  spontaneous erection without sexual stimulation
+-  itching in the genital area
+-  feeling weak or tired all the time
+-  swelling in the feet or ankles
+-  increased blood pressure
+-  pink or red urine, blood in the urine
+-  abnormal extra sound from the heart
+-  an abnormal blood test result for a prostate test called 'PSA'
+-  an abnormal blood test result for bilirubin, a chemical produced from the normal breakdown of red blood cells
+-  an abnormal blood test result for creatinine, a chemical excreted in the urine, and a measure of kidney function
+-  weight gain
+-  fever
+-  nosebleed
 
 ## Reporting of side effects
 
@@ -2491,16 +2499,17 @@ Do not use this medicine after the expiry date which is stated on the blister an
 
 This medicine does not require any special storage condition.
 
-<div style=\"page-break-after: always\"></div>
-
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
 
 ## What Spedra contains
 
-- The active substance is avanafil. Each tablet contains 100 mg of avanafil.
-- The other ingredients are mannitol, fumaric acid, hydroxypropylcellulose, hydroxypropylcellulose low substituted, calcium carbonate, magnesium stearate and ferric oxide yellow (E172).
+-  The active substance is avanafil. Each tablet contains 100 mg of avanafil.
+
+<div style=\"page-break-after: always\"></div>
+
+-  The other ingredients are mannitol, fumaric acid, hydroxypropylcellulose, hydroxypropylcellulose low substituted, calcium carbonate, magnesium stearate and ferric oxide yellow (E172).
 
 ## What Spedra looks like and contents of the pack
 
@@ -2514,31 +2523,21 @@ MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A., 1, Avenue de la Gare, L-1611 
 
 ## Manufacturer:
 
-Menarini - Von Heyden GmbH Leipziger Stra β e 7-13 01097 Dresden Germany
-
-## or
-
-Sanofi Winthrop Industrie 1, rue de la Vierge Ambares et Lagrave 33565 Carbon-Blanc-Cedex France
+Menarini - Von Heyden GmbH Leipziger Straβe 7-13 01097 Dresden Germany
 
 For  any  information  about  this  medicine  l  product,  please  contact  the  local  representative  of  the Marketing Authorisation Holder.
 
 ## België/Belgique/Belgien
 
-Menarini Benelux NV/SA Tél/Tel: + 32 (0)2 721 4545
+Menarini Benelux NV/SA
 
-## Lietuva
-
-UAB 'BERLIN-CHEMIE MENARINI BALTIC'
-
-Tel: +370 52 691 947
+Tél/Tel: + 32 (0)2 721 4545
 
 ## България
 
-Берлин - Хеми/А. Менарини България ЕООД тел.: +359 2 454 0950
+Берлин-Хеми/А. Менарини България ЕООД
 
-## Luxembourg/Luxemburg
-
-Menarini Benelux NV/SA Tél/Tel: + 32 (0)2 721 4545
+тел.: +359 2 454 0950
 
 ## Česká republika
 
@@ -2547,14 +2546,6 @@ Berlin-Chemie/A.Menarini Ceska republika
 s.r.o.
 
 Tel: +420 267 199 333
-
-## Magyarország
-
-Berlin-Chemie/A. Menarini Kft.
-
-Tel.: +36 23501301
-
-<div style=\"page-break-after: always\"></div>
 
 ## Danmark
 
@@ -2574,61 +2565,25 @@ OÜ Berlin-Chemie Menarini Eesti
 
 Tel: +372 667 5001
 
-## Ελλάδα
+## Lietuva
 
-MENARINI HELLAS AE
+UAB 'BERLIN-CHEMIE MENARINI
 
-Τηλ: +30 210 8316111
+BALTIC'
 
--13
+Tel: +370 52 691 947
 
-## España
+## Luxembourg/Luxemburg
 
-Laboratorios Menarini S.A.
+Menarini Benelux NV/SA
 
-Tel: +34-93 462 88 00
+Tél/Tel: + 32 (0)2 721 4545
 
-## France
+## Magyarország
 
-MENARINI France
+Berlin-Chemie/A. Menarini Kft.
 
-Tél: +33 (0)1 45 60 77 20
-
-## Hrvatska
-
-Berlin-Chemie Menarini Hrvatska d.o.o. Tel: + 385 1 4821 361
-
-## Ireland
-
-A. Menarini Pharmaceuticals Ireland Ltd Tel: +353 1 284 6744
-
-## Ísland
-
-Pharmaprim AB
-
-Sími: +46 8355933
-
-## Italia
-
-A. Menarini Industrie Farmaceutiche Riunite s.r.l. Tel: +39-055 56801
-
-## Κύπρος
-
-MENARINI HELLAS AE
-
-Τηλ: +30 210 8316111
-
--13
-
-## Latvija
-
-SIA Berlin-Chemie/Menarini Baltic
-
-Tel: +371 67103210
-
-## This leaflet was last revised in
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Tel.: +36 23501301
 
 ## Malta
 
@@ -2650,6 +2605,66 @@ Pharmaprim AB
 
 Tlf: +46 8355933
 
+<div style=\"page-break-after: always\"></div>
+
+## Ελλάδα
+
+MENARINI HELLAS AE
+
+Τηλ: +30 210 8316111-13
+
+## España
+
+Laboratorios Menarini S.A.
+
+Tel: +34-93 462 88 00
+
+## France
+
+MENARINI France
+
+Tél: +33 (0)1 45 60 77 20
+
+## Hrvatska
+
+Berlin-Chemie Menarini Hrvatska d.o.o.
+
+Tel: + 385 1 4821 361
+
+## Ireland
+
+A. Menarini Pharmaceuticals Ireland Ltd
+
+Tel: +353 1 284 6744
+
+## Ísland
+
+Pharmaprim AB
+
+Sími: +46 8355933
+
+## Italia
+
+A. Menarini Industrie Farmaceutiche Riunite s.r.l.
+
+Tel: +39-055 56801
+
+## Κύπρος
+
+MENARINI HELLAS AE
+
+Τηλ: +30 210 8316111-13
+
+## Latvija
+
+SIA Berlin-Chemie/Menarini Baltic
+
+Tel: +371 67103210
+
+## This leaflet was last revised in
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
 ## Österreich
 
 A. Menarini Pharma GmbH
@@ -2658,23 +2673,33 @@ Tel: +43 1 879 95 85-0
 
 ## Polska
 
-Berlin-Chemie/Menarini Polska Sp. z o.o. Tel.: +48 22 566 21 00
+Berlin-Chemie/Menarini Polska Sp. z o.o.
+
+Tel.: +48 22 566 21 00
 
 ## Portugal
 
-A. Menarini Portugal - Farmacêutica, S.A. Tel: +351 210 935 500
+A. Menarini Portugal - Farmacêutica, S.A.
+
+Tel: +351 210 935 500
 
 ## România
 
-Berlin-Chemie A. Menarini S.R.L. Tel: +40 21 232 34 32
+Berlin-Chemie A. Menarini S.R.L.
+
+Tel: +40 21 232 34 32
 
 ## Slovenija
 
-Berlin-Chemie / A. Menarini Distribution Ljubljana d.o.o. Tel: +386 01 300 2160
+Berlin-Chemie / A. Menarini Distribution
+
+Ljubljana d.o.o. Tel: +386 01 300 2160
 
 ## Slovenská republika
 
-Berlin-Chemie / A. Menarini Distribution Slovakia s.r.o. Tel: +421 2 544 30 730
+Berlin-Chemie / A. Menarini Distribution
+
+Slovakia s.r.o. Tel: +421 2 544 30 730
 
 ## Suomi/Finland
 
@@ -2690,7 +2715,9 @@ Tel: +46 8355933
 
 ## United Kingdom (Northern Ireland)
 
-A. Menarini Farmaceutica Internazionale S.R.L. Tel: +44 (0)1628 856400
+A. Menarini Farmaceutica Internazionale S.R.L.
+
+Tel: +44 (0)1628 856400
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2730,21 +2757,21 @@ Spedra will not help you if you do not have erectile dysfunction. Spedra is not 
 
 ## Do not take Spedra:
 
-- If you are allergic to avanafil or any of the other ingredients of this medicine (listed in section 6)
-- If you are taking 'nitrate' medicines for chest pain (angina), such as amyl nitrite or glyceryl trinitrate. Spedra can increase the effects of these medicines and severely lower your blood pressure
-- If you are taking medicines for HIV or AIDS such as ritonavir, indinavir, saquinavir, nelfinavir or atazanavir
+-  If you are allergic to avanafil or any of the other ingredients of this medicine (listed in section 6)
+-  If you are taking 'nitrate' medicines for chest pain (angina), such as amyl nitrite or glyceryl trinitrate. Spedra can increase the effects of these medicines and severely lower your blood pressure
+-  If you are taking medicines for HIV or AIDS such as ritonavir, indinavir, saquinavir, nelfinavir or atazanavir
 
 <div style=\"page-break-after: always\"></div>
 
-- If you are taking medicines for fungal infections such as ketoconazole, itraconazole or voriconazole or certain antibiotics for bacterial infections, such as clarithromycin or telithromycin
-- If you have a serious cardiac problem
-- If you have had a stroke or heart attack in the last 6 months
-- If you have low blood pressure or high blood pressure not controlled by medicines
-- If you have chest pain (angina) or you get chest pain during sexual intercourse
-- If you have a serious liver or kidney problem
-- If you have loss of vision in one eye due to not enough blood getting to your eye (non-arteritic ischemic optic neuropathy [NAION])
-- If certain serious eye problems run in your family (such as retinitis pigmentosa).
-- If you are taking riociguat. This medicine is used to treat pulmonary arterial hypertension (i.e., high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e., high blood pressure in the lungs secondary to blood clots). PDE5 inhibitors have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
+-  If you are taking medicines for fungal infections such as ketoconazole, itraconazole or voriconazole or certain antibiotics for bacterial infections, such as clarithromycin or telithromycin
+-  If you have a serious cardiac problem
+-  If you have had a stroke or heart attack in the last 6 months
+-  If you have low blood pressure or high blood pressure not controlled by medicines
+-  If you have chest pain (angina) or you get chest pain during sexual intercourse
+-  If you have a serious liver or kidney problem
+-  If you have loss of vision in one eye due to not enough blood getting to your eye (non-arteritic ischemic optic neuropathy [NAION])
+-  If certain serious eye problems run in your family (such as retinitis pigmentosa).
+-  If you are taking riociguat. This medicine is used to treat pulmonary arterial hypertension (i.e., high blood pressure in the lungs) and chronic thromboembolic pulmonary hypertension (i.e., high blood pressure in the lungs secondary to blood clots). PDE5 inhibitors have been shown to increase the hypotensive effects of this medicine. If you are taking riociguat or are unsure tell your doctor.
 
 Do not take Spedra if any of the above apply to you. If you are not sure, talk to your doctor or pharmacist before taking Spedra.
 
@@ -2752,10 +2779,10 @@ Do not take Spedra if any of the above apply to you. If you are not sure, talk t
 
 Talk to your doctor or pharmacist before taking Spedra:
 
-- If you have heart trouble. It may be risky for you to have sexual intercourse
-- If you suffer from priapism, that is a persistent erection lasting 4 hours or more. This can happen in men with conditions like sickle cell disease, multiple myeloma or leukaemia.
-- If you have a physical condition that affects the shape of your penis (such as angulation, Peyronie's disease or cavernosal fibrosis)
-- If you have any bleeding disorder or active peptic ulceration.
+-  If you have heart trouble. It may be risky for you to have sexual intercourse
+-  If you suffer from priapism, that is a persistent erection lasting 4 hours or more. This can happen in men with conditions like sickle cell disease, multiple myeloma or leukaemia.
+-  If you have a physical condition that affects the shape of your penis (such as angulation, Peyronie's disease or cavernosal fibrosis)
+-  If you have any bleeding disorder or active peptic ulceration.
 
 If any of the above apply to you talk to your doctor or pharmacist before taking Spedra. Check with your doctor or pharmacist if you are not sure.
 
@@ -2781,13 +2808,13 @@ certain antibiotics for bacterial infections, such as clarithromycin or telithro
 
 Tell your doctor or pharmacist if you are taking any of the following medicines:
 
-- so called 'alpha-blockers' - for prostate problems or for lowering your high blood pressure
-- medicines for an irregular heartbeat ('arrhythmia') such as quinidine, procainamide, amiodarone or sotalol
-- antibiotics for infections such as erythromycin
-- phenobarbital or primidone - for epilepsy
-- carbamazepine - for epilepsy, to stabilise your mood or for certain types of pain
-- other medicines that may reduce the breakdown of Spedra in the body ('moderate CYP3A4 inhibitors') including amprenavir, aprepitant, diltiazem, fluconazole, fosamprenavir, and verapamil.
-- riociguat
+-  so called 'alpha-blockers' - for prostate problems or for lowering your high blood pressure
+-  medicines for an irregular heartbeat ('arrhythmia') such as quinidine, procainamide, amiodarone or sotalol
+-  antibiotics for infections such as erythromycin
+-  phenobarbital or primidone - for epilepsy
+-  carbamazepine - for epilepsy, to stabilise your mood or for certain types of pain
+-  other medicines that may reduce the breakdown of Spedra in the body ('moderate CYP3A4 inhibitors') including amprenavir, aprepitant, diltiazem, fluconazole, fosamprenavir, and verapamil.
+-  riociguat
 
 Do not use Spedra together with other treatments for erectile dysfunction such as sildenafil, tadalafil or vardenafil.
 
@@ -2833,10 +2860,10 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Stop taking Spedra and see a doctor straight away if you notice any of the following serious side effects - you may need urgent medical treatment:
 
-- an erection that will not go away ('priapism'). If you get an erection that lasts more than 4 hours, this must be treated as soon as possible or lasting damage can happen to your penis (including not being able to get erections).
-- blurred vision.
-- sudden decrease or loss of vision in one or both eyes.
-- sudden decrease or loss of hearing (sometimes you may also feel dizzy or have ringing in your ears).
+-  an erection that will not go away ('priapism'). If you get an erection that lasts more than 4 hours, this must be treated as soon as possible or lasting damage can happen to your penis (including not being able to get erections).
+-  blurred vision.
+-  sudden decrease or loss of vision in one or both eyes.
+-  sudden decrease or loss of hearing (sometimes you may also feel dizzy or have ringing in your ears).
 
 Stop taking Spedra and see a doctor straight away, if you notice any of the serious side effects above.
 
@@ -2844,68 +2871,68 @@ Stop taking Spedra and see a doctor straight away, if you notice any of the seri
 
 ## Common (may affect up to 1 in 10 people)
 
-- headache
-- flushing
-- nasal congestion
+-  headache
+-  flushing
+-  nasal congestion
 
 ## Uncommon (may affect up to 1 in 100 people)
 
-- feeling dizzy
-- feeling sleepy or very tired
-- sinus congestion
-- back pain
-- hot flush
-- feeling out of breath when you exert yourself
-- heartbeat changes seen on a heart tracing (ECG)
-- increased heart beat
-- feeling your heartbeat in your chest (palpitations)
-- indigestion, feeling or being sick to your stomach
-- blurry vision
-- raised liver enzymes
+-  feeling dizzy
+-  feeling sleepy or very tired
+-  sinus congestion
+-  back pain
+-  hot flush
+-  feeling out of breath when you exert yourself
+-  heartbeat changes seen on a heart tracing (ECG)
+-  increased heart beat
+-  feeling your heartbeat in your chest (palpitations)
+-  indigestion, feeling or being sick to your stomach
+-  blurry vision
+-  raised liver enzymes
 
 ## Rare (may affect up to 1 in 1,000 people)
 
-- influenza
-- influenza-like illness
-- stuffy or runny nose
-- hayfever
-- congestion in the nose, sinuses or upper part of the airway bringing air into the lungs
+-  influenza
+-  influenza-like illness
+-  stuffy or runny nose
+-  hayfever
+-  congestion in the nose, sinuses or upper part of the airway bringing air into the lungs
 
 <div style=\"page-break-after: always\"></div>
 
-- gout
-- trouble sleeping (insomnia)
-- premature ejaculation
-- feeling strange
-- feeling unable to keep still
-- chest pain
-- serious chest pain
-- fast heart beat
-- high blood pressure
-- low blood pressure
-- dry mouth
-- stomach ache or heartburn
-- pain or discomfort in the lower abdomen
-- diarrhoea
-- rash
-- pain in the lower back or side of lower chest
-- muscle aches or pains
-- muscle spasms
-- frequent urination
-- penile disorder
-- spontaneous erection without sexual stimulation
-- itching in the genital area
-- feeling weak or tired all the time
-- swelling in the feet or ankles
-- increased blood pressure
-- pink or red urine, blood in the urine
-- abnormal extra sound from the heart
-- an abnormal blood test result for a prostate test called 'PSA'
-- an abnormal blood test result for bilirubin, a chemical produced from the normal breakdown of red blood cells
-- an abnormal blood test result for creatinine, a chemical excreted in the urine, and a measure of kidney function
-- weight gain
-- fever
-- nosebleed
+-  gout
+-  trouble sleeping (insomnia)
+-  premature ejaculation
+-  feeling strange
+-  feeling unable to keep still
+-  chest pain
+-  serious chest pain
+-  fast heart beat
+-  high blood pressure
+-  low blood pressure
+-  dry mouth
+-  stomach ache or heartburn
+-  pain or discomfort in the lower abdomen
+-  diarrhoea
+-  rash
+-  pain in the lower back or side of lower chest
+-  muscle aches or pains
+-  muscle spasms
+-  frequent urination
+-  penile disorder
+-  spontaneous erection without sexual stimulation
+-  itching in the genital area
+-  feeling weak or tired all the time
+-  swelling in the feet or ankles
+-  increased blood pressure
+-  pink or red urine, blood in the urine
+-  abnormal extra sound from the heart
+-  an abnormal blood test result for a prostate test called 'PSA'
+-  an abnormal blood test result for bilirubin, a chemical produced from the normal breakdown of red blood cells
+-  an abnormal blood test result for creatinine, a chemical excreted in the urine, and a measure of kidney function
+-  weight gain
+-  fever
+-  nosebleed
 
 ## Reporting of side effects
 
@@ -2927,8 +2954,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Spedra contains
 
-- The active substance is avanafil. Each tablet contains 200 mg of avanafil.
-- The other ingredients are mannitol, fumaric acid, hydroxypropylcellulose, hydroxypropylcellulose low substituted, calcium carbonate, magnesium stearate and ferric oxide yellow (E172).
+-  The active substance is avanafil. Each tablet contains 200 mg of avanafil.
+-  The other ingredients are mannitol, fumaric acid, hydroxypropylcellulose, hydroxypropylcellulose low substituted, calcium carbonate, magnesium stearate and ferric oxide yellow (E172).
 
 ## What Spedra looks like and contents of the pack
 
@@ -2942,13 +2969,7 @@ MENARINI INTERNATIONAL OPERATIONS LUXEMBOURG S.A., 1, Avenue de la Gare, L-1611 
 
 ## Manufacturer:
 
-Menarini - Von Heyden GmbH Leipziger Stra β e 7-13 01097 Dresden Germany
-
-## or
-
-Sanofi Winthrop Industrie 33565 Carbon-Blanc-Cedex
-
-1, rue de la Vierge Ambares et Lagrave France
+Menarini - Von Heyden GmbH Leipziger Straβe 7-13 01097 Dresden Germany
 
 For  any  information  about  this  medicine,  please  contact  the  local  representative  of  the  Marketing Authorisation Holder.
 
@@ -2960,15 +2981,17 @@ Tél/Tel: + 32 (0)2 721 4545
 
 ## Lietuva
 
-UAB 'BERLIN-CHEMIE MENARINI BALTIC' Tel: +370 52 691 947
+UAB 'BERLIN-CHEMIE MENARINI
+
+BALTIC'
+
+Tel: +370 52 691 947
 
 ## България
 
-Берлин - Хеми/А. Менарини България E ООД
+Берлин-Хеми/А. Менарини България EООД
 
-тел.:
-
-+359 2 454 0950
+тел.: +359 2 454 0950
 
 ## Luxembourg/Luxemburg
 
@@ -2978,7 +3001,11 @@ Tél/Tel: + 32 (0)2 721 4545
 
 ## Česká republika
 
-Berlin-Chemie/A.Menarini Ceska republika s.r.o.
+Berlin-Chemie/A.Menarini Ceska republika
+
+s.r.o.
+
+Tel: +420 267 199 333
 
 ## Magyarország
 
@@ -2986,17 +3013,13 @@ Berlin-Chemie/A. Menarini Kft.
 
 Tel.: +36 23501301
 
-Tel: +420 267 199 333
-
-<div style=\"page-break-after: always\"></div>
-
 ## Danmark
-
-## Malta
 
 Pharmaprim AB
 
 Tlf: +46 8355933
+
+## Malta
 
 Menarini International Operations Luxembourg
 
@@ -3004,17 +3027,13 @@ S.A.
 
 Tel: +352 264976
 
+<div style=\"page-break-after: always\"></div>
+
 ## Deutschland
 
 Berlin-Chemie AG
 
 Tel: +49 (0) 30 67070
-
-## Nederland
-
-Menarini Benelux NV/SA
-
-Tel: +32 (0)2 721 4545
 
 ## Eesti
 
@@ -3022,25 +3041,11 @@ OÜ Berlin-Chemie Menarini Eesti
 
 Tel: +372 667 5001
 
-## Norge
-
-Pharmaprim AB
-
-Tlf: +46 8355933
-
 ## Ελλάδα
 
 MENARINI HELLAS AE
 
-Τηλ: +30
-
-210 8316111-13
-
-## Österreich
-
-A. Menarini Pharma GmbH
-
-Tel: +43 1 879 95 85-0
+Τηλ: +30 210 8316111-13
 
 ## España
 
@@ -3048,21 +3053,11 @@ Laboratorios Menarini S.A.
 
 Tel: +34-93 462 88 00
 
-## Polska
-
-Berlin-Chemie/Menarini Polska Sp. z o.o.
-
-Tel.: +48 22 566 21 00
-
 ## France
 
 MENARINI France
 
 Tél: +33 (0)1 45 60 77 20
-
-## Portugal
-
-A. Menarini Portugal - Farmacêutica, S.A. Tel: +351 210 935 500
 
 ## Hrvatska
 
@@ -3070,19 +3065,9 @@ Berlin-Chemie Menarini Hrvatska d.o.o.
 
 Tel: + 385 1 4821 361
 
-## România
-
-Berlin-Chemie A. Menarini S.R.L.
-
-Tel: +40 21 232 34 32
-
 ## Ireland
 
 A. Menarini Pharmaceuticals Ireland Ltd Tel: +353 1 284 6744
-
-## Slovenija
-
-Berlin-Chemie / A. Menarini Distribution Ljubljana d.o.o. Tel: +386 01 300 2160
 
 ## Ísland
 
@@ -3090,37 +3075,17 @@ Pharmaprim AB
 
 Sími: +46 8355933
 
-## Slovenská republika
-
-Berlin-Chemie / A. Menarini Distribution
-
-Slovakia s.r.o. Tel: +421 2 544 30 730
-
 ## Italia
 
 A. Menarini Industrie Farmaceutiche Riunite s.r.l.
 
 Tel: +39-055 56801
 
-## Suomi/Finland
-
-Berlin-Chemie/A.Menarini Suomi OY
-
-Puh/Tel: +358 403 000 760
-
 ## Κύπρος
 
 MENARINI HELLAS AE
 
-Τηλ:
-
-+30 210 8316111-13
-
-## Sverige
-
-Pharmaprim AB
-
-Tel: +46 8355933
+Τηλ: +30 210 8316111-13
 
 ## Latvija
 
@@ -3128,10 +3093,68 @@ SIA Berlin-Chemie/Menarini Baltic
 
 Tel: +371 67103210
 
-## United Kingdom (Northern Ireland)
-
-A. Menarini Farmaceutica Internazionale S.R.L. Tel: +44 (0)1628 856400
-
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+## Nederland
+
+Menarini Benelux NV/SA
+
+Tel: +32 (0)2 721 4545
+
+## Norge
+
+Pharmaprim AB
+
+Tlf: +46 8355933
+
+## Österreich
+
+A. Menarini Pharma GmbH
+
+Tel: +43 1 879 95 85-0
+
+## Polska
+
+Berlin-Chemie/Menarini Polska Sp. z o.o.
+
+Tel.: +48 22 566 21 00
+
+## Portugal
+
+A. Menarini Portugal - Farmacêutica, S.A.
+
+Tel: +351 210 935 500
+
+## România
+
+Berlin-Chemie A. Menarini S.R.L.
+
+Tel: +40 21 232 34 32
+
+## Slovenija
+
+Berlin-Chemie / A. Menarini Distribution Ljubljana d.o.o. Tel: +386 01 300 2160
+
+## Slovenská republika
+
+Berlin-Chemie / A. Menarini Distribution Slovakia s.r.o. Tel: +421 2 544 30 730
+
+## Suomi/Finland
+
+Berlin-Chemie/A.Menarini Suomi OY
+
+Puh/Tel: +358 403 000 760
+
+## Sverige
+
+Pharmaprim AB
+
+Tel: +46 8355933
+
+## United Kingdom (Northern Ireland)
+
+A. Menarini Farmaceutica Internazionale S.R.L.
+
+Tel: +44 (0)1628 856400

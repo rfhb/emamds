@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-05-07 11:58:25
+document_datetime: 2026-01-07 16:59:38
 document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cabazitaxel-accord-epar-product-information_en.pdf
 document_name: cabazitaxel-accord-epar-product-information_en.pdf
 version: success
-processing_time: 20.8615464
-conversion_datetime: 2025-12-15 19:47:51.545155
+processing_time: 18.315673
+conversion_datetime: 2026-01-10 11:20:24.805774
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -70,20 +70,18 @@ Throughout the treatment, adequate hydration of the patient needs to be ensured,
 
 The recommended dose of cabazitaxel is 25 mg/m 2  administered as a 1 hour intravenous infusion every 3 weeks in combination with oral prednisone or prednisolone 10 mg administered daily throughout treatment.
 
-## Dose adjustments
-
 <div style=\"page-break-after: always\"></div>
 
 Dose modifications should be made if patients experience the following adverse reactions (Grades refer to Common Terminology Criteria for Adverse Events [CTCAE 4.0]):
 
 Table 1 - Recommended dose modifications for adverse reaction in patients treated with cabazitaxel
 
-| Adverse reactions                                                                                                     | Dose modification                                                                                                                                             |
-|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Prolonged grade ≥3 neutropenia (longer than 1 week) despite appropriate treatment including G-CSF                     | Delay treatment until neutrophil count is >1,500 cells/mm 3 , then reduce cabazitaxel dose from 25 mg/m 2 to 20 mg/m 2 .                                      |
-| Febrile neutropenia or neutropenic infection                                                                          | Delay treatment until improvement or resolution, and until neutrophil count is >1,500 cells/mm 3 , then reduce cabazitaxel dose from 25 mg/m 2 to 20 mg/m 2 . |
-| Grade ≥3 diarrhoea or persisting diarrhea despite appropriate treatment, including fluid and electrolytes replacement | Delay treatment until improvement or resolution, then reduce cabazitaxel dose from 25 mg/m 2 to 20 mg/m 2 .                                                   |
-| Grade >2 peripheral neuropathy                                                                                        | Delay treatment until improvement, then reduce cabazitaxel dose from 25 mg/m 2 to 20 mg/m 2 .                                                                 |
+| Adverse reactions                                                                                                      | Dose modification                                                                                                                                             |
+|------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Prolonged grade ≥ 3 neutropenia (longer than 1 week) despite appropriate treatment including G-CSF                     | Delay treatment until neutrophil count is >1,500 cells/mm 3 , then reduce cabazitaxel dose from 25 mg/m 2 to 20 mg/m 2 .                                      |
+| Febrile neutropenia or neutropenic infection                                                                           | Delay treatment until improvement or resolution, and until neutrophil count is >1,500 cells/mm 3 , then reduce cabazitaxel dose from 25 mg/m 2 to 20 mg/m 2 . |
+| Grade ≥ 3 diarrhoea or persisting diarrhea despite appropriate treatment, including fluid and electrolytes replacement | Delay treatment until improvement or resolution, then reduce cabazitaxel dose from 25 mg/m 2 to 20 mg/m 2 .                                                   |
+| Grade >2 peripheral neuropathy                                                                                         | Delay treatment until improvement, then reduce cabazitaxel dose from 25 mg/m 2 to 20 mg/m 2 .                                                                 |
 
 If patients continue to experience any of these reactions at 20 mg/m 2 , further dose reduction to 15 mg/m 2  or discontinuation of cabazitaxel may be considered. Data in patients below the 20 mg/m 2 dose are limited.
 
@@ -97,7 +95,7 @@ Concomitant medicinal products that are strong inducers or strong inhibitors of 
 
 Cabazitaxel is extensively metabolised by the liver. Patients with mild hepatic impairment (total bilirubin &gt;1 to ≤1.5 x upper limit of normal (ULN) or Aspartate Aminotransferase (AST) &gt;1.5 x ULN), should have cabazitaxel dose reduced to 20 mg/m 2 . Administration of cabazitaxel to patients with mild hepatic impairment should be undertaken with caution and close monitoring of safety.
 
-In patients with moderate hepatic impairment (total bilirubin &gt;1.5 to ≤ 3.0 x ULN), the maximum tolerated dose (MTD) was 15 mg/m 2 . If the treatment is envisaged in patients with moderate hepatic impairment the dose of cabazitaxel should not exceed 15 mg/m 2 . However, limited efficacy data are available at this dose.
+In patients with moderate hepatic impairment (total bilirubin &gt;1.5 to ≤ 3.0 x ULN), the maximum tolerated dose (MTD) was 15 mg/m 2 . If the treatment is envisaged in patients with moderate hepatic impairment the dose of cabazitaxel should not exceed 15 mg/m 2 . However, limited efficacy data areavailable at this dose.
 
 Cabazitaxel Accord should not be given to patients with severe hepatic impairment (total bilirubin &gt; 3  x ULN) (see sections 4.3, 4.4 and 5.2).
 
@@ -154,7 +152,7 @@ Neutropenia is the most common adverse reaction of cabazitaxel (see section 4.8)
 
 The dose should be reduced in case of febrile neutropenia, or prolonged neutropenia despite appropriate treatment (see section 4.2).
 
-Patients should be re-treated only when neutrophils recover to a level ≥ 1,500/mm 3 (see section 4.3).
+Patients should be retreated only when neutrophils recover to a level ≥ 1,500/mm 3  (see section 4.3).
 
 ## Gastrointestinal disorders
 
@@ -164,7 +162,7 @@ Symptoms such as abdominal pain and tenderness, fever, persistent constipation, 
 
 ## Risk of nausea, vomiting, diarrhoea and dehydration
 
-If patients experience diarrhoea following administration of cabazitaxel they may be treated with commonly used anti-diarrhoeal medicinal products. Appropriate measures should be taken to re-hydrate patients. Diarrhoea can occur more frequently in patients that have received prior abdomino-pelvic radiation. Dehydration is more common in patients aged 65 or older. Appropriate measures should be taken to rehydrate patients and to monitor and correct serum electrolyte levels, particularly potassium. Treatment delay or dose reduction may be necessary for grade ≥ 3 diarrhoea (see section 4.2). If patients experience nausea or vomiting, they may be treated with commonly used anti-emetics.
+If patients experience diarrhoea following administration of cabazitaxel they may be treated with commonly used anti-diarrhoeal medicinal products. Appropriate measures should be taken to re-hydrate patients. Diarrhoea can occur more frequently in patients that have received prior abdomino-pelvic radiation. Dehydration is more common in patients aged 65 or older. Appropriate measures should be taken to rehydrate patients and to monitor and correct serum electrolyte levels, particularly potassium. Treatment delay or dose reduction may be nece ssary for grade ≥ 3 diarrhoea (see section 4.2). If patients experience nausea or vomiting, they may be treated with commonly used anti-emetics.
 
 ## Risk of serious gastrointestinal reactions
 
@@ -222,9 +220,9 @@ The amount of alcohol in this medicine is not likely to have an effect in adults
 
 It may have some effects in younger children, for example feeling sleepy. The alcohol in this medicine may alter the effects of other medicines. Talk to your doctor or pharmacist if you are taking other medicines.
 
-If you are pregnant or breast-feeding, talk to your doctor or pharmacist before taking this medicine. If you are addicted to alcohol, talk to your doctor or pharmacist before taking this medicine.
+If you are pregnant or breast-feeding, talk to your doctor or pharmacist before taking this medicine. If you are addicted to alcohol, talk to your doctor or pharmacist before taking this medicine. exposure to 17mg/kg of ethanol which may cause a rise in blood alcohol concentration (BAC) of about
 
-A dose of 60 mg of this medicinal product administered to an adult weighing 70 kg would result in an exposure to 17mg/kg of ethanol which may cause a rise in blood alcohol concentration (BAC) of about 2,8 mg/100 ml. For comparison, for an adult drinking a glass of wine or 500 ml of beer, the BAC is likely to be about 50 mg/100 ml.
+A dose of 60 mg of this medicinal product administered to an adult weighing 70 kg would result in an 2,8 mg/100 ml. For comparison, for an adult drinking a glass of wine or 500 ml of beer, the BAC is likely to be about 50 mg/100 ml.
 
 ## Contraception measure
 
@@ -437,13 +435,13 @@ a based on laboratory values
 
 The use of G-CSF has been shown to limit the incidence and severity of neutropenia (see sections 4.2 and 4.4).
 
-Incidence of grade ≥3 neutropenia based on laboratory data varied depending on use of G-CSF from 44.7% to 76.7%, with the lowest incidence reported when G-CSF prophylaxis was used. Similarly, the incidence of grade ≥ 3 febrile neutropenia ranged from 3.2% to 8.6%.
+Incidence of grade ≥3 neutropenia based on laboratory data varied depending on use of G -CSF from 44.7% to 76.7%, with the lowest incidence reported when G-CSF prophylaxis was used. Similarly, the incidence of grade ≥ 3 febrile neutropenia ranged from 3.2% to 8.6%.
 
 Neutropenic complications (including febrile neutropenia, neutropenic infection/sepsis and neutropenic colitis) which in some cases resulted in a fatal outcome, were reported in 4.0% of the patients when primary G-CSF prophylaxis was used, and in 12.8% of the patients otherwise.
 
 ## Cardiac disorders and arrhythmias
 
-In the pooled analysis, cardiac events were reported in 5.5% of the patients of which 1.1% had grade ≥3 cardiac arrhythmias. The incidence of tachycardia on cabazitaxel was 1.0%, of which less than 0.1% were grade ≥3. The incidence of atrial fibrillation was 1.3%. Cardiac failure events were reported for 2 patients (0.2%), one of which resulted in a fatal outcome. Fatal ventricular fibrillation was reported in 1 patient (0.3%), and cardiac arrest in 3 patients (0.5%). None were considered related by the investigator.
+In the pooled analysis, cardiac events were reported in 5.5% of the patients of which 1.1% had grade ≥3 cardiac arrhythmias. The incidence of tachycardia on cabazitaxel was 1.0%, of which less than 0.1% were grade ≥3. The incidence of atrial fibrillation w as 1.3%. Cardiac failure events were reported for 2 patients (0.2%), one of which resulted in a fatal outcome. Fatal ventricular fibrillation was reported in 1 patient (0.3%), and cardiac arrest in 3 patients (0.5%). None were considered related by the investigator.
 
 ## Haematuria
 
@@ -473,7 +471,7 @@ Other special populations
 
 ## Elderly
 
-Of the 1092 patients treated with cabazitaxel 25 mg/m2 in the prostate cancer studies, 755 patients were 65 years or over including 238 patients older than 75 years. The following non hematologic adverse reactions were reported at rates ≥5% higher in patients 65 years of age or greater compared to younger patients: fatigue (33.5% vs. 23.7%), asthenia (23.7 vs. 14.2%), constipation (20.4% vs. 14.2%) and dyspnoea (10.3% vs. 5.6%) respectively. Neutropenia (90.9% vs. 81.2%) and thrombocytopenia (48.8% vs. 36.1%) were also 5% higher in patients 65 years of age or greater compared to younger patients. Grade ≥3 neutropenia and febrile neutropenia were reported with the highest difference rates between both groups of age (respectively 14% and 4% higher in patients ≥ 65 years old compared to patients &lt; 65 years old) (see sections 4.2 and 4.4).
+Of the 1092 patients treated with cabazitaxel 25 mg/m2 in the prostate cancer studies, 755 patients were 65 years or over including 238 patients older than 75 years. The following non hematologic adverse reactions were reported at rates ≥5% higher in patie nts 65 years of age or greater compared to younger patients: fatigue (33.5% vs. 23.7%), asthenia (23.7 vs. 14.2%), constipation (20.4% vs. 14.2%) and dyspnoea (10.3% vs. 5.6%) respectively. Neutropenia (90.9% vs. 81.2%) and thrombocytopenia (48.8% vs. 36.1%) were also 5% higher in patients 65 years of age or greater compared to younger patients. Grade ≥3 neutropenia and febrile neutropenia were reported with the highest difference rates between both groups of age (respectively 14% and 4% higher in patients ≥ 65 years old compared to patients &lt; 65 years old) (see sections 4.2 and 4.4).
 
 ## Reporting of suspected adverse reactions
 
@@ -505,7 +503,7 @@ The efficacy and safety of cabazitaxel in combination with prednisone or prednis
 
 ## Overall survival (OS) was the primary efficacy endpoint of the study.
 
-Secondary endpoints included progression free survival [PFS (defined as time from randomization to tumour progression, prostatic specific antigen (PSA) progression, pain progression, or death due to any cause, whichever occurred first], tumour response rate based on response evaluation criteria in solid tumours (RECIST), PSA progression (defined as a ≥25% increase or &gt;50% in PSA non-responders or responders respectively), PSA response (declines in serum PSA levels of at least 50%), pain progression [assessed using the present pain intensity (PPI) scale from the McGill-Melzack questionnaire and an analgesic score (AS)] and pain response (defined as 2-point greater reduction from baseline median PPI with no concomitant increase in AS, or reduction of ≥50% in analgesic use from baseline mean AS with no concomitant increase in pain).
+Secondary endpoints included progression free survival [PFS (defined as time from randomization to tumour progression, prostatic specific antigen (PSA) progression, pain progression, or death due to any cause, whichever occurred first], tumour response rate based on response evaluation criteria in solid tumours (RECIST), PSA progression (defined as a ≥ 25% increase or &gt;50% in PSA non-responders or responders respectively), PSA response (declines in serum PSA levels of at least 50%), pain progression [assessed using the present pain intensity (PPI) scale from the McGill-Melzack questionnaire and an analgesic score (AS)] and pain response (defined as 2-point greater reduction from baseline median PPI with no concomitant increase in AS, or reduction of ≥ 50% in analgesic use from baseline mean AS with no concomitant increase in pain).
 
 A total of 755 patients were randomised to receive either cabazitaxel 25 mg/m 2 intravenously every 3 weeks for a maximum of 10 cycles with prednisone or prednisolone 10 mg orally daily (n=378), or to receive mitoxantrone 12 mg/m 2 intravenously every 3 weeks for a maximum of 10 cycles with prednisone or prednisolone 10 mg orally daily (n=377).
 
@@ -550,7 +548,7 @@ The study met its primary objective of demonstrating the non-inferiority of caba
 
 <div style=\"page-break-after: always\"></div>
 
-Table 4 - Overall survival in EFC11785 study in cabazitaxel 25 mg/m 2 arm versus cabazitaxel 20 mg/m 2  arm (Intent-to-treat analysis) - Efficacy primary endpoint
+Table 4 - Overall survival in EFC11785 study in cabazitaxel 25 mg/m 2 arm versus cabazitaxel 20 mg/m 2  arm (Intent-to -treat analysis) -Efficacy primary endpoint
 
 |                                   | CBZ20+PRED n=598      | CBZ25+PRED n=602      |
 |-----------------------------------|-----------------------|-----------------------|
@@ -562,11 +560,7 @@ Table 4 - Overall survival in EFC11785 study in cabazitaxel 25 mg/m 2 arm versus
 | 1-sided 98.89% UCI                | 1.184                 | -                     |
 | 1-sided 95% LCI                   | 0.922                 | -                     |
 
-CBZ20=Cabazitaxel 20 mg/m 2 , CBZ25=Cabazitaxel 25 mg/m 2 , PRED=Prednisone/Prednisolone
-
-CI=confidence interval, LCI=lower bound of the confidence interval, UCI=upper bound of the confidence interval
-
-a Hazard ratio is estimated using a Cox Proportional Hazards regression model. A hazard ratio &lt; 1 indicates a lower risk of cabazitaxel 20 mg/m 2 with respect to 25 mg/m 2 .
+CBZ20=Cabazitaxel 20 mg/m 2 , CBZ25=Cabazitaxel 25 mg/m 2 , PRED=Prednisone/Prednisolone CI=confidence interval, LCI=lower bound of the confidence interval, UCI=upper bound of the confidence interval a Hazard ratio is estimated using a Cox Proportional Hazards regression model. A hazard ratio &lt; 1 indicates a lower risk of cabazitaxel 20 mg/m 2 with respect to 25 mg/m 2 .
 
 The safety profile of cabazitaxel 25 mg/m 2 observed in study EFC11785 was qualitatively and quantitatively similar to that observed in the study EFC6193. Study EFC11785 demonstrated a better safety profile for the cabazitaxel 20 mg/m 2 dose.
 
@@ -609,13 +603,13 @@ b Grade ≥ 3 adverse reactions with an incidence higher than 5%
 
 c Based on laboratory values
 
-In a prospective, multinational, randomized, active-controlled and open-label phase IV study (LPS14201/CARD study) 255 patients with metastatic castration resistant prostate cancer (mCRPC), previously treated in any order with a docetaxel containing regimen and with an AR-targeted agent (abiraterone or enzalutamide, with disease progression within 12 months of treatment initiation), were randomized to receive either CABAZITAXEL 25 mg/m 2  every 3 week plus prednisone/prednisolone 10 mg daily (n=129) or AR-targeted agents (abiraterone 1000 mg once daily plus prednisone/prednisolone 5 mg twice daily or enzalutamide 160 mg once daily) (n=126). Radiographic progression free-survival (rPFS) as defined by Prostate Cancer Working Group-2 (PCWG2) was the primary endpoint. Secondary endpoints included overall survival, progression-free survival, PSA response and tumour response. Demographics and disease characteristics were balanced between treatment arms. At baseline, the overall median age was 70 years, 95% of patients had an ECOG PS of 0 to 1 and median Gleason score was 8. Sixty one percent (61%) of the patients had their prior treatment with an AR-targeted agent after prior docetaxel.
+In a prospective, multinational, randomized, active-controlled and open-label phase IV study (LPS14201/CARD study) 255 patients with metastatic castration resistant prostate cancer (mCRPC), previously treated in any order with a docetaxel containing regimen and with an AR-targeted agent (abiraterone or enzalutamide, with disease progression within 12 months of treatment initiation), were randomized to receive either cabazitaxel 25 mg/m 2 every 3 week plus prednisone/prednisolone 10 mg daily (n=129) or AR-targeted agents (abiraterone 1000 mg once daily plus prednisone/prednisolone 5 mg twice daily or enzalutamide 160 mg once daily) (n=126). Radiographic progression free-survival (rPFS) as defined by Prostate Cancer Working Group-2 (PCWG2) was the primary endpoint. Secondary endpoints included overall survival, progression-free survival, PSA response and tumour response. Demographics and disease characteristics were balanced between treatment arms. At baseline, the overall median age was 70 years, 95% of patients had an ECOG PS of 0 to 1 and median Gleason score was 8. Sixty one percent (61%) of the patients had their prior treatment with an AR-targeted agent after prior docetaxel.
 
-The study met its primary endpoint: rPFS was significantly longer with CABAZITAXEL compared to AR-targeted agent (8.0 months versus 3.7 respectively), with a 46% reduction in the risk of radiographic progression compared to AR-targeted agent (see table 6 and figure 2).
+The study met its primary endpoint: rPFS was significantly longer with cabazitaxel compared to ARtargeted agent (8.0 months versus 3.7 respectively), with a 46% reduction in the risk of radiographic progression compared to AR-targeted agent (see table 6 and figure 2).
 
-Table 6 - Efficacy of CABAZITAXEL in CARD study in the treatment of patients with metastatic castration resistant prostate cancer (Intent-to-treat analysis) - Radiographic progression free-survival (rPFS)
+Table 6 - Efficacy of cabazitaxel in CARD study in the treatment of patients with metastatic castration resistant prostate cancer (Intent-to -treat analysis) -Radiographic progression free-survival (rPFS)
 
-|                                          | CABAZITAXEL + prednisone/prednisolone + G-CSF n=129   | AR-targeted agent: Abiraterone + prednisone/prednisolone or Enzalutamide n=126   |
+|                                          | cabazitaxel + prednisone/prednisolone + G-CSF n=129   | AR-targeted agent: Abiraterone + prednisone/prednisolone or Enzalutamide n=126   |
 |------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------|
 | Number of events at the cut-off date (%) | 95 (73.6%)                                            | 101 (80.2%)                                                                      |
 | Median rPFS (months) (95% CI)            | 8.0 (5.7 to 9.2)                                      | 3.7 (2.8 to 5.1)                                                                 |
@@ -633,9 +627,9 @@ Tick marks indicate censored data.
 
 Planned subgroup analyses for rPFS based on stratification factors at randomization yielded a hazard ratio of 0.61 (95% CI: 0.39 to 0.96) in patients who received a prior AR-targeted agent before docetaxel and a hazard ratio of 0.48 (95% CI: 0.32 to 0.70) in patients who received a prior AR-targeted agent after docetaxel.
 
-CABAZITAXEL was statistically superior to the AR-targeted comparators for each of the alphaprotected key secondary endpoints including overall survival (13.6 months for CABAZITAXEL arm versus 11.0 months for AR-targeted agent arm, HR 0.64, 95%CI: 0.46 to 0.89; p=0.008), progressionfree survival (4.4 months for CABAZITAXEL arm versus 2.7 months for AR-targeted agent arm, HR 0.52; 95%CI: 0.40 to 0.68), confirmed PSA response (36.3% for CABAZITAXEL arm versus 14.3% for AR-targeted agent arm, p=0.0003) and best tumour response (36.5% for CABAZITAXEL arm versus 11.5% for AR-targeted agent arm, p=0.004).
+Cabazitaxel was statistically superior to the AR-targeted comparators for each of the alpha-protected key secondary endpoints including overall survival (13.6 months for Cabazitaxel arm versus 11.0 months for AR-targeted agent arm, HR 0.64, 95%CI: 0.46 to 0.89; p=0.008), progression-free survival (4.4 months for Cabazitaxel arm versus 2.7 months for AR-targeted agent arm, HR 0.52; 95%CI: 0.40 to 0.68), confirmed PSA response (36.3% for Cabazitaxel arm versus 14.3% for AR-targeted agent arm, p=0.0003) and best tumour response (36.5% for Cabazitaxel arm versus 11.5% for AR-targeted agent arm, p=0.004).
 
-The safety profile of CABAZITAXEL 25 mg/m 2  observed in CARD study was overall consistent with that observed in TROPIC and PROSELICA studies (see section 4.8). The incidence of grade ≥ 3 adverse events was 53.2% in CABAZITAXEL arm versus 46.0% in the AR-targeted agent arm. The incidence of grade ≥ 3 serious adverse events were 31.7% in CABAZITAXEL arm versus 37.1% in the AR-targeted agent arm. The incidence of patients who permanently discontinued study treatment due to adverse events was 19.8% in CABAZITAXEL arm versus 8.1% in the AR-targeted agent arm. The incidence of patients having an adverse event leading to death was 5.6% in CABAZITAXEL arm versus 10.5% in the AR-targeted agent arm.
+The safety profile of Cabazitaxel 25 mg/m 2 observed in CARD study was overall consistent with that observed in TROPIC and PROSELICA studies (see section 4.8). The incidence of grade ≥ 3 adverse events was 53.2% in Cabazitaxel arm versus 46.0% in the AR-targeted agent arm. The incidence of grade ≥ 3 serious adverse events were 31.7% in Cabazitaxel arm versus 37.1% in the AR-targeted agent arm. The incidence of patients who permanently discontinued study treatment due to adverse events was 19.8% in Cabazitaxel arm versus 8.1% in the AR-targeted agent arm. The incidence of patients having an adverse event leading to death was 5.6% in Cabazitaxel arm versus 10.5% in the AR-targeted agent arm.
 
 ## Paediatric population
 
@@ -653,11 +647,9 @@ A population pharmacokinetic analysis was carried out in 170 patients including 
 
 ## Absorption
 
-After 1-hour intravenous administration at 25 mg/m 2 cabazitaxel in patients with metastatic prostate end of the 1-hour infusion (Tmax). The mean AUC was 991 ng.h/ml (CV: 34%).
+After 1-hour intravenous administration at 25 mg/m 2 cabazitaxel in patients with metastatic prostate cancer (n=67), the Cmax was 226 ng/ml (Coefficient of Variation (CV): 107%) and was reached at the end of the 1-hour infusion (Tmax). The mean AUC was 991 ng.h/ml (CV: 34%).
 
-No major deviation to the dose proportionality was observed from 10 to 30 mg/m 2 advanced solid tumours (n=126).
-
-cancer (n=67), the Cmax was 226 ng/ml (Coefficient of Variation (CV): 107%) and was reached at the in patients with
+No major deviation to the dose proportionality was observed from 10 to 30 mg/m 2 in patients with advanced solid tumours (n=126).
 
 ## Distribution
 
@@ -671,7 +663,7 @@ Cabazitaxel is extensively metabolised in the liver (&gt;95%), mainly by the CYP
 
 Based on in vitro studies, the potential risk of inhibition by cabazitaxel at clinically relevant concentrations is possible towards medicinal products that are mainly substrate of CYP3A. However a clinical study has shown that cabazitaxel (25 mg/m 2 administered as a single 1-hour infusion) did not modify the plasma levels of midazolam, a probe substrate of CYP3A. Therefore, at therapeutic doses, co-administration of CYP3A substrates with cabazitaxel to patients is not expected to have any clinical impact.
 
-There is no potential risk of inhibition of medicinal products that are substrates of other CYP enzymes (1A2, 2B6, 2C9, 2C8, 2C19, 2E1, and 2D6) as well as no potential risk of induction by cabazitaxel on medicinal products that are substrates of CYP1A, CYP2C9, and CYP3A. Cabazitaxel did not inhibit in vitro the major biotransformation pathway of warfarin into 7-hydroxywarfarin, which is mediated by CYP2C9. Therefore, no pharmacokinetic interaction of cabazitaxel on warfarin is expected in vivo . In vitro cabazitaxel did not inhibit Multidrug-Resistant Proteins (MRP): MRP1 and MRP2 or Organic Cation Transporter (OCT1). Cabazitaxel inhibited the transport of P-glycoprotein (PgP) (digoxin, vinblastin), Breast-Cancer-Resistant-Proteins (BCRP) (methotrexate) and Organic Anion Transporting Polypeptide OATP1B3 (CCK8) at concentrations at least 15 fold what is observed in clinical setting while it inhibited the transport of OATP1B1 (estradiol-17β-glucuronide) at concentrations only 5 fold what is observed in clinical setting. Therefore the risk of interaction with substrates of MRP, OCT1, PgP, BCRP and OATP1B3 is unlikely in vivo at the dose of 25 mg/m 2 . The risk of interaction with OATP1B1 transporter is possible, notably during the infusion duration (1 hour) and up to 20 minutes after the end of the infusion (see section 4.5).
+There is no potential risk of inhibition of medicinal products that are substrates of other CYP enzymes (1A2, 2B6, 2C9, 2C8, 2C19, 2E1, and 2D6) as well as no potential risk of induction by cabazitaxel on medicinal products that are substrates of CYP1A, CYP2C9, and CYP3A. Cabazitaxel did not inhibit in vitro the major biotransformation pathway of warfarin into 7-hydroxywarfarin, which is mediated by CYP2C9. Therefore, no pharmacokinetic interaction of cabazitaxel on warfarin is expected in vivo . In vitro cabazitaxel did not inhibit Multidrug-Resistant Proteins (MRP): MRP1 and MRP2 or Organic Cation Transporter (OCT1). Cabazitaxel inhibited the transport of P-glycoprotein (PgP) (digoxin, vinblastin), Breast-Cancer-Resistant-Proteins (BCRP) (methotrexate) and Organic Anion Transporting Polypeptide OATP1B3 (CCK8) at concentrations at least 15 fold what is observed in clinical setting while it inhibited the transport of OATP1B1 (estradiol17β -glucuronide) at concentrations only 5 fold what is observed in clinical setting. Therefore the risk of interaction with substrates of MRP, OCT1, PgP, BCRP and OATP1B3 is unlikely in vivo at the dose of 25 mg/m 2 . The risk of interaction with OATP1B1 transporter is possible, notably during the infusion duration (1 hour) and up to 20 minutes after the end of the infusion (see section 4.5).
 
 ## Elimination
 
@@ -731,9 +723,7 @@ Results of environmental risk assessment studies indicated that use of cabazitax
 
 ## 6.1 List of excipients
 
-Polysorbate 80 Citric acid
-
-Ethanol anhydrous
+Polysorbate 80 Citric acid Ethanol anhydrous
 
 ## 6.2 Incompatibilities
 
@@ -743,7 +733,9 @@ PVC infusion containers or polyurethane infusion sets should not be used for the
 
 ## 6.3 Shelf life
 
-Unopened vial 3 years.
+## Unopened vial
+
+3 years.
 
 ## After opening
 
@@ -753,7 +745,7 @@ Each vial is for single use and should be used immediately after opening. If not
 
 Chemical and physical stability of the infusion solution has been demonstrated for 8 hours at ambient temperature (15°C - 30°C) including the 1-hour infusion time and for 48 hours at refrigerated conditions including the 1-hour infusion time.
 
-From a microbiological point of view, the infusion solution should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user and would normally not be longer than 24 hour at 2°C - 8°C, unless dilution has taken place in controlled and validated aseptic conditions.
+From a microbiological point of view, the infusion solution should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user and would normally not be longer than 24 hour at 2°C -8°C, unless dilution has taken place in controlled and validated aseptic conditions.
 
 ## 6.4 Special precautions for storage
 
@@ -793,7 +785,7 @@ Inject in a sterile PVC-free container of either 5% glucose solution or sodium c
 
 Required amount of concentrate
 
-5%glucosesolution orsodium chloride 9 mg/ml (0.9%) solutionforinfusion
+5%glucosesolution or sodium chloride 9 mg/ml (0.9%) solutionforinfusion
 
 <div style=\"page-break-after: always\"></div>
 
@@ -835,9 +827,13 @@ Date of first authorisation: 28
 
 th  August 2020
 
+Date of latest renewal: 6
+
+th June 2025
+
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+Detailed information on this product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -859,8 +855,6 @@ LABORATORI FUNDACIÓ DAU C/ C, 12-14 Pol. Ind. Zona Franca, Barcelona, 08040, Sp
 Pharmadox Healthcare Ltd. KW20A Kordin Industrial Park Paola, PLA 3000 Malta
 
 Accord Healthcare Polska Sp. z o.o., ul. Lutomierska 50, Pabianice, 95-200, Poland
-
-Accord Healthcare B.V Winthontlaan 200, UTRECHT, 3526KV Paola Netherlands
 
 Accord Healthcare Single Member S.A. 64th Km National Road Athens, Lamia, Schimatari, 32009, Greece
 
@@ -884,9 +878,10 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 An updated RMP should be submitted:
 
+- At the request of the European Medicines Agency;
+
 <div style=\"page-break-after: always\"></div>
 
-- At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
@@ -949,6 +944,8 @@ Keep out of the sight and reach of children
 
 CYTOTOXIC
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. EXPIRY DATE
 
 EXP
@@ -978,28 +975,22 @@ EU/1/20/1448/001
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
+18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 PC
 
 <div style=\"page-break-after: always\"></div>
 
 SN NN
-
-<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
 
@@ -1027,6 +1018,8 @@ CYTOTOXIC
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## B. PACKAGE LEAFLET
 
 ## Package leaflet: Information for the patient
@@ -1043,18 +1036,18 @@ CYTOTOXIC
 
 ## What is in this leaflet
 
-- 1 What Cabazitaxel Accord is and what it is used for
-- 2 What you need to know before you are given Cabazitaxel Accord
-- 3 How to use Cabazitaxel Accord
-- 4 Possible side effects
-- 5 How to store Cabazitaxel Accord
-- 6 Contents of the pack and other information
+1. What Cabazitaxel Accord is and what it is used for
+2. What you need to know before you are given Cabazitaxel Accord
+3. How to use Cabazitaxel Accord
+4. Possible side effects
+5. How to store Cabazitaxel Accord
+6. Contents of the pack and other information
 
 ## 1. What Cabazitaxel Accord is and what it is used for
 
 The name of your medicine is Cabazitaxel Accord. Its common name is cabazitaxel. It belongs to a group of medicines called 'taxanes' used to treat cancers.
 
-Cabazitaxel Accord is used to treat adults with prostate cancer that has progressed after having had other chemotherapy. It works by stopping cells from growing and multiplying.
+Cabazitaxel Accord is used to treat prostate cancer that has progressed after having had other chemotherapy. It works by stopping cells from growing and multiplying.
 
 As part of your treatment, you will also take a corticosteroid medicine (prednisone or prednisolone) by mouth every day. Ask your doctor to give you information about this other medicine.
 
@@ -1065,6 +1058,7 @@ As part of your treatment, you will also take a corticosteroid medicine (prednis
 - you are allergic (hypersensitive) to cabazitaxel, to other taxanes, or polysorbate 80 or any of the other excipients of this medicine (listed in section 6),
 - the number of your white blood cells is too low (neutrophil counts less than or equal to 1,500/mm 3 ),
 - you have severe abnormal liver function,
+- •
 - you have recently received or are about to receive a vaccine against yellow fever.
 
 You should not be given Cabazitaxel Accord if any of the above apply to you. If you are not sure, talk to your doctor before having Cabazitaxel Accord.
@@ -1115,7 +1109,9 @@ You may feel tired or dizzy when having this medicine. If this happens, do not d
 
 ## Cabazitaxel Accord contains ethanol (alcohol)
 
-This medicine contains 1185 mg of alcohol (ethanol) in each vial, which is equivalent to 395 mg/ml. The amount in each vial of this medicine is equivalent to 30 ml of beer or 12 ml of wine. The amount of alcohol in this medicine is not likely to have an effect in adults and adolescents, and its effects in children are not likely to be noticeable. It may have some effects in younger children, for example feeling sleepy.
+This medicine contains 1185 mg of alcohol (ethanol) in each vial, which is equivalent to 395 mg/ml. The amount in each vial of this medicine is equivalent to 30 ml of beer or 12 ml of wine.
+
+The amount of alcohol in this medicine is not likely to have an effect in adults and adolescents, and its effects in children are not likely to be noticeable. It may have some effects in younger children, for example feeling sleepy.
 
 The alcohol in this medicine may alter the effects of other medicines. Talk to your doctor or
 
@@ -1170,7 +1166,7 @@ Very common (may affect more than 1 in 10 people):
 
 <div style=\"page-break-after: always\"></div>
 
-Common (may affect up to 1 in 10 people):
+## Common (may affect up to 1 in 10 people):
 
 - alteration of taste
 - shortness of breath
@@ -1245,7 +1241,7 @@ Each vial is for single use and should be used immediately after opening. If not
 
 Chemical and physical stability of the infusion solution has been demonstrated for 8 hours at ambient temperature (15°C - 30°C) including the 1-hour infusion time and for 48 hours at refrigerated conditions including the 1-hour infusion time.
 
-From a microbiological point of view, the infusion solution should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user and would normally not be longer than 24 hour at 2°C - 8°C, unless dilution has taken place in controlled and validated aseptic conditions.
+From a microbiological point of view, the infusion solution should be used immediately. If not used immediately, in-use storage times and conditions are the responsibility of the user and would normally not be longer than 24 hour at 2°C -8°C, unless dilution has taken place in controlled and validated aseptic conditions.
 
 ## Disposal
 
@@ -1257,7 +1253,7 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 The active substance is cabazitaxel. One ml of concentrate contains 20 mg cabazitaxel. Each 3 ml vial of concentrate contains 60 mg cabazitaxel.
 
-The other ingredients are polysorbate 80, citric acid and ethanol anhydrous (see section 2 'Cabazitaxel Accord contains alcohol').
+The other ingredients are polysorbate 80, citric acid and ethanol anhydrous (see section 2 ' Cabazitaxel Accord contains alcohol ' ).
 
 ## What Cabazitaxel Accord looks like and contents of the pack
 
@@ -1283,11 +1279,9 @@ Pharmadox Healthcare Ltd. KW20A Kordin Industrial Park Paola, PLA 3000 Malta
 
 Accord Healthcare Polska Sp. z o.o., ul. Lutomierska 50, Pabianice, 95-200 Poland
 
-Accord Healthcare B.V Winthontlaan 200, UTRECHT, 3526KV Paola Netherlands
+Accord Healthcare Single Member S.A. 64th Km National Road Athens, Lamia, Schimatari, 32009,
 
-Accord Healthcare Single Member S.A.
-
-64th Km National Road Athens, Lamia, Schimatari, 32009, Greece
+Greece
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1307,7 +1301,7 @@ Tel: +30 210 7488 821
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1383,7 +1377,7 @@ Concentrate20mg/ml
 
 Required amount of concentrate
 
-5% glucose solution orsodiumchloride 9 mg/ml (0.9%) solutionforinfusion
+5% glucose solution orsodium chloride 9 mg/ml (0.9%) solutionforinfusion
 
 <!-- image -->
 

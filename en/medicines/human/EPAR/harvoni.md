@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 12:23:05
+document_datetime: 2026-01-09 13:52:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/harvoni.html
 document_name: harvoni.html
 version: success
-processing_time: 0.1354487
-conversion_datetime: 2025-12-30 11:53:38.433508
+processing_time: 0.1487633
+conversion_datetime: 2026-01-10 11:32:33.31354
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -125,7 +125,7 @@ English (EN) (159.93 KB - PDF)
 
 [View](/en/documents/overview/harvoni-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-502)
+[Other languages (22)](#file-language-dropdown-142)
 
 български (BG) (162.19 KB - PDF)
 
@@ -391,15 +391,15 @@ svenska (SV) (137.01 KB - PDF)
 
 [View](/sv/documents/overview/harvoni-epar-medicine-overview_sv.pdf)
 
-Harvoni : EPAR - Risk-management-plan summary
+Harvoni : EPAR - Risk management plan
 
-English (EN) (94.63 KB - PDF)
+English (EN) (2.48 MB - PDF)
 
 **First published:** 04/12/2014
 
-**Last updated:** 09/02/2023
+**Last updated:** 09/01/2026
 
-[View](/en/documents/rmp-summary/harvoni-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/harvoni-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
@@ -413,7 +413,7 @@ English (EN) (1.09 MB - PDF)
 
 [View](/en/documents/product-information/harvoni-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-158)
+[Other languages (24)](#file-language-dropdown-270)
 
 български (BG) (1.33 MB - PDF)
 
@@ -729,7 +729,7 @@ English (EN) (45.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/harvoni-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-632)
+[Other languages (24)](#file-language-dropdown-145)
 
 български (BG) (77.66 KB - PDF)
 
@@ -1057,7 +1057,7 @@ Gilead Sciences Ireland UC
 
 IDA Business &amp; Technology Park
 
-Marketing authorisation issued 17/11/2014 Revision 28
+Marketing authorisation issued 17/11/2014 Revision 29
 
 ## Assessment history
 
@@ -1069,13 +1069,21 @@ Collapse section
 
 Harvoni : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (148.95 KB - PDF)
+
+**First published:** 09/01/2026
+
+[View](/en/documents/procedural-steps-after/harvoni-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Harvoni : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (320.2 KB - PDF)
 
 **First published:** 24/04/2015
 
-**Last updated:** 09/02/2023
+**Last updated:** 09/01/2026
 
-[View](/en/documents/procedural-steps-after/harvoni-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/harvoni-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Harvoni-H-C-3850-P46-023 : EPAR - Assessment report
 
@@ -1153,7 +1161,7 @@ English (EN) (58.19 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/harvoni-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-997)
+[Other languages (22)](#file-language-dropdown-353)
 
 български (BG) (93.44 KB - PDF)
 
@@ -1504,7 +1512,7 @@ English (EN) (62.56 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 27/09/2023
+**This page was last updated on** 09/01/2026
 
 ## Share this page
 

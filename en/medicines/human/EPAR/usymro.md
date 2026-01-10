@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 10:11:50
+document_datetime: 2026-01-09 15:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/usymro.html
 document_name: usymro.html
 version: success
-processing_time: 0.1068266
-conversion_datetime: 2025-12-31 04:47:23.435002
+processing_time: 0.1120775
+conversion_datetime: 2026-01-10 11:28:11.17662
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -117,7 +117,7 @@ English (EN) (151.33 KB - PDF)
 
 [View](/en/documents/overview/usymro-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-847)
+[Other languages (22)](#file-language-dropdown-285)
 
 български (BG) (176.3 KB - PDF)
 
@@ -307,17 +307,17 @@ English (EN) (836.31 KB - PDF)
 
 Usymro: EPAR - Product information
 
-English (EN) (2.6 MB - PDF)
+English (EN) (2.2 MB - PDF)
 
 **First published:** 19/08/2025
 
-**Last updated:** 05/11/2025
+**Last updated:** 09/01/2026
 
 [View](/en/documents/product-information/usymro-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-241)
+[Other languages (24)](#file-language-dropdown-705)
 
-български (BG) (2.35 MB - PDF)
+български (BG) (1.86 MB - PDF)
 
 **First published:**
 
@@ -325,11 +325,11 @@ English (EN) (2.6 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/bg/documents/product-information/usymro-epar-product-information_bg.pdf)
 
-español (ES) (2.63 MB - PDF)
+español (ES) (2.15 MB - PDF)
 
 **First published:**
 
@@ -337,11 +337,11 @@ español (ES) (2.63 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/es/documents/product-information/usymro-epar-product-information_es.pdf)
 
-čeština (CS) (2.69 MB - PDF)
+čeština (CS) (2.22 MB - PDF)
 
 **First published:**
 
@@ -349,11 +349,11 @@ español (ES) (2.63 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/cs/documents/product-information/usymro-epar-product-information_cs.pdf)
 
-dansk (DA) (2.6 MB - PDF)
+dansk (DA) (2.09 MB - PDF)
 
 **First published:**
 
@@ -361,11 +361,11 @@ dansk (DA) (2.6 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/da/documents/product-information/usymro-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.34 MB - PDF)
+Deutsch (DE) (1.83 MB - PDF)
 
 **First published:**
 
@@ -373,11 +373,11 @@ Deutsch (DE) (2.34 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/de/documents/product-information/usymro-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.47 MB - PDF)
+eesti keel (ET) (1.98 MB - PDF)
 
 **First published:**
 
@@ -385,11 +385,11 @@ eesti keel (ET) (2.47 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/et/documents/product-information/usymro-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.73 MB - PDF)
+ελληνικά (EL) (2.24 MB - PDF)
 
 **First published:**
 
@@ -397,11 +397,11 @@ eesti keel (ET) (2.47 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/el/documents/product-information/usymro-epar-product-information_el.pdf)
 
-français (FR) (2.85 MB - PDF)
+français (FR) (2.35 MB - PDF)
 
 **First published:**
 
@@ -409,11 +409,11 @@ français (FR) (2.85 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/fr/documents/product-information/usymro-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.74 MB - PDF)
+hrvatski (HR) (2.24 MB - PDF)
 
 **First published:**
 
@@ -421,11 +421,11 @@ hrvatski (HR) (2.74 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/hr/documents/product-information/usymro-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.69 MB - PDF)
+íslenska (IS) (2.18 MB - PDF)
 
 **First published:**
 
@@ -433,11 +433,11 @@ hrvatski (HR) (2.74 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/is/documents/product-information/usymro-epar-product-information_is.pdf)
 
-italiano (IT) (2.75 MB - PDF)
+italiano (IT) (2.22 MB - PDF)
 
 **First published:**
 
@@ -445,11 +445,11 @@ italiano (IT) (2.75 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/it/documents/product-information/usymro-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.38 MB - PDF)
+latviešu valoda (LV) (1.86 MB - PDF)
 
 **First published:**
 
@@ -457,11 +457,11 @@ latviešu valoda (LV) (2.38 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/lv/documents/product-information/usymro-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.43 MB - PDF)
+lietuvių kalba (LT) (2.06 MB - PDF)
 
 **First published:**
 
@@ -469,11 +469,11 @@ lietuvių kalba (LT) (2.43 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/lt/documents/product-information/usymro-epar-product-information_lt.pdf)
 
-magyar (HU) (2.78 MB - PDF)
+magyar (HU) (2.3 MB - PDF)
 
 **First published:**
 
@@ -481,11 +481,11 @@ magyar (HU) (2.78 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/hu/documents/product-information/usymro-epar-product-information_hu.pdf)
 
-Malti (MT) (2.78 MB - PDF)
+Malti (MT) (2.26 MB - PDF)
 
 **First published:**
 
@@ -493,11 +493,11 @@ Malti (MT) (2.78 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/mt/documents/product-information/usymro-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.16 MB - PDF)
+Nederlands (NL) (1.68 MB - PDF)
 
 **First published:**
 
@@ -505,11 +505,11 @@ Nederlands (NL) (2.16 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/nl/documents/product-information/usymro-epar-product-information_nl.pdf)
 
-norsk (NO) (2.6 MB - PDF)
+norsk (NO) (2.08 MB - PDF)
 
 **First published:**
 
@@ -517,11 +517,11 @@ norsk (NO) (2.6 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/no/documents/product-information/usymro-epar-product-information_no.pdf)
 
-polski (PL) (2.72 MB - PDF)
+polski (PL) (2.23 MB - PDF)
 
 **First published:**
 
@@ -529,11 +529,11 @@ polski (PL) (2.72 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/pl/documents/product-information/usymro-epar-product-information_pl.pdf)
 
-português (PT) (2.22 MB - PDF)
+português (PT) (1.73 MB - PDF)
 
 **First published:**
 
@@ -541,11 +541,11 @@ português (PT) (2.22 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/pt/documents/product-information/usymro-epar-product-information_pt.pdf)
 
-română (RO) (2.85 MB - PDF)
+română (RO) (2.37 MB - PDF)
 
 **First published:**
 
@@ -553,11 +553,11 @@ română (RO) (2.85 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/ro/documents/product-information/usymro-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.29 MB - PDF)
+slovenčina (SK) (1.8 MB - PDF)
 
 **First published:**
 
@@ -565,11 +565,11 @@ slovenčina (SK) (2.29 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/sk/documents/product-information/usymro-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.16 MB - PDF)
+slovenščina (SL) (1.65 MB - PDF)
 
 **First published:**
 
@@ -577,11 +577,11 @@ slovenščina (SL) (2.16 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/sl/documents/product-information/usymro-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.28 MB - PDF)
+Suomi (FI) (1.75 MB - PDF)
 
 **First published:**
 
@@ -589,11 +589,11 @@ Suomi (FI) (2.28 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/fi/documents/product-information/usymro-epar-product-information_fi.pdf)
 
-svenska (SV) (2.27 MB - PDF)
+svenska (SV) (1.72 MB - PDF)
 
 **First published:**
 
@@ -601,11 +601,11 @@ svenska (SV) (2.27 MB - PDF)
 
 **Last updated:**
 
-05/11/2025
+09/01/2026
 
 [View](/sv/documents/product-information/usymro-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000310110 05/11/2025
+**Latest procedure affecting product information:** N/0000316073 09/01/2026
 
 icon globe
 
@@ -629,7 +629,7 @@ English (EN) (19.22 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/usymro-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-313)
+[Other languages (24)](#file-language-dropdown-302)
 
 български (BG) (77.07 KB - PDF)
 
@@ -877,7 +877,7 @@ Gedeon Richter Plc.
 
 Gyomroi ut 19-21
 
-Opinion adopted 19/06/2025 Marketing authorisation issued 14/08/2025 Revision 2
+Opinion adopted 19/06/2025 Marketing authorisation issued 14/08/2025 Revision 3
 
 ## Assessment history
 
@@ -889,11 +889,11 @@ Collapse section
 
 Usymro : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (191.08 KB - PDF)
+English (EN) (142.63 KB - PDF)
 
 **First published:** 28/10/2025
 
-**Last updated:** 05/11/2025
+**Last updated:** 09/01/2026
 
 [View](/en/documents/procedural-steps-after/usymro-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -927,7 +927,7 @@ English (EN) (166.48 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 16-19 June 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-16-19-june-2025) 20/06/2025
 
-**This page was last updated on** 05/11/2025
+**This page was last updated on** 09/01/2026
 
 ## Share this page
 

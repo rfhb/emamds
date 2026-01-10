@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-05 15:43:49
+document_datetime: 2026-01-09 15:09:19
 document_pages: 108
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/usymro-epar-product-information_en.pdf
 document_name: usymro-epar-product-information_en.pdf
 version: success
-processing_time: 45.7950009
-conversion_datetime: 2025-12-14 21:34:31.36789
+processing_time: 35.5529772
+conversion_datetime: 2026-01-10 11:15:28.443832
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -86,8 +86,6 @@ Table 1 Initial intravenous dosing of Usymro
 | > 55 kg to ≤ 85 kg                             | 390 mg               |                               3 |
 | > 85 kg                                        | 520 mg               |                               4 |
 
-a  Approximately 6 mg/kg
-
 The first subcutaneous dose should be given at week 8 following the intravenous dose. For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the Usymro solution for injection (vial) and solution for injection in pre-filled syringe Summary of Product Characteristics (SmPC).
 
 ## Elderly (≥ 65 years)
@@ -111,8 +109,6 @@ Table 2 Initial intravenous dosing of Usymro
 | ≥ 40 kg to ≤ 55 kg                             | 260 mg               |                               2 |
 | > 55 kg to ≤ 85 kg                             | 390 mg               |                               3 |
 | > 85 kg                                        | 520 mg               |                               4 |
-
-a  Approximately 6 mg/kg
 
 The first subcutaneous dose should be given at week 8 following the intravenous dose. For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the Usymro solution for injection (vial) and solution for injection in prefilled syringe SmPC.
 
@@ -295,8 +291,6 @@ Table 3 List of adverse reactions
 | Skin and subcutaneous tissue disorders               | Common: Pruritus Uncommon: Pustular psoriasis, skin exfoliation, acne Rare: Exfoliative dermatitis, hypersensitivity vasculitis Very rare: Bullous pemphigoid, cutaneous lupus erythematosus                                             |
 | Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                                                                    |
 | General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia                                                         |
-
-* See section 4.4, Systemic and respiratory hypersensitivity reactions.
 
 ## Description of selected adverse reactions
 
@@ -1008,7 +1002,7 @@ The most common adverse reactions (&gt; 5%) in controlled periods of the adult p
 
 The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6,710 patients (4,135 with psoriasis and/or psoriatic arthritis, 1,749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and noncontrolled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4,577 patients) or at least 1 year (3,648 patients). 2,194 patients with psoriasis, Crohn's disease or ulcerative colitis for at least 4 years while 1,148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
 
-Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common ( ≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 3 List of adverse reactions
 
@@ -1028,8 +1022,6 @@ Table 3 List of adverse reactions
 | Skin and subcutaneous tissue disorders               | Common: Pruritus Uncommon: Pustular psoriasis, skin exfoliation, acne Rare: Exfoliative dermatitis, hypersensitivity vasculitis Very rare: Bullous pemphigoid, cutaneous lupus erythematosus |
 | Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                        |
 | General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia             |
-
-* See section 4.4, Systemic and respiratory hypersensitivity reactions.
 
 ## Description of selected adverse reactions
 
@@ -1210,12 +1202,6 @@ Table 6 Number of patients who achieved clinical response in Psoriatic arthritis
 | ACR 20 response, N(%)                      | 8 (15%)                       | 20 (38%)                      | 23 (46%)                      | 4 (13%)                       | 13 (45%)                      | 12 (39%)                      |
 | Number of patients with ≥ 3% BSA d         | 41                            | 40                            | 38                            | 26                            | 22                            | 24                            |
 | PASI 75 response, N(%)                     | 2 (5%)                        | 19 (48%)                      | 20 (53%)                      | 0                             | 10 (45%)                      | 13 (54%)                      |
-
-a p &lt; 0.001
-
-b p &lt; 0.05
-
-c  p = NS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2213,12 +2199,8 @@ Lot
 | 1.   | NAMEOFTHE MEDICINAL PRODUCT   |
 |------|-------------------------------|
 
-Usymro 45 mg solution for injection in pre-filled syringe ustekinumab
-
 | 2.   | NAMEOFTHE MARKETING AUTHORISATION HOLDER   |
 |------|--------------------------------------------|
-
-Gedeon Richter Plc.
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2233,7 +2215,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-SC
+61
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2244,12 +2226,8 @@ SC
 | 1.   | NAMEOFTHE MEDICINAL PRODUCT   |
 |------|-------------------------------|
 
-Usymro 90 mg solution for injection in pre-filled syringe ustekinumab
-
 | 2.   | NAMEOFTHE MARKETING AUTHORISATION HOLDER   |
 |------|--------------------------------------------|
-
-Gedeon Richter Plc.
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2264,7 +2242,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-SC
+62
 
 <div style=\"page-break-after: always\"></div>
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 13:47:27
+document_datetime: 2026-01-06 14:37:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/imlygic.html
 document_name: imlygic.html
 version: success
-processing_time: 0.1091797
-conversion_datetime: 2025-12-29 23:53:56.486937
+processing_time: 0.1232558
+conversion_datetime: 2026-01-10 10:58:15.494191
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -113,7 +113,7 @@ English (EN) (79.69 KB - PDF)
 
 [View](/en/documents/overview/imlygic-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-136)
+[Other languages (22)](#file-language-dropdown-246)
 
 български (BG) (107.09 KB - PDF)
 
@@ -391,17 +391,17 @@ English (EN) (2.51 MB - PDF)
 
 Imlygic : EPAR - Product Information
 
-English (EN) (634.35 KB - PDF)
+English (EN) (702.88 KB - PDF)
 
 **First published:** 05/02/2016
 
-**Last updated:** 06/10/2025
+**Last updated:** 06/01/2026
 
 [View](/en/documents/product-information/imlygic-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-145)
+[Other languages (24)](#file-language-dropdown-211)
 
-български (BG) (768.73 KB - PDF)
+български (BG) (707.97 KB - PDF)
 
 **First published:**
 
@@ -409,11 +409,11 @@ English (EN) (634.35 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/bg/documents/product-information/imlygic-epar-product-information_bg.pdf)
 
-español (ES) (682.1 KB - PDF)
+español (ES) (663.54 KB - PDF)
 
 **First published:**
 
@@ -421,11 +421,11 @@ español (ES) (682.1 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/es/documents/product-information/imlygic-epar-product-information_es.pdf)
 
-čeština (CS) (795.33 KB - PDF)
+čeština (CS) (723.6 KB - PDF)
 
 **First published:**
 
@@ -433,11 +433,11 @@ español (ES) (682.1 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/cs/documents/product-information/imlygic-epar-product-information_cs.pdf)
 
-dansk (DA) (708.48 KB - PDF)
+dansk (DA) (708.01 KB - PDF)
 
 **First published:**
 
@@ -445,11 +445,11 @@ dansk (DA) (708.48 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/da/documents/product-information/imlygic-epar-product-information_da.pdf)
 
-Deutsch (DE) (737.05 KB - PDF)
+Deutsch (DE) (739 KB - PDF)
 
 **First published:**
 
@@ -457,11 +457,11 @@ Deutsch (DE) (737.05 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/de/documents/product-information/imlygic-epar-product-information_de.pdf)
 
-eesti keel (ET) (749.23 KB - PDF)
+eesti keel (ET) (686.67 KB - PDF)
 
 **First published:**
 
@@ -469,11 +469,11 @@ eesti keel (ET) (749.23 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/et/documents/product-information/imlygic-epar-product-information_et.pdf)
 
-ελληνικά (EL) (759.58 KB - PDF)
+ελληνικά (EL) (699.56 KB - PDF)
 
 **First published:**
 
@@ -481,11 +481,11 @@ eesti keel (ET) (749.23 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/el/documents/product-information/imlygic-epar-product-information_el.pdf)
 
-français (FR) (801.05 KB - PDF)
+français (FR) (746.89 KB - PDF)
 
 **First published:**
 
@@ -493,11 +493,11 @@ français (FR) (801.05 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/fr/documents/product-information/imlygic-epar-product-information_fr.pdf)
 
-hrvatski (HR) (768.05 KB - PDF)
+hrvatski (HR) (708.87 KB - PDF)
 
 **First published:**
 
@@ -505,11 +505,11 @@ hrvatski (HR) (768.05 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/hr/documents/product-information/imlygic-epar-product-information_hr.pdf)
 
-íslenska (IS) (695.37 KB - PDF)
+íslenska (IS) (682.66 KB - PDF)
 
 **First published:**
 
@@ -517,11 +517,11 @@ hrvatski (HR) (768.05 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/is/documents/product-information/imlygic-epar-product-information_is.pdf)
 
-italiano (IT) (700.88 KB - PDF)
+italiano (IT) (675.1 KB - PDF)
 
 **First published:**
 
@@ -529,11 +529,11 @@ italiano (IT) (700.88 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/it/documents/product-information/imlygic-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (755.14 KB - PDF)
+latviešu valoda (LV) (714.17 KB - PDF)
 
 **First published:**
 
@@ -541,11 +541,11 @@ latviešu valoda (LV) (755.14 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/lv/documents/product-information/imlygic-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (790.33 KB - PDF)
+lietuvių kalba (LT) (744.76 KB - PDF)
 
 **First published:**
 
@@ -553,11 +553,11 @@ lietuvių kalba (LT) (790.33 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/lt/documents/product-information/imlygic-epar-product-information_lt.pdf)
 
-magyar (HU) (756.1 KB - PDF)
+magyar (HU) (686.05 KB - PDF)
 
 **First published:**
 
@@ -565,11 +565,11 @@ magyar (HU) (756.1 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/hu/documents/product-information/imlygic-epar-product-information_hu.pdf)
 
-Malti (MT) (859.3 KB - PDF)
+Malti (MT) (764.41 KB - PDF)
 
 **First published:**
 
@@ -577,11 +577,11 @@ Malti (MT) (859.3 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/mt/documents/product-information/imlygic-epar-product-information_mt.pdf)
 
-Nederlands (NL) (720.79 KB - PDF)
+Nederlands (NL) (696.26 KB - PDF)
 
 **First published:**
 
@@ -589,11 +589,11 @@ Nederlands (NL) (720.79 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/nl/documents/product-information/imlygic-epar-product-information_nl.pdf)
 
-norsk (NO) (697.26 KB - PDF)
+norsk (NO) (675.99 KB - PDF)
 
 **First published:**
 
@@ -601,11 +601,11 @@ norsk (NO) (697.26 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/no/documents/product-information/imlygic-epar-product-information_no.pdf)
 
-polski (PL) (751.28 KB - PDF)
+polski (PL) (688.8 KB - PDF)
 
 **First published:**
 
@@ -613,11 +613,11 @@ polski (PL) (751.28 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/pl/documents/product-information/imlygic-epar-product-information_pl.pdf)
 
-português (PT) (670.06 KB - PDF)
+português (PT) (667.65 KB - PDF)
 
 **First published:**
 
@@ -625,11 +625,11 @@ português (PT) (670.06 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/pt/documents/product-information/imlygic-epar-product-information_pt.pdf)
 
-română (RO) (768.29 KB - PDF)
+română (RO) (704.23 KB - PDF)
 
 **First published:**
 
@@ -637,11 +637,11 @@ română (RO) (768.29 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/ro/documents/product-information/imlygic-epar-product-information_ro.pdf)
 
-slovenčina (SK) (766.13 KB - PDF)
+slovenčina (SK) (691.82 KB - PDF)
 
 **First published:**
 
@@ -649,11 +649,11 @@ slovenčina (SK) (766.13 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/sk/documents/product-information/imlygic-epar-product-information_sk.pdf)
 
-slovenščina (SL) (755.95 KB - PDF)
+slovenščina (SL) (691.06 KB - PDF)
 
 **First published:**
 
@@ -661,11 +661,11 @@ slovenščina (SL) (755.95 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/sl/documents/product-information/imlygic-epar-product-information_sl.pdf)
 
-Suomi (FI) (718.26 KB - PDF)
+Suomi (FI) (686.42 KB - PDF)
 
 **First published:**
 
@@ -673,11 +673,11 @@ Suomi (FI) (718.26 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/fi/documents/product-information/imlygic-epar-product-information_fi.pdf)
 
-svenska (SV) (683.64 KB - PDF)
+svenska (SV) (659.05 KB - PDF)
 
 **First published:**
 
@@ -685,11 +685,11 @@ svenska (SV) (683.64 KB - PDF)
 
 **Last updated:**
 
-06/10/2025
+06/01/2026
 
 [View](/sv/documents/product-information/imlygic-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000296281 06/10/2025
+**Latest procedure affecting product information:** N/0000316733 22/12/2025
 
 icon globe
 
@@ -715,7 +715,7 @@ English (EN) (8.37 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/imlygic-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-414)
+[Other languages (24)](#file-language-dropdown-394)
 
 български (BG) (48.04 KB - PDF)
 
@@ -1031,7 +1031,7 @@ Amgen Europe B.V.
 
 Minervum 7061
 
-Opinion adopted 23/07/2015 Marketing authorisation issued 16/12/2015 Revision 16
+Opinion adopted 23/07/2015 Marketing authorisation issued 16/12/2015 Revision 17
 
 ## Assessment history
 
@@ -1043,9 +1043,11 @@ Collapse section
 
 Imlygic : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (284.91 KB - PDF)
+English (EN) (149.23 KB - PDF)
 
 **First published:** 06/10/2025
+
+**Last updated:** 06/01/2026
 
 [View](/en/documents/procedural-steps-after/imlygic-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1129,7 +1131,7 @@ English (EN) (68.65 KB - PDF)
 - [Advanced therapies](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A42)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 06/10/2025
+**This page was last updated on** 06/01/2026
 
 ## Share this page
 

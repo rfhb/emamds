@@ -1,16 +1,16 @@
 ---
-document_datetime: 2024-04-18 13:56:50
+document_datetime: 2026-01-09 11:22:50
 document_pages: 91
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ayvakyt-epar-product-information_en.pdf
 document_name: ayvakyt-epar-product-information_en.pdf
 version: success
-processing_time: 21.0478852
-conversion_datetime: 2025-12-28 09:23:12.423148
+processing_time: 20.4538076
+conversion_datetime: 2026-01-10 11:16:28.398517
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -54,7 +54,7 @@ AYVAKYT 200 mg film-coated tablets
 
 Each film-coated tablet contains 200 mg of avapritinib.
 
-## AYVAKYT 300 mg film-coated tablets
+AYVAKYT 300 mg film-coated tablets
 
 Each film-coated tablet contains 300 mg of avapritinib.
 
@@ -246,7 +246,7 @@ Cognitive effects, such as memory impairment, cognitive disorder, confusional st
 
 It is recommended that patients with GIST or AdvSM are clinically monitored for signs and symptoms of cognitive events such as new or increased forgetfulness, confusion, and/or difficulty with cognitive functioning. Patients with GIST or AdvSM must notify their healthcare professional immediately if they experience new or worsening cognitive symptoms.
 
-For GIST or AdvSM patients with observed cognitive effects related to treatment with avapritinib, the recommended dose modification in Table 2 must be followed (see section 4.2). In clinical studies conducted in patients with GIST and AdvSM, dose reductions or interruptions improved Grade ≥2 cognitive effects compared to no action.
+For GIST or AdvSM patients with observed cognitive effects related to treatment with avapritinib, the recommended dose modification in Table 2 must be followed (see section 4.2). In clinical studies conducted in patients with GIST and AdvSM , dose reductions or interruptions improved Grade ≥2 cognitive effects compared to no action.
 
 In patients with ISM, cognitive effects can be one of the disease symptoms. Patients with ISM must notify their healthcare professional if they experience new or worsening cognitive symptoms.
 
@@ -318,11 +318,7 @@ Co-administration of avapritinib with strong and moderate CYP3A inducers (e.g. d
 
 ## Effect of avapritinib on other active substances
 
-In vitro studies demonstrated that avapritinib is a direct inhibitor of CYP3A and a time-dependent inhibitor of CYP3A. Therefore, avapritinib may have the potential to increase plasma concentrations of co-administered medicinal products that are substrates of CYP3A.
-
-In vitro studies indicated that avapritinib is an inducer of CYP3A. Therefore, avapritinib may have the potential to decrease plasma concentrations of co-administered medicinal products that are substrates of CYP3A.
-
-Caution must be exercised with co-administration of avapritinib with narrow therapeutic index CYP3A substrates as their plasma concentrations may be altered.
+Co-administration of avapritinib 300 mg once daily with oral midazolam increased the midazolam AUC and Cmax by 51% and 20%, respectively. These results indicate that avapritinib 300 mg once daily is a weak inhibitor of CYP3A. Physiologically based pharmacokinetic simulations predict that avapritinib is not an inhibitor of CYP3A at doses of 200 mg once daily and below. Therefore, caution must be exercised with co-administration of avapritinib 300 mg once daily with narrow therapeutic index CYP3A substrates as their plasma concentrations may be increased.
 
 Avapritinib is an inhibitor of P-gp, BCRP, MATE1, MATE2-K, and BSEP in vitro . Therefore, avapritinib has the potential to alter concentrations of co-administered substrates of these transporters.
 
@@ -332,9 +328,9 @@ Avapritinib is an inhibitor of P-gp, BCRP, MATE1, MATE2-K, and BSEP in vitro . T
 
 Women of childbearing potential must be informed that avapritinib may cause foetal harm (see section 5.3).
 
-<div style=\"page-break-after: always\"></div>
-
 The pregnancy status of women of reproductive potential must be verified prior to initiating AYVAKYT treatment.
+
+<div style=\"page-break-after: always\"></div>
 
 Women of childbearing potential must use effective contraception during treatment and for 6 weeks after the last dose of AYVAKYT. Males with female partners of childbearing potential must use effective contraception during treatment and for 2 weeks after the last dose of AYVAKYT.
 
@@ -372,11 +368,11 @@ Patients should be made aware of the potential for adverse reactions that affect
 
 The safety database includes a total of 585 patients with GIST (all doses), of which 550 patients received avapritinib at a starting dose of 300 mg or 400 mg; 193 patients enrolled in studies for AdvSM (all doses), of which 126 patients received avapritinib at a starting dose of 200 mg, and 246 patients with ISM (doses 25 mg - 100 mg), of which 141 patients received avapritinib at the recommended dose of 25 mg in Part 2, pivotal part of the PIONEER study (see section 5.1).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Unresectable or metastatic GIST
 
 The most common adverse reactions of any grade during treatment with avapritinib at a starting dose of 300 mg or 400 mg were nausea (45%), fatigue (40%), anaemia (39%), periorbital oedema (33%), face oedema (27%), hyperbilirubinaemia (28%), diarrhoea (26%), vomiting (24%), oedema peripheral (23%), lacrimation increased (22%), decreased appetite (21%) and memory impairment (20%).
+
+<div style=\"page-break-after: always\"></div>
 
 Serious adverse reactions occurred in 23% of patients receiving avapritinib. The most common serious adverse reactions during treatment with avapritinib were anaemia (6%), and pleural effusion (1%).
 
@@ -410,56 +406,55 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 
 Table 3. Adverse reactions reported in clinical studies in patients with unresectable or metastatic GIST treated with avapritinib
 
-| System Organ Class / frequency category                                  | Adverse reactions                                                        | All grades %                                                             | Grades ≥ 3 %                                                             |
-|--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|
-| Infections and infestations                                              | Infections and infestations                                              |                                                                          |                                                                          |
-| Common                                                                   | Conjunctivitis                                                           | 2.0                                                                      | -                                                                        |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) | Neoplasms benign, malignant and unspecified (including cysts and polyps) | Neoplasms benign, malignant and unspecified (including cysts and polyps) | Neoplasms benign, malignant and unspecified (including cysts and polyps) |
-| Uncommon                                                                 | Tumour haemorrhage                                                       | 0.2                                                                      | 0.2                                                                      |
-| Blood and lymphatic system disorders                                     | Blood and lymphatic system disorders                                     |                                                                          |                                                                          |
-| Very common                                                              | Anaemia                                                                  | 39.6                                                                     | 20.4                                                                     |
-| Very common                                                              | White blood cell count decreased                                         | 14.0                                                                     | 3.1                                                                      |
-| Very common                                                              | Neutrophil count decreased                                               | 15.8                                                                     | 8.9                                                                      |
-|                                                                          | Thrombocytopenia                                                         | 8.4                                                                      | 0.9                                                                      |
-| Common                                                                   | Lymphocyte count decreased                                               | 4.7                                                                      | 2.2                                                                      |
-| Metabolism and nutrition disorders                                       | Metabolism and nutrition disorders                                       |                                                                          |                                                                          |
-| Very common                                                              | Decreased appetite                                                       | 21.1                                                                     | 0.5                                                                      |
-| Common                                                                   | Hypophosphataemia                                                        | 8.9                                                                      | 2.5                                                                      |
-|                                                                          | Hypokalaemia                                                             | 6.0                                                                      | 0.9                                                                      |
-|                                                                          | Hypomagnesaemia                                                          | 3.8                                                                      | 0.4                                                                      |
-|                                                                          | Hyponatraemia                                                            | 1.3                                                                      | 0.7                                                                      |
-|                                                                          | Dehydration                                                              | 1.8                                                                      | 0.5                                                                      |
-|                                                                          | Hypoalbuminaemia                                                         | 2.4                                                                      | -                                                                        |
-|                                                                          | Hypocalcaemia                                                            | 2.2                                                                      | 0.4                                                                      |
-| Psychiatric disorders                                                    | Psychiatric disorders                                                    |                                                                          |                                                                          |
-| Common                                                                   | Confusional state                                                        | 4.7                                                                      | 0.5                                                                      |
-| Common                                                                   | Depression                                                               | 4.2                                                                      | 0.4                                                                      |
-| Common                                                                   | Anxiety                                                                  | 1.8                                                                      | -                                                                        |
-| Common                                                                   | Insomnia                                                                 | 3.8                                                                      | -                                                                        |
-| Nervous system disorders                                                 | Nervous system disorders                                                 |                                                                          |                                                                          |
-| Very common                                                              | Memory impairment                                                        | 22.7                                                                     | 0.9                                                                      |
-| Very common                                                              | Cognitive disorder                                                       | 11.8                                                                     | 0.9                                                                      |
-| Very common                                                              | Dizziness                                                                | 10.5                                                                     | 0.2                                                                      |
-| Very common                                                              | Taste effect                                                             | 12.7                                                                     | -                                                                        |
-| Common                                                                   | Intracranial haemorrhage 1                                               | 1.6                                                                      | 1.1                                                                      |
-| Common                                                                   | Mental impairment 2                                                      | 5.6                                                                      | 0.7                                                                      |
-| Common                                                                   | Neuropathy peripheral                                                    | 8.5                                                                      | 0.4                                                                      |
-| Common                                                                   | Somnolence                                                               | 1.8                                                                      | -                                                                        |
-| Common                                                                   | Aphasia                                                                  | 1.8                                                                      | -                                                                        |
-| Common                                                                   | Hypokinesia                                                              | 1.3                                                                      | 0.2                                                                      |
-| Common                                                                   | Headache                                                                 | 8.0                                                                      | 0.2                                                                      |
-| Common                                                                   | Balance disorder                                                         | 1.6                                                                      | -                                                                        |
-| Common                                                                   | Speech disorder                                                          | 4.5                                                                      | -                                                                        |
-| Common                                                                   | Tremor                                                                   | 2.2                                                                      | 0.2                                                                      |
-| Uncommon                                                                 | Encephalopathy                                                           | 0.9                                                                      | 0.5                                                                      |
-| Eye disorders                                                            | Eye disorders                                                            |                                                                          |                                                                          |
-| Very common                                                              | Lacrimation increased                                                    | 22.2                                                                     | -                                                                        |
-| Common                                                                   | Ocular haemorrhage 3                                                     | 1.1                                                                      | -                                                                        |
-|                                                                          | Vision blurred                                                           | 2.9                                                                      | -                                                                        |
-|                                                                          | Conjunctival haemorrhage                                                 | 2.4                                                                      | -                                                                        |
-|                                                                          | Photophobia                                                              | 1.6                                                                      | -                                                                        |
-| Ear and labyrinth disorders                                              | Ear and labyrinth disorders                                              |                                                                          |                                                                          |
-| Common                                                                   | Vertigo                                                                  | 2.4                                                                      | -                                                                        |
+| System Organ Class / frequency category                          | Adverse reactions                                                | All grades %   | Grades ≥ 3 %   |
+|------------------------------------------------------------------|------------------------------------------------------------------|----------------|----------------|
+| Infections and infestations                                      | Infections and infestations                                      |                |                |
+| Common                                                           | Conjunctivitis                                                   | 2.0            | -              |
+| Neoplasms benign, malignant and unspecified (including cysts and | Neoplasms benign, malignant and unspecified (including cysts and | polyps)        |                |
+| Uncommon                                                         | Tumour haemorrhage                                               | 0.2            | 0.2            |
+| Blood and lymphatic system disorders                             | Blood and lymphatic system disorders                             |                |                |
+| Very common                                                      | Anaemia                                                          | 39.6           | 20.4           |
+| Very common                                                      | White blood cell count decreased                                 | 14.0           | 3.1            |
+| Very common                                                      | Neutrophil count decreased                                       | 15.8           | 8.9            |
+|                                                                  | Thrombocytopenia                                                 | 8.4            | 0.9            |
+| Common                                                           | Lymphocyte count decreased                                       | 4.7            | 2.2            |
+| Metabolism and nutrition disorders                               | Metabolism and nutrition disorders                               |                |                |
+| Very common                                                      | Decreased appetite                                               | 21.1           | 0.5            |
+| Common                                                           | Hypophosphataemia                                                | 8.9            | 2.5            |
+|                                                                  | Hypokalaemia                                                     | 6.0            | 0.9            |
+|                                                                  | Hypomagnesaemia                                                  | 3.8            | 0.4            |
+|                                                                  | Hyponatraemia                                                    | 1.3            | 0.7            |
+|                                                                  | Dehydration                                                      | 1.8            | 0.5            |
+|                                                                  | Hypoalbuminaemia                                                 | 2.4            | -              |
+|                                                                  | Hypocalcaemia                                                    | 2.2            | 0.4            |
+| Psychiatric disorders                                            | Psychiatric disorders                                            |                |                |
+| Common                                                           | Confusional state                                                | 4.7            | 0.5            |
+| Common                                                           | Depression                                                       | 4.2            | 0.4            |
+| Common                                                           | Anxiety                                                          | 1.8            | -              |
+| Common                                                           | Insomnia                                                         | 3.8            | -              |
+| Nervous system disorders                                         | Nervous system disorders                                         |                |                |
+| Very common                                                      | Memory impairment                                                | 22.7           | 0.9            |
+| Very common                                                      | Cognitive disorder                                               | 11.8           | 0.9            |
+| Very common                                                      | Dizziness                                                        | 10.5           | 0.2            |
+| Very common                                                      | Taste effect                                                     | 12.7           | -              |
+| Common                                                           | Intracranial haemorrhage 1                                       | 1.6            | 1.1            |
+| Common                                                           | Mental impairment 2                                              | 5.6            | 0.7            |
+| Common                                                           | Neuropathy peripheral                                            | 8.5            | 0.4            |
+| Common                                                           | Somnolence                                                       | 1.8            | -              |
+| Common                                                           | Aphasia                                                          | 1.8            | -              |
+| Common                                                           | Hypokinesia                                                      | 1.3            | 0.2            |
+| Common                                                           | Headache                                                         | 8.0            | 0.2            |
+| Common                                                           | Balance disorder                                                 | 1.6            | -              |
+| Common                                                           | Speech disorder                                                  | 4.5            | -              |
+| Uncommon                                                         | Tremor Encephalopathy                                            | 2.2 0.9        | 0.2 0.5        |
+| Eye disorders                                                    | Eye disorders                                                    |                |                |
+| Very common                                                      | Lacrimation increased                                            | 22.2           | -              |
+| Common                                                           | Ocular haemorrhage 3                                             | 1.1            | -              |
+|                                                                  | Vision blurred                                                   | 2.9            | -              |
+|                                                                  | Conjunctival haemorrhage                                         | 2.4            | -              |
+|                                                                  | Photophobia                                                      | 1.6            | -              |
+| Ear and labyrinth disorders                                      | Ear and labyrinth disorders                                      |                |                |
+| Common                                                           | Vertigo                                                          | 2.4            | -              |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -476,41 +471,41 @@ Table 3. Adverse reactions reported in clinical studies in patients with unresec
 | Common                                               | Cough                                                | 2.2            | -              |
 | Gastrointestinal disorders                           | Gastrointestinal disorders                           |                |                |
 | Very common                                          | Abdominal pain                                       | 10.9           | 1.1            |
-| Very common                                          | Vomiting                                             | 24.2           | 0.7            |
-| Very common                                          | Diarrhoea                                            | 26.4           | 2.7            |
-| Very common                                          | Nausea                                               | 45.1           | 1.5            |
-| Very common                                          | Dryness                                              | 10.9           | 0.2            |
-| Very common                                          | Gastroesophageal reflux disease                      | 12.9           | 0.5            |
+|                                                      | Vomiting                                             | 24.2           | 0.7            |
+|                                                      | Diarrhoea                                            | 26.4           | 2.7            |
+|                                                      | Nausea                                               | 45.1           | 1.5            |
+|                                                      | Dryness                                              | 10.9           | 0.2            |
+|                                                      | Gastroesophageal reflux disease                      | 12.9           | 0.5            |
 | Common                                               | Gastrointestinal haemorrhage 4                       | 2.2            | 1.6            |
-| Common                                               | Ascites                                              | 7.5            | 1.3            |
-| Common                                               | Constipation                                         | 5.8            | -              |
-| Common                                               | Dysphagia                                            | 2.4            | 0.4            |
-| Common                                               | Stomatitis                                           | 2.4            | -              |
-| Common                                               | Flatulence                                           | 1.6            | -              |
-| Common                                               | Salivary hypersecretion                              | 1.5            | -              |
+|                                                      | Ascites                                              | 7.5            | 1.3            |
+|                                                      | Constipation                                         | 5.8            | -              |
+|                                                      | Dysphagia                                            | 2.4            | 0.4            |
+|                                                      | Stomatitis                                           | 2.4            | -              |
+|                                                      | Flatulence                                           | 1.6            | -              |
+|                                                      | Salivary hypersecretion                              | 1.5            | -              |
 | Hepatobiliary disorders                              | Hepatobiliary disorders                              |                |                |
 | Very common                                          | Hyperbilirubinaemia                                  | 27.5           | 5.8            |
 | Uncommon                                             | Hepatic haemorrhage                                  | 0.2            | 0.2            |
 | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               |                |                |
 | Very common                                          | Hair colour changes                                  | 15.3           | 0.2            |
-| Very common                                          | Rash                                                 | 12.7           | 1.6            |
+|                                                      | Rash                                                 | 12.7           | 1.6            |
 | Common                                               | Palmar-plantar erythrodysaesthesia syndrome          | 1.3            | -              |
-| Common                                               | Photosensitivity reaction                            | 1.1            | -              |
-| Common                                               | Skin hypopigmentation                                | 1.1            | -              |
-| Common                                               | Pruritus                                             | 2.9            | -              |
-| Common                                               | Alopecia                                             | 9.6            | -              |
+|                                                      | Photosensitivity reaction                            | 1.1            | -              |
+|                                                      | Skin hypopigmentation                                | 1.1            | -              |
+|                                                      | Pruritus                                             | 2.9            | -              |
+|                                                      | Alopecia                                             | 9.6            | -              |
 | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders      |                |                |
 | Common                                               | Myalgia                                              | 2.0            | -              |
-| Common                                               | Arthralgia                                           | 1.8            | -              |
-| Common                                               | Back pain                                            | 1.1            | -              |
-| Common                                               | Muscle spasms                                        | 1.6            | -              |
+|                                                      | Arthralgia                                           | 1.8            | -              |
+|                                                      | Back pain                                            | 1.1            | -              |
+|                                                      | Muscle spasms                                        | 1.6            | -              |
 | Renal and urinary disorders                          | Renal and urinary disorders                          |                |                |
 | Common                                               | Acute kidney injury                                  | 2.0            | 0.9            |
 |                                                      | Blood creatinine increased                           | 4.4            | -              |
 |                                                      | Haematuria                                           | 1.1            | -              |
 | General disorders and administration site conditions | General disorders and administration site conditions |                |                |
-| Very common                                          | Oedema 5                                             | 70.2           | 4.7            |
-|                                                      | Fatigue                                              | 39.6           | 5.3            |
+|                                                      | Oedema 5                                             | 70.2           | 4.7            |
+| Very common                                          | Fatigue                                              | 39.6           | 5.3            |
 |                                                      | Asthenia                                             | 7.8            | 1.6            |
 | Common                                               | Pyrexia                                              | 1.8            | 0.2            |
 | Common                                               | Malaise                                              | 2.5            | 0.2            |
@@ -557,8 +552,8 @@ Table 4. Adverse reactions reported in clinical studies in patients with advance
 | Common                                          | Epistaxis                                       | 5.6                                             | -                                               |
 | Common                                          | Pleural effusion                                | 2.4                                             | -                                               |
 | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      |
-| Very common                                     | Diarrhoea                                       | 14.3                                            | 1.6                                             |
-| Very common                                     | Nausea                                          | 12.7                                            | -                                               |
+| Very                                            | Diarrhoea                                       | 14.3                                            | 1.6                                             |
+| common                                          | Nausea                                          | 12.7                                            | -                                               |
 | Common                                          | Vomiting *                                      | 8.7                                             | 0.8                                             |
 
 <div style=\"page-break-after: always\"></div>
@@ -593,6 +588,12 @@ Table 4. Adverse reactions reported in clinical studies in patients with advance
 | Common                                               | Electrocardiogram QT prolonged                       | 1.6            | 0.8            |
 | Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications       |                |                |
 | Common                                               | Contusion                                            | 3.2            | -              |
+
+Conjunctival oedema, Laryngeal oedema, Localised oedema)
+
+* Comprises pooled terms representing similar medical concepts.
+
+-: no adverse reactions reported
 
 Indolent systemic mastocytosis
 
@@ -793,9 +794,9 @@ Table 7. Efficacy results for patients with advanced systemic mastocytosis who r
 | Efficacy parameter                                                                                                                 | Overall                                               | ASM                                         | SM-AHN                                                 | MCL                                          |
 |------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------|--------------------------------------------------------|----------------------------------------------|
 | ORR 1 per modified IWG- MRT-ECNM, n (%) (95% confidence interval) Response per modified IWG- MRT-ECNM category, n (%) CR CRh PR CI | N = 47 28 (60) (44.3, 73.6) 1 (2) 4 (9) 19 (40) 4 (9) | N = 8 5 (63) (24.5, 91.5) 0 2 (25) 3 (38) 0 | N = 29 19 (66) (45.7, 82.1) 1 (3) 2 (7) 13 (45) 3 (10) | N = 10 4 (40) (12.2, 73.8) 0 0 3 (30) 1 (10) |
-| DOR 2 (months), median (95% confidence interval)                                                                                   | N = 28 NR (NE, NE)                                    | N = 5 NR (NE, NE) 100.0                     | N = 19 NR (NE, NE) 100.0                               | N = 4 NR (NE, NE) 100.0                      |
-| DOR rate at 12 months,% DOR rate at 24 months,%                                                                                    | 100.0 85.6                                            | NE                                          | 83.3 N = 19 1.9 (0.5, 5.5)                             | NE N = 4 3.6                                 |
-| Time to response (months), median (min, max)                                                                                       | N = 28 1.9 (0.5, 12.2)                                | N = 5 2.3 (1.8, 5.5)                        |                                                        | (1.7, 12.2)                                  |
+| DOR 2 (months), median (95% confidence interval) DOR rate at 12 months,%                                                           | N = 28 NR (NE, NE)                                    | N = 5 NR (NE, NE) 100.0                     | N = 19 NR (NE, NE) 100.0                               | N = 4 NR (NE, NE) 100.0                      |
+| DOR rate at 24 months,%                                                                                                            | 100.0 85.6                                            | NE                                          | 83.3 N = 19 1.9                                        | NE N = 4                                     |
+| Time to response (months), median (min, max)                                                                                       | N = 28 1.9 (0.5, 12.2)                                | N = 5 2.3 (1.8, 5.5)                        | (0.5, 5.5)                                             | 3.6 (1.7, 12.2)                              |
 | Time to CR/CRh (months), median (min, max)                                                                                         | N = 5 3.7 (1.8, 14.8)                                 | N = 2 2.8 (1.8, 3.7)                        | N = 3 5.6 (1.8, 14.8)                                  | N = 0 NE                                     |
 
 <div style=\"page-break-after: always\"></div>
@@ -917,7 +918,7 @@ Following a single dose of approximately 310 mg (~100 µCi) [ 14 C]avapritinib t
 
 In vitro studies demonstrated that avapritinib is a direct inhibitor of CYP3A4 and a time-dependent inhibitor of CYP3A4, at clinically relevant concentrations (see section 4.5). In vitro , avapritinib did not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, or CYP2D6 at clinically relevant concentrations.
 
-In vitro , at clinically relevant concentrations, avapritinib induced CYP3A (see section 4.5). In vitro , avapritinib did not induce CYP1A2 or CYP2B6 at clinically relevant concentrations.
+In vitro , avapritinib did not induce CYP1A2 or CYP2B6 at clinically relevant concentrations.
 
 ## Elimination
 
@@ -957,7 +958,7 @@ Based on a population pharmacokinetic analysis, avapritinib exposures were simil
 
 ## Repeat dose toxicology studies
 
-Haemorrhage in the brain and spinal cord occurred in dogs at doses greater than or equal to 15 mg/kg/day (approximately 9.0, 1.8 and 0.8 times the human exposure based on AUC at 25 mg, 200 mg and 300 mg dose once daily, respectively) and choroid plexus oedema in the brain occurred in dogs at doses greater than or equal to 7.5 mg/kg/day (approximately 4.7, 1.0 and 0.4 times the human exposure based on AUC at the clinical dose of 25 mg, 200 mg and 300 mg once daily, respectively). Rats manifested convulsions, which was potentially secondary to inhibition of Nav 1.2 at systemic exposures ≥96, 12 and ≥8-fold higher than the exposure in patients at the clinical dose of 25 mg, 200 mg and 300 mg once daily.
+Haemorrhage in the brain and spinal cord occurred in dogs at doses greater than or equal to 15 mg/kg/day (approximately 9.0, 1.8 and 0.8 times the human exposure based on AUC at 25 mg, 200 mg and 300 mg dose once daily, respectively) and choroid plexus oedema in the brain occurred in dogs at doses greater than or equal to 7.5 mg/kg/day (approximately 4.7, 1.0 and 0.4 times the human exposure based on AUC at the clinical dose of 25 mg, 200 mg and 300 mg once daily, respectively). Rats manifested convulsions, which was potentially secondary to inhibition of Nav 1.2 at systemic exposures ≥ 96, 12 and ≥8 -fold higher than the exposure in patients at the clinical dose of 25 mg, 200 mg and 300 mg once daily.
 
 In a 6 month repeat dose toxicology study in rats, rats manifested haemorrhagic and cystic degeneration of the ovarian corpus lutea and vaginal mucification at dose levels greater or equal to 3 mg/kg/day with exposure margins of 15, 3 and 1.3 times the human exposure based on AUC at 25 mg, 200 mg and 300 mg, respectively. In a 9 month repeat dose toxicology study in dogs, hypospermatogenesis (3/4 males) was observed at the highest dose tested, 5 mg/kg/day (5.7, 1.2 and &lt;1 times the human exposure (AUC) at 25 mg, 200 mg and 300 mg dose, respectively).
 
@@ -987,9 +988,9 @@ Tablet core Microcrystalline cellulose Copovidone Croscarmellose sodium Magnesiu
 
 Tablet coat Talc Macrogol 3350 Poly(vinyl alcohol) Titanium dioxide (E171)
 
-Printing ink (for 100 mg, 200 mg and 300 mg film-coated tablets only)
+Printing ink (for 100 mg, 200 mg and 300 mg film-coated tablets only) Shellac glaze 45% (20% esterified) in ethanol
 
-Shellac glaze 45% (20% esterified) in ethanol Brilliant blue FCF (E133) Titanium dioxide (E171) Black iron oxide (E172) Propylene glycol
+Brilliant blue FCF (E133) Titanium dioxide (E171) Black iron oxide (E172) Propylene glycol
 
 ## 6.2 Incompatibilities
 
@@ -1041,11 +1042,11 @@ AYVAKYT 300 mg film-coated tablets EU/1/20/1473/003
 
 Date of first authorisation: 24 September 2020
 
-Date of latest renewal: 24 July 2023
+Date of latest renewal: 28 July 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1164,11 +1165,11 @@ EU/1/20/1473/004
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 AYVAKYT 25 mg
 
@@ -1198,7 +1199,7 @@ AYVAKYT 25 mg film-coated tablets avapritinib
 
 Each film-coated tablet contains 25 mg avapritinib.
 
-## 3. LIST OF EXCIPIENTS
+3. LIST OF EXCIPIENTS
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -1246,7 +1247,9 @@ Lot
 
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1256,9 +1259,7 @@ Lot
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-AYVAKYT 50 mg film-coated tablets
-
-avapritinib
+AYVAKYT 50 mg film-coated tablets avapritinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1285,16 +1286,12 @@ Do not swallow the desiccant canister found in the bottle.
 Keep out of the sight and reach of children.
 
 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
 8. EXPIRY DATE
 
 EXP
 
 9. SPECIAL STORAGE CONDITIONS
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-<div style=\"page-break-after: always\"></div>
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1372,6 +1369,8 @@ EXP
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
+<div style=\"page-break-after: always\"></div>
+
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Blueprint Medicines (Netherlands) B.V. Gustav Mahlerplein 2 1082 MA Amsterdam Netherlands
@@ -1385,11 +1384,8 @@ EU/1/20/1473/005
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
-
 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
@@ -1402,9 +1398,7 @@ Lot
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-AYVAKYT 100 mg film-coated tablets
-
-avapritinib
+AYVAKYT 100 mg film-coated tablets avapritinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1431,16 +1425,12 @@ Do not swallow the desiccant canister found in the bottle.
 Keep out of the sight and reach of children.
 
 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
 8. EXPIRY DATE
 
 EXP
 
 9. SPECIAL STORAGE CONDITIONS
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-<div style=\"page-break-after: always\"></div>
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1458,7 +1448,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 AYVAKYT 100 mg
 
@@ -1536,8 +1526,9 @@ Lot
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
 17. UNIQUE IDENTIFIER - 2D BARCODE
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1545,9 +1536,7 @@ Lot
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-AYVAKYT 200 mg film-coated tablets
-
-avapritinib
+AYVAKYT 200 mg film-coated tablets avapritinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1574,16 +1563,12 @@ Do not swallow the desiccant canister found in the bottle.
 Keep out of the sight and reach of children.
 
 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
 8. EXPIRY DATE
 
 EXP
 
 9. SPECIAL STORAGE CONDITIONS
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-<div style=\"page-break-after: always\"></div>
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1687,15 +1672,15 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 ## OUTER CARTON 300 MG FILM-COATED TABLETS
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-AYVAKYT 300 mg film-coated tablets
-
-avapritinib
+AYVAKYT 300 mg film-coated tablets avapritinib
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1722,16 +1707,12 @@ Do not swallow the desiccant canister found in the bottle.
 Keep out of the sight and reach of children.
 
 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
 8. EXPIRY DATE
 
 EXP
 
 9. SPECIAL STORAGE CONDITIONS
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-<div style=\"page-break-after: always\"></div>
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1745,7 +1726,7 @@ EU/1/20/1473/003
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -1805,9 +1786,10 @@ Keep out of the sight and reach of children.
 
 EXP
 
-## 9. SPECIAL STORAGE CONDITIONS
-
+9. SPECIAL STORAGE CONDITIONS
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+<div style=\"page-break-after: always\"></div>
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1822,16 +1804,10 @@ EU/1/20/1473/003
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
-
 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1897,7 +1873,7 @@ Talk to your doctor or pharmacist before taking AYVAKYT:
 - -if you have low platelet counts.
 - -If you are taking a medicine that thins the blood to prevent blood clots such as warfarin or phenprocoumon.
 
-## Take special care with this medicine:
+Take special care with this medicine:
 
 - -You may develop symptoms such as severe headache, vision problems, severe sleepiness, or severe weakness on one side of your body (signs of bleeding in your brain). If these occur, contact your doctor immediately and temporarily stop treatment. For patients with AdvSM, your doctor will evaluate your platelet counts before you start treatment and monitor them as needed during your treatment with avapritinib.
 - -Treatment with this medicine may lead to a higher risk of bleeding in patients with AdvSM. Avapritinib can cause bleeding in the digestive system such as stomach, rectum, or intestine. Tell your doctor if you had or have any bleeding problems. Before you start taking avapritinib your doctor may decide to do blood tests. Get medical help immediately, if you get the following symptoms: passing blood in the stools or passing black stools, stomach pain, coughing/vomiting up blood.
@@ -1943,14 +1919,6 @@ The following medicines can reduce the effects of avapritinib:
 - Nafcillin - used to treat certain bacterial infections
 - Dexamethasone - used to reduce inflammation
 
-This medicine may affect how well the following medicines work or increase their side effects:
-
-- Alfentanil - used to control pain during operations and medical procedures
-- Atazanavir - used to treat HIV infection/AIDS
-- Midazolam - used for anaesthesia, sedation or to decrease anxiety
-- Simvastatin - used to treat high cholesterol
-- Sirolimus, tacrolimus - used to prevent organ transplant rejection
-
 Ask your doctor or pharmacist for advice before taking any medicine.
 
 ## AYVAKYT with food and drink
@@ -1969,8 +1937,6 @@ Your doctor may check if you are pregnant before you start treatment with this m
 
 Women who are able to become pregnant should use effective contraception during treatment and for at least 6 weeks after completion of treatment. Males with female partners who are able to become pregnant should use effective contraception during treatment and for at least 2 weeks after completion of treatment. Talk to your doctor about effective contraception methods that may be right for you.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Breast-feeding
 
 Tell your doctor if you are breast-feeding or planning to breast-feed. It is not known if AYVAKYT passes into breast milk. You should not breast-feed during treatment with this medicine and for at least 2 weeks following the last dose. Talk to your doctor about the best way to feed your baby during this time.
@@ -1978,6 +1944,8 @@ Tell your doctor if you are breast-feeding or planning to breast-feed. It is not
 ## Fertility
 
 AYVAKYT may cause fertility problems in males and females. Talk to your doctor if this is a concern for you.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Driving and using machines
 
@@ -2023,17 +1991,20 @@ If you miss a dose of AYVAKYT, take it as soon as you remember unless your next 
 
 Do not take two doses within 8 hours to make up for a forgotten dose.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
 ## Most serious side effects in patients with AdvSM
 
-Some side effects may be serious. Tell your doctor straight away if you get any of the following (see also section 2.):
+## Some side effects may be serious. Tell your doctor straight away if you get any of the following
+
+(see also section 2.):
 
 - -severe headache, vision problems, severe sleepiness, severe weakness on one side of your body (signs of bleeding in your brain)
+
+<div style=\"page-break-after: always\"></div>
+
 - -memory loss, changes in memory, or confusion (signs of a cognitive effect)
 
 ## Other side effects in patients with AdvSM may include
@@ -2054,8 +2025,7 @@ Very common (may affect more than 1 in 10 people):
 
 - -headache
 - -dizziness
-- -
-- decreased sensation, numbness, tingling, or increased sensitivity to pain in arms and legs
+- -decreased sensation, numbness, tingling, or increased sensitivity to pain in arms and legs
 - -bleeding in your brain
 - -increased tear production
 - -nose bleed
@@ -2089,9 +2059,6 @@ Very common (may affect more than 1 in 10 people):
 ## Common (may affect up to 1 in 10 people):
 
 - -trouble falling asleep (insomnia)
-
-<div style=\"page-break-after: always\"></div>
-
 - -flushing
 - -red or itchy skin
 - -face swelling
@@ -2099,7 +2066,11 @@ Very common (may affect more than 1 in 10 people):
 
 ## Reporting of side effects
 
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system
+
+<div style=\"page-break-after: always\"></div>
+
+listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
 ## 5. How to store AYVAKYT
 
@@ -2132,25 +2103,19 @@ Keep the desiccant canister in the bottle.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Blueprint Medicines (Netherlands) B.V. Gustav Mahlerplein 2 1082 MA Amsterdam
-
-Netherlands
+Blueprint Medicines (Netherlands) B.V. Gustav Mahlerplein 2 1082 MA Amsterdam Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien, България, Česká republika, Danmark, Deutschland, Eesti, España, France, Hrvatska, Ireland, Ísland,
+België /Belgique/Belgien, България, Česká republika, Danmark, Deutschland, Eesti, España, France, Hrvatska, Ireland, Ísland, Italia, Latvija, Lietuva, Luxembourg/Luxemburg, Magyarország, Malta, Nederland, Norge, Österreich, Polska, Portugal, România, Slovenija, Slovenská republika, Suomi/Finland, Sverige
 
-Ελλάδα, Κύπρος Swixx Biopharma S.M.S.A. Τηλ: +30 214 444 9670
-
-<div style=\"page-break-after: always\"></div>
-
-Italia, Latvija, Lietuva, Luxembourg/Luxemburg, Magyarország, Malta, Nederland, Norge, Österreich, Polska, Portugal, România, Slovenija, Slovenská republika, Suomi/Finland, Sverige, United Kingdom (Northern Ireland)
-
-Blueprint Medicines (Netherlands) B.V., NL
-
-Tel/ Tél/ Teл/ Tlf/ Sími/ Puh: +31 85 064 4001
+Blueprint Medicines (Netherlands) B.V., NL Tel/ Tél/ Teл/ Tlf/ Sími/ Puh: +31 85 064 4001
 
 e-mail: MedinfoEurope@blueprintmedicines.com
+
+Ελλάδα , Κύπρος Swixx Biopharma S.M.S.A. Τηλ: +30 214 444 9670
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -2162,7 +2127,7 @@ The European Medicines Agency will review new information on this medicine at le
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/en.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2268,14 +2233,6 @@ The following medicines can reduce the effects of avapritinib:
 - Nafcillin - used to treat certain bacterial infections
 - Dexamethasone - used to reduce inflammation
 
-This medicine may affect how well the following medicines work or increase their side effects:
-
-- Alfentanil - used to control pain during operations and medical procedures
-- Atazanavir - used to treat HIV infection/AIDS
-- Midazolam - used for anaesthesia, sedation or to decrease anxiety
-- Simvastatin - used to treat high cholesterol
-- Sirolimus, tacrolimus - used to prevent organ transplant rejection
-
 Ask your doctor or pharmacist for advice before taking any medicine.
 
 ## AYVAKYT with food and drink
@@ -2298,8 +2255,6 @@ Women who are able to become pregnant should use effective contraception during 
 
 Tell your doctor if you are breast-feeding or planning to breast-feed. It is not known if AYVAKYT passes into breast milk. You should not breast-feed during treatment with this medicine and for at least 2 weeks following the last dose. Talk to your doctor about the best way to feed your baby during this time.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Fertility
 
 AYVAKYT may cause fertility problems in males and females. Talk to your doctor if this is a concern for you.
@@ -2307,6 +2262,8 @@ AYVAKYT may cause fertility problems in males and females. Talk to your doctor i
 ## Driving and using machines
 
 AYVAKYT may cause symptoms that affect your ability to concentrate and react (see section 4). Therefore, AYVAKYT may influence the ability to drive and use machines. Take special care when driving a car or operating machines if you experience these side effects.
+
+<div style=\"page-break-after: always\"></div>
 
 ## AYVAKYT contains sodium
 
@@ -2350,14 +2307,11 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Most serious side effects
 
-## Some side effects may be serious. Tell your doctor straight away if you get any of the following
+Some side effects may be serious. Tell your doctor straight away if you get any of the following
 
 (see also section 2.):
 
 - -severe headache, vision problems, severe sleepiness, severe weakness on one side of your body (signs of bleeding in your brain)
-
-<div style=\"page-break-after: always\"></div>
-
 - -memory loss, changes in memory, or confusion (signs of a cognitive effect)
 
 ## Other side effects may include
@@ -2368,13 +2322,16 @@ Very common (may affect more than 1 in 10 people):
 - -memory loss, changes in memory, or confusion (cognitive effects)
 - -diarrhoea
 - -nausea, retching and vomiting
+
+<div style=\"page-break-after: always\"></div>
+
 - -change in hair colour
 - -swelling (e.g. feet, ankle, face, eye, joint)
 - -tiredness
 - -blood tests showing low blood platelets, often associated with easy bruising or bleeding
 - -blood tests showing decrease in red blood cells (anaemia) and white blood cells
 
-## Common (may affect up to 1 in 10 people):
+Common (may affect up to 1 in 10 people):
 
 - -headache
 - -dizziness
@@ -2397,7 +2354,7 @@ Very common (may affect more than 1 in 10 people):
 - -bruising
 - -blood tests showing increased stress on the liver and high levels of bilirubin, a substance produced by the liver
 
-## Uncommon (may affect up to 1 in 100 people):
+Uncommon (may affect up to 1 in 100 people):
 
 - -fluid around the heart
 - -red or itchy skin
@@ -2415,11 +2372,11 @@ Do not use this medicine after the expiry date which is stated on the bottle lab
 
 This medicine does not require any special storage conditions.
 
-<div style=\"page-break-after: always\"></div>
-
 Do not use this medicine if you notice that the bottle is damaged or shows signs of tampering.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. Contents of the pack and other information
 
@@ -2444,17 +2401,13 @@ Blueprint Medicines (Netherlands) B.V. Gustav Mahlerplein 2 1082 MA Amsterdam Ne
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien, България, Česká republika, Danmark, Deutschland, Eesti, España, France, Hrvatska, Ireland, Ísland, Italia, Latvija, Lietuva, Österreich, Polska,
+België/Belgique/Belgien, България, Česká republika, Danmark, Deutschland, Eesti, España, France, Hrvatska, Ireland, Ísland, Italia, Latvija, Lietuva, Luxembourg/Luxemburg, Magyarország, Malta, Nederland, Norge, Portugal, România, Slovenija, Slovenská republika, Suomi/Finland, Sverige
 
-Luxembourg/Luxemburg, Magyarország, Malta, Nederland, Norge, Portugal, România, Slovenija, Slovenská republika, Suomi/Finland, Sverige, United Kingdom (Northern Ireland)
+Österreich, Polska, Blueprint Medicines (Netherlands) B.V., NL Tel/ Tél/ Teл/ Tlf/ Sími/ Puh : +31 85 064 4001 e-mail: MedinfoEurope@blueprintmedicines.com
 
-Blueprint Medicines (Netherlands) B.V., NL
+Ελλάδα , Κύπρος
 
-Tel/ Tél/ Teл/ Tlf/ Sími/ Puh: +31 85 064 4001
-
-e-mail: MedinfoEurope@blueprintmedicines.com
-
-Ελλάδα, Κύπρος Swixx Biopharma S.M.S.A. Τηλ: +30 214 444 9670
+Swixx Biopharma S.M.S.A. Τηλ: +30 214 444 9670
 
 ## This leaflet was last revised in
 
@@ -2466,7 +2419,7 @@ The European Medicines Agency will review new information on this medicine at le
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/en.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2474,9 +2427,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Package leaflet: Information for the patient
 
-## AYVAKYT 100 mg film-coated tablets
-
-## avapritinib
+## AYVAKYT 100 mg film-coated tablets avapritinib
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -2579,14 +2530,6 @@ The following medicines can reduce the effects of avapritinib:
 - Nafcillin - used to treat certain bacterial infections
 - Dexamethasone - used to reduce inflammation
 
-This medicine may affect how well the following medicines work or increase their side effects:
-
-- Alfentanil - used to control pain during operations and medical procedures
-- Atazanavir - used to treat HIV infection/AIDS
-- Midazolam - used for anaesthesia, sedation or to decrease anxiety
-- Simvastatin - used to treat high cholesterol
-- Sirolimus, tacrolimus - used to prevent organ transplant rejection
-
 Ask your doctor or pharmacist for advice before taking any medicine.
 
 ## AYVAKYT with food and drink
@@ -2605,8 +2548,6 @@ Your doctor may check if you are pregnant before you start treatment with this m
 
 Women who are able to become pregnant should use effective contraception during treatment and for at least 6 weeks after completion of treatment. Males with female partners who are able to become pregnant should use effective contraception during treatment and for at least 2 weeks after completion of treatment. Talk to your doctor about effective contraception methods that may be right for you.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Breast-feeding
 
 Tell your doctor if you are breast-feeding or planning to breast-feed. It is not known if AYVAKYT passes into breast milk. You should not breast-feed during treatment with this medicine and for at least 2 weeks following the last dose. Talk to your doctor about the best way to feed your baby during this time.
@@ -2614,6 +2555,8 @@ Tell your doctor if you are breast-feeding or planning to breast-feed. It is not
 ## Fertility
 
 AYVAKYT may cause fertility problems in males and females. Talk to your doctor if this is a concern for you.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Driving and using machines
 
@@ -2659,17 +2602,20 @@ If you miss a dose of AYVAKYT, take it as soon as you remember unless your next 
 
 Do not take two doses within 8 hours to make up for a forgotten dose.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
 ## Most serious side effects
 
-Some side effects may be serious. Tell your doctor straight away if you get any of the following (see also section 2.):
+## Some side effects may be serious. Tell your doctor straight away if you get any of the following
+
+(see also section 2.):
 
 - -severe headache, vision problems, severe sleepiness, severe weakness on one side of your body (signs of bleeding in your brain)
+
+<div style=\"page-break-after: always\"></div>
+
 - -memory loss, changes in memory, or confusion (signs of a cognitive effect)
 
 ## Other side effects in patients with GIST may include
@@ -2719,9 +2665,6 @@ Very common (may affect more than 1 in 10 people):
 - -constipation, flatulence (gas)
 - -difficulty swallowing
 - -painful mouth, lips or tongue, thrush
-
-<div style=\"page-break-after: always\"></div>
-
 - -increase in saliva production
 - -red or itchy skin
 - -skin discolouration
@@ -2731,6 +2674,9 @@ Very common (may affect more than 1 in 10 people):
 - -blood in urine
 - -fever or feeling of general discomfort
 - -changes in the electric activity of the heart
+
+<div style=\"page-break-after: always\"></div>
+
 - -weight gain or loss
 - -blood tests showing low blood platelets, often associated with easy bruising or bleeding
 - -blood tests showing altered amounts of blood minerals
@@ -2783,15 +2729,14 @@ Very common (may affect more than 1 in 10 people):
 ## Uncommon (may affect up to 1 in 100 people):
 
 - -fluid around the heart
-
-<div style=\"page-break-after: always\"></div>
-
 - -red or itchy skin
 - -blood tests showing decreased kidney function
 
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store AYVAKYT
 
@@ -2829,19 +2774,21 @@ Blueprint Medicines (Netherlands) B.V. Gustav Mahlerplein 2 1082 MA Amsterdam Ne
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien, България, Česká republika, Danmark, Deutschland, Eesti, España, France, Hrvatska, Ireland, Ísland,
-
-Ελλάδα, Κύπρος Swixx Biopharma S.M.S.A. Τηλ: +30 214 444 9670
-
-<div style=\"page-break-after: always\"></div>
-
-Italia, Latvija, Lietuva, Luxembourg/Luxemburg, Magyarország, Malta, Nederland, Norge, Österreich, Polska, Portugal, România, Slovenija, Slovenská republika, Suomi/Finland, Sverige, United Kingdom (Northern Ireland)
+België/Belgique/Belgien, България, Česká republika, Danmark, Deutschland, Eesti, España, France, Hrvatska, Ireland, Ísland, Italia, Latvija, Lietuva, Luxembourg/Luxemburg, Magyarország, Malta, Nederland, Norge, Österreich, Polska, Portugal, România, Slovenija, Slovenská republika, Suomi/Finland, Sverige
 
 Blueprint Medicines (Netherlands) B.V., NL
 
-Tel/ Tél/ Teл/ Tlf/ Sími/ Puh: +31 85 064 4001
+Tel/ Tél/ Teл/ Tlf/
+
+Sími/ Puh: +31 85 064 4001
 
 e-mail: MedinfoEurope@blueprintmedicines.com
+
+Ελλάδα , Κύπρος Swixx Biopharma S.M.S.A.
+
+Τηλ: +30 214 444 9670
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -2853,7 +2800,7 @@ The European Medicines Agency will review new information on this medicine at le
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/en.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2964,14 +2911,6 @@ The following medicines can reduce the effects of avapritinib:
 - Nafcillin - used to treat certain bacterial infections
 - Dexamethasone - used to reduce inflammation
 
-This medicine may affect how well the following medicines work or increase their side effects:
-
-- Alfentanil - used to control pain during operations and medical procedures
-- Atazanavir - used to treat HIV infection/AIDS
-- Midazolam - used for anaesthesia, sedation or to decrease anxiety
-- Simvastatin - used to treat high cholesterol
-- Sirolimus, tacrolimus - used to prevent organ transplant rejection
-
 Ask your doctor or pharmacist for advice before taking any medicine.
 
 ## AYVAKYT with food and drink
@@ -2990,8 +2929,6 @@ Your doctor may check if you are pregnant before you start treatment with this m
 
 Women who are able to become pregnant should use effective contraception during treatment and for at least 6 weeks after completion of treatment. Males with female partners who are able to become pregnant should use effective contraception during treatment and for at least 2 weeks after completion of treatment. Talk to your doctor about effective contraception methods that may be right for you.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Breast-feeding
 
 Tell your doctor if you are breast-feeding or planning to breast-feed. It is not known if AYVAKYT passes into breast milk. You should not breast-feed during treatment with this medicine and for at least 2 weeks following the last dose. Talk to your doctor about the best way to feed your baby during this time.
@@ -2999,6 +2936,8 @@ Tell your doctor if you are breast-feeding or planning to breast-feed. It is not
 ## Fertility
 
 AYVAKYT may cause fertility problems in males and females. Talk to your doctor if this is a concern for you.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Driving and using machines
 
@@ -3014,7 +2953,9 @@ Always take this medicine exactly as your doctor or pharmacist has told you. Che
 
 ## Which strength of AYVAKYT to use
 
-The recommended dose of AYVAKYT will depend on your illness - see below. AYVAKYT is available in different strength tablets. The strengths are 25 mg, 50 mg, 100 mg, 200 mg and 300 mg. Your doctor will advise you about the strength and number of tablets you should take:
+The recommended dose of AYVAKYT will depend on your illness - see below.
+
+AYVAKYT is available in different strength tablets. The strengths are 25 mg, 50 mg, 100 mg, 200 mg and 300 mg. Your doctor will advise you about the strength and number of tablets you should take:
 
 ## Treatment of GIST
 
@@ -3042,19 +2983,20 @@ If you miss a dose of AYVAKYT, take it as soon as you remember unless your next 
 
 Do not take two doses within 8 hours to make up for a forgotten dose.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
 ## Most serious side effects
 
-Some side effects may be serious. Tell your doctor straight away if you get any of the following
+## Some side effects may be serious. Tell your doctor straight away if you get any of the following
 
 (see also section 2.):
 
 - -severe headache, vision problems, severe sleepiness, severe weakness on one side of your body (signs of bleeding in your brain)
+
+<div style=\"page-break-after: always\"></div>
+
 - -memory loss, changes in memory, or confusion (signs of a cognitive effect)
 
 ## Other side effects in patients with GIST may include:
@@ -3104,9 +3046,6 @@ Very common (may affect more than 1 in 10 people):
 - -constipation, flatulence (gas)
 - -difficulty swallowing
 - -painful mouth, lips or tongue, thrush
-
-<div style=\"page-break-after: always\"></div>
-
 - -increase in saliva production
 - -red or itchy skin
 - -skin discolouration
@@ -3116,6 +3055,9 @@ Very common (may affect more than 1 in 10 people):
 - -blood in urine
 - -fever or feeling of general discomfort
 - -changes in the electric activity of the heart
+
+<div style=\"page-break-after: always\"></div>
+
 - -weight gain or loss
 - -blood tests showing low blood platelets, often associated with easy bruising or bleeding
 - -blood tests showing altered amounts of blood minerals
@@ -3165,9 +3107,7 @@ Very common (may affect more than 1 in 10 people):
 - -bruising
 - -blood tests showing increased stress on the liver and high levels of bilirubin, a substance produced by the liver
 
-<div style=\"page-break-after: always\"></div>
-
-Uncommon (may affect up to 1 in 100 people):
+## Uncommon (may affect up to 1 in 100 people):
 
 - -fluid around the heart
 - -red or itchy skin
@@ -3176,6 +3116,8 @@ Uncommon (may affect up to 1 in 100 people):
 ## Reporting of side effects
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5. How to store AYVAKYT
 
@@ -3209,25 +3151,19 @@ Keep the desiccant canister in the bottle.
 
 ## Marketing Authorisation Holder and Manufacturer
 
-Blueprint Medicines (Netherlands) B.V.
-
-Gustav Mahlerplein 2 1082 MA Amsterdam Netherlands
+Blueprint Medicines (Netherlands) B.V. Gustav Mahlerplein 2 1082 MA Amsterdam Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien, България, Česká
+België/Belgique/Belgien, България, Česká republika, Danmark, Deutschland, Eesti, España, France, Hrvatska, Ireland, Ísland, Italia, Latvija, Lietuva, Luxembourg/Luxemburg, Magyarország, Malta, Nederland, Norge, Österreich, Polska, Portugal, România, Slovenija, Slovenská republika, Suomi/Finland, Sverige
 
-Ελλάδα, Κύπρος
-
-<div style=\"page-break-after: always\"></div>
-
-republika, Danmark, Deutschland, Eesti, España, France, Hrvatska, Ireland, Ísland, Italia, Latvija, Lietuva, Luxembourg/Luxemburg, Magyarország, Malta, Nederland, Norge, Österreich, Polska, Portugal, România, Slovenija, Slovenská republika, Suomi/Finland, Sverige, United Kingdom (Northern Ireland)
-
-Blueprint Medicines (Netherlands) B.V., NL
-
-Tel/ Tél/ Teл/ Tlf/ Sími/ Puh: +31 85 064 4001
+Blueprint Medicines (Netherlands) B.V., NL Tel/ Tél/ Teл/ Tlf/ Sími/ Puh: +31 85 064 4001
 
 e-mail: MedinfoEurope@blueprintmedicines.com
+
+Ελλάδα , Κύπρος Swixx Biopharma S.M.S.A. Τηλ: +30 214 444 9670
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -3239,11 +3175,7 @@ The European Medicines Agency will review new information on this medicine at le
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/en.
-
-Swixx Biopharma S.M.S.A.
-
-Τηλ: +30 214 444 9670
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3348,12 +3280,10 @@ The following medicines can reduce the effects of avapritinib:
 - Nafcillin - used to treat certain bacterial infections
 - Dexamethasone - used to reduce inflammation
 
-This medicine may affect how well the following medicines work or increase their side effects:
+Avapritinib may increase the side effects of the following medicines:
 
 - Alfentanil - used to control pain during operations and medical procedures
-- Atazanavir - used to treat HIV infection/AIDS
-- Midazolam - used for anaesthesia, sedation or to decrease anxiety
-- Simvastatin - used to treat high cholesterol
+- Fentanyl - used as a pain reliever or to control pain during operations and medical procedures
 - Sirolimus, tacrolimus - used to prevent organ transplant rejection
 
 Ask your doctor or pharmacist for advice before taking any medicine.
@@ -3430,7 +3360,7 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## Most serious side effects
 
-## Some side effects may be serious. Tell your doctor straight away if you get any of the following (see also section 2.):
+Some side effects may be serious. Tell your doctor straight away if you get any of the following (see also section 2.):
 
 - -severe headache, vision problems, severe sleepiness, severe weakness on one side of your body (signs of bleeding in your brain)
 - -memory loss, changes in memory, or confusion (signs of a cognitive effect)
@@ -3447,10 +3377,10 @@ Very common (may affect more than 1 in 10 people):
 - -abdominal (belly) pain
 - -nausea, retching and vomiting
 - -diarrhoea
+- -dryness affecting eyes, lips, mouth and skin
 
 <div style=\"page-break-after: always\"></div>
 
-- -dryness affecting eyes, lips, mouth and skin
 - -heartburn
 - -change in hair colour
 - -rash
@@ -3550,15 +3480,17 @@ For any information about this medicine, please contact the local representative
 
 België/Belgique/Belgien, България, Česká republika, Danmark, Deutschland, Eesti, España, France, Hrvatska, Ireland, Ísland, Italia, Latvija, Lietuva, Luxembourg/Luxemburg, Magyarország, Malta, Nederland, Norge, Österreich, Polska,
 
-Ελλάδα, Κύπρος Swixx Biopharma S.M.S.A. Τηλ: +30 214 444 9670
+Ελλάδα , Κύπρος Swixx Biopharma S.M.S.A. Τηλ: +30 214 444 9670
 
 <div style=\"page-break-after: always\"></div>
 
-## Portugal, România, Slovenija, Slovenská republika, Suomi/Finland, Sverige, United Kingdom (Northern Ireland)
+## Portugal, România, Slovenija, Slovenská republika, Suomi/Finland, Sverige
 
 Blueprint Medicines (Netherlands) B.V., NL
 
-Tel/ Tél/ Teл/ Tlf/ Sími/ Puh: +31 85 064 4001
+Tel/ Tél/ Teл/ Tlf/
+
+Sími/ Puh: +31 85 064 4001
 
 e-mail: MedinfoEurope@blueprintmedicines.com
 
@@ -3572,4 +3504,4 @@ The European Medicines Agency will review new information on this medicine at le
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/en.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.

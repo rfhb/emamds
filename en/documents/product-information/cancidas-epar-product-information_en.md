@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-03 15:38:34
-document_pages: 43
+document_datetime: 2026-01-08 13:37:50
+document_pages: 41
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/cancidas-epar-product-information_en.pdf
 document_name: cancidas-epar-product-information_en.pdf
 version: success
-processing_time: 9.4299091
-conversion_datetime: 2025-12-28 14:23:29.370371
+processing_time: 10.6612407
+conversion_datetime: 2026-01-10 11:31:15.870927
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -180,16 +180,19 @@ Phlebitis was a commonly reported local injection-site adverse reaction in all p
 
 Reported clinical and laboratory abnormalities among all adults treated with caspofungin (total 1,780) were typically mild and rarely led to discontinuation.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Tabulated list of adverse reactions
 
 The following adverse reactions were reported during clinical studies and/or post-marketing use:
 
+| System Organ Class   | Common (≥1/ 100 to <1/10)   | Uncommon (≥1/ 1,000 to <1/ 100)   | Not known (cannot be estimated from available data)   |
+|----------------------|-----------------------------|-----------------------------------|-------------------------------------------------------|
+
+<div style=\"page-break-after: always\"></div>
+
 | System Organ Class                              | Common (≥1/ 100 to <1/10)                                                                                                                       | Uncommon (≥1/ 1,000 to <1/ 100)                                                                                                                                                                                                 | Not known (cannot be estimated from available data)                        |
 |-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
 | Blood and lymphatic system disorders            | haemoglobin decreased, haematocrit decreased, white blood cell count decreased                                                                  | anaemia, thrombocytopaenia, coagulopathy, leukopaenia, eosinophil count increased, platelet count decreased, platelet count increased, lymphocyte count decreased, white blood cell count increased, neutrophil count decreased |                                                                            |
-| Metabolism and nutrition disorders              | hypokalemia                                                                                                                                     | fluid overload, hypomagnesaemia, anorexia, electrolyte imbalance, hyperglycaemia, hypocalcaemia, metabolic acidosis                                                                                                             |                                                                            |
+| Metabolism and nutrition disorders              | hypokalaemia                                                                                                                                    | fluid overload, hypomagnesaemia, anorexia, electrolyte imbalance, hyperglycaemia, hypocalcaemia, metabolic acidosis                                                                                                             |                                                                            |
 | Psychiatric disorders                           |                                                                                                                                                 | anxiety, disorientation, insomnia                                                                                                                                                                                               |                                                                            |
 | Nervous system disorders                        | headache                                                                                                                                        | dizziness, dysgeusia, paraesthesia, somnolence, tremor, hypoaesthesia                                                                                                                                                           |                                                                            |
 | Eye disorders                                   |                                                                                                                                                 | ocular icterus, vision blurred, eyelid oedema, lacrimation increased                                                                                                                                                            |                                                                            |
@@ -199,26 +202,24 @@ The following adverse reactions were reported during clinical studies and/or pos
 | Gastrointestinal disorders                      | nausea, diarrhoea, vomiting                                                                                                                     | abdominal pain, abdominal pain upper, dry mouth, dyspepsia, stomach discomfort, abdominal distension, ascites, constipation, dysphagia, flatulence                                                                              |                                                                            |
 | Hepatobiliary disorders                         | elevated liver values (alanine aminotransferase, aspartate aminotransferase, blood alkaline phosphatase, bilirubin conjugated, blood bilirubin) | cholestasis, hepatomegaly, hyperbilirubinaemia, jaundice, hepatic function abnormal, hepatotoxicity, liver disorder, gamma-glutamyltransferase increased                                                                        |                                                                            |
 | Skin and subcutaneous tissue disorders          | rash, pruritus, erythema, hyperhidrosis                                                                                                         | erythema multiforme, rash macular, rash maculo-papular, rash pruritic, urticaria, dermatitis allergic, pruritus generalised, rash erythematous, rash generalised, rash morbilliform, skin lesion                                | Toxic epidermal necrolysis and Stevens- Johnson syndrome (see section 4.4) |
-| Musculoskeletal                                 | arthralgia                                                                                                                                      | back pain, pain in extremity, bone pain,                                                                                                                                                                                        |                                                                            |
+| Musculoskeletal and connective tissue disorders | arthralgia                                                                                                                                      | back pain, pain in extremity, bone pain, muscular weakness, myalgia                                                                                                                                                             |                                                                            |
+| Renal and                                       |                                                                                                                                                 | renal failure, renal failure acute                                                                                                                                                                                              |                                                                            |
 
 <div style=\"page-break-after: always\"></div>
 
 | System Organ Class                                   | Common (≥1/ 100 to <1/10)                          | Uncommon (≥1/ 1,000 to <1/ 100)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Not known (cannot be estimated from available data)   |
 |------------------------------------------------------|----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
-| and connective tissue disorders                      |                                                    | muscular weakness, myalgia                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                       |
-| Renal and urinary disorders                          |                                                    | renal failure, renal failure acute                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                       |
-| General disorders and administration site conditions | pyrexia, chills, infusion-site pruritus            | pain, catheter site pain, fatigue, feeling cold, feeling hot, infusion site erythema, infusion site induration, infusion site pain, infusion site swelling, injection site phlebitis, oedema peripheral, tenderness, chest discomfort, chest pain, face oedema, feeling ofbody temperature change, induration, infusion site extravasation, infusion site irritation, infusion site phlebitis, infusion site rash, infusion site urticaria, injection site erythema, injection site oedema, injection site pain, injection site swelling, malaise, oedema                                                                                                                                                                                                                                                                                                   |                                                       |
+| urinary disorders                                    |                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |                                                       |
+| General disorders and administration site conditions | pyrexia, chills, infusion- site pruritus           | pain, catheter site pain, fatigue, feeling cold, feeling hot, infusion site erythema, infusion site induration, infusion site pain, infusion site swelling, injection site phlebitis, oedema peripheral, tenderness, chest discomfort, chest pain, face oedema, feeling ofbody temperature change, induration, infusion site extravasation, infusion site irritation, infusion site phlebitis, infusion site rash, infusion site urticaria, injection site erythema, injection site oedema, injection site pain, injection site swelling, malaise, oedema                                                                                                                                                                                                                                                                                                   |                                                       |
 | Investigations                                       | blood potassium decreased, blood albumin decreased | blood creatinine increased, red blood cells urine positive, protein total decreased, protein urine present, prothrombin time prolonged, prothrombin time shortened, blood sodium decreased, blood sodium increased, blood calcium decreased, blood calcium increased, blood chloride decreased, blood glucose increased, blood magnesium decreased, blood phosphorus decreased, blood phosphorus increased, blood urea increased, activated partial thromboplastin time prolonged, blood bicarbonate decreased, blood chloride increased, blood potassium increased, blood pressure increased, blood uric acid decreased, blood urine present, breath sounds abnormal, carbon dioxide decreased, immunosuppressant drug level increased, international normalised ratio increased, urinary casts, white blood cells urine positive, and pH urine increased. |                                                       |
 
 Caspofungin has also been evaluated at 150 mg daily (for up to 51 days) in 100 adult patients (see section 5.1). The study compared caspofungin at 50 mg daily (following a 70-mg loading dose on Day 1) versus 150 mg daily in the treatment of invasive candidiasis. In this group of patients, the safety of caspofungin at this higher dose appeared generally similar to patients receiving the 50-mg daily dose of caspofungin. The proportion of patients with a serious drug-related adverse reaction or a drug-related adverse reaction leading to caspofungin discontinuation was comparable in the 2 treatment groups.
 
-## Paediatric Patients
-
-Data from 5 clinical studies completed in 171 paediatric patients suggest that the overall incidence of clinical adverse experiences (26.3 %; 95 % CI -19.9, 33.6) is not worse than reported for adults treated with caspofungin (43.1 %; 95 % CI -40.0, 46.2). However, paediatric patients probably have a
-
 <div style=\"page-break-after: always\"></div>
 
-different adverse event prof ile compared to adult patients. The most common drug-related clinical adverse experiences reported in paediatric patients treated with caspofungin were pyrexia (11.7 %), rash (4.7 %) and headache (2.9 %).
+## Paediatric Patients
+
+Data from 5 clinical studies completed in 171 paediatric patients suggest that the overall incidence of clinical adverse experiences (26.3 %; 95 % CI -19.9, 33.6) is not worse than reported for adults treated with caspofungin (43.1 %; 95 % CI -40.0, 46.2). However, paediatric patients probably have a different adverse event prof ile compared to adult patients. The most common drug-related clinical adverse experiences reported in paediatric patients treated with caspofungin were pyrexia (11.7 %), rash (4.7 %) and headache (2.9 %).
 
 ## Tabulated list of adverse reactions
 
@@ -253,17 +254,17 @@ Pharmacotherapeutic group: antimycotics for systemic use, ATC Code: J02AX04
 
 Caspofungin acetate is a semi-synthetic lipopeptide (echinocandin) compound synthesised from a fermentation product of Glarea lozoyensis. Caspofungin acetate inhibits the synthesis of beta (1,3)-D-glucan, an essential component of the cell wall of many filamentous fungi and yeast. Beta (1,3)-D-glucan is not present in mammalian cells.
 
+<div style=\"page-break-after: always\"></div>
+
 Fungicidal activity with caspofungin has been demonstrated against Candida yeasts. Studies in vitro and in vivo demonstrate that exposure of Aspergillus to caspofungin results in lysis and death of hyphal apical tips and branch points where cell growth and division occur.
 
 ## Pharmacodynamic effects
 
-Caspofungin has in vitro activity against Aspergillus species ( Aspergillus fumigatus [N = 75] , Aspergillus flavus [N = 111] , Aspergillus niger [N = 31] , Aspergillus nidulans [N = 8] , Aspergillus
+Caspofungin has in vitro activity against Aspergillus species ( Aspergillus fumigatus [N = 75] , Aspergillus flavus [N = 111] , Aspergillus niger [N = 31] , Aspergillus nidulans [N = 8] , Aspergillus terreus [N = 52], and Aspergillus candidus [N = 3]). Caspofungin also has in vitro activity against Candida species ( Candida albicans [N = 1,032] , Candida dubliniensis [N = 100] , Candida glabrata [N = 151] , Candida guilliermondii [N = 67] , Candida kefyr [N = 62] , Candida krusei [N = 147] , Candida lipolytica [N = 20] , Candida lusitaniae [N = 80] , Candida parapsilosis [N = 215], Candida rugosa [N = 1], and Candida tropicalis [N = 258]), including isolates with multiple resistance transport mutations and those with acquired or intrinsic resistance to f luconazole, amphotericin B, and 5-flucytosine. Susceptibility testing was performed according to a modif ication of both the Clinical and Laboratory Standards Institute (CLSI, formerly known as the National Committee for Clinical Laboratory Standards [NCCLS]) method M38-A2 (for Aspergillus species) and method M27-A3 (for Candida species).
 
-<div style=\"page-break-after: always\"></div>
+## Susceptibility testing breakpoints
 
-terreus [N = 52], and Aspergillus candidus [N = 3]). Caspofungin also has in vitro activity against Candida species ( Candida albicans [N = 1,032] , Candida dubliniensis [N = 100] , Candida glabrata [N = 151] , Candida guilliermondii [N = 67] , Candida kefyr [N = 62] , Candida krusei [N = 147] , Candida lipolytica [N = 20] , Candida lusitaniae [N = 80] , Candida parapsilosis [N = 215], Candida rugosa [N = 1], and Candida tropicalis [N = 258]), including isolates with multiple resistance transport mutations and those with acquired or intrinsic resistance to f luconazole, amphotericin B, and 5-flucytosine. Susceptibility testing was performed according to a modif ication of both the Clinical and Laboratory Standards Institute (CLSI, formerly known as the National Committee for Clinical Laboratory Standards [NCCLS]) method M38-A2 (for Aspergillus species) and method M27-A3 (for Candida species).
-
-Standardised techniques for susceptibility testing have been established for yeasts by EUCAST. EUCAST breakpoints have not yet been established for caspofungin, due to significant inter-laboratory variation in MIC ranges for caspofungin. In lieu of breakpoints, Candida isolates that are susceptible to anidulafungin as well as micafungin should be considered susceptible to caspofungin. Similarly, C. parapsilosis isolates intermediate to anidulafungin and micaf ungin can be regarded intermediate to caspofungin.
+MIC (minimum inhibitory concentration) interpretive criteria for susceptibility testing have been established by the European Committee on Antimicrobial Susceptibility Testing (EUCAST) for caspofungin and are listed here: https://www.ema.europa.eu/documents/other/minimum-inhibitoryconcentration-mic-breakpoints\\_en.xlsx
 
 ## Mechanism of resistance
 
@@ -275,17 +276,17 @@ Development of in vitro resistance to caspofungin by Aspergillus species has bee
 
 Invasive Candidiasis in Adult Patients : Two hundred thirty-nine patients were enrolled in an initial study to compare caspofungin and amphotericin B for the treatment of invasive candidiasis. Twentyfour patients had neutropaenia. The most frequent diagnoses were bloodstream infections (candidaemia) (77 %, n = 186) and Candida peritonitis (8 %, n = 19); patients with Candida endocarditis, osteomyelitis, or meningitis were excluded from this study. Caspofungin 50 mg once daily was administered following a 70 mg loading dose, while amphotericin B was administered at 0.6 to 0.7 mg/kg/day to non-neutropaenic patients or 0.7 to 1.0 mg/kg/day to neutropaenic patients. The mean duration of intravenous therapy was 11.9 days, with a range of 1 to 28 days. A favourable response required both symptom resolution and microbiological clearance of the Candida infection. Two hundred twenty-four patients were included in the primary efficacy analysis (MITT analysis) of response at the end of IV study therapy; favourable response rates for the treatment of invasive candidiasis were comparable for caspofungin (73 % [80/109]) and amphotericin B (62 % [71/115]) [% difference 12.7 (95.6 % CI -0.7, 26.0)]. Among patients with candidaemia, favourable response rates at the end of IV study therapy were comparable for caspofungin (72 % [66/92]) and amphotericin B (63 % [59/94]) in the primary efficacy analysis (MITT analysis) [% difference 10.0 (95.0 % CI -4.5, 24.5)]. Data in patients with non-blood sites of inf ection were more limited. Favourable response rates in neutropaenic patients were 7/14 (50 %) in the caspofungin group and 4/10 (40 %) in the amphotericin B group. These limited data are supported by the outcome of the empirical therapy study.
 
-In a second study, patients with invasive candidiasis received daily doses of caspofungin at 50 mg/day (following a 70-mg loading dose on Day 1) or caspofungin at 150 mg/day (see section 4.8). In this study, the caspofungin dose was administered over 2 hours (instead of the routine 1-hour administration). The study excluded patients with suspected Candida endocarditis, meningitis, or osteomyelitis. As this was a primary therapy study, patients who were refractory to prior antifungal
+<div style=\"page-break-after: always\"></div>
+
+In a second study, patients with invasive candidiasis received daily doses of caspofungin at 50 mg/day (following a 70-mg loading dose on Day 1) or caspofungin at 150 mg/day (see section 4.8). In this study, the caspofungin dose was administered over 2 hours (instead of the routine 1-hour administration). The study excluded patients with suspected Candida endocarditis, meningitis, or osteomyelitis. As this was a primary therapy study, patients who were refractory to prior antifungal agents were also excluded. The number of neutropenic patients enrolled in this study was also limited (8.0 %). Efficacy was a secondary endpoint in this study. Patients who met the entry criteria and received one or more doses of caspofungin study therapy were included in the efficacy analysis. The favourable overall response rates at the end of  caspofungin therapy were similar in the 2 treatment groups: 72 % (73/102) and 78 % (74/95) for the caspofungin 50-mg and 150-mg treatment groups, respectively (diff erence 6.3 % [95 % CI -5.9, 18.4]).
+
+Invasive Aspergillosis in Adult Patients : Sixty-nine adult patients (age 18-80) with invasive aspergillosis were enrolled in an open-label, non-comparative study to evaluate the safety, tolerability, and efficacy of caspofungin. Patients had to be either refractory to (disease progression or f ailure to improve with other antifungal therapies given f or at least 7 days) (84 % of the enrolled patients) or intolerant of  (16 % of enrolled patients) other standard antifungal therapies. Most patients had underlying conditions (haematologic malignancy [N = 24], allogeneic bone marrow transplant or stem cell transplant [N = 18], organ transplant [N = 8], solid tumour [N = 3], or other conditions [N = 10]). Stringent definitions, modelled after the Mycoses Study Group Criteria, were used for diagnosis of invasive aspergillosis and f or response to therapy (favourable response required clinically significant improvement in radiographs as well as in signs and symptoms). The mean duration of therapy was 33.7 days, with a range of 1 to 162 days. An independent expert panel determined that 41 % (26/63) of patients receiving at least one dose of caspofungin had a favourable response. For those patients who received more than 7 days of therapy with caspofungin, 50 % (26/52) had a favourable response. The favourable response rates for patients who were either refractory to or intolerant of previous therapies were 36 % (19/53) and 70 % (7/10), respectively. Although the doses of prior antifungal therapies in 5 patients enrolled as refractory were lower than those often administered for invasive aspergillosis, the f avourable response rate during therapy with caspofungin was similar in these patients to that seen in the remaining refractory patients (2/5 versus 17/48, respectively). The response rates among patients with pulmonary disease and extrapulmonary disease were 47 % (21/45) and 28 % (5/18), respectively. Among patients with extrapulmonary disease, 2 of 8 patients who also had definite, probable, or possible CNS involvement had a favourable response.
+
+Empirical Therapy in Febrile, Neutropaenic Adult Patients : A total of  1,111 patients with persistent fever and neutropaenia were enrolled in a clinical study and treated with either caspofungin 50 mg once daily following a 70 mg loading dose or liposomal amphotericin B 3.0 mg/kg/day. Eligible patients had received chemotherapy for malignancy or had undergone hematopoietic stem-cell transplantation, and presented with neutropaenia (&lt;500 cells/mm 3 f or 96 hours) and fever (&gt;38.0°C) not responding to ≥96 hours of parenteral antibacterial therapy. Patients were to be treated until up to 72 hours after resolution of neutropaenia, with a maximum duration of 28 days. However, patients found to have a documented fungal infection could be treated longer. If the drug was well tolerated but the patient's f ever persisted and clinical condition deteriorated af ter 5 days of therapy, the dosage of study drug could be increased to 70 mg/day of caspofungin (13.3 % of patients treated) or to 5.0 mg/kg/day of liposomal amphotericin B (14.3 % of patients treated). There were 1,095 patients included in the primary Modified Intention-To-Treat (MITT) efficacy analysis of overall favourable response; caspofungin (33.9 %) was as effective as liposomal amphotericin B (33.7 %) [% difference 0.2 (95.2 % CI -5.6, 6.0)]. An overall f avourable response required meeting each of 5 criteria: (1) successful treatment of any baseline fungal inf ection (caspof ungin 51.9 % [14/27], liposomal amphotericin B 25.9 % [7/27]), (2) no breakthrough fungal infections during administration of study drug or within 7 days after completion of treatment (caspofungin 94.8 % [527/556], liposomal amphotericin B 95.5 % [515/539]), (3) survival for 7 days after completion of study therapy (caspofungin 92.6 % [515/556], liposomal amphotericin B 89.2 % [481/539]), (4) no discontinuation from the study drug because of drug-related toxicity or lack of eff icacy (caspof ungin 89.7 % [499/556], liposomal amphotericin B 85.5 % [461/539]), and (5) resolution of fever during the period of neutropaenia (caspofungin 41.2 % [229/556], liposomal amphotericin B 41.4 % [223/539]).
 
 <div style=\"page-break-after: always\"></div>
 
-agents were also excluded. The number of neutropenic patients enrolled in this study was also limited (8.0 %). Efficacy was a secondary endpoint in this study. Patients who met the entry criteria and received one or more doses of caspofungin study therapy were included in the efficacy analysis. The favourable overall response rates at the end of  caspofungin therapy were similar in the 2 treatment groups: 72 % (73/102) and 78 % (74/95) for the caspofungin 50-mg and 150-mg treatment groups, respectively (diff erence 6.3 % [95 % CI -5.9, 18.4]).
-
-Invasive Aspergillosis in Adult Patients : Sixty-nine adult patients (age 18-80) with invasive aspergillosis were enrolled in an open-label, non-comparative study to evaluate the safety, tolerability, and efficacy of caspofungin. Patients had to be either refractory to (disease progression or f ailure to improve with other antifungal therapies given for at least 7 days) (84 % of the enrolled patients) or intolerant of  (16 % of enrolled patients) other standard antifungal therapies. Most patients had underlying conditions (haematologic malignancy [N = 24], allogeneic bone marrow transplant or stem cell transplant [N = 18], organ transplant [N = 8], solid tumour [N = 3], or other conditions [N = 10]). Stringent definitions, modelled after the Mycoses Study Group Criteria, were used for diagnosis of invasive aspergillosis and f or response to therapy (favourable response required clinically significant improvement in radiographs as well as in signs and symptoms). The mean duration of therapy was 33.7 days, with a range of 1 to 162 days. An independent expert panel determined that 41 % (26/63) of patients receiving at least one dose of caspofungin had a favourable response. For those patients who received more than 7 days of therapy with caspofungin, 50 % (26/52) had a favourable response. The favourable response rates for patients who were either refractory to or intolerant of previous therapies were 36 % (19/53) and 70 % (7/10), respectively. Although the doses of prior antifungal therapies in 5 patients enrolled as ref ractory were lower than those often administered for invasive aspergillosis, the favourable response rate during therapy with caspofungin was similar in these patients to that seen in the remaining refractory patients (2/5 versus 17/48, respectively). The response rates among patients with pulmonary disease and extrapulmonary disease were 47 % (21/45) and 28 % (5/18), respectively. Among patients with extrapulmonary disease, 2 of 8 patients who also had definite, probable, or possible CNS involvement had a favourable response.
-
-Empirical Therapy in Febrile, Neutropaenic Adult Patients : A total of  1,111 patients with persistent fever and neutropaenia were enrolled in a clinical study and treated with either caspofungin 50 mg once daily following a 70 mg loading dose or liposomal amphotericin B 3.0 mg/kg/day. Eligible patients had received chemotherapy for malignancy or had undergone hematopoietic stem-cell transplantation, and presented with neutropaenia (&lt;500 cells/mm 3 f or 96 hours) and fever (&gt;38.0°C) not responding to ≥96 hours of parenteral antibacterial therapy. Patients were to be treated until up to 72 hours after resolution of neutropaenia, with a maximum duration of 28 days. However, patients found to have a documented fungal infection could be treated longer. If the drug was well tolerated but the patient's f ever persisted and clinical condition deteriorated af ter 5 days of therapy, the dosage of study drug could be increased to 70 mg/day of caspofungin (13.3 % of patients treated) or to 5.0 mg/kg/day of liposomal amphotericin B (14.3 % of patients treated). There were 1,095 patients included in the primary Modified Intention-To-Treat (MITT) efficacy analysis of overall favourable response; caspofungin (33.9 %) was as effective as liposomal amphotericin B (33.7 %) [% difference 0.2 (95.2 % CI -5.6, 6.0)]. An overall f avourable response required meeting each of 5 criteria: (1) successful treatment of any baseline fungal inf ection (caspof ungin 51.9 % [14/27], liposomal amphotericin B 25.9 % [7/27]), (2) no breakthrough fungal infections during administration of study drug or within 7 days after completion of treatment (caspofungin 94.8 % [527/556], liposomal amphotericin B 95.5 % [515/539]), (3) survival for 7 days after completion of study therapy (caspofungin 92.6 % [515/556], liposomal amphotericin B 89.2 % [481/539]), (4) no discontinuation from the study drug because of drug-related toxicity or lack of eff icacy (caspof ungin 89.7 % [499/556], liposomal amphotericin B 85.5 % [461/539]), and (5) resolution of fever during the period of neutropaenia (caspofungin 41.2 % [229/556], liposomal amphotericin B 41.4 % [223/539]). Response rates to caspofungin and liposomal amphotericin B for baseline infections caused by Aspergillus species were, respectively, 41.7 % (5/12) and 8.3 % (1/12), and by Candida species were 66.7 % (8/12) and 41.7 % (5/12). Patients in the caspofungin group experienced breakthrough infections due to the following uncommon yeasts and moulds: Trichosporon species (1), Fusarium species (1), Mucor species (1), and Rhizopus species (1).
-
-<div style=\"page-break-after: always\"></div>
+Response rates to caspofungin and liposomal amphotericin B for baseline infections caused by Aspergillus species were, respectively, 41.7 % (5/12) and 8.3 % (1/12), and by Candida species were 66.7 % (8/12) and 41.7 % (5/12). Patients in the caspofungin group experienced breakthrough infections due to the following uncommon yeasts and moulds: Trichosporon species (1), Fusarium species (1), Mucor species (1), and Rhizopus species (1).
 
 ## Paediatric population
 
@@ -307,9 +308,9 @@ Caspofungin is extensively bound to albumin. The unbound fraction of caspofungin
 
 Caspofungin undergoes spontaneous degradation to an open ring compound. Further metabolism involves peptide hydrolysis and N-acetylation. Two intermediate products, formed during the degradation of caspofungin to this open ring compound, form covalent adducts to plasma proteins resulting in a low-level, irreversible binding to plasma proteins.
 
-In vitro studies show that caspofungin is not an inhibitor of cytochrome P450 enzymes 1A2, 2A6, 2C9, 2C19, 2D6 or 3A4. In clinical studies, caspofungin did not induce or inhibit the CYP3A4 metabolism of other medicinal products. Caspofungin is not a substrate for P-glycoprotein and is a poor substrate for cytochrome P450 enzymes.
-
 <div style=\"page-break-after: always\"></div>
+
+In vitro studies show that caspofungin is not an inhibitor of cytochrome P450 enzymes 1A2, 2A6, 2C9, 2C19, 2D6 or 3A4. In clinical studies, caspofungin did not induce or inhibit the CYP3A4 metabolism of other medicinal products. Caspofungin is not a substrate for P-glycoprotein and is a poor substrate for cytochrome P450 enzymes.
 
 ## Elimination
 
@@ -333,15 +334,13 @@ Gender: Caspofungin plasma concentrations were on average 17-38 % higher in wome
 
 Elderly: A modest increase in AUC (28 %) and C24h (32 %) was observed in elderly male subjects compared with young male subjects. In patients who were treated empirically or who had invasive candidiasis, a similar modest eff ect of age was seen in older patients relative to younger patients.
 
+<div style=\"page-break-after: always\"></div>
+
 Race: Patient pharmacokinetic data indicated that no clinically significant diff erences in the pharmacokinetics of caspofungin were seen among Caucasians, Blacks, Hispanics, and Mestizos.
 
 ## Paediatric Patients:
 
-In adolescents (ages 12 to 17 years) receiving caspofungin at 50 mg/m 2 daily (maximum 70 mg daily), the caspofungin plasma AUC0-24 hr was generally comparable to that seen in adults receiving
-
-<div style=\"page-break-after: always\"></div>
-
-caspofungin at 50 mg daily. All adolescents received doses &gt;50 mg daily, and, in fact, 6 of 8 received the maximum dose of 70 mg/day. The caspofungin plasma concentrations in these adolescents were reduced relative to adults receiving 70 mg daily, the dose most of ten administered to adolescents.
+In adolescents (ages 12 to 17 years) receiving caspofungin at 50 mg/m 2 daily (maximum 70 mg daily), the caspofungin plasma AUC0-24 hr was generally comparable to that seen in adults receiving caspofungin at 50 mg daily. All adolescents received doses &gt;50 mg daily, and, in fact, 6 of 8 received the maximum dose of 70 mg/day. The caspofungin plasma concentrations in these adolescents were reduced relative to adults receiving 70 mg daily, the dose most of ten administered to adolescents.
 
 In children (ages 2 to 11 years) receiving caspofungin at 50 mg/m 2 daily (maximum 70 mg daily), the caspofungin plasma AUC0-24 hr after multiple doses was comparable to that seen in adults receiving caspofungin at 50 mg/day.
 
@@ -361,11 +360,11 @@ Repeated dose toxicity studies in rats and monkeys using doses up to 7-8 mg/kg g
 
 Sucrose Mannitol (E421) Glacial acetic acid Sodium hydroxide (to adjust the pH)
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.2 Incompatibilities
 
 Do not mix with diluents containing glucose, as CANCIDAS is not stable in diluents containing glucose. In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.3 Shelf life
 
@@ -385,7 +384,7 @@ For storage conditions af ter reconstitution and dilution of  the medicinal prod
 
 ## 6.5 Nature and contents of container
 
-CANCIDAS 50 mg powder for concentrate for solution for inf usion
+## CANCIDAS 50 mg powder for concentrate for solution for inf usion
 
 10 ml Type I glass vial with a grey butyl stopper and a plastic cap with a red aluminium band.
 
@@ -405,13 +404,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## CANCIDAS 50 mg powder for concentrate for solution for infusion
 
+<div style=\"page-break-after: always\"></div>
+
 ## INSTRUCTIONS FOR USE IN ADULT PATIENTS
 
 ## Step 1 Reconstitution of conventional vials
 
 To reconstitute the powder, bring the vial to room temperature and aseptically add 10.5 ml of water for injection. The concentrations of the reconstituted vials will be 5.2 mg/ml.
-
-<div style=\"page-break-after: always\"></div>
 
 The white to off-white compact lyophilised powder will dissolve completely. Mix gently until a clear solution is obtained. Reconstituted solutions should be visually inspected for particulate matter or discolouration. This reconstituted solution may be stored for up to 24 hours at or below 25°C.
 
@@ -430,9 +429,11 @@ Diluents for the final solution for infusion are: sodium chloride solution for i
 
 ## INSTRUCTIONS FOR USE IN PAEDIATRIC PATIENTS
 
-Calculation of Body Surface Area (BSA) for paediatric dosing
+## Calculation of Body Surface Area (BSA) for paediatric dosing
 
 Before preparation of infusion, calculate the body surface area (BSA) of the patient using the following formula: (Mosteller Formula)
+
+<!-- image -->
 
 ## Preparation of the 70 mg/m 2 infusion for paediatric patients &gt;3 months of age (using a 50-mg vial)
 
@@ -444,19 +445,15 @@ The maximum loading dose on Day 1 should not exceed 70 mg regardless of the pati
 
 2. Equilibrate the refrigerated vial of CANCIDAS to room temperature.
 3. Aseptically add 10.5 ml of water for injection. a This reconstituted solution may be stored for up to 24 hours at or below 25°C. b This will give a final caspofungin concentration in the vial of 5.2 mg/ml.
-4. Remove the volume of medicinal product equal to the calculated loading dose (Step 1) from the vial. Aseptically transfer this volume (ml) c of reconstituted CANCIDAS to an IV bag (or bottle) containing 250 ml of 0.9 %, 0.45 %, or 0.225 % Sodium Chloride Injection, or Lactated Ringers Injection. Alternatively, the volume (ml) c of reconstituted CANCIDAS can be added to a reduced volume of 0.9 %, 0.45 %, or 0.225 % Sodium Chloride Injection or Lactated Ringers Injection, not to exceed a final concentration of 0.5 mg/ml. This infusion solution must be used within 24 hours if stored at or below 25°C or within 48 hours if  stored refrigerated at 2 to 8°C.
 
 <div style=\"page-break-after: always\"></div>
 
+4. Remove the volume of medicinal product equal to the calculated loading dose (Step 1) from the vial. Aseptically transfer this volume (ml) c of reconstituted CANCIDAS to an IV bag (or bottle) containing 250 ml of 0.9 %, 0.45 %, or 0.225 % Sodium Chloride Injection, or Lactated Ringers Injection. Alternatively, the volume (ml) c of reconstituted CANCIDAS can be added to a reduced volume of 0.9 %, 0.45 %, or 0.225 % Sodium Chloride Injection or Lactated Ringers Injection, not to exceed a final concentration of 0.5 mg/ml. This infusion solution must be used within 24 hours if stored at or below 25°C or within 48 hours if  stored refrigerated at 2 to 8°C.
+
 ## Preparation of the 50 mg/m 2 infusion for paediatric patients &gt;3 months of age (using a 50-mg vial)
 
-1. Determine the actual daily maintenance dose to be used in the paediatric patient by using the patient's BSA (as calculated above) and the following equation:
-
-BSA (m 2 ) X 50 mg/m
-
-2  = Daily Maintenance Dose
-
-- The daily maintenance dose should not exceed 70 mg regardless of the patient's calculated dose.
+1. Determine the actual daily maintenance dose to be used in the paediatric patient by using the patient's BSA (as calculated above) and the following equation: BSA (m 2 ) X 50 mg/m 2  = Daily Maintenance Dose
+2. The daily maintenance dose should not exceed 70 mg regardless of the patient's calculated dose.
 2. Equilibrate the refrigerated vial of CANCIDAS to room temperature.
 3. Aseptically add 10.5 ml of water f or injection. a This reconstituted solution may be stored for up to 24 hours at or below 25°C. b This will give a final caspofungin concentration in the vial of 5.2 mg/ml.
 4. Remove the volume of medicinal product equal to the calculated daily maintenance dose (Step 1) from the vial. Aseptically transf er this volume (ml) c  of reconstituted CANCIDAS to an IV bag (or bottle) containing 250 ml of  0.9 %, 0.45 %, or 0.225 % Sodium Chloride Injection, or Lactated Ringers Injection. Alternatively, the volume (ml) c  of reconstituted CANCIDAS can be added to a reduced volume of 0.9 %, 0.45 %, or 0.225 % Sodium Chloride Injection or Lactated Ringers Injection, not to exceed a final concentration of 0.5 mg/ml. This infusion solution must be used within 24 hours if stored at or below 25°C or within 48 hours if stored refrigerated at 2 to 8°C.
@@ -465,7 +462,7 @@ BSA (m 2 ) X 50 mg/m
 
 - a. The white to off-white cake will dissolve completely. Mix gently until a clear solution is obtained.
 - b. Visually inspect the reconstituted solution f or particulate matter or discolouration during reconstitution and prior to infusion. Do not use if the solution is cloudy or has precipitated.
-- c. CANCIDAS is formulated to provide the full labeled vial dose (50 mg) when 10 ml is withdrawn from the vial.
+- c. CANCIDAS is formulated to provide the full labelled vial dose (50 mg) when 10 ml is withdrawn from the vial.
 
 ## CANCIDAS 70 mg powder for concentrate for solution for infusion
 
@@ -481,16 +478,13 @@ The white to off-white compact lyophilised powder will dissolve completely. Mix 
 
 Diluents for the final solution for infusion are: sodium chloride solution for injection, or lactated Ringer's solution. The solution f or inf usion is prepared by aseptically adding the appropriate amount of reconstituted concentrate (as shown in the table below) to a 250 ml infusion bag or bottle. Reduced volume infusions in 100 ml may be used, when medically necessary, for 50 mg or 35 mg daily doses. Do not use if the solution is cloudy or has precipitated.
 
-## PREPARATION OF THE SOLUTION FOR INFUSION IN ADULTS
-
-| DOSE*   | Volume ofrecon- stituted CANCIDAS for transfer to intravenous bag or bottle   | Standard preparation (reconstituted CANCIDAS added to 250 ml) final concentration   | Reduced volume infusion (reconstituted CANCIDAS added to 100 ml) final concentration   |
-|---------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
-| 70 mg   | 10 ml                                                                         | 0.28 mg/ml                                                                          | Not Recommended                                                                        |
-
 <div style=\"page-break-after: always\"></div>
+
+## PREPARATION OF THE SOLUTION FOR INFUSION IN ADULTS
 
 | DOSE*                                                       | Volume ofrecon- stituted CANCIDAS for transfer to intravenous bag or bottle   | Standard preparation (reconstituted CANCIDAS added to 250 ml) final concentration   | Reduced volume infusion (reconstituted CANCIDAS added to 100 ml) final concentration   |
 |-------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| 70 mg                                                       | 10 ml                                                                         | 0.28 mg/ml                                                                          | Not Recommended                                                                        |
 | 70 mg (from two 50 mg vials)**                              | 14 ml                                                                         | 0.28 mg/ml                                                                          | Not Recommended                                                                        |
 | 35 mg for moderate hepatic impairment (from one 70 mg vial) | 5 ml                                                                          | 0.14 mg/ml                                                                          | 0.34 mg/ml                                                                             |
 
@@ -512,21 +506,18 @@ The maximum loading dose on Day 1 should not exceed 70 mg regardless of the pati
 
 2. Equilibrate the refrigerated vial of CANCIDAS to room temperature.
 3. Aseptically add 10.5 ml of water for injection. a This reconstituted solution may be stored for up to 24 hours at or below 25°C. b This will give a final caspofungin concentration in the vial of 7.2 mg/ml.
-4. Remove the volume of medicinal product equal to the calculated loading dose (Step 1) from the vial. Aseptically transfer this volume (ml) c of reconstituted CANCIDAS to an IV bag (or bottle) containing 250 ml of 0.9 %, 0.45 %, or 0.225 % Sodium Chloride Injection, or Lactated Ringers Injection. Alternatively, the volume (ml) c of reconstituted CANCIDAS can be added to a reduced volume of 0.9 %, 0.45 %, or 0.225 % Sodium Chloride Injection or Lactated Ringers Injection, not to exceed a final concentration of  0.5 mg/ml. This infusion solution must be used within 24 hours if stored at or below 25°C or within 48 hours if  stored refrigerated at 2 to 8°C.
+4. Remove the volume of medicinal product equal to the calculated loading dose (Step 1) from the vial. Aseptically transfer this volume (ml) c of reconstituted CANCIDAS to an IV bag (or bottle) containing 250 ml of 0.9 %, 0.45 %, or 0.225 % Sodium Chloride Injection, or Lactated Ringers Injection. Alternatively, the volume (ml) c of reconstituted CANCIDAS can be added to a reduced volume of 0.9 %, 0.45 %, or 0.225 % Sodium Chloride Injection or Lactated Ringers Injection, not to exceed a final concentration of 0.5 mg/ml. This infusion solution must be used within 24 hours if stored at or below 25°C or within 48 hours if  stored refrigerated at 2 to 8°C.
 
 ## Preparation of the 50 mg/m 2 infusion for paediatric patients &gt;3 months of age (using a 70-mg vial)
 
-1. Determine the actual daily maintenance dose to be used in the paediatric patient by using the patient's BSA (as calculated above) and the following equation: BSA (m 2 ) X 50 mg/m 2  = Daily Maintenance Dose
-
-The daily maintenance dose should not exceed 70 mg regardless of the patient's calculated dose.
-
+1. Determine the actual daily maintenance dose to be used in the paediatric patient by using the patient's BSA (as calculated above) and the following equation: BSA (m 2 ) X 50 mg/m 2  = Daily Maintenance Dose The daily maintenance dose should not exceed 70 mg regardless of the patient's calculated dose.
 2. Equilibrate the refrigerated vial of CANCIDAS to room temperature.
 3. Aseptically add 10.5 ml of water for injection. a This reconstituted solution may be stored for up to 24 hours at or below 25°C. b This will give a final caspofungin concentration in the vial of 7.2 mg/ml.
-4. Remove the volume of medicinal product equal to the calculated daily maintenance dose (Step 1) from the vial. Aseptically transf er this volume (ml) c  of reconstituted CANCIDAS to an IV bag (or bottle) containing 250 ml of  0.9 %, 0.45 %, or 0.225 % Sodium Chloride Injection, or Lactated Ringers Injection. Alternatively, the volume (ml) c  of reconstituted CANCIDAS can be added to a reduced volume of 0.9 %, 0.45 %, or 0.225 % Sodium Chloride Injection or Lactated Ringers Injection, not to exceed a final concentration of 0.5 mg/ml. This infusion
+4. Remove the volume of medicinal product equal to the calculated daily maintenance dose (Step 1) from the vial. Aseptically transf er this volume (ml) c  of reconstituted CANCIDAS to an IV bag (or bottle) containing 250 ml of  0.9 %, 0.45 %, or 0.225 % Sodium Chloride Injection,
 
 <div style=\"page-break-after: always\"></div>
 
-solution must be used within 24 hours if stored at or below 25°C or within 48 hours if stored refrigerated at 2 to 8°C.
+or Lactated Ringers Injection. Alternatively, the volume (ml) c  of reconstituted CANCIDAS can be added to a reduced volume of 0.9 %, 0.45 %, or 0.225 % Sodium Chloride Injection or Lactated Ringers Injection, not to exceed a final concentration of 0.5 mg/ml. This infusion solution must be used within 24 hours if stored at or below 25°C or within 48 hours if stored refrigerated at 2 to 8°C.
 
 ## Preparation notes:
 
@@ -536,7 +527,11 @@ solution must be used within 24 hours if stored at or below 25°C or within 48 h
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
+Merck Sharp &amp; Dohme B.V.
+
+Waarderweg 39 2031 BN Haarlem
+
+The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -544,9 +539,7 @@ EU/1/01/196/001 EU/1/01/196/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 24 October 2001.
-
-Date of latest renewal: 07 September 2011.
+Date of first authorisation: 24 October 2001. Date of latest renewal: 07 September 2011.
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -971,7 +964,8 @@ Uncommon : may affect up to 1 in 100 people:
 - Sensation of fast or irregular heartbeats, rapid heartbeat, irregular heartbeat, abnormal heart rhythm, heart failure
 - Flushing, hot flush, high blood pressure, low blood pressure, redness along a vein which is extremely tender when touched
 - Tightening of the bands of muscle around the airways resulting in wheezing or coughing, fast breathing rate, shortness of breath that wakes you up, shortage of oxygen in the blood, abnormal breath sounds, crackling sounds in the lungs, wheezing, nasal congestion, cough, throat pain
-- Belly pain, upper belly pain, bloating, constipation, dif f iculty swallowing, dry mouth, indigestion, passing gas, stomach discomfort, swelling due to build-up of f luid around the belly
+- Belly pain, upper belly pain, bloating, constipation, dif f iculty swallowing, dry mouth,
+- indigestion, passing gas, stomach discomfort, swelling due to build-up of f luid around the belly
 - Decreased flow of bile, enlarged liver, yellowing of the skin and/or whites of the eyes, liver injury caused by a drug or chemical, liver disorder
 - Abnormal skin tissue, generalised itching, hives, rash of varying appearance, abnormal skin, red often itchy spots on your arms and legs and sometimes on the face and the rest of the body
 - Back pain, pain in an arm or leg, bone pain, muscle pain, muscle weakness
@@ -986,7 +980,7 @@ Very common: may affect more than 1 in 10 people:
 
 - Fever
 
-Common: may affect up to 1 in 10 people:
+Common: may aff ect up to 1 in 10 people:
 
 - Headache
 - Fast heart beat
@@ -1061,11 +1055,11 @@ Lietuva UAB Merck Sharp &amp; Dohme Tel. +370 5 2780 247 dpoc\\_lithuania@msd.co
 
 ## /Beъл/geа/erи/ia
 
-Ме/er/ka  Ша/er/pecyril  и  /Deо/ucyril/em  /Beъл/geа/erи/ia  Е/Ocyril/Ocyril/De Тел.: +359 2 819 3737 info-msdbg@merck.com
+Ме/er/ka  Ша/er/pecyril  и  /Deо/ucyril/em  /Beъл/geа/erи/ia  Е/Ocyril/Ocyril/De Тел.: +359 2 819 3737 info-msdbg@msd.com
 
 ## Česká republika
 
-Merck Sharp &amp; Dohme s.r.o. Tel: +420 233 010 111 dpoc\\_czechslovak@merck.com
+Merck Sharp &amp; Dohme s.r.o. Tel.: +420 277 050 000 dpoc\\_czechslovak@msd.com
 
 ## Danmark
 
@@ -1073,9 +1067,7 @@ MSD Danmark ApS Tlf.: +45 4482 4000 dkmail@msd.com
 
 ## Deutschland
 
-MSD Sharp &amp; Dohme GmbH
-
-Tel.: +49 (0) 89 20 300 4500 medinfo@msd.de
+MSD Sharp &amp; Dohme GmbH Tel.: +49 (0) 89 20 300 4500 medinfo@msd.de
 
 ## Eesti
 
@@ -1083,7 +1075,7 @@ Merck Sharp &amp; Dohme OÜ Tel: +372 614 4200 dpoc.estonia@msd.com
 
 ## Eλλάδα
 
-MSD Α.Φ.Ε.Ε . Τηλ: +30 210 98 97 300 dpoc\\_greece@merck.com
+MSD Α.Φ.Ε.Ε . Τηλ: +30 210 98 97 300 dpoc.greece@msd.com
 
 ## España
 
@@ -1091,11 +1083,11 @@ Merck Sharp &amp; Dohme de España, S.A. Tel: +34 91 321 06 00 msd\\_info@msd.co
 
 ## France
 
-MSD France Tél: + 33 (0) 1 80 46 40 40
+MSD France Tél: +33 (0)1 80 46 40 40
 
 ## Hrvatska
 
-Merck Sharp &amp; Dohme d.o.o. Tel: + 385 1 6611 333 croatia\\_info@merck.com
+Merck Sharp &amp; Dohme d.o.o. Tel: +385 1 6611 333 dpoc.croatia@msd.com
 
 ## Ireland
 
@@ -1103,27 +1095,23 @@ Merck Sharp &amp; Dohme Ireland (Human Health) Limited Tel: +353 (0)1 2998700 me
 
 ## Ísland
 
-Vistor ehf. Sími: + 354 535 7000
+Vistor ehf. Sími: +354 535 7000
 
-## Luxembourg/Luxemburg
-
-MSD Belgium Tél/Tel: +32(0)27766211
+Luxembourg/Luxemburg MSD Belgium Tél/Tel: +32(0)27766211
 
 dpoc\\_belux@msd.com
 
 ## Magyarország
 
-MSD Pharma Hungary Kft.
-
-Tel.: +36 1 888 5300 hungary\\_msd@merck.com
+MSD Pharma Hungary Kft. Tel.: +36 1 888 5300 hungary\\_msd@msd.com
 
 ## Malta
 
-Merck Sharp &amp; Dohme Cyprus Limited Tel: 8007 4433 (+356 99917558) malta\\_info@merck.com
+Merck Sharp &amp; Dohme Cyprus Limited Tel: 8007 4433 (+356 99917558) dpoccyprus@msd.com
 
 ## Nederland
 
-Merck Sharp &amp; Dohme B.V. Tel: 0800 9999000 (+31 23 5153153) medicalinfo.nl@merck.com
+Merck Sharp &amp; Dohme B.V. Tel: 0800 9999000 (+31 23 5153153) medicalinfo.nl@msd.com
 
 ## Norge
 
@@ -1131,31 +1119,27 @@ MSD (Norge) AS Tlf: +47 32 20 73 00 medinfo.norway@msd.com
 
 ## Österreich
 
-Merck Sharp &amp; Dohme Ges.m.b.H.
-
-Tel: +43 (0) 1 26 044 dpoc\\_austria@merck.com
+Merck Sharp &amp; Dohme Ges.m.b.H. Tel: +43 (0) 1 26 044 dpoc\\_austria@msd.com
 
 ## Polska
 
-MSD Polska Sp. z o.o. Tel.: +48 22 549 51 00 msdpolska@merck.com
+MSD Polska Sp. z o.o. Tel.: +48 22 549 51 00 msdpolska@msd.com
 
 ## Portugal
 
-Merck Sharp &amp; Dohme, Lda
-
-Tel: +351 21 4465700 inform\\_pt@merck.com
+Merck Sharp &amp; Dohme, Lda Tel.: +351 21 4465700 inform\\_pt@msd.com
 
 ## România
 
-Merck Sharp &amp; Dohme Romania S.R.L. Tel: +40 21 529 29 00 msdromania@merck.com
+Merck Sharp &amp; Dohme Romania S.R.L. Tel.: +40 21 529 29 00 msdromania@msd.com
 
 ## Slovenija
 
-Merck Sharp &amp; Dohme, inovativna zdravila d.o.o. Tel: +386 1 520 4201 msd\\_slovenia@merck.com
+Merck Sharp &amp; Dohme, inovativna zdravila d.o.o. Tel: +386 1 520 4201 msd.slovenia@msd.com
 
 ## Slovenská republika
 
-Merck Sharp &amp; Dohme, s. r. o. Tel: +421 2 58282010 dpoc\\_czechslovak@merck.com
+Merck Sharp &amp; Dohme, s. r. o. Tel.: +421 2 58282010 dpoc\\_czechslovak@msd.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1169,21 +1153,13 @@ dpoc.italy@msd.com
 
 ## Κύπρος
 
-Merck Sharp &amp; Dohme Cyprus Limited
-
-Τηλ.:
-
-800 00 673 (+357 22866700)
-
-cyprus \\_
-
-info@merck . com
+Merck Sharp &amp; Dohme Cyprus Limited Τηλ : 800 00 673 (+357 22866700) dpoccyprus@msd.com
 
 ## Latvija
 
 SIA Merck Sharp &amp; Dohme Latvija
 
-Tel.: + 371 67025300 dpoc.latvia@msd.com
+Tel.: +371 67025300 dpoc.latvia@msd.com
 
 ## This leaflet was last revised in
 
@@ -1195,7 +1171,7 @@ Instructions of how to reconstitute and dilute CANCIDAS:
 
 ## Reconstitution of CANCIDAS
 
-DO NOT USE ANY DILUENTS CONTAINING GLUCOSE as CANCIDAS is not stable in diluents containing glucose. DO NOT MIX OR CO-INFUSE CANCIDAS WITH ANY OTHER MEDICINES, as there are no data available on the compatibility of CANCIDAS with other intravenous substances, additives, or medicinal products. Visually inspect the infusion solution for particulate matter or discolouration.
+DO NOT USE ANY DILUENTS CONTAINING GLUCOSE as CANCIDAS is not stable in diluents containing glucose. DO NOT MIX OR CO-INFUSE CANCIDAS WITH ANY OTHER MEDICINES, as there are no data available on the compatibility of CANCIDAS with other intravenous substances, additives, or medicinal products. Visually inspect the infusion solution f or particulate matter or discolouration.
 
 ## CANCIDAS 50 mg powder for concentrate for solution for infusion
 
@@ -1213,7 +1189,9 @@ Diluents for the final solution for infusion are: sodium chloride solution for i
 
 ## Suomi/Finland
 
-MSD Finland Oy Puh/Tel: +358 (0)9 804 650 info@msd.fi
+MSD Finland Oy
+
+Puh/Tel: +358 (0)9 804 650 info@msd.fi
 
 ## Sverige
 
@@ -1250,11 +1228,8 @@ The maximum loading dose on Day 1 should not exceed 70 mg regardless of the pati
 
 ## Preparation of the 50 mg/m 2 infusion for paediatric patients &gt;3 months of age (using a 50-mg vial)
 
-- 1.
-- Determine the actual daily maintenance dose to be used in the paediatric patient by using the patient's BSA (as calculated above) and the following equation: BSA (m 2 ) X 50 mg/m 2  = Daily Maintenance Dose
-
-The daily maintenance dose should not exceed 70 mg regardless of the patient's calculated dose.
-
+1. Determine the actual daily maintenance dose to be used in the paediatric patient by using the patient's BSA (as calculated above) and the following equation: BSA (m 2 ) X 50 mg/m 2  = Daily Maintenance Dose
+2. The daily maintenance dose should not exceed 70 mg regardless of the patient's calculated dose.
 2. Equilibrate the refrigerated vial of CANCIDAS to room temperature.
 
 2 Mosteller RD: Simplif ied Calculation of Body Surface Area. N Engl J Med 1987 Oct 22;317(17): 1098 (letter)
@@ -1262,7 +1237,7 @@ The daily maintenance dose should not exceed 70 mg regardless of the patient's c
 <div style=\"page-break-after: always\"></div>
 
 3. Aseptically add 10.5 ml of water for injection. a This reconstituted solution may be stored for up to 24 hours at or below 25°C. b This will give a final caspofungin concentration in the vial of 5.2 mg/ml.
-4. Remove the volume of medicine equal to the calculated daily maintenance dose (Step 1) from the vial. Aseptically transfer this volume (ml) c of reconstituted CANCIDAS to an IV bag (or bottle) containing 250 ml of 0.9 %, 0.45 %, or 0.225 % Sodium Chloride Injection, or Lactated Ringers Injection. Alternatively, the volume (ml) c of reconstituted CANCIDAS can be added to a reduced volume of 0.9 %, 0.45 %, or 0.225 % Sodium Chloride Injection or Lactated Ringers Injection, not to exceed a final concentration of 0.5 mg/ml. This infusion solution must be used within 24 hours if stored at or below 25°C or within 48 hours if  stored refrigerated at 2 to 8°C.
+4. Remove the volume of medicine equal to the calculated daily maintenance dose (Step 1) from the vial. Aseptically transfer this volume (ml) c of reconstituted CANCIDAS to an IV bag (or bottle) containing 250 ml of 0.9 %, 0.45 %, or 0.225 % Sodium Chloride Injection, or Lactated Ringers Injection. Alternatively, the volume (ml) c of reconstituted CANCIDAS can be added to a reduced volume of 0.9 %, 0.45 %, or 0.225 % Sodium Chloride Injection or Lactated Ringers Injection, not to exceed a final concentration of  0.5 mg/ml. This infusion solution must be used within 24 hours if stored at or below 25°C or within 48 hours if  stored refrigerated at 2 to 8°C.
 
 ## Preparation notes:
 
@@ -1320,7 +1295,7 @@ The maximum loading dose on Day 1 should not exceed 70 mg regardless of the pati
 1. Determine the actual daily maintenance dose to be used in the paediatric patient by using the patient's BSA (as calculated above) and the following equation: BSA (m 2 ) X 50 mg/m 2  = Daily Maintenance Dose The daily maintenance dose should not exceed 70 mg regardless of the patient's calculated dose.
 2. Equilibrate the refrigerated vial of CANCIDAS to room temperature.
 3. Aseptically add 10.5 ml of water for injection. a This reconstituted solution may be stored for up to 24 hours at or below 25°C. b This will give a final caspofungin concentration in the vial of 7.2 mg/ml.
-4. Remove the volume of medicine equal to the calculated daily maintenance dose (Step 1) from the vial. Aseptically transfer this volume (ml) c of reconstituted CANCIDAS to an IV bag (or bottle) containing 250 ml of 0.9 %, 0.45 %, or 0.225 % Sodium Chloride Injection, or Lactated Ringers Injection. Alternatively, the volume (ml) c of reconstituted CANCIDAS can be added to a reduced volume of 0.9 %, 0.45 %, or 0.225 % Sodium Chloride Injection or Lactated Ringers
+4. Remove the volume of medicine equal to the calculated daily maintenance dose (Step 1) from the vial. Aseptically transfer this volume (ml) c of reconstituted CANCIDAS to an IV bag (or bottle) containing 250 ml of 0.9 %, 0.45 %, or 0.225 % Sodium Chloride Injection, or Lactated Ringers Injection. Alternatively, the volume (ml) c of  reconstituted CANCIDAS can be added to a reduced volume of 0.9 %, 0.45 %, or 0.225 % Sodium Chloride Injection or Lactated Ringers
 
 3 Mosteller RD: Simplified Calculation of Body Surface Area. N Engl J Med 1987 Oct 22;317(17): 1098 (letter)
 
@@ -1333,25 +1308,3 @@ Injection, not to exceed a final concentration of 0.5 mg/ml. This infusion solut
 - a. The white to off-white cake will dissolve completely. Mix gently until a clear solution is obtained.
 - b. Visually inspect the reconstituted solution f or particulate matter or discolouration during reconstitution and prior to infusion. Do not use if the solution is cloudy or has precipitated.
 - c. CANCIDAS is formulated to provide the full labelled vial dose (70 mg) when 10 ml is withdrawn from the vial.
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for caspofungin, the scientific conclusions of PRAC are as follows:
-
-In view of available data on caspofungin treatment failure during continuous renal replacement therapy (CRRT) with polyacrylonitrile (PAN) membranes from the literature, spontaneous reports (including in five cases a close temporal relationship and fatal outcomes), and in view of a plausible mechanism of action (adsorption of the free drug fraction by PAN membranes leading to subtherapeutic exposure), the PRAC considers a causal relationship between caspofungin and treatment failure during CRRT with PAN membranes is at least a reasonable possibility. The PRAC concluded that the product information of products containing caspofungin should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for caspofungin the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing caspofungin is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

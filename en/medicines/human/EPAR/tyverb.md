@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 13:29:25
+document_datetime: 2026-01-06 15:28:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tyverb.html
 document_name: tyverb.html
 version: success
-processing_time: 0.1220812
-conversion_datetime: 2025-12-29 23:11:17.882931
+processing_time: 0.1304733
+conversion_datetime: 2026-01-10 10:57:37.279884
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -117,7 +117,7 @@ English (EN) (90.66 KB - PDF)
 
 [View](/en/documents/overview/tyverb-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-261)
+[Other languages (22)](#file-language-dropdown-578)
 
 български (BG) (116.91 KB - PDF)
 
@@ -397,17 +397,17 @@ English (EN) (46.45 KB - PDF)
 
 Tyverb : EPAR - Product Information
 
-English (EN) (456.91 KB - PDF)
+English (EN) (430.61 KB - PDF)
 
 **First published:** 17/11/2009
 
-**Last updated:** 25/08/2025
+**Last updated:** 06/01/2026
 
 [View](/en/documents/product-information/tyverb-epar-product-information_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-974)
+[Other languages (24)](#file-language-dropdown-947)
 
-български (BG) (570.09 KB - PDF)
+български (BG) (516.56 KB - PDF)
 
 **First published:**
 
@@ -415,11 +415,11 @@ English (EN) (456.91 KB - PDF)
 
 **Last updated:**
 
-25/08/2025
+06/01/2026
 
 [View](/bg/documents/product-information/tyverb-epar-product-information_bg.pdf)
 
-español (ES) (532.01 KB - PDF)
+español (ES) (481.62 KB - PDF)
 
 **First published:**
 
@@ -427,11 +427,11 @@ español (ES) (532.01 KB - PDF)
 
 **Last updated:**
 
-25/08/2025
+06/01/2026
 
 [View](/es/documents/product-information/tyverb-epar-product-information_es.pdf)
 
-čeština (CS) (598.95 KB - PDF)
+čeština (CS) (541.92 KB - PDF)
 
 **First published:**
 
@@ -439,11 +439,11 @@ español (ES) (532.01 KB - PDF)
 
 **Last updated:**
 
-25/08/2025
+06/01/2026
 
 [View](/cs/documents/product-information/tyverb-epar-product-information_cs.pdf)
 
-dansk (DA) (585.28 KB - PDF)
+dansk (DA) (533.81 KB - PDF)
 
 **First published:**
 
@@ -451,11 +451,11 @@ dansk (DA) (585.28 KB - PDF)
 
 **Last updated:**
 
-25/08/2025
+06/01/2026
 
 [View](/da/documents/product-information/tyverb-epar-product-information_da.pdf)
 
-Deutsch (DE) (569 KB - PDF)
+Deutsch (DE) (517.79 KB - PDF)
 
 **First published:**
 
@@ -463,11 +463,11 @@ Deutsch (DE) (569 KB - PDF)
 
 **Last updated:**
 
-25/08/2025
+06/01/2026
 
 [View](/de/documents/product-information/tyverb-epar-product-information_de.pdf)
 
-eesti keel (ET) (505.55 KB - PDF)
+eesti keel (ET) (464.8 KB - PDF)
 
 **First published:**
 
@@ -475,11 +475,11 @@ eesti keel (ET) (505.55 KB - PDF)
 
 **Last updated:**
 
-25/08/2025
+06/01/2026
 
 [View](/et/documents/product-information/tyverb-epar-product-information_et.pdf)
 
-ελληνικά (EL) (648.86 KB - PDF)
+ελληνικά (EL) (587.44 KB - PDF)
 
 **First published:**
 
@@ -487,11 +487,11 @@ eesti keel (ET) (505.55 KB - PDF)
 
 **Last updated:**
 
-25/08/2025
+06/01/2026
 
 [View](/el/documents/product-information/tyverb-epar-product-information_el.pdf)
 
-français (FR) (531.55 KB - PDF)
+français (FR) (475.57 KB - PDF)
 
 **First published:**
 
@@ -499,11 +499,11 @@ français (FR) (531.55 KB - PDF)
 
 **Last updated:**
 
-25/08/2025
+06/01/2026
 
 [View](/fr/documents/product-information/tyverb-epar-product-information_fr.pdf)
 
-hrvatski (HR) (555.28 KB - PDF)
+hrvatski (HR) (510.59 KB - PDF)
 
 **First published:**
 
@@ -511,11 +511,11 @@ hrvatski (HR) (555.28 KB - PDF)
 
 **Last updated:**
 
-25/08/2025
+06/01/2026
 
 [View](/hr/documents/product-information/tyverb-epar-product-information_hr.pdf)
 
-íslenska (IS) (543.97 KB - PDF)
+íslenska (IS) (498.6 KB - PDF)
 
 **First published:**
 
@@ -523,11 +523,11 @@ hrvatski (HR) (555.28 KB - PDF)
 
 **Last updated:**
 
-25/08/2025
+06/01/2026
 
 [View](/is/documents/product-information/tyverb-epar-product-information_is.pdf)
 
-italiano (IT) (587.18 KB - PDF)
+italiano (IT) (538.32 KB - PDF)
 
 **First published:**
 
@@ -535,11 +535,11 @@ italiano (IT) (587.18 KB - PDF)
 
 **Last updated:**
 
-25/08/2025
+06/01/2026
 
 [View](/it/documents/product-information/tyverb-epar-product-information_it.pdf)
 
-lietuvių kalba (LT) (563.33 KB - PDF)
+latviešu valoda (LV) (487.6 KB - PDF)
 
 **First published:**
 
@@ -547,11 +547,23 @@ lietuvių kalba (LT) (563.33 KB - PDF)
 
 **Last updated:**
 
-25/08/2025
+06/01/2026
+
+[View](/lv/documents/product-information/tyverb-epar-product-information_lv.pdf)
+
+lietuvių kalba (LT) (547.65 KB - PDF)
+
+**First published:**
+
+17/11/2009
+
+**Last updated:**
+
+06/01/2026
 
 [View](/lt/documents/product-information/tyverb-epar-product-information_lt.pdf)
 
-magyar (HU) (583.94 KB - PDF)
+magyar (HU) (527.05 KB - PDF)
 
 **First published:**
 
@@ -559,11 +571,11 @@ magyar (HU) (583.94 KB - PDF)
 
 **Last updated:**
 
-25/08/2025
+06/01/2026
 
 [View](/hu/documents/product-information/tyverb-epar-product-information_hu.pdf)
 
-Malti (MT) (556.62 KB - PDF)
+Malti (MT) (498.3 KB - PDF)
 
 **First published:**
 
@@ -571,11 +583,11 @@ Malti (MT) (556.62 KB - PDF)
 
 **Last updated:**
 
-25/08/2025
+06/01/2026
 
 [View](/mt/documents/product-information/tyverb-epar-product-information_mt.pdf)
 
-Nederlands (NL) (558.29 KB - PDF)
+Nederlands (NL) (505.03 KB - PDF)
 
 **First published:**
 
@@ -583,11 +595,11 @@ Nederlands (NL) (558.29 KB - PDF)
 
 **Last updated:**
 
-25/08/2025
+06/01/2026
 
 [View](/nl/documents/product-information/tyverb-epar-product-information_nl.pdf)
 
-norsk (NO) (506.96 KB - PDF)
+norsk (NO) (459.4 KB - PDF)
 
 **First published:**
 
@@ -595,11 +607,11 @@ norsk (NO) (506.96 KB - PDF)
 
 **Last updated:**
 
-25/08/2025
+06/01/2026
 
 [View](/no/documents/product-information/tyverb-epar-product-information_no.pdf)
 
-polski (PL) (625.04 KB - PDF)
+polski (PL) (574.5 KB - PDF)
 
 **First published:**
 
@@ -607,11 +619,11 @@ polski (PL) (625.04 KB - PDF)
 
 **Last updated:**
 
-25/08/2025
+06/01/2026
 
 [View](/pl/documents/product-information/tyverb-epar-product-information_pl.pdf)
 
-português (PT) (501.85 KB - PDF)
+português (PT) (458.01 KB - PDF)
 
 **First published:**
 
@@ -619,11 +631,11 @@ português (PT) (501.85 KB - PDF)
 
 **Last updated:**
 
-25/08/2025
+06/01/2026
 
 [View](/pt/documents/product-information/tyverb-epar-product-information_pt.pdf)
 
-română (RO) (588.06 KB - PDF)
+română (RO) (535.39 KB - PDF)
 
 **First published:**
 
@@ -631,11 +643,11 @@ română (RO) (588.06 KB - PDF)
 
 **Last updated:**
 
-25/08/2025
+06/01/2026
 
 [View](/ro/documents/product-information/tyverb-epar-product-information_ro.pdf)
 
-slovenčina (SK) (539.03 KB - PDF)
+slovenčina (SK) (487.26 KB - PDF)
 
 **First published:**
 
@@ -643,11 +655,11 @@ slovenčina (SK) (539.03 KB - PDF)
 
 **Last updated:**
 
-25/08/2025
+06/01/2026
 
 [View](/sk/documents/product-information/tyverb-epar-product-information_sk.pdf)
 
-slovenščina (SL) (535.93 KB - PDF)
+slovenščina (SL) (489.65 KB - PDF)
 
 **First published:**
 
@@ -655,11 +667,11 @@ slovenščina (SL) (535.93 KB - PDF)
 
 **Last updated:**
 
-25/08/2025
+06/01/2026
 
 [View](/sl/documents/product-information/tyverb-epar-product-information_sl.pdf)
 
-Suomi (FI) (540.94 KB - PDF)
+Suomi (FI) (492.84 KB - PDF)
 
 **First published:**
 
@@ -667,11 +679,11 @@ Suomi (FI) (540.94 KB - PDF)
 
 **Last updated:**
 
-25/08/2025
+06/01/2026
 
 [View](/fi/documents/product-information/tyverb-epar-product-information_fi.pdf)
 
-svenska (SV) (508.87 KB - PDF)
+svenska (SV) (458.13 KB - PDF)
 
 **First published:**
 
@@ -679,11 +691,11 @@ svenska (SV) (508.87 KB - PDF)
 
 **Last updated:**
 
-25/08/2025
+06/01/2026
 
 [View](/sv/documents/product-information/tyverb-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000291894 21/08/2025
+**Latest procedure affecting product information:** VR/0000320526 05/01/2026
 
 icon globe
 
@@ -709,7 +721,7 @@ English (EN) (21.31 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tyverb-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-26)
+[Other languages (24)](#file-language-dropdown-191)
 
 български (BG) (41.63 KB - PDF)
 
@@ -1023,7 +1035,7 @@ Novartis Europharm Limited
 
 Vista Building
 
-Marketing authorisation issued 10/06/2008 Revision 38
+Marketing authorisation issued 10/06/2008 Revision 39
 
 ## Assessment history
 
@@ -1035,9 +1047,11 @@ Collapse section
 
 Tyverb : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (123.2 KB - PDF)
+English (EN) (146.99 KB - PDF)
 
 **First published:** 25/08/2025
+
+**Last updated:** 06/01/2026
 
 [View](/en/documents/procedural-steps-after/tyverb-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1188,7 +1202,7 @@ English (EN) (33.11 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 25/08/2025
+**This page was last updated on** 06/01/2026
 
 ## Share this page
 

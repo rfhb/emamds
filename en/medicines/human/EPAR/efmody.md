@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 13:13:20
+document_datetime: 2026-01-06 10:36:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/efmody.html
 document_name: efmody.html
 version: success
-processing_time: 0.0965729
-conversion_datetime: 2025-12-30 01:42:37.805762
+processing_time: 0.1110103
+conversion_datetime: 2026-01-10 11:36:01.467285
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -108,7 +108,7 @@ English (EN) (125.02 KB - PDF)
 
 [View](/en/documents/overview/efmody-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-3)
+[Other languages (22)](#file-language-dropdown-703)
 
 български (BG) (148.88 KB - PDF)
 
@@ -298,17 +298,17 @@ English (EN) (188.54 KB - PDF)
 
 Efmody : EPAR - Product information
 
-English (EN) (482.51 KB - PDF)
+English (EN) (456.76 KB - PDF)
 
 **First published:** 31/03/2025
 
-**Last updated:** 05/06/2025
+**Last updated:** 06/01/2026
 
 [View](/en/documents/product-information/efmody-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-846)
+[Other languages (24)](#file-language-dropdown-706)
 
-български (BG) (607.39 KB - PDF)
+български (BG) (592.02 KB - PDF)
 
 **First published:**
 
@@ -316,11 +316,11 @@ English (EN) (482.51 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/bg/documents/product-information/efmody-epar-product-information_bg.pdf)
 
-español (ES) (522.89 KB - PDF)
+español (ES) (497.4 KB - PDF)
 
 **First published:**
 
@@ -328,11 +328,11 @@ español (ES) (522.89 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/es/documents/product-information/efmody-epar-product-information_es.pdf)
 
-čeština (CS) (571.9 KB - PDF)
+čeština (CS) (556.64 KB - PDF)
 
 **First published:**
 
@@ -340,11 +340,11 @@ español (ES) (522.89 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/cs/documents/product-information/efmody-epar-product-information_cs.pdf)
 
-dansk (DA) (516.62 KB - PDF)
+dansk (DA) (496.2 KB - PDF)
 
 **First published:**
 
@@ -352,11 +352,11 @@ dansk (DA) (516.62 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/da/documents/product-information/efmody-epar-product-information_da.pdf)
 
-Deutsch (DE) (530.63 KB - PDF)
+Deutsch (DE) (508.25 KB - PDF)
 
 **First published:**
 
@@ -364,11 +364,11 @@ Deutsch (DE) (530.63 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/de/documents/product-information/efmody-epar-product-information_de.pdf)
 
-eesti keel (ET) (528.73 KB - PDF)
+eesti keel (ET) (496.48 KB - PDF)
 
 **First published:**
 
@@ -376,11 +376,11 @@ eesti keel (ET) (528.73 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/et/documents/product-information/efmody-epar-product-information_et.pdf)
 
-ελληνικά (EL) (618.39 KB - PDF)
+ελληνικά (EL) (585.28 KB - PDF)
 
 **First published:**
 
@@ -388,11 +388,11 @@ eesti keel (ET) (528.73 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/el/documents/product-information/efmody-epar-product-information_el.pdf)
 
-français (FR) (533.1 KB - PDF)
+français (FR) (504.4 KB - PDF)
 
 **First published:**
 
@@ -400,11 +400,11 @@ français (FR) (533.1 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/fr/documents/product-information/efmody-epar-product-information_fr.pdf)
 
-hrvatski (HR) (572.73 KB - PDF)
+hrvatski (HR) (554.51 KB - PDF)
 
 **First published:**
 
@@ -412,11 +412,11 @@ hrvatski (HR) (572.73 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/hr/documents/product-information/efmody-epar-product-information_hr.pdf)
 
-íslenska (IS) (485.58 KB - PDF)
+íslenska (IS) (464.55 KB - PDF)
 
 **First published:**
 
@@ -424,11 +424,11 @@ hrvatski (HR) (572.73 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/is/documents/product-information/efmody-epar-product-information_is.pdf)
 
-italiano (IT) (528.37 KB - PDF)
+italiano (IT) (498.72 KB - PDF)
 
 **First published:**
 
@@ -436,11 +436,11 @@ italiano (IT) (528.37 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/it/documents/product-information/efmody-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (593.38 KB - PDF)
+latviešu valoda (LV) (564.42 KB - PDF)
 
 **First published:**
 
@@ -448,11 +448,11 @@ latviešu valoda (LV) (593.38 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/lv/documents/product-information/efmody-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (605.01 KB - PDF)
+lietuvių kalba (LT) (587.84 KB - PDF)
 
 **First published:**
 
@@ -460,11 +460,11 @@ lietuvių kalba (LT) (605.01 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/lt/documents/product-information/efmody-epar-product-information_lt.pdf)
 
-magyar (HU) (623.92 KB - PDF)
+magyar (HU) (596.76 KB - PDF)
 
 **First published:**
 
@@ -472,11 +472,11 @@ magyar (HU) (623.92 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/hu/documents/product-information/efmody-epar-product-information_hu.pdf)
 
-Malti (MT) (612.32 KB - PDF)
+Malti (MT) (579.51 KB - PDF)
 
 **First published:**
 
@@ -484,11 +484,11 @@ Malti (MT) (612.32 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/mt/documents/product-information/efmody-epar-product-information_mt.pdf)
 
-Nederlands (NL) (529.02 KB - PDF)
+Nederlands (NL) (499.47 KB - PDF)
 
 **First published:**
 
@@ -496,11 +496,11 @@ Nederlands (NL) (529.02 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/nl/documents/product-information/efmody-epar-product-information_nl.pdf)
 
-norsk (NO) (513.51 KB - PDF)
+norsk (NO) (481.14 KB - PDF)
 
 **First published:**
 
@@ -508,11 +508,11 @@ norsk (NO) (513.51 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/no/documents/product-information/efmody-epar-product-information_no.pdf)
 
-polski (PL) (595.71 KB - PDF)
+polski (PL) (579.18 KB - PDF)
 
 **First published:**
 
@@ -520,11 +520,11 @@ polski (PL) (595.71 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/pl/documents/product-information/efmody-epar-product-information_pl.pdf)
 
-português (PT) (524.53 KB - PDF)
+português (PT) (493.06 KB - PDF)
 
 **First published:**
 
@@ -532,11 +532,11 @@ português (PT) (524.53 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/pt/documents/product-information/efmody-epar-product-information_pt.pdf)
 
-română (RO) (616.58 KB - PDF)
+română (RO) (586.87 KB - PDF)
 
 **First published:**
 
@@ -544,11 +544,11 @@ română (RO) (616.58 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/ro/documents/product-information/efmody-epar-product-information_ro.pdf)
 
-slovenčina (SK) (625.59 KB - PDF)
+slovenčina (SK) (608.42 KB - PDF)
 
 **First published:**
 
@@ -556,11 +556,11 @@ slovenčina (SK) (625.59 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/sk/documents/product-information/efmody-epar-product-information_sk.pdf)
 
-slovenščina (SL) (586.77 KB - PDF)
+slovenščina (SL) (567.57 KB - PDF)
 
 **First published:**
 
@@ -568,11 +568,11 @@ slovenščina (SL) (586.77 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/sl/documents/product-information/efmody-epar-product-information_sl.pdf)
 
-Suomi (FI) (541.44 KB - PDF)
+Suomi (FI) (514.01 KB - PDF)
 
 **First published:**
 
@@ -580,11 +580,11 @@ Suomi (FI) (541.44 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/fi/documents/product-information/efmody-epar-product-information_fi.pdf)
 
-svenska (SV) (516.02 KB - PDF)
+svenska (SV) (489.6 KB - PDF)
 
 **First published:**
 
@@ -592,11 +592,11 @@ svenska (SV) (516.02 KB - PDF)
 
 **Last updated:**
 
-05/06/2025
+06/01/2026
 
 [View](/sv/documents/product-information/efmody-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0013 27/03/2025
+**Latest procedure affecting product information:** VR/0000320546 05/01/2026
 
 icon globe
 
@@ -622,7 +622,7 @@ English (EN) (43.6 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/efmody-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-691)
+[Other languages (22)](#file-language-dropdown-291)
 
 български (BG) (70.24 KB - PDF)
 
@@ -908,7 +908,7 @@ Neurocrine Netherlands B.V.
 
 Van Heuven Goedhartlaan 935 A 1181 LD Amstelveen NETHERLANDS
 
-Opinion adopted 25/03/2021 Marketing authorisation issued 27/05/2021 Revision 7
+Opinion adopted 25/03/2021 Marketing authorisation issued 27/05/2021 Revision 8
 
 ## Assessment history
 
@@ -920,11 +920,11 @@ Collapse section
 
 Efmody : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (160.98 KB - PDF)
+English (EN) (143.36 KB - PDF)
 
 **First published:** 24/06/2022
 
-**Last updated:** 05/06/2025
+**Last updated:** 06/01/2026
 
 [View](/en/documents/procedural-steps-after/efmody-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -974,7 +974,7 @@ English (EN) (151.12 KB - PDF)
 
 This product is no longer an orphan medicine. It was originally [designated an orphan medicine](/en/medicines/human/orphan-designations/eu-3-05-296) on 27 July 2005. The product was withdrawn from the Union Register of orphan medicinal products by the European Commission in April 2021 upon request of the marketing authorisation holder at the time of the granting of a marketing authorisation.
 
-**This page was last updated on** 05/06/2025
+**This page was last updated on** 06/01/2026
 
 ## Share this page
 

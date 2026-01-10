@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-10-20 12:34:47
-document_pages: 34
+document_datetime: 2026-01-09 15:28:50
+document_pages: 36
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/onureg-epar-product-information_en.pdf
 document_name: onureg-epar-product-information_en.pdf
 version: success
-processing_time: 10.4429213
-conversion_datetime: 2025-12-27 10:05:11.909302
+processing_time: 12.2197422
+conversion_datetime: 2026-01-10 11:34:20.37229
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -28,7 +28,9 @@ Onureg 200 mg film-coated tablets Onureg 300 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Onureg 200 mg film-coated tablets Each film-coated tablet contains 200 mg azacitidine.
+## Onureg 200 mg film-coated tablets
+
+Each film-coated tablet contains 200 mg azacitidine.
 
 ## Excipient with known effect
 
@@ -68,11 +70,11 @@ Onureg treatment should be initiated and monitored under the supervision of a ph
 
 Patients are to be treated with an anti-emetic 30 minutes prior to each dose of Onureg for the first 2 treatment cycles. Anti-emetic prophylaxis may be omitted after 2 cycles, if there has been no nausea and vomiting (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Posology
 
 The recommended dose is 300 mg azacitidine orally once daily. Each repeated cycle consists of a treatment period of 14 days followed by a treatment free period of 14 days (28-day treatment cycle).
-
-<div style=\"page-break-after: always\"></div>
 
 Onureg treatment should be continued until no more than 15% blasts are observed in peripheral blood or bone marrow or until unacceptable toxicity (see dose schedule modification guidance for disease relapse).
 
@@ -90,25 +92,24 @@ In the case of disease relapse, with 5% to 15% blasts in peripheral blood or bon
 
 Dose modification guidelines for haematologic and non-haematologic adverse reactions are recommended based on clinical and laboratory findings (see Table 1).
 
+<div style=\"page-break-after: always\"></div>
+
 Table 1: Dose adjustments for haematologic and non-haematologic adverse reactions
 
 | Criteria*                                                          | Recommended action                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Grade 4 neutropenia or Grade 3 neutropenia with fever              | First occurrence • Interrupt Onureg. Resume the treatment cycle at the same dose once neutrophils return to Grade 2 or lower. • Use supportive care such as granulocyte colony stimulating factor (GCSF), as clinically indicated (see section 4.4). Occurrence in 2 consecutive cycles • Interrupt Onureg. Resume the treatment cycle at a reduced dose of 200 mg after neutrophils return to Grade 2 or lower. • If a patient continues to experience the toxicity after dose reduction, reduce the treatment duration by 7 days. • If the toxicity continues or re-occurs after dose and schedule reduction, discontinue Onureg. • Use supportive care such as GCSF, as clinically indicated (see section 4.4). |
 | Grade 4 thrombocytopenia or Grade 3 thrombocytopenia with bleeding | First occurrence • Interrupt Onureg. Resume the treatment cycle at the same dose once platelets return to Grade 2 or lower. Occurrence in 2 consecutive cycles • Interrupt Onureg. Resume the treatment cycle at a reduced dose of 200 mg after platelets return to Grade 2 or lower. • If a patient continues to experience the toxicity after dose reduction, reduce the treatment duration by 7 days. • If the toxicity continues or re-occurs after dose and schedule reduction, discontinue Onureg.                                                                                                                                                                                                           |
-
-<div style=\"page-break-after: always\"></div>
-
-| Criteria*                                         | Recommended action                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|---------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Grade 3 or higher nausea, vomiting or diarrhoea   | • Interrupt Onureg. Resume the treatment cycle at the same dose once toxicity has resolved to Grade 1 or lower. • Use supportive care such as anti-emetic therapy and treat diarrhoea at the onset of symptoms (see section 4.4). • If event re-occurs, interrupt dose until resolved to Grade 1 or lower and reduce the dose to 200 mg. • If a patient continues to experience the toxicity after dose reduction, reduce the treatment duration by 7 days. • If the toxicity continues or re-occurs after dose and schedule reduction, discontinue Onureg. |
-| Other Grade 3 or higher non-haematological events | • Interrupt Onureg and provide medical support according to local recommendations. Resume the treatment cycle at the same dose once toxicity has resolved to Grade 1 or lower. • If the toxicity re-occurs, interrupt Onureg until resolved to Grade 1 or lower and reduce dose to 200 mg. • If a patient continues to experience the toxicity after dose reduction, reduce the treatment duration by 7 days. • If the toxicity continues or re-occurs after dose and schedule reduction, discontinue Onureg.                                               |
+| Grade 3 or higher nausea, vomiting or diarrhoea                    | • Interrupt Onureg. Resume the treatment cycle at the same dose once toxicity has resolved to Grade 1 or lower. • Use supportive care such as anti-emetic therapy and treat diarrhoea at the onset of symptoms (see section 4.4). • If event re-occurs, interrupt dose until resolved to Grade 1 or lower and reduce the dose to 200 mg. • If a patient continues to experience the toxicity after dose reduction, reduce the treatment duration by 7 days. • If the toxicity continues or re-occurs after dose and schedule reduction, discontinue Onureg.                                                                                                                                                        |
+| Other Grade 3 or higher non-haematological events                  | • Interrupt Onureg and provide medical support according to local recommendations. Resume the treatment cycle at the same dose once toxicity has resolved to Grade 1 or lower. • If the toxicity re-occurs, interrupt Onureg until resolved to Grade 1 or lower and reduce dose to 200 mg. • If a patient continues to experience the toxicity after dose reduction, reduce the treatment duration by 7 days. • If the toxicity continues or re-occurs after dose and schedule reduction, discontinue Onureg.                                                                                                                                                                                                      |
 
 * Grade 1 is mild, Grade 2 is moderate, Grade 3 is severe, Grade 4 is life-threatening. Toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Events Version 4.3 (NCICTCAE v4.3).
 
 ## Missed or delayed doses
 
 If a dose of Onureg is missed, or not taken at the usual time, the dose should be taken as soon as possible on the same day. Then, the next scheduled dose should be taken at the normal time the following day. Two doses should not be taken on the same day.
+
+<div style=\"page-break-after: always\"></div>
 
 If a dose is vomited, another dose must not be taken on the same day. Instead return to the normal time of dose administration the following day.
 
@@ -132,9 +133,9 @@ Patients with moderate (BIL &gt; 1.5 to 3 × ULN) and severe hepatic impairment 
 
 The safety and efficacy of Onureg in children and adolescents below 18 years have not been established. No data are available.
 
-## Method of administration Onureg is for oral use.
+## Method of administration
 
-<div style=\"page-break-after: always\"></div>
+Onureg is for oral use.
 
 Onureg can be taken with or without food. The tablets should be swallowed whole with a glass of water at about the same time each day. They should not be split, crushed, dissolved or chewed (see section 6.6).
 
@@ -150,6 +151,12 @@ Breast-feeding (see section 4.6).
 
 Treatment with Onureg can be associated with neutropenia, thrombocytopenia and febrile neutropenia (see section 4.8 for frequencies). Interruption, reduction or discontinuation of Onureg may be necessary to manage haematological toxicities. Patients should be advised to promptly report febrile episodes. Patients with low platelet counts should be advised to report early signs or symptoms of bleeding. Supportive care such as antibiotics and/or antipyretics for management of infection/fever and GCSF for neutropenia should be provided based on individual patient characteristics, treatment response and according to the current clinical guidelines (see section 4.2 Table 1).
 
+Complete blood counts should be performed prior to initiation of therapy. Complete blood count monitoring is also recommended every other week for the first 2 cycles (56 days), every other week for the next 2 cycles after dose adjustment, and monthly thereafter, prior to the start of subsequent cycles of treatment.
+
+<div style=\"page-break-after: always\"></div>
+
+Patients with moderate (BIL &gt; 1.5 to 3 × ULN) and severe hepatic impairment (BIL &gt; 3 × ULN) should be monitored more frequently for adverse reactions and appropriate dose adjustment should be made (see section 4.2 Table 1).
+
 ## Differentiation syndrome
 
 Cases of differentiation syndrome (also known as retinoic acid syndrome) have been reported in patients receiving oral azacitidine. Differentiation syndrome may be fatal and symptoms and clinical findings include respiratory distress, pulmonary infiltrates, fever, rash, pulmonary oedema, peripheral oedema, rapid weight gain, pleural effusions, pericardial effusions, hypotension and renal dysfunction (see section 4.8). Treatment with high-dose IV corticosteroids and haemodynamic monitoring should be considered at first onset of symptoms or signs suggestive of differentiation syndrome. Temporary discontinuation of oral azacitidine should be considered until resolution of symptoms and if resumed, caution is advised.
@@ -164,7 +171,7 @@ Women of childbearing potential have to use effective contraception during and u
 
 ## Lactose intolerance
 
-Onureg tablets contain lactose. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+Onureg tablets contain lactose monohydrate. Patients with rare hereditary problems of galactose intolerance, total lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
 ## Sodium content
 
@@ -174,15 +181,17 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that
 
 No formal clinical drug-drug interaction studies with azacitidine have been conducted.
 
-<div style=\"page-break-after: always\"></div>
-
 In case of concomitant administration with other antineoplastic agents, caution and monitoring is recommended as an antagonistic, additive, or synergistic pharmacodynamic effect cannot be excluded. These effects may be dependent on the dose, sequence and schedule of administration.
 
 Onureg exposure was minimally affected when co-administered with a proton pump inhibitor (omeprazole). Therefore, dose modification is not required when Onureg is co-administered with proton pump inhibitors or other pH modifiers.
 
 An in vitro study of azacitidine with human liver fractions indicated that azacitidine was not metabolised by cytochrome P450 isoforms (CYPs). Therefore, interactions with CYP inducers or inhibitors are considered unlikely (see section 5.2).
 
-Clinically relevant inhibitory or inductive effects of azacitidine on the metabolism of cytochrome P450 substrates are unlikely (see section 5.2). No clinically relevant drug-drug interactions are expected when Onureg is co-administered with substrates of P-glycoprotein (P-gp), breast cancer resistance protein (BCRP), organic anion transporters (OAT) OAT1 and OAT3, organic anion transporting polypeptides (OATP) OATP1B1 and OATP1B3, or organic cation transporter (OCT) OCT2.
+Clinically relevant inhibitory or inductive effects of azacitidine on the metabolism of cytochrome P450 substrates are unlikely (see section 5.2). No clinically relevant drug-drug interactions are
+
+<div style=\"page-break-after: always\"></div>
+
+expected when Onureg is co-administered with substrates of P-glycoprotein (P-gp), breast cancer resistance protein (BCRP), organic anion transporters (OAT) OAT1 and OAT3, organic anion transporting polypeptides (OATP) OATP1B1 and OATP1B3, or organic cation transporter (OCT) OCT2.
 
 Azacitidine is not a substrate of P-gp, therefore it is not expected to interact with P-gp inducers or inhibitors.
 
@@ -208,19 +217,19 @@ There are no human data on the effect of azacitidine on fertility. In animals, a
 
 Onureg has minor influence on the ability to drive and use machines. Fatigue has been reported with the use of Onureg. Therefore, caution is recommended when driving or operating machines.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
-The most common adverse reactions are nausea (64.8%), vomiting (59.7%), diarrhoea (50.4%), neutropenia (44.5%), fatigue/asthenia (44.1%) 5 , constipation (38.6%), thrombocytopenia (33.5%), abdominal pain (21.6%) 4 , respiratory tract infection (17%) 2 , arthralgia (13.6%), decreased appetite (12.7%), febrile neutropenia (11.9%), back pain (11.9%), leucopenia (10.6%), pain in extremity (10.6%) and pneumonia (10.2%) 1 .
+The most common adverse reactions are nausea (64.8%), vomiting (59.7%), diarrhoea (50.4%), neutropenia (44.5%), fatigue/asthenia (44.1%) 5 , constipation (38.6%), thrombocytopenia (33.5%), abdominal pain (21.6%) 4 , respiratory tract infection (17%) 2 , arthralgia (13.6%), decreased appetite (12.7%), febrile neutropenia (11.9%), back pain (11.9%), leukopenia (10.6%), pain in extremity (10.6%) and pneumonia (10.2%) 1 .
 
 Serious adverse reactions occurred in 16.1% of patients receiving Onureg. The most common serious adverse reactions are febrile neutropenia (6.8%) and pneumonia (5.1%) 1 .
 
+<div style=\"page-break-after: always\"></div>
+
 Permanent discontinuation of Onureg due to an adverse reaction occurred in 6.8% of patients. The most common adverse reactions requiring permanent discontinuation are nausea (2.1%), diarrhoea (1.7%), and vomiting (1.3%).
 
-Dose interruptions due to an adverse reaction occurred in 36.4% of patients who received Onureg. Adverse reactions requiring dose interruption include neutropenia (19.9%), thrombocytopenia (8.5%), nausea (5.5%), diarrhoea (4.2%), vomiting (3.8%), pneumonia (3.4%) 1 , leucopenia (2.5%), febrile neutropenia (2.1%), and abdominal pain (2.1%) 4 .
+Dose interruptions due to an adverse reaction occurred in 36.4% of patients who received Onureg. Adverse reactions requiring dose interruption include neutropenia (19.9%), thrombocytopenia (8.5%), nausea (5.5%), diarrhoea (4.2%), vomiting (3.8%), pneumonia (3.4%) 1 , leukopenia (2.5%), febrile neutropenia (2.1%), and abdominal pain (2.1%) 4 .
 
 Dose reductions due to an adverse reaction period occurred in 14% of patients who received Onureg. Adverse reactions requiring dose reduction included neutropenia (5.5%), diarrhoea (3.4%), thrombocytopenia (1.7%), and nausea (1.7%).
 
@@ -228,36 +237,42 @@ Dose reductions due to an adverse reaction period occurred in 14% of patients wh
 
 Table 2 presents the frequency category of ADRs reported during clinical trials with Onureg and postmarketing use. A total of 236 patients received Onureg in the pivotal Phase 3 study. The median treatment duration was 11.6 months (range: 0.5 to 74.3 months) in the Onureg arm.
 
-Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. Adverse reactions are presented in the table below according to the highest frequency observed.
+Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. Adverse reactions are presented in the table below according to the highest frequency observed.
 
 Table 2: Adverse drug reactions (ADRs) in AML patients receiving Onureg maintenance therapy
 
-| System organ class                                                   | All grades a frequency                                                                                                        |
-|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations                                          | Very common Pneumonia 1, 6 , respiratory tract infection 2 Common Influenza, urinary tract infection 3 , bronchitis, rhinitis |
-| Neoplasms benign, malignant and unspecified (incl. cysts and polyps) | Not known Differentiation syndrome                                                                                            |
-| Blood and lymphatic system disorders                                 | Very common Neutropenia, thrombocytopenia 6 , febrile neutropenia 6 , leucopenia                                              |
-| Metabolism and nutrition disorders                                   | Very common Decreased appetite                                                                                                |
-| Psychiatric disorders                                                | Common Anxiety                                                                                                                |
-| Gastrointestinal disorders                                           | Very common Nausea, vomiting, diarrhoea, constipation, abdominal pain 4                                                       |
+| System organ class                                                   | All grades a frequency                                                                                                                                     |
+|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                                          | Very common Pneumonia 1, 6 Respiratory tract infection 2 Common Sepsis Influenza Urinary tract infection 3 Bronchitis Rhinitis Uncommon Neutropenic sepsis |
+| Neoplasms benign, malignant and unspecified (incl. cysts and polyps) | Not known Differentiation syndrome                                                                                                                         |
+| Blood and lymphatic system disorders                                 | Very common Neutropenia Thrombocytopenia 6 Febrile neutropenia 6 Leukopenia                                                                                |
+| Metabolism and nutrition disorders                                   | Very common Decreased appetite                                                                                                                             |
+| Psychiatric disorders                                                | Common Anxiety                                                                                                                                             |
 
 <div style=\"page-break-after: always\"></div>
 
-| System organ class                                   | All grades a frequency                               |
-|------------------------------------------------------|------------------------------------------------------|
-| Musculoskeletal and connective tissue disorders      | Very common Arthralgia, back pain, pain in extremity |
-| General disorders and administration site conditions | Very common Fatigue / asthenia 5                     |
-| Investigations                                       | Common Weight decreased                              |
+| System organ class                                   | All grades a frequency                                              |
+|------------------------------------------------------|---------------------------------------------------------------------|
+| Gastrointestinal disorders                           | Very common Nausea Vomiting Diarrhoea Constipation Abdominal pain 4 |
+| Musculoskeletal and connective tissue disorders      | Very common Arthralgia Back pain Pain in extremity                  |
+| General disorders and administration site conditions | Very common Fatigue / asthenia 5                                    |
+| Investigations                                       | Common Weight decreased                                             |
+
+- 4 Grouped terms include abdominal pain, abdominal pain upper, abdominal discomfort, and gastrointestinal pain.
+
+5 Grouped terms include fatigue and asthenia.
+
+6 Adverse reactions in which at least one was considered to be life threatening (if the outcome of the reaction was death, it is included with death cases).
 
 ## Description of selected adverse reactions
 
 ## Haematological toxicity
 
-New or worsening Grade 3 or higher neutropenia (41.1%), thrombocytopenia (22.5%), or febrile neutropenia (11.4%) were commonly reported adverse reactions in patients treated with Onureg. The first occurrence of Grade 3 or 4 neutropenia, thrombocytopenia, or febrile neutropenia occurred within the first 2 cycles in 19.9%, 10.6%, and 1.7%, respectively in patients treated with Onureg. See section 4.2 for monitoring and management guidance.
+New or worsening Grade 3 or higher neutropenia (41.1%), thrombocytopenia (22.5%), or febrile neutropenia (11.4%) were commonly reported adverse reactions in patients treated with Onureg. The first occurrence of Grade 3 or 4 neutropenia, thrombocytopenia, or febrile neutropenia occurred within the first 2 cycles in 19.9%, 10.6%, and 1.7%, respectively in patients treated with Onureg (see section 4.2).
 
 ## Gastrointestinal toxicity
 
-Gastrointestinal toxicities were the most frequent adverse reactions in patients treated with Onureg. Nausea (64.8%), vomiting (59.7%), and diarrhoea (50.4%) were reported in patients treated with Onureg. Grade 3 or higher diarrhoea occurred in 5.1% of patients and Grade 3 or higher vomiting and nausea occurred in 3.0% and 2.5%, respectively in patients treated with Onureg. The first occurrence of Grade 3 or 4 nausea, vomiting, or diarrhoea occurred within the first 2 cycles in 1.7%, 3.0%, and 1.3%, respectively, in patients treated with Onureg. See section 4.2 for monitoring and management guidance.
+Gastrointestinal toxicities were the most frequent adverse reactions in patients treated with Onureg. Nausea (64.8%), vomiting (59.7%), and diarrhoea (50.4%) were reported in patients treated with Onureg. Grade 3 or higher diarrhoea occurred in 5.1% of patients and Grade 3 or higher vomiting and nausea occurred in 3.0% and 2.5%, respectively in patients treated with Onureg. The first occurrence of Grade 3 or 4 nausea, vomiting, or diarrhoea occurred within the first 2 cycles in 1.7%, 3.0%, and 1.3%, respectively, in patients treated with Onureg (see section 4.2).
 
 ## Reporting of suspected adverse reactions
 
@@ -267,13 +282,13 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 
 In the event of overdose, the patient should be monitored with appropriate blood counts and supportive treatment should be provided, as necessary, according to local recommendations. There is no known specific antidote for an overdose with Onureg.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. PHARMACOLOGICAL PROPERTIES
 
 ## 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antineoplastic agents, antimetabolites, pyrimidine analogues, ATC code: L01BC07
-
-<div style=\"page-break-after: always\"></div>
 
 ## Mechanism of action
 
@@ -281,7 +296,7 @@ Azacitidine is a DNA methyltransferase inhibitor and epigenetic modifier. Azacit
 
 ## Clinical efficacy and safety
 
-The efficacy and safety of Onureg was studied in a multi-centre, placebo-controlled, Phase 3 study QUAZAR AML-001 (CC-486-AML-001) with a double-blind, randomised, parallel-group design which evaluated Onureg versus placebo as maintenance therapy in AML patients. Patients were enrolled with de novo AML, AML secondary to prior diagnosis of myelodysplastic syndromes (MDS), or chronic myelomonocytic leukaemia ( CMML); the patients were aged ≥ 55 years, and had achieved first complete remission (CR) or complete remission with incomplete blood count recovery (CRi) within 4 months (+/- 7 days) after intensive induction chemotherapy with or without consolidation therapy. Patients were not eligible for HSCT at the time of randomisation, which included patients who did not have a transplant donor, or who chose not to proceed to HSCT.
+The efficacy and safety of Onureg was studied in a multi-centre, placebo-controlled, Phase 3 study QUAZAR AML-001 (CC-486-AML-001) with a double-blind, randomised, parallel-group design which evaluated Onureg versus placebo as maintenance therapy in AML patients. Patients were enrolled with de novo AML, AML secondary to prior diagnosis of myelodysplastic syndromes (MDS), or chronic myelomonocytic leukaemia (CMML); the patients were aged ≥ 55 years, and had achieved first complete remission (CR) or complete remission with incomplete blood count recovery (CRi) within 4 months (+/- 7 days) after intensive induction chemotherapy with or without consolidation therapy. Patients were not eligible for HSCT at the time of randomisation, which included patients who did not have a transplant donor, or who chose not to proceed to HSCT.
 
 Patients in both treatment arms received best supportive care as deemed necessary by the investigator. Best supportive care included, but was not limited to, treatment with red blood cell (RBC) transfusions, platelet transfusions, use of erythropoiesis stimulating agent, antibiotic, antiviral and/or antifungal therapy, GCSF, anti-emetic therapy, and nutritional support.
 
@@ -291,21 +306,18 @@ A total of 472 patients were randomised 1:1 between Onureg and placebo treatment
 
 Of the 469 patients in the Phase 3 study who received treatment, 61% (285/469) were 65 years of age or older and 11% (51/469) were 75 years of age or older. No overall differences in safety or efficacy of Onureg were observed between these patients and younger patients.
 
-Table 3: Baseline demographics and disease-related characteristics in study CC-486-AML-001
-
-| Parameter                | Onureg (N = 238)   | Placebo (N = 234)   |
-|--------------------------|--------------------|---------------------|
-| Age (years)              |                    |                     |
-| Median (min, max)        | 68.0 (55, 86)      | 68.0 (55, 82)       |
-| Age category, n (%)      |                    |                     |
-| < 65 years               | 66 (27.7)          | 68 (29.1)           |
-| ≥ 65 years to < 75 years | 144 (60.5)         | 142 (60.7)          |
-| ≥ 75 years               | 28 (11.8)          | 24 (10.3)           |
-
 <div style=\"page-break-after: always\"></div>
+
+Table 3: Baseline demographics and disease-related characteristics in study CC-486-AML-001
 
 | Parameter                                   | Onureg (N = 238)   | Placebo (N = 234)   |
 |---------------------------------------------|--------------------|---------------------|
+| Age (years)                                 |                    |                     |
+| Median (min, max)                           | 68.0 (55, 86)      | 68.0 (55, 82)       |
+| Age category, n (%)                         |                    |                     |
+| < 65 years                                  | 66 (27.7)          | 68 (29.1)           |
+| ≥ 65 years to < 75 years                    | 144 (60.5)         | 142 (60.7)          |
+| ≥ 75 years                                  | 28 (11.8)          | 24 (10.3)           |
 | Sex, n (%)                                  |                    |                     |
 | Male                                        | 118 (49.6)         | 127 (54.3)          |
 | Female                                      | 120 (50.4)         | 107 (45.7)          |
@@ -343,13 +355,13 @@ CRi = Morphologic CR with incomplete blood count recovery.
 
 1 Intermediate risk was defined as normal cytogenetics +8, t(9;11), or other undefined.
 
-2 Poor risk was defined as c omplex (≥ 3 abnormalities): -5; 5q-; -7; 7q-; 11q23 - non t(9;11); inv(3); t(3;3); t(6;9); or t(9;22). Source for Intermediate and Poor Risk: National comprehensive cancer network clinical practice guidelines in oncology for AML.
+<div style=\"page-break-after: always\"></div>
+
+2 Poor risk was defined as complex (≥ 3 abnormalities): -5; 5q-; -7; 7q-; 11q23 - non t(9;11); inv(3); t(3;3); t(6;9); or t(9;22). Source for Intermediate and Poor Risk: National comprehensive cancer network clinical practice guidelines in oncology for AML.
 
 3 MRD status in bone marrow was measured during screening period by flow cytometric assay at a sensitivity level of 0.1%.
 
 Most patients received consolidation therapy after induction therapy in both the Onureg (78%) and placebo (82%) treatment arms; more than 90% of these patients in each treatment arm received 1 or 2 cycles of consolidation therapy after induction therapy (Table 4).
-
-<div style=\"page-break-after: always\"></div>
 
 Table 4: Consolidation therapy in study CC-486-AML-001
 
@@ -367,39 +379,38 @@ Table 4: Consolidation therapy in study CC-486-AML-001
 | Not in CR/CRi a , n (%)                            | 5 (2.1)            | 11 (4.7)            |
 | Missing, n (%)                                     | 0 (0)              | 2 (0.9)             |
 
-CR = Complete remission; CRi = Morphologic CR with incomplete blood count recovery.
-
-a These patients had baseline bone marrow of less than 5% blasts and both ANC &lt; 1 x 10 9 and platelets &lt; 100 x 10 9 .
-
 The efficacy of Onureg in adult patients with AML was established based on overall survival (OS) and relapse-free survival (RFS).
 
 The efficacy results are summarised in the Table 5.
 
 Table 5: CC-486-AML-001 efficacy results (ITT Population)
 
-| Endpoints                                                 | Onureg (N = 238)         | Placebo (N = 234)        |
-|-----------------------------------------------------------|--------------------------|--------------------------|
-| Overall survival                                          |                          |                          |
-| OS events, n (%)                                          | 158 (66.4)               | 171 (73.1)               |
-| Median OS, months (95% CI)                                | 24.7 (18.7, 30.5)        | 14.8 (11.7, 17.6)        |
-| Hazard ratio (95% CI) p-value                             | 0.69 (0.55, 0.86) 0.0009 | 0.69 (0.55, 0.86) 0.0009 |
-| Relapse-free survival                                     |                          |                          |
-| Events, n (%)                                             | 164 (68.9)               | 181 (77.4)               |
-| Median RFS, months (95% CI)                               | 10.2 (7.9, 12.9)         | 4.8 (4.6, 6.4)           |
-| Hazard ratio (95% CI) p-value                             | 0.65 (0.52, 0.81) 0.0001 | 0.65 (0.52, 0.81) 0.0001 |
-| Time to relapse                                           |                          |                          |
-| Relapsed, n (%)                                           | 154 (64.7)               | 179 (76.5)               |
-| Median time to relapse, months (95% CI)                   | 10.2 (8.3, 13.4)         | 4.9 (4.6, 6.4)           |
-| Time to discontinuation from treatment                    |                          |                          |
-| Treatment discontinued, n (%)                             | 193 (81.1)               | 208 (88.9)               |
-| Median time to treatment discontinuation, months (95% CI) | 11.4 (9.8, 13.6)         | 6.1 (5.1, 7.4)           |
-| Treatment discontinued - disease relapse, n (%)           | 143 (60.1)               | 180 (76.9)               |
+| Endpoints                               | Onureg (N = 238)         | Placebo (N = 234)        |
+|-----------------------------------------|--------------------------|--------------------------|
+| Overall survival                        |                          |                          |
+| OS events, n (%)                        | 158 (66.4)               | 171 (73.1)               |
+| Median OS, months (95% CI)              | 24.7 (18.7, 30.5)        | 14.8 (11.7, 17.6)        |
+| Hazard ratio (95% CI) p-value           | 0.69 (0.55, 0.86) 0.0009 | 0.69 (0.55, 0.86) 0.0009 |
+| Relapse-free survival                   |                          |                          |
+| Events, n (%)                           | 164 (68.9)               | 181 (77.4)               |
+| Median RFS, months (95% CI)             | 10.2 (7.9, 12.9)         | 4.8 (4.6, 6.4)           |
+| Hazard ratio (95% CI) p-value           | 0.65 (0.52, 0.81) 0.0001 | 0.65 (0.52, 0.81) 0.0001 |
+| Time to relapse                         |                          |                          |
+| Relapsed, n (%)                         | 154 (64.7)               | 179 (76.5)               |
+| Median time to relapse, months (95% CI) | 10.2 (8.3, 13.4)         | 4.9 (4.6, 6.4)           |
+
+<div style=\"page-break-after: always\"></div>
+
+| Endpoints                                                 | Onureg (N = 238)   | Placebo (N = 234)   |
+|-----------------------------------------------------------|--------------------|---------------------|
+| Time to discontinuation from treatment                    |                    |                     |
+| Treatment discontinued, n (%)                             | 193 (81.1)         | 208 (88.9)          |
+| Median time to treatment discontinuation, months (95% CI) | 11.4 (9.8, 13.6)   | 6.1 (5.1, 7.4)      |
+| Treatment discontinued - disease relapse, n (%)           | 143 (60.1)         | 180 (76.9)          |
 
 CI = Confidence interval.
 
 Prespecified subgroup analyses of OS and RFS showed a consistent treatment effect for Onureg across demographic and disease-related subgroups including baseline cytogenetic risk, the number of prior consolidation cycles received, and CR/CRi status.
-
-<div style=\"page-break-after: always\"></div>
 
 The Kaplan-Meier curves display the OS (see Figure 1) and RFS (see Figure 2) results.
 
@@ -413,13 +424,17 @@ Number at risk
 |----------|
 | Placebo  |
 
+<div style=\"page-break-after: always\"></div>
+
+| ONUREG   |
+|----------|
+| Placebo  |
+
 Figure 2: Kaplan-Meier curve for relapse free survival: Onureg versus placebo (ITT Population)
 
 <!-- image -->
 
 In patients who had their dose schedule extended to 300 mg for 21 days due to disease relapse, the median OS (22.8 months for Onureg and 14.6 months for placebo) and median RFS (7.4 months for Onureg and 4.6 months for placebo) were comparable to the overall study results.
-
-<div style=\"page-break-after: always\"></div>
 
 Onureg demonstrated a favorable treatment effect for OS compared with placebo in both minimal residual disease (MRD)-positive and MRD-negative patients. The treatment effect for OS was more pronounced in MRD-positive patients (HR = 0.69; 95% CI: 0.51, 0.93) than in MRD-negative patients (HR = 0.81; 95% CI: 0.59, 1.12).
 
@@ -432,6 +447,8 @@ HRQoL was assessed using the Functional assessment of chronic illness therapy-fa
 ## Absorption
 
 Exposure was generally linear with dose-proportional increases in systemic exposure; high intersubject variability was observed. The geometric mean (coefficient of variation [%CV]) Cmax and AUC values after oral administration of a 300 mg single dose were 145.1 ng/mL (63.7) and 241.6 ng h/mL (64.5), respectively. Multiple dosing at the recommended dose regimen did not result in drug accumulation. Absorption of azacitidine was rapid, with a median Tmax of 1 hour post dose. Mean oral bioavailability relative to subcutaneous (SC) administration was approximately 11%.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Effect of food
 
@@ -453,8 +470,6 @@ The geometric mean apparent clearance was 1242 L/hour and the geometric mean hal
 
 The epigenetic regulatory effect of azacitidine on DNA global methylation reduction in the blood was sustained with prolonged exposure of 300 mg daily administered for 14 or 21 days of a 28-day cycle in myeloid cancers including AML patients from a Phase 1/2 study. A positive correlation was observed between azacitidine plasma exposure and the pharmacodynamic effect of reduction in global DNA methylation in blood.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Special populations
 
 ## Elderly
@@ -469,6 +484,8 @@ No formal studies have been conducted in patients with hepatic impairment. Hepat
 
 In patients with cancer, the PK of azacitidine in 6 patients with normal renal function (CLcr &gt;80 mL/min) and 6 patients with severe renal impairment (CLcr &lt;30 mL/min) were compared following daily subcutaneous dosing (Days 1 through 5) at 75 mg/m 2 /day. Severe renal impairment increased azacitidine exposure by approximately 70% after single and 41% after multiple subcutaneous administrations. This increase in exposure was not correlated with an increase in adverse events.
 
+<div style=\"page-break-after: always\"></div>
+
 A population PK analysis following a 300 mg dose of Onureg determined that patients with mild (CLcr: ≥ 60 to &lt; 90 mL/min), moderate (CLcr: ≥ 30 to &lt; 60 mL/min), and severe (CLcr: &lt; 30 mL/min) renal impairment had 19%, 25%, and 38% increases in azacitidine plasma AUC, respectively. The effect of severe renal impairment on Onureg was similar to the above referenced clinical renal impairment study with injectable azacitidine (~40% increase in AUC). The exposure of azacitidine (AUC) is approximately 75% lower after oral administration relative to the exposure achieved following SC administration; therefore, an increase in exposure of approximately 40% following oral administration is still considered safe and tolerable. Thus, no dose adjustment of Onureg is recommended in patients with mild, moderate, or severe renal impairment.
 
 ## Race/ethnicity
@@ -481,21 +498,27 @@ In a 14-day oral toxicity study in dogs, mortality occurred at doses of 8 and 16
 
 Azacitidine induces both gene mutations and chromosomal aberrations in bacterial and mammalian cell systems in vitro. The potential carcinogenicity of azacitidine was evaluated in mice and rats. Azacitidine induced tumours of the haematopoietic system in female mice, when administered intraperitoneally 3 times per week for 52 weeks. An increased incidence of tumours in the lymphoreticular system, lung, mammary gland, and skin was seen in mice treated with azacitidine administered intraperitoneally for 50 weeks. A tumorigenicity study in rats revealed an increased incidence of testicular tumours.
 
-<div style=\"page-break-after: always\"></div>
-
 Early embryotoxicity studies in mice revealed a 44% frequency of intrauterine embryonal death (increased resorption) after a single intraperitoneal injection of azacitidine during organogenesis. Developmental abnormalities in the brain have been detected in mice given azacitidine on or before closure of the hard palate. In rats, azacitidine caused no adverse reactions when given pre-implantation, but it was clearly embryotoxic when given during organogenesis. Foetal abnormalities during organogenesis in rats included: Central nervous system (CNS) anomalies (exencephaly/encephalocele), limb anomalies (micromelia, club foot, syndactyly, oligodactyly) and others (microphthalmia, micrognathia, gastroschisis, oedema, and rib abnormalities).
 
 Administration of azacitidine to male mice prior to mating with untreated female mice resulted in decreased fertility and loss of offspring during subsequent embryonic and postnatal development. Treatment of male rats resulted in decreased weight of the testes and epididymides, decreased sperm counts, decreased pregnancy rates, an increase in abnormal embryos and increased loss of embryos in mated females (see section 4.6).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Tablet content Croscarmellose sodium (E468) Magnesium stearate (E572) Mannitol (E421) Silicified microcrystalline cellulose (E460, E551)
+## Tablet content
 
-Onureg 200 mg tablet coating Opadry II pink containing: Hypromellose (E464) Titanium dioxide (E171) Lactose monohydrate Polyethylene glycol/macrogols (E1521) Triacetin (E1518) Iron oxide red (E172)
+Croscarmellose sodium (E468) Magnesium stearate (E572) Mannitol (E421) Silicified microcrystalline cellulose (E460, E551)
 
-Onureg 300 mg tablet coating Opadry II brown containing: Hypromellose (E464) Titanium dioxide (E171) Lactose monohydrate Polyethylene glycol/macrogols (E1521) Triacetin (E1518) Iron oxide red (E172) Iron oxide yellow (E172) Iron oxide black (E172)
+## Onureg 200 mg tablet coating
+
+Opadry II pink containing: Hypromellose (E464) Titanium dioxide (E171) Lactose monohydrate Polyethylene glycol/macrogols (E1521) Triacetin (E1518) Iron oxide red (E172)
+
+## Onureg 300 mg tablet coating
+
+Opadry II brown containing: Hypromellose (E464) Titanium dioxide (E171) Lactose monohydrate Polyethylene glycol/macrogols (E1521) Triacetin (E1518) Iron oxide red (E172) Iron oxide yellow (E172) Iron oxide black (E172)
 
 ## 6.2 Incompatibilities
 
@@ -509,8 +532,6 @@ Not applicable.
 
 This medicinal product does not require any special storage conditions.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.5 Nature and contents of container
 
 The film-coated tablets are packaged in nylon (OPA) / polyvinyl chloride (PVC) aluminium blisters with push through aluminium foil.
@@ -518,6 +539,8 @@ The film-coated tablets are packaged in nylon (OPA) / polyvinyl chloride (PVC) a
 Pack size of 7 or 14 film-coated tablets.
 
 Not all pack sizes may be marketed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.6 Special precautions for disposal and other handling
 
@@ -533,9 +556,13 @@ Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-Onureg 200 mg film-coated tablets EU/1/21/1556/001 EU/1/21/1556/002
+Onureg 200 mg film-coated tablets
 
-Onureg 300 mg film-coated tablets EU/1/21/1556/003 EU/1/21/1556/004
+EU/1/21/1556/001 EU/1/21/1556/002
+
+Onureg 300 mg film-coated tablets
+
+EU/1/21/1556/003 EU/1/21/1556/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -543,7 +570,7 @@ Date of first authorisation: 17 June 2021
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -571,8 +598,6 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 ## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
-
-The marketing authorisation holder (MAH) shall submit the first PSUR for this product within 6 months following authorisation.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -611,11 +636,11 @@ Each film-coated tablet contains 200 mg of azacitidine.
 
 ## 3. LIST OF EXCIPIENTS
 
-Contains lactose. See leaflet for further information.
+Contains lactose monohydrate. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablet
+## Film-coated tablet
 
 7 film-coated tablets
 
@@ -707,11 +732,11 @@ Each film-coated tablet contains 300 mg of azacitidine.
 
 ## 3. LIST OF EXCIPIENTS
 
-Contains lactose. See leaflet for further information.
+Contains lactose monohydrate. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablet
+## Film-coated tablet
 
 7 film-coated tablets
 
@@ -816,7 +841,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-25
+27
 
 <div style=\"page-break-after: always\"></div>
 
@@ -847,7 +872,7 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-26
+28
 
 <div style=\"page-break-after: always\"></div>
 
@@ -918,7 +943,7 @@ Tell your doctor, pharmacist or nurse straight away if you get any of these symp
 
 Azacitidine can cause a serious immune reaction called 'differentiation syndrome'(see section 4 'Possible side effects').
 
-Your doctor may need to change the dose, interrupt treatment or stop treatment with Onureg completely. The doctor may prescribe other medicines to help manage these symptoms.
+Your doctor may need to change the dose, interrupt treatment or stop treatment with Onureg completely. The doctor may prescribe other medicines to help manage these symptoms (see section 3 'How to take Onureg').
 
 ## Children and adolescents
 
@@ -944,7 +969,7 @@ Your doctor will discuss with you the most suitable method of contraception for 
 
 ## Breast-feeding
 
-Do not breast-feed while taking Onureg as it may be harmful to your child.
+Do not breast-feed while taking Onureg as it may be harmful to your child (see section 2 'Do not take Onureg').
 
 ## Fertility
 
@@ -958,7 +983,7 @@ You may feel tired, weak or have trouble concentrating. If this happens to you o
 
 ## Onureg contains lactose
 
-Onureg contains lactose. If you have been told by your doctor that you have intolerance to some sugars, contact your doctor before taking this medicine.
+Onureg contains lactose monohydrate. If you have been told by your doctor that you have intolerance to some sugars, contact your doctor before taking this medicine.
 
 ## Onureg contains sodium
 
@@ -971,7 +996,7 @@ Always take this medicine exactly as your doctor has told you. Check with your d
 ## How much to take
 
 - The recommended dose is 300 mg taken by mouth once daily.
-- Your doctor may reduce your dose to 200 mg once daily.
+- Your doctor may reduce your dose to 200 mg once daily in the events of adverse reactions.
 
 Onureg is given in treatment cycles of 28 days.
 
@@ -1023,13 +1048,15 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 Tell your doctor, pharmacist or nurse straight away if you get any of these symptoms during treatment with Onureg:
 
+Very common: may affect more than 1 in 10 people
+
 - bruising or bleeding - this could be due to a low count of blood cells called platelets;
 - fever - this could be due to an infection as a result of having low levels of white blood cells, which can be life-threatening;
 - diarrhoea, vomiting or nausea (feeling sick).
 
 ## Other side effects include:
 
-Very common side effects (may affect more than 1 in 10 people):
+Very common: may affect more than 1 in 10 people
 
 - constipation
 - pain in your belly
@@ -1041,8 +1068,9 @@ Very common side effects (may affect more than 1 in 10 people):
 - stiff joints
 - back pain.
 
-Common side effects (may affect up to 1 in 10 people):
+Common: may affect up to 1 in 10 people
 
+- an infection of the blood caused by bacteria (sepsis) - this may be due to low levels of white cells in your blood
 - flu
 - infection of the urinary tract
 - hay fever
@@ -1061,11 +1089,11 @@ If you get any side effects, talk to your doctor. This includes any possible sid
 
 Keep this medicine out of the sight and reach of children.
 
+<div style=\"page-break-after: always\"></div>
+
 Do not use this medicine after the expiry date which is stated on the blister and the carton after EXP. The expiry date refers to the last day of that month.
 
 This medicine does not require any special storage conditions.
-
-<div style=\"page-break-after: always\"></div>
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
@@ -1075,16 +1103,16 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - The active substance is azacitidine. Each film-coated tablet contains either 200 mg or 300 mg azacitidine.
 - The other ingredients are croscarmellose sodium (E468), magnesium stearate (E572), mannitol (E421), and silicified microcrystalline cellulose (E460, E551).
-- The 200 mg tablet coating - Opadry II pink contains: hypromellose (E464), titanium dioxide (E171), lactose monohydrate, polyethylene glycol/macrogols (E1521), triacetin (E1518), and iron oxide red (E172). See section 2 'Onureg contains sodium'.
-- The 300 mg tablet coating - Opadry II brown contains: hypromellose (E464), titanium dioxide (E171), lactose monohydrate, polyethylene glycol/macrogols (E1521), triacetin (E1518), iron oxide red (E172), iron oxide yellow (E172), and iron oxide black (E172). See section 2 'Onureg contains sodium'.
+- The 200 mg tablet coating - Opadry II pink contains: hypromellose (E464), titanium dioxide (E171), lactose monohydrate, polyethylene glycol/macrogols (E1521), triacetin (E1518), and iron oxide red (E172). See section 2 'Onureg contains lactose and sodium'.
+- The 300 mg tablet coating - Opadry II brown contains: hypromellose (E464), titanium dioxide (E171), lactose monohydrate, polyethylene glycol/macrogols (E1521), triacetin (E1518), iron oxide red (E172), iron oxide yellow (E172), and iron oxide black (E172). See section 2 'Onureg contains lactose and sodium'.
 
 ## What Onureg looks like and contents of the pack
 
-Onureg 200 mg film-coated tablets are pink and oval shaped with '200' imprinted on one side and 'ONU' on the other side.
+Onureg 200 mg film-coated tablets (tablets) are pink and oval shaped with '200' imprinted on one side and 'ONU' on the other side.
 
-Onureg 300 mg film-coated tablets are brown and oval shaped with '300' imprinted on one side and 'ONU' on the other side.
+Onureg 300 mg film-coated tablets (tablets) are brown and oval shaped with '300' imprinted on one side and 'ONU' on the other side.
 
-The film-coated tablets are packaged in aluminium foil blisters.
+The tablets are packaged in aluminium foil blisters.
 
 Each pack contains either 7 or 14 film-coated tablets. Not all pack sizes may be marketed.
 
@@ -1102,21 +1130,17 @@ For any information about this medicine, please contact the local representative
 
 N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
 
-## България
-
-Swixx Biopharma EOOD Teл.: + 359 2 4942 480
-
-medinfo.bulgaria@swixxbiopharma.com
-
 ## Lietuva
 
-Swixx Biopharma UAB Tel: + 370 52 369140 medinfo.lithuania@swixxbiopharma.com
+Swixx Biopharma UAB Tel: + 370 52 369140
 
-## Luxembourg/Luxemburg
-
-N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
+medinfo.lithuania@swixxbiopharma.com
 
 <div style=\"page-break-after: always\"></div>
+
+## България
+
+Swixx Biopharma EOOD Teл.: + 359 2 4942 480 medinfo.bulgaria@swixxbiopharma.com
 
 ## Česká republika
 
@@ -1156,11 +1180,11 @@ Bristol-Myers Squibb Pharmaceuticals uc Tel: 1 800 749 749 (+ 353 (0)1 483 3625)
 
 ## Ísland
 
-Vistor hf. Sími: + 354 535 7000 vistor@vistor.is medical.information@bms.com
+Vistor ehf. Sími: + 354 535 7000 medical.information@bms.com
 
-## Italia
+## Luxembourg/Luxemburg
 
-Bristol-Myers Squibb S.r.l. Tel: + 39 06 50 39 61 medicalinformation.italia@bms.com
+N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
 
 ## Magyarország
 
@@ -1202,23 +1226,29 @@ Swixx Biopharma d.o.o. Tel: + 386 1 2355 100 medinfo.slovenia@swixxbiopharma.com
 
 Swixx Biopharma s.r.o. Tel: + 421 2 20833 600 medinfo.slovakia@swixxbiopharma.com
 
-## Suomi/Finland
-
-Oy Bristol-Myers Squibb (Finland) Ab Puh/Tel: + 358 9 251 21 230 medinfo.finland@bms.com
-
 <div style=\"page-break-after: always\"></div>
+
+## Italia
+
+Bristol-Myers Squibb S.r.l. Tel: + 39 06 50 39 61 medicalinformation.italia@bms.com
 
 ## Κύπρος
 
 Bristol-Myers Squibb A.E. Τηλ:  800 92666 (+ 30 210 6074300) medinfo.greece@bms.com
 
-Latvija Swixx Biopharma SIA Tel: + 371 66164750 medinfo.latvia@swixxbiopharma.com
+## Latvija
+
+Swixx Biopharma SIA Tel: + 371 66164750 medinfo.latvia@swixxbiopharma.com
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Suomi/Finland
+
+Oy Bristol-Myers Squibb (Finland) Ab Puh/Tel: + 358 9 251 21 230 medinfo.finland@bms.com
 
 ## Sverige
 

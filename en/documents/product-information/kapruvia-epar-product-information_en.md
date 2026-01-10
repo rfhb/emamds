@@ -1,16 +1,16 @@
 ---
-document_datetime: 2024-10-14 11:11:33
+document_datetime: 2026-01-06 11:55:27
 document_pages: 24
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kapruvia-epar-product-information_en.pdf
 document_name: kapruvia-epar-product-information_en.pdf
 version: success
-processing_time: 5.9598299
-conversion_datetime: 2025-12-24 20:20:24.490765
+processing_time: 6.0988105
+conversion_datetime: 2026-01-10 11:14:04.747833
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -300,7 +300,9 @@ Figure 1: Percentage of patients with ≥ 3-point improvement with respect to WI
 
 <!-- image -->
 
-TreatmentGroup
+Treatment Group
+
+Difelikef alin
 
 Placebo
 
@@ -312,7 +314,7 @@ The effect of treatment with difelikefalin for up to 52 weeks was evaluated usin
 
 ## Paediatric population
 
-A total of 8 adolescents (12 to 17 years) on haemodialysis were enrolled in a n open-label, single arm study to evaluate the pharmacokinetics of a single dose of intravenous difelikefalin. It has been demonstrated that the administration of a single dose of d ifelikefalin of 0.5 μg/kg, based on dry body weight provides comparable exposure between adolescents and adults on HD. The safety profile of difelikefalin 0.5 μg/kg of dry body weight, administered in adolescents as a single intravenous dose, was consistent with the known safety profile of difelikefalin in adults.
+A total of 8 adolescents (12 to 17 years) on haemodialysis were enrolled in a n open-label, single arm study to evaluate the pharmacokinetics of a single dose of intravenous difelikefalin. It has been demonstrated that the administration of a single dose of difelikefalin of 0.5 μg/kg, based on dry body weight provides comparable exposure between adolescents and adults on HD. The safety profile of difelikefalin 0.5 μg/kg of dry body weight, administered in adolescents as a single intravenous dose, was consistent with the known safety profile of difelikefalin in adults.
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with difelikefalin in one or more subsets of the paediatric population in the treatment of chronic kidney disease associated pruritus (see section 4.2 for information on paediatric use).
 
@@ -374,7 +376,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-2 years
+3 years.
 
 ## 6.4 Special precautions for storage
 
@@ -532,8 +534,7 @@ EU/1/22/1643/002 - 12 vials
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
 17. UNIQUE IDENTIFIER - 2D BARCODE

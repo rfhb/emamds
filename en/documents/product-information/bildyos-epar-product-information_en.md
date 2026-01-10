@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-27 11:04:17
+document_datetime: 2026-01-06 10:45:42
 document_pages: 52
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/bildyos-epar-product-information_en.pdf
 document_name: bildyos-epar-product-information_en.pdf
 version: success
-processing_time: 10.7028312
-conversion_datetime: 2025-12-27 19:59:03.81633
+processing_time: 10.5727226
+conversion_datetime: 2026-01-10 11:17:19.575162
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -171,6 +171,10 @@ Atypical femoral fractures have been reported in patients receiving denosumab (s
 
 Long-term antiresorptive treatment (including both denosumab and bisphosphonates) may contribute to an increased risk for adverse outcomes such as osteonecrosis of the jaw and atypical femur fractures due to significant suppression of bone remodelling (see section 4.2).
 
+## Treatment discontinuation
+
+Following denosumab discontinuation, decrease in bone mineral density (BMD) is expected (see section 5.1), leading to an increased risk for fractures. Thus, monitoring of BMD is recommended, and alternative treatment should be considered according to clinical guidelines.
+
 ## Concomitant treatment with other denosumab-containing medicinal products
 
 Patients being treated with Bildyos should not be treated concomitantly with other denosumabcontaining medicinal products (for prevention of skeletal related events in adults with bone metastases from solid tumours).
@@ -183,15 +187,15 @@ Denosumab should not be used in paediatric patients (age &lt; 18). Serious hyper
 
 This medicine contains 47 mg sorbitol and 0.1 mg polysorbate 20 in each mL of solution. The additive effect of concomitantly administered products containing sorbitol (or fructose) and polysorbate 20, and dietary intake of sorbitol (or fructose) and polysorbate 20 should be taken into account.
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per 60 mg that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per 60 mg that is to say essentially 'sodium -free'.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 In an interaction study, denosumab did not affect the pharmacokinetics of midazolam, which is metabolised by cytochrome P450 3A4 (CYP3A4). This indicates that denosumab should not alter the pharmacokinetics of medicinal products metabolised by CYP3A4.
 
 There are no clinical data on the co-administration of denosumab and hormone replacement therapy (oestrogen), however the potential for a pharmacodynamic interaction is considered to be low.
-
-<div style=\"page-break-after: always\"></div>
 
 In postmenopausal women with osteoporosis the pharmacokinetics and pharmacodynamics of denosumab were not altered by previous alendronate therapy, based on data from a transition study (alendronate to denosumab).
 
@@ -221,15 +225,13 @@ Bildyos has no or negligible influence on the ability to drive and use machines.
 
 The most common side effects with denosumab (seen in more than one patient in ten) are musculoskeletal pain and pain in the extremity. Uncommon cases of cellulitis, rare cases of hypocalcaemia, hypersensitivity, osteonecrosis of the jaw and atypical femoral fractures (see sections 4.4 and 4.8 - description of selected adverse reactions) have been observed in patients taking denosumab.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Tabulated list of adverse reactions
 
 The data in table 1 below describe adverse reactions reported from phase II and III clinical trials in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation; and/or spontaneous reporting.
 
-The following convention has been used for the classification of the adverse reactions (see table 1): very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available
-
-<div style=\"page-break-after: always\"></div>
-
-data). Within each frequency grouping and system organ class, adverse reactions are presented in order of decreasing seriousness.
+The following convention has been used for the classification of the adverse reactions (see table 1): very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data). Within each frequency grouping and system organ class, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1 Adverse reactions reported in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation
 
@@ -251,9 +253,9 @@ In a pooled analysis of data from all phase II and phase III placebo-controlled 
 
 In two phase III placebo-controlled clinical trials in postmenopausal women with osteoporosis, approximately 0.05% (2 out of 4 050) of patients had declines of serum calcium levels (less than 1.88 mmol/L) following denosumab administration. Declines of serum calcium levels (less than 1.88 mmol/L) were not reported in either the two phase III placebo-controlled clinical trials in patients receiving hormone ablation or the phase III placebo-controlled clinical trial in men with osteoporosis.
 
-In the post-marketing setting, rare cases of severe symptomatic hypocalcaemia resulting in hospitalisation, life-threatening events, and fatal cases have been reported, predominantly in patients at increased risk of hypocalcaemia receiving denosumab, with most cases occurring in the first weeks of initiating therapy. Examples of the clinical manifestations of severe symptomatic hypocalcaemia have included QT interval prolongation, tetany, seizures and altered mental status (see section 4.4). Symptoms of hypocalcaemia in denosumab clinical studies included paraesthesias or muscle stiffness, twitching, spasms and muscle cramps.
-
 <div style=\"page-break-after: always\"></div>
+
+In the post-marketing setting, rare cases of severe symptomatic hypocalcaemia resulting in hospitalisation, life-threatening events, and fatal cases have been reported, predominantly in patients at increased risk of hypocalcaemia receiving denosumab, with most cases occurring in the first weeks of initiating therapy. Examples of the clinical manifestations of severe symptomatic hypocalcaemia have included QT interval prolongation, tetany, seizures and altered mental status (see section 4.4). Symptoms of hypocalcaemia in denosumab clinical studies included paraesthesias or muscle stiffness, twitching, spasms and muscle cramps.
 
 ## Skin infections
 
@@ -281,6 +283,8 @@ In the post-marketing setting, rare events of drug-related hypersensitivity, inc
 
 Musculoskeletal pain, including severe cases, has been reported in patients receiving denosumab in the post-marketing setting. In clinical trials, musculoskeletal pain was very common in both denosumab and placebo groups. Musculoskeletal pain leading to discontinuation of study treatment was uncommon.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Lichenoid drug eruptions
 
 Lichenoid drug eruptions (e.g. lichen planus-like reactions) have been reported in patients in the postmarketing setting.
@@ -290,8 +294,6 @@ Lichenoid drug eruptions (e.g. lichen planus-like reactions) have been reported 
 ## Paediatric population
 
 Denosumab should not be used in paediatric patients (age &lt; 18). Serious hypercalcaemia has been reported (see section 5.1). Some clinical trial cases were complicated by acute renal injury.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -309,7 +311,7 @@ There is no experience with overdose in clinical studies. Denosumab has been adm
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Drugs for treatment of bone diseases - Other drugs affecting bone structure and mineralisation. ATC code: M05BX04
+Pharmacotherapeutic group: Drugs for treatment of bone diseases -Other drugs affecting bone structure and mineralisation. ATC code: M05BX04
 
 Bildyos is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -319,7 +321,9 @@ Denosumab is a fully human monoclonal antibody (IgG2) that targets and binds wit
 
 ## Pharmacodynamic effects
 
-Denosumab treatment rapidly reduced the rate of bone turnover, reaching a nadir for the bone resorption marker serum type 1 C-telopeptides (CTX) (85% reduction) by 3 days, with reductions maintained over the dosing interval. At the end of each dosing interval, CTX reductions were partially attenuated from maximal reduction of ≥ 87% to approximately ≥ 45% (range 45-80%), reflecting the reversibility of denosumab's effects on bone remodelling once serum levels diminish. These effects were sustained with continued treatment. Bone turnover markers generally reached pre-treatment levels within 9 months after the last dose. Upon re-initiation, reductions in CTX by denosumab were similar to those observed in patients initiating primary denosumab treatment.
+Denosumab treatment rapidly reduced the rate of bone turnover, reaching a nadir for the bone resorption marker serum type 1 C-telopeptides (CTX) (85% reduction) by 3 days, with reductions maintained over the dosing interval. At the end of each dosing interval, CTX reductions were partially attenuated from maximal reduction of ≥ 87% to approximately ≥ 45% (range 45 -80%), reflecting the reversibility of denosumab's effects on bone remodelling once serum levels diminish. These effects were sustained with continued treatment. Bone turnover markers generally reached pre-treatment levels within 9 months after the last dose. Upon re-initiation, reductions in CTX by denosumab were similar to those observed in patients initiating primary denosumab treatment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Immunogenicity
 
@@ -327,11 +331,7 @@ Anti-denosumab antibodies may develop during denosumab treatment. No apparent co
 
 ## Clinical efficacy and safety in postmenopausal women with osteoporosis
 
-Efficacy and safety of denosumab administered once every 6 months for 3 years were investigated in postmenopausal women (7 808 women aged 60-91 years, of which 23.6% had prevalent vertebral
-
-<div style=\"page-break-after: always\"></div>
-
-fractures) with baseline bone mineral density (BMD) T-scores at the lumbar spine or total hip between -2.5 and -4.0 and a mean absolute 10-year fracture probability of 18.60% (deciles: 7.9-32.4%) for major osteoporotic fracture and 7.22% (deciles: 1.4-14.9%) for hip fracture. Women with other diseases or on therapies that may affect bone were excluded from this study. Women received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
+Efficacy and safety of denosumab administered once every 6 months for 3 years were investigated in postmenopausal women (7 808 women aged 60-91 years, of which 23.6% had prevalent vertebral fractures) with baseline bone mineral density (BMD) T-scores at the lumbar spine or total hip between -2.5 and -4.0 and a mean absolute 10-year fracture probability of 18.60% (deciles: 7.9 -32.4%) for major osteoporotic fracture and 7.22% (deciles: 1.4 -14.9%) for hip fracture. Women with other diseases or on therapies that may affect bone were excluded from this study. Women received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
 
 ## Effect on vertebral fractures
 
@@ -339,12 +339,12 @@ Denosumab significantly reduced the risk of new vertebral fractures at 1, 2 and 
 
 Table 2 The effect of denosumab on the risk of new vertebral fractures
 
-|           | Proportion of women with fracture (%)   | Proportion of women with fracture (%)   | Absolute risk reduction (%)   | Relative risk reduction   |
-|-----------|-----------------------------------------|-----------------------------------------|-------------------------------|---------------------------|
-|           | Placebo n = 3 906                       | Denosumab n = 3 902                     | (95% CI)                      | (%) (95% CI)              |
-| 0-1 year  | 2.2                                     | 0.9                                     | 1.4 (0.8, 1.9)                | 61 (42, 74)**             |
-| 0-2 years | 5.0                                     | 1.4                                     | 3.5 (2.7, 4.3)                | 71 (61, 79)**             |
-| 0-3 years | 7.2                                     | 2.3                                     | 4.8 (3.9, 5.8)                | 68 (59, 74)*              |
+|           | Proportion of women with fracture (%)   | Proportion of women with fracture (%)   | Absolute risk reduction (%)   | Relative risk reduction (%)   |
+|-----------|-----------------------------------------|-----------------------------------------|-------------------------------|-------------------------------|
+|           | Placebo n = 3 906                       | Denosumab n = 3 902                     | (95% CI)                      | (95% CI)                      |
+| 0-1 year  | 2.2                                     | 0.9                                     | 1.4 (0.8, 1.9)                | 61 (42, 74)**                 |
+| 0-2 years | 5.0                                     | 1.4                                     | 3.5 (2.7, 4.3)                | 71 (61, 79)**                 |
+| 0-3 years | 7.2                                     | 2.3                                     | 4.8 (3.9, 5.8)                | 68 (59, 74)*                  |
 
 ## Effect on hip fractures
 
@@ -367,17 +367,15 @@ Table 3 The effect of denosumab on the risk of clinical fractures over 3 years
 | Major non-vertebral fracture 3 | 6.4                                       | 5.2                                       | 1.2 (0.1, 2.2)                         | 20 (3, 34)*                   |
 | Major osteoporotic fracture 4  | 8.0                                       | 5.3                                       | 2.7 (1.6, 3.9)                         | 35 (22, 45)***                |
 
+<div style=\"page-break-after: always\"></div>
+
 In women with baseline femoral neck BMD ≤ -2.5, denosumab reduced the risk of non-vertebral fracture (35% relative risk reduction, 4.1% absolute risk reduction, p &lt; 0.001, exploratory analysis).
 
 The reduction in the incidence of new vertebral fractures, hip fractures and non-vertebral fractures by denosumab over 3 years were consistent regardless of the 10-year baseline fracture risk.
 
 ## Effect on bone mineral density
 
-Denosumab significantly increased BMD at all clinical sites measured, versus placebo at 1, 2 and 3 years. Denosumab increased BMD by 9.2% at the lumbar spine, 6.0% at the total hip, 4.8% at the
-
-<div style=\"page-break-after: always\"></div>
-
-femoral neck, 7.9% at the hip trochanter, 3.5% at the distal 1/3 radius and 4.1% at the total body over 3 years (all p &lt; 0.0001).
+Denosumab significantly increased BMD at all clinical sites measured, versus placebo at 1, 2 and 3 years. Denosumab increased BMD by 9.2% at the lumbar spine, 6.0% at the total hip, 4.8% at the femoral neck, 7.9% at the hip trochanter, 3.5% at the distal 1/3 radius and 4.1% at the total body over 3 years (all p &lt; 0.0001).
 
 In clinical studies examining the effects of discontinuation of denosumab, BMD returned to approximately pre-treatment levels and remained above placebo within 18 months of the last dose. These data indicate that continued treatment with denosumab is required to maintain the effect of the medicinal product. Re-initiation of denosumab resulted in gains in BMD similar to those when denosumab was first administered.
 
@@ -393,19 +391,19 @@ Thirteen adjudicated cases of osteonecrosis of the jaw (ONJ) and two adjudicated
 
 ## Clinical efficacy and safety in men with osteoporosis
 
-Efficacy and safety of denosumab once every 6 months for 1 year were investigated in 242 men aged 31-84 years. Subjects with an eGFR &lt; 30 mL/min/1.73 m 2 were excluded from the study. All men received calcium (at least 1 000 mg) and vitamin D (at least 800 IU) supplementation daily.
+Efficacy and safety of denosumab once every 6 months for 1 year were investigated in 242 men aged 31 -84 years. Subjects with an eGFR &lt; 30 mL/min/1.73 m 2 were excluded from the study. All men received calcium (at least 1 000 mg) and vitamin D (at least 800 IU) supplementation daily.
 
 The primary efficacy variable was percent change in lumbar spine BMD, fracture efficacy was not evaluated. Denosumab significantly increased BMD at all clinical sites measured, relative to placebo at 12 months: 4.8% at lumbar spine, 2.0% at total hip, 2.2% at femoral neck, 2.3% at hip trochanter, and 0.9% at distal 1/3 radius (all p &lt; 0.05). Denosumab increased lumbar spine BMD from baseline in 94.7% of men at 1 year. Significant increases in BMD at lumbar spine, total hip, femoral neck and hip trochanter were observed by 6 months (p &lt; 0.0001).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Bone histology in postmenopausal women and men with osteoporosis
 
-Bone histology was evaluated in 62 postmenopausal women with osteoporosis or with low bone mass who were either naïve to osteoporosis therapies or had transitioned from previous alendronate therapy following 1-3 years treatment with denosumab. Fifty-nine women participated in the bone biopsy substudy at month 24 (n = 41) and/or month 84 (n = 22) of the extension study in postmenopausal women with osteoporosis. Bone histology was also evaluated in 17 men with osteoporosis following 1 year treatment with denosumab. Bone biopsy results showed bone of normal architecture and quality with no evidence of mineralisation defects, woven bone or marrow fibrosis. Histomorphometry findings in the extension study in postmenopausal women with osteoporosis showed that the antiresorptive effects of denosumab, as measured by activation frequency and bone formation rates, were maintained over time.
-
-<div style=\"page-break-after: always\"></div>
+Bone histology was evaluated in 62 postmenopausal women with osteoporosis or with low bone mass who were either naïve to osteoporosis therapies or had transitioned from previous alendronate therapy following 1 -3 years treatment with denosumab. Fifty-nine women participated in the bone biopsy substudy at month 24 (n = 41) and/or month 84 (n = 22) of the extension study in postmenopausal women with osteoporosis. Bone histology was also evaluated in 17 men with osteoporosis following 1 year treatment with denosumab. Bone biopsy results showed bone of normal architecture and quality with no evidence of mineralisation defects, woven bone or marrow fibrosis. Histomorphometry findings in the extension study in postmenopausal women with osteoporosis showed that the antiresorptive effects of denosumab, as measured by activation frequency and bone formation rates, were maintained over time.
 
 ## Clinical efficacy and safety in patients with bone loss associated with androgen deprivation
 
-Efficacy and safety of denosumab once every 6 months for 3 years were investigated in men with histologically confirmed non-metastatic prostate cancer receiving ADT (1 468 men aged 48-97 years) who were at increased risk of fracture (defined as &gt; 70 years, or &lt; 70 years with a BMD T-score at the lumbar spine, total hip, or femoral neck &lt; -1.0 or a history of an osteoporotic fracture). All men received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
+Efficacy and safety of denosumab once every 6 months for 3 years were investigated in men with histologically confirmed non-metastatic prostate cancer receiving ADT (1 468 men aged 48 -97 years) who were at increased risk of fracture (defined as &gt; 70 years, or &lt; 70 years with a BMD T-score at the lumbar spine, total hip, or femoral neck &lt; -1.0 or a history of an osteoporotic fracture). All men received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
 
 Denosumab significantly increased BMD at all clinical sites measured, relative to treatment with placebo at 3 years: 7.9% at the lumbar spine, 5.7% at the total hip, 4.9% at the femoral neck, 6.9% at the hip trochanter, 6.9% at the distal 1/3 radius and 4.7% at the total body (all p &lt; 0.0001). In a prospectively planned exploratory analysis, significant increases in BMD were observed at the lumbar spine, total hip, femoral neck and the hip trochanter 1 month after the initial dose.
 
@@ -413,15 +411,17 @@ Denosumab demonstrated a significant relative risk reduction of new vertebral fr
 
 ## Clinical efficacy and safety in patients with bone loss associated with adjuvant aromatase inhibitor therapy
 
-Efficacy and safety of denosumab once every 6 months for 2 years were investigated in women with non-metastatic breast cancer (252 women aged 35-84 years) and baseline BMD T-scores between -1.0 to -2.5 at the lumbar spine, total hip or femoral neck. All women received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
+Efficacy and safety of denosumab once every 6 months for 2 years were investigated in women with non-metastatic breast cancer (252 women aged 35 -84 years) and baseline BMD T-scores between -1.0 to -2.5 at the lumbar spine, total hip or femoral neck. All women received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
 
 The primary efficacy variable was percent change in lumbar spine BMD, fracture efficacy was not evaluated. Denosumab significantly increased BMD at all clinical sites measured, relative to treatment with placebo at 2 years: 7.6% at lumbar spine, 4.7% at total hip, 3.6% at femoral neck, 5.9% at hip trochanter, 6.1% at distal 1/3 radius and 4.2% at total body (all p &lt; 0.0001).
 
 ## Treatment of bone loss associated with systemic glucocorticoid therapy
 
-Efficacy and safety of denosumab were investigated in 795 patients (70% women and 30% men) aged 20 to 9 4 years treated with ≥ 7.5 mg daily oral prednisone (or equivalent).
+Efficacy and safety of denosumab were investigated in 795 patients (70% women and 30% men) aged 20 to 94 years treated with ≥ 7.5 mg daily oral prednisone (or equivalent).
 
-Two subpopulations were studied: glucocorticoidcontinuing (≥ 7.5 mg daily prednisone or its equivalent for ≥ 3 months prior to study enrolment; n = 505) and glucocorticoid -initiating (≥ 7.5 mg daily prednisone or its equivalent for &lt; 3 months prior to study enrolment; n = 290). Patients were randomised (1:1) to receive either denosumab 60 mg subcutaneously once every 6 months or oral risedronate 5 mg once daily (active control) for 2 years. Patients received calcium (at least 1 000 mg) and vitamin D (at least 800 IU) supplementation daily.
+Two subpopulations were studied: glucocorticoidcontinuing (≥ 7.5 mg daily prednisone or its equivalent for ≥ 3 months prior to study enrolment; n = 505) and glucocorticoidinitiating (≥ 7.5 mg daily prednisone or its equivalent for &lt; 3 months prior to study enrolment; n = 290). Patients were randomised (1:1) to receive either denosumab 60 mg subcutaneously once every 6 months or oral risedronate 5 mg once daily (active control) for 2 years. Patients received calcium (at least 1 000 mg) and vitamin D (at least 800 IU) supplementation daily.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Effect on Bone Mineral Density (BMD)
 
@@ -429,11 +429,7 @@ In the glucocorticoid-continuing subpopulation, denosumab demonstrated a greater
 
 In addition, denosumab demonstrated a significantly greater mean percent increase in BMD from baseline compared to risedronate at the total hip, femoral neck, and hip trochanter.
 
-The study was not powered to show a difference in fractures. At 1 year, the subject incidence of new radiological vertebral fracture was 2.7% (denosumab) versus 3.2% (risedronate). The subject
-
-<div style=\"page-break-after: always\"></div>
-
-incidence of non-vertebral fracture was 4.3% (denosumab) versus 2.5% (risedronate). At 2 years, the corresponding numbers were 4.1% versus 5.8% for new radiological vertebral fractures and 5.3% versus 3.8% for non-vertebral fractures. Most of the fractures occurred in the GC-C subpopulation.
+The study was not powered to show a difference in fractures. At 1 year, the subject incidence of new radiological vertebral fracture was 2.7% (denosumab) versus 3.2% (risedronate). The subject incidence of non-vertebral fracture was 4.3% (denosumab) versus 2.5% (risedronate). At 2 years, the corresponding numbers were 4.1% versus 5.8% for new radiological vertebral fractures and 5.3% versus 3.8% for non-vertebral fractures. Most of the fractures occurred in the GC-C subpopulation.
 
 ## Paediatric population
 
@@ -455,7 +451,9 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## Absorption
 
-Following subcutaneous administration of a 1.0 mg/kg dose, which approximates the approved 60 mg dose, exposure based on AUC was 78% as compared to intravenous administration at the same dose level. For a 60 mg subcutaneous dose, maximum serum denosumab concentrations (Cmax) of 6 mcg/mL (range 1-17 mcg/mL) occurred in 10 days (range 2-28 days).
+Following subcutaneous administration of a 1.0 mg/kg dose, which approximates the approved 60 mg dose, exposure based on AUC was 78% as compared to intravenous administration at the same dose level. For a 60 mg subcutaneous dose, maximum serum denosumab concentrations (Cmax) of 6 mcg/mL (range 1-17 mcg/mL) occurred in 10 days (range 2 -28 days).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Biotransformation
 
@@ -463,11 +461,9 @@ Denosumab is composed solely of amino acids and carbohydrates as native immunogl
 
 ## Elimination
 
-After Cmax, serum levels declined with a half-life of 26 days (range 6-52 days) over a period of 3 months (range 1.5-4.5 months). Fifty-three percent (53%) of patients had no measurable amounts of denosumab detected at 6 months post-dose.
+After Cmax, serum levels declined with a half-life of 26 days (range 6 -52 days) over a period of 3 months (range 1.5 -4.5 months). Fifty-three percent (53%) of patients had no measurable amounts of denosumab detected at 6 months post-dose.
 
-<div style=\"page-break-after: always\"></div>
-
-No accumulation or change in denosumab pharmacokinetics with time was observed upon subcutaneous multiple-dosing of 60 mg once every 6 months. Denosumab pharmacokinetics were not affected by the formation of binding antibodies to denosumab and were similar in men and women. Age (28-87 years), race and disease state (low bone mass or osteoporosis; prostate or breast cancer) do not appear to significantly affect the pharmacokinetics of denosumab.
+No accumulation or change in denosumab pharmacokinetics with time was observed upon subcutaneous multiple-dosing of 60 mg once every 6 months. Denosumab pharmacokinetics were not affected by the formation of binding antibodies to denosumab and were similar in men and women. Age (28 -87 years), race and disease state (low bone mass or osteoporosis; prostate or breast cancer) do not appear to significantly affect the pharmacokinetics of denosumab.
 
 A trend was observed between higher body weight and lower exposure based on AUC and Cmax. However, the trend is not considered clinically important, since pharmacodynamic effects based on bone turnover markers and BMD increases were consistent across a wide range of body weight.
 
@@ -493,6 +489,8 @@ In a phase III study of paediatric patients with osteogenesis imperfecta (N = 15
 
 In single and repeated dose toxicity studies in cynomolgus monkeys, denosumab doses resulting in 100 to 150 times greater systemic exposure than the recommended human dose had no impact on cardiovascular physiology, male or female fertility, or produced specific target organ toxicity.
 
+<div style=\"page-break-after: always\"></div>
+
 Standard tests to investigate the genotoxicity potential of denosumab have not been evaluated, since such tests are not relevant for this molecule. However, due to its character it is unlikely that denosumab has any potential for genotoxicity.
 
 The carcinogenic potential of denosumab has not been evaluated in long-term animal studies.
@@ -500,8 +498,6 @@ The carcinogenic potential of denosumab has not been evaluated in long-term anim
 In preclinical studies conducted in knockout mice lacking RANK or RANKL, impairment of lymph node formation was observed in the foetus. An absence of lactation due to inhibition of mammary gland maturation (lobulo-alveolar gland development during pregnancy) was also observed in knockout mice lacking RANK or RANKL.
 
 In a study of cynomolgus monkeys dosed with denosumab during the period equivalent to the first trimester at AUC exposures up to 99-fold higher than the human dose (60 mg every 6 months), there was no evidence of maternal or foetal harm. In this study, foetal lymph nodes were not examined.
-
-<div style=\"page-break-after: always\"></div>
 
 In another study of cynomolgus monkeys dosed with denosumab throughout pregnancy at AUC exposures 119-fold higher than the human dose (60 mg every 6 months), there were increased stillbirths and postnatal mortality; abnormal bone growth resulting in reduced bone strength, reduced haematopoiesis, and tooth malalignment; absence of peripheral lymph nodes; and decreased neonatal growth. A no observed adverse effect level for reproductive effects was not established. Following a 6-month period after birth, bone related changes showed recovery and there was no effect on tooth eruption. However, the effects on lymph nodes and tooth malalignment persisted, and minimal to moderate mineralisation in multiple tissues was seen in one animal (relation to treatment uncertain). There was no evidence of maternal harm prior to labour; adverse maternal effects occurred infrequently during labour. Maternal mammary gland development was normal.
 
@@ -515,7 +511,11 @@ Knockout mice (see section 4.6) lacking RANK or RANKL exhibited decreased body w
 
 ## 6.1 List of excipients
 
-Acetic acid, glacial* Sodium hydroxide (for pH adjustment)* Sorbitol (E420) Polysorbate 20 (E432) Water for injections * Acetate buffer is formed by mixing acetic acid with sodium hydroxide
+Acetic acid, glacial* Sodium hydroxide (for pH adjustment)* Sorbitol (E420) Polysorbate 20 (E432) Water for injections
+
+* Acetate buffer is formed by mixing acetic acid with sodium hydroxide
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6.2 Incompatibilities
 
@@ -529,9 +529,7 @@ Once removed from the refrigerator, Bildyos may be stored at room temperature (u
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C).
-
-<div style=\"page-break-after: always\"></div>
+Store in a refrigerator (2°C 8°C).
 
 Do not freeze.
 
@@ -560,18 +558,19 @@ Bildyos 60 mg solution for injection in pre-filled syringe
 - To avoid discomfort at the site of injection, allow the pre-filled syringe to reach room temperature (up to 25°C) before injecting and inject slowly.
 - Inject the entire contents of the pre-filled syringe.
 
-## Bildyos 60 mg solution for injection
+Bildyos 60 mg solution for injection
 
 - Before  administration,  the  Bildyos  solution  should  be  inspected  visually.  The  solution  may contain trace amounts of translucent to white proteinaceous particles. Do not inject the solution if it is cloudy or discoloured.
 - Do not shake.
 - To avoid discomfort at the site of injection, allow the vial to reach room temperature (up to 25°C) before injecting and inject slowly.
+
+<div style=\"page-break-after: always\"></div>
+
 - The entire contents of the vial should be injected.
 - A 27-gauge needle is recommended for the administration of denosumab.
 - The vial should not be re-entered.
 
 Any  unused  medicinal  product  or  waste  material  should  be  disposed  of  in  accordance  with  local requirements.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -699,8 +698,7 @@ Keep the container in the outer carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-----------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -720,12 +718,11 @@ LOT
 
 Bildyos
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMAN READABLE DATA   |
-|-------|------------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
 
@@ -799,7 +796,7 @@ LOT
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Bildyos
 
@@ -817,9 +814,9 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS ORSTRIPS   |
-|------------------------------------------------------|
-| BLISTERED PRE-FILLED SYRINGE                         |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTERED PRE-FILLED SYRINGE                        |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT   |
 |------|---------------------------------|
@@ -836,8 +833,8 @@ SciencePharma Sp. z o.o.
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+| 4.   | BATCHNUMBER   |
+|------|---------------|
 
 LOT
 
@@ -850,47 +847,46 @@ SC
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WITH NEEDLEGUARD (BLISTERED)              |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED SYRINGE LABEL WITH NEEDLE GUARD (BLISTERED)
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT ANDROUTE(S) OF ADMINISTRATION   |
 |------|---------------------------------------------------------------|
 
+1.
+
+NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+
 Bildyos 60 mg denosumab SC
 
-| 2.   | METHODOFADMINISTRATION   |
-|------|--------------------------|
+## 2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCHNUMBER   |
-|------|---------------|
+## 4. BATCH NUMBER
 
 LOT
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME ORBYUNIT   |
-|------|------------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 1 mL
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 <div style=\"page-break-after: always\"></div>
 
 ## REMINDER CARD TEXT (included in pack)
 
-Bildyos 60 mg denosumab For Subcutaneous Use Only. Once every 6 months Use Bildyos for as long as your doctor prescribes it for you. Next injection date:
+Use Bildyos for as long as your doctor prescribes it for you.
+
+Bildyos 60 mg denosumab For Subcutaneous Use Only. Once every 6 months Next injection date:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| VIAL LABEL                                                         |
+| MINIMUM PARTICULARS TO APPEARONSMALL IMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| VIAL LABEL                                                       |
 
 | 1.   | NAME OF THE MEDICINAL PRODUCT ANDROUTE(S) OF ADMINISTRATION   |
 |------|---------------------------------------------------------------|
@@ -910,8 +906,8 @@ EXP
 
 LOT
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME ORBYUNIT   |
-|------|------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUMEORBYUNIT   |
+|------|-----------------------------------------|
 
 1 mL
 
@@ -959,7 +955,7 @@ Surgery or medicines that stop the production of oestrogen or testosterone used 
 
 ## What Bildyos is used for
 
-Bildyos is used to treat:
+## Bildyos is used to treat:
 
 - osteoporosis in women after the menopause (postmenopausal) and men who have an increased risk of fracture (broken bones), reducing the risk of spinal, non-spinal, and hip fractures.
 - bone loss that results from a reduction in hormone (testosterone) level caused by surgery or treatment with medicines in patients with prostate cancer.
@@ -995,7 +991,7 @@ A side effect called osteonecrosis of the jaw (bone damage in the jaw) has been 
 Before receiving treatment, tell your doctor or nurse (health care professional) if you:
 
 - have any problems with your mouth or teeth such as poor dental health, gum disease, or a planned tooth extraction.
-- don't receive routine dental care or have not had a dental check-up for a long time.
+- don't receive routine dental care or have not had a dental check -up for a long time.
 - are a smoker (as this may increase the risk of dental problems).
 - have previously been treated with a bisphosphonate (used to treat or prevent bone disorders).
 - are taking medicines called corticosteroids (such as prednisolone or dexamethasone).
@@ -1047,7 +1043,7 @@ This medicine contains 47 mg sorbitol and 0.1 mg polysorbate 20 in each mL of so
 
 ## Bildyos contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per 60 mg, that is to say essentially 'sodiumfree'.
+This medicine contains less than 1 mmol sodium (23 mg) per 60 mg, that is to say essentially 'sodium -free'.
 
 ## 3. How to use Bildyos
 
@@ -1083,7 +1079,7 @@ Rarely unusual fractures of the thigh bone may occur in patients receiving Bildy
 
 Rarely, allergic reactions may occur in patients receiving Bildyos. Symptoms include swelling of the face, lips, tongue, throat or other parts of the body; rash, itching or hives on the skin, wheezing or difficulty breathing. Please tell your doctor if you develop any of these symptoms while being treated with Bildyos.
 
-## Very common side effects (may affect more than 1 in 10 people):
+Very common side effects (may affect more than 1 in 10 people):
 
 - bone, joint, and/or muscle pain which is sometimes severe,
 - arm or leg pain (pain in extremity).
@@ -1125,13 +1121,13 @@ Do not use this medicine after the expiry date which is stated on the label and 
 
 <div style=\"page-break-after: always\"></div>
 
-Store in a refrigerator (2°C - 8°C).
+Store in a refrigerator (2°C -8°C).
 
 Do not freeze.
 
 Keep the container in the outer carton in order to protect from light.
 
-Your pre-filled syringe may be left outside the refrigerator to reach room temperature (up to 25°C) before injection. This will make the injection more comfortable. Once your syringe has been left to reach room temperature (up to 25°C), it must be used within 30 days.
+Your prefilled syringe may be left outside the refrigerator to reach room temperature (up to 25°C) before injection. This will make the injection more comfortable. Once your syringe has been left to reach room temperature (up to 25°C), it must be used wit hin 30 days.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
 
@@ -1162,9 +1158,7 @@ For any information about this medicine, please contact the local representative
 
 SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
 
-## България
-
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+България SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
 
 ## Lietuva
 
@@ -1186,7 +1180,7 @@ dpoc.germany@organon.com
 
 Eesti SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
 
-Ελλάδα SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+Ελλάδα SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
 
 España SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
 
@@ -1218,7 +1212,9 @@ Slovenija SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosu
 
 ## Ísland
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00
+
+-725 Warsaw Poland denosumabh@qbdgroup.com
 
 ## Italia
 
@@ -1228,11 +1224,15 @@ dpoc.italy@organon.com
 
 ## Κύπρος
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00
+
+-725 Warsaw Poland denosumabh@qbdgroup.com
 
 ## Latvija
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+-725 Warsaw
+
+SciencePharma Sp. z o.o. Chełmska 30/34, 00 Poland denosumabh@qbdgroup.com
 
 ## This leaflet was last revised in
 
@@ -1242,17 +1242,19 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Slovenská republika
 
-SciencePharma Sp. z o.o. Chełmska 30/34, 00
-
--725 Warsaw Poland denosumabh@qbdgroup.com
+SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
 
 ## Suomi/Finland
 
 SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
 
-Sverige SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+## Sverige
+
+SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
 
 <div style=\"page-break-after: always\"></div>
+
+Instructions for use:
 
 <!-- image -->
 
@@ -1264,12 +1266,14 @@ A
 
 ## Before you use a Bildyos pre-filled syringe with automatic needle guard, read this important information:
 
--  It is important that you do not try to give yourself the injection unless you have received training from your doctor or healthcare provider.
--  Bildyos is given as an injection into the tissue just under the skin (subcutaneous injection).
+- ⚫ It is important that you do not try to give yourself the injection unless you have received training from your doctor or healthcare provider.
+- ⚫ Bildyos is given as an injection into the tissue just under the skin (subcutaneous injection).
 -  Do not remove the black needle cap from the pre-filled syringe until you are ready to inject.
 -  Do not use the pre-filled syringe if it has been dropped on a hard surface. Use a new prefilled syringe and call your doctor or healthcare provider.
 -  Do not attempt to activate the pre-filled syringe prior to injection.
--  Do not attempt to remove the clear pre-filled syringe safety guard from the pre-filled syringe. Call your doctor or healthcare provider if you have any questions.
+-  Do not attempt to remove the clear pre-filled syringe safety guard from the pre-filled syringe.
+
+Call your doctor or healthcare provider if you have any questions.
 
 ## Step 1: Prepare
 
@@ -1282,7 +1286,7 @@ On a clean, well-lit work surface, place the new pre-filled syringe and the othe
 -  Do not try to warm the syringe by using a heat source such as hot water or microwave.
 -  Do not leave the pre-filled syringe exposed to direct sunlight.
 -  Do not shake the pre-filled syringe.
--  Keep the pre-filled syringe out of the sight and reach of children.
+- ⚫ Keep the pre-filled syringe out of the sight and reach of children.
 - B Open the tray, peeling away the cover. Grab the pre-filled syringe safety guard to remove the pre-filled syringe from the tray.
 
 <!-- image -->
@@ -1301,10 +1305,12 @@ For safety reasons:
 <!-- image -->
 
 -  Do not use the pre-filled syringe if:
--  The medicine is cloudy or discoloured. It must be a clear to slightly opalescent, colourless to slightly yellow solution.
--  Any part appears cracked or broken.
--  The black needle cap is missing or not securely attached.
--  The expiry date printed on the label has passed the last day of the month shown. In all cases, call your doctor or healthcare provider.
+- ⚫ The medicine is cloudy or discoloured. It must be a clear to slightly opalescent, colourless to slightly yellow solution.
+- ⚫ Any part appears cracked or broken.
+- ⚫ The black needle cap is missing or not securely attached.
+- ⚫ The expiry date printed on the label has passed the last day of the month shown.
+
+In all cases, call your doctor or healthcare provider.
 
 Step 2: Get ready
 
@@ -1314,9 +1320,9 @@ Step 2: Get ready
 
 ## You can use:
 
--  Upper part of your thigh.
--  Belly, except for a 5 cm (2-inch) area right around your belly button.
--  Outer area of upper arm (only if someone else is giving you the injection).
+- ⚫ Upper part of your thigh.
+- ⚫ Belly, except for a 5 cm (2-inch) area right around your belly button.
+- ⚫ Outer area of upper arm (only if someone else is giving you the injection).
 
 Clean the injection site with an alcohol wipe. Let your skin dry.
 
@@ -1340,13 +1346,13 @@ Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid 
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
+After releasing the plunger, the pre-filled syringe safety guard will safely cover the injection needle.  Do not put the black needle cap back on used pre-filled syringes.
 
-A
+<div style=\"page-break-after: always\"></div>
 
 Step 4: Finish
 
-Discard the used pre-filled syringe and other supplies in a sharps disposal container.
+- A Discard the used pre-filled syringe and other supplies in a sharps disposal container.
 
 <!-- image -->
 
@@ -1402,7 +1408,7 @@ Surgery or medicines that stop the production of oestrogen or testosterone used 
 
 ## What Bildyos is used for
 
-Bildyos is used to treat:
+## Bildyos is used to treat:
 
 - osteoporosis in women after the menopause (postmenopausal) and men who have an increased risk of fracture (broken bones), reducing the risk of spinal, non-spinal, and hip fractures.
 - bone loss that results from a reduction in hormone (testosterone) level caused by surgery or treatment with medicines in patients with prostate cancer.
@@ -1438,7 +1444,7 @@ A side effect called osteonecrosis of the jaw (bone damage in the jaw) has been 
 Before receiving treatment, tell your doctor or nurse (health care professional) if you:
 
 - have any problems with your mouth or teeth such as poor dental health, gum disease, or a planned tooth extraction.
-- don't receive routine dental care or have not had a dental check-up for a long time.
+- don't receive routine dental care or have not had a dental check -up for a long time.
 - are a smoker (as this may increase the risk of dental problems).
 - have previously been treated with a bisphosphonate (used to treat or prevent bone disorders).
 - are taking medicines called corticosteroids (such as prednisolone or dexamethasone).
@@ -1488,7 +1494,7 @@ This medicine contains 47 mg sorbitol and 0.1 mg polysorbate 20 in each mL of so
 
 ## Bildyos contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per 60 mg, that is to say essentially 'sodiumfree'.
+This medicine contains less than 1 mmol sodium (23 mg) per 60 mg, that is to say essentially 'sodium -free'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1526,7 +1532,7 @@ Rarely, allergic reactions may occur in patients receiving Bildyos. Symptoms inc
 
 <div style=\"page-break-after: always\"></div>
 
-## Very common side effects (may affect more than 1 in 10 people):
+Very common side effects (may affect more than 1 in 10 people):
 
 - bone, joint, and/or muscle pain which is sometimes severe,
 - arm or leg pain (pain in extremity).
@@ -1607,7 +1613,9 @@ For any information about this medicine, please contact the local representative
 
 SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
 
-България SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+## България
+
+SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
 
 Česká republika -725 Warsaw
 
@@ -1651,29 +1659,39 @@ Malta SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh
 
 Nederland SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
 
-Norge SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+Norge SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
 
 Österreich SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
 
-Polska SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+Polska SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
 
 Portugal SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
 
-România SciencePharma Sp. z o.o. Chełmska 30/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+România SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
 
 Slovenija SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
 
 Slovenská republika SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
 
-<div style=\"page-break-after: always\"></div>
+## Italia
 
-Italia Organon Italia S.r.l. Tel: +39 06 90259059
+Organon Italia S.r.l. Tel: +39 06 90259059 dpoc.italy@organon.com
 
-dpoc.italy@organon.com
+## Suomi/Finland
+
+SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
 
 Κύπρος SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
 
-Latvija SciencePharma Sp. z o.o. Chełmska 3 0/34, 00-725 Warsaw Poland denosumabh@qbdgroup.com
+## Sverige
+
+SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland
+
+denosumabh@qbdgroup.com
+
+Latvija SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -1691,9 +1709,3 @@ Detailed information on this medicine is available on the European Medicines Age
 - The vial should not be re-entered.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-Suomi/Finland SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com
-
-## Sverige
-
-SciencePharma Sp. z o.o. Chełmska 30/34, 00 -725 Warsaw Poland denosumabh@qbdgroup.com

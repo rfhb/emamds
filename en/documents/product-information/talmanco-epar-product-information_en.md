@@ -1,22 +1,24 @@
 ---
-document_datetime: 2025-04-09 14:06:51
+document_datetime: 2026-01-06 12:46:58
 document_pages: 33
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/talmanco-epar-product-information_en.pdf
 document_name: talmanco-epar-product-information_en.pdf
 version: success
-processing_time: 6.337497
-conversion_datetime: 2025-12-27 16:20:19.560493
+processing_time: 6.62259
+conversion_datetime: 2026-01-10 11:33:06.88554
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
-## ANNEX I SUMMARY OF PRODUCT CHARACTERISTICS
+## ANNEX I
+
+## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
 
@@ -92,7 +94,7 @@ Dose adjustments are not required in elderly patients.
 
 ## Renal impairment
 
-Adults and paediatric population (2 to 17 years, weighing at least 40 kg)
+## Adults and paediatric population (2 to 17 years, weighing at least 40 kg)
 
 In patients with mild to moderate renal impairment a starting dose of 20 mg once per day is recommended. The dose may be increased to 40 mg once per day, based on individual efficacy and tolerability. In patients with severe renal impairment the use of tadalafil is not recommended (see sections 4.4 and 5.2).
 
@@ -160,7 +162,7 @@ Tadalafil has systemic vasodilatory properties that may result in transient decr
 
 <div style=\"page-break-after: always\"></div>
 
-In patients who are taking alpha1 blockers concomitant administration of tadalafil may lead to symptomatic hypotension in some patients (see section 4.5). Therefore, the combination of tadalafil and doxazosin is not recommended.
+In patients who are taking alpha 1 blockers concomitant administration of tadalafil may lead to symptomatic hypotension in some patients (see section 4.5). Therefore, the combination of tadalafil and doxazosin is not recommended.
 
 ## Vision
 
@@ -186,7 +188,7 @@ Tadalafil should be used with caution in patients with anatomical deformation of
 
 For patients chronically taking potent inducers of CYP3A4, such as rifampicin, the use of tadalafil is not recommended (see section 4.5).
 
-For patients taking concomitant potent inhibitors of CYP3A4, such as ketoconazole or ritonavir, the use of tadalafil is not recommended (see section .5).
+For patients taking concomitant potent inhibitors of CYP3A4, such as ketoconazole or ritonavir, the use of tadalafil is not recommended (see section 4.5).
 
 ## Treatments for erectile dysfunction
 
@@ -214,17 +216,17 @@ Talmanco tablets contain lactose. Patients with rare hereditary problems of gala
 
 ## Azole antifungals (e.g. ketoconazole)
 
-Ketoconazole (200 mg daily), increased tadalafil (10 mg) single dose exposure (AUC) 2-fold and Cmax by 15 %, relative to the AUC and Cmax values for tadalafil alone. Ketoconazole (400 mg daily) increased tadalafil (20 mg) single dose exposure (AUC) 4-fold and Cmax by 22 %.
+Ketoconazole (200 mg daily), increased tadalafil (10 mg) single dose exposure (AUC) 2-fold and Cmax by 15 %, relative to the AUC and Cmax values for tadalafil alone. Ketoconazole (400 mg daily) increased tadalafil (20 mg) single dose exposure (AUC) 4-fold and C max by 22 %.
 
 ## Protease inhibitors (e.g. ritonavir)
 
-Ritonavir (200 mg twice daily), which is an inhibitor of CYP3A4, CYP2C9, CYP2C19, and CYP2D6, increased tadalafil (20 mg) single dose exposure (AUC) 2-fold with no change in Cmax. Ritonavir (500 mg or 600 mg twice daily) increased tadalafil (20 mg) single-dose exposure (AUC) by 32 % and decreased Cmax by 30 %.
+Ritonavir (200 mg twice daily), which is an inhibitor of CYP3A4, CYP2C9, CYP2C19, and CYP2D6, increased tadalafil (20 mg) single dose exposure (AUC) 2-fold with no change in C max . Ritonavir (500 mg or 600 mg twice daily) increased tadalafil (20 mg) single-dose exposure (AUC) by 32 % and decreased Cmax by 30 %.
 
 ## Cytochrome P450 inducers
 
 ## Endothelin-1 receptor antagonists (e.g. bosentan)
 
-Bosentan (125 mg twice daily), a substrate of CYP2C9 and CYP3A4 and a moderate inducer of CYP3A4, CYP2C9 and possibly CYP2C19, reduced tadalafil (40 mg once per day) systemic exposure by 42 % and Cmax by 27 % following multiple dose co-administration. The efficacy of tadalafil in patients already on bosentan therapy has not been conclusively demonstrated (see sections 4.4 and 5.1). Tadalafil did not affect the exposure (AUC and Cmax) of bosentan or its metabolites.
+Bosentan (125 mg twice daily), a substrate of CYP2C9 and CYP3A4 and a moderate inducer of CYP3A4, CYP2C9 and possibly CYP2C19, reduced tadalafil (40 mg once per day) systemic exposure by 42 % and Cmax by 27 % following multiple dose co-administration. The efficacy of tadalafil in patients already on bosentan therapy has not been conclusively demonstrated (see sections 4.4 and 5.1). Tadalafil did not affect the exposure (AUC and C max ) of bosentan or its metabolites.
 
 The safety and efficacy of combinations of tadalafil and other endothelin-1 receptor antagonists have not been studied.
 
@@ -322,28 +324,85 @@ The table below lists the adverse reactions reported during the placebo-controll
 
 Frequency estimate: Very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (cannot be estimated from the available data).
 
-| Very common                                                                 | Common                                          | Uncommon                                        | Rare                                            | Not known 1                                                                                                                                 |
-|-----------------------------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| Immune system disorders                                                     | Immune system disorders                         | Immune system disorders                         | Immune system disorders                         | Immune system disorders                                                                                                                     |
-|                                                                             | Hypersensitivity reactions 5                    |                                                 |                                                 | Angioedema                                                                                                                                  |
-| Nervous system disorders                                                    | Nervous system disorders                        | Nervous system disorders                        | Nervous system disorders                        | Nervous system disorders                                                                                                                    |
-| Headache 6                                                                  | Syncope, Migraine 5                             | Seizures 5 , Transient amnesia 5                |                                                 | Stroke 2 (including haemorrhagic events)                                                                                                    |
-| Eye disorders                                                               | Eye disorders                                   | Eye disorders                                   | Eye disorders                                   | Eye disorders                                                                                                                               |
-|                                                                             | Blurred vision                                  |                                                 |                                                 | Non-arteritic anterior ischemic optic neuropathy (NAION), Retinal vascular occlusion, Visual field defect, Central serous chorioretinopathy |
-| Ear and labyrinth disorders                                                 | Ear and labyrinth disorders                     | Ear and labyrinth disorders                     | Ear and labyrinth disorders                     | Ear and labyrinth disorders                                                                                                                 |
-|                                                                             |                                                 | Tinnitus                                        |                                                 | Sudden hearing loss                                                                                                                         |
-| Cardiac disorders                                                           | Cardiac disorders                               | Cardiac disorders                               | Cardiac disorders                               | Cardiac disorders                                                                                                                           |
-|                                                                             | Palpitations 2, 5                               | Sudden cardiac death 2, 5 , Tachycardia 2, 5    |                                                 | Unstable angina pectoris, Ventricular arrhythmia, Myocardial Infarction 2                                                                   |
-| Vascular disorders                                                          | Vascular disorders                              | Vascular disorders                              | Vascular disorders                              | Vascular disorders                                                                                                                          |
-| Flushing                                                                    | Hypotension                                     | Hypertension                                    |                                                 |                                                                                                                                             |
-| Respiratory, thoracic and mediastinal disorders                             | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders | Respiratory, thoracic and mediastinal disorders                                                                                             |
-| Nasopharyngitis (including nasal congestion, sinus congestion and rhinitis) | Epistaxis                                       |                                                 |                                                 |                                                                                                                                             |
-| Gastrointestinal disorders                                                  | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                      | Gastrointestinal disorders                                                                                                                  |
-| Nausea, Dyspepsia (including abdominal pain/discomfort 3 )                  | Vomiting, Gastroesophageal reflux               |                                                 |                                                 |                                                                                                                                             |
-| Skin and subcutaneous tissue disorders                                      | Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders          | Skin and subcutaneous tissue disorders                                                                                                      |
-|                                                                             | Rash                                            | Urticaria 5 , Hyperhydrosis (sweating) 5        |                                                 | Stevens-Johnson Syndrome, Exfoliative dermatitis                                                                                            |
-| Musculoskeletal and connective tissue disorders                             | Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders | Musculoskeletal and connective tissue disorders                                                                                             |
-| Myalgia, Back pain, Pain in extremity (including limb discomfort)           |                                                 |                                                 |                                                 |                                                                                                                                             |
+Very common
+
+Common
+
+Uncommon
+
+Rare
+
+Not known 1
+
+Immune system disorders
+
+Hypersensitivity reactions 5
+
+Angioedema
+
+Nervous system disorders
+
+Headache 6
+
+Syncope, Migraine 5
+
+Seizures 5 ,
+
+Transient amnesia 5
+
+Stroke 2 (including haemorrhagic events)
+
+Eye disorders
+
+Blurred vision
+
+Non-arteritic anterior ischemic optic neuropathy (NAION), Retinal vascular occlusion, Visual field defect, Central serous chorioretinopathy
+
+Ear and labyrinth disorders
+
+Tinnitus
+
+Sudden hearing loss
+
+Cardiac disorders
+
+Palpitations 2, 5
+
+Sudden cardiac death 2, 5 , Tachycardia 2, 5
+
+Unstable angina pectoris, Ventricular arrhythmia, Myocardial Infarction 2
+
+Vascular disorders
+
+Flushing
+
+Hypotension
+
+Hypertension
+
+Respiratory, thoracic and mediastinal disorders
+
+Nasopharyngitis (including nasal congestion, sinus congestion and rhinitis)
+
+Epistaxis
+
+Gastrointestinal disorders
+
+Nausea, Dyspepsia (including abdominal pain/discomfort 3 )
+
+Vomiting, Gastroesophageal reflux
+
+Skin and subcutaneous tissue disorders
+
+Rash
+
+Urticaria 5 , Hyperhydrosis (sweating) 5
+
+Stevens-Johnson Syndrome, Exfoliative dermatitis
+
+Musculoskeletal and connective tissue disorders
+
+Myalgia, Back pain, Pain in extremity (including limb discomfort)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -413,8 +472,6 @@ Studies in vitro have shown that tadalafil is a selective inhibitor of PDE5. PDE
 
 A randomised, double-blind, placebo-controlled study was conducted in 405 patients with pulmonary arterial hypertension. Allowed background therapy included bosentan (stable maintenance dose up to
 
-## Field Code Changed
-
 <div style=\"page-break-after: always\"></div>
 
 125 mg twice daily) and chronic anticoagulation, digoxin, diuretics and oxygen. More than half (53.3 %) of the patients in the study were receiving concomitant bosentan therapy.
@@ -479,11 +536,11 @@ A single study has been performed in paediatric patients with Duchenne Muscular 
 
 ## 5.2 Pharmacokinetic properties
 
-Pharmacokinetic studies have shown that tadalafil tablets and oral suspension are bioequivalent based upon AUC(0-∞) in the fasted state. The tmax of the oral suspension is approximately 1 hour later than the tablets, however the difference was not considered clinically relevant. While the tablets may be taken with or without food, the oral suspension should be taken on an empty stomach at least 1 hour before or 2 hours after a meal.
+Pharmacokinetic studies have shown that tadalafil tablets and oral suspension are bioequivalent based upon AUC(0-∞) in the fasted state. The t max of the oral suspension is approximately 1 hour later than the tablets, however the difference was not considered clinically relevant. While the tablets may be taken with or without food, the oral suspension should be taken on an empty stomach at least 1 hour before or 2 hours after a meal.
 
 ## Absorption
 
-Tadalafil is readily absorbed after oral administration and the mean maximum observed plasma concentration (Cmax) is achieved at a median time of 4 hours after dosing. Pharmacokinetic studies have shown that tadalafil tablets and oral suspension are bioequivalent based upon AUC(0-∞). Absolute bioavailability of tadalafil following oral dosing has not been determined.
+Tadalafil is readily absorbed after oral administration and the mean maximum observed plasma concentration (Cmax ) is achieved at a median time of 4 hours after dosing. Pharmacokinetic studies have shown that tadalafil tablets and oral suspension are bioequivalent based upon AUC(0-∞). Absolute bioavailability of tadalafil following oral dosing has not been determined.
 
 The rate and extent of absorption of tadalafil film-coated tablets are not influenced by food, thus tadalafil tablets may be taken with or without food. The effect of food on the rate and extent of absorption with the tadalafil oral suspension has not been investigated; therefore, tadalafil suspension should be taken on an empty stomach at least 1 hour before or 2 hours after a meal. The time of dosing (morning versus evening after a single 10 mg administration) had no clinically relevant effects on the rate and extent of absorption. For children, tadalafil was dosed in clinical trials and post-marketing trials without regard to food with no safety concerns.
 
@@ -521,7 +578,7 @@ Healthy elderly subjects (65 years or over), had a lower oral clearance of tadal
 
 ## Renal impairment
 
-In clinical pharmacology studies using single-dose tadalafil (5 to 20 mg), tadalafil exposure (AUC) approximately doubled in subjects with mild (creatinine clearance 51 to 80 mL/min) or moderate (creatinine clearance 31 to 50 mL/min) renal impairment and in subjects with end-stage renal disease on dialysis. In haemodialysis patients, Cmax was 41 % higher than that observed in healthy subjects.
+In clinical pharmacology studies using single-dose tadalafil (5 to 20 mg), tadalafil exposure (AUC) approximately doubled in subjects with mild (creatinine clearance 51 to 80 mL/min) or moderate (creatinine clearance 31 to 50 mL/min) renal impairment and in subjects with end-stage renal disease on dialysis. In haemodialysis patients, C max was 41 % higher than that observed in healthy subjects.
 
 Haemodialysis contributes negligibly to tadalafil elimination.
 
@@ -549,7 +606,7 @@ In healthy female and male subjects following single and multiple-doses of tadal
 
 ## Paediatric population
 
-Based on data from 36 paediatric patients with PAH aged 2 to &lt; 18 years, body weight did not have an impact on the clearance of tadalafil; the AUC values in all paediatric weight groups are similar to those in adult patients at the same dose. Body weight was shown to be a predictor of peak exposure in children; due to this weight effect, the dose is 20 mg daily for paediatric patients ≥ 2 years and weighing &lt; 40 kg, and the Cmax is expected to be similar to paediatric patients weighing ≥ 40 kg taking 40 mg daily. Tmax for the tablet formulation was estimated at approximately 4 hours and was independent of body weight. Tadalafil half-life values were estimated to range from 13.6 to 24.2 hours for a range of 10 to 80 kg of body weight and did not show any clinically relevant differences.
+Based on data from 36 paediatric patients with PAH aged 2 to &lt; 18 years, body weight did not have an impact on the clearance of tadalafil; the AUC values in all paediatric weight groups are similar to those in adult patients at the same dose. Body weight was shown to be a predictor of peak exposure in children; due to this weight effect, the dose is 20 mg daily for paediatric patients ≥ 2 years and weighing &lt; 40 kg, and the Cmax is expected to be similar to paediatric patients weighing ≥ 40 kg taking 40 mg daily. T max for the tablet formulation was estimated at approximately 4 hours and was independent of body weight. Tadalafil half-life values were estimated to range from 13.6 to 24.2 hours for a range of 10 to 80 kg of body weight and did not show any clinically relevant differences.
 
 ## 5.3 Preclinical safety data
 
@@ -567,7 +624,7 @@ Tablet core: Povidone (K-25) Sodium laurilsulfate Poloxamer 188 Anhydrous lactos
 
 <div style=\"page-break-after: always\"></div>
 
-Film-coating: Lactose monohydrate Hypromellose (2910/15 mPa·s) (E464) Titanium dioxide (E171) Triacetin
+Film-coating: Lactose monohydrate Hypromellose (2910/15 mPaꞏs) (E464) Titanium dioxide (E171) Triacetin
 
 ## 6.2 Incompatibilities
 
@@ -599,37 +656,36 @@ Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/16/1153/001 EU/1/16/1153/002 EU/1/16/1153/003
+EU/1/16/1153/001
+
+EU/1/16/1153/002
+
+EU/1/16/1153/003
 
 EU/1/16/1153/004
 
-18
+<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 09 January 2017 Date of latest renewal: 09 November 2021
+Date of first authorisation: 09 January 2017
+
+Date of latest renewal: 09 November 2021
 
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
-Field Code Changed
-
 <div style=\"page-break-after: always\"></div>
-
-19
 
 ## ANNEX II
 
 - A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
-
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
-- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
-
-<div style=\"page-break-after: always\"></div>
+## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -668,13 +724,17 @@ An updated RMP should be submitted:
 
 <div style=\"page-break-after: always\"></div>
 
-## ANNEX III LABELLING AND PACKAGE LEAFLET
+## ANNEX III
+
+## LABELLING AND PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
 ## A. LABELLING
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING CARTON
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -690,7 +750,7 @@ Contains lactose. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablet
+## Film-coated tablet
 
 28 film-coated tablets
 
@@ -702,11 +762,9 @@ Film-coated tablet
 
 ## 5. METHOD AND ROUTE OF ADMINISTRATION
 
-Read the package leaflet before use.
+Read the package leaflet before use. Oral use.
 
-Oral use.
-
-6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -722,19 +780,11 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited
-
-Damastown Industrial Park,
-
-Mulhuddart, Dublin 15,
-
-DUBLIN
-
-Ireland
+Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -750,8 +800,7 @@ EU/1/16/1153/004
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -764,37 +813,40 @@ Talmanco 20 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN
+PC
+
+SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS ORSTRIPS   |
-|------------------------------------------------------|
-| BLISTER                                              |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTER                                               |
 
-25
-
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
-
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Talmanco 20 mg film-coated tablets tadalafil
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
 
 Viatris Limited
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -917,7 +969,9 @@ Talmanco is supplied as a 20 mg tablet. Swallow the tablet(s) whole with a drink
 
 The usual dose is two 20 mg tablets taken once a day. You should take both tablets at the same time, one after the other. If you have a mild or moderate liver or kidney problem, your doctor may advise you to take only one 20 mg tablet per day.
 
-Pulmonary arterial hypertension in children (age 2 years and above) weighing at least 40 kg The recommended dose is two 20 mg tablets taken once a day. Both tablets should be taken at the same time, one after the other. If you have a mild or moderate liver or kidney problem, your doctor may advise you to take only one 20 mg tablet per day.
+## Pulmonary arterial hypertension in children (age 2 years and above) weighing at least 40 kg
+
+The recommended dose is two 20 mg tablets taken once a day. Both tablets should be taken at the same time, one after the other. If you have a mild or moderate liver or kidney problem, your doctor may advise you to take only one 20 mg tablet per day.
 
 Pulmonary arterial hypertension in children (age 2 years and above) weighing less than 40 kg The recommended dose is one 20 mg tablet taken once a day. If you have a mild or moderate liver or kidney problem, your doctor may advise you to take 10 mg once per day.
 
@@ -941,9 +995,9 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. These effects are normally mild to moderate in nature.
 
-If you experience any of the following side effects stop using the medicine and seek medical help immediately:
+## If you experience any of the following side effects stop using the medicine and seek medical help immediately:
 
-## Common (may affect up to 1 in 10 people)
+Common (may affect up to 1 in 10 people)
 
 - -allergic reactions including skin rashes.
 - -chest pain - do not use nitrates, but seek immediate medical assistance.
@@ -1046,15 +1100,13 @@ Not all pack sizes may be marketed.
 
 Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
-Field Code Changed
-
 <div style=\"page-break-after: always\"></div>
 
 ## Manufacturers
 
 McDermott Laboratories Limited t/a Gerard Laboratories t/a Mylan Dublin 35/36 Baldoyle Industrial Estate Grange Road, Dublin 13 Ireland
 
-## Mylan Hungary Kft
+Mylan Hungary Kft
 
 Mylan utca 1
 
@@ -1080,59 +1132,17 @@ Viatris
 
 Tél/Tel: +32(0)2 658 61 00
 
-## България
-
-Майлан ЕООД
-
-Teл.: +359 2 44 55400
-
-## Česká republika
-
-Viatris CZ s.r.o.
-
-Tel: +420 222 004 400
-
-## Danmark
-
-Viatris ApS
-
-Tlf: +45 28 11 69 32
-
-## Deutschland
-
-Viatris Healthcare GmbH
-
-Tel: +49 800 0700 800
-
-## Eesti
-
-Viatris OÜ
-
-Tel: +372 6363 052
-
-## Ελλάδα
-
-Viatris Hellas Ltd
-
-Τηλ: +30 2100 100 002
-
-## España
-
-Viatris Pharmaceuticals, S.L.
-
-Tel: +34 900 102 712
-
-## France
-
-Substipharm
-
-Tél: +33 1 43181300
-
 ## Lietuva
 
 Viatris UAB
 
 Tel: +370 5 205 1288
+
+## България
+
+Майлан ЕООД
+
+Teл.: +359 2 44 55400
 
 ## Luxembourg/Luxemburg
 
@@ -1142,11 +1152,23 @@ Tél/Tel: +32 (0)2 658 61 00
 
 (Belgique/Belgien)
 
+## Česká republika
+
+Viatris CZ s.r.o.
+
+Tel: +420 222 004 400
+
 ## Magyarország
 
 Viatris Healthcare Kft.
 
 Tel.: +36 1 465 2100
+
+## Danmark
+
+Viatris ApS
+
+Tlf: +45 28 11 69 32
 
 ## Malta
 
@@ -1154,11 +1176,23 @@ V.J. Salomone Pharma Ltd
 
 Tel: +356 21 22 01 74
 
+## Deutschland
+
+Viatris Healthcare GmbH
+
+Tel: +49 800 0700 800
+
 ## Nederland
 
 Mylan BV
 
 Tel: +31 (0)20 426 3300
+
+## Eesti
+
+Viatris OÜ
+
+Tel: +372 6363 052
 
 ## Norge
 
@@ -1166,11 +1200,23 @@ Viatris AS
 
 Tlf: +47 66 75 33 00
 
+## Ελλάδα
+
+Viatris Hellas Ltd
+
+Τηλ: +30 2100 100 002
+
 ## Österreich
 
 Viatris Austria GmbH
 
 Tel: +43 1 86390
+
+## España
+
+Viatris Pharmaceuticals, S.L.
+
+Tel: +34 900 102 712
 
 ## Polska
 
@@ -1178,11 +1224,19 @@ Viatris Healthcare Sp. z o.o.
 
 Tel: +48 22 546 64 00
 
+## France
+
+Substipharm
+
+Tél: +33 1 43181300
+
 ## Portugal
 
 Mylan, Lda.
 
 Tel: +351 214 127 200
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hrvatska
 
@@ -1190,17 +1244,11 @@ Viatris Hrvatska d.o.o.
 
 Tel: +385 1 23 50 599
 
-## România
-
-BGP Products SRL Tel: +40 372 579 000
-
 ## Ireland
 
-Viatris Limited Tel: +353 1 8711600
+Viatris Limited
 
-## Slovenija
-
-Viatris d.o.o. Tel: +386 1 236 31 80
+Tel: +353 1 8711600
 
 ## Ísland
 
@@ -1208,42 +1256,54 @@ Icepharma hf.
 
 Sími: +354 540 8000
 
+## Italia
+
+Viatris Italia S.r.l.
+
+Tel: +39 (0) 2 612 46921
+
+## Κύπρος
+
+CPO Pharmaceuticals Limited
+
+Τηλ: +357 22863100
+
+## Latvija
+
+Viatris SIA
+
+Tel: +371 676 055 80
+
+## This leaflet was last revised in { MM/YYYY}.
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+## România
+
+BGP Products SRL
+
+Tel: +40 372 579 000
+
+## Slovenija
+
+Viatris d.o.o.
+
+Tel: +386 1 236 31 80
+
 ## Slovenská republika
 
 Viatris Slovakia s.r.o.
 
 Tel: +421 2 32 199 100
 
-## Italia
-
-Viatris Italia S.r.l. Tel: +39 (0) 2 612 46921
-
 ## Suomi/Finland
 
-Viatris Oy Puh/Tel: +358 20 720 9555
+Viatris Oy
 
-## Κύπρος
-
-GPA Pharmaceuticals Ltd Τηλ: +357 22863100
+Puh/Tel: +358 20 720 9555
 
 ## Sverige
 
 Viatris AB
 
 Tel: +46 (0) 8 630 19 00
-
-## Latvija
-
-Viatris SIA Tel: +371 676 055 80
-
-## United Kingdom (Northern Ireland)
-
-Mylan IRE Healthcare Limited Tel: +353 18711600
-
-<div style=\"page-break-after: always\"></div>
-
-## This leaflet was last revised in { MM/YYYY}.
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
-Field Code Changed

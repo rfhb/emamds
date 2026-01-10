@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 07:48:31
+document_datetime: 2026-01-09 15:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tolvaptan-accord.html
 document_name: tolvaptan-accord.html
 version: success
-processing_time: 0.101529
-conversion_datetime: 2025-12-30 00:40:23.581543
+processing_time: 0.1066716
+conversion_datetime: 2026-01-10 11:27:43.608711
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -103,7 +103,7 @@ English (EN) (114.64 KB - PDF)
 
 [View](/en/documents/overview/tolvaptan-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-120)
+[Other languages (22)](#file-language-dropdown-675)
 
 български (BG) (126.54 KB - PDF)
 
@@ -293,207 +293,305 @@ English (EN) (152.4 KB - PDF)
 
 Tolvaptan Accord : EPAR - Product information
 
-English (EN) (436.55 KB - PDF)
+English (EN) (356.5 KB - PDF)
 
 **First published:** 14/08/2023
 
+**Last updated:** 09/01/2026
+
 [View](/en/documents/product-information/tolvaptan-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-457)
+[Other languages (24)](#file-language-dropdown-610)
 
-български (BG) (534.14 KB - PDF)
+български (BG) (429.06 KB - PDF)
 
 **First published:**
 
 14/08/2023
+
+**Last updated:**
+
+09/01/2026
 
 [View](/bg/documents/product-information/tolvaptan-accord-epar-product-information_bg.pdf)
 
-español (ES) (491.97 KB - PDF)
+español (ES) (385.56 KB - PDF)
 
 **First published:**
 
 14/08/2023
+
+**Last updated:**
+
+09/01/2026
 
 [View](/es/documents/product-information/tolvaptan-accord-epar-product-information_es.pdf)
 
-čeština (CS) (528.25 KB - PDF)
+čeština (CS) (392.38 KB - PDF)
 
 **First published:**
 
 14/08/2023
+
+**Last updated:**
+
+09/01/2026
 
 [View](/cs/documents/product-information/tolvaptan-accord-epar-product-information_cs.pdf)
 
-dansk (DA) (415.78 KB - PDF)
+dansk (DA) (391.27 KB - PDF)
 
 **First published:**
 
 14/08/2023
+
+**Last updated:**
+
+09/01/2026
 
 [View](/da/documents/product-information/tolvaptan-accord-epar-product-information_da.pdf)
 
-Deutsch (DE) (406.05 KB - PDF)
+Deutsch (DE) (233.14 KB - PDF)
 
 **First published:**
 
 14/08/2023
+
+**Last updated:**
+
+09/01/2026
 
 [View](/de/documents/product-information/tolvaptan-accord-epar-product-information_de.pdf)
 
-eesti keel (ET) (406.82 KB - PDF)
+eesti keel (ET) (401.66 KB - PDF)
 
 **First published:**
 
 14/08/2023
+
+**Last updated:**
+
+09/01/2026
 
 [View](/et/documents/product-information/tolvaptan-accord-epar-product-information_et.pdf)
 
-ελληνικά (EL) (518.06 KB - PDF)
+ελληνικά (EL) (413.99 KB - PDF)
 
 **First published:**
 
 14/08/2023
+
+**Last updated:**
+
+09/01/2026
 
 [View](/el/documents/product-information/tolvaptan-accord-epar-product-information_el.pdf)
 
-français (FR) (535.26 KB - PDF)
+français (FR) (414.5 KB - PDF)
 
 **First published:**
 
 14/08/2023
+
+**Last updated:**
+
+09/01/2026
 
 [View](/fr/documents/product-information/tolvaptan-accord-epar-product-information_fr.pdf)
 
-hrvatski (HR) (549.19 KB - PDF)
+hrvatski (HR) (397.99 KB - PDF)
 
 **First published:**
 
 14/08/2023
+
+**Last updated:**
+
+09/01/2026
 
 [View](/hr/documents/product-information/tolvaptan-accord-epar-product-information_hr.pdf)
 
-íslenska (IS) (399.44 KB - PDF)
+íslenska (IS) (381.02 KB - PDF)
 
 **First published:**
 
 14/08/2023
+
+**Last updated:**
+
+09/01/2026
 
 [View](/is/documents/product-information/tolvaptan-accord-epar-product-information_is.pdf)
 
-italiano (IT) (489.12 KB - PDF)
+italiano (IT) (407.38 KB - PDF)
 
 **First published:**
 
 14/08/2023
+
+**Last updated:**
+
+09/01/2026
 
 [View](/it/documents/product-information/tolvaptan-accord-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (503.98 KB - PDF)
+latviešu valoda (LV) (427.28 KB - PDF)
 
 **First published:**
 
 14/08/2023
+
+**Last updated:**
+
+09/01/2026
 
 [View](/lv/documents/product-information/tolvaptan-accord-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (499.12 KB - PDF)
+lietuvių kalba (LT) (402.44 KB - PDF)
 
 **First published:**
 
 14/08/2023
+
+**Last updated:**
+
+09/01/2026
 
 [View](/lt/documents/product-information/tolvaptan-accord-epar-product-information_lt.pdf)
 
-magyar (HU) (529.98 KB - PDF)
+magyar (HU) (457.34 KB - PDF)
 
 **First published:**
 
 14/08/2023
+
+**Last updated:**
+
+09/01/2026
 
 [View](/hu/documents/product-information/tolvaptan-accord-epar-product-information_hu.pdf)
 
-Malti (MT) (544.87 KB - PDF)
+Malti (MT) (484.84 KB - PDF)
 
 **First published:**
 
 14/08/2023
+
+**Last updated:**
+
+09/01/2026
 
 [View](/mt/documents/product-information/tolvaptan-accord-epar-product-information_mt.pdf)
 
-Nederlands (NL) (400.75 KB - PDF)
+Nederlands (NL) (248.22 KB - PDF)
 
 **First published:**
 
 14/08/2023
+
+**Last updated:**
+
+09/01/2026
 
 [View](/nl/documents/product-information/tolvaptan-accord-epar-product-information_nl.pdf)
 
-norsk (NO) (405.17 KB - PDF)
+norsk (NO) (397.24 KB - PDF)
 
 **First published:**
 
 14/08/2023
+
+**Last updated:**
+
+09/01/2026
 
 [View](/no/documents/product-information/tolvaptan-accord-epar-product-information_no.pdf)
 
-polski (PL) (515.15 KB - PDF)
+polski (PL) (433.03 KB - PDF)
 
 **First published:**
 
 14/08/2023
+
+**Last updated:**
+
+09/01/2026
 
 [View](/pl/documents/product-information/tolvaptan-accord-epar-product-information_pl.pdf)
 
-português (PT) (410.71 KB - PDF)
+português (PT) (428.12 KB - PDF)
 
 **First published:**
 
 14/08/2023
+
+**Last updated:**
+
+09/01/2026
 
 [View](/pt/documents/product-information/tolvaptan-accord-epar-product-information_pt.pdf)
 
-română (RO) (649.86 KB - PDF)
+română (RO) (441.52 KB - PDF)
 
 **First published:**
 
 14/08/2023
+
+**Last updated:**
+
+09/01/2026
 
 [View](/ro/documents/product-information/tolvaptan-accord-epar-product-information_ro.pdf)
 
-slovenčina (SK) (535.16 KB - PDF)
+slovenčina (SK) (440.61 KB - PDF)
 
 **First published:**
 
 14/08/2023
+
+**Last updated:**
+
+09/01/2026
 
 [View](/sk/documents/product-information/tolvaptan-accord-epar-product-information_sk.pdf)
 
-slovenščina (SL) (493.69 KB - PDF)
+slovenščina (SL) (389.12 KB - PDF)
 
 **First published:**
 
 14/08/2023
+
+**Last updated:**
+
+09/01/2026
 
 [View](/sl/documents/product-information/tolvaptan-accord-epar-product-information_sl.pdf)
 
-Suomi (FI) (398.75 KB - PDF)
+Suomi (FI) (391.74 KB - PDF)
 
 **First published:**
 
 14/08/2023
+
+**Last updated:**
+
+09/01/2026
 
 [View](/fi/documents/product-information/tolvaptan-accord-epar-product-information_fi.pdf)
 
-svenska (SV) (390.79 KB - PDF)
+svenska (SV) (390.02 KB - PDF)
 
 **First published:**
 
 14/08/2023
 
+**Last updated:**
+
+09/01/2026
+
 [View](/sv/documents/product-information/tolvaptan-accord-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** EMEA/H/C/005961 24/03/2023
+**Latest procedure affecting product information:** VR/0000317240 09/01/2026
 
 icon globe
 
@@ -517,7 +615,7 @@ English (EN) (97.93 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tolvaptan-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-464)
+[Other languages (24)](#file-language-dropdown-413)
 
 български (BG) (107.06 KB - PDF)
 
@@ -737,9 +835,23 @@ Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a
 
-Opinion adopted 26/01/2023
+Opinion adopted 26/01/2023 Revision 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Tolvaptan Accord : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (142.57 KB - PDF)
+
+**First published:** 09/01/2026
+
+[View](/en/documents/procedural-steps-after/tolvaptan-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -771,7 +883,7 @@ English (EN) (105.58 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 January 2023](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-january-2023) 27/01/2023
 
-**This page was last updated on** 14/08/2023
+**This page was last updated on** 09/01/2026
 
 ## Share this page
 

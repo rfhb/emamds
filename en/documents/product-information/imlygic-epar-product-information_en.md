@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-10-06 13:32:06
+document_datetime: 2026-01-06 14:36:17
 document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/imlygic-epar-product-information_en.pdf
 document_name: imlygic-epar-product-information_en.pdf
 version: success
-processing_time: 11.5693359
-conversion_datetime: 2025-12-23 03:52:24.176177
+processing_time: 12.0636299
+conversion_datetime: 2026-01-10 11:15:54.59188
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -93,10 +93,10 @@ The recommended dosing schedule is shown in table 1.
 
 Table 1. Recommended dosing schedule
 
-| Treatment visit Treatment interval   | Maximum total injection volume   | Dose concentrations       | Prioritisation of lesions to be injected                                                        |
-|--------------------------------------|----------------------------------|---------------------------|-------------------------------------------------------------------------------------------------|
-| -                                    | Up to 4 mL                       | 10 6 (1 million) PFU/mL   | Initial • Prioritise injection of remaining lesions based on lesion size until maximum          |
-| 3 weeks after initial treatment      | Up to 4 mL                       | 10 8 (100 million) PFU/mL | Second developed since initial treatment). • Prioritise injection of remaining lesions based on |
+| Treatment visit Treatment interval   | Maximum total injection volume   | Dose concentrations       | Prioritisation of lesions to be injected                                                          |
+|--------------------------------------|----------------------------------|---------------------------|---------------------------------------------------------------------------------------------------|
+| Initial -                            | Up to 4 mL                       | 10 6 (1 million) PFU/mL   | • Inject • Prioritise injection of remaining lesions based on lesion size until maximum injection |
+| 3 weeks after initial treatment      | Up to 4 mL                       | 10 8 (100 million) PFU/mL | Second developed since initial treatment). • Prioritise injection of remaining lesions based on   |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -389,14 +389,6 @@ Table 3. Adverse reactions from clinical trials in patients with melanoma and po
 |--------------------------------------------------|-----------------------------------------------------------------|
 | Common                                           | Wound complication, Wound secretion, Contusion, Procedural pain |
 
-§ Injection site reactions include: very common term of injection site pain, common terms of injection site erythema, injection site haemorrhage, injection site swelling, injection site reaction, injection site inflammation, secretion discharge, injection site discharge, uncommon term of injection site warmth.
-
-†  Immune-mediated events include: uncommon terms of vasculitis, pneumonitis, worsening psoriasis and glomerulonephritis.
-
-* See Description of selected adverse reactions.
-
-** Herpetic infections (including, but not limited to Oral herpes).
-
 ## Description of selected adverse reactions
 
 ## Immune-mediated events
@@ -502,8 +494,6 @@ Table 5. Summary of results from exploratory subgroup analysis from Imlygic stud
 | Stage § IIIB/IIIC/ stage IVM1a (Imlygic, n = 163; GM-CSF, n = 86) | 25.2       | 1.2        | 40.5       | 2.3        | 0.57, (95% CI: 0.40, 0.80); |
 | Stage § IVM1B/ IVM1C (Imlygic, n = 131; GM-CSF, n = 55)           | 5.3        | 3.6        | 9.2        | 10.9       | 1.07, (95% CI: 0.75, 1.52); |
 
-§ American Joint Committee on Cancer (AJCC) staging 6 th  edition.
-
 <div style=\"page-break-after: always\"></div>
 
 Figure 5. Kaplan-Meier estimate of overall survival by randomised treatment arm for disease stage IIIB/IIIC/ stage IVM1a (exploratory subgroup analysis)
@@ -554,8 +544,6 @@ Table 6. Patients with detectable DNA during treatment
 | Exterior of the occlusive dressing | 48 (80%)                                                 |
 | Oral mucosa                        | 8 (13%)                                                  |
 | Anogenital area                    | 5 (19%) a                                                |
-
-a For the anogenital area, 26 patients were tested for Imlygic DNA.
 
 The proportion of samples and subjects with talimogene laherparepvec DNA was highest during cycle 2 of treatment for the blood, urine, injection site, and occlusive dressings; highest in cycle 1 of treatment for the oral mucosa; and highest in cycles 1 and 2 for the anogenital area. Among patients with detectable talimogene laherparepvec DNA in the blood, urine, oral mucosa, and anogenital area, no samples had detectable talimogene laherparepvec DNA 30 days after the end of treatment. For patients with detectable DNA in injected lesions, no samples had detectable talimogene laherparepvec DNA 60 days after the end of treatment.
 
@@ -645,7 +633,7 @@ For storage conditions after thawing of the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
-Imlygic is provided as a one mL preservative-free solution in a single-use vial (cyclic olefin polymer plastic resin) with stopper (chlorobutyl elastomer) and seal (aluminium) with flip-off cap (polypropylene) in two different presentations:
+Imlygic is provided as a one mL preservative-free solution in a single -use vial (cyclic olefin polymer plastic resin) with stopper (chlorobutyl elastomer) and seal (aluminium) with flip-off cap (polypropylene) in two different presentations:
 
 Figure 6. Single-use vial permanently inserted into a clear copolyester plastic sleeve
 
@@ -1026,7 +1014,7 @@ Lot
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1156,7 +1144,7 @@ longer to heal than normal. You should tell your healthcare professional if you 
 
 ## Autoimmune reactions
 
-Imlygic may cause autoimmune reactions (an over-reaction of the body's immune system). Some people taking this medicine have developed inflammation in the kidneys (glomerulonephritis), narrowing or blockage of blood vessels (vasculitis), swelling of the lungs (pneumonitis), worsening skin scaling (psoriasis), and areas of skin without any colour (vitiligo). Inform your healthcare professional if you have a history of autoimmune disease.
+Imlygic may cause autoimmune reactions (an overreaction of the body's immune system). Some people taking this medicine have developed inflammation in the kidneys (glomerulonephritis), narrowing or blockage of blood vessels (vasculitis), swelling of the lungs (pneumonitis), worsening skin scaling (psoriasis), and areas of skin without any colour (vitiligo). Inform your healthcare professional if you have a history of autoimmune disease.
 
 ## Plasmacytoma
 
@@ -1299,7 +1287,7 @@ This medicinal product contains genetically modified cells. Local guidelines sho
 
 ## What Imlygic looks like and contents of the pack
 
-Imlygic is a clear to semi-translucent (10 6 PFU/mL) or semi-translucent to opaque (10 8  PFU/mL) liquid. It is supplied as a 1 mL preservative-free solution in a single-use vial (cyclic olefin polymer plastic resin) with stopper (chlorobutyl elastomer) and seal (aluminium) with flip-off cap (polypropylene).
+Imlygic is a clear to semi-translucent (10 6 PFU/mL) or semi-translucent to opaque (10 8  PFU/mL) liquid. It is supplied as a 1 mL preservative-free solution in a single -use vial (cyclic olefin polymer plastic resin) with stopper (chlorobutyl elastomer) and seal (aluminium) with flip-off cap (polypropylene).
 
 The vial cap is colour coded: 10 6 PFU/mL is light green and 10 8
 
@@ -1357,7 +1345,9 @@ Tel.: +36 1 35 44 700
 
 ## Danmark
 
-Amgen, filial af Amgen AB, Sverige Tlf: +45 39617500
+Amgen, filial af Amgen AB, Sverige
+
+Tlf.: +45 39617500
 
 ## Deutschland
 
@@ -1367,11 +1357,15 @@ Tel.: +49 89 1490960
 
 ## Eesti
 
-Amgen Switzerland AG Vilniaus filialas Tel: +372 586 09553
+Amgen Switzerland AG Vilniaus filialas
+
+Tel: +372 586 09553
 
 ## Ελλάδα
 
-Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε. Τηλ: +30 210 3447000
+Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε.
+
+Τηλ: +30 210 3447000
 
 ## España
 
@@ -1387,15 +1381,21 @@ Tél: +33 (0)9 69 363 363
 
 ## Hrvatska
 
-Amgen d.o.o. Tel: +385 (0)1 562 57 20
+Amgen d.o.o.
+
+Tel: +385 (0)1 562 57 20
 
 ## Ireland
 
-Amgen Ireland Limited Tel: +353 1 8527400
+Amgen Ireland Limited
+
+Tel: +353 1 8527400
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor
+
+Sími: +354 535 7000
 
 ## Italia
 
@@ -1411,31 +1411,41 @@ C.A. Papaellinas Ltd
 
 ## Latvija
 
-Amgen Switzerland AG Rīgas filiāle Tel: +371 257 25888
+Amgen Switzerland AG Rīgas filiāle
+
+Tel: +371 257 25888
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Malta
 
-Amgen S.r.l. Italy
+Amgen S.r.l.
+
+Italy
 
 Tel: +39 02 6241121
 
 ## Nederland
 
-Amgen B.V. Tel: +31 (0)76 5732500
+Amgen B.V.
+
+Tel: +31 (0)76 5732500
 
 ## Norge
 
-Amgen AB Tlf: +47 23308000
+Amgen AB
+
+Tlf: +47 23308000
 
 ## Österreich
 
-Amgen GmbH Tel: +43 (0)1 50 217
+Amgen GmbH
+
+Tel: +43 (0)1 50 217
 
 ## Polska
 
@@ -1445,15 +1455,21 @@ Tel.: +48 22 581 3000
 
 ## Portugal
 
-Amgen Biofarmacêutica, Lda. Tel: +351 21 4220606
+Amgen Biofarmacêutica, Lda.
+
+Tel: +351 21 4220606
 
 ## România
 
-Amgen România SRL Tel: +4021 527 3000
+Amgen România SRL
+
+Tel: +4021 527 3000
 
 ## Slovenija
 
-AMGEN zdravila d.o.o. Tel: +386 (0)1 585 1767
+AMGEN zdravila d.o.o.
+
+Tel: +386 (0)1 585 1767
 
 ## Slovenská republika
 
@@ -1463,17 +1479,17 @@ Tel: +421 2 321 114 49
 
 ## Suomi/Finland
 
-Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland Puh/Tel: +358 (0)9 54900500
+Amgen AB, sivuliike Suomessa/Amgen AB, filial
+
+i Finland
+
+Puh/Tel: +358 (0)9 54900500
 
 ## Sverige
 
-Amgen AB Tel: +46 (0)8 6951100
+Amgen AB
 
-## United Kingdom (Northern Ireland)
-
-Amgen Limited
-
-Tel: +44 (0)1223 420305
+Tel: +46 (0)8 6951100
 
 <div style=\"page-break-after: always\"></div>
 

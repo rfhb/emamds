@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 11:37:00
+document_datetime: 2026-01-08 15:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/cancidas.html
 document_name: cancidas.html
 version: success
-processing_time: 0.1137418
-conversion_datetime: 2025-12-31 01:43:43.496521
+processing_time: 0.129583
+conversion_datetime: 2026-01-10 11:05:09.712352
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -120,7 +120,7 @@ English (EN) (76.7 KB - PDF)
 
 [View](/en/documents/overview/cancidas-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-447)
+[Other languages (22)](#file-language-dropdown-476)
 
 български (BG) (106.04 KB - PDF)
 
@@ -398,17 +398,17 @@ English (EN) (94.1 KB - PDF)
 
 Cancidas : EPAR - Product Information
 
-English (EN) (441.82 KB - PDF)
+English (EN) (436.24 KB - PDF)
 
 **First published:** 05/08/2009
 
-**Last updated:** 03/12/2025
+**Last updated:** 08/01/2026
 
 [View](/en/documents/product-information/cancidas-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-79)
+[Other languages (24)](#file-language-dropdown-863)
 
-български (BG) (406.86 KB - PDF)
+български (BG) (402.48 KB - PDF)
 
 **First published:**
 
@@ -416,11 +416,11 @@ English (EN) (441.82 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/bg/documents/product-information/cancidas-epar-product-information_bg.pdf)
 
-español (ES) (479.14 KB - PDF)
+español (ES) (473.15 KB - PDF)
 
 **First published:**
 
@@ -428,11 +428,11 @@ español (ES) (479.14 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/es/documents/product-information/cancidas-epar-product-information_es.pdf)
 
-čeština (CS) (456.75 KB - PDF)
+čeština (CS) (451.29 KB - PDF)
 
 **First published:**
 
@@ -440,11 +440,11 @@ español (ES) (479.14 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/cs/documents/product-information/cancidas-epar-product-information_cs.pdf)
 
-dansk (DA) (453.66 KB - PDF)
+dansk (DA) (447.86 KB - PDF)
 
 **First published:**
 
@@ -452,11 +452,11 @@ dansk (DA) (453.66 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/da/documents/product-information/cancidas-epar-product-information_da.pdf)
 
-Deutsch (DE) (618.93 KB - PDF)
+Deutsch (DE) (611.97 KB - PDF)
 
 **First published:**
 
@@ -464,11 +464,11 @@ Deutsch (DE) (618.93 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/de/documents/product-information/cancidas-epar-product-information_de.pdf)
 
-eesti keel (ET) (445.29 KB - PDF)
+eesti keel (ET) (436.81 KB - PDF)
 
 **First published:**
 
@@ -476,11 +476,11 @@ eesti keel (ET) (445.29 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/et/documents/product-information/cancidas-epar-product-information_et.pdf)
 
-ελληνικά (EL) (443.33 KB - PDF)
+ελληνικά (EL) (437.18 KB - PDF)
 
 **First published:**
 
@@ -488,11 +488,11 @@ eesti keel (ET) (445.29 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/el/documents/product-information/cancidas-epar-product-information_el.pdf)
 
-français (FR) (507.39 KB - PDF)
+français (FR) (499.33 KB - PDF)
 
 **First published:**
 
@@ -500,11 +500,11 @@ français (FR) (507.39 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/fr/documents/product-information/cancidas-epar-product-information_fr.pdf)
 
-hrvatski (HR) (469.29 KB - PDF)
+hrvatski (HR) (461.77 KB - PDF)
 
 **First published:**
 
@@ -512,11 +512,11 @@ hrvatski (HR) (469.29 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/hr/documents/product-information/cancidas-epar-product-information_hr.pdf)
 
-íslenska (IS) (462.9 KB - PDF)
+íslenska (IS) (456.38 KB - PDF)
 
 **First published:**
 
@@ -524,11 +524,11 @@ hrvatski (HR) (469.29 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/is/documents/product-information/cancidas-epar-product-information_is.pdf)
 
-italiano (IT) (612.6 KB - PDF)
+italiano (IT) (599.49 KB - PDF)
 
 **First published:**
 
@@ -536,11 +536,11 @@ italiano (IT) (612.6 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/it/documents/product-information/cancidas-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (422.57 KB - PDF)
+latviešu valoda (LV) (416.67 KB - PDF)
 
 **First published:**
 
@@ -548,11 +548,11 @@ latviešu valoda (LV) (422.57 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/lv/documents/product-information/cancidas-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (441.48 KB - PDF)
+lietuvių kalba (LT) (437.76 KB - PDF)
 
 **First published:**
 
@@ -560,11 +560,11 @@ lietuvių kalba (LT) (441.48 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/lt/documents/product-information/cancidas-epar-product-information_lt.pdf)
 
-magyar (HU) (515.12 KB - PDF)
+magyar (HU) (507.99 KB - PDF)
 
 **First published:**
 
@@ -572,11 +572,11 @@ magyar (HU) (515.12 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/hu/documents/product-information/cancidas-epar-product-information_hu.pdf)
 
-Malti (MT) (448.62 KB - PDF)
+Malti (MT) (459.93 KB - PDF)
 
 **First published:**
 
@@ -584,11 +584,11 @@ Malti (MT) (448.62 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/mt/documents/product-information/cancidas-epar-product-information_mt.pdf)
 
-Nederlands (NL) (468.04 KB - PDF)
+Nederlands (NL) (459.66 KB - PDF)
 
 **First published:**
 
@@ -596,11 +596,11 @@ Nederlands (NL) (468.04 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/nl/documents/product-information/cancidas-epar-product-information_nl.pdf)
 
-norsk (NO) (446.55 KB - PDF)
+norsk (NO) (440.63 KB - PDF)
 
 **First published:**
 
@@ -608,11 +608,11 @@ norsk (NO) (446.55 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/no/documents/product-information/cancidas-epar-product-information_no.pdf)
 
-polski (PL) (481.75 KB - PDF)
+polski (PL) (474.17 KB - PDF)
 
 **First published:**
 
@@ -620,11 +620,11 @@ polski (PL) (481.75 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/pl/documents/product-information/cancidas-epar-product-information_pl.pdf)
 
-português (PT) (588.2 KB - PDF)
+português (PT) (580.11 KB - PDF)
 
 **First published:**
 
@@ -632,11 +632,11 @@ português (PT) (588.2 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/pt/documents/product-information/cancidas-epar-product-information_pt.pdf)
 
-română (RO) (461.61 KB - PDF)
+română (RO) (456.02 KB - PDF)
 
 **First published:**
 
@@ -644,11 +644,11 @@ română (RO) (461.61 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/ro/documents/product-information/cancidas-epar-product-information_ro.pdf)
 
-slovenčina (SK) (485.55 KB - PDF)
+slovenčina (SK) (478.27 KB - PDF)
 
 **First published:**
 
@@ -656,11 +656,11 @@ slovenčina (SK) (485.55 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/sk/documents/product-information/cancidas-epar-product-information_sk.pdf)
 
-slovenščina (SL) (452.91 KB - PDF)
+slovenščina (SL) (447.17 KB - PDF)
 
 **First published:**
 
@@ -668,11 +668,11 @@ slovenščina (SL) (452.91 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/sl/documents/product-information/cancidas-epar-product-information_sl.pdf)
 
-Suomi (FI) (458.36 KB - PDF)
+Suomi (FI) (451.31 KB - PDF)
 
 **First published:**
 
@@ -680,11 +680,11 @@ Suomi (FI) (458.36 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/fi/documents/product-information/cancidas-epar-product-information_fi.pdf)
 
-svenska (SV) (484.16 KB - PDF)
+svenska (SV) (476.8 KB - PDF)
 
 **First published:**
 
@@ -692,11 +692,11 @@ svenska (SV) (484.16 KB - PDF)
 
 **Last updated:**
 
-03/12/2025
+08/01/2026
 
 [View](/sv/documents/product-information/cancidas-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUR/0000268976 17/11/2025
+**Latest procedure affecting product information:** VR/0000315850 05/01/2026
 
 icon globe
 
@@ -722,7 +722,7 @@ English (EN) (56.9 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/cancidas-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-932)
+[Other languages (24)](#file-language-dropdown-544)
 
 български (BG) (60.21 KB - PDF)
 
@@ -1039,7 +1039,7 @@ Merck Sharp &amp; Dohme B.V.
 
 Waarderweg 39
 
-Opinion adopted 26/07/2001 Marketing authorisation issued 23/10/2001 Revision 35
+Opinion adopted 26/07/2001 Marketing authorisation issued 23/10/2001 Revision 36
 
 ## Assessment history
 
@@ -1051,11 +1051,11 @@ Collapse section
 
 Cancidas : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (128.6 KB - PDF)
+English (EN) (148.58 KB - PDF)
 
 **First published:** 24/04/2025
 
-**Last updated:** 03/12/2025
+**Last updated:** 08/01/2026
 
 [View](/en/documents/procedural-steps-after/cancidas-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1187,7 +1187,7 @@ English (EN) (19.58 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 03/12/2025
+**This page was last updated on** 08/01/2026
 
 ## Share this page
 

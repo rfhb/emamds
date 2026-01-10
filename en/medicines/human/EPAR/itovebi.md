@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 13:28:01
+document_datetime: 2026-01-06 16:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/itovebi.html
 document_name: itovebi.html
 version: success
-processing_time: 0.1028197
-conversion_datetime: 2025-12-30 00:43:52.483031
+processing_time: 0.1127123
+conversion_datetime: 2026-01-10 11:36:51.830822
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -111,7 +111,7 @@ English (EN) (131.93 KB - PDF)
 
 [View](/en/documents/overview/itovebi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-498)
+[Other languages (22)](#file-language-dropdown-252)
 
 български (BG) (146.59 KB - PDF)
 
@@ -301,205 +301,305 @@ English (EN) (3.05 MB - PDF)
 
 Itovebi : EPAR - Product information
 
-English (EN) (320.17 KB - PDF)
+English (EN) (231.82 KB - PDF)
 
 **First published:** 27/08/2025
 
+**Last updated:** 06/01/2026
+
 [View](/en/documents/product-information/itovebi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-327)
+[Other languages (24)](#file-language-dropdown-329)
 
-български (BG) (706.79 KB - PDF)
+български (BG) (544.36 KB - PDF)
 
 **First published:**
 
 27/08/2025
+
+**Last updated:**
+
+06/01/2026
 
 [View](/bg/documents/product-information/itovebi-epar-product-information_bg.pdf)
 
-español (ES) (390.82 KB - PDF)
+español (ES) (348.97 KB - PDF)
 
 **First published:**
 
 27/08/2025
+
+**Last updated:**
+
+06/01/2026
 
 [View](/es/documents/product-information/itovebi-epar-product-information_es.pdf)
 
-čeština (CS) (433 KB - PDF)
+čeština (CS) (424.58 KB - PDF)
 
 **First published:**
 
 27/08/2025
+
+**Last updated:**
+
+06/01/2026
 
 [View](/cs/documents/product-information/itovebi-epar-product-information_cs.pdf)
 
-dansk (DA) (365.07 KB - PDF)
+dansk (DA) (365.18 KB - PDF)
 
 **First published:**
 
 27/08/2025
+
+**Last updated:**
+
+06/01/2026
 
 [View](/da/documents/product-information/itovebi-epar-product-information_da.pdf)
 
-Deutsch (DE) (427.25 KB - PDF)
+Deutsch (DE) (423.92 KB - PDF)
 
 **First published:**
 
 27/08/2025
+
+**Last updated:**
+
+06/01/2026
 
 [View](/de/documents/product-information/itovebi-epar-product-information_de.pdf)
 
-eesti keel (ET) (453.62 KB - PDF)
+eesti keel (ET) (453.57 KB - PDF)
 
 **First published:**
 
 27/08/2025
+
+**Last updated:**
+
+06/01/2026
 
 [View](/et/documents/product-information/itovebi-epar-product-information_et.pdf)
 
-ελληνικά (EL) (687.9 KB - PDF)
+ελληνικά (EL) (680.02 KB - PDF)
 
 **First published:**
 
 27/08/2025
+
+**Last updated:**
+
+06/01/2026
 
 [View](/el/documents/product-information/itovebi-epar-product-information_el.pdf)
 
-français (FR) (459.29 KB - PDF)
+français (FR) (360.64 KB - PDF)
 
 **First published:**
 
 27/08/2025
+
+**Last updated:**
+
+06/01/2026
 
 [View](/fr/documents/product-information/itovebi-epar-product-information_fr.pdf)
 
-hrvatski (HR) (423.6 KB - PDF)
+hrvatski (HR) (421.89 KB - PDF)
 
 **First published:**
 
 27/08/2025
+
+**Last updated:**
+
+06/01/2026
 
 [View](/hr/documents/product-information/itovebi-epar-product-information_hr.pdf)
 
-íslenska (IS) (387.65 KB - PDF)
+íslenska (IS) (385.26 KB - PDF)
 
 **First published:**
 
 27/08/2025
+
+**Last updated:**
+
+06/01/2026
 
 [View](/is/documents/product-information/itovebi-epar-product-information_is.pdf)
 
-italiano (IT) (409.25 KB - PDF)
+italiano (IT) (411.33 KB - PDF)
 
 **First published:**
 
 27/08/2025
+
+**Last updated:**
+
+06/01/2026
 
 [View](/it/documents/product-information/itovebi-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (449.54 KB - PDF)
+latviešu valoda (LV) (456.62 KB - PDF)
 
 **First published:**
 
 27/08/2025
+
+**Last updated:**
+
+06/01/2026
 
 [View](/lv/documents/product-information/itovebi-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (524.56 KB - PDF)
+lietuvių kalba (LT) (450.21 KB - PDF)
 
 **First published:**
 
 27/08/2025
+
+**Last updated:**
+
+06/01/2026
 
 [View](/lt/documents/product-information/itovebi-epar-product-information_lt.pdf)
 
-magyar (HU) (486.19 KB - PDF)
+magyar (HU) (571.58 KB - PDF)
 
 **First published:**
 
 27/08/2025
+
+**Last updated:**
+
+06/01/2026
 
 [View](/hu/documents/product-information/itovebi-epar-product-information_hu.pdf)
 
-Malti (MT) (634.76 KB - PDF)
+Malti (MT) (505.85 KB - PDF)
 
 **First published:**
 
 27/08/2025
+
+**Last updated:**
+
+06/01/2026
 
 [View](/mt/documents/product-information/itovebi-epar-product-information_mt.pdf)
 
-Nederlands (NL) (449.07 KB - PDF)
+Nederlands (NL) (379.25 KB - PDF)
 
 **First published:**
 
 27/08/2025
+
+**Last updated:**
+
+06/01/2026
 
 [View](/nl/documents/product-information/itovebi-epar-product-information_nl.pdf)
 
-norsk (NO) (454.77 KB - PDF)
+norsk (NO) (385.89 KB - PDF)
 
 **First published:**
 
 27/08/2025
+
+**Last updated:**
+
+06/01/2026
 
 [View](/no/documents/product-information/itovebi-epar-product-information_no.pdf)
 
-polski (PL) (594.15 KB - PDF)
+polski (PL) (594.81 KB - PDF)
 
 **First published:**
 
 27/08/2025
+
+**Last updated:**
+
+06/01/2026
 
 [View](/pl/documents/product-information/itovebi-epar-product-information_pl.pdf)
 
-português (PT) (450.59 KB - PDF)
+português (PT) (369.18 KB - PDF)
 
 **First published:**
 
 27/08/2025
+
+**Last updated:**
+
+06/01/2026
 
 [View](/pt/documents/product-information/itovebi-epar-product-information_pt.pdf)
 
-română (RO) (547.24 KB - PDF)
+română (RO) (543.21 KB - PDF)
 
 **First published:**
 
 27/08/2025
+
+**Last updated:**
+
+06/01/2026
 
 [View](/ro/documents/product-information/itovebi-epar-product-information_ro.pdf)
 
-slovenčina (SK) (526.99 KB - PDF)
+slovenčina (SK) (529.7 KB - PDF)
 
 **First published:**
 
 27/08/2025
+
+**Last updated:**
+
+06/01/2026
 
 [View](/sk/documents/product-information/itovebi-epar-product-information_sk.pdf)
 
-slovenščina (SL) (456.47 KB - PDF)
+slovenščina (SL) (456.73 KB - PDF)
 
 **First published:**
 
 27/08/2025
+
+**Last updated:**
+
+06/01/2026
 
 [View](/sl/documents/product-information/itovebi-epar-product-information_sl.pdf)
 
-Suomi (FI) (471.28 KB - PDF)
+Suomi (FI) (362.9 KB - PDF)
 
 **First published:**
 
 27/08/2025
+
+**Last updated:**
+
+06/01/2026
 
 [View](/fi/documents/product-information/itovebi-epar-product-information_fi.pdf)
 
-svenska (SV) (445.57 KB - PDF)
+svenska (SV) (445.66 KB - PDF)
 
 **First published:**
 
 27/08/2025
 
+**Last updated:**
+
+06/01/2026
+
 [View](/sv/documents/product-information/itovebi-epar-product-information_sv.pdf)
+
+**Latest procedure affecting product information:** VR/0000312702 06/01/2026
 
 icon globe
 
@@ -523,7 +623,7 @@ English (EN) (46.59 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/itovebi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-937)
+[Other languages (24)](#file-language-dropdown-303)
 
 български (BG) (61.62 KB - PDF)
 
@@ -746,9 +846,23 @@ Roche Registration GmbH
 
 Emil-Barell-Strasse 1
 
-Opinion adopted 22/05/2025 Marketing authorisation issued 18/07/2025
+Opinion adopted 22/05/2025 Marketing authorisation issued 18/07/2025 Revision 2
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Itovebi : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (142.12 KB - PDF)
+
+**First published:** 06/01/2026
+
+[View](/en/documents/procedural-steps-after/itovebi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -780,7 +894,7 @@ English (EN) (163.85 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 19-22 May 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-19-22-may-2025) 23/05/2025
 
-**This page was last updated on** 27/08/2025
+**This page was last updated on** 06/01/2026
 
 ## Share this page
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 09:39:21
+document_datetime: 2026-01-06 15:25:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/bildyos.html
 document_name: bildyos.html
 version: success
-processing_time: 0.110676
-conversion_datetime: 2025-12-30 08:06:14.842592
+processing_time: 0.1118496
+conversion_datetime: 2026-01-10 11:07:23.01888
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -115,7 +115,7 @@ English (EN) (171.04 KB - PDF)
 
 [View](/en/documents/overview/bildyos-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-285)
+[Other languages (22)](#file-language-dropdown-879)
 
 български (BG) (175.7 KB - PDF)
 
@@ -305,17 +305,17 @@ English (EN) (838.42 KB - PDF)
 
 Bildyos : EPAR - Product information
 
-English (EN) (696.17 KB - PDF)
+English (EN) (713.64 KB - PDF)
 
 **First published:** 27/10/2025
 
-**Last updated:** 27/11/2025
+**Last updated:** 06/01/2026
 
 [View](/en/documents/product-information/bildyos-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-796)
+[Other languages (24)](#file-language-dropdown-235)
 
-български (BG) (681.97 KB - PDF)
+български (BG) (799.62 KB - PDF)
 
 **First published:**
 
@@ -323,11 +323,11 @@ English (EN) (696.17 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/bg/documents/product-information/bildyos-epar-product-information_bg.pdf)
 
-español (ES) (765.32 KB - PDF)
+español (ES) (768.29 KB - PDF)
 
 **First published:**
 
@@ -335,11 +335,11 @@ español (ES) (765.32 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/es/documents/product-information/bildyos-epar-product-information_es.pdf)
 
-čeština (CS) (813.22 KB - PDF)
+čeština (CS) (767.28 KB - PDF)
 
 **First published:**
 
@@ -347,11 +347,11 @@ español (ES) (765.32 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/cs/documents/product-information/bildyos-epar-product-information_cs.pdf)
 
-dansk (DA) (595.26 KB - PDF)
+dansk (DA) (724.43 KB - PDF)
 
 **First published:**
 
@@ -359,11 +359,11 @@ dansk (DA) (595.26 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/da/documents/product-information/bildyos-epar-product-information_da.pdf)
 
-Deutsch (DE) (771.15 KB - PDF)
+Deutsch (DE) (758.21 KB - PDF)
 
 **First published:**
 
@@ -371,11 +371,11 @@ Deutsch (DE) (771.15 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/de/documents/product-information/bildyos-epar-product-information_de.pdf)
 
-eesti keel (ET) (600.88 KB - PDF)
+eesti keel (ET) (725.65 KB - PDF)
 
 **First published:**
 
@@ -383,11 +383,11 @@ eesti keel (ET) (600.88 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/et/documents/product-information/bildyos-epar-product-information_et.pdf)
 
-ελληνικά (EL) (830.52 KB - PDF)
+ελληνικά (EL) (835.42 KB - PDF)
 
 **First published:**
 
@@ -395,11 +395,11 @@ eesti keel (ET) (600.88 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/el/documents/product-information/bildyos-epar-product-information_el.pdf)
 
-français (FR) (741.55 KB - PDF)
+français (FR) (760.07 KB - PDF)
 
 **First published:**
 
@@ -407,11 +407,11 @@ français (FR) (741.55 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/fr/documents/product-information/bildyos-epar-product-information_fr.pdf)
 
-hrvatski (HR) (614.5 KB - PDF)
+hrvatski (HR) (698.41 KB - PDF)
 
 **First published:**
 
@@ -419,11 +419,11 @@ hrvatski (HR) (614.5 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/hr/documents/product-information/bildyos-epar-product-information_hr.pdf)
 
-íslenska (IS) (686.07 KB - PDF)
+íslenska (IS) (711.38 KB - PDF)
 
 **First published:**
 
@@ -431,11 +431,11 @@ hrvatski (HR) (614.5 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/is/documents/product-information/bildyos-epar-product-information_is.pdf)
 
-italiano (IT) (629.56 KB - PDF)
+italiano (IT) (742.61 KB - PDF)
 
 **First published:**
 
@@ -443,11 +443,11 @@ italiano (IT) (629.56 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/it/documents/product-information/bildyos-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (730.11 KB - PDF)
+latviešu valoda (LV) (718.01 KB - PDF)
 
 **First published:**
 
@@ -455,11 +455,11 @@ latviešu valoda (LV) (730.11 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/lv/documents/product-information/bildyos-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (751.53 KB - PDF)
+lietuvių kalba (LT) (743.29 KB - PDF)
 
 **First published:**
 
@@ -467,11 +467,11 @@ lietuvių kalba (LT) (751.53 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/lt/documents/product-information/bildyos-epar-product-information_lt.pdf)
 
-magyar (HU) (669.32 KB - PDF)
+magyar (HU) (758.74 KB - PDF)
 
 **First published:**
 
@@ -479,11 +479,11 @@ magyar (HU) (669.32 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/hu/documents/product-information/bildyos-epar-product-information_hu.pdf)
 
-Malti (MT) (854.44 KB - PDF)
+Malti (MT) (822.91 KB - PDF)
 
 **First published:**
 
@@ -491,11 +491,11 @@ Malti (MT) (854.44 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/mt/documents/product-information/bildyos-epar-product-information_mt.pdf)
 
-Nederlands (NL) (718.05 KB - PDF)
+Nederlands (NL) (735.72 KB - PDF)
 
 **First published:**
 
@@ -503,11 +503,11 @@ Nederlands (NL) (718.05 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/nl/documents/product-information/bildyos-epar-product-information_nl.pdf)
 
-norsk (NO) (682.74 KB - PDF)
+norsk (NO) (716.68 KB - PDF)
 
 **First published:**
 
@@ -515,11 +515,11 @@ norsk (NO) (682.74 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/no/documents/product-information/bildyos-epar-product-information_no.pdf)
 
-polski (PL) (766.21 KB - PDF)
+polski (PL) (678.65 KB - PDF)
 
 **First published:**
 
@@ -527,11 +527,11 @@ polski (PL) (766.21 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/pl/documents/product-information/bildyos-epar-product-information_pl.pdf)
 
-português (PT) (619.53 KB - PDF)
+português (PT) (746.84 KB - PDF)
 
 **First published:**
 
@@ -539,11 +539,11 @@ português (PT) (619.53 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/pt/documents/product-information/bildyos-epar-product-information_pt.pdf)
 
-română (RO) (749.13 KB - PDF)
+română (RO) (719.01 KB - PDF)
 
 **First published:**
 
@@ -551,11 +551,11 @@ română (RO) (749.13 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/ro/documents/product-information/bildyos-epar-product-information_ro.pdf)
 
-slovenčina (SK) (651.19 KB - PDF)
+slovenčina (SK) (767.57 KB - PDF)
 
 **First published:**
 
@@ -563,11 +563,11 @@ slovenčina (SK) (651.19 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/sk/documents/product-information/bildyos-epar-product-information_sk.pdf)
 
-slovenščina (SL) (749.85 KB - PDF)
+slovenščina (SL) (709.35 KB - PDF)
 
 **First published:**
 
@@ -575,11 +575,11 @@ slovenščina (SL) (749.85 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/sl/documents/product-information/bildyos-epar-product-information_sl.pdf)
 
-Suomi (FI) (742.51 KB - PDF)
+Suomi (FI) (731.47 KB - PDF)
 
 **First published:**
 
@@ -587,11 +587,11 @@ Suomi (FI) (742.51 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/fi/documents/product-information/bildyos-epar-product-information_fi.pdf)
 
-svenska (SV) (679.08 KB - PDF)
+svenska (SV) (723.01 KB - PDF)
 
 **First published:**
 
@@ -599,11 +599,11 @@ svenska (SV) (679.08 KB - PDF)
 
 **Last updated:**
 
-27/11/2025
+06/01/2026
 
 [View](/sv/documents/product-information/bildyos-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** T/0000302034 06/11/2025
+**Latest procedure affecting product information:** VR/0000317750 05/01/2026
 
 icon globe
 
@@ -629,7 +629,7 @@ English (EN) (66.97 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/bildyos-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-912)
+[Other languages (24)](#file-language-dropdown-340)
 
 български (BG) (56.09 KB - PDF)
 
@@ -959,7 +959,7 @@ Sciencepharma Sp. z o.o
 
 Ul. Chelmska 30/34 00-725 Warsaw Poland
 
-Opinion adopted 24/07/2025 Marketing authorisation issued 17/09/2025 Revision 1
+Opinion adopted 24/07/2025 Marketing authorisation issued 17/09/2025 Revision 2
 
 ## Assessment history
 
@@ -971,9 +971,11 @@ Collapse section
 
 Bildyos : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (145.18 KB - PDF)
+English (EN) (143.05 KB - PDF)
 
 **First published:** 27/11/2025
+
+**Last updated:** 06/01/2026
 
 [View](/en/documents/procedural-steps-after/bildyos-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1007,7 +1009,7 @@ English (EN) (128.22 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 July 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-july-2025) 25/07/2025
 
-**This page was last updated on** 27/11/2025
+**This page was last updated on** 06/01/2026
 
 ## Share this page
 

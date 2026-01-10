@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 12:20:44
+document_datetime: 2026-01-07 17:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/olanzapine-viatris.html
 document_name: olanzapine-viatris.html
 version: success
-processing_time: 0.1277016
-conversion_datetime: 2025-12-31 03:22:13.847815
+processing_time: 0.1404465
+conversion_datetime: 2026-01-10 11:26:04.572455
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -108,7 +108,7 @@ English (EN) (135.87 KB - PDF)
 
 [View](/en/documents/overview/olanzapine-viatris-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-748)
+[Other languages (22)](#file-language-dropdown-336)
 
 български (BG) (163.09 KB - PDF)
 
@@ -378,17 +378,17 @@ svenska (SV) (135.21 KB - PDF)
 
 Olanzapine Viatris : EPAR - Product information
 
-English (EN) (445.21 KB - PDF)
+English (EN) (645.56 KB - PDF)
 
 **First published:** 25/11/2009
 
-**Last updated:** 13/01/2025
+**Last updated:** 07/01/2026
 
 [View](/en/documents/product-information/olanzapine-viatris-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-976)
+[Other languages (24)](#file-language-dropdown-412)
 
-български (BG) (854.48 KB - PDF)
+български (BG) (749.77 KB - PDF)
 
 **First published:**
 
@@ -396,11 +396,11 @@ English (EN) (445.21 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/bg/documents/product-information/olanzapine-viatris-epar-product-information_bg.pdf)
 
-español (ES) (369.23 KB - PDF)
+español (ES) (645.75 KB - PDF)
 
 **First published:**
 
@@ -408,11 +408,11 @@ español (ES) (369.23 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/es/documents/product-information/olanzapine-viatris-epar-product-information_es.pdf)
 
-čeština (CS) (606.9 KB - PDF)
+čeština (CS) (766.31 KB - PDF)
 
 **First published:**
 
@@ -420,11 +420,11 @@ español (ES) (369.23 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/cs/documents/product-information/olanzapine-viatris-epar-product-information_cs.pdf)
 
-dansk (DA) (675.94 KB - PDF)
+dansk (DA) (716.13 KB - PDF)
 
 **First published:**
 
@@ -432,11 +432,11 @@ dansk (DA) (675.94 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/da/documents/product-information/olanzapine-viatris-epar-product-information_da.pdf)
 
-Deutsch (DE) (531.99 KB - PDF)
+Deutsch (DE) (692.7 KB - PDF)
 
 **First published:**
 
@@ -444,11 +444,11 @@ Deutsch (DE) (531.99 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/de/documents/product-information/olanzapine-viatris-epar-product-information_de.pdf)
 
-eesti keel (ET) (430.8 KB - PDF)
+eesti keel (ET) (655.22 KB - PDF)
 
 **First published:**
 
@@ -456,11 +456,11 @@ eesti keel (ET) (430.8 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/et/documents/product-information/olanzapine-viatris-epar-product-information_et.pdf)
 
-ελληνικά (EL) (540.19 KB - PDF)
+ελληνικά (EL) (579.45 KB - PDF)
 
 **First published:**
 
@@ -468,11 +468,11 @@ eesti keel (ET) (430.8 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/el/documents/product-information/olanzapine-viatris-epar-product-information_el.pdf)
 
-français (FR) (697 KB - PDF)
+français (FR) (735.5 KB - PDF)
 
 **First published:**
 
@@ -480,11 +480,11 @@ français (FR) (697 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/fr/documents/product-information/olanzapine-viatris-epar-product-information_fr.pdf)
 
-hrvatski (HR) (467.37 KB - PDF)
+hrvatski (HR) (690.53 KB - PDF)
 
 **First published:**
 
@@ -492,11 +492,11 @@ hrvatski (HR) (467.37 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/hr/documents/product-information/olanzapine-viatris-epar-product-information_hr.pdf)
 
-íslenska (IS) (631.98 KB - PDF)
+íslenska (IS) (650.51 KB - PDF)
 
 **First published:**
 
@@ -504,11 +504,11 @@ hrvatski (HR) (467.37 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/is/documents/product-information/olanzapine-viatris-epar-product-information_is.pdf)
 
-italiano (IT) (361.97 KB - PDF)
+italiano (IT) (594.91 KB - PDF)
 
 **First published:**
 
@@ -516,11 +516,11 @@ italiano (IT) (361.97 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/it/documents/product-information/olanzapine-viatris-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (465.78 KB - PDF)
+latviešu valoda (LV) (425.24 KB - PDF)
 
 **First published:**
 
@@ -528,11 +528,11 @@ latviešu valoda (LV) (465.78 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/lv/documents/product-information/olanzapine-viatris-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (473.59 KB - PDF)
+lietuvių kalba (LT) (530.91 KB - PDF)
 
 **First published:**
 
@@ -540,11 +540,11 @@ lietuvių kalba (LT) (473.59 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/lt/documents/product-information/olanzapine-viatris-epar-product-information_lt.pdf)
 
-magyar (HU) (725.78 KB - PDF)
+magyar (HU) (747.73 KB - PDF)
 
 **First published:**
 
@@ -552,11 +552,11 @@ magyar (HU) (725.78 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/hu/documents/product-information/olanzapine-viatris-epar-product-information_hu.pdf)
 
-Malti (MT) (900.99 KB - PDF)
+Malti (MT) (842.92 KB - PDF)
 
 **First published:**
 
@@ -564,11 +564,11 @@ Malti (MT) (900.99 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/mt/documents/product-information/olanzapine-viatris-epar-product-information_mt.pdf)
 
-Nederlands (NL) (569.6 KB - PDF)
+Nederlands (NL) (720.29 KB - PDF)
 
 **First published:**
 
@@ -576,11 +576,11 @@ Nederlands (NL) (569.6 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/nl/documents/product-information/olanzapine-viatris-epar-product-information_nl.pdf)
 
-norsk (NO) (658 KB - PDF)
+norsk (NO) (484.37 KB - PDF)
 
 **First published:**
 
@@ -588,11 +588,11 @@ norsk (NO) (658 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/no/documents/product-information/olanzapine-viatris-epar-product-information_no.pdf)
 
-polski (PL) (454.78 KB - PDF)
+polski (PL) (428.05 KB - PDF)
 
 **First published:**
 
@@ -600,11 +600,11 @@ polski (PL) (454.78 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/pl/documents/product-information/olanzapine-viatris-epar-product-information_pl.pdf)
 
-português (PT) (502.58 KB - PDF)
+português (PT) (580.87 KB - PDF)
 
 **First published:**
 
@@ -612,11 +612,11 @@ português (PT) (502.58 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/pt/documents/product-information/olanzapine-viatris-epar-product-information_pt.pdf)
 
-română (RO) (616.29 KB - PDF)
+română (RO) (800.64 KB - PDF)
 
 **First published:**
 
@@ -624,11 +624,11 @@ română (RO) (616.29 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/ro/documents/product-information/olanzapine-viatris-epar-product-information_ro.pdf)
 
-slovenčina (SK) (627.93 KB - PDF)
+slovenčina (SK) (800.88 KB - PDF)
 
 **First published:**
 
@@ -636,11 +636,11 @@ slovenčina (SK) (627.93 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/sk/documents/product-information/olanzapine-viatris-epar-product-information_sk.pdf)
 
-slovenščina (SL) (423.79 KB - PDF)
+slovenščina (SL) (436.01 KB - PDF)
 
 **First published:**
 
@@ -648,11 +648,11 @@ slovenščina (SL) (423.79 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/sl/documents/product-information/olanzapine-viatris-epar-product-information_sl.pdf)
 
-Suomi (FI) (645.68 KB - PDF)
+Suomi (FI) (659.81 KB - PDF)
 
 **First published:**
 
@@ -660,11 +660,11 @@ Suomi (FI) (645.68 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/fi/documents/product-information/olanzapine-viatris-epar-product-information_fi.pdf)
 
-svenska (SV) (611.37 KB - PDF)
+svenska (SV) (683.1 KB - PDF)
 
 **First published:**
 
@@ -672,11 +672,11 @@ svenska (SV) (611.37 KB - PDF)
 
 **Last updated:**
 
-13/01/2025
+07/01/2026
 
 [View](/sv/documents/product-information/olanzapine-viatris-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** T/0061 19/12/2024
+**Latest procedure affecting product information:** N/0000317950 07/01/2026
 
 icon globe
 
@@ -702,7 +702,7 @@ English (EN) (50.73 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/olanzapine-viatris-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-190)
+[Other languages (24)](#file-language-dropdown-418)
 
 български (BG) (35.63 KB - PDF)
 
@@ -1031,7 +1031,7 @@ Viatris Limited
 
 Damastown Industrial Park Mulhuddart Dublin Dublin 15 Ireland
 
-Marketing authorisation issued 06/10/2008 Revision 22
+Marketing authorisation issued 06/10/2008 Revision 23
 
 ## Assessment history
 
@@ -1043,13 +1043,21 @@ Collapse section
 
 Olanzapine Viatris : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (142.81 KB - PDF)
+
+**First published:** 07/01/2026
+
+[View](/en/documents/procedural-steps-after/olanzapine-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Olanzapine Viatris : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (220.9 KB - PDF)
 
 **First published:** 25/11/2009
 
-**Last updated:** 13/01/2025
+**Last updated:** 07/01/2026
 
-[View](/en/documents/procedural-steps-after/olanzapine-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/olanzapine-viatris-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -1360,7 +1368,7 @@ svenska (SV) (67.11 KB - PDF)
 - [Generic and hybrid medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A54)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 27/01/2025
+**This page was last updated on** 07/01/2026
 
 ## Share this page
 

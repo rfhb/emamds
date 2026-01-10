@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 11:00:44
+document_datetime: 2026-01-07 17:05:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/herzuma.html
 document_name: herzuma.html
 version: success
-processing_time: 0.1155359
-conversion_datetime: 2025-12-30 10:51:07.143845
+processing_time: 0.1075599
+conversion_datetime: 2026-01-10 11:00:02.406545
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -129,7 +129,7 @@ English (EN) (106.71 KB - PDF)
 
 [View](/en/documents/overview/herzuma-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-988)
+[Other languages (22)](#file-language-dropdown-367)
 
 български (BG) (131.3 KB - PDF)
 
@@ -415,7 +415,7 @@ English (EN) (522.32 KB - PDF)
 
 [View](/en/documents/product-information/herzuma-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-530)
+[Other languages (24)](#file-language-dropdown-554)
 
 български (BG) (619.8 KB - PDF)
 
@@ -731,7 +731,7 @@ English (EN) (43.02 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/herzuma-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-250)
+[Other languages (24)](#file-language-dropdown-733)
 
 български (BG) (50.57 KB - PDF)
 
@@ -1078,7 +1078,7 @@ Celltrion Healthcare Hungary Kft.
 
 1062 Budapest
 
-Opinion adopted 14/12/2017 Marketing authorisation issued 09/02/2018 Revision 25
+Opinion adopted 14/12/2017 Marketing authorisation issued 09/02/2018 Revision 26
 
 ## Assessment history
 
@@ -1100,11 +1100,11 @@ English (EN) (125.24 KB - PDF)
 
 Herzuma : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-English (EN) (185.45 KB - PDF)
+English (EN) (244.66 KB - PDF)
 
 **First published:** 28/05/2018
 
-**Last updated:** 18/10/2024
+**Last updated:** 07/01/2026
 
 [View](/en/documents/procedural-steps-after/herzuma-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -1151,7 +1151,7 @@ English (EN) (72.66 KB - PDF)
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 11/04/2025
+**This page was last updated on** 07/01/2026
 
 ## Share this page
 

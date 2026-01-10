@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-02-03 15:27:11
-document_pages: 53
+document_datetime: 2026-01-07 09:05:30
+document_pages: 54
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/trazimera-epar-product-information_en.pdf
 document_name: trazimera-epar-product-information_en.pdf
 version: success
-processing_time: 19.7368544
-conversion_datetime: 2025-12-25 06:26:03.955713
+processing_time: 20.0132099
+conversion_datetime: 2026-01-10 11:37:25.846127
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -1114,13 +1114,10 @@ Detailed information on this medicinal product is available on the website of th
 
 ## ANNEX II
 
-## A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- A. MANUFACTURER(S) OF THE BIOLOGICAL ACTIVE SUBSTANCE(S) AND MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1132,6 +1129,8 @@ Boehringer Ingelheim Pharma GmbH &amp; Co KG Birkendorfer Straße 65 88397 Biber
 
 Pfizer Ireland Pharmaceuticals Unlimited Company Grange Castle Business Park Nangor Road Dublin 22 D22 V8F8 Ireland
 
+Samsung Biologics Co. Ltd. 300, Songdo bio-daero Yeonsu-gu, Incheon, 21987 Republic of Korea
+
 Name and address of the manufacturer responsible for batch release
 
 Pfizer Manufacturing Belgium NV Rijksweg 12 2870 Puurs-Sint-Amands Belgium
@@ -1142,19 +1141,22 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic safety update reports (PSURs)
+-  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk management plan (RMP)
+-  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
 -  At the request of the European Medicines Agency.
+
+<div style=\"page-break-after: always\"></div>
+
 -  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
@@ -1269,8 +1271,6 @@ Lot
 
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
-## 6. OTHER
-
 | 6.   | OTHER   |
 |------|---------|
 
@@ -1340,7 +1340,7 @@ Lot
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
@@ -1611,9 +1611,7 @@ anxiety
 
 - inflammation of the liver
 
-- •
-
-depression
+- depression
 
 - kidney disorders •
 
@@ -1790,9 +1788,9 @@ Pfizer Ελλάς A.E.
 
 Pfizer Ελλάς A.E. (Cyprus Branch)
 
-: +357 22817690
-
 T 
+
+: +357 22817690
 
 ## Magyarország
 

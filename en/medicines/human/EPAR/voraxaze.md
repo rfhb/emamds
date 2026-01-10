@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 11:44:53
+document_datetime: 2026-01-07 14:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/voraxaze.html
 document_name: voraxaze.html
 version: success
-processing_time: 0.105142
-conversion_datetime: 2025-12-30 21:02:52.472511
+processing_time: 0.2446043
+conversion_datetime: 2026-01-10 10:57:09.946848
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -118,7 +118,7 @@ English (EN) (144.24 KB - PDF)
 
 [View](/en/documents/overview/voraxaze-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-53)
+[Other languages (22)](#file-language-dropdown-535)
 
 български (BG) (138.02 KB - PDF)
 
@@ -316,7 +316,7 @@ English (EN) (433.46 KB - PDF)
 
 [View](/en/documents/product-information/voraxaze-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-400)
+[Other languages (24)](#file-language-dropdown-745)
 
 български (BG) (445.5 KB - PDF)
 
@@ -630,7 +630,7 @@ English (EN) (47.55 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/voraxaze-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-298)
+[Other languages (24)](#file-language-dropdown-984)
 
 български (BG) (57.15 KB - PDF)
 
@@ -856,9 +856,9 @@ Marketing authorisation holder
 
 SERB SAS
 
-32 Rue du Monceau 75008 Paris France
+32 Rue de Monceau 75008 Paris France
 
-Opinion adopted 11/11/2021 Marketing authorisation issued 11/01/2022 Revision 2
+Opinion adopted 11/11/2021 Marketing authorisation issued 11/01/2022 Revision 3
 
 ## Assessment history
 
@@ -878,11 +878,11 @@ English (EN) (288.44 KB - PDF)
 
 Voraxaze : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-English (EN) (126.15 KB - PDF)
+English (EN) (180.38 KB - PDF)
 
 **First published:** 12/02/2024
 
-**Last updated:** 05/12/2025
+**Last updated:** 07/01/2026
 
 [View](/en/documents/procedural-steps-after/voraxaze-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -932,7 +932,7 @@ English (EN) (109.23 KB - PDF)
 
 - [EU/3/02/128 - orphan designation for adjunctive treatment in patients at risk of methotrexate toxicity](/en/medicines/human/orphan-designations/eu-3-02-128)
 
-**This page was last updated on** 05/12/2025
+**This page was last updated on** 07/01/2026
 
 ## Share this page
 

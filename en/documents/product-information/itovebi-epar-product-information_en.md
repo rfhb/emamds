@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-08-27 16:26:54
+document_datetime: 2026-01-06 11:50:28
 document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/itovebi-epar-product-information_en.pdf
 document_name: itovebi-epar-product-information_en.pdf
 version: success
-processing_time: 10.1064605
-conversion_datetime: 2025-12-20 07:23:48.799487
+processing_time: 11.4605206
+conversion_datetime: 2026-01-10 10:58:01.084815
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -28,11 +28,13 @@ This medicinal product is subject to additional monitoring. This will allow quic
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Itovebi 3 mg film-coated tablets Itovebi 9 mg film-coated tablets
+Itovebi 3 mg film-coated tablets
+
+Itovebi 9 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Itovebi 3 mg film-coated tablets
+## Itovebi 3 mg film-coated tablets
 
 Each film-coated tablet contains 3 mg of inavolisib.
 
@@ -50,11 +52,11 @@ For the full list of excipients, see section 6.1.
 
 Film-coated tablet (tablet).
 
-Itovebi 3 mg film-coated tablets
+## Itovebi 3 mg film-coated tablets
 
 Red, round convex-shaped film-coated tablet with an 'INA 3' debossing on one side. Approximate diameter: 6 mm.
 
-Itovebi 9 mg film-coated tablets
+## Itovebi 9 mg film-coated tablets
 
 Pink, oval film-coated tablet with an 'INA 9' debossing on one side. Approximate size: 13 mm (length), 6 mm (width).
 
@@ -113,50 +115,50 @@ Hyperglycaemia
 
 Table 2: Dose modification and management for hyperglycaemia
 
-| Fasting glucose levels a                  | Recommendation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| > ULN to 160 mg/dL (> ULN to 8.9 mmol/L)  | • No adjustment of Itovebi required. • Consider dietary modifications (e.g., low carbohydrate diet) and ensure adequate hydration. • Consider initiating or intensifying oral anti-hyperglycaemic treatment b for patients with risk factors for hyperglycaemia c .                                                                                                                                                                                                                                                                                                                                                                       |
-| > 160 to 250 mg/dL (> 8.9 - 13.9 mmol/L)  | • Interrupt Itovebi until fasting glucose level decreases to ≤ 160 mg/dL ( ≤ 8.9 mmol/L). • Initiate or intensify anti-hyperglycaemic treatment b . • Resume Itovebi at the same dose level. • If fasting glucose level persists > 200 - 250 mg/dL (> 11.1 - 13.9 mmol/L) for 7 days under appropriate anti-hyperglycaemic treatment, consultation with a healthcare professional experienced in the treatment of hyperglycaemia is recommended.                                                                                                                                                                                          |
-| > 250 to 500 mg/dL (> 13.9 - 27.8 mmol/L) | • Interrupt Itovebi. • Initiate or intensify anti-hyperglycaemic treatment b . • Administer appropriate hydration if required. • If fasting glucose level decreases to ≤ 160 mg/dL ( ≤ 8.9 mmol/L) within 7 days, resume Itovebi at the same dose level. • If fasting glucose level decreases to ≤ 160 mg/dL ( ≤ 8.9 mmol/L) in ≥ 8 days, resume Itovebi at one lower dose level (see Table 1). • If fasting glucose level > 250 to 500 mg/dL (> 13.9 - 27.8 mmol/L) recurs within 30 days, interrupt Itovebi until fasting glucose level decreases to ≤ 160 mg/dL ( ≤ 8.9 mmol/L). Resume Itovebi at one lower dose level (see Table 1). |
+| Fasting glucose levels a                  | Recommendation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| > ULN to 160 mg/dL (> ULN to 8.9 mmol/L)  |  No adjustment of Itovebi required.  Consider dietary modifications (e.g., low carbohydrate diet) and ensure adequate hydration.  Consider initiating or intensifying oral anti-hyperglycaemic treatment b for patients with risk factors for hyperglycaemia c .                                                                                                                                                                                                                                                                                                                                                                          |
+| > 160 to 250 mg/dL (> 8.9 - 13.9 mmol/L)  |  Interrupt Itovebi until fasting glucose level decreases to ≤ 160 mg/dL ( ≤ 8.9 mmol/L).  Initiate or intensify anti-hyperglycaemic treatment b .  Resume Itovebi at the same dose level.  If fasting glucose level persists > 200 - 250 mg/dL (> 11.1 - 13.9 mmol/L) for 7 days under appropriate anti-hyperglycaemic treatment, consultation with a healthcare professional experienced in the treatment of hyperglycaemia is recommended.                                                                                                                                                                                            |
+| > 250 to 500 mg/dL (> 13.9 - 27.8 mmol/L) |  Interrupt Itovebi.  Initiate or intensify anti-hyperglycaemic treatment b .  Administer appropriate hydration if required.  If fasting glucose level decreases to ≤ 160 mg/dL ( ≤ 8.9 mmol/L) within 7 days, resume Itovebi at the same dose level.  If fasting glucose level decreases to ≤ 160 mg/dL ( ≤ 8.9 mmol/L) in ≥ 8 days, resume Itovebi at one lower dose level (see Table 1).  If fasting glucose level > 250 to 500 mg/dL (> 13.9 - 27.8 mmol/L) recurs within 30 days, interrupt Itovebi until fasting glucose level decreases to ≤ 160 mg/dL ( ≤ 8.9 mmol/L). Resume Itovebi at one lower dose level (see Table 1). |
 
 <div style=\"page-break-after: always\"></div>
 
-| Fasting glucose levels a                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Recommendation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| > 500 mg/dL (> 27.8 mmol/L)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | • Interrupt Itovebi. • Initiate or intensify anti-hyperglycaemic treatment b . • Assess for volume depletion and ketosis and administer appropriate hydration. • If fasting glucose level decreases to ≤ 160 mg/dL ( ≤ 8.9 mmol/L), resume Itovebi at one lower dose level (see Table 1). • If fasting glucose level > 500 mg/dL (> 27.8 mmol/L) recurs within 30 days, permanently discontinue Itovebi.                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ULN = upper limit of normal a Fasting glucose levels (fasting plasma glucose [FPG] or fasting blood glucose [FBG]) should be checked prior to initiation of treatment. Fasting glucose levels referenced in this table reflect hyperglycaemia grading according to Common Terminology Criteria for Adverse Events (CTCAE) version 4.03. b Initiate applicable anti-hyperglycaemic treatments such as metformin, sodium-glucose cotransporter-2 (SGLT2) inhibitors, insulin sensitisers (such as thiazolidinediones), dipeptidyl peptidase-4 (DPP-4) inhibitors, or insulin, and review the respective prescribing information for dosing and dose titration recommendations, including local hyperglycaemia treatment guidelines. Metformin was recommended in the INAVO120 study as the preferred initial agent. See sections 4.4 and 4.8. | ULN = upper limit of normal a Fasting glucose levels (fasting plasma glucose [FPG] or fasting blood glucose [FBG]) should be checked prior to initiation of treatment. Fasting glucose levels referenced in this table reflect hyperglycaemia grading according to Common Terminology Criteria for Adverse Events (CTCAE) version 4.03. b Initiate applicable anti-hyperglycaemic treatments such as metformin, sodium-glucose cotransporter-2 (SGLT2) inhibitors, insulin sensitisers (such as thiazolidinediones), dipeptidyl peptidase-4 (DPP-4) inhibitors, or insulin, and review the respective prescribing information for dosing and dose titration recommendations, including local hyperglycaemia treatment guidelines. Metformin was recommended in the INAVO120 study as the preferred initial agent. See sections 4.4 and 4.8. |
+| Fasting glucose levels a                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Recommendation                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| > 500 mg/dL (> 27.8 mmol/L)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |  Interrupt Itovebi.  Initiate or intensify anti-hyperglycaemic treatment b .  Assess for volume depletion and ketosis and administer appropriate hydration.  If fasting glucose level decreases to ≤ 160 mg/dL ( ≤ 8.9 mmol/L), resume Itovebi at one lower dose level (see Table 1).  If fasting glucose level > 500 mg/dL (> 27.8 mmol/L) recurs within 30 days, permanently discontinue Itovebi.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ULN = upper limit of normal a Fasting glucose levels (fasting plasma glucose [FPG] or fasting blood glucose [FBG]) should be checked prior to initiation of treatment. Fasting glucose levels referenced in this table reflect hyperglycaemia grading according to Common Terminology Criteria for Adverse Events (CTCAE) version 4.03. b Initiate applicable anti-hyperglycaemic treatments such as metformin, sodium-glucose cotransporter-2 (SGLT2) inhibitors, insulin sensitisers (such as thiazolidinediones), dipeptidyl peptidase-4 (DPP-4) inhibitors, or insulin, and review the respective prescribing information for dosing and dose titration recommendations, including local hyperglycaemia treatment guidelines. Metformin was recommended in the INAVO120 study as the preferred initial agent. See sections 4.4 and 4.8. c See section 4.4 for risk factors for hyperglycaemia. | ULN = upper limit of normal a Fasting glucose levels (fasting plasma glucose [FPG] or fasting blood glucose [FBG]) should be checked prior to initiation of treatment. Fasting glucose levels referenced in this table reflect hyperglycaemia grading according to Common Terminology Criteria for Adverse Events (CTCAE) version 4.03. b Initiate applicable anti-hyperglycaemic treatments such as metformin, sodium-glucose cotransporter-2 (SGLT2) inhibitors, insulin sensitisers (such as thiazolidinediones), dipeptidyl peptidase-4 (DPP-4) inhibitors, or insulin, and review the respective prescribing information for dosing and dose titration recommendations, including local hyperglycaemia treatment guidelines. Metformin was recommended in the INAVO120 study as the preferred initial agent. See sections 4.4 and 4.8. c See section 4.4 for risk factors for hyperglycaemia. |
 
 Stomatitis
 
 Table 3: Dose modification and management for stomatitis
 
-| Grade a                       | Recommendation                                                                                                                                                                                                                                                                           |
-|-------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Grade 1                       | • No adjustment of Itovebi required. • Initiate or intensify appropriate medical therapy (e.g., corticosteroid-containing mouthwash) as clinically indicated.                                                                                                                            |
-| Grade 2                       | • Withhold Itovebi until recovery to Grade ≤ 1. • Initiate or intensify appropriate medical therapy. Resume Itovebi at the same dose level. • For recurrent Grade 2 stomatitis, withhold Itovebi until recovery to Grade ≤ 1, then resume Itovebi at one lower dose level (see Table 1). |
-| Grade 3                       | • Withhold Itovebi until recovery to Grade ≤ 1. • Initiate or intensify appropriate medical therapy. Resume Itovebi at one lower dose level (see Table 1).                                                                                                                               |
-| Grade 4                       | • Permanently discontinue Itovebi.                                                                                                                                                                                                                                                       |
-| a Based on CTCAE version 5.0. | a Based on CTCAE version 5.0.                                                                                                                                                                                                                                                            |
+| Grade a                       | Recommendation                                                                                                                                                                                                                                                                              |
+|-------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Grade 1                       |  No adjustment of Itovebi required.  Initiate or intensify appropriate medical therapy (e.g., corticosteroid-containing mouthwash) as clinically indicated.                                                                                                                             |
+| Grade 2                       |  Withhold Itovebi until recovery to Grade ≤ 1.  Initiate or intensify appropriate medical therapy. Resume Itovebi at the same dose level.  For recurrent Grade 2 stomatitis, withhold Itovebi until recovery to Grade ≤ 1, then resume Itovebi at one lower dose level (see Table 1). |
+| Grade 3                       |  Withhold Itovebi until recovery to Grade ≤ 1.  Initiate or intensify appropriate medical therapy. Resume Itovebi at one lower dose level (see Table 1).                                                                                                                                |
+| Grade 4                       |  Permanently discontinue Itovebi.                                                                                                                                                                                                                                                         |
+| a Based on CTCAE version 5.0. | a Based on CTCAE version 5.0.                                                                                                                                                                                                                                                               |
 
 Other adverse reactions
 
 Table 4: Dose modification and management for other adverse reactions
 
-| Grade a                                                                          | Recommendation                                                                                                                     |
-|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
-| For all grades: Initiate supportive therapy and monitor as clinically indicated. | For all grades: Initiate supportive therapy and monitor as clinically indicated.                                                   |
-| Grade 1                                                                          | • No adjustment of Itovebi required.                                                                                               |
-| Grade 2                                                                          | • Consider interruption of Itovebi, if clinically indicated, until recovery to Grade ≤ 1. • Resume Itovebi at the same dose level. |
+| Grade a                                                                          | Recommendation                                                                                                                       |
+|----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| For all grades: Initiate supportive therapy and monitor as clinically indicated. | For all grades: Initiate supportive therapy and monitor as clinically indicated.                                                     |
+| Grade 1                                                                          |  No adjustment of Itovebi required.                                                                                                |
+| Grade 2                                                                          |  Consider interruption of Itovebi, if clinically indicated, until recovery to Grade ≤ 1.  Resume Itovebi at the same dose level. |
 
 <div style=\"page-break-after: always\"></div>
 
-| Grade a                                                                          | Recommendation                                                                                                                                                  |
-|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| For all grades: Initiate supportive therapy and monitor as clinically indicated. | For all grades: Initiate supportive therapy and monitor as clinically indicated.                                                                                |
-| Grade 3, first event                                                             | • Interrupt Itovebi until recovery to Grade ≤ 1. • Resume Itovebi at the same dose level or at one lower dose level based on clinical evaluation (see Table 1). |
-| Grade 3, recurrent OR Grade 4, non-life-threatening                              | • Interrupt Itovebi until recovery to Grade ≤ 1. • Resume Itovebi at one lower dose level (see Table 1).                                                        |
-| Grade 4, life-threatening                                                        | • Permanently discontinue Itovebi.                                                                                                                              |
-| a Based on CTCAE version 5.0.                                                    | a Based on CTCAE version 5.0.                                                                                                                                   |
+| Grade a                                                                          | Recommendation                                                                                                                                                    |
+|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| For all grades: Initiate supportive therapy and monitor as clinically indicated. | For all grades: Initiate supportive therapy and monitor as clinically indicated.                                                                                  |
+| Grade 3, first event                                                             |  Interrupt Itovebi until recovery to Grade ≤ 1.  Resume Itovebi at the same dose level or at one lower dose level based on clinical evaluation (see Table 1). |
+| Grade 3, recurrent OR Grade 4, non-life-threatening                              |  Interrupt Itovebi until recovery to Grade ≤ 1.  Resume Itovebi at one lower dose level (see Table 1).                                                        |
+| Grade 4, life-threatening                                                        |  Permanently discontinue Itovebi.                                                                                                                               |
+| a Based on CTCAE version 5.0.                                                    | a Based on CTCAE version 5.0.                                                                                                                                     |
 
 ## Special populations
 
@@ -211,11 +213,12 @@ Table 5: Schedule of fasting glucose monitoring and HbA1C
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                                    | Recommended schedule for the monitoring of fasting glucose and HbA 1C levels in all patients treated with Itovebi                                                                                                    |
-|--------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                    | HbA 1C should be monitored every 3 months.                                                                                                                                                                           |
-| If hyperglycaemia develops after initiating treatment with Itovebi | Monitor fasting glucose more closely as clinically indicated * . Based on the severity of the hyperglycaemia, Itovebi dosing may be interrupted, reduced, or discontinued as described in Table 2 (see section 4.2). |
-|                                                                    | During anti-hyperglycaemic treatment, fasting glucose levels should continue to be monitored at least once a week for 8 weeks, followed by once every 2 weeks, and as clinically indicated * .                       |
+|                                                                                                     | Recommended schedule for the monitoring of fasting glucose and HbA 1C levels in all patients treated with Itovebi                                                                                                    |
+|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                     | HbA 1C should be monitored every 3 months.                                                                                                                                                                           |
+| If hyperglycaemia develops after initiating treatment with Itovebi                                  | Monitor fasting glucose more closely as clinically indicated * . Based on the severity of the hyperglycaemia, Itovebi dosing may be interrupted, reduced, or discontinued as described in Table 2 (see section 4.2). |
+|                                                                                                     | During anti-hyperglycaemic treatment, fasting glucose levels should continue to be monitored at least once a week for 8 weeks, followed by once every 2 weeks, and as clinically indicated * .                       |
+| * All glucose monitoring should be performed at the physician's discretion as clinically indicated. | * All glucose monitoring should be performed at the physician's discretion as clinically indicated.                                                                                                                  |
 
 ## Stomatitis
 
@@ -301,7 +304,7 @@ Permanent discontinuation of Itovebi due to an adverse reaction occurred in 3.1%
 
 Adverse drug reactions, based on data from 162 patients with locally advanced or metastatic breast cancer who received Itovebi in combination with palbociclib and fulvestrant in the INAVO120 Phase 3, randomised study, and from post-marketing surveillance are listed by MedDRA system organ class in Table 6. The median duration of Itovebi treatment at the time of the analysis was 9.2 months (range: 0 to 38.8 months).
 
-Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. The corresponding frequency category for each adverse drug reaction is based on the following convention: very common ( ≥ 1/10), common ( ≥ 1/100 to &lt; 1/10), uncommon ( ≥ 1/1 000 to &lt; 1/100), rare ( ≥ 1/10 000 to &lt; 1/1 000), very rare ( &lt; 1/10 000), not known (cannot be estimated from available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. The corresponding frequency category for each adverse drug reaction is based on the following convention: very common (  1/10), common (  1/100 to  1/10), uncommon (  1/1 000 to  1/100), rare (  1/10 000 to  1/1 000), very rare (  1/10 000), not known (cannot be estimated from available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 6: Adverse drug reactions observed in patients treated with Itovebi
 
@@ -354,8 +357,8 @@ Grading according to CTCAE version 5.0.
 
 * No Grade 4 events were observed.
 
-- a Includes hyperglycaemia, blood glucose increased, hyperglycaemic crisis, glycated serum protein increased, glucose tolerance impaired, diabetes mellitus, Type 2 diabetes mellitus, and glycosylated haemoglobin increased.
-- b Adverse reaction reported during post-marketing experience. The frequency category was estimated as the upper limit of the 95% confidence interval calculated on the basis of the total number of patients exposed to Itovebi in clinical trials.
+- a  Includes hyperglycaemia, blood glucose increased, hyperglycaemic crisis, glycated serum protein increased, glucose tolerance impaired, diabetes mellitus, Type 2 diabetes mellitus, and glycosylated haemoglobin increased.
+- b  Adverse reaction reported during post-marketing experience. The frequency category was estimated as the upper limit of the 95% confidence interval calculated on the basis of the total number of patients exposed to Itovebi in clinical trials.
 - c Includes aphthous ulcer, glossitis, glossodynia, lip ulceration, mouth ulceration, mucosal inflammation, and stomatitis.
 - d Includes rash, rash erythematous, rash maculo-papular, rash papular, rash pruritic, and rash pustular.
 - e Includes dry skin, skin fissures, xerosis, and xeroderma.
@@ -418,7 +421,7 @@ Pharmacotherapeutic group: Antineoplastic agents, PI3K inhibitors, ATC Code: not
 
 ## Mechanism of action
 
-Inavolisib is an inhibitor of the phosphatidylinositol-4,5-bisphosphate 3-kinase (PI3K) catalytic subunit alpha isoform protein (p110α; encoded by the PIK3CA gene). In addition, inavolisib promotes the degradation of mutated p110α (mutant degrader). The PI3K signalling pathway is commonly dysregulated in HR-positive breast cancer, often due to activating PIK3CA mutations. With its dual mechanism of action, inavolisib inhibits the activity of downstream PI3K pathway targets, including AKT, resulting in reduced cellular proliferation and induction of apoptosis in PIK3CA -mutated breast cancer cell lines.
+Inavolisib is an inhibitor of the phosphatidylinositol-4,5-bisphosphate 3-kinase (PI3K) catalytic subunit alpha isoform protein (p110 α ; encoded by the PIK3CA gene). In addition, inavolisib promotes the degradation of mutated p110 α (mutant degrader). The PI3K signalling pathway is commonly dysregulated in HR-positive breast cancer, often due to activating PIK3CA mutations. With its dual mechanism of action, inavolisib inhibits the activity of downstream PI3K pathway targets, including AKT, resulting in reduced cellular proliferation and induction of apoptosis in PIK3CA -mutated breast cancer cell lines.
 
 ## Clinical efficacy and safety
 
@@ -428,7 +431,7 @@ The patients in this setting, based on data from the INAVO120 study, are defined
 
 ## INAVO120
 
-The efficacy of Itovebi in combination with palbociclib and fulvestrant was evaluated in a Phase 3, randomised, double-blind, placebo-controlled study in adult patients with PIK3CA -mutated, HR-positive, HER2-negative, locally advanced or metastatic breast cancer whose disease progressed during or within 12 months of completing adjuvant endocrine therapy (endocrine-resistant) and who have not received prior systemic therapy for locally advanced or metastatic disease. The study included patients who received prior (neo)adjuvant endocrine therapy including a CDK4/6 inhibitor if the progression event was &gt; 12 months since completion of the CDK4/6 inhibitor portion of (neo)adjuvant therapy, and who had HbA1C &lt; 6% and fasting blood glucose &lt; 126 mg/dL. The study excluded patients with Type 1 diabetes mellitus or Type 2 diabetes mellitus requiring ongoing anti-hyperglycaemic therapy at the start of study treatment, patients who received prior treatment with fulvestrant (except as part of neoadjuvant therapy with treatment duration ≤ 6 months), and patients with known and untreated, or active CNS metastases (progressing or requiring anticonvulsants or corticosteroids for symptomatic control).
+The efficacy of Itovebi in combination with palbociclib and fulvestrant was evaluated in a Phase 3, randomised, double-blind, placebo-controlled study in adult patients with PIK3CA -mutated, HR-positive, HER2-negative, locally advanced or metastatic breast cancer whose disease progressed during or within 12 months of completing adjuvant endocrine therapy (endocrine-resistant) and who have not received prior systemic therapy for locally advanced or metastatic disease. The study included patients who received prior (neo)adjuvant endocrine therapy including a CDK4/6 inhibitor if the progression event was  12 months since completion of the CDK4/6 inhibitor portion of (neo)adjuvant therapy, and who had HbA1C &lt; 6% and fasting blood glucose &lt; 126 mg/dL. The study excluded patients with Type 1 diabetes mellitus or Type 2 diabetes mellitus requiring ongoing anti-hyperglycaemic therapy at the start of study treatment, patients who received prior treatment with fulvestrant (except as part of neoadjuvant therapy with treatment duration ≤ 6 months), and patients with known and untreated, or active CNS metastases (progressing or requiring anticonvulsants or corticosteroids for symptomatic control).
 
 PIK3CA mutation status was prospectively determined through testing of plasma-derived circulating tumour DNA (ctDNA) using a next-generation sequencing (NGS) assay (FoundationOne ®  Liquid CDx assay or PredicineCARE TM ) performed at a central laboratory (87.4%), or in local laboratories (12.6%) using various validated polymerase chain reaction (PCR) or NGS assays on tumour tissue or plasma. The following PIK3CA mutations at the indicated amino acid positions were eligible for inclusion: H1047D/I/L/N/P/Q/R/T/Y, G1049A/C/D/R/S, E545A/D/G/K/L/Q/R/V, E453A/D/G/K/Q/V, E542A/D/G/K/Q/R/V, K111N/R/E, Q546E/H/K/L/P/R, G106A/D/R/S/V, N345D/H/I/K/S/T/Y, G118D, C420R, R88Q, and M1043I/T/V. At least one eligible PIK3CA mutation was identified in at least one of these amino acid positions in each of the enrolled patient specimens. Based on results from the central FoundationOne ®  Liquid CDx assay, the most common PIK3CA alterations were short variants at amino acids H1047 (n=115, 42.6%), E545 (n=58, 21.5%), and E542 (n=39, 14.4%). There were 25 patients whose specimens harboured more than one PIK3CA alterations (i.e., multiple PIK3CA mutations), and 33 with less common PIK3CA alterations.
 
@@ -438,7 +441,7 @@ A total of 325 patients were randomised 1:1 to receive either Itovebi 9 mg (n=16
 
 unacceptable toxicity. In addition, pre/perimenopausal women and men received an LHRH agonist throughout therapy. Randomisation was stratified by presence of visceral disease (yes or no), endocrine resistance (primary or secondary), and geographic region (North America/Western Europe, Asia, other).
 
-The baseline demographic and disease characteristics were: median age 54 years (range: 27 to 79 years , 18.2% were ≥ 65 years of age); 98.2% female; 38.2% pre/perimenopausal; 58.8% White, 38.2% Asian, 2.5% unknown, 0.6% Black or African American; 6.2% Hispanic or Latino; and Eastern Cooperative Oncology Group (ECOG) performance status of 0 (63.4%) or 1 (36.3%). Tamoxifen (56.9%) and aromatase inhibitors (50.2%) were the most commonly used adjuvant endocrine therapies. Three (0.9%) patients received prior CDK4/6 inhibitor therapy. The demographics and baseline disease characteristics were balanced and comparable between study arms.
+The baseline demographic and disease characteristics were: median age 54 years (range: 27 to 79 years, 18.2% were ≥ 65 years of age); 98.2% female; 38.2% pre/perimenopausal; 58.8% White, 38.2% Asian, 2.5% unknown, 0.6% Black or African American; 6.2% Hispanic or Latino; and Eastern Cooperative Oncology Group (ECOG) performance status of 0 (63.4%) or 1 (36.3%). Tamoxifen (56.9%) and aromatase inhibitors (50.2%) were the most commonly used adjuvant endocrine therapies. Three (0.9%) patients received prior CDK4/6 inhibitor therapy. The demographics and baseline disease characteristics were balanced and comparable between study arms.
 
 The primary efficacy outcome measure was investigator (INV)-assessed progression-free survival (PFS) per Response Evaluation Criteria in Solid Tumours (RECIST) version 1.1. The secondary efficacy outcome measures included overall survival (OS), objective response rate (ORR), best overall response (BOR), clinical benefit rate (CBR), duration of response (DOR), and time to confirmed deterioration (TTCD) in pain, physical function, role function, and global health status/health-related quality of life (HRQoL).
 
@@ -465,29 +468,21 @@ Table 7: Efficacy results in patients with locally advanced or metastatic breast
 | Duration of response b                   | Duration of response b                      | Duration of response b                      |
 | Median DOR, months (95% CI)              | 19.2 (14.7, 28.3)                           | 11.1 (8.5, 20.2)                            |
 
-CI = confidence interval; CR = complete response; PR = partial response
-
-a Per RECIST version 1.1. Based on primary analysis (clinical cutoff date: 29 September 2023).
-
-b Based on final overall survival analysis (clinical cutoff date: 15 November 2024).
-
-c The prespecified boundary for statistical significance was p &lt; 0.0469.
-
 <div style=\"page-break-after: always\"></div>
 
-d Per RECIST version 1.1. ORR is defined as the proportion of patients with a CR or PR on two consecutive occasions ≥ 4 weeks apart, as determined by the investigator.
+d  Per RECIST version 1.1. ORR is defined as the proportion of patients with a CR or PR on two consecutive occasions ≥ 4 weeks apart, as determined by the investigator.
 
 Figure 1 INV-assessed progression-free survival in patients with locally advanced or metastatic breast cancer in INAVO120
 
 <!-- image -->
 
-Time in Months
+Time inMonths
 
 Figure 2 Overall survival in patients with locally advanced or metastatic breast cancer in INAVO120
 
 <!-- image -->
 
-Time in Months
+TimeinMonths
 
 <div style=\"page-break-after: always\"></div>
 
@@ -591,13 +586,17 @@ Adverse reactions not observed in clinical studies, but seen in animals at expos
 
 Lactose monohydrate Magnesium stearate (E470b) Microcrystalline cellulose (E460) Sodium starch glycolate
 
-<div style=\"page-break-after: always\"></div>
-
 ## Itovebi 3 mg film-coating
 
-Polyvinyl alcohol, partially hydrolysed Titanium dioxide (E 171) Macrogol Talc (E 553b) Iron oxide red (E 172)
+Polyvinyl alcohol, partially hydrolysed
 
-## Itovebi 9 mg film-coating
+<div style=\"page-break-after: always\"></div>
+
+Titanium dioxide (E 171)
+
+Macrogol Talc (E 553b) Iron oxide red (E 172)
+
+Itovebi 9 mg film-coating
 
 Polyvinyl alcohol, partially hydrolysed Titanium dioxide (E 171) Macrogol Talc (E 553b) Iron oxide red (E 172) Iron oxide yellow (E 172)
 
@@ -607,11 +606,11 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-2 years.
+3 years.
 
 ## 6.4 Special precautions for storage
 
-This medicinal product does not require any special storage conditions.
+This medicinal product does not require any special temperature storage conditions. Store in the original package in order to protect from moisture.
 
 ## 6.5 Nature and contents of container
 
@@ -631,9 +630,11 @@ EU/1/25/1942/001 EU/1/25/1942/002
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-<div style=\"page-break-after: always\"></div>
+Date of first authorisation: 18 July 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
+
+<div style=\"page-break-after: always\"></div>
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
@@ -642,11 +643,8 @@ Detailed information on this medicinal product is available on the website of th
 ## ANNEX II
 
 - A. MANUFACTURER RESPONSIBLE FOR BATCH RELEASE
-
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 - D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
@@ -663,7 +661,7 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-## · Periodic safety update reports (PSURs)
+##  Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
@@ -671,14 +669,14 @@ The marketing authorisation holder (MAH) shall submit the first PSUR for this pr
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## · Risk management plan (RMP)
+##  Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
-- At the request of the European Medicines Agency;
-- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+-  At the request of the European Medicines Agency;
+-  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -689,6 +687,8 @@ An updated RMP should be submitted:
 <div style=\"page-break-after: always\"></div>
 
 ## A. LABELLING
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -714,7 +714,9 @@ Also contains lactose. See leaflet for further information.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use Oral use
+Read the package leaflet before use
+
+Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -728,9 +730,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
+Store in the original package in order to protect from moisture
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -754,7 +754,7 @@ Lot
 
 itovebi 3 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -762,21 +762,23 @@ itovebi 3 mg
 
 PC SN
 
+<div style=\"page-break-after: always\"></div>
+
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARSTO APPEAR ON BLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTER                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
+|------|--------------------------------|
 
 Itovebi 3 mg tablets inavolisib
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Roche Registration GmbH
 
@@ -785,8 +787,8 @@ Roche Registration GmbH
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+| 4.   | BATCHNUMBER   |
+|------|---------------|
 
 Lot
 
@@ -794,6 +796,8 @@ Lot
 |------|---------|
 
 Mon. Tue. Wed. Thu. Fri. Sat. Sun.
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -819,7 +823,9 @@ Also contains lactose. See leaflet for further information.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use Oral use
+Read the package leaflet before use
+
+Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -833,9 +839,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
+Store in the original package in order to protect from moisture
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -867,21 +871,23 @@ itovebi 9 mg
 
 PC SN
 
+<div style=\"page-break-after: always\"></div>
+
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTER                                             |
+| MINIMUM PARTICULARSTO APPEAR ON BLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTER                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAMEOF THE MEDICINAL PRODUCT   |
+|------|--------------------------------|
 
 Itovebi 9 mg tablets inavolisib
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Roche Registration GmbH
 
@@ -890,8 +896,8 @@ Roche Registration GmbH
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+| 4.   | BATCHNUMBER   |
+|------|---------------|
 
 Lot
 
@@ -918,10 +924,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -942,13 +948,13 @@ Itovebi contains the active substance inavolisib, which belongs to a group of me
 
 Itovebi is used to treat adults with a type of breast cancer called:
 
-- -ER-positive (oestrogen receptor-positive)
-- -HER2-negative (human epidermal growth factor receptor 2-negative)
+- ER-positive (oestrogen receptor-positive)
+- HER2-negative (human epidermal growth factor receptor 2-negative)
 
 It is used in patients whose cancer has returned whilst receiving hormonal anti-cancer therapy or within 12 months of completing hormonal anti-cancer therapy. Itovebi is used when a patient's cancer:
 
-- -has a change (mutation) in a gene called ' PIK3CA ', and
-- -has spread to nearby tissue or lymph nodes or to other parts of the body ('metastatic').
+- has a change (mutation) in a gene called ' PIK3CA ', and
+- has spread to nearby tissue or lymph nodes or to other parts of the body ('metastatic').
 
 In patients who have previously received treatment with a 'CDK 4/6 inhibitor' medicine, there should be at least 12 months since stopping treatment with the 'CDK 4/6 inhibitor' medicine and when the breast cancer has come back.
 
@@ -972,19 +978,19 @@ Please read the Package Leaflet for these medicines for further information.
 
 ## Do not take Itovebi
 
-- -if you are allergic to inavolisib or any of the other ingredients of this medicine (listed in section 6).
+- if you are allergic to inavolisib or any of the other ingredients of this medicine (listed in section 6).
 
 ## Warnings and precautions
 
 Talk to your doctor or pharmacist before taking Itovebi if you have ever had:
 
-- -high levels of sugar in your blood, diabetes, or signs of high blood sugar levels (hyperglycaemia), such as feeling very thirsty and dry mouth, needing to pass urine more often than usual, producing greater amounts of urine than usual, feeling tired, feeling sick (nausea), increased appetite with weight loss, blurred vision, and/or feeling lightheaded
-- -kidney problems
+- high levels of sugar in your blood, diabetes, or signs of high blood sugar levels (hyperglycaemia), such as feeling very thirsty and dry mouth, needing to pass urine more often than usual, producing greater amounts of urine than usual, feeling tired, feeling sick (nausea), increased appetite with weight loss, blurred vision, and/or feeling lightheaded
+- kidney problems
 
 Tell your doctor straight away if you develop symptoms of any of the following side effects while taking Itovebi (see 'Serious side effects' in section 4 for more information):
 
-- -High blood sugar levels (hyperglycaemia) - your doctor may tell you to drink more water during treatment with Itovebi
-- -Inflammation of the lining of the mouth (stomatitis)
+- High blood sugar levels (hyperglycaemia) - your doctor may tell you to drink more water during treatment with Itovebi
+- Inflammation of the lining of the mouth (stomatitis)
 
 Your doctor may need to treat these symptoms, pause your treatment, reduce your dose, or permanently stop your treatment with Itovebi.
 
@@ -994,8 +1000,8 @@ Your doctor will do blood tests before and regularly during treatment with Itove
 
 Your doctor may also ask you to monitor your blood sugar at home during treatment with Itovebi.
 
-- -Your doctor will tell you exactly when to test your blood sugar..
-- -This will be needed more often in the first 4 weeks of treatment. If you are not sure how to test your blood sugar, talk to a doctor, pharmacist, or nurse.
+- Your doctor will tell you exactly when to test your blood sugar..
+- This will be needed more often in the first 4 weeks of treatment. If you are not sure how to test your blood sugar, talk to a doctor, pharmacist, or nurse.
 
 Based on the results, your doctor will take any necessary actions - such as prescribing a medicine to lower blood sugar levels. If necessary, your doctor may decide to pause treatment with Itovebi - or
 
@@ -1013,32 +1019,32 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 In particular, tell your doctor or pharmacist if you are taking:
 
-- -alfentanil (medicine to treat pain and for anaesthesia)
-- -astemizole (medicine to treat allergies)
-- -cisapride (medicine to treat heartburn and acid reflux)
-- -paclitaxel (medicine to treat various cancers)
-- -quinidine (medicine to treat certain types of irregular heartbeats)
-- -warfarin (medicine to treat or prevent blood clots)
-- -medicines to prevent seizures or fits (such as phenytoin and S-mephenytoin)
-- -medicines that affect the immune system (cyclosporine, sirolimus, and tacrolimus)
+- alfentanil (medicine to treat pain and for anaesthesia)
+- astemizole (medicine to treat allergies)
+- cisapride (medicine to treat heartburn and acid reflux)
+- paclitaxel (medicine to treat various cancers)
+- quinidine (medicine to treat certain types of irregular heartbeats)
+- warfarin (medicine to treat or prevent blood clots)
+- medicines to prevent seizures or fits (such as phenytoin and S-mephenytoin)
+- medicines that affect the immune system (cyclosporine, sirolimus, and tacrolimus)
 
 The medicines listed here may not be the only ones that could interact with Itovebi. Ask your doctor or pharmacist if you are not sure whether your medicine is one of the medicines listed above.
 
 ## Pregnancy
 
-- -You should not take Itovebi if you are pregnant. This is because it is possible that Itovebi could harm your unborn baby.
-- -If you are able to become pregnant, your doctor will check you are not already pregnant before starting you on treatment with Itovebi. This may include having a pregnancy test.
-- -If you become pregnant while taking the medicine, tell your doctor right away.
-- -If you or your partner are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
+- You should not take Itovebi if you are pregnant. This is because it is possible that Itovebi could harm your unborn baby.
+- If you are able to become pregnant, your doctor will check you are not already pregnant before starting you on treatment with Itovebi. This may include having a pregnancy test.
+- If you become pregnant while taking the medicine, tell your doctor right away.
+- If you or your partner are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
 
 ## Contraception for men and women
 
-- -If you are a woman who is able to become pregnant, you should use a non-hormonal method of birth control during treatment and for 1 week after stopping Itovebi. Ask your doctor or pharmacist about suitable methods.
-- -If you are male and have a female partner who are or can become pregnant, you should use a condom during treatment and for 1 week after stopping Itovebi.
+- If you are a woman who is able to become pregnant, you should use a non-hormonal method of birth control during treatment and for 1 week after stopping Itovebi. Ask your doctor or pharmacist about suitable methods.
+- If you are male and have a female partner who are or can become pregnant, you should use a condom during treatment and for 1 week after stopping Itovebi.
 
 ## Breast-feeding
 
-- -You should not breast-feed while taking Itovebi and for 1 week after stopping Itovebi. This is because it is not known if this medicine can pass into breast milk and harm your baby.
+- You should not breast-feed while taking Itovebi and for 1 week after stopping Itovebi. This is because it is not known if this medicine can pass into breast milk and harm your baby.
 
 ## Driving and using machines
 
@@ -1062,8 +1068,8 @@ The usual starting dose of Itovebi is 9 mg taken once a day.
 
 Your doctor will decide on the right dose for you. However, you may be prescribed:
 
-- -6 mg once a day, or
-- -3 mg once a day
+- 6 mg once a day, or
+- 3 mg once a day
 
 Depending on how you respond to the treatment with Itovebi, your doctor may adjust your Itovebi dose. If you have certain side effects, your doctor may ask you to change to a lower dose, to pause treatment for a time, or to stop treatment.
 
@@ -1089,8 +1095,8 @@ If you take more Itovebi than you should, talk to your doctor or go to the hospi
 
 If you miss a dose of Itovebi, you may still take it up to 9 hours after the time you should have taken it.
 
-- -If it has been more than 9 hours from the time you should have taken it, skip the dose for that day.
-- -The next day, take the dose at your usual time.
+- If it has been more than 9 hours from the time you should have taken it, skip the dose for that day.
+- The next day, take the dose at your usual time.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1117,42 +1123,24 @@ Talk to your doctor if you experience the following side effects during treatmen
 ## If you have any of these side effects, stop taking this medicine and tell your doctor straight away:
 
 - High blood sugar (hyperglycaemia) (very common; may affect more than 1 in 10 people), symptoms include:
-
-- o difficulty breathing
-
-- o nausea and vomiting (lasting more than 2 hours)
-
-- o stomach pain, feeling very thirsty or dry mouth
-
-- o passing urine more often than usual or passing greater amounts of urine than usual,
-
-- o blurred vision
-
-- o unusually increased appetite
-
-- o weight loss, fruity-smelling breath
-
-- o flushed face and dry skin, and feeling unusually sleepy or tired
-
+- -difficulty breathing
+- -nausea and vomiting (lasting more than 2 hours)
+- -stomach pain, feeling very thirsty or dry mouth
+- -passing urine more often than usual or passing greater amounts of urine than usual,
+- -blurred vision
+- -unusually increased appetite
+- -weight loss, fruity-smelling breath
+- -flushed face and dry skin, and feeling unusually sleepy or tired
 - Inflammation of the lining of the mouth (stomatitis) (very common; may affect more than 1 in 10 people), symptoms include:
-
-- o pain
-
-- o redness
-
-- o swelling
-
-- o ulcers in the mouth
-
+- -pain
+- -redness
+- -swelling
+- -ulcers in the mouth
 - A serious complication of high blood sugar that involves high blood levels of ketones that can make blood more acidic (ketoacidosis) (uncommon; may affect up to 1 in 100 people), symptoms may include:
-
-- o difficulty breathing
-
-- o headache
-
-- o nausea
-
-- o vomiting
+- -difficulty breathing
+- -headache
+- -nausea
+- -vomiting
 
 ## Other side effects
 
@@ -1162,32 +1150,32 @@ Tell your doctor or pharmacist if you notice any of the following side effects o
 
 ## Very common (may affect more than 1 in 10 people)
 
-- -diarrhoea
-- -low levels of platelets (helps the blood to clot), which may cause unusual bruising or bleeding (thrombocytopenia)
-- -tiredness
-- -low levels of red blood cells (anaemia), which may cause tiredness, feeling unwell, and pale skin
-- -feeling sick (nausea)
-- -rash
-- -loss of appetite
-- -headache
-- -hair loss or hair thinning (alopecia)
-- -weight loss
-- -increased levels of alanine aminotransferase (a type of liver enzyme) seen in blood test
-- -low levels of potassium seen in blood test
-- -abdominal pain
-- -vomiting
-- -dry skin
-- -urinary tract infection
+- diarrhoea
+- low levels of platelets (helps the blood to clot), which may cause unusual bruising or bleeding (thrombocytopenia)
+- tiredness
+- low levels of red blood cells (anaemia), which may cause tiredness, feeling unwell, and pale skin
+- feeling sick (nausea)
+- rash
+- loss of appetite
+- headache
+- hair loss or hair thinning (alopecia)
+- weight loss
+- increased levels of alanine aminotransferase (a type of liver enzyme) seen in blood test
+- low levels of potassium seen in blood test 
+- abdominal pain
+- vomiting
+- dry skin
+- urinary tract infection
 
 ## Common (may affect up to 1 in 10 people)
 
-- -low levels of calcium seen in  blood test
-- -dry eye
-- -indigestion (dyspepsia)
-- -high levels of insulin (a hormone that helps the body use sugar for energy) seen in  blood test
-- -disturbed sense of taste (dysgeusia)
-- -skin inflammation with rash (dermatitis)
-- -infection or inflammation of hair follicles (folliculitis)
+- low levels of calcium seen in  blood test
+- dry eye
+- indigestion (dyspepsia)
+- high levels of insulin (a hormone that helps the body use sugar for energy) seen in  blood test
+- disturbed sense of taste (dysgeusia)
+- skin inflammation with rash (dermatitis)
+- infection or inflammation of hair follicles (folliculitis)
 
 Tell your doctor or pharmacist if you notice any of these side effects or if they get worse.
 
@@ -1201,7 +1189,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the carton and the blister after EXP. The expiry date refers to the last day of that month.
 
-This medicine does not require any special storage conditions.
+This medicine does not require any special temperature storage conditions. Store in the original package in order to protect from moisture.
 
 Do not use this medicine if you notice any damage to the packaging or if there are any signs of tampering, or if the tablet is broken, cracked, or otherwise not intact.
 
@@ -1213,15 +1201,15 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Itovebi contains
 
-- -The active substance is inavolisib.
-- -Each 3 mg film-coated tablet contains 3 mg inavolisib.
-- -Each 9 mg film-coated tablet contains 9 mg inavolisib.
+- The active substance is inavolisib.
+- Each 3 mg film-coated tablet contains 3 mg inavolisib.
+- Each 9 mg film-coated tablet contains 9 mg inavolisib.
 
-## The other ingredients are:
+The other ingredients are:
 
-- -Tablet core (3 mg and 9 mg film-coated tablets): lactose monohydrate, magnesium stearate (E 470b), microcrystalline cellulose (E 460), sodium starch glycolate (see section 2 'Itovebi contains lactose and sodium').
-- -Film-coating (3 mg film-coated tablets): polyvinyl alcohol, partially hydrolysed; titanium dioxide (E 171); macrogol; talc (E 553b); and iron oxide red (E 172).
-- -Film-coating (9 mg film-coated tablets): polyvinyl alcohol, partially hydrolysed; titanium dioxide (E 171); macrogol; talc (E 553b); iron oxide red (E 172); and iron oxide yellow (E 172).
+- Tablet core (3 mg and 9 mg film-coated tablets): lactose monohydrate, magnesium stearate (E 470b), microcrystalline cellulose (E 460), sodium starch glycolate (see section 2 'Itovebi contains lactose and sodium').
+- Film-coating (3 mg film-coated tablets): polyvinyl alcohol, partially hydrolysed; titanium dioxide (E 171); macrogol; talc (E 553b); and iron oxide red (E 172).
+- Film-coating (9 mg film-coated tablets): polyvinyl alcohol, partially hydrolysed; titanium dioxide (E 171); macrogol; talc (E 553b); iron oxide red (E 172); and iron oxide yellow (E 172).
 
 ## What Itovebi looks like and contents of the pack
 
@@ -1247,17 +1235,17 @@ For any information about this medicine, please contact the local representative
 
 Luxembourg/Luxemburg
 
-N.V. Roche S.A. België/Belgique/Belgien Tél/Tel: +32 (0) 2 525 82 11
+N.V. Roche S.A. België/Belgique/Belgien
+
+Tél/Tel: +32 (0) 2 525 82 11
 
 ## България
 
 Рош България ЕООД Тел : +359 2 474 5444
 
-## Česká republika
+## Č eská republika
 
-Roche s. r. o.
-
-Tel: +420 - 2 20382111
+Roche s. r. o. Tel: +420 - 2 20382111
 
 ## Danmark
 
@@ -1265,17 +1253,17 @@ Roche Pharmaceuticals A/S Tlf: +45 - 36 39 99 99
 
 ## Deutschland
 
-Roche Pharma AG
-
-Tel: +49 (0) 7624 140
+Roche Pharma AG Tel: +49 (0) 7624 140
 
 ## Eesti
 
-Roche Eesti OÜ Tel: + 372 - 6 177 380
+Roche Eesti OÜ
 
-## Ελλάδα, Κύπρος
+Tel: + 372 - 6 177 380
 
-Roche (Hellas) A.E. Ελλάδα Τηλ: +30 210 61 66 100
+## Ελλάδα , Κύπρος
+
+Roche (Hellas) A.E. Ελλάδα Τηλ : +30 210 61 66 100
 
 ## España
 
@@ -1283,15 +1271,11 @@ Roche Farma S.A. Tel: +34 - 91 324 81 00
 
 ## France
 
-Roche
-
-Tél: +33 (0) 1 47 61 40 00
+Roche Tél: +33 (0) 1 47 61 40 00
 
 ## Hrvatska
 
-Roche d.o.o.
-
-Tel: +385 1 4722 333
+Roche d.o.o. Tel: +385 1 4722 333
 
 ## Ireland, Malta
 
@@ -1315,7 +1299,9 @@ Roche (Magyarország) Kft. Tel: +36 - 1 279 4500
 
 ## Nederland
 
-Roche Nederland B.V. Tel: +31 (0) 348 438050
+Roche Nederland B.V.
+
+Tel: +31 (0) 348 438000
 
 ## Norge
 
@@ -1343,7 +1329,9 @@ Roche farmacevtska družba d.o.o. Tel: +386 - 1 360 26 00
 
 ## Slovenská republika
 
-Roche Slovensko, s.r.o. Tel: +421 - 2 52638201
+Roche Slovensko, s.r.o.
+
+Tel: +421 - 2 52638201
 
 ## Suomi/Finland
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 12:12:39
+document_datetime: 2026-01-08 15:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/reagila.html
 document_name: reagila.html
 version: success
-processing_time: 0.1132972
-conversion_datetime: 2025-12-30 03:02:23.282909
+processing_time: 0.1239509
+conversion_datetime: 2026-01-10 11:19:52.846869
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -115,7 +115,7 @@ English (EN) (76.51 KB - PDF)
 
 [View](/en/documents/overview/reagila-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-514)
+[Other languages (22)](#file-language-dropdown-596)
 
 български (BG) (101.49 KB - PDF)
 
@@ -403,17 +403,17 @@ English (EN) (896.77 KB - PDF)
 
 Reagila : EPAR - Product Information
 
-English (EN) (641.46 KB - PDF)
+English (EN) (755.26 KB - PDF)
 
 **First published:** 18/09/2017
 
-**Last updated:** 27/03/2025
+**Last updated:** 08/01/2026
 
 [View](/en/documents/product-information/reagila-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-647)
+[Other languages (24)](#file-language-dropdown-529)
 
-български (BG) (773.95 KB - PDF)
+български (BG) (855.44 KB - PDF)
 
 **First published:**
 
@@ -421,11 +421,11 @@ English (EN) (641.46 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/bg/documents/product-information/reagila-epar-product-information_bg.pdf)
 
-español (ES) (641.3 KB - PDF)
+español (ES) (748 KB - PDF)
 
 **First published:**
 
@@ -433,11 +433,11 @@ español (ES) (641.3 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/es/documents/product-information/reagila-epar-product-information_es.pdf)
 
-čeština (CS) (738.42 KB - PDF)
+čeština (CS) (785.28 KB - PDF)
 
 **First published:**
 
@@ -445,11 +445,11 @@ español (ES) (641.3 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/cs/documents/product-information/reagila-epar-product-information_cs.pdf)
 
-dansk (DA) (600.88 KB - PDF)
+dansk (DA) (719.04 KB - PDF)
 
 **First published:**
 
@@ -457,11 +457,11 @@ dansk (DA) (600.88 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/da/documents/product-information/reagila-epar-product-information_da.pdf)
 
-Deutsch (DE) (645.78 KB - PDF)
+Deutsch (DE) (794.08 KB - PDF)
 
 **First published:**
 
@@ -469,11 +469,11 @@ Deutsch (DE) (645.78 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/de/documents/product-information/reagila-epar-product-information_de.pdf)
 
-eesti keel (ET) (622.17 KB - PDF)
+eesti keel (ET) (761.68 KB - PDF)
 
 **First published:**
 
@@ -481,11 +481,11 @@ eesti keel (ET) (622.17 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/et/documents/product-information/reagila-epar-product-information_et.pdf)
 
-ελληνικά (EL) (824.28 KB - PDF)
+ελληνικά (EL) (905.4 KB - PDF)
 
 **First published:**
 
@@ -493,11 +493,11 @@ eesti keel (ET) (622.17 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/el/documents/product-information/reagila-epar-product-information_el.pdf)
 
-français (FR) (636.09 KB - PDF)
+français (FR) (767.81 KB - PDF)
 
 **First published:**
 
@@ -505,11 +505,11 @@ français (FR) (636.09 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/fr/documents/product-information/reagila-epar-product-information_fr.pdf)
 
-hrvatski (HR) (720.16 KB - PDF)
+hrvatski (HR) (844.46 KB - PDF)
 
 **First published:**
 
@@ -517,11 +517,11 @@ hrvatski (HR) (720.16 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/hr/documents/product-information/reagila-epar-product-information_hr.pdf)
 
-íslenska (IS) (591.33 KB - PDF)
+íslenska (IS) (719.27 KB - PDF)
 
 **First published:**
 
@@ -529,11 +529,11 @@ hrvatski (HR) (720.16 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/is/documents/product-information/reagila-epar-product-information_is.pdf)
 
-italiano (IT) (629.72 KB - PDF)
+italiano (IT) (767.92 KB - PDF)
 
 **First published:**
 
@@ -541,11 +541,11 @@ italiano (IT) (629.72 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/it/documents/product-information/reagila-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (735.6 KB - PDF)
+latviešu valoda (LV) (835.38 KB - PDF)
 
 **First published:**
 
@@ -553,11 +553,11 @@ latviešu valoda (LV) (735.6 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/lv/documents/product-information/reagila-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (653.92 KB - PDF)
+lietuvių kalba (LT) (748.64 KB - PDF)
 
 **First published:**
 
@@ -565,11 +565,11 @@ lietuvių kalba (LT) (653.92 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/lt/documents/product-information/reagila-epar-product-information_lt.pdf)
 
-magyar (HU) (734 KB - PDF)
+magyar (HU) (859.24 KB - PDF)
 
 **First published:**
 
@@ -577,11 +577,11 @@ magyar (HU) (734 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/hu/documents/product-information/reagila-epar-product-information_hu.pdf)
 
-Malti (MT) (859.98 KB - PDF)
+Malti (MT) (944.9 KB - PDF)
 
 **First published:**
 
@@ -589,11 +589,11 @@ Malti (MT) (859.98 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/mt/documents/product-information/reagila-epar-product-information_mt.pdf)
 
-Nederlands (NL) (629.4 KB - PDF)
+Nederlands (NL) (755.6 KB - PDF)
 
 **First published:**
 
@@ -601,11 +601,11 @@ Nederlands (NL) (629.4 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/nl/documents/product-information/reagila-epar-product-information_nl.pdf)
 
-norsk (NO) (589 KB - PDF)
+norsk (NO) (694.11 KB - PDF)
 
 **First published:**
 
@@ -613,11 +613,11 @@ norsk (NO) (589 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/no/documents/product-information/reagila-epar-product-information_no.pdf)
 
-polski (PL) (716.55 KB - PDF)
+polski (PL) (830.84 KB - PDF)
 
 **First published:**
 
@@ -625,11 +625,11 @@ polski (PL) (716.55 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/pl/documents/product-information/reagila-epar-product-information_pl.pdf)
 
-português (PT) (614.17 KB - PDF)
+português (PT) (750.32 KB - PDF)
 
 **First published:**
 
@@ -637,11 +637,11 @@ português (PT) (614.17 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/pt/documents/product-information/reagila-epar-product-information_pt.pdf)
 
-română (RO) (823.21 KB - PDF)
+română (RO) (928.06 KB - PDF)
 
 **First published:**
 
@@ -649,11 +649,11 @@ română (RO) (823.21 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/ro/documents/product-information/reagila-epar-product-information_ro.pdf)
 
-slovenčina (SK) (711.03 KB - PDF)
+slovenčina (SK) (832.4 KB - PDF)
 
 **First published:**
 
@@ -661,11 +661,11 @@ slovenčina (SK) (711.03 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/sk/documents/product-information/reagila-epar-product-information_sk.pdf)
 
-slovenščina (SL) (698.25 KB - PDF)
+slovenščina (SL) (807.41 KB - PDF)
 
 **First published:**
 
@@ -673,11 +673,11 @@ slovenščina (SL) (698.25 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/sl/documents/product-information/reagila-epar-product-information_sl.pdf)
 
-Suomi (FI) (619.32 KB - PDF)
+Suomi (FI) (741.17 KB - PDF)
 
 **First published:**
 
@@ -685,11 +685,11 @@ Suomi (FI) (619.32 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/fi/documents/product-information/reagila-epar-product-information_fi.pdf)
 
-svenska (SV) (613.57 KB - PDF)
+svenska (SV) (728.97 KB - PDF)
 
 **First published:**
 
@@ -697,11 +697,11 @@ svenska (SV) (613.57 KB - PDF)
 
 **Last updated:**
 
-27/03/2025
+08/01/2026
 
 [View](/sv/documents/product-information/reagila-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0035 11/03/2025
+**Latest procedure affecting product information:** N/0000320177 08/01/2026
 
 icon globe
 
@@ -727,7 +727,7 @@ English (EN) (47.47 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/reagila-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-298)
+[Other languages (21)](#file-language-dropdown-636)
 
 español (ES) (51.62 KB - PDF)
 
@@ -1001,7 +1001,7 @@ Gedeon Richter
 
 Gyomroi ut 19-21
 
-Opinion adopted 18/05/2017 Marketing authorisation issued 13/07/2017 Revision 11
+Opinion adopted 18/05/2017 Marketing authorisation issued 13/07/2017 Revision 12
 
 ## Assessment history
 
@@ -1013,13 +1013,21 @@ Collapse section
 
 Reagila : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (143.95 KB - PDF)
+
+**First published:** 08/01/2026
+
+[View](/en/documents/procedural-steps-after/reagila-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Reagila : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (187.66 KB - PDF)
 
 **First published:** 16/02/2018
 
-**Last updated:** 27/03/2025
+**Last updated:** 08/01/2026
 
-[View](/en/documents/procedural-steps-after/reagila-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/reagila-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Reagila-H-C-002770-X-0033 : EPAR - Assessment report - Variation
 
@@ -1075,7 +1083,7 @@ English (EN) (104.84 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 31/07/2025
+**This page was last updated on** 08/01/2026
 
 ## Share this page
 

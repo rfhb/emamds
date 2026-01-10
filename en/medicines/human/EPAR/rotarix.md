@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-19 16:32:00
+document_datetime: 2026-01-07 17:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/rotarix.html
 document_name: rotarix.html
 version: success
-processing_time: 0.1479811
-conversion_datetime: 2026-01-03 13:19:27.903804
+processing_time: 0.1585279
+conversion_datetime: 2026-01-10 11:12:44.242737
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -126,7 +126,7 @@ English (EN) (88.42 KB - PDF)
 
 [View](/en/documents/overview/rotarix-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-629)
+[Other languages (22)](#file-language-dropdown-254)
 
 български (BG) (115.88 KB - PDF)
 
@@ -414,7 +414,7 @@ English (EN) (644.66 KB - PDF)
 
 [View](/en/documents/product-information/rotarix-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-425)
+[Other languages (24)](#file-language-dropdown-962)
 
 български (BG) (950.46 KB - PDF)
 
@@ -730,7 +730,7 @@ English (EN) (84.21 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/rotarix-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-820)
+[Other languages (24)](#file-language-dropdown-692)
 
 български (BG) (117.61 KB - PDF)
 
@@ -1047,7 +1047,7 @@ GlaxoSmithKline Biologicals S.A.
 
 Rue de l'Institut, 89
 
-Marketing authorisation issued 21/02/2006 Revision 44
+Marketing authorisation issued 21/02/2006 Revision 45
 
 ## Assessment history
 
@@ -1066,6 +1066,18 @@ English (EN) (302.59 KB - PDF)
 **Last updated:** 27/05/2024
 
 [View](/en/documents/procedural-steps-after/rotarix-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Rotarix-PAM-0000302758 : EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2491727
+
+English (EN) (1.78 MB - PDF)
+
+**First published:** 07/01/2026
+
+[View](/en/documents/variation-report/rotarix-pam-0000302758-epar-assessment-report_en.pdf)
 
 Rotarix-PAM-0000267192 : EPAR - Assessment Report
 
@@ -1497,7 +1509,7 @@ English (EN) (408.11 KB - PDF)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 - [Vaccines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A76)
 
-**This page was last updated on** 19/12/2025
+**This page was last updated on** 07/01/2026
 
 ## Share this page
 

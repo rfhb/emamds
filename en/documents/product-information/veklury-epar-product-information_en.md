@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-08-13 15:53:20
+document_datetime: 2026-01-06 11:21:22
 document_pages: 41
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/veklury-epar-product-information_en.pdf
 document_name: veklury-epar-product-information_en.pdf
 version: success
-processing_time: 15.3030306
-conversion_datetime: 2025-12-19 22:27:36.862475
+processing_time: 13.8254959
+conversion_datetime: 2026-01-10 11:40:23.825481
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -61,7 +61,7 @@ Patients receiving remdesivir in an outpatient setting should be monitored accor
 
 ## Posology
 
-Table 1: Recommended dose in adults and paediatric patients
+## Table 1: Recommended dose in adults and paediatric patients
 
 |                                | Given by intravenous infusion   | Given by intravenous infusion                 | Given by intravenous infusion                                                         |
 |--------------------------------|---------------------------------|-----------------------------------------------|---------------------------------------------------------------------------------------|
@@ -135,8 +135,6 @@ Table 4: Recommended rate of infusion - for reconstituted and diluted remdesivir
 | 25 mL                 | 60 min          | 0.42 mL/min          |
 | 25 mL                 | 120 min         | 0.21 mL/min          |
 
-a Rate of infusion may be adjusted based on total volume to be infused.
-
 ## 4.3 Contraindications
 
 Hypersensitivity to the active substance(s) or to any of the excipients listed in section 6.1.
@@ -185,10 +183,10 @@ A drug-drug interaction study was conducted with remdesivir. Table 5 summarises 
 
 Table 5: Effect of other drugs on remdesivir and metabolites GS-704277 and GS-441524
 
-| Co-administered Drug Dose (mg)   | Interaction Geometric mean change (%)                                    | Interaction Geometric mean change (%)                     | Interaction Geometric mean change (%)                                        | Recommendation concerning co- administration                                                                     |
-|----------------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| Cyclosporin 400 single dose      | remdesivir: GS-704277: GS-441524:                                        | C max AUC inf C max AUC inf C max AUC inf                 | ↑49% ↑89% ↑151% ↑197% ↑17% ↔                                                 | No dose adjustment of remdesivir is required when it is co-administered with inhibitors of OATP1B1 and OATP1B3.  |
-| Carbamazepine 300 twice daily    | remdesivir: GS-704277: GS-441524: No interactions remdesivir inhibitors. | C max AUC inf C max AUC inf C max AUC inf are with strong | ↓13% ↓8% ↔ ↔ ↔ ↓17% expected when co-administering CYP3A4 inducers or CYP3A4 | No dose adjustment of remdesivir is required when it is co-administered with strong CYP3A4 and/or P-gp inducers. |
+| Co-administered Drug Dose (mg)   | Interaction Geometric mean change (%)                                    | Interaction Geometric mean change (%)                               | Interaction Geometric mean change (%)                                        | Recommendation concerning co- administration                                                                     |
+|----------------------------------|--------------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Cyclosporin 400 single dose      | remdesivir: GS-704277: GS-441524: No                                     | C max AUC inf C max AUC inf C max AUC inf interactions are expected | ↑49% ↑89% ↑151% ↑197% ↑17% ↔ when co-administering                           | No dose adjustment of remdesivir is required when it is co-administered with inhibitors of OATP1B1 and OATP1B3.  |
+| Carbamazepine 300 twice daily    | remdesivir: GS-704277: GS-441524: No interactions remdesivir inhibitors. | C max AUC inf C max AUC inf C max AUC inf are with strong           | ↓13% ↓8% ↔ ↔ ↔ ↓17% expected when co-administering CYP3A4 inducers or CYP3A4 | No dose adjustment of remdesivir is required when it is co-administered with strong CYP3A4 and/or P-gp inducers. |
 
 NOTE: Interaction study conducted in healthy volunteers.
 
@@ -278,8 +276,6 @@ Table 7: Tabulated list of adverse reactions
 | Injury, poisoning and procedural complications | Injury, poisoning and procedural complications |
 | Rare                                           | infusion-related reaction                      |
 
-*Reported in post-marketing, usually normalised within 4 days following last remdesivir administration without additional intervention
-
 ## Description of selected adverse reactions
 
 ## Transaminases increased
@@ -346,7 +342,7 @@ Cell culture resistance profiling of remdesivir using the rodent CoV murine hepa
 
 In NIAID ACTT-1 Study (CO-US-540-5776), among 61 patients with baseline and post-baseline sequencing data available, the rate of emerging substitutions in the viral RNA-dependent RNA polymerase was similar in patients treated with remdesivir compared to placebo. In 2 patients treated with remdesivir, substitutions in the RNA-dependent RNA polymerase previously identified in resistance selection experiments (V792I or C799F) and associated with low fold change in remdesivir susceptibility (≤3.4-fold) were observed. No other RNA-dependent RNA polymerase substitutions observed in patients treated with remdesivir were associated with resistance to remdesivir.
 
-In  Study  GS-US-540-5773,  among  19  patients  treated  with  remdesivir  who  had  baseline  and  postbaseline  sequencing  data  available,  substitutions  in  the  viral  RNA-dependent  RNA  polymerase (nsp12)  were  observed  in  4  patients.  The  substitutions  T76I,  A526V,  A554V  and  C697F  were  not associated with resistance to remdesivir (≤ 1.45-fold change  in susceptibility). The  effect of substitution E665K on susceptibility to remdesivir could not be determined due to lack of replication.
+In  Study  GS-US-540-5773,  among 19 patients  treated  with  remdesivir  who  had  baseline  and  postbaseline  sequencing  data  available,  substitutions  in  the  viral  RNA-dependent  RNA  polymerase (nsp12)  were  observed  in  4  patients.  The  substitutions  T76I,  A526V,  A554V  and  C697F  were  not associated with resistance to remdesivir (≤ 1.45-fold change  in  susceptibility). The  effect of substitution E665K on susceptibility to remdesivir could not be determined due to lack of replication.
 
 In GS-US-540-9012 Study, among 244 patients with baseline and post-baseline sequencing data available, the rate of emerging substitutions in the viral RNA-dependent RNA polymerase was similar in patients treated with remdesivir compared to placebo. In one patient treated with remdesivir, one substitution in the RNA-dependent RNA polymerase (A376V) emerged and was associated with a decrease in remdesivir susceptibility in vitro (12.6-fold). No other substitutions in the RNA-dependent RNA polymerase or other proteins of the replication-transcription complex observed in patients treated with remdesivir were associated with resistance to remdesivir.
 
@@ -380,14 +376,14 @@ The 29-day mortality in the overall population was 11.6% for the remdesivir grou
 
 <div style=\"page-break-after: always\"></div>
 
-Table 8: 29-Day mortality outcomes by ordinal scale a  at baseline-NIAID ACTT-1 trial
+Table 8: 29-Day mortality outcomes by ordinal scale a at baseline-NIAID ACTT-1 trial
 
-|                         | Ordinal Score at Baseline   | Ordinal Score at Baseline   | Ordinal Score at Baseline            | Ordinal Score at Baseline            |
-|-------------------------|-----------------------------|-----------------------------|--------------------------------------|--------------------------------------|
-|                         | 5 Requiring low-flow oxygen | 5 Requiring low-flow oxygen | 6 Requiring high-flow oxygen or non- | 6 Requiring high-flow oxygen or non- |
-|                         | Remdesivir (N=232)          | Placebo (N=203)             | Remdesivir (N=95)                    | Placebo (N=98)                       |
-| 29-day mortality        | 4.1                         | 12.8                        | 21.8                                 | 20.6                                 |
-| Hazard ratio b (95% CI) | 0.30 (0.14, 0.64)           | 0.30 (0.14, 0.64)           | 1.02 (0.54, 1.91)                    | 1.02 (0.54, 1.91)                    |
+|                         | Ordinal Score at Baseline   | Ordinal Score at Baseline   | Ordinal Score at Baseline                                            | Ordinal Score at Baseline                                            |
+|-------------------------|-----------------------------|-----------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+|                         | 5 Requiring low-flow oxygen | 5 Requiring low-flow oxygen | 6 Requiring high-flow oxygen or non- invasive mechanical ventilation | 6 Requiring high-flow oxygen or non- invasive mechanical ventilation |
+|                         | Remdesivir (N=232)          | Placebo (N=203)             | Remdesivir (N=95)                                                    | Placebo (N=98)                                                       |
+| 29-day mortality        | 4.1                         | 12.8                        | 21.8                                                                 | 20.6                                                                 |
+| Hazard ratio b (95% CI) | 0.30 (0.14, 0.64)           | 0.30 (0.14, 0.64)           | 1.02 (0.54, 1.91)                                                    | 1.02 (0.54, 1.91)                                                    |
 
 a Not a pre-specified analysis.
 
@@ -465,7 +461,7 @@ Following a single 150 mg IV dose of [ 14 C]-remdesivir, mean total recovery of 
 
 Pharmacokinetic exposures for remdesivir and its metabolites in adults with COVID-19 are provided in Table 9.
 
-Table 9: Multiple dose PK parameters a  of remdesivir and metabolites (GS-441524 and GS-704277) following IV administration of remdesivir 100 mg to adults with COVID-19
+Table 9: Multiple dose PK parameters a of remdesivir and metabolites (GS-441524 and GS-704277) following IV administration of remdesivir 100 mg to adults with COVID-19
 
 | Parameters Mean b (95%CI)   | Remdesivir        | GS-441524         | GS-704277      |
 |-----------------------------|-------------------|-------------------|----------------|
@@ -497,7 +493,7 @@ In CO-US-540-5961 (IMPAACT 2032) study, mean exposures (AUCtau, Cmax, and Ctau) 
 
 Population pharmacokinetic models for remdesivir and its circulating metabolites (GS-704277 and GS-441524), developed using pooled data from studies in healthy subjects and in adult and paediatric patients with COVID-19, were used to predict pharmacokinetic exposures in 50 paediatric patients aged ≥ 28 days to &lt; 18 years and weighing ≥ 3 kg (Study GS-US-540-5823) (Table 10). Geometric mean exposures (AUCtau, Cmax and Ctau) for patients ≥28 days to &lt;18 years old and weighing ≥3 kg (Cohorts 1-4 and 8, n=50) at the doses administered were 1% to 40% higher for remdesivir, 26% lower to 4% higher for GS-441524, and 13% lower to 95% higher for GS-704277 as compared to those in adult hospitalised patients with COVID-19. The differences were not considered clinically relevant. Plasma exposures of excipient SBECD were generally similar for all paediatric patients at the doses administered in GS-US-540-5823 study and were similar compared to adults with normal renal function, although data are very limited.
 
-Table 10: Pharmacokinetic parameters a  estimate of steady-state plasma remdesivir, GS-441524 and GS-704277 in paediatric and adult hospitalised COVID-19 patients
+Table 10: Pharmacokinetic parameters a estimate of steady-state plasma remdesivir, GS-441524 and GS-704277 in paediatric and adult hospitalised COVID-19 patients
 
 | Parameters Mean b   | Paediatric patients                        | Paediatric patients                 | Paediatric patients                                   | Paediatric patients                                   | Paediatric patients                                  | Adult hospitalised patients   |
 |---------------------|--------------------------------------------|-------------------------------------|-------------------------------------------------------|-------------------------------------------------------|------------------------------------------------------|-------------------------------|
@@ -532,20 +528,20 @@ moderate (eGFR 30-59 mL/minute), severe (eGFR 15-29 mL/minute) renal impairment,
 
 Pharmacokinetic exposures of remdesivir were not affected by renal function or timing of remdesivir administration around dialysis. Exposures of GS-704277, GS-441524, and SBECD were up to 2.8fold, 7.9-fold and 20-fold higher, respectively, in those with renal impairment than those with normal renal function which is not considered clinically significant based on limited available safety data. No dose adjustment of remdesivir is required for patients with renal impairment, including those on dialysis.
 
-Table 11: Statistical comparison of single-dose pharmacokinetic parameters a  of remdesivir and metabolites (GS-441524 and GS-704277) between adult subjects with decreased renal function b  (mild, moderate, severe renal impairment and ESRD) and adult subjects a  with normal renal function
+Table 11: Statistical comparison of single-dose pharmacokinetic parameters a of remdesivir and metabolites (GS-441524 and GS-704277) between adult subjects with decreased renal function b (mild, moderate, severe renal impairment and ESRD) and adult subjects a with normal renal function
 
-|                      | 60-89 mL per minute   | 30-59 mL per minute   | 15-29 mL per minute   | <15 mLper minute      | <15 mLper minute        | <15 mLper minute   |
-|----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-------------------------|--------------------|
-| GLSM Ratio c (90%CI) | N=10                  | N=10                  | N=10                  | Pre-haemodialysis N=6 | Post- haemodialysis N=6 | No dialysis N=3    |
-| Remdesivir           |                       |                       |                       |                       |                         |                    |
-| C max (ng/mL)        | 96.0 (70.5, 131)      | 120 (101, 142)        | 97.1 (83.3, 113)      | 89.1 (67.1, 118)      | 113 (79.4, 160)         | 93.9 (65.4, 135)   |
-| AUC inf (h•ng/mL)    | 99.5 (75.3, 132)      | 122 (97.5, 152)       | 94 (83.0, 107)        | 79.6 (59.0, 108)      | 108 (71.5, 163)         | 88.9 (55.2, 143)   |
-| GS-441524            |                       |                       |                       |                       |                         |                    |
-| C max (ng/mL)        | 107 (90, 126)         | 144 (113, 185)        | 168 (128, 220)        | 227 (172, 299)        | 307 (221, 426)          | 300 (263, 342)     |
-| AUC inf d (h•ng/mL)  | 119 (97, 147)         | 202 (157, 262)        | 326 (239, 446)        | 497 (365, 677)        | 622 (444, 871)          | 787 (649, 953)     |
-| GS-704277            |                       |                       |                       |                       |                         |                    |
-| C max (ng/mL)        | 225 (120, 420)        | 183 (134, 249)        | 127 (96.1, 168)       | 143 (100, 205)        | 123 (83.6, 180)         | 176 (119, 261)     |
-| AUC inf (h•ng/mL)    | 139 (113, 171)        | 201 (148, 273)        | 178 (127, 249)        | 218 (161, 295)        | 206 (142, 297)          | 281 (179, 443)     |
+|                     | 60-89 mL per minute   | 30-59 mL per minute   | 15-29 mL per minute   | <15 mL per minute     | <15 mL per minute       | <15 mL per minute   |
+|---------------------|-----------------------|-----------------------|-----------------------|-----------------------|-------------------------|---------------------|
+| GLSMRatio c (90%CI) | N=10                  | N=10                  | N=10                  | Pre-haemodialysis N=6 | Post- haemodialysis N=6 | No dialysis N=3     |
+| Remdesivir          |                       |                       |                       |                       |                         |                     |
+| C max (ng/mL)       | 96.0 (70.5, 131)      | 120 (101, 142)        | 97.1 (83.3, 113)      | 89.1 (67.1, 118)      | 113 (79.4, 160)         | 93.9 (65.4, 135)    |
+| AUC inf (h•ng/mL)   | 99.5 (75.3, 132)      | 122 (97.5, 152)       | 94 (83.0, 107)        | 79.6 (59.0, 108)      | 108 (71.5, 163)         | 88.9 (55.2, 143)    |
+| GS-441524           |                       |                       |                       |                       |                         |                     |
+| C max (ng/mL)       | 107 (90, 126)         | 144 (113, 185)        | 168 (128, 220)        | 227 (172, 299)        | 307 (221, 426)          | 300 (263, 342)      |
+| AUC inf d (h•ng/mL) | 119 (97, 147)         | 202 (157, 262)        | 326 (239, 446)        | 497 (365, 677)        | 622 (444, 871)          | 787 (649, 953)      |
+| GS-704277           |                       |                       |                       |                       |                         |                     |
+| C max (ng/mL)       | 225 (120, 420)        | 183 (134, 249)        | 127 (96.1, 168)       | 143 (100, 205)        | 123 (83.6, 180)         | 176 (119, 261)      |
+| AUC inf (h•ng/mL)   | 139 (113, 171)        | 201 (148, 273)        | 178 (127, 249)        | 218 (161, 295)        | 206 (142, 297)          | 281 (179, 443)      |
 
 CI=Confidence Interval; GLSM = geometric least-squares mean a Exposures were estimated using noncompartmental analysis from a dedicated Phase 1 renal impairment study GS-US540-9015; single doses up to 100 mg were administered; each subject with renal impairment had a matched adult subject enrolled with normal renal function (eGFR ≥90 mL/min/1.73m 2 ), same sex, and similar body mass index (BMI (± 20%)) and age (± 10 years)
 
@@ -559,16 +555,15 @@ d AUC0-72h for subjects on haemodialysis
 
 <div style=\"page-break-after: always\"></div>
 
-Table 12: Pharmacokinetic parameters a  of remdesivir and metabolites (GS-441524 and GS704277) following IV administration of remdesivir (200 mg on day 1 followed by 100 mg daily on days 2-5) to adults with COVID-19 and severely reduced kidney function (eGFR &lt;30 mL/min /1.73 m 2 )
+Table 12: Pharmacokinetic parameters a of remdesivir and metabolites (GS-441524 and GS704277) following IV administration of remdesivir (200 mg on day 1 followed by 100 mg daily on days 2-5) to adults with COVID-19 and severely reduced kidney function (eGFR &lt;30 mL/min /1.73 m 2 )
 
 | Parameter Mean b (percentile, 5 th , 95 th )   | Remdesivir        | GS-441524          | GS-704277       |
 |------------------------------------------------|-------------------|--------------------|-----------------|
 | C max (ng/mL)                                  | 2090 (890, 4360)  | 349 (72.4, 818)    | 232 (61.9, 613) |
 | AUC tau (h•ng/mL)                              | 1700 (1030, 2970) | 7580 (1630, 18600) | 919 (509, 1620) |
 
-a Population PK estimates for 30-minute IV infusion of remdesivir for 5 days (Study GS-US-540-5912, n=90).
-
-b Geometric mean estimates.
+- a Population PK estimates for 30-minute IV infusion of remdesivir for 5 days (Study GS-US-540-5912, n=90).
+- b Geometric mean estimates.
 
 ## Hepatic impairment
 
@@ -636,7 +631,7 @@ This medicinal product must not be mixed or administered simultaneously with oth
 
 ## Unopened vials
 
-4 years
+5 years
 
 ## Reconstituted and diluted solution for infusion
 
@@ -682,7 +677,7 @@ Remove the required number of single-use vial(s) from storage. For each vial:
 
 Care should be taken to prevent inadvertent microbial contamination. As there is no preservative or bacteriostatic agent present in this product, aseptic technique must be used in preparation of the final parenteral solution. It is recommended to administer immediately after preparation when possible.
 
-## Adults and paediatric patients (weighing at least 40 kg)
+Adults and paediatric patients (weighing at least 40 kg)
 
 - Using Table 13, determine the volume of sodium chloride 9 mg/mL (0.9%) solution for injection to withdraw from the infusion bag.
 - Withdraw and discard the required volume of sodium chloride 9 mg/mL from the bag using an appropriately sized syringe and needle per Table 13.
@@ -702,7 +697,7 @@ Table 13: Recommended dilution instructions - Reconstituted remdesivir powder fo
 
 NOTE: 100 mL should be reserved for patients with severe fluid restriction, e.g. with ARDS or renal failure.
 
-## Paediatric patients (at least 4 weeks of age and weighing 3 kg to less than 40 kg)
+Paediatric patients (at least 4 weeks of age and weighing 3 kg to less than 40 kg)
 
 - Further dilute the 100 mg/20 mL (5 mg/mL) remdesivir concentrate to a fixed concentration of 1.25 mg/mL using 0.9% sodium chloride.
 - The total required infusion volume of the 1.25 mg/mL remdesivir solution for infusion is calculated from the paediatric weight-based dosing regimens of 5 mg/kg for the Loading Dose and 2.5 mg/kg for each Maintenance Dose.
@@ -713,7 +708,7 @@ After infusion is complete, flush with at least 30 mL of sodium chloride 9 mg/mL
 
 <div style=\"page-break-after: always\"></div>
 
-Disposal
+## Disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -723,15 +718,11 @@ MARKETING AUTHORISATION HOLDER
 
 Gilead Sciences Ireland UC Carrigtohill County Cork, T45 DP77 Ireland
 
-8.
-
-MARKETING AUTHORISATION NUMBER(S)
+## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/20/1459/002
 
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 03 July 2020
 
@@ -741,9 +732,7 @@ Date of latest renewal: 12 April 2022
 
 DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines
-
-Agency https://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 23
 
@@ -840,41 +829,42 @@ EXP
 | 9.   | SPECIAL STORAGE CONDITIONS   |
 |------|------------------------------|
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROM SUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
 |-------|-------------------------------------------------------------------------------------------------------------------------------------|
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 11.   | NAME AND ADDRESS OFTHEMARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
 Gilead Sciences Ireland UC Carrigtohill County Cork, T45 DP77 Ireland
 
-| 12.   | MARKETING AUTHORISATION NUMBER(S)   |
-|-------|-------------------------------------|
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/20/1459/002
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+| 13.   | BATCHNUMBER   |
+|-------|---------------|
 
 Lot
 
-| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
-|-------|-------------------------------------|
+| 14.   | GENERAL CLASSIFICATIONFOR SUPPLY   |
+|-------|------------------------------------|
 
-| 15.   | INSTRUCTIONS ON USE   |
-|-------|-----------------------|
+| 15.   | INSTRUCTIONSONUSE   |
+|-------|---------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
 Justification for not including Braille accepted.
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17.   | UNIQUE IDENTIFIER - 2DBARCODE   |
+|-------|---------------------------------|
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN
 
@@ -1124,13 +1114,13 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Gilead Sciences Belgium SRL-BV Tél/Tel: + 32 (0) 24 01 35 50
+Gilead Sciences Belgium SRL-BV
+
+Tél/Tel: + 32 (0) 24 01 35 50
 
 ## Lietuva
 
-Gilead Sciences Ireland UC
-
-Tel: + 353 (0) 1 686 1888
+Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
 
 ## България
 
@@ -1140,15 +1130,11 @@ Gilead Sciences Ireland UC
 
 ## Luxembourg/Luxemburg
 
-Gilead Sciences Belgium SRL-BV
-
-Tél/Tel: + 32 (0) 24 01 35 50
+Gilead Sciences Belgium SRL-BV Tél/Tel: + 32 (0) 24 01 35 50
 
 ## Česká republika
 
-Gilead Sciences s.r.o.
-
-Tel: + 420 910 871 986
+Gilead Sciences s.r.o. Tel: + 420 910 871 986
 
 ## Magyarország
 
@@ -1180,9 +1166,7 @@ Gilead Sciences, S.L. Tel: + 34 91 378 98 30
 
 ## France
 
-Gilead Sciences
-
-Tél : + 33 (0) 1 46 09 41 00
+Gilead Sciences Tél : + 33 (0) 1 46 09 41 00
 
 ## Hrvatska
 
@@ -1202,7 +1186,9 @@ Gilead Sciences S.r.l. Tel: + 39 02 439201
 
 ## Κύπρος
 
-Gilead Sciences Ελλάς Μ.ΕΠΕ. Τηλ: + 30 210 8930 100
+Gilead Sciences Ελλάς Μ.ΕΠΕ.
+
+Τηλ: + 30 210 8930 100
 
 ## Latvija
 
@@ -1240,7 +1226,9 @@ Gilead Sciences (GSR) S.R.L. Tel: + 40 31 631 18 00
 
 ## Slovenija
 
-Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
+Gilead Sciences Ireland UC
+
+Tel: + 353 (0) 1 686 1888
 
 ## Slovenská republika
 
@@ -1310,8 +1298,7 @@ Monitor the patient for side effects during and after the infusion. See below fo
 For each single-use vial, the powder must be reconstituted and then diluted under aseptic conditions.
 
 - Add 19 mL of sterile water for injections to the vial, using a suitably sized syringe and needle for each vial, and insert the needle in the centre of the vial stopper.
-- This produces a solution of 5 mg/mL of remdesivir.
-- Discard the vial if a vacuum does not pull the sterile water into the vial.
+- This produces a solution of 5 mg/mL of remdesivir. ◦ Discard the vial if a vacuum does not pull the sterile water into the vial.
 - Only use sterile water for injection to reconstitute remdesivir powder.
 - Immediately shake the vial for 30 seconds.
 - Allow the contents of the vial to settle for 2 to 3 minutes. A clear solution should result.
@@ -1387,8 +1374,6 @@ Table 5: Rate of infusion in paediatric patients at least 4 weeks of age and wei
 | 25 mL                 | 30 min          | 0.83 mL/min          |
 | 25 mL                 | 60 min          | 0.42 mL/min          |
 | 25 mL                 | 120 min         | 0.21 mL/min          |
-
-a Rate of infusion may be adjusted based on total volume to be infused.
 
 ## Monitor and report side effects
 

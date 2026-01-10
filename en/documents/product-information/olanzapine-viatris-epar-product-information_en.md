@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-01-13 15:54:46
-document_pages: 91
+document_datetime: 2026-01-07 16:40:41
+document_pages: 103
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/olanzapine-viatris-epar-product-information_en.pdf
 document_name: olanzapine-viatris-epar-product-information_en.pdf
 version: success
-processing_time: 17.1190106
-conversion_datetime: 2025-12-18 23:57:50.917503
+processing_time: 20.6964154
+conversion_datetime: 2026-01-10 11:09:05.790077
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -64,7 +64,9 @@ Each film-coated tablet contains 7.5 mg olanzapine.
 
 Excipients with known effect
 
-Each film-coated tablet contains 228 mg lactose (as monohydrate). The film-coating of each 7.5 mg tablet contains 0.18 mg soya lecithin.
+Each film-coated tablet contains 228 mg lactose (as monohydrate).
+
+The film-coating of each 7.5 mg tablet contains 0.18 mg soya lecithin.
 
 ## Olanzapine Viatris 10 mg film-coated tablets
 
@@ -392,10 +394,6 @@ common (≥ 1/ 10), common (≥ 1/100 to &lt; 1/ 10), uncommon (≥ 1/1,000 to &
 | Investigations                                       | Investigations                                                                                                              | Investigations                                                                                  | Investigations                                                             |                                                               |
 | Elevated plasma prolactin levels                     | Increased alkaline phosphatase 10 High creatine phosphokinase 11 High Gamma Glutamyltransferase 10 High Uric Acid 10        | Increased total bilirubin                                                                       |                                                                            |                                                               |
 
-1 Clinically significant weight gain was observed across all baseline Body Mass Index (BMI) categories. Following short term treatment (median duration 47 days), weight gain ≥ 7 % of baseline body weight  was very common (22.2 %), ≥ 15 % was common (4.2 %) and ≥ 25 % was uncommon (0.8 %). Patients gaining ≥ 7 %, ≥ 15 % and ≥ 25 % of their baseline body weight with long-term exposure (at least 48 weeks) were very common (64.4 %, 31.7 % and 12.3 % respectively).
-
-2 Mean increases in fasting lipid values (total cholesterol, LDL cholesterol, and triglycerides) were greater in patients without evidence of lipid dysregulation at baseline.
-
 <div style=\"page-break-after: always\"></div>
 
 3 Observed for fasting normal levels at baseline (&lt; 5.17 mmol/l) which increased to high (≥ 6.2 mmol/l). Changes in total fasting cholesterol levels from borderline at baseline (≥ 5.17-&lt; 6.2 mmol) to high (≥ 6.2 mmol) were very common.
@@ -649,7 +647,7 @@ EU/1/08/475/012 EU/1/08/475/013 EU/1/08/475/014 EU/1/08/475/015 EU/1/08/475/016 
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: 7 October 2008
+## Date of first authorisation: 7 October 2008
 
 Date of latest renewal: 22 May 2013
 
@@ -728,7 +726,7 @@ Also contains lactose monohydrate and soya lecithin. See package leaflet for fur
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablets
+## Film-coated tablet
 
 - 10 film-coated tablets
 - 28 film-coated tablets
@@ -813,7 +811,9 @@ Olanzapine 2.5 mg
 | 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
 |-------|----------------------------------------|
 
-PC {number} SN {number} NN {number}
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -832,6 +832,8 @@ Each film-coated tablet contains 2.5 mg olanzapine.
 Also contains lactose monohydrate and soya lecithin. See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Film-coated tablet
 
 Multipack 70 (2 packs of 35) film-coated tablets
 
@@ -852,8 +854,6 @@ Keep out of the sight and reach of children.
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
-
-<div style=\"page-break-after: always\"></div>
 
 Do not store above 25 ° C.
 
@@ -897,13 +897,11 @@ Olanzapine 2.5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC {number}
+PC
 
-SN {number}
+SN
 
-NN {number}
-
-<div style=\"page-break-after: always\"></div>
+NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -924,6 +922,8 @@ Also contains lactose monohydrate and soya lecithin.
 See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Film-coated tablet
 
 35 film-coated tablets
 
@@ -947,6 +947,8 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+<div style=\"page-break-after: always\"></div>
+
 Do not store above 25 ° C.
 
 <div style=\"page-break-after: always\"></div>
@@ -989,15 +991,13 @@ Olanzapine 2.5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC {number}
+PC
 
-SN {number}
+SN
 
-NN {number}
+NN
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
-
-BLISTER
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1019,6 +1019,38 @@ Batch
 
 <div style=\"page-break-after: always\"></div>
 
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| UNIT-DOSE BLISTER                                   |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+Olanzapine Viatris 2.5 mg tablets olanzapine
+
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
+
+Viatris Limited
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Batch
+
+| 5.   | OTHER   |
+|------|---------|
+
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
@@ -1035,13 +1067,11 @@ Each film-coated tablet contains 5 mg olanzapine.
 
 ## 3. LIST OF EXCIPIENTS
 
-Also contains lactose monohydrate and soya lecithin.
-
-See package leaflet for further information.
+Also contains lactose monohydrate and soya lecithin. See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablets
+## Film-coated tablet
 
 - 10 film-coated tablets
 - 28 film-coated tablets
@@ -1126,13 +1156,12 @@ Olanzapine 5 mg
 
 <div style=\"page-break-after: always\"></div>
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
+|-------|----------------------------------------|
 
-PC {number}
+PC SN NN
 
-SN {number}
-
-NN {number}
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1151,6 +1180,8 @@ Each film-coated tablet contains 5 mg olanzapine.
 Also contains lactose monohydrate and soya lecithin. See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Film-coated tablet
 
 Multipack 70 (2 packs of 35) film-coated tablets
 
@@ -1171,8 +1202,6 @@ Keep out of the sight and reach of children.
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
-
-<div style=\"page-break-after: always\"></div>
 
 Do not store above 25 ° C.
 
@@ -1216,11 +1245,11 @@ Olanzapine 5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC {number}
+PC
 
-SN {number}
+SN
 
-NN {number}
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1243,6 +1272,8 @@ Also contains lactose monohydrate and soya lecithin.
 See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Film-coated tablet
 
 35 film-coated tablets
 
@@ -1298,7 +1329,7 @@ Medicinal product subject to medical prescription.
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 Olanzapine 5 mg
 
@@ -1308,11 +1339,11 @@ Olanzapine 5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC {number}
+PC
 
-SN {number}
+SN
 
-NN {number}
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1320,10 +1351,42 @@ NN {number}
 |-----------------------------------------------------|
 | BLISTER                                             |
 
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
+
+| 5.   | OTHER   |
+|------|---------|
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Olanzapine Viatris 5 mg film-coated tablets olanzapine
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Viatris Limited
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Batch
+
+## 5. OTHER
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| UNIT-DOSE BLISTER                                   |
+
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
-Olanzapine Viatris 5 mg film-coated tablets olanzapine
+Olanzapine Viatris 5 mg tablets olanzapine
 
 | 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
 |------|-------------------------------------------|
@@ -1365,7 +1428,7 @@ See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablets
+## Film-coated tablet
 
 - 10 film-coated tablets
 - 28 film-coated tablets
@@ -1460,9 +1523,9 @@ Olanzapine 7.5 mg
 | 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
 |-------|----------------------------------------|
 
-PC {number} SN {number}
+PC SN NN
 
-NN {number}
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1481,6 +1544,8 @@ Each film-coated tablet contains 7.5 mg olanzapine.
 Also contains lactose monohydrate and soya lecithin. See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Film-coated tablet
 
 Multipack 70 (2 packs of 35) film-coated tablets
 
@@ -1502,13 +1567,9 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 Do not store above 25 ° C.
 
-<div style=\"page-break-after: always\"></div>
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1546,11 +1607,15 @@ Olanzapine 7.5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC {number}
+PC
 
-SN {number}
+SN
 
-NN {number}
+<div style=\"page-break-after: always\"></div>
+
+NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1571,6 +1636,8 @@ Also contains lactose monohydrate and soya lecithin.
 See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Film-coated tablet
 
 35 film-coated tablets
 
@@ -1594,11 +1661,7 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 Do not store above 25 ° C.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1638,22 +1701,46 @@ Olanzapine 7.5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC {number}
+PC
 
-SN {number}
+SN
 
-NN {number}
+<div style=\"page-break-after: always\"></div>
+
+NN
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Olanzapine Viatris 7.5 mg film-coated tablets olanzapine
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Viatris Limited
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Batch
+
+## 5. OTHER
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
 | MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
 |-----------------------------------------------------|
-| BLISTER FOIL                                        |
+| UNIT-DOSE BLISTER                                   |
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
-Olanzapine Viatris 7.5 mg film-coated tablets olanzapine
+Olanzapine Viatris 7.5 mg tablets olanzapine
 
 | 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
 |------|-------------------------------------------|
@@ -1695,7 +1782,7 @@ See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablets
+## Film-coated tablet
 
 - 7 film-coated tablets
 - 10 film-coated tablets
@@ -1779,17 +1866,17 @@ Olanzapine 10 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
 | 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
 |-------|----------------------------------------|
 
-PC {number} SN {number}
+PC SN NN
 
-NN {number}
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1808,6 +1895,8 @@ Each film-coated tablet contains 10 mg olanzapine.
 Also contains lactose monohydrate and soya lecithin. See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Film-coated tablet
 
 Multipack 70 (2 packs of 35) film-coated tablets
 
@@ -1828,8 +1917,6 @@ Keep out of the sight and reach of children.
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
-
-<div style=\"page-break-after: always\"></div>
 
 Do not store above 25 ° C.
 
@@ -1871,13 +1958,15 @@ Olanzapine 10 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC {number}
+PC
 
-SN {number}
+SN
 
 <div style=\"page-break-after: always\"></div>
 
-NN {number}
+NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1898,6 +1987,8 @@ Also contains lactose monohydrate and soya lecithin.
 See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Film-coated tablet
 
 35 film-coated tablets
 
@@ -1921,23 +2012,15 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 Do not store above 25 ° C.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited
-
-Damastown Industrial Park,
-
-Mulhuddart, Dublin 15,
-
-DUBLIN
-
-Ireland
+Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -1963,13 +2046,11 @@ Olanzapine 10 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC {number}
+PC
 
-SN {number}
+SN
 
-<div style=\"page-break-after: always\"></div>
-
-NN {number}
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1980,7 +2061,45 @@ NN {number}
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+| 5.   | OTHER   |
+|------|---------|
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
 Olanzapine Viatris 10 mg film-coated tablets olanzapine
+
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+
+Viatris Limited
+
+## 3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Batch
+
+## 5. OTHER
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| UNIT-DOSE BLISTER                                   |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+Olanzapine Viatris 10 mg tablets olanzapine
 
 | 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
 |------|-------------------------------------------|
@@ -2022,7 +2141,7 @@ See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablets
+## Film-coated tablet
 
 - 10 film-coated tablets
 - 28 film-coated tablets
@@ -2054,7 +2173,7 @@ EXP
 
 Do not store above 25 ° C.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2107,7 +2226,9 @@ Olanzapine 15 mg
 | 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
 |-------|----------------------------------------|
 
-PC {number} SN {number} NN {number}
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -2126,6 +2247,8 @@ Each film-coated tablet contains 15 mg olanzapine.
 Also contains lactose monohydrate and soya lecithin. See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Film-coated tablet
 
 Multipack 70 (2 packs of 35) film-coated tablets
 
@@ -2146,8 +2269,6 @@ Keep out of the sight and reach of children.
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
-
-<div style=\"page-break-after: always\"></div>
 
 Do not store above 25 ° C.
 
@@ -2189,13 +2310,15 @@ Olanzapine 15 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC {number}
+PC
 
-SN {number}
+SN
 
 <div style=\"page-break-after: always\"></div>
 
-NN {number}
+NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -2216,6 +2339,8 @@ Also contains lactose monohydrate and soya lecithin.
 See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Film-coated tablet
 
 35 film-coated tablets
 
@@ -2239,8 +2364,6 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 Do not store above 25 ° C.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
@@ -2281,27 +2404,44 @@ Olanzapine 15 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC {number}
+PC
 
-SN {number}
-
-<div style=\"page-break-after: always\"></div>
-
-NN {number}
+SN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+NN
 
-BLISTER
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTER                                             |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+| 5.   | OTHER   |
+|------|---------|
+
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 Olanzapine Viatris 15 mg film-coated tablets olanzapine
 
-## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
+2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
+Viatris Limited
 
 ## 3. EXPIRY DATE
 
@@ -2312,6 +2452,35 @@ EXP
 Batch
 
 ## 5. OTHER
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| UNIT-DOSE BLISTER                                   |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+Olanzapine Viatris 15 mg tablets olanzapine
+
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
+
+Viatris Limited
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Batch
+
+| 5.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2360,8 +2529,6 @@ Keep out of the sight and reach of children.
 ## 8. EXPIRY DATE
 
 EXP
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
@@ -2417,10 +2584,14 @@ Olanzapine 20 mg
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 | 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
 |-------|----------------------------------------|
 
-PC {number} SN {number} NN {number}
+PC SN NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -2439,6 +2610,8 @@ Each film-coated tablet contains 20 mg olanzapine.
 Also contains lactose monohydrate and soya lecithin. See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Film-coated tablet
 
 Multipack 70 (2 packs of35) film-coated tablets
 
@@ -2460,23 +2633,13 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 Do not store above 25 ° C.
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited
-
-Damastown Industrial Park,
-
-Mulhuddart, Dublin 15,
-
-DUBLIN
-
-Ireland
+Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -2490,7 +2653,7 @@ Batch
 
 Medicinal product subject to medical prescription.
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2502,13 +2665,15 @@ Olanzapine 20 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC {number}
+PC
 
-SN {number}
+SN
 
 <div style=\"page-break-after: always\"></div>
 
-NN {number}
+NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -2527,6 +2692,8 @@ Each film-coated tablet contains 20 mg olanzapine.
 Also contains lactose monohydrate and soya lecithin. See package leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Film-coated tablet
 
 35 film-coated tablets
 
@@ -2550,23 +2717,15 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-<div style=\"page-break-after: always\"></div>
-
 Do not store above 25 ° C.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited
-
-Damastown Industrial Park,
-
-Mulhuddart, Dublin 15,
-
-DUBLIN
-
-Ireland
+Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER
 
@@ -2580,7 +2739,7 @@ Batch
 
 Medicinal product subject to medical prescription.
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2592,13 +2751,11 @@ Olanzapine 20 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC {number}
+PC
 
-SN {number}
+SN
 
-<div style=\"page-break-after: always\"></div>
-
-NN {number}
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2610,6 +2767,35 @@ NN {number}
 |------|------------------------------|
 
 Olanzapine Viatris 20 mg film-coated tablets olanzapine
+
+| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
+|------|-------------------------------------------|
+
+Viatris Limited
+
+| 3.   | EXPIRY DATE   |
+|------|---------------|
+
+EXP
+
+| 4.   | BATCH NUMBER   |
+|------|----------------|
+
+Batch
+
+| 5.   | OTHER   |
+|------|---------|
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| UNIT-DOSE BLISTER                                   |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+Olanzapine Viatris 20 mg tablets olanzapine
 
 | 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
 |------|-------------------------------------------|
@@ -2649,7 +2835,7 @@ Also contains lactose monohydrate and soya lecithin. See package leaflet for fur
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablets
+## Film-coated tablet
 
 250 film-coated tablets
 
@@ -2673,13 +2859,11 @@ EXP
 
 After first opening use within 90 days.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Do not store above 25 ° C
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2715,15 +2899,19 @@ Olanzapine 2.5 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
+[Outer packaging only]
+
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC {number}
+<div style=\"page-break-after: always\"></div>
 
-SN {number}
+[Outer packaging only]
 
-NN {number}
+<div style=\"page-break-after: always\"></div>
+
+## PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2745,7 +2933,7 @@ Also contains lactose monohydrate and soya lecithin. See package leaflet for fur
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablets
+## Film-coated tablet
 
 250 film-coated tablets
 
@@ -2769,13 +2957,11 @@ EXP
 
 After first opening use within 90 days.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Do not store above 25 ° C
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2811,15 +2997,19 @@ Olanzapine 5 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
+[Outer packaging only]
+
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC {number}
+<div style=\"page-break-after: always\"></div>
 
-SN {number}
+[Outer packaging only]
 
-NN {number}
+<div style=\"page-break-after: always\"></div>
+
+## PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2841,7 +3031,7 @@ Also contains lactose monohydrate and soya lecithin. See package leaflet for fur
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablets
+## Film-coated tablet
 
 100 film-coated tablets
 
@@ -2893,15 +3083,21 @@ Olanzapine 7.5 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
+[Outer packaging only]
+
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC {number}
+[Outer packaging only]
 
-SN {number}
+PC
 
-NN {number}
+SN
+
+<div style=\"page-break-after: always\"></div>
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2923,7 +3119,7 @@ Also contains lactose monohydrate and soya lecithin. See package leaflet for fur
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablets
+## Film-coated tablet
 
 100 film-coated tablets
 
@@ -2948,8 +3144,6 @@ EXP
 After first opening use within 90 days.
 
 ## 9. SPECIAL STORAGE CONDITIONS
-
-Do not store above 25 ° C
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2979,7 +3173,7 @@ Batch
 
 Medicinal product subject to medical prescription.
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -2987,17 +3181,21 @@ Olanzapine 10 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
+[Outer packaging only]
+
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC {number}
-
-SN {number}
-
-NN {number}
+[Outer packaging only]
 
 <div style=\"page-break-after: always\"></div>
+
+PC
+
+<div style=\"page-break-after: always\"></div>
+
+SN NN
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING AND THE IMMEDIATE PACKAGING
 
@@ -3017,7 +3215,7 @@ Also contains lactose monohydrate and soya lecithin. See package leaflet for fur
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablets
+## Film-coated tablet
 
 100 film-coated tablets
 
@@ -3049,15 +3247,7 @@ After first opening use within 90 days.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited
-
-Damastown Industrial Park,
-
-Mulhuddart, Dublin 15,
-
-DUBLIN
-
-Ireland
+Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
@@ -3079,15 +3269,21 @@ Olanzapine 15 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
+[Outer packaging only]
+
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC {number}
+[Outer packaging only]
 
-SN {number}
+PC
 
-NN {number}
+SN
+
+<div style=\"page-break-after: always\"></div>
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3109,7 +3305,7 @@ Also contains lactose monohydrate and soya lecithin. See package leaflet for fur
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-Film-coated tablets
+## Film-coated tablet
 
 100 film-coated tablets
 
@@ -3131,25 +3327,15 @@ EXP
 
 After first opening use within 90 days.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
-Do not store above 25 ° C
+<div style=\"page-break-after: always\"></div>
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Viatris Limited
-
-Damastown Industrial Park,
-
-Mulhuddart, Dublin 15,
-
-DUBLIN
-
-Ireland
+Viatris Limited Damastown Industrial Park, Mulhuddart, Dublin 15, DUBLIN Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBERS
 
@@ -3171,27 +3357,36 @@ Olanzapine 20 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
+[Outer packaging only]
+
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC {number}
+[Outer packaging only]
 
-SN {number}
+PC
 
-NN {number}
+SN
+
+<div style=\"page-break-after: always\"></div>
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the user
 
-```
-Olanzapine Viatris 2.5 mg film-coated tablets Olanzapine Viatris 5 mg film-coated tablets Olanzapine Viatris 7.5 mg film-coated tablets Olanzapine Viatris 10 mg film-coated tablets Olanzapine Viatris 15 mg film-coated tablets Olanzapine Viatris 20 mg film-coated tablets
-```
+<div style=\"page-break-after: always\"></div>
+
+| Olanzapine Viatris 2.5 mg film-coated tablets Olanzapine Viatris 5 mg film-coated tablets   |
+|---------------------------------------------------------------------------------------------|
+| Olanzapine Viatris 7.5 mg film-coated tablets                                               |
+| Olanzapine Viatris 10 mg film-coated tablets                                                |
+| Olanzapine Viatris 15 mg film-coated tablets                                                |
+| Olanzapine Viatris 20 mg film-coated tablets                                                |
 
 olanzapine
 
@@ -3335,7 +3530,7 @@ Common side effects (may affect up to 1 in 10 people) include changes in the lev
 
 Uncommon side effects (may affect up to 1 in 100 people) include hypersensitivity (e.g. swelling in the mouth and throat, itching, rash); diabetes or the worsening of diabetes, occasionally associated with ketoacidosis (ketones in the blood and urine) or coma; seizures, usually associated with a history of seizures (epilepsy); muscle stiffness or spasms (including eye movements); restless legs syndrome; problems with speech; stuttering; slow heart rate; sensitivity to sunlight; bleeding from the nose; abdominal distension; drooling; memory loss or forgetfulness; urinary incontinence; lack of ability to urinate; hair loss; absence or decrease in menstrual periods; and changes in breasts in males and females such as an abnormal production of breast milk or abnormal growth.
 
-Rare side effects (may affect up to 1 in 1000 people) include lowering of normal body temperature; abnormal rhythms of the heart; sudden unexplained death; inflammation of the pancreas causing severe stomach pain, fever and sickness; liver disease appearing as yellowing of the skin and white parts of the eyes; muscle disease presenting as unexplained aches and pains; and prolonged and/or painful erection.
+Rare side effects (may affect up to 1 in 1 000 people) include lowering of normal body temperature; abnormal rhythms of the heart; sudden unexplained death; inflammation of the pancreas causing severe stomach pain, fever and sickness; liver disease appearing as yellowing of the skin and white parts of the eyes; muscle disease presenting as unexplained aches and pains; and prolonged and/or painful erection.
 
 Very rare side effects include serious allergic reactions such as Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS). DRESS appears initially as flu-like symptoms with a rash on the face and then with an extended rash, high temperature, enlarged lymph nodes, increased levels of liver enzymes seen in blood tests and an increase in a type of white blood cells (eosinophilia).
 
@@ -3369,39 +3564,37 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 - -
 - The other ingredients are:
 
-(tablet core) lactose monohydrate (see section 2 'Olanzapine contains lactose'), maize starch, preglatinised maize starch, crospovidone type A, magnesium stearate and (tablet coating) polyvinyl alcohol, titanium dioxide (E171), talc (E553b), soya lecithin (E322)
-
-(see section 2 'Olanzapine Viatris contains soya lecithin'), xanthan gum (E415).
+(tablet core) lactose monohydrate (see section 2 'Olanzapine contains lactose'), maize starch, preglatinised maize starch, crospovidone type A, magnesium stearate and (tablet coating) polyvinyl alcohol, titanium dioxide (E171), talc (E553b), soya lecithin (E322) (see section 2 'Olanzapine Viatris contains soya lecithin'), xanthan gum (E415).
 
 ## What Olanzapine Viatris looks like and contents of the pack
 
-Olanzapine Viatris 2.5 mg are round, white film-coated tablets with sides that curve outwards, marked with 'OZ over 2.5' on one side and 'G' on the other side.
+Olanzapine Viatris 2.5 mg are round, white film-coated tablets (tablets) with sides that curve outwards, marked with 'OZ over 2.5' on one side and 'G' on the other side.
 
-Olanzapine Viatris 5 mg are round, white film-coated tablets with sides that curve outwards, marked with 'OZ over 5' on one side and 'G' on the other side.
+Olanzapine Viatris 5 mg are round, white film-coated tablets (tablets) with sides that curve outwards, marked with 'OZ over 5' on one side and 'G' on the other side.
 
-Olanzapine Viatris 7.5 mg are round, white film-coated tablets with sides that curve outwards, marked with 'OZ over 7.5' on one side and 'G' on the other side.
+Olanzapine Viatris 7.5 mg are round, white film-coated tablets (tablets) with sides that curve outwards, marked with 'OZ over 7.5' on one side and 'G' on the other side.
 
-Olanzapine Viatris 10 mg are round, white film-coated tablets with sides that curve outwards, marked with 'OZ over 10' on one side and 'G' on the other side.
+Olanzapine Viatris 10 mg are round, white film-coated tablets (tablets) with sides that curve outwards, marked with 'OZ over 10' on one side and 'G' on the other side.
 
-Olanzapine Viatris 15 mg are oval-shaped, white film-coated tablets with sides that curve outwards, marked with 'OZ 15' on one side and 'G' on the other side.
+Olanzapine Viatris 15 mg are oval-shaped, white film-coated tablets (tablets) with sides that curve outwards, marked with 'OZ 15' on one side and 'G' on the other side.
 
-Olanzapine Viatris 20 mg are oval-shaped, white film-coated tablets with sides that curve outwards, marked with 'OZ 20' on one side and 'G' on the other side.
+Olanzapine Viatris 20 mg are oval-shaped, white film-coated tablets (tablets) with sides that curve outwards, marked with 'OZ 20' on one side and 'G' on the other side.
 
-Blisters:
+## Blisters:
 
 Olanzapine Viatris 2.5 mg, 5 mg, 7.5 mg, 15 mg and 20 mg is available in packs containing 10, 28, 30, 35, 56, 70 (2 x 35 multipack) and 70 film-coated tablets.
 
 Olanzapine Viatris 10 mg is available in packs containing 7, 10, 28, 30, 35, 56, 70 (2 x 35) (multipack) and 70 film-coated tablets.
 
-Perforated unit dose blisters:
+## Perforated unit dose blisters:
 
 Olanzapine Viatris 2.5 mg, 15 mg and 20 mg is available in packs containing 28 x 1 film-coated tablets.
 
 Olanzapine Viatris 5 mg and 10 mg is available in packs containing 28 x 1 and 98 x 1 film-coated tablets.
 
-<div style=\"page-break-after: always\"></div>
-
 Olanzapine Viatris 7.5 mg is available in packs containing 28 x 1, 56 x 1, 98 x 1 and 100 x 1 filmcoated tablets.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Bottles:
 
@@ -3445,7 +3638,7 @@ Tél/Tel: +32 (0)2 658 61 00
 
 (Belgique/Belgien)
 
-## Č eská republika
+## Česká republika
 
 Viatris CZ s.r.o.
 
@@ -3533,11 +3726,11 @@ Tel: + 351 214 127 200
 
 Viatris Hrvatska d.o.o.
 
-Tel: +385 1 23 50 599
-
 ## România
 
 BGP Products SRL
+
+Tel: +385 1 23 50 599
 
 Tel: +40 372 579 000
 
@@ -3579,7 +3772,7 @@ Puh/Tel: +358 20 720 9555
 
 ## Κύπρος
 
-GPA Pharmaceuticals Ltd
+CPO Pharmaceuticals Limited
 
 Τηλ
 
@@ -3591,19 +3784,13 @@ Viatris AB
 
 Tel: +46 (0)8 630 19 00
 
+<div style=\"page-break-after: always\"></div>
+
 ## Latvija
 
 Viatris SIA
 
 Tel: +371 676 055 80
-
-## United Kingdom (Northern Ireland)
-
-Mylan IRE Healthcare Limited
-
-Tel: +353 18711600
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in {month YYYY}.
 

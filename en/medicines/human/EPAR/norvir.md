@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 11:39:29
+document_datetime: 2026-01-07 16:58:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/norvir.html
 document_name: norvir.html
 version: success
-processing_time: 0.115413
-conversion_datetime: 2025-12-30 20:09:46.864414
+processing_time: 0.1288358
+conversion_datetime: 2026-01-10 10:57:23.607937
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -109,7 +109,7 @@ English (EN) (183.75 KB - PDF)
 
 [View](/en/documents/overview/norvir-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-939)
+[Other languages (22)](#file-language-dropdown-141)
 
 български (BG) (203.55 KB - PDF)
 
@@ -375,6 +375,14 @@ svenska (SV) (181.64 KB - PDF)
 
 [View](/sv/documents/overview/norvir-epar-medicine-overview_sv.pdf)
 
+Norvir : EPAR - Risk management plan
+
+English (EN) (361.73 KB - PDF)
+
+**First published:** 07/01/2026
+
+[View](/en/documents/rmp/norvir-epar-risk-management-plan_en.pdf)
+
 ## Product information
 
 Norvir : EPAR - Product information
@@ -387,7 +395,7 @@ English (EN) (781.92 KB - PDF)
 
 [View](/en/documents/product-information/norvir-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-258)
+[Other languages (24)](#file-language-dropdown-489)
 
 български (BG) (1015.13 KB - PDF)
 
@@ -703,7 +711,7 @@ English (EN) (29.97 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/norvir-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-117)
+[Other languages (24)](#file-language-dropdown-187)
 
 български (BG) (32.75 KB - PDF)
 
@@ -1013,7 +1021,7 @@ AbbVie Deutschland GmbH &amp; Co. KG
 
 Knollstrasse 67061 Ludwigshafen Germany
 
-Opinion adopted 23/05/1996 Marketing authorisation issued 25/08/1996 Revision 71
+Opinion adopted 23/05/1996 Marketing authorisation issued 25/08/1996 Revision 72
 
 ## Assessment history
 
@@ -1025,9 +1033,11 @@ Collapse section
 
 Norvir : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (145.58 KB - PDF)
+English (EN) (147.67 KB - PDF)
 
 **First published:** 11/11/2025
+
+**Last updated:** 07/01/2026
 
 [View](/en/documents/procedural-steps-after/norvir-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1127,7 +1137,7 @@ English (EN) (122.77 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 11/11/2025
+**This page was last updated on** 07/01/2026
 
 ## Share this page
 

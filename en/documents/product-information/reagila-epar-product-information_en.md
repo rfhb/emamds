@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-03-27 14:48:40
+document_datetime: 2026-01-08 13:55:07
 document_pages: 85
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/reagila-epar-product-information_en.pdf
 document_name: reagila-epar-product-information_en.pdf
 version: success
-processing_time: 23.4559185
-conversion_datetime: 2025-12-27 15:38:02.903433
+processing_time: 23.8957599
+conversion_datetime: 2026-01-10 11:32:05.716756
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -222,7 +222,9 @@ Metabolism of cariprazine and its major active metabolites, desmethyl cariprazin
 
 ## CYP3A4 inhibitors
 
-Ketoconazole, a strong CYP3A4 inhibitor, caused two-fold increase in plasma exposure for total cariprazine (sum of cariprazine and its active metabolites) during short-term (4 days) co-administration, either if unbound or unbound+bound moieties considered. Due to the long half-life of the active moieties of cariprazine a further increase in plasma exposure of total cariprazine can be expected during longer co-administration. Therefore, co-administration of cariprazine with strong CYP3A4 inhibitors (e.g., boceprevir, clarithromycin, cobicistat, indinavir, itraconazole, ketoconazole, nefazodone, nelfinavir, posaconazole, ritonavir, saquinavir, telaprevir, telithromycin, voriconazole) is contraindicated (see section 4.3).
+Ketoconazole, a strong CYP3A4 inhibitor, caused two-fold increase in plasma exposure for total cariprazine (sum of cariprazine and its active metabolites) during short-term (4 days) co-administration, either if unbound or unbound+bound moieties considered.
+
+Due to the long half-life of the active moieties of cariprazine a further increase in plasma exposure of total cariprazine can be expected during longer co-administration. Therefore, co-administration of cariprazine with strong CYP3A4 inhibitors (e.g., boceprevir, clarithromycin, cobicistat, indinavir, itraconazole, ketoconazole, nefazodone, nelfinavir, posaconazole, ritonavir, saquinavir, telaprevir, telithromycin, voriconazole) is contraindicated (see section 4.3).
 
 Erythromycin (500 mg twice daily), a moderate CYP3A4 inhibitor, caused on average a 1.4-fold (range 1.03-2.32-fold) increase in plasma exposure of total cariprazine after 3 weeks of coadministration. Therefore, during a period of co-administration of cariprazine with a moderate CYP3A4 inhibitor (e.g., erythromycin, fluconazole, diltiazem, verapamil), monitoring of the individual response and tolerability is recommended and, if needed, the cariprazine dose should be (temporarily) reduced to account for the potential increase in exposure. Because of the long half-life of cariprazine and its active metabolites, starting or stopping a treatment with a moderate CYP 3A4 inhibitor or changing the dose will not be fully reflected in plasma drug levels until after several
 
@@ -327,6 +329,12 @@ Table 1 Adverse drug reactions occurring in patients with schizophrenia
 | Renal and urinary disorders                           |                                        | Dysuria Pollakisuria |                 |                                                     |
 | Pregnancy, puerperium and perinatal conditions        |                                        |                      |                 | Drug withdrawal syndrome neonatal (see section 4.6) |
 | General disorders and administrati on site conditions | Fatigue                                | Thirst               |                 |                                                     |
+
+5 Other extrapyramidal diseases and abnormal movement disorders: Balance disorder, Bruxism, Drooling,
+
+Dysarthria, Gait deviation, Glabellar reflex abnormal, Hyporeflexia, Movement disorder, Restless legs syndrome, Salivary hypersecretion, Tongue movement disturbance
+
+6 Dyskinesia: Choreoathetosis, Dyskinesia, Grimacing, Oculogyric crisis, Protrusion tongue
 
 ## Description of selected adverse reactions
 
@@ -628,13 +636,17 @@ MARKETING AUTHORISATION NUMBERS
 
 EU/1/17/1209/001-042
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+9.
+
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 13 July 2017
 
 Date of latest renewal: 04 April 2022
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
+
+DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
@@ -746,9 +758,7 @@ been established. No data are available.
 
 Reagila is for oral use, to be taken once daily at the same time of the day with or without food. Reagila orodispersible tablets may be used as an alternative to Reagila hard capsules for patients who have difficulty swallowing the hard capsules or for whom there is a preference for orodispersible tablets.
 
-The orodispersible tablet should carefully be removed from the blister with dry hands and immediately placed on the tongue, where it will dissolve and can be swallowed with or without water.
-
-Alternatively, disperse the tablet in water and drink the resulting suspension. In this case, the contents of the glass should be thoroughly stirred to avoid settling down of the undissolved residues.
+The orodispersible tablet should carefully be removed from the blister with dry hands and immediately placed on the tongue, where it will dissolve and can be swallowed with or without water. Alternatively, disperse the tablet in water and drink the resulting suspension. In this case, the contents of the glass should be thoroughly stirred to avoid settling down of the undissolved residues.
 
 Alcohol should be avoided when taking cariprazine (see section 4.5).
 
@@ -945,6 +955,8 @@ Table 1 Adverse drug reactions occurring in patients with schizophrenia
 |-------------------------------------------------------|---------|------------------------|-----------------------------------------------------|
 | Pregnancy, puerperium and perinatal conditions        |         |                        | Drug withdrawal syndrome neonatal (see section 4.6) |
 | General disorders and administrati on site conditions | Fatigue | Thirst                 |                                                     |
+
+1 Sleep disorders: Insomnia, Abnormal dreams/nightmare, Circadian rhythm sleep disorder,
 
 Dyssomnia, Hypersomnia, Initial insomnia, Middle insomnia, Nightmare, Sleep disorder,
 
@@ -1196,7 +1208,7 @@ Keep the tablets in the original packaging in order to protect from moisture. Th
 
 Blisters made of PA/Al/PVC foil (forming foil) and Paper/PET/Al blister lidding foil with peelable functionality (sealing foil) and are packed in folded carton box.
 
-Reagila 1.5 mg, 3 mg, 4.5 mg and 6 mg orodispersible tablets
+## Reagila 1.5 mg, 3 mg, 4.5 mg and 6 mg orodispersible tablets
 
 Cartons contain 28 or 30 orodispersible tablets.
 
@@ -1355,9 +1367,7 @@ Keep the blister in the outer carton in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Gedeon Richter Plc. Gyömrői út 19 -21.
-
-1103 Budapest, Hungary
+Gedeon Richter Plc. Gyömrői út 19 -21. 1103 Budapest, Hungary
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -1462,9 +1472,7 @@ Read the package leaflet before use.
 
 Oral use.
 
-## QR code to be included
-
-www.reagila.com
+QR code to be included www.reagila.com
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1963,8 +1971,7 @@ Each orodispersible tablet contains cariprazine hydrochloride corresponding to 3
 
 ## Orodispersible tablet
 
-28 orodispersible tablets
-
+- 28 orodispersible tablets
 - 30 orodispersible tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -2011,7 +2018,7 @@ EU/1/17/1209/045-046
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2129,7 +2136,7 @@ EU/1/17/1209/047-048
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2200,8 +2207,7 @@ Each orodispersible tablet contains cariprazine hydrochloride corresponding to 6
 
 ## Orodispersible tablet
 
-28 orodispersible tablets
-
+- 28 orodispersible tablets
 - 30 orodispersible tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
@@ -2248,7 +2254,7 @@ EU/1/17/1209/049-050
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2266,9 +2272,9 @@ PC
 
 SN
 
-<div style=\"page-break-after: always\"></div>
-
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2276,8 +2282,7 @@ NN
 |-----------------------------------------------------|
 | blisterfoil                                         |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Reagila 6 mg orodispersible tablets cariprazine
 
@@ -2617,13 +2622,15 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Recordati BV
+Gedeon Richter Benelux bv/SRL
 
-Tél/Tel: +32 2 461 01 36
+Tél/Tel: +32 2 704 93 30
 
 ## Lietuva
 
-Gedeon Richter Plc. atstovybė Lietuvoje Tel: +370 5 261 01 54
+Gedeon Richter Plc. atstovybė Lietuvoje
+
+Tel: +370 5 261 01 54
 
 ## България
 
@@ -2653,13 +2660,15 @@ Tel.: +36 1 505 7032
 
 ## Danmark
 
-Recordati AB
+Richter Gedeon Nyrt.
 
-Tlf: +46 8 545 80 230 (Sverige)
+Tlf: +36 1 505 7032 (Ungarn)
 
 ## Malta
 
-Recordati Ireland Limited Tel: + 353 21 4379400 (Ireland)
+Recordati Ireland Limited
+
+Tel: + 353 21 4379400 (Ireland)
 
 ## Deutschland
 
@@ -2669,9 +2678,9 @@ Tel: + 49 731 70470
 
 ## Nederland
 
-Recordati BV
+Gedeon Richter Benelux bv/SRL
 
-Tel: + 32 2 461 01 36 (België)
+Tel: + 32 2 704 93 30 (België)
 
 ## Eesti
 
@@ -2687,7 +2696,9 @@ Tel: +372 608 5301
 
 Recordati Hellas Pharmaceuticals S.A.
 
-Τηλ: + 30 210 -6773822
+Τηλ
+
+: + 30 210-6773822
 
 ## España
 
@@ -2751,9 +2762,9 @@ The same information is also available on the following URL: www.reagila.com
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
 
-Recordati AB
+Richter Gedeon Nyrt.
 
-Tlf: + 46 8 545 80 230 (Sverige)
+Tlf: + +36 1 505 7032 (Ungarn)
 
 ## Österreich
 
@@ -2802,12 +2813,6 @@ Puh/Tel: +46 8 545 80 230 (Ruotsi/Sverige)
 Recordati AB
 
 Tel: +46 8 545 80 230
-
-## United Kingdom (Northern Ireland)
-
-Recordati Pharmaceuticals Ltd.
-
-Tel: + 44 1491 576336
 
 ## Package leaflet: Information for the user
 
@@ -3123,11 +3128,15 @@ Gedeon Richter Plc. Gyömrői út 19 -21 1103 Budapest Hungary
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien/Danmark/Deutschland / Ελλάδα /España/France/Ireland/Ísland/Italia/ Κύπρος /Luxembourg/Luxemburg/ Magyarország/Malta/Nederland/Norge/ Österreich/Portugal/Suomi/Finland/Sverige/ United Kingdom (Northern Ireland)
+## België/Belgique/Belgien/Danmark/Deutschland
+
+/ Ελλάδα /España/France/Ireland/Ísland/Italia/ Κύπρος /Luxembourg/Luxemburg/ Magyarország /Malta/Nederland/Norge/ Österreich/Portugal/Suomi/Finland/Sverige/ United Kingdom (Northern Ireland)
 
 Richter Gedeon Nyrt.
 
-Tél/Tel/Tlf/ Τηλ /Sími/Puh: +36 1 505 7032
+Tél/Tel/Tlf/ Τηλ
+
+/Sími/Puh: +36 1 505 7032
 
 ## България
 
@@ -3171,15 +3180,15 @@ Tel: + +386 8 205 68 70
 
 <div style=\"page-break-after: always\"></div>
 
-Hrvatska Gedeon Richter Croatia d.o.o.
+## Hrvatska
+
+Gedeon Richter Croatia d.o.o.
 
 Tel: + 385 1 5625 712
 
 ## Latvija
 
-Gedeon Richter Plc.
-
-pārstāvniecība Latvijā
+Gedeon Richter Plc. pārstāvniecība Latvijā
 
 Tel: +371 67845338
 
@@ -3197,4 +3206,8 @@ Detailed information on this medicine is available on the European Medicines Age
 
 http://www.ema.europa.eu.
 
-Slovenská republika Gedeon Richter Slovakia, s.r.o. Tel: +421 2 5020 5801
+## Slovenská republika
+
+Gedeon Richter Slovakia, s.r.o.
+
+Tel: +421 2 5020 5801

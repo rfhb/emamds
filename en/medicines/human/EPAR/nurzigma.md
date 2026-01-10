@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 12:23:52
+document_datetime: 2026-01-09 15:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nurzigma.html
 document_name: nurzigma.html
 version: success
-processing_time: 0.0458588
-conversion_datetime: 2025-12-30 19:53:32.942019
+processing_time: 0.0785953
+conversion_datetime: 2026-01-10 11:07:09.446198
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -96,7 +96,275 @@ English (EN) (116.2 KB - PDF)
 
 **First published:** 14/11/2025
 
+**Last updated:** 09/01/2026
+
 [View](/en/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-nurzigma-pridopidine_en.pdf)
+
+[Other languages (22)](#file-language-dropdown-709)
+
+български (BG) (140.9 KB - PDF)
+
+**First published:**
+
+14/11/2025
+
+**Last updated:**
+
+09/01/2026
+
+[View](/bg/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-nurzigma-pridopidine_bg.pdf)
+
+español (ES) (114.78 KB - PDF)
+
+**First published:**
+
+14/11/2025
+
+**Last updated:**
+
+09/01/2026
+
+[View](/es/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-nurzigma-pridopidine_es.pdf)
+
+čeština (CS) (137.34 KB - PDF)
+
+**First published:**
+
+14/11/2025
+
+**Last updated:**
+
+09/01/2026
+
+[View](/cs/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-nurzigma-pridopidine_cs.pdf)
+
+dansk (DA) (115.89 KB - PDF)
+
+**First published:**
+
+14/11/2025
+
+**Last updated:**
+
+09/01/2026
+
+[View](/da/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-nurzigma-pridopidine_da.pdf)
+
+Deutsch (DE) (131.41 KB - PDF)
+
+**First published:**
+
+14/11/2025
+
+**Last updated:**
+
+09/01/2026
+
+[View](/de/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-nurzigma-pridopidine_de.pdf)
+
+eesti keel (ET) (113.23 KB - PDF)
+
+**First published:**
+
+14/11/2025
+
+**Last updated:**
+
+09/01/2026
+
+[View](/et/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-nurzigma-pridopidine_et.pdf)
+
+ελληνικά (EL) (144.09 KB - PDF)
+
+**First published:**
+
+14/11/2025
+
+**Last updated:**
+
+09/01/2026
+
+[View](/el/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-nurzigma-pridopidine_el.pdf)
+
+français (FR) (117.73 KB - PDF)
+
+**First published:**
+
+14/11/2025
+
+**Last updated:**
+
+09/01/2026
+
+[View](/fr/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-nurzigma-pridopidine_fr.pdf)
+
+hrvatski (HR) (145.77 KB - PDF)
+
+**First published:**
+
+14/11/2025
+
+**Last updated:**
+
+09/01/2026
+
+[View](/hr/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-nurzigma-pridopidine_hr.pdf)
+
+italiano (IT) (114.38 KB - PDF)
+
+**First published:**
+
+14/11/2025
+
+**Last updated:**
+
+09/01/2026
+
+[View](/it/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-nurzigma-pridopidine_it.pdf)
+
+latviešu valoda (LV) (156.59 KB - PDF)
+
+**First published:**
+
+14/11/2025
+
+**Last updated:**
+
+09/01/2026
+
+[View](/lv/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-nurzigma-pridopidine_lv.pdf)
+
+lietuvių kalba (LT) (136.5 KB - PDF)
+
+**First published:**
+
+14/11/2025
+
+**Last updated:**
+
+09/01/2026
+
+[View](/lt/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-nurzigma-pridopidine_lt.pdf)
+
+magyar (HU) (139.45 KB - PDF)
+
+**First published:**
+
+14/11/2025
+
+**Last updated:**
+
+09/01/2026
+
+[View](/hu/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-nurzigma-pridopidine_hu.pdf)
+
+Malti (MT) (148.54 KB - PDF)
+
+**First published:**
+
+14/11/2025
+
+**Last updated:**
+
+09/01/2026
+
+[View](/mt/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-nurzigma-pridopidine_mt.pdf)
+
+Nederlands (NL) (117.1 KB - PDF)
+
+**First published:**
+
+14/11/2025
+
+**Last updated:**
+
+09/01/2026
+
+[View](/nl/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-nurzigma-pridopidine_nl.pdf)
+
+polski (PL) (148.98 KB - PDF)
+
+**First published:**
+
+14/11/2025
+
+**Last updated:**
+
+09/01/2026
+
+[View](/pl/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-nurzigma-pridopidine_pl.pdf)
+
+português (PT) (115.73 KB - PDF)
+
+**First published:**
+
+14/11/2025
+
+**Last updated:**
+
+09/01/2026
+
+[View](/pt/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-nurzigma-pridopidine_pt.pdf)
+
+română (RO) (134.47 KB - PDF)
+
+**First published:**
+
+14/11/2025
+
+**Last updated:**
+
+09/01/2026
+
+[View](/ro/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-nurzigma-pridopidine_ro.pdf)
+
+slovenčina (SK) (136.49 KB - PDF)
+
+**First published:**
+
+14/11/2025
+
+**Last updated:**
+
+09/01/2026
+
+[View](/sk/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-nurzigma-pridopidine_sk.pdf)
+
+slovenščina (SL) (135.48 KB - PDF)
+
+**First published:**
+
+14/11/2025
+
+**Last updated:**
+
+09/01/2026
+
+[View](/sl/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-nurzigma-pridopidine_sl.pdf)
+
+Suomi (FI) (113.23 KB - PDF)
+
+**First published:**
+
+14/11/2025
+
+**Last updated:**
+
+09/01/2026
+
+[View](/fi/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-nurzigma-pridopidine_fi.pdf)
+
+svenska (SV) (115.06 KB - PDF)
+
+**First published:**
+
+14/11/2025
+
+**Last updated:**
+
+09/01/2026
+
+[View](/sv/documents/medicine-qa/questions-answers-withdrawal-application-marketing-authorisation-nurzigma-pridopidine_sv.pdf)
 
 ## Key facts
 
@@ -118,6 +386,18 @@ English (EN) (83.9 KB - PDF)
 
 [View](/en/documents/withdrawal-letter/withdrawal-letter-nurzigma_en.pdf)
 
+Withdrawal assessment report for Nurzigma
+
+Adopted
+
+Reference Number: EMA/CHM/231085/2025
+
+English (EN) (5.37 MB - PDF)
+
+**First published:** 09/01/2026
+
+[View](/en/documents/withdrawal-report/withdrawal-assessment-report-nurzigma_en.pdf)
+
 #### Related information on withdrawals
 
 A question-and-answer (Q&amp;A) document provides a summary of the CHMP's evaluation of the medicine at the time of the withdrawal of the application, and includes a link to the company's formal withdrawal letter.
@@ -134,7 +414,7 @@ An assessment report is published when the application is withdrawn after the fi
 
 - [EU/3/05/288 - orphan designation for treatment of Huntington's disease](/en/medicines/human/orphan-designations/eu-3-05-288)
 
-**This page was last updated on** 14/11/2025
+**This page was last updated on** 09/01/2026
 
 ## Share this page
 

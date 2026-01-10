@@ -1,16 +1,16 @@
 ---
-document_datetime: 2024-07-26 13:31:23
+document_datetime: 2026-01-07 13:31:17
 document_pages: 105
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/lenalidomide-krka-epar-product-information_en.pdf
 document_name: lenalidomide-krka-epar-product-information_en.pdf
 version: success
-processing_time: 40.556749
-conversion_datetime: 2025-12-29 22:44:58.591265
+processing_time: 30.1412993
+conversion_datetime: 2026-01-10 11:27:29.790287
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -107,7 +107,7 @@ For all indications described below:
 
 ## Newly diagnosed multiple myeloma (NDMM)
 
-Lenalidomide in combination with dexamethasone until disease progression in patients who are not eligible for transplant
+## Lenalidomide in combination with dexamethasone until disease progression in patients who are not eligible for transplant
 
 Lenalidomide treatment must not be started if the Absolute Neutrophil Count (ANC) is &lt; 1.0 x 10 9 /L, and/or platelet counts are &lt; 50 x 10 9 /L.
 
@@ -149,11 +149,7 @@ For hematologic toxicity the dose of lenalidomide may be re-introduced to the ne
 
 Lenalidomide in combination with bortezomib and dexamethasone followed by lenalidomide and dexamethasone until disease progression in patients who are not eligible for transplant
 
-## Initial treatment: Lenalidomide in combination with bortezomib and dexamethasone
-
-Lenalidomide in combination with bortezomib and dexamethasone must not be started if the ANC is
-
-&lt; 1.0 x 10 9 /L, and/or platelet counts are &lt; 50 x 10 9 /L.
+Initial treatment: Lenalidomide in combination with bortezomib and dexamethasone Lenalidomide in combination with bortezomib and dexamethasone must not be started if the ANC is &lt; 1.0 x 10 9 /L, and/or platelet counts are &lt; 50 x 10 9 /L.
 
 The recommended starting dose is lenalidomide 25 mg orally once daily days 1-14 of each 21-day cycle in combination with bortezomib and dexamethasone. Bortezomib should be administered via subcutaneous injection (1.3 mg/m 2  body surface area) twice weekly on days 1, 4, 8 and 11 of each 21day. For additional information on the dose, schedule and dose adjustments of medicinal products administered with lenalidomide, see Section 5.1 and the corresponding Summary of Product Characteristics.
 
@@ -252,15 +248,15 @@ The recommended starting dose is lenalidomide 10 mg orally once daily continuous
 | When platelets                                                       | Recommended course                                                                       |
 |----------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | Fall to < 30 x 10 9 /L Return to ≥ 30 x 10 9 /L                      | Interrupt lenalidomide treatment Resume lenalidomide at dose level -1 once daily         |
-| For each subsequent drop below 30 x 10 9 /L Return to ≥ 30 x 10 9 /L | Interrupt lenalidomide treatment Resume lenalidomide at next lower dose level once daily |
+| For each subsequent drop below 30 x 10 9 /L Return to ≥ 30 x 10 9 /L |                                                                                          |
+|                                                                      | Interrupt lenalidomide treatment Resume lenalidomide at next lower dose level once daily |
 
 ## Absolute neutrophil count (ANC) - neutropenia
 
-| When ANC                                                               | Recommended course a                                                                     |
-|------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-| Falls to < 0.5 x 10 9 /L Returns to ≥ 0.5 x 10 9 /L                    | Interrupt lenalidomide treatment Resume lenalidomide at dose level -1 once daily         |
-| For each subsequent drop below < 0.5 x 10 9 Returns to ≥ 0.5 x 10 9 /L | Interrupt lenalidomide treatment Resume lenalidomide at next lower dose level once daily |
-| /L                                                                     |                                                                                          |
+| When ANC                                                                  | Recommended course a                                                                     |
+|---------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| Falls to < 0.5 x 10 9 /L Returns to ≥ 0.5 x 10 9 /L                       | Interrupt lenalidomide treatment Resume lenalidomide at dose level -1 once daily         |
+| For each subsequent drop below < 0.5 x 10 9 /L Returns to ≥ 0.5 x 10 9 /L | Interrupt lenalidomide treatment Resume lenalidomide at next lower dose level once daily |
 
 ## Multiple myeloma with at least one prior therapy
 
@@ -418,7 +414,7 @@ For dose adjustments due to toxicity with rituximab, refer to the corresponding 
 | Returns to ≥ 1.0 x 10 9 /L                                                                                                                                                                         | Resume lenalidomide at next lower dose level (dose level -1)                                                                                                             |
 | For each subsequent drop below 1.0 x 10 9 /L for at least 7 days or drop to < 1.0 x 10 9 /L with associated fever (body temperature ≥ 38.5°C) or drop to < 0.5 x 10 9 /L Returns to ≥1.0 x 10 9 /L | Interrupt lenalidomide treatment and conduct CBC at least every 7 days Resume lenalidomide at next lower dose level (dose level -2, -3). Do not dose below dose level -3 |
 
-## Mantle cell lymphoma (MCL) or follicular lymphoma (FL)
+Mantle cell lymphoma (MCL) or follicular lymphoma (FL)
 
 ## Tumour lysis syndrome (TLS)
 
@@ -529,6 +525,10 @@ There are no phase 3 trial experiences with End Stage Renal Disease (ESRD) (CLcr
 | Moderate renal impairment (30  CLcr < 50 mL/min)                     | 10 mg once daily 1                                                                     |
 | Severe renal impairment (CLcr < 30 mL/min, not requiring dialysis)    | 7.5 mg once daily 2 15 mg every other day                                              |
 | End Stage Renal Disease (ESRD) (CLcr < 30 mL/min, requiring dialysis) | 5 mg once daily. On dialysis days, the dose should be administered following dialysis. |
+
+1  The dose may be escalated to 15 mg once daily after 2 cycles if patient is not responding to treatment and is tolerating the treatment.
+
+2  In countries where the 7.5 mg capsule is available.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -702,11 +702,15 @@ Overall, Grade 4 neutropenia was observed at a higher frequency in the lenalidom
 
 Grade 3 or 4 thrombocytopenia was observed at a higher frequency in the lenalidomide maintenance arms compared to the placebo maintenance arms in studies evaluating lenalidomide maintenance in NDMMpatients who have undergone ASCT (37.5% vs 30.3% [17.9% vs 4.1% after the start of maintenance treatment] in CALGB 100104 and 13.0% vs 2.9% in IFM 2005-02, respectively). Patients and physicians are advised to be observant for signs and symptoms of bleeding, including petechiae and epistaxes, especially in patients receiving concomitant medicinal products susceptible to induce bleeding (see section 4.8, Haemorrhagic disorders).
 
-## Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with bortezomib and dexamethasone Grade 4 neutropenia was observed at a lower frequency in the lenalidomide in combination with bortezomib and dexamethasone (RVd) arm compared to the Rd comparator arm (2.7% vs 5.9%) in the SWOG S0777 study. Grade 4 febrile neutropenia was reported at similar frequencies in the RVd arm and Rd arm (0.0% vs 0.4%). Patients should be advised to promptly report febrile episodes; a treatment interruption and/or dose reduction may be required (see section 4.2).
+## Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with bortezomib and dexamethasone
+
+Grade 4 neutropenia was observed at a lower frequency in the lenalidomide in combination with bortezomib and dexamethasone (RVd) arm compared to the Rd comparator arm (2.7% vs 5.9%) in the SWOG S0777 study. Grade 4 febrile neutropenia was reported at similar frequencies in the RVd arm and Rd arm (0.0% vs 0.4%). Patients should be advised to promptly report febrile episodes; a treatment interruption and/or dose reduction may be required (see section 4.2).
 
 Grade 3 or 4 thrombocytopenia was observed at a higher frequency in the RVd arm compared to the Rd comparator arm (17.2% vs 9.4%).
 
-Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with low dose dexamethasone Grade 4 neutropenia was observed in the lenalidomide arms in combination with dexamethasone to a lesser extent than in the comparator arm (8.5% in the Rd [continuous treatment] and Rd18 [treatment for 18 four-week cycles] compared with 15% in the melphalan/prednisone/thalidomide arm, see section 4.8). Grade 4 febrile neutropenia episodes were consistent with the comparator arm (0.6% in the Rd and Rd18 lenalidomide/dexamethasone-treated patients compared with 0.7% in the melphalan/prednisone/thalidomide arm, see section 4.8).
+## Newly diagnosed multiple myeloma: patients who are not eligible for transplant treated with lenalidomide in combination with low dose dexamethasone
+
+Grade 4 neutropenia was observed in the lenalidomide arms in combination with dexamethasone to a lesser extent than in the comparator arm (8.5% in the Rd [continuous treatment] and Rd18 [treatment for 18 four-week cycles] compared with 15% in the melphalan/prednisone/thalidomide arm, see section 4.8). Grade 4 febrile neutropenia episodes were consistent with the comparator arm (0.6% in the Rd and Rd18 lenalidomide/dexamethasone-treated patients compared with 0.7% in the melphalan/prednisone/thalidomide arm, see section 4.8).
 
 Grade 3 or 4 thrombocytopenia was observed to a lesser extent in the Rd and Rd18 arms than in the comparator arm (8.1% vs 11.1%, respectively).
 
@@ -1068,14 +1072,7 @@ Table 1. ADRs reported in clinical trials in patients with multiple myeloma trea
 |------------------------------------------------------|------------------------------------------------------------------|--------------------------|
 | General Disorders and Administration Site Conditions | Very common Fatigue, Asthenia, Pyrexia                           | Common Fatigue, Asthenia |
 
-* Applies to serious adverse drug reactions only
-- ^ See section 4.8 description of selected adverse reactions
-
-a 'Pneumonia' combined AE term includes the following PTs: Bronchopneumonia, Lobar pneumonia, Pneumocystis jiroveci pneumonia, Pneumonia, Pneumonia klebsiella, Pneumonia legionella, Pneumonia mycoplasmal, Pneumonia pneumococcal, Pneumonia streptococcal, Pneumonia viral, Lung disorder, Pneumonitis
-
-- b 'Sepsis' combined AE term includes the following PTs: Bacterial sepsis, Pneumococcal sepsis, Septic shock, Staphylococcal sepsis c 'Peripheral neuropathy' combined AE term includes the following preferred terms (PTs): Neuropathy peripheral, Peripheral sensory neuropathy, Polyneuropathy
-
-d 'Deep vein thrombosis' combined AE term includes the following PTs: Deep vein thrombosis, Thrombosis, Venous thrombosis
+- d 'Deep vein thrombosis' combined AE term includes the following PTs: Deep vein thrombosis, Thrombosis, Venous thrombosis
 
 ## Tabulated summary for combination therapy in MM
 
@@ -1087,7 +1084,7 @@ Table 2. ADRs reported in clinical studies in patients with multiple myeloma tre
 |---------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Infections and Infestations                                         | Very common Pneumonia ◊,◊◊ , Upper respiratory tract infection ◊ , Bacterial, viral and fungal infections (including opportunistic infections) ◊ , Nasopharyngitis, Pharyngitis, Bronchitis ◊ , Rhinitis Common Sepsis ◊,◊◊ , Lung infection ◊◊ , Urinary tract infection ◊◊ , Sinusitis ◊ | Common Pneumonia ◊,◊◊ , Bacterial, viral and fungal infections (including opportunistic infections) ◊ , Cellulitis ◊ , Sepsis ◊,◊◊ , Lung infection ◊◊ , Bronchitis ◊ , Respiratory tract infection ◊◊ , Urinary tract infection ◊◊ , Enterocolitis infectious |
 | Neoplasms Benign, Malignant and Unspecified (incl cysts and polyps) | Uncommon Basal cell carcinoma^ ,◊ , Squamous skin cancer^ ,◊,*                                                                                                                                                                                                                             | Common Acute myeloid leukaemia ◊ , Myelodysplastic syndrome ◊ , Squamous cell carcinoma of skin ^,◊,** Uncommon T-cell type acute leukaemia ◊ , Basal cell carcinoma^ ,◊ , Tumour lysis syndrome                                                               |
-| Blood and Lymphatic System Disorders                                | Very common Neutropenia ^,◊,◊◊ , Thrombocytopenia ^,◊,◊◊ , Anaemia◊, Haemorrhagic disorder^, Leucopenia, Lymphopenia Common Febrile neutropenia^ ,◊ , Pancytopenia ◊                                                                                                                       | Very common Neutropenia ^,◊,◊◊ , Thrombocytopenia ^,◊,◊◊ , Anemia ◊ , Leucopenia, Lymphopenia Common Febrile neutropenia^ ,◊ , Pancytopenia ◊ , Haemolytic anemia                                                                                              |
+| Blood and Lymphatic System Disorders                                | Very common Neutropenia ^,◊,◊◊ , Thrombocytopenia ^,◊,◊◊ , Anaemia◊, Haemorrhagic disorder^, Leucopenia, Lymphopenia Common Febrile neutropenia^ ,◊ , Pancytopenia ◊ Uncommon                                                                                                              | Very common Neutropenia ^,◊,◊◊ , Thrombocytopenia ^,◊,◊◊ , Anemia ◊ , Leucopenia, Lymphopenia Common Febrile neutropenia^ ,◊ , Pancytopenia ◊ , Haemolytic anemia                                                                                              |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1109,7 +1106,7 @@ Table 2. ADRs reported in clinical studies in patients with multiple myeloma tre
 |-------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Respiratory, Thoracic and Mediastinal Disorders | Very common Dyspnoea ◊,◊◊ , Epistaxis^, Cough Common Dysphonia                                                                                                                                                                                                                                    | Common Respiratory distress ◊ , Dyspnoea ◊,◊◊ , Pleuritic pain ◊◊ , Hypoxia ◊◊                                                                                  |
 | Gastrointestinal Disorders                      | Very common Diarrhoea ◊,◊◊ , Constipation ◊ , Abdominal pain ◊◊ , Nausea, Vomiting ,◊◊ , Dyspepsia, Dry mouth, Stomatitis Common Gastrointestinal haemorrhage (including rectal haemorrhage, haemorrhoidal haemorrhage, peptic ulcer haemorrhage and gingival bleeding)^, ◊◊ , Dysphagia Uncommon | Common Gastrointestinal haemorrhage^ ,◊,◊◊ , Small intestinal obstruction ◊◊ , Diarrhoea ◊◊ , Constipation ◊ , Abdominal pain ◊◊ , Nausea, Vomiting ◊◊          |
-| Hepatobiliary Disorders                         | Colitis, Caecitis Very common Alanine aminotransferase increased, Aspartate aminotransferase increased Common Hepatocellular injury ◊◊ , Abnormal liver function tests ◊ , Hyperbilirubinaemia Uncommon                                                                                           | Common Cholestasis ◊ , Hepatotoxicity, Hepatocellular injury ◊◊ , Alanine aminotransferase increased, Abnormal liver function tests ◊ Uncommon Hepatic failure^ |
+| Hepatobiliary Disorders                         | Very common Alanine aminotransferase increased, Aspartate aminotransferase increased Common Hepatocellular injury ◊◊ , Abnormal liver function tests ◊ , Hyperbilirubinaemia Uncommon                                                                                                             | Common Cholestasis ◊ , Hepatotoxicity, Hepatocellular injury ◊◊ , Alanine aminotransferase increased, Abnormal liver function tests ◊ Uncommon Hepatic failure^ |
 | Skin and Subcutaneous Tissue Disorders          | Very common Rashes ◊◊ , Pruritus Common Urticaria, Hyperhidrosis, Dry skin, Skin hyperpigmentation, Eczema, Erythema Uncommon Drug rash with eosinophilia and systemic symptoms ◊◊ , Skin discolouration, Photosensitivity reaction                                                               | Common Rashes ◊◊ Uncommon Drug rash with eosinophilia and systemic symptoms ◊◊                                                                                  |
 | Musculoskeletal and Connective Tissue Disorders | Very common Muscular weakness ◊◊ , Muscle spasms, Bone pain ◊ , Musculoskeletal and connective tissue pain and discomfort (including back pain ◊,◊◊ ), Pain in extremity, Myalgia, Arthralgia ◊ Common Joint swelling                                                                             | Common Muscular weakness ◊◊ , Bone pain ◊ , Musculoskeletal and connective tissue pain and discomfort (including back pain ◊,◊◊ ) Uncommon Joint swelling       |
 
@@ -1168,10 +1165,7 @@ Algorithm applied for inclusion in the SmPC: All ADRs captured by the phase 3 st
 - -Myelodysplastic syndromes phase 3 study (double-blind safety population, difference between lenalidomide 5/10mg and placebo by initial dosing regimen occurring in at least 2 subjects) 
 - o All treatment-emergent adverse events with ≥ 5% of subjects in lenalidomide and at least 2% difference in proportion between lenalidomide and placebo
 - o All treatment-emergent Grade 3 or 4 adverse events in 1% of subjects in lenalidomide and at least 1% difference in proportion between lenalidomide and placebo
-- o All treatment-emergent serious adverse events in 1% of subjects in lenalidomide and at least 1%
-
-difference in proportion between lenalidomide and placebo
-
+- o All treatment-emergent serious adverse events in 1% of subjects in lenalidomide and at least 1% difference in proportion between lenalidomide and placebo
 - -Myelodysplastic syndromes phase 2 study
 
 
@@ -1253,11 +1247,7 @@ Table 5: ADRs reported in clinical trials in patients with follicular lymphoma t
 | General Disorders and Administration Site Conditions | Very common Pyrexia, Fatigue, Asthenia, Peripheral oedema Common Malaise, Chills                                                       | Common Fatigue, Asthenia            |
 | Investigations                                       | Very common Alanine aminotransferase increased Common Weight decreased, Blood Bilirubin increased                                      |                                     |
 
-^see section 4.8 description of selected adverse reactions
-
-Algorithm applied for follicular lymphoma:
-
-Controlled -Phase 3 trial:
+^see section 4.8 description of selected adverse reactions Algorithm applied for follicular lymphoma: Controlled -Phase 3 trial:
 
 - -NHL-007 ADRs- All treatment-emergent AEs with ≥ 5.0% of subjects in lenalidomide/rituximab arm and at least 2.0% higher frequency (%) in Len arm compared to control arm - (Safety population)
 - -NHL-007 Gr 3/4 ADRs- All Grades 3 or Grade 4 treatment-emergent AEs with at least 1.0% subjects in lenalidomide/rituximab arm and at least 1.0% higher frequency in lenalidomide arm compared to control arm - (safety population)
@@ -1318,9 +1308,9 @@ compared to placebo maintenance (32.1% vs 26.7% [16.1% vs 1.8% after the start o
 
 Lenalidomide maintenance after ASCT is associated with a higher frequency of Grade 3 or 4 thrombocytopenia compared to placebo maintenance (37.5% vs 30.3% [17.9% vs 4.1% after the start of maintenance treatment] in CALGB 100104 and 13.0% vs 2.9% in IFM 2005-02, respectively).
 
-## Newly diagnosed multiple myeloma patients who are not eligible for transplant receiving lenalidomide
+## Newly diagnosed multiple myeloma patients who are not eligible for transplant receiving lenalidomide in combination with bortezomib and dexamethasone
 
-in combination with bortezomib and dexamethasone Grade 4 neutropenia was observed in the RVd arm to a lesser extent than in the Rd comparator arm (2.7% vs 5.9%) in the SWOG S0777 study. Grade 4 febrile neutropenia was reported at similar frequencies in the RVd arm compared to the Rd arm (0.0% vs 0.4%).
+Grade 4 neutropenia was observed in the RVd arm to a lesser extent than in the Rd comparator arm (2.7% vs 5.9%) in the SWOG S0777 study. Grade 4 febrile neutropenia was reported at similar frequencies in the RVd arm compared to the Rd arm (0.0% vs 0.4%).
 
 Grade 3 or 4 thrombocytopenia was observed in the RVd arm to a greater extent than in the Rd comparator arm (17.2 % vs 9.4%).
 
@@ -1340,7 +1330,9 @@ The combination of lenalidomide with dexamethasone in multiple myeloma patients 
 
 The combination of lenalidomide with dexamethasone in multiple myeloma patients is associated with a higher incidence of Grade 3 and Grade 4 thrombocytopenia (9.9% and 1.4%, respectively, in lenalidomide/dexamethasone-treated patients compared to 2.3% and 0.0% in placebo/dexamethasonetreated patients).
 
-Myelodysplastic syndromes patients 
+## Myelodysplastic syndromes patients
+
+
 
 In myelodysplastic syndromes patients, lenalidomide is associated with a higher incidence of
 
@@ -1495,7 +1487,9 @@ e Exploratory endpoint (PFS2). Lenalidomide received by subjects in the placebo 
 
 f Median follow-up post-ASCT for all surviving subjects.
 
-Data cuts: 17 Dec 2009 and 01 Feb 2016
+Data cuts:
+
+17 Dec 2009 and 01 Feb 2016
 
 ## IFM 2005-02
 
@@ -1546,7 +1540,7 @@ Table 8. Summary of overall efficacy data
 
 Updated  OS results,  using  a  cut-off  of  01  May  2018  (84.2  months  median  follow-up  for  surviving subjects) continue to show an OS advantage favouring RVd: HR = 0.73 (95% CI 0.57, 0.94; p=0.014). The proportion of subjects alive after 7 years was 54.7% in the RVd arm versus 44.7% in the Rd arm.
 
-Lenalidomide in combination with dexamethasone in patients who are not eligible for stem cell transplantation
+## Lenalidomide in combination with dexamethasone in patients who are not eligible for stem cell transplantation
 
 The safety and efficacy of lenalidomide was assessed in a phase 3, multicentre, randomised, open-label, 3-arm study (MM-020) of patients who were at least 65 years of age or older or, if younger than 65 years of age, were not candidates for stem cell transplantation because they declined to undergo stem cell transplantation or stem cell transplantation is not available to the patient due to cost or other reason. The study (MM-020) compared lenalidomide and dexamethasone (Rd) given for 2 different durations of time (i.e., until progressive disease [Arm Rd] or for up to eighteen 28-day cycles [72 weeks, Arm Rd18]) to melphalan, prednisone and thalidomide (MPT) for a maximum of twelve 42-day cycles (72 weeks). Patients were randomised (1:1:1) to 1 of 3 treatment arms. Patients were stratified at randomisation by age (≤75 versus &gt;75 years), stage (ISS Stages I and II versus Stage III), and country.
 
@@ -1660,7 +1654,11 @@ Table 10. Summary of overall efficacy data
 | Investigator-assessed Duration of response (CR+PR) - (months) |                           |                           |                           |
 | Median a (95% CI)                                             | 26.5 (19.4, 35.8)         | 12.4 (11.2, 13.9)         | 12.0 (9.4, 14.5)          |
 
-CI = confidence interval; CR = complete response; HR = Hazard Rate; M = melphalan; NE = not estimable; OS = overall survival; p =placebo; P = prednisone; PD = progressive disease; PR = partial response; R = lenalidomide; SD = stable disease; VGPR = very good partial response. ª The median is based on the Kaplan-Meier estimate
+CI = confidence interval; CR = complete response; HR = Hazard Rate; M = melphalan; NE = not estimable; OS = overall survival; p =placebo;
+
+P = prednisone; PD = progressive disease; PR = partial response; R = lenalidomide; SD = stable disease; VGPR = very good partial response.
+
+ª The median is based on the Kaplan-Meier estimate
 
 ¤ PFS2 (an exploratory endpoint) was defined for all patients (ITT) as time from randomisation to start of 3rd line antimyeloma therapy (AMT) or death for all randomised patients
 
@@ -1776,13 +1774,25 @@ Table 13. Summary of efficacy results - study MCL-002, intent-to-treat populatio
 | PFS PFS, median a [95% CI] b (weeks) SequentialHR [95% CI] e Sequential log-rank test, p-value e | 0.61 [0.44, 0.84] 0.004                 | 0.61 [0.44, 0.84] 0.004              |
 | Response a , n (%) Complete response (CR)                                                        | 8 (4.7)                                 | 0 (0.0)                              |
 | Partial response (PR) Stable disease (SD) b Progressive disease (PD) Not done/Missing            | 60 (35.3) 50 (29.4) 34 (20.0) 18 (10.6) | 9 (10.7) 44 (52.4) 26 (31.0) 5 (6.0) |
-| ORR (CR, CRu, PR) , n (%) [95% CI] c p-value e                                                   | (40.0) [32.58, 47.78]                   | 9 (10.7) d [5.02, 19.37]             |
-| CRR (CR, CRu) , n (%) [95% CI] c                                                                 | 68                                      |                                      |
-|                                                                                                  | < 0.001                                 | < 0.001                              |
-| p-value e                                                                                        | 8 (4.7) [2.05, 9.06]                    | 0 (0.0) [95.70, 100.00]              |
+| ORR (CR, CRu, PR) , n (%) [95% CI] c p-value e                                                   | 68 (40.0) [32.58, 47.78]                | 9 (10.7) d [5.02, 19.37]             |
+| CRR (CR, CRu) , n (%) [95% CI] c p-value e                                                       | <                                       |                                      |
+|                                                                                                  | 0.001                                   | 0.001                                |
+|                                                                                                  | 8 (4.7) [2.05, 9.06]                    | 0 (0.0) [95.70, 100.00]              |
 |                                                                                                  | 0.043                                   | 0.043                                |
 | Duration of Response, median a [95% CI] (weeks)                                                  | 69.6 [41.1, 86.7]                       | 45.1 [36.3, 80.9]                    |
 | Overall Survival HR [95% CI] c Log-rank test, p-value                                            | 0.89 [0.62, 1.28] 0.520                 | 0.89 [0.62, 1.28] 0.520              |
+
+CI = confidence interval; CRR = complete response rate; CR = complete response; CRu = complete response unconfirmed; DMC = Data Monitoring Committee; ITT = intent-to-treat; HR = hazard ratio; KM = Kaplan-Meier; MIPI = Mantle Cell Lymphoma International Prognostic Index; NA = not applicable; ORR = overall response rate; PD = progressive disease; PFS = progression-free survival; PR= partial response; SCT = stem cell transplantation; SD = stable disease; SE = standard error.
+
+a  The median was based on the KM estimate.
+
+b  Range was calculated as 95% CIs about the median survival time.
+
+c  The mean and median are the univariate statistics without adjusting for censoring.
+
+d  The stratification variables included time from diagnosis to first dose (&lt; 3 years and ≥ 3 years), time from last prior systemic antilymphoma therapy to first dose (&lt; 6 months and ≥ 6 months), prior SCT (yes or no), and MIPI at baseline (low, intermediate, and high risk).
+
+e  Sequential test was based on a weighted mean of a log-rank test statistic using the unstratified log-rank test for sample size increase and the unstratified log-rank test of the primary analysis. The weights are based on observed events at the time the third DMC meeting was held and based on the difference between observed and expected events at the time of the primary analysis. The associated sequential HR and the corresponding 95% CI are presented.
 
 In study MCL-002 in the ITT population, there was an overall apparent increase in deaths within 20 weeks in the lenalidomide arm 22/170 (13%) versus 6/84 (7%) in the control arm. In patients with high tumour burden, corresponding figures were 16/81 (20%) and 2/28 (7%) (see section 4.4).
 
@@ -1808,14 +1818,14 @@ Results from the overall population including FL and MZL showed that at a median
 
 Table 14: Summary of follicular lymphoma efficacy data- Study CC-5013-NHL-007
 
-|                                                          | FL (N = 295)                                          | FL (N = 295)                                          |
-|----------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
-|                                                          | Lenalidomide and Rituximab (N = 147)                  | Placebo and Rituximab (N = 148)                       |
-| Progression-free survival (PFS) (EMA Censoring Rules)    | Progression-free survival (PFS) (EMA Censoring Rules) | Progression-free survival (PFS) (EMA Censoring Rules) |
-| Median PFS a (95% CI) (months)                           | 39.4 (25.1, NE)                                       | 13.8 (11.2, 16.0)                                     |
-| HR [95% CI]                                              | 0.40 (0.29, 0.55) b                                   | 0.40 (0.29, 0.55) b                                   |
-| p-value                                                  | < 0.0001 c                                            | < 0.0001 c                                            |
-| Objective response d (CR +PR), n (%) (IRC, 2007 IWGRC) f | 118 (80.3) (72.9, 86.4)                               | 82 (55.4) (47.0, 63.6)                                |
+|                                                                 | FL (N = 295)                                          | FL (N = 295)                                          |
+|-----------------------------------------------------------------|-------------------------------------------------------|-------------------------------------------------------|
+|                                                                 | Lenalidomide and Rituximab (N = 147)                  | Placebo and Rituximab (N = 148)                       |
+| Progression-free survival (PFS) (EMA Censoring Rules)           | Progression-free survival (PFS) (EMA Censoring Rules) | Progression-free survival (PFS) (EMA Censoring Rules) |
+| Median PFS a (95% CI) (months)                                  | 39.4 (25.1, NE)                                       | 13.8 (11.2, 16.0)                                     |
+| HR [95% CI]                                                     | 0.40 (0.29, 0.55) b                                   | 0.40 (0.29, 0.55) b                                   |
+| p-value                                                         | < 0.0001 c                                            | < 0.0001 c                                            |
+| Objective response d (CR +PR), n (%) (IRC, 2007 IWGRC) 95 %CI f | 118 (80.3) (72.9, 86.4)                               | 82 (55.4) (47.0, 63.6)                                |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1828,9 +1838,13 @@ Table 14: Summary of follicular lymphoma efficacy data- Study CC-5013-NHL-007
 | Follow-up                                                |                          |                          |
 | Median duration of follow-up (min, max) (months)         | 67.81 (0.5, 89.3)        | 65.72 (0.6, 90.9)        |
 
-ª Median estimate from Kaplan-Meier analysis b Hazard ratio and its confidence interval were estimated from unstratified Cox proportional hazard model.
+ª Median estimate from Kaplan-Meier analysis
 
-c P-value from log-rank test d  Secondary and exploratory endpoints are not α-controlled
+b Hazard ratio and its confidence interval were estimated from unstratified Cox proportional hazard model.
+
+c P-value from log-rank test
+
+d  Secondary and exploratory endpoints are not α-controlled
 
 e  With a median follow up of 66.14 months, there were 19 deaths in the R 2 arm and 38 deaths in the Control Arm.
 
@@ -1858,6 +1872,8 @@ Table 15: Summary of overall efficacy data (Induction Treatment Period) - Study 
 | Number of Responders                           | N=127             | N=45                           | N=82                            | N=104             | N=35                             | N=69                           |
 | %of Subjects with DoR b ≥ 6 months (95% CI) c  | 93.0 (85.1, 96.8) | 90.4 (73.0, 96.8)              | 94.5 (83.9, 98.2)               | 94.3 (85.5, 97.9) | 96.0 (74.8, 99.4)                | 93.5 (81.0, 97.9)              |
 | %of Subjects with DoR b ≥ 12 months (95% CI) c | 79.1 (67.4, 87.0) | 73.3 (51.2, 86.6)              | 82.4 (67.5, 90.9)               | 79.5 (65.5, 88.3) | 73.9 (43.0, 89.8)                | 81.7 (64.8, 91.0)              |
+
+Maintenance Period treatment and any subsequent anti-lymphoma therapy in Induction Period. Percentage is based on the total number of responders.
 
 ## Paediatric population
 
@@ -1939,140 +1955,75 @@ Developmental toxicity studies were previously conducted in rabbits. In these st
 
 ## Capsule contents
 
-Mannitol (E421) Microcrystalline cellulose (E460) Pregelatinised maize starch Tartaric acid (E334) Glycerol dibehenate
+Mannitol (E 421) Microcrystalline cellulose (E 460) Pregelatinised maize starch Tartaric acid (E 334) Glycerol dibehenate
 
 ## Capsule shell
 
-Lenalidomide Krka 2.5 mg hard capsules Hypromellose Carrageenan (E407) Potassium chloride (E508) Titanium dioxide (E171) Yellow iron oxide (E172) Indigo carmine (E132) Imprinting ink:
-
-- shellac (E904)
-- black iron oxide (E172)
-
-Lenalidomide Krka 5 mg hard capsules Hypromellose Carrageenan (E407) Potassium chloride (E508) Titanium dioxide (E171) Indigo carmine (E132) Imprinting ink:
-
-- shellac (E904)
-- black iron oxide (E172)
-
-Lenalidomide Krka 7.5 mg hard capsules
+## Lenalidomide Krka 2.5 mg hard capsules
 
 Hypromellose
 
-Carrageenan (E407)
+Carrageenan (E 407)
 
-Potassium chloride (E508)
+Potassium chloride (E 508)
 
-Titanium dioxide (E171)
+Titanium dioxide (E 171)
 
-Yellow iron oxide (E172)
+Yellow iron oxide (E 172)
 
-Red iron oxide (E172)
-
-Black iron oxide (E172)
+Indigo carmine (E 132)
 
 Imprinting ink:
 
-- shellac (E904)
+- shellac (E 904)
+- black iron oxide (E 172)
+
+## Lenalidomide Krka 5 mg hard capsules
+
+Hypromellose
+
+Carrageenan (E 407)
+
+Potassium chloride (E 508)
+
+Titanium dioxide (E 171)
+
+Indigo carmine (E 132)
+
+Imprinting ink:
+
+- shellac (E 904)
+- black iron oxide (E 172)
+
+## Lenalidomide Krka 7.5 mg hard capsules Hypromellose
+
+Carrageenan (E 407)
+
+Potassium chloride (E 508)
+
+Titanium dioxide (E 171)
+
+Yellow iron oxide (E 172)
+
+Red iron oxide (E 172)
+
+Black iron oxide (E 172)
+
+Imprinting ink:
+
+- shellac (E 904)
 - povidone
-- titanium dioxide (E171)
+- titanium dioxide (E 171)
 
 <div style=\"page-break-after: always\"></div>
 
-## Lenalidomide Krka 10 mg hard capsules
-
-Hypromellose
-
-Carrageenan (E407)
-
-Potassium chloride (E508)
-
-Titanium dioxide (E171)
-
-Yellow iron oxide (E172)
-
-Red iron oxide (E172)
-
-Black iron oxide (E172)
-
-Indigo carmine (E132)
-
-Imprinting ink:
-
-- shellac (E904)
-- povidone
-- titanium dioxide (E171)
-
-Lenalidomide Krka 15 mg hard capsules
-
-Hypromellose
-
-Carrageenan (E407)
-
-Potassium chloride (E508)
-
-Titanium dioxide (E171)
-
-Yellow iron oxide (E172)
-
-Red iron oxide (E172)
-
-Black iron oxide (E172)
-
-Indigo carmine (E132)
-
-Imprinting ink:
-
-- shellac (E904)
-- black iron oxide (E172)
-
-Lenalidomide Krka 20 mg hard capsules
-
-Hypromellose
-
-Carrageenan (E407)
-
-Potassium chloride (E508)
-
-Titanium dioxide (E171)
-
-Yellow iron oxide (E172)
-
-Indigo carmine (E132)
-
-Imprinting ink: shellac (E904)
-
-- black iron oxide (E172)
-
-Lenalidomide Krka 25 mg hard capsules
-
-Hypromellose
-
-Carrageenan (E407)
-
-Potassium chloride (E508)
-
-Titanium dioxide (E171)
-
-Yellow iron oxide (E172)
-
-Red iron oxide (E172)
-
-Black iron oxide (E172)
-
-Imprinting ink:
-
-- shellac (E904)
-- povidone
-- titanium dioxide (E171)
-
-## 6.2 Incompatibilities
-
-Not applicable.
+## Lenalidomide Krka 10 mg hard capsules Hypromellose Carrageenan (E 407) Potassium chloride (E 508) Titanium dioxide (E 171) Yellow iron oxide (E 172) Red iron oxide (E 172) Black iron oxide (E 172) Indigo carmine (E 132) Imprinting ink: - shellac (E 904) - povidone - titanium dioxide (E 171) Lenalidomide Krka 15 mg hard capsules Hypromellose Carrageenan (E 407) Potassium chloride (E 508) Titanium dioxide (E 171) Yellow iron oxide (E 172) Red iron oxide (E 172) Black iron oxide (E 172) Indigo carmine (E 132) Imprinting ink: - shellac (E 904) - black iron oxide (E 172) Lenalidomide Krka 20 mg hard capsules Hypromellose Carrageenan (E 407) Potassium chloride (E 508) Titanium dioxide (E 171) Yellow iron oxide (E 172) Indigo carmine (E 132) Imprinting ink: - shellac (E 904) - black iron oxide (E 172) Lenalidomide Krka 25 mg hard capsules Hypromellose Carrageenan (E 407) Potassium chloride (E 508) Titanium dioxide (E 171) Yellow iron oxide (E 172) Red iron oxide (E 172) Black iron oxide (E 172) Imprinting ink: - shellac (E 904) - povidone - titanium dioxide (E 171) 6.2 Incompatibilities Not applicable.
 
 ## 6.3 Shelf life
 
-3 years
-
 <div style=\"page-break-after: always\"></div>
+
+3 years
 
 ## 6.4 Special precautions for storage
 
@@ -2122,7 +2073,7 @@ Lenalidomide Krka 10 mg hard capsules
 
 21 x 1 hard capsule: EU/1/20/1519/008
 
-## Lenalidomide Krka 15 mg hard capsules
+Lenalidomide Krka 15 mg hard capsules
 
 7 x 1 hard capsule: EU/1/20/1519/009
 
@@ -2132,9 +2083,9 @@ Lenalidomide Krka 20 mg hard capsules
 
 7 x 1 hard capsule: EU/1/20/1519/011
 
-<div style=\"page-break-after: always\"></div>
-
 21 x 1 hard capsule: EU/1/20/1519/012
+
+<div style=\"page-break-after: always\"></div>
 
 Lenalidomide Krka 25 mg hard capsules
 
@@ -2142,15 +2093,15 @@ Lenalidomide Krka 25 mg hard capsules
 
 21 x 1 hard capsule: EU/1/20/1519/014
 
-9.
-
-DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 11 February 2021
 
+Date of latest renewal:
+
 ## 10. DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2259,7 +2210,9 @@ The Educational Healthcare Professional's Kit shall contain the following elemen
 -  After finishing treatment
 - o Need to stop Lenalidomide Krka immediately upon suspicion of pregnancy
 - o Need to tell treating doctor immediately upon suspicion of pregnancy
--  Safety advice for men
+
+##  Safety advice for men
+
 - o The need to avoid foetal exposure
 - o The need to use condoms if sexual partner is pregnant or a WCBP not using effective contraception (even if the man has had a vasectomy)
 -  During Lenalidomide Krka treatment
@@ -2435,7 +2388,9 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2451,33 +2406,28 @@ KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovenia
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Lenalidomide Krka 2.5 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-BLISTER
+## BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2491,13 +2441,15 @@ KRKA
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
 ## 5. OTHER
 
 1. Bend and tear
+
 2. Peel
 
 Mon.
@@ -2540,15 +2492,19 @@ hard capsule
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use
+Read the package leaflet before use.
 
-6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+Oral use
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
 ## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
-WARNING: Risk of severe birth defects. Do not use while pregnant or breast-feeding. You must follow the Lenalidomide Pregnancy Prevention Programme.
+WARNING: Risk of severe birth defects. Do not use while pregnant or breast-feeding.
+
+You must follow the Lenalidomide Pregnancy Prevention Programme.
 
 ## 8. EXPIRY DATE
 
@@ -2556,7 +2512,9 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS
+
+<div style=\"page-break-after: always\"></div>
 
 ## OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -2566,16 +2524,16 @@ KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovenia
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-7 x 1 hard capsule: EU/1/20/1519/003 21 x 1 hard capsule: EU/1/20/1519/004
+7 x 1 hard capsule: EU/1/20/1519/003
+
+21 x 1 hard capsule: EU/1/20/1519/004
 
 ## 13. BATCH NUMBER
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Lenalidomide Krka 5 mg
@@ -2586,13 +2544,9 @@ Lenalidomide Krka 5 mg
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2600,8 +2554,7 @@ NN
 
 BLISTER
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Lenalidomide Krka 5 mg capsules lenalidomide
 
@@ -2609,19 +2562,18 @@ Lenalidomide Krka 5 mg capsules lenalidomide
 
 KRKA
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
 ## 5. OTHER
 
 1. Bend and tear
+
 2. Peel
 
 Mon.
@@ -2682,7 +2634,9 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2699,26 +2653,20 @@ KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovenia
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Lenalidomide Krka 7.5 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2728,9 +2676,7 @@ BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lenalidomide Krka 7.5 mg capsules
-
-## lenalidomide
+Lenalidomide Krka 7.5 mg capsules lenalidomide
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2747,6 +2693,7 @@ Lot
 ## 5. OTHER
 
 1. Bend and tear
+
 2. Peel
 
 Mon.
@@ -2807,7 +2754,9 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2823,25 +2772,20 @@ KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovenia
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Lenalidomide Krka 10 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
-
-<div style=\"page-break-after: always\"></div>
+PC SN
 
 NN
 
@@ -2853,9 +2797,7 @@ BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lenalidomide Krka 10 mg capsules
-
-## lenalidomide
+Lenalidomide Krka 10 mg capsules lenalidomide
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2872,6 +2814,7 @@ Lot
 ## 5. OTHER
 
 1. Bend and tear
+
 2. Peel
 
 Mon.
@@ -2934,7 +2877,7 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2956,15 +2899,13 @@ Lot
 
 Lenalidomide Krka 15 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
@@ -2976,9 +2917,7 @@ BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Lenalidomide Krka 15 mg capsules
-
-## lenalidomide
+Lenalidomide Krka 15 mg capsules lenalidomide
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2995,6 +2934,7 @@ Lot
 ## 5. OTHER
 
 1. Bend and tear
+
 2. Peel
 
 Mon.
@@ -3055,7 +2995,9 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -3072,26 +3014,20 @@ KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovenia
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Lenalidomide Krka 20 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3118,6 +3054,7 @@ Lot
 ## 5. OTHER
 
 1. Bend and tear
+
 2. Peel
 
 Mon.
@@ -3178,6 +3115,8 @@ EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
 
+<div style=\"page-break-after: always\"></div>
+
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -3195,32 +3134,26 @@ KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovenia
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
-
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 Lenalidomide Krka 25 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
+PC SN
 
 NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-BLISTER
+## BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3241,6 +3174,7 @@ Lot
 ## 5. OTHER
 
 1. Bend and tear
+
 2. Peel
 
 Mon.
@@ -3265,18 +3199,24 @@ Sun.
 
 <div style=\"page-break-after: always\"></div>
 
-| Lenalidomide Krka 2.5 mg hard capsules Lenalidomide Krka 5 mg hard capsules   |
-|-------------------------------------------------------------------------------|
-| Lenalidomide Krka 7.5 mg hard capsules Lenalidomide Krka 10 mg hard capsules  |
-| Lenalidomide Krka 15 mg hard capsules                                         |
-| Lenalidomide Krka 20 mg hard capsules                                         |
-| Lenalidomide Krka 25 mg hard capsules                                         |
+Lenalidomide Krka 2.5 mg hard capsules
+
+Lenalidomide Krka 5 mg hard capsules
+
+Lenalidomide Krka 7.5 mg hard capsules
+
+Lenalidomide Krka 10 mg hard capsules
+
+Lenalidomide Krka 15 mg hard capsules
+
+Lenalidomide Krka 20 mg hard capsules
+
+Lenalidomide Krka 25 mg hard capsules lenalidomide
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
 - -Keep this leaflet. You may need to read it again.
-- -
-- If you have any further questions, ask your doctor or pharmacist.
+- -If you have any further questions, ask your doctor or pharmacist.
 - -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
 - -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
@@ -3370,7 +3310,7 @@ Lenalidomide Krka works by affecting the body's immune system and directly attac
 
 ## 2. What you need to know before you take Lenalidomide Krka
 
-## You must read the package leaflet of all medicinal products to be taken in combination with Lenalidomide Krka before starting treatment with Lenalidomide Krka.
+You must read the package leaflet of all medicinal products to be taken in combination with Lenalidomide Krka before starting treatment with Lenalidomide Krka.
 
 ## Do not take Lenalidomide Krka
 
@@ -3385,10 +3325,7 @@ If any of these apply to you, do not take Lenalidomide Krka. Talk to your doctor
 ## Talk to your doctor, pharmacist or nurse before taking Lenalidomide Krka if:
 
 - -you have had blood clots in the past - you have an increased risk of developing blood clots in the veins and arteries during treatment 
-- -you have any signs of an infection, such as a cough or fever
-
-
-
+- -you have any signs of an infection, such as a cough or fever 
 - -you have or have ever had previous viral infection, particularly: hepatitis B infection, varicella zoster, HIV. If you are in doubt, talk to your doctor. Treatment with Lenalidomide Krka may cause the virus to become active again, in patients who carry the virus. This results in a recurrence of the infection. Your doctor should check whether you have ever had hepatitis B infection 
 - -you have kidney problems - your doctor may adjust your dose of Lenalidomide Krka 
 - -you have had a heart attack, have ever had a blood clot, or if you smoke, have high blood pressure or high cholesterol levels 
@@ -3408,7 +3345,7 @@ Before and during the treatment with Lenalidomide Krka you will have regular blo
 
 <div style=\"page-break-after: always\"></div>
 
-cells) and help the blood to clot (platelets).
+## cells) and help the blood to clot (platelets).
 
 Your doctor will ask you to have a blood test:
 
@@ -3417,9 +3354,7 @@ Your doctor will ask you to have a blood test:
 
 
 - -every week for the first 8 weeks of treatment 
-- -then at least every month after that.
-
-
+- -then at least every month after that. 
 
 You may be evaluated for signs of cardiopulmonary problems before and during the treatment with lenalidomide.
 
@@ -3530,6 +3465,8 @@ Lenalidomide Krka must be given to you by healthcare professionals with experien
 
 <div style=\"page-break-after: always\"></div>
 
+-
+
 - -When Lenalidomide Krka is used to treat multiple myeloma in patients who cannot have a bone marrow transplant or have had other treatments before, it is taken with other medicines (see section 1 'What Lenalidomide Krka is used for'). 
 - -When Lenalidomide Krka is used to treat multiple myeloma in patients who have had a bone marrow transplant or to treat patients with MDS or MCL, it is taken alone. 
 - -When Lenalidomide Krka is used to treat follicular lymphoma, it is taken with another medicine called 'rituximab'. 
@@ -3560,32 +3497,25 @@ Lenalidomide Krka is taken on certain days over 4 weeks (28 days).
 
 
 - -Depending on the day of the cycle, you will take one or more of the medicines. However, on some days you do not take any of the medicines. 
-- -After completing every 28-day cycle, you should start a new 'cycle' over the next 28 days.
+- -After completing every 28-day cycle, you should start a new 'cycle' over the next 28 days. 
 
 ## How much Lenalidomide Krka to take
 
 Before you start treatment, your doctor will tell you:
 
-- -how much Lenalidomide Krka you should take
-
-
-
+- -how much Lenalidomide Krka you should take 
 - -how much of the other medicines you should take in combination with Lenalidomide Krka, if any 
 - -on what days of your treatment cycle to take each medicine.
 
 ## How and when to take Lenalidomide Krka
 
-- -swallow the capsules whole, preferably with water.
-
-
-
-- -do not break, open or chew the capsules. If powder from a broken Lenalidomide Krka capsule makes contact with the skin, wash the skin immediately and thoroughly with soap and water. 
-- -healthcare professionals, caregivers and family members should wear disposable gloves when handling the blister or capsule. Gloves should then be removed carefully to prevent skin exposure, placed in a sealable plastic polyethylene bag and disposed of in accordance with local requirements. Hands should then be washed thoroughly with soap and water. Women who are pregnant or suspect they may be pregnant should not handle the blister or capsule.
+- -swallow the capsules whole, preferably with water. 
+- -do not break, open or chew the capsules. If powder from a broken Lenalidomide Krka capsule makes contact with the skin, wash the skin immediately and thoroughly with soap and water.  healthcare professionals, caregivers and family members should wear disposable gloves when handling the blister or capsule. Gloves should then be removed carefully to prevent skin exposure, placed in a sealable plastic polyethylene bag and disposed of in accordance with local requirements. Hands should then be washed thoroughly with soap and water. Women who are pregnant or suspect they may be pregnant should not handle the blister or capsule.
 - -the capsules can be taken either with or without food.
 
 
 
-- -you should take Lenalidomide Krka at about the same time on the scheduled days.
+- -you should take Lenalidomide Krka at about the same time on the scheduled days. 
 
 ## Taking this medicine
 
@@ -3595,10 +3525,6 @@ To remove the capsule from the blister:
 2. Pull up the edge of the foil and peel the foil off completely.
 3. Tip the capsule out onto your hand.
 4. Swallow the capsule whole, preferably with water.
-
-
-
-
 
 
 
@@ -3614,7 +3540,7 @@ To remove the capsule from the blister:
 
 Lenalidomide Krka is taken in treatment cycles, each cycle lasting 21 or 28 days (see above
 
-- 'Treatment cycle'). You should continue the cycles of treatment until your doctor tells you to stop.
+'Treatment cycle'). You should continue the cycles of treatment until your doctor tells you to stop.
 
 ## If you take more Lenalidomide Krka than you should
 
@@ -3676,10 +3602,7 @@ possible that this risk may be increased with Lenalidomide Krka treatment. There
 ## Very common (may affect more than 1 in 10 people)
 
 - -A fall in the number of red blood cells which may cause anaemia leading to tiredness and weakness 
-- -Rashes, itching
-
-
-
+- -Rashes, itching 
 - -Muscle cramps, muscle weakness, muscle pain, muscle aches, bone pain, joint pain, back pain, pain in the extremities 
 - -Generalised swelling including swelling of your arms and legs 
 - -Weakness, tiredness
@@ -3716,10 +3639,7 @@ possible that this risk may be increased with Lenalidomide Krka treatment. There
 
 - -Destruction of red blood cells (haemolytic anaemia)
 - -Certain types of skin tumour 
-- -Bleeding of the gums, stomach, or bowels
-
-
-
+- -Bleeding of the gums, stomach, or bowels 
 - -Increased blood pressure, slow, fast or irregular heart beat 
 - -Increase in the amount of a substance which results from normal and abnormal breakdown of red blood cells
 - -Increase in a type of protein that indicates inflammation in body
@@ -3757,36 +3677,26 @@ possible that this risk may be increased with Lenalidomide Krka treatment. There
 
 ## Uncommon (may affect up to 1 in 100 people)
 
-- -Bleeding within the skull
+- -Bleeding within the skull 
 - -Circulatory problems
 
 
 
-- -Loss of vision
-
-
-
+- -Loss of vision 
 - -Loss of sex drive (libido) 
 - -Passing large amounts of urine with bone pain and weakness, which may be symptoms of a kidney disorder (Fanconi syndrome) 
 - -Yellow pigmentation to the skin, mucus membrane or eyes (jaundice), pale coloured stools, dark coloured urine, skin itch, rash, pain or swelling of the stomach - these may be symptoms of injury to the liver (hepatic failure) 
 - -Stomach pain, bloating, or diarrhoea, which may be symptoms of inflammation in the large intestine (called colitis or caecitis) 
 - -Damage to the cells of the kidney (called renal tubular necrosis)
-- -Changes to the colour of your skin, sensitivity to sunlight
-
-
-
+- -Changes to the colour of your skin, sensitivity to sunlight 
 - -Tumour lysis syndrome - metabolic complications that can occur during treatment of cancer and sometimes even without treatment. These complications are caused by the break-down products of dying cancer cells and may include the following: changes to blood chemistry; high potassium, phosphorus, uric acid, and low calcium consequently leading to changes in kidney function, heart beat, seizures, and sometimes death. 
-- -Increase in blood pressure within blood vessels that supply the lungs (pulmonary hypertension).
+- -Increase in blood pressure within blood vessels that supply the lungs (pulmonary hypertension). 
 
 ## Not known (frequency cannot be estimated from the available data)
 
 - -Sudden, or mild but worsening pain in the upper stomach and/or back, which remains for a few days, possibly accompanied by nausea, vomiting, fever and a rapid pulse - these symptoms may be due to inflammation of the pancreas. 
 - -Wheezing, shortness of breath or a dry cough, which may be symptoms caused by inflammation of the tissue in the lungs. 
 - -Rare cases of muscle breakdown (muscle pain, weakness or swelling) which can lead to kidney problems (rhabdomyolysis) have been observed, some of them when Lenalidomide Krka is administered with a statin (a type of cholesterol lowering medicines). 
-
-
-
-
 
 
 
@@ -3816,40 +3726,38 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Lenalidomide Krka contains
 
 - -The active substance is lenalidomide. Each hard capsule contains lenalidomide hydrochloride monohydrate equivalent to 2.5 mg, 5 mg, 7.5 mg, 10 mg, 15 mg, 20 mg or 25 mg lenalidomide.
-- -The other ingredients in the capsule contents are mannitol (E421), microcrystalline cellulose (E460), pregelatinised maize starch, tartaric acid (E334) and glycerol dibehenate.
-- -The other ingredients in capsule shell are: Lenalidomide Krka 2.5 mg hard capsules: hypromellose, carrageenan (E407), potassium chloride (E508), titanium dioxide (E171), yellow
-
-iron oxide (E172), indigo carmine (E132), imprinting ink (shellac (E904), black iron oxide (E172)).
+- -The other ingredients in the capsule contents are mannitol (E 421), microcrystalline cellulose (E460), pregelatinised maize starch, tartaric acid (E 334) and glycerol dibehenate.
+- -The other ingredients in capsule shell are: Lenalidomide Krka 2.5 mg hard capsules: hypromellose, carrageenan (E 407), potassium chloride (E 508), titanium dioxide (E 171), yellow iron oxide (E 172), indigo carmine (E 132), imprinting ink (shellac (E 904), black iron oxide (E 172)).
 
 ## Lenalidomide Krka 5 mg hard capsules:
 
-hypromellose, carrageenan (E407), potassium chloride (E508), titanium dioxide (E171), indigo carmine (E132), imprinting ink (shellac (E904), black iron oxide (E172)).
+hypromellose, carrageenan (E 407), potassium chloride (E 508), titanium dioxide (E 171), indigo carmine (E 132), imprinting ink (shellac (E 904), black iron oxide (E 172)).
 
 ## Lenalidomide Krka 7.5 mg hard capsules:
 
-hypromellose, carrageenan (E407), potassium chloride (E508), titanium dioxide (E171), yellow iron oxide (E172), red iron oxide (E172), black iron oxide (E172), imprinting ink (shellac (E904), povidone, titanium dioxide (E171)).
+hypromellose, carrageenan (E 407), potassium chloride (E 508), titanium dioxide (E 171), yellow iron oxide (E 172), red iron oxide (E 172), black iron oxide (E 172), imprinting ink (shellac (E 904), povidone, titanium dioxide (E 171)).
 
 ## Lenalidomide Krka 10 mg hard capsules:
 
-hypromellose, carrageenan (E407), potassium chloride (E508), titanium dioxide (E171), yellow
+hypromellose, carrageenan (E 407), potassium chloride (E 508), titanium dioxide (E 171),
 
 
 
 <div style=\"page-break-after: always\"></div>
 
-iron oxide (E172), red iron oxide (E172), black iron oxide (E172), indigo carmine (E132), imprinting ink (shellac (E904), povidone, titanium dioxide (E171)).
+yellow iron oxide (E 172), red iron oxide (E 172), black iron oxide (E 172), indigo carmine (E 132), imprinting ink (shellac (E 904), povidone, titanium dioxide (E 171)).
 
 ## Lenalidomide Krka 15 mg hard capsules:
 
-hypromellose, carrageenan (E407), potassium chloride (E508), titanium dioxide (E171), yellow iron oxide (E172), red iron oxide (E172), black iron oxide (E172), indigo carmine (E132), imprinting ink (shellac (E904), black iron oxide (E172)).
+hypromellose, carrageenan (E 407), potassium chloride (E 508), titanium dioxide (E 171), yellow iron oxide (E 172), red iron oxide (E 172), black iron oxide (E 172), indigo carmine (E 132), imprinting ink (shellac (E 904), black iron oxide (E 172)).
 
 ## Lenalidomide Krka 20 mg hard capsules:
 
-hypromellose, carrageenan (E407), potassium chloride (E508), titanium dioxide (E171), yellow iron oxide (E172), indigo carmine (E132), imprinting ink (shellac (E904), black iron oxide (E172)).
+hypromellose, carrageenan (E 407), potassium chloride (E 508), titanium dioxide (E 171), yellow iron oxide (E 172), indigo carmine (E 132), imprinting ink (shellac (E 904), black iron oxide (E 172)).
 
 ## Lenalidomide Krka 25 mg hard capsules:
 
-hypromellose, carrageenan (E407), potassium chloride (E508), titanium dioxide (E171), yellow iron oxide (E172), red iron oxide (E172), black iron oxide (E172), imprinting ink (shellac (E904), povidone, titanium dioxide (E171)).
+hypromellose, carrageenan (E 407), potassium chloride (E 508), titanium dioxide (E 171), yellow iron oxide (E 172), red iron oxide (E 172), black iron oxide (E 172), imprinting ink (shellac (E 904), povidone, titanium dioxide (E 171)).
 
 ## What Lenalidomide Krka looks like and contents of the pack
 
@@ -3883,7 +3791,7 @@ Capsule cap is brown, capsule body is brown with imprinted white mark 25. Capsul
 
 Lenalidomide Krka is available in boxes containing 7 x 1 or 21 x 1 hard capsule in peel open, unit dose calendar pack blisters.
 
-## Not all pack sizes may be marketed.
+Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
@@ -3953,15 +3861,11 @@ Tél: + 33 (0)1 57 40 82 25
 
 ## Hrvatska
 
-KRKA - FARMA d.o.o.
-
-Tel: + 385 1 6312 101
+KRKA - FARMA d.o.o. Tel: + 385 1 6312 101
 
 ## Ireland
 
-KRKA Pharma Dublin, Ltd.
-
-Tel: + 353 1 413 3710
+KRKA Pharma Dublin, Ltd. Tel: + 353 1 413 3710
 
 ## Ísland
 
@@ -4007,9 +3911,7 @@ KRKA Sverige AB Tlf: + 46 (0)8 643 67 66 (SE)
 
 ## Österreich
 
-KRKA Pharma GmbH, Wien
-
-Tel: + 43 (0)1 66 24 300
+KRKA Pharma GmbH, Wien Tel: + 43 (0)1 66 24 300
 
 ## Polska
 
@@ -4023,9 +3925,7 @@ KRKA Farmacêutica, Sociedade Unipessoal Lda. Tel: + 351 (0)21 46 43 650
 
 ## România
 
-KRKA Romania S.R.L., Bucharest
-
-Tel: + 4 021 310 66 05
+KRKA Romania S.R.L., Bucharest Tel: + 4 021 310 66 05
 
 ## Slovenija
 
@@ -4045,30 +3945,16 @@ KRKA Finland Oy
 
 Puh/Tel: + 358 20 754 5330
 
-## Κύπρος
-
-KI.PA. (PHARMACAL) LIMITED Τηλ: + 357 24 651 882
-
-Latvija
-
-KRKA Latvija SIA
-
-Tel: + 371 6 733 86 10
-
 <div style=\"page-break-after: always\"></div>
+
+Κύπρος KI.PA. (PHARMACAL) LIMITED Τηλ: + 357 24 651 882
+
+Latvija KRKA Latvija SIA Tel: + 371 6 733 86 10
 
 ## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
-Sverige
-
-KRKA Sverige AB Tel: + 46 (0)8 643 67 66 (SE)
-
-United Kingdom (Northern Ireland)
-
-KRKA Pharma Dublin, Ltd.
-
-Tel: + 353 1 413 3710
+Sverige KRKA Sverige AB Tel: + 46 (0)8 643 67 66 (SE)

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-01-16 11:44:48
-document_pages: 42
+document_datetime: 2026-01-06 10:47:19
+document_pages: 43
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/vaxneuvance-epar-product-information_en.pdf
 document_name: vaxneuvance-epar-product-information_en.pdf
 version: success
-processing_time: 19.1431682
-conversion_datetime: 2025-12-20 17:59:53.529352
+processing_time: 19.2241884
+conversion_datetime: 2026-01-10 11:10:46.796983
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -51,9 +51,11 @@ Vaxneuvance suspension for injection in pre-filled syringe Pneumococcal polysacc
 | Pneumococcal polysaccharide serotype 23F 1,2 | 2.0 micrograms   |
 | Pneumococcal polysaccharide serotype 33F 1,2 | 2.0 micrograms   |
 
-1 Conjugated to CRM197 carrier protein. CRM197 is a nontoxic mutant of diphtheria toxin (originating from Corynebacterium diphtheriae C7) expressed recombinantly in Pseudomonas fluorescens . 2 Adsorbed on aluminium phosphate adjuvant.
-
 1 dose (0.5 mL) contains 125 micrograms aluminium (Al 3+ ) and approximately 30 micrograms CRM197 carrier protein.
+
+## Excipient(s) with known effect
+
+1 dose (0.5 mL) contains 1 mg polysorbate 20.
 
 For the full list of  excipients, see section 6.1.
 
@@ -63,6 +65,8 @@ Suspension for injection (injection).
 
 The vaccine is an opalescent suspension.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4. CLINICAL PARTICULARS
 
 ## 4.1 Therapeutic indications
@@ -70,8 +74,6 @@ The vaccine is an opalescent suspension.
 Vaxneuvance is indicated for active immunisation for the prevention of invasive disease, pneumonia and acute otitis media caused by Streptococcus pneumoniae in inf ants, children and adolescents f rom 6 weeks to less than 18 years of  age.
 
 Vaxneuvance is indicated for active immunisation for the prevention of invasive disease and pneumonia caused by Streptococcus pneumoniae in individuals 18 years of age and older.
-
-<div style=\"page-break-after: always\"></div>
 
 See sections 4.4 and 5.1 for information on protection against specific pneumococcal serotypes.
 
@@ -91,16 +93,16 @@ Posology
 | Unvaccinated infants 7 to less than 12 months of age                                         | 3 doses, each of0.5 mL, with the first two doses given at least 4 weeks apart. Athird (booster) dose is recommended after 12 months ofage, separated from the second dose by at least 2 months.                                                                                                                                                                                     |
 | Unvaccinated children 12 months to less than 2 years of age                                  | 2 doses, each of0.5 mL, with an interval of2 months between doses.                                                                                                                                                                                                                                                                                                                  |
 | Unvaccinated or not fully vaccinated children and adolescents 2 to less than 18 years of age | 1 dose (0.5 mL). Ifa previous pneumococcal conjugate vaccine was administered, at least 2 months should elapse before administering Vaxneuvance.                                                                                                                                                                                                                                    |
-| Vaccination schedule for individuals 18 years ofage and older                                | Vaccination schedule for individuals 18 years ofage and older                                                                                                                                                                                                                                                                                                                       |
-| Individuals 18 years of age and older                                                        | 1 dose (0.5 mL). The need for revaccination with a subsequent dose ofVaxneuvance has not been established.                                                                                                                                                                                                                                                                          |
-
-## Special populations
-
-One or more doses of Vaxneuvance may be given to individuals who have one or more underlying conditions predisposing them to an increased risk of pneumococcal disease (such as individuals with
 
 <div style=\"page-break-after: always\"></div>
 
-sickle cell disease or living with human immunodeficiency virus (HIV) infection or recipients of haematopoietic stem cell transplant (HSCT) or immunocompetent individuals 18 to 49 years of age with risk factors f or pneumococcal disease; see section 5.1).
+| Vaccination schedule for individuals 18 years ofage and older   | Vaccination schedule for individuals 18 years ofage and older                                              |
+|-----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| Individuals 18 years of age and older                           | 1 dose (0.5 mL). The need for revaccination with a subsequent dose ofVaxneuvance has not been established. |
+
+## Special populations
+
+One or more doses of Vaxneuvance may be given to individuals who have one or more underlying conditions predisposing them to an increased risk of pneumococcal disease (such as individuals with sickle cell disease or living with human immunodeficiency virus (HIV) infection or recipients of haematopoietic stem cell transplant (HSCT) or immunocompetent individuals 18 to 49 years of age with risk factors f or pneumococcal disease; see section 5.1).
 
 ## Method of administration
 
@@ -136,11 +138,11 @@ Vaccination should be postponed in individuals suffering from acute severe febri
 
 As with other intramuscular injections, the vaccine should be given with caution to individuals receiving anticoagulant therapy, or to those with thrombocytopenia or any coagulation disorder such as haemophilia. Bleeding or bruising may occur following an intramuscular administration in these individuals. Vaxneuvance may be given subcutaneously if the potential benefit clearly outweighs the risks (see section 5.1).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Apnoea in premature inf ants
 
 The potential risk of apnoea and the need for respiratory monitoring for 48-72 hours should be considered when administering the primary immunisation series to very premature inf ants (born ≤ 28 weeks of gestation) and particularly for those with a previous history of respiratory immaturity. As the benefit of vaccination is high in this group of  infants, vaccination generally should not be withheld or delayed.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Immunocompromised individuals
 
@@ -152,9 +154,15 @@ Safety and immunogenicity data for Vaxneuvance are available for individuals wit
 
 As with any vaccine, vaccination with Vaxneuvance may not protect all vaccine recipients. Vaxneuvance will only protect against Streptococcus pneumoniae serotypes included in the vaccine (see sections 2 and 5.1).
 
+## Excipients with known effect
+
 ## Sodium
 
-This medicinal product contains less than 1 mmol sodium (23 milligrams) per dose, i.e. essentially 'sodium -free'.
+This medicinal product contains less than 1 mmol sodium (23 milligrams) per dose, i.e., essentially 'sodium -free'.
+
+## Polysorbate 20
+
+This medicinal product contains 1 mg of polysorbate 20 in each 0.5 mL dose. Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -172,6 +180,8 @@ There are no data on the concomitant administration of Vaxneuvance with other va
 
 Data from a post-marketing clinical study evaluating the impact of prophylactic use of antipyretics (ibuprofen and paracetamol) on the immune response to other pneumococcal vaccines suggest that administration of antipyretics concomitantly or within the same day of vaccination may reduce the immune response after the infant series. Responses to the booster dose administered at 12 months were unaffected. The clinical signif icance of this observation is unknown.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Adults
 
 Vaxneuvance can be administered concomitantly with seasonal quadrivalent influenza vaccine (split virion, inactivated). There are no data on the concomitant administration of Vaxneuvance with other vaccines.
@@ -183,8 +193,6 @@ Vaxneuvance can be administered concomitantly with seasonal quadrivalent influen
 There is limited experience with the use of  Vaxneuvance in pregnant women.
 
 Animal studies do not indicate direct or indirect harmf ul effects with respect to pregnancy, embryo/foetal development, parturition or post-natal development (see section 5.3).
-
-<div style=\"page-break-after: always\"></div>
 
 Administration of Vaxneuvance in pregnancy should only be considered when the potential benefits outweigh any potential risks for the mother and the foetus.
 
@@ -212,17 +220,17 @@ The safety of Vaxneuvance in healthy infants, including preterm infants (f rom 6
 
 All 5 studies evaluated the safety of Vaxneuvance when administered concomitantly with other routine paediatric vaccines. In these studies, 4,286 participants received a complete regimen of Vaxneuvance, 2,405 participants received a complete regimen of the 13-valent pneumococcal conjugate vaccine (PCV) and 538 participants received Vaxneuvance when used to complete a regimen initiated with the 13-valent PCV (mixed dose regimen).
 
-The most frequent adverse reactions were pyrexia ≥38 °C (75.2%), irritability (74.5%), somnolence (55.0%), injection-site pain (44.4%), injection-site erythema (41.7%), decreased appetite (38.2%), injection-site induration (28.3%) and injection-site swelling (28.2%) based on results in 3,589 participants (Table 1), excluding participants who received a mixed dose regimen. The majority of solicited adverse reactions were mild to moderate (based on intensity or size) and of short duration (≤3 days). Severe reactions (defined as being extremely distressed or unable to do usual activities or size of injection site reaction &gt;7.6 cm) occurred in ≤ 3.5% of infants and children f ollowing any dose, with the exception of irritability which occurred in 11.4% of participants.
+The most frequent adverse reactions were pyrexia ≥38 °C (75.2%), irritability (74.5%), somnolence (55.0%), injection-site pain (44.4%), injection-site erythema (41.7%), decreased appetite (38.2%), injection-site induration (28.3%) and injection-site swelling (28.2%) based on results in 3,589 participants (Table 1), excluding participants who received a mixed dose regimen. The majority of solicited adverse reactions were mild to moderate (based on intensity or size) and of short duration (≤3 days). Severe reactions (defined as being extremely distressed or unable to do usual activities or
+
+<div style=\"page-break-after: always\"></div>
+
+size of injection site reaction &gt;7.6 cm) occurred in ≤ 3.5% of infants and children f ollowing any dose, with the exception of irritability which occurred in 11.4% of participants.
 
 ## Children and adolescents 2 to less than 18 years of age
 
 The safety of Vaxneuvance in healthy children and adolescents was assessed in a study that included 352 participants 2 to less than 18 years of age, of whom 177 received a single dose of Vaxneuvance. In this age cohort, 42.9% of  all participants had a history of previous vaccination with a lower valency pneumococcal conjugate vaccine.
 
-The most frequent adverse reactions were injection-site pain (54.8%), myalgia (23.7%), injection-site swelling (20.9%), injection-site erythema (19.2%), fatigue (15.8%), headache (11.9%), injection-site induration (6.8%), and pyrexia ≥38 °C (5.6%) (Table 1). The majority of solicited adverse reactions were mild to moderate (based on intensity or size) and of  short duration (≤3 days); severe reactions
-
-<div style=\"page-break-after: always\"></div>
-
-(defined as being extremely distressed or unable to do usual activities or size of injection site reaction &gt;7.6 cm) occurred in ≤4.5% of children and adolescents.
+The most frequent adverse reactions were injection-site pain (54.8%), myalgia (23.7%), injection-site swelling (20.9%), injection-site erythema (19.2%), fatigue (15.8%), headache (11.9%), injection-site induration (6.8%), and pyrexia ≥38 °C (5.6%) (Table 1). The majority of solicited adverse reactions were mild to moderate (based on intensity or size) and of  short duration (≤3 days); severe reactions (defined as being extremely distressed or unable to do usual activities or size of injection site reaction &gt;7.6 cm) occurred in ≤4.5% of children and adolescents.
 
 ## Adults 18 years of age and older
 
@@ -369,14 +377,6 @@ Table 2: Serotype-specific IgG response rates and IgG GMCs at 30 days following 
 | 22F                                     | 95.6                                    | 5.3                                     | 90.2 (87.1, 92.6)                                                    | 2.74                                    | 0.05                                    | 57.67 (50.95, 65.28)                               |
 | 33F                                     | 48.1                                    | 3.0                                     | 45.1 (40.4, 49.7)                                                    | 0.30                                    | 0.05                                    | 6.11 (5.32, 7.02)                                  |
 
-* Estimated difference and CI for the percentage point difference are based on the Miettinen &amp; Nurminen method.
-
-** GMC ratio and CI are calculated using the t-distribution with the variance estimate from a serotype-specif ic linear model utilising the natural log-transf ormed antibody concentrations as the response and a single term for vaccination group.
-
-† A conclusion of non-inferiority for the 13 shared serotypes is based on the lower bound of the 95% CI being &gt; -10 percentage points f or the difference in IgG response rates (Vaxneuvance -13-valent PCV) or &gt; 0.5 f or the IgG GMC ratio (Vaxneuvance/13-valent PCV).
-
-‡ A conclusion of superiority f or the 2 additional serotypes is based on the lower bound of the 95% CI being &gt; 10 percentage points f or the difference in IgG response rates (Vaxneuvance -13-valent PCV) or &gt; 2.0 f or the IgG GMC ratio (Vaxneuvance/13-valent PCV).
-
 n=Number of participants randomised, vaccinated and contributing to the analysis.
 
 CI=confidence interval; GMC=geometric mean concentration (µg/mL); IgG=immunoglobulin G.
@@ -411,7 +411,7 @@ Table 3: Serotype-specific IgG response rates and IgG GMCs at 30 days following 
 
 ** GMC ratio and CI are calculated using the t-distribution with the variance estimate from a serotype-specif ic linear model utilising the natural log-transf ormed antibody concentrations as the response and a single term for vaccination group.
 
-† A conclusion of  non-inferiority f or the 13 shared serotypes is based on the lower bound of the 95% CI being &gt; -10 percentage points f or the difference in IgG response rates (Vaxneuvance -13-valent PCV) or &gt; 0.5 f or the IgG GMC ratio (Vaxneuvance/13-valent PCV).
+† A conclusion of non-inferiority for the 13 shared serotypes is based on the lower bound of the 95% CI being &gt; -10 percentage points f or the difference in IgG response rates (Vaxneuvance -13-valent PCV) or &gt; 0.5 f or the IgG GMC ratio (Vaxneuvance/13-valent PCV).
 
 ‡ A conclusion of superiority f or the 2 additional serotypes is based on the lower bound of the 95% CI being &gt; 10 percentage points f or the difference in IgG response rates (Vaxneuvance -13-valent PCV) or &gt; 2.0 f or the IgG GMC ratio (Vaxneuvance/13-valent PCV). n=Number of participants randomised, vaccinated and contributing to the analysis.
 
@@ -513,7 +513,7 @@ n=Number of participants randomised, vaccinated and contributing to the analysis
 
 CI=confidence interval; GMC=geometric mean concentration (µg/mL); IgG=immunoglobulin G.
 
-Vaxneuvance elicits functional antibodies, as assessed by serotype-specif ic OPA GMTs at 30 days following the primary series and following the toddler dose, that are generally comparable but slightly lower for the 13 serotypes shared with 13-valent PCV. The clinical relevance of this slightly lower response is unknown. OPA GMTs for both 22F and 33F were higher in Vaxneuvance recipients compared to the 13-valent PCV recipients.
+Vaxneuvance elicits functional antibodies, as assessed by serotype-specif ic OPA GMTs at 30 days following the primary series and f ollowing the toddler dose, that are generally comparable but slightly lower for the 13 serotypes shared with 13-valent PCV. The clinical relevance of this slightly lower response is unknown. OPA GMTs for both 22F and 33F were higher in Vaxneuvance recipients compared to the 13-valent PCV recipients.
 
 Infants and children receiving a mixed dose regimen of different pneumococcal conjugate vaccines In a double-blind, active comparator-controlled, descriptive study (Protocol 027), 900 participants were randomised in a 1:1:1:1:1 ratio to one of five vaccination groups to receive a complete or mixed dosing regimen of pneumococcal conjugate vaccines. In two vaccination groups, participants received a 4-dose regimen of  either Vaxneuvance or the 13-valent PCV. In the three other vaccination groups, the vaccination series were initiated with the 13-valent PCV and changed to Vaxneuvance at Dose 2, Dose 3 or Dose 4. Participants also received other paediatric vaccines concomitantly, including HBVaxPro (Hepatitis B Vaccine [Recombinant]) and RotaTeq (Rotavirus Vaccine, Live, Oral, Pentavalent). Serotype-specific IgG GMCs at 30 days following the toddler dose were generally comparable for participants administered mixed regimens of Vaxneuvance and the 13-valent PCV and for participants administered a complete dosing regimen of the 13-valent PCV for the 13 shared serotypes, as assessed by IgG GMC ratios.
 
@@ -571,18 +571,6 @@ Table 6: Serotype-specific OPA GMTs at 30 days Postvaccination in Pneumococcal V
 | 2 Serotypes Additional to Vaxneuvance § | 2 Serotypes Additional to Vaxneuvance § | 2 Serotypes Additional to Vaxneuvance § | 2 Serotypes Additional to Vaxneuvance § | 2 Serotypes Additional to Vaxneuvance § | 2 Serotypes Additional to Vaxneuvance § |
 | 22F                                     | 594                                     | 2375.2                                  | 586                                     | 74.6                                    | 31.83 (25.35, 39.97)                    |
 | 33F                                     | 598                                     | 7994.7                                  | 597                                     | 1124.9                                  | 7.11 (6.07, 8.32)                       |
-
-*GMTs, GMT ratio, and 95% CI are estimated from a cLDA model.
-
-† A conclusion of non-inf eriority f or the 13 shared serotypes is based on the lower bound of the 95% CI for the estimated GMT ratio (Vaxneuvance/13-valent PCV) being &gt;0.5.
-
-‡ A conclusion of superiority f or serotype 3 is based on the lower bound of the 95% CI for the estimated GMT ratio (Vaxneuvance/13-valent PCV) being &gt;1.2.
-
-§ A conclusion of superiority f or the 2 additional serotypes is based on the lower bound of the 95% CI for the estimated GMT ratio (Vaxneuvance/13-valent PCV) being &gt;2.0.
-
-N=Number of participants randomised and vaccinated; n=Number of participants contributing to the analysis.
-
-CI=confidence interval; cLDA=constrained longitudinal data analysis; GMT=geometric mean titre (1/dil); OPA=opsonophagocytic activity; PCV=pneumococcal conjugate vaccine.
 
 In a double-blind, descriptive study (Protocol 017), 1,515 immunocompetent subjects 18 to 49 years of age with or without risk factors for pneumococcal disease were randomised 3:1 and received Vaxneuvance or the 13-valent pneumococcal polysaccharide conjugate vaccine, followed by PPV23 6 months later. Risk factors for pneumococcal disease included the following: diabetes mellitus, chronic heart disease including heart f ailure, chronic liver disease with compensated cirrhosis, chronic lung disease including persistent asthma and chronic obstructive pulmonary disease (COPD), current tobacco use, and increased alcohol consumption. Overall, of those who received Vaxneuvance, 285 (25.2%) had no risk factor, 620 (54.7%) had 1 risk factor, and 228 (20.1%) had 2 or more risk factors.
 
@@ -722,11 +710,14 @@ Not all pack sizes may be marketed.
 ## 6.6 Special precautions for disposal and other handling
 
 - The vaccine should be used as supplied.
-- Immediately prior to use, hold the pre-filled syringe horizontally and shake vigorously to obtain an opalescent suspension. Do not use the vaccine if it cannot be resuspended.
-- Inspect the suspension visually for particulate matter and discolouration prior to administration. Discard the vaccine if particulates are present and/or if  it appears discoloured.
+- Vaxneuvance may appear as a clear liquid with a precipitate before shaking.
+- Immediately before use and prior to attaching the needle and expelling air from the syringe, hold the pre-f illed syringe horizontally and shake vigorously to obtain an opalescent suspension. Multiple attempts may be required to achieve complete resuspension. Do not use the vaccine if it cannot be resuspended.
+- Inspect the suspension visually for particulate matter and discolouration prior to administration. Discard the vaccine if particulates are present after vigorous shaking and/or if it appears discoloured.
 - Attach a needle with Luer lock connection by twisting in a clockwise direction until the needle fits securely on the syringe.
 - Inject immediately using the intramuscular (IM) route, preferably in the anterolateral aspect of the thigh in infants or in the deltoid area of the upper arm in children and adults.
 - Exercise care to avoid harm from an accidental needle stick.
+
+<!-- image -->
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -734,13 +725,11 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/21/1591/001 EU/1/21/1591/002 EU/1/21/1591/003 EU/1/21/1591/004 EU/1/21/1591/005 EU/1/21/1591/006
-
-EU/1/21/1591/007
-
-<div style=\"page-break-after: always\"></div>
+EU/1/21/1591/001 EU/1/21/1591/002 EU/1/21/1591/003 EU/1/21/1591/004 EU/1/21/1591/005 EU/1/21/1591/006 EU/1/21/1591/007
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -958,7 +947,7 @@ Excipients: NaCl, L-histidine, polysorbate 20, water f or injections
 
 ## Suspension for injection
 
-10 pre-filled syringes (0.5 mL) without needles. Component of a multipack, can't be sold separately.
+10 pre-f illed syringes (0.5 mL) without needles. Component of a multipack, can't be sold separately.
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1082,8 +1071,7 @@ Keep the syringe in the outer carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FORDISPOSALOFUNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|----------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1101,9 +1089,7 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+16. INFORMATION IN BRAILLE
 
 Justif ication f or not including Braille accepted.
 
@@ -1227,11 +1213,13 @@ If you are pregnant or breast-feeding, think you may be pregnant or are planning
 
 ## Driving and using machines
 
-Vaxneuvance has no or negligible influence on the ability to drive and use machines. However, some of the effects mentioned under section 4 'Possible side ef f ects'  may temporarily af f ect the ability to drive or use machines.
+Vaxneuvance has no or negligible influence on the ability to drive and use machines. However, some of the effects mentioned under section 4 'Possible side ef f ects'  may temporarily af f ect the ability  to drive or use machines.
 
-## Vaxneuvance contains sodium
+## Vaxneuvance contains sodium and polysorbate 20
 
 This medicine contains less than 1 mmol sodium (23 milligrams) per dose, that is to say essentially 'sodium -free'.
+
+This medicine contains 1 mg of polysorbate 20 in each 0.5 mL dose. Polysorbates may cause allergic reactions. Tell your doctor if you or your child has any known allergies.
 
 ## 3. How Vaxneuvance is given
 
@@ -1373,7 +1361,7 @@ Keep this vaccine out of the sight and reach of children.
 
 Do not use this vaccine after the expiry date which is stated on the carton and syringe label af ter EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 /uniF0B0 C -8 /uniF0B0 C). Do not freeze. Keep the pre-f illed syringe in the outer carton in order to protect f rom light.
+Store in a refrigerator (2 /uniF0B0 C -8 /uniF0B0 C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect f rom light.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1410,69 +1398,65 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-MSD Belgium Tél/Tel: +32 (0) 27766211 dpoc\\_belux@msd.com
+MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
 
 ## Lietuva
 
-UAB Merck Sharp &amp; Dohme Tel.: +370 5 2780 247 dpoc\\_lithuania@msd.com
+UAB Merck Sharp &amp; Dohme Tel. +370 5 2780 247 dpoc\\_lithuania@msd.com
 
 ## /Beъл/geа/erи/ia
 
-Ме/er/ka  Ша/er/pecyril  и  /Deо/ucyril/em  /Beъл/geа/erи/ia  Е/Ocyril/Ocyril/De,
+Ме/er/ka  Ша/er/pecyril  и  /Deо/ucyril/em  /Beъл/geа/erи/ia  Е/Ocyril/Ocyril/De /teел.:  +359 2 819 3737 info-msdbg@msd.com
 
-/teел.:  +  359  2  819  3737 info-msdbg@merck.com
+## Luxembourg/Luxemburg
 
-Luxembourg/Luxemburg MSD Belgium Tél/Tel: +32 (0) 27766211 dpoc\\_belux@msd.com
+MSD Belgium Tél/Tel: +32(0)27766211
+
+dpoc\\_belux@msd.com
 
 ## Česká republika
 
 Merck Sharp &amp; Dohme s.r.o.
 
-Tel.: +420 233 010 111
+Tel.: +420 277 050 000
 
-dpoc\\_czechslovak@merck.com
+dpoc\\_czechslovak@msd.com
 
 ## Magyarország
 
-MSD Pharma Hungary Kft.
-
-Tel.: + 36.1.888.5300 hungary\\_msd@merck.com
+MSD Pharma Hungary Kft. Tel.: +36 1 888 5300 hungary\\_msd@msd.com
 
 <div style=\"page-break-after: always\"></div>
 
 ## Danmark
 
-MSD Danmark ApS Tlf.: + 45 4482 4000
+MSD Danmark ApS Tlf.: +45 4482 4000
 
 dkmail@msd.com
 
 ## Deutschland
 
-MSD Sharp &amp; Dohme GmbH Tel: +49 (0) 89 20 300 4500 medinfo@msd.de
+MSD Sharp &amp; Dohme GmbH Tel.: +49 (0) 89 20 300 4500 medinfo@msd.de
 
 ## Eesti
 
-Merck Sharp &amp; Dohme OÜ Tel.: +372 6144 200 dpoc.estonia@msd.com
+Merck Sharp &amp; Dohme OÜ Tel: +372 614 4200 dpoc.estonia@msd.com
 
 ## Ελλάδα
 
-MSD Α.Φ.Ε.Ε. Τηλ: +30 210 98 97 300 dpoc\\_greece@merck.com
+MSD Α.Φ.Ε.Ε. Τηλ: +30 210 98 97 300 dpoc.greece@msd.com
 
 ## España
 
-Merck Sharp &amp; Dohme de España, S.A.
-
-Tel: +34 91 321 06 00 msd\\_info@merck.com
+Merck Sharp &amp; Dohme de España, S.A. Tel: +34 91 321 06 00 msd\\_info@msd.com
 
 ## France
 
-MSD France Tél: +33 (0) 1 80 46 40 40
+MSD France Tél: +33 (0)1 80 46 40 40
 
 ## Hrvatska
 
-Merck Sharp &amp; Dohme d.o.o.
-
-Tel: +385 1 66 11 333 croatia\\_info@merck.com
+Merck Sharp &amp; Dohme d.o.o. Tel: +385 1 6611 333 dpoc.croatia@msd.com
 
 ## Ireland
 
@@ -1480,7 +1464,7 @@ Merck Sharp &amp; Dohme Ireland (Human Health) Limited Tel: +353 (0)1 2998700 me
 
 ## Ísland
 
-Vistor hf. Sími: + 354 535 7000
+Vistor ehf. Sími: +354 535 7000
 
 ## Italia
 
@@ -1488,17 +1472,15 @@ MSD Italia S.r.l. Tel: 800 23 99 89 (+39 06 361911) dpoc.italy@msd.com
 
 ## Κύπρος
 
-Merck Sharp &amp; Dohme Cyprus Limited Τηλ: 800 00 673 (+357 22866700) cyprus\\_info@merck.com
+Merck Sharp &amp; Dohme Cyprus Limited Τηλ: 800 00 673 (+357 22866700) dpoccyprus@msd.com
 
 ## Malta
 
-Merck Sharp &amp; Dohme Cyprus Limited. Tel: 8007 4433 (+356 99917558) malta\\_info@merck.com
+Merck Sharp &amp; Dohme Cyprus Limited Tel: 8007 4433 (+356 99917558) dpoccyprus@msd.com
 
 ## Nederland
 
-Merck Sharp &amp; Dohme B.V. Tel: 0800 9999000 (+31 23 5153153)
-
-medicalinfo.nl@merck.com
+Merck Sharp &amp; Dohme B.V. Tel: 0800 9999000 (+31 23 5153153) medicalinfo.nl@msd.com
 
 ## Norge
 
@@ -1506,29 +1488,27 @@ MSD (Norge) AS Tlf: +47 32 20 73 00 medinfo.norway@msd.com
 
 ## Österreich
 
-Merck Sharp &amp; Dohme Ges.m.b.H. Tel: +43 (0) 1 26 044 dpoc\\_austria@merck.com
+Merck Sharp &amp; Dohme Ges.m.b.H. Tel: +43 (0) 1 26 044 dpoc\\_austria@msd.com
 
 ## Polska
 
-MSD Polska Sp. z o.o. Tel.: +48 22 549 51 00 msdpolska@merck.com
+MSD Polska Sp. z o.o. Tel.: +48 22 549 51 00 msdpolska@msd.com
 
 ## Portugal
 
-Merck Sharp &amp; Dohme, Lda Tel: +351 21 4465700 inform\\_pt@merck.com
+Merck Sharp &amp; Dohme, Lda Tel.: +351 21 4465700 inform\\_pt@msd.com
 
 ## România
 
-Merck Sharp &amp; Dohme Romania S.R.L Tel: + 4021 529 29 00 msdromania@merck.com
+Merck Sharp &amp; Dohme Romania S.R.L. Tel.: +40 21 529 29 00 msdromania@msd.com
 
 ## Slovenija
 
-Merck Sharp &amp; Dohme, inovativna zdravila d.o.o. Tel: +386.1.520.4201 msd.slovenia@merck.com
+Merck Sharp &amp; Dohme, inovativna zdravila d.o.o. Tel: +386 1 520 4201 msd.slovenia@msd.com
 
 ## Slovenská republika
 
-Merck Sharp &amp; Dohme, s. r. o.
-
-Tel: +421 2 58282010 dpoc\\_czechslovak@merck.com
+Merck Sharp &amp; Dohme, s. r. o. Tel.: +421 2 58282010 dpoc\\_czechslovak@msd.com
 
 ## Suomi/Finland
 
@@ -1554,11 +1534,14 @@ Detailed information on this medicine is available on the European Medicines Age
 
 Vaxneuvance must not be injected intravascularly.
 
-- Immediately prior to use, hold the pre-filled syringe horizontally and shake vigorously to obtain an opalescent suspension. Do not use the vaccine if it cannot be resuspended.
-- Inspect the suspension visually for particulate matter and discolouration prior to administration. Discard the vaccine if particulates are present and/or if  it appears discoloured.
+- Vaxneuvance may appear as a clear liquid with a precipitate before shaking.
+- Immediately before use and prior to attaching the needle and expelling air from the syringe, hold the pre-f illed syringe horizontally and shake vigorously to obtain an opalescent suspension. Multiple attempts may be required to achieve complete resuspension. Do not use the vaccine if it cannot be resuspended.
+- Inspect the suspension visually for particulate matter and discolouration prior to administration. Discard the vaccine if particulates are present after vigorous shaking and/or if it appears discoloured.
 - Attach a needle with Luer lock connection by twisting in a clockwise direction until the needle fits securely on the syringe.
 - Inject immediately using the intramuscular (IM) route, preferably in the anterolateral aspect of the thigh in infants or in the deltoid area of the upper arm in children and adults.
 - Exercise care to avoid harm from an accidental needle stick.
+
+<!-- image -->
 
 No data are available for administration via the intradermal route.
 
@@ -1578,6 +1561,6 @@ Vaxneuvance should be administered as soon as possible after being removed from 
 
 In the event of temporary temperature excursions, stability data indicate that Vaxneuvance is stable at temperatures up to 25 ℃ f or 48 hours.
 
-Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+<div style=\"page-break-after: always\"></div>
 
-United Kingdom (Northern Ireland) Merck Sharp &amp; Dohme Ireland (Human Health) Limited Tel: +353 (0)1 2998700 medinfoNI@msd.com
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

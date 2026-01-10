@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 09:23:36
+document_datetime: 2026-01-06 11:40:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/vabysmo.html
 document_name: vabysmo.html
 version: success
-processing_time: 0.1176815
-conversion_datetime: 2025-12-30 11:06:43.031137
+processing_time: 0.1266549
+conversion_datetime: 2026-01-10 11:04:56.027943
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -130,7 +130,7 @@ English (EN) (144.88 KB - PDF)
 
 [View](/en/documents/overview/vabysmo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-250)
+[Other languages (22)](#file-language-dropdown-692)
 
 български (BG) (165.37 KB - PDF)
 
@@ -410,15 +410,15 @@ English (EN) (1.42 MB - PDF)
 
 Vabysmo : EPAR - Product Information
 
-English (EN) (1.47 MB - PDF)
+English (EN) (647.85 KB - PDF)
 
 **First published:** 13/10/2022
 
-**Last updated:** 14/07/2025
+**Last updated:** 06/01/2026
 
 [View](/en/documents/product-information/vabysmo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-195)
+[Other languages (24)](#file-language-dropdown-475)
 
 български (BG) (1.74 MB - PDF)
 
@@ -428,11 +428,11 @@ English (EN) (1.47 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/bg/documents/product-information/vabysmo-epar-product-information_bg.pdf)
 
-español (ES) (1.4 MB - PDF)
+español (ES) (1.35 MB - PDF)
 
 **First published:**
 
@@ -440,11 +440,11 @@ español (ES) (1.4 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/es/documents/product-information/vabysmo-epar-product-information_es.pdf)
 
-čeština (CS) (1.54 MB - PDF)
+čeština (CS) (1.48 MB - PDF)
 
 **First published:**
 
@@ -452,7 +452,7 @@ español (ES) (1.4 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/cs/documents/product-information/vabysmo-epar-product-information_cs.pdf)
 
@@ -464,11 +464,11 @@ dansk (DA) (1.3 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/da/documents/product-information/vabysmo-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.93 MB - PDF)
+Deutsch (DE) (1.94 MB - PDF)
 
 **First published:**
 
@@ -476,11 +476,11 @@ Deutsch (DE) (1.93 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/de/documents/product-information/vabysmo-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.34 MB - PDF)
+eesti keel (ET) (1.35 MB - PDF)
 
 **First published:**
 
@@ -488,7 +488,7 @@ eesti keel (ET) (1.34 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/et/documents/product-information/vabysmo-epar-product-information_et.pdf)
 
@@ -500,11 +500,11 @@ eesti keel (ET) (1.34 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/el/documents/product-information/vabysmo-epar-product-information_el.pdf)
 
-français (FR) (1.32 MB - PDF)
+français (FR) (1.25 MB - PDF)
 
 **First published:**
 
@@ -512,7 +512,7 @@ français (FR) (1.32 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/fr/documents/product-information/vabysmo-epar-product-information_fr.pdf)
 
@@ -524,11 +524,11 @@ hrvatski (HR) (1.49 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/hr/documents/product-information/vabysmo-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.54 MB - PDF)
+íslenska (IS) (1.51 MB - PDF)
 
 **First published:**
 
@@ -536,7 +536,7 @@ hrvatski (HR) (1.49 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/is/documents/product-information/vabysmo-epar-product-information_is.pdf)
 
@@ -548,11 +548,11 @@ italiano (IT) (1.34 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/it/documents/product-information/vabysmo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.36 MB - PDF)
+latviešu valoda (LV) (1.37 MB - PDF)
 
 **First published:**
 
@@ -560,7 +560,7 @@ latviešu valoda (LV) (1.36 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/lv/documents/product-information/vabysmo-epar-product-information_lv.pdf)
 
@@ -572,11 +572,11 @@ lietuvių kalba (LT) (1.47 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/lt/documents/product-information/vabysmo-epar-product-information_lt.pdf)
 
-magyar (HU) (1.3 MB - PDF)
+magyar (HU) (688.04 KB - PDF)
 
 **First published:**
 
@@ -584,11 +584,11 @@ magyar (HU) (1.3 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/hu/documents/product-information/vabysmo-epar-product-information_hu.pdf)
 
-Malti (MT) (1.84 MB - PDF)
+Malti (MT) (1.83 MB - PDF)
 
 **First published:**
 
@@ -596,11 +596,11 @@ Malti (MT) (1.84 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/mt/documents/product-information/vabysmo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.25 MB - PDF)
+Nederlands (NL) (1.24 MB - PDF)
 
 **First published:**
 
@@ -608,7 +608,7 @@ Nederlands (NL) (1.25 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/nl/documents/product-information/vabysmo-epar-product-information_nl.pdf)
 
@@ -620,11 +620,11 @@ norsk (NO) (1.32 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/no/documents/product-information/vabysmo-epar-product-information_no.pdf)
 
-polski (PL) (1.64 MB - PDF)
+polski (PL) (1.63 MB - PDF)
 
 **First published:**
 
@@ -632,11 +632,11 @@ polski (PL) (1.64 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/pl/documents/product-information/vabysmo-epar-product-information_pl.pdf)
 
-português (PT) (1.51 MB - PDF)
+português (PT) (1.5 MB - PDF)
 
 **First published:**
 
@@ -644,11 +644,11 @@ português (PT) (1.51 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/pt/documents/product-information/vabysmo-epar-product-information_pt.pdf)
 
-română (RO) (1.44 MB - PDF)
+română (RO) (1.42 MB - PDF)
 
 **First published:**
 
@@ -656,11 +656,11 @@ română (RO) (1.44 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/ro/documents/product-information/vabysmo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.63 MB - PDF)
+slovenčina (SK) (1.62 MB - PDF)
 
 **First published:**
 
@@ -668,7 +668,7 @@ slovenčina (SK) (1.63 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/sk/documents/product-information/vabysmo-epar-product-information_sk.pdf)
 
@@ -680,7 +680,7 @@ slovenščina (SL) (1.44 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/sl/documents/product-information/vabysmo-epar-product-information_sl.pdf)
 
@@ -692,7 +692,7 @@ Suomi (FI) (1.3 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/fi/documents/product-information/vabysmo-epar-product-information_fi.pdf)
 
@@ -704,11 +704,11 @@ svenska (SV) (1.38 MB - PDF)
 
 **Last updated:**
 
-14/07/2025
+06/01/2026
 
 [View](/sv/documents/product-information/vabysmo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0016 08/05/2025
+**Latest procedure affecting product information:** VR/0000288096 11/12/2025
 
 icon globe
 
@@ -734,7 +734,7 @@ English (EN) (12.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/vabysmo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-913)
+[Other languages (24)](#file-language-dropdown-40)
 
 български (BG) (37.55 KB - PDF)
 
@@ -1060,7 +1060,7 @@ Roche Registration GmbH
 
 Emil-Barell-Strasse 1
 
-Opinion adopted 21/07/2022 Marketing authorisation issued 15/09/2022 Revision 6
+Opinion adopted 21/07/2022 Marketing authorisation issued 15/09/2022 Revision 8
 
 ## Assessment history
 
@@ -1072,11 +1072,11 @@ Collapse section
 
 Vabysmo : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (168.92 KB - PDF)
+English (EN) (133.42 KB - PDF)
 
 **First published:** 19/07/2023
 
-**Last updated:** 14/07/2025
+**Last updated:** 06/01/2026
 
 [View](/en/documents/procedural-steps-after/vabysmo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1143,7 +1143,7 @@ English (EN) (127.77 KB - PDF)
 - [EMEA-002817-PIP05-23 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-002817-pip05-23)
 - [Incidence of Retinal Vasculitis With or Without Retinal Vascular Occlusion Among Eyes Treated With Approved Anti-Vascular Endothelial Growth Factor Agents in Neovascular Age-Related Macular Degeneration or Diabetic Macular Edema - post-authorisation study](https://catalogues.ema.europa.eu/study/107731)
 
-**This page was last updated on** 14/07/2025
+**This page was last updated on** 06/01/2026
 
 ## Share this page
 

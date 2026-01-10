@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-27 12:03:07
+document_datetime: 2026-01-07 17:25:36
 document_pages: 128
 document_pathfilename: www.ema.europa.eu/en/documents/variation-report/uplizna-h-c-005818-ii-0012-epar-assessment-report-variation_en.pdf
 document_name: uplizna-h-c-005818-ii-0012-epar-assessment-report-variation_en.pdf
 version: success
-processing_time: 125.4949924
-conversion_datetime: 2025-12-24 17:07:35.886444
+processing_time: 146.5178989
+conversion_datetime: 2026-01-10 11:30:51.61822
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)

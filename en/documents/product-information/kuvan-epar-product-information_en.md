@@ -1,16 +1,16 @@
 ---
-document_datetime: 2023-09-21 19:55:14
-document_pages: 52
+document_datetime: 2026-01-07 14:21:55
+document_pages: 53
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/kuvan-epar-product-information_en.pdf
 document_name: kuvan-epar-product-information_en.pdf
 version: success
-processing_time: 16.0792829
-conversion_datetime: 2025-12-24 02:12:41.742878
+processing_time: 17.3534056
+conversion_datetime: 2026-01-10 11:01:00.124691
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -154,10 +154,6 @@ Table 1: 2 mg/kg per day dosing table for children weighing up to 20 kg
 |            19 |                    38 |                                                          1 |                           80 |                                             30 |
 |            20 |                    40 |                                                          1 |                           80 |                                             32 |
 
-*Reflects volume for total daily dose.
-
-Discard unused solution within 20 minutes for tablet solution.
-
 Table 2: 5 mg/kg per day dosing table for children weighing up to 20 kg
 
 |   Weight (kg) |   Total dose (mg/day) |   Number of tablets to be dissolved (100 mg strength only) |   Volume of dissolution (ml) |   Volume of solution to be administered (ml)* |
@@ -181,10 +177,6 @@ Table 2: 5 mg/kg per day dosing table for children weighing up to 20 kg
 |            18 |                    90 |                                                          1 |                           40 |                                            36 |
 |            19 |                    95 |                                                          1 |                           40 |                                            38 |
 |            20 |                   100 |                                                          1 |                           40 |                                            40 |
-
-*Reflects volume for total daily dose.
-
-Discard unused solution within 20 minutes for tablet solution.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -212,8 +204,6 @@ Table 3: 10 mg/kg per day dosing table for children weighing up to 20 kg
 |            19 |                   190 |                                                          2 |                           40 |                                            38 |
 |            20 |                   200 |                                                          2 |                           40 |                                            40 |
 
-*Reflects volume for total daily dose. Discard unused solution within 20 minutes for tablet solution.
-
 Table 4: 20 mg/kg per day dosing table for children weighing up to 20 kg
 
 |   Weight (kg) |   Total dose (mg/day) |   Number of tablets to be dissolved (100 mg strength only) |   Volume of dissolution (ml) |   Volume of solution to be administered (ml)* |
@@ -237,8 +227,6 @@ Table 4: 20 mg/kg per day dosing table for children weighing up to 20 kg
 |            18 |                   360 |                                                          4 |                           80 |                                            72 |
 |            19 |                   380 |                                                          4 |                           80 |                                            76 |
 |            20 |                   400 |                                                          4 |                           80 |                                            80 |
-
-*Reflects volume for total daily dose.
 
 Discard unused solution within 20 minutes for tablet solution.
 
@@ -292,7 +280,7 @@ Caution should be exercised when prescribing Kuvan to patients receiving treatme
 
 There are limited amount of data from the use of Kuvan in pregnant women. Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonal/foetal development, parturition or postnatal development.
 
-Available disease-associated maternal and/or embryofoetal risk data from the Maternal Phenylketonuria Collaborative Study on a moderate amount of pregnancies and live births (between 300-1,000) in PKU-affected women demonstrated that uncontrolled phenylalanine levels above 600 μ mol/l are associated with a very high incidence of neurological, cardiac, facial dysmorphism, and growth anomalies.
+Available disease-associated maternal and/or embryofoetal risk data from the Maternal Phenylketonuria Collaborative Study on a moderate amount of pregnancies and live births (between 300-1,000) in PKU-affected women demonstrated that uncontrolled phenylalanine levels above 600 μmol/l are associated with a very high incidence of neurological, cardiac, facial dysmorphism, and growth anomalies.
 
 Maternal blood phenylalanine levels must therefore be strictly controlled before and during pregnancy. If maternal phenylalanine levels are not strictly controlled before and during pregnancy, this could be harmful to the mother and the foetus. Physician-supervised restriction of dietary phenylalanine intake prior to and throughout pregnancy is the first choice of treatment in this patient group.
 
@@ -326,7 +314,7 @@ In the pivotal clinical trials and in the post-marketing experience for Kuvan, t
 
 The following definitions apply to the frequency terminology used hereafter:
 
-v ery common (≥1/10) , c ommon (≥1/100 to &lt;1/10 ), u ncommon (≥1/1,000 to &lt; 1/100), r are (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from available data)
+very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from available data)
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -362,9 +350,11 @@ Pharyngolaryngeal pain, nasal congestion, cough
 
 Common:
 
-Diarrhoea, vomiting, abdominal pain, dyspepsia, nausea Gastritis, oesophagitis
+Diarrhoea, vomiting, abdominal pain, dyspepsia, nausea
 
 Not known:
+
+Gastritis, oesophagitis
 
 ## Paediatric population
 
@@ -398,9 +388,9 @@ The rationale for administration of Kuvan in patients with BH4-responsive PKU is
 
 The Phase III clinical development program for Kuvan included 2, randomised placebo-controlled studies in patients with PKU. The results of these studies demonstrate the efficacy of Kuvan to reduce blood phenylalanine levels and to increase dietary phenylalanine tolerance.
 
-In 88 subjects with poorly controlled PKU who had elevated blood phenylalanine levels at screening, sapropterin dihydrochloride 10 mg/kg/day significantly reduced blood phenylalanine levels as compared to placebo. The baseline blood phenylalanine levels for the Kuvan-treated group and the placebo group were similar, with mean ± SD baseline blood phenylalanine levels of 843 ± 300 μmol/l and 888 ± 323 μmol/l, respectively. The mean ± SD decrease from baseline in blood phenylalanine levels at the end of the 6 week study period was 236 ± 257 μmol/l for the sapropterin treated group (n=41) as compared to an increase of 2.9 ± 240 μmol/l for the placebo group (n=47) (p&lt;0.001). For patients with baseline blood phenylalanine levels ≥ 600 µmol/l, 41.9% (13/31) of those treated with sapropterin and 13.2% (5/38) of those treated with placebo had blood phenylalanine levels &lt; 600 µmol/l at the end of the 6-week study period (p=0.012).
+In 88 subjects with poorly controlled PKU who had elevated blood phenylalanine levels at screening, sapropterin dihydrochloride 10 mg/kg/day significantly reduced blood phenylalanine levels as compared to placebo. The baseline blood phenylalanine levels for the Kuvan-treated group and the placebo group were similar, with mean ± SD baseline blood phenylalanine levels of 843 ± 300 μmol/l and 888 ± 323 μmol/l, respectively. The mean ± SD decrease from baseline in blood phenylalanine levels at the end of the 6 week study period was 236 ± 257 μmol/l for the sapropterin treated group (n=41) as compared to an increase of 2.9 ± 240 μmol/l for the placebo group (n=47) (p&lt;0.001). For patients with baseline blood phenylalanine levels ≥600 µmol/l, 41.9% (13/31) of those treated with sapropterin and 13.2% (5/38) of those treated with placebo had blood phenylalanine levels &lt; 600 µmol/l at the end of the 6-week study period (p=0.012).
 
-In a separate 10-week, placebo-controlled study, 45 PKU patients with blood phenylalanine levels controlled on a stable phenylalaninerestricted diet (blood phenylalanine ≤480 μmol/l on enrolment) were randomi sed 3:1 to treatment with sapropterin dihydrochloride 20 mg/kg/day (n=33) or placebo (n=12). After 3-weeks of treatment with sapropterin dihydrochloride 20 mg/kg/day, blood phenylalanine levels were significantly reduced; the mean ± SD decrease from baseline in blood phenylalanine level within this group was 149 ± 134 μ mol/l (p&lt;0.001). After 3 weeks, subjects in both the sapropterin and placebo treatment groups were continued on their phenylalanine-restricted diets and dietary phenylalanine intake was increased or decreased using standardised phenylalanine supplements with a goal to maintain blood phenylalanine levels at &lt;360 μ mol/l. There was a significant difference in dietary phenylalanine tolerance in the sapropterin treatment group as compared to the placebo group. The mean ± SD increase in dietary phenylalanine tolerance was 17.5 ± 13.3 mg/kg/day for the group treated with sapropterin dihydrochloride 20 mg/kg/day, compared to 3.3 ± 5.3 mg/kg/day for the placebo group (p=0.006). For the sapropterin treatment group, the mean ± SD total dietary phenylalanine tolerance was 38.4 ± 21.6 mg/kg/day during treatment with sapropterin dihydrochloride 20 mg/kg/day compared to 15.7 ± 7.2 mg/kg/day before treatment.
+In a separate 10-week, placebo-controlled study, 45 PKU patients with blood phenylalanine levels controlled on a stable phenylalanine-restricted diet (blood phenylalanine ≤480 μmol/l on enrolment) were randomised 3:1 to treatment with sapropterin dihydrochloride 20 mg/kg/day (n=33) or placebo (n=12). After 3-weeks of treatment with sapropterin dihydrochloride 20 mg/kg/day, blood phenylalanine levels were significantly reduced; the mean ± SD decrease from baseline in blood phenylalanine level within this group was 149 ± 134 μmol/l (p&lt;0.001). After 3 weeks, subjects in both the sapropterin and placebo treatment groups were continued on their phenylalanine-restricted diets and dietary phenylalanine intake was increased or decreased using standardised phenylalanine supplements with a goal to maintain blood phenylalanine levels at &lt;360 μmol/l. There was a significant difference in dietary phenylalanine tolerance in the sapropterin treatment group as compared to the placebo group. The mean ± SD increase in dietary phenylalanine tolerance was 17.5 ± 13.3 mg/kg/day for the group treated with sapropterin dihydrochloride 20 mg/kg/day, compared to 3.3 ± 5.3 mg/kg/day for the placebo group (p=0.006). For the sapropterin treatment group, the mean ± SD total dietary phenylalanine tolerance was 38.4 ± 21.6 mg/kg/day during treatment with sapropterin dihydrochloride 20 mg/kg/day compared to 15.7 ± 7.2 mg/kg/day before treatment.
 
 ## Paediatric population
 
@@ -410,17 +400,17 @@ The first study was a multicentre, open-label, randomised, controlled study in c
 
 56 paediatric PKU patients &lt;4 years of age were randomised 1:1 to receive either 10 mg/kg/day Kuvan in conjunction with a phenylalanine-restricted diet (n=27), or just a phenylalanine-restricted diet (n=29) over a 26-week Study Period.
 
-It was intended that all patients maintained blood phenylalanine levels within a range of 120-360 µmol/l (defined as ≥120 to &lt; 360 µmol/l) through monitored dietary intake during the 26-week Study Period. If after approximately 4 weeks, a patient's phenylalanine tolerance had not increased by &gt;20% versus baseline, the Kuvan dose was increased in a single step to 20 mg/kg/day.
+It was intended that all patients maintained blood phenylalanine levels within a range of 120-360 µmol/l (defined as ≥120 to &lt;360 µmol/l) through monitored dietary intake during the 26-week Study Period. If after approximately 4 weeks, a patient's phenylalanine tolerance had not increased by &gt;20% versus baseline, the Kuvan dose was increased in a single step to 20 mg/kg/day.
 
 <div style=\"page-break-after: always\"></div>
 
-The results of this study demonstrated that daily dosing with 10 or 20 mg/kg/day of Kuvan in conjunction with a phenylalanine-restricted diet led to statistically significant improvements in dietary phenylalanine tolerance compared with dietary phenylalanine restriction alone while maintaining blood phenylalanine levels within the target range ( ≥120 to &lt;360 µmol/l). The adjusted mean dietary phenylalanine tolerance in the Kuvan in conjunction with a phenylalanine-restricted diet group was 80.6 mg/kg/day and was statistically significantly greater (p&lt;0.001) than the adjusted mean dietary phenylalanine tolerance in dietary phenylalanine therapy alone group (50.1 mg/kg/day). In the clinical trial extension period, patients maintained dietary phenylalanine tolerance while on Kuvan treatment in conjunction with a Phe-restricted diet, demonstrating sustained benefit over 3.5 years.
+The results of this study demonstrated that daily dosing with 10 or 20 mg/kg/day of Kuvan in conjunction with a phenylalanine-restricted diet led to statistically significant improvements in dietary phenylalanine tolerance compared with dietary phenylalanine restriction alone while maintaining blood phenylalanine levels within the target range (≥120 to &lt;360 µmol/l). The adjusted mean dietary phenylalanine tolerance in the Kuvan in conjunction with a phenylalanine-restricted diet group was 80.6 mg/kg/day and was statistically significantly greater (p&lt;0.001) than the adjusted mean dietary phenylalanine tolerance in dietary phenylalanine therapy alone group (50.1 mg/kg/day). In the clinical trial extension period, patients maintained dietary phenylalanine tolerance while on Kuvan treatment in conjunction with a Phe-restricted diet, demonstrating sustained benefit over 3.5 years.
 
-The second study was a multicenter, uncontrolled, open-label study designed to evaluate the safety and effect on preservation of neurocognitive function of Kuvan 20 mg/kg/day in combination with a phenylalaninerestricted diet in children with PKU less than 7 years of age at study entry. Part 1 of the study (4 weeks) assessed patients' response to Kuvan; Part 2 of the study (up to 7 years of follow-up) evaluated neurocognitive function with age-appropriate measures, and monitored long-term safety in patients responsive to Kuvan. Patients with pre-existing neurocognitive damage (IQ &lt;80) were excluded from the study. Ninety-three patients were enrolled into Part 1, and 65 patients were enrolled into Part 2, of whom 49 (75%) patients completed the study with 27 (42%) patients providing Full Scale IQ (FSIQ) data at year 7.
+The second study was a multicenter, uncontrolled, open-label study designed to evaluate the safety and effect on preservation of neurocognitive function of Kuvan 20 mg/kg/day in combination with a phenylalaninerestricted diet in children with PKU less than 7 years of age at study entry. Part 1 of the study (4 weeks) assessed patients' response to Kuvan; Part 2 of the study (up to 7 years of follow-up) evaluated neurocognitive function with age-appropriate measures, and monitored long-term safety in patients responsive to Kuvan. Patients with pre-existing neurocognitive impairment (IQ &lt;80) were excluded from the study. Ninety-three patients were enrolled into Part 1, and 65 patients were enrolled into Part 2, of whom 49 (75%) patients completed the study with 27 (42%) patients providing Full Scale IQ (FSIQ) data at year 7.
 
-Mean Indices of Dietary Control were maintained between 133 μmol/L and 375 μmol/L blood Phe for all age groups at all time points. At baseline, mean Bayley-III score (102, SD=9.1, n=27), WPPSI-III score (101, SD=11, n=34) and WISC-IV score (113, SD=9.8, n=4) were within the average range for the normative population.
+Mean Indices of Dietary Control were maintained between 133 μmol/L and 375 μmol/L blood phenylalanine for all age groups at all time points. At baseline, mean Bayley-III score (102, SD=9.1, n=27), WPPSIIII score (101, SD=11, n=34) and WISC-IV score (113, SD=9.8, n=4) were within the average range for the normative population.
 
-Among 62 patients with a minimum of two FSIQ assessments, the 95% lower limit confidence interval of the mean change over an average 2-year period was -1.6 points, within the clinically expected variation of ±5 points. No additional adverse reactions were identified with long-term use of Kuvan in children less than 7 years of age.
+Among 62 patients with a minimum of two FSIQ assessments, the 95% lower limit confidence interval of the mean change over an average 2-year period was -1.6 points, within the clinically expected variation of ±5 points. No additional adverse reactions were identified with long-term use of Kuvan for a mean duration of 6.5 years in children less than 7 years of age at study entry.
 
 Limited studies have been conducted in patients under 4 years of age with BH4 deficiency using another formulation of the same active substance (sapropterin) or an un-registered preparation of BH4.
 
@@ -684,8 +674,6 @@ Table 1: 2 mg/kg per day dosing table for children weighing up to 20 kg
 |            19 |                    38 |                                                          1 |                           80 |                                            30 |
 |            20 |                    40 |                                                          1 |                           80 |                                            32 |
 
-*Reflects volume for total daily dose.
-
 Discard unused solution within 30 minutes for powder solution.
 
 Table 2: 5 mg/kg per day dosing table for children weighing up to 20 kg
@@ -711,8 +699,6 @@ Table 2: 5 mg/kg per day dosing table for children weighing up to 20 kg
 |            18 |                    90 |                                                          1 |                           40 |                                             36 |
 |            19 |                    95 |                                                          1 |                           40 |                                             38 |
 |            20 |                   100 |                                                          1 |                           40 |                                             40 |
-
-*Reflects volume for total daily dose.
 
 Discard unused solution within 30 minutes for powder solution.
 
@@ -742,8 +728,6 @@ Table 3: 10 mg/kg per day dosing table for children weighing up to 20 kg
 |            19 |                   190 |                                                          2 |                           40 |                                             38 |
 |            20 |                   200 |                                                          2 |                           40 |                                             40 |
 
-*Reflects volume for total daily dose.
-
 Discard unused solution within 30 minutes for powder solution.
 
 Table 4: 20 mg/kg per day dosing table for children weighing up to 20 kg
@@ -769,8 +753,6 @@ Table 4: 20 mg/kg per day dosing table for children weighing up to 20 kg
 |            18 |                   360 |                                                          4 |                           80 |                                            72 |
 |            19 |                   380 |                                                          4 |                           80 |                                            76 |
 |            20 |                   400 |                                                          4 |                           80 |                                            80 |
-
-*Reflects volume for total daily dose.
 
 Discard unused solution within 30 minutes for powder solution.
 
@@ -830,7 +812,7 @@ Caution should be exercised when prescribing Kuvan to patients receiving treatme
 
 There are limited amount of data from the use of Kuvan in pregnant women. Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonal/foetal development, parturition or postnatal development.
 
-Available disease-associated maternal and/or embryofoetal risk data from the Maternal Phenylketonuria Collaborative Study on a moderate amount of pregnancies and live births (between 300-1,000) in PKU-affected women demonstrated that uncontrolled phenylalanine levels above 600 μ mol/l are associated with a very high incidence of neurological, cardiac, facial dysmorphism, and growth anomalies.
+Available disease-associated maternal and/or embryofoetal risk data from the Maternal Phenylketonuria Collaborative Study on a moderate amount of pregnancies and live births (between 300-1,000) in PKU-affected women demonstrated that uncontrolled phenylalanine levels above 600 μmol/l are associated with a very high incidence of neurological, cardiac, facial dysmorphism, and growth anomalies.
 
 Maternal blood phenylalanine levels must therefore be strictly controlled before and during pregnancy. If maternal phenylalanine levels are not strictly controlled before and during pregnancy, this could be harmful to the mother and the foetus. Physician-supervised restriction of dietary phenylalanine intake prior to and throughout pregnancy is the first choice of treatment in this patient group.
 
@@ -862,7 +844,7 @@ In a further clinical trial, approximately 30% of the 27 children aged below 4 y
 
 In the pivotal clinical trials and in the post-marketing experience for Kuvan, the following adverse reactions have been identified.
 
-## The following definitions apply to the frequency terminology used hereafter:
+The following definitions apply to the frequency terminology used hereafter:
 
 very common (≥1/10), common (≥1/100 to &lt;1/10), uncommon (≥1/1,000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000), very rare (&lt;1/10,000), not known (cannot be estimated from available data).
 
@@ -886,7 +868,7 @@ Very common:
 
 Headache
 
-## Respiratory, thoracic and mediastinal disorders
+Respiratory, thoracic and mediastinal disorders
 
 Very common:
 
@@ -938,9 +920,9 @@ The rationale for administration of Kuvan in patients with BH4-responsive PKU is
 
 The Phase III clinical development program for Kuvan included 2, randomised placebo-controlled studies in patients with PKU. The results of these studies demonstrate the efficacy of Kuvan to reduce blood phenylalanine levels and to increase dietary phenylalanine tolerance.
 
-In 88 subjects with poorly controlled PKU who had elevated blood phenylalanine levels at screening, sapropterin dihydrochloride 10 mg/kg/day significantly reduced blood phenylalanine levels as compared to placebo. The baseline blood phenylalanine levels for the Kuvan-treated group and the placebo group were similar, with mean ± SD baseline blood phenylalanine levels of 843 ± 300 μmol/l and 888 ± 323 μmol/l, respectively. The mean ± SD decrease from baseline in blood phenylalanine levels at the end of the 6 week study period was 236 ± 257 μmol/l for the sapropterin treated group (n=41) as compared to an increase of 2.9 ± 240 μm ol/l for the placebo group (n=47) (p&lt;0.001). For patients with baseline blood phenylalanine levels ≥600 µmol/l, 41.9% (13/31) of those treated with sapropterin and 13.2% (5/38) of those treated with placebo had blood phenylalanine levels &lt; 600 µmol/l at the end of the 6-week study period (p=0.012).
+In 88 subjects with poorly controlled PKU who had elevated blood phenylalanine levels at screening, sapropterin dihydrochloride 10 mg/kg/day significantly reduced blood phenylalanine levels as compared to placebo. The baseline blood phenylalanine levels for the Kuvan-treated group and the placebo group were similar, with mean ± SD baseline blood phenylalanine levels of 843 ± 300 μmol/l and 888 ± 323 μmol/l, respectively. The mean ± SD decrease from baseline in blood phenylalanine levels at the end of the 6 week study period was 236 ± 257 μmol/l for the sapropterin treated group (n=41) as compared to an increase of 2.9 ± 240 μmol/l for the placebo group (n=47) (p&lt;0.001). For patients with baseline blood phenylalanine levels ≥600 µmol/l, 41.9% (13/31) of those treated with sapropterin and 13.2% (5/38) of those treated with placebo had blood phenylalanine levels &lt; 600 µmol/l at the end of the 6-week study period (p=0.012).
 
-In a separate 10-week, placebo-controlled study, 45 PKU patients with blood phenylalanine levels controlled on a stable phenylalaninerestricted diet (blood phenylalanine ≤480 μmol/l on enrolment) were randomise d 3:1 to treatment with sapropterin dihydrochloride 20 mg/kg/day (n=33) or placebo (n=12). After 3 weeks of treatment with sapropterin dihydrochloride 20 mg/kg/day, blood phenylalanine levels were significantly reduced; the mean ± SD decrease from baseline in blood phenylalanine level within this group was 149 ±134 μmol/l (p&lt;0.001). After 3 weeks, subjects in both the sapropterin and placebo treatment groups were continued on their phenylalanine-restricted diets and dietary phenylalanine intake was increased or decreased using standardised phenylalanine supplements with a goal to maintain blood phenylalanine levels at &lt;360 μmol/l. There was a significant difference in dietary phenylalanine tolerance in the sapropterin treatment group as compared to the placebo group. The mean ± SD increase in dietary phenylalanine tolerance was 17.5 ±13.3 mg/kg/day for the group treated with sapropterin dihydrochloride 20 mg/kg/day, compared to 3.3 ± 5.3 mg/kg/day for the placebo group (p=0.006). For the sapropterin treatment group, the mean ± SD total dietary phenylalanine tolerance was 38.4 ± 21.6 mg/kg/day during treatment with sapropterin dihydrochloride 20 mg/kg/day compared to 15.7 ± 7.2 mg/kg/day before treatment.
+In a separate 10-week, placebo-controlled study, 45 PKU patients with blood phenylalanine levels controlled on a stable phenylalanine-restricted diet (blood phenylalanine ≤480 μmol/l on enrolment) were randomised 3:1 to treatment with sapropterin dihydrochloride 20 mg/kg/day (n=33) or placebo (n=12). After 3 weeks of treatment with sapropterin dihydrochloride 20 mg/kg/day, blood phenylalanine levels were significantly reduced; the mean ± SD decrease from baseline in blood phenylalanine level within this group was 149 ±134 μmol/l (p&lt;0.001). After 3 weeks, subjects in both the sapropterin and placebo treatment groups were continued on their phenylalanine-restricted diets and dietary phenylalanine intake was increased or decreased using standardised phenylalanine supplements with a goal to maintain blood phenylalanine levels at &lt;360 μmol/l. There was a significant difference in dietary phenylalanine tolerance in the sapropterin treatment group as compared to the placebo group. The mean ± SD increase in dietary phenylalanine tolerance was 17.5 ±13.3 mg/kg/day for the group treated with sapropterin dihydrochloride 20 mg/kg/day, compared to 3.3 ± 5.3 mg/kg/day for the placebo group (p=0.006). For the sapropterin treatment group, the mean ± SD total dietary phenylalanine tolerance was 38.4 ± 21.6 mg/kg/day during treatment with sapropterin dihydrochloride 20 mg/kg/day compared to 15.7 ± 7.2 mg/kg/day before treatment.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -954,13 +936,13 @@ The first study was a multicentre, open-label, randomised, controlled study in c
 
 It was intended that all patients maintained blood phenylalanine levels within a range of 120-360 µmol/l (defined as ≥120 to &lt;360 µmol/l) through monitored dietary intake during the 26-week Study Period. If after approximately 4 weeks, a patient's phenylalanine tolerance had not increased by &gt;20% versus baseline, the Kuvan dose was increased in a single step to 20 mg/kg/day.
 
-The results of this study demonstrated that daily dosing with 10 or 20 mg/kg/day of Kuvan in conjunction with a phenylalanine-restricted diet led to statistically significant improvements in dietary phenylalanine tolerance compared with dietary phenylalanine restriction alone while maintaining blood phenylalanine levels within the target range ( ≥120 to &lt;360 µmol/l). The adjusted mean dietary phenylalanine tolerance in the Kuvan in conjunction with a phenylalanine-restricted diet group was 80.6 mg/kg/day and was statistically significantly greater (p&lt;0.001) than the adjusted mean dietary phenylalanine tolerance in dietary phenylalanine therapy alone group (50.1 mg/kg/day). In the clinical trial extension period, patients maintained dietary phenylalanine tolerance while on Kuvan treatment in conjunction with a Phe-restricted diet, demonstrating sustained benefit over 3.5 years.
+The results of this study demonstrated that daily dosing with 10 or 20 mg/kg/day of Kuvan in conjunction with a phenylalanine-restricted diet led to statistically significant improvements in dietary phenylalanine tolerance compared with dietary phenylalanine restriction alone while maintaining blood phenylalanine levels within the target range (≥120 to &lt;360 µmol/l). The adjusted mean dietary phenylalanine tolerance in the Kuvan in conjunction with a phenylalanine-restricted diet group was 80.6 mg/kg/day and was statistically significantly greater (p&lt;0.001) than the adjusted mean dietary phenylalanine tolerance in dietary phenylalanine therapy alone group (50.1 mg/kg/day). In the clinical trial extension period, patients maintained dietary phenylalanine tolerance while on Kuvan treatment in conjunction with a Phe-restricted diet, demonstrating sustained benefit over 3.5 years.
 
-The second study was a multicenter, uncontrolled, open-label study designed to evaluate the safety and effect on preservation of neurocognitive function of Kuvan 20 mg/kg/day in combination with a phenylalaninerestricted diet in children with PKU less than 7 years of age at study entry. Part 1 of the study (4 weeks) assessed patients' response to Kuvan; Part 2 of the study (up to 7 years of follow-up) evaluated neurocognitive function with age-appropriate measures, and monitored long-term safety in patients responsive to Kuvan. Patients with pre-existing neurocognitive damage (IQ &lt;80) were excluded from the study. Ninety-three patients were enrolled into Part 1, and 65 patients were enrolled into Part 2, of whom 49 (75%) patients completed the study with 27 (42%) patients providing Full Scale IQ (FSIQ) data at year 7.
+The second study was a multicenter, uncontrolled, open-label study designed to evaluate the safety and effect on preservation of neurocognitive function of Kuvan 20 mg/kg/day in combination with a phenylalaninerestricted diet in children with PKU less than 7 years of age at study entry. Part 1 of the study (4 weeks) assessed patients' response to Kuvan; Part 2 of the study (up to 7 years of follow-up) evaluated neurocognitive function with age-appropriate measures, and monitored long-term safety in patients responsive to Kuvan. Patients with pre-existing neurocognitive impairment (IQ &lt;80) were excluded from the study. Ninety-three patients were enrolled into Part 1, and 65 patients were enrolled into Part 2, of whom 49 (75%) patients completed the study with 27 (42%) patients providing Full Scale IQ (FSIQ) data at year 7.
 
-Mean Indices of Dietary Control were maintained between 133 μmol/L and 375 μmol/L blood Phe for all age groups at all time points. At baseline, mean Bayley-III score (102, SD=9.1, n=27), WPPSI-III score (101, SD=11, n=34) and WISC-IV score (113, SD=9.8, n=4) were within the average range for the normative population.
+Mean Indices of Dietary Control were maintained between 133 μmol/L and 375 μmol/L blood phenylalanine for all age groups at all time points. At baseline, mean Bayley-III score (102, SD=9.1, n=27), WPPSIIII score (101, SD=11, n=34) and WISC-IV score (113, SD=9.8, n=4) were within the average range for the normative population.
 
-Among 62 patients with a minimum of two FSIQassessments, the 95% lower limit confidence interval of the mean change over an average 2-year period was -1.6 points, within the clinically expected variation of ±5 points. No additional adverse reactions were identified with long-term use of Kuvan in children less than 7 years of age.
+Among 62 patients with a minimum of two FSIQ assessments, the 95% lower limit confidence interval of the mean change over an average 2-year period was -1.6 points, within the clinically expected variation of ±5 points. No additional adverse reactions were identified with long-term use of Kuvan for a mean duration of 6.5 years in children less than 7 years of age at study entry.
 
 Limited studies have been conducted in patients under 4 years of age with BH4 deficiency using another formulation of the same active substance (sapropterin) or an un-registered preparation of BH4.
 
@@ -1060,9 +1042,7 @@ BioMarin International Limited Shanbally, Ringaskiddy County Cork Ireland
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/08/481/004 100 mg sachet
-
-EU/1/08/481/005 500 mg sachet
+EU/1/08/481/004 100 mg sachet EU/1/08/481/005 500 mg sachet
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1082,10 +1062,8 @@ Detailed information on this medicinal product is available on the website of th
 
 - A. MANUFACTURER(S) RESPONSIBLE FOR BATCH RELEASE
 - B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1094,6 +1072,8 @@ Detailed information on this medicinal product is available on the website of th
 Name and address of the manufacturer(s) responsible for batch release
 
 BioMarin International Limited Shanbally, Ringaskiddy County Cork Ireland
+
+Excella GmbH &amp; Co. KG Nürnberger Strasse 12 Feucht 90537 Germany
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1272,7 +1252,9 @@ BioMarin International Limited Shanbally, Ringaskiddy County Cork Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/08/481/004 100 mg sachet EU/1/08/481/005 500 mg sachet
+EU/1/08/481/004 100 mg sachet
+
+EU/1/08/481/005 500 mg sachet
 
 ## 13. BATCH NUMBER
 
@@ -1298,6 +1280,15 @@ SN:
 
 NN:
 
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| SACHET 100 mg                                                    |
+
+| 6.   | OTHER   |
+|------|---------|
+
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
 SACHET 100 mg
@@ -1321,8 +1312,6 @@ Lot
 ## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 ## 6. OTHER
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1583,7 +1572,11 @@ BioMarin International Limited Shanbally, Ringaskiddy County Cork Ireland
 
 BioMarin International Limited Shanbally, Ringaskiddy County Cork Ireland
 
-## This leaflet was last revised in month/YYYY
+Excella GmbH &amp; Co. KG Nürnberger Strasse 12 Feucht 90537 Germany
+
+This leaflet was last revised in month/YYYY
+
+<div style=\"page-break-after: always\"></div>
 
 ## Other sources of information
 
@@ -1806,7 +1799,7 @@ Each carton contains 30 sachets.
 
 BioMarin International Limited Shanbally, Ringaskiddy County Cork Ireland
 
-## This leaflet was last revised in MM/YYYY .
+This leaflet was last revised in MM/YYYY .
 
 ## Other sources of information
 
@@ -1988,7 +1981,7 @@ Each carton contains 30 sachets.
 
 BioMarin International Limited Shanbally, Ringaskiddy County Cork Ireland
 
-This leaflet was last revised in MM/YYYY .
+## This leaflet was last revised in MM/YYYY .
 
 ## Other sources of information
 

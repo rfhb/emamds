@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-11-25 11:46:45
-document_pages: 83
+document_datetime: 2026-01-09 14:52:47
+document_pages: 87
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tysabri-epar-product-information_en.pdf
 document_name: tysabri-epar-product-information_en.pdf
 version: success
-processing_time: 17.5416844
-conversion_datetime: 2025-12-27 22:03:17.776582
+processing_time: 18.1477521
+conversion_datetime: 2026-01-10 11:39:30.479848
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -781,7 +781,7 @@ Some patients may have been exposed to immunosuppressive medicinal products (e.g
 
 ## Posology
 
-The recommended dose for subcutaneous administration is 300 mg every 4 weeks. As each pre-filled syringe contains 150 mg natalizumab two pre-filled syringes need to be administered.
+The recommended dose for subcutaneous administration is 300 mg every 4 weeks. As each pre-filled syringe contains 150 mg natalizumab, two pre-filled syringes need to be administered.
 
 Continued therapy must be carefully reconsidered in patients who show no evidence of therapeutic benefit beyond 6 months.
 
@@ -1347,9 +1347,13 @@ The pre-filled syringes can be kept at room temperature (up to 30 °C) for a max
 
 Each PFS consists of a pre-filled syringe made of glass (Type 1A) with a rubber stopper and thermoplastic rigid needle shield, containing 1 mL of solution. A 27 gauge needle is pre-affixed to the syringe. Each PFS has a needle guard system that will automatically cover the exposed needle when the plunger is fully depressed.
 
-Pack size of two PFS per carton.
+Pack sizes:
 
-## 6.6 Special precautions for disposal
+Pack containing two 150 mg pre-filled syringes, for one dose. Multipack containing six 150 mg pre-filled syringes (3 packs of 2), for three doses.
+
+Not all pack sizes may be marketed.
+
+## 6.6 Special precautions for disposal and other handling
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
@@ -1357,9 +1361,9 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Biogen Netherlands B.V. Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
 
-## 8. MARKETING AUTHORISATION NUMBER
+## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/06/346/002
+EU/1/06/346/002 EU/1/06/346/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1733,6 +1737,189 @@ PC
 SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## MULTIPACK OUTER CARTON
+
+Pre-filled syringe 150 mg Multipack (with bluebox)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Tysabri 150 mg solution for injection in pre-filled syringe natalizumab
+
+## 2. STATEMENT OF ACTIVE SUBSTANCES
+
+Each pre-filled syringe contains 150 mg natalizumab in 1 mL solution
+
+## 3. LIST OF EXCIPIENTS
+
+sodium phosphate, monobasic, monohydrate; sodium phosphate, dibasic, heptahydrate; sodium chloride; polysorbate 80 (E 433) and water for injections.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## Solution for injection
+
+Multipack: 6 (3 packs of 2) pre-filled syringes of 150 mg.
+
+## 5. METHOD AND ROUTES OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Subcutaneous use.
+
+For single use only.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING, IF NECESSARY
+
+<!-- image -->
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator
+
+. Do not freeze.
+
+Store the pre-filled syringe in the original package in order to protect from light
+
+Syringes can be left at room temperature (up to 30 °C) for up to 24 hours in total.
+
+Record total time outside of the refrigerator.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Biogen Netherlands B.V.
+
+Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
+
+## 12. MARKETING AUTHORISATION NUMBER
+
+EU/1/06/346/003
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Tysabri 150 mg
+
+## 17. UNIQUE IDENTIFIER -2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC
+
+SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## MULTIPACK INNER CARTON
+
+Pre-filled syringe 150 mg Multipack (without bluebox)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Tysabri 150 mg solution for injection in pre-filled syringe natalizumab
+
+## 2. STATEMENT OF ACTIVE SUBSTANCES
+
+Each pre-filled syringe contains 150 mg natalizumab in 1 mL solution
+
+## 3. LIST OF EXCIPIENTS
+
+sodium phosphate, monobasic, monohydrate; sodium phosphate, dibasic, heptahydrate; sodium chloride; polysorbate 80 (E 433) and water for injections.
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+Solution for injection
+
+2 pre-filled syringes. Component of a multipack, cannot be sold separately.
+
+## 5. METHOD AND ROUTES OF ADMINISTRATION
+
+Read the package leaflet before use.
+
+Subcutaneous use.
+
+For single use only.
+
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+## 7. OTHER SPECIAL WARNING, IF NECESSARY
+
+<!-- image -->
+
+## 8. EXPIRY DATE
+
+EXP
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator
+
+. Do not freeze.
+
+Store the pre-filled syringe in the original package in order to protect from light
+
+Syringes can be left at room temperature (up to 30 °C) for up to 24 hours in total.
+
+Record total time outside of the refrigerator.
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Biogen Netherlands B.V.
+
+Prins Mauritslaan 13 1171 LP Badhoevedorp The Netherlands
+
+## 12. MARKETING AUTHORISATION NUMBER
+
+EU/1/06/346/003
+
+## 13. BATCH NUMBER
+
+Lot
+
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Tysabri 150 mg
+
+17. UNIQUE IDENTIFIER -2D BARCODE
+18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2152,7 +2339,9 @@ Icepharma hf Sími: +354 540 8000
 
 ## Italia
 
-Biogen Italia s.r.l. Tel: +39 02 584 9901
+Biogen Italia s.r.l.
+
+Tel: +39 02 584 9901
 
 ## Κύπρος
 
@@ -2248,7 +2437,9 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Package leaflet: Information for the patient
 
-## Tysabri 150 mg solution for injection in pre-filled syringe natalizumab
+## Tysabri 150 mg solution for injection in pre-filled syringe
+
+## natalizumab
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -2558,7 +2749,11 @@ The other ingredients are: Sodium phosphate, monobasic, monohydrate, Sodium phos
 
 ## What Tysabri looks like and contents of the pack
 
-Tysabri is a colourless to slightly yellow, slightly opalescent to opalescent liquid. Each carton contains two syringes. Tysabri is available in packs containing 2 pre-filled syringes.
+Tysabri is a colourless to slightly yellow, slightly opalescent to opalescent liquid. Each carton contains two syringes.
+
+Tysabri is available in packs containing 2 pre-filled syringes or 6 pre-filled syringes.
+
+Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder and Manufacturer
 

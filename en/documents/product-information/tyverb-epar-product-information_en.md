@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-08-25 15:14:11
-document_pages: 44
+document_datetime: 2026-01-06 10:58:58
+document_pages: 45
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/tyverb-epar-product-information_en.pdf
 document_name: tyverb-epar-product-information_en.pdf
 version: success
-processing_time: 26.5592928
-conversion_datetime: 2025-12-14 21:50:54.21531
+processing_time: 12.166528
+conversion_datetime: 2026-01-10 11:10:14.938397
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -94,13 +94,11 @@ Tyverb dosing should be interrupted in patients with diarrhoea which is NCI CTCA
 
 Discontinuation or interruption of dosing with Tyverb may be considered when a patient develops toxicity greater than or equal to grade 2 on the NCI CTCAE. Dosing can be restarted, when the toxicity improves to grade 1 or less, at 1000 mg/day when administered with trastuzumab, 1250 mg/day when administered with capecitabine or 1500 mg/day when administered with an aromatase inhibitor. If the toxicity recurs, then Tyverb should be restarted at a lower dose (750 mg/day when administered with trastuzumab, 1000 mg/day when administered with capecitabine or 1250 mg/day when administered with an aromatase inhibitor).
 
-## Renal impairment
-
-No dose adjustment is necessary in patients with mild to moderate renal impairment. Caution is advised in patients with severe renal impairment as there is no experience of Tyverb in this population
-
 <div style=\"page-break-after: always\"></div>
 
-## (see section 5.2).
+## Renal impairment
+
+No dose adjustment is necessary in patients with mild to moderate renal impairment. Caution is advised in patients with severe renal impairment as there is no experience of Tyverb in this population (see section 5.2).
 
 ## Hepatic impairment
 
@@ -120,7 +118,7 @@ The safety and efficacy of Tyverb in children below the age of 18 years have not
 
 ## Method of administration
 
-Tyverb is for oral use.
+## Tyverb is for oral use.
 
 The daily dose of Tyverb should not be divided. Tyverb should be taken either at least one hour before, or at least one hour after food. To minimise variability in the individual patient, administration of Tyverb should be standardised in relation to food intake, for example always to be taken one hour before a meal (see sections 4.5 and 5.2 for information on absorption).
 
@@ -132,17 +130,15 @@ The full prescribing information of the co-administered medicinal product should
 
 Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.4 Special warnings and precautions for use
 
 Data have shown that Tyverb combined with chemotherapy is less effective than trastuzumab when combined with chemotherapy.
 
 ## Cardiac toxicity
 
-Lapatinib has been associated with reports of decreases in LVEF (see section 4.8). Lapatinib has not been evaluated in patients with symptomatic cardiac failure . Caution should be taken if Tyverb is to be administered to patients with conditions that could impair left ventricular function (including co-
-
-<div style=\"page-break-after: always\"></div>
-
-administration with potentially cardiotoxic medicinal products). Evaluation of cardiac function, including LVEF determination, should be conducted for all patients prior to initiation of treatment with Tyverb to ensure that the patient has a baseline LVEF that is within the institutions normal limits. LVEF should continue to be evaluated during treatment with Tyverb to ensure that LVEF does not decline to an unacceptable level (see section 4.2). In some cases, LVEF decrease may be severe and lead to cardiac failure. Fatal cases have been reported, causality of the deaths is uncertain. In studies across the clinical development programme for lapatinib, cardiac events including LVEF decreases were reported in approximately 1% of patients. Symptomatic LVEF decreases were observed in approximately 0.3% of patients who received lapatinib. However, when lapatinib was administered in combination with trastuzumab in the metastatic setting, the incidence of cardiac events including LVEF decreases was higher (7%) versus the lapatinib alone arm (2%) in the pivotal trial. The cardiac events observed in this study were comparable in nature and severity to those previously seen with lapatinib.
+Lapatinib has been associated with reports of decreases in LVEF (see section 4.8). Lapatinib has not been evaluated in patients with symptomatic cardiac failure . Caution should be taken if Tyverb is to be administered to patients with conditions that could impair left ventricular function (including coadministration with potentially cardiotoxic medicinal products). Evaluation of cardiac function, including LVEF determination, should be conducted for all patients prior to initiation of treatment with Tyverb to ensure that the patient has a baseline LVEF that is within the institutions normal limits. LVEF should continue to be evaluated during treatment with Tyverb to ensure that LVEF does not decline to an unacceptable level (see section 4.2). In some cases, LVEF decrease may be severe and lead to cardiac failure. Fatal cases have been reported, causality of the deaths is uncertain. In studies across the clinical development programme for lapatinib, cardiac events including LVEF decreases were reported in approximately 1% of patients. Symptomatic LVEF decreases were observed in approximately 0.3% of patients who received lapatinib. However, when lapatinib was administered in combination with trastuzumab in the metastatic setting, the incidence of cardiac events including LVEF decreases was higher (7%) versus the lapatinib alone arm (2%) in the pivotal trial. The cardiac events observed in this study were comparable in nature and severity to those previously seen with lapatinib.
 
 A concentration-dependent increase of the QTc interval was demonstrated in a dedicated placebo-controlled crossover study in subjects with advanced solid tumours.
 
@@ -154,17 +150,17 @@ Lapatinib has been associated with reports of pulmonary toxicity including inter
 
 ## Hepatotoxicity
 
-Hepatotoxicity has occurred with Tyverb use and may in rare cases be fatal. The hepatotoxicity may occur days to several months after initiation of treatment. At the initiation of treatment, patients should be advised of the potential for hepatotoxicity. Liver function (transaminases, bilirubin and alkaline phosphatase) should be monitored before the initiation of treatment and monthly thereafter, or as clinically indicated. Tyverb dosing should be discontinued if changes in liver function are severe and patients should not be retreated. Patients who carry the HLA alleles DQA1*02:01 and DRB1*07:01 have increased risk of Tyverb-associated hepatotoxicity. In a large, randomised clinical trial of Tyverb monotherapy (n=1,194), the cumulative frequency of severe liver injury (ALT &gt;5 times the upper limit of normal, NCI CTCAE grade 3) at 1 year of treatment was 2.8% overall. The cumulative frequency in DQA1*02:01 and DRB1*07:01 allele carriers was 10.3% and in non-carriers was 0.5%. Carriage of the HLA risk alleles is common (15 to 25%) in Caucasian, Asian, African and Hispanic populations but lower (1%) in Japanese populations.
+Hepatotoxicity has occurred with Tyverb use and may in rare cases be fatal. The hepatotoxicity may occur days to several months after initiation of treatment. At the initiation of treatment, patients should be advised of the potential for hepatotoxicity. Liver function (transaminases, bilirubin and alkaline phosphatase) should be monitored before the initiation of treatment and monthly thereafter, or as clinically indicated. Tyverb dosing should be discontinued if changes in liver function are severe and patients should not be retreated. Patients who carry the HLA alleles DQA1*02:01 and DRB1*07:01 have increased risk of Tyverb-associated hepatotoxicity. In a large, randomised clinical trial of Tyverb monotherapy (n=1,194), the cumulative frequency of severe liver injury (ALT &gt;5 times the upper limit of normal, NCI CTCAE grade 3) at 1 year of treatment was 2.8% overall. The cumulative frequency in DQA1*02:01 and DRB1*07:01 allele carriers was 10.3% and in non-carriers was 0.5%. Carriage of
+
+<div style=\"page-break-after: always\"></div>
+
+the HLA risk alleles is common (15 to 25%) in Caucasian, Asian, African and Hispanic populations but lower (1%) in Japanese populations.
 
 Caution is warranted if Tyverb is prescribed to patients with moderate or severe hepatic impairment and to patients with severe renal impairment (see sections 4.2 and 5.2).
 
 ## Diarrhoea
 
-Diarrhoea, including severe diarrhoea, has been reported with Tyverb treatment (see section 4.8). Diarrhoea can be potentially life-threatening if accompanied by dehydration, renal insufficiency, neutropenia and/or electrolyte imbalances and fatal cases have been reported. Diarrhoea generally
-
-<div style=\"page-break-after: always\"></div>
-
-occurs early during Tyverb treatment, with almost half of those patients with diarrhoea first experiencing it within 6 days. This usually lasts 4-5 days. Tyverb-induced diarrhoea is usually low-grade, with severe diarrhoea of NCI CTCAE grades 3 and 4 occurring in &lt;10% and &lt;1% of patients, respectively. At the start of therapy, the patients bowel pattern and any other symptoms (e.g. fever, cramping pain, nausea, vomiting, dizziness and thirst) should be determined, to allow identification of changes during treatment and to help identify patients at greater risk of diarrhoea. Patients should be instructed to promptly report any change in bowel patterns. In potentially severe cases of diarrhoea the measuring of neutrophil counts and body temperature should be considered. Proactive management of diarrhoea with anti-diarrhoeal medicinal product is important. Severe cases of diarrhoea may require administration of oral or intravenous electrolytes and fluids, use of antibiotics such as fluoroquinolones (especially if diarrhoea is persistent beyond 24 hours, there is fever, or grade 3 or 4 neutropenia) and interruption or discontinuation of Tyverb therapy (see section 4.2 -dose delay and dose reduction -diarrhoea).
+Diarrhoea, including severe diarrhoea, has been reported with Tyverb treatment (see section 4.8). Diarrhoea can be potentially life-threatening if accompanied by dehydration, renal insufficiency, neutropenia and/or electrolyte imbalances and fatal cases have been reported. Diarrhoea generally occurs early during Tyverb treatment, with almost half of those patients with diarrhoea first experiencing it within 6 days. This usually lasts 4-5 days. Tyverb-induced diarrhoea is usually low-grade, with severe diarrhoea of NCI CTCAE grades 3 and 4 occurring in &lt;10% and &lt;1% of patients, respectively. At the start of therapy, the patients bowel pattern and any other symptoms (e.g. fever, cramping pain, nausea, vomiting, dizziness and thirst) should be determined, to allow identification of changes during treatment and to help identify patients at greater risk of diarrhoea. Patients should be instructed to promptly report any change in bowel patterns. In potentially severe cases of diarrhoea the measuring of neutrophil counts and body temperature should be considered. Proactive management of diarrhoea with anti-diarrhoeal medicinal product is important. Severe cases of diarrhoea may require administration of oral or intravenous electrolytes and fluids, use of antibiotics such as fluoroquinolones (especially if diarrhoea is persistent beyond 24 hours, there is fever, or grade 3 or 4 neutropenia) and interruption or discontinuation of Tyverb therapy (see section 4.2 -dose delay and dose reduction -diarrhoea).
 
 ## Serious cutaneous reactions
 
@@ -186,19 +182,17 @@ Concomitant treatment with substances that increase gastric pH should be avoided
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium -free'.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 ## Effects of other medicinal products on lapatinib
 
-Lapatinib is predominantly metabolised by CYP3A (see section 5.2).
+## Lapatinib is predominantly metabolised by CYP3A (see section 5.2).
 
 In healthy volunteers receiving ketoconazole, a strong CYP3A4 inhibitor, at 200 mg twice daily for 7 days, systemic exposure to lapatinib (100 mg daily) was increased approximately 3.6 -fold, and half-life increased 1.7 -fold. Co-administration of Tyverb with strong inhibitors of CYP3A4 (e.g. ritonavir, saquinavir, telithromycin, ketoconazole, itraconazole, voriconazole, posaconazole, nefazodone) should be avoided. Co-administration of Tyverb with moderate inhibitors of CYP3A4 should proceed with caution and clinical adverse reactions should be carefully monitored.
 
-In healthy volunteers receiving carbamazepine, a CYP3A4 inducer, at 100 mg twice daily for 3 days and 200 mg twice daily for 17 days, systemic exposure to lapatinib was decreased approximately 72%.
-
-<div style=\"page-break-after: always\"></div>
-
-Co-administration of Tyverb with known inducers of CYP3A4 (e.g. rifampicin, rifabutin, carbamazepine, phenytoin or Hypericum perforatum [St John's Wort]) should be avoided.
+In healthy volunteers receiving carbamazepine, a CYP3A4 inducer, at 100 mg twice daily for 3 days and 200 mg twice daily for 17 days, systemic exposure to lapatinib was decreased approximately 72%. Co-administration of Tyverb with known inducers of CYP3A4 (e.g. rifampicin, rifabutin, carbamazepine, phenytoin or Hypericum perforatum [St John's Wort]) should be avoided.
 
 Lapatinib is a substrate for the transport proteins Pgp and BCRP. Inhibitors (ketoconazole, itraconazole, quinidine, verapamil, cyclosporine, and erythromycin) and inducers (rifampicin and St John's Wort) of these proteins may alter the exposure and/or distribution of lapatinib (see section 5.2).
 
@@ -216,7 +210,11 @@ Co-administration of lapatinib with intravenously administered docetaxel did not
 
 Co-administration of Tyverb with irinotecan (when administered as part of the FOLFIRI regimen) resulted in an approximate 40% increase in the AUC of SN-38, the active metabolite of irinotecan. The precise mechanism of this interaction is unknown, but it is assumed to be due to inhibition of one or more transport proteins by lapatinib. Adverse reactions should be carefully monitored if Tyverb is co-administered with irinotecan, and a reduction in the dose of irinotecan should be considered.
 
-Lapatinib inhibits the transport protein Pgp in vitro at clinically relevant concentrations. Co-administration of lapatinib with orally administered digoxin resulted in an approximate 80% increase in the AUC of digoxin. Caution should be exercised when dosing lapatinib concurrently with medicinal products with narrow therapeutic windows that are substrates of Pgp, and a reduction in the dose of the Pgp substrate should be considered.
+Lapatinib inhibits the transport protein Pgp in vitro at clinically relevant concentrations. Co-administration of lapatinib with orally administered digoxin resulted in an approximate 80%
+
+<div style=\"page-break-after: always\"></div>
+
+increase in the AUC of digoxin. Caution should be exercised when dosing lapatinib concurrently with medicinal products with narrow therapeutic windows that are substrates of Pgp, and a reduction in the dose of the Pgp substrate should be considered.
 
 Lapatinib inhibits the transport proteins BCRP and OATP1B1 in vitro . The clinical relevance of this effect has not been evaluated. It cannot be excluded that lapatinib will affect the pharmacokinetics of substrates of BCRP (e.g. topotecan) and OATP1B1 (e.g. rosuvastatin) (see section 5.2).
 
@@ -224,11 +222,7 @@ Concomitant administration of Tyverb with capecitabine, letrozole or trastuzumab
 
 ## Interactions with food and drink
 
-The bioavailability of lapatinib is increased up to about 4 times by food, depending on e.g. the fat
-
-<div style=\"page-break-after: always\"></div>
-
-content in the meal. Furthermore, depending on type of food the bioavailability is approximately 2-3 times higher when lapatinib is taken 1 hour after food compared with 1 hour before the first meal of the day (see sections 4.2 and 5.2).
+The bioavailability of lapatinib is increased up to about 4 times by food, depending on e.g. the fat content in the meal. Furthermore, depending on type of food the bioavailability is approximately 2-3 times higher when lapatinib is taken 1 hour after food compared with 1 hour before the first meal of the day (see sections 4.2 and 5.2).
 
 Grapefruit juice may inhibit CYP3A4 in the gut wall and increase the bioavailability of lapatinib and should therefore be avoided during treatment with Tyverb.
 
@@ -256,6 +250,8 @@ There are no adequate data from the use of Tyverb in women of childbearing poten
 
 Tyverb has no influence on the ability to drive and use machines. A detrimental effect on such activities cannot be predicted from the pharmacology of lapatinib. The clinical status of the patient and the safety profile of lapatinib should be borne in mind when considering the patient's ability to perform tasks that require judgement, motor or cognitive skills.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
@@ -264,11 +260,7 @@ The safety of lapatinib has been evaluated as monotherapy or in combination with
 
 The most common adverse reactions (&gt;25%) during therapy with lapatinib were gastrointestinal events (such as diarrhoea, nausea, and vomiting) and rash. Palmar-plantar erythrodysesthesia (PPE) was also common (&gt;25%) when lapatinib was administered in combination with capecitabine. The incidence of PPE was similar in the lapatinib plus capecitabine and capecitabine alone treatment arms. Diarrhoea was the most common adverse reaction resulting in discontinuation of treatment when lapatinib was administered in combination with capecitabine, or with letrozole.
 
-No additional adverse reactions were reported to be associated with lapatinib in combination with trastuzumab. There was an increased incidence of cardiac toxicity, but these events were comparable
-
-<div style=\"page-break-after: always\"></div>
-
-in nature and severity to those reported from the lapatinib clinical programme (see section 4.4 -cardiac toxicity). These data are based on exposure to this combination in 149 patients in the pivotal trial.
+No additional adverse reactions were reported to be associated with lapatinib in combination with trastuzumab. There was an increased incidence of cardiac toxicity, but these events were comparable in nature and severity to those reported from the lapatinib clinical programme (see section 4.4 -cardiac toxicity). These data are based on exposure to this combination in 149 patients in the pivotal trial.
 
 ## Tabulated list of adverse reactions
 
@@ -277,6 +269,8 @@ The following adverse reactions have been reported to have a causal association 
 The following convention has been utilised for the classification of frequency: very common ((  1/10), common (  1/100 to &lt;1/10), uncommon (  1/1,000 to &lt;1/100), rare (  1/10,000 to &lt;1/1,000) and very rare (&lt;1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+
+<div style=\"page-break-after: always\"></div>
 
 | Immune system disorders                              | Immune system disorders                                                                                                                                                                                   |
 |------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -312,19 +306,18 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Very common                                          | Fatigue, mucosal inflammation*, asthenia † .                                                                                                                                                              |
 
 * These adverse reactions were observed when lapatinib was administered in combination with capecitabine.
-
-† These adverse reactions were observed when lapatinib was administered in combination with
-
-<div style=\"page-break-after: always\"></div>
-
-- letrozole.
+- † These adverse reactions were observed when lapatinib was administered in combination with letrozole.
 - ** Adverse reactions from spontaneous reports and literature
 
 ## Description of selected adverse reactions
 
 ## Decreased left ventricular ejection fraction and QT interval prolongation
 
-Left ventricular ejection fraction (LVEF) decreases have been reported in approximately 1% of patients receiving lapatinib and were asymptomatic in more than 70% of cases. LVEF decreases resolved or improved in more than 70 % of cases, in approximately 60 % of these on discontinuation of treatment with lapatinib, and in approximately 40 % of cases lapatinib was continued. Symptomatic LVEF decreases were observed in approximately 0.3% of patients who received lapatinib monotherapy or in combination with other anti-cancer medicinal products. Observed adverse reactions included dyspnoea, cardiac failure and palpitations. Overall 58 % of these symptomatic patients recovered. LVEF decreases were reported in 2.5 % of patients who received lapatinib in combination with capecitabine, as compared to 1.0 % with capecitabine alone. LVEF decreases were reported in 3.1 % of patients who received lapatinib in combination with letrozole as compared to 1.3 % of patients receiving letrozole plus placebo. LVEF decreases were reported in 6.7 % of patients who received lapatinib in combination with trastuzumab, as compared to 2.1 % of patients who received lapatinib alone.
+Left ventricular ejection fraction (LVEF) decreases have been reported in approximately 1% of patients receiving lapatinib and were asymptomatic in more than 70% of cases. LVEF decreases resolved or improved in more than 70 % of cases, in approximately 60 % of these on discontinuation of treatment with lapatinib, and in approximately 40 % of cases lapatinib was continued. Symptomatic LVEF decreases were observed in approximately 0.3% of patients who received lapatinib monotherapy or in combination with other anti-cancer medicinal products. Observed adverse reactions included dyspnoea, cardiac failure and palpitations. Overall 58 % of these symptomatic patients recovered. LVEF decreases were reported in 2.5 % of patients who received lapatinib in combination
+
+<div style=\"page-break-after: always\"></div>
+
+with capecitabine, as compared to 1.0 % with capecitabine alone. LVEF decreases were reported in 3.1 % of patients who received lapatinib in combination with letrozole as compared to 1.3 % of patients receiving letrozole plus placebo. LVEF decreases were reported in 6.7 % of patients who received lapatinib in combination with trastuzumab, as compared to 2.1 % of patients who received lapatinib alone.
 
 A concentration dependent increase in QTcF (maximum mean ΔΔQTcF 8.75 ms; 90% CI 4.08, 13.42) was observed in a dedicated QT study in patients with advanced solid tumours (see section 4.4).
 
@@ -344,8 +337,6 @@ The risk of lapatinib-induced hepatotoxicity was associated with carriage of the
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.9 Overdose
 
 There is no specific antidote for the inhibition of EGFR (ErbB1) and/or HER2 (ErbB2) tyrosine phosphorylation. The maximum oral dose of lapatinib that has been administered in clinical studies is 1800 mg once daily.
@@ -353,6 +344,8 @@ There is no specific antidote for the inhibition of EGFR (ErbB1) and/or HER2 (Er
 Asymptomatic and symptomatic cases of overdose have been reported in patients being treated with Tyverb. In patients who took up to 5000 mg of lapatinib, symptoms observed include known lapatinib associated events (see section 4.8) and in some cases sore scalp and/or mucosal inflammation. In a single case of a patient who took 9000 mg of Tyverb, sinus tachycardia (with otherwise normal ECG) was also observed.
 
 Lapatinib is not significantly renally excreted and is highly bound to plasma proteins, therefore haemodialysis would not be expected to be an effective method to enhance the elimination of lapatinib.
+
+<div style=\"page-break-after: always\"></div>
 
 Further management should be as clinically indicated or as recommended by the national poisons centre, where available.
 
@@ -364,7 +357,7 @@ Pharmacotherapeutic group: Antineoplastic agents, human epidermal growth factor 
 
 ## Mechanism of action
 
-Lapatinib, a 4-anilinoquinazoline, is an inhibitor of the intracellular tyrosine kinase domains of both EGFR (ErbB1) and of HER2 (ErbB2) receptors (estimated Ki app  values of 3nM and 13nM, respectively) with a slow off-rate from these receptors (half-life greater than or equal to 300 minutes). Lapatinib inhibits ErbB-driven tumour cell growth in vitro and in various animal models.
+Lapatinib, a 4-anilinoquinazoline, is an inhibitor of the intracellular tyrosine kinase domains of both EGFR (ErbB1) and of HER2 (ErbB2) receptors (estimated Ki app values of 3nM and 13nM, respectively) with a slow off-rate from these receptors (half-life greater than or equal to 300 minutes). Lapatinib inhibits ErbB-driven tumour cell growth in vitro and in various animal models.
 
 The combination of lapatinib and trastuzumab may offer complementary mechanisms of action as well as possible non-overlapping mechanisms of resistance. The growth inhibitory effects of lapatinib were evaluated in trastuzumab-conditioned cell lines. Lapatinib retained significant activity against HER2-amplified breast cancer cell lines selected for long-term growth in trastuzumab-containing medium in vitro and was synergistic in combination with trastuzumab in these cell lines.
 
@@ -374,22 +367,20 @@ The combination of lapatinib and trastuzumab may offer complementary mechanisms 
 
 The efficacy and safety of Tyverb in combination with capecitabine in breast cancer patients with good performance status was evaluated in a randomised, phase III study. Patients eligible for enrolment had HER2-overexpressing, locally advanced or metastatic breast cancer, progressing after prior treatment that included taxanes, anthracyclines and trastuzumab. LVEF was evaluated in all patients (using echocardiogram [Echo] or multi gated acquisition scan [MUGA]) prior to initiation of treatment with Tyverb to ensure baseline LVEF was within the institutions normal limits. In the clinical study LVEF was monitored at approximately eight week intervals during treatment with Tyverb to ensure it did not decline to below the institutions lower limit of normal. The majority of LVEF decreases (greater than 60 % of events) were observed during the first nine weeks of treatment, however limited data was available for long term exposure.
 
-Patients were randomised to receive either Tyverb 1250 mg once daily (continuously) plus capecitabine (2000 mg/m 2 /day on days 1-14 every 21 days), or to receive capecitabine alone
+Patients were randomised to receive either Tyverb 1250 mg once daily (continuously) plus capecitabine (2000 mg/m 2 /day on days 1-14 every 21 days), or to receive capecitabine alone (2500 mg/m 2 /day on days 1-14 every 21 days). The primary endpoint was time to progression (TTP). Assessments were undertaken by the study investigators and by an independent review panel, blinded to treatment. The study was halted based on the results of a pre-specified interim analysis that showed an improvement in TTP for patients receiving Tyverb plus capecitabine. An additional 75 patients were enrolled in the study between the time of the interim analysis and the end of the enrolment. Investigator analysis on data at the end of enrolment is presented in Table 1.
 
 <div style=\"page-break-after: always\"></div>
 
-(2500 mg/m 2 /day on days 1-14 every 21 days). The primary endpoint was time to progression (TTP). Assessments were undertaken by the study investigators and by an independent review panel, blinded to treatment. The study was halted based on the results of a pre-specified interim analysis that showed an improvement in TTP for patients receiving Tyverb plus capecitabine. An additional 75 patients were enrolled in the study between the time of the interim analysis and the end of the enrolment. Investigator analysis on data at the end of enrolment is presented in Table 1.
-
 Table 1 Time to progression data from Study EGF100151 (Tyverb / capecitabine)
 
-|                      | Investigator assessment                                                             | Investigator assessment                                       |
-|----------------------|-------------------------------------------------------------------------------------|---------------------------------------------------------------|
-|                      | Tyverb (1250 mg/day)+ capecitabine (2000 mg/m 2 /day, days 1-14 q21 days) (N = 198) | Capecitabine (2500 mg/m 2 /day, days 1-14 q21 days) (N = 201) |
-| Number of TTP events | 121                                                                                 | 126                                                           |
-| Median TTP, weeks    | 23.9                                                                                | 18.3                                                          |
-| Hazard Ratio         | 0.72                                                                                | 0.72                                                          |
-| (95% CI)             | (0.56, 0.92)                                                                        | (0.56, 0.92)                                                  |
-| p value              | 0.008                                                                               | 0.008                                                         |
+|                      | Investigator assessment                                                   | Investigator assessment                             |
+|----------------------|---------------------------------------------------------------------------|-----------------------------------------------------|
+|                      | Tyverb (1250 mg/day)+ capecitabine (2000 mg/m 2 /day, days 1-14 q21 days) | Capecitabine (2500 mg/m 2 /day, days 1-14 q21 days) |
+| Number of TTP events | 121                                                                       | 126                                                 |
+| Median TTP, weeks    | 23.9                                                                      | 18.3                                                |
+| Hazard Ratio         | 0.72                                                                      | 0.72                                                |
+| (95% CI)             | (0.56, 0.92)                                                              | (0.56, 0.92)                                        |
+| p value              | 0.008                                                                     | 0.008                                               |
 
 The independent assessment of the data also demonstrated that Tyverb when given in combination with capecitabine significantly increased time to progression (Hazard Ratio 0.57 [95 % CI 0.43, 0.77] p=0.0001) compared to capecitabine alone.
 
@@ -410,11 +401,9 @@ On the combination arm, there were 4 (2%) progressions in the central nervous sy
 
 Data are available on the efficacy and safety of Tyverb in combination with capecitabine relative to trastuzumab in combination with capecitabine. A randomised Phase III study (EGF111438) (N=540) compared the effect of the two regimens on the incidence of CNS as site of first relapse in women with HER2 overexpressing metastatic breast cancer. Patients were randomised to either Tyverb 1250 mg once daily (continuously) plus capecitabine (2000 mg/m 2 /day on days 1-14 every 21 days), or trastuzumab (loading dose of 8mg/kg followed by 6mg/kg q3 weekly infusions) plus capecitabine (2500mg/m 2 /day, days 1-14, every 21 days). Randomisation was stratified by prior trastuzumab treatment and number of prior treatments for metastatic disease. The study was halted as the interim analysis (N=475) showed a low incidence of CNS events and, superior efficacy of the trastuzumab plus capecitabine arm in terms of progression-free survival and overall survival (see results of final analysis in Table 3).
 
-<div style=\"page-break-after: always\"></div>
-
 In the Tyverb plus capecitabine arm 8 patients (3.2%) experienced CNS as site of first progression, compared with 12 patients (4.8%) in the trastuzumab plus capecitabine arm.
 
-## Lapatinib effect on CNS metastasis
+<div style=\"page-break-after: always\"></div>
 
 Lapatinib has in terms of objective responses demonstrated modest activity in the treatment of established CNS metastases. In the prevention of CNS metastases in the metastatic and early breast cancer settings the observed activity was limited.
 
@@ -442,19 +431,17 @@ Table 3 Analyses of investigator-assessed progression-free survival and overall 
 | Median (95% CI)                                  | 6.3 (5.6, 8.1)                                                             | 10.9 (8.3, 15.0)                                                                                                                  | NE 2 (14.6, -)                                                             | NE 2 (21.6, -)                                                                                                                    |
 | HR (95% CI)                                      | 1.70 (1.15, 2.50)                                                          | 1.70 (1.15, 2.50)                                                                                                                 | 1.67 (0.94, 2.96)                                                          | 1.67 (0.94, 2.96)                                                                                                                 |
 
-CI = confidence interval
-
-a. PFS was defined as the time from randomisation to the earliest date of disease progression or death from any cause, or to the date of censor.
+CI = confidence interval a. PFS was defined as the time from randomisation to the earliest date of disease progression or death from any cause, or to the date of censor.
 
 b. Pike estimate of the treatment hazard ratio, &lt;1 indicates a lower risk for Tyverb plus capecitabine compared with Trastuzumab plus capecitabine.
 
 1. PFS event is Progressed or Died and OS event is Died due to any cause.
 
-<div style=\"page-break-after: always\"></div>
-
 2. NE=median was not reached.
 
 * Post hoc analysis
+
+<div style=\"page-break-after: always\"></div>
 
 ## Combination treatment with Tyverb and trastuzumab
 
@@ -481,19 +468,17 @@ PFS = progression-free survival; CI = confidence interval.
 
 Table 5 Summary of PFS and OS in studies with hormone receptor negative
 
-|            | Median PFS           | Median OS             |
-|------------|----------------------|-----------------------|
-| Lap+Tras   | 15.4 wks (8.4, 16.9) | 17.2 mos (13.9, 19.2) |
-| Lap        | 8.2 wks (7.4, 9.3)   | 8.9 mos (6.7, 11.8)   |
-| HR(95% CI) | 0.73 (0.52, 1.03)    | 0.62 (0.42, 0.90)     |
-
-## Combination treatment with Tyverb and letrozole
-
-Tyverb has been studied in combination with letrozole for the treatment of postmenopausal women with hormone receptor-positive (oestrogen receptor [ER] positive and / or progesterone receptor [PgR]
+|             | Median PFS           | Median OS             |
+|-------------|----------------------|-----------------------|
+| Lap+Tras    | 15.4 wks (8.4, 16.9) | 17.2 mos (13.9, 19.2) |
+| Lap         | 8.2 wks (7.4, 9.3)   | 8.9 mos (6.7, 11.8)   |
+| HR (95% CI) | 0.73 (0.52, 1.03)    | 0.62 (0.42, 0.90)     |
 
 <div style=\"page-break-after: always\"></div>
 
-positive) advanced or metastatic breast cancer.
+## Combination treatment with Tyverb and letrozole
+
+Tyverb has been studied in combination with letrozole for the treatment of postmenopausal women with hormone receptor-positive (oestrogen receptor [ER] positive and / or progesterone receptor [PgR] positive) advanced or metastatic breast cancer.
 
 The Phase III study (EGF30008) was randomised, double-blind, and placebo controlled. The study enrolled patients who had not received prior therapy for their metastatic disease.
 
@@ -505,20 +490,25 @@ In patients with HER2-overexpressing MBC, investigator-determined progression-fr
 
 Table 6 Progression free survival data from Study EGF30008 (Tyverb / letrozole)
 
-|                                                                                                                                                                                                                                         | HER2-overexpressing population                                                                                                                                                                                                          | HER2-overexpressing population                                                                                                                                                                                                          | HER2-negative population                                                                                                                                                                                                                | HER2-negative population                                                                                                                                                                                                                |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                                                                         | N = 111                                                                                                                                                                                                                                 | N = 108                                                                                                                                                                                                                                 | N = 478                                                                                                                                                                                                                                 | N = 474                                                                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                         | Tyverb 1500 mg / day + Letrozole 2.5 mg /day                                                                                                                                                                                            | Letrozole 2.5 mg /day + placebo                                                                                                                                                                                                         | Tyverb 1500 mg / day + Letrozole 2.5 mg /day                                                                                                                                                                                            | Letrozole 2.5 mg /day + placebo                                                                                                                                                                                                         |
-| Median PFS, weeks (95% CI)                                                                                                                                                                                                              | 35.4 (24.1, 39.4)                                                                                                                                                                                                                       | 13.0 (12.0, 23.7)                                                                                                                                                                                                                       | 59.7 (48.6, 69.7)                                                                                                                                                                                                                       | 58.3 (47.9, 62.0)                                                                                                                                                                                                                       |
-| Hazard ratio                                                                                                                                                                                                                            | 0.71 (0.53, 0.96)                                                                                                                                                                                                                       | 0.71 (0.53, 0.96)                                                                                                                                                                                                                       | 0.90 (0.77, 1.05)                                                                                                                                                                                                                       | 0.90 (0.77, 1.05)                                                                                                                                                                                                                       |
-| P-value                                                                                                                                                                                                                                 | 0.019                                                                                                                                                                                                                                   | 0.019                                                                                                                                                                                                                                   | 0.188                                                                                                                                                                                                                                   | 0.188                                                                                                                                                                                                                                   |
-| Objective response rate (ORR)                                                                                                                                                                                                           | 27.9%                                                                                                                                                                                                                                   | 14.8%                                                                                                                                                                                                                                   | 32.6%                                                                                                                                                                                                                                   | 31.6%                                                                                                                                                                                                                                   |
-| Odds ratio                                                                                                                                                                                                                              | 0.4 (0.2, 0.9)                                                                                                                                                                                                                          | 0.4 (0.2, 0.9)                                                                                                                                                                                                                          | 0.9 (0.7, 1.3)                                                                                                                                                                                                                          | 0.9 (0.7, 1.3)                                                                                                                                                                                                                          |
-| P-value                                                                                                                                                                                                                                 | 0.021                                                                                                                                                                                                                                   | 0.021                                                                                                                                                                                                                                   | 0.26                                                                                                                                                                                                                                    | 0.26                                                                                                                                                                                                                                    |
-| Clinical benefit rate (CBR)                                                                                                                                                                                                             | 47.7%                                                                                                                                                                                                                                   | 28.7%                                                                                                                                                                                                                                   | 58.2%                                                                                                                                                                                                                                   | 31.6%                                                                                                                                                                                                                                   |
-| Odds ratio                                                                                                                                                                                                                              | 0.4 (0.2, 0.8)                                                                                                                                                                                                                          | 0.4 (0.2, 0.8)                                                                                                                                                                                                                          | 1.0 (0.7, 1.2)                                                                                                                                                                                                                          | 1.0 (0.7, 1.2)                                                                                                                                                                                                                          |
-| P-value                                                                                                                                                                                                                                 | 0.003                                                                                                                                                                                                                                   | 0.003                                                                                                                                                                                                                                   | 0.199                                                                                                                                                                                                                                   | 0.199                                                                                                                                                                                                                                   |
-| CI= confidence interval HER2 overexpression = IHC 3+ and/or FISH positive; HER2 negative = IHC 0, 1+ or 2+ and/or FISH negative Clinical benefit rate was defined as complete plus partial response plus stable disease for  6 months. | CI= confidence interval HER2 overexpression = IHC 3+ and/or FISH positive; HER2 negative = IHC 0, 1+ or 2+ and/or FISH negative Clinical benefit rate was defined as complete plus partial response plus stable disease for  6 months. | CI= confidence interval HER2 overexpression = IHC 3+ and/or FISH positive; HER2 negative = IHC 0, 1+ or 2+ and/or FISH negative Clinical benefit rate was defined as complete plus partial response plus stable disease for  6 months. | CI= confidence interval HER2 overexpression = IHC 3+ and/or FISH positive; HER2 negative = IHC 0, 1+ or 2+ and/or FISH negative Clinical benefit rate was defined as complete plus partial response plus stable disease for  6 months. | CI= confidence interval HER2 overexpression = IHC 3+ and/or FISH positive; HER2 negative = IHC 0, 1+ or 2+ and/or FISH negative Clinical benefit rate was defined as complete plus partial response plus stable disease for  6 months. |
+|                               | HER2-overexpressing population               | HER2-overexpressing population   | HER2-negative population                     | HER2-negative population        |
+|-------------------------------|----------------------------------------------|----------------------------------|----------------------------------------------|---------------------------------|
+|                               | N = 111                                      | N = 108                          | N = 478                                      | N = 474                         |
+|                               | Tyverb 1500 mg / day + Letrozole 2.5 mg /day | Letrozole 2.5 mg /day + placebo  | Tyverb 1500 mg / day + Letrozole 2.5 mg /day | Letrozole 2.5 mg /day + placebo |
+| Median PFS, weeks (95% CI)    | 35.4 (24.1, 39.4)                            | 13.0 (12.0, 23.7)                | 59.7 (48.6, 69.7)                            | 58.3 (47.9, 62.0)               |
+| Hazard ratio                  | 0.71 (0.53, 0.96)                            | 0.71 (0.53, 0.96)                | 0.90 (0.77, 1.05)                            | 0.90 (0.77, 1.05)               |
+| P-value                       | 0.019                                        | 0.019                            | 0.188                                        | 0.188                           |
+| Objective response rate (ORR) | 27.9%                                        | 14.8%                            | 32.6%                                        | 31.6%                           |
+| Odds ratio                    | 0.4 (0.2, 0.9)                               | 0.4 (0.2, 0.9)                   | 0.9 (0.7, 1.3)                               | 0.9 (0.7, 1.3)                  |
+| P-value                       | 0.021                                        | 0.021                            | 0.26                                         | 0.26                            |
+| Clinical benefit rate (CBR)   | 47.7%                                        | 28.7%                            | 58.2%                                        | 31.6%                           |
+| Odds ratio                    | 0.4 (0.2, 0.8)                               | 0.4 (0.2, 0.8)                   | 1.0 (0.7, 1.2)                               | 1.0 (0.7, 1.2)                  |
+| P-value                       | 0.003                                        | 0.003                            | 0.199                                        | 0.199                           |
+
+CI= confidence interval
+
+HER2 overexpression = IHC 3+ and/or FISH positive; HER2 negative = IHC 0, 1+ or 2+ and/or FISH negative
+
+Clinical benefit rate was defined as complete plus partial response plus stable disease for  6 months.
 
 At the time of the final PFS analysis (with median follow-up of 2.64 years), the overall survival data were not mature and there was no significant difference between treatment groups in the HER2-positive population; this had not changed with additional follow-up (&gt;7.5 years median followup time; Table 7).
 
@@ -539,8 +529,7 @@ Table 7 Overall survival (OS) results from study EGF30008 (in the HER2-positive 
 
 Median values from Kaplan-Meier analysis; HR and p-values from Cox regression models adjusting for important prognostic factors.
 
-a. Estimate of the treatment hazard ratio, where &lt;1 indicates a lower risk with letrozole 2.5 mg + lapatinib 1500 mg compared with letrozole 2.5 mg + placebo.
-
+- a. Estimate of the treatment hazard ratio, where &lt;1 indicates a lower risk with letrozole 2.5 mg + lapatinib 1500 mg compared with letrozole 2.5 mg + placebo.
 - b. P-value from Cox regression model, stratifying for site of disease and prior anti-adjuvant therapy at screening.
 
 ## Cardiac electrophysiology
@@ -555,11 +544,9 @@ There is a p ositive relationship between lapatinib plasma concentrations and Δ
 
 The bioavailability and thereby the plasma concentrations of lapatinib are increased by food, in relation to the content and timing of the meal. Dosing of lapatinib one hour after a meal results in approximately 2-3 times higher systemic exposure, compared to dosing one hour before a meal (see sections 4.5 and 5.2).
 
-The European Medicines Agency has waived the obligation to submit the results of studies with Tyverb in all subsets of the paediatric population in the treatment of breast carcinoma (see section 4.2
-
 <div style=\"page-break-after: always\"></div>
 
-for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with Tyverb in all subsets of the paediatric population in the treatment of breast carcinoma (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -583,11 +570,11 @@ Lapatinib inhibits CYP3A (Ki 0.6 to 2.3 µg/ml) and CYP2C8 (0.3 µg/ml) in vitro
 
 The half-life of lapatinib measured after single doses increases with increasing dose. However, daily dosing of lapatinib results in achievement of steady state within 6 to 7 days, indicating an effective half-life of 24 hours. Lapatinib is predominantly eliminated through metabolism by CYP3A4/5. Biliary excretion may also contribute to the elimination. The primary route of excretion for lapatinib and its metabolites is in faeces. Recovery of unchanged lapatinib in faeces accounts for a median 27% (range 3 to 67%) of an oral dose. Less than 2% of the administered oral dose (as lapatinib and metabolites) excreted in urine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Renal impairment
 
 Lapatinib pharmacokinetics have not been specifically studied in patients with renal impairment or in patients undergoing haemodialysis. Available data suggest that no dose adjustment is necessary in patients with mild to moderate renal impairment.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Hepatic impairment
 
@@ -623,7 +610,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-## Blister packs
+Blister packs
 
 2 years
 
@@ -681,7 +668,7 @@ Date of latest renewal: 19 September 2019
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
 
-20
+21
 
 <div style=\"page-break-after: always\"></div>
 
@@ -699,8 +686,6 @@ Detailed information on this medicinal product is available on the website of th
 Name and address of the manufacturers responsible for batch release
 
 Glaxo Wellcome S.A. Avenida de Extremadura 3 09400 Aranda de Duero Burgos Spain
-
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
 
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
@@ -720,15 +705,13 @@ Medicinal product subject to restricted medical prescription (see Annex I: Summa
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
+<div style=\"page-break-after: always\"></div>
+
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 ## · Risk management plan (RMP)
 
-The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation
-
-<div style=\"page-break-after: always\"></div>
-
-and any agreed subsequent updates of the RMP.
+The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
@@ -789,8 +772,6 @@ EXP
 
 Do not store above 30ºC.
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -811,20 +792,23 @@ EU/1/07/440/003
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
 tyverb 250 mg
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -886,7 +870,7 @@ EU/1/07/440/002
 
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -950,47 +934,56 @@ EXP
 
 Do not store above 30ºC.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+<div style=\"page-break-after: always\"></div>
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
 Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
+| 12. MARKETING AUTHORISATION NUMBER(S)   |
+|-----------------------------------------|
 
 EU/1/07/440/002
 
-13. BATCH NUMBER
+| 13.   | BATCH NUMBER   |
+|-------|----------------|
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+| 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
+|-------|-------------------------------------|
 
-15. INSTRUCTIONS ON USE
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
-16. INFORMATION IN BRAILLE
+| 16.   | INFORMATION IN BRAILLE   |
+|-------|--------------------------|
 
 tyverb 250 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
-|------------------------------------------------------|
-| BLISTERS                                             |
-
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 Tyverb 250 mg tablets lapatinib
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Novartis Europharm Limited
 
@@ -1011,7 +1004,7 @@ Lot
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING AND THE IMMEDIATE PACKAGING
 
-## OUTER CARTON AND BOTTLE LABEL
+OUTER CARTON AND BOTTLE LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1037,7 +1030,9 @@ Each film-coated tablet contains lapatinib ditosylate monohydrate, equivalent to
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use
+Read the package leaflet before use.
+
+Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1055,8 +1050,7 @@ Do not store above 30ºC.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1088,29 +1082,25 @@ EU/1/07/440/007
 
 105 tablets
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+## 13. BATCH NUMBER
 
 Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
+## 16. INFORMATION IN BRAILLE
 
 tyverb 250 mg [folding box only]
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 [folding box only]
 
 2D barcode carrying the unique identifier included.
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 [folding box only]
 
@@ -1128,9 +1118,7 @@ NN
 
 ## Package leaflet: Information for the user
 
-## Tyverb 250 mg film-coated tablets
-
-## lapatinib
+## Tyverb 250 mg film-coated tablets lapatinib
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1162,6 +1150,8 @@ Tyverb is prescribed in combination with an aromatase inhibitor , for patients w
 
 Information about these medicines is described in separate patient information leaflets. Ask your doctor to give you information about these other medicines.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 2. What you need to know before you take Tyverb
 
 ## Do not take Tyverb
@@ -1170,11 +1160,7 @@ Information about these medicines is described in separate patient information l
 
 ## Take special care with Tyverb
 
-Your doctor will run tests to check that your heart is working properly before and during your
-
-<div style=\"page-break-after: always\"></div>
-
-treatment with Tyverb.
+Your doctor will run tests to check that your heart is working properly before and during your treatment with Tyverb.
 
 Tell your doctor if you have any heart problems before you take Tyverb.
 
@@ -1217,17 +1203,15 @@ It is especially important to tell your doctor if you are taking, or have recent
 - rosuvastatin -a medicine used to treat high cholesterol
 - medicines that decrease stomach acidity - used to treat stomach ulcers or indigestion
 
+<div style=\"page-break-after: always\"></div>
+
 Tell your doctor if you are taking, or have recently taken, any of these.
 
 Your doctor will review the medicines you are currently taking to make sure you are not taking something that can't be taken with the Tyverb. Your doctor will advise you whether an alternative is available.
 
 ## Tyverb with food and drink
 
-Don't drink grapefruit juice while you are being treated with Tyverb. It can affect the way the
-
-<div style=\"page-break-after: always\"></div>
-
-## medicine works.
+## Don't drink grapefruit juice while you are being treated with Tyverb. It can affect the way the medicine works.
 
 ## Pregnancy and breast-feeding
 
@@ -1265,14 +1249,14 @@ If you are prescribed Tyverb in combination with an aromatase inhibitor , the us
 
 Take the prescribed dose every day for as long as your doctor tells you to.
 
+<div style=\"page-break-after: always\"></div>
+
 Your doctor will advise you about the dose of your other anti-cancer medicine, and how to take it.
 
 ## Taking your tablets
 
 - Swallow the tablets whole with water , one after the other, at the same time each day.
 - Take Tyverb either at least one hour before or at least one hour after food . Take Tyverb at the same time in relation to food each day -for example, you could always take your tablet one hour before breakfast.
-
-<div style=\"page-break-after: always\"></div>
 
 ## While you are taking Tyverb
 
@@ -1310,6 +1294,8 @@ Very common side effects (may affect more than 1 in 10 people):
 
 Tell your doctor if you get a skin rash . There is more advice on reducing the risk of skin rash at the end of section 4.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other very common side effects
 
 - loss of appetite
@@ -1322,9 +1308,6 @@ Tell your doctor if you get a skin rash . There is more advice on reducing the r
 - stomach pain
 - trouble sleeping
 - back pain
-
-<div style=\"page-break-after: always\"></div>
-
 - pain in hands and feet
 - joint or back pain
 - a skin reaction on the palms of the hands or soles of the feet (including tingling, numbness, pain, swelling or reddening)
@@ -1360,6 +1343,8 @@ Rare side effects (may affect up to 1 in 1,000 people):
 
 - severe allergic reactions ( see the beginning of section 4 )
 
+<div style=\"page-break-after: always\"></div>
+
 ## The frequency of some side effects is not known (it cannot be estimated from the available data):
 
 - irregular heart-beat (change in the electrical activity of the heart)
@@ -1369,8 +1354,6 @@ Rare side effects (may affect up to 1 in 1,000 people):
 ## If you get other side effects
 
 Tell your doctor or pharmacist if you notice any side effects not listed in this leaflet.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Reducing the risk of diarrhoea and skin rash
 
@@ -1410,6 +1393,8 @@ Do not store above 30ºC.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. Contents of the pack and other information
 
 ## What Tyverb contains
@@ -1420,8 +1405,6 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 ## What Tyverb looks like and contents of the pack
 
 Tyverb film-coated tablets are oval, biconvex, yellow film-coated, with 'GS XJG' marked on one side .
-
-<div style=\"page-break-after: always\"></div>
 
 Tyverb is supplied in either blisters packs or bottles:
 
@@ -1445,33 +1428,25 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 Glaxo Wellcome S.A. Avenida de Extremadura 3 09400 Aranda de Duero Burgos Spain
 
-Novartis Pharma GmbH Roonstraße 25 D-90429 Nuremberg Germany
-
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
 Novartis Pharmaceuticals S.R.L. Str. Livezeni nr. 7A 540472 Targu Mures Romania
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
+<div style=\"page-break-after: always\"></div>
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+Novartis Pharma N.V.
 
-Lietuva
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
-
-<div style=\"page-break-after: always\"></div>
+Tél/Tel: +32 2 246 16 11
 
 ## България
 
-Novartis Bulgaria EOOD
-
-Тел:
-
-+359 2 489 98 28
+Novartis Bulgaria EOOD Тел: +359 2 489 98 28
 
 ## Česká republika
 
@@ -1483,7 +1458,9 @@ Novartis Healthcare A/S Tlf: +45 39 16 84 00
 
 ## Deutschland
 
-Novartis Pharma GmbH Tel: +49 911 273 0
+Novartis Pharma GmbH
+
+Tel: +49 911 273 0
 
 ## Eesti
 
@@ -1515,15 +1492,13 @@ Vistor hf. Sími: +354 535 7000
 
 ## Italia
 
-Novartis Farma S.p.A. Tel: +39 02 96 54 1
+Novartis Farma S.p.A.
 
-## Κύπρος
+Tel: +39 02 96 54 1
 
-Novartis Pharma Services Inc. Τηλ: +357 22 690 690
+## Lietuva
 
-## Latvija
-
-SIA Novartis Baltics Tel: +371 67 887 070
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## Luxembourg/Luxemburg
 
@@ -1531,7 +1506,9 @@ Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## Magyarország
 
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
 
 ## Malta
 
@@ -1573,12 +1550,26 @@ Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
 
 Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
 
-## Sverige
-
-Novartis Sverige AB Tel: +46 8 732 32 00
-
 <div style=\"page-break-after: always\"></div>
+
+## Κύπρος
+
+Novartis Pharma Services Inc.
+
+Τηλ: +357 22 690 690
+
+## Latvija
+
+SIA Novartis Baltics
+
+Tel: +371 67 887 070
 
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00

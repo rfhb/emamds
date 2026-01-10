@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 09:37:04
+document_datetime: 2026-01-07 17:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zercepac.html
 document_name: zercepac.html
 version: success
-processing_time: 0.1115176
-conversion_datetime: 2025-12-30 10:05:00.596737
+processing_time: 0.1096188
+conversion_datetime: 2026-01-10 11:06:55.801791
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -120,7 +120,7 @@ English (EN) (116.74 KB - PDF)
 
 [View](/en/documents/overview/zercepac-epar-medicine-overview_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-748)
+[Other languages (21)](#file-language-dropdown-125)
 
 български (BG) (173.4 KB - PDF)
 
@@ -312,7 +312,7 @@ English (EN) (695.64 KB - PDF)
 
 [View](/en/documents/product-information/zercepac-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-671)
+[Other languages (24)](#file-language-dropdown-82)
 
 български (BG) (877.8 KB - PDF)
 
@@ -628,7 +628,7 @@ English (EN) (50.98 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zercepac-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-535)
+[Other languages (24)](#file-language-dropdown-89)
 
 български (BG) (59.28 KB - PDF)
 
@@ -979,7 +979,7 @@ Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a
 
-Opinion adopted 28/05/2020 Marketing authorisation issued 27/07/2020 Revision 12
+Opinion adopted 28/05/2020 Marketing authorisation issued 27/07/2020 Revision 13
 
 ## Assessment history
 
@@ -989,15 +989,15 @@ Collapse section
 
 ## Changes since initial authorisation of medicine
 
-Zercepac : EPAR - Procedural steps taken and scientific information after authorisation
+Zercepac : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-English (EN) (142.27 KB - PDF)
+English (EN) (193.61 KB - PDF)
 
 **First published:** 26/11/2020
 
-**Last updated:** 30/09/2024
+**Last updated:** 07/01/2026
 
-[View](/en/documents/procedural-steps-after/zercepac-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/zercepac-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -1034,7 +1034,7 @@ English (EN) (178.71 KB - PDF)
 - [Biosimilars](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A45)
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 30/09/2024
+**This page was last updated on** 07/01/2026
 
 ## Share this page
 

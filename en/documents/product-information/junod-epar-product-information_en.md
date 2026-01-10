@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-09-03 10:22:31
+document_datetime: 2026-01-07 16:04:15
 document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/junod-epar-product-information_en.pdf
 document_name: junod-epar-product-information_en.pdf
 version: success
-processing_time: 7.3385536
-conversion_datetime: 2025-12-28 09:55:00.333534
+processing_time: 7.743315
+conversion_datetime: 2026-01-10 11:03:06.846395
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -167,6 +167,10 @@ Atypical femoral fractures may occur with little or no trauma in the subtrochant
 
 Long-term antiresorptive treatment (including both denosumab and bisphosphonates) may contribute to an increased risk for adverse outcomes such as osteonecrosis of the jaw and atypical femur fractures due to significant suppression of bone remodelling (see section 4.2).
 
+## Treatment discontinuation
+
+Following denosumab discontinuation, decrease in bone mineral density (BMD) is expected (see section 5.1), leading to an increased risk for fractures. Thus, monitoring of BMD is recommended, and alternative treatment should be considered according to clinical guidelines.
+
 ## Concomitant treatment with other denosumab-containing medicinal products
 
 Patients being treated with denosumab should not be treated concomitantly with other denosumabcontaining medicinal products (for prevention of skeletal related events in adults with bone metastases from solid tumours).
@@ -181,17 +185,17 @@ Junod should not be used in paediatric patients (age &lt; 18). Serious hypercalc
 
 This medicinal product contains 46 mg sorbitol in each mL of solution. The additive effect of concomitantly administered products containing sorbitol (or fructose) and dietary intake of sorbitol (or fructose) should be taken into account.
 
-This medicinal product contains 0.1 mg of polysorbate 20 in each 1 mL. Polysorbates may cause allergic reactions. Tell your doctor if you have or your child has any known allergies.
-
-This medicinal product contains less than 1 mmol sodium (23 mg) per mL that is to say essentially 'sodium-free'.
+This medicinal product contains 0.1 mg of polysorbate 20 in each 1 mL. Polysorbates may cause allergic reactions. Tell your doctor if you have or your child has any known allergies. This medicinal product contains less than 1 mmol sodium (23 mg) per mL that is to say essentially 'sodium-free'.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-In an interaction study, denosumab did not affect the pharmacokinetics of midazolam, which is metabolised by cytochrome P450 3A4 (CYP3A4). This indicates that denosumab should not alter the pharmacokinetics of medicinal products metabolised by CYP3A4.
-
-There are no clinical data on the co-administration of denosumab and hormone replacement therapy (oestrogen), however, the potential for a pharmacodynamic interaction is considered to be low.
+In an interaction study, denosumab did not affect the pharmacokinetics of midazolam, which is
 
 <div style=\"page-break-after: always\"></div>
+
+metabolised by cytochrome P450 3A4 (CYP3A4). This indicates that denosumab should not alter the pharmacokinetics of medicinal products metabolised by CYP3A4.
+
+There are no clinical data on the co-administration of denosumab and hormone replacement therapy (oestrogen), however, the potential for a pharmacodynamic interaction is considered to be low.
 
 In post-menopausal women with osteoporosis, the pharmacokinetics and pharmacodynamics of denosumab were not altered by previous alendronate therapy, based on data from a transition study (alendronate to denosumab).
 
@@ -223,13 +227,13 @@ The most common side effects with denosumab (seen in more than 1 patient in 10) 
 
 ## Tabulated list of adverse reactions
 
-The data in Table 1 below describe adverse reactions reported from phase II and III clinical trials in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation; and/or spontaneous reporting.
-
-The following convention has been used for the classification of the adverse reactions (see Table 1): very common (≥ 1/10), common (≥ 1/100 to &lt; /10), uncommon (≥ 1/1 000 to &lt; 1/100), rare
+The data in Table 1 below describe adverse reactions reported from phase II and III clinical trials in
 
 <div style=\"page-break-after: always\"></div>
 
-(≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (frequency cannot be estimated from the available data). Within each frequency grouping and system organ class, adverse reactions are presented in order of decreasing seriousness.
+patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation; and/or spontaneous reporting.
+
+The following convention has been used for the classification of the adverse reactions (see Table 1): very common (≥ 1/10), common (≥ 1/100 to &lt; /10), uncommon (≥ 1/1 000 to &lt; 1/100), rare (≥ 1/10 000 to &lt; 1/1 000), very rare (&lt; 1/10 000) and not known (frequency cannot be estimated from the available data). Within each frequency grouping and system organ class, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1 Adverse reactions reported in patients with osteoporosis and breast or prostate cancer patients receiving hormone ablation
 
@@ -251,11 +255,11 @@ In a pooled analysis of data from all phase II and phase III placebo-controlled 
 
 In two phase III placebo-controlled clinical trials in postmenopausal women with osteoporosis, approximately 0.05% (2 out of 4 050) of patients had declines of serum calcium levels (less than 1.88 mmol/L) following denosumab administration. Declines of serum calcium levels (less than 1.88 mmol/L) were not reported in either the two phase III placebo-controlled clinical trials in patients receiving hormone ablation or the phase III placebo-controlled clinical trial in men with osteoporosis.
 
-In the post-marketing setting, rare cases of severe symptomatic hypocalcaemia resulting in hospitalisation, life-threatening events, and fatal cases have been reported predominantly in patients at increased risk of hypocalcaemia receiving denosumab, with most cases occurring in the first weeks of initiating therapy. Examples of the clinical manifestations of severe symptomatic hypocalcaemia have included QT interval prolongation, tetany, seizures and altered mental status (see section 4.4). Symptoms of hypocalcaemia in denosumab clinical studies included paraesthesias or muscle stiffness,
+In the post-marketing setting, rare cases of severe symptomatic hypocalcaemia resulting in
 
 <div style=\"page-break-after: always\"></div>
 
-twitching, spasms and muscle cramps.
+hospitalisation, life-threatening events, and fatal cases have been reported predominantly in patients at increased risk of hypocalcaemia receiving denosumab, with most cases occurring in the first weeks of initiating therapy. Examples of the clinical manifestations of severe symptomatic hypocalcaemia have included QT interval prolongation, tetany, seizures and altered mental status (see section 4.4). Symptoms of hypocalcaemia in denosumab clinical studies included paraesthesias or muscle stiffness, twitching, spasms and muscle cramps.
 
 ## Skin infections
 
@@ -285,13 +289,13 @@ Musculoskeletal pain, including severe cases, has been reported in patients rece
 
 ## Lichenoid drug eruptions
 
+<div style=\"page-break-after: always\"></div>
+
 Lichenoid drug eruptions (e.g., lichen planus-like reactions) have been reported in patients in the postmarketing setting.
 
 ## Other special populations
 
 ## Paediatric population
-
-<div style=\"page-break-after: always\"></div>
 
 Junod should not be used in paediatric patients (age &lt; 18). Serious hypercalcaemia has been reported (see section 5.1). Some clinical trial cases were complicated by acute renal injury.
 
@@ -313,7 +317,7 @@ There is no experience with overdose in clinical studies. Denosumab has been adm
 
 Pharmacotherapeutic group: Drugs for treatment of bone diseases; Other drugs affecting bone structure and mineralisation, ATC code: M05BX04
 
-Junod is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Junod is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 ## Mechanism of action
 
@@ -321,15 +325,17 @@ Denosumab is a human monoclonal antibody (IgG2) that targets and binds with high
 
 ## Pharmacodynamic effects
 
-Denosumab treatment rapidly reduced the rate of bone turnover, reaching a nadir for the bone resorption marker serum type 1 C-telopeptides (CTX) (85% reduction) by 3 days, with reductions maintained over the dosing interval. At the end of each dosing interval, CTX reductions were partially attenuated from maximal reduction of ≥ 87% to approximately ≥ 45% (range 45-80%), reflecting the reversibility of denosumab's effects on bone remodelling once serum levels diminish. These effects were sustained with continued treatment. Bone turnover markers generally reached pre-treatment levels within 9 months after the last dose. Upon re-initiation, reductions in CTX by denosumab were similar to those observed in patients initiating primary denosumab treatment.
-
-## Immunogenicity
-
-Anti-denosumab antibodies may develop during denosumab treatment. No apparent correlation of
+Denosumab treatment rapidly reduced the rate of bone turnover, reaching a nadir for the bone resorption marker serum type 1 C-telopeptides (CTX) (85% reduction) by 3 days, with reductions maintained over the dosing interval. At the end of each dosing interval, CTX reductions were partially attenuated from maximal reduction of ≥ 87% to approximately ≥ 45% (range 45-80%), reflecting the reversibility of denosumab's effects on bone remodelling once serum levels diminish. These effects were sustained with continued treatment. Bone turnover markers generally reached pre-treatment levels within 9 months after the last dose. Upon re-initiation, reductions in CTX by denosumab were
 
 <div style=\"page-break-after: always\"></div>
 
-antibody development with pharmacokinetics, clinical response or adverse event has been observed. Clinical efficacy and safety in post-menopausal women with osteoporosis
+similar to those observed in patients initiating primary denosumab treatment.
+
+## Immunogenicity
+
+Anti-denosumab antibodies may develop during denosumab treatment. No apparent correlation of antibody development with pharmacokinetics, clinical response or adverse event has been observed.
+
+## Clinical efficacy and safety in post-menopausal women with osteoporosis
 
 Efficacy and safety of denosumab administered once every 6 months for 3 years were investigated in post-menopausal women (7 808 women aged 60-91 years, of which 23.6% had prevalent vertebral fractures) with baseline bone mineral density (BMD) T-scores at the lumbar spine or total hip between -2.5 and -4.0 and a mean absolute 10-year fracture probability of 18.60% (deciles: 7.9-32.4%) for major osteoporotic fracture and 7.22% (deciles: 1.4-14.9%) for hip fracture. Women with other diseases or on therapies that may affect bone were excluded from this study. Women received calcium (at least 1 000 mg) and vitamin D (at least 400 IU) supplementation daily.
 
@@ -339,12 +345,14 @@ Denosumab significantly reduced the risk of new vertebral fractures at 1, 2 and 
 
 Table 2 The effect of denosumab on the risk of new vertebral fractures
 
-|           | Proportion of women with fracture (%)   | Proportion of women with fracture (%)   | Absolute risk reduction (%)   | Relative risk          |
-|-----------|-----------------------------------------|-----------------------------------------|-------------------------------|------------------------|
-|           | Placebo n = 3 906                       | Denosumab n = 3 902                     | (95% CI)                      | reduction (%) (95% CI) |
-| 0-1 year  | 2.2                                     | 0.9                                     | 1.4 (0.8, 1.9)                | 61 (42, 74) **         |
-| 0-2 years | 5.0                                     | 1.4                                     | 3.5 (2.7, 4.3)                | 71 (61, 79) **         |
-| 0-3 years | 7.2                                     | 2.3                                     | 4.8 (3.9, 5.8)                | 68 (59, 74) *          |
+|           | Proportion of women with fracture (%)   | Proportion of women with fracture (%)   | Absolute risk reduction (%)   | Relative risk reduction   |
+|-----------|-----------------------------------------|-----------------------------------------|-------------------------------|---------------------------|
+|           | Placebo n = 3 906                       | Denosumab n = 3 902                     | (95% CI)                      | (%) (95% CI)              |
+| 0-1 year  | 2.2                                     | 0.9                                     | 1.4 (0.8, 1.9)                | 61 (42, 74) **            |
+| 0-2 years | 5.0                                     | 1.4                                     | 3.5 (2.7, 4.3)                | 71 (61, 79) **            |
+| 0-3 years | 7.2                                     | 2.3                                     | 4.8 (3.9, 5.8)                | 68 (59, 74) *             |
+
+* p &lt; 0.0001, ** p &lt; 0.0001 - exploratory analysis
 
 ## Effect on hip fractures
 
@@ -368,6 +376,16 @@ Table 3 The effect of denosumab on the risk of clinical fractures over 3 years
 | Major osteoporotic fracture 4  | 8.0                                       | 5.3                                       | 2.7 (1.6, 3.9)                         | 35 (22, 45) ***               |
 
 <div style=\"page-break-after: always\"></div>
+
++ Event rates based on Kaplan-Meier estimates at 3 years.
+
+1 Includes clinical vertebral fractures and non-vertebral fractures.
+
+2 Excludes those of the vertebrae, skull, facial, mandible, metacarpus, and finger and toe phalanges.
+
+3 Includes pelvis, distal femur, proximal tibia, ribs, proximal humerus, forearm, and hip.
+
+4 Includes clinical vertebral, hip, forearm, and humerus fractures, as defined by the WHO.
 
 In women with baseline femoral neck BMD ≤ -2.5, denosumab reduced the risk of non-vertebral fracture (35% relative risk reduction, 4.1% absolute risk reduction, p &lt; 0.001, exploratory analysis).
 
@@ -393,11 +411,13 @@ Thirteen adjudicated cases of osteonecrosis of the jaw (ONJ) and two adjudicated
 
 Efficacy and safety of denosumab once every 6 months for 1 year were investigated in 242 men aged 31-84 years. Subjects with an eGFR &lt; 30 mL/min/1.73 m 2 were excluded from the study. All men received calcium (at least 1 000 mg) and vitamin D (at least 800 IU) supplementation daily.
 
-The primary efficacy variable was percent change in lumbar spine BMD, fracture efficacy was not evaluated. Denosumab significantly increased BMD at all clinical sites measured, relative to placebo at 12 months: 4.8% at lumbar spine, 2.0% at total hip, 2.2% at femoral neck, 2.3% at hip trochanter, and 0.9% at distal 1/3 radius (all p &lt; 0.05). Denosumab increased lumbar spine BMD from baseline in 94.7% of men at 1 year. Significant increases in BMD at lumbar spine, total hip, femoral neck and hip trochanter were observed by 6 months (p &lt; 0.0001).
-
-## Bone histology in post-menopausal women and men with osteoporosis
+The primary efficacy variable was percent change in lumbar spine BMD, fracture efficacy was not evaluated. Denosumab significantly increased BMD at all clinical sites measured, relative to placebo
 
 <div style=\"page-break-after: always\"></div>
+
+at 12 months: 4.8% at lumbar spine, 2.0% at total hip, 2.2% at femoral neck, 2.3% at hip trochanter, and 0.9% at distal 1/3 radius (all p &lt; 0.05). Denosumab increased lumbar spine BMD from baseline in 94.7% of men at 1 year. Significant increases in BMD at lumbar spine, total hip, femoral neck and hip trochanter were observed by 6 months (p &lt; 0.0001).
+
+## Bone histology in post-menopausal women and men with osteoporosis
 
 Bone histology was evaluated in 62 post-menopausal women with osteoporosis or with low bone mass who were either naïve to osteoporosis therapies or had transitioned from previous alendronate therapy following 1-3 years treatment with denosumab. Fifty-nine women participated in the bone biopsy substudy at month 24 (n = 41) and/or month 84 (n = 22) of the extension study in post-menopausal women with osteoporosis. Bone histology was also evaluated in 17 men with osteoporosis following 1 year treatment with denosumab. Bone biopsy results showed bone of normal architecture and quality with no evidence of mineralisation defects, woven bone or marrow fibrosis. Histomorphometry findings in the extension study in post-menopausal women with osteoporosis showed that the antiresorptive effects of denosumab, as measured by activation frequency and bone formation rates, were maintained over time.
 
@@ -419,9 +439,11 @@ The primary efficacy variable was percent change in lumbar spine BMD, fracture e
 
 Efficacy and safety of denosumab were investigated in 795 patients (70% women and 30% men) aged 20 to 94 years treated with ≥ 7.5 mg daily oral prednisone (or equivalent).
 
-Two subpopulations were studied: glucocorticoid-continuing (≥ 7.5 mg daily prednisone or its equivalent for ≥ 3 months prior to study enrolment; n = 505) and glucocorticoid-initiating (≥ 7.5 mg daily prednisone or its equivalent for &lt; 3 months prior to study enrolment; n = 290). Patients were randomised (1:1) to receive either denosumab 60 mg subcutaneously once every 6 months or oral risedronate 5 mg once daily (active control) for 2 years. Patients received calcium (at least 1 000 mg) and vitamin D (at least 800 IU) supplementation daily.
+Two subpopulations were studied: glucocorticoid-continuing (≥ 7.5 mg daily prednisone or its
 
 <div style=\"page-break-after: always\"></div>
+
+equivalent for ≥ 3 months prior to study enrolment; n = 505) and glucocorticoid-initiating (≥ 7.5 mg daily prednisone or its equivalent for &lt; 3 months prior to study enrolment; n = 290). Patients were randomised (1:1) to receive either denosumab 60 mg subcutaneously once every 6 months or oral risedronate 5 mg once daily (active control) for 2 years. Patients received calcium (at least 1 000 mg) and vitamin D (at least 800 IU) supplementation daily.
 
 ## Effect on bone mineral density
 
@@ -443,7 +465,11 @@ In an extension study (n = 75), serious adverse events of hypercalcaemia (18.5%)
 
 The studies were terminated early due to the occurrence of life-threatening events and hospitalisations due to hypercalcaemia (see section 4.2).
 
+In one multicentre, randomised, double-blind, placebo-controlled, parallel-group study conducted in 24 paediatric patients with glucocorticoid-induced osteoporosis, aged 5 to 17 years, evaluating change from baseline in lumbar spine BMD Z-score, safety and effectiveness were not established hence Junod should not be used for this indication.
+
 The European Medicines Agency has waived the obligation to submit the results of studies with the reference medicinal product containing denosumab in all subsets of the paediatric population in the treatment of bone loss associated with sex hormone ablative therapy, and in subsets of the paediatric population below the age of 2 in the treatment of osteoporosis. see section 4.2 for information on paediatric use.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 5.2 Pharmacokinetic properties
 
@@ -452,8 +478,6 @@ The European Medicines Agency has waived the obligation to submit the results of
 Following subcutaneous administration of a 1.0 mg/kg dose, which approximates the approved 60 mg dose, exposure based on AUC was 78% as compared to intravenous administration at the same dose level. For a 60 mg subcutaneous dose, maximum serum denosumab concentrations (Cmax) of 6 mcg/mL (range 1-17 mcg/mL) occurred in 10 days (range 2-28 days).
 
 ## Biotransformation
-
-<div style=\"page-break-after: always\"></div>
 
 Denosumab is composed solely of amino acids and carbohydrates as native immunoglobulin and is unlikely to be eliminated via hepatic metabolic mechanisms. Its metabolism and elimination are expected to follow the immunoglobulin clearance pathways, resulting in degradation to small peptides and individual amino acids.
 
@@ -481,17 +505,17 @@ No specific study in patients with hepatic impairment was performed. In general,
 
 Denosumab should not be used in paediatric populations (see sections 4.2 and 5.1).
 
-In a phase III study of paediatric patients with osteogenesis imperfecta (n = 153), maximum serum denosumab concentrations were observed on day 10 across all age groups. For every 3 months and every 6 months dosing, mean serum denosumab trough concentrations were observed to be higher for children 11 to 17 years of age, while children 2 to 6 years of age had the lowest mean trough concentrations.
+In a phase III study of paediatric patients with osteogenesis imperfecta (n = 153), maximum serum denosumab concentrations were observed on day 10 across all age groups. For every 3 months and
+
+<div style=\"page-break-after: always\"></div>
+
+every 6 months dosing, mean serum denosumab trough concentrations were observed to be higher for children 11 to 17 years of age, while children 2 to 6 years of age had the lowest mean trough concentrations.
 
 ## 5.3 Preclinical safety data
 
 In single and repeated dose toxicity studies in cynomolgus monkeys, denosumab doses resulting in 100 to 150 times greater systemic exposure than the recommended human dose had no impact on cardiovascular physiology, male or female fertility, or produced specific target organ toxicity.
 
-Standard tests to investigate the genotoxicity potential of denosumab have not been evaluated, since
-
-<div style=\"page-break-after: always\"></div>
-
-such tests are not relevant for this molecule. However, due to its character it is unlikely that denosumab has any potential for genotoxicity.
+Standard tests to investigate the genotoxicity potential of denosumab have not been evaluated, since such tests are not relevant for this molecule. However, due to its character it is unlikely that denosumab has any potential for genotoxicity.
 
 The carcinogenic potential of denosumab has not been evaluated in long-term animal studies.
 
@@ -507,15 +531,19 @@ In male mice genetically engineered to express huRANKL (knock-in mice), which we
 
 Knockout mice (see section 4.6) lacking RANK or RANKL exhibited decreased body weight, reduced bone growth and lack of tooth eruption. In neonatal rats, inhibition of RANKL (target of denosumab therapy) with high doses of a construct of osteoprotegerin bound to Fc (OPG-Fc) was associated with inhibition of bone growth and tooth eruption. These changes were partially reversible in this model when dosing with RANKL inhibitors was discontinued. Adolescent primates dosed with denosumab at 27 and 150 times (10 and 50 mg/kg dose) the clinical exposure had abnormal growth plates. Therefore, treatment with denosumab may impair bone growth in children with open growth plates and may inhibit eruption of dentition.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Acetic acid, glacial* Sodium hydroxide (for pH adjustment)* Sorbitol (E420) Polysorbate 20 (E432) Water for injections
+Sodium hydroxide (for pH adjustment)*
+
+Acetic acid, glacial* Sorbitol (E420) Polysorbate 20 (E432)
+
+Water for injections
 
 * Acetate buffer is formed by mixing acetic acid, glacial with sodium hydroxide.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.2 Incompatibilities
 
@@ -529,11 +557,7 @@ Once removed from the refrigerator, Junod may be stored at room temperature (up 
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C - 8 °C).
-
-Do not freeze.
-
-Keep the pre-filled syringe in the outer carton in order to protect from light.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
 ## 6.5 Nature and contents of container and special equipment for use, administration or implantation
 
@@ -550,21 +574,23 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7 MARKETING AUTHORISATION HOLDER
 
-Gedeon Richter Plc. Gyömrői út 19-21. 1103 Budapest Hungary
-
-## 8 MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/25/1933/001
-
-## 9 DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
-
-Date of first authorisation:
+Gedeon Richter Plc. Gyömrői út 19-21. 1103 Budapest
 
 <div style=\"page-break-after: always\"></div>
 
+Hungary
+
+## 8 MARKETING AUTHORISATION NUMBER(S)
+
+## EU/1/25/1933/001
+
+## 9 DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 23 June 2025.
+
 ## 10 DATE OF REVISION OF THE TEXT
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1049,7 +1075,7 @@ Detailed information on this product is also available by scanning the QR code i
 
 ## QR code to be included
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu, and on the website of {name of Member State Agency (link)}.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu, and on the website of {name of Member State Agency (link)}.
 
 <div style=\"page-break-after: always\"></div>
 

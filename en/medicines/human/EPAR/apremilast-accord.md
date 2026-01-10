@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 13:22:55
+document_datetime: 2026-01-07 14:38:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/apremilast-accord.html
 document_name: apremilast-accord.html
 version: success
-processing_time: 0.0986578
-conversion_datetime: 2025-12-30 13:02:42.471547
+processing_time: 0.117352
+conversion_datetime: 2026-01-10 11:38:06.943457
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -106,7 +106,7 @@ English (EN) (197.55 KB - PDF)
 
 [View](/en/documents/overview/apremilast-accord-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-360)
+[Other languages (22)](#file-language-dropdown-107)
 
 български (BG) (191.94 KB - PDF)
 
@@ -296,17 +296,17 @@ English (EN) (2.23 MB - PDF)
 
 Apremilast Accord : EPAR - Product information
 
-English (EN) (643.89 KB - PDF)
+English (EN) (632.34 KB - PDF)
 
 **First published:** 21/05/2024
 
-**Last updated:** 18/07/2025
+**Last updated:** 07/01/2026
 
 [View](/en/documents/product-information/apremilast-accord-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-526)
+[Other languages (24)](#file-language-dropdown-390)
 
-български (BG) (966.71 KB - PDF)
+български (BG) (875 KB - PDF)
 
 **First published:**
 
@@ -314,11 +314,11 @@ English (EN) (643.89 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/bg/documents/product-information/apremilast-accord-epar-product-information_bg.pdf)
 
-español (ES) (909.43 KB - PDF)
+español (ES) (825.37 KB - PDF)
 
 **First published:**
 
@@ -326,11 +326,11 @@ español (ES) (909.43 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/es/documents/product-information/apremilast-accord-epar-product-information_es.pdf)
 
-čeština (CS) (972.44 KB - PDF)
+čeština (CS) (799.57 KB - PDF)
 
 **First published:**
 
@@ -338,11 +338,11 @@ español (ES) (909.43 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/cs/documents/product-information/apremilast-accord-epar-product-information_cs.pdf)
 
-dansk (DA) (867.38 KB - PDF)
+dansk (DA) (779.03 KB - PDF)
 
 **First published:**
 
@@ -350,11 +350,11 @@ dansk (DA) (867.38 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/da/documents/product-information/apremilast-accord-epar-product-information_da.pdf)
 
-Deutsch (DE) (900 KB - PDF)
+Deutsch (DE) (802.16 KB - PDF)
 
 **First published:**
 
@@ -362,11 +362,11 @@ Deutsch (DE) (900 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/de/documents/product-information/apremilast-accord-epar-product-information_de.pdf)
 
-eesti keel (ET) (875.57 KB - PDF)
+eesti keel (ET) (804.96 KB - PDF)
 
 **First published:**
 
@@ -374,11 +374,11 @@ eesti keel (ET) (875.57 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/et/documents/product-information/apremilast-accord-epar-product-information_et.pdf)
 
-ελληνικά (EL) (952.53 KB - PDF)
+ελληνικά (EL) (866.16 KB - PDF)
 
 **First published:**
 
@@ -386,11 +386,11 @@ eesti keel (ET) (875.57 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/el/documents/product-information/apremilast-accord-epar-product-information_el.pdf)
 
-français (FR) (1.48 MB - PDF)
+français (FR) (894.02 KB - PDF)
 
 **First published:**
 
@@ -398,11 +398,11 @@ français (FR) (1.48 MB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/fr/documents/product-information/apremilast-accord-epar-product-information_fr.pdf)
 
-hrvatski (HR) (923.71 KB - PDF)
+hrvatski (HR) (834.79 KB - PDF)
 
 **First published:**
 
@@ -410,11 +410,11 @@ hrvatski (HR) (923.71 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/hr/documents/product-information/apremilast-accord-epar-product-information_hr.pdf)
 
-íslenska (IS) (907.35 KB - PDF)
+íslenska (IS) (775.32 KB - PDF)
 
 **First published:**
 
@@ -422,11 +422,11 @@ hrvatski (HR) (923.71 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/is/documents/product-information/apremilast-accord-epar-product-information_is.pdf)
 
-italiano (IT) (891.65 KB - PDF)
+italiano (IT) (804.98 KB - PDF)
 
 **First published:**
 
@@ -434,11 +434,11 @@ italiano (IT) (891.65 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/it/documents/product-information/apremilast-accord-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (955.98 KB - PDF)
+latviešu valoda (LV) (1.07 MB - PDF)
 
 **First published:**
 
@@ -446,11 +446,11 @@ latviešu valoda (LV) (955.98 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/lv/documents/product-information/apremilast-accord-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (959.44 KB - PDF)
+lietuvių kalba (LT) (853.26 KB - PDF)
 
 **First published:**
 
@@ -458,11 +458,11 @@ lietuvių kalba (LT) (959.44 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/lt/documents/product-information/apremilast-accord-epar-product-information_lt.pdf)
 
-magyar (HU) (936.74 KB - PDF)
+magyar (HU) (835.65 KB - PDF)
 
 **First published:**
 
@@ -470,11 +470,11 @@ magyar (HU) (936.74 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/hu/documents/product-information/apremilast-accord-epar-product-information_hu.pdf)
 
-Malti (MT) (1.01 MB - PDF)
+Malti (MT) (903.45 KB - PDF)
 
 **First published:**
 
@@ -482,11 +482,11 @@ Malti (MT) (1.01 MB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/mt/documents/product-information/apremilast-accord-epar-product-information_mt.pdf)
 
-Nederlands (NL) (991.69 KB - PDF)
+Nederlands (NL) (521.66 KB - PDF)
 
 **First published:**
 
@@ -494,11 +494,11 @@ Nederlands (NL) (991.69 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/nl/documents/product-information/apremilast-accord-epar-product-information_nl.pdf)
 
-norsk (NO) (877.96 KB - PDF)
+norsk (NO) (788.68 KB - PDF)
 
 **First published:**
 
@@ -506,11 +506,11 @@ norsk (NO) (877.96 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/no/documents/product-information/apremilast-accord-epar-product-information_no.pdf)
 
-polski (PL) (1.03 MB - PDF)
+polski (PL) (951.18 KB - PDF)
 
 **First published:**
 
@@ -518,11 +518,11 @@ polski (PL) (1.03 MB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/pl/documents/product-information/apremilast-accord-epar-product-information_pl.pdf)
 
-português (PT) (904.68 KB - PDF)
+português (PT) (807.84 KB - PDF)
 
 **First published:**
 
@@ -530,11 +530,11 @@ português (PT) (904.68 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/pt/documents/product-information/apremilast-accord-epar-product-information_pt.pdf)
 
-română (RO) (978.7 KB - PDF)
+română (RO) (874.3 KB - PDF)
 
 **First published:**
 
@@ -542,11 +542,11 @@ română (RO) (978.7 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/ro/documents/product-information/apremilast-accord-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.1 MB - PDF)
+slovenčina (SK) (979.19 KB - PDF)
 
 **First published:**
 
@@ -554,11 +554,11 @@ slovenčina (SK) (1.1 MB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/sk/documents/product-information/apremilast-accord-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1004.51 KB - PDF)
+slovenščina (SL) (888.49 KB - PDF)
 
 **First published:**
 
@@ -566,11 +566,11 @@ slovenščina (SL) (1004.51 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/sl/documents/product-information/apremilast-accord-epar-product-information_sl.pdf)
 
-Suomi (FI) (884.42 KB - PDF)
+Suomi (FI) (790.21 KB - PDF)
 
 **First published:**
 
@@ -578,11 +578,11 @@ Suomi (FI) (884.42 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/fi/documents/product-information/apremilast-accord-epar-product-information_fi.pdf)
 
-svenska (SV) (878.16 KB - PDF)
+svenska (SV) (782.61 KB - PDF)
 
 **First published:**
 
@@ -590,11 +590,11 @@ svenska (SV) (878.16 KB - PDF)
 
 **Last updated:**
 
-18/07/2025
+07/01/2026
 
 [View](/sv/documents/product-information/apremilast-accord-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0001/G 23/06/2025
+**Latest procedure affecting product information:** N/0000317881 07/01/2026
 
 icon globe
 
@@ -620,7 +620,7 @@ English (EN) (70.09 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/apremilast-accord-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-269)
+[Other languages (24)](#file-language-dropdown-246)
 
 български (BG) (78.44 KB - PDF)
 
@@ -943,7 +943,7 @@ Accord Healthcare S.L.U.
 
 Edificio Este Planta 6a
 
-Opinion adopted 22/02/2024 Marketing authorisation issued 19/04/2024 Revision 1
+Opinion adopted 22/02/2024 Marketing authorisation issued 19/04/2024 Revision 2
 
 ## Assessment history
 
@@ -955,13 +955,21 @@ Collapse section
 
 Apremilast Accord : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (147.72 KB - PDF)
+
+**First published:** 07/01/2026
+
+[View](/en/documents/procedural-steps-after/apremilast-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Apremilast Accord : EPAR - Procedural steps taken and scientific information after authorisation (archived)
+
 English (EN) (121.86 KB - PDF)
 
 **First published:** 10/07/2025
 
 **Last updated:** 18/07/2025
 
-[View](/en/documents/procedural-steps-after/apremilast-accord-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/apremilast-accord-epar-procedural-steps-taken-scientific-information-after-authorisation-archived_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -1005,7 +1013,7 @@ English (EN) (377.3 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/apremilast-accord-epar-product-information-tracked-changes_en.docx)
 
-**This page was last updated on** 18/07/2025
+**This page was last updated on** 07/01/2026
 
 ## Share this page
 

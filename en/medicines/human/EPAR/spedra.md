@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 08:04:03
+document_datetime: 2026-01-06 12:00:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/spedra.html
 document_name: spedra.html
 version: success
-processing_time: 0.1152393
-conversion_datetime: 2025-12-31 04:54:54.522461
+processing_time: 0.1248013
+conversion_datetime: 2026-01-10 11:09:19.50212
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -109,7 +109,7 @@ English (EN) (77.42 KB - PDF)
 
 [View](/en/documents/overview/spedra-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-160)
+[Other languages (22)](#file-language-dropdown-66)
 
 български (BG) (105.18 KB - PDF)
 
@@ -387,17 +387,17 @@ English (EN) (303.69 KB - PDF)
 
 Spedra : EPAR - Product Information
 
-English (EN) (735.12 KB - PDF)
+English (EN) (939.03 KB - PDF)
 
 **First published:** 03/07/2013
 
-**Last updated:** 28/04/2025
+**Last updated:** 06/01/2026
 
 [View](/en/documents/product-information/spedra-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-919)
+[Other languages (24)](#file-language-dropdown-580)
 
-български (BG) (1.03 MB - PDF)
+български (BG) (1.4 MB - PDF)
 
 **First published:**
 
@@ -405,11 +405,11 @@ English (EN) (735.12 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/bg/documents/product-information/spedra-epar-product-information_bg.pdf)
 
-español (ES) (587.52 KB - PDF)
+español (ES) (1.03 MB - PDF)
 
 **First published:**
 
@@ -417,11 +417,11 @@ español (ES) (587.52 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/es/documents/product-information/spedra-epar-product-information_es.pdf)
 
-čeština (CS) (847.81 KB - PDF)
+čeština (CS) (790.26 KB - PDF)
 
 **First published:**
 
@@ -429,11 +429,11 @@ español (ES) (587.52 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/cs/documents/product-information/spedra-epar-product-information_cs.pdf)
 
-dansk (DA) (791.35 KB - PDF)
+dansk (DA) (791.32 KB - PDF)
 
 **First published:**
 
@@ -441,11 +441,11 @@ dansk (DA) (791.35 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/da/documents/product-information/spedra-epar-product-information_da.pdf)
 
-Deutsch (DE) (599.26 KB - PDF)
+Deutsch (DE) (916.03 KB - PDF)
 
 **First published:**
 
@@ -453,11 +453,11 @@ Deutsch (DE) (599.26 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/de/documents/product-information/spedra-epar-product-information_de.pdf)
 
-eesti keel (ET) (747.95 KB - PDF)
+eesti keel (ET) (1007.32 KB - PDF)
 
 **First published:**
 
@@ -465,11 +465,11 @@ eesti keel (ET) (747.95 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/et/documents/product-information/spedra-epar-product-information_et.pdf)
 
-ελληνικά (EL) (832.6 KB - PDF)
+ελληνικά (EL) (1.48 MB - PDF)
 
 **First published:**
 
@@ -477,11 +477,11 @@ eesti keel (ET) (747.95 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/el/documents/product-information/spedra-epar-product-information_el.pdf)
 
-français (FR) (790.79 KB - PDF)
+français (FR) (990.95 KB - PDF)
 
 **First published:**
 
@@ -489,11 +489,11 @@ français (FR) (790.79 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/fr/documents/product-information/spedra-epar-product-information_fr.pdf)
 
-hrvatski (HR) (858.28 KB - PDF)
+hrvatski (HR) (1.19 MB - PDF)
 
 **First published:**
 
@@ -501,11 +501,11 @@ hrvatski (HR) (858.28 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/hr/documents/product-information/spedra-epar-product-information_hr.pdf)
 
-íslenska (IS) (718.27 KB - PDF)
+íslenska (IS) (763.84 KB - PDF)
 
 **First published:**
 
@@ -513,11 +513,11 @@ hrvatski (HR) (858.28 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/is/documents/product-information/spedra-epar-product-information_is.pdf)
 
-italiano (IT) (709.09 KB - PDF)
+italiano (IT) (874.66 KB - PDF)
 
 **First published:**
 
@@ -525,11 +525,11 @@ italiano (IT) (709.09 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/it/documents/product-information/spedra-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (965.55 KB - PDF)
+latviešu valoda (LV) (1.31 MB - PDF)
 
 **First published:**
 
@@ -537,11 +537,11 @@ latviešu valoda (LV) (965.55 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/lv/documents/product-information/spedra-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (421.84 KB - PDF)
+lietuvių kalba (LT) (702.55 KB - PDF)
 
 **First published:**
 
@@ -549,11 +549,11 @@ lietuvių kalba (LT) (421.84 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/lt/documents/product-information/spedra-epar-product-information_lt.pdf)
 
-magyar (HU) (968.17 KB - PDF)
+magyar (HU) (919.55 KB - PDF)
 
 **First published:**
 
@@ -561,11 +561,11 @@ magyar (HU) (968.17 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/hu/documents/product-information/spedra-epar-product-information_hu.pdf)
 
-Malti (MT) (918.21 KB - PDF)
+Malti (MT) (851.61 KB - PDF)
 
 **First published:**
 
@@ -573,11 +573,11 @@ Malti (MT) (918.21 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/mt/documents/product-information/spedra-epar-product-information_mt.pdf)
 
-Nederlands (NL) (544.8 KB - PDF)
+Nederlands (NL) (684.47 KB - PDF)
 
 **First published:**
 
@@ -585,11 +585,11 @@ Nederlands (NL) (544.8 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/nl/documents/product-information/spedra-epar-product-information_nl.pdf)
 
-norsk (NO) (291.97 KB - PDF)
+norsk (NO) (491.59 KB - PDF)
 
 **First published:**
 
@@ -597,11 +597,11 @@ norsk (NO) (291.97 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/no/documents/product-information/spedra-epar-product-information_no.pdf)
 
-polski (PL) (903.37 KB - PDF)
+polski (PL) (1.21 MB - PDF)
 
 **First published:**
 
@@ -609,11 +609,11 @@ polski (PL) (903.37 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/pl/documents/product-information/spedra-epar-product-information_pl.pdf)
 
-português (PT) (971.7 KB - PDF)
+português (PT) (654.22 KB - PDF)
 
 **First published:**
 
@@ -621,11 +621,11 @@ português (PT) (971.7 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/pt/documents/product-information/spedra-epar-product-information_pt.pdf)
 
-română (RO) (777.37 KB - PDF)
+română (RO) (718.86 KB - PDF)
 
 **First published:**
 
@@ -633,11 +633,11 @@ română (RO) (777.37 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/ro/documents/product-information/spedra-epar-product-information_ro.pdf)
 
-slovenčina (SK) (719.93 KB - PDF)
+slovenčina (SK) (999.93 KB - PDF)
 
 **First published:**
 
@@ -645,11 +645,11 @@ slovenčina (SK) (719.93 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/sk/documents/product-information/spedra-epar-product-information_sk.pdf)
 
-slovenščina (SL) (681.68 KB - PDF)
+slovenščina (SL) (945.11 KB - PDF)
 
 **First published:**
 
@@ -657,11 +657,11 @@ slovenščina (SL) (681.68 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/sl/documents/product-information/spedra-epar-product-information_sl.pdf)
 
-Suomi (FI) (848.11 KB - PDF)
+Suomi (FI) (776.72 KB - PDF)
 
 **First published:**
 
@@ -669,11 +669,11 @@ Suomi (FI) (848.11 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/fi/documents/product-information/spedra-epar-product-information_fi.pdf)
 
-svenska (SV) (785.63 KB - PDF)
+svenska (SV) (762.39 KB - PDF)
 
 **First published:**
 
@@ -681,11 +681,11 @@ svenska (SV) (785.63 KB - PDF)
 
 **Last updated:**
 
-28/04/2025
+06/01/2026
 
 [View](/sv/documents/product-information/spedra-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000243987 13/03/2025
+**Latest procedure affecting product information:** VR/0000319544 05/01/2026
 
 icon globe
 
@@ -711,7 +711,7 @@ English (EN) (13.19 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/spedra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-841)
+[Other languages (24)](#file-language-dropdown-997)
 
 български (BG) (89.68 KB - PDF)
 
@@ -1023,7 +1023,7 @@ Menarini International Operations Luxembourg S.A.
 
 1, Avenue de la Gare
 
-Marketing authorisation issued 21/06/2013 Revision 15
+Marketing authorisation issued 21/06/2013 Revision 16
 
 ## Assessment history
 
@@ -1035,9 +1035,11 @@ Collapse section
 
 Spedra : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (158.12 KB - PDF)
+English (EN) (145.97 KB - PDF)
 
 **First published:** 28/04/2025
+
+**Last updated:** 06/01/2026
 
 [View](/en/documents/procedural-steps-after/spedra-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1103,7 +1105,7 @@ English (EN) (76.1 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 28/04/2025
+**This page was last updated on** 06/01/2026
 
 ## Share this page
 

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 11:33:27
+document_datetime: 2026-01-09 13:50:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sovaldi.html
 document_name: sovaldi.html
 version: success
-processing_time: 0.139783
-conversion_datetime: 2025-12-30 02:59:37.601769
+processing_time: 0.1536654
+conversion_datetime: 2026-01-10 11:24:19.066506
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -127,7 +127,7 @@ English (EN) (151.26 KB - PDF)
 
 [View](/en/documents/overview/sovaldi-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-266)
+[Other languages (22)](#file-language-dropdown-272)
 
 български (BG) (177.2 KB - PDF)
 
@@ -393,15 +393,15 @@ svenska (SV) (148.21 KB - PDF)
 
 [View](/sv/documents/overview/sovaldi-epar-medicine-overview_sv.pdf)
 
-Sovaldi : EPAR - Risk-management-plan summary
+Sovaldi : EPAR - Risk-management-plan
 
-English (EN) (94.17 KB - PDF)
+English (EN) (784.93 KB - PDF)
 
 **First published:** 18/02/2019
 
-**Last updated:** 09/02/2023
+**Last updated:** 09/01/2026
 
-[View](/en/documents/rmp-summary/sovaldi-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/sovaldi-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
@@ -415,7 +415,7 @@ English (EN) (933.34 KB - PDF)
 
 [View](/en/documents/product-information/sovaldi-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-558)
+[Other languages (24)](#file-language-dropdown-211)
 
 български (BG) (1.16 MB - PDF)
 
@@ -731,7 +731,7 @@ English (EN) (46.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sovaldi-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-79)
+[Other languages (24)](#file-language-dropdown-509)
 
 български (BG) (59.4 KB - PDF)
 
@@ -1053,7 +1053,7 @@ Gilead Sciences Ireland UC
 
 IDA Business &amp; Technology Park
 
-Opinion adopted 21/11/2013 Marketing authorisation issued 16/01/2014 Revision 28
+Opinion adopted 21/11/2013 Marketing authorisation issued 16/01/2014 Revision 29
 
 ## Assessment history
 
@@ -1065,13 +1065,21 @@ Collapse section
 
 Sovaldi : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (148.42 KB - PDF)
+
+**First published:** 09/01/2026
+
+[View](/en/documents/procedural-steps-after/sovaldi-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Sovaldi : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (256.11 KB - PDF)
 
 **First published:** 26/08/2014
 
-**Last updated:** 09/02/2023
+**Last updated:** 09/01/2026
 
-[View](/en/documents/procedural-steps-after/sovaldi-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/sovaldi-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Sovaldi-H-C-2798-P46-028 : EPAR - Assessment report
 
@@ -1161,7 +1169,7 @@ English (EN) (58.19 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/sovaldi-h-c-2798-a20-0029-epar-scientific-conclusion_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-359)
+[Other languages (22)](#file-language-dropdown-183)
 
 български (BG) (93.44 KB - PDF)
 
@@ -1518,7 +1526,7 @@ English (EN) (63.99 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 27/09/2023
+**This page was last updated on** 09/01/2026
 
 ## Share this page
 

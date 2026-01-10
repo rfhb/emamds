@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 14:16:56
+document_datetime: 2026-01-09 15:31:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/onureg.html
 document_name: onureg.html
 version: success
-processing_time: 0.1075074
-conversion_datetime: 2025-12-30 22:36:36.533025
+processing_time: 0.1137188
+conversion_datetime: 2026-01-10 11:12:14.969062
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -102,7 +102,7 @@ English (EN) (157.14 KB - PDF)
 
 [View](/en/documents/overview/onureg-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-716)
+[Other languages (22)](#file-language-dropdown-881)
 
 български (BG) (152.27 KB - PDF)
 
@@ -292,17 +292,17 @@ English (EN) (157.5 KB - PDF)
 
 Onureg : EPAR - Product information
 
-English (EN) (502.59 KB - PDF)
+English (EN) (786.16 KB - PDF)
 
 **First published:** 28/06/2021
 
-**Last updated:** 20/10/2025
+**Last updated:** 09/01/2026
 
 [View](/en/documents/product-information/onureg-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-677)
+[Other languages (24)](#file-language-dropdown-595)
 
-български (BG) (757.48 KB - PDF)
+български (BG) (837.29 KB - PDF)
 
 **First published:**
 
@@ -310,11 +310,11 @@ English (EN) (502.59 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/bg/documents/product-information/onureg-epar-product-information_bg.pdf)
 
-español (ES) (498.35 KB - PDF)
+español (ES) (505.29 KB - PDF)
 
 **First published:**
 
@@ -322,11 +322,11 @@ español (ES) (498.35 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/es/documents/product-information/onureg-epar-product-information_es.pdf)
 
-čeština (CS) (714.44 KB - PDF)
+čeština (CS) (880.43 KB - PDF)
 
 **First published:**
 
@@ -334,11 +334,11 @@ español (ES) (498.35 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/cs/documents/product-information/onureg-epar-product-information_cs.pdf)
 
-dansk (DA) (517.6 KB - PDF)
+dansk (DA) (522.75 KB - PDF)
 
 **First published:**
 
@@ -346,11 +346,11 @@ dansk (DA) (517.6 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/da/documents/product-information/onureg-epar-product-information_da.pdf)
 
-Deutsch (DE) (511.14 KB - PDF)
+Deutsch (DE) (426.56 KB - PDF)
 
 **First published:**
 
@@ -358,11 +358,11 @@ Deutsch (DE) (511.14 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/de/documents/product-information/onureg-epar-product-information_de.pdf)
 
-eesti keel (ET) (592.04 KB - PDF)
+eesti keel (ET) (787.06 KB - PDF)
 
 **First published:**
 
@@ -370,11 +370,11 @@ eesti keel (ET) (592.04 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/et/documents/product-information/onureg-epar-product-information_et.pdf)
 
-ελληνικά (EL) (664.05 KB - PDF)
+ελληνικά (EL) (855.85 KB - PDF)
 
 **First published:**
 
@@ -382,11 +382,11 @@ eesti keel (ET) (592.04 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/el/documents/product-information/onureg-epar-product-information_el.pdf)
 
-français (FR) (514.91 KB - PDF)
+français (FR) (425.43 KB - PDF)
 
 **First published:**
 
@@ -394,11 +394,11 @@ français (FR) (514.91 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/fr/documents/product-information/onureg-epar-product-information_fr.pdf)
 
-hrvatski (HR) (674.96 KB - PDF)
+hrvatski (HR) (589.43 KB - PDF)
 
 **First published:**
 
@@ -406,11 +406,11 @@ hrvatski (HR) (674.96 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/hr/documents/product-information/onureg-epar-product-information_hr.pdf)
 
-íslenska (IS) (587.26 KB - PDF)
+íslenska (IS) (799.68 KB - PDF)
 
 **First published:**
 
@@ -418,11 +418,11 @@ hrvatski (HR) (674.96 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/is/documents/product-information/onureg-epar-product-information_is.pdf)
 
-italiano (IT) (611.42 KB - PDF)
+italiano (IT) (413.92 KB - PDF)
 
 **First published:**
 
@@ -430,11 +430,11 @@ italiano (IT) (611.42 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/it/documents/product-information/onureg-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (607.85 KB - PDF)
+latviešu valoda (LV) (605.32 KB - PDF)
 
 **First published:**
 
@@ -442,11 +442,11 @@ latviešu valoda (LV) (607.85 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/lv/documents/product-information/onureg-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (724.89 KB - PDF)
+lietuvių kalba (LT) (526.27 KB - PDF)
 
 **First published:**
 
@@ -454,11 +454,11 @@ lietuvių kalba (LT) (724.89 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/lt/documents/product-information/onureg-epar-product-information_lt.pdf)
 
-magyar (HU) (691.29 KB - PDF)
+magyar (HU) (530.14 KB - PDF)
 
 **First published:**
 
@@ -466,11 +466,11 @@ magyar (HU) (691.29 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/hu/documents/product-information/onureg-epar-product-information_hu.pdf)
 
-Malti (MT) (740.66 KB - PDF)
+Malti (MT) (895.45 KB - PDF)
 
 **First published:**
 
@@ -478,11 +478,11 @@ Malti (MT) (740.66 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/mt/documents/product-information/onureg-epar-product-information_mt.pdf)
 
-Nederlands (NL) (611.47 KB - PDF)
+Nederlands (NL) (439.7 KB - PDF)
 
 **First published:**
 
@@ -490,11 +490,11 @@ Nederlands (NL) (611.47 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/nl/documents/product-information/onureg-epar-product-information_nl.pdf)
 
-norsk (NO) (493.28 KB - PDF)
+norsk (NO) (782.08 KB - PDF)
 
 **First published:**
 
@@ -502,11 +502,11 @@ norsk (NO) (493.28 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/no/documents/product-information/onureg-epar-product-information_no.pdf)
 
-polski (PL) (618.88 KB - PDF)
+polski (PL) (626.02 KB - PDF)
 
 **First published:**
 
@@ -514,11 +514,11 @@ polski (PL) (618.88 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/pl/documents/product-information/onureg-epar-product-information_pl.pdf)
 
-português (PT) (511 KB - PDF)
+português (PT) (514.38 KB - PDF)
 
 **First published:**
 
@@ -526,11 +526,11 @@ português (PT) (511 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/pt/documents/product-information/onureg-epar-product-information_pt.pdf)
 
-română (RO) (725.99 KB - PDF)
+română (RO) (873.9 KB - PDF)
 
 **First published:**
 
@@ -538,11 +538,11 @@ română (RO) (725.99 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/ro/documents/product-information/onureg-epar-product-information_ro.pdf)
 
-slovenčina (SK) (692.33 KB - PDF)
+slovenčina (SK) (509.01 KB - PDF)
 
 **First published:**
 
@@ -550,11 +550,11 @@ slovenčina (SK) (692.33 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/sk/documents/product-information/onureg-epar-product-information_sk.pdf)
 
-slovenščina (SL) (676.21 KB - PDF)
+slovenščina (SL) (799.4 KB - PDF)
 
 **First published:**
 
@@ -562,11 +562,11 @@ slovenščina (SL) (676.21 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/sl/documents/product-information/onureg-epar-product-information_sl.pdf)
 
-Suomi (FI) (600.54 KB - PDF)
+Suomi (FI) (753.65 KB - PDF)
 
 **First published:**
 
@@ -574,11 +574,11 @@ Suomi (FI) (600.54 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/fi/documents/product-information/onureg-epar-product-information_fi.pdf)
 
-svenska (SV) (590.77 KB - PDF)
+svenska (SV) (499.57 KB - PDF)
 
 **First published:**
 
@@ -586,11 +586,11 @@ svenska (SV) (590.77 KB - PDF)
 
 **Last updated:**
 
-20/10/2025
+09/01/2026
 
 [View](/sv/documents/product-information/onureg-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000291593 14/10/2025
+**Latest procedure affecting product information:** R/0000289529 08/01/2026
 
 icon globe
 
@@ -614,7 +614,7 @@ English (EN) (40.63 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/onureg-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-115)
+[Other languages (24)](#file-language-dropdown-85)
 
 български (BG) (48.05 KB - PDF)
 
@@ -828,7 +828,7 @@ Bristol-Myers Squibb Pharma EEIG
 
 Plaza 254
 
-Opinion adopted 22/04/2021 Marketing authorisation issued 17/06/2021 Revision 3
+Opinion adopted 22/04/2021 Marketing authorisation issued 17/06/2021 Revision 4
 
 ## Assessment history
 
@@ -840,21 +840,21 @@ Collapse section
 
 Onureg : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (135.67 KB - PDF)
+English (EN) (125.02 KB - PDF)
 
 **First published:** 18/02/2025
 
-**Last updated:** 20/10/2025
+**Last updated:** 09/01/2026
 
 [View](/en/documents/procedural-steps-after/onureg-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Onureg : EPAR - Procedural steps taken and scientific information after the authorisation (archive)
 
-English (EN) (84.5 KB - PDF)
+English (EN) (120.26 KB - PDF)
 
 **First published:** 06/09/2021
 
-**Last updated:** 18/02/2025
+**Last updated:** 09/01/2026
 
 [View](/en/documents/procedural-steps-after/onureg-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
@@ -884,7 +884,7 @@ English (EN) (125.59 KB - PDF)
 
 [View](/en/documents/smop-initial/chmp-summary-positive-opinion-onureg_en.pdf)
 
-**This page was last updated on** 20/10/2025
+**This page was last updated on** 09/01/2026
 
 ## Share this page
 

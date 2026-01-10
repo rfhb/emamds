@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-03-28 11:31:54
+document_datetime: 2026-01-06 09:26:51
 document_pages: 82
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ofev-epar-product-information_en.pdf
 document_name: ofev-epar-product-information_en.pdf
 version: success
-processing_time: 23.6360259
-conversion_datetime: 2025-12-30 00:17:36.224955
+processing_time: 25.6837298
+conversion_datetime: 2026-01-10 11:02:31.305293
 docling_version:
   docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-jobkit: 1.8.1
+  docling: 2.67.0
+  docling-core: 2.58.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -48,7 +48,7 @@ Soft capsule (capsule).
 
 ## Ofev 25 mg soft capsules
 
-Ofev 25 mg soft capsules are orange-coloured, opaque, oval soft-gelatin capsules (approx. 8 x 5 mm) imprinted on one side in black with '25'.
+Ofev 25 mg soft capsules are orange-coloured, opaque, oval soft-gelatin capsules (approx. 8 x 5 mm) marked on one side with '25'.
 
 ## Ofev 100 mg soft capsules
 
@@ -1045,19 +1045,15 @@ Capsule content triglycerides, medium-chain hard fat lecithin (soya) (E322)
 
 Capsule shell gelatin glycerol (85%) titanium dioxide (E171) iron oxide red (E172) iron oxide yellow (E172)
 
-Printing ink (applicable only to Ofev 25 mg soft capsules)
-
-shellac iron oxide black (E172)
-
-propylene glycol (E1520)
-
 ## 6.2 Incompatibilities
 
 Not applicable.
 
 ## 6.3 Shelf life
 
-Ofev 25 mg soft capsules 4 years
+Ofev 25 mg soft capsules
+
+4 years
 
 Ofev 100 and 150 mg soft capsules 3 years
 
@@ -1071,8 +1067,6 @@ Do not store above 25 °C. Store in the original package in order to protect fro
 
 Do not store above 25 °C. Keep the bottle tightly closed in order to protect from moisture.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.5 Nature and contents of container
 
 ## Ofev 25 mg soft capsules
@@ -1080,9 +1074,14 @@ Do not store above 25 °C. Keep the bottle tightly closed in order to protect fr
 Ofev 25 mg soft capsules are available in the following pack-sizes:
 
 - 60 × 1 soft capsules in aluminium/aluminium perforated unit dose blisters
+
 - 60 soft capsules in a HDPE (plastic) bottle with screw cap
+
 - 120 soft capsules in a HDPE (plastic) bottle with screw cap
+
 - 180 soft capsules in a HDPE (plastic) bottle with screw cap
+
+<div style=\"page-break-after: always\"></div>
 
 ## Ofev 100 mg soft capsules
 
@@ -1122,25 +1121,25 @@ EU/1/14/979/011
 
 EU/1/14/979/012
 
-## Ofev 100 mg soft capsules
+Ofev 100 mg soft capsules
 
 EU/1/14/979/001
 
 EU/1/14/979/002
 
-## Ofev 150 mg soft capsules
+Ofev 150 mg soft capsules
 
 EU/1/14/979/003
 
 EU/1/14/979/004
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 15 January 2015
 
 Date of latest renewal: 23 September 2019
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -2069,13 +2068,9 @@ Capsule shell:
 
 Gelatin, glycerol (85%), titanium dioxide (E171), iron oxide red (E172), iron oxide yellow (E172)
 
-Printing ink:
-
-Shellac, iron oxide black (E172), propylene glycol (E1520)
-
 ## What Ofev looks like and contents of the pack
 
-Ofev 25 mg capsules are orange-coloured, opaque, oval soft-gelatin capsules (approx. 8 x 5 mm) imprinted on one side in black with the figure '25'.
+Ofev 25 mg capsules are orange-coloured, opaque, oval soft-gelatin capsules (approx. 8 x 5 mm) marked on one side with the figure '25'.
 
 Four pack-sizes of Ofev 25 mg capsules are available:
 
@@ -2094,9 +2089,7 @@ Boehringer Ingelheim International GmbH Binger Strasse 173 55216 Ingelheim am Rh
 
 Boehringer Ingelheim Pharma GmbH &amp; Co. KG Binger Strasse 173 55216 Ingelheim am Rhein Germany
 
-Boehringer Ingelheim France
-
-100-104 Avenue de France 75013 Paris France
+Boehringer Ingelheim France 100-104 Avenue de France 75013 Paris France
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2148,7 +2141,9 @@ Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
 
 ## Lietuva
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas Tel: +370 5 2595942
+Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas
+
+Tel: +370 5 2595942
 
 ## Luxembourg/Luxemburg
 
@@ -2168,7 +2163,7 @@ Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
 
 ## Norge
 
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
 
 ## Österreich
 
@@ -2681,7 +2676,7 @@ Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
 
 ## Norge
 
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
 
 ## Österreich
 
@@ -2869,7 +2864,8 @@ You must have a pregnancy test done to ensure you are not pregnant before starti
 ## Contraception
 
 - -Women who can become pregnant must use a highly effective method of birth control to prevent pregnancy when they start taking Ofev while they are taking Ofev and for at least 3 months after stopping treatment.
-- -You should discuss the most appropriate methods of contraception for you with your doctor.
+- -
+- You should discuss the most appropriate methods of contraception for you with your doctor.
 - -Vomiting and/or diarrhoea or other gastrointestinal conditions can affect the absorption of oral hormonal contraceptives, such as birth control pills, and may reduce their effectiveness. Therefore, if experiencing these, talk to your doctor to discuss an alternative more appropriate method of contraception.
 - -Tell your doctor or pharmacist immediately if you become pregnant or think you may be pregnant during treatment with Ofev.
 
@@ -3181,7 +3177,9 @@ Boehringer Ingelheim Ireland Ltd. Tel: +353 1 295 9620
 
 ## Lietuva
 
-Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas Tel: +370 5 2595942
+Boehringer Ingelheim RCV GmbH &amp; Co KG Lietuvos filialas
+
+Tel: +370 5 2595942
 
 ## Luxembourg/Luxemburg
 
@@ -3201,7 +3199,7 @@ Boehringer Ingelheim B.V. Tel: +31 (0) 800 22 55 889
 
 ## Norge
 
-Boehringer Ingelheim Danmark Norwegian branch Tlf: +47 66 76 13 00
+Boehringer Ingelheim Danmark A/S NUF Tlf: +47 66 76 13 00
 
 ## Österreich
 

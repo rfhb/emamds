@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 13:56:00
+document_datetime: 2026-01-13 16:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/welireg.html
 document_name: welireg.html
 version: success
-processing_time: 0.096746
-conversion_datetime: 2025-12-30 21:52:37.266177
+processing_time: 0.1162605
+conversion_datetime: 2026-01-14 07:19:47.798681
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 belzutifan Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -124,7 +122,7 @@ English (EN) (127.15 KB - PDF)
 
 [View](/en/documents/overview/welireg-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-445)
+[Other languages (22)](#file-language-dropdown-659)
 
 български (BG) (177.27 KB - PDF)
 
@@ -314,207 +312,305 @@ English (EN) (490.01 KB - PDF)
 
 Welireg : EPAR - Product information
 
-English (EN) (507.91 KB - PDF)
+English (EN) (492.52 KB - PDF)
 
 **First published:** 27/02/2025
 
+**Last updated:** 13/01/2026
+
 [View](/en/documents/product-information/welireg-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-796)
+[Other languages (24)](#file-language-dropdown-155)
 
-български (BG) (494.09 KB - PDF)
+български (BG) (489.82 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/bg/documents/product-information/welireg-epar-product-information_bg.pdf)
 
-español (ES) (560.57 KB - PDF)
+español (ES) (547.68 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/es/documents/product-information/welireg-epar-product-information_es.pdf)
 
-čeština (CS) (527.5 KB - PDF)
+čeština (CS) (513.03 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/cs/documents/product-information/welireg-epar-product-information_cs.pdf)
 
-dansk (DA) (525.75 KB - PDF)
+dansk (DA) (512.32 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/da/documents/product-information/welireg-epar-product-information_da.pdf)
 
-Deutsch (DE) (551.18 KB - PDF)
+Deutsch (DE) (536.07 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/de/documents/product-information/welireg-epar-product-information_de.pdf)
 
-eesti keel (ET) (521.13 KB - PDF)
+eesti keel (ET) (508.48 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/et/documents/product-information/welireg-epar-product-information_et.pdf)
 
-ελληνικά (EL) (512.95 KB - PDF)
+ελληνικά (EL) (500.57 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/el/documents/product-information/welireg-epar-product-information_el.pdf)
 
-français (FR) (564.23 KB - PDF)
+français (FR) (553.46 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/fr/documents/product-information/welireg-epar-product-information_fr.pdf)
 
-hrvatski (HR) (520.08 KB - PDF)
+hrvatski (HR) (507.58 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/hr/documents/product-information/welireg-epar-product-information_hr.pdf)
 
-íslenska (IS) (523.45 KB - PDF)
+íslenska (IS) (511.26 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/is/documents/product-information/welireg-epar-product-information_is.pdf)
 
-italiano (IT) (554.13 KB - PDF)
+italiano (IT) (539.51 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/it/documents/product-information/welireg-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (537.93 KB - PDF)
+latviešu valoda (LV) (524.87 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/lv/documents/product-information/welireg-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (538.12 KB - PDF)
+lietuvių kalba (LT) (525.3 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/lt/documents/product-information/welireg-epar-product-information_lt.pdf)
 
-magyar (HU) (570.79 KB - PDF)
+magyar (HU) (559.31 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/hu/documents/product-information/welireg-epar-product-information_hu.pdf)
 
-Malti (MT) (575.17 KB - PDF)
+Malti (MT) (560.72 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/mt/documents/product-information/welireg-epar-product-information_mt.pdf)
 
-Nederlands (NL) (534.11 KB - PDF)
+Nederlands (NL) (522.68 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/nl/documents/product-information/welireg-epar-product-information_nl.pdf)
 
-norsk (NO) (510.82 KB - PDF)
+norsk (NO) (497.82 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/no/documents/product-information/welireg-epar-product-information_no.pdf)
 
-polski (PL) (523.33 KB - PDF)
+polski (PL) (510.21 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/pl/documents/product-information/welireg-epar-product-information_pl.pdf)
 
-português (PT) (535.76 KB - PDF)
+português (PT) (522.01 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/pt/documents/product-information/welireg-epar-product-information_pt.pdf)
 
-română (RO) (497.59 KB - PDF)
+română (RO) (484.22 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/ro/documents/product-information/welireg-epar-product-information_ro.pdf)
 
-slovenčina (SK) (533.48 KB - PDF)
+slovenčina (SK) (523.55 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/sk/documents/product-information/welireg-epar-product-information_sk.pdf)
 
-slovenščina (SL) (531.18 KB - PDF)
+slovenščina (SL) (517.87 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/sl/documents/product-information/welireg-epar-product-information_sl.pdf)
 
-Suomi (FI) (531.94 KB - PDF)
+Suomi (FI) (519.49 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/fi/documents/product-information/welireg-epar-product-information_fi.pdf)
 
-svenska (SV) (515.75 KB - PDF)
+svenska (SV) (502.99 KB - PDF)
 
 **First published:**
 
 27/02/2025
 
+**Last updated:**
+
+13/01/2026
+
 [View](/sv/documents/product-information/welireg-epar-product-information_sv.pdf)
 
-12/02/2025
+**Latest procedure affecting product information:** R/0000290222 08/01/2026
 
 icon globe
 
@@ -532,147 +628,217 @@ Product information documents contain:
 
 Welireg : EPAR - All authorised presentations
 
-English (EN) (18.94 KB - PDF)
+English (EN) (18.49 KB - PDF)
 
 **First published:** 27/02/2025
 
+**Last updated:** 13/01/2026
+
 [View](/en/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-673)
+[Other languages (24)](#file-language-dropdown-938)
 
-български (BG) (21.37 KB - PDF)
+български (BG) (20.56 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/bg/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_bg.pdf)
 
-español (ES) (15.39 KB - PDF)
+español (ES) (15.06 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/es/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_es.pdf)
 
-čeština (CS) (23.7 KB - PDF)
+čeština (CS) (20.03 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/cs/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_cs.pdf)
 
-dansk (DA) (15.14 KB - PDF)
+dansk (DA) (14.92 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/da/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_da.pdf)
 
-Deutsch (DE) (16.7 KB - PDF)
+Deutsch (DE) (16.27 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/de/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_de.pdf)
 
-eesti keel (ET) (15.94 KB - PDF)
+eesti keel (ET) (15.87 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/et/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_et.pdf)
 
-ελληνικά (EL) (20.97 KB - PDF)
+ελληνικά (EL) (21.12 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/el/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_el.pdf)
 
-français (FR) (18.65 KB - PDF)
+français (FR) (18.25 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/fr/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_fr.pdf)
 
-hrvatski (HR) (22.57 KB - PDF)
+hrvatski (HR) (21.02 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/hr/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_hr.pdf)
 
-íslenska (IS) (15.94 KB - PDF)
+íslenska (IS) (15.58 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/is/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_is.pdf)
 
-italiano (IT) (15.2 KB - PDF)
+italiano (IT) (14.86 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/it/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_it.pdf)
 
-latviešu valoda (LV) (24.36 KB - PDF)
+latviešu valoda (LV) (23.21 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/lv/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_lv.pdf)
 
-lietuvių kalba (LT) (20.8 KB - PDF)
+lietuvių kalba (LT) (20.4 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/lt/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_lt.pdf)
 
-magyar (HU) (22.71 KB - PDF)
+magyar (HU) (22.64 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/hu/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_hu.pdf)
 
-Malti (MT) (22.82 KB - PDF)
+Malti (MT) (22.08 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/mt/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_mt.pdf)
 
-Nederlands (NL) (15.03 KB - PDF)
+Nederlands (NL) (14.96 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/nl/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_nl.pdf)
 
-norsk (NO) (15.46 KB - PDF)
+norsk (NO) (15.03 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/no/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_no.pdf)
 
@@ -682,53 +848,81 @@ polski (PL) (19.61 KB - PDF)
 
 27/02/2025
 
+**Last updated:**
+
+13/01/2026
+
 [View](/pl/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_pl.pdf)
 
-português (PT) (16.03 KB - PDF)
+português (PT) (15.77 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/pt/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_pt.pdf)
 
-română (RO) (21.12 KB - PDF)
+română (RO) (20.77 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/ro/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_ro.pdf)
 
-slovenčina (SK) (22.39 KB - PDF)
+slovenčina (SK) (22.07 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/sk/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_sk.pdf)
 
-slovenščina (SL) (21.98 KB - PDF)
+slovenščina (SL) (21.68 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/sl/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_sl.pdf)
 
-Suomi (FI) (14.71 KB - PDF)
+Suomi (FI) (14.6 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/fi/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_fi.pdf)
 
-svenska (SV) (14.93 KB - PDF)
+svenska (SV) (14.48 KB - PDF)
 
 **First published:**
 
 27/02/2025
+
+**Last updated:**
+
+13/01/2026
 
 [View](/sv/documents/all-authorised-presentations/welireg-epar-all-authorised-presentations_sv.pdf)
 
@@ -773,9 +967,23 @@ Merck Sharp &amp; Dohme B.V.
 
 Waarderweg 39
 
-Opinion adopted 12/12/2024 Marketing authorisation issued 12/02/2025
+Opinion adopted 12/12/2024 Marketing authorisation issued 12/02/2025 Revision 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Welireg : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (144.56 KB - PDF)
+
+**First published:** 13/01/2026
+
+[View](/en/documents/procedural-steps-after/welireg-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -811,7 +1019,7 @@ English (EN) (163.4 KB - PDF)
 
 [First medicine to treat rare genetic disorder causing cysts and tumours](/en/news/first-medicine-treat-rare-genetic-disorder-causing-cysts-tumours) 13/12/2024
 
-**This page was last updated on** 27/02/2025
+**This page was last updated on** 13/01/2026
 
 ## Share this page
 

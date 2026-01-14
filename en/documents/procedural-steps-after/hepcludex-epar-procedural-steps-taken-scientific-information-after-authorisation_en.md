@@ -1,0 +1,100 @@
+---
+document_datetime: 2026-01-12 11:39:50
+document_pages: 8
+document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/hepcludex-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+document_name: hepcludex-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
+version: success
+processing_time: 4.3458214
+conversion_datetime: 2026-01-14 08:28:22.136812
+docling_version:
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
+  docling-ibm-models: 3.10.3
+  docling-parse: 4.7.2
+  python: cpython-313 (3.13.11)
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
+---
+## Hepcludex
+
+Procedural steps taken and scientific information after the authorisation*
+
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
+
+| Application number                    | Scope                                                                | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary                                                                                                   |
+|---------------------------------------|----------------------------------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Variation type II / EMA/VR/0000285774 | C.I HUMAN AND VETERINARY MEDICINAL PRODUCTS - C.I.4 Change(s) in the | 27/11/2025                          |                                             | SmPC and PL                      | Discontinuation of treatment with bulevirtide may lead to reactivation of hepatitis D virus and hepatitis |
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | Summary of Product Characteristics, Labelling or Package Leaflet due to new quality, preclinical, clinical or pharmacovigilance data - Accepted Update of sections 4.4 of the SmPC in order to add information about post treatment hepatitis flares based on postmarketing data and literature. The Package Leaflet is updated accordingly. Furthermore, the Package Leaflet was amended to remind patients that vials, syringes, needles or any remaining sterile water for injection should not be re-used. In addition, the MAH took the opportunity to update the list of local representatives in the Package Leaflet and to implement editorial changes to the PI.   |            |            |      | B virus infections and severe acute exacerbations of hepatitis, especially in patients with cirrhosis who may be at increased risk of more severe flares or progression to hepatic decompensation. In case of treatment discontinuation, careful monitoring of hepatic function with both clinical and laboratory follow-up should be performed for at least 6 months after discontinuation, including monitoring transaminase levels, as well as HBV DNA and HDV RNA viral load. In certain circumstances, resumption of antiviral therapy may be warranted.   |
+|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Variation type IB / EMA/VR/0000302289 | B.I.a.4 Change to in-process tests or limits applied during the manufacture of the active substance - B.I.a.4.z Other variation - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 14/10/2025 | N/A        |      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Variation type IB / EMA/VR/0000293406 | This was an application for a group of variations. B.II.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - B.II.b.3.z Other changes - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                    | 02/09/2025 | 22/09/2025 | SmPC |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | B.II.b.3 Change in the manufacturing process of the finished product, including an intermediate used in the manufacture of the finished product - B.II.b.3.z Other changes - Accepted B.II.f.1.b Extension of the shelf life of the finished product - B.II.f.1.b.1 As packaged for sale (supported by real time data) - Accepted                                                                                                                                                                                                                                                                                                            |            |     |
+|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|
+| Variation type IB / EMA/VR/0000274236 | This was an application for a group of variations. B.I.a.1 Change in the manufacturer of a starting material/reagent/intermediate used in the manufacturing process of the active substance or change in the manufacturer (including where relevant quality control testing sites) of the active substance, where no Ph. Eur. Certificate of Suitability is part of the approved dossier - B.I.a.1.f Changes to quality control testing arrangements for the active substance-replacement or addition of a site where batch control/testing takes place - Accepted B.I.b.1 Change in the specification parameters and/or limits of an active | 16/06/2025 | N/A |
+
+<div style=\"page-break-after: always\"></div>
+
+| reagent used in the manufacturing process of the active substance - B.I.b.1.z Other changes - Accepted B.I.b.1 Change in the specification parameters and/or limits of an active substance, starting material / intermediate / reagent used in the manufacturing process of the active substance - B.I.b.1.z Other changes - Accepted                                                                                                                                                                                                                                                                    |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| B.I.b.1 Change in the specification parameters and/or limits of an active substance, starting material / intermediate / reagent used in the manufacturing process of the active substance - B.I.b.1.z Other changes - Accepted B.I.b.1 Change in the specification parameters and/or limits of an active substance, starting material / intermediate / reagent used in the manufacturing process of the active substance - B.I.b.1.z - To more accurately describe the appearance of active substance, starting material, intermediate or reagent - Accepted B.I.b.2 Change in test procedure for active |
+| substance or starting material/reagent/intermediate used in the manufacturing process of the active                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+
+<div style=\"page-break-after: always\"></div>
+
+| approved test procedure - Accepted B.I.b.2 Change in test procedure for substance or starting   |
+|-------------------------------------------------------------------------------------------------|
+| active                                                                                          |
+| material/reagent/intermediate used in the                                                       |
+| manufacturing process of the active                                                             |
+| substance - B.I.b.2.e Other changes to a test                                                   |
+| procedure (including replacement or                                                             |
+| addition) for the active substance or a                                                         |
+| starting material/intermediate - Accepted                                                       |
+| B.I.b.2 Change in test procedure for active                                                     |
+| substance or starting                                                                           |
+| material/reagent/intermediate used in the                                                       |
+| manufacturing process of the active                                                             |
+| substance - B.I.b.2.e Other changes to a test                                                   |
+| procedure (including replacement or                                                             |
+| addition) for the active substance or a                                                         |
+| starting material/intermediate - Accepted                                                       |
+| B.I.b.2 Change in test procedure for active                                                     |
+| substance or starting                                                                           |
+| material/reagent/intermediate used in the                                                       |
+| manufacturing process of the active                                                             |
+| substance - B.I.b.2.e Other changes to a test                                                   |
+| procedure (including replacement or                                                             |
+| addition) for the active substance or a                                                         |
+| starting material/intermediate - Accepted                                                       |
+| B.I.b.2 Change in test procedure for active                                                     |
+| substance or starting                                                                           |
+| material/reagent/intermediate used in the                                                       |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | manufacturing process of the active substance - B.I.b.2.e Other changes to a test procedure (including replacement or addition) for the active substance or a starting material/intermediate - Accepted B.I.b.1 Change in the specification parameters and/or limits of an active substance, starting material / intermediate / reagent used in the manufacturing process of the active substance - B.I.b.1.z Other changes - Accepted   |            |     |                   |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|-------------------|
+| Variation type IB / EMA/VR/0000273817 | B.I.a.2 Changes in the manufacturing process of the active substance - B.I.a.2.z Other variation - Accepted                                                                                                                                                                                                                                                                                                                              | 04/06/2025 | N/A |                   |
+| Variation type IA /                   | This was an application for a group of variations. A. ADMINISTRATIVE CHANGES - A.7 Deletion of manufacturing sites for an active substance, intermediate or finished product, packaging site, manufacturer responsible for batch release, site where batch control takes place, or supplier of a starting material, reagent or excipient (when mentioned in the dossier)* - Accepted                                                     | 06/04/2025 | N/A | EMA/VR/0000258396 |
+
+<div style=\"page-break-after: always\"></div>
+
+|                                       | substance or starting material/reagent/intermediate used in the manufacturing process of the active substance - B.I.b.2.a Minor changes to an approved test procedure - Accepted B.I.c) Container closure system - B.I.c.z Change of a secondary packaging component of the drug substance (including replacement or addition) - Refused B.II.d.2 Change in test procedure for the finished product - B.II.d.2.a Minor changes to an approved test procedure - Accepted                                          |            |     |
+|---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----|
+| Variation type IB / EMA/VR/0000244626 | This was an application for a group of variations. B.I.b.1 Change in the specification parameters and/or limits of an active substance, starting material / intermediate / reagent used in the manufacturing process of the active substance - B.I.b.1.z Other changes - Accepted B.I.b.1 Change in the specification parameters and/or limits of an active substance, starting material / intermediate / reagent used in the manufacturing process of the active substance - B.I.b.1.z Other changes - Accepted | 06/02/2025 | N/A |
+
+<div style=\"page-break-after: always\"></div>
+
+| B.I.b.1 Change in the specification parameters and/or limits of an active substance, starting material / intermediate / reagent used in the manufacturing process of the active substance - B.I.b.1.z Other changes - Accepted B.I.b.2 Change in test procedure for active substance or starting material/reagent/intermediate used in the manufacturing process of the active substance - B.I.b.2.z Other changes - Accepted B.I.b.2 Change in test procedure for active substance or starting material/reagent/intermediate used in the manufacturing process of the active substance - B.I.b.2.z Other changes - Accepted B.I.b.2 Change in test procedure for active substance or starting material/reagent/intermediate used in the manufacturing process of the active   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

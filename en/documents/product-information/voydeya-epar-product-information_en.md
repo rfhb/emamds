@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-07-08 10:53:31
+document_datetime: 2026-01-13 10:06:29
 document_pages: 43
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/voydeya-epar-product-information_en.pdf
 document_name: voydeya-epar-product-information_en.pdf
 version: success
-processing_time: 12.0878134
-conversion_datetime: 2025-12-19 10:26:49.042644
+processing_time: 11.6433449
+conversion_datetime: 2026-01-14 08:27:16.933287
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -224,13 +224,11 @@ Table 1: Tabulated list of adverse reactions
 | Musculoskeletal and connective tissue disorders      |                            | Pain in extremity            |
 | General disorders and administration site conditions | Pyrexia                    |                              |
 
-a Hepatic enzyme increased includes preferred terms alanine aminotransferase increased, hepatic function abnormal, hepatic enzyme increased, and transaminases increased.
-
 ## Description of selected adverse reactions
 
 ## Hepatic enzyme increase
 
-During the 12-week randomised controlled period of study ALXN2040-PNH-301 laboratory abnormalities related to elevations in ALT levels were observed in 14.0% of patients on danicopan. In danicopan-treated patients, ALT elevations &gt; 3 × the upper limit of normal (ULN) and ≤ 5 × ULN occurred in 8.8% of patients, and &gt; 5 × ULN and ≤ 10 × ULN in 5.3% of patients. All patients were asymptomatic, and all elevations were transient. Some elevations occurred in the context of haemolysis..
+During the 12-week randomised controlled period of study ALXN2040-PNH-301 laboratory abnormalities related to elevations in ALT levels were observed in 14.0% of patients on danicopan. In danicopan-treated patients, ALT elevations &gt; 3 × the upper limit of n ormal (ULN) and ≤ 5 × ULN occurred in 8.8% of patients, and &gt; 5 × ULN and ≤ 10 × ULN in 5.3% of patients. All patients were asymptomatic, and all elevations were transient. Some elevations occurred in the context of haemolysis..
 
 ## Reporting of suspected adverse reactions
 
@@ -311,10 +309,6 @@ Table 2: Analysis of primary and secondary endpoints at week 12 (all randomised 
 | Change in absolute reticulocyte count                                                                   | Change in absolute reticulocyte count                                                                   | Change in absolute reticulocyte count                                                                   |
 | Mean change from baseline to week 12 (10 9 /L)                                                          | -92.5                                                                                                   | -0.8                                                                                                    |
 | Treatment difference* (95% CI)                                                                          | -91.7 (-120.1, -63.4)                                                                                   | -91.7 (-120.1, -63.4)                                                                                   |
-
-* Based on mixed-effect model for repeated measures.
-
-** Difference in rates and associated 95% CI are calculated using Miettinen and Nurminen method adjusting for stratification factors.
 
 Abbreviations: CI = confidence interval; FACIT = Functional Assessment of Chronic Illness Therapy
 
@@ -412,7 +406,7 @@ Not applicable.
 
 ## 6.3 Shelf life
 
-30 months in high-density polyethylene (HDPE) bottle After first opening the bottle: 48 days
+48 months in high-density polyethylene (HDPE) bottle After first opening the bottle: 48 days
 
 2 years in polyvinyl chloride (PVC)/polychlorotrifluoroethylene (PCTFE) / PVC blisters
 

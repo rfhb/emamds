@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-07-23 17:23:12
+document_datetime: 2026-01-13 11:04:54
 document_pages: 77
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/blincyto-epar-product-information_en.pdf
 document_name: blincyto-epar-product-information_en.pdf
 version: success
-processing_time: 42.8703925
-conversion_datetime: 2025-12-31 04:01:54.786777
+processing_time: 42.2582253
+conversion_datetime: 2026-01-14 08:25:37.400912
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)

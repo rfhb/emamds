@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-09-30 17:18:56
+document_datetime: 2026-01-12 12:32:46
 document_pages: 83
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/bosulif-epar-product-information_en.pdf
 document_name: bosulif-epar-product-information_en.pdf
 version: success
-processing_time: 26.2232533
-conversion_datetime: 2025-12-27 21:08:27.741126
+processing_time: 26.2984706
+conversion_datetime: 2026-01-14 08:29:22.485682
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -476,7 +476,7 @@ Table 4 - Adverse reactions for bosutinib
 | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders                                                                                                                         |
 | Very common                                          | Rash u                                                                                                                                                         |
 | Common                                               | Pruritus Acne Urticaria Photosensitivity reaction v                                                                                                            |
-| Uncommon                                             | Drug eruption Exfoliative rash Erythema multiforme                                                                                                             |
+| Uncommon                                             | Drug eruption Exfoliative rash Erythema multiforme Cutaneous vasculitis **                                                                                     |
 | Not known                                            | Stevens-Johnson Syndrome ** , Toxic epidermal necrolysis **                                                                                                    |
 | Musculoskeletal and connective tissue disorders      | Musculoskeletal and connective tissue disorders                                                                                                                |
 | Very common                                          | Arthralgia, Back pain                                                                                                                                          |
@@ -497,10 +497,10 @@ Table 4 - Adverse reactions for bosutinib
 - e Anaemia includes Anaemia, Haemoglobin decreased, Red blood cell count decreased
 - f Neutropenia includes Neutropenia, Neutrophil count decreased
 - g Leukopenia includes Leukopenia, White blood cell count decreased
-- h Hypophosphataemia includes Blood phosphorus decreased, Hypophosphataemia
 
 <div style=\"page-break-after: always\"></div>
 
+- h Hypophosphataemia includes Blood phosphorus decreased, Hypophosphataemia
 - i Hyperkalaemia includes Blood potassium increased, Hyperkalaemia
 - j Cardiac failure includes Cardiac failure, Cardiac failure acute, Cardiac failure chronic, Cardiac failure congestive, Cardiogenic shock, Cardiorenal syndrome, Ejection fraction decreased, Left ventricular failure
 - k Cardiac ischaemic includes Acute coronary syndrome, Acute myocardial infarction, Angina pectoris, Angina unstable, Arteriosclerosis coronary artery, Coronary artery disease, Coronary artery occlusion, Coronary artery stenosis, Myocardial infarction, Myocardial ischaemia, Troponin increased
@@ -536,11 +536,9 @@ The most frequent Grade 3 or Grade 4 adverse reactions reported were thrombocyto
 
 ## Blood and lymphatic system disorders
 
-Blood and lymphatic events in 55 paediatric patients in the BCHILD study include thrombocytopenia in 19 (34.5%) patients, anaemia in 10 patients (18.2%), and neutropenia in 7 patients (12.7%). One
-
 <div style=\"page-break-after: always\"></div>
 
-patient discontinued treatment due to Grade 4 neutropenia. Among patients with blood and lymphatic events, 37.5% were managed with treatment interruption and 16.7% required dose reduction. Among patients with dose interruptions, none had a positive rechallenge when bosutinib was restarted. The median time to first event was 13 days (range: 1 to 757 days) and the median cumulative duration of grade 3/4 events was 16.0 (range: 4 to 47) days.
+Blood and lymphatic events in 55 paediatric patients in the BCHILD study include thrombocytopenia in 19 (34.5%) patients, anaemia in 10 patients (18.2%), and neutropenia in 7 patients (12.7%). One patient discontinued treatment due to Grade 4 neutropenia. Among patients with blood and lymphatic events, 37.5% were managed with treatment interruption and 16.7% required dose reduction. Among patients with dose interruptions, none had a positive rechallenge when bosutinib was restarted. The median time to first event was 13 days (range: 1 to 757 days) and the median cumulative duration of grade 3/4 events was 16.0 (range: 4 to 47) days.
 
 ## Hepatobiliary disorders
 
@@ -564,13 +562,11 @@ Of the 209 (15.2%) adult patients with reports of adverse reactions of neutropen
 
 Of the 472 (34.4%) adult patients with reports of adverse reactions of thrombocytopenia, 42 patients discontinued bosutinib due to thrombocytopenia. Maximum toxicity of Grade 1 occurred in 114 (24.2%) patients, Grade 2 in 88 (18.6%) patients, Grade 3 in 172 (36.4%) patients, and Grade 4 in 98 (20.8%) patients. Among these patients, the median time to first event was 28 days (range: 1 to 1 688 days), and median duration per event was 15 days (range: 1 to 3 921 days).
 
-## Hepatobiliary disorders
-
-Among adult patients with reports of adverse reactions of elevations in either ALT or AST (all grades), the median time of onset observed was 29 days with a range of onset 1 to 3 995 days for ALT
-
 <div style=\"page-break-after: always\"></div>
 
-and AST. The median duration of an event was 17 days (range: 1 to 1 148 days), and 15 days (range: 1 to 803 days) for ALT and AST, respectively.
+## Hepatobiliary disorders
+
+Among adult patients with reports of adverse reactions of elevations in either ALT or AST (all grades), the median time of onset observed was 29 days with a range of onset 1 to 3 995 days for ALT and AST. The median duration of an event was 17 days (range: 1 to 1 148 days), and 15 days (range: 1 to 803 days) for ALT and AST, respectively.
 
 Two cases consistent with drug-induced liver injury (defined as concurrent elevations in ALT or AST ≥ 3 × ULN with total bilirubin &gt; 2 × ULN and with alkaline phosphatase &lt; 2 × ULN) without alternative causes have occurred in 2/1 711 (0.1%) adult subjects treated with bosutinib.
 
@@ -834,9 +830,13 @@ Imatinib:241(0)209(3)
 
 Figure 3 - Cumulative incidence of MR 4.5 (mITT population)
 
-1.0
-
 <!-- image -->
+
+Numberatrisk(Cumulative Events):
+
+| Bosutinib:246（0)218(0)   | 185(16)   | 159(36)   | 138(50)   | 116(64)   | 103(76)   | 89(88)   | 76(98)   |        | 65（108)50（119)   |
+|--------------------------|-----------|-----------|-----------|-----------|-----------|----------|----------|--------|------------------|
+| Imatinib:241(0)210(0)    | 188(8)    | 155(19)   | 128(35)   | 118(42)   | 107(54)   | 86(69)   | ()       | 67(83) | 47(93)           |
 
 In the mITT population, among patients who achieved CCyR, the Kaplan-Meier estimate of maintaining a response at Year 4 was 97.4% (95% CI: 93.9%, 98.9%) and 93.7% (95% CI: 88.9%, 96.5%) in the bosutinib and imatinib groups (HR 0.39 [95% CI: 0.14, 1.13]), respectively. Among patients who achieved MMR, the Kaplan-Meier estimate of maintaining a response at Year 4 was 92.2% (95% CI: 86.8%, 95.4%) and 92.0% (95% CI: 85.9%, 95.5%) in the bosutinib and imatinib groups (HR 1.09 [95% CI: 0.49, 2.44]), respectively.
 
@@ -2307,13 +2307,13 @@ You must immediately contact your doctor if you experience any of those serious 
 - -severe skin disorder (erythema multiforme).
 - -nausea, shortness of breath, irregular heartbeat, muscular cramps, seizure, clouding of urine and tiredness associated with abnormal laboratory test results (high potassium, uric acid and phosphorous levels and low calcium levels in the blood) that can lead to changes in kidney function and acute renal failure (tumour lysis syndrome (TLS)).
 - -respiratory failure.
-
-## Not known (frequency cannot be estimated from the available data):
-
-- -severe skin disorder (Stevens-Johnson syndrome, toxic epidermal necrolysis) that may include painful red or purplish rash that spreads and blisters and/or other lesions that begin to appear in the mucous membrane (e.g., mouth and lips) due to an allergic reaction.
+- -inflammation of blood vessels in the skin which may result in a rash or bruising (cutaneous vasculitis).
 
 <div style=\"page-break-after: always\"></div>
 
+Not known (frequency cannot be estimated from the available data):
+
+- -severe skin disorder (Stevens-Johnson syndrome, toxic epidermal necrolysis) that may include painful red or purplish rash that spreads and blisters and/or other lesions that begin to appear in the mucous membrane (e.g., mouth and lips) due to an allergic reaction.
 - -interstitial lung disease (disorders causing scarring in the lungs): signs include cough, difficulty breathing, painful breathing.
 - -recurrence (reactivation) of hepatitis B infection when you have had hepatitis B in the past (a liver infection).
 
@@ -2358,15 +2358,25 @@ If you get any side effects, talk to your doctor or pharmacist or nurse. This in
 - -Do not use this medicine after the expiry date which is stated on the blister foil and carton after 'EXP'. The expiry date refers to the last day of that month.
 - -This medicine does not require any special storage conditions.
 - -Do not use this medicine if you notice that the pack is damaged or shows signs of tampering.
-- -Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 <div style=\"page-break-after: always\"></div>
+
+- -Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Content of the pack and other information
 
 ## What Bosulif contains
 
-- -The active substance is bosutinib. Bosulif film-coated tablets come in different strengths. Bosulif 100 mg: each film-coated tablet contains 100 mg bosutinib (as monohydrate). Bosulif 400 mg: each film-coated tablet contains 400 mg bosutinib (as monohydrate). Bosulif 500 mg: each film-coated tablet contains 500 mg bosutinib (as monohydrate).
+- -
+
+The active substance is bosutinib. Bosulif film-coated tablets come in different strengths.
+
+Bosulif 100 mg: each film-coated tablet contains 100 mg bosutinib (as monohydrate).
+
+Bosulif 400 mg: each film-coated tablet contains 400 mg bosutinib (as monohydrate).
+
+Bosulif 500 mg: each film-coated tablet contains 500 mg bosutinib (as monohydrate).
+
 - -The other ingredients are: microcrystalline cellulose (E460), croscarmellose sodium (E468), poloxamers 188, povidone (E1201) and magnesium stearate (E470b). The tablet film-coating contains polyvinyl alcohol, titanium dioxide (E171), macrogol 3350, talc (E553b) and iron oxide yellow (E172, for Bosulif 100 mg and 400 mg) or iron oxide red (E172, for Bosulif 400 mg and 500 mg) (see section 2 'Bosulif contains sodium').
 
 ## What Bosulif looks like and contents of the pack
@@ -2393,21 +2403,21 @@ Pfizer Europe MA EEIG Boulevard de la Plaine 17 1050 Bruxelles Belgium
 
 Pfizer Manufacturing Deutschland GmbH Mooswaldallee 1 79108 Freiburg Im Breisgau Germany
 
+<div style=\"page-break-after: always\"></div>
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België / Belgique / Belgien Luxembourg/Luxemburg Pfizer NV/SA Tél/Tel: +32 (0)2 554 62 11
+## België / Belgique / Belgien Luxembourg/Luxemburg
 
-Lietuva
+Pfizer NV/SA
 
-Pfizer Luxembourg SARL filialas Lietuvoje Tel. + 370 52 51 4000
+Tél/Tel: +32 (0)2 554 62 11
 
-България
+## България
 
 Пфайзер Люксембург САРЛ, Клон България
 
 Тел.: +359 2 970 4333
-
-<div style=\"page-break-after: always\"></div>
 
 ## Česká republika
 
@@ -2417,19 +2427,29 @@ Tel: +420 283 004 111
 
 ## Danmark
 
-Pfizer ApS Tlf: +45 44 20 11 00
+Pfizer ApS
+
+Tlf: +45 44 20 11 00
 
 ## Deutschland
 
-PFIZER PHARMA GmbH Tel: +49 (0)30 550055 51000
+PFIZER PHARMA GmbH
+
+Tel: +49 (0)30 550055 51000
 
 ## Eesti
 
-Pfizer Luxembourg SARL Eesti filiaal Tel: +372 666 7500
+Pfizer Luxembourg SARL Eesti filiaal
+
+Tel: +372 666 7500
 
 ## Ελλάδα
 
-Pfizer Ελλάς A.E. Τ  λ: +30 210 6785 800
+Pfizer Ελλάς A.E.
+
+Τ 
+
+λ: +30 210 6785 800
 
 ## España
 
@@ -2445,19 +2465,91 @@ Tél: +33 (0)1 58 07 34 40
 
 ## Hrvatska
 
-Pfizer Croatia d.o.o. Tel: + 385 1 3908 777
+Pfizer Croatia d.o.o.
+
+Tel: + 385 1 3908 777
 
 ## Ireland
 
-Pfizer Healthcare Ireland Unlimited Company Tel: 1800 633 363 (toll free) +44 (0)1304 616161
+Pfizer Healthcare Ireland Unlimited Company
+
+Tel: 1800 633 363 (toll free)
+
++44 (0)1304 616161
 
 ## Ísland
 
-Icepharma hf. Sími: +354 540 8000
+Icepharma hf.
+
+Sími: +354 540 8000
+
+## Lietuva
+
+Pfizer Luxembourg SARL filialas Lietuvoje Tel. + 370 52 51 4000
+
+## Magyarország
+
+Pfizer Kft.
+
+Tel.: +36-1-488-37-00
+
+## Malta
+
+Vivian Corporation Ltd.
+
+Tel: +356 21344610
+
+## Nederland
+
+Pfizer BV
+
+Tel: +31 (0)10 406 43 01
+
+## Norge
+
+Pfizer AS
+
+Tlf: +47 67 52 61 00
+
+## Österreich
+
+Pfizer Corporation Austria Ges.m.b.H. Tel: +43 (0)1 521 15-0
+
+## Polska
+
+Pfizer Polska Sp. z o.o.
+
+Tel:+48 22 335 61 00
+
+## Portugal
+
+Laboratórios Pfizer, Lda.
+
+Tel: +351 21 423 5500
+
+## România
+
+Pfizer Romania S.R.L.
+
+Tel: +40 (0) 21 207 28 00
+
+## Slovenija
+
+Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel.: + 386 (0)1 52 11 400
+
+## Slovenská republika
+
+Pfizer Luxembourg SARL, organizačná zložka
+
+Tel.: + 421 2 3355 5500
+
+<div style=\"page-break-after: always\"></div>
 
 ## Italia
 
-Pfizer S.r.l. Tel: +39 06 33 18 21
+Pfizer S.r.l.
+
+Tel: +39 06 33 18 21
 
 ## Kύπρος
 
@@ -2469,61 +2561,21 @@ Pfizer Luxembourg SARL filiāle Latvijā
 
 Tel.: + 371 670 35 775
 
-## Magyarország
+## This leaflet was last revised in
 
-Pfizer Kft. Tel.: +36-1-488-37-00
-
-## Malta
-
-Vivian Corporation Ltd. Tel: +356 21344610
-
-## Nederland
-
-Pfizer BV Tel: +31 (0)10 406 43 01
-
-## Norge
-
-Pfizer AS Tlf: +47 67 52 61 00
-
-## Österreich
-
-Pfizer Corporation Austria Ges.m.b.H. Tel: +43 (0)1 521 15-0
-
-## Polska
-
-Pfizer Polska Sp. z o.o. Tel:+48 22 335 61 00
-
-## Portugal
-
-Laboratórios Pfizer, Lda. Tel: +351 21 423 5500
-
-## România
-
-Pfizer Romania S.R.L. Tel: +40 (0) 21 207 28 00
-
-## Slovenija
-
-Pfizer Luxembourg SARL Pfizer, podružnica za svetovanje s področja farmacevtske dejavnosti, Ljubljana Tel.: + 386 (0)1 52 11 400
-
-## Slovenská republika
-
-Pfizer Luxembourg SARL, organizačná zložka Tel.: + 421 2 3355 5500
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Suomi/Finland
 
-Pfizer Oy Puh./Tel: +358 (0)9 43 00 40
+Pfizer Oy
+
+Puh./Tel: +358 (0)9 43 00 40
 
 ## Sverige
 
 Pfizer AB
 
 Tel: +46 (0)8 550 520 00
-
-<div style=\"page-break-after: always\"></div>
-
-## This leaflet was last revised in
-
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Package leaflet: Information for the user
 
@@ -2790,14 +2842,15 @@ Common (may affect up to 1 in 10 people):
 - -severe skin disorder (erythema multiforme).
 - -nausea, shortness of breath, irregular heartbeat, muscular cramps, seizure, clouding of urine and tiredness associated with abnormal laboratory test results (high potassium, uric acid and phosphorous levels and low calcium levels in the blood) that can lead to changes in kidney function and acute renal failure (tumour lysis syndrome (TLS)).
 - -respiratory failure.
+- -inflammation of blood vessels in the skin which may result in a rash or bruising (cutaneous vasculitis).
 
-Not known (frequency cannot be estimated from the available data):
+## Not known (frequency cannot be estimated from the available data):
 
 - -severe skin disorder (Stevens-Johnson syndrome, toxic epidermal necrolysis) that may include painful red or purplish rash that spreads and blisters and/or other lesions that begin to appear in the mucous membrane (e.g., mouth and lips) due to an allergic reaction.
 - -interstitial lung disease (disorders causing scarring in the lungs): signs include cough, difficulty breathing, painful breathing.
 - -recurrence (reactivation) of hepatitis B infection when you have had hepatitis B in the past (a liver infection).
 
-Other side effects with Bosulif may include:
+## Other side effects with Bosulif may include:
 
 ## Very common (may affect more than 1 in 10 people):
 
@@ -2814,15 +2867,15 @@ Other side effects with Bosulif may include:
 - -shortness of breath (dyspnoea).
 - -feeling of instability (dizziness).
 
-Common (may affect up to 1 in 10 people):
+## Common (may affect up to 1 in 10 people):
 
 - -stomach irritation (gastritis).
 - -pain.
 - -influenza, bronchitis.
-- -changes in blood test to determine if Bosulif is affecting your heart (blood creatine phosphokinase increased), liver (blood bilirubin increased, gamma-glutamyltransferase (GGT) increased), and/or pancreas (amylase increased).
 
 <div style=\"page-break-after: always\"></div>
 
+- -changes in blood test to determine if Bosulif is affecting your heart (blood creatine phosphokinase increased), liver (blood bilirubin increased, gamma-glutamyltransferase (GGT) increased), and/or pancreas (amylase increased).
 - -low level of phosphorus in the blood (hypophosphataemia), excessive loss of body fluid (dehydration).
 - -pain in the muscles (myalgia).
 - -alteration of the sense of taste (dysgeusia).

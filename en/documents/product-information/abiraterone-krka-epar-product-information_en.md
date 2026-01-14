@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-01-31 09:12:53
+document_datetime: 2026-01-13 15:28:21
 document_pages: 38
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/abiraterone-krka-epar-product-information_en.pdf
 document_name: abiraterone-krka-epar-product-information_en.pdf
 version: success
-processing_time: 11.7472132
-conversion_datetime: 2025-12-23 08:11:35.498049
+processing_time: 11.9280963
+conversion_datetime: 2026-01-14 07:17:34.161334
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -28,7 +28,7 @@ Abiraterone Krka 500 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each film-coated tablet contains 500 mg abiraterone acetate.
+Each film-coated tablet contains 500 mg abiraterone acetate equivalent to 446 mg of abiraterone.
 
 ## Excipient(s) with known effect:
 
@@ -194,7 +194,7 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per dose of two 
 
 ## Effect of food on abiraterone acetate
 
-Administration with food significantly increases the absorption of abiraterone acetate. The efficacy and safety when given with food have not been established therefore this medicinal product must not be taken with food (see sections 4.2 and 5.2) .
+Administration with food significantly increases the absorption of abiraterone. The efficacy and safety when given with food have not been established therefore this medicinal product must not be taken with food (see sections 4.2 and 5.2) .
 
 ## Interactions with other medicinal products
 
@@ -290,14 +290,6 @@ Table 1: Adverse reactions identified in clinical studies and post-marketing
 | Renal and urinary disorders                          | common: haematuria                                                                                                                                                                   |
 | General disorders and administration site conditions | very common: oedema peripheral                                                                                                                                                       |
 | Injury, poisoning and procedural complications       | common: fractures**                                                                                                                                                                  |
-
-*   Cardiac failure also includes congestive heart failure, left ventricular dysfunction and ejection fraction decreased
-
-**  Fractures includes osteoporosis and all fractures with the exception of pathological fractures
-
-a Spontaneous reports from post-marketing experience
-
-b Alanine aminotransferase increased and/or aspartate aminotransferase increased includes ALT increased, AST increased, and hepatic function abnormal.
 
 The following CTCAE (version 4.0) Grade 3 adverse reactions occurred in patients treated with abiraterone acetate: hypokalaemia 5%; urinary tract infection 2%; alanine aminotransferase increased and/or aspartate aminotransferase increased 4%; hypertension 6%; fractures 2%; peripheral oedema, cardiac failure, and atrial fibrillation 1% each. CTCAE (version 4.0) Grade 3 hypertriglyceridaemia and angina pectoris occurred in &lt; 1% of patients. CTCAE (version 4.0) Grade 4 urinary tract infection, alanine aminotransferase increased and/or aspartate aminotransferase increased, hypokalemia, cardiac
 
@@ -446,13 +438,7 @@ Table 4: Study 302: Radiographic progression-free survival of patients treated w
 | p-value*                                       | < 0.0001                        | < 0.0001             |
 | Hazard ratio** (95% CI)                        | 0.425 (0.347; 0.522)            | 0.425 (0.347; 0.522) |
 
-NE = Not estimated
-
-* p-value is derived from a log-rank test stratified by baseline ECOG score (0 or 1)
-
-** Hazard ratio &lt; 1 favours abiraterone acetate
-
-Figure 3: Kaplan Meier curves of radiographic progression-free survival in patients treated with either abiraterone acetate or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy
+Figure 3: Kaplan Meier curves of radiographic progression-free survival in patients treated with either abiraterone acetate or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy 100
 
 18
 
@@ -478,10 +464,6 @@ Table 5: Study 302: Radiographic progression-free survival of patients treated w
 | (95% CI)                                       | (13.80; 16.79)                  | (8.05; 9.43)         |
 | p-value*                                       | < 0.0001                        | < 0.0001             |
 | Hazard ratio** (95% CI)                        | 0.530 (0.451; 0.623)            | 0.530 (0.451; 0.623) |
-
-* p-value is derived from a log-rank test stratified by baseline ECOG score (0 or 1)
-
-** Hazard ratio &lt; 1 favours abiraterone acetate
 
 Figure 4: Kaplan Meier curves of radiographic progression-free survival in patients treated with either abiraterone acetate or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy (at second interim analysis of OS-investigator review) 100-
 
@@ -513,19 +495,9 @@ Table 6: Study 302: Overall survival of patients treated with either abiraterone
 | p-value*                                   | 0.0033                          | 0.0033               |
 | Hazard ratio** (95% CI)                    | 0.806 (0.697; 0.931)            | 0.806 (0.697; 0.931) |
 
-NE = Not Estimated
-
-* p-value is derived from a log-rank test stratified by baseline ECOG score (0 or 1)
-
-** Hazard ratio &lt; 1 favours abiraterone acetate
-
 <div style=\"page-break-after: always\"></div>
 
-Figure 5: Kaplan Meier survival curves of patients treated with either abiraterone acetate or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy, final analysis 100
-
-0
-
-0
+Figure 5: Kaplan Meier survival curves of patients treated with either abiraterone acetate or placebo in combination with prednisone or prednisolone plus LHRH analogues or prior orchiectomy, final analysis
 
 <!-- image -->
 
@@ -645,7 +617,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## 5.2 Pharmacokinetic properties
 
-Following administration of abiraterone acetate, the pharmacokinetics of abiraterone and abiraterone acetate have been studied in healthy subjects, patients with metastatic advanced prostate cancer and subjects without cancer with hepatic or renal impairment. Abiraterone acetate is rapidly converted in vivo to abiraterone, an androgen biosynthesis inhibitor (see section 5.1).
+Following administration of abiraterone acetate, the pharmacokinetics of abiraterone has been studied in healthy subjects, patients with metastatic advanced prostate cancer and subjects without cancer with hepatic or renal impairment. Abiraterone acetate is rapidly converted in vivo to abiraterone, an androgen biosynthesis inhibitor (see section 5.1).
 
 ## Absorption
 
@@ -707,9 +679,11 @@ The active substance, abiraterone, shows an environmental risk for the aquatic e
 
 ## Tablet core:
 
-Lactose monohydrate Hypromellose (E464) Sodium laurilsulfate Croscarmellose sodium (E468) Silicified microcrystalline cellulose Silica colloidal anhydrous Magnesium stearate (E470b)
+Lactose monohydrate Hypromellose (E 464) Sodium laurilsulfate Croscarmellose sodium (E 468) Silicified microcrystalline cellulose Silica colloidal anhydrous Magnesium stearate (E 470b)
 
-Film coating: Macrogol Poly(vinyl alcohol) Talc (E553b) Titanium dioxide (E171) Red iron oxide (E172) Black iron oxide (E172)
+## Film coating:
+
+Macrogol Poly(vinyl alcohol) Talc (E 553b) Titanium dioxide (E 171) Red iron oxide (E 172) Black iron oxide (E 172)
 
 ## 6.2 Incompatibilities
 
@@ -767,13 +741,15 @@ DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 24 June 2021
 
+Date of latest renewal:
+
 10.
 
 DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines
 
-Agency http://www.ema.europa.eu.
+Agency https://www.ema.europa.eu.
 
 23
 
@@ -843,7 +819,7 @@ Abiraterone Krka 500 mg film-coated tablets abiraterone acetate
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each film-coated tablet contains 500 mg abiraterone acetate.
+Each film-coated tablet contains 500 mg abiraterone acetate equivalent to 446 mg of abiraterone.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -855,8 +831,9 @@ See leaflet for further information.
 
 ## film-coated tablet
 
-- 56 film-coated tablets
-- 60 film-coated tablets
+56 film-coated tablets
+
+60 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -920,33 +897,34 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 BLISTER
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Abiraterone Krka 500 mg film-coated tablets
-
-abiraterone acetate
+Abiraterone Krka 500 mg film-coated tablets abiraterone acetate
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 KRKA
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 Calendar pack
-
-<div style=\"page-break-after: always\"></div>
 
 F Mon. Tue. Wed. Thu. Fri. Sat. Sun.
 
@@ -958,9 +936,7 @@ F Mon. Tue. Wed. Thu. Fri. Sat. Sun.
 
 ## Package leaflet: Information for the patient
 
-## Abiraterone Krka 500 mg film-coated tablets
-
-abiraterone acetate
+## Abiraterone Krka 500 mg film-coated tablets abiraterone acetate
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1147,18 +1123,18 @@ Very common (may affect more than 1 in 10 people):
 - -blood in urine,
 - -rash.
 
-Uncommon (may affect up to 1 in 100 people):
+## Uncommon (may affect up to 1 in 100 people):
 
 - -adrenal gland problems (related to salt and water problems),
 - -abnormal heart rhythm (arrhythmia),
 - -muscle weakness and/or muscle pain.
 
-Rare (may affect up to 1 in 1 000 people):
+## Rare (may affect up to 1 in 1 000 people):
 
 - -lung irritation (also called allergic alveolitis),
 - -failure of the liver to function (also called acute liver failure).
 
-Not known (frequency cannot be estimated from the available data):
+## Not known (frequency cannot be estimated from the available data):
 
 - -heart attack, changes in ECG - electrocardiogram (QT prolongation)
 - -serious allergic reactions with difficulty swallowing or breathing, swollen face, lips, tongue or throat, or an itchy rash.
@@ -1187,11 +1163,11 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Abiraterone Krka contains
 
-- -The active substance is abiraterone acetate. Each film-coated tablet contains 500 mg abiraterone acetate.
+- -The active substance is abiraterone acetate. Each film-coated tablet contains 500 mg abiraterone acetate equivalent to 446 mg of abiraterone.
 - -The other ingredients are:
-- Tablet core: lactose monohydrate, hypromellose (E464), sodium laurilsulfate, croscarmellose sodium (E468), silicified microcrystalline cellulose, silica colloidal anhydrous, magnesium stearate (E470b).
+- Tablet core: lactose monohydrate, hypromellose (E 464), sodium laurilsulfate, croscarmellose sodium (E 468), silicified microcrystalline cellulose, silica colloidal anhydrous, magnesium stearate (E 470b).
 
-Film-coating: macrogol, poly(vinyl alcohol), talc (E553b), titanium dioxide (E171), red iron oxide (E172), black iron oxide (E172).
+Film-coating: macrogol, poly(vinyl alcohol), talc (E 553b), titanium dioxide (E 171), red iron oxide (E 172), black iron oxide (E 172).
 
 See section 2 \"Abiraterone Krka contains lactose and sodium\".
 
@@ -1218,11 +1194,7 @@ For any information about this medicine, please contact the local representative
 
 België/Belgique/Belgien KRKA Belgium, SA. Tél/Tel: + 32 (0) 487 50 73 62
 
-Lietuva
-
-UAB KRKA Lietuva
-
-Tel: + 370 5 236 27 40
+Lietuva UAB KRKA Lietuva Tel: + 370 5 236 27 40
 
 България
 
@@ -1234,15 +1206,11 @@ Teл.: + 359 (02) 962 34 50
 
 <div style=\"page-break-after: always\"></div>
 
-## Česká republika
-
-KRKA ČR, s.r.o.
-
-Tel: + 420 (0) 221 115 150
+Česká republika KRKA ČR, s.r.o. Tel: + 420 (0) 221 115 150
 
 ## Danmark
 
-KRKA Sverige AB Tlf: + 46 (0)8 643 67 66 (SE)
+KRKA Sverige AB Tlf.: + 46 (0)8 643 67 66 (SE)
 
 ## Deutschland
 
@@ -1254,7 +1222,7 @@ KRKA, d.d., Novo mesto Eesti filiaal Tel: + 372 (0) 6 671 658
 
 ## Ελλάδα
 
-ΒΙΑΝΕΞ Α.Ε. Τηλ: + 30 210 8009111 - 120
+ΒΙΑΝΕΞ Α.Ε. Τηλ: + 30 210 8009111
 
 ## España
 
@@ -1262,9 +1230,7 @@ KRKA Farmacéutica, S.L. Tel: + 34 911 61 03 80
 
 ## France
 
-KRKA France Eurl
-
-Tél: + 33 (0)1 57 40 82 25
+KRKA France Eurl Tél: + 33 (0)1 57 40 82 25
 
 ## Hrvatska
 
@@ -1286,9 +1252,7 @@ KRKA Farmaceutici Milano S.r.l. Tel: + 39 02 3300 8841
 
 KI.PA. (PHARMACAL) LIMITED Τηλ: + 357 24 651 882
 
-## Latvija
-
-KRKA Latvija SIA Tel: + 371 6 733 86 10
+Latvija KRKA Latvija SIA Tel: + 371 6 733 86 10
 
 ## This leaflet was last revised in
 
@@ -1306,7 +1270,9 @@ E. J. Busuttil Ltd. Tel: + 356 21 445 885
 
 ## Nederland
 
-KRKA Belgium, SA. Tel: + 32 (0) 487 50 73 62 (BE)
+KRKA Belgium, SA.
+
+Tel: + 32 (0) 487 50 73 62 (BE)
 
 ## Norge
 
@@ -1318,7 +1284,9 @@ KRKA Pharma GmbH, Wien Tel: + 43 (0)1 66 24 300
 
 ## Polska
 
-KRKA-POLSKA Sp. z o.o. Tel.: + 48 (0)22 573 7500
+KRKA-POLSKA Sp. z o.o.
+
+Tel.: + 48 (0)22 573 7500
 
 ## Portugal
 
@@ -1330,11 +1298,15 @@ KRKA Romania S.R.L., Bucharest Tel: + 4 021 310 66 05
 
 ## Slovenija
 
-KRKA, d.d., Novo mesto Tel: + 386 (0) 1 47 51 100
+KRKA, d.d., Novo mesto
+
+Tel: + 386 (0) 1 47 51 100
 
 ## Slovenská republika
 
-KRKA Slovensko, s.r.o. Tel: + 421 (0) 2 571 04 501
+KRKA Slovensko, s.r.o.
+
+Tel: + 421 (0) 2 571 04 501
 
 ## Suomi/Finland
 
@@ -1342,10 +1314,8 @@ KRKA Finland Oy Puh/Tel: + 358 20 754 5330
 
 ## Sverige
 
-KRKA Sverige AB
-
-Tel: + 46 (0)8 643 67 66 (SE)
+KRKA Sverige AB Tel: + 46 (0)8 643 67 66 (SE)
 
 <div style=\"page-break-after: always\"></div>
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.

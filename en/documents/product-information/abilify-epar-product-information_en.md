@@ -1,20 +1,20 @@
 ---
-document_datetime: 2023-09-21 21:01:47
+document_datetime: 2026-01-12 12:15:06
 document_pages: 142
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/abilify-epar-product-information_en.pdf
 document_name: abilify-epar-product-information_en.pdf
 version: success
-processing_time: 30.3745454
-conversion_datetime: 2025-12-14 20:41:27.418166
+processing_time: 26.9587002
+conversion_datetime: 2026-01-14 07:21:23.777529
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -37,9 +37,7 @@ Each tablet contains 5 mg of aripiprazole. Excipient with known effect
 
 63.65 mg lactose (as monohydrate) per tablet
 
-ABILIFY 10 mg tablets
-
-Each tablet contains 10 mg of aripiprazole. Excipient with known effect 59.07 mg lactose (as monohydrate) per tablet
+ABILIFY 10 mg tablets Each tablet contains 10 mg of aripiprazole. Excipient with known effect 59.07 mg lactose (as monohydrate) per tablet
 
 ABILIFY 15 mg tablets
 
@@ -63,7 +61,7 @@ Rectangular and blue, engraved with \"A-007\" and \"5\" on one side.
 
 Rectangular and pink, engraved with \"A-008\" and \"10\" on one side.
 
-ABILIFY 15 mg tablets
+## ABILIFY 15 mg tablets
 
 Round and yellow, engraved with \"A-009\" and \"15\" on one side.
 
@@ -177,7 +175,7 @@ In paediatric clinical trials of aripiprazole akathisia and Parkinsonism were ob
 
 ## Neuroleptic Malignant Syndrome (NMS)
 
-NMS is a potentially fatal symptom complex associated with antipsychotics. In clinical trials, rare cases of NMS were reported during treatment with aripiprazole. Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac dysrhythmia). Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure. However, elevated creatine phosphokinase and rhabdomyolysis, not necessarily in association with NMS, have also been reported. If a patient develops signs and symptoms indicative of NMS, or presents with unexplained high fever without additional clinical manifestations of NMS, all antipsychotics, including aripiprazole, must be discontinued.
+NMS is a potentially fatal symptom complex associated with antipsychotics. In clinical trials, rare cases of NMS were reported during treatment with aripiprazole. Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac dysrhythmia). Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure. However, elevated creatine phosphokinase and rhabdomyolysis, not necessarily in association with NMS, have also been reported. If a patient develops signs and symptoms indicative of NMS, or presents with unexplained high fever without additional clinical manifestations of NMS, all antipsychotics, including aripiprazole, must be discontinued (see section 4.8).
 
 ## Seizure
 
@@ -215,13 +213,13 @@ Weight gain is commonly seen in schizophrenic and bipolar mania patients due to 
 
 Oesophageal dysmotility and aspiration have been associated with the use of antipsychotics, including aripiprazole. Aripiprazole should be used cautiously in patients at risk for aspiration pneumonia.
 
-## Pathological gambling and other impulse control disorders
+## Gambling disorder and other impulse control disorders
 
 Patients can experience increased urges, particularly for gambling, and the inability to control these urges while taking aripiprazole. Other urges, reported, include: increased sexual urges, compulsive shopping, binge or compulsive eating, and other impulsive and compulsive behaviours. It is important for prescribers to ask patients or their caregivers specifically about the development of new or
 
 <div style=\"page-break-after: always\"></div>
 
-increased gambling urges, sexual urges, compulsive shopping, binge or compulsive eating, or other urges while being treated with aripiprazole. It should be noted that impulse-control symptoms can be associated with the underlying disorder; however, in some cases, urges were reported to have stopped when the dose was reduced or the medication was discontinued. Impulse control disorders may result in harm to the patient and others if not recognised. Consider dose reduction or stopping the medication if a patient develops such urges while taking aripiprazole (see section 4.8).
+increased gambling urges, sexual urges, compulsive shopping, binge or compulsive eating, or other urges while being treated with aripiprazole. It should be noted that impulse-control symptoms can be associated with the underlying disorder; however, in some cases, urges were reported to have stopped when the dose was reduced or the medicinal product was discontinued. Impulse control disorders may result in harm to the patient and others if not recognised. Consider dose reduction or stopping the medication if a patient develops such urges while taking aripiprazole (see section 4.8).
 
 ## Lactose
 
@@ -239,7 +237,7 @@ Aripiprazole may cause somnolence, postural hypotension, motor and sensory insta
 
 D ue to its α 1-adrenergic receptor antagonism, aripiprazole has the potential to enhance the effect of certain antihypertensive medicinal products.
 
-Given the primary CNS effects of aripiprazole, caution should be used when aripiprazole is administered in combination with alcohol or other CNS medicinal products with overlapping adverse reactions such as sedation (see section 4.8).
+Given the primary central nervous system (CNS) effects of aripiprazole, caution should be used when aripiprazole is administered in combination with alcohol or other CNS medicinal products with overlapping adverse reactions such as sedation (see section 4.8).
 
 If aripiprazole is administered concomitantly with medicinal products known to cause QT prolongation or electrolyte imbalance, caution should be used.
 
@@ -311,7 +309,7 @@ The most commonly reported adverse reactions in placebo-controlled trials were a
 
 The incidences of the Adverse Drug Reactions (ADRs) associated with aripiprazole therapy are tabulated below. The table is based on adverse events reported during clinical trials and/or postmarketing use.
 
-All ADRs are listed by system organ cl ass and frequency; very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+All ADRs are listed by system organ class and frequency; very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥ 1/1,000 to &lt; 1/100), rare (≥ 1/10,000 to &lt; 1/1,000), very rare (&lt; 1/10,000) and not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 The frequency of adverse reactions reported during post-marketing use cannot be determined as they are derived from spontaneous reports. Consequently, the frequency of these adverse events is qualified as \"not known\".
 
@@ -322,19 +320,19 @@ The frequency of adverse reactions reported during post-marketing use cannot be 
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                 | Common                                                                          | Uncommon                                           | Not known                                                                                                                                                                                  |
-|-------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Endocrine disorders                             |                                                                                 | Hyperprolactinaemia Blood prolactin decreased      | Diabetic hyperosmolar coma Diabetic ketoacidosis                                                                                                                                           |
-| Metabolism and nutrition disorders              | Diabetes mellitus                                                               | Hyperglycaemia                                     | Hyponatremia Anorexia                                                                                                                                                                      |
-| Psychiatric disorders                           | Insomnia Anxiety Restlessness                                                   | Depression Hypersexuality                          | Suicide attempt, suicidal ideation and completed suicide (see section 4.4) Pathological gambling Impulse-control disorder Binge eating Compulsive shopping Poriomania Aggression Agitation |
-| Nervous system disorders                        | Akathisia Extrapyramidal disorder Tremor Headache Sedation Somnolence Dizziness | Tardive dyskinesia Dystonia Restless legs syndrome | Neuroleptic Malignant Syndrome Grand mal convulsion Serotonin syndrome Speech disorder                                                                                                     |
-| Eye disorders                                   | Vision blurred                                                                  | Diplopia                                           | Oculogyric crisis                                                                                                                                                                          |
-| Cardiac disorders                               |                                                                                 | Tachycardia                                        | Sudden death unexplained Torsades de pointes Ventricular arrhythmia Cardiac arrest Bradycardia                                                                                             |
-| Vascular disorders                              |                                                                                 | Orthostatic hypotension                            | Venous thromboembolism (including pulmonary embolism and deep vein thrombosis) Hypertension Syncope                                                                                        |
-| Respiratory, thoracic and mediastinal disorders |                                                                                 | Hiccups                                            | Aspiration pneumonia Laryngospasm Oropharyngeal spasm                                                                                                                                      |
-| Gastrointestinal disorders                      | Constipation Dyspepsia Nausea Salivary hypersecretion Vomiting                  |                                                    | Pancreatitis Dysphagia Diarrhoea Abdominal discomfort Stomach discomfort                                                                                                                   |
-| Hepatobiliary disorders                         |                                                                                 |                                                    | Hepatic failure Hepatitis Jaundice                                                                                                                                                         |
-| Skin and subcutaneous tissue disorders          |                                                                                 |                                                    | Rash Photosensitivity reaction Alopecia Hyperhidrosis Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)                                                                        |
+|                                                 | Common                                                                          | Uncommon                                           | Not known                                                                                                                                                                              |
+|-------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Endocrine disorders                             |                                                                                 | Hyperprolactinaemia Blood prolactin decreased      | Diabetic hyperosmolar coma Diabetic ketoacidosis                                                                                                                                       |
+| Metabolism and nutrition disorders              | Diabetes mellitus                                                               | Hyperglycaemia                                     | Hyponatremia Anorexia                                                                                                                                                                  |
+| Psychiatric disorders                           | Insomnia Anxiety Restlessness                                                   | Depression Hypersexuality                          | Suicide attempt, suicidal ideation and completed suicide (see section 4.4) Gambling disorder Impulse-control disorder Binge eating Compulsive shopping Poriomania Aggression Agitation |
+| Nervous system disorders                        | Akathisia Extrapyramidal disorder Tremor Headache Sedation Somnolence Dizziness | Tardive dyskinesia Dystonia Restless legs syndrome | Neuroleptic Malignant Syndrome Grand mal convulsion Serotonin syndrome Speech disorder                                                                                                 |
+| Eye disorders                                   | Vision blurred                                                                  | Diplopia                                           | Oculogyric crisis                                                                                                                                                                      |
+| Cardiac disorders                               |                                                                                 | Tachycardia                                        | Sudden death unexplained Torsades de pointes Ventricular arrhythmia Cardiac arrest Bradycardia                                                                                         |
+| Vascular disorders                              |                                                                                 | Orthostatic hypotension                            | Venous thromboembolism (including pulmonary embolism and deep vein thrombosis) Hypertension Syncope                                                                                    |
+| Respiratory, thoracic and mediastinal disorders |                                                                                 | Hiccups                                            | Aspiration pneumonia Laryngospasm Oropharyngeal spasm                                                                                                                                  |
+| Gastrointestinal disorders                      | Constipation Dyspepsia Nausea Salivary hypersecretion Vomiting                  |                                                    | Pancreatitis Dysphagia Diarrhoea Abdominal discomfort Stomach discomfort                                                                                                               |
+| Hepatobiliary disorders                         |                                                                                 |                                                    | Hepatic failure Hepatitis Jaundice                                                                                                                                                     |
+| Skin and subcutaneous tissue disorders          |                                                                                 |                                                    | Rash Photosensitivity reaction Alopecia Hyperhidrosis Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS)                                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -383,11 +381,13 @@ Comparisons between aripiprazole and placebo in the proportions of patients expe
 
 In a short-term placebo-controlled clinical trial involving 302 adolescents (13 to 17 years) with schizophrenia, the frequency and type of adverse reactions were similar to those in adults except for the following reactions that were reported more frequently in adolescents receiving aripiprazole than in adults receiving aripiprazole (and more frequently than placebo):
 
-Somnolen ce/sedation and extrapyramidal disorder were reported very commonly (≥ 1/10), and dry mouth, increased appetite, and orthostatic hypotension were reported commonly (≥ 1/100, &lt; 1/10). The safety profile in a 26-week open-label extension trial was similar to that observed in the shortterm, placebo-controlled trial.
+Somnolence/sedation and extrapyramidal disorder were reported very commonly (≥ 1/10), and dry mouth, increased appetite, and orthostatic hypotension were reported commonly (≥ 1/100, &lt; 1/10). The safety profile in a 26-week open-label extension trial was similar to that observed in the shortterm, placebo-controlled trial.
 
 The safety profile of a long-term, double-blind, placebo-controlled trial was also similar except for the following reactions that were reported more frequently than paediatric patients taking placebo: weight decreased, blood insulin increased, arrhythmia, and leukopenia were reported commonly (≥ 1/100, &lt; 1/10).
 
-In the pooled adolescent schizophrenia population (13 to 17 years) with exposure up to 2 years, incidence of low serum prolactin levels in females (&lt; 3 ng/mL) and males (&lt; 2 ng/mL) was 29.5 % and 48.3 %, respectively. In the adolescent (13 to 17 years) schizophrenia population with aripiprazole exposure of 5 mg to 30 mg up to 72 months, incidence of low serum prolactin levels in females (&lt; 3 ng/mL) and males (&lt; 2 ng/mL) was 25.6 % and 45.0 %, respectively. In two long-term trials with adolescent (13 to 17 years) schizophrenia and bipolar patients treated with aripiprazole, incidence of low serum prolactin levels in females (&lt; 3 ng/mL) and males (&lt; 2 ng/mL) was 37.0 % and 59.4 %, respectively.
+In the pooled adolescent schizophrenia population (13 to 17 years) with exposure up to 2 years, incidence of low serum prolactin levels in females (&lt; 3 ng/mL) and males (&lt; 2 ng/mL) was 29.5 % and 48.3 %, respectively. In the adolescent (13 to 17 years) schizophrenia population with aripiprazole exposure of 5 mg to 30 mg up to 72 months, incidence of low serum prolactin levels in females (&lt; 3 ng/mL) and males (&lt; 2 ng/mL) was 25.6 % and 45.0 %, respectively.
+
+In two long-term trials with adolescent (13 to 17 years) schizophrenia and bipolar patients treated with aripiprazole, incidence of low serum prolactin levels in females (&lt; 3 ng/mL) and males (&lt; 2 ng/mL) was 37.0 % and 59.4 %, respectively.
 
 ## Manic episodes in Bipolar I Disorder in adolescents aged 13 years and older
 
@@ -403,9 +403,9 @@ In the paediatric population somnolence and fatigue were observed more frequentl
 
 In the paediatric bipolar population (10 to 17 years) with exposure up to 30 weeks, incidence of low serum prolactin levels in females (&lt; 3 ng/mL) and males (&lt; 2 ng/mL) was 28.0 % and 53.3 %, respectively.
 
-## Pathological gambling and other impulse control disorders
+## Gambling disorder and other impulse control disorders
 
-Pathological gambling, hypersexuality, compulsive shopping and binge or compulsive eating can occur in patients treated with aripiprazole (see section 4.4).
+Gambling disorder, hypersexuality, compulsive shopping and binge or compulsive eating can occur in patients treated with aripiprazole (see section 4.4).
 
 ## Reporting of suspected adverse reactions
 
@@ -665,7 +665,7 @@ Date of latest renewal: 04 June 2009
 
 <div style=\"page-break-after: always\"></div>
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -821,7 +821,7 @@ In paediatric clinical trials of aripiprazole akathisia and Parkinsonism were ob
 
 ## Neuroleptic Malignant Syndrome (NMS)
 
-NMS is a potentially fatal symptom complex associated with antipsychotics. In clinical trials, rare cases of NMS were reported during treatment with aripiprazole. Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac dysrhythmia). Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure. However, elevated creatine phosphokinase and rhabdomyolysis, not necessarily in association with NMS, have also been reported. If a patient develops signs and symptoms indicative of NMS, or presents with unexplained high fever without additional clinical manifestations of NMS, all antipsychotics, including aripiprazole, must be discontinued.
+NMS is a potentially fatal symptom complex associated with antipsychotics. In clinical trials, rare cases of NMS were reported during treatment with aripiprazole. Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac dysrhythmia). Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure. However, elevated creatine phosphokinase and rhabdomyolysis, not necessarily in association with NMS, have also been reported. If a patient develops signs and symptoms indicative of NMS, or presents with unexplained high fever without additional clinical manifestations of NMS, all antipsychotics, including aripiprazole, must be discontinued (see section 4.8).
 
 ## Seizure
 
@@ -857,13 +857,13 @@ Weight gain is commonly seen in schizophrenic and bipolar mania patients due to 
 
 Oesophageal dysmotility and aspiration have been associated with the use of antipsychotics, including aripiprazole. Aripiprazole should be used cautiously in patients at risk for aspiration pneumonia.
 
-## Pathological gambling and other impulse control disorders
+## Gambling disorder and other impulse control disorders
 
-Patients can experience increased urges, particularly for gambling, and the inability to control these urges while taking aripiprazole. Other urges, reported, include: increased sexual urges, compulsive shopping, binge or compulsive eating, and other impulsive and compulsive behaviours. It is important for prescribers to ask patients or their caregivers specifically about the development of new or increased gambling urges, sexual urges, compulsive shopping, binge or compulsive eating, or other urges while being treated with aripiprazole. It should be noted that impulse-control symptoms can be associated with the underlying disorder; however, in some cases, urges were reported to have stopped when the dose was reduced or the medication was discontinued. Impulse control disorders may result
+Patients can experience increased urges, particularly for gambling, and the inability to control these urges while taking aripiprazole. Other urges, reported, include: increased sexual urges, compulsive shopping, binge or compulsive eating, and other impulsive and compulsive behaviours. It is important for prescribers to ask patients or their caregivers specifically about the development of new or increased gambling urges, sexual urges, compulsive shopping, binge or compulsive eating, or other urges while being treated with aripiprazole. It should be noted that impulse-control symptoms can be associated with the underlying disorder; however, in some cases, urges were reported to have stopped when the dose was reduced or the medicinal product was discontinued. Impulse control disorders may
 
 <div style=\"page-break-after: always\"></div>
 
-in harm to the patient and others if not recognised. Consider dose reduction or stopping the medication if a patient develops such urges while taking aripiprazole (see section 4.8).
+result in harm to the patient and others if not recognised. Consider dose reduction or stopping the medication if a patient develops such urges while taking aripiprazole (see section 4.8).
 
 ## Aspartame
 
@@ -889,7 +889,7 @@ Aripiprazole may cause somnolence, postural hypotension, motor and sensory insta
 
 D ue to its α 1-adrenergic receptor antagonism, aripiprazole has the potential to enhance the effect of certain antihypertensive medicinal products.
 
-Given the primary CNS effects of aripiprazole, caution should be used when aripiprazole is administered in combination with alcohol or other CNS medicinal products with overlapping adverse reactions such as sedation (see section 4.8).
+Given the primary central nervous system (CNS) effects of aripiprazole, caution should be used when aripiprazole is administered in combination with alcohol or other CNS medicinal products with overlapping adverse reactions such as sedation (see section 4.8).
 
 If aripiprazole is administered concomitantly with medicinal products known to cause QT prolongation or electrolyte imbalance, caution should be used.
 
@@ -965,19 +965,19 @@ The frequency of adverse reactions reported during post-marketing use cannot be 
 
 <div style=\"page-break-after: always\"></div>
 
-|                                                 | Common                                                                          | Uncommon                                           | Not known                                                                                                                                                                                              |
-|-------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders            |                                                                                 |                                                    | Leukopenia Neutropenia Thrombocytopenia                                                                                                                                                                |
-| Immune system disorders                         |                                                                                 |                                                    | Allergic reaction (e.g. anaphylactic reaction, angioedema including swollen tongue, tongue oedema, face oedema, pruritus allergic, or urticaria)                                                       |
-| Endocrine disorders                             |                                                                                 | Hyperprolactinaemia Blood prolactin decreased      | Diabetic hyperosmolar coma Diabetic ketoacidosis                                                                                                                                                       |
-| Metabolism and nutrition disorders              | Diabetes mellitus                                                               | Hyperglycaemia                                     | Hyponatremia Anorexia                                                                                                                                                                                  |
-| Psychiatric disorders                           | Insomnia Anxiety Restlessness                                                   | Depression Hypersexuality                          | Suicide attempt, suicidal ideation and completed suicide (see section 4.4) Pathological gambling Impulse-control disorder Binge eating Compulsive shopping Poriomania Aggression Agitation Nervousness |
-| Nervous system disorders                        | Akathisia Extrapyramidal disorder Tremor Headache Sedation Somnolence Dizziness | Tardive dyskinesia Dystonia Restless legs syndrome | Neuroleptic Malignant Syndrome Grand mal convulsion Serotonin syndrome Speech disorder                                                                                                                 |
-| Eye disorders                                   | Vision blurred                                                                  | Diplopia Photophobia                               | Oculogyric crisis                                                                                                                                                                                      |
-| Cardiac disorders                               |                                                                                 | Tachycardia                                        | Sudden death unexplained Torsades de pointes Ventricular arrhythmia Cardiac arrest Bradycardia                                                                                                         |
-| Vascular disorders                              |                                                                                 | Orthostatic hypotension                            | Venous thromboembolism (including pulmonary embolism and deep vein thrombosis) Hypertension Syncope                                                                                                    |
-| Respiratory, thoracic and mediastinal disorders |                                                                                 | Hiccups                                            | Aspiration pneumonia Laryngospasm Oropharyngeal spasm                                                                                                                                                  |
-| Gastrointestinal disorders                      | Constipation Dyspepsia Nausea Salivary hypersecretion Vomiting                  |                                                    | Pancreatitis Dysphagia Diarrhoea Abdominal discomfort Stomach discomfort                                                                                                                               |
+|                                                 | Common                                                                          | Uncommon                                           | Not known                                                                                                                                                                                          |
+|-------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Blood and lymphatic system disorders            |                                                                                 |                                                    | Leukopenia Neutropenia Thrombocytopenia                                                                                                                                                            |
+| Immune system disorders                         |                                                                                 |                                                    | Allergic reaction (e.g. anaphylactic reaction, angioedema including swollen tongue, tongue oedema, face oedema, pruritus allergic, or urticaria)                                                   |
+| Endocrine disorders                             |                                                                                 | Hyperprolactinaemia Blood prolactin decreased      | Diabetic hyperosmolar coma Diabetic ketoacidosis                                                                                                                                                   |
+| Metabolism and nutrition disorders              | Diabetes mellitus                                                               | Hyperglycaemia                                     | Hyponatremia Anorexia                                                                                                                                                                              |
+| Psychiatric disorders                           | Insomnia Anxiety Restlessness                                                   | Depression Hypersexuality                          | Suicide attempt, suicidal ideation and completed suicide (see section 4.4) Gambling disorder Impulse-control disorder Binge eating Compulsive shopping Poriomania Aggression Agitation Nervousness |
+| Nervous system disorders                        | Akathisia Extrapyramidal disorder Tremor Headache Sedation Somnolence Dizziness | Tardive dyskinesia Dystonia Restless legs syndrome | Neuroleptic Malignant Syndrome Grand mal convulsion Serotonin syndrome Speech disorder                                                                                                             |
+| Eye disorders                                   | Vision blurred                                                                  | Diplopia Photophobia                               | Oculogyric crisis                                                                                                                                                                                  |
+| Cardiac disorders                               |                                                                                 | Tachycardia                                        | Sudden death unexplained Torsades de pointes Ventricular arrhythmia Cardiac arrest Bradycardia                                                                                                     |
+| Vascular disorders                              |                                                                                 | Orthostatic hypotension                            | Venous thromboembolism (including pulmonary embolism and deep vein thrombosis) Hypertension Syncope                                                                                                |
+| Respiratory, thoracic and mediastinal disorders |                                                                                 | Hiccups                                            | Aspiration pneumonia Laryngospasm Oropharyngeal spasm                                                                                                                                              |
+| Gastrointestinal disorders                      | Constipation Dyspepsia Nausea Salivary hypersecretion Vomiting                  |                                                    | Pancreatitis Dysphagia Diarrhoea Abdominal discomfort Stomach discomfort                                                                                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1028,11 +1028,13 @@ Comparisons between aripiprazole and placebo in the proportions of patients expe
 
 In a short-term placebo-controlled clinical trial involving 302 adolescents (13 to 17 years) with schizophrenia, the frequency and type of adverse reactions were similar to those in adults except for the following reactions that were reported more frequently in adolescents receiving aripiprazole than in adults receiving aripiprazole (and more frequently than placebo):
 
-Somnolence/sedation and extrapyramidal disorder were reported very co mmonly (≥ 1/10), and dry mouth, increased appetite, and orthostatic hypotension were reported commonly (≥ 1/100, &lt; 1/10). The safety profile in a 26-week open-label extension trial was similar to that observed in the shortterm, placebo-controlled trial.
+Somnolence/sedation and extrapyramidal disorder were reported very commonly (≥ 1/10), and dry mouth, increased appetite, and orthostatic hypotension were reported commonly (≥ 1/100, &lt; 1/10). The safety profile in a 26-week open-label extension trial was similar to that observed in the shortterm, placebo-controlled trial.
 
 The safety profile of a long-term, double-blind, placebo-controlled trial was also similar except for the following reactions that were reported more frequently than paediatric patients taking placebo: weight decreased, blood insulin increased, arrhythmia, and leukopenia were reported commonly (≥ 1/100, &lt; 1/10).
 
-In the pooled adolescent schizophrenia population (13 to 17 years) with exposure up to 2 years, incidence of low serum prolactin levels in females (&lt; 3 ng/mL) and males (&lt; 2 ng/mL) was 29.5 % and 48.3 %, respectively. In the adolescent (13 to 17 years) schizophrenia population with aripiprazole exposure of 5 mg to 30 mg up to 72 months, incidence of low serum prolactin levels in females (&lt; 3 ng/mL) and males (&lt; 2 ng/mL) was 25.6 % and 45.0 %, respectively. In two long-term trials with adolescent (13 to 17 years) schizophrenia and bipolar patients treated with aripiprazole, incidence of low serum prolactin levels in females (&lt; 3 ng/mL) and males (&lt; 2 ng/mL) was 37.0 % and 59.4 %, respectively.
+In the pooled adolescent schizophrenia population (13 to 17 years) with exposure up to 2 years, incidence of low serum prolactin levels in females (&lt; 3 ng/mL) and males (&lt; 2 ng/mL) was 29.5 % and 48.3 %, respectively. In the adolescent (13 to 17 years) schizophrenia population with aripiprazole exposure of 5 mg to 30 mg up to 72 months, incidence of low serum prolactin levels in females (&lt; 3 ng/mL) and males (&lt; 2 ng/mL) was 25.6 % and 45.0 %, respectively.
+
+In two long-term trials with adolescent (13 to 17 years) schizophrenia and bipolar patients treated with aripiprazole, incidence of low serum prolactin levels in females (&lt; 3 ng/mL) and males (&lt; 2 ng/mL) was 37.0 % and 59.4 %, respectively.
 
 ## Manic episodes in Bipolar I Disorder in adolescents aged 13 years and older
 
@@ -1050,9 +1052,9 @@ In the paediatric population somnolence and fatigue were observed more frequentl
 
 In the paediatric bipolar population (10 to 17 years) with exposure up to 30 weeks, incidence of low serum prolactin levels in females (&lt; 3 ng/mL) and males (&lt; 2 ng/mL) was 28.0 % and 53.3 %, respectively.
 
-## Pathological gambling and other impulse control disorders
+## Gambling disorder and other impulse control disorders
 
-Pathological gambling, hypersexuality, compulsive shopping and binge or compulsive eating can occur in patients treated with aripiprazole (see section 4.4).
+Gambling disorder, hypersexuality, compulsive shopping and binge or compulsive eating can occur in patients treated with aripiprazole (see section 4.4).
 
 ## Reporting of suspected adverse reactions
 
@@ -1330,7 +1332,7 @@ Date of latest renewal: 04 June 2009
 
 {MM/YYYY}
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1460,7 +1462,7 @@ In paediatric clinical trials of aripiprazole akathisia and Parkinsonism were ob
 
 ## Neuroleptic Malignant Syndrome (NMS)
 
-NMS is a potentially fatal symptom complex associated with antipsychotics. In clinical trials, rare cases of NMS were reported during treatment with aripiprazole. Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac dysrhythmia). Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure. However, elevated creatine phosphokinase and rhabdomyolysis, not necessarily in association with NMS, have also been reported. If a patient develops signs and symptoms indicative of NMS, or presents with unexplained high fever without additional clinical manifestations of NMS, all antipsychotics, including aripiprazole, must be discontinued.
+NMS is a potentially fatal symptom complex associated with antipsychotics. In clinical trials, rare cases of NMS were reported during treatment with aripiprazole. Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac dysrhythmia). Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure. However, elevated creatine phosphokinase and rhabdomyolysis, not necessarily in association with NMS, have also been reported. If a patient develops signs and symptoms indicative of NMS, or presents with unexplained high fever without additional clinical manifestations of NMS, all antipsychotics, including aripiprazole, must be discontinued (see section 4.8).
 
 ## Seizure
 
@@ -1498,9 +1500,9 @@ Weight gain is commonly seen in schizophrenic and bipolar mania patients due to 
 
 Oesophageal dysmotility and aspiration have been associated with the use of antipsychotics, including aripiprazole. Aripiprazole should be used cautiously in patients at risk for aspiration pneumonia.
 
-## Pathological gambling and other impulse control disorders
+## Gambling disorder and other impulse control disorders
 
-Patients can experience increased urges, particularly for gambling, and the inability to control these urges while taking aripiprazole. Other urges, reported, include: increased sexual urges, compulsive shopping, binge or compulsive eating, and other impulsive and compulsive behaviours. It is important for prescribers to ask patients or their caregivers specifically about the development of new or increased gambling urges, sexual urges, compulsive shopping, binge or compulsive eating, or other urges while being treated with aripiprazole. It should be noted that impulse-control symptoms can be associated with the underlying disorder; however, in some cases, urges were reported to have stopped when the dose was reduced or the medication was discontinued. Impulse control disorders may result in harm to the patient and others if not recognised. Consider dose reduction or stopping the medication if a patient develops such urges while taking aripiprazole (see section 4.8).
+Patients can experience increased urges, particularly for gambling, and the inability to control these urges while taking aripiprazole. Other urges, reported, include: increased sexual urges, compulsive shopping, binge or compulsive eating, and other impulsive and compulsive behaviours. It is important for prescribers to ask patients or their caregivers specifically about the development of new or increased gambling urges, sexual urges, compulsive shopping, binge or compulsive eating, or other urges while being treated with aripiprazole. It should be noted that impulse-control symptoms can be associated with the underlying disorder; however, in some cases, urges were reported to have stopped when the dose was reduced or the medicinal product was discontinued. Impulse control disorders may result in harm to the patient and others if not recognised. Consider dose reduction or stopping the medication if a patient develops such urges while taking aripiprazole (see section 4.8).
 
 ## Fructose
 
@@ -1534,7 +1536,7 @@ Aripiprazole may cause somnolence, postural hypotension, motor and sensory insta
 
 D ue to its α 1-adrenergic receptor antagonism, aripiprazole has the potential to enhance the effect of certain antihypertensive medicinal products.
 
-Given the primary CNS effects of aripiprazole, caution should be used when aripiprazole is administered in combination with alcohol or other CNS medicinal products with overlapping adverse reactions such as sedation (see section 4.8).
+Given the primary central nervous system (CNS) effects of aripiprazole, caution should be used when aripiprazole is administered in combination with alcohol or other CNS medicinal products with overlapping adverse reactions such as sedation (see section 4.8).
 
 If aripiprazole is administered concomitantly with medicinal products known to cause QT prolongation or electrolyte imbalance, caution should be used.
 
@@ -1612,7 +1614,7 @@ The frequency of adverse reactions reported during post-marketing use cannot be 
 | Immune system disorders              |                               |                                               | Allergic reaction (e.g. anaphylactic reaction, angioedema including swollen tongue, tongue oedema, face oedema, pruritus allergic, or urticaria) |
 | Endocrine disorders                  |                               | Hyperprolactinaemia Blood prolactin decreased | Diabetic hyperosmolar coma Diabetic ketoacidosis                                                                                                 |
 | Metabolism and nutrition disorders   | Diabetes mellitus             | Hyperglycaemia                                | Hyponatremia Anorexia                                                                                                                            |
-| Psychiatric disorders                | Insomnia Anxiety Restlessness | Depression Hypersexuality                     | Suicide attempt, suicidal ideation and completed suicide (see section 4.4) Pathological gambling Impulse-control disorder                        |
+| Psychiatric disorders                | Insomnia Anxiety Restlessness | Depression Hypersexuality                     | Suicide attempt, suicidal ideation and completed suicide (see section 4.4) Gambling disorder Impulse-control disorder                            |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1693,9 +1695,9 @@ In the paediatric bipolar population (10 to 17 years) with exposure up to 30 wee
 
 <div style=\"page-break-after: always\"></div>
 
-## Pathological gambling and other impulse control disorders
+## Gambling disorder and other impulse control disorders
 
-Pathological gambling, hypersexuality, compulsive shopping and binge or compulsive eating can occur in patients treated with aripiprazole (see section 4.4).
+Gambling disorder, hypersexuality, compulsive shopping and binge or compulsive eating can occur in patients treated with aripiprazole (see section 4.4).
 
 ## Reporting of suspected adverse reactions
 
@@ -1921,9 +1923,15 @@ Not all pack sizes may be marketed.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
 
-Otsuka Pharmaceutical Netherlands B.V. Herikerbergweg 292 1101 CT, Amsterdam
+MARKETING AUTHORISATION HOLDER
+
+Otsuka Pharmaceutical Netherlands B.V.
+
+Herikerbergweg 292
+
+1101 CT, Amsterdam
 
 Netherlands
 
@@ -1937,11 +1945,13 @@ Date of first authorisation: 04 June 2004
 
 Date of latest renewal: 04 June 2009
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
+
+DATE OF REVISION OF THE TEXT
 
 {MM/YYYY}
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 60
 
@@ -2069,7 +2079,7 @@ In paediatric clinical trials of aripiprazole akathisia and Parkinsonism were ob
 
 ## Neuroleptic Malignant Syndrome (NMS)
 
-NMS is a potentially fatal symptom complex associated with antipsychotics. In clinical trials, rare cases of NMS were reported during treatment with aripiprazole. Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac dysrhythmia). Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure. However, elevated creatine phosphokinase and rhabdomyolysis, not necessarily in association with NMS, have also been reported. If a patient develops signs and symptoms indicative of NMS, or presents with unexplained high fever without additional clinical manifestations of NMS, all antipsychotics, including aripiprazole, must be discontinued.
+NMS is a potentially fatal symptom complex associated with antipsychotics. In clinical trials, rare cases of NMS were reported during treatment with aripiprazole. Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac dysrhythmia). Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure. However, elevated creatine phosphokinase and rhabdomyolysis, not necessarily in association with NMS, have also been reported. If a patient develops signs and symptoms indicative of NMS, or presents with unexplained high fever without additional clinical manifestations of NMS, all antipsychotics, including aripiprazole, must be discontinued (see section 4.8).
 
 ## Seizure
 
@@ -2111,9 +2121,9 @@ Oesophageal dysmotility and aspiration have been associated with the use of anti
 
 aripiprazole. Aripiprazole should be used cautiously in patients at risk for aspiration pneumonia.
 
-## Pathological gambling and other impulse control disorders
+## Gambling disorder and other impulse control disorders
 
-Patients can experience increased urges, particularly for gambling, and the inability to control these urges while taking aripiprazole. Other urges, reported, include: increased sexual urges, compulsive shopping, binge or compulsive eating, and other impulsive and compulsive behaviours. It is important for prescribers to ask patients or their caregivers specifically about the development of new or increased gambling urges, sexual urges, compulsive shopping, binge or compulsive eating, or other urges while being treated with aripiprazole. It should be noted that impulse-control symptoms can be associated with the underlying disorder; however, in some cases, urges were reported to have stopped when the dose was reduced or the medication was discontinued. Impulse control disorders may result in harm to the patient and others if not recognised. Consider dose reduction or stopping the medication if a patient develops such urges while taking aripiprazole (see section 4.8).
+Patients can experience increased urges, particularly for gambling, and the inability to control these urges while taking aripiprazole. Other urges, reported, include: increased sexual urges, compulsive shopping, binge or compulsive eating, and other impulsive and compulsive behaviours. It is important for prescribers to ask patients or their caregivers specifically about the development of new or increased gambling urges, sexual urges, compulsive shopping, binge or compulsive eating, or other urges while being treated with aripiprazole. It should be noted that impulse-control symptoms can be associated with the underlying disorder; however, in some cases, urges were reported to have stopped when the dose was reduced or the medicinal product was discontinued. Impulse control disorders may result in harm to the patient and others if not recognised. Consider dose reduction or stopping the medication if a patient develops such urges while taking aripiprazole (see section 4.8).
 
 ## Sodium
 
@@ -2133,7 +2143,7 @@ No interaction studies have been performed with ABILIFY solution for injection. 
 
 D ue to its α 1-adrenergic receptor antagonism, aripiprazole has the potential to enhance the effect of certain antihypertensive medicinal products.
 
-Given the primary CNS effects of aripiprazole, caution should be used when aripiprazole is administered in combination with alcohol or other CNS medicinal products with overlapping adverse reactions such as sedation (see section 4.8).
+Given the primary central nervous system (CNS) effects of aripiprazole, caution should be used when aripiprazole is administered in combination with alcohol or other CNS medicinal products with overlapping adverse reactions such as sedation (see section 4.8).
 
 If aripiprazole is administered concomitantly with medicinal products known to cause QT prolongation or electrolyte imbalance, caution should be used.
 
@@ -2215,16 +2225,16 @@ All ADRs are listed by system organ class and frequency; very common (≥ 1/10),
 
 The frequency of adverse reactions reported during post-marketing use cannot be determined as they are derived from spontaneous reports. Consequently, the frequency of these adverse events is qualified as 'not known'.
 
-|                                      | Common                                                                          | Uncommon                                           | Not known                                                                                                                                                                                              |
-|--------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Blood and lymphatic system disorders |                                                                                 |                                                    | Leukopenia Neutropenia Thrombocytopenia                                                                                                                                                                |
-| Immune system disorders              |                                                                                 |                                                    | Allergic reaction (e.g. anaphylactic reaction, angioedema including swollen tongue, tongue oedema, face oedema, pruritus allergic, or urticaria)                                                       |
-| Endocrine disorders                  |                                                                                 | Hyperprolactinaemia Blood prolactin decreased      | Diabetic hyperosmolar coma Diabetic ketoacidosis                                                                                                                                                       |
-| Metabolism and nutrition disorders   | Diabetes mellitus                                                               | Hyperglycaemia                                     | Hyponatremia Anorexia                                                                                                                                                                                  |
-| Psychiatric disorders                | Insomnia Anxiety Restlessness                                                   | Depression Hypersexuality                          | Suicide attempt, suicidal ideation and completed suicide (see section 4.4) Pathological gambling Impulse-control disorder Binge eating Compulsive shopping Poriomania Aggression Agitation Nervousness |
-| Nervous system disorders             | Akathisia Extrapyramidal disorder Tremor Headache Sedation Somnolence Dizziness | Tardive dyskinesia Dystonia Restless legs syndrome | Neuroleptic Malignant Syndrome Grand mal convulsion Serotonin syndrome Speech disorder                                                                                                                 |
-| Eye disorders                        | Vision blurred                                                                  | Diplopia Photophobia                               | Oculogyric crisis                                                                                                                                                                                      |
-| Cardiac disorders                    |                                                                                 | Tachycardia                                        | Sudden death unexplained Torsades de pointes Ventricular arrhythmia Cardiac arrest Bradycardia                                                                                                         |
+|                                      | Common                                                                          | Uncommon                                           | Not known                                                                                                                                                                                          |
+|--------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Blood and lymphatic system disorders |                                                                                 |                                                    | Leukopenia Neutropenia Thrombocytopenia                                                                                                                                                            |
+| Immune system disorders              |                                                                                 |                                                    | Allergic reaction (e.g. anaphylactic reaction, angioedema including swollen tongue, tongue oedema, face oedema, pruritus allergic, or urticaria)                                                   |
+| Endocrine disorders                  |                                                                                 | Hyperprolactinaemia Blood prolactin decreased      | Diabetic hyperosmolar coma Diabetic ketoacidosis                                                                                                                                                   |
+| Metabolism and nutrition disorders   | Diabetes mellitus                                                               | Hyperglycaemia                                     | Hyponatremia Anorexia                                                                                                                                                                              |
+| Psychiatric disorders                | Insomnia Anxiety Restlessness                                                   | Depression Hypersexuality                          | Suicide attempt, suicidal ideation and completed suicide (see section 4.4) Gambling disorder Impulse-control disorder Binge eating Compulsive shopping Poriomania Aggression Agitation Nervousness |
+| Nervous system disorders             | Akathisia Extrapyramidal disorder Tremor Headache Sedation Somnolence Dizziness | Tardive dyskinesia Dystonia Restless legs syndrome | Neuroleptic Malignant Syndrome Grand mal convulsion Serotonin syndrome Speech disorder                                                                                                             |
+| Eye disorders                        | Vision blurred                                                                  | Diplopia Photophobia                               | Oculogyric crisis                                                                                                                                                                                  |
+| Cardiac disorders                    |                                                                                 | Tachycardia                                        | Sudden death unexplained Torsades de pointes Ventricular arrhythmia Cardiac arrest Bradycardia                                                                                                     |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2268,9 +2278,9 @@ In clinical trials for the approved indications and post-marketing, both increas
 
 Comparisons between aripiprazole and placebo in the proportions of patients experiencing potentially clinically significant changes in routine laboratory and lipid parameters (see section 5.1) revealed no medically important differences. Elevations of CPK (Creatine Phosphokinase), generally transient and asymptomatic, were observed in 3.5 % of aripiprazole treated patients as compared to 2.0 % of patients who received placebo.
 
-## Pathological gambling and other impulse control disorders
+## Gambling disorder and other impulse control disorders
 
-Pathological gambling, hypersexuality, compulsive shopping and binge or compulsive eating can occur in patients treated with aripiprazole (see section 4.4).
+Gambling disorder, hypersexuality, compulsive shopping and binge or compulsive eating can occur in patients treated with aripiprazole (see section 4.4).
 
 ## Reporting of suspected adverse reactions
 
@@ -2450,13 +2460,17 @@ For storage conditions after first opening of the medicinal product, see section
 
 ## 6.5 Nature and contents of container
 
-Each carton contains one single-use type I glass vial with a rubber butyl stopper and a \"tear-off\" aluminium seal.
+Each carton contains one single-use type I glass vial with a rubber butyl stopper and a \"tear-off\"
+
+aluminium seal.
 
 ## 6.6 Special precautions for disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
+
+MARKETING AUTHORISATION HOLDER
 
 Otsuka Pharmaceutical Netherlands B.V.
 
@@ -2482,7 +2496,7 @@ Date of latest renewal: 04 June 2009
 
 Detailed information on this medicinal product is available on the website of the European Medicines
 
-Agency http://www.ema.europa.eu.
+Agency https://www.ema.europa.eu.
 
 76
 
@@ -2646,17 +2660,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 ABILIFY 5 mg tablets aripiprazole
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Otsuka
 
@@ -2672,6 +2686,8 @@ Lot
 
 | 5.   | OTHER   |
 |------|---------|
+
+83
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -2781,17 +2797,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 ABILIFY 10 mg tablets aripiprazole
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Otsuka
 
@@ -2916,17 +2932,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 ABILIFY 15 mg tablets aripiprazole
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Otsuka
 
@@ -2942,6 +2958,8 @@ Lot
 
 | 5.   | OTHER   |
 |------|---------|
+
+89
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -3051,17 +3069,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 ABILIFY 30 mg tablets aripiprazole
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Otsuka
 
@@ -3182,17 +3200,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 ABILIFY 10 mg orodispersible tablets aripiprazole
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Otsuka
 
@@ -3311,17 +3329,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 ABILIFY 15 mg orodispersible tablets aripiprazole
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Otsuka
 
@@ -3348,7 +3366,9 @@ OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-ABILIFY 30 mg orodispersible tablets aripiprazole
+ABILIFY 30 mg orodispersible tablets
+
+aripiprazole
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -3442,17 +3462,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
-| BLISTERS                                            |
+| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
+|-------------------------------------------------------|
+| BLISTERS                                              |
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+| 1.   | NAME OF THE MEDICINAL PRODUCT   |
+|------|---------------------------------|
 
 ABILIFY 30 mg orodispersible tablets aripiprazole
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
+|------|----------------------------------------------|
 
 Otsuka
 
@@ -3491,13 +3511,15 @@ Contains fructose, sucrose, E218, and E216.
 
 Oral solution
 
-50 mL oral solution 150 mL oral solution 480 mL oral solution
+50 mL oral solution
+
+150 mL oral solution
+
+480 mL oral solution
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use.
-
-Oral use.
+Read the package leaflet before use. Oral use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -3519,7 +3541,7 @@ Use within 6 months after first opening.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Outer carton:
+## Outer carton:
 
 Otsuka Pharmaceutical Netherlands B.V.
 
@@ -3728,15 +3750,15 @@ ABILIFY is used to treat adults and adolescents aged 13 years and older who suff
 
 Talk to your doctor before taking ABILIFY.
 
-Suicidal thoughts and behaviours have been reported during aripiprazole treatment. Tell your doctor immediately if you are having any thoughts or feelings about hurting yourself.
+Suicidal thoughts and behaviours have been reported during treatment with this medicine. Tell your doctor immediately if you are having any thoughts or feelings about hurting yourself before or after taking ABILIFY.
 
 Before treatment with ABILIFY, tell your doctor if you suffer from
 
 - high blood sugar (characterised by symptoms such as excessive thirst, passing of large amounts of urine, increase in appetite and feeling weak) or family history of diabetes
-- fits (seizures) since your doctor may want to monitor you more closely
 
 <div style=\"page-break-after: always\"></div>
 
+- fits (seizures) since your doctor may want to monitor you more closely
 - involuntary, irregular muscle movements, especially in the face
 - cardiovascular diseases (diseases of the heart and circulation), family history of cardiovascular disease, stroke or \"mini\" stroke, abnormal blood pressure
 - blood clots, or family history of blood clots, as antipsychotics have been associated with formation of blood clots
@@ -3752,7 +3774,7 @@ Tell your doctor immediately if you suffer from muscle stiffness or inflexibilit
 
 Tell your doctor if you or your family/carer notices that you are developing urges or cravings to behave in ways that are unusual for you and you cannot resist the impulse, drive or temptation to carry out certain activities that could harm yourself or others. These are called impulse control disorders and can include behaviours such as addictive gambling, excessive eating or spending, an abnormally high sex drive or preoccupation with an increase in sexual thoughts or feelings. Your doctor may need to adjust or stop your dose.
 
-Aripiprazole may cause sleepiness, fall in blood pressure when standing up, dizziness and changes in your ability to move and balance, which may lead to falls. Caution should be taken, particularly if you are an elderly patient or have some debility.
+This medicine may cause sleepiness, fall in blood pressure when standing up, dizziness and changes in your ability to move and balance, which may lead to falls. Caution should be taken, particularly if you are an elderly patient or have some debility.
 
 ## Children and adolescents
 
@@ -3768,14 +3790,15 @@ Taking ABILIFY with some medicines may mean the doctor will need to change your 
 
 - medicines to correct heart rhythm (such as quinidine, amiodarone, flecainide)
 - antidepressants or herbal remedy used to treat depression and anxiety ( such as fluoxetine, paroxetine, venlafaxine, St. John's Wort)
-- antifungal medicines (such as ketoconazole, itraconazole)
+- antifungal medicines (such as itraconazole)
+- ketoconazole (used to treat Cushing's syndrome when the body produces an excess of cortisol)
 - certain medicines to treat HIV infection (such as efavirenz, nevirapine, an protease inhibitors e.g. indinavir, ritonavir)
 - anticonvulsants used to treat epilepsy (such as carbamazepine, phenytoin, phenobarbital)
 - certain antibiotics used to treat tuberculosis (rifabutin, rifampicin)
 
-These medicines may increase the risk of side effects or reduce the effect of ABILIFY; if you get any unusual symptom taking any of these medicines together with ABILIFY you should see your doctor.
-
 <div style=\"page-break-after: always\"></div>
+
+These medicines may increase the risk of side effects or reduce the effect of ABILIFY; if you get any unusual symptom taking any of these medicines together with ABILIFY you should see your doctor.
 
 Medicines that increase the level of serotonin are typically used in conditions including depression, generalised anxiety disorder, obsessive-compulsive disorder (OCD) and social phobia as well as migraine and pain:
 
@@ -3817,11 +3840,9 @@ The recommended dose for adults is 15 mg once a day. However your doctor may pre
 
 ## Use in children and adolescents
 
-This medicine may be started at a low dose with the oral solution (liquid) form. The dose may be gradually increased to the recommended dose for adolescents of 10 mg once a
-
 <div style=\"page-break-after: always\"></div>
 
-day . However your doctor may prescribe a lower or higher dose to a maximum of 30 mg once a day.
+This medicine may be started at a low dose with the oral solution (liquid) form. The dose may be gradually increased to the recommended dose for adolescents of 10 mg once a day . However your doctor may prescribe a lower or higher dose to a maximum of 30 mg once a day.
 
 If you have the impression that the effect of ABILIFY is too strong or too weak, talk to your doctor or pharmacist.
 
@@ -3833,7 +3854,7 @@ Even if you feel better, do not alter or discontinue the daily dose of ABILIFY w
 
 If you realise you have taken more ABILIFY than your doctor has recommended (or if someone else has taken some of your ABILIFY), contact your doctor right away. If you cannot reach your doctor, go to the nearest hospital and take the pack with you.
 
-Patients who have taken too much aripiprazole have experienced the following symptoms:
+Patients who have taken too much of this medicine have experienced the following symptoms:
 
 - rapid heartbeat, agitation/aggressiveness, problems with speech.
 - unusual movements (especially of the face or tongue) and reduced level of consciousness.
@@ -3871,11 +3892,11 @@ Common side effects (may affect up to 1 in 10 people):
 - headache,
 - tiredness,
 - sleepiness,
-- light-headedness,
-- shaking and blurred vision,
 
 <div style=\"page-break-after: always\"></div>
 
+- light-headedness,
+- shaking and blurred vision,
 - decreased number of or difficulty making bowel movements,
 - indigestion,
 - feeling sick,
@@ -3915,7 +3936,6 @@ The following side effects have been reported since the marketing of oral aripip
 - nervousness,
 - combination of fever, muscle stiffness, faster breathing, sweating, reduced consciousness and sudden changes in blood pressure and heart rate, fainting (neuroleptic malignant syndrome),
 - seizure,
-- •
 - serotonin syndrome (a reaction which may cause feelings of great happiness, drowsiness, clumsiness, restlessness, feeling of being drunk, fever, sweating or rigid muscles),
 - speech disorder,
 - fixation of the eyeballs in one position,
@@ -3927,11 +3947,11 @@ The following side effects have been reported since the marketing of oral aripip
 - high blood pressure,
 - fainting,
 - accidental inhalation of food with risk of pneumonia (lung infection),
-- spasm of the muscles around the voice box,
-- inflammation of the pancreas,
 
 <div style=\"page-break-after: always\"></div>
 
+- spasm of the muscles around the voice box,
+- inflammation of the pancreas,
 - difficulty swallowing,
 - diarrhoea,
 - abdominal discomfort,
@@ -3991,7 +4011,9 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What ABILIFY contains
 
-- The active substance is aripiprazole.
+- •
+
+The active substance is aripiprazole.
 
 Each tablet contains 5 mg of aripiprazole.
 
@@ -4037,23 +4059,13 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Otsuka Pharmaceutical Netherlands B.V.
-
-Herikerbergweg 292
-
-1101 CT, Amsterdam
-
-Netherlands
+Otsuka Pharmaceutical Netherlands B.V. Herikerbergweg 292 1101 CT, Amsterdam Netherlands
 
 ## Manufacturer
 
-Elaiapharm
-
 2881 Route des Crêtes, Z.I. Les Bouilides-Sophia Antipolis,
 
-06560 Valbonne
-
-France
+Elaiapharm 06560 Valbonne France
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -4061,7 +4073,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharma Scandinavia AB Tel: +46 (0) 8 545 286 60
 
 ## България
 
@@ -4073,11 +4085,11 @@ Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Danmark
 
-Otsuka Pharma Scandinavia AB
+Otsuka Pharma Scandinavia AB Tlf.: +46 (0) 8 545 286 60
 
-Tlf: +46 (0) 8 545 286 60
+## Deutschland
 
-Deutschland Otsuka Pharma GmbH Tel: +49 (0) 69 1700 860
+Otsuka Pharma GmbH Tel: +49 (0) 69 1700 860
 
 ## Eesti
 
@@ -4089,11 +4101,15 @@ Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## España
 
-Otsuka Pharmaceutical, S.A. Tel: +34 93 550 01 00
+Otsuka Pharmaceutical, S.A.
+
+Tel: +34 93 550 01 00
 
 ## France
 
-Otsuka Pharmaceutical France SAS Tél: +33 (0)1 47 08 00 00
+Otsuka Pharmaceutical France SAS
+
+Tél: +33 (0)1 47 08 00 00
 
 ## Hrvatska
 
@@ -4101,23 +4117,23 @@ Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Ireland
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
-
-## Ísland
-
-Vistor hf. Sími: +354 (0) 535 7000
-
-## Italia
-
-Otsuka Pharmaceutical Italy S.r.l.
-
-Tel: +39 (0) 2 0063 2710
-
-## Κύπρος
-
 Otsuka Pharmaceutical Netherlands B.V.
 
 Tel: +31 (0) 20 85 46 555
+
+## Ísland
+
+Vistor ehf.
+
+Sími: +354 (0) 535 7000
+
+## Italia
+
+Otsuka Pharmaceutical Italy S.r.l. Tel: +39 (0) 2 0063 2710
+
+## Κύπρος
+
+Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Lietuva
 
@@ -4125,9 +4141,7 @@ Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Luxembourg/Luxemburg
 
-Otsuka Pharmaceutical Netherlands B.V.
-
-Tel: +31 (0) 20 85 46 555
+Otsuka Pharma Scandinavia AB Tel: +46 (0) 8 545 286 60
 
 ## Magyarország
 
@@ -4163,9 +4177,7 @@ Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Slovenija
 
-Otsuka Pharmaceutical Netherlands B.V.
-
-Tel: +31 (0) 20 85 46 555
+Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Slovenská republika
 
@@ -4173,7 +4185,9 @@ Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Suomi/Finland
 
-Otsuka Pharma Scandinavia AB Puh/Tel: +46 (0) 8 545 286 60
+Otsuka Pharma Scandinavia AB
+
+Puh/Tel: +46 (0) 8 545 286 60
 
 ## Sverige
 
@@ -4183,15 +4197,17 @@ Tel: +46 (0) 8 545 286 60
 
 <div style=\"page-break-after: always\"></div>
 
-Latvija Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+## Latvija
+
+Otsuka Pharmaceutical Netherlands B.V.
+
+Tel: +31 (0) 20 85 46 555
 
 ## This leaflet was last revised in {MM/YYYY}
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
-
-United Kingdom (Northern Ireland) Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Package leaflet: Information for the user
 
@@ -4233,16 +4249,16 @@ ABILIFY is used to treat adults and adolescents aged 13 years and older who suff
 
 Talk to your doctor before taking ABILIFY.
 
-Suicidal thoughts and behaviours have been reported during aripiprazole treatment. Tell your doctor immediately if you are having any thoughts or feelings about hurting yourself.
+Suicidal thoughts and behaviours have been reported during treatment with this medicine. Tell your doctor immediately if you are having any thoughts or feelings about hurting yourself before or after taking ABILIFY.
 
 Before treatment with ABILIFY, tell your doctor if you suffer from
 
 - high blood sugar (characterised by symptoms such as excessive thirst, passing of large amounts of urine, increase in appetite and feeling weak) or family history of diabetes
 - fits (seizures) since your doctor may want to monitor you more closely
-- involuntary, irregular muscle movements, especially in the face
 
 <div style=\"page-break-after: always\"></div>
 
+- involuntary, irregular muscle movements, especially in the face
 - cardiovascular diseases (diseases of the heart and circulation), family history of cardiovascular disease, stroke or \"mini\" stroke, abnormal blood pressure
 - blood clots, or family history of blood clots, as antipsychotics have been associated with formation of blood clots
 - past experience with excessive gambling
@@ -4257,7 +4273,7 @@ Tell your doctor immediately if you suffer from muscle stiffness or inflexibilit
 
 Tell your doctor if you or your family/carer notices that you are developing urges or cravings to behave in ways that are unusual for you and you cannot resist the impulse, drive or temptation to carry out certain activities that could harm yourself or others. These are called impulse control disorders and can include behaviours such as addictive gambling, excessive eating or spending, an abnormally high sex drive or preoccupation with an increase in sexual thoughts or feelings. Your doctor may need to adjust or stop your dose.
 
-Aripiprazole may cause sleepiness, fall in blood pressure when standing up, dizziness and changes in your ability to move and balance, which may lead to falls. Caution should be taken, particularly if you are an elderly patient or have some debility.
+This medicine may cause sleepiness, fall in blood pressure when standing up, dizziness and changes in your ability to move and balance, which may lead to falls. Caution should be taken, particularly if you are an elderly patient or have some debility.
 
 ## Children and adolescents
 
@@ -4273,14 +4289,15 @@ Taking ABILIFY with some medicines may mean the doctor will need to change your 
 
 - medicines to correct heart rhythm (such as quinidine, amiodarone, flecainide)
 - antidepressants or herbal remedy used to treat depression and anxiety (such as fluoxetine, paroxetine, venlafaxine, St. John's Wort)
-- antifungal medicines (such as ketoconazole, itraconazole)
+- antifungal medicines (such as itraconazole)
+- ketoconazole (used to treat Cushing's syndrome when the body produces an excess of cortisol)
 - certain medicines to treat HIV infection (such as efavirenz, nevirapine, an protease inhibitors e.g. indinavir, ritonavir)
 - anticonvulsants used to treat epilepsy (such as carbamazepine, phenytoin, phenobarbital)
 - certain antibiotics used to treat tuberculosis (rifabutin, rifampicin)
 
-These medicines may increase the risk of side effects or reduce the effect of ABILIFY; if you get any unusual symptom taking any of these medicines together with ABILIFY you should see your doctor.
-
 <div style=\"page-break-after: always\"></div>
+
+These medicines may increase the risk of side effects or reduce the effect of ABILIFY; if you get any unusual symptom taking any of these medicines together with ABILIFY you should see your doctor.
 
 Medicines that increase the level of serotonin are typically used in conditions including depression, generalised anxiety disorder, obsessive-compulsive disorder (OCD) and social phobia as well as migraine and pain:
 
@@ -4312,13 +4329,9 @@ Dizziness and vision problems may occur during treatment with this medicine (see
 
 ## ABILIFY contains aspartame
 
-ABILIFY 10 mg orodispersible tablets: This medicine contains 2 mg aspartame in each tablet.
+ABILIFY 10 mg orodispersible tablets: This medicine contains 2 mg aspartame in each tablet. ABILIFY 15 mg orodispersible tablets: This medicine contains 3 mg aspartame in each tablet. ABILIFY 30 mg orodispersible tablets: This medicine contains 6 mg aspartame in each tablet. , a
 
-ABILIFY 15 mg orodispersible tablets: This medicine contains 3 mg aspartame in each tablet.
-
-ABILIFY 30 mg orodispersible tablets: This medicine contains 6 mg aspartame in each tablet.
-
-Aspartame is a source of phenylalanine. It may be harmful if you have phenylketonuria (PKU) , a rare genetic disorder in which phenylalanine builds up because the body cannot remove it properly.
+Aspartame is a source of phenylalanine. It may be harmful if you have phenylketonuria (PKU) rare genetic disorder in which phenylalanine builds up because the body cannot remove it properly.
 
 ## ABILIFY contains lactose
 
@@ -4328,9 +4341,9 @@ If you have been told by your doctor that you have an intolerance to some sugars
 
 This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodiumfree'.
 
-## 3. How to take ABILIFY
-
 <div style=\"page-break-after: always\"></div>
+
+## 3. How to take ABILIFY
 
 Always take this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
@@ -4338,9 +4351,7 @@ The recommended dose for adults is 15 mg once a day. However your doctor may pre
 
 ## Use in children and adolescents
 
-This medicine may be started at a low dose with the oral solution (liquid) form.
-
-The dose may be gradually increased to the recommended dose for adolescents of 10 mg once a day . However your doctor may prescribe a lower or higher dose to a maximum of 30 mg once a day.
+This medicine may be started at a low dose with the oral solution (liquid) form. The dose may be gradually increased to the recommended dose for adolescents of 10 mg once a day . However your doctor may prescribe a lower or higher dose to a maximum of 30 mg once a day.
 
 If you have the impression that the effect of ABILIFY is too strong or too weak, talk to your doctor or pharmacist.
 
@@ -4356,7 +4367,7 @@ Even if you feel better, do not alter or discontinue the daily dose of ABILIFY w
 
 If you realise you have taken more ABILIFY than your doctor has recommended (or if someone else has taken some of your ABILIFY), contact your doctor right away. If you cannot reach your doctor, go to the nearest hospital and take the pack with you.
 
-Patients who have taken too much aripiprazole have experienced the following symptoms:
+Patients who have taken too much of this medicine have experienced the following symptoms:
 
 - rapid heartbeat, agitation/aggressiveness, problems with speech.
 - unusual movements (especially of the face or tongue) and reduced level of consciousness.
@@ -4378,9 +4389,9 @@ Do not stop your treatment just because you feel better. It is important that yo
 
 If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
-## 4. Possible side effects
-
 <div style=\"page-break-after: always\"></div>
+
+## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
@@ -4434,11 +4445,11 @@ The following side effects have been reported since the marketing of oral aripip
 - thoughts of suicide, suicide attempt and suicide,
 - feeling aggressive,
 - agitation,
-- nervousness,
-- combination of fever, muscle stiffness, faster breathing, sweating, reduced consciousness and sudden changes in blood pressure and heart rate, fainting (neuroleptic malignant syndrome),
 
 <div style=\"page-break-after: always\"></div>
 
+- nervousness,
+- combination of fever, muscle stiffness, faster breathing, sweating, reduced consciousness and sudden changes in blood pressure and heart rate, fainting (neuroleptic malignant syndrome),
 - seizure,
 - serotonin syndrome (a reaction which may cause feelings of great happiness, drowsiness, clumsiness, restlessness, feeling of being drunk, fever, sweating or rigid muscles),
 - speech disorder,
@@ -4484,13 +4495,13 @@ The following side effects have been reported since the marketing of oral aripip
 - -binge eating (eating large amounts of food in a short time period) or compulsive eating (eating more food than normal and more than is needed to satisfy your hunger)
 - -a tendency to wander away.
 
-Tell your doctor if you experience any of these behaviours; he/she will discuss ways of managing or reducing the symptoms.
-
-In elderly patients with dementia, more fatal cases have been reported while taking aripiprazole. In
+Tell your doctor if you experience any of these behaviours; he/she will discuss ways of
 
 <div style=\"page-break-after: always\"></div>
 
-addition, cases of stroke or \"mini\" stroke have been reported.
+managing or reducing the symptoms.
+
+In elderly patients with dementia, more fatal cases have been reported while taking aripiprazole. In addition, cases of stroke or \"mini\" stroke have been reported.
 
 ## Additional side effects in children and adolescents
 
@@ -4516,9 +4527,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 - The active substance is aripiprazole.
 
-Each orodispersible tablet contains 10 mg of aripiprazole.
-
-Each orodispersible tablet contains 15 mg of aripiprazole.
+Each orodispersible tablet contains 10 mg of aripiprazole. Each orodispersible tablet contains 15 mg of aripiprazole.
 
 Each orodispersible tablet contains 30 mg of aripiprazole.
 
@@ -4546,9 +4555,9 @@ ABILIFY 15 mg orodispersible tablets are round and yellow, marked with '\"A\" ov
 
 ABILIFY 30 mg orodispersible tablets are round and pink, marked with '\"A\" over \"643\"' on one side and '30' on the other.
 
-ABILIFY orodispersible tablets are supplied in perforated unit dose blisters packed in cartons containing 14 × 1, 28 × 1, or 49 × 1 orodispersible tablets.
-
 <div style=\"page-break-after: always\"></div>
+
+ABILIFY orodispersible tablets are supplied in perforated unit dose blisters packed in cartons containing 14 × 1, 28 × 1, or 49 × 1 orodispersible tablets.
 
 Not all pack sizes may be marketed.
 
@@ -4564,7 +4573,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharma Scandinavia AB Tel: +46 (0) 8 545 286 60
 
 ## България
 
@@ -4576,7 +4585,7 @@ Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Danmark
 
-Otsuka Pharma Scandinavia AB Tlf: +46 (0) 8 545 286 60
+Otsuka Pharma Scandinavia AB Tlf.: +46 (0) 8 545 286 60
 
 ## Deutschland
 
@@ -4598,17 +4607,13 @@ Otsuka Pharmaceutical, S.A. Tel: +34 93 550 01 00
 
 Otsuka Pharmaceutical France SAS Tél: +33 (0)1 47 08 00 00
 
-## Hrvatska
-
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
-
 ## Lietuva
 
 Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Luxembourg/Luxemburg
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharma Scandinavia AB Tel: +46 (0) 8 545 286 60
 
 ## Magyarország
 
@@ -4638,9 +4643,17 @@ Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 Lundbeck Portugal Lda Tel: +351 (0) 21 00 45 900
 
+## Hrvatska
+
+Otsuka Pharmaceutical Netherlands B.V.
+
+Tel: +31 (0) 20 85 46 555
+
 ## România
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharmaceutical Netherlands B.V.
+
+Tel: +31 (0) 20 85 46 555
 
 ## Ireland
 
@@ -4656,7 +4669,7 @@ Tel: +31 (0) 20 85 46 555
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 (0) 535 7000
 
@@ -4680,7 +4693,9 @@ Puh/Tel: +46 (0) 8 545 286 60
 
 ## Κύπρος
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharmaceutical Netherlands B.V.
+
+Tel: +31 (0) 20 85 46 555
 
 ## Sverige
 
@@ -4694,19 +4709,13 @@ Otsuka Pharmaceutical Netherlands B.V.
 
 Tel: +31 (0) 20 85 46 555
 
-## United Kingdom (Northern Ireland)
-
-Otsuka Pharmaceutical Netherlands B.V.
-
-Tel: +31 (0) 20 85 46 555
-
 <div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in {MM/YYYY}
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Package leaflet: Information for the user
 
@@ -4746,7 +4755,7 @@ ABILIFY is used to treat adults and adolescents aged 13 years and older who suff
 
 Talk to your doctor before taking ABILIFY.
 
-Suicidal thoughts and behaviours have been reported during aripiprazole treatment. Tell your doctor immediately if you are having any thoughts or feelings about hurting yourself.
+Suicidal thoughts and behaviours have been reported during treatment with this medicine. Tell your doctor immediately if you are having any thoughts or feelings about hurting yourself before or after taking ABILIFY.
 
 Before treatment with ABILIFY, tell your doctor if you suffer from
 
@@ -4770,7 +4779,7 @@ Tell your doctor immediately if you suffer from muscle stiffness or inflexibilit
 
 Tell your doctor if you or your family/carer notices that you are developing urges or cravings to behave in ways that are unusual for you and you cannot resist the impulse, drive or temptation to carry out certain activities that could harm yourself or others. These are called impulse control disorders and can include behaviours such as addictive gambling, excessive eating or spending, an abnormally high sex drive or preoccupation with an increase in sexual thoughts or feelings. Your doctor may need to adjust or stop your dose.
 
-Aripiprazole may cause sleepiness, fall in blood pressure when standing up, dizziness and changes in your ability to move and balance, which may lead to falls. Caution should be taken, particularly if you are an elderly patient or have some debility.
+This medicine may cause sleepiness, fall in blood pressure when standing up, dizziness and changes in your ability to move and balance, which may lead to falls. Caution should be taken, particularly if you are an elderly patient or have some debility.
 
 ## Children and adolescents
 
@@ -4786,7 +4795,8 @@ Taking ABILIFY with some medicines may mean the doctor will need to change your 
 
 - medicines to correct heart rhythm (such as quinidine, amiodarone, flecainide)
 - antidepressants or herbal remedy used to treat depression and anxiety ( such as fluoxetine, paroxetine, venlafaxine, St. John's Wort)
-- antifungal medicines (such as ketoconazole, itraconazole)
+- antifungal medicines (such as itraconazole)
+- ketoconazole (used to treat Cushing's syndrome when the body products an excess of cortisol)
 - certain medicines to treat HIV infection (such as efavirenz, nevirapine, an protease inhibitors e.g. indinavir, ritonavir)
 - anticonvulsants used to treat epilepsy (such as carbamazepine, phenytoin, phenobarbital)
 - certain antibiotics used to treat tuberculosis (rifabutin, rifampicin)
@@ -4809,9 +4819,7 @@ These medicines may increase the risk of side effects; if you get any unusual sy
 
 ## ABILIFY with food, drink and alcohol
 
-This medicine can be taken regardless of meals. However, the oral solution should not be diluted with other liquids or mixed with any food prior to administration.
-
-Alcohol should be avoided.
+This medicine can be taken regardless of meals. However, the oral solution should not be diluted with other liquids or mixed with any food prior to administration. Alcohol should be avoided.
 
 ## Pregnancy, breast-feeding and fertility
 
@@ -4867,7 +4875,7 @@ Even if you feel better, do not alter or discontinue the daily dose of ABILIFY w
 
 If you realise you have taken more ABILIFY than your doctor has recommended (or if someone else has taken some of your ABILIFY), contact your doctor right away. If you cannot reach your doctor, go to the nearest hospital and take the pack with you.
 
-Patients who have taken too much aripiprazole have experienced the following symptoms:
+Patients who have taken too much of this medicine have experienced the following symptoms:
 
 - rapid heartbeat, agitation/aggressiveness, problems with speech.
 - unusual movements (especially of the face or tongue) and reduced level of consciousness.
@@ -5048,7 +5056,7 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharma Scandinavia AB Tel: +46 (0) 8 545 286 60
 
 ## България
 
@@ -5060,7 +5068,7 @@ Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Danmark
 
-Otsuka Pharma Scandinavia AB Tlf: +46 (0) 8 545 286 60
+Otsuka Pharma Scandinavia AB Tlf.: +46 (0) 8 545 286 60
 
 ## Deutschland
 
@@ -5096,7 +5104,7 @@ Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Luxembourg/Luxemburg
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharma Scandinavia AB Tel: +46 (0) 8 545 286 60
 
 ## Magyarország
 
@@ -5136,7 +5144,7 @@ Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 (0) 535 7000
 
@@ -5176,19 +5184,13 @@ Otsuka Pharmaceutical Netherlands B.V.
 
 Tel: +31 (0) 20 85 46 555
 
-## United Kingdom (Northern Ireland)
-
-Otsuka Pharmaceutical Netherlands B.V.
-
-Tel: +31 (0) 20 85 46 555
-
 <div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in {MM/YYYY}
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Package leaflet: Information for the user
 
@@ -5231,17 +5233,17 @@ ABILIFY is given when treatment with oral formulations is not appropriate. Your 
 
 Talk to your doctor before you are given ABILIFY.
 
-Suicidal thoughts and behaviours have been reported during aripiprazole treatment. Tell your doctor immediately if you are having any thoughts or feelings about hurting yourself.
+Suicidal thoughts and behaviours have been reported during treatment with this medicine. Tell your doctor immediately if you are having any thoughts or feelings about hurting yourself before or after taking ABILIFY.
 
 Before treatment with ABILIFY, tell your doctor if you suffer from
 
 - high blood sugar (characterised by symptoms such as excessive thirst, passing of large amounts of urine, increase in appetite and feeling weak) or family history of diabetes
 - fits (seizures) since your doctor may want to monitor you more closely
 - involuntary, irregular muscle movements, especially in the face
-- cardiovascular diseases (diseases of the heart and circulation), family history of cardiovascular disease, stroke or \"mini\" stroke, abnormal blood pressure
 
 <div style=\"page-break-after: always\"></div>
 
+- cardiovascular diseases (diseases of the heart and circulation), family history of cardiovascular disease, stroke or \"mini\" stroke, abnormal blood pressure
 - blood clots, or family history of blood clots, as antipsychotics have been associated with formation of blood clots
 - past experience with excessive gambling
 
@@ -5257,7 +5259,7 @@ Tell your doctor immediately if you suffer from muscle stiffness or inflexibilit
 
 Tell your doctor if you or your family/carer notices that you are developing urges or cravings to behave in ways that are unusual for you and you cannot resist the impulse, drive or temptation to carry out certain activities that could harm yourself or others. These are called impulse control disorders and can include behaviours such as addictive gambling, excessive eating or spending, an abnormally high sex drive or preoccupation with an increase in sexual thoughts or feelings. Your doctor may need to adjust or stop your dose.
 
-Aripiprazole may cause sleepiness, fall in blood pressure when standing up, dizziness and changes in your ability to move and balance, which may lead to falls. Caution should be taken, particularly if you are an elderly patient or have some debility.
+This medicine may cause sleepiness, fall in blood pressure when standing up, dizziness and changes in your ability to move and balance, which may lead to falls. Caution should be taken, particularly if you are an elderly patient or have some debility.
 
 ## Children and adolescents
 
@@ -5273,14 +5275,15 @@ Receiving ABILIFY with some medicines may mean the doctor will need to change yo
 
 - medicines to correct heart rhythm (such as quinidine, amiodarone, flecainide)
 - antidepressants or herbal remedy used to treat depression and anxiety ( such as fluoxetine, paroxetine, venlafaxine, St. John's Wort)
-- antifungal medicines (such as ketoconazole, itraconazole)
+- antifungal medicines (such as itraconazole)
+- ketoconazole (used to treat Cushing's syndrome when the body produces an excess of cortisol)
 - certain medicines to treat HIV infection (such as efavirenz, nevirapine, an protease inhibitors e.g. indinavir, ritonavir)
 - anticonvulsants used to treat epilepsy (such as carbamazepine, phenytoin, phenobarbital)
 - certain antibiotics used to treat tuberculosis (rifabutin, rifampicin)
 
-These medicines may increase the risk of side effects or reduce the effect of ABILIFY; if you get any unusual symptom taking any of these medicines together with ABILIFY you should see your doctor.
-
 <div style=\"page-break-after: always\"></div>
+
+These medicines may increase the risk of side effects or reduce the effect of ABILIFY; if you get any unusual symptom taking any of these medicines together with ABILIFY you should see your doctor.
 
 Medicines that increase the level of serotonin are typically used in conditions including depression, generalised anxiety disorder, obsessive-compulsive disorder (OCD) and social phobia as well as migraine and pain:
 
@@ -5320,15 +5323,15 @@ This medicine contains less than 1 mmol sodium (23 mg) per dosage unit, that is 
 
 Your doctor will decide how much ABILIFY you need and how long you need it for. The recommended dose is 9.75 mg (1.3 mL) for the first injection. Up to three injections in 24 hours may be given. The total dose of ABILIFY (all formulations) should not exceed 30 mg per day.
 
-ABILIFY is ready to use. The correct amount of solution will be injected into your muscle by your doctor or nurse.
-
 <div style=\"page-break-after: always\"></div>
+
+ABILIFY is ready to use. The correct amount of solution will be injected into your muscle by your doctor or nurse.
 
 ## If you are given more ABILIFY than you need
 
 This medicine will be given to you under medical supervision; it is therefore unlikely that you will be given too much. If you see more than one doctor, be sure to tell them that you are receiving ABILIFY.
 
-Patients who have been given too much aripiprazole have experienced the following symptoms:
+Patients who have been given too much of this medicine have experienced the following symptoms:
 
 - rapid heartbeat, agitation/aggressiveness, problems with speech.
 - unusual movements (especially of the face or tongue) and reduced level of consciousness.
@@ -5377,11 +5380,10 @@ Common side effects (may affect up to 1 in 10 people):
 
 Uncommon side effects (may affect up to 1 in 100 people):
 
-- increased or decreased blood levels of the hormone prolactin,
-- too much sugar in the blood,
-
 <div style=\"page-break-after: always\"></div>
 
+- increased or decreased blood levels of the hormone prolactin,
+- too much sugar in the blood,
 - depression,
 - altered or increased sexual interest,
 - uncontrollable movements of mouth, tongue and limbs (tardive dyskinesia),
@@ -5431,12 +5433,12 @@ The following side effects have been reported since the marketing of oral aripip
 - stomach discomfort,
 - liver failure,
 - inflammation of the liver,
-- yellowing of the skin and white part of eyes,
-- reports of abnormal liver tests values,
-- skin rash,
 
 <div style=\"page-break-after: always\"></div>
 
+- yellowing of the skin and white part of eyes,
+- reports of abnormal liver tests values,
+- skin rash,
 - skin sensitivity to light,
 - baldness,
 - excessive sweating,
@@ -5483,7 +5485,10 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What ABILIFY contains
 
-- The active substance is aripiprazole. Each mL contains 7.5 mg aripiprazole. A vial contains 9.75 mg (1.3 mL) aripiprazole.
+- The active substance is aripiprazole. Each mL contains 7.5 mg aripiprazole.
+
+A vial contains 9.75 mg (1.3 mL) aripiprazole.
+
 - The other ingredients are sulfobutylether β -cyclodextrin (SBECD), tartaric acid, sodium hydroxide, and water for injections.
 
 ## What ABILIFY looks like and contents of the pack
@@ -5504,7 +5509,9 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharma Scandinavia AB
+
+Tel: +46 (0) 8 545 286 60
 
 ## България
 
@@ -5512,11 +5519,15 @@ Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Česká republika
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharmaceutical Netherlands B.V.
+
+Tel: +31 (0) 20 85 46 555
 
 ## Danmark
 
-Otsuka Pharma Scandinavia AB Tlf: +46 (0) 8 545 286 60
+Otsuka Pharma Scandinavia AB
+
+Tlf.: +46 (0) 8 545 286 60
 
 ## Deutschland
 
@@ -5526,7 +5537,9 @@ Tel: +49 (0) 69 1700 860
 
 ## Eesti
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharmaceutical Netherlands B.V.
+
+Tel: +31 (0) 20 85 46 555
 
 ## Lietuva
 
@@ -5534,19 +5547,25 @@ Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Luxembourg/Luxemburg
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharma Scandinavia AB Tel: +46 (0) 8 545 286 60
 
 ## Magyarország
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharmaceutical Netherlands B.V.
+
+Tel: +31 (0) 20 85 46 555
 
 ## Malta
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharmaceutical Netherlands B.V.
+
+Tel: +31 (0) 20 85 46 555
 
 ## Nederland
 
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
+Otsuka Pharmaceutical Netherlands B.V.
+
+Tel: +31 (0) 20 85 46 555
 
 ## Norge
 
@@ -5578,7 +5597,7 @@ Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 (0) 535 7000
 
@@ -5598,7 +5617,7 @@ Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
 
 ## Österreich
 
@@ -5626,12 +5645,10 @@ Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555
 
 ## Suomi/Finland
 
-Otsuka Pharma Scandinavia AB Puh/Tel: +46 (0) 8 545 286 60
+Otsuka Pharma Scandinavia AB
+
+Puh/Tel: +46 (0) 8 545 286 60
 
 ## Sverige
 
 Otsuka Pharma Scandinavia AB Tel: +46 (0) 8 545 286 60
-
-## United Kingdom (Northern Ireland)
-
-Otsuka Pharmaceutical Netherlands B.V. Tel: +31 (0) 20 85 46 555

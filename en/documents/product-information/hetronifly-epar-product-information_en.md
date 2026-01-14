@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-07-25 16:07:26
-document_pages: 38
+document_datetime: 2026-01-12 14:02:36
+document_pages: 39
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/hetronifly-epar-product-information_en.pdf
 document_name: hetronifly-epar-product-information_en.pdf
 version: success
-processing_time: 9.2568659
-conversion_datetime: 2025-12-19 04:01:28.403321
+processing_time: 9.1976575
+conversion_datetime: 2026-01-14 07:22:49.524299
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -72,36 +72,36 @@ Recommended management of immune-mediated adverse reactions are described in Tab
 
 Table 1. Recommended treatment modifications
 
-| Adverse reactions                                 | Severity                                                                                                                                                                                                                                                        | Treatment modification #                                                                                                                                                                         |
-|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Immune-mediated lung disease                      | Grade 2                                                                                                                                                                                                                                                         | Withhold until adverse reactions recover or improve to Grade 1                                                                                                                                   |
-| Immune-mediated lung disease                      | Grade 3 or 4 or recurrent Grade 2                                                                                                                                                                                                                               | Permanently discontinue                                                                                                                                                                          |
-| Immune-mediated colitis                           | Grade 2 or 3                                                                                                                                                                                                                                                    | Withhold until adverse reactions recover or improve to Grade 1                                                                                                                                   |
-| Immune-mediated colitis                           | Grade 4 or recurrent Grade 3                                                                                                                                                                                                                                    | Permanently discontinue                                                                                                                                                                          |
-| Immune-mediated hepatitis                         | Grade 2 with AST or ALT > 3 to 5 times ULN, or total bilirubin > 1.5 to 3 times ULN                                                                                                                                                                             | Withhold until adverse reactions recover or improve to Grade 1                                                                                                                                   |
-| Immune-mediated hepatitis                         | Grade 3 or 4 with AST or ALT > 5 times ULN, or total bilirubin > 3 times ULN †                                                                                                                                                                                  | Permanently discontinue                                                                                                                                                                          |
-| Immune-mediated nephritis and renal insufficiency | Grade 2 elevation of serum creatinine                                                                                                                                                                                                                           | Withhold until adverse reactions recover or improve to Grade 1                                                                                                                                   |
-| Immune-mediated nephritis and renal insufficiency | Grade 3 or 4 elevation of serum creatinine                                                                                                                                                                                                                      | Permanently discontinue                                                                                                                                                                          |
-| Immune-mediated endocrinopathies                  | Symptomatic Grade 2 or 3 hypothyroidism, Grade 2 or 3 hyperthyroidism, Grade 2 or 3 hypophysitis, Grade 2 adrenal insufficiency, Grade 3 hyperglycaemia or type 1 diabetes mellitus                                                                             | Withhold until symptoms resolve and management with corticosteroids is complete. Treatment should be continued in the presence of hormone replacement therapy as long as no symptoms are present |
-| Immune-mediated endocrinopathies                  | Grade 4 hypothyroidism Grade 4 hyperthyroidism Grade 4 hypophysitis Grade 3 or 4 adrenal insufficiency Grade 4 hyperglycaemia                                                                                                                                   | Permanently discontinue                                                                                                                                                                          |
-| Immune-mediated skin reactions                    | Grade 3                                                                                                                                                                                                                                                         | Withhold until adverse reactions recover or improve to Grade 1                                                                                                                                   |
-| Immune-mediated skin reactions                    | Grade 4 Stevens Johnson Syndrome (SJS) or toxic epidermal necrolysis (TEN)                                                                                                                                                                                      | Permanently discontinue                                                                                                                                                                          |
-| Other immune- mediated adverse reactions          | Grade 3 or 4 elevation of serum amylase or lipase Grade 2 or 3 pancreatitis Grade 2 myocarditis* Grade 2 or 3 other immune-mediated adverse reactions occurred for the first time Grade 3 decreased platelet count (thrombocytopenia) or white blood cell count | Withhold until adverse reactions recover or improve to Grade 1                                                                                                                                   |
-| Other immune- mediated adverse reactions          | Grade 4 pancreatitis or recurrent pancreatitis of any grade Grade 3 or 4 myocarditis Grade 3 or 4 encephalitis Grade 4 other immune-mediated adverse reactions occurred for the first time                                                                      | Permanently discontinue                                                                                                                                                                          |
+| Adverse reactions                                 | Severity                                                                                                                                                                                                                                                                                                         | Treatment modification #                                                                                                                                                                         |
+|---------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Immune-mediated lung disease                      | Grade 2                                                                                                                                                                                                                                                                                                          | Withhold until adverse reactions recover or improve to Grade 1                                                                                                                                   |
+|                                                   | Grade 3 or 4 or recurrent Grade 2                                                                                                                                                                                                                                                                                | Permanently discontinue                                                                                                                                                                          |
+| Immune-mediated colitis                           | Grade 2 or 3                                                                                                                                                                                                                                                                                                     | Withhold until adverse reactions recover or improve to Grade 1                                                                                                                                   |
+|                                                   | Grade 4 or recurrent Grade 3                                                                                                                                                                                                                                                                                     | Permanently discontinue                                                                                                                                                                          |
+| Immune-mediated hepatitis                         | Grade 2 with AST or ALT > 3 to 5 times ULN, or total bilirubin > 1.5 to 3 times ULN                                                                                                                                                                                                                              | Withhold until adverse reactions recover or improve to Grade 1                                                                                                                                   |
+|                                                   | Grade 3 or 4 with AST or ALT > 5 times ULN, or total bilirubin > 3 times ULN †                                                                                                                                                                                                                                   | Permanently discontinue                                                                                                                                                                          |
+| Immune-mediated nephritis and renal insufficiency | Grade 2 elevation of serum creatinine                                                                                                                                                                                                                                                                            | Withhold until adverse reactions recover or improve to Grade 1                                                                                                                                   |
+|                                                   | Grade 3 or 4 elevation of serum creatinine                                                                                                                                                                                                                                                                       | Permanently discontinue                                                                                                                                                                          |
+| Immune-mediated endocrinopathies                  | Symptomatic Grade 2 or 3 hypothyroidism, Grade 2 or 3 hyperthyroidism, Grade 2 or 3 hypophysitis, Grade 2 adrenal insufficiency, Grade 3 hyperglycaemia or type 1 diabetes mellitus                                                                                                                              | Withhold until symptoms resolve and management with corticosteroids is complete. Treatment should be continued in the presence of hormone replacement therapy as long as no symptoms are present |
+|                                                   | Grade 4 hypothyroidism Grade 4 hyperthyroidism Grade 4 hypophysitis Grade 3 or 4 adrenal insufficiency Grade 4 hyperglycaemia                                                                                                                                                                                    | Permanently discontinue                                                                                                                                                                          |
+| Immune-mediated skin reactions                    | Grade 3                                                                                                                                                                                                                                                                                                          | Withhold until adverse reactions recover or improve to Grade 1                                                                                                                                   |
+|                                                   | Grade 4 Stevens Johnson Syndrome (SJS) or toxic epidermal necrolysis (TEN)                                                                                                                                                                                                                                       | Permanently discontinue                                                                                                                                                                          |
+| Other immune- mediated adverse reactions          | Grade 2 myasthenia gravis / myasthenic syndrome* Grade 3 or 4 elevation of serum amylase or lipase Grade 2 or 3 pancreatitis Grade 2 myocarditis* Grade 2 or 3 other immune-mediated adverse reactions occurred for the first time Grade 3 decreased platelet count (thrombocytopenia) or white blood cell count | Withhold until adverse reactions recover or improve to Grade 1                                                                                                                                   |
+|                                                   | Grades 3 or 4 myasthenia gravis / myasthenic syndrome Grade 4 pancreatitis or recurrent pancreatitis of any grade Grade 3 or 4 myocarditis Grade 3 or 4 encephalitis                                                                                                                                             | Permanently discontinue                                                                                                                                                                          |
 
 <div style=\"page-break-after: always\"></div>
 
-| Adverse reactions          | Severity                                                                                           | Treatment modification #                                                                            |
-|----------------------------|----------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-|                            | Grade 4 or recurrent Grade 3 decreased platelet count (thrombocytopenia) or white blood cell count |                                                                                                     |
-| Infusion-related reactions | Grade 2                                                                                            | Reduce infusion rate to half rate or interrupt. Treatment may be resumed when the event is resolved |
-| Infusion-related reactions | Grade 3 or 4                                                                                       | Permanently discontinue                                                                             |
+| Adverse reactions          | Severity                                                                                                                                                                       | Treatment modification #                                                                            |
+|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+|                            | Grade 4 other immune-mediated adverse reactions occurred for the first time Grade 4 or recurrent Grade 3 decreased platelet count (thrombocytopenia) or white blood cell count |                                                                                                     |
+| Infusion-related reactions | Grade 2                                                                                                                                                                        | Reduce infusion rate to half rate or interrupt. Treatment may be resumed when the event is resolved |
+| Infusion-related reactions | Grade 3 or 4                                                                                                                                                                   | Permanently discontinue                                                                             |
 
 Note: Toxicity grades are in accordance with National Cancer Institute Common Terminology Criteria for Adverse Events Version 5.0 (NCI-CTCAE v5.0).
 
 - # : Serplulimab must be permanently discontinued for any Grade 3 immune-mediated adverse reaction that recurs and for any Grade 4 immune-mediated adverse reactions, except for endocrinopathies that are controlled with replacement hormones (see sections 4.4 and 4.8).
 - † : ALT, alanine aminotransferase; AST, aspartate aminotransferase; ULN, upper limit of normal.
-- *: The safety of retreatment with serplulimab in patients who experienced immune-mediated myocarditis is not clear.
+- *: The safety of retreatment with serplulimab in patients who experienced immune-mediated myasthenia gravis/myasthenic syndrome or myocarditis is not clear.
 
 ## Special populations
 
@@ -133,9 +133,9 @@ HETRONIFLY must not be administered as an intravenous push or bolus injection.
 
 The total dose of HETRONIFLY required should be diluted with sodium chloride 9 mg/ml (0.9%) solution for injection (see section 6.6).
 
-For instructions on dilution and handling of the medicinal product before administration, see section 6.6.
-
 <div style=\"page-break-after: always\"></div>
+
+For instructions on dilution and handling of the medicinal product before administration, see section 6.6.
 
 ## 4.3 Contraindications
 
@@ -209,7 +209,9 @@ If uveitis and other immune-mediated adverse reactions occur at the same time, s
 
 ## Other immune-mediated adverse reactions
 
-Given the mechanism of action of serplulimab, other potential immune-mediated adverse reactions may occur. Other fatal and life-threatening immune-mediated adverse reactions have been observed in patients treated with serplulimab in clinical trials across doses and tumour types: thrombocytopenia, acute coronary syndrome, myocardial infarction and immune-mediated encephalitis (see section 4.8). For other suspected immune-mediated adverse reactions, adequate evaluation should be performed to confirm aetiology and exclude other causes. Based on the severity of adverse reactions, serplulimab should be withheld for Grade 2 or 3 immune-mediated adverse reactions which occur for the first time. For recurrent Grade 3 immune-mediated adverse reactions (except endocrinopathies) and Grade 4 immune-mediated adverse reactions, serplulimab must be permanently discontinued. Corticosteroids can be initiated as clinically indicated (see section 4.2).
+Given the mechanism of action of serplulimab, other potential immune-mediated adverse reactions may occur. Other fatal and life-threatening immune-mediated adverse reactions have been observed in patients treated with serplulimab in clinical trials across doses and tumour types: thrombocytopenia, acute coronary syndrome, myocardial infarction, immune-mediated encephalitis, myasthenia gravis and myasthenic syndrome (see section 4.8). Patients should be made aware of the symptoms of myasthenia gravis and myasthenic syndromes (e.g. muscle weakness and tiring easily) and be advised to immediately seek medical attention if symptoms occur.
+
+For other suspected immune-mediated adverse reactions, adequate evaluation should be performed to confirm aetiology and exclude other causes. Based on the severity of adverse reactions, serplulimab should be withheld for Grade 2 or 3 immune-mediated adverse reactions which occur for the first time. For recurrent Grade 3 immune-mediated adverse reactions (except endocrinopathies) and Grade 4 immune-mediated adverse reactions, serplulimab must be permanently discontinued. Corticosteroids can be initiated as clinically indicated (see section 4.2).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -239,13 +241,13 @@ Drug-drug interaction studies have not been conducted. As monoclonal antibodies 
 
 The use of systemic corticosteroids or immunosuppressants before starting serplulimab should be avoided because of their potential interference with the pharmacodynamic activity and efficacy. However, systemic corticosteroids or other immunosuppressants can be used to treat immunemediated adverse reactions after starting serplulimab (see section 4.4).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.6 Fertility, pregnancy and lactation
 
 ## Women of childbearing potential/contraception
 
 Women of childbearing potential should use effective contraception during treatment and for at least 6 months after the last dose of serplulimab.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pregnancy
 
@@ -279,51 +281,52 @@ Serplulimab was discontinued due to adverse reactions in 5.4% of patients.
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions reported in clinical trial and in post-marketing experience are listed by system organ class and frequency (see Table 2). Unless otherwise stated, the frequencies of adverse reactions are based on all-cause adverse event frequencies identified in ASTRUM-005 trial, in which 389 patients were exposed to serplulimab in combination with chemotherapy for a median duration of 22 weeks. See section 5.1 for information about the main characteristics of patients in the pivotal clinical trial.
-
 <div style=\"page-break-after: always\"></div>
+
+Adverse reactions reported in clinical trial and in post-marketing experience are listed by system organ class and frequency (see Table 2). Unless otherwise stated, the frequencies of adverse reactions are based on all-cause adverse event frequencies identified in ASTRUM-005 trial, in which 389 patients were exposed to serplulimab in combination with chemotherapy for a median duration of 22 weeks. See section 5.1 for information about the main characteristics of patients in the pivotal clinical trial.
 
 Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); very rare (&lt; 1/10 000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
 Table 2. Adverse reactions in patients treated with HETRONIFLY *  in ASTRUM-005
 
-|                                      | Serplulimab with carboplatin and etoposide                                                                                                 |
-|--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Infections and infestations          | Infections and infestations                                                                                                                |
-| Very common                          | pneumonia a                                                                                                                                |
-| Common                               | urinary tract infection b , respiratory tract infection c                                                                                  |
-| Uncommon                             | septic shock, skin infection, enteritis infectious, lip infection, meningoencephalitis herpetic                                            |
-| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                                                                       |
-| Very common                          | neutropenia, leukopenia, anaemia, thrombocytopenia, lymphopenia                                                                            |
-| Common                               | coagulation function test abnormal d , granulocytopenia                                                                                    |
-| Uncommon                             | lymphadenitis                                                                                                                              |
-| Immune system disorders              | Immune system disorders                                                                                                                    |
-| Common                               | infusion-related reaction e                                                                                                                |
-| Uncommon                             | anaphylactic reaction                                                                                                                      |
-| Endocrine disorders                  | Endocrine disorders                                                                                                                        |
-| Very common                          | hypothyroidism f , hyperthyroidism, hyperglycaemia or type 1 diabetes mellitus g                                                           |
-| Common                               | thyroid function test abnormal h , thyroiditis i                                                                                           |
-| Uncommon                             | adrenal insufficiency j , other thyroid disorder k , hyperadrenocorticism l , hypophysitis                                                 |
-| Metabolism and nutrition disorders   | Metabolism and nutrition disorders                                                                                                         |
-| Very common                          | hyperlipidaemia, decreased appetite, hypoproteinaemia, hyperuricaemia, electrolyte imbalance m                                             |
-| Common                               | weight decreased, hypoglycaemia                                                                                                            |
-| Uncommon                             | lipoprotein abnormal                                                                                                                       |
-| Psychiatric disorders                | Psychiatric disorders                                                                                                                      |
-| Very common                          | insomnia                                                                                                                                   |
-| Nervous system disorders             | Nervous system disorders                                                                                                                   |
-| Common                               | paraesthesia, headache, dizziness, neuropathy peripheral n                                                                                 |
-| Uncommon                             | immune-mediated encephalitis o , vertigo, neurotoxicity, motor dysfunction                                                                 |
-| Eye disorders                        | Eye disorders                                                                                                                              |
-| Uncommon                             | vision blurred                                                                                                                             |
-| Cardiac disorders                    | Cardiac disorders                                                                                                                          |
-| Very common                          | arrhythmia p                                                                                                                               |
-| Common                               | sinus tachycardia, conduction defects q , sinus bradycardia, cardiac failure r , N-terminal prohormone brain natriuretic peptide increased |
-| Uncommon                             | cardiomyopathy s , myocardial ischaemia, pericardial effusion, myocardial necrosis marker increased, myocarditis                           |
+|                                      | Serplulimab with carboplatin and etoposide                                                      |
+|--------------------------------------|-------------------------------------------------------------------------------------------------|
+| Infections and infestations          | Infections and infestations                                                                     |
+| Very common                          | pneumonia a                                                                                     |
+| Common                               | urinary tract infection b , respiratory tract infection c                                       |
+| Uncommon                             | septic shock, skin infection, enteritis infectious, lip infection, meningoencephalitis herpetic |
+| Blood and lymphatic system disorders | Blood and lymphatic system disorders                                                            |
+| Very common                          | neutropenia, leukopenia, anaemia, thrombocytopenia, lymphopenia                                 |
+| Common                               | coagulation function test abnormal d , granulocytopenia                                         |
+| Uncommon                             | lymphadenitis                                                                                   |
+| Immune system disorders              | Immune system disorders                                                                         |
+| Common                               | infusion-related reaction e                                                                     |
+| Uncommon                             | anaphylactic reaction                                                                           |
+| Endocrine disorders                  | Endocrine disorders                                                                             |
+| Very common                          | hypothyroidism f , hyperthyroidism, hyperglycaemia or type 1 diabetes mellitus g                |
+| Common                               | thyroid function test abnormal h , thyroiditis i                                                |
+| Uncommon                             | adrenal insufficiency j , other thyroid disorder k , hyperadrenocorticism l , hypophysitis      |
+| Metabolism and nutrition disorders   | Metabolism and nutrition disorders                                                              |
+| Very common                          | hyperlipidaemia, decreased appetite, hypoproteinaemia, hyperuricaemia, electrolyte imbalance m  |
+| Common                               | weight decreased, hypoglycaemia                                                                 |
+| Uncommon                             | lipoprotein abnormal                                                                            |
+| Psychiatric disorders                | Psychiatric disorders                                                                           |
+| Very common                          | insomnia                                                                                        |
+| Nervous system disorders             | Nervous system disorders                                                                        |
+| Common                               | paraesthesia, headache, dizziness, neuropathy peripheral n                                      |
+| Uncommon                             | immune-mediated encephalitis o , vertigo, neurotoxicity, motor dysfunction                      |
+| Rare                                 | myasthenia gravis, myasthenic syndrome                                                          |
+| Eye disorders                        | Eye disorders                                                                                   |
+| Uncommon                             | vision blurred                                                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| Vascular disorders                                   | Vascular disorders                                                                                                                                  |
+| Cardiac disorders                                    | Cardiac disorders                                                                                                                                   |
 |------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+| Very common                                          | arrhythmia p                                                                                                                                        |
+| Common                                               | sinus tachycardia, conduction defects q , sinus bradycardia, cardiac failure r , N-terminal prohormone brain natriuretic peptide increased          |
+| Uncommon                                             | cardiomyopathy s , myocardial ischaemia, pericardial effusion, myocardial necrosis marker increased, myocarditis                                    |
+| Vascular disorders                                   | Vascular disorders                                                                                                                                  |
 | Common                                               | hypertension, vasculitis t                                                                                                                          |
 | Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders                                                                                                     |
 | Very common                                          | cough                                                                                                                                               |
@@ -354,16 +357,15 @@ Table 2. Adverse reactions in patients treated with HETRONIFLY *  in ASTRUM-005
 | Very common                                          | blood alkaline phosphatase increased                                                                                                                |
 | Common                                               | myoglobin blood increased, blood creatine phosphokinase increased, troponin increased                                                               |
 
-*  Adverse reaction frequencies presented in Table 2 may not be fully attributable to HETRONIFLY alone but may contain contributions from the underlying disease or from other medicinal products used in a combination.
+<div style=\"page-break-after: always\"></div>
+
+used in a combination.
 
 The following terms represent a group of related events that describe a medical condition rather than a single event:
 
 - a. Includes pneumonia, pneumonia fungal.
 - b. Includes urinary tract infection, asymptomatic bacteriuria.
 - c. Includes upper respiratory tract infection, pharyngotonsillitis, tonsillitis.
-
-<div style=\"page-break-after: always\"></div>
-
 - d. Includes activated partial thromboplastin time prolonged, activated partial thromboplastin time, activated partial thromboplastin time shortened, international normalised ratio decreased, prothrombin level increased.
 - e. Includes drug hypersensitivity, infusion-related reaction.
 - f. Includes hypothyroidism, blood thyroid stimulating hormone increased, thyroxine free decreased, central hypothyroidism, tri-iodothyronine decreased.
@@ -387,21 +389,22 @@ The following terms represent a group of related events that describe a medical 
 - x. Includes hepatic function abnormal, drug-induced liver injury, liver injury, immune-mediated hepatitis, immune-mediated hepatic disorder ** , hepatic failure ** .
 - y. Includes rash, rash maculo-papular, eczema, drug eruption, erythema, skin toxicity.
 - z. Includes autoimmune dermatitis, dermatitis, dermatitis allergic, dermatitis bullous, seborrhoeic dermatitis.
-24. aa. Includes back pain, myalgia, musculoskeletal chest pain, spinal pain, neck pain.
-25. bb. Includes muscular weakness, musculoskeletal discomfort.
+27. aa. Includes back pain, myalgia, musculoskeletal chest pain, spinal pain, neck pain.
+28. bb. Includes muscular weakness, musculoskeletal discomfort.
 - cc. Includes myositis ** , immune-mediated myositis  ** .
 - dd. Includes acute kidney injury, renal failure, renal impairment, renal injury.
-28. ee. Includes face oedema, oedema peripheral, peripheral swelling, swelling, swelling face.
-
-** Post-marketing event.
+31. ee. Includes face oedema, oedema peripheral, peripheral swelling, swelling, swelling face.
+32. ** Post-marketing event.
 
 ## Description of selected adverse reactions
 
-Serplulimab is associated with immune-mediated adverse reactions. The data for the following immune-mediated adverse reactions are based on 1 172 patients who received serplulimab monotherapy (n=263) or in combination with other medicinal products (n=909) across eight doses (0.3, 1, 3, 10 mg/kg every 2 weeks, 4.5 mg/kg every 3 weeks, 200 mg every 2 weeks, 300 mg every 3 weeks, or 400 mg every 4 weeks) in eight clinical trials. The management guidelines for these adverse reactions are described in sections 4.2 and 4.4.
-
-## Immune-mediated lung disease
+Serplulimab is associated with immune-mediated adverse reactions. The data for the following immune-mediated adverse reactions are based on 1 172 patients who received serplulimab
 
 <div style=\"page-break-after: always\"></div>
+
+monotherapy (n=263) or in combination with other medicinal products (n=909) across eight doses (0.3, 1, 3, 10 mg/kg every 2 weeks, 4.5 mg/kg every 3 weeks, 200 mg every 2 weeks, 300 mg every 3 weeks, or 400 mg every 4 weeks) in eight clinical trials. The management guidelines for these adverse reactions are described in sections 4.2 and 4.4.
+
+## Immune-mediated lung disease
 
 Immune-mediated lung disease occurred in 3.5% of patients, including Grade 3, 4 or 5 in 0.9%, 0.1%, and 0.3% of patients, respectively. The median time to onset was 3.25 months (range: 0.03-34.53 months). The median duration was 1.91 months (range: 0.26-13.34 months). 1.6% of patients received high-dose corticosteroid treatment. Immune-mediated lung disease led to discontinuation in 1.0% of patients.
 
@@ -429,13 +432,15 @@ Hyperthyroidism occurred in 6.3% of patients, and there were no Grade ≥ 3 hype
 
 ## Thyroiditis
 
-Thyroiditis occurred in 0.7% of patients, and there were no Grade ≥ 3 thyroiditis. The median time to onset was 5.65 months (range: 1.94-13.50 months). The median duration was 5.93 months (range: 0.56-11.30 months). 0.2% of patients received thyroid hormone replacement therapy. No patients discontinued serplulimab due to thyroiditis.
+Thyroiditis occurred in 0.7% of patients, and there were no Grade ≥ 3 thyroiditis. The median time to onset was 5.65 months (range: 1.94-13.50 months). The median duration was 5.93 months (range:
+
+<div style=\"page-break-after: always\"></div>
+
+0.56-11.30 months). 0.2% of patients received thyroid hormone replacement therapy. No patients discontinued serplulimab due to thyroiditis.
 
 ## Adrenal gland disorders
 
 Adrenal gland disorders occurred in 0.3% of patients, all of which were Grade 2. The median time to onset was 5.78 months (range: 5.75-6.93 months). No patients discontinued serplulimab due to adrenal gland disorders.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pituitary disorders
 
@@ -467,13 +472,13 @@ Other clinically significant immune-mediated adverse reactions reported in patie
 
 Blood and lymphatic system: anaemia, leukopenia, thrombocytopenia, neutropenia.
 
+<div style=\"page-break-after: always\"></div>
+
 Nervous system: dizziness, immune-mediated encephalitis, neuropathy peripheral.
 
-## Eye disorders: vision blurred.
+Eye disorders: vision blurred.
 
 Cardiac/vascular: acute coronary syndrome, myocardial infarction, cardiac failure acute, cardiotoxicity, troponin increased.
-
-<div style=\"page-break-after: always\"></div>
 
 Respiratory, thoracic and mediastinal: dyspnoea, chronic obstructive pulmonary disease, respiratory failure.
 
@@ -493,7 +498,7 @@ The proportions of patients who experienced a shift from baseline to a Grade ≥
 
 ## Elderly
 
-No overall differences in safety were reported between elderly (≥ 65 years) and younger patients. Data for patients ≥ 75 years of age are too limited to draw conclusions on this population.
+No overall differences in safety were report ed between elderly (≥ 65 years) and younger patients. Data for patients ≥ 75 years of age are too limited to draw conclusions on this population.
 
 ## Reporting of suspected adverse reactions
 
@@ -509,13 +514,11 @@ In case of overdose, patients must be closely monitored for signs or symptoms of
 
 Pharmacotherapeutic group: antineoplastic agents, monoclonal antibodies and antibody drug conjugates, PD-1/PD-L1 (Programmed cell death-1/death ligand 1) inhibitors ATC code: L01FF12.
 
-## Mechanism of action
-
-Serplulimab (HLX10) is a humanised monoclonal IgG4 antibody, which binds to the programmed cell death-1 (PD-1) receptor and blocks its interaction with ligands PD-L1 and PD-L2. The PD-1 receptor is a negative regulator of T-cell activity that has been shown to be involved in the control of T-cell immune responses. Engagement of PD-1 with the ligands PD-L1 and PD-L2, which are expressed in antigen presenting cells and may be expressed by tumours or other cells in the tumour
-
 <div style=\"page-break-after: always\"></div>
 
-microenvironment, results in inhibition of T-cell proliferation and cytokine secretion. Serplulimab potentiates T-cell responses, including anti-tumour responses, through blockade of PD-1 binding to PD-L1 and PD-L2 ligands.
+## Mechanism of action
+
+Serplulimab (HLX10) is a humanised monoclonal IgG4 antibody, which binds to the programmed cell death-1 (PD-1) receptor and blocks its interaction with ligands PD-L1 and PD-L2. The PD-1 receptor is a negative regulator of T-cell activity that has been shown to be involved in the control of T-cell immune responses. Engagement of PD-1 with the ligands PD-L1 and PD-L2, which are expressed in antigen presenting cells and may be expressed by tumours or other cells in the tumour microenvironment, results in inhibition of T-cell proliferation and cytokine secretion. Serplulimab potentiates T-cell responses, including anti-tumour responses, through blockade of PD-1 binding to PD-L1 and PD-L2 ligands.
 
 The PD-1 receptor occupation of peripheral T cells and interleukin-2 (IL-2) release ability in vitro were studied in the phase 1 trial involving 29 Chinese patients with advanced solid tumour that were injected with single and multiple doses (0.3 mg/kg, 1 mg/kg, 3 mg/kg, 10 mg/kg) of serplulimab. The result showed that serplulimab could stably maintain the saturation state of receptor occupation and sustained functional blockage at the dosage from 0.3 mg/kg to 10 mg/kg every 2 weeks interval.
 
@@ -525,7 +528,7 @@ The efficacy of serplulimab in combination with chemotherapy (carboplatin plus e
 
 The trial included adult patients (18 years or older) with ES-SCLC (according to the Veterans Administration Lung Study Group [VALG] staging system) who had not been treated with systemic therapy and with an ECOG performance-status score of 0 or 1. Patients were excluded if they had active or untreated central nervous system metastases; active autoimmune disease; administration of systemic immunosuppressive medicinal products within 14 days prior to the first dose.
 
-A total of 585 patients were enrolled and randomised (2:1) to receive one of the treatment regimens described in Table 3. Randomisation was stratified by PD-L1 expression level (negative: tumour proportion scores [TPS] &lt; 1%, positive: TPS ≥ 1%, or not evaluable/not available, measured by PD-L1 IHC 22C3 pharmDx kit), brain metastasis (yes versus no), and age (≥ 65 years versus &lt; 65 years).
+A total of 585 patients were enrolled and randomised (2:1) to receive one of the treatment regimens described in Table 3. Randomisation was stratified by PD-L1 expression level (negative: tumour proportion scores [TPS] &lt; 1%, positive: TPS ≥ 1%, or not evaluable/not available, measured by PD-L1 IHC 22C3 pharmDx kit ), brain metastasis (yes versus no), and age (≥ 65 years versus &lt; 65 years).
 
 Table 3. Intravenous treatment regimens
 
@@ -534,41 +537,39 @@ Table 3. Intravenous treatment regimens
 | A                   | Serplulimab (4.5 mg/kg) a + carboplatin (AUC=5, up to 750 mg) b + etoposide (100 mg/m 2 ) b,c | Serplulimab (4.5 mg/kg) a     |
 | B                   | Placebo + carboplatin (AUC=5, up to 750 mg) b + etoposide (100 mg/m 2 ) b,c                   | Placebo                       |
 
-a. Serplulimab was administered until disease progression or unacceptable toxicity.
-
-b. Carboplatin and etoposide were administered until completion of 4 cycles, or progressive disease or unacceptable toxicity, whichever occurred first.
-
 c. Etoposide was administered on day 1, 2 and 3 of each cycle.
 
-Baseline characteristics were balanced between the treatment arms. Among the patients enrolled, 68.5% were Asian (401 patients), and 31.5% were non-Asian (184 patients), all of which were White. The median age was 62 years (range: 28-83) with 39.3% of patients ≥ 65 years of age, and 1.9% of patients ≥ 75 years of age. 82.2% of patients were men. Baseline ECOG performance-status score was 0 (17.6%) or 1 (82.4%). 16.9% of patients were PD-L1 positive (TPS ≥ 1%). 13.3% of patients had a history of brain metastases.
-
-At the time of the interim analysis cut-off on 22 October 2021 when 66% of predefined OS events were observed (defined approximately 226, actual 246 OS events), patients had a median survival follow-up time of 12.3 months. OS, PFS and ORR results from the interim analysis are summarised in Table 4.
+Baseline characteristics were balanced between the treatment arms. Among the patients enrolled, 68.5% were Asian (401 patients), and 31.5% were non-Asian (184 patients), all of which were White. The median age was 62 years (range: 28-83) with 39.3 % of patients ≥ 65 years of age, and 1.9% of patients ≥ 75 years of age. 82.2% of patients were men. Baseline ECOG performance-status score was
 
 <div style=\"page-break-after: always\"></div>
 
+0 (17.6%) or 1 (82.4%). 16.9% of patients were PDL1 positive (TPS ≥ 1%). 13.3% of patients had a history of brain metastases.
+
+At the time of the interim analysis cut-off on 22 October 2021 when 66% of predefined OS events were observed (defined approximately 226, actual 246 OS events), patients had a median survival follow-up time of 12.3 months. OS, PFS and ORR results from the interim analysis are summarised in Table 4.
+
 Table 4. Efficacy data at the primary analysis (data cut-off date: 22 October 2021)
 
-|                          |                                       | ArmA (Serplulimab + carboplatin + etoposide)   | Arm B (Placebo + carboplatin + etoposide)   |
-|--------------------------|---------------------------------------|------------------------------------------------|---------------------------------------------|
-| Number of patients       | Number of patients                    | 389                                            | 196                                         |
-| Primary endpoint         | Primary endpoint                      | Primary endpoint                               | Primary endpoint                            |
-| OS                       | Number of patients with events, n (%) | 146 (37.5%)                                    | 100 (51.0%)                                 |
-| OS                       | Median OS (months)                    | 15.4                                           | 10.9                                        |
-| OS                       | Hazard ratio (95% CI)                 | 0.63 (0.49-0.82)                               |                                             |
-| OS                       | p-value                               | < 0.001                                        |                                             |
-| Secondary endpoints      | Secondary endpoints                   | Secondary endpoints                            | Secondary endpoints                         |
-| PFS -IRRC per RECIST 1.1 | Median PFS (months)                   | 5.7                                            | 4.3                                         |
-| PFS -IRRC per RECIST 1.1 | Hazard ratio (95% CI)                 | 0.48 (0.38-0.59)                               |                                             |
-| Confirmed ORR            | (%)                                   | 67.4%                                          | 58.7%                                       |
-| Median DOR               | Months (95% CI)                       | 5.8 (5.2-7.5)                                  | 4.1 (3.0-4.2)                               |
+|                          |                                       | Arm A (Serplulimab + carboplatin + etoposide)   | Arm B (Placebo + carboplatin + etoposide)   |
+|--------------------------|---------------------------------------|-------------------------------------------------|---------------------------------------------|
+| Number of patients       | Number of patients                    | 389                                             | 196                                         |
+| Primary endpoint         | Primary endpoint                      | Primary endpoint                                | Primary endpoint                            |
+| OS                       | Number of patients with events, n (%) | 146 (37.5%)                                     | 100 (51.0%)                                 |
+| OS                       | Median OS (months)                    | 15.4                                            | 10.9                                        |
+| OS                       | Hazard ratio (95% CI)                 | 0.63 (0.49-0.82)                                |                                             |
+| OS                       | p-value                               | < 0.001                                         |                                             |
+| Secondary endpoints      | Secondary endpoints                   | Secondary endpoints                             | Secondary endpoints                         |
+| PFS -IRRC per RECIST 1.1 | Median PFS (months)                   | 5.7                                             | 4.3                                         |
+| PFS -IRRC per RECIST 1.1 | Hazard ratio (95% CI)                 | 0.48 (0.38-0.59)                                |                                             |
+| Confirmed ORR            | (%)                                   | 67.4%                                           | 58.7%                                       |
+| Median DOR               | Months (95% CI)                       | 5.8 (5.2-7.5)                                   | 4.1 (3.0-4.2)                               |
 
 Updated analysis after unblinding with longer follow-up duration (median: 19.7 months) was conducted by the cut-off date 13 June 2022 when 100% of predefined OS events were observed (defined approximately 342, actual 363 OS events). The median OS was 15.8 months in the serplulimab group and 11.1 months in the placebo group. The stratified HR (95% CI) was 0.62 (0.50, 0.76). The median PFS by IRRC assessment per RECIST 1.1 was 5.7 months and 4.3 months, respectively, with a stratified HR (95% CI) of 0.47 (0.38, 0.58). The efficacy results of final analysis were consistent with the primary analysis. Kaplan-Meier curves for OS and PFS of final analysis are presented in Figures 1 and 2.
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 1. Kaplan-Meier curve of OS in overall population at the updated analysis (ITT) (data cut-off date: 13 June 2022)
 
 <!-- image -->
-
-<div style=\"page-break-after: always\"></div>
 
 Figure 2. Kaplan-Meier curve of PFS (RECIST 1.1) by IRRC in overall population at the updated analysis (ITT) (data cut-off date: 13 June 2022)
 
@@ -582,9 +583,11 @@ In dose escalation and dose expansion study HLX10-001, ADAs were observed in 13 
 
 Neutralising antibodies were not observed in either of the key studies. No evidence of ADA impact on pharmacokinetics, efficacy or safety was observed. However, data are still limited.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Elderly patients
 
-In the ASTRUM-005 trial, of the 389 patients in the serplulimab group in the overall population, 153 (39.3%) were ≥ 65 years. No overall differences in efficacy were observed between elderly patients and younger patients.
+In the ASTRUM-005 trial, of the 389 patients in the serplulimab group in the overall population, 153 (39.3 %) were ≥ 65 years. No overall differences in efficacy were observed between elderly patients and younger patients.
 
 ## Paediatric population
 
@@ -592,11 +595,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 
 ## 5.2 Pharmacokinetic properties
 
-Serplulimab pharmacokinetics has been investigated in a population pharmacokinetic (popPK) analysis that included 1 144 patients with lung cancer (including ES-SCLC) and other solid cancer types from 8 studies. The patients received serplulimab intravenously as monotherapy or combination therapy in the dose range of 0.3 to 10 mg/kg Q2W, 4.5 mg/kg Q3W, 200 mg Q2W, 300 mg Q3W and 400 mg Q4W. The PK was described by a two-compartment model with time-dependent clearance (CL). Inter-individual variability (coefficient of variation, CV) in base CL and central volume of distribution (Vc) was 25.8% and 15.4%. The mean (CV) observed trough concentration at steady state
-
-<div style=\"page-break-after: always\"></div>
-
-in the ASTRUM-005 trial was 62.5 µg/mL (36.3%).
+Serplulimab pharmacokinetics has been investigated in a population pharmacokinetic (popPK) analysis that included 1 144 patients with lung cancer (including ES-SCLC) and other solid cancer types from 8 studies. The patients received serplulimab intravenously as monotherapy or combination therapy in the dose range of 0.3 to 10 mg/kg Q2W, 4.5 mg/kg Q3W, 200 mg Q2W, 300 mg Q3W and 400 mg Q4W. The PK was described by a two-compartment model with time-dependent clearance (CL). Inter-individual variability (coefficient of variation, CV) in base CL and central volume of distribution (Vc) was 25.8% and 15.4%. The mean (CV) observed trough concentration at steady state in the ASTRUM-005 trial was 62.5 µg/mL (36.3%).
 
 ## Absorption
 
@@ -622,6 +621,8 @@ Serplulimab exhibited linear pharmacokinetics over the dose range of 0.3 to 10 m
 
 No dedicated studies have been performed in special populations. A popPK analysis suggested no difference in the total systemic clearance of serplulimab based on age (23-83 years), race (n=247 Whites and n=895 Asians), and ECOG performance-status score (0 or 1). Serplulimab clearance increased with increasing body weight.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Renal impairment
 
 No effect of creatinine or creatinine clearance (CRCL) (Cockcroft-Gault) was found on serplulimab CL based on a popPK analysis in patients with mild (CRCL=60-89 ml/min; n=448), moderate (CRCL=30-59 ml/min; n=102), and severe (CRCL=15-29 ml/min; n=1) renal impairment, and normal renal function (CRCL≥ 90 ml/min, n=591). There are insufficient data in patients with severe renal impairment for dosing recommendations (see section 4.2) .
@@ -634,11 +635,7 @@ No effect of ALT, AST or total bilirubin was found on serplulimab CL based on a 
 
 ## Repeat-dose toxicity
 
-In the repeat-dose toxicity study in cynomolgus monkeys dosed for up to 31 weeks, a high incidence
-
-<div style=\"page-break-after: always\"></div>
-
-of pharmacology-related perivascular mononuclear cell infiltration in the brain choroid plexus was observed at 100 mg/kg. The no observed adverse effect level (NOAEL) in the 31-weeks toxicity study was 50 mg/kg/week, which produced exposure 36 times (calculated by AUC0-t) the exposure in humans at dose of 3 mg/kg every two weeks.
+In the repeat-dose toxicity study in cynomolgus monkeys dosed for up to 31 weeks, a high incidence of pharmacology-related perivascular mononuclear cell infiltration in the brain choroid plexus was observed at 100 mg/kg. The no observed adverse effect level (NOAEL) in the 31-weeks toxicity study was 50 mg/kg/week, which produced exposure 36 times (calculated by AUC0-t) the exposure in humans at dose of 3 mg/kg every two weeks.
 
 ## Reproductive toxicity
 
@@ -660,6 +657,8 @@ No studies have been performed to assess the genotoxic or carcinogenic potential
 
 Citric acid monohydrate (for pH-adjustment) Sodium citrate (E331) (for pH-adjustment) Sodium chloride Mannitol (E421) Polysorbate 80 (E433) Water for injections
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.2 Incompatibilities
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products, except those mentioned in section 6.6. HETRONIFLY should not be infused concomitantly in the same intravenous line with other medicinal products.
@@ -672,19 +671,11 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## Diluted solution
 
-From a microbiological point of view, the product, once diluted, should be used immediately. The diluted solution must not be frozen. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 24 hours at 2°C to 8°C. This 24-hour hold may include up to 6 hours at room temperature (≤ 25°C). If refrigerated, the vials and/or intravenous bags must be allowed to come to room temperature prior to use.
-
-<div style=\"page-break-after: always\"></div>
+From a microbiological point of view, the product, once diluted, should be used immediately. The diluted solution must not be frozen. If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and should not be longer than 24 hours at 2°C to 8°C. This 24hour hold may include up to 6 hours at room temperature (≤ 25°C). If refrigerated, the vials and/or intravenous bags must be allowed to come to room temperature prior to use.
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C-8°C).
-
-Do not freeze.
-
-Store in the original package in order to protect from light.
-
-For storage conditions after dilution of the medicinal product, see section 6.3.
+Store in a refrigerator (2°C-8°C). Do not freeze. Store in the original package in order to protect from light. For storage conditions after dilution of the medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
@@ -694,31 +685,32 @@ Pack of 1 vial.
 
 ## 6.6 Special precautions for disposal and other handling
 
-## Preparation and administration
+Preparation and administration
 
--  Aseptic handling should be ensured during the preparation of infusion.
--  Do not shake the vial.
--  Equilibrate the vial to room temperature (at or below 25°C).
--  The product should be inspected visually for the particulate matters and discoloration prior to administration. The concentrate is a colourless to slightly yellow, clear to slightly opalescent solution. Discard the vial if visible particles are observed.
--  Confirm the dose of the product and calculate the required volume of HETRONIFLY.
--  Withdraw a volume of sodium chloride 9 mg/ml (0.9%) solution for injection corresponding to the volume of infused product from the target intravenous bag using a sterile syringe and discard.
--  Use a syringe to withdraw the required volume of HETRONIFLY from the vial and inject it into the sodium chloride 9 mg/ml (0.9%) solution for injection to prepare a diluted solution with a final concentration range from 1.0 to 8.0 mg/ml. Mix the diluted solution by gentle inversion.
--  Administer the infusion solution intravenously using a sterile, non-pyrogenic, low-protein binding 0.2 to 5.0 μm in-line or add-on filter.
--  Set the initial infusion rate to 100 ml per hour (25 drops per minute is recommended). The infusion rate can be adjusted if infusion-related reactions occur (see section 4.2). If there is no infusion-related adverse reaction in the first infusion, the duration of subsequent administration can be shortened to 30 minutes (± 10 minutes).
--  From a microbiological point of view, the product, once diluted, should be used immediately. The diluted solution must not be frozen. If not used immediately, the diluted solution can be stored for 24 hours at 2°C to 8°C. This 24- hour hold may include up to 6 hours at room temperature (≤ 25°C). If refrigerated, the vials and/or intravenous bags must be allowed to come to room temperature prior to use (see section 6.3).
--  At the end of infusion, the infusion tube is flushed with sodium chloride 9 mg/ml (0.9%) solution according to the routine operation procedure of the hospital.
--  Do not co-administer other medical products through the same infusion line.
--  In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded in the patient file.
+- Aseptic handling should be ensured during the preparation of infusion.
+- Do not shake the vial.
+- Equilibrate the vial to room temperature (at or below 25°C).
+- The product should be inspected visually for the particulate matters and discoloration prior to administration. The concentrate is a colourless to slightly yellow, clear to slightly opalescent solution. Discard the vial if visible particles are observed.
+- Confirm the dose of the product and calculate the required volume of HETRONIFLY.
+- Withdraw a volume of sodium chloride 9 mg/ml (0.9%) solution for injection corresponding to the volume of infused product from the target intravenous bag using a sterile syringe and discard.
+- Use a syringe to withdraw the required volume of HETRONIFLY from the vial and inject it into the sodium chloride 9 mg/ml (0.9%) solution for injection to prepare a diluted solution with a final concentration range from 1.0 to 8.0 mg/ml. Mix the diluted solution by gentle inversion.
+- Administer the infusion solution intravenously using a sterile, non-pyrogenic, low-protein binding 0.2 to 5.0 μm in -line or add-on filter.
+- Set the initial infusion rate to 100 ml per hour (25 drops per minute is recommended). The infusion rate can be adjusted if infusion-related reactions occur (see section 4.2). If there is no
+
+<div style=\"page-break-after: always\"></div>
+
+infusion-related adverse reaction in the first infusion, the duration of subsequent administration can be shortened to 30 minutes (± 10 minutes).
+
+- From a microbiological point of view, the product, once diluted, should be used immediately. The diluted solution must not be frozen. If not used immediately, the diluted solution can be stored for 24 hours at 2°C to 8°C. This 24- hour hold may include up to 6 hours at room temperature (≤ 25°C) . If refrigerated, the vials and/or intravenous bags must be allowed to come to room temperature prior to use (see section 6.3).
+- At the end of infusion, the infusion tube is flushed with sodium chloride 9 mg/ml (0.9%) solution according to the routine operation procedure of the hospital.
+- Do not co-administer other medical products through the same infusion line.
+- In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded in the patient file.
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n
-
-<div style=\"page-break-after: always\"></div>
-
-Edifici Est, 6a Planta 08039 Barcelona Spain
+Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n Edifici Est, 6a Planta 08039 Barcelona Spain
 
 ## 8. MARKETING AUTHORISATION NUMBER
 
@@ -747,7 +739,9 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer of the biological active substance
 
-Shanghai Henlius Biopharmaceutical Co., Ltd. (Building D) Block 1 No. 1289 Yishan Road Xuhui District, Shanghai China
+Shanghai Henlius Biopharmaceutical Co., Ltd. (Building D) Block 1 No. 1289 Yishan Road Xuhui District, Shanghai
+
+China
 
 Name and address of the manufacturer responsible for batch release
 
@@ -786,13 +780,13 @@ The MAH shall ensure that in each Member State where HETRONIFLY is marketed, all
 
 ## · Composition of educational material package:
 
--  Summary of product characteristics/package leaflet (will be voluntarily provided)
--  Patient card
+- Summary of product characteristics/package leaflet (will be voluntarily provided)
+- Patient card
 
 ## · Risks covered by the educational material:
 
--  Immune-mediated adverse reactions
--  Severe infusion reactions
+- Immune-mediated adverse reactions
+- Severe infusion reactions
 
 The Education Material includes information on the signs and symptoms of immune-mediated adverse reactions and infusion-related reactions, as well as the guidance for the importance of patient monitoring and the clinical management of these events. The material will be distributed to relevant HCPs as a package and patients will receive their materials through the HCP.
 
@@ -888,11 +882,12 @@ Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
+
+## 16. INFORMATION IN BRAILLE
 
 Justification for not including Braille accepted.
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -946,10 +941,10 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## Read all of this leaflet carefully before you are given this medicine because it contains important information for you.
 
--  Keep this leaflet. You may need to read it again.
--  It is important that you keep the patient card with you during treatment.
--  If you have any further questions, ask your doctor.
--  If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- It is important that you keep the patient card with you during treatment.
+- If you have any further questions, ask your doctor.
+- If you get any side effects, talk to your doctor. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -962,12 +957,12 @@ This medicine is subject to additional monitoring. This will allow quick identif
 
 ## 1. What Hetronifly is and what it is used for
 
-Hetronifly is a cancer medicine that contains the active substance serplulimab. It is a monoclonal antibody, a type of protein that is designed to recognise and attach to a specific target in the body called programmed death-1 (PD-1) receptor which is found on the surface of T and B cells (types of white blood cells that form part of the immune system, the body's natural defences). When PD-1 is activated by cancer cells it can switch off the activity of T cells. By blocking PD-1, Hetronifly prevents it from switching off your T cells which helps your immune system fight the cancer.
+Hetronifly is a cancer medicine that contains the active substance serplulimab. It is a monoclonal antibody, a type of protein that is designed to recognise and attach to a specific target in the body called programmed death-1 (PD-1) receptor which is found on the surface of T and B cells (types of white blood cells that form part of the immune system, the body's natural defences). When PD -1 is activated by cancer cells it can switch off the activity of T cells. By blocking PD-1, Hetronifly prevents it from switching off your T cells which helps your immune system fight the cancer.
 
 Hetronifly is used to treat adults with a type of lung cancer called extensive-stage small cell lung cancer (ES-SCLC). It is used when the cancer:
 
--  has spread within the lungs (or to other parts of the body) and
--  has not previously been treated.
+- has spread within the lungs (or to other parts of the body) and
+- has not previously been treated.
 
 If you have any questions about how Hetronifly works or why this medicine has been prescribed for you, ask your doctor or pharmacist.
 
@@ -987,12 +982,12 @@ If you are not sure if you are allergic, talk to your doctor or nurse before you
 
 Talk to your doctor before you are given Hetronifly if you have:
 
--  an autoimmune disease (an illness where´s immune system attacks its own cells)
--  liver problems
--  kidney damage
--  lung problems or breathing problems
--  had an organ transplant
--  had an allergic reaction to other cancer medicines that work the same way (monoclonal antibody therapies)
+- an autoimmune disease (an illness where´s immune system attacks its own cells)
+- liver problems
+- kidney damage
+- lung problems or breathing problems
+- had an organ transplant
+- had an allergic reaction to other cancer medicines that work the same way (monoclonal antibody therapies)
 
 If any of the above applies to you (or you are not sure), talk to your doctor before you are given Hetronifly.
 
@@ -1002,19 +997,19 @@ If you have any of the following conditions, call or see your doctor straight aw
 
 Speak with your doctor immediately if you notice any of the following symptoms:
 
--  inflammation of the lungs: symptoms may include new or worsening cough, shortness of breath or chest pain
--  inflammation of the liver and bile ducts: symptoms may include nausea or vomiting, feeling less hungry, pain on the right side of your stomach, yellowing of skin or whites of eyes, drowsiness, dark urine or bleeding or bruising more easily than normal
--  inflammation of the intestines: symptoms may include diarrhoea or more bowel movements than usual, or stools that are black, tarry or sticky with blood or mucus, severe stomach pain or tenderness
--  inflammation of the kidneys: symptoms may include a decrease in the amount of urine you pass
--  inflammation of the skin: symptoms may include rash, itching, skin blistering or ulcers in the mouth or on other moist surfaces
--  inflammation of glands (especially the thyroid, adrenal, pituitary and pancreas): symptoms may include fast heart rate, extreme tiredness, weight gain or weight loss, dizziness or fainting, hair loss, feeling cold, constipation, headaches that will not go away or unusual headaches, abdominal pain, nausea and vomiting
--  type 1 diabetes: symptoms may include high blood sugar, feeling more hungry or thirsty than usual, passing urine more often than usual, fast and deep breathing, confusion, or a sweet smell to your breath, a sweet or metallic taste in your mouth or a different odour to your urine or sweat
--  infusion-related reactions: symptoms may include chills or shaking, itching or rash, flushing, shortness of breath or wheezing, dizziness or fever
--  inflammation of the heart muscle: symptoms may include chest pain, shortness of breath, or irregular heartbeat
--  inflammation or problems of the muscles: symptoms may include muscle pain, or muscle weakness or rapid fatigue
--  inflammation of the brain (encephalitis): symptoms may include seizures, headache, fever, chills, vomiting, confusion and memory problems
--  inflammation of the eyes, which may include changes in eyesight
--  low number of platelets: symptoms may include bleeding (nose or gum bleeding) and/or bruising
+- inflammation of the lungs: symptoms may include new or worsening cough, shortness of breath or chest pain
+- inflammation of the liver and bile ducts: symptoms may include nausea or vomiting, feeling less hungry, pain on the right side of your stomach, yellowing of skin or whites of eyes, drowsiness, dark urine or bleeding or bruising more easily than normal
+- inflammation of the intestines: symptoms may include diarrhoea or more bowel movements than usual, or stools that are black, tarry or sticky with blood or mucus, severe stomach pain or tenderness
+- inflammation of the kidneys: symptoms may include a decrease in the amount of urine you pass
+- inflammation of the skin: symptoms may include rash, itching, skin blistering or ulcers in the mouth or on other moist surfaces
+- inflammation of glands (especially the thyroid, adrenal, pituitary and pancreas): symptoms may include fast heart rate, extreme tiredness, weight gain or weight loss, dizziness or fainting, hair loss, feeling cold, constipation, headaches that will not go away or unusual headaches, abdominal pain, nausea and vomiting
+- type 1 diabetes: symptoms may include high blood sugar, feeling more hungry or thirsty than usual, passing urine more often than usual, fast and deep breathing, confusion, or a sweet smell to your breath, a sweet or metallic taste in your mouth or a different odour to your urine or sweat
+- infusion-related reactions: symptoms may include chills or shaking, itching or rash, flushing, shortness of breath or wheezing, dizziness or fever
+- inflammation of the heart muscle: symptoms may include chest pain, shortness of breath, or irregular heartbeat
+- inflammation or problems of the muscles: symptoms may include muscle pain, or muscle weakness or rapid fatigue
+- inflammation of the brain (encephalitis): symptoms may include seizures, headache, fever, chills, vomiting, confusion and memory problems
+- inflammation of the eyes, which may include changes in eyesight
+- low number of platelets: symptoms may include bleeding (nose or gum bleeding) and/or bruising
 
 ## Children and adolescents
 
@@ -1088,11 +1083,12 @@ Hetronifly acts on your immune system and may cause inflammation in parts of you
 
 Speak with your doctor immediately if you notice any of the following serious symptoms. They may be signs of a serious, possibly fatal, condition. Getting medical treatment right away may help keep these problems from becoming more serious.
 
--  inflammation of the lungs ( common ): symptoms may include new or worsening cough, shortness of breath or chest pain
--  inflammation of the liver and bile ducts ( common ): symptoms may include nausea or vomiting, feeling less hungry, pain on the right side of your stomach, yellowing of skin or whites of eyes, drowsiness, dark urine or bleeding or bruising more easily than normal
--  inflammation of the intestines ( uncommon ): symptoms may include diarrhoea or more bowel movements than usual, or stools that are black, tarry or sticky with blood or mucus, severe stomach pain or tenderness
--  inflammation of pancreas ( uncommon ): symptoms may include abdominal pain, nausea and vomiting
--  inflammation of the heart muscle ( uncommon ): symptoms may include chest pain, shortness of breath, or irregular heartbeat
+- inflammation of the lungs ( common ): symptoms may include new or worsening cough, shortness of breath or chest pain
+- inflammation of the liver and bile ducts ( common ): symptoms may include nausea or vomiting, feeling less hungry, pain on the right side of your stomach, yellowing of skin or whites of eyes, drowsiness, dark urine or bleeding or bruising more easily than normal
+- inflammation of the intestines ( uncommon ): symptoms may include diarrhoea or more bowel movements than usual, or stools that are black, tarry or sticky with blood or mucus, severe stomach pain or tenderness
+- inflammation of pancreas ( uncommon ): symptoms may include abdominal pain, nausea and vomiting
+- inflammation of the heart muscle ( uncommon ): symptoms may include chest pain, shortness of breath, or irregular heartbeat
+- myasthenia gravis and myathenic syndromes (rare): symptoms may include muscle weakness and tiring easily
 
 ## Other side effects
 
@@ -1100,74 +1096,78 @@ Talk to your doctor if you get any of the following side effects that have been 
 
 ## Very common (may affect more than 1 in 10 people)
 
--  infection of the lung (pneumonia)
--  decrease in the number of white blood cells (leukocytes, neutrophils, lymphocytes), red blood cells (anaemia) or platelets (thrombocytopenia)
--  reduced thyroid gland activity (can cause tiredness or weight gain) or overactive thyroid gland activity
--  blood tests showing high levels of glucose (hyperglycaemia or type 1 diabetes mellitus)
--  blood tests showing high levels of uric acid (hyperuricaemia) or lipids (hyperlipidaemia)
--  blood tests showing abnormal levels of electrolyte (potassium, sodium, calcium, magnesium, phosphate, or chloride)
--  blood tests showing low levels of protein (hypoproteinaemia)
--  reduced appetite
--  trouble sleeping
--  abnormal heart rhythm
--  cough
--  nausea
--  constipation
--  abdominal pain
--  diarrhoea
--  vomiting
--  increased liver enzyme levels in the blood (alanine aminotransferase, aspartate aminotransferase, gamma-glutamyltransferase)
--  rash
+- infection of the lung (pneumonia)
+- decrease in the number of white blood cells (leukocytes, neutrophils, lymphocytes), red blood cells (anaemia) or platelets (thrombocytopenia)
+- reduced thyroid gland activity (can cause tiredness or weight gain) or overactive thyroid gland activity
+- blood tests showing high levels of glucose (hyperglycaemia or type 1 diabetes mellitus)
+- blood tests showing high levels of uric acid (hyperuricaemia) or lipids (hyperlipidaemia)
+- blood tests showing abnormal levels of electrolyte (potassium, sodium, calcium, magnesium, phosphate, or chloride)
+- blood tests showing low levels of protein (hypoproteinaemia)
+- reduced appetite
+- trouble sleeping
+- abnormal heart rhythm
+- cough
+- nausea
+- constipation
+- abdominal pain
+- diarrhoea
+- vomiting
 
 <div style=\"page-break-after: always\"></div>
 
--  hair loss
--  pain in the muscles and bones
--  fever
--  weakness
--  increased levels of alkaline phosphatase in the blood
+- increased liver enzyme levels in the blood (alanine aminotransferase, aspartate aminotransferase, gamma-glutamyltransferase)
+- rash
+- hair loss
+- pain in the muscles and bones
+- fever
+- weakness
+- increased levels of alkaline phosphatase in the blood
 
 ## Common (may affect up to 1 in 10 people)
 
--  infection of urinary tract
--  infection of upper respiratory tract
--  abnormal coagulation function test
--  infusion-related reaction
--  inflammation of thyroid gland, abnormal thyroid function test
--  weight loss
--  low blood sugar level
--  damage to the peripheral nervous system causing numbness, dizziness, headache, disorder of sensation (paraesthesia)
--  a regular cardiac rhythm in which heart beats faster than normal, slow heartbeat, conduction defects, heart failure, increased level of substances in the brain (natriuretic peptide) which may be a sign of heart failure
--  high blood pressure, inflammation of the blood vessels
--  inflammation of the mouth mucosa, indigestion, difficulty swallowing, abdominal distension, gastrointestinal disorder
--  increased blood bilirubin (breakdown product of haemoglobin)
--  itchiness, inflammation of the skin, excessive sweating
--  joint pain (arthralgia), pain in arms or legs, musculoskeletal discomfort
--  glucose in the urine, protein urine present, positive red or white blood cells in the urine, renal injury
--  increased level of urea or creatinine in the blood
--  feeling tired, overall discomfort, swelling
--  increased level of myocardial necrosis marker (troponin), myoglobin or creatine phosphokinase in the blood
+- infection of urinary tract
+- infection of upper respiratory tract
+- abnormal coagulation function test
+- infusion-related reaction
+- inflammation of thyroid gland, abnormal thyroid function test
+- weight loss
+- low blood sugar level
+- damage to the peripheral nervous system causing numbness, dizziness, headache, disorder of sensation (paraesthesia)
+- a regular cardiac rhythm in which heart beats faster than normal, slow heartbeat, conduction defects, heart failure, increased level of substances in the brain (natriuretic peptide) which may be a sign of heart failure
+- high blood pressure, inflammation of the blood vessels
+- inflammation of the mouth mucosa, indigestion, difficulty swallowing, abdominal distension, gastrointestinal disorder
+- increased blood bilirubin (breakdown product of haemoglobin)
+- itchiness, inflammation of the skin, excessive sweating
+- joint pain (arthralgia), pain in arms or legs, musculoskeletal discomfort
+- glucose in the urine, protein urine present, positive red or white blood cells in the urine, renal injury
+- increased level of urea or creatinine in the blood
+- feeling tired, overall discomfort, swelling
+- increased level of myocardial necrosis marker (troponin), myoglobin or creatine phosphokinase in the blood
 
 ## Uncommon (may affect up to 1 in 100 people)
 
--  severe infection, skin infection, infection of intestine, lip infection, infection of the brain and brain covering caused by herpes simplex virus
--  inflammation of the lymph node
--  anaphylactic reaction
--  decreased secretion of hormones produced by the adrenal glands, other thyroid disorder, overactive adrenal gland activity, inflammation of the pituitary gland situated at the base of the brain
--  abnormal lipoprotein in the blood
--  inflammation of the brain, neurotoxicity, motion sickness, motor dysfunction
--  blurred vision
--  disease of heart muscle, a reduction in blood flow to the heart muscle (myocardial ischaemia), tissue myocardial ischaemia, a collection of fluid in the pericardium, increased level of myocardial necrosis marker
--  dry mouth, inflammation of the stomach, gingival bleeding
--  thickened, sometimes scaly, skin growth, changes in skin colour, dry skin
--  auto-inflammation of the muscles (autoimmune myositis), inflammation of the joint
--  chills
+- severe infection, skin infection, infection of intestine, lip infection, infection of the brain and brain covering caused by herpes simplex virus
+- inflammation of the lymph node
+- anaphylactic reaction
+- decreased secretion of hormones produced by the adrenal glands, other thyroid disorder, overactive adrenal gland activity, inflammation of the pituitary gland situated at the base of the brain
+- abnormal lipoprotein in the blood
+- inflammation of the brain, neurotoxicity, motion sickness, motor dysfunction
+- blurred vision
+- disease of heart muscle, a reduction in blood flow to the heart muscle (myocardial ischaemia), tissue myocardial ischaemia, a collection of fluid in the pericardium, increased level of myocardial necrosis marker
+- dry mouth, inflammation of the stomach, gingival bleeding
+- thickened, sometimes scaly, skin growth, changes in skin colour, dry skin
+- auto-inflammation of the muscles (autoimmune myositis), inflammation of the joint
+- chills
+
+<div style=\"page-break-after: always\"></div>
+
+## Rare (may affect up to 1 in 1,000 people)
+
+- a condition in which the muscles become weak and tire easily (myasthenia gravis and myasthenic syndrome)
 
 ## Other side effects that have been reported with frequency not known (cannot be estimated from the available data)
 
--  inflammation of the muscles (myositis)
-
-<div style=\"page-break-after: always\"></div>
+- inflammation of the muscles (myositis)
 
 ## Reporting of side effects
 
@@ -1207,13 +1207,15 @@ Hetronifly is a concentrate for solution for intravenous infusion, which is supp
 
 ## Marketing Authorisation Holder
 
-Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n Edifici Est, 6a Planta 08039 Barcelona Spain
+Accord Healthcare S.L.U. World Trade Center, Moll de Barcelona, s/n Edifici Est, 6a Planta
+
+<div style=\"page-break-after: always\"></div>
+
+08039 Barcelona Spain
 
 ## Manufacturer
 
 Accord Healthcare Polska Sp.z o.o., ul. Lutomierska 50, Pabianice, 95-200, Poland
-
-<div style=\"page-break-after: always\"></div>
 
 Accord Healthcare Single Member S.A., 64th Km National Road Athens Lamia, Schimatari, 32009, Greece
 
@@ -1229,21 +1231,23 @@ This leaflet is available in all EU/EEA languages on the European Medicines Agen
 
 The following information is intended for healthcare professionals only:
 
-## Preparation and administration of the infusion
+Preparation and administration of the infusion
 
 Aseptic handling should be ensured during the preparation of infusion.
 
--  Do not shake the vial.
--  Equilibrate the vial to room temperature (at or below 25°C).
--  The product should be inspected visually for the particulate matters and discoloration prior to administration. The concentrate is a colourless to slightly yellow, clear to slightly opalescent solution. Discard the vial if the visible particle is observed.
--  Confirm the dose of the product and calculate the required volume of Hetronifly.
--  Withdraw a volume of the sodium chloride 9 mg/ml (0.9%) solution for injection corresponding to the volume of infused product from the target intravenous bag using a sterile syringe and discard.
--  Use a syringe to withdraw the required volume of Hetronifly from the vial and inject it into the sodium chloride 9 mg/ml (0.9%) solution for injection to prepare a diluted solution with a final concentration range from 1.0 to 8.0 mg/ml. Mix the diluted solution by gentle inversion.
--  Administer the infusion solution intravenously using a sterile, non-pyrogenic, low-protein binding 0.2 to 5.0 μm in-line or add-on filter.
--  Set the initial infusion rate to 100 ml per hour (25 drops per minute is recommended). The infusion rate can be adjusted if infusion-related reactions occur. If there is no infusion-related adverse reaction in the first infusion, the duration of subsequent administration can be shortened to 30 minutes (± 10 minutes).
--  From a microbiological point of view, the product, once diluted, should be used immediately. The diluted solution must not be frozen. If not used immediately, the diluted solution can be stored for 24 hours at 2°C to 8°C. This 24-hour hold may include up to 6 hours at room temperature (≤ 25°C). If refrigerated, the vials and/or intravenous bags must be allowed to come to room temperature prior to use.
--  At the end of infusion, the infusion tube is flushed with sodium chloride 9 mg/ml (0.9%) solution according to the routine operation procedure of the hospital.
--  Do not co-administer other medical products through the same infusion line.
--  In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded in the patient file.
+- Do not shake the vial.
+- Equilibrate the vial to room temperature (at or below 25°C).
+- The product should be inspected visually for the particulate matters and discoloration prior to administration. The concentrate is a colourless to slightly yellow, clear to slightly opalescent solution. Discard the vial if the visible particle is observed.
+- Confirm the dose of the product and calculate the required volume of Hetronifly.
+- Withdraw a volume of the sodium chloride 9 mg/ml (0.9%) solution for injection corresponding to the volume of infused product from the target intravenous bag using a sterile syringe and discard.
+- Use a syringe to withdraw the required volume of Hetronifly from the vial and inject it into the sodium chloride 9 mg/ml (0.9%) solution for injection to prepare a diluted solution with a final concentration range from 1.0 to 8.0 mg/ml. Mix the diluted solution by gentle inversion.
+- Administer the infusion solution intravenously using a sterile, non-pyrogenic, low-protein binding 0.2 to 5.0 μm in -line or add-on filter.
+- Set the initial infusion rate to 100 ml per hour (25 drops per minute is recommended). The infusion rate can be adjusted if infusion-related reactions occur. If there is no infusion-related adverse reaction in the first infusion, the duration of subsequent administration can be shortened to 30 minutes (± 10 minutes).
+- From a microbiological point of view, the product, once diluted, should be used immediately. The diluted solution must not be frozen. If not used immediately, the diluted solution can be stored for 24 hours at 2°C to 8°C. This 24-hour hold may include up to 6 hours at room temperature (≤ 25°C). If refrigerated, the vials and/or intravenous bags must be allowed to come to room temperature prior to use.
+- At the end of infusion, the infusion tube is flushed with sodium chloride 9 mg/ml (0.9%) solution according to the routine operation procedure of the hospital.
+- Do not co-administer other medical products through the same infusion line.
+- In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded in the patient file.
+
+<div style=\"page-break-after: always\"></div>
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.

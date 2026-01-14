@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-02-27 13:27:30
-document_pages: 41
+document_datetime: 2026-01-13 15:30:05
+document_pages: 37
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/welireg-epar-product-information_en.pdf
 document_name: welireg-epar-product-information_en.pdf
 version: success
-processing_time: 11.1585515
-conversion_datetime: 2025-12-28 05:14:57.983451
+processing_time: 9.339623
+conversion_datetime: 2026-01-14 07:17:56.055132
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -44,7 +44,7 @@ Film-coated tablet (tablet). Blue, oval tablet, approximately 13 x 8 mm, debosse
 
 ## Renal cell carcinoma (RCC)
 
-WELIREG is indicated as monotherapy for the treatment of adult patients with advanced clear cell renal cell carcinoma that progressed f ollowing two or more lines of therapy that included a PD-(L)1 inhibitor and at least two VEGF-targeted therapies.
+WELIREG is indicated as monotherapy for the treatment of adult patients with advanced clear cell renal cell carcinoma that progressed following two or more lines of therapy that included a PD-(L)1 inhibitor and at least two VEGF-targeted therapies.
 
 ## von Hippel-Lindau (VHL) disease-associated tumours
 
@@ -87,10 +87,9 @@ Table 1: Recommended dose modifications
 
 <div style=\"page-break-after: always\"></div>
 
-| Adverse reactions   | Severity*   | Dose modification                                   |
-|---------------------|-------------|-----------------------------------------------------|
-|                     |             | • Permanently discontinue upon recurrence ofGrade 3 |
-|                     | Grade 4     | • Permanently discontinue                           |
+| Adverse reactions   | Severity*   | Dose modification                                                 |
+|---------------------|-------------|-------------------------------------------------------------------|
+|                     | Grade 4     | • Permanently discontinue upon recurrence ofGrade 3 • Permanently |
 
 ## Special populations
 
@@ -159,9 +158,9 @@ Coadministration of belzutifan with CYP3A4 substrates, including hormonal contra
 
 Coadministration of belzutifan with hormonal contraceptives may lead to contraceptive failure (see sections 4.4 and 4.6) or an increase in breakthrough bleeding. Patients using hormonal contraceptives should be advised to use an alternative non-hormonal contraceptive method or have their male partner use a condom during treatment with belzutifan.
 
-In a clinical study, repeat administration of belzutifan 120 mg daily resulted in a 40% reduction in midazolam area under the curve (AUC), an effect consistent with a weak CYP3A4 inducer. Belzutif an may exhibit moderate CYP3A4 induction in patients who have higher belzutifan plasma exposures (see section 5.2).
+In a clinical study, repeat administration of belzutifan 120 mg daily resulted in a 40% reduction in midazolam area under the curve (AUC), an effect consistent with a weak CYP3A4 inducer. Administration of belzutifan may result in moderate CYP3A4 induction in patients who have higher belzutifan plasma exposures (see section 5.2).
 
-Based on in vitro data, MATE- 2K inhibition by belzutifan is expected at clinically relevant exposures, and inhibition of MATE1 cannot be excluded.
+Based on in vitro data, MATE2-K inhibition by belzutifan is expected at clinically relevant exposures, and inhibition of MATE1 cannot be excluded.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -197,7 +196,7 @@ Belzutifan is contraindicated during pregnancy (see section 4.3). If pregnancy o
 
 ## Breast-feeding
 
-There are no data on the presence of belzutif an or its metabolites in human milk, their eff ects on the breast-fed child, or on milk production. Because of the potential for serious adverse reactions in breast-fed children, advise women not to breast-feed during treatment with belzutif an and for 1 week after the last dose.
+There are no data on the presence of belzutif an or its metabolites in human milk, their eff ects on the breast-fed child, or on milk production. Because of the potential for serious adverse reactions in breast-f ed children, advise women not to breast-feed during treatment with belzutif an and f or at least 1 week after the last dose.
 
 ## Fertility
 
@@ -207,9 +206,9 @@ Based on findings in animals, belzutifan may impair fertility in males and femal
 
 ## 4.7 Effects on ability to drive and use machines
 
-Belzutifan has minor influence on the ability to drive and use machines. Dizziness and f atigue may occur following administration of belzutifan (see section 4.8).
+Belzutifan has minor influence on the ability to drive and use machines. Dizziness and fatigue may occur following administration of belzutifan (see section 4.8).
 
-Patients should be advised not to drive and use machines, until they are reasonably certain belzutifan therapy does not affect them adversely.
+Patients should be advised not to drive and use machines, until they are reasonably certain belzutif an therapy does not affect them adversely.
 
 ## 4.8 Undesirable effects
 
@@ -225,23 +224,23 @@ The most common adverse reactions resulting in dose interruption of belzutifan w
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions reported in the pooled dataset f or patients treated with belzutif an (n=576) or reported from post-marketing use are listed in Table 2. These reactions are presented by system organ class and by f requency. Frequencies are def ined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); and very rare (&lt; 1/10 000).
+Adverse reactions reported in the pooled dataset f or patients treated with belzutif an (n=576) or reported from post-marketing use are listed in Table 2. These reactions are presented by system organ class and by f requency. Frequencies are def ined as: very common (≥ 1/10); c ommon (≥ 1/100 to &lt; 1/10);  uncommon (≥ 1/1 000 to &lt; 1/100); rare (≥ 1/10 000 to &lt; 1/1 000); and very rare (&lt; 1/10 000).
 
 <div style=\"page-break-after: always\"></div>
 
 Table 2: Adverse reactions in patients treated with belzutifan*
 
-| Adverse drug reaction                                | All Grades   | Grade 3 - 4   |
+| System Organ Class                                   | All Grades   | Grade 3 - 4   |
 |------------------------------------------------------|--------------|---------------|
 | Blood and lymphatic system disorders                 |              |               |
 | Anaemia †                                            | Very common  | Very common   |
 | Nervous system disorders                             |              |               |
 | Dizziness                                            | Very common  | -             |
+| Vascular disorders                                   |              |               |
+| Haemorrhage ‡#                                       | Very common  | Common        |
 | Respiratory, thoracic and mediastinal disorders      |              |               |
 | Dyspnoea                                             | Very common  | Common        |
 | Hypoxia                                              | Very common  | Very common   |
-| Vascular disorders                                   |              |               |
-| Haemorrhage ‡ #                                      | Very common  | Common        |
 | Gastrointestinal disorders                           |              |               |
 | Nausea                                               | Very common  | Uncommon      |
 | General disorders and administration site conditions |              |               |
@@ -283,7 +282,7 @@ Pharmacotherapeutic group: Antineoplastic agent, other antineoplastic agents. AT
 
 ## Mechanism of action
 
-Belzutifan is an inhibitor of  the transcription f actor hypoxia-inducible factor 2 alpha (HIF2α). Under normal oxygen levels, HIF2α is targeted f or degradation by VHL protein. Impairment of  VHL protein function results in accumulation of HIF2α. Consequently, HIF -2α translocates into the nucleus and regulates expression genes, associated with cellular proliferation, angiogenesis, and tumour growth. Belzutifan binds to HIF2α, and in conditions of  hypoxia or impairment of  VHL protein f unction, belzutifan blocks the HIF2α -HIF-1 β interaction, leading to reduced transcription and expression of HIF2α target genes.
+Belzutifan is an inhibitor of  the transcription f actor hypoxia-inducible factor 2 alpha (HIF2α). Under normal oxygen levels, HIF2α is targeted f or degradation by VHL protein. Impairment of VHL protein function results in accumulation of HIF2α. Consequently, HIF2α translocates into the nucleus and regulates expression of genes associated with cellular prolif eration, angiogenesis, and tumour growth. Belzutifan binds to HIF2α, and in conditions of  hypoxia or impairment of  VHL protein f unction, belzutif an blocks the HIF2α -HIF-1 β interaction, leading to reduced transcription and expression of HIF2α target genes.
 
 ## Pharmacodynamic effects
 
@@ -291,7 +290,7 @@ Circulating plasma levels of erythropoietin (EPO) were monitored in patients as 
 
 At the recommended dose (120 mg once daily) for belzutif an, there were no clinically relevant ef f ects on the QTc interval.
 
-## Clinical ef f icacy
+## Clinical eff icacy
 
 ## Clinical study in adult patients with advanced renal cell carcinoma (RCC)
 
@@ -309,7 +308,7 @@ The primary efficacy outcome measures were progression-free survival (PFS) measu
 
 Table 3 summarises key efficacy measures in the subgroup of patients that received two or more lines of therapy that included a PD-(L)1 inhibitor and at least two VEGF-targeted therapies in LITESPARK-005. The KM curves for PFS and OS are shown in Figures 1 and 2.
 
-Table 3: Efficacy results (BICR assessment) in LITESPARK-005 for patients that received two or more lines of therapy that included a PD-(L)1 inhibitor and at least two VEGF-targeted therapies
+Table 3: Efficacy results in LITESPARK-005 for patients that received two or more lines of therapy that included a PD-(L)1 inhibitor and at least two VEGF-targeted therapies
 
 | Endpoint                        | Belzutifan n=187   | Everolimus n=182   |
 |---------------------------------|--------------------|--------------------|
@@ -341,9 +340,9 @@ Figure 1: Kaplan-Meier curve for progression-free survival by treatment arm in L
 
 Figure 2: Kaplan-Meier curve for overall survival by treatment arm in LITESPARK-005 for patients that received two or more lines of therapy that included a PD(L)1 inhibitor and at least two VEGF-targeted therapies *
 
-<!-- image -->
+* Median follow-up time of 18.9 months
 
-* Median follow-up time of 19.6 months
+<!-- image -->
 
 Clinical study in adult patients with von Hippel-Lindau (VHL) disease-associated tumours The efficacy of belzutif an was investigated in LITESPARK-004, an open-label Phase 2 clinical study in 61 patients with VHL disease who had at least one measurable solid tumour (as defined by RECIST v1.1) localised to the kidney and who did not require immediate surgery. Patients could also have other VHL disease-associated tumours, such as CNS haemangioblastomas and pNET. Patients received belzutifan at a dose of 120 mg once daily. Patients were evaluated radiologically approximately 12 weeks after initiation of treatment and every 12 weeks thereafter. Treatment was continued until progression of disease or unacceptable toxicity. Patients were required to have an ECOG PS of 0 or 1. The study excluded patients who had any evidence of metastatic disease, either RCC or other VHL disease-associated tumours, an immediate need for surgical intervention for tumour treatment, any major surgical procedure completed within 4 weeks prior to study enrolment, any major cardiovascular event within 6 months prior to study drug administration, or prior systemic treatments for VHL disease-associated RCC.
 
@@ -357,16 +356,16 @@ Table 4 summarises the efficacy results for VHL disease-associated RCC tumours i
 
 Table 4: Efficacy results in VHL disease-associated RCC tumours in LITESPARK-004
 
-| Endpoint                   | Belzutifan n=61    |
-|----------------------------|--------------------|
-| ORR * % (95% CI)           | 67.2% (54.0, 78.7) |
-| Complete response          | 11.5%              |
-| Partial response           | 55.7%              |
-| Response duration †        |                    |
-| Median in months (range)   | NR(8.6+, 44.4+)    |
-| %with duration ≥ 12 months | 100.0%             |
-| Time to response           |                    |
-| Median in months (range)   | 11.1 (2.7, 41.2)   |
+| Endpoint                    | Belzutifan n=61    |
+|-----------------------------|--------------------|
+| ORR * % (95% CI)            | 67.2% (54.0, 78.7) |
+| Complete response           | 11.5%              |
+| Partial response            | 55.7%              |
+| Response duration †         |                    |
+| Median in months (range)    | NR(8.6+, 44.4+)    |
+| % with duration ≥ 12 months | 100.0%             |
+| Time to response            |                    |
+| Median in months (range)    | 11.1 (2.7, 41.2)   |
 
 Efficacy data with a median follow-up of  49.7 months (cut-off date 3 Apr 2023)
 
@@ -406,11 +405,11 @@ NR = Not reached
 
 ## Paediatric population
 
-The European Medicines Agency has waived the obligation to submit the results of studies with belzutif an in all subsets of  the paediatric population in renal neoplasms and VHL disease (see section 4.2 f or inf ormation on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with WELIREG in all subsets of the paediatric population in renal neoplasms and VHL disease (see section 4.2 f or inf ormation on paediatric use).
 
 ## Conditional approval
 
-This medicinal product has been authorised under a socalled 'conditional approval' scheme. This means that further evidence on this medicinal product is awaited. The European Medicines Agency will review new information on this medicinal product at least every year and this SmPC will be updated as necessary.
+This medicinal product has been authorised under a socalled 'conditional approval' scheme. T his means that further evidence on this medicinal product is awaited. The European Medicines Agency will review new information on this medicinal product at least every year and this SmPC will be updated as necessary.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -426,7 +425,7 @@ A high-fat, high-calorie meal delayed peak belzutifan concentration by approxima
 
 ## Distribution
 
-Based on the population PK analysis, the mean (CV%) volume of distribution is 120 L (28.5%). Plasma protein binding of belzutifan is 45%. The blood-to-plasma concentration ratio of belzutifan is 0.88.
+Based on the population PK analysis, the mean (CV%) volume of distribution is 120 L (28.2%). Plasma protein binding of belzutifan is 45%. The blood-to-plasma concentration ratio of belzutifan is 0.88.
 
 ## Biotransformation
 
@@ -434,7 +433,7 @@ Belzutifan is primarily metabolised by UGT2B17 and CYP2C19 and to lesser extent 
 
 ## In vitro assessment of drug interactions
 
-Belzutifan is a substrate of  UGT2B17, CYP2C19 and CYP3A4. Active transport is not an important determinant of belzutifan disposition. Belzutifan is not an inhibitor of CYP enzymes, UGT enzymes, or transporters with the exception of MATE-2K, and potentially MATE1. Belzutifan does not induce CYP1A2, however, belzutifan induces CYP2B6, CYP2C8 and CYP3A4 in a concentration dependent manner (see section 4.5).
+Belzutifan is a substrate of  UGT2B17, CYP2C19 and CYP3A4. Active transport is not an important determinant of belzutifan disposition. Belzutifan is not an inhibitor of CYP enzymes, UGT enzymes, or transporters with the exception of MATE2-K, and potentially MATE1. Belzutifan does not induce CYP1A2, however, belzutifan induces CYP2B6, CYP2C8 and CYP3A4 in a concentration dependent manner (see section 4.5).
 
 ## Elimination
 
@@ -452,7 +451,7 @@ The plasma Cmax and AUC increased proportionally over a dose range of 40 mg to 1
 
 ## Renal impairment
 
-Based on a population pharmacokinetic analysis of belzutifan in healthy subjects and patients with cancer, no clinically significant differences in the mean belzutif an exposure were observed between subjects with normal renal f unction and those with mild and moderate renal impairment (as evaluated by estimated glomerular filtration rate (eGFR)). In a dedicated pharmacokinetic study, belzutif an exposure (AUC0-INF) decreased by 6% and increased by 14% in patients with end-stage renal disease before and after haemodialysis, respectively (see section 4.2).
+Based on a population pharmacokinetic analysis of belzutifan in healthy subjects and patients with cancer, no clinically significant differences in the mean belzutif an exposure were observed between subjects with normal renal f unction and those with mild and moderate renal impairment (as evaluated by estimated glomerular filtration rate (eGFR)). In a dedicated pharmacokinetic study, belzutifan exposure (AUC0-INF) decreased by 6% and increased by 14% in patients with end-stage renal disease before and after haemodialysis, respectively (see section 4.2).
 
 ## Hepatic impairment
 
@@ -462,17 +461,17 @@ Based on a population pharmacokinetic analysis of belzutifan in healthy subjects
 
 Patients who are dual UGT2B17 and CYP2C19 poor metabolisers have higher belzutifan exposures, which may increase the incidence and severity of adverse reactions of belzutifan and should be closely monitored (see sections 4.4 and 4.8).
 
-Belzutifan is primarily metabolised by UGT2B17 and CYP2C19. The activity of these enzymes varies among individuals who carry different genetic variants, which may impact belzutifan concentrations. Poor metabolisers are individuals who are considered to have no enzyme activity. In patients who are dual UGT2B17 and CYP2C19 poor metabolisers, CYP3A4 may be a major elimination pathway. Approximately 15% of Caucasians, 11% of Latinos, 6% of African Americans, 38% of South Asians, and 70% of East Asians are UGT2B17 poor metabolisers. Approximately 2% of Caucasians, 1% of Latinos, 5% of African Americans, 8% of South Asians, and 13% of East Asians are CYP2C19 poor metabolisers. Approximately 0.3% of Caucasians, 0.1% of Latinos, 0.3% of African Americans, 3% of South Asians, and 9% of East Asians are dual UGT2B17 and CYP2C19 poor metabolisers. Expected frequencies in the Japanese population for the UGT2B17, CYP2C19, and dual UGT2B17 and CYP2C19 poor metabolisers are approximately 77%, 19%, and 15%, respectively. Expected frequencies in the United States population for the UGT2B17, CYP2C19, and dual UGT2B17 and CYP2C19 poor metabolisers are approximately 16%, 3%, and 0.5%, respectively based on the reported proportion of the US population represented by major racial/ethnic groups.
+Belzutifan is primarily metabolised by UGT2B17 and CYP2C19. The activity of these enzymes varies among individuals who carry different genetic variants, which may impact belzutifan concentrations. Poor metabolisers are individuals who are considered to have little to no enzyme activity. In patients who are dual UGT2B17 and CYP2C19 poor metabolisers, CYP3A4 may be a major elimination pathway.
+
+Approximately 15% of Caucasians, 11% of Latinos, 6% of African Americans, 38% of South Asians, and 69% of East Asians are UGT2B17 poor metabolisers. Approximately 2% of Caucasians, 1% of Latinos, 5% of African Americans, 8% of South Asians, and 13% of East Asians are CYP2C19 poor metabolisers. Approximately 0.4% of Caucasians, 0.1% of Latinos, 0.3% of African Americans, 3% of South Asians, and 9% of East Asians are dual UGT2B17 and CYP2C19 poor metabolisers. Expected frequencies in the Japanese population for the UGT2B17, CYP2C19, and dual UGT2B17 and CYP2C19 poor metabolisers are approximately 77%, 19%, and 15%, respectively. Expected frequencies in the United States population for the UGT2B17, CYP2C19, and dual UGT2B17 and CYP2C19 poor metabolisers are approximately 16%, 3%, and 0.5%, respectively based on the reported proportion of the US population represented by major racial/ethnic groups.
 
 The impact of CYP2C19 and UGT2B17 poor metabolisers on belzutifan exposure was assessed in a population PK analysis. Based on the population PK model, patients who are CYP2C19, UGT2B17, or dual UGT2B17 and CYP2C19 poor metabolisers, are projected to have 1.3-, 2.7- or 3.3 -fold the exposures (steady-state AUC0-24hr), respectively, compared to a typical ref erence patient (UGT2B17 extensive metaboliser, CYP2C19 extensive/intermediate metaboliser) for the recommended dose. No dose adjustment is recommended based on exposure-response analyses for efficacy and safety and the risk-benefit profile.
 
-## Effects of age, gender, ethnicity, race, and body weight
-
-Based on a population pharmacokinetic analysis, age (range: 19 to 90 years), gender, ethnicity, race, and body weight (range: 42.1 to 166 kg) do not have a clinically meaningful effect on the
-
 <div style=\"page-break-after: always\"></div>
 
-pharmacokinetics of belzutifan. Potential dif ferences in exposure across races are possible due to different frequencies of metabolising enzymes (see 'Special populations -Dual UGT2B17 and CYP2C19 Poor Metabolisers ' ).
+## Effects of age, gender, ethnicity, race, and body weight
+
+Based on a population pharmacokinetic analysis, age (range: 19 to 90 years), gender, ethnicity, race, and body weight (range: 42.1 to 166 kg) do not have a clinically meaningful effect on the pharmacokinetics of belzutifan. Potential dif ferences in exposure across races are possible due to different frequencies of metabolising enzymes (see 'Special populations -Dual UGT2B17 and CYP2C19 Poor Metabolisers ' ).
 
 ## 5.3 Preclinical safety data
 
@@ -486,13 +485,13 @@ A 26-week transgenic rasH2 mouse carcinogenicity study has been conducted with b
 
 ## Mutagenesis
 
-Belzutifan was not genotoxic in in vitro bacterial mutagenesis and micronucleus assays, and an in vivo rat micronucleus assay at 1.7-f old human exposure.
+Belzutifan was not genotoxic in in vitro bacterial mutagenesis and micronucleus assays, and an in vivo rat micronucleus assay at 1.7-fold human exposure.
 
 ## Reproductive toxicity
 
 Fertility studies with belzutifan have not been conducted. In the 3-month repeat-dose toxicity study in rats, irreversible testicular atrophy/degeneration and oligospermia was observed at exposures lower than the human exposure at the recommended dose of 120 mg daily. No testicular toxicity was observed in dogs up to an exposure similar to the human exposure. There were no findings in female reproductive organs in either rat or dog 3-month toxicity studies, but HIF2α has a f unctional role in the uterus during embryo implantation and establishment of pregnancy in mice. HIF2α inhibition by exposure to belzutifan has the potential to interfere with embryo implantation, leading to impairment of female fertility.
 
-In a rat embryo-foetal development study, administration of belzutifan during organogenesis caused embryo-foetal lethality up to 100%, reduced foetal body weight, and foetal skeletal abnormalities at exposures similar to or below the human exposure at the recommended dose of 120 mg daily.
+In a rat embryo-f oetal development study, administration of belzutifan during organogenesis caused embryo-foetal lethality up to 100%, reduced foetal body weight, and foetal skeletal abnormalities at exposures similar to or below the human exposure at the recommended dose of 120 mg daily.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -502,34 +501,49 @@ In a rat embryo-foetal development study, administration of belzutifan during or
 
 Hypromellose acetate succinate Cellulose microcrystalline (E460) Mannitol (E421) Croscarmellose sodium (E468) Silica, colloidal anhydrous (E551) Magnesium stearate (E470b)
 
-## Film-coating
-
-Polyvinyl alcohol (E1203) Titanium dioxide (E171) Macrogol (E1521)
-
 <div style=\"page-break-after: always\"></div>
 
-| Talc (E553b) Indigo carmine aluminium lake (E132)                                                                           | Talc (E553b) Indigo carmine aluminium lake (E132)                                                                           |
-|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| 6.2                                                                                                                         | Incompatibilities                                                                                                           |
-| Not applicable.                                                                                                             | Not applicable.                                                                                                             |
-| 6.3                                                                                                                         | Shelflife                                                                                                                   |
-| 4 years                                                                                                                     | 4 years                                                                                                                     |
-| 6.4                                                                                                                         | Special precautions for storage                                                                                             |
-| This medicinal product does not require any special storage conditions.                                                     | This medicinal product does not require any special storage conditions.                                                     |
-| 6.5                                                                                                                         | Nature and contents ofcontainer                                                                                             |
-| Aluminium/aluminium blisters.                                                                                               | Aluminium/aluminium blisters.                                                                                               |
-| Pack containing 30 film-coated tablets. Multipack containing 90 (3 packs of30) film-coated                                  | Pack containing 30 film-coated tablets. Multipack containing 90 (3 packs of30) film-coated                                  |
-| Not all pack sizes may be marketed.                                                                                         | Not all pack sizes may be marketed.                                                                                         |
-| 6.6                                                                                                                         | Special precautions for disposal                                                                                            |
-| Any unused medicinal product or waste material should be disposed ofin accordance with local requirements.                  | Any unused medicinal product or waste material should be disposed ofin accordance with local requirements.                  |
-| 7.                                                                                                                          | MARKETINGAUTHORISATIONHOLDER                                                                                                |
-| Merck Sharp& Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands                                                       | Merck Sharp& Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands                                                       |
-| 8.                                                                                                                          | MARKETINGAUTHORISATION NUMBER(S)                                                                                            |
-| EU/1/24/1893/001 EU/1/24/1893/002                                                                                           | EU/1/24/1893/001 EU/1/24/1893/002                                                                                           |
-| 9.                                                                                                                          | DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION                                                                    |
-| Date offirst authorisation:                                                                                                 | Date offirst authorisation:                                                                                                 |
-| 10.                                                                                                                         | DATE OF REVISIONOF THE TEXT                                                                                                 |
-| Detailed information on this medicinal product is available on the website ofthe European Agency https://www.ema.europa.eu. | Detailed information on this medicinal product is available on the website ofthe European Agency https://www.ema.europa.eu. |
+## Film-coating
+
+Polyvinyl alcohol (E1203) Titanium dioxide (E171) Macrogol (E1521) Talc (E553b)
+
+Indigo carmine aluminium lake (E132)
+
+## 6.2 Incompatibilities
+
+Not applicable.
+
+## 6.3 Shelf life
+
+4 years
+
+## 6.4 Special precautions for storage
+
+This medicinal product does not require any special storage conditions.
+
+## 6.5 Nature and contents of container
+
+Aluminium/aluminium blisters. Pack containing 90 (3 cartons of 30 tablets) f ilm-coated tablets.
+
+## 6.6 Special precautions for disposal
+
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/24/1893/002
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 12 February 2025
+
+## 10. DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -598,7 +612,7 @@ The MAH shall ensure that in each Member State where WELIREG is marketed, all he
 - Belzutifan is contraindicated in pregnant women treated for von Hippel-Lindau (VHL) disease-associated tumours.
 - Belzutifan should not be used during pregnancy in women treated for renal cell carcinoma unless the clinical condition requires treatment with belzutifan.
 - Details on how to reduce the potential risk of exposure during pregnancy for women of childbearing potential based on the following:
-- o A pregnancy test should be performed before start of treatment with belzutif an.
+- o A pregnancy test should be performed before start of treatment with belzutifan.
 - o Women of childbearing potential have to use highly effective contraception method during treatment with belzutifan and up to at least 1 week after the last dose.
 - o Explain to patient that belzutifan may reduce the ef ficacy of hormonal contraceptives. Therefore, a non-hormonal contraceptive method should be used or have their male partner use a condom.
 - o The female patients of childbearing potential should be informed about the potential risk of embryo-foetal harm and appropriate contraceptive measures before start of treatment with belzutif an.
@@ -610,8 +624,9 @@ The MAH shall ensure that in each Member State where WELIREG is marketed, all he
 - Belzutifan should not be used by pregnant women because the use of belzutifan can cause foetal harm, including foetal loss, when used during pregnancy.
 - Language describing how to reduce the potential risk of exposure during pregnancy based on the following:
 - o A pregnancy test should be performed before start of treatment with belzutifan.
-- o Women of childbearing potential have to use highly effective contraception method during treatment with belzutifan and up to at least 1 week after the last dose. o Belzutifan may reduce the efficacy of hormonal contraceptives. Therefore, a nonhormonal contraceptive method should be used or have their male partner use a condom.
-- o If a pregnancy occurs during treatment with belzutifan contact your treating physician immediately.
+- o Women of childbearing potential have to use highly effective contraception method during treatment with belzutifan and up to at least 1 week after the last dose.
+- o Belzutifan may reduce the efficacy of hormonal contraceptives. Therefore, a non-hormonal contraceptive method should be used or have their male partner use a condom.
+- o If a pregnancy occurs during treatment with belzutif an contact your treating physician immediately.
 - Contact details of the belzutifan prescriber.
 - Women of childbearing potential should be instructed to talk to their healthcare professional about contraception while taking belzutifan.
 - Instruct patient to ref er to PIL for additional inf ormation about the safety of belzutifan.
@@ -637,89 +652,9 @@ This being a conditional marketing authorisation and pursuant to Article 14-a of
 
 ## A. LABELLING
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-CARTON
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-WELIREG 40 mg film-coated tablets belzutif an
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each film-coated tablet contains 40 mg belzutifan.
-
-## 3. LIST OF EXCIPIENTS
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-Film-coated tablets
-
-30 film-coated tablets
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use.
-
-Oral use
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-8. EXPIRY DATE
-
-EXP
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATIONHOLDER   |
-|-------|------------------------------------------------------|
-
-Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
-
-| 12.   | MARKETINGAUTHORISATION NUMBER(S)   |
-|-------|------------------------------------|
-
-EU/1/24/1893/001 30 film-coated tablets
-
-| 13.   | BATCHNUMBER   |
-|-------|---------------|
-
-Lot
-
-| 14.   | GENERAL CLASSIFICATION FORSUPPLY   |
-|-------|------------------------------------|
-
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
-
-| 16.   | INFORMATION IN BRAILLE   |
-|-------|--------------------------|
-
-WELIREG 40 mg
-
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
-
-2D barcode carrying the unique identifier included.
-
-| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
-|-------|----------------------------------------|
-
-PC SN NN
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING OUTER CARTON OF MULTIPACK -INCLUDING BLUE BOX
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING OUTER CARTON -INCLUDING BLUE BOX
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -735,7 +670,7 @@ Each film-coated tablet contains 40 mg belzutif an.
 
 Film-coated tablets
 
-Multipack: 90 (3 packs of 30) film-coated tablets
+90 (3 x 30) f ilm-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -762,12 +697,14 @@ EXP
 | 11.   | NAMEANDADDRESS OF THE MARKETINGAUTHORISATIONHOLDER   |
 |-------|------------------------------------------------------|
 
-Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
+Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem
+
+The Netherlands
 
 | 12. MARKETINGAUTHORISATION NUMBER(S)   |
 |----------------------------------------|
 
-EU/1/24/1893/002 Multipack: 90 (3 packs of 30) film-coated tablets
+EU/1/24/1893/002
 
 | 13.   | BATCHNUMBER   |
 |-------|---------------|
@@ -797,9 +734,7 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-## INNER CARTON OF MULTIPACK -WITHOUT BLUE BOX
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING INNER CARTON -WITHOUT BLUE BOX
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -813,11 +748,11 @@ Each film-coated tablet contains 40 mg belzutifan.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Film-coated tablets
+Film-coated tablets
 
 30 film-coated tablets
 
-Component of a multipack, can't be sold separately .
+C an't be sold separately .
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -825,12 +760,13 @@ Read the package leaflet before use.
 
 Oral use
 
-6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
-8. EXPIRY DATE
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
 
 EXP
 
@@ -846,7 +782,7 @@ Merck Sharp &amp; Dohme B.V. Waarderweg 39 2031 BN Haarlem The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/24/1893/002 Multipack: 90 (3 packs of 30) film-coated tablets
+EU/1/24/1893/002
 
 ## 13. BATCH NUMBER
 
@@ -859,7 +795,9 @@ Lot
 WELIREG 40 mg
 
 17. UNIQUE IDENTIFIER -2D BARCODE
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+| 18.   | UNIQUE IDENTIFIER-HUMANREADABLE DATA   |
+|-------|----------------------------------------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -890,41 +828,37 @@ Lot
 | 5.   | OTHER   |
 |------|---------|
 
-## PATIENT CARD
+## Patient card
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
+## Important information for female patients who could become pregnant
 
-Welireg (belzutif an)
+## WELIREG (belzutifan)
 
-- Do not take WELIREG for von Hippel-Lindau disease if you are pregnant.
-- If you are pregnant and need treatment for Renal Cell Carcinoma (RCC), talk to your doctor about the use of WELIREG.
-- WELIREG may harm the baby and may cause a miscarriage. If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor or pharmacist for advice before taking this medicine.
+[Pictogram]
+
+You should not become pregnant while taking WELIREG.
+
+If you are pregnant:
+
+- o Do not take WELIREG for von Hippel-Lindau disease.
+- o Talk to your doctor about the use of WELIREG for the treatment of Renal Cell Carcinoma.
+- WELIREG may harm the baby in your womb and cause a miscarriage.
+- Talk to your doctor immediately if you are pregnant, think you are pregnant, you become pregnant, or you want to become pregnant, before and during WELIREG treatment.
 - Your doctor will do a pregnancy test before you start taking WELIREG.
-- You should not become pregnant while taking WELIREG.
 
-## Birth control (contraception)
+## Contraception (pregnancy prevention)
 
-- If you are a woman who could get pregnant:
-- Birth control methods that contain hormones-such as birth control pills, injections, or transdermal patches-may not work as well while you are taking WELIREG.
-- While you are taking WELIREG and for at least 1 week after your last dose you should:
-- -Use an effective form of non-hormonal birth control (contraception) or
-- -Have your male partner use a condom.
-- Talk to your doctor or pharmacist about birth control methods that may be right for you while you are taking WELIREG.
-- Tell your doctor immediately if you become pregnant or think you might have become pregnant during treatment.
+- Birth control methods that contain hormones - such as birth control pills, injections, or transdermal patches - may not work as well while taking WELIREG.
+- Use a reliable birth control method without hormones or have your male partner use a condom to prevent pregnancy. Do this while you are taking WELIREG and for at least 1 week after last dose.
+- Talk to your doctor or pharmacist about birth control methods that may be right for you.
 
-For more information, consult the Package Leaflet for WELIREG containing information for the patient.
+## Read carefully the package leaflet for more information.
 
-## Important Contact Information
+## Important contact details
 
-Name of Doctor \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
-
-Office Phone \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
-
-After-hours Phone\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
-
-My Name \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
+My name \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ Name of my doctor \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_ Office phone \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_
 
 [MSD logo]
 
@@ -973,7 +907,7 @@ The active substance in WELIREG, belzutif an, blocks a protein called hypoxia-in
 ## Do not take WELIREG
 
 - -if  you are allergic to belzutif an or any of  the other ingredients of  this medicine (listed in section 6). Talk to your doctor or pharmacist if you are not sure.
-- -if  you are pregnant and need to be treated f or von Hippel-Lindau disease (see section 'Pregnancy' ).
+- -if you are pregnant and need to be treated f or von Hippel-Lindau disease (see section 'Pregnancy' ).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1166,12 +1100,12 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What WELIREG contains
 
-* The active substance is belzutifan. Each film-coated tablet contains 40 mg of belzutifan.
-* The other ingredients are croscarmellose sodium (E468) (see 'WELIREG contains sodium' in section 2), hypromellose acetate succinate, magnesium stearate (E470b), mannitol (E421), cellulose microcrystalline (E460), and colloidal anhydrous silica (E551). The f ilm-coat contains indigo carmine aluminium lake (E132), macrogol (E1521), polyvinyl alcohol (E1203), talc (E553b), titanium dioxide (E171).
+- The active substance is belzutifan. Each film-coated tablet contains 40 mg of belzutifan.
+- The other ingredients are croscarmellose sodium (E468) (see 'WELIREG contains sodium' in section 2), hypromellose acetate succinate, magnesium stearate (E470b), mannitol (E421), cellulose microcrystalline (E460), and colloidal anhydrous silica (E551). The f ilm-coat contains indigo carmine aluminium lake (E132), macrogol (E1521), polyvinyl alcohol (E1203), talc (E553b), titanium dioxide (E171).
 
 ## What WELIREG looks like and contents of the pack
 
-WELIREG is a blue, oval film-coated tablet, debossed with 177 on one side and plain on the other side. WELIREG is available in aluminium/ aluminium blisters. Each pack contains 30 f ilm-coated tablets. Each multipack contains 90 (three packs of 30) f ilm-coated tablets. Not all pack sizes may be available in your country.
+WELIREG is a blue, oval film-coated tablet, debossed with 177 on one side and plain on the other side. WELIREG is available in aluminium/ aluminium blisters. Each pack contains 90 (three cartons of 30) f ilm-coated tablets.
 
 ## Marketing Authorisation Holder and Manufacturer
 
@@ -1181,25 +1115,25 @@ For any information about this medicine, please contact the local representative
 
 België/Belgique/Belgien MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
 
-Lietuva UAB Merck Sharp &amp; Dohme Tel. + 370 5 278 02 47 dpoc\\_lithuania@msd.com
+Lietuva UAB Merck Sharp &amp; Dohme Tel. +370 5 2780 247 dpoc\\_lithuania@msd.com
 
 <div style=\"page-break-after: always\"></div>
 
 ## /Beъл/geа/erи/ia
 
-Ме/er/ka  Ша/er/pecyril  и  /Deо/ucyril/em  /Beъл/geа/erи/ia  Е/Ocyril/Ocyril/De Тел.: +359 2 819 3737 info-msdbg@merck.com
+Ме/er/ka  Ша/er/pecyril  и  /Deо/ucyril/em  /Beъл/geа/erи/ia  Е/Ocyril/Ocyril/De Тел.: +359 2 819 3737 info-msdbg@msd.com
 
 ## Česká republika
 
-Merck Sharp &amp; Dohme s.r.o. Tel: +420 233 010 111 dpoc\\_czechslovak@merck.com
+Merck Sharp &amp; Dohme s.r.o. Tel.: +420 277 050 000 dpoc\\_czechslovak@msd.com
 
 ## Danmark
 
-MSD Danmark ApS Tlf.: + 45 4482 4000 dkmail@msd.com
+MSD Danmark ApS Tlf.: +45 4482 4000 dkmail@msd.com
 
 ## Deutschland
 
-MSD Sharp &amp; Dohme GmbH Tel: +49 (0) 89 20 300 4500 medinfo@msd.de
+MSD Sharp &amp; Dohme GmbH Tel.: +49 (0) 89 20 300 4500 medinfo@msd.de
 
 ## Eesti
 
@@ -1207,19 +1141,21 @@ Merck Sharp &amp; Dohme OÜ Tel: +372 6144 200 dpoc.estonia@msd.com
 
 ## Ελλάδα
 
-MSD Α.Φ.Ε.Ε Τηλ: +30 210 98 97 300 dpoc\\_greece@merck.com
+MSD Α.Φ.Ε.Ε Τηλ: +30 210 98 97 300 dpoc.greece@msd.com
 
 ## España
 
-Merck Sharp &amp; Dohme de España, S.A. Tel: +34 91 321 06 00 msd\\_info@merck.com
+Merck Sharp &amp; Dohme de España, S.A. Tel: +34 91 321 06 00 msd\\_info@msd.com
 
 ## France
 
-MSD France Tél: + 33 (0) 1 80 46 40 40
+MSD France
+
+Tél: +33 (0) 1 80 46 40 40
 
 ## Hrvatska
 
-Merck Sharp &amp; Dohme d.o.o. Tel: + 385 1 6611 333 croatia\\_info@merck.com
+Merck Sharp &amp; Dohme d.o.o. Tel: +385 1 6611 333 dpoc.croatia@msd.com
 
 ## Ireland
 
@@ -1227,19 +1163,21 @@ Merck Sharp &amp; Dohme Ireland (Human Health) Limited Tel: +353 (0)1 2998700 me
 
 ## Luxembourg/Luxemburg
 
-MSD Belgium Tél/Tel: +32(0)27766211 dpoc\\_belux@msd.com
+MSD Belgium Tél/Tel: +32(0)27766211
+
+dpoc\\_belux@msd.com
 
 ## Magyarország
 
-MSD Pharma Hungary Kft. Tel.: +36 1 888 5300 hungary\\_msd@merck.com
+MSD Pharma Hungary Kft. Tel.: +36 1 888 5300 hungary\\_msd@msd.com
 
 ## Malta
 
-Merck Sharp &amp; Dohme Cyprus Limited Tel: 8007 4433 (+356 99917558) malta\\_info@merck.com
+Merck Sharp &amp; Dohme Cyprus Limited Tel: 8007 4433 (+356 99917558) dpoccyprus@msd.com
 
 ## Nederland
 
-Merck Sharp &amp; Dohme B.V. Tel: 0800 9999000 (+31 23 5153153) medicalinfo.nl@merck.com
+Merck Sharp &amp; Dohme B.V. Tel: 0800 9999000 (+31 23 5153153) medicalinfo.nl@msd.com
 
 ## Norge
 
@@ -1247,31 +1185,31 @@ MSD (Norge) AS Tlf: +47 32 20 73 00 medinfo.norway@msd.com
 
 ## Österreich
 
-Merck Sharp &amp; Dohme Ges.m.b.H. Tel: +43 (0) 1 26 044 dpoc\\_austria@merck.com
+Merck Sharp &amp; Dohme Ges.m.b.H. Tel: +43 (0) 1 26 044 dpoc\\_austria@msd.com
 
 ## Polska
 
-MSD Polska Sp. z o.o. Tel: +48 22 549 51 00 msdpolska@merck.com
+MSD Polska Sp. z o.o. Tel.: +48 22 549 51 00 msdpolska@msd.com
 
 ## Portugal
 
-Merck Sharp &amp; Dohme, Lda Tel: +351 21 4465700 inform\\_pt@merck.com
+Merck Sharp &amp; Dohme, Lda Tel.: +351 21 4465700 inform\\_pt@msd.com
 
 ## România
 
-Merck Sharp &amp; Dohme Romania S.R.L. Tel: +40 21 529 29 00 msdromania@merck.com
+Merck Sharp &amp; Dohme Romania S.R.L. Tel.: +40 21 529 29 00 msdromania@msd.com
 
 ## Slovenija
 
-Merck Sharp &amp; Dohme, inovativna zdravila d.o.o. Tel: +386 1 5204 201 msd.slovenia@merck.com
+Merck Sharp &amp; Dohme, inovativna zdravila d.o.o. Tel: +386 1 520 4201 msd.slovenia@msd.com
 
 <div style=\"page-break-after: always\"></div>
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
-Sími: + 354 535 7000
+Sími: +354 535 7000
 
 ## Italia
 
@@ -1283,13 +1221,13 @@ dpoc.italy@msd.com
 
 ## Κύπρος
 
-Merck Sharp &amp; Dohme Cyprus Limited Τηλ.: 800 00 673 (+357 22866700) cyprus\\_info@merck.com
+Merck Sharp &amp; Dohme Cyprus Limited Τηλ: 800 00 673 (+357 22866700) dpoccyprus@msd.com
 
 ## Latvija
 
 SIA Merck Sharp &amp; Dohme Latvija
 
-Tel.: + 371 67025300
+Tel.: +371 67025300
 
 dpoc.latvia@msd.com
 
@@ -1305,7 +1243,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 Merck Sharp &amp; Dohme, s. r. o.
 
-Tel: +421 2 58282010 dpoc\\_czechslovak@merck.com
+Tel.: +421 2 58282010 dpoc\\_czechslovak@msd.com
 
 ## Suomi/Finland
 
@@ -1314,17 +1252,3 @@ MSD Finland Oy Puh/Tel: +358 (0)9 804 650 info@msd.fi
 ## Sverige
 
 Merck Sharp &amp; Dohme (Sweden) AB Tel: +46 77 5700488 medicinskinfo@msd.com
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## CONCLUSIONS ON THE GRANTING OF THE CONDITIONAL MARKETING AUTHORISATION
-
-<div style=\"page-break-after: always\"></div>
-
-## Conclusions presented by the European Medicines Agency on:
-
-## · Conditional marketing authorisation
-
-The CHMP having considered the application is of the opinion that the risk-benefit balance is favourable to recommend the granting of the conditional marketing authorisation as further explained in the European Public Assessment Report.

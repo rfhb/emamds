@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-07-23 11:01:10
-document_pages: 111
+document_datetime: 2026-01-12 14:44:18
+document_pages: 103
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/celsentri-epar-product-information_en.pdf
 document_name: celsentri-epar-product-information_en.pdf
 version: success
-processing_time: 24.6522775
-conversion_datetime: 2025-12-20 14:35:18.623995
+processing_time: 23.7751972
+conversion_datetime: 2026-01-14 07:22:13.79942
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -24,49 +24,27 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-CELSENTRI 25 mg film-coated tablets
-
-CELSENTRI 75 mg film-coated tablets
-
-CELSENTRI 150 mg film-coated tablets
-
-CELSENTRI 300 mg film-coated tablets
+CELSENTRI 150 mg film-coated tablets CELSENTRI 300 mg film-coated tablets
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-## CELSENTRI 25 mg film-coated tablets
-
-Each film-coated tablet contains 25 mg of maraviroc.
-
-Excipient with known effect: each 25 mg film-coated tablet contains 0.14 mg of soya lecithin.
-
-## CELSENTRI 75 mg film-coated tablets
-
-Each film-coated tablet contains 75 mg of maraviroc.
-
-Excipient with known effect: each 75 mg film-coated tablet contains 0.42 mg of soya lecithin.
-
 ## CELSENTRI 150 mg film-coated tablets
 
-Each film-coated tablet contains 150 mg of maraviroc. Excipient with known effect: each 150 mg film-coated tablet contains 0.84 mg of soya lecithin.
+Each film-coated tablet contains 150 mg of maraviroc.
+
+Excipient with known effect: each 150 mg film-coated tablet contains 0.84 mg of soya lecithin.
 
 ## CELSENTRI 300 mg film-coated tablets
 
-Each film-coated tablet contains 300 mg of maraviroc. Excipient with known effect: each 300 mg film-coated tablet contains 1.68 mg of soya lecithin.
+Each film-coated tablet contains 300 mg of maraviroc.
+
+Excipient with known effect: each 300 mg film-coated tablet contains 1.68 mg of soya lecithin.
 
 For the full list of excipients, see section 6.1.
 
 ## 3. PHARMACEUTICAL FORM
 
 Film-coated tablet.
-
-## CELSENTRI 25 mg film-coated tablets
-
-Blue, biconvex, oval film-coated tablets, approximate dimensions 4.6 mm x 8.0 mm and debossed with 'MVC 25'.
-
-## CELSENTRI 75 mg film-coated tablets
-
-Blue, biconvex, oval film-coated tablets, approximate dimensions 6.74 mm x 12.2 mm and debossed with 'MVC 75'.
 
 ## CELSENTRI 150 mg film-coated tablets
 
@@ -76,13 +54,11 @@ Blue, biconvex, oval film-coated tablets, approximate dimensions 8.56 mm x 15.5 
 
 Blue, biconvex, oval film-coated tablets, approximate dimensions 10.5 mm x 19.0 mm and debossed with 'MVC 300'.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4. CLINICAL PARTICULARS
 
 ## 4.1 Therapeutic indications
 
-CELSENTRI, in combination with other antiretroviral medicinal products, is indicated for treatment-experienced adults, adolescents and children of 2 years of age, and older and weighing at least 10 kg infected with only CCR5-tropic HIV-1 detectable (see sections 4.2 and 5.1).
+CELSENTRI film-coated tablets, in combination with other antiretroviral medicinal products, is indicated for treatment-experienced adults, adolescents and children weighing at least 30 kg infected with only CCR5-tropic HIV-1 detectable (see sections 4.2 and 5.1).
 
 ## 4.2 Posology and method of administration
 
@@ -92,13 +68,17 @@ Therapy should be initiated by a physician experienced in the management of HIV 
 
 Before taking CELSENTRI it has to be confirmed that only CCR5-tropic HIV-1 is detectable (i.e. CXCR4 or dual/mixed tropic virus not detected) using an adequately validated and sensitive detection method on a newly drawn blood sample. The Monogram Trofile assay was used in the clinical studies of CELSENTRI (see sections 4.4 and 5.1). The viral tropism cannot be safely predicted by treatment history and assessment of stored samples.
 
-There are currently no data regarding the reuse of CELSENTRI in patients that currently have only CCR5-tropic HIV-1 detectable, but have a history of failure on CELSENTRI (or other CCR5 antagonists) with a CXCR4 or dual/mixed tropic virus. There are no data regarding the switch from a medicinal product of a different antiretroviral class to CELSENTRI in virologically suppressed patients. Alternative treatment options should be considered.
+There are currently no data regarding the reuse of CELSENTRI in patients that currently have only CCR5-tropic HIV-1 detectable, but have a history of failure on CELSENTRI (or other CCR5
+
+<div style=\"page-break-after: always\"></div>
+
+antagonists) with a CXCR4 or dual/mixed tropic virus. There are no data regarding the switch from a medicinal product of a different antiretroviral class to CELSENTRI in virologically suppressed patients. Alternative treatment options should be considered.
 
 ## Adults
 
 The recommended dose of CELSENTRI is 150 mg (with potent CYP3A inhibitor with or without a potent CYP3A inducer), 300 mg (without potent CYP3A inhibitors or inducers) or 600 mg twice daily (with potent CYP3A inducer without a potent CYP3A inhibitor) depending on interactions with concomitant antiretroviral therapy and other medicinal products (see section 4.5).
 
-## Children from 2 years of age and weighing at least 10kg
+## Children and adolescents weighing at least 30 kg
 
 The recommended dose of CELSENTRI should be based on body weight (kg) and should not exceed the recommended adult dose. If a child is unable to reliably swallow CELSENTRI tablets, the oral solution (20 mg per mL) should be prescribed (refer to Summary of Product Characteristics for CELSENTRI oral solution).
 
@@ -106,18 +86,18 @@ The recommended dose of CELSENTRI differs depending on interactions with concomi
 
 Many medicines have profound effects on maraviroc exposure due to drug-drug interactions. Prior to deciding the dose of CELSENTRI by weight, please refer to Table 2 in section 4.5 to carefully determine the corresponding adult dose. The corresponding paediatric dose can then be obtained from Table 1 below. If uncertainty still exists, contact a pharmacist for advice.
 
+Table 1 Recommended dosing regimen in adolescents and children (weighing at least 30 kg) based on weight
+
+|                    |                                                                                            | Dose of CELSENTRI in adolescents and children based on weight                                                                                                                                  | Dose of CELSENTRI in adolescents and children based on weight                                                                                                                                  |
+|--------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Adult dosage*      | Concomitant Medications                                                                    | 30 to less than 40 kg                                                                                                                                                                          | at least 40 kg                                                                                                                                                                                 |
+| 150 mg twice daily | CELSENTRI with products that are potent CYP3A inhibitors (with or without a CYP3A inducer) | 100 mg twice daily +                                                                                                                                                                           | 150 mg twice daily                                                                                                                                                                             |
+| 300 mg twice daily | CELSENTRI with products that are not potent CYP3A inhibitors or potent CYP3A inducers      | 300 mg twice daily                                                                                                                                                                             | 300 mg twice daily                                                                                                                                                                             |
+| 600 mg twice daily | CELSENTRI with products that are CYP3A inducers (without a potent CYP3A inhibitor)         | Data to support these doses are lacking and CELSENTRI is not recommended in children taking concomitant interacting medicinal products that in adults would require a 600 mg twice daily dose. | Data to support these doses are lacking and CELSENTRI is not recommended in children taking concomitant interacting medicinal products that in adults would require a 600 mg twice daily dose. |
+
 <div style=\"page-break-after: always\"></div>
 
-Table 1 Recommended dosing regimen in children aged 2 years and above and weighing at least 10 kg
-
-|                    |                                                                                            | Dose of CELSENTRI in children based on weight                                                                                                                                                  | Dose of CELSENTRI in children based on weight                                                                                                                                                  | Dose of CELSENTRI in children based on weight                                                                                                                                                  | Dose of CELSENTRI in children based on weight                                                                                                                                                  |
-|--------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Adult dosage*      | Concomitant Medications                                                                    | 10 to less than 20 kg                                                                                                                                                                          | 20 to less than 30 kg                                                                                                                                                                          | 30 to less than 40 kg                                                                                                                                                                          | at least 40 kg                                                                                                                                                                                 |
-| 150 mg twice daily | CELSENTRI with products that are potent CYP3A inhibitors (with or without a CYP3A inducer) | 50 mg twice daily                                                                                                                                                                              | 75 mg twice daily                                                                                                                                                                              | 100 mg twice daily                                                                                                                                                                             | 150 mg twice daily                                                                                                                                                                             |
-| 300 mg twice daily | CELSENTRI with products that are not potent CYP3A inhibitors or potent CYP3A inducers      | Data to support these doses are lacking.                                                                                                                                                       | Data to support these doses are lacking.                                                                                                                                                       | 300 mg twice daily                                                                                                                                                                             | 300 mg twice daily                                                                                                                                                                             |
-| 600 mg twice daily | CELSENTRI with products that are CYP3A inducers (without a potent CYP3A inhibitor)         | Data to support these doses are lacking and CELSENTRI is not recommended in children taking concomitant interacting medicinal products that in adults would require a 600 mg twice daily dose. | Data to support these doses are lacking and CELSENTRI is not recommended in children taking concomitant interacting medicinal products that in adults would require a 600 mg twice daily dose. | Data to support these doses are lacking and CELSENTRI is not recommended in children taking concomitant interacting medicinal products that in adults would require a 600 mg twice daily dose. | Data to support these doses are lacking and CELSENTRI is not recommended in children taking concomitant interacting medicinal products that in adults would require a 600 mg twice daily dose. |
-
-* Based on drug-drug Interactions (refer to section 4.5)
++ This dose cannot be achieved with CELSENTRI film-coated tablets. Please refer to Summary of Product Characteristics for CELSENTRI oral solution.
 
 ## Special populations
 
@@ -131,26 +111,28 @@ In adult patients with a creatinine clearance of &lt;80 mL/min, who are also rec
 
 Examples of agents/regimens with such potent CYP3A4-inhibiting activity are:
 
-- ritonavir-boosted protease inhibitors (with the exception of tipranavir/ritonavir),
-- cobicistat,
-- itraconazole, voriconazole, clarithromycin and telithromycin,
+- ritonavir-boosted protease inhibitors (with the exception of tipranavir/ritonavir)
+- cobicistat
+- itraconazole, voriconazole, clarithromycin and telithromycin
 - telaprevir and boceprevir.
 
 CELSENTRI should be used with caution in adult patients with severe renal impairment (CLcr &lt;30 mL/min) who are receiving potent CYP3A4 inhibitors (see sections 4.4 and 5.2).
 
 There are no data available to recommend a specific dose in paediatric patients with renal impairment. Therefore, CELSENTRI should be used with caution in this population.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hepatic impairment
 
-Limited data are available in adult patients with hepatic impairment and no data are available to recommend a specific dose for paediatric patients.  Therefore, CELSENTRI should be used with caution in patients with hepatic impairment (see sections 4.4 and 5.2).
+Limited data are available in adult patients with hepatic impairment and no data are available to recommend a specific dose for paediatric patients. Therefore, CELSENTRI should be used with caution in patients with hepatic impairment (see sections 4.4 and 5.2).
 
-Paediatric patients (children younger than 2 years of age or weighing less than 10 kg) The safety and efficacy of CELSENTRI in children younger than 2 years of age or weighing less than 10 kg has not been established (see section 5.2). No data are available.
+## Paediatric patients (children weighing less than 30 kg)
+
+CELSENTRI film-coated tablets are not indicated in children and adolescents weighing less than 30 kg. Please refer to the Summary of Product Characteristics for CELSENTRI oral solution for appropriate use in children from 2 years of age and weighing 10 to less than 30 kg. The safety and efficacy of CELSENTRI in children younger than 2 years of age or weighing less than 10 kg has not been established (see section 5.2). No data are available.
 
 ## Method of administration
 
-Oral use. CELSENTRI can be taken with or without food.
+## Oral use.
+
+CELSENTRI can be taken with or without food.
 
 ## 4.3 Contraindications
 
@@ -162,6 +144,8 @@ Hypersensitivity to the active substance or to peanut or soya or to any of the e
 
 The safety and efficacy of maraviroc have not been specifically studied in patients with significant underlying liver disorders.
 
+<div style=\"page-break-after: always\"></div>
+
 Cases of hepatotoxicity and hepatic failure with allergic features have been reported in association with maraviroc. In addition, an increase in hepatic adverse reactions with maraviroc was observed during studies of treatment-experienced subjects with HIV infection, although there was no overall increase in ACTG Grade 3/4 liver function test abnormalities (see section 4.8). Hepatobiliary disorders reported in treatment-naïve patients were uncommon and balanced between treatment groups (see section 4.8). Patients with pre-existing liver dysfunction, including chronic active hepatitis, can have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
 
 Discontinuation of maraviroc should be strongly considered in any patient with signs or symptoms of acute hepatitis, in particular if drug-related hypersensitivity is suspected or with increased liver transaminases combined with rash or other systemic symptoms of potential hypersensitivity (e.g. pruritic rash, eosinophilia or elevated IgE).
@@ -172,11 +156,7 @@ There is limited experience in patients with reduced hepatic function, therefore
 
 ## Severe skin and hypersensitivity reactions
 
-Hypersensitivity reactions including severe and potentially life threatening events have been reported in patients taking maraviroc, in most cases concomitantly with other medicinal products associated with these reactions. These reactions included rash, fever, and sometimes organ dysfunction and hepatic failure. Discontinue maraviroc and other suspect agents immediately if
-
-<div style=\"page-break-after: always\"></div>
-
-signs or symptoms of severe skin or hypersensitivity reactions develop. Clinical status and relevant blood chemistry should be monitored and appropriate symptomatic therapy initiated.
+Hypersensitivity reactions including severe and potentially life-threatening events have been reported in patients taking maraviroc, in most cases concomitantly with other medicinal products associated with these reactions. These reactions included rash, fever, and sometimes organ dysfunction and hepatic failure. Discontinue maraviroc and other suspect agents immediately if signs or symptoms of severe skin or hypersensitivity reactions develop. Clinical status and relevant blood chemistry should be monitored and appropriate symptomatic therapy initiated.
 
 ## Cardiovascular safety
 
@@ -184,11 +164,15 @@ Limited data exist with the use of maraviroc in patients with severe cardiovascu
 
 ## Postural hypotension
 
-When maraviroc was administered in studies with healthy volunteers at doses higher than the recommended dose, cases of symptomatic postural hypotension were seen at a greater frequency than with placebo.   Caution should be used when administering maraviroc in patients on concomitant medicinal products known to lower blood pressure.  Maraviroc should also be used with caution in patients with severe renal insufficiency and in patients who have risk factors for, or have a history of postural hypotension.  Patients with cardiovascular co-morbidities could be at increased risk of cardiovascular adverse reactions triggered by postural hypotension.
+When maraviroc was administered in studies with healthy volunteers at doses higher than the recommended dose, cases of symptomatic postural hypotension were seen at a greater frequency than with placebo. Caution should be used when administering maraviroc in patients on concomitant medicinal products known to lower blood pressure. Maraviroc should also be used with caution in patients with severe renal insufficiency and in patients who have risk factors for, or have a history of postural hypotension.  Patients with cardiovascular co-morbidities could be at increased risk of cardiovascular adverse reactions triggered by postural hypotension.
 
 ## Renal impairment
 
-An increased risk of postural hypotension may occur in patients with severe renal insufficiency who are treated with potent CYP3A inhibitors or boosted protease inhibitors (PIs) and maraviroc. This risk is due to potential increases in maraviroc maximum concentrations when maraviroc is co-administered with potent CYP3A inhibitors or boosted PIs in these patients.
+An increased risk of postural hypotension may occur in patients with severe renal insufficiency who are treated with potent CYP3A inhibitors or boosted protease inhibitors (PIs) and maraviroc.
+
+<div style=\"page-break-after: always\"></div>
+
+This risk is due to potential increases in maraviroc maximum concentrations when maraviroc is co-administered with potent CYP3A inhibitors or boosted PIs in these patients.
 
 ## Immune reconstitution syndrome
 
@@ -198,11 +182,9 @@ In HIV infected patients with severe immune deficiency at the time of institutio
 
 Maraviroc should only be used when only CCR5-tropic HIV-1 is detectable (i.e. CXCR4 or dual/mixed tropic virus not detected) as determined by an adequately validated and sensitive detection method (see sections 4.1, 4.2 and 5.1). The Monogram Trofile assay was used in the clinical studies of maraviroc. The viral tropism cannot be predicted by treatment history or assessment of stored samples.
 
-Changes in viral tropism occur over time in HIV-1 infected patients. Therefore there is a need to start therapy shortly after a tropism test.
+Changes in viral tropism occur over time in HIV-1 infected patients. Therefore, there is a need to start therapy shortly after a tropism test.
 
 Background resistance to other classes of antiretrovirals have been shown to be similar in previously undetected CXCR4-tropic virus of the minor viral population, as that found in CCR5-tropic virus.
-
-<div style=\"page-break-after: always\"></div>
 
 Maraviroc is not recommended to be used in treatment-naïve patients based on the results of a clinical study in this population (see section 5.1).
 
@@ -218,11 +200,11 @@ Although the aetiology is considered to be multifactorial (including corticoster
 
 CCR5 antagonists could potentially impair the immune response to certain infections. This should be taken into consideration when treating infections such as active tuberculosis and invasive fungal infections. The incidence of AIDS-defining infections was similar between maraviroc and placebo arms in the pivotal studies.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Excipients
 
-CELSENTRI contains soya lecithin.
-
-If a patient is hypersensitive to peanut or soya, CELSENTRI should not be used.
+CELSENTRI contains soya lecithin. If a patient is hypersensitive to peanut or soya, CELSENTRI should not be used.
 
 CELSENTRI contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium free'.
 
@@ -232,103 +214,102 @@ Maraviroc is metabolised by cytochrome P450 CYP3A4 and CYP3A5. Co-administration
 
 Maraviroc is a substrate for the transporters P-glycoprotein and OATP1B1, but the effect of these transporters on the exposure to maraviroc is not known.
 
-Based on the in vitro and clinical data, the potential for maraviroc to affect the pharmacokinetics of co-administered medicinal products is low. In vitro studies have shown that maraviroc does not inhibit OATP1B1, MRP2 or any of the major P450 enzymes at clinically relevant concentrations (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 and CYP3A4). Maraviroc had no clinically relevant effect on the pharmacokinetics of midazolam, the oral contraceptives ethinylestradiol and levonorgestrel, or urinary 6β-hydroxycortisol/cortisol ratio, suggesting no inhibition or induction of CYP3A4 in vivo . At higher exposure of maraviroc a potential inhibition of CYP2D6 cannot be excluded.
-
-<div style=\"page-break-after: always\"></div>
+Based on the in vitro and clinical data, the potential for maraviroc to affect the pharmacokinetics of co-administered medicinal products is low. In vitro studies have shown that maraviroc does not inhibit OATP1B1, MRP2 or any of the major P450 enzymes at clinically relevant concentrations (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 and CYP3A4). Maraviroc had no clinically relevant effect on the pharmacokinetics of midazolam, the oral contraceptives ethinylestradiol and levon orgestrel, or urinary 6β -hydroxycortisol/cortisol ratio, suggesting no inhibition or induction of CYP3A4 in vivo . At higher exposure of maraviroc a potential inhibition of CYP2D6 cannot be excluded.
 
 Renal clearance accounts for approximately 23% of total clearance of maraviroc when maraviroc is administered without CYP3A4 inhibitors. In vitro studies have shown that maraviroc does not inhibit any of the major renal uptake transporters at clinically relevant concentrations (OAT1, OAT3, OCT2, OCTN1, and OCTN2). Additionally, co-administration of maraviroc with tenofovir (substrate for renal elimination) and cotrimoxazole (contains trimethoprim, a renal cation transport inhibitor), showed no effect on the pharmacokinetics of maraviroc. In addition, co-administration of maraviroc with lamivudine/zidovudine showed no effect of maraviroc on lamivudine (primarily renally cleared) or zidovudine (non-P450 metabolism and renal clearance) pharmacokinetics. Maraviroc inhibits P-glycoprotein in vitro (IC50 is 183 μM). However, maraviroc does not significantly affect the pharmacokinetics of digoxin in vivo .  It may not be excluded that maraviroc can increase the exposure to the P-glycoprotein substrate dabigatran etexilate.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 2: Interactions and adult a  dose recommendations with other medicinal products
 
-| Medicinal product by therapeutic areas (dose of CELSENTRI used in study)   | Effects on active substance levels Geometric mean change if not stated otherwise                                 | Recommendations concerning co- administration in adults                                                                          |
-|----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| ANTI-INFECTIVES                                                            | ANTI-INFECTIVES                                                                                                  | ANTI-INFECTIVES                                                                                                                  |
-| Antiretrovirals                                                            | Antiretrovirals                                                                                                  | Antiretrovirals                                                                                                                  |
-| Pharmacokinetic Enhancers                                                  | Pharmacokinetic Enhancers                                                                                        | Pharmacokinetic Enhancers                                                                                                        |
-| Cobicistat                                                                 | Interaction not studied. Cobicistat is a potent CYP3A inhibitor.                                                 | CELSENTRI dose should be decreased to 150 mg twice daily when co- administered with cobicistat containing regimen.               |
-| Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs)             | Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs)                                                   | Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs)                                                                   |
-| Lamivudine 150 mg BID (maraviroc 300 mg BID)                               | Lamivudine AUC 12 : ↔1.13 Lamivudine C max : ↔1.16 Maraviroc concentrations not measured, no effect is expected. | No significant interaction seen/expected. CELSENTRI 300 mg twice daily and NRTIs can be co-administered without dose adjustment. |
-| Tenofovir 300 mg QD (maraviroc 300 mg BID)                                 | Maraviroc AUC 12 : ↔1.03 Maraviroc C max : ↔1.03 Tenofovir concentrations not measured, no effect is expected.   | No significant interaction seen/expected. CELSENTRI 300 mg twice daily and NRTIs can be co-administered without dose adjustment. |
-| Zidovudine 300 mg BID (maraviroc 300 mg BID)                               | Zidovudine AUC 12 : ↔0.98 Zidovudine C max : ↔0.92 Maraviroc concentrations not measured, no effect is expected. | No significant interaction seen/expected. CELSENTRI 300 mg twice daily and NRTIs can be co-administered without dose adjustment. |
-| Integrase Inhibitors                                                       | Integrase Inhibitors                                                                                             | Integrase Inhibitors                                                                                                             |
+| Medicinal product by therapeutic areas (dose of CELSENTRI used in study)   | Effects on active substance levels Geometric mean change if not stated otherwise                                                                                                                                                         | Recommendations concerning co- administration in adults                                                                                                                                                                                                                                                                                                                                                                      |
+|----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ANTI-INFECTIVES                                                            | ANTI-INFECTIVES                                                                                                                                                                                                                          | ANTI-INFECTIVES                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Antiretrovirals                                                            | Antiretrovirals                                                                                                                                                                                                                          | Antiretrovirals                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Cobicistat                                                                 | Interaction not studied. Cobicistat is a potent CYP3A inhibitor.                                                                                                                                                                         | CELSENTRI dose should be decreased to 150 mg twice daily when co- administered with cobicistat containing regimen.                                                                                                                                                                                                                                                                                                           |
+| Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs)             | Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs)                                                                                                                                                                           | Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs)                                                                                                                                                                                                                                                                                                                                                               |
+| Lamivudine 150 mg BID (maraviroc 300 mg BID)                               | Lamivudine AUC 12 : ↔ 1.13 Lamivudine C max : ↔ 1.16 Maraviroc concentrations not measured, no effect is expected.                                                                                                                       | No significant interaction seen/expected. CELSENTRI 300 mg twice daily and NRTIs can be co-administered without dose adjustment.                                                                                                                                                                                                                                                                                             |
+| Tenofovir 300 mg QD (maraviroc 300 mg BID)                                 | Maraviroc AUC 12 : ↔ 1.03 Maraviroc C max : ↔ 1.03 Tenofovir concentrations not measured, no effect is expected.                                                                                                                         | No significant interaction seen/expected. CELSENTRI 300 mg twice daily and NRTIs can be co-administered without dose adjustment.                                                                                                                                                                                                                                                                                             |
+| Zidovudine 300 mg BID (maraviroc 300 mg BID)                               | Zidovudine AUC 12 : ↔ 0.98 Zidovudine C max : ↔ 0.92 Maraviroc concentrations not measured, no effect is expected.                                                                                                                       | No significant interaction seen/expected. CELSENTRI 300 mg twice daily and NRTIs can be co-administered without dose adjustment.                                                                                                                                                                                                                                                                                             |
+| Integrase Inhibitors                                                       | Integrase Inhibitors                                                                                                                                                                                                                     | Integrase Inhibitors                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Elvitegravir/ritonavir 150/100mg QD (maraviroc 150 mg BID)                 | Maraviroc AUC 12: ↑ 2.86 (2.33 -3.51) Maraviroc C max : ↑ 2.15 (1.71 -2.69) Maraviroc C 12 : ↑ 4.23 (3.47 -5.16) Elvitegravir AUC 24 : ↔ 1.07 (0.96-1.18) Elvitegravir C max : ↔ 1.01 (0.89-1.15) Elvitegravir C 24 : ↔ 1.09 (0.95-1.26) | Elvitegravir as a single agent is indicated only in combination with certain ritonavir boosted PIs. Elvitegravir per se is not expected to affect maraviroc exposure to a clinically relevant degree and the observed effect is attributed to ritonavir. Thus, CELSENTRI dose should be modified in line with the recommendation for co-administration with respective PI/ritonavir combination (see 'Protease Inhibitors'). |
+| Raltegravir 400 mg BID (maraviroc 300 mg BID)                              | Maraviroc AUC 12 : ↓ 0.86 Maraviroc C max : ↓ 0.79 Raltegravir AUC 12 : ↓ 0.63 Raltegravir C max : ↓ 0.67 Raltegravir C 12 : ↓ 0.72                                                                                                      | No clinically significant interaction seen. CELSENTRI 300 mg twice daily and raltegravir can be co-administered without dose adjustment.                                                                                                                                                                                                                                                                                     |
 
 <div style=\"page-break-after: always\"></div>
 
-| Elvitegravir/ritonavir 150/100mg QD (maraviroc 150 mg BID)   | Maraviroc AUC 12: ↑ 2.86 (2.33-3.51) Maraviroc C max : ↑ 2.15 (1.71-2.69) Maraviroc C 12 : ↑ 4.23 (3.47-5.16) Elvitegravir AUC 24 : ↔1.07 (0.96-1.18) Elvitegravir C max : ↔1.01 (0.89-1.15) Elvitegravir C 24 : ↔1.09 (0.95-1.26)   | Elvitegravir as a single agent is indicated only in combination with certain ritonavir boosted PIs. Elvitegravir per se is not expected to affect maraviroc exposure to a clinically relevant degree and the observed effect is attributed to ritonavir. Thus, CELSENTRI dose should be modified in line with the recommendation for co-administration with respective PI/ritonavir combination (see 'Protease Inhibitors').   |
-|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Raltegravir 400 mg BID (maraviroc 300 mg BID)                | Maraviroc AUC 12 : ↓ 0.86 Maraviroc C max : ↓ 0.79 Raltegravir AUC 12 : ↓ 0.63 Raltegravir C max : ↓ 0.67 Raltegravir C 12 : ↓ 0.72                                                                                                  | No clinically significant interaction seen. CELSENTRI 300 mg twice daily and raltegravir can be co-administered without dose adjustment.                                                                                                                                                                                                                                                                                       |
-| Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)     | Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)                                                                                                                                                                             | Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)                                                                                                                                                                                                                                                                                                                                                                       |
-| Efavirenz 600 mg QD (maraviroc 100 mg BID)                   | Maraviroc AUC 12 : ↓ 0.55 Maraviroc C max : ↓ 0.49 Efavirenz concentrations not measured, no effect is expected.                                                                                                                     | CELSENTRI dose should be increased to 600 mg twice daily when co-administered with efavirenz in the absence of a potent CYP3A4 inhibitor. For combination with efavirenz + PI, see separate recommendations below.                                                                                                                                                                                                             |
-| Etravirine 200 mg BID (maraviroc 300 mg BID)                 | Maraviroc AUC 12 : ↓ 0.47 Maraviroc C max : ↓ 0.40 Etravirine AUC 12 : ↔1.06 Etravirine C max : ↔1.05 Etravirine C 12 : ↔1.08                                                                                                        | Etravirine is only approved for use with boosted protease inhibitors. For combination with etravirine + PI, see below.                                                                                                                                                                                                                                                                                                         |
-| Nevirapine 200 mg BID (maraviroc 300 mg Single Dose)         | Maraviroc AUC 12 : ↔compared to historical controls Maraviroc C max : ↑ compared to historical controls Nevirapine concentrations not measured, no effect is expected.                                                               | Comparison to exposure in historical controls suggests that CELSENTRI 300 mg twice daily and nevirapine can be co-administered without dose adjustment.                                                                                                                                                                                                                                                                        |
-| Protease Inhibitors (PIs)                                    | Protease Inhibitors (PIs)                                                                                                                                                                                                            | Protease Inhibitors (PIs)                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Atazanavir 400 mg QD (maraviroc 300 mg BID)                  | Maraviroc AUC 12 ↑ 3.57 Maraviroc C max : ↑ 2.09 Atazanavir concentrations not measured, no effect is expected.                                                                                                                      | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with a PI;                                                                                                                                                                                                                                                                                                                                       |
+| Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)       | Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)                                                                                                                | Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)                                                                                                                                                           |
+|----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Efavirenz 600 mg QD (maraviroc 100 mg BID)                     | Maraviroc AUC 12 : ↓ 0.55 Maraviroc C max : ↓ 0.49 Efavirenz concentrations not measured, no effect is expected.                                                        | CELSENTRI dose should be increased to 600 mg twice daily when co-administered with efavirenz in the absence of a potent CYP3A4 inhibitor. For combination with efavirenz + PI, see separate recommendations below. |
+| Etravirine 200 mg BID (maraviroc 300 mg BID)                   | Maraviroc AUC 12 : ↓ 0.47 Maraviroc C max : ↓ 0.40 Etravirine AUC 12 : ↔ 1.06 Etravirine C max : ↔ 1.05 Etravirine C 12 : ↔ 1.08                                        | Etravirine is only approved for use with boosted protease inhibitors. For combination with etravirine + PI, see below.                                                                                             |
+| Nevirapine 200 mg BID (maraviroc 300 mg Single Dose)           | Maraviroc AUC 12 : ↔ compared to historical controls Maraviroc C max : ↑ compared to historical controls Nevirapine concentrations not measured, no effect is expected. | Comparison to exposure in historical controls suggests that CELSENTRI 300 mg twice daily and nevirapine can be co-administered without dose adjustment.                                                            |
+| Protease Inhibitors (PIs)                                      | Protease Inhibitors (PIs)                                                                                                                                               | Protease Inhibitors (PIs)                                                                                                                                                                                          |
+| Atazanavir 400 mg QD (maraviroc 300 mg BID)                    | Maraviroc AUC 12 ↑ 3.57 Maraviroc C max : ↑ 2.09 Atazanavir concentrations not measured, no effect is expected.                                                         | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with a PI; except in combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.                            |
+| Atazanavir/ritonavir 300 mg/100 mg QD (maraviroc 300 mg BID)   | Maraviroc AUC 12 ↑ 4.88 Maraviroc C max : ↑ 2.67 Atazanavir/ritonavir concentrations not measured, no effect is expected.                                               | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with a PI; except in combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.                            |
+| Lopinavir/ritonavir 400 mg/100 mg BID (maraviroc 300 mg BID)   | Maraviroc AUC 12 ↑ 3.95 Maraviroc C max : ↑ 1.97 Lopinavir/ritonavir concentrations not measured, no effect is expected.                                                | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with a PI; except in combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.                            |
+| Saquinavir/ritonavir 1000 mg/100 mg BID (maraviroc 100 mg BID) | Maraviroc AUC 12 ↑ 9.77 Maraviroc C max : ↑ 4.78 Saquinavir/ritonavir concentrations not measured, no effect is expected.                                               | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with a PI; except in combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.                            |
+| Darunavir/ritonavir 600 mg/100 mg BID (maraviroc 150 mg BID)   | Maraviroc AUC 12 ↑ 4.05 Maraviroc C max : ↑ 2.29 Darunavir/ritonavir concentrations were consistent with historical data.                                               | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with a PI; except in combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.                            |
+| Nelfinavir                                                     | Limited data are available for co- administration with nelfinavir. Nelfinavir is a potent CYP3A4 inhibitor and would be expected to increase maraviroc concentrations.  | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with a PI; except in combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.                            |
 
 <div style=\"page-break-after: always\"></div>
 
-| Atazanavir/ritonavir 300 mg/100 mg QD (maraviroc 300 mg BID)   | Maraviroc AUC 12 ↑ 4.88 Maraviroc C max : ↑ 2.67 Atazanavir/ritonavir concentrations not measured, no effect is expected.                                                                                                                                          | except in combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.   |
-|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| Lopinavir/ritonavir 400 mg/100 mg BID (maraviroc 300 mg BID)   | Maraviroc AUC 12 ↑ 3.95 Maraviroc C max : ↑ 1.97 Lopinavir/ritonavir concentrations not measured, no effect is expected.                                                                                                                                           | except in combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.   |
-| Saquinavir/ritonavir 1000 mg/100 mg BID (maraviroc 100 mg BID) | Maraviroc AUC 12 ↑ 9.77 Maraviroc C max : ↑ 4.78 Saquinavir/ritonavir concentrations not measured, no effect is expected.                                                                                                                                          | except in combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.   |
-| Darunavir/ritonavir 600 mg/100 mg BID (maraviroc 150 mg BID)   | Maraviroc AUC 12 ↑ 4.05 Maraviroc C max : ↑ 2.29 Darunavir/ritonavir concentrations were consistent with historical data.                                                                                                                                          | except in combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.   |
-| Nelfinavir                                                     | Limited data are available for co- administration with nelfinavir. Nelfinavir is a potent CYP3A4 inhibitor and would be expected to increase maraviroc concentrations.                                                                                             | except in combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.   |
-| Indinavir                                                      | Limited data are available for co- administration with indinavir. Indinavir is a potent CYP3A4 inhibitor. Population PK analysis in phase 3 studies suggests dose reduction of maraviroc when co-administered with indinavir gives appropriate maraviroc exposure. | except in combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.   |
-| Tipranavir/ritonavir 500 mg/200 mg BID (maraviroc 150 mg BID)  | Maraviroc AUC 12 ↔1.02 Maraviroc C max : ↔0.86 Tipranavir/ritonavir concentrations were consistent with historical data.                                                                                                                                           | except in combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.   |
+| Indinavir                                                                            | Limited data are available for co- administration with indinavir. Indinavir is a potent CYP3A4 inhibitor. Population PK analysis in phase 3 studies suggests dose reduction of maraviroc when co-administered with indinavir gives appropriate maraviroc exposure.   |                                                                                                                                                                                                                                                               |
+|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Tipranavir/ritonavir 500 mg/200 mg BID (maraviroc 150 mg BID)                        | Maraviroc AUC 12 ↔ 1.02 Maraviroc C max : ↔ 0.86 Tipranavir/ritonavir concentrations were consistent with historical data.                                                                                                                                           |                                                                                                                                                                                                                                                               |
+| Fosamprenavir/ritonavir 700 mg/100 mg BID (maraviroc 300 mg BID)                     | Maraviroc AUC 12: ↑ 2.49 Maraviroc C max : ↑ 1.52 Maraviroc C 12 : ↑ 4.74 Amprenavir AUC 12 : ↓ 0.65 Amprenavir C max : ↓ 0.66 Amprenavir C 12 : ↓ 0.64 Ritonavir AUC 12 : ↓ 0.66 Ritonavir C max : ↓ 0.61 Ritonavir C 12 : ↔ 0.86                                   | Concomitant use is not recommended. Significant reductions in amprenavir C min observed may result in virological failure in patients                                                                                                                         |
+| NNRTI + PI                                                                           |                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                               |
+| Efavirenz 600 mg QD + lopinavir/ritonavir 400mg/100 mg BID (maraviroc 300 mg BID)    | Maraviroc AUC 12: ↑ 2.53 Maraviroc C max : ↑ 1.25 Efavirenz, lopinavir/ritonavir concentrations not measured, no effect expected.                                                                                                                                    | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with efavirenz and a PI (except tipranavir/ritonavir where the dose should be 600 mg twice daily). Concomitant use of CELSENTRI and fosamprenavir/ritonavir is not recommended. |
+| Efavirenz 600 mg QD + saquinavir/ritonavir 1000 mg/100 mg BID (maraviroc 100 mg BID) | Maraviroc AUC 12: ↑ 5.00 Maraviroc C max : ↑ 2.26 Efavirenz, saquinavir/ritonavir concentrations not measured, no effect expected.                                                                                                                                   | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with efavirenz and a PI (except tipranavir/ritonavir where the dose should be 600 mg twice daily). Concomitant use of CELSENTRI and fosamprenavir/ritonavir is not recommended. |
+| Efavirenz and atazanavir/ritonavir or darunavir/ritonavir                            | Not studied. Based on the extent of inhibition by atazanavir/ritonavir or darunavir/ritonavir in the absence of efavirenz, an increased exposure is expected.                                                                                                        | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with efavirenz and a PI (except tipranavir/ritonavir where the dose should be 600 mg twice daily). Concomitant use of CELSENTRI and fosamprenavir/ritonavir is not recommended. |
 
 <div style=\"page-break-after: always\"></div>
 
-| Fosamprenavir/ritonavir 700 mg/100 mg BID (maraviroc 300 mg BID)                     | Maraviroc AUC 12: ↑ 2.49 Maraviroc C max : ↑ 1.52 Maraviroc C 12 : ↑ 4.74 Amprenavir AUC 12 : ↓ 0.65 Amprenavir C max : ↓ 0.66 Amprenavir C 12 : ↓ 0.64 Ritonavir AUC 12 : ↓ 0.66 Ritonavir C max : ↓ 0.61 Ritonavir C 12 : ↔0.86                                                | Concomitant use is not recommended. Significant reductions in amprenavir C min observed may result in virological failure in patients                                                                                                                         |
-|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| NNRTI + PI                                                                           |                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                               |
-| Efavirenz 600 mg QD + lopinavir/ritonavir 400mg/100 mg BID (maraviroc 300 mg BID)    | Maraviroc AUC 12: ↑ 2.53 Maraviroc C max : ↑ 1.25 Efavirenz, lopinavir/ritonavir concentrations not measured, no effect expected.                                                                                                                                                | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with efavirenz and a PI (except tipranavir/ritonavir where the dose should be 600 mg twice daily). Concomitant use of CELSENTRI and fosamprenavir/ritonavir is not recommended. |
-| Efavirenz 600 mg QD + saquinavir/ritonavir 1000 mg/100 mg BID (maraviroc 100 mg BID) | Maraviroc AUC 12: ↑ 5.00 Maraviroc C max : ↑ 2.26 Efavirenz, saquinavir/ritonavir concentrations not measured, no effect expected.                                                                                                                                               | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with efavirenz and a PI (except tipranavir/ritonavir where the dose should be 600 mg twice daily). Concomitant use of CELSENTRI and fosamprenavir/ritonavir is not recommended. |
-| Efavirenz and atazanavir/ritonavir or darunavir/ritonavir                            | Not studied. Based on the extent of inhibition by atazanavir/ritonavir or darunavir/ritonavir in the absence of efavirenz, an increased exposure is expected.                                                                                                                    | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with efavirenz and a PI (except tipranavir/ritonavir where the dose should be 600 mg twice daily). Concomitant use of CELSENTRI and fosamprenavir/ritonavir is not recommended. |
-| Etravirine and darunavir/ritonavir (maraviroc 150 mg BID)                            | Maraviroc AUC 12: ↑ 3.10 Maraviroc C max : ↑ 1.77 Etravirine AUC 12 : ↔1.00 Etravirine C max : ↔1.08 Etravirine C 12 : ↓ 0.81 Darunavir AUC 12 : ↓ 0.86 Darunavir C max : ↔0.96 Darunavir C 12 : ↓ 0.77 Ritonavir AUC 12 : ↔0.93 Ritonavir C max : ↔1.02 Ritonavir C 12 : ↓ 0.74 | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with etravirine and a PI. Concomitant use of CELSENTRI and fosamprenavir/ritonavir is not recommended.                                                                          |
-| Etravirine and lopinavir/ritonavir, saquinavir/ritonavir or atazanavir/ritonavir     | Not studied. Based on the extent of inhibition by lopinavir/ritonavir, saquinavir/ritonavir or atazanavir/ritonavir in the absence of etravirine, an increased exposure is expected.                                                                                             | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with etravirine and a PI. Concomitant use of CELSENTRI and fosamprenavir/ritonavir is not recommended.                                                                          |
-| ANTIBIOTICS                                                                          |                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                                                               |
+| Etravirine and darunavir/ritonavir (maraviroc 150 mg BID)                        | Maraviroc AUC 12: ↑ 3.10 Maraviroc C max : ↑ 1.77 Etravirine AUC 12 : ↔ 1.00 Etravirine C max : ↔ 1.08 Etravirine C 12 : ↓ 0.81 Darunavir AUC 12 : ↓ 0.86 Darunavir C max : ↔ 0.96 Darunavir C 12 : ↓ 0.77 Ritonavir AUC 12 : ↔ 0.93 Ritonavir C max : ↔ 1.02 Ritonavir C 12 : ↓ 0.74   | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with etravirine and a PI. Concomitant use of CELSENTRI and fosamprenavir/ritonavir is not recommended.                                        |
+|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Etravirine and lopinavir/ritonavir, saquinavir/ritonavir or atazanavir/ritonavir | Not studied. Based on the extent of inhibition by lopinavir/ritonavir, saquinavir/ritonavir or atazanavir/ritonavir in the absence of etravirine, an increased exposure is expected.                                                                                                    | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with etravirine and a PI. Concomitant use of CELSENTRI and fosamprenavir/ritonavir is not recommended.                                        |
+| ANTIBIOTICS                                                                      |                                                                                                                                                                                                                                                                                         |                                                                                                                                                                                                                             |
+| Sulphamethoxazole/ Trimethoprim 800 mg/160 mg BID (maraviroc 300 mg BID)         | Maraviroc AUC 12 : ↔ 1.11 Maraviroc C max : ↔ 1.19 Sulphamethoxazole/trimethoprim concentrations not measured, no effect expected.                                                                                                                                                      | CELSENTRI 300 mg twice daily and sulphamethoxazole/ trimethoprim can be co-administered without dose adjustment.                                                                                                            |
+| Rifampicin 600 mg QD (maraviroc 100 mg BID)                                      | Maraviroc AUC : ↓ 0.37 Maraviroc C max : ↓ 0.34 Rifampicin concentrations not measured, no effect expected.                                                                                                                                                                             | CELSENTRI dose should be increased to 600 mg twice daily when co-administered with rifampicin in the absence of a potent CYP3A4 inhibitor. This dose adjustment has not been studied in HIV patients. See also section 4.4. |
+| Rifampicin + efavirenz                                                           | Combination with two inducers has not been studied. There may be a risk of suboptimal levels with risk of loss of virologic response and resistance development.                                                                                                                        | Concomitant use of CELSENTRI and rifampicin + efavirenz is not recommended.                                                                                                                                                 |
 
 <div style=\"page-break-after: always\"></div>
 
-| Sulphamethoxazole/ Trimethoprim 800 mg/160 mg BID (maraviroc 300 mg BID)   | Maraviroc AUC 12 : ↔1.11 Maraviroc C max : ↔1.19 Sulphamethoxazole/trimethoprim concentrations not measured, no effect expected.                                                                                      | CELSENTRI 300 mg twice daily and sulphamethoxazole/ trimethoprim can be co-administered without dose adjustment.                                                                                                                                                                    |
-|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Rifampicin 600 mg QD (maraviroc 100 mg BID)                                | Maraviroc AUC : ↓ 0.37 Maraviroc C max : ↓ 0.34 Rifampicin concentrations not measured, no effect expected.                                                                                                           | CELSENTRI dose should be increased to 600 mg twice daily when co-administered with rifampicin in the absence of a potent CYP3A4 inhibitor. This dose adjustment has not been studied in HIV patients. See also section 4.4.                                                         |
-| Rifampicin + efavirenz                                                     | Combination with two inducers has not been studied. There may be a risk of suboptimal levels with risk of loss of virologic response and resistance development.                                                      | Concomitant use of CELSENTRI and rifampicin + efavirenz is not recommended.                                                                                                                                                                                                         |
-| Rifabutin + PI                                                             | Not studied. Rifabutin is considered to be a weaker inducer than rifampicin. When combining rifabutin with protease inhibitors that are potent inhibitors of CYP3A4 a net inhibitory effect on maraviroc is expected. | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with rifabutin and a PI (except tipranavir/ritonavir where the dose should be 300 mg twice daily). See also section 4.4. Concomitant use of CELSENTRI and fosamprenavir/ritonavir is not recommended. |
-| Clarithromycin, Telithromycin                                              | Not studied, but both are potent CYP3A4 inhibitors and would be expected to increase maraviroc concentrations.                                                                                                        | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with clarithromycin and telithromycin.                                                                                                                                                                |
-| ANTICONVULSANTS                                                            | ANTICONVULSANTS                                                                                                                                                                                                       | ANTICONVULSANTS                                                                                                                                                                                                                                                                     |
-| Carbamezepine, Phenobarbital, Phenytoin                                    | Not studied, but these are potent CYP3A4 inducers and would be expected to decrease maraviroc concentrations.                                                                                                         | CELSENTRI dose should be increased to 600 mg twice daily when co- administered with carbamazepine, phenobarbital or phenytoin in the absence of a potent CYP3A4 inhibitor.                                                                                                          |
-| ANTIFUNGALS                                                                | ANTIFUNGALS                                                                                                                                                                                                           | ANTIFUNGALS                                                                                                                                                                                                                                                                         |
+| Rifabutin + PI                                | Not studied. Rifabutin is considered to be a weaker inducer than rifampicin. When combining rifabutin with protease inhibitors that are potent inhibitors of CYP3A4 a net inhibitory effect on maraviroc is expected.   | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with rifabutin and a PI (except tipranavir/ritonavir where the dose should be 300 mg twice daily). See also section 4.4. Concomitant use of CELSENTRI and fosamprenavir/ritonavir is not recommended.   |
+|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Clarithromycin, Telithromycin                 | Not studied, but both are potent CYP3A4 inhibitors and would be expected to increase maraviroc concentrations.                                                                                                          | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with clarithromycin and telithromycin.                                                                                                                                                                  |
+| ANTICONVULSANTS                               |                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                       |
+| Carbamezepine, Phenobarbital, Phenytoin       | Not studied, but these are potent CYP3A4 inducers and would be expected to decrease maraviroc concentrations.                                                                                                           | CELSENTRI dose should be increased to 600 mg twice daily when co- administered with carbamazepine, phenobarbital or phenytoin in the absence of a potent CYP3A4 inhibitor.                                                                                                            |
+| ANTIFUNGALS                                   |                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                       |
+| Ketoconazole 400 mg QD (maraviroc 100 mg BID) | Maraviroc AUC tau : ↑ 5.00 Maraviroc C max : ↑ 3.38 Ketoconazole concentrations not measured, no effect is expected.                                                                                                    | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with ketoconazole.                                                                                                                                                                                      |
+| Itraconazole                                  | Not studied. Itraconazole, is a potent CYP3A4 inhibitor and would be expected to increase the exposure of maraviroc.                                                                                                    | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with itraconazole.                                                                                                                                                                                      |
+| Fluconazole                                   | Fluconazole is considered to be a moderate CYP3A4 inhibitor. Population PK studies suggest that a dose adjustment of maraviroc is not required.                                                                         | CELSENTRI 300 mg twice daily should be administered with caution when co-administered with fluconazole.                                                                                                                                                                               |
+| ANTIVIRALS                                    |                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                       |
+| Anti-HBV                                      |                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                       |
+| Pegylated interferon                          | Pegylated interferon has not been studied, no interaction is expected.                                                                                                                                                  | CELSENTRI 300 mg twice daily and pegylated interferon can be co-administered without dose adjustment.                                                                                                                                                                                 |
+| Anti-HCV                                      |                                                                                                                                                                                                                         |                                                                                                                                                                                                                                                                                       |
 
 <div style=\"page-break-after: always\"></div>
 
-| Ketoconazole 400 mg QD (maraviroc 100 mg BID)      | Maraviroc AUC tau : ↑ 5.00 Maraviroc C max : ↑ 3.38 Ketoconazole concentrations not measured, no effect is expected.                            | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with ketoconazole.                                                                            |
-|----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Itraconazole                                       | Not studied. Itraconazole, is a potent CYP3A4 inhibitor and would be expected to increase the exposure of maraviroc.                            | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with itraconazole.                                                                            |
-| Fluconazole                                        | Fluconazole is considered to be a moderate CYP3A4 inhibitor. Population PK studies suggest that a dose adjustment of maraviroc is not required. | CELSENTRI 300 mg twice daily should be administered with caution when co-administered with fluconazole.                                                                     |
-| ANTIVIRALS                                         |                                                                                                                                                 |                                                                                                                                                                             |
-| Anti-HBV                                           |                                                                                                                                                 |                                                                                                                                                                             |
-| Pegylated interferon                               | Pegylated interferon has not been studied, no interaction is expected.                                                                          | CELSENTRI 300 mg twice daily and pegylated interferon can be co-administered without dose adjustment.                                                                       |
-| Anti-HCV                                           |                                                                                                                                                 |                                                                                                                                                                             |
-| Ribavirin                                          | Ribavirin has not been studied, no interaction is expected.                                                                                     | CELSENTRI 300 mg twice daily and ribavirin can be co-administered without dose adjustment.                                                                                  |
-| DRUG ABUSE                                         |                                                                                                                                                 |                                                                                                                                                                             |
-| Methadone                                          | Not studied, no interaction expected.                                                                                                           | CELSENTRI 300 mg twice daily and methadone can be co-administered without dose adjustment.                                                                                  |
-| Buprenorphine                                      | Not studied, no interaction expected.                                                                                                           | CELSENTRI 300 mg twice daily and buprenorphine can be co-administered without dose adjustment.                                                                              |
-| LIPID LOWERING MEDICINAL PRODUCTS                  |                                                                                                                                                 |                                                                                                                                                                             |
-| Statins                                            | Not studied, no interaction expected.                                                                                                           | CELSENTRI 300 mg twice daily and statins can be co-administered without dose adjustment.                                                                                    |
-| ANTIARRHYTHMICS                                    |                                                                                                                                                 |                                                                                                                                                                             |
-| Digoxin 0.25 mg Single Dose (maraviroc 300 mg BID) | Digoxin. AUC t: ↔1.00 Digoxin. C max : ↔1.04 Maraviroc concentrations not measured, no interaction expected.                                    | CELSENTRI 300 mg twice daily and digoxin can be co-administered without dose adjustment. The effect of maraviroc on digoxin at the dose of 600 mg BID has not been studied. |
-| ORAL CONTRACEPTIVES                                | ORAL CONTRACEPTIVES                                                                                                                             | ORAL CONTRACEPTIVES                                                                                                                                                         |
+| Ribavirin                                           | Ribavirin has not been studied, no interaction is expected.                                                                      | CELSENTRI 300 mg twice daily and ribavirin can be co-administered without dose adjustment.                                                                                  |
+|-----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| DRUG ABUSE                                          | DRUG ABUSE                                                                                                                       | DRUG ABUSE                                                                                                                                                                  |
+| Methadone                                           | Not studied, no interaction expected.                                                                                            | CELSENTRI 300 mg twice daily and methadone can be co-administered without dose adjustment.                                                                                  |
+| Buprenorphine                                       | Not studied, no interaction expected.                                                                                            | CELSENTRI 300 mg twice daily and buprenorphine can be co-administered without dose adjustment.                                                                              |
+| LIPID LOWERING MEDICINAL PRODUCTS                   | LIPID LOWERING MEDICINAL PRODUCTS                                                                                                | LIPID LOWERING MEDICINAL PRODUCTS                                                                                                                                           |
+| Statins                                             | Not studied, no interaction expected.                                                                                            | CELSENTRI 300 mg twice daily and statins can be co-administered without dose adjustment.                                                                                    |
+| ANTIARRHYTHMICS                                     | ANTIARRHYTHMICS                                                                                                                  | ANTIARRHYTHMICS                                                                                                                                                             |
+| Digoxin 0.25 mg Single Dose (maraviroc 300 mg BID)  | Digoxin. AUC t: ↔ 1.00 Digoxin. C max : ↔ 1.04 Maraviroc concentrations not measured, no interaction expected.                   | CELSENTRI 300 mg twice daily and digoxin can be co-administered without dose adjustment. The effect of maraviroc on digoxin at the dose of 600 mg BID has not been studied. |
+| ORAL CONTRACEPTIVES                                 | ORAL CONTRACEPTIVES                                                                                                              | ORAL CONTRACEPTIVES                                                                                                                                                         |
+| Ethinylestradiol 30 mcg QD (maraviroc 100 mg BID)   | Ethinylestradiol. AUC t: ↔ 1.00 Ethinylestradiol. C max : ↔ 0.99 Maraviroc concentrations not measured, no interaction expected. | CELSENTRI 300 mg twice daily. and ethinylestradiol can be co-administered without dose adjustment.                                                                          |
+| Levonorgestrel 150 mcg QD (maraviroc 100 mg BID)    | Levonorgestrel. AUC 12: ↔ 0.98 Levonorgestrel. C max : ↔ 1.01 Maraviroc concentrations not measured, no interaction expected.    | CELSENTRI 300 mg twice daily and levonorgestrel can be co-administered without dose adjustment.                                                                             |
+| SEDATIVES                                           | SEDATIVES                                                                                                                        | SEDATIVES                                                                                                                                                                   |
+| Benzodiazepines                                     | Benzodiazepines                                                                                                                  | Benzodiazepines                                                                                                                                                             |
+| Midazolam 7.5 mg Single Dose (maraviroc 300 mg BID) | Midazolam. AUC: ↔ 1.18 Midazolam. C max : ↔ 1.21 Maraviroc concentrations not measured, no interaction expected.                 | CELSENTRI 300 mg twice daily and midazolam can be co-administered without dose adjustment.                                                                                  |
+| HERBAL PRODUCTS                                     | HERBAL PRODUCTS                                                                                                                  | HERBAL PRODUCTS                                                                                                                                                             |
 
 <div style=\"page-break-after: always\"></div>
 
-| Ethinylestradiol 30 mcg QD (maraviroc 100 mg BID)   | Ethinylestradiol. AUC t: ↔1.00 Ethinylestradiol. C max : ↔0.99 Maraviroc concentrations not measured, no interaction expected.                                                                                                      | CELSENTRI 300 mg twice daily. and ethinylestradiol can be co-administered without dose adjustment.          |
-|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
-| Levonorgestrel 150 mcg QD (maraviroc 100 mg BID)    | Levonorgestrel. AUC 12: ↔0.98 Levonorgestrel. C max : ↔1.01 Maraviroc concentrations not measured, no interaction expected.                                                                                                         | CELSENTRI 300 mg twice daily and levonorgestrel can be co-administered without dose adjustment.             |
-| SEDATIVES                                           |                                                                                                                                                                                                                                     |                                                                                                             |
-| Benzodiazepines                                     |                                                                                                                                                                                                                                     |                                                                                                             |
-| Midazolam 7.5 mg Single Dose (maraviroc 300 mg BID) | Midazolam. AUC: ↔1.18 Midazolam. C max : ↔1.21 Maraviroc concentrations not measured, no interaction expected.                                                                                                                      | CELSENTRI 300 mg twice daily and midazolam can be co-administered without dose adjustment.                  |
-| HERBAL PRODUCTS                                     |                                                                                                                                                                                                                                     |                                                                                                             |
-| St. John's Wort (Hypericum Perforatum)              | Co-administration of maraviroc with St. John's Wort is expected to substantially decrease maraviroc concentrations and may result in suboptimal levels and lead to loss of virologic response and possible resistance to maraviroc. | Concomitant use of maraviroc and St. John's Wort or products containing St. John's Wort is not recommended. |
+| St. John's Wort (Hypericum Perforatum)   | Co-administration of maraviroc with St. John's Wort is expected to substantially decrease maraviroc concentrations and may result in suboptimal levels and lead to loss of virologic response and possible resistance to maraviroc.   | Concomitant use of maraviroc and St. John's Wort or products containing St. John's Wort is not recommended.   |
+|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 
 a Refer to Table 1 for maraviroc paediatric dosing recommendations when co-administered with antiretroviral therapy and other medicinal products.
 
@@ -348,8 +329,6 @@ It is recommended that women living with HIV do not breast-feed their infants in
 
 There is no data on the effects of maraviroc on human fertility. In rats, there were no adverse effects on male or female fertility (see section 5.3).
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.7 Effects on ability to drive and use machines
 
 Maraviroc may have a minor influence on the ability to drive and use machines. Patients should be informed that dizziness has been reported during treatment with maraviroc. The clinical status of the patient and the adverse reaction profile of maraviroc should be borne in mind when considering the patient's ability to drive, cycle or operate machinery.
@@ -362,45 +341,48 @@ Maraviroc may have a minor influence on the ability to drive and use machines. P
 
 Assessment of treatment related adverse reactions is based on pooled data from two Phase 2b/3 studies in treatment-experienced adult patients (MOTIVATE 1 and MOTIVATE 2) and one study in treatment-naïve adult patients (MERIT) infected with CCR5-tropic HIV-1 (see sections 4.4 and 5.1).
 
-The most frequently reported adverse reactions occurring in the Phase 2b/3 studies were nausea, diarrhoea, fatigue and headache. These adverse reactions were common (≥ 1/100 to &lt; 1/10).
+The most frequently reported adverse reactions occurring in the Phase 2b/3 studies were nausea, diarrhoea, fatigue and headache . These adverse reactions were common (≥ 1/100 to &lt; 1/10).
 
 ## Tabulated list of adverse reactions
 
-The adverse reactions are listed by system organ class (SOC) and frequency. Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥1/1000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1,000) , not known (cannot be estimated from the available data).  The adverse reactions and laboratory abnormalities presented below are not exposure adjusted.
+<div style=\"page-break-after: always\"></div>
+
+The adverse reactions are listed by system organ class (SOC) and frequency. Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10) , uncommon (≥1/1000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1 ,000) , not known (cannot be estimated from the available data).  The adverse reactions and laboratory abnormalities presented below are not exposure adjusted.
 
 Table 3: Adverse reactions observed in clinical trials or post-marketing
 
-| System Organ Class                                                      | Adverse reaction                                                                                                                                                                    | Frequency   |
-|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| Infections and infestations                                             | Pneumonia, oesophageal candidiasis                                                                                                                                                  | uncommon    |
-| Neoplasm benign, malignant and unspecified (including cysts and polyps) | Bile duct cancer, diffuse large B-cell lymphoma, Hodgkin's disease, metastases to bone, metastases to liver, metastases to peritoneum, nasopharyngeal cancer, oesophageal carcinoma | rare        |
-| Blood and lymphatic system disorders                                    | Anaemia                                                                                                                                                                             | common      |
-| Blood and lymphatic system disorders                                    | Pancytopenia, granulocytopenia                                                                                                                                                      | rare        |
-| Metabolism and nutrition disorders                                      | Anorexia                                                                                                                                                                            | common      |
-| Psychiatric disorders                                                   | Depression, insomnia                                                                                                                                                                | common      |
-| Nervous system disorders                                                | Seizures and seizure disorders                                                                                                                                                      | uncommon    |
-| Cardiac disorders                                                       | Angina pectoris                                                                                                                                                                     | rare        |
-| Vascular disorders                                                      | Postural hypotension (see section 4.4)                                                                                                                                              | uncommon    |
-| Gastrointestinal disorders                                              | Abdominal pain, flatulence, nausea                                                                                                                                                  | common      |
-| Hepatobiliary disorders                                                 | Alanine aminotransferase increased, aspartate aminotransferase increased                                                                                                            | common      |
-| Hepatobiliary disorders                                                 | Hyperbilirubinaemia, gamma- glutamyltransferase increased                                                                                                                           | uncommon    |
-
-<div style=\"page-break-after: always\"></div>
-
-|                                                      | Hepatitis toxic, hepatic failure, hepatic cirrhosis, blood alkaline phosphatase increased   | rare             |
-|------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------|
-| Skin and subcutaneous tissue                         | Rash                                                                                        | common           |
-| disorders                                            | Stevens-Johnson syndrome / Toxic epidermal necrolysis                                       | rare / not known |
-| Musculoskeletal and connective tissue disorders      | Myositis, blood creatine phosphokinase increased                                            | uncommon         |
-|                                                      | Muscle atrophy                                                                              | rare             |
-| Renal and urinary disorders                          | Renal failure, proteinuria                                                                  | uncommon         |
-| General disorders and administration site conditions | Asthenia                                                                                    | common           |
+| System Organ Class                                                      | Adverse reaction                                                                                                                                                                    | Frequency        |
+|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|
+| Infections and infestations                                             | Pneumonia, oesophageal candidiasis                                                                                                                                                  | uncommon         |
+| Neoplasm benign, malignant and unspecified (including cysts and polyps) | Bile duct cancer, diffuse large B-cell lymphoma, Hodgkin's disease, metastases to bone, metastases to liver, metastases to peritoneum, nasopharyngeal cancer, oesophageal carcinoma | rare             |
+| Blood and lymphatic system disorders                                    | Anaemia                                                                                                                                                                             | common           |
+| Blood and lymphatic system disorders                                    | Pancytopenia, granulocytopenia                                                                                                                                                      | rare             |
+| Metabolism and nutrition disorders                                      | Anorexia                                                                                                                                                                            | common           |
+| Psychiatric disorders                                                   | Depression, insomnia                                                                                                                                                                | common           |
+| Nervous system disorders                                                | Seizures and seizure disorders                                                                                                                                                      | uncommon         |
+| Cardiac disorders                                                       | Angina pectoris                                                                                                                                                                     | rare             |
+| Vascular disorders                                                      | Postural hypotension (see section 4.4)                                                                                                                                              | uncommon         |
+| Gastrointestinal disorders                                              | Abdominal pain, flatulence, nausea                                                                                                                                                  | common           |
+| Hepatobiliary disorders                                                 | Alanine aminotransferase increased, aspartate aminotransferase increased                                                                                                            | common           |
+| Hepatobiliary disorders                                                 | Hyperbilirubinaemia, gamma- glutamyltransferase increased                                                                                                                           | uncommon         |
+| Hepatobiliary disorders                                                 | Hepatitis toxic, hepatic failure, hepatic cirrhosis, blood alkaline phosphatase increased                                                                                           | rare             |
+| Hepatobiliary disorders                                                 | Hepatic failure with allergic features                                                                                                                                              | very rare        |
+| Skin and subcutaneous tissue disorders                                  | Rash                                                                                                                                                                                | common           |
+| Skin and subcutaneous tissue disorders                                  | Stevens-Johnson syndrome / Toxic epidermal necrolysis                                                                                                                               | rare / not known |
+| Musculoskeletal and connective tissue disorders                         | Myositis, blood creatine phosphokinase increased                                                                                                                                    | uncommon         |
+| Musculoskeletal and connective tissue disorders                         | Muscle atrophy                                                                                                                                                                      | rare             |
+| Renal and urinary disorders                                             | Renal failure, proteinuria                                                                                                                                                          | uncommon         |
+| General disorders and administration site conditions                    | Asthenia                                                                                                                                                                            | common           |
 
 ## Description of selected adverse reactions
 
 Delayed type hypersensitivity reactions, typically occurring within 2-6 weeks after start of therapy and including rash, fever, eosinophilia and liver reactions have been reported (see also section 4.4). Skin and liver reactions can occur as single events, or in combination.
 
-In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.  Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
+In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise. Autoimmune disorders (such as Graves' disease and autoimmune hepatitis)
+
+<div style=\"page-break-after: always\"></div>
+
+have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
 
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART). The frequency of this is unknown (see section 4.4).
 
@@ -408,11 +390,9 @@ Cases of syncope caused by postural hypotension have been reported.
 
 ## Laboratory abnormalities
 
-Table 4 shows the incidence ≥1% of Grade 3-4 Abnormalities (ACTG Criteria) based on the maximum shift in laboratory test values without regard to baseline values.
+Table 4 shows the incidence ≥1% of Grade 3 -4 Abnormalities (ACTG Criteria) based on the maximum shift in laboratory test values without regard to baseline values.
 
-Table 4: Incidence ≥1% of grade 3-4 abnormalities (ACTG criteria) based on maximum shift in laboratory test values without regard to baseline studies MOTIVATE 1 and MOTIVATE 2 (pooled analysis, up to 48 weeks)
-
-<div style=\"page-break-after: always\"></div>
+Table 4 : Incidence ≥1% of grade 3 -4 abnormalities (ACTG criteria) based on maximum shift in laboratory test values without regard to baseline studies MOTIVATE 1 and MOTIVATE 2 (pooled analysis, up to 48 weeks)
 
 | Laboratory parameter                 | Limit                                | Maraviroc 300 mg twice daily + OBT N =421 * (%)   | Placebo + OBT N =207 * (%)   |
 |--------------------------------------|--------------------------------------|---------------------------------------------------|------------------------------|
@@ -432,13 +412,15 @@ OBT: Optimised Background Therapy
 
 * Percentages based on total patients evaluated for each laboratory parameter
 
-The MOTIVATE studies were extended beyond 96 weeks, with an observational phase extended to 5 years in order to assess the long term safety of maraviroc. The Long Term Safety/Selected Endpoints (LTS/SE) included death, AIDS-defining events, hepatic failure, Myocardial infarction/cardiac ischaemia, malignancies, rhabdomyolysis and other serious infectious events with maraviroc treatment.  The incidence of these selected endpoints for subjects on maraviroc in this observational phase was consistent with the incidence seen at earlier timepoints in the studies.
+The MOTIVATE studies were extended beyond 96 weeks, with an observational phase extended to 5 years in order to assess the long-term safety of maraviroc. The Long-Term Safety/Selected Endpoints (LTS/SE) included death, AIDS-defining events, hepatic failure, Myocardial infarction/cardiac ischaemia, malignancies, rhabdomyolysis and other serious infectious events with maraviroc treatment.  The incidence of these selected endpoints for subjects on maraviroc in this observational phase was consistent with the incidence seen at earlier timepoints in the studies.
 
 In treatment-naïve patients, the incidence of grade 3 and 4 laboratory abnormalities using ACTG criteria was similar among the maraviroc and efavirenz treatment groups.
 
 ## Paediatric population
 
 The adverse reaction profile in paediatric patients is based on 48 Week safety data from study A4001031 in which 103 HIV-1 infected, treatment-experienced patients aged 2 to &lt;18 years received maraviroc twice-daily with optimised background therapy (OBT). Overall, the safety profile in paediatric patients was similar to that observed in adult clinical studies.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Reporting of suspected adverse reactions
 
@@ -452,11 +434,9 @@ The highest dose administered in clinical studies was 1,200 mg. The dose limitin
 
 Prolongation of the QT interval was seen in dogs and monkeys at plasma concentrations 6 and 12 times, respectively, those expected in humans at the maximum recommended dose of 300 mg twice daily. However, no clinically significant QT prolongation compared to placebo + OBT was seen in the Phase 3 clinical studies using the recommended dose of maraviroc or in a specific pharmacokinetic study to evaluate the potential of maraviroc to prolong the QT interval.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Management
 
-There is no specific antidote for overdose with maraviroc. Treatment of overdose should consist of general supportive measures including keeping the patient in a supine position, careful assessment of patient vital signs, blood pressure and ECG.
+There is no specific antidote for overdose with maraviroc. Treatment of overdose should consist of general supportive measures including keeping the patient in a supine position, careful assessment of patient vital signs, blood pressure and electrocardiogram (ECG).
 
 If indicated, elimination of unabsorbed active maraviroc should be achieved by emesis or gastric lavage. Administration of activated charcoal may also be used to aid in removal of unabsorbed active substance. Since maraviroc is moderately protein bound, dialysis may be beneficial in removal of this medicine. Further management should be as recommended by the national poisons centre, where available.
 
@@ -472,7 +452,9 @@ Maraviroc is a member of a therapeutic class called CCR5 antagonists. Maraviroc 
 
 ## Antiviral activity in vitro
 
-Maraviroc has no antiviral activity in vitro against viruses which can use CXCR4 as their entry coreceptor (dual-tropic or CXCR4-tropic viruses, collectively termed 'CXCR4-using' virus below). The serum adjusted EC90 value in 43 primary HIV-1 clinical isolates was 0.57 (0.06 - 10.7) ng/mL without significant changes between different subtypes tested. The antiviral activity of maraviroc against HIV-2 has not been evaluated. For details please refer to the pharmacology section of the CELSENTRI European Public Assessment Report (EPAR) on the European Medicines Agency (EMA) website.
+Maraviroc has no antiviral activity in vitro against viruses which can use CXCR4 as their entry coreceptor (dual-tropic or CXCR4tropic viruses, collectively termed 'CXCR4 -using' virus below). The serum adjusted EC90 value in 43 primary HIV-1 clinical isolates was 0.57 (0.06 -10.7) ng/mL without significant changes between different subtypes tested. The antiviral activity of maraviroc against HIV-2 has not been evaluated. For details please refer to the pharmacology section of the CELSENTRI European Public Assessment Report (EPAR) on the European Medicines Agency (EMA) website.
+
+<div style=\"page-break-after: always\"></div>
 
 When used with other antiretroviral medicinal products in cell culture, the combination of maraviroc was not antagonistic with a range of NRTIs, NNRTIs, PIs or the HIV fusion inhibitor enfuvirtide.
 
@@ -486,11 +468,7 @@ HIV-1 variants with reduced susceptibility to maraviroc have been selected in vi
 
 ## Phenotypic resistance
 
-Concentration response curves for the maraviroc-resistant viruses were characterized phenotypically by curves that did not reach 100% inhibition in assays using serial dilutions of maraviroc (&lt;100% maximal percentage inhibition (MPI)). Traditional IC50/IC90 fold-change was
-
-<div style=\"page-break-after: always\"></div>
-
-not a useful parameter to measure phenotypic resistance, as those values were sometimes unchanged despite significantly reduced sensitivity.
+Concentration response curves for the maraviroc-resistant viruses were characterized phenotypically by curves that did not reach 100% inhibition in assays using serial dilutions of maraviroc (&lt;100% maximal percentage inhibition (MPI)). Traditional IC50/IC90 fold-change was not a useful parameter to measure phenotypic resistance, as those values were sometimes unchanged despite significantly reduced sensitivity.
 
 ## Genotypic resistance
 
@@ -508,7 +486,11 @@ In the pivotal studies (MOTIVATE 1 and MOTIVATE 2), 7.6% of patients had a chang
 
 ## Failure with CXCR4-using virus
 
-CXCR4-using virus was detected at failure in approximately 60% of subjects who failed treatment on maraviroc, as compared to 6% of subjects who experienced treatment failure in the placebo + OBT arm. To investigate the likely origin of the on-treatment CXCR4-using virus, a detailed clonal analysis was conducted on virus from 20 representative subjects (16 subjects from the maraviroc arms and 4 subjects from the placebo + OBT arm) in whom CXCR4-using virus was detected at treatment failure. This analysis indicated that CXCR4-using virus emerged from a pre-existing CXCR4-using reservoir not detected at baseline, rather than from mutation of CCR5-tropic virus present at baseline. An analysis of tropism following failure of maraviroc therapy with CXCR4using virus in patients with CCR5 virus at baseline, demonstrated that the virus population reverted back to CCR5 tropism in 33 of 36 patients with more than 35 days of follow-up.
+CXCR4-using virus was detected at failure in approximately 60% of subjects who failed treatment on maraviroc, as compared to 6% of subjects who experienced treatment failure in the placebo + OBT arm. To investigate the likely origin of the on-treatment CXCR4-using virus, a detailed clonal analysis was conducted on virus from 20 representative subjects (16 subjects from the maraviroc arms and 4 subjects from the placebo + OBT arm) in whom CXCR4-using virus was detected at treatment failure. This analysis indicated that CXCR4-using virus emerged from a pre-existing CXCR4-using reservoir not detected at baseline, rather than from mutation of CCR5-tropic virus present at baseline. An analysis of tropism following failure of maraviroc therapy with CXCR4-
+
+<div style=\"page-break-after: always\"></div>
+
+using virus in patients with CCR5 virus at baseline, demonstrated that the virus population reverted back to CCR5 tropism in 33 of 36 patients with more than 35 days of follow-up.
 
 At the time of failure with CXCR4-using virus, the resistance pattern to other antiretrovirals appears similar to that of the CCR5-tropic population at baseline, based on available data. Hence, in the selection of a treatment regimen, it should be assumed that viruses forming part of the previously undetected CXCR4 -using population (i.e. minor viral population) harbours the same resistance pattern as the CCR5-tropic population.
 
@@ -516,23 +498,25 @@ At the time of failure with CXCR4-using virus, the resistance pattern to other a
 
 ## Phenotypic resistance
 
-In patients with CCR5-tropic virus at time of treatment failure with maraviroc, 22 out of 58 patients had virus with reduced sensitivity to maraviroc. In the remaining 36 patients, there was no evidence of virus with reduced sensitivity as identified by exploratory virology analyses on a representative group. The latter group had markers correlating to low compliance (low and variable drug levels and often a calculated high residual sensitivity score of the OBT). In patients failing therapy with CCR5-tropic virus only, maraviroc might be considered still active if the MPI value is ≥95% (PhenoSense Entry assay). Residual activity in vivo for viruses with MPI-values &lt;95% has not been determined.
+In patients with CCR5-tropic virus at time of treatment failure with maraviroc, 22 out of 58 patients had virus with reduced sensitivity to maraviroc. In the remaining 36 patients, there was no evidence of virus with reduced sensitivity as identified by exploratory virology analyses on a representative group. The latter group had markers correlating to low compliance (low and variable drug levels and often a calculated high residual sensitivity score of the OBT). In patients failing therapy with CCR5-tropic virus only, maraviroc might be considered still active if the MPI value is ≥95% ( PhenoSense Entry assay). Residual activity in vivo for viruses with MPI-values &lt;95% has not been determined.
 
 ## Genotypic resistance
 
-<div style=\"page-break-after: always\"></div>
+A relatively small number of individuals receiving maraviroc-containing therapy have failed with phenotypic resistance (i.e. the ability to use drug-bound CCR5 with MPI &lt;95%).   To date, no signature mutation(s) have been identified.  The gp120 amino acid substitutions identified so far are context dependent and inherently unpredictable with regards to maraviroc susceptibility.
 
-A relatively small number of individuals receiving maraviroc-containing therapy have failed with phenotypic resistance (i.e. the ability to use drug-bound CCR5 with MPI &lt;95%).   To date, no signature mutation(s) have been identified.  The gp120 amino acid substitutions identified so far are context dependent and inherently unpredictable with regards to maraviroc susceptibility. Treatment-Experienced Paediatric Patients
+## Treatment-Experienced Paediatric Patients
 
 In the Week 48 analysis (N=103), non-CCR5 tropic-virus was detected in 5/23 (22%) subjects at virologic failure. One additional subject had CCR5 tropic-virus with reduced susceptibility to maraviroc at virologic failure, although this was not retained at the end of treatment.  Subjects with virologic failure generally appeared to have low compliance to both maraviroc and the background antiretroviral elements of their regimens. Overall, the mechanisms of resistance to maraviroc observed in this treatment-experienced paediatric population were similar to those observed in adult populations.
 
 ## Clinical results
 
-Studies in Treatment-Experienced Adult Patients Infected with CCR5-tropic Virus
+## Studies in Treatment-Experienced Adult Patients Infected with CCR5-tropic Virus
 
 The clinical efficacy of maraviroc (in combination with other antiretroviral medicinal products) on plasma HIV RNA levels and CD4+ cell counts have been investigated in two pivotal randomized, double blind, multicentre studies (MOTIVATE 1 and MOTIVATE 2, n=1076) in patients infected with CCR5 tropic HIV-1 as determined by the Monogram Trofile Assay.
 
-Patients who were eligible for these studies had prior exposure to at least 3 antiretroviral medicinal product classes [≥1 NRTIs, ≥1 NNRTIs, ≥2 PIs, and/or enfurvirtide] or documented resistance to at least one member of each class. Patients were randomised in a 2:2:1 ratio to maraviroc 300 mg (dose equivalence) once daily, twice daily or placebo in combination with an optimized background consisting of 3 to 6 antiretroviral medicinal products (excluding low-dose ritonavir). The OBT was selected on the basis of the subject's prior treatment history and baseline genotypic and phenotypic viral resistance measurements.
+Patients who were eligible for these studies had prior exposure to at least 3 antiretroviral medicinal product classes [≥1 NRTI s , ≥1 NNRTI s , ≥2 PI s, and/or enfurvirtide] or documented resistance to at least one member of each class. Patients were randomised in a 2:2:1 ratio to maraviroc 300 mg (dose equivalence) once daily, twice daily or placebo in combination with an optimized background consisting of 3 to 6 antiretroviral medicinal products (excluding low-dose ritonavir). The OBT was selected on the basi s of the subject's prior treatment history and baseline genotypic and phenotypic viral resistance measurements.
+
+<div style=\"page-break-after: always\"></div>
 
 Table 5: Demographic and baseline characteristics of patients (pooled studies MOTIVATE 1 and MOTIVATE 2)
 
@@ -545,14 +529,10 @@ Table 5: Demographic and baseline characteristics of patients (pooled studies MO
 | Median Baseline CD4+ Cell Count (cells/mm 3 ) (range, cells/mm 3 ) | 166.8 (2.0-820.0)                            | 171.3 (1.0-675.0)       |
 | Screening Viral Load >100,000 copies/mL                            | 179 (42.0%)                                  | 84 (40.2%)              |
 | Baseline CD4+ Cell Count ≤200 cells/mm 3                           | 250 (58.7%)                                  | 118 (56.5%)             |
-| Number (Percentage) of patients with GSS score 1 : 0 1 2           | 102 (23.9%) 138 (32.4%) 80 (18.8%)           | 51 (24.4%) 53 (25.4%)   |
-|                                                                    |                                              | 41                      |
-|                                                                    |                                              | (19.6%)                 |
+| Number (Percentage) of patients with GSS score 1 : 0 1             | 102 (23.9%) 138 (32.4%)                      | 51 (24.4%)              |
+|                                                                    |                                              | 53 (25.4%)              |
+| 2                                                                  | 80 (18.8%)                                   | 41 (19.6%)              |
 | ≥3                                                                 | 104 (24.4%)                                  | 59 (28.2%)              |
-
-1 Based on GeneSeq resistance assay.
-
-<div style=\"page-break-after: always\"></div>
 
 Limited numbers of patients from ethnicities other than Caucasian were included in the pivotal clinical studies, therefore very limited data are available in these patient populations.
 
@@ -567,36 +547,33 @@ Table 6: Efficacy Outcomes at week 48 (pooled studies MOTIVATE 1 and MOTIVATE 2)
 | Percentage of patients with HIV-1 RNA <50 copies/mL  | 45.5%                                      | 16.7%                 | Odds ratio: 4.49 (2.96, 6.83)           |
 | CD4+ cell count Mean change from baseline (cells/µL) | 122.78                                     | 59.17                 | 63.13 (44.28, 81.99) 2                  |
 
-1 p-values &lt; 0.0001
+In a retrospective analysis of the MOTIVATE studies with a more sensitive assay for screening of tropism (Trofile ES), the response rates (&lt;50 copies/mL at week 48) in patients with only CCR5-
 
-2 For all efficacy endpoints the confidence intervals were 95%, except for HIV-1 RNA Change from baseline, which was 97.5%
+<div style=\"page-break-after: always\"></div>
 
-In a retrospective analysis of the MOTIVATE studies with a more sensitive assay for screening of tropism (Trofile ES), the response rates (&lt;50 copies/mL at week 48) in patients with only CCR5tropic virus detected at baseline was 48.2% in those treated with maraviroc + OBT (n=328), and 16.3% in those treated with placebo + OBT (n=178).
+tropic virus detected at baseline was 48.2% in those treated with maraviroc + OBT (n=328), and 16.3% in those treated with placebo + OBT (n=178).
 
 Maraviroc 300 mg twice daily + OBT was superior to placebo + OBT across all subgroups of patients analysed (see Table 7). Patients with very low CD4+ count at baseline (i.e. &lt;50 cells/µL) had a less favourable outcome. This subgroup had a high degree of bad prognostic markers, i.e. extensive resistance and high baseline viral loads. However, a significant treatment benefit for maraviroc compared to placebo + OBT was still demonstrated (see Table 7).
 
 Table 7: Proportion of patients achieving &lt;50 copies/mL at Week 48 by subgroup (pooled Studies MOTIVATE 1 and MOTIVATE 2)
 
-|                                   | HIV-1 RNA <50 copies/mL                  | HIV-1 RNA <50 copies/mL   |
-|-----------------------------------|------------------------------------------|---------------------------|
-| Subgroups                         | Maraviroc 300 mg twice daily + OBT N=426 | Placebo + OBT N=209       |
-| Screening HIV-1 RNA (copies /mL): |                                          |                           |
-| <100,000                          | 58.4%                                    | 26.0%                     |
-| ≥100,000                          | 34.7%                                    | 9.5%                      |
-| Baseline CD4+ (cells/µL):         |                                          |                           |
-| <50                               | 16.5%                                    | 2.6%                      |
-| 50-100                            | 36.4%                                    | 12.0%                     |
-| 101-200                           | 56.7%                                    | 21.8%                     |
-| 201-350                           | 57.8%                                    | 21.0%                     |
-| ≥ 350                             | 72.9%                                    | 38.5%                     |
-
-<div style=\"page-break-after: always\"></div>
-
-| Number of active ARVs in OBT 1 : 0   | 32.7%   | 2.0%   |
-|--------------------------------------|---------|--------|
-| 1                                    | 44.5%   | 7.4%   |
-| 2                                    | 58.2%   | 31.7%  |
-| ≥3                                   | 62%     | 38.6%  |
+|                                            | HIV-1 RNA <50 copies/mL                  | HIV-1 RNA <50 copies/mL   |
+|--------------------------------------------|------------------------------------------|---------------------------|
+| Subgroups                                  | Maraviroc 300 mg twice daily + OBT N=426 | Placebo + OBT N=209       |
+| Screening HIV-1 RNA (copies /mL): <100,000 |                                          |                           |
+|                                            | 58.4%                                    | 26.0%                     |
+| ≥ 100,000                                  | 34.7%                                    | 9.5%                      |
+| Baseline CD4+ (cells/µL):                  |                                          |                           |
+| <50                                        | 16.5%                                    | 2.6%                      |
+| 50-100                                     | 36.4%                                    | 12.0%                     |
+| 101-200                                    | 56.7%                                    | 21.8%                     |
+| 201-350                                    | 57.8%                                    | 21.0%                     |
+| ≥ 350                                      | 72.9%                                    | 38.5%                     |
+| Number of active ARVs in OBT 1 :           |                                          |                           |
+| 0                                          | 32.7%                                    | 2.0%                      |
+| 1                                          | 44.5%                                    | 7.4%                      |
+| 2                                          | 58.2%                                    | 31.7%                     |
+| ≥3                                         | 62%                                      | 38.6%                     |
 
 1 Based on GSS.
 
@@ -610,7 +587,11 @@ A randomised, double-blinded study (MERIT), explored maraviroc versus efavirenz,
 
 ## Studies in Adult Patients Co-infected with Hepatitis B and/or Hepatitis C virus
 
-The hepatic safety of maraviroc in combination with other antiretroviral agents in CCR5-tropic HIV-1-infected subjects with HIV RNA &lt;50 copies/mL, co-infected with Hepatitis C and/or Hepatitis B Virus was evaluated in a multicentre, randomized, double blinded, placebo-controlled study. 70 subjects (Child-Pugh Class A, n=64; Child-Pugh Class B, n=6) were randomized to the maraviroc group and 67 subjects (Child-Pugh Class A, n=59; Child-Pugh Class B, n=8) were randomized to the placebo group.
+The hepatic safety of maraviroc in combination with other antiretroviral agents in CCR5-tropic HIV-1-infected subjects with HIV RNA &lt;50 copies/mL, co-infected with Hepatitis C and/or Hepatitis B Virus was evaluated in a multicentre, randomized, double blinded, placebo-controlled study. 70 subjects (Child-Pugh Class A, n=64; Child-Pugh Class B, n=6) were randomized to the
+
+<div style=\"page-break-after: always\"></div>
+
+maraviroc group and 67 subjects (Child-Pugh Class A, n=59; Child-Pugh Class B, n=8) were randomized to the placebo group.
 
 The primary objective assessed the incidence of Grade 3 and 4 ALT abnormalities (&gt;5x upper limit of normal (ULN) if baseline ALT ≤ ULN; or &gt;3.5x baseline if baseline ALT &gt; ULN) at Week 48. One subject in each treatment arm met the primary endpoint by Week 48 (at Week 8 for placebo and Week 36 for the maraviroc arm).
 
@@ -622,11 +603,7 @@ All subjects (n = 103) received maraviroc twice daily and OBT.  Maraviroc dosing
 
 In paediatric patients with a successful tropism test, dual mixed/CXCR4-tropic virus was detected in around 40% of screening samples (8/27, 30% in 2-6 year-olds, 31/81, 38% in 6-12 year-olds and 41/90, 46% in 12-18 year-olds), underscoring the importance of tropism testing also in the paediatric population.
 
-The population was 52% female and 69% black, with mean age of 10 years (range: 2 years to 17 years). At baseline, mean plasma HIV-1 RNA was 4.3 log10 copies/mL (range 2.4 to 6.2 log10
-
-<div style=\"page-break-after: always\"></div>
-
-copies per mL), mean CD4+ cell count was 551 cells/mm 3  (range 1 to 1654 cells/mm 3 ) and mean CD4+ % was 21% (range 0% to 42%).
+The population was 52% female and 69% black, with mean age of 10 years (range: 2 years to 17 years). At baseline, mean plasma HIV-1 RNA was 4.3 log10 copies/mL (range 2.4 to 6.2 log10 copies per mL), mean CD4+ cell count was 551 cells/mm 3  (range 1 to 1654 cells/mm 3 ) and mean CD4+ % was 21% (range 0% to 42%).
 
 At 48 weeks, using a missing, switch or discontinuation equals failure analysis, 48% of subjects treated with maraviroc and OBT achieved plasma HIV-1 RNA less than 48 copies/mL and 65% of subjects achieved plasma HIV-1 RNA less than 400 copies per mL. The mean CD4+ cell count (percent) increase from baseline to Week 48 was 247 cells/mm 3 (5%).
 
@@ -638,11 +615,13 @@ The absorption of maraviroc is variable with multiple peaks. Median peak maravir
 
 Co-administration of a 300 mg tablet with a high fat breakfast reduced maraviroc Cmax and AUC by 33% and co-administration of 75 mg of oral solution with a high fat breakfast reduced maraviroc AUC by 73% in adult healthy volunteers. Studies with the tablets demonstrated a reduced foodeffect at higher doses.
 
-There were no food restrictions in the adult studies (using tablet formulations) or in the paediatric study (using both tablet and oral solution formulations). The results did not indicate any relevant efficacy or safety concern related to either fed or fasted dosing conditions. Therefore, maraviroc tablets and oral solution can be taken with or without food at the recommended doses in adults, adolescents and children aged 2 years and older and weighing at least 10 kg (see section 4.2).
+There were no food restrictions in the adult studies (using tablet formulations) or in the paediatric study (using both tablet and oral solution formulations). The results did not indicate any relevant efficacy or safety concern related to either fed or fasted dosing conditions. Therefore, maraviroc tablets and oral solution can be taken with or without food at the recommended doses in adults adolescents and children (see section 4.2).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Distribution
 
-Maraviroc is bound (approximately 76%) to human plasma proteins, and shows moderate affinity for albumin and alpha-1 acid glycoprotein. The volume of distribution of maraviroc is approximately 194 L.
+Maraviroc is bound (approximately 76%) to human plasma proteins and shows moderate affinity for albumin and alpha-1 acid glycoprotein. The volume of distribution of maraviroc is approximately 194 L.
 
 ## Biotransformation
 
@@ -652,11 +631,7 @@ Maraviroc is the major circulating component (approximately 42% radioactivity) f
 
 ## Elimination
 
-A mass balance/excretion study was conducted using a single 300 mg dose of 14 C-labeled maraviroc. Approximately 20% of the radiolabel was recovered in the urine and 76% was recovered in the faeces over 168 hours. Maraviroc was the major component present in urine (mean
-
-<div style=\"page-break-after: always\"></div>
-
-of 8% dose) and faeces (mean of 25% dose). The remainder was excreted as metabolites. After intravenous administration (30 mg), the half-life of maraviroc was 13.2 h, 22% of the dose was excreted unchanged in the urine and the values of total clearance and renal clearance were 44.0 L/h and 10.17 L/h respectively.
+A mass balance/excretion study was conducted using a single 300 mg dose of 14 C-labeled maraviroc. Approximately 20% of the radiolabel was recovered in the urine and 76% was recovered in the faeces over 168 hours. Maraviroc was the major component present in urine (mean of 8% dose) and faeces (mean of 25% dose). The remainder was excreted as metabolites. After intravenous administration (30 mg), the half-life of maraviroc was 13.2 h, 22% of the dose was excreted unchanged in the urine and the values of total clearance and renal clearance were 44.0 L/h and 10.17 L/h respectively.
 
 ## Special patient populations:
 
@@ -666,6 +641,8 @@ Intensive pharmacokinetics of maraviroc were evaluated in 50 treatment-experienc
 
 BSA (m2)-based bands have been modified to weight (kg)-based bands to simplify dosing and reduce dosing errors (see section 4.2). Use of weight (kg)-based doses in treatment-experienced HIV-1-infected children and adolescents results in maraviroc exposures similar to those observed in treatment-experienced adults receiving recommended doses with concomitant medications. The pharmacokinetics of maraviroc in paediatric patients below 2 years of age have not been established (see section 4.2).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Elderly
 
 Population analysis of the Phase 1/2a and Phase 3 studies (16-65 years of age) has been conducted and no effect of age have been observed (see section 4.2).
@@ -674,11 +651,7 @@ Population analysis of the Phase 1/2a and Phase 3 studies (16-65 years of age) h
 
 A study compared the pharmacokinetics of a single 300 mg dose of maraviroc in subjects with severe renal impairment (CLcr &lt; 30 mL/min, n=6) and end stage renal disease (ESRD) to healthy volunteers (n=6). The geometric mean AUCinf (CV%) for maraviroc was as follows: healthy volunteers (normal renal function) 1348.4 ng·h/mL (61%); severe renal impairment 4367.7 ng·h/mL (52%); ESRD (dosing after dialysis) 2677.4 ng·h/mL (40%); and ESRD (dosing before dialysis) 2805.5 ng·h/mL (45%). The C max (CV%) was 335.6 ng/mL (87%) in healthy volunteers (normal renal function); 801.2 ng/mL (56%) in severe renal impairment; 576.7 ng/mL (51%) in ESRD (dosing after dialysis) and 478.5 ng/mL (38%) in ESRD (dosing before dialysis). Dialysis had a minimal effect on exposure in subjects with ESRD. Exposures observed in subjects with severe renal impairment and ESRD were within the range observed in single maraviroc 300 mg dose studies in healthy volunteers with normal renal function. Therefore, no dose adjustment is necessary in patients with renal impairment receiving maraviroc without a potent CYP3A4 inhibitor (see sections 4.2, 4.4 and 4.5).
 
-In addition, the study compared the pharmacokinetics of multiple dose maraviroc in combination with saquinavir/ritonavir 1000/100 mg BID (a potent CYP3A4 inhibitor) for 7 days in subjects with mild renal impairment (CLcr &gt;50 and  80 mL/min, n=6) and moderate renal impairment (CLcr  30 and  50 mL/min, n=6) to healthy volunteers (n=6). Subjects received 150 mg of maraviroc at
-
-<div style=\"page-break-after: always\"></div>
-
-different dose frequencies (healthy volunteers - every 12 hours; mild renal impairment - every 24 hours; moderate renal impairment - every 48 hours). The average concentration (Cavg) of maraviroc over 24 hours was 445.1 ng/mL, 338.3 ng/mL, and 223.7 ng/mL for subjects with normal renal function, mild renal impairment, and moderate renal impairment, respectively. The Cavg of maraviroc from 24-48 hours for subjects with moderate renal impairment was low (Cavg: 32.8 ng/mL). Therefore, dosing frequencies of longer than 24 hours in subjects with renal impairment may result in inadequate exposures between 24-48 hours.
+In addition, the study compared the pharmacokinetics of multiple dose maraviroc in combination with saquinavir/ritonavir 1000/100 mg BID (a potent CYP3A4 inhibitor) for 7 days in subjects with mild renal impairment (CLcr &gt;50 and  80 mL/min, n=6) and moderate renal impairment (CLcr  30 and  50 mL/min, n=6) to healthy volunteers (n=6). Subjects received 150 mg of maraviroc at different dose frequencies (healthy volunteers -every 12 hours; mild renal impairment -every 24 hours; moderate renal impairment -every 48 hours). The average concentration (Cavg) of maraviroc over 24 hours was 445.1 ng/mL, 338.3 ng/mL, and 223.7 ng/mL for subjects with normal renal function, mild renal impairment, and moderate renal impairment, respectively. The Cavg of maraviroc from 24-48 hours for subjects with moderate renal impairment was low (Cavg: 32.8 ng/mL). Therefore, dosing frequencies of longer than 24 hours in subjects with renal impairment may result in inadequate exposures between 24-48 hours.
 
 Dose adjustment is necessary in patients with renal impairment receiving maraviroc with potent CYP3A4 inhibitors (see sections 4.2 and 4.4 and 4.5).
 
@@ -690,6 +663,8 @@ Maraviroc is primarily metabolized and eliminated by the liver. A study compared
 
 No relevant difference between Caucasian, Asian and Black subjects has been observed. The pharmacokinetics in other races has not been evaluated.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Gender
 
 No relevant differences in pharmacokinetics have been observed.
@@ -699,8 +674,6 @@ No relevant differences in pharmacokinetics have been observed.
 The pharmacokinetics of maraviroc is dependent on CYP3A5 activity and expression level, which can be modulated by genetic variation. Subjects with a functional CYP3A5 (CYP3A5*1 allele) have been shown to have a reduced exposure to maraviroc compared to subjects with defect CYP3A5 activity (e.g., CYP3A5*3, CYP3A5*6, and CYP3A5*7). The CYP3A5 allelic frequency depends on ethnicity: the majority of Caucasians (~90%) are poor metabolisers of CYP3A5 substrates (i.e., subjects with no copy of functional CYP3A5 alleles) while approximately 40% of African-Americans and 70% of Sub-Saharan Africans are extensive metabolisers (i.e., subjects with two copies of functional CYP3A5 alleles).
 
 In a Phase 1 study conducted in healthy subjects, Blacks with a CYP3A5 genotype conferring extensive maraviroc metabolism (2 CYP3A5*1 alleles; n=12) had a 37% and 26% lower AUC when dosed with maraviroc 300 mg twice daily compared with Black (n=11) and Caucasian (n=12) subjects with CYP3A5 genotype conferring poor maraviroc metabolism (no CYP3A5*1 allele), respectively. The difference in maraviroc exposure between CYP3A5 extensive and poor metabolisers was reduced when maraviroc was administered together with a strong CYP3A inhibitor: extensive CYP3A5 metabolisers (n=12) had a 17% lower maraviroc AUC compared with poor CYP3A5 metabolisers (n=11) when dosed with maraviroc 150 mg once daily in the presence of darunavir/cobicistat (800/150 mg).
-
-<div style=\"page-break-after: always\"></div>
 
 All subjects in the Phase 1 study achieved the Cavg concentrations that have been shown to be associated with near maximal virologic efficacy with maraviroc (75 ng/mL) in the Phase 3 study in treatment-naïve adult patients (MERIT).  Therefore, despite differences in CYP3A5 genotype prevalence by race, the effect of CYP3A5 genotype on maraviroc exposure is not considered clinically significant and no maraviroc dose adjustment according to CYP3A5 genotype, race or ethnicity is needed.
 
@@ -714,9 +687,11 @@ Repeated dose toxicity studies in rats identified the liver as the primary targe
 
 Maraviroc was evaluated for carcinogenic potential by a 6 month transgenic mouse study and a 24 month study in rats. In mice, no statistically significant increase in the incidence of tumours was reported at systemic exposures from 7 to 39-times the human exposure (unbound AUC 0-24h measurement) at a dose of 300 mg twice daily. In rats, administration of maraviroc at a systemic exposure 21-times the expected human exposure produced thyroid adenomas associated with adaptive liver changes. These findings are considered of low human relevance. In addition, cholangiocarcinomas (2/60 males at 900 mg/kg) and cholangioma (1/60 females at 500 mg/kg) were reported in the rat study at a systemic exposure at least 15-times the expected free human exposure.
 
+<div style=\"page-break-after: always\"></div>
+
 Maraviroc was not mutagenic or genotoxic in a battery of in vitro and in vivo assays including bacterial reverse mutation, chromosome aberrations in human lymphocytes and mouse bone marrow micronucleus.
 
-Maraviroc did not impair mating or fertility of male or female rats, and did not affect sperm of treated male rats up to 1000 mg/kg. The exposure at this dose level corresponded to 39-fold the estimated free clinical AUC for a 300 mg twice daily dose.
+Maraviroc did not impair mating or fertility of male or female rats and did not affect sperm of treated male rats up to 1000 mg/kg. The exposure at this dose level corresponded to 39-fold the estimated free clinical AUC for a 300 mg twice daily dose.
 
 Embryofoetal development studies were conducted in rats and rabbits at doses up to 39- and 34fold the estimated free clinical AUC for a 300 mg twice daily dose. In rabbit, 7 foetuses had external anomalies at maternally toxic doses and 1 foetus at the mid dose of 75 mg/kg.
 
@@ -728,11 +703,7 @@ Pre- and post-natal developmental studies were performed in rats at doses up to 
 
 ## Tablet core
 
-Cellulose, microcrystalline Calcium hydrogen phosphate, anhydrous
-
-<div style=\"page-break-after: always\"></div>
-
-Sodium starch glycolate Magnesium stearate
+Cellulose, microcrystalline Calcium hydrogen phosphate, anhydrous Sodium starch glycolate Magnesium stearate
 
 ## Film-coat
 
@@ -752,15 +723,9 @@ This medicinal product does not require any special storage condition.
 
 ## 6.5 Nature and contents of container
 
-## CELSENTRI 25 mg film-coated tablets
-
-High density polyethylene bottles (HDPE) with polypropylene child resistant (CR) closures and an aluminium foil/polyethylene heat induction seal containing 120 film-coated tablets.
-
-## CELSENTRI 75 mg film-coated tablets
-
-High density polyethylene bottles (HDPE) with polypropylene child resistant (CR) closures and an aluminium foil/polyethylene heat induction seal containing 120 film-coated tablets.
-
 ## CELSENTRI 150 mg film-coated tablets
+
+<div style=\"page-break-after: always\"></div>
 
 High density polyethylene bottles (HDPE) with polypropylene child resistant (CR) closures and an aluminium foil/polyethylene heat induction seal containing 60 film-coated tablets.
 
@@ -774,23 +739,15 @@ Polyvinyl chloride (PVC) blisters with child-resistant (CR)   aluminium/polyethy
 
 Not all pack sizes may be marketed.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6.6 Special precautions for disposal
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort
-
-Netherlands
+ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
-
-CELSENTRI 25 mg film-coated tablets EU/1/07/418/011
-
-CELSENTRI 75 mg film-coated tablets EU/1/07/418/012
 
 CELSENTRI 150 mg film-coated tablets
 
@@ -823,6 +780,8 @@ Date of first authorisation: 18
 th  September 2007
 
 Date of latest renewal: 20 July 2012
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -887,8 +846,6 @@ Table 1. Recommended dosing regimen in children aged 2 years and above and weigh
 | 300 mg twice daily | CELSENTRI with products that are not potent CYP3A inhibitors or potent CYP3A inducers      | Data to support these doses are lacking.                                                                                                                                                       | Data to support these doses are lacking.                                                                                                                                                       | 300 mg twice daily                                                                                                                                                                             | 300 mg twice daily                                                                                                                                                                             |
 | 600 mg twice daily | CELSENTRI with products that are CYP3A inducers (without a potent CYP3A inhibitor)         | Data to support these doses are lacking and CELSENTRI is not recommended in children taking concomitant interacting medicinal products that in adults would require a 600 mg twice daily dose. | Data to support these doses are lacking and CELSENTRI is not recommended in children taking concomitant interacting medicinal products that in adults would require a 600 mg twice daily dose. | Data to support these doses are lacking and CELSENTRI is not recommended in children taking concomitant interacting medicinal products that in adults would require a 600 mg twice daily dose. | Data to support these doses are lacking and CELSENTRI is not recommended in children taking concomitant interacting medicinal products that in adults would require a 600 mg twice daily dose. |
 
-* Based on drug-drug interactions (refer to section 4.5)
-
 ## Special populations
 
 ## Elderly
@@ -945,7 +902,7 @@ There is limited experience in patients with reduced hepatic function, therefore
 
 ## Severe skin and hypersensitivity reactions
 
-Hypersensitivity reactions including severe and potentially life threatening events have been reported in patients taking maraviroc, in most cases concomitantly with other medicinal products associated with these reactions. These reactions included rash, fever, and sometimes organ dysfunction and hepatic failure. Discontinue maraviroc and other suspect agents immediately if signs or symptoms of severe skin or hypersensitivity reactions develop. Clinical status and relevant blood chemistry should be monitored and appropriate symptomatic therapy initiated.
+Hypersensitivity reactions including severe and potentially life-threatening events have been reported in patients taking maraviroc, in most cases concomitantly with other medicinal products associated with these reactions. These reactions included rash, fever, and sometimes organ dysfunction and hepatic failure. Discontinue maraviroc and other suspect agents immediately if signs or symptoms of severe skin or hypersensitivity reactions develop. Clinical status and relevant blood chemistry should be monitored and appropriate symptomatic therapy initiated.
 
 ## Cardiovascular safety
 
@@ -953,7 +910,7 @@ Limited data exist with the use of maraviroc in patients with severe cardiovascu
 
 ## Postural hypotension
 
-When maraviroc was administered in studies with healthy volunteers at doses higher than the recommended dose, cases of symptomatic postural hypotension were seen at a greater frequency than with placebo. Caution should be used when administering maraviroc in patients on concomitant medicinal products known to lower blood pressure.  Maraviroc should also be used with caution in patients with severe renal insufficiency and in patients who have risk factors for, or have a history of postural hypotension.  Patients with cardiovascular co-morbidities could be at increased risk of cardiovascular adverse reactions triggered by postural hypotension.
+When maraviroc was administered in studies with healthy volunteers at doses higher than the recommended dose, cases of symptomatic postural hypotension were seen at a greater frequency than with placebo. Caution should be used when administering maraviroc in patients on concomitant medicinal products known to lower blood pressure. Maraviroc should also be used with caution in patients with severe renal insufficiency and in patients who have risk factors for, or have a history of postural hypotension.  Patients with cardiovascular co-morbidities could be at increased risk of cardiovascular adverse reactions triggered by postural hypotension.
 
 ## Renal impairment
 
@@ -999,103 +956,101 @@ Maraviroc is a metabolised by cytochrome P450 CYP3A4 and CYP3A5. Co-administrati
 
 Maraviroc is a substrate for the transporters P-glycoprotein and OATP1B1, but the effect of these transporters on the exposure to maraviroc is not known.
 
-Based on the in vitro and clinical data, the potential for maraviroc to affect the pharmacokinetics of co-administered medicinal products is low. In vitro studies have shown that maraviroc does not
+Based on the in vitro and clinical data, the potential for maraviroc to affect the pharmacokinetics of co-administered medicinal products is low. In vitro studies have shown that maraviroc does not inhibit OATP1B1, MRP2 or any of the major P450 enzymes at clinically relevant concentrations
 
 <div style=\"page-break-after: always\"></div>
 
-inhibit OATP1B1, MRP2 or any of the major P450 enzymes at clinically relevant concentrations (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 and CYP3A4). Maraviroc had no clinically relevant effect on the pharmacokinetics of midazolam, the oral contraceptives ethinylestradiol and levonorgestrel, or urinary 6β-hydroxycortisol/cortisol ratio, suggesting no inhibition or induction of CYP3A4 in vivo . At higher exposure of maraviroc a potential inhibition of CYP2D6 cannot be excluded.
+(CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 and CYP3A4). Maraviroc had no clinically relevant effect on the pharmacokinetics of midazolam, the oral contraceptives ethinylestradiol and levonorgestrel, or urinary 6β -hydroxycortisol/cortisol ratio, suggesting no inhibition or induction of CYP3A4 in vivo . At higher exposure of maraviroc a potential inhibition of CYP2D6 cannot be excluded.
 
 Renal clearance accounts for approximately 23% of total clearance of maraviroc when maraviroc is administered without CYP3A4 inhibitors. In vitro studies have shown that maraviroc does not inhibit any of the major renal uptake transporters at clinically relevant concentrations (OAT1, OAT3, OCT2, OCTN1, and OCTN2). Additionally, co-administration of maraviroc with tenofovir (substrate for renal elimination) and cotrimoxazole (contains trimethoprim, a renal cation transport inhibitor), showed no effect on the pharmacokinetics of maraviroc. In addition, co-administration of maraviroc with lamivudine/zidovudine showed no effect of maraviroc on lamivudine (primarily renally cleared) or zidovudine (non-P450 metabolism and renal clearance) pharmacokinetics. Maraviroc inhibits P-glycoprotein in vitro (IC50 is 183 μM). However, maraviroc does not significantly affect the pharmacokinetics of digoxin in vivo .  It may not be excluded that maraviroc can increase the exposure to the P-glycoprotein substrate dabigatran etexilate.
 
+<div style=\"page-break-after: always\"></div>
+
 Table 2: Interactions and adult a  dose recommendations with other medicinal products
 
-| Medicinal product by therapeutic areas (dose of CELSENTRI used in study)   | Effects on active substance levels Geometric mean change if not stated otherwise                                 | Recommendations concerning co- administration in adults                                                                          |
-|----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
-| ANTI-INFECTIVES                                                            | ANTI-INFECTIVES                                                                                                  | ANTI-INFECTIVES                                                                                                                  |
-| Antiretrovirals                                                            | Antiretrovirals                                                                                                  | Antiretrovirals                                                                                                                  |
-| Pharmacokinetic Enhancers                                                  | Pharmacokinetic Enhancers                                                                                        | Pharmacokinetic Enhancers                                                                                                        |
-| Cobicistat                                                                 | Interaction not studied. Cobicistat is a potent CYP3A inhibitor.                                                 | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with cobicistat containing regimen.                |
-| Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs)             | Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs)                                                   | Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs)                                                                   |
-| Lamivudine 150 mg BID (maraviroc 300 mg BID)                               | Lamivudine AUC 12 : ↔1.13 Lamivudine C max : ↔1.16 Maraviroc concentrations not measured, no effect is expected. | No significant interaction seen/expected. CELSENTRI 300 mg twice daily and NRTIs can be co-administered without dose adjustment. |
-| Tenofovir 300 mg QD (maraviroc 300 mg BID)                                 | Maraviroc AUC 12 : ↔1.03 Maraviroc C max : ↔1.03 Tenofovir concentrations not measured, no effect is expected.   | No significant interaction seen/expected. CELSENTRI 300 mg twice daily and NRTIs can be co-administered without dose adjustment. |
-| Zidovudine 300 mg BID (maraviroc 300 mg BID)                               | Zidovudine AUC 12 : ↔0.98 Zidovudine C max : ↔0.92 Maraviroc concentrations not measured, no effect is expected. | No significant interaction seen/expected. CELSENTRI 300 mg twice daily and NRTIs can be co-administered without dose adjustment. |
-| Integrase Inhibitors                                                       | Integrase Inhibitors                                                                                             | Integrase Inhibitors                                                                                                             |
+| Medicinal product by therapeutic areas (dose of CELSENTRI used in study)   | Effects on active substance levels Geometric mean change if not stated otherwise                                                                                                                                                         | Recommendations concerning co- administration in adults                                                                                                                                                                                                                                                                                                                                                                      |
+|----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ANTI-INFECTIVES                                                            | ANTI-INFECTIVES                                                                                                                                                                                                                          | ANTI-INFECTIVES                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Antiretrovirals                                                            | Antiretrovirals                                                                                                                                                                                                                          | Antiretrovirals                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Cobicistat                                                                 | Interaction not studied. Cobicistat is a potent CYP3A inhibitor.                                                                                                                                                                         | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with cobicistat containing regimen.                                                                                                                                                                                                                                                                                                            |
+| Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs)             | Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs)                                                                                                                                                                           | Nucleoside/Nucleotide Reverse Transcriptase Inhibitors (NRTIs)                                                                                                                                                                                                                                                                                                                                                               |
+| Lamivudine 150 mg BID (maraviroc 300 mg BID)                               | Lamivudine AUC 12 : ↔ 1.13 Lamivudine C max : ↔ 1.16 Maraviroc concentrations not measured, no effect is expected.                                                                                                                       | No significant interaction seen/expected. CELSENTRI 300 mg twice daily and NRTIs can be co-administered without dose adjustment.                                                                                                                                                                                                                                                                                             |
+| Tenofovir 300 mg QD (maraviroc 300 mg BID)                                 | Maraviroc AUC 12 : ↔ 1.03 Maraviroc C max : ↔ 1.03 Tenofovir concentrations not measured, no effect is expected.                                                                                                                         | No significant interaction seen/expected. CELSENTRI 300 mg twice daily and NRTIs can be co-administered without dose adjustment.                                                                                                                                                                                                                                                                                             |
+| Zidovudine 300 mg BID (maraviroc 300 mg BID)                               | Zidovudine AUC 12 : ↔ 0.98 Zidovudine C max : ↔ 0.92 Maraviroc concentrations not measured, no effect is expected.                                                                                                                       | No significant interaction seen/expected. CELSENTRI 300 mg twice daily and NRTIs can be co-administered without dose adjustment.                                                                                                                                                                                                                                                                                             |
+| Integrase Inhibitors                                                       | Integrase Inhibitors                                                                                                                                                                                                                     | Integrase Inhibitors                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Elvitegravir/ritonavir 150/100mg QD (maraviroc 150 mg BID)                 | Maraviroc AUC 12: ↑ 2.86 (2.33 -3.51) Maraviroc C max : ↑ 2.15 (1.71 -2.69) Maraviroc C 12 : ↑ 4.23 (3.47 -5.16) Elvitegravir AUC 24 : ↔ 1.07 (0.96-1.18) Elvitegravir C max : ↔ 1.01 (0.89-1.15) Elvitegravir C 24 : ↔ 1.09 (0.95-1.26) | Elvitegravir as a single agent is indicated only in combination with certain ritonavir boosted PIs. Elvitegravir per se is not expected to affect maraviroc exposure to a clinically relevant degree and the observed effect is attributed to ritonavir. Thus, CELSENTRI dose should be modified in line with the recommendation for co-administration with respective PI/ritonavir combination (see 'Protease Inhibitors'). |
+| Raltegravir 400 mg BID (maraviroc 300 mg BID)                              | Maraviroc AUC 12 : ↓ 0.86 Maraviroc C max : ↓ 0.79 Raltegravir AUC 12 : ↓ 0.63 Raltegravir C max : ↓ 0.67 Raltegravir C 12 : ↓ 0.72                                                                                                      | No clinically significant interaction seen. CELSENTRI 300 mg twice daily and raltegravir can be co-administered without dose adjustment.                                                                                                                                                                                                                                                                                     |
 
 <div style=\"page-break-after: always\"></div>
 
-| Elvitegravir/ritonavir 150/100mg QD (maraviroc 150 mg BID)   | Maraviroc AUC 12: ↑ 2.86 (2.33-3.51) Maraviroc C max : ↑ 2.15 (1.71-2.69) Maraviroc C 12 : ↑ 4.23 (3.47-5.16) Elvitegravir AUC 24 : ↔1.07 (0.96-1.18) Elvitegravir C max : ↔1.01 (0.89-1.15) Elvitegravir C 24 : ↔1.09 (0.95-1.26)   | Elvitegravir as a single agent is indicated only in combination with certain ritonavir boosted PIs. Elvitegravir per se is not expected to affect maraviroc exposure to a clinically relevant degree and the observed effect is attributed to ritonavir. Thus, CELSENTRI dose should be modified in line with the recommendation for co-administration with respective PI/ritonavir combination (see 'Protease   |
-|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Raltegravir 400 mg BID (maraviroc 300 mg BID)                | Maraviroc AUC 12 : ↓ 0.86 Maraviroc C max : ↓ 0.79 Raltegravir AUC 12 : ↓ 0.63 Raltegravir C max : ↓ 0.67 Raltegravir C 12 : ↓ 0.72                                                                                                  | Inhibitors'). No clinically significant interaction seen. CELSENTRI 300 mg twice daily and raltegravir can be co-administered without dose adjustment.                                                                                                                                                                                                                                                           |
-| Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)     | Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)                                                                                                                                                                             | Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)                                                                                                                                                                                                                                                                                                                                                         |
-| Efavirenz 600 mg QD (maraviroc 100 mg BID)                   | Maraviroc AUC 12 : ↓ 0.55 Maraviroc C max : ↓ 0.49 Efavirenz concentrations not measured, no effect is expected.                                                                                                                     | CELSENTRI dose should be increased to 600 mg twice daily when co-administered with efavirenz in the absence of a potent CYP3A4 inhibitor. For combination with efavirenz + PI, see separate recommendations below.                                                                                                                                                                                               |
-| Etravirine 200 mg BID (maraviroc 300 mg BID)                 | Maraviroc AUC 12 : ↓ 0.47 Maraviroc C max : ↓ 0.40 Etravirine AUC 12 : ↔1.06 Etravirine C max : ↔1.05 Etravirine C 12 : ↔1.08                                                                                                        | Etravirine is only approved for use with boosted protease inhibitors. For combination with etravirine + PI, see below.                                                                                                                                                                                                                                                                                           |
-| Nevirapine 200 mg BID (maraviroc 300 mg Single Dose)         | Maraviroc AUC 12 : ↔compared to historical controls Maraviroc C max : ↑ compared to historical controls Nevirapine concentrations not measured, no effect is expected.                                                               | Comparison to exposure in historical controls suggests that CELSENTRI 300 mg twice daily and nevirapine can be co-administered without dose adjustment.                                                                                                                                                                                                                                                          |
-| Protease Inhibitors (PIs)                                    | Protease Inhibitors (PIs)                                                                                                                                                                                                            | Protease Inhibitors (PIs)                                                                                                                                                                                                                                                                                                                                                                                        |
-| Atazanavir 400 mg QD (maraviroc 300 mg BID)                  | Maraviroc AUC 12 ↑ 3.57 Maraviroc C max : ↑ 2.09 Atazanavir concentrations not measured, no effect is expected.                                                                                                                      | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with a PI; except in                                                                                                                                                                                                                                                                                                               |
+| Efavirenz 600 mg QD (maraviroc 100 mg BID)                     | Maraviroc AUC 12 : ↓ 0.55 Maraviroc C max : ↓ 0.49 Efavirenz concentrations not measured, no effect is expected.                                                                                                                                                   | CELSENTRI dose should be increased to 600 mg twice daily when co-administered with efavirenz in the absence of a potent CYP3A4 inhibitor. For combination with efavirenz + PI, see separate recommendations below.   |
+|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Etravirine 200 mg BID (maraviroc 300 mg BID)                   | Maraviroc AUC 12 : ↓ 0.47 Maraviroc C max : ↓ 0.40 Etravirine AUC 12 : ↔ 1.06 Etravirine C max : ↔ 1.05 Etravirine C 12 : ↔ 1.08                                                                                                                                   | Etravirine is only approved for use with boosted protease inhibitors. For combination with etravirine + PI, see below.                                                                                               |
+| Nevirapine 200 mg BID (maraviroc 300 mg Single Dose)           | Maraviroc AUC 12 : ↔ compared to historical controls Maraviroc C max : ↑ compared to historical controls Nevirapine concentrations not measured, no effect is expected.                                                                                            | Comparison to exposure in historical controls suggests that CELSENTRI 300 mg twice daily and nevirapine can be co-administered without dose adjustment.                                                              |
+| Protease Inhibitors (PIs)                                      | Protease Inhibitors (PIs)                                                                                                                                                                                                                                          | Protease Inhibitors (PIs)                                                                                                                                                                                            |
+| Atazanavir 400 mg QD (maraviroc 300 mg BID)                    | Maraviroc AUC 12 ↑ 3.57 Maraviroc C max : ↑ 2.09 Atazanavir concentrations not measured, no effect is expected.                                                                                                                                                    | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with a PI; except in combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.                              |
+| Atazanavir/ritonavir 300 mg/100 mg QD (maraviroc 300 mg BID)   | Maraviroc AUC 12 ↑ 4.88 Maraviroc C max : ↑ 2.67 Atazanavir/ritonavir concentrations not measured, no effect is expected.                                                                                                                                          | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with a PI; except in combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.                              |
+| Lopinavir/ritonavir 400 mg/100 mg BID (maraviroc 300 mg BID)   | Maraviroc AUC 12 ↑ 3.95 Maraviroc C max : ↑ 1.97 Lopinavir/ritonavir concentrations not measured, no effect is expected.                                                                                                                                           | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with a PI; except in combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.                              |
+| Saquinavir/ritonavir 1000 mg/100 mg BID (maraviroc 100 mg BID) | Maraviroc AUC 12 ↑ 9.77 Maraviroc C max : ↑ 4.78 Saquinavir/ritonavir concentrations not measured, no effect is expected.                                                                                                                                          | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with a PI; except in combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.                              |
+| Darunavir/ritonavir 600 mg/100 mg BID (maraviroc 150 mg BID)   | Maraviroc AUC 12 ↑ 4.05 Maraviroc C max : ↑ 2.29 Darunavir/ritonavir concentrations were consistent with historical data.                                                                                                                                          | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with a PI; except in combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.                              |
+| Nelfinavir                                                     | Limited data are available for co- administration with nelfinavir. Nelfinavir is a potent CYP3A4 inhibitor and would be expected to increase maraviroc concentrations.                                                                                             | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with a PI; except in combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.                              |
+| Indinavir                                                      | Limited data are available for co- administration with indinavir. Indinavir is a potent CYP3A4 inhibitor. Population PK analysis in phase 3 studies suggests dose reduction of maraviroc when co-administered with indinavir gives appropriate maraviroc exposure. | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with a PI; except in combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.                              |
 
 <div style=\"page-break-after: always\"></div>
 
-| Atazanavir/ritonavir 300 mg/100 mg QD (maraviroc 300 mg BID)                      | Maraviroc AUC 12 ↑ 4.88 Maraviroc C max : ↑ 2.67 Atazanavir/ritonavir concentrations not measured, no effect is expected.                                                                                                                                          | combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.                                                  |
-|-----------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| Lopinavir/ritonavir 400 mg/100 mg BID (maraviroc 300 mg BID)                      | Maraviroc AUC 12 ↑ 3.95 Maraviroc C max : ↑ 1.97 Lopinavir/ritonavir concentrations not measured, no effect is expected.                                                                                                                                           | combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.                                                  |
-| Saquinavir/ritonavir 1000 mg/100 mg BID (maraviroc 100 mg BID)                    | Maraviroc AUC 12 ↑ 9.77 Maraviroc C max : ↑ 4.78 Saquinavir/ritonavir concentrations not measured, no effect is expected.                                                                                                                                          | combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.                                                  |
-| Darunavir/ritonavir 600 mg/100 mg BID (maraviroc 150 mg BID)                      | Maraviroc AUC 12 ↑ 4.05 Maraviroc C max : ↑ 2.29 Darunavir/ritonavir concentrations were consistent with historical data.                                                                                                                                          | combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.                                                  |
-| Nelfinavir                                                                        | Limited data are available for co- administration with nelfinavir. Nelfinavir is a potent CYP3A4 inhibitor and would be expected to increase maraviroc concentrations.                                                                                             | combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.                                                  |
-| Indinavir                                                                         | Limited data are available for co- administration with indinavir. Indinavir is a potent CYP3A4 inhibitor. Population PK analysis in phase 3 studies suggests dose reduction of maraviroc when co-administered with indinavir gives appropriate maraviroc exposure. | combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.                                                  |
-| Tipranavir/ritonavir 500 mg/200 mg BID (maraviroc 150 mg BID)                     | Maraviroc AUC 12 ↔1.02 Maraviroc C max : ↔0.86 Tipranavir/ritonavir concentrations were consistent with historical data.                                                                                                                                           | combination with tipranavir/ritonavir where the CELSENTRI dose should be 300 mg BID.                                                  |
-| Fosamprenavir/ritonavir 700 mg/100 mg BID (maraviroc 300 mg BID)                  | Maraviroc AUC 12: ↑ 2.49 Maraviroc C max : ↑ 1.52 Maraviroc C 12 : ↑ 4.74 Amprenavir AUC 12 : ↓ 0.65 Amprenavir C max : ↓ 0.66 Amprenavir C 12 : ↓ 0.64 Ritonavir AUC 12 : ↓ 0.66 Ritonavir C max : ↓ 0.61 Ritonavir C 12 : ↔0.86                                  | Concomitant use is not recommended. Significant reductions in amprenavir C min observed may result in virological failure in patients |
-| NNRTI + PI                                                                        | NNRTI + PI                                                                                                                                                                                                                                                         | NNRTI + PI                                                                                                                            |
-| Efavirenz 600 mg QD + lopinavir/ritonavir 400mg/100 mg BID (maraviroc 300 mg BID) | Maraviroc AUC 12: ↑ 2.53 Maraviroc C max : ↑ 1.25 Efavirenz, lopinavir/ritonavir concentrations not measured, no effect expected.                                                                                                                                  | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with efavirenz and a PI (except tipranavir/ritonavir    |
+| Tipranavir/ritonavir 500 mg/200 mg BID (maraviroc 150 mg BID)                        | Maraviroc AUC 12 ↔ 1.02 Maraviroc C max : ↔ 0.86 Tipranavir/ritonavir concentrations were consistent with historical data.                                                                                                                                                            |                                                                                                                                                                                                                                                               |
+|--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Fosamprenavir/ritonavir 700 mg/100 mg BID (maraviroc 300 mg BID)                     | Maraviroc AUC 12: ↑ 2.49 Maraviroc C max : ↑ 1.52 Maraviroc C 12 : ↑ 4.74 Amprenavir AUC 12 : ↓ 0.65 Amprenavir C max : ↓ 0.66 Amprenavir C 12 : ↓ 0.64 Ritonavir AUC 12 : ↓ 0.66 Ritonavir C max : ↓ 0.61 Ritonavir C 12 : ↔ 0.86                                                    | Concomitant use is not recommended. Significant reductions in amprenavir C min observed may result in virological failure in patients                                                                                                                         |
+| NNRTI + PI                                                                           |                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                               |
+| Efavirenz 600 mg QD + lopinavir/ritonavir 400mg/100 mg BID (maraviroc 300 mg BID)    | Maraviroc AUC 12: ↑ 2.53 Maraviroc C max : ↑ 1.25 Efavirenz, lopinavir/ritonavir concentrations not measured, no effect expected.                                                                                                                                                     | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with efavirenz and a PI (except tipranavir/ritonavir where the dose should be 600 mg twice daily). Concomitant use of CELSENTRI and fosamprenavir/ritonavir is not recommended. |
+| Efavirenz 600 mg QD + saquinavir/ritonavir 1000 mg/100 mg BID (maraviroc 100 mg BID) | Maraviroc AUC 12: ↑ 5.00 Maraviroc C max : ↑ 2.26 Efavirenz, saquinavir/ritonavir concentrations not measured, no effect expected.                                                                                                                                                    | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with efavirenz and a PI (except tipranavir/ritonavir where the dose should be 600 mg twice daily). Concomitant use of CELSENTRI and fosamprenavir/ritonavir is not recommended. |
+| Efavirenz and atazanavir/ritonavir or darunavir/ritonavir                            | Not studied. Based on the extent of inhibition by atazanavir/ritonavir or darunavir/ritonavir in the absence of efavirenz, an increased exposure is expected.                                                                                                                         | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with efavirenz and a PI (except tipranavir/ritonavir where the dose should be 600 mg twice daily). Concomitant use of CELSENTRI and fosamprenavir/ritonavir is not recommended. |
+| Etravirine and darunavir/ritonavir (maraviroc 150 mg BID)                            | Maraviroc AUC 12: ↑ 3.10 Maraviroc C max : ↑ 1.77 Etravirine AUC 12 : ↔ 1.00 Etravirine C max : ↔ 1.08 Etravirine C 12 : ↓ 0.81 Darunavir AUC 12 : ↓ 0.86 Darunavir C max : ↔ 0.96 Darunavir C 12 : ↓ 0.77 Ritonavir AUC 12 : ↔ 0.93 Ritonavir C max : ↔ 1.02 Ritonavir C 12 : ↓ 0.74 | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with etravirine and a PI. Concomitant use of CELSENTRI and fosamprenavir/ritonavir is not recommended.                                                                          |
+| Etravirine and lopinavir/ritonavir, saquinavir/ritonavir or atazanavir/ritonavir     | Not studied. Based on the extent of inhibition by lopinavir/ritonavir, saquinavir/ritonavir or atazanavir/ritonavir in the absence of etravirine, an increased exposure is expected.                                                                                                  | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with etravirine and a PI. Concomitant use of CELSENTRI and fosamprenavir/ritonavir is not recommended.                                                                          |
+| ANTIBIOTICS                                                                          |                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                               |
 
 <div style=\"page-break-after: always\"></div>
 
-| Efavirenz 600 mg QD + saquinavir/ritonavir 1000 mg/100 mg BID (maraviroc 100 mg BID)   | Maraviroc AUC 12: ↑ 5.00 Maraviroc C max : ↑ 2.26 Efavirenz, saquinavir/ritonavir concentrations not measured, no effect expected.                                                                                                                                               | where the dose should be 600 mg twice daily). Concomitant use of CELSENTRI and fosamprenavir/ritonavir is not recommended.                                                                                                  |
-|----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Efavirenz and atazanavir/ritonavir or darunavir/ritonavir                              | Not studied. Based on the extent of inhibition by atazanavir/ritonavir or darunavir/ritonavir in the absence of efavirenz, an increased exposure is expected.                                                                                                                    | where the dose should be 600 mg twice daily). Concomitant use of CELSENTRI and fosamprenavir/ritonavir is not recommended.                                                                                                  |
-| Etravirine and darunavir/ritonavir (maraviroc 150 mg BID)                              | Maraviroc AUC 12: ↑ 3.10 Maraviroc C max : ↑ 1.77 Etravirine AUC 12 : ↔1.00 Etravirine C max : ↔1.08 Etravirine C 12 : ↓ 0.81 Darunavir AUC 12 : ↓ 0.86 Darunavir C max : ↔0.96 Darunavir C 12 : ↓ 0.77 Ritonavir AUC 12 : ↔0.93 Ritonavir C max : ↔1.02 Ritonavir C 12 : ↓ 0.74 | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with etravirine and a PI. Concomitant use of CELSENTRI and fosamprenavir/ritonavir is not recommended.                                        |
-| Etravirine and lopinavir/ritonavir, saquinavir/ritonavir or atazanavir/ritonavir       | Not studied. Based on the extent of inhibition by lopinavir/ritonavir, saquinavir/ritonavir or atazanavir/ritonavir in the absence of etravirine, an increased exposure is expected.                                                                                             | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with etravirine and a PI. Concomitant use of CELSENTRI and fosamprenavir/ritonavir is not recommended.                                        |
-| ANTIBIOTICS                                                                            |                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                                                             |
-| Sulphamethoxazole/ Trimethoprim 800 mg/160 mg BID (maraviroc 300 mg BID)               | Maraviroc AUC 12 : ↔1.11 Maraviroc C max : ↔1.19 Sulphamethoxazole/trimethoprim concentrations not measured, no effect expected.                                                                                                                                                 | CELSENTRI 300 mg twice daily and sulphamethoxazole/ trimethoprim can be co-administered without dose adjustment.                                                                                                            |
-| Rifampicin 600 mg QD (maraviroc 100 mg BID)                                            | Maraviroc AUC : ↓ 0.37 Maraviroc C max : ↓ 0.34 Rifampicin concentrations not measured, no effect expected.                                                                                                                                                                      | CELSENTRI dose should be increased to 600 mg twice daily when co-administered with rifampicin in the absence of a potent CYP3A4 inhibitor. This dose adjustment has not been studied in HIV patients. See also section 4.4. |
-| Rifampicin + efavirenz                                                                 | Combination with two inducers has not been studied. There may be a risk of suboptimal levels with risk of loss of virologic response and resistance development.                                                                                                                 | Concomitant use of CELSENTRI and rifampicin + efavirenz is not recommended.                                                                                                                                                 |
+| Sulphamethoxazole/ Trimethoprim 800 mg/160 mg BID (maraviroc 300 mg BID)   | Maraviroc AUC 12 : ↔ 1.11 Maraviroc C max : ↔ 1.19 Sulphamethoxazole/trimethoprim concentrations not measured, no effect expected.                                                                                    | CELSENTRI 300 mg twice daily and sulphamethoxazole/ trimethoprim can be co-administered without dose adjustment.                                                                                                                                                                    |
+|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Rifampicin 600 mg QD (maraviroc 100 mg BID)                                | Maraviroc AUC : ↓ 0.37 Maraviroc C max : ↓ 0.34 Rifampicin concentrations not measured, no effect expected.                                                                                                           | CELSENTRI dose should be increased to 600 mg twice daily when co-administered with rifampicin in the absence of a potent CYP3A4 inhibitor. This dose adjustment has not been studied in HIV patients. See also section 4.4.                                                         |
+| Rifampicin + efavirenz                                                     | Combination with two inducers has not been studied. There may be a risk of suboptimal levels with risk of loss of virologic response and resistance development.                                                      | Concomitant use of CELSENTRI and rifampicin + efavirenz is not recommended.                                                                                                                                                                                                         |
+| Rifabutin + PI                                                             | Not studied. Rifabutin is considered to be a weaker inducer than rifampicin. When combining rifabutin with protease inhibitors that are potent inhibitors of CYP3A4 a net inhibitory effect on maraviroc is expected. | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with rifabutin and a PI (except tipranavir/ritonavir where the dose should be 300 mg twice daily). See also section 4.4. Concomitant use of CELSENTRI and fosamprenavir/ritonavir is not recommended. |
+| Clarithromycin, Telithromycin                                              | Not studied, but both are potent CYP3A4 inhibitors and would be expected to increase maraviroc concentrations.                                                                                                        | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with clarithromycin and telithromycin.                                                                                                                                                                |
+| ANTICONVULSANTS                                                            | ANTICONVULSANTS                                                                                                                                                                                                       | ANTICONVULSANTS                                                                                                                                                                                                                                                                     |
+| Carbamezepine, Phenobarbital, Phenytoin                                    | Not studied, but these are potent CYP3A4 inducers and would be expected to decrease maraviroc concentrations.                                                                                                         | CELSENTRI dose should be increased to 600 mg twice daily when co-administered with carbamazepine, phenobarbital or phenytoin in the absence of a potent CYP3A4 inhibitor.                                                                                                           |
+| ANTIFUNGALS                                                                | ANTIFUNGALS                                                                                                                                                                                                           | ANTIFUNGALS                                                                                                                                                                                                                                                                         |
+| Ketoconazole 400 mg QD (maraviroc 100 mg BID)                              | Maraviroc AUC tau : ↑ 5.00 Maraviroc C max : ↑ 3.38 Ketoconazole concentrations not measured, no effect is expected.                                                                                                  | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with ketoconazole.                                                                                                                                                                                    |
+| Itraconazole                                                               | Not studied. Itraconazole, is a potent CYP3A4 inhibitor and would be expected to increase the exposure of maraviroc.                                                                                                  | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with itraconazole.                                                                                                                                                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
-| Rifabutin + PI                                | Not studied. Rifabutin is considered to be a weaker inducer than rifampicin. When combining rifabutin with protease inhibitors that are potent inhibitors of CYP3A4 a net inhibitory effect on maraviroc is expected.   | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with rifabutin and a PI (except tipranavir/ritonavir where the dose should be 300 mg twice daily). See also section 4.4. Concomitant use of CELSENTRI and fosamprenavir/ritonavir is not recommended.   |
-|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Clarithromycin, Telithromycin                 | Not studied, but both are potent CYP3A4 inhibitors and would be expected to increase maraviroc concentrations.                                                                                                          | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with clarithromycin and telithromycin.                                                                                                                                                                  |
-| ANTICONVULSANTS                               | ANTICONVULSANTS                                                                                                                                                                                                         | ANTICONVULSANTS                                                                                                                                                                                                                                                                       |
-| Carbamezepine, Phenobarbital, Phenytoin       | Not studied, but these are potent CYP3A4 inducers and would be expected to decrease maraviroc concentrations.                                                                                                           | CELSENTRI dose should be increased to 600 mg twice daily when co-administered with carbamazepine, phenobarbital or phenytoin in the absence of a potent CYP3A4 inhibitor.                                                                                                             |
-| ANTIFUNGALS                                   | ANTIFUNGALS                                                                                                                                                                                                             | ANTIFUNGALS                                                                                                                                                                                                                                                                           |
-| Ketoconazole 400 mg QD (maraviroc 100 mg BID) | Maraviroc AUC tau : ↑ 5.00 Maraviroc C max : ↑ 3.38 Ketoconazole concentrations not measured, no effect is expected.                                                                                                    | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with ketoconazole.                                                                                                                                                                                      |
-| Itraconazole                                  | Not studied. Itraconazole, is a potent CYP3A4 inhibitor and would be expected to increase the exposure of maraviroc.                                                                                                    | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with itraconazole.                                                                                                                                                                                      |
-| Fluconazole                                   | Fluconazole is considered to be a moderate CYP3A4 inhibitor. Population PK studies suggest that a dose adjustment of maraviroc is not required.                                                                         | CELSENTRI 300 mg twice daily should be administered with caution when co-administered with fluconazole.                                                                                                                                                                               |
-| ANTIVIRALS                                    | ANTIVIRALS                                                                                                                                                                                                              | ANTIVIRALS                                                                                                                                                                                                                                                                            |
-| Anti-HBV                                      | Anti-HBV                                                                                                                                                                                                                | Anti-HBV                                                                                                                                                                                                                                                                              |
-| Pegylated interferon                          | Pegylated interferon has not been studied, no interaction is expected.                                                                                                                                                  | CELSENTRI 300 mg twice daily and pegylated interferon can be co-administered without dose adjustment.                                                                                                                                                                                 |
-| Anti-HCV                                      | Anti-HCV                                                                                                                                                                                                                | Anti-HCV                                                                                                                                                                                                                                                                              |
-| Ribavirin                                     | Ribavirin has not been studied, no interaction is expected.                                                                                                                                                             | CELSENTRI 300 mg twice daily and ribavirin can be co-administered without dose adjustment.                                                                                                                                                                                            |
-| DRUG ABUSE                                    | DRUG ABUSE                                                                                                                                                                                                              | DRUG ABUSE                                                                                                                                                                                                                                                                            |
-| Methadone                                     | Not studied, no interaction expected.                                                                                                                                                                                   | CELSENTRI 300 mg twice daily and methadone can be co-administered without dose adjustment.                                                                                                                                                                                            |
+| Fluconazole                                         | Fluconazole is considered to be a moderate CYP3A4 inhibitor. Population PK studies suggest that a dose adjustment of maraviroc is not required.   | CELSENTRI 300 mg twice daily should be administered with caution when co-administered with fluconazole.                                                                     |
+|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ANTIVIRALS                                          | ANTIVIRALS                                                                                                                                        | ANTIVIRALS                                                                                                                                                                  |
+| Anti-HBV                                            |                                                                                                                                                   |                                                                                                                                                                             |
+| Pegylated interferon                                | Pegylated interferon has not been studied, no interaction is expected.                                                                            | CELSENTRI 300 mg twice daily and pegylated interferon can be co-administered without dose adjustment.                                                                       |
+| Anti-HCV                                            |                                                                                                                                                   |                                                                                                                                                                             |
+| Ribavirin                                           | Ribavirin has not been studied, no interaction is expected.                                                                                       | CELSENTRI 300 mg twice daily and ribavirin can be co-administered without dose adjustment.                                                                                  |
+| DRUG ABUSE                                          |                                                                                                                                                   |                                                                                                                                                                             |
+| Methadone                                           | Not studied, no interaction expected.                                                                                                             | CELSENTRI 300 mg twice daily and methadone can be co-administered without dose adjustment.                                                                                  |
+| Buprenorphine                                       | Not studied, no interaction expected.                                                                                                             | CELSENTRI 300 mg twice daily and buprenorphine can be co-administered without dose adjustment.                                                                              |
+| LIPID LOWERING MEDICINAL PRODUCTS                   |                                                                                                                                                   |                                                                                                                                                                             |
+| Statins                                             | Not studied, no interaction expected.                                                                                                             | CELSENTRI 300 mg twice daily and statins can be co-administered without dose adjustment.                                                                                    |
+| ANTIARRHYTHMICS                                     |                                                                                                                                                   |                                                                                                                                                                             |
+| Digoxin 0.25 mg Single Dose (maraviroc 300 mg BID)  | Digoxin. AUC t: ↔ 1.00 Digoxin. C max : ↔ 1.04 Maraviroc concentrations not measured, no interaction expected.                                    | CELSENTRI 300 mg twice daily and digoxin can be co-administered without dose adjustment. The effect of maraviroc on digoxin at the dose of 600 mg BID has not been studied. |
+| ORAL CONTRACEPTIVES                                 |                                                                                                                                                   |                                                                                                                                                                             |
+| Ethinylestradiol 30 mcg QD (maraviroc 100 mg BID)   | Ethinylestradiol. AUC t: ↔ 1.00 Ethinylestradiol. C max : ↔ 0.99 Maraviroc concentrations not measured, no interaction expected.                  | CELSENTRI 300 mg twice daily. and ethinylestradiol can be co-administered without dose adjustment.                                                                          |
+| Levonorgestrel 150 mcg QD (maraviroc 100 mg BID)    | Levonorgestrel. AUC 12: ↔ 0.98 Levonorgestrel. C max : ↔ 1.01 Maraviroc concentrations not                                                        | CELSENTRI 300 mg twice daily and levonorgestrel can be co-administered without                                                                                              |
+| SEDATIVES                                           | measured, no interaction expected.                                                                                                                | dose adjustment.                                                                                                                                                            |
+| Benzodiazepines                                     |                                                                                                                                                   |                                                                                                                                                                             |
+| Midazolam 7.5 mg Single Dose (maraviroc 300 mg BID) | Midazolam. AUC: ↔ 1.18 Midazolam. C max : ↔ 1.21 Maraviroc concentrations not measured, no interaction expected.                                  | CELSENTRI 300 mg twice daily and midazolam can be co-administered without dose adjustment.                                                                                  |
 
 <div style=\"page-break-after: always\"></div>
 
-| Buprenorphine                                       | Not studied, no interaction expected.                                                                                                                                                                                               | CELSENTRI 300 mg twice daily and buprenorphine can be co-administered without dose adjustment.                                                                              |
-|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| LIPID LOWERING MEDICINAL PRODUCTS                   | LIPID LOWERING MEDICINAL PRODUCTS                                                                                                                                                                                                   | LIPID LOWERING MEDICINAL PRODUCTS                                                                                                                                           |
-| Statins                                             | Not studied, no interaction expected.                                                                                                                                                                                               | CELSENTRI 300 mg twice daily and statins can be co-administered without dose adjustment.                                                                                    |
-| ANTIARRHYTHMICS                                     | ANTIARRHYTHMICS                                                                                                                                                                                                                     | ANTIARRHYTHMICS                                                                                                                                                             |
-| Digoxin 0.25 mg Single Dose (maraviroc 300 mg BID)  | Digoxin. AUC t: ↔1.00 Digoxin. C max : ↔1.04 Maraviroc concentrations not measured, no interaction expected.                                                                                                                        | CELSENTRI 300 mg twice daily and digoxin can be co-administered without dose adjustment. The effect of maraviroc on digoxin at the dose of 600 mg BID has not been studied. |
-| ORAL CONTRACEPTIVES                                 | ORAL CONTRACEPTIVES                                                                                                                                                                                                                 | ORAL CONTRACEPTIVES                                                                                                                                                         |
-| Ethinylestradiol 30 mcg QD (maraviroc 100 mg BID)   | Ethinylestradiol. AUC t: ↔1.00 Ethinylestradiol. C max : ↔0.99 Maraviroc concentrations not measured, no interaction expected.                                                                                                      | CELSENTRI 300 mg twice daily. and ethinylestradiol can be co-administered without dose adjustment.                                                                          |
-| Levonorgestrel 150 mcg QD (maraviroc 100 mg BID)    | Levonorgestrel. AUC 12: ↔0.98 Levonorgestrel. C max : ↔1.01 Maraviroc concentrations not measured, no interaction expected.                                                                                                         | CELSENTRI 300 mg twice daily and levonorgestrel can be co-administered without dose adjustment.                                                                             |
-| SEDATIVES                                           | SEDATIVES                                                                                                                                                                                                                           | SEDATIVES                                                                                                                                                                   |
-| Benzodiazepines                                     | Benzodiazepines                                                                                                                                                                                                                     | Benzodiazepines                                                                                                                                                             |
-| Midazolam 7.5 mg Single Dose (maraviroc 300 mg BID) | Midazolam. AUC: ↔1.18 Midazolam. C max : ↔1.21 Maraviroc concentrations not measured, no interaction expected.                                                                                                                      | CELSENTRI 300 mg twice daily and midazolam can be co-administered without dose adjustment.                                                                                  |
-| HERBAL PRODUCTS                                     | HERBAL PRODUCTS                                                                                                                                                                                                                     | HERBAL PRODUCTS                                                                                                                                                             |
-| St. John's Wort (Hypericum Perforatum)              | Co-administration of maraviroc with St. John's Wort is expected to substantially decrease maraviroc concentrations and may result in suboptimal levels and lead to loss of virologic response and possible resistance to maraviroc. | Concomitant use of maraviroc and St. John's Wort or products containing St. John's Wort is not recommended.                                                                 |
-
-a Refer to Table 1 for maraviroc paediatric dosing recommendations when co-administered with antiretroviral therapy and other medicinal products.
+| HERBAL PRODUCTS                        | HERBAL PRODUCTS                                                                                                                                                                                                                     | HERBAL PRODUCTS                                                                                             |
+|----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| St. John's Wort (Hypericum Perforatum) | Co-administration of maraviroc with St. John's Wort is expected to substantially decrease maraviroc concentrations and may result in suboptimal levels and lead to loss of virologic response and possible resistance to maraviroc. | Concomitant use of maraviroc and St. John's Wort or products containing St. John's Wort is not recommended. |
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -1104,8 +1059,6 @@ a Refer to Table 1 for maraviroc paediatric dosing recommendations when co-admin
 There are limited data from the use of maraviroc in pregnant women. The effect of maraviroc on human pregnancy is unknown. Studies in animals showed reproductive toxicity at high exposures. Primary pharmacological activity (CCR5 receptor affinity) was limited in the species studied (see section 5.3). Maraviroc should be used during pregnancy only if the expected benefit justifies the potential risk to the foetus.
 
 ## Breast-feeding
-
-<div style=\"page-break-after: always\"></div>
 
 It is unknown whether maraviroc is excreted in human milk. Available toxicological data in animals has shown extensive excretion of maraviroc in milk. Primary pharmacological activity (CCR5 receptor affinity) was limited in the species studied (see section 5.3). A risk to the newborn/infants cannot be excluded.
 
@@ -1129,11 +1082,11 @@ Assessment of treatment related adverse reactions is based on pooled data from t
 
 The most frequently reported adverse reactions occurring in the Phase 2b/3 studies were nausea, diarrhoea, fatigue and headache. These adverse reactions were common (≥ 1/100 to &lt; 1/10).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Tabulated list of adverse reactions
 
-The adverse reactions are listed by system organ class (SOC) and frequency. Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), uncommon (≥1/1000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1000) , or not known (cannot be estimated from the available data).  The adverse reactions and laboratory abnormalities presented below are not exposure adjusted.
-
-<div style=\"page-break-after: always\"></div>
+The adverse reactions are listed by system organ class (SOC) and frequency. Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness. Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to &lt; 1/10), u ncommon (≥1/1000 to &lt;1/100), rare (≥1/10,000 to &lt;1/1000) , or not known (cannot be estimated from the available data).  The adverse reactions and laboratory abnormalities presented below are not exposure adjusted.
 
 Table 3: Adverse reactions observed in clinical trials or post-marketing
 
@@ -1164,19 +1117,21 @@ Table 3: Adverse reactions observed in clinical trials or post-marketing
 
 Delayed type hypersensitivity reactions, typically occurring within 2-6 weeks after start of therapy and including rash, fever, eosinophilia and liver reactions have been reported (see also section 4.4). Skin and liver reactions can occur as single events, or in combination.
 
-In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise.  Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
+In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic
+
+<div style=\"page-break-after: always\"></div>
+
+infections may arise. Autoimmune disorders (such as Graves' disease and autoimmune hepatitis) have also been reported; however, the reported time to onset is more variable and these events can occur many months after initiation of treatment (see section 4.4).
 
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART). The frequency of this is unknown (see section 4.4).
 
 Cases of syncope caused by postural hypotension have been reported.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Laboratory abnormalities
 
-Table 4 shows the incidence ≥1% of Grade 3-4 Abnormalities (ACTG Criteria) based on the maximum shift in laboratory test values without regard to baseline values.
+Table 4 shows the incidence ≥1% of Grade 3 -4 Abnormalities (ACTG Criteria) based on the maximum shift in laboratory test values without regard to baseline values.
 
-Table 4: Incidence ≥1% of grade 3-4 abnormalities (ACTG criteria) based on maximum shift in laboratory test values without regard to baseline studies MOTIVATE 1 and MOTIVATE 2 (pooled analysis, up to 48 weeks)
+Table 4 : Incidence ≥1% of grade 3 -4 abnormalities (ACTG criteria) based on maximum shift in laboratory test values without regard to baseline studies MOTIVATE 1 and MOTIVATE 2 (pooled analysis, up to 48 weeks)
 
 | Laboratory parameter                 | Limit                                | Maraviroc 300 mg twice daily + OBT N =421 * (%)   | Placebo + OBT N =207 * (%)   |
 |--------------------------------------|--------------------------------------|---------------------------------------------------|------------------------------|
@@ -1196,7 +1151,7 @@ OBT: Optimised Background Therapy
 
 * Percentages based on total patients evaluated for each laboratory parameter
 
-The MOTIVATE studies were extended beyond 96 weeks, with an observational phase extended to 5 years in order to assess the long term safety of maraviroc. The Long Term Safety/Selected Endpoints (LTS/SE) included death, AIDS-defining events, hepatic failure, Myocardial infarction/cardiac ischaemia, malignancies, rhabdomyolysis and other serious infectious events with maraviroc treatment.  The incidence of these selected endpoints for subjects on maraviroc in this observational phase was consistent with the incidence seen at earlier timepoints in the studies.
+The MOTIVATE studies were extended beyond 96 weeks, with an observational phase extended to 5 years in order to assess the long-term safety of maraviroc. The Long-Term Safety/Selected Endpoints (LTS/SE) included death, AIDS-defining events, hepatic failure, Myocardial infarction/cardiac ischaemia, malignancies, rhabdomyolysis and other serious infectious events with maraviroc treatment.  The incidence of these selected endpoints for subjects on maraviroc in this observational phase was consistent with the incidence seen at earlier timepoints in the studies.
 
 In treatment-naïve patients, the incidence of grade 3 and 4 laboratory abnormalities using ACTG criteria was similar among the maraviroc and efavirenz treatment groups.
 
@@ -1206,11 +1161,11 @@ The adverse reaction profile in paediatric patients is based on 48 Week safety d
 
 ## Reporting of suspected adverse reactions
 
+<div style=\"page-break-after: always\"></div>
+
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
-
-<div style=\"page-break-after: always\"></div>
 
 ## Symptoms
 
@@ -1236,15 +1191,15 @@ Maraviroc is a member of a therapeutic class called CCR5 antagonists. Maraviroc 
 
 ## Antiviral activity in vitro
 
-Maraviroc has no antiviral activity in vitro against viruses which can use CXCR4 as their entry coreceptor (dual-tropic or CXCR4-tropic viruses, collectively termed 'CXCR4-using' virus below). The serum adjusted EC90 value in 43 primary HIV-1 clinical isolates was 0.57 (0.06 - 10.7) ng/mL without significant changes between different subtypes tested. The antiviral activity of maraviroc against HIV-2 has not been evaluated. For details please refer to the pharmacology section of the CELSENTRI European Public Assessment Report (EPAR) on the European Medicines Agency (EMA) website.
+Maraviroc has no antiviral activity in vitro against viruses which can use CXCR4 as their entry coreceptor (dual-tropic or CXCR4tropic viruses, collectively termed 'CXCR4 -using' virus below). The serum adjusted EC90 value in 43 primary HIV-1 clinical isolates was 0.57 (0.06 -10.7) ng/mL without significant changes between different subtypes tested. The antiviral activity of maraviroc against HIV-2 has not been evaluated. For details please refer to the pharmacology section of the CELSENTRI European Public Assessment Report (EPAR) on the European Medicines Agency (EMA) website.
 
 When used with other antiretroviral medicinal products in cell culture, the combination of maraviroc was not antagonistic with a range of NRTIs, NNRTIs, PIs or the HIV fusion inhibitor enfuvirtide.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Virologic Escape
 
 Virologic escape from maraviroc can occur via 2 routes: the emergence of pre-existing virus which can use CXCR4 as its entry co-receptor (CXCR4-using virus) or the selection of virus that continues to use exclusively drug-bound CCR5 (CCR5-tropic virus).
-
-<div style=\"page-break-after: always\"></div>
 
 ## In vitro
 
@@ -1272,15 +1227,15 @@ In the pivotal studies (MOTIVATE 1 and MOTIVATE 2), 7.6% of patients had a chang
 
 CXCR4-using virus was detected at failure in approximately 60% of subjects who failed treatment on maraviroc, as compared to 6% of subjects who experienced treatment failure in the placebo + OBT arm. To investigate the likely origin of the on-treatment CXCR4-using virus, a detailed clonal analysis was conducted on virus from 20 representative subjects (16 subjects from the maraviroc arms and 4 subjects from the placebo + OBT arm) in whom CXCR4-using virus was detected at treatment failure. This analysis indicated that CXCR4-using virus emerged from a pre-existing CXCR4-using reservoir not detected at baseline, rather than from mutation of CCR5-tropic virus present at baseline. An analysis of tropism following failure of maraviroc therapy with CXCR4using virus in patients with CCR5 virus at baseline, demonstrated that the virus population reverted back to CCR5 tropism in 33 of 36 patients with more than 35 days of follow-up.
 
-At the time of failure with CXCR4-using virus, the resistance pattern to other antiretrovirals appears similar to that of the CCR5-tropic population at baseline, based on available data. Hence, in the selection of a treatment regimen, it should be assumed that viruses forming part of the previously undetected CXCR4 -using population (i.e. minor viral population) harbours the same resistance pattern as the CCR5-tropic population.
-
 <div style=\"page-break-after: always\"></div>
+
+At the time of failure with CXCR4-using virus, the resistance pattern to other antiretrovirals appears similar to that of the CCR5-tropic population at baseline, based on available data. Hence, in the selection of a treatment regimen, it should be assumed that viruses forming part of the previously undetected CXCR4 -using population (i.e. minor viral population) harbours the same resistance pattern as the CCR5-tropic population.
 
 ## Failure with CCR5-tropic virus
 
 ## Phenotypic resistance
 
-In patients with CCR5-tropic virus at time of treatment failure with maraviroc, 22 out of 58 patients had virus with reduced sensitivity to maraviroc. In the remaining 36 patients, there was no evidence of virus with reduced sensitivity as identified by exploratory virology analyses on a representative group. The latter group had markers correlating to low compliance (low and variable drug levels and often a calculated high residual sensitivity score of the OBT). In patients failing therapy with CCR5-tropic virus only, maraviroc might be considered still active if the MPI value is ≥95% (PhenoSense Entry assay). Residual activity in vivo for viruses with MPI-values &lt;95% has not been determined.
+In patients with CCR5-tropic virus at time of treatment failure with maraviroc, 22 out of 58 patients had virus with reduced sensitivity to maraviroc. In the remaining 36 patients, there was no evidence of virus with reduced sensitivity as identified by exploratory virology analyses on a representative group. The latter group had markers correlating to low compliance (low and variable drug levels and often a calculated high residual sensitivity score of the OBT). In patients failing therapy with CCR5-tropic virus only, maraviroc might be considered still active if the MPI value is ≥95% ( PhenoSense Entry assay). Residual activity in vivo for viruses with MPI-values &lt;95% has not been determined.
 
 ## Genotypic resistance
 
@@ -1294,7 +1249,7 @@ In the Week 48 analysis (N=103), non-CCR5 tropic-virus was detected in 5/23 (22%
 
 The clinical efficacy of maraviroc (in combination with other antiretroviral medicinal products) on plasma HIV RNA levels and CD4+ cell counts have been investigated in two pivotal randomized, double blind, multicentre studies (MOTIVATE 1 and MOTIVATE 2, n=1076) in patients infected with CCR5 tropic HIV-1 as determined by the Monogram Trofile Assay.
 
-Patients who were eligible for these studies had prior exposure to at least 3 antiretroviral medicinal product classes [≥1 NRTIs, ≥1 NNRTIs, ≥2 PIs, and/or enfurvirtide] or documented resistance to at least one member of each class. Patients were randomised in a 2:2:1 ratio to maraviroc 300 mg (dose equivalence) once daily, twice daily or placebo in combination with an optimized background consisting of 3 to 6 antiretroviral medicinal products (excluding low-dose ritonavir). The OBT was selected on the basis of the subject's prior treatment history and baseline genotypic and phenotypic viral resistance measurements.
+Patients who were eligible for these studies had prior exposure to at least 3 antiretroviral medicinal product classes [≥1 NRTI s , ≥1 NNRTI s , ≥2 PI s, and/or enfurvirtide] or documented resistance to at least one member of each class. Patients were randomised in a 2:2:1 ratio to maraviroc 300 mg (dose equivalence) once daily, twice daily or placebo in combination with an optimized background consisting of 3 to 6 antiretroviral medicinal products (excluding low-dose ritonavir). The OBT was selected on the basi s of the subject's prior treatment history and baseline genotypic and phenotypic viral resistance measurements.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1309,12 +1264,10 @@ Table 5: Demographic and baseline characteristics of patients (pooled studies MO
 | Median Baseline CD4+ Cell Count (cells/mm 3 ) (range, cells/mm 3 ) | 166.8 (2.0-820.0)                            | 171.3 (1.0-675.0)       |
 | Screening Viral Load >100,000 copies/mL                            | 179 (42.0%)                                  | 84 (40.2%)              |
 | Baseline CD4+ Cell Count ≤200 cells/mm 3                           | 250 (58.7%)                                  | 118 (56.5%)             |
-| Number (Percentage) of patients with GSS score 1 : 0               | 102 (23.9%)                                  | 51 (24.4%)              |
-| 1                                                                  | 138 (32.4%)                                  | 53 (25.4%)              |
+| Number (Percentage) of patients with GSS score 1 : 0 1             | 102 (23.9%) 138 (32.4%)                      | 51 (24.4%)              |
+|                                                                    |                                              | 53 (25.4%)              |
 | 2                                                                  | 80 (18.8%)                                   | 41 (19.6%)              |
 | ≥3                                                                 | 104 (24.4%)                                  | 59 (28.2%)              |
-
-1 Based on GeneSeq resistance assay
 
 Limited numbers of patients from ethnicities other than Caucasian were included in the pivotal clinical studies, therefore very limited data are available in these patient populations.
 
@@ -1328,10 +1281,6 @@ Table 6: Efficacy Outcomes at week 48 (pooled studies MOTIVATE 1 and MOTIVATE 2)
 | Percentage of patients with HIV-1 RNA <400 copies/mL | 56.1%                                      | 22.5%                 | Odds ratio: 4.76 (3.24, 7.00)           |
 | Percentage of patients with HIV-1 RNA <50 copies/mL  | 45.5%                                      | 16.7%                 | Odds ratio: 4.49 (2.96, 6.83)           |
 | CD4+ cell count Mean change from baseline (cells/µL) | 122.78                                     | 59.17                 | 63.13 (44.28, 81.99) 2                  |
-
-1 p-values &lt; 0.0001
-
-2 For all efficacy endpoints the confidence intervals were 95%, except for HIV-1 RNA Change from baseline, which was 97.5%
 
 In a retrospective analysis of the MOTIVATE studies with a more sensitive assay for screening of tropism (Trofile ES), the response rates (&lt;50 copies/mL at week 48) in patients with only CCR5-
 
@@ -1348,7 +1297,7 @@ Table 7: Proportion of patients achieving &lt;50 copies/mL at Week 48 by subgrou
 | Subgroups                                 | Maraviroc300 mg twice daily + OBT N=426 | Placebo + OBT N=209       |
 | Screening HIV-1 RNA (copies/mL): <100,000 |                                         |                           |
 |                                           | 58.4%                                   | 26.0%                     |
-| ≥100,000                                  | 34.7%                                   | 9.5%                      |
+| ≥ 100,000                                 | 34.7%                                   | 9.5%                      |
 | Baseline CD4+ (cells/µL):                 |                                         |                           |
 | <50                                       | 16.5%                                   | 2.6%                      |
 | 50-100                                    | 36.4%                                   | 12.0%                     |
@@ -1437,7 +1386,7 @@ Population analysis of the Phase 1/2a and Phase 3 studies (16-65 years of age) h
 
 A study compared the pharmacokinetics of a single 300 mg dose of maraviroc in subjects with severe renal impairment (CLcr &lt; 30 mL/min, n=6) and end stage renal disease (ESRD) to healthy volunteers (n=6). The geometric mean AUCinf (CV%) for maraviroc was as follows: healthy volunteers (normal renal function) 1348.4 ng·h/mL (61%); severe renal impairment 4367.7 ng·h/mL (52%); ESRD (dosing after dialysis) 2677.4 ng·h/mL (40%); and ESRD (dosing before dialysis) 2805.5 ng·h/mL (45%). The C max (CV%) was 335.6 ng/mL (87%) in healthy volunteers (normal renal function); 801.2 ng/mL (56%) in severe renal impairment; 576.7 ng/mL (51%) in ESRD (dosing after dialysis) and 478.5 ng/mL (38%) in ESRD (dosing before dialysis). Dialysis had a minimal effect on exposure in subjects with ESRD. Exposures observed in subjects with severe renal impairment and ESRD were within the range observed in single maraviroc 300 mg dose studies in healthy volunteers with normal renal function. Therefore, no dose adjustment is necessary in patients with renal impairment receiving maraviroc without a potent CYP3A4 inhibitor (see sections 4.2, 4.4 and 4.5).
 
-In addition, the study compared the pharmacokinetics of multiple dose maraviroc in combination with saquinavir/ritonavir 1000/100 mg BID (a potent CYP3A4 inhibitor) for 7 days in subjects with mild renal impairment (CLcr &gt;50 and  80 mL/min, n=6) and moderate renal impairment (CLcr  30 and  50 mL/min, n=6) to healthy volunteers (n=6). Subjects received 150 mg of maraviroc at different dose frequencies (healthy volunteers - every 12 hours; mild renal impairment - every 24 hours; moderate renal impairment - every 48 hours). The average concentration (Cavg) of maraviroc over 24 hours was 445.1 ng/mL, 338.3 ng/mL, and 223.7 ng/mL for subjects with normal renal function, mild renal impairment, and moderate renal impairment, respectively. The Cavg of maraviroc from 24-48 hours for subjects with moderate renal impairment was low (Cavg: 32.8 ng/mL). Therefore, dosing frequencies of longer than 24 hours in subjects with renal impairment may result in inadequate exposures between 24-48 hours.
+In addition, the study compared the pharmacokinetics of multiple dose maraviroc in combination with saquinavir/ritonavir 1000/100 mg BID (a potent CYP3A4 inhibitor) for 7 days in subjects with mild renal impairment (CLcr &gt;50 and  80 mL/min, n=6) and moderate renal impairment (CLcr  30 and  50 mL/min, n=6) to healthy volunteers (n=6). Subjects received 150 mg of maraviroc at different dose frequencies (healthy volunteers -every 12 hours; mild renal impairment -every 24 hours; moderate renal impairment -every 48 hours). The average concentration (Cavg) of maraviroc over 24 hours was 445.1 ng/mL, 338.3 ng/mL, and 223.7 ng/mL for subjects with normal renal function, mild renal impairment, and moderate renal impairment, respectively. The Cavg of maraviroc from 24-48 hours for subjects with moderate renal impairment was low (Cavg: 32.8 ng/mL). Therefore, dosing frequencies of longer than 24 hours in subjects with renal impairment may result in inadequate exposures between 24-48 hours.
 
 Dose adjustment is necessary in patients with renal impairment receiving maraviroc with potent CYP3A4 inhibitors (see sections 4.2 and 4.4 and 4.5).
 
@@ -1586,277 +1535,6 @@ An updated RMP should be submitted:
 
 ## A. LABELLING
 
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-Carton for bottle containing 25 mg maraviroc film-coated tablets
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-CELSENTRI 25 mg film-coated tablets maraviroc
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each film-coated tablet contains 25 mg of maraviroc.
-
-## 3. LIST OF EXCIPIENTS
-
-Contains soya lecithin: see leaflet for further information.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-120 film-coated tablets
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use. Oral use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT  OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-8. EXPIRY DATE
-
-EXP {MM-YYYY }
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-<div style=\"page-break-after: always\"></div>
-
-ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort Netherlands
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/07/418/011
-
-## 13. BATCH NUMBER
-
-Lot {number}
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-16. INFORMATION IN BRAILLE
-
-celsentri 25 mg
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC SN NN
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
-
-Bottle label - 25 mg film-coated tablets
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-CELSENTRI 25 mg film-coated tablets maraviroc
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each film-coated tablet contains 25 mg of maraviroc.
-
-## 3. LIST OF EXCIPIENTS
-
-Contains soya lecithin: see leaflet for further information.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-120 film-coated tablets
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use.
-
-Oral use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT  OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP {MM-YYYY }
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort Netherlands
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/07/418/011
-
-## 13. BATCH NUMBER
-
-Lot {number}
-
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-16. INFORMATION IN BRAILLE
-
-17. UNIQUE IDENTIFIER - 2D BARCODE
-
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-Carton for bottles containing 75 mg maraviroc film-coated tablets
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-CELSENTRI 75 mg film-coated tablets maraviroc
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each film-coated tablet contains 75 mg of maraviroc.
-
-## 3. LIST OF EXCIPIENTS
-
-Contains soya lecithin: see leaflet for further information.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-120 film-coated tablets
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use.
-
-Oral use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT  OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP {MM-YYYY }
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-<div style=\"page-break-after: always\"></div>
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort Netherlands
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/07/418/012
-
-## 13. BATCH NUMBER
-
-Lot {number}
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-16. INFORMATION IN BRAILLE
-
-celsentri 75 mg
-
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-PC SN NN
-
-<div style=\"page-break-after: always\"></div>
-
-## PARTICULARS TO APPEAR ON THE IMMEDIATE PACKAGING
-
-Bottle label - 75 mg film-coated tablets
-
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-CELSENTRI 75 mg film-coated tablets maraviroc
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
-
-Each film-coated tablet contains 75 mg of maraviroc.
-
-## 3. LIST OF EXCIPIENTS
-
-Contains soya lecithin: see leaflet for further information.
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-120 film-coated tablets
-
-## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
-
-Read the package leaflet before use.
-
-Oral use.
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT  OF THE SIGHT AND REACH OF CHILDREN
-
-Keep out of the sight and reach of children.
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
-EXP {MM-YYYY }
-
-## 9. SPECIAL STORAGE CONDITIONS
-
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
-ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort Netherlands
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/07/418/012
-
-## 13. BATCH NUMBER
-
-Lot {number}
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
-17. UNIQUE IDENTIFIER - 2D BARCODE
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 Carton for bottles containing 150 mg maraviroc film-coated tablets
@@ -1915,7 +1593,7 @@ Lot {number}
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 celsentri 150 mg
 
@@ -1989,16 +1667,15 @@ EU/1/07/418/001
 
 Lot {number}
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
-
+14. GENERAL CLASSIFICATION FOR SUPPLY
 15. INSTRUCTIONS ON USE
 16. INFORMATION IN BRAILLE
 
 celsentri 150 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -2118,6 +1795,8 @@ EXP {MM-YYYY }
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS   OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
+<div style=\"page-break-after: always\"></div>
+
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 ViiV Healthcare BV Van Asch van Wijckstraat 55H 3811 LP Amersfoort Netherlands
@@ -2133,16 +1812,13 @@ Lot {number}
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
-
 16. INFORMATION IN BRAILLE
 
 celsentri 300 mg
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+17. UNIQUE IDENTIFIER -2D BARCODE
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2204,7 +1880,7 @@ EU/1/07/418/004
 
 Lot {number}
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2288,7 +1964,7 @@ Lot {number}
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 celsentri 300 mg
 
@@ -2370,11 +2046,11 @@ Medicinal product subject to medical prescription.
 
 celsentri 150 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 PC
 
@@ -2524,15 +2200,15 @@ Medicinal product subject to medical prescription.
 
 celsentri 150 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-2x carton for blister pack containing 300 mg maraviroc film-coated tablets - without Blue Box
+2x carton for blister pack containing 300 mg maraviroc film-coated tablets -without Blue Box
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2594,9 +2270,9 @@ Medicinal product subject to medical prescription.
 
 celsentri 300 mg
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 18. UNIQUE IDENTIFIER -HUMAN READABLE DATA
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -2614,7 +2290,7 @@ ViiV Healthcare (logo)
 
 EXP {MM-YYYY }
 
-## 4. BATCH NUMBER
+4. BATCH NUMBER
 
 Lot: {number}
 
@@ -2716,7 +2392,7 @@ Lot {number}
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 celsentri 20 mg/ml
 
@@ -2807,9 +2483,6 @@ Lot {number}
 
 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-| 18. UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|----------------------------------------------|
-
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
@@ -2818,7 +2491,9 @@ Lot {number}
 
 <div style=\"page-break-after: always\"></div>
 
-CELSENTRI 25 mg film-coated tablets CELSENTRI 75 mg film-coated tablets CELSENTRI 150 mg film-coated tablets CELSENTRI 300 mg film-coated tablets maraviroc
+## CELSENTRI 150 mg film-coated tablets CELSENTRI 300 mg film-coated tablets
+
+maraviroc
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -2840,7 +2515,7 @@ CELSENTRI 25 mg film-coated tablets CELSENTRI 75 mg film-coated tablets CELSENTR
 
 CELSENTRI contains a medicine called maraviroc. Maraviroc belongs to a group of medicines called CCR5 antagonists . CELSENTRI works by blocking a receptor called CCR5 which HIV uses to enter and infect your blood cells.
 
-## CELSENTRI is used to treat Human Immunodeficiency Virus type-1 (HIV-1) in adults, adolescents and children of 2 years and older, and weighing at least 10 kg.
+## CELSENTRI is used to treat Human Immunodeficiency Virus type-1 (HIV-1) in adults, adolescents and children weighing at least 30 kg.
 
 CELSENTRI must be taken in combination with other medicines which are also used to treat the HIV infection. These medicines are all called anti-HIV medicines or antiretrovirals .
 
@@ -2865,10 +2540,10 @@ Some people taking CELSENTRI have developed serious allergic reactions or skin r
 
 Before taking this medicine, make sure that your doctor knows if you (or your child) have or in the past had any of the following:
 
-- liver problems, including chronic hepatitis B or C. Only a limited number of people with liver problems have taken CELSENTRI. Your liver function may need to be closely monitored. (See also 'Liver problems' in section 4).
+- liver problems, including chronic hepatitis B or C. Only a limited number of people with liver problems have taken CELSENTRI. Your liver function may need to be closely monitored. (See also 'Liver problems' in section 4) .
 - low blood pressure , including dizziness when you stand up or sit up quickly, or if you are taking any medicines to lower blood pressure. This is due to a sudden fall in blood pressure. If this happens, lie down until you (or your child) feel better. When getting up, do so as slowly as possible.
 - tuberculosis (TB) or serious fungal infections . CELSENTRI could potentially increase your risk of developing infections.
-- kidney p r oble ms. This is particularly imp ortant if you are also taking some other medicines (see 'Other medicines and CELSENTRI' later in section 2).
+- kidney p r oble ms. This is particularly imp ortant if you are also taking some other medicines (see 'Other medicines and CELSENTRI' later in section 2) .
 -  problems with your heart or circulatory system . Only a limited number of people with serious heart or circulatory problems have taken CELSENTRI.
 - ➔ Tell your doctor before starting treatment if you think any of these apply to you (or your child).
 
@@ -2881,7 +2556,7 @@ Some people taking medicines for HIV infection develop other conditions, which c
 
 You need to know about important signs and symptoms to look out for while you're taking CELSENTRI.
 
-- ➔ Read the information 'Other possible side effects of combination therapy for HIV' in Section 4 of this leaflet .
+- ➔ Read the information ' Other possible side effects of combination therapy for HIV ' in Section 4 of this leaflet .
 
 ## Older people
 
@@ -2889,15 +2564,17 @@ CELSENTRI has only been taken by limited numbers of people 65 years or older. If
 
 ## Children
 
-The use of CELSENTRI has not been tested in children under the age of 2 or weighing less than 10 kg . Therefore CELSENTRI is not recommended in children younger than 2, or weighing less than 10 kg.
+CELSENTRI film-coated tablets are not recommended for children and adolescents weighing less than 30 kg. For children aged 2 years and older who weigh between 10 kg and less than 30 kg, CELSENTRI oral solution is recommended.
+
+The use of CELSENTRI has not been tested in children under the age of 2 or weighing less than 10 kg. Therefore, CELSENTRI is not recommended in children younger than 2, or weighing less than 10 kg.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Other medicines and CELSENTRI
 
-Tell your doctor or pharmacist if you (or your child) are taking, any other medicines, have recently taken, or might take any other medicines .
+Tell your doctor or pharmacist if you (or your child) are taking any other medicines, have recently taken, or might take any other medicines .
 
-Tell your doctor or pharmacist if you (or your child) begin taking a new medicine while  taking CELSENTRI.
+Tell your doctor or pharmacist if you (or your child) begin taking a new medicine while taking CELSENTRI.
 
 Medicines containing St. John's Wort ( Hypericum perforatum ) are likely to prevent CELSENTRI from working properly. You should not take them while you're taking CELSENTRI.
 
@@ -2923,7 +2600,7 @@ It is not known whether the ingredients in CELSENTRI can also pass into breast m
 
 CELSENTRI can make you dizzy.
 
-- ➔ Do not drive, cycle, or operate tools or machines unless you are sure you're not affected.
+- ➔ Do not drive, cycle, or operate tools or machines unless you are sure you're not affected .
 
 ## CELSENTRI contains soya lecithin and sodium.
 
@@ -2933,9 +2610,9 @@ CELSENTRI contains less than 1 mmol sodium (23 mg) in each tablet, that is to sa
 
 ## 3. How to take CELSENTRI
 
-Always take or give this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
-
 <div style=\"page-break-after: always\"></div>
+
+Always take or give this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
 
 Your doctor will advise you whether it is better to take CELSENTRI oral solution, if you (or your child) are unable to swallow tablets.
 
@@ -2951,7 +2628,7 @@ If you have a kidney problem, your doctor may alter your dose.
 
 - ➔ Talk to your doctor if this applies to you.
 
-## Adolescents and children from 2 years of age and weighing at least 10 kg
+## Adolescents and children weighing at least 30 kg
 
 Your doctor will decide the correct dose of CELSENTRI based on weight and on other medicines being taken at the same time.
 
@@ -2981,17 +2658,17 @@ Taking your medicines at the right time every day is important, as it makes sure
 
 If you have any further questions on the use of this medicine, ask your doctor or your pharmacist.
 
-## 4. Possible side effects
-
-Like all medicines, this medicine can cause side effects, although not everybody gets them. Tell your doctor if you notice anything unusual about your own health or your child's health.
-
 <div style=\"page-break-after: always\"></div>
 
-## Serious side effects - get medical help immediately
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them. Tell your doctor if you notice anything unusual about your own health or your child's health .
+
+## Serious side effects -get medical help immediately
 
 ## Serious allergic or skin reactions
 
-Some people taking CELSENTRI have developed severe and life-threatening skin reactions and allergic reactions. These are rare, and may affect up to 1 in 1,000 people taking CELSENTRI.
+Some people taking CELSENTRI have developed severe and life-threatening skin reactions and allergic reactions. These are rare and may affect up to 1 in 1,000 people taking CELSENTRI.
 
 If you get any of the following symptoms while you're taking CELSENTRI :
 
@@ -3000,14 +2677,13 @@ If you get any of the following symptoms while you're taking CELSENTRI :
 -  widespread skin rash
 -  fever (high temperature)
 -  blisters and peeling skin, particularly around the mouth, nose, eyes and genitals.
-
-## ➔ Get medical help immediately if you get these symptoms. Stop taking CELSENTRI .
+- ➔ Get medical help immediately if you get these symptoms. Stop taking CELSENTRI .
 
 ## Liver problems
 
-These are rare, and may affect up to 1 in 1,000 people taking CELSENTRI.
+These are rare and may affect up to 1 in 1,000 people taking CELSENTRI.
 
-Signs include:
+## Signs include:
 
 - loss of appetite
 - feeling sick or being sick
@@ -3018,8 +2694,7 @@ Signs include:
 - dark urine
 - drowsiness and confusion
 - fever (high temperature).
-
-➔ Contact a doctor immediately if you get these symptoms. Stop taking CELSENTRI.
+- ➔ Contact a doctor immediately if you get these symptoms. Stop taking CELSENTRI.
 
 ## Other side effects
 
@@ -3029,23 +2704,24 @@ These may affect 1 to 10 in 100 people:
 
 - diarrhoea, feeling sick, stomach ache, wind ( flatulence ),
 - loss of appetite
-- headache,  problems sleeping,depression
-- rash (see also 'Serious allergic or skin reactions' earlier in section 4)
+- headache, problems sleeping, depression
+- rash (see also ' Serious allergic or skin reactions ' earlier in section 4)
 - feeling weak or lack of energy, anaemia (seen in blood test result)
 -  increase in liver enzymes (seen in blood test results), which can be a sign of liver problems (see also 'Liver problems' earlier in section 4) .
 
 ## Uncommon side effects
 
-These may affect up to 1 in 100 people :
+## These may affect up to 1 in 100 people :
 
 -  lung infection
 -  fungal infection of the gullet (oesophagus)
 -  fits (seizures)
--  feeling dizzy, faint or light headed when standing up
--  kidney failure, protein in the urine
-- an increase in a substance  known as CPK (seen in blood test results) which is a sign that muscles are inflamed or damaged.
 
 <div style=\"page-break-after: always\"></div>
+
+-  feeling dizzy, faint or light headed when standing up
+-  kidney failure, protein in the urine
+- an increase in a substance known as CPK (seen in blood test results) which is a sign that muscles are inflamed or damaged.
 
 ## Rare side effects
 
@@ -3062,7 +2738,7 @@ People taking combination therapy for HIV may get other side effects.
 
 ## Symptoms of infection and inflammation
 
-People with advanced HIV infection (AIDS) have weak immune systems, and are more likely to develop serious infections (opportunistic infections) . When they start treatment, the immune system becomes stronger, so the body starts to fight infections.
+People with advanced HIV infection (AIDS) have weak immune systems and are more likely to develop serious infections (opportunistic infections) . When they start treatment, the immune system becomes stronger, so the body starts to fight infections.
 
 ## Symptoms of infection and inflammation may develop, caused by either:
 
@@ -3098,11 +2774,11 @@ It is not known how common this condition is. You may be more likely to develop 
 -  aches and pains (especially in the hip, knee or shoulder)
 -  difficulty moving.
 
+<div style=\"page-break-after: always\"></div>
+
 If you notice any of these symptoms:
 
--  Tell your doctor .
-
-<div style=\"page-break-after: always\"></div>
+##  Tell your doctor .
 
 ## Reporting of side effects
 
@@ -3122,7 +2798,7 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What CELSENTRI contains
 
-- The active ingredient  is maraviroc. Each film-coated tablet contains 25 mg, 75 mg, 150 mg or 300 mg of maraviroc.
+- The active ingredient is maraviroc. Each film-coated tablet contains 150 mg or 300 mg of maraviroc.
 - The other ingredients are:
 
 Tablet core: cellulose microcrystalline, calcium hydrogen phosphate anhydrous, sodium starch glycolate, magnesium stearate
@@ -3131,9 +2807,9 @@ Film-coat: poly (vinyl alcohol), titanium dioxide (E171), macrogol 3350, talc, s
 
 ## What CELSENTRI looks like and contents of the pack
 
-CELSENTRI film-coated tablets are blue coloured with 'MVC 25', 'MVC 75', 'MVC 150' or 'MVC 300'.
+CELSENTRI filmcoated tablets are blue coloured with 'MVC 150' or 'MVC 300'.
 
-CELSENTRI 25 mg and 75 mg film-coated tablets are supplied in bottles of 120 tablets. CELSENTRI 150 mg and 300 mg film-coated tablets are supplied in bottles of 60 tablets or in blister packs of 30, 60, 90 film-coated tablets and multipacks containing 180 (2 packs of 90) filmcoated tablets.
+CELSENTRI 150 mg and 300 mg film-coated tablets are supplied in bottles of 60 tablets or in blister packs of 30, 60, 90 film-coated tablets and multipacks containing 180 (2 packs of 90) filmcoated tablets.
 
 Not all pack sizes may be marketed in all countries.
 
@@ -3143,23 +2819,27 @@ ViiV Healthcare BV, Van Asch van Wijckstraat 55H, 3811 LP Amersfoort, Netherland
 
 ## Manufacturer
 
-Pfizer Manufacturing Deutschland GmbH, Mooswaldallee 1, 79108 Freiburg Im Breisgau, Germany.
-
 <div style=\"page-break-after: always\"></div>
+
+Pfizer Manufacturing Deutschland GmbH, Mooswaldallee 1, 79108 Freiburg Im Breisgau, Germany.
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-ViiV Healthcare srl/bv Tél/Tel: + 32 (0) 10 85 65 00
-
 ## Lietuva
+
+ViiV Healthcare srl/bv Tél/Tel: + 32 (0) 10 85 65 00
 
 ViiV Healthcare BV Tel: +370 80000334
 
 ## България
 
-ViiV Healthcare BV Teл.: +359 80018205
+ViiV Healthcare BV
+
+Teл.:
+
++359 80018205
 
 ## Luxembourg/Luxemburg
 
@@ -3187,7 +2867,9 @@ ViiV Healthcare GmbH Tel.: + 49 (0)89 203 0038-10 viiv.med.info@viivhealthcare.c
 
 ## Nederland
 
-ViiV Healthcare BV Tel: + 31 (0)33 2081199
+ViiV Healthcare BV
+
+Tel: + 31 (0)33 2081199
 
 ## Eesti
 
@@ -3217,13 +2899,15 @@ Tel.: + 48 (0)22 576 9000
 
 ## France
 
-ViiV Healthcare SAS Tél.: + 33 (0)1 39 17 6969 Infomed@viivhealthcare.com
+ViiV Healthcare SAS Tél.: + 33 (0)1 39 17 6969
+
+Infomed@viivhealthcare.com
 
 ## Portugal
 
 VIIVHIV HEALTHCARE, UNIPESSOAL, LDA. Tel: + 351 21 094 08 01 viiv.fi.pt@viivhealthcare.com
 
-## Hrvatska
+Hrvatska
 
 ViiV Healthcare BV Tel: +385 800787089
 
@@ -3231,19 +2915,17 @@ ViiV Healthcare BV Tel: +385 800787089
 
 ViiV Healthcare BV Tel: +40 800672524
 
+<div style=\"page-break-after: always\"></div>
+
 ## Ireland
 
-GlaxoSmithKline (Ireland) Limited Tel: + 353 (0)1 4955000
+GlaxoSmithKline (Ireland) Limited
 
-## Slovenija
-
-ViiV Healthcare BV Tel: +386 80688869
-
-<div style=\"page-break-after: always\"></div>
+Tel: + 353 (0)1 4955000
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: + 354 535 7000
 
@@ -3257,7 +2939,9 @@ Tel: + 39 (0)45 7741600
 
 ViiV Healthcare BV
 
-Τηλ: +357 80070017
+Τηλ:
+
++357 80070017
 
 ## Latvija
 
@@ -3271,6 +2955,12 @@ Tel: +371 80205045
 
 Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu.
 
+## Slovenija
+
+ViiV Healthcare BV
+
+Tel: +386 80688869
+
 ## Slovenská republika
 
 ViiV Healthcare BV
@@ -3282,8 +2972,6 @@ Tel: +421 800500589
 GlaxoSmithKline Oy
 
 Puh/Tel: + 358 (0)10 30 30 30
-
-Finland.tuoteinfo@gsk.com
 
 ## Sverige
 
@@ -3340,10 +3028,10 @@ Some people taking CELSENTRI have developed serious allergic reactions or skin r
 
 Before taking this medicine, make sure that your doctor knows if you (or your child) have or in the past had any of the following:
 
--  liver problems, including chronic hepatitis B or C. Only a limited number of people with liver problems have taken CELSENTRI. Your liver function may need to be closely monitored. (See also 'Liver problems' in section 4).
+-  liver problems, including chronic hepatitis B or C. Only a limited number of people with liver problems have taken CELSENTRI. Your liver function may need to be closely monitored. (See also 'Liver problems' in section 4) .
 -  low blood pressure , including dizziness when you stand up or sit up quickly, or if you are taking any medicines to lower blood pressure. This is due to a sudden fall in blood pressure. If this happens, lie down until you (or your child) feel better. When getting up, do so as slowly as possible.
 -  tuberculosis (TB) or serious fungal infections . CELSENTRI could potentially increase your risk of developing infections.
--  kidney problems. This is particularly important if you are also taking some other medicines (see 'Other medicines and CELSENTRI' later in section 2).
+-  kidney problems. This is particularly important if you are also taking some other medicines (see 'Other medicines and CELSENTRI' later in section 2) .
 -  problems with your heart or circulatory system . Only a limited number of people with serious heart or circulatory problems have taken CELSENTRI.
 - ➔ Tell your doctor before starting treatment if you think any of these apply to you (or your child).
 
@@ -3436,7 +3124,7 @@ CELSENTRI can be taken with or without food. CELSENTRI should always be taken by
 
 CELSENTRI must be taken in combination with other medicines to treat HIV. Refer to the Package Leaflets of these other medicines for guidance on how to take them.
 
-If you take or give more CELSENTRI than you should
+## If you take or give more CELSENTRI than you should
 
 If you accidentally take or give too much CELSENTRI:
 
@@ -3484,9 +3172,9 @@ Dispose of any unused oral solution 60 days after first opening the bottle.
 
 <div style=\"page-break-after: always\"></div>
 
-Like all medicines, this medicine can cause side effects, although not everybody gets them. Tell your doctor if you notice anything unusual about your own health or your child's health.
+Like all medicines, this medicine can cause side effects, although not everybody gets them. Tell your doctor if you notice anything unusual about your own health or your child's health .
 
-## Serious side effects - get medical help immediately
+## Serious side effects -get medical help immediately
 
 ## Serious allergic or skin reactions
 
@@ -3520,7 +3208,7 @@ These are rare, and may affect up to 1 in 1,000 people taking CELSENTRI. Signs i
 
 ## Common side effects
 
-These may affect 1 to 10 in 100 people :
+## These may affect 1 to 10 in 100 people :
 
 - diarrhoea, feelingsick, stomach ache, wind ( flatulence ),
 - loss of appetite
@@ -3531,7 +3219,7 @@ These may affect 1 to 10 in 100 people :
 
 ## Uncommon side effects
 
-These may affect up to 1 in 100 people :
+## These may affect up to 1 in 100 people :
 
 -  lung infection
 -  fungal infection of the gullet (oesophagus)
@@ -3608,7 +3296,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use CELSENTRI after the expiry date which is stated on the bottle and carton label. The expiry date refers to the last day of that month.
 
-Store the oral solution below 30°C.
+## Store the oral solution below 30°C.
 
 Discard 60 days after first opening. Write the date the oral solution should be discarded on the carton in the space provided. The date should be written as soon as the bottle has been opened for first use.
 
@@ -3645,7 +3333,9 @@ ViiV Healthcare srl/bv Tél/Tel: + 32 (0) 10 85 65 00
 
 ViiV Healthcare BV
 
-Teл.: +359 80018205
+Teл.:
+
++359 80018205
 
 ## Česká republika
 
@@ -3749,7 +3439,9 @@ Tel: + 39 (0)45 7741600
 
 ViiV Healthcare BV
 
-Τηλ: +357 80070017
+Τηλ:
+
++357 80070017
 
 ## Latvija
 
@@ -3771,8 +3463,16 @@ Tel: +421 800500589
 
 ## Suomi/Finland
 
-GlaxoSmithKline Oy Puh/Tel: + 358 (0)10 30 30 30 Finland.tuoteinfo@gsk.com
+GlaxoSmithKline Oy
+
+Puh/Tel: + 358 (0)10 30 30 30
+
+Finland.tuoteinfo@gsk.com
 
 ## Sverige
 
-GlaxoSmithKline AB Tel: + 46 (0)8 638 93 00 info.produkt@gsk.com
+GlaxoSmithKline AB
+
+Tel: + 46 (0)8 638 93 00
+
+info.produkt@gsk.com

@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-07-23 17:17:11
-document_pages: 36
+document_datetime: 2026-01-13 15:42:27
+document_pages: 35
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/inrebic-epar-product-information_en.pdf
 document_name: inrebic-epar-product-information_en.pdf
 version: success
-processing_time: 7.182454
-conversion_datetime: 2025-12-22 18:06:43.10234
+processing_time: 6.9811557
+conversion_datetime: 2026-01-14 08:28:42.173215
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -21,10 +21,6 @@ docling_version:
 ## SUMMARY OF PRODUCT CHARACTERISTICS
 
 <div style=\"page-break-after: always\"></div>
-
-<!-- image -->
-
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -62,9 +58,9 @@ It is recommended that prophylactic anti-emetics be used according to local prac
 
 The recommended dose of Inrebic is 400 mg once daily.
 
-<div style=\"page-break-after: always\"></div>
-
 Treatment may be continued for as long as patients derive clinical benefit. Dose modifications should be considered for haematologic and non-haematologic toxicities (Table 1). Inrebic should be discontinued in patients who are unable to tolerate a dose of 200 mg daily.
+
+<div style=\"page-break-after: always\"></div>
 
 If a dose is missed, the next scheduled dose should be taken the following day. Extra capsules should not be taken to make up for the missed dose.
 
@@ -84,7 +80,7 @@ In cases where co-administration with a strong CYP3A4 inhibitor is discontinued,
 
 ## Dose re-escalation
 
-If the adverse reaction due to Inrebic that resulted in a dose reduction is controlled with effective management and the toxicity is resolved for at least 28 days, the dose level may be re-escalated to one dose level higher per month up to the original dose level. Dose re-escalation is not recommended if the dose reduction was due to a Grade 4 nonhaematologic toxicity, ≥ Grade 3 alanine aminotransferase (ALT), aspartate aminotransferase (AST), or total bilirubin elevation, or reoccurrence of a Grade 4 haematologic toxicity.
+If the adverse reaction due to Inrebic that resulted in a dose reduction is controlled with effective management and the toxicity is resolved for at least 28 days, the dose level may be re-escalated to one dose level higher per month up to the original dose level. Dose re-escalation is not recommended if the dose reduction was due to a Grade 4 non-haematologic toxicity, ≥ Grade 3 alanine aminotransferase (ALT), aspartate aminotransferase (AST), or total bilirubin elevation, or reoccurrence of a Grade 4 haematologic toxicity.
 
 Table 1: Dose reductions for haematologic, non-haematologic treatment emergent toxicities and management of Wernicke's encephalopathy
 
@@ -328,7 +324,7 @@ Among the 203 patients with MF treated with a 400 mg dose of Inrebic in the clin
 
 ## Tabulated list of adverse reactions
 
-Adverse reactions from clinical studies for entire treatment duration (Table 2) are listed by MedDRA system organ class. Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Frequencies are defined as: v ery common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); u ncommon (≥ 1/1,000 to &lt; 1/100); r are (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); and not known (cannot be estimated from available data).
+Adverse reactions from clinical studies for entire treatment duration (Table 2) are listed by MedDRA system organ class. Within each system organ class, the adverse reactions are ranked by frequency, with the most frequent reactions first. Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000); and not known (cannot be estimated from available data).
 
 Table 2: All adverse reactions by system organ class and preferred term
 
@@ -488,7 +484,7 @@ The percentage of patients (95% confidence interval) with a ≥ 50% reduction in
 
 ## JAKARTA2: Myelofibrosis patients who have been treated with ruxolitinib
 
-JAKARTA2, was a multicentre, open-label, single-arm study in patients previously exposed to ruxolitinib with a diagnosis of intermediate-1 with symptoms, intermediate-2 or high-risk primary myelofibrosis, post-polycythaemia vera myelofibrosis or post-essential thrombocythemia myelofibrosis with splenomegaly and platelet count ≥ 50 x 10 9 /L. A total of 97 patients who were heavily pretreated (79% of patients had received ≥ 2 prior therapies and 13% had received ≥ 4 prior therapies) were enrolled and started treatment with Inrebic 400 mg once daily with dose escalation up to 600 mg permitted. Fifty-five percent (55%) of patients were male and the median age was 67 years (range 38 to 83 years) with 46% of patients between 65 and 74 years and 17% of patients at least
+JAKARTA2, was a multicentre, open-label, single-arm study in patients previously exposed to ruxolitinib with a diagnosis of intermediate-1 with symptoms, intermediate-2 or high-risk primary myelofibrosis, post-polycythaemia vera myelofibrosis or post-essential thrombocythemia myelofibrosis with splenomegaly and platelet count ≥ 50 x 10 9 /L. A total of 97 patients who were heavily pre-treated (79% of patients had received ≥ 2 prior therapies and 13% had received ≥ 4 prior therapies) were enrolled and started treatment with Inrebic 400 mg once daily with dose escalation up to 600 mg permitted. Fifty-five percent (55%) of patients were male and the median age was 67 years (range 38 to 83 years) with 46% of patients between 65 and 74 years and 17% of patients at least
 
 <div style=\"page-break-after: always\"></div>
 
@@ -518,7 +514,7 @@ A low-fat, low-calorie (total 162 calories: 6% from fat, 78% from carbohydrate a
 
 ## Distribution
 
-The mean apparent volume of distribution of fedratinib at steady-state is 1770 L in patients with myelofibrosis at 400 mg once daily dose suggesting extensive tissue distribution. The human plasma protein binding of fedratinib is approximately 95 %, mostly to α1 -acid glycoprotein.
+The mean apparent volume of distribution of fedratinib at steady-state is 1770 L in patients with myelofibrosis at 400 mg once daily dose suggesting extensive tissue distribution. The human plasma protein binding of fedratinib is approximately 95%, mostly to α1-acid glycoprotein.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -692,8 +688,6 @@ An updated RMP should be submitted:
 
 ## A. LABELLING
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 CARTON
@@ -718,7 +712,9 @@ For oral use.
 
 Read the package leaflet before use.
 
-QR code to be included www.inrebic-eu-pil.com
+QR code to be included
+
+www.inrebic-eu-pil.com
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -731,6 +727,8 @@ Keep out of the sight and reach of children.
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
+
+<div style=\"page-break-after: always\"></div>
 
 Keep the bottle tightly closed in order to protect from moisture.
 
@@ -796,7 +794,7 @@ Read the package leaflet before use.
 
 Keep out of the sight and reach of children.
 
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 8. EXPIRY DATE
 
@@ -848,13 +846,11 @@ Lot
 
 <div style=\"page-break-after: always\"></div>
 
-<!-- image -->
-
 ## Package leaflet: Information for the patient
 
-## Inrebic 100 mg hard capsules fedratinib
+## Inrebic 100 mg hard capsules
 
-This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
+## fedratinib
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -893,8 +889,6 @@ An enlarged spleen is one of the characteristics of myelofibrosis. Myelofibrosis
 - -if you are allergic to fedratinib or any of the other ingredients of this medicine (listed in section 6).
 - -if you are pregnant or think you may be pregnant.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Warnings and precautions
 
 Talk to your doctor or pharmacist before taking these capsules and during treatment, if you have any of the following signs or symptoms:
@@ -902,11 +896,15 @@ Talk to your doctor or pharmacist before taking these capsules and during treatm
 Condition affecting the brain called encephalopathy, including Wernicke's encephalopathy
 
 - Confusion, memory loss, or difficulty thinking; loss of balance or difficulty walking.
-- Eye problems such as random eye movement, double-vision, blurred vision and loss of vision. These maybe signs of a brain condition called encephalopathy, including Wernicke's encephalopathy which may lead to death.
+- Eye problems such as random eye movement, double-vision, blurred vision and loss of vision.
+
+<div style=\"page-break-after: always\"></div>
+
+These maybe signs of a brain condition called encephalopathy, including Wernicke's encephalopathy which may lead to death.
 
 Contact your doctor immediately if you get any of these signs or symptoms.
 
-Talk to your doctor or pharmacist during your treatment
+## Talk to your doctor or pharmacist during your treatment
 
 - if you are feeling very tired, being short of breath, pale skin or fast heartbeat - these may be signs of a low red blood cell count.
 - if you have unusual bleeding or bruising under the skin, longer than usual bleeding after your blood has been drawn, or bleeding from your gums - these may be signs of a low blood platelet count.
@@ -941,11 +939,11 @@ Your doctor may adjust the dose or stop treatment based on the results of the bl
 
 Inrebic should not be used in children or young people under 18 years of age because this medicine has not been studied in this age group.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Other medicines and Inrebic
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This is because Inrebic can affect the way some other medicines work. Also some other medicines can affect the way Inrebic works.
+
+<div style=\"page-break-after: always\"></div>
 
 The following may increase the risk of side effects with Inrebic:
 
@@ -993,11 +991,11 @@ Always take this medicine exactly as your doctor or pharmacist has told you. Che
 
 The recommended dose is 400 mg (four 100 mg capsules) taken by mouth once daily.
 
-<div style=\"page-break-after: always\"></div>
-
 You will have blood tests before and while you take this medicine to monitor your progress. Your doctor will also tell you to take a daily dose of 100 mg vitamin B1 supplement during treatment (see section 2 'Blood tests').
 
 If you get certain side effects while you are taking Inrebic (see section 4) your doctor may lower your dose or pause or stop treatment.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Taking these capsules
 
@@ -1045,15 +1043,15 @@ Very common side effects (may affect more than 1 in 10 people)
 - Urinary tract infection.
 - Headache.
 - Muscle spasms.
-
-<div style=\"page-break-after: always\"></div>
-
 - Tiredness (fatigue) or weakness (asthenia) .
 - Changes in blood test results ( alanine amino transferase increased , aspartate aminotransferase increased , increase in blood creatinine , increase in amylase and lipase levels). These may be signs of liver, kidney or pancreas problems.
 
 ## Common side effects (may affect up to 1 in 10 people)
 
 - Dizziness.
+
+<div style=\"page-break-after: always\"></div>
+
 - Increase in blood pressure (hypertension) .
 - Indigestion (dyspepsia) .
 - Bone pain.
@@ -1088,66 +1086,60 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 - o The capsule shell contains gelatin (E441), titanium dioxide (E171) and red iron oxide (E172).
 - o The white printing ink is composed of shellac (E904), titanium dioxide (E171) and propylene glycol (E1520).
 
-<div style=\"page-break-after: always\"></div>
-
 ## What Inrebic looks like and contents of the pack
 
 - Inrebic are 21.4 -22.0 mm, reddish-brown capsules, printed with 'FEDR' on the cap and '100 mg' on the body in white ink.
 - The capsules are packaged in a high-density polyethylene (HDPE) bottle with a seal and polypropylene child resistant cap. Each bottle contains 120 capsules and is packed in a cardboard carton.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Marketing Authorisation Holder
 
 Bristol-Myers Squibb Pharma EEIG Plaza 254 Blanchardstown Corporate Park 2 Dublin 15, D15 T867 Ireland
 
-## Manufacturer
-
-Celgene Distribution B.V. Orteliuslaan 1000 3528 BD Utrecht Netherlands
+Manufacturer Celgene Distribution B.V. Orteliuslaan 1000 3528 BD Utrecht Netherlands
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## Belgique/België/Belgien
+Belgique/België/Belgien
 
 N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
 
-## България
-
-Swixx Biopharma EOOD Teл.: + 359 2 4942 480
+България Swixx Biopharma EOOD Teл.: + 359 2 4942 480
 
 medinfo.bulgaria@swixxbiopharma.com
 
 ## Česká republika
 
-Bristol-Myers Squibb spol. s r.o. Tel: + 420 221 016 111 medinfo.czech@bms.com
+Bristol-Myers Squibb spol. s r.o.
 
-## Danmark
+Tel: + 420 221 016 111
 
-Bristol-Myers Squibb Denmark
+medinfo.czech@bms.com
 
-Tlf: + 45 45 93 05 06 medinfo.denmark@bms.com
+Danmark Bristol-Myers Squibb Denmark
 
-## Deutschland
+Tlf: + 45 45 93 05 06
 
-Bristol-Myers Squibb GmbH &amp; Co. KGaA Tel: 0800 0752002 (+ 49 89 121 42 350)
+medinfo.denmark@bms.com
 
-medwiss.info@bms.com
+Deutschland Bristol-Myers Squibb GmbH &amp; Co. KGaA Tel: 0800 0752002 (+ 49 89 121 42 350) medwiss.info@bms.com
 
-## Eesti
+Eesti
 
 Swixx Biopharma OÜ Tel: + 372 640 1030
 
 medinfo.estonia@swixxbiopharma.com
 
-## Lietuva
+Ελλάδα Bristol-Myers Squibb A.E. Τηλ: + 30 210 6074300
 
-Swixx Biopharma UAB
+medinfo.greece@bms.com
 
-Tel: + 370 52 369140
+Lietuva
 
-medinfo.lithuania@swixxbiopharma.com
+Swixx Biopharma UAB Tel: + 370 52 369140 medinfo.lithuania@swixxbiopharma.com
 
-## Luxembourg/Luxemburg
-
-N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
+Luxembourg/Luxemburg N.V. Bristol-Myers Squibb Belgium S.A. Tél/Tel: + 32 2 352 76 11 medicalinfo.belgium@bms.com
 
 ## Magyarország
 
@@ -1155,93 +1147,67 @@ Bristol-Myers Squibb Kft. Tel.: + 36 1 301 9797
 
 Medinfo.hungary@bms.com
 
-## Malta
-
-A.M. Mangion Ltd Tel: + 356 23976333
+Malta A.M. Mangion Ltd Tel: + 356 23976333
 
 pv@ammangion.com
 
-## Nederland
+Nederland
 
-Bristol-Myers Squibb B.V. Tel: + 31 (0)30 300 2222
-
-medischeafdeling@bms.com
+Bristol-Myers Squibb B.V. Tel: + 31 (0)30 300 2222 medischeafdeling@bms.com
 
 Norge Bristol-Myers Squibb Norway AS Tlf: + 47 67 55 53 50 medinfo.norway@bms.com
 
-<div style=\"page-break-after: always\"></div>
-
-Ελλάδα Bristol-Myers Squibb A.E. Τηλ: + 30 210 6074300
-
-medinfo.greece@bms.com
-
-España Bristol-Myers Squibb, S.A. Tel: + 34 91 456 53 00
-
-informacion.medica@bms.com
-
-France
-
-Bristol-Myers Squibb SAS Tél: + 33 (0)1 58 83 84 96 infomed@bms.com
-
-Hrvatska Swixx Biopharma d.o.o. Tel: + 385 1 2078 500
-
-medinfo.croatia@swixxbiopharma.com
-
-Ireland Bristol-Myers Squibb Pharmaceuticals uc Tel: 1 800 749 749 (+ 353 (0)1 483 3625)
-
-medical.information@bms.com
-
-Ísland Vistor ehf. Sími: + 354 535 7000
-
-medical.information@bms.com
-
-Italia Bristol-Myers Squibb S.r.l. Tel: + 39 06 50 39 61
-
-medicalinformation.italia@bms.com
-
-Κύπρος Bristol-Myers Squibb A.E.
-
-Τηλ: 800 92666 (+ 30 210 6074300) medinfo.greece@bms.com
-
-Latvija Swixx Biopharma SIA Tel: + 371 66164750
-
-medinfo.latvia@swixxbiopharma.com
-
-Österreich
-
-Bristol-Myers Squibb GesmbH Tel: + 43 1 60 14 30
+Österreich Bristol-Myers Squibb GesmbH Tel: + 43 1 60 14 30
 
 medinfo.austria@bms.com
 
-Polska Bristol-Myers Squibb Polska Sp. z o.o. Tel.: + 48 22 2606400
-
-informacja.medyczna@bms.com
-
-Portugal Bristol-Myers Squibb Farmacêutica Portuguesa, S.A. Tel: + 351 21 440 70 00 portugal.medinfo@bms.com
-
-România
-
-Bristol-Myers Squibb Marketing Services S.R.L. Tel: + 40 (0)21 272 16 19
-
-medinfo.romania@bms.com
-
-Slovenija Swixx Biopharma d.o.o. Tel: + 386 1 2355 100
-
-medinfo.slovenia@swixxbiopharma.com
-
-Slovenská republika Swixx Biopharma s.r.o. Tel: + 421 2 20833 600
-
-medinfo.slovakia@swixxbiopharma.com
-
-Suomi/Finland Oy Bristol-Myers Squibb (Finland) Ab Puh/Tel: + 358 9 251 21 230 medinfo.finland@bms.com
-
-Sverige Bristol-Myers Squibb Aktiebolag Tel: + 46 8 704 71 00
-
-medinfo.sweden@bms.com
-
-35
-
 <div style=\"page-break-after: always\"></div>
+
+## España
+
+Bristol-Myers Squibb, S.A. Tel: + 34 91 456 53 00
+
+informacion.medica@bms.com
+
+## France
+
+Bristol-Myers Squibb SAS Tél: + 33 (0)1 58 83 84 96
+
+infomed@bms.com
+
+## Hrvatska
+
+Swixx Biopharma d.o.o.
+
+Tel: + 385 1 2078 500
+
+medinfo.croatia@swixxbiopharma.com
+
+## Ireland
+
+Bristol-Myers Squibb Pharmaceuticals uc Tel: 1 800 749 749 (+ 353 (0)1 483 3625)
+
+medical.information@bms.com
+
+## Ísland
+
+Vistor ehf. Sími: + 354 535 7000
+
+medical.information@bms.com
+
+## Italia
+
+Bristol-Myers Squibb S.r.l. Tel: + 39 06 50 39 61
+
+medicalinformation.italia@bms.com
+
+Κύπρος Bristol-Myers Squibb A.E. Τηλ: 800 92666 (+ 30 210 6074300) medinfo.greece@bms.com
+
+## Latvija
+
+Swixx Biopharma SIA Tel: + 371 66164750
+
+medinfo.latvia@swixxbiopharma.com
 
 ## This leaflet was last revised in
 
@@ -1250,3 +1216,31 @@ medinfo.sweden@bms.com
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu. There are also links to other websites about rare diseases and treatments.
 
 Detailed information on this medicine is also available by scanning the QR code on the outer packaging with a smartphone. The same information is available on the following URL: www.inrebiceu-pil.com.
+
+Polska Bristol-Myers Squibb Polska Sp. z o.o. Tel.: + 48 22 2606400 informacja.medyczna@bms.com
+
+## Portugal
+
+Bristol-Myers Squibb Farmacêutica Portuguesa, S.A. Tel: + 351 21 440 70 00 portugal.medinfo@bms.com
+
+## România
+
+Bristol-Myers Squibb Marketing Services S.R.L. Tel: + 40 (0)21 272 16 19 medinfo.romania@bms.com
+
+## Slovenija
+
+Swixx Biopharma d.o.o. Tel: + 386 1 2355 100
+
+medinfo.slovenia@swixxbiopharma.com
+
+## Slovenská republika
+
+Swixx Biopharma s.r.o. Tel: + 421 2 20833 600 medinfo.slovakia@swixxbiopharma.com
+
+## Suomi/Finland
+
+Oy Bristol-Myers Squibb (Finland) Ab Puh/Tel: + 358 9 251 21 230
+
+medinfo.finland@bms.com
+
+Sverige Bristol-Myers Squibb Aktiebolag Tel: + 46 8 704 71 00 medinfo.sweden@bms.com

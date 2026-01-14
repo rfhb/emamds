@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-09-03 10:15:25
+document_datetime: 2026-01-12 11:37:41
 document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/hepcludex-epar-product-information_en.pdf
 document_name: hepcludex-epar-product-information_en.pdf
 version: success
-processing_time: 6.767805
-conversion_datetime: 2025-12-30 01:50:40.081918
+processing_time: 6.9239397
+conversion_datetime: 2026-01-14 07:28:45.723837
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -56,7 +56,7 @@ Treatment should be initiated only by a physician experienced in the treatment o
 
 ## Posology
 
-Bulevirtide should be administered once daily (every 24 hours ± 4 hours) by subcutaneous injection as monotherapy  or  in co-administration with a nucleoside/nucleotide analogue for treatment of underlying hepatitis B virus (HBV) infection.
+Bulevirtide should be administered once daily (every 24 hours ± 4 hours) by subcutaneous injection as monotherapy  or in co-administration with a nucleoside/nucleotide analogue for treatment of underlying hepatitis B virus (HBV) infection.
 
 The recommended dose of bulevirtide in adult patients is 2 mg once daily.
 
@@ -75,7 +75,7 @@ Dosing for paediatric patients using bulevirtide 2 mg powder for solution for in
 |--------------------|-----------------------------------------------------------------------------------|--------------------------|
 | 35 kg and above    | 1 ml                                                                              | 2 mg                     |
 
-Concerning co-administration with nucleoside-nucleotide analogues for treatment of HBV infection, refer to section 4.4.
+Concerning co-administration with nucleoside/nucleotide analogues for treatment of HBV infection, refer to section 4.4.
 
 ## Duration of treatment
 
@@ -101,9 +101,7 @@ No data is available in patients &gt; 65 years.
 
 ## Renal impairment
 
-No studies have been conducted with bulevirtide in patients with renal impairment.
-
-Renal function should be carefully monitored. Elevation of bile salts may occur during treatment. Due to renal excretion of bile salts, elevation of bile salts may be greater in patients with renal impairment.
+No studies have been conducted with bulevirtide in patients with renal impairment. Renal function should be carefully monitored. Elevation of bile salts may occur during treatment. Due to renal excretion of bile salts, elevation of bile salts may be greater in patients with renal impairment.
 
 ## Hepatic impairment
 
@@ -141,11 +139,11 @@ The pharmacokinetics, safety and efficacy of bulevirtide in patients with decomp
 
 ## Co-infection with HBV
 
-The underlying HBV infection should be simultaneously managed according to current treatment guidelines. In the clinical study of bulevirtide MYR202, only patients with signs of active hepatitis despite nucleoside/nucleotide analogue treatment were included; tenofovir disoproxil fumarate was coadministered with bulevirtide. Close monitoring of HBV-DNA levels is recommended.
+The underlying HBV infection should be simultaneously managed according to current treatment guidelines. In the clinical study of bulevirtide MYR202, only patients with signs of active hepatitis despite nucleoside/nucleotide analogue treatment were included; tenofovir disoproxil fumarate was coadministered with bulevirtide. Close monitoring of HBV DNA levels is recommended.
 
 ## Hepatitis exacerbations after treatment cessation
 
-Discontinuation of treatment with bulevirtide can lead to reactivation of HDV and HBV infections and exacerbation of hepatitis. In case of treatment discontinuation, careful monitoring of liver function tests including transaminase levels, as well as HBV DNA and HDV RNA viral load should be performed.
+Discontinuation of treatment with bulevirtide may lead to reactivation of HDV and HBV infections and severe acute exacerbations of hepatitis, especially in patients with cirrhosis who may be at increased risk of more severe flares or progression to hepatic decompensation. In case of treatment discontinuation, careful monitoring of hepatic function with both clinical and laboratory follow-up should be performed for at least 6 months after discontinuation, including monitoring transaminase levels, as well as HBV DNA and HDV RNA viral load. In certain circumstances, resumption of antiviral therapy may be warranted.
 
 ## Co-infection with human immunodeficiency virus (HIV) and hepatitis C virus (HCV)
 
@@ -159,11 +157,9 @@ This medicine contains less than 1 mmol of sodium (23 mg) per ml, that is to say
 
 In vitro , it has been shown, that certain medicinal products can inhibit bulevirtide target sodiumtaurocholate co-transporting polypeptide (NTCP). The co-administration of such medicinal products (e.g. sulfasalazin, irbesartan, ezetimibe, ritonavir, and ciclosporin A) is not recommended.
 
-As a precautionary measure, close clinical monitoring is warranted when NTCP substrates (e.g. estrone-3-sulfate, fluvastatin, atorvastatin, pitavastatin, pravastatin, rosuvastatin, and thyroid
-
 <div style=\"page-break-after: always\"></div>
 
-hormones) are co-administered with bulevirtide. When possible, co-administration of these substrates should be avoided.
+As a precautionary measure, close clinical monitoring is warranted when NTCP substrates (e.g. estrone-3-sulfate, fluvastatin, atorvastatin, pitavastatin, pravastatin, rosuvastatin, and thyroid hormones) are co-administered with bulevirtide. When possible, co-administration of these substrates should be avoided.
 
 In vitro an inhibition of OATP1B1/3 transporters by bulevirtide was observed, albeit only at a concentration ≥ 0.5 µM, which is only reached in vivo after administration of high bulevirtide doses (10 mg subcutaneous). The clinical relevance of these findings is unknown. As a precautionary measure, close clinical monitoring is warranted when OATP1B1/3 substrates (e.g. atorvastatin, bosentan, docetaxel, fexofenadine, glecaprevir, glyburide (glibenclamide), grazoprevir, nateglinide, paclitaxel, paritaprevir, pitavastatin, pravastatin, repaglinide, rosuvastatin, simeprevir, simvastatin, olmesartan, telmisartan, valsartan, voxilaprevir) are co-administered. When possible, coadministration of these substrates should be avoided.
 
@@ -193,13 +189,13 @@ No human data on the effect of bulevirtide on fertility are available. In animal
 
 The product has minor influence on the ability to drive and use machines. Patients should be informed that dizziness has been reported during treatment with bulevirtide (see section 4.8).
 
+<div style=\"page-break-after: always\"></div>
+
 ## 4.8 Undesirable effects
 
 ## Summary of the safety profile
 
 The most frequently reported adverse reactions are increase in bile salts (very common), headache (very common), pruritus (very common) and injection site reactions (very common). Increases in bile salts were usually asymptomatic and reversible upon treatment discontinuation.
-
-<div style=\"page-break-after: always\"></div>
 
 The most frequently reported serious adverse reaction is an exacerbation of hepatitis after discontinuation of bulevirtide, possibly related to virologic rebound after discontinuation of treatment (see section 4.4).
 
@@ -241,11 +237,11 @@ Due to renal excretion of bile salts, elevation of bile salts may be greater in 
 
 There are no data available on the long-term impact (&gt; 96 weeks) of this bile salt increase induced by bulevirtide.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Injection Site Reactions
 
 Bulevirtide is intended for subcutaneous injection which is associated with risks for injection site reactions including swelling, redness, irritation, itchiness, infection, haematoma, rash, induration and local pain. These local reactions are more likely to appear if the injection is accidentally misplaced or the solution is accidentally misdirected to the soft tissue.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Eosinophilia
 
@@ -279,9 +275,11 @@ In Study 301, 100 of 150 patients with chronic HDV infection were randomised to 
 
 Of the 49 patients in the immediate treatment group, mean age was 44 years; 61% were male, 84% were White, and 16% were Asian. Of the 51 patients in the delayed treatment group, mean age was 41 years; 51% were male, 78% were White and 22% were Asian. All 100 patients had infection with HDV genotype 1.
 
-Baseline characteristics were balanced among the immediate and delayed treatment groups. Of the patients who received 2 mg bulevirtide at baseline, mean plasma HDV RNA was 5.1 log10 IU/mL, mean ALT was 108 U/L, 47% of patients had a history of cirrhosis, and 53% were interferon experienced. During the study (through Week 48), 63% of these patients, received concomitant therapy according to the standard care for their underlying HBV infection: the most common concomitant medications were tenofovir disoproxil fumarate-containing or tenofovir alafenamidecontaining products (49%) and entecavir (14%).
+Baseline characteristics were balanced among the immediate and delayed treatment groups. Of the patients who received 2 mg bulevirtide at baseline, mean plasma HDV RNA was 5.1 log10 IU/mL, mean ALT was 108 U/L, 47% of patients had a history of cirrhosis, and 53% were interferon experienced. During the study (through Week 48), 63% of these patients, received concomitant therapy according to the standard care for their underlying HBV infection: the most common
 
 <div style=\"page-break-after: always\"></div>
+
+concomitant medications were tenofovir disoproxil fumarate-containing or tenofovir alafenamidecontaining products (49%) and entecavir (14%).
 
 The table below presents the virologic and biochemical outcomes for immediate treatment with bulevirtide 2 mg once daily and delayed treatment at Week 48.
 
@@ -316,11 +314,11 @@ There is no evidence that the pharmacokinetics, safety, or effectiveness of bule
 
 See section 4.2 and 5.2 for information on paediatric use.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.2 Pharmacokinetic properties
 
 The pharmacokinetic properties of bulevirtide were characterised after intravenous and subcutaneous administration. The exposure of bulevirtide increased disproportionally while the apparent clearance and apparent volume of distribution decreased with higher doses.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Distribution
 
@@ -358,13 +356,13 @@ No data is available in patients older than 65 years of age.
 
 The pharmacokinetics of bulevirtide in paediatric patients have not been evaluated in a clinical study. Dosing recommendations for paediatric patients 3 years of age and older weighing at least 10 kg are based on exposure matching the paediatric bulevirtide concentration to concentrations observed in adults with HDV infection treated with bulevirtide 2 mg once daily. Simulated steady-state plasma exposures of bulevirtide weight-based dosing (see section 4.2) once daily by subcutaneous injection in paediatric patients are predicted to be within the safe and efficacious exposures associated with 2 mg bulevirtide once daily by subcutaneous injection in adults.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5.3 Preclinical safety data
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, single and repeated dose toxicity, and toxicity to reproduction and development.
 
 No genotoxicity and carcinogenicity studies were conducted due to the nature and mechanism of action of the product.
-
-<div style=\"page-break-after: always\"></div>
 
 A pre and post-natal development study (PPND) has been completed in rats and did not show any bulevirtide-related toxicity.
 
@@ -400,11 +398,13 @@ Each vial is intended for single use only and the excess of unused product must 
 
 ## Instructions for use
 
-The bulevirtide vial should be taken from the refrigerator shortly before the injection and the blue flipoff cap has to be removed. A single-use syringe should be taken and a needle tip attached to the syringe head in order to extract 1 ml of sterile water for injection into the syringe. The syringe needle with the syringe containing the sterile water for injection should then be inserted into the bulevirtide vial through the rubber stopper. The sterile water for injection inside the syringe will then be injected into the bulevirtide vial and the bulevirtide vial has to be carefully swayed until a clear solution is obtained. The required content for the dose to be administered from the bulevirtide vial has to be extracted back into the same syringe with the same needle tip (See Table below).
-
-## Required dose volumes to be extracted for administration of bulevirtide
+The bulevirtide vial should be taken from the refrigerator shortly before the injection and the blue flipoff cap has to be removed. A single-use syringe should be taken and a needle tip attached to the syringe head in order to extract 1 ml of sterile water for injection into the syringe. The syringe needle
 
 <div style=\"page-break-after: always\"></div>
+
+with the syringe containing the sterile water for injection should then be inserted into the bulevirtide vial through the rubber stopper. The sterile water for injection inside the syringe will then be injected into the bulevirtide vial and the bulevirtide vial has to be carefully swayed until a clear solution is obtained. The required content for the dose to be administered from the bulevirtide vial has to be extracted back into the same syringe with the same needle tip (See Table below).
+
+## Required dose volumes to be extracted for administration of bulevirtide
 
 | Bulevirtide Dose   | Required volume of reconstituted bulevirtide to be extracted   |
 |--------------------|----------------------------------------------------------------|
@@ -414,7 +414,7 @@ The bulevirtide vial should be taken from the refrigerator shortly before the in
 
 The needle tip has then to be detached from the syringe. To this syringe, a needle tip for subcutaneous injection has to be attached and any remaining air bubbles have to be removed from the syringe prior to injection. The content of the bulevirtide vial will then be administered subcutaneously.
 
-Disposal of medicinal product and auxiliary components
+## Disposal of medicinal product and auxiliary components
 
 All used components/ waste should be handled according to the current regulation.
 
@@ -490,8 +490,6 @@ An updated RMP should be submitted:
 
 ## A. LABELLING
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 OUTER CARTON
@@ -534,10 +532,12 @@ Store in a refrigerator. In order to protect from light, keep the vials in the o
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS ORWASTEMATERIALS DERIVEDFROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|-------------------------------------------------------------------------------------------------------------------------------------|
+<div style=\"page-break-after: always\"></div>
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+| 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
+|-------|--------------------------------------------------------|
 
 Gilead Sciences Ireland UC Carrigtohill County Cork, T45 DP77 Ireland
 
@@ -554,23 +554,25 @@ Lot
 | 14.   | GENERAL CLASSIFICATION FOR SUPPLY   |
 |-------|-------------------------------------|
 
-| 15.   | INSTRUCTIONS ONUSE   |
-|-------|----------------------|
+| 15.   | INSTRUCTIONS ON USE   |
+|-------|-----------------------|
 
 | 16.   | INFORMATION IN BRAILLE   |
 |-------|--------------------------|
 
 HEPCLUDEX
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+| 17. UNIQUE IDENTIFIER - 2D BARCODE   |
+|--------------------------------------|
 
 2D barcode carrying the unique identifier included.
 
 | 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
 |-------|------------------------------------------|
 
-PC SN NN
+PC SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -661,7 +663,7 @@ If you are not sure, speak to your doctor before using this medicine.
 
 ## Warnings and precautions
 
-Do not stop your treatment with Hepcludex unless your doctor advises you to do so. Stopping the treatment can reactivate the infection and worsen your disease.
+Do not stop your treatment with Hepcludex unless your doctor advises you to do so. Stopping the treatment can reactivate the infection and worsen your disease. If this happens, you may need to restart treatment with Hepcludex again.
 
 Talk to your doctor or pharmacist before using Hepcludex:
 
@@ -706,10 +708,10 @@ Some medicines can increase or decrease the effects of Hepcludex when used toget
 17. eletriptan, used for migraine headaches;
 18. eplerenone, used for high blood pressure;
 19. estrone-3-sulfate a menopausal hormone medicine;
-20. felodipine and nisoldipine (heart medicines);
 
 <div style=\"page-break-after: always\"></div>
 
+20. felodipine and nisoldipine (heart medicines);
 21. lomitapide, used for high blood cholesterol;
 22. lurasidone and quetiapine, antipsychotic medicines for psychiatric disorders;
 23. midazolam and triazolam, medicines to treat insomnia (inability to sleep) and for anaesthesia (to avoid pain during surgery);
@@ -825,6 +827,8 @@ Store in a refrigerator (2°C -8°C). In order to protect from light, keep the v
 
 The reconstituted solution should be used immediately. However, if this is not possible it can be stored for up to 2 hours at a temperature of up to 25°C.
 
+Important: Do not reuse the vials, syringe, needles or any remaining sterile water for injection. Hepcludex and ancillary supplies are for single use only. Throw away all components after use, including unused sterile water for injection.
+
 Do not throw away any medicines or used needles via wastewater or household waste. Ask your pharmacist how to safely dispose medicines and used needles.
 
 ## 6. Contents of the pack and other information
@@ -863,7 +867,7 @@ Gilead Sciences s.r.o. Tel: + 420 (0) 910 871 986
 
 ## Danmark
 
-Gilead Sciences Sweden AB Tlf: + 46 (0) 8 5057 1849
+Gilead Sciences Sweden AB Tlf.: + 46 (0) 8 5057 1849
 
 Deutschland Gilead Sciences GmbH Tel: + 49 (0) 89 899890-0
 
@@ -883,11 +887,17 @@ Gilead Sciences, S.L. Tel: + 34 (0) 91 378 98 30
 
 Gilead Sciences Tél: + 33 (0) 1 46 09 41 00
 
-Hrvatska Gilead Sciences Ireland UC Tel: + 353 (0) 1 686 1888
+## Hrvatska
+
+Gilead Sciences Ireland UC
+
+Tel: + 353 (0) 1 686 1888
 
 ## Ireland
 
-Gilead Sciences Ireland UC Tel: + 353 (0) 214 825 999
+Gilead Sciences Ireland UC
+
+Tel: + 353 (0) 214 825 999
 
 ## Ísland
 
@@ -951,29 +961,15 @@ Gilead Sciences Sweden AB Puh/Tel: + 46 (0) 8 5057 1849
 
 ## Κύπρος
 
-Gilead Sciences Ελλάς Μ.ΕΠΕ.
+## Sverige
 
-Τηλ: + 30 (0) 210 8930 100
+Gilead Sciences Ελλάς Μ.ΕΠΕ. Τηλ: + 30 (0) 210 8930 100 Gilead Sciences Sweden AB Tel: + 46 (0) 8 5057 1849
 
 ## Latvija
 
-Gilead Sciences Ireland UC
+Gilead Sciences Ireland UC Tel.: + 353 (0) 1 686 1888
 
-Tel.: + 353 (0) 1 686 1888
-
-## Sverige
-
-Gilead Sciences Sweden AB
-
-Tel: + 46 (0) 8 5057 1849
-
-## United Kingdom (Northern Ireland)
-
-Gilead Sciences Ireland UC
-
-Tel: + 44 (0) 8000 113 700
-
-This leaflet was last revised in &lt; { MM/YYYY }&gt;&lt;{ month YYYY }&gt;.
+## This leaflet was last revised in &lt; { MM/YYYY }&gt;&lt;{ month YYYY }&gt;.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -983,9 +979,9 @@ Before using Hepcludex, you must first read sections 1 - 6 of this package leafl
 
 Before you begin treatment with this medicine at home, your doctor or nurse will show you how to prepare and inject Hepcludex. This guide shows how to prepare and inject Hepcludex. Speak with your  doctor  or  nurse  if  you  are  unclear  about  anything  or  you  have  questions  or  need  more information or help. Take your time to carefully prepare and inject Hepcludex.
 
-If your child has been prescribed Hepcludex , but is unable to administer it themselves, please note that  all  the  information  in  this  step-by-step  injection  guide  for  administration  of  Hepcludex  is addressed to you, as the child's caregiver.
+If your child has been prescribed Hepcludex, but is unable to administer it themselves, please note that  all  the  information  in  this  step-by-step  injection  guide  for  administration  of  Hepcludex  is addressed to you, as the child's caregiver.
 
-Children  or  adolescents  should  only  inject  themselves  following  training  from  a healthcare professional and under supervision of an adult caregiver.
+Children  or adolescents should  only  inject themselves  following  training from  a  healthcare professional and under supervision of an adult caregiver.
 
 ## Injection sites
 
@@ -1083,7 +1079,7 @@ When mixed completely, the Hepcludex solution should be clear.
 
 Important! Completely dissolved Hepcludex should be clear and without foam.
 
-If the solution appears foamy or yellowish, allow more time for it to dissolve.If you see bubbles, gently tap the vial until they disappear.
+If the solution appears foamy or yellowish, allow more time for it to dissolve. If you see bubbles, gently tap the vial until they disappear.
 
 If you see any particles in the solution once it is (completely) dissolved, do not use that vial. Contact your doctor or pharmacist that provided it.
 
@@ -1107,11 +1103,13 @@ Allow it to air dry.
 
 Pick up the syringe.
 
-Insert the needle into the vial of liquid Hepcludex .
-
-3B Draw up Hepcludex
+Insert the needle into the vial of liquid Hepcludex.
 
 <!-- image -->
+
+3B
+
+Draw up Hepcludex
 
 Gently turn the vial upside down.
 
@@ -1130,8 +1128,6 @@ Gently tap or flick the syringe and push/pull the plunger to remove extra air an
 To be sure you end up with the right amount of Hepcludex in the syringe, you may need to pull the plunger past the mark on the syringe.
 
 Carefully remove the needle and syringe from the vial.
-
-Important! Discard the vial after use, including any unused excess liquid.
 
 3D Change and discard the needle
 
@@ -1165,11 +1161,9 @@ Start in the centre, apply pressure and clean in a circular motion, working outw
 
 Important! Allow site to air-dry.
 
+3G Prepare injection site
+
 <!-- image -->
-
-3G
-
-Prepare injection site
 
 Pinch and hold a fold of skin around the injection site.
 
@@ -1179,8 +1173,14 @@ Pinch and hold a fold of skin around the injection site.
 
 Pierce the skin at a 45degree angle. The needle should be inserted most of the way in.
 
-Slowly push the plunger all the way to inject Hepcludex .
+Slowly push the plunger all the way to inject Hepcludex.
 
 Remove the needle from skin.
 
 Remove the needle from the syringe and dispose of both properly so that nobody can be injured (see 3D).
+
+Important! Do not reuse the Hepcludex vial, syringe, needles or any remaining sterile water for injection.
+
+Discard the vial after use, including any unused excess liquid.
+
+Hepcludex vials and other supplies are for Single Use Only. Throw away (dispose of) all components after use, including unused sterile water for injection.

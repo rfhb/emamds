@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-10-24 15:50:02
+document_datetime: 2026-01-13 10:14:55
 document_pages: 55
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/besremi-epar-product-information_en.pdf
 document_name: besremi-epar-product-information_en.pdf
 version: success
-processing_time: 12.8582932
-conversion_datetime: 2025-12-30 03:19:14.112518
+processing_time: 12.8918982
+conversion_datetime: 2026-01-14 07:19:19.430153
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -218,13 +218,13 @@ No interaction studies have been performed with ropeginterferon alfa-2b.
 
 Co-administration of pegylated interferon alfa-2a with telbivudine in patients with hepatitis B increased the risk of developing peripheral neuropathy. A combination therapy with telbivudine and ropeginterferon alfa-2b is contraindicated (see section 4.3).
 
-Administration of 180 micrograms of pegylated interferon alfa-2a once weekly for 4 weeks in healthy male subjects did not show any effect on mephenytoin, dapsone, debrisoquine and tolbutamide pharmacokinetics profiles, suggesting that pegylated interferon alfa-2a has no effect on in vivo metabolic activity of cytochrome P450 (CYP) 3A4, 2C9, 2C19 and 2D6 isozymes. In the same study, a 25% increase in the AUC of theophylline (CYP1A2 substrate) was observed, demonstrating that pegylated interferon alfa-2a is a n inhibitor of CYP1A2 activity.
+Administration of 180 micrograms of pegylated interferon alfa-2a once weekly for 4 weeks in healthy male subjects did not show any effect on mephenytoin, dapsone, debrisoquine and tolbutamide pharmacokinetics profiles, suggesting that pegylated interferon alfa-2a has no effect on in vivo metabolic activity of cytochrome P450 (CYP) 3A4, 2C9, 2C19 and 2D6 isozymes. In the same study, a 25% increase in the AUC of theophylline (CYP1A2 substrate) was observed, demonstrating that pegylated interferon alfa-2a is an inhibitor of CYP1A2 activity.
 
-Co-administration of pegylated interferon alfa-2b showed no significant interaction with tolbutamide (CYP2C 9 substrate), midazolam (CYP3A4 substrate), dapsone (N -acetyltransferase substrate) and modestly increased the exposure of caffeine (CYP1A2 substrate) and desipramine (CYP2D6 substrate).
+Co-administration of pegylated interferon alfa-2b showed no significant interaction with tolbutamide (CYP2C9 substrate), midazolam (CYP3A4 substrate), dapsone (N-acetyltransferase substrate) and modestly increased the exposure of caffeine (CYP1A2 substrate) and desipramine (CYP2D6 substrate).
 
-Therefore, care should be taken when ropeginterferon alfa-2b is coadministered with CYP1A2 substrates notably those having a narrow therapeutic margin such as theophylline or methadone. Likewise, caution is recommended with CYP2D6 substrates ( e.g., vortioxetine, risperidone) combined with ropeginterferon alfa-2b. Ropeginterferon alfa-2b may inhibit the activity of CYP1A2 and CYP2D6 and thus may increase the blood concentrations of these medicinal products.
+Therefore, care should be taken when ropeginterferon alfa-2b is co-administered with CYP1A2 substrates notably those having a narrow therapeutic margin such as theophylline or methadone. Likewise, caution is recommended with CYP2D6 substrates (e.g., vortioxetine, risperidone) combined with ropeginterferon alfa-2b. Ropeginterferon alfa-2b may inhibit the activity of CYP1A2 and CYP2D6 and thus may increase the blood concentrations of these medicinal products.
 
-No dose adaptions for ropeginterferon alfa-2b should be necessary when concomitantly administered with medicinal products metabolised via CYP2C 9/19 , CYP3A4 or by N -acetyltransferase.
+No dose adaptions for ropeginterferon alfa-2b should be necessary when concomitantly administered with medicinal products metabolised via CYP2C9/19, CYP3A4 or by N-acetyltransferase.
 
 Caution must be exercised when administering ropeginterferon alfa-2b in combination with other potentially myelosuppressive/chemotherapeutic agents.
 
@@ -349,7 +349,9 @@ Table 1. Most common adverse reactions during ropeginterferon alfa-2b treatment.
 
 No CTCAE grade 5 (death) adverse reactions reported for these preferred terms; 1 AE grade 4 (life-threating or disabling) reported for Gamma-glutamyltransferase increased.
 
-Abbreviations: CTCAE, common terminology criteria for adverse events; n.r., not reported; ADR, adverse drug reaction; PT, preferred term; IR, incidence rate of mean adverse events per 100 patients per year; n, number of patients. N (%) number and percentage of patients with given AE
+Abbreviations: CTCAE, common terminology criteria for adverse events; n.r., not reported; ADR, adverse drug reaction; PT, preferred term; IR, incidence rate of mean adverse events per 100 patients per year; n, number of patients.
+
+N (%) number and percentage of patients with given AE
 
 ## Gastrointestinal disorders
 
@@ -484,7 +486,7 @@ From mass balance, tissue distribution and whole body autoradioluminography stud
 
 The metabolism of ropeginterferon alfa-2b is not fully characterised. The attachment of interferon alfa-2b to a high molecular weight (40 kDa) branched polyethylene glycol moiety is considered as the main reason for the differences in the elimination compared to unpegylated interferons. Studies in rats with a similar interferon alfa medicinal product (pegylated interferon alfa-2a) showed a primarily elimination via hepatic metabolism. The same elimination route is considered for ropeginterferon alfa-2b.
 
-Pharmacokinetic interaction studies in humans with pegylated interferon alfa-2a indicated a moderate inhibitory effect on substrates metabolis ed by CYP1A2 and CYP2 D6 (see section 4.5).
+Pharmacokinetic interaction studies in humans with pegylated interferon alfa-2a indicated a moderate inhibitory effect on substrates metabolised by CYP1A2 and CYP2D6 (see section 4.5).
 
 ## Elimination
 
@@ -993,7 +995,7 @@ Talk to your doctor before using Besremi:
 <div style=\"page-break-after: always\"></div>
 
 - -if you have thyroid disease.
-- -if you have diabetes or high blood pressure -your doctor may ask you to have an eye examination.
+- -if you have diabetes or high blood pressure - your doctor may ask you to have an eye examination.
 - -if you have liver problems - you will have blood tests regularly to check how your liver is working if you are on a long-term Besremi therapy.
 - -if you have kidney problems.
 - -if you have psoriasis or other skin problems because they may get worse during treatment with Besremi.
@@ -1003,7 +1005,7 @@ Once you have started Besremi treatment, talk to your doctor:
 - -if you develop symptoms of depression (such as feelings of sadness, dejection, and suicidal thoughts).
 - -if you develop signs of a severe allergic reaction (such as difficulty in breathing, wheezing or hives) while using Besremi - if this is the case you will need to seek medical help immediately.
 - -if you develop symptoms of a cold or other respiratory infection (such as difficulty in breathing, cough, fever and chest pain).
-- -if you have changes in your vision -you must tell your doctor and have an immediate eye examination. Severe eye problems may occur during Besremi therapy. Your doctor will usually check your vision before starting your treatment. If you have health problems which may lead to eye problems such as diabetes or high blood pressure, you doctor should check your vision also during treatment. If your vision worsens, your doctor may decide to discontinue your treatment.
+- -if you have changes in your vision - you must tell your doctor and have an immediate eye examination. Severe eye problems may occur during Besremi therapy. Your doctor will usually check your vision before starting your treatment. If you have health problems which may lead to eye problems such as diabetes or high blood pressure, you doctor should check your vision also during treatment. If your vision worsens, your doctor may decide to discontinue your treatment.
 
 Dental and gum disorders, which may lead to loss of teeth, can occur with interferon medicines. In addition, dry mouth could damage teeth and the lining of the mouth during long-term treatment with Besremi. You should brush your teeth thoroughly twice daily and have regular dental checks.
 
@@ -1068,7 +1070,7 @@ This medicine contains less than 1 mmol sodium (23 mg) per mL, that is to say es
 
 Always use this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
-The dose will be set individually for you by your doctor for your condition. The usual starting dose of Besremi is 100 microgram every 2 weeks . Your doctor will then increase your dose stepwise and may adjust your dose during treatment.
+The dose will be set individually for you by your doctor for your condition. The usual starting dose of Besremi is 100 microgram every 2 weeks. Your doctor will then increase your dose stepwise and may adjust your dose during treatment.
 
 Your doctor will reduce your starting dose to 50 micrograms if you have severe kidney problems.
 
@@ -1206,7 +1208,11 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and the outer carton after 'EXP'. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the pre-filled pen in the outer carton in order to protect from light.
+Store in a refrigerator (2 °C - 8 °C).
+
+Do not freeze.
+
+Keep the pre-filled pen in the outer carton in order to protect from light.
 
 Once opened, the pre-filled pen may be stored for a maximum of 30 days in the refrigerator (2 °C 8 °C) when stored with the pen cap on and kept in the outer carton in order to protect from light.
 
@@ -1232,9 +1238,7 @@ Besremi is presented as a solution for injection (injection) in a pre-filled pen
 
 ## Marketing Authorisation Holder and Manufacturer
 
-AOP Orphan Pharmaceuticals GmbH Leopold-Ungar-Platz 2 1190 Vienna
-
-Austria
+AOP Orphan Pharmaceuticals GmbH Leopold-Ungar-Platz 2 1190 Vienna Austria
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1246,7 +1250,7 @@ AOP Orphan Pharmaceuticals GmbH (Austria) Tél/Tel: +43 1 5037244
 
 ## България
 
-AOP Orphan Pharmaceuticals GmbH (Австрия) Te л .: + 43 1 5037244
+AOP Orphan Pharmaceuticals GmbH (Австрия) Teл.: + 43 1 5037244
 
 ## Česká republika
 
@@ -1266,7 +1270,7 @@ AOP Orphan Pharmaceuticals GmbH (Austria) Tel: + 43 1 5037244
 
 ## Ελλάδα
 
-AOP Orphan Pharmaceuticals GmbH (Αυστρία) Τηλ : + 43 1 5037244
+AOP Orphan Pharmaceuticals GmbH (Αυστρία) Τηλ: + 43 1 5037244
 
 ## España
 
@@ -1346,11 +1350,7 @@ AOP Orphan Pharmaceuticals GmbH (Itävalta) Puh/Tel: + 43 1 5037244
 
 ## Κύπρος
 
-AOP Orphan
-
-Pharmaceuticals GmbH (Αυστρία) : + 43 1 5037244
-
-Τηλ
+AOP Orphan Pharmaceuticals GmbH (Αυστρία) Τηλ: + 43 1 5037244
 
 Sverige Tel: + 43 1 5037244
 
@@ -1378,7 +1378,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 Your doctor or pharmacist will show you how to use the pen.
 
-The Besremi 250 micrograms pre-filled pen can be used to inject doses within the range of 50 to 250 micrograms. The same pen can be used twice, as long as the sum of the two doses does not exceed 250 micrograms. Your doctor will tell you the dose you need. Please note down your injection dates and dose as instructed by your doctor.
+The Besremi 250 micrograms pre-filled pen can be used to inject doses within the range of 50 to 250 micrograms in 5 microgram increments. The same pen can be used twice, as long as the sum of the two doses does not exceed 250 micrograms. Your doctor will tell you the dose you need. Please note down your injection dates and dose as instructed by your doctor.
 
 If you need a dose of more than 250 micrograms, you require two Besremi 250 microgram pre-filled pens. You must use a different injection site for each of the two pens. Your doctor or pharmacist will explain to you how to use the two pens.
 
@@ -1433,25 +1433,18 @@ Do not use the pen if it appears damaged. If at any time during the use of the p
 
 <!-- image -->
 
-<!-- image -->
-
 - If you are using this pen for the first time, prepare the pen for injection by turning the dose knob until you see the icon of a 'drop' and the dot in the dosing window. The icon of a 'drop' must be aligned with the dot in the dosing window.
 - Hold the pen with the needle pointing upwards and make sure the dosing window is facing you.
 - Do not point towards your face or anyone else's face.
 - Tap the pen (cartridge holder) gently with your fingers to allow any air bubbles to rise to the top of the cartridge holder.
 - Press the push button with your thumb until the '0' mark is aligned with the dot in the dosing window.
-- You will see the window change s between the 'drop' icon and the '0' mark, and you will hear gentle clicks when the button moves.
+- You will see the window changes between the 'drop' icon and the '0' mark, and you will hear gentle clicks when the button moves.
 - If you look through the small gap at the top of the orange needle protective sleeve, you should see a droplet of liquid appearing at the needle tip.
 - If you do not see a droplet at the needle tip, repeat steps 5 and 6 up to six times until a droplet appears.
 - If you do not see the droplet after the seventh time, ask your doctor or pharmacist for advice.
+- Between each 10-microgram mark, a dot without a number represents the intermediate 5-microgram dose.
 - Set the dose your doctor advised by turning the dose knob until the prescribed dose is visible. The selected dose must align with the dot in the dosing window. If necessary, correct the dose by turning the dose knob up and down.
 - If you are unable to reach the required dose setting by turning the dose knob, your pen may be out of sufficient medicine. Do not use any further force. Instead, get a new pen .
-- Disinfect your skin in the injection area using an alcohol swab before the injection.
-- Let the area dry before you inject the medicine.
-- You must inject the medicine subcutaneously (under the skin). Your doctor will tell you where you must inject it.
-- Possible injection sites are the belly (more than five centimetres away from the belly button) or the thigh.
-- If you need two pens, use a different injection site for each pen (e. g. right and left side of belly or right and left thigh).
-- Do not inject into irritated, reddened, bruised, infected or scarred skin in any way.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1461,6 +1454,12 @@ Do not use the pen if it appears damaged. If at any time during the use of the p
 
 <!-- image -->
 
+- Disinfect your skin in the injection area using an alcohol swab before the injection.
+- Let the area dry before you inject the medicine.
+- You must inject the medicine subcutaneously (under the skin). Your doctor will tell you where you must inject it.
+- Possible injection sites are the belly (more than five centimetres away from the belly button) or the thigh.
+- If you need two pens, use a different injection site for each pen (e. g. right and left side of belly or right and left thigh).
+- Do not inject into irritated, reddened, bruised, infected or scarred skin in any way.
 - Hold the pen so that the dosing window and the label are visible during the injection.
 - Raise a fold of skin between the thumb and forefinger.
 - Insert the needle at a 90 degrees angle until the orange protective sleeve on the needle is no longer visible.
@@ -1469,13 +1468,6 @@ Do not use the pen if it appears damaged. If at any time during the use of the p
 - Continue pressing the push button while keeping the needle in your skin.
 - Count slowly to 10. Do not lift or move the pen during injection.
 - If the needle is removed earlier, you may see a stream of solution coming from the needle tip. If so, the full dose will not be delivered.
-- Carefully remove the needle from the skin by pulling straight upwards.
-- Keep the injection site clean until the small injection wound has closed. Apply an adhesive plaster if needed.
-
-## Note:
-
-- The orange protective sleeve locks automatically and the now visible red locking indicator covers the needle for your protection. If this is not the case, please ask your doctor or pharmacist.
-- After removing the needle, a small droplet of liquid may remain on your skin. This droplet is normal and does not mean that you underdosed.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1483,6 +1475,15 @@ Do not use the pen if it appears damaged. If at any time during the use of the p
 
 <!-- image -->
 
+<!-- image -->
+
+- Carefully remove the needle from the skin by pulling straight upwards.
+- Keep the injection site clean until the small injection wound has closed. Apply an adhesive plaster if needed.
+
+## Note:
+
+- The orange protective sleeve locks automatically and the now visible red locking indicator covers the needle for your protection. If this is not the case, please ask your doctor or pharmacist.
+- After removing the needle, a small droplet of liquid may remain on your skin. This droplet is normal and does not mean that you underdosed.
 - Rotate the pen counterclockwise and dispose of the needle properly.
 
 ## Note:
@@ -1551,7 +1552,7 @@ Talk to your doctor before using Besremi:
 
 <div style=\"page-break-after: always\"></div>
 
-- -if you have diabetes or high blood pressure -your doctor may ask you to have an eye examination.
+- -if you have diabetes or high blood pressure - your doctor may ask you to have an eye examination.
 - -if you have liver problems - you will have blood tests regularly to check how your liver is working if you are on a long-term Besremi therapy.
 - -if you have kidney problems.
 - -if you have psoriasis or other skin problems because they may get worse during treatment with Besremi.
@@ -1561,7 +1562,7 @@ Once you have started Besremi treatment, talk to your doctor:
 - -if you develop symptoms of depression (such as feelings of sadness, dejection, and suicidal thoughts).
 - -if you develop signs of a severe allergic reaction (such as difficulty in breathing, wheezing or hives) while using Besremi - if this is the case you will need to seek medical help immediately.
 - -if you develop symptoms of a cold or other respiratory infection (such as difficulty in breathing, cough, fever and chest pain).
-- -if you have changes in your vision -you must tell your doctor and have an immediate eye examination. Severe eye problems may occur during Besremi therapy. Your doctor will usually check your vision before starting your treatment. If you have health problems which may lead to eye problems such as diabetes or high blood pressure, you doctor should check your vision also during treatment. If your vision worsens, your doctor may decide to discontinue your treatment.
+- -if you have changes in your vision - you must tell your doctor and have an immediate eye examination. Severe eye problems may occur during Besremi therapy. Your doctor will usually check your vision before starting your treatment. If you have health problems which may lead to eye problems such as diabetes or high blood pressure, you doctor should check your vision also during treatment. If your vision worsens, your doctor may decide to discontinue your treatment.
 
 Dental and gum disorders, which may lead to loss of teeth, can occur with interferon medicines. In addition, dry mouth could damage teeth and the lining of the mouth during long-term treatment with Besremi. You should brush your teeth thoroughly twice daily and have regular dental checks.
 
@@ -1626,7 +1627,7 @@ This medicine contains less than 1 mmol sodium (23 mg) per mL, that is to say es
 
 Always use this medicine exactly as your doctor or pharmacist has told you. Check with your doctor or pharmacist if you are not sure.
 
-The dose will be set individually for you by your doctor for your condition. The usual starting dose of Besremi is 100 microgram every 2 weeks . Your doctor will then increase your dose stepwise and may adjust your dose during treatment.
+The dose will be set individually for you by your doctor for your condition. The usual starting dose of Besremi is 100 microgram every 2 weeks. Your doctor will then increase your dose stepwise and may adjust your dose during treatment.
 
 Your doctor will reduce your starting dose to 50 micrograms if you have severe kidney problems.
 
@@ -1644,7 +1645,7 @@ Tell your doctor as soon as possible.
 
 ## If you forget to use Besremi
 
-You should inject the dose as soon as you remember . However, if more than 2 days have passed since you missed the dose, leave out the dose and inject the next dose when it is due. Do not inject a double dose to make up for a forgotten dose. Check with your doctor or pharmacist if you are not sure.
+You should inject the dose as soon as you remember. However, if more than 2 days have passed since you missed the dose, leave out the dose and inject the next dose when it is due. Do not inject a double dose to make up for a forgotten dose. Check with your doctor or pharmacist if you are not sure.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1800,7 +1801,13 @@ AOP Orphan Pharmaceuticals GmbH (Austria) Tél/Tel: +43 1 5037244
 
 ## България
 
-AOP Orphan Pharmaceuticals GmbH (Австрия) Te л .: + 43 1 5037244
+## Lietuva
+
+AOP Orphan Pharmaceuticals GmbH (Austrija) Tel: + 43 1 5037244
+
+## Luxembourg/Luxemburg
+
+AOP Orphan Pharmaceuticals GmbH (Австрия) Teл.: + 43 1 5037244
 
 ## Česká republika
 
@@ -1822,7 +1829,7 @@ AOP Orphan Pharmaceuticals GmbH (Austria) Tel: + 43 1 5037244
 
 ## Ελλάδα
 
-AOP Orphan Pharmaceuticals GmbH (Αυστρία) Τηλ : + 43 1 5037244
+AOP Orphan Pharmaceuticals GmbH (Αυστρία) Τηλ: + 43 1 5037244
 
 ## España
 
@@ -1847,12 +1854,6 @@ AOP Orphan Pharmaceuticals GmbH
 (Austurríki)
 
 Sími: + 43 1 5037244
-
-## Lietuva
-
-AOP Orphan Pharmaceuticals GmbH (Austrija) Tel: + 43 1 5037244
-
-## Luxembourg/Luxemburg
 
 AOP Orphan Pharmaceuticals GmbH (Austria) Tél/Tel: + 43 1 5037244
 
@@ -1922,7 +1923,7 @@ Puh/Tel: + 43 1 5037244
 
 AOP Orphan Pharmaceuticals GmbH (Αυστρία)
 
-Τηλ : + 43 1 5037244
+Τηλ: + 43 1 5037244
 
 ## Sverige
 
@@ -1954,7 +1955,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 Your doctor or pharmacist will show you how to use the pen.
 
-The Besremi 500 micrograms pre-filled pen can be used to inject doses of 50, 100, 150, 200, 250, 300, 350, 400, 450 and 500 micrograms. The same pen can be used twice, as long as the sum of the two doses does not exceed 500 micrograms. Your doctor will tell you the dose you need. Please note down your injection dates and dose as instructed by your doctor.
+The Besremi 500 micrograms pre-filled pen can be used to inject doses of 50, 100, 150, 200, 250, 300, 350, 400, 450 and 500 micrograms. The same pen can be used twice, as long as the sum of the two doses does not exceed 500 micrograms.  Your doctor will tell you the dose you need. Please note down your injection dates and dose as instructed by your doctor.
 
 Store the pen in the outer carton in the refrigerator.
 
@@ -1967,7 +1968,7 @@ You will need the following supplies for your injection:
 - Alcohol wipe (not supplied)
 - Optional: adhesive plaster (not supplied)
 
-The Besremi pre-filled pen comes with two or six needles (depending on the pack-size). Always use a new needle for each injection.
+The Besremi pre-filled pen comes with two  needles. Always use a new needle for each injection.
 
 Do not use the pen if it appears damaged. If at any time during the use of the pen, you feel you may have damaged it (e. g. by dropping it or using excessive force), do not continue to use the pen. Get a new pen and start over.
 

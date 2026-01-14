@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 09:24:58
+document_datetime: 2026-01-13 16:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/aranesp.html
 document_name: aranesp.html
 version: success
-processing_time: 0.1093504
-conversion_datetime: 2025-12-31 05:02:07.447545
+processing_time: 0.1249117
+conversion_datetime: 2026-01-14 08:32:44.207467
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 darbepoetin alfa Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -112,7 +110,7 @@ English (EN) (80.72 KB - PDF)
 
 [View](/en/documents/overview/aranesp-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-445)
+[Other languages (22)](#file-language-dropdown-81)
 
 български (BG) (112.74 KB - PDF)
 
@@ -378,31 +376,31 @@ svenska (SV) (79.19 KB - PDF)
 
 [View](/sv/documents/overview/aranesp-epar-medicine-overview_sv.pdf)
 
-Aranesp : EPAR - Risk-management-plan summary
+Aranesp : EPAR - Risk management plan
 
-English (EN) (50.68 KB - PDF)
+English (EN) (2.87 MB - PDF)
 
 **First published:** 14/05/2019
 
-**Last updated:** 13/01/2020
+**Last updated:** 13/01/2026
 
-[View](/en/documents/rmp-summary/aranesp-epar-risk-management-plan-summary_en.pdf)
+[View](/en/documents/rmp/aranesp-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
 Aranesp : EPAR - Product Information
 
-English (EN) (1.76 MB - PDF)
+English (EN) (1.89 MB - PDF)
 
 **First published:** 15/12/2009
 
-**Last updated:** 28/06/2024
+**Last updated:** 13/01/2026
 
 [View](/en/documents/product-information/aranesp-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-455)
+[Other languages (24)](#file-language-dropdown-109)
 
-български (BG) (2.33 MB - PDF)
+български (BG) (2.23 MB - PDF)
 
 **First published:**
 
@@ -410,11 +408,11 @@ English (EN) (1.76 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/bg/documents/product-information/aranesp-epar-product-information_bg.pdf)
 
-español (ES) (2.13 MB - PDF)
+español (ES) (2.1 MB - PDF)
 
 **First published:**
 
@@ -422,11 +420,11 @@ español (ES) (2.13 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/es/documents/product-information/aranesp-epar-product-information_es.pdf)
 
-čeština (CS) (2.33 MB - PDF)
+čeština (CS) (2.23 MB - PDF)
 
 **First published:**
 
@@ -434,11 +432,11 @@ español (ES) (2.13 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/cs/documents/product-information/aranesp-epar-product-information_cs.pdf)
 
-dansk (DA) (2.13 MB - PDF)
+dansk (DA) (2.11 MB - PDF)
 
 **First published:**
 
@@ -446,11 +444,11 @@ dansk (DA) (2.13 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/da/documents/product-information/aranesp-epar-product-information_da.pdf)
 
-Deutsch (DE) (2.17 MB - PDF)
+Deutsch (DE) (2.13 MB - PDF)
 
 **First published:**
 
@@ -458,11 +456,11 @@ Deutsch (DE) (2.17 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/de/documents/product-information/aranesp-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.11 MB - PDF)
+eesti keel (ET) (2.07 MB - PDF)
 
 **First published:**
 
@@ -470,11 +468,11 @@ eesti keel (ET) (2.11 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/et/documents/product-information/aranesp-epar-product-information_et.pdf)
 
-ελληνικά (EL) (2.36 MB - PDF)
+ελληνικά (EL) (2.24 MB - PDF)
 
 **First published:**
 
@@ -482,11 +480,11 @@ eesti keel (ET) (2.11 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/el/documents/product-information/aranesp-epar-product-information_el.pdf)
 
-français (FR) (2.28 MB - PDF)
+français (FR) (2.19 MB - PDF)
 
 **First published:**
 
@@ -494,11 +492,11 @@ français (FR) (2.28 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/fr/documents/product-information/aranesp-epar-product-information_fr.pdf)
 
-hrvatski (HR) (2.24 MB - PDF)
+hrvatski (HR) (2.15 MB - PDF)
 
 **First published:**
 
@@ -506,11 +504,11 @@ hrvatski (HR) (2.24 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/hr/documents/product-information/aranesp-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.12 MB - PDF)
+íslenska (IS) (2.09 MB - PDF)
 
 **First published:**
 
@@ -518,11 +516,11 @@ hrvatski (HR) (2.24 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/is/documents/product-information/aranesp-epar-product-information_is.pdf)
 
-italiano (IT) (2.18 MB - PDF)
+italiano (IT) (2.16 MB - PDF)
 
 **First published:**
 
@@ -530,11 +528,11 @@ italiano (IT) (2.18 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/it/documents/product-information/aranesp-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (2.24 MB - PDF)
+latviešu valoda (LV) (2.14 MB - PDF)
 
 **First published:**
 
@@ -542,11 +540,11 @@ latviešu valoda (LV) (2.24 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/lv/documents/product-information/aranesp-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (2.31 MB - PDF)
+lietuvių kalba (LT) (2.18 MB - PDF)
 
 **First published:**
 
@@ -554,11 +552,11 @@ lietuvių kalba (LT) (2.31 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/lt/documents/product-information/aranesp-epar-product-information_lt.pdf)
 
-magyar (HU) (2.3 MB - PDF)
+magyar (HU) (2.21 MB - PDF)
 
 **First published:**
 
@@ -566,11 +564,11 @@ magyar (HU) (2.3 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/hu/documents/product-information/aranesp-epar-product-information_hu.pdf)
 
-Malti (MT) (2.6 MB - PDF)
+Malti (MT) (2.37 MB - PDF)
 
 **First published:**
 
@@ -578,11 +576,11 @@ Malti (MT) (2.6 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/mt/documents/product-information/aranesp-epar-product-information_mt.pdf)
 
-Nederlands (NL) (2.15 MB - PDF)
+Nederlands (NL) (2.11 MB - PDF)
 
 **First published:**
 
@@ -590,11 +588,11 @@ Nederlands (NL) (2.15 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/nl/documents/product-information/aranesp-epar-product-information_nl.pdf)
 
-norsk (NO) (2.13 MB - PDF)
+norsk (NO) (2.09 MB - PDF)
 
 **First published:**
 
@@ -602,11 +600,11 @@ norsk (NO) (2.13 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/no/documents/product-information/aranesp-epar-product-information_no.pdf)
 
-polski (PL) (2.33 MB - PDF)
+polski (PL) (2.23 MB - PDF)
 
 **First published:**
 
@@ -614,11 +612,11 @@ polski (PL) (2.33 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/pl/documents/product-information/aranesp-epar-product-information_pl.pdf)
 
-português (PT) (2.26 MB - PDF)
+português (PT) (2.18 MB - PDF)
 
 **First published:**
 
@@ -626,11 +624,11 @@ português (PT) (2.26 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/pt/documents/product-information/aranesp-epar-product-information_pt.pdf)
 
-română (RO) (2.37 MB - PDF)
+română (RO) (2.25 MB - PDF)
 
 **First published:**
 
@@ -638,11 +636,11 @@ română (RO) (2.37 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/ro/documents/product-information/aranesp-epar-product-information_ro.pdf)
 
-slovenčina (SK) (2.31 MB - PDF)
+slovenčina (SK) (2.21 MB - PDF)
 
 **First published:**
 
@@ -650,11 +648,11 @@ slovenčina (SK) (2.31 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/sk/documents/product-information/aranesp-epar-product-information_sk.pdf)
 
-slovenščina (SL) (2.24 MB - PDF)
+slovenščina (SL) (2.16 MB - PDF)
 
 **First published:**
 
@@ -662,11 +660,11 @@ slovenščina (SL) (2.24 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/sl/documents/product-information/aranesp-epar-product-information_sl.pdf)
 
-Suomi (FI) (2.12 MB - PDF)
+Suomi (FI) (2.08 MB - PDF)
 
 **First published:**
 
@@ -674,11 +672,11 @@ Suomi (FI) (2.12 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/fi/documents/product-information/aranesp-epar-product-information_fi.pdf)
 
-svenska (SV) (2.12 MB - PDF)
+svenska (SV) (2.08 MB - PDF)
 
 **First published:**
 
@@ -686,11 +684,11 @@ svenska (SV) (2.12 MB - PDF)
 
 **Last updated:**
 
-28/06/2024
+13/01/2026
 
 [View](/sv/documents/product-information/aranesp-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IG1743 28/06/2024
+**Latest procedure affecting product information:** VR/0000267359 27/11/2025
 
 icon globe
 
@@ -716,7 +714,7 @@ English (EN) (26.4 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/aranesp-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-732)
+[Other languages (24)](#file-language-dropdown-228)
 
 български (BG) (122.03 KB - PDF)
 
@@ -1034,7 +1032,7 @@ Amgen Europe B.V.
 
 Minervum 7061
 
-Opinion adopted 01/05/2001 Marketing authorisation issued 08/06/2001 Revision 46
+Opinion adopted 01/05/2001 Marketing authorisation issued 08/06/2001 Revision 47
 
 ## Assessment history
 
@@ -1046,13 +1044,21 @@ Collapse section
 
 Aranesp : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (143.49 KB - PDF)
+
+**First published:** 13/01/2026
+
+[View](/en/documents/procedural-steps-after/aranesp-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Aranesp : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (398.6 KB - PDF)
 
 **First published:** 15/12/2009
 
-**Last updated:** 28/06/2024
+**Last updated:** 13/01/2026
 
-[View](/en/documents/procedural-steps-after/aranesp-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/aranesp-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Aranesp-H-C-332-X-0042 : EPAR - Assessment Report - Extension
 
@@ -1135,7 +1141,7 @@ English (EN) (88.68 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 28/06/2024
+**This page was last updated on** 13/01/2026
 
 ## Share this page
 

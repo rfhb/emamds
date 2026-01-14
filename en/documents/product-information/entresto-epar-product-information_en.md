@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-05-14 11:49:23
-document_pages: 97
+document_datetime: 2026-01-13 10:15:22
+document_pages: 93
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/entresto-epar-product-information_en.pdf
 document_name: entresto-epar-product-information_en.pdf
 version: success
-processing_time: 19.0694653
-conversion_datetime: 2025-12-26 10:17:06.6261
+processing_time: 18.2551829
+conversion_datetime: 2026-01-14 08:28:03.761612
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -173,11 +173,13 @@ Entresto may be administered with or without food (see section 5.2). The tablets
 - The combination of sacubitril/valsartan with direct renin inhibitors such as aliskiren is not recommended (see section 4.5). The combination of sacubitril/valsartan with aliskirencontaining medicinal products is contraindicated in patients with diabetes mellitus or in patients with renal impairment (eGFR &lt;60 ml/min/1.73 m 2 ) (see sections 4.3 and 4.5).
 - Entresto contains valsartan, and therefore should not be co-administered with another ARB containing medicinal product (see sections 4.2 and 4.5).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hypotension
 
-Treatment should not be initiated unless SBP is ≥100 mmHg for adult patients or ≥5 th percentile SBP for the age of the paediatric patient. Patients with SBP below these values were not studied (see section 5.1). Cases of symptomatic hypotension have been reported in adult patients treated with sacubitril/valsartan during clinical studies (see section 4.8), especially in patients ≥65 years old, patients with renal disease and patients with low SBP (&lt;112 mmHg). When initiating therapy or during dose titration with sacubitril/valsartan, blood pressure should be monitored routinely. If hypotension occurs, temporary down-titration or discontinuation of sacubitril/valsartan is recommended (see section 4.2). Dose adjustment of diuretics, concomitant antihypertensives and treatment of other causes of hypotension (e.g. hypovolaemia) should be considered. Symptomatic hypotension is more likely to occur if the patient has been volume-depleted, e.g. by diuretic therapy, dietary salt restriction, diarrhoea or vomiting. Sodium and/or volume depletion should be corrected before starting treatment with sacubitril/valsartan, however, such corrective action must be carefully weighed against the risk of volume overload.
+Treatment should not be initiated unless SBP is ≥100 mmHg for adult patients or ≥5 th percentile SBP for the age of the paediatric patient. Patients with SBP below these values were not studied (see
+
+<div style=\"page-break-after: always\"></div>
+
+section 5.1). Cases of symptomatic hypotension have been reported in adult patients treated with sacubitril/valsartan during clinical studies (see section 4.8), especially in patients ≥65 years old, patients with renal disease and patients with low SBP (&lt;112 mmHg). When initiating therapy or during dose titration with sacubitril/valsartan, blood pressure should be monitored routinely. If hypotension occurs, temporary down-titration or discontinuation of sacubitril/valsartan is recommended (see section 4.2). Dose adjustment of diuretics, concomitant antihypertensives and treatment of other causes of hypotension (e.g. hypovolaemia) should be considered. Symptomatic hypotension is more likely to occur if the patient has been volume-depleted, e.g. by diuretic therapy, dietary salt restriction, diarrhoea or vomiting. Sodium and/or volume depletion should be corrected before starting treatment with sacubitril/valsartan, however, such corrective action must be carefully weighed against the risk of volume overload.
 
 ## Renal impairment
 
@@ -197,9 +199,9 @@ Angioedema has been reported in patients treated with sacubitril/valsartan. If a
 
 Angioedema associated with laryngeal oedema may be fatal. Where there is involvement of the tongue, glottis or larynx likely to cause airway obstruction, appropriate therapy, e.g. adrenaline solution 1 mg/1 ml (0.3-0.5 ml), and/or measures necessary to ensure a patent airway, should be promptly administered.
 
-<div style=\"page-break-after: always\"></div>
-
 Patients with a prior history of angioedema were not studied. As they may be at higher risk for angioedema, caution is recommended if sacubitril/valsartan is used in these patients. Sacubitril/valsartan is contraindicated in patients with a known history of angioedema related to previous ACE inhibitor or ARB therapy or with hereditary or idiopathic angioedema (see section 4.3).
+
+<div style=\"page-break-after: always\"></div>
 
 Black patients have an increased susceptibility to develop angioedema (see section 4.8).
 
@@ -229,8 +231,6 @@ Psychiatric events such as hallucinations, paranoia and sleep disorders, in cont
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per 97 mg/103 mg dose, that is to say essentially 'sodium free'.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 ## Interactions resulting in a contraindication
@@ -238,6 +238,8 @@ This medicinal product contains less than 1 mmol sodium (23 mg) per 97 mg/103 mg
 ## ACE inhibitors
 
 The concomitant use of sacubitril/valsartan with ACE inhibitors is contraindicated, as the concomitant inhibition of neprilysin (NEP) and ACE may increase the risk of angioedema. Sacubitril/valsartan must not be started until 36 hours after taking the last dose of ACE inhibitor therapy. ACE inhibitor therapy must not be started until 36 hours after the last dose of sacubitril/valsartan (see sections 4.2 and 4.3).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Aliskiren
 
@@ -265,15 +267,17 @@ Concomitant use of potassium-sparing diuretics (triamterene, amiloride), mineral
 
 In elderly patients, volume-depleted patients (including those on diuretic therapy), or patients with compromised renal function, concomitant use of sacubitril/valsartan and NSAIDs may lead to an increased risk of worsening of renal function. Therefore, monitoring of renal function is recommended when initiating or modifying treatment in patients on sacubitril/valsartan who are taking NSAIDs concomitantly (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Lithium
 
 Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with ACE inhibitors or angiotensin II receptor antagonists including sacubitril/valsartan. Therefore, this combination is not recommended. If the combination proves necessary, careful monitoring of serum lithium levels is recommended. If a diuretic is also used, the risk of lithium toxicity may be increased further.
 
 ## Furosemide
 
-Co-administration of sacubitril/valsartan and furosemide had no effect on the pharmacokinetics of sacubitril/valsartan but reduced Cmax and AUC of furosemide by 50% and 28%, respectively. While there was no relevant change in urine volume, the urinary excretion of sodium was reduced within 4 hours and 24 hours after co-administration. The average daily dose of furosemide was unchanged from baseline until the end of the PARADIGM-HF study in patients treated with sacubitril/valsartan.
+Co-administration of sacubitril/valsartan and furosemide had no effect on the pharmacokinetics of sacubitril/valsartan but reduced Cmax and AUC of furosemide by 50% and 28%, respectively. While there was no relevant change in urine volume, the urinary excretion of sodium was reduced within
+
+<div style=\"page-break-after: always\"></div>
+
+4 hours and 24 hours after co-administration. The average daily dose of furosemide was unchanged from baseline until the end of the PARADIGM-HF study in patients treated with sacubitril/valsartan.
 
 ## Nitrates, e.g. nitroglycerine
 
@@ -297,8 +301,6 @@ No clinically meaningful interaction was observed when sacubitril/valsartan was 
 
 The use of sacubitril/valsartan is not recommended during the first trimester of pregnancy and is contraindicated during the second and third trimesters of pregnancy (see section 4.3).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Valsartan
 
 Epidemiological evidence regarding the risk of teratogenicity following exposure to ACE inhibitors during the first trimester of pregnancy has not been conclusive; however, a small increase in risk cannot be excluded. Whilst there is no controlled epidemiological data on the risk with ARBs, similar risks may exist for this class of medicinal product. Unless continued ARB therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy. When pregnancy is diagnosed, treatment with ARBs should be stopped immediately and, if appropriate, alternative therapy should be started. Exposure to ARBs therapy during the second and third trimesters is known to induce human foetotoxicity (decreased renal function, oligohydramnios, skull ossification retardation) and neonatal toxicity (renal failure, hypotension, hyperkalaemia).
@@ -308,6 +310,8 @@ Should exposure to ARBs have occurred from the second trimester of pregnancy, ul
 ## Sacubitril
 
 There are no data from the use of sacubitril in pregnant women. Studies in animals have shown reproductive toxicity (see section 5.3).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Sacubitril/valsartan
 
@@ -415,11 +419,13 @@ The medicinal product is unlikely to be removed by haemodialysis due to high pro
 
 Pharmacotherapeutic group: Agents acting on the renin-angiotensin system; angiotensin II receptor blockers (ARBs), other combinations, ATC code: C09DX04
 
-<div style=\"page-break-after: always\"></div>
-
 ## Mechanism of action
 
-Sacubitril/valsartan exhibits the mechanism of action of an angiotensin receptor neprilysin inhibitor by simultaneously inhibiting neprilysin (neutral endopeptidase; NEP) via LBQ657, the active metabolite of the prodrug sacubitril, and by blocking the angiotensin II type-1 (AT1) receptor via valsartan. The complementary cardiovascular benefits of sacubitril/valsartan in heart failure patients are attributed to the enhancement of peptides that are degraded by neprilysin, such as natriuretic peptides (NP), by LBQ657 and the simultaneous inhibition of the effects of angiotensin II by valsartan. NPs exert their effects by activating membrane-bound guanylyl cyclase-coupled receptors, resulting in increased concentrations of the second messenger cyclic guanosine monophosphate (cGMP), which could result in vasodilation, natriuresis and diuresis, increased glomerular filtration rate and renal blood flow, inhibition of renin and aldosterone release, reduction of sympathetic activity, and anti-hypertrophic and anti-fibrotic effects.
+Sacubitril/valsartan exhibits the mechanism of action of an angiotensin receptor neprilysin inhibitor by simultaneously inhibiting neprilysin (neutral endopeptidase; NEP) via LBQ657, the active metabolite
+
+<div style=\"page-break-after: always\"></div>
+
+of the prodrug sacubitril, and by blocking the angiotensin II type-1 (AT1) receptor via valsartan. The complementary cardiovascular benefits of sacubitril/valsartan in heart failure patients are attributed to the enhancement of peptides that are degraded by neprilysin, such as natriuretic peptides (NP), by LBQ657 and the simultaneous inhibition of the effects of angiotensin II by valsartan. NPs exert their effects by activating membrane-bound guanylyl cyclase-coupled receptors, resulting in increased concentrations of the second messenger cyclic guanosine monophosphate (cGMP), which could result in vasodilation, natriuresis and diuresis, increased glomerular filtration rate and renal blood flow, inhibition of renin and aldosterone release, reduction of sympathetic activity, and anti-hypertrophic and anti-fibrotic effects.
 
 Valsartan inhibits detrimental cardiovascular and renal effects of angiotensin II by selectively blocking the AT1 receptor, and also inhibits angiotensin II-dependent aldosterone release. This prevents sustained activation of the renin-angiotensin-aldosterone system that would result in vasoconstriction, renal sodium and fluid retention, activation of cellular growth and proliferation, and subsequent maladaptive cardiovascular remodelling.
 
@@ -435,11 +441,13 @@ Neprilysin is one of multiple enzymes involved in the clearance of amyloid-β (A
 
 The 24 mg/26 mg, 49 mg/51 mg and 97 mg/103 mg strengths are in some publications referred to as 50, 100 or 200 mg.
 
-<div style=\"page-break-after: always\"></div>
-
 ## PARADIGM-HF
 
-PARADIGM-HF, the pivotal phase 3 study, was a multinational, randomised, double-blind study of 8 442 patients comparing sacubitril/valsartan to enalapril, both given to adult patients with chronic heart failure, NYHA class II-IV and reduced ejection fraction (left ventricular ejection fraction [LVEF] ≤40%, amended later to ≤35%) in addition to other heart failure therapy. The primary endpoint was the composite of cardiovascular (CV) death or hospitalisation for heart failure (HF). Patients with SBP &lt;100 mmHg, severe renal impairment (eGFR &lt;30 ml/min/1.73 m 2 ) and severe hepatic impairment were excluded at screening and therefore not prospectively studied.
+PARADIGM-HF, the pivotal phase 3 study, was a multinational, randomised, double-blind study of 8 442 patients comparing sacubitril/valsartan to enalapril, both given to adult patients with chronic heart failure, NYHA class II-IV and reduced ejection fraction (left ventricular ejection fraction [LVEF] ≤40%, amended later to ≤35%) in addition to other heart failure therapy. The primary
+
+<div style=\"page-break-after: always\"></div>
+
+endpoint was the composite of cardiovascular (CV) death or hospitalisation for heart failure (HF). Patients with SBP &lt;100 mmHg, severe renal impairment (eGFR &lt;30 ml/min/1.73 m 2 ) and severe hepatic impairment were excluded at screening and therefore not prospectively studied.
 
 Prior to study participation, patients were well treated with standard of care therapy which included ACE inhibitors/ARBs (&gt;99%), beta blockers (94%), mineralocorticoid antagonists (58%) and diuretics (82%). The median follow-up duration was 27 months and patients were treated for up to 4.3 years.
 
@@ -484,13 +492,15 @@ TITRATION was a 12-week safety and tolerability study in 538 patients with chron
 
 More patients who were naïve to previous ACE inhibitor or ARB therapy or on low-dose therapy (equivalent to &lt;10 mg enalapril/day) were able to achieve and maintain sacubitril/valsartan 200 mg when up-titrated over 6 weeks (84.8%) versus 3 weeks (73.6%). Overall, 76% of patients achieved and maintained the target dose of sacubitril/valsartan 200 mg twice daily without any dose interruption or down-titration over 12 weeks.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Paediatric population
 
 ## PANORAMA-HF
 
-PANORAMA-HF, a phase 3 study, was a multinational, randomised, double-blind study comparing sacubitril/valsartan and enalapril in 375 paediatric patients aged 1 month to &lt;18 years with heart failure due to systemic left ventricular systolic dysfunction (LVEF ≤45% or fractional shortening ≤22.5%). The primary objective was to determine whether sacubitril/valsartan was superior to enalapril in paediatric HF patients over a 52-week treatment duration based on a global rank endpoint. The global rank primary endpoint was derived by ranking patients (worst-to-best outcome) based on clinical events such as death, initiation of mechanical life support, listing for urgent heart transplant, worsening HF, measures of functional capacity (NYHA/ROSS scores), and patient-reported HF symptoms (Patient Global Impression Scale [PGIS]). Patients with systemic right ventricles or single ventricles and patients with restrictive or hypertrophic cardiomyopathy were excluded from the study. The target maintenance dose of sacubitril/valsartan was 2.3 mg/kg twice daily in paediatric patients aged 1 month to &lt;1 year and 3.1 mg/kg twice daily in patients aged 1 to &lt;18 years with a maximum dose of 200 mg twice daily. The target maintenance dose of enalapril was 0.15 mg/kg twice daily in paediatric patients aged 1 month to &lt;1 year and 0.2 mg/kg twice daily in patients aged 1 to &lt;18 years with a maximum dose of 10 mg twice daily.
+PANORAMA-HF, a phase 3 study, was a multinational, randomised, double-blind study comparing sacubitril/valsartan and enalapril in 375 paediatric patients aged 1 month to &lt;18 years with heart failure due to systemic left ventricular systolic dysfunction (LVEF ≤45% or fractional shortening
+
+<div style=\"page-break-after: always\"></div>
+
+≤22.5%). The primary objective was to determine whether sacubitril/valsartan was superior to enalapril in paediatric HF patients over a 52-week treatment duration based on a global rank endpoint. The global rank primary endpoint was derived by ranking patients (worst-to-best outcome) based on clinical events such as death, initiation of mechanical life support, listing for urgent heart transplant, worsening HF, measures of functional capacity (NYHA/ROSS scores), and patient-reported HF symptoms (Patient Global Impression Scale [PGIS]). Patients with systemic right ventricles or single ventricles and patients with restrictive or hypertrophic cardiomyopathy were excluded from the study. The target maintenance dose of sacubitril/valsartan was 2.3 mg/kg twice daily in paediatric patients aged 1 month to &lt;1 year and 3.1 mg/kg twice daily in patients aged 1 to &lt;18 years with a maximum dose of 200 mg twice daily. The target maintenance dose of enalapril was 0.15 mg/kg twice daily in paediatric patients aged 1 month to &lt;1 year and 0.2 mg/kg twice daily in patients aged 1 to &lt;18 years with a maximum dose of 10 mg twice daily.
 
 In the study, 9 patients were aged 1 month to &lt;1 year, 61 patients were aged 1 year to &lt;2 years, 85 patients were aged 2 to &lt;6 years and 220 patients were aged 6 to &lt;18 years. At baseline, 15.7% of patients were NYHA/ROSS class I, 69.3% were class II, 14.4% were class III and 0.5% were class IV. The mean LVEF was 32%. The most common underlying causes of heart failure were cardiomyopathy related (63.5%). Prior to study participation, patients were treated most commonly with ACE inhibitors/ARBs (93%), beta-blockers (70%), aldosterone antagonists (70%), and diuretics (84%).
 
@@ -503,11 +513,15 @@ The Mann-Whitney Odds of the global rank primary endpoint was 0.907 (95% CI 0.72
 | Global rank primary endpoint | Probability of favourable outcome (%)* | Probability of favourable outcome (%)* | Odds** (95% CI)    |
 | Global rank primary endpoint | 52.4                                   | 47.6                                   | 0.907 (0.72, 1.14) |
 
-<div style=\"page-break-after: always\"></div>
+*The probability of favourable outcome or Mann-Whitney probability (MWP) for the given treatment was estimated based on percentage of wins in pairwise comparisons of global rank score between sacubitril/valsartan-treated patients versus enalapril-treated patients (each higher score counts as one win and each equal score counts as half a win).
+
+**Mann-Whitney Odds was calculated as the estimated MWP for enalapril divided by the estimated MWP for sacubitril/valsartan, with odds &lt;1 in favour of sacubitril/valsartan and &gt;1 in favour of enalapril.
 
 ## 5.2 Pharmacokinetic properties
 
 The valsartan contained within sacubitril/valsartan is more bioavailable than the valsartan in other marketed tablet formulations; 26 mg, 51 mg, and 103 mg of valsartan in sacubitril/valsartan is equivalent to 40 mg, 80 mg and 160 mg of valsartan in other marketed tablet formulations, respectively.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Adult population
 
@@ -539,8 +553,6 @@ Sacubitril, LBQ657 and valsartan are eliminated from plasma with a mean eliminat
 
 The pharmacokinetics of sacubitril, LBQ657 and valsartan were approximately linear over a sacubitril/valsartan dose range of 24 mg sacubitril/26 mg valsartan to 97 mg sacubitril/103 mg valsartan.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Special populations
 
 ## Elderly
@@ -549,7 +561,11 @@ LBQ657 and valsartan exposure are increased in subjects over 65 years of age by 
 
 ## Renal impairment
 
-A correlation was observed between renal function and systemic exposure to LBQ657 in patients with mild to severe renal impairment. The exposure of LBQ657 in patients with moderate (30 ml/min/1.73 m 2 ≤ eGFR &lt;60 ml/min/1.73 m 2 ) and severe renal impairment (15 ml/min/1.73 m 2 ≤ eGFR &lt;30 ml/min/1.73 m 2 ) was 1.4-fold and 2.2-fold higher compared to patients with mild renal impairment (60 ml/min/1.73 m 2 ≤ eGFR &lt;90 ml/min/1.73 m 2 ), the largest group of patients enrolled in PARADIGM-HF. The exposure of valsartan was similar in patients with moderate and severe renal impairment compared to patients with mild renal impairment. No studies have been performed in patients undergoing dialysis. However, LBQ657 and valsartan are highly bound to plasma protein and therefore unlikely to be effectively removed by dialysis.
+A correlation was observed between renal function and systemic exposure to LBQ657 in patients with mild to severe renal impairment. The exposure of LBQ657 in patients with moderate (30 ml/min/1.73 m 2 ≤ eGFR &lt;60 ml/min/1.73 m 2 ) and severe renal impairment (15 ml/min/1.73 m 2 ≤
+
+<div style=\"page-break-after: always\"></div>
+
+eGFR &lt;30 ml/min/1.73 m 2 ) was 1.4-fold and 2.2-fold higher compared to patients with mild renal impairment (60 ml/min/1.73 m 2  ≤ eGFR &lt;90 ml/min/1.73 m 2 ), the largest group of patients enrolled in PARADIGM-HF. The exposure of valsartan was similar in patients with moderate and severe renal impairment compared to patients with mild renal impairment. No studies have been performed in patients undergoing dialysis. However, LBQ657 and valsartan are highly bound to plasma protein and therefore unlikely to be effectively removed by dialysis.
 
 ## Hepatic impairment
 
@@ -571,9 +587,9 @@ Non-clinical data (including studies with sacubitril and valsartan components an
 
 Sacubitril/valsartan treatment during organogenesis resulted in increased embryofoetal lethality in rats at doses ≥49 mg sacubitril/51 mg valsartan/kg/day (≤0.72-fold the maximum recommended human dose [MRHD] on the basis of AUC) and rabbits at doses ≥4.9 mg sacubitril/5.1 mg valsartan/kg/day (2-fold and 0.03-fold the MRHD on the basis of valsartan and LBQ657 AUC, respectively). It is teratogenic based on a low incidence of foetal hydrocephaly, associated with maternally toxic doses, which was observed in rabbits at a sacubitril/valsartan dose of ≥4.9 mg sacubitril/5.1 mg valsartan/kg/day. Cardiovascular abnormalities (mainly cardiomegaly) were observed in rabbit foetuses at a maternally non-toxic dose (1.46 mg sacubitril/1.54 mg valsartan/kg/day). A slight increase in two foetal skeletal variations (misshapen sternebra, sternebra bipartite ossification) was observed in rabbits at a sacubitril/valsartan dose of 4.9 mg sacubitril/5.1 mg valsartan/kg/day. The adverse embryofoetal effects of sacubitril/valsartan are attributed to the angiotensin receptor antagonist activity (see section 4.6).
 
-<div style=\"page-break-after: always\"></div>
-
 Sacubitril treatment during organogenesis resulted in embryo-foetal lethality and embryo-foetal toxicity (decreased foetal body weights and skeletal malformations) in rabbits at doses associated with maternal toxicity (500 mg/kg/day; 5.7-fold the MRHD on the basis of LBQ657 AUC). A slight generalised delay in ossification was observed at doses of &gt;50 mg/kg/day. This finding is not considered adverse. No evidence of embryo-foetal toxicity or teratogenicity was observed in rats treated with sacubitril. The embryo-foetal no-observed adverse effect level (NOAEL) for sacubitril was at least 750 mg/kg/day in rats and 200 mg/kg/day in rabbits (2.2-fold the MRHD on the basis of LBQ657 AUC).
+
+<div style=\"page-break-after: always\"></div>
 
 Pre- and postnatal development studies in rats conducted with sacubitril at high doses up to 750 mg/kg/day (2.2-fold the MRHD on the basis of AUC) and valsartan at doses up to 600 mg/kg/day (0.86-fold the MRHD on the basis of AUC) indicate that treatment with sacubitril/valsartan during organogenesis, gestation and lactation may affect pup development and survival.
 
@@ -605,15 +621,21 @@ Microcrystalline cellulose Low-substituted hydroxypropylcellulose Crospovidone, 
 
 ## Entresto 24 mg/26 mg film-coated tablets
 
-Hypromellose, substitution type 2910 (3 mPa·s) Titanium dioxide (E171) Macrogol (4000) Talc Iron oxide red (E172) Iron oxide black (E172)
+Hypromellose, substitution type 2910 (3 mPa·s)
+
+Titanium dioxide (E171) Macrogol (4000) Talc Iron oxide red (E172) Iron oxide black (E172)
 
 ## Entresto 49 mg/51 mg film-coated tablets
 
-Hypromellose, substitution type 2910 (3 mPa·s) Titanium dioxide (E171) Macrogol (4000) Talc Iron oxide red (E172) Iron oxide yellow (E172)
+Hypromellose, substitution type 2910 (3 mPa·s)
+
+Titanium dioxide (E171) Macrogol (4000) Talc Iron oxide red (E172) Iron oxide yellow (E172)
 
 ## Entresto 97 mg/103 mg film-coated tablets
 
-Hypromellose, substitution type 2910 (3 mPa·s) Titanium dioxide (E171) Macrogol (4000) Talc Iron oxide red (E172) Iron oxide black (E172)
+Hypromellose, substitution type 2910 (3 mPa·s)
+
+Titanium dioxide (E171) Macrogol (4000) Talc Iron oxide red (E172) Iron oxide black (E172)
 
 ## 6.2 Incompatibilities
 
@@ -625,7 +647,9 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-This medicinal product does not require any special temperature storage conditions. Store in the original package in order to protect from moisture.
+This medicinal product does not require any special temperature storage conditions.
+
+Store in the original package in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -657,7 +681,7 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-Entresto 24 mg/26 mg film-coated tablets
+## Entresto 24 mg/26 mg film-coated tablets
 
 EU/1/15/1058/001
 
@@ -692,6 +716,8 @@ Date of latest renewal: 25 June 2020
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+22
 
 <div style=\"page-break-after: always\"></div>
 
@@ -774,13 +800,13 @@ For example, a paediatric patient weighing 25 kg who has not previously taken an
 
 Treatment should not be initiated in patients with serum potassium level &gt;5.3 mmol/l or with systolic blood pressure (SBP) &lt;5 th percentile for the age of the patient. If patients experience tolerability issues (SBP &lt;5 th percentile for the age of the patient, symptomatic hypotension, hyperkalaemia, renal dysfunction), adjustment of concomitant medicinal products, temporary down-titration or discontinuation of Entresto is recommended (see section 4.4).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Special populations
 
 ## Renal impairment
 
 No dose adjustment is required in patients with mild (eGFR 60-90 ml/min/1.73 m 2 ) renal impairment.
+
+<div style=\"page-break-after: always\"></div>
 
 Half of the starting dose should be considered in patients with moderate renal impairment (eGFR 30-60 ml/min/1.73 m 2 ). As there is very limited clinical experience in patients with severe renal impairment (eGFR &lt;30 ml/min/1.73 m 2 ) (see section 5.1), Entresto should be used with caution and half of the starting dose is recommended. In paediatric patients weighing 40 kg to less than 50 kg, a starting dose of 0.8 mg/kg twice daily is recommended. After initiation, the dose should be increased following the recommended dose titration every 2-4 weeks.
 
@@ -836,11 +862,13 @@ Evaluation of patients with heart failure should always include assessment of re
 
 Use of sacubitril/valsartan may be associated with decreased renal function. The risk may be further increased by dehydration or concomitant use of non-steroidal anti-inflammatory agents (NSAIDs) (see section 4.5). Down-titration should be considered in patients who develop a clinically significant decrease in renal function.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Hyperkalaemia
 
-Treatment should not be initiated if the serum potassium level is &gt;5.4 mmol/l in adult patients and &gt;5.3 mmol/l in paediatric patients. Use of sacubitril/valsartan may be associated with an increased risk of hyperkalaemia, although hypokalaemia may also occur (see section 4.8). Monitoring of serum potassium is recommended, especially in patients who have risk factors such as renal impairment, diabetes mellitus or hypoaldosteronism or who are on a high potassium diet or on mineralocorticoid antagonists (see section 4.2). If patients experience clinically significant hyperkalaemia adjustment of concomitant medicinal products, or temporary down-titration or discontinuation is recommended. If serum potassium level is &gt;5.4 mmol/l discontinuation should be considered.
+Treatment should not be initiated if the serum potassium level is &gt;5.4 mmol/l in adult patients and &gt;5.3 mmol/l in paediatric patients. Use of sacubitril/valsartan may be associated with an increased risk of hyperkalaemia, although hypokalaemia may also occur (see section 4.8). Monitoring of serum potassium is recommended, especially in patients who have risk factors such as renal impairment, diabetes mellitus or hypoaldosteronism or who are on a high potassium diet or on mineralocorticoid
+
+<div style=\"page-break-after: always\"></div>
+
+antagonists (see section 4.2). If patients experience clinically significant hyperkalaemia adjustment of concomitant medicinal products, or temporary down-titration or discontinuation is recommended. If serum potassium level is &gt;5.4 mmol/l discontinuation should be considered.
 
 ## Angioedema
 
@@ -866,11 +894,11 @@ Caution should be exercised when initiating sacubitril/valsartan in patients wit
 
 BNP is not a suitable biomarker of heart failure in patients treated with sacubitril/valsartan because it is a neprilysin substrate (see section 5.1).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Patients with hepatic impairment
 
 There is limited clinical experience in patients with moderate hepatic impairment (Child-Pugh B classification) or with AST/ALT values more than twice the upper limit of the normal range. In these patients, exposure may be increased and safety is not established. Caution is therefore recommended when using it in these patients (see section 4.2 and 5.2). Sacubitril/valsartan is contraindicated in patients with severe hepatic impairment, biliary cirrhosis or cholestasis (Child-Pugh C classification) (see section 4.3).
+
+<div style=\"page-break-after: always\"></div>
 
 ## Psychiatric disorders
 
@@ -902,15 +930,17 @@ Sacubitril/valsartan contains valsartan, and therefore should not be co-administ
 
 In vitro data indicate that sacubitril inhibits OATP1B1 and OATP1B3 transporters. Entresto may therefore increase the systemic exposure of OATP1B1 and OATP1B3 substrates such as statins. Co-administration of sacubitril/valsartan increased the Cmax of atorvastatin and its metabolites by up to 2-fold and AUC by up to 1.3-fold. Caution should be exercised when co-administering sacubitril/valsartan with statins. No clinically relevant interaction was observed when simvastatin and Entresto were co-administered.
 
-<div style=\"page-break-after: always\"></div>
-
 ## PDE5 inhibitors including sildenafil
 
 Addition of a single dose of sildenafil to sacubitril/valsartan at steady state in patients with hypertension was associated with a significantly greater blood pressure reduction compared to administration of sacubitril/valsartan alone. Therefore, caution should be exercised when sildenafil or another PDE5 inhibitor is initiated in patients treated with sacubitril/valsartan.
 
 ## Potassium
 
-Concomitant use of potassium-sparing diuretics (triamterene, amiloride), mineralocorticoid antagonists (e.g. spironolactone, eplerenone), potassium supplements, salt substitutes containing potassium or other agents (such as heparin) may lead to increases in serum potassium, and to increases in serum creatinine. Monitoring of serum potassium is recommended if sacubitril/valsartan is co-administered with these agents (see section 4.4).
+Concomitant use of potassium-sparing diuretics (triamterene, amiloride), mineralocorticoid antagonists (e.g. spironolactone, eplerenone), potassium supplements, salt substitutes containing potassium or other agents (such as heparin) may lead to increases in serum potassium, and to increases
+
+<div style=\"page-break-after: always\"></div>
+
+in serum creatinine. Monitoring of serum potassium is recommended if sacubitril/valsartan is co-administered with these agents (see section 4.4).
 
 ## Non-steroidal anti-inflammatory agents (NSAIDs), including selective cyclooxygenase-2 (COX-2) inhibitors
 
@@ -936,11 +966,11 @@ The active metabolite of sacubitril (LBQ657) and valsartan are OATP1B1, OATP1B3,
 
 Co-administration of sacubitril/valsartan with metformin reduced both Cmax and AUC of metformin by 23%. The clinical relevance of these findings is unknown. Therefore, when initiating therapy with sacubitril/valsartan in patients receiving metformin, the clinical status of the patient should be evaluated.
 
-<div style=\"page-break-after: always\"></div>
-
 ## No significant interaction
 
 No clinically meaningful interaction was observed when sacubitril/valsartan was co-administered with digoxin, warfarin, hydrochlorothiazide, amlodipine, omeprazole, carvedilol or a combination of levonorgestrel/ethinyl estradiol.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -1133,13 +1163,15 @@ TITRATION was a 12-week safety and tolerability study in 538 patients with chron
 
 More patients who were naïve to previous ACE inhibitor or ARB therapy or on low-dose therapy (equivalent to &lt;10 mg enalapril/day) were able to achieve and maintain sacubitril/valsartan 200 mg when up-titrated over 6 weeks (84.8%) versus 3 weeks (73.6%). Overall, 76% of patients achieved and maintained the target dose of sacubitril/valsartan 200 mg twice daily without any dose interruption or down-titration over 12 weeks.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Paediatric population
 
 ## PANORAMA-HF
 
-PANORAMA-HF, a phase 3 study, was a multinational, randomised, double-blind study comparing sacubitril/valsartan and enalapril in 375 paediatric patients aged 1 month to &lt;18 years with heart failure due to systemic left ventricular systolic dysfunction (LVEF ≤45% or fractional shortening ≤22.5%). The primary objective was to determine whether sacubitril/valsartan was superior to enalapril in paediatric HF patients over a 52-week treatment duration based on a global rank endpoint. The global rank primary endpoint was derived by ranking patients (worst-to-best outcome) based on clinical events such as death, initiation of mechanical life support, listing for urgent heart transplant, worsening HF, measures of functional capacity (NYHA/ROSS scores), and patient-reported HF symptoms (Patient Global Impression Scale [PGIS]). Patients with systemic right ventricles or single ventricles and patients with restrictive or hypertrophic cardiomyopathy were excluded from the study. The target maintenance dose of sacubitril/valsartan was 2.3 mg/kg twice daily in paediatric patients aged 1 month to &lt;1 year and 3.1 mg/kg twice daily in patients aged 1 to &lt;18 years with a maximum dose of 200 mg twice daily. The target maintenance dose of enalapril was 0.15 mg/kg twice daily in paediatric patients aged 1 month to &lt;1 year and 0.2 mg/kg twice daily in patients aged 1 to &lt;18 years with a maximum dose of 10 mg twice daily.
+PANORAMA-HF, a phase 3 study, was a multinational, randomised, double-blind study comparing sacubitril/valsartan and enalapril in 375 paediatric patients aged 1 month to &lt;18 years with heart failure due to systemic left ventricular systolic dysfunction (LVEF ≤45% or fractional shortening
+
+<div style=\"page-break-after: always\"></div>
+
+≤22.5%). The primary objective was to determine whether sacubitril/valsartan was superior to enalapril in paediatric HF patients over a 52-week treatment duration based on a global rank endpoint. The global rank primary endpoint was derived by ranking patients (worst-to-best outcome) based on clinical events such as death, initiation of mechanical life support, listing for urgent heart transplant, worsening HF, measures of functional capacity (NYHA/ROSS scores), and patient-reported HF symptoms (Patient Global Impression Scale [PGIS]). Patients with systemic right ventricles or single ventricles and patients with restrictive or hypertrophic cardiomyopathy were excluded from the study. The target maintenance dose of sacubitril/valsartan was 2.3 mg/kg twice daily in paediatric patients aged 1 month to &lt;1 year and 3.1 mg/kg twice daily in patients aged 1 to &lt;18 years with a maximum dose of 200 mg twice daily. The target maintenance dose of enalapril was 0.15 mg/kg twice daily in paediatric patients aged 1 month to &lt;1 year and 0.2 mg/kg twice daily in patients aged 1 to &lt;18 years with a maximum dose of 10 mg twice daily.
 
 In the study, 9 patients were aged 1 month to &lt;1 year, 61 patients were aged 1 year to &lt;2 years, 85 patients were aged 2 to &lt;6 years and 220 patients were aged 6 to &lt;18 years. At baseline, 15.7% of patients were NYHA/ROSS class I, 69.3% were class II, 14.4% were class III and 0.5% were class IV. The mean LVEF was 32%. The most common underlying causes of heart failure were cardiomyopathy related (63.5%). Prior to study participation, patients were treated most commonly with ACE inhibitors/ARBs (93%), beta-blockers (70%), aldosterone antagonists (70%), and diuretics (84%).
 
@@ -1152,11 +1184,15 @@ The Mann-Whitney Odds of the global rank primary endpoint was 0.907 (95% CI 0.72
 | Global rank primary endpoint | Probability of favourable outcome (%)* | Probability of favourable outcome (%)* | Odds** (95% CI)    |
 | Global rank primary endpoint | 52.4                                   | 47.6                                   | 0.907 (0.72, 1.14) |
 
-<div style=\"page-break-after: always\"></div>
+*The probability of favourable outcome or Mann-Whitney probability (MWP) for the given treatment was estimated based on percentage of wins in pairwise comparisons of global rank score between sacubitril/valsartan-treated patients versus enalapril-treated patients (each higher score counts as one win and each equal score counts as half a win).
+
+**Mann-Whitney Odds was calculated as the estimated MWP for enalapril divided by the estimated MWP for sacubitril/valsartan, with odds &lt;1 in favour of sacubitril/valsartan and &gt;1 in favour of enalapril.
 
 ## 5.2 Pharmacokinetic properties
 
 The valsartan contained within sacubitril/valsartan is more bioavailable than the valsartan in other marketed tablet formulations; 26 mg, 51 mg, and 103 mg of valsartan in sacubitril/valsartan is equivalent to 40 mg, 80 mg and 160 mg of valsartan in other marketed tablet formulations, respectively.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -1188,17 +1224,17 @@ Following oral administration, 52-68% of sacubitril (primarily as LBQ657) and ~1
 
 Sacubitril, LBQ657 and valsartan are eliminated from plasma with a mean elimination half-life (T½) of approximately 1.43 hours, 11.48 hours, and 9.90 hours, respectively.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Linearity/non-linearity
 
 The pharmacokinetics of sacubitril, LBQ657 and valsartan were approximately linear over a sacubitril/valsartan dose range of 24 mg sacubitril/26 mg valsartan to 97 mg sacubitril/103 mg valsartan.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Special populations
 
 ## Renal impairment
 
-A correlation was observed between renal function and systemic exposure to LBQ657 in patients with mild to severe renal impairment. The exposure of LBQ657 in patients with moderate (30 ml/min/1.73 m 2 ≤ eGFR &lt;60 ml/min/1.73 m 2 ) and severe renal impairment (15 ml/min/1.73 m 2 ≤ eGFR &lt;30 ml/min/1.73 m 2 ) was 1.4-fold and 2.2-fold higher compared to patients with mild renal impairment (60 ml/min/1.73 m 2 ≤ eGFR &lt;90 ml/min/1.73 m 2 ), the largest group of patients enrolled in PARADIGM-HF. The exposure of valsartan was similar in patients with moderate and severe renal impairment compared to patients with mild renal impairment. No studies have been performed in patients undergoing dialysis. However, LBQ657 and valsartan are highly bound to plasma protein and therefore unlikely to be effectively removed by dialysis.
+A correlation was observed between renal function and systemic exposure to LBQ657 in patients with mild to severe renal impairment. The exposure of LBQ657 in patients with moderate (30 ml/min/1.73 m 2 ≤ eGFR &lt;60 ml/min/1.73 m 2 ) and severe renal impairment (15 ml/min/1.73 m 2 ≤ eGFR &lt;30 ml/min/1.73 m 2 ) was 1.4-fold and 2.2-fold higher compared to patients with mild renal impairment (60 ml/min/1.73 m 2  ≤ eGFR &lt;90 ml/min/1.73 m 2 ), the largest group of patients enrolled in PARADIGM-HF. The exposure of valsartan was similar in patients with moderate and severe renal impairment compared to patients with mild renal impairment. No studies have been performed in patients undergoing dialysis. However, LBQ657 and valsartan are highly bound to plasma protein and therefore unlikely to be effectively removed by dialysis.
 
 ## Hepatic impairment
 
@@ -1216,9 +1252,9 @@ Non-clinical data (including studies with sacubitril and valsartan components an
 
 Sacubitril/valsartan treatment during organogenesis resulted in increased embryofoetal lethality in rats at doses ≥49 mg sacubitril/51 mg valsartan/kg/day (≤0.72-fold the maximum recommended human dose [MRHD] on the basis of AUC) and rabbits at doses ≥4.9 mg sacubitril/5.1 mg valsartan/kg/day (2-fold and 0.03-fold the MRHD on the basis of valsartan and LBQ657 AUC, respectively). It is teratogenic based on a low incidence of foetal hydrocephaly, associated with maternally toxic doses, which was observed in rabbits at a sacubitril/valsartan dose of ≥4.9 mg sacubitril/5.1 mg valsartan/kg/day. Cardiovascular abnormalities (mainly cardiomegaly) were observed in rabbit foetuses at a maternally non-toxic dose (1.46 mg sacubitril/1.54 mg valsartan/kg/day). A slight increase in two foetal skeletal variations (misshapen sternebra, sternebra bipartite ossification) was observed in rabbits at a sacubitril/valsartan dose of 4.9 mg sacubitril/5.1 mg valsartan/kg/day. The adverse embryofoetal effects of sacubitril/valsartan are attributed to the angiotensin receptor antagonist activity (see section 4.6).
 
-<div style=\"page-break-after: always\"></div>
-
 Sacubitril treatment during organogenesis resulted in embryo-foetal lethality and embryo-foetal toxicity (decreased foetal body weights and skeletal malformations) in rabbits at doses associated with maternal toxicity (500 mg/kg/day; 5.7-fold the MRHD on the basis of LBQ657 AUC). A slight generalised delay in ossification was observed at doses of &gt;50 mg/kg/day. This finding is not considered adverse. No evidence of embryo-foetal toxicity or teratogenicity was observed in rats treated with sacubitril. The embryo-foetal no-observed adverse effect level (NOAEL) for sacubitril was at least 750 mg/kg/day in rats and 200 mg/kg/day in rabbits (2.2-fold the MRHD on the basis of LBQ657 AUC).
+
+<div style=\"page-break-after: always\"></div>
 
 Pre- and postnatal development studies in rats conducted with sacubitril at high doses up to 750 mg/kg/day (2.2-fold the MRHD on the basis of AUC) and valsartan at doses up to 600 mg/kg/day (0.86-fold the MRHD on the basis of AUC) indicate that treatment with sacubitril/valsartan during organogenesis, gestation and lactation may affect pup development and survival.
 
@@ -1236,8 +1272,6 @@ In juvenile rats treated with sacubitril (postnatal days 7 to 70), there was a r
 
 In juvenile rats treated with valsartan (postnatal days 7 to 70), doses as low as 1 mg/kg/day produced persistent irreversible kidney changes consisting of tubular nephropathy (sometimes accompanied by tubular epithelial necrosis) and pelvic dilatation. These kidney changes represent an expected exaggerated pharmacological effect of angiotensin converting enzyme inhibitors and angiotensin II type 1 blockers; such effects are observed if rats are treated during the first 13 days of life. This period coincides with 36 weeks of gestation in humans, which could occasionally extend up to 44 weeks after conception in humans. Functional renal maturation is an ongoing process within the first year of life in humans. Consequently, a clinical relevance in paediatric patients less than 1 year of age cannot be excluded, while preclinical data do not indicate a safety concern for paediatric patients older than 1 year.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
@@ -1245,6 +1279,8 @@ In juvenile rats treated with valsartan (postnatal days 7 to 70), doses as low a
 ## Granule core
 
 Microcrystalline cellulose Hydroxypropylcellulose Magnesium stearate Silica colloidal anhydrous Talc
+
+<div style=\"page-break-after: always\"></div>
 
 ## Film coat
 
@@ -1256,7 +1292,7 @@ Entresto 6 mg/6 mg granules in capsules for opening Hypromellose Titanium dioxid
 
 Entresto 15 mg/16 mg granules in capsules for opening Hypromellose Titanium dioxide (E171) Iron oxide, yellow (E172)
 
-## Printing ink
+Printing ink
 
 Shellac Propylene glycol Iron oxide, red (E172) Ammonia solution (concentrated) Potassium hydroxide
 
@@ -1271,8 +1307,6 @@ Not applicable.
 ## 6.4 Special precautions for storage
 
 This medicinal product does not require any special temperature storage conditions. Store in the original package in order to protect from moisture.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.5 Nature and contents of container
 
@@ -1290,9 +1324,13 @@ Pack size: 60 capsules
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
+<div style=\"page-break-after: always\"></div>
+
 Use in the paediatric population
 
-Patients and caregivers must be instructed to open the capsule(s) carefully to avoid spillage or dispersion of the capsule contents into the air. It is recommended to hold the capsule upright with the coloured cap on top and to pull the cap away from the body of the capsule.
+Patients and caregivers must be instructed to open the capsule(s) carefully to avoid spillage or dispersion of the capsule contents into the air. It is recommended to hold the capsule upright with the
+
+coloured cap on top and to pull the cap away from the body of the capsule.
 
 The contents of the capsule must be sprinkled onto 1 to 2 teaspoons of soft food in a small container.
 
@@ -1300,11 +1338,23 @@ Food containing the granules must be consumed immediately.
 
 The empty capsule shells must be discarded immediately.
 
-## 7. MARKETING AUTHORISATION HOLDER
+7.
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+MARKETING AUTHORISATION HOLDER
 
-## 8. MARKETING AUTHORISATION NUMBER(S)
+Novartis Europharm Limited
+
+Vista Building
+
+Elm Park, Merrion Road
+
+Dublin 4
+
+Ireland
+
+8.
+
+MARKETING AUTHORISATION NUMBER(S)
 
 Entresto 6 mg/6 mg granules in capsules for opening
 
@@ -1314,17 +1364,23 @@ Entresto 15 mg/16 mg granules in capsules for opening
 
 EU/1/15/1058/024
 
-<div style=\"page-break-after: always\"></div>
+9.
 
-## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 19 November 2015
 
 Date of latest renewal: 25 June 2020
 
-## 10. DATE OF REVISION OF THE TEXT
+10.
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+DATE OF REVISION OF THE TEXT
+
+Detailed information on this medicinal product is available on the website of the European Medicines
+
+Agency https://www.ema.europa.eu.
+
+41
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1345,31 +1401,25 @@ Film-coated tablets Novartis Pharmaceutical Manufacturing LLC Verovskova Ulica 5
 
 Novartis Farma S.p.A Via Provinciale Schito 131 80058 Torre Annunziata (NA) Italy
 
-Novartis Pharma GmbH Roonstrasse 25 90429 Nuremberg Germany
-
 LEK farmacevtska družba d. d., Poslovna enota PROIZVODNJA LENDAVA Trimlini 2D Lendava 9220 Slovenia
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
-## Granules in capsules for opening
-
-Lek farmacevtska družba d.d. Verovskova Ulica 57 1526 Ljubljana Slovenia
+Granules in capsules for opening Lek farmacevtska družba d.d. Verovskova Ulica 57 1526 Ljubljana Slovenia
 
 Novartis Pharmaceutical Manufacturing LLC Verovskova Ulica 57 1000 Ljubljana Slovenia
-
-Novartis Pharma GmbH Roonstrasse 25 90429 Nuremberg Germany
 
 Novartis Farmaceutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
-
-<div style=\"page-break-after: always\"></div>
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
 Medicinal product subject to medical prescription.
+
+<div style=\"page-break-after: always\"></div>
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
@@ -1530,7 +1580,9 @@ Multipack: 196 (7 packs of 28) film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use
+Read the package leaflet before use.
+
+Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1608,7 +1660,9 @@ Film-coated tablet
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. Oral use
+Read the package leaflet before use.
+
+Oral use
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -1626,8 +1680,7 @@ Store in the original package in order to protect from moisture.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1637,11 +1690,14 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 EU/1/15/1058/017
 
+196 film-coated tablets (7 packs of 28)
+
 ## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
@@ -1652,21 +1708,19 @@ Entresto 24 mg/26 mg film-coated tablets, abbreviated form accepted, if required
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-196 film-coated tablets (7 packs of 28)
-
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTERS                                              |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTERS                                             |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Entresto 24 mg/26 mg tablets sacubitril/valsartan
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Novartis Europharm Limited
 
@@ -1790,8 +1844,8 @@ Entresto 49 mg/51 mg film-coated tablets, abbreviated form accepted, if required
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
@@ -1871,7 +1925,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1968,17 +2022,17 @@ Entresto 49 mg/51 mg film-coated tablets, abbreviated form accepted, if required
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTERS                                              |
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
+| BLISTERS                                             |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Entresto 49 mg/51 mg tablets sacubitril/valsartan
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Novartis Europharm Limited
 
@@ -2102,8 +2156,8 @@ Entresto 97 mg/103 mg film-coated tablets, abbreviated form accepted, if require
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC SN NN
 
@@ -2250,7 +2304,15 @@ Store in the original package in order to protect from moisture.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Ireland
+Novartis Europharm Limited
+
+Vista Building
+
+Elm Park, Merrion Road
+
+Dublin 4
+
+Ireland
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -2274,27 +2336,23 @@ Lot
 
 Entresto 97 mg/103 mg film-coated tablets, abbreviated form accepted, if required for technical reasons
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
-18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTERS                                              |
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTERS
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Entresto 97 mg/103 mg tablets sacubitril/valsartan
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Novartis Europharm Limited
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
@@ -2368,7 +2426,7 @@ EU/1/15/1058/023
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
@@ -2390,22 +2448,17 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS   |
-|-------------------------------------------------------|
-| BLISTERS                                              |
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS BLISTERS
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Entresto 6 mg/6 mg granules in capsule sacubitril/valsartan
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Novartis Europharm Limited
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3. EXPIRY DATE
 
 EXP
 
@@ -2414,8 +2467,7 @@ EXP
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
 
 Do not swallow capsules.
 
@@ -2481,11 +2533,11 @@ EU/1/15/1058/024
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
+## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Entresto 15 mg/16 mg granules
 
@@ -2568,10 +2620,10 @@ This type of heart failure occurs when the heart is weak and cannot pump enough 
 - if you have ever had a reaction called angioedema (rapid swelling under the skin in areas such as the face, throat, arms and legs which can be life threatening if throat swelling blocks the airway) when taking an ACE inhibitor or an angiotensin receptor blocker (ARB) (such as valsartan, telmisartan or irbesartan).
 - if you have a history of angioedema which is hereditary or for which the cause is unknown (idiopathic).
 - if you have diabetes or impaired kidney function and you are being treated with a blood pressure lowering medicine containing aliskiren (see 'Other medicines and Entresto').
-- if you have severe liver disease.
 
 <div style=\"page-break-after: always\"></div>
 
+- if you have severe liver disease.
 - if you are more than 3 months pregnant (see 'Pregnancy and breast-feeding').
 
 If any of the above applies to you, do not take Entresto and talk to your doctor.
@@ -2609,10 +2661,10 @@ Tell your doctor, pharmacist or nurse if you are taking, have recently taken or 
 - some medicines known as statins that are used to lower high cholesterol levels (for example atorvastatin).
 - sildenafil, tadalafil, vardenafil or avanafil, which are medicines used to treat erectile dysfunction or lung hypertension.
 - medicines that increase the amount of potassium in the blood. These include potassium supplements, salt substitutes containing potassium, potassium-sparing medicines and heparin.
-- painkillers of the type called non-steroidal anti-inflammatory medicines (NSAIDs) or selective cyclooxygenase-2 (Cox-2) inhibitors. If you are taking one of these, your doctor may want to check your kidney function when starting or adjusting treatment (see 'Warnings and precautions').
 
 <div style=\"page-break-after: always\"></div>
 
+- painkillers of the type called non-steroidal anti-inflammatory medicines (NSAIDs) or selective cyclooxygenase-2 (Cox-2) inhibitors. If you are taking one of these, your doctor may want to check your kidney function when starting or adjusting treatment (see 'Warnings and precautions').
 - lithium, a medicine used to treat some types of psychiatric illness.
 - furosemide, a medicine belonging to the type known as diuretics, which are used to increase the amount of urine you produce.
 - nitroglycerine, a medicine used to treat angina pectoris.
@@ -2653,11 +2705,11 @@ You will usually start by taking a 24 mg/26 mg or 49 mg/51 mg tablet twice a day
 
 The usual recommended target dose is 97 mg/103 mg twice a day (one tablet in the morning and one tablet in the evening).
 
+<div style=\"page-break-after: always\"></div>
+
 ## Children and adolescents (one year and older)
 
 Your (or your child's) doctor will decide the starting dose based on body weight and other factors including previously taken medicines. The doctor will adjust the dose every 2-4 weeks until the best dose is found.
-
-<div style=\"page-break-after: always\"></div>
 
 Entresto should be given twice a day (one tablet in the morning and one tablet in the evening).
 
@@ -2699,6 +2751,8 @@ If any of the side effects listed below becomes severe, tell your doctor or phar
 - high level of potassium in the blood, shown in a blood test (hyperkalaemia)
 - decreased kidney function (renal impairment)
 
+<div style=\"page-break-after: always\"></div>
+
 ## Common (may affect up to 1 in 10 people)
 
 - cough
@@ -2709,9 +2763,6 @@ If any of the side effects listed below becomes severe, tell your doctor or phar
 - (acute) inability of the kidney to work properly (renal failure)
 - low level of potassium in the blood, shown in a blood test (hypokalaemia)
 - headache
-
-<div style=\"page-break-after: always\"></div>
-
 - fainting (syncope)
 - weakness (asthenia)
 - feeling sick (nausea)
@@ -2758,6 +2809,8 @@ Do not use this medicine if you notice that the pack is damaged or shows signs o
 
 Do not throw away any medicines via wastewater. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6. Contents of the pack and other information
 
 ## What Entresto contains
@@ -2766,16 +2819,15 @@ Do not throw away any medicines via wastewater. Ask your pharmacist how to throw
 - o Each 24 mg/26 mg film-coated tablet contains 24.3 mg sacubitril and 25.7 mg valsartan (as sacubitril valsartan sodium salt complex).
 - o Each 49 mg/51 mg film-coated tablet contains 48.6 mg sacubitril and 51.4 mg valsartan (as sacubitril valsartan sodium salt complex).
 - o Each 97 mg/103 mg film-coated tablet contains 97.2 mg sacubitril and 102.8 mg valsartan (as sacubitril valsartan sodium salt complex).
-
-<div style=\"page-break-after: always\"></div>
-
 - The other ingredients in the tablet core are microcrystalline cellulose, low-substituted hydroxypropylcellulose, crospovidone, magnesium stearate, talc and silica colloidal anhydrous (see end of section 2 under 'Entresto contains sodium').
 - The 24 mg/26 mg and the 97 mg/103 mg tablet coatings contain hypromellose, titanium dioxide (E171), Macrogol (4000), talc, iron oxide red (E172) and iron oxide black (E172).
 - The 49 mg/51 mg tablet coating contains hypromellose, titanium dioxide (E171), Macrogol (4000), talc, iron oxide red (E172) and iron oxide yellow (E172).
 
 ## What Entresto looks like and contents of the pack
 
-Entresto 24 mg/26 mg film-coated tablets are violet-white oval tablets with 'NVR' on one side and 'LZ' on the other side. Approximate tablet dimensions 13.1 mm x 5.2 mm. Entresto 49 mg/51 mg film-coated tablets are pale yellow oval tablets with 'NVR' on one side and 'L1' on the other side. Approximate tablet dimensions 13.1 mm x 5.2 mm Entresto 97 mg/103 mg film-coated tablets are light pink oval tablets with 'NVR' on one side and 'L11' on the other side. Approximate tablet dimensions 15.1 mm x 6.0 mm.
+Entresto 24 mg/26 mg film-coated tablets are violet-white oval tablets with 'NVR' on one side and 'LZ' on the other side. Approximate tablet dimensions 13.1 mm x 5.2 mm. Entresto 49 mg/51 mg film-coated tablets are pale yellow oval tablets with 'NVR' on one side and 'L1' on the other side. Approximate tablet dimensions 13.1 mm x 5.2 mm Entresto 97 mg/103 mg film-coated tablets are light pink oval tablets with 'NVR' on one side and
+
+'L11' on the other side. Approximate tablet dimensions 15.1 mm x 6.0 mm.
 
 The tablets are supplied in packs containing 14, 20, 28, 56, 168 or 196 tablets and in multipacks comprising 7 cartons, each containing 28 tablets. The 49 mg/51 mg and 97 mg/103 mg tablets are also supplied in multipacks comprising 3 cartons, each containing 56 tablets.
 
@@ -2791,13 +2843,13 @@ Novartis Pharmaceutical Manufacturing LLC Verovskova Ulica 57 1000 Ljubljana Slo
 
 Novartis Farma S.p.A Via Provinciale Schito 131 80058 Torre Annunziata (NA) Italy
 
-Novartis Pharma GmbH Roonstrasse 25 90429 Nuremberg Germany
+## LEK farmacevtska družba d. d., Poslovna enota PROIZVODNJA LENDAVA
 
-LEK farmacevtska družba d. d., Poslovna enota PROIZVODNJA LENDAVA Trimlini 2D Lendava, 9220 Slovenia
-
-Novartis Pharma GmbH Sophie-Germain-Straße 10 90443 Nürnberg Deutschland
+Trimlini 2D Lendava, 9220 Slovenia
 
 <div style=\"page-break-after: always\"></div>
+
+Novartis Pharma GmbH Sophie-Germain-Straße 10 90443 Nürnberg Deutschland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -2823,9 +2875,7 @@ Novartis Pharma GmbH Tel: +49 911 273 0
 
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal
-
-Tel: +372 66 30 810
+SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
 
 ## Ελλάδα
 
@@ -2849,13 +2899,7 @@ Novartis Ireland Limited Tel: +353 1 260 12 55
 
 ## Ísland
 
-Vistor hf.
-
-Sími: +354 535 7000
-
-## Italia
-
-Novartis Farma S.p.A. Tel: +39 02 96 54 1
+Vistor hf. Sími: +354 535 7000
 
 ## Lietuva
 
@@ -2905,11 +2949,13 @@ Novartis Pharma Services Inc. Tel: +386 1 300 75 50
 
 Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
 
-## Suomi/Finland
-
-Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
-
 <div style=\"page-break-after: always\"></div>
+
+## Italia
+
+Novartis Farma S.p.A.
+
+Tel: +39 02 96 54 1
 
 ## Κύπρος
 
@@ -2928,6 +2974,12 @@ Tel: +371 67 887 070
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+## Suomi/Finland
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
 
 ## Sverige
 
@@ -2976,11 +3028,13 @@ This type of heart failure occurs when the heart is weak and cannot pump enough 
 - if you (or your child) have ever had a reaction called angioedema (rapid swelling under the skin in areas such as the face, throat, arms and legs which can be life threatening if throat swelling blocks the airway) when taking an ACE inhibitor or an angiotensin receptor blocker (ARB) (such as valsartan, telmisartan or irbesartan).
 - if you (or your child) have a history of angioedema which is hereditary or for which the cause is unknown (idiopathic).
 - if you (or your child) have diabetes or impaired kidney function and you are being treated with a blood pressure lowering medicine containing aliskiren (see 'Other medicines and Entresto').
-- if you (or your child) have severe liver disease.
 
 <div style=\"page-break-after: always\"></div>
 
-- if you (or your child) are more than 3 months pregnant (see 'Pregnancy and breast-feeding'). If any of the above applies to you, do not take Entresto and talk to your doctor.
+- if you (or your child) have severe liver disease.
+- if you (or your child) are more than 3 months pregnant (see 'Pregnancy and breast-feeding').
+
+If any of the above applies to you, do not take Entresto and talk to your doctor.
 
 ## Warnings and precautions
 
@@ -3149,9 +3203,7 @@ This medicine does not require any special temperature storage conditions.
 
 Store in the original package in order to protect from moisture.
 
-Do not use this medicine if you notice that the pack is damaged or shows signs of tampering.
-
-Do not throw away any medicines via wastewater. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+Do not use this medicine if you notice that the pack is damaged or shows signs of tampering. Do not throw away any medicines via wastewater. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
 
@@ -3183,41 +3235,57 @@ Lek farmacevtska družba d.d. Verovskova Ulica 57 1526 Ljubljana Slovenia
 
 Novartis Pharmaceutical Manufacturing LLC Verovskova Ulica 57 1000 Ljubljana Slovenia
 
-Novartis Pharma GmbH Roonstrasse 25 90429 Nuremberg Germany
-
 Novartis Farmaceutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
 Novartis Pharma GmbH Sophie-Germain-Straße 10 90443 Nürnberg Deutschland
 
-<div style=\"page-break-after: always\"></div>
-
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
+België/Belgique/Belgien
 
 Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+
+## Lietuva
+
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
 ## България
 
 Novartis Bulgaria EOOD Тел: +359 2 489 98 28
 
+## Luxembourg/Luxemburg
+
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
+
 ## Česká republika
 
-Novartis s.r.o. Tel: +420 225 775 111
+Novartis s.r.o.
+
+Tel: +420 225 775 111
+
+## Magyarország
+
+Novartis Hungária Kft.
+
+Tel.: +36 1 457 65 00
+
+<div style=\"page-break-after: always\"></div>
 
 ## Danmark
 
-Novartis Healthcare A/S Tlf.: +45 39 16 84 00
+Novartis Healthcare A/S
+
+Tlf.: +45 39 16 84 00
 
 ## Deutschland
 
-Novartis Pharma GmbH Tel: +49 911 273 0
+Novartis Pharma GmbH
+
+Tel: +49 911 273 0
 
 ## Eesti
 
-SIA Novartis Baltics Eesti filiaal
-
-Tel: +372 66 30 810
+SIA Novartis Baltics Eesti filiaal Tel: +372 66 30 810
 
 ## Ελλάδα
 
@@ -3225,11 +3293,15 @@ Novartis (Hellas) A.E.B.E. Τηλ: +30 210 281 17 12
 
 ## España
 
-Novartis Farmacéutica, S.A. Tel: +34 93 306 42 00
+Novartis Farmacéutica, S.A.
+
+Tel: +34 93 306 42 00
 
 ## France
 
-Novartis Pharma S.A.S. Tél: +33 1 55 47 66 00
+Novartis Pharma S.A.S.
+
+Tél: +33 1 55 47 66 00
 
 ## Hrvatska
 
@@ -3247,61 +3319,9 @@ Sími: +354 535 7000
 
 ## Italia
 
-Novartis Farma S.p.A. Tel: +39 02 96 54 1
+Novartis Farma S.p.A.
 
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
-
-## Luxembourg/Luxemburg
-
-Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
-
-## Magyarország
-
-Novartis Hungária Kft. Tel.: +36 1 457 65 00
-
-## Malta
-
-Novartis Pharma Services Inc. Tel: +356 2122 2872
-
-## Nederland
-
-Novartis Pharma B.V. Tel: +31 88 04 52 111
-
-## Norge
-
-Novartis Norge AS Tlf: +47 23 05 20 00
-
-## Österreich
-
-Novartis Pharma GmbH Tel: +43 1 86 6570
-
-## Polska
-
-Novartis Poland Sp. z o.o. Tel.: +48 22 375 4888
-
-## Portugal
-
-Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
-
-## România
-
-Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
-
-## Slovenija
-
-Novartis Pharma Services Inc. Tel: +386 1 300 75 50
-
-## Slovenská republika
-
-Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
-
-## Suomi/Finland
-
-Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
-
-<div style=\"page-break-after: always\"></div>
+Tel: +39 02 96 54 1
 
 ## Κύπρος
 
@@ -3320,6 +3340,56 @@ Tel: +371 67 887 070
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+
+## Malta
+
+Novartis Pharma Services Inc. Tel: +356 2122 2872
+
+## Nederland
+
+Novartis Pharma B.V.
+
+Tel: +31 88 04 52 111
+
+## Norge
+
+Novartis Norge AS
+
+Tlf: +47 23 05 20 00
+
+## Österreich
+
+Novartis Pharma GmbH Tel: +43 1 86 6570
+
+## Polska
+
+Novartis Poland Sp. z o.o.
+
+Tel.: +48 22 375 4888
+
+## Portugal
+
+Novartis Farma - Produtos Farmacêuticos, S.A. Tel: +351 21 000 8600
+
+## România
+
+Novartis Pharma Services Romania SRL Tel: +40 21 31299 01
+
+## Slovenija
+
+Novartis Pharma Services Inc. Tel: +386 1 300 75 50
+
+## Slovenská republika
+
+Novartis Slovakia s.r.o.
+
+Tel: +421 2 5542 5439
+
+## Suomi/Finland
+
+Novartis Finland Oy
+
+Puh/Tel: +358 (0)10 6133 200
 
 ## Sverige
 
@@ -3357,34 +3427,8 @@ If you use both strengths of Entresto granules, make sure you use the correct nu
 
 <!-- image -->
 
-| Step 4   | To open the capsule: • Hold the capsule upright (with the coloured cap on top) so that the granules are in the bottom of the capsule. • Hold the capsule over the soft food. • Gently pinch the middle of the capsule and pull slightly to separate the two ends of the capsule. Take care not to spill the contents.   |                |
-|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
-| Step 5   | • Empty all of the granules from the capsule onto the food. • Make sure that you do not miss any granules. Repeat steps 4 and 5 if you need more than reach the prescribed dose.                                                                                                                                        | one capsule to |
-| Step 6   | Feed the food with the granules to the child immediately, making sure your child eats all of it. Make sure your child does not chew the granules to avoid change of taste.                                                                                                                                              |                |
-| Step 7   | Throw away the empty shells of the capsule.                                                                                                                                                                                                                                                                             |                |
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for sacubitril / valsartan, the scientific conclusions of PRAC are as follows:
-
-In view of available data regarding excretion of sacubitril and valsartan in human breast milk from the literature, the PRAC considers that excretion of sacubitril in human breast milk is at least a reasonable possibility.
-
-In view of available data on myoclonus from the literature, spontaneous reports including some cases with a close temporal relationship and a positive de-challenge, the PRAC considers a causal relationship between sacubitril/valsartan and myoclonus is at least a reasonable possibility.
-
-The PRAC concluded that the product information of products containing sacubitril/valsartan should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the marketing authorisation(s)
-
-On the basis of the scientific conclusions for sacubitril / valsartan the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing sacubitril / valsartan is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.
+| Step 4   | To open the capsule: • Hold the capsule upright (with the coloured cap on top) so that the granules are in the bottom of the capsule. • Hold the capsule over the soft food. • Gently pinch the middle of the capsule and pull slightly to separate the two ends of the capsule. Take care not to spill the contents.   |
+|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Step 5   | • Empty all of the granules from the capsule onto the food. • Make sure that you do not miss any granules. Repeat steps 4 and 5 if you need more than one capsule to reach the prescribed dose.                                                                                                                         |
+| Step 6   | Feed the food with the granules to the child immediately, making sure your child eats all of it. Make sure your child does not chew the granules to avoid change of taste.                                                                                                                                              |
+| Step 7   | Throw away the empty shells of the capsule.                                                                                                                                                                                                                                                                             |

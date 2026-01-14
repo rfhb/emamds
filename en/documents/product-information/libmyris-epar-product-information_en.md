@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-12 11:02:22
+document_datetime: 2026-01-12 12:38:43
 document_pages: 208
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/libmyris-epar-product-information_en.pdf
 document_name: libmyris-epar-product-information_en.pdf
 version: success
-processing_time: 67.9235767
-conversion_datetime: 2025-12-23 06:35:53.055222
+processing_time: 75.2542875
+conversion_datetime: 2026-01-14 07:28:25.555247
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -315,8 +315,6 @@ Table 4: Libmyris dose for paediatric patients with Crohn's disease
 | < 40 kg          | • 40 mg at Week 0 and 20 mg at Week 2* In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: • 80 mg at Week 0 and 40 mg at Week 2 | -                                     |
 | ≥ 40 kg          | • 80 mg at Week 0 and 40 mg at Week 2 In case there is a need for a more rapid response to therapy with the awareness that the risk for adverse events may be higher with use of the higher induction dose, the following dose may be used: • 160 mg at Week 0 and 80 mg at Week 2 | 40 mg every other week                |
 
-* Libmyris is only available as 40 mg pre-filled syringe, 40 mg pre-filled pen, 80 mg pre-filled syringe and 80 mg pre-filled pen. Thus, it is not possible to administer Libmyris to patients that require less than a full 40 mg dose.
-
 Patients who experience insufficient response may benefit from an increase in dose:
 
 - &lt; 40 kg: 20 mg every week
@@ -336,8 +334,6 @@ Table 5: Libmyris dose for paediatric patients with ulcerative colitis
 |------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
 | < 40 kg          | • 80 mg at Week 0 (given as two 40 mg injections in one day) and • 40 mg at Week 2 (given as one 40 mg injection)                                                                        | • 40 mg every other week               |
 | ≥ 40 kg          | • 160 mg at Week 0 (given as four 40 mg injections in one day or two 40 mg injections per day for two consecutive days) and • 80 mg at Week 2 (given as two 40 mg injections in one day) | • 80 mg every other week               |
-
-* Paediatric patients who turn 18 years of age while on Libmyris should continue their prescribed maintenance dose.
 
 Continued therapy beyond 8 weeks should be carefully considered in patients not showing signs of response within this time period.
 
@@ -877,14 +873,6 @@ Table 10: Radiographic mean changes over 12 months in RA study III
 | Erosion score     |              1.6 |                                     0   | 1.6 (0.9, 2.2)                                             | < 0.001   |
 | JSN d score       |              1   |                                     0.1 | 0.9 (0.3, 1.4)                                             | 0.002     |
 
-a methotrexate
-
-b 95% confidence intervals for the differences in change scores between methotrexate and adalimumab
-
-c Based on rank analysis
-
-d Joint Space Narrowing
-
 In RA study V, structural joint damage was assessed radiographically and expressed as change in modified Total Sharp Score (see Table 11).
 
 Table 11: Radiographic mean changes at Week 52 in RA study V
@@ -987,18 +975,6 @@ Table 13: Efficacy response in placebo-controlled study nr-axSpA I
 | SPARCC h MRI Sacroiliac Joints d,i | -0.6           | -3.2**            |
 | SPARCC MRI Spine d,j               | -0.2           | -1.8**            |
 
-a Assessment of SpondyloArthritis international Society
-
-b Bath Ankylosing Spondylitis Disease Activity Index
-
-c Ankylosing Spondylitis Disease Activity Score
-
-d  mean change from baseline
-
-e  n=91 placebo and n=87 adalimumab
-
-f high sensitivity C-Reactive Protein (mg/L)
-
 <div style=\"page-break-after: always\"></div>
 
 g  n=73 placebo and n=70 adalimumab h Spondyloarthritis Research Consortium of Canada i  n=84 placebo and adalimumab j  n=82 placebo and n=85 adalimumab ***, **, * Statistically significant at p &lt; 0.001, &lt; 0.01, and &lt; 0.05, respectively, for all comparisons between adalimumab and placebo.
@@ -1043,16 +1019,6 @@ Table 14: Efficacy response in placebo-controlled period for study nr-axSpA II
 | ASDAS c Inactive Disease           | 33.3%           | 57.2%***           |
 | Partial Flare d                    | 64.1%           | 40.8%***           |
 
-a Assessment of SpondyloArthritis international Society
-
-b Baseline is defined as open label baseline when patients have active disease.
-
-c Ankylosing Spondylitis Disease Activity Score
-
-d Partial flare is defined as ASDAS ≥ 1.3 but &lt; 2.1 at 2 consecutive visits.
-
-***, ** Statistically significant at p &lt; 0.001 and &lt; 0.01, respectively, for all comparisons between adalimumab and placebo.
-
 ## Psoriatic arthritis
 
 Adalimumab, 40 mg every other week, was studied in patients with moderately to severely active psoriatic arthritis in two placebo-controlled studies, PsA studies I and II. PsA study I with 24 week duration, treated 313 adult patients who had an inadequate response to non-steroidal anti-inflammatory drug therapy and of these, approximately 50% were taking methotrexate. PsA study II with 12-week duration, treated 100 patients who had an inadequate response to DMARD therapy. Upon completion of both studies, 383 patients enroled in an open-label extension study, in which 40 mg adalimumab was administered every other week.
@@ -1075,10 +1041,6 @@ Table 15: ACR response in placebo-controlled psoriatic arthritis studies (percen
 | ACR 70   |               |                  |                |                 |
 | Week 12  | 1%            | 20%***           | 0%             | 14%*            |
 | Week 24  | 1%            | 23%***           | N/A            | N/A             |
-
-*** p &lt; 0.001 for all comparisons between adalimumab and placebo
-
-* p &lt; 0.05 for all comparisons between adalimumab and placebo
 
 N/A not applicable
 
@@ -1114,8 +1076,6 @@ Table 16: Ps study I (REVEAL) - Efficacy results at 16 weeks
 | PASI 100           | 3 (0.8)               | 163 (20.0) b                       |
 | PGA: Clear/minimal | 17 (4.3)              | 506 (62.2) b                       |
 
-a Percent of patients achieving PASI75 response was calculated as centre-adjusted rate b p &lt; 0.001, adalimumab vs. placebo
-
 Table 17: Ps study II (CHAMPION) - Efficacy results at 16 weeks
 
 |                    | Placebo N=53 n (%)   | MTX N=110 n (%)   | Adalimumab 40 mg eow N=108 n (%)   |
@@ -1123,14 +1083,6 @@ Table 17: Ps study II (CHAMPION) - Efficacy results at 16 weeks
 |  PASI 75          | 10 (18.9)            | 39 (35.5)         | 86 (79.6) a,b                      |
 | PASI 100           | 1 (1.9)              | 8 (7.3)           | 18 (16.7) c,d                      |
 | PGA: Clear/minimal | 6 (11.3)             | 33 (30.0)         | 79 (73.1) a,b                      |
-
-a  p &lt; 0.001 adalimumab vs. placebo
-
-b  p &lt; 0.001 adalimumab vs. methotrexate
-
-c p &lt; 0.01 adalimumab vs. placebo
-
-d p &lt; 0.05 adalimumab vs. methotrexate
 
 In Psoriasis Study I, 28% of patients who were PASI 75 responders and were re-randomised to placebo at Week 33 compared to 5% continuing on adalimumab, p &lt; 0.001, experienced 'loss of adequate response' (PASI score after Week 33 and on or before Week 52 that resulted in a &lt; PASI 50 response relative to baseline with a minimum of a 6-point increase in PASI score relative to Week 33). Of the patients who lost adequate response after re-randomisation to placebo who then enroled into the open-label extension trial, 38% (25/66) and 55% (36/66) regained PASI 75 response after 12 and 24 weeks of re-treatment, respectively.
 
@@ -1261,12 +1213,6 @@ Table 22: Maintenance of clinical remission and response (percent of patients)
 | Clinical remission                                 | 12%       | 36%*                                | 41%*                          |
 | Clinical response (CR-100)                         | 17%       | 41%*                                | 48%*                          |
 | Patients in steroid-free remission for ≥ 90 days a | 5% (3/66) | 29% (17/58)*                        | 20% (15/74)**                 |
-
-* p &lt; 0.001 for adalimumab versus placebo pairwise comparisons of proportions
-
-** p &lt; 0.02 for adalimumab versus placebo pairwise comparisons of proportions
-
-a Of those receiving corticosteroids at baseline
 
 Among patients who were not in response at Week 4, 43% of adalimumab maintenance patients responded by Week 12 compared to 30% of placebo maintenance patients. These results suggest that some patients who have not responded by Week 4 benefit from continued maintenance therapy through Week 12. Therapy continued beyond 12 weeks did not result in significantly more responses (see section 4.2).
 
@@ -1428,12 +1374,6 @@ Table 26: Ped ACR 30 responses in the JIA study
 | Disease flares at the end of 32 weeks a (n/N) | 36.8% (14/38)            | 64.9% (24/37) b      | 43.3% (13/30)       | 71.4% (20/28) c   |
 | Median time to disease flare                  | > 32 weeks               | 20 weeks             | > 32 weeks          | 14 weeks          |
 
-a Ped ACR 30/50/70 responses Week 48 significantly greater than those of placebo treated patients
-
-b p = 0.015
-
-c p = 0.031
-
 Amongst those who responded at Week 16 (n=144), the Paediatric ACR 30/50/70/90 responses were maintained for up to six years in the OLE phase in patients who received adalimumab throughout the study. Over all 19 subjects, of which 11 of the baseline age group 4 to 12 and 8 of the baseline age group 13 to 17 years were treated 6 years or longer.
 
 Overall responses were generally better and, fewer patients developed antibodies when treated with the combination of adalimumab and MTX compared to adalimumab alone. Taking these results into consideration, adalimumab is recommended for use in combination with MTX and for use as monotherapy in patients for whom MTX use is not appropriate (see section 4.2).
@@ -1585,12 +1525,6 @@ Table 32: Efficacy results at 52 weeks
 | Clinical remission in Week 8 PMS remitters               | 9/21 (42.9%)                             | 10/22 (45.5%)                           |
 | Corticosteroid-free remission in Week 8 PMS responders c | 4/13 (30.8%)                             | 5/16 (31.3%)                            |
 
-a  Adalimumab 0.6 mg/kg (maximum of 40 mg) every other week
-
-b  Adalimumab 0.6 mg/kg (maximum of 40 mg) every week
-
-c In patients receiving concomitant corticosteroids at baseline
-
 Note: Patients with missing values at Week 52 or who were randomised to receive re-induction or maintenance treatment were considered non-responders for Week 52 endpoints
 
 Additional exploratory efficacy endpoints included clinical response per the Paediatric Ulcerative Colitis Activity Index (PUCAI) (defined as a decrease in PUCAI ≥ 20 points from Baseline) and clinical remission per PUCAI (defined as PUCAI &lt; 10) at Week 8 and Week 52 (Table 33).
@@ -1718,6 +1652,12 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
+Libmyris 40 mg solution for injection in pre-filled syringe
+
+4 years
+
+Libmyris 40 mg solution for injection in pre-filled pen
+
 3 years.
 
 ## 6.4 Special precautions for storage
@@ -1726,6 +1666,8 @@ Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the pre-filled syri
 
 A single pre-filled syringe or pre-filled pen may be stored at temperatures up to a maximum of 25 °C for a period of up to 30 days. The pre-filled syringe or pre-filled pen must be protected from light, and discarded if not used within the 30-day period.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.5 Nature and contents of container
 
 Libmyris 40 mg solution for injection in pre-filled syringe
@@ -1733,8 +1675,6 @@ Libmyris 40 mg solution for injection in pre-filled syringe
 0.4 ml solution for injection in a pre-filled type I glass syringe with a fixed 29-gauge needle, extended finger flanges and needle guard, and a plunger stopper (bromobutyl rubber).
 
 Pack sizes: 1, 2 or 6 pre-filled syringe(s) packed in a PVC/PE blister, with 1, 2 or 6 alcohol pad(s).
-
-<div style=\"page-break-after: always\"></div>
 
 ## Libmyris 40 mg solution for injection in pre-filled pen
 
@@ -1760,7 +1700,7 @@ EU/1/21/1590/002
 
 EU/1/21/1590/003
 
-Libmyris 40 mg solution for injection in pre-filled pen
+## Libmyris 40 mg solution for injection in pre-filled pen
 
 EU/1/21/1590/004 EU/1/21/1590/005
 
@@ -1994,8 +1934,6 @@ Table 2: Libmyris dose for paediatric patients with ulcerative colitis
 |------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
 | < 40 kg          | • 80 mg at Week 0 (given as one 80 mg injection) and • 40 mg at Week 2 (given as one 40 mg injection)                                                                      | • 40 mg every other week               |
 | ≥ 40 kg          | • 160 mg at Week 0 (given as two 80 mg injections in one day or one 80 mg injection per day for two consecutive days) and • 80 mg at Week 2 (given as one 80 mg injection) | • 80 mg every other week               |
-
-* Paediatric patients who turn 18 years of age while on Libmyris should continue their prescribed maintenance dose.
 
 Continued therapy beyond 8 weeks should be carefully considered in patients not showing signs of response within this time period.
 
@@ -2322,12 +2260,6 @@ Table 4: Undesirable effects
 | Investigations*                                       | Common      | Coagulation and bleeding disorders (including activated partial thromboplastin time prolonged), Autoantibody test positive (including double stranded DNA antibody), Blood lactate dehydrogenase increased |
 | Investigations*                                       | Not known   | Weight increased 2)                                                                                                                                                                                        |
 | Injury, poisoning and procedural complications        | Common      | Impaired healing                                                                                                                                                                                           |
-
-* further information is found elsewhere in sections 4.3, 4.4 and 4.8
-
-** including open label extension studies
-
-1) including spontaneous reporting data
 
 - 2) The mean weight change from baseline for adalimumab ranged from 0.3 kg to 1.0 kg across adult indications compared to (minus) -0.4 kg to 0.4 kg for placebo over a treatment period of 46 months. Weight increase of 5-6 kg has also been observed in long-term extension studies with mean exposures of approximately 1-2 years without control group, particularly in patients with Crohn's disease and ulcerative colitis. The mechanism behind this effect is unclear but could be associated with the anti-inflammatory effect of adalimumab.
 
@@ -2732,12 +2664,6 @@ Table 15: Maintenance of clinical remission and response (percent of patients)
 | Clinical response (CR-100)                         | 17%       | 41% *                               | 48% *                         |
 | Patients in steroid-free remission for ≥ 90 days a | 5% (3/66) | 29% (17/58) *                       | 20% (15/74) **                |
 
-* p &lt; 0.001 for adalimumab versus placebo pairwise comparisons of proportions
-
-** p &lt; 0.02 for adalimumab versus placebo pairwise comparisons of proportions
-
-a Of those receiving corticosteroids at baseline
-
 Among patients who were not in response at Week 4, 43% of adalimumab maintenance patients responded by Week 12 compared to 30% of placebo maintenance patients. These results suggest that some patients who have not responded by Week 4 benefit from continued maintenance therapy through Week 12. Therapy continued beyond 12 weeks did not result in significantly more responses (see section 4.2).
 
 117/276 patients from CD study I and 272/777 patients from CD studies II and III were followed through at least 3 years of open-label adalimumab therapy. 88 and 189 patients, respectively, continued to be in clinical remission. Clinical response (CR-100) was maintained in 102 and 233 patients, respectively.
@@ -2958,12 +2884,6 @@ Table 21: Clinical remission per PMS at 8 weeks
 |--------------------|---------------------------------------------------------------------|---------------------------------------------------------------|
 | Clinical remission | 13/30 (43.3%)                                                       | 28/47 (59.6%)                                                 |
 
-a  Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0, placebo at Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2
-
-b  Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2
-
-c  Not including open-label Induction dose of Adalimumab 2.4 mg/kg (maximum of 160 mg) at Week 0 and Week 1, and 1.2 mg/kg (maximum of 80 mg) at Week 2
-
 Note 1: Both induction groups received 0.6 mg/kg (maximum of 40 mg) at Week 4 and Week 6 Note 2: Patients with missing values at Week 8 were considered as not having met the endpoint
 
 At Week 52, clinical remission per FMS in Week 8 responders, clinical response per FMS (defined as a decrease in Mayo Score ≥ 3 points and ≥ 30% from Baseline) in Week 8 responders, mucosal healing (defined as Mayo endoscopy subscore ≤ 1) in Week 8 responders, clinical remission per FMS in Week 8 remitters, and the proportion of subjects in corticosteroid-free remission per FMS in Week 8 responders were assessed in patients who received adalimumab at the double-blind maximum 40 mg eow (0.6 mg/kg) and maximum 40 mg ew (0.6 mg/kg) maintenance doses (Table 22).
@@ -3107,6 +3027,12 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
+Libmyris 80 mg solution for injection in pre-filled syringe
+
+4 years
+
+Libmyris 80 mg solution for injection in pre-filled pen
+
 3 years
 
 ## 6.4 Special precautions for storage
@@ -3143,11 +3069,11 @@ Libmyris 80 mg solution for injection in pre-filled syringe EU/1/21/1590/007
 
 Libmyris 80 mg solution for injection in pre-filled pen EU/1/21/1590/008 EU/1/21/1590/009
 
+<div style=\"page-break-after: always\"></div>
+
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 12 November 2021
-
-<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -4556,7 +4482,7 @@ Tel: +34 934738889
 
 ## Polska
 
-STADA Pharm Sp. z.o o.
+STADA Pharm Sp. z o.o.
 
 Tel: +48 227377920
 
@@ -5544,7 +5470,7 @@ Tel: +34 934738889
 
 ## Polska
 
-STADA Pharm Sp. z.o o.
+STADA Pharm Sp. z o.o.
 
 Tel: +48 227377920
 
@@ -6424,9 +6350,7 @@ UAB 'STADA Baltics' Tel: +372 53072153
 
 ## Ελλάδα
 
-STADA Arzneimittel AG
-
-Τηλ: +30 2106664667
+STADA Arzneimittel AG Τηλ: +30 2106664667
 
 ## España
 
@@ -6482,7 +6406,7 @@ STADA Arzneimittel GmbH Tel: +43 136785850
 
 ## Polska
 
-STADA Pharm Sp. z.o o. Tel: +48 227377920
+STADA Pharm Sp. z o.o. Tel: +48 227377920
 
 ## Portugal
 
@@ -7381,7 +7305,7 @@ Tel: +43 136785850
 
 ## Polska
 
-STADA Pharm Sp. z.o o. Tel: +48 227377920
+STADA Pharm Sp. z o.o. Tel: +48 227377920
 
 ## Portugal
 
@@ -7610,9 +7534,9 @@ Do not lift up, or let go of the pressure from the injection site, until you hav
 
 <div style=\"page-break-after: always\"></div>
 
-Figure K
-
 <!-- image -->
+
+Figure K
 
 Figure L
 

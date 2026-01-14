@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 11:27:58
+document_datetime: 2026-01-13 16:18:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/mavenclad.html
 document_name: mavenclad.html
 version: success
-processing_time: 0.110588
-conversion_datetime: 2025-12-30 21:10:35.508992
+processing_time: 0.1130905
+conversion_datetime: 2026-01-14 08:24:40.529351
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 cladribine Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +111,7 @@ English (EN) (77.66 KB - PDF)
 
 [View](/en/documents/overview/mavenclad-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-524)
+[Other languages (22)](#file-language-dropdown-404)
 
 български (BG) (106.09 KB - PDF)
 
@@ -381,11 +379,11 @@ svenska (SV) (77.07 KB - PDF)
 
 Mavenclad : EPAR - Risk management plan
 
-English (EN) (3.15 MB - PDF)
+English (EN) (2 MB - PDF)
 
 **First published:** 20/10/2021
 
-**Last updated:** 23/01/2024
+**Last updated:** 13/01/2026
 
 [View](/en/documents/rmp/mavenclad-epar-risk-management-plan_en.pdf)
 
@@ -393,17 +391,17 @@ English (EN) (3.15 MB - PDF)
 
 Mavenclad : EPAR - Product Information
 
-English (EN) (332.45 KB - PDF)
+English (EN) (328.54 KB - PDF)
 
 **First published:** 08/09/2017
 
-**Last updated:** 06/05/2025
+**Last updated:** 13/01/2026
 
 [View](/en/documents/product-information/mavenclad-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-703)
+[Other languages (24)](#file-language-dropdown-558)
 
-български (BG) (498.91 KB - PDF)
+български (BG) (495.15 KB - PDF)
 
 **First published:**
 
@@ -411,11 +409,11 @@ English (EN) (332.45 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/bg/documents/product-information/mavenclad-epar-product-information_bg.pdf)
 
-español (ES) (342.3 KB - PDF)
+español (ES) (338.98 KB - PDF)
 
 **First published:**
 
@@ -423,11 +421,11 @@ español (ES) (342.3 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/es/documents/product-information/mavenclad-epar-product-information_es.pdf)
 
-čeština (CS) (453.08 KB - PDF)
+čeština (CS) (558.07 KB - PDF)
 
 **First published:**
 
@@ -435,11 +433,11 @@ español (ES) (342.3 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/cs/documents/product-information/mavenclad-epar-product-information_cs.pdf)
 
-dansk (DA) (328.2 KB - PDF)
+dansk (DA) (324.8 KB - PDF)
 
 **First published:**
 
@@ -447,11 +445,11 @@ dansk (DA) (328.2 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/da/documents/product-information/mavenclad-epar-product-information_da.pdf)
 
-Deutsch (DE) (350.61 KB - PDF)
+Deutsch (DE) (346.59 KB - PDF)
 
 **First published:**
 
@@ -459,11 +457,11 @@ Deutsch (DE) (350.61 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/de/documents/product-information/mavenclad-epar-product-information_de.pdf)
 
-eesti keel (ET) (345.21 KB - PDF)
+eesti keel (ET) (341.38 KB - PDF)
 
 **First published:**
 
@@ -471,11 +469,11 @@ eesti keel (ET) (345.21 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/et/documents/product-information/mavenclad-epar-product-information_et.pdf)
 
-ελληνικά (EL) (532.81 KB - PDF)
+ελληνικά (EL) (485.09 KB - PDF)
 
 **First published:**
 
@@ -483,11 +481,11 @@ eesti keel (ET) (345.21 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/el/documents/product-information/mavenclad-epar-product-information_el.pdf)
 
-français (FR) (355.61 KB - PDF)
+français (FR) (351.64 KB - PDF)
 
 **First published:**
 
@@ -495,11 +493,11 @@ français (FR) (355.61 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/fr/documents/product-information/mavenclad-epar-product-information_fr.pdf)
 
-hrvatski (HR) (434.89 KB - PDF)
+hrvatski (HR) (431.08 KB - PDF)
 
 **First published:**
 
@@ -507,11 +505,11 @@ hrvatski (HR) (434.89 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/hr/documents/product-information/mavenclad-epar-product-information_hr.pdf)
 
-íslenska (IS) (326.8 KB - PDF)
+íslenska (IS) (322.82 KB - PDF)
 
 **First published:**
 
@@ -519,11 +517,11 @@ hrvatski (HR) (434.89 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/is/documents/product-information/mavenclad-epar-product-information_is.pdf)
 
-italiano (IT) (350.13 KB - PDF)
+italiano (IT) (345.84 KB - PDF)
 
 **First published:**
 
@@ -531,11 +529,11 @@ italiano (IT) (350.13 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/it/documents/product-information/mavenclad-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (466.67 KB - PDF)
+latviešu valoda (LV) (462 KB - PDF)
 
 **First published:**
 
@@ -543,11 +541,11 @@ latviešu valoda (LV) (466.67 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/lv/documents/product-information/mavenclad-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (452.64 KB - PDF)
+lietuvių kalba (LT) (446.57 KB - PDF)
 
 **First published:**
 
@@ -555,11 +553,11 @@ lietuvių kalba (LT) (452.64 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/lt/documents/product-information/mavenclad-epar-product-information_lt.pdf)
 
-magyar (HU) (458.76 KB - PDF)
+magyar (HU) (456.18 KB - PDF)
 
 **First published:**
 
@@ -567,11 +565,11 @@ magyar (HU) (458.76 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/hu/documents/product-information/mavenclad-epar-product-information_hu.pdf)
 
-Malti (MT) (486.59 KB - PDF)
+Malti (MT) (481.26 KB - PDF)
 
 **First published:**
 
@@ -579,11 +577,11 @@ Malti (MT) (486.59 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/mt/documents/product-information/mavenclad-epar-product-information_mt.pdf)
 
-Nederlands (NL) (340.22 KB - PDF)
+Nederlands (NL) (336.46 KB - PDF)
 
 **First published:**
 
@@ -591,11 +589,11 @@ Nederlands (NL) (340.22 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/nl/documents/product-information/mavenclad-epar-product-information_nl.pdf)
 
-norsk (NO) (328.27 KB - PDF)
+norsk (NO) (324.51 KB - PDF)
 
 **First published:**
 
@@ -603,11 +601,11 @@ norsk (NO) (328.27 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/no/documents/product-information/mavenclad-epar-product-information_no.pdf)
 
-polski (PL) (470.02 KB - PDF)
+polski (PL) (465.58 KB - PDF)
 
 **First published:**
 
@@ -615,11 +613,11 @@ polski (PL) (470.02 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/pl/documents/product-information/mavenclad-epar-product-information_pl.pdf)
 
-português (PT) (334.35 KB - PDF)
+português (PT) (330.61 KB - PDF)
 
 **First published:**
 
@@ -627,11 +625,11 @@ português (PT) (334.35 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/pt/documents/product-information/mavenclad-epar-product-information_pt.pdf)
 
-română (RO) (488.98 KB - PDF)
+română (RO) (484.46 KB - PDF)
 
 **First published:**
 
@@ -639,11 +637,11 @@ română (RO) (488.98 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/ro/documents/product-information/mavenclad-epar-product-information_ro.pdf)
 
-slovenčina (SK) (620.94 KB - PDF)
+slovenčina (SK) (451.45 KB - PDF)
 
 **First published:**
 
@@ -651,11 +649,11 @@ slovenčina (SK) (620.94 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/sk/documents/product-information/mavenclad-epar-product-information_sk.pdf)
 
-slovenščina (SL) (446.03 KB - PDF)
+slovenščina (SL) (442.1 KB - PDF)
 
 **First published:**
 
@@ -663,11 +661,11 @@ slovenščina (SL) (446.03 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/sl/documents/product-information/mavenclad-epar-product-information_sl.pdf)
 
-Suomi (FI) (346.62 KB - PDF)
+Suomi (FI) (342.86 KB - PDF)
 
 **First published:**
 
@@ -675,11 +673,11 @@ Suomi (FI) (346.62 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/fi/documents/product-information/mavenclad-epar-product-information_fi.pdf)
 
-svenska (SV) (334.6 KB - PDF)
+svenska (SV) (330.34 KB - PDF)
 
 **First published:**
 
@@ -687,11 +685,11 @@ svenska (SV) (334.6 KB - PDF)
 
 **Last updated:**
 
-06/05/2025
+13/01/2026
 
 [View](/sv/documents/product-information/mavenclad-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUSA/00010634/202407 23/04/2025
+**Latest procedure affecting product information:** VR/0000316384 10/01/2026
 
 icon globe
 
@@ -717,7 +715,7 @@ English (EN) (16.38 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/mavenclad-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-558)
+[Other languages (24)](#file-language-dropdown-355)
 
 български (BG) (38.02 KB - PDF)
 
@@ -1027,7 +1025,7 @@ Merck Europe B.V.
 
 Gustav Mahlerplein 102
 
-Opinion adopted 22/06/2017 Marketing authorisation issued 22/08/2017 Revision 12
+Opinion adopted 22/06/2017 Marketing authorisation issued 22/08/2017 Revision 13
 
 ## Assessment history
 
@@ -1039,13 +1037,21 @@ Collapse section
 
 Mavenclad : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (144.44 KB - PDF)
+
+**First published:** 13/01/2026
+
+[View](/en/documents/procedural-steps-after/mavenclad-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Mavenclad : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (116.12 KB - PDF)
 
 **First published:** 05/02/2018
 
-**Last updated:** 06/05/2025
+**Last updated:** 13/01/2026
 
-[View](/en/documents/procedural-steps-after/mavenclad-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/mavenclad-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Mavenclad-H-C-PSUSA-00010634-202407 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1104,7 +1110,7 @@ English (EN) (61.45 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 06/05/2025
+**This page was last updated on** 13/01/2026
 
 ## Share this page
 

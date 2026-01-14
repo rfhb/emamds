@@ -1,16 +1,16 @@
 ---
-document_datetime: 2024-07-24 09:32:29
+document_datetime: 2026-01-13 16:07:48
 document_pages: 242
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/aranesp-epar-product-information_en.pdf
 document_name: aranesp-epar-product-information_en.pdf
 version: success
-processing_time: 127.1928575
-conversion_datetime: 2025-12-30 12:27:50.062301
+processing_time: 58.4078202
+conversion_datetime: 2026-01-14 08:34:26.835002
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -40,7 +40,8 @@ Aranesp 60 micrograms solution for injection in pre-filled syringe.
 Aranesp 80 micrograms solution for injection in pre-filled syringe.
 
 - Aranesp 100 micrograms solution for injection in pre-filled syringe.
-- Aranesp 130 micrograms solution for injection in pre-filled syringe.
+
+Aranesp 130 micrograms solution for injection in pre-filled syringe.
 
 Aranesp 150 micrograms solution for injection in pre-filled syringe.
 
@@ -123,8 +124,10 @@ Each pre-filled syringe contains 80 micrograms of darbepoetin alfa in 0.4 mL (20
 <div style=\"page-break-after: always\"></div>
 
 ```
-Aranesp 100 micrograms solution for injection in pre-filled syringe Each pre-filled syringe contains 100 micrograms of darbepoetin alfa in 0.5 mL (200 mcg/mL). Aranesp 130 micrograms solution for injection in pre-filled syringe Each pre-filled syringe contains 130 micrograms of darbepoetin alfa in 0.65 mL (200 mcg/mL). Aranesp 150 micrograms solution for injection in pre-filled syringe Each pre-filled syringe contains 150 micrograms of darbepoetin alfa in 0.3 mL (500 mcg/mL). Aranesp 300 micrograms solution for injection in pre-filled syringe Each pre-filled syringe contains 300 micrograms of darbepoetin alfa in 0.6 mL (500 mcg/mL). Aranesp 500 micrograms solution for injection in pre-filled syringe Each pre-filled syringe contains 500 micrograms of darbepoetin alfa in 1 mL (500 mcg/mL). Aranesp 10 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 10 micrograms of darbepoetin alfa in 0.4 mL (25 mcg/mL). Aranesp 15 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 15 micrograms of darbepoetin alfa in 0.375 mL (40 mcg/mL). Aranesp 20 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 20 micrograms of darbepoetin alfa in 0.5 mL (40 mcg/mL). Aranesp 30 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 30 micrograms of darbepoetin alfa in 0.3 mL (100 mcg/mL). Aranesp 40 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 40 micrograms of darbepoetin alfa in 0.4 mL (100 mcg/mL). Aranesp 50 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 50 micrograms of darbepoetin alfa in 0.5 mL (100 mcg/mL). Aranesp 60 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 60 micrograms of darbepoetin alfa in 0.3 mL (200 mcg/mL). Aranesp 80 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 80 micrograms of darbepoetin alfa in 0.4 mL (200 mcg/mL). Aranesp 100 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 100 micrograms of darbepoetin alfa in 0.5 mL (200 mcg/mL). Aranesp 130 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 130 micrograms of darbepoetin alfa in 0.65 mL (200 mcg/mL). Aranesp 150 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 150 micrograms of darbepoetin alfa in 0.3 mL (500 mcg/mL). Aranesp 300 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 300 micrograms of darbepoetin alfa in 0.6 mL (500 mcg/mL). Aranesp 500 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 500 micrograms of darbepoetin alfa in 1 mL (500 mcg/mL). Aranesp 25 micrograms solution for injection in vial Each vial contains 25 micrograms of darbepoetin alfa in 1 mL (25 mcg/mL). Aranesp 40 micrograms solution for injection in vial Each vial contains 40 micrograms of darbepoetin alfa in 1 mL (40 mcg/mL). Aranesp 60 micrograms solution for injection in vial Each vial contains 60 micrograms of darbepoetin alfa in 1 mL (60 mcg/mL). Aranesp 100 micrograms solution for injection in vial Each vial contains 100 micrograms of darbepoetin alfa in 1 mL (100 mcg/mL). Aranesp 200 micrograms solution for injection in vial Each vial contains 200 micrograms of darbepoetin alfa in 1 mL (200 mcg/mL). Aranesp 300 micrograms solution for injection in vial Each vial contains 300 micrograms of darbepoetin alfa in 1 mL (300 mcg/mL). Darbepoetin alfa is produced by gene-technology in Chinese Hamster Ovary Cells (CHO-K1). For the full list of excipients, see section 6.1.
+Aranesp 100 micrograms solution for injection in pre-filled syringe Each pre-filled syringe contains 100 micrograms of darbepoetin alfa in 0.5 mL (200 mcg/mL). Aranesp 130 micrograms solution for injection in pre-filled syringe Each pre-filled syringe contains 130 micrograms of darbepoetin alfa in 0.65 mL (200 mcg/mL). Aranesp 150 micrograms solution for injection in pre-filled syringe Each pre-filled syringe contains 150 micrograms of darbepoetin alfa in 0.3 mL (500 mcg/mL). Aranesp 300 micrograms solution for injection in pre-filled syringe Each pre-filled syringe contains 300 micrograms of darbepoetin alfa in 0.6 mL (500 mcg/mL). Aranesp 500 micrograms solution for injection in pre-filled syringe Each pre-filled syringe contains 500 micrograms of darbepoetin alfa in 1 mL (500 mcg/mL). Aranesp 10 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 10 micrograms of darbepoetin alfa in 0.4 mL (25 mcg/mL). Aranesp 15 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 15 micrograms of darbepoetin alfa in 0.375 mL (40 mcg/mL). Aranesp 20 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 20 micrograms of darbepoetin alfa in 0.5 mL (40 mcg/mL). Aranesp 30 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 30 micrograms of darbepoetin alfa in 0.3 mL (100 mcg/mL). Aranesp 40 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 40 micrograms of darbepoetin alfa in 0.4 mL (100 mcg/mL). Aranesp 50 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 50 micrograms of darbepoetin alfa in 0.5 mL (100 mcg/mL). Aranesp 60 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 60 micrograms of darbepoetin alfa in 0.3 mL (200 mcg/mL). Aranesp 80 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 80 micrograms of darbepoetin alfa in 0.4 mL (200 mcg/mL). Aranesp 100 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 100 micrograms of darbepoetin alfa in 0.5 mL (200 mcg/mL). Aranesp 130 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 130 micrograms of darbepoetin alfa in 0.65 mL (200 mcg/mL). Aranesp 150 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 150 micrograms of darbepoetin alfa in 0.3 mL (500 mcg/mL). Aranesp 300 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 300 micrograms of darbepoetin alfa in 0.6 mL (500 mcg/mL). Aranesp 500 micrograms solution for injection in pre-filled pen Each pre-filled pen contains 500 micrograms of darbepoetin alfa in 1 mL (500 mcg/mL). Aranesp 25 micrograms solution for injection in vial Each vial contains 25 micrograms of darbepoetin alfa in 1 mL (25 mcg/mL). Aranesp 40 micrograms solution for injection in vial Each vial contains 40 micrograms of darbepoetin alfa in 1 mL (40 mcg/mL). Aranesp 60 micrograms solution for injection in vial Each vial contains 60 micrograms of darbepoetin alfa in 1 mL (60 mcg/mL). Aranesp 100 micrograms solution for injection in vial Each vial contains 100 micrograms of darbepoetin alfa in 1 mL (100 mcg/mL). Aranesp 200 micrograms solution for injection in vial Each vial contains 200 micrograms of darbepoetin alfa in 1 mL (200 mcg/mL). Aranesp 300 micrograms solution for injection in vial Each vial contains 300 micrograms of darbepoetin alfa in 1 mL (300 mcg/mL). Darbepoetin alfa is produced by gene-technology in Chinese Hamster Ovary Cells (CHO-K1).
 ```
+
+For the full list of excipients, see section 6.1.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -146,7 +149,7 @@ Treatment of symptomatic anaemia in adult cancer patients with non-myeloid malig
 
 Aranesp treatment should be initiated by physicians experienced in the above mentioned indications.
 
-Posology
+## Posology
 
 ## Treatment of symptomatic anaemia in adult and paediatric chronic renal failure patients
 
@@ -302,7 +305,7 @@ Aranesp should be used with caution in patients with epilepsy. Convulsions have 
 
 The reported risk of thrombotic vascular events (TVEs) should be carefully weighed against the benefits to be derived from treatment with darbepoetin alfa particularly in patients with pre-existing risk factors for TVE, including obesity and prior history of TVEs (e.g., deep venous thrombosis, pulmonary embolism, and cerebral vascular accident).
 
-This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## Chronic renal failure patients
 
@@ -402,7 +405,9 @@ Source: Includes 5 randomised, double-blind, active-controlled studies (970200, 
 
 1  Adverse reactions identified in the post-marketing environment. Per the Guideline on Summary of Product
 
-Characteristics (Revision 2, September 2009), frequency of adverse reactions identified in the post-marketing setting was determined using the 'Rule of three'.
+Characteristics (Revision 2, September 2009), frequency of adverse reactions identified in the post-marketing
+
+setting was determined using the 'Rule of three'.
 
 2 Frequency cannot be estimated from the available data.
 
@@ -412,9 +417,8 @@ b Stroke events includes PT haemorrhagic stroke, ischaemic stroke, cerebrovascul
 
 c  Thromboembolic events adverse reaction includes PT embolism arterial, thrombophlebitis, thrombosis, venous thrombosis limb.
 
-d Dialysis vascular access thrombosis includes all adverse reactions under the dialysis vascular access thrombosis AMQ
-
-e Rash/erythema adverse reaction includes PT rash, rash pruritic, rash macular, rash generalised, erythema.
+- d Dialysis vascular access thrombosis includes all adverse reactions under the dialysis vascular access thrombosis AMQ
+- e Rash/erythema adverse reaction includes PT rash, rash pruritic, rash macular, rash generalised, erythema.
 
 ## Cancer patients
 
@@ -438,6 +442,12 @@ Incidence of adverse reactions from controlled clinical studies and post-marketi
 | General disorders and administration site conditions | Common              | Oedema d                                                   |
 | General disorders and administration site conditions | Common              | Injection site pain e                                      |
 | General disorders and administration site conditions | Uncommon 1          | Injection site bruising Injection site haemorrhage         |
+
+- c Rash adverse reactions includes PT rash, rash pruritic, rash generalised, rash papular, erythema, exfoliative rash, rash maculo-papular, rash vesicular as well as rash pustular from SOC Infections and Infestations.
+
+d  Oedema: includes PT Oedema Peripheral, Oedema, Generalised Oedema, Oedema due to Cardiac Disease, Face oedema
+
+e Injection site pain adverse reaction includes PT injection site pain, administration site pain, catheter site pain, infusion site pain and vessel puncture site pain.
 
 ## Description of selected adverse reactions
 
@@ -545,7 +555,7 @@ Erythropoietin is a growth factor that primarily stimulates red blood cell produ
 
 Survival and tumour progression have been examined in five large controlled studies involving a total of 2,833 patients, of which four were double-blind placebo-controlled studies and one was an open-label study. Two of the studies recruited patients who were being treated with chemotherapy. The target haemoglobin concentration in two studies was &gt; 13 g/dL; in the remaining three studies it was 12-14 g/dL. In the open-label study there was no difference in overall survival between patients treated with recombinant human erythropoietin and controls. In the four placebo-controlled studies the hazard ratios for overall survival ranged between 1.25 and 2.47 in favour of controls. These studies have shown a consistent unexplained statistically significant excess mortality in patients who have anaemia associated with various common cancers who received recombinant human erythropoietin compared to controls. Overall survival outcome in the trials could not be satisfactorily explained by differences in the incidence of thrombosis and related complications between those given recombinant human erythropoietin and those in the control group.
 
-In a randomised, double-blind, placebo-controlled phase 3 study 2,549 adult patients with anaemia receiving chemotherapy for the treatment of advanced stage non-small cell lung cancer (NSCLC), were randomised 2:1 to darbepoetin alfa or placebo and treated to a maximum Hb of 12 g/dL. The results showed non-inferiority for the primary endpoint of overall survival with a median survival for darbepoetin alfa versus placebo of 9.5 and 9.3 months, respectively (stratified HR 0.92; 95% CI: 0.831.01). The secondary endpoint of progression free survival was 4.8 and 4.3 months, respectively (stratified HR 0.95; 95% CI: 0.87-1.04), ruling out the pre-defined 15% risk increase.
+In a randomised, double-blind, placebo-controlled phase 3 study 2,549 adult patients with anaemia receiving chemotherapy for the treatment of advanced stage non-small cell lung cancer (NSCLC), were randomised 2:1 to darbepoetin alfa or placebo and treated to a maximum Hb of 12 g/dL. The results showed non-inferiority for the primary endpoint of overall survival with a median survival for darbepoetin alfa versus placebo of 9.5 and 9.3 months, respectively (stratified HR 0.92; 95% CI: 0.83 -1.01). The secondary endpoint of progression free survival was 4.8 and 4.3 months, respectively (stratified HR 0.95; 95% CI: 0.87 -1.04), ruling out the pre-defined 15% risk increase.
 
 A systematic review has also been performed involving more than 9,000 cancer patients participating in 57 clinical trials. Meta-analysis of overall survival data produced a hazard ratio point estimate of 1.08 in favour of controls (95% CI: 0.99, 1.18; 42 trials and 8,167 patients).
 
@@ -567,7 +577,7 @@ Data from 809 patients receiving Aranesp in European clinical studies were analy
 
 The pharmacokinetics of darbepoetin alfa in paediatric patients (2 to 16 years) with CRF who were either receiving or not receiving dialysis was assessed for sampling periods up to 2 weeks (336 hours) after one or two subcutaneous or intravenous doses. Where the same sampling duration was used, observed pharmacokinetic data and population pharmacokinetic modelling demonstrated that the pharmacokinetics of darbepoetin alfa was similar for paediatric and adult patients with CRF.
 
-In a phase 1 pharmacokinetic study, following intravenous administration, an approximate 25% difference between paediatric and adult patients in the area under the curve from time 0 to infinity (AUC[0-∞]) was observed; however, this difference was less than the 2-fold range in AUC(0-∞) observed for the paediatric patients. AUC(0-∞) was similar between adult and paediatric patients with CRF following subcutaneous administration. Half-life was also similar between adult and paediatric patients with CRF following both intravenous and subcutaneous administration.
+In a phase 1 pharmacokinetic study, following intravenous administration, an approximate 25% difference between paediatric and adult patients in the area under the curve from time 0 to infinity (AUC[0∞]) was observed; however, this difference was less than the 2 -fold range in AUC(0-∞) observed for the paediatric patients. AUC(0∞) was similar between adult and paediatric patients with CRF following subcutaneous administration. Half-life was also similar between adult and paediatric patients with CRF following both intravenous and subcutaneous administration.
 
 ## Cancer patients receiving chemotherapy
 
@@ -611,7 +621,7 @@ For the purpose of ambulatory use, Aranesp may be removed from storage once for 
 
 ## 6.5 Nature and contents of container
 
-## Aranesp 10 micrograms solution for injection in pre-filled syringe
+Aranesp 10 micrograms solution for injection in pre-filled syringe
 
 0.4 mL solution for injection (25 mcg/mL darbepoetin alfa) in a type 1 glass pre-filled syringe with stainless steel 27 gauge needle. Pack size of 1 or 4 pre-filled syringes.
 
@@ -639,7 +649,29 @@ Aranesp 10 micrograms solution for injection in pre-filled pen 0.4 mL solution f
 
 <div style=\"page-break-after: always\"></div>
 
-Aranesp 80 micrograms solution for injection in pre-filled pen 0.4 mL solution for injection (200 mcg/mL darbepoetin alfa) in a pre-filled pen with type 1 glass syringe and stainless steel 27 gauge needle. Pack size of 1 or 4 pre-filled pens. Aranesp 100 micrograms solution for injection in pre-filled pen 0.5 mL solution for injection (200 mcg/mL darbepoetin alfa) in a pre-filled pen with type 1 glass syringe and stainless steel 27 gauge needle. Pack size of 1 or 4 pre-filled pens. Aranesp 130 micrograms solution for injection in pre-filled pen 0.65 mL solution for injection (200 mcg/mL darbepoetin alfa) in a pre-filled pen with type 1 glass syringe and stainless steel 27 gauge needle. Pack size of 1 or 4 pre-filled pens. Aranesp 150 micrograms solution for injection in pre-filled pen 0.3 mL solution for injection (500 mcg/mL darbepoetin alfa) in a pre-filled pen with type 1 glass syringe and stainless steel 27 gauge needle. Pack size of 1 or 4 pre-filled pens. Aranesp 300 micrograms solution for injection in pre-filled pen 0.6 mL solution for injection (500 mcg/mL darbepoetin alfa) in a pre-filled pen with type 1 glass syringe and stainless steel 27 gauge needle. Pack size of 1 or 4 pre-filled pens. Aranesp 500 micrograms solution for injection in pre-filled pen 1 mL solution for injection (500 mcg/mL darbepoetin alfa) in a pre-filled pen with type 1 glass syringe and stainless steel 27 gauge needle. Pack size of 1 or 4 pre-filled pens.
+## Aranesp 80 micrograms solution for injection in pre-filled pen
+
+0.4 mL solution for injection (200 mcg/mL darbepoetin alfa) in a pre-filled pen with type 1 glass syringe and stainless steel 27 gauge needle. Pack size of 1 or 4 pre-filled pens.
+
+Aranesp 100 micrograms solution for injection in pre-filled pen
+
+0.5 mL solution for injection (200 mcg/mL darbepoetin alfa) in a pre-filled pen with type 1 glass syringe and stainless steel 27 gauge needle. Pack size of 1 or 4 pre-filled pens.
+
+Aranesp 130 micrograms solution for injection in pre-filled pen
+
+0.65 mL solution for injection (200 mcg/mL darbepoetin alfa) in a pre-filled pen with type 1 glass syringe and stainless steel 27 gauge needle. Pack size of 1 or 4 pre-filled pens.
+
+Aranesp 150 micrograms solution for injection in pre-filled pen
+
+0.3 mL solution for injection (500 mcg/mL darbepoetin alfa) in a pre-filled pen with type 1 glass syringe and stainless steel 27 gauge needle. Pack size of 1 or 4 pre-filled pens.
+
+Aranesp 300 micrograms solution for injection in pre-filled pen
+
+0.6 mL solution for injection (500 mcg/mL darbepoetin alfa) in a pre-filled pen with type 1 glass syringe and stainless steel 27 gauge needle. Pack size of 1 or 4 pre-filled pens.
+
+Aranesp 500 micrograms solution for injection in pre-filled pen
+
+1 mL solution for injection (500 mcg/mL darbepoetin alfa) in a pre-filled pen with type 1 glass syringe and stainless steel 27 gauge needle. Pack size of 1 or 4 pre-filled pens.
 
 The needle cap of the pre-filled pen contains dry natural rubber (a derivative of latex). See section 4.4.
 
@@ -685,45 +717,45 @@ Aranesp 10 micrograms solution for injection pre-filled syringe EU/1/01/185/001 
 
 <div style=\"page-break-after: always\"></div>
 
-Aranesp 80 micrograms solution for injection pre-filled syringe EU/1/01/185/015 1 Pack Blister EU/1/01/185/016 4 Pack Blister EU/1/01/185/040 1 Pack Unblistered EU/1/01/185/088 1 blister pack with needle guard EU/1/01/185/089 4 blister pack with needle guard Aranesp 100 micrograms solution for injection pre-filled syringe EU/1/01/185/017 1 Pack Blister EU/1/01/185/018 4 Pack Blister EU/1/01/185/041 1 Pack Unblistered EU/1/01/185/090 1 blister pack with needle guard EU/1/01/185/091 4 blister pack with needle guard Aranesp 130 micrograms solution for injection pre-filled syringe EU/1/01/185/069 1 Pack Blister EU/1/01/185/070 4 Pack Blister EU/1/01/185/071 1 Pack Unblistered EU/1/01/185/092 1 blister pack with needle guard EU/1/01/185/093 4 blister pack with needle guard Aranesp 150 micrograms solution for injection pre-filled syringe EU/1/01/185/019 1 Pack Blister EU/1/01/185/020 4 Pack Blister EU/1/01/185/042 1 Pack Unblistered EU/1/01/185/094 1 blister pack with needle guard EU/1/01/185/095 4 blister pack with needle guard Aranesp 300 micrograms solution for injection pre-filled syringe EU/1/01/185/021 1 Pack Blister EU/1/01/185/022 4 Pack Blister EU/1/01/185/043 1 Pack Unblistered EU/1/01/185/096 1 blister pack with needle guard EU/1/01/185/097 4 blister pack with needle guard Aranesp 500 micrograms solution for injection pre-filled syringe EU/1/01/185/031 1 Pack Blister EU/1/01/185/032 4 Pack Blister EU/1/01/185/044 1 Pack Unblistered EU/1/01/185/098 1 blister pack with needle guard EU/1/01/185/099 4 blister pack with needle guard Aranesp 10 micrograms solution for injection pre-filled pen EU/1/01/185/045 - 1 pack EU/1/01/185/057 - 4 pack Aranesp 15 micrograms solution for injection pre-filled pen EU/1/01/185/046 - 1 pack EU/1/01/185/058 - 4 pack Aranesp 20 micrograms solution for injection pre-filled pen EU/1/01/185/047 - 1 pack EU/1/01/185/059 - 4 pack Aranesp 30 micrograms solution for injection pre-filled pen EU/1/01/185/048 - 1 pack EU/1/01/185/060 - 4 pack Aranesp 40 micrograms solution for injection pre-filled pen EU/1/01/185/049 - 1 pack EU/1/01/185/061 - 4 pack Aranesp 50 micrograms solution for injection pre-filled pen EU/1/01/185/050 - 1 pack EU/1/01/185/062 - 4 pack Aranesp 60 micrograms solution for injection pre-filled pen EU/1/01/185/051 - 1 pack EU/1/01/185/063 - 4 pack
+Aranesp 80 micrograms solution for injection pre-filled syringe EU/1/01/185/015 1 Pack Blister EU/1/01/185/016 4 Pack Blister EU/1/01/185/040 1 Pack Unblistered EU/1/01/185/088 1 blister pack with needle guard EU/1/01/185/089 4 blister pack with needle guard Aranesp 100 micrograms solution for injection pre-filled syringe EU/1/01/185/017 1 Pack Blister EU/1/01/185/018 4 Pack Blister EU/1/01/185/041 1 Pack Unblistered EU/1/01/185/090 1 blister pack with needle guard EU/1/01/185/091 4 blister pack with needle guard Aranesp 130 micrograms solution for injection pre-filled syringe EU/1/01/185/069 1 Pack Blister EU/1/01/185/070 4 Pack Blister EU/1/01/185/071 1 Pack Unblistered EU/1/01/185/092 1 blister pack with needle guard EU/1/01/185/093 4 blister pack with needle guard Aranesp 150 micrograms solution for injection pre-filled syringe EU/1/01/185/019 1 Pack Blister EU/1/01/185/020 4 Pack Blister EU/1/01/185/042 1 Pack Unblistered EU/1/01/185/094 1 blister pack with needle guard EU/1/01/185/095 4 blister pack with needle guard Aranesp 300 micrograms solution for injection pre-filled syringe EU/1/01/185/021 1 Pack Blister EU/1/01/185/022 4 Pack Blister EU/1/01/185/043 1 Pack Unblistered EU/1/01/185/096 1 blister pack with needle guard EU/1/01/185/097 4 blister pack with needle guard Aranesp 500 micrograms solution for injection pre-filled syringe EU/1/01/185/031 1 Pack Blister EU/1/01/185/032 4 Pack Blister EU/1/01/185/044 1 Pack Unblistered EU/1/01/185/098 1 blister pack with needle guard EU/1/01/185/099 4 blister pack with needle guard Aranesp 10 micrograms solution for injection pre-filled pen EU/1/01/185/045 -1 pack EU/1/01/185/057 -4 pack Aranesp 15 micrograms solution for injection pre-filled pen EU/1/01/185/046 -1 pack EU/1/01/185/058 -4 pack Aranesp 20 micrograms solution for injection pre-filled pen EU/1/01/185/047 -1 pack EU/1/01/185/059 -4 pack Aranesp 30 micrograms solution for injection pre-filled pen EU/1/01/185/048 -1 pack EU/1/01/185/060 -4 pack Aranesp 40 micrograms solution for injection pre-filled pen EU/1/01/185/049 -1 pack EU/1/01/185/061 -4 pack Aranesp 50 micrograms solution for injection pre-filled pen EU/1/01/185/050 -1 pack EU/1/01/185/062 -4 pack Aranesp 60 micrograms solution for injection pre-filled pen EU/1/01/185/051 -1 pack EU/1/01/185/063 -4 pack
 
 <div style=\"page-break-after: always\"></div>
 
 Aranesp 80 micrograms solution for injection pre-filled pen
 
-EU/1/01/185/052 - 1 pack
+EU/1/01/185/052 -1 pack
 
-EU/1/01/185/064 - 4 pack
+EU/1/01/185/064 -4 pack
 
 Aranesp 100 micrograms solution for injection pre-filled pen
 
-EU/1/01/185/053 - 1 pack
+EU/1/01/185/053 -1 pack
 
-EU/1/01/185/065 - 4 pack
+EU/1/01/185/065 -4 pack
 
 Aranesp 130 micrograms solution for injection pre-filled pen
 
-EU/1/01/185/072 - 1 pack
+EU/1/01/185/072 -1 pack
 
-EU/1/01/185/073 - 4 pack
+EU/1/01/185/073 -4 pack
 
 Aranesp 150 micrograms solution for injection pre-filled pen
 
-EU/1/01/185/054 - 1 pack
+EU/1/01/185/054 -1 pack
 
-EU/1/01/185/066 - 4 pack
+EU/1/01/185/066 -4 pack
 
 Aranesp 300 micrograms solution for injection pre-filled pen
 
-EU/1/01/185/055 - 1 pack
+EU/1/01/185/055 -1 pack
 
-EU/1/01/185/067 - 4 pack
+EU/1/01/185/067 -4 pack
 
 Aranesp 500 micrograms solution for injection pre-filled pen
 
-EU/1/01/185/056 - 1 pack
+EU/1/01/185/056 -1 pack
 
-EU/1/01/185/068 - 4 pack
+EU/1/01/185/068 -4 pack
 
 Aranesp 25 micrograms solution for injection vial
 
@@ -821,20 +853,6 @@ An updated RMP should be submitted:
 - At the request of the European Medicines Agency;
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
 
-## · Additional risk minimisation measures for Aranesp solution for injection in pre-filled pen
-
-The MAH shall agree the final educational material with the national competent authority where the pre-filled pen is marketed. Healthcare professionals prescribing Aranesp pre-filled pen will be provided educational materials to facilitate training patients on the correct self-administration of Aranesp.
-
-The healthcare professional's educational material should contain the following key elements:
-
-- Training checklist
-- -provides structured training steps for healthcare professionals to train patients/caregivers on the specific preparation and administration steps that they will need to perform using a dummy pen, while following the instructions for use located in the package leaflet.
-- -reminds the healthcare professionals to verify that the patients/caregivers can demonstrate using the dummy pen confidently and competently to be able to prepare and administer the medicine successfully when at home.
-- -includes information on how to receive further checklists or demonstration device(s).
-- A demonstration device
-- A poster-size instructions for use (for patients/caregivers with diminished eyesight)
-- -includes the instructions for use located in the package leaflet in a way that patients/caregivers with diminished eyesight are informed on how to handle the pen and administer Aranesp appropriately.
-
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX III
@@ -930,7 +948,7 @@ Medicinal product subject to medical prescription.
 
 Aranesp 10 micrograms syringe
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -972,23 +990,20 @@ IV/SC
 
 ## TRAY FOR PRE-FILLED SYRINGE WITH NEEDLE GUARD
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Aranesp 10 µg injection Darbepoetin alfa
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Amgen
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -1002,17 +1017,16 @@ IV/SC
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITH TRAY                        |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
+|------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABELWHENUSEDWITHTRAY                   |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 10 µg Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1024,8 +1038,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.4 ml
 
@@ -1076,7 +1090,7 @@ EXP
 
 Store in a refrigerator. Do not freeze.
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1106,23 +1120,27 @@ Aranesp 10 micrograms syringe
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC
+
+SN
 
 <div style=\"page-break-after: always\"></div>
 
+NN
+
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITHOUT TRAY                     |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL WHENUSEDWITHOUTTRAY                     |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Aranesp 10 µg injection Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1134,8 +1152,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.4 ml
 
@@ -1164,8 +1182,7 @@ Excipients: sodium phosphate monobasic, sodium phosphate dibasic, sodium chlorid
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-1 single use pre-filled syringe.
-
+- 1 single use pre-filled syringe.
 - 4 single use pre-filled syringes.
 - 1 single use pre-filled syringe with automatic needle guard.
 - 4 single use pre-filled syringes with automatic needle guards.
@@ -1230,7 +1247,7 @@ Medicinal product subject to medical prescription.
 
 Aranesp 15 micrograms syringe
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1272,23 +1289,19 @@ IV/SC
 
 ## TRAY FOR PRE-FILLED SYRINGE WITH NEEDLE GUARD
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Aranesp 15 µg injection Darbepoetin alfa
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Amgen
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -1302,17 +1315,18 @@ IV/SC
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITH TRAY                        |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABELWHENUSEDWITHTRAY                         |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+1.
+
+NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 15 µg Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1324,8 +1338,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.375 ml
 
@@ -1412,17 +1426,20 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITHOUT TRAY                     |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL WHENUSEDWITHOUTTRAY                     |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+1.
 
-Aranesp 15 µg injection Darbepoetin alfa IV/SC
+NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+Aranesp 15 µg injection Darbepoetin alfa
+
+IV/SC
+
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1434,8 +1451,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.375 ml
 
@@ -1530,7 +1547,7 @@ Medicinal product subject to medical prescription.
 
 Aranesp 20 micrograms syringe
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1572,8 +1589,7 @@ IV/SC
 
 ## TRAY FOR PRE-FILLED SYRINGE WITH NEEDLE GUARD
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Aranesp 20 µg injection Darbepoetin alfa
 
@@ -1599,17 +1615,16 @@ IV/SC
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITH TRAY                        |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABELWHENUSEDWITHTRAY                         |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 20 µg Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1621,8 +1636,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.5 ml
 
@@ -1673,8 +1688,6 @@ EXP
 
 Store in a refrigerator. Do not freeze.
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -1709,17 +1722,19 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITHOUT TRAY                     |
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL WHENUSEDWITHOUTTRAY                     |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Aranesp 20 µg injection Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1731,8 +1746,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.5 ml
 
@@ -1827,7 +1842,7 @@ Medicinal product subject to medical prescription.
 
 Aranesp 30 micrograms syringe
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1869,23 +1884,20 @@ IV/SC
 
 ## TRAY FOR PRE-FILLED SYRINGE WITH NEEDLE GUARD
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Aranesp 30 µg injection Darbepoetin alfa
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Amgen
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -1899,17 +1911,16 @@ IV/SC
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITH TRAY                        |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
+|------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABELWHENUSEDWITHTRAY                   |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 30 µg Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1921,8 +1932,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.3 ml
 
@@ -2009,17 +2020,17 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITHOUT TRAY                     |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL WHENUSEDWITHOUTTRAY                     |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Aranesp 30 µg injection Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2031,8 +2042,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.3 ml
 
@@ -2127,21 +2138,13 @@ Medicinal product subject to medical prescription.
 
 Aranesp 40 micrograms syringe
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN NN
-
-<div style=\"page-break-after: always\"></div>
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
-| 5.   | OTHER   |
-|------|---------|
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -2171,12 +2174,13 @@ IV/SC
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 ## TRAY FOR PRE-FILLED SYRINGE WITH NEEDLE GUARD
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Aranesp 40 µg injection Darbepoetin alfa
 
@@ -2194,26 +2198,22 @@ Lot
 
 ## 5. OTHER
 
-IV/SC
-
-0.4 ml
+IV/SC 0.4 ml
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITH TRAY                        |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
+|------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABELWHENUSEDWITHTRAY                   |
 
-1.
-
-NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 40 µg Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2225,8 +2225,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.4 ml
 
@@ -2313,16 +2313,16 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITHOUT TRAY                     |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL WHENUSEDWITHOUTTRAY                     |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 40 µg injection Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2334,8 +2334,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.4 ml
 
@@ -2430,30 +2430,13 @@ Medicinal product subject to medical prescription.
 
 Aranesp 50 micrograms syringe
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN NN
-
-<div style=\"page-break-after: always\"></div>
-
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
-
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
-
-| 3.   | EXPIRY DATE   |
-|------|---------------|
-
-| 4.   | BATCH NUMBER   |
-|------|----------------|
-
-| 5.   | OTHER   |
-|------|---------|
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -2483,17 +2466,17 @@ IV/SC
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 ## TRAY FOR PRE-FILLED SYRINGE WITH NEEDLE GUARD
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Aranesp 50 µg injection Darbepoetin alfa
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Amgen
 
@@ -2515,17 +2498,16 @@ IV/SC
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITH TRAY                        |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABELWHENUSEDWITHTRAY                         |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 50 µg Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2537,8 +2519,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.5 ml
 
@@ -2625,17 +2607,17 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITHOUT TRAY                     |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL WHENUSEDWITHOUTTRAY                     |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Aranesp 50 µg injection Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2647,8 +2629,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.5 ml
 
@@ -2707,7 +2689,7 @@ Store in a refrigerator. Do not freeze.
 
 <div style=\"page-break-after: always\"></div>
 
-10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -2743,7 +2725,7 @@ Medicinal product subject to medical prescription.
 
 Aranesp 60 micrograms syringe
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -2785,23 +2767,19 @@ IV/SC
 
 ## TRAY FOR PRE-FILLED SYRINGE WITH NEEDLE GUARD
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT   |
-|------|---------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Aranesp 60 µg injection Darbepoetin alfa
 
-| 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
-|------|----------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Amgen
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+## 3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -2813,17 +2791,16 @@ IV/SC 0.3 ml
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITH TRAY                        |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABELWHENUSEDWITHTRAY                         |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 60 µg Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -2835,8 +2812,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.3 ml
 
@@ -2923,32 +2900,29 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITHOUT TRAY                     |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL WHENUSEDWITHOUTTRAY                     |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 60 µg injection Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 0.3 ml
+
+## 6. OTHER
 
 | 6.   | OTHER   |
 |------|---------|
@@ -3041,7 +3015,7 @@ Medicinal product subject to medical prescription.
 
 Aranesp 80 micrograms syringe
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -3101,25 +3075,22 @@ Lot
 
 ## 5. OTHER
 
-IV/SC
-
-0.4 ml
+IV/SC 0.4 ml
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITH TRAY                        |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABELWHENUSEDWITHTRAY                         |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 80 µg Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -3131,8 +3102,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.4 ml
 
@@ -3183,8 +3154,6 @@ EXP
 
 Store in a refrigerator. Do not freeze.
 
-<div style=\"page-break-after: always\"></div>
-
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -3219,17 +3188,20 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITHOUT TRAY                     |
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABEL WHENUSEDWITHOUTTRAY                     |
 
-Aranesp 80 µg injection Darbepoetin alfa IV/SC
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+Aranesp 80 µg injection Darbepoetin alfa
+
+IV/SC
+
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -3241,8 +3213,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.4 ml
 
@@ -3337,7 +3309,7 @@ Medicinal product subject to medical prescription.
 
 Aranesp 100 micrograms syringe
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -3397,44 +3369,37 @@ Lot
 
 ## 5. OTHER
 
-IV/SC
-
-0.5 ml
+IV/SC 0.5 ml
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITH TRAY                        |
+## PRE-FILLED SYRINGE LABEL WHEN USED WITH TRAY
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 100 µg Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 0.5 ml
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 Amgen Europe B.V.
+
+<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3514,9 +3479,9 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
-|--------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITHOUT TRAY               |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+## PRE-FILLED SYRINGE LABEL WHEN USED WITHOUT TRAY
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -3626,17 +3591,13 @@ Medicinal product subject to medical prescription.
 
 Aranesp 130 micrograms syringe
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
-
-NN
+PC SN NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -3662,9 +3623,9 @@ Lot
 
 IV/SC
 
-0.65 ml
-
 <div style=\"page-break-after: always\"></div>
+
+0.65 ml
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3696,11 +3657,9 @@ IV/SC
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
-|--------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITH TRAY                  |
+## PRE-FILLED SYRINGE LABEL WHEN USED WITH TRAY
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
@@ -3722,8 +3681,7 @@ Lot
 
 ## 6. OTHER
 
-| 6.   | OTHER   |
-|------|---------|
+<div style=\"page-break-after: always\"></div>
 
 Amgen Europe B.V.
 
@@ -3803,6 +3761,8 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
+<div style=\"page-break-after: always\"></div>
+
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
 
 ## PRE-FILLED SYRINGE LABEL WHEN USED WITHOUT TRAY
@@ -3828,8 +3788,6 @@ Lot
 ## 6. OTHER
 
 Amgen Europe B.V.
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3917,17 +3875,13 @@ Medicinal product subject to medical prescription.
 
 Aranesp 150 micrograms syringe
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
-
-NN
+PC SN NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -3953,9 +3907,9 @@ Lot
 
 IV/SC
 
-0.3 ml
-
 <div style=\"page-break-after: always\"></div>
+
+0.3 ml
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3981,42 +3935,50 @@ Lot
 
 ## 5. OTHER
 
-IV/SC
-
-0.3 ml
+IV/SC 0.3 ml
 
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
-|--------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITH TRAY                  |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABELWHENUSEDWITHTRAY                         |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
-Aranesp 150 µg Darbepoetin alfa IV/SC
-
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
-EXP
-
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-Lot
-
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
-
-0.3 ml
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 | 6.   | OTHER   |
 |------|---------|
+
+Aranesp 150 µg Darbepoetin alfa IV/SC
+
+2. METHOD OF ADMINISTRATION
+
+3. EXPIRY DATE
+
+EXP
+
+## 4. BATCH NUMBER
+
+Lot
+
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+
+0.3 ml
+
+## 6. OTHER
 
 Amgen Europe B.V.
 
@@ -4044,7 +4006,9 @@ Excipients: sodium phosphate monobasic, sodium phosphate dibasic, sodium chlorid
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. For intravenous or subcutaneous use.
+Read the package leaflet before use.
+
+For intravenous or subcutaneous use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -4060,7 +4024,7 @@ EXP
 
 Store in a refrigerator. Do not freeze.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -4096,19 +4060,18 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
-|--------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITHOUT TRAY               |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+## PRE-FILLED SYRINGE LABEL WHEN USED WITHOUT TRAY
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 150 µg injection Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3. EXPIRY DATE
 
 EXP
 
@@ -4117,8 +4080,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.3 ml
 
@@ -4213,17 +4176,13 @@ Medicinal product subject to medical prescription.
 
 Aranesp 300 micrograms syringe
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
-
-NN
+PC SN NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -4249,9 +4208,9 @@ Lot
 
 IV/SC
 
-0.6 ml
-
 <div style=\"page-break-after: always\"></div>
+
+0.6 ml
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4283,16 +4242,16 @@ IV/SC 0.6 ml
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
-|--------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITH TRAY                  |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING   |
+|------------------------------------------------------------|
+| PRE-FILLED SYRINGE LABELWHENUSEDWITHTRAY                   |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 300 µg Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -4304,8 +4263,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.6 ml
 
@@ -4360,7 +4319,13 @@ Store in a refrigerator. Do not freeze.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
+Amgen Europe B.V.
+
+Minervum 7061
+
+4817 ZK Breda
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -4392,34 +4357,29 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
-|--------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITHOUT TRAY               |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+## PRE-FILLED SYRINGE LABEL WHEN USED WITHOUT TRAY
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 300 µg injection Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+2. METHOD OF ADMINISTRATION
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3. EXPIRY DATE
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
 
 0.6 ml
 
-| 6.   | OTHER   |
-|------|---------|
+## 6. OTHER
 
 Amgen Europe B.V.
 
@@ -4509,17 +4469,13 @@ Medicinal product subject to medical prescription.
 
 Aranesp 500 micrograms syringe
 
-## 17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER -2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC
-
-SN
-
-NN
+PC SN NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
@@ -4577,19 +4533,18 @@ IV/SC 1 ml
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
-|--------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITH TRAY                  |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+## PRE-FILLED SYRINGE LABEL WHEN USED WITH TRAY
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 500 µg Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3. EXPIRY DATE
 
 EXP
 
@@ -4598,8 +4553,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 1 ml
 
@@ -4632,7 +4587,9 @@ Excipients: sodium phosphate monobasic, sodium phosphate dibasic, sodium chlorid
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. For intravenous or subcutaneous use.
+Read the package leaflet before use.
+
+For intravenous or subcutaneous use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -4684,19 +4641,18 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
-|--------------------------------------------------------------|
-| PRE-FILLED SYRINGE LABEL WHENUSED WITHOUT TRAY               |
+## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+
+## PRE-FILLED SYRINGE LABEL WHEN USED WITHOUT TRAY
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 500 µg injection Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
-| 3.   | EXPIRY DATE   |
-|------|---------------|
+3. EXPIRY DATE
 
 EXP
 
@@ -4705,8 +4661,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 1 ml
 
@@ -4775,9 +4731,7 @@ Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/01/185/045 1 pack
-
-EU/1/01/185/057 4 pack
+EU/1/01/185/045 1 pack EU/1/01/185/057 4 pack
 
 ## 13. BATCH NUMBER
 
@@ -4787,19 +4741,23 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 16. INFORMATION IN BRAILLE
 
 Aranesp 10 micrograms pen
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC
+
+SN
+
+NN
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED PEN LABEL
 
@@ -4809,7 +4767,7 @@ Aranesp 10 µg injection Darbepoetin alfa SC
 
 ## 2. METHOD OF ADMINISTRATION
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -4877,6 +4835,8 @@ EXP
 
 Store in a refrigerator. Do not freeze.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -4885,9 +4845,7 @@ Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/01/185/046 1 pack
-
-EU/1/01/185/058 4 pack
+EU/1/01/185/046 1 pack EU/1/01/185/058 4 pack
 
 ## 13. BATCH NUMBER
 
@@ -4897,13 +4855,13 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 16. INFORMATION IN BRAILLE
 
 Aranesp 15 micrograms pen
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -4940,8 +4898,6 @@ Lot
 ## 6. OTHER
 
 Amgen Europe B.V.
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5003,9 +4959,7 @@ Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/01/185/047 1 pack
-
-EU/1/01/185/059 4 pack
+EU/1/01/185/047 1 pack EU/1/01/185/059 4 pack
 
 ## 13. BATCH NUMBER
 
@@ -5015,13 +4969,13 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 16. INFORMATION IN BRAILLE
 
 Aranesp 20 micrograms pen
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -5035,17 +4989,16 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                               |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                             |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 20 µg injection Darbepoetin alfa SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -5057,8 +5010,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.5 ml
 
@@ -5117,6 +5070,8 @@ EXP
 
 Store in a refrigerator. Do not freeze.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -5125,9 +5080,7 @@ Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/01/185/048 1 pack
-
-EU/1/01/185/060 4 pack
+EU/1/01/185/048 1 pack EU/1/01/185/060 4 pack
 
 ## 13. BATCH NUMBER
 
@@ -5137,13 +5090,13 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Aranesp 30 micrograms pen
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -5157,17 +5110,16 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                             |
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED PEN LABEL
-
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 30 µg injection Darbepoetin alfa SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -5179,8 +5131,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.3 ml
 
@@ -5261,13 +5213,13 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
-16. INFORMATION IN BRAILLE
+## 16. INFORMATION IN BRAILLE
 
 Aranesp 40 micrograms pen
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -5355,6 +5307,8 @@ EXP
 
 Store in a refrigerator. Do not freeze.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -5363,9 +5317,7 @@ Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/01/185/050 1 pack
-
-EU/1/01/185/062 4 pack
+EU/1/01/185/050 1 pack EU/1/01/185/062 4 pack
 
 ## 13. BATCH NUMBER
 
@@ -5375,13 +5327,13 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 16. INFORMATION IN BRAILLE
 
 Aranesp 50 micrograms pen
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -5395,18 +5347,16 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                               |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                             |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 50 µg injection Darbepoetin alfa SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -5418,8 +5368,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.5 ml
 
@@ -5498,47 +5448,57 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 16. INFORMATION IN BRAILLE
 
 Aranesp 60 micrograms pen
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
-PC SN NN
+PC
+
+SN
+
+NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED PEN LABEL
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                             |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 60 µg injection Darbepoetin alfa SC
 
-2. METHOD OF ADMINISTRATION
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 3. EXPIRY DATE
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.3 ml
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 Amgen Europe B.V.
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5590,6 +5550,8 @@ EXP
 
 Store in a refrigerator. Do not freeze.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -5598,9 +5560,7 @@ Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/01/185/052 1 pack
-
-EU/1/01/185/064 4 pack
+EU/1/01/185/052 1 pack EU/1/01/185/064 4 pack
 
 ## 13. BATCH NUMBER
 
@@ -5610,13 +5570,13 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 16. INFORMATION IN BRAILLE
 
 Aranesp 80 micrograms pen
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -5630,18 +5590,16 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                               |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                             |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 80 µg injection Darbepoetin alfa SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -5653,8 +5611,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 0.4 ml
 
@@ -5723,9 +5681,7 @@ Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/01/185/053 1 pack
-
-EU/1/01/185/065 4 pack
+EU/1/01/185/053 1 pack EU/1/01/185/065 4 pack
 
 ## 13. BATCH NUMBER
 
@@ -5735,13 +5691,13 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 16. INFORMATION IN BRAILLE
 
 Aranesp 100 micrograms pen
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -5752,6 +5708,8 @@ PC
 SN
 
 NN
+
+<div style=\"page-break-after: always\"></div>
 
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED PEN LABEL
 
@@ -5776,8 +5734,6 @@ Lot
 ## 6. OTHER
 
 Amgen Europe B.V.
-
-<div style=\"page-break-after: always\"></div>
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5829,6 +5785,8 @@ EXP
 
 Store in a refrigerator. Do not freeze.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -5849,13 +5807,13 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 16. INFORMATION IN BRAILLE
 
 Aranesp 130 micrograms pen
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -5867,15 +5825,13 @@ SN
 
 NN
 
-<div style=\"page-break-after: always\"></div>
-
 ## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS PRE-FILLED PEN LABEL
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 130 µg injection Darbepoetin alfa SC
 
-## 2. METHOD OF ADMINISTRATION
+2. METHOD OF ADMINISTRATION
 
 3. EXPIRY DATE
 
@@ -5955,9 +5911,7 @@ Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/01/185/054 1 pack
-
-EU/1/01/185/066 4 pack
+EU/1/01/185/054 1 pack EU/1/01/185/066 4 pack
 
 ## 13. BATCH NUMBER
 
@@ -5967,13 +5921,13 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 16. INFORMATION IN BRAILLE
 
 Aranesp 150 micrograms pen
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -5993,7 +5947,7 @@ NN
 
 Aranesp 150 µg injection Darbepoetin alfa SC
 
-## 2. METHOD OF ADMINISTRATION
+2. METHOD OF ADMINISTRATION
 
 3. EXPIRY DATE
 
@@ -6073,9 +6027,7 @@ Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/01/185/055 1 pack
-
-EU/1/01/185/067 4 pack
+EU/1/01/185/055 1 pack EU/1/01/185/067 4 pack
 
 ## 13. BATCH NUMBER
 
@@ -6085,13 +6037,13 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 16. INFORMATION IN BRAILLE
 
 Aranesp 300 micrograms pen
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -6109,7 +6061,7 @@ NN
 
 Aranesp 300 µg injection Darbepoetin alfa SC
 
-## 2. METHOD OF ADMINISTRATION
+2. METHOD OF ADMINISTRATION
 
 3. EXPIRY DATE
 
@@ -6179,8 +6131,6 @@ EXP
 
 Store in a refrigerator. Do not freeze.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -6201,13 +6151,13 @@ Lot
 
 Medicinal product subject to medical prescription.
 
-15. INSTRUCTIONS ON USE
+## 15. INSTRUCTIONS ON USE
 
 16. INFORMATION IN BRAILLE
 
 Aranesp 500 micrograms pen
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -6221,17 +6171,18 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING   |
-|--------------------------------------------------------------|
-| PRE-FILLED PEN LABEL                                         |
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| PRE-FILLED PEN LABEL                                             |
+
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 500 µg injection Darbepoetin alfa SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -6243,8 +6194,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 1 ml
 
@@ -6323,7 +6274,7 @@ Medicinal product subject to medical prescription.
 
 Justification for not including Braille accepted
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -6335,17 +6286,17 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| VIAL LABEL                                                         |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| VIAL LABEL                                                       |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
+|------|-------------------------------------------------------------|
 
 Aranesp 25 mcg injection Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -6357,8 +6308,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 1 ml
 
@@ -6387,11 +6338,13 @@ Excipients: sodium phosphate monobasic, sodium phosphate dibasic, sodium chlorid
 
 1 single use vial
 
-4 single use vials
+- 4 single use vials
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. For intravenous or subcutaneous use.
+Read the package leaflet before use.
+
+For intravenous or subcutaneous use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -6406,6 +6359,8 @@ EXP
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator. Do not freeze.
+
+<div style=\"page-break-after: always\"></div>
 
 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -6433,7 +6388,7 @@ Medicinal product subject to medical prescription.
 
 Justification for not including Braille accepted
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -6443,19 +6398,16 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| VIAL LABEL                                                       |
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| VIAL LABEL                                                         |
-
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 40 mcg injection Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -6467,8 +6419,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 1 ml
 
@@ -6497,11 +6449,13 @@ Excipients: sodium phosphate monobasic, sodium phosphate dibasic, sodium chlorid
 
 1 single use vial
 
-4 single use vials
+- 4 single use vials
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. For intravenous or subcutaneous use.
+Read the package leaflet before use.
+
+For intravenous or subcutaneous use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -6523,7 +6477,13 @@ Store in a refrigerator. Do not freeze.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
+Amgen Europe B.V.
+
+Minervum 7061
+
+4817 ZK Breda
+
+The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
@@ -6545,7 +6505,7 @@ Medicinal product subject to medical prescription.
 
 Justification for not including Braille accepted
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -6555,17 +6515,16 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| VIAL LABEL                                                         |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| VIAL LABEL                                                       |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 60 mcg injection Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -6577,8 +6536,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 1 ml
 
@@ -6607,11 +6566,13 @@ Excipients: sodium phosphate monobasic, sodium phosphate dibasic, sodium chlorid
 
 1 single use vial
 
-4 single use vials
+- 4 single use vials
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. For intravenous or subcutaneous use.
+Read the package leaflet before use.
+
+For intravenous or subcutaneous use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -6655,7 +6616,7 @@ Medicinal product subject to medical prescription.
 
 Justification for not including Braille accepted
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -6671,7 +6632,7 @@ Aranesp 100 mcg injection Darbepoetin alfa IV/SC
 
 ## 2. METHOD OF ADMINISTRATION
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -6709,11 +6670,13 @@ Excipients: sodium phosphate monobasic, sodium phosphate dibasic, sodium chlorid
 
 1 single use vial
 
-4 single use vials
+- 4 single use vials
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. For intravenous or subcutaneous use.
+Read the package leaflet before use.
+
+For intravenous or subcutaneous use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -6743,7 +6706,7 @@ EU/1/01/185/108 1 pack
 
 EU/1/01/185/109 4 pack
 
-13. BATCH NUMBER
+## 13. BATCH NUMBER
 
 Lot
 
@@ -6767,17 +6730,16 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS   |
-|--------------------------------------------------------------------|
-| VIAL LABEL                                                         |
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| VIAL LABEL                                                       |
 
-| 1.   | NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION   |
-|------|----------------------------------------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 200 mcg injection Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -6789,8 +6751,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 1 ml
 
@@ -6819,11 +6781,13 @@ Excipients: sodium phosphate monobasic, sodium phosphate dibasic, sodium chlorid
 
 1 single use vial
 
-4 single use vials
+- 4 single use vials
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
-Read the package leaflet before use. For intravenous or subcutaneous use.
+Read the package leaflet before use.
+
+For intravenous or subcutaneous use.
 
 ## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
@@ -6867,7 +6831,7 @@ Medicinal product subject to medical prescription.
 
 Justification for not including Braille accepted
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -6877,14 +6841,16 @@ PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS VIAL LABEL
+| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATE PACKAGING UNITS   |
+|------------------------------------------------------------------|
+| VIAL LABEL                                                       |
 
 ## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE(S) OF ADMINISTRATION
 
 Aranesp 300 mcg injection Darbepoetin alfa IV/SC
 
-| 2.   | METHOD OF ADMINISTRATION   |
-|------|----------------------------|
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -6896,8 +6862,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
-|------|--------------------------------------------|
+| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
+|------|---------------------------------------|
 
 1 ml
 
@@ -6912,9 +6878,20 @@ Lot
 
 ## Package leaflet: Information for the user
 
-```
-Aranesp 10 micrograms solution for injection in pre-filled syringe Aranesp 15 micrograms solution for injection in pre-filled syringe Aranesp 20 micrograms solution for injection in pre-filled syringe Aranesp 30 micrograms solution for injection in pre-filled syringe Aranesp 40 micrograms solution for injection in pre-filled syringe Aranesp 50 micrograms solution for injection in pre-filled syringe Aranesp 60 micrograms solution for injection in pre-filled syringe Aranesp 80 micrograms solution for injection in pre-filled syringe Aranesp 100 micrograms solution for injection in pre-filled syringe Aranesp 130 micrograms solution for injection in pre-filled syringe Aranesp 150 micrograms solution for injection in pre-filled syringe Aranesp 300 micrograms solution for injection in pre-filled syringe Aranesp 500 micrograms solution for injection in pre-filled syringe
-```
+| Aranesp 10 micrograms solution for injection in pre-filled syringe   |
+|----------------------------------------------------------------------|
+| Aranesp 15 micrograms solution for injection in pre-filled syringe   |
+| Aranesp 20 micrograms solution for injection in pre-filled syringe   |
+| Aranesp 30 micrograms solution for injection in pre-filled syringe   |
+| Aranesp 40 micrograms solution for injection in pre-filled syringe   |
+| Aranesp 50 micrograms solution for injection in pre-filled syringe   |
+| Aranesp 60 micrograms solution for injection in pre-filled syringe   |
+| Aranesp 80 micrograms solution for injection in pre-filled syringe   |
+| Aranesp 100 micrograms solution for injection in pre-filled syringe  |
+| Aranesp 130 micrograms solution for injection in pre-filled syringe  |
+| Aranesp 150 micrograms solution for injection in pre-filled syringe  |
+| Aranesp 300 micrograms solution for injection in pre-filled syringe  |
+| Aranesp 500 micrograms solution for injection in pre-filled syringe  |
 
 darbepoetin alfa
 
@@ -7019,7 +6996,7 @@ Aranesp should not affect your ability to drive or use machinery.
 
 ## Aranesp contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7127,19 +7104,16 @@ frequency cannot be estimated from available data
 
 ## Cancer patients
 
-Very common:
-
-may affect more than 1 in 10 people
+Very common: may affect more than 1 in 10 people
 
 - Allergic reactions
-
-Common: may affect up to 1 in 10 people
-
 - High blood pressure (hypertension)
 - Blood clots (thrombosis)
 - Pain around the area injected
 - Rash and/or redness of the skin
 - Fluid retention (oedema)
+
+Common: may affect up to 1 in 10 people
 
 Uncommon: may affect up to 1 in 100 people
 
@@ -7148,7 +7122,9 @@ Uncommon: may affect up to 1 in 100 people
 
 ## All patients
 
-Not known: frequency cannot be estimated from available data
+Not known:
+
+frequency cannot be estimated from available data
 
 - Serious allergic reactions which may include:
 - Sudden life-threatening allergic reactions (anaphylaxis)
@@ -7203,9 +7179,13 @@ Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
 
 ## Manufacturer
 
-Amgen Technology (Ireland) Unlimited Company Pottery Road Dun Laoghaire Co Dublin Ireland
+Amgen Technology (Ireland) Unlimited Company
 
-Manufacturer Amgen NV Telecomlaan 5-7 1831 Diegem Belgium
+Pottery Road Dun Laoghaire Co Dublin Ireland
+
+## Manufacturer
+
+Amgen NV Telecomlaan 5-7 1831 Diegem Belgium
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7231,7 +7211,9 @@ Amgen, filial af Amgen AB, Sverige Tlf: +45 39617500
 
 ## Deutschland
 
-AMGEN GmbH Tel.: +49 89 1490960
+AMGEN GmbH
+
+Tel.: +49 89 1490960
 
 ## Eesti
 
@@ -7249,13 +7231,13 @@ Tel: +34 93 600 18 60
 
 ## France
 
-Amgen S.A.S.
-
-Tél: +33 (0)9 69 363 363
+Amgen S.A.S. Tél: +33 (0)9 69 363 363
 
 ## Hrvatska
 
-Amgen d.o.o. Tel: +385 (0)1 562 57 20
+Amgen d.o.o.
+
+Tel: +385 (0)1 562 57 20
 
 ## Ireland
 
@@ -7263,7 +7245,9 @@ Amgen Ireland Limited Tel: +353 1 8527400
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor hf.
+
+Sími: +354 535 7000
 
 ## Lietuva
 
@@ -7289,7 +7273,9 @@ Tel: +31 (0)76 5732500
 
 ## Norge
 
-Amgen AB Tel: +47 23308000
+Amgen AB
+
+Tel: +47 23308000
 
 ## Österreich
 
@@ -7297,11 +7283,15 @@ Amgen GmbH Tel: +43 (0)1 50 217
 
 ## Polska
 
-Amgen Biotechnologia Sp. z o.o. Tel.: +48 22 581 3000
+Amgen Biotechnologia Sp. z o.o.
+
+Tel.: +48 22 581 3000
 
 ## Portugal
 
-Amgen Biofarmacêutica, Lda. Tel: +351 21 4220606
+Amgen Biofarmacêutica, Lda.
+
+Tel: +351 21 4220606
 
 ## România
 
@@ -7309,15 +7299,13 @@ Amgen România SRL Tel: +4021 527 3000
 
 ## Slovenija
 
-AMGEN zdravila d.o.o.
-
-Tel: +386 (0)1 585 1767
+AMGEN zdravila d.o.o. Tel: +386 (0)1 585 1767
 
 ## Slovenská republika
 
-Amgen Slovakia s.r.o. Tel: +421 2 321 114 49
+Amgen Slovakia s.r.o.
 
-<div style=\"page-break-after: always\"></div>
+Tel: +421 2 321 114 49
 
 ## Italia
 
@@ -7325,17 +7313,37 @@ Amgen S.r.l
 
 Tel: +39 02 6241121
 
+## Suomi/Finland
+
+Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland Puh/Tel: +358 (0)9 54900500
+
 ## Kύπρος
 
 C.A. Papaellinas Ltd
 
-Τηλ.: +357 22741 741
+Τηλ
+
+.: +357 22741 741
+
+## Sverige
+
+Amgen AB
+
+Tel: +46 (0)8 6951100
 
 ## Latvija
 
 Amgen Switzerland AG Rīgas filiāle
 
 Tel: +371 257 25888
+
+## United Kingdom (Northern Ireland)
+
+Amgen Limited
+
+Tel: +44 (0)1223 420305
+
+<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -7366,22 +7374,6 @@ To give yourself an injection you will need:
 2. Do not shake the pre-filled syringe.
 3. Do not remove the cap from the syringe until you are ready to inject.
 4. Check that it is the correct dose that your doctor has prescribed.
-
-## Suomi/Finland
-
-Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland Puh/Tel: +358 (0)9 54900500
-
-## Sverige
-
-Amgen AB
-
-Tel: +46 (0)8 6951100
-
-## United Kingdom (Northern Ireland)
-
-Amgen Limited
-
-Tel: +44 (0)1223 420305
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7433,19 +7425,20 @@ Remember: If you have any problems, please do not be afraid to ask your doctor o
 
 ## Package leaflet: Information for the user
 
-| Aranesp 10 micrograms solution for injection in pre-filled pen (SureClick)                                                                            |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Aranesp 15 micrograms solution for injection in pre-filled pen (SureClick)                                                                            |
-| Aranesp 20 micrograms solution for injection in pre-filled pen (SureClick)                                                                            |
-| Aranesp 30 micrograms solution for injection in pre-filled pen (SureClick)                                                                            |
-| Aranesp 40 micrograms solution for injection in pre-filled pen (SureClick)                                                                            |
-| Aranesp 50 micrograms solution for injection in pre-filled pen (SureClick) Aranesp 60 micrograms solution for injection in pre-filled pen (SureClick) |
-| Aranesp 80 micrograms solution for injection in pre-filled pen (SureClick)                                                                            |
-| Aranesp 100 micrograms solution for injection in pre-filled pen (SureClick)                                                                           |
-| Aranesp 130 micrograms solution for injection in pre-filled pen (SureClick)                                                                           |
-| Aranesp 150 micrograms solution for injection in pre-filled pen (SureClick)                                                                           |
-| Aranesp 300 micrograms solution for injection in pre-filled pen (SureClick)                                                                           |
-| Aranesp 500 micrograms solution for injection in pre-filled pen (SureClick)                                                                           |
+| Aranesp 10 micrograms solution for injection in pre-filled pen (SureClick)   |
+|------------------------------------------------------------------------------|
+| Aranesp 15 micrograms solution for injection in pre-filled pen (SureClick)   |
+| Aranesp 20 micrograms solution for injection in pre-filled pen (SureClick)   |
+| Aranesp 30 micrograms solution for injection in pre-filled pen (SureClick)   |
+| Aranesp 40 micrograms solution for injection in pre-filled pen (SureClick)   |
+| Aranesp 50 micrograms solution for injection in pre-filled pen (SureClick)   |
+| Aranesp 60 micrograms solution for injection in pre-filled pen (SureClick)   |
+| Aranesp 80 micrograms solution for injection in pre-filled pen (SureClick)   |
+| Aranesp 100 micrograms solution for injection in pre-filled pen (SureClick)  |
+| Aranesp 130 micrograms solution for injection in pre-filled pen (SureClick)  |
+| Aranesp 150 micrograms solution for injection in pre-filled pen (SureClick)  |
+| Aranesp 300 micrograms solution for injection in pre-filled pen (SureClick)  |
+| Aranesp 500 micrograms solution for injection in pre-filled pen (SureClick)  |
 
 darbepoetin alfa
 
@@ -7549,7 +7542,7 @@ Aranesp should not affect your ability to drive or use machinery.
 
 ## Aranesp contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## 3. How to use Aranesp
 
@@ -7649,7 +7642,7 @@ Very common: may affect more than 1 in 10 people
 
 Not known: frequency cannot be estimated from available data
 
-- Pure red cell aplasia (PRCA) - (anaemia, unusual tiredness, lack of energy)
+- Pure red cell aplasia (PRCA) -(anaemia, unusual tiredness, lack of energy)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -7676,7 +7669,6 @@ Uncommon:
 may affect up to 1 in 100 people
 
 - Convulsions (fits and seizures)
-- •
 - Bruising and bleeding at the site of injection
 
 ## All patients
@@ -7754,11 +7746,7 @@ Amgen NV Telecomlaan 5-7 1831 Diegem Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
-
-s.a. Amgen n.v.
-
-Tel/Tél: +32 (0)2 7752711
+België/Belgique/Belgien s.a. Amgen n.v. Tel/Tél: +32 (0)2 7752711
 
 Lietuva
 
@@ -7776,9 +7764,7 @@ Tel: +370 5 219 7474
 
 ## Česká republika
 
-Amgen s.r.o.
-
-Tel: +420 221 773 500
+Amgen s.r.o. Tel: +420 221 773 500
 
 ## Danmark
 
@@ -7802,9 +7788,7 @@ Amgen S.A. Tel: +34 93 600 18 60
 
 ## France
 
-Amgen S.A.S.
-
-Tél: +33 (0)9 69 363 363
+Amgen S.A.S. Tél: +33 (0)9 69 363 363
 
 ## Hrvatska
 
@@ -7822,15 +7806,17 @@ Vistor hf. Sími: +354 535 7000
 
 Amgen S.r.l Tel: +39 02 6241121
 
+## Kύπρος
+
+C.A. Papaellinas Ltd Τηλ .: +357 22741 741
+
 ## Luxembourg/Luxemburg
 
 s.a. Amgen Belgique/Belgien Tel/Tél: +32 (0)2 7752711
 
 ## Magyarország
 
-Amgen Kft.
-
-Tel.: +36 1 35 44 700
+Amgen Kft. Tel.: +36 1 35 44 700
 
 ## Malta
 
@@ -7872,13 +7858,13 @@ Amgen Slovakia s.r.o. Tel: +421 2 321 114 49
 
 Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland Puh/Tel: +358 (0)9 54900500
 
+## Sverige
+
+Amgen AB
+
+Tel: +46 (0)8 6951100
+
 <div style=\"page-break-after: always\"></div>
-
-## Kύπρος
-
-C.A. Papaellinas Ltd
-
-Τηλ.: +357 22741 741
 
 ## Latvija
 
@@ -7894,12 +7880,6 @@ Detailed information on this medicine is available on the European Medicines Age
 
 This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
 
-## Sverige
-
-Amgen AB
-
-Tel: +46 (0)8 6951100
-
 ## United Kingdom (Northern Ireland)
 
 Amgen Limited
@@ -7911,8 +7891,6 @@ Tel: +44 (0)1223 420305
 ## Instructions for use
 
 It is important that you do not try to give the injection unless you or your caregiver has received training from your healthcare provider.
-
-There are additional educational materials available to train you on how to self administer Aranesp pre-filled pen, a dummy demonstration device and a poster-size instructions for use for patients/caregivers with diminished eyesight.
 
 Important:
 
@@ -7930,7 +7908,7 @@ Before you use the Aranesp SureClick pre-filled pen, read this important informa
 
 - Keep the pre-filled pen and all medicines out of the sight and reach of children.
 - Keep the pre-filled pen in the outer carton in order to protect from light or physical damage.
-- Store the pre-filled pen in the refrigerator (2ºC - 8ºC).
+- Store the pre-filled pen in the refrigerator (2ºC -8ºC).
 - Once your pre-filled pen has been removed from the refrigerator, and left at room temperature (up to 25ºC) for approximately 30 minutes before injection, it must either be used within seven days or disposed of.
 - Do not store the pre-filled pen in extreme heat or cold. For example, avoid storing in your car glove box or boot.
 - Do not freeze. Do not use Aranesp if you think it has been frozen.
@@ -7950,14 +7928,14 @@ For more information or help, contact your healthcare provider.
 
 ## Step 1: Prepare
 
-## A Remove one pre-filled pen from the carton.
+- A Remove one pre-filled pen from the carton.
 
 Carefully lift the pre-filled pen straight up out of the carton. Put the original carton with any unused pre-filled pens back in the refrigerator.
 
 - Leave the pre-filled pen at room temperature for at least 30 minutes before injecting.
-- Do not put the pre-filled pen back in the refrigerator once it has reached room temperature. x
-- Do not try to warm the pre-filled pen by using a heat source such as hot water or microwave.
-- Do not leave the pre-filled pen in direct sunlight. x
+- Do not put the pre-filled pen back in the refrigerator once it has reached room temperature.
+- Do not try to warm the pre-filled pen by using a heat source such as hot water or microwave. ×
+- Do not leave the pre-filled pen in direct sunlight.
 - Do not shake the pre-filled pen.
 - Do not remove the grey cap from the pre-filled pen yet.
 - B Inspect the pre-filled pen.
@@ -7970,11 +7948,13 @@ Grey cap on (needle inside)
 
 - Check that it is the correct dose that your healthcare provider has prescribed.
 - You may see the plunger in the inspection window at a different location, depending upon the strength.
-- Do not use the pre-filled pen if the medicine is cloudy or discoloured or contains flakes or particles.
-- Do not use the pre-filled pen if any part appears cracked or broken. ×
-- Do not use the pre-filled pen if the grey cap is missing or not securely attached.
-- Do not ×
-- use the pre-filled pen if the expiry date printed after EXP on the label has passed. In all cases, use a new pre-filled pen and contact your healthcare provider.
+- Do not use the pre-filled pen if the medicine is cloudy or discoloured or contains flakes or particles. ×
+- Do not use the pre-filled pen if any part appears cracked or broken.
+- Do not use the pre-filled pen if the grey cap is missing or not securely attached. ×
+- Do not use the pre-filled pen if the expiry date printed after EXP on the label has passed.
+
+In all cases, use a new pre-filled pen and contact your healthcare provider.
+
 - C Gather all the materials needed for your injection.
 
 ## Wash your hands thoroughly with soap and water.
@@ -8039,8 +8019,10 @@ Thigh
 ## Package leaflet: Information for the user
 
 ```
-Aranesp 10 micrograms solution for injection in pre-filled syringe Aranesp 15 micrograms solution for injection in pre-filled syringe Aranesp 20 micrograms solution for injection in pre-filled syringe Aranesp 30 micrograms solution for injection in pre-filled syringe Aranesp 40 micrograms solution for injection in pre-filled syringe Aranesp 50 micrograms solution for injection in pre-filled syringe Aranesp 60 micrograms solution for injection in pre-filled syringe Aranesp 80 micrograms solution for injection in pre-filled syringe Aranesp 100 micrograms solution for injection in pre-filled syringe Aranesp 130 micrograms solution for injection in pre-filled syringe Aranesp 150 micrograms solution for injection in pre-filled syringe Aranesp 300 micrograms solution for injection in pre-filled syringe Aranesp 500 micrograms solution for injection in pre-filled syringe darbepoetin alfa
+Aranesp 10 micrograms solution for injection in pre-filled syringe Aranesp 15 micrograms solution for injection in pre-filled syringe Aranesp 20 micrograms solution for injection in pre-filled syringe Aranesp 30 micrograms solution for injection in pre-filled syringe Aranesp 40 micrograms solution for injection in pre-filled syringe Aranesp 50 micrograms solution for injection in pre-filled syringe Aranesp 60 micrograms solution for injection in pre-filled syringe Aranesp 80 micrograms solution for injection in pre-filled syringe Aranesp 100 micrograms solution for injection in pre-filled syringe Aranesp 130 micrograms solution for injection in pre-filled syringe Aranesp 150 micrograms solution for injection in pre-filled syringe Aranesp 300 micrograms solution for injection in pre-filled syringe Aranesp 500 micrograms solution for injection in pre-filled syringe
 ```
+
+darbepoetin alfa
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -8142,7 +8124,7 @@ Aranesp should not affect your ability to drive or use machinery.
 
 ## Aranesp contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## 3. How to use Aranesp
 
@@ -8243,7 +8225,7 @@ may affect up to 1 in 10 people
 
 Not known: frequency cannot be estimated from available data
 
-- Pure red cell aplasia (PRCA) - (anaemia, unusual tiredness, lack of energy)
+- Pure red cell aplasia (PRCA) -(anaemia, unusual tiredness, lack of energy)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -8266,12 +8248,13 @@ Uncommon:
 may affect up to 1 in 100 people
 
 - Convulsions (fits and seizures)
-- •
 - Bruising and bleeding at the site of injection
 
 ## All patients
 
-Not known: frequency cannot be estimated from available data
+Not known:
+
+frequency cannot be estimated from available data
 
 - Serious allergic reactions which may include:
 - Sudden life-threatening allergic reactions (anaphylaxis)
@@ -8328,19 +8311,29 @@ Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
 
 Amgen Technology (Ireland) Unlimited Company
 
-Pottery Road Dun Laoghaire Co Dublin Ireland
+Pottery Road
+
+Dun Laoghaire
+
+Co Dublin
+
+Ireland
 
 ## Manufacturer
 
 Amgen NV Telecomlaan 5-7 1831 Diegem Belgium
 
-<div style=\"page-break-after: always\"></div>
-
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-## België/Belgique/Belgien
+België/Belgique/Belgien s.a. Amgen n.v. Tel/Tél: +32 (0)2 7752711
 
-s.a. Amgen n.v. Tel/Tél: +32 (0)2 7752711
+Lietuva
+
+Amgen Switzerland AG Vilniaus filialas
+
+Tel: +370 5 219 7474
+
+<div style=\"page-break-after: always\"></div>
 
 ## България
 
@@ -8370,21 +8363,15 @@ Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε. Τηλ.: +30 210 3447000
 
 ## España
 
-Amgen S.A.
-
-Tel: +34 93 600 18 60
+Amgen S.A. Tel: +34 93 600 18 60
 
 ## France
 
-Amgen S.A.S.
-
-Tél: +33 (0)9 69 363 363
+Amgen S.A.S. Tél: +33 (0)9 69 363 363
 
 ## Hrvatska
 
-Amgen d.o.o.
-
-Tel: +385 (0)1 562 57 20
+Amgen d.o.o. Tel: +385 (0)1 562 57 20
 
 ## Ireland
 
@@ -8394,9 +8381,13 @@ Amgen Ireland Limited Tel: +353 1 8527400
 
 Vistor hf. Sími: +354 535 7000
 
-## Lietuva
+## Italia
 
-Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
+Amgen S.r.l Tel: +39 02 6241121
+
+## Kύπρος
+
+C.A. Papaellinas Ltd Τηλ.: +357 22741 741
 
 ## Luxembourg/Luxemburg
 
@@ -8412,9 +8403,7 @@ Amgen B.V. The Netherlands Tel: +31 (0)76 5732500
 
 ## Nederland
 
-Amgen B.V.
-
-Tel: +31 (0)76 5732500
+Amgen B.V. Tel: +31 (0)76 5732500
 
 ## Norge
 
@@ -8438,33 +8427,15 @@ Amgen România SRL Tel: +4021 527 3000
 
 ## Slovenija
 
-AMGEN zdravila d.o.o.
-
-Tel: +386 (0)1 585 1767
+AMGEN zdravila d.o.o. Tel: +386 (0)1 585 1767
 
 ## Slovenská republika
 
 Amgen Slovakia s.r.o. Tel: +421 2 321 114 49
 
-## Italia
-
-Amgen S.r.l
-
-Tel: +39 02 6241121
-
 ## Suomi/Finland
 
-Amgen AB, sivuliike Suomessa/Amgen AB, filial
-
-i Finland
-
-Puh/Tel: +358 (0)9 54900500
-
-## Kύπρος
-
-C.A. Papaellinas Ltd
-
-Τηλ.: +357 22741 741
+Amgen AB, sivuliike Suomessa/Amgen AB, filial i Finland Puh/Tel: +358 (0)9 54900500
 
 ## Sverige
 
@@ -8472,19 +8443,13 @@ Amgen AB
 
 Tel: +46 (0)8 6951100
 
+<div style=\"page-break-after: always\"></div>
+
 ## Latvija
 
 Amgen Switzerland AG Rīgas filiāle
 
 Tel: +371 257 25888
-
-## United Kingdom (Northern Ireland)
-
-Amgen Limited
-
-Tel: +44 (0)1223 420305
-
-<div style=\"page-break-after: always\"></div>
 
 ## This leaflet was last revised in
 
@@ -8493,6 +8458,12 @@ Tel: +44 (0)1223 420305
 Detailed information on this medicine is available on the European Medicines Agency website: http://www.ema.europa.eu.
 
 This leaflet is available in all EU/EEA languages on the European Medicines Agency website.
+
+## United Kingdom (Northern Ireland)
+
+Amgen Limited
+
+Tel: +44 (0)1223 420305
 
 <div style=\"page-break-after: always\"></div>
 
@@ -8510,10 +8481,10 @@ Instructions for use:
 - Aranesp is given as an injection into the tissue just under the skin (subcutaneous injection).
 - Tell your doctor if you have an allergy to latex. The needle cap on the pre-filled syringe contains a derivative of latex and may cause severe allergic reactions.
 - Do not remove the grey needle cap from the pre-filled syringe until you are ready to inject. x
-- Do not use the pre-filled syringe if it has been dropped on a hard surface. Use a new pre-filled syringe and call your doctor or healthcare provider. ×
+- Do not use the pre-filled syringe if it has been dropped on a hard surface. Use a new pre-filled syringe and call your doctor or healthcare provider. x
 - Do not attempt to activate the pre-filled syringe prior to injection. ×
-- Do not attempt to remove the clear pre-filled syringe safety guard from the pre-filled syringe. ×
-- Do not attempt to remove the peelable label on the pre-filled syringe barrel before administering your injection. x
+- Do not attempt to remove the clear pre-filled syringe safety guard from the pre-filled syringe. x
+- Do not attempt to remove the peelable label on the pre-filled syringe barrel before administering your injection.
 
 Call your doctor or healthcare provider if you have any questions.
 
@@ -8538,7 +8509,7 @@ On a clean, well-lit work surface, place the new pre-filled syringe and the othe
 
 <!-- image -->
 
-- Do not use the pre-filled syringe if: x
+- Do not use the pre-filled syringe if: X
 - The medicine is cloudy or there are particles in it. It must be a clear and colourless liquid.
 - Any part appears cracked or broken.
 - The grey needle cap is missing or not securely attached.
@@ -8556,8 +8527,7 @@ In all cases, call your doctor or healthcare provider.
 
 Clean the injection site with an alcohol wipe. Let your skin dry.
 
-- Do not
-- touch the injection site before injecting
+- Do not touch the injection site before injecting
 
 Choose a different site each time you give yourself an injection. If you need to use the same injection site, just make sure it is not the same spot on that site you used last time. Do not inject into areas where the skin is tender, bruised, red, or hard. Avoid injecting into areas with scars or stretch marks.
 
@@ -8591,7 +8561,17 @@ If there is blood, press a cotton ball or gauze pad on your injection site. Do n
 
 <div style=\"page-break-after: always\"></div>
 
-Aranesp 25 micrograms solution for injection in vial Aranesp 40 micrograms solution for injection in vial Aranesp 60 micrograms solution for injection in vial Aranesp 100 micrograms solution for injection in vial Aranesp 200 micrograms solution for injection in vial Aranesp 300 micrograms solution for injection in vial darbepoetin alfa
+Aranesp 25 micrograms solution for injection in vial
+
+Aranesp 40 micrograms solution for injection in vial
+
+Aranesp 60 micrograms solution for injection in vial
+
+Aranesp 100 micrograms solution for injection in vial
+
+Aranesp 200 micrograms solution for injection in vial
+
+Aranesp 300 micrograms solution for injection in vial darbepoetin alfa
 
 ## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
 
@@ -8657,10 +8637,10 @@ Please tell your doctor if you are suffering or have suffered from:
 - -Your doctor should try to keep your haemoglobin between 10 and 12 g/dL. Your doctor will check that your haemoglobin does not exceed a certain level, as high haemoglobin concentrations could put you at risk of having a problem of the heart or the blood vessels and could increase risk of myocardial infarction, stroke and death.
 - -If you have symptoms which include severe headache, drowsiness, confusion, problems with your eyesight, nausea, vomiting or fits (seizures), it could mean that you have very high blood pressure. If you experience these symptoms you should contact your doctor.
 - -If you are a cancer patient you should be aware that Aranesp may act as a blood cell growth factor and in some circumstances may have a negative impact on your cancer. Depending on your individual situation a blood transfusion may be preferable. Please discuss this with your doctor.
+- -Misuse by healthy people can cause life-threatening problems with the heart or blood vessels.
 
 <div style=\"page-break-after: always\"></div>
 
-- -Misuse by healthy people can cause life-threatening problems with the heart or blood vessels.
 - -Serious skin reactions including Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported in association with epoetin treatment. SJS/TEN can appear initially as reddish target-like spots or circular patches often with central blisters on the trunk. Also, ulcers of mouth, throat, nose, genitals and eyes (red and swollen eyes) can occur. These serious skin rashes are often preceded by fever and/or flu-like symptoms. The rashes may progress to widespread peeling of the skin and life-threatening complications. If you develop a serious rash or another of these skin symptoms, stop taking Aranesp and contact your doctor or seek medical attention immediately.
 
 ## Other medicines and Aranesp
@@ -8691,7 +8671,7 @@ Aranesp should not affect your ability to drive or use machinery.
 
 ## Aranesp contains sodium
 
-This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium-free'.
+This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially 'sodium -free'.
 
 ## 3. How to use Aranesp
 
@@ -8787,11 +8767,9 @@ Uncommon: may affect up to 1 in 100 people
 - Bruising and bleeding at the site of injection
 - Blood clots in a dialysis access
 
-Not known:
+Not known: frequency cannot be estimated from available data
 
-frequency cannot be estimated from available data
-
-- Pure red cell aplasia (PRCA) - (anaemia, unusual tiredness, lack of energy)
+- Pure red cell aplasia (PRCA) -(anaemia, unusual tiredness, lack of energy)
 
 ## Cancer patients
 
@@ -8799,9 +8777,7 @@ Very common:
 
 may affect more than 1 in 10 people
 
-- •
-
-Allergic reactions
+- Allergic reactions
 
 Common:
 
@@ -8900,11 +8876,11 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-## Lietuva
-
 s.a. Amgen n.v.
 
 Tel/Tél: +32 (0)2 7752711
+
+## Lietuva
 
 Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
 
@@ -8916,7 +8892,11 @@ Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
 
 ## Luxembourg/Luxemburg
 
-s.a. Amgen Belgique/Belgien Tel/Tél: +32 (0)2 7752711
+s.a. Amgen
+
+Belgique/Belgien
+
+Tel/Tél: +32 (0)2 7752711
 
 ## Česká republika
 
@@ -8932,7 +8912,9 @@ Tel.: +36 1 35 44 700
 
 ## Danmark
 
-Amgen, filial af Amgen AB, Sverige Tlf: +45 39617500
+Amgen, filial af Amgen AB, Sverige
+
+Tlf: +45 39617500
 
 ## Malta
 

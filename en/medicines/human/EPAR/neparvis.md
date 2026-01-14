@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 11:32:05
+document_datetime: 2026-01-13 10:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/neparvis.html
 document_name: neparvis.html
 version: success
-processing_time: 0.1506823
-conversion_datetime: 2025-12-31 04:14:59.975851
+processing_time: 0.1597701
+conversion_datetime: 2026-01-14 07:16:06.199352
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 sacubitril / valsartan Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -122,7 +120,7 @@ English (EN) (96.57 KB - PDF)
 
 [View](/en/documents/overview/neparvis-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-866)
+[Other languages (22)](#file-language-dropdown-841)
 
 български (BG) (120.88 KB - PDF)
 
@@ -402,17 +400,17 @@ English (EN) (547.41 KB - PDF)
 
 Neparvis : EPAR - Product Information
 
-English (EN) (1.26 MB - PDF)
+English (EN) (782.5 KB - PDF)
 
 **First published:** 13/06/2016
 
-**Last updated:** 14/05/2025
+**Last updated:** 13/01/2026
 
 [View](/en/documents/product-information/neparvis-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-404)
+[Other languages (24)](#file-language-dropdown-447)
 
-български (BG) (978.92 KB - PDF)
+български (BG) (1.07 MB - PDF)
 
 **First published:**
 
@@ -420,11 +418,11 @@ English (EN) (1.26 MB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/bg/documents/product-information/neparvis-epar-product-information_bg.pdf)
 
-español (ES) (3.33 MB - PDF)
+español (ES) (837.01 KB - PDF)
 
 **First published:**
 
@@ -432,11 +430,11 @@ español (ES) (3.33 MB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/es/documents/product-information/neparvis-epar-product-information_es.pdf)
 
-čeština (CS) (993.92 KB - PDF)
+čeština (CS) (1.04 MB - PDF)
 
 **First published:**
 
@@ -444,11 +442,11 @@ español (ES) (3.33 MB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/cs/documents/product-information/neparvis-epar-product-information_cs.pdf)
 
-dansk (DA) (726.54 KB - PDF)
+dansk (DA) (790.25 KB - PDF)
 
 **First published:**
 
@@ -456,11 +454,11 @@ dansk (DA) (726.54 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/da/documents/product-information/neparvis-epar-product-information_da.pdf)
 
-Deutsch (DE) (3.39 MB - PDF)
+Deutsch (DE) (869.33 KB - PDF)
 
 **First published:**
 
@@ -468,11 +466,11 @@ Deutsch (DE) (3.39 MB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/de/documents/product-information/neparvis-epar-product-information_de.pdf)
 
-eesti keel (ET) (2.92 MB - PDF)
+eesti keel (ET) (818.01 KB - PDF)
 
 **First published:**
 
@@ -480,11 +478,11 @@ eesti keel (ET) (2.92 MB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/et/documents/product-information/neparvis-epar-product-information_et.pdf)
 
-ελληνικά (EL) (3.44 MB - PDF)
+ελληνικά (EL) (1.09 MB - PDF)
 
 **First published:**
 
@@ -492,11 +490,11 @@ eesti keel (ET) (2.92 MB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/el/documents/product-information/neparvis-epar-product-information_el.pdf)
 
-français (FR) (946.83 KB - PDF)
+français (FR) (1 MB - PDF)
 
 **First published:**
 
@@ -504,11 +502,11 @@ français (FR) (946.83 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/fr/documents/product-information/neparvis-epar-product-information_fr.pdf)
 
-hrvatski (HR) (3.6 MB - PDF)
+hrvatski (HR) (964.66 KB - PDF)
 
 **First published:**
 
@@ -516,11 +514,11 @@ hrvatski (HR) (3.6 MB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/hr/documents/product-information/neparvis-epar-product-information_hr.pdf)
 
-íslenska (IS) (2.93 MB - PDF)
+íslenska (IS) (775.8 KB - PDF)
 
 **First published:**
 
@@ -528,11 +526,11 @@ hrvatski (HR) (3.6 MB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/is/documents/product-information/neparvis-epar-product-information_is.pdf)
 
-italiano (IT) (3.31 MB - PDF)
+italiano (IT) (919.87 KB - PDF)
 
 **First published:**
 
@@ -540,11 +538,11 @@ italiano (IT) (3.31 MB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/it/documents/product-information/neparvis-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (3.34 MB - PDF)
+latviešu valoda (LV) (1.01 MB - PDF)
 
 **First published:**
 
@@ -552,11 +550,11 @@ latviešu valoda (LV) (3.34 MB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/lv/documents/product-information/neparvis-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (3.63 MB - PDF)
+lietuvių kalba (LT) (1.03 MB - PDF)
 
 **First published:**
 
@@ -564,11 +562,11 @@ lietuvių kalba (LT) (3.63 MB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/lt/documents/product-information/neparvis-epar-product-information_lt.pdf)
 
-magyar (HU) (939.07 KB - PDF)
+magyar (HU) (1009.7 KB - PDF)
 
 **First published:**
 
@@ -576,11 +574,11 @@ magyar (HU) (939.07 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/hu/documents/product-information/neparvis-epar-product-information_hu.pdf)
 
-Malti (MT) (4.44 MB - PDF)
+Malti (MT) (1.09 MB - PDF)
 
 **First published:**
 
@@ -588,11 +586,11 @@ Malti (MT) (4.44 MB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/mt/documents/product-information/neparvis-epar-product-information_mt.pdf)
 
-Nederlands (NL) (3.02 MB - PDF)
+Nederlands (NL) (883.23 KB - PDF)
 
 **First published:**
 
@@ -600,11 +598,11 @@ Nederlands (NL) (3.02 MB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/nl/documents/product-information/neparvis-epar-product-information_nl.pdf)
 
-norsk (NO) (2.94 MB - PDF)
+norsk (NO) (806.25 KB - PDF)
 
 **First published:**
 
@@ -612,11 +610,11 @@ norsk (NO) (2.94 MB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/no/documents/product-information/neparvis-epar-product-information_no.pdf)
 
-polski (PL) (3.5 MB - PDF)
+polski (PL) (1.08 MB - PDF)
 
 **First published:**
 
@@ -624,11 +622,11 @@ polski (PL) (3.5 MB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/pl/documents/product-information/neparvis-epar-product-information_pl.pdf)
 
-português (PT) (3.59 MB - PDF)
+português (PT) (888.73 KB - PDF)
 
 **First published:**
 
@@ -636,11 +634,11 @@ português (PT) (3.59 MB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/pt/documents/product-information/neparvis-epar-product-information_pt.pdf)
 
-română (RO) (3.64 MB - PDF)
+română (RO) (1.01 MB - PDF)
 
 **First published:**
 
@@ -648,11 +646,11 @@ română (RO) (3.64 MB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/ro/documents/product-information/neparvis-epar-product-information_ro.pdf)
 
-slovenčina (SK) (4.21 MB - PDF)
+slovenčina (SK) (1.03 MB - PDF)
 
 **First published:**
 
@@ -660,11 +658,11 @@ slovenčina (SK) (4.21 MB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/sk/documents/product-information/neparvis-epar-product-information_sk.pdf)
 
-slovenščina (SL) (903.39 KB - PDF)
+slovenščina (SL) (1009.41 KB - PDF)
 
 **First published:**
 
@@ -672,11 +670,11 @@ slovenščina (SL) (903.39 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/sl/documents/product-information/neparvis-epar-product-information_sl.pdf)
 
-Suomi (FI) (3.18 MB - PDF)
+Suomi (FI) (812 KB - PDF)
 
 **First published:**
 
@@ -684,11 +682,11 @@ Suomi (FI) (3.18 MB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/fi/documents/product-information/neparvis-epar-product-information_fi.pdf)
 
-svenska (SV) (710.16 KB - PDF)
+svenska (SV) (831.62 KB - PDF)
 
 **First published:**
 
@@ -696,11 +694,11 @@ svenska (SV) (710.16 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/sv/documents/product-information/neparvis-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUSA/00010438/202407 23/04/2025
+**Latest procedure affecting product information:** VR/0000319973 12/01/2026
 
 icon globe
 
@@ -726,7 +724,7 @@ English (EN) (110.51 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/neparvis-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-206)
+[Other languages (24)](#file-language-dropdown-351)
 
 български (BG) (78.79 KB - PDF)
 
@@ -1052,7 +1050,7 @@ Novartis Europharm Limited
 
 Vista Building
 
-Opinion adopted 31/03/2016 Marketing authorisation issued 26/05/2016 Revision 25
+Opinion adopted 31/03/2016 Marketing authorisation issued 26/05/2016 Revision 26
 
 ## Assessment history
 
@@ -1064,9 +1062,11 @@ Collapse section
 
 Neparvis : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (142.2 KB - PDF)
+English (EN) (434.62 KB - PDF)
 
 **First published:** 24/02/2025
+
+**Last updated:** 13/01/2026
 
 [View](/en/documents/procedural-steps-after/neparvis-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1158,7 +1158,7 @@ English (EN) (119.28 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-807)
+[Other languages (22)](#file-language-dropdown-511)
 
 български (BG) (145.18 KB - PDF)
 
@@ -1366,7 +1366,7 @@ English (EN) (99.42 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/neparvis-h-c-4343-a31-0020-epar-scientific-conclusions_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-728)
+[Other languages (22)](#file-language-dropdown-441)
 
 български (BG) (136.15 KB - PDF)
 
@@ -1604,7 +1604,7 @@ English (EN) (67.89 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 23/06/2025
+**This page was last updated on** 13/01/2026
 
 ## Share this page
 

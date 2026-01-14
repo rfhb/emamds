@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 08:03:03
+document_datetime: 2026-01-13 10:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/entresto.html
 document_name: entresto.html
 version: success
-processing_time: 0.1472181
-conversion_datetime: 2025-12-30 01:14:19.555921
+processing_time: 0.178587
+conversion_datetime: 2026-01-14 08:32:30.399473
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -26,8 +26,6 @@ This medicine is authorised for use in the European Union
 
 sacubitril / valsartan Medicine Human Authorised
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
-
 Page contents
 
 ## Page contents
@@ -38,6 +36,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Entresto](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-82471)
 - [More information on Entresto](#related-medicines)
 - [Topics](#topics)
 
@@ -119,7 +118,7 @@ English (EN) (96.43 KB - PDF)
 
 [View](/en/documents/overview/entresto-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-533)
+[Other languages (22)](#file-language-dropdown-257)
 
 български (BG) (120.75 KB - PDF)
 
@@ -399,17 +398,17 @@ English (EN) (1020.04 KB - PDF)
 
 Entresto : EPAR - Product Information
 
-English (EN) (739.74 KB - PDF)
+English (EN) (790.44 KB - PDF)
 
 **First published:** 01/12/2015
 
-**Last updated:** 14/05/2025
+**Last updated:** 13/01/2026
 
 [View](/en/documents/product-information/entresto-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-449)
+[Other languages (24)](#file-language-dropdown-243)
 
-български (BG) (940.22 KB - PDF)
+български (BG) (1.01 MB - PDF)
 
 **First published:**
 
@@ -417,11 +416,11 @@ English (EN) (739.74 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/bg/documents/product-information/entresto-epar-product-information_bg.pdf)
 
-español (ES) (713.36 KB - PDF)
+español (ES) (809.89 KB - PDF)
 
 **First published:**
 
@@ -429,11 +428,11 @@ español (ES) (713.36 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/es/documents/product-information/entresto-epar-product-information_es.pdf)
 
-čeština (CS) (978 KB - PDF)
+čeština (CS) (1.06 MB - PDF)
 
 **First published:**
 
@@ -441,11 +440,11 @@ español (ES) (713.36 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/cs/documents/product-information/entresto-epar-product-information_cs.pdf)
 
-dansk (DA) (706.45 KB - PDF)
+dansk (DA) (804.35 KB - PDF)
 
 **First published:**
 
@@ -453,11 +452,11 @@ dansk (DA) (706.45 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/da/documents/product-information/entresto-epar-product-information_da.pdf)
 
-Deutsch (DE) (787.62 KB - PDF)
+Deutsch (DE) (897.39 KB - PDF)
 
 **First published:**
 
@@ -465,11 +464,11 @@ Deutsch (DE) (787.62 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/de/documents/product-information/entresto-epar-product-information_de.pdf)
 
-eesti keel (ET) (798.77 KB - PDF)
+eesti keel (ET) (892.08 KB - PDF)
 
 **First published:**
 
@@ -477,11 +476,11 @@ eesti keel (ET) (798.77 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/et/documents/product-information/entresto-epar-product-information_et.pdf)
 
-ελληνικά (EL) (998.56 KB - PDF)
+ελληνικά (EL) (1.08 MB - PDF)
 
 **First published:**
 
@@ -489,11 +488,11 @@ eesti keel (ET) (798.77 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/el/documents/product-information/entresto-epar-product-information_el.pdf)
 
-français (FR) (872.88 KB - PDF)
+français (FR) (988.16 KB - PDF)
 
 **First published:**
 
@@ -501,11 +500,11 @@ français (FR) (872.88 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/fr/documents/product-information/entresto-epar-product-information_fr.pdf)
 
-hrvatski (HR) (870.88 KB - PDF)
+hrvatski (HR) (974.03 KB - PDF)
 
 **First published:**
 
@@ -513,11 +512,11 @@ hrvatski (HR) (870.88 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/hr/documents/product-information/entresto-epar-product-information_hr.pdf)
 
-íslenska (IS) (737.54 KB - PDF)
+íslenska (IS) (784.82 KB - PDF)
 
 **First published:**
 
@@ -525,11 +524,11 @@ hrvatski (HR) (870.88 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/is/documents/product-information/entresto-epar-product-information_is.pdf)
 
-italiano (IT) (830.48 KB - PDF)
+italiano (IT) (934.13 KB - PDF)
 
 **First published:**
 
@@ -537,11 +536,11 @@ italiano (IT) (830.48 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/it/documents/product-information/entresto-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (900.61 KB - PDF)
+latviešu valoda (LV) (989.9 KB - PDF)
 
 **First published:**
 
@@ -549,11 +548,11 @@ latviešu valoda (LV) (900.61 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/lv/documents/product-information/entresto-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (965.72 KB - PDF)
+lietuvių kalba (LT) (1.05 MB - PDF)
 
 **First published:**
 
@@ -561,11 +560,11 @@ lietuvių kalba (LT) (965.72 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/lt/documents/product-information/entresto-epar-product-information_lt.pdf)
 
-magyar (HU) (909.72 KB - PDF)
+magyar (HU) (1017.87 KB - PDF)
 
 **First published:**
 
@@ -573,11 +572,11 @@ magyar (HU) (909.72 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/hu/documents/product-information/entresto-epar-product-information_hu.pdf)
 
-Malti (MT) (975.4 KB - PDF)
+Malti (MT) (1.09 MB - PDF)
 
 **First published:**
 
@@ -585,11 +584,11 @@ Malti (MT) (975.4 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/mt/documents/product-information/entresto-epar-product-information_mt.pdf)
 
-Nederlands (NL) (773.93 KB - PDF)
+Nederlands (NL) (864.69 KB - PDF)
 
 **First published:**
 
@@ -597,11 +596,11 @@ Nederlands (NL) (773.93 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/nl/documents/product-information/entresto-epar-product-information_nl.pdf)
 
-norsk (NO) (695.89 KB - PDF)
+norsk (NO) (788.51 KB - PDF)
 
 **First published:**
 
@@ -609,11 +608,11 @@ norsk (NO) (695.89 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/no/documents/product-information/entresto-epar-product-information_no.pdf)
 
-polski (PL) (933.46 KB - PDF)
+polski (PL) (1.01 MB - PDF)
 
 **First published:**
 
@@ -621,11 +620,11 @@ polski (PL) (933.46 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/pl/documents/product-information/entresto-epar-product-information_pl.pdf)
 
-português (PT) (731.18 KB - PDF)
+português (PT) (835.26 KB - PDF)
 
 **First published:**
 
@@ -633,11 +632,11 @@ português (PT) (731.18 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/pt/documents/product-information/entresto-epar-product-information_pt.pdf)
 
-română (RO) (931.8 KB - PDF)
+română (RO) (1.02 MB - PDF)
 
 **First published:**
 
@@ -645,11 +644,11 @@ română (RO) (931.8 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/ro/documents/product-information/entresto-epar-product-information_ro.pdf)
 
-slovenčina (SK) (946.58 KB - PDF)
+slovenčina (SK) (1016.17 KB - PDF)
 
 **First published:**
 
@@ -657,11 +656,11 @@ slovenčina (SK) (946.58 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/sk/documents/product-information/entresto-epar-product-information_sk.pdf)
 
-slovenščina (SL) (915.74 KB - PDF)
+slovenščina (SL) (1.01 MB - PDF)
 
 **First published:**
 
@@ -669,11 +668,11 @@ slovenščina (SL) (915.74 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/sl/documents/product-information/entresto-epar-product-information_sl.pdf)
 
-Suomi (FI) (724.32 KB - PDF)
+Suomi (FI) (826.4 KB - PDF)
 
 **First published:**
 
@@ -681,11 +680,11 @@ Suomi (FI) (724.32 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/fi/documents/product-information/entresto-epar-product-information_fi.pdf)
 
-svenska (SV) (709.44 KB - PDF)
+svenska (SV) (800.04 KB - PDF)
 
 **First published:**
 
@@ -693,11 +692,11 @@ svenska (SV) (709.44 KB - PDF)
 
 **Last updated:**
 
-14/05/2025
+13/01/2026
 
 [View](/sv/documents/product-information/entresto-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUSA/00010438/202407 02/05/2025
+**Latest procedure affecting product information:** VR/0000319973 12/01/2026
 
 icon globe
 
@@ -723,7 +722,7 @@ English (EN) (67.56 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/entresto-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-701)
+[Other languages (24)](#file-language-dropdown-344)
 
 български (BG) (78.89 KB - PDF)
 
@@ -1046,7 +1045,7 @@ Novartis Europharm Limited
 
 Vista Building Elm Park Merrion Road Dublin 4 Ireland
 
-Opinion adopted 24/09/2015 Marketing authorisation issued 19/11/2015 Revision 25
+Opinion adopted 24/09/2015 Marketing authorisation issued 19/11/2015 Revision 27
 
 ## Assessment history
 
@@ -1058,9 +1057,11 @@ Collapse section
 
 Entresto : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (142.2 KB - PDF)
+English (EN) (434.38 KB - PDF)
 
 **First published:** 24/02/2025
+
+**Last updated:** 13/01/2026
 
 [View](/en/documents/procedural-steps-after/entresto-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1152,7 +1153,7 @@ English (EN) (119.28 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/angiotensin-ii-receptor-antagonists-sartans-scientific-conclusions-impact-article-53-scientific-opinion-nitrosamines_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-920)
+[Other languages (22)](#file-language-dropdown-917)
 
 български (BG) (145.18 KB - PDF)
 
@@ -1360,7 +1361,7 @@ English (EN) (99.42 KB - PDF)
 
 [View](/en/documents/scientific-conclusion/entresto-epar-scientific-conclusions-annex-iv_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-577)
+[Other languages (22)](#file-language-dropdown-567)
 
 български (BG) (136.15 KB - PDF)
 
@@ -1590,6 +1591,212 @@ English (EN) (67.84 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 21-24 September 2015](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-21-24-september-2015) 25/09/2015
 
+#### Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Entresto : EPAR - Product information - tracked changes
+
+English (EN) (418.53 KB - DOCX)
+
+**First published:** 13/01/2026
+
+[View](/en/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-118)
+
+български (BG) (780.75 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/bg/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (776.32 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/es/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (747.13 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/cs/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (734.37 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/da/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (656.57 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/de/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (950.98 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/et/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (813.64 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/el/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (771.58 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/fr/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (703.81 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/hr/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (614.23 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/is/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (748.92 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/it/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (621.23 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/lv/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (734.15 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/lt/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (644 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/hu/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (804.06 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/mt/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (732.04 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/nl/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (726.94 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/no/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (768.77 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/pl/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (701.48 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/pt/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (793.6 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/ro/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (824.82 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/sk/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (577.27 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/sl/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (630.28 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/fi/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (717.29 KB - DOCX)
+
+**First published:**
+
+13/01/2026
+
+[View](/sv/documents/product-information-tracked-changes/entresto-epar-product-information-tracked-changes_sv.docx)
+
 #### More information on Entresto
 
 - [EMEA-000316-PIP02-11-M05 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000316-pip02-11-m05)
@@ -1601,7 +1808,7 @@ English (EN) (67.84 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 23/06/2025
+**This page was last updated on** 13/01/2026
 
 ## Share this page
 

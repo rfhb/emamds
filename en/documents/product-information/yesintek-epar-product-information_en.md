@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-11-07 09:52:15
-document_pages: 111
+document_datetime: 2026-01-13 16:04:59
+document_pages: 172
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/yesintek-epar-product-information_en.pdf
 document_name: yesintek-epar-product-information_en.pdf
 version: success
-processing_time: 27.2708028
-conversion_datetime: 2025-12-19 00:47:43.502648
+processing_time: 46.6453896
+conversion_datetime: 2026-01-14 08:31:06.612683
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -48,7 +48,7 @@ The solution is clear, colourless to pale yellow, and it is formulated at pH 5.7
 
 ## Crohn's Disease
 
-Yesintek is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist .
+Yesintek is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
 
 ## 4.2 Posology and method of administration
 
@@ -67,12 +67,12 @@ Table 1:  Initial intravenous dosing of Yesintek
 | Body weight of patient at the time of dosing   | Recommended dose a   |   Number of 130mg Yesintek Vials |
 |------------------------------------------------|----------------------|----------------------------------|
 | ≤ 55 kg                                        | 260 mg               |                                2 |
-| >55 kg to ≤ 85 kg                              | 390 mg               |                                3 |
-| >85 kg                                         | 520 mg               |                                4 |
-
-a Approximately 6 mg/kg
+| > 55 kg to ≤ 85 kg                             | 390 mg               |                                3 |
+| > 85 kg                                        | 520 mg               |                                4 |
 
 <div style=\"page-break-after: always\"></div>
+
+## a Approximately 6 mg/kg
 
 The first subcutaneous dose should be given at week 8 following the intravenous dose. For the posology of the subsequent subcutaneous dosing regimen, see section 4.2 of the Yesintek solution for injection (vial) and solution for injection in pre-filled syringe SmPC.
 
@@ -82,11 +82,11 @@ No dose adjustment is needed for patients aged 65 years and older (see section 4
 
 ## Renal and hepatic impairment
 
-Ustekinumab has not been studied in these patient populations. No dose recommendations can be made.
+Yesintek has not been studied in these patient populations. No dose recommendations can be made.
 
 ## Paediatric population
 
-The safety and efficacy of ustekinumab for the treatment of Crohn's disease in children less than 18 years have not yet been established. No data are available.
+The safety and efficacy of Yesintek for the treatment of Crohn's disease in children less than 18 years have not yet been established. No data are available.
 
 ## Method of administration
 
@@ -94,9 +94,7 @@ Yesintek 130 mg is for intravenous use only. It should be administered over at l
 
 ## 4.3 Contraindications
 
-Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-
-Clinically important, active infection (e.g. active tuberculosis; see section 4.4).
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1. Clinically important, active infection (e.g. active tuberculosis; see section 4.4).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -148,11 +146,11 @@ Cardiovascular events including myocardial infarction and cerebrovascular accide
 
 It is recommended that live viral or live bacterial vaccines (such as Bacillus of Calmette and Guérin (BCG)) should not be given concurrently with Yesintek. Specific studies have not been conducted  in patients who had recently received live viral or live bacterial vaccines. No data are available on the secondary transmission of infection by live vaccines in patients receiving ustekinumab. Before live viral or live bacterial vaccination, treatment with ustekinumab should be withheld for at least 15 weeks after the last dose and can be resumed at least 2 weeks after vaccination. Prescribers should consult the Summary of Product Characteristics for the specific vaccine for additional information and guidance on concomitant use of immunosuppressive agents post-vaccination.
 
-Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.5 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab
+Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.5 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if
 
 <div style=\"page-break-after: always\"></div>
 
-serum levels are undetectable.
+infant ustekinumab serum levels are undetectable.
 
 Patients receiving Yesintek may receive concurrent inactivated or non-live vaccinations.
 
@@ -196,9 +194,9 @@ Live vaccines should not be given concurrently with ustekinumab.
 
 Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
-In the population pharmacokinetic analyses of the phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs (Nonsteroidal anti-inflammatory drugs), 6-mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to antiTNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. antiTNFα agents and/or vedolizumab) in patients with ulcerative colitis.
+In the population pharmacokinetic analyses of the phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6-mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to antiTNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. antiTNFα agents and/or vedolizumab) in patients with ulcerative colitis.
 
-The results of an in vitro study  and a phase 1 study in subjects with active Crohn's disease do not suggest the need for dose adjustments in patients who are receiving concomitant Cytochrome P450 (CYP450) substrates (see section 5.2).
+The results of an in vitro study and a phase 1 study in subjects with active Crohn's disease  do not suggest the need for dose adjustments in patients who are receiving concomitant Cytochrome P450 (CYP450) substrates (see section 5.2).
 
 In psoriasis studies, the safety and efficacy of ustekinumab in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of ustekinumab. In Crohn's disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of ustekinumab (see section 4.4).
 
@@ -218,11 +216,11 @@ However, the available clinical experience is limited. As a precautionary measur
 
 Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth.
 
-Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant,
+Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant
 
 <div style=\"page-break-after: always\"></div>
 
-administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
 ## Breast-feeding
 
@@ -244,7 +242,7 @@ The most common adverse reactions (&gt; 5%) in controlled periods of the adult p
 
 ## Tabulated list of adverse reactions
 
-The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6710 patients (4 135 with psoriasis and/or psoriatic arthritis, 1 749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and noncontrolled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months  (4 577 patients) or at least1 year (3 648 patients). 2 194 patients with psoriasis, Crohn's disease or ulcerative colitis were exposed for at least 4 years while 1 148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
+The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6 710 patients (4 135 with psoriasis and/or psoriatic arthritis, 1 749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4 577 patients) or at least1 year (3 648 patients). 2 194 patients with psoriasis, Crohn's disease or ulcerative colitis were exposed for at least 4 years while 1 148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
 
 Table 2 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1 000 to &lt; 1/100), Rare (≥ 1/10 000 to &lt; 1/1 000), Very rare (&lt; 1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -264,25 +262,25 @@ Table 2: List of adverse reactions
 | Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                                                                    |
 | General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia                                                         |
 
-*See section 4.4, Systemic and respiratory hypersensitivity reactions.
-
 ## Description of selected adverse reactions
 
 ## Infections
 
 In the placebo-controlled studies of patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis, the rates of infection or serious infection were similar between ustekinumab-treated patients and those treated with placebo. In the placebo-controlled period of these clinical studies, the rate of infection was 1.36 per patient-year of follow-up in ustekinumab-treated patients, and 1.34 in placebo-treated patients. Serious infections occurred at the rate of 0.03 per patient-year of follow-up in ustekinumab-treated patients (30 serious infections in 930 patient-years of follow-up) and 0.03 in placebo-treated patients (15 serious infections in 434 patient-years of follow-up) (see section 4.4).
 
-In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15 227 patient-years of ustekinumab exposure in 6 710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies, and 2.3 years for ulcerative colitis studies. The rate of infection was 0.85 per patient-year of follow-up in ustekinumab-treated patients, and the rate of serious infections was 0.02 per patient-year of follow-up in ustekinumab-treated patients (289 serious infections in 15 227 patientyears of follow-up) and serious infections reported included pneumonia, anal abscess, cellulitis, diverticulitis, gastroenteritis and viral infections.
+In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15 227 patient-years of ustekinumab exposure in 6 710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. The rate of infection was 0.85 per patient-year of follow-up in ustekinumab-treated patients, and the rate of serious infections was 0.02 per patient-year of follow-up in ustekinumab-treated patients (289 serious infections in 15 227 patient-years of follow-up) and serious infections reported included pneumonia, anal abscess, cellulitis, diverticulitis, gastroenteritis and viral infections.
 
 In clinical studies, patients with latent tuberculosis who were concurrently treated with isoniazid did not develop tuberculosis.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Malignancies
 
-In the placebo-controlled period of the psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, the incidence of malignancies excluding non-melanoma skin cancer was 0.11 per 100 patient-years of follow-up for ustekinumab-treated patients (1 patient in 929 patient-years of follow-up) compared with 0.23 for placebo-treated patients (1 patient in 434 patient-years of followup). The incidence of non-melanoma skin cancer was 0.43 per 100 patient-years of follow-up for ustekinumab-treated patients (4 patients in 929 patient-years of follow-up) compared to 0.46 for placebo-treated patients (2 patients in 433 patient-years of follow-up).
+In the placebo-controlled period of the psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, the incidence of malignancies excluding non-melanoma skin cancer was 0.11 per 100 patient-years of follow-up for ustekinumab-treated patients (1 patient in 929 patient-years of
 
-In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15 205 patient-years of exposure in 6 710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding non-melanoma skin cancers were reported in 76 patients in 15 205 patient-years of follow-up (incidence of 0.50 per 100 patientyears of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardized incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender and race). The most frequently observed malignancies, other than non-melanoma skin cancer, were prostate, colorectal, melanoma and breast cancers. The incidence of non-melanoma skin cancer was0.46 per 100 patient-years of follow-up for ustekinumab -treated patients (69 patients in15 165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
+<div style=\"page-break-after: always\"></div>
+
+follow-up) compared with 0.23 for placebo-treated patients (1 patient in 434 patient-years of followup). The incidence of non-melanoma skin cancer was 0.43 per 100 patient-years of follow-up for ustekinumab-treated patients (4 patients in 929 patient-years of follow-up) compared to 0.46 for placebo-treated patients (2 patients in 433 patient-years of follow-up).
+
+In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15 205 patient-years of ustekinumab exposure in 6 710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding nonmelanoma skin cancers were reported in 76 patients in 15 205 patient-years of follow-up (incidence of 0.50 per 100 patient- years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardized incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender and race). The most frequently observed malignancies, other than nonmelanoma skin cancer, were prostate, melanoma, colorectal, and breast cancers. The incidence of non-melanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab -treated patients (69 patients in 15 165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
 
 ## Hypersensitivity and infusion reactions
 
@@ -306,17 +304,17 @@ Single doses up to 6 mg/kg have been administered intravenously in clinical stud
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Immunosuppressants, interleukin inhibitors, Anatomical Therapeutic
+Pharmacotherapeutic group: Immunosuppressants, interleukin inhibitors, Anatomical Therapeutic Chemical (ATC) code: L04AC05.
+
+Yesintek is a biosimilar medicinal product. Detailed information is available on the website of the
 
 <div style=\"page-break-after: always\"></div>
 
-## Chemical  (ATC) code: L04AC05.
-
-Yesintek is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+European Medicines Agency https://www.ema.europa.eu.
 
 ## Mechanism of action
 
-Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12R β 1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12R β 1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis and Crohn's disease.
+Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12R β 1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12R β 1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL-23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis and Crohn's disease.
 
 By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis, Crohn's disease through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
 
@@ -332,17 +330,15 @@ During the long-term extension of Psoriasis Study 2 (PHOENIX 2), adult patients 
 
 The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development program consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44-week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
 
-The induction studies included 1 409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1,  section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
+The induction studies included 1 409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analyse d through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see Table 1, section 4.2), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
 
-Patients in UNITI-1 had failed or were intolerant to prior antiTNFα therapy. Approximately 48% of the patients had failed 1 prior antiTNFα therapy and 52% had failed 2 or 3 prior antiTNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to anti-
+Patients in UNITI-1 had failed or were intolerant to prior antiTNFα therapy. Approximately 48% of the patients had failed 1 prior antiTNFα therapy and 52% had failed 2 or 3 prior antiTNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary nonresponders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
 
 <div style=\"page-break-after: always\"></div>
 
-## TNFα therapies.
-
 Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNFα naïve (68.6%) or had previously received but not failed antiTNFα therapy (31.4%).
 
-In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 3). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
+In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 3). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended    intravenous induction dose.
 
 Table 3: Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
 
@@ -355,9 +351,7 @@ Table 3: Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
 | 70 Point Response, week 3             | 67 (27.1%)      | 101 (40.6%) b                           | 66 (31.6%)      | 106 (50.7%) a                           |
 | 70 Point Response, week 6             | 75 (30.4%)      | 109 (43.8%) b                           | 81 (38.8%)      | 135 (64.6%) a                           |
 
-Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission
-
-70-point response is defined as reduction in CDAI score by at least 70 points
+Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission 70-point response is defined as reduction in CDAI score by at least 70 points
 
 *AntiTNFα failures
 
@@ -369,26 +363,24 @@ The maintenance study (IM-UNITI), evaluated 388 patients who achieved 100 point 
 
 Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 4).
 
-<div style=\"page-break-after: always\"></div>
-
 Table 4:  Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
 
-|                                          | Placebo* n = 131 †   | 90 mg ustekinumab every 8 weeks n = 128 †   | 90 mg ustekinumab every12 weeks n = 129 †   |
-|------------------------------------------|----------------------|---------------------------------------------|---------------------------------------------|
-| Clinical Remission                       | 36%                  | 53% a                                       | 49% b                                       |
-| Clinical Response                        | 44%                  | 59% b                                       | 58% b                                       |
-| Corticosteroid-Free Clinical Remission   | 30%                  | 47% a                                       | 43% c                                       |
-| Clinical Remission in patients:          |                      |                                             |                                             |
-| in remission at the start of maintenance | 46% (36/79)          | 67% (52/78) a                               | 56% (44/78)                                 |
-| therapy                                  |                      |                                             |                                             |
-| who entered from study CRD3002 ‡         | 44% (31/70)          | 63% (45/72) c                               | 57% (41/72)                                 |
-| who are Anti- TNFα naïve                 | 49% (25/51)          | 65% (34/52) c                               | 57% (30/53)                                 |
-| who entered from study CRD3001 §         | 26% (16/61)          | 41% (23/56)                                 | 39% (22/57)                                 |
+|                                                  | Placebo* n = 131 †   | 90 mg ustekinumab every 8 weeks n = 128 †   | 90 mg ustekinumab every 12 weeks n = 129 †   |
+|--------------------------------------------------|----------------------|---------------------------------------------|----------------------------------------------|
+| Clinical Remission                               | 36%                  | 53% a                                       | 49% b                                        |
+| Clinical Response                                | 44%                  | 59% b                                       | 58% b                                        |
+| Corticosteroid-Free Clinical Remission           | 30%                  | 47% a                                       | 43% c                                        |
+| Clinical Remission in patients:                  |                      |                                             |                                              |
+| in remission at the start of maintenance therapy | 46% (36/79)          | 67% (52/78) a                               | 56% (44/78)                                  |
+| who entered from study CRD3002 ‡                 | 44% (31/70)          | 63% (45/72) c                               | 57% (41/72)                                  |
+| who are Anti- TNFα naïve                         | 49% (25/51)          | 65% (34/52) c                               | 57% (30/53)                                  |
+| who entered from study CRD3001 §                 | 26% (16/61)          | 41% (23/56)                                 | 39% (22/57)                                  |
+
+<div style=\"page-break-after: always\"></div>
 
 Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission
 
 *    The placebo group consisted of patients who were in response to ustekinumab and were randomised to receive placebo at the start of maintenance therapy.
-
 - † Patients who were in 100 point clinical response to ustekinumab  at start of maintenance therapy
 - ‡ Patients who failed conventional therapy but not antiTNFα therapy
 - § Patients who are antiTNFα refractory/intolerant
@@ -406,15 +398,15 @@ In IM-UNITI, patients who completed the study through week 44 were eligible to c
 
 No new safety concerns were identified in this study extension with up to 5 years of treatment in patients with Crohn's Disease.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Endoscopy
 
-Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SES-CD), a composite score across 5 ileocolonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = 0.7, p = 0.012).
+Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SES-CD), a composite score across 5 ileo- colonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = -0.7, p = 0.012).
 
 ## Fistula Response
 
 In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumab-treated patients achieved a fistula response over 44 weeks (defined as ≥ 50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Health-related quality of life
 
@@ -448,8 +440,6 @@ Median systemic clearance (CL) following a single intravenous administration to 
 
 ## Dose linearity
 
-<div style=\"page-break-after: always\"></div>
-
 The systemic exposure of ustekinumab (Cmax and Area under Curve (AUC)) increased in an approximately dose-proportional manner after a single intravenous administration at doses ranging from 0.09 mg/kg to 4.5 mg/kg.
 
 ## Special populations
@@ -457,6 +447,8 @@ The systemic exposure of ustekinumab (Cmax and Area under Curve (AUC)) increased
 No pharmacokinetic data are available in patients with impaired renal or hepatic function. No specific studies have been conducted with intravenous ustekinumab in elderly or pediatric patients.
 
 In patients with Crohn's disease, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution. Additionally in Crohn's disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian). The impact of these covariates was within ±20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates. Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Regulation of CYP450 enzymes
 
@@ -476,21 +468,17 @@ Carcinogenicity studies were not performed with ustekinumab due to the lack of a
 
 ## 6.1 List of excipients
 
-EDTA disodium salt dihydrate L-histidine L-histidine monohydrochloride monohydrate L-methionine Polysorbate 80 (E 433) Sucrose Sodium hydroxide (for pH adjustment)
+EDTA disodium salt dihydrate L-histidine L-histidine monohydrochloride monohydrate L-methionine Polysorbate 80 (E 433) Sucrose Sodium hydroxide (for pH adjustment) Hydrochloric acid (for pH adjustment) Water for injection
 
-<div style=\"page-break-after: always\"></div>
-
-## 6.2
-
-## compatibilities
+## 6.2 Incompatibilities
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products. Yesintek should only be diluted with sodium chloride 9 mg/mL (0.9%) solution. Yesintek should not be administered concomitantly in the same intravenous line with other medicinal products.
 
 ## 6.3 Shelf life
 
-2 years
+2 years Do not freeze.
 
-Do not freeze.
+<div style=\"page-break-after: always\"></div>
 
 Chemical and physical in-use stability has been demonstrated for 12 hours at 25 °C. Do not return to the refrigerator.
 
@@ -506,9 +494,7 @@ For storage conditions after dilution of the medicinal product, see section 6.3.
 
 26 mL solution in a type I glass 30 mL vial closed with a coated butyl rubber stopper. Yesintek is available in a 1 vial pack.
 
-## 6.6
-
-## pecial precautions for disposal and other handling
+## 6.6 Special precautions for disposal and other handling
 
 The solution in the Yesintek vial should not be shaken. The solution should be visually inspected for particulate matter or discolouration prior to administration. The solution is clear, colourless to pale yellow. The medicinal product should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present.
 
@@ -520,13 +506,6 @@ Yesintek concentrate for solution for infusion must be diluted and prepared by a
 2. Withdraw and discard a volume of the sodium chloride 9 mg/mL (0.9%) solution from the 250 mL infusion bag equal to the volume of Yesintek to be added. (discard 26 mL sodium chloride for each vial of Yesintek needed, for 2 vials-discard 52 mL, for 3 vials- discard 78 mL, for 4 vials- discard 104 mL)
 3. Withdraw 26 mL of Yesintek from each vial needed and add it to the 250 mL infusion bag. The final volume in the infusion bag should be 250 mL. Gently mix.
 4. Visually inspect the diluted solution before administration. Do not use if visibly opaque particles, discolouration or foreign particles are observed.
-
-In
-
-S
-
-<div style=\"page-break-after: always\"></div>
-
 5. Administer the diluted solution over a period of at least one hour. Once diluted, the infusion should be completed within twelve hours of the dilution in the infusion bag.
 6. Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 0.2 micrometer).
 7. Each vial is for single use only and any unused medicinal product should be disposed of in accordance with local requirements.
@@ -537,23 +516,23 @@ S
 
 Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/24/1892/004
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-&lt;Date of first authorisation: {DD month YYYY}&gt;
+Date of first authorisation: 14 February 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
-
-&lt;{DD month YYYY}&gt;
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
-This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
+▼ This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -599,11 +578,11 @@ Yesintek is indicated for the treatment of moderate to severe plaque psoriasis i
 
 ## Psoriatic arthritis (PsA)
 
-Yesintek, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease-modifying anti-rheumatic drug (DMARD) therapy has been inadequate (see section 5.1).
+Yesintek, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease-modifying antirheumatic drug (DMARD) therapy has been inadequate (see section 5.1).
 
 ## Crohn's Disease
 
-Yesintek is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist
+Yesintek is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.
 
 ## 4.2 Posology and method of administration
 
@@ -643,8 +622,6 @@ The safety and efficacy of Yesintek in children with psoriasis less than 6 years
 
 The recommended dose of Yesintek for 6 years and older based on body weight is shown below (Tables 1 and 2). Yesintek should be administered at Weeks 0 and 4, then every 12 weeks thereafter
 
-<div style=\"page-break-after: always\"></div>
-
 Table 1:  Recommended dose of Yesintek for paediatric psoriasis
 
 | Body weight at the time of dosing   | Recommended Dose   |
@@ -652,6 +629,8 @@ Table 1:  Recommended dose of Yesintek for paediatric psoriasis
 | < 60 kg                             | 0.75 mg/kg         |
 | ≥ 60- ≤ 100 kg                      | 45 mg              |
 | > 100 kg                            | 90 mg              |
+
+<div style=\"page-break-after: always\"></div>
 
 To calculate the volume of injection (mL) for patients &lt; 60 kg, use the following formula: body weight (kg) x 0.0083 (mL/kg) or see Table 2. The calculated volume should be rounded to the nearest 0.01 mL and administered using a 1 mL graduated syringe. A 45 mg vial is available for paediatric patients who need to receive less than the full 45 mg dose.
 
@@ -700,17 +679,16 @@ Table 2: Injection volumes of Yesintek for paediatric psoriasis patients &lt; 60
 |                                   53 |        39.8 |                       0.44 |
 |                                   54 |        40.5 |                       0.45 |
 |                                   55 |        41.3 |                       0.46 |
-
-<div style=\"page-break-after: always\"></div>
-
-|   Body weight at time of dosing (kg) |   Dose (mg) |   Volume of injection (mL) |
-|--------------------------------------|-------------|----------------------------|
 |                                   56 |        42   |                       0.46 |
 |                                   57 |        42.8 |                       0.47 |
 |                                   58 |        43.5 |                       0.48 |
 |                                   59 |        44.3 |                       0.49 |
 
-Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
+Consideration should be given to discontinuing treatment in patients who have shown no response up
+
+<div style=\"page-break-after: always\"></div>
+
+to 28 weeks of treatment.
 
 ## Crohn's Disease
 
@@ -736,35 +714,31 @@ No dose adjustment is needed for patients aged 65 years and older (see section 4
 
 ## Renal and hepatic impairment
 
-Ustekinumab has not been studied in these patient populations. No dose recommendations can be made.
+Yesintek has not been studied in these patient populations. No dose recommendations can be made.
 
 ## Paediatric population
 
-The safety and efficacy of ustekinumab in treatment of Crohn's disease in children less than 18 years have not yet been established. No data are available.
+The safety and efficacy of Yesintek in treatment of Crohn's disease in children less than 18 years have not yet been established. No data are available.
 
 ## Method of administration
 
 Yesintek 45 mg vials or 45 mg and 90 mg pre-filled syringes are for subcutaneous injection only. If possible, areas of the skin that show psoriasis should be avoided as injection sites.
 
-After proper training in subcutaneous injection technique, patients or their caregivers may inject Yesintek if a physician determines that it is appropriate. However, the physician should ensure appropriate follow-up of patients. Patients or their caregivers should be instructed to inject the prescribed amount of Yesintek according to the directions provided in the package leaflet.
-
-<div style=\"page-break-after: always\"></div>
-
-Comprehensive instructions for administration are given in the package leaflet.
+After proper training in subcutaneous injection technique, patients or their caregivers may inject Yesintek if a physician determines that it is appropriate. However, the physician should ensure appropriate follow-up of patients. Patients or their caregivers should be instructed to inject the prescribed amount of Yesintek according to the directions provided in the package leaflet. Comprehensive instructions for administration are given in the package leaflet.
 
 For further instructions on preparation and special precautions for handling, see section 6.6.
 
 ## 4.3 Contraindications
 
-Hypersensitivity to the active substance or to any of the excipients listed in section 6.1.
-
-Clinically important, active infection (e.g. active tuberculosis; see section 4.4).
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1. Clinically important, active infection (e.g. active tuberculosis; see section 4.4).
 
 ## 4.4 Special warnings and precautions for use
 
+<div style=\"page-break-after: always\"></div>
+
 ## Traceability
 
-In order to improve the traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
+In order to improve the traceability of biological medicinal products, the name and the batch number of the administered product should be clearly recorded.
 
 ## Infections
 
@@ -786,8 +760,6 @@ No studies have been conducted that include patients with a history of malignanc
 
 All patients, in particular those greater than 60 years of age, patients with a medical history of prolonged immunosuppressant therapy or those with a history of PUVA treatment, should be monitored for the appearance of skin cancer (see section 4.8).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Systemic and respiratory hypersensitivity reactions
 
 ## Systemic
@@ -796,7 +768,11 @@ Serious hypersensitivity reactions have been reported in the post-marketing sett
 
 ## Respiratory
 
-Cases of allergic alveolitis, eosinophilic pneumonia, and non-infectious organising pneumonia have been reported during post-approval use of ustekinumab. Clinical presentations included cough, dyspnoea, and interstitial infiltrates following one to three doses. Serious outcomes have included respiratory failure and prolonged hospitalisation. Improvement has been reported after discontinuation of ustekinumab and also, in some cases, administration of corticosteroids. If infection has been excluded and diagnosis is confirmed, discontinue ustekinumab and institute appropriate treatment (see section 4.8).
+Cases of allergic alveolitis, eosinophilic pneumonia, and non-infectious organising pneumonia have
+
+<div style=\"page-break-after: always\"></div>
+
+been reported during post-approval use of ustekinumab. Clinical presentations included cough, dyspnoea, and interstitial infiltrates following one to three doses. Serious outcomes have included respiratory failure and prolonged hospitalisation. Improvement has been reported after discontinuation of ustekinumab and also, in some cases, administration of corticosteroids. If infection has been excluded and diagnosis is confirmed, discontinue ustekinumab and institute appropriate treatment (see section 4.8).
 
 ## Cardiovascular events
 
@@ -822,13 +798,13 @@ In Crohn's disease and ulcerative colitis studies, concomitant use of immunosupp
 
 Ustekinumab has not been evaluated in patients who have undergone allergy immunotherapy. It is not known whether ustekinumab may affect allergy immunotherapy.
 
-<div style=\"page-break-after: always\"></div>
-
 ## Serious skin conditions
 
 In patients with psoriasis, exfoliative dermatitis has been reported following ustekinumab treatment (see section 4.8). Patients with plaque psoriasis may develop erythrodermic psoriasis, with symptoms that may be clinically indistinguishable from exfoliative dermatitis, as part of the natural course of their disease. As part of the monitoring of the patient's psoriasis, physicians should be alert for symptoms of erythrodermic psoriasis or exfoliative dermatitis. If these symptoms occur, appropriate therapy should be instituted. Yesintek should be discontinued if a drug reaction is suspected.
 
 ## Lupus-related conditions
+
+<div style=\"page-break-after: always\"></div>
 
 Cases of lupus-related conditions have been reported in patients treated with ustekinumab, including cutaneous lupus erythematosus and lupus-like syndrome. If lesions occur, especially in sun exposed areas of the skin or if accompanied by arthralgia, the patient should seek medical attention promptly. If the diagnosis of a lupus-related condition is confirmed, ustekinumab should be discontinued and appropriate treatment initiated.
 
@@ -854,15 +830,15 @@ Live vaccines should not be given concurrently with ustekinumab.
 
 Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
 
-In the population pharmacokinetic analyses of the phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to antiTNFα agents, in patients with psoriatic arthritis
-
-<div style=\"page-break-after: always\"></div>
-
-or Crohn's disease or by prior exposure to biologics (i.e. antiTNFα agents and/or vedolizumab) in patients with ulcerative colitis.
+In the population pharmacokinetic analyses of the phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6-mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to antiTNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. antiTNFα agents and/or vedolizumab) in patients with ulcerative colitis.
 
 The results of an in vitro study and a phase 1 study in subjects with active Crohn's disease do not suggest the need for dose adjustments in patients who are receiving concomitant CYP450 substrates (see section 5.2).
 
-In psoriasis studies, the safety and efficacy of ustekinumab in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of ustekinumab. In Crohn's disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of ustekinumab. (see section 4.4).
+In psoriasis studies, the safety and efficacy of ustekinumab in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of ustekinumab. In Crohn's
+
+<div style=\"page-break-after: always\"></div>
+
+disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of ustekinumab. (see section 4.4).
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -874,9 +850,7 @@ Women of childbearing potential should use effective methods of contraception du
 
 Data from a moderate number of prospectively collected pregnancies following exposure to ustekinumab with known outcomes, including more than 450 pregnancies exposed during the first trimester, do not indicate an increased risk of major congenital malformations in the newborn.
 
-Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonic/foetal development, parturition or postnatal development (see section 5.3).
-
-However, the available clinical experience is limited. As a precautionary measure, it is preferable to avoid the use of ustekinumab in pregnancy.
+Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonic/foetal development, parturition or postnatal development (see section 5.3).  However, the available clinical experience is limited. As a precautionary measure, it is preferable to avoid the use of ustekinumab in pregnancy.
 
 Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth.
 
@@ -896,15 +870,17 @@ Yesintek has no or negligible influence on the ability to drive and use machines
 
 ## 4.8 Undesirable effects
 
-<div style=\"page-break-after: always\"></div>
-
 ## Summary of the safety profile
 
 The most common adverse reactions (&gt; 5%) in controlled periods of the adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies with ustekinumab were nasopharyngitis and headache. Most were considered to be mild and did not necessitate discontinuation of study treatment. The most serious adverse reaction that has been reported for ustekinumab is serious hypersensitivity reactions including anaphylaxis (see section 4.4). The overall safety profile was similar for patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
 
 ## Tabulated list of adverse reactions
 
-The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6 710 patients (4 135 with psoriasis and/or psoriatic arthritis, 1 749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and noncontrolled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4 577 patients) or atleast 1 year (3 648 patients). 2 194 patients with psoriasis, Crohn's disease or ulcerative colitis for at least 4 years while 1 148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
+The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3
+
+<div style=\"page-break-after: always\"></div>
+
+studies in 6 710 patients (4 135 with psoriasis and/or psoriatic arthritis, 1 749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and non-controlled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4 577 patients)  or atleast 1 year (3 648 patients). 2 194 patients with psoriasis, Crohn's disease or ulcerative colitis for at least 4 years while 1 148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
 
 Table 3 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1 000 to &lt; 1/100), Rare (≥ 1/10 000 to &lt; 1/1 000), Very rare (&lt; 1/10 000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
@@ -922,17 +898,17 @@ Table 3:  List of adverse reactions
 | Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                                                                    |
 | General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia                                                         |
 
-*See section 4.4, Systemic and respiratory hypersensitivity reactions.
-
 ## Description of selected adverse reactions
 
 ## Infections
 
-<div style=\"page-break-after: always\"></div>
-
 In the placebo-controlled studies of patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis, the rates of infection or serious infection were similar between ustekinumab-treated patients and those treated with placebo. In the placebo-controlled period of these clinical studies, the rate of infection was 1.36 per patient-year of follow-up in ustekinumab-treated patients, and 1.34 in placebo-treated patients. Serious infections occurred at the rate of 0.03 per patient-year of follow-up in ustekinumab-treated patients (30 serious infections in 930 patient-years of follow-up) and 0.03 in placebo-treated patients (15 serious infections in 434 patient-years of follow-up) (see section 4.4).
 
-In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15 227 patient-years of exposure in 6 710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies, and 2.3 years for ulcerative colitis studies. The rate of infection was 0.85 per patient-year of follow-up in ustekinumab-treated patients, and the rate of serious infections was 0.02 per patient-year of follow-up in ustekinumab-treated patients (289 serious infections in 15 227 patient-years of followup) and serious infections reported included pneumonia, anal abscess, cellulitis, diverticulitis, gastroenteritis and viral infections
+In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and
+
+<div style=\"page-break-after: always\"></div>
+
+ulcerative colitis clinical studies, representing 15 227 patient-years of exposure in 6 710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies, and 2.3 years for ulcerative colitis studies. The rate of infection was 0.85 per patient-year of follow-up in ustekinumab-treated patients, and the rate of serious infections was 0.02 per patient-year of follow-up in ustekinumab-treated patients (289 serious infections in 15 227 patient-years of follow-up) and serious infections reported included pneumonia, anal abscess, cellulitis, diverticulitis, gastroenteritis and viral infections.
 
 In clinical studies, patients with latent tuberculosis who were concurrently treated with isoniazid did not develop tuberculosis.
 
@@ -940,7 +916,7 @@ In clinical studies, patients with latent tuberculosis who were concurrently tre
 
 In the placebo-controlled period of the psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, the incidence of malignancies excluding non-melanoma skin cancer was 0.11 per 100 patient-years of follow-up for ustekinumab-treated patients (1 patient in 929 patient-years of follow-up) compared with 0.23 for placebo-treated patients (1 patient in 434 patient-years of followup). The incidence of non-melanoma skin cancer was 0.43 per 100 patient-years of follow-up for ustekinumab-treated patients (4 patients in 929 patient-years of follow-up) compared to 0.46 for placebo-treated patients (2 patients in 433 patient-years of follow-up).
 
-In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15 205 patient-years of exposure in 6 710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding non-melanoma skin cancers were reported in 76 patients in 15 205 patient-years of follow-up (incidence of 0.50 per 100 patientyears of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender and race). The most frequently observed malignancies, other than non-melanoma skin cancer, were prostate, colorectal, melanoma and breast cancers. The incidence of non-melanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in 15 165 patientyears of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
+In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15 205 patient-years of ustekinumab exposure in 6 710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding nonmelanoma skin cancers were reported in 76 patients in 15 205 patient-years of follow-up (incidence of 0.50 per 100 patient- years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender  and race). The most frequently observed malignancies, other than nonmelanoma skin cancer, were prostate, melanoma, colorectal and breast cancers. The incidence of non-melanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in 15 165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
 
 ## Hypersensitivity reactions
 
@@ -954,13 +930,15 @@ The safety of ustekinumab has been studied in two phase 3 studies of paediatric 
 
 ## Reporting of suspected adverse reactions
 
-<div style=\"page-break-after: always\"></div>
-
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
 
 ## 4.9 Overdose
 
-Single doses up to 6 mg/kg have been administered intravenously in clinical studies without doselimiting toxicity. In case of overdose, it is recommended that the patient be monitored for any signs or symptoms of adverse reactions and appropriate symptomatic treatment be instituted immediately.
+Single doses up to 6 mg/kg have been administered intravenously in clinical studies without doselimiting toxicity. In case of overdose, it is recommended that the patient be monitored for any signs
+
+<div style=\"page-break-after: always\"></div>
+
+or symptoms of adverse reactions and appropriate symptomatic treatment be instituted immediately.
 
 ## 5. PHARMACOLOGICAL PROPERTIES
 
@@ -972,11 +950,13 @@ Yesintek is a biosimilar medicinal product. Detailed information is available on
 
 ## Mechanism of action
 
-Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12R β 1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12R β 1 cell surface receptors. Thus, ustekinumab   is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype, IL23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis, Crohn's disease.
+Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin (IL)-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12R β 1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12R β 1 cell surface receptors. Thus, ustekinumab   is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype,IL-23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL 12 and IL 23 has been associated with immune mediated diseases, such as psoriasis, psoriatic arthritis, Crohn's disease .
 
 By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis, Crohn's disease through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
 
-In patients with Crohn's disease, treatment with ustekinumab resulted in a decrease in inflammatory markers including C-Reactive Protein (CRP) and fecal calprotectin during the induction phase, which were then maintained throughout the maintenance phase. CRP was assessed during the study extension and the reductions observed during maintenance were generally sustained through week 252.
+In patients with Crohn's disease, treatment with ustekinumab resulted in a decrease in inflammatory markers including C-Reactive Protein (CRP) and fecal calprotectin during the induction phase, which were then maintained throughout the maintenance phase.
+
+CRP was assessed during the study extension and the reductions observed during maintenance were generally sustained through week 252.
 
 ## Immunisation
 
@@ -986,13 +966,13 @@ During the long-term extension of Psoriasis Study 2 (PHOENIX 2), adult patients 
 
 ## Plaque psoriasis (Adults)
 
-The safety and efficacy of ustekinumab was assessed in 1 996 patients in two randomized, doubleblind, placebo-controlled studies in patients with moderate to severe plaque psoriasis and who were candidates for phototherapy or systemic therapy. In addition, a randomised, blinded assessor, activecontrolled study compared ustekinumab and etanercept in patients with moderate to severe plaque
+The safety and efficacy of ustekinumab was assessed in 1 996 patients in two randomized, doubleblind, placebo-controlled studies in patients with moderate to severe plaque psoriasis and who were candidates for phototherapy or systemic therapy. In addition, a randomised, blinded assessor, activecontrolled study compared ustekinumab and etanercept in patients with moderate to severe plaque psoriasis who had had an inadequate response to, intolerance to, or contraindication to ciclosporin, MTX, or PUVA.
+
+Psoriasis Study 1 (PHOENIX 1) evaluated 766 patients. 53% of these patients were either nonresponsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at Weeks 0 and 4 and followed by the same dose every
 
 <div style=\"page-break-after: always\"></div>
 
-psoriasis who had had an inadequate response to, intolerance to, or contraindication to ciclosporin, MTX, or PUVA.
-
-Psoriasis  Study  1  (PHOENIX  1)  evaluated  766  patients.  53%  of  these  patients  were  either  nonresponsive,  intolerant,  or  had  a  contraindication  to  other  systemic  therapy.  Patients  randomised  to ustekinumab received 45 mg or 90 mg doses at Weeks 0 and 4 and followed by the same dose every 12  weeks.  Patients  randomised  to  receive  placebo  at  Weeks  0  and  4  crossed  over  to  receive ustekinumab (either 45 mg or 90 mg) at Weeks 12 and 16 followed by dosing every 12 weeks. Patients originally randomised to ustekinumab who achieved Psoriasis Area and Severity Index 75 response (PASI improvement of at least 75% relative to baseline) at both Weeks 28 and 40 were re-randomised to receive ustekinumab every 12 weeks or to placebo (i.e., withdrawal of therapy). Patients who were re-randomised to placebo at week 40 reinitiated ustekinumab at their original dosing regimen when they experienced at least a 50% loss of their PASI improvement obtained at week 40. All patients were followed for up to 76 weeks following first administration of study treatment.
+12 weeks. Patients randomised to receive placebo at Weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at Weeks 12 and 16 followed by dosing every 12 weeks. Patients originally randomised to ustekinumab who achieved Psoriasis Area and Severity Index 75 response (PASI improvement of at least 75% relative to baseline) at both Weeks 28 and 40 were rerandomised to receive ustekinumab every 12 weeks or to placebo (i.e., withdrawal of therapy). Patients who were re-randomised to placebo at week 40 reinitiated ustekinumab at their original dosing regimen when they experienced at least a 50% loss of their PASI improvement obtained at week 40. All patients were followed for up to 76 weeks following first administration of study treatment.
 
 Psoriasis Study 2 (PHOENIX 2) evaluated 1 230 patients. 61% of these patients were either nonresponsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at Weeks 0 and 4 followed by an additional dose at 16 weeks. Patients randomised to receive placebo at Weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at Weeks 12 and 16. All patients were followed for up to 52 weeks following first administration of study treatment.
 
@@ -1030,10 +1010,6 @@ Table 4:  Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psor
 | Number of patients > 100 kg       | 120                                   | 112                                   | 121                                   | 110                                            | 119                                            |
 | PASI 75 response n (%)            | 3 (3%)                                | 55 (49%)                              | 86 (71%)                              | 59 (54%)                                       | 88 (74%)                                       |
 
-a p &lt; 0.001 for ustekinumab 45 mg or 90 mg in comparison with placebo (PBO).
-
-b PGA = Physician Global Assessment
-
 Table 5:  Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
 
 |                                 | Psoriasis Study 3                       | Psoriasis Study 3                       | Psoriasis Study 3                       |
@@ -1050,17 +1026,13 @@ Table 5:  Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
 | Number of patients > 100 kg     | 96                                      | 58                                      | 103                                     |
 | PASI 75 response n (%)          | 43 (45%)                                | 32 (55%)                                | 67 (65%)                                |
 
-a p &lt; 0.001 for ustekinumab 45 mg or 90 mg in comparison with etanercept.
-
-b p = 0.012 for ustekinumab 45 mg in comparison with etanercept.
-
-In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with continuous treatment compared with treatment withdrawal (p &lt; 0.001). Similar results were seen with each dose of ustekinumab. At 1 year (week 52), 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of patients re-randomised to placebo (treatment withdrawal)
+In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with continuous treatment compared with treatment withdrawal (p &lt; 0.001). Similar results were seen with each dose of ustekinumab. At 1 year (week 52), 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of patients re-randomised to placebo (treatment withdrawal) (p &lt; 0.001). At 18 months (week 76), 84% of patients re -randomised to maintenance treatment were
 
 <div style=\"page-break-after: always\"></div>
 
-(p &lt; 0.001). At 18 months (week 76), 84% of patients re -randomised to maintenance treatment were PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal). At 3 years (week 148), 82% of patients re-randomised to maintenance treatment were PASI 75 responders. At 5 years (week 244), 80% of patients re-randomised to maintenance treatment were PASI 75 responders.
+PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal). At 3 years (week 148), 82% of patients re-randomised to maintenance treatment were PASI 75 responders. At 5 years (week 244), 80% of patients re-randomised to maintenance treatment were PASI 75 responders.
 
-In patients re-randomised to placebo, and who reinitiated their original ustekinumab treatment regimen after loss of ≥ 50% of PASI improvement 85% regained PASI 75 response within 12 weeks after reinitiating therapy.
+In patients re-randomised to placebo, and who reinitiated their original ustekinumab treatment regimen after loss of ≥ 50% of PASI improvement 85% regained PASI 75 response within 12 weeks afterre-initiating therapy.
 
 In Psoriasis Study 1, at week 2 and week 12, significantly greater improvements from baseline were demonstrated in the DLQI in each ustekinumab treatment group compared with placebo. The improvement was sustained through week 28. Similarly, significant improvements were seen in Psoriasis Study 2 at week 4 and 12, which were sustained through week 24. In Psoriasis Study 1, improvements in nail psoriasis (Nail Psoriasis Severity Index), in the physical and mental component summary scores of the SF-36 and in the Itch Visual Analogue Scale (VAS) were also significant in each ustekinumab treatment group compared with placebo. In Psoriasis Study 2, the Hospital Anxiety and Depression Scale (HADS) and Work Limitations Questionnaire (WLQ) were also significantly improved in each ustekinumab treatment group compared with placebo.
 
@@ -1068,7 +1040,7 @@ In Psoriasis Study 1, at week 2 and week 12, significantly greater improvements 
 
 Ustekinumab has been shown to improve signs and symptoms, physical function and health-related quality of life, and reduce the rate of progression of peripheral joint damage in adult patients with active PsA.
 
-The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy.
+The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, doubleblind, placebo-controlled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy.
 
 Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at Weeks 0 and 4 followed by every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX (≤ 25 mg/week).
 
@@ -1082,25 +1054,25 @@ Treatment with ustekinumab resulted in significant improvements in the measures 
 
 Table 6:  Number of patients who achieved clinical response in Psoriatic arthritis Study 1 (PSUMMIT I) and Study 2 (PSUMMIT II) at week 24
 
-|                                    | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   |
-|------------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
-|                                    | PBO                           | 45 mg                         | 90 mg                         | PBO                           | 45 mg                         | 90 mg                         |
-| Number of patients randomised      | 206                           | 205                           | 204                           | 104                           | 103                           | 105                           |
-| ACR20 response, n (%)              | 47 (23%)                      | 87 (42%) a                    | 101 (50%) a                   | 21 (20%)                      | 45 (44%) a                    | 46 (44%) a                    |
-| ACR50 response, n (%)              | 18 (9%)                       | 51 (25%) a                    | 57 (28%) a                    | 7 (7%)                        | 18 (17%) b                    | 24 (23%) a                    |
-| ACR70 response, n (%)              | 5 (2%)                        | 25 (12%) a                    | 29 (14%) a                    | 3 (3%)                        | 7 (7%) c                      | 9 (9%) c                      |
-| Number of patients with ≥ 3% BSA d | 146                           | 145                           | 149                           | 80                            | 80                            | 81                            |
-| PASI 75 response, n (%)            | 16 (11%)                      | 83 (57%) a                    | 93 (62%) a                    | 4 (5%)                        | 41 (51%) a                    | 45 (56%) a                    |
-| PASI 90 response, n (%)            | 4 (3%)                        | 60 (41%) a                    | 65 (44%) a                    | 3 (4%)                        | 24 (30%) a                    | 36 (44%) a                    |
-| Combined PASI 75 and ACR20         | 8 (5%)                        | 40 (28%) a                    | 62 (42%) a                    | 2 (3%)                        | 24 (30%) a                    | 31 (38%) a                    |
-| Number of patients ≤ 100 kg        | 154                           | 153                           | 154                           | 74                            | 74                            | 73                            |
-| ACR20 response, n (%)              | 39 (25%)                      | 67 (44%)                      | 78 (51%)                      | 17 (23%)                      | 32 (43%)                      | 34 (47%)                      |
-| Number of patients with ≥ 3% BSA d | 105                           | 105                           | 111                           | 54                            | 58                            | 57                            |
-| PASI 75 response, n (%)            | 14 (13%)                      | 64 (61%)                      | 73 (66%)                      | 4 (7%)                        | 31 (53%)                      | 32 (56%)                      |
-| Number of patients> 100 kg         | 52                            | 52                            | 50                            | 30                            | 29                            | 31                            |
-| ACR20 response, n (%)              | 8 (15%)                       | 20 (38%)                      | 23 (46%)                      | 4 (13%)                       | 13 (45%)                      | 12 (39%)                      |
-| Number of patients with ≥ 3% BSA d | 41                            | 40                            | 38                            | 26                            | 22                            | 24                            |
-| PASI 75 response, n (%)            | 2 (5%)                        | 19 (48%)                      | 20 (53%)                      | 0                             | 10 (45%)                      | 13 (54%)                      |
+|                                            | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   |
+|--------------------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
+|                                            | PBO                           | 45 mg                         | 90 mg                         | PBO                           | 45 mg                         | 90 mg                         |
+| Number of patients randomised              | 206                           | 205                           | 204                           | 104                           | 103                           | 105                           |
+| ACR20response, n (%)                       | 47 (23%)                      | 87 (42%) a                    | 101 (50%) a                   | 21 (20%)                      | 45 (44%) a                    | 46 (44%) a                    |
+| ACR50response, n (%)                       | 18 (9%)                       | 51 (25%) a                    | 57 (28%) a                    | 7 (7%)                        | 18 (17%) b                    | 24 (23%) a                    |
+| ACR70response, n (%)                       | 5 (2%)                        | 25 (12%) a                    | 29 (14%) a                    | 3 (3%)                        | 7 (7%) c                      | 9 (9%) c                      |
+| Number of patients with ≥ 3% BSA d         | 146                           | 145                           | 149                           | 80                            | 80                            | 81                            |
+| PASI 75 response, n (%)                    | 16 (11%)                      | 83 (57%) a                    | 93 (62%) a                    | 4 (5%)                        | 41 (51%) a                    | 45 (56%) a                    |
+| PASI 90 response, n (%)                    | 4 (3%)                        | 60 (41%) a                    | 65 (44%) a                    | 3 (4%)                        | 24 (30%) a                    | 36 (44%) a                    |
+| Combined PASI 75 and ACR20 response, n (%) | 8 (5%)                        | 40 (28%) a                    | 62 (42%) a                    | 2 (3%)                        | 24 (30%) a                    | 31 (38%) a                    |
+| Number of patients ≤ 100 kg                | 154                           | 153                           | 154                           | 74                            | 74                            | 73                            |
+| ACR20response, n (%)                       | 39 (25%)                      | 67 (44%)                      | 78 (51%)                      | 17 (23%)                      | 32 (43%)                      | 34 (47%)                      |
+| Number of patients with ≥ 3% BSA d         | 105                           | 105                           | 111                           | 54                            | 58                            | 57                            |
+| PASI 75 response, n (%)                    | 14 (13%)                      | 64 (61%)                      | 73 (66%)                      | 4 (7%)                        | 31 (53%)                      | 32 (56%)                      |
+| Number of patients> 100 kg                 | 52                            | 52                            | 50                            | 30                            | 29                            | 31                            |
+| ACR20response, n (%)                       | 8 (15%)                       | 20 (38%)                      | 23 (46%)                      | 4 (13%)                       | 13 (45%)                      | 12 (39%)                      |
+| Number of patients with ≥ 3% BSA d         | 41                            | 40                            | 38                            | 26                            | 22                            | 24                            |
+| PASI 75 response, n (%)                    | 2 (5%)                        | 19 (48%)                      | 20 (53%)                      | 0                             | 10 (45%)                      | 13 (54%)                      |
 
 a p &lt; 0.001
 
@@ -1112,11 +1084,9 @@ d Number of patients with ≥ 3% BSA psoriasis skin involvement at baseline
 
 ACR 20, 50 and 70 responses continued to improve or were maintained through week 52 (PsA Study 1 and 2) and week 100 (PsA Study 1). In PsA Study 1, ACR 20 responses at week 100 were achieved by 57% and 64%, for 45 mg and 90 mg, respectively. In PsA Study 2, ACR 20 responses at week 52 were achieved by 47% and 48%, for 45 mg and 90 mg, respectively.
 
-The proportion of patients achieving a modified PsA response criteria (PsARC) response was also significantly greater in the ustekinumab groups compared to placebo at week 24. PsARC responses were maintained through weeks 52 and 100. A higher proportion of patients treated with ustekinumab who had spondylitis with peripheral arthritis as their primary presentation, demonstrated 50 and 70 percent improvement in Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) scores
+The proportion of patients achieving a modified PsA response criteria (PsARC) response was also significantly greater in the ustekinumab groups compared to placebo at week 24. PsARC responses were maintained through weeks 52 and 100. A higher proportion of patients treated with ustekinumab who had spondylitis with peripheral arthritis as their primary presentation, demonstrated 50 and 70 percent improvement in Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) scores compared with placebo at week 24.
 
 <div style=\"page-break-after: always\"></div>
-
-compared with placebo at week 24.
 
 Responses observed in the ustekinumab treated groups were similar in patients receiving and not receiving concomitant MTX, and were maintained through weeks 52 and 100. Patients previously treated with antiTNFα agents who received ustekinumab achieved a greater response at week 24 than patients receiving placebo (ACR 20 response at week 24 for 45 mg and 90 mg was 37% and 34%, respectively, compared with placebo 15%; p &lt; 0.05), and responses were maintained through week 52.
 
@@ -1128,7 +1098,7 @@ Structural damage in both hands and feet was expressed as change in total van de
 
 ## Physical function and health-related quality of life
 
-Ustekinumab-treated patients showed significant improvement in physical function as assessed by the Disability Index of the Health Assessment Questionnaire (HAQ-DI) at week 24. The proportion of patients achieving a clinically meaningful ≥ 0.3 improvement in HAQ-DI score from baseline was also significantly greater in the ustekinumab groups when compared with placebo. Improvement in HAQDI score from baseline was maintained through Weeks 52 and 100.
+Ustekinumab-treated patients showed significant improvement in physical function as assessed by the Disability Index of the Health Assessment Questionnaire (HAQ-DI) at week 24. The proportion of patients achieving a clinically meaningful ≥ 0.3 improvement in HAQ-DI score from baseline was also significantly greater in the ustekinumab groups when compared with placebo. Improvement in HAQ-DI score from baseline was maintained through Weeks 52 and 100.
 
 There was significant improvement in DLQI scores in the ustekinumab groups as compared with placebo at week 24, which was maintained through weeks 52 and 100. In PsA Study 2 there was a significant improvement in Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F) scores in the ustekinumab groups when compared with placebo at week 24. The proportion of patients achieving a clinically significant improvement in fatigue (4 points in FACIT-F) was also significantly greater in the ustekinumab groups compared with placebo. Improvements in FACIT scores were maintained through week 52.
 
@@ -1142,11 +1112,9 @@ Ustekinumab has been shown to improve signs and symptoms, and health-related qua
 
 ## Adolescent patients
 
-The efficacy of ustekinumab was studied in 110 paediatric patients aged 12 to 17 years with moderate to severe plaque psoriasis in a multicentre, phase 3, randomised, double-blind, placebo-controlled study (CADMUS). Patients were randomised to receive either placebo (n = 37), or the recommended dose of ustekinumab (see section 4.2; n = 36) or half of the recommended dose of ustekinumab (n = 37) by subcutaneous injection at Weeks 0 and 4 followed by every 12 week (q12w) dosing. At week
+The efficacy of ustekinumab was studied in 110 paediatric patients aged 12 to 17 years with moderate to severe plaque psoriasis in a multicentre, phase 3, randomised, double-blind, placebocontrolled study (CADMUS). Patients were randomised to receive either placebo (n = 37), or the recommended dose of ustekinumab (see section 4.2; n = 36) or half of the recommended dose of ustekinumab (n = 37) by subcutaneous injection at Weeks 0 and 4 followed by every 12 week (q12w) dosing. At week 12, placebo-treated patients crossed over to receive ustekinumab.
 
 <div style=\"page-break-after: always\"></div>
-
-12, placebo-treated patients crossed over to receive ustekinumab.
 
 Patients with PASI ≥ 12, PGA ≥ 3 and BSA involvement of at least 10%, who were candidates for systemic therapy or phototherapy, were eligible for the study. Approximately 60% of the patients had prior exposure to conventional systemic therapy or phototherapy. Approximately 11% of the patients had prior exposure to biologics.
 
@@ -1174,23 +1142,20 @@ Table 7:  Summary of primary and secondary endpoints at week 12 and week 52
 | PedsQL                                           |                                                  |                                                  |                                                  |
 | Change from baseline Mean (SD) d                 | 3.35 (10.04)                                     | 8.03 (10.44) e                                   | 7.26 (10.92)                                     |
 
-a p &lt; 0.001
+- b CDLQI: The CDLQI is a dermatology instrument to assess the effect of a skin problem on the health-related quality of life in the paediatric population. CDLQI of 0 or 1 indicates no effect on child's quality of life.
+- c p = 0.002
+- d PedsQL: The PedsQL Total Scale Score is a general health-related quality of life measure developed for use in children and adolescent populations. For the placebo group at week 12, n = 36
+- e p = 0.028
 
-b CDLQI: The CDLQI is a dermatology instrument to assess the effect of a skin problem on the health-related quality of life in the paediatric population. CDLQI of 0 or 1 indicates no effect on child's quality of life.
-
-c p = 0.002
-
-d PedsQL: The PedsQL Total Scale Score is a general health-related quality of life measure developed for use in children and adolescent populations. For the placebo group at week 12, n = 36 e p = 0.028
-
-During the placebo-controlled period through week 12, the efficacy of both the recommended and half of the recommended dose groups were generally comparable at the primary endpoint (69.4% and 67.6% respectively) although there was evidence of a dose response for higher level efficacy criteria (e.g. PGA of cleared (0), PASI 90). Beyond week 12, efficacy was generally higher and better sustained in the recommended dose group compared with half of the recommended dosage group in which a modest loss of efficacy was more frequently observed toward the end of each 12 week dosing interval. The safety profiles of the recommended dose and half of the recommended dose were
+During the placebo-controlled period through week 12, the efficacy of both the recommended and half of the recommended dose groups were generally comparable at the primary endpoint (69.4% and 67.6% respectively) although there was evidence of a dose response for higher level efficacy criteria (e.g. PGA of cleared (0), PASI 90). Beyond week 12, efficacy was generally higher and better sustained in the recommended dose group compared with half of the recommended dosage group in which a modest loss of efficacy was more frequently observed toward the end of each 12
 
 <div style=\"page-break-after: always\"></div>
 
-comparable.
+week dosing interval. The safety profiles of the recommended dose and half of the recommended dose were comparable.
 
 ## Children
 
-The efficacy of ustekinumab was studied in 44 paediatric patients aged 6 to 11 years with moderate to severe plaque psoriasis in an open label, single-arm, multicentre, phase 3, study (CADMUS Jr.).Patients were treated with the recommended dose of ustekinumab (see section 4.2; n = 44) by subcutaneous injection at weeks 0 and 4 followed by every 12 week (q12w) dosing.
+The efficacy of ustekinumab was studied in 44 paediatric patients aged 6 to 11 years with moderate to severe plaque psoriasis in an open label, single-arm, multicentre, phase 3, study (CADMUS Jr.). Patients were treated with the recommended dose of ustekinumab (see section 4.2; n = 44) by subcutaneous injection at weeks 0 and 4 followed by every 12 week (q12w) dosing.
 
 Patients with PASI ≥ 12, PGA ≥ 3 and BSA involvement of at least 10%, who were candidates for systemic therapy or phototherapy, were eligible for the study. Approximately 43% of the patients had prior exposure to conventional systemic therapy or phototherapy. Approximately 5% of the patients had prior exposure to biologics.
 
@@ -1202,8 +1167,8 @@ Table 8:  Summary of primary and secondary endpoints at week 12 and week 52
 
 | Paediatric psoriasis study (CADMUSJr.) (Age 6-11)   | Paediatric psoriasis study (CADMUSJr.) (Age 6-11)   | Paediatric psoriasis study (CADMUSJr.) (Age 6-11)   |
 |-----------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------|
-|                                                     | Week 12                                             | Week 52                                             |
-|                                                     | Recommended dose of ustekinumab                     | Recommended dose of ustekinumab                     |
+|                                                     | Week 12                                             | Week 52 Recommended dose of ustekinumab             |
+|                                                     | Recommended dose of ustekinumab                     |                                                     |
 |                                                     | n (%)                                               | n (%)                                               |
 | Patients enrolled                                   | 44                                                  | 41                                                  |
 | PGA                                                 |                                                     |                                                     |
@@ -1221,13 +1186,15 @@ a CDLQI: The CDLQI is a dermatology instrument to assess the effect of a skin pr
 
 ## Crohn's Disease
 
-The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development program consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44 week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
+The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development program consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44 week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52
 
 <div style=\"page-break-after: always\"></div>
 
-The induction studies included 1 409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analysed through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see section 4.2 of the Yesintek130 mg Concentrate for solution for infusion SmPC), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
+weeks of therapy.
 
-Patients in UNITI-1 had failed or were intolerant to prior antiTNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNF α therapy and 52% had failed 2 or 3 prior antiTNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
+The induction studies included 1 409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficacy data were collected and analyse d through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see section 4.2 of the Yesintek130 mg Concentrate for solution for infusion SmPC), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
+
+Patients in UNITI-1 had failed or were intolerant to prior antiTNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNF α therapy and 52% had failed 2 or 3 prior antiTNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary nonresponders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
 
 Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNFα naïve (68.6%) or had previously received but not failed antiTNFα therapy (31.4%).
 
@@ -1235,7 +1202,7 @@ In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were
 
 Table 9:  Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
 
-|                                       | UNITI-1 *       | UNITI-1 *                               | UNITI-2 **      | UNITI-2 **                              |
+|                                       | UNITI-1 *       | UNITI-2 **                              | UNITI-2 **      | UNITI-2 **                              |
 |---------------------------------------|-----------------|-----------------------------------------|-----------------|-----------------------------------------|
 |                                       | Placebo n = 247 | Recommended dose of ustekinumab n = 249 | Placebo n = 209 | Recommended dose of ustekinumab n = 209 |
 | Clinical Remission, week 8            | 18 (7.3%)       | 52 (20.9%) a                            | 41 (19.6%)      | 84 (40.2%) a                            |
@@ -1244,7 +1211,9 @@ Table 9:  Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
 | 70 Point Response, week 3             | 67 (27.1%)      | 101 (40.6%) b                           | 66 (31.6%)      | 106 (50.7%) a                           |
 | 70 Point Response, week 6             | 75 (30.4%)      | 109 (43.8%) b                           | 81 (38.8%)      | 135 (64.6%) a                           |
 
-Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission70 point response is defined as reduction in CDAI score by at least 70 points
+Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission70 point response is defined as reduction in
+
+CDAI score by at least 70 points
 
 *    AntiTNFα failures
 - **  Conventional therapy failures
@@ -1253,23 +1222,26 @@ Clinical remission is defined as CDAI score &lt; 150; Clinical response is defin
 
 The maintenance study (IM-UNITI), evaluated 388 patients who achieved 100 point clinical response at week 8 of induction with ustekinumab in studies UNITI-1 and UNITI-2.
 
-Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2).
+Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for
 
 <div style=\"page-break-after: always\"></div>
+
+recommended maintenance posology, see section 4.2).
 
 Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 10).
 
 Table 10:  Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
 
-|                                                                                  | Placebo* n = 131 †   | 90 mg ustekinumab every 8 weeks n = 128 †   | 90 mg ustekinumab every 12 weeks n = 129 †   |
-|----------------------------------------------------------------------------------|----------------------|---------------------------------------------|----------------------------------------------|
-| Clinical Remission                                                               | 36%                  | 53% a                                       | 49% b                                        |
-| Clinical Response                                                                | 44%                  | 59% b                                       | 58% b                                        |
-| Corticosteroid-Free Clinical Remission                                           | 30%                  | 47% a                                       | 43% c                                        |
-| Clinical Remission in patients: in remission at the start of maintenance therapy | 46% (36/79)          | 67% (52/78) a                               | 56% (44/78)                                  |
-| who entered from study CRD3002 ‡                                                 | 44% (31/70)          | 63% (45/72) c                               | 57% (41/72)                                  |
-| who are Anti- TNFα naïve                                                         | 49% (25/51)          | 65% (34/52) c                               | 57% (30/53)                                  |
-| who entered from study CRD3001 §                                                 | 26% (16/61)          | 41% (23/56)                                 | 39% (22/57)                                  |
+|                                                  | Placebo* n = 131 †   | 90 mg ustekinumab every 8 weeks n = 128 †   | 90 mg ustekinumab every 12 weeks n = 129 †   |
+|--------------------------------------------------|----------------------|---------------------------------------------|----------------------------------------------|
+| Clinical Remission                               | 36%                  | 53% a                                       | 49% b                                        |
+| Clinical Response                                | 44%                  | 59% b                                       | 58% b                                        |
+| Corticosteroid-Free Clinical Remission           | 30%                  | 47% a                                       | 43% c                                        |
+| Clinical Remission in patients:                  |                      |                                             |                                              |
+| in remission at the start of maintenance therapy | 46% (36/79)          | 67% (52/78) a                               | 56% (44/78)                                  |
+| who entered from study CRD3002 ‡                 | 44% (31/70)          | 63% (45/72) c                               | 57% (41/72)                                  |
+| who are Anti- TNFα naïve                         | 49% (25/51)          | 65% (34/52) c                               | 57% (30/53)                                  |
+| who entered from study CRD3001 §                 | 26% (16/61)          | 41% (23/56)                                 | 39% (22/57)                                  |
 
 Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission
 
@@ -1283,19 +1255,23 @@ Clinical remission is defined as CDAI score &lt; 150; Clinical response is defin
 
 In IM-UNITI, 29 of 129 patients did not maintain response to ustekinumab when treated every 12 weeks and were allowed to dose adjust to receive ustekinumab every 8 weeks. Loss of response  was defined as a CDAI score ≥ 220 points and a ≥ 100 point increase from the CDAI score at baseline. In these patients, clinical remission was achieved in 41.4% of patients 16 weeks after dose adjustment.
 
-Patients who were not in clinical response to ustekinumab induction at week 8 of the UNITI-1 and UNITI-2 induction studies (476 patients) entered into the non-randomised portion of the maintenance study (IM-UNITI) and received a 90 mg subcutaneous injection of ustekinumab at that time.Eight weeks later, 50.5% of the patients achieved clinical response and continued to receive maintenance dosing every 8 weeks; among these patients with continued maintenance dosing, a majority maintained response (68.1%) and achieved remission (50.2%) at week 44, at proportions that were similar to the patients who initially responded to ustekinumab induction.
+Patients who were not in clinical response to ustekinumab induction at week 8 of the UNITI-1 and UNITI-2 induction studies (476 patients) entered into the non-randomised portion of the maintenance study (IM-UNITI) and received a 90 mg subcutaneous injection of ustekinumab at that time.
+
+Eight weeks later, 50.5% of the patients achieved clinical response and continued to receive maintenance dosing every 8 weeks; among these patients with continued maintenance dosing, a majority maintained response (68.1%) and achieved remission (50.2%) at week 44, at proportions that were similar to the patients who initially responded to ustekinumab induction.
 
 Of 131 patients who responded to ustekinumab induction, and were randomised to the placebo group at the start of the maintenance study, 51 subsequently lost response and received 90 mg ustekinumab subcutaneously every 8 weeks. The majority of patients who lost response and resumed ustekinumab did so within 24 weeks of the induction infusion. Of these 51 patients, 70.6% achieved clinical response and 39.2% percent achieved clinical remission 16 weeks after receiving the first subcutaneous dose of ustekinumab.
 
-In IM-UNITI, patients who completed the study through week 44 were eligible to continue treatment in a study extension. Among the 567 patients who entered on and were treated with ustekinumab in the study extension, clinical remission and response were generally maintained through week 252 for both patients who failed TNF-therapies and those who failed conventional therapies.
+In IM-UNITI, patients who completed the study through week 44 were eligible to continue treatment in a study extension. Among the 567 patients who entered on and were treated with ustekinumab in the study extension, clinical remission and response were generally maintained through week 252 for
 
 <div style=\"page-break-after: always\"></div>
+
+both patients who failed TNF-therapies and those who failed conventional therapies.
 
 No new safety concerns were identified in this study extension with up to 5 years of treatment in patients with Crohn's Disease.
 
 ## Endoscopy
 
-Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SES-CD), a composite score across 5 ileocolonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = 0.7, p = 0.012).
+Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SES-CD), a composite score across 5 ileo- colonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = -0.7, p = 0.012).
 
 ## Fistula Response
 
@@ -1303,9 +1279,7 @@ In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/
 
 ## Health-related quality of life
 
-Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires. At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo. These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo.
-
-Improvement in health-related quality of life was generally maintained during the extension through week 252.
+Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires. At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo. These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo. Improvement in health-related quality of life was generally maintained during the extension through week 252.
 
 ## Immunogenicity
 
@@ -1405,7 +1379,7 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 Yesintek 45 mg solution for injection
 
-2 years.
+2 years
 
 Yesintek 45 mg solution for injection in pre-filled syringe 3 years
 
@@ -1429,11 +1403,11 @@ Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial or pre-fil
 
 ## Yesintek 45 mg solution for injection in pre-filled syringe
 
-0.5 mL solution in a type I glass 1 mL syringe with a fixed stainless steel needle and a needle cover. The syringe is fitted with a passive safety guard.
+0.5 mL solution in a type I glass 1 mL syringe with a fixed stainless-steel needle and a needle cover. The syringe is fitted with a passive safety guard.
 
 ## Yesintek 90 mg solution for injection in pre-filled syringe
 
-1 mL solution in a type I glass 1 mL syringe with a fixed stainless steel needle and a needle cover. The syringe is fitted with a passive safety guard.
+1 mL solution in a type I glass 1 mL syringe with a fixed stainless-steel needle and a needle cover. The syringe is fitted with a passive safety guard.
 
 Yesintek is available in a 1 vial pack or a pack of 1 pre-filled syringe.
 
@@ -1445,7 +1419,7 @@ The solution in the Yesintek vial or pre-filled syringe should not be shaken. Th
 
 solution is clear colourless to pale yellow in appearance. The medicinal product should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present. Before administration, Yesintek should be allowed to reach room temperature (approximately half an hour). Detailed instructions for use are provided in the package leaflet.
 
-Yesintek does not contain preservatives; therefore any unused medicinal product remaining in the vial and the syringe should not be used. Yesintek is supplied as a sterile, single-use vial or single- use prefilled syringe. The syringe, needle and vial must never be re-used. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+Yesintek does not contain preservatives; therefore any unused medicinal product remaining in the vial and the syringe should not be used. Yesintek is supplied as a sterile, single-use vial or single- use pre-filled syringe. The syringe, needle and vial must never be re-used. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
 When using the single-dose vial, a 1 mL syringe with a 27 gauge, ½ inch (13 mm) needle is recommended.
 
@@ -1465,11 +1439,720 @@ YESINTEK    90 mg solution for injection in pre-filled syringe EU/1/24/1892/003
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-Date of first authorisation: {DD month YYYY}
+Date of first authorisation: 14 February 2025
 
 ## 10. DATE OF REVISION OF THE TEXT
 
-&lt;{DD month YYYY}&gt;
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
+
+<div style=\"page-break-after: always\"></div>
+
+▼This medicinal product is subject to additional monitoring. This will allow quick identification of new safety information. Healthcare professionals are asked to report any suspected adverse reactions. See section 4.8 for how to report adverse reactions.
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+Yesintek 45 mg solution for injection in pre-filled pen Yesintek 90 mg solution for injection in pre-filled pen
+
+## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
+
+Yesintek 45 mg solution for injection in pre-filled pen Each pre-filled pen contains 45 mg ustekinumab in 0.5 mL.
+
+Yesintek 90 mg solution for injection in pre-filled pen Each pre-filled pen contains 90 mg ustekinumab in 1 mL.
+
+Ustekinumab is a fully human IgG1κ monoclonal antibody to interleukin (IL)-12/23 produced in a murine myeloma cell line using recombinant DNA technology.
+
+For the full list of excipients, see section 6.1.
+
+## 3. PHARMACEUTICAL FORM
+
+Yesintek 45 mg solution for injection in pre-filled pen Solution for injection.
+
+Yesintek 90 mg solution for injection in pre-filled pen Solution for injection.
+
+The solution is clear, colourless to pale yellow and it is formulated at pH 5.7 to 6.3. The osmolality of the solution is 274 to 342 mOsmol/Kg.
+
+## 4. CLINICAL PARTICULARS
+
+## 4.1 Therapeutic indications
+
+## Plaque psoriasis
+
+Yesintek is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A) (see section 5.1). Psoriatic arthritis (PsA)
+
+Yesintek, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease-modifying anti-rheumatic drug (DMARD) therapy has been inadequate (see section 5.1).
+
+## Crohn's Disease
+
+Yesintek is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist or have medical contraindications to such therapies.
+
+<div style=\"page-break-after: always\"></div>
+
+## 4.2 Posology and method of administration
+
+Yesintek is intended for use under the guidance and supervision of physicians experienced in the diagnosis and treatment of conditions for which Yesintek is indicated.
+
+## Posology
+
+## Plaque psoriasis
+
+The recommended posology of Yesintek is an initial dose of 45 mg administered subcutaneously, followed by a 45 mg dose 4 weeks later, and then every 12 weeks thereafter.
+
+Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
+
+## Patients with body weight &gt; 100 kg
+
+For patients with a body weight &gt; 100 kg the initial dose is 90 mg administered subcutaneously, followed by a 90 mg dose 4 weeks later, and then every 12 weeks thereafter. In these patients, 45 mg was also shown to be efficacious. However, 90 mg resulted in greater efficacy (see section 5.1, Table 2).
+
+## Psoriatic arthritis (PsA)
+
+The recommended posology of Yesintek is an initial dose of 45 mg administered subcutaneously, followed by a 45 mg dose 4 weeks later, and then every 12 weeks thereafter. Alternatively, 90 mg may be used in patients with a body weight &gt; 100 kg.
+
+Consideration should be given to discontinuing treatment in patients who have shown no response up to 28 weeks of treatment.
+
+## Elderly
+
+No dose adjustment is needed for patients aged 65 years and older (see section 4.4).
+
+## Renal and hepatic impairment
+
+Yesintek has not been studied in these patient populations. No dose recommendations can be made.
+
+## Paediatric population
+
+The safety and efficacy of Yesintek in children with psoriasis less than 6 years of age or in children with psoriatic arthritis less than 18 years of age have not yet been established. The pre-filled pen has not been studied in the paediatric population and is not recommended for use in paediatric patients. See section 4.2 of the pre-filled syringe SmPC for posology and method of administration in paediatric patients 6 years and older with psoriasis.
+
+## Crohn's Disease
+
+In the treatment regimen, the first dose of Yesintek is administered intravenously. For the posology of the intravenous dosing regimen, see section 4.2 of the Yesintek 130 mg Concentrate for solution for infusion SmPC.
+
+The first subcutaneous administration of 90 mg Yesintek should take place at week 8 after the intravenous dose. After this, dosing every 12 weeks is recommended.
+
+Patients who have not shown adequate response at 8 weeks after the first subcutaneous dose, may receive a second subcutaneous dose at this time (see section 5.1).
+
+Patients who lose response on dosing every 12 weeks may benefit from an increase in dosing frequency to every 8 weeks (see section 5.1, section 5.2).
+
+Patients may subsequently be dosed every 8 weeks or every 12 weeks according to clinical judgment (see section 5.1).
+
+<div style=\"page-break-after: always\"></div>
+
+Consideration should be given to discontinuing treatment in patients who show no evidence of therapeutic benefit 16 weeks after the IV induction dose or 16 weeks after switching to the 8-weekly maintenance dose.
+
+Immunomodulators and/or corticosteroids may be continued during treatment with ustekinumab. In patients who have responded to treatment with ustekinumab, corticosteroids may be reduced or discontinued in accordance with standard of care.
+
+In Crohn's disease, if therapy is interrupted, resumption of treatment with subcutaneous dosing every 8 weeks is safe and effective.
+
+## Elderly
+
+No dose adjustment is needed for patients aged 65 years and older (see section 4.4).
+
+## Renal and hepatic impairment
+
+Yesintek has not been studied in these patient populations. No dose recommendations can be made.
+
+## Paediatric population
+
+The safety and efficacy of Yesintek in treatment of Crohn's disease in children less than 18 years have not yet been established. No data are available.
+
+## Method of administration
+
+Yesintek 45 mg and 90 mg pre-filled pens are for subcutaneous injection only. If possible, areas of the skin that show psoriasis should be avoided as injection sites.
+
+After proper training in subcutaneous injection technique, patients or their caregivers may inject Yesintek if a physician determines that it is appropriate. However, the physician should ensure appropriate follow-up of patients. Patients or their caregivers should be instructed to inject the prescribed amount of Yesintek according to the directions provided in the package leaflet. Comprehensive instructions for use are given in the package leaflet.
+
+For further instructions on preparation and special precautions for handling, see section 6.6.
+
+## 4.3 Contraindications
+
+Hypersensitivity to the active substance or to any of the excipients listed in section 6.1. Clinically important, active infection (e.g. active tuberculosis; see section 4.4).
+
+## 4.4 Special warnings and precautions for use
+
+## Traceability
+
+In order to improve the traceability of biological medicinal products, the tradename and the batch number of the administered product should be clearly recorded.
+
+## Infections
+
+Ustekinumab may have the potential to increase the risk of infections and reactivate latent infections. In clinical studies and a post-marketing observational study in patients with psoriasis, serious bacterial, fungal, and viral infections have been observed in patients receiving ustekinumab (see section 4.8).
+
+Opportunistic infections including reactivation of tuberculosis, other opportunistic bacterial infections (including atypical mycobacterial infection, listeria meningitis, pneumonia legionella, and nocardiosis), opportunistic fungal infections, opportunistic viral infections (including encephalitis caused by herpes simplex 2), and parasitic infections (including ocular toxoplasmosis) have been reported in patients treated with ustekinumab.
+
+Caution should be exercised when considering the use of Yesintek in patients with a chronic infection
+
+<div style=\"page-break-after: always\"></div>
+
+or a history of recurrent infection (see section 4.3).
+
+Prior to initiating treatment with Yesintek, patients should be evaluated for tuberculosis infection. Yesintek must not be given to patients with active tuberculosis (see section 4.3). Treatment of latent tuberculosis infection should be initiated prior to administering Yesintek. Anti-tuberculosis therapy should also be considered prior to initiation of Yesintek in patients with a history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed. Patients receiving Yesintek should be monitored closely for signs and symptoms of active tuberculosis during and after treatment.
+
+Patients should be instructed to seek medical advice if signs or symptoms suggestive of an infection occur. If a patient develops a serious infection, the patient should be closely monitored and Yesintek should not be administered until the infection resolves.
+
+## Malignancies
+
+Immunosuppressants like ustekinumab have the potential to increase the risk of malignancy. Some patients who received ustekinumab in clinical studies and in a post-marketing observational study in patients with psoriasis developed cutaneous and non-cutaneous malignancies (see section 4.8). The risk of malignancy may be higher in psoriasis patients who have been treated with other biologics during the course of their disease.
+
+No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving ustekinumab. Thus, caution should be exercised when considering the use of ustekinumab in these patients.
+
+All patients, in particular those greater than 60 years of age, patients with a medical history of prolonged immunosuppressant therapy or those with a history of PUVA treatment, should be monitored for the appearance of skin cancer (see section 4.8).
+
+## Systemic and respiratory hypersensitivity reactions
+
+## Systemic
+
+Serious hypersensitivity reactions have been reported in the post-marketing setting, in some cases several days after treatment. Anaphylaxis and angioedema have occurred. If an anaphylactic or other serious hypersensitivity reaction occurs, appropriate therapy should be instituted and administration of Yesintek should be discontinued (see section 4.8).
+
+## Respiratory
+
+Cases of allergic alveolitis, eosinophilic pneumonia, and non-infectious organising pneumonia have been reported during post-approval use of ustekinumab. Clinical presentations included cough, dyspnoea, and interstitial infiltrates following one to three doses. Serious outcomes have included respiratory failure and prolonged hospitalisation. Improvement has been reported after discontinuation of ustekinumab and also, in some cases, administration of corticosteroids. If infection has been excluded and diagnosis is confirmed, discontinue ustekinumab and institute appropriate treatment (see section 4.8).
+
+## Cardiovascular events
+
+Cardiovascular events including myocardial infarction and cerebrovascular accident have been observed in patients with psoriasis exposed to ustekinumab in a post-marketing observational study. Risk factors for cardiovascular disease should be regularly assessed during treatment with Yesintek.
+
+## Vaccinations
+
+It is recommended that live viral or live bacterial vaccines (such as Bacillus of Calmette and Guérin (BCG)) should not be given concurrently with Yesintek. Specific studies have not been conducted  in patients who had recently received live viral or live bacterial vaccines. No data are available on the secondary transmission of infection by live vaccines in patients receiving ustekinumab. Before live viral or live bacterial vaccination, treatment with Yesintek should be withheld for at least 15 weeks
+
+<div style=\"page-break-after: always\"></div>
+
+after the last dose and can be resumed at least 2 weeks after vaccination. Prescribers should consult the Summary of Product Characteristics for the specific vaccine for additional information and guidance on concomitant use of immunosuppressive agents post-vaccination.
+
+Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.5 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+
+Patients receiving Yesintek may receive concurrent inactivated or non-live vaccinations.
+
+Long term treatment with Yesintek does not suppress the humoral immune response to pneumococcal polysaccharide or tetanus vaccines (see section 5.1).
+
+## Concomitant immunosuppressive therapy
+
+In psoriasis studies, the safety and efficacy of ustekinumab in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of ustekinumab.
+
+In Crohn's disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of ustekinumab. Caution should be exercised when considering concomitant use of other immunosuppressants and Yesintek or when transitioning from other immunosuppressive biologics (see section 4.5).
+
+## Immunotherapy
+
+Ustekinumab has not been evaluated in patients who have undergone allergy immunotherapy. It is not known whether Yesintek may affect allergy immunotherapy.
+
+## Serious skin conditions
+
+In patients with psoriasis, exfoliative dermatitis has been reported following ustekinumab treatment (see section 4.8). Patients with plaque psoriasis may develop erythrodermic psoriasis, with symptoms that may be clinically indistinguishable from exfoliative dermatitis, as part of the natural course of their disease. As part of the monitoring of the patient's psoriasis, physicians should be alert for symptoms of erythrodermic psoriasis or exfoliative dermatitis. If these symptoms occur, appropriate therapy should be instituted. Yesintek should be discontinued if a drug reaction is suspected.
+
+## Lupus-related conditions
+
+Cases of lupus-related conditions have been reported in patients treated with ustekinumab, including cutaneous lupus erythematosus and lupus-like syndrome. If lesions occur, especially in sun exposed areas of the skin or if accompanied by arthralgia, the patient should seek medical attention promptly. If the diagnosis of a lupus-related condition is confirmed, ustekinumab should be discontinued and appropriate treatment initiated.
+
+## Special populations
+
+## Elderly
+
+No overall differences in efficacy or safety in patients aged 65 and older who received ustekinumab were observed compared to younger patients in clinical studies in approved indications, however the number of patients aged 65 and older is not sufficient to determine whether they respond differently from younger patients. Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
+
+## Polysorbate 80 (E 433) content
+
+## For 45 mg Pre-filled pen
+
+Yesintek contains 0.02 mg of polysorbate 80 (E 433) in each 45mg/0.5 mL pre-filled pen which is equivalent to 0.02 mg/0.5 mL (0.0003 mg/kg/day). Polysorbates may cause allergic reactions,
+
+<div style=\"page-break-after: always\"></div>
+
+therefore the patient/caregiver needs to be instructed to tell their doctor if they have any known allergies.
+
+## For 90 mg Pre-filled pen
+
+Yesintek contains 0.04 mg of polysorbate 80 (E 433) in each 90 mg/mL pre-filled pen which is equivalent to 0.04 mg/mL (0.0004 mg/kg/day). Polysorbates may cause allergic reactions, therefore the patient/caregiver needs to be instructed to tell their doctor if they have any known allergies.
+
+## 4.5 Interaction with other medicinal products and other forms of interaction
+
+Live vaccines should not be given concurrently with Yesintek.
+
+Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.6). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+
+In the population pharmacokinetic analyses of the phase 3 studies, the effect of the most frequently used concomitant medicinal products in patients with psoriasis (including paracetamol, ibuprofen, acetylsalicylic acid, metformin, atorvastatin, levothyroxine) on pharmacokinetics of ustekinumab was explored. There were no indications of an interaction with these concomitantly administered medicinal products. The basis for this analysis was that at least 100 patients (&gt; 5% of the studied population) were treated concomitantly with these medicinal products for at least 90% of the study period. The pharmacokinetics of ustekinumab was not impacted by concomitant use of MTX, NSAIDs, 6mercaptopurine, azathioprine and oral corticosteroids in patients with psoriatic arthritis, Crohn's disease or ulcerative colitis, or prior exposure to antiTNFα agents, in patients with psoriatic arthritis or Crohn's disease or by prior exposure to biologics (i.e. antiTNFα agents and/or vedolizumab) in patients with ulcerative colitis.
+
+The results of an in vitro study and a phase 1 study in subjects with active Crohn's disease do not suggest the need for dose adjustments in patients who are receiving concomitant CYP450 substrates (see section 5.2).
+
+In psoriasis studies, the safety and efficacy of ustekinumab in combination with immunosuppressants, including biologics, or phototherapy have not been evaluated. In psoriatic arthritis studies, concomitant MTX use did not appear to influence the safety or efficacy of ustekinumab. In Crohn's disease and ulcerative colitis studies, concomitant use of immunosuppressants or corticosteroids did not appear to influence the safety or efficacy of ustekinumab (see section 4.4).
+
+## 4.6 Fertility, pregnancy and lactation
+
+## Women of childbearing potential
+
+Women of childbearing potential should use effective methods of contraception during treatment and for at least 15 weeks after treatment.
+
+## Pregnancy
+
+Data from a moderate number of prospectively collected pregnancies following exposure to ustekinumab with known outcomes, including more than 450 pregnancies exposed during the first trimester, do not indicate an increased risk of major congenital malformations in the newborn.
+
+Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonic/foetal development, parturition or postnatal development (see section 5.3).
+
+However, the available clinical experience is limited. As a precautionary measure, it is preferable to avoid the use of Yesintek in pregnancy.
+
+<div style=\"page-break-after: always\"></div>
+
+Ustekinumab crosses the placenta and has been detected in the serum of infants born to female patients treated with ustekinumab during pregnancy. The clinical impact of this is unknown, however, the risk of infection in infants exposed in utero to ustekinumab may be increased after birth. Administration of live vaccines (such as the BCG vaccine) to infants exposed in utero to ustekinumab is not recommended for twelve months following birth or until ustekinumab infant serum levels are undetectable (see sections 4.4 and 4.5). If there is a clear clinical benefit for the individual infant, administration of a live vaccine might be considered at an earlier timepoint, if infant ustekinumab serum levels are undetectable.
+
+## Breast-feeding
+
+Limited data from published literature suggests that ustekinumab is excreted in human breast milk in very small amounts. It is not known if ustekinumab is absorbed systemically after ingestion. Because of the potential for adverse reactions in nursing infants from ustekinumab, a decision on whether to discontinue breast-feeding during treatment and up to 15 weeks after treatment or to discontinue therapy with Yesintek must be made taking into account the benefit of breast-feeding to the child and the benefit of Yesintek therapy to the woman.
+
+## Fertility
+
+The effect of ustekinumab on human fertility has not been evaluated (see section 5.3).
+
+## 4.7 Effects on ability to drive and use machines
+
+Yesintek has no or negligible influence on the ability to drive and use machines.
+
+## 4.8 Undesirable effects
+
+## Summary of the safety profile
+
+The most common adverse reactions (&gt; 5%) in controlled periods of the adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies with ustekinumab were nasopharyngitis and headache. Most were considered to be mild and did not necessitate discontinuation of study treatment. The most serious adverse reaction that has been reported for ustekinumab is serious hypersensitivity reactions including anaphylaxis (see section 4.4). The overall safety profile was similar for patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis.
+
+## Tabulated list of adverse reactions
+
+The safety data described below reflect exposure in adults to ustekinumab in 14 phase 2 and phase 3 studies in 6 710 patients (4 135 with psoriasis and/or psoriatic arthritis, 1 749 with Crohn's disease and 826 patients with ulcerative colitis). This includes exposure to ustekinumab in the controlled and noncontrolled periods of the clinical studies in patients with psoriasis, psoriatic arthritis, Crohn's disease or ulcerative colitis for at least 6 months (4 577 patients) or at least 1 year (3 648 patients). 2 194 patients with psoriasis, Crohn's disease or ulcerative colitis were exposed for at least 4 years while 1 148 patients with psoriasis or Crohn's disease were exposed for at least 5 years.
+
+Table 1 provides a list of adverse reactions from adult psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies as well as adverse reactions reported from post-marketing experience. The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to &lt; 1/10), Uncommon (≥ 1/1,000 to &lt; 1/100), Rare (≥ 1/10,000 to &lt; 1/1,000), Very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 1: List of adverse reactions
+
+| System Organ Class                                   | Frequency: Adverse reaction                                                                                                                                                                                                              |
+|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Infections and infestations                          | Common: Upper respiratory tract infection, nasopharyngitis, sinusitis Uncommon: Cellulitis, dental infections, herpes zoster, lower respiratory tract infection, viral upper respiratory tract infection, vulvovaginal mycotic infection |
+| Immune system disorders                              | Uncommon: Hypersensitivity reactions (including rash, urticaria) Rare: Serious hypersensitivity reactions (including anaphylaxis, angioedema)                                                                                            |
+| Psychiatric disorders                                | Uncommon: Depression                                                                                                                                                                                                                     |
+| Nervous system disorders                             | Common: Dizziness, headache Uncommon: Facial palsy                                                                                                                                                                                       |
+| Respiratory, thoracic and mediastinal disorders      | Common: Oropharyngeal pain Uncommon: Nasal congestion Rare: Allergic alveolitis, eosinophilic pneumonia Very rare: Organising pneumonia*                                                                                                 |
+| Gastrointestinal disorders                           | Common: Diarrhoea, nausea, vomiting                                                                                                                                                                                                      |
+| Skin and subcutaneous tissue disorders               | Common: Pruritus Uncommon: Pustular psoriasis, skin exfoliation, acne Rare: Exfoliative dermatitis, hypersensitivity vasculitis Very rare: Bullous pemphigoid, cutaneous lupus erythematosus                                             |
+| Musculoskeletal and connective tissue disorders      | Common: Back pain, myalgia, arthralgia Very rare: Lupus-like syndrome                                                                                                                                                                    |
+| General disorders and administration site conditions | Common: Fatigue, injection site erythema, injection site pain Uncommon: Injection site reactions (including haemorrhage, haematoma, induration, swelling and pruritus), asthenia                                                         |
+
+## Description of selected adverse reactions
+
+## Infections
+
+In the placebo-controlled studies of patients with psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis, the rates of infection or serious infection were similar between ustekinumab-treated patients and those treated with placebo. In the placebo-controlled period of these clinical studies, the rate of infection was 1.36 per patient-year of follow-up in ustekinumab-treated patients, and 1.34 in placebo-treated patients. Serious infections occurred at the rate of 0.03 per patient-year of follow-up in ustekinumab-treated patients (30 serious infections in 930 patient-years of follow-up) and 0.03 in placebo-treated patients (15 serious infections in 434 patient-years of follow-up) (see section 4.4).
+
+In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15 227 patient-years of ustekinumab exposure in 6 710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies, and 2.3 years for ulcerative colitis studies. The rate of infection was 0.85 per patient-year of follow-up in ustekinumab-treated patients, and the rate of serious infections was 0.02 per patient-year of follow-up in ustekinumab-treated patients (289 serious infections in 15 227 patientyears of follow-up) and serious infections reported included pneumonia, anal abscess, cellulitis, diverticulitis, gastroenteritis and viral infections.
+
+In clinical studies, patients with latent tuberculosis who were concurrently treated with isoniazid did not develop tuberculosis.
+
+## Malignancies
+
+In the placebo-controlled period of the psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, the incidence of malignancies excluding non-melanoma skin cancer was 0.11 per 100 patient-years of follow-up for ustekinumab-treated patients (1 patient in 929 patient-years of
+
+<div style=\"page-break-after: always\"></div>
+
+follow-up) compared with 0.23 for placebo-treated patients (1 patient in 434 patient-years of followup). The incidence of non-melanoma skin cancer was 0.43 per 100 patient-years of follow-up for ustekinumab-treated patients (4 patients in 929 patient-years of follow-up) compared to 0.46 for placebo-treated patients (2 patients in 433 patient-years of follow-up).
+
+In the controlled and non-controlled periods of psoriasis, psoriatic arthritis, Crohn's disease and ulcerative colitis clinical studies, representing 15 205 patient-years of ustekinumab exposure in 6 710 patients, the median follow-up was 1.2 years; 1.7 years for psoriatic disease studies, 0.6 year for Crohn's disease studies and 2.3 years for ulcerative colitis studies. Malignancies excluding nonmelanoma skin cancers were reported in 76 patients in 15 205 patient-years of follow-up (incidence of 0.50 per 100 patient- years of follow-up for ustekinumab-treated patients). The incidence of malignancies reported in ustekinumab-treated patients was comparable to the incidence expected in the general population (standardised incidence ratio = 0.94 [95% confidence interval: 0.73, 1.18], adjusted for age, gender  and race). The most frequently observed malignancies, other than nonmelanoma skin cancer, were prostate, melanoma, colorectal, and breast cancers. The incidence of nonmelanoma skin cancer was 0.46 per 100 patient-years of follow-up for ustekinumab-treated patients (69 patients in 15 165 patient-years of follow-up). The ratio of patients with basal versus squamous cell skin cancers (3:1) is comparable with the ratio expected in the general population (see section 4.4).
+
+## Hypersensitivity reactions
+
+During the controlled periods of the psoriasis and psoriatic arthritis clinical studies of ustekinumab, rash and urticaria have each been observed in &lt;1% of patients (see section 4.4).
+
+## Reporting of suspected adverse reactions
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+## 4.9 Overdose
+
+Single doses up to 6 mg/kg have been administered intravenously in clinical studies without doselimiting toxicity. In case of overdose, it is recommended that the patient be monitored for any signs or symptoms of adverse reactions and appropriate symptomatic treatment be instituted immediately.
+
+## 5. PHARMACOLOGICAL PROPERTIES
+
+## 5.1 Pharmacodynamic properties
+
+Pharmacotherapeutic group: Immunosuppressants, interleukin inhibitors, ATC code: L04AC05.
+
+Yesintek is a biosimilar medicinal product. Detailed information is available on the website of the European Medicines Agency https://www.ema.europa.eu.
+
+## Mechanism of action
+
+Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with specificity to the shared p40 protein subunit of human cytokines interleukin IL-12 and IL-23. Ustekinumab inhibits the bioactivity of human IL-12 and IL-23 by preventing p40 from binding to the IL-12Rb1 receptor protein expressed on the surface of immune cells. Ustekinumab cannot bind to IL-12 or IL-23 that is already bound to IL-12Rb1 cell surface receptors. Thus, ustekinumab is not likely to contribute to complement- or antibody-mediated cytotoxicity of cells with IL-12 and/or IL-23 receptors. IL-12 and IL-23 are heterodimeric cytokines secreted by activated antigen presenting cells, such as macrophages and dendritic cells, and both cytokines participate in immune functions; IL-12 stimulates natural killer (NK) cells and drives the differentiation of CD4+ T cells toward the T helper 1 (Th1) phenotype,
+
+IL-23 induces the T helper 17 (Th17) pathway. However, abnormal regulation of IL-12 and IL-23 has
+
+<div style=\"page-break-after: always\"></div>
+
+been  associated  with  immune  mediated  diseases,  such  as  psoriasis,  psoriatic  arthritis  and  Crohn's disease.
+
+By binding the shared p40 subunit of IL-12 and IL-23, ustekinumab may exert its clinical effects in psoriasis, psoriatic arthritis and Crohn's disease through interruption of the Th1 and Th17 cytokine pathways, which are central to the pathology of these diseases.
+
+In patients with Crohn's disease, treatment with ustekinumab resulted in a decrease in inflammatory markers including C-Reactive Protein (CRP) and fecal calprotectin during the induction phase, which were then maintained throughout the maintenance phase. CRP was assessed during the study extension and the reductions observed during maintenance were generally sustained through week 252.
+
+## Immunisation
+
+During the long term extension of Psoriasis Study 2 (PHOENIX 2), adult patients treated with ustekinumab for at least 3.5 years mounted similar antibody responses to both pneumococcal polysaccharide and tetanus vaccines as a non-systemically treated psoriasis control group. Similar proportions of adult patients developed protective levels of anti-pneumococcal and anti-tetanus antibodies and antibody titres were similar among ustekinumab-treated and control patients.
+
+## Clinical efficacy
+
+## Plaque psoriasis (Adults)
+
+The safety and efficacy of ustekinumab was assessed in 1 996 patients in two randomised, doubleblind, placebo-controlled studies in patients with moderate to severe plaque psoriasis and who were candidates for phototherapy or systemic therapy. In addition, a randomised, blinded assessor, activecontrolled study compared ustekinumab and etanercept in patients with moderate to severe plaque psoriasis who had had an inadequate response to, intolerance to, or contraindication to ciclosporin, MTX, or PUVA.
+
+Psoriasis Study 1 (PHOENIX 1) evaluated 766 patients. 53% of these patients were either nonresponsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at Weeks 0 and 4 and followed by the same dose every 12 weeks. Patients randomised to receive placebo at Weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at Weeks 12 and 16 followed by dosing every 12 weeks. Patients originally randomised to ustekinumab who achieved Psoriasis Area and Severity Index 75 response (PASI improvement of at least 75% relative to baseline) at both Weeks 28 and 40 were re-randomised to receive ustekinumab every 12 weeks or to placebo (i.e., withdrawal of therapy). Patients who were re-randomised to placebo at week 40 reinitiated ustekinumab at their original dosing regimen when they experienced at least a 50% loss of their PASI improvement obtained at week 40. All patients were followed for up to 76 weeks following first administration of study treatment.
+
+Psoriasis Study 2 (PHOENIX 2) evaluated 1 230 patients. 61% of these patients were either nonresponsive, intolerant, or had a contraindication to other systemic therapy. Patients randomised to ustekinumab received 45 mg or 90 mg doses at Weeks 0 and 4 followed by an additional dose at 16 weeks. Patients randomised to receive placebo at Weeks 0 and 4 crossed over to receive ustekinumab (either 45 mg or 90 mg) at Weeks 12 and 16. All patients were followed for up to 52 weeks following first administration of study treatment.
+
+Psoriasis Study 3 (ACCEPT) evaluated 903 patients with moderate to severe psoriasis who inadequately responded to, were intolerant to, or had a contraindication to other systemic therapy and compared the efficacy of ustekinumab to etanercept and evaluated the safety of ustekinumab and etanercept. During the 12-week active-controlled portion of the study, patients were randomised to receive etanercept (50 mg twice a week), ustekinumab 45 mg at Weeks 0 and 4, or ustekinumab 90 mg at Weeks 0 and 4.
+
+Baseline disease characteristics were generally consistent across all treatment groups in Psoriasis Studies 1 and 2 with a median baseline PASI score from 17 to 18, median baseline Body Surface Area
+
+<div style=\"page-break-after: always\"></div>
+
+(BSA) ≥ 20, and median Dermatology Life Quality Index (DLQI) range from 10 to 12. Approximately one third (Psoriasis Study 1) and one quarter (Psoriasis Study 2) of subjects had Psoriatic Arthritis (PsA). Similar disease severity was also seen in Psoriasis Study 3.
+
+The primary endpoint in these studies was the proportion of patients who achieved PASI 75 response from baseline at week 12 (see Tables 2 and 3).
+
+Table 2: Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoriasis Study 2 (PHOENIX 2)
+
+|                                  | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 12 2 doses (week 0 and week 4)   | Week 28 3 doses (week 0, week 4 and week 16)   | Week 28 3 doses (week 0, week 4 and week 16)   |
+|----------------------------------|---------------------------------------|---------------------------------------|---------------------------------------|------------------------------------------------|------------------------------------------------|
+|                                  | PBO                                   | 45 mg                                 | 90 mg                                 | 45 mg                                          | 90 mg                                          |
+| Psoriasis Study 1                |                                       |                                       |                                       |                                                |                                                |
+| Number of patients randomised    | 255                                   | 255                                   | 256                                   | 250                                            | 243                                            |
+| PASI 50 response N(%)            | 26 (10%)                              | 213 (84%) a                           | 220 (86%) a                           | 228 (91%)                                      | 234 (96%)                                      |
+| PASI 75 response N(%)            | 8 (3%)                                | 171 (67%) a                           | 170 (66%) a                           | 178 (71%)                                      | 191 (79%)                                      |
+| PASI 90 response N(%)            | 5 (2%)                                | 106 (42%) a                           | 94 (37%) a                            | 123 (49%)                                      | 135 (56%)                                      |
+| PGA b of cleared or minimalN (%) | 10 (4%)                               | 151 (59%) a                           | 156 (61%) a                           | 146 (58%)                                      | 160 (66%)                                      |
+| Number of patients ≤ 100 kg      | 166                                   | 168                                   | 164                                   | 164                                            | 153                                            |
+| PASI 75 response N(%)            | 6 (4%)                                | 124 (74%)                             | 107 (65%)                             | 130 (79%)                                      | 124 (81%)                                      |
+| Number of patients > 100 kg      | 89                                    | 87                                    | 92                                    | 86                                             | 90                                             |
+| PASI 75 response N(%)            | 2 (2%)                                | 47 (54%)                              | 63 (68%)                              | 48 (56%)                                       | 67 (74%)                                       |
+| Psoriasis Study 2                |                                       |                                       |                                       |                                                |                                                |
+| Number of patients randomised    | 410                                   | 409                                   | 411                                   | 397                                            | 400                                            |
+| PASI 50 response N(%)            | 41 (10%)                              | 342 (84%) a                           | 367 (89%) a                           | 369 (93%)                                      | 380 (95%)                                      |
+| PASI 75 response N(%)            | 15 (4%)                               | 273 (67%) a                           | 311 (76%) a                           | 276 (70%)                                      | 314 (79%)                                      |
+| PASI 90 response N(%)            | 3 (1%)                                | 173 (42%) a                           | 209 (51%) a                           | 178 (45%)                                      | 217 (54%)                                      |
+| PGA b of cleared or minimalN (%) | 18 (4%)                               | 277 (68%) a                           | 300 (73%) a                           | 241 (61%)                                      | 279 (70%)                                      |
+| Number of patients ≤ 100 kg      | 290                                   | 297                                   | 289                                   | 287                                            | 280                                            |
+| PASI 75 response N(%)            | 12 (4%)                               | 218 (73%)                             | 225 (78%)                             | 217 (76%)                                      | 226 (81%)                                      |
+| Number of patients > 100 kg      | 120                                   | 112                                   | 121                                   | 110                                            | 119                                            |
+| PASI 75 response N(%)            | 3 (3%)                                | 55 (49%)                              | 86 (71%)                              | 59 (54%)                                       | 88 (74%)                                       |
+
+Table 3: Summary of clinical response at week 12 in Psoriasis Study 3 (ACCEPT)
+
+|                                | Psoriasis Study 3                       | Psoriasis Study 3                       | Psoriasis Study 3                       |
+|--------------------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------|
+|                                | Etanercept 24 doses (50 mgtwice a week) | Ustekinumab 2 doses (week 0 and week 4) | Ustekinumab 2 doses (week 0 and week 4) |
+|                                |                                         | 45 mg                                   | 90 mg                                   |
+| Number of patients randomised  | 347                                     | 209                                     | 347                                     |
+| PASI 50 response N(%)          | 286 (82%)                               | 181 (87%)                               | 320 (92%) a                             |
+| PASI 75 response N(%)          | 197 (57%)                               | 141 (67%) b                             | 256 (74%) a                             |
+| PASI 90 response N(%)          | 80 (23%)                                | 76 (36%) a                              | 155 (45%) a                             |
+| PGA of cleared or minimal N(%) | 170 (49%)                               | 136 (65%) a                             | 245 (71%) a                             |
+| Number of patients ≤ 100 kg    | 251                                     | 151                                     | 244                                     |
+| PASI 75 response N(%)          | 154 (61%)                               | 109 (72%)                               | 189 (77%)                               |
+| Number of patients > 100 kg    | 96                                      | 58                                      | 103                                     |
+| PASI 75 response N(%)          | 43 (45%)                                | 32 (55%)                                | 67 (65%)                                |
+
+<div style=\"page-break-after: always\"></div>
+
+In Psoriasis Study 1 maintenance of PASI 75 was significantly superior with continuous treatment compared with treatment withdrawal (p &lt; 0.001). Similar results were seen with each dose of ustekinumab. At 1 year (week 52), 89% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 63% of patients re-randomised to placebo (treatment withdrawal) (p &lt; 0.001). At 18 months (week 76), 84% of patients re -randomised to maintenance treatment were PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal). At 3 years (week 148), 82% of patients re-randomised to maintenance treatment were PASI 75 responders. At 5 years (week 244), 80% of patients re-randomised to maintenance treatment were PASI 75 responders.
+
+In patients re-randomised to placebo, and who reinitiated their original ustekinumab treatment regimen after loss of ≥ 50% of PASI improvement 85% regained PASI 75 response within 12 weeks after reinitiating therapy.
+
+In Psoriasis Study 1, at week 2 and week 12, significantly greater improvements from baseline were demonstrated in the DLQI in each ustekinumab treatment group compared with placebo. The improvement was sustained through week 28. Similarly, significant improvements were seen in Psoriasis Study 2 at week 4 and 12, which were sustained through week 24. In Psoriasis Study 1, improvements in nail psoriasis (Nail Psoriasis Severity Index), in the physical and mental component summary scores of the SF-36 and in the Itch Visual Analogue Scale (VAS) were also significant in each ustekinumab treatment group compared with placebo. In Psoriasis Study 2, the Hospital Anxiety and Depression Scale (HADS) and Work Limitations Questionnaire (WLQ) were also significantly improved in each ustekinumab treatment group compared with placebo.
+
+## Psoriatic arthritis (PsA) (Adults)
+
+Ustekinumab has been shown to improve signs and symptoms, physical function and health-related quality of life, and reduce the rate of progression of peripheral joint damage in adult patients with active PsA.
+
+The safety and efficacy of ustekinumab was assessed in 927 patients in two randomised, double-blind, placebo-controlled studies in patients with active PsA (≥ 5 swollen joints and ≥ 5 tender joints) despite non-steroidal anti-inflammatory (NSAID) or disease modifying antirheumatic (DMARD) therapy. Patients in these studies had a diagnosis of PsA for at least 6 months. Patients with each subtype of PsA were enrolled, including polyarticular arthritis with no evidence of rheumatoid nodules (39%), spondylitis with peripheral arthritis (28%), asymmetric peripheral arthritis (21%), distal interphalangeal involvement (12%) and arthritis mutilans (0.5%). Over 70% and 40% of the patients in both studies had enthesitis and dactylitis at baseline, respectively. Patients were randomised to receive treatment with ustekinumab 45 mg, 90 mg, or placebo subcutaneously at Weeks 0 and 4 followed by every 12 weeks (q12w) dosing. Approximately 50% of patients continued on stable doses of MTX (≤ 25 mg/week).
+
+In PsA Study 1 (PSUMMIT I) and PsA Study 2 (PSUMMIT II), 80% and 86% of the patients, respectively, had been previously treated with DMARDs. In Study 1 previous treatment with antitumour necrosis factor (TNF)α agent was not allowed. In Study 2, the majority of patients (58%, n = 180) had been previously treated with one or more antiTNFα agent(s), of whom over 70% had discontinued their antiTNFα treatment for lack of efficacy or intolerance at any time.
+
+## Signs and symptoms
+
+Treatment with ustekinumab resulted in significant improvements in the measures of disease activity compared to placebo at week 24. The primary endpoint was the percentage of patients who achieved American College of Rheumatology (ACR) 20 response at week 24. The key efficacy results are shown in Table 4 below.
+
+<div style=\"page-break-after: always\"></div>
+
+Table 4: Number of patients who achieved clinical response in Psoriatic arthritis Study 1 (PSUMMIT I) and Study 2 (PSUMMIT II) at week 24
+
+|                                           | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 1   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   | Psoriatic arthritis Study 2   |
+|-------------------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|
+|                                           | PBO                           | 45 mg                         | 90 mg                         | PBO                           | 45 mg                         | 90 mg                         |
+| Number of patients randomised             | 206                           | 205                           | 204                           | 104                           | 103                           | 105                           |
+| ACR20response,N (%)                       | 47 (23%)                      | 87 (42%) a                    | 101 (50%) a                   | 21 (20%)                      | 45 (44%) a                    | 46 (44%) a                    |
+| ACR50response,N (%)                       | 18 (9%)                       | 51 (25%) a                    | 57 (28%) a                    | 7 (7%)                        | 18 (17%) b                    | 24 (23%) a                    |
+| ACR70response,N (%)                       | 5 (2%)                        | 25 (12%) a                    | 29 (14%) a                    | 3 (3%)                        | 7 (7%) c                      | 9 (9%) c                      |
+| Number of patients with ≥ 3% BSA d        | 146                           | 145                           | 149                           | 80                            | 80                            | 81                            |
+| PASI 75 response,N (%)                    | 16 (11%)                      | 83 (57%) a                    | 93 (62%) a                    | 4 (5%)                        | 41 (51%) a                    | 45 (56%) a                    |
+| PASI 90 response,N (%)                    | 4 (3%)                        | 60 (41%) a                    | 65 (44%) a                    | 3 (4%)                        | 24 (30%) a                    | 36 (44%) a                    |
+| Combined PASI 75 and ACR20 response, N(%) | 8 (5%)                        | 40 (28%) a                    | 62 (42%) a                    | 2 (3%)                        | 24 (30%) a                    | 31 (38%) a                    |
+| Number of patients ≤ 100 kg               | 154                           | 153                           | 154                           | 74                            | 74                            | 73                            |
+| ACR20response,N (%)                       | 39 (25%)                      | 67 (44%)                      | 78 (51%)                      | 17 (23%)                      | 32 (43%)                      | 34 (47%)                      |
+| Number of patients with ≥ 3% BSA d        | 105                           | 105                           | 111                           | 54                            | 58                            | 57                            |
+| PASI 75 response,N (%)                    | 14 (13%)                      | 64 (61%)                      | 73 (66%)                      | 4 (7%)                        | 31 (53%)                      | 32 (56%)                      |
+| Number of patients > 100 kg               | 52                            | 52                            | 50                            | 30                            | 29                            | 31                            |
+| ACR20response,N (%)                       | 8 (15%)                       | 20 (38%)                      | 23 (46%)                      | 4 (13%)                       | 13 (45%)                      | 12 (39%)                      |
+| Number of patients with ≥ 3% BSA d        | 41                            | 40                            | 38                            | 26                            | 22                            | 24                            |
+| PASI 75 response,N (%)                    | 2 (5%)                        | 19 (48%)                      | 20 (53%)                      | 0                             | 10 (45%)                      | 13 (54%)                      |
+
+ACR 20, 50 and 70 responses continued to improve or were maintained through week 52 (PsA Study 1 and 2) and week 100 (PsA Study 1). In PsA Study 1, ACR 20 responses at week 100 were achieved by 57% and 64%, for 45 mg and 90 mg, respectively. In PsA Study 2, ACR 20 responses at week 52 were achieved by 47% and 48%, for 45 mg and 90 mg, respectively.
+
+The proportion of patients achieving a modified PsA response criteria (PsARC) response was also significantly greater in the ustekinumab groups compared to placebo at week 24. PsARC responses were maintained through weeks 52 and 100. A higher proportion of patients treated with ustekinumab who had spondylitis with peripheral arthritis as their primary presentation, demonstrated 50 and 70 percent improvement in Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) scores compared with placebo at week 24.
+
+<div style=\"page-break-after: always\"></div>
+
+Responses observed in the ustekinumab treated groups were similar in patients receiving and not receiving concomitant MTX, and were maintained through weeks 52 and 100. Patients previously treated with antiTNFα agents who received ustekinumab achieved a g reater response at week 24 than patients receiving placebo (ACR 20 response at week 24 for 45 mg and 90 mg was 37% and 34%, respectively, compared with placebo 15%; p &lt; 0.05), and responses were maintained through week 52.
+
+For patients with enthesitis and/or dactylitis at baseline, in PsA Study 1 significant improvement in enthesitis and dactylitis score was observed in the ustekinumab groups compared with placebo at week 24. In PsA Study 2 significant improvement in enthesitis score and numerical improvement (not statistically significant) in dactylitis score was observed in the ustekinumab 90 mg group compared with placebo at week 24. Improvements in enthesitis score and dactylitis score were maintained through weeks 52 and 100.
+
+## Radiographic Response
+
+Structural damage in both hands and feet was expressed as change in total van der Heijde-Sharp score (vdH-S score), modified for PsA by addition of hand distal interphalangeal joints, compared to baseline. A pre-specified integrated analysis combining data from 927 subjects in both PsA Study 1 and 2 was performed. Ustekinumab demonstrated a statistically significant decrease in the rate of progression of structural damage compared to placebo, as measured by change from baseline to week 24 in the total modified vdH-S score (mean ± SD score was 0.97 ± 3.85 in the placebo group compared with 0.40 ± 2.11 and 0.39 ± 2.40 in the ustekinumab 45 mg (p &lt; 0.05) and 90 mg (p &lt; 0.001) groups, respectively). This effect was driven by PsA Study 1. The effect is considered demonstrated irrespective of concomitant MTX use, and was maintained through Weeks 52 (integrated analysis) and 100 (PsA Study 1).
+
+## Physical function and health-related quality of life
+
+Ustekinumab-treated patients showed significant improvement in physical function as assessed by the Disability Index of the Health Assessment Questionnaire (HAQ-DI) at week 24. The proportion of patients achieving a clinically meaningful ≥ 0.3 improvement in HAQ-DI score from baseline was also significantly greater in the ustekinumab groups when compared with placebo. Improvement in HAQDI score from baseline was maintained through Weeks 52 and 100.
+
+There was significant improvement in DLQI scores in the ustekinumab groups as compared with placebo at week 24, which was maintained through weeks 52 and 100. In PsA Study 2 there was a significant improvement in Functional Assessment of Chronic Illness Therapy-Fatigue (FACIT-F) scores in the ustekinumab groups when compared with placebo at week 24. The proportion of patients achieving a clinically significant improvement in fatigue (4 points in FACIT-F) was also significantly greater in the ustekinumab groups compared with placebo. Improvements in FACIT scores were maintained through week 52.
+
+## Paediatric population
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population with juvenile idiopathic arthritis. The pre-filled pen has not been studied in the paediatric psoriasis population and is not recommended for use by paediatric patients.
+
+## Crohn's Disease
+
+The safety and efficacy of ustekinumab was assessed in three randomised, double-blind, placebocontrolled, multicentre studies in adult patients with moderately to severely active Crohn's disease (Crohn's Disease Activity Index [CDAI] score of ≥ 220 and ≤ 450). The clinical development program consisted of two 8-week intravenous induction studies (UNITI-1 and UNITI-2) followed by a 44 week subcutaneous randomised withdrawal maintenance study (IM-UNITI) representing 52 weeks of therapy.
+
+The induction studies included 1 409 (UNITI-1, n = 769; UNITI-2 n = 640) patients. The primary endpoint for both induction studies was the proportion of subjects in clinical response (defined as a reduction in CDAI score of ≥ 100 points) at week 6. Efficac y data were collected and analysed
+
+<div style=\"page-break-after: always\"></div>
+
+through week 8 for both studies. Concomitant doses of oral corticosteroids, immunomodulators, aminosalicylates and antibiotics were permitted and 75% of patients continued to receive at least one of these medications. In both studies, patients were randomised to receive a single intravenous administration of either the recommended tiered dose of approximately 6 mg/kg (see section 4.2 of the Yesintek 130 mg Concentrate for solution for infusion SmPC), a fixed dose of 130 mg ustekinumab, or placebo at week 0.
+
+Patients in UNITI-1 had failed or were intolerant to prior antiTNFα therapy. Approximately 48% of the patients had failed 1 prior anti-TNFa therapy and 52% had failed 2 or 3 prior antiTNFα therapies. In this study, 29.1% of the patients had an inadequate initial response (primary non-responders), 69.4% responded but lost response (secondary non-responders), and 36.4% were intolerant to antiTNFα therapies.
+
+Patients in UNITI-2 had failed at least one conventional therapy, including corticosteroids or immunomodulators, and were either anti-TNFα naïve (68.6%) or had previously received but not failed antiTNFα therapy (31.4%).
+
+In both UNITI-1 and UNITI-2, a significantly greater proportion of patients were in clinical response and remission in the ustekinumab treated group compared to placebo (Table 5). Clinical response and remission were significant as early as week 3 in ustekinumab treated patients and continued to improve through week 8. In these induction studies, efficacy was higher and better sustained in the tiered dose group compared to the 130 mg dose group, and tiered dosing is therefore the recommended intravenous induction dose.
+
+Table 5: Induction of Clinical Response and Remission in UNITI-1 and UNITI 2
+
+|                                       | UNITI-1 *      | UNITI-1 *                               | UNITI-2 **     | UNITI-2 **                              |
+|---------------------------------------|----------------|-----------------------------------------|----------------|-----------------------------------------|
+|                                       | PlaceboN = 247 | Recommende d dose of ustekinumabN = 249 | PlaceboN = 209 | Recommende d dose of ustekinumabN = 209 |
+| Clinical Remission, week 8            | 18 (7.3%)      | 52 (20.9%) a                            | 41 (19.6%)     | 84 (40.2%) a                            |
+| Clinical Response (100 point), week 6 | 53 (21.5%)     | 84 (33.7%) b                            | 60 (28.7%)     | 116 (55.5%) a                           |
+| Clinical Response (100 point), week 8 | 50 (20.2%)     | 94 (37.8%) a                            | 67 (32.1%)     | 121 (57.9%) a                           |
+| 70 Point Response, week 3             | 67 (27.1%)     | 101 (40.6%) b                           | 66 (31.6%)     | 106 (50.7%) a                           |
+| 70 Point Response, week 6             | 75 (30.4%)     | 109 (43.8%) b                           | 81 (38.8%)     | 135 (64.6%) a                           |
+
+Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI score by at least 100 points or being in clinical remission 70 point response is defined as reduction in CDAI score by at least 70 points
+
+* Anti-TNFá failures
+- **  Conventional therapy failures
+- a p &lt; 0.001
+- b p &lt; 0.01
+
+The maintenance study (IM-UNITI), evaluated 388 patients who achieved 100 point clinical response at week 8 of induction with ustekinumab in studies UNITI-1 and UNITI-2.
+
+Patients were randomised to receive a subcutaneous maintenance regimen of either 90 mg ustekinumab every 8 weeks, 90 mg ustekinumab every 12 weeks or placebo for 44 weeks (for recommended maintenance posology, see section 4.2).
+
+Significantly higher proportions of patients maintained clinical remission and response in the ustekinumab treated groups compared to the placebo group at week 44 (see Table 6).
+
+<div style=\"page-break-after: always\"></div>
+
+Table 6: Maintenance of Clinical Response and Remission in IM-UNITI (week 44; 52 weeks from initiation of the induction dose)
+
+|                                                  | Placebo* N = 131 †   | 90 mg ustekinumab every 8 weeks N = 128 †   | 90 mg ustekinumab every 12 weeks N = 129 †   |
+|--------------------------------------------------|----------------------|---------------------------------------------|----------------------------------------------|
+| Clinical Remission                               | 36%                  | 53% a                                       | 49% b                                        |
+| Clinical Response                                | 44%                  | 59% b                                       | 58% b                                        |
+| Corticosteroid-Free Clinical Remission           | 30%                  | 47% a                                       | 43% c                                        |
+| Clinical Remission in patients:                  |                      |                                             |                                              |
+| in remission at the start of maintenance therapy | 46% (36/79)          | 67% (52/78) a                               | 56% (44/78)                                  |
+| who entered from study CRD3002 ‡                 | 44% (31/70)          | 63% (45/72) c                               | 57% (41/72)                                  |
+| who are Anti- TNFα naïve                         | 49% (25/51)          | 65% (34/52) c                               | 57% (30/53)                                  |
+| who entered from study CRD3001 §                 | 26% (16/61)          | 41% (23/56)                                 | 39% (22/57)                                  |
+
+Clinical remission is defined as CDAI score &lt; 150; Clinical response is defined as reduction in CDAI of at least 100 points or being in clinical remission
+
+* The placebo group consisted of patients who were in response to ustekinumab and were randomised to receive placebo at the start of maintenance therapy.
+- † Patients who were in 100 point clinical response to ustekinumab at start of maintenance therapy.
+- ‡ Patients who failed conventional therapy but not antiTNFα therapy.
+- § Patients who are antiTNFα refractory/intolerant.
+- a p &lt; 0.01
+- b p &lt; 0.05
+- c nominally significant (p &lt; 0.05)
+
+In IM-UNITI, 29 of 129 patients did not maintain response to ustekinumab when treated every 12 weeks and were allowed to dose adjust to receive ustekinumab every 8 weeks. Loss of response  was defined as a CDAI score ≥ 220 points and a ≥ 100 point increase from the CDAI score at baseline. In these patients, clinical remission was achieved in 41.4% of patients 16 weeks after dose adjustment.
+
+Patients who were not in clinical response to ustekinumab induction at week 8 of the UNITI-1 and UNITI-2 induction studies (476 patients) entered into the non-randomised portion of the maintenance study (IM-UNITI) and received a 90 mg subcutaneous injection of ustekinumab at that time. Eight weeks later, 50.5% of the patients achieved clinical response and continued to receive maintenance dosing every 8 weeks; among these patients with continued maintenance dosing, a majority maintained response (68.1%) and achieved remission (50.2%) at week 44, at proportions that were similar to the patients who initially responded to ustekinumab induction.
+
+Of 131 patients who responded to ustekinumab induction, and were randomised to the placebo group at the start of the maintenance study, 51 subsequently lost response and received 90 mg ustekinumab subcutaneously every 8 weeks. The majority of patients who lost response and resumed ustekinumab did so within 24 weeks of the induction infusion. Of these 51 patients, 70.6% achieved clinical response and 39.2% percent achieved clinical remission 16 weeks after receiving the first subcutaneous dose of ustekinumab.
+
+In IM-UNITI, patients who completed the study through week 44 were eligible to continue treatment in a study extension. Among the 567 patients who entered on and were treated with ustekinumab in the study extension, clinical remission and response were generally maintained through week 252 for both patients who failed TNF-therapies and those who failed conventional therapies.
+
+No new safety concerns were identified in this study extension with up to 5 years of treatment in patients with Crohn's Disease.
+
+<div style=\"page-break-after: always\"></div>
+
+## Endoscopy
+
+Endoscopic appearance of the mucosa was evaluated in 252 patients with eligible baseline endoscopic disease activity in a substudy. The primary endpoint was change from baseline in Simplified Endoscopic Disease Severity Score for Crohn's Disease (SES-CD), a composite score across 5 ileocolonic segments of presence/size of ulcers, proportion of mucosal surface covered by ulcers, proportion of mucosal surface affected by any other lesions and presence/type of narrowing/strictures. At week 8, after a single intravenous induction dose, the change in SES-CD score was greater in the ustekinumab group (n = 155, mean change = -2.8) than in the placebo group (n = 97, mean change = 0.7, p = 0.012).
+
+## Fistula Response
+
+In a subgroup of patients with draining fistulas at baseline (8.8%; n = 26), 12/15 (80%) of ustekinumab-treated patients achieved a fistula response over 44 weeks (defined as ≥ 50% reduction from baseline of the induction study in the number of draining fistulas) compared to 5/11 (45.5%) exposed to placebo.
+
+## Health-related quality of life
+
+Health-related quality of life was assessed by Inflammatory Bowel Disease Questionnaire (IBDQ) and SF-36 questionnaires. At week 8, patients receiving ustekinumab showed statistically significantly greater and clinically meaningful improvements on IBDQ total score and SF-36 Mental Component Summary Score in both UNITI-1 and UNITI-2, and SF-36 Physical Component Summary Score in UNITI-2, when compared to placebo. These improvements were generally better maintained in ustekinumab-treated patients in the IM-UNITI study through week 44 when compared to placebo.
+
+Improvement in health-related quality of life was generally maintained during the extension through week 252.
+
+## Immunogenicity
+
+Antibodies to ustekinumab may develop during ustekinumab treatment and most are neutralising. The formation of anti-ustekinumab antibodies is associated with both increased clearance and reduced efficacy of ustekinumab, except in patients with Crohn's disease where no reduced efficacy was observed. There is no apparent correlation between the presence of anti-ustekinumab antibodies and the occurrence of injection site reactions.
+
+## Paediatric population
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with ustekinumab in one or more subsets of the paediatric population in Crohn's Disease. The pre-filled pen has not been studied in the paediatric population and is not recommended for use by paediatric patients.
+
+## 5.2 Pharmacokinetic properties
+
+## Absorption
+
+The median time to reach the maximum serum concentration (tmax) was 8.5 days after a single 90 mg subcutaneous administration in healthy subjects. The median tmax values of ustekinumab following a single subcutaneous administration of either 45 mg or 90 mg in patients with psoriasis were comparable to those observed in healthy subjects.
+
+The absolute bioavailability of ustekinumab following a single subcutaneous administration was estimated to be 57.2% in patients with psoriasis.
+
+## Distribution
+
+Median volume of distribution during the terminal phase (Vz) following a single intravenous administration to patients with psoriasis ranged from 57 to 83 mL/kg.
+
+## Biotransformation
+
+The exact metabolic pathway for ustekinumab is unknown.
+
+<div style=\"page-break-after: always\"></div>
+
+## Elimination
+
+Median systemic clearance (CL) following a single intravenous administration to patients with psoriasis ranged from 1.99 to 2.34 mL/day/kg. Median half-life (t1/2) of ustekinumab was approximately 3 weeks in patients with psoriasis, psoriatic arthritis, Crohn's disease, ranging from 15 to 32 days across all psoriasis and psoriatic arthritis studies. In a population pharmacokinetic analysis, the apparent clearance (CL/F) and apparent volume of distribution (V/F) were 0.465 l/day and 15.7 l, respectively, in patients with psoriasis. The CL/F of ustekinumab was not impacted by gender. Population pharmacokinetic analysis showed that there was a trend towards a higher clearance of ustekinumab in patients who tested positive for antibodies to ustekinumab.
+
+## Dose linearity
+
+The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximately doseproportional manner after a single intravenous administration at doses ranging from 0.09 mg/kg to 4.5 mg/kg or following a single subcutaneous administration at doses ranging from approximately 24 mg to 240 mg in patients with psoriasis.
+
+## Single dose versus multiple doses
+
+Serum concentration-time profiles of ustekinumab were generally predictable after single or multiple subcutaneous dose administrations. In patients with psoriasis, steady-state serum concentrations of ustekinumab were achieved by week 28 after initial subcutaneous doses at Weeks 0 and 4 followed by doses every 12 weeks. The median steadystate trough concentration ranged from 0.21 μg/mL to 0.26 μg/mL (45 mg) and from 0.47 μg/mL to 0.49 μg/mL (90 mg). There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
+
+In patients with Crohn's disease, following an intravenous dose of ~6 mg/kg, starting at week 8, subcutaneous maintenance dosing of 90 mg ustekinumab was administered every 8 or 12 weeks. Steady state ustekinumab concentration was achieved by the start of the second maintenance dose. In patients with Crohn's disease, median steady-state trough concentrations ranged from 1.97 μg/mL to 2.24 μg/mL and from 0.61 μg/mL to 0.76 μg/mL for 90 mg ustekinumab every 8 weeks or every 12 weeks respectively. The steady-state trough ustekinumab levels resulting from 90 mg ustekinumab every 8 weeks were associated with higher clinical remission rates as compared to the steady-state trough levels following 90 mg every 12 weeks.
+
+## Impact of weight on pharmacokinetics
+
+In a population pharmacokinetic analysis using data from patients with psoriasis, body weight was found to be the most significant covariate affecting the clearance of ustekinumab. The median CL/F in patients with weight &gt; 100 kg was approximately 55% higher compared to patients with weight ≤ 100 kg. The median V/F in patients with weight &gt; 100 kg was approximately 37% higher as compared to patients with weight ≤ 100 kg. The median trough serum concentrations of ustekinumab in patients with higher weight (&gt; 100 kg) in the 90 mg group were comparable to those in patients with lower weight (≤ 100 kg) in the 45 mg group. Similar results were obtained from a confirmatory population pharmacokinetic analysis using data from patients with psoriatic arthritis.
+
+## Dosing frequency adjustment
+
+In patients with Crohn's disease, based on observed data and population PK analyses, randomised subjects who lost response to treatment had lower serum ustekinumab concentrations over time compared with subjects who did not lose response. In Crohn's disease, dose adjustment from 90 mg every 12 weeks to 90 mg every 8 weeks was associated with an increase in trough serum ustekinumab concentrations and an accompanying increase in efficacy.
+
+## Special populations
+
+No pharmacokinetic data are available in patients with impaired renal or hepatic function. No specific studies have been conducted in elderly patients.
+
+The pharmacokinetics of ustekinumab were generally comparable between Asian and non-Asian patients with psoriasis.
+
+<div style=\"page-break-after: always\"></div>
+
+In patients with Crohn's disease, variability in ustekinumab clearance was affected by body weight, serum albumin level, sex, and antibody to ustekinumab status while body weight was the main covariate affecting the volume of distribution. Additionally in Crohn's disease, clearance was affected by C-reactive protein, TNF antagonist failure status and race (Asian versus non-Asian). The impact of these covariates was within ± 20% of the typical or reference value of the respective PK parameter, thus dose adjustment is not warranted for these covariates. Concomitant use of immunomodulators did not have a significant impact on ustekinumab disposition.
+
+In the population pharmacokinetic analysis, there were no indications of an effect of tobacco or alcohol on the pharmacokinetics of ustekinumab.
+
+The bioavailability of ustekinumab following administration by syringe or pre-filled pen was comparable.
+
+The pre-filled pen has not been studied in the paediatric population and is not recommended for use by paediatric patients.
+
+## Regulation of CYP450 enzymes
+
+The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitro study using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4; see section 4.5).
+
+A phase 1, open-label, drug interaction study, Study CNTO1275CRD1003, was conducted to evaluate the effect of ustekinumab on cytochrome P450 enzyme activities following induction and maintenance dosing in patients with active Crohn's disease (n=18). No clinically significant changes in exposure of caffeine (CYP1A2 substrate), warfarin (CYP2C9 substrate), omeprazole (CYP2C19 substrate), dextromethorphan (CYP2D6 substrate), or midazolam (CYP3A substrate) were observed when used concomitantly with ustekinumab at the approved recommended dosing in patients with Crohn's disease (see section 4.5).
+
+## 5.3 Preclinical safety data
+
+Non-clinical data reveal no special hazard (e.g. organ toxicity) for humans based on studies of repeated-dose toxicity and developmental and reproductive toxicity, including safety pharmacology evaluations. In developmental and reproductive toxicity studies in cynomolgus monkeys, neither adverse effects on male fertility indices nor birth defects or developmental toxicity were observed. No adverse effects on female fertility indices were observed using an analogous antibody to IL-12/23 in mice.
+
+Dose levels in animal studies were up to approximately 45-fold higher than the highest equivalent dose intended to be administered to psoriasis patients and resulted in peak serum concentrations in monkeys that were more than 100-fold higher than observed in humans.
+
+Carcinogenicity studies were not performed with ustekinumab due to the lack of appropriate models for an antibody with no cross-reactivity to rodent IL-12/23 p40.
+
+## 6. PHARMACEUTICAL PARTICULARS
+
+## 6.1 List of excipients
+
+L-histidine L-histidine monohydrochloride monohydrate Polysorbate 80 (E 433) Sucrose Sodium hydroxide (for pH adjustment) Hydrochloric acid (for pH adjustment)
+
+<div style=\"page-break-after: always\"></div>
+
+Water for injections
+
+## 6.2 Incompatibilities
+
+In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
+
+## 6.3 Shelf life
+
+Yesintek 45 mg solution for injection in pre-filled pen 3 years
+
+Yesintek 90 mg solution for injection in pre-filled pen 3 years
+
+Individual pre-filled pens may be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the prefilled pen is first removed from the refrigerator and the discard date. The discard date must not exceed the original expiry date printed on the carton. Once a pre- filled pen has been stored at room temperature (up to 30°C), it should not be returned to the refrigerator. Discard the pre-filled pen if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
+
+## 6.4 Special precautions for storage
+
+Store in a refrigerator (2°C - 8°C). Do not freeze.
+
+Keep the pre-filled pen in the outer carton in order to protect from light.
+
+If needed, individual pre-filled pens may be stored at room temperature up to 30°C (see section 6.3).
+
+## 6.5 Nature and contents of container
+
+## Yesintek 45 mg solution for injection in pre-filled pen
+
+0.5 mL solution in a type I glass 1 mL syringe with a fixed stainless steel needle is assembled with pre-filled pen components.
+
+## Yesintek 90 mg solution for injection in pre-filled pen
+
+1 mL solution in a type I glass 1 mL syringe with a fixed stainless steel needle is assembled with prefilled pen components.
+
+Yesintek is available in a pack of 1 pre-filled pen.
+
+## 6.6 Special precautions for disposal and other handling
+
+The solution in the Yesintek pre-filled pen should not be shaken. The solution should be visually inspected for particulate matter or discolouration prior to subcutaneous administration. The solution is clear colourless to pale yellow in appearance. The medicinal product should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present. Before administration, Yesintek should be allowed to reach room temperature (approximately half an hour). Detailed instructions for use are provided in the package leaflet.
+
+Yesintek does not contain preservatives; therefore any unused medicinal product remaining in the prefilled pen should not be used. Yesintek is supplied as a sterile, single-use pre-filled pen. The pre-filled pen must never be re-used. Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
+
+<div style=\"page-break-after: always\"></div>
+
+## 7. MARKETING AUTHORISATION HOLDER
+
+## Biosimilar Collaborations Ireland Limited
+
+Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
+
+## 8. MARKETING AUTHORISATION NUMBER(S)
+
+Yesintek 45 mg solution for injection in pre-filled pen EU/1/24/1892/005 Yesintek 90 mg solution for injection in pre-filled pen EU/1/24/1892/006
+
+## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+
+Date of first authorisation: 14 February 2025
+
+## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu
 
@@ -1490,15 +2173,13 @@ Name and address of the manufacturer of the biological active substance
 
 ## Biocon Biologics Limited.
 
-Block No. Bl , B2, B3, B5 Q13 of Q1 and W20 &amp; Unit S 18, 1st Floor, Block B4 Special Economic Zone, Plot No.2. 3, 4 &amp; 5, Phase IV, Bommasandra-Jigani Link Road, Bommasandra Post, Bengaluru-560 099
-
-India
+Block No. Bl , B2, B3, B5 Q13 of Q1 and W20 &amp; Unit S 18, 1st Floor, Block B4 Special Economic Zone, Plot No.2. 3, 4 &amp; 5, Phase IV, Bommasandra-Jigani Link Road, Bommasandra Post, Bengaluru-560 099 India
 
 Name and address of the manufacturer responsible for batch release
 
 ## Biosimilar Collaborations Ireland Limited
 
-Block B, The Crescent Building, Santry Demesne, Dublin, D09 C6X8 Ireland
+Block B,The Crescent Building, Santry Demesne, Dublin, D09 C6X8 Ireland
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -1533,7 +2214,9 @@ The marketing authorisation holder (MAH) shall perform the required pharmacovigi
 
 <div style=\"page-break-after: always\"></div>
 
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING OUTER CARTON (130 mg)
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+OUTER CARTON (130 mg)
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -1549,7 +2232,7 @@ Excipients: EDTA disodium salt dihydrate, L-histidine, L-histidine monohydrochlo
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Concentrate for Solution for infusion
+Concentrate for Solution for infusion
 
 130 mg/26 mL
 
@@ -1563,7 +2246,7 @@ Read the package leaflet before use. For single use only.
 
 Intravenous use after dilution.
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+## 6 SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 ## 7. OTHER SPECIAL WARNING, IF NECESSARY
 
@@ -1581,35 +2264,37 @@ Keep the vial in the outer carton in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-## 12. MARKETING AUTHORISATION NUMBER
-
-## 13. BATCH NUMBER
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-
-15. INSTRUCTIONS ON USE
-
-16. INFORMATION IN BRAILLE
-
-17. UNIQUE IDENTIFIER - 2D BARCODE
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
 ## Biosimilar Collaborations Ireland Limited
 
-Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
+Unit 35/36 Grange Parade,
+
+Baldoyle Industrial Estate, Dublin 13, DUBLIN
+
+Ireland, D13 R20R
+
+## 12. MARKETING AUTHORISATION NUMBER
 
 EU/1/24/1892/004
 
+## 13. BATCH NUMBER
+
 Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
 
 Justification for not including in Braille accepted.
 
-- 2D barcode carrying the unique identifier included.
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
 
@@ -1617,31 +2302,37 @@ NN
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
+| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
+|------------------------------------------------------------|
+| VIAL LABEL TEXT (130 mg)                                   |
 
-VIAL LABEL TEXT (130 mg)
-
-## 1. NAME OF THE MEDICINAL PRODUCT AND ROUTE OF ADMINISTRATION
+| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTEOFADMINISTRATION   |
+|------|-----------------------------------------------------|
 
 Yesintek 130 mg concentrate for solution for infusion ustekinumab
 
-## 2. METHOD OF ADMINISTRATION
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 For IV use after dilution. Do not shake.
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRYDATE   |
+|------|--------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCHNUMBER   |
+|------|---------------|
 
 Lot
 
-## 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT
+| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
+|------|-------------------------------------|
 
 130 mg/26 mL
 
-## 6. OTHER
+| 6.   | OTHER   |
+|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1663,7 +2354,7 @@ Excipients: Sucrose, L-histidine, L-histidine monohydrochloride monohydrate, E 4
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-## Solution for injection
+Solution for injection
 
 45 mg/0.5 mL
 
@@ -1677,7 +2368,7 @@ Subcutaneous use
 
 Read the package leaflet before use.
 
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+## 6 SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
 
 Keep out of the sight and reach of children.
 
@@ -1688,6 +2379,34 @@ Keep out of the sight and reach of children.
 EXP
 
 ## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.
+
+<div style=\"page-break-after: always\"></div>
+
+Do not freeze.
+
+Keep the vial in the outer carton in order to protect from light.
+
+## Biosimilar Collaborations Ireland Limited
+
+Unit 35/36 Grange Parade,
+
+Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
+
+EU/1/24/1892/001
+
+Lot
+
+Yesintek 45 mg
+
+2D barcode carrying the unique identifier included.
+
+PC
+
+SN
+
+NN
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
@@ -1701,37 +2420,11 @@ EXP
 
 15. INSTRUCTIONS ON USE
 
-## 16. INFORMATION IN BRAILLE
+16. INFORMATION IN BRAILLE
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-Store in a refrigerator.
-
-Do not freeze.
-
-Keep the vial in the outer carton in order to protect from light.
-
-## Biosimilar Collaborations Ireland Limited
-
-Unit 35/36  Grange Parade,
-
-Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
-
-EU/1/24/1892/001
-
-Lot
-
-Yesintek 45 mg
-
-2D barcode carrying the unique identifier included.
-
-PC SN
-
-<div style=\"page-break-after: always\"></div>
-
-NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1765,22 +2458,6 @@ Lot
 | 6.   | OTHER   |
 |------|---------|
 
-## 1. NAME OF THE MEDICINAL PRODUCT
-
-## 2. STATEMENT OF ACTIVE SUBSTANCE
-
-## 3. LIST OF EXCIPIENTS
-
-## 4. PHARMACEUTICAL FORM AND CONTENTS
-
-## 5. METHOD AND ROUTE OF ADMINISTRATION
-
-## 6. SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
-## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
-
-## 8. EXPIRY DATE
-
 Yesintek 45 mg solution for injection in pre-filled syringe ustekinumab
 
 Each pre-filled syringe contains 45 mg of ustekinumab in 0.5 mL.
@@ -1799,6 +2476,8 @@ Subcutaneous use
 
 Read the package leaflet before use.
 
+## 6 SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
 Keep out of the sight and reach of children.
 
 EXP
@@ -1809,13 +2488,27 @@ Discard date, if stored at room temperature:
 
 PRE-FILLED SYRINGE CARTON TEXT (45 mg)
 
-<div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## 5. METHOD AND ROUTE OF ADMINISTRATION
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+<div style=\"page-break-after: always\"></div>
+
 Store in a refrigerator.
+
+<div style=\"page-break-after: always\"></div>
 
 Do not freeze.
 
@@ -1825,40 +2518,39 @@ Can be stored at room temperature (up to 30 °C) for a single period up to 30 da
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
 ## Biosimilar Collaborations Ireland Limited
 
-Unit 35/36 Grange Parade,
-
-Baldoyle Industrial Estate, Dublin 13, DUBLIN
-
-Ireland, D13 R20R
-
-## 12. MARKETING AUTHORISATION NUMBER
+Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
 
 EU/1/24/1892/002
 
-## 13. BATCH NUMBER
-
 Lot
 
+Yesintek 45 mg
+
+2D barcode carrying the unique identifier included.
+
+PC
+
+SN
+
+NN
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+## 12. MARKETING AUTHORISATION NUMBER
+
+## 13. BATCH NUMBER
+
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
-Yesintek 45 mg
-
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
-
-## PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1866,7 +2558,7 @@ Yesintek 45 mg
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Yesintek 45 mg solution for injection ustekinumab
+Yesintek 45 mg solution for injection Ustekinumab
 
 ## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1894,7 +2586,7 @@ Subcutaneous use
 
 | MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
 |------------------------------------------------------------|
-| PRE-FILLEDSYRINGELABEL TEXT (45 mg)                        |
+| PRE-FILLEDSYRINGELABEL TEXT(45 mg)                         |
 
 | 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTEOFADMINISTRATION   |
 |------|-----------------------------------------------------|
@@ -1922,6 +2614,38 @@ Lot
 | 6.   | OTHER   |
 |------|---------|
 
+Yesintek 90 mg solution for injection in pre-filled syringe ustekinumab
+
+Each pre-filled syringe contains 90 mg of ustekinumab in 1 mL.
+
+Excipients: Sucrose, L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80, sodium hydroxide, hydrochloric acid, water for injections.
+
+Solution for injection in pre-filled syringe
+
+90 mg/1 mL
+
+1 pre-filled syringe
+
+Do not shake.
+
+Subcutaneous use
+
+Read the package leaflet before use.
+
+## 6 SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+EXP
+
+Discard date, if stored at room temperature:
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+## PRE-FILLED SYRINGE CARTON TEXT (90 mg)
+
+## 9. SPECIAL STORAGE CONDITIONS
+
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
@@ -1936,43 +2660,11 @@ Lot
 
 ## 8. EXPIRY DATE
 
-Yesintek 90 mg solution for injection in pre-filled syringe ustekinumab
-
-Each pre-filled syringe contains 90 mg of ustekinumab in 1 mL.
-
-Excipients: Sucrose, L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80, sodium hydroxide, hydrochloric acid, water for injections.
-
-## Solution for injection in pre-filled syringe
-
-90 mg/1 mL
-
-1 pre-filled syringe
-
-Do not shake.
-
-Subcutaneous use
-
-Read the package leaflet before use.
-
-Keep out of the sight and reach of children.
-
-EXP
-
-Discard date, if stored at room temperature:
-
-## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
-
-PRE-FILLED SYRINGE CARTON TEXT (90 mg)
-
-## 6 SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
-
 <div style=\"page-break-after: always\"></div>
-
-<div style=\"page-break-after: always\"></div>
-
-## 9. SPECIAL STORAGE CONDITIONS
 
 Store in a refrigerator.
+
+<div style=\"page-break-after: always\"></div>
 
 Do not freeze.
 
@@ -1982,41 +2674,39 @@ Can be stored at room temperature (up to 30°C) for a single period up to 30 day
 
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
-
 ## Biosimilar Collaborations Ireland Limited
 
-Unit 35/36 Grange Parade,
-
-Baldoyle Industrial Estate, Dublin 13, DUBLIN
-
-Ireland, D13 R20R
-
-## 12. MARKETING AUTHORISATION NUMBER
+Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
 
 EU/1/24/1892/003
 
-## 13. BATCH NUMBER
-
 Lot
 
-## 14. GENERAL CLASSIFICATION FOR SUPPLY
+Yesintek 90 mg
+
+2D barcode carrying the unique identifier included.
+
+PC
+
+SN
+
+NN
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+## 12. MARKETING AUTHORISATION NUMBER
+
+## 13. BATCH NUMBER
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
 
 15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
-Yesintek 90 mg
-
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
-
-2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-<div style=\"page-break-after: always\"></div>
-
-## PC SN NN
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2050,16 +2740,17 @@ Subcutaneous use
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATE PACKAGING UNITS
-
-PRE-FILLED SYRINGE LABEL TEXT (90 mg)
+| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
+|------------------------------------------------------------|
+| PRE-FILLEDSYRINGELABEL TEXT (90 mg)                        |
 
 | 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTEOFADMINISTRATION   |
 |------|-----------------------------------------------------|
 
 Yesintek 90 mg injection ustekinumab SC
 
-2. METHOD OF ADMINISTRATION
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
 
 | 3.   | EXPIRYDATE   |
 |------|--------------|
@@ -2079,15 +2770,264 @@ Lot
 | 6.   | OTHER   |
 |------|---------|
 
+Yesintek 45 mg solution for injection in pre-filled pen ustekinumab
+
+Each pre-filled pen contains 45 mg of ustekinumab in 0.5 mL.
+
+Excipients: Sucrose, L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80 (E 433) sodium hydroxide, hydrochloric acid (for pH adjustment), water for injections.
+
+Solution for injection in pre-filled pen
+
+45 mg/0.5 mL
+
+1 pre-filled single dose pen
+
+Do not shake.
+
+Subcutaneous use
+
+Read the package leaflet before use.
+
+## 6 SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+EXP
+
+Discard date, if stored at room temperature:
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+PRE-FILLED PEN CARTON TEXT (45 mg)
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+<div style=\"page-break-after: always\"></div>
+
+<div style=\"page-break-after: always\"></div>
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+Store in a refrigerator.Do not freeze.
+
+Keep the pre-filled pen in the outer carton in order to protect from light.
+
+Can be stored at room temperature (up to 30°C) for a single period up to 30 days, but not exceeding the original expiry date.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Biosimilar Collaborations Ireland Limited
+
+Unit 35/36 Grange Parade,
+
+Baldoyle Industrial Estate,
+
+Dublin 13, DUBLIN
+
+Ireland, D13 R20R
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/24/1892/005
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+
+## 16. INFORMATION IN BRAILLE
+
+Yesintek 45 mg
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC SN
+
+NN
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
+|------------------------------------------------------------|
+| PRE-FILLEDPEN LABEL TEXT (45 mg)                           |
+
+| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S)OFADMINISTRATION   |
+|------|--------------------------------------------------------|
+
+Yesintek 45 mg solution for injection ustekinumab SC
+
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
+
+| 3.   | EXPIRYDATE   |
+|------|--------------|
+
+EXP
+
+| 4.   | BATCHNUMBER   |
+|------|---------------|
+
+Lot
+
+| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
+|------|-------------------------------------|
+
+45 mg/0.5 mL
+
+| 6.   | OTHER   |
+|------|---------|
+
+Yesintek 90 mg solution for injection in pre-filled pen ustekinumab
+
+Each pre-filled pen contains 90 mg of ustekinumab in 1 mL.
+
+Excipients: Sucrose, L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80 (E 433) sodium hydroxide, hydrochloric acid (for pH adjustment), water for injections.
+
+Solution for injection in pre-filled pen
+
+90 mg/1 mL
+
+1 pre-filled single dose pen
+
+Do not shake.
+
+Subcutaneous use
+
+Read the package leaflet before use.
+
+## 6 SPECIAL WARNING THAT THE MEDICINAL PRODUCT MUST BE STORED OUT OF THE SIGHT AND REACH OF CHILDREN
+
+Keep out of the sight and reach of children.
+
+EXP
+
+Discard date, if stored at room temperature:
+
+## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
+
+PRE-FILLED PEN CARTON TEXT (90 mg)
+
+## 9. SPECIAL STORAGE CONDITIONS
+
+## 1. NAME OF THE MEDICINAL PRODUCT
+
+## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
+
+## 3. LIST OF EXCIPIENTS
+
+## 4. PHARMACEUTICAL FORM AND CONTENTS
+
+## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
+
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
+
+## 8. EXPIRY DATE
+
+<div style=\"page-break-after: always\"></div>
+
+Store in a refrigerator. Do not freeze.
+
+<div style=\"page-break-after: always\"></div>
+
+Keep the pre-filled pen in the outer carton in order to protect from light.
+
+Can be stored at room temperature (up to 30°C) for a single period up to 30 days, but not exceeding the original expiry date.
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
+
+EU/1/24/1892/006
+
+Lot
+
+Yesintek 90 mg
+
+2D barcode carrying the unique identifier included.
+
+PC SN
+
+NN
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+## 13. BATCH NUMBER
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+15. INSTRUCTIONS ON USE
+
+16. INFORMATION IN BRAILLE
+
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
+
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUMPARTICULARSTOAPPEARONSMALLIMMEDIATEPACKAGINGUNITS   |
+|------------------------------------------------------------|
+| PRE-FILLEDPEN LABEL TEXT (90 mg)                           |
+
+| 1.   | NAMEOFTHEMEDICINALPRODUCTANDROUTE(S)OFADMINISTRATION   |
+|------|--------------------------------------------------------|
+
+Yesintek 90 mg solution for injection ustekinumab SC
+
+| 2.   | METHODOFADMINISTRATION   |
+|------|--------------------------|
+
+| 3.   | EXPIRYDATE   |
+|------|--------------|
+
+EXP
+
+| 4.   | BATCHNUMBER   |
+|------|---------------|
+
+Lot
+
+| 5.   | CONTENTSBYWEIGHT,BYVOLUMEORBYUNIT   |
+|------|-------------------------------------|
+
+90 mg/1 mL
+
+| 6.   | OTHER   |
+|------|---------|
+
 <div style=\"page-break-after: always\"></div>
 
 ## B. PACKAGE LEAFLET
 
 <div style=\"page-break-after: always\"></div>
 
+<!-- image -->
+
 ## Package leaflet: Information for the user
 
-## Yesintek 130 mg concentrate for solution for infusion Ustekinumab
+## Yesintek 130 mg concentrate for solution for infusion ustekinumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -2095,9 +3035,9 @@ Read all of this leaflet carefully before you start using this medicine because 
 
 ## This leaflet has been written for the person taking the medicine.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2133,11 +3073,11 @@ If you are not sure if any of the above applies to you, talk to your doctor or p
 
 ## Warnings and precautions
 
-Talk to your doctor or pharmacist before using Yesintek. Your doctor will check how well you are before treatment. Make sure you tell your doctor about any illness you have before treatment. Also tell
+Talk to your doctor or pharmacist before using Yesintek. Your doctor will check how well you are before treatment. Make sure you tell your doctor about any illness you have before treatment. Also
 
 <div style=\"page-break-after: always\"></div>
 
-your doctor if you have recently been near anyone who might have tuberculosis. Your doctor will examine you and do a test for tuberculosis, before you have Yesintek. If your doctor thinks you are at risk of tuberculosis, you may be given medicines to treat it.
+tell your doctor if you have recently been near anyone who might have tuberculosis. Your doctor will examine you and do a test for tuberculosis, before you have Yesintek. If your doctor thinks you are at risk of tuberculosis, you may be given medicines to treat it.
 
 ## Look out for serious side effects
 
@@ -2174,9 +3114,9 @@ Tell your doctor or pharmacist:
 - If you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Yesintek.
 - If you received Yesintek while pregnant, tell your baby's doctor about your Yesintek treatment before the baby receives any vaccine, including live vaccines, such as the BCG vaccine (used to prevent tuberculosis). Live vaccines are not recommended for your baby in the first twelve months after birth if you received Yesintek during the pregnancy unless your baby's doctor recommends otherwise.
 
-## Pregnancy and breast-feeding
-
 <div style=\"page-break-after: always\"></div>
+
+## Pregnancy and breast-feeding
 
 - If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.
 - A higher risk of birth defects has not been seen in babies exposed to Yesintek in the womb. However, there is limited experience with Yesintek in pregnant women. It is therefore preferable to avoid the use of Yesintek in pregnancy.
@@ -2197,7 +3137,7 @@ This medicine contains less than 1 mmol sodium (23 mg) per dose, that is to say 
 
 This medicine contains 10.4 mg of polysorbate 80 (E 433) in each 130 mg/26 mL vial which is equivalent to 0.4 mg/mL (0.6 mg/kg/day). Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
 
-## 3. How  Yesintek will be given
+## 3. How Yesintek will be given
 
 Yesintek is intended for use under the guidance and supervision of a doctor experienced in the diagnosis and treatment of Crohn's disease.
 
@@ -2210,6 +3150,7 @@ Your doctor will decide how much Yesintek you need to receive and for how long.
 ## Adults aged 18 years or older
 
 - The doctor will work out the recommended intravenous infusion dose for you based on your body weight.
+- After the starting intravenous dose, you will have the next dose of 90 mg Yesintek by an
 
 | Your body weight   | Dose   |
 |--------------------|--------|
@@ -2217,9 +3158,9 @@ Your doctor will decide how much Yesintek you need to receive and for how long.
 | > 55 kg to ≤ 85 kg | 390 mg |
 | > 85 kg            | 520 mg |
 
-After the starting intravenous dose, you will have the next dose of 90 mg Yesintek by an injection under your skin (subcutaneous injection) 8 weeks later, and then every 12 weeks thereafter.
-
 <div style=\"page-break-after: always\"></div>
+
+injection under your skin (subcutaneous injection) 8 weeks later, and then every 12 weeks thereafter.
 
 ## How Yesintek is given
 
@@ -2233,7 +3174,7 @@ If you forget or miss the appointment for receiving the dose, contact your docto
 
 ## If you stop using Yesintek
 
-It is not dangerous to stop using Yesintek. However, if you stop, your symptoms may come back.If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
+It is not dangerous to stop using Yesintek. However, if you stop, your symptoms may come back. If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
 ## 4. Possible side effects
 
@@ -2246,9 +3187,9 @@ Some patients may have serious side effects that may need urgent treatment.
 ## Allergic reactions - these may need urgent treatment. Tell your doctor or get emergency medical help straight away if you notice any of the following signs.
 
 - Serious allergic reactions ('anaphylaxis') are rare in people taking Yesintek (may affect up to 1 in 1 000 people). Signs include:
-- difficulty breathing or swallowing
-- low blood pressure, which can cause dizziness or light-headedness
-- swelling of the face, lips, mouth or throat.
+- o difficulty breathing or swallowing
+- o low blood pressure, which can cause dizziness or light-headedness
+- o swelling of the face, lips, mouth or throat.
 - Common signs of an allergic reaction include skin rash and hives (these may affect up to 1 in 100 people).
 
 Infusion-related reactions - If you are being treated for Crohn's disease, the first dose of Yesintek is given through a drip into a vein (intravenous infusion). Some patients have experienced serious allergic reactions during the infusion.
@@ -2264,9 +3205,11 @@ If you have a serious allergic reaction, your doctor may decide that you should 
 - Inflammation of tissue under the skin ('cellulitis') is uncommon (may affect up to 1 in 100 people)
 - Shingles (a type of painful rash with blisters) are uncommon (may affect up to 1 in 100 people)
 
-Yesintek may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic infections). Opportunistic infections of the brain (encephalitis, meningitis), lungs, and eye have been reported in patients receiving treatment with ustekinumab.
+Yesintek may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic infections).
 
 <div style=\"page-break-after: always\"></div>
+
+Opportunistic infections of the brain (encephalitis, meningitis), lungs, and eye have been reported in patients receiving treatment with ustekinumab.
 
 You must look out for signs of infection while you are using Yesintek. These include:
 
@@ -2284,7 +3227,7 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 
 ## Other side effects
 
-## Common side effects (may affect up to 1 in 10 people):
+Common side effects (may affect up to 1 in 10 people):
 
 - Diarrhoea
 - Nausea
@@ -2314,9 +3257,10 @@ Shedding of skin - increase in redness and shedding of skin over a larger area o
 ## Rare side effects (may affect up to 1 in 1 000 people)
 
 - Redness and shedding of skin over a larger area of the body, which may be itchy or painful (exfoliative dermatitis). Similar symptoms sometimes develop as a natural change in the type of psoriasis symptoms (erythrodermic psoriasis)
-- Inflammation of small blood vessels, which can lead to a skin rash with small red or purple bumps, fever or joint pain (vasculitis)
 
 <div style=\"page-break-after: always\"></div>
+
+- Inflammation of small blood vessels, which can lead to a skin rash with small red or purple bumps, fever or joint pain (vasculitis)
 
 ## Very rare side effects (may affect up to 1 in 10 000 people)
 
@@ -2360,11 +3304,15 @@ Yesintek is a clear, colourless to pale yellow concentrate for solution for infu
 
 ## Biosimilar Collaborations Ireland Limited
 
-Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
+Unit 35/36 Grange Parade,
+
+Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
 
 <div style=\"page-break-after: always\"></div>
 
-## Manufacturers Biosimilar Collaborations Ireland Limited
+## Manufacturers
+
+## Biosimilar Collaborations Ireland Limited
 
 Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
 
@@ -2396,7 +3344,11 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Ελλάδα
 
-Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε Τηλ.: 0080008250910
+Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε
+
+Τηλ.:
+
+0080008250910
 
 ## España
 
@@ -2411,8 +3363,6 @@ Biocon Biologics France S.A.S Tel: 0080008250910
 Biocon Biologics Germany GmbH Tel: 0080008250910
 
 ## Ireland
-
-Biosimilar Collaborations Ireland Limited Tel: 1800 777 794
 
 ## Lietuva
 
@@ -2456,9 +3406,11 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Slovenija
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited
 
 <div style=\"page-break-after: always\"></div>
+
+Tel: 1800 777 794
 
 ## Ísland
 
@@ -2474,11 +3426,7 @@ Tel: 0080008250910
 
 ## Κύπρος
 
-Biosimilar Collaborations Ireland Limited
-
-Τηλ:
-
-0080008250910
+Biosimilar Collaborations Ireland Limited Τηλ: 0080008250910
 
 ## Latvija
 
@@ -2486,17 +3434,21 @@ Biosimilar Collaborations Ireland Limited
 
 Tel: 0080008250910
 
-## This leaflet was last revised in .
+## This leaflet was last revised in
 
 ## Other sources of information
 
-Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
+Detailed information on this medicine is available on the European Medicines Agency web site:
+
+https://www.ema.europa.eu
+
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
 
 ## Slovenská republika
 
-Biocon Biologics Germany GmbH
-
-Tel: 0080008250910
+Biocon Biologics Germany GmbH Tel: 0080008250910
 
 ## Suomi/Finland
 
@@ -2540,9 +3492,7 @@ If necessary, the diluted infusion solution may be stored at room temperature. T
 
 ## Package leaflet: Information for the user
 
-## Yesintek 45 mg solution for injection
-
-Ustekinumab
+## Yesintek 45 mg solution for injection Ustekinumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -2550,10 +3500,10 @@ Read all of this leaflet carefully before you start using this medicine because 
 
 This leaflet has been written for the person taking the medicine. If you are the parent or caregiver who will give Yesintek to a child, please read this information carefully.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -2588,9 +3538,9 @@ Yesintek is used in adults with moderate to severe plaque psoriasis, who cannot 
 
 Yesintek is used in children and adolescents aged 6 years and older with moderate to severe plaque psoriasis who are unable to tolerate phototherapy or other systemic therapies or where these treatments did not work.
 
-## Psoriatic arthritis
-
 <div style=\"page-break-after: always\"></div>
+
+## Psoriatic arthritis
 
 Psoriatic arthritis is an inflammatory disease of the joints, usually accompanied by psoriasis. If you have active psoriatic arthritis you will first be given other medicines. If you do not respond well enough to these medicines, you may be given Yesintek to:
 
@@ -2608,7 +3558,8 @@ Crohn's disease is an inflammatory disease of the bowel. If you have Crohn's dis
 
 - If you are allergic to ustekinumab or any of the other ingredients of this medicine (listed in section 6).
 - If you have an active infection which your doctor thinks is important.
-- If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Yesintek.
+
+If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Yesintek.
 
 ## Warnings and precautions
 
@@ -2631,11 +3582,9 @@ Yesintek can cause serious side effects, including allergic reactions and infect
 
 If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Yesintek.
 
-Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised,
-
 <div style=\"page-break-after: always\"></div>
 
-scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
+Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
 
 ## Heart attack and strokes
 
@@ -2668,15 +3617,13 @@ Yesintek has no or negligible influence on the ability to drive and use machines
 
 ## Yesintek contains Polysorbate 80 (E 433)
 
-This  medicine  contains  0.02  mg  of  polysorbate  80  (E 433)  in  each  45mg/0.5mL  PFS/vial  which  is equivalent  to  0.02  mg/0.5  mL  (0.0003  mg/kg/day).  Polysorbates  may  cause  allergic  reactions.  Tell your doctor if you have or your child has any known allergies.
-
-## 3. How to use Yesintek
-
-Yesintek is intended for use under the guidance and supervision of a doctor experienced in treating
+This medicine contains 0.02 mg of polysorbate 80 (E 433) in each 45mg/0.5mL PFS/vial which is equivalent to 0.02 mg/0.5 mL (0.0003 mg/kg/day). Polysorbates may cause allergic reactions. Tell your doctor if you have or your child has any known allergies.
 
 <div style=\"page-break-after: always\"></div>
 
-conditions for which Yesintek is intended.
+## 3. How to use Yesintek
+
+Yesintek is intended for use under the guidance and supervision of a doctor experienced in treating conditions for which Yesintek is intended.
 
 Always use this medicine exactly as your doctor has told you. Check with your doctor if you are not sure. Talk to your doctor about when you will have your injections and follow-up appointments.
 
@@ -2684,7 +3631,9 @@ Always use this medicine exactly as your doctor has told you. Check with your do
 
 Your doctor will decide how much Yesintek you need to use and for how long.
 
-## Adults aged 18 years or older Psoriasis or Psoriatic Arthritis
+## Adults aged 18 years or older
+
+## Psoriasis or Psoriatic Arthritis
 
 - The recommended starting dose is 45 mg Yesintek. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
 - After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
@@ -2694,9 +3643,7 @@ Your doctor will decide how much Yesintek you need to use and for how long.
 - During treatment, the first dose of approximately 6 mg/kg Yesintek will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Yesintek after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
 - In some patients, after the first injection under the skin, 90 mg Yesintek may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
 
-## Children and adolescents aged 6 years or older
-
-## Psoriasis
+## Children and adolescents aged 6 years or older Psoriasis
 
 - The doctor will work out the right dose for you, including the amount (volume) of Yesintek to be injected to give the right dose. The right dose for you will depend on your body weight at the time each dose is given.
 - If you weigh less than 60 kg, the recommended dose is 0.75 mg of Yesintek per kg body weight.
@@ -2722,9 +3669,9 @@ If you forget a dose, contact your doctor or pharmacist. Do not take a double do
 
 ## If you stop using Yesintek
 
-It is not dangerous to stop using Yesintek. However, if you stop, your symptoms may come back. If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
-
 <div style=\"page-break-after: always\"></div>
+
+It is not dangerous to stop using Yesintek. However, if you stop, your symptoms may come back. If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
 ## 4. Possible side effects
 
@@ -2737,9 +3684,9 @@ Some patients may have serious side effects that may need urgent treatment.
 ## Allergic reactions - these may need urgent treatment. Tell your doctor or get emergency medical help straight away if you notice any of the following signs.
 
 - Serious allergic reactions ('anaphylaxis') are rare in people taking Yesintek (may affect up to 1 in 1 000 people). Signs include:
-- difficulty breathing or swallowing
-- low blood pressure, which can cause dizziness or light-headedness
-- swelling of the face, lips, mouth or throat.
+- o difficulty breathing or swallowing
+- o low blood pressure, which can cause dizziness or light-headedness
+- o swelling of the face, lips, mouth or throat.
 - Common signs of an allergic reaction include skin rash and hives (these may affect up to 1 in 100 people).
 
 In rare cases, allergic lung reactions and lung inflammation have been reported in patients who receive ustekinumab. Tell your doctor right away if you develop symptoms such as cough, shortness of breath, and fever.
@@ -2767,11 +3714,11 @@ You must look out for signs of infection while you are using Yesintek. These inc
 
 Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, skin infections, shingles or opportunistic infections that could have serious complications. Tell your doctor if you have any kind of infection that will not go away or keeps coming back. Your doctor may decide that you should not use Yesintek until the infection goes away. Also tell your doctor if you have any open cuts or sores as they might get infected.
 
+<div style=\"page-break-after: always\"></div>
+
 Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin conditions. You should tell your doctor straight away if you notice any of these signs.
 
 ## Other side effects
-
-<div style=\"page-break-after: always\"></div>
 
 ## Common side effects (may affect up to 1 in 10 people):
 
@@ -2817,13 +3764,14 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 ## 5. How to store Yesintek
 
 - Keep this medicine out of the sight and reach of children.
+
+<div style=\"page-break-after: always\"></div>
+
 - Store in a refrigerator (2 °C-8 °C). Do not freeze.
 - Keep the vial in the outer carton in order to protect from light.
 - Do not shake the Yesintek vials. Prolonged vigorous shaking may damage the medicine.
 
 ## Do not use this medicine:
-
-<div style=\"page-break-after: always\"></div>
 
 - After the expiry date which is stated on the label and the carton after 'EXP'. The expiry date refers to the last day of that month.
 - If the liquid is discoloured, cloudy or you can see other foreign particles floating in it (see section 6 'What Yesintek looks like and contents of the pack').
@@ -2850,29 +3798,25 @@ Yesintek is a clear, colorless to pale yellow solution for injection. It is supp
 
 Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
 
-## Manufacturers Biosimilar Collaborations Ireland Limited
+## Manufacturers
 
-Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
+Biosimilar Collaborations Ireland Limited Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-Biocon Biologics Belgium BV
+Biocon Biologics Belgium BV Tél/Tel: 0080008250910
 
-Tél/Tel: 0080008250910
+България
 
 ## Lietuva
 
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
-## България
+Luxembourg/Luxemburg
 
 Biosimilar Collaborations Ireland Limited Тел: 0080008250910
-
-## Luxembourg/Luxemburg
-
-Biocon Biologics France S.A.S Tél/Tel: 0080008250910 (Belgique/Belgien)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2928,11 +3872,7 @@ Biosimilar Collaborations Ireland Limited Τηλ: 0080008250910
 
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
-## This leaflet was last revised in .
-
-## Other sources of information
-
-Detailed information on this medicine is available on the European Medicines Agency web site:
+Biocon Biologics France S.A.S Tél/Tel: 0080008250910 (Belgique/Belgien)
 
 ## Magyarország
 
@@ -2974,9 +3914,7 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 Biocon Biologics Germany GmbH Tel: 0080008250910
 
-## Suomi/Finland
-
-## Biocon Biologics Finland OY
+## Suomi/Finland Biocon Biologics Finland OY
 
 Puh/Tel: 99980008250910
 
@@ -2986,7 +3924,9 @@ Biocon Biologics Finland OY Tel: 0080008250910
 
 <div style=\"page-break-after: always\"></div>
 
-## https://www.ema.europa.eu
+## This leaflet was last revised in Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3027,28 +3967,26 @@ Figure 1
 Choose an injection site (see Figure 2)
 
 - Yesintek is given by injection under the skin (subcutaneously)
+- Good places for the injection are the upper thigh or around the belly (abdomen) at least 5 cm away from the navel (belly button)
 
 <div style=\"page-break-after: always\"></div>
 
-- Good places for the injection are the upper thigh or around the belly (abdomen) at least 5 cm away from the navel (belly button)
 - If possible, do not use areas of skin that show signs of psoriasis
 - If someone will assist in giving you the injection, then he or she may also choose the upper arms as an injection site
 
-Figure 2
+Figure 2 *Areas in gray are recommended injection sites.
 
 <!-- image -->
 
-*Areas in gray are recommended injection sites Prepare the injection site
+## Prepare the injection site
 
 - Wash your hands very well with soap and warm water
 - Wipe the injection site on the skin with an antiseptic wipe
 - Do not touch this area again before giving the injection
-
-## 3. Prepare the dose:
-
+3. Prepare the dose:
 - Take the cap off the top of the vial (see Figure 3)
 - Do not remove the stopper
-- Clean the stopper with an antiseptic swab
+- lean the stopper with an antiseptic swab
 - Put the vial on a flat surface.
 - Pick up the syringe and remove the needle cover
 - Do not touch the needle or let the needle touch anything
@@ -3056,6 +3994,8 @@ Figure 2
 - Turn the vial and the syringe upside down
 - Pull on the syringe plunger to fill the syringe with the amount of liquid prescribed by your doctor
 - It is important that the needle is always in the liquid. This stops air bubbles forming in the syringe (see Figure 4)
+- Remove the needle from the vial
+- Hold the syringe with the needle pointing up to see if it has any air bubbles inside
 
 Figure 3
 
@@ -3067,9 +4007,9 @@ Figure 4
 
 <div style=\"page-break-after: always\"></div>
 
-- Remove the needle from the vial
-- Hold the syringe with the needle pointing up to see if it has any air bubbles inside
 - If there are air bubbles, tap the side gently until the air bubbles go to the top of the syringe (see Figure 5)
+- Then press the plunger until all of the air (but none of the liquid) has been removed
+- Do not lay the syringe down or allow the needle to touch anything.
 
 Figure 5
 
@@ -3077,6 +4017,7 @@ Figure 5
 
 ## 4. Inject the dose:
 
+- •
 - Gently pinch the cleaned skin between your thumb and index finger. Do not squeeze it tightly
 - Push the needle into the pinched skin
 - Push the plunger with your thumb as far as it will go to inject all of the liquid. Push it slowly and evenly, keeping the skin gently pinched
@@ -3100,17 +4041,17 @@ Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
 
 ## Marketed by:
 
-## Biosimilar Collaborations Ireland Limited
-
-Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
-
-Revised: MM/YY
-
-## Package leaflet: Information for the user
+Biosimilar Collaborations Ireland Limited Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
 
 <div style=\"page-break-after: always\"></div>
 
-## Yesintek 45 mg solution for injection in pre-filled syringe Ustekinumab
+<!-- image -->
+
+## Package leaflet: Information for the user
+
+## Yesintek 45 mg solution for injection in pre-filled syringe
+
+## ustekinumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -3118,10 +4059,10 @@ Read all of this leaflet carefully before you start using this medicine because 
 
 This leaflet has been written for the person taking the medicine. If you are the parent or caregiver who will give Yesintek to a child, please read this information carefully.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3132,9 +4073,7 @@ This leaflet has been written for the person taking the medicine. If you are the
 5. How to store Yesintek
 6. Contents of the pack and other information
 
-## 1. What Yesintek is and what it is used for
-
-## What Yesintek is
+## 1 What Yesintek is and what it is used for
 
 Yesintek contains the active substance 'ustekinumab', a monoclonal antibody. Monoclonal antibodies are proteins that recognise and bind specifically to certain proteins in the body
 
@@ -3291,7 +4230,7 @@ If you forget a dose, contact your doctor or pharmacist. Do not take a double do
 
 It is not dangerous to stop using Yesintek. However, if you stop, your symptoms may come back. If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
-## 4. Possible side effects
+## 4.   Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
@@ -3302,9 +4241,9 @@ Some patients may have serious side effects that may need urgent treatment.
 ## Allergic reactions - these may need urgent treatment. Tell your doctor or get emergency medical help straight away if you notice any of the following signs.
 
 - Serious allergic reactions ('anaphylaxis') are rare in people taking Yesintek (may affect up to 1 in 1 000 people). Signs include:
-- difficulty breathing or swallowing
-- low blood pressure, which can cause dizziness or light-headedness
-- swelling of the face, lips, mouth or throat.
+- o difficulty breathing or swallowing
+- o low blood pressure, which can cause dizziness or light-headedness
+- o swelling of the face, lips, mouth or throat.
 - Common signs of an allergic reaction include skin rash and hives (these may affect up to 1 in 100 people).
 
 In rare cases, allergic lung reactions and lung inflammation have been reported in patients who receive ustekinumab. Tell your doctor right away if you develop symptoms such as cough, shortness of breath, and fever.
@@ -3330,13 +4269,15 @@ You must look out for signs of infection while you are using Yesintek. These inc
 - visual disturbance or vision loss
 - headache, neck stiffness, light sensitivity, nausea or confusion.
 
-Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, skin infections, shingles or opportunistic infections that could have serious complications. Tell your doctor if you have any kind of infection that will not go away or keeps coming back. Your doctor may decide that you should not use Yesintek until the infection goes away. Also tell your doctor if you have any open cuts or sores as they might get infected.
-
-## Shedding of skin - increase in redness and shedding of skin over a larger area of the body may
+Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, skin infections, shingles or opportunistic infections that could have serious complications. Tell your doctor if you have any kind of infection that will not go away
 
 <div style=\"page-break-after: always\"></div>
 
-be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin conditions. You should tell your doctor straight away if you notice any of these signs. Other side effects
+or keeps coming back. Your doctor may decide that you should not use Yesintek until the infection goes away. Also tell your doctor if you have any open cuts or sores as they might get infected.
+
+Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin conditions. You should tell your doctor straight away if you notice any of these signs.
+
+## Other side effects
 
 ## Common side effects (may affect up to 1 in 10 people) :
 
@@ -3379,23 +4320,22 @@ be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are seri
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
-## 5. How to store Yesintek
+<div style=\"page-break-after: always\"></div>
+
+## 5.  How to store Yesintek
 
 - Keep this medicine out of the sight and reach of children.
 - Store in a refrigerator (2 °C - 8 °C). Do not freeze.
 - Keep the pre-filled syringe in the outer carton in order to protect from light.
-
-<div style=\"page-break-after: always\"></div>
-
 - If needed, individual Yesintek pre-filled syringes may also be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled syringe is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a syringe has been stored at room temperature (up to 30 °C), it should not be returned to the refrigerator. Discard the syringe if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
 - Do not shake Yesintek pre-filled syringes. Prolonged vigorous shaking may damage the medicine.
 
 ## Do not use this medicine:
 
 - After the expiry date which is stated on the label and the carton after 'EXP'. The expiry date refers to the last day of that month.
-- After discard date recorded on the carton once stored at room temperature ,i.e., more than 30 days at 30°C.
+- After discard date recorded on the carton once stored at room temperature,i.e., more than 30 days at 30°C.
 - If the liquid is discoloured, cloudy or you can see other foreign particles floating in it (see section 6 'What Yesintek looks like and contents of the pack').
-- If you know, or think that it may have been exposed to extreme temperatures (such as accidentally frozen or heated).
+- If you know or think that it may have been exposed to extreme temperatures (such as accidentally frozen or heated).
 - If the product has been shaken vigorously.
 
 Yesintek is for single use only. Any unused product remaining in the syringe should be thrown away. Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
@@ -3411,17 +4351,21 @@ Yesintek is for single use only. Any unused product remaining in the syringe sho
 
 Yesintek is a clear, colorless to pale yellow solution for injection. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled syringe. Each pre-filled syringe contains 45 mg ustekinumab in 0.5 mL of solution for injection.
 
-## Marketing Authorisation Holder Biosimilar Collaborations Ireland Limited
+## Marketing Authorisation Holder
 
-Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
+## Biosimilar Collaborations Ireland Limited
 
-## Manufacturers Biosimilar Collaborations Ireland Limited
+Unit 35/36 Grange Parade,
+
+Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
+
+Manufacturers Biosimilar Collaborations Ireland Limited
+
+<div style=\"page-break-after: always\"></div>
 
 Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
-
-<div style=\"page-break-after: always\"></div>
 
 ## België/Belgique/Belgien
 
@@ -3467,18 +4411,6 @@ Biocon Biologics Germany GmbH Tel: 0080008250910
 
 Biosimilar Collaborations Ireland Limited Tel: 1800 777 794
 
-## Ísland
-
-Biocon Biologics Finland OY Sími: +345 800 4316
-
-## Italia
-
-Biocon Biologics Spain S.L . Tel: 0080008250910
-
-## Κύπρος
-
-Biosimilar Collaborations Ireland Limited Τηλ: 0080008250910
-
 ## Lietuva
 
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
@@ -3523,19 +4455,39 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
+## Ísland
+
+Biocon Biologics Finland OY
+
+Sími: +345 800 4316
+
 ## Slovenská republika
 
-Biocon Biologics Germany GmbH Tel: 0080008250910
+Biocon Biologics Germany GmbH
 
-## Suomi/Finland
+Tel: 0080008250910
 
-Biocon Biologics Finland OY Puh/Tel: 99980008250910
+## Italia
+
+Biocon Biologics Spain S.L .
+
+Tel: 0080008250910
+
+Suomi/Finland
+
+Biocon Biologics Finland OY
+
+Puh/Tel: 99980008250910
+
+## Κύπρος
+
+Biosimilar Collaborations Ireland Limited Τηλ: 0080008250910
 
 ## Sverige
 
-Biocon Biologics Finland OY Tel: 0080008250910
+Biocon Biologics Finland OY
 
-<div style=\"page-break-after: always\"></div>
+Tel: 0080008250910
 
 ## Latvija
 
@@ -3543,7 +4495,9 @@ Biosimilar Collaborations Ireland Limited
 
 Tel: 0080008250910
 
-## This leaflet was last revised in.
+<div style=\"page-break-after: always\"></div>
+
+## This leaflet was last revised in
 
 ## Other sources of information
 
@@ -3566,7 +4520,7 @@ Talk to your doctor if you have any questions about giving yourself an injection
 - Do not mix Yesintek with other liquids for injection.
 - Do not shake Yesintek pre-filled syringes. This is because strong shaking may damage the medicine. Do not use the medicine if it has been shaken strongly.
 
-## 1. Check the number of pre-filled syringes and prepare the materials:
+## 1.Check the number of pre-filled syringes and prepare the materials:
 
 Preparing for use of the pre-filled syringe
 
@@ -3582,12 +4536,11 @@ Preparing for use of the pre-filled syringe
 - the pre-filled syringe is not damaged
 - the solution in the pre-filled syringe is clear, colourless to pale yellow
 - the solution on the pre-filled syringe is not discoloured or cloudy and does not contain any foreign particles.
-- the solution in the pre-filled syringe is not frozen.
-- Get everything together that you need and lay out on a well-lit clean and flat surface. This
 
 <div style=\"page-break-after: always\"></div>
 
-includes antiseptic wipes, cotton ball or gauze, and a sharps container
+- the solution in the pre-filled syringe is not frozen.
+- Get everything together that you need and lay out on a well-lit clean and flat surface. This includes antiseptic wipes, cotton ball or gauze, and a sharps container
 
 ## Storage information
 
@@ -3620,16 +4573,15 @@ Choose an injection site( see Figure 3)
 
 <!-- image -->
 
+Figure 2
+
+<div style=\"page-break-after: always\"></div>
+
 Prepare the injection site
 
 - Choose a well-lit, clean, flat work surface.
 - Wash your hands very well with soap and warm water
 - Wipe the injection site on the skin with an antiseptic wipe
-
-Figure 2
-
-<div style=\"page-break-after: always\"></div>
-
 - Do not touch this area again before giving the injection. Let your skin dry before injecting.
 - Remove prefilled syringe tray from carton
 - Open the tray by peeling away the cover. Hold the Needle safety guard (as shown in the Figure 4) to remove the prefilled syringe from the tray
@@ -3637,7 +4589,7 @@ Figure 2
 
 <!-- image -->
 
-## 3. 3. Remove the needle cover (see Figure 5):
+## 3. Remove the needle cover (see Figure 5):
 
 - The needle cover should not be removed until you are ready to inject the dose
 - Pick up the pre-filled syringe, hold the body of the syringe with one hand
@@ -3647,7 +4599,7 @@ Figure 2
 - Do not use the pre-filled syringe if it is dropped without the needle cover in place. If this happens, please contact your doctor or pharmacist
 - lnject the dose promptly after removing the needle cover.
 
-Figure5
+Figure 5
 
 <!-- image -->
 
@@ -3660,15 +4612,21 @@ Figure5
 
 <div style=\"page-break-after: always\"></div>
 
-## 5. 5. After the injection:
+## 5. After the injection:
+
+FIGURE6
 
 <!-- image -->
 
 Inject all of the medication by pushing in the plunger until the plunger head is completely between the needle guard wings (see Figure 7)
 
+FIGURE7
+
 <!-- image -->
 
 When the plunger is pushed as far as it will go, continue to keep the pressure on the plunger head, take out the needle and let go of the skin (see Figure 8)
+
+FIGURE8
 
 <!-- image -->
 
@@ -3683,7 +4641,7 @@ Slowly take your thumb off the plunger head to allow the empty syringe to move u
 - You can press a cotton ball or gauze over the injection site and hold for 10 seconds.
 - Do not rub the skin at the injection site. You may cover the injection site with a small adhesive bandage, if necessary.
 
-## 6. 6. Disposal:
+## 6. Disposal:
 
 - Used syringes should be placed in a puncture-resistant container, like a sharps container (see Figure 10). Never re-use a syringe, for your safety and health and for the safety of others. Dispose of your sharps container according to your local regulations.
 - Antiseptic wipes and other supplies can be disposed of in your garbage.
@@ -3700,13 +4658,15 @@ Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
 
 Biosimilar Collaborations Ireland Limited Unit 35/36, Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
 
-Revised: MM/YYYY
-
-## Package leaflet: Information for the user
+.
 
 <div style=\"page-break-after: always\"></div>
 
-## Yesintek 90 mg solution for injection in pre-filled syringe Ustekinumab
+<!-- image -->
+
+## Package leaflet: Information for the user
+
+## Yesintek 90 mg solution for injection in pre-filled syringe ustekinumab
 
 This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects.
 
@@ -3714,10 +4674,10 @@ Read all of this leaflet carefully before you start using this medicine because 
 
 This leaflet has been written for the person taking the medicine. If you are the parent or caregiver who will give Yesintek to a child, please read this information carefully.
 
-- -Keep this leaflet. You may need to read it again.
-- -If you have any further questions, ask your doctor or pharmacist.
-- -This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
-- -If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3752,9 +4712,9 @@ Yesintek is used in adults with moderate to severe plaque psoriasis, who cannot 
 
 Yesintek is used in children and adolescents aged 6 years and older with moderate to severe plaque psoriasis who are unable to tolerate phototherapy or other systemic therapies or where these treatments did not work.
 
-## Psoriatic arthritis
-
 <div style=\"page-break-after: always\"></div>
+
+## Psoriatic arthritis
 
 Psoriatic arthritis is an inflammatory disease of the joints, usually accompanied by psoriasis. If you have active psoriatic arthritis you will first be given other medicines. If you do not respond well enough to these medicines, you may be given Yesintek to:
 
@@ -3796,11 +4756,9 @@ Yesintek can cause serious side effects, including allergic reactions and infect
 
 If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Yesintek.
 
-Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised,
-
 <div style=\"page-break-after: always\"></div>
 
-scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
+Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
 
 ## Heart attack and strokes
 
@@ -3835,13 +4793,11 @@ Yesintek has no or negligible influence on the ability to drive and use machines
 
 This medicine contains 0.04 mg of polysorbate 80 (E 433) in each 90mg/1mL PFS which is equivalent to 0.04 mg/mL (0.0004 mg/kg/day). Polysorbates may cause allergic reactions. Tell your doctor if you have or your child has any known allergies.
 
-## 3. How to use Yesintek
-
-Yesintek is intended for use under the guidance and supervision of a doctor experienced in treating
-
 <div style=\"page-break-after: always\"></div>
 
-conditions for which Yesintek is intended.
+## 3. How to use Yesintek
+
+Yesintek is intended for use under the guidance and supervision of a doctor experienced in treating conditions for which Yesintek is intended.
 
 Always use this medicine exactly as your doctor has told you. Check with your doctor if you are not sure. Talk to your doctor about when you will have your injections and follow-up appointments.
 
@@ -3854,8 +4810,9 @@ Your doctor will decide how much Yesintek you need to use and for how long.
 - The recommended starting dose is 45 mg Yesintek. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
 - After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
 
-## Crohn's disease
+•
 
+- Crohn's disease
 - During treatment, the first dose of approximately 6 mg/kg Yesintek will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Yesintek after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
 - In some patients, after the first injection under the skin, 90 mg Yesintek may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
 
@@ -3888,9 +4845,9 @@ If you forget a dose, contact your doctor or pharmacist. Do not take a double do
 
 It is not dangerous to stop using Yesintek. However, if you stop, your symptoms may come back. If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
 
-## 4. Possible side effects
-
 <div style=\"page-break-after: always\"></div>
+
+## 4. Possible side effects
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
@@ -3901,12 +4858,12 @@ Some patients may have serious side effects that may need urgent treatment.
 ## Allergic reactions - these may need urgent treatment. Tell your doctor or get emergency medical help straight away if you notice any of the following signs.
 
 - Serious allergic reactions ('anaphylaxis') are rare in people taking Yesintek (may affect up to 1 in 1 000 people). Signs include:
-- difficulty breathing or swallowing
-- low blood pressure, which can cause dizziness or light-headedness
-- swelling of the face, lips, mouth or throat.
+- o difficulty breathing or swallowing
+- o low blood pressure, which can cause dizziness or light-headedness
+- o swelling of the face, lips, mouth or throat.
 - Common signs of an allergic reaction include skin rash and hives (these may affect up to 1 in 100 people).
 
-## In rare cases, allergic lung reactions and lung inflammation have been reported in patients who receive ustekinumab. Tell your doctor right away if you develop symptoms such as cough, shortness of breath, and fever.
+In rare cases, allergic lung reactions and lung inflammation have been reported in patients who receive ustekinumab. Tell your doctor right away if you develop symptoms such as cough, shortness of breath, and fever.
 
 If you have a serious allergic reaction, your doctor may decide that you should not use Yesintek again.
 
@@ -3933,11 +4890,11 @@ Tell your doctor straight away if you notice any of these signs of infection. Th
 
 Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin conditions. You should tell your doctor straight away if you notice any of these signs.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Other side effects
 
-Common side effects (may affect up to 1 in 10 people) :
-
-<div style=\"page-break-after: always\"></div>
+## Common side effects (may affect up to 1 in 10 people) :
 
 - Diarrhoea
 - Nausea
@@ -3983,11 +4940,11 @@ If you get any side effects, talk to your doctor or pharmacist. This includes an
 - Keep this medicine out of the sight and reach of children.
 - Store in a refrigerator (2 °C-8 °C). Do not freeze.
 - Keep the pre-filled syringe in the outer carton in order to protect from light.
-- If needed, individual Yesintek pre-filled syringes may also be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled syringe is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a syringe has been stored at room temperature
+- If needed, individual Yesintek pre-filled syringes may also be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect
 
 <div style=\"page-break-after: always\"></div>
 
-(up to 30°C), it should not be returned to the refrigerator. Discard the syringe if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
+from light. Record the date when the pre-filled syringe is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a syringe has been stored at room temperature (up to 30°C), it should not be returned to the refrigerator. Discard the syringe if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
 
 - Do not shake Yesintek pre-filled syringes. Prolonged vigorous shaking may damage the medicine.
 
@@ -4014,7 +4971,11 @@ Yesintekis a clear, colorless to pale yellow solution for injection. It is suppl
 
 ## Marketing Authorisation Holder Biosimilar Collaborations Ireland Limited
 
-Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
+Unit 35/36 Grange Parade,
+
+Baldoyle Industrial Estate, Dublin 13, DUBLIN
+
+Ireland, D13 R20R
 
 ## Manufacturers Biosimilar Collaborations Ireland Limited
 
@@ -4050,9 +5011,7 @@ Biosimilar Collaborations Ireland Limited Tel: 0080008250910
 
 ## Ελλάδα
 
-Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε
-
-Τηλ.: 0080008250910
+Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ Ι.Κ.Ε Τηλ.: 0080008250910
 
 ## España
 
@@ -4148,9 +5107,11 @@ Biocon Biologics Finland OY
 
 ## Latvija
 
-Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+Biosimilar Collaborations Ireland Limited
 
-This leaflet was last revised in.
+Tel: 0080008250910
+
+## This leaflet was last revised in
 
 ## Other sources of information
 
@@ -4172,18 +5133,16 @@ Talk to your doctor if you have any questions about giving yourself an injection
 
 - Do not mix Yesintek with other liquids for injection
 - Do not shake Yesintek pre-filled syringes. This is because strong shaking may damage the medicine. Do not use the medicine if it has been shaken strongly
-
-## 1. Check the number of pre-filled syringes and prepare the materials:
-
-Preparing for use of the pre-filled syringe
-
+- 1.Check the number of pre-filled syringes and prepare the materials:
+- Preparing for use of the pre-filled syringe
 - Take the pre-filled syringe(s) out of the refrigerator. Let the pre-filled syringe stand outside the box for about half an hour. This will let the liquid come to a comfortable temperature for injection (room temperature). Do not remove the syringe's needle cover while allowing it to reach room temperature
 - Hold the pre-filled syringe by the body of the syringe with the covered needle pointing upward
 - Do not hold by the plunger head, plunger, needle guard wings, or needle cover
 - Do not pull back on the plunger at anytime
 - Do not attempt to remove the needle safety guard from the pre-filled syringe
 - Do not remove the needle cover from the pre-filled syringe until instructed to do so
-- Check the pre-filled syringe(s) to make sure the number of pre-filled syringes and strength is correct If your dose is 90 mg you will get one 90 mg pre-filled syringe of Yesintek
+- Check the pre-filled syringe(s) to make sure the number of pre-filled syringes and strength is correct
+- If your dose is 90 mg you will get one 90 mg pre-filled syringe of Yesintek
 - it is the right medicine
 - it has not passed its expiry date
 - the pre-filled syringe is not damaged
@@ -4192,9 +5151,9 @@ Preparing for use of the pre-filled syringe
 - the solution in the pre-filled syringe is not frozen.
 - Get everything together that you need and lay out on a well-lit clean and flat surface. This includes antiseptic wipes, cotton ball or gauze, and a sharps container
 
-## Storage information
-
 <div style=\"page-break-after: always\"></div>
+
+## Storage information
 
 Prefilled syringes must be refrigerated at 2 °C to 8 °C (36 °F to 46 °F) in the original carton to protect from light until the time of use.
 
@@ -4214,7 +5173,7 @@ Get everything together that you need and lay out on a well-lit, clean, and flat
 
 <!-- image -->
 
-## · Choose and prepare the injection site:
+## 2. Choose and prepare the injection site:
 
 Choose an injection site (see Figure 3)
 
@@ -4223,32 +5182,22 @@ Choose an injection site (see Figure 3)
 - If possible, do not use areas of skin that show signs of psoriasis.
 - If someone will assist in giving you the injection, then he or she may also choose the upper arms as an injection site
 
-Figure 3
-
 <!-- image -->
 
-*Areas in blue are recommended injection sites.
-
-## Prepare the injection site
+Prepare the injection site
 
 - Wash your hands very well with soap and warm water. Do not touch face or hair after washing hands.
 - Wipe the injection site on the skin with an antiseptic wipe
 - Do not touch this area again before giving the injection.
-- Remove prefilled syringe tray from carton
-- Open the tray by peeling away the cover. Hold the Needle safety guard (as shown in the Figure 4) to
 
 Figure 2
 
 <div style=\"page-break-after: always\"></div>
 
-## remove the prefilled syringe from the tray
-
-<!-- image -->
-
+- Remove prefilled syringe tray from carton
+- Open the tray by peeling away the cover. Hold the Needle safety guard (as shown in the Figure 4) to remove the prefilled syringe from the tray
 - Hold the prefilled syringe with the covered needle pointing upward.
-
-## 2. Remove the needle cover (see Figure 5):
-
+3. Remove the needle cover (see Figure 5):
 - The needle cover should not be removed until you are ready to inject the dose
 - Pick up the pre-filled syringe, hold the body of the syringe with one hand
 - Pull the needle cover straight off and throw it away. Do not touch the plunger while you do this
@@ -4257,27 +5206,38 @@ Figure 2
 - Do not use the pre-filled syringe if it is dropped without the needle cover in place. If this happens, please contact your doctor or pharmacist
 - lnject the dose promptly after removing the needle cover.
 
+<!-- image -->
+
 Figure5
 
 <!-- image -->
 
-## 3. lnject the dose
+## 4. lnject the dose
 
 - Hold the pre-filled syringe with one hand between the middle and index fingers and place the thumb on top of the plunger head and use the other hand to gently pinch the cleaned skin between your thumb and index finger. Do not squeeze it tightly
 - Do not pull back on the plunger at anytime
 - In a single and swift motion, insert the needle through the skin as far as it will go (see Figure 6)
 
+<div style=\"page-break-after: always\"></div>
+
+## 5. After the injection:
+
+- Press an antiseptic wipe over the injection site for a few seconds after the injection.
+- There may be a small amount of blood or liquid at the injection site. This is normal.
+
 FIGURE6
 
 <!-- image -->
 
-<div style=\"page-break-after: always\"></div>
-
 Inject all of the medication by pushing in the plunger until the plunger head is completely between the needle guard wings (see Figure 7)
+
+FIGURE7
 
 <!-- image -->
 
 When the plunger is pushed as far as it will go, continue to keep the pressure on the plunger head, take out the needle and let go of the skin (see Figure 8)
+
+FIGURE8
 
 <!-- image -->
 
@@ -4285,19 +5245,14 @@ Slowly take your thumb off the plunger head to allow the empty syringe to move u
 
 <!-- image -->
 
-## 4. After the injection:
+<div style=\"page-break-after: always\"></div>
 
-- Press an antiseptic wipe over the injection site for a few seconds after the injection.
-- There may be a small amount of blood or liquid at the injection site. This is normal.
 - You can press a cotton ball or gauze over the injection site and hold for 10 seconds.
 - Do not rub the skin at the injection site. You may cover the injection site with a small adhesive bandage, if necessary.
 
-## 5. Disposal:
+## 6. Disposal:
 
 - Used syringes should be placed in a puncture-resistant container, like a sharps container (see Figure 10). Never re-use a syringe, for your safety and health and for the safety of others. Dispose of your sharps container according to your local regulations.
-
-<div style=\"page-break-after: always\"></div>
-
 - Antiseptic wipes and other supplies can be disposed of in your garbage.
 
 FIGURE10
@@ -4308,10 +5263,1498 @@ FIGURE10
 
 Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
 
-## Marketed by:
+## Marketed by: Biosimilar Collaborations Ireland Limited
 
-## Biosimilar Collaborations Ireland Limited
+Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN
+
+Ireland, D13 R20R
+
+## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
+
+## Yesintek 45 mg solution for injection in pre-filled pen
+
+## ustekinumab
+
+▼ This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects
+
+## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
+
+## This leaflet has been written for the person taking the medicine.
+
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Yesintek is and what it is used for
+2. What you need to know before you use Yesintek
+3. How to use Yesintek
+4. Possible side effects
+5. How to store Yesintek
+6. Contents of the pack and other information
+
+## 1. What Yesintek is and what it is used for
+
+## What Yesintek is
+
+Yesintek contains the active substance 'ustekinumab', a monoclonal antibody. Monoclonal antibodies are proteins that recognise and bind specifically to certain proteins in the body.
+
+Yesintek belongs to a group of medicines called 'immunosuppressants'. These medicines work by weakening part of the immune system.
+
+## What Yesintek is used for
+
+Yesintek is used to treat the following inflammatory diseases:
+
+- Plaque psoriasis - in adults
+- Psoriatic arthritis - in adults
+- Moderate to severe Crohn's disease - in adults
+
+## Plaque psoriasis
+
+Plaque psoriasis is a skin condition that causes inflammation affecting the skin and nails. Yesintek will reduce the inflammation and other signs of the disease.
+
+Yesintek is used in adults with moderate to severe plaque psoriasis, who cannot use ciclosporin, methotrexate or phototherapy, or where these treatments did not work.
+
+## Psoriatic arthritis
+
+Psoriatic arthritis is an inflammatory disease of the joints, usually accompanied by psoriasis. If you have active psoriatic arthritis you will first be given other medicines. If you do not respond well enough to these medicines, you may be given Yesintek to:
+
+- Reduce the signs and symptoms of your disease.
+
+<div style=\"page-break-after: always\"></div>
+
+- Improve your physical function.
+- Slow down the damage to your joints.
+
+## Crohn's disease
+
+Crohn's disease is an inflammatory disease of the bowel. If you have Crohn's disease you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Yesintek to reduce the signs and symptoms of your disease.
+
+## 2. What you need to know before you use Yesintek
+
+## Do not use Yesintek
+
+- If you are allergic to ustekinumab or any of the other ingredients of this medicine (listed in section 6).
+- If you have an active infection which your doctor thinks is important.
+- If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Yesintek.
+
+## Warnings and precautions
+
+Talk to your doctor or pharmacist before using Yesintek. Your doctor will check how well you are before each treatment. Make sure you tell your doctor about any illness you have before each treatment. Also tell your doctor if you have recently been near anyone who might have tuberculosis. Your doctor will examine you and do a test for tuberculosis, before you have Yesintek. If your doctor thinks you are at risk of tuberculosis, you may be given medicines to treat it.
+
+## Look out for serious side effects
+
+Yesintek can cause serious side effects, including allergic reactions and infections. You must look out for certain signs of illness while you are taking Yesintek. See 'Serious side effects' in section 4 for a full list of these side effects.
+
+## Before you use Yesintek tell your doctor:
+
+- If you ever had an allergic reaction to Yesintek. Ask your doctor if you are not sure.
+- If you have ever had any type of cancer - this is because immunosuppressants like Yesintek weaken part of the immune system. This may increase the risk of cancer.
+- If you have been treated for psoriasis with other biologic medicines (a medicine produced from a biological source and usually given by injection) - the risk of cancer may be higher.
+- If you have or have had a recent infection.
+- If you have any new or changing lesions within psoriasis areas or on normal skin.
+- If you are having any other treatment for psoriasis and/or psoriatic arthritis - such as another immunosuppressant or phototherapy (when your body is treated with a type of ultraviolet (UV) light). These treatments may also weaken part of the immune system. Using these therapies together with Yesintek has not been studied. However, it is possible it may increase the chance of diseases related to a weaker immune system.
+- If you are having or have ever had injections to treat allergies - it is not known if Yesintek may affect these.
+- If you are 65 years of age or over - you may be more likely to get infections.
+
+If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Yesintek.
+
+Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
+
+## Heart attack and strokes
+
+<div style=\"page-break-after: always\"></div>
+
+Heart attack and strokes have been observed in a study in patients with psoriasis treated with ustekinumab. Your doctor will regularly check your risk factors for heart disease and stroke in order to ensure that they are appropriately treated. Seek medical attention right away if you develop chest pain, weakness or abnormal sensation on one side of your body, facial droop, or speech or visual abnormalities.
+
+## Children and adolescents
+
+The Yesintek pre-filled pen is not recommended for use in children and adolescents under 18 years of age with psoriasis because it has not been studied in this age group. The pre-filled syringe or vial should be used instead for children 6 years of age and older and adolescents with psoriasis.
+
+Yesintek is not recommended for use in children and adolescents under 18 years of age with psoriatic arthritis or Crohn's disease because it has not been studied in this age group.
+
+## Other medicines, vaccines and Yesintek
+
+Tell your doctor or pharmacist:
+
+- If you are taking, have recently taken or might take any other medicines.
+- If you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Yesintek.
+- If you received Yesintek while pregnant, tell your baby's doctor about your Yesintek treatment before the baby receives any vaccine, including live vaccines, such as the BCG vaccine (used to prevent tuberculosis). Live vaccines are not recommended for your baby in the first twelve months after birth if you received Yesintek during the pregnancy unless your baby's doctor recommends otherwise.
+
+## Pregnancy and breast-feeding
+
+- If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.
+- A higher risk of birth defects has not been seen in babies exposed to Yesintek in the womb. However, there is limited experience with Yesintek in pregnant women. It is therefore preferable to avoid the use of Yesintek in pregnancy.
+- If you are a woman of childbearing potential, you are advised to avoid becoming pregnant and must use adequate contraception while using Yesintek and for at least 15 weeks after the last Yesintek treatment.
+- Yesintek can pass across the placenta to the unborn baby. If you received Yesintek during your pregnancy, your baby may have a higher risk for getting an infection.
+- It is important that you tell your baby's doctors and other health care professionals if you received Yesintek during your pregnancy before the baby receives any vaccine. Live vaccines such as the BCG vaccine (used to prevent tuberculosis) are not recommended for your baby in the first twelve months after birth if you received Yesintek during the pregnancy unless your baby's doctor recommends otherwise.
+- Ustekinumab may pass into breast milk in very small amounts. Talk to your doctor if you are breast-feeding or are planning to breast-feed. You and your doctor should decide if you should breast-feed or use Yesintek - do not do both.
+
+## Driving and using machines
+
+Yesintek has no or negligible influence on the ability to drive and use machines.
+
+## Yesintek contains Polysorbate 80 (E 433)
+
+This medicine contains 0.02 mg of polysorbate 80 (E 433) in each 45 mg/0.5 mL pre-filled pen which is equivalent to 0.02 mg/0.5 mL (0.0003 mg/kg/day). Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies
+
+## 3. How to use Yesintek
+
+Yesintek is intended for use under the guidance and supervision of a doctor experienced in treating
+
+<div style=\"page-break-after: always\"></div>
+
+conditions for which Yesintek is intended.
+
+Always use this medicine exactly as your doctor has told you. Check with your doctor if you are not sure. Talk to your doctor about when you will have your injections and follow-up appointments.
+
+## How much Yesintek is given
+
+Your doctor will decide how much Yesintek you need to use and for how long.
+
+## Adults aged 18 years or older Psoriasis or Psoriatic Arthritis
+
+- The recommended starting dose is 45 mg Yesintek. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
+- After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
+- Crohn's disease
+- During treatment, the first dose of approximately 6 mg/kg Yesintek will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Yesintek after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
+- In some patients, after the first injection under the skin, 90 mg Yesintek may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
+
+## How Yesintek is given
+
+- Yesintek is given as an injection under the skin ('subcutaneously'). At the start of your treatment, medical or nursing staff may inject Yesintek.
+- However, you and your doctor may decide that you may inject Yesintek yourself. In this case you will get training on how to inject Yesintek yourself.
+- For instructions on how to inject Yesintek, see 'Instructions for use' at the end of this leaflet.
+- Talk to your doctor if you have any questions about giving yourself an injection.
+
+## If you use more Yesintek than you should
+
+If you have used or been given too much Yesintek, talk to a doctor or pharmacist straight away. Always have the outer carton of the medicine with you, even if it is empty.
+
+## If you forget to use Yesintek
+
+If you forget a dose, contact your doctor or pharmacist. Do not take a double dose to make up for a forgotten dose.
+
+## If you stop using Yesintek
+
+It is not dangerous to stop using Yesintek. However, if you stop, your symptoms may come back. If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+## Serious side effects
+
+Some patients may have serious side effects that may need urgent treatment.
+
+## Allergic reactions - these may need urgent treatment. Tell your doctor or get emergency medical help straight away if you notice any of the following signs.
+
+- Serious allergic reactions ('anaphylaxis') are rare in people taking ustekinumab (may affect up to 1 in 1000 people). Signs include:
+- difficulty breathing or swallowing
+- low blood pressure, which can cause dizziness or light-headedness
+- swelling of the face, lips, mouth or throat.
+
+<div style=\"page-break-after: always\"></div>
+
+- Common signs of an allergic reaction include skin rash and hives (these may affect up to 1 in 100 people).
+
+In rare cases, allergic lung reactions and lung inflammation have been reported in patients who receive ustekinumab. Tell your doctor right away if you develop symptoms such as cough, shortness of breath, and fever.
+
+If you have a serious allergic reaction, your doctor may decide that you should not use Yesintek again.
+
+## Infections - these may need urgent treatment. Tell your doctor straight away if you notice any of the following signs.
+
+- Infections of the nose or throat and common cold are common (may affect up to 1 in 10 people)
+- Infections of the chest are uncommon (may affect up to 1 in 100 people)
+- Inflammation of tissue under the skin ('cellulitis') is uncommon (may affect up to 1 in 100 people)
+- Shingles (a type of painful rash with blisters) are uncommon (may affect up to 1 in 100 people)
+
+Yesintek may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic infections). Opportunistic infections of the brain (encephalitis, meningitis), lungs, and eye have been reported in patients receiving treatment with ustekinumab.
+
+You must look out for signs of infection while you are using Yesintek. These include:
+
+- fever, flu-like symptoms, night sweats, weight loss
+- feeling tired or short of breath; cough which will not go away
+- warm, red and painful skin, or a painful skin rash with blisters
+- burning when passing water
+- diarrhoea
+- visual disturbance or vision loss
+- headache, neck stiffness, light sensitivity, nausea or confusion.
+
+Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, or skin infections or shingles or opportunistic infections that could have serious complications. Tell your doctor if you have any kind of infection that will not go away or keeps coming back. Your doctor may decide that you should not use Yesintek until the infection goes away. Also tell your doctor if you have any open cuts or sores as they might get infected.
+
+Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin conditions. You should tell your doctor straight away if you notice any of these signs.
+
+## Other side effects
+
+## Common side effects (may affect up to 1 in 10 people) :
+
+- Diarrhoea
+- Nausea
+- Vomiting
+- Feeling tired
+- Feeling dizzy
+- Headache
+- Itching ('pruritus')
+- Back, muscle or joint pain
+- Sore throat
+- Redness and pain where the injection is given
+- Sinus infection
+
+<div style=\"page-break-after: always\"></div>
+
+## Uncommon side effects (may affect up to 1 in 100 people) :
+
+- Tooth infections
+- Vaginal yeast infection
+- Depression
+- Blocked or stuffy nose
+- Bleeding, bruising, hardness, swelling and itching where the injection is given
+- Feeling weak
+- Drooping eyelid and sagging muscles on one side of the face ('facial palsy' or 'Bell's palsy'), which is usually temporary
+- A change in psoriasis with redness and new tiny, yellow or white skin blisters, sometimes accompanied by fever (pustular psoriasis)
+- Peeling of the skin (skin exfoliation)
+- Acne
+- Rare side effects (may affect up to 1 in 1 000 people):
+- Redness and shedding of skin over a larger area of the body, which may be itchy or painful (exfoliative dermatitis). Similar symptoms sometimes develop as a natural change in the type of psoriasis symptoms (erythrodermic psoriasis)
+- Inflammation of small blood vessels, which can lead to a skin rash with small red or purple bumps, fever or joint pain (vasculitis)
+
+## Very rare side effects (may affect up to 1 in 10 000 people) :
+
+- Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid).
+- Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains).
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Yesintek
+
+- Keep this medicine out of the sight and reach of children.
+- Store in a refrigerator (2°C-8°C). Do not freeze.
+- Keep the pre-filled pen in the outer carton in order to protect from light.
+- If needed, individual Yesintek pre-filled pens may also be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled pen is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the original expiry date printed on the carton. Once a pre-filled pen has been stored at room temperature (up to 30°C), it should not be returned to the refrigerator. Discard the pre-filled pen if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
+- Do not shake Yesintek pre-filled pens. Prolonged vigorous shaking may damage the medicine.
+
+## Do not use this medicine:
+
+- After the expiry date which is stated on the label and the carton after 'EXP'. The expiry date refers to the last day of that month.
+- If the liquid is discoloured, cloudy or you can see other foreign particles floating in it (see section 6 'What Yesintek looks like and contents of the pack').
+- If you know, or think that it may have been exposed to extreme temperatures (such as accidentally frozen or heated).
+- If the product has been shaken vigorously.
+- Yesintek is for single use only. Any unused product remaining in the pre-filled pen should be thrown away. Do not throw away any medicines via wastewater or household waste. Ask your
+
+<div style=\"page-break-after: always\"></div>
+
+pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Yesintek contains
+
+- The active substance is ustekinumab. Each pre-filled pen contains 45 mg ustekinumab in 0.5 mL.
+- The other ingredients are L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80 (E 433), sucrose, sodium hydroxide (for pH adjustment), hydrochloric acid (for pH adjustment) and water for injections.
+
+## What Yesintek looks like and contents of the pack
+
+Yesintek is a clear, colorless to pale yellow solution for injection. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled pen. Each pre-filled pen contains 45 mg ustekinumab in 0.5 mL of solution for injection.
+
+## Marketing Authorisation Holder Biosimilar Collaborations Ireland Limited
 
 Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
 
-Revised: MM/YY
+## Manufacturers
+
+## Biosimilar Collaborations Ireland Limited
+
+Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8
+
+Ireland
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+Biocon Biologics Belgium BV Tél/Tel: 0080008250910
+
+## България
+
+Biosimilar Collaborations Ireland Limited Тел: 0080008250910
+
+## Česká republika
+
+Biocon Biologics Germany GmbH
+
+Tel: 0080008250910
+
+## Danmark
+
+Biocon Biologics Finland OY Tlf: 0080008250910
+
+## Deutschland
+
+Biocon Biologics Germany GmbH
+
+Tel: 0080008250910
+
+## Eesti
+
+## Lietuva
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## Luxembourg/Luxemburg
+
+Biocon Biologics France S.A.S Tél/Tel: 0080008250910 (Belgique/Belgien)
+
+## Magyarország
+
+Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
+
+## Malta
+
+Biosimilar Collaborations Ireland Limited
+
+Tel.: 0080008250910
+
+## Nederland
+
+Biocon Biologics France S.A.S Tel: 0080008250910
+
+## Norge
+
+<div style=\"page-break-after: always\"></div>
+
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
+
+## Ελλάδα
+
+Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ
+
+Ι.Κ.Ε
+
+Τηλ.:
+
+0080008250910
+
+## España
+
+Biocon Biologics Spain S.L.
+
+Tel: 0080008250910
+
+## France
+
+Biocon Biologics France S.A.S
+
+Tel: 0080008250910
+
+## Hrvatska
+
+Biocon Biologics Germany GmbH
+
+Tel: 0080008250910
+
+## Ireland
+
+Biosimilar Collaborations Ireland Limited
+
+Tel: 1800 777 794
+
+## Ísland
+
+Biocon Biologics Finland OY
+
+Sími: +345 800 4316
+
+## Italia
+
+Biocon Biologics Spain S.L .
+
+Tel: 0080008250910
+
+## Κύπρος
+
+Biosimilar Collaborations Ireland Limited
+
+Τηλ:
+
+0080008250910
+
+## Latvija
+
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
+
+## This leaflet was last revised in
+
+## Other sources of information
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+Biocon Biologics Finland OY
+
+Tlf: +47 800 62 671
+
+## Österreich
+
+Biocon Biologics Germany GmbH
+
+Tel: 0080008250910
+
+## Polska
+
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
+
+## Portugal
+
+Biocon Biologics Spain S.L.
+
+Tel: 0080008250910
+
+## România
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## Slovenija
+
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
+
+## Slovenská republika
+
+Biocon Biologics Germany GmbH
+
+Tel: 0080008250910
+
+## Suomi/Finland Biocon Biologics Finland OY
+
+Puh/Tel: 99980008250910
+
+## Sverige
+
+Biocon Biologics Finland OY
+
+Tel: 0080008250910
+
+<div style=\"page-break-after: always\"></div>
+
+## Instructions for use
+
+## Yesintek (ustekinumab) injection, for subcutaneous use Pre-filled pen
+
+Read this Instructions for Use each time you use the Yesintek pre-filled pen. There may be new information. This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
+
+## Important Information You Need to Know Before Injecting Yesintek
+
+- Yesintek is a prescription medicine that is injected under the skin (subcutaneous) from a singledose pre-filled pen.
+- Do not reuse the Yesintek pre-filled pen. Always use a new Yesintek pre-filled pen for each injection.
+- Your healthcare provider may decide that a caregiver can give you the injections at home. You and your caregiver should receive training on the right way to prepare and inject Yesintek before using it for the first time.
+- Do not inject yourself or someone else until your healthcare provider has shown you how to inject Yesintek the right way.
+- Do not use the Yesintek pre-filled pen if it is expired or damaged.
+- If your dose is 45 mg, you will receive one 45 mg pre-filled pen.
+- If your dose is 90 mg, you will receive two 45 mg pre-filled pens. If you receive two 45 mg prefilled pens for a 90 mg dose, you will need to give yourself two injections, one right after the other.
+
+## Storage Information
+
+- Store the Yesintek pre-filled pen in the refrigerator between 36°F to 46°F (2°C to 8°C).
+- Keep the Yesintek pre-filled pen in the original carton to protect it from light before use.
+- If needed, the Yesintek pre-filled pen can be stored at room temperature between 68°F to 77°F (20°C to 25°C) for up to 30 days.
+- Do not use the Yesintek pre-filled pen if it has been left out at room temperature for more than 30 days.   Throw away (dispose of) the Yesintek pre-filled pen into a sharps disposal container. Refer to Step 15 for more information.
+- Do not freeze the Yesintek pre-filled pen.
+- Do not shake the Yesintek pre-filled pen.
+- Keep Yesintek and all medicines out of the reach of children.
+
+## Yesintek Pre-filled pen Parts
+
+<!-- image -->
+
+Figure A
+
+## Preparing Yesintek for Injection
+
+## 1. Take out 1 Yesintek pre-filled pen
+
+<div style=\"page-break-after: always\"></div>
+
+Remove the Yesintek pre-filled pen from the carton and set it down on a clean, flat surface (see Figure B).
+
+Do not use the Yesintek pre-filled pen if the carton looks damaged or if tamper evident seal is broken.
+
+Figure B
+
+<!-- image -->
+
+## 2. Check the Yesintek pre-filled pen
+
+- Check the Yesintek pre-filled pen for damage (see Figure C).
+
+Do not use the Yesintek pre-filled pen if it is damaged.
+
+Figure C
+
+<!-- image -->
+
+## 3. Check the expiration date
+
+- Check the expiration date printed on the Yesintek pre-filled pen label (see Figure D).
+
+<div style=\"page-break-after: always\"></div>
+
+Do not use the Yesintek pre-filled pen if it is expired.
+
+Figure D
+
+<!-- image -->
+
+## 4. Allow the Yesintek pre-filled pen to Warm to Room Temperature
+
+- If the Yesintek pre-filled pen was stored in the refrigerator, let it sit for about 30 minutes to allow it to reach room temperature. Injecting cold medicine can be painful (see Figure E).
+
+Do not warm any other way. For example, do not warm it in a microwave, or hot water, or near other heat sources.
+
+Do not remove the cap until you are ready to inject.
+
+Figure E
+
+<!-- image -->
+
+## 5. Gather the supplies
+
+- Gather the following additional supplies not included in the carton:
+
+1 Alcohol Wipe (See Figure F)
+
+<div style=\"page-break-after: always\"></div>
+
+- 1 Adhesive Bandage (See Figure I)
+
+Figure F
+
+<!-- image -->
+
+1 Sharp Disposal Container (See Figure G). See Step 15 for instructions on how to throw away (dispose of) the used Yesintek pre-filled pen.
+
+Figure G
+
+<!-- image -->
+
+1 Gauze Pad or Cotton Ball (See Figure H)
+
+Figure H
+
+<!-- image -->
+
+Figure I
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## 6. Check the medicine
+
+After the Yesintek pre-filled pen warms to room temperature, check the medicine in the viewing window (see Figure J). The medicine should look clear and colorless to pale yellow. It is normal to see small air bubbles.
+
+Do not use if the medicine is cloudy, discolored, or has large particles.
+
+Figure J
+
+<!-- image -->
+
+## 7. Choose the injection site
+
+The front of the thigh (Recommended), or
+
+- The stomach area (abdomen), at least 5 cm away from the belly button.
+- If your caregiver is giving you the injection, you may also use the outer area of the upper arms (see Figure K):
+
+Do not inject into skin that is tender, bruised, red, scaly or hard.
+
+Do not inject into areas with scars or stretch marks.
+
+Always rotate (change) injection sites between injections. Your injection site should be at least 5 cm away from your last injection site.
+
+Figure K
+
+<!-- image -->
+
+## 8. Wash Hands and Clean the Injection Site
+
+<div style=\"page-break-after: always\"></div>
+
+Wash your hands well with soap and water (see Figure L).
+
+Figure L
+
+<!-- image -->
+
+Clean the chosen injection site with an alcohol wipe (see Figure M). Then let it air dry.
+
+Do not touch, fan or blow on the injection site after you have cleaned it.
+
+Figure M
+
+<!-- image -->
+
+## Injecting Yesintek
+
+## 9. Remove the Yesintek pre-filled pen cap and throw it away
+
+- While holding the body of the Yesintek pre-filled pen with one hand, use the other hand to pull the cap straight off (see Figure N).
+- Throw away (dispose of) the cap into the household trash.
+
+Do not put the cap back on, this may damage the hidden needle.
+
+Do not touch the yellow needle cover or put your fingers near the needle opening.
+
+Do not use the pre-filled pen if you drop it without the cap on.
+
+<div style=\"page-break-after: always\"></div>
+
+## 11. Start the injection
+
+To start the injection, press the Yesintek pre-filled pen straight down against the skin (see Figure P).
+
+You will hear the '1st CLICK' as the injection starts.
+
+Figure N
+
+<!-- image -->
+
+## 10. Position the Yesintek pre-filled pen
+
+Position the Yesintek pre-filled pen at the cleaned injection site.
+
+Place the yellow needle cover of the pre-filled pen flat against the skin (90 degree angle). Make sure you can see the viewing window (see Figure O).
+
+Figure O
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## 12. Hold down
+
+Hold the Yesintek pre-filled pen down against your skin and watch the viewing window.
+
+The window will turn completely yellow (see Figure Q), and you will hear a '2 nd  CLICK'. This may take up to 15 seconds.
+
+## Hold Down
+
+<!-- image -->
+
+## 13. Wait 5 seconds
+
+Continue holding the pre-filled pen down and wait for 5 seconds after the window turns yellow to make sure all the medicine has been injected (see Figure R).
+
+## Press Down
+
+Figure P
+
+<!-- image -->
+
+Figure Q
+
+<div style=\"page-break-after: always\"></div>
+
+## 14. Remove the pre-filled pen from the skin
+
+- Lift the Yesintek pre-filled pen straight up from the skin (see Figure S).
+- The yellow needle cover will extend to lock into place, covering the needle.
+
+Figure S
+
+<!-- image -->
+
+## After Injection
+
+## 15. Throw away (dispose of) the used Yesintek pre-filled pen
+
+Throw away the used Yesintek pre-filled pen in a sharps disposal container (see Figure T).
+
+Figure R
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+Figure T
+
+<!-- image -->
+
+If you do not have a sharps disposal container, you may use a household container that is:
+
+- made of a heavy-duty plastic,
+- can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+- upright and stable during use,
+- leak-resistant, and
+- properly labeled to warn of hazardous waste inside the container.
+
+When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles and syringes.
+
+Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+
+Do not recycle your used sharps disposal container.
+
+## 16. Check the injection site
+
+- If there is bleeding at the injection site, you can press a cotton ball or gauze pad over the injection site (see Figure U).
+- If needed, you may cover the injection site with an adhesive bandage.
+
+Figure  U
+
+<!-- image -->
+
+## Package leaflet: Information for the user
+
+<div style=\"page-break-after: always\"></div>
+
+## Yesintek 90 mg solution for injection in pre-filled pen
+
+ustekinumab
+
+▼ This medicine is subject to additional monitoring. This will allow quick identification of new safety information. You can help by reporting any side effects you may get. See the end of section 4 for how to report side effects
+
+## Read all of this leaflet carefully before you start using this medicine because it contains important information for you.
+
+## This leaflet has been written for the person taking the medicine.
+
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Yesintek is and what it is used for
+2. What you need to know before you use Yesintek
+3. How to use Yesintek
+4. Possible side effects
+5. How to store Yesintek
+6. Contents of the pack and other information
+
+## 1. What Yesintek is
+
+Yesintek contains the active substance 'ustekinumab', a monoclonal antibody. Monoclonal antibodies are proteins that recognise and bind specifically to certain proteins in the body.
+
+Yesintek belongs to a group of medicines called 'immunosuppressants'. These medicines work by weakening part of the immune system.
+
+## What Yesintek is used for
+
+Yesintek administered using the pre-filled pen is used to treat the following inflammatory diseases:
+
+- Plaque psoriasis - in adults
+- Psoriatic arthritis - in adults
+- Moderate to severe Crohn's disease - in adults
+
+## Plaque psoriasis
+
+Plaque psoriasis is a skin condition that causes inflammation affecting the skin and nails. Yesintek will reduce the inflammation and other signs of the disease.
+
+Yesintek is used in adults with moderate to severe plaque psoriasis, who cannot use ciclosporin, methotrexate or phototherapy, or where these treatments did not work.
+
+## Psoriatic arthritis
+
+Psoriatic arthritis is an inflammatory disease of the joints, usually accompanied by psoriasis. If you have active psoriatic arthritis you will first be given other medicines. If you do not respond well enough to these medicines, you may be given Yesintek to:
+
+- Reduce the signs and symptoms of your disease.
+- Improve your physical function.
+
+<div style=\"page-break-after: always\"></div>
+
+- Slow down the damage to your joints.
+
+## Crohn's disease
+
+Crohn's disease is an inflammatory disease of the bowel. If you have Crohn's disease you will first be given other medicines. If you do not respond well enough or are intolerant to these medicines, you may be given Yesintek to reduce the signs and symptoms of your disease.
+
+## 2. What you need to know before you use Yesintek
+
+## Do not use Yesintek
+
+- If you are allergic to ustekinumab or any of the other ingredients of this medicine (listed in section 6).
+- If you have an active infection which your doctor thinks is important.
+- If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Yesintek.
+
+## Warnings and precautions
+
+Talk to your doctor or pharmacist before using Yesintek. Your doctor will check how well you are before each treatment. Make sure you tell your doctor about any illness you have before each treatment. Also tell your doctor if you have recently been near anyone who might have tuberculosis. Your doctor will examine you and do a test for tuberculosis, before you have Yesintek. If your doctor thinks you are at risk of tuberculosis, you may be given medicines to treat it.
+
+## Look out for serious side effects
+
+Yesintek can cause serious side effects, including allergic reactions and infections. You must look out for certain signs of illness while you are taking Yesintek. See 'Serious side effects' in section 4 for a full list of these side effects.
+
+## Before you use Yesintek tell your doctor:
+
+- If you ever had an allergic reaction to Yesintek. Ask your doctor if you are not sure.
+- If you have ever had any type of cancer - this is because immunosuppressants like Yesintek weaken part of the immune system. This may increase the risk of cancer.
+- If you have been treated for psoriasis with other biologic medicines (a medicine produced from a biological source and usually given by injection) - the risk of cancer may be higher.
+- If you have or have had a recent infection.
+- If you have any new or changing lesions within psoriasis areas or on normal skin.
+- If you are having any other treatment for psoriasis and/or psoriatic arthritis - such as another immunosuppressant or phototherapy (when your body is treated with a type of ultraviolet (UV) light). These treatments may also weaken part of the immune system. Using these therapies together with Yesintek has not been studied. However it is possible it may increase the chance of diseases related to a weaker immune system.
+- If you are having or have ever had injections to treat allergies - it is not known if Yesintek may affect these.
+- If you are 65 years of age or over - you may be more likely to get infections.
+
+If you are not sure if any of the above applies to you, talk to your doctor or pharmacist before using Yesintek.
+
+Some patients have experienced lupus-like reactions including skin lupus or lupus-like syndrome during treatment with ustekinumab. Talk to your doctor right away if you experience a red, raised, scaly rash sometimes with a darker border, in areas of the skin that are exposed to the sun or with joint pains.
+
+## Heart attack and strokes
+
+Heart attack and strokes have been observed in a study in patients with psoriasis treated with ustekinumab. Your doctor will regularly check your risk factors for heart disease and stroke in order to
+
+<div style=\"page-break-after: always\"></div>
+
+ensure that they are appropriately treated. Seek medical attention right away if you develop chest pain, weakness or abnormal sensation on one side of your body, facial droop, or speech or visual abnormalities.
+
+## Children and adolescents
+
+The Yesintek pre-filled pen is not recommended for use in children and adolescents under 18 years of age with psoriasis because it has not been studied in this age group. The pre-filled syringe or vial should be used instead for children 6 years of age and older and adolescents with psoriasis.
+
+Yesintek is not recommended for use in children and adolescents under 18 years of age with psoriatic arthritis or Crohn's disease because it has not been studied in this age group.
+
+## Other medicines, vaccines and Yesintek
+
+Tell your doctor or pharmacist:
+
+- If you are taking, have recently taken or might take any other medicines.
+- If you have recently had or are going to have a vaccination. Some types of vaccines (live vaccines) should not be given while using Yesintek.
+- If you received Yesintek while pregnant, tell your baby's doctor about your Yesintek treatment before the baby receives any vaccine, including live vaccines, such as the BCG vaccine (used to prevent tuberculosis). Live vaccines are not recommended for your baby in the first twelve months after birth if you received Yesintek during the pregnancy unless your baby's doctor recommends otherwise.
+
+## Pregnancy and breast-feeding
+
+- If you are pregnant, think you may be pregnant or are planning to have a baby, ask your doctor for advice before taking this medicine.
+- A higher risk of birth defects has not been seen in babies exposed to Yesintek in the womb. However, there is limited experience with Yesintek in pregnant women. It is therefore preferable to avoid the use of Yesintek in pregnancy.
+- If you are a woman of childbearing potential, you are advised to avoid becoming pregnant and must use adequate contraception while using Yesintek and for at least 15 weeks after the last Yesintek treatment.
+- Yesintek can pass across the placenta to the unborn baby. If you received Yesintek during your pregnancy, your baby may have a higher risk for getting an infection.
+- It is important that you tell your baby's doctors and other health care professionals if you received Yesintek during your pregnancy before the baby receives any vaccine. Live vaccines such as the BCG vaccine (used to prevent tuberculosis) are not recommended for your baby in the first twelve months after birth if you received Yesintek during the pregnancy unless your baby's doctor recommends otherwise.
+- Ustekinumab may pass into breast milk in very small amounts. Talk to your doctor if you are breast-feeding or are planning to breast-feed. You and your doctor should decide if you should breast-feed or use Yesintek -do not do both.
+
+## Driving and using machines
+
+Yesintek has no or negligible influence on the ability to drive and use machines.
+
+## Yesintek contains Polysorbate 80 (E 433)
+
+This medicine contains 0.04 mg of polysorbate 80 (E 433) in each 90 mg/1 mL pre-filled pen which is equivalent to 0.04 mg/0.5 mL (0.0004 mg/kg/day). Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+
+## 3. How to use Yesintek
+
+Yesintek is intended for use under the guidance and supervision of a doctor experienced in treating conditions for which Yesintek is intended.
+
+<div style=\"page-break-after: always\"></div>
+
+Always use this medicine exactly as your doctor has told you. Check with your doctor if you are not sure. Talk to your doctor about when you will have your injections and follow-up appointments.
+
+## How much Yesintek is given
+
+Your doctor will decide how much Yesintek you need to use and for how long.
+
+## Adults aged 18 years or older Psoriasis or Psoriatic Arthritis
+
+- The recommended starting dose is 45 mg Yesintek. Patients who weigh more than 100 kilograms (kg) may start on a dose of 90 mg instead of 45 mg.
+- After the starting dose, you will have the next dose 4 weeks later, and then every 12 weeks. The following doses are usually the same as the starting dose.
+
+## Crohn's disease
+
+- During treatment, the first dose of approximately 6 mg/kg Yesintek will be given by your doctor through a drip in a vein in your arm (intravenous infusion). After the starting dose, you will receive the next dose of 90 mg Yesintek after 8 weeks, then every 12 weeks thereafter by an injection under the skin ('subcutaneously').
+- In some patients, after the first injection under the skin, 90 mg Yesintek may be given every 8 weeks. Your doctor will decide when you should receive your next dose.
+- How Yesintek is given
+- Yesintek is given as an injection under the skin ('subcutaneously'). At the start of your treatment, medical or nursing staff may inject Yesintek.
+- However, you and your doctor may decide that you may inject Yesintek yourself. In this case you will get training on how to inject Yesintek yourself.
+- For instructions on how to inject Yesintek, see 'Instructions for administration' at the end of this leaflet.
+
+Talk to your doctor if you have any questions about giving yourself an injection.
+
+## If you use more Yesintek than you should
+
+If you have used or been given too much Yesintek, talk to a doctor or pharmacist straight away. Always have the outer carton of the medicine with you, even if it is empty.
+
+## If you forget to use Yesintek
+
+If you forget a dose, contact your doctor or pharmacist. Do not take a double dose to make up for a forgotten dose.
+
+## If you stop using Yesintek
+
+It is not dangerous to stop using Yesintek. However, if you stop, your symptoms may come back. If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+## Serious side effects
+
+Some patients may have serious side effects that may need urgent treatment.
+
+## Allergic reactions - these may need urgent treatment. Tell your doctor or get emergency medical help straight away if you notice any of the following signs.
+
+- Serious allergic reactions ('anaphylaxis') are rare in people taking ustekinumab (may affect up to 1 in 1 000 people). Signs include:
+- o difficulty breathing or swallowing
+- o low blood pressure, which can cause dizziness or light-headedness
+- o swelling of the face, lips, mouth or throat.
+- Common signs of an allergic reaction include skin rash and hives (these may affect up to 1 in 100 people).
+
+<div style=\"page-break-after: always\"></div>
+
+In rare cases, allergic lung reactions and lung inflammation have been reported in patients who receive ustekinumab. Tell your doctor right away if you develop symptoms such as cough, shortness of breath, and fever.
+
+If you have a serious allergic reaction, your doctor may decide that you should not use Yesintek again.
+
+## Infections - these may need urgent treatment. Tell your doctor straight away if you notice any of the following signs.
+
+- Infections of the nose or throat and common cold are common (may affect up to 1 in 10 people)
+- Infections of the chest are uncommon (may affect up to 1 in 100 people)
+- Inflammation of tissue under the skin ('cellulitis') is uncommon (may affect up to 1 in 100 people)
+- Shingles (a type of painful rash with blisters) are uncommon (may affect up to 1 in 100 people)
+
+Yesintek may make you less able to fight infections. Some infections could become serious and may include infections caused by viruses, fungi, bacteria (including tuberculosis), or parasites, including infections that mainly occur in people with a weakened immune system (opportunistic infections). Opportunistic infections of the brain (encephalitis, meningitis), lungs, and eye have been reported in patients receiving treatment with ustekinumab.
+
+You must look out for signs of infection while you are using Yesintek. These include:
+
+- fever, flu-like symptoms, night sweats, weight loss
+- feeling tired or short of breath; cough which will not go away
+- warm, red and painful skin, or a painful skin rash with blisters
+- burning when passing water
+- diarrhoea
+- visual disturbance or vision loss
+- headache, neck stiffness, light sensitivity, nausea or confusion.
+
+Tell your doctor straight away if you notice any of these signs of infection. These may be signs of infections such as chest infections, or skin infections or shingles or opportunistic infections that could have serious complications. Tell your doctor if you have any kind of infection that will not go away or keeps coming back. Your doctor may decide that you should not use Yesintek until the infection goes away. Also tell your doctor if you have any open cuts or sores as they might get infected.
+
+Shedding of skin - increase in redness and shedding of skin over a larger area of the body may be symptoms of erythrodermic psoriasis or exfoliative dermatitis, which are serious skin conditions. You should tell your doctor straight away if you notice any of these signs.
+
+## Other side effects
+
+Common side effects (may affect up to 1 in 10 people) :
+
+- Diarrhoea
+- Nausea
+- Vomiting
+- Feeling tired
+- Feeling dizzy
+- Headache
+- Itching ('pruritus')
+- Back, muscle or joint pain
+- Sore throat
+- Redness and pain where the injection is given
+- Sinus infection
+
+## Uncommon side effects (may affect up to 1 in 100 people) :
+
+- Tooth infections
+
+<div style=\"page-break-after: always\"></div>
+
+- Vaginal yeast infection
+- Depression
+- Blocked or stuffy nose
+- Bleeding, bruising, hardness, swelling and itching where the injection is given
+- Feeling weak
+- Drooping eyelid and sagging muscles on one side of the face ('facial palsy' or 'Bell's palsy'), which is usually temporary
+- A change in psoriasis with redness and new tiny, yellow or white skin blisters, sometimes accompanied by fever (pustular psoriasis)
+- Peeling of the skin (skin exfoliation)
+- Acne
+
+## Rare side effects (may affect up to 1 in 1 000 people) :
+
+- Redness and shedding of skin over a larger area of the body, which may be itchy or painful (exfoliative dermatitis). Similar symptoms sometimes develop as a natural change in the type of psoriasis symptoms (erythrodermic psoriasis)
+- Inflammation of small blood vessels, which can lead to a skin rash with small red or purple bumps, fever or joint pain (vasculitis)
+
+## Very rare side effects (may affect up to 1 in 10 000 people) :
+
+- Blistering of the skin that may be red, itchy, and painful (Bullous pemphigoid).
+- Skin lupus or lupus-like syndrome (red, raised scaly rash on areas of the skin exposed to the sun possibly with joint pains).
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Yesintek
+
+- Keep this medicine out of the sight and reach of children.
+- Store in a refrigerator (2°C-8°C). Do not freeze.
+- Keep the pre-filled pen in the outer carton in order to protect from light.
+- If needed, individual Yesintek pre-filled pens may also be stored at room temperature up to 30°C for a maximum single period of up to 30 days in the original carton in order to protect from light. Record the date when the pre-filled pen is first removed from the refrigerator and the discard date in the space provided on the outer carton. The discard date must not exceed the
+- original expiry date printed on the carton. Once a pre-filled pen has been stored at room temperature (up to 30°C), it should not be returned to the refrigerator. Discard the pre-filled pen if not used within 30 days at room temperature storage or by the original expiry date, whichever is earlier.
+- •
+- Do not shake Yesintek pre-filled pen. Prolonged vigorous shaking may damage the medicine.
+
+## Do not use this medicine:
+
+- After the expiry date which is stated on the label and the carton after 'EXP'. The expiry date refers to the last day of that month.
+- If the liquid is discoloured, cloudy or you can see other foreign particles floating in it (see section 6 'What Yesintek looks like and contents of the pack').
+- If you know, or think that it may have been exposed to extreme temperatures (such as accidentally frozen or heated).
+- If the product has been shaken vigorously.
+
+Yesintek is for single use only. Any unused product remaining in the pre-filled pen should be thrown
+
+<div style=\"page-break-after: always\"></div>
+
+away. Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Yesintek contains
+
+- The active substance is ustekinumab. Each pre-filled pen contains 90 mg ustekinumab in 1 mL.
+- The other ingredients are L-histidine, L-histidine monohydrochloride monohydrate, polysorbate 80 (E 433), sucrose, sodium hydroxide (for pH adjustment), hydrochloric acid (for pH adjustment) and water for injections.
+
+## What Yesintek looks like and contents of the pack
+
+Yesintek is a clear, colorless to pale yellow  solution for injection. It is supplied as a carton pack containing 1 single-dose, glass 1 mL pre-filled pen. Each pre-filled pen contains 90 mg ustekinumab in 1 mL of solution for injection.
+
+## Marketing Authorisation Holder Biosimilar Collaborations Ireland Limited
+
+Unit 35/36 Grange Parade, Baldoyle Industrial Estate, Dublin 13, DUBLIN Ireland, D13 R20R
+
+## Manufacturers Biosimilar Collaborations Ireland Limited
+
+Block B, The Crescent Building, Santry Demesne Dublin D09 C6X8 Ireland
+
+For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
+
+## België/Belgique/Belgien
+
+Biocon Biologics Belgium BV
+
+Tél/Tel: 0080008250910
+
+## България
+
+Biosimilar Collaborations Ireland Limited
+
+Тел:
+
+0080008250910
+
+## Česká republika
+
+Biocon Biologics Germany GmbH
+
+Tel: 0080008250910
+
+## Danmark
+
+Biocon Biologics Finland OY Tlf: 0080008250910
+
+## Deutschland
+
+Biocon Biologics Germany GmbH
+
+Tel: 0080008250910
+
+## Eesti
+
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
+
+## Lietuva
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## Luxembourg/Luxemburg
+
+Biocon Biologics France S.A.S Tél/Tel: 0080008250910 (Belgique/Belgien)
+
+## Magyarország
+
+Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
+
+## Malta
+
+Biosimilar Collaborations Ireland Limited Tel.: 0080008250910
+
+## Nederland
+
+Biocon Biologics France S.A.S
+
+Tel: 0080008250910
+
+## Norge
+
+Biocon Biologics Finland OY
+
+Tlf: +47 800 62 671
+
+<div style=\"page-break-after: always\"></div>
+
+## Ελλάδα
+
+Biocon Biologics Greece ΜΟΝΟΠΡΟΣΩΠΗ
+
+Ι.Κ.Ε
+
+Τηλ.:
+
+0080008250910
+
+## España
+
+Biocon Biologics Spain S.L.
+
+Tel: 0080008250910
+
+## France
+
+Biocon Biologics France S.A.S
+
+Tel: 0080008250910
+
+## Hrvatska
+
+Biocon Biologics Germany GmbH
+
+Tel: 0080008250910
+
+## Ireland
+
+Biosimilar Collaborations Ireland Limited
+
+Tel: 1800 777 794
+
+## Ísland
+
+Biocon Biologics Finland OY
+
+Sími: +345 800 4316
+
+## Italia
+
+Biocon Biologics Spain S.L .
+
+Tel: 0080008250910
+
+## Κύπρος
+
+Biosimilar Collaborations Ireland Limited Τηλ: 0080008250910
+
+## Latvija
+
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
+
+## This leaflet was last revised in
+
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu.
+
+## Österreich
+
+Biocon Biologics Germany GmbH
+
+Tel: 0080008250910
+
+## Polska
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## Portugal
+
+Biocon Biologics Spain S.L.
+
+Tel: 0080008250910
+
+## România
+
+Biosimilar Collaborations Ireland Limited
+
+Tel: 0080008250910
+
+## Slovenija
+
+Biosimilar Collaborations Ireland Limited Tel: 0080008250910
+
+## Slovenská republika
+
+Biocon Biologics Germany GmbH
+
+Tel: 0080008250910
+
+## Suomi/Finland
+
+## Biocon Biologics Finland OY
+
+Puh/Tel: 99980008250910
+
+## Sverige
+
+Biocon Biologics Finland OY
+
+Tel: 0080008250910
+
+<div style=\"page-break-after: always\"></div>
+
+## Preparing Yesintek for Injection
+
+## 1. Take out 1 Yesintek pre-filled pen
+
+Remove the Yesintek pre-filled pen from the carton and set it down on a clean, flat surface (see Figure B).
+
+## Instructions for use
+
+## Yesintek (ustekinumab) injection, for subcutaneous use Pre-filled pen
+
+Read this Instructions for Use each time you use the Yesintek pre-filled pen. There may be new information. This information does not take the place of talking to your healthcare provider about your medical condition or your treatment.
+
+## Important Information You Need to Know Before Injecting Yesintek
+
+- Yesintek is a prescription medicine that is injected under the skin (subcutaneous) from a single-dose pre-filled pen.
+- Do not reuse the Yesintek pre-filled pen. Always use a new Yesintek pre-filled pen for each injection.
+- Your healthcare provider may decide that a caregiver can give you the injections at home. You and your caregiver should receive training on the right way to prepare and inject Yesintek before using it for the first time.
+- Do not inject yourself or someone else until your healthcare provider has shown you how to inject Yesintek the right way.
+- Do not use the Yesintek pre-filled pen if it is expired or damaged.
+- If your dose is 90 mg, you will receive one 90 mg pre-filled pen
+
+## Storage Information
+
+- Store the Yesintek pre-filled pen in the refrigerator between 36°F to 46°F (2°C to 8°C).
+- Keep the Yesintek pre-filled pen in the original carton to protect it from light before use.
+- If needed, the Yesintek pre-filled pen can be stored at room temperature between 68°F to 77°F (20°C to 25°C) for up to 30 days.
+- Do not use the Yesintek pre-filled pen if it has been left out at room temperature for more than 30 days. Throw away (dispose of) the Yesintek pre-filled pen into a sharps disposal container. Refer to Step 15 for more information.
+- Do not freeze the Yesintek pre-filled pen.
+- Do not shake the Yesintek pre-filled pen.
+- Keep Yesintek and all medicines out of the reach of children.
+
+## Yesintek Pre-filled pen Parts
+
+Figure A
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+Do not use the Yesintek pre-filled pen if the carton looks damaged or if  tamper evident seal is broken.
+
+Figure B
+
+<!-- image -->
+
+## 2. Check the Yesintek pre-filled pen
+
+Check the Yesintek pre-filled pen for damage (see Figure C).
+
+Do not use the Yesintek pre-filled pen if it is damaged.
+
+Figure C
+
+<!-- image -->
+
+## 3. Check the expiration date
+
+Check the expiration date printed on the Yesintek pre-filled pen label (see Figure D).
+
+Do not use the Yesintek pre-filled pen if it is expired.
+
+<div style=\"page-break-after: always\"></div>
+
+## 5. Gather the supplies
+
+- Gather the following additional supplies not included in the carton:
+
+1 Alcohol Wipe (See Figure F)
+
+Figure D
+
+<!-- image -->
+
+## 4. Allow the Yesintek pre-filled pen to Warm to Room Temperature
+
+- If the Yesintek pre-filled pen was stored in the refrigerator, let it sit for about 30 minutes to allow it to reach room temperature. Injecting cold medicine can be painful (see Figure E).
+
+Do not warm any other way. For example, do not warm it in a microwave, or hot water, or near other heat sources.
+
+Do not remove the cap until you are ready to inject.
+
+Figure E
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+- 1 Adhesive Bandage (See Figure I)
+6. Check the medicine
+
+Figure I
+
+<!-- image -->
+
+Figure F
+
+<!-- image -->
+
+1 Sharp Disposal Container (See Figure G). See Step 15 for instructions on how to throw away (dispose of) the used Yesintek pre-filled pen.
+
+Figure G
+
+<!-- image -->
+
+- 1 Gauze Pad or Cotton Ball (See Figure H)
+
+Figure H
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+After the Yesintek pre-filled pen warms to room temperature, check the medicine in the viewing window (see Figure J). The medicine should look clear and colorless to pale yellow. It is normal to see small air bubbles.
+
+Do not use if the medicine is cloudy, discolored, or has large particles.
+
+Figure J
+
+<!-- image -->
+
+## 7. Choose the injection site
+
+- You can inject into (see Figure K) :
+- the front of the thigh (Recommended), or
+- the stomach area (abdomen), at least 5 cm away from the belly button.
+- If your caregiver is giving you the injection, you may also use the outer area of the upper arms (see Figure K):
+
+Do not inject into skin that is tender, bruised, red, scaly or hard.
+
+Do not inject into areas with scars or stretch marks.
+
+Always rotate (change) injection sites between injections. Your injection site should be at least 5 cm away from your last injection site.
+
+Figure K
+
+<!-- image -->
+
+## 8. Wash Hands and Clean the Injection Site
+
+<div style=\"page-break-after: always\"></div>
+
+Wash your hands well with soap and water (see Figure L).
+
+Figure L
+
+<!-- image -->
+
+Clean the chosen injection site with an alcohol wipe (see Figure M). Then let it air dry.
+
+Do not touch, fan or blow on the injection site after you have cleaned it.
+
+Figure M
+
+<!-- image -->
+
+## Injecting Yesintek
+
+## 9. Remove the Yesintek pre-filled pen cap and throw it away
+
+- While holding the body of the Yesintek pre-filled pen with one hand, use the other hand to pull the cap straight off (see Figure N).
+- Throw away (dispose of) the cap into the household trash.
+
+Do not put the cap back on, this may damage the hidden needle.
+
+Do not touch the yellow needle cover or put your fingers near the needle opening.
+
+Do not use the pre-filled pen if you drop it without the cap on.
+
+<div style=\"page-break-after: always\"></div>
+
+## 11. Start the injection
+
+- To start the injection, press the Yesintek pre-filled pen straight down against the skin (see Figure P).
+
+You will hear the '1st CLICK' as the injection starts.
+
+Figure N
+
+<!-- image -->
+
+## 10. Position the Yesintek pre-filled pen
+
+Position the Yesintek pre-filled pen at the cleaned injection site.
+
+Place the yellow needle cover of the pre-filled pen flat against the skin (90 degree angle). Make sure you can see the viewing window (see Figure O).
+
+Figure O
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## 12. Hold down
+
+- Hold the Yesintek pre-filled pen down against your skin and watch the viewing window.
+
+The window will turn completely yellow (see Figure Q), and you will hear a '2 nd  CLICK'. This may take up to 15 seconds.
+
+## Hold Down
+
+Figure Q
+
+<!-- image -->
+
+## 13. Wait 5 seconds
+
+- Continue holding the pre-filled pen down and wait for 5 seconds after the window turns yellow to make sure all the medicine has been injected (see Figure R).
+
+## Press Down
+
+Figure P
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+## After Injection
+
+## 15. Throw away (dispose of) the used Yesintek pre-filled pen
+
+- Throw away the used Yesintek pre-filled pen in a sharps disposal container (see Figure T).
+
+Figure R
+
+<!-- image -->
+
+## 14. Remove the pre-filled pen from the skin
+
+- Lift the Yesintek pre-filled pen straight up from the skin (see Figure S).
+- The yellow needle cover will extend to lock into place, covering the needle.
+
+Figure S
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
+Figure T
+
+<!-- image -->
+
+If you do not have a sharps disposal container, you may use a household container that is:
+
+- made of a heavy-duty plastic,
+- can be closed with a tight-fitting, puncture-resistant lid, without sharps being able to come out,
+- upright and stable during use,
+- leak-resistant, and
+- properly labeled to warn of hazardous waste inside the container.
+
+When your sharps disposal container is almost full, you will need to follow your community guidelines for the right way to dispose of your sharps disposal container. There may be state or local laws about how you should throw away used needles and syringes.
+
+Do not dispose of your used sharps disposal container in your household trash unless your community guidelines permit this.
+
+Do not recycle your used sharps disposal container.
+
+## 16. Check the injection site
+
+- If there is bleeding at the injection site, you can press a cotton ball or gauze pad over the injection site (see Figure U).
+- If needed, you may cover the injection site with an adhesive bandage.
+
+Figure U
+
+<!-- image -->

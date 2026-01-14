@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 14:10:48
+document_datetime: 2026-01-13 15:43:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/inrebic.html
 document_name: inrebic.html
 version: success
-processing_time: 0.1096612
-conversion_datetime: 2025-12-30 22:55:49.987037
+processing_time: 0.1093406
+conversion_datetime: 2026-01-14 07:29:13.590977
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 fedratinib Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +112,7 @@ English (EN) (123.08 KB - PDF)
 
 [View](/en/documents/overview/inrebic-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-358)
+[Other languages (22)](#file-language-dropdown-232)
 
 български (BG) (146.67 KB - PDF)
 
@@ -306,17 +304,17 @@ English (EN) (5.52 MB - PDF)
 
 Inrebic : EPAR - Product information
 
-English (EN) (325.57 KB - PDF)
+English (EN) (380.46 KB - PDF)
 
 **First published:** 03/03/2021
 
-**Last updated:** 23/07/2025
+**Last updated:** 13/01/2026
 
 [View](/en/documents/product-information/inrebic-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-740)
+[Other languages (24)](#file-language-dropdown-144)
 
-български (BG) (406.27 KB - PDF)
+български (BG) (529.08 KB - PDF)
 
 **First published:**
 
@@ -324,11 +322,11 @@ English (EN) (325.57 KB - PDF)
 
 **Last updated:**
 
-23/07/2025
+13/01/2026
 
 [View](/bg/documents/product-information/inrebic-epar-product-information_bg.pdf)
 
-español (ES) (328.88 KB - PDF)
+español (ES) (458.74 KB - PDF)
 
 **First published:**
 
@@ -336,11 +334,11 @@ español (ES) (328.88 KB - PDF)
 
 **Last updated:**
 
-23/07/2025
+13/01/2026
 
 [View](/es/documents/product-information/inrebic-epar-product-information_es.pdf)
 
-čeština (CS) (424.07 KB - PDF)
+čeština (CS) (514.12 KB - PDF)
 
 **First published:**
 
@@ -348,11 +346,11 @@ español (ES) (328.88 KB - PDF)
 
 **Last updated:**
 
-23/07/2025
+13/01/2026
 
 [View](/cs/documents/product-information/inrebic-epar-product-information_cs.pdf)
 
-dansk (DA) (329.4 KB - PDF)
+dansk (DA) (472.34 KB - PDF)
 
 **First published:**
 
@@ -360,11 +358,11 @@ dansk (DA) (329.4 KB - PDF)
 
 **Last updated:**
 
-23/07/2025
+13/01/2026
 
 [View](/da/documents/product-information/inrebic-epar-product-information_da.pdf)
 
-Deutsch (DE) (348.79 KB - PDF)
+Deutsch (DE) (485.23 KB - PDF)
 
 **First published:**
 
@@ -372,11 +370,11 @@ Deutsch (DE) (348.79 KB - PDF)
 
 **Last updated:**
 
-23/07/2025
+13/01/2026
 
 [View](/de/documents/product-information/inrebic-epar-product-information_de.pdf)
 
-eesti keel (ET) (324.18 KB - PDF)
+eesti keel (ET) (457.36 KB - PDF)
 
 **First published:**
 
@@ -384,11 +382,11 @@ eesti keel (ET) (324.18 KB - PDF)
 
 **Last updated:**
 
-23/07/2025
+13/01/2026
 
 [View](/et/documents/product-information/inrebic-epar-product-information_et.pdf)
 
-ελληνικά (EL) (448.2 KB - PDF)
+ελληνικά (EL) (520.59 KB - PDF)
 
 **First published:**
 
@@ -396,11 +394,11 @@ eesti keel (ET) (324.18 KB - PDF)
 
 **Last updated:**
 
-23/07/2025
+13/01/2026
 
 [View](/el/documents/product-information/inrebic-epar-product-information_el.pdf)
 
-français (FR) (592.47 KB - PDF)
+français (FR) (479.12 KB - PDF)
 
 **First published:**
 
@@ -408,11 +406,11 @@ français (FR) (592.47 KB - PDF)
 
 **Last updated:**
 
-21/08/2025
+13/01/2026
 
 [View](/fr/documents/product-information/inrebic-epar-product-information_fr.pdf)
 
-hrvatski (HR) (414.57 KB - PDF)
+hrvatski (HR) (502.37 KB - PDF)
 
 **First published:**
 
@@ -420,11 +418,11 @@ hrvatski (HR) (414.57 KB - PDF)
 
 **Last updated:**
 
-23/07/2025
+13/01/2026
 
 [View](/hr/documents/product-information/inrebic-epar-product-information_hr.pdf)
 
-íslenska (IS) (321.67 KB - PDF)
+íslenska (IS) (455.9 KB - PDF)
 
 **First published:**
 
@@ -432,11 +430,11 @@ hrvatski (HR) (414.57 KB - PDF)
 
 **Last updated:**
 
-23/07/2025
+13/01/2026
 
 [View](/is/documents/product-information/inrebic-epar-product-information_is.pdf)
 
-italiano (IT) (338 KB - PDF)
+italiano (IT) (469.98 KB - PDF)
 
 **First published:**
 
@@ -444,11 +442,11 @@ italiano (IT) (338 KB - PDF)
 
 **Last updated:**
 
-23/07/2025
+13/01/2026
 
 [View](/it/documents/product-information/inrebic-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (417.11 KB - PDF)
+latviešu valoda (LV) (503.47 KB - PDF)
 
 **First published:**
 
@@ -456,11 +454,11 @@ latviešu valoda (LV) (417.11 KB - PDF)
 
 **Last updated:**
 
-23/07/2025
+13/01/2026
 
 [View](/lv/documents/product-information/inrebic-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (417.7 KB - PDF)
+lietuvių kalba (LT) (498.04 KB - PDF)
 
 **First published:**
 
@@ -468,11 +466,11 @@ lietuvių kalba (LT) (417.7 KB - PDF)
 
 **Last updated:**
 
-23/07/2025
+13/01/2026
 
 [View](/lt/documents/product-information/inrebic-epar-product-information_lt.pdf)
 
-magyar (HU) (385.58 KB - PDF)
+magyar (HU) (546.76 KB - PDF)
 
 **First published:**
 
@@ -480,11 +478,11 @@ magyar (HU) (385.58 KB - PDF)
 
 **Last updated:**
 
-23/07/2025
+13/01/2026
 
 [View](/hu/documents/product-information/inrebic-epar-product-information_hu.pdf)
 
-Malti (MT) (432.35 KB - PDF)
+Malti (MT) (531.37 KB - PDF)
 
 **First published:**
 
@@ -492,11 +490,11 @@ Malti (MT) (432.35 KB - PDF)
 
 **Last updated:**
 
-23/07/2025
+13/01/2026
 
 [View](/mt/documents/product-information/inrebic-epar-product-information_mt.pdf)
 
-Nederlands (NL) (332.23 KB - PDF)
+Nederlands (NL) (468.7 KB - PDF)
 
 **First published:**
 
@@ -504,11 +502,11 @@ Nederlands (NL) (332.23 KB - PDF)
 
 **Last updated:**
 
-23/07/2025
+13/01/2026
 
 [View](/nl/documents/product-information/inrebic-epar-product-information_nl.pdf)
 
-norsk (NO) (321.88 KB - PDF)
+norsk (NO) (456.67 KB - PDF)
 
 **First published:**
 
@@ -516,11 +514,11 @@ norsk (NO) (321.88 KB - PDF)
 
 **Last updated:**
 
-23/07/2025
+13/01/2026
 
 [View](/no/documents/product-information/inrebic-epar-product-information_no.pdf)
 
-polski (PL) (364.25 KB - PDF)
+polski (PL) (544.56 KB - PDF)
 
 **First published:**
 
@@ -528,11 +526,11 @@ polski (PL) (364.25 KB - PDF)
 
 **Last updated:**
 
-23/07/2025
+13/01/2026
 
 [View](/pl/documents/product-information/inrebic-epar-product-information_pl.pdf)
 
-português (PT) (322.7 KB - PDF)
+português (PT) (463.86 KB - PDF)
 
 **First published:**
 
@@ -540,11 +538,11 @@ português (PT) (322.7 KB - PDF)
 
 **Last updated:**
 
-23/07/2025
+13/01/2026
 
 [View](/pt/documents/product-information/inrebic-epar-product-information_pt.pdf)
 
-română (RO) (421.73 KB - PDF)
+română (RO) (504.08 KB - PDF)
 
 **First published:**
 
@@ -552,11 +550,11 @@ română (RO) (421.73 KB - PDF)
 
 **Last updated:**
 
-23/07/2025
+13/01/2026
 
 [View](/ro/documents/product-information/inrebic-epar-product-information_ro.pdf)
 
-slovenčina (SK) (359.02 KB - PDF)
+slovenčina (SK) (539.01 KB - PDF)
 
 **First published:**
 
@@ -564,11 +562,11 @@ slovenčina (SK) (359.02 KB - PDF)
 
 **Last updated:**
 
-23/07/2025
+13/01/2026
 
 [View](/sk/documents/product-information/inrebic-epar-product-information_sk.pdf)
 
-slovenščina (SL) (328.29 KB - PDF)
+slovenščina (SL) (526.97 KB - PDF)
 
 **First published:**
 
@@ -576,11 +574,11 @@ slovenščina (SL) (328.29 KB - PDF)
 
 **Last updated:**
 
-23/07/2025
+13/01/2026
 
 [View](/sl/documents/product-information/inrebic-epar-product-information_sl.pdf)
 
-Suomi (FI) (331.77 KB - PDF)
+Suomi (FI) (462.08 KB - PDF)
 
 **First published:**
 
@@ -588,11 +586,11 @@ Suomi (FI) (331.77 KB - PDF)
 
 **Last updated:**
 
-23/07/2025
+13/01/2026
 
 [View](/fi/documents/product-information/inrebic-epar-product-information_fi.pdf)
 
-svenska (SV) (323.68 KB - PDF)
+svenska (SV) (454.58 KB - PDF)
 
 **First published:**
 
@@ -600,11 +598,11 @@ svenska (SV) (323.68 KB - PDF)
 
 **Last updated:**
 
-23/07/2025
+13/01/2026
 
 [View](/sv/documents/product-information/inrebic-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** II/0026 05/06/2025
+**Latest procedure affecting product information:** R/0000264185 18/12/2025
 
 icon globe
 
@@ -628,7 +626,7 @@ English (EN) (80.39 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/inrebic-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-523)
+[Other languages (24)](#file-language-dropdown-151)
 
 български (BG) (84.67 KB - PDF)
 
@@ -843,10 +841,6 @@ Inrebic is indicated for the treatment of disease-related splenomegaly or sympto
 
 EMA product number EMEA/H/C/005026
 
-Additional monitoring
-
-This medicine is under additional monitoring, meaning that it is monitored even more intensively than other medicines. For more information, see Medicines under [additional monitoring](/node/68821) .
-
 Orphan
 
 This medicine was designated an orphan medicine. This means that it was developed for use against a rare, life-threatening or chronically debilitating condition or, for economic reasons, it would be unlikely to have been developed without incentives. For more information, see [Orphan designation](/node/69983) .
@@ -857,7 +851,7 @@ Bristol Myers Squibb Pharma EEIG
 
 Plaza 254
 
-Opinion adopted 10/12/2020 Marketing authorisation issued 08/02/2021 Revision 8
+Opinion adopted 10/12/2020 Marketing authorisation issued 08/02/2021 Revision 9
 
 ## Assessment history
 
@@ -869,13 +863,21 @@ Collapse section
 
 Inrebic : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (174.3 KB - PDF)
+English (EN) (144.57 KB - PDF)
+
+**First published:** 13/01/2026
+
+[View](/en/documents/procedural-steps-after/inrebic-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Inrebic : EPAR - Procedural steps taken and scientific information after the authorisation (archive)
+
+English (EN) (205.91 KB - PDF)
 
 **First published:** 06/09/2021
 
-**Last updated:** 23/07/2025
+**Last updated:** 13/01/2026
 
-[View](/en/documents/procedural-steps-after/inrebic-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/inrebic-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -927,7 +929,7 @@ English (EN) (112.76 KB - PDF)
 - [EU/3/10/811 - orphan designation for treatment of post-polycythaemia vera myelofibrosis](/en/medicines/human/orphan-designations/eu-3-10-811)
 - [EU/3/10/810 - orphan designation for treatment of post-essential thrombocythaemia myelofibrosis](/en/medicines/human/orphan-designations/eu-3-10-810)
 
-**This page was last updated on** 23/07/2025
+**This page was last updated on** 13/01/2026
 
 ## Share this page
 

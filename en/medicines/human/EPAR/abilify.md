@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-12-29 09:50:48
+document_datetime: 2026-01-12 14:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/abilify.html
 document_name: abilify.html
 version: success
-processing_time: 0.1430493
-conversion_datetime: 2025-12-31 01:51:43.442401
+processing_time: 0.1793033
+conversion_datetime: 2026-01-14 07:28:59.661644
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -26,8 +26,6 @@ This medicine is authorised for use in the European Union
 
 aripiprazole Medicine Human Authorised
 
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
-
 Page contents
 
 ## Page contents
@@ -38,6 +36,7 @@ Page contents
 - [Authorisation details](#authorisation-details)
 - [Assessment history](#assessment-history)
 - [News on Abilify](#news-on)
+- [Product information - with tracked changes](#product-information-with-tracked-changes-82449)
 - [More information on Abilify](#related-medicines)
 
 - Application under evaluation
@@ -126,7 +125,7 @@ English (EN) (79.66 KB - PDF)
 
 [View](/en/documents/overview/abilify-epar-summary-public_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-675)
+[Other languages (22)](#file-language-dropdown-936)
 
 български (BG) (105.17 KB - PDF)
 
@@ -404,17 +403,17 @@ English (EN) (217.86 KB - PDF)
 
 Abilify : EPAR - Product Information
 
-English (EN) (1015.83 KB - PDF)
+English (EN) (1014.81 KB - PDF)
 
 **First published:** 14/10/2009
 
-**Last updated:** 08/04/2022
+**Last updated:** 12/01/2026
 
 [View](/en/documents/product-information/abilify-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-328)
+[Other languages (24)](#file-language-dropdown-529)
 
-български (BG) (1.26 MB - PDF)
+български (BG) (1.23 MB - PDF)
 
 **First published:**
 
@@ -422,11 +421,11 @@ English (EN) (1015.83 KB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/bg/documents/product-information/abilify-epar-product-information_bg.pdf)
 
-español (ES) (1.02 MB - PDF)
+español (ES) (1 MB - PDF)
 
 **First published:**
 
@@ -434,7 +433,7 @@ español (ES) (1.02 MB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/es/documents/product-information/abilify-epar-product-information_es.pdf)
 
@@ -446,11 +445,11 @@ español (ES) (1.02 MB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/cs/documents/product-information/abilify-epar-product-information_cs.pdf)
 
-dansk (DA) (1008.71 KB - PDF)
+dansk (DA) (1012.71 KB - PDF)
 
 **First published:**
 
@@ -458,11 +457,11 @@ dansk (DA) (1008.71 KB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/da/documents/product-information/abilify-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.06 MB - PDF)
+Deutsch (DE) (1.07 MB - PDF)
 
 **First published:**
 
@@ -470,11 +469,11 @@ Deutsch (DE) (1.06 MB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/de/documents/product-information/abilify-epar-product-information_de.pdf)
 
-eesti keel (ET) (1017.46 KB - PDF)
+eesti keel (ET) (973.09 KB - PDF)
 
 **First published:**
 
@@ -482,11 +481,11 @@ eesti keel (ET) (1017.46 KB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/et/documents/product-information/abilify-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.33 MB - PDF)
+ελληνικά (EL) (1.23 MB - PDF)
 
 **First published:**
 
@@ -494,11 +493,11 @@ eesti keel (ET) (1017.46 KB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/el/documents/product-information/abilify-epar-product-information_el.pdf)
 
-français (FR) (1.08 MB - PDF)
+français (FR) (1.06 MB - PDF)
 
 **First published:**
 
@@ -506,11 +505,11 @@ français (FR) (1.08 MB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/fr/documents/product-information/abilify-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.13 MB - PDF)
+hrvatski (HR) (1.08 MB - PDF)
 
 **First published:**
 
@@ -518,11 +517,11 @@ hrvatski (HR) (1.13 MB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/hr/documents/product-information/abilify-epar-product-information_hr.pdf)
 
-íslenska (IS) (989.68 KB - PDF)
+íslenska (IS) (980.26 KB - PDF)
 
 **First published:**
 
@@ -530,11 +529,11 @@ hrvatski (HR) (1.13 MB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/is/documents/product-information/abilify-epar-product-information_is.pdf)
 
-italiano (IT) (1.06 MB - PDF)
+italiano (IT) (1.03 MB - PDF)
 
 **First published:**
 
@@ -542,11 +541,11 @@ italiano (IT) (1.06 MB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/it/documents/product-information/abilify-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.18 MB - PDF)
+latviešu valoda (LV) (1.13 MB - PDF)
 
 **First published:**
 
@@ -554,11 +553,11 @@ latviešu valoda (LV) (1.18 MB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/lv/documents/product-information/abilify-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.16 MB - PDF)
+lietuvių kalba (LT) (1.14 MB - PDF)
 
 **First published:**
 
@@ -566,11 +565,11 @@ lietuvių kalba (LT) (1.16 MB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/lt/documents/product-information/abilify-epar-product-information_lt.pdf)
 
-magyar (HU) (1.24 MB - PDF)
+magyar (HU) (1.21 MB - PDF)
 
 **First published:**
 
@@ -578,11 +577,11 @@ magyar (HU) (1.24 MB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/hu/documents/product-information/abilify-epar-product-information_hu.pdf)
 
-Malti (MT) (1.29 MB - PDF)
+Malti (MT) (1.2 MB - PDF)
 
 **First published:**
 
@@ -590,7 +589,7 @@ Malti (MT) (1.29 MB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/mt/documents/product-information/abilify-epar-product-information_mt.pdf)
 
@@ -602,11 +601,11 @@ Nederlands (NL) (1.03 MB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/nl/documents/product-information/abilify-epar-product-information_nl.pdf)
 
-norsk (NO) (996.08 KB - PDF)
+norsk (NO) (1014.56 KB - PDF)
 
 **First published:**
 
@@ -614,7 +613,7 @@ norsk (NO) (996.08 KB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/no/documents/product-information/abilify-epar-product-information_no.pdf)
 
@@ -626,11 +625,11 @@ polski (PL) (1.21 MB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/pl/documents/product-information/abilify-epar-product-information_pl.pdf)
 
-português (PT) (1.02 MB - PDF)
+português (PT) (1.01 MB - PDF)
 
 **First published:**
 
@@ -638,11 +637,11 @@ português (PT) (1.02 MB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/pt/documents/product-information/abilify-epar-product-information_pt.pdf)
 
-română (RO) (1.24 MB - PDF)
+română (RO) (1.15 MB - PDF)
 
 **First published:**
 
@@ -650,11 +649,11 @@ română (RO) (1.24 MB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/ro/documents/product-information/abilify-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.14 MB - PDF)
+slovenčina (SK) (1.18 MB - PDF)
 
 **First published:**
 
@@ -662,11 +661,11 @@ slovenčina (SK) (1.14 MB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/sk/documents/product-information/abilify-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.13 MB - PDF)
+slovenščina (SL) (1.11 MB - PDF)
 
 **First published:**
 
@@ -674,11 +673,11 @@ slovenščina (SL) (1.13 MB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/sl/documents/product-information/abilify-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.04 MB - PDF)
+Suomi (FI) (1.03 MB - PDF)
 
 **First published:**
 
@@ -686,11 +685,11 @@ Suomi (FI) (1.04 MB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/fi/documents/product-information/abilify-epar-product-information_fi.pdf)
 
-svenska (SV) (1011.8 KB - PDF)
+svenska (SV) (998.76 KB - PDF)
 
 **First published:**
 
@@ -698,11 +697,11 @@ svenska (SV) (1011.8 KB - PDF)
 
 **Last updated:**
 
-08/04/2022
+12/01/2026
 
 [View](/sv/documents/product-information/abilify-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0140 28/03/2022
+**Latest procedure affecting product information:** VR/0000313289 09/01/2026
 
 icon globe
 
@@ -728,7 +727,7 @@ English (EN) (48.46 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/abilify-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-994)
+[Other languages (24)](#file-language-dropdown-329)
 
 български (BG) (75.95 KB - PDF)
 
@@ -1047,7 +1046,7 @@ Otsuka Pharmaceutical Netherlands B.V.
 
 Herikerbergweg 292
 
-Opinion adopted 26/02/2004 Marketing authorisation issued 04/06/2004 Revision 49
+Opinion adopted 26/02/2004 Marketing authorisation issued 04/06/2004 Revision 50
 
 ## Assessment history
 
@@ -1059,13 +1058,13 @@ Collapse section
 
 Abilify : EPAR - Procedural  steps taken and scientific information after authorisation
 
-English (EN) (365.59 KB - PDF)
+English (EN) (150.37 KB - PDF)
 
 **First published:** 20/10/2009
 
-**Last updated:** 08/04/2022
+**Last updated:** 12/01/2026
 
-[View](/en/documents/procedural-steps-after/abilify-epar-procedural-steps-taken-and-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/abilify-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 Abilify-H-C-PSUSA-00000234-201907 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
 
@@ -1115,7 +1114,7 @@ English (EN) (73.59 KB - PDF)
 
 [View](/en/documents/smop/questions-and-answers-outcome-application-application-extend-use-abilify-schizophrenia-13-and-14-year-olds_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-813)
+[Other languages (22)](#file-language-dropdown-403)
 
 български (BG) (94.34 KB - PDF)
 
@@ -1635,12 +1634,218 @@ English (EN) (383.17 KB - PDF)
 
 [Otsuka Pharmaceutical Europe Ltd withdraws its application for an extension of indication for Abilify (aripiprazole)](/en/news/otsuka-pharmaceutical-europe-ltd-withdraws-its-application-extension-indication-abilify-aripiprazole) 19/11/2009
 
+#### Product information - with tracked changes
+
+The approved product information for this medicine is available below showing the changes since the previous procedure affecting the product information. The same document without tracked changes is above under 'Product information'.
+
+Abilify : EPAR - Product information - tracked changes
+
+English (EN) (285.78 KB - DOCX)
+
+**First published:** 12/01/2026
+
+[View](/en/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_en.docx)
+
+[Other languages (24)](#file-language-dropdown-764)
+
+български (BG) (286.35 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/bg/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_bg.docx)
+
+español (ES) (260.05 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/es/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_es.docx)
+
+čeština (CS) (260.43 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/cs/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_cs.docx)
+
+dansk (DA) (264.64 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/da/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_da.docx)
+
+Deutsch (DE) (258.77 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/de/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_de.docx)
+
+eesti keel (ET) (240.73 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/et/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_et.docx)
+
+ελληνικά (EL) (313.88 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/el/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_el.docx)
+
+français (FR) (284.05 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/fr/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_fr.docx)
+
+hrvatski (HR) (247.92 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/hr/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_hr.docx)
+
+íslenska (IS) (239.81 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/is/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_is.docx)
+
+italiano (IT) (253.58 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/it/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_it.docx)
+
+latviešu valoda (LV) (252.67 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/lv/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_lv.docx)
+
+lietuvių kalba (LT) (259.09 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/lt/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_lt.docx)
+
+magyar (HU) (252.23 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/hu/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_hu.docx)
+
+Malti (MT) (260.68 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/mt/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_mt.docx)
+
+Nederlands (NL) (261.62 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/nl/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_nl.docx)
+
+norsk (NO) (232.87 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/no/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_no.docx)
+
+polski (PL) (269.92 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/pl/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_pl.docx)
+
+português (PT) (252.48 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/pt/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_pt.docx)
+
+română (RO) (248.97 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/ro/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_ro.docx)
+
+slovenčina (SK) (258.67 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/sk/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_sk.docx)
+
+slovenščina (SL) (246.42 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/sl/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_sl.docx)
+
+Suomi (FI) (251.53 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/fi/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_fi.docx)
+
+svenska (SV) (252.91 KB - DOCX)
+
+**First published:**
+
+12/01/2026
+
+[View](/sv/documents/procedural-steps-after/abilify-epar-product-information-tracked-changes_sv.docx)
+
 #### More information on Abilify
 
 - [Abilify - withdrawal of application for variation to marketing authorisation](/en/medicines/human/variation/abilify)
 - [EMEA-000235-PIP02-10-M02 - paediatric investigation plan](/en/medicines/human/paediatric-investigation-plans/emea-000235-pip02-10-m02)
 
-**This page was last updated on** 08/04/2022
+**This page was last updated on** 12/01/2026
 
 ## Share this page
 

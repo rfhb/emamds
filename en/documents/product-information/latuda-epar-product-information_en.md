@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-07-07 16:19:14
+document_datetime: 2026-01-12 15:58:49
 document_pages: 47
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/latuda-epar-product-information_en.pdf
 document_name: latuda-epar-product-information_en.pdf
 version: success
-processing_time: 16.7668615
-conversion_datetime: 2025-12-28 13:49:20.006599
+processing_time: 15.5230727
+conversion_datetime: 2026-01-14 07:23:17.449653
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -273,9 +273,7 @@ Studies in animals have shown a number of effects on fertility, mainly related t
 
 ## 4.7 Effects on ability to drive and use machines
 
-Lurasidone has minor influence on the ability to drive and use machines. Patients should be cautioned about operating hazardous machines, including motor vehicles and cycles, until they are reasonably certain that lurasidone does not affect them adversely (see section 4.8).
-
-Regarding road safety, adolescents who may not be old enough to drive may nevertheless cycle.
+Lurasidone has minor influence on the ability to drive and use machines. Patients should be cautioned about operating hazardous machines, including motor vehicles and cycles, until they are reasonably certain that lurasidone does not affect them adversely (see section 4.8). Regarding road safety, adolescents who may not be old enough to drive may nevertheless cycle.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -336,16 +334,16 @@ Table 2:  Adverse Drug Reactions (ADRs) for Adolescents
 
 <div style=\"page-break-after: always\"></div>
 
-| System Organ Class                              | Very Common                    | Common                                                                   | Uncommon                                                                                                                                                                                      | Rare   | Frequency not known   |
-|-------------------------------------------------|--------------------------------|--------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-----------------------|
-| Nervous System Disorders                        | Akathisia Headache Somnolence* | Disturbance in attention Dizziness Dyskinesia Dystonia*** Parkinsonism** | Panic Attack Psychomotor hyperactivity Restlessness Sleep disorder Suicidal ideation Terminal insomnia Thinking abnormal Dizziness postural Dysgeusia Hyperkinesia Memory impairment Migraine |        |                       |
-| Eye Disorders                                   |                                |                                                                          | Tension headache Accommodation disorder Vision blurred                                                                                                                                        |        |                       |
-| Ear and labyrinth disorders                     |                                |                                                                          | Hyperacusis                                                                                                                                                                                   |        |                       |
-| Cardiac disorders                               |                                | Tachycardia                                                              | Palpitations Supraventricular extrasystoles                                                                                                                                                   |        |                       |
-| Vascular disorders                              |                                |                                                                          | Orthostatic hypotension Hypertension                                                                                                                                                          |        |                       |
-| Respiratory, thoracic and mediastinal disorders |                                |                                                                          | Oropharyngeal pain Dyspnoea                                                                                                                                                                   |        |                       |
-| Gastrointestinal disorders                      | Nausea                         | Constipation Dry mouth Salivary hypersecretion Vomiting                  | Abdominal discomfort Abdominal pain upper Aptyalism Diarrhoea Dyspepsia Lip dry Toothache                                                                                                     |        |                       |
-| Skin and subcutaneous tissue disorders          |                                | Hyperhidrosis                                                            | Alopecia Hair growth abnormal Rash Urticaria                                                                                                                                                  |        |                       |
+| System Organ Class                              | Very Common                    | Common                                                                   | Uncommon                                                                                                                                                                                                   | Rare   | Frequency not known   |
+|-------------------------------------------------|--------------------------------|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-----------------------|
+| Nervous System Disorders                        | Akathisia Headache Somnolence* | Disturbance in attention Dizziness Dyskinesia Dystonia*** Parkinsonism** | Panic Attack Psychomotor hyperactivity Restlessness Sleep disorder Suicidal ideation Terminal insomnia Thinking abnormal Dizziness postural Dysgeusia Hyperkinesia Memory impairment Migraine Paraesthesia |        |                       |
+| Eye Disorders                                   |                                |                                                                          | Accommodation disorder Vision blurred                                                                                                                                                                      |        |                       |
+| Ear and labyrinth disorders                     |                                |                                                                          | Hyperacusis                                                                                                                                                                                                |        |                       |
+| Cardiac disorders                               |                                | Tachycardia                                                              | Palpitations Supraventricular extrasystoles                                                                                                                                                                |        |                       |
+| Vascular disorders                              |                                |                                                                          | Orthostatic hypotension Hypertension                                                                                                                                                                       |        |                       |
+| Respiratory, thoracic and mediastinal disorders |                                |                                                                          | Oropharyngeal pain Dyspnoea                                                                                                                                                                                |        |                       |
+| Gastrointestinal disorders                      | Nausea                         | Constipation Dry mouth Salivary hypersecretion Vomiting                  | Abdominal discomfort Abdominal pain upper Aptyalism Diarrhoea Dyspepsia Lip dry Toothache                                                                                                                  |        |                       |
+| Skin and subcutaneous tissue disorders          |                                | Hyperhidrosis                                                            | Alopecia Hair growth abnormal Rash Urticaria                                                                                                                                                               |        |                       |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -437,17 +435,19 @@ Table 3: Schizophrenia Adult Studies: Positive and Negative Syndrome Scale for S
 | Study Statistic                                          | Placebo                       | Lurasidone dose (b)           | Lurasidone dose (b)           | Lurasidone dose (b)           | Lurasidone dose (b)     | Active Control                |
 |----------------------------------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------|-------------------------------|
 |                                                          |                               | 37 mg                         | 74 mg                         | 111 mg                        | 148 mg                  | (a)                           |
-| Study D1050229 Baseline Mean (SD) LS Mean Change         | N=124 96.8 (11.1) -17.0 (1.8) | N=121 96.5 (11.6) -19.2 (1.7) | N=118 96.0 (10.8) -23.4 (1.8) | N=123 96.0 (9.7) -20.5 (1.8)  | -- -- --                | -- -- --                      |
-| (SE) Treatment Difference vs. placebo                    |                               |                               |                               |                               |                         |                               |
-| Estimate (SE)                                            | -- --                         | -2.1 (2.5) 0.591              | -6.4 (2.5) 0.034              | -3.5 (2.5) 0.391              | -- --                   | -- --                         |
-| p-value Study D1050231 Baseline Mean (SD) LS Mean Change | N=114 95.8 (10.8) -16.0       | N=118 96.6 (10.7) -25.7       | -- -- --                      | N=118 97.9 (11.3) -23.6 (2.1) | -- -- --                | N=121 96.3 (12.2) -28.7 (1.9) |
-| (SE) Treatment Difference vs. placebo                    | (2.1)                         | (2.0)                         |                               | -7.5                          |                         |                               |
-| Estimate (SE) p-value                                    | -- --                         | -9.7 (2.9) 0.002              | -- --                         | (3.0) 0.022                   | -- --                   | -12.6 (2.8) <0.001            |
-| Study D1050233 Baseline Mean (SD)                        | N=120 96.6 (10.2)             | -- --                         | N=125 97.7 (9.7) -22.2 (1.8)  | -- --                         | N=121 97.9 (11.8) -26.5 | N=116 97.7 (10.2) -27.8 (1.8) |
-| LS Mean Change (SE)                                      | -10.3 (1.8)                   | --                            |                               | --                            | (1.8)                   |                               |
+| Study D1050229 Baseline Mean (SD) LS Mean Change (SE)    | N=124 96.8 (11.1) -17.0 (1.8) | N=121 96.5 (11.6) -19.2 (1.7) | N=118 96.0 (10.8) -23.4 (1.8) | N=123 96.0 (9.7) -20.5 (1.8)  | -- -- --                | -- -- --                      |
 | Treatment Difference vs. placebo                         |                               |                               |                               |                               |                         |                               |
-| Estimate (SE)                                            | --                            | --                            | -11.9 (2.6)                   | --                            | -16.2 (2.5)             | -17.5 (2.6)                   |
-| p-value                                                  | --                            | --                            | <0.001                        | --                            | <0.001                  | <0.001                        |
+| Estimate (SE)                                            | -- --                         | -2.1 (2.5) 0.591              | -6.4 (2.5) 0.034              | -3.5 (2.5) 0.391              | -- --                   | -- --                         |
+| p-value Study D1050231 Baseline Mean (SD) LS Mean Change | N=114 95.8 (10.8) -16.0 (2.1) | N=118 96.6 (10.7) -25.7       | -- -- --                      | N=118 97.9 (11.3) -23.6 (2.1) | -- -- --                | N=121 96.3 (12.2) -28.7 (1.9) |
+| (SE) Treatment Difference vs. placebo                    |                               | (2.0)                         |                               |                               |                         |                               |
+| Estimate (SE) p-value                                    | -- --                         | -9.7 (2.9) 0.002              | -- --                         | -7.5 (3.0) 0.022              | -- --                   | -12.6 (2.8) <0.001            |
+| Study D1050233 Baseline Mean (SD)                        | N=120 96.6 (10.2)             | -- --                         | N=125 97.7 (9.7) -22.2 (1.8)  | -- -- --                      | N=121 97.9 (11.8) -26.5 | N=116 97.7 (10.2) -27.8 (1.8) |
+| LS Mean Change (SE) Treatment Difference                 | -10.3 (1.8)                   | --                            |                               |                               | (1.8)                   |                               |
+| vs. placebo                                              |                               |                               |                               |                               |                         |                               |
+| Estimate                                                 | --                            | --                            | -11.9                         |                               | -16.2                   |                               |
+| p-value                                                  |                               |                               |                               |                               |                         |                               |
+| (SE)                                                     |                               |                               | (2.6)                         | --                            | (2.5)                   | -17.5 (2.6)                   |
+|                                                          | --                            | --                            | <0.001                        | --                            | <0.001                  | <0.001                        |
 
 (a) Olanzapine 15 mg in Study D1050231, quetiapine extended-release (XR) 600 mg in Study D1050233.
 
@@ -513,20 +513,19 @@ The safety profile of lurasidone in children included in this short-term study i
 
 Table 5 Bipolar Depression Paediatric Study: Children's Depression Rating Scale, Revised (CDRS-R) Total Score and Clinical Global Impression-Bipolar Version, Severity of Illness (CGI-BP-S) Depression Score (Depression) - Change From Baseline to Week 6 - MMRM for Study D1050326: Intent-to-Treat Analysis Set
 
-| Parameters                                        | Study Statistic                  | Placebo       | Lurasidone dose 18.5-74 mg (a) (b)   |
-|---------------------------------------------------|----------------------------------|---------------|--------------------------------------|
-| Primary Endpoint: CDRS-R Total Score              |                                  | N=170         | N=173                                |
-| Primary Endpoint: CDRS-R Total Score              | Baseline Mean (SD)               | 58.6 (8.26)   | 59.2 (8.24)                          |
-| Primary Endpoint: CDRS-R Total Score              | LS Mean Change (SE)              | -15.3 (1.08)  | -21.0 (1.06)                         |
-| Primary Endpoint: CDRS-R Total Score              | Treatment Difference vs. placebo |               |                                      |
-| Primary Endpoint: CDRS-R Total Score              | Estimate (SE; 95% CI)            | --            | -5.7 (1.39; -8.4 to -3.0)            |
-| Primary Endpoint: CDRS-R Total Score              | p-value                          | --            | <0.0001                              |
-| Key Secondary Endpoint: CGI-BP-S Depression Score |                                  | N=170         | N=173                                |
-| Key Secondary Endpoint: CGI-BP-S Depression Score | Baseline Mean (SD)               | 4.5           | 4.6                                  |
-| Key Secondary Endpoint: CGI-BP-S Depression Score | LS Mean Change (SE)              | -1.05 (0.087) | -1.49 (0.085)                        |
-| Key Secondary Endpoint: CGI-BP-S Depression Score | Treatment Difference vs. placebo |               |                                      |
-| Key Secondary Endpoint: CGI-BP-S Depression Score | Estimate (SE; 95% CI)            | --            | -0.44 (0.112; -0.66 to -0.22)        |
-| Key Secondary Endpoint: CGI-BP-S Depression Score | p-value                          | --            | <0.0001                              |
+| Parameters                                        | Study Statistic                                                                               | Placebo       | Lurasidone dose 18.5-74 mg (a) (b)   |
+|---------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------|--------------------------------------|
+| Primary Endpoint: CDRS-R Total Score              | Baseline Mean (SD) LS Mean Change (SE) Treatment Difference vs. placebo Estimate (SE; 95% CI) | N=170         | N=173 59.2 (8.24) -21.0 (1.06)       |
+| Primary Endpoint: CDRS-R Total Score              |                                                                                               | 58.6 (8.26)   |                                      |
+| Primary Endpoint: CDRS-R Total Score              |                                                                                               | -15.3 (1.08)  |                                      |
+| Primary Endpoint: CDRS-R Total Score              |                                                                                               | --            | -5.7 (1.39; -8.4 to -3.0)            |
+| Primary Endpoint: CDRS-R Total Score              | p-value                                                                                       | --            | <0.0001                              |
+| Key Secondary Endpoint: CGI-BP-S Depression Score |                                                                                               | N=170         | N=173                                |
+| Key Secondary Endpoint: CGI-BP-S Depression Score | Baseline Mean (SD)                                                                            | 4.5           | 4.6                                  |
+| Key Secondary Endpoint: CGI-BP-S Depression Score | LS Mean Change (SE)                                                                           | -1.05 (0.087) | -1.49 (0.085)                        |
+| Key Secondary Endpoint: CGI-BP-S Depression Score | Treatment Difference vs. placebo                                                              |               |                                      |
+| Key Secondary Endpoint: CGI-BP-S Depression Score | Estimate (SE; 95% CI)                                                                         | --            | -0.44 (0.112; -0.66 to -0.22)        |
+| Key Secondary Endpoint: CGI-BP-S Depression Score | p-value                                                                                       | --            | <0.0001                              |
 
 N is number of subjects.
 
@@ -670,15 +669,23 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Angelini Pharma S.p.A. Viale Amelia 70, 00181 Rome - Italy
+Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A.
+
+Viale Amelia 70, 00181
+
+Rome - Italy
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
 Latuda 18.5 mg film-coated tablet EU/1/14/913/001-007
 
-Latuda 37 mg film-coated tablet EU/1/14/913/008-014
+Latuda 37 mg film-coated tablet
 
-Latuda 74 mg film-coated tablet EU/1/14/913/015-021
+EU/1/14/913/008-014
+
+Latuda 74 mg film-coated tablet
+
+EU/1/14/913/015-021
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -707,7 +714,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer(s) responsible for batch release
 
-Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A. Via Vecchia del Pinocchio, 22 60100 Ancona (AN), Italy
+Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A. Via Vecchia del Pinocchio, 22 60131 Ancona (AN), Italy
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -715,20 +722,20 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-##  Periodic Safety Update Reports
+## · Periodic Safety Update Reports
 
 The requirements for submission of PSUR(s) for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-##  Risk Management Plan (RMP)
+## · Risk Management Plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
 An updated RMP should be submitted:
 
--  Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
--  At the request of the European Medicines Agency;
+- Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
+- At the request of the European Medicines Agency;
 
 <div style=\"page-break-after: always\"></div>
 
@@ -739,6 +746,8 @@ An updated RMP should be submitted:
 <div style=\"page-break-after: always\"></div>
 
 ## A. LABELLING
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -756,19 +765,19 @@ Each film-coated tablet contains lurasidone hydrochloride equivalent to18.6 mg l
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-- 14 x 1 film-coated tablets
+14 x 1 film-coated tablets
 
-- 28 x 1 film-coated tablets
+28 x 1 film-coated tablets
 
-- 30 x 1 film-coated tablets
+30 x 1 film-coated tablets
 
-- 56 x 1 film-coated tablets
+56 x 1 film-coated tablets
 
-- 60 x 1 film-coated tablets
+60 x 1 film-coated tablets
 
-- 90 x 1 film-coated tablets
+90 x 1 film-coated tablets
 
-- 98 x 1 film-coated tablets
+98 x 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -788,8 +797,6 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in the original package in order to protect from light.
@@ -798,11 +805,23 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Angelini Pharma S.p.A. Viale Amelia 70, 00181 Rome - Italy
+Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A. Viale Amelia 70, 00181 Rome - Italy
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/14/913/001 14 x 1 film-coated tablets EU/1/14/913/002 28 x 1 film-coated tablets EU/1/14/913/003 30 x 1 film-coated tablets EU/1/14/913/004 56 x 1 film-coated tablets EU/1/14/913/005 60 x 1 film-coated tablets EU/1/14/913/006 90 x 1 film-coated tablets EU/1/14/913/007 98 x 1 film-coated tablets
+EU/1/14/913/001 14 x 1 film-coated tablets
+
+EU/1/14/913/002 28 x 1 film-coated tablets
+
+EU/1/14/913/003 30 x 1 film-coated tablets
+
+EU/1/14/913/004 56 x 1 film-coated tablets
+
+EU/1/14/913/005 60 x 1 film-coated tablets
+
+EU/1/14/913/006 90 x 1 film-coated tablets
+
+EU/1/14/913/007 98 x 1 film-coated tablets
 
 ## 13. BATCH NUMBER
 
@@ -816,8 +835,7 @@ Lot
 
 Latuda 18.5 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -843,7 +861,7 @@ Latuda 18.5 mg tablets lurasidone
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
-Angelini Pharma S.p.A.
+A.C.R.A.F. S.p.A.
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -859,6 +877,8 @@ Lot
 |------|---------|
 
 30
+
+<div style=\"page-break-after: always\"></div>
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -876,19 +896,19 @@ Each film-coated tablet contains lurasidone hydrochloride equivalent to 37.2 mg 
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-- 14 x 1 film-coated tablets
+14 x 1 film-coated tablets
 
-- 28 x 1 film-coated tablets
+28 x 1 film-coated tablets
 
-- 30 x 1 film-coated tablets
+30 x 1 film-coated tablets
 
-- 56 x 1 film-coated tablets
+56 x 1 film-coated tablets
 
-- 60 x 1 film-coated tablets
+60 x 1 film-coated tablets
 
-- 90 x 1 film-coated tablets
+90 x 1 film-coated tablets
 
-- 98 x 1 film-coated tablets
+98 x 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -908,8 +928,6 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in the original package in order to protect from light.
@@ -918,11 +936,23 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Angelini Pharma S.p.A. Viale Amelia 70, 00181 Rome - Italy
+Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A. Viale Amelia 70, 00181 Rome - Italy
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/14/913/008 14 x 1 film-coated tablets EU/1/14/913/009 28 x 1 film-coated tablets EU/1/14/913/010 30 x 1 film-coated tablets EU/1/14/913/011 56 x 1 film-coated tablets EU/1/14/913/012 60 x 1 film-coated tablets EU/1/14/913/013 90 x 1 film-coated tablets EU/1/14/913/014 98 x 1 film-coated tablets
+EU/1/14/913/008 14 x 1 film-coated tablets
+
+EU/1/14/913/009 28 x 1 film-coated tablets
+
+EU/1/14/913/010 30 x 1 film-coated tablets
+
+EU/1/14/913/011 56 x 1 film-coated tablets
+
+EU/1/14/913/012 60 x 1 film-coated tablets
+
+EU/1/14/913/013 90 x 1 film-coated tablets
+
+EU/1/14/913/014 98 x 1 film-coated tablets
 
 ## 13. BATCH NUMBER
 
@@ -936,8 +966,7 @@ Lot
 
 Latuda 37 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -963,7 +992,7 @@ Latuda 37 mg tablets lurasidone
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
-Angelini Pharma S.p.A.
+A.C.R.A.F. S.p.A.
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -980,15 +1009,15 @@ Lot
 
 33
 
+<div style=\"page-break-after: always\"></div>
+
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
 CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Latuda 74 mg film-coated tablets
-
-lurasidone
+Latuda 74 mg film-coated tablets lurasidone
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -998,19 +1027,19 @@ Each film-coated tablet contains lurasidone hydrochloride equivalent to 74.5 mg 
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-- 14 x 1 film-coated tablets
+14 x 1 film-coated tablets
 
-- 28 x 1 film-coated tablets
+28 x 1 film-coated tablets
 
-- 30 x 1 film-coated tablets
+30 x 1 film-coated tablets
 
-- 56 x 1 film-coated tablets
+56 x 1 film-coated tablets
 
-- 60 x 1 film-coated tablets
+60 x 1 film-coated tablets
 
-- 90 x 1 film-coated tablets
+90 x 1 film-coated tablets
 
-- 98 x 1 film-coated tablets
+98 x 1 film-coated tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -1030,8 +1059,6 @@ EXP
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
-
 ## 9. SPECIAL STORAGE CONDITIONS
 
 Store in the original package in order to protect from light.
@@ -1040,11 +1067,27 @@ Store in the original package in order to protect from light.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Angelini Pharma S.p.A. Viale Amelia 70, 00181 Rome - Italy
+Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A.
+
+Viale Amelia 70, 00181
+
+Rome - Italy
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/14/913/015 14 x 1 film-coated tablets EU/1/14/913/016 28 x 1 film-coated tablets EU/1/14/913/017 30 x 1 film-coated tablets EU/1/14/913/018 56 x 1 film-coated tablets EU/1/14/913/019 60 x 1 film-coated tablets EU/1/14/913/020 90 x 1 film-coated tablets EU/1/14/913/021 98 x 1 film-coated tablets
+EU/1/14/913/015 14 x 1 film-coated tablets
+
+EU/1/14/913/016 28 x 1 film-coated tablets
+
+EU/1/14/913/017 30 x 1 film-coated tablets
+
+EU/1/14/913/018 56 x 1 film-coated tablets
+
+EU/1/14/913/019 60 x 1 film-coated tablets
+
+EU/1/14/913/020 90 x 1 film-coated tablets
+
+EU/1/14/913/021 98 x 1 film-coated tablets
 
 ## 13. BATCH NUMBER
 
@@ -1058,8 +1101,7 @@ Lot
 
 Latuda 74 mg
 
-| 17.   | UNIQUE IDENTIFIER - 2D BARCODE   |
-|-------|----------------------------------|
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1085,7 +1127,7 @@ Latuda 74 mg tablets lurasidone
 | 2.   | NAME OF THE MARKETING AUTHORISATION HOLDER   |
 |------|----------------------------------------------|
 
-Angelini Pharma S.p.A.
+A.C.R.A.F. S.p.A.
 
 | 3.   | EXPIRY DATE   |
 |------|---------------|
@@ -1106,13 +1148,11 @@ Lot
 
 ## B. PACKAGE LEAFLET
 
-<div style=\"page-break-after: always\"></div>
-
 ## Package leaflet: Information for the patient
 
-## Latuda 18.5 mg film-coated tablets Latuda 37 mg film-coated tablets Latuda 74 mg film-coated tablets
+<div style=\"page-break-after: always\"></div>
 
-lurasidone
+Latuda 18.5 mg film-coated tablets Latuda 37 mg film-coated tablets Latuda 74 mg film-coated tablets lurasidone
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
@@ -1140,8 +1180,8 @@ Schizophrenia is a disorder with symptoms such as hearing things, seeing or sens
 
 ## Do not take Latuda:
 
--  if you are allergic to lurasidone or any of the other ingredients of this medicine (listed in section 6)
--  if you are taking medicines which may affect the level of lurasidone in your blood such as:
+- if you are taking medicines which may affect the level of lurasidone in your blood such as:
+- if you are allergic to lurasidone or any of the other ingredients of this medicine (listed in section 6)
 - -medicines for fungal infections such as itraconazole, ketoconazole (except as a shampoo), posaconazole or voriconazole
 - -medicines for an infection such as the antibiotic clarithromycin or telithromycin
 - -medicines for HIV infections such as cobicistat, indinavir, nelfinavir, ritonavir, and saquinavir
@@ -1159,19 +1199,19 @@ It may take several days or even weeks before this medicine will have a full eff
 
 Talk to your doctor or pharmacist before taking Latuda, or during treatment, especially if you have:
 
--  suicidal thoughts or behaviour
--  Parkinson's disease or dementia
--  ever been diagnosed with a condition whose symptoms include high temperature and muscle stiffness (also known as neuroleptic malignant syndrome) or if you have ever experienced rigidity, tremors or problems moving (extrapyramidal symptoms) or abnormal movements of the tongue or face (tardive dyskinesia). You should be aware that these conditions may be caused by this medicine
--  heart disease or heart disease treatment that makes you prone to low blood pressure or have a family history of irregular heartbeat (including QT prolongation)
--  a history of seizures (fits) or epilepsy
--  a history of blood clots, or if someone else in your family has a history of blood clots, as medicines for schizophrenia have been associated with formation of blood clots
--  enlarged breasts in male (gynecomastia), milky nipple discharge (galactorrhea), absence of menstruation (amenorrhea) or erectile dysfunction
--  diabetes or are prone to diabetes
--  decreased kidney function
--  decreased liver function
--  an increase in your weight
--  blood pressure dropping upon your standing up which may cause fainting
--  opioid dependence (treated with buprenorphine) or severe pain (treated with opioids) or depression or other conditions that are treated with antidepressants. The use of these medicines together with Latuda can lead to serotonin syndrome, a potentially life-threatening condition (see 'Other medicines and Latuda').
+- Parkinson's disease or dementia
+- suicidal thoughts or behaviour
+- ever been diagnosed with a condition whose symptoms include high temperature and muscle stiffness (also known as neuroleptic malignant syndrome) or if you have ever experienced rigidity, tremors or problems moving (extrapyramidal symptoms) or abnormal movements of the tongue or face (tardive dyskinesia). You should be aware that these conditions may be caused by this medicine
+- a history of seizures (fits) or epilepsy
+- heart disease or heart disease treatment that makes you prone to low blood pressure or have a family history of irregular heartbeat (including QT prolongation)
+- a history of blood clots, or if someone else in your family has a history of blood clots, as medicines for schizophrenia have been associated with formation of blood clots
+- diabetes or are prone to diabetes
+- enlarged breasts in male (gynecomastia), milky nipple discharge (galactorrhea), absence of menstruation (amenorrhea) or erectile dysfunction
+- decreased kidney function
+- an increase in your weight
+- decreased liver function
+- blood pressure dropping upon your standing up which may cause fainting
+- opioid dependence (treated with buprenorphine) or severe pain (treated with opioids) or depression or other conditions that are treated with antidepressants. The use of these medicines together with Latuda can lead to serotonin syndrome, a potentially life-threatening condition (see 'Other medicines and Latuda').
 
 If you have any of these conditions, please talk to your doctor as he/she may want to adjust your dose, monitor you more closely or stop treatment with Latuda.
 
@@ -1183,11 +1223,11 @@ Do not give this medicine to children below 13 years of age.
 
 Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines. This is especially important if you are taking:
 
--  any medicines that also work in the brain, as their effects could be additive in a negative way with the effects of Latuda on your brain
--  medicines that lower blood pressure, as this medicine can also lower blood pressure
--  medicines for Parkinson's disease and restless legs syndrome (e.g. levodopa) as this medicine can reduce their effects
--  medicines containing ergot alkaloid derivatives (used for treating migraines), and other medicines including terfenadine and astemizole (used for treating hay fever and other allergic conditions), cisapride (used for treating digestive problems), pimozide (used to treating psychiatric illnesses), quinidine (used for treating heart conditions), bepridil (used for treating chest pain)
--  medicines containing buprenorphine (used for treating opioid dependence) or opioids (used for treating sever pain) or anti-depressants such as moclobemide, tranylcypromine, citalopram, escitalopram, fluoxetine, fluvoxamine, paroxetine, sertraline, duloxetine, venlafaxine, amitriptyline, doxepine, or trimipramine. These medicines may interact with Latuda and you may experience symptoms such as involuntary, rhythmic contractions of muscles, including the muscles that control movement of the eye, agitation, hallucinations, coma, excessive sweating,
+- medicines that lower blood pressure, as this medicine can also lower blood pressure
+- any medicines that also work in the brain, as their effects could be additive in a negative way with the effects of Latuda on your brain
+- medicines for Parkinson's disease and restless legs syndrome (e.g. levodopa) as this medicine can reduce their effects
+- medicines containing buprenorphine (used for treating opioid dependence) or opioids (used for treating sever pain) or anti-depressants such as moclobemide, tranylcypromine, citalopram, escitalopram, fluoxetine, fluvoxamine, paroxetine, sertraline, duloxetine, venlafaxine, amitriptyline, doxepine, or trimipramine. These medicines may interact with Latuda and you may experience symptoms such as involuntary, rhythmic contractions of muscles, including the muscles that control movement of the eye, agitation, hallucinations, coma, excessive sweating,
+- medicines containing ergot alkaloid derivatives (used for treating migraines), and other medicines including terfenadine and astemizole (used for treating hay fever and other allergic conditions), cisapride (used for treating digestive problems), pimozide (used to treating psychiatric illnesses), quinidine (used for treating heart conditions), bepridil (used for treating chest pain)
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1197,20 +1237,20 @@ Tell your doctor if you take any of these medicines since your doctor may have t
 
 The following medicines may increase the level of lurasidone in your blood:
 
--  diltiazem (to treat high blood pressure)
--  erythromycin (to treat infections)
--  fluconazole (to treat fungal infections)
--  verapamil (to treat high blood pressure or chest pain).
+- erythromycin (to treat infections)
+- diltiazem (to treat high blood pressure)
+- fluconazole (to treat fungal infections)
+- verapamil (to treat high blood pressure or chest pain).
 
 The following medicines may decrease the level of lurasidone in your blood:
 
--  amprenavir, efavirenz, etravirine (to treat HIV infection)
--  aprepitant (to treat nausea and vomiting)
--  armodafinil, modafinil (to treat sleepiness)
--  bosentan (to treat high blood pressure or ulcers of the fingers)
--  nafcillin (to treat infections)
--  prednisone (to treat inflammatory disease)
--  rufinamide (to treat seizures).
+- aprepitant (to treat nausea and vomiting)
+- amprenavir, efavirenz, etravirine (to treat HIV infection)
+- armodafinil, modafinil (to treat sleepiness)
+- nafcillin (to treat infections)
+- bosentan (to treat high blood pressure or ulcers of the fingers)
+- prednisone (to treat inflammatory disease)
+- rufinamide (to treat seizures).
 
 Tell your doctor if you take any of these medicines since your doctor may change your dose of Latuda.
 
@@ -1228,7 +1268,7 @@ You should not take this medicine during pregnancy unless this has been agreed w
 
 If your doctor decides that the potential benefit of treatment during pregnancy justifies the potential risk to your unborn baby, your doctor will monitor your baby closely after birth. This is because the following symptoms may occur in newborn babies of mothers that have used lurasidone in the last trimester (last three months) of their pregnancy:
 
--  shaking, muscle stiffness and/or weakness, sleepiness, agitation, breathing problems, and difficulty in feeding.
+- shaking, muscle stiffness and/or weakness, sleepiness, agitation, breathing problems, and difficulty in feeding.
 
 If your baby develops any of these symptoms you should contact your doctor.
 
@@ -1250,9 +1290,9 @@ Always take this medicine exactly as your doctor or pharmacist has told you. Che
 
 Your dose will be decided by your doctor and may depend on:
 
--  how well you respond to a dose
--  if you are taking some other medicines (see section 2, Other medicines and Latuda)
--  if you have kidney or liver problems.
+- if you are taking some other medicines (see section 2, Other medicines and Latuda)
+- how well you respond to a dose
+- if you have kidney or liver problems.
 
 ## Adults (aged 18 years and over)
 
@@ -1290,97 +1330,97 @@ Like all medicines, this medicine can cause side effects, although not everybody
 
 ## If you notice any of the following symptoms seek medical attention immediately :
 
--  a severe allergic reaction seen as fever, swollen mouth, face, lip or tongue, shortness of breath, itching, skin rash and sometimes a drop in blood pressure (hypersensitivity). These reactions are seen commonly (may affect up to 1 in 10 people)
--  a serious blistering rash affecting the skin, mouth, eyes and genitals (Stevens-Johnson syndrome). This reaction is seen with unknown frequency
--  fever, sweating, muscle stiffness, and reduced consciousness. These could be symptoms of a condition known as neuroleptic malignant syndrome. These reactions are seen rarely (may affect up to 1 in 1,000 people)
+- a serious blistering rash affecting the skin, mouth, eyes and genitals (Stevens-Johnson syndrome). This reaction is seen with unknown frequency
+- a severe allergic reaction seen as fever, swollen mouth, face, lip or tongue, shortness of breath, itching, skin rash and sometimes a drop in blood pressure (hypersensitivity). These reactions are seen commonly (may affect up to 1 in 10 people)
+- fever, sweating, muscle stiffness, and reduced consciousness. These could be symptoms of a condition known as neuroleptic malignant syndrome. These reactions are seen rarely (may affect up to 1 in 1,000 people)
 
 <div style=\"page-break-after: always\"></div>
 
--  blood clots in the veins especially in the legs (symptoms include swelling, pain and redness in the leg), which may travel through blood vessels to the lungs causing chest pain and difficulty in breathing. If you notice any of these symptoms seek medical advice immediately.
+- blood clots in the veins especially in the legs (symptoms include swelling, pain and redness in the leg), which may travel through blood vessels to the lungs causing chest pain and difficulty in breathing. If you notice any of these symptoms seek medical advice immediately.
 
 ## The following side effects may also happen in adults:
 
 ## Very common (may affect more than 1 in 10 people):
 
--  feeling of restlessness and inability to sit still
--  nausea (feeling sick)
--  insomnia.
+- nausea (feeling sick)
+- feeling of restlessness and inability to sit still
+- insomnia.
 
 ## Common (may affect up to 1 in 10 people):
 
--  Parkinsonism: this is a medical term that describes many symptoms which include increase in saliva secretion or watery mouth, drooling, jerks when bending the limbs, slow, reduced or impaired body movements, no expression in the face, muscle tightness, stiff neck, muscle stiffness, small, shuffling, hurried steps and lack of normal arm movements when walking, persistent blinking in response to tapping of the forehead (an abnormal reflex)
--  speech problems, unusual muscle movements; a collection of symptoms known as extrapyramidal symptoms (EPS) which typically will involve unusual purposeless involuntary muscle movements
--  fast heartbeat
--  increased blood pressure
--  dizziness
--  muscle spasms and stiffness
--  vomiting (being sick)
--  diarrhoea
--  back pain
--  rash and itching
--  indigestion
--  dry mouth or excess saliva
--  abdominal pain
--  somnolence, tiredness, agitation and anxiety
--  weight gain
--  increase in creatine phosphokinase (an enzyme in muscles) seen in blood tests
--  increase in creatinine (a marker of kidney function) seen in blood tests
--  reduced appetite.
+- speech problems, unusual muscle movements; a collection of symptoms known as extrapyramidal symptoms (EPS) which typically will involve unusual purposeless involuntary muscle movements
+- Parkinsonism: this is a medical term that describes many symptoms which include increase in saliva secretion or watery mouth, drooling, jerks when bending the limbs, slow, reduced or impaired body movements, no expression in the face, muscle tightness, stiff neck, muscle stiffness, small, shuffling, hurried steps and lack of normal arm movements when walking, persistent blinking in response to tapping of the forehead (an abnormal reflex)
+- fast heartbeat
+- dizziness
+- increased blood pressure
+- muscle spasms and stiffness
+- diarrhoea
+- vomiting (being sick)
+- back pain
+- indigestion
+- rash and itching
+- dry mouth or excess saliva
+- somnolence, tiredness, agitation and anxiety
+- abdominal pain
+- weight gain
+- increase in creatinine (a marker of kidney function) seen in blood tests
+- increase in creatine phosphokinase (an enzyme in muscles) seen in blood tests
+- reduced appetite.
 
 ## Uncommon (may affect up to 1 in 100 people):
 
--  slurred speech
--  nightmares
--  difficulty swallowing
--  irritation to lining of stomach
--  sudden feelings of anxiety
--  convulsion (fits)
--  chest pain
--  muscle aches
--  temporary loss of consciousness
--  spinning sensation
--  abnormal nerve impulses in the heart
--  slow heart rate
--  joint pains
--  problems walking
--  rigid posture
--  increased blood prolactin, increased blood glucose (blood sugar), increase in some liver enzymes, seen in blood tests
+- nightmares
+- slurred speech
+- difficulty swallowing
+- sudden feelings of anxiety
+- irritation to lining of stomach
+- convulsion (fits)
+- muscle aches
+- chest pain
+- temporary loss of consciousness
+- abnormal nerve impulses in the heart
+- spinning sensation
+- slow heart rate
+- problems walking
+- joint pains
+- rigid posture
+- increased blood prolactin, increased blood glucose (blood sugar), increase in some liver enzymes, seen in blood tests
 
 <div style=\"page-break-after: always\"></div>
 
--  blood pressure dropping upon standing up which may cause fainting
--  common cold
--  hot flush
--  blurred vision
--  sweating
--  pain when passing urine
--  uncontrollable movements of mouth, tongue and limbs (tardive dyskinesia)
--  low blood levels of sodium which can cause tiredness and confusion, muscle twitching, fits and coma (hyponatremia)
--  lack of energy (lethargy)
--  gas (flatulence)
--  neck pain
--  problems with erections
--  painful or absence of menstrual periods
--  reduced levels of red blood cells (which carry oxygen around the body).
+- blood pressure dropping upon standing up which may cause fainting
+- hot flush
+- common cold
+- blurred vision
+- pain when passing urine
+- sweating
+- uncontrollable movements of mouth, tongue and limbs (tardive dyskinesia)
+- lack of energy (lethargy)
+- low blood levels of sodium which can cause tiredness and confusion, muscle twitching, fits and coma (hyponatremia)
+- gas (flatulence)
+- problems with erections
+- neck pain
+- painful or absence of menstrual periods
+- reduced levels of red blood cells (which carry oxygen around the body).
 
 ## Rare (may affect up to 1 in 1,000 people):
 
--  Rhabdomyolysis which is the breakdown of muscle fibres that leads to the release of muscle fibre contents (myoglobin) into the bloodstream, seen as muscle pain, being sick, being confused, an abnormal heart rate and rhythm, and possibly dark urine
--  increase in eosinophils (a type of white blood cell)
--  swelling beneath the skin surface (angioedema)
--  deliberate injury to oneself
--  cerebrovascular accident
--  kidney failure
--  reduced levels of white blood cells (which fight infection)
--  breast pain, milk secretion from breasts
--  sudden death.
+- increase in eosinophils (a type of white blood cell)
+- Rhabdomyolysis which is the breakdown of muscle fibres that leads to the release of muscle fibre contents (myoglobin) into the bloodstream, seen as muscle pain, being sick, being confused, an abnormal heart rate and rhythm, and possibly dark urine
+- swelling beneath the skin surface (angioedema)
+- cerebrovascular accident
+- deliberate injury to oneself
+- kidney failure
+- breast pain, milk secretion from breasts
+- reduced levels of white blood cells (which fight infection)
+- sudden death.
 
 ## Not known (frequency cannot be estimated from the available data):
 
--  reduced levels of a subgroup of white blood cells (neutrophils)
--  sleep disorder
--  newborn babies may show the following: agitation, increase or decreases in muscle tone, tremor, sleepiness, breathing or feeding problems
--  abnormal breast enlargement.
+- sleep disorder
+- reduced levels of a subgroup of white blood cells (neutrophils)
+- newborn babies may show the following: agitation, increase or decreases in muscle tone, tremor, sleepiness, breathing or feeding problems
+- abnormal breast enlargement.
 
 In elderly people with dementia, a small increase in the number of deaths has been reported for patients taking medicines for schizophrenia compared with those not receiving these medicines.
 
@@ -1388,104 +1428,104 @@ In elderly people with dementia, a small increase in the number of deaths has be
 
 ## Very common (may affect more than 1 in 10 people):
 
--  feeling of restlessness and inability to sit still
--  headache
--  sleepiness
--  nausea (feeling sick).
+- headache
+- feeling of restlessness and inability to sit still
+- sleepiness
+- nausea (feeling sick).
 
 ## Common (may affect up to 1 in 10 people):
 
--  reduced or increased appetite
--  abnormal dreams
--  difficulty in sleeping, tension, agitation, anxiety and irritability
--  physical weakness, tiredness
--  depression
--  psychotic disorder: this is a medical term that describes many mental diseases that cause abnormal thinking and perceptions; people with psychoses lose touch with reality
+- abnormal dreams
+- reduced or increased appetite
+- difficulty in sleeping, tension, agitation, anxiety and irritability
+- depression
+- physical weakness, tiredness
+- psychotic disorder: this is a medical term that describes many mental diseases that cause abnormal thinking and perceptions; people with psychoses lose touch with reality
 
 <div style=\"page-break-after: always\"></div>
 
--  symptoms of schizophrenia
--  difficulty in attention
--  spinning sensation
--  abnormal involuntary movements (dyskinesia)
--  abnormal muscle tone, including torticollis and involuntary upward deviation of the eyes,
--  Parkinsonism: this is a medical term that describes many symptoms which include increase in saliva  secretion  or  watery  mouth,  drooling,  jerks  when  bending  the  limbs,  slow,  reduced  or impaired body movements, no expression in the face, muscle tightness, stiff neck, muscle stiffness, small,  shuffling,  hurried  steps  and  lack  of  normal  arm  movements  when  walking,  persistent blinking in response to tapping of the forehead (an abnormal reflex)
--  fast heartbeat
--  difficulty in emptying the bowels (constipation)
--  dry mouth or excess saliva
--  vomiting (being sick)
--  sweating
--  muscle rigidity
--  problems with erections
--  increase in creatine phosphokinase (an enzyme in muscles) seen in blood tests
--  increase in blood prolactin (a hormone), seen in blood tests
--  weight gain or loss.
+- symptoms of schizophrenia
+- spinning sensation
+- difficulty in attention
+- abnormal involuntary movements (dyskinesia)
+- Parkinsonism: this is a medical term that describes many symptoms which include increase in saliva  secretion  or  watery  mouth,  drooling,  jerks  when  bending  the  limbs,  slow,  reduced  or impaired body movements, no expression in the face, muscle tightness, stiff neck, muscle stiffness, small,  shuffling,  hurried  steps  and  lack  of  normal  arm  movements  when  walking,  persistent blinking in response to tapping of the forehead (an abnormal reflex)
+- abnormal muscle tone, including torticollis and involuntary upward deviation of the eyes,
+- fast heartbeat
+- dry mouth or excess saliva
+- difficulty in emptying the bowels (constipation)
+- vomiting (being sick)
+- muscle rigidity
+- sweating
+- problems with erections
+- increase in blood prolactin (a hormone), seen in blood tests
+- increase in creatine phosphokinase (an enzyme in muscles) seen in blood tests
+- weight gain or loss.
 
 ## Uncommon (may affect up to 1 in 100 people):
 
--  hypersensitivity
--  common cold, infection of throat and nose
--  decreased activity of thyroid, inflammation of thyroid
--  aggressive behaviour, impulsive behaviour
--  apathy
--  confusional state
--  depressed mood
--  separation of normal mental processes (dissociation)
--  hallucination (auditory or visual)
--  homicidal thoughts
--  difficulty in sleeping
--  sexual desire increased or decreased
--  lack of energy
--  mental condition changes
--  obsessive thoughts
--  feeling of acute and disabling anxiety (panic attack)
--  engage in involuntary movements that serve no purpose (psychomotor hyperactivity)
--  hyperactivity of the muscles in the body (hyperkinesia), inability to rest (restlessness)
--  uncontrollable urge to move legs (restless legs syndrome), uncontrollable movements of mouth, tongue and limbs (tardive dyskinesia)
--  sleep disorder
--  deliberate suicidal thoughts
--  thinking abnormal
--  unsteadiness (spinning sensation)
--  alteration of taste
--  memory impairment
--  abnormal skin sensation (paraesthesia)
--  feeling like with a tight band around head (tension headache), migraine
--  difficulty of the eyes in focusing, vision blurred
--  increased sensitivity of hearing
--  palpitations, alterations in heart rhythm
--  blood pressure dropping upon standing up which may cause fainting
+- common cold, infection of throat and nose
+- hypersensitivity
+- decreased activity of thyroid, inflammation of thyroid
+- apathy
+- aggressive behaviour, impulsive behaviour
+- confusional state
+- separation of normal mental processes (dissociation)
+- depressed mood
+- hallucination (auditory or visual)
+- difficulty in sleeping
+- homicidal thoughts
+- sexual desire increased or decreased
+- mental condition changes
+- lack of energy
+- obsessive thoughts
+- engage in involuntary movements that serve no purpose (psychomotor hyperactivity)
+- feeling of acute and disabling anxiety (panic attack)
+- hyperactivity of the muscles in the body (hyperkinesia), inability to rest (restlessness)
+- sleep disorder
+- uncontrollable urge to move legs (restless legs syndrome), uncontrollable movements of mouth, tongue and limbs (tardive dyskinesia)
+- deliberate suicidal thoughts
+- unsteadiness (spinning sensation)
+- thinking abnormal
+- alteration of taste
+- abnormal skin sensation (paraesthesia)
+- memory impairment
+- feeling like with a tight band around head (tension headache), migraine
+- increased sensitivity of hearing
+- difficulty of the eyes in focusing, vision blurred
+- palpitations, alterations in heart rhythm
+- blood pressure dropping upon standing up which may cause fainting
 
 <div style=\"page-break-after: always\"></div>
 
--  increased blood pressure
--  abdominal pain or disturbance
--  absence of or deficiency in secretion of saliva
--  diarrhoea
--  indigestion
--  lip dry
--  toothache
--  partial or complete absence of hair, hair growth abnormal
--  rash, urticaria
--  muscle spasms and stiffness, muscle aches
--  joint pains, pain in arms and legs, pain in jaw
--  presence of bilirubin in urine, presence of protein in urine, a marker of kidney function
--  pain or difficulty when passing urine, frequent urination, renal disorder
--  sexual dysfunction
--  difficulty in ejaculation
--  abnormal breast enlargement, breast pain, milk secretion from breasts
--  menstruation absent or irregular
--  make uncontrolled noises and movements (Tourette's disorder)
--  chills
--  problems walking
--  malaise
--  chest pain
--  fever
--  intentional overdose
--  effects on the thyroid function, seen in blood tests increased blood cholesterol, increased blood triglycerides, decreased high density lipoprotein, decreased low density lipoprotein, seen in blood tests
--  increased blood glucose (blood sugar), increased blood insulin, increase in some liver enzymes (a marker of liver function), seen in blood tests
--  increased or decreased blood testosterone, increased blood thyroid stimulating hormone, seen in blood tests
--  electrocardiogram alterations
--  decreased haemoglobin, reduced levels of white blood cells (which fight infection) seen in blood tests.
+- increased blood pressure
+- absence of or deficiency in secretion of saliva
+- abdominal pain or disturbance
+- diarrhoea
+- lip dry
+- indigestion
+- toothache
+- rash, urticaria
+- partial or complete absence of hair, hair growth abnormal
+- muscle spasms and stiffness, muscle aches
+- presence of bilirubin in urine, presence of protein in urine, a marker of kidney function
+- joint pains, pain in arms and legs, pain in jaw
+- pain or difficulty when passing urine, frequent urination, renal disorder
+- difficulty in ejaculation
+- sexual dysfunction
+- abnormal breast enlargement, breast pain, milk secretion from breasts
+- make uncontrolled noises and movements (Tourette's disorder)
+- menstruation absent or irregular
+- chills
+- malaise
+- problems walking
+- chest pain
+- intentional overdose
+- fever
+- effects on the thyroid function, seen in blood tests increased blood cholesterol, increased blood triglycerides, decreased high density lipoprotein, decreased low density lipoprotein, seen in blood tests
+- increased or decreased blood testosterone, increased blood thyroid stimulating hormone, seen in blood tests
+- increased blood glucose (blood sugar), increased blood insulin, increase in some liver enzymes (a marker of liver function), seen in blood tests
+- electrocardiogram alterations
+- decreased haemoglobin, reduced levels of white blood cells (which fight infection) seen in blood tests.
 
 ## Reporting of side effects
 
@@ -1507,17 +1547,16 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Latuda contains
 
--  The active substance is lurasidone.
-
 Each 18.5 mg tablet contains lurasidone hydrochloride equivalent to 18.6 mg lurasidone. Each 37 mg tablet contains lurasidone hydrochloride equivalent to 37.2 mg lurasidone. Each 74 mg tablet contains lurasidone hydrochloride equivalent to 74.5 mg lurasidone.
 
--  The other ingredients are mannitol, pregelatinised starch, croscarmellose sodium, hypromellose 2910, magnesium stearate (E470b), titanium dioxide (E171), macrogol, yellow iron oxide (E172) (present in 74 mg tablets), indigotine (E132) (present in 74 mg tablets) and carnauba wax (E903).
+- The active substance is lurasidone.
+- The other ingredients are mannitol, pregelatinised starch, croscarmellose sodium, hypromellose 2910, magnesium stearate (E470b), titanium dioxide (E171), macrogol, yellow iron oxide (E172) (present in 74 mg tablets), indigotine (E132) (present in 74 mg tablets) and carnauba wax (E903).
 
 ## What Latuda looks like and contents of the pack
 
--  Latuda 18.5 mg film-coated tablets are white to off-white, film-coated round tablets debossed with 'LA'
--  Latuda 37 mg film-coated tablets are white to off-white, film-coated round tablets debossed with 'LB'
--  Latuda 74 mg film-coated tablets are pale green, film-coated oval tablets debossed with 'LD'.
+- Latuda 37 mg film-coated tablets are white to off-white, film-coated round tablets debossed with 'LB'
+- Latuda 18.5 mg film-coated tablets are white to off-white, film-coated round tablets debossed with 'LA'
+- Latuda 74 mg film-coated tablets are pale green, film-coated oval tablets debossed with 'LD'.
 
 Latuda film-coated tablets are available in pack sizes containing 14 x 1, 28 x 1, 30 x 1, 56 x 1, 60 x 1, 90 x 1 or 98 x 1 film-coated tablet in aluminium/aluminium perforated unit dose blisters.
 
@@ -1525,11 +1564,11 @@ Not all pack sizes may be marketed.
 
 ## Marketing Authorisation Holder
 
-Angelini Pharma S.p.A. Viale Amelia 70, 00181 Rome - Italy
+Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A. Viale Amelia 70, 00181 Rome - Italy
 
 ## Manufacturer
 
-Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A. Via Vecchia del Pinocchio, 22 60100 Ancona (AN), Italy
+Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A. Via Vecchia del Pinocchio, 22 60131 Ancona (AN), Italy
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1541,18 +1580,18 @@ For any information about this medicine, please contact the local representative
 
 <div style=\"page-break-after: always\"></div>
 
-| Germany/ Deutschland CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                    | Netherlands/ Nederland CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com              |
-|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| Estonia/ Eesti CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                          | Norway/ Norge CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                       |
-| Greece/ Ελλάδα Angelini Pharma Hellas Μονοπρόσωπη ABEE info@angelinipharma.gr                          | Austria/ Österreich Angelini Pharma Österreich GmbH office@angelini.at                             |
-| Spain/ España ANGELINI PHARMA ESPAÑA, S.L. Tel: + 34 93 253 45 00                                      | Poland/ Polska Angelini Pharma Polska Sp. z o.o. angelini@angelini.pl                              |
-| France CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                                  | Portugal Angelini Pharma Portugal, Unipessoal Lda apoio.utente@angelini.pt                         |
-| Croatia/ Hrvatska Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A. Tel: + 39 06 78 0531 | Romania/ România Angelini Pharmaceuticals România SRL office@angelini.ro                           |
-| Ireland CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                                 | Slovenia/ Slovenija Bonifar d.o.o. Tel: + 386 1 235 0490                                           |
-| Iceland/ Ísland CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                         | Slovak republic/ Slovenská republika Angelini Pharma Slovenská republika s.r.o. office@angelini.sk |
-| Italy/ Italia Angelini Pharma S.p.A. Tel: + 39 06 78 0531                                              | Suomi/ Finland CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                      |
-| Cyprus/ Κύπρος Angelini Pharma Hellas Μονοπρόσωπη ABEE info@angelinipharma.gr                          | Sweden/ Sverige CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                     |
-| Latvia/ Latvija CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                         | Northern Ireland CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                    |
+| Germany/ Deutschland CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                           | Netherlands/ Nederland CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com              |
+|---------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| Estonia/ Eesti CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                                 | Norway/ Norge CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                       |
+| Greece/ Ελλάδα Angelini Pharma Hellas ΜΟΝΟΠΡΟΣΩΠΗ ABEE ΠΑΡΑΓΩΓΗΣ ΚΑΙ ΕΜΠΟΡΙΑΣ ΦΑΡΜΑΚΩΝ info@angelinipharma.gr | Austria/ Österreich Angelini Pharma Österreich GmbH office@angelini.at                             |
+| Spain/ España ANGELINI PHARMA ESPAÑA, S.L. Tel: + 34 93 253 45 05                                             | Poland/ Polska Angelini Pharma Polska Sp. z o.o. angelini@angelini.pl                              |
+| France CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                                         | Portugal Angelini Pharma Portugal, Unipessoal Lda farmacovigilancia@angelini.pt                    |
+| Croatia/ Hrvatska Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A. Tel: + 39 06 78 0531        | Romania/ România Angelini Pharmaceuticals România SRL office@angelini.ro                           |
+| Ireland CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                                        | Slovenia/ Slovenija Bonifar d.o.o. Tel: + 386 1 235 0490                                           |
+| Iceland/ Ísland CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                                | Slovak republic/ Slovenská republika Angelini Pharma Slovenská republika s.r.o. office@angelini.sk |
+| Italy/ Italia Angelini Pharma S.p.A. Tel: +39 071 809 809                                                     | Suomi/ Finland CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                      |
+| Cyprus/ Κύπρος Angelini Pharma Hellas ΜΟΝΟΠΡΟΣΩΠΗ ABEE ΠΑΡΑΓΩΓΗΣ ΚΑΙ ΕΜΠΟΡΙΑΣ ΦΑΡΜΑΚΩΝ info@angelinipharma.gr | Sweden/ Sverige CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                     |
+| Latvia/ Latvija CNX Therapeutics Netherlands B.V. medinfo@cnx-therapeutics.com                                |                                                                                                    |
 
 ## This leaflet was last revised in
 

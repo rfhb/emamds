@@ -1,16 +1,16 @@
 ---
-document_datetime: 2025-05-06 11:35:53
-document_pages: 44
+document_datetime: 2026-01-13 10:54:18
+document_pages: 42
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/mavenclad-epar-product-information_en.pdf
 document_name: mavenclad-epar-product-information_en.pdf
 version: success
-processing_time: 10.8566442
-conversion_datetime: 2025-12-29 19:20:46.669104
+processing_time: 10.8240731
+conversion_datetime: 2026-01-14 07:15:34.357394
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
   docling-parse: 4.7.2
   python: cpython-313 (3.13.11)
@@ -217,7 +217,7 @@ Before initiation of treatment both in year 1 and year 2, women of childbearing 
 
 Women of childbearing potential must prevent pregnancy by use of effective contraception during cladribine treatment and for at least 6 months after the last dose (see section 4.5).
 
-Male patients must take precautions to prevent pregnancy of their female partner during cladribine treatment and for at least 6 months after the last dose.
+Male patients must take precautions to prevent pregnancy of their female partner during cladribine treatment and for at least 3 months after the last dose.
 
 ## Blood transfusions
 
@@ -289,7 +289,7 @@ Before initiation of treatment both in year 1 and year 2, women of childbearing 
 
 In women of childbearing potential, pregnancy must be excluded before the initiation of MAVENCLAD in year 1 and year 2, and prevented by use of effective contraception during cladribine treatment and for at least 6 months after the last dose. Women who become pregnant under therapy with MAVENCLAD should discontinue treatment.
 
-As cladribine interferes with DNA synthesis, adverse effects on human gametogenesis could be expected (see section 5.3). Therefore, male patients must take precautions to prevent pregnancy of their partner during cladribine treatment and for at least 6 months after the last dose.
+As cladribine interferes with DNA synthesis, adverse effects on human gametogenesis could be expected (see section 5.3). Therefore, male patients must take precautions to prevent pregnancy of their partner during cladribine treatment and for at least 3 months after the last dose.
 
 ## Pregnancy
 
@@ -307,7 +307,7 @@ Limited data from case reports have shown that cladribine is excreted in human m
 
 In mice, there were no effects on fertility or the reproductive function of offspring. However, testicular effects were observed in mice and monkeys (see section 5.3).
 
-As cladribine interferes with DNA synthesis, adverse effects on human gametogenesis could be expected. Therefore, male patients must take precautions to prevent pregnancy of their partner during cladribine treatment and for at least 6 months after the last dose (see above).
+As cladribine interferes with DNA synthesis, adverse effects on human gametogenesis could be expected. Therefore, male patients must take precautions to prevent pregnancy of their partner during cladribine treatment and for at least 3 months after the last dose (see above).
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -729,7 +729,7 @@ The prescriber / patient guide should include information about the following sa
 - b. Patients should be advised to undertake standard cancer screening after Mavenclad treatment;
 3. Teratogenicity/adverse pregnancy outcomes, to ensure that female patients of child bearing potential / partners of male patients receiving Mavenclad:
 - a. Receive counselling before starting the treatment (consisting of two treatment courses administered at the beginning of two consecutive years) both in year 1 and year 2;
-- b. Use effective contraception during the treatment and for at least 6 months after the last dose.
+- b. Use effective contraception during the treatment and for at least 6 months after the last dose for female patients, and 3 months for male patients.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1004,7 +1004,7 @@ MAVENCLAD may cause liver problems. Talk to your doctor before taking MAVENCLAD 
 
 ## Contraception
 
-Men and women must use effective contraception during treatment and for at least 6 months after the last dose. This is important because MAVENCLAD can seriously harm your baby.
+Women must use effective contraception during treatment and for at least 6 months after the last dose. Men must use effective contraception during treatment and for at least 3 months after the last dose. This is important because MAVENCLAD can seriously harm your baby.
 
 See also 'Pregnancy and breast-feeding'.
 
@@ -1051,7 +1051,7 @@ Do not take MAVENCLAD if you are pregnant or trying to become pregnant. This is 
 
 You must use effective methods of contraception to avoid becoming pregnant during MAVENCLAD treatment and for 6 months after taking the last dose. If you get pregnant more than 6 months after the last dose in year 1, no safety risk is expected but this will mean that you cannot receive treatment with MAVENCLAD while you are pregnant.
 
-Men must use effective methods of contraception to prevent their partner from getting pregnant while being treated with MAVENCLAD and for 6 months after the last dose.
+Men must use effective methods of contraception while being treated with MAVENCLAD and for 3 months after the last dose.
 
 Your doctor will give you guidance on appropriate methods of contraception.
 
@@ -1125,7 +1125,7 @@ Table 2
 
 Take the tablet(s) at about the same time each day. Swallow them with water and without chewing. You do not have to take the tablets at meal times. You can take them with meals or between meals.
 
-## Read the 'Step-by-Step Guide' at the end of this package leaflet on how to handle the childresistant package and how to take the tablets included in the pack.
+Read the 'Step-by-Step Guide' at the end of this package leaflet on how to handle the childresistant package and how to take the tablets included in the pack.
 
 ## Important
 
@@ -1299,25 +1299,3 @@ MAVENCLAD is packed in a reclosable, child-resistant carton and must be kept out
 8. Push the tray back into the carton. Store in the original package in order to protect from moisture.
 
 Keep your tablets in the blister until your next dose. Do not pop the tablets out of the blister. Do not store the tablets in a different container.
-
-<div style=\"page-break-after: always\"></div>
-
-## ANNEX IV
-
-## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
-
-<div style=\"page-break-after: always\"></div>
-
-## Scientific conclusions
-
-Taking into account the PRAC Assessment Report on the PSUR(s) for cladribine (multiple sclerosis), the scientific conclusions of PRAC are as follows:
-
-In view of available data on excretion of cladribine in human breastmilk from the literature, the PRAC considers that excretion of cladribine in human milk is at least a reasonable possibility. The PRAC concluded that the product information of products containing cladribine (multiple sclerosis) should be amended accordingly.
-
-Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
-
-## Grounds for the variation to the terms of the Marketing Authorisation(s)
-
-On the basis of the scientific conclusions for cladribine (multiple sclerosis) the CHMP is of the opinion that the benefit-risk balance of the medicinal product(s) containing cladribine (multiple sclerosis) is unchanged subject to the proposed changes to the product information.
-
-The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-02 04:58:06
+document_datetime: 2026-01-16 16:36:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/sugammadex-adroiq.html
 document_name: sugammadex-adroiq.html
 version: success
-processing_time: 0.1238491
-conversion_datetime: 2025-12-28 01:24:06.634515
+processing_time: 0.1375059
+conversion_datetime: 2026-01-17 23:17:44.016694
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -106,7 +106,7 @@ English (EN) (143.2 KB - PDF)
 
 [View](/en/documents/overview/sugammadex-adroiq-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-318)
+[Other languages (22)](#file-language-dropdown-780)
 
 български (BG) (155.72 KB - PDF)
 
@@ -296,17 +296,17 @@ English (EN) (93.96 KB - PDF)
 
 Sugammadex Adroiq : EPAR - Product Information
 
-English (EN) (458.17 KB - PDF)
+English (EN) (607.34 KB - PDF)
 
 **First published:** 16/06/2023
 
-**Last updated:** 25/09/2025
+**Last updated:** 16/01/2026
 
 [View](/en/documents/product-information/sugammadex-adroiq-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-339)
+[Other languages (24)](#file-language-dropdown-569)
 
-български (BG) (566.59 KB - PDF)
+български (BG) (720 KB - PDF)
 
 **First published:**
 
@@ -314,11 +314,11 @@ English (EN) (458.17 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/bg/documents/product-information/sugammadex-adroiq-epar-product-information_bg.pdf)
 
-español (ES) (461.43 KB - PDF)
+español (ES) (588.68 KB - PDF)
 
 **First published:**
 
@@ -326,11 +326,11 @@ español (ES) (461.43 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/es/documents/product-information/sugammadex-adroiq-epar-product-information_es.pdf)
 
-čeština (CS) (490.43 KB - PDF)
+čeština (CS) (618.91 KB - PDF)
 
 **First published:**
 
@@ -338,11 +338,11 @@ español (ES) (461.43 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/cs/documents/product-information/sugammadex-adroiq-epar-product-information_cs.pdf)
 
-dansk (DA) (470.88 KB - PDF)
+dansk (DA) (601.51 KB - PDF)
 
 **First published:**
 
@@ -350,11 +350,11 @@ dansk (DA) (470.88 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/da/documents/product-information/sugammadex-adroiq-epar-product-information_da.pdf)
 
-Deutsch (DE) (485.49 KB - PDF)
+Deutsch (DE) (618 KB - PDF)
 
 **First published:**
 
@@ -362,11 +362,11 @@ Deutsch (DE) (485.49 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/de/documents/product-information/sugammadex-adroiq-epar-product-information_de.pdf)
 
-eesti keel (ET) (454.74 KB - PDF)
+eesti keel (ET) (585.15 KB - PDF)
 
 **First published:**
 
@@ -374,11 +374,11 @@ eesti keel (ET) (454.74 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/et/documents/product-information/sugammadex-adroiq-epar-product-information_et.pdf)
 
-ελληνικά (EL) (613.43 KB - PDF)
+ελληνικά (EL) (759.77 KB - PDF)
 
 **First published:**
 
@@ -386,11 +386,11 @@ eesti keel (ET) (454.74 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/el/documents/product-information/sugammadex-adroiq-epar-product-information_el.pdf)
 
-français (FR) (505.81 KB - PDF)
+français (FR) (640.56 KB - PDF)
 
 **First published:**
 
@@ -398,11 +398,11 @@ français (FR) (505.81 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/fr/documents/product-information/sugammadex-adroiq-epar-product-information_fr.pdf)
 
-hrvatski (HR) (516.61 KB - PDF)
+hrvatski (HR) (652.6 KB - PDF)
 
 **First published:**
 
@@ -410,11 +410,11 @@ hrvatski (HR) (516.61 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/hr/documents/product-information/sugammadex-adroiq-epar-product-information_hr.pdf)
 
-íslenska (IS) (468.64 KB - PDF)
+íslenska (IS) (623.2 KB - PDF)
 
 **First published:**
 
@@ -422,11 +422,11 @@ hrvatski (HR) (516.61 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/is/documents/product-information/sugammadex-adroiq-epar-product-information_is.pdf)
 
-italiano (IT) (493.1 KB - PDF)
+italiano (IT) (618.83 KB - PDF)
 
 **First published:**
 
@@ -434,11 +434,11 @@ italiano (IT) (493.1 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/it/documents/product-information/sugammadex-adroiq-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (527.26 KB - PDF)
+latviešu valoda (LV) (657.95 KB - PDF)
 
 **First published:**
 
@@ -446,11 +446,11 @@ latviešu valoda (LV) (527.26 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/lv/documents/product-information/sugammadex-adroiq-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (510.51 KB - PDF)
+lietuvių kalba (LT) (639.93 KB - PDF)
 
 **First published:**
 
@@ -458,11 +458,11 @@ lietuvių kalba (LT) (510.51 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/lt/documents/product-information/sugammadex-adroiq-epar-product-information_lt.pdf)
 
-magyar (HU) (532.35 KB - PDF)
+magyar (HU) (662.67 KB - PDF)
 
 **First published:**
 
@@ -470,11 +470,11 @@ magyar (HU) (532.35 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/hu/documents/product-information/sugammadex-adroiq-epar-product-information_hu.pdf)
 
-Malti (MT) (564.88 KB - PDF)
+Malti (MT) (684.91 KB - PDF)
 
 **First published:**
 
@@ -482,11 +482,11 @@ Malti (MT) (564.88 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/mt/documents/product-information/sugammadex-adroiq-epar-product-information_mt.pdf)
 
-Nederlands (NL) (479.17 KB - PDF)
+Nederlands (NL) (601.38 KB - PDF)
 
 **First published:**
 
@@ -494,11 +494,11 @@ Nederlands (NL) (479.17 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/nl/documents/product-information/sugammadex-adroiq-epar-product-information_nl.pdf)
 
-norsk (NO) (604.31 KB - PDF)
+norsk (NO) (769.92 KB - PDF)
 
 **First published:**
 
@@ -506,11 +506,11 @@ norsk (NO) (604.31 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/no/documents/product-information/sugammadex-adroiq-epar-product-information_no.pdf)
 
-polski (PL) (573.28 KB - PDF)
+polski (PL) (716.44 KB - PDF)
 
 **First published:**
 
@@ -518,11 +518,11 @@ polski (PL) (573.28 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/pl/documents/product-information/sugammadex-adroiq-epar-product-information_pl.pdf)
 
-português (PT) (488.25 KB - PDF)
+português (PT) (616.59 KB - PDF)
 
 **First published:**
 
@@ -530,11 +530,11 @@ português (PT) (488.25 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/pt/documents/product-information/sugammadex-adroiq-epar-product-information_pt.pdf)
 
-română (RO) (539.88 KB - PDF)
+română (RO) (655.12 KB - PDF)
 
 **First published:**
 
@@ -542,11 +542,11 @@ română (RO) (539.88 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/ro/documents/product-information/sugammadex-adroiq-epar-product-information_ro.pdf)
 
-slovenčina (SK) (538.63 KB - PDF)
+slovenčina (SK) (673.71 KB - PDF)
 
 **First published:**
 
@@ -554,11 +554,11 @@ slovenčina (SK) (538.63 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/sk/documents/product-information/sugammadex-adroiq-epar-product-information_sk.pdf)
 
-slovenščina (SL) (516.53 KB - PDF)
+slovenščina (SL) (645.42 KB - PDF)
 
 **First published:**
 
@@ -566,11 +566,11 @@ slovenščina (SL) (516.53 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/sl/documents/product-information/sugammadex-adroiq-epar-product-information_sl.pdf)
 
-Suomi (FI) (482.13 KB - PDF)
+Suomi (FI) (601.15 KB - PDF)
 
 **First published:**
 
@@ -578,11 +578,11 @@ Suomi (FI) (482.13 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/fi/documents/product-information/sugammadex-adroiq-epar-product-information_fi.pdf)
 
-svenska (SV) (451.21 KB - PDF)
+svenska (SV) (580.66 KB - PDF)
 
 **First published:**
 
@@ -590,11 +590,11 @@ svenska (SV) (451.21 KB - PDF)
 
 **Last updated:**
 
-25/09/2025
+16/01/2026
 
 [View](/sv/documents/product-information/sugammadex-adroiq-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000297355 23/09/2025
+**Latest procedure affecting product information:** VR/0000322606 16/01/2026
 
 icon globe
 
@@ -618,7 +618,7 @@ English (EN) (48.91 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/sugammadex-adroiq-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-116)
+[Other languages (24)](#file-language-dropdown-296)
 
 български (BG) (65.15 KB - PDF)
 
@@ -832,7 +832,7 @@ Extrovis EU Ltd
 
 Raktarvarosi Ut 9 Torokbalint 2045 Hungary
 
-Marketing authorisation issued 26/05/2023 Revision 5
+Marketing authorisation issued 26/05/2023 Revision 6
 
 ## Assessment history
 
@@ -844,11 +844,11 @@ Collapse section
 
 Sugammadex Adroiq : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (418.08 KB - PDF)
+English (EN) (146.56 KB - PDF)
 
 **First published:** 08/04/2025
 
-**Last updated:** 25/09/2025
+**Last updated:** 16/01/2026
 
 [View](/en/documents/procedural-steps-after/sugammadex-adroiq-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -904,7 +904,7 @@ English (EN) (111.01 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/sugammadex-adroiq-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-93)
+[Other languages (24)](#file-language-dropdown-558)
 
 български (BG) (405.5 KB - DOC)
 
@@ -1098,7 +1098,7 @@ svenska (SV) (111.39 KB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/sugammadex-adroiq-epar-product-information-tracked-changes_sv.docx)
 
-**This page was last updated on** 25/09/2025
+**This page was last updated on** 16/01/2026
 
 ## Share this page
 

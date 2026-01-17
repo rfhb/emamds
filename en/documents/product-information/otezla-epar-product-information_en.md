@@ -1,18 +1,18 @@
 ---
-document_datetime: 2024-10-22 14:18:24
-document_pages: 52
+document_datetime: 2026-01-14 11:47:14
+document_pages: 55
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/otezla-epar-product-information_en.pdf
 document_name: otezla-epar-product-information_en.pdf
 version: success
-processing_time: 18.631194
-conversion_datetime: 2025-12-23 04:35:06.885672
+processing_time: 21.8388966
+conversion_datetime: 2026-01-17 12:59:42.397758
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -94,7 +94,7 @@ Otezla is indicated for the treatment of adult patients with oral ulcers associa
 
 ## 4.2 Posology and method of administration
 
-Treatment with Otezla should be initiated by specialists experienced in the diagnosis and treatment of psoriasis, psoriatic arthritis or Behçet's disease.
+Treatment with Otezla should be initiated by specialists experienced in the diagnosis and treatment of psoriasis, psoriatic arthritis or Behçet's disease .
 
 ## Posology
 
@@ -115,7 +115,7 @@ The recommended dose of apremilast for paediatric patients 6 years of age and ol
 
 <div style=\"page-break-after: always\"></div>
 
-## Table 2. Dose titration schedule for paediatric patients
+Table 2. Dose titration schedule for paediatric patients
 
 | Body weight              | Day 1   | Day 2   | Day 2   | Day 3   | Day 3   | Day 4   | Day 4   | Day 5   | Day 5   | Day 6 &thereafter   | Day 6 &thereafter   |
 |--------------------------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------------------|---------------------|
@@ -123,9 +123,7 @@ The recommended dose of apremilast for paediatric patients 6 years of age and ol
 | 20 kg to less than 50 kg | 10 mg   | 10 mg   | 10 mg   | 10 mg   | 20 mg   | 20 mg   | 20 mg   | 20 mg   | 20 mg   | 20 mg               | 20 mg               |
 | 50 kg or more            | 10 mg   | 10 mg   | 10 mg   | 10 mg   | 20 mg   | 20 mg   | 20 mg   | 20 mg   | 30 mg   | 30 mg               | 30 mg               |
 
-All indications (psoriasis in adults and children, psoriatic arthritis, Behçet's disease)
-
-No re-titration is required after initial titration.
+All indications (psoriasis in adults and children, psoriatic arthritis, Behçet's disease) No re-titration is required after initial titration.
 
 The recommended twice daily apremilast dose should be taken approximately 12 hours apart (morning and evening), with no food restrictions.
 
@@ -141,13 +139,13 @@ No dose adjustment is required for this patient population (see sections 4.8 and
 
 ## Patients with renal impairment
 
-Adult patients with psoriatic arthritis, psoriasis, or Behçet's disease
+## Adult patients with psoriatic arthritis, psoriasis, or Behçet's disease
 
 No dose adjustment is needed in adult patients with mild and moderate renal impairment. The dose of apremilast should be reduced to 30 mg once daily in adult patients with severe renal impairment (creatinine clearance of less than 30 mL per minute estimated by the Cockcroft-Gault equation). For initial dose titration in this group, it is recommended that apremilast be titrated using only the AM schedule listed in table 1 and the PM doses be skipped (see section 5.2).
 
 ## Paediatric patients with moderate to severe psoriasis
 
-No dose adjustment is needed in paediatric patients 6 years of age and older with mild or moderate renal impairment. In paediatric patients 6 years of age and older with severe renal impairment (creatinine clearance of less than 30 mL per minute estimated by the Cockroft-Gault equation), dose adjustment is recommended. The apremilast dose should be reduced to 30 mg once daily for paediatric patients who weigh at least 50 kg and to 20 mg once daily for paediatric patients who weigh 20 kg to less than 50 kg. For initial dose titration in these groups, it is recommended that apremilast be titrated using only the AM schedule listed in table 2 above for the appropriate body weight category and the PM doses be skipped.
+No dose adjustment is needed in paediatric patients 6 years of age and older with mild or moderate renal impairment. In paediatric patients 6 years of age and older with severe renal impairment (creatinine clearance of less than 30 mL per minute estimated by the Cockroft -Gault equation), dose adjustment is recommended. The apremilast dose should be reduced to 30 mg once daily for paediatric patients who weigh at least 50 kg and to 20 mg once daily for paediatric patients who weigh 20 kg to less than 50 kg. For initial dose titration in these groups, it is recommended that apremilast be titrated using only the AM schedule listed in table 2 above for the appropriate body weight category and the PM doses be skipped.
 
 ## Patients with hepatic impairment
 
@@ -177,7 +175,7 @@ There have been post-marketing reports of severe diarrhoea, nausea, and vomiting
 
 ## Psychiatric disorders
 
-Apremilast is associated with an increased risk of psychiatric disorders such as insomnia and depression. Instances of suicidal ideation and behaviour, including suicide, have been observed in patients with or without history of depression (see section 4.8). The risks and benefits of starting or continuing treatment with apremilast should be carefully assessed if patients report previous or existing psychiatric symptoms or if concomitant treatment with other medicinal products likely to cause psychiatric events is intended. Patients and caregivers should be instructed to notify the prescriber of any changes in behaviour or mood and of any suicidal ideation. If patients suffered from new or worsening psychiatric symptoms, or suicidal ideation or suicidal attempt is identified, it is recommended to discontinue treatment with apremilast .
+Apremilast is associated with an increased risk of psychiatric disorders such as insomnia, anxiety, altered mood, and depression. Instances of suicidal ideation and behaviour, including suicide, have been observed in patients with or without history of depression (see section 4.8). The risks and benefits of starting or continuing treatment with apremilast should be carefully assessed if patients report previous or existing psychiatric symptoms or if concomitant treatment with other medicinal products likely to cause psychiatric events is intended. Patients and caregivers should be instructed to notify the prescriber of any changes in behaviour or mood and of any suicidal ideation. If patients suffered from new or worsening psychiatric symptoms, or suicidal ideation or suicidal attempt is identified, it is recommended to discontinue treatment with apremilast .
 
 ## Severe renal impairment
 
@@ -197,7 +195,7 @@ Patients with rare hereditary problems of galactose intolerance, total lactase d
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
-Co-administration of strong cytochrome P450 3A4 (CYP3A4) enzyme inducer, rifampicin, resulted in a reduction of systemic exposure of apremilast, which may result in a loss of efficacy of apremilast. Therefore, the use of strong CYP3A4 enzyme inducers (e.g. rifampicin, phenobarbital, carbamazepine, phenytoin and St. John's Wort) with apremilast is not recommended. Co-administration of apremilast with multiple doses of rifampicin resulted in a decrease in apremilast area-under-the-concentration time curve (AUC) and maximum serum concentration (Cmax) by approximately 72% and 43%, respectively. Apremilast exposure is decreased when administered concomitantly with strong inducers of CYP3A4 (e.g. rifampicin) and may result in reduced clinical response.
+Co-administration of strong cytochrome P450 3A4 (CYP3A4) enzyme inducer, rifampicin, resulted in a reduction of systemic exposure of apremilast, which may result in a loss of efficacy of apremilast. Therefore, the use of strong CYP3A4 enzyme inducers (e.g. rifampicin, phenobarbital, carbamazepine, phenytoin and St. John's Wort) with apremilast is not recommended. Co -administration of apremilast with multiple doses of rifampicin resulted in a decrease in apremilast area-under-the-concentration time curve (AUC) and maximum serum concentration (Cmax) by approximately 72% and 43%, respectively. Apremilast exposure is decreased when administered concomitantly with strong inducers of CYP3A4 (e.g. rifampicin) and may result in reduced clinical response.
 
 In clinical studies, apremilast has been administered concomitantly with topical therapy (including corticosteroids, coal tar shampoo and salicylic acid scalp preparations) and UVB phototherapy.
 
@@ -255,21 +253,22 @@ Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/
 
 Table 3. Summary of adverse reactions in psoriatic arthritis (PsA), psoriasis (PSOR) and Behçet's disease (BD)
 
-| System Organ Class                 | Frequency   | Adverse reaction                    |
-|------------------------------------|-------------|-------------------------------------|
-| Infections and infestations        | Very common | Upper respiratory tract infection a |
-| Infections and infestations        | Common      | Bronchitis                          |
-| Infections and infestations        | Very common | Nasopharyngitis*                    |
-| Immune system disorders            | Uncommon    | Hypersensitivity                    |
-| Metabolism and nutrition disorders | Common      | Decreased appetite*                 |
-| Psychiatric disorders              | Common      | Insomnia                            |
-| Psychiatric disorders              | Common      | Depression                          |
-| Psychiatric disorders              | Uncommon    | Suicidal ideation and behaviour     |
+| System Organ Class                 | Frequency   | Adverse reaction                               |
+|------------------------------------|-------------|------------------------------------------------|
+| Infections and infestations        | Very common | Upper respiratory tract infection a Bronchitis |
+| Infections and infestations        | Common      | Nasopharyngitis*                               |
+| Immune system disorders            | Uncommon    | Hypersensitivity                               |
+| Metabolism and nutrition disorders | Common      | Decreased appetite*                            |
 
 <div style=\"page-break-after: always\"></div>
 
 | System Organ Class                                   | Frequency   | Adverse reaction                |
 |------------------------------------------------------|-------------|---------------------------------|
+| Psychiatric disorders                                | Common      | Insomnia                        |
+| Psychiatric disorders                                | Common      | Depression                      |
+| Psychiatric disorders                                | Uncommon    | Suicidal ideation and behaviour |
+| Psychiatric disorders                                | Uncommon    | Anxiety                         |
+| Psychiatric disorders                                | Uncommon    | Mood altered                    |
 | Nervous system disorders                             | Very common | Headache* , a                   |
 | Nervous system disorders                             | Common      | Migraine*                       |
 | Nervous system disorders                             | Common      | Tension headache*               |
@@ -289,10 +288,6 @@ Table 3. Summary of adverse reactions in psoriatic arthritis (PsA), psoriasis (P
 | General disorders and administration site conditions | Common      | Fatigue                         |
 | Investigations                                       | Uncommon    | Weight decrease                 |
 
-*At least one of these adverse reactions was reported as serious
-
-a  Frequency reported as common in PSA and PSOR
-
 ## Description of selected adverse reactions
 
 ## Psychiatric disorders
@@ -301,11 +296,13 @@ In clinical studies and post-marketing experience, uncommon cases of suicidal id
 
 ## Body weight loss
 
-Patient weight was measured routinely in clinical studies. The mean observed weight loss in adult PsA and PSOR patients treated for up to 52 weeks with apremilast was 1.99 kg. A total of 14.3% of patients receiving apremilast had observed weight loss between 5-10% while 5.7% of the patients receiving apremilast had observed weight loss greater than 10%. None of these patients had overt clinical consequences resulting from weight loss. A total of 0.1% of patients treated with apremilast discontinued due to adverse reaction of weight decreased. The mean observed weight loss in adult BD patients treated with apremilast for 52 weeks was 0.52 kg. A total of 11.8% of patients receving apremilast had observed weight loss between 5-10% while 3.8% of the patients receiving apremilast had observed weight loss greater than 10%.  None of these patients had overt clinical consequences from weight loss. None of the patients discontinued the study due to adverse reaction of weight decreased.
-
-Please see additional warning in section 4.4 for patients who are underweight at beginning of treatment.
+Patient weight was measured routinely in clinical studies. The mean observed weight loss in adult PsA and PSOR patients treated for up to 52 weeks with apremilast was 1.99 kg. A total of 14.3% of patients receiving apremilast had observed weight loss between 5-10% while 5.7% of the patients receiving apremilast had observed weight loss greater than 10%. None of these patients had overt clinical consequences resulting from weight loss. A total of 0.1% of patients treated with apremilast discontinued due to adverse reaction of weight decreased. The mean observed weight loss in adult BD patients treated with apremilast for 52 weeks was 0.52 kg. A total of 11.8% of patients receving apremilast had observed weight loss between 5-10% while 3.8% of the patients receiving apremilast had observed weight loss greater than 10%. None of these patients had overt clinical consequences
 
 <div style=\"page-break-after: always\"></div>
+
+from weight loss. None of the patients discontinued the study due to adverse reaction of weight decreased.
+
+Please see additional warning in section 4.4 for patients who are underweight at beginning of treatment.
 
 ## Special populations
 
@@ -341,13 +338,15 @@ Pharmacotherapeutic group: Immunosupressants, selective immunosuppressants, ATC 
 
 ## Mechanism of action
 
-Apremilast, an oral small-molecule inhibitor of phosphodiesterase 4 (PDE4), works intracellularly to modulate a network of pro-inflammatory and anti-inflammatory mediators. PDE4 is a cyclic adenosine monophosphate (cAMP)-specific PDE and the dominant PDE in inflammatory cells. PDE4 inhibition elevates intracellular cAMP levels, which in turn down-regulates the inflammatory response by modulating the expression of TNF-α, IL-23, IL-17 and other inflammatory cytokines. Cyclic AMP also modulates levels of anti-inflammatory cytokines such as IL-10. These pro- and anti-inflammatory mediators have been implicated in psoriatic arthritis and psoriasis.
+Apremilast, an oral small-molecule inhibitor of phosphodiesterase 4 (PDE4), works intracellularly to modulate a network of pro-inflammatory and anti-inflammatory mediators. PDE4 is a cyclic adenosine monophosphate (cAMP)-specific PDE and the dominant PDE in inflammatory cells. PDE4 inhibition elevates intracellular cAMP levels, which in turn down-regulates the inflammatory response by modulating the expression of TNFα, IL -23, IL-17 and other inflammatory cytokines. Cyclic AMP
 
 <div style=\"page-break-after: always\"></div>
 
+also modulates levels of anti-inflammatory cytokines such as IL-10. These pro- and anti-inflammatory mediators have been implicated in psoriatic arthritis and psoriasis.
+
 ## Pharmacodynamic effects
 
-In clinical studies in patients with psoriatic arthritis, apremilast significantly modulated, but did not fully inhibit, plasma protein levels of IL-1α, IL-6, IL-8, MCP-1, MIP-1β, MMP-3, and TNF-α. After 40 weeks of treatment with apremilast, there was a decrease in plasma protein levels of IL-17 and IL-23, and an increase in IL-10. In clinical studies in patients with psoriasis, apremilast decreased lesional skin epidermal thickness, inflammatory cell infiltration, and expression of pro-inflammatory genes, including those for inducible nitric oxide synthase (iNOS), IL-12/IL-23p40, IL-17A, IL-22 and IL-8. In clinical studies in patients with Behçet Disease treated with apremilast, there was a significant positive association between the change in plasma TNF-alpha and clinical efficacy as measured by the number of oral ulcers.
+In clinical studies in patients with psoriatic arthritis, apremilast significantly modulated, but did not fully inhibit, plasma protein levels of IL1α, IL -6, IL-8, MCP-1, MIP1β, MMP -3, and TNFα. After 40 weeks of treatment with apremilast, there was a decrease in plasma protein levels of IL-17 and IL-23, and an increase in IL-10. In clinical studies in patients with psoriasis, apremilast decreased lesional skin epidermal thickness, inflammatory cell infiltration, and expression of pro-inflammatory genes, including those for inducible nitric oxide synthase (iNOS), IL-12/IL-23p40, IL-17A, IL-22 and IL-8. In clinical studies in patients with Behçet Disease treated with apremilast, there was a significant positive association between the change in plasma TNF-alpha and clinical efficacy as measured by the number of oral ulcers.
 
 Apremilast administered at doses of up to 50 mg twice daily did not prolong the QT interval in healthy subjects.
 
@@ -371,39 +370,31 @@ Among patients who were initially randomised to apremilast 30 mg twice daily tre
 
 Table 4. Proportion of patients with ACR responses in studies PALACE 1, PALACE 2 and PALACE 3 and pooled studies at week 16
 
-|          | PALACE 1                  | PALACE 1                                       | PALACE 2                  | PALACE 2                                       | PALACE 3                  | PALACE 3                                       | POOLED                    | POOLED                                         |
-|----------|---------------------------|------------------------------------------------|---------------------------|------------------------------------------------|---------------------------|------------------------------------------------|---------------------------|------------------------------------------------|
-| N a      | Placebo +/- DMARDsN = 168 | Apremilast 30 mg twice daily +/- DMARDsN = 168 | Placebo +/- DMARDsN = 159 | Apremilast 30 mg twice daily +/- DMARDsN = 162 | Placebo +/- DMARDsN = 169 | Apremilast 30 mg twice daily +/- DMARDsN = 167 | Placebo +/- DMARDsN = 496 | Apremilast 30 mg twice daily +/- DMARDsN = 497 |
-| ACR 20 a |                           |                                                |                           |                                                |                           |                                                |                           |                                                |
-| Week 16  | 19.0%                     | 38.1%**                                        | 18.9%                     | 32.1%*                                         | 18.3%                     | 40.7%**                                        | 18.8%                     | 37.0%**                                        |
-| ACR 50   |                           |                                                |                           |                                                |                           |                                                |                           |                                                |
-| Week 16  | 6.0%                      | 16.1%*                                         | 5.0%                      | 10.5%                                          | 8.3%                      | 15.0%                                          | 6.5%                      | 13.9%**                                        |
-| ACR 70   |                           |                                                |                           |                                                |                           |                                                |                           |                                                |
-| Week 16  | 1.2%                      | 4.2%                                           | 0.6%                      | 1.2%                                           | 2.4%                      | 3.6%                                           | 1.4%                      | 3.0%                                           |
-
-*p ≤ 0.01 for apremilast vs. placebo
-
-**p ≤ 0.001 for apremilast vs. placebo
-
-a N is the number of patients as randomised and treated
+|          | PALACE 1                   | PALACE 1                                        | PALACE 2                   | PALACE 2                                        | PALACE 3                   | PALACE 3                                        | POOLED                     | POOLED                                          |
+|----------|----------------------------|-------------------------------------------------|----------------------------|-------------------------------------------------|----------------------------|-------------------------------------------------|----------------------------|-------------------------------------------------|
+| N a      | Placebo +/- DMARDs N = 168 | Apremilast 30 mg twice daily +/- DMARDs N = 168 | Placebo +/- DMARDs N = 159 | Apremilast 30 mg twice daily +/- DMARDs N = 162 | Placebo +/- DMARDs N = 169 | Apremilast 30 mg twice daily +/- DMARDs N = 167 | Placebo +/- DMARDs N = 496 | Apremilast 30 mg twice daily +/- DMARDs N = 497 |
+| ACR 20 a |                            |                                                 |                            |                                                 |                            |                                                 |                            |                                                 |
+| Week 16  | 19.0%                      | 38.1%**                                         | 18.9%                      | 32.1%*                                          | 18.3%                      | 40.7%**                                         | 18.8%                      | 37.0%**                                         |
+| ACR 50   |                            |                                                 |                            |                                                 |                            |                                                 |                            |                                                 |
+| Week 16  | 6.0%                       | 16.1%*                                          | 5.0%                       | 10.5%                                           | 8.3%                       | 15.0%                                           | 6.5%                       | 13.9%**                                         |
+| ACR 70   |                            |                                                 |                            |                                                 |                            |                                                 |                            |                                                 |
+| Week 16  | 1.2%                       | 4.2%                                            | 0.6%                       | 1.2%                                            | 2.4%                       | 3.6%                                            | 1.4%                       | 3.0%                                            |
 
 Figure 1 Proportion of ACR 20/50/70 responders through week 52 in the pooled analysis of studies PALACE 1, PALACE 2 and PALACE 3 (NRI*)
 
 <!-- image -->
 
-*NRI: None responder imputation. Subjects who discontinued early prior to the time point and subjects who did not have sufficient data for a definitive determination of response status at the time point are counted as non-responders.
-
-Among 497 patients initially randomised to apremilast 30 mg twice daily, 375 (75%) patients were still on this treatment on week 52. In these patients, ACR 20/50/70 responses at week 52 were of 57%, 25%, and 11% respectively. Among 497 patients initially randomised to apremilast 30 mg twice daily,
+Among 497 patients initially randomised to apremilast 30 mg twice daily, 375 (75%) patients were still on this treatment on week 52. In these patients, ACR 20/50/70 responses at week 52 were of 57%,
 
 <div style=\"page-break-after: always\"></div>
 
-375 (75%) patients entered the long term extension studies, and of these, 221 patients (59%) were still on this treatment at week 260. ACR responses were maintained in the long-term open label extension studies for up to 5 years.
+25%, and 11% respectively. Among 497 patients initially randomised to apremilast 30 mg twice daily, 375 (75%) patients entered the long term extension studies, and of these, 221 patients (59%) were still on this treatment at week 260. ACR responses were maintained in the long-term open label extension studies for up to 5 years.
 
 Responses observed in the apremilast treated group were similar in patients receiving and not receiving concomitant DMARDs, including MTX. Patients previously treated with DMARDs or biologics who received apremilast achieved a greater ACR 20 response at week 16 than patients receiving placebo.
 
 Similar ACR responses were observed in patients with different PsA subtypes, including DIP. The number of patients with arthritis mutilans and predominant spondylitis subtypes was too small to allow meaningful assessment.
 
-In PALACE 1, PALACE 2 and PALACE 3, improvements in Disease Activity Scale (DAS) 28 C-reactive protein (CRP) and in the proportion of patients achieving a modified PsA response criteria (PsARC) were greater in the apremilast group, compared to placebo at week 16 (nominal p-value p &lt; 0.0004, p-value ≤ 0.0017, respectively). These improvements were maintained at week 24. Among patients who remained on the apremilast treatment to which they were randomised at study start, DAS28 (CRP) score and PsARC response were maintained through week 52.
+In PALACE 1, PALACE 2 and PALACE 3, improvements in Disease Activity Scale (DAS) 28 C-reactive protein (CRP) and in the proportion of patients achieving a modified PsA response criteria (PsARC) were greater in the apremilast group, compared to placebo at week 16 (nominal p-value p &lt; 0.0004, pvalue ≤ 0.0017, respectively). These improvements were maintained at week 24. Among patients who remained on the apremilast treatment to which they were randomised at study start, DAS28 (CRP) score and PsARC response were maintained through week 52.
 
 At weeks 16 and 24 improvements in parameters of peripheral activity characteristic of psoriatic arthritis (e.g. number of swollen joints, number of painful/tender joints, dactylitis and enthesitis) and in the skin manifestations of psoriasis were seen in the apremilast-treated patients. Among patients who remained on the apremilast treatment to which they were randomised at study start, these improvements were maintained through week 52.
 
@@ -415,7 +406,7 @@ Apremilast-treated patients demonstrated statistically significant improvement i
 
 Among patients who were initially randomised to apremilast 30 mg twice daily treatment, the change from baseline in the HAQ-DI score at week 52 was -0.333 in the apremilast 30 mg twice daily group in a pooled analysis of the open label phase of studies PALACE 1, PALACE 2 and PALACE 3.
 
-In studies PALACE 1, PALACE 2 and PALACE 3, significant improvements were demonstrated in health-related quality of life, as measured by the changes from baseline in the physical functioning (PF) domain of the Short Form Health Survey version 2 (SF-36v2), and in the Functional Assessment of Chronic Illness Therapy - Fatigue (FACIT-fatigue) scores in patients treated with apremilast compared to placebo at weeks 16 and 24. Among patients who remained on the apremilast treatment, to which they were initially randomised at study start, improvement in physical function and FACITfatigue was maintained through week 52.
+In studies PALACE 1, PALACE 2 and PALACE 3, significant improvements were demonstrated in health-related quality of life, as measured by the changes from baseline in the physical functioning (PF) domain of the Short Form Health Survey version 2 (SF-36v2), and in the Functional Assessment of Chronic Illness Therapy -Fatigue (FACIT-fatigue) scores in patients treated with apremilast compared to placebo at weeks 16 and 24. Among patients who remained on the apremilast treatment, to which they were initially randomised at study start, improvement in physical function and FACITfatigue was maintained through week 52.
 
 Improved physical function as assessed by the HAQ-DI and the SF36v2PF domain, and the FACITfatigue scores were maintained in the open-label extension studies for up to 5 years of treatment.
 
@@ -452,24 +443,6 @@ Table 5. Clinical response at week 16 in studies ESTEEM 1 and ESTEEM 2 (FAS a , 
 | Change in DLQI g , mean ± SD             | -2.1 ± 5.69   | -6.6 ± 6.66            | -2.8 ± 7.22   | -6.7 ± 6.95            |
 | Change in SF-36MCS h , mean ± SD         | -1.02 ± 9.161 | 2.39 ± 9.504           | 0.00 ± 10.498 | 2.58 ± 10.129          |
 
-*  p &lt; 0.0001 for apremilast vs placebo, except for ESTEEM 2 PASI 90 and Change in SF-36 MCS where p = 0.0042 and p = 0.0078, respectively.
-
-a FAS = Full Analysis Set
-
-b  LOCF = Last Observation Carried Forward
-
-c  PASI = Psoriasis Area and Severity Index
-
-d  sPGA = Static Physician Global Assessment
-
-e  BSA = Body Surface Area
-
-f  VAS = Visual Analog Scale; 0 = best, 100 = worst
-
-g  DLQI = Dermatology Life Quality Index; 0 = best, 30 = worst
-
-h  SF-36 MCS = Medical Outcome Study Short Form 36-Item Health Survey, Mental Component Summary
-
 The clinical benefit of apremilast was demonstrated across multiple subgroups defined by baseline demographics and baseline clinical disease characteristics (including psoriasis disease duration and patients with a history of psoriatic arthritis). The clinical benefit of apremilast was also demonstrated regardless of prior psoriasis medication usage and response to prior psoriasis treatments. Similar response rates were observed across all weight ranges.
 
 Response to apremilast was rapid, with significantly greater improvements in the signs and symptoms of psoriasis, including PASI, skin discomfort/pain and pruritus, compared to placebo by week 2. In general, PASI responses were achieved by week 16 and were maintained through week 32.
@@ -497,7 +470,7 @@ Table 6. Persistence of effect among subjects randomised to APR 30 twice daily a
 
 a Includes subjects re-randomised to APR 30 twice daily at week 32 with a baseline value and a post-baseline value at the evaluated study week.
 
-b  N is based on subjects with moderate or greater scalp psoriasis at baseline who were re-randomised to APR 30 twice daily at week 32. Subjects with missing data were counted as nonresponders.
+b  N is based on subjects with moderate or greater scalp psoriasis at baseline who were re-randomised to APR 30 twice daily at week 32. Subjects with missing data were counted as non-responders.
 
 In study ESTEEM 1, approximately 61% of patients re-randomised to apremilast at week 32 had a PASI-75 response at week 52. Of the patients with at least a PASI-75 response who were re-randomised to placebo at week 32 during a randomised treatment withdrawal phase, 11.7% were PASI-75 responders at week 52. The median time to loss of PASI-75 response among the patients re-randomised to placebo was 5.1 weeks.
 
@@ -521,7 +494,7 @@ The long-term safety of apremilast 30 mg twice daily in patients with psoriatic 
 
 ## Paediatric psoriasis
 
-A multicentre, randomised, double blind, placebo- controlled trial (SPROUT) was conducted in 245 paediatric subjects 6 to 17 years of age (inclusive) with moderate to severe plaque psoriasis who were candidates for phototherapy or systemic therapy. Enrolled subjects had an sPGA score of ≥ 3 (moderate or severe disease), BSA involvement of ≥ 10%, and PASI score of ≥ 12, with psoriasis that was inadequately controlled by or inappropriate for topical therapy.
+A multicentre, randomised, double-blind, placebo-controlled trial (SPROUT) was conducted in 245 paediatric subjects 6 to 17 years of age (inclusive) with moderate to severe plaque psoriasis who were candidates for phototherapy or systemic therapy. Enrolled subjects had an sPGA score of ≥ 3 (moderate or severe disease), BSA involvement of ≥ 10%, and PASI score of ≥ 12, with psoriasis that was inadequately controlled by or inappropriate for topical therapy.
 
 Subjects were randomised 2:1 to receive either apremilast (n = 163) or placebo (n = 82) for 16 weeks. Subjects with a baseline weight of 20 kg to &lt; 50 kg received apremilast 20 mg twice daily or placebo twice daily, and subjects with a baseline weight ≥ 50 kg received apremilast 30 mg twice daily or placebo twice daily. At week 16, the placebo group was switched to receive apremilast (with dose based on baseline weight) and the apremilast group remained on drug (according to their original dosing assignment) through week 52. Subjects were allowed to use low-potency or weak topical corticosteroids on the face, axilla, and groin and unmedicated skin moisturizers for body lesions only.
 
@@ -549,15 +522,20 @@ Table 7. Efficacy results at week 16 in paediatric subjects with moderate to sev
 | Endpoint a                                       | Placebo        | Apremilast     |
 | Percent change from baseline in affected BSA c   | -21.82 ± 5.104 | -56.59 ± 3.558 |
 | Change from baseline in CDLQI score c, d         | -3.2 ± 0.45    | -5.1 ± 0.31    |
-| Number of subjects with baseline CDLQI score ≥ 2 | N=76           | N=148          |
+| Number of subjects with baseline CDLQI score ≥ 2 | N = 76         | N = 148        |
 | CDLQI response b                                 | 31.3%          | 35.4%          |
 
-BSA = body surface area; CDLQI = Children's Dermatology Life Quality Index; ITT = intent to treat;; PASI = Psoriasis Area and Severity Index; sPGA = Static Physician Global Assessment;
+BSA = body surface area; CDLQI = Children's Dermatology Life Quality Index; ITT = intent to treat;
 
-- a Apremilast 20 or 30 mg twice daily vs. placebo at week 16; p-value &lt; 0.0001 for sPGA response and PASI-75 response, nominal p-value &lt; 0.01 for all other end points except CDLQI response (nominal p-value 0.5616)
-- b Proportion of subjects who achieved the response
+PASI = Psoriasis Area and Severity Index; sPGA = Static Physician Global Assessment;
+
+- a  Apremilast 20 or 30 mg twice daily vs. placebo at week 16; p-value &lt; 0.0001 for sPGA response and PASI-75 response, nominal p-value &lt; 0.01 for all other end points except CDLQI response (nominal p-value 0.5616)
+
+b  Proportion of subjects who achieved the response
+
 - c Least squares mean +/- standard error
-- d 0 = best score, 30 = worst score
+
+d 0 = best score, 30 = worst score
 
 The mean percent change from baseline in total PASI score in apremilast-treated and placebo-treated subjects during the placebo-controlled phase is presented in figure 2.
 
@@ -571,15 +549,15 @@ Among patients originally randomised to apremilast, sPGA response, PASI-75 respo
 
 ## Behçet's disease
 
-The safety and efficacy of apremilast were evaluated in a phase 3, multicentre, randomised, placebo-controlled study (RELIEF) in adult patients with active Behçet's Disease (BD) with oral ulcers. Patients were previously treated with at least one non-biologic BD medication for oral ulcers and were candidates for systemic therapy. Concomitant treatment for BD was not allowed. The population studied met the International Study Group (ISG) criteria for BD with a history of skin lesions (98.6%), genital ulcers (90.3%), musculoskeletal (72.5%), ocular (17.4%), central nervous system (9.7%) or GI manifestations (9.2%), epididymitis (2.4%) and vascular involvement (1.4%). Patients with severe BD, defined as those with active major organ involvement (for ex. meningoencephalitis or pulmonary artery aneurysm) were excluded.
+The safety and efficacy of apremilast were evaluated in a phase 3, multicentre, randomised, placebocontrolled study (RELIEF) in adult patients with active Behçet's Disease (BD) with oral ulcers. Patients were previously treated with at least one non-biologic BD medication for oral ulcers and were candidates for systemic therapy. Concomitant treatment for BD was not allowed. The population studied met the International Study Group (ISG) criteria for BD with a history of skin lesions (98.6%), genital ulcers (90.3%), musculoskeletal (72.5%), ocular (17.4%), central nervous system (9.7%) or GI manifestations (9.2%), epididymitis (2.4%) and vascular involvement (1.4%). Patients with severe BD, defined as those with active major organ involvement (for ex. meningoencephalitis or pulmonary artery aneurysm) were excluded.
 
-A total of 207 BD patients were randomised 1:1 to receive either apremilast 30 mg twice daily (n = 104) or placebo (n = 103) for 12-weeks (placebo-controlled phase) and from weeks 12 to 64, all patients received apremilast 30 mg twice daily (active treatment phase). Patients ranged in age from
+A total of 207 BD patients were randomised 1:1 to receive either apremilast 30 mg twice daily (n = 104) or placebo (n = 103) for 12-weeks (placebo-controlled phase) and from weeks 12 to 64, all
 
 <div style=\"page-break-after: always\"></div>
 
-19 to 72 years, with a mean age of 40 years. The mean duration of BD was 6.84 years. All patients had a history of recurrent oral ulcers with at least 2 oral ulcers at screening and randomisation: the mean baseline oral ulcer counts were 4.2 and 3.9 in the apremilast and placebo groups, respectively.
+patients received apremilast 30 mg twice daily (active treatment phase). Patients ranged in age from 19 to 72 years, with a mean age of 40 years. The mean duration of BD was 6.84 years. All patients had a history of recurrent oral ulcers with at least 2 oral ulcers at screening and randomisation: the mean baseline oral ulcer counts were 4.2 and 3.9 in the apremilast and placebo groups, respectively.
 
-The primary endpoint was the Area Under the Curve (AUC) for the number of oral ulcers from baseline through week 12. Secondary endpoints included other measures of oral ulcers: oral ulcer pain Visual Analog Scale (VAS), proportion of patients who are oral ulcer-free (complete response), time to onset of oral ulcer resolution, and proportion of patients achieving resolution of oral ulcers by week 6, and who remain oral ulcer free at every visit for at least 6 additional weeks during the 12-week placebo-controlled treatment phase. Other endpoints included Behçet's Syndrome Activity Score (BSAS), BD Current Activity Form (BDCAF), including the BD Current Activity Index (BDCAI) score, the Patient's Perception of Disease Activity, the Clinician's Overall Perception of Disease Activity and the BD Quality of Life Questionnaire (BD QoL).
+The primary endpoint was the Area Under the Curve (AUC) for the number of oral ulcers from baseline through week 12. Secondary endpoints included other measures of oral ulcers: oral ulcer pain Visual Analog Scale (VAS), proportion of patients who are oral ulcer-free (complete response), time to onset of oral ulcer resolution, and proportion of patients achieving resolution of oral ulcers by week 6, and who remain oral ulcer free at every visit for at least 6 additional weeks during the 12-week placebocontrolled treatment phase. Other endpoints included Behçet's Syndrome Activity Score (BSAS), BD Current Activity Form (BDCAF), including the BD Current Activity Index (BDCAI) score, the Patient's Perception of Disease Activity, the Clinician's Overall Perception of Disease Activity and the BD Quality of Life Questionnaire (BD QoL).
 
 ## Measure of oral ulcers
 
@@ -598,7 +576,7 @@ Table 8. Clinical response of oral ulcers at week 12 in RELIEF (ITT population)
 | Proportion of subjects with complete oral ulcer response at week 12 (NRI)                                                                                                                                                    | 22.3%           | 52.9%                          |
 | Proportion of subjects with partial oral ulcer response d at week 12 (NRI)                                                                                                                                                   | 47.6%           | 76.0%                          |
 
-ITT=intent to treat; LS=least squares; MI=multiple imputation; MMRM=mixed-effects model for repeated measures; NRI=non-responder imputation; BID=twice daily.
+ITT = intent to treat; LS = least squares; MI = multiple imputation; MMRM = mixed-effects model for repeated measures; NRI = non-responder imputation; BID = twice daily.
 
 a p-value &lt; 0.0001 for all apremilast vs. placebo
 
@@ -606,7 +584,7 @@ b  AUC = Area Under the Curve.
 
 c VAS = Visual Analog Scale; 0 = no pain, 100 = worst possible pain.
 
-d Partial oral ulcer response = number of oral ulcers reduced by ≥ 50% post baseline (Exploratory analysis); nominal p-value - &lt; 0.0001
+d Partial oral ulcer response = number of oral ulcers reduced by ≥ 50% post baseline (Exploratory analysis); nominal p-value -&lt; 0.0001
 
 Among 104 patients originally randomised to apremilast 30 mg twice daily, 75 patients (approximately 72%) remained on this treatment at week 64. A significant reduction in the mean number of oral ulcers and oral ulcer pain was observed in the apremilast 30 mg twice daily treatment group compared to the placebo treatment group at every visit, as early as week 1, through week 12 for number of oral ulcers (p ≤ 0.0015) and for oral ulcer pain (p ≤ 0.0035). Among patients who were
 
@@ -622,10 +600,10 @@ Figure 3. Mean number of oral ulcers by time point through week 64 (ITT populati
 
 Time (weeks)
 
-| Weeks                | 0124681 10 12                                                    | 16       | 28       | 40       | 52                | 64 Follow-up   |
-|----------------------|------------------------------------------------------------------|----------|----------|----------|-------------------|----------------|
-| Placebo, n (Mean)    | 1039897939186 82 (3.9)2.9)(2.8(2.3) (2.5) (2.2) (1.9) (2.0)      | 83 (0.7) | 78 (0.8) | 73 (0.7) | 70 67 (1.1) (0.8) | 82 (2.0)       |
-| APR 30 BID, n (Mean) | (4.2[1.9X1.4(1.3) (1.6) (1.2) (1.0)(1.1) 10410110110198 94 94 97 | (0.9) 95 | (0.9) 92 | (60) 85  | (0.9) 79 (1.4) 75 | (2.5) 85       |
+| Weeks                | 0124681 1012                                                | 16                | 28          | 40 52    | 64 Follow-up      |
+|----------------------|-------------------------------------------------------------|-------------------|-------------|----------|-------------------|
+| Placebo, n (Mean)    | 103 9897939186 82 (3.9)2.9)(2.8(2.3)(2.5) (2.2) (1.9) (2.0) | 8 (0.7) (0.8)     | 78 73 (0.7) | 70 (1.1) | 67 82 (0.8) (2.0) |
+| APR 30 BID, n (Mean) | 104 101101101 94 94 97 （）（）（）（）（）                           | 95 92 (0.9) (0.9) | S8 (0.9)    | 79 (0.9) | 75 85 (1.4) (2.5) |
 
 ITT = Intent To Treat; DAO = Data As Observed.
 
@@ -635,16 +613,14 @@ Note: Placebo or APR 30 mg BID indicates the treatment group in which patients w
 
 The follow-up time point was 4 weeks after patients completed week 64 or 4 weeks after patients discontinued treatment before week 64.
 
+| Weeks             | 2 1012                                                                  | 16         | 28         | 40         | 52         | 64 Follow-up          |
+|-------------------|-------------------------------------------------------------------------|------------|------------|------------|------------|-----------------------|
+| Placebo,n(Mean)   | （6-（-)（602-)（61-)（9-)(02-X-) 90 85 82 81                                | (-44.8) 82 | (-40.6) 77 | (-39.8) 73 | (-38.3) 70 | (-41.0) 68 (-19.7) 81 |
+| APR30 BID,n（Mean） | (-26.1)(-39.4)(-40.7)(-36.8) (-41.0)(-43.4)(-42.5) 95 97 99 97 92 93 95 | (-42.1) 94 | (-41.9) 91 | (-43.5) 84 | (-42.4) 78 | (-34.3) 75 (-19.3) 84 |
+
 Figure 4. Mean change from baseline in oral ulcer pain on a visual analog scale by time point through week 64 (ITT Population; DAO)
 
 <!-- image -->
-
-Time (weeks)
-
-| Weeks                | 1012                                                                      | 16         | 28         | 40         | 52                    | 64 Follow-up   |
-|----------------------|---------------------------------------------------------------------------|------------|------------|------------|-----------------------|----------------|
-| Placebo, n (Mean)    | (161-)(-)(602-)（6)(9)(0X-) 9596 90 85 82 81                               | (-44.8) 82 | (-40.6) 77 | (866-) 73  | (-38.3) 70 (-41.0) 68 | (-19.7) 81     |
-| APR 30 BID, n (Mean) | (-26.1)(-39.4) (-40.7)(-36.8) (-41.0)(-43.4) (-42.5) 95 97 66 97 92 93 95 | (-42.1) 94 | (-41.9) 91 | (-43.5) 84 | (-42.4) 78 (-34.3) 75 | (-19.3) 84     |
 
 APR 30 BID = apremilast twice daily; ITT = Intent-To-Treat; DAO = Data As Observed
 
@@ -656,7 +632,7 @@ The follow-up time point was 4 weeks after patients completed week 64 or 4 weeks
 
 ## Improvements in overall Behçet's disease activity
 
-Apremilast 30 mg twice daily, compared with placebo, resulted in significant reduction in overall disease activity, as demonstrated by the mean change from baseline at week 12 in the BSAS (p &lt; 0.0001) and the BDCAF (BDCAI, Patient's Perception of Disease Activity, and the Clinician's Overall Perception of Disease Activity; p-values ≤ 0.0335 for all three components).
+Apremilast 30 mg twice daily, compared with placebo, resulted in significant reduction in overall disease activity, as demonstrated by the mean change from baseline at week 12 in the BSAS (p &lt; 0.0001) and the BDCAF (BDCAI, Patient's Perception of Disease Activity, and the Clinician's Overall Perception of Disease Activity; pvalues ≤ 0.0335 for all three components).
 
 Among patients originally randomised to apremilast 30 mg twice daily who remained in the study, improvements (mean change from baseline) in both the BSAS and the BDCAF were maintained at week 64.
 
@@ -668,7 +644,7 @@ Among patients originally randomised to apremilast 30 mg twice daily who remaine
 
 ## Paediatric patients
 
-The European Medicines Agency has deferred the obligation to submit results of studies with apremilast in one or more subsets of the paediatric population with Behçet's disease  and psoriatic arthritis (see section 4.2 for information on paediatric use).
+The European Medicines Agency has deferred the obligation to submit results of studies with apremilast in one or more subsets of the paediatric population with Behçet's disease and psoriatic arthritis (see section 4.2 for information on paediatric use).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -684,7 +660,7 @@ Human plasma protein binding of apremilast is approximately 68%. The mean appare
 
 Apremilast is extensively metabolised by both CYP and non-CYP mediated pathways including oxidation, hydrolysis, and conjugation, suggesting inhibition of a single clearance pathway is not likely to cause a marked drug-drug interaction. Oxidative metabolism of apremilast is primarily mediated by CYP3A4, with minor contributions from CYP1A2 and CYP2A6. Apremilast is the major circulating component following oral administration. Apremilast undergoes extensive metabolism with only 3% and 7% of the administered parent compound recovered in urine and faeces, respectively. The major circulating inactive metabolite is the glucuronide conjugate of O -demethylated apremilast (M12). Consistent with apremilast being a substrate of CYP3A4, apremilast exposure is decreased when administered concomitantly with rifampicin, a strong inducer of CYP3A4.
 
-In vitro , apremilast is not an inhibitor or inducer of cytochrome P450 enzymes. Hence, apremilast coadministered with substrates of CYP enzymes is unlikely to affect the clearance and exposure of active substances that are metabolised by CYP enzymes.
+In vitro , apremilast is not an inhibitor or inducer of cytochrome P450 enzymes. Hence, apremilast co-administered with substrates of CYP enzymes is unlikely to affect the clearance and exposure of active substances that are metabolised by CYP enzymes.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -708,7 +684,7 @@ The pharmacokinetics of apremilast were evaluated in a clinical trial in subject
 
 There is no meaningful difference in the PK of apremilast between mild or moderate renally impaired adult subjects and matched healthy subjects (N = 8 each). The results support that no dose adjustment is needed in patients with mild and moderate renal impairment.
 
-In 8 adult subjects with severe renal impairment to whom a single dose of 30 mg apremilast was administered, the AUC and Cmax of apremilast increased by approximately 89% and 42%, respectively. The dose of apremilast should be reduced to 30 mg once daily in adult patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m 2 or CLcr &lt; 30 mL/min). In paediatric patients 6 years of age and older with severe renal impairment, the dose of apremilast should be reduced to 30 mg once daily for children who weigh at least 50 kg and to 20 mg once daily for children who weigh 20 kg to less than 50 kg (see section 4.2).
+In 8 adult subjects with severe renal impairment to whom a single dose of 30 mg apremilast was administered, the AUC and Cmax of apremilast increased by approximately 89% and 42%, respectively. The dose of apremilast should be reduced to 30 mg once daily in adult patients with severe renal impairment (eGFR less than 30 mL/min/1.73 m 2  or CLcr &lt; 30 mL/min). In paediatric patients 6 years of age and older with severe renal impairment, the dose of apremilast should be reduced to 30 mg once daily for children who weigh at least 50 kg and to 20 mg once daily for children who weigh 20 kg to less than 50 kg (see section 4.2).
 
 ## Hepatic impairment
 
@@ -822,13 +798,13 @@ EU/1/14/981/001
 
 Otezla 20 mg film-coated tablets
 
-EU/1/14/981/005 - pack size of 56 tablets
+EU/1/14/981/005 -pack size of 56 tablets
 
 Otezla 30 mg film-coated tablets
 
 EU/1/14/981/002 - pack size of 56 tablets
 
-EU/1/14/981/003 - pack size of 168 tablets
+EU/1/14/981/003 -pack size of 168 tablets
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -934,7 +910,7 @@ www.otezla-eu-pil.com
 
 Keep out of the sight and reach of children.
 
-7. OTHER SPECIAL WARNING(S), IF NECESSARY
+## 7. OTHER SPECIAL WARNING(S), IF NECESSARY
 
 8. EXPIRY DATE
 
@@ -970,7 +946,7 @@ Lot
 
 ## 16. INFORMATION IN BRAILLE
 
-Otezla 10mg Otezla 20mg
+Otezla 10 mg Otezla 20 mg
 
 <div style=\"page-break-after: always\"></div>
 
@@ -981,8 +957,8 @@ Otezla 10mg Otezla 20mg
 
 2 D barcode carrying the unique identifier included
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1087,8 +1063,8 @@ Otezla 30 mg
 
 2 D barcode carrying the unique identifier included
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -1101,10 +1077,7 @@ PC SN NN
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
-| Otezla 10 mg tablets   |
-|------------------------|
-| Otezla 20 mg tablets   |
-| apremilast             |
+Otezla 10 mg tablets Otezla 20 mg tablets apremilast
 
 | 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
 |------|------------------------------------------|
@@ -1114,14 +1087,12 @@ Amgen
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
-| EXP   |
-|-------|
+EXP
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-| Lot   |
-|-------|
+Lot
 
 | 5.   | OTHER   |
 |------|---------|
@@ -1135,11 +1106,7 @@ Amgen
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
-| Otezla 10 mg tablets   |
-|------------------------|
-| Otezla 20 mg tablets   |
-| Otezla 30 mg tablets   |
-| apremilast             |
+Otezla 10 mg tablets Otezla 20 mg tablets Otezla 30 mg tablets apremilast
 
 | 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
 |------|------------------------------------------|
@@ -1149,19 +1116,15 @@ Amgen
 | 3.   | EXPIRY DATE   |
 |------|---------------|
 
-| EXP   |
-|-------|
+EXP
 
 | 4.   | BATCH NUMBER   |
 |------|----------------|
 
-| Lot   |
-|-------|
+Lot
 
 | 5.   | OTHER   |
 |------|---------|
-
-36
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
@@ -1169,7 +1132,7 @@ Carton
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Otezla 20 mg film-coated tablets apremilast
+Otezla 20 mg film - coated tablets apremilast
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1211,8 +1174,6 @@ EXP
 
 Do not store above 30°C.
 
-<div style=\"page-break-after: always\"></div>
-
 ## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
@@ -1223,15 +1184,17 @@ Amgen Europe B.V. Minervum 7061, 4817 ZK Breda, The Netherlands
 
 EU/1/14/981/005
 
-## 13. BATCH NUMBER
+13. BATCH NUMBER
 
 Lot
 
 14. GENERAL CLASSIFICATION FOR SUPPLY
+
 15. INSTRUCTIONS ON USE
+
 16. INFORMATION IN BRAILLE
 
-Otezla 20mg
+Otezla 20 mg
 
 ## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
@@ -1240,6 +1203,8 @@ Otezla 20mg
 ## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
 
 PC SN
+
+<div style=\"page-break-after: always\"></div>
 
 NN
 
@@ -1251,7 +1216,7 @@ Carton
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Otezla 30 mg film-coated tablets apremilast
+Otezla 30 mg film -coated tablets apremilast
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
@@ -1417,25 +1382,21 @@ Otezla 10 mg film-coated tablets Otezla 20 mg film-coated tablets Otezla 30 mg f
 
 ## What Otezla is
 
-Otezla contains the active substance 'apremilast'. This belongs to a group of medicines called phosphodiesterase 4 inhibitors, which help to reduce inflammation.
+Otezla contains the active substance 'apremilast' . This belongs to a group of medicines called phosphodiesterase 4 inhibitors, which help to reduce inflammation.
 
 ## What Otezla is used for
 
 Otezla is used to treat adults with the following conditions:
 
-- Active psoriatic arthritis if you cannot use another type of medicine called 'Disease-Modifying Antirheumatic Drugs' (DMARDs) or when you have tried one of these medicines and it did not work.
+- Active psoriatic arthritis if you cannot use another type of medicine called 'Disease -Modifying Antirheumatic Drug s' (DMARDs) or when you have tried one of these medicines and it did not work.
 - Moderate to severe chronic plaque psoriasis -if you cannot use one of the following treatments or when you have tried one of these treatments and it did not work:
-
--
-
-phototherapy - a treatment where certain areas of skin are exposed to ultraviolet light
-
-- -systemic therapy - a treatment that affects the entire body rather than just one local area, such as 'ciclosporin', 'methotrexate' or 'psoralen '.
+- -phototherapy - a treatment where certain areas of skin are exposed to ultraviolet light
+- -systemic therapy - a treatment that affects the entire body rather than just one local area, such as 'ciclosporin' , 'methotrexate' or ' psoralen ' .
 - Behçet's disease (BD) - to treat the mouth ulcers which is a common problem for people with this illness.
 
 Otezla is used to treat children and adolescents 6 years of age and older and weighing at least 20 kg with the following condition:
 
-- Moderate to severe plaque psoriasis if your doctor determines that it is appropriate for you to take a systemic therapy like Otezla.
+- Moderate to severe plaque psoriasis -if your doctor determines that it is appropriate for you to take a systemic therapy like Otezla.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1453,7 +1414,7 @@ Behçet's disease is a rare type of inflammatory disease which affects many part
 
 ## How Otezla works
 
-Psoriatic arthritis, psoriasis and Behçet's disease are usually lifelong conditions and there is currently no cure. Otezla works by reducing the activity of an enzyme in the body called 'phosphodiesterase 4', which is involved in the process of inflammation. By reducing the activity of this enzyme, Otezla can help to control the inflammation associated with psoriatic arthritis, psoriasis and Behçet's disease, and thereby reduce the signs and symptoms of these conditions.
+Psoriatic arthritis, psoriasis and Behçet's disease are usually lifelong conditions and there is currently no cure. Otezla works by reducing the activity of an enzyme in the body called 'phosphodiesterase 4', which is involved in the process of inflammation. By reducing the activity of this enzyme, Otezla can help to control the inflammation associated with psoriatic arthritis, psoriasis and Behçet's disease , and thereby reduce the signs and symptoms of these conditions.
 
 In adults with psoriatic arthritis, treatment with Otezla results in an improvement in swollen and painful joints, and can improve your general physical function.
 
@@ -1461,7 +1422,7 @@ In adults and in children and adolescents from the age of 6 years and weighing a
 
 In adults with Behçet's disease, treatment with Otezla reduces the number of mouth ulcers and can stop them completely. It can also reduce the associated pain.
 
-Otezla has also been shown to improve the quality of life in adult and paediatric patients with psoriasis, adult patients with psoriatic arthritis and adult patients with Behçet's disease. This means that the impact of your condition on daily activities, relationships and other factors should be less than it was before.
+Otezla has also been shown to improve the quality of life in adult and paediatric patients with psoriasis, adult patients with psoriatic arthritis and adult patients with Behçet's disease . This means that the impact of your condition on daily activities, relationships and other factors should be less than it was before.
 
 ## 2. What you need to know before you take Otezla
 
@@ -1484,7 +1445,7 @@ You or your caregiver should also tell your doctor straight away of any changes 
 
 ## Severe kidney problems
 
-If you have severe kidney problems, your dose will be different - see section 3.
+If you have severe kidney problems, your dose will be different -see section 3.
 
 ## If you are underweight
 
@@ -1506,9 +1467,9 @@ Tell your doctor or pharmacist if you are taking, have recently taken or might t
 
 In particular, tell your doctor or pharmacist before taking Otezla if you are taking any of the following medicines:
 
-- rifampicin - an antibiotic used for tuberculosis
+- rifampicin -an antibiotic used for tuberculosis
 - phenytoin, phenobarbital and carbamazepine - medicines used in the treatment of seizures or epilepsy
-- St John's Wort - a herbal medicine for mild anxiety and depression.
+- St John's Wort a herbal medicine for mild anxiety and depression.
 
 ## Pregnancy and breast-feeding
 
@@ -1518,7 +1479,7 @@ If you are pregnant or breast-feeding, think you may be pregnant or are planning
 
 There is little information about the effects of Otezla in pregnancy. You should not become pregnant while taking this medicine and should use an effective method of contraception during treatment with Otezla.
 
-It is not known if this medicine passes into human milk. You should not use Otezla while breastfeeding.
+It is not known if this medicine passes into human milk. You should not use Otezla while breast-feeding.
 
 ## Driving and using machines
 
@@ -1536,7 +1497,7 @@ Always take this medicine exactly as your doctor has told you. Check with your d
 
 ## How much to take
 
-- When you first start taking Otezla, you will receive a 'treatment initiation pack' which containsenough tablets for a total of two weeks of treatment.
+- When you first start taking Otezla, you will receive a ' treatment initiation pack ' which contains enough tablets for a total of two weeks of treatment.
 - The 'treatment initiation pack' is clearly labelled to make sure you take the correct tablet at the correct time.
 - Your treatment will start at a lower dose and will gradually be increased during the first week of treatment (titration phase).
 - The 'treatment initiation pack' will also contain enough tablets for another week at the recommended dose.
@@ -1569,16 +1530,16 @@ For patients who weigh from 20 kg to less than 50 kg: The recommended dose of Ot
 | Day 2 | 10 mg (pink)                         | 10 mg (pink)                         | 20 mg                                |
 | Day 3 | 10 mg (pink)                         | 20 mg (brown)                        | 30 mg                                |
 | Day 4 | 20 mg (brown)                        | 20 mg (brown)                        | 40 mg                                |
-| Day 5 | 20 mg (brown)                        | 20 mg (brown)                        | 40 mg                                |
 
 <div style=\"page-break-after: always\"></div>
 
 |               | Weight of 20 kg to less than 50 kg   | Weight of 20 kg to less than 50 kg   | Weight of 20 kg to less than 50 kg   |
 |---------------|--------------------------------------|--------------------------------------|--------------------------------------|
 | Day           | Morning Dose                         | Evening Dose                         | Total Daily Dose                     |
+| Day 5         | 20 mg (brown)                        | 20 mg (brown)                        | 40 mg                                |
 | Day 6 onwards | 20 mg (brown)                        | 20 mg (brown)                        | 40 mg                                |
 
-For patients who weigh at least 50 kg : The recommended dose of Otezla is 30 mg twice a day after the titration phase is completed (the same as the adult dose), as shown in the table below - one 30 mg dose in the morning and one 30 mg dose in the evening, approximately 12 hours apart, with or without food.This is a total daily dose of 60 mg.
+For patients who weigh at least 50 kg : The recommended dose of Otezla is 30 mg twice a day after the titration phase is completed (the same as the adult dose), as shown in the table below - one 30 mg dose in the morning and one 30 mg dose in the evening, approximately 12 hours apart, with or without food. This is a total daily dose of 60 mg.
 
 |               | Weight of 50 kg or more   | Weight of 50 kg or more   | Weight of 50 kg or more   |
 |---------------|---------------------------|---------------------------|---------------------------|
@@ -1592,9 +1553,9 @@ For patients who weigh at least 50 kg : The recommended dose of Otezla is 30 mg 
 
 ## Patients with severe kidney problems
 
-If you  are an adult with severe kidney problems, then the recommended dose of Otezla is 30 mg once a day (morning dose) .
+If you are an adult with severe kidney problems, then the recommended dose of Otezla is 30 mg once a day (morning dose) .
 
-In children and adolescents 6 years of age and older with severe renal impairment, the recommended dose of Otezla is 30 mg once a day (morning dose) for patients who weigh at least 50 kg, and 20 mg once a day (morning dose) for children who weigh 20 kg to less than 50 kg .
+In children and adolescents 6 years of age and older with severe renal impairment, the recommended dose of Otezla is 30 mg once a day (morning dose) for patients who weigh at least 50 kg, and 20 mg once a day (morning dose) for children who weigh 20 kg to less than 50 kg.
 
 Your doctor will talk to you about how to increase your dose when you first start taking Otezla. Your doctor may advise that you only take the morning dose shown in the table above that applies to you (for adults or for children/adolescents) and that you skip the evening dose.
 
@@ -1629,7 +1590,7 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them.
 
-## Serious side effects - depression and suicidal thoughts
+## Serious side effects -depression and suicidal thoughts
 
 Tell your doctor straight away about any changes in behaviour or mood, feelings of depression, thoughts of suicide or suicidal behaviour (this is uncommon).
 
@@ -1665,6 +1626,8 @@ Tell your doctor straight away about any changes in behaviour or mood, feelings 
 - allergic reaction
 - bleeding in the bowel or in the stomach
 - suicidal ideation or behaviour
+- anxiety
+- mood changes
 
 ## Not known side effects (frequency cannot be estimated from the available data):
 
@@ -1705,11 +1668,11 @@ The other ingredients in the tablet core are cellulose microcrystalline, lactose
 
 ## What Otezla looks like and contents of the pack
 
-The Otezla 10 mg film-coated tablet is a pink, diamond shaped film-coated tablet with 'APR' engraved on one side and '10' on the opposite side.
+The Otezla 10 mg film-coated tablet is a pink, diamond shaped filmcoated tablet with 'APR' engraved on one side and '10' on the opposite side.
 
-The Otezla 20 mg film-coated tablet is a brown, diamond shaped film-coated tablet with 'APR' engraved on one side and '20' on the opposite side.
+The Otezla 20 mg film-coated tablet is a brown, diamond shaped filmcoated tablet with 'APR' engraved on one side and '20' on the opposite side.
 
-The Otezla 30 mg film-coated tablet is a beige, diamond shaped film-coated tablet with 'APR' engraved on one side and '30' on the opposite side.
+The Otezla 30 mg film-coated tablet is a beige, diamond shaped filmcoated tablet with 'APR' engraved on one side and '30' on the opposite side.
 
 ## Pack sizes for treatment initiation
 
@@ -1718,11 +1681,11 @@ The treatment initiation packs are folding wallets containing:
 - 27 film-coated tablets: 4 × 10 mg tablets and 23 × 20 mg tablets
 - 27 film-coated tablets: 4 × 10 mg tablets, 4 × 20 mg tablets and 19 × 30 mg tablets
 
+<div style=\"page-break-after: always\"></div>
+
 ## Pack sizes with Otezla 20 mg tablets
 
 - The one-month standard pack contains 56 × 20 mg film-coated tablets.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Pack sizes with Otezla 30 mg tablets
 
@@ -1749,11 +1712,23 @@ s.a. Amgen n.v.
 
 Tél/Tel: +32 (0)2 7752711
 
+## Lietuva
+
+Amgen Switzerland AG Vilniaus filialas
+
+Tel: +370 5 219 7474
+
 ## България
 
 Амджен България ЕООД
 
 Тел.: +359 (0)2 424 7440
+
+## Luxembourg/Luxemburg
+
+s.a. Amgen
+
+Belgique/Belgien Tél/Tel: +32 (0)2 7752711
 
 ## Česká republika
 
@@ -1761,11 +1736,25 @@ Amgen s.r.o.
 
 Tel: +420 221 773 500
 
+## Magyarország
+
+Amgen Kft.
+
+Tel.: +36 1 35 44 700
+
 ## Danmark
 
 Amgen, filial af Amgen AB, Sverige
 
 Tlf: +45 39617500
+
+## Malta
+
+Amgen S.r.l
+
+Italy
+
+Tel: +39 02 6241121
 
 ## Deutschland
 
@@ -1773,39 +1762,17 @@ Amgen GmbH
 
 Tel.: +49 89 1490960
 
-## Eesti
-
-Amgen Switzerland AG Vilniaus filialas
-
-Tel: +372 586 09553
-
-## Ελλάδα
-
-Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε.
-
-Τηλ: +30 210 3447000
-
-## Lietuva
-
-Amgen Switzerland AG Vilniaus filialas Tel: +370 5 219 7474
-
-## Luxembourg/Luxemburg
-
-s.a. Amgen Belgique/Belgien Tél/Tel: +32 (0)2 7752711
-
-## Magyarország
-
-Amgen Kft. Tel.: +36 1 35 44 700
-
-## Malta
-
-Amgen S.r.l Italy Tel: +39 02 6241121
-
 ## Nederland
 
 Amgen B.V.
 
 Tel: +31 (0)76 5732500
+
+## Eesti
+
+Amgen Switzerland AG Vilniaus filialas
+
+Tel: +372 586 09553
 
 ## Norge
 
@@ -1813,7 +1780,17 @@ Amgen AB
 
 Tlf: +47 23308000
 
+<div style=\"page-break-after: always\"></div>
+
+## Ελλάδα
+
 ## Österreich
+
+Amgen
+
+Ελλάς Φαρμακευτικά Ε.Π.Ε.
+
+Τηλ: +30 210 3447000
 
 Amgen GmbH
 
@@ -1877,7 +1854,7 @@ Sími: +354 535 7000
 
 Amgen Slovakia s.r.o.
 
-Tel: +421 2  321 114 49
+Tel: +421 2 321 114 49
 
 ## Italia
 
@@ -1915,8 +1892,6 @@ Amgen Limited
 
 Tel: +44 (0)1223 420305
 
-<div style=\"page-break-after: always\"></div>
-
 ## This leaflet was last revised in
 
 ## Other sources of information
@@ -1924,3 +1899,56 @@ Tel: +44 (0)1223 420305
 Detailed and updated information on this medicine is available by scanning the QR code on the outer packaging with a smartphone. The same information is also available on the following URL: www.otezla-eu-pil.com.
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu.
+
+<div style=\"page-break-after: always\"></div>
+
+## ANNEX IV
+
+## SCIENTIFIC CONCLUSIONS AND GROUNDS FOR THE VARIATION TO THE TERMS OF THE MARKETING AUTHORISATION(S)
+
+<div style=\"page-break-after: always\"></div>
+
+## Scientific conclusions
+
+Taking into account the PRAC Assessment Report on the PSUR(s) for apremilast, the scientific conclusions of PRAC are as follows:
+
+## Scientific conclusions and grounds for variation to the terms of the marketing authorisations
+
+In view of available data on anxiety and mood altered from spontaneous reports, including in some cases a close temporal relationship, a positive de-challenge and in view of the potential class effect, the PRAC considers that a causal relationship between apremilast and these adverse reactions is at least a reasonable possibility. The PRAC concluded that the product information of products containing apremilast should be amended accordingly.
+
+Update of section 4.4 of the SmPC to amend the current warning regarding Psychiatric disorders and update of section 4.8 of the SmPC to add the adverse reactions anxiety and mood altered with a frequency uncommon. The Package leaflet is updated accordingly.
+
+The following changes to the product information of medicinal products containing apremilast are recommended (new text underlined and in bold , deleted text strike through):
+
+## Summary of Product Characteristics
+
+- Section 4.4
+
+A warning should be amended as follow:
+
+## Psychiatric disorders
+
+Apremilast is associated with an increased risk of psychiatric disorders such as insomnia , anxiety, altered mood, and depression. Instances of suicidal ideation and behaviour, including suicide, have been observed in patients with or without history of depression (see section 4.8). The risks and benefits of starting or continuing treatment with apremilast should be carefully assessed if patients report previous or existing psychiatric symptoms or if concomitant treatment with other medicinal products likely to cause psychiatric events is intended. Patients and caregivers should be instructed to notify the prescriber of any changes in behaviour or mood and of any suicidal ideation. If patients suffered from new or worsening psychiatric symptoms, or suicidal ideation or suicidal attempt is identified, it is recommended to discontinue treatment with apremilast.
+
+- Section 4.8
+
+The following adverse reactions should be added under the SOC 'Psychiatric disorders' with a frequency uncommon: anxiety and mood altered.
+
+## Package Leaflet
+
+- •Section 4 Possible side effects
+
+Uncommon side effects (may affect up to 1 in 100 people)
+
+- Anxiety
+- Mood changes
+
+Having reviewed the PRAC recommendation, the CHMP agrees with the PRAC overall conclusions and grounds for recommendation.
+
+<div style=\"page-break-after: always\"></div>
+
+## Grounds for the variation to the terms of the marketing authorisation(s)
+
+On the basis of the scientific conclusions for apremilast the CHMP is of the opinion that the benefitrisk balance of the medicinal product(s) containing apremilast is unchanged subject to the proposed changes to the product information
+
+The CHMP recommends that the terms of the marketing authorisation(s) should be varied.

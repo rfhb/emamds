@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:48:23
+document_datetime: 2026-01-15 15:02:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/roclanda.html
 document_name: roclanda.html
 version: success
-processing_time: 0.1097067
-conversion_datetime: 2025-12-31 04:45:23.544747
+processing_time: 0.1026885
+conversion_datetime: 2026-01-17 13:07:57.748769
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 latanoprost / netarsudil Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -107,7 +105,7 @@ English (EN) (138.47 KB - PDF)
 
 [View](/en/documents/overview/roclanda-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-405)
+[Other languages (22)](#file-language-dropdown-150)
 
 български (BG) (142.64 KB - PDF)
 
@@ -285,13 +283,15 @@ svenska (SV) (115.67 KB - PDF)
 
 [View](/sv/documents/overview/roclanda-epar-medicine-overview_sv.pdf)
 
-Roclanda : EPAR - Risk-management-plan summary
+Roclanda : EPAR - Risk management plan
 
-English (EN) (283.73 KB - PDF)
+English (EN) (629.91 KB - PDF)
 
 **First published:** 21/01/2021
 
-[View](/en/documents/rmp-summary/roclanda-epar-risk-management-plan-summary_en.pdf)
+**Last updated:** 15/01/2026
+
+[View](/en/documents/rmp/roclanda-epar-risk-management-plan_en.pdf)
 
 ## Product information
 
@@ -305,7 +305,7 @@ English (EN) (266.61 KB - PDF)
 
 [View](/en/documents/product-information/roclanda-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-667)
+[Other languages (24)](#file-language-dropdown-34)
 
 български (BG) (392.62 KB - PDF)
 
@@ -621,7 +621,7 @@ English (EN) (14.05 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/roclanda-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-95)
+[Other languages (24)](#file-language-dropdown-935)
 
 български (BG) (36.95 KB - PDF)
 
@@ -941,7 +941,7 @@ Santen Oy
 
 Niittyhaankatu 20
 
-Opinion adopted 12/11/2020 Marketing authorisation issued 07/01/2021 Revision 10
+Opinion adopted 12/11/2020 Marketing authorisation issued 07/01/2021 Revision 11
 
 ## Assessment history
 
@@ -953,9 +953,11 @@ Collapse section
 
 Roclanda : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (143.5 KB - PDF)
+English (EN) (139.01 KB - PDF)
 
 **First published:** 17/09/2025
+
+**Last updated:** 15/01/2026
 
 [View](/en/documents/procedural-steps-after/roclanda-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -1009,7 +1011,7 @@ English (EN) (130.82 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 November 2020](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-november-2020) 13/11/2020
 
-**This page was last updated on** 17/09/2025
+**This page was last updated on** 15/01/2026
 
 ## Share this page
 

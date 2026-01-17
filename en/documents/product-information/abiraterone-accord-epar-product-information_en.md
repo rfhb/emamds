@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-05-06 08:38:37
+document_datetime: 2026-01-14 15:23:06
 document_pages: 72
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/abiraterone-accord-epar-product-information_en.pdf
 document_name: abiraterone-accord-epar-product-information_en.pdf
 version: success
-processing_time: 24.8379432
-conversion_datetime: 2025-12-21 22:43:38.783756
+processing_time: 28.1066843
+conversion_datetime: 2026-01-17 13:11:07.81302
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -299,14 +299,6 @@ Table 1: Adverse reactions identified in clinical studies and post-marketing
 | General disorders and administration site conditions | very common: oedema peripheral                                                                                                                                                       |
 | Injury, poisoning and procedural complications       | common: fractures**                                                                                                                                                                  |
 
-* Cardiac failure also includes congestive heart failure, left ventricular dysfunction and ejection fraction decreased
-
-**  Fractures includes osteoporosis and all fractures with the exception of pathological fractures
-
-a Spontaneous reports from post-marketing experience
-
-b Alanine aminotransferase increased and/or aspartate aminotransferase increased includes ALT increased, AST increased, and hepatic function abnormal.
-
 <div style=\"page-break-after: always\"></div>
 
 The following CTCAE (version 4.0) Grade 3 adverse reactions occurred in patients treated with abiraterone acetate: hypokalaemia 5%; urinary tract infection 2%; alanine aminotransferase increased and/or aspartate aminotransferase increased 4%; hypertension 6%; fractures 2%; peripheral oedema, cardiac failure, and atrial fibrillation 1% each. CTCAE (version 4.0) Grade 3 hypertriglyceridaemia and angina pectoris occurred in &lt; 1% of patients. CTCAE (version 4.0) Grade 4 urinary tract infection, alanine aminotransferase increased and/or aspartate aminotransferase increased, hypokalemia, cardiac failure, atrial fibrillation, and fractures occurred in &lt; 1% of patients.
@@ -476,10 +468,6 @@ Table 5: Study 302: Radiographic progression-free survival of patients treated w
 | (95% CI)                                      | (13.80; 16.79)                  | (8.05; 9.43)         |
 | p-value*                                      | < 0.0001                        | < 0.0001             |
 | Hazard ratio** (95% CI)                       | 0.530 (0.451; 0.623)            | 0.530 (0.451; 0.623) |
-
-* p-value is derived from a log-rank test stratified by baseline ECOG score (0 or 1)
-
-** Hazard ratio &lt; 1 favours abiraterone acetate
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1193,10 +1181,6 @@ Table 5: Study 302: Radiographic progression-free survival of patients treated w
 | (95% CI)                                      | (13.80; 16.79)                  | (8.05; 9.43)         |
 | p-value*                                      | < 0.0001                        | < 0.0001             |
 | Hazard ratio** (95% CI)                       | 0.530 (0.451; 0.623)            | 0.530 (0.451; 0.623) |
-
-*   p-value is derived from a log-rank test stratified by baseline ECOG score (0 or 1)
-
-** Hazard ratio &lt; 1 favours abiraterone acetate
 
 <div style=\"page-break-after: always\"></div>
 

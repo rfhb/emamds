@@ -1,18 +1,18 @@
 ---
-document_datetime: 2026-01-05 16:45:00
+document_datetime: 2026-01-14 15:36:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/zvogra.html
 document_name: zvogra.html
 version: success
-processing_time: 0.0676522
-conversion_datetime: 2026-01-06 01:10:08.897487
+processing_time: 0.114402
+conversion_datetime: 2026-01-17 13:09:41.250294
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 denosumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +115,7 @@ English (EN) (122.61 KB - PDF)
 
 [View](/en/documents/overview/zvogra-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-194)
+[Other languages (22)](#file-language-dropdown-384)
 
 български (BG) (148.07 KB - PDF)
 
@@ -307,173 +305,305 @@ English (EN) (425.48 KB - PDF)
 
 Zvogra : EPAR - Product information
 
-English (EN) (805.01 KB - PDF)
+English (EN) (807.82 KB - PDF)
 
 **First published:** 05/01/2026
 
+**Last updated:** 14/01/2026
+
 [View](/en/documents/product-information/zvogra-epar-product-information_en.pdf)
 
-[Other languages (20)](#file-language-dropdown-66)
+[Other languages (24)](#file-language-dropdown-800)
 
-български (BG) (793.35 KB - PDF)
+български (BG) (795.92 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+14/01/2026
 
 [View](/bg/documents/product-information/zvogra-epar-product-information_bg.pdf)
 
-español (ES) (805.31 KB - PDF)
+español (ES) (809.5 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+14/01/2026
 
 [View](/es/documents/product-information/zvogra-epar-product-information_es.pdf)
 
-čeština (CS) (767.9 KB - PDF)
+čeština (CS) (770.82 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+14/01/2026
 
 [View](/cs/documents/product-information/zvogra-epar-product-information_cs.pdf)
 
-dansk (DA) (731.85 KB - PDF)
+dansk (DA) (734.83 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+14/01/2026
 
 [View](/da/documents/product-information/zvogra-epar-product-information_da.pdf)
 
-Deutsch (DE) (787.22 KB - PDF)
+Deutsch (DE) (789.29 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+14/01/2026
 
 [View](/de/documents/product-information/zvogra-epar-product-information_de.pdf)
 
-eesti keel (ET) (733.67 KB - PDF)
+eesti keel (ET) (736.71 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+14/01/2026
 
 [View](/et/documents/product-information/zvogra-epar-product-information_et.pdf)
 
-ελληνικά (EL) (794.48 KB - PDF)
+ελληνικά (EL) (797.6 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+14/01/2026
 
 [View](/el/documents/product-information/zvogra-epar-product-information_el.pdf)
 
-français (FR) (763.35 KB - PDF)
+français (FR) (766.27 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+14/01/2026
 
 [View](/fr/documents/product-information/zvogra-epar-product-information_fr.pdf)
 
-hrvatski (HR) (638.33 KB - PDF)
+hrvatski (HR) (641.13 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+14/01/2026
 
 [View](/hr/documents/product-information/zvogra-epar-product-information_hr.pdf)
 
-íslenska (IS) (729.74 KB - PDF)
+íslenska (IS) (732.12 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+14/01/2026
 
 [View](/is/documents/product-information/zvogra-epar-product-information_is.pdf)
 
-magyar (HU) (748.95 KB - PDF)
+italiano (IT) (756.96 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+14/01/2026
+
+[View](/it/documents/product-information/zvogra-epar-product-information_it.pdf)
+
+latviešu valoda (LV) (820.48 KB - PDF)
+
+**First published:**
+
+05/01/2026
+
+**Last updated:**
+
+14/01/2026
+
+[View](/lv/documents/product-information/zvogra-epar-product-information_lv.pdf)
+
+lietuvių kalba (LT) (781.5 KB - PDF)
+
+**First published:**
+
+05/01/2026
+
+**Last updated:**
+
+14/01/2026
+
+[View](/lt/documents/product-information/zvogra-epar-product-information_lt.pdf)
+
+magyar (HU) (751.74 KB - PDF)
+
+**First published:**
+
+05/01/2026
+
+**Last updated:**
+
+14/01/2026
 
 [View](/hu/documents/product-information/zvogra-epar-product-information_hu.pdf)
 
-Nederlands (NL) (767.11 KB - PDF)
+Malti (MT) (808.42 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+14/01/2026
+
+[View](/mt/documents/product-information/zvogra-epar-product-information_mt.pdf)
+
+Nederlands (NL) (769.86 KB - PDF)
+
+**First published:**
+
+05/01/2026
+
+**Last updated:**
+
+14/01/2026
 
 [View](/nl/documents/product-information/zvogra-epar-product-information_nl.pdf)
 
-norsk (NO) (730.38 KB - PDF)
+norsk (NO) (732.77 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+14/01/2026
 
 [View](/no/documents/product-information/zvogra-epar-product-information_no.pdf)
 
-polski (PL) (768.19 KB - PDF)
+polski (PL) (770.42 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+14/01/2026
 
 [View](/pl/documents/product-information/zvogra-epar-product-information_pl.pdf)
 
-português (PT) (770.07 KB - PDF)
+português (PT) (772.53 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+14/01/2026
 
 [View](/pt/documents/product-information/zvogra-epar-product-information_pt.pdf)
 
-română (RO) (752.33 KB - PDF)
+română (RO) (755.54 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+14/01/2026
 
 [View](/ro/documents/product-information/zvogra-epar-product-information_ro.pdf)
 
-slovenčina (SK) (794.22 KB - PDF)
+slovenčina (SK) (796.81 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+14/01/2026
 
 [View](/sk/documents/product-information/zvogra-epar-product-information_sk.pdf)
 
-slovenščina (SL) (744.05 KB - PDF)
+slovenščina (SL) (747.2 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+14/01/2026
 
 [View](/sl/documents/product-information/zvogra-epar-product-information_sl.pdf)
 
-Suomi (FI) (733.14 KB - PDF)
+Suomi (FI) (735.92 KB - PDF)
 
 **First published:**
 
 05/01/2026
+
+**Last updated:**
+
+14/01/2026
 
 [View](/fi/documents/product-information/zvogra-epar-product-information_fi.pdf)
 
-svenska (SV) (754.36 KB - PDF)
+svenska (SV) (756.31 KB - PDF)
 
 **First published:**
 
 05/01/2026
 
+**Last updated:**
+
+14/01/2026
+
 [View](/sv/documents/product-information/zvogra-epar-product-information_sv.pdf)
+
+**Latest procedure affecting product information:** VR/0000318927 18/12/2025
 
 icon globe
 
@@ -497,7 +627,7 @@ English (EN) (50.11 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/zvogra-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-129)
+[Other languages (24)](#file-language-dropdown-218)
 
 български (BG) (62.29 KB - PDF)
 
@@ -728,9 +858,23 @@ Stada Arzneimittel AG
 
 Stada R&amp;D AG
 
-Opinion adopted 18/09/2025 Marketing authorisation issued 17/11/2025
+Opinion adopted 18/09/2025 Marketing authorisation issued 17/11/2025 Revision 1
 
 ## Assessment history
+
+Expand section
+
+Collapse section
+
+## Changes since initial authorisation of medicine
+
+Zvogra : EPAR - Procedural steps taken and scientific information after authorisation
+
+English (EN) (142.18 KB - PDF)
+
+**First published:** 14/01/2026
+
+[View](/en/documents/procedural-steps-after/zvogra-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -762,7 +906,7 @@ English (EN) (143.97 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 15-18 September 2025](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-15-18-september-2025) 19/09/2025
 
-**This page was last updated on** 05/01/2026
+**This page was last updated on** 14/01/2026
 
 ## Share this page
 

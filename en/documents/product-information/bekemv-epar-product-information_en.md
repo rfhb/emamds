@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-10-22 16:04:58
+document_datetime: 2026-01-15 12:51:58
 document_pages: 48
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/bekemv-epar-product-information_en.pdf
 document_name: bekemv-epar-product-information_en.pdf
 version: success
-processing_time: 16.7035654
-conversion_datetime: 2025-12-14 21:28:54.103281
+processing_time: 16.2775419
+conversion_datetime: 2026-01-17 13:20:20.91203
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -54,8 +54,8 @@ Clear to opalescent, colourless to slightly yellow, pH 5.2 solution and osmolali
 
 BEKEMV is indicated in adults and children for the treatment of
 
-- -Paroxysmal nocturnal haemoglobinuria (PNH). Evidence of clinical benefit is demonstrated in patients with haemolysis with clinical symptom(s) indicative of high disease activity, regardless of transfusion history (see section 5.1).
-- -Atypical haemolytic uremic syndrome (aHUS) (see section 5.1).
+- ­ Paroxysmal nocturnal haemoglobinuria (PNH). Evidence of clinical benefit is demonstrated in patients with haemolysis with clinical symptom(s) indicative of high disease activity, regardless of transfusion history (see section 5.1).
+- ­ Atypical haemolytic uremic syndrome (aHUS) (see section 5.1).
 
 ## 4.2 Posology and method of administration
 
@@ -355,9 +355,7 @@ Included studies: asthma (C07-002), aHUS (C08-002, C08-003, C10-003, C10-004), d
 X03-001, X03-001A), psoriasis (C99-007), RA (C01-004, C97-001, C99-001, E01-004, E99-001), STEC-HUS (C11-001), SLE (C97-002). MedDRA version 26.1.
 
 * See ' Description of selected adverse reactions. '
-
-a Abscess includes the following group of preferred terms (PTs): abscess limb, colonic abscess, renal abscess, subcutaneous abscess, tooth abscess, liver abscess, perirectal abscess, rectal abscess.
-
+- a Abscess includes the following group of preferred terms (PTs): abscess limb, colonic abscess, renal abscess, subcutaneous abscess, tooth abscess, liver abscess, perirectal abscess, rectal abscess.
 - b  Meningococcal infection includes the following group of PTs: meningococcal infection, meningococcal sepsis, meningitis meningococcal.
 - c ADRs identified in post marketing reports.
 
@@ -448,7 +446,7 @@ Table 2. Patient demographics and characteristics in C04-001 and C04-002
 | Parameter                                             | Placebo N = 44    | Eculizumab N = 43 | Eculizumab N = 97 |
 | Mean age (SD)                                         | 38.4 (13.4)       | 42.1 (15.5)       | 41.1 (14.4)       |
 | Gender - female (%)                                   | 29 (65.9)         | 23 (53.5)         | 49 (50.5)         |
-| History of aplastic anaemia or MDS(%)                 | 12 (27.3)         | 8 (18.7)          | 29 (29.9)         |
+| History of aplastic anaemia or MDS (%)                | 12 (27.3)         | 8 (18.7)          | 29 (29.9)         |
 | Concomitant anticoagulants (%)                        | 20 (45.5)         | 24 (55.8)         | 59 (61)           |
 | Concomitant steroids/immunosuppressant treatments (%) | 16 (36.4)         | 14 (32.6)         | 46 (47.4)         |
 | Discontinued treatment                                | 10                | 2                 | 1                 |
@@ -477,8 +475,6 @@ Table 3. Efficacy outcomes in C04-001 and C04-002
 |-----------------------------|----------------|-------------------|-----------|-------------------|------------|
 |                             | Placebo N = 44 | Eculizumab N = 43 | P - value | Eculizumab N = 97 | P - value  |
 | FACIT-fatigue (effect size) |                | 1.12              | < 0.001   | 1.14              | < 0.001    |
-
-* Results from study C04-002 refer to pre- versus post-treatment comparisons.
 
 From the 195 patients that originated in C04-001, C04-002 and other initial studies, eculizumab treated PNH patients were enrolled in a long-term extension study (E05-001). All patients sustained a reduction in intravascular haemolysis over a total eculizumab exposure time ranging from 10 to 54 months. There were fewer thrombotic events with eculizumab treatment than during the same period of time prior to treatment. However, this finding was shown in non-controlled clinical trials.
 
@@ -514,16 +510,16 @@ Primary endpoints included platelet count change from baseline in study C08-002A
 
 Table 5. Patient demographics and characteristics in C08-002A/B and C08-003A/B
 
-| Parameter                                                                                | C08-002A/B        | C08-003A/B        |
-|------------------------------------------------------------------------------------------|-------------------|-------------------|
-|                                                                                          | Eculizumab N = 17 | Eculizumab N = 20 |
-| Time from first diagnosis until screening in months median (min, max)                    | 10 (0.26, 236)    | 48 (0.66, 286)    |
-| Time from current clinicalTMA manifestation until screening in months, median (min, max) | < 1 (<1, 4)       | 9 (1, 45)         |
-| Number of PE/PI sessions for current clinical TMA manifestation, median (min, max)       | 17 (2, 37)        | 62 (20, 230)      |
-| Number of PE/PI sessions in 7 days prior to first dose of eculizumab, median (min, max)  | 6 (0, 7)          | 2 (1, 3)          |
-| Baseline platelet count (× 10 9 /L), mean (SD)                                           | 109 (32)          | 228 (78)          |
-| Baseline LDH (U/L), mean (SD)                                                            | 323 (138)         | 223 (70)          |
-| Patients without identified mutation, n (%)                                              | 4 (24)            | 6 (30)            |
+| Parameter                                                                                 | C08-002A/B        | C08-003A/B        |
+|-------------------------------------------------------------------------------------------|-------------------|-------------------|
+|                                                                                           | Eculizumab N = 17 | Eculizumab N = 20 |
+| Time from first diagnosis until screening in months median (min, max)                     | 10 (0.26, 236)    | 48 (0.66, 286)    |
+| Time from current clinical TMA manifestation until screening in months, median (min, max) | < 1 (<1, 4)       | 9 (1, 45)         |
+| Number of PE/PI sessions for current clinical TMA manifestation, median (min, max)        | 17 (2, 37)        | 62 (20, 230)      |
+| Number of PE/PI sessions in 7 days prior to first dose of eculizumab, median (min, max)   | 6 (0, 7)          | 2 (1, 3)          |
+| Baseline platelet count (× 10 9 /L), mean (SD)                                            | 109 (32)          | 228 (78)          |
+| Baseline LDH (U/L), mean (SD)                                                             | 323 (138)         | 223 (70)          |
+| Patients without identified mutation, n (%)                                               | 4 (24)            | 6 (30)            |
 
 Patients in aHUS study C08-002 A/B received eculizumab for a minimum of 26 weeks. After completion of the initial 26 week treatment period, most patients continued to receive eculizumab by enrolling into an extension study. In aHUS study C08-002A/B, the median duration of eculizumab therapy was approximately100 weeks (range: 2 weeks to 145 weeks).
 
@@ -550,12 +546,6 @@ Table 6. Efficacy outcomes in prospective aHUS studies C08-002A/B and C08-003A/B
 | Haematologic normalisation, n (%) (95% CI)                                                                                  | 13 (76) (50-93)                          | 15 (88) (64-99)                          | 18 (90) (68-99)                | 18 (90) (68-99)                |
 | Complete TMA response, n (%) (95% CI)                                                                                       | 11(65) (38-86)                           | 13(76) (50-93)                           | 5 (25) (9-49)                  | 11(55) (32-77)                 |
 
-1 At data cut off (20 April 2012)
-
-2  Study C08-002: 3 patients received ESA which was discontinued after eculizumab initiation
-
-3  Study C08-003: 8 patients received ESA which was discontinued in 3 of them during eculizumab therapy
-
 aHUS study C10-004 enrolled 41 patients who displayed signs of thrombotic microangiopathy (TMA). In order to qualify for enrolment, patients were required to have a platelet count &lt; lower limit of normal range (LLN), evidence of haemolysis such as an elevation in serum LDH, and serum creatinine above the upper limits of normal, without the need for chronic dialysis. The median patient
 
 <div style=\"page-break-after: always\"></div>
@@ -564,13 +554,13 @@ age was 35 (range: 18 to 80 years). All patients enrolled in aHUS study C10-004 
 
 Table 7. Baseline characteristics of patients enrolled in aHUS study C10-004
 
-| Parameter                                                                                      | aHUS study C10-004 N = 41   |
-|------------------------------------------------------------------------------------------------|-----------------------------|
-| Time from aHUS diagnosis to first study dose (months), median (min, max)                       | 0.79 (0.03, 311)            |
-| Time from current clinicalTMA manifestation until first study dose (months), median (min, max) | 0.52 (0.03, 19)             |
-| Baseline platelet count (× 10 9 /L), median (min, max)                                         | 125 (16, 332)               |
-| Baseline LDH (U/L), median (min, max)                                                          | 375 (131, 3318)             |
-| Baseline eGFR (mL/min/1.73m 2 ), median (min, max)                                             | 10 (6, 53)                  |
+| Parameter                                                                                       | aHUS study C10-004 N = 41   |
+|-------------------------------------------------------------------------------------------------|-----------------------------|
+| Time from aHUS diagnosis to first study dose (months), median (min, max)                        | 0.79 (0.03, 311)            |
+| Time from current clinical TMA manifestation until first study dose (months), median (min, max) | 0.52 (0.03, 19)             |
+| Baseline platelet count (× 10 9 /L), median (min, max)                                          | 125 (16, 332)               |
+| Baseline LDH (U/L), median (min, max)                                                           | 375 (131, 3318)             |
+| Baseline eGFR (mL/min/1.73m 2 ), median (min, max)                                              | 10 (6, 53)                  |
 
 Patients in aHUS study C10-004 received eculizumab for a minimum of 26 weeks. After completion of the initial 26-week treatment period, most patients elected to continue on chronic dosing.
 
@@ -582,15 +572,11 @@ Table 8. Efficacy outcomes in prospective aHUS study C10-004
 |--------------------------------------------------------------------------------------------------|-------------------------------------------|
 | Change in platelet count through week 26 (10 9 /L)                                               | 111 (-122, 362)                           |
 | Haematologic normalization, n (%) Median duration of haematologic normalization, weeks (range) 1 | 36 (88) 46 (10, 74)                       |
-| Complete TMA response, n (%) Median duration of complete TMAresponse, weeks (range) 1            | 23 (56) 42 (6, 74)                        |
+| Complete TMA response, n (%) Median duration of complete TMA response, weeks (range) 1           | 23 (56) 42 (6, 74)                        |
 | TMA Event-free Status, n (%) 95% CI                                                              | 37 (90) 77; 97                            |
 | Daily TMA intervention rate, median (range) Before eculizumab On eculizumab treatment            | 0.63 (0, 1.38) 0 (0, 0.58)                |
 
-1  Through data cut-off (September 4, 2012), with median duration of eculizumab therapy of 50 weeks (range:
-
-13 weeks to 86 weeks).
-
-Longer term treatment with eculizumab (median 52 weeks ranging from 15 to 126 weeks) was associated with an increased rate of clinically meaningful improvements in adult patients with aHUS. When eculizumab treatment was continued for more than 26 weeks, three additional patients (63% of patients in total) achieved Complete TMA response and four additional patients (98% of patients in total) achieved haematologic normalization. At the last evaluation, 25 of 41 patients (61%) achieved eGFR improvement of ≥ 15 mL/min/1.73 m 2  from baseline.
+Longer term treatment with eculizumab (median 52 weeks ranging from 15 to 126 weeks) was associated with an increased rate of clinically meaningful improvements in adult patients with aHUS. When eculizumab treatment was continued for more than 26 weeks, three additional patients (63% of patients in total) achieved Complete TMA response and four additional patients (98% of patients in total) achieved haematologic normalization. At the last evaluation, 25 of 41 patients (61%) achieved eGFR improvement of ≥ 15 mL/min/1.73 m 2 from baseline.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -640,15 +626,13 @@ In paediatric patients with longer duration of current severe clinical TMA manif
 
 Table 11. Efficacy outcomes in paediatric patients in study C09-001r according to duration of current severe clinical thrombotic microangiopathy (TMA) manifestation
 
-|                                      | Duration of current severe clinical TMA manifestation   | Duration of current severe clinical TMA manifestation   |
-|--------------------------------------|---------------------------------------------------------|---------------------------------------------------------|
-|                                      | < 2 months N = 10 (%)                                   | > 2 months N = 5 (%)                                    |
-| Platelet count normalisation         | 9 (90)                                                  | 5 (100)                                                 |
-| TMA event-free status                | 8 (80)                                                  | 3 (60)                                                  |
-| Complete TMA response                | 7 (70)                                                  | 0                                                       |
-| eGFR improvement ≥ 15 mL/min/1.73m 2 | 7 (70)                                                  | 0*                                                      |
-
-*One patient achieved eGFR improvement after renal transplant
+|                                      | Duration of current severe clinicalTMA manifestation   | Duration of current severe clinicalTMA manifestation   |
+|--------------------------------------|--------------------------------------------------------|--------------------------------------------------------|
+|                                      | < 2 months N = 10 (%)                                  | > 2 months N = 5 (%)                                   |
+| Platelet count normalisation         | 9 (90)                                                 | 5 (100)                                                |
+| TMA event-free status                | 8 (80)                                                 | 3 (60)                                                 |
+| Complete TMA response                | 7 (70)                                                 | 0                                                      |
+| eGFR improvement ≥ 15 mL/min/1.73m 2 | 7 (70)                                                 | 0*                                                     |
 
 A total of 22 paediatric and adolescents patients (aged 5 months to 17 years) received eculizumab in aHUS study C10-003.
 
@@ -658,13 +642,13 @@ In study C10-003, patients who enrolled in the study were required to have a pla
 
 Table 12. Baseline characteristics of paediatric and adolescents patients enrolled in aHUS study C10-003
 
-| Parameter                                                                                      | 1 month to < 12 years (N = 18)   | All patients (N = 22)   |
-|------------------------------------------------------------------------------------------------|----------------------------------|-------------------------|
-| Time from aHUS diagnosis until first study dose (months) median (min, max)                     | 0.51 (0.03, 58)                  | 0.56 (0.03,191)         |
-| Time from current clinicalTMA manifestation until first study dose (months), median (min, max) | 0.23 (0.03, 4)                   | 0.20 (0.03, 4)          |
-| Baseline platelet count (x 10 9 /L), median (min, max)                                         | 110 (19, 146)                    | 91 (19,146)             |
-| Baseline LDH (U/L) median (min, max)                                                           | 1 510 (282, 7 164)               | 1 244 (282, 7 164)      |
-| Baseline eGFR (mL/min/1.73m 2 ), median (min, max)                                             | 22 (10, 105)                     | 22 (10, 105)            |
+| Parameter                                                                                       | 1 month to < 12 years (N = 18)   | All patients (N = 22)   |
+|-------------------------------------------------------------------------------------------------|----------------------------------|-------------------------|
+| Time from aHUS diagnosis until first study dose (months) median (min, max)                      | 0.51 (0.03, 58)                  | 0.56 (0.03,191)         |
+| Time from current clinical TMA manifestation until first study dose (months), median (min, max) | 0.23 (0.03, 4)                   | 0.20 (0.03, 4)          |
+| Baseline platelet count (x 10 9 /L), median (min, max)                                          | 110 (19, 146)                    | 91 (19,146)             |
+| Baseline LDH (U/L) median (min, max)                                                            | 1 510 (282, 7 164)               | 1 244 (282, 7 164)      |
+| Baseline eGFR (mL/min/1.73m 2 ), median (min, max)                                              | 22 (10, 105)                     | 22 (10, 105)            |
 
 Patients in aHUS C10-003 received eculizumab for a minimum of 26 weeks. After completion of the initial 26-week treatment period, most patients elected to continue on chronic dosing. Reduction in terminal complement activity was observed in all patients after commencement of eculizumab. Eculizumab reduced signs of complement-mediated TMA activity, as shown by an increase in mean platelet counts from baseline to 26 weeks. The mean (±SD) platelet count increased from 88 ± 42 x10 9 /L at baseline to 281 ± 123 x10 9 /L by one week; this effect was maintained through 26 weeks (mean platelet count (±SD) at week 26: 293 ± 106 x10 9 /L). Renal function, as measured by eGFR, was improved during eculizumab therapy. Nine of the 11 patients who required dialysis at baseline no longer required dialysis after study day 15 of eculizumab treatment. Responses were similar across all ages from 5 months to 17 years of age. In aHUS C10-003, responses to eculizumab were similar in patients with and without identified mutations in genes encoding complement regulatory factor proteins or auto-antibodies to factor H.
 
@@ -675,7 +659,7 @@ Table 13. Efficacy outcomes in prospective aHUS study C10-003
 | Efficacy Parameter                                                                                                 | 1 month to < 12 years (N = 18) At 26-weeks   | All patients (N = 22) At 26-weeks   |
 |--------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------------------------------|
 | Complete haematologic normalisation, n (%) Median duration of complete haematologic normalisation, weeks (range) 1 | 14 (78) 35 (13, 78)                          | 18 (82) 35 (13, 78)                 |
-| Complete TMA response, n (%) Median duration of complete TMAresponse, weeks (range) 1                              | 11 (61) 40 (13, 78)                          | 14 (64) 37 (13, 78)                 |
+| Complete TMA response, n (%) Median duration of complete TMA response, weeks (range) 1                             | 11 (61) 40 (13, 78)                          | 14 (64) 37 (13, 78)                 |
 | TMA event-free status, n (%) 95% CI                                                                                | 17 (94) NA                                   | 21 (96) 77; 99                      |
 | Daily TMA intervention rate, median (range) Before eculizumab treatment, median On eculizumab treatment, median    | NA NA                                        | 0.4 (0, 1.7) 0 (0, 1.01)            |
 | eGFR improvement ≥15 mL/min/ 1.73•m 2 , n (%)                                                                      | 16 (89)                                      | 19 (86)                             |
@@ -694,7 +678,7 @@ Table 13. Efficacy outcomes in prospective aHUS study C10-003
 
 1 dose to 88 weeks).
 
-Longer term treatment with eculizumab (median 55 weeks ranging from 1 day to 107 weeks) was associated with an increased rate of clinically meaningful improvements in paediatric and adolescent patients with aHUS. When eculizumab treatment was continued for more than 26 weeks, one additional patient (68% of patients in total) achieved complete TMA response and two additional patients (91% of patients in total) achieved hematologic normalization. At the last evaluation, 19 of 22 patients (86%) achieved eGFR improvement of ≥ 15 mL/min/1.73 m 2  from baseline. No patient required new dialysis with eculizumab.
+Longer term treatment with eculizumab (median 55 weeks ranging from 1 day to 107 weeks) was associated with an increased rate of clinically meaningful improvements in paediatric and adolescent patients with aHUS. When eculizumab treatment was continued for more than 26 weeks, one additional patient (68% of patients in total) achieved complete TMA response and two additional patients (91% of patients in total) achieved hematologic normalization. At the last evaluation, 19 of 22 patients (86%) achieved eGFR improvement of ≥ 15 mL/min/1.73 m 2 from baseline. No patient required new dialysis with eculizumab.
 
 ## 5.2 Pharmacokinetic properties
 
@@ -799,7 +783,7 @@ Vial (type I glass) with an elastomeric stopper and an aluminium seal with flip-
 
 Prior to administration, the BEKEMV solution should be visually inspected for particulate matter and discolouration.
 
-## Instructions
+Instructions
 
 Dilution should be performed in accordance with good practices rules, particularly for the respect of asepsis.
 
@@ -856,6 +840,8 @@ Name and address of the manufacturers responsible for batch release
 
 Amgen Technology (Ireland) UC Pottery Road, Dun Laoghaire Co. Dublin, A96 F2A8 Ireland
 
+Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
+
 Amgen NV Telecomlaan 5-7 1831 Diegem Belgium
 
 The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
@@ -876,12 +862,12 @@ The requirements for submission of PSURs for this medicinal product are set out 
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
+<div style=\"page-break-after: always\"></div>
+
 An updated RMP should be submitted:
 
 - At the request of the European Medicines Agency.
 - Whenever the risk management system is modified, especially as the result of new information being received that may lead to a significant change to the benefit/risk profile or as the result of an important (pharmacovigilance or risk minimisation) milestone being reached.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Additional risk minimisation measures
 
@@ -924,15 +910,15 @@ The educational materials for patients/parents/caregivers shall include:
 
 - Patient information leaflet
 - Guide for patient/parent/caregiver
-- Patient card
-
-The guide for patient/parent/caregiver should contain the following key messages:
-
-- Treatment with eculizumab increases the risk of severe infection, especially Neisseria meningitidis and other Neisseria species, including disseminated gonorrhoeae .
-- Signs and symptoms of severe infection and the need to obtain urgent medical care.
 
 <div style=\"page-break-after: always\"></div>
 
+## · Patient card
+
+The guide for patient/parent/caregiver should contain the following key messages:
+
+- Treatment with eculizumab increases the risk of severe infection, especially Neisseria meningitidis and other Neisseria species, including disseminated gonorrhoeae
+- Signs and symptoms of severe infection and the need to obtain urgent medical care.
 - The patient card and the need to carry it on their person and tell any treating healthcare professional that they are being treated with eculizumab.
 - The importance of meningococcal vaccination prior to treatment with eculizumab and/or to receive antibiotic prophylaxis.
 - The patient must be vaccinated and revaccinated according to current national guidelines for vaccination use.
@@ -953,6 +939,8 @@ The patient card should contain:
 - Contact details where a health care professional can receive further information.
 
 The MAH shall send annually to prescribers or pharmacists who prescribe/dispense BEKEMV, a reminder in order that the prescriber/pharmacist checks if a (re)-vaccination against Neisseria meningitidis is needed for his/her patients on BEKEMV.
+
+- .
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1016,7 +1004,7 @@ Do not freeze.
 
 Store in the original package in order to protect from light.
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
@@ -1032,7 +1020,7 @@ Lot
 
 ## 14. GENERAL CLASSIFICATION FOR SUPPLY
 
-## 15. INSTRUCTIONS ON USE
+15. INSTRUCTIONS ON USE
 
 ## 16. INFORMATION IN BRAILLE
 
@@ -1104,8 +1092,8 @@ Store in the original package in order to protect from light.
 
 <div style=\"page-break-after: always\"></div>
 
-| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCHMEDICINAL PRODUCTS, IF APPROPRIATE   |
-|-------|---------------------------------------------------------------------------------------------------------------------------------------|
+| 10.   | SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROMSUCH MEDICINAL PRODUCTS, IF APPROPRIATE   |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|
 
 | 11.   | NAMEANDADDRESS OF THE MARKETING AUTHORISATION HOLDER   |
 |-------|--------------------------------------------------------|
@@ -1117,8 +1105,8 @@ Amgen Technology (Ireland) UC, Pottery Road, Dun Laoghaire, Co. Dublin, A96 F2A8
 
 EU/1/23/1727/001
 
-| 13.   | BATCH NUMBER   |
-|-------|----------------|
+| 13. BATCH NUMBER   |
+|--------------------|
 
 Lot
 
@@ -1186,8 +1174,8 @@ BEKEMV is also used to treat adults and children patients with a certain type of
 ## Do not use BEKEMV
 
 - -If you are allergic to eculizumab or any of the other ingredients of this medicine (listed in section 6).
-- -If you have fructose intolerance, a quite rare genetic condition where the enzyme for breaking down fructose is not produced.
-- -Children below 2 years of age must not receive this medicine. This medicine contains sorbitol and sorbitol may be fatal in hereditary fructose intolerance (HFI). In babies and children below 2 years of age HFI may not yet be diagnosed. (See special warnings at the end of this section under subtitle 'BEKEMV contains sorbitol').
+- ­ If you have fructose intolerance, a quite rare genetic condition where the enzyme for breaking down fructose is not produced.
+- ­ Children below 2 years of age must not receive this medicine. This medicine contains sorbitol and sorbitol may be fatal in hereditary fructose intolerance (HFI). In babies and children below 2 years of age HFI may not yet be diagnosed. (See special warnings at the end of this section under subtitle 'BEKEMV contains sorbitol').
 - -If you have not been vaccinated against meningococcal infection unless you take antibiotics to reduce the risk of infection until 2 weeks after you have been vaccinated.
 - -If you have a meningococcal infection.
 
@@ -1367,14 +1355,14 @@ Interrupting or ending treatment with BEKEMV may cause your aHUS symptoms to com
 
 The risks of stopping BEKEMV include an increase in the inflammation of your platelets, which may cause:
 
-- -A significant fall in your platelets (thrombocytopenia),
-- -A significant rise in destruction of your red blood cells,
-- -Decreased urination (problems with your kidneys),
-- -An increase in your serum creatinine level (problems with your kidneys),
-- -Confusion or change in how alert you are,
-- -Chest pain, or angina,
-- -Shortness of breath, or
-- -Thrombosis (blood clotting).
+- ­ A significant fall in your platelets (thrombocytopenia),
+- ­ A significant rise in destruction of your red blood cells,
+- ­ Decreased urination (problems with your kidneys),
+- ­ An increase in your serum creatinine level (problems with your kidneys),
+- ­ Confusion or change in how alert you are,
+- ­ Chest pain, or angina,
+- ­ Shortness of breath, or
+- ­ Thrombosis (blood clotting).
 
 If you have any of these symptoms, contact your doctor.
 
@@ -1386,7 +1374,7 @@ The most serious side effect was meningococcal sepsis. If you experience any of 
 
 If you are not sure what the side effects below are, ask your doctor to explain them to you.
 
-Very common (may affect more than 1 in 10 people)
+## Very common (may affect more than 1 in 10 people)
 
 - headache
 
@@ -1496,15 +1484,17 @@ Amgen Technology (Ireland) UC Pottery Road, Dun Laoghaire Co. Dublin, A96 F2A8 I
 
 ## Manufacturer
 
+Amgen Europe B.V. Minervum 7061 4817 ZK Breda The Netherlands
+
+## Manufacturer
+
 Amgen NV Telecomlaan 5-7 1831 Diegem Belgium
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
 ## België/Belgique/Belgien
 
-s.a. Amgen n.v.
-
-Tél/Tel: +32 (0)2 7752711
+s.a. Amgen n.v. Tél/Tel: +32 (0)2 7752711
 
 ## България
 
@@ -1514,9 +1504,7 @@ Tél/Tel: +32 (0)2 7752711
 
 ## Česká republika
 
-Amgen s.r.o.
-
-Tel: +420 221 773 500
+Amgen s.r.o. Tel: +420 221 773 500
 
 ## Danmark
 
@@ -1536,19 +1524,7 @@ Amgen Ελλάς Φαρμακευτικά Ε.Π.Ε. Τηλ: +30 210 3447000
 
 ## España
 
-Amgen S.A.
-
-Tel: +34 93 600 18 60
-
-## France
-
-Amgen S.A.S.
-
-Tél: +33 (0)9 69 363 363
-
-## Hrvatska
-
-Amgen d.o.o. Tel: +385 (0)1 562 57 20
+Amgen S.A. Tel: +34 93 600 18 60
 
 ## Lietuva
 
@@ -1560,15 +1536,11 @@ s.a. Amgen Belgique/Belgien Tél/Tel: +32 (0)2 7752711
 
 ## Magyarország
 
-Amgen Kft.
-
-Tel.: +36 1 35 44 700
+Amgen Kft. Tel.: +36 1 35 44 700
 
 ## Malta
 
-Amgen S.r.l. Italy
-
-Tel: +39 02 6241121
+Amgen S.r.l. Italy Tel: +39 02 6241121
 
 ## Nederland
 
@@ -1576,7 +1548,9 @@ Amgen B.V. Tel: +31 (0)76 5732500
 
 ## Norge
 
-Amgen AB Tlf: +47 23308000
+Amgen AB
+
+Tlf: +47 23308000
 
 ## Österreich
 
@@ -1584,11 +1558,27 @@ Amgen GmbH Tel: +43 (0)1 50 217
 
 ## Polska
 
-Amgen Biotechnologia Sp. z o.o. Tel.: +48 22 581 3000
+Amgen Biotechnologia Sp. z o.o.
+
+Tel.: +48 22 581 3000
+
+## France
+
+Amgen S.A.S.
+
+Tél: +33 (0)9 69 363 363
 
 ## Portugal
 
-Amgen Biofarmacêutica, Lda. Tel: +351 21 4220606
+Amgen Biofarmacêutica, Lda.
+
+Tel: +351 21 4220606
+
+## Hrvatska
+
+Amgen d.o.o.
+
+Tel: +385 (0)1 562 57 20
 
 ## România
 
@@ -1676,6 +1666,8 @@ Each vial of BEKEMV contains 300 mg of active substance in 30 mL of product solu
 
 Dilution should be performed in accordance with good practices rules, particularly for the respect of asepsis.
 
+<div style=\"page-break-after: always\"></div>
+
 BEKEMV should be prepared for administration by a qualified healthcare professional using aseptic technique.
 
 - Inspect visually BEKEMV solution for particulate matter and discolouration.
@@ -1684,9 +1676,6 @@ BEKEMV should be prepared for administration by a qualified healthcare professio
 - Dilute BEKEMV to a final concentration of 5 mg/mL (initial concentration divided by 2) by adding the appropriate amount of diluent to the infusion bag.
 - -For 300 mg doses, use 30 mL of BEKEMV (10 mg/mL) and add 30 mL of diluent.
 - -For 600 mg doses, use 60 mL of BEKEMV and add 60 mL of diluent.
-
-<div style=\"page-break-after: always\"></div>
-
 - -For 900 mg doses, use 90 mL of BEKEMV and add 90 mL of diluent.
 - -For 1 200 mg doses, use 120 mL of BEKEMV and add 120 mL of diluent.
 

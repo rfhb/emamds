@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-05-23 18:53:16
-document_pages: 41
+document_datetime: 2026-01-16 12:32:03
+document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/ifirmacombi-epar-product-information_en.pdf
 document_name: ifirmacombi-epar-product-information_en.pdf
 version: success
-processing_time: 7.776984
-conversion_datetime: 2025-12-25 03:56:09.032768
+processing_time: 7.7778887
+conversion_datetime: 2026-01-17 13:24:12.121726
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -532,36 +532,27 @@ In patients with mild to moderate cirrhosis, the pharmacokinetic parameters of i
 
 ## Irbesartan/hydrochlorothiazide
 
-The potential toxicity of the irbesartan/hydrochlorothiazide combination after oral administration was evaluated in rats and macaques in studies lasting up to 6 months. There were no toxicological findings observed of relevance to human therapeutic use. The following changes, observed in rats and macaques receiving the irbesartan/hydrochlorothiazide combination at 10/10 and 90/90 mg/kg/day, were also seen with one of the two medicinal products alone and/or were secondary to decreases in blood pressure (no significant toxicologic interactions were observed):
-
-- -kidney changes, characterized by slight increases in serum urea and creatinine, and hyperplasia/hypertrophy of the juxtaglomerular apparatus, which are a direct consequence of the interaction of irbesartan with the renin-angiotensin system;
-- -slight decreases in erythrocyte parameters (erythrocytes, haemoglobin, haematocrit);
-- -stomach discoloration, ulcers and focal necrosis of gastric mucosa were observed in few rats in a 6 months toxicity study at irbesartan 90 mg/kg/day, hydrochlorothiazide 90 mg/kg/day, and irbesartan/hydrochlorothiazide 10/10 mg/kg/day. These lesions were not observed in macaques;
-- -decreases in serum potassium due to hydrochlorothiazide and partly prevented when hydrochlorothiazide was given in combination with irbesartan.
-
-Most of the above mentioned effects appear to be due to the pharmacological activity of irbesartan (blockade of angiotensin-II-induced inhibition of renin release, with stimulation of the renin-producing cells) and occur also with angiotensin converting enzyme inhibitors. These findings appear to have no relevance to the use of therapeutic doses of irbesartan/hydrochlorothiazide in humans.
-
-No teratogenic effects were seen in rats given irbesartan and hydrochlorothiazide in combination at doses that produced maternal toxicity. The effects of the irbesartan/hydrochlorothiazide combination on fertility have not been evaluated in animal studies, as there is no evidence of adverse effect on fertility in animals or humans with either irbesartan or hydrochlorothiazide when administered alone. However, another angiotensin-II antagonist affected fertility parameters in animal studies when given
-
-<div style=\"page-break-after: always\"></div>
-
-alone. These findings were also observed with lower doses of this other angiotensin-II antagonist when given in combination with hydrochlorothiazide.
+Results in rats and macaques in studies lasting up to 6 months showed that administration of the combination neither augmented any of the reported toxicities of the single components, nor induced any new toxicities. In addition, no toxicologically synergistic effects were observed.
 
 There was no evidence of mutagenicity or clastogenicity with the irbesartan/hydrochlorothiazide combination. The carcinogenic potential of irbesartan and hydrochlorothiazide in combination has not been evaluated in animal studies.
 
+The effects of the irbesartan/hydrochlorothiazide combination on fertility have not been evaluated in animal studies. No teratogenic effects were seen in rats given irbesartan and hydrochlorothiazide in combination at doses that produced maternal toxicity.
+
 ## Irbesartan
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In non-clinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidneys (such as interstitial nephritis, tubular distention, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distention, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
+Fertility and reproductive performance were not affected in studies of male and female rats. Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or
 
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption was noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
+<div style=\"page-break-after: always\"></div>
+
+subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption was noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 ## Hydrochlorothiazide
 
-Equivocal evidence for a genotoxic or carcinogenic effect was found in some experimental models.
+Equivocal evidence of a genotoxic or carcinogenic effect was observed in some experimental models.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -569,17 +560,29 @@ Equivocal evidence for a genotoxic or carcinogenic effect was found in some expe
 
 Tablet core: Mannitol Hydroxypropylcellulose Hydroxypropylcellulose, low-substituted Sodium starch glycolate Talc Macrogol 6000 Castor oil, hydrogenated
 
-Ifirmacombi 150 mg/12.5 mg and 300 mg/25 mg film-coated tablets Film coating: Polyvinyl alcohol Titanium dioxide (E171)
+Ifirmacombi 150 mg/12.5 mg and 300 mg/25 mg film-coated tablets
 
-<div style=\"page-break-after: always\"></div>
+Film coating:
 
-Macrogol Talc Iron oxide, yellow (E172) Iron oxide, red (E172)
+Polyvinyl alcohol
+
+Titanium dioxide (E171)
+
+Macrogol
+
+Talc
+
+Iron oxide, yellow (E172)
+
+Iron oxide, red (E172)
 
 Ifirmacombi 300 mg/12.5 mg film-coated tablets
 
 Film coating:
 
-Polyvinyl alcohol Titanium dioxide (E171)
+Polyvinyl alcohol
+
+Titanium dioxide (E171)
 
 Macrogol
 
@@ -589,7 +592,7 @@ Talc
 
 Not applicable.
 
-6.3 Shelf life
+## 6.3 Shelf life
 
 5 years
 
@@ -603,6 +606,8 @@ Blister (OPA/Aluminium/PVC//Aluminium): 14, 28, 30, 56, 56 x 1, 84, 90 and 98 fi
 
 Not all pack sizes may be marketed.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.6 Special precautions for disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
@@ -613,9 +618,7 @@ KRKA, d.d., Novo mesto, Šmarješka cesta 6, 8501 Novo mesto, Slovenia
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
-Ifirmacombi 150 mg/12.5 mg film-coated tablets
-
-EU/1/11/673/001-008
+Ifirmacombi 150 mg/12.5 mg film-coated tablets EU/1/11/673/001-008
 
 Ifirmacombi 300 mg/12.5 mg film-coated tablets
 
@@ -629,7 +632,7 @@ EU/1/11/673/017-024
 
 Date of first authorisation: 04 March 2011
 
-<div style=\"page-break-after: always\"></div>
+Date of latest renewal: 19 November 2015
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -789,7 +792,7 @@ Ifirmacombi 150 mg/12.5 mg tablets irbesartan/hydrochlorothiazide
 
 KRKA
 
-3. EXPIRY DATE
+## 3. EXPIRY DATE
 
 EXP
 
@@ -800,9 +803,6 @@ Lot
 ## 5. OTHER
 
 <div style=\"page-break-after: always\"></div>
-
-| 5.   | OTHER   |
-|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1021,6 +1021,21 @@ SN
 
 NN
 
+<div style=\"page-break-after: always\"></div>
+
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
+|-----------------------------------------------------|
+| BLISTER                                             |
+
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
+
+| 2.   | NAMEOF THE MARKETING AUTHORISATION HOLDER   |
+|------|---------------------------------------------|
+
+| 5.   | OTHER   |
+|------|---------|
+
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 BLISTER
@@ -1033,7 +1048,7 @@ Ifirmacombi 300 mg/25 mg tablets irbesartan/hydrochlorothiazide
 
 KRKA
 
-## 3. EXPIRY DATE
+3. EXPIRY DATE
 
 EXP
 
@@ -1042,11 +1057,6 @@ EXP
 Lot
 
 ## 5. OTHER
-
-<div style=\"page-break-after: always\"></div>
-
-| 5.   | OTHER   |
-|------|---------|
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1238,7 +1248,9 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 <div style=\"page-break-after: always\"></div>
 
-Like all medicines, this medicine can cause side effects, although not everybody gets them. Some of these effects may be serious and may require medical attention.
+Like all medicines, this medicine can cause side effects, although not everybody gets them.
+
+Some of these effects may be serious and may require medical attention.
 
 Rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan.
 
@@ -1340,7 +1352,7 @@ Each Ifirmacombi 300 mg/25 mg film-coated tablet contains 300 mg irbesartan (as 
 
 <div style=\"page-break-after: always\"></div>
 
-## -The other ingredients are:
+- -The other ingredients are:
 
 Ifirmacombi 150 mg/12.5 mg:
 
@@ -1528,7 +1540,9 @@ Tel.: + 48 (0)22 573 7500
 
 ## Portugal
 
-KRKA Farmacêutica, Sociedade Unipessoal Lda. Tel: + 351 (0)21 46 43 650
+KRKA Farmacêutica, Sociedade Unipessoal Lda.
+
+Tel: + 351 (0)21 46 43 650
 
 ## România
 

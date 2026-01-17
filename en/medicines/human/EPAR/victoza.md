@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 08:38:12
+document_datetime: 2026-01-16 13:55:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/victoza.html
 document_name: victoza.html
 version: success
-processing_time: 0.2721238
-conversion_datetime: 2025-12-30 19:58:48.163874
+processing_time: 0.1415026
+conversion_datetime: 2026-01-17 13:20:48.313926
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 liraglutide Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -120,7 +118,7 @@ English (EN) (140.31 KB - PDF)
 
 [View](/en/documents/overview/victoza-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-353)
+[Other languages (22)](#file-language-dropdown-146)
 
 български (BG) (165.91 KB - PDF)
 
@@ -394,6 +392,14 @@ English (EN) (79.65 KB - PDF)
 
 [View](/en/documents/rmp-summary/victoza-epar-risk-management-plan-summary_en.pdf)
 
+Victoza : EPAR - Risk management plan
+
+English (EN) (2.02 MB - PDF)
+
+**First published:** 16/01/2026
+
+[View](/en/documents/rmp/victoza-epar-risk-management-plan_en.pdf)
+
 ## Product information
 
 Victoza : EPAR - Product Information
@@ -406,7 +412,7 @@ English (EN) (480.11 KB - PDF)
 
 [View](/en/documents/product-information/victoza-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-401)
+[Other languages (24)](#file-language-dropdown-806)
 
 български (BG) (689.49 KB - PDF)
 
@@ -722,7 +728,7 @@ English (EN) (12.24 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/victoza-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-419)
+[Other languages (21)](#file-language-dropdown-415)
 
 български (BG) (81.39 KB - PDF)
 
@@ -1299,6 +1305,7 @@ English (EN) (53.51 KB - PDF)
 - [Victoza - supply shortage](/en/medicines/human/shortages/victoza)
 - [Ozempic / Victoza - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/ozempic-victoza)
 - [Ozempic / Victoza - direct healthcare professional communication (DHPC)](/en/medicines/dhpc/ozempic-victoza-0)
+- [Database Linkage Study to Evaluate the Risk of Medullary Thyroid Carcinoma - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000513)
 - [DARWIN EU® - Drug Utilisation Study on GLP-1 Receptor Agonists - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000223)
 - [Incretin-based therapies and Pancreatic Cancer risk in Medicare enrollees - new user protocol - post-authorisation study](https://catalogues.ema.europa.eu/study/8912)
 
@@ -1306,7 +1313,7 @@ English (EN) (53.51 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 20/02/2025
+**This page was last updated on** 16/01/2026
 
 ## Share this page
 

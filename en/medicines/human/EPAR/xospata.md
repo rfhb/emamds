@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 09:31:33
+document_datetime: 2026-01-16 16:10:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/xospata.html
 document_name: xospata.html
 version: success
-processing_time: 0.1062732
-conversion_datetime: 2025-12-30 09:48:17.428887
+processing_time: 0.114645
+conversion_datetime: 2026-01-17 23:24:41.16147
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 gilteritinib Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +109,7 @@ English (EN) (107.62 KB - PDF)
 
 [View](/en/documents/overview/xospata-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-751)
+[Other languages (22)](#file-language-dropdown-55)
 
 български (BG) (141.34 KB - PDF)
 
@@ -311,7 +309,7 @@ English (EN) (463.17 KB - PDF)
 
 [View](/en/documents/product-information/xospata-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-869)
+[Other languages (24)](#file-language-dropdown-29)
 
 български (BG) (534.89 KB - PDF)
 
@@ -625,7 +623,7 @@ English (EN) (14.66 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/xospata-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-197)
+[Other languages (24)](#file-language-dropdown-123)
 
 български (BG) (40.75 KB - PDF)
 
@@ -845,7 +843,7 @@ Astellas Pharma Europe B.V.
 
 Sylviusweg 62
 
-Opinion adopted 19/09/2019 Marketing authorisation issued 24/10/2019 Revision 7
+Opinion adopted 19/09/2019 Marketing authorisation issued 24/10/2019 Revision 8
 
 ## Assessment history
 
@@ -855,15 +853,27 @@ Collapse section
 
 ## Changes since initial authorisation of medicine
 
-Xospata : EPAR - Procedural steps taken and scientific information after authorisation
+Xospata : EPAR - Procedural steps taken and scientific information after authorisation (archive)
 
-English (EN) (155.43 KB - PDF)
+English (EN) (149.85 KB - PDF)
 
 **First published:** 03/06/2021
 
-**Last updated:** 09/07/2024
+**Last updated:** 16/01/2026
 
-[View](/en/documents/procedural-steps-after/xospata-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/xospata-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
+
+Xospata-PAM-0000301487: EPAR - Assessment report
+
+Adopted
+
+Reference Number: EMADOC-1700519818-2531297
+
+English (EN) (978.82 KB - PDF)
+
+**First published:** 16/01/2026
+
+[View](/en/documents/variation-report/xospata-pam-0000301487-epar-assessment-report_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -915,7 +925,7 @@ English (EN) (69.65 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 09/07/2024
+**This page was last updated on** 16/01/2026
 
 ## Share this page
 

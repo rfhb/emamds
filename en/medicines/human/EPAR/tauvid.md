@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 07:03:14
+document_datetime: 2026-01-16 15:15:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/tauvid.html
 document_name: tauvid.html
 version: success
-processing_time: 0.1053416
-conversion_datetime: 2025-12-31 03:48:40.726488
+processing_time: 0.1143891
+conversion_datetime: 2026-01-17 13:42:59.972638
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 flortaucipir (18F) Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -111,7 +109,7 @@ English (EN) (116.71 KB - PDF)
 
 [View](/en/documents/overview/tauvid-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-585)
+[Other languages (22)](#file-language-dropdown-427)
 
 български (BG) (144.36 KB - PDF)
 
@@ -301,17 +299,17 @@ English (EN) (704.97 KB - PDF)
 
 Tauvid : EPAR - Product information
 
-English (EN) (840.33 KB - PDF)
+English (EN) (678.87 KB - PDF)
 
 **First published:** 13/09/2024
 
-**Last updated:** 03/12/2024
+**Last updated:** 16/01/2026
 
 [View](/en/documents/product-information/tauvid-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-709)
+[Other languages (24)](#file-language-dropdown-674)
 
-български (BG) (1 MB - PDF)
+български (BG) (790.3 KB - PDF)
 
 **First published:**
 
@@ -319,11 +317,11 @@ English (EN) (840.33 KB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/bg/documents/product-information/tauvid-epar-product-information_bg.pdf)
 
-español (ES) (927.38 KB - PDF)
+español (ES) (807.45 KB - PDF)
 
 **First published:**
 
@@ -331,11 +329,11 @@ español (ES) (927.38 KB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/es/documents/product-information/tauvid-epar-product-information_es.pdf)
 
-čeština (CS) (1013.86 KB - PDF)
+čeština (CS) (856.61 KB - PDF)
 
 **First published:**
 
@@ -343,11 +341,11 @@ español (ES) (927.38 KB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/cs/documents/product-information/tauvid-epar-product-information_cs.pdf)
 
-dansk (DA) (902.37 KB - PDF)
+dansk (DA) (700.64 KB - PDF)
 
 **First published:**
 
@@ -355,11 +353,11 @@ dansk (DA) (902.37 KB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/da/documents/product-information/tauvid-epar-product-information_da.pdf)
 
-Deutsch (DE) (861.69 KB - PDF)
+Deutsch (DE) (709.84 KB - PDF)
 
 **First published:**
 
@@ -367,11 +365,11 @@ Deutsch (DE) (861.69 KB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/de/documents/product-information/tauvid-epar-product-information_de.pdf)
 
-eesti keel (ET) (825.21 KB - PDF)
+eesti keel (ET) (668.86 KB - PDF)
 
 **First published:**
 
@@ -379,11 +377,11 @@ eesti keel (ET) (825.21 KB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/et/documents/product-information/tauvid-epar-product-information_et.pdf)
 
-ελληνικά (EL) (761.14 KB - PDF)
+ελληνικά (EL) (740.64 KB - PDF)
 
 **First published:**
 
@@ -391,11 +389,11 @@ eesti keel (ET) (825.21 KB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/el/documents/product-information/tauvid-epar-product-information_el.pdf)
 
-français (FR) (871.65 KB - PDF)
+français (FR) (636.29 KB - PDF)
 
 **First published:**
 
@@ -403,11 +401,11 @@ français (FR) (871.65 KB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/fr/documents/product-information/tauvid-epar-product-information_fr.pdf)
 
-hrvatski (HR) (872.49 KB - PDF)
+hrvatski (HR) (713.66 KB - PDF)
 
 **First published:**
 
@@ -415,11 +413,11 @@ hrvatski (HR) (872.49 KB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/hr/documents/product-information/tauvid-epar-product-information_hr.pdf)
 
-íslenska (IS) (857.99 KB - PDF)
+íslenska (IS) (691.04 KB - PDF)
 
 **First published:**
 
@@ -427,11 +425,11 @@ hrvatski (HR) (872.49 KB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/is/documents/product-information/tauvid-epar-product-information_is.pdf)
 
-italiano (IT) (929.17 KB - PDF)
+italiano (IT) (769.21 KB - PDF)
 
 **First published:**
 
@@ -439,11 +437,11 @@ italiano (IT) (929.17 KB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/it/documents/product-information/tauvid-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (854.43 KB - PDF)
+latviešu valoda (LV) (701.26 KB - PDF)
 
 **First published:**
 
@@ -451,11 +449,11 @@ latviešu valoda (LV) (854.43 KB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/lv/documents/product-information/tauvid-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (868.66 KB - PDF)
+lietuvių kalba (LT) (720.84 KB - PDF)
 
 **First published:**
 
@@ -463,11 +461,11 @@ lietuvių kalba (LT) (868.66 KB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/lt/documents/product-information/tauvid-epar-product-information_lt.pdf)
 
-magyar (HU) (874.83 KB - PDF)
+magyar (HU) (722.81 KB - PDF)
 
 **First published:**
 
@@ -475,11 +473,11 @@ magyar (HU) (874.83 KB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/hu/documents/product-information/tauvid-epar-product-information_hu.pdf)
 
-Malti (MT) (949.63 KB - PDF)
+Malti (MT) (769.57 KB - PDF)
 
 **First published:**
 
@@ -487,11 +485,11 @@ Malti (MT) (949.63 KB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/mt/documents/product-information/tauvid-epar-product-information_mt.pdf)
 
-Nederlands (NL) (851.14 KB - PDF)
+Nederlands (NL) (694.17 KB - PDF)
 
 **First published:**
 
@@ -499,11 +497,11 @@ Nederlands (NL) (851.14 KB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/nl/documents/product-information/tauvid-epar-product-information_nl.pdf)
 
-norsk (NO) (862.38 KB - PDF)
+norsk (NO) (648.52 KB - PDF)
 
 **First published:**
 
@@ -511,11 +509,11 @@ norsk (NO) (862.38 KB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/no/documents/product-information/tauvid-epar-product-information_no.pdf)
 
-polski (PL) (956.29 KB - PDF)
+polski (PL) (689.85 KB - PDF)
 
 **First published:**
 
@@ -523,11 +521,11 @@ polski (PL) (956.29 KB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/pl/documents/product-information/tauvid-epar-product-information_pl.pdf)
 
-português (PT) (831.63 KB - PDF)
+português (PT) (688.7 KB - PDF)
 
 **First published:**
 
@@ -535,11 +533,11 @@ português (PT) (831.63 KB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/pt/documents/product-information/tauvid-epar-product-information_pt.pdf)
 
-română (RO) (1.19 MB - PDF)
+română (RO) (704.38 KB - PDF)
 
 **First published:**
 
@@ -547,11 +545,11 @@ română (RO) (1.19 MB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/ro/documents/product-information/tauvid-epar-product-information_ro.pdf)
 
-slovenčina (SK) (902.27 KB - PDF)
+slovenčina (SK) (748.91 KB - PDF)
 
 **First published:**
 
@@ -559,11 +557,11 @@ slovenčina (SK) (902.27 KB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/sk/documents/product-information/tauvid-epar-product-information_sk.pdf)
 
-slovenščina (SL) (881.4 KB - PDF)
+slovenščina (SL) (741.93 KB - PDF)
 
 **First published:**
 
@@ -571,11 +569,11 @@ slovenščina (SL) (881.4 KB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/sl/documents/product-information/tauvid-epar-product-information_sl.pdf)
 
-Suomi (FI) (831.48 KB - PDF)
+Suomi (FI) (688.83 KB - PDF)
 
 **First published:**
 
@@ -583,11 +581,11 @@ Suomi (FI) (831.48 KB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/fi/documents/product-information/tauvid-epar-product-information_fi.pdf)
 
-svenska (SV) (847.22 KB - PDF)
+svenska (SV) (680.62 KB - PDF)
 
 **First published:**
 
@@ -595,11 +593,11 @@ svenska (SV) (847.22 KB - PDF)
 
 **Last updated:**
 
-03/12/2024
+16/01/2026
 
 [View](/sv/documents/product-information/tauvid-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** IB/0001/G 07/11/2024
+**Latest procedure affecting product information:** VR/0000315508 16/01/2026
 
 icon globe
 
@@ -623,7 +621,7 @@ English (EN) (66.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/tauvid-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-628)
+[Other languages (24)](#file-language-dropdown-379)
 
 български (BG) (81.17 KB - PDF)
 
@@ -847,7 +845,7 @@ Eli Lilly Nederland B.V.
 
 Papendorpseweg 83
 
-Opinion adopted 27/06/2024 Marketing authorisation issued 22/08/2024 Revision 1
+Opinion adopted 27/06/2024 Marketing authorisation issued 22/08/2024 Revision 2
 
 ## Assessment history
 
@@ -859,9 +857,11 @@ Collapse section
 
 Tauvid : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (141.69 KB - PDF)
+English (EN) (135.7 KB - PDF)
 
 **First published:** 03/12/2024
+
+**Last updated:** 16/01/2026
 
 [View](/en/documents/procedural-steps-after/tauvid-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -895,7 +895,7 @@ English (EN) (165.11 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 24-27 June 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-24-27-june-2024) 28/06/2024
 
-**This page was last updated on** 03/12/2024
+**This page was last updated on** 16/01/2026
 
 ## Share this page
 

@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-02-14 16:39:23
-document_pages: 141
+document_datetime: 2026-01-16 12:51:04
+document_pages: 140
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/karvea-epar-product-information_en.pdf
 document_name: karvea-epar-product-information_en.pdf
 version: success
-processing_time: 28.578444
-conversion_datetime: 2025-12-20 10:10:45.831299
+processing_time: 28.1963188
+conversion_datetime: 2026-01-17 13:19:50.776105
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -378,7 +378,7 @@ hypertension) children and adolescents aged 6 to 16 years over a three-week peri
 
 ## Hypertension and type 2 diabetes with renal disease
 
-The 'Irbesartan Diabetic Nephropathy Trial (IDNT)' shows that irbesartan decreases the progression of renal disease in patients with chronic renal insufficiency and overt proteinuria. IDNT was a double blind, controlled, morbidity and mortality trial comparing Karvea, amlodipine and placebo. In 1,715 hypertensive patients with type 2 diabetes, proteinuria ≥ 900 mg/day and serum creatinine ranging from 1.0-3.0 mg/dl, the long-term effects (mean 2.6 years) of Karvea on the progression of renal disease and all-cause mortality were examined. Patients were titrated from 75 mg to a maintenance dose of 300 mg Karvea, from 2.5 mg to 10 mg amlodipine, or placebo as tolerated. Patients in all treatment groups typically received between 2 and 4 antihypertensive agents (e.g., diuretics, beta blockers, alpha blockers) to reach a predefined blood pressure goal of ≤ 135/85 mmHg or a 10 mmHg reduction in systolic pressure if baseline was &gt; 160 mmHg. Sixty per cent (60%) of patients in the placebo group reached this target blood pressure whereas this figure was 76% and 78% in the irbesartan and amlodipine groups respectively. Irbesartan significantly reduced the relative risk in the primary combined endpoint of doubling serum creatinine, end-stage renal disease (ESRD) or allcause mortality. Approximately 33% of patients in the irbesartan group reached the primary renal composite endpoint compared to 39% and 41% in the placebo and amlodipine groups [20% relative risk reduction versus placebo (p = 0.024) and 23% relative risk reduction compared to amlodipine (p = 0.006)]. When the individual components of the primary endpoint were analysed, no effect in allcause mortality was observed, while a positive trend in the reduction in ESRD and a significant reduction in doubling of serum creatinine were observed.
+The 'Irbesartan Diabetic Nephropathy Trial (IDNT)' shows that irbesartan decreases the progression of renal disease in patients with chronic renal insufficiency and overt proteinuria. IDNT was a double blind, controlled, morbidity and mortality trial comparing Karvea, amlodipine and placebo. In 1,715 hypertensive patients with type 2 diabetes, proteinuria ≥ 900 mg/day and serum creatinine ranging from 1.0-3.0 mg/dl, the long-term effects (mean 2.6 years) of Karvea on the progression of renal disease and all-cause mortality were examined. Patients were titrated from 75 mg to a maintenance dose of 300 mg Karvea , from 2.5 mg to 10 mg amlodipine, or placebo as tolerated. Patients in all treatment groups typically received between 2 and 4 antihypertensive agents (e.g., diuretics, beta blockers, alpha blockers) to reach a predefined blood pressure goal of ≤ 135/85 mmHg or a 10 mmHg reduction in systolic pressure if baseline was &gt; 160 mmHg. Sixty per cent (60%) of patients in the placebo group reached this target blood pressure whereas this figure was 76% and 78% in the irbesartan and amlodipine groups respectively. Irbesartan significantly reduced the relative risk in the primary combined endpoint of doubling serum creatinine, end-stage renal disease (ESRD) or allcause mortality. Approximately 33% of patients in the irbesartan group reached the primary renal composite endpoint compared to 39% and 41% in the placebo and amlodipine groups [20% relative risk reduction versus placebo (p = 0.024) and 23% relative risk reduction compared to amlodipine (p = 0.006)]. When the individual components of the primary endpoint were analysed, no effect in allcause mortality was observed, while a positive trend in the reduction in ESRD and a significant reduction in doubling of serum creatinine were observed.
 
 Subgroups consisting of gender, race, age, duration of diabetes, baseline blood pressure, serum creatinine, and albumin excretion rate were assessed for treatment effect. In the female and black subgroups which represented 32% and 26% of the overall study population respectively, a renal benefit was not evident, although the confidence intervals do not exclude it. As for the secondary endpoint of fatal and non-fatal cardiovascular events, there was no difference among the three groups in the overall population, although an increased incidence of non-fatal MI was seen for women and a decreased incidence of non-fatal MI was seen in males in the irbesartan group versus the placebobased regimen. An increased incidence of non-fatal MI and stroke was seen in females in the irbesartan-based regimen versus the amlodipine-based regimen, while hospitalization due to heart failure was reduced in the overall population. However, no proper explanation for these findings in women has been identified.
 
@@ -392,7 +392,9 @@ improvement in the glomerular filtration rate (GFR) was not observed during the 
 
 Two large randomised, controlled trials (ONTARGET (ONgoing Telmisartan Alone and in combination with Ramipril Global Endpoint Trial) and VA NEPHRON-D (The Veterans Affairs Nephropathy in Diabetes)) have examined the use of the combination of an ACE-inhibitor with an angiotensin II receptor blocker. ONTARGET was a study conducted in patients with a history of cardiovascular or cerebrovascular disease, or type 2 diabetes mellitus accompanied by evidence of end-organ damage. VA NEPHRON-D was a study in patients with type 2 diabetes mellitus and diabetic nephropathy.
 
-These studies have shown no significant beneficial effect on renal and/or cardiovascular outcomes and mortality, while an increased risk of hyperkalaemia, acute kidney injury and/or hypotension as compared to monotherapy was observed. Given their similar pharmacodynamic properties, these results are also relevant for other ACE-inhibitors and angiotensin II receptor blockers. ACE-inhibitors and angiotensin II receptor blockers should therefore not be used concomitantly in patients with diabetic nephropathy.
+These studies have shown no significant beneficial effect on renal and/or cardiovascular outcomes and mortality, while an increased risk of hyperkalaemia, acute kidney injury and/or hypotension as compared to monotherapy was observed. Given their similar pharmacodynamic properties, these results are also relevant for other ACE-inhibitors and angiotensin II receptor blockers.
+
+ACE-inhibitors and angiotensin II receptor blockers should therefore not be used concomitantly in patients with diabetic nephropathy.
 
 ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Disease Endpoints) was a study designed to test the benefit of adding aliskiren to a standard therapy of an ACE-inhibitor or an angiotensin II receptor blocker in patients with type 2 diabetes mellitus and chronic kidney disease, cardiovascular disease, or both. The study was terminated early because of an increased risk of adverse outcomes. Cardiovascular death and stroke were both numerically more frequent in the aliskiren group than in the placebo group and adverse events and serious adverse events of interest (hyperkalaemia, hypotension and renal dysfunction) were more frequently reported in the aliskiren group than in the placebo group.
 
@@ -438,17 +440,13 @@ Studies have not been performed in patients with severe hepatic impairment.
 
 ## 5.3 Preclinical safety data
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In nonclinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidney (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/ hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring.
+Fertility and reproductive performance were not affected in studies of male and female rats. Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 <div style=\"page-break-after: always\"></div>
-
-Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
-
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -470,7 +468,13 @@ Do not store above 30°C.
 
 ## 6.5 Nature and contents of container
 
-Cartons of 14 tablets in PVC/PVDC/Aluminium blisters. Cartons of 28 tablets in PVC/PVDC/Aluminium blisters. Cartons of 56 tablets in PVC/PVDC/Aluminium blisters. Cartons of 98 tablets in PVC/PVDC/Aluminium blisters.
+Cartons of 14 tablets in PVC/PVDC/Aluminium blisters.
+
+Cartons of 28 tablets in PVC/PVDC/Aluminium blisters.
+
+Cartons of 56 tablets in PVC/PVDC/Aluminium blisters.
+
+Cartons of 98 tablets in PVC/PVDC/Aluminium blisters.
 
 Cartons of 56 x 1 tablet in PVC/PVDC/Aluminium perforated unit dose blisters.
 
@@ -482,13 +486,15 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly France
+Sanofi Winthrop Industrie
 
-<div style=\"page-break-after: always\"></div>
+82 avenue Raspail 94250 Gentilly France
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
 EU/1/97/049/001-003 EU/1/97/049/010 EU/1/97/049/013
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION / RENEWAL OF THE AUTHORISATION
 
@@ -680,7 +686,7 @@ Not known:
 
 anaemia, thrombocytopenia
 
-Immune system disorders
+## Immune system disorders
 
 Not known: hypersensitivity reactions such as angioedema, rash, urticaria, anaphylactic reaction, anaphylactic shock
 
@@ -856,7 +862,7 @@ dose), 5.6 mmHg (high dose). Over a subsequent two-week period where patients we
 
 ## Hypertension and type 2 diabetes with renal disease
 
-The 'Irbesartan Diabetic Nephropathy Trial (IDNT)' shows that irbesartan decreases the progression of renal disease in patients with chronic renal insufficiency and overt proteinuria. IDNT was a double blind, controlled, morbidity and mortality trial comparing Karvea, amlodipine and placebo. In 1,715 hypertensive patients with type 2 diabetes, proteinuria ≥ 900 mg/day and serum creatinine ranging from 1.0-3.0 mg/dl, the long-term effects (mean 2.6 years) of Karvea on the progression of renal disease and all-cause mortality were examined. Patients were titrated from 75 mg to a maintenance dose of 300 mg Karvea, from 2.5 mg to 10 mg amlodipine, or placebo as tolerated. Patients in all treatment groups typically received between 2 and 4 antihypertensive agents (e.g., diuretics, beta blockers, alpha blockers) to reach a predefined blood pressure goal of ≤ 135/85 mmHg or a 10 mmHg reduction in systolic pressure if baseline was &gt; 160 mmHg. Sixty per cent (60%) of patients in the placebo group reached this target blood pressure whereas this figure was 76% and 78% in the irbesartan and amlodipine groups respectively. Irbesartan significantly reduced the relative risk in the primary combined endpoint of doubling serum creatinine, end-stage renal disease (ESRD) or allcause mortality. Approximately 33% of patients in the irbesartan group reached the primary renal composite endpoint compared to 39% and 41% in the placebo and amlodipine groups [20% relative risk reduction versus placebo (p = 0.024) and 23% relative risk reduction compared to amlodipine (p = 0.006)]. When the individual components of the primary endpoint were analysed, no effect in allcause mortality was observed, while a positive trend in the reduction in ESRD and a significant reduction in doubling of serum creatinine were observed.
+The 'Irbesartan Diabetic Nephropathy Trial (IDNT)' shows that irbesartan decreases the progression of renal disease in patients with chronic renal insufficiency and overt proteinuria. IDNT was a double blind, controlled, morbidity and mortality trial comparing Karvea, amlodipine and placebo. In 1,715 hypertensive patients with type 2 diabetes, proteinuria ≥ 900 mg/day and serum creatinine ranging from 1.0-3.0 mg/dl, the long-term effects (mean 2.6 years) of Karvea on the progression of renal disease and all-cause mortality were examined. Patients were titrated from 75 mg to a maintenance dose of 300 mg Karvea , from 2.5 mg to 10 mg amlodipine, or placebo as tolerated. Patients in all treatment groups typically received between 2 and 4 antihypertensive agents (e.g., diuretics, beta blockers, alpha blockers) to reach a predefined blood pressure goal of ≤ 135/85 mmHg or a 10 mmHg reduction in systolic pressure if baseline was &gt; 160 mmHg. Sixty per cent (60%) of patients in the placebo group reached this target blood pressure whereas this figure was 76% and 78% in the irbesartan and amlodipine groups respectively. Irbesartan significantly reduced the relative risk in the primary combined endpoint of doubling serum creatinine, end-stage renal disease (ESRD) or allcause mortality. Approximately 33% of patients in the irbesartan group reached the primary renal composite endpoint compared to 39% and 41% in the placebo and amlodipine groups [20% relative risk reduction versus placebo (p = 0.024) and 23% relative risk reduction compared to amlodipine (p = 0.006)]. When the individual components of the primary endpoint were analysed, no effect in allcause mortality was observed, while a positive trend in the reduction in ESRD and a significant reduction in doubling of serum creatinine were observed.
 
 Subgroups consisting of gender, race, age, duration of diabetes, baseline blood pressure, serum creatinine, and albumin excretion rate were assessed for treatment effect. In the female and black subgroups which represented 32% and 26% of the overall study population respectively, a renal benefit was not evident, although the confidence intervals do not exclude it. As for the secondary endpoint of fatal and non-fatal cardiovascular events, there was no difference among the three groups in the overall population, although an increased incidence of non-fatal MI was seen for women and a decreased incidence of non-fatal MI was seen in males in the irbesartan group versus the placebobased regimen. An increased incidence of non-fatal MI and stroke was seen in females in the irbesartan-based regimen versus the amlodipine-based regimen, while hospitalization due to heart failure was reduced in the overall population. However, no proper explanation for these findings in women has been identified.
 
@@ -914,21 +920,21 @@ Studies have not been performed in patients with severe hepatic impairment.
 
 ## 5.3 Preclinical safety data
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In nonclinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidney (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/ hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
-
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
-
-<div style=\"page-break-after: always\"></div>
+Fertility and reproductive performance were not affected in studies of male and female rats. Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Microcrystalline cellulose Croscarmellose sodium Lactose monohydrate Magnesium stearate Colloidal hydrated silica Pregelatinized maize starch Poloxamer 188
+Microcrystalline cellulose Croscarmellose sodium Lactose monohydrate
+
+<div style=\"page-break-after: always\"></div>
+
+Magnesium stearate Colloidal hydrated silica Pregelatinized maize starch Poloxamer 188
 
 ## 6.2 Incompatibilities
 
@@ -962,9 +968,7 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Sanofi Winthrop Industrie
-
-82 avenue Raspail 94250 Gentilly France
+Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly France
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
@@ -973,8 +977,6 @@ EU/1/97/049/004-006
 EU/1/97/049/011
 
 EU/1/97/049/014
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION / RENEWAL OF THE AUTHORISATION
 
@@ -1334,7 +1336,7 @@ in SeSBP and SeDBP compared to +0.1 and -0.3 mmHg changes respectively in those 
 
 ## Hypertension and type 2 diabetes with renal disease
 
-The 'Irbesartan Diabetic Nephropathy Trial (IDNT)' shows that irbesartan decreases the progression of renal disease in patients with chronic renal insufficiency and overt proteinuria. IDNT was a double blind, controlled, morbidity and mortality trial comparing Karvea, amlodipine and placebo. In 1,715 hypertensive patients with type 2 diabetes, proteinuria ≥ 900 mg/day and serum creatinine ranging from 1.0-3.0 mg/dl, the long-term effects (mean 2.6 years) of Karvea on the progression of renal disease and all-cause mortality were examined. Patients were titrated from 75 mg to a maintenance dose of 300 mg Karvea, from 2.5 mg to 10 mg amlodipine, or placebo as tolerated. Patients in all treatment groups typically received between 2 and 4 antihypertensive agents (e.g., diuretics, beta blockers, alpha blockers) to reach a predefined blood pressure goal of ≤ 135/85 mmHg or a 10 mmHg reduction in systolic pressure if baseline was &gt; 160 mmHg. Sixty per cent (60%) of patients in the placebo group reached this target blood pressure whereas this figure was 76% and 78% in the irbesartan and amlodipine groups respectively. Irbesartan significantly reduced the relative risk in the primary combined endpoint of doubling serum creatinine, end-stage renal disease (ESRD) or allcause mortality. Approximately 33% of patients in the irbesartan group reached the primary renal composite endpoint compared to 39% and 41% in the placebo and amlodipine groups [20% relative risk reduction versus placebo (p = 0.024) and 23% relative risk reduction compared to amlodipine (p = 0.006)]. When the individual components of the primary endpoint were analysed, no effect in allcause mortality was observed, while a positive trend in the reduction in ESRD and a significant reduction in doubling of serum creatinine were observed.
+The 'Irbesartan Diabetic Nephropathy Trial (IDNT)' shows that irbesartan decreases the progression of renal disease in patients with chronic renal insufficiency and overt proteinuria. IDNT was a double blind, controlled, morbidity and mortality trial comparing Karvea, amlodipine and placebo. In 1,715 hypertensive patients with type 2 diabetes, proteinuria ≥ 900 mg/day and serum creatinine ranging from 1.0-3.0 mg/dl, the long-term effects (mean 2.6 years) of Karvea on the progression of renal disease and all-cause mortality were examined. Patients were titrated from 75 mg to a maintenance dose of 300 mg Karvea , from 2.5 mg to 10 mg amlodipine, or placebo as tolerated. Patients in all treatment groups typically received between 2 and 4 antihypertensive agents (e.g., diuretics, beta blockers, alpha blockers) to reach a predefined blood pressure goal of ≤ 135/85 mmHg or a 10 mmHg reduction in systolic pressure if baseline was &gt; 160 mmHg. Sixty per cent (60%) of patients in the placebo group reached this target blood pressure whereas this figure was 76% and 78% in the irbesartan and amlodipine groups respectively. Irbesartan significantly reduced the relative risk in the primary combined endpoint of doubling serum creatinine, end-stage renal disease (ESRD) or allcause mortality. Approximately 33% of patients in the irbesartan group reached the primary renal composite endpoint compared to 39% and 41% in the placebo and amlodipine groups [20% relative risk reduction versus placebo (p = 0.024) and 23% relative risk reduction compared to amlodipine (p = 0.006)]. When the individual components of the primary endpoint were analysed, no effect in allcause mortality was observed, while a positive trend in the reduction in ESRD and a significant reduction in doubling of serum creatinine were observed.
 
 Subgroups consisting of gender, race, age, duration of diabetes, baseline blood pressure, serum creatinine, and albumin excretion rate were assessed for treatment effect. In the female and black subgroups which represented 32% and 26% of the overall study population respectively, a renal benefit was not evident, although the confidence intervals do not exclude it. As for the secondary endpoint of fatal and non-fatal cardiovascular events, there was no difference among the three groups in the overall population, although an increased incidence of non-fatal MI was seen for women and a decreased incidence of non-fatal MI was seen in males in the irbesartan group versus the placebobased regimen. An increased incidence of non-fatal MI and stroke was seen in females in the irbesartan-based regimen versus the amlodipine-based regimen, while hospitalization due to heart failure was reduced in the overall population. However, no proper explanation for these findings in women has been identified.
 
@@ -1392,21 +1394,21 @@ Studies have not been performed in patients with severe hepatic impairment.
 
 ## 5.3 Preclinical safety data
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In nonclinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidney (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/ hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
-
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
-
-<div style=\"page-break-after: always\"></div>
+Fertility and reproductive performance were not affected in studies of male and female rats. Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Microcrystalline cellulose Croscarmellose sodium Lactose monohydrate Magnesium stearate Colloidal hydrated silica Pregelatinized maize starch Poloxamer 188
+Microcrystalline cellulose Croscarmellose sodium Lactose monohydrate Magnesium stearate Colloidal hydrated silica
+
+<div style=\"page-break-after: always\"></div>
+
+Pregelatinized maize starch Poloxamer 188
 
 ## 6.2 Incompatibilities
 
@@ -1451,8 +1453,6 @@ EU/1/97/049/007-009
 EU/1/97/049/012
 
 EU/1/97/049/015
-
-<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION / RENEWAL OF THE AUTHORISATION
 
@@ -1816,7 +1816,7 @@ The 'Irbesartan Diabetic Nephropathy Trial (IDNT)' shows that irbesartan decreas
 
 <div style=\"page-break-after: always\"></div>
 
-blind, controlled, morbidity and mortality trial comparing Karvea, amlodipine and placebo. In 1,715 hypertensive patients with type 2 diabetes, proteinuria ≥ 900 mg/day and serum creatinine ranging from 1.0-3.0 mg/dl, the long-term effects (mean 2.6 years) of Karvea on the progression of renal disease and all-cause mortality were examined. Patients were titrated from 75 mg to a maintenance dose of 300 mg Karvea, from 2.5 mg to 10 mg amlodipine, or placebo as tolerated. Patients in all treatment groups typically received between 2 and 4 antihypertensive agents (e.g., diuretics, beta blockers, alpha blockers) to reach a predefined blood pressure goal of ≤ 135/85 mmHg or a 10 mmHg reduction in systolic pressure if baseline was &gt; 160 mmHg. Sixty per cent (60%) of patients in the placebo group reached this target blood pressure whereas this figure was 76% and 78% in the irbesartan and amlodipine groups respectively. Irbesartan significantly reduced the relative risk in the primary combined endpoint of doubling serum creatinine, end-stage renal disease (ESRD) or allcause mortality. Approximately 33% of patients in the irbesartan group reached the primary renal composite endpoint compared to 39% and 41% in the placebo and amlodipine groups [20% relative risk reduction versus placebo (p = 0.024) and 23% relative risk reduction compared to amlodipine (p = 0.006)]. When the individual components of the primary endpoint were analysed, no effect in allcause mortality was observed, while a positive trend in the reduction in ESRD and a significant reduction in doubling of serum creatinine were observed.
+blind, controlled, morbidity and mortality trial comparing Karvea, amlodipine and placebo. In 1,715 hypertensive patients with type 2 diabetes, proteinuria ≥ 900 mg/day and serum creatinine ranging from 1.0-3.0 mg/dl, the long-term effects (mean 2.6 years) of Karvea on the progression of renal disease and all-cause mortality were examined. Patients were titrated from 75 mg to a maintenance dose of 300 mg Karvea , from 2.5 mg to 10 mg amlodipine, or placebo as tolerated. Patients in all treatment groups typically received between 2 and 4 antihypertensive agents (e.g., diuretics, beta blockers, alpha blockers) to reach a predefined blood pressure goal of ≤ 135/85 mmHg or a 10 mmHg reduction in systolic pressure if baseline was &gt; 160 mmHg. Sixty per cent (60%) of patients in the placebo group reached this target blood pressure whereas this figure was 76% and 78% in the irbesartan and amlodipine groups respectively. Irbesartan significantly reduced the relative risk in the primary combined endpoint of doubling serum creatinine, end-stage renal disease (ESRD) or allcause mortality. Approximately 33% of patients in the irbesartan group reached the primary renal composite endpoint compared to 39% and 41% in the placebo and amlodipine groups [20% relative risk reduction versus placebo (p = 0.024) and 23% relative risk reduction compared to amlodipine (p = 0.006)]. When the individual components of the primary endpoint were analysed, no effect in allcause mortality was observed, while a positive trend in the reduction in ESRD and a significant reduction in doubling of serum creatinine were observed.
 
 Subgroups consisting of gender, race, age, duration of diabetes, baseline blood pressure, serum creatinine, and albumin excretion rate were assessed for treatment effect. In the female and black subgroups which represented 32% and 26% of the overall study population respectively, a renal benefit was not evident, although the confidence intervals do not exclude it. As for the secondary endpoint of fatal and non-fatal cardiovascular events, there was no difference among the three groups in the overall population, although an increased incidence of non-fatal MI was seen for women and a decreased incidence of non-fatal MI was seen in males in the irbesartan group versus the placebobased regimen. An increased incidence of non-fatal MI and stroke was seen in females in the irbesartan-based regimen versus the amlodipine-based regimen, while hospitalization due to heart failure was reduced in the overall population. However, no proper explanation for these findings in women has been identified.
 
@@ -1872,21 +1872,19 @@ Studies have not been performed in patients with severe hepatic impairment.
 
 ## 5.3 Preclinical safety data
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In nonclinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidney (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/ hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
-
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
-
-<div style=\"page-break-after: always\"></div>
+Fertility and reproductive performance were not affected in studies of male and female rats. Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
 Tablet core: Lactose monohydrate Microcrystalline cellulose Croscarmellose sodium Hypromellose Silicon dioxide Magnesium stearate.
+
+<div style=\"page-break-after: always\"></div>
 
 Film-coating: Lactose monohydrate Hypromellose Titanium dioxide Macrogol 3000 Carnauba wax.
 
@@ -1928,19 +1926,27 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly France
+Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly
 
-<div style=\"page-break-after: always\"></div>
+France
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/97/049/016-020 EU/1/97/049/031 EU/1/97/049/034 EU/1/97/049/037
+EU/1/97/049/016-020
+
+EU/1/97/049/031
+
+EU/1/97/049/034
+
+EU/1/97/049/037
 
 ## 9. DATE OF FIRST AUTHORISATION / RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 27 August 1997
 
 Date of latest renewal: 27 August 2007
+
+<div style=\"page-break-after: always\"></div>
 
 ## 10. DATE OF REVISION OF THE TEXT
 
@@ -2214,8 +2220,6 @@ Not known:
 
 arthralgia, myalgia (in some cases associated with increased plasma creatine kinase levels), muscle cramps
 
-<div style=\"page-break-after: always\"></div>
-
 ## Renal and urinary disorders
 
 Not known:
@@ -2232,7 +2236,11 @@ sexual dysfunction
 
 Common:
 
+fatigue
+
 Uncommon:
+
+chest pain
 
 ## Investigations
 
@@ -2243,6 +2251,8 @@ Common:
 significant increases in plasma creatine kinase were commonly observed (1.7%) in irbesartan treated subjects. None of these increases were associated with identifiable clinical musculoskeletal events.
 
 In 1.7% of hypertensive patients with advanced diabetic renal disease treated with irbesartan, a decrease in haemoglobin*, which was not clinically significant, has been observed.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Paediatric population
 
@@ -2255,8 +2265,6 @@ Reporting suspected adverse reactions after authorisation of the medicinal produ
 ## 4.9 Overdose
 
 Experience in adults exposed to doses of up to 900 mg/day for 8 weeks revealed no toxicity. The most likely manifestations of overdose are expected to be hypotension and tachycardia; bradycardia might also occur from overdose. No specific information is available on the treatment of overdose with Karvea. The patient should be closely monitored, and the treatment should be symptomatic and supportive. Suggested measures include induction of emesis and/or gastric lavage. Activated charcoal may be useful in the treatment of overdose. Irbesartan is not removed by haemodialysis.
-
-fatigue chest pain
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2294,7 +2302,7 @@ in SeSBP and SeDBP compared to +0.1 and -0.3 mmHg changes respectively in those 
 
 ## Hypertension and type 2 diabetes with renal disease
 
-The 'Irbesartan Diabetic Nephropathy Trial (IDNT)' shows that irbesartan decreases the progression of renal disease in patients with chronic renal insufficiency and overt proteinuria. IDNT was a double blind, controlled, morbidity and mortality trial comparing Karvea, amlodipine and placebo. In 1,715 hypertensive patients with type 2 diabetes, proteinuria ≥ 900 mg/day and serum creatinine ranging from 1.0-3.0 mg/dl, the long-term effects (mean 2.6 years) of Karvea on the progression of renal disease and all-cause mortality were examined. Patients were titrated from 75 mg to a maintenance dose of 300 mg Karvea, from 2.5 mg to 10 mg amlodipine, or placebo as tolerated. Patients in all treatment groups typically received between 2 and 4 antihypertensive agents (e.g., diuretics, beta blockers, alpha blockers) to reach a predefined blood pressure goal of ≤ 135/85 mmHg or a 10 mmHg reduction in systolic pressure if baseline was &gt; 160 mmHg. Sixty per cent (60%) of patients in the placebo group reached this target blood pressure whereas this figure was 76% and 78% in the irbesartan and amlodipine groups respectively. Irbesartan significantly reduced the relative risk in the primary combined endpoint of doubling serum creatinine, end-stage renal disease (ESRD) or allcause mortality. Approximately 33% of patients in the irbesartan group reached the primary renal composite endpoint compared to 39% and 41% in the placebo and amlodipine groups [20% relative risk reduction versus placebo (p = 0.024) and 23% relative risk reduction compared to amlodipine (p = 0.006)]. When the individual components of the primary endpoint were analysed, no effect in allcause mortality was observed, while a positive trend in the reduction in ESRD and a significant reduction in doubling of serum creatinine were observed.
+The 'Irbesartan Diabetic Nephropathy Trial (IDNT)' shows that irbesartan decreases the progression of renal disease in patients with chronic renal insufficiency and overt proteinuria. IDNT was a double blind, controlled, morbidity and mortality trial comparing Karvea, amlodipine and placebo. In 1,715 hypertensive patients with type 2 diabetes, proteinuria ≥ 900 mg/day and serum creatinine ranging from 1.0-3.0 mg/dl, the long-term effects (mean 2.6 years) of Karvea on the progression of renal disease and all-cause mortality were examined. Patients were titrated from 75 mg to a maintenance dose of 300 mg Karvea , from 2.5 mg to 10 mg amlodipine, or placebo as tolerated. Patients in all treatment groups typically received between 2 and 4 antihypertensive agents (e.g., diuretics, beta blockers, alpha blockers) to reach a predefined blood pressure goal of ≤ 135/85 mmHg or a 10 mmHg reduction in systolic pressure if baseline was &gt; 160 mmHg. Sixty per cent (60%) of patients in the placebo group reached this target blood pressure whereas this figure was 76% and 78% in the irbesartan and amlodipine groups respectively. Irbesartan significantly reduced the relative risk in the primary combined endpoint of doubling serum creatinine, end-stage renal disease (ESRD) or allcause mortality. Approximately 33% of patients in the irbesartan group reached the primary renal composite endpoint compared to 39% and 41% in the placebo and amlodipine groups [20% relative risk reduction versus placebo (p = 0.024) and 23% relative risk reduction compared to amlodipine (p = 0.006)]. When the individual components of the primary endpoint were analysed, no effect in allcause mortality was observed, while a positive trend in the reduction in ESRD and a significant reduction in doubling of serum creatinine were observed.
 
 Subgroups consisting of gender, race, age, duration of diabetes, baseline blood pressure, serum creatinine, and albumin excretion rate were assessed for treatment effect. In the female and black subgroups which represented 32% and 26% of the overall study population respectively, a renal benefit was not evident, although the confidence intervals do not exclude it. As for the secondary endpoint of fatal and non-fatal cardiovascular events, there was no difference among the three groups in the overall population, although an increased incidence of non-fatal MI was seen for women and a decreased incidence of non-fatal MI was seen in males in the irbesartan group versus the placebobased regimen. An increased incidence of non-fatal MI and stroke was seen in females in the irbesartan-based regimen versus the amlodipine-based regimen, while hospitalization due to heart failure was reduced in the overall population. However, no proper explanation for these findings in women has been identified.
 
@@ -2352,23 +2360,21 @@ Studies have not been performed in patients with severe hepatic impairment.
 
 ## 5.3 Preclinical safety data
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In nonclinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidney (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/ hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
-
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
-
-<div style=\"page-break-after: always\"></div>
+Fertility and reproductive performance were not affected in studies of male and female rats. Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Tablet core:
+Tablet core: Lactose monohydrate Microcrystalline cellulose Croscarmellose sodium Hypromellose Silicon dioxide
 
-Lactose monohydrate Microcrystalline cellulose Croscarmellose sodium Hypromellose Silicon dioxide Magnesium stearate.
+<div style=\"page-break-after: always\"></div>
+
+Magnesium stearate.
 
 Film-coating: Lactose monohydrate Hypromellose Titanium dioxide Macrogol 3000 Carnauba wax.
 
@@ -2410,13 +2416,21 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly France
+Sanofi Winthrop Industrie
 
-<div style=\"page-break-after: always\"></div>
+82 avenue Raspail 94250 Gentilly France
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/97/049/021-025 EU/1/97/049/032 EU/1/97/049/035 EU/1/97/049/038
+EU/1/97/049/021-025
+
+EU/1/97/049/032
+
+EU/1/97/049/035
+
+EU/1/97/049/038
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION / RENEWAL OF THE AUTHORISATION
 
@@ -2428,7 +2442,7 @@ Date of latest renewal: 27 August 2007
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
 
-66
+65
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2780,7 +2794,7 @@ in SeSBP and SeDBP compared to +0.1 and -0.3 mmHg changes respectively in those 
 
 ## Hypertension and type 2 diabetes with renal disease
 
-The 'Irbesartan Diabetic Nephropathy Trial (IDNT)' shows that irbesartan decreases the progression of renal disease in patients with chronic renal insufficiency and overt proteinuria. IDNT was a double blind, controlled, morbidity and mortality trial comparing Karvea, amlodipine and placebo. In 1,715 hypertensive patients with type 2 diabetes, proteinuria ≥ 900 mg/day and serum creatinine ranging from 1.0-3.0 mg/dl, the long-term effects (mean 2.6 years) of Karvea on the progression of renal disease and all-cause mortality were examined. Patients were titrated from 75 mg to a maintenance dose of 300 mg Karvea, from 2.5 mg to 10 mg amlodipine, or placebo as tolerated. Patients in all treatment groups typically received between 2 and 4 antihypertensive agents (e.g., diuretics, beta blockers, alpha blockers) to reach a predefined blood pressure goal of ≤ 135/85 mmHg or a 10 mmHg reduction in systolic pressure if baseline was &gt; 160 mmHg. Sixty per cent (60%) of patients in the placebo group reached this target blood pressure whereas this figure was 76% and 78% in the irbesartan and amlodipine groups respectively. Irbesartan significantly reduced the relative risk in the primary combined endpoint of doubling serum creatinine, end-stage renal disease (ESRD) or allcause mortality. Approximately 33% of patients in the irbesartan group reached the primary renal composite endpoint compared to 39% and 41% in the placebo and amlodipine groups [20% relative risk reduction versus placebo (p = 0.024) and 23% relative risk reduction compared to amlodipine (p = 0.006)]. When the individual components of the primary endpoint were analysed, no effect in allcause mortality was observed, while a positive trend in the reduction in ESRD and a significant reduction in doubling of serum creatinine were observed.
+The 'Irbesartan Diabetic Nephropathy Trial (IDNT)' shows that irbesartan decreases the progression of renal disease in patients with chronic renal insufficiency and overt proteinuria. IDNT was a double blind, controlled, morbidity and mortality trial comparing Karvea, amlodipine and placebo. In 1,715 hypertensive patients with type 2 diabetes, proteinuria ≥ 900 mg/day and serum creatinine ranging from 1.0-3.0 mg/dl, the long-term effects (mean 2.6 years) of Karvea on the progression of renal disease and all-cause mortality were examined. Patients were titrated from 75 mg to a maintenance dose of 300 mg Karvea , from 2.5 mg to 10 mg amlodipine, or placebo as tolerated. Patients in all treatment groups typically received between 2 and 4 antihypertensive agents (e.g., diuretics, beta blockers, alpha blockers) to reach a predefined blood pressure goal of ≤ 135/85 mmHg or a 10 mmHg reduction in systolic pressure if baseline was &gt; 160 mmHg. Sixty per cent (60%) of patients in the placebo group reached this target blood pressure whereas this figure was 76% and 78% in the irbesartan and amlodipine groups respectively. Irbesartan significantly reduced the relative risk in the primary combined endpoint of doubling serum creatinine, end-stage renal disease (ESRD) or allcause mortality. Approximately 33% of patients in the irbesartan group reached the primary renal composite endpoint compared to 39% and 41% in the placebo and amlodipine groups [20% relative risk reduction versus placebo (p = 0.024) and 23% relative risk reduction compared to amlodipine (p = 0.006)]. When the individual components of the primary endpoint were analysed, no effect in allcause mortality was observed, while a positive trend in the reduction in ESRD and a significant reduction in doubling of serum creatinine were observed.
 
 Subgroups consisting of gender, race, age, duration of diabetes, baseline blood pressure, serum creatinine, and albumin excretion rate were assessed for treatment effect. In the female and black subgroups which represented 32% and 26% of the overall study population respectively, a renal benefit was not evident, although the confidence intervals do not exclude it. As for the secondary endpoint of fatal and non-fatal cardiovascular events, there was no difference among the three groups in the overall population, although an increased incidence of non-fatal MI was seen for women and a decreased incidence of non-fatal MI was seen in males in the irbesartan group versus the placebobased regimen. An increased incidence of non-fatal MI and stroke was seen in females in the irbesartan-based regimen versus the amlodipine-based regimen, while hospitalization due to heart failure was reduced in the overall population. However, no proper explanation for these findings in women has been identified.
 
@@ -2838,21 +2852,21 @@ Studies have not been performed in patients with severe hepatic impairment.
 
 ## 5.3 Preclinical safety data
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In nonclinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidney (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/ hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distension, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
-
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
-
-<div style=\"page-break-after: always\"></div>
+Fertility and reproductive performance were not affected in studies of male and female rats. Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
-Tablet core: Lactose monohydrate Microcrystalline cellulose Croscarmellose sodium Hypromellose Silicon dioxide Magnesium stearate.
+Tablet core: Lactose monohydrate Microcrystalline cellulose Croscarmellose sodium Hypromellose Silicon dioxide
+
+<div style=\"page-break-after: always\"></div>
+
+Magnesium stearate.
 
 Film-coating: Lactose monohydrate Hypromellose Titanium dioxide Macrogol 3000 Carnauba wax.
 
@@ -2894,13 +2908,21 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly France
+Sanofi Winthrop Industrie
 
-<div style=\"page-break-after: always\"></div>
+82 avenue Raspail 94250 Gentilly France
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/97/049/026-030 EU/1/97/049/033 EU/1/97/049/036 EU/1/97/049/039
+EU/1/97/049/026-030
+
+EU/1/97/049/033
+
+EU/1/97/049/036
+
+EU/1/97/049/039
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION / RENEWAL OF THE AUTHORISATION
 
@@ -2912,13 +2934,16 @@ Date of latest renewal: 27 August 2007
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
 
-79
+78
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
-## A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+
+## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
@@ -2966,7 +2991,7 @@ Not applicable.
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON
+OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -2982,14 +3007,11 @@ Excipients: also contains lactose monohydrate. See leaflet for further informati
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-14 tablets
-
-28 tablets
-
+- 14 tablets
+- 28 tablets
 - 56 tablets
 - 56 x 1 tablets
-
-98 tablets
+- 98 tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -3077,8 +3099,7 @@ Sanofi Winthrop Industrie
 
 EXP
 
-| 4.   | BATCH NUMBER   |
-|------|----------------|
+## 4. BATCH NUMBER
 
 Lot
 
@@ -3106,7 +3127,7 @@ Sun
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON
+OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3122,14 +3143,11 @@ Excipients: also contains lactose monohydrate. See leaflet for further informati
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
-14 tablets
-
-28 tablets
-
+- 14 tablets
+- 28 tablets
 - 56 tablets
 - 56 x 1 tablets
-
-98 tablets
+- 98 tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -3205,13 +3223,11 @@ NN:
 
 ## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
-| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
-|------|------------------------------|
+## 1. NAME OF THE MEDICINAL PRODUCT
 
 Karvea 150 mg tablets irbesartan
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+## 2. NAME OF THE MARKETING AUTHORISATION HOLDER
 
 Sanofi Winthrop Industrie
 
@@ -3225,8 +3241,7 @@ EXP
 
 Lot
 
-| 5.   | OTHER   |
-|------|---------|
+## 5. OTHER
 
 ## 14 - 28 - 56 - 98 tablets:
 
@@ -3250,7 +3265,7 @@ Sun
 
 ## PARTICULARS TO APPEAR ON THE OUTER PACKAGING
 
-## OUTER CARTON
+OUTER CARTON
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
@@ -3271,10 +3286,8 @@ Excipients: also contains lactose monohydrate. See leaflet for further informati
 28 tablets
 
 - 56 tablets
-
-56 x 1 tablets
-
-98 tablets
+- 56 x 1 tablets
+- 98 tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -3348,16 +3361,16 @@ NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
 Karvea 300 mg tablets irbesartan
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Sanofi Winthrop Industrie
 
@@ -3390,7 +3403,7 @@ Sat
 
 Sun
 
-## 56 x 1 tablets:
+56 x 1 tablets:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3477,8 +3490,8 @@ Karvea 75 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC: SN: NN:
 
@@ -3491,8 +3504,8 @@ PC: SN: NN:
 
 Karvea 75 mg tablets irbesartan
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Sanofi Winthrop Industrie
 
@@ -3590,7 +3603,9 @@ France
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
+```
 EU/1/97/049/021 - 14 tablets EU/1/97/049/022 - 28 tablets EU/1/97/049/035 - 30 tablets EU/1/97/049/023 - 56 tablets EU/1/97/049/024 - 56 x 1 tablets EU/1/97/049/032 - 84 tablets EU/1/97/049/038 - 90 tablets EU/1/97/049/025 - 98 tablets
+```
 
 ## 13. BATCH NUMBER
 
@@ -3612,33 +3627,38 @@ Karvea 150 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
+| MINIMUM PARTICULARS TO APPEAR ONBLISTERS OR STRIPS   |
+|------------------------------------------------------|
 
-## 1. NAME OF THE MEDICINAL PRODUCT
+| 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
+|------|------------------------------|
 
 Karvea 150 mg tablets irbesartan
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Sanofi Winthrop Industrie
 
-## 3. EXPIRY DATE
+| 3.   | EXPIRY DATE   |
+|------|---------------|
 
 EXP
 
-## 4. BATCH NUMBER
+| 4.   | BATCH NUMBER   |
+|------|----------------|
 
 Lot
 
-## 5. OTHER
+| 5.   | OTHER   |
+|------|---------|
 
 ## 14 - 28 - 56 - 84 - 98 tablets:
 
@@ -3656,7 +3676,7 @@ Sat
 
 Sun
 
-## 30 - 56 x 1 - 90 tablets:
+30 - 56 x 1 - 90 tablets:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3713,17 +3733,13 @@ Do not store above 30°C.
 
 Sanofi Winthrop Industrie
 
-82 avenue Raspail
-
-94250 Gentilly
+82 avenue Raspail 94250 Gentilly
 
 France
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-```
 EU/1/97/049/026 - 14 tablets EU/1/97/049/027 - 28 tablets EU/1/97/049/036 - 30 tablets EU/1/97/049/028 - 56 tablets EU/1/97/049/029 - 56 x 1 tablets EU/1/97/049/033 - 84 tablets EU/1/97/049/039 - 90 tablets EU/1/97/049/030 - 98 tablets
-```
 
 ## 13. BATCH NUMBER
 
@@ -3745,23 +3761,22 @@ Karvea 300 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
-|-------|------------------------------------------|
+| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
+|-------|-----------------------------------------|
 
 PC: SN: NN:
 
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONBLISTERS ORSTRIPS   |
-|-----------------------------------------------------|
+## MINIMUM PARTICULARS TO APPEAR ON BLISTERS OR STRIPS
 
 | 1.   | NAMEOFTHEMEDICINAL PRODUCT   |
 |------|------------------------------|
 
 Karvea 300 mg tablets irbesartan
 
-| 2.   | NAMEOFTHEMARKETING AUTHORISATION HOLDER   |
-|------|-------------------------------------------|
+| 2.   | NAMEOFTHEMARKETINGAUTHORISATION HOLDER   |
+|------|------------------------------------------|
 
 Sanofi Winthrop Industrie
 
@@ -3808,10 +3823,10 @@ irbesartan
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
--  Keep this leaflet. You may need to read it again.
--  If you have any further questions, ask your doctor or pharmacist.
--  This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
--  If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -3828,28 +3843,28 @@ Karvea belongs to a group of medicines known as angiotensin-II receptor antagoni
 
 ## Karvea is used in adult patients
 
--  to treat high blood pressure ( essential hypertension )
--  to protect the kidney in patients with high blood pressure, type 2 diabetes and laboratory evidence of impaired kidney function.
+- to treat high blood pressure ( essential hypertension )
+- to protect the kidney in patients with high blood pressure, type 2 diabetes and laboratory evidence of impaired kidney function.
 
 ## 2. What you need to know before you take Karvea
 
 ## Do not take Karvea
 
--  if you are allergic to irbesartan or any other ingredients of this medicine (listed in section 6)
--  if you are more than 3 months pregnant . (It is also better to avoid Karvea in early pregnancy see pregnancy section)
--  if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
+- if you are allergic to irbesartan or any other ingredients of this medicine (listed in section 6)
+- if you are more than 3 months pregnant . (It is also better to avoid Karvea in early pregnancy see pregnancy section)
+- if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
 
 ## Warning and precautions
 
 Talk to your doctor before taking Karvea and if any of the following apply to you:
 
--  if you get excessive vomiting or diarrhoea
--  if you suffer from kidney problems
--  if you suffer from heart problems
--  if you receive Karvea for diabetic kidney disease . In this case your doctor may perform regular blood tests, especially for measuring blood potassium levels in case of poor kidney function
--  if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heartbeat), particularly if you are being treated for diabetes.
--  if you are going to have an operation (surgery) or be given anaesthetics
--  if you are taking any of the following medicines used to treat high blood pressure:
+- if you get excessive vomiting or diarrhoea
+- if you suffer from kidney problems
+- if you suffer from heart problems
+- if you receive Karvea for diabetic kidney disease . In this case your doctor may perform regular blood tests, especially for measuring blood potassium levels in case of poor kidney function
+- if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heartbeat), particularly if you are being treated for diabetes.
+- if you are going to have an operation (surgery) or be given anaesthetics
+- if you are taking any of the following medicines used to treat high blood pressure:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3878,11 +3893,11 @@ If you are taking an ACE-inhibitor or aliskiren (see also information under the 
 
 ## You may need to have blood checks if you take:
 
--  potassium supplements
--  salt substitutes containing potassium
--  potassium-sparing medicines (such as certain diuretics)
--  medicines containing lithium
--  repaglinide (medication used for lowering blood sugar levels)
+- potassium supplements
+- salt substitutes containing potassium
+- potassium-sparing medicines (such as certain diuretics)
+- medicines containing lithium
+- repaglinide (medication used for lowering blood sugar levels)
 
 If you take certain painkillers, called non-steroidal anti-inflammatory drugs, the effect of irbesartan may be reduced.
 
@@ -3918,11 +3933,11 @@ Always take this medicine exactly as your doctor has told you. Check with your d
 
 Karvea is for oral use . Swallow the tablets with a sufficient amount of fluid (e.g. one glass of water). You can take Karvea with or without food. Try to take your daily dose at about the same time each day. It is important that you continue to take Karvea until your doctor tells you otherwise.
 
-##  Patients with high blood pressure
+## ▪ Patients with high blood pressure
 
 The usual dose is 150 mg once-a-day (two tablets a day). The dose may later be increased to 300 mg (four tablets a day) once daily depending on blood pressure response.
 
-## 
+## ▪
 
 - Patients with high blood pressure and type 2 diabetes with kidney disease
 
@@ -3960,10 +3975,10 @@ Uncommon: may affect up to 1 in 100 people
 
 Side effects reported in clinical studies for patients treated with Karvea were:
 
--  Very common (may affect more than 1 in 10 people): if you suffer from high blood pressure and type 2 diabetes with kidney disease, blood tests may show an increased level of potassium.
--  Common (may affect up to 1 10 people): dizziness, feeling sick/vomiting, fatigue and blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase enzyme). In patients with high blood pressure and type 2 diabetes with kidney disease, dizziness when getting up from a lying or sitting position, low blood pressure when getting up from a lying or sitting position, pain in joints or muscles and decreased levels of a protein in the red blood cells (haemoglobin) were also reported.
--  Uncommon (may affect up to 1 in 100 people): heart rate increased, flushing, cough, diarrhoea, indigestion/heartburn, sexual dysfunction (problems with sexual performance), chest pain.
--  Rare (may affect up to 1 in 1,000 people): intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
+- Very common (may affect more than 1 in 10 people): if you suffer from high blood pressure and type 2 diabetes with kidney disease, blood tests may show an increased level of potassium.
+- Common (may affect up to 1 10 people): dizziness, feeling sick/vomiting, fatigue and blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase enzyme). In patients with high blood pressure and type 2 diabetes with kidney disease, dizziness when getting up from a lying or sitting position, low blood pressure when getting up from a lying or sitting position, pain in joints or muscles and decreased levels of a protein in the red blood cells (haemoglobin) were also reported.
+- Uncommon (may affect up to 1 in 100 people): heart rate increased, flushing, cough, diarrhoea, indigestion/heartburn, sexual dysfunction (problems with sexual performance), chest pain.
+- Rare (may affect up to 1 in 1,000 people): intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
 
 Some undesirable effects have been reported since marketing of Karvea. Undesirable effects where the frequency is not known are: feeling of spinning, headache, taste disturbance, ringing in the ears, muscle cramps, pain in joints and muscles, decreased number of red blood cells (anaemia - symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), reduced number of platelets, abnormal liver function, increased blood potassium levels, impaired kidney function, inflammation of small blood vessels mainly affecting the skin (a condition known as leukocytoclastic vasculitis), severe allergic reactions (anaphylactic shock) and low blood sugar levels. Uncommon cases of jaundice (yellowing of the skin and/or whites of the eyes) have also been reported.
 
@@ -3985,8 +4000,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Karvea contains
 
--  The active substance is irbesartan. Each tablet of Karvea 75 mg contains 75 mg irbesartan.
--  The other ingredients are microcrystalline cellulose, croscarmellose sodium, lactose monohydrate, magnesium stearate, colloidal hydrated silica, pregelatinized maize starch, and poloxamer 188. Please see section 2 'Karvea contains lactose'.
+- The active substance is irbesartan. Each tablet of Karvea 75 mg contains 75 mg irbesartan.
+- The other ingredients are microcrystalline cellulose, croscarmellose sodium, lactose monohydrate, magnesium stearate, colloidal hydrated silica, pregelatinized maize starch, and poloxamer 188. Please see section 2 'Karvea contains lactose'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3995,408 +4010,6 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 Karvea 75 mg tablets are white to off-white, biconvex, and oval-shaped with a heart debossed on one side and the number 2771 engraved on the other side.
 
 Karvea 75 mg tablets are supplied in blister packs of 14, 28, 56 or 98 tablets. Unidose blister packs of 56 x 1 tablet for delivery in hospitals are also available.
-
-Not all pack sizes may be marketed.
-
-## Marketing Authorisation Holder:
-
-Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly France
-
-## Manufacturer:
-
-SANOFI WINTHROP INDUSTRIE 1, rue de la Vierge Ambarès &amp; Lagrave
-
-F-33565 Carbon Blanc Cedex - France
-
-SANOFI WINTHROP INDUSTRIE 30-36 Avenue Gustave Eiffel, BP 7166
-
-F-37071 Tours Cedex 2 - France
-
-For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder.
-
-Sanofi Belgium
-
-Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
-
-## België/Belgique/Belgien
-
-Sanofi Belgium
-
-Tél/Tel: +32 (0)2 710 54 00
-
-## Lietuva
-
-Swixx Biopharma UAB
-
-Tel: +370 5 236 91 40
-
-## България
-
-Swixx Biopharma EOOD
-
-Тел.: +359 (0)2 4942 480
-
-## Luxembourg/Luxemburg
-
-Sanofi Belgium
-
-## Česká republika
-
-Sanofi s.r.o.
-
-Tel: +420 233 086 111
-
-## Magyarország
-
-SANOFI-AVENTIS Zrt.
-
-Tel.: +36 1 505 0050
-
-## Danmark
-
-Sanofi A/S
-
-Tlf: +45 45 16 70 00
-
-## Malta
-
-Sanofi S.r.l.
-
-Tel: +39 02 39394275
-
-## Deutschland
-
-Sanofi-Aventis Deutschland GmbH
-
-Tel: 0800 52 52 010
-
-Tel. aus dem Ausland: +49 69 305 21 131
-
-## Nederland
-
-Sanofi B.V.
-
-Tel: +31 20 245 4000
-
-## Eesti
-
-Swixx Biopharma OÜ
-
-Tel: +372 640 10 30
-
-## Norge
-
-sanofi-aventis Norge AS
-
-Tlf: +47 67 10 71 00
-
-## Ελλάδα
-
-Sanofi- Aventis Μονοπρόσωπη ΑΕΒΕ
-
-Τηλ: +30 210 900 16 00
-
-## Österreich
-
-sanofi-aventis GmbH
-
-Tel: +43 1 80 185 - 0
-
-<div style=\"page-break-after: always\"></div>
-
-## España
-
-## Polska
-
-sanofi-aventis, S.A.
-
-Tel: +34 93 485 94 00
-
-Sanofi Sp. z o.o.
-
-Tel.: +48 22 280 00 00
-
-## France
-
-Sanofi Winthrop Industrie
-
-Tél: 0 800 222 555
-
-Appel depuis l'étranger: +33 1 57 63 23 23
-
-## Portugal
-
-Sanofi - Produtos Farmacêuticos, Lda
-
-Tel: +351 21 35 89 400
-
-## Hrvatska
-
-Swixx Biopharma d.o.o.
-
-Tel: +385 1 2078 500
-
-## România
-
-Sanofi Romania SRL
-
-Tel: +40 (0) 21 317 31 36
-
-## Ireland
-
-sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +353 (0) 1 403 56 00
-
-## Slovenija
-
-Swixx Biopharma d.o.o.
-
-Tel: +386 1 235 51 00
-
-## Ísland
-
-Vistor hf.
-
-Sími: +354 535 7000
-
-## Slovenská republika
-
-Swixx Biopharma s.r.o.
-
-Tel: +421 2 208 33 600
-
-## Italia
-
-Sanofi S.r.l.
-
-Tel: 800 536389
-
-## Suomi/Finland
-
-Sanofi Oy
-
-Puh/Tel: +358 (0) 201 200 300
-
-## Κύπρος
-
-C.A. Papaellinas Ltd.
-
-Τηλ: +357 22 741741
-
-## Sverige
-
-Sanofi AB
-
-Tel: +46 (0)8 634 50 00
-
-## Latvija
-
-Swixx Biopharma SIA
-
-Tel: +371 6 616 47 50
-
-## United Kingdom (Northern Ireland)
-
-sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +44 (0) 800 035 2525
-
-## This leaflet was last revised in
-
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/
-
-<div style=\"page-break-after: always\"></div>
-
-## Package leaflet: Information for the user Karvea 150 mg tablets
-
-irbesartan
-
-## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
-
--  Keep this leaflet. You may need to read it again.
--  If you have any further questions, ask your doctor or pharmacist.
--  This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
--  If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
-
-## What is in this leaflet
-
-1. What Karvea is and what it is used for
-2. What you need to know before you take Karvea
-3. How to take Karvea
-4. Possible side effects
-5. How to store Karvea
-6. Contents of the pack and other information
-
-## 1. What Karvea is and what it is used for
-
-Karvea belongs to a group of medicines known as angiotensin-II receptor antagonists. Angiotensin-II is a substance produced in the body which binds to receptors in blood vessels causing them to tighten. This results in an increase in blood pressure. Karvea prevents the binding of angiotensin-II to these receptors, causing the blood vessels to relax and the blood pressure to lower. Karvea slows the decrease of kidney function in patients with high blood pressure and type 2 diabetes.
-
-## Karvea is used in adult patients
-
--  to treat high blood pressure ( essential hypertension )
--  to protect the kidney in patients with high blood pressure, type 2 diabetes and laboratory evidence of impaired kidney function.
-
-## 2. What you need to know before you take Karvea
-
-## Do not take Karvea
-
--  if you are allergic to irbesartan or any other ingredients of this medicine (listed in section 6)
--  if you are more than 3 months pregnant . (It is also better to avoid Karvea in early pregnancy see pregnancy section)
--  if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
-
-## Warning and precautions
-
-Talk to your doctor before taking Karvea and if any of the following apply to you:
-
--  if you get excessive vomiting or diarrhoea
--  if you suffer from kidney problems
--  if you suffer from heart problems
--  if you receive Karvea for diabetic kidney disease . In this case your doctor may perform regular blood tests, especially for measuring blood potassium levels in case of poor kidney function
--  if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heartbeat), particularly if you are being treated for diabetes.
--  if you are going to have an operation (surgery) or be given anaesthetics
--  if you are taking any of the following medicines used to treat high blood pressure:
-
-<div style=\"page-break-after: always\"></div>
-
-- o an ACE-inhibitor (for example enalapril, lisinopril, ramipril), in particular if you have diabetes-related kidney problems.
-- o aliskiren
-
-Your doctor may check your kidney function, blood pressure, and the amount of electrolytes (e.g. potassium) in your blood at regular intervals.
-
-Talk to your doctor if you experience abdominal pain, nausea, vomiting or diarrhoea after taking Karvea. Your doctor will decide on further treatment. Do not stop taking Karvea on your own.
-
-See also information under the heading 'Do not take Karvea'.
-
-You must tell your doctor if you think you are (or might become) pregnant. Karvea is not recommended in early pregnancy, and must not be taken if you are more than 3 months pregnant, as it may cause serious harm to your baby if used at that stage (see pregnancy section).
-
-## Children and adolescents
-
-This medicinal product should not be used in children and adolescents because the safety and efficacy have not yet been fully established.
-
-## Other medicines and Karvea
-
-Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
-
-Your doctor may need to change your dose and/or to take other precautions:
-
-If you are taking an ACE-inhibitor or aliskiren (see also information under the headings 'Do not take Karvea' and 'Warnings and precautions').
-
-## You may need to have blood checks if you take:
-
--  potassium supplements
--  salt substitutes containing potassium
--  potassium-sparing medicines (such as certain diuretics)
--  medicines containing lithium
--  repaglinide (medication used for lowering blood sugar levels)
-
-If you take certain painkillers, called non-steroidal anti-inflammatory drugs, the effect of irbesartan may be reduced.
-
-## Karvea with food and drink
-
-Karvea can be taken with or without food.
-
-## Pregnancy and breast-feeding
-
-## Pregnancy
-
-You must tell your doctor if you think you are (or might become) pregnant. Your doctor will normally advise you to stop taking Karvea before you become pregnant or as soon as you know you are pregnant and will advise you to take another medicine instead of Karvea. Karvea is not recommended in early pregnancy, and must not be taken when more than 3 months pregnant, as it may cause serious harm to your baby if used after the third month of pregnancy.
-
-## Breast-feeding
-
-Tell your doctor if you are breast-feeding or about to start breast-feeding. Karvea is not recommended for mothers who are breast-feeding, and your doctor may choose another treatment for you if you wish to breast-feed, especially if your baby is newborn, or was born prematurely.
-
-## Driving and using machines
-
-Karvea is unlikely to affect your ability to drive or use machines. However, occasionally dizziness or weariness may occur during treatment of high blood pressure. If you experience these, talk to your doctor before attempting to drive or use machines.
-
-<div style=\"page-break-after: always\"></div>
-
-Karvea contains lactose . If you have been told by your doctor that you have an intolerance to some sugars (e.g. lactose), contact your doctor before taking this medicinal product.
-
-Karvea contains sodium. This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
-
-## 3. How to take Karvea
-
-Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
-
-## Method of administration
-
-Karvea is for oral use . Swallow the tablets with a sufficient amount of fluid (e.g. one glass of water). You can take Karvea with or without food. Try to take your daily dose at about the same time each day. It is important that you continue to take Karvea until your doctor tells you otherwise.
-
-##  Patients with high blood pressure
-
-The usual dose is 150 mg once-a-day. The dose may later be increased to 300 mg (two tablets a day) once daily depending on blood pressure response.
-
-##  Patients with high blood pressure and type 2 diabetes with kidney disease
-
-In patients with high blood pressure and type 2 diabetes, 300 mg (two tablets a day) once daily is the preferred maintenance dose for the treatment of associated kidney disease.
-
-The doctor may advise a lower dose, especially when starting treatment in certain patients such as those on haemodialysis , or those over the age of 75 years.
-
-The maximal blood pressure lowering effect should be reached 4-6 weeks after beginning treatment.
-
-## Use in children and adolescents
-
-Karvea should not be given to children under 18 years of age. If a child swallows some tablets, contact your doctor immediately.
-
-## If you take more Karvea than you should
-
-If you accidentally take too many tablets, contact your doctor immediately.
-
-## If you forget to take Karvea
-
-If you accidentally miss a daily dose, just take the next dose as normal. Do not take a double dose to make up for a forgotten dose.
-
-If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
-
-## 4. Possible side effects
-
-Like all medicines, this medicine can cause side effects, although not everybody gets them. Some of these effects may be serious and may require medical attention.
-
-As with similar medicines, rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan. If you get any of these symptoms or get short of breath, stop taking Karvea and contact your doctor immediately.
-
-The frequency of the side effects listed below is defined using the following convention: Very common: may affect more than 1 in 10 people Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people
-
-<div style=\"page-break-after: always\"></div>
-
-Side effects reported in clinical studies for patients treated with Karvea were:
-
--  Very common (may affect more than 1 in 10 people): if you suffer from high blood pressure and type 2 diabetes with kidney disease, blood tests may show an increased level of potassium.
--  Common (may affect up to 1 10 people): dizziness, feeling sick/vomiting, fatigue and blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase enzyme). In patients with high blood pressure and type 2 diabetes with kidney disease, dizziness when getting up from a lying or sitting position, low blood pressure when getting up from a lying or sitting position, pain in joints or muscles and decreased levels of a protein in the red blood cells (haemoglobin) were also reported.
--  Uncommon (may affect up to 1 in 100 people): heart rate increased, flushing, cough, diarrhoea, indigestion/heartburn, sexual dysfunction (problems with sexual performance), chest pain.
--  Rare (may affect up to 1 in 1,000 people): intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
-
-Some undesirable effects have been reported since marketing of Karvea. Undesirable effects where the frequency is not known are: feeling of spinning, headache, taste disturbance, ringing in the ears, muscle cramps, pain in joints and muscles, decreased number of red blood cells (anaemia - symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), reduced number of platelets, abnormal liver function, increased blood potassium levels, impaired kidney function, inflammation of small blood vessels mainly affecting the skin (a condition known as leukocytoclastic vasculitis), severe allergic reactions (anaphylactic shock) and low blood sugar levels. Uncommon cases of jaundice (yellowing of the skin and/or whites of the eyes) have also been reported.
-
-## Reporting of side effects
-
-If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
-
-## 5. How to store Karvea
-
-Keep this medicine out of the sight and reach of children.
-
-Do not use this medicine after the expiry date which is stated on the carton and on the blister after EXP. The expiry date refers to the last day of that month.
-
-Do not store above 30°C.
-
-Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away of medicines you no longer use. These measures will help protect the environment.
-
-## 6. Contents of the pack and other information
-
-## What Karvea contains
-
--  The active substance is irbesartan. Each tablet of Karvea 150 mg contains 150 mg irbesartan.
--  The other ingredients are microcrystalline cellulose, croscarmellose sodium, lactose monohydrate, magnesium stearate, colloidal hydrated silica, pregelatinized maize starch, and poloxamer 188. Please see section 2 'Karvea contains lactose'.
-
-<div style=\"page-break-after: always\"></div>
-
-## What Karvea looks like and contents of the pack
-
-Karvea 150 mg tablets are white to off-white, biconvex, and oval-shaped with a heart debossed on one side and the number 2772 engraved on the other side.
-
-Karvea 150 mg tablets are supplied in blister packs of 14, 28, 56 or 98 tablets. Unidose blister packs of 56 x 1 tablet for delivery in hospitals are also available.
 
 Not all pack sizes may be marketed.
 
@@ -4488,7 +4101,7 @@ Tlf: +47 67 10 71 00
 
 ## Ελλάδα
 
-Sanofi- Aventis Μονοπρόσωπη ΑΕΒΕ
+Sanofi-Aventis Μονοπρόσωπη ΑΕΒΕ
 
 Τηλ: +30 210 900 16 00
 
@@ -4552,7 +4165,7 @@ Tel: +386 1 235 51 00
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -4592,28 +4205,22 @@ Swixx Biopharma SIA
 
 Tel: +371 6 616 47 50
 
-## United Kingdom (Northern Ireland)
-
-sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +44 (0) 800 035 2525
-
 ## This leaflet was last revised in
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/
 
 <div style=\"page-break-after: always\"></div>
 
-## Package leaflet: Information for the user Karvea 300 mg tablets
+## Package leaflet: Information for the user Karvea 150 mg tablets
 
 irbesartan
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
--  Keep this leaflet. You may need to read it again.
--  If you have any further questions, ask your doctor or pharmacist.
--  This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
--  If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -4630,28 +4237,28 @@ Karvea belongs to a group of medicines known as angiotensin-II receptor antagoni
 
 ## Karvea is used in adult patients
 
--  to treat high blood pressure ( essential hypertension )
--  to protect the kidney in patients with high blood pressure, type 2 diabetes and laboratory evidence of impaired kidney function.
+- to treat high blood pressure ( essential hypertension )
+- to protect the kidney in patients with high blood pressure, type 2 diabetes and laboratory evidence of impaired kidney function.
 
 ## 2. What you need to know before you take Karvea
 
 ## Do not take Karvea
 
--  if you are allergic to irbesartan or any other ingredients of this medicine (listed in section 6)
--  if you are more than 3 months pregnant . (It is also better to avoid Karvea in early pregnancy see pregnancy section)
--  if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
+- if you are allergic to irbesartan or any other ingredients of this medicine (listed in section 6)
+- if you are more than 3 months pregnant . (It is also better to avoid Karvea in early pregnancy see pregnancy section)
+- if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
 
 ## Warning and precautions
 
 Talk to your doctor before taking Karvea and if any of the following apply to you:
 
--  if you get excessive vomiting or diarrhoea
--  if you suffer from kidney problems
--  if you suffer from heart problems
--  if you receive Karvea for diabetic kidney disease . In this case your doctor may perform regular blood tests, especially for measuring blood potassium levels in case of poor kidney function
--  if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heartbeat), particularly if you are being treated for diabetes.
--  if you are going to have an operation (surgery) or be given anaesthetics
--  if you are taking any of the following medicines used to treat high blood pressure:
+- if you get excessive vomiting or diarrhoea
+- if you suffer from kidney problems
+- if you suffer from heart problems
+- if you receive Karvea for diabetic kidney disease . In this case your doctor may perform regular blood tests, especially for measuring blood potassium levels in case of poor kidney function
+- if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heartbeat), particularly if you are being treated for diabetes.
+- if you are going to have an operation (surgery) or be given anaesthetics
+- if you are taking any of the following medicines used to treat high blood pressure:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4680,11 +4287,397 @@ If you are taking an ACE-inhibitor or aliskiren (see also information under the 
 
 ## You may need to have blood checks if you take:
 
--  potassium supplements
--  salt substitutes containing potassium
--  potassium-sparing medicines (such as certain diuretics)
--  medicines containing lithium
--  repaglinide (medication used for lowering blood sugar levels)
+- potassium supplements
+- salt substitutes containing potassium
+- potassium-sparing medicines (such as certain diuretics)
+- medicines containing lithium
+- repaglinide (medication used for lowering blood sugar levels)
+
+If you take certain painkillers, called non-steroidal anti-inflammatory drugs, the effect of irbesartan may be reduced.
+
+## Karvea with food and drink
+
+Karvea can be taken with or without food.
+
+## Pregnancy and breast-feeding
+
+## Pregnancy
+
+You must tell your doctor if you think you are (or might become) pregnant. Your doctor will normally advise you to stop taking Karvea before you become pregnant or as soon as you know you are pregnant and will advise you to take another medicine instead of Karvea. Karvea is not recommended in early pregnancy, and must not be taken when more than 3 months pregnant, as it may cause serious harm to your baby if used after the third month of pregnancy.
+
+## Breast-feeding
+
+Tell your doctor if you are breast-feeding or about to start breast-feeding. Karvea is not recommended for mothers who are breast-feeding, and your doctor may choose another treatment for you if you wish to breast-feed, especially if your baby is newborn, or was born prematurely.
+
+## Driving and using machines
+
+Karvea is unlikely to affect your ability to drive or use machines. However, occasionally dizziness or weariness may occur during treatment of high blood pressure. If you experience these, talk to your doctor before attempting to drive or use machines.
+
+<div style=\"page-break-after: always\"></div>
+
+Karvea contains lactose . If you have been told by your doctor that you have an intolerance to some sugars (e.g. lactose), contact your doctor before taking this medicinal product.
+
+Karvea contains sodium. This medicine contains less than 1 mmol sodium (23 mg) per tablet, that is to say essentially 'sodium-free'.
+
+## 3. How to take Karvea
+
+Always take this medicine exactly as your doctor has told you. Check with your doctor or pharmacist if you are not sure.
+
+## Method of administration
+
+Karvea is for oral use . Swallow the tablets with a sufficient amount of fluid (e.g. one glass of water). You can take Karvea with or without food. Try to take your daily dose at about the same time each day. It is important that you continue to take Karvea until your doctor tells you otherwise.
+
+## ▪ Patients with high blood pressure
+
+The usual dose is 150 mg once-a-day. The dose may later be increased to 300 mg (two tablets a day) once daily depending on blood pressure response.
+
+## ▪ Patients with high blood pressure and type 2 diabetes with kidney disease
+
+In patients with high blood pressure and type 2 diabetes, 300 mg (two tablets a day) once daily is the preferred maintenance dose for the treatment of associated kidney disease.
+
+The doctor may advise a lower dose, especially when starting treatment in certain patients such as those on haemodialysis , or those over the age of 75 years.
+
+The maximal blood pressure lowering effect should be reached 4-6 weeks after beginning treatment.
+
+## Use in children and adolescents
+
+Karvea should not be given to children under 18 years of age. If a child swallows some tablets, contact your doctor immediately.
+
+## If you take more Karvea than you should
+
+If you accidentally take too many tablets, contact your doctor immediately.
+
+## If you forget to take Karvea
+
+If you accidentally miss a daily dose, just take the next dose as normal. Do not take a double dose to make up for a forgotten dose.
+
+If you have any further questions on the use of this medicine, ask your doctor or pharmacist.
+
+## 4. Possible side effects
+
+Like all medicines, this medicine can cause side effects, although not everybody gets them. Some of these effects may be serious and may require medical attention.
+
+As with similar medicines, rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan. If you get any of these symptoms or get short of breath, stop taking Karvea and contact your doctor immediately.
+
+The frequency of the side effects listed below is defined using the following convention: Very common: may affect more than 1 in 10 people Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people
+
+<div style=\"page-break-after: always\"></div>
+
+Side effects reported in clinical studies for patients treated with Karvea were:
+
+- Very common (may affect more than 1 in 10 people): if you suffer from high blood pressure and type 2 diabetes with kidney disease, blood tests may show an increased level of potassium.
+- Common (may affect up to 1 10 people): dizziness, feeling sick/vomiting, fatigue and blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase enzyme). In patients with high blood pressure and type 2 diabetes with kidney disease, dizziness when getting up from a lying or sitting position, low blood pressure when getting up from a lying or sitting position, pain in joints or muscles and decreased levels of a protein in the red blood cells (haemoglobin) were also reported.
+- Uncommon (may affect up to 1 in 100 people): heart rate increased, flushing, cough, diarrhoea, indigestion/heartburn, sexual dysfunction (problems with sexual performance), chest pain.
+- Rare (may affect up to 1 in 1,000 people): intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
+
+Some undesirable effects have been reported since marketing of Karvea. Undesirable effects where the frequency is not known are: feeling of spinning, headache, taste disturbance, ringing in the ears, muscle cramps, pain in joints and muscles, decreased number of red blood cells (anaemia - symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), reduced number of platelets, abnormal liver function, increased blood potassium levels, impaired kidney function, inflammation of small blood vessels mainly affecting the skin (a condition known as leukocytoclastic vasculitis), severe allergic reactions (anaphylactic shock) and low blood sugar levels. Uncommon cases of jaundice (yellowing of the skin and/or whites of the eyes) have also been reported.
+
+## Reporting of side effects
+
+If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
+
+## 5. How to store Karvea
+
+Keep this medicine out of the sight and reach of children.
+
+Do not use this medicine after the expiry date which is stated on the carton and on the blister after EXP. The expiry date refers to the last day of that month.
+
+Do not store above 30°C.
+
+Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away of medicines you no longer use. These measures will help protect the environment.
+
+## 6. Contents of the pack and other information
+
+## What Karvea contains
+
+- The active substance is irbesartan. Each tablet of Karvea 150 mg contains 150 mg irbesartan.
+- The other ingredients are microcrystalline cellulose, croscarmellose sodium, lactose monohydrate, magnesium stearate, colloidal hydrated silica, pregelatinized maize starch, and poloxamer 188. Please see section 2 'Karvea contains lactose'.
+
+<div style=\"page-break-after: always\"></div>
+
+## What Karvea looks like and contents of the pack
+
+Karvea 150 mg tablets are white to off-white, biconvex, and oval-shaped with a heart debossed on one side and the number 2772 engraved on the other side.
+
+Karvea 150 mg tablets are supplied in blister packs of 14, 28, 56 or 98 tablets. Unidose blister packs of 56 x 1 tablet for delivery in hospitals are also available.
+
+Not all pack sizes may be marketed.
+
+## Marketing Authorisation Holder:
+
+Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly France
+
+## Manufacturer:
+
+SANOFI WINTHROP INDUSTRIE 1, rue de la Vierge Ambarès &amp; Lagrave F-33565 Carbon Blanc Cedex - France
+
+SANOFI WINTHROP INDUSTRIE 30-36 Avenue Gustave Eiffel, BP 7166 F-37071 Tours Cedex 2 - France
+
+For any information about this medicinal product, please contact the local representative of the Marketing Authorisation Holder.
+
+## België/Belgique/Belgien
+
+Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00
+
+## Lietuva
+
+Swixx Biopharma UAB
+
+Tel: +370 5 236 91 40
+
+## България
+
+Swixx Biopharma EOOD
+
+Тел.: +359 (0)2 4942 480
+
+## Luxembourg/Luxemburg
+
+Sanofi Belgium
+
+Tél/Tel: +32 (0)2 710 54 00 (Belgique/Belgien)
+
+## Česká republika
+
+Sanofi s.r.o.
+
+Tel: +420 233 086 111
+
+## Magyarország
+
+SANOFI-AVENTIS Zrt.
+
+Tel.: +36 1 505 0050
+
+## Danmark
+
+Sanofi A/S
+
+Tlf: +45 45 16 70 00
+
+## Malta
+
+Sanofi S.r.l.
+
+Tel: +39 02 39394275
+
+## Deutschland
+
+Sanofi-Aventis Deutschland GmbH Tel: 0800 52 52 010
+
+Tel. aus dem Ausland: +49 69 305 21 131
+
+## Nederland
+
+Sanofi B.V.
+
+Tel: +31 20 245 4000
+
+## Eesti
+
+Swixx Biopharma OÜ
+
+Tel: +372 640 10 30
+
+## Norge
+
+sanofi-aventis Norge AS
+
+Tlf: +47 67 10 71 00
+
+## Ελλάδα
+
+Sanofi-Aventis Μονοπρόσωπη ΑΕΒΕ
+
+Τηλ: +30 210 900 16 00
+
+## Österreich
+
+sanofi-aventis GmbH
+
+Tel: +43 1 80 185 - 0
+
+<div style=\"page-break-after: always\"></div>
+
+## España
+
+## Polska
+
+sanofi-aventis, S.A.
+
+Tel: +34 93 485 94 00
+
+Sanofi Sp. z o.o.
+
+Tel.: +48 22 280 00 00
+
+## France
+
+Sanofi Winthrop Industrie
+
+Tél: 0 800 222 555
+
+Appel depuis l'étranger: +33 1 57 63 23 23
+
+## Portugal
+
+Sanofi - Produtos Farmacêuticos, Lda
+
+Tel: +351 21 35 89 400
+
+## Hrvatska
+
+Swixx Biopharma d.o.o.
+
+Tel: +385 1 2078 500
+
+## România
+
+Sanofi Romania SRL
+
+Tel: +40 (0) 21 317 31 36
+
+## Ireland
+
+sanofi-aventis Ireland Ltd. T/A SANOFI
+
+Tel: +353 (0) 1 403 56 00
+
+## Slovenija
+
+Swixx Biopharma d.o.o.
+
+Tel: +386 1 235 51 00
+
+## Ísland
+
+Vistor ehf.
+
+Sími: +354 535 7000
+
+## Slovenská republika
+
+Swixx Biopharma s.r.o.
+
+Tel: +421 2 208 33 600
+
+## Italia
+
+Sanofi S.r.l.
+
+Tel: 800 536389
+
+## Suomi/Finland
+
+Sanofi Oy
+
+Puh/Tel: +358 (0) 201 200 300
+
+## Κύπρος
+
+C.A. Papaellinas Ltd.
+
+Τηλ: +357 22 741741
+
+## Sverige
+
+Sanofi AB
+
+Tel: +46 (0)8 634 50 00
+
+## Latvija
+
+Swixx Biopharma SIA
+
+Tel: +371 6 616 47 50
+
+## This leaflet was last revised in
+
+Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/
+
+<div style=\"page-break-after: always\"></div>
+
+## Package leaflet: Information for the user Karvea 300 mg tablets
+
+irbesartan
+
+## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
+
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+
+## What is in this leaflet
+
+1. What Karvea is and what it is used for
+2. What you need to know before you take Karvea
+3. How to take Karvea
+4. Possible side effects
+5. How to store Karvea
+6. Contents of the pack and other information
+
+## 1. What Karvea is and what it is used for
+
+Karvea belongs to a group of medicines known as angiotensin-II receptor antagonists. Angiotensin-II is a substance produced in the body which binds to receptors in blood vessels causing them to tighten. This results in an increase in blood pressure. Karvea prevents the binding of angiotensin-II to these receptors, causing the blood vessels to relax and the blood pressure to lower. Karvea slows the decrease of kidney function in patients with high blood pressure and type 2 diabetes.
+
+## Karvea is used in adult patients
+
+- to treat high blood pressure ( essential hypertension )
+- to protect the kidney in patients with high blood pressure, type 2 diabetes and laboratory evidence of impaired kidney function.
+
+## 2. What you need to know before you take Karvea
+
+## Do not take Karvea
+
+- if you are allergic to irbesartan or any other ingredients of this medicine (listed in section 6)
+- if you are more than 3 months pregnant . (It is also better to avoid Karvea in early pregnancy see pregnancy section)
+- if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
+
+## Warning and precautions
+
+Talk to your doctor before taking Karvea and if any of the following apply to you:
+
+- if you get excessive vomiting or diarrhoea
+- if you suffer from kidney problems
+- if you suffer from heart problems
+- if you receive Karvea for diabetic kidney disease . In this case your doctor may perform regular blood tests, especially for measuring blood potassium levels in case of poor kidney function
+- if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heartbeat), particularly if you are being treated for diabetes.
+- if you are going to have an operation (surgery) or be given anaesthetics
+- if you are taking any of the following medicines used to treat high blood pressure:
+
+<div style=\"page-break-after: always\"></div>
+
+- o an ACE-inhibitor (for example enalapril, lisinopril, ramipril), in particular if you have diabetes-related kidney problems.
+- o aliskiren
+
+Your doctor may check your kidney function, blood pressure, and the amount of electrolytes (e.g. potassium) in your blood at regular intervals.
+
+Talk to your doctor if you experience abdominal pain, nausea, vomiting or diarrhoea after taking Karvea. Your doctor will decide on further treatment. Do not stop taking Karvea on your own.
+
+See also information under the heading 'Do not take Karvea'.
+
+You must tell your doctor if you think you are (or might become) pregnant. Karvea is not recommended in early pregnancy, and must not be taken if you are more than 3 months pregnant, as it may cause serious harm to your baby if used at that stage (see pregnancy section).
+
+## Children and adolescents
+
+This medicinal product should not be used in children and adolescents because the safety and efficacy have not yet been fully established.
+
+## Other medicines and Karvea
+
+Tell your doctor or pharmacist if you are taking, have recently taken or might take any other medicines.
+
+Your doctor may need to change your dose and/or to take other precautions:
+
+If you are taking an ACE-inhibitor or aliskiren (see also information under the headings 'Do not take Karvea' and 'Warnings and precautions').
+
+## You may need to have blood checks if you take:
+
+- potassium supplements
+- salt substitutes containing potassium
+- potassium-sparing medicines (such as certain diuretics)
+- medicines containing lithium
+- repaglinide (medication used for lowering blood sugar levels)
 
 If you take certain painkillers, called non-steroidal anti-inflammatory drugs, the effect of irbesartan may be reduced.
 
@@ -4720,11 +4713,13 @@ Always take this medicine exactly as your doctor has told you. Check with your d
 
 Karvea is for oral use . Swallow the tablets with a sufficient amount of fluid (e.g. one glass of water). You can take Karvea with or without food. Try to take your daily dose at about the same time each day. It is important that you continue to take Karvea until your doctor tells you otherwise.
 
-##  Patients with high blood pressure
+## ▪ Patients with high blood pressure
 
 The usual dose is 150 mg once-a-day. The dose may later be increased to 300 mg once daily depending on blood pressure response.
 
-##  Patients with high blood pressure and type 2 diabetes with kidney disease
+## ▪
+
+- Patients with high blood pressure and type 2 diabetes with kidney disease
 
 In patients with high blood pressure and type 2 diabetes, 300 mg once daily is the preferred maintenance dose for the treatment of associated kidney disease.
 
@@ -4758,10 +4753,10 @@ The frequency of the side effects listed below is defined using the following co
 
 Side effects reported in clinical studies for patients treated with Karvea were:
 
--  Very common (may affect more than 1 in 10 people): if you suffer from high blood pressure and type 2 diabetes with kidney disease, blood tests may show an increased level of potassium.
--  Common (may affect up to 1 10 people): dizziness, feeling sick/vomiting, fatigue and blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase enzyme). In patients with high blood pressure and type 2 diabetes with kidney disease, dizziness when getting up from a lying or sitting position, low blood pressure when getting up from a lying or sitting position, pain in joints or muscles and decreased levels of a protein in the red blood cells (haemoglobin) were also reported.
--  Uncommon (may affect up to 1 in 100 people): heart rate increased, flushing, cough, diarrhoea, indigestion/heartburn, sexual dysfunction (problems with sexual performance), chest pain.
--  Rare (may affect up to 1 in 1,000 people): intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
+- Very common (may affect more than 1 in 10 people): if you suffer from high blood pressure and type 2 diabetes with kidney disease, blood tests may show an increased level of potassium.
+- Common (may affect up to 1 10 people): dizziness, feeling sick/vomiting, fatigue and blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase enzyme). In patients with high blood pressure and type 2 diabetes with kidney disease, dizziness when getting up from a lying or sitting position, low blood pressure when getting up from a lying or sitting position, pain in joints or muscles and decreased levels of a protein in the red blood cells (haemoglobin) were also reported.
+- Uncommon (may affect up to 1 in 100 people): heart rate increased, flushing, cough, diarrhoea, indigestion/heartburn, sexual dysfunction (problems with sexual performance), chest pain.
+- Rare (may affect up to 1 in 1,000 people): intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
 
 Some undesirable effects have been reported since marketing of Karvea. Undesirable effects where the frequency is not known are: feeling of spinning, headache, taste disturbance, ringing in the ears, muscle cramps, pain in joints and muscles, decreased number of red blood cells (anaemia - symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), reduced number of platelets, abnormal liver function, increased blood potassium levels, impaired kidney function, inflammation of small blood vessels mainly affecting the skin (a condition known as leukocytoclastic vasculitis), severe allergic reactions (anaphylactic shock) and low blood sugar levels. Uncommon cases of jaundice (yellowing of the skin and/or whites of the eyes) have also been reported.
 
@@ -4783,11 +4778,11 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Karvea contains
 
--  The active substance is irbesartan. Each tablet of Karvea 300 mg contains 300 mg irbesartan.
+- The active substance is irbesartan. Each tablet of Karvea 300 mg contains 300 mg irbesartan.
 
 <div style=\"page-break-after: always\"></div>
 
--  The other ingredients are microcrystalline cellulose, croscarmellose sodium, lactose monohydrate, magnesium stearate, colloidal hydrated silica, pregelatinized maize starch, and poloxamer 188. Please see section 2 'Karvea contains lactose'.
+- The other ingredients are microcrystalline cellulose, croscarmellose sodium, lactose monohydrate, magnesium stearate, colloidal hydrated silica, pregelatinized maize starch, and poloxamer 188. Please see section 2 'Karvea contains lactose'.
 
 ## What Karvea looks like and contents of the pack
 
@@ -4883,7 +4878,7 @@ Tlf: +47 67 10 71 00
 
 ## Ελλάδα
 
-Sanofi- Aventis Μονοπρόσωπη ΑΕΒΕ
+Sanofi-Aventis Μονοπρόσωπη ΑΕΒΕ
 
 Τηλ: +30 210 900 16 00
 
@@ -4913,7 +4908,7 @@ sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -4987,12 +4982,6 @@ Sanofi AB
 
 Tel: +46 (0)8 634 50 00
 
-## United Kingdom (Northern Ireland)
-
-sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +44 (0) 800 035 2525
-
 <div style=\"page-break-after: always\"></div>
 
 ## Package leaflet: Information for the user Karvea 75 mg film-coated tablets
@@ -5001,10 +4990,10 @@ irbesartan
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
--  Keep this leaflet. You may need to read it again.
--  If you have any further questions, ask your doctor or pharmacist.
--  This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
--  If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -5021,28 +5010,28 @@ Karvea belongs to a group of medicines known as angiotensin-II receptor antagoni
 
 ## Karvea is used in adult patients
 
--  to treat high blood pressure ( essential hypertension )
--  to protect the kidney in patients with high blood pressure, type 2 diabetes and laboratory evidence of impaired kidney function.
+- to treat high blood pressure ( essential hypertension )
+- to protect the kidney in patients with high blood pressure, type 2 diabetes and laboratory evidence of impaired kidney function.
 
 ## 2. What you need to know before you take Karvea
 
 ## Do not take Karvea
 
--  if you are allergic to irbesartan or any other ingredients of this medicine (listed in section 6)
--  if you are more than 3 months pregnant . (It is also better to avoid Karvea in early pregnancy see pregnancy section)
--  if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
+- if you are allergic to irbesartan or any other ingredients of this medicine (listed in section 6)
+- if you are more than 3 months pregnant . (It is also better to avoid Karvea in early pregnancy see pregnancy section)
+- if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
 
 ## Warnings and precautions
 
 Talk to your doctor before taking Karvea and if any of the following apply to you:
 
--  if you get excessive vomiting or diarrhoea
--  if you suffer from kidney problems
--  if you suffer from heart problems
--  if you receive Karvea for diabetic kidney disease . In this case your doctor may perform regular blood tests, especially for measuring blood potassium levels in case of poor kidney function
--  if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heartbeat), particularly if you are being treated for diabetes.
--  if you are going to have an operation (surgery) or be given anaesthetics
--  if you are taking any of the following medicines used to treat high blood pressure:
+- if you get excessive vomiting or diarrhoea
+- if you suffer from kidney problems
+- if you suffer from heart problems
+- if you receive Karvea for diabetic kidney disease . In this case your doctor may perform regular blood tests, especially for measuring blood potassium levels in case of poor kidney function
+- if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heartbeat), particularly if you are being treated for diabetes.
+- if you are going to have an operation (surgery) or be given anaesthetics
+- if you are taking any of the following medicines used to treat high blood pressure:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5071,11 +5060,11 @@ If you are taking an ACE-inhibitor or aliskiren (see also information under the 
 
 ## You may need to have blood checks if you take:
 
--  potassium supplements
--  salt substitutes containing potassium
--  potassium-sparing medicines (such as certain diuretics)
--  medicines containing lithium
--  repaglinide (medication used for lowering blood sugar levels)
+- potassium supplements
+- salt substitutes containing potassium
+- potassium-sparing medicines (such as certain diuretics)
+- medicines containing lithium
+- repaglinide (medication used for lowering blood sugar levels)
 
 If you take certain painkillers, called non-steroidal anti-inflammatory drugs, the effect of irbesartan may be reduced.
 
@@ -5111,11 +5100,11 @@ Always take this medicine exactly as your doctor has told you. Check with your d
 
 Karvea is for oral use . Swallow the tablets with a sufficient amount of fluid (e.g. one glass of water). You can take Karvea with or without food. Try to take your daily dose at about the same time each day. It is important that you continue to take Karvea until your doctor tells you otherwise.
 
-##  Patients with high blood pressure
+## ▪ Patients with high blood pressure
 
 The usual dose is 150 mg once-a-day (two tablets a day). The dose may later be increased to 300 mg (four tablets a day) once daily depending on blood pressure response.
 
-## 
+## ▪
 
 - Patients with high blood pressure and type 2 diabetes with kidney disease
 
@@ -5153,10 +5142,10 @@ Uncommon: may affect up to 1 in 100 people
 
 Side effects reported in clinical studies for patients treated with Karvea were:
 
--  Very common (may affect more than 1 in 10 people): if you suffer from high blood pressure and type 2 diabetes with kidney disease, blood tests may show an increased level of potassium.
--  Common (may affect up to 1 10 people): dizziness, feeling sick/vomiting, fatigue and blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase enzyme). In patients with high blood pressure and type 2 diabetes with kidney disease, dizziness when getting up from a lying or sitting position, low blood pressure when getting up from a lying or sitting position, pain in joints or muscles and decreased levels of a protein in the red blood cells (haemoglobin) were also reported.
--  Uncommon (may affect up to 1 in 100 people): heart rate increased, flushing, cough, diarrhoea, indigestion/heartburn, sexual dysfunction (problems with sexual performance), chest pain.
--  Rare (may affect up to 1 in 1,000 people): intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
+- Very common (may affect more than 1 in 10 people): if you suffer from high blood pressure and type 2 diabetes with kidney disease, blood tests may show an increased level of potassium.
+- Common (may affect up to 1 10 people): dizziness, feeling sick/vomiting, fatigue and blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase enzyme). In patients with high blood pressure and type 2 diabetes with kidney disease, dizziness when getting up from a lying or sitting position, low blood pressure when getting up from a lying or sitting position, pain in joints or muscles and decreased levels of a protein in the red blood cells (haemoglobin) were also reported.
+- Uncommon (may affect up to 1 in 100 people): heart rate increased, flushing, cough, diarrhoea, indigestion/heartburn, sexual dysfunction (problems with sexual performance), chest pain.
+- Rare (may affect up to 1 in 1,000 people): intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
 
 Some undesirable effects have been reported since marketing of Karvea. Undesirable effects where the frequency is not known are: feeling of spinning, headache, taste disturbance, ringing in the ears, muscle cramps, pain in joints and muscles, decreased number of red blood cells (anaemia - symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), reduced number of platelets, abnormal liver function, increased blood potassium levels, impaired kidney function, inflammation of small blood vessels mainly affecting the skin (a condition known as leukocytoclastic vasculitis), severe allergic reactions (anaphylactic shock) and low blood sugar levels. Uncommon cases of jaundice (yellowing of the skin and/or whites of the eyes) have also been reported.
 
@@ -5178,8 +5167,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Karvea contains
 
--  The active substance is irbesartan. Each tablet of Karvea 75 mg contains 75 mg irbesartan.
--  The other ingredients are lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, hypromellose, silicon dioxide, magnesium stearate, titanium dioxide, macrogol 3000, carnauba wax. Please see section 2 'Karvea contains lactose'.
+- The active substance is irbesartan. Each tablet of Karvea 75 mg contains 75 mg irbesartan.
+- The other ingredients are lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, hypromellose, silicon dioxide, magnesium stearate, titanium dioxide, macrogol 3000, carnauba wax. Please see section 2 'Karvea contains lactose'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5213,9 +5202,7 @@ For any information about this medicinal product, please contact the local repre
 
 ## België/Belgique/Belgien
 
-Sanofi Belgium
-
-Tél/Tel: +32 (0)2 710 54 00
+Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00
 
 ## България
 
@@ -5287,7 +5274,7 @@ Tlf: +47 67 10 71 00
 
 ## Ελλάδα
 
-Sanofi- Aventis Μονοπρόσωπη ΑΕΒΕ
+Sanofi-Aventis Μονοπρόσωπη ΑΕΒΕ
 
 Τηλ: +30 210 900 16 00
 
@@ -5317,7 +5304,7 @@ sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -5391,12 +5378,6 @@ Sanofi AB
 
 Tel: +46 (0)8 634 50 00
 
-## United Kingdom (Northern Ireland)
-
-sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +44 (0) 800 035 2525
-
 <div style=\"page-break-after: always\"></div>
 
 ## Package leaflet: Information for the user Karvea 150 mg film-coated tablets
@@ -5405,10 +5386,10 @@ irbesartan
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
--  Keep this leaflet. You may need to read it again.
--  If you have any further questions, ask your doctor or pharmacist.
--  This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
--  If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -5425,28 +5406,28 @@ Karvea belongs to a group of medicines known as angiotensin-II receptor antagoni
 
 ## Karvea is used in adult patients
 
--  to treat high blood pressure ( essential hypertension )
--  to protect the kidney in patients with high blood pressure, type 2 diabetes and laboratory evidence of impaired kidney function.
+- to treat high blood pressure ( essential hypertension )
+- to protect the kidney in patients with high blood pressure, type 2 diabetes and laboratory evidence of impaired kidney function.
 
 ## 2. What you need to know before you take Karvea
 
 ## Do not take Karvea
 
--  if you are allergic to irbesartan or any other ingredients of this medicine (listed in section 6)
--  if you are more than 3 months pregnant . (It is also better to avoid Karvea in early pregnancy see pregnancy section)
--  if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
+- if you are allergic to irbesartan or any other ingredients of this medicine (listed in section 6)
+- if you are more than 3 months pregnant . (It is also better to avoid Karvea in early pregnancy see pregnancy section)
+- if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
 
 ## Warnings and precautions
 
 Talk to your doctor before taking Karvea and if any of the following apply to you:
 
--  if you get excessive vomiting or diarrhoea
--  if you suffer from kidney problems
--  if you suffer from heart problems
--  if you receive Karvea for diabetic kidney disease . In this case your doctor may perform regular blood tests, especially for measuring blood potassium levels in case of poor kidney function
--  if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heartbeat), particularly if you are being treated for diabetes.
--  if you are going to have an operation (surgery) or be given anaesthetics
--  if you are taking any of the following medicines used to treat high blood pressure:
+- if you get excessive vomiting or diarrhoea
+- if you suffer from kidney problems
+- if you suffer from heart problems
+- if you receive Karvea for diabetic kidney disease . In this case your doctor may perform regular blood tests, especially for measuring blood potassium levels in case of poor kidney function
+- if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heartbeat), particularly if you are being treated for diabetes.
+- if you are going to have an operation (surgery) or be given anaesthetics
+- if you are taking any of the following medicines used to treat high blood pressure:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5475,11 +5456,11 @@ If you are taking an ACE-inhibitor or aliskiren (see also information under the 
 
 ## You may need to have blood checks if you take:
 
--  potassium supplements
--  salt substitutes containing potassium
--  potassium-sparing medicines (such as certain diuretics)
--  medicines containing lithium
--  repaglinide (medication used for lowering blood sugar levels)
+- potassium supplements
+- salt substitutes containing potassium
+- potassium-sparing medicines (such as certain diuretics)
+- medicines containing lithium
+- repaglinide (medication used for lowering blood sugar levels)
 
 If you take certain painkillers, called non-steroidal anti-inflammatory drugs, the effect of irbesartan may be reduced.
 
@@ -5515,11 +5496,13 @@ Always take this medicine exactly as your doctor has told you. Check with your d
 
 Karvea is for oral use . Swallow the tablets with a sufficient amount of fluid (e.g. one glass of water). You can take Karvea with or without food. Try to take your daily dose at about the same time each day. It is important that you continue to take Karvea until your doctor tells you otherwise.
 
-##  Patients with high blood pressure
+## ▪ Patients with high blood pressure
 
 The usual dose is 150 mg once-a-day. The dose may later be increased to 300 mg (two tablets a day) once daily depending on blood pressure response.
 
-##  Patients with high blood pressure and type 2 diabetes with kidney disease
+## ▪
+
+- Patients with high blood pressure and type 2 diabetes with kidney disease
 
 In patients with high blood pressure and type 2 diabetes, 300 mg (two tablets a day) once daily is the preferred maintenance dose for the treatment of associated kidney disease.
 
@@ -5555,10 +5538,10 @@ Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 peop
 
 Side effects reported in clinical studies for patients treated with Karvea were:
 
--  Very common (may affect more than 1 in 10 people): if you suffer from high blood pressure and type 2 diabetes with kidney disease, blood tests may show an increased level of potassium.
--  Common (may affect up to 1 10 people): dizziness, feeling sick/vomiting, fatigue and blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase enzyme). In patients with high blood pressure and type 2 diabetes with kidney disease, dizziness when getting up from a lying or sitting position, low blood pressure when getting up from a lying or sitting position, pain in joints or muscles and decreased levels of a protein in the red blood cells (haemoglobin) were also reported.
--  Uncommon (may affect up to 1 in 100 people): heart rate increased, flushing, cough, diarrhoea, indigestion/heartburn, sexual dysfunction (problems with sexual performance), chest pain.
--  Rare (may affect up to 1 in 1,000 people): intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
+- Very common (may affect more than 1 in 10 people): if you suffer from high blood pressure and type 2 diabetes with kidney disease, blood tests may show an increased level of potassium.
+- Common (may affect up to 1 10 people): dizziness, feeling sick/vomiting, fatigue and blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase enzyme). In patients with high blood pressure and type 2 diabetes with kidney disease, dizziness when getting up from a lying or sitting position, low blood pressure when getting up from a lying or sitting position, pain in joints or muscles and decreased levels of a protein in the red blood cells (haemoglobin) were also reported.
+- Uncommon (may affect up to 1 in 100 people): heart rate increased, flushing, cough, diarrhoea, indigestion/heartburn, sexual dysfunction (problems with sexual performance), chest pain.
+- Rare (may affect up to 1 in 1,000 people): intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
 
 Some undesirable effects have been reported since marketing of Karvea. Undesirable effects where the frequency is not known are: feeling of spinning, headache, taste disturbance, ringing in the ears, muscle cramps, pain in joints and muscles, decreased number of red blood cells (anaemia - symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), reduced number of platelets, abnormal liver function, increased blood potassium levels, impaired kidney function, inflammation of small blood vessels mainly affecting the skin (a condition known as leukocytoclastic vasculitis), severe allergic reactions (anaphylactic shock) and low blood sugar levels. Uncommon cases of jaundice (yellowing of the skin and/or whites of the eyes) have also been reported.
 
@@ -5580,8 +5563,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Karvea contains
 
--  The active substance is irbesartan. Each tablet of Karvea 150 mg contains 150 mg irbesartan.
--  The other ingredients are lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, hypromellose, silicon dioxide, magnesium stearate, titanium dioxide, macrogol 3000, carnauba wax. Please see section 2 'Karvea contains lactose'.
+- The active substance is irbesartan. Each tablet of Karvea 150 mg contains 150 mg irbesartan.
+- The other ingredients are lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, hypromellose, silicon dioxide, magnesium stearate, titanium dioxide, macrogol 3000, carnauba wax. Please see section 2 'Karvea contains lactose'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5601,9 +5584,9 @@ Sanofi Winthrop Industrie 82 avenue Raspail 94250 Gentilly France
 
 SANOFI WINTHROP INDUSTRIE 1, rue de la Vierge Ambarès &amp; Lagrave F-33565 Carbon Blanc Cedex - France
 
-## SANOFI WINTHROP INDUSTRIE
+SANOFI WINTHROP INDUSTRIE 30-36 Avenue Gustave Eiffel, BP 7166
 
-30-36 Avenue Gustave Eiffel, BP 7166 F-37071 Tours Cedex 2 - France
+F-37071 Tours Cedex 2 - France
 
 SANOFI-AVENTIS, S.A. Ctra. C-35 (La Batlloria-Hostalric), km. 63.09 17404 Riells i Viabrea (Girona) - Spain
 
@@ -5611,9 +5594,7 @@ For any information about this medicinal product, please contact the local repre
 
 ## België/Belgique/Belgien
 
-Sanofi Belgium
-
-Tél/Tel: +32 (0)2 710 54 00
+Sanofi Belgium Tél/Tel: +32 (0)2 710 54 00
 
 ## България
 
@@ -5679,7 +5660,7 @@ Tel: +372 640 10 30
 
 ## Ελλάδα
 
-Sanofi- Aventis Μονοπρόσωπη ΑΕΒΕ
+Sanofi-Aventis Μονοπρόσωπη ΑΕΒΕ
 
 Τηλ: +30 210 900 16 00
 
@@ -5705,13 +5686,11 @@ Tel: +385 1 2078 500
 
 ## Ireland
 
-sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +353 (0) 1 403 56 00
+sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -5791,12 +5770,6 @@ Sanofi AB
 
 Tel: +46 (0)8 634 50 00
 
-## United Kingdom (Northern Ireland)
-
-sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +44 (0) 800 035 2525
-
 <div style=\"page-break-after: always\"></div>
 
 ## Package leaflet: Information for the user Karvea 300 mg film-coated tablets
@@ -5805,10 +5778,10 @@ irbesartan
 
 ## Read all of this leaflet carefully before you start taking this medicine because it contains important information for you.
 
--  Keep this leaflet. You may need to read it again.
--  If you have any further questions, ask your doctor or pharmacist.
--  This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
--  If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
+- Keep this leaflet. You may need to read it again.
+- If you have any further questions, ask your doctor or pharmacist.
+- This medicine has been prescribed for you only. Do not pass it on to others. It may harm them, even if their signs of illness are the same as yours.
+- If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. See section 4.
 
 ## What is in this leaflet
 
@@ -5825,28 +5798,28 @@ Karvea belongs to a group of medicines known as angiotensin-II receptor antagoni
 
 ## Karvea is used in adult patients
 
--  to treat high blood pressure ( essential hypertension )
--  to protect the kidney in patients with high blood pressure, type 2 diabetes and laboratory evidence of impaired kidney function.
+- to treat high blood pressure ( essential hypertension )
+- to protect the kidney in patients with high blood pressure, type 2 diabetes and laboratory evidence of impaired kidney function.
 
 ## 2. What you need to know before you take Karvea
 
 ## Do not take Karvea
 
--  if you are allergic to irbesartan or any other ingredients of this medicine (listed in section 6)
--  if you are more than 3 months pregnant . (It is also better to avoid Karvea in early pregnancy see pregnancy section)
--  if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
+- if you are allergic to irbesartan or any other ingredients of this medicine (listed in section 6)
+- if you are more than 3 months pregnant . (It is also better to avoid Karvea in early pregnancy see pregnancy section)
+- if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
 
 ## Warnings and precautions
 
 Talk to your doctor before taking Karvea and if any of the following apply to you:
 
--  if you get excessive vomiting or diarrhoea
--  if you suffer from kidney problems
--  if you suffer from heart problems
--  if you receive Karvea for diabetic kidney disease . In this case your doctor may perform regular blood tests, especially for measuring blood potassium levels in case of poor kidney function
--  if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heartbeat), particularly if you are being treated for diabetes.
--  if you are going to have an operation (surgery) or be given anaesthetics
--  if you are taking any of the following medicines used to treat high blood pressure:
+- if you get excessive vomiting or diarrhoea
+- if you suffer from kidney problems
+- if you suffer from heart problems
+- if you receive Karvea for diabetic kidney disease . In this case your doctor may perform regular blood tests, especially for measuring blood potassium levels in case of poor kidney function
+- if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heartbeat), particularly if you are being treated for diabetes.
+- if you are going to have an operation (surgery) or be given anaesthetics
+- if you are taking any of the following medicines used to treat high blood pressure:
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5875,11 +5848,11 @@ If you are taking an ACE-inhibitor or aliskiren (see also information under the 
 
 ## You may need to have blood checks if you take:
 
--  potassium supplements
--  salt substitutes containing potassium
--  potassium-sparing medicines (such as certain diuretics)
--  medicines containing lithium
--  repaglinide (medication used for lowering blood sugar levels)
+- potassium supplements
+- salt substitutes containing potassium
+- potassium-sparing medicines (such as certain diuretics)
+- medicines containing lithium
+- repaglinide (medication used for lowering blood sugar levels)
 
 If you take certain painkillers, called non-steroidal anti-inflammatory drugs, the effect of irbesartan may be reduced.
 
@@ -5915,11 +5888,11 @@ Always take this medicine exactly as your doctor has told you. Check with your d
 
 Karvea is for oral use . Swallow the tablets with a sufficient amount of fluid (e.g. one glass of water). You can take Karvea with or without food. Try to take your daily dose at about the same time each day. It is important that you continue to take Karvea until your doctor tells you otherwise.
 
-##  Patients with high blood pressure
+## ▪ Patients with high blood pressure
 
 The usual dose is 150 mg once-a-day. The dose may later be increased to 300 mg once daily depending on blood pressure response.
 
-## 
+## ▪
 
 - Patients with high blood pressure and type 2 diabetes with kidney disease
 
@@ -5957,10 +5930,10 @@ Uncommon: may affect up to 1 in 100 people
 
 Side effects reported in clinical studies for patients treated with Karvea were:
 
--  Very common (may affect more than 1 in 10 people): if you suffer from high blood pressure and type 2 diabetes with kidney disease, blood tests may show an increased level of potassium.
--  Common (may affect up to 1 10 people): dizziness, feeling sick/vomiting, fatigue and blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase enzyme). In patients with high blood pressure and type 2 diabetes with kidney disease, dizziness when getting up from a lying or sitting position, low blood pressure when getting up from a lying or sitting position, pain in joints or muscles and decreased levels of a protein in the red blood cells (haemoglobin) were also reported.
--  Uncommon (may affect up to 1 in 100 people): heart rate increased, flushing, cough, diarrhoea, indigestion/heartburn, sexual dysfunction (problems with sexual performance), chest pain.
--  Rare (may affect up to 1 in 1,000 people): intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
+- Very common (may affect more than 1 in 10 people): if you suffer from high blood pressure and type 2 diabetes with kidney disease, blood tests may show an increased level of potassium.
+- Common (may affect up to 1 10 people): dizziness, feeling sick/vomiting, fatigue and blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase enzyme). In patients with high blood pressure and type 2 diabetes with kidney disease, dizziness when getting up from a lying or sitting position, low blood pressure when getting up from a lying or sitting position, pain in joints or muscles and decreased levels of a protein in the red blood cells (haemoglobin) were also reported.
+- Uncommon (may affect up to 1 in 100 people): heart rate increased, flushing, cough, diarrhoea, indigestion/heartburn, sexual dysfunction (problems with sexual performance), chest pain.
+- Rare (may affect up to 1 in 1,000 people): intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea.
 
 Some undesirable effects have been reported since marketing of Karvea. Undesirable effects where the frequency is not known are: feeling of spinning, headache, taste disturbance, ringing in the ears, muscle cramps, pain in joints and muscles, decreased number of red blood cells (anaemia - symptoms may include tiredness, headaches, being short of breath when exercising, dizziness and looking pale), reduced number of platelets, abnormal liver function, increased blood potassium levels, impaired kidney function, inflammation of small blood vessels mainly affecting the skin (a condition known as leukocytoclastic vasculitis), severe allergic reactions (anaphylactic shock) and low blood sugar levels. Uncommon cases of jaundice (yellowing of the skin and/or whites of the eyes) have also been reported.
 
@@ -5982,8 +5955,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Karvea contains
 
--  The active substance is irbesartan. Each tablet of Karvea 300 mg contains 300 mg irbesartan.
--  The other ingredients are lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, hypromellose, silicon dioxide, magnesium stearate, titanium dioxide, macrogol 3000, carnauba wax. Please see section 2 'Karvea contains lactose'.
+- The active substance is irbesartan. Each tablet of Karvea 300 mg contains 300 mg irbesartan.
+- The other ingredients are lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, hypromellose, silicon dioxide, magnesium stearate, titanium dioxide, macrogol 3000, carnauba wax. Please see section 2 'Karvea contains lactose'.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -6063,11 +6036,7 @@ Tel: +39 02 39394275
 
 ## Deutschland
 
-Sanofi-Aventis Deutschland GmbH
-
-Tel: 0800 52 52 010
-
-Tel. aus dem Ausland: +49 69 305 21 131
+Sanofi-Aventis Deutschland GmbH Tel: 0800 52 52 010 Tel. aus dem Ausland: +49 69 305 21 131
 
 ## Nederland
 
@@ -6085,7 +6054,7 @@ Tel: +372 640 10 30
 
 ## Ελλάδα
 
-Sanofi- Aventis Μονοπρόσωπη ΑΕΒΕ
+Sanofi-Aventis Μονοπρόσωπη ΑΕΒΕ
 
 Τηλ: +30 210 900 16 00
 
@@ -6111,13 +6080,11 @@ Tel: +385 1 2078 500
 
 ## Ireland
 
-sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +353 (0) 1 403 56 00
+sanofi-aventis Ireland Ltd. T/A SANOFI Tel: +353 (0) 1 403 56 00
 
 ## Ísland
 
-Vistor hf.
+Vistor ehf.
 
 Sími: +354 535 7000
 
@@ -6196,9 +6163,3 @@ Puh/Tel: +358 (0) 201 200 300
 Sanofi AB
 
 Tel: +46 (0)8 634 50 00
-
-## United Kingdom (Northern Ireland)
-
-sanofi-aventis Ireland Ltd. T/A SANOFI
-
-Tel: +44 (0) 800 035 2525

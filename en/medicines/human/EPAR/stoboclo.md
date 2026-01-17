@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 09:35:46
+document_datetime: 2026-01-14 14:45:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/stoboclo.html
 document_name: stoboclo.html
 version: success
-processing_time: 0.1396655
-conversion_datetime: 2025-12-30 03:34:23.440453
+processing_time: 0.1506457
+conversion_datetime: 2026-01-17 13:32:56.406165
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 denosumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -117,7 +115,7 @@ English (EN) (144.69 KB - PDF)
 
 [View](/en/documents/overview/stoboclo-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-844)
+[Other languages (22)](#file-language-dropdown-547)
 
 български (BG) (170.06 KB - PDF)
 
@@ -307,17 +305,17 @@ English (EN) (6.18 MB - PDF)
 
 Stoboclo : EPAR - Product information
 
-English (EN) (946.65 KB - PDF)
+English (EN) (911.39 KB - PDF)
 
 **First published:** 04/04/2025
 
-**Last updated:** 24/09/2025
+**Last updated:** 14/01/2026
 
 [View](/en/documents/product-information/stoboclo-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-767)
+[Other languages (24)](#file-language-dropdown-462)
 
-български (BG) (1.01 MB - PDF)
+български (BG) (994.77 KB - PDF)
 
 **First published:**
 
@@ -325,11 +323,11 @@ English (EN) (946.65 KB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/bg/documents/product-information/stoboclo-epar-product-information_bg.pdf)
 
-español (ES) (918.36 KB - PDF)
+español (ES) (882.51 KB - PDF)
 
 **First published:**
 
@@ -337,11 +335,11 @@ español (ES) (918.36 KB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/es/documents/product-information/stoboclo-epar-product-information_es.pdf)
 
-čeština (CS) (964.04 KB - PDF)
+čeština (CS) (932 KB - PDF)
 
 **First published:**
 
@@ -349,11 +347,11 @@ español (ES) (918.36 KB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/cs/documents/product-information/stoboclo-epar-product-information_cs.pdf)
 
-dansk (DA) (908.42 KB - PDF)
+dansk (DA) (887.77 KB - PDF)
 
 **First published:**
 
@@ -361,11 +359,11 @@ dansk (DA) (908.42 KB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/da/documents/product-information/stoboclo-epar-product-information_da.pdf)
 
-Deutsch (DE) (943.1 KB - PDF)
+Deutsch (DE) (949.13 KB - PDF)
 
 **First published:**
 
@@ -373,11 +371,11 @@ Deutsch (DE) (943.1 KB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/de/documents/product-information/stoboclo-epar-product-information_de.pdf)
 
-eesti keel (ET) (902.18 KB - PDF)
+eesti keel (ET) (865.02 KB - PDF)
 
 **First published:**
 
@@ -385,11 +383,11 @@ eesti keel (ET) (902.18 KB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/et/documents/product-information/stoboclo-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.01 MB - PDF)
+ελληνικά (EL) (994.87 KB - PDF)
 
 **First published:**
 
@@ -397,11 +395,11 @@ eesti keel (ET) (902.18 KB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/el/documents/product-information/stoboclo-epar-product-information_el.pdf)
 
-français (FR) (931.3 KB - PDF)
+français (FR) (896.43 KB - PDF)
 
 **First published:**
 
@@ -409,11 +407,11 @@ français (FR) (931.3 KB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/fr/documents/product-information/stoboclo-epar-product-information_fr.pdf)
 
-hrvatski (HR) (964.56 KB - PDF)
+hrvatski (HR) (932.12 KB - PDF)
 
 **First published:**
 
@@ -421,11 +419,11 @@ hrvatski (HR) (964.56 KB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/hr/documents/product-information/stoboclo-epar-product-information_hr.pdf)
 
-íslenska (IS) (895.6 KB - PDF)
+íslenska (IS) (864.39 KB - PDF)
 
 **First published:**
 
@@ -433,11 +431,11 @@ hrvatski (HR) (964.56 KB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/is/documents/product-information/stoboclo-epar-product-information_is.pdf)
 
-italiano (IT) (921.32 KB - PDF)
+italiano (IT) (889.09 KB - PDF)
 
 **First published:**
 
@@ -445,11 +443,11 @@ italiano (IT) (921.32 KB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/it/documents/product-information/stoboclo-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (953.13 KB - PDF)
+latviešu valoda (LV) (916.75 KB - PDF)
 
 **First published:**
 
@@ -457,11 +455,11 @@ latviešu valoda (LV) (953.13 KB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/lv/documents/product-information/stoboclo-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (983.08 KB - PDF)
+lietuvių kalba (LT) (942.99 KB - PDF)
 
 **First published:**
 
@@ -469,11 +467,11 @@ lietuvių kalba (LT) (983.08 KB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/lt/documents/product-information/stoboclo-epar-product-information_lt.pdf)
 
-magyar (HU) (1023.42 KB - PDF)
+magyar (HU) (989.93 KB - PDF)
 
 **First published:**
 
@@ -481,11 +479,11 @@ magyar (HU) (1023.42 KB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/hu/documents/product-information/stoboclo-epar-product-information_hu.pdf)
 
-Malti (MT) (1.07 MB - PDF)
+Malti (MT) (1.03 MB - PDF)
 
 **First published:**
 
@@ -493,11 +491,11 @@ Malti (MT) (1.07 MB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/mt/documents/product-information/stoboclo-epar-product-information_mt.pdf)
 
-Nederlands (NL) (921.11 KB - PDF)
+Nederlands (NL) (885.01 KB - PDF)
 
 **First published:**
 
@@ -505,11 +503,11 @@ Nederlands (NL) (921.11 KB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/nl/documents/product-information/stoboclo-epar-product-information_nl.pdf)
 
-norsk (NO) (909.75 KB - PDF)
+norsk (NO) (874.4 KB - PDF)
 
 **First published:**
 
@@ -517,11 +515,11 @@ norsk (NO) (909.75 KB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/no/documents/product-information/stoboclo-epar-product-information_no.pdf)
 
-polski (PL) (981.41 KB - PDF)
+polski (PL) (947.31 KB - PDF)
 
 **First published:**
 
@@ -529,11 +527,11 @@ polski (PL) (981.41 KB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/pl/documents/product-information/stoboclo-epar-product-information_pl.pdf)
 
-português (PT) (924.05 KB - PDF)
+português (PT) (886.74 KB - PDF)
 
 **First published:**
 
@@ -541,11 +539,11 @@ português (PT) (924.05 KB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/pt/documents/product-information/stoboclo-epar-product-information_pt.pdf)
 
-română (RO) (1005.09 KB - PDF)
+română (RO) (970.67 KB - PDF)
 
 **First published:**
 
@@ -553,11 +551,11 @@ română (RO) (1005.09 KB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/ro/documents/product-information/stoboclo-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1001.4 KB - PDF)
+slovenčina (SK) (966.56 KB - PDF)
 
 **First published:**
 
@@ -565,11 +563,11 @@ slovenčina (SK) (1001.4 KB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/sk/documents/product-information/stoboclo-epar-product-information_sk.pdf)
 
-slovenščina (SL) (974.16 KB - PDF)
+slovenščina (SL) (940.52 KB - PDF)
 
 **First published:**
 
@@ -577,11 +575,11 @@ slovenščina (SL) (974.16 KB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/sl/documents/product-information/stoboclo-epar-product-information_sl.pdf)
 
-Suomi (FI) (909.68 KB - PDF)
+Suomi (FI) (874.52 KB - PDF)
 
 **First published:**
 
@@ -589,11 +587,11 @@ Suomi (FI) (909.68 KB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/fi/documents/product-information/stoboclo-epar-product-information_fi.pdf)
 
-svenska (SV) (915.46 KB - PDF)
+svenska (SV) (880.38 KB - PDF)
 
 **First published:**
 
@@ -601,11 +599,11 @@ svenska (SV) (915.46 KB - PDF)
 
 **Last updated:**
 
-24/09/2025
+14/01/2026
 
 [View](/sv/documents/product-information/stoboclo-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000291992 19/09/2025
+**Latest procedure affecting product information:** VR/0000320514 14/01/2026
 
 icon globe
 
@@ -629,7 +627,7 @@ English (EN) (54.19 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/stoboclo-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-497)
+[Other languages (24)](#file-language-dropdown-456)
 
 български (BG) (63.24 KB - PDF)
 
@@ -859,7 +857,7 @@ Celltrion Healthcare Hungary Kft.
 
 1062 Budapest
 
-Opinion adopted 12/12/2024 Marketing authorisation issued 14/02/2025 Revision 3
+Opinion adopted 12/12/2024 Marketing authorisation issued 14/02/2025 Revision 4
 
 ## Assessment history
 
@@ -871,11 +869,11 @@ Collapse section
 
 Stoboclo : EPAR - Procedural steps taken and scientific information after the authorisation
 
-English (EN) (154.5 KB - PDF)
+English (EN) (161.75 KB - PDF)
 
 **First published:** 17/09/2025
 
-**Last updated:** 24/09/2025
+**Last updated:** 14/01/2026
 
 [View](/en/documents/procedural-steps-after/stoboclo-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -931,7 +929,7 @@ English (EN) (653.94 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/stoboclo-epar-product-information-tracked-changes_en.docx)
 
-[Other languages (24)](#file-language-dropdown-764)
+[Other languages (24)](#file-language-dropdown-432)
 
 български (BG) (630.27 KB - DOCX)
 
@@ -1137,7 +1135,7 @@ English (EN) (654.64 KB - DOCX)
 
 [View](/en/documents/product-information-tracked-changes/stoboclo-epar-product-information-tracked-changes_en.docx-0)
 
-[Other languages (24)](#file-language-dropdown-670)
+[Other languages (24)](#file-language-dropdown-161)
 
 български (BG) (628.75 KB - DOCX)
 
@@ -1331,7 +1329,7 @@ svenska (SV) (621.31 KB - DOCX)
 
 [View](/sv/documents/product-information-tracked-changes/stoboclo-epar-product-information-tracked-changes_sv.docx-0)
 
-**This page was last updated on** 24/09/2025
+**This page was last updated on** 14/01/2026
 
 ## Share this page
 

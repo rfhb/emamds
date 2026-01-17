@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-09-24 10:18:32
+document_datetime: 2026-01-14 11:30:55
 document_pages: 40
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/stoboclo-epar-product-information_en.pdf
 document_name: stoboclo-epar-product-information_en.pdf
 version: success
-processing_time: 8.1011482
-conversion_datetime: 2025-12-27 16:24:32.196669
+processing_time: 12.701581
+conversion_datetime: 2026-01-17 13:18:22.000037
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -167,9 +167,11 @@ Atypical femoral fractures have been reported in patients receiving denosumab (s
 
 Long-term antiresorptive treatment (including both denosumab and bisphosphonates) may contribute to an increased risk for adverse outcomes such as osteonecrosis of the jaw and atypical femur fractures due to significant suppression of bone remodelling (see section 4.2).
 
-## Concomitant treatment with other denosumab-containing medicinal products
+## Treatment discontinuation
 
-Patients being treated with denosumab should not be treated concomitantly with other denosumab-containing medicinal products (for prevention of skeletal related events in adults with bone metastases from solid tumours).
+Following denosumab discontinuation, decrease in bone mineral density (BMD) is expected (see section 5.1), leading to an increased risk for fractures. Thus, monitoring of BMD is recommended, and alternative treatment should be considered according to clinical guidelines.
+
+Concomitant treatment with other denosumab-containing medicinal products Patients being treated with denosumab should not be treated concomitantly with other denosumab-containing medicinal products (for prevention of skeletal related events in adults with bone metastases from solid tumours).
 
 ## Hypercalcaemia in paediatric patients
 
@@ -177,11 +179,11 @@ Denosumab should not be used in paediatric patients (age &lt; 18). Serious hyper
 
 ## Warnings for excipients
 
-This medicine contains 47 mg sorbitol in each mL of solution. The additive effect of concomitantly administered products containing sorbitol (or fructose) and dietary intake of sorbitol (or fructose) should be taken into account.
+This medicinal product contains 47 mg sorbitol in each mL of solution. The additive effect of concomitantly administered products containing sorbitol (or fructose) and dietary intake of sorbitol (or fructose) should be taken into account.
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per 60 mg that is to say essentially 'sodium-free'.
 
-This medicine contains 0.1 mg of polysorbate 20 in each syringe which is equivalent to 0.1 mg/mL. Polysorbates may cause allergic reactions. Tell your doctor if you have any known allergies.
+This medicinal product contains 0.1 mg of polysorbate 20 in each syringe which is equivalent to 0.1 mg/mL. Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
@@ -381,7 +383,7 @@ medicinal product. Re-initiation of denosumab resulted in gains in BMD similar t
 
 ## Open-label extension study in the treatment of postmenopausal osteoporosis
 
-A total of 4 550 women (2,343 denosumab &amp; 2 207 placebo) who missed no more than one dose of investigational product in the pivotal study described above and completed the month 36 study visit agreed to enrol in a 7-year, multinational, multicentre, open-label, single-arm extension study to evaluate the long-term safety and efficacy of denosumab. All women in the extension study were to receive denosumab 60 mg every 6 months, as well as daily calcium (at least 1 g) and vitamin D (at least 400 IU). A total of 2 626 subjects (58% of the women included in the extension study i.e. 34% of the women included in the pivotal study) completed the extension study.
+A total of 4 550 women (2 343 denosumab &amp; 2 207 placebo) who missed no more than one dose of investigational product in the pivotal study described above and completed the month 36 study visit agreed to enrol in a 7-year, multinational, multicentre, open-label, single-arm extension study to evaluate the long-term safety and efficacy of denosumab. All women in the extension study were to receive denosumab 60 mg every 6 months, as well as daily calcium (at least 1 g) and vitamin D (at least 400 IU). A total of 2 626 subjects (58% of the women included in the extension study i.e. 34% of the women included in the pivotal study) completed the extension study.
 
 In patients treated with denosumab for up to 10 years, BMD increased from the pivotal study baseline by 21.7% at the lumbar spine, 9.2% at the total hip, 9.0% at the femoral neck, 13.0% at the trochanter and 2.8% at the distal 1/3 radius. The mean lumbar spine BMD T-score at the end of the study was -1.3 in patients treated for 10 years.
 
@@ -391,7 +393,7 @@ Thirteen adjudicated cases of osteonecrosis of the jaw (ONJ) and two adjudicated
 
 ## Clinical efficacy and safety in men with osteoporosis
 
-Efficacy and safety of denosumab once every 6 months for 1 year were investigated in 242 men aged 31-84 years. Subjects with an eGFR &lt; 30 mL/min/1.73 m 2 were excluded from the study. All men received calcium (at least 1 000 mg) and vitamin D (at least 800 IU) supplementation daily.
+Efficacy and safety of denosumab once every 6 months for 1 year were investigated in 242 men aged 31-84 years. Subjects with an eGFR &lt; 30 mL/min/1.73 m2 were excluded from the study. All men received calcium (at least 1 000 mg) and vitamin D (at least 800 IU) supplementation daily.
 
 The primary efficacy variable was percent change in lumbar spine BMD, fracture efficacy was not evaluated. Denosumab significantly increased BMD at all clinical sites measured, relative to placebo at 12 months: 4.8% at lumbar spine, 2.0% at total hip, 2.2% at femoral neck, 2.3% at hip trochanter, and 0.9% at distal 1/3 radius (all p &lt; 0.05). Denosumab increased lumbar spine BMD from baseline in 94.7% of men at 1 year. Significant increases in BMD at lumbar spine, total hip, femoral neck and hip trochanter were observed by 6 months (p &lt; 0.0001).
 
@@ -525,17 +527,17 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-4 years.
+54 months.
 
-Once removed from the refrigerator, Stoboclo may be stored at room temperature (up to 25°C) for up to 30 days in the original carton. It must be used within this 30 days period.
+Once removed from the refrigerator, Stoboclo may be stored at temperature up to a maximum of 30°C for a single period of up to 63 days, but not exceeding the original expiry date. If not used within this period of up to 63 days, Stoboclo may be returned to the refrigerator for maximum of 3 days and must be discarded if not used within this time period.
 
 ## 6.4 Special precautions for storage
 
 Store in a refrigerator (2°C - 8°C). Do not freeze. Keep the pre-filled syringe in the outer carton in order to protect from light.
 
-## 6.5 Nature and contents of container
-
 <div style=\"page-break-after: always\"></div>
+
+## 6.5 Nature and contents of container
 
 One mL solution in a single use pre-filled syringe made of type I borosilicate glass, (bromobutyl) rubber stopper and stainless steel 27 gauge needle with safety guard.
 
@@ -545,7 +547,7 @@ Pack size of one pre-filled syringe with safety guard.
 
 - Before administration, the solution should be inspected. Do not inject the solution if it contains visible particles or is cloudy or discoloured.
 - Do not shake.
-- To avoid discomfort at the site of injection, allow the pre-filled syringe to reach room temperature (up to 25°C) before injecting and inject slowly.
+- To avoid discomfort at the site of injection, allow the pre-filled syringe to reach room temperature (up to 30°C) before injecting and inject slowly.
 - Inject the entire contents of the pre-filled syringe.
 - Comprehensive instructions for the preparation and administration of Stoboclo are included in the pack.
 
@@ -846,7 +848,7 @@ Tell your doctor if you have or have ever had severe kidney problems, kidney fai
 
 ## Problems with your mouth, teeth or jaw
 
-A side effect called osteonecrosis of the jaw (ONJ) (bone damage in the jaw) has been reported rarely (may affect up to 1 in 1 000 people) in patients receiving denosumab for osteoporosis. The risk of ONJ increases in patients treated for a long time (may affect up to 1 in 200 people if treated for 10 years). ONJ can also occur after stopping treatment. It is important to try to prevent ONJ developing as it may be a painful condition that can be difficult to treat. In order to reduce the risk of developing ONJ, take the following precautions:
+A side effect called osteonecrosis of the jaw (ONJ) (bone damage in the jaw) has been reported rarely (may affect up to 1 in 1,000 people) in patients receiving denosumab for osteoporosis. The risk of ONJ increases in patients treated for a long time (may affect up to 1 in 200 people if treated for 10 years). ONJ can also occur after stopping treatment. It is important to try to prevent ONJ developing as it may be a painful condition that can be difficult to treat. In order to reduce the risk of developing ONJ, take the following precautions:
 
 Before receiving treatment, tell your doctor or nurse (health care professional) if you:
 
@@ -985,13 +987,17 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the label and carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2°C - 8°C). Do not freeze.
+Store in a refrigerator (2°C - 8°C).
+
+## Do not freeze.
 
 Keep the pre-filled syringe in the outer carton in order to protect from light.
 
+Your pre-filled syringe may be left outside the refrigerator to reach room temperature (up to 30°C) before injection. This will make the injection more comfortable. Once your syringe has been left to
+
 <div style=\"page-break-after: always\"></div>
 
-Your pre-filled syringe may be left outside the refrigerator to reach room temperature (up to 25°C) before injection. This will make the injection more comfortable. Once your syringe has been left to reach room temperature (up to 25°C), it must be used within 30 days.
+reach room temperature (up to 30°C), it may be stored at room temperature for a single period of up to 63 days, but not exceeding the original expiry date. If not used within this period of up to 63 days, your syringe may be returned to the refrigerator for maximum of 3 days and must be discarded if not used within this time period. Do not use your syringe after the expiry date printed on the label.
 
 Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help to protect the environment.
 
@@ -1014,9 +1020,7 @@ Celltrion Healthcare Hungary Kft. 1062 Budapest, Váci út 1-3. WestEnd Office B
 
 ## Manufacturer
 
-Nuvisan France S.A.R.L 2400 Route des Colles, 06410 Biot,
-
-France
+Nuvisan France S.A.R.L 2400 Route des Colles, 06410 Biot, France
 
 ## Manufacturer
 
@@ -1170,6 +1174,8 @@ Celltrion Healthcare Finland Oy. Puh/Tel: +358 29 170 7755 contact\\_fi@celltrio
 
 Celltrion Sweden AB
 
+Tel: +46 8 80 11 77
+
 contact\\_se@celltrionhc.com
 
 <div style=\"page-break-after: always\"></div>
@@ -1193,7 +1199,7 @@ Read and follow the Instructions for use that come with your Stoboclo pre-filled
 
 - Keep the prefilled syringe out of the sight and reach of children. Contains small parts .
 - Store the prefilled syringe in a refrigerator between 2 °C and 8 ºC. Do not freeze.
-- Once removed from the refrigerator, Stoboclo must not be exposed to temperatures above 25 °C. Stoboclo must be stored in its original carton and used within 30 days. If not used within this 30 days period, Stoboclo should be discarded.
+- Once removed from the refrigerator, Stoboclo may be stored at temperature up to a maximum of 30°C for a single period of up to 63 days, but not exceeding the original expiry date. If not used within this period of up to 63 days, Stoboclo may be returned to the refrigerator for maximum of 3 days and must be discarded if not used within this time period.
 - Store the pre-filled syringe sealed inside its carton to protect it from light.
 
 <!-- image -->
@@ -1282,7 +1288,7 @@ Figure G
 
 ## 6. Wait 30 minutes.
 
-6a. Let the prefilled syringe stand outside the box for 30 minutes at room temperature (20 °C to 25 °C) to allow it to warm up (see Figure G ).
+6a. Let the prefilled syringe stand outside the box for 30 minutes at room temperature (20 °C to 30 °C) to allow it to warm up (see Figure G ).
 
 - Do not warm the prefilled syringe using heat sources such as hot water or a microwave.
 - If the syringe does not reach room temperature, this could cause the injection to feel uncomfortable.
@@ -1351,7 +1357,7 @@ Figure M
 10a. Hold the body of the prefilled syringe in one hand between the thumb and index finger. With the other hand, carefully pull the needle cap straight off (see Figure K ).
 
 - Do not hold the plunger rod while removing the cap.
-- You may notice a drop of liquid at the tip of needle. This is normal.
+- You may notice a few drops of liquid at the tip of needle. This is normal.
 
 10b. Dispose of the cap right away in a sharps disposal container (see Step 15 and Figure K ).
 

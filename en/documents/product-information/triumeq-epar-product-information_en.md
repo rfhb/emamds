@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-11-14 10:18:17
+document_datetime: 2026-01-14 14:21:10
 document_pages: 120
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/triumeq-epar-product-information_en.pdf
 document_name: triumeq-epar-product-information_en.pdf
 version: success
-processing_time: 35.5865535
-conversion_datetime: 2025-12-24 17:55:45.654494
+processing_time: 46.0125455
+conversion_datetime: 2026-01-17 13:03:07.614764
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -2667,13 +2667,13 @@ Since Triumeq contains abacavir some patients taking Triumeq may develop a hyper
 
 - 2) you get one or more symptoms from at least TWO of the following groups
 
-- fever
+- ­ fever
 
-- shortness of breath, sore throat or cough
+- ­ shortness of breath, sore throat or cough
 
-- nausea or vomiting or diarrhoea or abdominal pain
+- ­ nausea or vomiting or diarrhoea or abdominal pain
 
-- severe tiredness or achiness or generally feeling ill
+- ­ severe tiredness or achiness or generally feeling ill
 
 If you have discontinued Triumeq due to this reaction, YOU MUST NEVER TAKE Triumeq, or any medicine containing abacavir again as within hours you may experience a life-threatening lowering of your blood pressure or death.
 

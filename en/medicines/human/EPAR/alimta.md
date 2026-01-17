@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:49:59
+document_datetime: 2026-01-16 16:20:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/alimta.html
 document_name: alimta.html
 version: success
-processing_time: 0.1234527
-conversion_datetime: 2025-12-30 22:53:30.684777
+processing_time: 0.1299494
+conversion_datetime: 2026-01-17 13:34:41.777308
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 pemetrexed Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -124,7 +122,7 @@ English (EN) (55.82 KB - PDF)
 
 [View](/en/documents/overview/alimta-epar-summary-public_en.pdf)
 
-[Other languages (21)](#file-language-dropdown-608)
+[Other languages (21)](#file-language-dropdown-809)
 
 български (BG) (96.95 KB - PDF)
 
@@ -382,17 +380,17 @@ svenska (SV) (56.29 KB - PDF)
 
 Alimta : EPAR - Product Information
 
-English (EN) (609.76 KB - PDF)
+English (EN) (651.54 KB - PDF)
 
 **First published:** 09/10/2009
 
-**Last updated:** 05/03/2025
+**Last updated:** 16/01/2026
 
 [View](/en/documents/product-information/alimta-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-878)
+[Other languages (24)](#file-language-dropdown-618)
 
-български (BG) (876.21 KB - PDF)
+български (BG) (883.08 KB - PDF)
 
 **First published:**
 
@@ -400,11 +398,11 @@ English (EN) (609.76 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/bg/documents/product-information/alimta-epar-product-information_bg.pdf)
 
-español (ES) (609.56 KB - PDF)
+español (ES) (578.5 KB - PDF)
 
 **First published:**
 
@@ -412,11 +410,11 @@ español (ES) (609.56 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/es/documents/product-information/alimta-epar-product-information_es.pdf)
 
-čeština (CS) (763.73 KB - PDF)
+čeština (CS) (753.96 KB - PDF)
 
 **First published:**
 
@@ -424,11 +422,11 @@ español (ES) (609.56 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/cs/documents/product-information/alimta-epar-product-information_cs.pdf)
 
-dansk (DA) (636.9 KB - PDF)
+dansk (DA) (622.98 KB - PDF)
 
 **First published:**
 
@@ -436,11 +434,11 @@ dansk (DA) (636.9 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/da/documents/product-information/alimta-epar-product-information_da.pdf)
 
-Deutsch (DE) (685.21 KB - PDF)
+Deutsch (DE) (645.99 KB - PDF)
 
 **First published:**
 
@@ -448,11 +446,11 @@ Deutsch (DE) (685.21 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/de/documents/product-information/alimta-epar-product-information_de.pdf)
 
-eesti keel (ET) (677.44 KB - PDF)
+eesti keel (ET) (610.27 KB - PDF)
 
 **First published:**
 
@@ -460,11 +458,11 @@ eesti keel (ET) (677.44 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/et/documents/product-information/alimta-epar-product-information_et.pdf)
 
-ελληνικά (EL) (778.18 KB - PDF)
+ελληνικά (EL) (748.25 KB - PDF)
 
 **First published:**
 
@@ -472,11 +470,11 @@ eesti keel (ET) (677.44 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/el/documents/product-information/alimta-epar-product-information_el.pdf)
 
-français (FR) (691.32 KB - PDF)
+français (FR) (672.85 KB - PDF)
 
 **First published:**
 
@@ -484,11 +482,11 @@ français (FR) (691.32 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/fr/documents/product-information/alimta-epar-product-information_fr.pdf)
 
-hrvatski (HR) (693.37 KB - PDF)
+hrvatski (HR) (583.27 KB - PDF)
 
 **First published:**
 
@@ -496,11 +494,11 @@ hrvatski (HR) (693.37 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/hr/documents/product-information/alimta-epar-product-information_hr.pdf)
 
-íslenska (IS) (645.14 KB - PDF)
+íslenska (IS) (625.49 KB - PDF)
 
 **First published:**
 
@@ -508,11 +506,11 @@ hrvatski (HR) (693.37 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/is/documents/product-information/alimta-epar-product-information_is.pdf)
 
-italiano (IT) (654.18 KB - PDF)
+italiano (IT) (665.97 KB - PDF)
 
 **First published:**
 
@@ -520,11 +518,11 @@ italiano (IT) (654.18 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/it/documents/product-information/alimta-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (657.47 KB - PDF)
+latviešu valoda (LV) (638.58 KB - PDF)
 
 **First published:**
 
@@ -532,11 +530,11 @@ latviešu valoda (LV) (657.47 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/lv/documents/product-information/alimta-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (725.08 KB - PDF)
+lietuvių kalba (LT) (723.13 KB - PDF)
 
 **First published:**
 
@@ -544,11 +542,11 @@ lietuvių kalba (LT) (725.08 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/lt/documents/product-information/alimta-epar-product-information_lt.pdf)
 
-magyar (HU) (696.13 KB - PDF)
+magyar (HU) (678.49 KB - PDF)
 
 **First published:**
 
@@ -556,11 +554,11 @@ magyar (HU) (696.13 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/hu/documents/product-information/alimta-epar-product-information_hu.pdf)
 
-Malti (MT) (690.46 KB - PDF)
+Malti (MT) (685.59 KB - PDF)
 
 **First published:**
 
@@ -568,11 +566,11 @@ Malti (MT) (690.46 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/mt/documents/product-information/alimta-epar-product-information_mt.pdf)
 
-Nederlands (NL) (697.79 KB - PDF)
+Nederlands (NL) (721.6 KB - PDF)
 
 **First published:**
 
@@ -580,11 +578,11 @@ Nederlands (NL) (697.79 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/nl/documents/product-information/alimta-epar-product-information_nl.pdf)
 
-norsk (NO) (671.93 KB - PDF)
+norsk (NO) (694.12 KB - PDF)
 
 **First published:**
 
@@ -592,11 +590,11 @@ norsk (NO) (671.93 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/no/documents/product-information/alimta-epar-product-information_no.pdf)
 
-polski (PL) (812.72 KB - PDF)
+polski (PL) (724.98 KB - PDF)
 
 **First published:**
 
@@ -604,11 +602,11 @@ polski (PL) (812.72 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/pl/documents/product-information/alimta-epar-product-information_pl.pdf)
 
-português (PT) (641.43 KB - PDF)
+português (PT) (610.22 KB - PDF)
 
 **First published:**
 
@@ -616,11 +614,11 @@ português (PT) (641.43 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/pt/documents/product-information/alimta-epar-product-information_pt.pdf)
 
-română (RO) (779.6 KB - PDF)
+română (RO) (700.35 KB - PDF)
 
 **First published:**
 
@@ -628,11 +626,11 @@ română (RO) (779.6 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/ro/documents/product-information/alimta-epar-product-information_ro.pdf)
 
-slovenčina (SK) (711.76 KB - PDF)
+slovenčina (SK) (712.02 KB - PDF)
 
 **First published:**
 
@@ -640,11 +638,11 @@ slovenčina (SK) (711.76 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/sk/documents/product-information/alimta-epar-product-information_sk.pdf)
 
-slovenščina (SL) (775.95 KB - PDF)
+slovenščina (SL) (754.49 KB - PDF)
 
 **First published:**
 
@@ -652,11 +650,11 @@ slovenščina (SL) (775.95 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/sl/documents/product-information/alimta-epar-product-information_sl.pdf)
 
-Suomi (FI) (616.57 KB - PDF)
+Suomi (FI) (609.37 KB - PDF)
 
 **First published:**
 
@@ -664,11 +662,11 @@ Suomi (FI) (616.57 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/fi/documents/product-information/alimta-epar-product-information_fi.pdf)
 
-svenska (SV) (730.57 KB - PDF)
+svenska (SV) (694.58 KB - PDF)
 
 **First published:**
 
@@ -676,11 +674,11 @@ svenska (SV) (730.57 KB - PDF)
 
 **Last updated:**
 
-05/03/2025
+16/01/2026
 
 [View](/sv/documents/product-information/alimta-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** PSUSA/00002330/202402 12/12/2024
+**Latest procedure affecting product information:** VR/0000315508 16/01/2026
 
 icon globe
 
@@ -706,7 +704,7 @@ English (EN) (18.31 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/alimta-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (23)](#file-language-dropdown-403)
+[Other languages (23)](#file-language-dropdown-171)
 
 български (BG) (53.81 KB - PDF)
 
@@ -1019,7 +1017,7 @@ Eli Lilly Nederland B.V.
 
 Orteliuslaan 1000 3528 BD Utrecht Netherlands
 
-Marketing authorisation issued 20/09/2004 Revision 28
+Marketing authorisation issued 20/09/2004 Revision 29
 
 ## Assessment history
 
@@ -1031,13 +1029,21 @@ Collapse section
 
 Alimta : EPAR - Procedural steps taken and scientific information after authorisation
 
+English (EN) (132.37 KB - PDF)
+
+**First published:** 16/01/2026
+
+[View](/en/documents/procedural-steps-after/alimta-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Alimta : EPAR - Procedural steps taken and scientific information after authorisation (archive)
+
 English (EN) (253.27 KB - PDF)
 
 **First published:** 09/10/2009
 
-**Last updated:** 05/03/2025
+**Last updated:** 16/01/2026
 
-[View](/en/documents/procedural-steps-after/alimta-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+[View](/en/documents/procedural-steps-after/alimta-epar-procedural-steps-taken-scientific-information-after-authorisation-archive_en.pdf)
 
 Alimta-H-C-PSUSA-00002330-202402: EPAR - Scientific conclusions and grounds recommending the variation to the terms of the marketing authorisation
 
@@ -1189,7 +1195,7 @@ English (EN) (84.72 KB - PDF)
 
 - [Medicines](https://www.ema.europa.eu/en/search?f%5B0%5D=ema_search_topics%3A61)
 
-**This page was last updated on** 05/03/2025
+**This page was last updated on** 16/01/2026
 
 ## Share this page
 

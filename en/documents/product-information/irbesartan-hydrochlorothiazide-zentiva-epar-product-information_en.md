@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-06-18 12:36:26
+document_datetime: 2026-01-16 13:05:43
 document_pages: 150
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/irbesartan-hydrochlorothiazide-zentiva-epar-product-information_en.pdf
 document_name: irbesartan-hydrochlorothiazide-zentiva-epar-product-information_en.pdf
 version: success
-processing_time: 31.715807
-conversion_datetime: 2025-12-15 01:51:39.536631
+processing_time: 29.8966063
+conversion_datetime: 2026-01-17 13:10:25.653427
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -72,7 +72,7 @@ Doses higher than 300 mg irbesartan/25 mg hydrochlorothiazide once daily are not
 
 ## Renal impairment
 
-Due to the hydrochlorothiazide component, Irbesartan Hydrochlorothiazide Zentiva is not recommended for patients with severe renal dysfunction (creatinine clearance &lt;30 ml/min). Loop diuretics are preferred to thiazides in this population. No dosage adjustment is necessary in patients with renal impairment whose renal creatinine clearance is ≥30 ml/min (see sections 4.3 and 4.4).
+Due to the hydrochlorothiazide component, Irbesartan Hydrochlorothiazide Zentiva is not recommended for patients with severe renal dysfunction (creatinine clearance &lt;30 ml/min). Loop diuretics are preferred to thiazides in this population. No dosage adjustment is necessary in patients with renal impairment whose renal creatinine clearance is ≥ 30 ml/min (see sections 4.3 and 4.4).
 
 ## Hepatic impairment
 
@@ -92,12 +92,12 @@ For oral use.
 
 ## 4.3 Contraindications
 
-- Hypersensitivity to the active substances or to any of the excipients listed in section 6.1, or to other sulfonamide-derived substances (hydrochlorothiazide is a sulfonamide-derived substance)
-- Second and third trimesters of pregnancy (see sections 4.4 and 4.6)
-- Severe renal impairment (creatinine clearance &lt;30 ml/min)
-- Refractory hypokalaemia, hypercalcaemia
-- Severe hepatic impairment, biliary cirrhosis and cholestasis
-- The concomitant use of Irbesartan Hydrochlorothiazide Zentiva with aliskiren-containing products is contraindicated in patients with diabetes mellitus or renal impairment (glomerular filtration rate (GFR) &lt;60 ml/min/1.73 m²) (see sections 4.5 and 5.1).
+-  Hypersensitivity to the active substances or to any of the excipients listed in section 6.1, or to other sulfonamide-derived substances (hydrochlorothiazide is a sulfonamide-derived substance)
+-  Second and third trimesters of pregnancy (see sections 4.4 and 4.6)
+-  Severe renal impairment (creatinine clearance &lt;30 ml/min)
+-  Refractory hypokalaemia, hypercalcaemia
+-  Severe hepatic impairment, biliary cirrhosis and cholestasis
+-  The concomitant use of Irbesartan Hydrochlorothiazide Zentiva with aliskiren-containing products is contraindicated in patients with diabetes mellitus or renal impairment (glomerular filtration rate (GFR) &lt;60 ml/min/1.73 m²) (see sections 4.5 and 5.1).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -115,13 +115,13 @@ When Irbesartan Hydrochlorothiazide Zentiva is used in patients with impaired re
 
 <div style=\"page-break-after: always\"></div>
 
-necessary in patients with renal impairment whose creatinine clearance is ≥30 ml/min. However, in patients with mild to moderate renal impairment (creatinine clearance ≥30 ml/min but &lt;60 ml/min) this fixed dose combination should be administered with caution.
+necessary in patients with renal impairment whose creatinine clearance is ≥ 30 ml/min. However, in patients with mild to moderate renal impairment (creatin ine clearance ≥30 ml/min but &lt;60 ml/min) this fixed dose combination should be administered with caution.
 
 ## Dual blockade of the renin-angiotensin-aldosterone system (RAAS)
 
 There is evidence that the concomitant use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren increases the risk of hypotension, hyperkalaemia and decreased renal function (including acute renal failure).
 
-Dual blockade of RAAS through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is therefore not recommended ( see sections 4.5 and 5.1). If dual blockade therapy is considered absolutely necessary, this should only occur under specialist supervision and subject to frequent close monitoring of renal function, electrolytes and blood pressure. ACE-inhibitors and angiotensin II receptor blockers should not be used concomitantly in patients with diabetic nephropathy.
+Dual blockade of RAAS through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is therefore not recommended (see sections 4.5 and 5.1). If dual blockade therapy is considered absolutely necessary, this should only occur under specialist supervision and subject to frequent close monitoring of renal function, electrolytes and blood pressure. ACE-inhibitors and angiotensin II receptor blockers should not be used concomitantly in patients with diabetic nephropathy.
 
 ## Hepatic impairment
 
@@ -135,7 +135,7 @@ Patients with primary aldosteronism generally will not respond to antihypertensi
 
 ## Metabolic and endocrine effects
 
-Thiazide therapy may impair glucose tolerance. Latent diabetes mellitus may become manifest during thiazide therapy. Irbesartan may induce hypoglycaemia, particularly in diabetic patients. In patients treated with insulin or antidiabetics an appropriate blood glucose monitoring should be considered; a dose adjustment of inslulin or antidiabetics may be required when indicated (see section 4.5).
+Thiazide therapy may impair glucose tolerance. Latent diabetes mellitus may become manifest during thiazide therapy. Irbesartan may induce hypoglycaemia, particularly in diabetic patients. In patients treated with insulin or antidiabetics an appropriate blood glucose monitoring should be considered; a dose adjustment of insulin or antidiabetics may be required when indicated (see section 4.5).
 
 Increases in cholesterol and triglyceride levels have been associated with thiazide diuretic therapy; however at the 12.5 mg dose contained in Irbesartan Hydrochlorothiazide Zentiva, minimal or no effects were reported.
 
@@ -145,7 +145,7 @@ Hyperuricaemia may occur or frank gout may be precipitated in certain patients r
 
 As for any patient receiving diuretic therapy, periodic determination of serum electrolytes should be performed at appropriate intervals.
 
-Thiazides, including hydrochlorothiazide, can cause fluid or electrolyte imbalance (hypokalaemia, hyponatraemia, and hypochloremic alkalosis). Warning signs of fluid or electrolyte imbalance are dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pain or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea or vomiting.
+Thiazides, including hydrochlorothiazide, can cause fluid or electrolyte imbalance (hypokalaemia, hyponatraemia, and hypochloraemic alkalosis). Warning signs of fluid or electrolyte imbalance are dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pain or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea or vomiting.
 
 Although hypokalaemia may develop with the use of thiazide diuretics, concurrent therapy with irbesartan may reduce diuretic-induced hypokalaemia. The risk of hypokalaemia is greatest in patients with cirrhosis of the liver, in patients experiencing brisk diuresis, in patients who are receiving
 
@@ -157,7 +157,11 @@ There is no evidence that irbesartan would reduce or prevent diuretic-induced hy
 
 Thiazides may decrease urinary calcium excretion and cause an intermittent and slight elevation of serum calcium in the absence of known disorders of calcium metabolism. Marked hypercalcaemia may be evidence of hidden hyperparathyroidism. Thiazides should be discontinued before carrying out tests for parathyroid function.
 
-Thiazides have been shown to increase the urinary excretion of magnesium, which may result in hypomagnaesemia.
+Thiazides have been shown to increase the urinary excretion of magnesium, which may result in hypomagnesaemia.
+
+## Intestinal angioedema
+
+Intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including irbesartan (see section 4.8). These patients presented with abdominal pain, nausea, vomiting and diarrhoea. Symptoms resolved after discontinuation of angiotensin II receptor antagonists. If intestinal angioedema is diagnosed, irbesartan should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
 
 ## Lithium
 
@@ -179,15 +183,15 @@ Cases of photosensitivity reactions have been reported with thiazides diuretics 
 
 ## Pregnancy
 
-Angiotensin II Receptor Antagonists (AIIRAs) should not be initiated during pregnancy. Unless continued AIIRA therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy. When pregnancy is diagnosed, treatment with AIIRAs should be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
-
-## Choroidal effusion, acute myopia and secondary acute angle-closure glaucoma
-
-Sulfonamide or sulfonamide derivative drugs can cause an idiosyncratic reaction resulting in choroidal effusion with visual field defect, transient myopia and acute angle-closure glaucoma. While
+Angiotensin II Receptor Antagonists (AIIRAs) should not be initiated during pregnancy. Unless continued AIIRA therapy is considered essential, patients planning pregnancy should be changed to
 
 <div style=\"page-break-after: always\"></div>
 
-hydrochlorothiazide is a sulfonamide, only isolated cases of acute angle-closure glaucoma have been reported so far with hydrochlorothiazide. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue drug intake as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy (see section 4.8).
+alternative antihypertensive treatments which have an established safety profile for use in pregnancy. When pregnancy is diagnosed, treatment with AIIRAs should be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
+
+## Choroidal effusion, acute myopia and secondary acute angle-closure glaucoma
+
+Sulfonamide or sulfonamide derivative drugs can cause an idiosyncratic reaction resulting in choroidal effusion with visual field defect, transient myopia and acute angle-closure glaucoma. While hydrochlorothiazide is a sulfonamide, only isolated cases of acute angle-closure glaucoma have been reported so far with hydrochlorothiazide. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue drug intake as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy (see section 4.8).
 
 ## Non-melanoma skin cancer
 
@@ -198,10 +202,6 @@ Patients taking HCTZ should be informed of the risk of NMSC and advised to regul
 ## Acute respiratory toxicity
 
 Very rare severe cases of acute respiratory toxicity, including acute respiratory distress syndrome (ARDS) have been reported after taking hydrochlorothiazide. Pulmonary oedema typically develops within minutes to hours after hydrochlorothiazide intake. At the onset, symptoms include dyspnoea, fever, pulmonary deterioration and hypotension. If diagnosis of ARDS is suspected, Irbesartan Hydrochlorothiazide Zentiva should be withdrawn and appropriate treatment given. Hydrochlorothiazide should not be administered to patients who previously experienced ARDS following hydrochlorothiazide intake.
-
-## Intestinal angioedema
-
-Intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including irbesartan (see section 4.8). These patients presented with abdominal pain, nausea, vomiting and diarrhoea. Symptoms resolved after discontinuation of angiotensin II receptor antagonists. If intestinal angioedema is diagnosed, irbesartan should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
 
 ## Excipients
 
@@ -227,7 +227,7 @@ Reversible increases in serum lithium concentrations and toxicity have been repo
 
 ## Medicinal products affecting potassium
 
-The potassium-depleting effect of hydrochlorothiazide is attenuated by the potassium-sparing effect of irbesartan. However, this effect of hydrochlorothiazide on serum potassium would be expected to be potentiated by other medicinal products associated with potassium loss and hypokalaemia (e.g. other kaliuretic diuretics, laxatives, amphotericin, carbenoxolone, penicillin G sodium). Conversely, based on the experience with the use of other medicinal products that blunt the renin -angiotensin system, concomitant use of potassium -sparing diuretics, potassium supplements, salt substitutes containing potassium or other medicinal products that may increase serum potassium levels (e.g. heparin sodium) may lead to increases in serum potassium. Adequate monitoring of serum potassium in patients at risk is recommended (see section 4.4).
+The potassium-depleting effect of hydrochlorothiazide is attenuated by the potassium-sparing effect of irbesartan. However, this effect of hydrochlorothiazide on serum potassium would be expected to be potentiated by other medicinal products associated with potassium loss and hypokalaemia (e.g. other kaliuretic diuretics, laxatives, amphotericin, carbenoxolone, penicillin G sodium). Conversely, based on the experience with the use of other medicinal products that blunt the renin-angiotensin system, concomitant use of potassium-sparing diuretics, potassium supplements, salt substitutes containing potassium or other medicinal products that may increase serum potassium levels (e.g. heparin sodium) may lead to increases in serum potassium. Adequate monitoring of serum potassium in patients at risk is recommended (see section 4.4).
 
 ## Medicinal products affected by serum potassium disturbances
 
@@ -235,7 +235,7 @@ Periodic monitoring of serum potassium is recommended when Irbesartan Hydrochlor
 
 ## Non-steroidal anti-inflammatory drugs
 
-When angiotensin II antagonists are administered simultaneously with non-steroidal antiinflammatory drugs (i.e. selective COX-2 inhibitors, acetylsalicylic acid (&gt;3 g/day) and non-selective NSAIDs), attenuation of the antihypertensive effect may occur.
+When angiotensin II antagonists are administered simultaneously with non-steroidal anti-inflammatory drugs (i.e. selective COX-2 inhibitors, acetylsalicylic acid (&gt;3 g/day) and non-selective NSAIDs), attenuation of the antihypertensive effect may occur.
 
 As with ACE inhibitors, concomitant use of angiotensin II antagonists and NSAIDs may lead to an increased risk of worsening of renal function, including possible acute renal failure, and an increase in serum potassium, especially in patients with poor pre-existing renal function. The combination should be administered with caution, especially in the elderly. Patients should be adequately hydrated and consideration should be given to monitoring renal function after initiation of concomitant therapy, and periodically thereafter.
 
@@ -263,7 +263,7 @@ Colestyramine and Colestipol resins: absorption of hydrochlorothiazide is impair
 
 Corticosteroids, ACTH: electrolyte depletion, particularly hypokalaemia, may be increased;
 
-Digitalis glycosides: thiazide induced hypokalaemia or hypomagnaesemia favour the onset of digitalis-induced cardiac arrhythmias (see section 4.4);
+Digitalis glycosides: thiazide induced hypokalaemia or hypomagnesaemia favour the onset of digitalis-induced cardiac arrhythmias (see section 4.4);
 
 Non-steroidal anti-inflammatory drugs: the administration of a non-steroidal anti-inflammatory drug may reduce the diuretic, natriuretic and antihypertensive effects of thiazide diuretics in some patients;
 
@@ -271,13 +271,13 @@ Pressor amines (e.g. noradrenaline): the effect of pressor amines may be decreas
 
 Nondepolarizing skeletal muscle relaxants (e.g. tubocurarine): the effect of nondepolarizing skeletal muscle relaxants may be potentiated by hydrochlorothiazide;
 
-Antigout medicinal products: dosage adjustments of antigout medicinal products may be necessary as hydrochlorothiazide may raise the level of serum uric acid. Increase in dosage of probenecid or sulfinpyrazone may be necessary. Co -administration of thiazide diuretics may increase the incidence of hypersensitivity reactions to allopurinol;
+Antigout medicinal products: dosage adjustments of antigout medicinal products may be necessary as hydrochlorothiazide may raise the level of serum uric acid. Increase in dosage of probenecid or sulfinpyrazone may be necessary. Co-administration of thiazide diuretics may increase the incidence of hypersensitivity reactions to allopurinol;
 
 Calcium salts: thiazide diuretics may increase serum calcium levels due to decreased excretion. If calcium supplements or calcium sparing medicinal products (e.g. vitamin D therapy) must be prescribed, serum calcium levels should be monitored and calcium dosage adjusted accordingly;
 
 Carbamazepine: concomitant use of carbamazepine and hydrochlorothiazide has been associated with the risk of symptomatic hyponatraemia. Electrolytes should be monitored during concomitant use. If possible, another class of diuretics should be used;
 
-Other interactions: the hyperglycaemic effect of beta-blockers and diazoxide may be enhanced by thiazides. Anticholinergic agents (e.g. atropine, beperiden) may increase the bioavailability of thiazide-type diuretics by decreasing gastrointestinal motility and stomach emptying rate. Thiazides may increase the risk of adverse effects caused by amantadine. Thiazides may reduce the renal excretion of cytotoxic medicinal products (e.g. cyclophosphamide, methotrexate) and potentiate their myelosuppressive effects.
+Other interactions: the hyperglycaemic effect of beta-blockers and diazoxide may be enhanced by thiazides. Anticholinergic agents (e.g. atropine, biperiden) may increase the bioavailability of thiazidetype diuretics by decreasing gastrointestinal motility and stomach emptying rate. Thiazides may increase the risk of adverse effects caused by amantadine. Thiazides may reduce the renal excretion of cytotoxic medicinal products (e.g. cyclophosphamide, methotrexate) and potentiate their myelosuppressive effects.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -343,8 +343,8 @@ The frequency of adverse reactions listed below is defined using the following c
 
 | Table 1: Adverse Reactions in Placebo-Controlled Trials and Spontaneous Reports   | Table 1: Adverse Reactions in Placebo-Controlled Trials and Spontaneous Reports   | Table 1: Adverse Reactions in Placebo-Controlled Trials and Spontaneous Reports                                            |
 |-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| Investigations:                                                                   | Common:                                                                           | increases in blood urea nitrogen (BUN), creatinine and creatine kinase                                                     |
-|                                                                                   | Uncommon:                                                                         | decreases in serum potassium and sodium                                                                                    |
+| Investigations:                                                                   | Common:                                                                           | increases in blood urea nitrogen (BUN), creatinine and creatine kinase decreases in serum potassium and sodium             |
+|                                                                                   | Uncommon:                                                                         |                                                                                                                            |
 | Cardiac disorders:                                                                | Uncommon:                                                                         | syncope, hypotension, tachycardia, oedema                                                                                  |
 | Nervous system disorders:                                                         | Common: Uncommon: Not known:                                                      | dizziness orthostatic dizziness headache                                                                                   |
 | Ear and labyrinth disorders:                                                      | Not known:                                                                        | tinnitus                                                                                                                   |
@@ -368,25 +368,49 @@ The frequency of adverse reactions listed below is defined using the following c
 
 In addition to the adverse reactions listed above for the combination product, other adverse reactions previously reported with one of the individual components may be potential adverse reactions with Irbesartan Hydrochlorothiazide Zentiva. Tables 2 and 3 below detail the adverse reactions reported with the individual components of Irbesartan Hydrochlorothiazide Zentiva.
 
-| Table 2: Adverse reactions reported with the use of irbesartan alone   | Table 2: Adverse reactions reported with the use of irbesartan alone   | Table 2: Adverse reactions reported with the use of irbesartan alone   |
-|------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
-| Blood and lymphatic system disorders:                                  | Not known:                                                             | anaemia, thrombocytopenia                                              |
-| Gastrointestinal disorders                                             | Rare                                                                   | intestinal angioedema                                                  |
-| General disorders and administration site conditions:                  | Uncommon:                                                              | chest pain                                                             |
-| Immune system disorders:                                               | Not known:                                                             | anaphylactic reaction including anaphylactic shock                     |
-| Metabolism and nutrition disorders:                                    | Not known:                                                             | hypoglycaemia                                                          |
+Table 2:
 
-| Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone   | Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone   | Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone                                                                                             |
-|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Investigations:                                                                 | Not known:                                                                      | electrolyte imbalance (including hypokalaemia and hyponatraemia, see section 4.4), hyperuricaemia, glycosuria, hyperglycaemia, increases in cholesterol and triglycerides |
-| Cardiac disorders:                                                              | Not known:                                                                      | cardiac arrhythmias                                                                                                                                                       |
-| Blood and lymphatic system disorders:                                           | Not known:                                                                      | aplastic anaemia, bone marrow depression, neutropenia/agranulocytosis, haemolytic anaemia, leucopenia, thrombocytopenia                                                   |
-| Nervous system disorders:                                                       | Not known:                                                                      | vertigo, paraesthesia, light-headedness, restlessness                                                                                                                     |
-| Eye disorders:                                                                  | Not known:                                                                      | transient blurred vision, xanthopsia, acute myopia and secondary acute angle-closure glaucoma, choroidal effusion                                                         |
-| Respiratory, thoracic and mediastinal disorders:                                | Very rare: Not known:                                                           | acute respiratory distress syndrome (ARDS) (see section 4.4) respiratory distress (including pneumonitis and pulmonary oedema)                                            |
-| Gastrointestinal disorders:                                                     | Not known:                                                                      | pancreatitis, anorexia, diarrhoea, constipation, gastric irritation, sialadenitis, loss of appetite                                                                       |
-| Renal and urinary disorders:                                                    | Not known:                                                                      | interstitial nephritis, renal dysfunction                                                                                                                                 |
-| Skin and subcutaneous tissue disorders:                                         | Not known:                                                                      | anaphylactic reactions, toxic epidermal necrolysis, necrotizing angitis (vasculitis, cutaneous vasculitis), cutaneous lupus erythematosus-like reactions, reactivation of |
+Adverse reactions reported with the use of
+
+Blood and lymphatic system disorders:
+
+General disorders and administration site conditions:
+
+Immune system disorders:
+
+Metabolism and nutrition disorders:
+
+Gastrointestinal disorders
+
+Not known:
+
+Uncommon:
+
+Not known:
+
+Not known:
+
+Rare irbesartan
+
+alone anaemia, thrombocytopenia
+
+chest pain anaphylactic reaction including
+
+anaphylactic shock hypoglycaemia
+
+intestinal angioedema
+
+| Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone   | Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone   | Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone                                                                                              |
+|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Investigations:                                                                 | Not known:                                                                      | electrolyte imbalance (including hypokalaemia and hyponatraemia, see section 4.4), hyperuricaemia, glycosuria, hyperglycaemia, increases in cholesterol and triglycerides  |
+| Cardiac disorders:                                                              | Not known:                                                                      | cardiac arrhythmias                                                                                                                                                        |
+| Blood and lymphatic system disorders:                                           | Not known:                                                                      | aplastic anaemia, bone marrow depression, neutropenia/agranulocytosis, haemolytic anaemia, leukopenia, thrombocytopenia                                                    |
+| Nervous system disorders:                                                       | Not known:                                                                      | vertigo, paraesthesia, light-headedness, restlessness                                                                                                                      |
+| Eye disorders:                                                                  | Not known:                                                                      | transient blurred vision, xanthopsia, acute myopia and secondary acute angle-closure glaucoma, choroidal effusion                                                          |
+| Respiratory, thoracic and mediastinal disorders:                                | Very rare: Not known:                                                           | acute respiratory distress syndrome (ARDS) (see section 4.4) respiratory distress (including pneumonitis and pulmonary oedema)                                             |
+| Gastrointestinal disorders:                                                     | Not known:                                                                      | pancreatitis, anorexia, diarrhoea, constipation, gastric irritation, sialadenitis, loss of appetite                                                                        |
+| Renal and urinary disorders:                                                    | Not known:                                                                      | interstitial nephritis, renal dysfunction                                                                                                                                  |
+| Skin and subcutaneous tissue disorders:                                         | Not known:                                                                      | anaphylactic reactions, toxic epidermal necrolysis, necrotizing angiitis (vasculitis, cutaneous vasculitis), cutaneous lupus erythematosus-like reactions, reactivation of |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -398,7 +422,7 @@ In addition to the adverse reactions listed above for the combination product, o
 | General disorders and administration site conditions:                           | Not known:                                                                      | fever                                                                           |
 | Hepatobiliary disorders:                                                        | Not known:                                                                      | jaundice (intrahepatic cholestatic jaundice)                                    |
 | Psychiatric disorders:                                                          | Not known:                                                                      | depression, sleep disturbances                                                  |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps)             | Not known:                                                                      | non-melanoma skin cancer (basal cell carcinoma and squamous cell carcinoma)     |
+| Neoplasms benign, malignant and unspecified (incl. cysts and polyps)            | Not known:                                                                      | non-melanoma skin cancer (basal cell carcinoma and squamous cell carcinoma)     |
 
 ## Non-melanoma skin cancer
 
@@ -416,7 +440,7 @@ No specific information is available on the treatment of overdose with Irbesarta
 
 The most likely manifestations of irbesartan overdose are expected to be hypotension and tachycardia; bradycardia might also occur.
 
-Overdose with hydrochlorothiazide is associated with electrolyte depletion (hypokalaemia, hypochloremia, hyponatraemia) and dehydration resulting from excessive diuresis. The most common signs and symptoms of overdose are nausea and somnolence. Hypokalaemia may result in muscle spasms and/or accentuate cardiac arrhythmias associated with the concomitant use of digitalis glycosides or certain anti-arrhythmic medicinal products.
+Overdose with hydrochlorothiazide is associated with electrolyte depletion (hypokalaemia, hypochloraemia, hyponatraemia) and dehydration resulting from excessive diuresis. The most common signs and symptoms of overdose are nausea and somnolence. Hypokalaemia may result in muscle spasms and/or accentuate cardiac arrhythmias associated with the concomitant use of digitalis glycosides or certain anti-arrhythmic medicinal products.
 
 Irbesartan is not removed by haemodialysis. The degree to which hydrochlorothiazide is removed by haemodialysis has not been established.
 
@@ -440,7 +464,7 @@ The combination of hydrochlorothiazide and irbesartan produces dose-related addi
 
 Limited clinical data (7 out of 22 patients) suggest that patients not controlled with the 300 mg/12.5 mg combination may respond when uptitrated to 300 mg/25 mg. In these patients, an incremental blood pressure lowering effect was observed for both systolic blood pressure (SBP) and diastolic blood pressure (DBP) (13.3 and 8.3 mm Hg, respectively).
 
-Once daily dosing with 150 mg irbesartan and 12.5 mg hydrochlorothiazide gave systolic/diastolic mean placebo-adjusted blood pressure reductions at trough (24 hours post-dosing) of 12.9/6.9 mm Hg in patients with mild-to-moderate hypertension. Peak effects occurred at 3-6 hours. When assessed by ambulatory blood pressure monitoring, the combination 150 mg irbesartan and 12.5 mg hydrochlorothiazide once daily produced consistent reduction in blood pressure over the 24 hours period with mean 24-hour placebo-subtracted systolic/diastolic reductions of 15.8/10.0 mm Hg. When measured by ambulatory blood pressure monitoring, the trough to peak effects of irbesartan/hydrochlorothiazide 150 mg/12.5 mg were 100%. The trough to peak effects measured by cuff during office visits were 68% and 76% for irbesartan/hydrochlorothiazide 150 mg/12.5 mg and irbesartan/hydrochlorothiazide300 mg/12.5 mg, respectively. These 24-hour effects were observed without excessive blood pressure lowering at peak and are consistent with safe and effective bloodpressure lowering over the once-daily dosing interval.
+Once daily dosing with 150 mg irbesartan and 12.5 mg hydrochlorothiazide gave systolic/diastolic mean placebo-adjusted blood pressure reductions at trough (24 hours post-dosing) of 12.9/6.9 mm Hg in patients with mild-to-moderate hypertension. Peak effects occurred at 3-6 hours. When assessed by ambulatory blood pressure monitoring, the combination 150 mg irbesartan and 12.5 mg hydrochlorothiazide once daily produced consistent reduction in blood pressure over the 24 hours period with mean 24-hour placebo-subtracted systolic/diastolic reductions of 15.8/10.0 mm Hg. When measured by ambulatory blood pressure monitoring, the trough to peak effects of irbesartan/hydrochlorothiazide 150 mg/12.5 mg were 100%. The trough to peak effects measured by cuff during office visits were 68% and 76% for irbesartan/hydrochlorothiazide 150 mg/12.5 mg and irbesartan/hydrochlorothiazide 300 mg/12.5 mg, respectively. These 24-hour effects were observed without excessive blood pressure lowering at peak and are consistent with safe and effective bloodpressure lowering over the once-daily dosing interval.
 
 In patients not adequately controlled on 25 mg hydrochlorothiazide alone, the addition of irbesartan gave an added placebo-subtracted systolic/diastolic mean reduction of 11.1/7.2 mm Hg.
 
@@ -458,7 +482,7 @@ There is no difference in response to irbesartan/hydrochlorothiazide, regardless
 
 Efficacy and safety of irbesartan/hydrochlorothiazide as initial therapy for severe hypertension (defined as SeDBP ≥ 110 mmHg) was evaluated in a multicentre, randomized, double-blind, activecontrolled, 8-week, parallel-arm study. A total of 697 patients were randomized in a 2:1 ratio to either irbesartan/hydrochlorothiazide 150 mg/12.5 mg or to irbesartan 150 mg and systematically forcetitrated (before assessing the response to the lower dose) after one week to irbesartan/hydrochlorothiazide 300 mg/25 mg or irbesartan 300 mg, respectively.
 
-The study recruited 58% males. The mean age of patients was 52.5 years, 13% were ≥ 65 years of age, and just 2% were ≥ 75 years of age. Twelve percent (12%) of patients were diabetic, 34% were hyperlipidemic and the most frequent cardiovascular condition was stable angina pectoris in 3.5% of the participants.
+The study recruited 58% males. The mean age of patients was 52.5 years, 13% were ≥ 65 years of age, and just 2% were ≥ 75 years of age. Twelve percent (12%) of patients were diabetic, 34% were hyperlipidaemic and the most frequent cardiovascular condition was stable angina pectoris in 3.5% of the participants.
 
 The primary objective of this study was to compare the proportion of patients whose SeDBP was controlled (SeDBP &lt; 90 mmHg) at Week 5 of treatment. Forty-seven percent (47.2%) of patients on the combination achieved trough SeDBP &lt; 90 mmHg compared to 33.2% of patients on irbesartan (p = 0.0005). The mean baseline blood pressure was approximately 172/113 mmHg in each treatment group and decreases of SeSBP/SeDBP at five weeks were 30.8/24.0 mmHg and 21.1/19.3 mmHg for irbesartan/hydrochlorothiazide and irbesartan, respectively (p &lt; 0.0001).
 
@@ -478,7 +502,7 @@ ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Dise
 
 ## Non-melanoma skin cancer
 
-Based on available data from epidemiological studies, cumulative dosedependent association between HCTZ and NMSC has been observed. One study included a population comprised of 71,533 cases of BCC and of 8,629 cases of SCC matched to 1,430,833 and 172,462 population controls, respectively. High HCTZ use (≥50,000 mg cumulative) was associated with an adjusted OR of 1.29 (95% CI: 1.231.35) for BCC and 3.98 (95% CI: 3.68-4.31) for SCC. A clear cumulative dose response relationship was observed for both BCC and SCC. Another study showed a possible association between lip cancer (SCC) and exposure to HCTZ: 633 cases of lip-cancer were matched with 63,067 population controls, using a risk-set sampling strategy. A cumulative dose-response relationship was demonstrated with an adjusted OR 2.1 (95% CI: 1.7-2.6) increasing to OR 3.9 (3.0-4.9) for high use (~25,000 mg) and OR 7.7 (5.7-10.5) for the highest cumulative dose (~100,000 mg) (see also section 4.4).
+Based on available data from epidemiological studies, cumulative dose-dependent association between HCTZ and NMSC has been observed. One study included a population comprised of 71,533 cases of BCC and of 8,629 cases of SCC matched to 1,430,833 and 172,462 population controls, respectively. High HCTZ use (≥50,000 mg cumulati ve) was associated with an adjusted OR of 1.29 (95% CI: 1.231.35) for BCC and 3.98 (95% CI: 3.68-4.31) for SCC. A clear cumulative dose response relationship was observed for both BCC and SCC. Another study showed a possible association between lip cancer (SCC) and exposure to HCTZ: 633 cases of lip-cancer were matched with 63,067 population controls, using a risk-set sampling strategy. A cumulative dose-response relationship was demonstrated with an adjusted OR 2.1 (95% CI: 1.7-2.6) increasing to OR 3.9 (3.0-4.9) for high use (~25,000 mg) and OR 7.7 (5.7-10.5) for the highest cumulative dose (~100,000 mg) (see also section 4.4).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -520,36 +544,27 @@ In patients with mild to moderate cirrhosis, the pharmacokinetic parameters of i
 
 ## Irbesartan/hydrochlorothiazide
 
-The potential toxicity of the irbesartan/hydrochlorothiazide combination after oral administration was evaluated in rats and macaques in studies lasting up to 6 months. There were no toxicological findings observed of relevance to human therapeutic use.
-
-The following changes, observed in rats and macaques receiving the irbesartan/hydrochlorothiazide combination at 10/10 and 90/90 mg/kg/day, were also seen with one of the two medicinal products alone and/or were secondary to decreases in blood pressure (no significant toxicologic interactions were observed):
-
-- kidney changes, characterized by slight increases in serum urea and creatinine, and hyperplasia/hypertrophy of the juxtaglomerular apparatus, which are a direct consequence of the interaction of irbesartan with the renin-angiotensin system;
-- slight decreases in erythrocyte parameters (erythrocytes, haemoglobin, haematocrit);
-- stomach discoloration, ulcers and focal necrosis of gastric mucosa were observed in few rats in a 6 months toxicity study at irbesartan 90 mg/kg/day, hydrochlorothiazide 90 mg/kg/day, and irbesartan/hydrochlorothiazide 10/10 mg/kg/day. These lesions were not observed in macaques;
-- decreases in serum potassium due to hydrochlorothiazide and partly prevented when hydrochlorothiazide was given in combination with irbesartan.
-
-Most of the above mentioned effects appear to be due to the pharmacological activity of irbesartan (blockade of angiotensin II-induced inhibition of renin release, with stimulation of the renin-producing cells) and occur also with angiotensin converting enzyme inhibitors. These findings appear to have no relevance to the use of therapeutic doses of irbesartan/hydrochlorothiazide in humans.
-
-No teratogenic effects were seen in rats given irbesartan and hydrochlorothiazide in combination at doses that produced maternal toxicity. The effects of the irbesartan/hydrochlorothiazide combination on fertility have not been evaluated in animal studies, as there is no evidence of adverse effect on fertility in animals or humans with either irbesartan or hydrochlorothiazide when administered alone. However, another angiotensin II antagonist affected fertility parameters in animal studies when given alone. These findings were also observed with lower doses of this other angiotensin II antagonist when given in combination with hydrochlorothiazide.
-
-<div style=\"page-break-after: always\"></div>
+Results in rats and macaques in studies lasting up to 6 months showed that administration of the combination neither augmented any of the reported toxicities of the single components, nor induced any new toxicities. In addition, no toxicologically synergistic effects were observed.
 
 There was no evidence of mutagenicity or clastogenicity with the irbesartan/hydrochlorothiazide combination. The carcinogenic potential of irbesartan and hydrochlorothiazide in combination has not been evaluated in animal studies.
 
+The effects of the irbesartan/hydrochlorothiazide combination on fertility have not been evaluated in animal studies. No teratogenic effects were seen in rats given irbesartan and hydrochlorothiazide in combination at doses that produced maternal toxicity.
+
 ## Irbesartan
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In non-clinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidneys (such as interstitial nephritis, tubular distention, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distention, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
+Fertility and reproductive performance were not affected in studies of male and female rats.
 
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption was noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
+Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption was noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Hydrochlorothiazide
 
-Equivocal evidence for a genotoxic or carcinogenic effect was found in some experimental models.
+Equivocal evidence of a genotoxic or carcinogenic effect was observed in some experimental models.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -564,8 +579,6 @@ Not applicable.
 ## 6.3 Shelf life
 
 3 years.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 6.4 Special precautions for storage
 
@@ -583,7 +596,7 @@ Cartons of 56 tablets in PVC/PVDC/Aluminium blisters.
 
 Cartons of 98 tablets in PVC/PVDC/Aluminium blisters.
 
-Cartons of 56 x 1 tablets in PVC/PVDC/Aluminium perforated unit dose blisters.
+Cartons of 56 × 1 tablets in PVC/PVDC/Aluminium perforated unit dose blisters.
 
 Not all pack sizes may be marketed.
 
@@ -594,6 +607,8 @@ Any unused medicinal product or waste material should be disposed of in accordan
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Zentiva k.s. U Kabelovny 130 102 37 Prague 10 Czech Republic
+
+<div style=\"page-break-after: always\"></div>
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
@@ -609,6 +624,8 @@ Date of latest renewal: 27 February 2012
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu/
 
+18
+
 <div style=\"page-break-after: always\"></div>
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
@@ -619,7 +636,9 @@ Irbesartan Hydrochlorothiazide Zentiva 300 mg/12.5 mg tablets
 
 Each tablet contains 300 mg of irbesartan and 12.5 mg of hydrochlorothiazide.
 
-Excipient with known effect Each tablet contains 65.8 mg of lactose (as lactose monohydrate).
+Excipient with known effect
+
+Each tablet contains 65.8 mg of lactose (as lactose monohydrate).
 
 For the full list of excipients, see section 6.1.
 
@@ -659,7 +678,7 @@ Due to the hydrochlorothiazide component, Irbesartan Hydrochlorothiazide Zentiva
 
 <div style=\"page-break-after: always\"></div>
 
-diuretics are preferred to thiazides in this population. No dosage adjustment is necessary in patients with renal impairment whose renal creatinine clearance is ≥30 ml/min (see sections 4.3 and 4.4).
+diuretics are preferred to thiazides in this population. No dosage adjustment is necessary in patients with renal impairment whose renal creatinine clearance is ≥ 30 ml/min (see sections 4.3 and 4.4).
 
 ## Hepatic impairment
 
@@ -679,12 +698,12 @@ For oral use.
 
 ## 4.3 Contraindications
 
-- Hypersensitivity to the active substances or to any of the excipients listed in section 6.1, or to other sulfonamide-derived substances (hydrochlorothiazide is a sulfonamide-derived substance)
-- Second and third trimesters of pregnancy (see sections 4.4 and 4.6)
-- Severe renal impairment (creatinine clearance &lt;30 ml/min)
-- Refractory hypokalaemia, hypercalcaemia
-- Severe hepatic impairment, biliary cirrhosis and cholestasis
-- The concomitant use of Irbesartan Hydrochlorothiazide Zentiva with aliskiren-containing products is contraindicated in patients with diabetes mellitus or renal impairment (glomerular filtration rate (GFR) &lt;60 ml/min/1.73 m²) (see sections 4.5 and 5.1).
+-  Hypersensitivity to the active substances or to any of the excipients listed in section 6.1, or to other sulfonamide-derived substances (hydrochlorothiazide is a sulfonamide-derived substance)
+-  Second and third trimesters of pregnancy (see sections 4.4 and 4.6)
+-  Severe renal impairment (creatinine clearance &lt;30 ml/min)
+-  Refractory hypokalaemia, hypercalcaemia
+-  Severe hepatic impairment, biliary cirrhosis and cholestasis
+-  The concomitant use of Irbesartan Hydrochlorothiazide Zentiva with aliskiren-containing products is contraindicated in patients with diabetes mellitus or renal impairment (glomerular filtration rate (GFR) &lt;60 ml/min/1.73 m²) (see sections 4.5 and 5.1).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -698,7 +717,7 @@ There is an increased risk of severe hypotension and renal insufficiency when pa
 
 ## Renal impairment and kidney transplantation
 
-When Irbesartan Hydrochlorothiazide Zentiva is used in patients with impaired renal function, a periodic monitoring of potassium, creatinine and uric acid serum levels is recommended. There is no experience regarding the administration of Irbesartan Hydrochlorothiazide Zentiva in patients with a recent kidney transplantation. Irbesartan Hydrochlorothiazide Zentiva should not be used in patients with severe renal impairment (creatinine clearance &lt;30 ml/min) (see section 4.3). Thiazide diureticassociated azotaemia may occur in patients with impaired renal function. No dosage adjustment is necessary in patients with renal impairment whose creatinine clearance is ≥ 30 ml/min. However, in patients with mild to moderate renal impairment (creatinine clearance ≥ 30 ml/min but &lt;60 ml/min) this fixed dose combination should be administered with caution.
+When Irbesartan Hydrochlorothiazide Zentiva is used in patients with impaired renal function, a periodic monitoring of potassium, creatinine and uric acid serum levels is recommended. There is no experience regarding the administration of Irbesartan Hydrochlorothiazide Zentiva in patients with a recent kidney transplantation. Irbesartan Hydrochlorothiazide Zentiva should not be used in patients with severe renal impairment (creatinine clearance &lt;30 ml/min) (see section 4.3). Thiazide diureticassociated azotaemia may occur in patients with impaired renal function. No dosage adjustment is necessary in patients with renal impairment whose creatinine clearance is ≥ 30 ml/min. However, in patients with mild to moderate renal impairment (creatin ine clearance ≥ 30 ml/min but &lt;60 ml/min) this fixed dose combination should be administered with caution.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -718,7 +737,7 @@ Patients with primary aldosteronism generally will not respond to antihypertensi
 
 ## Metabolic and endocrine effects
 
-Thiazide therapy may impair glucose tolerance. Latent diabetes mellitus may become manifest during thiazide therapy. Irbesartan may induce hypoglycaemia, particularly in diabetic patients. In patients treated with insulin or antidiabetics an appropriate blood glucose monitoring should be considered; a dose adjustment of inslulin or antidiabetics may be required when indicated (see section 4.5).
+Thiazide therapy may impair glucose tolerance. Latent diabetes mellitus may become manifest during thiazide therapy. Irbesartan may induce hypoglycaemia, particularly in diabetic patients. In patients treated with insulin or antidiabetics an appropriate blood glucose monitoring should be considered; a dose adjustment of insulin or antidiabetics may be required when indicated (see section 4.5).
 
 Increases in cholesterol and triglyceride levels have been associated with thiazide diuretic therapy; however at the 12.5 mg dose contained in Irbesartan Hydrochlorothiazide Zentiva, minimal or no effects were reported.
 
@@ -728,7 +747,7 @@ Hyperuricaemia may occur or frank gout may be precipitated in certain patients r
 
 As for any patient receiving diuretic therapy, periodic determination of serum electrolytes should be performed at appropriate intervals.
 
-Thiazides, including hydrochlorothiazide, can cause fluid or electrolyte imbalance (hypokalaemia, hyponatraemia, and hypochloremic alkalosis). Warning signs of fluid or electrolyte imbalance are dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pain or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea or vomiting.
+Thiazides, including hydrochlorothiazide, can cause fluid or electrolyte imbalance (hypokalaemia, hyponatraemia, and hypochloraemic alkalosis). Warning signs of fluid or electrolyte imbalance are dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pain or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea or vomiting.
 
 Although hypokalaemia may develop with the use of thiazide diuretics, concurrent therapy with irbesartan may reduce diuretic-induced hypokalaemia. The risk of hypokalaemia is greatest in patients with cirrhosis of the liver, in patients experiencing brisk diuresis, in patients who are receiving inadequate oral intake of electrolytes and in patients receiving concomitant therapy with corticosteroids or ACTH. Conversely, due to the irbesartan component of Irbesartan Hydrochlorothiazide Zentiva hyperkalaemia might occur, especially in the presence of renal impairment and/or heart failure, and diabetes mellitus. Adequate monitoring of serum potassium in patients at risk is recommended. Potassium-sparing diuretics, potassium supplements or potassium-
 
@@ -740,7 +759,11 @@ There is no evidence that irbesartan would reduce or prevent diuretic-induced hy
 
 Thiazides may decrease urinary calcium excretion and cause an intermittent and slight elevation of serum calcium in the absence of known disorders of calcium metabolism. Marked hypercalcaemia may be evidence of hidden hyperparathyroidism. Thiazides should be discontinued before carrying out tests for parathyroid function.
 
-Thiazides have been shown to increase the urinary excretion of magnesium, which may result in hypomagnaesemia.
+Thiazides have been shown to increase the urinary excretion of magnesium, which may result in hypomagnesaemia.
+
+## Intestinal angioedema
+
+Intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including irbesartan (see section 4.8). These patients presented with abdominal pain, nausea, vomiting and diarrhoea. Symptoms resolved after discontinuation of angiotensin II receptor antagonists. If intestinal angioedema is diagnosed, irbesartan should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
 
 ## Lithium
 
@@ -764,13 +787,11 @@ Cases of photosensitivity reactions have been reported with thiazides diuretics 
 
 Angiotensin II Receptor Antagonists (AIIRAs) should not be initiated during pregnancy. Unless continued AIIRA therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy. When pregnancy is diagnosed, treatment with AIIRAs should be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
 
-## Choroidal effusion, acute myopia and secondary acute angle-closure glaucoma
-
-Sulfonamide or sulfonamide derivative drugs can cause an idiosyncratic reaction resulting in choroidal effusion with visual field defect, transient myopia and acute angle-closure glaucoma. While hydrochlorothiazide is a sulfonamide, only isolated cases of acute angle-closure glaucoma have been reported so far with hydrochlorothiazide. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue drug intake as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular
+Choroidal effusion, acute myopia and secondary acute angle-closure glaucoma
 
 <div style=\"page-break-after: always\"></div>
 
-pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy (see section 4.8).
+Sulfonamide or sulfonamide derivative drugs can cause an idiosyncratic reaction resulting in choroidal effusion with visual field defect, transient myopia and acute angle-closure glaucoma. While hydrochlorothiazide is a sulfonamide, only isolated cases of acute angle-closure glaucoma have been reported so far with hydrochlorothiazide. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue drug intake as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy (see section 4.8).
 
 ## Non-melanoma skin cancer
 
@@ -781,10 +802,6 @@ Patients taking HCTZ should be informed of the risk of NMSC and advised to regul
 ## Acute respiratory toxicity
 
 Very rare severe cases of acute respiratory toxicity, including acute respiratory distress syndrome (ARDS) have been reported after taking hydrochlorothiazide. Pulmonary oedema typically develops within minutes to hours after hydrochlorothiazide intake. At the onset, symptoms include dyspnoea, fever, pulmonary deterioration and hypotension. If diagnosis of ARDS is suspected, Irbesartan Hydrochlorothiazide Zentiva should be withdrawn and appropriate treatment given. Hydrochlorothiazide should not be administered to patients who previously experienced ARDS following hydrochlorothiazide intake.
-
-## Intestinal angioedema
-
-Intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including irbesartan (see section 4.8). These patients presented with abdominal pain, nausea, vomiting and diarrhoea. Symptoms resolved after discontinuation of angiotensin II receptor antagonists. If intestinal angioedema is diagnosed, irbesartan should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
 
 ## Excipients
 
@@ -818,7 +835,7 @@ Periodic monitoring of serum potassium is recommended when Irbesartan Hydrochlor
 
 ## Non-steroidal anti-inflammatory drugs
 
-When angiotensin II antagonists are administered simultaneously with non-steroidal antiinflammatory drugs (i.e. selective COX-2 inhibitors, acetylsalicylic acid (&gt;3 g/day) and non-selective NSAIDs), attenuation of the antihypertensive effect may occur.
+When angiotensin II antagonists are administered simultaneously with non-steroidal anti-inflammatory drugs (i.e. selective COX-2 inhibitors, acetylsalicylic acid (&gt;3 g/day) and non-selective NSAIDs), attenuation of the antihypertensive effect may occur.
 
 As with ACE inhibitors, concomitant use of angiotensin II antagonists and NSAIDs may lead to an increased risk of worsening of renal function, including possible acute renal failure, and an increase in serum potassium, especially in patients with poor pre-existing renal function. The combination should be administered with caution, especially in the elderly. Patients should be adequately hydrated and consideration should be given to monitoring renal function after initiation of concomitant therapy, and periodically thereafter.
 
@@ -844,7 +861,7 @@ Colestyramine and Colestipol resins: absorption of hydrochlorothiazide is impair
 
 Corticosteroids, ACTH: electrolyte depletion, particularly hypokalaemia, may be increased;
 
-Digitalis glycosides: thiazide induced hypokalaemia or hypomagnaesemia favour the onset of digitalis-induced cardiac arrhythmias (see section 4.4);
+Digitalis glycosides: thiazide induced hypokalaemia or hypomagnesaemia favour the onset of digitalis-induced cardiac arrhythmias (see section 4.4);
 
 Non-steroidal anti-inflammatory drugs: the administration of a non-steroidal anti-inflammatory drug may reduce the diuretic, natriuretic and antihypertensive effects of thiazide diuretics in some patients;
 
@@ -858,7 +875,7 @@ Calcium salts: thiazide diuretics may increase serum calcium levels due to decre
 
 Carbamazepine: concomitant use of carbamazepine and hydrochlorothiazide has been associated with the risk of symptomatic hyponatraemia. Electrolytes should be monitored during concomitant use. If possible, another class of diuretics should be used;
 
-Other interactions: the hyperglycaemic effect of beta-blockers and diazoxide may be enhanced by thiazides. Anticholinergic agents (e.g. atropine, beperiden) may increase the bioavailability of thiazide-type diuretics by decreasing gastrointestinal motility and stomach emptying rate. Thiazides may increase the risk of adverse effects caused by amantadine. Thiazides may reduce the renal excretion of cytotoxic medicinal products (e.g. cyclophosphamide, methotrexate) and potentiate their myelosuppressive effects.
+Other interactions: the hyperglycaemic effect of beta-blockers and diazoxide may be enhanced by thiazides. Anticholinergic agents (e.g. atropine, biperiden) may increase the bioavailability of thiazidetype diuretics by decreasing gastrointestinal motility and stomach emptying rate. Thiazides may increase the risk of adverse effects caused by amantadine. Thiazides may reduce the renal excretion of cytotoxic medicinal products (e.g. cyclophosphamide, methotrexate) and potentiate their myelosuppressive effects.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -926,8 +943,8 @@ The frequency of adverse reactions listed below is defined using the following c
 
 | Table 1: Adverse Reactions in Placebo-Controlled Trials and Spontaneous Reports   | Table 1: Adverse Reactions in Placebo-Controlled Trials and Spontaneous Reports   | Table 1: Adverse Reactions in Placebo-Controlled Trials and Spontaneous Reports                                            |
 |-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| Investigations:                                                                   | Common:                                                                           | increases in blood urea nitrogen (BUN), creatinine and creatine kinase decreases in serum potassium and sodium             |
-|                                                                                   | Uncommon:                                                                         |                                                                                                                            |
+| Investigations:                                                                   | Common:                                                                           | increases in blood urea nitrogen (BUN), creatinine and creatine kinase                                                     |
+|                                                                                   | Uncommon:                                                                         | decreases in serum potassium and sodium                                                                                    |
 | Cardiac disorders:                                                                | Uncommon:                                                                         | syncope, hypotension, tachycardia, oedema                                                                                  |
 | Nervous system disorders:                                                         | Common: Uncommon: Not known:                                                      | dizziness orthostatic dizziness headache                                                                                   |
 | Ear and labyrinth disorders:                                                      | Not known:                                                                        | tinnitus                                                                                                                   |
@@ -948,31 +965,51 @@ The frequency of adverse reactions listed below is defined using the following c
 
 In addition to the adverse reactions listed above for the combination product, other adverse reactions previously reported with one of the individual components may be potential adverse reactions with Irbesartan Hydrochlorothiazide Zentiva. Tables 2 and 3 below detail the adverse reactions reported with the individual components of Irbesartan Hydrochlorothiazide Zentiva.
 
-| Table 2: Adverse reactions reported with the use of irbesartan alone   | Table 2: Adverse reactions reported with the use of irbesartan alone   | Table 2: Adverse reactions reported with the use of irbesartan alone   |
-|------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
-| Blood and lymphatic system disorders:                                  | Not known:                                                             | anaemia, thrombocytopenia                                              |
-| Gastrointestinal disorders                                             | Rare                                                                   | intestinal angioedema                                                  |
-| General disorders and administration site conditions:                  | Uncommon:                                                              | chest pain                                                             |
-| Immune system disorders:                                               | Not known:                                                             | anaphylactic reaction including anaphylactic shock                     |
-| Metabolism and nutrition disorders:                                    | Not known:                                                             | hypoglycaemia                                                          |
+Table 2: Adverse reactions reported with the use of irbesartan alone
 
-| Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone   | Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone   | Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone                                                                                                                                                                        |
-|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Investigations:                                                                 | Not known:                                                                      | electrolyte imbalance (including hypokalaemia and hyponatraemia, see section 4.4), hyperuricaemia, glycosuria, hyperglycaemia, increases in cholesterol and triglycerides                                                                            |
-| Cardiac disorders:                                                              | Not known:                                                                      | cardiac arrhythmias                                                                                                                                                                                                                                  |
-| Blood and lymphatic system disorders:                                           | Not known:                                                                      | aplastic anaemia, bone marrow depression, neutropenia/agranulocytosis, haemolytic anaemia, leucopenia, thrombocytopenia                                                                                                                              |
-| Nervous system disorders:                                                       | Not known:                                                                      | vertigo, paraesthesia, light-headedness, restlessness                                                                                                                                                                                                |
-| Eye disorders:                                                                  | Not known:                                                                      | transient blurred vision, xanthopsia, acute myopia and secondary acute angle-closure glaucoma, choroidal effusion                                                                                                                                    |
-| Respiratory, thoracic and mediastinal disorders:                                | Very rare:                                                                      | acute respiratory distress syndrome (ARDS) (see section 4.4)                                                                                                                                                                                         |
-| Gastrointestinal disorders:                                                     | Not known:                                                                      | pancreatitis, anorexia, diarrhoea, constipation, gastric irritation, sialadenitis, loss of appetite                                                                                                                                                  |
-| Renal and urinary disorders:                                                    | Not known:                                                                      | interstitial nephritis, renal dysfunction                                                                                                                                                                                                            |
-| Skin and subcutaneous tissue disorders:                                         | Not known:                                                                      | anaphylactic reactions, toxic epidermal necrolysis, necrotizing angitis (vasculitis, cutaneous vasculitis), cutaneous lupus erythematosus-like reactions, reactivation of cutaneous lupus erythematosus, photosensitivity reactions, rash, urticaria |
-| Musculoskeletal and connective tissue disorders:                                | Not known:                                                                      | weakness, muscle spasm                                                                                                                                                                                                                               |
-| Vascular disorders:                                                             | Not known:                                                                      | postural hypotension                                                                                                                                                                                                                                 |
-| General disorders and administration site conditions:                           | Not known:                                                                      | fever                                                                                                                                                                                                                                                |
-| Hepatobiliary disorders:                                                        | Not known:                                                                      | jaundice (intrahepatic cholestatic jaundice)                                                                                                                                                                                                         |
-| Psychiatric disorders:                                                          | Not known:                                                                      | depression, sleep disturbances                                                                                                                                                                                                                       |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps)             | Not known:                                                                      | non-melanoma skin cancer (basal cell carcinoma and squamous cell carcinoma)                                                                                                                                                                          |
+Blood and lymphatic system disorders:
+
+General disorders and administration site conditions:
+
+Immune system disorders:
+
+Metabolism and nutrition disorders:
+
+Gastrointestinal disorders
+
+Not known:
+
+Uncommon:
+
+Not known:
+
+Not known:
+
+Rare anaemia, thrombocytopenia
+
+chest pain anaphylactic reaction including anaphylactic
+
+shock hypoglycaemia
+
+intestinal angioedema
+
+| Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone   | Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone   | Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone                                                                                                                                                                         |
+|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Investigations:                                                                 | Not known:                                                                      | electrolyte imbalance (including hypokalaemia and hyponatraemia, see section 4.4), hyperuricaemia, glycosuria, hyperglycaemia, increases in cholesterol and triglycerides                                                                             |
+| Cardiac disorders:                                                              | Not known:                                                                      | cardiac arrhythmias                                                                                                                                                                                                                                   |
+| Blood and lymphatic system disorders:                                           | Not known:                                                                      | aplastic anaemia, bone marrow depression, neutropenia/agranulocytosis, haemolytic anaemia, leukopenia, thrombocytopenia                                                                                                                               |
+| Nervous system disorders:                                                       | Not known:                                                                      | vertigo, paraesthesia, light-headedness, restlessness                                                                                                                                                                                                 |
+| Eye disorders:                                                                  | Not known:                                                                      | transient blurred vision, xanthopsia, acute myopia and secondary acute angle-closure glaucoma, choroidal effusion                                                                                                                                     |
+| Respiratory, thoracic and mediastinal disorders:                                | Very rare:                                                                      | acute respiratory distress syndrome (ARDS) (see section 4.4)                                                                                                                                                                                          |
+| Gastrointestinal disorders:                                                     | Not known:                                                                      | pancreatitis, anorexia, diarrhoea, constipation, gastric irritation, sialadenitis, loss of appetite                                                                                                                                                   |
+| Renal and urinary disorders:                                                    | Not known:                                                                      | interstitial nephritis, renal dysfunction                                                                                                                                                                                                             |
+| Skin and subcutaneous tissue disorders:                                         | Not known:                                                                      | anaphylactic reactions, toxic epidermal necrolysis, necrotizing angiitis (vasculitis, cutaneous vasculitis), cutaneous lupus erythematosus-like reactions, reactivation of cutaneous lupus erythematosus, photosensitivity reactions, rash, urticaria |
+| Musculoskeletal and connective tissue disorders:                                | Not known:                                                                      | weakness, muscle spasm                                                                                                                                                                                                                                |
+| Vascular disorders:                                                             | Not known:                                                                      | postural hypotension                                                                                                                                                                                                                                  |
+| General disorders and administration site conditions:                           | Not known:                                                                      | fever                                                                                                                                                                                                                                                 |
+| Hepatobiliary disorders:                                                        | Not known:                                                                      | jaundice (intrahepatic cholestatic jaundice)                                                                                                                                                                                                          |
+| Psychiatric disorders:                                                          | Not known:                                                                      | depression, sleep disturbances                                                                                                                                                                                                                        |
+| Neoplasms benign, malignant and unspecified (incl. cysts and polyps)            | Not known:                                                                      | non-melanoma skin cancer (basal cell carcinoma and squamous cell carcinoma)                                                                                                                                                                           |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -992,7 +1029,7 @@ No specific information is available on the treatment of overdose with Irbesarta
 
 The most likely manifestations of irbesartan overdose are expected to be hypotension and tachycardia; bradycardia might also occur.
 
-Overdose with hydrochlorothiazide is associated with electrolyte depletion (hypokalaemia, hypochloremia, hyponatraemia) and dehydration resulting from excessive diuresis. The most common signs and symptoms of overdose are nausea and somnolence. Hypokalaemia may result in muscle spasms and/or accentuate cardiac arrhythmias associated with the concomitant use of digitalis glycosides or certain anti-arrhythmic medicinal products.
+Overdose with hydrochlorothiazide is associated with electrolyte depletion (hypokalaemia, hypochloraemia, hyponatraemia) and dehydration resulting from excessive diuresis. The most common signs and symptoms of overdose are nausea and somnolence. Hypokalaemia may result in muscle spasms and/or accentuate cardiac arrhythmias associated with the concomitant use of digitalis glycosides or certain anti-arrhythmic medicinal products.
 
 Irbesartan is not removed by haemodialysis. The degree to which hydrochlorothiazide is removed by haemodialysis has not been established.
 
@@ -1034,7 +1071,7 @@ There is no difference in response to irbesartan/hydrochlorothiazide, regardless
 
 Efficacy and safety of irbesartan/hydrochlorothiazide as initial therapy for severe hypertension (defined as SeDBP ≥ 110 mmHg) was evaluated in a multicentre, randomized, double-blind, activecontrolled, 8-week, parallel-arm study. A total of 697 patients were randomized in a 2:1 ratio to either irbesartan/hydrochlorothiazide 150 mg/12.5 mg or to irbesartan 150 mg and systematically forcetitrated (before assessing the response to the lower dose) after one week to irbesartan/hydrochlorothiazide 300 mg/25 mg or irbesartan 300 mg, respectively.
 
-The study recruited 58% males. The mean age of patients was 52.5 years, 13% were ≥ 65 years of age, and just 2% were ≥ 75 years of age. Twelve percent (12%) of patients were diabetic, 34% were hyperlipidemic and the most frequent cardiovascular condition was stable angina pectoris in 3.5% of the participants.
+The study recruited 58% males. The mean age of patients was 52.5 years, 13% were ≥ 65 years of age, and just 2% were ≥ 75 years of age. Twelve percent (12%) of patients were diabetic, 34% were hyperlipidaemic and the most frequent cardiovascular condition was stable angina pectoris in 3.5% of the participants.
 
 The primary objective of this study was to compare the proportion of patients whose SeDBP was controlled (SeDBP &lt; 90 mmHg) at Week 5 of treatment. Forty-seven percent (47.2%) of patients on the combination achieved trough SeDBP &lt; 90 mmHg compared to 33.2% of patients on irbesartan (p = 0.0005). The mean baseline blood pressure was approximately 172/113 mmHg in each treatment group and decreases of SeSBP/SeDBP at five weeks were 30.8/24.0 mmHg and 21.1/19.3 mmHg for irbesartan/hydrochlorothiazide and irbesartan, respectively (p &lt; 0.0001).
 
@@ -1050,7 +1087,7 @@ ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Dise
 
 ## Non-melanoma skin cancer
 
-Based on available data from epidemiological studies, cumulative dosedependent association between HCTZ and NMSC has been observed. One study included a population comprised of 71,533 cases of BCC and of 8,629 cases of SCC matched to 1,430,833 and 172,462 population controls, respectively. High HCTZ use (≥50,000 mg cumulative) was associated with an adjusted OR of 1.29 (95% CI: 1.231.35) for BCC and 3.98 (95% CI: 3.68-4.31) for SCC. A clear cumulative dose response relationship
+Based on available data from epidemiological studies, cumulative dose-dependent association between HCTZ and NMSC has been observed. One study included a population comprised of 71,533 cases of BCC and of 8,629 cases of SCC matched to 1,430,833 and 172,462 population controls, respectively. High HCTZ use (≥50,000 mg cumulati ve) was associated with an adjusted OR of 1.29 (95% CI: 1.231.35) for BCC and 3.98 (95% CI: 3.68-4.31) for SCC. A clear cumulative dose response relationship
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1094,36 +1131,27 @@ In patients with mild to moderate cirrhosis, the pharmacokinetic parameters of i
 
 ## Irbesartan/hydrochlorothiazide
 
-The potential toxicity of the irbesartan/hydrochlorothiazide combination after oral administration was evaluated in rats and macaques in studies lasting up to 6 months. There were no toxicological findings observed of relevance to human therapeutic use.
-
-The following changes, observed in rats and macaques receiving the irbesartan/hydrochlorothiazide combination at 10/10 and 90/90 mg/kg/day, were also seen with one of the two medicinal products alone and/or were secondary to decreases in blood pressure (no significant toxicologic interactions were observed):
-
-- kidney changes, characterized by slight increases in serum urea and creatinine, and hyperplasia/hypertrophy of the juxtaglomerular apparatus, which are a direct consequence of the interaction of irbesartan with the renin-angiotensin system;
-- slight decreases in erythrocyte parameters (erythrocytes, haemoglobin, haematocrit);
-- stomach discoloration, ulcers and focal necrosis of gastric mucosa were observed in few rats in a 6 months toxicity study at irbesartan 90 mg/kg/day, hydrochlorothiazide 90 mg/kg/day, and irbesartan/hydrochlorothiazide 10/10 mg/kg/day. These lesions were not observed in macaques;
-- decreases in serum potassium due to hydrochlorothiazide and partly prevented when hydrochlorothiazide was given in combination with irbesartan.
-
-Most of the above mentioned effects appear to be due to the pharmacological activity of irbesartan (blockade of angiotensin II-induced inhibition of renin release, with stimulation of the renin-producing cells) and occur also with angiotensin converting enzyme inhibitors. These findings appear to have no relevance to the use of therapeutic doses of irbesartan/hydrochlorothiazide in humans.
-
-No teratogenic effects were seen in rats given irbesartan and hydrochlorothiazide in combination at doses that produced maternal toxicity. The effects of the irbesartan/hydrochlorothiazide combination on fertility have not been evaluated in animal studies, as there is no evidence of adverse effect on fertility in animals or humans with either irbesartan or hydrochlorothiazide when administered alone. However, another angiotensin II antagonist affected fertility parameters in animal studies when given alone. These findings were also observed with lower doses of this other angiotensin II antagonist when given in combination with hydrochlorothiazide.
+Results in rats and macaques in studies lasting up to 6 months showed that administration of the combination neither augmented any of the reported toxicities of the single components, nor induced any new toxicities. In addition, no toxicologically synergistic effects were observed.
 
 There was no evidence of mutagenicity or clastogenicity with the irbesartan/hydrochlorothiazide combination. The carcinogenic potential of irbesartan and hydrochlorothiazide in combination has not been evaluated in animal studies.
 
+The effects of the irbesartan/hydrochlorothiazide combination on fertility have not been evaluated in animal studies. No teratogenic effects were seen in rats given irbesartan and hydrochlorothiazide in combination at doses that produced maternal toxicity.
+
 ## Irbesartan
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In non-clinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidneys (such as interstitial nephritis, tubular distention, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distention, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-<div style=\"page-break-after: always\"></div>
+Fertility and reproductive performance were not affected in studies of male and female rats.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
-
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption was noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
+Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption was noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 ## Hydrochlorothiazide
 
-Equivocal evidence for a genotoxic or carcinogenic effect was found in some experimental models.
+Equivocal evidence of a genotoxic or carcinogenic effect was observed in some experimental models.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
@@ -1141,19 +1169,27 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Do not store above 30°C. Store in the original package in order to protect from moisture.
+Do not store above 30°C.
+
+Store in the original package in order to protect from moisture.
 
 ## 6.5 Nature and contents of container
 
-Cartons of 14 tablets in PVC/PVDC/Aluminium blisters. Cartons of 28 tablets in PVC/PVDC/Aluminium blisters. Cartons of 56 tablets in PVC/PVDC/Aluminium blisters. Cartons of 98 tablets in PVC/PVDC/Aluminium blisters. Cartons of 56 x 1 tablets in PVC/PVDC/Aluminium perforated unit dose blisters.
+Cartons of 14 tablets in PVC/PVDC/Aluminium blisters.
+
+Cartons of 28 tablets in PVC/PVDC/Aluminium blisters.
+
+Cartons of 56 tablets in PVC/PVDC/Aluminium blisters.
+
+Cartons of 98 tablets in PVC/PVDC/Aluminium blisters.
+
+Cartons of 56 × 1 tablets in PVC/PVDC/Aluminium perforated unit dose blisters.
 
 Not all pack sizes may be marketed.
 
 ## 6.6 Special precautions for disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
-
-<div style=\"page-break-after: always\"></div>
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
@@ -1162,6 +1198,8 @@ Zentiva k.s. U Kabelovny 130 102 37 Prague 10 Czech Republic
 ## 8. MARKETING AUTHORISATION NUMBERS
 
 EU/1/06/377/006-010
+
+<div style=\"page-break-after: always\"></div>
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1172,6 +1210,8 @@ Date of latest renewal: 27 February 2012
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu/
+
+35
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1225,7 +1265,7 @@ Doses higher than 300 mg irbesartan/25 mg hydrochlorothiazide once daily are not
 
 ## Renal impairment
 
-Due to the hydrochlorothiazide component, Irbesartan Hydrochlorothiazide Zentiva is not recommended for patients with severe renal dysfunction (creatinine clearance &lt;30 ml/min). Loop diuretics are preferred to thiazides in this population. No dosage adjustment is necessary in patients with renal impairment whose renal creatinine clearance is ≥30 ml/min (see sections 4.3 and 4.4).
+Due to the hydrochlorothiazide component, Irbesartan Hydrochlorothiazide Zentiva is not recommended for patients with severe renal dysfunction (creatinine clearance &lt;30 ml/min). Loop diuretics are preferred to thiazides in this population. No dosage adjustment is necessary in patients with renal impairment whose renal creatinine clearance is ≥ 30 ml/min (see sections 4.3 and 4.4).
 
 ## Hepatic impairment
 
@@ -1245,12 +1285,12 @@ For oral use.
 
 ## 4.3 Contraindications
 
-- Hypersensitivity to the active substances or to any of the excipients listed in section 6.1, or to other sulfonamide-derived substances (hydrochlorothiazide is a sulfonamide-derived substance)
-- Second and third trimesters of pregnancy (see sections 4.4 and 4.6)
-- Severe renal impairment (creatinine clearance &lt;30 ml/min)
-- Refractory hypokalaemia, hypercalcaemia
-- Severe hepatic impairment, biliary cirrhosis and cholestasis
-- The concomitant use of Irbesartan Hydrochlorothiazide Zentiva with aliskiren-containing products is contraindicated in patients with diabetes mellitus or renal impairment (glomerular filtration rate (GFR) &lt;60 ml/min/1.73 m²) (see sections 4.5 and 5.1).
+-  Hypersensitivity to the active substances or to any of the excipients listed in section 6.1, or to other sulfonamide-derived substances (hydrochlorothiazide is a sulfonamide-derived substance)
+-  Second and third trimesters of pregnancy (see sections 4.4 and 4.6)
+-  Severe renal impairment (creatinine clearance &lt;30 ml/min)
+-  Refractory hypokalaemia, hypercalcaemia
+-  Severe hepatic impairment, biliary cirrhosis and cholestasis
+-  The concomitant use of Irbesartan Hydrochlorothiazide Zentiva with aliskiren-containing products is contraindicated in patients with diabetes mellitus or renal impairment (glomerular filtration rate (GFR) &lt;60 ml/min/1.73 m²) (see sections 4.5 and 5.1).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -1268,7 +1308,7 @@ When Irbesartan Hydrochlorothiazide Zentiva is used in patients with impaired re
 
 <div style=\"page-break-after: always\"></div>
 
-necessary in patients with renal impairment whose creatinine clearance is ≥ 30 ml/min. However, in patients with mild to moderate renal impairment (creatinine clearance ≥ 30 ml/min but &lt;60 ml/min) this fixed dose combination should be administered with caution.
+necessary in patients with renal impairment whose creatinine clearance is ≥ 30 ml/min. However, in patients with mild to moderate renal impairment (creatin ine clearance ≥ 30 ml/min but &lt;60 ml/min) this fixed dose combination should be administered with caution.
 
 ## Dual blockade of the renin-angiotensin-aldosterone system (RAAS)
 
@@ -1288,7 +1328,7 @@ Patients with primary aldosteronism generally will not respond to antihypertensi
 
 ## Metabolic and endocrine effects
 
-Thiazide therapy may impair glucose tolerance. Latent diabetes mellitus may become manifest during thiazide therapy. Irbesartan may induce hypoglycaemia, particularly in diabetic patients. In patients treated with insulin or antidiabetics an appropriate blood glucose monitoring should be considered; a dose adjustment of inslulin or antidiabetics may be required when indicated (see section 4.5).
+Thiazide therapy may impair glucose tolerance. Latent diabetes mellitus may become manifest during thiazide therapy. Irbesartan may induce hypoglycaemia, particularly in diabetic patients. In patients treated with insulin or antidiabetics an appropriate blood glucose monitoring should be considered; a dose adjustment of insulin or antidiabetics may be required when indicated (see section 4.5).
 
 Increases in cholesterol and triglyceride levels have been associated with thiazide diuretic therapy; however at the 12.5 mg dose contained in Irbesartan Hydrochlorothiazide Zentiva, minimal or no effects were reported.
 
@@ -1298,7 +1338,7 @@ Hyperuricaemia may occur or frank gout may be precipitated in certain patients r
 
 As for any patient receiving diuretic therapy, periodic determination of serum electrolytes should be performed at appropriate intervals.
 
-Thiazides, including hydrochlorothiazide, can cause fluid or electrolyte imbalance (hypokalaemia, hyponatraemia, and hypochloremic alkalosis). Warning signs of fluid or electrolyte imbalance are dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pain or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea or vomiting.
+Thiazides, including hydrochlorothiazide, can cause fluid or electrolyte imbalance (hypokalaemia, hyponatraemia, and hypochloraemic alkalosis). Warning signs of fluid or electrolyte imbalance are dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pain or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea or vomiting.
 
 Although hypokalaemia may develop with the use of thiazide diuretics, concurrent therapy with irbesartan may reduce diuretic-induced hypokalaemia. The risk of hypokalaemia is greatest in patients with cirrhosis of the liver, in patients experiencing brisk diuresis, in patients who are receiving inadequate oral intake of electrolytes and in patients receiving concomitant therapy with corticosteroids or ACTH. Conversely, due to the irbesartan component of Irbesartan
 
@@ -1310,7 +1350,11 @@ There is no evidence that irbesartan would reduce or prevent diuretic-induced hy
 
 Thiazides may decrease urinary calcium excretion and cause an intermittent and slight elevation of serum calcium in the absence of known disorders of calcium metabolism. Marked hypercalcaemia may be evidence of hidden hyperparathyroidism. Thiazides should be discontinued before carrying out tests for parathyroid function.
 
-Thiazides have been shown to increase the urinary excretion of magnesium, which may result in hypomagnaesemia.
+Thiazides have been shown to increase the urinary excretion of magnesium, which may result in hypomagnesaemia.
+
+## Intestinal angioedema
+
+Intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including irbesartan (see section 4.8). These patients presented with abdominal pain, nausea, vomiting and diarrhoea. Symptoms resolved after discontinuation of angiotensin II receptor antagonists. If intestinal angioedema is diagnosed, irbesartan should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
 
 ## Lithium
 
@@ -1332,13 +1376,15 @@ Cases of photosensitivity reactions have been reported with thiazides diuretics 
 
 ## Pregnancy
 
-Angiotensin II Receptor Antagonists (AIIRAs) should not be initiated during pregnancy. Unless continued AIIRA therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy. When pregnancy is diagnosed, treatment with AIIRAs should be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
-
-Choroidal effusion, acute myopia and secondary acute angle-closure glaucoma Sulfonamide or sulfonamide derivative drugs can cause an idiosyncratic reaction resulting in choroidal effusion with visual field defect, transient myopia and acute angle-closure glaucoma. While hydrochlorothiazide is a sulfonamide, only isolated cases of acute angle-closure glaucoma have been reported so far with hydrochlorothiazide. Symptoms include acute onset of decreased visual acuity or
+Angiotensin II Receptor Antagonists (AIIRAs) should not be initiated during pregnancy. Unless continued AIIRA therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy.
 
 <div style=\"page-break-after: always\"></div>
 
-ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue drug intake as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy (see section 4.8).
+When pregnancy is diagnosed, treatment with AIIRAs should be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
+
+## Choroidal effusion, acute myopia and secondary acute angle-closure glaucoma
+
+Sulfonamide or sulfonamide derivative drugs can cause an idiosyncratic reaction resulting in choroidal effusion with visual field defect, transient myopia and acute angle-closure glaucoma. While hydrochlorothiazide is a sulfonamide, only isolated cases of acute angle-closure glaucoma have been reported so far with hydrochlorothiazide. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue drug intake as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy (see section 4.8).
 
 ## Non-melanoma skin cancer
 
@@ -1349,10 +1395,6 @@ Patients taking HCTZ should be informed of the risk of NMSC and advised to regul
 ## Acute respiratory toxicity
 
 Very rare severe cases of acute respiratory toxicity, including acute respiratory distress syndrome (ARDS) have been reported after taking hydrochlorothiazide. Pulmonary oedema typically develops within minutes to hours after hydrochlorothiazide intake. At the onset, symptoms include dyspnoea, fever, pulmonary deterioration and hypotension. If diagnosis of ARDS is suspected, Irbesartan Hydrochlorothiazide Zentiva should be withdrawn and appropriate treatment given. Hydrochlorothiazide should not be administered to patients who previously experienced ARDS following hydrochlorothiazide intake.
-
-## Intestinal angioedema
-
-Intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including irbesartan (see section 4.8). These patients presented with abdominal pain, nausea, vomiting and diarrhoea. Symptoms resolved after discontinuation of angiotensin II receptor antagonists. If intestinal angioedema is diagnosed, irbesartan should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
 
 ## Excipients
 
@@ -1368,11 +1410,9 @@ The antihypertensive effect of Irbesartan Hydrochlorothiazide Zentiva may be inc
 
 ## Aliskiren-containing products or ACE-inhibitors
 
-Clinical trial data has shown that dual blockade of the renin-angiotensin-aldosterone system (RAAS) through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is associated
-
 <div style=\"page-break-after: always\"></div>
 
-with a higher frequency of adverse events such as hypotension, hyperkalaemia and decreased renal function (including acute renal failure) compared to the use of a single RAAS-acting agent (see sections 4.3, 4.4 and 5.1).
+Clinical trial data has shown that dual blockade of the renin-angiotensin-aldosterone system (RAAS) through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is associated with a higher frequency of adverse events such as hypotension, hyperkalaemia and decreased renal function (including acute renal failure) compared to the use of a single RAAS-acting agent (see sections 4.3, 4.4 and 5.1).
 
 ## Lithium
 
@@ -1388,7 +1428,7 @@ Periodic monitoring of serum potassium is recommended when Irbesartan Hydrochlor
 
 ## Non-steroidal anti-inflammatory drugs
 
-When angiotensin II antagonists are administered simultaneously with non-steroidal antiinflammatory drugs (i.e. selective COX-2 inhibitors, acetylsalicylic acid (&gt; 3 g/day) and non-selective NSAIDs), attenuation of the antihypertensive effect may occur.
+When angiotensin II antagonists are administered simultaneously with non-steroidal anti-inflammatory drugs (i.e. selective COX-2 inhibitors, acetylsalicylic acid (&gt; 3 g/day) and non-selective NSAIDs), attenuation of the antihypertensive effect may occur.
 
 As with ACE inhibitors, concomitant use of angiotensin II antagonists and NSAIDs may lead to an increased risk of worsening of renal function, including possible acute renal failure, and an increase in serum potassium, especially in patients with poor pre-existing renal function. The combination should be administered with caution, especially in the elderly. Patients should be adequately hydrated and consideration should be given to monitoring renal function after initiation of concomitant therapy, and periodically thereafter.
 
@@ -1402,7 +1442,7 @@ In clinical studies, the pharmacokinetic of irbesartan is not affected by hydroc
 
 <div style=\"page-break-after: always\"></div>
 
-Additional information on hydrochlorothiazide interactions
+## Additional information on hydrochlorothiazide interactions
 
 When administered concurrently, the following medicinal products may interact with thiazide diuretics:
 
@@ -1414,7 +1454,7 @@ Colestyramine and Colestipol resins: absorption of hydrochlorothiazide is impair
 
 Corticosteroids, ACTH: electrolyte depletion, particularly hypokalaemia, may be increased;
 
-Digitalis glycosides: thiazide induced hypokalaemia or hypomagnaesemia favour the onset of digitalis-induced cardiac arrhythmias (see section 4.4);
+Digitalis glycosides: thiazide induced hypokalaemia or hypomagnesaemia favour the onset of digitalis-induced cardiac arrhythmias (see section 4.4);
 
 Non-steroidal anti-inflammatory drugs: the administration of a non-steroidal anti-inflammatory drug may reduce the diuretic, natriuretic and antihypertensive effects of thiazide diuretics in some patients;
 
@@ -1428,7 +1468,7 @@ Calcium salts: thiazide diuretics may increase serum calcium levels due to decre
 
 Carbamazepine: concomitant use of carbamazepine and hydrochlorothiazide has been associated with the risk of symptomatic hyponatraemia. Electrolytes should be monitored during concomitant use. If possible, another class of diuretics should be used;
 
-Other interactions: the hyperglycaemic effect of beta-blockers and diazoxide may be enhanced by thiazides. Anticholinergic agents (e.g. atropine, beperiden) may increase the bioavailability of thiazide-type diuretics by decreasing gastrointestinal motility and stomach emptying rate. Thiazides may increase the risk of adverse effects caused by amantadine. Thiazides may reduce the renal excretion of cytotoxic medicinal products (e.g. cyclophosphamide, methotrexate) and potentiate their myelosuppressive effects.
+Other interactions: the hyperglycaemic effect of beta-blockers and diazoxide may be enhanced by thiazides. Anticholinergic agents (e.g. atropine, biperiden) may increase the bioavailability of thiazidetype diuretics by decreasing gastrointestinal motility and stomach emptying rate. Thiazides may increase the risk of adverse effects caused by amantadine. Thiazides may reduce the renal excretion of cytotoxic medicinal products (e.g. cyclophosphamide, methotrexate) and potentiate their myelosuppressive effects.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -1492,21 +1532,21 @@ Table 1 gives the adverse reactions observed from spontaneous reporting and in p
 
 The frequency of adverse reactions listed below is defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-| Table 1: Adverse Reactions in Placebo-Controlled Trials and Spontaneous Reports   | Table 1: Adverse Reactions in Placebo-Controlled Trials and Spontaneous Reports   | Table 1: Adverse Reactions in Placebo-Controlled Trials and Spontaneous Reports                                            |
-|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| Investigations:                                                                   | Common:                                                                           | increases in blood urea nitrogen (BUN), creatinine and creatine kinase                                                     |
-|                                                                                   | Uncommon:                                                                         | decreases in serum potassium and sodium                                                                                    |
-| Cardiac disorders:                                                                | Uncommon:                                                                         | syncope, hypotension, tachycardia, oedema                                                                                  |
-| Nervous system disorders:                                                         | Common: Uncommon: Not known:                                                      | dizziness orthostatic dizziness headache                                                                                   |
-| Ear and labyrinth disorders:                                                      | Not known:                                                                        | tinnitus                                                                                                                   |
-| Respiratory, thoracic and mediastinal disorders:                                  | Not known:                                                                        | cough                                                                                                                      |
-| Gastrointestinal disorders:                                                       | Common: Uncommon: Not known:                                                      | nausea/vomiting diarrhoea dyspepsia, dysgeusia                                                                             |
-| Renal and urinary disorders:                                                      | Common: Not known:                                                                | abnormal urination impaired renal function including isolated cases of renal failure in patients at risk (see section 4.4) |
-| Musculoskeletal and connective tissue disorders:                                  | Uncommon: Not known:                                                              | swelling extremity arthralgia, myalgia                                                                                     |
-| Metabolism and nutrition disorders:                                               | Not known:                                                                        | hyperkalaemia                                                                                                              |
-| Vascular disorders:                                                               | Uncommon:                                                                         | flushing                                                                                                                   |
-| General disorders and administration site conditions:                             | Common:                                                                           | fatigue                                                                                                                    |
-| Immune system disorders:                                                          | Not known:                                                                        | cases of hypersensitivity reactions such as angioedema, rash, urticaria                                                    |
+| Table 1: Adverse Reactions in Placebo-Controlled Trials and   |                              | Spontaneous Reports                                                                                                        |
+|---------------------------------------------------------------|------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Investigations:                                               | Common:                      | increases in blood urea nitrogen (BUN), creatinine and creatine kinase                                                     |
+|                                                               | Uncommon:                    | decreases in serum potassium and sodium                                                                                    |
+| Cardiac disorders:                                            | Uncommon:                    | syncope, hypotension, tachycardia, oedema                                                                                  |
+| Nervous system disorders:                                     | Common: Uncommon: Not known: | dizziness orthostatic dizziness headache                                                                                   |
+| Ear and labyrinth disorders:                                  | Not known:                   | tinnitus                                                                                                                   |
+| Respiratory, thoracic and mediastinal disorders:              | Not known:                   | cough                                                                                                                      |
+| Gastrointestinal disorders:                                   | Common: Uncommon: Not known: | nausea/vomiting diarrhoea dyspepsia, dysgeusia                                                                             |
+| Renal and urinary disorders:                                  | Common: Not known:           | abnormal urination impaired renal function including isolated cases of renal failure in patients at risk (see section 4.4) |
+| Musculoskeletal and connective tissue disorders:              | Uncommon: Not known:         | swelling extremity arthralgia, myalgia                                                                                     |
+| Metabolism and nutrition disorders:                           | Not known:                   | hyperkalaemia                                                                                                              |
+| Vascular disorders:                                           | Uncommon:                    | flushing                                                                                                                   |
+| General disorders and administration site conditions:         | Common:                      | fatigue                                                                                                                    |
+| Immune system disorders:                                      | Not known:                   | cases of hypersensitivity reactions such as angioedema, rash, urticaria                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1520,35 +1560,34 @@ The frequency of adverse reactions listed below is defined using the following c
 
 In addition to the adverse reactions listed above for the combination product, other adverse reactions previously reported with one of the individual components may be potential adverse reactions with Irbesartan Hydrochlorothiazide Zentiva. Tables 2 and 3 below detail the adverse reactions reported with the individual components of Irbesartan Hydrochlorothiazide Zentiva.
 
-| Table 2: Adverse reactions reported with the use of irbesartan alone   | Table 2: Adverse reactions reported with the use of irbesartan alone   | Table 2: Adverse reactions reported with the use of irbesartan alone   |
-|------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
-| Blood and lymphatic system disorders:                                  | Not known:                                                             | anaemia, thrombocytopenia                                              |
-| Gastrointestinal disorders                                             | Rare                                                                   | intestinal angioedema                                                  |
-| General disorders and administration site conditions:                  | Uncommon:                                                              | chest pain                                                             |
-| Immune system disorders:                                               | Not known:                                                             | anaphylactic reaction including anaphylactic shock                     |
-| Metabolism and nutrition disorders:                                    | Not known:                                                             | hypoglycaemia                                                          |
-
-| Table 3: Adverse reactions reported Investigations:   | with the use Not known:   | hydrochlorothiazide alone electrolyte imbalance (including hypokalaemia and hyponatraemia, see section 4.4), hyperuricaemia, glycosuria, hyperglycaemia, increases in cholesterol and triglycerides                                                  |
-|-------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Cardiac disorders:                                    | Not known:                | cardiac arrhythmias                                                                                                                                                                                                                                  |
-| Blood and lymphatic system disorders:                 | Not known:                | aplastic anaemia, bone marrow depression, neutropenia/agranulocytosis, haemolytic anaemia, leucopenia, thrombocytopenia                                                                                                                              |
-| Nervous system disorders:                             | Not known:                | vertigo, paraesthesia, light-headedness, restlessness                                                                                                                                                                                                |
-| Eye disorders:                                        | Not known:                | transient blurred vision, xanthopsia, acute myopia and secondary acute angle-closure glaucoma, choroidal effusion                                                                                                                                    |
-| Respiratory, thoracic and mediastinal disorders:      | Very rare: Not known:     | acute respiratory distress syndrome (ARDS) (see section 4.4) respiratory distress (including pneumonitis and pulmonary oedema)                                                                                                                       |
-| Gastrointestinal disorders:                           | Not known:                | pancreatitis, anorexia, diarrhoea, constipation, gastric irritation, sialadenitis, loss of appetite                                                                                                                                                  |
-| Renal and urinary disorders:                          | Not known:                | interstitial nephritis, renal dysfunction                                                                                                                                                                                                            |
-| Skin and subcutaneous tissue disorders:               | Not known:                | anaphylactic reactions, toxic epidermal necrolysis, necrotizing angitis (vasculitis, cutaneous vasculitis), cutaneous lupus erythematosus-like reactions, reactivation of cutaneous lupus erythematosus, photosensitivity reactions, rash, urticaria |
-| Musculoskeletal and connective tissue disorders:      | Not known:                | weakness, muscle spasm                                                                                                                                                                                                                               |
-| Vascular disorders:                                   | Not known:                | postural hypotension                                                                                                                                                                                                                                 |
-| General disorders and administration site conditions: | Not known:                | fever                                                                                                                                                                                                                                                |
-| Hepatobiliary disorders:                              | Not known:                | jaundice (intrahepatic cholestatic jaundice)                                                                                                                                                                                                         |
+| Table 2: Adverse reactions reported with the use of irbesartan alone          | Table 2: Adverse reactions reported with the use of irbesartan alone          | Table 2: Adverse reactions reported with the use of irbesartan alone                                                                                                                                                                                  |
+|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Blood and lymphatic system disorders:                                         | Not known:                                                                    | anaemia, thrombocytopenia                                                                                                                                                                                                                             |
+| General disorders and administration site conditions:                         | Uncommon:                                                                     | chest pain                                                                                                                                                                                                                                            |
+| Immune system disorders:                                                      | Not known:                                                                    | anaphylactic reaction including anaphylactic shock                                                                                                                                                                                                    |
+| Metabolism and nutrition disorders:                                           | Not known:                                                                    | hypoglycaemia                                                                                                                                                                                                                                         |
+| Gastrointestinal disorders                                                    | Rare                                                                          | intestinal angioedema                                                                                                                                                                                                                                 |
+| Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone | Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone | Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone                                                                                                                                                                         |
+| Investigations:                                                               | Not known:                                                                    | electrolyte imbalance (including hypokalaemia and hyponatraemia, see section 4.4), hyperuricaemia, glycosuria, hyperglycaemia, increases in cholesterol and triglycerides                                                                             |
+| Cardiac disorders:                                                            | Not known:                                                                    | cardiac arrhythmias                                                                                                                                                                                                                                   |
+| Blood and lymphatic system disorders:                                         | Not known:                                                                    | aplastic anaemia, bone marrow depression, neutropenia/agranulocytosis, haemolytic anaemia, leukopenia, thrombocytopenia                                                                                                                               |
+| Nervous system disorders:                                                     | Not known:                                                                    | vertigo, paraesthesia, light-headedness, restlessness                                                                                                                                                                                                 |
+| Eye disorders:                                                                | Not known:                                                                    | transient blurred vision, xanthopsia, acute myopia and secondary acute angle-closure glaucoma, choroidal effusion                                                                                                                                     |
+| Respiratory, thoracic and mediastinal disorders:                              | Very rare: Not known:                                                         | acute respiratory distress syndrome (ARDS) (see section 4.4) respiratory distress (including pneumonitis and pulmonary oedema)                                                                                                                        |
+| Gastrointestinal disorders:                                                   | Not known:                                                                    | pancreatitis, anorexia, diarrhoea, constipation, gastric irritation, sialadenitis, loss of appetite                                                                                                                                                   |
+| Renal and urinary disorders:                                                  | Not known:                                                                    | interstitial nephritis, renal dysfunction                                                                                                                                                                                                             |
+| Skin and subcutaneous tissue disorders:                                       | Not known:                                                                    | anaphylactic reactions, toxic epidermal necrolysis, necrotizing angiitis (vasculitis, cutaneous vasculitis), cutaneous lupus erythematosus-like reactions, reactivation of cutaneous lupus erythematosus, photosensitivity reactions, rash, urticaria |
+| Musculoskeletal and connective tissue disorders:                              | Not known:                                                                    | weakness, muscle spasm                                                                                                                                                                                                                                |
+| Vascular disorders:                                                           | Not known:                                                                    | postural hypotension                                                                                                                                                                                                                                  |
+| General disorders and administration site conditions:                         | Not known:                                                                    | fever                                                                                                                                                                                                                                                 |
+| Hepatobiliary disorders:                                                      | Not known:                                                                    | jaundice (intrahepatic cholestatic jaundice)                                                                                                                                                                                                          |
 
 <div style=\"page-break-after: always\"></div>
 
 | Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone   | Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone   | Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone   |
 |---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | Psychiatric disorders:                                                          | Not known:                                                                      | depression, sleep disturbances                                                  |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps)             | Not known:                                                                      | non-melanoma skin cancer (basal cell carcinoma and squamous cell carcinoma)     |
+| Neoplasms benign, malignant and unspecified (incl. cysts and polyps)            | Not known:                                                                      | non-melanoma skin cancer (basal cell carcinoma and squamous cell carcinoma)     |
 
 ## Non-melanoma skin cancer
 
@@ -1566,7 +1605,7 @@ No specific information is available on the treatment of overdose with Irbesarta
 
 The most likely manifestations of irbesartan overdose are expected to be hypotension and tachycardia; bradycardia might also occur.
 
-Overdose with hydrochlorothiazide is associated with electrolyte depletion (hypokalaemia, hypochloremia, hyponatraemia) and dehydration resulting from excessive diuresis. The most common signs and symptoms of overdose are nausea and somnolence. Hypokalaemia may result in muscle spasms and/or accentuate cardiac arrhythmias associated with the concomitant use of digitalis glycosides or certain anti-arrhythmic medicinal products.
+Overdose with hydrochlorothiazide is associated with electrolyte depletion (hypokalaemia, hypochloraemia, hyponatraemia) and dehydration resulting from excessive diuresis. The most common signs and symptoms of overdose are nausea and somnolence. Hypokalaemia may result in muscle spasms and/or accentuate cardiac arrhythmias associated with the concomitant use of digitalis glycosides or certain anti-arrhythmic medicinal products.
 
 Irbesartan is not removed by haemodialysis. The degree to which hydrochlorothiazide is removed by haemodialysis has not been established.
 
@@ -1608,7 +1647,7 @@ There is no difference in response to irbesartan/hydrochlorothiazide, regardless
 
 Efficacy and safety of irbesartan/hydrochlorothiazide as initial therapy for severe hypertension (defined as SeDBP ≥ 110 mmHg) was evaluated in a multicentre, randomized, double-blind, activecontrolled, 8-week, parallel-arm study. A total of 697 patients were randomized in a 2:1 ratio to either irbesartan/hydrochlorothiazide 150 mg/12.5 mg or to irbesartan 150 mg and systematically forcetitrated (before assessing the response to the lower dose) after one week to irbesartan/hydrochlorothiazide 300 mg/25 mg or irbesartan 300 mg, respectively.
 
-The study recruited 58% males. The mean age of patients was 52.5 years, 13% were ≥ 65 years of age, and just 2% were ≥ 75 years of age. Twelve percent (12%) of patients were diabetic, 34% were hyperlipidemic and the most frequent cardiovascular condition was stable angina pectoris in 3.5% of the participants.
+The study recruited 58% males. The mean age of patients was 52.5 years, 13% were ≥ 65 years of age, and just 2% were ≥ 75 years of age. Twelve percent (12%) of patients were diabetic, 34% were hyperlipidaemic and the most frequent cardiovascular condition was stable angina pectoris in 3.5% of the participants.
 
 The primary objective of this study was to compare the proportion of patients whose SeDBP was controlled (SeDBP &lt; 90 mmHg) at Week 5 of treatment. Forty-seven percent (47.2%) of patients on the combination achieved trough SeDBP &lt; 90 mmHg compared to 33.2% of patients on irbesartan (p = 0.0005). The mean baseline blood pressure was approximately 172/113 mmHg in each treatment group and decreases of SeSBP/SeDBP at five weeks were 30.8/24.0 mmHg and 21.1/19.3 mmHg for irbesartan/hydrochlorothiazide and irbesartan, respectively (p &lt; 0.0001).
 
@@ -1626,7 +1665,7 @@ ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Dise
 
 ## Non-melanoma skin cancer
 
-Based on available data from epidemiological studies, cumulative dosedependent association between HCTZ and NMSC has been observed. One study included a population comprised of 71,533 cases of BCC and of 8,629 cases of SCC matched to 1,430,833 and 172,462 population controls, respectively. High HCTZ use (≥50,000 mg cumulative) was associated with an adjusted OR of 1.29 (95% CI: 1.231.35) for BCC and 3.98 (95% CI: 3.68-4.31) for SCC. A clear cumulative dose response relationship was observed for both BCC and SCC. Another study showed a possible association between lip cancer (SCC) and exposure to HCTZ: 633 cases of lip-cancer were matched with 63,067 population controls, using a risk-set sampling strategy. A cumulative dose-response relationship was demonstrated with an adjusted OR 2.1 (95% CI: 1.7-2.6) increasing to OR 3.9 (3.0-4.9) for high use (~25,000 mg) and OR 7.7 (5.7-10.5) for the highest cumulative dose (~100,000 mg) (see also section 4.4).
+Based on available data from epidemiological studies, cumulative dose-dependent association between HCTZ and NMSC has been observed. One study included a population comprised of 71,533 cases of BCC and of 8,629 cases of SCC matched to 1,430,833 and 172,462 population controls, respectively. High HCTZ use (≥50,000 mg cumulati ve) was associated with an adjusted OR of 1.29 (95% CI: 1.231.35) for BCC and 3.98 (95% CI: 3.68-4.31) for SCC. A clear cumulative dose response relationship was observed for both BCC and SCC. Another study showed a possible association between lip cancer (SCC) and exposure to HCTZ: 633 cases of lip-cancer were matched with 63,067 population controls, using a risk-set sampling strategy. A cumulative dose-response relationship was demonstrated with an adjusted OR 2.1 (95% CI: 1.7-2.6) increasing to OR 3.9 (3.0-4.9) for high use (~25,000 mg) and OR 7.7 (5.7-10.5) for the highest cumulative dose (~100,000 mg) (see also section 4.4).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -1668,44 +1707,35 @@ In patients with mild to moderate cirrhosis, the pharmacokinetic parameters of i
 
 ## Irbesartan/hydrochlorothiazide
 
-The potential toxicity of the irbesartan/hydrochlorothiazide combination after oral administration was evaluated in rats and macaques in studies lasting up to 6 months. There were no toxicological findings observed of relevance to human therapeutic use.
-
-The following changes, observed in rats and macaques receiving the irbesartan/hydrochlorothiazide combination at 10/10 and 90/90 mg/kg/day, were also seen with one of the two medicinal products alone and/or were secondary to decreases in blood pressure (no significant toxicologic interactions were observed):
-
-- kidney changes, characterized by slight increases in serum urea and creatinine, and hyperplasia/hypertrophy of the juxtaglomerular apparatus, which are a direct consequence of the interaction of irbesartan with the renin-angiotensin system;
-- slight decreases in erythrocyte parameters (erythrocytes, haemoglobin, haematocrit);
-- stomach discoloration, ulcers and focal necrosis of gastric mucosa were observed in few rats in a 6 months toxicity study at irbesartan 90 mg/kg/day, hydrochlorothiazide 90 mg/kg/day, and irbesartan/hydrochlorothiazide 10/10 mg/kg/day. These lesions were not observed in macaques;
-- decreases in serum potassium due to hydrochlorothiazide and partly prevented when hydrochlorothiazide was given in combination with irbesartan.
-
-Most of the above mentioned effects appear to be due to the pharmacological activity of irbesartan (blockade of angiotensin II-induced inhibition of renin release, with stimulation of the renin-producing cells) and occur also with angiotensin converting enzyme inhibitors. These findings appear to have no relevance to the use of therapeutic doses of irbesartan/hydrochlorothiazide in humans.
-
-No teratogenic effects were seen in rats given irbesartan and hydrochlorothiazide in combination at doses that produced maternal toxicity. The effects of the irbesartan/hydrochlorothiazide combination on fertility have not been evaluated in animal studies, as there is no evidence of adverse effect on fertility in animals or humans with either irbesartan or hydrochlorothiazide when administered alone. However, another angiotensin II antagonist affected fertility parameters in animal studies when given alone. These findings were also observed with lower doses of this other angiotensin II antagonist when given in combination with hydrochlorothiazide.
+Results in rats and macaques in studies lasting up to 6 months showed that administration of the combination neither augmented any of the reported toxicities of the single components, nor induced any new toxicities. In addition, no toxicologically synergistic effects were observed.
 
 There was no evidence of mutagenicity or clastogenicity with the irbesartan/hydrochlorothiazide combination. The carcinogenic potential of irbesartan and hydrochlorothiazide in combination has not been evaluated in animal studies.
 
+The effects of the irbesartan/hydrochlorothiazide combination on fertility have not been evaluated in animal studies. No teratogenic effects were seen in rats given irbesartan and hydrochlorothiazide in combination at doses that produced maternal toxicity.
+
 ## Irbesartan
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In non-clinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidneys (such as interstitial nephritis, tubular distention, basophilic tubules, increased plasma concentrations of urea and
-
-<div style=\"page-break-after: always\"></div>
-
-creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distention, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
+Fertility and reproductive performance were not affected in studies of male and female rats.
 
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption was noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
+Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption was noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 ## Hydrochlorothiazide
 
-Equivocal evidence for a genotoxic or carcinogenic effect was found in some experimental models.
+Equivocal evidence of a genotoxic or carcinogenic effect was observed in some experimental models.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.1 List of excipients
 
-Tablet core Lactose monohydrate Microcrystalline cellulose Croscarmellose sodium Hypromellose Silicon dioxide Magnesium stearate
+Tablet core Lactose monohydrate Microcrystalline cellulose Croscarmellose sodium Hypromellose Silicon dioxide
+
+Magnesium stearate
 
 Film-coating Lactose monohydrate Hypromellose Titanium dioxide Macrogol 3000 Red and yellow ferric oxides
 
@@ -1719,9 +1749,9 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Do not store above 30°C. Store in the original package in order to protect from moisture.
+Do not store above 30°C.
 
-<div style=\"page-break-after: always\"></div>
+Store in the original package in order to protect from moisture.
 
 ## 6.5 Nature and contents of container
 
@@ -1739,7 +1769,7 @@ Cartons of 90 film-coated tablets in PVC/PVDC/Aluminium blisters.
 
 Cartons of 98 film-coated tablets in PVC/PVDC/Aluminium blisters.
 
-Cartons of 56 x 1 film-coated tablets in PVC/PVDC/Aluminium perforated unit dose blisters.
+Cartons of 56 × 1 film-coated tablets in PVC/PVDC/Aluminium perforated unit dose blisters.
 
 Not all pack sizes may be marketed.
 
@@ -1751,9 +1781,13 @@ Any unused medicinal product or waste material should be disposed of in accordan
 
 Zentiva k.s. U Kabelovny 130 102 37 Prague 10 Czech Republic
 
+<div style=\"page-break-after: always\"></div>
+
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/06/377/011-016 EU/1/06/377/029-030
+EU/1/06/377/011-016
+
+EU/1/06/377/029-030
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -1764,6 +1798,8 @@ Date of latest renewal: 27 February 2012
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu/
+
+52
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1817,7 +1853,7 @@ Doses higher than 300 mg irbesartan/25 mg hydrochlorothiazide once daily are not
 
 ## Renal impairment
 
-Due to the hydrochlorothiazide component, Irbesartan Hydrochlorothiazide Zentiva is not recommended for patients with severe renal dysfunction (creatinine clearance &lt;30 ml/min). Loop diuretics are preferred to thiazides in this population. No dosage adjustment is necessary in patients with renal impairment whose renal creatinine clearance is ≥30 ml/min (see sections 4.3 and 4.4).
+Due to the hydrochlorothiazide component, Irbesartan Hydrochlorothiazide Zentiva is not recommended for patients with severe renal dysfunction (creatinine clearance &lt;30 ml/min). Loop diuretics are preferred to thiazides in this population. No dosage adjustment is necessary in patients with renal impairment whose renal creatinine clearance is ≥ 30 ml/min (see sections 4.3 and 4.4).
 
 ## Hepatic impairment
 
@@ -1837,12 +1873,12 @@ For oral use.
 
 ## 4.3 Contraindications
 
-- Hypersensitivity to the active substances or to any of the excipients listed in section 6.1, or to other sulfonamide-derived substances (hydrochlorothiazide is a sulfonamide-derived substance)
-- Second and third trimesters of pregnancy (see sections 4.4 and 4.6)
-- Severe renal impairment (creatinine clearance &lt; 30 ml/min)
-- Refractory hypokalaemia, hypercalcaemia
-- Severe hepatic impairment, biliary cirrhosis and cholestasis
-- The concomitant use of Irbesartan Hydrochlorothiazide Zentiva with aliskiren-containing products is contraindicated in patients with diabetes mellitus or renal impairment (glomerular filtration rate (GFR) &lt;60 ml/min/1.73 m²) (see sections 4.5 and 5.1).
+-  Hypersensitivity to the active substances or to any of the excipients listed in section 6.1, or to other sulfonamide-derived substances (hydrochlorothiazide is a sulfonamide-derived substance)
+-  Second and third trimesters of pregnancy (see sections 4.4 and 4.6)
+-  Severe renal impairment (creatinine clearance &lt; 30 ml/min)
+-  Refractory hypokalaemia, hypercalcaemia
+-  Severe hepatic impairment, biliary cirrhosis and cholestasis
+-  The concomitant use of Irbesartan Hydrochlorothiazide Zentiva with aliskiren-containing products is contraindicated in patients with diabetes mellitus or renal impairment (glomerular filtration rate (GFR) &lt;60 ml/min/1.73 m²) (see sections 4.5 and 5.1).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -1852,7 +1888,7 @@ Irbesartan Hydrochlorothiazide Zentiva has been rarely associated with symptomat
 
 ## Renal artery stenosis - Renovascular hypertension
 
-There is an increased risk of severe hypotension and renal insufficiency when patients with bilateral renal artery stenosis or stenosis of the artery to a single functioning kidney are treated with angiotensin converting enzyme inhibitors or angiotensinII receptor antagonists. While this is not documented with Irbesartan Hydrochlorothiazide Zentiva, a similar effect should be anticipated.
+There is an increased risk of severe hypotension and renal insufficiency when patients with bilateral renal artery stenosis or stenosis of the artery to a single functioning kidney are treated with angiotensin converting enzyme inhibitors or angiotensin II receptor antagonists. While this is not documented with Irbesartan Hydrochlorothiazide Zentiva, a similar effect should be anticipated.
 
 ## Renal impairment and kidney transplantation
 
@@ -1860,7 +1896,7 @@ When Irbesartan Hydrochlorothiazide Zentiva is used in patients with impaired re
 
 <div style=\"page-break-after: always\"></div>
 
-necessary in patients with renal impairment whose creatinine clearance is ≥30 ml/min. However, in patients with mild to moderate renal impairment (creatinine clearance ≥30 ml/min but &lt;60 ml/min) this fixed dose combination should be administered with caution.
+necessary in patients with renal impairment whose creatinine clearance is ≥ 30 ml/min. However, in patients with mild to moderate renal impairment (creatin ine clearance ≥30 ml/min but &lt;60 ml/min) this fixed dose combination should be administered with caution.
 
 ## Dual blockade of the renin-angiotensin-aldosterone system (RAAS)
 
@@ -1880,7 +1916,7 @@ Patients with primary aldosteronism generally will not respond to antihypertensi
 
 ## Metabolic and endocrine effects
 
-Thiazide therapy may impair glucose tolerance. Latent diabetes mellitus may become manifest during thiazide therapy. Irbesartan may induce hypoglycaemia, particularly in diabetic patients. In patients treated with insulin or antidiabetics an appropriate blood glucose monitoring should be considered; a dose adjustment of inslulin or antidiabetics may be required when indicated (see section 4.5).
+Thiazide therapy may impair glucose tolerance. Latent diabetes mellitus may become manifest during thiazide therapy. Irbesartan may induce hypoglycaemia, particularly in diabetic patients. In patients treated with insulin or antidiabetics an appropriate blood glucose monitoring should be considered; a dose adjustment of insulin or antidiabetics may be required when indicated (see section 4.5).
 
 Increases in cholesterol and triglyceride levels have been associated with thiazide diuretic therapy; however at the 12.5 mg dose contained in Irbesartan Hydrochlorothiazide Zentiva, minimal or no effects were reported.
 
@@ -1890,7 +1926,7 @@ Hyperuricaemia may occur or frank gout may be precipitated in certain patients r
 
 As for any patient receiving diuretic therapy, periodic determination of serum electrolytes should be performed at appropriate intervals.
 
-Thiazides, including hydrochlorothiazide, can cause fluid or electrolyte imbalance (hypokalaemia, hyponatraemia, and hypochloremic alkalosis). Warning signs of fluid or electrolyte imbalance are dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pain or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea or vomiting.
+Thiazides, including hydrochlorothiazide, can cause fluid or electrolyte imbalance (hypokalaemia, hyponatraemia, and hypochloraemic alkalosis). Warning signs of fluid or electrolyte imbalance are dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pain or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea or vomiting.
 
 Although hypokalaemia may develop with the use of thiazide diuretics, concurrent therapy with irbesartan may reduce diuretic-induced hypokalaemia. The risk of hypokalaemia is greatest in patients with cirrhosis of the liver, in patients experiencing brisk diuresis, in patients who are receiving inadequate oral intake of electrolytes and in patients receiving concomitant therapy with corticosteroids or ACTH. Conversely, due to the irbesartan component of Irbesartan
 
@@ -1902,7 +1938,11 @@ There is no evidence that irbesartan would reduce or prevent diuretic-induced hy
 
 Thiazides may decrease urinary calcium excretion and cause an intermittent and slight elevation of serum calcium in the absence of known disorders of calcium metabolism. Marked hypercalcaemia may be evidence of hidden hyperparathyroidism. Thiazides should be discontinued before carrying out tests for parathyroid function.
 
-Thiazides have been shown to increase the urinary excretion of magnesium, which may result in hypomagnaesemia.
+Thiazides have been shown to increase the urinary excretion of magnesium, which may result in hypomagnesaemia.
+
+## Intestinal angioedema
+
+Intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including irbesartan (see section 4.8). These patients presented with abdominal pain, nausea, vomiting and diarrhoea. Symptoms resolved after discontinuation of angiotensin II receptor antagonists. If intestinal angioedema is diagnosed, irbesartan should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
 
 ## Lithium
 
@@ -1924,13 +1964,15 @@ Cases of photosensitivity reactions have been reported with thiazides diuretics 
 
 ## Pregnancy
 
-Angiotensin II Receptor Antagonists (AIIRAs) should not be initiated during pregnancy. Unless continued AIIRA therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy. When pregnancy is diagnosed, treatment with AIIRAs should be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
-
-Choroidal effusion, acute myopia and secondary acute angle-closure glaucoma Sulfonamide or sulfonamide derivative drugs can cause an idiosyncratic reaction resulting in choroidal effusion with visual field defect, transient myopia and acute angle-closure glaucoma. While hydrochlorothiazide is a sulfonamide, only isolated cases of acute angle-closure glaucoma have been reported so far with hydrochlorothiazide. Symptoms include acute onset of decreased visual acuity or
+Angiotensin II Receptor Antagonists (AIIRAs) should not be initiated during pregnancy. Unless continued AIIRA therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy.
 
 <div style=\"page-break-after: always\"></div>
 
-ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue drug intake as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy (see section 4.8).
+When pregnancy is diagnosed, treatment with AIIRAs should be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
+
+## Choroidal effusion, acute myopia and secondary acute angle-closure glaucoma
+
+Sulfonamide or sulfonamide derivative drugs can cause an idiosyncratic reaction resulting in choroidal effusion with visual field defect, transient myopia and acute angle-closure glaucoma. While hydrochlorothiazide is a sulfonamide, only isolated cases of acute angle-closure glaucoma have been reported so far with hydrochlorothiazide. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue drug intake as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy (see section 4.8).
 
 ## Non-melanoma skin cancer
 
@@ -1941,10 +1983,6 @@ Patients taking HCTZ should be informed of the risk of NMSC and advised to regul
 ## Acute respiratory toxicity
 
 Very rare severe cases of acute respiratory toxicity, including acute respiratory distress syndrome (ARDS) have been reported after taking hydrochlorothiazide. Pulmonary oedema typically develops within minutes to hours after hydrochlorothiazide intake. At the onset, symptoms include dyspnoea, fever, pulmonary deterioration and hypotension. If diagnosis of ARDS is suspected, Irbesartan Hydrochlorothiazide Zentiva should be withdrawn and appropriate treatment given. Hydrochlorothiazide should not be administered to patients who previously experienced ARDS following hydrochlorothiazide intake.
-
-## Intestinal angioedema
-
-Intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including irbesartan (see section 4.8). These patients presented with abdominal pain, nausea, vomiting and diarrhoea. Symptoms resolved after discontinuation of angiotensin II receptor antagonists. If intestinal angioedema is diagnosed, irbesartan should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
 
 ## Excipients
 
@@ -1960,11 +1998,9 @@ The antihypertensive effect of Irbesartan Hydrochlorothiazide Zentiva may be inc
 
 ## Aliskiren-containing products or ACE-inhibitors
 
-Clinical trial data has shown that dual blockade of the renin-angiotensin-aldosterone system (RAAS) through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is associated
-
 <div style=\"page-break-after: always\"></div>
 
-with a higher frequency of adverse events such as hypotension, hyperkalaemia and decreased renal function (including acute renal failure) compared to the use of a single RAAS-acting agent (see sections 4.3, 4.4 and 5.1).
+Clinical trial data has shown that dual blockade of the renin-angiotensin-aldosterone system (RAAS) through the combined use of ACE-inhibitors, angiotensin II receptor blockers or aliskiren is associated with a higher frequency of adverse events such as hypotension, hyperkalaemia and decreased renal function (including acute renal failure) compared to the use of a single RAAS-acting agent (see sections 4.3, 4.4 and 5.1).
 
 ## Lithium
 
@@ -1980,7 +2016,7 @@ Periodic monitoring of serum potassium is recommended when Irbesartan Hydrochlor
 
 ## Non-steroidal anti-inflammatory drugs
 
-When angiotensin II antagonists are administered simultaneously with non-steroidal antiinflammatory drugs (i.e. selective COX-2 inhibitors, acetylsalicylic acid (&gt;3 g/day) and non-selective NSAIDs), attenuation of the antihypertensive effect may occur.
+When angiotensin II antagonists are administered simultaneously with non-steroidal anti-inflammatory drugs (i.e. selective COX-2 inhibitors, acetylsalicylic acid (&gt;3 g/day) and non-selective NSAIDs), attenuation of the antihypertensive effect may occur.
 
 As with ACE inhibitors, concomitant use of angiotensin II antagonists and NSAIDs may lead to an increased risk of worsening of renal function, including possible acute renal failure, and an increase in serum potassium, especially in patients with poor pre-existing renal function. The combination should be administered with caution, especially in the elderly. Patients should be adequately hydrated and consideration should be given to monitoring renal function after initiation of concomitant therapy, and periodically thereafter.
 
@@ -1994,7 +2030,7 @@ In clinical studies, the pharmacokinetic of irbesartan is not affected by hydroc
 
 <div style=\"page-break-after: always\"></div>
 
-Additional information on hydrochlorothiazide interactions
+## Additional information on hydrochlorothiazide interactions
 
 When administered concurrently, the following medicinal products may interact with thiazide diuretics:
 
@@ -2006,7 +2042,7 @@ Colestyramine and Colestipol resins: absorption of hydrochlorothiazide is impair
 
 Corticosteroids, ACTH: electrolyte depletion, particularly hypokalaemia, may be increased;
 
-Digitalis glycosides: thiazide induced hypokalaemia or hypomagnaesemia favour the onset of digitalis-induced cardiac arrhythmias (see section 4.4);
+Digitalis glycosides: thiazide induced hypokalaemia or hypomagnesaemia favour the onset of digitalis-induced cardiac arrhythmias (see section 4.4);
 
 Non-steroidal anti-inflammatory drugs: the administration of a non-steroidal anti-inflammatory drug may reduce the diuretic, natriuretic and antihypertensive effects of thiazide diuretics in some patients;
 
@@ -2020,7 +2056,7 @@ Calcium salts: thiazide diuretics may increase serum calcium levels due to decre
 
 Carbamazepine: concomitant use of carbamazepine and hydrochlorothiazide has been associated with the risk of symptomatic hyponatraemia. Electrolytes should be monitored during concomitant use. If possible, another class of diuretics should be used;
 
-Other interactions: the hyperglycaemic effect of beta-blockers and diazoxide may be enhanced by thiazides. Anticholinergic agents (e.g. atropine, beperiden) may increase the bioavailability of thiazide-type diuretics by decreasing gastrointestinal motility and stomach emptying rate. Thiazides may increase the risk of adverse effects caused by amantadine. Thiazides may reduce the renal excretion of cytotoxic medicinal products (e.g. cyclophosphamide, methotrexate) and potentiate their myelosuppressive effects.
+Other interactions: the hyperglycaemic effect of beta-blockers and diazoxide may be enhanced by thiazides. Anticholinergic agents (e.g. atropine, biperiden) may increase the bioavailability of thiazidetype diuretics by decreasing gastrointestinal motility and stomach emptying rate. Thiazides may increase the risk of adverse effects caused by amantadine. Thiazides may reduce the renal excretion of cytotoxic medicinal products (e.g. cyclophosphamide, methotrexate) and potentiate their myelosuppressive effects.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -2084,21 +2120,21 @@ Table 1 gives the adverse reactions observed from spontaneous reporting and in p
 
 The frequency of adverse reactions listed below is defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to &lt; 1/10); uncommon (≥ 1/1,000 to &lt; 1/100); rare (≥ 1/10,000 to &lt; 1/1,000); very rare (&lt; 1/10,000), not known (cannot be estimated from the available data). Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-| Table 1: Adverse Reactions in Placebo-Controlled Trials and Spontaneous Reports   | Table 1: Adverse Reactions in Placebo-Controlled Trials and Spontaneous Reports   | Table 1: Adverse Reactions in Placebo-Controlled Trials and Spontaneous Reports                                            |
-|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| Investigations:                                                                   | Common:                                                                           | increases in blood urea nitrogen (BUN), creatinine and creatine kinase                                                     |
-|                                                                                   | Uncommon:                                                                         | decreases in serum potassium and sodium                                                                                    |
-| Cardiac disorders:                                                                | Uncommon:                                                                         | syncope, hypotension, tachycardia, oedema                                                                                  |
-| Nervous system disorders:                                                         | Common: Uncommon: Not known:                                                      | dizziness orthostatic dizziness headache                                                                                   |
-| Ear and labyrinth disorders:                                                      | Not known:                                                                        | tinnitus                                                                                                                   |
-| Respiratory, thoracic and mediastinal disorders:                                  | Not known:                                                                        | cough                                                                                                                      |
-| Gastrointestinal disorders:                                                       | Common: Uncommon: Not known:                                                      | nausea/vomiting diarrhoea dyspepsia, dysgeusia                                                                             |
-| Renal and urinary disorders:                                                      | Common: Not known:                                                                | abnormal urination impaired renal function including isolated cases of renal failure in patients at risk (see section 4.4) |
-| Musculoskeletal and connective tissue disorders:                                  | Uncommon: Not known:                                                              | swelling extremity arthralgia, myalgia                                                                                     |
-| Metabolism and nutrition disorders:                                               | Not known:                                                                        | hyperkalaemia                                                                                                              |
-| Vascular disorders:                                                               | Uncommon:                                                                         | flushing                                                                                                                   |
-| General disorders and administration site conditions:                             | Common:                                                                           | fatigue                                                                                                                    |
-| Immune system disorders:                                                          | Not known:                                                                        | cases of hypersensitivity reactions such as angioedema, rash, urticaria                                                    |
+| Table 1: Adverse Reactions in Placebo-Controlled Trials and   |                              | Spontaneous Reports                                                                                                        |
+|---------------------------------------------------------------|------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Investigations:                                               | Common:                      | increases in blood urea nitrogen (BUN), creatinine and creatine kinase                                                     |
+|                                                               | Uncommon:                    | decreases in serum potassium and sodium                                                                                    |
+| Cardiac disorders:                                            | Uncommon:                    | syncope, hypotension, tachycardia, oedema                                                                                  |
+| Nervous system disorders:                                     | Common: Uncommon: Not known: | dizziness orthostatic dizziness headache                                                                                   |
+| Ear and labyrinth disorders:                                  | Not known:                   | tinnitus                                                                                                                   |
+| Respiratory, thoracic and mediastinal disorders:              | Not known:                   | cough                                                                                                                      |
+| Gastrointestinal disorders:                                   | Common: Uncommon: Not known: | nausea/vomiting diarrhoea dyspepsia, dysgeusia                                                                             |
+| Renal and urinary disorders:                                  | Common: Not known:           | abnormal urination impaired renal function including isolated cases of renal failure in patients at risk (see section 4.4) |
+| Musculoskeletal and connective tissue disorders:              | Uncommon: Not known:         | swelling extremity arthralgia, myalgia                                                                                     |
+| Metabolism and nutrition disorders:                           | Not known:                   | hyperkalaemia                                                                                                              |
+| Vascular disorders:                                           | Uncommon:                    | flushing                                                                                                                   |
+| General disorders and administration site conditions:         | Common:                      | fatigue                                                                                                                    |
+| Immune system disorders:                                      | Not known:                   | cases of hypersensitivity reactions such as angioedema, rash, urticaria                                                    |
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2115,32 +2151,32 @@ In addition to the adverse reactions listed above for the combination product, o
 | Table 2: Adverse reactions reported with the use of irbesartan alone   | Table 2: Adverse reactions reported with the use of irbesartan alone   | Table 2: Adverse reactions reported with the use of irbesartan alone   |
 |------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
 | Blood and lymphatic system disorders:                                  | Not known:                                                             | anaemia, thrombocytopenia                                              |
-| Gastrointestinal disorders                                             | Rare                                                                   | intestinal angioedema                                                  |
 | General disorders and administration site conditions:                  | Uncommon:                                                              | chest pain                                                             |
 | Immune system disorders:                                               | Not known:                                                             | anaphylactic reaction including anaphylactic shock                     |
 | Metabolism and nutrition disorders:                                    | Not known:                                                             | hypoglycaemia                                                          |
+| Gastrointestinal disorders                                             | Rare                                                                   | intestinal angioedema                                                  |
 
-| Table 3: Adverse reactions reported Investigations:   | with the use Not known:   | hydrochlorothiazide alone electrolyte imbalance (including hypokalaemia and hyponatraemia, see section 4.4), hyperuricaemia, glycosuria, hyperglycaemia, increases in cholesterol and triglycerides                                                  |
-|-------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Cardiac disorders:                                    | Not known:                | cardiac arrhythmias                                                                                                                                                                                                                                  |
-| Blood and lymphatic system disorders:                 | Not known:                | aplastic anaemia, bone marrow depression, neutropenia/agranulocytosis, haemolytic anaemia, leucopenia, thrombocytopenia                                                                                                                              |
-| Nervous system disorders:                             | Not known:                | vertigo, paraesthesia, light-headedness, restlessness                                                                                                                                                                                                |
-| Eye disorders:                                        | Not known:                | transient blurred vision, xanthopsia, acute myopia and secondary acute angle-closure glaucoma, choroidal effusion                                                                                                                                    |
-| Respiratory, thoracic and mediastinal disorders:      | Very rare: Not known:     | acute respiratory distress syndrome (ARDS) (see section 4.4) respiratory distress (including pneumonitis and pulmonary oedema)                                                                                                                       |
-| Gastrointestinal disorders:                           | Not known:                | pancreatitis, anorexia, diarrhoea, constipation, gastric irritation, sialadenitis, loss of appetite                                                                                                                                                  |
-| Renal and urinary disorders:                          | Not known:                | interstitial nephritis, renal dysfunction                                                                                                                                                                                                            |
-| Skin and subcutaneous tissue disorders:               | Not known:                | anaphylactic reactions, toxic epidermal necrolysis, necrotizing angitis (vasculitis, cutaneous vasculitis), cutaneous lupus erythematosus-like reactions, reactivation of cutaneous lupus erythematosus, photosensitivity reactions, rash, urticaria |
-| Musculoskeletal and connective tissue disorders:      | Not known:                | weakness, muscle spasm                                                                                                                                                                                                                               |
-| Vascular disorders:                                   | Not known:                | postural hypotension                                                                                                                                                                                                                                 |
-| General disorders and administration site conditions: | Not known:                | fever                                                                                                                                                                                                                                                |
-| Hepatobiliary disorders:                              | Not known:                | jaundice (intrahepatic cholestatic jaundice)                                                                                                                                                                                                         |
+| Table 3: Adverse reactions Investigations:            | reported with the use Not known:   | hydrochlorothiazide alone electrolyte imbalance (including hypokalaemia and hyponatraemia, see section 4.4), hyperuricaemia, glycosuria, hyperglycaemia, increases in cholesterol and triglycerides                                                   |
+|-------------------------------------------------------|------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Cardiac disorders:                                    | Not known:                         | cardiac arrhythmias                                                                                                                                                                                                                                   |
+| Blood and lymphatic system disorders:                 | Not known:                         | aplastic anaemia, bone marrow depression, neutropenia/agranulocytosis, haemolytic anaemia, leukopenia, thrombocytopenia                                                                                                                               |
+| Nervous system disorders:                             | Not known:                         | vertigo, paraesthesia, light-headedness, restlessness                                                                                                                                                                                                 |
+| Eye disorders:                                        | Not known:                         | transient blurred vision, xanthopsia, acute myopia and secondary acute angle-closure glaucoma, choroidal effusion                                                                                                                                     |
+| Respiratory, thoracic and mediastinal disorders:      | Very rare: Not known:              | acute respiratory distress syndrome (ARDS) (see section 4.4) respiratory distress (including pneumonitis and pulmonary oedema)                                                                                                                        |
+| Gastrointestinal disorders:                           | Not known:                         | pancreatitis, anorexia, diarrhoea, constipation, gastric irritation, sialadenitis, loss of appetite                                                                                                                                                   |
+| Renal and urinary disorders:                          | Not known:                         | interstitial nephritis, renal dysfunction                                                                                                                                                                                                             |
+| Skin and subcutaneous tissue disorders:               | Not known:                         | anaphylactic reactions, toxic epidermal necrolysis, necrotizing angiitis (vasculitis, cutaneous vasculitis), cutaneous lupus erythematosus-like reactions, reactivation of cutaneous lupus erythematosus, photosensitivity reactions, rash, urticaria |
+| Musculoskeletal and connective tissue disorders:      | Not known:                         | weakness, muscle spasm                                                                                                                                                                                                                                |
+| Vascular disorders:                                   | Not known:                         | postural hypotension                                                                                                                                                                                                                                  |
+| General disorders and administration site conditions: | Not known:                         | fever                                                                                                                                                                                                                                                 |
+| Hepatobiliary disorders:                              | Not known:                         | jaundice (intrahepatic cholestatic jaundice)                                                                                                                                                                                                          |
 
 <div style=\"page-break-after: always\"></div>
 
 | Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone   | Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone   | Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone   |
 |---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | Psychiatric disorders:                                                          | Not known:                                                                      | depression, sleep disturbances                                                  |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps)             | Not known:                                                                      | non-melanoma skin cancer (basal cell carcinoma and squamous cell carcinoma)     |
+| Neoplasms benign, malignant and unspecified (incl. cysts and polyps)            | Not known:                                                                      | non-melanoma skin cancer (basal cell carcinoma and squamous cell carcinoma)     |
 
 ## Non-melanoma skin cancer
 
@@ -2158,7 +2194,7 @@ No specific information is available on the treatment of overdose with Irbesarta
 
 The most likely manifestations of irbesartan overdose are expected to be hypotension and tachycardia; bradycardia might also occur.
 
-Overdose with hydrochlorothiazide is associated with electrolyte depletion (hypokalaemia, hypochloremia, hyponatraemia) and dehydration resulting from excessive diuresis. The most common signs and symptoms of overdose are nausea and somnolence. Hypokalaemia may result in muscle spasms and/or accentuate cardiac arrhythmias associated with the concomitant use of digitalis glycosides or certain anti-arrhythmic medicinal products.
+Overdose with hydrochlorothiazide is associated with electrolyte depletion (hypokalaemia, hypochloraemia, hyponatraemia) and dehydration resulting from excessive diuresis. The most common signs and symptoms of overdose are nausea and somnolence. Hypokalaemia may result in muscle spasms and/or accentuate cardiac arrhythmias associated with the concomitant use of digitalis glycosides or certain anti-arrhythmic medicinal products.
 
 Irbesartan is not removed by haemodialysis. The degree to which hydrochlorothiazide is removed by haemodialysis has not been established.
 
@@ -2200,7 +2236,7 @@ There is no difference in response to irbesartan/hydrochlorothiazide, regardless
 
 Efficacy and safety of irbesartan/hydrochlorothiazide as initial therapy for severe hypertension (defined as SeDBP ≥ 110 mmHg) was evaluated in a multicentre, randomized, double-blind, activecontrolled, 8-week, parallel-arm study. A total of 697 patients were randomized in a 2:1 ratio to either irbesartan/hydrochlorothiazide 150 mg/12.5 mg or to irbesartan 150 mg and systematically forcetitrated (before assessing the response to the lower dose) after one week to irbesartan/hydrochlorothiazide 300 mg/25 mg or irbesartan 300 mg, respectively.
 
-The study recruited 58% males. The mean age of patients was 52.5 years, 13% were ≥ 65 years of age, and just 2% were ≥ 75 years of age. Twelve percent (12%) of patients were diabetic, 34% were hyperlipidemic and the most frequent cardiovascular condition was stable angina pectoris in 3.5% of the participants.
+The study recruited 58% males. The mean age of patients was 52.5 years, 13% were ≥ 65 years of age, and just 2% were ≥ 75 years of age. Twelve percent (12%) of patients were diabetic, 34% were hyperlipidaemic and the most frequent cardiovascular condition was stable angina pectoris in 3.5% of the participants.
 
 The primary objective of this study was to compare the proportion of patients whose SeDBP was controlled (SeDBP &lt; 90 mmHg) at Week 5 of treatment. Forty-seven percent (47.2%) of patients on the combination achieved trough SeDBP &lt; 90 mmHg compared to 33.2% of patients on irbesartan (p = 0.0005). The mean baseline blood pressure was approximately 172/113 mmHg in each treatment group and decreases of SeSBP/SeDBP at five weeks were 30.8/24.0 mmHg and 21.1/19.3 mmHg for irbesartan/hydrochlorothiazide and irbesartan, respectively (p &lt; 0.0001).
 
@@ -2220,7 +2256,7 @@ ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Dise
 
 ## Non-melanoma skin cancer
 
-Based on available data from epidemiological studies, cumulative dosedependent association between HCTZ and NMSC has been observed. One study included a population comprised of 71,533 cases of BCC and of 8,629 cases of SCC matched to 1,430,833 and 172,462 population controls, respectively. High HCTZ use (≥50,000 mg cumulative) was associated with an adjusted OR of 1.29 (95% CI: 1.231.35) for BCC and 3.98 (95% CI: 3.68-4.31) for SCC. A clear cumulative dose response relationship was observed for both BCC and SCC. Another study showed a possible association between lip cancer (SCC) and exposure to HCTZ: 633 cases of lip-cancer were matched with 63,067 population controls, using a risk-set sampling strategy. A cumulative dose-response relationship was demonstrated with an adjusted OR 2.1 (95% CI: 1.7-2.6) increasing to OR 3.9 (3.0-4.9) for high use (~25,000 mg) and OR 7.7 (5.7-10.5) for the highest cumulative dose (~100,000 mg) (see also section 4.4).
+Based on available data from epidemiological studies, cumulative dose-dependent association between HCTZ and NMSC has been observed. One study included a population comprised of 71,533 cases of BCC and of 8,629 cases of SCC matched to 1,430,833 and 172,462 population controls, respectively. High HCTZ use (≥50,000 mg cumulati ve) was associated with an adjusted OR of 1.29 (95% CI: 1.231.35) for BCC and 3.98 (95% CI: 3.68-4.31) for SCC. A clear cumulative dose response relationship was observed for both BCC and SCC. Another study showed a possible association between lip cancer (SCC) and exposure to HCTZ: 633 cases of lip-cancer were matched with 63,067 population controls, using a risk-set sampling strategy. A cumulative dose-response relationship was demonstrated with an adjusted OR 2.1 (95% CI: 1.7-2.6) increasing to OR 3.9 (3.0-4.9) for high use (~25,000 mg) and OR 7.7 (5.7-10.5) for the highest cumulative dose (~100,000 mg) (see also section 4.4).
 
 ## 5.2 Pharmacokinetic properties
 
@@ -2262,46 +2298,39 @@ In patients with mild to moderate cirrhosis, the pharmacokinetic parameters of i
 
 ## Irbesartan/hydrochlorothiazide
 
-The potential toxicity of the irbesartan/hydrochlorothiazide combination after oral administration was evaluated in rats and macaques in studies lasting up to 6 months. There were no toxicological findings observed of relevance to human therapeutic use.
-
-The following changes, observed in rats and macaques receiving the irbesartan/hydrochlorothiazide combination at 10/10 and 90/90 mg/kg/day, were also seen with one of the two medicinal products alone and/or were secondary to decreases in blood pressure (no significant toxicologic interactions were observed):
-
-- kidney changes, characterized by slight increases in serum urea and creatinine, and hyperplasia/hypertrophy of the juxtaglomerular apparatus, which are a direct consequence of the interaction of irbesartan with the renin-angiotensin system;
-- slight decreases in erythrocyte parameters (erythrocytes, haemoglobin, haematocrit);
-- stomach discoloration, ulcers and focal necrosis of gastric mucosa were observed in few rats in a 6 months toxicity study at irbesartan 90 mg/kg/day, hydrochlorothiazide 90 mg/kg/day, and irbesartan/hydrochlorothiazide 10/10 mg/kg/day. These lesions were not observed in macaques;
-- decreases in serum potassium due to hydrochlorothiazide and partly prevented when hydrochlorothiazide was given in combination with irbesartan.
-
-Most of the above mentioned effects appear to be due to the pharmacological activity of irbesartan (blockade of angiotensin II-induced inhibition of renin release, with stimulation of the renin-producing cells) and occur also with angiotensin converting enzyme inhibitors. These findings appear to have no relevance to the use of therapeutic doses of irbesartan/hydrochlorothiazide in humans.
-
-No teratogenic effects were seen in rats given irbesartan and hydrochlorothiazide in combination at doses that produced maternal toxicity. The effects of the irbesartan/hydrochlorothiazide combination on fertility have not been evaluated in animal studies, as there is no evidence of adverse effect on fertility in animals or humans with either irbesartan or hydrochlorothiazide when administered alone. However, another angiotensin II antagonist affected fertility parameters in animal studies when given alone. These findings were also observed with lower doses of this other angiotensin II antagonist when given in combination with hydrochlorothiazide.
+Results in rats and macaques in studies lasting up to 6 months showed that administration of the combination neither augmented any of the reported toxicities of the single components, nor induced any new toxicities. In addition, no toxicologically synergistic effects were observed.
 
 There was no evidence of mutagenicity or clastogenicity with the irbesartan/hydrochlorothiazide combination. The carcinogenic potential of irbesartan and hydrochlorothiazide in combination has not been evaluated in animal studies.
 
+The effects of the irbesartan/hydrochlorothiazide combination on fertility have not been evaluated in animal studies. No teratogenic effects were seen in rats given irbesartan and hydrochlorothiazide in combination at doses that produced maternal toxicity.
+
 ## Irbesartan
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In non-clinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidneys (such as interstitial nephritis, tubular distention, basophilic tubules, increased plasma concentrations of urea and
-
-<div style=\"page-break-after: always\"></div>
-
-creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distention, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
+Fertility and reproductive performance were not affected in studies of male and female rats,
 
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption was noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
+Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption was noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 ## Hydrochlorothiazide
 
-Equivocal evidence for a genotoxic or carcinogenic effect was found in some experimental models.
+Equivocal evidence of a genotoxic or carcinogenic effect was observed in some experimental models.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
+<div style=\"page-break-after: always\"></div>
+
 ## 6.1 List of excipients
 
-Tablet core Lactose monohydrate Microcrystalline cellulose Croscarmellose sodium Hypromellose Silicon dioxide Magnesium stearate
+Tablet core Lactose monohydrate Microcrystalline cellulose Croscarmellose sodium Hypromellose Silicon dioxide
 
-Film-coating Lactose monohydrate Hypromellose Titanium dioxide Macrogol 3000 Red and yellow ferric oxides
+Magnesium stearate
+
+Film-coating Lactose monohydrate Hypromellose Titanium dioxide Macrogol 3000
+
+Red and yellow ferric oxides
 
 ## 6.2 Incompatibilities
 
@@ -2313,9 +2342,9 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Do not store above 30°C. Store in the original package in order to protect from moisture.
+Do not store above 30°C.
 
-<div style=\"page-break-after: always\"></div>
+Store in the original package in order to protect from moisture.
 
 ## 6.5 Nature and contents of container
 
@@ -2333,7 +2362,7 @@ Cartons of 90 film-coated tablets in PVC/PVDC/Aluminium blisters.
 
 Cartons of 98 film-coated tablets in PVC/PVDC/Aluminium blisters.
 
-Cartons of 56 x 1 film-coated tablets in PVC/PVDC/Aluminium perforated unit dose blisters.
+Cartons of 56 × 1 film-coated tablets in PVC/PVDC/Aluminium perforated unit dose blisters.
 
 Not all pack sizes may be marketed.
 
@@ -2344,6 +2373,8 @@ Any unused medicinal product or waste material should be disposed of in accordan
 ## 7. MARKETING AUTHORISATION HOLDER
 
 Zentiva k.s. U Kabelovny 130 102 37 Prague 10 Czech Republic
+
+<div style=\"page-break-after: always\"></div>
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
@@ -2360,6 +2391,8 @@ Date of latest renewal: 27 February 2012
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu/
+
+69
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2411,7 +2444,7 @@ Due to the hydrochlorothiazide component, Irbesartan Hydrochlorothiazide Zentiva
 
 <div style=\"page-break-after: always\"></div>
 
-diuretics are preferred to thiazides in this population. No dosage adjustment is necessary in patients with renal impairment whose renal creatinine clearance is ≥30 ml/min (see sections 4.3 and 4.4).
+diuretics are preferred to thiazides in this population. No dosage adjustment is necessary in patients with renal impairment whose renal creatinine clearance is ≥ 30 ml/min (see sections 4.3 and 4.4).
 
 ## Hepatic impairment
 
@@ -2431,12 +2464,12 @@ For oral use.
 
 ## 4.3 Contraindications
 
-- Hypersensitivity to the active substances or to any of the excipients listed in section 6.1, or to other sulfonamide-derived substances (hydrochlorothiazide is a sulfonamide-derived substance)
-- Second and third trimesters of pregnancy (see sections 4.4 and 4.6)
-- Severe renal impairment (creatinine clearance &lt; 30 ml/min)
-- Refractory hypokalaemia, hypercalcaemia
-- Severe hepatic impairment, biliary cirrhosis and cholestasis
-- The concomitant use of Irbesartan Hydrochlorothiazide Zentiva with aliskiren-containing products is contraindicated in patients with diabetes mellitus or renal impairment (glomerular filtration rate (GFR) &lt;60 ml/min/1.73 m²) (see sections 4.5 and 5.1).
+-  Hypersensitivity to the active substances or to any of the excipients listed in section 6.1, or to other sulfonamide-derived substances (hydrochlorothiazide is a sulfonamide-derived substance)
+-  Second and third trimesters of pregnancy (see sections 4.4 and 4.6)
+-  Severe renal impairment (creatinine clearance &lt; 30 ml/min)
+-  Refractory hypokalaemia, hypercalcaemia
+-  Severe hepatic impairment, biliary cirrhosis and cholestasis
+-  The concomitant use of Irbesartan Hydrochlorothiazide Zentiva with aliskiren-containing products is contraindicated in patients with diabetes mellitus or renal impairment (glomerular filtration rate (GFR) &lt;60 ml/min/1.73 m²) (see sections 4.5 and 5.1).
 
 ## 4.4 Special warnings and precautions for use
 
@@ -2450,7 +2483,7 @@ There is an increased risk of severe hypotension and renal insufficiency when pa
 
 ## Renal impairment and kidney transplantation
 
-When Irbesartan Hydrochlorothiazide Zentiva is used in patients with impaired renal function, a periodic monitoring of potassium, creatinine and uric acid serum levels is recommended. There is no experience regarding the administration of Irbesartan Hydrochlorothiazide Zentiva in patients with a recent kidney transplantation. Irbesartan Hydrochlorothiazide Zentiva should not be used in patients with severe renal impairment (creatinine clearance &lt;30 ml/min) (see section 4.3). Thiazide diureticassociated azotaemia may occur in patients with impaired renal function. No dosage adjustment is necessary in patients with renal impairment whose creatinine clearance is ≥30 ml/min. However, in patients with mild to moderate renal impairment (creatinine clearance ≥30 ml/min but &lt;60 ml/min) this fixed dose combination should be administered with caution.
+When Irbesartan Hydrochlorothiazide Zentiva is used in patients with impaired renal function, a periodic monitoring of potassium, creatinine and uric acid serum levels is recommended. There is no experience regarding the administration of Irbesartan Hydrochlorothiazide Zentiva in patients with a recent kidney transplantation. Irbesartan Hydrochlorothiazide Zentiva should not be used in patients with severe renal impairment (creatinine clearance &lt;30 ml/min) (see section 4.3). Thiazide diureticassociated azotaemia may occur in patients with impaired renal function. No dosage adjustment is necessary in patients with renal impairment whose creatinine clearance is ≥ 30 ml/min. However, in patients with mild to moderate renal impairment (creatin ine clearance ≥30 ml/min but &lt;60 ml/min) this fixed dose combination should be administered with caution.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2470,7 +2503,7 @@ Patients with primary aldosteronism generally will not respond to antihypertensi
 
 ## Metabolic and endocrine effects
 
-Thiazide therapy may impair glucose tolerance. Latent diabetes mellitus may become manifest during thiazide therapy. Irbesartan may induce hypoglycaemia, particularly in diabetic patients. In patients treated with insulin or antidiabetics an appropriate blood glucose monitoring should be considered; a dose adjustment of inslulin or antidiabetics may be required when indicated (see section 4.5).
+Thiazide therapy may impair glucose tolerance. Latent diabetes mellitus may become manifest during thiazide therapy. Irbesartan may induce hypoglycaemia, particularly in diabetic patients. In patients treated with insulin or antidiabetics an appropriate blood glucose monitoring should be considered; a dose adjustment of insulin or antidiabetics may be required when indicated (see section 4.5).
 
 Increases in cholesterol and triglyceride levels have been associated with thiazide diuretic therapy; however at the 12.5 mg dose contained in Irbesartan Hydrochlorothiazide Zentiva, minimal or no effects were reported.
 
@@ -2480,7 +2513,7 @@ Hyperuricaemia may occur or frank gout may be precipitated in certain patients r
 
 As for any patient receiving diuretic therapy, periodic determination of serum electrolytes should be performed at appropriate intervals.
 
-Thiazides, including hydrochlorothiazide, can cause fluid or electrolyte imbalance (hypokalaemia, hyponatraemia, and hypochloremic alkalosis). Warning signs of fluid or electrolyte imbalance are dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pain or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea or vomiting.
+Thiazides, including hydrochlorothiazide, can cause fluid or electrolyte imbalance (hypokalaemia, hyponatraemia, and hypochloraemic alkalosis). Warning signs of fluid or electrolyte imbalance are dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pain or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea or vomiting.
 
 Although hypokalaemia may develop with the use of thiazide diuretics, concurrent therapy with irbesartan may reduce diuretic-induced hypokalaemia. The risk of hypokalaemia is greatest in patients with cirrhosis of the liver, in patients experiencing brisk diuresis, in patients who are receiving inadequate oral intake of electrolytes and in patients receiving concomitant therapy with corticosteroids or ACTH. Conversely, due to the irbesartan component of Irbesartan Hydrochlorothiazide Zentiva hyperkalaemia might occur, especially in the presence of renal impairment and/or heart failure, and diabetes mellitus. Adequate monitoring of serum potassium in patients at risk is recommended. Potassium-sparing diuretics, potassium supplements or potassium-
 
@@ -2492,7 +2525,11 @@ There is no evidence that irbesartan would reduce or prevent diuretic-induced hy
 
 Thiazides may decrease urinary calcium excretion and cause an intermittent and slight elevation of serum calcium in the absence of known disorders of calcium metabolism. Marked hypercalcaemia may be evidence of hidden hyperparathyroidism. Thiazides should be discontinued before carrying out tests for parathyroid function.
 
-Thiazides have been shown to increase the urinary excretion of magnesium, which may result in hypomagnaesemia.
+Thiazides have been shown to increase the urinary excretion of magnesium, which may result in hypomagnesaemia.
+
+## Intestinal angioedema
+
+Intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including irbesartan (see section 4.8). These patients presented with abdominal pain, nausea, vomiting and diarrhoea. Symptoms resolved after discontinuation of angiotensin II receptor antagonists. If intestinal angioedema is diagnosed, irbesartan should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
 
 ## Lithium
 
@@ -2516,13 +2553,11 @@ Cases of photosensitivity reactions have been reported with thiazides diuretics 
 
 Angiotensin II Receptor Antagonists (AIIRAs) should not be initiated during pregnancy. Unless continued AIIRA therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy. When pregnancy is diagnosed, treatment with AIIRAs should be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
 
-## Choroidal effusion, acute myopia and secondary acute angle-closure glaucoma
-
-Sulfonamide or sulfonamide derivative drugs can cause an idiosyncratic reaction resulting in choroidal effusion with visual field defect, transient myopia and acute angle-closure glaucoma. While hydrochlorothiazide is a sulfonamide, only isolated cases of acute angle-closure glaucoma have been reported so far with hydrochlorothiazide. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue drug intake as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular
+Choroidal effusion, acute myopia and secondary acute angle-closure glaucoma
 
 <div style=\"page-break-after: always\"></div>
 
-pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy (see section 4.8).
+Sulfonamide or sulfonamide derivative drugs can cause an idiosyncratic reaction resulting in choroidal effusion with visual field defect, transient myopia and acute angle-closure glaucoma. While hydrochlorothiazide is a sulfonamide, only isolated cases of acute angle-closure glaucoma have been reported so far with hydrochlorothiazide. Symptoms include acute onset of decreased visual acuity or ocular pain and typically occur within hours to weeks of drug initiation. Untreated acute angle-closure glaucoma can lead to permanent vision loss. The primary treatment is to discontinue drug intake as rapidly as possible. Prompt medical or surgical treatments may need to be considered if the intraocular pressure remains uncontrolled. Risk factors for developing acute angle-closure glaucoma may include a history of sulfonamide or penicillin allergy (see section 4.8).
 
 ## Non-melanoma skin cancer
 
@@ -2533,10 +2568,6 @@ Patients taking HCTZ should be informed of the risk of NMSC and advised to regul
 ## Acute respiratory toxicity
 
 Very rare severe cases of acute respiratory toxicity, including acute respiratory distress syndrome (ARDS) have been reported after taking hydrochlorothiazide. Pulmonary oedema typically develops within minutes to hours after hydrochlorothiazide intake. At the onset, symptoms include dyspnoea, fever, pulmonary deterioration and hypotension. If diagnosis of ARDS is suspected, Irbesartan Hydrochlorothiazide Zentiva should be withdrawn and appropriate treatment given. Hydrochlorothiazide should not be administered to patients who previously experienced ARDS following hydrochlorothiazide intake.
-
-## Intestinal angioedema
-
-Intestinal angioedema has been reported in patients treated with angiotensin II receptor antagonists, including irbesartan (see section 4.8). These patients presented with abdominal pain, nausea, vomiting and diarrhoea. Symptoms resolved after discontinuation of angiotensin II receptor antagonists. If intestinal angioedema is diagnosed, irbesartan should be discontinued and appropriate monitoring should be initiated until complete resolution of symptoms has occurred.
 
 ## Excipients
 
@@ -2570,7 +2601,7 @@ Periodic monitoring of serum potassium is recommended when Irbesartan Hydrochlor
 
 ## Non-steroidal anti-inflammatory drugs
 
-When angiotensin II antagonists are administered simultaneously with non-steroidal antiinflammatory drugs (i.e. selective COX-2 inhibitors, acetylsalicylic acid (&gt;3 g/day) and non-selective NSAIDs), attenuation of the antihypertensive effect may occur.
+When angiotensin II antagonists are administered simultaneously with non-steroidal anti-inflammatory drugs (i.e. selective COX-2 inhibitors, acetylsalicylic acid (&gt;3 g/day) and non-selective NSAIDs), attenuation of the antihypertensive effect may occur.
 
 As with ACE inhibitors, concomitant use of angiotensin II antagonists and NSAIDs may lead to an increased risk of worsening of renal function, including possible acute renal failure, and an increase in serum potassium, especially in patients with poor pre-existing renal function. The combination should be administered with caution, especially in the elderly. Patients should be adequately hydrated and consideration should be given to monitoring renal function after initiation of concomitant therapy, and periodically thereafter.
 
@@ -2596,7 +2627,7 @@ Colestyramine and Colestipol resins: absorption of hydrochlorothiazide is impair
 
 Corticosteroids, ACTH: electrolyte depletion, particularly hypokalaemia, may be increased;
 
-Digitalis glycosides: thiazide induced hypokalaemia or hypomagnaesemia favour the onset of digitalis-induced cardiac arrhythmias (see section 4.4);
+Digitalis glycosides: thiazide induced hypokalaemia or hypomagnesaemia favour the onset of digitalis-induced cardiac arrhythmias (see section 4.4);
 
 Non-steroidal anti-inflammatory drugs: the administration of a non-steroidal anti-inflammatory drug may reduce the diuretic, natriuretic and antihypertensive effects of thiazide diuretics in some patients;
 
@@ -2610,7 +2641,7 @@ Calcium salts: thiazide diuretics may increase serum calcium levels due to decre
 
 Carbamazepine: concomitant use of carbamazepine and hydrochlorothiazide has been associated with the risk of symptomatic hyponatraemia. Electrolytes should be monitored during concomitant use. If possible, another class of diuretics should be used;
 
-Other interactions: the hyperglycaemic effect of beta-blockers and diazoxide may be enhanced by thiazides. Anticholinergic agents (e.g. atropine, beperiden) may increase the bioavailability of thiazide-type diuretics by decreasing gastrointestinal motility and stomach emptying rate. Thiazides may increase the risk of adverse effects caused by amantadine. Thiazides may reduce the renal excretion of cytotoxic medicinal products (e.g. cyclophosphamide, methotrexate) and potentiate their myelosuppressive effects.
+Other interactions: the hyperglycaemic effect of beta-blockers and diazoxide may be enhanced by thiazides. Anticholinergic agents (e.g. atropine, biperiden) may increase the bioavailability of thiazidetype diuretics by decreasing gastrointestinal motility and stomach emptying rate. Thiazides may increase the risk of adverse effects caused by amantadine. Thiazides may reduce the renal excretion of cytotoxic medicinal products (e.g. cyclophosphamide, methotrexate) and potentiate their myelosuppressive effects.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -2676,8 +2707,9 @@ The frequency of adverse reactions listed below is defined using the following c
 
 | Table 1: Adverse Reactions in                         | Placebo-Controlled           | Trials and Spontaneous Reports                                                                                             |
 |-------------------------------------------------------|------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| Investigations:                                       | Common: Uncommon: Uncommon:  | increases in blood urea nitrogen (BUN), creatinine and creatine kinase decreases in serum potassium and sodium             |
-| Cardiac disorders:                                    |                              | syncope, hypotension, tachycardia, oedema                                                                                  |
+| Investigations:                                       | Common:                      | increases in blood urea nitrogen (BUN), creatinine and creatine kinase                                                     |
+|                                                       | Uncommon:                    | decreases in serum potassium and sodium                                                                                    |
+| Cardiac disorders:                                    | Uncommon:                    | syncope, hypotension, tachycardia, oedema                                                                                  |
 | Nervous system disorders:                             | Common: Uncommon: Not known: | dizziness orthostatic dizziness headache                                                                                   |
 | Ear and labyrinth disorders:                          | Not known:                   | tinnitus                                                                                                                   |
 | Respiratory, thoracic and mediastinal disorders:      | Not known:                   | cough                                                                                                                      |
@@ -2699,59 +2731,32 @@ In addition to the adverse reactions listed above for the combination product, o
 
 Irbesartan Hydrochlorothiazide Zentiva. Tables 2 and 3 below detail the adverse reactions reported with the individual components of Irbesartan Hydrochlorothiazide Zentiva.
 
-Table 2:
-
-Adverse reactions reported with the use of
-
-Blood and lymphatic system disorders:
-
-Gastrointestinal disorders
-
-General disorders and administration site conditions:
-
-Immune system disorders:
-
-Metabolism and nutrition disorders:
-
-| Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone   | Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone   | Table 3: Adverse reactions reported with the use of hydrochlorothiazide alone                                                                                                                                                                        |
-|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Investigations:                                                                 | Not known:                                                                      | electrolyte imbalance (including hypokalaemia and hyponatraemia, see section 4.4), hyperuricaemia, glycosuria, hyperglycaemia, increases in cholesterol and triglycerides                                                                            |
-| Cardiac disorders:                                                              | Not known:                                                                      | cardiac arrhythmias                                                                                                                                                                                                                                  |
-| Blood and lymphatic system disorders:                                           | Not known:                                                                      | aplastic anaemia, bone marrow depression, neutropenia/agranulocytosis, haemolytic anaemia, leucopenia, thrombocytopenia                                                                                                                              |
-| Nervous system disorders:                                                       | Not known:                                                                      | vertigo, paraesthesia, light-headedness, restlessness                                                                                                                                                                                                |
-| Eye disorders:                                                                  | Not known:                                                                      | transient blurred vision, xanthopsia, acute myopia and secondary acute angle-closure glaucoma, choroidal effusion                                                                                                                                    |
-| Respiratory, thoracic and mediastinal disorders:                                | Very rare: Not known:                                                           | acute respiratory distress syndrome (ARDS) (see section 4.4) respiratory distress (including pneumonitis and pulmonary oedema)                                                                                                                       |
-| Gastrointestinal disorders:                                                     | Not known:                                                                      | pancreatitis, anorexia, diarrhoea, constipation, gastric irritation, sialadenitis, loss of appetite                                                                                                                                                  |
-| Renal and urinary disorders:                                                    | Not known:                                                                      | interstitial nephritis, renal dysfunction                                                                                                                                                                                                            |
-| Skin and subcutaneous tissue disorders:                                         | Not known:                                                                      | anaphylactic reactions, toxic epidermal necrolysis, necrotizing angitis (vasculitis, cutaneous vasculitis), cutaneous lupus erythematosus-like reactions, reactivation of cutaneous lupus erythematosus, photosensitivity reactions, rash, urticaria |
-| Musculoskeletal and connective tissue disorders:                                | Not known:                                                                      | weakness, muscle spasm                                                                                                                                                                                                                               |
-| Vascular disorders:                                                             | Not known:                                                                      | postural hypotension                                                                                                                                                                                                                                 |
-| General disorders and administration site conditions:                           | Not known:                                                                      | fever                                                                                                                                                                                                                                                |
-| Hepatobiliary disorders:                                                        | Not known:                                                                      | jaundice (intrahepatic cholestatic jaundice)                                                                                                                                                                                                         |
-| Psychiatric disorders:                                                          | Not known:                                                                      | depression, sleep disturbances                                                                                                                                                                                                                       |
-| Neoplasms benign, malignant and unspecified (incl cysts and polyps)             | Not known:                                                                      | non-melanoma skin cancer (basal cell carcinoma and squamous cell carcinoma)                                                                                                                                                                          |
+| Table 2: Adverse reactions reported with the use of irbesartan alone   | Table 2: Adverse reactions reported with the use of irbesartan alone   | Table 2: Adverse reactions reported with the use of irbesartan alone                                                                                                                                                                                  |
+|------------------------------------------------------------------------|------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Blood and lymphatic system disorders:                                  | Not known:                                                             | anaemia, thrombocytopenia                                                                                                                                                                                                                             |
+| General disorders and administration site conditions:                  | Uncommon:                                                              | chest pain                                                                                                                                                                                                                                            |
+| Immune system disorders:                                               | Not known:                                                             | anaphylactic reaction including anaphylactic shock                                                                                                                                                                                                    |
+| Metabolism and nutrition disorders:                                    | Not known:                                                             | hypoglycaemia                                                                                                                                                                                                                                         |
+| Gastrointestinal disorders                                             | Rare                                                                   | intestinal angioedema                                                                                                                                                                                                                                 |
+| Table 3: Adverse reactions reported with the Investigations:           | use Not known:                                                         | hydrochlorothiazide alone electrolyte imbalance (including hypokalaemia and hyponatraemia, see section 4.4), hyperuricaemia, glycosuria, hyperglycaemia,                                                                                              |
+| Cardiac disorders:                                                     | Not known:                                                             | cardiac arrhythmias                                                                                                                                                                                                                                   |
+| Blood and lymphatic system disorders:                                  | Not known:                                                             | aplastic anaemia, bone marrow depression, neutropenia/agranulocytosis, haemolytic anaemia, leukopenia, thrombocytopenia                                                                                                                               |
+| Nervous system disorders:                                              | Not known:                                                             | vertigo, paraesthesia, light-headedness, restlessness                                                                                                                                                                                                 |
+| Eye disorders:                                                         | Not known:                                                             | transient blurred vision, xanthopsia, acute myopia and secondary acute angle-closure glaucoma, choroidal effusion                                                                                                                                     |
+| Respiratory, thoracic and mediastinal disorders:                       | Very rare: Not known:                                                  | acute respiratory distress syndrome (ARDS) (see section 4.4) respiratory distress (including pneumonitis and                                                                                                                                          |
+| Gastrointestinal disorders:                                            | Not known:                                                             | pancreatitis, anorexia, diarrhoea, constipation, gastric irritation, sialadenitis, loss of appetite                                                                                                                                                   |
+| Renal and urinary disorders:                                           | Not known:                                                             | interstitial nephritis, renal dysfunction                                                                                                                                                                                                             |
+| Skin and subcutaneous tissue disorders:                                | Not known:                                                             | anaphylactic reactions, toxic epidermal necrolysis, necrotizing angiitis (vasculitis, cutaneous vasculitis), cutaneous lupus erythematosus-like reactions, reactivation of cutaneous lupus erythematosus, photosensitivity reactions, rash, urticaria |
+| Musculoskeletal and connective tissue disorders:                       | Not known:                                                             | weakness, muscle spasm                                                                                                                                                                                                                                |
+| Vascular disorders:                                                    | Not known:                                                             | postural hypotension                                                                                                                                                                                                                                  |
+| General disorders and administration site conditions:                  | Not known:                                                             | fever                                                                                                                                                                                                                                                 |
+| Hepatobiliary disorders:                                               | Not known:                                                             | jaundice (intrahepatic cholestatic jaundice)                                                                                                                                                                                                          |
+| Psychiatric disorders:                                                 | Not known:                                                             | depression, sleep disturbances                                                                                                                                                                                                                        |
+| Neoplasms benign, malignant and unspecified (incl. cysts and polyps)   | Not known:                                                             | non-melanoma skin cancer (basal cell carcinoma and squamous cell carcinoma)                                                                                                                                                                           |
 
 ## Non-melanoma skin cancer
 
 Based on available data from epidemiological studies, cumulative dose dependent association between HCTZ and NMSC has been observed (see also sections 4.4 and 5.1).
-
-Not known:
-
-Rare
-
-Uncommon:
-
-Not known:
-
-Not known:
-
-irbesartan alone
-
-anaemia, thrombocytopenia intestinal angioedema
-
-chest pain anaphylactic reaction including anaphylactic
-
-shock hypoglycaemia
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2767,7 +2772,7 @@ No specific information is available on the treatment of overdose with Irbesarta
 
 The most likely manifestations of irbesartan overdose are expected to be hypotension and tachycardia; bradycardia might also occur.
 
-Overdose with hydrochlorothiazide is associated with electrolyte depletion (hypokalaemia, hypochloremia, hyponatraemia) and dehydration resulting from excessive diuresis. The most common signs and symptoms of overdose are nausea and somnolence. Hypokalaemia may result in muscle spasms and/or accentuate cardiac arrhythmias associated with the concomitant use of digitalis glycosides or certain anti-arrhythmic medicinal products.
+Overdose with hydrochlorothiazide is associated with electrolyte depletion (hypokalaemia, hypochloraemia, hyponatraemia) and dehydration resulting from excessive diuresis. The most common signs and symptoms of overdose are nausea and somnolence. Hypokalaemia may result in muscle spasms and/or accentuate cardiac arrhythmias associated with the concomitant use of digitalis glycosides or certain anti-arrhythmic medicinal products.
 
 Irbesartan is not removed by haemodialysis. The degree to which hydrochlorothiazide is removed by haemodialysis has not been established.
 
@@ -2811,7 +2816,7 @@ Efficacy and safety of irbesartan/hydrochlorothiazide as initial therapy for sev
 
 titrated (before assessing the response to the lower dose) after one week to irbesartan/hydrochlorothiazide 300 mg/25 mg or irbesartan 300 mg, respectively.
 
-The study recruited 58% males. The mean age of patients was 52.5 years, 13% were ≥ 65 years of age, and just 2% were ≥ 75 years of age. Twelve percent (12%) of patients were diabetic, 34% were hyperlipidemic and the most frequent cardiovascular condition was stable angina pectoris in 3.5% of the participants.
+The study recruited 58% males. The mean age of patients was 52.5 years, 13% were ≥ 65 years of age, and just 2% were ≥ 75 years of age. Twelve percent (12%) of patients were diabetic, 34% were hyperlipidaemic and the most frequent cardiovascular condition was stable angina pectoris in 3.5% of the participants.
 
 The primary objective of this study was to compare the proportion of patients whose SeDBP was controlled (SeDBP &lt; 90 mmHg) at Week 5 of treatment. Forty-seven percent (47.2%) of patients on the combination achieved trough SeDBP &lt; 90 mmHg compared to 33.2% of patients on irbesartan (p = 0.0005). The mean baseline blood pressure was approximately 172/113 mmHg in each treatment group and decreases of SeSBP/SeDBP at five weeks were 30.8/24.0 mmHg and 21.1/19.3 mmHg for irbesartan/hydrochlorothiazide and irbesartan, respectively (p &lt; 0.0001).
 
@@ -2827,7 +2832,7 @@ ALTITUDE (Aliskiren Trial in Type 2 Diabetes Using Cardiovascular and Renal Dise
 
 ## Non-melanoma skin cancer
 
-Based on available data from epidemiological studies, cumulative dosedependent association between HCTZ and NMSC has been observed. One study included a population comprised of 71,533 cases of BCC and of 8,629 cases of SCC matched to 1,430,833 and 172,462 population controls, respectively. High HCTZ use (≥50,000 mg cumulative) was associated with an adjusted OR of 1.29 (95% CI: 1.231.35) for BCC and 3.98 (95% CI: 3.68-4.31) for SCC. A clear cumulative dose response relationship was observed for both BCC and SCC. Another study showed a possible association between lip cancer (SCC) and exposure to HCTZ: 633 cases of lip-cancer were matched with 63,067 population controls, using a risk-set sampling strategy. A cumulative dose-response relationship was demonstrated with an adjusted OR 2.1 (95% CI: 1.7-2.6) increasing to OR 3.9 (3.0-4.9) for high use (~25,000 mg) and OR 7.7 (5.7-10.5) for the highest cumulative dose (~100,000 mg) (see also section 4.4).
+Based on available data from epidemiological studies, cumulative dose-dependent association between HCTZ and NMSC has been observed. One study included a population comprised of 71,533 cases of BCC and of 8,629 cases of SCC matched to 1,430,833 and 172,462 population controls, respectively. High HCTZ use (≥50,000 mg cumulati ve) was associated with an adjusted OR of 1.29 (95% CI: 1.231.35) for BCC and 3.98 (95% CI: 3.68-4.31) for SCC. A clear cumulative dose response relationship was observed for both BCC and SCC. Another study showed a possible association between lip cancer (SCC) and exposure to HCTZ: 633 cases of lip-cancer were matched with 63,067 population controls, using a risk-set sampling strategy. A cumulative dose-response relationship was demonstrated with an adjusted OR 2.1 (95% CI: 1.7-2.6) increasing to OR 3.9 (3.0-4.9) for high use (~25,000 mg) and OR 7.7 (5.7-10.5) for the highest cumulative dose (~100,000 mg) (see also section 4.4).
 
 <div style=\"page-break-after: always\"></div>
 
@@ -2869,44 +2874,33 @@ In patients with mild to moderate cirrhosis, the pharmacokinetic parameters of i
 
 ## Irbesartan/hydrochlorothiazide
 
-The potential toxicity of the irbesartan/hydrochlorothiazide combination after oral administration was evaluated in rats and macaques in studies lasting up to 6 months. There were no toxicological findings observed of relevance to human therapeutic use.
-
-The following changes, observed in rats and macaques receiving the irbesartan/hydrochlorothiazide combination at 10/10 and 90/90 mg/kg/day, were also seen with one of the two medicinal products alone and/or were secondary to decreases in blood pressure (no significant toxicologic interactions were observed):
-
-- kidney changes, characterized by slight increases in serum urea and creatinine, and hyperplasia/hypertrophy of the juxtaglomerular apparatus, which are a direct consequence of the interaction of irbesartan with the renin-angiotensin system;
-- slight decreases in erythrocyte parameters (erythrocytes, haemoglobin, haematocrit);
-- stomach discoloration, ulcers and focal necrosis of gastric mucosa were observed in few rats in a 6 months toxicity study at irbesartan 90 mg/kg/day, hydrochlorothiazide 90 mg/kg/day, and irbesartan/hydrochlorothiazide 10/10 mg/kg/day. These lesions were not observed in macaques;
-- decreases in serum potassium due to hydrochlorothiazide and partly prevented when hydrochlorothiazide was given in combination with irbesartan.
-
-Most of the above mentioned effects appear to be due to the pharmacological activity of irbesartan (blockade of angiotensin II-induced inhibition of renin release, with stimulation of the renin-producing cells) and occur also with angiotensin converting enzyme inhibitors. These findings appear to have no relevance to the use of therapeutic doses of irbesartan/hydrochlorothiazide in humans.
-
-No teratogenic effects were seen in rats given irbesartan and hydrochlorothiazide in combination at doses that produced maternal toxicity. The effects of the irbesartan/hydrochlorothiazide combination on fertility have not been evaluated in animal studies, as there is no evidence of adverse effect on fertility in animals or humans with either irbesartan or hydrochlorothiazide when administered alone. However, another angiotensin II antagonist affected fertility parameters in animal studies when given alone. These findings were also observed with lower doses of this other angiotensin II antagonist when given in combination with hydrochlorothiazide.
+Results in rats and macaques in studies lasting up to 6 months showed that administration of the combination neither augmented any of the reported toxicities of the single components, nor induced any new toxicities. In addition, no toxicologically synergistic effects were observed.
 
 There was no evidence of mutagenicity or clastogenicity with the irbesartan/hydrochlorothiazide combination. The carcinogenic potential of irbesartan and hydrochlorothiazide in combination has not been evaluated in animal studies.
 
+The effects of the irbesartan/hydrochlorothiazide combination on fertility have not been evaluated in animal studies. No teratogenic effects were seen in rats given irbesartan and hydrochlorothiazide in combination at doses that produced maternal toxicity.
+
 ## Irbesartan
 
-There was no evidence of abnormal systemic or target organ toxicity at clinically relevant doses. In non-clinical safety studies, high doses of irbesartan (≥ 250 mg/kg/day in rats and ≥ 100 mg/kg/day in macaques) caused a reduction of red blood cell parameters (erythrocytes, haemoglobin, haematocrit). At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidneys (such as interstitial nephritis, tubular distention, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced by irbesartan in the rat and the macaque and are considered secondary to the hypotensive effects of the medicinal product which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day). All of these changes were considered to be caused by the pharmacological action of irbesartan. For therapeutic doses of irbesartan in humans, the hyperplasia/hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
+In non-clinical safety studies, high doses of irbesartan caused a reduction of red blood cell parameters. At very high doses degenerative changes in the kidneys (such as interstitial nephritis, tubular distention, basophilic tubules, increased plasma concentrations of urea and creatinine) were induced in the rat and the macaque and are considered secondary to the hypotensive effects of irbesartan which led to decreased renal perfusion. Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells. This finding was considered to be caused by the pharmacological action of irbesartan with little clinical relevance.
 
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
 
-Fertility and reproductive performance were not affected in studies of male and female rats even at oral doses of irbesartan causing some parental toxicity (from 50 to 650 mg/kg/day), including mortality at the highest dose. No significant effects on the number of corpora lutea, implants, or live
+Fertility and reproductive performance were not affected in studies of male and female rats.
 
-<div style=\"page-break-after: always\"></div>
-
-foetuses were observed. Irbesartan did not affect survival, development, or reproduction of offspring. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
-
-Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption was noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit.
+Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth. In rabbits, abortion or early resorption was noted at doses causing significant maternal toxicity, including mortality. No teratogenic effects were observed in the rat or rabbit. Studies in animals indicate that the radiolabelled irbesartan is detected in rat and rabbit foetuses. Irbesartan is excreted in the milk of lactating rats.
 
 ## Hydrochlorothiazide
 
-Equivocal evidence for a genotoxic or carcinogenic effect was found in some experimental models.
+Equivocal evidence of a genotoxic or carcinogenic effect was observed in some experimental models.
 
 ## 6. PHARMACEUTICAL PARTICULARS
 
 ## 6.1 List of excipients
 
 Tablet core Lactose monohydrate Microcrystalline cellulose Croscarmellose sodium Pregelatinised starch Silicon dioxide Magnesium stearate Red and yellow ferric oxides
+
+<div style=\"page-break-after: always\"></div>
 
 Film-coating Lactose monohydrate Hypromellose Titanium dioxide Macrogol 3350 Red and black ferric oxides
 
@@ -2920,7 +2914,9 @@ Not applicable.
 
 ## 6.4 Special precautions for storage
 
-Do not store above 30°C. Store in the original package in order to protect from moisture.
+Do not store above 30°C.
+
+Store in the original package in order to protect from moisture.
 
 ## 6.5 Nature and contents of container
 
@@ -2938,29 +2934,21 @@ Cartons of 90 film-coated tablets in PVC/PVDC/Aluminium blisters.
 
 Cartons of 98 film-coated tablets in PVC/PVDC/Aluminium blisters.
 
-Cartons of 56 x 1 film-coated tablets in PVC/PVDC/Aluminium perforated unit dose blisters.
-
-<div style=\"page-break-after: always\"></div>
+Cartons of 56 × 1 film-coated tablets in PVC/PVDC/Aluminium perforated unit dose blisters.
 
 Not all pack sizes may be marketed.
 
-6.6
-
-Special precautions for disposal
+## 6.6 Special precautions for disposal
 
 Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
 
-7.
-
-MARKETING AUTHORISATION HOLDER
+## 7. MARKETING AUTHORISATION HOLDER
 
 Zentiva k.s. U Kabelovny 130 102 37 Prague 10 Czech Republic
 
 ## 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/06/377/023-028
-
-EU/1/06/377/033-034
+EU/1/06/377/023-028 EU/1/06/377/033-034
 
 ## 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
@@ -2968,23 +2956,20 @@ Date of first authorisation: 19 January 2007
 
 Date of latest renewal: 27 February 2012
 
+<div style=\"page-break-after: always\"></div>
+
 ## 10. DATE OF REVISION OF THE TEXT
 
 Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu/
-
-86
 
 <div style=\"page-break-after: always\"></div>
 
 ## ANNEX II
 
 - A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
-
-## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
-
-## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
-
-## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
+- B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
+- C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
+- D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3008,13 +2993,13 @@ Medicinal product subject to medical prescription.
 
 ## C. OTHER CONDITIONS AND REQUIREMENTS OF THE MARKETING AUTHORISATION
 
-- Periodic safety update reports (PSURs)
+## · Periodic safety update reports (PSURs)
 
 The requirements for submission of PSURs for this medicinal product are set out in the list of Union reference dates (EURD list) provided for under Article 107c(7) of Directive 2001/83/EC and any subsequent updates published on the European medicines web-portal.
 
 ## D. CONDITIONS OR RESTRICTIONS WITH REGARD TO THE SAFE AND EFFECTIVE USE OF THE MEDICINAL PRODUCT
 
-## ▪ Risk management plan (RMP)
+## · Risk management plan (RMP)
 
 The marketing authorisation holder (MAH) shall perform the required pharmacovigilance activities and interventions detailed in the agreed RMP presented in Module 1.8.2 of the marketing authorisation and any agreed subsequent updates of the RMP.
 
@@ -3417,8 +3402,8 @@ Irbesartan Hydrochlorothiazide Zentiva 150 mg/12.5 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -3488,7 +3473,7 @@ Excipients: also contains lactose monohydrate. See leaflet for further informati
 
 56 x 1 tablets
 
-84 tablets
+- 84 tablets
 
 90 tablets
 
@@ -3560,8 +3545,8 @@ Irbesartan Hydrochlorothiazide Zentiva 300 mg/12.5 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -3629,13 +3614,13 @@ Excipients: also contains lactose monohydrate. See leaflet for further informati
 
 - 56 tablets
 
-- 56 x 1 tablets
+56 x 1 tablets
 
 - 84 tablets
 
-- 90 tablets
+90 tablets
 
-- 98 tablets
+98 tablets
 
 ## 5. METHOD AND ROUTE(S) OF ADMINISTRATION
 
@@ -3713,8 +3698,8 @@ Irbesartan Hydrochlorothiazide Zentiva 300 mg/25 mg
 
 <div style=\"page-break-after: always\"></div>
 
-| 18.   | UNIQUE IDENTIFIER -HUMANREADABLE DATA   |
-|-------|-----------------------------------------|
+| 18.   | UNIQUE IDENTIFIER - HUMANREADABLE DATA   |
+|-------|------------------------------------------|
 
 PC SN NN
 
@@ -3800,13 +3785,13 @@ Irbesartan Hydrochlorothiazide Zentiva is used to treat high blood pressure , wh
 
 ## Do not take Irbesartan Hydrochlorothiazide Zentiva
 
-- if you are allergic to irbesartan or any of the other ingredients of this medicine (listed in section 6)
-- if you are allergic to hydrochlorothiazide or any other sulfonamide-derived medicines
-- if you are more than 3 months pregnant . (It is also better to avoid Irbesartan Hydrochlorothiazide Zentiva in early pregnancy - see pregnancy section)
-- if you have severe liver or kidney problems
-- if you have difficulty in producing urine
-- if your doctor determines that you have persistently high calcium or low potassium levels in your blood
-- if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
+-  if you are allergic to irbesartan or any of the other ingredients of this medicine (listed in section 6)
+-  if you are allergic to hydrochlorothiazide or any other sulfonamide-derived medicines
+-  if you are more than 3 months pregnant . (It is also better to avoid Irbesartan Hydrochlorothiazide Zentiva in early pregnancy - see pregnancy section)
+-  if you have severe liver or kidney problems
+-  if you have difficulty in producing urine
+-  if your doctor determines that you have persistently high calcium or low potassium levels in your blood
+-  if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -3814,19 +3799,19 @@ Irbesartan Hydrochlorothiazide Zentiva is used to treat high blood pressure , wh
 
 Talk to your doctor before taking Irbesartan Hydrochlorothiazide Zentiva and if any of the following apply to you:
 
-- if you get excessive vomiting or diarrhoea
-- if you suffer from kidney problems or have a kidney transplant
-- if you suffer from heart problems
-- if you suffer from liver problems
-- if you suffer from diabetes
-- if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heart beat), particularly if you are being treated for diabetes.
-- if you suffer from lupus erythematosus (also known as lupus or SLE)
-- if you suffer from primary aldosteronism (a condition related to high production of the hormone aldosterone, which causes sodium retention and, in turn, an increase in blood pressure).
-- if you are taking any of the following medicines used to treat high blood pressure:
+-  if you get excessive vomiting or diarrhoea
+-  if you suffer from kidney problems or have a kidney transplant
+-  if you suffer from heart problems
+-  if you suffer from liver problems
+-  if you suffer from diabetes
+-  if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heart beat), particularly if you are being treated for diabetes.
+-  if you suffer from lupus erythematosus (also known as lupus or SLE)
+-  if you suffer from primary aldosteronism (a condition related to high production of the hormone aldosterone, which causes sodium retention and, in turn, an increase in blood pressure).
+-  if you are taking any of the following medicines used to treat high blood pressure:
 - o an ACE-inhibitor (for example enalapril, lisinopril, ramipril), in particular if you have diabetes-related kidney problems.
 - o aliskiren.
-- if you have had skin cancer or if you develop an unexpected skin lesion during the treatment. Treatment with hydrochlorothiazide, particularly long term use with high doses, may increase the risk of some types of skin and lip cancer (non-melanoma skin cancer). Protect your skin from sun exposure and UV rays while taking Irbesartan Hydrochlorothiazide Zentiva.
-- if you experienced breathing or lung problems (including inflammation or fluid in the lungs) following hydrochlorothiazide intake in the past. If you develop any severe shortness of breath or difficulty breathing after taking Irbesartan Hydrochlorothiazide Zentiva, seek medical attention immediately.
+-  if you have had skin cancer or if you develop an unexpected skin lesion during the treatment. Treatment with hydrochlorothiazide, particularly long term use with high doses, may increase the risk of some types of skin and lip cancer (non-melanoma skin cancer). Protect your skin from sun exposure and UV rays while taking Irbesartan Hydrochlorothiazide Zentiva.
+-  if you experienced breathing or lung problems (including inflammation or fluid in the lungs) following hydrochlorothiazide intake in the past. If you develop any severe shortness of breath or difficulty breathing after taking Irbesartan Hydrochlorothiazide Zentiva, seek medical attention immediately.
 
 Your doctor may check your kidney function, blood pressure, and the amount of electrolytes (e.g. potassium) in your blood at regular intervals.
 
@@ -3836,11 +3821,11 @@ You must tell your doctor if you think you are (or might become) pregnant. Irbes
 
 ## You should also tell your doctor:
 
-- if you are on a low-salt diet
-- if you have signs such as abnormal thirst , dry mouth , general weakness , drowsiness , muscle pain or cramps , nausea , vomiting , or an abnormally fast heart beat which may indicate an excessive effect of hydrochlorothiazide (contained in Irbesartan Hydrochlorothiazide Zentiva)
-- if you experience an increased sensitivity of the skin to the sun with symptoms of sunburn (such as redness, itching, swelling, blistering) occurring more quickly than normal
-- if you are going to have an operation (surgery) or be given anaesthetics
-- if you have decrease in your vision or pain in one or both of your eyes while taking Irbesartan Hydrochlorothiazide Zentiva. These could be symptoms of fluid accumulation in the vascular layer of the eye (choroidal effusion) or an increase of pressure in your eye (glaucoma) and can happen within hours to weeks of taking Irbesartan Hydrochlorothiazide Zentiva. This can lead to permanent vision loss, if not treated. If you earlier have had a penicillin or sulfonamide allergy, you can be at higher risk of developing this. You should discontinue Irbesartan Hydrochlorothiazide Zentiva treatment and seek prompt medical attention.
+-  if you are on a low-salt diet
+-  if you have signs such as abnormal thirst , dry mouth , general weakness , drowsiness , muscle pain or cramps , nausea , vomiting , or an abnormally fast heart beat which may indicate an excessive effect of hydrochlorothiazide (contained in Irbesartan Hydrochlorothiazide Zentiva)
+-  if you experience an increased sensitivity of the skin to the sun with symptoms of sunburn (such as redness, itching, swelling, blistering) occurring more quickly than normal
+-  if you are going to have an operation (surgery) or be given anaesthetics
+-  if you have decrease in your vision or pain in one or both of your eyes while taking Irbesartan Hydrochlorothiazide Zentiva. These could be symptoms of fluid accumulation in the vascular layer of the eye (choroidal effusion) or an increase of pressure in your eye (glaucoma) and can happen within hours to weeks of taking Irbesartan Hydrochlorothiazide Zentiva. This can lead to permanent vision loss, if not treated. If you earlier have had a penicillin or sulfonamide allergy, you can be at higher risk of developing this. You should discontinue Irbesartan Hydrochlorothiazide Zentiva treatment and seek prompt medical attention.
 
 The hydrochlorothiazide contained in this medicine could produce a positive result in an anti-doping test.
 
@@ -3864,15 +3849,15 @@ If you are taking an ACE-inhibitor or aliskiren (see also information under the 
 
 You may need to have blood checks if you take:
 
-- potassium supplements
-- salt substitutes containing potassium
-- potassium sparing medicines or other diuretics (water tablets)
-- some laxatives
-- medicines for the treatment of gout
-- therapeutic vitamin D supplements
-- medicines to control heart rhythm
-- medicines for diabetes (oral agents as repaglinide or insulins)
-- carbamazepine (a medicine for the treatment of epilepsy).
+-  potassium supplements
+-  salt substitutes containing potassium
+-  potassium sparing medicines or other diuretics (water tablets)
+-  some laxatives
+-  medicines for the treatment of gout
+-  therapeutic vitamin D supplements
+-  medicines to control heart rhythm
+-  medicines for diabetes (oral agents as repaglinide or insulins)
+-  carbamazepine (a medicine for the treatment of epilepsy).
 
 It is also important to tell your doctor if you are taking other medicines to reduce your blood pressure, steroids, medicines to treat cancer, pain killers, arthritis medicines, or colestyramine and colestipol resins for lowering blood cholesterol.
 
@@ -3932,9 +3917,9 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. Some of these effects may be serious and may require medical attention.
 
-Rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan. stop taking Irbesartan
+Rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan.
 
-If you get any of the above symptoms or get short of breath, Hydrochlorothiazide Zentiva and contact your doctor immediately.
+If you get any of the above symptoms or get short of breath, stop taking Irbesartan Hydrochlorothiazide Zentiva and contact your doctor immediately.
 
 The frequency of the side effects listed below is defined using the following convention: Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people
 
@@ -3950,24 +3935,24 @@ Side effects reported in clinical studies for patients treated with Irbesartan H
 
 ## Common side effects (may affect up to 1 in 10 people):
 
-- nausea/vomiting
-- abnormal urination
-- fatigue
-- dizziness (including when getting up from a lying or sitting position)
-- blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase) or raised levels of substances that measure kidney function (blood urea nitrogen, creatinine).
+-  nausea/vomiting
+-  abnormal urination
+-  fatigue
+-  dizziness (including when getting up from a lying or sitting position)
+-  blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase) or raised levels of substances that measure kidney function (blood urea nitrogen, creatinine).
 
 If any of these side effects causes you problems , talk to your doctor.
 
 Uncommon side effects (may affect up to 1 in 100 people):
 
-- diarrhoea
-- low blood pressure
-- fainting
-- heart rate increased
-- flushing
-- swelling
-- sexual dysfunction (problems with sexual performance)
-- blood tests may show lowered levels of potassium and sodium in your blood.
+-  diarrhoea
+-  low blood pressure
+-  fainting
+-  heart rate increased
+-  flushing
+-  swelling
+-  sexual dysfunction (problems with sexual performance)
+-  blood tests may show lowered levels of potassium and sodium in your blood.
 
 If any of these side effects causes you problems , talk to your doctor.
 
@@ -3983,7 +3968,7 @@ In addition to the side effects listed above, chest pain, severe allergic reacti
 
 Rare side effects (may affect up to 1 in 1,000 people):
 
-- intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea
+-  intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea
 
 ## Side effects associated with hydrochlorothiazide alone
 
@@ -3995,7 +3980,7 @@ on the face, neck, and scalp; allergic reactions; weakness and muscle spasm; alt
 
 Very rare side effects (may affect up to 1 in 10,000 people):
 
-- acute respiratory distress (signs include severe shortness of breath, fever, weakness, and confusion).
+-  acute respiratory distress (signs include severe shortness of breath, fever, weakness, and confusion).
 
 Not known (frequency cannot be estimated from the available data): skin and lip cancer (non-melanoma skin cancer); decrease in vision or pain in your eyes due to high pressure (possible signs of fluid accumulation in the vascular layer of the eye (choroidal effusion) or acute angle-closure glaucoma).
 
@@ -4021,8 +4006,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Irbesartan Hydrochlorothiazide Zentiva contains
 
-- The active substances are irbesartan and hydrochlorothiazide. Each tablet of Irbesartan Hydrochlorothiazide Zentiva 150 mg/12.5 mg contains 150 mg irbesartan and 12.5 mg hydrochlorothiazide.
-- The other ingredients are microcrystalline cellulose, croscarmellose sodium, lactose monohydrate, magnesium stearate, colloidal hydrated silica, pregelatinised maize starch, red and yellow ferric oxides (E172). Please see section 2 'Irbesartan Hydrochlorothiazide Zentiva contains lactose'.
+-  The active substances are irbesartan and hydrochlorothiazide. Each tablet of Irbesartan Hydrochlorothiazide Zentiva 150 mg/12.5 mg contains 150 mg irbesartan and 12.5 mg hydrochlorothiazide.
+-  The other ingredients are microcrystalline cellulose, croscarmellose sodium, lactose monohydrate, magnesium stearate, colloidal hydrated silica, pregelatinised maize starch, red and yellow ferric oxides (E172). Please see section 2 'Irbesartan Hydrochlorothiazide Zentiva contains lactose'.
 
 ## What Irbesartan Hydrochlorothiazide Zentiva looks like and contents of the pack
 
@@ -4056,11 +4041,7 @@ Zentiva, k.s. Тел: +35924417136 PV-Bulgaria@zentiva.com
 
 ## Česká republika
 
-Zentiva, k.s.
-
-Tel: +420 267 241 111
-
-PV-Czech-Republic@zentiva.com
+Zentiva, k.s. Tel: +420 267 241 111 PV-Czech-Republic@zentiva.com
 
 ## Danmark
 
@@ -4068,19 +4049,13 @@ Zentiva Denmark ApS Tlf: +45 787 68 400 PV-Denmark@zentiva.com
 
 ## Deutschland
 
-Zentiva Pharma GmbH
-
-Tel: +49 (0) 800 53 53 010
+Zentiva Pharma GmbH Tel: +49 (0) 800 53 53 010
 
 PV-Germany@zentiva.com
 
 ## Eesti
 
-Zentiva, k.s.
-
-Tel: +372 52 70308
-
-PV-Estonia@zentiva.com
+Zentiva, k.s. Tel: +372 52 70308 PV-Estonia@zentiva.com
 
 ## Ελλάδα
 
@@ -4104,11 +4079,7 @@ PV-Luxembourg@zentiva.com
 
 ## Magyarország
 
-Zentiva Pharma Kft.
-
-Tel.: +36 1 299 1058
-
-PV-Hungary@zentiva.com
+Zentiva Pharma Kft. Tel.: +36 1 299 1058 PV-Hungary@zentiva.com
 
 ## Malta
 
@@ -4120,11 +4091,7 @@ PV-Malta@zentiva.com
 
 ## Nederland
 
-Zentiva, k.s.
-
-Tel: +31 202 253 638
-
-PV-Netherlands@zentiva.com
+Zentiva, k.s. Tel: +31 202 253 638 PV-Netherlands@zentiva.com
 
 ## Norge
 
@@ -4134,11 +4101,7 @@ PV-Norway@zentiva.com
 
 ## Österreich
 
-Zentiva, k.s.
-
-Tel: +43 720 778 877
-
-PV-Austria@zentiva.com
+Zentiva, k.s. Tel: +43 720 778 877 PV-Austria@zentiva.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4194,7 +4157,9 @@ PV-Italy@zentiva.com
 
 Zentiva, k.s.
 
-Τηλ: +30 211 198 7510
+Τηλ: +3
+
+0 211 198 7510
 
 PV-Cyprus@zentiva.com
 
@@ -4304,13 +4269,13 @@ Irbesartan Hydrochlorothiazide Zentiva is used to treat high blood pressure , wh
 
 ## Do not take Irbesartan Hydrochlorothiazide Zentiva
 
-- if you are allergic to irbesartan or any of the other ingredients of this medicine (listed in section 6)
-- if you are allergic to hydrochlorothiazide or any other sulfonamide-derived medicines
-- if you are more than 3 months pregnant . (It is also better to avoid Irbesartan Hydrochlorothiazide Zentiva in early pregnancy - see pregnancy section)
-- if you have severe liver or kidney problems
-- if you have difficulty in producing urine
-- if your doctor determines that you have persistently high calcium or low potassium levels in your blood
-- if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
+-  if you are allergic to irbesartan or any of the other ingredients of this medicine (listed in section 6)
+-  if you are allergic to hydrochlorothiazide or any other sulfonamide-derived medicines
+-  if you are more than 3 months pregnant . (It is also better to avoid Irbesartan Hydrochlorothiazide Zentiva in early pregnancy - see pregnancy section)
+-  if you have severe liver or kidney problems
+-  if you have difficulty in producing urine
+-  if your doctor determines that you have persistently high calcium or low potassium levels in your blood
+-  if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4318,19 +4283,19 @@ Irbesartan Hydrochlorothiazide Zentiva is used to treat high blood pressure , wh
 
 Talk to your doctor before taking Irbesartan Hydrochlorothiazide Zentiva and if any of the following apply to you:
 
-- if you get excessive vomiting or diarrhoea
-- if you suffer from kidney problems or have a kidney transplant
-- if you suffer from heart problems
-- if you suffer from liver problems
-- if you suffer from diabetes
-- if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heart beat), particularly if you are being treated for diabetes.
-- if you suffer from lupus erythematosus (also known as lupus or SLE)
-- if you suffer from primary aldosteronism (a condition related to high production of the hormone aldosterone, which causes sodium retention and, in turn, an increase in blood pressure).
-- if you are taking any of the following medicines used to treat high blood pressure:
+-  if you get excessive vomiting or diarrhoea
+-  if you suffer from kidney problems or have a kidney transplant
+-  if you suffer from heart problems
+-  if you suffer from liver problems
+-  if you suffer from diabetes
+-  if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heart beat), particularly if you are being treated for diabetes.
+-  if you suffer from lupus erythematosus (also known as lupus or SLE)
+-  if you suffer from primary aldosteronism (a condition related to high production of the hormone aldosterone, which causes sodium retention and, in turn, an increase in blood pressure).
+-  if you are taking any of the following medicines used to treat high blood pressure:
 - o an ACE-inhibitor (for example enalapril, lisinopril, ramipril), in particular if you have diabetes-related kidney problems.
 - o aliskiren.
-- if you have had skin cancer or if you develop an unexpected skin lesion during the treatment. Treatment with hydrochlorothiazide, particularly long term use with high doses, may increase the risk of some types of skin and lip cancer (non-melanoma skin cancer). Protect your skin from sun exposure and UV rays while taking Irbesartan Hydrochlorothiazide Zentiva.
-- if you experienced breathing or lung problems (including inflammation or fluid in the lungs) following hydrochlorothiazide intake in the past. If you develop any severe shortness of breath or difficulty breathing after taking Irbesartan Hydrochlorothiazide Zentiva, seek medical attention immediately.
+-  if you have had skin cancer or if you develop an unexpected skin lesion during the treatment. Treatment with hydrochlorothiazide, particularly long term use with high doses, may increase the risk of some types of skin and lip cancer (non-melanoma skin cancer). Protect your skin from sun exposure and UV rays while taking Irbesartan Hydrochlorothiazide Zentiva.
+-  if you experienced breathing or lung problems (including inflammation or fluid in the lungs) following hydrochlorothiazide intake in the past. If you develop any severe shortness of breath or difficulty breathing after taking Irbesartan Hydrochlorothiazide Zentiva, seek medical attention immediately.
 
 Your doctor may check your kidney function, blood pressure, and the amount of electrolytes (e.g. potassium) in your blood at regular intervals.
 
@@ -4340,11 +4305,11 @@ You must tell your doctor if you think you are (or might become) pregnant. Irbes
 
 ## You should also tell your doctor:
 
-- if you are on a low-salt diet
-- if you have signs such as abnormal thirst , dry mouth , general weakness , drowsiness , muscle pain or cramps , nausea , vomiting , or an abnormally fast heart beat which may indicate an excessive effect of hydrochlorothiazide (contained in Irbesartan Hydrochlorothiazide Zentiva)
-- if you experience an increased sensitivity of the skin to the sun with symptoms of sunburn (such as redness, itching, swelling, blistering) occurring more quickly than normal
-- if you are going to have an operation (surgery) or be given anaesthetics
-- if you have decrease in your vision or pain in one or both of your eyes while taking Irbesartan Hydrochlorothiazide Zentiva. These could be symptoms of fluid accumulation in the vascular layer of the eye (choroidal effusion) or an increase of pressure in your eye (glaucoma) and can happen within hours to weeks of taking Irbesartan Hydrochlorothiazide Zentiva. This can lead to permanent vision loss, if not treated. If you earlier have had a penicillin or sulfonamide allergy, you can be at higher risk of developing this. You should discontinue Irbesartan Hydrochlorothiazide Zentiva treatment and seek prompt medical attention.
+-  if you are on a low-salt diet
+-  if you have signs such as abnormal thirst , dry mouth , general weakness , drowsiness , muscle pain or cramps , nausea , vomiting , or an abnormally fast heart beat which may indicate an excessive effect of hydrochlorothiazide (contained in Irbesartan Hydrochlorothiazide Zentiva)
+-  if you experience an increased sensitivity of the skin to the sun with symptoms of sunburn (such as redness, itching, swelling, blistering) occurring more quickly than normal
+-  if you are going to have an operation (surgery) or be given anaesthetics
+-  if you have decrease in your vision or pain in one or both of your eyes while taking Irbesartan Hydrochlorothiazide Zentiva. These could be symptoms of fluid accumulation in the vascular layer of the eye (choroidal effusion) or an increase of pressure in your eye (glaucoma) and can happen within hours to weeks of taking Irbesartan Hydrochlorothiazide Zentiva. This can lead to permanent vision loss, if not treated. If you earlier have had a penicillin or sulfonamide allergy, you can be at higher risk of developing this. You should discontinue Irbesartan Hydrochlorothiazide Zentiva treatment and seek prompt medical attention.
 
 The hydrochlorothiazide contained in this medicine could produce a positive result in an anti-doping test.
 
@@ -4368,15 +4333,15 @@ If you are taking an ACE-inhibitor or aliskiren (see also information under the 
 
 You may need to have blood checks if you take:
 
-- potassium supplements
-- salt substitutes containing potassium
-- potassium sparing medicines or other diuretics (water tablets)
-- some laxatives
-- medicines for the treatment of gout
-- therapeutic vitamin D supplements
-- medicines to control heart rhythm
-- medicines for diabetes (oral agents as repaglinide or insulins)
-- carbamazepine (a medicine for the treatment of epilepsy).
+-  potassium supplements
+-  salt substitutes containing potassium
+-  potassium sparing medicines or other diuretics (water tablets)
+-  some laxatives
+-  medicines for the treatment of gout
+-  therapeutic vitamin D supplements
+-  medicines to control heart rhythm
+-  medicines for diabetes (oral agents as repaglinide or insulins)
+-  carbamazepine (a medicine for the treatment of epilepsy).
 
 It is also important to tell your doctor if you are taking other medicines to reduce your blood pressure, steroids, medicines to treat cancer, pain killers, arthritis medicines, or colestyramine and colestipol resins for lowering blood cholesterol.
 
@@ -4436,9 +4401,9 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. Some of these effects may be serious and may require medical attention.
 
-Rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan.
+Rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan. stop taking Irbesartan
 
-If you get any of the above symptoms or get short of breath, stop taking Irbesartan Hydrochlorothiazide Zentiva and contact your doctor immediately.
+If you get any of the above symptoms or get short of breath, Hydrochlorothiazide Zentiva and contact your doctor immediately.
 
 The frequency of the side effects listed below is defined using the following convention: Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people
 
@@ -4454,24 +4419,24 @@ Side effects reported in clinical studies for patients treated with Irbesartan H
 
 ## Common side effects (may affect up to 1 in 10 people):
 
-- nausea/vomiting
-- abnormal urination
-- fatigue
-- dizziness (including when getting up from a lying or sitting position)
-- blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase) or raised levels of substances that measure kidney function (blood urea nitrogen, creatinine).
+-  nausea/vomiting
+-  abnormal urination
+-  fatigue
+-  dizziness (including when getting up from a lying or sitting position)
+-  blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase) or raised levels of substances that measure kidney function (blood urea nitrogen, creatinine).
 
 If any of these side effects causes you problems , talk to your doctor.
 
 Uncommon side effects (may affect up to 1 in 100 people):
 
-- diarrhoea
-- low blood pressure
-- fainting
-- heart rate increased
-- flushing
-- swelling
-- sexual dysfunction (problems with sexual performance)
-- blood tests may show lowered levels of potassium and sodium in your blood.
+-  diarrhoea
+-  low blood pressure
+-  fainting
+-  heart rate increased
+-  flushing
+-  swelling
+-  sexual dysfunction (problems with sexual performance)
+-  blood tests may show lowered levels of potassium and sodium in your blood.
 
 If any of these side effects causes you problems , talk to your doctor.
 
@@ -4487,7 +4452,7 @@ In addition to the side effects listed above, chest pain, severe allergic reacti
 
 Rare side effects (may affect up to 1 in 1,000 people):
 
-- intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea
+-  intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea
 
 ## Side effects associated with hydrochlorothiazide alone
 
@@ -4499,7 +4464,7 @@ on the face, neck, and scalp; allergic reactions; weakness and muscle spasm; alt
 
 Very rare side effects (may affect up to 1 in 10,000 people):
 
-- acute respiratory distress (signs include severe shortness of breath, fever, weakness, and confusion).
+-  acute respiratory distress (signs include severe shortness of breath, fever, weakness, and confusion).
 
 Not known (frequency cannot be estimated from the available data): skin and lip cancer (nonmelanoma skin cancer); decrease in vision or pain in your eyes due to high pressure (possible signs of fluid accumulation in the vascular layer of the eye (choroidal effusion) or acute angle-closure glaucoma).
 
@@ -4525,8 +4490,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Irbesartan Hydrochlorothiazide Zentiva contains
 
-- The active substances are irbesartan and hydrochlorothiazide. Each tablet of Irbesartan Hydrochlorothiazide Zentiva 300 mg/12.5 mg contains 300 mg irbesartan and 12.5 mg hydrochlorothiazide.
-- The other ingredients are microcrystalline cellulose, croscarmellose sodium, lactose monohydrate, magnesium stearate, colloidal hydrated silica, pregelatinised maize starch, red and yellow ferric oxides (E172). Please see section 2 'Irbesartan Hydrochlorothiazide Zentiva contains lactose'.
+-  The active substances are irbesartan and hydrochlorothiazide. Each tablet of Irbesartan Hydrochlorothiazide Zentiva 300 mg/12.5 mg contains 300 mg irbesartan and 12.5 mg hydrochlorothiazide.
+-  The other ingredients are microcrystalline cellulose, croscarmellose sodium, lactose monohydrate, magnesium stearate, colloidal hydrated silica, pregelatinised maize starch, red and yellow ferric oxides (E172). Please see section 2 'Irbesartan Hydrochlorothiazide Zentiva contains lactose'.
 
 ## What Irbesartan Hydrochlorothiazide Zentiva looks like and contents of the pack
 
@@ -4560,35 +4525,21 @@ Zentiva, k.s. Тел: +35924417136 PV-Bulgaria@zentiva.com
 
 ## Česká republika
 
-Zentiva, k.s.
-
-Tel: +420 267 241 111
-
-PV-Czech-Republic@zentiva.com
+Zentiva, k.s. Tel: +420 267 241 111 PV-Czech-Republic@zentiva.com
 
 ## Danmark
 
-Zentiva Denmark ApS
-
-Tlf: +45 787 68 400
-
-PV-Denmark@zentiva.com
+Zentiva Denmark ApS Tlf: +45 787 68 400 PV-Denmark@zentiva.com
 
 ## Deutschland
 
-Zentiva Pharma GmbH
-
-Tel: +49 (0) 800 53 53 010
+Zentiva Pharma GmbH Tel: +49 (0) 800 53 53 010
 
 PV-Germany@zentiva.com
 
 ## Eesti
 
-Zentiva, k.s.
-
-Tel: +372 52 70308
-
-PV-Estonia@zentiva.com
+Zentiva, k.s. Tel: +372 52 70308 PV-Estonia@zentiva.com
 
 ## Ελλάδα
 
@@ -4612,11 +4563,7 @@ PV-Luxembourg@zentiva.com
 
 ## Magyarország
 
-Zentiva Pharma Kft.
-
-Tel.: +36 1 299 1058
-
-PV-Hungary@zentiva.com
+Zentiva Pharma Kft. Tel.: +36 1 299 1058 PV-Hungary@zentiva.com
 
 ## Malta
 
@@ -4628,11 +4575,7 @@ PV-Malta@zentiva.com
 
 ## Nederland
 
-Zentiva, k.s.
-
-Tel: +31 202 253 638
-
-PV-Netherlands@zentiva.com
+Zentiva, k.s. Tel: +31 202 253 638 PV-Netherlands@zentiva.com
 
 ## Norge
 
@@ -4642,11 +4585,7 @@ PV-Norway@zentiva.com
 
 ## Österreich
 
-Zentiva, k.s.
-
-Tel: +43 720 778 877
-
-PV-Austria@zentiva.com
+Zentiva, k.s. Tel: +43 720 778 877 PV-Austria@zentiva.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -4702,7 +4641,9 @@ PV-Italy@zentiva.com
 
 Zentiva, k.s.
 
-Τηλ: +30 211 198 7510
+Τηλ: +3
+
+0 211 198 7510
 
 PV-Cyprus@zentiva.com
 
@@ -4812,35 +4753,33 @@ Irbesartan Hydrochlorothiazide Zentiva is used to treat high blood pressure , wh
 
 ## Do not take Irbesartan Hydrochlorothiazide Zentiva
 
-- if you are allergic to irbesartan or any of the other ingredients of this medicine (listed in section 6)
-- if you are allergic to hydrochlorothiazide or any other sulfonamide-derived medicines
-- if you are more than 3 months pregnant . (It is also better to avoid Irbesartan Hydrochlorothiazide Zentiva in early pregnancy - see pregnancy section)
-- if you have severe liver or kidney problems
-- if you have difficulty in producing urine
-- if your doctor determines that you have persistently high calcium or low potassium levels in your blood
-- if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
+-  if you are allergic to irbesartan or any of the other ingredients of this medicine (listed in section 6)
+-  if you are allergic to hydrochlorothiazide or any other sulfonamide-derived medicines
+-  if you are more than 3 months pregnant . (It is also better to avoid Irbesartan Hydrochlorothiazide Zentiva in early pregnancy - see pregnancy section)
+-  if you have severe liver or kidney problems
+-  if you have difficulty in producing urine
+-  if your doctor determines that you have persistently high calcium or low potassium levels in your blood
+-  if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
 
 <div style=\"page-break-after: always\"></div>
 
 ## Warnings and precautions
 
-Talk to your doctor before taking Irbesartan Hydrochlorothiazide Zentiva and if any of the following
+Talk to your doctor before taking Irbesartan Hydrochlorothiazide Zentiva and if any of the following apply to you:
 
-## apply to you:
-
-- if you get excessive vomiting or diarrhoea
-- if you suffer from kidney problems or have a kidney transplant
-- if you suffer from heart problems
-- if you suffer from liver problems
-- if you suffer from diabetes
-- if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heart beat), particularly if you are being treated for diabetes.
-- if you suffer from lupus erythematosus (also known as lupus or SLE)
-- if you suffer from primary aldosteronism (a condition related to high production of the hormone aldosterone, which causes sodium retention and, in turn, an increase in blood pressure).
-- if you are taking any of the following medicines used to treat high blood pressure:
+-  if you get excessive vomiting or diarrhoea
+-  if you suffer from kidney problems or have a kidney transplant
+-  if you suffer from heart problems
+-  if you suffer from liver problems
+-  if you suffer from diabetes
+-  if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heart beat), particularly if you are being treated for diabetes.
+-  if you suffer from lupus erythematosus (also known as lupus or SLE)
+-  if you suffer from primary aldosteronism (a condition related to high production of the hormone aldosterone, which causes sodium retention and, in turn, an increase in blood pressure).
+-  if you are taking any of the following medicines used to treat high blood pressure:
 - o an ACE-inhibitor (for example enalapril, lisinopril, ramipril), in particular if you have diabetes-related kidney problems.
 - o aliskiren.
-- if you have had skin cancer or if you develop an unexpected skin lesion during the treatment. Treatment with hydrochlorothiazide, particularly long term use with high doses, may increase the risk of some types of skin and lip cancer (non-melanoma skin cancer). Protect your skin from sun exposure and UV rays while taking Irbesartan Hydrochlorothiazide Zentiva.
-- if you experienced breathing or lung problems (including inflammation or fluid in the lungs) following hydrochlorothiazide intake in the past. If you develop any severe shortness of breath or difficulty breathing after taking Irbesartan Hydrochlorothiazide Zentiva, seek medical attention immediately.
+-  if you have had skin cancer or if you develop an unexpected skin lesion during the treatment. Treatment with hydrochlorothiazide, particularly long term use with high doses, may increase the risk of some types of skin and lip cancer (non-melanoma skin cancer). Protect your skin from sun exposure and UV rays while taking Irbesartan Hydrochlorothiazide Zentiva.
+-  if you experienced breathing or lung problems (including inflammation or fluid in the lungs) following hydrochlorothiazide intake in the past. If you develop any severe shortness of breath or difficulty breathing after taking Irbesartan Hydrochlorothiazide Zentiva, seek medical attention immediately.
 
 Your doctor may check your kidney function, blood pressure, and the amount of electrolytes (e.g. potassium) in your blood at regular intervals.
 
@@ -4850,11 +4789,11 @@ You must tell your doctor if you think you are (or might become) pregnant. Irbes
 
 ## You should also tell your doctor:
 
-- if you are on a low-salt diet
-- if you have signs such as abnormal thirst , dry mouth , general weakness , drowsiness , muscle pain or cramps , nausea , vomiting , or an abnormally fast heart beat which may indicate an excessive effect of hydrochlorothiazide (contained in Irbesartan Hydrochlorothiazide Zentiva)
-- if you experience an increased sensitivity of the skin to the sun with symptoms of sunburn (such as redness, itching, swelling, blistering) occurring more quickly than normal
-- if you are going to have an operation (surgery) or be given anaesthetics
-- if you have decrease in your vision or pain in one or both of your eyes while taking Irbesartan Hydrochlorothiazide Zentiva. These could be symptoms of fluid accumulation in the vascular layer of the eye (choroidal effusion) or an increase of pressure in your eye (glaucoma) and can happen within hours to weeks of taking Irbesartan Hydrochlorothiazide Zentiva. This can lead to permanent vision loss, if not treated. If you earlier have had a penicillin or sulfonamide allergy, you can be at higher risk of developing this. You should discontinue Irbesartan Hydrochlorothiazide Zentiva treatment and seek prompt medical attention.
+-  if you are on a low-salt diet
+-  if you have signs such as abnormal thirst , dry mouth , general weakness , drowsiness , muscle pain or cramps , nausea , vomiting , or an abnormally fast heart beat which may indicate an excessive effect of hydrochlorothiazide (contained in Irbesartan Hydrochlorothiazide Zentiva)
+-  if you experience an increased sensitivity of the skin to the sun with symptoms of sunburn (such as redness, itching, swelling, blistering) occurring more quickly than normal
+-  if you are going to have an operation (surgery) or be given anaesthetics
+-  if you have decrease in your vision or pain in one or both of your eyes while taking Irbesartan Hydrochlorothiazide Zentiva. These could be symptoms of fluid accumulation in the vascular layer of the eye (choroidal effusion) or an increase of pressure in your eye (glaucoma) and can happen within hours to weeks of taking Irbesartan Hydrochlorothiazide Zentiva. This can lead to permanent vision loss, if not treated. If you earlier have had a penicillin or sulfonamide allergy, you can be at higher risk of developing this. You should discontinue Irbesartan Hydrochlorothiazide Zentiva treatment and seek prompt medical attention.
 
 The hydrochlorothiazide contained in this medicine could produce a positive result in an anti-doping test.
 
@@ -4878,15 +4817,15 @@ If you are taking an ACE-inhibitor or aliskiren (see also information under the 
 
 ## You may need to have blood checks if you take:
 
-- potassium supplements
-- salt substitutes containing potassium
-- potassium sparing medicines or other diuretics (water tablets)
-- some laxatives
-- medicines for the treatment of gout
-- therapeutic vitamin D supplements
-- medicines to control heart rhythm
-- medicines for diabetes (oral agents as repaglinide or insulins)
-- carbamazepine (a medicine for the treatment of epilepsy).
+-  potassium supplements
+-  salt substitutes containing potassium
+-  potassium sparing medicines or other diuretics (water tablets)
+-  some laxatives
+-  medicines for the treatment of gout
+-  therapeutic vitamin D supplements
+-  medicines to control heart rhythm
+-  medicines for diabetes (oral agents as repaglinide or insulins)
+-  carbamazepine (a medicine for the treatment of epilepsy).
 
 It is also important to tell your doctor if you are taking other medicines to reduce your blood pressure, steroids, medicines to treat cancer, pain killers, arthritis medicines, or colestyramine and colestipol resins for lowering blood cholesterol.
 
@@ -4946,9 +4885,9 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. Some of these effects may be serious and may require medical attention.
 
-Rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan.
+Rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan. stop taking Irbesartan
 
-If you get any of the above symptoms or get short of breath, stop taking Irbesartan Hydrochlorothiazide Zentiva and contact your doctor immediately.
+If you get any of the above symptoms or get short of breath, Hydrochlorothiazide Zentiva and contact your doctor immediately.
 
 The frequency of the side effects listed below is defined using the following convention: Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people
 
@@ -4964,24 +4903,24 @@ Side effects reported in clinical studies for patients treated with Irbesartan H
 
 ## Common side effects (may affect up to 1 in 10 people):
 
-- nausea/vomiting
-- abnormal urination
-- fatigue
-- dizziness (including when getting up from a lying or sitting position)
-- blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase) or raised levels of substances that measure kidney function (blood urea nitrogen, creatinine).
+-  nausea/vomiting
+-  abnormal urination
+-  fatigue
+-  dizziness (including when getting up from a lying or sitting position)
+-  blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase) or raised levels of substances that measure kidney function (blood urea nitrogen, creatinine).
 
 If any of these side effects causes you problems , talk to your doctor.
 
 Uncommon side effects (may affect up to 1 in 100 people):
 
-- diarrhoea
-- low blood pressure
-- fainting
-- heart rate increased
-- flushing
-- swelling
-- sexual dysfunction (problems with sexual performance)
-- blood tests may show lowered levels of potassium and sodium in your blood.
+-  diarrhoea
+-  low blood pressure
+-  fainting
+-  heart rate increased
+-  flushing
+-  swelling
+-  sexual dysfunction (problems with sexual performance)
+-  blood tests may show lowered levels of potassium and sodium in your blood.
 
 If any of these side effects causes you problems , talk to your doctor.
 
@@ -4997,7 +4936,7 @@ In addition to the side effects listed above, chest pain, severe allergic reacti
 
 Rare side effects (may affect up to 1 in 1,000 people):
 
-- intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea
+-  intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea
 
 ## Side effects associated with hydrochlorothiazide alone
 
@@ -5009,7 +4948,7 @@ on the face, neck, and scalp; allergic reactions; weakness and muscle spasm; alt
 
 Very rare side effects (may affect up to 1 in 10,000 people):
 
-- acute respiratory distress (signs include severe shortness of breath, fever, weakness, and confusion).
+-  acute respiratory distress (signs include severe shortness of breath, fever, weakness, and confusion).
 
 Not known (frequency cannot be estimated from the available data): skin and lip cancer (nonmelanoma skin cancer); decrease in vision or pain in your eyes due to high pressure (possible signs of fluid accumulation in the vascular layer of the eye (choroidal effusion) or acute angle-closure glaucoma).
 
@@ -5035,8 +4974,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Irbesartan Hydrochlorothiazide Zentiva contains
 
-- The active substances are irbesartan and hydrochlorothiazide. Each film-coated tablet of Irbesartan Hydrochlorothiazide Zentiva 150 mg/12.5 mg contains 150 mg irbesartan and 12.5 mg hydrochlorothiazide.
-- The other ingredients are lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, hypromellose, silicon dioxide, magnesium stearate, titanium dioxide, macrogol 3000, red and yellow ferric oxides. Please see section 2 'Irbesartan Hydrochlorothiazide Zentiva contains lactose'.
+-  The active substances are irbesartan and hydrochlorothiazide. Each film-coated tablet of Irbesartan Hydrochlorothiazide Zentiva 150 mg/12.5 mg contains 150 mg irbesartan and 12.5 mg hydrochlorothiazide.
+-  The other ingredients are lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, hypromellose, silicon dioxide, magnesium stearate, titanium dioxide, macrogol 3000, red and yellow ferric oxides. Please see section 2 'Irbesartan Hydrochlorothiazide Zentiva contains lactose'.
 
 ## What Irbesartan Hydrochlorothiazide Zentiva looks like and contents of the pack
 
@@ -5070,43 +5009,43 @@ For any information about this medicine, please contact the local representative
 
 Zentiva, k.s. Tél/Tel: +32 (78) 700 112 PV-Belgium@zentiva.com
 
-## Lietuva
-
-Zentiva, k.s. Tel: +370 52152025 PV-Lithuania@zentiva.com
-
 ## България
 
 Zentiva, k.s. Тел: +35924417136 PV-Bulgaria@zentiva.com
-
-## Luxembourg/Luxemburg
-
-Zentiva, k.s. Tél/Tel: +352 208 82330 PV-Luxembourg@zentiva.com
 
 ## Česká republika
 
 Zentiva, k.s. Tel: +420 267 241 111 PV-Czech-Republic@zentiva.com
 
-## Magyarország
-
-Zentiva Pharma Kft. Tel.: +36 1 299 1058 PV-Hungary@zentiva.com
-
 ## Danmark
 
 Zentiva Denmark ApS Tlf: +45 787 68 400 PV-Denmark@zentiva.com
-
-## Malta
-
-Zentiva, k.s.
-
-Tel: +356 2034 1796
-
-PV-Malta@zentiva.com
 
 ## Deutschland
 
 Zentiva Pharma GmbH Tel: +49 (0) 800 53 53 010
 
 PV-Germany@zentiva.com
+
+## Lietuva
+
+Zentiva, k.s. Tel: +370 52152025 PV-Lithuania@zentiva.com
+
+## Luxembourg/Luxemburg
+
+Zentiva, k.s.
+
+Tél/Tel: +352 208 82330
+
+PV-Luxembourg@zentiva.com
+
+## Magyarország
+
+Zentiva Pharma Kft. Tel.: +36 1 299 1058 PV-Hungary@zentiva.com
+
+## Malta
+
+Zentiva, k.s. Tel: +356 2034 1796 PV-Malta@zentiva.com
 
 ## Nederland
 
@@ -5130,7 +5069,9 @@ PV-Estonia@zentiva.com
 
 Zentiva, k.s.
 
-Τηλ: +30 211 198 7510
+Τηλ: +30
+
+211 198 7510
 
 PV-Greece@zentiva.com
 
@@ -5186,7 +5127,9 @@ PV-Italy@zentiva.com
 
 Zentiva, k.s.
 
-Τηλ: +30 211 198  7510
+Τηλ: +3
+
+0 211 198 7510
 
 PV-Cyprus@zentiva.com
 
@@ -5312,13 +5255,13 @@ Irbesartan Hydrochlorothiazide Zentiva is used to treat high blood pressure , wh
 
 ## Do not take Irbesartan Hydrochlorothiazide Zentiva
 
-- if you are allergic to irbesartan or any of the other ingredients of this medicine (listed in section 6)
-- if you are allergic to hydrochlorothiazide or any other sulfonamide-derived medicines
-- if you are more than 3 months pregnant . (It is also better to avoid Irbesartan Hydrochlorothiazide Zentiva in early pregnancy - see pregnancy section)
-- if you have severe liver or kidney problems
-- if you have difficulty in producing urine
-- if your doctor determines that you have persistently high calcium or low potassium levels in your blood
-- if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
+-  if you are allergic to irbesartan or any of the other ingredients of this medicine (listed in section 6)
+-  if you are allergic to hydrochlorothiazide or any other sulfonamide-derived medicines
+-  if you are more than 3 months pregnant . (It is also better to avoid Irbesartan Hydrochlorothiazide Zentiva in early pregnancy - see pregnancy section)
+-  if you have severe liver or kidney problems
+-  if you have difficulty in producing urine
+-  if your doctor determines that you have persistently high calcium or low potassium levels in your blood
+-  if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5326,19 +5269,19 @@ Irbesartan Hydrochlorothiazide Zentiva is used to treat high blood pressure , wh
 
 Talk to your doctor before taking Irbesartan Hydrochlorothiazide Zentiva and if any of the following apply to you:
 
-- if you get excessive vomiting or diarrhoea
-- if you suffer from kidney problems or have a kidney transplant
-- if you suffer from heart problems
-- if you suffer from liver problems
-- if you suffer from diabetes
-- if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heart beat), particularly if you are being treated for diabetes.
-- if you suffer from lupus erythematosus (also known as lupus or SLE)
-- if you suffer from primary aldosteronism (a condition related to high production of the hormone aldosterone, which causes sodium retention and, in turn, an increase in blood pressure).
-- if you are taking any of the following medicines used to treat high blood pressure:
+-  if you get excessive vomiting or diarrhoea
+-  if you suffer from kidney problems or have a kidney transplant
+-  if you suffer from heart problems
+-  if you suffer from liver problems
+-  if you suffer from diabetes
+-  if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heart beat), particularly if you are being treated for diabetes.
+-  if you suffer from lupus erythematosus (also known as lupus or SLE)
+-  if you suffer from primary aldosteronism (a condition related to high production of the hormone aldosterone, which causes sodium retention and, in turn, an increase in blood pressure).
+-  if you are taking any of the following medicines used to treat high blood pressure:
 - o an ACE-inhibitor (for example enalapril, lisinopril, ramipril), in particular if you have diabetes-related kidney problems.
 - o aliskiren.
-- if you have had skin cancer or if you develop an unexpected skin lesion during the treatment. Treatment with hydrochlorothiazide, particularly long term use with high doses, may increase the risk of some types of skin and lip cancer (non-melanoma skin cancer). Protect your skin from sun exposure and UV rays while taking Irbesartan Hydrochlorothiazide Zentiva.
-- if you experienced breathing or lung problems (including inflammation or fluid in the lungs) following hydrochlorothiazide intake in the past. If you develop any severe shortness of breath or difficulty breathing after taking Irbesartan Hydrochlorothiazide Zentiva, seek medical attention immediately.
+-  if you have had skin cancer or if you develop an unexpected skin lesion during the treatment. Treatment with hydrochlorothiazide, particularly long term use with high doses, may increase the risk of some types of skin and lip cancer (non-melanoma skin cancer). Protect your skin from sun exposure and UV rays while taking Irbesartan Hydrochlorothiazide Zentiva.
+-  if you experienced breathing or lung problems (including inflammation or fluid in the lungs) following hydrochlorothiazide intake in the past. If you develop any severe shortness of breath or difficulty breathing after taking Irbesartan Hydrochlorothiazide Zentiva, seek medical attention immediately.
 
 Your doctor may check your kidney function, blood pressure, and the amount of electrolytes (e.g. potassium) in your blood at regular intervals.
 
@@ -5348,11 +5291,11 @@ You must tell your doctor if you think you are (or might become) pregnant. Irbes
 
 ## You should also tell your doctor:
 
-- if you are on a low-salt diet
-- if you have signs such as abnormal thirst , dry mouth , general weakness , drowsiness , muscle pain or cramps , nausea , vomiting , or an abnormally fast heart beat which may indicate an excessive effect of hydrochlorothiazide (contained in Irbesartan Hydrochlorothiazide Zentiva)
-- if you experience an increased sensitivity of the skin to the sun with symptoms of sunburn (such as redness, itching, swelling, blistering) occurring more quickly than normal
-- if you are going to have an operation (surgery) or be given anaesthetics
-- if you have decrease in your vision or pain in one or both of your eyes while taking Irbesartan Hydrochlorothiazide Zentiva. These could be symptoms of fluid accumulation in the vascular layer of the eye (choroidal effusion) or an increase of pressure in your eye (glaucoma) and can happen within hours to weeks of taking Irbesartan Hydrochlorothiazide Zentiva. This can lead to permanent vision loss, if not treated. If you earlier have had a penicillin or sulfonamide allergy, you can be at higher risk of developing this. You should discontinue Irbesartan Hydrochlorothiazide Zentiva treatment and seek prompt medical attention.
+-  if you are on a low-salt diet
+-  if you have signs such as abnormal thirst , dry mouth , general weakness , drowsiness , muscle pain or cramps , nausea , vomiting , or an abnormally fast heart beat which may indicate an excessive effect of hydrochlorothiazide (contained in Irbesartan Hydrochlorothiazide Zentiva)
+-  if you experience an increased sensitivity of the skin to the sun with symptoms of sunburn (such as redness, itching, swelling, blistering) occurring more quickly than normal
+-  if you are going to have an operation (surgery) or be given anaesthetics
+-  if you have decrease in your vision or pain in one or both of your eyes while taking Irbesartan Hydrochlorothiazide Zentiva. These could be symptoms of fluid accumulation in the vascular layer of the eye (choroidal effusion) or an increase of pressure in your eye (glaucoma) and can happen within hours to weeks of taking Irbesartan Hydrochlorothiazide Zentiva. This can lead to permanent vision loss, if not treated. If you earlier have had a penicillin or sulfonamide allergy, you can be at higher risk of developing this. You should discontinue Irbesartan Hydrochlorothiazide Zentiva treatment and seek prompt medical attention.
 
 The hydrochlorothiazide contained in this medicine could produce a positive result in an anti-doping test.
 
@@ -5376,15 +5319,15 @@ If you are taking an ACE-inhibitor or aliskiren (see also information under the 
 
 You may need to have blood checks if you take:
 
-- potassium supplements
-- salt substitutes containing potassium
-- potassium sparing medicines or other diuretics (water tablets)
-- some laxatives
-- medicines for the treatment of gout
-- therapeutic vitamin D supplements
-- medicines to control heart rhythm
-- medicines for diabetes (oral agents as repaglinide or insulins)
-- carbamazepine (a medicine for the treatment of epilepsy).
+-  potassium supplements
+-  salt substitutes containing potassium
+-  potassium sparing medicines or other diuretics (water tablets)
+-  some laxatives
+-  medicines for the treatment of gout
+-  therapeutic vitamin D supplements
+-  medicines to control heart rhythm
+-  medicines for diabetes (oral agents as repaglinide or insulins)
+-  carbamazepine (a medicine for the treatment of epilepsy).
 
 It is also important to tell your doctor if you are taking other medicines to reduce your blood pressure, steroids, medicines to treat cancer, pain killers, arthritis medicines, or colestyramine and colestipol resins for lowering blood cholesterol.
 
@@ -5444,9 +5387,9 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. Some of these effects may be serious and may require medical attention.
 
-Rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan.
+Rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan. stop taking Irbesartan
 
-If you get any of the above symptoms or get short of breath, stop taking Irbesartan Hydrochlorothiazide Zentiva and contact your doctor immediately.
+If you get any of the above symptoms or get short of breath, Hydrochlorothiazide Zentiva and contact your doctor immediately.
 
 The frequency of the side effects listed below is defined using the following convention: Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people
 
@@ -5462,24 +5405,24 @@ Side effects reported in clinical studies for patients treated with Irbesartan H
 
 ## Common side effects (may affect up to 1 in 10 people):
 
-- nausea/vomiting
-- abnormal urination
-- fatigue
-- dizziness (including when getting up from a lying or sitting position)
-- blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase) or raised levels of substances that measure kidney function (blood urea nitrogen, creatinine).
+-  nausea/vomiting
+-  abnormal urination
+-  fatigue
+-  dizziness (including when getting up from a lying or sitting position)
+-  blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase) or raised levels of substances that measure kidney function (blood urea nitrogen, creatinine).
 
 If any of these side effects causes you problems , talk to your doctor.
 
 Uncommon side effects (may affect up to 1 in 100 people):
 
-- diarrhoea
-- low blood pressure
-- fainting
-- heart rate increased
-- flushing
-- swelling
-- sexual dysfunction (problems with sexual performance)
-- blood tests may show lowered levels of potassium and sodium in your blood.
+-  diarrhoea
+-  low blood pressure
+-  fainting
+-  heart rate increased
+-  flushing
+-  swelling
+-  sexual dysfunction (problems with sexual performance)
+-  blood tests may show lowered levels of potassium and sodium in your blood.
 
 If any of these side effects causes you problems , talk to your doctor.
 
@@ -5495,7 +5438,7 @@ In addition to the side effects listed above, chest pain, severe allergic reacti
 
 Rare side effects (may affect up to 1 in 1,000 people):
 
-- intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea
+-  intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea
 
 ## Side effects associated with hydrochlorothiazide alone
 
@@ -5507,7 +5450,7 @@ skin all over the body; cutaneous lupus erythematosus, which is identified by a 
 
 Very rare side effects (may affect up to 1 in 10,000 people):
 
-- acute respiratory distress (signs include severe shortness of breath, fever, weakness, and confusion).
+-  acute respiratory distress (signs include severe shortness of breath, fever, weakness, and confusion).
 
 Not known (frequency cannot be estimated from the available data): skin and lip cancer (nonmelanoma skin cancer); decrease in vision or pain in your eyes due to high pressure (possible signs of fluid accumulation in the vascular layer of the eye (choroidal effusion) or acute angle-closure glaucoma).
 
@@ -5533,8 +5476,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Irbesartan Hydrochlorothiazide Zentiva contains
 
-- The active substances are irbesartan and hydrochlorothiazide. Each film-coated tablet of Irbesartan Hydrochlorothiazide Zentiva 300 mg/12.5 mg contains 300 mg irbesartan and 12.5 mg hydrochlorothiazide.
-- The other ingredients are lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, hypromellose, silicon dioxide, magnesium stearate, titanium dioxide, macrogol 3000, red and yellow ferric oxides. Please see section 2 'Irbesartan Hydrochlorothiazide Zentiva contains lactose'.
+-  The active substances are irbesartan and hydrochlorothiazide. Each film-coated tablet of Irbesartan Hydrochlorothiazide Zentiva 300 mg/12.5 mg contains 300 mg irbesartan and 12.5 mg hydrochlorothiazide.
+-  The other ingredients are lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, hypromellose, silicon dioxide, magnesium stearate, titanium dioxide, macrogol 3000, red and yellow ferric oxides. Please see section 2 'Irbesartan Hydrochlorothiazide Zentiva contains lactose'.
 
 ## What Irbesartan Hydrochlorothiazide Zentiva looks like and contents of the pack
 
@@ -5564,33 +5507,27 @@ For any information about this medicine, please contact the local representative
 
 ## België/Belgique/Belgien
 
-Zentiva, k.s. Tél/Tel: +32 (78) 700 112 PV-Belgium@zentiva.com
+Zentiva, k.s. Tél/Tel: +32 (78) 700 112
+
+PV-Belgium@zentiva.com
 
 ## България
 
-Zentiva, k.s.
-
-Тел: +35924417136
-
-PV-Bulgaria@zentiva.com
+Zentiva, k.s. Тел: +35924417136 PV-Bulgaria@zentiva.com
 
 ## Česká republika
 
-Zentiva, k.s.
-
-Tel: +420 267 241 111
-
-PV-Czech-Republic@zentiva.com
+Zentiva, k.s. Tel: +420 267 241 111 PV-Czech-Republic@zentiva.com
 
 ## Danmark
 
-Zentiva Denmark ApS Tlf: +45 787 68 400 PV-Denmark@zentiva.com
+Zentiva Denmark ApS Tlf: +45 787 68 400
+
+PV-Denmark@zentiva.com
 
 ## Deutschland
 
-Zentiva Pharma GmbH
-
-Tel: +49 (0) 800 53 53 010
+Zentiva Pharma GmbH Tel: +49 (0) 800 53 53 010
 
 PV-Germany@zentiva.com
 
@@ -5612,11 +5549,7 @@ PV-Luxembourg@zentiva.com
 
 ## Magyarország
 
-Zentiva Pharma Kft.
-
-Tel.: +36 1 299 1058
-
-PV-Hungary@zentiva.com
+Zentiva Pharma Kft. Tel.: +36 1 299 1058 PV-Hungary@zentiva.com
 
 ## Malta
 
@@ -5628,11 +5561,7 @@ PV-Malta@zentiva.com
 
 ## Nederland
 
-Zentiva, k.s.
-
-Tel: +31 202 253 638
-
-PV-Netherlands@zentiva.com
+Zentiva, k.s. Tel: +31 202 253 638 PV-Netherlands@zentiva.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5648,7 +5577,9 @@ PV-Estonia@zentiva.com
 
 Zentiva, k.s.
 
-Τηλ: +30 211 198 7510
+Τηλ: +30
+
+211 198 7510
 
 PV-Greece@zentiva.com
 
@@ -5704,7 +5635,9 @@ PV-Italy@zentiva.com
 
 Zentiva, k.s.
 
-Τηλ: +30 211 198 7510
+Τηλ: +3
+
+0 211 198 7510
 
 PV-Cyprus@zentiva.com
 
@@ -5722,9 +5655,7 @@ Detailed information on this medicine is available on the European Medicines Age
 
 ## Norge
 
-Zentiva Denmark ApS
-
-Tlf: +45 787 68 400
+Zentiva Denmark ApS Tlf: +45 787 68 400
 
 PV-Norway@zentiva.com
 
@@ -5786,11 +5717,7 @@ PV-Finland@zentiva.com
 
 ## Sverige
 
-Zentiva Denmark ApS
-
-Tel: +46 840 838 822
-
-PV-Sweden@zentiva.com
+Zentiva Denmark ApS Tel: +46 840 838 822 PV-Sweden@zentiva.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5830,13 +5757,13 @@ Irbesartan Hydrochlorothiazide Zentiva is used to treat high blood pressure , wh
 
 ## Do not take Irbesartan Hydrochlorothiazide Zentiva
 
-- if you are allergic to irbesartan or any of the other ingredients of this medicine (listed in section 6)
-- if you are allergic to hydrochlorothiazide or any other sulfonamide-derived medicines
-- if you are more than 3 months pregnant . (It is also better to avoid Irbesartan Hydrochlorothiazide Zentiva in early pregnancy - see pregnancy section)
-- if you have severe liver or kidney problems
-- if you have difficulty in producing urine
-- if your doctor determines that you have persistently high calcium or low potassium levels in your blood
-- if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
+-  if you are allergic to irbesartan or any of the other ingredients of this medicine (listed in section 6)
+-  if you are allergic to hydrochlorothiazide or any other sulfonamide-derived medicines
+-  if you are more than 3 months pregnant . (It is also better to avoid Irbesartan Hydrochlorothiazide Zentiva in early pregnancy - see pregnancy section)
+-  if you have severe liver or kidney problems
+-  if you have difficulty in producing urine
+-  if your doctor determines that you have persistently high calcium or low potassium levels in your blood
+-  if you have diabetes or impaired kidney function and you are treated with a blood pressure lowering medicine containing aliskiren.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -5844,19 +5771,19 @@ Irbesartan Hydrochlorothiazide Zentiva is used to treat high blood pressure , wh
 
 Talk to your doctor before taking Irbesartan Hydrochlorothiazide Zentiva and if any of the following apply to you:
 
-- if you get excessive vomiting or diarrhoea
-- if you suffer from kidney problems or have a kidney transplant
-- if you suffer from heart problems
-- if you suffer from liver problems
-- if you suffer from diabetes
-- if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heart beat), particularly if you are being treated for diabetes.
-- if you suffer from lupus erythematosus (also known as lupus or SLE)
-- if you suffer from primary aldosteronism (a condition related to high production of the hormone aldosterone, which causes sodium retention and, in turn, an increase in blood pressure).
-- if you are taking any of the following medicines used to treat high blood pressure:
+-  if you get excessive vomiting or diarrhoea
+-  if you suffer from kidney problems or have a kidney transplant
+-  if you suffer from heart problems
+-  if you suffer from liver problems
+-  if you suffer from diabetes
+-  if you develop low blood sugar levels (symptoms may include sweating, weakness, hunger, dizziness, trembling, headache, flushing or paleness, numbness, having a fast, pounding heart beat), particularly if you are being treated for diabetes.
+-  if you suffer from lupus erythematosus (also known as lupus or SLE)
+-  if you suffer from primary aldosteronism (a condition related to high production of the hormone aldosterone, which causes sodium retention and, in turn, an increase in blood pressure).
+-  if you are taking any of the following medicines used to treat high blood pressure:
 - o an ACE-inhibitor (for example enalapril, lisinopril, ramipril), in particular if you have diabetes-related kidney problems.
 - o aliskiren.
-- if you have had skin cancer or if you develop an unexpected skin lesion during the treatment. Treatment with hydrochlorothiazide, particularly long term use with high doses, may increase the risk of some types of skin and lip cancer (non-melanoma skin cancer). Protect your skin from sun exposure and UV rays while taking Irbesartan Hydrochlorothiazide Zentiva.
-- if you experienced breathing or lung problems (including inflammation or fluid in the lungs) following hydrochlorothiazide intake in the past. If you develop any severe shortness of breath or difficulty breathing after taking Irbesartan Hydrochlorothiazide Zentiva, seek medical attention immediately.
+-  if you have had skin cancer or if you develop an unexpected skin lesion during the treatment. Treatment with hydrochlorothiazide, particularly long term use with high doses, may increase the risk of some types of skin and lip cancer (non-melanoma skin cancer). Protect your skin from sun exposure and UV rays while taking Irbesartan Hydrochlorothiazide Zentiva.
+-  if you experienced breathing or lung problems (including inflammation or fluid in the lungs) following hydrochlorothiazide intake in the past. If you develop any severe shortness of breath or difficulty breathing after taking Irbesartan Hydrochlorothiazide Zentiva, seek medical attention immediately.
 
 Your doctor may check your kidney function, blood pressure, and the amount of electrolytes (e.g. potassium) in your blood at regular intervals.
 
@@ -5866,11 +5793,11 @@ You must tell your doctor if you think you are (or might become) pregnant. Irbes
 
 ## You should also tell your doctor:
 
-- if you are on a low-salt diet
-- if you have signs such as abnormal thirst , dry mouth , general weakness , drowsiness , muscle pain or cramps , nausea , vomiting , or an abnormally fast heart beat which may indicate an excessive effect of hydrochlorothiazide (contained in Irbesartan Hydrochlorothiazide Zentiva)
-- if you experience an increased sensitivity of the skin to the sun with symptoms of sunburn (such as redness, itching, swelling, blistering) occurring more quickly than normal
-- if you are going to have an operation (surgery) or be given anaesthetics
-- if you have decrease in your vision or pain in one or both of your eyes while taking Irbesartan Hydrochlorothiazide Zentiva. These could be symptoms of fluid accumulation in the vascular layer of the eye (choroidal effusion) or an increase of pressure in your eye (glaucoma) and can happen within hours to weeks of taking Irbesartan Hydrochlorothiazide Zentiva. This can lead to permanent vision loss, if not treated. If you earlier have had a penicillin or sulfonamide allergy, you can be at higher risk of developing this. You should discontinue Irbesartan Hydrochlorothiazide Zentiva treatment and seek prompt medical attention.
+-  if you are on a low-salt diet
+-  if you have signs such as abnormal thirst , dry mouth , general weakness , drowsiness , muscle pain or cramps , nausea , vomiting , or an abnormally fast heart beat which may indicate an excessive effect of hydrochlorothiazide (contained in Irbesartan Hydrochlorothiazide Zentiva)
+-  if you experience an increased sensitivity of the skin to the sun with symptoms of sunburn (such as redness, itching, swelling, blistering) occurring more quickly than normal
+-  if you are going to have an operation (surgery) or be given anaesthetics
+-  if you have decrease in your vision or pain in one or both of your eyes while taking Irbesartan Hydrochlorothiazide Zentiva. These could be symptoms of fluid accumulation in the vascular layer of the eye (choroidal effusion) or an increase of pressure in your eye (glaucoma) and can happen within hours to weeks of taking Irbesartan Hydrochlorothiazide Zentiva. This can lead to permanent vision loss, if not treated. If you earlier have had a penicillin or sulfonamide allergy, you can be at higher risk of developing this. You should discontinue Irbesartan Hydrochlorothiazide Zentiva treatment and seek prompt medical attention.
 
 The hydrochlorothiazide contained in this medicine could produce a positive result in an anti-doping test.
 
@@ -5894,15 +5821,15 @@ If you are taking an ACE-inhibitor or aliskiren (see also information under the 
 
 You may need to have blood checks if you take:
 
-- potassium supplements
-- salt substitutes containing potassium
-- potassium sparing medicines or other diuretics (water tablets)
-- some laxatives
-- medicines for the treatment of gout
-- therapeutic vitamin D supplements
-- medicines to control heart rhythm
-- medicines for diabetes (oral agents as repaglinide or insulins)
-- carbamazepine (a medicine for the treatment of epilepsy).
+-  potassium supplements
+-  salt substitutes containing potassium
+-  potassium sparing medicines or other diuretics (water tablets)
+-  some laxatives
+-  medicines for the treatment of gout
+-  therapeutic vitamin D supplements
+-  medicines to control heart rhythm
+-  medicines for diabetes (oral agents as repaglinide or insulins)
+-  carbamazepine (a medicine for the treatment of epilepsy).
 
 It is also important to tell your doctor if you are taking other medicines to reduce your blood pressure, steroids, medicines to treat cancer, pain killers, arthritis medicines, or colestyramine and colestipol resins for lowering blood cholesterol.
 
@@ -5962,9 +5889,9 @@ If you have any further questions on the use of this medicine, ask your doctor o
 
 Like all medicines, this medicine can cause side effects, although not everybody gets them. Some of these effects may be serious and may require medical attention.
 
-Rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan.
+Rare cases of allergic skin reactions (rash, urticaria), as well as localised swelling of the face, lips and/or tongue have been reported in patients taking irbesartan. stop taking Irbesartan
 
-If you get any of the above symptoms or get short of breath, stop taking Irbesartan Hydrochlorothiazide Zentiva and contact your doctor immediately.
+If you get any of the above symptoms or get short of breath, Hydrochlorothiazide Zentiva and contact your doctor immediately.
 
 The frequency of the side effects listed below is defined using the following convention: Common: may affect up to 1 in 10 people Uncommon: may affect up to 1 in 100 people
 
@@ -5980,24 +5907,24 @@ Side effects reported in clinical studies for patients treated with Irbesartan H
 
 ## Common side effects (may affect up to 1 in 10 people):
 
-- nausea/vomiting
-- abnormal urination
-- fatigue
-- dizziness (including when getting up from a lying or sitting position)
-- blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase) or raised levels of substances that measure kidney function (blood urea nitrogen, creatinine).
+-  nausea/vomiting
+-  abnormal urination
+-  fatigue
+-  dizziness (including when getting up from a lying or sitting position)
+-  blood tests may show raised levels of an enzyme that measures the muscle and heart function (creatine kinase) or raised levels of substances that measure kidney function (blood urea nitrogen, creatinine).
 
 If any of these side effects causes you problems , talk to your doctor.
 
 Uncommon side effects (may affect up to 1 in 100 people):
 
-- diarrhoea
-- low blood pressure
-- fainting
-- heart rate increased
-- flushing
-- swelling
-- sexual dysfunction (problems with sexual performance)
-- blood tests may show lowered levels of potassium and sodium in your blood.
+-  diarrhoea
+-  low blood pressure
+-  fainting
+-  heart rate increased
+-  flushing
+-  swelling
+-  sexual dysfunction (problems with sexual performance)
+-  blood tests may show lowered levels of potassium and sodium in your blood.
 
 If any of these side effects causes you problems , talk to your doctor.
 
@@ -6013,7 +5940,7 @@ In addition to the side effects listed above, chest pain, severe allergic reacti
 
 Rare side effects (may affect up to 1 in 1,000 people):
 
-- intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea
+-  intestinal angioedema: a swelling in the gut presenting with symptoms like abdominal pain, nausea, vomiting and diarrhoea
 
 ## Side effects associated with hydrochlorothiazide alone
 
@@ -6025,7 +5952,7 @@ on the face, neck, and scalp; allergic reactions; weakness and muscle spasm; alt
 
 Very rare side effects (may affect up to 1 in 10,000 people):
 
-- acute respiratory distress (signs include severe shortness of breath, fever, weakness, and confusion).
+-  acute respiratory distress (signs include severe shortness of breath, fever, weakness, and confusion).
 
 Not known (frequency cannot be estimated from the available data): skin and lip cancer (nonmelanoma skin cancer); decrease in vision or pain in your eyes due to high pressure (possible signs of fluid accumulation in the vascular layer of the eye (choroidal effusion) or acute angle-closure glaucoma).
 
@@ -6051,8 +5978,8 @@ Do not throw away any medicines via wastewater or household waste. Ask your phar
 
 ## What Irbesartan Hydrochlorothiazide Zentiva contains
 
-- The active substances are irbesartan and hydrochlorothiazide. Each film-coated tablet of Irbesartan Hydrochlorothiazide Zentiva 300 mg/25 mg contains 300 mg irbesartan and 25 mg hydrochlorothiazide.
-- The other ingredients are lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, hypromellose, silicon dioxide, magnesium stearate, titanium dioxide, macrogol 3350, red, yellow and black ferric oxides, pregelatinized starch. Please see section 2 'Irbesartan Hydrochlorothiazide Zentiva contains lactose'.
+-  The active substances are irbesartan and hydrochlorothiazide. Each film-coated tablet of Irbesartan Hydrochlorothiazide Zentiva 300 mg/25 mg contains 300 mg irbesartan and 25 mg hydrochlorothiazide.
+-  The other ingredients are lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, hypromellose, silicon dioxide, magnesium stearate, titanium dioxide, macrogol 3350, red, yellow and black ferric oxides, pregelatinized starch. Please see section 2 'Irbesartan Hydrochlorothiazide Zentiva contains lactose'.
 
 ## What Irbesartan Hydrochlorothiazide Zentiva looks like and contents of the pack
 
@@ -6074,7 +6001,9 @@ Sanofi Winthrop Industrie 1 Rue de la vierge Ambarès et Lagrave 33 565 Carbon B
 
 Sanofi Winthrop Industrie 30-36 Avenue Gustave Eiffel 37 100 Tours France
 
-Zentiva k.s. U Kabelovny 130 102 37 Prague 10 Czech Republic
+Zentiva k.s. U Kabelovny 130 102 37 Prague 10
+
+Czech Republic
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -6096,9 +6025,7 @@ Zentiva Denmark ApS Tlf: +45 787 68 400 PV-Denmark@zentiva.com
 
 ## Deutschland
 
-Zentiva Pharma GmbH
-
-Tel: +49 (0) 800 53 53 010
+Zentiva Pharma GmbH Tel: +49 (0) 800 53 53 010
 
 PV-Germany@zentiva.com
 
@@ -6136,11 +6063,7 @@ PV-Malta@zentiva.com
 
 ## Nederland
 
-Zentiva, k.s.
-
-Tel: +31 202 253 638
-
-PV-Netherlands@zentiva.com
+Zentiva, k.s. Tel: +31 202 253 638 PV-Netherlands@zentiva.com
 
 ## Norge
 
@@ -6156,7 +6079,9 @@ PV-Norway@zentiva.com
 
 Zentiva, k.s.
 
-Τηλ: +30 211 198 7510
+Τηλ: +30
+
+211 198 7510
 
 PV-Greece@zentiva.com
 
@@ -6212,7 +6137,9 @@ PV-Italy@zentiva.com
 
 Zentiva, k.s.
 
-Τηλ: +30 211 198 7510
+Τηλ: +3
+
+0 211 198 7510
 
 PV-Cyprus@zentiva.com
 

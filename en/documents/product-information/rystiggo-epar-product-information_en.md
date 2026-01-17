@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-10-24 15:03:19
+document_datetime: 2026-01-16 17:30:14
 document_pages: 47
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rystiggo-epar-product-information_en.pdf
 document_name: rystiggo-epar-product-information_en.pdf
 version: success
-processing_time: 11.5687089
-conversion_datetime: 2025-12-20 11:50:28.900619
+processing_time: 11.8846936
+conversion_datetime: 2026-01-17 13:01:53.695694
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -78,8 +78,6 @@ The following table indicates the recommended total weekly dose of rozanolixizum
 |------------------|------------------|-------------------|--------------------|------------|
 | Weekly dose (mg) | 280 mg           | 420 mg            | 560 mg             | 840 mg     |
 | Weekly dose (ml) | 2 ml*            | 3 ml*             | 4 ml*              | 6 ml*      |
-
-* One ml of solution for injection contains 140 mg of rozanolixizumab. Each vial contains excess volume for priming of the infusion line, see 'Instructions For Use' in the Package leaflet.
 
 Subsequent treatment cycles should be administered according to clinical evaluation. The frequency of treatment cycles may vary by patient. In the clinical development program, most patients had treatment-free intervals of 4-13 weeks between cycles. From cycle to cycle approximately 10 % of patients had a treatment-free interval of less than 4 weeks.
 
@@ -182,13 +180,15 @@ In the pooled cyclic treatment data from the phase 3 program, after 1 treatment 
 
 This medicinal product contains 29 mg of proline in each ml. The use in patients suffering from hyperprolinaemia should be restricted to cases where no alternative treatment is available.
 
-This medicinal product contains 0.3 mg of polysorbate 80 in each ml. Polysorbates may cause allergic reactions.
+This medicinal product contains 0.3 mg of polysorbate 80 in each ml.
+
+Polysorbates may cause allergic reactions.
 
 ## 4.5 Interaction with other medicinal products and other forms of interaction
 
 No interaction studies have been performed.
 
-As rozanolixizumab interferes with the FcRn recycling mechanism of immunoglobulin G (IgG), the serum concentrations of IgG-based medicinal products (e.g. monoclonal antibodies and intravenous immunoglobulin [IVIg]) and Fc -peptide fusion proteins are expected to be decreased if administered concomitantly or within 2 weeks after administration of rozanolixizumab. It is recommended to initiate these treatments 2 weeks after administration of rozanolixizumab and to monitor for attenuated efficacy of these medicinal products when administered concomitantly.
+As rozanolixizumab interferes with the FcRn recycling mechanism of immunoglobulin G (IgG), the serum concentrations of IgG-based medicinal products (e.g. monoclonal antibodies and intravenous immunoglobulin [IVIg]) and Fc-peptide fusion proteins are expected to be decreased if administered concomitantly or within 2 weeks after administration of rozanolixizumab. It is recommended to initiate these treatments 2 weeks after administration of rozanolixizumab and to monitor for attenuated efficacy of these medicinal products when administered concomitantly.
 
 Treatment with IV or SC immunoglobulins, PLEX/plasmapheresis and immunoadsorption may reduce circulating levels of rozanolixizumab.
 
@@ -249,20 +249,6 @@ Table 1: List of adverse reactions
 | General disorders and administration site conditions | Pyrexia                              | Very common          |
 | General disorders and administration site conditions | Injection site reactions 5           | Common               |
 
-1  Includes cases of nasopharyngitis
-
-2  Includes headache and migraine
-
-3  Includes rash, rash papular and rash erythematous
-
-4  Includes swollen tongue
-
-5  Includes injection site rash, reaction, erythema, inflammation, discomfort, and infusion site erythema, pain
-
-6  Includes cases of Herpes Zoster, simplex and oral
-
-*From spontaneous post-marketing reporting
-
 ## Description of selected adverse reactions
 
 ## Headache
@@ -283,7 +269,7 @@ In case of overdose, it is recommended that patients are monitored closely for a
 
 ## 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Immunosuppressants, monoclonal antibodies, ATC code: L04AG16
+Pharmacotherapeutic group: Immunosuppressants, neonatal fragment crystallizable receptor (FcRn) inhibitors, ATC code: L04AL02
 
 ## Mechanism of action
 
@@ -323,9 +309,11 @@ Patients were not permitted in the study if they had:
 - clinically relevant active infection or serious infections, mycobacterial infections, hepatitis B, hepatitis C, HIV infections
 - been treated with PLEX, IVIg 1 month and monoclonal antibodies 3 to 6 months prior to starting treatment
 
-The primary endpoint was the change from baseline to day 43 in the MG-ADL score. Secondary efficacy endpoints included a change from baseline to day 43 in MG-C (Myasthenia Gravis Composite) score and QMG score. Response in this study was defined as an at least 2.0-points improvement in MG-ADL at day 43 compared to the treatment cycle baseline.
+The primary endpoint was the change from baseline to day 43 in the MG-ADL score. Secondary efficacy endpoints included a change from baseline to day 43 in MG-C (Myasthenia Gravis
 
 <div style=\"page-break-after: always\"></div>
+
+Composite) score and QMG score. Response in this study was defined as an at least 2.0-points improvement in MG-ADL at day 43 compared to the treatment cycle baseline.
 
 In general, patient demographics and baseline disease characteristics were balanced across treatment groups. The majority of patients were female (60.5 %), below 65 years of age (75.5 %), were of predominantly White (68.0 %) or Asian (10.5 %) race, and presented with MGFA class II or III gMG (96.0 %). The median age at MG diagnosis was 44.0 years, and the median time since diagnosis was 5.8 years. There was a lower proportion of male patients in the placebo group (29.9 %) than in the rozanolixizumab ≈7 mg/k g dose group (40.9 %). The autoantibody distribution among MG0003 patients were 10.5 % anti-MuSK positive, 89.5 % anti-AChR positive. Overall, 95.5 % of patients received at least one MG baseline medication that continued during the study, including 85.5 % receiving acetylcholinesterase inhibitors, as well as 64.0 % receiving corticosteroids, 50.0 % receiving immunosuppressants, and 35.5 % receiving corticosteroids and immunosuppressants at stable doses.
 
@@ -356,10 +344,6 @@ Table 2: Efficacy outcomes change from baseline to day 43
 | 95 %CI for difference             | -5.614, -1.584   | -5.614, -1.584                    |
 | P-value for difference            | < 0.001          | < 0.001                           |
 
-≈=approximate dose; CI= confidence interval; N=total number of patients in treatment group;
-
-LS=least square; SE=standard error; MG-ADL=MG-Activities of Daily Living;
-
 MG-C=Myasthenia Gravis Composite score; QMG= Quantitative Myasthenia Gravis;
 
 MG=myasthenia gravis.
@@ -368,9 +352,9 @@ For the MuSK+ patients who received rozanolixizumab ≈7 mg/kg and had data avai
 
 No rozanolixizumab-treated patients and 3 placebo-treated patients received rescue therapy during the treatment period. During the course of the observation period, amongst the patients treated with ≈7 mg/kg, one patient received rescue therapy and 19 patients rolled over early to an open label extension study to receive treatment with rozanolixizumab.
 
-In the OLE study MG0007, consistent clinical improvement has been observed following administration of subsequent cycles of rozanolixizumab.
-
 <div style=\"page-break-after: always\"></div>
+
+In the OLE study MG0007, consistent clinical improvement has been observed following administration of subsequent cycles of rozanolixizumab.
 
 <!-- image -->
 
@@ -398,11 +382,9 @@ The apparent linear clearance for the free active substance is approximately 0.9
 
 ## Linearity/non-linearity
 
-Rozanolixizumab exhibited nonlinear pharmacokinetics typical for a monoclonal antibody that undergoes target-mediated drug disposition.  At steady-state, maximum plasma concentrations and
-
 <div style=\"page-break-after: always\"></div>
 
-area under the concentration time curve (AUC) were predicted to be 3-fold and 4-fold higher at weighttiered doses of ≈10 mg/kg as compared to ≈7 mg/kg, respectively.
+Rozanolixizumab exhibited nonlinear pharmacokinetics typical for a monoclonal antibody that undergoes target-mediated drug disposition.  At steady-state, maximum plasma concentrations and area under the concentration time curve (AUC) were predicted to be 3-fold and 4-fold higher at weighttiered doses of ≈10 mg/kg as compared to ≈7 mg/kg, respectively.
 
 ## Special populations
 
@@ -434,9 +416,9 @@ No treatment-related changes were noted in the male and female reproductive orga
 
 Histidine Histidine hydrochloride monohydrate Proline Polysorbate 80 Water for injections
 
-## 6.2 Incompatibilities
-
 <div style=\"page-break-after: always\"></div>
+
+## 6.2 Incompatibilities
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products for infusion.
 
@@ -448,11 +430,7 @@ The chemical and physical in-use stability has been demonstrated for 19 hours at
 
 ## 6.4 Special precautions for storage
 
-Store in a refrigerator (2 °C -8 °C).
-
-Do not freeze.
-
-Keep the vial in the outer carton in order to protect from light.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
 The Rystiggo vial may be stored at room temperature (up to 25 °C) for a single period of maximum 20 days with protection from light. Once removed from the refrigerator and stored under these conditions, discard after 20 days or by the expiry date, whichever occurs first.
 
@@ -478,10 +456,10 @@ Common instructions for infusion with a pump and manual push
 
 - Allow vials to reach room temperature. This may take a minimum of 30 minutes up to 120 minutes. Do not use heating devices. If the vials are stored at room temperature, they can be used immediately.
 - Check each vial before using:
--   Expiration date: do not use beyond expiration date.
 
 <div style=\"page-break-after: always\"></div>
 
+-   Expiration date: do not use beyond expiration date.
 -   Colour: the solution should be colourless to pale brownish-yellow, clear to slightly opalescent. Do not use the vial if the liquid looks cloudy, contains foreign particles, or has changed colour.
 -   Cap: do not use if protective cap of the vial is missing or defective.
 - Collect all items for the infusion. In addition to the vial unit(s), collect the following, which are not supplied: syringe (5-10 ml, depending on the prescribed dose), syringe needle (s), transfer needle or vented vial adaptor,  alcohol wipe, infusion set, bowl or paper towel, tape or transparent dressing, infusion pump (if applicable) and sharps container.
@@ -503,7 +481,7 @@ An infusion set with a needle of 26 gauge or with a larger diameter should be us
 - If necessary, use tape or transparent dressing to hold the needle in place.
 - When the infusion is complete, do not flush the infusion line as the volume of infusion has been adjusted taking into account the losses in the line.
 
-When Rystiggo is administered through an infusion pump
+## When Rystiggo is administered through an infusion pump
 
 - Syringe pump occlusion alarm limits must be set to the maximum setting, if applicable.
 - Follow the instructions provided with the infusion pump to prepare the pump and prime the infusion line.
@@ -661,7 +639,7 @@ Lot
 
 rystiggo 280 mg
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -717,7 +695,9 @@ Rystiggo 140 mg/ml solution for injection rozanolixizumab
 
 ## 2. STATEMENT OF ACTIVE SUBSTANCE(S)
 
-Each ml of solution for injection contains 140 mg of rozanolixizumab. One vial of 3 ml contains 420 mg of rozanolixizumab.
+Each ml of solution for injection contains 140 mg of rozanolixizumab.
+
+One vial of 3 ml contains 420 mg of rozanolixizumab.
 
 ## 3. LIST OF EXCIPIENTS
 
@@ -911,7 +891,7 @@ Lot
 
 rystiggo 560 mg
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1037,7 +1017,7 @@ Lot
 
 rystiggo 840 mg
 
-## 17. UNIQUE IDENTIFIER -2D BARCODE
+## 17. UNIQUE IDENTIFIER - 2D BARCODE
 
 2D barcode carrying the unique identifier included.
 
@@ -1280,7 +1260,7 @@ Keep this medicine out of the sight and reach of children.
 
 Do not use this medicine after the expiry date which is stated on the vial label and outer carton after EXP. The expiry date refers to the last day of that month.
 
-Store in a refrigerator (2 °C -8 °C). Do not freeze.
+Store in a refrigerator (2 °C - 8 °C). Do not freeze.
 
 Rystiggo may be removed from refrigerated storage, kept at room temperature (up to 25 °C) in the original outer carton package, for only one single period of up to 20 days. Do not use the medicine after this time period. There is a space on the box so you can write the date it was taken out of the refrigerator.
 
@@ -1315,7 +1295,7 @@ UCB Pharma S.A., Allée de la Recherche 60, B-1070 Bruxelles, Belgium
 
 ## Manufacturer
 
-UCB Pharma S.A., Chemin du Foriest, B-1420 Brainel'Alleud, Belgium.
+UCB Pharma S.A., Chemin du Foriest, B-1420 Braine-l'Alleud, Belgium.
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
@@ -1507,7 +1487,7 @@ If you are using an infusion pump (also known as a syringe pump) to give yoursel
 
 - For under the skin (subcutaneous) use only.
 - Use each vial only once.
-- Check your dose -you may need more than 1 vial to prepare your prescribed dose.
+- Check your dose - you may need more than 1 vial to prepare your prescribed dose.
 - Do not use Rystiggo if the expiry date has passed.
 - Before using Rystiggo, check if the dose on the box(es) is the same as your prescribed dose. Do not use if the dose is not the same as your prescription. Contact your doctor or nurse for next steps.
 
@@ -1547,7 +1527,7 @@ If you are using an infusion pump (also known as a syringe pump) to give yoursel
 - o Rystiggo vial.
 - o Rystiggo Package Leaflet.
 
-## ! Check your dose -you may need more than 1 vial to prepare your prescribed dose.
+## ! Check your dose - you may need more than 1 vial to prepare your prescribed dose.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1560,7 +1540,7 @@ If you are using an infusion pump (also known as a syringe pump) to give yoursel
 - o Adhesive bandage.
 - o Sharps container.
 - o Bowl or paper towel to collect extra liquid when filling the infusion line.
-- o Syringe pump -if you are using a pump.
+- o Syringe pump - if you are using a pump.
 
 ## ! The supplies above are for illustration only. Your specific supplies may look different.
 
@@ -1570,7 +1550,7 @@ If you are using an infusion pump (also known as a syringe pump) to give yoursel
 
 ## 2. Prepare the vial(s) and syringe
 
-## ! Check your dose -you may need more than 1 vial to prepare your prescribed dose.
+## ! Check your dose - you may need more than 1 vial to prepare your prescribed dose.
 
 ## Step 3: Remove the protective cap from the vial(s)
 
@@ -1610,11 +1590,7 @@ Vented Vial Adaptor
 
 ## Step 7: Insert the transfer needle or vented vial adaptor directly into the vial
 
-## Follow the instructions for the transfer method you are using:
-
-## Using transfer needle
-
-- Place the vial on the table and insert the transfer needle straight through the rubber stopper.
+Follow the instructions for the transfer method you are using:
 
 <!-- image -->
 
@@ -1625,6 +1601,10 @@ Vented Vial Adaptor
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+## Using transfer needle
+
+- Place the vial on the table and insert the transfer needle straight through the rubber stopper.
 
 ## Using vial adaptor
 
@@ -1638,10 +1618,14 @@ Vented Vial Adaptor
 
 ## ! If you are using a vented vial adaptor, you can skip directly to Step 11.
 
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
 ## Step 9: Push air from the syringe into the vial
 
 - Check that the transfer needle now points upwards and make sure the needle tip is in the space above the medicine.
-- Slowly push the syringe plunger upwards to push all the air from the syringe into the vial. Keep your thumb pressed on the syringe plunger the whole time -so you do not let air into the syringe.
+- Slowly push the syringe plunger upwards to push all the air from the syringe into the vial. Keep your thumb pressed on the syringe plunger the whole time - so you do not let air into the syringe.
 - Keep the needle tip in the space above the medicine the whole time.
 - Do not push air into the medicine as this can create bubbles.
 
@@ -1649,36 +1633,20 @@ Vented Vial Adaptor
 
 - Keep your thumb pushed on the syringe plunger. With your other hand, pull the vial slowly and carefully upwards so the needle tip is fully covered by the liquid medicine.
 
-## Step 11: Fill the syringe with as much medicine as possible
+Step 11: Fill the syringe with as much medicine as possible
 
-## ! Check your dose -you may need more than 1 vial to prepare your prescribed dose.
+! Check your dose - you may need more than 1 vial to prepare your prescribed dose.
 
 - Now slowly pull the syringe plunger down and fill the syringe with medicine.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
 
 If you are using a transfer needle to fill the syringe, do the following:
 
 - o Keep pulling the vial slowly and carefully upwards to keep the tip of the needle fully covered by the liquid.
 - o Adjust the needle tip to keep it in the liquid. This will help you to take as much medicine out of the vial(s) as possible.
 - You should now have more medicine in the syringe than your prescribed dose. You will adjust this later.
-
-! There will also be a very small amount of the medicine that you cannot take out of the vial. You will throw this away with the vial later.
+- ! There will also be a very small amount of the medicine that you cannot take out of the vial. You will throw this away with the vial later.
 
 ! If you are using a vented vial adaptor, detach the syringe from the vented vial adaptor. Leave the vented vial adaptor in the vial. You can throw this away at the end of the infusion. You can now skip directly to Step 14.
-
-## Step 12: Remove air from the syringe
-
-- If there is any space between the liquid in the syringe and the top of the syringe, slowly push the plunger to push air back into the vial.
-- If you see air bubbles in the syringe, you can remove them by tapping gently on the syringe with your index finger. Now slowly push the plunger to push air back into the vial.
 
 <!-- image -->
 
@@ -1687,6 +1655,11 @@ If you are using a transfer needle to fill the syringe, do the following:
 <!-- image -->
 
 <div style=\"page-break-after: always\"></div>
+
+## Step 12: Remove air from the syringe
+
+- If there is any space between the liquid in the syringe and the top of the syringe, slowly push the plunger to push air back into the vial.
+- If you see air bubbles in the syringe, you can remove them by tapping gently on the syringe with your index finger. Now slowly push the plunger to push air back into the vial.
 
 ## Step 13: Remove the transfer needle from the vial and the syringe
 
@@ -1703,6 +1676,16 @@ If you are using a transfer needle to fill the syringe, do the following:
 
 ## 3. Prepare for infusion
 
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
 ## Step 15: Attach the infusion line onto the syringe
 
 - Place the syringe on the clean work surface while you are preparing the infusion line.
@@ -1713,15 +1696,9 @@ If you are using a transfer needle to fill the syringe, do the following:
 
 <!-- image -->
 
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
-
 ## Step 16: Fill the infusion line with medicine
 
-- Make sure you have a bowl or paper towel in front of you -you can use it to collect any medicine from the infusion line that is not needed.
+- Make sure you have a bowl or paper towel in front of you you can use it to collect any medicine from the infusion line that is not needed.
 - Keep the cap on the infusion line needle and hold it over the bowl or paper towel. Now hold the syringe in a vertical position and fill the infusion line with medicine by pushing gently on the syringe plunger.
 - The amount of liquid left in the syringe must match your prescribed dose.
 - If you are using a syringe pump, please read the manufacturer's instructions on how to set up and operate the pump and fill the infusion line.
@@ -1730,8 +1707,8 @@ If you are using a transfer needle to fill the syringe, do the following:
 
 - Choose an infusion site to the lower left or lower right side of the tummy (abdomen), below the level of the belly button.
 - o Do not use an area of skin which:
-- is tender, bruised, red or hard
-- has scars or stretch marks.
+-  is tender, bruised, red or hard
+-  has scars or stretch marks.
 - Prepare the infusion site:
 - o Clean the infusion area with an alcohol wipe and allow it to air-dry.
 
@@ -1739,6 +1716,15 @@ If you are using a transfer needle to fill the syringe, do the following:
 
 - Carefully remove the needle cap from the infusion line needle.
 - Fold the butterfly wings together and hold them with your thumb and index finger of one hand.
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
 - With your other hand, pinch the skin between 2 fingers to make a fold.
 - Push the needle into the middle of the skin and push it under the skin.
 - The needle should go in easily. If it is difficult, you can pull the needle out slightly.
@@ -1748,16 +1734,6 @@ If you are using a transfer needle to fill the syringe, do the following:
 
 - Use a see-through dressing to hold the needle in place. Some infusion sets have a built-in adhesive.
 - You can use tape to hold the infusion line on your skin.
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<div style=\"page-break-after: always\"></div>
 
 ## 4. Infuse and finish
 
@@ -1781,15 +1757,18 @@ If you are using a transfer needle to fill the syringe, do the following:
 - o What the various syringe pump sounds and alarms mean and how to manage them.
 - o How to stop the syringe pump.
 - When you are ready to infuse:
+
+<!-- image -->
+
+<div style=\"page-break-after: always\"></div>
+
 - o Place the syringe in the syringe holder and start the pump by following the pump instructions.
 - o Sit back comfortably while the pump gives you the medicine.
 - o Before and during the infusion, make sure that the infusion line does not twist or bend. If this happens, the flow of medicine can be interrupted. In this case, correct the bend in the infusion line and try again.
 - o Once it has finished, stop the pump by following the pump instructions.
 - o Take the syringe out of the syringe pump.
 
-! Note: There will be some medicine left in the infusion line. This is normal and you can throw it away in the sharps container.
-
-<div style=\"page-break-after: always\"></div>
+## ! Note: There will be some medicine left in the infusion line. This is normal and you can throw it away in the sharps container.
 
 ## Step 21: Finish the infusion and clean up
 

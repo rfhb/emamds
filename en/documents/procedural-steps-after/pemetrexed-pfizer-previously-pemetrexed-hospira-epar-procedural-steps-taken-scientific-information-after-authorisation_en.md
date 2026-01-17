@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-09-17 10:29:03
+document_datetime: 2026-01-15 15:09:09
 document_pages: 2
 document_pathfilename: www.ema.europa.eu/en/documents/procedural-steps-after/pemetrexed-pfizer-previously-pemetrexed-hospira-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 document_name: pemetrexed-pfizer-previously-pemetrexed-hospira-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf
 version: success
-processing_time: 3.4120004
-conversion_datetime: 2025-12-25 00:07:45.038297
+processing_time: 1.4435826
+conversion_datetime: 2026-01-17 13:00:56.024701
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -20,11 +20,11 @@ docling_version:
 
 Procedural steps taken and scientific information after the authorisation*
 
-*Due to the Agency' s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessmenthistory'section.Forthe completeproduct lifecycleprocedures,you mayneedtoalsorefertoEPAR-Proceduralsteps taken andscientific informationafterauthorisation(archive).
+*Due to the Agency`s update of its procedure management systems, an additional document, reflecting the historical lifecycle may be available in the 'Assessment history' section. For the complete product lifecycle procedures, you may need to also refer to EPAR - Procedural steps taken and scientific information after authorisation (archive) .
 
-| Applicationnumber    | Scope                               | Opinion/ Notification 1 issued on   | Commission Decision Issued²/ amendedon   | Product Information affected3   | Summary   |
-|----------------------|-------------------------------------|-------------------------------------|------------------------------------------|---------------------------------|-----------|
-| Variation typeIA_IN/ | B.II.b.2.cReplacementor additionofa | 11/09/2025                          |                                          | Annex II and                    |           |
+| Application number   | Scope                                        | Opinion/ Notification 1 issued on   | Commission Decision Issued 2 / amended on   | Product Information affected 3   | Summary   |
+|----------------------|----------------------------------------------|-------------------------------------|---------------------------------------------|----------------------------------|-----------|
+| Article 61(3) /      | - Notification acc. Article 61(3) - Accepted | 15/01/2026                          |                                             | PL                               |           |
 
 <!-- image -->
 
@@ -32,6 +32,7 @@ Procedural steps taken and scientific information after the authorisation*
 
 <div style=\"page-break-after: always\"></div>
 
-| EMA/VR/0000278463                     | manufacturerresponsibleforimportation and/or batch release - B.1I.b.2.c.1 Not includingbatchcontrol/testing-Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |            | PL                     |
-|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------------------|
-| Variation type IB / EMA/VR/0000263141 | C.I.2 Change(s) in the Summary of Product Characteristics,LabellingorPackageLeaflet of a generic/hybrid/biosimilar medicinal products following assessment of the same change for thereference product-C.I.2.a Implementation of change(s) for which no new additional data is required to be submittedbytheMAH-Accepted Type IB (C.1.2.a) - To update section 4.2, 4.5 in line with the originator product ALIMTA,following theconclusion of EMEA/H/C/PSUSA/0002330/202402.Section 2 of the Package Leaflet was updated accordingly.Inaddition,theMAHtookthe opportunity to align the EL, IT, LT, NL, PT, SK,andFI annexesto thoseofthe originator's. | 25/04/2025 | SmPC, Labelling and PL |
+| EMA/N/0000323208                      | Update of the package leaflet with revised contact details of local representative.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |            |                        |                   |
+|---------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------------------|-------------------|
+| Variation type IA_IN /                | B.II.b.2.c Replacement or addition of a manufacturer responsible for importation and/or batch release - B.II.b.2.c.1 Not including batch control/testing - Accepted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | 11/09/2025 | Annex II and PL        | EMA/VR/0000278463 |
+| Variation type IB / EMA/VR/0000263141 | C.I.2 Change(s) in the Summary of Product Characteristics, Labelling or Package Leaflet of a generic/hybrid/biosimilar medicinal products following assessment of the same change for the reference product - C.I.2.a Implementation of change(s) for which no new additional data is required to be submitted by the MAH - Accepted Type IB (C.I.2.a) - To update section 4.2, 4.5 in line with the originator product ALIMTA, following the conclusion of EMEA/H/C/PSUSA/0002330/202402. Section 2 of the Package Leaflet was updated accordingly. In addition, the MAH took the opportunity to align the EL, IT, LT, NL, PT, SK, and FI annexes to those of the originator's. | 25/04/2025 | SmPC, Labelling and PL |                   |

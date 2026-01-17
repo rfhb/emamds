@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 11:51:36
+document_datetime: 2026-01-14 16:28:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/roctavian.html
 document_name: roctavian.html
 version: success
-processing_time: 0.1071287
-conversion_datetime: 2025-12-29 23:26:11.79001
+processing_time: 0.1175159
+conversion_datetime: 2026-01-17 13:33:10.024684
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 valoctocogene roxaparvovec Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +112,7 @@ English (EN) (119.43 KB - PDF)
 
 [View](/en/documents/overview/roctavian-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-175)
+[Other languages (22)](#file-language-dropdown-623)
 
 български (BG) (135.65 KB - PDF)
 
@@ -294,11 +292,11 @@ svenska (SV) (107.45 KB - PDF)
 
 Roctavian : EPAR - Risk management plan
 
-English (EN) (61.38 MB - PDF)
+English (EN) (61.84 MB - PDF)
 
 **First published:** 06/09/2022
 
-**Last updated:** 28/10/2025
+**Last updated:** 14/01/2026
 
 [View](/en/documents/rmp/roctavian-epar-risk-management-plan_en.pdf)
 
@@ -314,7 +312,7 @@ English (EN) (447.89 KB - PDF)
 
 [View](/en/documents/product-information/roctavian-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-794)
+[Other languages (24)](#file-language-dropdown-202)
 
 български (BG) (579.56 KB - PDF)
 
@@ -628,7 +626,7 @@ English (EN) (40.62 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/roctavian-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-221)
+[Other languages (24)](#file-language-dropdown-788)
 
 български (BG) (90.31 KB - PDF)
 
@@ -864,7 +862,7 @@ BioMarin International Limited
 
 Shanbally
 
-Opinion adopted 23/06/2022 Marketing authorisation issued 24/08/2022 Revision 9
+Opinion adopted 23/06/2022 Marketing authorisation issued 24/08/2022 Revision 10
 
 ## Assessment history
 
@@ -876,11 +874,11 @@ Collapse section
 
 Roctavian : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (147.28 KB - PDF)
+English (EN) (146.85 KB - PDF)
 
 **First published:** 28/10/2025
 
-**Last updated:** 11/11/2025
+**Last updated:** 14/01/2026
 
 [View](/en/documents/procedural-steps-after/roctavian-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -942,7 +940,7 @@ English (EN) (137.31 KB - PDF)
 - [GENEr8-COAS: A Non-Interventional, Multi-National, Longitudinal Study of Patients Treated with ROCTAVIAN™ (valoctocogene roxaparvovec) (GENEr8-COAS Observational Cohort Study) - post-authorisation study](https://catalogues.ema.europa.eu/study/49072)
 - [GENEr8-GTR: A Retrospective Cohort Study of Patients Treated with ROCTAVIAN™ (valoctocogene roxaparvovec): An Analysis of Patient Registries (BMN 270-801) - post-authorisation study](https://catalogues.ema.europa.eu/study/49244)
 
-**This page was last updated on** 11/11/2025
+**This page was last updated on** 14/01/2026
 
 ## Share this page
 

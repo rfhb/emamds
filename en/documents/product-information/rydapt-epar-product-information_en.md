@@ -1,20 +1,20 @@
 ---
-document_datetime: 2024-12-12 17:08:37
+document_datetime: 2026-01-14 11:00:45
 document_pages: 46
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/rydapt-epar-product-information_en.pdf
 document_name: rydapt-epar-product-information_en.pdf
 version: success
-processing_time: 21.0168449
-conversion_datetime: 2025-12-14 21:57:03.109846
+processing_time: 16.6716226
+conversion_datetime: 2026-01-17 23:19:34.124396
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -63,15 +63,15 @@ Rydapt should be taken orally twice daily at approximately 12-hour intervals. Th
 
 Prophylactic antiemetics should be administered in accordance with local medical practice as per patient tolerance.
 
-<div style=\"page-break-after: always\"></div>
-
 ## AML
 
 The recommended dose of Rydapt is 50 mg orally twice daily.
 
+<div style=\"page-break-after: always\"></div>
+
 Rydapt is dosed on days 8-21 of induction and consolidation chemotherapy cycles, and then for patients in complete response every day as single agent maintenance therapy until relapse for up to 12 cycles of 28 days each (see section 4.1). In patients receiving a haematopoietic stem cell transplant (SCT), Rydapt should be discontinued 48 hours prior to the conditioning regimen for SCT.
 
-## Dose modifications in AML
+Dose modifications in AML
 
 Recommendations for dose modifications of Rydapt in patients with AML are provided in Table 1.
 
@@ -87,13 +87,13 @@ Table 1 Rydapt dose interruption, reduction and discontinuation recommendations 
 | Maintenance only                         | Persistent Grade 1/2 toxicity                 | Persistent Grade 1 or 2 toxicity that patients deem unacceptable may prompt an interruption for as many as 28 days.                                                                                                                                                                                                                            |
 | ANC: Absolute Neutrophil Count           | ANC: Absolute Neutrophil Count                | ANC: Absolute Neutrophil Count                                                                                                                                                                                                                                                                                                                 |
 
-<div style=\"page-break-after: always\"></div>
-
 ## ASM, SM-AHN and MCL
 
 The recommended starting dose of Rydapt is 100 mg orally twice daily.
 
 Treatment should be continued as long as clinical benefit is observed or until unacceptable toxicity occurs.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Dose modifications in ASM, SM-AHN and MCL
 
@@ -109,11 +109,9 @@ Table 2 Rydapt dose interruption, reduction and discontinuation recommendations 
 | Grade 3/4 nausea and/or vomiting despite optimal anti-emetic therapy                                                                                                                                          | Interrupt Rydapt for 3 days (6 doses), then resume at 50 mg twice daily and, if tolerated, gradually increase to 100 mg twice daily.                                                                                                                                               |
 | Other Grade 3/4 non-haematological toxicities                                                                                                                                                                 | Interrupt Rydapt until event has resolved to Grade ≤2, then resume Rydapt at 50 mg twice daily and, if tolerated, increase to 100 mg twice daily. Discontinue Rydapt if toxicity is not resolved to Grade ≤2 within 21 days or severe toxicity recurs at a reduced dose of Rydapt. |
 
-ANC: Absolute Neutrophil Count
+## ANC: Absolute Neutrophil Count
 
 CTCAE severity: Grade 1 = mild symptoms; 2 = moderate symptoms; 3 = severe symptoms; 4 = life-threatening symptoms.
-
-<div style=\"page-break-after: always\"></div>
 
 ## Missed doses
 
@@ -124,6 +122,8 @@ If vomiting occurs, the patient should not take an additional dose of Rydapt but
 ## Special populations Elderly (≥65 years)
 
 No dose adjustment is required in patients aged over 65 years (see section 5.2). In patients aged ≥60 years, Rydapt should be used only in patients eligible to receive intensive induction chemotherapy with adequate performance status and without significant comorbidities.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Renal impairment
 
@@ -143,7 +143,7 @@ Rydapt should not be used in combination with intensive paediatric AML combinati
 
 ## Method of administration
 
-## Rydapt is for oral use.
+Rydapt is for oral use.
 
 The capsules should be swallowed whole with a glass of water. They should not be opened, crushed or chewed to ensure proper dosing and avoid the unpleasant taste of the capsule content.
 
@@ -159,11 +159,11 @@ Concomitant administration of potent CYP3A4 inducers, e.g. rifampicin, St. John'
 
 Neutropenia has occurred in patients receiving Rydapt as monotherapy and in combination with chemotherapy (see section 4.8). Severe neutropenia (ANC &lt;0.5 x 10 9 /l) was generally reversible by withholding Rydapt until recovery and discontinuation in the ASM, SM-AHN and MCL studies. White blood cell counts (WBCs) should be monitored regularly, especially at treatment initiation.
 
-<div style=\"page-break-after: always\"></div>
-
 In patients who develop unexplained severe neutropenia, treatment with Rydapt should be interrupted until ANC is ≥1.0 x 10 9 /l, as recommended in Tables 1 and 2. Rydapt should be discontinued in patients who develop recurrent or prolonged severe neutropenia that is suspected to be related to Rydapt (see section 4.2).
 
 Any active serious infection should be under control prior to starting treatment with Rydapt monotherapy. Patients should be monitored for signs and symptoms of infection, including any device-related infections, and if a diagnosis of infection is made appropriate treatment must be instituted promptly, including, as needed, the discontinuation of Rydapt.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Cardiac dysfunction
 
@@ -189,11 +189,11 @@ Rydapt should not be used in combination with intensive paediatric AML combinati
 
 Caution is warranted when considering the administration of midostaurin in patients with severe renal impairment or end-stage renal disease and patients should be carefully monitored for toxicity (see section 5.2).
 
-<div style=\"page-break-after: always\"></div>
-
 ## Interactions
 
 Caution is required when concomitantly prescribing with midostaurin medicinal products that are strong inhibitors of CYP3A4, such as, but not limited to, antifungals (e.g. ketoconazole), certain antivirals (e.g. ritonavir), macrolide antibiotics (e.g. clarithromycin) and nefazodone because they can increase the plasma concentrations of midostaurin especially when (re-)starting with midostaurin treatment (see section 4.5). Alternative medicinal products that do not strongly inhibit CYP3A4 activity should be considered. In situations where satisfactory therapeutic alternatives do not exist, patients should be closely monitored for midostaurin-related toxicity.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Excipients
 
@@ -221,13 +221,11 @@ Strong CYP3A4 inhibitors may increase midostaurin blood concentrations. In a stu
 
 ## Substrates of CYP enzymes
 
-In healthy subjects, co-administration of a single dose of bupropion (CYP2B6 substrate) with multiple doses of midostaurin (50 mg twice daily) at steady state decreased bupropion AUCinf and AUClast by 48% and 49% respectively and Cmax by 55% compared to administration of bupropion alone. This
-
-<div style=\"page-break-after: always\"></div>
-
-indicates that midostaurin is a mild inducer of CYP2B6. Medicinal products with a narrow therapeutic range that are substrates of CYP2B6 (e.g. bupropion or efavirenz) should be used with caution when administered concomitantly with midostaurin, and may need dose adjustment to maintain optimal exposure.
+In healthy subjects, co-administration of a single dose of bupropion (CYP2B6 substrate) with multiple doses of midostaurin (50 mg twice daily) at steady state decreased bupropion AUCinf and AUClast by 48% and 49% respectively and Cmax by 55% compared to administration of bupropion alone. This indicates that midostaurin is a mild inducer of CYP2B6. Medicinal products with a narrow therapeutic range that are substrates of CYP2B6 (e.g. bupropion or efavirenz) should be used with caution when administered concomitantly with midostaurin, and may need dose adjustment to maintain optimal exposure.
 
 Based on in-vitro data, midostaurin and its active metabolites, CGP52421 and CGP62221, are inhibitors of CYP1A2 and CYP2E1 and inducers of CYP1A2. Therefore, medicinal products with a narrow therapeutic range that are substrates of CYP1A2 (e.g. tizanidine) and CYP2E1 (e.g. chlorzoxazone) should be used with caution when administered concomitantly with midostaurin, and may need dose adjustment to maintain optimal exposure.
+
+<div style=\"page-break-after: always\"></div>
 
 ## Substrates of transporters
 
@@ -255,15 +253,13 @@ Midostaurin can cause foetal harm when administered to a pregnant woman. There a
 
 ## Breast-feeding
 
-It is unknown whether midostaurin or its active metabolites are excreted in human milk. Available animal data have shown that midostaurin and its active metabolites pass into the milk of lactating rats.
-
-<div style=\"page-break-after: always\"></div>
-
-Breast-feeding should be discontinued during treatment with Rydapt and for at least 4 months after stopping treatment.
+It is unknown whether midostaurin or its active metabolites are excreted in human milk. Available animal data have shown that midostaurin and its active metabolites pass into the milk of lactating rats. Breast-feeding should be discontinued during treatment with Rydapt and for at least 4 months after stopping treatment.
 
 ## Fertility
 
 There are no data on the effect of Rydapt on human fertility. Animal studies with midostaurin have shown impaired fertility (see section 5.3).
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.7 Effects on ability to drive and use machines
 
@@ -287,17 +283,17 @@ Discontinuation due to any adverse reaction occurred in 3.1% of patients in the 
 
 While Table 3 provides the incidence for ARs over the total duration of the study, when the maintenance phase (single agent Rydapt or placebo) was assessed separately, a difference in the type and severity of ARs was observed. The overall incidence of ARs during the maintenance phase was generally lower than during the induction and consolidation phase. Incidences of ARs were, however, higher in the Rydapt arm than in the placebo arm during the maintenance phase. ARs occurring more often in the midostaurin arm versus placebo during maintenance included: nausea (46.4% versus 17.9%), hyperglycaemia (20.2% versus 12.5%), vomiting (19% versus 5.4%) and QT prolongation (11.9% versus 5.4%).
 
-Most of the haematological abnormalities reported occurred during the induction and consolidation phase when the patients received Rydapt or placebo in combination with chemotherapy. The most frequent Grade 3/4 haematological abnormalities reported in patients during the maintenance phase
-
-<div style=\"page-break-after: always\"></div>
-
-with Rydapt were ANC decrease (20.8% versus 18.8%) and leukopenia (7.5% versus 5.9%).
+Most of the haematological abnormalities reported occurred during the induction and consolidation phase when the patients received Rydapt or placebo in combination with chemotherapy. The most frequent Grade 3/4 haematological abnormalities reported in patients during the maintenance phase with Rydapt were ANC decrease (20.8% versus 18.8%) and leukopenia (7.5% versus 5.9%).
 
 ARs reported during the maintenance phase led to discontinuation of 1.2% of patients in the Rydapt arm and none in the placebo arm.
 
 ## ASM, SM -AHN and MCL
 
-The safety of Rydapt (100 mg twice daily) as a single agent in patients with ASM, SM-AHN and MCL was evaluated in 142 patients in two single-arm, open-label, multicentre studies. The median duration of exposure to Rydapt was 11.4 months (range: 0 to 81 months).
+The safety of Rydapt (100 mg twice daily) as a single agent in patients with ASM, SM-AHN and MCL was evaluated in 142 patients in two single-arm, open-label, multicentre studies. The median
+
+<div style=\"page-break-after: always\"></div>
+
+duration of exposure to Rydapt was 11.4 months (range: 0 to 81 months).
 
 The most frequent ARs were nausea (82%), vomiting (68%), diarrhoea (51%), peripheral oedema (35%) and fatigue (31%). The most frequent Grade 3/4 ARs were fatigue (8.5%), sepsis (7.7%), pneumonia (7%), febrile neutropenia (7%), and diarrhoea (6.3%). The most frequent non-haematological laboratory abnormalities were hyperglycaemia (93.7%), total bilirubin increased (40.1%), lipase increased (39.4%), aspartate aminotransferase (AST) increased (33.8%), and alanine aminotransferase (ALT) increased (33.1%), while the most frequent haematological laboratory abnormalities were absolute lymphocyte count decreased (73.2%) and ANC decreased (58.5%). The most frequent Grade 3/4 laboratory abnormalities were absolute lymphocyte count decreased (45.8%), ANC decreased (26.8%), hyperglycaemia (19%), and lipase increased (17.6%).
 
@@ -309,17 +305,15 @@ ARs that led to treatment discontinuation occurred in 9.2% of patients. The most
 
 ARs are listed according to MedDRA system organ class. Within each system organ class, the ARs are ranked by frequency, with the most frequent reactions first, using the following convention (CIOMS III): very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1 000 to &lt;1/100); rare (≥1/10 000 to &lt;1/1 000); very rare (&lt;1/10 000); not known (cannot be estimated from the available data). Within each frequency grouping, adverse reactions are presented in the order of decreasing seriousness.
 
-<div style=\"page-break-after: always\"></div>
-
 ## AML
 
 Table 3 presents the frequency category of ARs reported in the phase III study in patients with newly diagnosed FLT3-mutated AML and during post-marketing experience.
 
 Table 3 Adverse reactions observed in AML
 
-|                                                   | All grades               | Grades 3/4               | Frequency category   |
+| Adverse reaction                                  | All grades               | Grades 3/4               | Frequency category   |
 |---------------------------------------------------|--------------------------|--------------------------|----------------------|
-| Adverse reaction                                  | Rydapt + chemo n=229 1 % | Rydapt + chemo n=345 1 % |                      |
+|                                                   | Rydapt + chemo n=229 1 % | Rydapt + chemo n=345 1 % |                      |
 | Infections and infestations                       |                          |                          |                      |
 | Device-related infection                          | 24                       | 15.7                     | Very common          |
 | Upper respiratory tract infection                 | 5.2                      | 0.6                      | Common               |
@@ -328,41 +322,42 @@ Table 3 Adverse reactions observed in AML
 | Febrile neutropenia                               | 83.4                     | 83.5                     | Very common          |
 | Petechiae                                         | 35.8                     | 1.2                      | Very common          |
 | Lymphopenia                                       | 16.6                     | 20                       | Very common          |
-| Immune system disorders Hypersensitivity          | 15.7                     | 0.6                      | Very common          |
+| Immune system disorders                           |                          |                          |                      |
+| Hypersensitivity                                  | 15.7                     | 0.6                      | Very common          |
 | Metabolism and nutrition disorders Hyperuricaemia | 8.3                      | 0.6                      | Common               |
-| Psychiatric disorders Insomnia                    | 12.2                     | 0                        | Very common          |
+| Psychiatric disorders                             |                          |                          |                      |
+| Insomnia                                          | 12.2                     | 0                        | Very common          |
 | Nervous system disorders                          |                          |                          |                      |
 | Headache                                          | 45.9                     | 2.6                      | Very common          |
 | Syncope                                           | 5.2                      | 4.6                      | Common               |
 | Tremor                                            | 3.9                      | 0                        | Common               |
-| Eye disorders                                     |                          |                          |                      |
-|                                                   |                          |                          | Very common          |
-| Cardiac disorders                                 |                          |                          |                      |
-| Hypotension                                       | 14.4                     | 5.5                      |                      |
-| Sinus tachycardia                                 | 9.6                      | 1.2                      | Common               |
-| Hypertension                                      | 7.9                      | 2.3                      | Common               |
-| Pericardial effusion                              | 3.5                      | 0.6                      | Common               |
-| Respiratory, thoracic and mediastinal disorders   |                          |                          |                      |
-| Epistaxis                                         | 27.5                     | 2.6                      | Very common          |
-| Laryngeal pain                                    | 11.8                     | 0.6                      | Very common          |
-| Interstitial lung disease/Pneumonitis 2           | 11.4                     | 4.9                      | Very common          |
-| Dyspnoea                                          | 10.9                     | 5.5                      | Very common          |
-| Pleural effusion                                  | 5.7                      | 0.9                      | Common               |
-| Nasopharyngitis                                   | 8.7                      | 0                        | Common               |
-| Acute respiratory distress syndrome               | 2.2                      | 2.3                      | Common               |
-| Gastrointestinal disorders                        |                          |                          |                      |
-| Nausea                                            | 83.4                     | 5.8                      | Very common          |
-| Vomiting                                          | 60.7                     | 2.9                      | Very common          |
-| Stomatitis                                        | 21.8                     | 3.5                      | Very common          |
-| Abdominal pain upper                              | 16.6                     | 0                        | Very common          |
-| Haemorrhoids                                      | 15.3                     | 1.4                      | Very common          |
-| Anorectal discomfort                              | 7                        | 0.9                      | Common               |
-| Abdominal discomfort                              | 3.5                      | 0                        | Common               |
 
 <div style=\"page-break-after: always\"></div>
 
-| Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               | Skin and subcutaneous tissue disorders               |
+| Eye disorders Eyelid oedema                          | 3.1                                                  | 0                                                    | Common                                               |
 |------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
+| Cardiac disorders                                    |                                                      |                                                      |                                                      |
+| Hypotension                                          | 14.4                                                 | 5.5                                                  | Very common                                          |
+| Sinus tachycardia                                    | 9.6                                                  | 1.2                                                  | Common                                               |
+| Hypertension                                         | 7.9                                                  | 2.3                                                  | Common                                               |
+| Pericardial effusion                                 | 3.5                                                  | 0.6                                                  | Common                                               |
+| Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders      |
+| Epistaxis                                            | 27.5                                                 | 2.6                                                  | Very common                                          |
+| Laryngeal pain                                       | 11.8                                                 | 0.6                                                  | Very common                                          |
+| Interstitial lung disease/Pneumonitis 2              | 11.4                                                 | 4.9                                                  | Very common                                          |
+| Dyspnoea                                             | 10.9                                                 | 5.5                                                  | Very common                                          |
+| Pleural effusion                                     | 5.7                                                  | 0.9                                                  | Common                                               |
+| Nasopharyngitis                                      | 8.7                                                  | 0                                                    | Common                                               |
+| Acute respiratory distress syndrome                  | 2.2                                                  | 2.3                                                  | Common                                               |
+| Gastrointestinal disorders                           |                                                      |                                                      |                                                      |
+| Nausea                                               | 83.4                                                 | 5.8                                                  | Very common                                          |
+| Vomiting                                             | 60.7                                                 | 2.9                                                  | Very common                                          |
+| Stomatitis                                           | 21.8                                                 | 3.5                                                  | Very common                                          |
+| Abdominal pain upper                                 | 16.6                                                 | 0                                                    | Very common                                          |
+| Haemorrhoids                                         | 15.3                                                 | 1.4                                                  | Very common                                          |
+| Anorectal discomfort                                 | 7                                                    | 0.9                                                  | Common                                               |
+| Abdominal discomfort                                 | 3.5                                                  | 0                                                    | Common                                               |
+| Skin and subcutaneous tissue disorders               |                                                      |                                                      |                                                      |
 | Dermatitis exfoliative                               | 61.6                                                 | 13.6                                                 | Very common                                          |
 | Hyperhidrosis                                        | 14.4                                                 | 0                                                    | Very common                                          |
 | Dry skin                                             | 7                                                    | 0                                                    | Common                                               |
@@ -377,18 +372,22 @@ Table 3 Adverse reactions observed in AML
 | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions | General disorders and administration site conditions |
 | Pyrexia                                              | 34.5                                                 | 3.2                                                  | Very common                                          |
 | Catheter-related thrombosis                          | 3.5                                                  | 2                                                    | Common                                               |
-| Investigations                                       | Investigations                                       | Investigations                                       | Investigations                                       |
-| Haemoglobin decreased*                               | 97.3                                                 | 78.5                                                 | Very common                                          |
-| ANC decreased*                                       | 86.7                                                 | 85.8                                                 | Very common                                          |
-| ALT increased*                                       | 84.2                                                 | 19.4                                                 | Very common                                          |
-| AST increased*                                       | 73.9                                                 | 6.4                                                  | Very common                                          |
-| Hypokalaemia*                                        | 61.7                                                 | 13.9                                                 | Very common                                          |
-| Hyperglycaemia                                       | 20.1                                                 | 7                                                    | Very common                                          |
-| Hypernatraemia*                                      | 20                                                   | 1.2                                                  | Very common                                          |
-| Electrocardiogram QT prolonged 3                     | 19.7                                                 | 5.8                                                  | Very common                                          |
-| Activated partial thromboplastin time prolonged      | 12.7                                                 | 2.6                                                  | Very common                                          |
-| Hypercalcaemia*                                      | 6.7                                                  | 0.6                                                  | Common                                               |
-| Weight increased                                     | 6.6                                                  | 0.6                                                  | Common                                               |
+
+<div style=\"page-break-after: always\"></div>
+
+| Investigations                                  |      |      |             |
+|-------------------------------------------------|------|------|-------------|
+| Haemoglobin decreased*                          | 97.3 | 78.5 | Very common |
+| ANC decreased*                                  | 86.7 | 85.8 | Very common |
+| ALT increased*                                  | 84.2 | 19.4 | Very common |
+| AST increased*                                  | 73.9 |  6.4 | Very common |
+| Hypokalaemia*                                   | 61.7 | 13.9 | Very common |
+| Hyperglycaemia                                  | 20.1 |  7   | Very common |
+| Hypernatraemia*                                 | 20   |  1.2 | Very common |
+| Electrocardiogram QT prolonged 3                | 19.7 |  5.8 | Very common |
+| Activated partial thromboplastin time prolonged | 12.7 |  2.6 | Very common |
+| Hypercalcaemia*                                 |  6.7 |  0.6 | Common      |
+| Weight increased                                |  6.6 |  0.6 | Common      |
 
 1 For trial sites in North America, all grades were collected for 13 pre-specified adverse events. For all other adverse events, only grades 3 and 4 were collected. Therefore, all grade AEs are summarised only for patients in non-North American trial sites, whereas Grades 3 and 4 are summarised for patients in all trial sites.
 
@@ -398,42 +397,43 @@ Table 3 Adverse reactions observed in AML
 
 * Frequency is based on laboratory values.
 
-<div style=\"page-break-after: always\"></div>
-
 ## ASM, SM -AHN and MCL
 
 Table 4 presents the frequency category of ARs based on pooled data from two studies in patients with ASM, SM-AHN and MCL.
 
 Table 4 Adverse reactions observed in ASM, SM -AHN and MCL
 
-| Adverse reaction                                     | Rydapt (100 mg twice daily)                          | Rydapt (100 mg twice daily)                          | Frequency category                                   |
+| Adverse reaction                     | Rydapt (100 mg twice daily) N=142    | Rydapt (100 mg twice daily) N=142    | Frequency category                   |
+|--------------------------------------|--------------------------------------|--------------------------------------|--------------------------------------|
+|                                      | All grades %                         | Grades 3/4 %                         |                                      |
+| Infections and infestations          |                                      |                                      |                                      |
+| Urinary tract infection              | 13                                   | 2.8                                  | Very common                          |
+| Upper respiratory tract infection    | 11                                   | 1.4                                  | Very common                          |
+| Pneumonia                            | 8.5                                  | 7.0                                  | Common                               |
+| Sepsis                               | 7.7                                  | 7.7                                  | Common                               |
+| Bronchitis                           | 5.6                                  | 0                                    | Common                               |
+| Oral herpes                          | 4.9                                  | 0                                    | Common                               |
+| Cystitis                             | 4.2                                  | 0                                    | Common                               |
+| Sinusitis                            | 4.2                                  | 0.7                                  | Common                               |
+| Erysipelas                           | 3.5                                  | 1.4                                  | Common                               |
+| Herpes zoster                        | 3.5                                  | 0.7                                  | Common                               |
+| Blood and lymphatic system disorders | Blood and lymphatic system disorders | Blood and lymphatic system disorders | Blood and lymphatic system disorders |
+| Febrile neutropenia                  | 7.7                                  | 7.0                                  | Common                               |
+| Immune system disorders              |                                      |                                      |                                      |
+| Hypersensitivity                     | 2.1                                  | 0                                    | Common                               |
+| Anaphylactic shock                   | 0.7                                  | 0.7                                  | Uncommon                             |
+| Nervous system disorders             |                                      |                                      |                                      |
+| Headache                             | 26                                   | 1.4                                  | Very common                          |
+| Dizziness                            | 13                                   | 0                                    | Very common                          |
+| Disturbance in attention             | 7                                    | 0                                    | Common                               |
+| Tremor                               | 6.3                                  | 0                                    | Common                               |
+| Ear and labyrinth disorders          |                                      |                                      |                                      |
+| Vertigo                              | 4.9                                  | 0                                    | Common                               |
+
+<div style=\"page-break-after: always\"></div>
+
+| Vascular disorders Hypotension                       | 9.2                                                  | 2.1                                                  | Common                                               |
 |------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
-|                                                      | All grades %                                         | N=142 Grades 3/4 %                                   |                                                      |
-| Infections and infestations                          |                                                      |                                                      |                                                      |
-| Urinary tract infection                              | 13                                                   | 2.8                                                  | Very common                                          |
-| Upper respiratory tract infection                    | 11                                                   | 1.4                                                  | Very common                                          |
-| Pneumonia                                            | 8.5                                                  | 7.0                                                  | Common                                               |
-| Sepsis                                               | 7.7                                                  | 7.7                                                  | Common                                               |
-| Bronchitis                                           | 5.6                                                  | 0                                                    | Common                                               |
-| Oral herpes                                          | 4.9                                                  | 0                                                    | Common                                               |
-| Cystitis                                             | 4.2                                                  | 0                                                    | Common                                               |
-| Sinusitis                                            | 4.2                                                  | 0.7                                                  | Common                                               |
-| Erysipelas                                           | 3.5                                                  | 1.4                                                  | Common                                               |
-| Herpes zoster                                        | 3.5                                                  | 0.7                                                  | Common                                               |
-| Blood and lymphatic system disorders                 | Blood and lymphatic system disorders                 |                                                      |                                                      |
-| Febrile neutropenia                                  | 7.7                                                  | 7.0                                                  | Common                                               |
-| Immune system disorders                              |                                                      |                                                      |                                                      |
-| Hypersensitivity                                     | 2.1                                                  | 0                                                    | Common                                               |
-| Anaphylactic shock                                   | 0.7                                                  | 0.7                                                  | Uncommon                                             |
-| Nervous system disorders                             |                                                      |                                                      |                                                      |
-| Headache                                             | 26                                                   | 1.4                                                  | Very common                                          |
-| Dizziness                                            | 13                                                   | 0                                                    | Very common                                          |
-| Disturbance in attention                             | 7                                                    | 0                                                    | Common                                               |
-| Tremor                                               | 6.3                                                  | 0                                                    | Common                                               |
-| Ear and labyrinth disorders                          |                                                      |                                                      |                                                      |
-| Vertigo                                              | 4.9                                                  | 0                                                    | Common                                               |
-| Vascular disorders                                   |                                                      |                                                      |                                                      |
-| Hypotension                                          | 9.2                                                  | 2.1                                                  | Common                                               |
 | Haematoma                                            | 6.3                                                  | 0.7                                                  | Common                                               |
 | Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders      | Respiratory, thoracic and mediastinal disorders      |
 | Dyspnoea                                             | 18                                                   | 5.6                                                  | Very common                                          |
@@ -442,7 +442,7 @@ Table 4 Adverse reactions observed in ASM, SM -AHN and MCL
 | Epistaxis                                            | 12                                                   | 2.8                                                  | Very common                                          |
 | Oropharyngeal pain                                   | 4.2                                                  | 0                                                    | Common                                               |
 | Interstitial lung disease/Pneumonitis 1              | 2.1                                                  | 0                                                    | Common                                               |
-| Gastrointestinal disorders                           |                                                      |                                                      |                                                      |
+| Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           | Gastrointestinal disorders                           |
 | Nausea                                               | 82                                                   | 5.6                                                  | Very common                                          |
 | Vomiting                                             | 68                                                   | 5.6                                                  | Very common                                          |
 | Diarrhoea                                            | 51                                                   | 6.3                                                  | Very common                                          |
@@ -456,28 +456,21 @@ Table 4 Adverse reactions observed in ASM, SM -AHN and MCL
 | Asthenia                                             | 4.9                                                  | 0.7                                                  | Common                                               |
 | Chills                                               | 4.9                                                  | 0                                                    | Common                                               |
 | Oedema                                               | 4.2                                                  | 0.7                                                  | Common                                               |
-
-<div style=\"page-break-after: always\"></div>
-
-| Investigations                                 |                                                |                                                |                                                |
-|------------------------------------------------|------------------------------------------------|------------------------------------------------|------------------------------------------------|
-| Hyperglycaemia (non-fasting)*                  | 93.7                                           | 19.0                                           | Very common                                    |
-| Absolute lymphocyte decreased*                 | 73.2                                           | 45.8                                           | Very common                                    |
-| ANC decreased*                                 | 58.5                                           | 26.8                                           | Very common                                    |
-| Total bilirubin increased*                     | 40.1                                           | 4.9                                            | Very common                                    |
-| Lipase increased*                              | 39.4                                           | 17.6                                           | Very common                                    |
-| AST increased*                                 | 33.8                                           | 2.8                                            | Very common                                    |
-| ALT increased*                                 | 33.1                                           | 3.5                                            | Very common                                    |
-| Amylase increased*                             | 20.4                                           | 7.0                                            | Very common                                    |
-| Electrocardiogram QT prolonged 1               | 10.6                                           | 0.7                                            | Very common                                    |
-| Weight increased                               | 5.6                                            | 2.8                                            | Common                                         |
-| Injury, poisoning and procedural complications | Injury, poisoning and procedural complications | Injury, poisoning and procedural complications | Injury, poisoning and procedural complications |
-| Contusion                                      | 6.3                                            | 0                                              | Common                                         |
-| Fall                                           | 4.2                                            | 0.7                                            | Common                                         |
-
-* Frequency is based on laboratory values.
-
-1 These ARs were included after identification in the post-marketing setting.
+| Investigations                                       | Investigations                                       | Investigations                                       | Investigations                                       |
+| Hyperglycaemia (non-fasting)*                        | 93.7                                                 | 19.0                                                 | Very common                                          |
+| Absolute lymphocyte decreased*                       | 73.2                                                 | 45.8                                                 | Very common                                          |
+| ANC decreased*                                       | 58.5                                                 | 26.8                                                 | Very common                                          |
+| Total bilirubin increased*                           | 40.1                                                 | 4.9                                                  | Very common                                          |
+| Lipase increased*                                    | 39.4                                                 | 17.6                                                 | Very common                                          |
+| AST increased*                                       | 33.8                                                 | 2.8                                                  | Very common                                          |
+| ALT increased*                                       | 33.1                                                 | 3.5                                                  | Very common                                          |
+| Amylase increased*                                   | 20.4                                                 | 7.0                                                  | Very common                                          |
+| Electrocardiogram QT prolonged 1                     | 10.6                                                 | 0.7                                                  | Very common                                          |
+| Weight increased                                     | 5.6                                                  | 2.8                                                  | Common                                               |
+| Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications       | Injury, poisoning and procedural complications       |
+| Contusion                                            | 6.3                                                  | 0                                                    | Common                                               |
+| Fall                                                 | 4.2                                                  | 0.7                                                  | Common                                               |
+| * Frequency is based on laboratory values.           | * Frequency is based on laboratory values.           | * Frequency is based on laboratory values.           | * Frequency is based on laboratory values.           |
 
 ## Description of selected adverse reactions
 
@@ -488,6 +481,8 @@ Nausea, vomiting and diarrhoea were observed in AML, ASM, SM-AHN and MCL patient
 ## Reporting of suspected adverse reactions
 
 Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. Healthcare professionals are asked to report any suspected adverse reactions via the national reporting system listed in Appendix V.
+
+<div style=\"page-break-after: always\"></div>
 
 ## 4.9 Overdose
 
@@ -503,11 +498,7 @@ Pharmacotherapeutic group: Antineoplastic agents, protein kinase inhibitors, ATC
 
 ## Mechanism of action
 
-Midostaurin inhibits multiple receptor tyrosine kinases, including FLT3 and KIT kinase. Midostaurin inhibits FLT3 receptor signalling and induces cell cycle arrest and apoptosis in leukaemic cells expressing FLT3 ITD or TKD mutant receptors or over-expressing FLT3 wild type receptors. In vitro data indicate that midostaurin inhibits D816V mutant KIT receptors at exposure levels achieved in patients (average achieved exposure higher than IC50). In vitro data indicate that KIT wild type receptors are inhibited to a much lesser extent at these concentrations (average achieved exposure
-
-<div style=\"page-break-after: always\"></div>
-
-lower than IC50). Midostaurin interferes with aberrant KIT D816V-mediated signalling and inhibits mast cell proliferation, survival and histamine release.
+Midostaurin inhibits multiple receptor tyrosine kinases, including FLT3 and KIT kinase. Midostaurin inhibits FLT3 receptor signalling and induces cell cycle arrest and apoptosis in leukaemic cells expressing FLT3 ITD or TKD mutant receptors or over-expressing FLT3 wild type receptors. In vitro data indicate that midostaurin inhibits D816V mutant KIT receptors at exposure levels achieved in patients (average achieved exposure higher than IC50). In vitro data indicate that KIT wild type receptors are inhibited to a much lesser extent at these concentrations (average achieved exposure lower than IC50). Midostaurin interferes with aberrant KIT D816V-mediated signalling and inhibits mast cell proliferation, survival and histamine release.
 
 In addition, midostaurin inhibits several other receptor tyrosine kinases such as PDGFR (platelet-derived growth factor receptor) or VEGFR2 (vascular endothelial growth factor receptor 2), as well as members of the serine/threonine kinase family PKC (protein kinase C). Midostaurin binds to the catalytic domain of these kinases and inhibits the mitogenic signalling of the respective growth factors in cells, resulting in growth arrest.
 
@@ -521,6 +512,8 @@ Two major metabolites have been identified in murine models and humans, i.e. CGP
 
 A dedicated QT study in 192 healthy subjects with a dose of 75 mg twice daily did not reveal clinically significant prolongation of QT by midostaurin and CGP62221 but the study duration was not long enough to estimate the QTc prolongation effects of the long-acting metabolite CGP52421. Therefore, the change from baseline in QTcF with the concentration of midostaurin and both metabolites was further explored in a phase II study in 116 patients with ASM, SM-AHN or MCL. At the median peak Cmin concentrations attained at a dose of 100 mg twice daily, neither midostaurin, CGP62221 nor CGP52421 showed a potential to cause clinically significant QTcF prolongation, since the upper bounds of predicted change at these concentration levels were less than 10 msecs (5.8, 2.4, and 4.0 msecs, respectively). In the ASM, SM-AHN and MCL population, 25.4% of patients had at least one ECG measurement with a QTcF greater than 450 ms and 4.7% greater than 480 ms.
 
+<div style=\"page-break-after: always\"></div>
+
 ## Clinical efficacy and safety
 
 ## AML
@@ -529,13 +522,11 @@ The efficacy and safety of midostaurin in combination with standard chemotherapy
 
 The two treatment groups were generally balanced with respect to the baseline demographics of disease characteristics. The median age of the patients was 47 years (range: 18 to 60 years), a majority of the patients had ECOG performance status of 0 or 1 (88.3%), and most patients had de novo AML (95%). Of the patients with race information reported, 88.1% were Caucasian. The majority of patients (77.4%) had FLT3-ITD mutations, most of them (47.6%) with a low allelic ratio (&lt;0.7), and 22.6% of patients had FLT3-TKD mutations. Forty-eight per cent were male in the midostaurin arm and 41% in the placebo arm.
 
-Patients who proceeded to haematopoietic stem cell transplant (SCT) stopped receiving study treatment prior to the start of the SCT conditioning regimen. The overall rate of SCT was 59.4%
-
-<div style=\"page-break-after: always\"></div>
-
-(214/360) of patients in the midostaurin plus standard chemotherapy arm versus 55.2% (197/357) in the placebo plus standard chemotherapy arm. All patients were followed for survival.
+Patients who proceeded to haematopoietic stem cell transplant (SCT) stopped receiving study treatment prior to the start of the SCT conditioning regimen. The overall rate of SCT was 59.4% (214/360) of patients in the midostaurin plus standard chemotherapy arm versus 55.2% (197/357) in the placebo plus standard chemotherapy arm. All patients were followed for survival.
 
 The primary endpoint of the study was overall survival (OS), measured from the date of randomisation until death by any cause. The primary analysis was conducted after a minimum follow-up of approximately 3.5 years after the randomisation of the last patient. The study demonstrated a statistically significant improvement in OS with a 23% risk reduction of death for midostaurin plus standard chemotherapy over placebo plus standard chemotherapy (see Table 6 and Figure 1).
+
+<div style=\"page-break-after: always\"></div>
 
 Figure 1 Kaplan-Meier curve for overall survival, non-censored for SCT
 
@@ -599,8 +590,6 @@ Table 6 Overview of OS, EFS, CR, DFS and CIR by gender in AML
 | DFS (CR induction) (HR) | 0.663 (0.516, 0.853)  | 0.594 (0.408, 0.865)  | 0.778 (0.554, 1.093)  |
 | CIR (CR induction) (HR) | 0.676 (0.515, 0.888)  | 0.662 (0.436, 1.006)  | 0.742 (0.516, 1.069)  |
 
-*Odds ratio calculated as (No complete remission in treatment/Complete remission in treatment) / (No complete remission in placebo/complete remission in placebo)
-
 HR= Hazard ratio; OR=odds ratio
 
 Efficacy and safety in patients &gt;60-70 years old were evaluated as part of a phase II, single-arm, investigator-initiated study of midostaurin in combination with intensive induction, consolidation including allogenic SCT and single-agent maintenance in patients with FLT3-ITD mutated AML. Based on the final analysis, the EFS rate at 2 years (primary endpoint) was 34% (95% CI: 27, 44) and the median OS was 22.7 months in patients older than 60 years of age (128 out of 440 patients).
@@ -659,10 +648,6 @@ Table 8 Efficacy of midostaurin in ASM, SM-AHN and MCL per IWG-MRT-ECNM consensu
 | Overall survival             |                          |                   |                   |                |                   |
 | n/N (%)                      | 65/113 (57.5)            | 4/15 (26.7)       | 49/72 (68.1)      | 12/21 (57.1)   | 0/5 (0.0)         |
 | median (95% CI)              | 29.9 (20.3, 42.0)        | 51.1 (34.7, NE)   | 22.1 (16.8, 32.2) | 22.6 (8.3, NE) | NE                |
-
-*Confirmation period for responses: 12 weeks
-
-Analysis excludes ascites as a C-finding.
 
 Patients who received non -study anti -neoplastic therapy were considered as having progressed at the time of the new therapy.
 
@@ -868,8 +853,6 @@ Detailed information on this medicinal product is available on the website of th
 ## A. MANUFACTURERS RESPONSIBLE FOR BATCH RELEASE
 
 Name and address of the manufacturers responsible for batch release
-
-Novartis Pharma GmbH Roonstrasse 25 90429 Nuremberg Germany
 
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
@@ -1341,12 +1324,11 @@ Most of the side effects are mild to moderate and will generally disappear after
 - -thirst, high urine output, dark urine, dry flushed skin (signs of high levels of sugar in the blood, known as hyperglycaemia)
 - -muscle weakness, drowsiness, confusion, convulsions, impaired consciousness (signs of high level of sodium in the blood, known as hypernatraemia)
 - -muscle weakness, muscle spasms, abnormal heart rhythm (signs of low levels of potassium in the blood, known as hypokalaemia)
-- -bruising and bleeding (defect in blood clotting)
-- -abnormal blood test results which can indicate to your doctor how well certain parts of your
 
 <div style=\"page-break-after: always\"></div>
 
-body are functioning: high levels of alanine aminotransferase (ALT) and/or aspartate aminotransferase (AST) (indicative of liver function)
+- -bruising and bleeding (defect in blood clotting)
+- -abnormal blood test results which can indicate to your doctor how well certain parts of your body are functioning: high levels of alanine aminotransferase (ALT) and/or aspartate aminotransferase (AST) (indicative of liver function)
 
 ## Common (may affect up to 1 in every 10 people)
 
@@ -1395,15 +1377,16 @@ Most of the side effects are mild to moderate and will generally disappear after
 
 - -urinary tract infection
 - -upper respiratory tract infection
-- -headache
-- -dizziness
 
 <div style=\"page-break-after: always\"></div>
 
+- -headache
+- -dizziness
 - -shortness of breath, laboured breathing (dyspnoea)
 - -cough
 - -fluid collection in the lungs/chest cavity, which, if severe, could make you breathless (pleural effusion)
-- -abnormal electrocardiogram results which can indicate to your doctor that you have an abnormality of the electrical activity of your heart known as QT prolongation
+- -
+- abnormal electrocardiogram results which can indicate to your doctor that you have an abnormality of the electrical activity of your heart known as QT prolongation
 - -nose bleeds
 - -nausea, vomiting
 - -diarrhoea
@@ -1442,17 +1425,14 @@ Most of the side effects are mild to moderate and will generally disappear after
 
 If you get any side effects, talk to your doctor or pharmacist. This includes any possible side effects not listed in this leaflet. You can also report side effects directly via the national reporting system listed in Appendix V. By reporting side effects you can help provide more information on the safety of this medicine.
 
+<div style=\"page-break-after: always\"></div>
+
 ## 5. How to store Rydapt
 
 - -Keep this medicine out of the sight and reach of children.
 - -Do not use this medicine after the expiry date which is stated on the carton and the blister foil after EXP. The expiry date refers to the last day of that month.
 - -This medicine does not require any special temperature storage conditions. Store in the original container in order to protect from moisture.
-- -Do not use this medicine if you notice any damage to the packaging or if there are any signs of
-
-<div style=\"page-break-after: always\"></div>
-
-tampering.
-
+- -Do not use this medicine if you notice any damage to the packaging or if there are any signs of tampering.
 - -Do not throw away any medicines via wastewater or household waste. Ask your pharmacist how to throw away medicines you no longer use. These measures will help protect the environment.
 
 ## 6. Contents of the pack and other information
@@ -1474,29 +1454,23 @@ Novartis Europharm Limited Vista Building Elm Park, Merrion Road Dublin 4 Irelan
 
 ## Manufacturer
 
-Novartis Pharma GmbH Roonstrasse 25 90429 Nuremberg Germany
-
 Novartis Farmacéutica S.A. Gran Via de les Corts Catalanes, 764 08013 Barcelona Spain
 
 Novartis Pharma GmbH Sophie-Germain-Strasse 10 90443 Nuremberg Germany
 
+<div style=\"page-break-after: always\"></div>
+
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
 
-België/Belgique/Belgien Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
-
-## Lietuva
-
-SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
-
-## България
-
-Novartis Bulgaria EOOD Тел: +359 2 489 98 28
-
-## Luxembourg/Luxemburg
+## België/Belgique/Belgien
 
 Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
-<div style=\"page-break-after: always\"></div>
+## България
+
+Novartis Bulgaria EOOD
+
+Тел: +359 2 489 98 28
 
 ## Česká republika
 
@@ -1536,23 +1510,21 @@ Novartis Ireland Limited Tel: +353 1 260 12 55
 
 ## Ísland
 
-Vistor hf. Sími: +354 535 7000
+Vistor hf.
+
+Sími: +354 535 7000
 
 ## Italia
 
 Novartis Farma S.p.A. Tel: +39 02 96 54 1
 
-## Κύπρος
+## Lietuva
 
-Novartis Pharma Services Inc. Τηλ: +357 22 690 690
+SIA Novartis Baltics Lietuvos filialas Tel: +370 5 269 16 50
 
-## Latvija
+## Luxembourg/Luxemburg
 
-SIA Novartis Baltics
-
-Tel: +371 67 887 070
-
-## This leaflet was last revised in
+Novartis Pharma N.V. Tél/Tel: +32 2 246 16 11
 
 ## Magyarország
 
@@ -1598,12 +1570,28 @@ Novartis Slovakia s.r.o. Tel: +421 2 5542 5439
 
 Novartis Finland Oy Puh/Tel: +358 (0)10 6133 200
 
-## Sverige
+## Κύπρος
 
-Novartis Sverige AB Tel: +46 8 732 32 00
+Novartis Pharma Services Inc.
+
+Τηλ: +357 22 690 690
 
 <div style=\"page-break-after: always\"></div>
+
+## Latvija
+
+SIA Novartis Baltics
+
+Tel: +371 67 887 070
+
+## This leaflet was last revised in
 
 ## Other sources of information
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu
+
+## Sverige
+
+Novartis Sverige AB
+
+Tel: +46 8 732 32 00

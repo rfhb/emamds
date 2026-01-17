@@ -1,18 +1,18 @@
 ---
-document_datetime: 2024-10-21 10:57:58
+document_datetime: 2026-01-16 14:44:54
 document_pages: 32
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/amyvid-epar-product-information_en.pdf
 document_name: amyvid-epar-product-information_en.pdf
 version: success
-processing_time: 6.7599008
-conversion_datetime: 2025-12-19 21:05:11.21109
+processing_time: 6.4465204
+conversion_datetime: 2026-01-17 13:05:25.927907
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -24,17 +24,17 @@ docling_version:
 
 ## 1. NAME OF THE MEDICINAL PRODUCT
 
-Amyvid   800 MBq/mL solution for injection Amyvid   1,900 MBq/mL solution for injection
+Amyvid 800 MBq/mL solution for injection Amyvid 1,900 MBq/mL solution for injection
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-## Amyvid   800 MBq/mL solution for injection
+## Amyvid 800 MBq/mL solution for injection
 
 Each mL of solution for injection contains 800 MBq of florbetapir ( 18 F) at the date and time of calibration (ToC).
 
 The activity per vial ranges from 800 MBq to 12,000 MBq at the ToC.
 
-## Amyvid   1,900 MBq/mL solution for injection
+## Amyvid 1,900 MBq/mL solution for injection
 
 Each mL of solution for injection contains 1,900 MBq of florbetapir ( 18 F) at the ToC. The activity per vial ranges from 1,900 MBq to 28,500 MBq at the ToC.
 
@@ -58,7 +58,7 @@ Clear, colourless solution.
 
 This medicinal product is for diagnostic use only.
 
-Amyvid is a radiopharmaceutical indicated for Positron Emission Tomography (PET) imaging of β -amyloid neuritic plaque density in the brains of adult patients with cognitive impairment who are being evaluated for Alzheimer's disease (AD) and other causes of cognitive impairment. Amyvid should be used in conjunction with a clinical evaluation.
+Amyvid is a radiopharmaceutical indicated for Positron Emission Tomography (PET) imaging of β-amyloid neuritic plaque density in the brains of adult patients with cognitive impairment who are being evaluated for Alzheimer's disease (AD) and other causes of cognitive impairment. Amyvid should be used in conjunction with a clinical evaluation.
 
 A negative scan indicates sparse or no plaques, which is not consistent with a diagnosis of AD. For the limitations in the interpretation of a positive scan, see sections 4.4 and 5.1.
 
@@ -142,7 +142,7 @@ For information on the use in the paediatric population, see sections 4.2 or 5.1
 
 ## Interpretation of Amyvid images
 
-Amyvid images should only be interpreted by readers trained in the interpretation of PET images with florbetapir ( 18 F). A negative scan indicates sparse or no density of cortical β -amyloid plaques. A positive scan indicates moderate to frequent density. Image interpretation errors in the estimation of brain β -amyloid neuritic plaque density, including false negatives, have been observed.
+Amyvid images should only be interpreted by readers trained in the interpretation of PET images with florbetapir ( 18 F). A negative scan indicates sparse or no density of cortical β-amyloid plaques. A positive scan indicates moderate to frequent density. Image interpretation errors in the estimation of brain β-amyloid neuritic plaque density, including false negatives, have been observed.
 
 Review of images should be primarily in the transaxial orientation with access as needed to the sagittal and coronal planes. It is recommended that review of images include all transaxial slices of the brain using a black-white scale with the maximum intensity of the scale set to the maximum intensity of all brain pixels.
 
@@ -196,7 +196,7 @@ The small amount of alcohol in this medicinal product will not have any noticeab
 
 No in vivo interaction studies have been performed.
 
-In vitro binding studies have not shown interference of florbetapir ( 18 F) binding to β -amyloid plaques in the presence of other common medicinal products taken by AD patients.
+In vitro binding studies have not shown interference of florbetapir ( 18 F) binding to β-amyloid plaques in the presence of other common medicinal products taken by AD patients.
 
 ## 4.6 Fertility, pregnancy and lactation
 
@@ -234,7 +234,7 @@ The safety profile of Amyvid is based on its administrations to 2,105 subjects i
 
 ## Tabulated list of adverse reactions
 
-Frequencies are defined as very common ( ≥ 1/10); common ( ≥1 /100 to &lt;1/10); uncommon ( ≥ 1/1,000 to &lt;1/100); rare ( ≥ 1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data). While they may in reality occur at lower frequencies than indicated below, the size of the source database did not allow for the assignment of frequency categories lower than the category 'uncommon' ( ≥ 1/1,000 to &lt;1/100).
+Frequencies are defined as very common (≥1/10); common (≥1/100 to &lt;1/10); uncommon (≥1/1,000 to &lt;1/100); rare (≥1/10,000 to &lt;1/1,000); very rare (&lt;1/10,000); not known (cannot be estimated from the available data). While they may in reality occur at lower frequencies than indicated below, the size of the source database did not allow for the assignment of frequency categories lower than the category 'uncommon' (≥1/1,000 to &lt;1/100).
 
 | System organ class                                   | Common   | Uncommon                                     |
 |------------------------------------------------------|----------|----------------------------------------------|
@@ -243,8 +243,6 @@ Frequencies are defined as very common ( ≥ 1/10); common ( ≥1 /100 to &lt;1/
 | Gastrointestinal disorders                           |          | Nausea                                       |
 | Skin and subcutaneous tissue disorders               |          | Pruritus Urticaria                           |
 | General disorders and administration site conditions |          | Injection site reaction a Infusion site rash |
-
-a Injection site reaction includes injection site haemorrhage, injection site irritation, and injection site pain
 
 <div style=\"page-break-after: always\"></div>
 
@@ -266,7 +264,7 @@ Pharmacotherapeutic group: diagnostic radiopharmaceutical, central nervous syste
 
 ## Mechanism of action
 
-Florbetapir ( 18 F) binds to β -amyloid neuritic plaques. Binding studies using traditional neuropathological staining methods in post-mortem AD brains demonstrated statistically significant (p &lt; 0.0001) correlations between in vitro florbetapir ( 18 F) binding and β -amyloid aggregate deposition. In vivo , correlation was assessed in end-of-life patients between florbetapir ( 18 F) uptake in cortical grey matter and the total β -amyloid burden using 4G8 anti-amyloid antibody that stains β -amyloid found in both neuritic and diffuse plaques. The in vivo binding of florbetapir ( 18 F) to other β -amyloid structures or other brain structures or receptors remains unknown.
+Florbetapir ( 18 F) binds to β-amyloid neuritic plaques. Binding studies using traditional neuropathological staining methods in post-mortem AD brains demonstrated statistically significant (p &lt; 0.0001) correlations between in vitro florbetapir ( 18 F) binding and β-amyloid aggregate deposition. In vivo , correlation was assessed in end-of-life patients between florbetapir ( 18 F) uptake in cortical grey matter and the total β-amyloid burden using 4G8 anti-amyloid antibody that stains β-amyloid found in both neuritic and diffuse plaques. The in vivo binding of florbetapir ( 18 F) to other β-amyloid structures or other brain structures or receptors remains unknown.
 
 ## Pharmacodynamic effects
 
@@ -280,7 +278,7 @@ A pivotal study in 59 end-of-life patients was aimed at establishing the diagnos
 
 <div style=\"page-break-after: always\"></div>
 
-of the subjects could not be reliably measured. In all 59 subjects, a blinded PET reading by 5 nuclear medicine physicians resulted in a majority read sensitivity of 92% (95% CI: 78-98%) and specificity of 100% (95% CI: 80-100%). In a study of 47 young (&lt;40 years) healthy volunteers, presumed to be free of β -amyloid, all Amyvid PET scans were negative.
+of the subjects could not be reliably measured. In all 59 subjects, a blinded PET reading by 5 nuclear medicine physicians resulted in a majority read sensitivity of 92% (95% CI: 78-98%) and specificity of 100% (95% CI: 80-100%). In a study of 47 young (&lt;40 years) healthy volunteers, presumed to be free of β-amyloid, all Amyvid PET scans were negative.
 
 Sensitivity and specificity to detect the cortical neuritic plaque density of Amyvid was further investigated in two additional studies, in which different sets of readers interpreted images from some subjects followed to autopsy in the pivotal study. Their results closely paralleled the results obtained in the pivotal trial. Inter-rater agreement using Fleiss' kappa values ranged from 0.75 to 0.85.
 
@@ -358,11 +356,11 @@ In the absence of compatibility studies, this medicinal product must not be mixe
 
 ## 6.3 Shelf life
 
-Amyvid   800 MBq/mL solution for injection
+Amyvid 800 MBq/mL solution for injection
 
-## 7.5 hours from the ToC
+7.5 hours from the ToC
 
-## Amyvid   1,900 MBq/mL solution for injection
+Amyvid 1,900 MBq/mL solution for injection
 
 10 hours from the ToC.
 
@@ -376,7 +374,7 @@ Storage of radiopharmaceuticals should be in accordance with national regulation
 
 Amyvid is supplied in 10 mL or 15 mL clear Type I borosilicate glass vials with FluroTec-coated chlorobutyl elastomeric stoppers and aluminium seals.
 
-## Amyvid   800 MBq/mL solution for injection
+## Amyvid 800 MBq/mL solution for injection
 
 One multidose vial of 10 mL capacity contains 1 to 10 mL of solution, corresponding to 800 to 8,000 MBq at ToC.
 
@@ -384,7 +382,7 @@ One multidose vial of 10 mL capacity contains 1 to 10 mL of solution, correspond
 
 One multidose vial of 15 mL capacity contains 1 to 15 mL of solution, corresponding to 800 to 12,000 MBq at ToC.
 
-## Amyvid   1,900 MBq/mL solution for injection
+## Amyvid 1,900 MBq/mL solution for injection
 
 One multidose vial of 10 mL capacity contains 1 to 10 mL of solution, corresponding to 1,900 to 19,000 MBq at ToC.
 
@@ -414,7 +412,7 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 ## 7. MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V. Papendorpseweg 83 3528 BJ Utrecht The Netherlands
+Eli Lilly Nederland B.V. Orteliuslaan 1000 3528 BD Utrecht The Netherlands
 
 ## 8. MARKETING AUTHORISATION NUMBER(S)
 
@@ -463,8 +461,6 @@ The estimated absorbed radiation doses to organs and tissues of an average adult
 | Total body                 |                                                        11.6 |
 | Effective Dose [µSv/MBq] a |                                                        18.6 |
 
-a Assumed quality factor (Q) of 1 for conversion of absorbed dose to effective dose for 18 F.
-
 The effective dose resulting from the administration of a 370 MBq dose for an adult weighing 70 kg is about 7 mSv. If a CT scan is simultaneously performed as part of the PET procedure, exposure to ionising radiation will increase in an amount dependent on the settings used in the CT acquisition. For an administered activity of 370 MBq the typical radiation dose to the target organ (brain) is 3.7 mGy.
 
 For an administered activity of 370 MBq the typical radiation doses delivered to the critical organs, gallbladder, upper large intestine wall, lower large intestine wall, small intestine and liver are 53 mGy, 27.5 mGy, 10.3 mGy, 24.2 mGy and 23.8 mGy, respectively.
@@ -485,7 +481,7 @@ Amyvid may be diluted aseptically with sodium chloride 9 mg/mL (0.9%) solution f
 
 The solution should be inspected visually prior to use. Only clear solutions, free of visible particles should be used.
 
-Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu/.
+Detailed information on this medicinal product is available on the website of the European Medicines Agency https://www.ema.europa.eu/.
 
 <div style=\"page-break-after: always\"></div>
 
@@ -539,7 +535,7 @@ The MAH shall ensure that, following discussions and agreement with the National
 
 The physician training course should contain the following key elements:
 
-- Information on amyloid pathology in Alzheimer Disease; relevant information on Amyvid as an β -amyloid PET tracer, including the approved indication according to the SmPC, limitations of Amyvid use, interpretation errors, safety information and the results of clinical trials informing on the diagnostic use of Amyvid
+- Information on amyloid pathology in Alzheimer Disease; relevant information on Amyvid as an β-amyloid PET tracer, including the approved indication according to the SmPC, limitations of Amyvid use, interpretation errors, safety information and the results of clinical trials informing on the diagnostic use of Amyvid
 - Review of the PET reading criteria, including method of image review, criteria for interpretation, and images demonstrating the binary read methodology
 - The material should include Amyvid PET demonstration cases with correct PET scan interpretation by an experienced reader; Amyvid-PET scans for self-assessment; and a selfqualification procedure to be offered to each trainee. Training should include a sufficient number of clearly positive and negative cases as well as intermediate level cases. Cases should be histopathologically confirmed, if possible.
 - Expertise and qualification of trainers in both electronic and in-person training should be ensured.
@@ -624,11 +620,13 @@ Any unused material should be disposed of in accordance with local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/12/805/001 (10 mL) EU/1/12/805/002 (15 mL)
+EU/1/12/805/001 (10 mL)
+
+EU/1/12/805/002 (15 mL)
 
 ## 13. BATCH NUMBER
 
@@ -758,11 +756,13 @@ Any unused material should be disposed of in accordance with local requirements.
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 ## 12. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/12/805/003 (10 mL) EU/1/12/805/004 (15 mL)
+EU/1/12/805/003 (10 mL)
+
+EU/1/12/805/004 (15 mL)
 
 13. BATCH NUMBER
 
@@ -855,7 +855,7 @@ This medicine is a radiopharmaceutical product for diagnostic use only.
 
 Amyvid contains the active substance florbetapir ( 18 F).
 
-Amyvid is given to adults with memory problems so that doctors can perform a type of brain scan, called a PET scan. Amyvid, along with other brain function tests, may help your doctor find the reason for your memory problems. An Amyvid PET scan can help your doctor determine whether or not you may have β -amyloid plaques in your brain. β -amyloid plaques are deposits present in the brains of people with Alzheimer's disease, but may also be present in the brain of people with other dementias. You should discuss the results of the test with the doctor that requested the scan.
+Amyvid is given to adults with memory problems so that doctors can perform a type of brain scan, called a PET scan. Amyvid, along with other brain function tests, may help your doctor find the reason for your memory problems. An Amyvid PET scan can help your doctor determine whether or not you may have β-amyloid plaques in your brain. β-amyloid plaques are deposits present in the brains of people with Alzheimer's disease, but may also be present in the brain of people with other dementias. You should discuss the results of the test with the doctor that requested the scan.
 
 The use of Amyvid does involve exposure to small amounts of radioactivity. Your doctor and the nuclear medicine doctor have considered that the benefit of this procedure with the radiopharmaceutical outweighs the risk of being exposed to radiation.
 
@@ -1002,7 +1002,7 @@ One multidose vial of 15 mL capacity containing 1 to 15 mL of solution, correspo
 
 ## Marketing Authorisation Holder
 
-Eli Lilly Nederland B.V., Papendorpseweg 83, 3528 BJ Utrecht, The Netherlands
+Eli Lilly Nederland B.V., Orteliuslaan 1000, 3528 BD Utrecht, The Netherlands
 
 ## Manufacturer
 
@@ -1030,23 +1030,21 @@ Tel: + 420 234 664 111
 
 ## Danmark
 
-Eli Lilly Danmark A/S Tlf: +45 45 26 60 00
+Eli Lilly Danmark A/S Tlf.: +45 45 26 60 00
 
 ## Deutschland
 
-Lilly Deutschland GmbH
-
-Tel. + 49-(0) 6172 273 2222
+Lilly Deutschland GmbH Tel. + 49-(0) 6172 273 2222
 
 ## Eesti
 
-Eli Lilly Nederland B.V. Tel: +372 6 817 280
+Eli Lilly Nederland B.V.
+
+Tel: +372 6 817 280
 
 ## Ελλάδα
 
-ΦΑΡΜΑΣΕΡΒ - ΛΙΛΛΥ Α.Ε.Β.Ε.
-
-Τηλ: +30 210 629 4600
+ΦΑΡΜΑΣΕΡΒ-ΛΙΛΛΥ Α.Ε.Β.Ε. Τηλ: +30 210 629 4600
 
 ## España
 
@@ -1054,7 +1052,9 @@ Lilly S.A. Tel: + 34-91 663 50 00
 
 ## France
 
-Lilly France Tél: +33-(0) 1 55 49 34 34
+Lilly France
+
+Tél: +33-(0) 1 55 49 34 34
 
 ## Hrvatska
 
@@ -1072,7 +1072,9 @@ Sími + 354 540 8000
 
 ## Italia
 
-Eli Lilly Italia S.p.A. Tel: + 39- 055 42571
+Eli Lilly Italia S.p.A.
+
+Tel: + 39- 055 42571
 
 ## Lietuva
 
@@ -1098,7 +1100,9 @@ Tel: + 31-(0) 30 60 25 800
 
 ## Norge
 
-Eli Lilly Norge A.S. Tlf: + 47 22 88 18 00
+Eli Lilly Norge A.S.
+
+Tlf: + 47 22 88 18 00
 
 ## Österreich
 
@@ -1122,9 +1126,7 @@ Eli Lilly farmacevtska družba, d.o.o. Tel: +386 (0)1 580 00 10
 
 ## Slovenská republika
 
-Eli Lilly Slovakia s.r.o.
-
-Tel: + 421 220 663 111
+Eli Lilly Slovakia s.r.o. Tel: + 421 220 663 111
 
 ## Suomi/Finland
 
@@ -1132,11 +1134,7 @@ Oy Eli Lilly Finland Ab Puh/Tel: + 358-(0) 9 85 45 250
 
 <div style=\"page-break-after: always\"></div>
 
-## Κύπρος
-
-Phadisco Ltd
-
-Τηλ: +357 22 715000
+Κύπρος Phadisco Ltd Τηλ: +357 22 715000
 
 ## Latvija
 
@@ -1148,7 +1146,7 @@ Tel:
 
 ## This leaflet was last revised in { MM/YYYY }.
 
-Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/
+Detailed information on this medicine is available on the European Medicines Agency web site: https://www.ema.europa.eu/
 
 ---------------------------------------------------------------------------------------------------------------------------
 
@@ -1159,9 +1157,3 @@ The complete SmPC of Amyvid is provided as a separate document in the medicinal 
 Please refer to the SmPC {SmPC should be included in the box}.
 
 Sverige Eli Lilly Sweden AB Tel: + 46-(0) 8 7378800
-
-## United Kingdom (Northern Ireland)
-
-Eli Lilly and Company (Ireland) Limited
-
-Tel: + 353-(0) 1 661 4377

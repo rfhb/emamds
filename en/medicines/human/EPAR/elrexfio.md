@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 12:02:06
+document_datetime: 2026-01-16 16:32:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/elrexfio.html
 document_name: elrexfio.html
 version: success
-processing_time: 0.1191288
-conversion_datetime: 2025-12-30 03:35:21.213544
+processing_time: 0.1169116
+conversion_datetime: 2026-01-17 13:39:24.918498
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 elranatamab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -114,7 +112,7 @@ English (EN) (125.67 KB - PDF)
 
 [View](/en/documents/overview/elrexfio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-226)
+[Other languages (22)](#file-language-dropdown-493)
 
 български (BG) (151.03 KB - PDF)
 
@@ -306,17 +304,17 @@ English (EN) (1003.4 KB - PDF)
 
 Elrexfio : EPAR - Product information
 
-English (EN) (261.79 KB - PDF)
+English (EN) (561.9 KB - PDF)
 
 **First published:** 25/01/2024
 
-**Last updated:** 17/09/2025
+**Last updated:** 16/01/2026
 
 [View](/en/documents/product-information/elrexfio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-782)
+[Other languages (24)](#file-language-dropdown-663)
 
-български (BG) (294 KB - PDF)
+български (BG) (298.09 KB - PDF)
 
 **First published:**
 
@@ -324,11 +322,11 @@ English (EN) (261.79 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+16/01/2026
 
 [View](/bg/documents/product-information/elrexfio-epar-product-information_bg.pdf)
 
-español (ES) (278.39 KB - PDF)
+español (ES) (279.8 KB - PDF)
 
 **First published:**
 
@@ -336,11 +334,11 @@ español (ES) (278.39 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+16/01/2026
 
 [View](/es/documents/product-information/elrexfio-epar-product-information_es.pdf)
 
-čeština (CS) (278.25 KB - PDF)
+čeština (CS) (281.26 KB - PDF)
 
 **First published:**
 
@@ -348,11 +346,11 @@ español (ES) (278.39 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+16/01/2026
 
 [View](/cs/documents/product-information/elrexfio-epar-product-information_cs.pdf)
 
-dansk (DA) (264.72 KB - PDF)
+dansk (DA) (268.49 KB - PDF)
 
 **First published:**
 
@@ -360,11 +358,11 @@ dansk (DA) (264.72 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+16/01/2026
 
 [View](/da/documents/product-information/elrexfio-epar-product-information_da.pdf)
 
-Deutsch (DE) (570.9 KB - PDF)
+Deutsch (DE) (298.64 KB - PDF)
 
 **First published:**
 
@@ -372,11 +370,11 @@ Deutsch (DE) (570.9 KB - PDF)
 
 **Last updated:**
 
-07/11/2025
+16/01/2026
 
 [View](/de/documents/product-information/elrexfio-epar-product-information_de.pdf)
 
-eesti keel (ET) (272.29 KB - PDF)
+eesti keel (ET) (273.51 KB - PDF)
 
 **First published:**
 
@@ -384,11 +382,11 @@ eesti keel (ET) (272.29 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+16/01/2026
 
 [View](/et/documents/product-information/elrexfio-epar-product-information_et.pdf)
 
-ελληνικά (EL) (300.94 KB - PDF)
+ελληνικά (EL) (304.32 KB - PDF)
 
 **First published:**
 
@@ -396,11 +394,11 @@ eesti keel (ET) (272.29 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+16/01/2026
 
 [View](/el/documents/product-information/elrexfio-epar-product-information_el.pdf)
 
-français (FR) (282.99 KB - PDF)
+français (FR) (285.81 KB - PDF)
 
 **First published:**
 
@@ -408,11 +406,11 @@ français (FR) (282.99 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+16/01/2026
 
 [View](/fr/documents/product-information/elrexfio-epar-product-information_fr.pdf)
 
-hrvatski (HR) (295.6 KB - PDF)
+hrvatski (HR) (297.32 KB - PDF)
 
 **First published:**
 
@@ -420,11 +418,11 @@ hrvatski (HR) (295.6 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+16/01/2026
 
 [View](/hr/documents/product-information/elrexfio-epar-product-information_hr.pdf)
 
-íslenska (IS) (267.64 KB - PDF)
+íslenska (IS) (270.32 KB - PDF)
 
 **First published:**
 
@@ -432,11 +430,11 @@ hrvatski (HR) (295.6 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+16/01/2026
 
 [View](/is/documents/product-information/elrexfio-epar-product-information_is.pdf)
 
-italiano (IT) (269.72 KB - PDF)
+italiano (IT) (271.37 KB - PDF)
 
 **First published:**
 
@@ -444,11 +442,11 @@ italiano (IT) (269.72 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+16/01/2026
 
 [View](/it/documents/product-information/elrexfio-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (279.83 KB - PDF)
+latviešu valoda (LV) (281.32 KB - PDF)
 
 **First published:**
 
@@ -456,11 +454,11 @@ latviešu valoda (LV) (279.83 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+16/01/2026
 
 [View](/lv/documents/product-information/elrexfio-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (269.59 KB - PDF)
+lietuvių kalba (LT) (270.62 KB - PDF)
 
 **First published:**
 
@@ -468,11 +466,11 @@ lietuvių kalba (LT) (269.59 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+16/01/2026
 
 [View](/lt/documents/product-information/elrexfio-epar-product-information_lt.pdf)
 
-magyar (HU) (281.68 KB - PDF)
+magyar (HU) (290.72 KB - PDF)
 
 **First published:**
 
@@ -480,11 +478,11 @@ magyar (HU) (281.68 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+16/01/2026
 
 [View](/hu/documents/product-information/elrexfio-epar-product-information_hu.pdf)
 
-Malti (MT) (320.28 KB - PDF)
+Malti (MT) (332.47 KB - PDF)
 
 **First published:**
 
@@ -492,11 +490,11 @@ Malti (MT) (320.28 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+16/01/2026
 
 [View](/mt/documents/product-information/elrexfio-epar-product-information_mt.pdf)
 
-Nederlands (NL) (277.14 KB - PDF)
+Nederlands (NL) (276.89 KB - PDF)
 
 **First published:**
 
@@ -504,11 +502,11 @@ Nederlands (NL) (277.14 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+16/01/2026
 
 [View](/nl/documents/product-information/elrexfio-epar-product-information_nl.pdf)
 
-norsk (NO) (266.2 KB - PDF)
+norsk (NO) (267.5 KB - PDF)
 
 **First published:**
 
@@ -516,11 +514,11 @@ norsk (NO) (266.2 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+16/01/2026
 
 [View](/no/documents/product-information/elrexfio-epar-product-information_no.pdf)
 
-polski (PL) (293.89 KB - PDF)
+polski (PL) (296.1 KB - PDF)
 
 **First published:**
 
@@ -528,11 +526,11 @@ polski (PL) (293.89 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+16/01/2026
 
 [View](/pl/documents/product-information/elrexfio-epar-product-information_pl.pdf)
 
-português (PT) (275.35 KB - PDF)
+português (PT) (277.29 KB - PDF)
 
 **First published:**
 
@@ -540,11 +538,11 @@ português (PT) (275.35 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+16/01/2026
 
 [View](/pt/documents/product-information/elrexfio-epar-product-information_pt.pdf)
 
-română (RO) (279.52 KB - PDF)
+română (RO) (281.19 KB - PDF)
 
 **First published:**
 
@@ -552,11 +550,11 @@ română (RO) (279.52 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+16/01/2026
 
 [View](/ro/documents/product-information/elrexfio-epar-product-information_ro.pdf)
 
-slovenčina (SK) (282.9 KB - PDF)
+slovenčina (SK) (284.49 KB - PDF)
 
 **First published:**
 
@@ -564,11 +562,11 @@ slovenčina (SK) (282.9 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+16/01/2026
 
 [View](/sk/documents/product-information/elrexfio-epar-product-information_sk.pdf)
 
-slovenščina (SL) (272.17 KB - PDF)
+slovenščina (SL) (271.45 KB - PDF)
 
 **First published:**
 
@@ -576,11 +574,11 @@ slovenščina (SL) (272.17 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+16/01/2026
 
 [View](/sl/documents/product-information/elrexfio-epar-product-information_sl.pdf)
 
-Suomi (FI) (272.17 KB - PDF)
+Suomi (FI) (273.94 KB - PDF)
 
 **First published:**
 
@@ -588,11 +586,11 @@ Suomi (FI) (272.17 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+16/01/2026
 
 [View](/fi/documents/product-information/elrexfio-epar-product-information_fi.pdf)
 
-svenska (SV) (266.72 KB - PDF)
+svenska (SV) (269.46 KB - PDF)
 
 **First published:**
 
@@ -600,11 +598,11 @@ svenska (SV) (266.72 KB - PDF)
 
 **Last updated:**
 
-17/09/2025
+16/01/2026
 
 [View](/sv/documents/product-information/elrexfio-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000278463 11/09/2025
+**Latest procedure affecting product information:** VR/0000294591 13/11/2025
 
 icon globe
 
@@ -628,7 +626,7 @@ English (EN) (25.61 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/elrexfio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-216)
+[Other languages (24)](#file-language-dropdown-167)
 
 български (BG) (27.28 KB - PDF)
 
@@ -856,7 +854,7 @@ Pfizer Europe MA EEIG
 
 Pleinlaan 17
 
-Opinion adopted 12/10/2023 Marketing authorisation issued 07/12/2023 Revision 4
+Opinion adopted 12/10/2023 Marketing authorisation issued 07/12/2023 Revision 5
 
 ## Assessment history
 
@@ -868,11 +866,11 @@ Collapse section
 
 Elrexfio : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (326.65 KB - PDF)
+English (EN) (152.8 KB - PDF)
 
 **First published:** 07/04/2025
 
-**Last updated:** 17/09/2025
+**Last updated:** 16/01/2026
 
 [View](/en/documents/procedural-steps-after/elrexfio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
 
@@ -932,13 +930,14 @@ English (EN) (153.13 KB - PDF)
 
 #### More information on Elrexfio
 
+- [Real-world treatment patterns and clinical outcomes for patients with relapsed/refractory multiple myeloma who received elranatamab - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000852)
 - [Real-World (RW) Elranatamab Administration: Step Up Dosing (SUD), Treatment Patterns, and Healthcare Resource Utilization (HCRU) in Japan MDV Data (SUMMIT) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000503)
 - [Administration of elranatamab in the real-world: Treatement patterns, healthcare resource utilization, costs, effectiveness, and safety (ALTITUDE) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000229)
 - [Administration of Elranatamab In the Real-World: Treatment Patterns, Healthcare Resource Utilization, Costs, Effectiveness, anD SafEty (ALTITUDE-2) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000293)
 - [An International, Multicenter, Non-interventional Post-Authorization Safety Study to Evaluate the Effectiveness and Safety of Elranatamab in Patients with Relapsed/Refractory Multiple Myeloma (RRMM) treated in Real-World Settings (MagnetisMM-16) - post-authorisation study](https://catalogues.ema.europa.eu/study/106402)
 - [A french AMBispective, multisite, non-interventional Real-life effectiveness and safety of ELranatanab for the treatment of patients with relapse or refractory multiple myelomA (RRMM) - (AMbreLA) - post-authorisation study](https://catalogues.ema.europa.eu/study/1000000074)
 
-**This page was last updated on** 17/09/2025
+**This page was last updated on** 16/01/2026
 
 ## Share this page
 

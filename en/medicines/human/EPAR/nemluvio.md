@@ -1,18 +1,18 @@
 ---
-document_datetime: 2025-12-29 12:15:48
+document_datetime: 2026-01-14 14:30:00
 document_pages: 1
 document_pathfilename: www.ema.europa.eu/en/medicines/human/EPAR/nemluvio.html
 document_name: nemluvio.html
 version: success
-processing_time: 0.1109055
-conversion_datetime: 2025-12-29 23:24:40.753269
+processing_time: 0.1176877
+conversion_datetime: 2026-01-17 23:18:11.611292
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.66.0
-  docling-core: 2.57.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
   plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
@@ -25,8 +25,6 @@ docling_version:
 This medicine is authorised for use in the European Union
 
 nemolizumab Medicine Human Authorised
-
-On Monday, 12 January 2026, between 07:00 and 10:00 CET (Amsterdam time), this website will be unavailable due to scheduled maintenance.
 
 Page contents
 
@@ -113,7 +111,7 @@ English (EN) (97.99 KB - PDF)
 
 [View](/en/documents/overview/nemluvio-epar-medicine-overview_en.pdf)
 
-[Other languages (22)](#file-language-dropdown-831)
+[Other languages (22)](#file-language-dropdown-413)
 
 български (BG) (124.73 KB - PDF)
 
@@ -391,17 +389,17 @@ English (EN) (1.22 MB - PDF)
 
 Nemluvio : EPAR - Product information
 
-English (EN) (984.55 KB - PDF)
+English (EN) (737.26 KB - PDF)
 
 **First published:** 19/02/2025
 
-**Last updated:** 10/11/2025
+**Last updated:** 14/01/2026
 
 [View](/en/documents/product-information/nemluvio-epar-product-information_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-354)
+[Other languages (24)](#file-language-dropdown-217)
 
-български (BG) (1.31 MB - PDF)
+български (BG) (921.43 KB - PDF)
 
 **First published:**
 
@@ -409,11 +407,11 @@ English (EN) (984.55 KB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/bg/documents/product-information/nemluvio-epar-product-information_bg.pdf)
 
-español (ES) (1.38 MB - PDF)
+español (ES) (823.9 KB - PDF)
 
 **First published:**
 
@@ -421,11 +419,11 @@ español (ES) (1.38 MB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/es/documents/product-information/nemluvio-epar-product-information_es.pdf)
 
-čeština (CS) (1.34 MB - PDF)
+čeština (CS) (823.15 KB - PDF)
 
 **First published:**
 
@@ -433,11 +431,11 @@ español (ES) (1.38 MB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/cs/documents/product-information/nemluvio-epar-product-information_cs.pdf)
 
-dansk (DA) (1.3 MB - PDF)
+dansk (DA) (785.66 KB - PDF)
 
 **First published:**
 
@@ -445,11 +443,11 @@ dansk (DA) (1.3 MB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/da/documents/product-information/nemluvio-epar-product-information_da.pdf)
 
-Deutsch (DE) (1.35 MB - PDF)
+Deutsch (DE) (643.23 KB - PDF)
 
 **First published:**
 
@@ -457,11 +455,11 @@ Deutsch (DE) (1.35 MB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/de/documents/product-information/nemluvio-epar-product-information_de.pdf)
 
-eesti keel (ET) (1.3 MB - PDF)
+eesti keel (ET) (615.58 KB - PDF)
 
 **First published:**
 
@@ -469,11 +467,11 @@ eesti keel (ET) (1.3 MB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/et/documents/product-information/nemluvio-epar-product-information_et.pdf)
 
-ελληνικά (EL) (1.47 MB - PDF)
+ελληνικά (EL) (769.85 KB - PDF)
 
 **First published:**
 
@@ -481,11 +479,11 @@ eesti keel (ET) (1.3 MB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/el/documents/product-information/nemluvio-epar-product-information_el.pdf)
 
-français (FR) (1.2 MB - PDF)
+français (FR) (763.17 KB - PDF)
 
 **First published:**
 
@@ -493,11 +491,11 @@ français (FR) (1.2 MB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/fr/documents/product-information/nemluvio-epar-product-information_fr.pdf)
 
-hrvatski (HR) (1.4 MB - PDF)
+hrvatski (HR) (1000.77 KB - PDF)
 
 **First published:**
 
@@ -505,11 +503,11 @@ hrvatski (HR) (1.4 MB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/hr/documents/product-information/nemluvio-epar-product-information_hr.pdf)
 
-íslenska (IS) (1.42 MB - PDF)
+íslenska (IS) (928.24 KB - PDF)
 
 **First published:**
 
@@ -517,11 +515,11 @@ hrvatski (HR) (1.4 MB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/is/documents/product-information/nemluvio-epar-product-information_is.pdf)
 
-italiano (IT) (1.22 MB - PDF)
+italiano (IT) (768.12 KB - PDF)
 
 **First published:**
 
@@ -529,11 +527,11 @@ italiano (IT) (1.22 MB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/it/documents/product-information/nemluvio-epar-product-information_it.pdf)
 
-latviešu valoda (LV) (1.28 MB - PDF)
+latviešu valoda (LV) (845.71 KB - PDF)
 
 **First published:**
 
@@ -541,11 +539,11 @@ latviešu valoda (LV) (1.28 MB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/lv/documents/product-information/nemluvio-epar-product-information_lv.pdf)
 
-lietuvių kalba (LT) (1.39 MB - PDF)
+lietuvių kalba (LT) (1000.92 KB - PDF)
 
 **First published:**
 
@@ -553,11 +551,11 @@ lietuvių kalba (LT) (1.39 MB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/lt/documents/product-information/nemluvio-epar-product-information_lt.pdf)
 
-magyar (HU) (1.36 MB - PDF)
+magyar (HU) (859.74 KB - PDF)
 
 **First published:**
 
@@ -565,11 +563,11 @@ magyar (HU) (1.36 MB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/hu/documents/product-information/nemluvio-epar-product-information_hu.pdf)
 
-Malti (MT) (1.21 MB - PDF)
+Malti (MT) (673.67 KB - PDF)
 
 **First published:**
 
@@ -577,11 +575,11 @@ Malti (MT) (1.21 MB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/mt/documents/product-information/nemluvio-epar-product-information_mt.pdf)
 
-Nederlands (NL) (1.33 MB - PDF)
+Nederlands (NL) (810.14 KB - PDF)
 
 **First published:**
 
@@ -589,11 +587,11 @@ Nederlands (NL) (1.33 MB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/nl/documents/product-information/nemluvio-epar-product-information_nl.pdf)
 
-norsk (NO) (1.28 MB - PDF)
+norsk (NO) (623.51 KB - PDF)
 
 **First published:**
 
@@ -601,11 +599,11 @@ norsk (NO) (1.28 MB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/no/documents/product-information/nemluvio-epar-product-information_no.pdf)
 
-polski (PL) (1.52 MB - PDF)
+polski (PL) (1.02 MB - PDF)
 
 **First published:**
 
@@ -613,11 +611,11 @@ polski (PL) (1.52 MB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/pl/documents/product-information/nemluvio-epar-product-information_pl.pdf)
 
-português (PT) (1.45 MB - PDF)
+português (PT) (961.1 KB - PDF)
 
 **First published:**
 
@@ -625,11 +623,11 @@ português (PT) (1.45 MB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/pt/documents/product-information/nemluvio-epar-product-information_pt.pdf)
 
-română (RO) (1.38 MB - PDF)
+română (RO) (974.86 KB - PDF)
 
 **First published:**
 
@@ -637,11 +635,11 @@ română (RO) (1.38 MB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/ro/documents/product-information/nemluvio-epar-product-information_ro.pdf)
 
-slovenčina (SK) (1.4 MB - PDF)
+slovenčina (SK) (696.86 KB - PDF)
 
 **First published:**
 
@@ -649,11 +647,11 @@ slovenčina (SK) (1.4 MB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/sk/documents/product-information/nemluvio-epar-product-information_sk.pdf)
 
-slovenščina (SL) (1.52 MB - PDF)
+slovenščina (SL) (1001.54 KB - PDF)
 
 **First published:**
 
@@ -661,11 +659,11 @@ slovenščina (SL) (1.52 MB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/sl/documents/product-information/nemluvio-epar-product-information_sl.pdf)
 
-Suomi (FI) (1.45 MB - PDF)
+Suomi (FI) (684.27 KB - PDF)
 
 **First published:**
 
@@ -673,11 +671,11 @@ Suomi (FI) (1.45 MB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/fi/documents/product-information/nemluvio-epar-product-information_fi.pdf)
 
-svenska (SV) (1.28 MB - PDF)
+svenska (SV) (1.8 MB - PDF)
 
 **First published:**
 
@@ -685,11 +683,11 @@ svenska (SV) (1.28 MB - PDF)
 
 **Last updated:**
 
-10/11/2025
+14/01/2026
 
 [View](/sv/documents/product-information/nemluvio-epar-product-information_sv.pdf)
 
-**Latest procedure affecting product information:** VR/0000310765 10/11/2025
+**Latest procedure affecting product information:** PSUR/0000282252 08/01/2026
 
 icon globe
 
@@ -715,7 +713,7 @@ English (EN) (59.88 KB - PDF)
 
 [View](/en/documents/all-authorised-presentations/nemluvio-epar-all-authorised-presentations_en.pdf)
 
-[Other languages (24)](#file-language-dropdown-856)
+[Other languages (24)](#file-language-dropdown-647)
 
 български (BG) (58.33 KB - PDF)
 
@@ -1038,7 +1036,7 @@ Galderma International
 
 Tour Europlaza
 
-Opinion adopted 12/12/2024 Marketing authorisation issued 12/02/2025 Revision 3
+Opinion adopted 12/12/2024 Marketing authorisation issued 12/02/2025 Revision 4
 
 ## Assessment history
 
@@ -1050,13 +1048,23 @@ Collapse section
 
 Nemluvio : EPAR - Procedural steps taken and scientific information after authorisation
 
-English (EN) (418.3 KB - PDF)
+English (EN) (140.39 KB - PDF)
 
 **First published:** 17/07/2025
 
-**Last updated:** 10/11/2025
+**Last updated:** 14/01/2026
 
 [View](/en/documents/procedural-steps-after/nemluvio-epar-procedural-steps-taken-scientific-information-after-authorisation_en.pdf)
+
+Nemluvio-PSUSA-00011111-202503 : EPAR - Scientific conclusions and grounds for the variation to the terms of the marketing authorisation
+
+Reference Number: EMADOC-1700519818-2819768
+
+English (EN) (166.41 KB - PDF)
+
+**First published:** 14/01/2026
+
+[View](/en/documents/scientific-conclusion/nemluvio-psusa-00011111-202503-epar-scientific-conclusions-grounds-variation-terms-marketing-authorisation_en.pdf)
 
 ## Initial marketing authorisation documents
 
@@ -1088,7 +1096,7 @@ English (EN) (93.26 KB - PDF)
 
 [Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 9-12 December 2024](/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-9-12-december-2024) 13/12/2024
 
-**This page was last updated on** 10/11/2025
+**This page was last updated on** 14/01/2026
 
 ## Share this page
 

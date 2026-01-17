@@ -1,20 +1,20 @@
 ---
-document_datetime: 2025-09-25 10:40:54
+document_datetime: 2026-01-16 16:27:05
 document_pages: 34
 document_pathfilename: www.ema.europa.eu/en/documents/product-information/sugammadex-adroiq-epar-product-information_en.pdf
 document_name: sugammadex-adroiq-epar-product-information_en.pdf
 version: success
-processing_time: 9.5869893
-conversion_datetime: 2025-12-14 21:24:15.66746
+processing_time: 9.0528031
+conversion_datetime: 2026-01-17 23:26:31.701925
 docling_version:
-  docling-serve: 1.9.0
-  docling-jobkit: 1.8.0
-  docling: 2.64.1
-  docling-core: 2.55.0
+  docling-serve: 1.10.0
+  docling-jobkit: 1.8.1
+  docling: 2.68.0
+  docling-core: 2.59.0
   docling-ibm-models: 3.10.3
-  docling-parse: 4.7.2
+  docling-parse: 4.7.3
   python: cpython-313 (3.13.11)
-  plaform: macOS-26.1-arm64-arm-64bit-Mach-O
+  plaform: macOS-26.2-arm64-arm-64bit-Mach-O
 ---
 ## ANNEX I
 
@@ -28,7 +28,9 @@ Sugammadex Adroiq 100 mg/mL solution for injection
 
 ## 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-1 mL contains sugammadex sodium equivalent to 100 mg sugammadex. Each vial of 2 mL contains sugammadex sodium equivalent to 200 mg sugammadex. Each vial of 5 mL contains sugammadex sodium equivalent to 500 mg sugammadex.
+1 mL contains sugammadex sodium equivalent to 100 mg sugammadex. Each vial of 2 mL contains sugammadex sodium equivalent to 200 mg sugammadex.
+
+Each vial of 5 mL contains sugammadex sodium equivalent to 500 mg sugammadex.
 
 ## Excipients with known effect
 
@@ -100,7 +102,7 @@ After administration of sugammadex at reappearance of T2 following a rocuronium 
 
 ## Obese patients
 
-In obese patients, including morbidly obese patients (body mass index ≥ 40 kg/m 2 ), the dose of sugammadex should be based on actual body weight. The same dose recommendations as for adults should be followed.
+In obese patie nts, including morbidly obese patients (body mass index ≥ 40 kg/m 2 ), the dose of sugammadex should be based on actual body weight. The same dose recommendations as for adults should be followed.
 
 ## Hepatic impairment
 
@@ -583,7 +585,9 @@ After first opening and dilution chemical and physical in-use stability has been
 
 ## 6.4 Special precautions for storage
 
-Store below 30°C. Do not freeze. Keep the vial in the outer carton in order to protect from light. For storage conditions of the diluted medicinal product, see section 6.3.
+Store below 30°C. Do not freeze. Keep the vial in the outer carton in order to protect from light.
+
+For storage conditions of the diluted medicinal product, see section 6.3.
 
 ## 6.5 Nature and contents of container
 
@@ -640,11 +644,7 @@ Detailed information on this medicinal product is available on the website of th
 
 Name and address of the manufacturer responsible for batch release
 
-Pharma Pack Hungary Kft Vasút u. 13, Budaörs 2040 Hungary
-
 Pharma Pack Hungary Kft. Building B, Raktarvarosi Ut 9, Torokbalint, 2045 Hungary
-
-The printed package leaflet of the medicinal product must state the name and address of the manufacturer responsible for the release of the concerned batch.
 
 ## B. CONDITIONS OR RESTRICTIONS REGARDING SUPPLY AND USE
 
@@ -695,9 +695,7 @@ Each vial of 5 mL contains 500 mg sugammadex (as sugammadex sodium).
 
 ## 3. LIST OF EXCIPIENTS
 
-Other ingredients: hydrochloric acid and/or sodium hydroxide (to adjust pH), water for injections.
-
-See leaflet for further information.
+Other ingredients: hydrochloric acid and/or sodium hydroxide (to adjust pH), water for injections. See leaflet for further information.
 
 ## 4. PHARMACEUTICAL FORM AND CONTENTS
 
@@ -729,55 +727,57 @@ EXP
 
 Store below 30°C. Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
+<div style=\"page-break-after: always\"></div>
+
+10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
 Discard any unused solution.
-
-Extrovis EU Kft. Raktarvarosi Ut 9, Torokbalint, 2045 Hungary
-
-EU/1/23/1733/002
-
-Lot
-
-Justification for not including Braille accepted.
-
-2D barcode carrying the unique identifier included.
-
-PC {number} SN {number} NN {number}
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
-
-17. UNIQUE IDENTIFIER - 2D BARCODE
-
-16. INFORMATION IN BRAILLE
-
-15. INSTRUCTIONS ON USE
-
-14. GENERAL CLASSIFICATION FOR SUPPLY
-
-## 13. BATCH NUMBER
-
-## 12. MARKETING AUTHORISATION NUMBER(S)
 
 ## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+Extrovis EU Kft. Raktarvarosi Ut 9, Torokbalint, 2045 Hungary
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/23/1733/002
+
+## 13. BATCH NUMBER
+
+Lot
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+15. INSTRUCTIONS ON USE
+16. INFORMATION IN BRAILLE
+
+Justification for not including Braille accepted.
+
+17. UNIQUE IDENTIFIER - 2D BARCODE
+
+2D barcode carrying the unique identifier included.
+
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+PC {number}
+
+SN {number}
+
+NN {number}
 
 <div style=\"page-break-after: always\"></div>
 
-<div style=\"page-break-after: always\"></div>
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATEPACKAGING UNITS   |
+|-------------------------------------------------------------------|
+| VIAL LABEL, 10 x 5 mL vials                                       |
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| VIAL LABEL, 10 x 5 mLvials                                      |
-
-| 1.   | NAMEOFTHEMEDICINALPRODUCT AND ROUTE(S) OF ADMINITRATION   |
-|------|-----------------------------------------------------------|
+| 1.   | NAME OF THE MEDICINALPRODUCT AND ROUTE(S) OF ADMINITRATION   |
+|------|--------------------------------------------------------------|
 
 Sugammadex Adroiq100 mg/mL solution for injection sugammadex
 
 IV
 
-| 2. METHODOFADMINISTRATION   |
-|-----------------------------|
+| 2.   | METHOD OF ADMINISTRATION   |
+|------|----------------------------|
 
 | 3. EXPIRY DATE   |
 |------------------|
@@ -789,8 +789,8 @@ EXP
 
 Lot
 
-| 5. CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------------------------------------------|
+| 5. CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|-----------------------------------------------|
 
 500 mg/5 mL
 
@@ -847,52 +847,55 @@ EXP
 
 Store below 30°C. Do not freeze. Keep the vial in the outer carton in order to protect from light.
 
-<div style=\"page-break-after: always\"></div>
-
-## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
-
 Discard any unused solution.
-
-## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
 
 Extrovis EU Kft. Raktarvarosi Ut 9, Torokbalint, 2045 Hungary
 
-## 12. MARKETING AUTHORISATION NUMBER(S)
-
 EU/1/23/1733/001
-
-## 13. BATCH NUMBER
 
 Lot
 
-14. GENERAL CLASSIFICATION FOR SUPPLY
-15. INSTRUCTIONS ON USE
-16. INFORMATION IN BRAILLE
-
 Justification for not including Braille accepted.
 
-17. UNIQUE IDENTIFIER - 2D BARCODE
-2. 2D barcode carrying the unique identifier included.
-
-## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+- 2D barcode carrying the unique identifier included.
 
 PC {number} SN {number} NN {number}
 
+## 18. UNIQUE IDENTIFIER - HUMAN READABLE DATA
+
+17. UNIQUE IDENTIFIER - 2D BARCODE
+
+16. INFORMATION IN BRAILLE
+
+15. INSTRUCTIONS ON USE
+
+14. GENERAL CLASSIFICATION FOR SUPPLY
+
+## 13. BATCH NUMBER
+
+## 12. MARKETING AUTHORISATION NUMBER(S)
+
+## 11. NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER
+
+## 10. SPECIAL PRECAUTIONS FOR DISPOSAL OF UNUSED MEDICINAL PRODUCTS OR WASTE MATERIALS DERIVED FROM SUCH MEDICINAL PRODUCTS, IF APPROPRIATE
+
 <div style=\"page-break-after: always\"></div>
 
-| MINIMUM PARTICULARS TO APPEAR ONSMALLIMMEDIATEPACKAGING UNITS   |
-|-----------------------------------------------------------------|
-| VIAL LABEL, 10 x 2 mLvials                                      |
+<div style=\"page-break-after: always\"></div>
 
-| 1.   | NAMEOFTHEMEDICINALPRODUCT AND ROUTE(S) OF ADMINITRATION   |
-|------|-----------------------------------------------------------|
+| MINIMUM PARTICULARS TO APPEAR ON SMALL IMMEDIATEPACKAGING UNITS   |
+|-------------------------------------------------------------------|
+| VIAL LABEL, 10 x 2 mL vials                                       |
+
+| 1.   | NAME OF THE MEDICINALPRODUCT AND ROUTE(S) OF ADMINITRATION   |
+|------|--------------------------------------------------------------|
 
 Sugammadex Adroiq100 mg/mL solution for injection sugammadex
 
 IV
 
-| 2. METHODOFADMINISTRATION   |
-|-----------------------------|
+| 2. METHOD OF ADMINISTRATION   |
+|-------------------------------|
 
 | 3. EXPIRY DATE   |
 |------------------|
@@ -904,8 +907,8 @@ EXP
 
 Lot
 
-| 5.   | CONTENTS BY WEIGHT,BYVOLUMEORBYUNIT   |
-|------|---------------------------------------|
+| 5.   | CONTENTS BY WEIGHT, BY VOLUME OR BY UNIT   |
+|------|--------------------------------------------|
 
 200 mg/2 mL
 
@@ -980,7 +983,8 @@ This medicine is not recommended for infants less than 2 years of age.
 
 ## Some medicines reduce the effect of Sugammadex Adroiq
 
-- → It is especially important that you tell your anaesthetist if you have recently taken:
+→ It is especially important that you tell your anaesthetist if you have recently taken:
+
 - toremifene (used to treat breast cancer).
 - fusidic acid (an antibiotic).
 
@@ -996,9 +1000,9 @@ In general, Sugammadex Adroiq does not have an effect on laboratory tests. Howev
 
 ## Pregnancy and breast-feeding
 
-- → Tell your anaesthetist if you are pregnant or might be pregnant or if you are breast-feeding. You may still be given Sugammadex Adroiq, but you need to discuss it first. It is not known whether sugammadex can pass into breast milk. Your anaesthetist will help you decide
+- → Tell your anaesthetist if you are pregnant or might be pregnant or if you are breast-feeding. You may still be given Sugammadex Adroiq, but you need to discuss it first.
 
-whether to stop breast-feeding, or whether to abstain from sugammadex therapy, considering the benefit of breast-feeding to the baby and the benefit of Sugammadex Adroiq to the mother.
+It is not known whether sugammadex can pass into breast milk. Your anaesthetist will help you decide whether to stop breast-feeding, or whether to abstain from sugammadex therapy, considering the benefit of breast-feeding to the baby and the benefit of Sugammadex Adroiq to the mother.
 
 ## Driving and using machines
 
@@ -1081,8 +1085,7 @@ After first opening and dilution, store at 2 to 8°C and use within 24 hours.
 ## What Sugammadex Adroiq contains
 
 - -The active substance is sugammadex.
-- 1 mL solution for injection contains sugammadex sodium equivalent to 100 mg sugammadex.
-- Each vial of 2 mL contains sugammadex sodium equivalent to 200 mg sugammadex. Each vial of 5 mL contains sugammadex sodium equivalent to 500 mg sugammadex.
+- 1 mL solution for injection contains sugammadex sodium equivalent to 100 mg sugammadex. Each vial of 2 mL contains sugammadex sodium equivalent to 200 mg sugammadex. Each vial of 5 mL contains sugammadex sodium equivalent to 500 mg sugammadex.
 - -The other ingredients are water for injections, hydrochloric acid and/or sodium hydroxide (for pH adjustment).
 - -See section 2 'Sugammadex Adroiq contains sodium'.
 
@@ -1100,8 +1103,6 @@ Extrovis EU Kft. Raktarvarosi Ut 9, Torokbalint, 2045 Hungary
 
 ## Manufacturer
 
-Pharma Pack Hungary Kft Vasút u. 13, Budaörs 2040 Hungary
-
 Pharma Pack Hungary Kft. Building B, Raktarvarosi Ut 9, Torokbalint, 2045 Hungary
 
 For any information about this medicine, please contact the local representative of the Marketing Authorisation Holder:
@@ -1112,9 +1113,7 @@ Lietuva Extrovis EU Kft. Tel: +41 41 740 1120 pv@extrovis.com
 
 България Extrovis EU Kft. Te л .: +41 41 740 1120 pv@extrovis.com
 
-## Luxembourg/Luxemburg
-
-Extrovis EU Kft. Tél/Tel: +41 41 740 1120 pv@extrovis.com
+Luxembourg/Luxemburg Extrovis EU Kft. Tél/Tel: +41 41 740 1120 pv@extrovis.com
 
 <div style=\"page-break-after: always\"></div>
 
@@ -1162,6 +1161,8 @@ Italia Extrovis EU Kft. Tel: +41 41 740 1120
 
 pv@extrovis.com
 
+Κύπρος
+
 Magyarország Extrovis EU Kft. Tel.: +41 41 740 1120
 
 pv@extrovis.com
@@ -1206,13 +1207,17 @@ Suomi/Finland Mashal Healthcare A/S Puh/Tel: +45 71 86 37 68
 
 faiza.siddiqui@mashal-healthcare.com
 
+Sverige
+
 33
+
+Extrovis EU Kft. Τηλ: +41 41 740 1120 pv@extrovis.com
 
 <div style=\"page-break-after: always\"></div>
 
-Κύπρος Extrovis EU Kft. Τηλ: +41 41 740 1120 pv@extrovis.com
+## Latvija
 
-Latvija Extrovis EU Kft. Tel: +41 41 740 1120 pv@extrovis.com
+Extrovis EU Kft. Tel: +41 41 740 1120 pv@extrovis.com
 
 ## This leaflet was last revised in.
 
@@ -1220,6 +1225,6 @@ Latvija Extrovis EU Kft. Tel: +41 41 740 1120 pv@extrovis.com
 
 Detailed information on this medicine is available on the European Medicines Agency web site: http://www.ema.europa.eu/.
 
-Sverige Mashal Healthcare A/S Tel: +45 71 86 37 68
+Mashal Healthcare A/S Tel: +45 71 86 37 68
 
 faiza.siddiqui@mashal-healthcare.com
